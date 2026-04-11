@@ -1,0 +1,40 @@
+{
+  "title": "Nonpersistent Inequality in Educational Attainment: Evidence from Eight European Countries",
+  "abstract": "In their widely cited study, Shavit and Blossfeld report stability of socioeconomic inequalities in educational attainment over much of the 20th century in 11 out of 13 countries. This article outlines reasons why one might expect to find declining class inequalities in educational attainment, and, using a large data set, the authors analyze educational inequality among cohorts born in the first two-thirds of the 20th century in eight European countries. They find, as expected, a widespread decline in educational inequality between students coming from different social origins. Their results are robust to other possible choices of method and variables, and the authors offer some explanations of why their findings contradict Shavit and Blossfeld's conclusions.",
+  "authors": [
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    },
+    {
+      "raw": "Luijkx, Ruud",
+      "family": "Luijkx",
+      "given": "Ruud"
+    },
+    {
+      "raw": "Muller, Walter",
+      "family": "Muller",
+      "given": "Walter"
+    },
+    {
+      "raw": "Pollak, Reinhard",
+      "family": "Pollak",
+      "given": "Reinhard"
+    }
+  ],
+  "authors_text": "Breen, Richard; Luijkx, Ruud; Muller, Walter; Pollak, Reinhard",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2009,
+  "doi": "10.1086/595951",
+  "doi_url": "https://doi.org/10.1086/595951",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F595951",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/595951.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

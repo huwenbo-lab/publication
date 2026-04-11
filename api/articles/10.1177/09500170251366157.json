@@ -1,0 +1,35 @@
+{
+  "title": "Disaggregating Gender Income Disparities in STEM: Cohort and Family Factors in a Nordic Welfare State",
+  "abstract": "The article examines the income trajectories of women and men in STEM (science, technology, engineering and mathematics) in Finland, a country within the Nordic labour market context that strives for gender equality. The study uses total population register data from Finnish STEM degree holders with at least a bachelor’s degree, aged 30–40 years, selecting cohorts born in 1960, 1965, 1970, 1975 and 1980 ( N = 31,865). This study estimates how cohort, becoming a parent, and co-residing with a spouse affect income trajectories for women and men. The findings reveal persistent gender income disparities across cohorts, with economic turbulence potentially widening the differences. The results support the motherhood penalty and, unexpectedly, address a ‘living-alone penalty’ for men. Even with a design examining STEM graduates at the same career stage, gender differences remain significant and are not alleviated by the Nordic welfare state context.",
+  "authors": [
+    {
+      "raw": "Bairoh, Susanna",
+      "family": "Bairoh",
+      "given": "Susanna"
+    },
+    {
+      "raw": "Pyöriä, Satu",
+      "family": "Pyöriä",
+      "given": "Satu"
+    },
+    {
+      "raw": "Mäkinen, Niklas",
+      "family": "Mäkinen",
+      "given": "Niklas"
+    }
+  ],
+  "authors_text": "Bairoh, Susanna; Pyöriä, Satu; Mäkinen, Niklas",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2025,
+  "doi": "10.1177/09500170251366157",
+  "doi_url": "https://doi.org/10.1177/09500170251366157",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170251366157",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170251366157.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

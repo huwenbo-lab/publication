@@ -1,0 +1,30 @@
+{
+  "title": "Health Measurement in Population Surveys: Combining Information from Self-reported and Observer-Measured Health Indicators",
+  "abstract": "AbstractOur primary aim is to develop and validate a population health metric for survey-based health assessment that combines information from both self-reported and observer-measured health indicators. A secondary objective is to use this index to examine gender and socioeconomic differentials in the health status of older people. We use data from the second wave of the English Longitudinal Study of Ageing (ELSA) conducted in 2004 (N = 8,870). Information from three observer-measured and three self-reported health indicators was combined, using a latent variable modeling approach. A model that decomposed the manifest health indicators to valid health, systematic error, and random error was found to fit the data best. The latent health dimension represented somatic health, and was tested against three external criteria: height, waist-hip ratio, and smoking status. We present the Latent Index of Somatic Health (LISH), as well as a procedure for deriving the LISH in surveys employing both self- and observer-measured health indicators. Observer-measured and self-reported indicators were found to be equally biased in indexing population somatic health, with the exception of self-reports of functional limitations, which was the most reliable somatic health indicator. As expected, results showed that women had worse health than men and that socioeconomic advantage is associated with better somatic health.",
+  "authors": [
+    {
+      "raw": "Ploubidis, George B.",
+      "family": "Ploubidis",
+      "given": "George B."
+    },
+    {
+      "raw": "Grundy, Emily",
+      "family": "Grundy",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Ploubidis, George B.; Grundy, Emily",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0028-1",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0028-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0028-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0028-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

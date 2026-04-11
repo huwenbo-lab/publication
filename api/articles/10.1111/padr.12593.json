@@ -1,0 +1,30 @@
+{
+  "title": "The Gendered Impacts of Partnership and Parenthood on Paid Work and Unpaid Work Time in Great Britain, 1992-2019",
+  "abstract": "Using data from the British Household Panel Study and the UK Household Longitudinal Study (1992-2019), this study investigates the impacts of partnership and parenthood on women's and men's paid work and unpaid work time and how these impacts have changed in the last three decades in Great Britain. We applied two fixed-effect models-one conventional, one novel-with individual constants and slopes to account for the selection and longitudinal changes in time use. We found that the gender-traditionalizing effect of partnership on the use of time has weakened over the years. Marriage did not affect women's and men's paid work time, and since the 2010s, marriage no longer affect women's and men's time spent on housework differently. However, motherhood continues to reduce women's paid work time substantially, and the extent of this impact has remained unchanged over the previous three decades. Partnership and parenthood have resulted in minor changes to men's paid work and unpaid work time; the extent of their effects has likewise remained modest over the previous three decades. Our findings suggest that in Britain, the gender revolution of the division of labor among parents has stalled, and family policies have not successfully increased mothers' paid work time and fathers' unpaid work time.",
+  "authors": [
+    {
+      "raw": "Zhou, Muzhi",
+      "family": "Zhou",
+      "given": "Muzhi"
+    },
+    {
+      "raw": "Kan, Man-Yee",
+      "family": "Kan",
+      "given": "Man-Yee"
+    }
+  ],
+  "authors_text": "Zhou, Muzhi; Kan, Man-Yee",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2023,
+  "doi": "10.1111/padr.12593",
+  "doi_url": "https://doi.org/10.1111/padr.12593",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12593",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12593.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

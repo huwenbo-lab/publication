@@ -1,0 +1,55 @@
+{
+  "title": "Book Reviews",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "JAMES, STANLIE M.",
+      "family": "JAMES",
+      "given": "STANLIE M."
+    },
+    {
+      "raw": "MASSONI, KELLEY",
+      "family": "MASSONI",
+      "given": "KELLEY"
+    },
+    {
+      "raw": "McCAUGHEY, MARTHA",
+      "family": "McCAUGHEY",
+      "given": "MARTHA"
+    },
+    {
+      "raw": "MOORE, HELEN A.",
+      "family": "MOORE",
+      "given": "HELEN A."
+    },
+    {
+      "raw": "VAN WAGENEN, AIMEE",
+      "family": "VAN WAGENEN",
+      "given": "AIMEE"
+    },
+    {
+      "raw": "ATASOY, YILDIZ",
+      "family": "ATASOY",
+      "given": "YILDIZ"
+    },
+    {
+      "raw": "KIM, MIKYOUNG",
+      "family": "KIM",
+      "given": "MIKYOUNG"
+    }
+  ],
+  "authors_text": "JAMES, STANLIE M.; MASSONI, KELLEY; McCAUGHEY, MARTHA; MOORE, HELEN A.; VAN WAGENEN, AIMEE; ATASOY, YILDIZ; KIM, MIKYOUNG",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2002,
+  "doi": "10.1177/0891243202016005010",
+  "doi_url": "https://doi.org/10.1177/0891243202016005010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243202016005010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243202016005010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

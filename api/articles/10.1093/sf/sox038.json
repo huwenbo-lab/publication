@@ -1,0 +1,30 @@
+{
+  "title": "Heterogeneity in the Relationship between Country-Level Affluence and Environmental Concern",
+  "abstract": "Despite sustained attention, scholars disagree about the relationship between country-level affluence and the environmental concern of mass publics. While many studies assume this relationship to be uniform, we argue that it is reasonable to expect meaningful variation in the association between country-level affluence and concern across countries with different levels of wealth. We place this idea at the center of our analyses. To do so, we assess public willingness to pay for environmental protection using five waves of World Values Survey data, examining 101 country-years nested in forty-two countries spanning nineteen years. Results from mixed-effects logistic and linear regression models reveal substantial heterogeneity in the association between environmental concern and country-level affluence. We find that growth in affluence over time associates with higher mass environmental concern, but only among less affluent countries. In contrast, countries that are on average more affluent tend to have lower environmental concern, but again, this relationship is primarily concentrated among less affluent countries. Although a variety of theories can be usefully applied to particular relationships occurring along the range of affluence, we argue that degradation theories go far in explaining the heterogeneous associations uncovered between environmental concern and country-level affluence. That associations are largely concentrated among less affluent countries has implications for the understanding of environmental concern in wealthy countries and the development of policy to address environmental reform. These issues are discussed in the conclusion.",
+  "authors": [
+    {
+      "raw": "Summers, Nik",
+      "family": "Summers",
+      "given": "Nik"
+    },
+    {
+      "raw": "VanHeuvelen, Tom",
+      "family": "VanHeuvelen",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "Summers, Nik; VanHeuvelen, Tom",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox038",
+  "doi_url": "https://doi.org/10.1093/sf/sox038",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox038",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox038.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

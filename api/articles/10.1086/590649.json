@@ -1,0 +1,30 @@
+{
+  "title": "Partisans without Constraint: Political Polarization and Trends in American Public Opinion",
+  "abstract": "Public opinion polarization is here conceived as a process of alignment along multiple lines of potential disagreement and measured as growing constraint in individuals' preferences. Using NES data from 1972 to 2004, the authors model trends in issue partisanship the correlation of issue attitudes with party identification-and issue alignment-the correlation between pairs of issues-and find a substantive increase in issue partisanship, but little evidence of issue alignment. The findings suggest that opinion changes correspond more to a resorting of party labels among voters than to greater constraint on issue attitudes: since parties are more polarized, they are now better at sorting individuals along ideological lines. Levels of constraint vary across population subgroups: strong partisans and wealthier and politically sophisticated voters have grown more coherent in their beliefs. The authors discuss the consequences of partisan realignment and group sorting on the political process and potential deviations from the classic pluralistic account of American politics.",
+  "authors": [
+    {
+      "raw": "Baldassarri, Delia",
+      "family": "Baldassarri",
+      "given": "Delia"
+    },
+    {
+      "raw": "Gelman, Andrew",
+      "family": "Gelman",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Baldassarri, Delia; Gelman, Andrew",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2008,
+  "doi": "10.1086/590649",
+  "doi_url": "https://doi.org/10.1086/590649",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F590649",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/590649.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

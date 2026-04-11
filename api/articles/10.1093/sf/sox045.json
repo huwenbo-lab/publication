@@ -1,0 +1,35 @@
+{
+  "title": "National Trauma and the Fear of Foreigners: How Past Geopolitical Threat Heightens Anti-Immigration Sentiment Today",
+  "abstract": "This paper introduces a historical, macro-political argument into the literature on anti-immigration sentiment, which has mainly considered individual-level predictors such as education or social capital as well as country-level factors such as fluctuations in labor market conditions, changing composition of immigration streams, or the rise of populist parties. We argue that past geopolitical competition and war have shaped how national identities formed and thus also contemporary attitudes toward newcomers: countries that have experienced more violent conflict or lost territory and sovereignty developed ethnic (rather than civic) forms of nationalism and thus show higher levels of anti-immigration sentiment today. We introduce a geopolitical threat scale and score 33 European countries based on their historical experiences. Two anti-immigration measures come from the European Social Survey. Mixed-effects, ordinal logistic regression models reveal strong statistical and substantive significance for the geopolitical threat scale. Furthermore, ethnic forms of national identification do seem to mediate this relationship between geopolitical threat and restrictionist attitudes. The main analysis is robust to a wide variety of model specifications, to the inclusion of all control variables known to affect anti-immigration attitudes, and to a series of alternative codings of the geopolitical threat scale.",
+  "authors": [
+    {
+      "raw": "Hiers, Wesley",
+      "family": "Hiers",
+      "given": "Wesley"
+    },
+    {
+      "raw": "Soehl, Thomas",
+      "family": "Soehl",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Wimmer, Andreas",
+      "family": "Wimmer",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Hiers, Wesley; Soehl, Thomas; Wimmer, Andreas",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox045",
+  "doi_url": "https://doi.org/10.1093/sf/sox045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

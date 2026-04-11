@@ -1,0 +1,35 @@
+{
+  "title": "Household production and consumption over the life cycle: National Time Transfer Accounts in 14 European countries",
+  "abstract": "BACKGROUND While the importance of unpaid household labour is recognised in total economic output, little is known about the demographics of household production and consumption. OBJECTIVE Our goal is to give a comprehensive estimation on the value of household production and its consumption by age and gender and analyse nonmarket economic transfers in 14 European countries based on publicly available harmonised data. METHODS We introduce a novel imputation method of harmonised European time use (HETUS) data to the European Union Statistics on Income and Living Conditions (EU-SILC) in order to assign time spent on home production to consumers in households and estimate time transfers. Moreover, monetary values are attributed to household production activities using data on earnings from the Structure of Earnings Survey (SES). RESULTS We show that the nonmarket economic life cycle of men differs from that of women. The gender gap in household production is not evenly distributed over the life cycle. Women of working age contribute the most in net terms, while the main beneficiaries of household goods and services are children and to a lesser extent adult men. These patterns are similar across countries, with variations in the gender-and age-specific levels of home production and consumption. CONCLUSIONS In Europe, in the national economy, intergenerational flows are important in sustaining both childhood and old age. In contrast, in the household economy, intergenerational transfers flow mostly towards children. CONTRIBUTION We add a new focus to the research on household production: While keeping the gender aspect, we demonstrate the importance of the life cycle component in household production.",
+  "authors": [
+    {
+      "raw": "Vargha, Lili",
+      "family": "Vargha",
+      "given": "Lili"
+    },
+    {
+      "raw": "Gal, Robert Ivan",
+      "family": "Gal",
+      "given": "Robert Ivan"
+    },
+    {
+      "raw": "Crosby-Nagy, Michelle O.",
+      "family": "Crosby-Nagy",
+      "given": "Michelle O."
+    }
+  ],
+  "authors_text": "Vargha, Lili; Gal, Robert Ivan; Crosby-Nagy, Michelle O.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.32",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

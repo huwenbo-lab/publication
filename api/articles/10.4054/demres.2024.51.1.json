@@ -1,0 +1,30 @@
+{
+  "title": "Developing and implementing the UN's probabilistic population projections as a milestone for Bayesian demography: An interview with Adrian Raftery",
+  "abstract": "BACKGROUND Population projections for all countries are published by the United Nations Population Division (UNPD) every two years as part of the World Population Prospects (WPP). Since 2015, probabilistic population projections have been published as part of WPP, produced using Bayesian statistical models. Central to this methodological change was a team of statisticians at the University of Washington, led by Professor Adrian Raftery. OBJECTIVE This interview with Adrian Raftery details the history of the UNPD WPP probabilistic population projections, including how the project started, the methodological challenges, main takeaways and lessons, and priorities for future research. CONTRIBUTION This interview contributes to the record of scientific thought and the advancement of methodology in demographic research. It demonstrates the evolution of a successful scientific project with large scientific impact and a broader influence on the field of Bayesian demography.",
+  "authors": [
+    {
+      "raw": "Alexander, Monica",
+      "family": "Alexander",
+      "given": "Monica"
+    },
+    {
+      "raw": "Raftery, Adrian E.",
+      "family": "Raftery",
+      "given": "Adrian E."
+    }
+  ],
+  "authors_text": "Alexander, Monica; Raftery, Adrian E.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.1",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Family histories and the demography of grandparenthood",
+  "abstract": "BACKGROUND Grandparenthood is an important phase of life for many individuals, and the grandparent role has consequences on younger generations and grandparents themselves. OBJECTIVE Despite the importance of the grandparent role, little is known about the demography of grandparenthood. In this study, we examine the variability of demographic aspects of grandparenthood (being a grandparent, number of grandchildren, having at least one young grandchild) according to family (partnership and fertility) histories. METHODS Using retrospective data from the Survey of Health, Ageing and Retirement in Europe (SHARE), we employ sequence and cluster analyses to group individuals according to similar patterns of fertility and partnership histories observed between age 15 and 49. In a second step, we use logistic and Poisson regressions to quantify how demographic aspects of grandparenthood vary across the identified family clusters at different ages and by gender. RESULTS Family histories are greatly heterogeneous with respect to timing, quantum, and probability of experiencing certain events. This heterogeneity is reflected in a strong variability in the probability of having (young) grandchildren and their number at different ages across the clusters of family trajectories. CONTRIBUTION We provide a detailed profile of three demographic characteristics of grandparenthood that significantly influence the opportunity structure for the development of the grandparent role. Our study quantifies considerable heterogeneities in the demography of grandparenthood according to different typologies of family histories and has important implications for the understanding of current and possible future developments of the grandparent role.",
+  "authors": [
+    {
+      "raw": "Arpino, Bruno",
+      "family": "Arpino",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Guma, Jordi",
+      "family": "Guma",
+      "given": "Jordi"
+    },
+    {
+      "raw": "Julia, Albert",
+      "family": "Julia",
+      "given": "Albert"
+    }
+  ],
+  "authors_text": "Arpino, Bruno; Guma, Jordi; Julia, Albert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.42",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.42",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.42",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.42.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

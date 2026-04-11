@@ -1,0 +1,35 @@
+{
+  "title": "Potential (Mis)match? Marriage Markets Amidst Sociodemographic Change in India, 2005-2050",
+  "abstract": "We explore the impact of sociodemographic change on marriage patterns in India by examining the hypothetical consequences of applying three sets of marriage pairing propensities-contemporary patterns by age, contemporary patterns by age and education, and changing propensities that allow for greater educational homogamy and reduced educational asymmetries-to future population projections. Future population prospects for India indicate three trends that will impact marriage patterns: (1) female deficit in sex ratios at birth; (2) declining birth cohort size; (3) female educational expansion. Existing literature posits declining marriage rates for men arising from skewed sex ratios at birth (SRBs) in India's population. In addition to skewed SRBs, India's population will experience female educational expansion in the coming decades. Female educational expansion and its impact on marriage patterns must be jointly considered with demographic changes, given educational differences and asymmetries in union formation that exist in India, as across much of the world. We systematize contemporary pairing propensities using data from the 2005-2006 Indian National Family Health Survey and the 2004 Socio-Economic Survey and apply these and the third set of changing propensities to multistate population projections by educational attainment using an iterative longitudinal projection procedure. If today's age patterns of marriage are viewed against age/sex population composition until 2050, men experience declining marriage prevalence. However, when education is included, women-particularly those with higher education-experience a more salient rise in nonmarriage. Significant changes in pairing patterns toward greater levels of educational homogamy and gender symmetry can counteract a marked rise in nonmarriage.",
+  "authors": [
+    {
+      "raw": "Kashyap, Ridhi",
+      "family": "Kashyap",
+      "given": "Ridhi"
+    },
+    {
+      "raw": "Esteve, Albert",
+      "family": "Esteve",
+      "given": "Albert"
+    },
+    {
+      "raw": "Garcia-Roman, Joan",
+      "family": "Garcia-Roman",
+      "given": "Joan"
+    }
+  ],
+  "authors_text": "Kashyap, Ridhi; Esteve, Albert; Garcia-Roman, Joan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-014-0366-x",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0366-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0366-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0366-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

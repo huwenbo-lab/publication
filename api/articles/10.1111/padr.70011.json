@@ -1,0 +1,35 @@
+{
+  "title": "Spatial Dependence of European Immigration Flows",
+  "abstract": "Europe has emerged as a prime destination for global migration. Although drivers of European migration are well-researched, the patterns and spatial dynamics of these bilateral migration flows are less understood. This study investigates the spatial clustering of bilateral migration flows to EU destinations, considering factors like geographic and linguistic proximity between origin and destination countries. We also explore how migration clusters evolve over time, highlighting the spatial dimension of cumulative causation in shaping migration patterns. The findings reveal significant variation in spatial dependence across different legal migration categories. Although all regular migration pathways demonstrate some degree of spatial dependence, the intensity varies considerably. Asylum migration exhibits the strongest spatial dependence among geographically proximate origin countries, followed by educational migration of students. Conversely, family and labor migration flows show the lowest levels of spatial dependence, though linguistic proximity is an important linking factor in these categories. These results underscore the substantial impact of spatial interdependencies and cumulative causation in shaping migration flows. Policymakers should account for these mechanisms when designing strategies to influence migration. Understanding these spatial dynamics is essential for explaining the often limited effectiveness of policies targeting interdependent and often integrated international migration processes.",
+  "authors": [
+    {
+      "raw": "Czaika, Mathias",
+      "family": "Czaika",
+      "given": "Mathias"
+    },
+    {
+      "raw": "Bohnet, Heidrun",
+      "family": "Bohnet",
+      "given": "Heidrun"
+    },
+    {
+      "raw": "Soto-Nishimura, Akira",
+      "family": "Soto-Nishimura",
+      "given": "Akira"
+    }
+  ],
+  "authors_text": "Czaika, Mathias; Bohnet, Heidrun; Soto-Nishimura, Akira",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70011",
+  "doi_url": "https://doi.org/10.1111/padr.70011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

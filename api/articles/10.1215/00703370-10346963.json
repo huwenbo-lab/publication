@@ -1,0 +1,45 @@
+{
+  "title": "Outside the Skin: The Persistence of Black-White Disparities in US Early-Life Mortality",
+  "abstract": "Research on Black-White disparities in mortality emphasizes the cumulative pathways through which racism gets under the skin to affect health. Yet this framing is less applicable in early life, when death is primarily attributable to external causes rather than cumulative, biological processes. We use mortality data from the National Vital Statistics System Multiple Cause of Death files and population counts from the Surveillance, Epidemiology, and End Result Program to analyze 705,801 deaths among Black and White males and females, ages 15-24. We estimate age-standardized death rates and single-decrement life tables to show how all- cause and cause-specific mortality changed from 1990 to 2016 by race and sex. Despite overall declines in early-life mortality, Black-White disparities remain unchanged across several causes-especially homicide, for which mortality is nearly 20 times as high among Black as among White males. Suicide and drug-related deaths are higher among White youth during this period, yet their impact on life expectancy at birth is less than half that of homicide among Black youth. Critically, early-life disparities are driven by preventable causes of death whose impact occurs outside the skin, reflecting racial differences in social exposures and experiences that prove harmful for both Black and White adolescents and young adults.",
+  "authors": [
+    {
+      "raw": "Tilstra, Andrea M.",
+      "family": "Tilstra",
+      "given": "Andrea M."
+    },
+    {
+      "raw": "Gutin, Iliya",
+      "family": "Gutin",
+      "given": "Iliya"
+    },
+    {
+      "raw": "Dollar, Nathan T.",
+      "family": "Dollar",
+      "given": "Nathan T."
+    },
+    {
+      "raw": "Rogers, Richard G.",
+      "family": "Rogers",
+      "given": "Richard G."
+    },
+    {
+      "raw": "Hummer, Robert A.",
+      "family": "Hummer",
+      "given": "Robert A."
+    }
+  ],
+  "authors_text": "Tilstra, Andrea M.; Gutin, Iliya; Dollar, Nathan T.; Rogers, Richard G.; Hummer, Robert A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10346963",
+  "doi_url": "https://doi.org/10.1215/00703370-10346963",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10346963",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10346963.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

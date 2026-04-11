@@ -1,0 +1,60 @@
+{
+  "title": "Genetic Influences on Educational Achievement in Cross-National Perspective",
+  "abstract": "There is a growing interest in how social conditions moderate genetic influences on education [gene-environment interactions (GxE)]. Previous research has focused on the family, specifically parents' social background, and has neglected the institutional environment. To assess the impact of macro-level influences, we compare genetic influences on educational achievement and their social stratification across Germany, Norway, Sweden, and the United States. We combine well-established GxE-conceptualizations with the comparative stratification literature and propose that educational systems and welfare-state regimes affect the realization of genetic potential. We analyse population-representative survey data on twins (Germany and the United States) and twin registers (Norway and Sweden), and estimate genetically sensitive variance decomposition models. Our comparative design yields three main findings. First, Germany stands out with comparatively weak genetic influences on educational achievement suggesting that early tracking limits the realization thereof. Second, in the United States genetic influences are comparatively strong and similar in size compared to the Nordic countries. Third, in Sweden genetic influences are stronger among disadvantaged families supporting the expectation that challenging and uncertain circumstances promote genetic expression. This ideosyncratic finding must be related to features of Swedish social institutions or welfare-state arrangements that are not found in otherwise similar countries.",
+  "authors": [
+    {
+      "raw": "Baier, Tina",
+      "family": "Baier",
+      "given": "Tina"
+    },
+    {
+      "raw": "Lang, Volker",
+      "family": "Lang",
+      "given": "Volker"
+    },
+    {
+      "raw": "Gratz, Michael",
+      "family": "Gratz",
+      "given": "Michael"
+    },
+    {
+      "raw": "Barclay, Kieron J.",
+      "family": "Barclay",
+      "given": "Kieron J."
+    },
+    {
+      "raw": "Conley, Dalton C.",
+      "family": "Conley",
+      "given": "Dalton C."
+    },
+    {
+      "raw": "Dawes, Christopher T.",
+      "family": "Dawes",
+      "given": "Christopher T."
+    },
+    {
+      "raw": "Laidley, Thomas",
+      "family": "Laidley",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Lyngstad, Torkild H.",
+      "family": "Lyngstad",
+      "given": "Torkild H."
+    }
+  ],
+  "authors_text": "Baier, Tina; Lang, Volker; Gratz, Michael; Barclay, Kieron J.; Conley, Dalton C.; Dawes, Christopher T.; Laidley, Thomas; Lyngstad, Torkild H.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcac014",
+  "doi_url": "https://doi.org/10.1093/esr/jcac014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

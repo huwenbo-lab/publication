@@ -1,0 +1,35 @@
+{
+  "title": "In the shade of a forest status, reputation, and ambiguity in an online microcredit market",
+  "abstract": "Scholars have long recognized status and reputation as pervasive forces reproducing comparative advantage in social and economic systems. Yet, due in part to methodological challenges, relatively few studies have examined how status and reputation interact. We use data from an online market for peer-to-peer lending to study independent and joint effects of status and reputation on borrowers' success at obtaining loans. First, we find a positive main effect of status, even when reputational signals are reliable and abundant. Second, we find that status matters the most for borrowers with moderate (rather than high or low) reputations, suggesting a curvilinear effect of status x reputation on loans. These results support the idea that status matters not only under conditions of too little information that creates information asymmetry, as typically assumed, but also under conditions of abundant information and too many choices that creates ambiguity about how to evaluate candidates. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Kuwabara, Ko",
+      "family": "Kuwabara",
+      "given": "Ko"
+    },
+    {
+      "raw": "Anthony, Denise",
+      "family": "Anthony",
+      "given": "Denise"
+    },
+    {
+      "raw": "Horne, Christine",
+      "family": "Horne",
+      "given": "Christine"
+    }
+  ],
+  "authors_text": "Kuwabara, Ko; Anthony, Denise; Horne, Christine",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.09.027",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.09.027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.09.027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.09.027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

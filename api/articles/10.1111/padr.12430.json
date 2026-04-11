@@ -1,0 +1,40 @@
+{
+  "title": "Educational Gender Inequality in Sub-Saharan Africa: A Long-Term Perspective",
+  "abstract": "To what extent did sub-Saharan Africa's twentieth century schooling revolution benefit boys and girls equally? Using census data and a cohort approach, we examine gender gaps in years of education over the twentieth century at world region, country and district levels. First, we find that compared to other developing regions, Africa had a small initial educational gender gap but subsequently made the least progress in closing the gap. Second, in most of the 21 African countries studied, gender gaps increased during most of the colonial era (ca. 1880-1960) and declined, albeit at different rates, after independence. At the world region and country level, the expansion of men's education was initially associated with a growing gender gap, and subsequently a decline, a pattern we refer to as educational gender Kuznets curve. Third, using data from six decadal cohorts across 1,177 birth districts, we explore subnational correlates of educational gender inequality. This confirms the inverse-U relationship between the gender gap and male education. We also find that districts with railroads, more urbanization and early twentieth century Christian missions witnessed lower attainment gaps. We find no evidence that cash crop cultivation, agricultural division of labor or family systems were linked to gender gaps.",
+  "authors": [
+    {
+      "raw": "Baten, Joerg",
+      "family": "Baten",
+      "given": "Joerg"
+    },
+    {
+      "raw": "De Haas, Michiel",
+      "family": "De Haas",
+      "given": "Michiel"
+    },
+    {
+      "raw": "Kempter, Elisabeth",
+      "family": "Kempter",
+      "given": "Elisabeth"
+    },
+    {
+      "raw": "Zu Selhausen, Felix Meier",
+      "family": "Zu Selhausen",
+      "given": "Felix Meier"
+    }
+  ],
+  "authors_text": "Baten, Joerg; De Haas, Michiel; Kempter, Elisabeth; Zu Selhausen, Felix Meier",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2021,
+  "doi": "10.1111/padr.12430",
+  "doi_url": "https://doi.org/10.1111/padr.12430",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12430",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12430.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

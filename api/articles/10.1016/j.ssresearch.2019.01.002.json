@@ -1,0 +1,35 @@
+{
+  "title": "Support of workplace diversity policies: The role of race, gender, and beliefs about inequality",
+  "abstract": "Workplace diversity policies are more effective when they are supported by managers and workers, but there is little direct evidence on how people feel about these policies or why they hold certain opinions. In this study, we analyze data from a survey experiment designed to assess public opinion about a range of workplace diversity policies. We examine how support for these policies among employed respondents varies by race, gender, and by the targeted population (i.e. whether the policies aim to improve the workplace representation of women or racial minorities). Using OLS regression models to analyze a diverse sample of employed persons participating in the survey, we find that women, blacks, and Latina/os are more supportive of diversity policies than men and whites, and a substantial portion of these gender/race differences can be explained by group-differences in the belief that discrimination causes inequality. In addition, we find that respondents report lower levels of support for workplace policies when these policies are framed as a mechanism to increase diversity than when they are framed as being needed to address discrimination or if no justification is given for the policy. Our findings highlight the role of inequality beliefs in shaping worker support for diversity policies, suggesting directions for future research on how such beliefs are developed.",
+  "authors": [
+    {
+      "raw": "Scarborough, William J.",
+      "family": "Scarborough",
+      "given": "William J."
+    },
+    {
+      "raw": "Lambouths, Danny L., III",
+      "family": "Lambouths",
+      "given": "Danny L., III"
+    },
+    {
+      "raw": "Holbrook, Allyson L.",
+      "family": "Holbrook",
+      "given": "Allyson L."
+    }
+  ],
+  "authors_text": "Scarborough, William J.; Lambouths, Danny L., III; Holbrook, Allyson L.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.01.002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.01.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.01.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.01.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

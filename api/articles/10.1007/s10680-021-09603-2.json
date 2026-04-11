@@ -1,0 +1,25 @@
+{
+  "title": "The Positive Effect of Women’s Education on Fertility in Low-Fertility China",
+  "abstract": "AbstractDespite pervasive evidence of more educated women having lower fertility, it remains unclear whether education reduces women’s fertility. This study presents new evidence of the causal effect of women’s education on fertility from China, where fertility has remained below the replacement level since the early 1990s. To account for endogeneity, the study exploits the timing and varying intensity of China’s higher education expansion as exogenous sources of increase in women’s education. Using data from China General Social Survey (2010–2012), findings show that each year of women’s education induced by the higher education expansion increases the number of children ever born by 10%. According to the average marginal effects, each additional year of women’s education increases the number of children ever born by 0.14, decreases the probability of having no children by 3 percentage points, and increases the probability of having two or more children by 4 percentage points. Two mechanisms drive the positive effect of education: first, education does not cause an increase in the mean age at first marriage; second, among ever-married women, education increases their demand for children. Findings from this study have important implications for China and other low-fertility developing countries.",
+  "authors": [
+    {
+      "raw": "Chen, Shuang",
+      "family": "Chen",
+      "given": "Shuang"
+    }
+  ],
+  "authors_text": "Chen, Shuang",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-021-09603-2",
+  "doi_url": "https://doi.org/10.1007/s10680-021-09603-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-021-09603-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-021-09603-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

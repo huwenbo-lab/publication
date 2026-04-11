@@ -1,0 +1,40 @@
+{
+  "title": "Two tales of one city: Unequal vulnerability and resilience to COVID-19 by socioeconomic status in Wuhan, China",
+  "abstract": "Although disasters such as pandemics are events that are random in nature, individuals? vulnerability to natural disasters is inequitable and is shaped by their socioeconomic status (SES). This study examines health inequality by SES amid the COVID-19 pandemic and its underlying mechanisms in Wuhan, China?s epicenter. Using survey data collected in the city during the lockdown period from February 20 to March 6, 2020, we identify two ways in which SES shapes health inequalities?vulnerability and resilience to COVID-19. First, higher SES is associated with a lower risk of infection for both survey respondents and their family members. Second, higher SES reduces mental distress during the pandemic, and this protective effect is particularly strong for individuals who contract the virus or who have family members infected with the disease. Mediation analysis further illustrates that SES shapes the risk of infection and mental distress primarily through three channels: access to daily essential and protective supplies, employment status, and the community environment. These findings lend support to the fundamental cause theory that links socioeconomic differentials to health inequality in a unique context. The outbreak of COVID-19 magnifies pre-existing socioeconomic inequalities.",
+  "authors": [
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    },
+    {
+      "raw": "Li, Xiaoguang",
+      "family": "Li",
+      "given": "Xiaoguang"
+    },
+    {
+      "raw": "Lu, Yao",
+      "family": "Lu",
+      "given": "Yao"
+    },
+    {
+      "raw": "Hout, Michael",
+      "family": "Hout",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Wu, Xiaogang; Li, Xiaoguang; Lu, Yao; Hout, Michael",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100584",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100584",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100584",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100584.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Predicting GPA at Age 15 in the Fragile Families and Child Wellbeing Study",
+  "abstract": "In this paper, we describe in detail the different approaches we used to predict the GPA of children at the age of 15 in the context of the Fragile Families Challenge. Our best prediction improved about 18 percent in terms of mean squared error over a naive baseline prediction and performed less than 5 percent worse than the best prediction in the Fragile Families Challenge. After discussing the different predictions we made, we also discuss the predictors that tend to be robustly associated with GPA. One remarkable predictor is related to teacher observations at the age of nine. We end with a reflection on our participation in the Fragile Families Challenge and provide some suggestions for follow-up work.",
+  "authors": [
+    {
+      "raw": "Raes, Louis",
+      "family": "Raes",
+      "given": "Louis"
+    }
+  ],
+  "authors_text": "Raes, Louis",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118824803",
+  "doi_url": "https://doi.org/10.1177/2378023118824803",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118824803",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118824803.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

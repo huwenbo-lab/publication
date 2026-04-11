@@ -1,0 +1,40 @@
+{
+  "title": "Do birth order effects on secondary school track placement differ between natives and migrants? A within-family analysis in the German educational system",
+  "abstract": "While existing research has found negative birth order effects on competences and educational attainment in various Western countries with different educational systems, it is unclear whether these findings also hold in families with migration background. We argue that in migrant families where children were born in the host country, birth order effects on secondary school track placement should be weak or even reversed. In these families, parents' host country-specific resources and knowledge of the education system are likely to be comparatively low. Consequently, older siblings who were born and educated in the host country can be an important source of information and support on educational matters for their younger siblings. Moreover, parental knowledge of the education system should increase with the educational career of each of their children. Family fixed-effects models based on representative data from the German Microcensus show negative birth order effects on secondary school track placement for native, first-generation migrant, and interethnic siblings, but not for second-generation migrant siblings. The empirical results indicate that negative birth order effects are not necessarily universal, but that children may even benefit from having older siblings under certain conditions.",
+  "authors": [
+    {
+      "raw": "Roth, Tobias",
+      "family": "Roth",
+      "given": "Tobias"
+    },
+    {
+      "raw": "Pforr, Klaus",
+      "family": "Pforr",
+      "given": "Klaus"
+    },
+    {
+      "raw": "Mingham, Sandra",
+      "family": "Mingham",
+      "given": "Sandra"
+    },
+    {
+      "raw": "Selbach, Meike",
+      "family": "Selbach",
+      "given": "Meike"
+    }
+  ],
+  "authors_text": "Roth, Tobias; Pforr, Klaus; Mingham, Sandra; Selbach, Meike",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab047",
+  "doi_url": "https://doi.org/10.1093/esr/jcab047",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab047",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab047.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The sensitivity analysis of population projections",
+  "abstract": "BACKGROUND Population projections using the cohort component method can be written as time-varying matrix population models. The matrices are parameterized by schedules of mortality, fertility, immigration, and emigration over the duration of the projection. A variety of dependent variables are routinely calculated (the population vector, various weighted population sizes, dependency ratios, etc.) from such projections. OBJECTIVE Our goal is to derive and apply theory to compute the sensitivity and the elasticity (proportional sensitivity) of any projection outcome to changes in any of the parameters, where those changes are applied at any time during the projection interval. METHODS We use matrix calculus to derive a set of equations for the sensitivity and elasticity of any vector valued outcome xi (t) at time t to any perturbation of a parameter vector theta (s) at any time s. RESULTS The results appear in the form of a set of dynamic equations for the derivatives that are integrated in parallel with the dynamic equations for the projection itself. We show results for single-sex projections and for the more detailed case of projections including age distributions for both sexes. We apply the results to a projection of the population of Spain, from 2012 to 2052, prepared by the Instituto Nacional de Estadistica, and determine the sensitivity and elasticity of (1) total population, (2) the school-age population, (3) the population subject to dementia, (4) the total dependency ratio, and (5) the economic support ratio. CONCLUSIONS Writing population projections in matrix form makes sensitivity analysis possible. Such analyses are a powerful tool for the exploration of how detailed aspects of the projection output are determined by the mortality, fertility, and migration schedules that underlie the projection.",
+  "authors": [
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    },
+    {
+      "raw": "Gassen, Nora Sanchez",
+      "family": "Gassen",
+      "given": "Nora Sanchez"
+    }
+  ],
+  "authors_text": "Caswell, Hal; Gassen, Nora Sanchez",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.28",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

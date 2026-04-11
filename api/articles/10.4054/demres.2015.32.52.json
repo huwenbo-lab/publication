@@ -1,0 +1,35 @@
+{
+  "title": "TFR for males in Denmark - calculation and tempo-correction",
+  "abstract": "BACKGROUND Studies of trends and tempo corrections of fertility have focused on female rather than male fertility; one reason being that the necessary detailed data are more widely available for mothers than for fathers. OBJECTIVE The objective is to present a demographic overview of the fertility trends of Danish men and women from 1980 to 2010. We review the differences in male and female fertility and perform separate tempo corrections for fathers and mothers. METHODS The material for this study consisted of basic data on male and female fertility. The data included all children born in the period, specified by birth year of the child and age and parity of the mother and father, respectively. We used standard demographic measurements of fertility, primarily the total fertility rate (TFR) and the tempo-corrections as proposed by Bongaarts and Feeney (1998). RESULTS The female fertility rates were generally higher than those for males, but the TFRs of both Danish men and women generally increased over the period. The unadjusted and the adjusted fertility rates had similar patterns for men and women. A negative tempoeffect was more evident for women than for men, and a vanishing effect for men at the end of the period was not similarly observed for women. CONCLUSIONS We have exemplified tempo corrections for male as well as female fertility, and have discussed specific problems in this context. Our study indicates that the postponement of childbearing is about to end for Danish men.",
+  "authors": [
+    {
+      "raw": "Nordfalk, Francisca",
+      "family": "Nordfalk",
+      "given": "Francisca"
+    },
+    {
+      "raw": "Hvidtfeldt, Ulla A.",
+      "family": "Hvidtfeldt",
+      "given": "Ulla A."
+    },
+    {
+      "raw": "Keiding, Niels",
+      "family": "Keiding",
+      "given": "Niels"
+    }
+  ],
+  "authors_text": "Nordfalk, Francisca; Hvidtfeldt, Ulla A.; Keiding, Niels",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.32.52",
+  "doi_url": "https://doi.org/10.4054/demres.2015.32.52",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.32.52",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.32.52.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Terrorist attacks and minority perceived discrimination",
+  "abstract": "A growing strand of the literature finds a causal negative impact of terrorism on undifferentiated discriminatory attitudes toward Muslims, migrants, and other minorities. In this paper, we argue that jihadist terrorism threatens first and foremost Muslims. To evaluate this claim, we estimate the causal effect of jihadist terrorism on the perceived discrimination among Muslims through a 2x2 quasi-experimental design. Exploiting natural experiments driven by exogenous variation in terror threat caused by jihadist attacks that unexpectedly occurred during the fieldwork of a large survey, we compare the perceived ethoracial discrimination of the relevant minority (Muslims) against other minorities (non-Muslims) before and after five different terror attacks in five different European countries. We find that jihadist attacks increase perceived ethnoracial discrimination among Muslims while reducing it among non-Muslims, and that individual-level factors including social status and economic insecurity mitigate public opinion responses to a greater extent than group-level factors do. Hence, while in-group attitudes toward out-groups tend to be undifferentiated, the experience of out-groups in the aftermath of jihadist attacks depends on the specific identity of the respondents.",
+  "authors": [
+    {
+      "raw": "Giani, Marco",
+      "family": "Giani",
+      "given": "Marco"
+    },
+    {
+      "raw": "Merlino, Luca Paolo",
+      "family": "Merlino",
+      "given": "Luca Paolo"
+    }
+  ],
+  "authors_text": "Giani, Marco; Merlino, Luca Paolo",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2021,
+  "doi": "10.1111/1468-4446.12799",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12799",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12799",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12799.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "A Test of the Validity of Imputed Legal Immigration Status",
+  "abstract": "We eval u ate the per for mance of a widely used tech nique for imput ing the legal immi gra tion sta tus of U.S. immi grants in sur vey data-the log i cal impu ta tion method. We val i date this tech nique by implementing it in a nation ally rep re sen ta tive sur vey of U.S. farm work ers that includes a well -regarded mea sure of legal sta tus. When using this mea sure as a bench mark, the impu ta tion algo rithm cor rectly identifies the legal sta tus of 78% of farm work ers. Of all the var i ables included in the algo rithm, we find that Med ic aid par tic i pa tion poses the greatest chal lenge for accu racy. Using the Amer i can Community Survey, we show that increased Med ic aid enroll ments stem ming from the implementation of the Affordable Care Act in 2014 led to siz able changes in the share of immi grants imputed as legal over time and across space. We explore the impli ca tions of these changes for two pre vi ous stud ies and con clude that includ ing Med ic aid cri te ria in the impu ta tion algo rithm can sig nificantly impact research find ings. We also pro vide tools to gauge the sen si tiv ity of results.",
+  "authors": [
+    {
+      "raw": "Castillo, Marcelo",
+      "family": "Castillo",
+      "given": "Marcelo"
+    },
+    {
+      "raw": "Hill, Alexandra",
+      "family": "Hill",
+      "given": "Alexandra"
+    },
+    {
+      "raw": "Hertz, Thomas",
+      "family": "Hertz",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Castillo, Marcelo; Hill, Alexandra; Hertz, Thomas",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11189687",
+  "doi_url": "https://doi.org/10.1215/00703370-11189687",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11189687",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11189687.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

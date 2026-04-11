@@ -1,0 +1,30 @@
+{
+  "title": "Societal Inequality and individual subjective well-being: Results from 68 societies and over 200,000 individuals, 1981-2008",
+  "abstract": "Income inequality has been contentious for millennia, a source of political conflict for centuries, and is now widely feared as a pernicious side effect of economic progress. But equality is only a means to an end and so must be evaluated by its consequences. The fundamental question is: What effect does a country's level of income inequality have on its citizens' quality of life, their subjective well-being? We show that in developing nations inequality is certainly not harmful but probably beneficial, increasing well-being by about 8 points out of 100. This may well be Kuznets's inverted U: In the earliest stages of development some are able to move out of the (poorly paying) subsistence economy into the (better paying) modern economy; their higher pay increases their well-being while simultaneously increasing inequality. In advanced nations, income inequality on average neither helps nor harms. Estimates are from random-intercept fixed-effects multi-level models, confirmed by over four dozen sensitivity tests. Data are from the pooled World Values/European Values Surveys, Waves 1 to 5 with 169 representative national samples in 68 nations, 1981 to 2009, and over 200,000 respondents, replicated and extended in the European Quality of Life Surveys. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Kelley, Jonathan",
+      "family": "Kelley",
+      "given": "Jonathan"
+    },
+    {
+      "raw": "Evans, M. D. R.",
+      "family": "Evans",
+      "given": "M. D. R."
+    }
+  ],
+  "authors_text": "Kelley, Jonathan; Evans, M. D. R.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.04.020",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.04.020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.04.020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.04.020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

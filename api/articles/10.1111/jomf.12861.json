@@ -1,0 +1,35 @@
+{
+  "title": "The rising midlife first marriage rate in the US",
+  "abstract": "Objective This study documented change in the midlife first marriage rate for U.S. adults aged 40-59 between 1990 and 2019 and assessed the sociodemographic correlates of midlife first marriage formation for today's women and men. Background Median ages at first marriage are at record highs for women and men, signaling that marriage may be increasingly occurring at older ages. However, first marriage formation among midlife adults remains largely overlooked. Method Data from the 1990 U.S. Vital Statistics and the 2010 and 2019 American Community Survey (ACS) were used to estimate the change in women's and men's first marriage rates across age groups, with a focus on how the rate has changed for midlife adults. Average marginal effects (AMEs) were derived from logistic regression analyses that drew on the 2019 ACS to examine associations between sociodemographic factors and midlife first marriage formation for women and men. Results Since 1990, the midlife first marriage rate has increased by 75% for women and 45% for men. The shares of women and men entering a first marriage who were aged 40-59 quadrupled between 1990 and 2019 (rising from 2% to 9% among women and from 3% to 12% among men). Some of the well-established predictors of first marriage in young adulthood operated uniquely for first marriage formation in midlife. Conclusion Future research on first marriage formation should incorporate midlife adults.",
+  "authors": [
+    {
+      "raw": "Brown, Susan L.",
+      "family": "Brown",
+      "given": "Susan L."
+    },
+    {
+      "raw": "Lin, I-Fen",
+      "family": "Lin",
+      "given": "I-Fen"
+    },
+    {
+      "raw": "Mellencamp, Kagan A.",
+      "family": "Mellencamp",
+      "given": "Kagan A."
+    }
+  ],
+  "authors_text": "Brown, Susan L.; Lin, I-Fen; Mellencamp, Kagan A.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12861",
+  "doi_url": "https://doi.org/10.1111/jomf.12861",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12861",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12861.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

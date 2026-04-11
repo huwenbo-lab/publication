@@ -1,0 +1,25 @@
+{
+  "title": "Donor Financial Capacity Drives Racial Inequality in Medical Crowdsourced Funding",
+  "abstract": "Americans facing large health-related expenses have increasingly turned to online crowdsourced funding for support, initiating 250,000 medical fundraisers on GoFundMe in 2018. Recent research indicates that these fundraisers yield inequitable outcomes, with White crowdfunding beneficiaries receiving higher levels of support than non-White beneficiaries. Researchers fear that racialized impressions of deservingness may be a driver of unequal returns in crowdfunding. However, rather than being a direct effect of interpersonal racism, differences in returns may be an indirect effect of the systemic racism that causes the social networks of Black and Hispanic Americans to have lower access to financial capital. This paper is the first to focus on how unequal access to monetary capital in networks of potential crowdfunding donors drives unequal returns for beneficiaries. I analyze a geographically stratified sample of 2,618 GoFundMe campaigns coded for perceived race and ethnicity of the beneficiary. I estimate donor financial capacity for each campaign based on the geography of Facebook friend networks and the most likely racial and ethnic makeup of the donor pool, based on donor surnames. I show that variations in the estimated income of potential donors can account for much of the deficit in returns. Thus, even in the absence of interpersonal discrimination, crowdfunding is unlikely to yield equitable outcomes given the current distribution of financial resources in the United States.",
+  "authors": [
+    {
+      "raw": "Igra, Mark",
+      "family": "Igra",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Igra, Mark",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab076",
+  "doi_url": "https://doi.org/10.1093/sf/soab076",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab076",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab076.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

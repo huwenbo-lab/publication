@@ -1,0 +1,35 @@
+{
+  "title": "The Meeting of Minds: Forging Social and Intellectual Networks within Universities",
+  "abstract": "How are social and intellectual relations structured and given shape within research universities? To answer these questions, we test to what extent various theoretically predicted processes explain the dynamics of academics’ networks of collaboration and shared language use in a unique longitudinal data set (1994 to 2005) of 2,631 faculty at a large private American university. Using the latest advances in stochastic actor-oriented models (in RSiena) and text analysis, we found that social and intellectual relations are clustered and centralized on bridging faculty who form a broader interdisciplinary hub of research in the university, and that, over time, this hub disseminated its style of (interdisciplinary) research to other faculty. These networks are shaped by selection based on age, gender, race, and academic rank as well as the coevolution of social and intellectual relations over time. Clear differences emerge in science, technology, engineering, and mathematics (STEM) fields and are strongly driven by structural mechanisms of clustering and centralization, whereas non-STEM fields (social sciences and humanities) are strongly driven by personal preferences of faculty members.",
+  "authors": [
+    {
+      "raw": "Stark, Tobias",
+      "family": "Stark",
+      "given": "Tobias"
+    },
+    {
+      "raw": "Rambaran, J.",
+      "family": "Rambaran",
+      "given": "J."
+    },
+    {
+      "raw": "McFarland, Daniel",
+      "family": "McFarland",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Stark, Tobias; Rambaran, J.; McFarland, Daniel",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2020,
+  "doi": "10.15195/v7.a18",
+  "doi_url": "https://doi.org/10.15195/v7.a18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv7.a18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v7.a18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

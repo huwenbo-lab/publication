@@ -1,0 +1,35 @@
+{
+  "title": "Inequality among American Families with Children, 1975 to 2005",
+  "abstract": "From 1975 to 2005, the variance in incomes of American families with children increased by two-thirds. In attempting to explain this trend, labor market studies emphasize the rising pay of college graduates, while demographers typically highlight the implications of family structural changes across time. In this article, we join these lines of research by conceiving of income inequality as the joint product of the distribution of earnings in the labor market and the pooling of incomes in families. We develop this framework with a decomposition of family income inequality using annual data from the March Current Population Survey. Our analysis shows that disparities in education and single parenthood contributed to income inequality, but rising educational attainment and women employment offset these effects. Most of the increase infamily income inequality was due to increasing within-group inequality, which was widely shared across family types and levels of schooling.",
+  "authors": [
+    {
+      "raw": "Western, Bruce",
+      "family": "Western",
+      "given": "Bruce"
+    },
+    {
+      "raw": "Bloome, Deirdre",
+      "family": "Bloome",
+      "given": "Deirdre"
+    },
+    {
+      "raw": "Percheski, Christine",
+      "family": "Percheski",
+      "given": "Christine"
+    }
+  ],
+  "authors_text": "Western, Bruce; Bloome, Deirdre; Percheski, Christine",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1177/000312240807300602",
+  "doi_url": "https://doi.org/10.1177/000312240807300602",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240807300602",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240807300602.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

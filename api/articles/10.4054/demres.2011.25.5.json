@@ -1,0 +1,35 @@
+{
+  "title": "Point and interval forecasts of mortality rates and life expectancy: A comparison of ten principal component methods",
+  "abstract": "Using the age- and sex-specific data of 14 developed countries, we compare the point and interval forecast accuracy and bias of ten principal component methods for forecasting mortality rates and life expectancy. The ten methods are variants and extens",
+  "authors": [
+    {
+      "raw": "Shang, Han Lin",
+      "family": "Shang",
+      "given": "Han Lin"
+    },
+    {
+      "raw": "Booth, Heather",
+      "family": "Booth",
+      "given": "Heather"
+    },
+    {
+      "raw": "Hyndman, Rob",
+      "family": "Hyndman",
+      "given": "Rob"
+    }
+  ],
+  "authors_text": "Shang, Han Lin; Booth, Heather; Hyndman, Rob",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2011,
+  "doi": "10.4054/demres.2011.25.5",
+  "doi_url": "https://doi.org/10.4054/demres.2011.25.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2011.25.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2011.25.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

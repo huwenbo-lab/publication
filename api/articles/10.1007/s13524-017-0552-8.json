@@ -1,0 +1,25 @@
+{
+  "title": "Differential Peer Effects, Student Achievement, and Student Absenteeism: Evidence From a Large-Scale Randomized Experiment",
+  "abstract": "Using data from a well-executed randomized experiment, I examine the effects of gender composition and peer achievement on high school students' outcomes in disadvantaged neighborhoods. Results show that having a higher proportion of female peers in the classroom improves girls' math test scores only in less-advanced courses. For male students, the estimated gender peer effects are positive but less precisely estimated. I also find no effect of average classroom achievement on female math test scores. Males, on the other hand, seem to benefit from a higher-achieving classroom. I propose mechanisms relating to lower gender stereotype influences and gender-specific attitudes toward competition as potential explanations for peer effects findings. Finally, having a higher proportion of female students in the classroom decreases student absenteeism among male students but has no impact on female attendance.",
+  "authors": [
+    {
+      "raw": "Eren, Ozkan",
+      "family": "Eren",
+      "given": "Ozkan"
+    }
+  ],
+  "authors_text": "Eren, Ozkan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0552-8",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0552-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0552-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0552-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

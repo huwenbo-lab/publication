@@ -1,0 +1,35 @@
+{
+  "title": "The Effect of Fertility Reduction on Economic Growth",
+  "abstract": "We assess quantitatively the effect of exogenous reductions in fertility on output per capita. Our simulation model allows for effects that run through schooling, the size and age structure of the population, capital accumulation, parental time input into childrearing, and crowding of fixed natural resources. The model is parameterized using a combination of microeconomic estimates and standard components of quantitative macroeconomic theory. We apply the model to examine the effect of a change in fertility from the UN medium-variant to the UN low-variant projection in Nigeria. For a base case set of parameters, we find that such a change would raise output per capita by 5.6 percent at a horizon of 20 years and by 11.9 percent at a horizon of 50 years. We conclude with a discussion of the quantitative significance of these results.",
+  "authors": [
+    {
+      "raw": "Ashraf, Quamrul H.",
+      "family": "Ashraf",
+      "given": "Quamrul H."
+    },
+    {
+      "raw": "Weil, David N.",
+      "family": "Weil",
+      "given": "David N."
+    },
+    {
+      "raw": "Wilde, Joshua",
+      "family": "Wilde",
+      "given": "Joshua"
+    }
+  ],
+  "authors_text": "Ashraf, Quamrul H.; Weil, David N.; Wilde, Joshua",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2013,
+  "doi": "10.1111/j.1728-4457.2013.00575.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2013.00575.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2013.00575.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2013.00575.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

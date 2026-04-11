@@ -1,0 +1,30 @@
+{
+  "title": "Union dissolution and housing trajectories in Britain",
+  "abstract": "BACKGROUND A growing body of literature shows that divorce and separation have negative consequences for individuals' residential mobility and housing conditions. Yet, no study to date has examined housing trajectories of separated individuals. OBJECTIVE We investigate housing trajectories of separated men and women using longitudinal data from Britain. METHODS We apply sequence analysis to data from 18 waves of the British Household Panel Survey (1991-2008). We use time since separation as the 'clock' in our analysis and examine the sensitivity of the results to attrition, the length of the observation window, and the choice of classification criteria. RESULTS We identify five types of housing trajectories among separated individuals: 'owner stayers,' 'owner movers,' 'social rent stayers,' 'social rent movers,' and 'private renters.' Men are more likely to stay in homeownership, whereas women are more likely to stay in social housing. There is an expected educational gradient: Highly educated individuals are likely to remain homeowners, whereas people with low educational level have a high propensity to stay in or to move to social housing. Overall, this study shows that some individuals can afford homeownership after separation, and that social housing offers a safety net for the most vulnerable population subgroups (low-educated women with children). However, a significant group of separated individuals is unable to afford homeownership in a country where homeownership is still the norm. CONTRIBUTION This study shows that separation has long-term consequences for individuals' housing conditions and that post-separation housing trajectories are significantly shaped by individuals' socioeconomic characteristics.",
+  "authors": [
+    {
+      "raw": "Mikolai, Julia",
+      "family": "Mikolai",
+      "given": "Julia"
+    },
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    }
+  ],
+  "authors_text": "Mikolai, Julia; Kulu, Hill",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.7",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

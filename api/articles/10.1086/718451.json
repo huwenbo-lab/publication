@@ -1,0 +1,25 @@
+{
+  "title": "Rediscovering the 1%: Knowledge Infrastructures and the Stylized Facts of Inequality",
+  "abstract": "In the 2000s, newly analyzed tax data revealed that top incomes in the United States-summarized as the 1%-had been rising dramatically upward since the early 1980s. Why did it take social scientists two decades to identify this trend and to incorporate it into debates about contemporary income inequality? Drawing on insights from the history and sociology of science, I argue that the social sciences rely on knowledge infrastructures to monitor trends and identify stylized facts. These infrastructures collect, process, and distribute data in ways that channel sustained attention to particular problems while rendering other potential observations out of focus. Like other infrastructures, they have significant inertia: initial design choices become locked in and shape the kinds of data readily available to future researchers. Thus economic knowledge infrastructures constructed in the mid-20th century, while identifying some forms of increasing income inequality, were incapable of tracking top incomes, which created the conditions for missing the rise of the 1%.",
+  "authors": [
+    {
+      "raw": "Hirschman, Daniel",
+      "family": "Hirschman",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Hirschman, Daniel",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2021,
+  "doi": "10.1086/718451",
+  "doi_url": "https://doi.org/10.1086/718451",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F718451",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/718451.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Social Influence Given (Partially) Deliberate Matching: Career Imprints in the Creation of Academic Entrepreneurs",
+  "abstract": "Actors and associates often match on a few dimensions that matter most for the relationship at hand. In so doing, they are exposed to unanticipated social influences because counterparts have broader attitudes and preferences than would-be contacts considered when they first chose to pair. The authors label as partially deliberate social matching that occurs on a small set of attributes, and they present empirical methods for identifying causal social influence effects when relationships follow this generative logic. A data set tracking the training and professional activities of academic biomedical scientists is used to show that young scientists adopt their advisers' orientations toward commercial science as evidenced by adviser-to-advisee transmission of patenting behavior. The authors demonstrate this in two-stage models that account for the endogeneity of matching, using both inverse probability of treatment weights and an instrumental variables approach. They also draw on qualitative methods to support a causal interpretation. Overall, they present a theory and a triangulation of methods to establish evidence of social influence when tie formation is partially deliberate.",
+  "authors": [
+    {
+      "raw": "Azoulay, Pierre",
+      "family": "Azoulay",
+      "given": "Pierre"
+    },
+    {
+      "raw": "Liu, Christopher C.",
+      "family": "Liu",
+      "given": "Christopher C."
+    },
+    {
+      "raw": "Stuart, Toby E.",
+      "family": "Stuart",
+      "given": "Toby E."
+    }
+  ],
+  "authors_text": "Azoulay, Pierre; Liu, Christopher C.; Stuart, Toby E.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2017,
+  "doi": "10.1086/689890",
+  "doi_url": "https://doi.org/10.1086/689890",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F689890",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/689890.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

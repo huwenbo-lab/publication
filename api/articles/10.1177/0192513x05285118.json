@@ -1,0 +1,25 @@
+{
+  "title": "Who Should Care for Our Children?",
+  "abstract": "The issue of child care is still widely debated, with some scholars arguing that children fare best in parental care, whereas others suggest center care may enhance children's development. Using the Early Childhood Longitudinal Study—Kindergarten Cohort of 1998 to 1999, the author demonstrates how the use of cross-sectional versus longitudinal analysis results in different conclusions regarding types of care. Cross-sectional analysis indicates that children who had been in center care the year prior to kindergarten exhibited advanced math and reading skills over their parental care counterparts but poorer peer-related social skills net of background controls. However, employing longitudinal analysis that controls for fall test scores of kindergartners and first graders shows that the cognitive effects of center care do not persist and that some social skills actually deteriorate. Longitudinal analyses more successfully isolate the effect of child care than do cross-sectional analyses, and models employing longitudinal methods suggest that children benefit less from the center care experience than previously thought.",
+  "authors": [
+    {
+      "raw": "Hickman, Lisa N.",
+      "family": "Hickman",
+      "given": "Lisa N."
+    }
+  ],
+  "authors_text": "Hickman, Lisa N.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2006,
+  "doi": "10.1177/0192513x05285118",
+  "doi_url": "https://doi.org/10.1177/0192513x05285118",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x05285118",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x05285118.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Impact of Paternity Leave on Fathers’ Future Earnings",
+  "abstract": "AbstractUsing Norwegian registry data, we investigate the effect of paternity leave on fathers’ long-term earnings. If the paternity leave increased long-term father involvement, then we should expect a reduction in fathers’ long-term earnings as they shift time and effort from market to home production. For identification, we use the Norwegian introduction of a paternity-leave quota in 1993, reserving four weeks of the total of 42 weeks of paid parental leave exclusively for the father. The introduction of the paternity-leave quota led to a sharp increase in rates of leave-taking for fathers. We estimate a difference-in-differences model that exploits differences in fathers’ exposure to the paternity-leave quota by the child’s age and year of observation. Our analysis suggests that four weeks of paternity leave during the child’s first year decreases fathers’ future earnings, an effect that persists through our last point of observation, when the child is 5 years old. A battery of robustness tests supports our results.",
+  "authors": [
+    {
+      "raw": "Rege, Mari",
+      "family": "Rege",
+      "given": "Mari"
+    },
+    {
+      "raw": "Solli, Ingeborg F.",
+      "family": "Solli",
+      "given": "Ingeborg F."
+    }
+  ],
+  "authors_text": "Rege, Mari; Solli, Ingeborg F.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0233-1",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0233-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0233-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0233-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

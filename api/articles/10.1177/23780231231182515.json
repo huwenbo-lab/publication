@@ -1,0 +1,30 @@
+{
+  "title": "Family Structure and Cohort Trends in Childhood Family Income Volatility",
+  "abstract": "The authors examine cohort trends in childhood income volatility among U.S. children born between 1970 and 1990. In contrast to previous studies that focused mainly on period trends, the authors adopt a cohort-life-course perspective and measure children’s exposure to income volatility from birth to age 17, which provides a more adequate account of the economic environment during early life stages. Using data from the Panel Study of Income Dynamics, the authors investigate (1) how income volatility among U.S. children has changed across cohorts, (2) how cohort trends in income volatility differ by family structure, and (3) the extent to which the increasing prevalence of single-headed families and the growth of income volatility among single-headed families contribute to the overall trend in childhood income volatility. The results show that (1) income volatility in childhood has increased over time; (2) children who lived in single-headed families experienced greater increase in childhood income volatility than those from two-headed families; and (3) both the increasing prevalence of single-headed families (“composition effects”) and the fact that single-headed families’ incomes have become less stable (“volatility effects”) in the past decades account for a significant proportion of the increasing income volatility for U.S. children, yet their relative contributions differ between White and Black families.",
+  "authors": [
+    {
+      "raw": "Liu, Airan",
+      "family": "Liu",
+      "given": "Airan"
+    },
+    {
+      "raw": "Cheng, Siwei",
+      "family": "Cheng",
+      "given": "Siwei"
+    }
+  ],
+  "authors_text": "Liu, Airan; Cheng, Siwei",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231182515",
+  "doi_url": "https://doi.org/10.1177/23780231231182515",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231182515",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231182515.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

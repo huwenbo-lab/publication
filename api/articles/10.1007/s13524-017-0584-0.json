@@ -1,0 +1,35 @@
+{
+  "title": "Lifespan Disparity as an Additional Indicator for Evaluating Mortality Forecasts",
+  "abstract": "Evaluating the predictive ability of mortality forecasts is important yet difficult. Death rates and mean lifespan are basic life table functions typically used to analyze to what extent the forecasts deviate from their realized values. Although these parameters are useful for specifying precisely how mortality has been forecasted, they cannot be used to assess whether the underlying mortality developments are plausible. We therefore propose that in addition to looking at average lifespan, we should examine whether the forecasted variability of the age at death is a plausible continuation of past trends. The validation of mortality forecasts for Italy, Japan, and Denmark demonstrates that their predictive performance can be evaluated more comprehensively by analyzing both the average lifespan and lifespan disparity-that is, by jointly analyzing the mean and the dispersion of mortality. Approaches that account for dynamic age shifts in survival improvements appear to perform better than others that enforce relatively invariant patterns. However, because forecasting approaches are designed to capture trends in average mortality, we argue that studying lifespan disparity may also help to improve the methodology and thus the predictive ability of mortality forecasts.",
+  "authors": [
+    {
+      "raw": "Bohk-Ewald, Christina",
+      "family": "Bohk-Ewald",
+      "given": "Christina"
+    },
+    {
+      "raw": "Ebeling, Marcus",
+      "family": "Ebeling",
+      "given": "Marcus"
+    },
+    {
+      "raw": "Rau, Roland",
+      "family": "Rau",
+      "given": "Roland"
+    }
+  ],
+  "authors_text": "Bohk-Ewald, Christina; Ebeling, Marcus; Rau, Roland",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0584-0",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0584-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0584-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0584-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

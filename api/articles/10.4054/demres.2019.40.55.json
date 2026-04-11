@@ -1,0 +1,30 @@
+{
+  "title": "The educational gradient of living alone: A comparison among the working-age population in Europe",
+  "abstract": "BACKGROUND In recent decades, the proportion of individuals in Western countries living in a one-person household has increased. Previous research has mainly focused on the increase among the elderly and younger segments of the population, and there is a lack of research regarding the characteristics of individuals living alone among the working-age population. OBJECTIVE The aim of this study is to examine the educational gradient of living alone in the working-age population (aged 30-64 years) in a comparative perspective and to assess if the differences in the educational gradient are related to the level of gender equality in different European societies. METHODS Using data on 12 European countries from the Generations and Gender Surveys, the estimated probabilities of living alone for men and women with different levels of education were calculated using logistic regression models while controlling for parental status and differences in the age distribution across different populations. RESULTS In the more gender equal countries, we found a negative educational gradient of living alone, especially for men, with decreasing gender differences in the probability of living alone as education increases. In the less gender equal countries, women tend to live alone to a higher extent than men regardless of their educational level. In the least gender equal countries, we found a positive educational gradient of living alone most markedly among women. Here we found the lowest probability of living alone among those who had received only a primary education and the highest levels among men and women with university degrees. Thus, we found a shift in the educational gradient of living alone from a negative gradient in the most gender equal countries in Northern Europe to a positive gradient in the least gender equal countries in the South and in Eastern Europe. CONTRIBUTIONS This study highlights differences in living alone for men and women in the working-age population in Europe across different levels of education.",
+  "authors": [
+    {
+      "raw": "Sandstrom, Glenn",
+      "family": "Sandstrom",
+      "given": "Glenn"
+    },
+    {
+      "raw": "Karlsson, Lena",
+      "family": "Karlsson",
+      "given": "Lena"
+    }
+  ],
+  "authors_text": "Sandstrom, Glenn; Karlsson, Lena",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.55",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.55",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.55",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.55.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

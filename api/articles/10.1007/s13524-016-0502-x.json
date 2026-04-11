@@ -1,0 +1,35 @@
+{
+  "title": "Offspring Socioeconomic Status and Parent Mortality Within a Historical Population",
+  "abstract": "Considering a network approach to health determinants, we test the hypothesis that benefits of high socioeconomic status (SES) may be transmitted up the generational ladder from offspring to parents. Studies that examine own SES and own health outcomes, or SES of parents and outcomes of young or adolescent children, are common. Those that investigate SES of offspring and their association with parental health are rare. Employing data from a historical population of individuals extracted from a comprehensive population database that links demographic and vital records across generations, this study tests the hypothesis that higher offspring SES associates with lower parental mortality after controlling for parental SES. The sample includes 29,972 individuals born between 1864 and 1883 whose offspring were born between 1886 and 1920. SES is operationalized using Nam-Powers occupational status scores divided into quartiles and a category for farmers. Models assess mortality risk after age 40. Included is a test for whether effects are proportional across parents who died younger and older. Estimated life expectancies across categories of offspring SES conditioned on parental SES are calculated to illustrate specifically how differences in SES relate to differences in years lived. Results indicate a longevity penalty for those whose offspring have low SES and a longevity dividend for those with high-SES offspring. The influence of offspring attributes on well-being of parents points to fluid and myriad linkages between generations.",
+  "authors": [
+    {
+      "raw": "Zimmer, Zachary",
+      "family": "Zimmer",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Hanson, Heidi A.",
+      "family": "Hanson",
+      "given": "Heidi A."
+    },
+    {
+      "raw": "Smith, Ken R.",
+      "family": "Smith",
+      "given": "Ken R."
+    }
+  ],
+  "authors_text": "Zimmer, Zachary; Hanson, Heidi A.; Smith, Ken R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0502-x",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0502-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0502-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0502-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

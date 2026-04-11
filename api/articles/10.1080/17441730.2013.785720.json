@@ -1,0 +1,35 @@
+{
+  "title": "Adult Male Mortality in India",
+  "abstract": "AbstractThis paper presents levels and trends of adult male mortality in India and its major states during the post-independence period applying the widowhood method on census data. It also estimates adult male mortality for all the districts from major states of India. We adjusted widowhood estimates for possible bias due to remarriages and examined the sensitivity of adjusted estimates to different scenarios of remarriage rates. Comparison of widowhood estimates with direct estimates from official sources supports the credibility of widowhood estimates. Information obtained from widows aged 40–44 and 45–49 provided the most convincing patterns of adult mortality. Trends in adult mortality suggest that maximum gain in 45q15 for India and its states occurred during 1949–1960. Adult male mortality varied substantially across the states of India. Although adult life expectancy has been rising in India, the rate of mortality reduction has been decreasing over the last few decades.KEYWORDS: adultmortalityIndiawidowhoodindirect estimateremarriage ACKNOWLEDGEMENTAuthors would like to thank Ms Susanna Makela from the Public Health Foundation of India, New Delhi, India for her comments on an earlier version of the paper. The authors are also grateful to the anonymous reviewers for their useful comments.",
+  "authors": [
+    {
+      "raw": "Saikia, Nandita",
+      "family": "Saikia",
+      "given": "Nandita"
+    },
+    {
+      "raw": "Singh, Abhishek",
+      "family": "Singh",
+      "given": "Abhishek"
+    },
+    {
+      "raw": "Ram, Faujdar",
+      "family": "Ram",
+      "given": "Faujdar"
+    }
+  ],
+  "authors_text": "Saikia, Nandita; Singh, Abhishek; Ram, Faujdar",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2013,
+  "doi": "10.1080/17441730.2013.785720",
+  "doi_url": "https://doi.org/10.1080/17441730.2013.785720",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2013.785720",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2013.785720.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

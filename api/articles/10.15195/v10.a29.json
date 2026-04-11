@@ -1,0 +1,30 @@
+{
+  "title": "There’s More in the Data! Using Month-Specific Information to Estimate Changes Before and After Major Life Events",
+  "abstract": "Sociological research is increasingly using survey panel data to examine changes in diverse outcomes over life course events. Most of these studies have one striking similarity: they analyze changes between yearly time intervals. In this article, we present a simple but effective method to model such trajectories more precisely using available data. The approach exploits month-specific information regarding interview and life event dates. Using fixed effects regression models, we calculate monthly dummy estimates around life events and then run nonparametric smoothing to create smoothed monthly estimates. We test the approach using Monte Carlo simulations and Socio-economic Panel (SOEP) data. Monte Carlo simulations show that the newly proposed smoothed monthly estimates outperform yearly dummy estimates, especially when there is rapid change or discontinuities in trends at the event. In the real data analyses, the novel approach reports an amplitude of change that is roughly twice as large as the yearly estimates showed. It also reveals a discontinuity in trajectories at bereavement, but not at childbirth; and remarkable gender differences. Our proposed method can be applied to several available data sets and a variety of outcomes and life events. Thus, for research on changes around life events, it serves as a powerful new tool in the researcher's toolbox.",
+  "authors": [
+    {
+      "raw": "Hudde, Ansgar",
+      "family": "Hudde",
+      "given": "Ansgar"
+    },
+    {
+      "raw": "Jacob, Marita",
+      "family": "Jacob",
+      "given": "Marita"
+    }
+  ],
+  "authors_text": "Hudde, Ansgar; Jacob, Marita",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a29",
+  "doi_url": "https://doi.org/10.15195/v10.a29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Police Legitimacy and Homicide: A Macro-Comparative Analysis",
+  "abstract": "This study tests the claim that police legitimacy affects the prevalence of homicide. Using a cross-national time-series dataset of 100 countries, I conduct a statistical analysis of the association between the extent to which the public perceives the police as legitimate and the homicide rate. The analysis suggests that police legitimacy has a substantial, negative association with homicide rates, consistent across different sources of homicide data and controlling for a variety of economic, political, and demographic variables. The paper provides evidence that police legitimacy is related to violent behavior, and that this relationship is generalizable across a wide range of contexts, but more pronounced in non-high-income and comparatively unequal countries.",
+  "authors": [
+    {
+      "raw": "Dawson, Andrew",
+      "family": "Dawson",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Dawson, Andrew",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy043",
+  "doi_url": "https://doi.org/10.1093/sf/soy043",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy043",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy043.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Does Culture Affect Divorce? Evidence From European Immigrants in the United States",
+  "abstract": "Abstract This article explores the role of culture in determining divorce by examining country-of-origin differences in divorce rates of immigrants in the United States. Because childhood-arriving immigrants are all exposed to a common set of U.S. laws and institutions, we interpret relationships between their divorce tendencies and home-country divorce rates as evidence of the effect of culture. Our results are robust to controlling for several home-country variables, including average church attendance and gross domestic product (GDP). Moreover, specifications with country-of-origin fixed effects suggest that immigrants from countries with low divorce rates are especially less likely to be divorced if they reside among a large number of coethnics. Supplemental analyses indicate that divorce culture has a stronger impact on the divorce decisions of females than of males, pointing to a potentially gendered nature of divorce taboos.",
+  "authors": [
+    {
+      "raw": "Furtado, Delia",
+      "family": "Furtado",
+      "given": "Delia"
+    },
+    {
+      "raw": "Marcén, Miriam",
+      "family": "Marcén",
+      "given": "Miriam"
+    },
+    {
+      "raw": "Sevilla, Almudena",
+      "family": "Sevilla",
+      "given": "Almudena"
+    }
+  ],
+  "authors_text": "Furtado, Delia; Marcén, Miriam; Sevilla, Almudena",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-012-0180-2",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0180-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0180-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0180-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

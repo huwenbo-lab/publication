@@ -1,0 +1,25 @@
+{
+  "title": "Some Statistical Aspects of Causality",
+  "abstract": "A general review of approaches to causality is given from a statistical perspective.",
+  "authors": [
+    {
+      "raw": "Cox, D.R.",
+      "family": "Cox",
+      "given": "D.R."
+    }
+  ],
+  "authors_text": "Cox, D.R.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2001,
+  "doi": "10.1093/esr/17.1.65",
+  "doi_url": "https://doi.org/10.1093/esr/17.1.65",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2F17.1.65",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/17.1.65.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

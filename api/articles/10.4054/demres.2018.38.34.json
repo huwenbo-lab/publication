@@ -1,0 +1,35 @@
+{
+  "title": "Interethnic marriage in Northeast China, 1866-1913",
+  "abstract": "BACKGROUND There is considerable debate about whether Manchu and associated non-Han ethnic groups in China maintained a distinct identity in the late 19th century or were 'sinicized' and assimilated into the Han majority. OBJECTIVE We assess the boundaries between Han and non-Han groups by examining the determinants of interethnic marriage in China in the late 19th and early 20th centuries in a setting where Han, Manchu, and other non-Han were free to intermarry, without being subject to institutional restrictions that limited such marriages elsewhere in China. METHODS We make use of the China Multi-Generational Panel Dataset, Shuangcheng (CMGPDSC), which consists of roughly 1.3 million observations of 107,890 Han, Manchu, Mongol, Xibo, and other individuals who lived in rural Northeast China between 1866 and 1913. We apply logistic regressions to examine the determinants of ethnic intermarriage and contingency table analysis to examine trends over time. RESULTS Marriage between Han and non-Han was not uncommon and increased over time. The chances of ethnic intermarriage were affected by village and family context by and individual characteristics. CONCLUSIONS In a setting where Han, Manchu, and other ethnicities were free to intermarry, they did so in large numbers, suggesting that by itself ethnicity was not a salient boundary when it came to marriage in Northeast China in the late 19th century. CONTRIBUTION This is one of the first quantitative studies of ethnic intermarriage in China before the 20th century and one of only a small number of such studies for historical non-Western populations.",
+  "authors": [
+    {
+      "raw": "Chen, Bijia",
+      "family": "Chen",
+      "given": "Bijia"
+    },
+    {
+      "raw": "Campbell, Cameron",
+      "family": "Campbell",
+      "given": "Cameron"
+    },
+    {
+      "raw": "Dong, Hao",
+      "family": "Dong",
+      "given": "Hao"
+    }
+  ],
+  "authors_text": "Chen, Bijia; Campbell, Cameron; Dong, Hao",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.34",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.34",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.34",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.34.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

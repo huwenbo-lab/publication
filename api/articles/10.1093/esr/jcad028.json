@@ -1,0 +1,35 @@
+{
+  "title": "Proximity to refugee accommodations does not affect locals' attitudes toward refugees: evidence from Germany",
+  "abstract": "With the so-called 'long summer of migration' of 2015, there was an urgent need to accommodate many refugees in Germany. This situation was framed as a 'refugee reception crisis', and it revealed diametrically opposed stances within German society. Within this debate, anti-refugee sentiment is often explained with the placement of nearby refugee reception facilities. Conclusive evidence of this claim is yet missing. Most studies dealing with refugee immigration and attitudes toward refugees lack of appropriate geo-data to test this assumption. We fill this empirical gap by employing novel data on refugee reception facilities in Germany, including exact geo-location, and combine it with the geo-locations of households participating in the German Socio-Economic Panel. Drawing on group threat and contact theory, we report a solid null effect and conclude that the placement of reception facilities does not influence locals' attitudes toward refugees.",
+  "authors": [
+    {
+      "raw": "Schmidt, Katja",
+      "family": "Schmidt",
+      "given": "Katja"
+    },
+    {
+      "raw": "Jacobsen, Jannes",
+      "family": "Jacobsen",
+      "given": "Jannes"
+    },
+    {
+      "raw": "Iglauer, Theresa",
+      "family": "Iglauer",
+      "given": "Theresa"
+    }
+  ],
+  "authors_text": "Schmidt, Katja; Jacobsen, Jannes; Iglauer, Theresa",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad028",
+  "doi_url": "https://doi.org/10.1093/esr/jcad028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

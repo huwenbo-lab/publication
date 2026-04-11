@@ -1,0 +1,35 @@
+{
+  "title": "Adult intergenerational proximity and parents' depressive symptoms: A bidirectional approach",
+  "abstract": "To date, only a few studies have investigated the bidirectional relationship in the intergenerational proximity-health nexus, specifically how geographic proximity affects older parents' depressive symptoms and vice versa. Drawing on eight waves (2004-2018) of the U.S. Health and Retirement Study (n = 17,671), we examine several mechanisms ('mobilization', 'social support', and 'social breakdown') that drive the complex relationship between intergenerational proximity and parental depressive symptoms. Dynamic panel models with fixed effects in a structural equation modeling context provided some weak evidence of a 'mobilization effect' (that is, parents', especially fathers', depression triggering greater proximity, including coresidence) and somewhat clearer evidence for a 'social breakdown effect' of coresidential transitions on parents' depressive symptoms (particularly among 'Whites' and fathers). We found no evidence to support the notion of a 'social support mechanism' (predicting that greater proximity or the transition to coresidence would decrease the number of parents' depressive symptoms).",
+  "authors": [
+    {
+      "raw": "Jessee, Lisa",
+      "family": "Jessee",
+      "given": "Lisa"
+    },
+    {
+      "raw": "Bordone, Valeria",
+      "family": "Bordone",
+      "given": "Valeria"
+    },
+    {
+      "raw": "Hank, Karsten",
+      "family": "Hank",
+      "given": "Karsten"
+    }
+  ],
+  "authors_text": "Jessee, Lisa; Bordone, Valeria; Hank, Karsten",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2024.103094",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103094",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103094",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103094.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

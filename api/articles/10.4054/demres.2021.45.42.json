@@ -1,0 +1,25 @@
+{
+  "title": "Age, period, and cohort effects contributing to the Great American Migration Slowdown",
+  "abstract": "BACKGROUND Between 1964 and 2019, the percentage of people in the United States who had moved in the previous year decreased from 20.3% to 9.8%. It is unclear whether this trend was driven by period-specific factors that gradually diminished the prospects of moving for the population as a whole or whether distinct features of birth cohorts differentially contributed to the migration slowdown. OBJECTIVE The present study assesses whether the migration slowdown in the United States was primarily driven by period effects or by cohort effects. METHODS Using 46 waves of data across the 1964-2019 Annual Social and Economic Supplements to the Current Population Survey, I estimate a series of mixed-effects models predicting the probability of moving and a linear model with age x period interaction terms predicting the probability of moving. RESULTS Cohort effects are more salient in slowing the rates of migration than are period effects. The migration slowdown occurred in part because members of the Silent and Baby Boom generations, who had a higher probability of moving at all ages, matured out of their prime years of geographic mobility in young adulthood and were replaced successively by members of Generation X, the Millennial generation, and Generation Z, who comparatively have a lower probability of moving. CONCLUSION The findings suggest that migration measures and subnational population projections that rely on period-level inputs might potentially mischaracterize current and future demographic trends in the United States. CONTRIBUTION This study is the first age-period-cohort analysis of the contemporary migration slowdown in the United States.",
+  "authors": [
+    {
+      "raw": "Bozick, Robert",
+      "family": "Bozick",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Bozick, Robert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.42",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.42",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.42",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.42.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

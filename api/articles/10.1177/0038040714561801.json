@@ -1,0 +1,30 @@
+{
+  "title": "Student Neighborhoods, Schools, and Test Score Growth: Evidence from Milwaukee, Wisconsin",
+  "abstract": "Schools and neighborhoods are thought to be two of the most important contextual influences on student academic outcomes. Drawing on a unique data set that permits simultaneous estimation of neighborhood and school contributions to student test score gains, we analyze the distributions of these contributions to consider the relative importance of schools and neighborhoods in shaping student achievement outcomes. We also evaluate the sensitivity of estimated school and neighborhood contributions to the exclusion of an explicit measure of the other context, indicating the extent to which bias may exist in studies where either measure is unavailable. Taken together, results of these analyses provide substantial insight into the influences of two of the most important contextual settings in students' lives.",
+  "authors": [
+    {
+      "raw": "Carlson, Deven",
+      "family": "Carlson",
+      "given": "Deven"
+    },
+    {
+      "raw": "Cowen, Joshua M.",
+      "family": "Cowen",
+      "given": "Joshua M."
+    }
+  ],
+  "authors_text": "Carlson, Deven; Cowen, Joshua M.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2015,
+  "doi": "10.1177/0038040714561801",
+  "doi_url": "https://doi.org/10.1177/0038040714561801",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040714561801",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040714561801.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Unemployment and Housework in Couples: Task-Specific Differences and Dynamics Over Time",
+  "abstract": "Objective: The authors tested competing hypotheses about the effects of unemployment on couples' division of housework and total household production. Background: Gender-neutral and gender-based theories make opposing predictions on the reactions of couples. Few previous studies have tested these predictions using longitudinal data. This study extends research by examining how the effects of unemployment vary with gender, specific tasks, and over time. Method: Fixed effects models were applied to estimate the associations of unemployment with both partners' total, neutral, female-typed, and male-typed housework hours. The analyses were based on 12,183 couples from the Socio-Economic Panel, 1991 to 2015. The Socio-Economic Panel is a nationally representative household panel survey of the German adult population. Results: This study found stronger associations for unemployment of husbands than wives with own and spouses' total housework hours and an expansion of the total household production. The changes were immediate and remained constant over time. The patterns for specific tasks resembled the main results, but for wives, the associations were stronger with female-typed tasks whereas for husbands they were stronger with male-typed tasks. Conclusion: The authors conclude that the division of housework following unemployment is better explained by gender-neutral theories of time availability or relative resources. Whereas the task-specific findings are also consistent with a gender-based perspective, the finding that men increased their routine chores immediately and substantially is at odds with strict interpretations of gender display or deviance neutralization.",
+  "authors": [
+    {
+      "raw": "Vossemer, Jonas",
+      "family": "Vossemer",
+      "given": "Jonas"
+    },
+    {
+      "raw": "Heyne, Stefanie",
+      "family": "Heyne",
+      "given": "Stefanie"
+    }
+  ],
+  "authors_text": "Vossemer, Jonas; Heyne, Stefanie",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12602",
+  "doi_url": "https://doi.org/10.1111/jomf.12602",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12602",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12602.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "What drives educational segregation and which communities are affected? Findings from a decomposition approach☆",
+  "abstract": "While demographers and policymakers have long documented the economic consequences of U.S. brain drain and brain gain, efforts to address these issues have rested on two key assumptions. First, existing accounts tend to view educational segregation as being driven by differences in the college-educated population found between broader-scaled entities (e.g., winner and loser cities that anchor metros). Second, it is often assumed that educational segregation is primarily driven by the exodus of human capital from rural, predominantly white communities. However, these assumptions neglect a longstanding body of sociological literature on residential segregation and neighborhood-level sorting. In this article, we use Census and American Community Survey (ACS) data and adopt a decomposition approach to test these assumptions directly. In contrast to the expectations associated with brain drain and brain gain perspectives, our results indicate that educational segregation is almost entirely attributable to neighborhood-level differences found in metropolitan areas, stemming especially from the relative differences between Black and Hispanic communities and their white and Asian counterparts. This indicates that existing policy prescriptions for addressing educational segregation may overlook the people and places most affected by these issues. Overall, our findings provide insight into a seldom studied axis of residential stratification and suggest that the forces shaping educational segregation are more complex than previously appreciated, laying the foundation for future research.",
+  "authors": [
+    {
+      "raw": "Kye, Samuel H.",
+      "family": "Kye",
+      "given": "Samuel H."
+    },
+    {
+      "raw": "Tom, Thalia",
+      "family": "Tom",
+      "given": "Thalia"
+    }
+  ],
+  "authors_text": "Kye, Samuel H.; Tom, Thalia",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2026,
+  "doi": "10.1016/j.ssresearch.2025.103263",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103263",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103263",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103263.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

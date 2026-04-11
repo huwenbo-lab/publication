@@ -1,0 +1,35 @@
+{
+  "title": "Under Whose Roof? Understanding the Living Arrangements of Children in Doubled-Up Households",
+  "abstract": "A growing literature in family demography examines children's residence in doubled-up (shared) households with extended family members and nonkin. This research has largely overlooked the role of doubling up as a housing strategy, with hosts (householders) providing housing support for guests living in their home. Yet, understanding children's experiences in doubled-up households requires attention to host/guest status. Using the American Community Survey and Survey of Income and Program Participation, we identify the prevalence of children doubling up as hosts and guests in different household compositions (multigenerational, extended family, nonkin), show how this varies by demographic characteristics, and examine children's patterns of residence across these household types. We find large variation by demographic characteristics. More disadvantaged children have higher rates of doubling up as guests than hosts, whereas more advantaged children have higher rates of doubling up as hosts than guests. Additionally, compared with hosts, guests more often use doubling up as a longer-term strategy; a greater share of guests live consistently doubled up over a three-year period, but those who do transition between household types experience more transitions on average than do hosts. Our findings show the importance of attending to both housing status and household composition when studying children living in doubled-up households.",
+  "authors": [
+    {
+      "raw": "Harvey, Hope",
+      "family": "Harvey",
+      "given": "Hope"
+    },
+    {
+      "raw": "Dunifon, Rachel",
+      "family": "Dunifon",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Pilkauskas, Natasha",
+      "family": "Pilkauskas",
+      "given": "Natasha"
+    }
+  ],
+  "authors_text": "Harvey, Hope; Dunifon, Rachel; Pilkauskas, Natasha",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9101102",
+  "doi_url": "https://doi.org/10.1215/00703370-9101102",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9101102",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9101102.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

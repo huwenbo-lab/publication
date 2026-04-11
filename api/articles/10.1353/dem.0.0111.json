@@ -1,0 +1,30 @@
+{
+  "title": "Measuring years of inactivity, years in retirement, time to retirement, and age at retirement within the Markov model",
+  "abstract": "Abstract Retirement-related concepts are treated as random variables within Markov process models that capture multiple labor force entries and exits. The expected number of years spent outside of the labor force, expected years in retirement, and expected age at retirement are computed—all of which are of immense policy interest but have been heretofore reported with less precisely measured proxies. Expected age at retirement varies directly with a person’s age; but even younger people can expect to retire at ages substantially older than those commonly associated with retirement, such as age 60, 62, or 65. Between 1970 and 2003, men allocated most of their increase in life expectancy to increased time in retirement, but women allocated most of their increased life expectancy to labor force activity. Although people can exit and reenter the labor force at older ages, most 65-year-old men who are active in the labor force will not reenter after they eventually exit. At age 65, the probability that those who are inactive will reenter the labor force at some future time is .38 for men and .27 for women. Life expectancy at exact ages is decomposed into the sum of the expected time spent active and inactive in the labor force, and also as the sum of the expected time to labor force separation and time in retirement.",
+  "authors": [
+    {
+      "raw": "Skoog, Gary R.",
+      "family": "Skoog",
+      "given": "Gary R."
+    },
+    {
+      "raw": "Ciecka, James E.",
+      "family": "Ciecka",
+      "given": "James E."
+    }
+  ],
+  "authors_text": "Skoog, Gary R.; Ciecka, James E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0111",
+  "doi_url": "https://doi.org/10.1353/dem.0.0111",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0111",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0111.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "The Social Structure of Private Donations to Police",
+  "abstract": "How does private money flow to police departments, and what do these donations reveal about power and accountability in public safety? Although previous studies have focused on police foundations moving tens of millions of dollars, the authors’ research uncovers a broader, more complex ecosystem of private police financial support. Using a unique data license from GuideStar Candid—all nonprofit organization tax returns from 2014 to 2019—the authors describe a larger and integrated world of organizations moving private money to police. The authors introduce the concept of police finance organizations: private entities that supply material resources to police departments without facing the same levels of public accountability, regulations, and transparency requirements as the police departments themselves. This exploratory data analysis and social network methods revealed three types of these organizations: (1) connectors, which distribute resources across multiple police departments; (2) boosters, which donate exclusively to one police department; and (3) havens, which publicly and materially support police without officially reporting these gifts. Overall, the authors provide the most complete description of the vast and underestimated structure of private donations, redefining the understanding of private-public intersections in policing and raising new questions about accountability in public safety practice.",
+  "authors": [
+    {
+      "raw": "Yamawaki Shachter, Simon",
+      "family": "Yamawaki Shachter",
+      "given": "Simon"
+    },
+    {
+      "raw": "Chandler, Eric",
+      "family": "Chandler",
+      "given": "Eric"
+    },
+    {
+      "raw": "Misra, Kiran",
+      "family": "Misra",
+      "given": "Kiran"
+    },
+    {
+      "raw": "Vargas, Robert",
+      "family": "Vargas",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Yamawaki Shachter, Simon; Chandler, Eric; Misra, Kiran; Vargas, Robert",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251327446",
+  "doi_url": "https://doi.org/10.1177/23780231251327446",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251327446",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251327446.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Does Paternity Leave Affect Mothers' Sickness Absence?",
+  "abstract": "Female labour force participation is high in Norway but sickness absence rates are higher for women than for men. This may be partly a result of unequal sharing of childcare in the family. In this article, we consider the effect of paternity leave on sickness absence among women who have recently given birth to a child. A 4-week paternity quota is reserved for the father but there is also a larger pool of leave days that parents can share among them as they wish. The dependent variable is absence due to own sickness extending 16 days, which is compensated by social insurance. We apply full population panel data 1992–2003 from administrative sources. Our main result is that in families where fathers take more leave than the paternity quota, the incidence of sickness absence among mothers is reduced by about 1.3 percentage points from an average level of 23%. The evidence on leave up to the paternity quota is more mixed but indicates that days of sick leave are reduced.",
+  "authors": [
+    {
+      "raw": "Bratberg, E.",
+      "family": "Bratberg",
+      "given": "E."
+    },
+    {
+      "raw": "Naz, G.",
+      "family": "Naz",
+      "given": "G."
+    }
+  ],
+  "authors_text": "Bratberg, E.; Naz, G.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1093/esr/jcu058",
+  "doi_url": "https://doi.org/10.1093/esr/jcu058",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcu058",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcu058.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

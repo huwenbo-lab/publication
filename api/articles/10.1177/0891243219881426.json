@@ -1,0 +1,25 @@
+{
+  "title": "Book Review: Trans Kids: Being Gendered in the Twenty-First Century by Tey Meadow",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Jimenez, Jonathan",
+      "family": "Jimenez",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Jimenez, Jonathan",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2019,
+  "doi": "10.1177/0891243219881426",
+  "doi_url": "https://doi.org/10.1177/0891243219881426",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243219881426",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243219881426.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

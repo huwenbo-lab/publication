@@ -1,0 +1,35 @@
+{
+  "title": "Do the institutionally disadvantaged students benefit more from boarding at school in their studying? The role of migration and Hukou status in China",
+  "abstract": "While the impact of boarding school on academic achievement has been extensively debated, the differential effects on distinct student groups divided institutionally have yet to be thoroughly explored. Moreover, previous studies focus on comparing boarding schools vs. day schools, which tend to suffer from bias due to the sorting processes of different school types. In this study, we employ the school-fixed effect model and inverse probability weighting approach to examine the association of boarding on middle-school students' academic outcomes in China, where most schools have a mixed population of boarders and non-boarders. Based on the two waves of panel data from the China Education Panel Survey (CEPS) in 2013 and 2014, we find that boarding is positively associated with students' academic scores, particularly math and Chinese. Rural-origin students, including rural local students and rural migrant students, benefit more from living on campus. Reduced study distractions, such as housework and playing can partially explain this positive boarding effect. This study lends empirical support to the positive effect of boarding on academic performance among students who are segregated by Hukou and migration status in China.",
+  "authors": [
+    {
+      "raw": "Tong, Yuying",
+      "family": "Tong",
+      "given": "Yuying"
+    },
+    {
+      "raw": "Gan, Yiqing",
+      "family": "Gan",
+      "given": "Yiqing"
+    },
+    {
+      "raw": "Wen, Ming",
+      "family": "Wen",
+      "given": "Ming"
+    }
+  ],
+  "authors_text": "Tong, Yuying; Gan, Yiqing; Wen, Ming",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100913",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100913",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100913",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100913.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

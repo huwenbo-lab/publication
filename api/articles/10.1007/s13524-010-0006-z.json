@@ -1,0 +1,25 @@
+{
+  "title": "Son Preference in Indian Families: Absolute Versus Relative Wealth Effects",
+  "abstract": "Abstract The desire for male children is prevalent in India, where son preference has been shown to affect fertility behavior and intrahousehold allocation of resources. Economic theory predicts less gender discrimination in wealthier households, but demographers and sociologists have argued that wealth can exacerbate bias in the Indian context. I argue that these apparently conflicting theories can be reconciled and simultaneously tested if one considers that they are based on two different notions of wealth: one related to resource constraints (absolute wealth), and the other to notions of local status (relative wealth). Using cross-sectional data from the 1998–1999 and 2005–2006 National Family and Health Surveys, I construct measures of absolute and relative wealth by using principal components analysis. A series of statistical models of son preference is estimated by using multilevel methods. Results consistently show that higher absolute wealth is strongly associated with lower son preference, and the effect is 20%–40% stronger when the household’s community-specific wealth score is included in the regression. Coefficients on relative wealth are positive and significant although lower in magnitude. Results are robust to using different samples, alternative groupings of households in local areas, different estimation methods, and alternative dependent variables.",
+  "authors": [
+    {
+      "raw": "Gaudin, Sylvestre",
+      "family": "Gaudin",
+      "given": "Sylvestre"
+    }
+  ],
+  "authors_text": "Gaudin, Sylvestre",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-010-0006-z",
+  "doi_url": "https://doi.org/10.1007/s13524-010-0006-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-010-0006-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-010-0006-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

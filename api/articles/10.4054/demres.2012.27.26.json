@@ -1,0 +1,35 @@
+{
+  "title": "Estimates of Age-Specific Reductions in HIV Prevalence in Uganda: Bayesian Melding Estimation and Probabilistic Population Forecast with an HIV-enabled Cohort Component Projection Model",
+  "abstract": "We demonstrate that: (1) it is possible to model HIV epidemics in Africa taking account of sex and age, (2) there are important advantages to the Bayesian estimation method, including rigorous quantification of uncertainty and the ability to make probabilistic forecasts, and (3) that there were important age-specific changes in HIV incidence in Uganda during the early 2000s.",
+  "authors": [
+    {
+      "raw": "Clark, Samuel J.",
+      "family": "Clark",
+      "given": "Samuel J."
+    },
+    {
+      "raw": "Thomas, Jason",
+      "family": "Thomas",
+      "given": "Jason"
+    },
+    {
+      "raw": "Bao, Le",
+      "family": "Bao",
+      "given": "Le"
+    }
+  ],
+  "authors_text": "Clark, Samuel J.; Thomas, Jason; Bao, Le",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2012,
+  "doi": "10.4054/demres.2012.27.26",
+  "doi_url": "https://doi.org/10.4054/demres.2012.27.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2012.27.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2012.27.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

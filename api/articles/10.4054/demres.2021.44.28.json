@@ -1,0 +1,25 @@
+{
+  "title": "US disparities in affluence by household structure, 1959 to 2017",
+  "abstract": "BACKGROUND This study examines trends in affluence. as indicated by high household income - by household structure over the 1959 to 2017 period. I contrast the experiences of married-couple households, whose share of all households declined substantially over time, with those of single-parent households, cohabiting couples, individuals living alone, and people living with nonrelatives. METHODS I use data from multiple censuses and the American Community Survey and logistic regression. RESULTS Levels of absolute affluence rose substantially for all household types, reflecting rising living standards. Married-couple households were the most likely to be affluent and single-parent households were the least. Moreover, the affluence gap between married-couple households and all others widened. Married couples fared better because they experienced larger increases in wages and other important sources of income, such as from investments and retirement. CONCLUSIONS The findings suggest that married-couple households benefit from a collective work strategy and economies of scale that increase their likelihood of affluence. Positive selectivity into marriage may also have increased over time. CONTRIBUTION This study provides timely new information on changing gaps in affluence by household structure during a period of substantial change in household living arrangements and economic well-being.",
+  "authors": [
+    {
+      "raw": "Iceland, John",
+      "family": "Iceland",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Iceland, John",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.28",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

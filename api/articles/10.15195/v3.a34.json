@@ -1,0 +1,25 @@
+{
+  "title": "Growing Farther Apart: Racial and Ethnic Inequality in Household Wealth Across the Distribution",
+  "abstract": "This article investigates net worth disparities by race and ethnicity using pooled data from the 1998–2013 waves of the U.S. Survey of Consumer Finances. I apply unconditional quantile regression models to examine net worth throughout the wealth distribution and decomposition procedures to demonstrate how different factors related to demographics, human capital, financial attitudes, and credit market access contribute to racial wealth disparities. In the aggregate, non-Hispanic black households held $8,000 less in net worth than non-Hispanic white households at the 10th percentile, $204,000 less at the median, and $1,055,000 at the 90th percentile. Hispanic households faced similar disadvantages, holding $4,000 less in net worth at the 10th percentile, $208,000 less at the median, and $1,023,000 less at the 90th percentile. Disparities continued, but declined, after accounting for labor market disadvantages and credit market access, which again varied across the distribution. Decomposition models show that demographic and income differences mattered more for high-wealth households. These variables accounted for 43–55 percent of the gap for high-wealth households at the 90th percentile but only 10–28 percent at the 10th percentile. Among low-wealth households, differential access to credit markets and homeownership was associated with a larger proportion of the gap in net worth.",
+  "authors": [
+    {
+      "raw": "Maroto, Michelle",
+      "family": "Maroto",
+      "given": "Michelle"
+    }
+  ],
+  "authors_text": "Maroto, Michelle",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2016,
+  "doi": "10.15195/v3.a34",
+  "doi_url": "https://doi.org/10.15195/v3.a34",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv3.a34",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v3.a34.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

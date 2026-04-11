@@ -1,0 +1,45 @@
+{
+  "title": "The age pattern of increases in mortality affected by HIV",
+  "abstract": "The motivating aim of this work is to develop new methods that can be useful in applying the HP eight-parameter model of age-specific mortality. We have done this and chosen an interesting application to demonstrate the new methods.",
+  "authors": [
+    {
+      "raw": "Sharrow, David",
+      "family": "Sharrow",
+      "given": "David"
+    },
+    {
+      "raw": "Clark, Samuel J.",
+      "family": "Clark",
+      "given": "Samuel J."
+    },
+    {
+      "raw": "Collinson, Mark",
+      "family": "Collinson",
+      "given": "Mark"
+    },
+    {
+      "raw": "Kahn, Kathleen",
+      "family": "Kahn",
+      "given": "Kathleen"
+    },
+    {
+      "raw": "Tollman, Stephen",
+      "family": "Tollman",
+      "given": "Stephen"
+    }
+  ],
+  "authors_text": "Sharrow, David; Clark, Samuel J.; Collinson, Mark; Kahn, Kathleen; Tollman, Stephen",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2013,
+  "doi": "10.4054/demres.2013.29.39",
+  "doi_url": "https://doi.org/10.4054/demres.2013.29.39",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2013.29.39",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2013.29.39.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

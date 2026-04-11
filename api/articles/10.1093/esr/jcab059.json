@@ -1,0 +1,25 @@
+{
+  "title": "Natural Disasters and Preferences for Redistribution: The Impact of Collective and Abrupt Disruptions",
+  "abstract": "This study investigates the impact on redistributive preferences of one pervasive yet underexplored type of shock: natural disasters. Previous research has focused on smaller, endogenous shocks that do not share two key features of disasters: they are abrupt and collective experiences. The literature on economic shocks suggests they lead to increased demand for redistribution. Nevertheless, disasters are such abrupt ruptures that they could inhibit an increase in demand for redistribution because they may trigger psychological needs to justify the status quo. Further, their collective nature may push people to substitute government-based help for community or religious-based social insurance. In light of these conflicting accounts, I argue that how surprising a disaster is determines whether it is a deterrent or a catalyst of support for redistribution. To test my argument, I link World Values Survey data to information on subnational risk to natural disasters and find that risk of surprising disasters such as earthquakes and tsunamis increases demand for redistribution but risk of predictable disasters does not. The relationship is robust to controlling for a series of individual and sub-national district characteristics. An event study of earthquake incidence shows a similar pattern: more surprising earthquakes-those impacting rarely hit districts-drive increases in demand for redistribution.",
+  "authors": [
+    {
+      "raw": "Paneda-Fernandez, Irene",
+      "family": "Paneda-Fernandez",
+      "given": "Irene"
+    }
+  ],
+  "authors_text": "Paneda-Fernandez, Irene",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab059",
+  "doi_url": "https://doi.org/10.1093/esr/jcab059",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab059",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab059.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

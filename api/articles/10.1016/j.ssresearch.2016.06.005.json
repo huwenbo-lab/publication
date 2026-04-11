@@ -1,0 +1,35 @@
+{
+  "title": "Child support and mixed-status families an analysis using the Fragile Families and Child Wellbeing Study",
+  "abstract": "A large body of literature documents the importance of child support for children's wellbeing, though little is known about the child support behaviors of mixed-status families, a large and rapidly growing population in the United States. In this paper, we use data from the Fragile Families and Child Wellbeing Study to investigate the impact of citizenship status on formal and informal child support transfers among a nationally representative sample of parents who have citizen children. Probit regression models and propensity score matching (PSM) estimators show that mixed-status families are significantly less likely to have child support orders and child support receipt compared to their citizen counterparts. We found that mothers' knowledge of the child support system increases the probability of establishing paternity. However, cultural differences in knowledge of and perception about the U.S. child support system between mixed-status families and citizen families do not have an impact on the probability of getting a child support order, child support receipt, or in-kind child support. Rather, institutional factors such as collaborations between welfare agencies and child support enforcement agencies as well as state child support enforcement efforts have a significant impact on formal child support outcomes. The results are robust against different model specifications, measure constructions, and use of datasets. These findings have important policy implications for policy makers and researchers interested in reducing child poverty in complex family structures and underscore the need to revisit child support policies for mixed-status families. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Xu, Lanlan",
+      "family": "Xu",
+      "given": "Lanlan"
+    },
+    {
+      "raw": "Pirog, Maureen A.",
+      "family": "Pirog",
+      "given": "Maureen A."
+    },
+    {
+      "raw": "Vargas, Edward D.",
+      "family": "Vargas",
+      "given": "Edward D."
+    }
+  ],
+  "authors_text": "Xu, Lanlan; Pirog, Maureen A.; Vargas, Edward D.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.06.005",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.06.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.06.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.06.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

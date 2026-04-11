@@ -1,0 +1,25 @@
+{
+  "title": "National Income, Inequality and Global Patterns of Cigarette Use",
+  "abstract": "Declining tobacco use in high-income nations and rising tobacco use in low- and middle-income nations raises questions about the sources of worldwide patterns of smoking. Theories posit a curvilinear influence of national income based on the balance of affordability and health-cost effects. In addition, however, economic inequality, gender inequality and government policies may moderate the rise and fall in smoking prevalence with national income. This study tests these arguments using aggregate data for 145 nations and measures of smoking prevalence circa 2000. The results show nonlinear effects of national income for males that take the form of an inverted U, but show linear effects for females. They also show non-additive effects of economic inequality for males that moderate both the rise and decline of smoking with national income and non-additive effects of gender equality for females that moderate the positive effect of national income.",
+  "authors": [
+    {
+      "raw": "Pampel, F.",
+      "family": "Pampel",
+      "given": "F."
+    }
+  ],
+  "authors_text": "Pampel, F.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2007,
+  "doi": "10.1093/sf/86.2.445",
+  "doi_url": "https://doi.org/10.1093/sf/86.2.445",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2F86.2.445",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/86.2.445.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

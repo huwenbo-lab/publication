@@ -1,0 +1,25 @@
+{
+  "title": "Why is the American South Poorer?",
+  "abstract": "While American poverty research has devoted greater attention to poverty in the Northeast and Midwest, poverty has been persistently higher in the U.S. South than in the other regions. Thus, this study investigates the enduring question of why poverty is higher in the South. Specifically, it demonstrates the role of power resources as an explanation for this regional disparity, yet also considers family demography, economic structure, and racial/ethnic heterogeneity. Using six waves (2000-2016) of U.S. Census Current Population Survey data from the Luxembourg Income Study (N = 1,157,914), this study employs a triangulation of analytic techniques: (1) tests of means and proportion differences, (2) multilevel linear probability models of poverty, and (3) binary decomposition of the South/non-South poverty gap. The comparison of means associated with the power resource hypothesis yields the largest substantive differences between the South and the non-South. In the multilevel models, adjusting for power resources yields the largest declines in the South coefficient. Binary decomposition results indicate power resources are the second most influential factor explaining the South/non-South poverty gap. Overall, power resources are an important source of the South/non-South poverty gap, though economic structure and other factors certainly also play a role. Results also suggest an important interplay between power resources and race. Altogether, these results underscore the importance of macrolevel characteristics of places, including political and economic contexts, in shaping individual poverty and overall patterns of inequality.",
+  "authors": [
+    {
+      "raw": "Baker, Regina S.",
+      "family": "Baker",
+      "given": "Regina S."
+    }
+  ],
+  "authors_text": "Baker, Regina S.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz149",
+  "doi_url": "https://doi.org/10.1093/sf/soz149",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz149",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz149.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

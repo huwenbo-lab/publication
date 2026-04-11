@@ -1,0 +1,40 @@
+{
+  "title": "Birth month and adult lifespan: A within-family, cohort, and spatial examination using FamiLinx data in the United States (1700-1899)",
+  "abstract": "BACKGROUND Research has shown that the circumstances surrounding birth may influence the timing of death. In the northern hemisphere, children born in spring and summer have a shorter lifespan than those born in fall and winter. OBJECTIVE We describe the effect of month of birth on adult lifespan (50+) in the United States in three ways. First, we estimate it between and within groups of siblings, accounting for unobserved factors at the family level. Second, we estimate the effect of birth month across a period of about 200 years (1700-1899). Third, we examine geographical variation in the effect of birth month across US census areas. METHODS We estimate descriptive statistics and OLS regression models between and within sibling groups.RESULTS We find an effect of birth month on lifespan. Individuals born in spring and summer have on average a shorter lifespan than those born in fall and winter. The effect is relatively consistent across cohorts, geographical census areas, and between and within families. We test different possible explanations for this result and find residual evidence that in utero debilitation may account for this result.CONTRIBUTION Twenty years ago, Gabriele Doblhammer and James W. Vaupel published an influential paper, showing the importance of birth month for lifespan and arguing that circumstances experienced in utero are the likely explanation for this result. We extend these insights by exploiting new crowdsourced data that allows us to study the phenomena over 200 years, across space, and between and within families.",
+  "authors": [
+    {
+      "raw": "Cozzani, Marco",
+      "family": "Cozzani",
+      "given": "Marco"
+    },
+    {
+      "raw": "Minardi, Saverio",
+      "family": "Minardi",
+      "given": "Saverio"
+    },
+    {
+      "raw": "Corti, Giulia",
+      "family": "Corti",
+      "given": "Giulia"
+    },
+    {
+      "raw": "Barban, Nicola",
+      "family": "Barban",
+      "given": "Nicola"
+    }
+  ],
+  "authors_text": "Cozzani, Marco; Minardi, Saverio; Corti, Giulia; Barban, Nicola",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.9",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

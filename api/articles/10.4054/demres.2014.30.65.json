@@ -1,0 +1,30 @@
+{
+  "title": "Homogamy in socio-economic background and education, and the dissolution of cohabiting unions",
+  "abstract": "Background: Despite the increasing prevalence of cohabitation, knowledge of how socio-economic homogamy affects the stability of cohabiting unions is scant. Few studies have compared the effects of homogamy in both ascribed and achieved socio-economic status on union dissolution. Objective: Our aim is to determine how homogamy and heterogamy in educational level and parental social class affect the risk of cohabitation dissolution in Finland. Methods: We use unique Finnish register data that includes information on non-marital cohabitation. Cox regression is used to analyse the risk of dissolution in 20,452 cohabitations. We examine the dissolution rates in all possible combinations of partner status, and analyse how these estimates deviate from the main effects of each partner's status. Results: According to the findings, homogamy in parental social class is of little consequence in cohabitation dissolution, although cohabitations between people from upper-white-collar and farmer families are disproportionately likely to dissolve. Educational differences between partners are more significant determinants of cohabitation stability: extreme heterogamy is associated with an increased separation risk, and homogamy decreases the separation risk among cohabitors with a higher university degree. Conclusions: In line with the perception that personal achievement is more significant than social origins in contemporary union dynamics, similarity in educational level increases cohabitation stability more than similarity in socio-economic origin. Although previous Nordic studies report little or no association between educational homogamy or heterogamy and marriage dissolution, our study shows that educational differences do matter in cohabiting unions.",
+  "authors": [
+    {
+      "raw": "Mäenpää, Elina",
+      "family": "Mäenpää",
+      "given": "Elina"
+    },
+    {
+      "raw": "Jalovaara, Marika",
+      "family": "Jalovaara",
+      "given": "Marika"
+    }
+  ],
+  "authors_text": "Mäenpää, Elina; Jalovaara, Marika",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2014,
+  "doi": "10.4054/demres.2014.30.65",
+  "doi_url": "https://doi.org/10.4054/demres.2014.30.65",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2014.30.65",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2014.30.65.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

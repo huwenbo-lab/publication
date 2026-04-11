@@ -1,0 +1,35 @@
+{
+  "title": "Gender and the Politics of Death: Female Representation, Political and Developmental Context, and Population Health in a Cross-National Panel",
+  "abstract": "There is considerable speculation that female political empowerment could improve population health. Yet, evidence to date is limited, and explanations for why political empowerment would matter and the conditions under which this might be enhanced or muted are not well understood. In this article, we draw on theoretical work on the politics of representation to frame an investigation of whether increases in the percentage of females in a country's parliament influence mortality rates. We further examine whether the relationship is conditioned by extent of democracy and economic and social development. Through multivariate longitudinal regression, we analyze four indicators of mortality in 155 countries spanning 1990 to 2014 with controls for initial country conditions, time-stable structural predispositions to higher mortality, and a number of time-varying potential confounders. Results indicate that a high level of female representation-30 % or greater in our models-has large negative associations with mortality, that these are particularly strong in lesser developed and weak democratic contexts, that high female political representation effectively offsets liabilities associated with low development, and that the relationships are robust to various operationalizations of social development. In the end, our research provides a particularly thorough accounting of the relationship between female political representation and population health, particularly by specifying the conditions under which female representation is most salient. In doing so, the research suggests important links between issues of female empowerment, political context, and developmental trajectories of countries more generally.",
+  "authors": [
+    {
+      "raw": "Macmillan, Ross",
+      "family": "Macmillan",
+      "given": "Ross"
+    },
+    {
+      "raw": "Shofia, Naila",
+      "family": "Shofia",
+      "given": "Naila"
+    },
+    {
+      "raw": "Sigle, Wendy",
+      "family": "Sigle",
+      "given": "Wendy"
+    }
+  ],
+  "authors_text": "Macmillan, Ross; Shofia, Naila; Sigle, Wendy",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0697-0",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0697-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0697-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0697-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

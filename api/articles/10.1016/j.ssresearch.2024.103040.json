@@ -1,0 +1,30 @@
+{
+  "title": "The effect of parental separation on educational achievement: An instrumental variable analysis",
+  "abstract": "Parental separation is associated with a range of negative outcomes for children experiencing it, and there is ongoing scholarly and public interest in whether these associations reflect causal effects of parental separation. We estimate the effect of parental separation on children's educational achievement in Sweden using the proportion of male colleagues at the maternal workplace as an instrumental variable for parental separation. We discuss our instrumental variable approach in the context of the literature on the heterogeneous effects of parental separation. In the empirical analysis, we use population register data on 387,411 Swedish children born between 1990 and 1996 and measure educational achievement through their grade point averages in the final year of compulsory schooling. We find that parental separation does not have a negative effect on educational achievement and that this result is robust across a range of specifications. We argue that our results are informative of the effects of a large share of parental separations, in which parents dissolve relatively well -functioning unions.",
+  "authors": [
+    {
+      "raw": "Gratz, Michael",
+      "family": "Gratz",
+      "given": "Michael"
+    },
+    {
+      "raw": "Harkonen, Juho",
+      "family": "Harkonen",
+      "given": "Juho"
+    }
+  ],
+  "authors_text": "Gratz, Michael; Harkonen, Juho",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103040",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103040",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103040",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103040.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

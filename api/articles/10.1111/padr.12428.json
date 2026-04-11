@@ -1,0 +1,30 @@
+{
+  "title": "The Impacts of Temperature Shocks on Birth Weight in Vietnam",
+  "abstract": "This paper investigates the extent to which in utero exposure to temperature shocks affects birth weight outcomes in Vietnam. Exploiting the variations across districts and conception timing within districts, we show that a one standard deviation increase in temperature relative to the local norm (approximately 0.52 degrees C) during the first trimester of pregnancy reduces the child's weight at birth by 67 g or 2.2 percent. Our heterogeneity analysis suggests that infants living in rural areas, born to poor and low-educated mothers are especially vulnerable to temperature shocks.",
+  "authors": [
+    {
+      "raw": "Kien Le",
+      "family": "Kien Le",
+      "given": ""
+    },
+    {
+      "raw": "My Nguyen",
+      "family": "My Nguyen",
+      "given": ""
+    }
+  ],
+  "authors_text": "Kien Le; My Nguyen",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2021,
+  "doi": "10.1111/padr.12428",
+  "doi_url": "https://doi.org/10.1111/padr.12428",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12428",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12428.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

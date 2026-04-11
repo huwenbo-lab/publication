@@ -1,0 +1,40 @@
+{
+  "title": "Educational differentials in male mortality in Russia and northern Europe",
+  "abstract": "Background: Prior estimates of the Russian mortality by socio-demographic group revealed significant differentials around the censuses of 1979 and 1989, but these studies were based on different sources of information on education for the deceased",
+  "authors": [
+    {
+      "raw": "Shkolnikov, Vladimir",
+      "family": "Shkolnikov",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Deev, Alexander D.",
+      "family": "Deev",
+      "given": "Alexander D."
+    },
+    {
+      "raw": "Kravdal, Øystein",
+      "family": "Kravdal",
+      "given": "Øystein"
+    },
+    {
+      "raw": "Valkonen, Tapani",
+      "family": "Valkonen",
+      "given": "Tapani"
+    }
+  ],
+  "authors_text": "Shkolnikov, Vladimir; Deev, Alexander D.; Kravdal, Øystein; Valkonen, Tapani",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2004,
+  "doi": "10.4054/demres.2004.10.1",
+  "doi_url": "https://doi.org/10.4054/demres.2004.10.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2004.10.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2004.10.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Social Networks and Loneliness During the COVID-19 Pandemic",
+  "abstract": "We utilize longitudinal social network data collected pre–COVID-19 in June 2019 and compare them with data collected in the midst of COVID in June 2020. We find significant decreases in network density and global network size following a period of profound social isolation. While there is an overall increase in loneliness during this era, certain social network characteristics of individuals are associated with smaller increases in loneliness. Specifically, we find that people with fewer than five “very close” relationships report increases in loneliness. We further find that face-to-face interactions, as well as the duration and frequency of interactions with very close ties, are associated with smaller increases in loneliness during the pandemic. We also report on factors that do not moderate the effect of social isolation on perceived loneliness, such as gender, age, or overall social network size.",
+  "authors": [
+    {
+      "raw": "Kovacs, Balazs",
+      "family": "Kovacs",
+      "given": "Balazs"
+    },
+    {
+      "raw": "Caplan, Nicholas",
+      "family": "Caplan",
+      "given": "Nicholas"
+    },
+    {
+      "raw": "Grob, Samuel",
+      "family": "Grob",
+      "given": "Samuel"
+    },
+    {
+      "raw": "King, Marissa",
+      "family": "King",
+      "given": "Marissa"
+    }
+  ],
+  "authors_text": "Kovacs, Balazs; Caplan, Nicholas; Grob, Samuel; King, Marissa",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/2378023120985254",
+  "doi_url": "https://doi.org/10.1177/2378023120985254",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120985254",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120985254.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Developing the Selectionist Paradigm in Sociology",
+  "abstract": "This paper clarifies and develops some of the arguments put forward by W.G. Runciman in his 1998 Sociology article ‘The Selectionist Paradigm and Its Implications for Sociology’. It intends to support his basic claim that mechanisms analogous to (but not synonymous with) natural selection are an important way of understanding both continuity and change in social systems. Nonetheless, it questions the emphasis of his discussion and extends his analysis of two substantive points. The argument proceeds in two stages. The paper begins by examining the many objections that Runciman rebuts and showing that many of them do not need rebuttal but are simply irrelevant to the selectionist paradigm. By irrelevant, I mean that the objections are logically flawed or simply do not apply to the selectionist paradigm as Runciman defines it. The purpose of this part of the paper is to sharpen the debate, so that attention can subsequently be focused on a smaller number of relevant objections that remain. The remainder of the paper attempts to open that debate by discussing the two relevant objections that appear most forceful. It attempts to show that, on closer examination, both objections are mistaken. The first objection is that human deliberation makes any analogy with random mutation in biology untenable. The paper argues that in fact selection and deliberation are complementary. Selection will continue to act on social practices to the extent that our models of the world are imperfect and our practices have unintended consequences. The second objection is that while selectionism is interesting, it may be irrelevant to sociological practice. The last part of the paper provides a more detailed analysis of an example used by Runciman, the task of explaining differing levels of male lethal violence across societies. This analysis suggests that while Runciman’s ‘discursive’ selectionist analysis (like functionalism) can generate suggestive hypotheses, appropriate techniques will be needed to transform those hypotheses into models which sociological research can ultimately test. It is argued that multi-agent computer simulation is a particularly suitable technique for representing evolutionary processes in social systems thus allowing selectionism to be put on the same sort of footing as other ‘middle range’ explanations like game theory and social network analysis.",
+  "authors": [
+    {
+      "raw": "Chattoe, Edmund",
+      "family": "Chattoe",
+      "given": "Edmund"
+    }
+  ],
+  "authors_text": "Chattoe, Edmund",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2002,
+  "doi": "10.1177/003803850203600402",
+  "doi_url": "https://doi.org/10.1177/003803850203600402",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003803850203600402",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003803850203600402.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

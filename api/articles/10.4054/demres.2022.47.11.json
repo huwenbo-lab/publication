@@ -1,0 +1,30 @@
+{
+  "title": "A probabilistic model for analyzing summary birth history data",
+  "abstract": "BACKGROUND There is an increasing demand for high-quality subnational estimates of under-5 mor-tality. In low-and middle-income countries, where the burden of under-5 mortality is concentrated, vital registration is often lacking, and household surveys, which provide full birth history data, are often the most reliable source. Unfortunately, these data are spatially sparse so data are pulled from other sources to increase the available informa-tion. Summary birth histories represent a large fraction of the available data and provide numbers of births and deaths aggregated over time, along with the mother???s age. OBJECTIVE Specialized methods are needed to leverage this information, and previously the Brass method and variants have been used. We wish to develop a model-based approach that can propagate errors and make the most efficient use of the data. Further, we strive to provide a method that does not have large computational overhead. CONTRIBUTION We describe a computationally efficient model-based approach that allows summary birth history and full birth history data to be combined into analyses of under-5 mortality in a natural way. The method is based on fertility and mortality models that allow smoothing over time and space, with the possibility for including relevant covariates associated with fertility and/or mortality. We first examine the behavior of the approach on simulated data before applying the model to household survey and census data from Malawi.",
+  "authors": [
+    {
+      "raw": "Wilson, Katie",
+      "family": "Wilson",
+      "given": "Katie"
+    },
+    {
+      "raw": "Wakefield, Jon",
+      "family": "Wakefield",
+      "given": "Jon"
+    }
+  ],
+  "authors_text": "Wilson, Katie; Wakefield, Jon",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.11",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

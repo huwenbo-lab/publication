@@ -1,0 +1,35 @@
+{
+  "title": "Education Gains Attributable to Fertility Decline: Patterns by Gender, Period, and Country in Latin America and Asia",
+  "abstract": "We investigate the heterogeneity across countries and time in the relationship between mother's fertility and children's educational attainment-the quantity-quality (Q-Q) trade-off-by using census data from 17 countries in Asia and Latin America, with data from each country spanning multiple census years. For each country-year, we estimate micro-level instrumental variables models predicting secondary school attainment using number of siblings of the child, instrumented by the sex composition of the first two births in the family. We then analyze correlates of Q-Q trade-off patterns across countries. On average, one additional sibling in the family reduces the probability of secondary education by 6 percentage points for girls and 4 percentage points for boys. This Q-Q trade-off is significantly associated with the level of son preference, slightly decreasing over time and with fertility, but it does not significantly differ by educational level of the country.",
+  "authors": [
+    {
+      "raw": "Li, Jing",
+      "family": "Li",
+      "given": "Jing"
+    },
+    {
+      "raw": "Dow, William H.",
+      "family": "Dow",
+      "given": "William H."
+    },
+    {
+      "raw": "Rosero-Bixby, Luis",
+      "family": "Rosero-Bixby",
+      "given": "Luis"
+    }
+  ],
+  "authors_text": "Li, Jing; Dow, William H.; Rosero-Bixby, Luis",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0585-z",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0585-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0585-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0585-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "A Register-Based Study of Early-Life Disabilities and Income Attainment in Adulthood",
+  "abstract": "Individuals with disabilities are likely to be doubly disadvantaged, as they tend to earn less but require more financial resources than individuals without disabilities to maintain an average standard of life. Exploring the links between early-life disabilities and income attainment in adulthood requires high-quality data that allow accounting for selection into disability as well as a comprehensive list of predictors of income attainment. The authors harness the power of Norwegian register-based data and inverse-probability weighting regression adjustment estimators to examine whether individuals born with or who acquire disabilities in early life have lower income attainment at age 32 than individuals in the general population of the country. The results are robust to alternative estimation specifications and suggest that early-life chronic health conditions, such as asthma and diabetes, and impairments, such as sensory loss and physical impairment, are associated with significantly lower income attainment even when individuals’ actual working hours are accounted for among those employed.",
+  "authors": [
+    {
+      "raw": "Gugushvili, Alexi",
+      "family": "Gugushvili",
+      "given": "Alexi"
+    },
+    {
+      "raw": "Finnvold, Jon Erik",
+      "family": "Finnvold",
+      "given": "Jon Erik"
+    },
+    {
+      "raw": "Dokken, Therese",
+      "family": "Dokken",
+      "given": "Therese"
+    },
+    {
+      "raw": "Grue, Jan",
+      "family": "Grue",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Gugushvili, Alexi; Finnvold, Jon Erik; Dokken, Therese; Grue, Jan",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251335191",
+  "doi_url": "https://doi.org/10.1177/23780231251335191",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251335191",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251335191.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

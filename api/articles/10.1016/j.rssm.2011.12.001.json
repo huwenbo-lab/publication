@@ -1,0 +1,40 @@
+{
+  "title": "Family policies, employment and poverty among partnered and single mothers",
+  "abstract": "The risk of poverty for single mothers ranges from less than 2% in Sweden to more than 35% in the United States; less extreme cross-national variations also exist for partnered mothers. We explore which family policies are most effective at directly reducing poverty among families with children, and whether these policies indirectly reduce poverty through supporting mothers' employment. We combine microdata from the Luxembourg Income Study with the Work-Family Policy Indicators dataset, and use multilevel logistic regressions to examine the associations between policy and poverty, controlling for individual-level factors. We find significant effects of family allowances, generous parental leaves and childcare provisions, with more powerful effects for single mothers. We further show that parental leave and childcare operate through boosting mothers' employment, illustrating that work-family policies are useful for reducing poverty by enhancing mother's employment. (C) 2011 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Misra, Joya",
+      "family": "Misra",
+      "given": "Joya"
+    },
+    {
+      "raw": "Moller, Stephanie",
+      "family": "Moller",
+      "given": "Stephanie"
+    },
+    {
+      "raw": "Strader, Eiko",
+      "family": "Strader",
+      "given": "Eiko"
+    },
+    {
+      "raw": "Wemlinger, Elizabeth",
+      "family": "Wemlinger",
+      "given": "Elizabeth"
+    }
+  ],
+  "authors_text": "Misra, Joya; Moller, Stephanie; Strader, Eiko; Wemlinger, Elizabeth",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2012,
+  "doi": "10.1016/j.rssm.2011.12.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2011.12.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2011.12.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2011.12.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

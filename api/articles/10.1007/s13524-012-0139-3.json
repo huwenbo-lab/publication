@@ -1,0 +1,35 @@
+{
+  "title": "The Association Between Individual Income and Remaining Life Expectancy at the Age of 65 in the Netherlands",
+  "abstract": "Abstract This article quantifies the association between individual income and remaining life expectancy at the statutory retirement age (65) in the Netherlands. For this purpose, we estimate a mortality risk model using a large administrative data set that covers the 1996–2007 period. Besides age and marital status, the model includes as covariates individual and spouse’s income as well as a random individual specific effect. It thus allows for dynamic selection based on both observed and unobserved characteristics. We find that conditional on marital status, individual income is about equally strong and negatively associated with mortality risk for men and women and that spouse’s income is only weakly associated with mortality risk for women. For both men and women, we quantify remaining life expectancy at age 65 for low-income individuals as approximately 2.5 years less than that for high-income individuals.",
+  "authors": [
+    {
+      "raw": "Kalwij, Adriaan S.",
+      "family": "Kalwij",
+      "given": "Adriaan S."
+    },
+    {
+      "raw": "Alessie, Rob J. M.",
+      "family": "Alessie",
+      "given": "Rob J. M."
+    },
+    {
+      "raw": "Knoef, Marike G.",
+      "family": "Knoef",
+      "given": "Marike G."
+    }
+  ],
+  "authors_text": "Kalwij, Adriaan S.; Alessie, Rob J. M.; Knoef, Marike G.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0139-3",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0139-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0139-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0139-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

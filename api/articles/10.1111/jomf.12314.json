@@ -1,0 +1,35 @@
+{
+  "title": "Is Your Spouse More Likely to Divorce You if You Are the Older Partner?",
+  "abstract": "The authors assessed how the relative age of spouses affects whether men or women initiate a divorce, using data from the National Survey of Families and Households. Ex-spouses' reports of who left generally agreed, but not always, so the analysis used a latent class model embedded in an event-history model with competing risks that the woman leaves the man or the man leaves the woman. Support was not found for the hypothesis that age heterogamy itself increases the odds of divorce: Even large age differences did not make men more likely to leave younger wives, and women's exits were as likely when the marriage is homogamous as when she was older. The main conclusion is that both men and women are more likely to leave if their spouse is older than they are. The effects were stronger for men, but the gender difference in effect size was not statistically significant.",
+  "authors": [
+    {
+      "raw": "England, Paula",
+      "family": "England",
+      "given": "Paula"
+    },
+    {
+      "raw": "Allison, Paul D.",
+      "family": "Allison",
+      "given": "Paul D."
+    },
+    {
+      "raw": "Sayer, Liana C.",
+      "family": "Sayer",
+      "given": "Liana C."
+    }
+  ],
+  "authors_text": "England, Paula; Allison, Paul D.; Sayer, Liana C.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2016,
+  "doi": "10.1111/jomf.12314",
+  "doi_url": "https://doi.org/10.1111/jomf.12314",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12314",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12314.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

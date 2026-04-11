@@ -1,0 +1,30 @@
+{
+  "title": "School Attendance and Academic Achievement: Understanding Variation across Family Socioeconomic Status",
+  "abstract": "Studies consistently show the detrimental effect of school absences on pupils' achievement. However, due to an accumulation of multiple risks, school absenteeism may be more harmful to achievement among pupils from lower socioeconomic status (SES). Using a sample of upper-secondary students from the Scottish Longitudinal Study (n = 3,135), we investigated whether the association between absences (overall, sickness, and truancy) and achievement in high-stakes exams varied by family SES dimensions (parental education, class, free school meal registration, and housing). The findings for overall absences and truancy show no statistically significant differences across SES groups. However, sickness absences were more harmful to the achievement of lower SES students than higher SES students. Differences between the most and least disadvantaged groups were found on all SES dimensions except for parental education.",
+  "authors": [
+    {
+      "raw": "Klein, Markus",
+      "family": "Klein",
+      "given": "Markus"
+    },
+    {
+      "raw": "Sosu, Edward M.",
+      "family": "Sosu",
+      "given": "Edward M."
+    }
+  ],
+  "authors_text": "Klein, Markus; Sosu, Edward M.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2024,
+  "doi": "10.1177/00380407231191541",
+  "doi_url": "https://doi.org/10.1177/00380407231191541",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380407231191541",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380407231191541.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

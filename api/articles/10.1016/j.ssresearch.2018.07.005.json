@@ -1,0 +1,25 @@
+{
+  "title": "How much would eliminating drug crimes decrease racial/ethnic gaps in criminal conviction?",
+  "abstract": "Since the 1970s, criminal justice contact has become an increasingly common event in early adulthood, and disproportionately so for African American men. Policymakers often argue that reducing drug-related conviction rates is among the easiest ways to reduce racial/ethnic disparities in incarceration. These arguments are often backed by statistics that convey the number of drug offenders in contact with the criminal justice system at a given point in time. Unfortunately, we know little about the extent to which over-time conviction risk and associated racial/ethnic disparities may be affected by drug-related policy changes. Using a novel application of the single decrement life table to analyze data from the National Longitudinal Survey of Youth 1997 (NLSY97), I present a quantitative thought experiment to consider the extent to which the elimination of drug-related offenses would affect racial/ethnic disparities in men's cumulative probability of conviction by age 30. Consistent with prior research, results indicate that black men are at disproportionately higher risk of ever experiencing a drug-related conviction, and of experiencing a drug-related conviction at each conviction instance. More surprising, however, is the finding that while the removal of drug sentencing may significantly impact racial/ethnic disparities associated with conviction, only a relatively small proportion of those ever convicted would avoid conviction altogether in the absence of drug-related sentencing.",
+  "authors": [
+    {
+      "raw": "Goldman, Alyssa W.",
+      "family": "Goldman",
+      "given": "Alyssa W."
+    }
+  ],
+  "authors_text": "Goldman, Alyssa W.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.07.005",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.07.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.07.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.07.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

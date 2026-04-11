@@ -1,0 +1,30 @@
+{
+  "title": "Wealth Accumulation and the Gender Wealth Gap Across Couples’ Legal Statuses and Matrimonial Property Regimes in France",
+  "abstract": "AbstractThis paper examines wealth accumulation among couple-headed households and investigates changes in within-household inequality over time and across couple statuses. Going beyond previous research that mostly studies wealth accumulation within marriages by comparing married with unmarried individuals, we consider the legal statuses of couples (cohabitation, civil union, and marriage) and property regimes (community and separate property). We apply multivariate regression analysis to high-quality longitudinal data from the French wealth survey (2015–2018) and find no differences in net worth accumulation between couples’ legal statuses when property regimes are not accounted for. However, couples with a separate property regime accumulate more wealth than couples with a community property regime, and married couples with a separate property regime drive this association. Our results show that the gender wealth gap is larger for couples with a separate property regime, but it is partially compensated by accumulated wealth. Our results highlight the importance of legal statuses and property regimes in explaining the dynamics of between- and within-household inequality in France, specifically within a context of increasingly diversified marital trajectories.",
+  "authors": [
+    {
+      "raw": "Frémeaux, Nicolas",
+      "family": "Frémeaux",
+      "given": "Nicolas"
+    },
+    {
+      "raw": "Leturcq, Marion",
+      "family": "Leturcq",
+      "given": "Marion"
+    }
+  ],
+  "authors_text": "Frémeaux, Nicolas; Leturcq, Marion",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09632-5",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09632-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09632-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09632-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

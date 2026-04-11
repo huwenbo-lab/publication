@@ -1,0 +1,35 @@
+{
+  "title": "How Do Family-Friendly Policies Impact Marital Satisfaction: A Mediation Analysis of Korean Working Women",
+  "abstract": "This study examines the relationship between family-friendly policies and marital satisfaction and whether couple bonding activities mediate this association. This study used data from the Korean Longitudinal Survey of Women & Families (KLoWF), a nationally representative study of Korean women, and estimated fixed-effects models examining whether family-friendly policies are associated with marital satisfaction. Sobel mediation analyses were conducted to investigate whether couple bonding activities mediate the association. Family-friendly workplace policies were positively associated with marital satisfaction (beta = 0.531), after accounting for individual-level confounders. Family-friendly workplace policies were also associated with more engagement in cultural activities and physical activities with a partner (beta s = 0.042 and 0.068, respectively). Mediation analyses showed that couple bonding activities explained 16.7% of the association between family-friendly workplace policies and marital satisfaction. Family-friendly policies may enhance the quality of working women's marital life through an increase in engagement in couple bonding activities.",
+  "authors": [
+    {
+      "raw": "Park, Gum-Ryeong",
+      "family": "Park",
+      "given": "Gum-Ryeong"
+    },
+    {
+      "raw": "Song, Kyungeun",
+      "family": "Song",
+      "given": "Kyungeun"
+    },
+    {
+      "raw": "Kim, Jinho",
+      "family": "Kim",
+      "given": "Jinho"
+    }
+  ],
+  "authors_text": "Park, Gum-Ryeong; Song, Kyungeun; Kim, Jinho",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2025,
+  "doi": "10.1177/0192513x251322149",
+  "doi_url": "https://doi.org/10.1177/0192513x251322149",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x251322149",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x251322149.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

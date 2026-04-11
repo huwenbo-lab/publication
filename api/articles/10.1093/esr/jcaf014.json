@@ -1,0 +1,25 @@
+{
+  "title": "Does inequality undermine life satisfaction? Effective identification of country-level controls for a longitudinal investigation",
+  "abstract": "Does increased economic inequality undermine people's subjective well-being (SWB)? Longitudinal analyses ostensibly offer a good foundation for results that can be interpreted in causal terms, because the analytical design controls for time-constant differences between countries. But researchers must still consider what controls to include for time-varying variables. Researchers engaged with this topic generally focus their attention on controls for individual-level determinants of SWB. I argue (in part by pointing to results in previous research) that individual-level controls are not important for this question-instead, what is needed is more careful attention to the identification of time-varying country-level controls. A more plausible set of decisions leads to a more extensive set of country-level controls. Applying that perspective to an analysis of relatively wealthy countries during the period 1990 to 2019, one main finding is that the overall negative impact of economic inequality on life satisfaction is much smaller than what is evident in previous research. But there are important differences for income groups. The negative impact on lower earners is larger than the overall result. For higher earners rising income inequality leads to increased life satisfaction-a striking result that contrasts with previous research.",
+  "authors": [
+    {
+      "raw": "Bartram, David",
+      "family": "Bartram",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Bartram, David",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf014",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

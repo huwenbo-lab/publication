@@ -1,0 +1,30 @@
+{
+  "title": "Single-parent households and mortality among children and youth",
+  "abstract": "Although many studies have examined associations between family structure and child outcomes, few have considered how the increase in single-parent households since the 1960s may have affected child mortality rates. We examined state-level changes in the percentage of children living with single parents between 1968 and 2010 and state-level trends in mortality among children and youth (age 19 or younger) in the United States. Regression models with state and year fixed effects revealed that increases in single parenthood were associated with small increments in accidental deaths and homicides. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Amato, Paul R.",
+      "family": "Amato",
+      "given": "Paul R."
+    },
+    {
+      "raw": "Patterson, Sarah E.",
+      "family": "Patterson",
+      "given": "Sarah E."
+    }
+  ],
+  "authors_text": "Amato, Paul R.; Patterson, Sarah E.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.09.017",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.09.017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.09.017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.09.017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

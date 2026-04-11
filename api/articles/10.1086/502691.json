@@ -1,0 +1,30 @@
+{
+  "title": "When do scientists become entrepreneurs? The social structural antecedents of commercial activity in the academic life sciences",
+  "abstract": "The authors examine the conditions prompting university-employed life scientists to become entrepreneurs, defined to occur when a scientist ( 1) founds a biotechnology company, or ( 2) joins the scientific advisory board of a new biotechnology firm. This study draws on theories of social influence, socialization, and status dynamics to examine how proximity to colleagues in commercial science influences individuals' propensity to transition to entrepreneurship. To expose the mechanisms at work, this study also assesses how proximity effects change over time as for-profit science diffuses through the academy. Using adjusted proportional hazards models to analyze case-cohort data, the authors find evidence that the orientation toward commercial science of individuals' colleagues and coauthors, as well as a number of other workplace attributes, significantly influences scientists' hazards of transitioning to for-profit science.",
+  "authors": [
+    {
+      "raw": "Stuart, Toby E.",
+      "family": "Stuart",
+      "given": "Toby E."
+    },
+    {
+      "raw": "Ding, Waverly W.",
+      "family": "Ding",
+      "given": "Waverly W."
+    }
+  ],
+  "authors_text": "Stuart, Toby E.; Ding, Waverly W.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2006,
+  "doi": "10.1086/502691",
+  "doi_url": "https://doi.org/10.1086/502691",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F502691",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/502691.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

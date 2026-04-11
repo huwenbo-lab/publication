@@ -1,0 +1,50 @@
+{
+  "title": "A Comparative Study of Segregation Patterns in Belgium, Denmark, the Netherlands and Sweden: Neighbourhood Concentration and Representation of Non-European Migrants",
+  "abstract": "In this paper, we use geo-coded, individual-level register data on four European countries to compute comparative measures of segregation that are independent of existing geographical sub-divisions. The focus is on non-European migrants, for whom aggregates of egocentric neighbourhoods (with different population counts) are used to assess small-scale, medium-scale, and large-scale segregation patterns. At the smallest scale level, corresponding to neighbourhoods with 200 persons, patterns of over- and under-representation are strikingly similar. At larger-scale levels, Belgium stands out as having relatively strong over- and under-representation. More than 55% of the Belgian population lives in large-scale neighbourhoods with moderate under- or over-representation of non-European migrants. In the other countries, the corresponding figures are between 30 and 40%. Possible explanations for the variation across countries are differences in housing policies and refugee placement policies. Sweden has the largest and Denmark the smallest non-European migrant population, in relative terms. Thus, in both migrant-dense and native-born-dense areas, Swedish neighbourhoods have a higher concentration and Denmark a lower concentration of non-European migrants than the other countries. For large-scale, migrant-dense neighbourhoods, however, levels of concentration are similar in Belgium, the Netherlands, and Sweden. Thus, to the extent that such concentrations contribute to spatial inequalities, these countries are facing similar policy challenges.",
+  "authors": [
+    {
+      "raw": "Andersson, Eva K.",
+      "family": "Andersson",
+      "given": "Eva K."
+    },
+    {
+      "raw": "Malmberg, Bo",
+      "family": "Malmberg",
+      "given": "Bo"
+    },
+    {
+      "raw": "Costa, Rafael",
+      "family": "Costa",
+      "given": "Rafael"
+    },
+    {
+      "raw": "Sleutjes, Bart",
+      "family": "Sleutjes",
+      "given": "Bart"
+    },
+    {
+      "raw": "Stonawski, Marcin Jan",
+      "family": "Stonawski",
+      "given": "Marcin Jan"
+    },
+    {
+      "raw": "de Valk, Helga A. G.",
+      "family": "de Valk",
+      "given": "Helga A. G."
+    }
+  ],
+  "authors_text": "Andersson, Eva K.; Malmberg, Bo; Costa, Rafael; Sleutjes, Bart; Stonawski, Marcin Jan; de Valk, Helga A. G.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9481-5",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9481-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9481-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9481-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

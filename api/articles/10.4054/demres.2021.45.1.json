@@ -1,0 +1,30 @@
+{
+  "title": "Are parents and children coresiding less than before? An analysis of intergenerational coresidence in South Korea, 1980-2015",
+  "abstract": "BACKGROUND Intergenerational coresidence has important consequences for care provision for the young and the old. Given the rising concerns about population aging in South Korea, understanding intergenerational coresidence is very relevant. OBJECTIVE This research describes evolving intergenerational coresidence patterns in South Korea between 1980 and 2015 through the lens of fertility decline, increased life expectancy, and changing marriage patterns. METHODS The 1% micro data in the Korean census were used to describe changing co-residence patterns, and Sullivan's method was used to estimate the length and proportion of intergenerational coresidence. RESULTS Coresidence with parents decreased over time due to an increase in the proportion of older people. After controlling for age structure, the prevalence of parent coresidence increased due to a reduction in sibling size and delay in marriage. Coresidence with children changed little due to a decrease in the proportion of young people. After controlling for age structure, the prevalence of child coresidence decreased substantially due to fertility decline and delay in marriage. Whereas the proportion of lifetime coresidence with parents decreased modestly between 1980 and 2015, the proportion of lifetime coresidence with children almost halved. CONCLUSION As the nuclear family has become the dominant family household form, multigenerational coresidence has become less common. Demographic changes partly offset the trend of decreasing parent coresidence but amplify the trend of decreasing child coresidence.",
+  "authors": [
+    {
+      "raw": "Kye, Bongoh",
+      "family": "Kye",
+      "given": "Bongoh"
+    },
+    {
+      "raw": "Choi, Yool",
+      "family": "Choi",
+      "given": "Yool"
+    }
+  ],
+  "authors_text": "Kye, Bongoh; Choi, Yool",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.1",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

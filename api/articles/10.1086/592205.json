@@ -1,0 +1,55 @@
+{
+  "title": "Education and Cognitive Ability as Direct, Mediating, or Spurious Influences on Female Age at First Birth: Behavior Genetic Models Fit to Danish Twin Data",
+  "abstract": "The authors study education and cognitive ability as predictors of female age at first birth (AFB), using monozygotic and dizygotic female twin pairs from the Middle-Aged Danish Twin survey. Using mediated regression, they replicate findings linking education ( and not cognitive ability) to AFB. But in a behavior genetic model, both relationships are absorbed within a latent variable measuring the shared family environment. Two interpretations are relevant. First, variance in AFB emerges from differences between families, not differences between sisters within the same family. Second, even in a natural laboratory sensitive to genetic variance in female fertility during demographic transition-the variance in AFB was non-genetic, located instead within the shared environment.",
+  "authors": [
+    {
+      "raw": "Rodgers, Joseph Lee",
+      "family": "Rodgers",
+      "given": "Joseph Lee"
+    },
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    },
+    {
+      "raw": "McGue, Matt",
+      "family": "McGue",
+      "given": "Matt"
+    },
+    {
+      "raw": "Behrman, Jere R.",
+      "family": "Behrman",
+      "given": "Jere R."
+    },
+    {
+      "raw": "Petersen, Inge",
+      "family": "Petersen",
+      "given": "Inge"
+    },
+    {
+      "raw": "Bingley, Paul",
+      "family": "Bingley",
+      "given": "Paul"
+    },
+    {
+      "raw": "Christensen, Kaare",
+      "family": "Christensen",
+      "given": "Kaare"
+    }
+  ],
+  "authors_text": "Rodgers, Joseph Lee; Kohler, Hans-Peter; McGue, Matt; Behrman, Jere R.; Petersen, Inge; Bingley, Paul; Christensen, Kaare",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2008,
+  "doi": "10.1086/592205",
+  "doi_url": "https://doi.org/10.1086/592205",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F592205",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/592205.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

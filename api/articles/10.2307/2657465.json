@@ -1,0 +1,25 @@
+{
+  "title": "A new solution to the collective action problem: The paradox of voter turnout",
+  "abstract": "Macy's work offers a potential solution to the paradox of voter turnout. The stochastic learning theory of voter turnout (Kanazawa 1998) posits that citizens perceive a correlation between their behavior (voting versus abstention) and the outcome of collective action (win versus loss for their candidate), and that they interpret the outcome as a reinforcer or a punisher. The theory can solve the paradox of voter turnout because now p, the probability that one's vote is or appears decisive, equals approximately .500 in the calculus-of-voting model (instead of p congruent to 0). I use General Social Survey data to test the theory. The empirical results indicate that citizens make their turnout decisions according to the Win-Stay, Lose-Shift pattern predicted by the stochastic learning theory, especially if there are no strong third-party candidates.",
+  "authors": [
+    {
+      "raw": "Kanazawa, S",
+      "family": "Kanazawa",
+      "given": "S"
+    }
+  ],
+  "authors_text": "Kanazawa, S",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2000,
+  "doi": "10.2307/2657465",
+  "doi_url": "https://doi.org/10.2307/2657465",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2657465",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2657465.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Gender and Marital Happiness in Later Life",
+  "abstract": "In this study, the authors examine the effect of gender ideology on marital happiness in later life. Studies of marital satisfaction in later life have tended to neglect such attitudes, although they have received increasing attention in the literature on younger marriages. The authors use data from married individuals who range in age from 51 to 92 years old and are members of the 1994 Iowa Youth and Families Project. Results indicate that those who hold egalitarian attitudes report significantly higher levels of marital happiness than do those with more traditional attitudes. However, this effect is only significant for men.",
+  "authors": [
+    {
+      "raw": "Kaufman, Gayle",
+      "family": "Kaufman",
+      "given": "Gayle"
+    },
+    {
+      "raw": "Taniguchi, Hiromi",
+      "family": "Taniguchi",
+      "given": "Hiromi"
+    }
+  ],
+  "authors_text": "Kaufman, Gayle; Taniguchi, Hiromi",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2006,
+  "doi": "10.1177/0192513x05285293",
+  "doi_url": "https://doi.org/10.1177/0192513x05285293",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x05285293",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x05285293.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

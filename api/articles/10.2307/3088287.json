@@ -1,0 +1,35 @@
+{
+  "title": "The Density of Social Networks and Fertility Decisions: Evidence from South Nyanza District, Kenya",
+  "abstract": "Demographers have argued increasingly that social interaction is an important mechanism for understanding fertility behavior. Yet it is still quite uncertain whether social learning or social influence is the dominant mechanism through which social networks affect individuals' contraceptive decisions. In this paper we argue that these mechanisms can be distinguished by analyzing the density of the social network and its interaction with the proportion of contraceptive users among network partners. Our analyses indicate that social learning is most relevant with high market activity; in regions with only modest market activity, however, social influence is the dominant means by which social networks affect women's contraceptive use.",
+  "authors": [
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    },
+    {
+      "raw": "Behrman, Jere R.",
+      "family": "Behrman",
+      "given": "Jere R."
+    },
+    {
+      "raw": "Watkins, Susan C.",
+      "family": "Watkins",
+      "given": "Susan C."
+    }
+  ],
+  "authors_text": "Kohler, Hans-Peter; Behrman, Jere R.; Watkins, Susan C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.2307/3088287",
+  "doi_url": "https://doi.org/10.2307/3088287",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088287",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088287.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

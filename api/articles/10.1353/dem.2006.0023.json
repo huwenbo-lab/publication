@@ -1,0 +1,30 @@
+{
+  "title": "Estimating a marriage matching model with spillover effects",
+  "abstract": "AbstractWe use marriage matching functions to study how marital patterns change when population supplies change. Specifically, we use a behavioral marriage matching function with spillover effects to rationalize marriage and cohabitation behavior in contemporary Canada. The model can estimate a couple’s systematic gains to marriage and cohabitation relative to remaining single. These gains are invariant to changes in population supplies. Instead, changes in population supplies redistribute these gains between a couple. Although the model is behavioral, it is nonparametric. It cant any observed cross-sectional marriage matching distribution. We use the estimated model to quantify the impacts of gender differences in mortality rates and the baby boom on observed marital behavior in Canada. The higher mortality rate of men makes men scarcer than women. We show that the scarceness of men modestly reduced the welfare of women and increased the welfare of men in the marriage market. On the other hand, the baby boom increased older men’s net gains to entering the marriage market and lowered middle-aged women’s net gains",
+  "authors": [
+    {
+      "raw": "Choo, Eugene",
+      "family": "Choo",
+      "given": "Eugene"
+    },
+    {
+      "raw": "Siow, Aloysius",
+      "family": "Siow",
+      "given": "Aloysius"
+    }
+  ],
+  "authors_text": "Choo, Eugene; Siow, Aloysius",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2006,
+  "doi": "10.1353/dem.2006.0023",
+  "doi_url": "https://doi.org/10.1353/dem.2006.0023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2006.0023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2006.0023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

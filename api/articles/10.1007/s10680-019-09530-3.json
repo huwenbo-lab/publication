@@ -1,0 +1,30 @@
+{
+  "title": "Naturalization in a Context of Free Mobility: Evidence from Cross-National Data on Finnish Immigrants in Sweden",
+  "abstract": "Using unique longitudinal microdata linking administrative records from Sweden and Finland, we study how immigrant naturalization relates to cultural proximity. We analyze how Swedish citizenship acquisition depends on mother tongue by comparing Swedish-speaking and Finnish-speaking immigrants from Finland, who arrived in Sweden in 1988-2004, and contrast with other Nordic-born immigrants. We treat return migration and naturalization as two elements in the decision process of immigrants, being the first to estimate competing risks models for naturalization and return migration for the same study group of persons. The setting of free mobility in the Nordic countries, together with economic, political and social similarities, implies that the direct benefits of naturalization are modest and the same for all Nordic-born immigrants in Sweden. Thus, we assess naturalization in an analytical framework where many confounding factors are circumvented and in which the study groups have grown up in the similar institutional setting. Swedish-speaking Finns are found to have an approximately 30 percent higher standardized risk of naturalization than Finnish-speaking Finns, and a 2.5 times higher risk as compared to people from the other Nordic countries. We argue that these differentials reflect the degree to which the groups broadly differ in affinity with Sweden.",
+  "authors": [
+    {
+      "raw": "Saarela, Jan",
+      "family": "Saarela",
+      "given": "Jan"
+    },
+    {
+      "raw": "Scott, Kirk",
+      "family": "Scott",
+      "given": "Kirk"
+    }
+  ],
+  "authors_text": "Saarela, Jan; Scott, Kirk",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2019,
+  "doi": "10.1007/s10680-019-09530-3",
+  "doi_url": "https://doi.org/10.1007/s10680-019-09530-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-019-09530-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-019-09530-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Taking birth year into account when analysing effects of maternal age on child health and other outcomes: The value of a multilevel-multiprocess model compared to a sibling model",
+  "abstract": "BACKGROUND When analysing effects of maternal age on child outcomes, many researchers estimate sibling models to control for unobserved factors shared between siblings. Some have included birth year in these models, as it is linked to maternal age and may also have independent effects. However, this creates a linear-dependence problem. OBJECTIVE One aim is to illustrate how misleading the results may actually be when attempts are made to separate effects of maternal age and birth year in a sibling analysis. Another goal is to present and discuss the multilevel-multiprocess model as an alternative. METHODS Infant mortality was chosen as the outcome. Births and infant deaths were simulated from a multilevel-multiprocess model that included two equations for fertility, with a joint random effect, and one equation for infant mortality, with another random effect. The two random effects were set to be correlated. The effects of the independent variables were taken from simpler models estimated from register data. Various sibling models and multilevel-multiprocess models were estimated from these simulated births and deaths. In some simulations, two standard assumptions about the random effects were intentionally violated. CONTRIBUTIONS The paper illustrates how problematic it is to include both maternal age and birth year in a sibling model. Also, if only maternal age is included, but along with other reproductive variables, small categories should be used. It is argued that a multilevel-multiprocess model may be used instead to separate effects of maternal age and birth year, but this approach also has limitations, which are discussed.",
+  "authors": [
+    {
+      "raw": "Kravdal, Oystein",
+      "family": "Kravdal",
+      "given": "Oystein"
+    }
+  ],
+  "authors_text": "Kravdal, Oystein",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.43",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.43",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.43",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.43.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Bounding Analyses of Age-Period-Cohort Effects",
+  "abstract": "For more than a century, researchers from a wide range of disciplines have sought to estimate the unique contributions of age, period, and cohort (APC) effects on a variety of outcomes. A key obstacle to these efforts is the linear dependence among the three time scales. Various methods have been proposed to address this issue, but they have suffered from either ad hoc assumptions or extreme sensitivity to small differences in model specification. After briefly reviewing past work, we outline a new approach for identifying temporal effects in population-level data. Fundamental to our framework is the recognition that it is only the slopes of an APC model that are unidentified, not the nonlinearities or particular combinations of the linear effects. One can thus use constraints implied by the data along with explicit theoretical claims to bound one or more of the APC effects. Bounds on these parameters may be nearly as informative as point estimates, even with relatively weak assumptions. To demonstrate the usefulness of our approach, we examine temporal effects in prostate cancer incidence and homicide rates. We conclude with a discussion of guidelines for further research on APC effects.",
+  "authors": [
+    {
+      "raw": "Fosse, Ethan",
+      "family": "Fosse",
+      "given": "Ethan"
+    },
+    {
+      "raw": "Winship, Christopher",
+      "family": "Winship",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Fosse, Ethan; Winship, Christopher",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00801-6",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00801-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00801-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00801-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

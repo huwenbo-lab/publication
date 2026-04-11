@@ -1,0 +1,30 @@
+{
+  "title": "The Role of Family Orientations in Shaping the Effect of Fertility on Subjective Well-being: A Propensity Score Matching Approach",
+  "abstract": "This article investigates whether and how having a child impacts an individual's subjective well-being, while taking into account heterogeneity in family attitudes. People with different family orientations have different values, gender attitudes, preferences toward career and family, and expectations about how childbearing can affect their subjective well-being. These differences impact fertility decisions and the effect of parenthood on an individual's life satisfaction. We define three groups of people based on their family orientations: Traditional, Mixed, and Modern. Applying propensity score matching on longitudinal data (British Household Panel Survey), we create groups of individuals with very similar socioeconomic characteristics and family orientations before childbearing. We then compare those who have one child with those who are childless, and those who have two children with those who have only one child. We show that parents are significantly more satisfied than nonparents, and this effect is stronger among men than among women. For men, we do not find significant differences across family orientations groups in the effect of the birth of the first child on life satisfaction. Among women, only Traditional mothers seem to be more satisfied than their childless counterparts. Women who have a second child are never more satisfied than those who have only one child, regardless of their family orientations. Traditional and Mixed men experience a gain in life satisfaction when they have a second child, but this effect is not found for Modern men.",
+  "authors": [
+    {
+      "raw": "Balbo, Nicoletta",
+      "family": "Balbo",
+      "given": "Nicoletta"
+    },
+    {
+      "raw": "Arpino, Bruno",
+      "family": "Arpino",
+      "given": "Bruno"
+    }
+  ],
+  "authors_text": "Balbo, Nicoletta; Arpino, Bruno",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0480-z",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0480-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0480-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0480-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

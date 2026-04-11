@@ -1,0 +1,45 @@
+{
+  "title": "Mapping modern kinship networks: First results from the KINMATRIX survey",
+  "abstract": "ObjectiveThis study presents initial results from the KINMATRIX survey, a large-scale source of ego-centric network data offering an unprecedented level of scope and detail in mapping family relationships.BackgroundResearch on kinship networks is limited by the scarcity of available data. As a result, key phenomena remain insufficiently understood, including the importance of extended kin, contrasts between kinship lines, and cross-national differences. Notably, extended kin provide a unique strength in numbers that can enhance social transmission, integration, and support.MethodWe analyzed data from anchor respondents aged 25-35 (N = 11,788 anchors; 239,220 anchor-kin dyads) collected in seven Western countries (Germany, Italy, Netherlands, Poland, Sweden, United Kingdom, and United States). Kinship networks included a large array of nuclear, extended, and complex kin (on average, 20 kin per anchor). We used descriptive methods to examine retrospective, current, and prospective assessments of kin ties across four measures: importance, closeness, contact, and support.ResultsWe report three main findings: First, extended kin are central to younger adults' lives, representing at least half of the family members they are emotionally close to, regularly contact, and deem important. Second, kinship networks are matrilineally tilted. Maternal kin are emotionally closer, more frequently contacted, considered more important, and more supportive. Third, cross-national comparisons reveal both similarities and notable differences, with the United States and Sweden showing elevated importance of extended and complex kin and Italy exhibiting higher social integration with nuclear and extended kin.ConclusionData on kinship networks can significantly advance our understanding of key family phenomena.",
+  "authors": [
+    {
+      "raw": "Leopold, Thomas",
+      "family": "Leopold",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Raab, Marcel",
+      "family": "Raab",
+      "given": "Marcel"
+    },
+    {
+      "raw": "Becker, Charlotte Clara",
+      "family": "Becker",
+      "given": "Charlotte Clara"
+    },
+    {
+      "raw": "Buyukkececi, Zafer",
+      "family": "Buyukkececi",
+      "given": "Zafer"
+    },
+    {
+      "raw": "Cineli, Beyda",
+      "family": "Cineli",
+      "given": "Beyda"
+    }
+  ],
+  "authors_text": "Leopold, Thomas; Raab, Marcel; Becker, Charlotte Clara; Buyukkececi, Zafer; Cineli, Beyda",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13049",
+  "doi_url": "https://doi.org/10.1111/jomf.13049",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13049",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13049.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Race and Cohort Differences in Family Status in the United States",
+  "abstract": "In this visualization, the authors show changes in family patterns by different race groups across two cohorts. Using data from the National Longitudinal Survey of Youth 1979 (born from 1957 to 1965) and 1997 (born from 1980 to 1984), the authors visualize the relationship-parenthood state distributions at each age between 15 and 35 years by race and cohort. The results suggest the rise of cohabiting mothers and the decline of married and divorced mothers among women born from 1980 to 1984. Black women born from 1980 to 1984 were more likely to experience single/childless and single/parent status compared with Black women born from 1957 to 1965. Although with some visible postponement in the recent cohort, white women in both cohorts were more likely to experience married/parent status than other race groups. The decline in married/parent status across the two generations was sharpest among Hispanic women. These descriptive findings highlight the importance of identifying race when discussing changes in family formation and dissolution trends across generations.",
+  "authors": [
+    {
+      "raw": "Lim, Misun",
+      "family": "Lim",
+      "given": "Misun"
+    },
+    {
+      "raw": "Samper Mejia, Cristina",
+      "family": "Samper Mejia",
+      "given": "Cristina"
+    }
+  ],
+  "authors_text": "Lim, Misun; Samper Mejia, Cristina",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241241041",
+  "doi_url": "https://doi.org/10.1177/23780231241241041",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241241041",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241241041.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

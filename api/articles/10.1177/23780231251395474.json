@@ -1,0 +1,25 @@
+{
+  "title": "Military Matters? The Impact of Veteran Status on Recidivism",
+  "abstract": "Military veterans are a population granted special status and access to programming when entangled in the criminal legal system. Given this preferential treatment, the author evaluates whether veteran status is associated with risk for recidivism after a focal incarceration spell and whether racial/ethnic identity mediates this association. Using more than 15 years of population data ( n = 58,028) from the Pennsylvania Department of Corrections (2007–2022), the author fits Cox regression models to evaluate if veteran status is associated with recidivism risk. Bivariate results show that veterans have an 18 percent lower hazard of recidivism than nonveterans ( p < .001). When full controls are added, the veteran indicator is insignificant, suggesting that selection characteristics and institutional experiences explain most of the differences in reintegration success. However, interacting veteran status and racial/ethnic identity results in a statistically significant higher hazard of recidivism for Hispanic veterans compared with all other groups ( p < .001). These findings suggest that veteran status uniquely disadvantages Hispanic people, such that the probability of avoiding prison readmission looks similar to or worse than that of Black people, a group that suffers disproportionate system contact. In conclusion, this study uses military veterans as a case for understanding how “special populations” navigate systems contact and reentry.",
+  "authors": [
+    {
+      "raw": "Lopoo, M. Evangeline",
+      "family": "Lopoo",
+      "given": "M. Evangeline"
+    }
+  ],
+  "authors_text": "Lopoo, M. Evangeline",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251395474",
+  "doi_url": "https://doi.org/10.1177/23780231251395474",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251395474",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251395474.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

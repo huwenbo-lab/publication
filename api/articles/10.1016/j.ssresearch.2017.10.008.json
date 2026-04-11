@@ -1,0 +1,35 @@
+{
+  "title": "Gender of the immediate manager and women's wages: The importance of managerial position",
+  "abstract": "One argument for increasing female representation in management is the expectation that female managers will be particularly beneficial for female employees through, e.g., role modeling, mentoring or providing other incentives to enhance female productivity. We explore this issue by analyzing the association between women's wages and the gender of their immediate managers using Swedish matched employee-employer data from 2010. Contrary to the expected positive association, we find that wages are overall 3% lower for female employees with a female instead of male manager. However, dividing the sample by managerial position and controlling for the sorting of employees with respect to, e.g., non-cognitive traits, work tasks, family commitment and establishment gender composition, the negative association is found only for female employees working for lower-level managers, not for women with a manager at the highest rank. One possible explanation could be a difference in decision-making power if lower-level female managers have more limited resources for their subordinates compared to lower-level male managers.",
+  "authors": [
+    {
+      "raw": "Hallden, Karin",
+      "family": "Hallden",
+      "given": "Karin"
+    },
+    {
+      "raw": "Save-Soderbergh, Jenny",
+      "family": "Save-Soderbergh",
+      "given": "Jenny"
+    },
+    {
+      "raw": "Rosen, Asa",
+      "family": "Rosen",
+      "given": "Asa"
+    }
+  ],
+  "authors_text": "Hallden, Karin; Save-Soderbergh, Jenny; Rosen, Asa",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2017.10.008",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.10.008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.10.008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.10.008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

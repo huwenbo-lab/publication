@@ -1,0 +1,30 @@
+{
+  "title": "Decomposing trends in educational homogamy and heterogamy - The case of Ireland",
+  "abstract": "Employing Irish Census microdata, we analyze trends in educational homogamy and heterogamy between 1991 and 2016 and examine how they can be explained by concurrent trends in three theoretically relevant socio-demographic components - (a) educational attainment, (b) the educational gradient in marriage, and (c) educational assortative mating (i.e., non-random matching). Our study proposes a novel counterfactual decomposition method to estimate the contribution of each component to changing sorting outcomes in marriages. Findings indicate rising educational homogamy, an increase in non-traditional unions in which women partner 'down' in education, and a decline in traditional unions. Decomposition results suggest that these trends are predominantly attributable to changes in women's and men's educational attainment. Furthermore, changes in the educational gradient in marrying contributed to rising homogamy and the decline in traditional unions, a fact largely overlooked in previous research. Although assortative mating has also undergone changes, they barely contribute to trends in sorting outcomes.",
+  "authors": [
+    {
+      "raw": "Leesch, Julia",
+      "family": "Leesch",
+      "given": "Julia"
+    },
+    {
+      "raw": "Skopek, Jan",
+      "family": "Skopek",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Leesch, Julia; Skopek, Jan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102846",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102846",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102846",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102846.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

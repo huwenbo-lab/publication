@@ -1,0 +1,45 @@
+{
+  "title": "Change in disability-free life expectancy for Americans 70 years old and older",
+  "abstract": "Abstract In this article, we examine changes in life expectancy free of disability using longitudinal data collected from 1984 through 2000 from two cohorts who composed the Longitudinal Studies of Aging I and II. Life expectancies with and without ADL and/or IADL disability are calculated using a Markov-based multistate life table approach. At age 70, disability-free life expectancy increased over a 10-year period by 0.6 of a year in the later cohort, which was the same as the increase in total life expectancy, both increases marginally statistically significant. The average length of expected life with IADL and ADL disability did not change. Changes in disability-free life expectancy resulted from decreases in disability incidence and increases in the incidence of recovery from disability across the two survey cohorts. Age-specific mortality among the ADL disabled declined significantly in the later cohort after age 80. Mortality for the IADL disabled and the nondisabled did not change significantly. Those with ADL disability at age 70 experienced substantial increases in both total life expectancy and disability-free life expectancy. These results indicate the importance of efforts both to prevent and delay disability and to promote recovery from disability for increasing life expectancy without disability. Results also indicate that while reductions in incidence and increases in recovery work to decrease population prevalence of disability, declining mortality among the disabled has been a force toward increasing disability prevalence.",
+  "authors": [
+    {
+      "raw": "Crimmins, Eileen M.",
+      "family": "Crimmins",
+      "given": "Eileen M."
+    },
+    {
+      "raw": "Hayward, Mark D.",
+      "family": "Hayward",
+      "given": "Mark D."
+    },
+    {
+      "raw": "Hagedorn, Aaron",
+      "family": "Hagedorn",
+      "given": "Aaron"
+    },
+    {
+      "raw": "Saito, Yasuhiko",
+      "family": "Saito",
+      "given": "Yasuhiko"
+    },
+    {
+      "raw": "Brouard, Nicolas",
+      "family": "Brouard",
+      "given": "Nicolas"
+    }
+  ],
+  "authors_text": "Crimmins, Eileen M.; Hayward, Mark D.; Hagedorn, Aaron; Saito, Yasuhiko; Brouard, Nicolas",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0070",
+  "doi_url": "https://doi.org/10.1353/dem.0.0070",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0070",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0070.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

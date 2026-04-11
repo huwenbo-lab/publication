@@ -1,0 +1,30 @@
+{
+  "title": "The U.S. Wealth Distribution: Off the Charts",
+  "abstract": "Although extreme and rising levels of U.S. wealth inequality have generated much public and scientific interest, building intuition on the shape and scale of today’s wealth distribution remains difficult. Prior research tends to conceptualize and measure wealth inequality in one of two ways: As the concentration of assets among the superwealthy (i.e., wealth concentration among the top 1 percent or even top 0.1 percent) or as a population-wide phenomenon of distributional inequality (i.e., wealth inequality among the remaining 99 percent). Of course, both perspectives are valid and important; they simply focus on different slices of the overall wealth distribution, sometimes because of limitations of the data that are being used. Extreme concentration of wealth at the very top and very high levels of inequality within the remainder of the distribution thus coexist. Yet jointly visualizing both aspects and relating them to each other is challenging. This contribution addresses this challenge by providing an intuitive and interactive visualization of the distribution of U.S. wealth in 2019 that spans the full population, from households in net debt to multibillionaires.",
+  "authors": [
+    {
+      "raw": "Pfeffer, Fabian T.",
+      "family": "Pfeffer",
+      "given": "Fabian T."
+    },
+    {
+      "raw": "Dvir-Djerassi, Asher",
+      "family": "Dvir-Djerassi",
+      "given": "Asher"
+    }
+  ],
+  "authors_text": "Pfeffer, Fabian T.; Dvir-Djerassi, Asher",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221143957",
+  "doi_url": "https://doi.org/10.1177/23780231221143957",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221143957",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221143957.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

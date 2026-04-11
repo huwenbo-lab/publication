@@ -1,0 +1,35 @@
+{
+  "title": "Marital Disruption and Health Insurance",
+  "abstract": "AbstractDespite the high levels of marital disruption in the United States and the fact that a significant portion of health insurance coverage for those less than age 65 is based on family membership, surprisingly little research is available on the consequences of marital disruption for the health insurance coverage of men, women, and children. We address this shortfall by examining patterns of coverage surrounding marital disruption for men, women, and children, further subset by educational level. Using the 1996, 2001, and 2004 panels of the Survey of Income and Program Participation (SIPP), we find large differences in health insurance coverage across marital status groups in the cross-section. In longitudinal analyses that focus on within-person change, we find small overall coverage changes but large changes in type of coverage following marital disruption. Both men and women show increases in private coverage in their own names, but offsetting decreases in dependent coverage tend to be larger. One surprising result is that dependent coverage for children also declines after marital dissolution, even though children are still likely to be eligible for that coverage. Children and (to a lesser extent) women show increases in public coverage around the time of divorce or separation. We also find that these patterns differ by education. The most vulnerable group appears to be lower-educated women with children because the increases in private, own-name, and public insurance are not large enough to offset the large decrease in dependent coverage. As the United States implements federal health reform, it is critical that we understand the ways in which life course events—specifically, marital disruption—shape the dynamic patterns of coverage.",
+  "authors": [
+    {
+      "raw": "Peters, H. Elizabeth",
+      "family": "Peters",
+      "given": "H. Elizabeth"
+    },
+    {
+      "raw": "Simon, Kosali",
+      "family": "Simon",
+      "given": "Kosali"
+    },
+    {
+      "raw": "Taber, Jamie Rubenstein",
+      "family": "Taber",
+      "given": "Jamie Rubenstein"
+    }
+  ],
+  "authors_text": "Peters, H. Elizabeth; Simon, Kosali; Taber, Jamie Rubenstein",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0317-6",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0317-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0317-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0317-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

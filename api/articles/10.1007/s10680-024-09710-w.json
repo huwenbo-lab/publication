@@ -1,0 +1,30 @@
+{
+  "title": "Migration, Partner Selection, and Fertility in Germany: How Many Children are Born in Mixed Unions?",
+  "abstract": "Abstract For the German context, we investigate whether the number of children ever born differs between mixed unions (exogamous unions between natives and migrants or migrant descendants) and endogamous unions (unions among co-ethnics). Our theoretical considerations are derived from assimilation theories, which view exogamous unions as indicators of assimilation processes, and the framework on migrant fertility. The migrant (or descendant) partner in an exogamous union may adapt to the majority group, both partners may adapt to each other, or both partners may constitute a selected group in their fertility preferences. However, due to the higher likelihood of conflicts within the partnership and of separation, exogamy may disrupt family formation processes and depress couples’ fertility. Drawing on data from the GSOEP (1984–2020), we estimate generalized Poisson regressions. The results reveal that the number of children ever born is higher in exogamous unions than in endogamous native couples. This general pattern largely persists across migrant generations and regions of origin, but we identify gender differences. While fertility in exogamous unions of native women/migrant (descendant) men is not statistically different from fertility in native/native couples, unions of migrant (descendant) women/native men have more children, especially when controlling for socio-demographic confounders. Our results demonstrate that in the German context, exogamy does not lead to fertility disruptions, and is not straightforwardly associated with assimilation to the fertility of the majority group. Instead, differences in gendered partner choice patterns and life-course transitions may influence the number of children exogamous couples have.",
+  "authors": [
+    {
+      "raw": "Gawron, Annegret",
+      "family": "Gawron",
+      "given": "Annegret"
+    },
+    {
+      "raw": "Milewski, Nadja",
+      "family": "Milewski",
+      "given": "Nadja"
+    }
+  ],
+  "authors_text": "Gawron, Annegret; Milewski, Nadja",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-024-09710-w",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09710-w",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09710-w",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09710-w.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

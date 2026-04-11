@@ -1,0 +1,35 @@
+{
+  "title": "Can Personality Explain the Educational Gradient in Divorce? Evidence From a Nationally Representative Panel Survey",
+  "abstract": "The social demographic literature on divorce suggests that the lower educated are more likely to have personality traits that reduce relationship stability. However, few empirical verifications of this proposition exist. To fill this void, we look at the distribution of personality traits across educational groups of married individuals in Britain. Using data from the British Household Panel Survey ( N = 2,665), we first estimated the effects of the “Big Five” personality traits agreeableness, conscientiousness, extraversion, neuroticism, and openness to experience on divorce and subsequently examine their distribution across educational groups. We find that in particular women’s personality traits differ by education. We also observe that personality traits affecting divorce risk are distributed unevenly over educational groups, but they do not favor the higher educated in general. In sum, the data do not support the hypothesis that the lower educated in Britain have personality traits that reduce relationship stability.",
+  "authors": [
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    },
+    {
+      "raw": "von Scheve, Christian",
+      "family": "von Scheve",
+      "given": "Christian"
+    },
+    {
+      "raw": "Park, Mona",
+      "family": "Park",
+      "given": "Mona"
+    }
+  ],
+  "authors_text": "Boertien, Diederik; von Scheve, Christian; Park, Mona",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2015,
+  "doi": "10.1177/0192513x15585811",
+  "doi_url": "https://doi.org/10.1177/0192513x15585811",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x15585811",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x15585811.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The geography of changing fertility in Myanmar",
+  "abstract": "BACKGROUND Between 1983 and 2014, the total fertility rate in Myanmar declined from 4.7 to 2.3 children per woman. Previous analyses of fertility decline in the country suggest that the decline varied regionally, but the geography of the decline has not been formally assessed. METHODS Using data from the 1983 and 2014 censuses, we examine fertility trends and geospatial patterns in fertility decline in Myanmar during the intercensal period, and investigate the aggregate socioeconomic factors underlying fertility decline at subregional levels. RESULTS Between 1983 and 2014, fertility change at subregional level was characterised by a precipitous decline in fertility rates in the broad central valley areas and a much weaker decline in remote, peripheral areas. Regression analysis of the 2014 census data, adjusting for state/region level variances, reveals a strong negative correlation between fertility and access to modem communication technologies. District-level female education and road connectivity were also associated with fertility. CONCLUSIONS The geographical diversity in Myanmar's fertility transition has intensified over time, as fertility decline is concentrated in areas with greater development, higher socioeconomic status, and better connectivity to information networks. CONTRIBUTION A district's digital connectivity, measured through access to communication technologies, was a better predictor of fertility than other traditional measures. There is a need to explore to what extent digital connectivity is a proxy indicator for levels of modernisation and access to family planning and reproductive health services, and the extent to which it measures the intensity of social networks and the diffusion of information.",
+  "authors": [
+    {
+      "raw": "Schuster, Anne",
+      "family": "Schuster",
+      "given": "Anne"
+    },
+    {
+      "raw": "Padmadas, Sabu S.",
+      "family": "Padmadas",
+      "given": "Sabu S."
+    },
+    {
+      "raw": "Hinde, Andrew",
+      "family": "Hinde",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Schuster, Anne; Padmadas, Sabu S.; Hinde, Andrew",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.2",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

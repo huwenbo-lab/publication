@@ -1,0 +1,30 @@
+{
+  "title": "Decomposition analysis of Spanish life expectancy at birth",
+  "abstract": "Using data from the Human Mortality Database (HMD), the paper analyzes the increase in the life expectancy of the Spanish population during the three decades, 1970-2001, in order to ascertain which age and sex groups have made the most progress in term",
+  "authors": [
+    {
+      "raw": "Gómez-Redondo, Rosa",
+      "family": "Gómez-Redondo",
+      "given": "Rosa"
+    },
+    {
+      "raw": "Boe, Carl",
+      "family": "Boe",
+      "given": "Carl"
+    }
+  ],
+  "authors_text": "Gómez-Redondo, Rosa; Boe, Carl",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2005,
+  "doi": "10.4054/demres.2005.13.20",
+  "doi_url": "https://doi.org/10.4054/demres.2005.13.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2005.13.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2005.13.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Prenatal Health, Educational Attainment, and Intergenerational Inequality: The Northern Finland Birth Cohort 1966 Study",
+  "abstract": "Abstract In this article, we study the effects of prenatal health on educational attainment and on the reproduction of family background inequalities in education. Using Finnish birth cohort data, we analyze several maternal and fetal health variables, many of which have not been featured in the literature on long-term socioeconomic effects of health despite the effects of these variables on birth and short-term health outcomes. We find strong negative effects of mother’s prenatal smoking on educational attainment, which are stronger if the mother smoked heavily but are not significant if she quit during the first trimester. Anemia during pregnancy is also associated with lower levels of attained education. Other indicators of prenatal health (pre-pregnancy obesity, mother’s antenatal depressed mood, hypertension and preeclampsia, early prenatal care visits, premature birth, and small size for gestational age) do not predict educational attainment. Our measures explain little of the educational inequalities by parents’ class or education. However, smoking explains 12%—and all health variables together, 19%—of the lower educational attainment of children born to unmarried mothers. Our findings point to the usefulness of proximate health measures in addition to general ones. They also point to the potentially important role played by early health in intergenerational processes.",
+  "authors": [
+    {
+      "raw": "Härkönen, Juho",
+      "family": "Härkönen",
+      "given": "Juho"
+    },
+    {
+      "raw": "Kaymakçalan, Hande",
+      "family": "Kaymakçalan",
+      "given": "Hande"
+    },
+    {
+      "raw": "Mäki, Pirjo",
+      "family": "Mäki",
+      "given": "Pirjo"
+    },
+    {
+      "raw": "Taanila, Anja",
+      "family": "Taanila",
+      "given": "Anja"
+    }
+  ],
+  "authors_text": "Härkönen, Juho; Kaymakçalan, Hande; Mäki, Pirjo; Taanila, Anja",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0092-1",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0092-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0092-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0092-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

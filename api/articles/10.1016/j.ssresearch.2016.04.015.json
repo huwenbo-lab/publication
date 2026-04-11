@@ -1,0 +1,40 @@
+{
+  "title": "The role of administrative data in the big data revolution in social science research",
+  "abstract": "The term big data is currently a buzzword in social science, however its precise meaning is ambiguous. In this paper we focus on administrative data which is a distinctive form of big data. Exciting new opportunities for social science research will be afforded by new administrative data resources, but these are currently under appreciated by the research community. The central aim of this paper is to discuss the challenges associated with administrative data. We emphasise that it is critical for researchers to carefully consider how administrative data has been produced. We conclude that administrative datasets have the potential to contribute to the development of high-quality and impactful social science research, and should not be overlooked in the emerging field of big data. (C) 2016 The Authors. Published by Elsevier Inc.",
+  "authors": [
+    {
+      "raw": "Connelly, Roxanne",
+      "family": "Connelly",
+      "given": "Roxanne"
+    },
+    {
+      "raw": "Playford, Christopher J.",
+      "family": "Playford",
+      "given": "Christopher J."
+    },
+    {
+      "raw": "Gayle, Vernon",
+      "family": "Gayle",
+      "given": "Vernon"
+    },
+    {
+      "raw": "Dibben, Chris",
+      "family": "Dibben",
+      "given": "Chris"
+    }
+  ],
+  "authors_text": "Connelly, Roxanne; Playford, Christopher J.; Gayle, Vernon; Dibben, Chris",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.04.015",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.04.015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.04.015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.04.015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

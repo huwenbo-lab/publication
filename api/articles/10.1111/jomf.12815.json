@@ -1,0 +1,35 @@
+{
+  "title": "Desired fertility and educational aspirations: Adolescent goals in rapidly changing social contexts",
+  "abstract": "Objective This article analyzes the relationship between educational aspirations and fertility aspirations early in the life course in three different settings. Background The negative relationship between women's educational attainment and childbearing is one of the most consistent associations in social science. Family scholars have a more limited understanding of the relationship between educational aspirations and fertility aspirations before childbearing or union formation. Method The authors use data collected in Jalisco, Mexico; Gaza, Mozambique; and Chitwan Valley, Nepal as part of the Family Migration and Early Life Outcomes project. They estimate nested Poisson regressions to model the relationship between adolescent educational aspirations and desired family size, controlling for individual- and household-level sociodemographic variables as well as adolescent beliefs and values. Results On average, adolescents who desire more education want fewer children in unadjusted models. In Mozambique and Nepal, this association is attenuated in models accounting for household characteristics. In Mexico, the association persists after incorporating these factors, but the inclusion of individual aspirations attenuates the relationship between educational aspirations and desired family size. In Mozambique, the association of educational aspirations with desired family size is moderated by gender. Conclusion As young people enter adolescence, their desires for education and childbearing are inversely related, but the mechanisms driving this association vary across contexts. This variation may be related to linkages between education, social status, and family values.",
+  "authors": [
+    {
+      "raw": "Alcaraz, Melissa",
+      "family": "Alcaraz",
+      "given": "Melissa"
+    },
+    {
+      "raw": "Hayford, Sarah R.",
+      "family": "Hayford",
+      "given": "Sarah R."
+    },
+    {
+      "raw": "Glick, Jennifer E.",
+      "family": "Glick",
+      "given": "Jennifer E."
+    }
+  ],
+  "authors_text": "Alcaraz, Melissa; Hayford, Sarah R.; Glick, Jennifer E.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12815",
+  "doi_url": "https://doi.org/10.1111/jomf.12815",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12815",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12815.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

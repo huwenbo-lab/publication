@@ -1,0 +1,25 @@
+{
+  "title": "Overqualification Among Second-Generation Children of Immigrants in the Swedish Labour Market",
+  "abstract": "Abstract Research on the children of immigrants born in the host country (G2) consistently reveals disparities between their educational achievements and labour market outcomes compared to the majority population. This study provides new insights into understanding this disparity by examining patterns of overqualification—i.e., a downward educational mismatch—among the G2. Specifically, it explores 1) how overqualification patterns differ between the G2, foreign-born immigrants (G1), and the majority population and 2) how overqualification patterns vary across ten G2 ancestry groups compared to the majority population. Utilizing Swedish total population register data and linear probability models, this study estimates the probability of overqualification across different immigrant generations and ancestry groups, employing the Realised Matches method to measure overqualification. The results indicate that while G2 individuals have a lower probability of experiencing overqualification compared to G1, they face moderately higher probabilities of overqualification than the majority population—up to 19% higher. This disparity is particularly pronounced among G2 individuals with tertiary education and those of Iranian, Middle Eastern and North African, and Other Non-Western origins, with up to 39% higher probabilities. These findings suggest that G2 individuals, particularly those of non-Western origins, encounter significant challenges in translating their educational qualifications into commensurate employment within the Swedish labour market.",
+  "authors": [
+    {
+      "raw": "Kim, Wooseong",
+      "family": "Kim",
+      "given": "Wooseong"
+    }
+  ],
+  "authors_text": "Kim, Wooseong",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-024-09723-5",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09723-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09723-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09723-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

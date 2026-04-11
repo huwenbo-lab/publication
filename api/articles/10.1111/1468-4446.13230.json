@@ -1,0 +1,30 @@
+{
+  "title": "Does Proactivity Affect Insurance Solidarity and Individual Responsibility?",
+  "abstract": "Over the past 20 years, the insurance industry has been experimenting with technological innovations that deeply affect its business model and social function. This article explores the use of digital technologies to monitor policyholders' behaviour and personalise their insurance coverage. Information extracted from behavioural data can be used to produce individualised predictions and design proactive insurance policies, which aim to prompt policyholders to act on the possibility of future damages before they happen. This innovation could bring many benefits in terms of efficiency (improving loss ratio) and foresight (improving risk assessment), but also a renewed focus on individual responsibility for losses. As a consequence, we argue, the collective management of future uncertainty could be undermined, jeopardising the insurance solidarity that makes mutual protection viable.",
+  "authors": [
+    {
+      "raw": "Cevolini, Alberto",
+      "family": "Cevolini",
+      "given": "Alberto"
+    },
+    {
+      "raw": "Esposito, Elena",
+      "family": "Esposito",
+      "given": "Elena"
+    }
+  ],
+  "authors_text": "Cevolini, Alberto; Esposito, Elena",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1111/1468-4446.13230",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13230",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13230",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13230.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

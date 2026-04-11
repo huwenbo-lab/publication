@@ -1,0 +1,30 @@
+{
+  "title": "Educational Homogamy and Gender-Specific Earnings: Sweden, 1990–2009",
+  "abstract": "AbstractSeveral studies have shown strong educational homogamy in most Western societies, although the trends over time differ across countries. In this article, we study the connection between educational assortative mating and gender-specific earnings in a sample containing the entire Swedish population born 1960–1974; we follow this sample from 1990 to 2009. Our empirical strategy exploits a longitudinal design, using distributed fixed-effects models capturing the impact of partner education on postmarital earnings, relating it to the income development before union formation. We find that being partnered with someone with more education (hypergamy) is associated with higher earnings, while partnering someone with less education (hypogamy) is associated with lower earnings. However, most of these differences in earnings emerge prior to the time of marriage, implying that the effect is explained by marital selection processes rather than by partner education affecting earnings. The exception is hypogamy among the highly educated, for which there are strong indications that in comparison with homogamy and hypergamy, earnings grow slower after union formation.",
+  "authors": [
+    {
+      "raw": "Dribe, Martin",
+      "family": "Dribe",
+      "given": "Martin"
+    },
+    {
+      "raw": "Nystedt, Paul",
+      "family": "Nystedt",
+      "given": "Paul"
+    }
+  ],
+  "authors_text": "Dribe, Martin; Nystedt, Paul",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-012-0188-7",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0188-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0188-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0188-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

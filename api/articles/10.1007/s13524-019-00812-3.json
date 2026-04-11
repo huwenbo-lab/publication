@@ -1,0 +1,30 @@
+{
+  "title": "The Causal Effect of Maternal Education on Child Mortality: Evidence From a Quasi-Experiment in Malawi and Uganda",
+  "abstract": "Since the 1980s, the demographic literature has suggested that maternal schooling plays a key role in determining children's chances of survival in low- and middle-income countries; however, few studies have successfully identified a causal relationship between maternal education and under-5 mortality. To identify such a causal effect, we exploited exogenous variation in maternal education induced by schooling reforms introducing universal primary education in the second half of the 1990s in Malawi and Uganda. Using a two-stage residual inclusion approach and combining individual-level data from Demographic and Health Surveys with district-level data on the intensity of the reform, we tested whether increased maternal schooling reduced children's probability of dying before age 5. In Malawi, for each additional year of maternal education, children have a 10 % lower probability of dying; in Uganda, the odds of dying for children of women with one additional year of education are 16.6 % lower. We also explored which pathways might explain this effect of maternal education. The estimates suggest that financial barriers to medical care, attitudes toward modern health services, and rejection of domestic violence may play a role. Moreover, being more educated seems to confer enhanced proximity to a health facility and knowledge about the transmission of AIDS in Malawi, and wealth and improved personal illness control in Uganda.",
+  "authors": [
+    {
+      "raw": "Andriano, Liliana",
+      "family": "Andriano",
+      "given": "Liliana"
+    },
+    {
+      "raw": "Monden, Christiaan W. S.",
+      "family": "Monden",
+      "given": "Christiaan W. S."
+    }
+  ],
+  "authors_text": "Andriano, Liliana; Monden, Christiaan W. S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00812-3",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00812-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00812-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00812-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

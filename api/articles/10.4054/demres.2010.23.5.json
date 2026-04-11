@@ -1,0 +1,30 @@
+{
+  "title": "The association between resilience and survival among Chinese elderly",
+  "abstract": "Based on the unique longitudinal data of the elderly aged 65+ with a sufficiently large sub-sample of the oldest-old aged 85+ from the Chinese Longitudinal Healthy Longevity Survey, we construct a resilience scale with 7 indicators for the Chinese elderly, based on the framework of the Connor-Davidson Resilience Scale. Cox proportional hazards regression model estimates show that, after controlling for socio-demographic characteristics and initial health status, the total resilience score and most factors of the resilience scale are significantly associated with reduced mortality risk among the young-old and oldest-old. Although the causal mechanisms remain to be investigated, effective measures to promote resilience are likely to have a positive effect on longevity of the elderly in China.",
+  "authors": [
+    {
+      "raw": "Shen, Ke",
+      "family": "Shen",
+      "given": "Ke"
+    },
+    {
+      "raw": "Zeng, Yi",
+      "family": "Zeng",
+      "given": "Yi"
+    }
+  ],
+  "authors_text": "Shen, Ke; Zeng, Yi",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.23.5",
+  "doi_url": "https://doi.org/10.4054/demres.2010.23.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.23.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.23.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

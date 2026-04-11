@@ -1,0 +1,30 @@
+{
+  "title": "When partners' disagreement prevents childbearing: A couple-level analysis in Australia",
+  "abstract": "BACKGROUND Studies investigating the correspondence of birth intentions and birth outcomes focus mainly on women's and men's intentions separately and disregard the fact that reproductive decision-making is dyadic. OBJECTIVE We examine the intention-outcome link for fertility taking a genuine couple-level approach. We aim to understand whether a heterosexual couple's conflict is solved in favour or against childbirth and whether the male or the female partner prevails in the decision-making. METHODS Drawing on data from the survey Household, Income and Labour Dynamics in Australia (HILDA), we perform logistic regressions in which couples are the unit of analysis and the variables are computed by combining both partners' characteristics. RESULTS Results show that disagreement about having a first child is located between 'agreement on yes' and 'agreement on not,' with half of disagreeing couples having a child. By contrast, disagreement about having another child is shifted more towards `agreement on not' and most often prevents the birth of a child. Women prevail in the decision of having a first child, irrespective of gender equity within the couple, while a symmetric double-veto model is at work if the decision concerns a second or additional child. CONCLUSION Couple disagreement is not always sufficient to prevent the birth of a child in a low fertility country such as Australia, and the increasing level of gender equity within the couple does not necessarily imply increasing female decision-making power on childbearing issues. CONTRIBUTION The predictive power of fertility intentions is more accurate in models including both partners' views. Fertility-related policies should consider the dyadic nature of fertility decisions.",
+  "authors": [
+    {
+      "raw": "Testa, Maria Rita",
+      "family": "Testa",
+      "given": "Maria Rita"
+    },
+    {
+      "raw": "Bolano, Danilo",
+      "family": "Bolano",
+      "given": "Danilo"
+    }
+  ],
+  "authors_text": "Testa, Maria Rita; Bolano, Danilo",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.33",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

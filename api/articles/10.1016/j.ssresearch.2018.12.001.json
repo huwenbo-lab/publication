@@ -1,0 +1,25 @@
+{
+  "title": "College as equalizer? Testing the selectivity hypothesis",
+  "abstract": "Stratification research shows that occupational origins and destinations are weakly associated among individuals holding a college degree. The finding is taken to support the hypothesis that college equalizes opportunities and promotes social mobility. I test the competing hypothesis that the high level of social mobility reported for college degree holders results from the selectivity of this group. To control for selectivity, I reweigh a sample of college degree holders by the inverse probability of being a college degree holder conditional on observable characteristics of students before they enter college, including characteristics such as cognitive ability, personality traits, and beliefs about the future. Analyzing data from the National Longitudinal Survey of Youth 1979, I find no support for the selectivity hypothesis. These findings align with evidence based on indirect tests of the hypothesis, and indicate that college indeed appears to be an equalizer.",
+  "authors": [
+    {
+      "raw": "Karlson, Kristian Bernt",
+      "family": "Karlson",
+      "given": "Kristian Bernt"
+    }
+  ],
+  "authors_text": "Karlson, Kristian Bernt",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.12.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.12.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.12.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.12.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

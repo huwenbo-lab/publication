@@ -1,0 +1,25 @@
+{
+  "title": "Building Inequality: Housing Segregation and Income Segregation",
+  "abstract": "This article foregrounds housing in the study of residential segregation. The spatial configuration of housing determines the housing opportunities in each neighborhood, the backdrop against which households' resources, preferences, and constraints play out. I use census and American Community Survey data to provide the first evidence of the extent of housing segregation by type and by cost at multiple geographic scales in large metropolitan areas in the United States from 1990 to 2014. Segregation between single- and multifamily homes and renter- and owner-occupied homes increased in most metropolitan areas, whereas segregation by cost declined. Housing segregation varies among metropolitan areas, across geographic scales, and over time, with consequences for income segregation. Income segregation is markedly higher when and where housing segregation is greater. As long as housing opportunities remain segregated, residential segregation will change little, with urgent implications for urban and housing policy makers.",
+  "authors": [
+    {
+      "raw": "Owens, Ann",
+      "family": "Owens",
+      "given": "Ann"
+    }
+  ],
+  "authors_text": "Owens, Ann",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2019,
+  "doi": "10.15195/v6.a19",
+  "doi_url": "https://doi.org/10.15195/v6.a19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv6.a19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v6.a19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Who survives on death row? An individual and contextual analysis",
+  "abstract": "What are the relationships between death row offender attributes, social arrangements, and executions? Partly because public officials control executions, theorists view this sanction as intrinsically political. Although the literature has focused on offender attributes that lead to death sentences, the post-sentencing stage is at least as important. States differ sharply in their willingness to execute and less than 10 percent of those given a death sentence are executed. To correct the resulting problems with censored data, this study uses a discrete-time event history analysis to detect the individual and state-level contextual factors that shape execution probabilities. The findings show that minority death row inmates convicted of killing whites face higher execution probabilities than other capital offenders. Theoretically relevant contextual factors with explanatory power include minority presence in nonlinear form, political ideology, and votes for Republican presidential candidates. Inasmuch as there is little or no systematic research on the individual and contextual factors that influence execution probabilities, these findings fill important gaps in the literature.",
+  "authors": [
+    {
+      "raw": "Jacobs, David",
+      "family": "Jacobs",
+      "given": "David"
+    },
+    {
+      "raw": "Qian, Zhenchao",
+      "family": "Qian",
+      "given": "Zhenchao"
+    },
+    {
+      "raw": "Carmichael, Jason T.",
+      "family": "Carmichael",
+      "given": "Jason T."
+    },
+    {
+      "raw": "Kent, Stephanie L.",
+      "family": "Kent",
+      "given": "Stephanie L."
+    }
+  ],
+  "authors_text": "Jacobs, David; Qian, Zhenchao; Carmichael, Jason T.; Kent, Stephanie L.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2007,
+  "doi": "10.1177/000312240707200406",
+  "doi_url": "https://doi.org/10.1177/000312240707200406",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240707200406",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240707200406.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

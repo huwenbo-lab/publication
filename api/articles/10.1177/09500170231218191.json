@@ -1,0 +1,40 @@
+{
+  "title": "How Work Hour Variability Matters for Work-to-Family Conflict",
+  "abstract": "Variable work hours are an understudied source of work-to-family conflict (WFC). We examine the relationships between the magnitude and direction of work hour variability and WFC and whether work hour control and schedule predictability moderate these relationships. We estimate a series of linear regressions using the 2016 US General Social Survey, examining women and men workers separately and together. Findings indicate that as the magnitude of work hour variability increases, so does WFC, controlling for the usual number of hours worked. Work hour control helps to protect workers, especially women, from WFC when work hour variability is high and hours surge. Although schedule predictability tempers the relationship between work hour variability and WFC, its potency diminishes as variability increases. Our study emphasizes the potential benefit to workers and families of government policies and employer practices that promote work hour stability, schedule predictability, and equity in employee work hour control.",
+  "authors": [
+    {
+      "raw": "Cho, Hyojin",
+      "family": "Cho",
+      "given": "Hyojin"
+    },
+    {
+      "raw": "Lambert, Susan J",
+      "family": "Lambert",
+      "given": "Susan J"
+    },
+    {
+      "raw": "Ellis, Emily",
+      "family": "Ellis",
+      "given": "Emily"
+    },
+    {
+      "raw": "Henly, Julia R",
+      "family": "Henly",
+      "given": "Julia R"
+    }
+  ],
+  "authors_text": "Cho, Hyojin; Lambert, Susan J; Ellis, Emily; Henly, Julia R",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2024,
+  "doi": "10.1177/09500170231218191",
+  "doi_url": "https://doi.org/10.1177/09500170231218191",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170231218191",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170231218191.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

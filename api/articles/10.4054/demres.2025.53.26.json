@@ -1,0 +1,35 @@
+{
+  "title": "A parametric survival model for child mortality using complex survey data",
+  "abstract": "BACKGROUND Accurate and precise estimates of the under-5 mortality rate (U5MR) are an important summary of the health of a population. Full survival curves on the entire age range are additionally of interest to better understand the pattern of mortality in children under 5. Modern demographic methods for estimating a full mortality schedule for children have been developed for countries with good vital registration and reliable census data but perform poorly in many low-and middle-income countries (LMICs). OBJECTIVE In LMICs, the need to utilize nationally representative surveys to estimate U5MR requires additional statistical care to mitigate potential biases in survey data, acknowledge the survey design, and handle aspects of survival data, such as censoring and truncation. We wish to develop parametric and nonparametric approaches for estimating under-5 mortality across time that appropriately utilize complex survey data. CONTRIBUTION We propose a parametric approach that is particularly useful in scenarios where data is sparse and estimation may require stronger assumptions. The nonparametric approach we propose provides an aid to model validation. We compare a variety of parametric models to two existing methods for obtaining a full survival curve for children under the age of 5 and argue that a parametric, survey-weighted (pseudo-likelihood) approach is advantageous in LMICs. We apply our proposed approaches to survey data from four LMICs in sub-Saharan Africa. All code for fitting the models described in this paper are available in the R package pssst.",
+  "authors": [
+    {
+      "raw": "Okonek, Taylor",
+      "family": "Okonek",
+      "given": "Taylor"
+    },
+    {
+      "raw": "Wilson, Katie",
+      "family": "Wilson",
+      "given": "Katie"
+    },
+    {
+      "raw": "Wakefield, Jon",
+      "family": "Wakefield",
+      "given": "Jon"
+    }
+  ],
+  "authors_text": "Okonek, Taylor; Wilson, Katie; Wakefield, Jon",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.26",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

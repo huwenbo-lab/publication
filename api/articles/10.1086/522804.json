@@ -1,0 +1,25 @@
+{
+  "title": "The intergenerational transmission of context",
+  "abstract": "This article draws on the extensive literature on economic and social mobility in America to examine intergenerational contextual mobility, defined as the degree to which inequalities in neighborhood environments persist across generations. PSID data are analyzed to reveal remarkable continuity in neighborhood economic status from one generation to the next. The primary consequence of persistent neighborhood stratification is that the racial inequality in America's neighborhoods that existed a generation ago has been transmitted, for the most part unchanged, to the current generation. More than 70% of black children who grow up in the poorest quarter of American neighborhoods remain in the poorest quarter of neighborhoods as adults, compared to 40% of whites. The results suggest that racial inequality in neighborhood economic status is substantially underestimated with short-term measures of neighborhood income or poverty and, second, that the steps taken to end racial discrimination in the housing and lending markets have not enabled black Americans to advance out of America's poorest neighborhoods.",
+  "authors": [
+    {
+      "raw": "Sharkey, Patrick",
+      "family": "Sharkey",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Sharkey, Patrick",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2008,
+  "doi": "10.1086/522804",
+  "doi_url": "https://doi.org/10.1086/522804",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F522804",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/522804.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

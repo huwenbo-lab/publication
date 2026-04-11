@@ -1,0 +1,30 @@
+{
+  "title": "Community Violence and the Stability of Marriages and Cohabitations in Mexico",
+  "abstract": "This study evaluates the link between local violence and the stability of women's first co-residential unions in Mexico by exploiting the drastic increase in homicide rates caused by the Mexican War on Drugs in December 2006. We use event history analysis and individual union histories collected by a national survey in 2009 to assess whether increasing homicide rates in the previous 2 years relates to the dissolution of marital and cohabiting unions, and to transitions to marriage among cohabitors. Cox models show that a recent spike in violence is associated with a higher risk of dissolution for first coresidential unions among less educated women. Competing-risks Cox models further show that for first cohabiting unions among the less educated, exposure to increasing violence is not only associated with a higher risk of dissolution, but also with a higher risk of transitioning to marriage. In contrast, recent spikes in violence were not significantly associated with union transitions for more educated women. This suggests that increasing local violence may be pushing disadvantaged women in coresidential unions to accelerate significant transitions in their family trajectories, by either dissolving their relationships, or getting married to their cohabiting partner, which plausibly reflects underlying differences in union quality. By evaluating the link between local criminal violence and union stability, our findings contribute to understanding how disadvantaged families cope with disruptions to their social environments.",
+  "authors": [
+    {
+      "raw": "Caudillo, Monica L.",
+      "family": "Caudillo",
+      "given": "Monica L."
+    },
+    {
+      "raw": "Lee, Jaein",
+      "family": "Lee",
+      "given": "Jaein"
+    }
+  ],
+  "authors_text": "Caudillo, Monica L.; Lee, Jaein",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac140",
+  "doi_url": "https://doi.org/10.1093/sf/soac140",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac140",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac140.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Wage Effects of Couples’ Divisions of Labour across the UK Wage Distribution",
+  "abstract": "Specialisation and gender theories offer competing hypotheses of whether men’s and women’s wages rise or fall based on the couple’s division of household unpaid and paid labour, and how effects differ across the wage distribution. We test division effects by analysing British panel data using unconditional quantile regression with individual fixed effects, controlling for own hours in housework and employment. We find only high-wage men’s wages were significantly greater when their partners specialised in routine housework, and when they were the sole breadwinner. Conversely, low- and high-wage partnered women incurred significant wage penalties as their share of housework exceeded their partners’. Wages for low-wage men and median- and high-wage women also decreased as their share of household employment increased. We conclude only elite partnered men benefit from specialisation. Everyone else is either better off or no worse off with equitable household divisions of paid and unpaid work.",
+  "authors": [
+    {
+      "raw": "Blom, Niels",
+      "family": "Blom",
+      "given": "Niels"
+    },
+    {
+      "raw": "Cooke, Lynn Prince",
+      "family": "Cooke",
+      "given": "Lynn Prince"
+    }
+  ],
+  "authors_text": "Blom, Niels; Cooke, Lynn Prince",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2023,
+  "doi": "10.1177/09500170231180818",
+  "doi_url": "https://doi.org/10.1177/09500170231180818",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170231180818",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170231180818.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

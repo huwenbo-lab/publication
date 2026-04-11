@@ -1,0 +1,25 @@
+{
+  "title": "Child support and father-child contact: Testing reciprocal pathways",
+  "abstract": "Abstract I use three waves of panel data to examine the relationship between child support payments and fathers’ contact with their nonmarital children. I disaggregate support into fathers’ formal and informal payments and incorporate cross-lagged effects models to identify the direction of causality between payments and contact. After including the behavior from the prior wave (lagged term) and a rich set of family characteristics, I find a marginally significant effect of paying formally at Time 1 on the likelihood of contact at Time 2 but no effect of contact at Time 1 on formal payments at Time 2. In the first examination of the relationship between informal support and father-child contact, I find a strong, positive reciprocal relationship between the likelihood and frequency of father-child contact and the likelihood and amount of informal support, with slightly stronger and more consistent effects of contact on payments than of payments on contact.",
+  "authors": [
+    {
+      "raw": "Nepomnyaschy, Lenna",
+      "family": "Nepomnyaschy",
+      "given": "Lenna"
+    }
+  ],
+  "authors_text": "Nepomnyaschy, Lenna",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0008",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

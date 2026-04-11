@@ -1,0 +1,35 @@
+{
+  "title": "COVID-19 employment shocks and safety net expansion: Health effects on displaced workers",
+  "abstract": "COVID-19 precipitated sharp job losses, concentrated in the service sector. Prior research suggests that such shocks would negatively affect health and wellbeing. However, the nature of the pandemic crisis was distinct in ways that may have mitigated any such negative effects, and historic expansions in unemployment insurance (UI) may have buffered workers from negative health consequences. We draw on employer-employee linked cross-sectional (N =15,219) and panel (N = 3307) data from service sector workers to estimate the effects of job loss on health and wellbeing during COVID-19. Using employer fixed-effects, lagged dependent variables, and models that focus on job loss due to establishment closure to minimize confounding, we find negative effects of unemployment on health and wellbeing. However, in periods when UI was most generous or in cases where UI fully replaced pre-job loss wages, unemployed workers who received UI were no worse off than those who remained employed. Although UI protected against worsening health, receiving generous UI benefits did not confer a health advantage relative to working at the height of the pandemic.",
+  "authors": [
+    {
+      "raw": "Schneider, Daniel",
+      "family": "Schneider",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Harknett, Kristen",
+      "family": "Harknett",
+      "given": "Kristen"
+    },
+    {
+      "raw": "Gailliot, Annette",
+      "family": "Gailliot",
+      "given": "Annette"
+    }
+  ],
+  "authors_text": "Schneider, Daniel; Harknett, Kristen; Gailliot, Annette",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103059",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103059",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103059",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103059.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

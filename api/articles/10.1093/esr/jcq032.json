@@ -1,0 +1,30 @@
+{
+  "title": "Media Attention as the Outcome of a Diffusion Process--A Theoretical Framework and Cross-National Evidence on Earthquake Coverage",
+  "abstract": "Research on media attention has identified a range of factors that determine whether events are covered as news. However, these determinants have been derived mainly inductively and there is a great variety in their nature and number from one study to the next, partly depending on the type of news events studied. This insufficient theoretical grounding limits the possibilities for research on media attention to connect to wider social-science theorizing. We propose a unifying theoretical framework for studying media attention, which draws on theoretical concepts and research findings from the sociological literature on the diffusion of innovations. Following Rogers’ suggestion to see news as a particular type of social innovation, we derive five factors that influence news diffusion from the source location of an event to an adopting medium: event characteristics, homophily between source and adopter, network ties between source and adopter, the power and status of the source, and selective exposure to similar events or to events from the same source. We apply and test this theoretical framework by analysing the coverage of >1,300 earthquakes in the period 1990–2005 in American, British and Dutch newspapers. Our results strongly and consistently support the theoretical expectations.",
+  "authors": [
+    {
+      "raw": "Koopmans, R.",
+      "family": "Koopmans",
+      "given": "R."
+    },
+    {
+      "raw": "Vliegenthart, R.",
+      "family": "Vliegenthart",
+      "given": "R."
+    }
+  ],
+  "authors_text": "Koopmans, R.; Vliegenthart, R.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcq032",
+  "doi_url": "https://doi.org/10.1093/esr/jcq032",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcq032",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcq032.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

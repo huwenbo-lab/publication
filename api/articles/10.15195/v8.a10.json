@@ -1,0 +1,30 @@
+{
+  "title": "Abductive Logic of Inquiry for Quantitative Research in the Digital Age",
+  "abstract": "We propose an abductive logic of scientific inference for quantitative research. The advent of computational sociology has exposed the limitations of a deductive logic of inquiry for quantitative researchers due to a lack of traditional sociological variables and an abundance of unfamiliar variables and data formats, complicating hypothesis testing. In response, some researchers have embraced inductive inference, but inductive analysis without theoretical guidance risks producing atheoretical findings. An abductive logic of inquiry rests on developing new theoretical insights based on surprising research results in light of existing theories. In computational sociology, such surprising findings can be cultivated by taking advantage of the analytical potential of scaled-up data and developing flexible analytical and visualization procedures. We illustrate these tactics with a surprising finding in a study of the labor supply decisions of New York City yellow cab drivers.",
+  "authors": [
+    {
+      "raw": "Brandt, Philipp",
+      "family": "Brandt",
+      "given": "Philipp"
+    },
+    {
+      "raw": "Timmermans, Stefan",
+      "family": "Timmermans",
+      "given": "Stefan"
+    }
+  ],
+  "authors_text": "Brandt, Philipp; Timmermans, Stefan",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2021,
+  "doi": "10.15195/v8.a10",
+  "doi_url": "https://doi.org/10.15195/v8.a10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv8.a10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v8.a10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Welfare Reform and Teenage Pregnancy, Childbirth, and School Dropout",
+  "abstract": "This study estimates the effect of welfare reform on adolescent behaviors using a difference-in-differences approach. After defining the prereform and reform cohorts and considering the life course development of adolescent behavior by following each cohort from age 14 to age 16, we compare the welfare-target and nontarget populations in the two cohorts. The difference-in-differences estimates are obtained using an event history model. Our analysis suggests that welfare reform has not reduced teenage fertility and school dropout. We find modest evidence that welfare reform is associated with higher risk of teenage births for girls in welfare families and higher risk of school dropout for girls in poor families. A combination of a difference-in-differences approach and a life course perspective can be a useful way to delineate the effect of societal-level change on family phenomena.",
+  "authors": [
+    {
+      "raw": "Hao, Lingxin",
+      "family": "Hao",
+      "given": "Lingxin"
+    },
+    {
+      "raw": "Cherlin, Andrew J.",
+      "family": "Cherlin",
+      "given": "Andrew J."
+    }
+  ],
+  "authors_text": "Hao, Lingxin; Cherlin, Andrew J.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2004,
+  "doi": "10.1111/j.0022-2445.2004.00013.x",
+  "doi_url": "https://doi.org/10.1111/j.0022-2445.2004.00013.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.0022-2445.2004.00013.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.0022-2445.2004.00013.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

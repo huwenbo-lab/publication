@@ -1,0 +1,30 @@
+{
+  "title": "RETRACTED: Adverse Childhood Experiences, Psychological Distress, and Fathering Behaviors (Retracted article. See FEB, 2023)",
+  "abstract": "Objective This study examines the relationship between adverse childhood experiences (ACEs), internalized and externalized psychological distress, and six measures of parenting behavior among fathers in the United States. Background Prior research on ACEs and parenting has focused almost exclusively on mothers, specific types of childhood adversity, and the intergenerational transmission of abuse, neglect, and other traumatic experiences. This study extends the literature by considering ACEs in fathers, using a multidimensional measure of ACEs, and multiple measures of positive and negative fathering behavior. Method Using the ecological model of father involvement, this study is based on a national sample of more than 2,000 fathers with children between 2 and 18 years old in the United States. Seemingly unrelated regression models were used to analyze the relationship between ACEs and each fathering behavior, with two measures of psychological distress included as mediators of this relationship. Results ACEs are significantly associated with both internalized and externalized psychological distress. Experiencing multiple ACEs was negatively associated with paternal warmth, engagement, caregiving, and father-child relationship quality. Multiple ACEs were also positively associated with the use of harsh discipline. High ACE scores were mediated by internalized distress for five fathering behaviors and by externalized distress for warmth and harsh discipline. Conclusion This study highlights the importance of ACEs and psychological distress for fathering. These results have implications for future research and public health approaches to childhood trauma.",
+  "authors": [
+    {
+      "raw": "Shafer, Kevin",
+      "family": "Shafer",
+      "given": "Kevin"
+    },
+    {
+      "raw": "Easton, Scott D.",
+      "family": "Easton",
+      "given": "Scott D."
+    }
+  ],
+  "authors_text": "Shafer, Kevin; Easton, Scott D.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12759",
+  "doi_url": "https://doi.org/10.1111/jomf.12759",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12759",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12759.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

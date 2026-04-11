@@ -1,0 +1,35 @@
+{
+  "title": "Does social origin modify the heritability of cognitive ability? A close look at the relevance of different parental resources",
+  "abstract": "Cognitive ability plays a prominent role among individual characteristics favorable for success in life. The extent to which endowments for cognitive ability can be realized is an important aspect of unequal life chances in a society. Social origin is considered particularly relevant for realizing cognitive genetic potentials, but related empirical findings are mixed. This paper examines whether there are differences in the interactions between genetic variation and social origin across distinct parental resources and whether the patterns of interactions are (non)linear for three different cohorts of twins (late childhood, adolescents, young adults). Our results showed inconsistent interaction patterns across cohorts and parental resources. A pattern following the Scarr-Rowe Interaction (SRI) was observed only for the younger twins (late childhood) and only for parental occupational status. There were (for the most) no interaction patterns for the adolescent twins. For the young adult twins, patterns partly followed a reverse SRI. Taken together, the results suggested that, first of all, parental occu-pational status and household income moderate either genetic or environmental contributions to cognitive ability in Germany, however, not consistently as a Scarr-Rowe interaction. Using composite measures would have obscured these differential effects of social origin. The interaction patterns are mostly not in line with an SRI but can be approximated using a linear approach in many cases.",
+  "authors": [
+    {
+      "raw": "Moenkediek, Bastian",
+      "family": "Moenkediek",
+      "given": "Bastian"
+    },
+    {
+      "raw": "Diewald, Martin",
+      "family": "Diewald",
+      "given": "Martin"
+    },
+    {
+      "raw": "Lang, Volker",
+      "family": "Lang",
+      "given": "Volker"
+    }
+  ],
+  "authors_text": "Moenkediek, Bastian; Diewald, Martin; Lang, Volker",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100824",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100824",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100824",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100824.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

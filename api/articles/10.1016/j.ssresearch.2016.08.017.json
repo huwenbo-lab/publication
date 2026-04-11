@@ -1,0 +1,30 @@
+{
+  "title": "Who gets evicted? Assessing individual, neighborhood, and network factors",
+  "abstract": "The prevalence and consequences of eviction have transformed the lived experience of urban poverty in America, yet little is known about why some families avoid eviction while others do not. Applying discrete hazard models to a unique dataset of renters, this study empirically evaluates individual, neighborhood, and social network characteristics that explain disparities in displacement from housing. Family size, job loss, neighborhood crime and eviction rates, and network disadvantage are identified as significant and robust predictors of eviction, net of missed rental payments and other relevant factors. This study advances urban sociology and inequality research and informs policy interventions designed to prevent eviction and stem its consequences. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Desmond, Matthew",
+      "family": "Desmond",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Gershenson, Carl",
+      "family": "Gershenson",
+      "given": "Carl"
+    }
+  ],
+  "authors_text": "Desmond, Matthew; Gershenson, Carl",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.08.017",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.08.017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.08.017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.08.017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

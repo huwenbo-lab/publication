@@ -1,0 +1,40 @@
+{
+  "title": "The Income and Health Effects of Tribal Casino Gaming on American Indians",
+  "abstract": "Abstract The legalization of American Indian casino gaming in the late 1980s allows examination of the relationship between income and health in a quasi-experimental way. Revenue from gaming accrues to individual tribes and has been used both to supplement tribe members’ income and to finance tribal infrastructure. We assembled annual data from 1988–2003 on tribal gaming, health care access (from the Area Resource File), and individual health and socioeconomic characteristics data (from the Behavioral Risk Factors Surveillance System). We use this information within a structural, difference-in-differences framework to study the effect of casino gaming on tribal members’ income, health status, access to health care, and health-related behaviors. Our difference-in-differences framework relies on before-after comparisons among American Indians whose tribe has at some time operated a casino and with-without comparisons between American Indians whose tribe has and those whose tribe has not initiated gaming. Our results provide identified estimates of the positive effect of gaming on American Indian income and on several indicators of American Indian health, health-related behaviors, and access to health care.",
+  "authors": [
+    {
+      "raw": "Wolfe, Barbara",
+      "family": "Wolfe",
+      "given": "Barbara"
+    },
+    {
+      "raw": "Jakubowski, Jessica",
+      "family": "Jakubowski",
+      "given": "Jessica"
+    },
+    {
+      "raw": "Haveman, Robert",
+      "family": "Haveman",
+      "given": "Robert"
+    },
+    {
+      "raw": "Courey, Marissa",
+      "family": "Courey",
+      "given": "Marissa"
+    }
+  ],
+  "authors_text": "Wolfe, Barbara; Jakubowski, Jessica; Haveman, Robert; Courey, Marissa",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0098-8",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0098-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0098-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0098-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

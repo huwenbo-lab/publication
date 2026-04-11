@@ -1,0 +1,30 @@
+{
+  "title": "The unaccountable risks of LIBOR",
+  "abstract": "One of the on-going consequences of recent financial crises seems to be that the conventional anchor' measures of global finance (such as the US dollar, treasury bonds and AAA rated securities) are no longer playing the anchoring role once believed of them. LIBOR now needs to be added to this list and not just because it has been tarnished by illegal practices, but because it is looking increasingly surpassed by financial market practices. LIBOR was believed to provide a risk-free rate of interest, but has been revealed to be risk-laden. Moreover, LIBOR is a measure of the costs of borrowing, whilst market concern is increasingly with measures of interest rate volatility. This paper looks at why, in the context of crisis, financial market focus on interest rates is turning towards other benchmarks, notably the overnight indexed swap (OIS) market, and what this shift might be telling us about the anchoring requirements of global financial markets.",
+  "authors": [
+    {
+      "raw": "Bryan, Dick",
+      "family": "Bryan",
+      "given": "Dick"
+    },
+    {
+      "raw": "Rafferty, Michael",
+      "family": "Rafferty",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Bryan, Dick; Rafferty, Michael",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2016,
+  "doi": "10.1111/1468-4446.12177",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12177",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12177",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12177.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

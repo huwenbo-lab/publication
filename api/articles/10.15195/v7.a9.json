@@ -1,0 +1,30 @@
+{
+  "title": "The Small-World Network of College Classes: Implications for Epidemic Spread on a University Campus",
+  "abstract": "To slow the spread of the novel coronavirus, many universities shifted to online instruction and now face the question of whether and how to resume in-person instruction. This article uses transcript data from a medium-sized American university to describe three enrollment networks that connect students through classes and in the process create social conditions for the spread of infectious disease: a university-wide network, an undergraduate-only network, and a liberal arts college network. All three networks are 'small worlds' characterized by high clustering, short average path lengths, and multiple independent paths connecting students. Students from different majors cluster together, but gateway courses and distributional requirements create cross-major integration. Connectivity declines when large courses of 100 students or more are removed from the network, as might be the case if some courses are taught online, but moderately sized courses must also be removed before less than half of student-pairs are connected in three steps and less than two-thirds in four steps. In all simulations, most students are connected through multiple independent paths. Hybrid models of instruction can reduce but not eliminate the potential for epidemic spread through the small worlds of course enrollments.",
+  "authors": [
+    {
+      "raw": "Weeden, Kim",
+      "family": "Weeden",
+      "given": "Kim"
+    },
+    {
+      "raw": "Cornwell, Benjamin",
+      "family": "Cornwell",
+      "given": "Benjamin"
+    }
+  ],
+  "authors_text": "Weeden, Kim; Cornwell, Benjamin",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2020,
+  "doi": "10.15195/v7.a9",
+  "doi_url": "https://doi.org/10.15195/v7.a9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv7.a9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v7.a9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

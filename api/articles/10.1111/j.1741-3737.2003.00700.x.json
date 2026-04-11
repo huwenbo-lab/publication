@@ -1,0 +1,35 @@
+{
+  "title": "Parental Housing Assistance and Parent‐Child Proximity in Italy",
+  "abstract": "Many studies of intergenerational exchanges include parent‐child proximity as an exogenous explanatory variable. Proximity may itself be a consequence of intergenerational resource flows, however. We analyze patterns of economic transfers between generations and their relationship to parent‐child proximity in Italy. Parental support for a child's home purchase may influence the child's choice of location, whether to facilitate parent‐child contacts, grandchild care, or parent care. We examine the situation of married couples, focusing on housing help received and the association of that help with proximity to each spouse's parents. Using 1998 survey data and multinomial logistic regression models, we find that past housing assistance has a significant effect on current proximity to each spouse's parents, controlling for parents' survival, family composition, and other factors.",
+  "authors": [
+    {
+      "raw": "Tomassini, Cecilia",
+      "family": "Tomassini",
+      "given": "Cecilia"
+    },
+    {
+      "raw": "Wolf, Douglas A.",
+      "family": "Wolf",
+      "given": "Douglas A."
+    },
+    {
+      "raw": "Rosina, Alessandro",
+      "family": "Rosina",
+      "given": "Alessandro"
+    }
+  ],
+  "authors_text": "Tomassini, Cecilia; Wolf, Douglas A.; Rosina, Alessandro",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2003,
+  "doi": "10.1111/j.1741-3737.2003.00700.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2003.00700.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2003.00700.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2003.00700.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

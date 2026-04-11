@@ -1,0 +1,35 @@
+{
+  "title": "Socio-economic Correlates of Marital Status and Marriage Timing Among Adult Men in Nigeria",
+  "abstract": "There is a gradual tendency towards prolonged bachelorhood among men in Nigeria. Studies have linked this to socio-economic factors, but this evidence is sparsely explored in the context of Nigeria. Hence, this study fills the knowledge gap. The 2016/17 Nigeria Multiple Indicator Cluster Survey data of 7803 adult men (aged 18-34 years) was analysed by using descriptive and fitting binary logitic regression and Cox regression models. Results show that slightly more than one-third of adult men in Nigeria (35%) had a marriage history and their median age at first marriage was about 24 years. Educated men (than the uneducated) and those in middle wealth group (than the poor men) were less likely to have ever been married and to delay marriage, respectively. Wealthy men were more likely to delay marriage. Employed men were more likely to have a marriage history and to delay marriage.",
+  "authors": [
+    {
+      "raw": "Okunlola, David A.",
+      "family": "Okunlola",
+      "given": "David A."
+    },
+    {
+      "raw": "Makinde, Olusesan A.",
+      "family": "Makinde",
+      "given": "Olusesan A."
+    },
+    {
+      "raw": "Babalola, Stella",
+      "family": "Babalola",
+      "given": "Stella"
+    }
+  ],
+  "authors_text": "Okunlola, David A.; Makinde, Olusesan A.; Babalola, Stella",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x211059828",
+  "doi_url": "https://doi.org/10.1177/0192513x211059828",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x211059828",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x211059828.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

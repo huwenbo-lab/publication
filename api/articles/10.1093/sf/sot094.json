@@ -1,0 +1,30 @@
+{
+  "title": "Welfare States and the Redistribution of Happiness",
+  "abstract": "We use data from the 2002 International Social Survey Programme, with roughly 42,000 individuals nested within twenty-nine countries, to examine the determinants of happiness in a comparative perspective. We hypothesize that social democratic welfare states redistribute happiness among policy-targeted demographic groups in these countries. The redistributive properties of the social democratic welfare states generate an alternate form of “happiness inequality” in which winners and losers are defined by marital status, presence of children, and income. We apply multilevel modeling and focus on public social expenditures (as percentage of GDP) as proxy measures of state intervention at the macro level, and happiness as the specific measure of welfare outcome at the micro level. We find that aggregate happiness is not greater in the social democratic welfare states, but happiness closely reflects the redistribution of resources in these countries. Happiness is redistributed from low-risk to high-risk individuals. For example, women with small children are significantly happier, but single persons are significantly less happy in the welfare states. This suggests that the pro-family ideology of the social democratic welfare states protects families from social risk and improves their well-being at the cost of single persons. Further, we find that the happiness gap between high- versus low-income earners is considerably smaller in the social democratic welfare states, suggesting that happiness is redistributed from the privileged to the less privileged.",
+  "authors": [
+    {
+      "raw": "Ono, H.",
+      "family": "Ono",
+      "given": "H."
+    },
+    {
+      "raw": "Lee, K. S.",
+      "family": "Lee",
+      "given": "K. S."
+    }
+  ],
+  "authors_text": "Ono, H.; Lee, K. S.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sot094",
+  "doi_url": "https://doi.org/10.1093/sf/sot094",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsot094",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sot094.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Samuel Butler on Mechanical Life and the Human Future",
+  "abstract": "Developments in artificial intelligence (AI) have the potential to boost labor productivity in the knowledge industries and, for some occupations, seem poised to displace human workers.There may be greater disruption of the workforce to come: a still distant prospect, but one seen as feasible by many experts in the field, is attainment of artificial general intelligence (AGI), computer-based brainpower equaling or exceeding that of humans in a broad range of activities.Well short of AGI, advanced AI systems could plausibly possess agency and the capacity for self-improvement.Computer scientists and philosophers debate the risks involved in these futures, particularly where AI is not \"aligned\" with human goals and values.The risks considered extend from short-range loss of control up to existential human catastrophe.(A recent assessment of sources of existential risk to humanity over the coming century puts unaligned AI at the top, only rivaled by engineered pathogens, and much higher than nuclear war or natural disaster.1 )",
+  "authors": [
+    {
+      "raw": "Cellarius",
+      "family": "Cellarius",
+      "given": ""
+    }
+  ],
+  "authors_text": "Cellarius",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2023,
+  "doi": "10.1111/padr.12581",
+  "doi_url": "https://doi.org/10.1111/padr.12581",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12581",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12581.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

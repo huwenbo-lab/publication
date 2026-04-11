@@ -1,0 +1,35 @@
+{
+  "title": "Life After Loss: A Prospective Analysis of Mortality Exposure and Unintended Fertility",
+  "abstract": "The relationship between mortality and fertility is a key component of demographic transition theory, placing it at the center of extensive inquiry. Among other linkages, mortality in women's communities and social networks influences their subsequent fertility. Existing demographic research assumes this is principally due to volitional mechanisms, implying that exposure to mortality consolidates women's desire to become pregnant, leading to intended fertility. Yet, insights from other disciplines suggest that mortality exposure could also increase women's unintended fertility through psychological, relational, and behavioral mechanisms. This study examines the relationships between network mortality exposure and women's hazard of pregnancy, and of unintended pregnancy specifically. We analyze two years (2009-2011) of closely spaced panel data on young Malawian women (N= 1,272) enrolled in the Tsogolo la Thanzi study. Our data include information on funeral attendance and fertility desires measured weeks before conception, which is confirmed through frequent pregnancy testing. Hazard models show that the number of funerals women attend corresponds with a higher hazard of pregnancy and of unintended pregnancy specifically. These findings make clear that mortality exposure can influence fertility not by shaping women's desires but by disrupting the realization of those desires.",
+  "authors": [
+    {
+      "raw": "Smith-Greenaway, Emily",
+      "family": "Smith-Greenaway",
+      "given": "Emily"
+    },
+    {
+      "raw": "Yeatman, Sara",
+      "family": "Yeatman",
+      "given": "Sara"
+    },
+    {
+      "raw": "Chilungo, Abdallah",
+      "family": "Chilungo",
+      "given": "Abdallah"
+    }
+  ],
+  "authors_text": "Smith-Greenaway, Emily; Yeatman, Sara; Chilungo, Abdallah",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9807961",
+  "doi_url": "https://doi.org/10.1215/00703370-9807961",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9807961",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9807961.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

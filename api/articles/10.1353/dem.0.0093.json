@@ -1,0 +1,30 @@
+{
+  "title": "Early life exposures and the occurrence and timing of heart disease among the older adult Puerto Rican population",
+  "abstract": "Abstract Few studies have examined the effects of early life conditions on the timing of the onset of heart disease. We use the remarkable example of a representative sample of the population of older Puerto Ricans aged 60– 74 who lived in the countryside during childhood (n = 1,438) to examine the effects of seasonal exposures to poor nutrition and infectious diseases during late gestation on the timing of the onset and the probability of ever experiencing adult heart disease. Cox and log logistic hazard models controlling for childhood conditions (self-reported childhood health status and socioeconomic status [SES], rheumatic fever, and knee height) and adult risk factors (adult SES, obesity, smoking, texercise, and self-reported diabetes) showed that the risk of onset of heart disease was 65% higher among those born during high-exposure periods compared with unexposed individuals. However, there were no significant differences in median time of onset for those ever experiencing heart disease. As a comparison, we found that there were no significant seasonality effects for those who lived in urban areas during childhood. We conclude that early exposures in utero have important ramifications for adult heart disease among the older Puerto Rican population. We show, however, that while exposure is associated with the probability of ever experiencing adult heart disease, it is not associated with the timing of onset among those who do experience it.",
+  "authors": [
+    {
+      "raw": "Mceniry, Mary",
+      "family": "Mceniry",
+      "given": "Mary"
+    },
+    {
+      "raw": "Palloni, Alberto",
+      "family": "Palloni",
+      "given": "Alberto"
+    }
+  ],
+  "authors_text": "Mceniry, Mary; Palloni, Alberto",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0093",
+  "doi_url": "https://doi.org/10.1353/dem.0.0093",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0093",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0093.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

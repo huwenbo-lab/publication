@@ -1,0 +1,25 @@
+{
+  "title": "Visualizing Jail Incarceration across the Rural-Urban Continuum, 1978 to 2018",
+  "abstract": "In this data visualization, the author depicts four measures of jail incarceration, drawing attention to the growth, variation, and disparities in jail incarceration across the rural-urban continuum in recent decades. Jails are the front door of the criminal legal system and admit millions of people each year. Yet jails have received little attention in sociological research, and existing research tends to focus on large, urban facilities. Here the author analyzes panel data organized at the county-year level to depict variation in four measures of jail incarceration across the rural-urban continuum since 1978. The author finds that jail incarceration rates have tended to increase across the period, but the urban incarceration rate has declined since 2007 as the rural incarceration rate continues to increase. Most people in jail are legally innocent and have not been convicted of a crime, and the Black/white disparity in jail incarceration has decreased over time.",
+  "authors": [
+    {
+      "raw": "Ittner, Timothy",
+      "family": "Ittner",
+      "given": "Timothy"
+    }
+  ],
+  "authors_text": "Ittner, Timothy",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241255582",
+  "doi_url": "https://doi.org/10.1177/23780231241255582",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241255582",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241255582.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

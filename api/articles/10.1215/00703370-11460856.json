@@ -1,0 +1,40 @@
+{
+  "title": "Ranking Age-at-Death Distributions Using Dominance: Robust Evaluation of United States Mortality Trends, 2006-2021",
+  "abstract": "Diverging mortal ity trends at different ages motivate the moni toring of lifespan inequal ity along side life expec tancy. Conclusions are ambigu ous when life expec tancy and lifespan inequal ity move in the same direc tion or when inequal ity mea sures dis play incon sis tent trends. We pro pose using nonpara metric domi nance analy sis to obtain a robust ranking of age-at-death dis tributions. Application to U.S. period life tables for 2006-2021 reveals that, until 2014, more recent years generally domi nate earlier years, imply ing improve ment if longer lifespans that are less unequally dis trib uted are con sid ered better. Improvements were more pro nounced for nonHis panic Black and His panic individu als than for non-His panic White individu als. Since 2014, for all sub popu lations-partic ularly His panics-earlier years often domi nate more recent years, indi cating wors ening age-at-death dis tributions if shorter and more unequal lifespans are con sid ered worse. Dramatic dete ri o ration of the dis tributions in 2020-2021 during the COVID-19 pandemic is most evi dent for His panic individu als.",
+  "authors": [
+    {
+      "raw": "Issa, Jawa",
+      "family": "Issa",
+      "given": "Jawa"
+    },
+    {
+      "raw": "Van Ourti, Tom",
+      "family": "Van Ourti",
+      "given": "Tom"
+    },
+    {
+      "raw": "van Baal, Pieter",
+      "family": "van Baal",
+      "given": "Pieter"
+    },
+    {
+      "raw": "O'Donnell, Owen",
+      "family": "O'Donnell",
+      "given": "Owen"
+    }
+  ],
+  "authors_text": "Issa, Jawa; Van Ourti, Tom; van Baal, Pieter; O'Donnell, Owen",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11460856",
+  "doi_url": "https://doi.org/10.1215/00703370-11460856",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11460856",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11460856.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

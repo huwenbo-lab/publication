@@ -1,0 +1,35 @@
+{
+  "title": "Birth Spacing and Parents' Physical and Mental Health: An Analysis Using Individual and Sibling Fixed Effects",
+  "abstract": "An exten sive lit er a ture has exam ined the rela tion ship between birth spac ing and sub se quent health out comes for par ents, par tic u larly for moth ers. However, this research has drawn almost exclu sively on obser va tional research designs, and almost all stud ies have been lim ited to adjusting for observ able fac tors that could con found the rela tion ship between birth spac ing and health out comes. In this study, we use Nor we gian reg is ter data to exam ine the rela tion ship between birth spac ing and the num ber of gen eral prac ti tioner con sul ta tions for moth ers' and fathers' phys i cal and men tal health con cerns imme di ately after child birth (1-5 and 6-11 months after child birth), in the medium term (5-6 years after child bear ing), and in the long term (10-11 years after child bear ing). To exam ine short term health out comes, we esti mate indi vid ual fixed-effects mod els: we hold con stant fac tors that could influ ence par ents' birth spacing behav ior and their health, com par ing health out comes after differ ent births to the same par ent. We apply sib ling fixed effects in our anal y sis of medium- and long-term out comes, hold ing con stant moth ers' and fathers' fam ily back grounds. The results from our ana ly ses that do not apply indi vid ual or sib ling fixed effects are con sis tent with much of the pre vi ous lit er a ture: shorter and lon ger birth inter vals are asso ci ated with worse health out comes than birth inter vals of approx i ma tely 2-3 years. Estimates from indi vid ual fixed-effects mod els sug gest that par tic u larly short inter vals have a mod est neg a tive effect on mater nal men tal health in the short term, with more ambig u ous evi dence that par tic u larly short or long inter vals might mod estly influ ence short-, medium, and longterm phys i cal health out comes. Overall, these results are con sis tent with small to neg li gi ble effects of birth spac ing behav ior on (nonpreg nancyrelated) parental health outcomes.",
+  "authors": [
+    {
+      "raw": "Barclay, Kieron",
+      "family": "Barclay",
+      "given": "Kieron"
+    },
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    },
+    {
+      "raw": "Kravdal, Oystein",
+      "family": "Kravdal",
+      "given": "Oystein"
+    }
+  ],
+  "authors_text": "Barclay, Kieron; Kolk, Martin; Kravdal, Oystein",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11204828",
+  "doi_url": "https://doi.org/10.1215/00703370-11204828",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11204828",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11204828.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

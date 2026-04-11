@@ -1,0 +1,35 @@
+{
+  "title": "Hotspots and Coldspots: Household and village-level variation in orphanhood prevalence in rural Malawi",
+  "abstract": "We explore the characteristics of households and villages in which orphans are resident in two areas of Malawi. We first review pertinent themes in qualitative data collected in our research sites. Then, using spatial analysis, we show how positive and negative clusters of orphans - which we term orphanhood \"hotspots\" and \"coldspots\" - can be found at the village and sub-village levels. In the third and longest section of the paper, and using multilevel analyses with both simple and complex variance structures, we evaluate the relationship between the presence of orphans and a range of individual, household and village-level characteristics, including households' spatial relationship to each other and to other local sites of significance. This series of analyses shows that the most important covariates of orphan presence are household size, wealth, and religious characteristics, with all measured simultaneously at both household and village-level. In addition, most of these have heterogenous effects across villages. We conclude by reviewing some difficulties in explaining causal mechanisms underlying these observed relationships, and discuss conceptual, theoretical and programmatic implications.",
+  "authors": [
+    {
+      "raw": "Weinreb, Alexander A.",
+      "family": "Weinreb",
+      "given": "Alexander A."
+    },
+    {
+      "raw": "Gerland, Patrick",
+      "family": "Gerland",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Fleming, Peter",
+      "family": "Fleming",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Weinreb, Alexander A.; Gerland, Patrick; Fleming, Peter",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2008,
+  "doi": "10.4054/demres.2008.19.32",
+  "doi_url": "https://doi.org/10.4054/demres.2008.19.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2008.19.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2008.19.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

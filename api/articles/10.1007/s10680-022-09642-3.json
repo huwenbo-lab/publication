@@ -1,0 +1,30 @@
+{
+  "title": "How Social Capital is Related to Migration Between Communities?",
+  "abstract": "AbstractIn addition to economic and infrastructural factors, social connections of people also influence migration patterns. This influence can be attributed to the resources that are made available by social contacts: social capital, which can also be utilized in the process of migration. Based on previous literature, we identify three different aspects of social capital and test their relationship with domestic migration simultaneously. First, we analyse if the intensity of connections within communities (local social capital) restrains from migration. Second, if the intensity of connections between two communities (bridging social capital) is associated with increased migration between them. Finally, we consider, if the extent to which local community networks exhibit open or closed structures (bonding social capital) contributes to higher or lower migration rates. We create indicators for these measures using archived online social network data, covering 40% of the adult population of Hungary, and combine them with official migration data of 175 subregions. Based on point-to-point gravity and negative binomial models, we find that bridging social capital between subregions is associated with increased migration flows, but we do not find that local social capital restrains from migration.",
+  "authors": [
+    {
+      "raw": "Lőrincz, László",
+      "family": "Lőrincz",
+      "given": "László"
+    },
+    {
+      "raw": "Németh, Brigitta",
+      "family": "Németh",
+      "given": "Brigitta"
+    }
+  ],
+  "authors_text": "Lőrincz, László; Németh, Brigitta",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09642-3",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09642-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09642-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09642-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

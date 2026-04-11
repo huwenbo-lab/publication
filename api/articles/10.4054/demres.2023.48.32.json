@@ -1,0 +1,45 @@
+{
+  "title": "How the demographic transition affects kinship networks: A formal demographic approach",
+  "abstract": "BACKGROUNDKinship groups can have considerable importance (e.g., generational support, inheritance, and information for key life events). During demographic transitions, kinship networks are reshaped by changes in mortality and fertility rates.OBJECTIVEThis paper analyzes consanguineous and female kin and explores the effect on the size and structure of living kin before and after a demographic transition. We compute the kinship network of a female individual with average demographic traits (here called the Focal) at all ages but focus on only demographically dense ages (age 15 to 39).METHODSThe analysis uses a time-invariant model (Caswell 2019) to calculate the expected number of living kin using fertility and mortality rates. We use three examples (China, India, and Japan) with fertility and mortality from World Population Prospect 2019, based on empirical data.CONCLUSIONSWe highlight two key results. First, at a demographically dense age of the Focal, the maximum expected number of living aunts, sisters, or daughters is approximately the net reproductive rate R0 (linear), while the number of living cousins is approximately R02 (quadratic). Second, such effects on kinship size depend on the magnitude of fertility change and on the age-pattern of changes in mortality. And the effects of fertility and mortality on the number of kin are not additive.CONTRIBUTIONThis paper shows a simple relationship between demographic transition and kinship size, which makes it possible to estimate kinship size based on the net reproductive rate. The quadratic relationship between the number of certain kin (e.g., cousins, nieces) and the net reproductive rate is informative but not a priori obvious.",
+  "authors": [
+    {
+      "raw": "Jiang, Sha",
+      "family": "Jiang",
+      "given": "Sha"
+    },
+    {
+      "raw": "Zuo, Wenyun",
+      "family": "Zuo",
+      "given": "Wenyun"
+    },
+    {
+      "raw": "Guo, Zhen",
+      "family": "Guo",
+      "given": "Zhen"
+    },
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    },
+    {
+      "raw": "Tuljapurkar, Shripad",
+      "family": "Tuljapurkar",
+      "given": "Shripad"
+    }
+  ],
+  "authors_text": "Jiang, Sha; Zuo, Wenyun; Guo, Zhen; Caswell, Hal; Tuljapurkar, Shripad",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.32",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

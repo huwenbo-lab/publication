@@ -1,0 +1,30 @@
+{
+  "title": "Love Thy Neighbor? Moral Communities, Civic Engagement, and Juvenile Homicide in Rural Areas",
+  "abstract": "While juvenile homicide garnered a tremendous amount of attention from the general public, the media, and policymakers around 1990, macro-level research examining intercommunity variations in juvenile homicide is generally sparse. In addition, most studies addressing this topic focus on urban areas, neglecting the equally important issue of juvenile homicide in rural communities. This analysis extends prior research by investigating the structural sources of variation in rural juvenile homicide rates and by examining the influence of religion on this phenomenon. Informing our analyses with theoretical insights drawn from the moral communities and civil society literatures, we investigate the protective effects of civically engaged religious denominations on juvenile family, acquaintance, and stranger homicides in rural counties. For comparative purposes, we also perform parallel analyses on a sample of urban areas. The empirical analyses of county-level data using negative binomial regression estimation techniques indicate that the presence of civically engaged religious adherents is inversely associated with juvenile homicide in rural areas (net of the effects of a range of control variables), but that this protective effect is primarily confined to juvenile family homicides. In contrast, the measure of civically engaged denominations has no effect on juvenile homicide in urban areas. We conclude with a discussion of the theoretical importance of these findings and directions for future research.",
+  "authors": [
+    {
+      "raw": "Lee, M. R.",
+      "family": "Lee",
+      "given": "M. R."
+    },
+    {
+      "raw": "Bartkowski, J. P.",
+      "family": "Bartkowski",
+      "given": "J. P."
+    }
+  ],
+  "authors_text": "Lee, M. R.; Bartkowski, J. P.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2004,
+  "doi": "10.1353/sof.2004.0044",
+  "doi_url": "https://doi.org/10.1353/sof.2004.0044",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2004.0044",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2004.0044.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

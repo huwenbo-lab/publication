@@ -1,0 +1,25 @@
+{
+  "title": "Timing effects and the interpretation of period fertility",
+  "abstract": "Abstract Low fertility levels and later childbearing in many developed countries have reinvigorated the debate between period and cohort perspectives on fertility and on the meaningfulness of the period total fertility rate (TFR). Here, fertility-timing effects are defined as level changes in period fertility that do not reflect level changes in the completed fertility of cohorts. That definition leads to the average cohort fertility (ACF) as a measure of period fertility adjusted for timing effects. In an influential paper, Bongaarts and Feeney (1998) presented an alternative approach and a different measure, TFR*, to adjust for timing effects. Here, the two measures are compared. In the context of model populations, the ACF performs well, reflecting an average of the fertility of the active cohorts. The Bongaarts-Feeney TFR*, however, is frequently unreliable and can be erratic when there are cycles in period timing. When applied to twentieth-century U.S. experience, the TFR* behaves like a period measure and yields adjustments that are often wide of the mark. The ACF shows the stability associated with cohort measures and quantifies the substantial impact that timing effects had during the “birth dearth” of the 1970s. The period TFR reached a low of 1.74 in 1976, but the ACF never went below 2.06 during the 1970s.",
+  "authors": [
+    {
+      "raw": "Schoen, Robert",
+      "family": "Schoen",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Schoen, Robert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0036",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0036",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0036",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0036.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Who Takes Care of Whom in the United States? Time Transfers by Age and Sex",
+  "abstract": "Non-monetary transfers of time represent a largely unknown, yet pivotal component, of the support system in the United States. We map flows of time transfers, by age and sex, related to informal childcare and adult care in the US. We develop methods to estimate intra- and inter-household time transfers using data from the American Time Use Survey (2011-2013). We summarize the results in matrices of time flows by age and sex for the general US population, as well as for the sandwich generation. Most time transfers flow downwards from parents to young children, with relevant gender differences. The time produced by the sandwich generation is directed toward a more diverse population spectrum, including substantial intra-generational transfers to spouses. Extrapolations based on our findings reveal a projected rise in demand, relative to supply, of informal care, indicating that, to maintain current levels of care, US society will have to rely more heavily either on the market or on an increased effort of caregivers.",
+  "authors": [
+    {
+      "raw": "Dukhovnov, Denys",
+      "family": "Dukhovnov",
+      "given": "Denys"
+    },
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    }
+  ],
+  "authors_text": "Dukhovnov, Denys; Zagheni, Emilio",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2015,
+  "doi": "10.1111/j.1728-4457.2015.00044.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2015.00044.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2015.00044.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2015.00044.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

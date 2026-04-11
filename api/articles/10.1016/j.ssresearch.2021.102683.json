@@ -1,0 +1,45 @@
+{
+  "title": "Incarceration, polygenic risk, and depressive symptoms among males in late adulthood",
+  "abstract": "This study demonstrates how social and genetic factors jointly influence depression in late adulthood. We focus on the effect of incarceration, a major life event consistently found to be associated with mental health problems. Drawing on data from males in the Wisconsin Longitudinal Study and the Health and Retirement Study, we conduct a polygenic score analysis based on a genome-wide association study on depressive symptoms. Our analysis produces two important findings. First, incarceration experience mediates the association between the depression polygenic score and depressive symptoms in late adulthood (i.e., greater polygenic scores are associated with elevated incarceration risk, which increases depressive symptoms in late adulthood). Second, about one-fifth of the association between incarceration experience and late-adulthood depressive symptoms is accounted for by the depression polygenic score and childhood depression. These findings reveal complex biological and social mechanisms in the development of depression and, more broadly, provide important insights for causal inference in social science research.",
+  "authors": [
+    {
+      "raw": "Liu, Hexuan",
+      "family": "Liu",
+      "given": "Hexuan"
+    },
+    {
+      "raw": "Tanksley, Peter T.",
+      "family": "Tanksley",
+      "given": "Peter T."
+    },
+    {
+      "raw": "Motz, Ryan T.",
+      "family": "Motz",
+      "given": "Ryan T."
+    },
+    {
+      "raw": "Kail, Rachel M.",
+      "family": "Kail",
+      "given": "Rachel M."
+    },
+    {
+      "raw": "Barnes, J. C.",
+      "family": "Barnes",
+      "given": "J. C."
+    }
+  ],
+  "authors_text": "Liu, Hexuan; Tanksley, Peter T.; Motz, Ryan T.; Kail, Rachel M.; Barnes, J. C.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102683",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102683",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102683",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102683.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

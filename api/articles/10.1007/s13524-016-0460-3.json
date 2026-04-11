@@ -1,0 +1,25 @@
+{
+  "title": "Welfare Reform and Labor Force Exit by Young, Low-Skilled Single Males",
+  "abstract": "While the labor market woes of low-skilled male workers in the United States over the past several decades have been well documented, the academic literature identifying causal factors leading to declines in labor force participation (LFP) by young, low-skilled males remains scant. To address this gap, I use the timing and characteristics of welfare-reform policies implemented during the 1990s and fixed-effects, instrumental variable regression modeling to show that policies seeking to increase LFP rates for low-skilled single mothers inadvertently led to labor force exit by young, low-skilled single males. Using data from the Current Population Survey and a bundle of work inducements enacted by states throughout the 1990s as exogenous variation in a quasi-experimental design, I find that the roughly 10 percentage point increase in LFP for low-skilled single mothers facilitated by welfare reform resulted in a statistically significant 2.8 percentage point decline in LFP for young, low-skilled single males. After conducting a series of robustness checks, I conclude that this result is driven entirely by white males, who responded to welfare-reform policies with a 3.7 percentage point decline in labor supply. Young black males, as well as other groups of potentially affected workers, appear to be uninfluenced by the labor supply response of less-educated single mothers to welfare reform. Impacts on young, single white males are large and economically significant, suggesting that nearly 150,000 males departed the formal labor market in response to directed welfare-reform policies.",
+  "authors": [
+    {
+      "raw": "Groves, Lincoln H.",
+      "family": "Groves",
+      "given": "Lincoln H."
+    }
+  ],
+  "authors_text": "Groves, Lincoln H.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0460-3",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0460-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0460-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0460-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

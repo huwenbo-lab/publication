@@ -1,0 +1,25 @@
+{
+  "title": "The Declining Significance of Race in Criminal Sentencing: Evidence from US Federal Courts",
+  "abstract": "Racial inequality in sentencing has decreased substantially over the last decade. In 2009, the average sentencing difference between black and white defendants in federal court was nearly 3 yrs. By 2018, this difference was less than 6 mos. Among drug offenders over this same period, the black-white gap went from 47 mos. down to zero. Yet, despite the fact that racial inequality in the legal system remains at the fore of sociological discourse, these developments remain conspicuously under-evaluated and the underlying processes driving these changes remain unknown. This article fills this gap by applying longitudinal decomposition methods to US District Court data between 2009 and 2018. Three notable findings emerge. First, the declining racial gap was driven, in equal parts, by decreasing black sentences and increasing white sentences. Second, black and white sentences became more equal almost entirely due to changes in observable case characteristics and not due to changes in the treatment of offenders. Third, shifts in the prosecutorial use of mandatory minimums played a critical role in decreasing black-white sentencing inequality.",
+  "authors": [
+    {
+      "raw": "Light, Michael T.",
+      "family": "Light",
+      "given": "Michael T."
+    }
+  ],
+  "authors_text": "Light, Michael T.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab018",
+  "doi_url": "https://doi.org/10.1093/sf/soab018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

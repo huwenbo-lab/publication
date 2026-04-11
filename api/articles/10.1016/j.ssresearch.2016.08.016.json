@@ -1,0 +1,45 @@
+{
+  "title": "A comparison of network sampling designs for a hidden population of drug users: Random walk vs. respondent-driven sampling",
+  "abstract": "Both random walk and respondent-driven sampling (RDS) exploit social networks and may reduce biases introduced by earlier methods for sampling from hidden populations. Although RDS has become much more widely used by social researchers than random walk (RW), there has been little discussion of the tradeoffs in choosing RDS over RW. This paper compares experiences of implementing RW and RDS to recruit drug users to a network based study in Houston, Texas. Both recruitment methods were implemented over comparable periods of time, with the same population, by the same research staff. RDS methods recruited more participants with less strain on staff. However, participants recruited through RW were more forthcoming than RDS participants in helping to recruit members of their social networks. Findings indicate that, dependent upon study goals, researchers' choice of design may influence participant recruitment, participant commitment, and impact on staff, factors that may in turn affect overall study success. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Bell, David C.",
+      "family": "Bell",
+      "given": "David C."
+    },
+    {
+      "raw": "Erbaugh, Elizabeth B.",
+      "family": "Erbaugh",
+      "given": "Elizabeth B."
+    },
+    {
+      "raw": "Serrano, Tabitha",
+      "family": "Serrano",
+      "given": "Tabitha"
+    },
+    {
+      "raw": "Dayton-Shotts, Cheryl A.",
+      "family": "Dayton-Shotts",
+      "given": "Cheryl A."
+    },
+    {
+      "raw": "Montoya, Isaac D.",
+      "family": "Montoya",
+      "given": "Isaac D."
+    }
+  ],
+  "authors_text": "Bell, David C.; Erbaugh, Elizabeth B.; Serrano, Tabitha; Dayton-Shotts, Cheryl A.; Montoya, Isaac D.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.08.016",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.08.016",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.08.016",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.08.016.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

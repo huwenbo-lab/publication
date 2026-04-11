@@ -1,0 +1,25 @@
+{
+  "title": "Publish and Perish? An Assessment of Gender Gaps in Promotion to Tenure in Academia",
+  "abstract": "In academia, there remains a gender gap in promotion to tenure, such that men are more likely to receive tenure than women. This paper tests three explanations of this gender gap in promotion: (1) contextual and organizational differences across departments; (2) performance/productivity differences by gender; and (3) gendered inequality in evaluation. To test these explanations, this project uses a novel dataset drawing from a sample of assistant professors in Sociology, Computer Science, and English, across research universities. This dataset combines data from sources including curriculum vitae, Google Scholar, and web archive employment data, resulting in a dataset of assistant professors' publication records, department affiliations, and job positions. Analyses examine the gender gap in the likelihood of promotion to tenure and in early career trajectories, while accounting for publication productivity and department/university context. The results demonstrate that productivity measures account for a portion of the gender gap in tenure, but in each discipline a substantial share of the gender gap remains unexplained by these factors. Department characteristics do not explain the tenure gender gap. Further, when women do receive tenure, they do so in lower-prestige departments than men, on average. These findings suggest that gendered inequality in the tenure evaluation process contributes to the gender gap in tenure rates.",
+  "authors": [
+    {
+      "raw": "Weisshaar, Katherine",
+      "family": "Weisshaar",
+      "given": "Katherine"
+    }
+  ],
+  "authors_text": "Weisshaar, Katherine",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox052",
+  "doi_url": "https://doi.org/10.1093/sf/sox052",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox052",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox052.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

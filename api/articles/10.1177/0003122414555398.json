@@ -1,0 +1,25 @@
+{
+  "title": "Trust Radius versus Trust Level: Radius of Trust as a Distinct Trust Construct",
+  "abstract": "In their October 2011 ASR article, How General Is Trust in Most People'? Solving the Radius of Trust Problem, Delhey, Newton, and Welzel pioneer the measurement of trust radius, defined as the width of the circle of people among whom a certain trust level exists. One key finding of their study is that trust radius correlates so strongly with out-group trust level that the two are essentially identical constructs; this clashes with standard theory's finding that trust level and trust radius are distinct trust constructs. This result proves to be erroneous, however, due to a mistaken label. I seek to correct this labeling error and find that trust radius is, in fact, a separate trust construct. Trust radius differs from established trust level constructs such as level of trust in most people and level of out-group trust, not only theoretically but empirically as well.",
+  "authors": [
+    {
+      "raw": "van Hoorn, Andre",
+      "family": "van Hoorn",
+      "given": "Andre"
+    }
+  ],
+  "authors_text": "van Hoorn, Andre",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122414555398",
+  "doi_url": "https://doi.org/10.1177/0003122414555398",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122414555398",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122414555398.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

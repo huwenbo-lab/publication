@@ -1,0 +1,35 @@
+{
+  "title": "Neighborhood Foreclosures, Racial/Ethnic Transitions, and Residential Segregation",
+  "abstract": "In this article, we use data on virtually all foreclosure events between 2005 and 2009 to calculate neighborhood foreclosure rates for nearly all block groups in the United States to assess the impact of housing foreclosures on neighborhood racial/ethnic change and on broader patterns of racial residential segregation. We find that the foreclosure crisis was patterned strongly along racial lines: black, Latino, and racially integrated neighborhoods had exceptionally high foreclosure rates. Multilevel models of racial/ethnic change reveal that foreclosure concentrations were linked to declining shares of whites and expanding shares of black and Latino residents. Results further suggest that these compositional shifts were driven by both white population loss and minority growth, especially from racially mixed settings with high foreclosure rates. To explore the impact of these racially selective migration streams on patterns of residential segregation, we simulate racial segregation assuming that foreclosure rates remained at their 2005 levels throughout the crisis period. Our simulations suggest that the foreclosure crisis increased racial segregation between blacks and whites by 1.1 dissimilarity points, and between Latinos and whites by 2.2 dissimilarity points.",
+  "authors": [
+    {
+      "raw": "Hall, Matthew",
+      "family": "Hall",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    },
+    {
+      "raw": "Spring, Amy",
+      "family": "Spring",
+      "given": "Amy"
+    }
+  ],
+  "authors_text": "Hall, Matthew; Crowder, Kyle; Spring, Amy",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1177/0003122415581334",
+  "doi_url": "https://doi.org/10.1177/0003122415581334",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122415581334",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122415581334.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

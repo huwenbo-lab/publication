@@ -1,0 +1,30 @@
+{
+  "title": "Population Trends as a Counterweight to Central City Decline, 1950–2000",
+  "abstract": "Abstract The share of metropolitan residents living in central cities declined dramatically from 1950 to 2000. We argue that cities would have lost even further ground if not for demographic trends such as renewed immigration, delayed childbearing, and a decline in the share of households headed by veterans. We provide causal estimates of the effect of children on residential location using the birth of twins. The effect of veteran status is identified from a discontinuity in the probability of military service during and after the mass mobilization for World War II. Our results suggest that these changes in demographic composition were strong enough to bolster city population but not to fully counteract socioeconomic factors favoring suburban growth.",
+  "authors": [
+    {
+      "raw": "Boustan, Leah",
+      "family": "Boustan",
+      "given": "Leah"
+    },
+    {
+      "raw": "Shertzer, Allison",
+      "family": "Shertzer",
+      "given": "Allison"
+    }
+  ],
+  "authors_text": "Boustan, Leah; Shertzer, Allison",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0137-5",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0137-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0137-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0137-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

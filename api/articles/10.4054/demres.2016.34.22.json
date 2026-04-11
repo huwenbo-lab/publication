@@ -1,0 +1,45 @@
+{
+  "title": "Differences in all-cause mortality: A comparison between immigrants and the host population in Norway 1990-2012",
+  "abstract": "BACKGROUND Differences in all-cause mortality between immigrants and host populations may provide insight into health inequities that could be reduced. OBJECTIVE Death risks of adult immigrants were compared to those of the host population to assess effects of country of origin, duration of residence, calendar period, and sociodemographic characteristics, i.e., sex, education, and marital and parental status. METHODS Registry data encompassing the entire Norwegian population age 25-79 in 1990-2012 were used to compare death risks in various immigrant groups and the host population, using discrete-time hazard regression models with time-varying covariates. RESULTS Over 451,000 deaths occurred in around 4.4 million individuals. After adjusting for sex, age, and calendar period, immigrants had an 8% survival advantage (odds ratio (OR) 0.92). Death-risk estimates for immigrants were lowered pronouncedly by further adjustment of sociodemographic factors (OR 0.81). The greatest survival advantage was observed among immigrants with a short duration of residence. With increasing lengths of stay, immigrants' risk of death became similar to that of the host population. The survival advantage was most pronounced for younger, unmarried, and childless immigrants. Although the survival of Central and Eastern European immigrants improved over time, none of the groups had a higher adjusted death risk than the host population. CONCLUSIONS Immigrants have a 20% survival advantage compared to the host population. The convergence in mortality with increasing duration of residence suggests that 'healthy migrant' and 'acculturation' effects counteract each other, and warrants further research on the health and welfare of long-term immigrants.",
+  "authors": [
+    {
+      "raw": "Syse, Astri",
+      "family": "Syse",
+      "given": "Astri"
+    },
+    {
+      "raw": "Strand, Bjorn H.",
+      "family": "Strand",
+      "given": "Bjorn H."
+    },
+    {
+      "raw": "Naess, Oyvind",
+      "family": "Naess",
+      "given": "Oyvind"
+    },
+    {
+      "raw": "Steingrimsdottir, Olof Anna",
+      "family": "Steingrimsdottir",
+      "given": "Olof Anna"
+    },
+    {
+      "raw": "Kumar, Bernadette N.",
+      "family": "Kumar",
+      "given": "Bernadette N."
+    }
+  ],
+  "authors_text": "Syse, Astri; Strand, Bjorn H.; Naess, Oyvind; Steingrimsdottir, Olof Anna; Kumar, Bernadette N.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.22",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Seasonal Mortality and its Impact on Spatial Inequality in Life Expectancy Across Italy",
+  "abstract": "Abstract Seasonal mortality fluctuations significantly affect national life expectancy, yet their role in regional inequalities remains underexplored. Understanding this is crucial for targeted health policies aimed at reducing spatial mortality differences. We quantify the impact of seasonal excess mortality on regional life expectancy levels (e 0 ) and inequalities in Italy. Using monthly mortality data from the Italian National Statistical Institute by region (N = 20), sex and age between 2005 and 2019, we assessed e 0 losses due to seasonality by using the general approach of comparing observed e 0 with minimum achievable levels. Seasonal effects on inequalities in e 0 were quantified by comparing standard deviations with and without excess seasonal mortality. We then analysed regional contributions using decomposition analysis. Seasonal excess mortality led to an average loss in e 0 of 1.4 years (1.36–1.70) across Italian regions. This effect was most pronounced in southern and insular regions (Campania and Sicilia), especially for winter-related excess mortality. Our analysis showed that spatial inequality in e 0 would have been reduced on average by 11.2% by eliminating excess seasonal mortality, mostly due to excess winter mortality (−7.5%). However, during the years with high mortality burdens (2005 and 2015), seasonality contributed to spatial mortality inequality by 10% and 5.2%, respectively. The regional contributions to e 0 inequality revealed that Campania and Sicilia also had the strongest role in increasing spatial mortality variation throughout the period. The pronounced regional inequalities in e 0 losses due to seasonal excess mortality contributed significantly to shaping regional e 0 variation in Italy, mostly due to different impacts of winter mortality within the country",
+  "authors": [
+    {
+      "raw": "Marinetti, Isabella",
+      "family": "Marinetti",
+      "given": "Isabella"
+    },
+    {
+      "raw": "Jdanov, Dmitri A.",
+      "family": "Jdanov",
+      "given": "Dmitri A."
+    },
+    {
+      "raw": "Jasilionis, Domantas",
+      "family": "Jasilionis",
+      "given": "Domantas"
+    },
+    {
+      "raw": "Nepomuceno, Marília",
+      "family": "Nepomuceno",
+      "given": "Marília"
+    },
+    {
+      "raw": "Shkolnikov, Vladimir",
+      "family": "Shkolnikov",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Janssen, Fanny",
+      "family": "Janssen",
+      "given": "Fanny"
+    }
+  ],
+  "authors_text": "Marinetti, Isabella; Jdanov, Dmitri A.; Jasilionis, Domantas; Nepomuceno, Marília; Shkolnikov, Vladimir; Janssen, Fanny",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09753-7",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09753-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09753-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09753-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

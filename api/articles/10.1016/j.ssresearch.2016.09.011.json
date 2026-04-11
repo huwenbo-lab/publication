@@ -1,0 +1,25 @@
+{
+  "title": "Foreign aid allocation from a network perspective: The effect of global ties",
+  "abstract": "This article examines competing explanations for foreign aid allocation on the global level and argues for a new approach to understanding aid from an institutionalist perspective. Using network data on all official bilateral aid relationships between countries in the period from 1975 through 2006 and data on recipient country ties to world society, the article offers an alternative explanation for the allocation of global foreign aid. Fixed effects negative binomial regression models on a panel sample of 117 developing countries reveal that global ties to world society in the form of non-governmental memberships and treaty ratifications are strong determinants of the network centrality of recipient countries in the global foreign aid network. Countries with a higher level of adherence and connection to world society norms and organizations are shown to be the beneficiaries of an increased number of aid relationships with wealthy donor countries. The findings also suggest that prior explanations of aid allocation grounded in altruist or realist motivations are insufficient to account for the patterns of aid allocation seen globally in recent years. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Swiss, Liam",
+      "family": "Swiss",
+      "given": "Liam"
+    }
+  ],
+  "authors_text": "Swiss, Liam",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.09.011",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.09.011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.09.011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.09.011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

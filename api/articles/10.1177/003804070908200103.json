@@ -1,0 +1,25 @@
+{
+  "title": "The Black-White Gap in Mathematics Course Taking",
+  "abstract": "Using data from the National Education Longitudinal Study, this study investigated differences in the mathematics course taking of white and black students. Because of lower levels of achievement, prior course taking, and lower socioeconomic status, black students are much more likely than are white students to be enrolled in low-track mathematics courses by the 10th grade. Using multilevel models for categorical outcomes, the Study found that the black-white gap in mathematics course taking is the greatest in integrated schools where black Students are in the minority and cannot be entirely accounted for by individual-level differences in the course-taking qualifications or family backgrounds of white and black students. This finding was obscured in prior research by the failure to model course taking adequately between and within schools. Course placement policies and enrollment patterns should be monitored to ensure effective schooling for all students.",
+  "authors": [
+    {
+      "raw": "Kelly, Sean",
+      "family": "Kelly",
+      "given": "Sean"
+    }
+  ],
+  "authors_text": "Kelly, Sean",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2009,
+  "doi": "10.1177/003804070908200103",
+  "doi_url": "https://doi.org/10.1177/003804070908200103",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070908200103",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070908200103.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

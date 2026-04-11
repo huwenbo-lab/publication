@@ -1,0 +1,25 @@
+{
+  "title": "An Exploration of the Influence of Household Poverty Spells on Mortality Risk",
+  "abstract": "Household poverty is dynamic and characterized in terms of spells. Exposure to poverty accumulates through the recurrence and persistence of spells, leading to divergent family adaptive strategies that contribute to mortality risk. The data set used in this study is longitudinal and contains socioeconomic and demographic data of a nationally representative sample. The findings are (a) poverty significantly increases mortality risk, controlling for age, gender, and race; (b) the first spell is especially potent, and mortality risk declines rapidly during subsequent spells; and (c) both direction and strength of these estimates are robust to marital status, but power diminishes significantly net of education and employment.",
+  "authors": [
+    {
+      "raw": "Oh, Hyun Joo",
+      "family": "Oh",
+      "given": "Hyun Joo"
+    }
+  ],
+  "authors_text": "Oh, Hyun Joo",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2001,
+  "doi": "10.1111/j.1741-3737.2001.00224.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2001.00224.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2001.00224.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2001.00224.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

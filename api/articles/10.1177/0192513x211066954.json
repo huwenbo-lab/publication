@@ -1,0 +1,35 @@
+{
+  "title": "Does Gender Difference Exist in Typologies of Intergenerational Relations? Adult Son-Parent and Daughter-Parent Relations in Hong Kong",
+  "abstract": "This study examines the typologies of adult son-parent and daughter-parent relations in Hong Kong, a place where East meets West. Data were drawn from a survey of 834 adult children (381 sons and 453 daughters) aged between 18 and 60 with at least one living parent. Latent class analysis identified four types of relations for both son-parent and daughter-parent relations: tight-knit, distant ascending ties, obligatory, and detached. Sons were more likely to engage in obligatory and tight-knit relations with parents, whereas daughters were more likely to engage in distant ascending ties relations. Multinomial logistic regression found that adult children who were young, single, or co-residing with their own child aged above 18 were more likely to have tight-knit relations with their elderly parents. Our findings suggest that although the male-dominated norm remains influential in Hong Kong, daughters are increasingly maintaining close interactions with their parents.",
+  "authors": [
+    {
+      "raw": "Peng, Chenhong",
+      "family": "Peng",
+      "given": "Chenhong"
+    },
+    {
+      "raw": "Cheng, Qijin",
+      "family": "Cheng",
+      "given": "Qijin"
+    },
+    {
+      "raw": "Yip, Paul S. F.",
+      "family": "Yip",
+      "given": "Paul S. F."
+    }
+  ],
+  "authors_text": "Peng, Chenhong; Cheng, Qijin; Yip, Paul S. F.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x211066954",
+  "doi_url": "https://doi.org/10.1177/0192513x211066954",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x211066954",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x211066954.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "“Shipping Out”: Mapping the Prison Transfer Network",
+  "abstract": "Each day, buses crisscross New York, carrying incarcerated people from one prison to another. This is the case for prison systems across the United States, where prison-to-prison transfers are a routine aspect of penal administration. Such transfers run counter to dominant theorizations of prisons as singular, stationary, and totalizing. Instead, they suggest a view of prisons as a dynamically connected network. Little is known, however, about how often transfers occur and which prisons are involved in them. Using a novel dataset compiled from administrative records, this visualization maps transfers between New York’s state prisons in 2022. Doing so demonstrates their pervasiveness, including in sheer volume, the number of prisons implicated, and their resulting facility-level turnover. The maps also suggest variation within the prison network, for example, by a prison’s gender designation or status as a reception facility. These findings underscore how movement, in addition to immobility, is a constant presence in incarcerated life, raising further questions about the structural dynamics of prison networks and their implications for incarcerated people.",
+  "authors": [
+    {
+      "raw": "Brooks, Iolanthe",
+      "family": "Brooks",
+      "given": "Iolanthe"
+    }
+  ],
+  "authors_text": "Brooks, Iolanthe",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251330341",
+  "doi_url": "https://doi.org/10.1177/23780231251330341",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251330341",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251330341.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

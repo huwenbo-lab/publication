@@ -1,0 +1,25 @@
+{
+  "title": "Understanding the density of nonprofit organizations across Los Angeles neighborhoods: Does concentrated disadvantage and violent crime matter?",
+  "abstract": "Although some urban sociology perspectives suggest how certain sociodeomgraphic characteristics influence nonprofit development, there is a dearth of empirical research to assess neighborhood differences in nonprofit organizations. The goal of the current study is to build upon the extant literature by examining how both concentrated disadvantage and violent crime impact nonprofit density across neighborhoods. Using data from Los Angeles census tracts from 2010 to 2012, I test for linear and nonlinear influences that these two neighborhood factors might exert on nonprofit density. Poisson regression models show that concentrated disadvantage has a nonlinear (U-shaped) effect on all forms of nonprofit density, whereas violent crime has a linear and deleterious effect on all forms of nonprofit density. These results provide important new insights for urban sociology and policy; most importantly, the extent to which neighborhoods with ongoing social problems can later respond to such problems via access to nonprofit organizations.",
+  "authors": [
+    {
+      "raw": "Wo, James C.",
+      "family": "Wo",
+      "given": "James C."
+    }
+  ],
+  "authors_text": "Wo, James C.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.01.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.01.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.01.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.01.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

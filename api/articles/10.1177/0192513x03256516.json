@@ -1,0 +1,30 @@
+{
+  "title": "Children’s Home Environments",
+  "abstract": "Using data from the 1996 National Longitudinal Survey of Youth (NLSY79) merged mother-child sample, we investigate the impact of two family events, parental divorce and the birth of a sibling, on the cognitive stimulation and emotional support provided to children in the home. We use fixed-effect regression techniques to control for unmeasured mother- and child-specific characteristics and measure responses to these family changes before, during, and after the events. We find that an impending birth is associated with increased emotional support provided to children, whereas concurrent births are associated with decreased support. Additionally, we find that, after controlling for unmeasured variables, divorce does not have an adverse effect on the home environments of boys and girls; in fact, a divorce occurring in a previous time period is associated with a modest increase in emotional support provided to girls.",
+  "authors": [
+    {
+      "raw": "Kowaleski-Jones, Lori",
+      "family": "Kowaleski-Jones",
+      "given": "Lori"
+    },
+    {
+      "raw": "Dunifon, Rachel",
+      "family": "Dunifon",
+      "given": "Rachel"
+    }
+  ],
+  "authors_text": "Kowaleski-Jones, Lori; Dunifon, Rachel",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2004,
+  "doi": "10.1177/0192513x03256516",
+  "doi_url": "https://doi.org/10.1177/0192513x03256516",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x03256516",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x03256516.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

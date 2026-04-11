@@ -1,0 +1,25 @@
+{
+  "title": "Are Robots Stealing Our Jobs?",
+  "abstract": "The media and popular business press often invoke narratives that reflect widespread anxiety that robots may be rendering humans obsolete in the workplace. However, upon closer examination, many argue that automation, including robotics and artificial intelligence, is spreading unevenly throughout the labor market, such that middle-skill occupations that do not require a college degree are more likely to be affected adversely because they are easier to automate than high-skill occupations. In this article, the author examines the effect of industrial robots on occupations in the United States in 2010 and 2015. Results from regression models indicate that an increase in industrial robots is associated with increases in high-skill and some middle-skill occupations but not for other types of occupations. These findings may indicate the ushering in of a new era in which robots are more technologically advanced and able to collaborate better with human employees.",
+  "authors": [
+    {
+      "raw": "Dahlin, Eric",
+      "family": "Dahlin",
+      "given": "Eric"
+    }
+  ],
+  "authors_text": "Dahlin, Eric",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119846249",
+  "doi_url": "https://doi.org/10.1177/2378023119846249",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119846249",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119846249.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

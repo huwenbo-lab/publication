@@ -1,0 +1,25 @@
+{
+  "title": "The Association Between Income Inequality and Mental Health: Testing Status Anxiety, Social Capital, and Neo-Materialist Explanations",
+  "abstract": "The ‘income inequality hypothesis’ holds that beyond a certain level of gross domestic product (GDP) per capita, the association between absolute income, health and mortality weakens, and the distribution of income across a society becomes more important as a determinant of a range of outcomes including average mental and physical health. Recent reviews suggest that the empirical reality of the income inequality hypothesis is now established but fierce debate remains about what explains the association. In this article we describe three hypotheses that have emerged in the literature to explain the association—the social capital, the status anxiety and the neo-materialist hypotheses before operationalizing each, and testing their ability to explain the relationship between income inequality measured using the GINI coefficient and mental well-being measured using the WHO5 scale. We use multi-level models and data from the European Quality of Life Survey which contains information from 30 countries and over 35,000 individuals. Results give most support to the status anxiety and social capital hypotheses and almost no support to the neo-materialist hypothesis. Measures representing the social capital hypothesis reduce the coefficient measuring income inequality by 55% in high GDP countries and render it insignificant as well as providing the best fitting model as measured by AIC and BIC value. However, variables representing the status anxiety hypothesis reduce the income inequality coefficient by more in lower GDP countries.",
+  "authors": [
+    {
+      "raw": "Layte, R.",
+      "family": "Layte",
+      "given": "R."
+    }
+  ],
+  "authors_text": "Layte, R.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1093/esr/jcr012",
+  "doi_url": "https://doi.org/10.1093/esr/jcr012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcr012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcr012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

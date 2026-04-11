@@ -1,0 +1,40 @@
+{
+  "title": "Continued Reductions in Mortality at Advanced Ages",
+  "abstract": "Mortality data for 30 mostly developed countries available in the Kannisto-Thatcher Database on Old-Age Mortality (KTDB) are drawn on to assess the pace of decline in death rates at ages 80 years and above. As of 2004 this database recorded 37 million persons at these ages, including 130,000 centenarians (more than double the number in 1990). For men, the probability of surviving from age 80 to age 90 has risen from 12 percent in 1950 to 26 percent in 2002; for women, the increase has been from 16 percent to 38 percent. In the lowest-mortality country, Japan, life expectancy at age 80 in 2006 is estimated to be 6.5 years for men and 11.3 years for women. For selected countries, average annual percent declines in age-specific death rates over the preceding ten years are calculated for single-year age groups 80 to 99 and the years 1970 to 2004. The results are presented in Lexis maps showing the patterns of change in old-age mortality by cohort and period, and separately for men and women. The trends are not favorable in all countries: for example, old-age mortality in the United States has stagnated since 1980. But countries with exceptionally low mortality, like Japan and France, do not show a deceleration in death rate declines. It is argued that life expectancy at advanced ages may continue to increase at the same pace as in the past.",
+  "authors": [
+    {
+      "raw": "Rau, Roland",
+      "family": "Rau",
+      "given": "Roland"
+    },
+    {
+      "raw": "Soroko, Eugeny",
+      "family": "Soroko",
+      "given": "Eugeny"
+    },
+    {
+      "raw": "Jasilionis, Domantas",
+      "family": "Jasilionis",
+      "given": "Domantas"
+    },
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    }
+  ],
+  "authors_text": "Rau, Roland; Soroko, Eugeny; Jasilionis, Domantas; Vaupel, James W.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2008,
+  "doi": "10.1111/j.1728-4457.2008.00249.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2008.00249.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2008.00249.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2008.00249.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

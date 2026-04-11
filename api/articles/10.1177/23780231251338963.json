@@ -1,0 +1,25 @@
+{
+  "title": "Birds of a Feather: Exploring Peer Influence and Academic Progress in Norwegian Secondary Schools",
+  "abstract": "The author examines how peer influence acts as a catalyst for individual academic growth or decline, focusing on grade-rank changes between lower secondary and upper secondary education. The aim is to identify school-level factors that either promote or hinder learning, emphasizing the role of peer ability and country background segregation. Using population-based register data from Norway and using fixed-effects and multilevel random-effects models, the analysis reveals that girls tend to improve more than boys in the theoretical subjects found within academic tracks, while boys excel in practical subjects within vocational tracks. Although country-based segregation is less critical than peer ability, some negative effects of segregation are evident, particularly for non-Western students and subjects requiring language proficiency. Interestingly, students show significant grade-rank improvement in schools with lower peer ability levels. These findings suggest that in terms of grade improvement, attending schools with lower ability peers can be beneficial, particularly for girls.",
+  "authors": [
+    {
+      "raw": "Lorentzen, Thomas",
+      "family": "Lorentzen",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Lorentzen, Thomas",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251338963",
+  "doi_url": "https://doi.org/10.1177/23780231251338963",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251338963",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251338963.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

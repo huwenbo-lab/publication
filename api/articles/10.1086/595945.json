@@ -1,0 +1,35 @@
+{
+  "title": "How Social Processes Distort Measurement: The Impact of Survey Nonresponse on Estimates of Volunteer Work in the United States",
+  "abstract": "The authors argue that both the large variability in survey estimates of volunteering and the fact that survey estimates do not show the secular decline common to other social capital measures are caused by the greater propensity of those who do volunteer work to respond to surveys. Analyses of the American Time Use Survey (ATUS) the sample for which is drawn from the Current Population Survey (CPS)-together with the CPS volunteering supplement show that CPS respondents who become ATUS respondents report much more volunteering in the CPS than those who become ATUS nonrespondents. This difference is replicated within subgroups. Consequently, conventional adjustments for nonresponse cannot correct the bias. Although nonresponse leads to estimates of volunteer activity that are too high, it generally does not affect inferences about the characteristics of volunteers.",
+  "authors": [
+    {
+      "raw": "Abraham, Katharine G.",
+      "family": "Abraham",
+      "given": "Katharine G."
+    },
+    {
+      "raw": "Helms, Sara",
+      "family": "Helms",
+      "given": "Sara"
+    },
+    {
+      "raw": "Presser, Stanley",
+      "family": "Presser",
+      "given": "Stanley"
+    }
+  ],
+  "authors_text": "Abraham, Katharine G.; Helms, Sara; Presser, Stanley",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2009,
+  "doi": "10.1086/595945",
+  "doi_url": "https://doi.org/10.1086/595945",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F595945",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/595945.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Modeling and Forecasting Healthy Life Expectancy With Compositional Data Analysis",
+  "abstract": "Will the extra years of life gained by the increase in life expectancy be lived in good or poor health? Because forecasts support social, economic, and medical decisions, as well as individuals' choices, there is a clear rationale for forecasting healthy life expectancy (HLE). However, only a limited number of models are avail able to forecast HLE. We suggest two models to forecast health and mortality simul taneously and coherently. One model is based on the Sullivan method to estimate HLE, and the second one is based on the multistate life table method. Both models use Compositional Data Analysis to account for the coherence between health and mortal ity. Mortality and health at age 50 and older is forecast for French, Spanish, Swedish, and United Kingdom females. Both models provide nonsignifcantly different estima tes and forecasts of HLE, in most cases. In addition, the models can improve forecast accuracy compared with other forecast models.",
+  "authors": [
+    {
+      "raw": "Boucher, Marie-Pier Bergeron",
+      "family": "Boucher",
+      "given": "Marie-Pier Bergeron"
+    },
+    {
+      "raw": "Strozza, Cosmo",
+      "family": "Strozza",
+      "given": "Cosmo"
+    },
+    {
+      "raw": "Simonacci, Violetta",
+      "family": "Simonacci",
+      "given": "Violetta"
+    },
+    {
+      "raw": "Oeppen, Jim",
+      "family": "Oeppen",
+      "given": "Jim"
+    }
+  ],
+  "authors_text": "Boucher, Marie-Pier Bergeron; Strozza, Cosmo; Simonacci, Violetta; Oeppen, Jim",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11974712",
+  "doi_url": "https://doi.org/10.1215/00703370-11974712",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11974712",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11974712.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

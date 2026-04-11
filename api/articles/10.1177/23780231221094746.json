@@ -1,0 +1,25 @@
+{
+  "title": "Different Trends in Marriage and Fertility Behavior for Roman Catholics, German Protestants, and Women without Religious Affiliation in West Germany: An Analysis of Five Birth Cohorts Based on the German General Social Survey",
+  "abstract": "In this visualization, the author shows that cohort changes in the propensity to get married and bear a child are different for Roman Catholics, German Protestants, and religiously unaffiliated West German women. The data are from the German General Social Survey—Cumulation 1980–2018. Calculations are based on the life-table method (Kaplan-Meier estimates). In general, demographic changes toward a lower tendency to get married and to bear a child start among the religiously unaffiliated and diffuse to the Christian groups over time, with the Catholics being most resistant to change. The different time trends in demographic behavior translate into increasing differences between religious groups across time, which are most pronounced in the cohort born from 1960 to 1969, and tend to decrease again thereafter.",
+  "authors": [
+    {
+      "raw": "Schulz, Sonja",
+      "family": "Schulz",
+      "given": "Sonja"
+    }
+  ],
+  "authors_text": "Schulz, Sonja",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221094746",
+  "doi_url": "https://doi.org/10.1177/23780231221094746",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221094746",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221094746.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

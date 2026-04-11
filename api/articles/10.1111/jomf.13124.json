@@ -1,0 +1,40 @@
+{
+  "title": "Parental Health Shocks and Child Outcomes at Ages 17-25: Evidence From Germany",
+  "abstract": "ObjectiveTo investigate the impact of various parental health shocks, including parental death, on young adults' life satisfaction and mental health, personality traits, as well as NEET status (i.e., being neither in employment, education, nor training).BackgroundTheoretical considerations and previous cross-sectional studies suggest that parental health problems negatively affect child outcomes and may play an important role in the intergenerational transmission of inequality. Evidence remains limited, however, and several studies have found no or negligible effects when using designs that address unobserved confounding. Prior studies tend to investigate only a small set of parental shocks and child outcomes simultaneously, rarely having follow-up periods beyond adolescence, and disproportionately focus on the Nordic countries.MethodWe use data from the 1991-2021 waves of the nationally representative German Socio-Economic Panel (SOEP) to investigate the impact of a wide range of parental health shocks (extended hospitalization, cancer, stroke, cardiac disease, depression, death). Child outcomes are assessed at ages 17 to 25 and include measures of life satisfaction, mental health, personality (locus of control, Big Five), and NEET status. We implement pooled cross-sectional analyses conditioning on key observables as well as longitudinal individual and family fixed effects regressions to account for unobserved confounding.ResultsCross-sectional results show that parental health shocks are associated with lower child life satisfaction and mental health, increased NEET risks, as well as higher neuroticism and a more external locus of control, but none of the other personality outcomes. Associations appear to be mostly due to confounding, however, since coefficients are strongly attenuated in longitudinal fixed effects models and only the associations with NEET status remain statistically significant.ConclusionChildren in Germany appear mostly resilient against serious parental health shocks. Although associations between parental health and child outcomes seem to be largely driven by selection effects, both parental and child health may still play an important role in the intergenerational transmission of inequality, for example, by mediating the effects of shared socio-economic (dis)advantages or genetic predispositions.",
+  "authors": [
+    {
+      "raw": "Ferrara, Alessandro",
+      "family": "Ferrara",
+      "given": "Alessandro"
+    },
+    {
+      "raw": "Heisig, Jan P.",
+      "family": "Heisig",
+      "given": "Jan P."
+    },
+    {
+      "raw": "Radl, Jonas",
+      "family": "Radl",
+      "given": "Jonas"
+    },
+    {
+      "raw": "Scheinert, Alena",
+      "family": "Scheinert",
+      "given": "Alena"
+    }
+  ],
+  "authors_text": "Ferrara, Alessandro; Heisig, Jan P.; Radl, Jonas; Scheinert, Alena",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13124",
+  "doi_url": "https://doi.org/10.1111/jomf.13124",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13124",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13124.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Future Composition of the Canadian Labor Force: A Microsimulation Projection",
+  "abstract": "This article charts the future transformations of the Canadian labor force population using a microsimulation projection model. The model takes into account differentials in demographic behavior and labor force participation of individuals according to their ethnocultural and educational characteristics. As a result of a rapid fall in fertility, the Canadian population is expected to age rapidly as baby boomers start to retire from the labor market in large numbers. In response to declining fertility, Canada raised its immigration intake at the end of the 1980s, and immigration is now the main driver of Canadian population growth. At the same time, immigrants to Canada are becoming more culturally diversified. Over the last half century, the main source regions have shifted from Europe to Asia. Results of the microsimulation show that Canada's labor force population will continue to increase, but at a slower rate than in the recent past. By 2031, almost one third of the country's total labor force could be foreign-born, and almost all its future increase is expected to be among university graduates, while the less-educated labor force is projected to decline.",
+  "authors": [
+    {
+      "raw": "Belanger, Alain",
+      "family": "Belanger",
+      "given": "Alain"
+    },
+    {
+      "raw": "Bastien, Nicolas",
+      "family": "Bastien",
+      "given": "Nicolas"
+    }
+  ],
+  "authors_text": "Belanger, Alain; Bastien, Nicolas",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2013,
+  "doi": "10.1111/j.1728-4457.2013.00614.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2013.00614.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2013.00614.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2013.00614.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

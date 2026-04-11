@@ -1,0 +1,30 @@
+{
+  "title": "College Is Not the Great Equalizer in Japan",
+  "abstract": "This study represents the first systematic account to test the hypothesis of college as the great equalizer in Japan by analyzing the three-way association among class origin, destination, and education. The authors use data from the Social Stratification and Social Mobility surveys and the Japanese Life Course Panel Surveys. By applying the entropy balancing technique, the authors estimate the heterogeneous causal effect of college education on occupational attainment by the father’s occupation. The results indicate that college education does not function as a great equalizer in Japan. There is no clear evidence to suggest that the occupational returns to a college education are greater among those from less advantaged families than those from more advantaged families. The authors argue that the equalizing effect of a college education is not apparent, because of the specific institutional arrangements of the educational system and the labor market in society.",
+  "authors": [
+    {
+      "raw": "Fujihara, Sho",
+      "family": "Fujihara",
+      "given": "Sho"
+    },
+    {
+      "raw": "Ishida, Hiroshi",
+      "family": "Ishida",
+      "given": "Hiroshi"
+    }
+  ],
+  "authors_text": "Fujihara, Sho; Ishida, Hiroshi",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231231225558",
+  "doi_url": "https://doi.org/10.1177/23780231231225558",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231225558",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231225558.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

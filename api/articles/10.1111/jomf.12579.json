@@ -1,0 +1,50 @@
+{
+  "title": "Gender-Equitable Parental Decision Making and Intimate Partner Violence Perpetration in Bangladesh",
+  "abstract": "Objective This article examines the relationship between the exposure of men as children to gender-equitable parental decision making and the potential for subsequent later life engagement in intimate partner violence (IPV) in Bangladesh. Background Although researchers have recently begun to explore multilevel influences on IPV perpetration, no studies have examined how decision making between parents at home and within the community relates to IPV perpetration in low-income settings. Drawing on a theoretical framework of gendered social learning, gender-equitable parental decision making may be an important protective factor against IPV. Method This study uses a random probability sample of 1,499 married men in Bangladesh. The main outcome is physical IPV perpetration in adulthood, whereas two exposure variables measure the equity of parental decision making in the man's childhood home and his current community. A series of two-level negative binomial models, controlling for pertinent individual- and community-level factors, are estimated. Results Exposure in childhood to more equitable decision making between parents is negatively associated with a man's physical IPV perpetration in adulthood. Gender-equitable parental decision making within one's current community is not significantly associated with IPV. Conclusion Boys who grow up exposed to more equitable decision making between parents in the home may be less likely to engage in physical IPV perpetration as an adult.",
+  "authors": [
+    {
+      "raw": "Semenza, Daniel C.",
+      "family": "Semenza",
+      "given": "Daniel C."
+    },
+    {
+      "raw": "Roof, Katherine A.",
+      "family": "Roof",
+      "given": "Katherine A."
+    },
+    {
+      "raw": "James-Hawkins, Laurie",
+      "family": "James-Hawkins",
+      "given": "Laurie"
+    },
+    {
+      "raw": "Cheong, Yuk Fai",
+      "family": "Cheong",
+      "given": "Yuk Fai"
+    },
+    {
+      "raw": "Naved, Ruchira T.",
+      "family": "Naved",
+      "given": "Ruchira T."
+    },
+    {
+      "raw": "Yount, Kathryn M.",
+      "family": "Yount",
+      "given": "Kathryn M."
+    }
+  ],
+  "authors_text": "Semenza, Daniel C.; Roof, Katherine A.; James-Hawkins, Laurie; Cheong, Yuk Fai; Naved, Ruchira T.; Yount, Kathryn M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12579",
+  "doi_url": "https://doi.org/10.1111/jomf.12579",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12579",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12579.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "From Parent to Child? Transmission of Educational Attainment Within Immigrant Families: Methodological Considerations",
+  "abstract": "One in five U.S. residents under the age of 18 has at least one foreign-born parent. Given the large proportion of immigrants with very low levels of schooling, the strength of the intergenerational transmission of education between immigrant parent and child has important repercussions for the future of social stratification in the United States. We find that the educational transmission process between parent and child is much weaker in immigrant families than in native families and, among immigrants, differs significantly across national origins. We demonstrate how this variation causes a substantial overestimation of the importance of parental education in immigrant families in studies that use aggregate data. We also show that the common practice of controlling for family human capital using parental years of schooling is problematic when comparing families from different origin countries and especially when comparing native and immigrant families. We link these findings to analytical and empirical distinctions between group- and individual-level processes in intergenerational transmission.",
+  "authors": [
+    {
+      "raw": "Luthra, Renee Reichl",
+      "family": "Luthra",
+      "given": "Renee Reichl"
+    },
+    {
+      "raw": "Soehl, Thomas",
+      "family": "Soehl",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Luthra, Renee Reichl; Soehl, Thomas",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0376-3",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0376-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0376-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0376-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

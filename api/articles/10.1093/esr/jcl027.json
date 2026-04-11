@@ -1,0 +1,30 @@
+{
+  "title": "Social Mobility over Three Generations in Finland, 1950-2000",
+  "abstract": "We modelled social mobility over three generations in Finland from 1950 to 2000. From the 1950 population census sample, and consequent censuses, we constructed 57,585 three-generation lineages. A three-dimensional mobility table, containing eight layers—one for each grandmother and -father, son and daughter, and grandson and -daughter lineage—was built using the Erikson–Goldthorpe class schema. The social inheritance process was found to be very similar across all the eight lineages. After controlling for parents’ social class, the grandchildren's social class is almost conditionally independent from the grandparents’ social class. No additive effect was found from grandparents to grandchildren, but weak lagged effects were found. The lagged inheritance leads to a higher probability that the grandchildren of the service class and self-employed farmers remain in the same class. The lagged barrier of mobility leads to grandchildren who have particular disadvantaged grandparent origins having a lower chance of gaining more advantageous positions themselves. However, taking into account more than two consecutive generations adds very little explanatory power to the analysis of social mobility.",
+  "authors": [
+    {
+      "raw": "Erola, J.",
+      "family": "Erola",
+      "given": "J."
+    },
+    {
+      "raw": "Moisio, P.",
+      "family": "Moisio",
+      "given": "P."
+    }
+  ],
+  "authors_text": "Erola, J.; Moisio, P.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1093/esr/jcl027",
+  "doi_url": "https://doi.org/10.1093/esr/jcl027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcl027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcl027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

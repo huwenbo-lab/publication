@@ -1,0 +1,35 @@
+{
+  "title": "Differentials in adult mortality and activity limitation by years of education in the United States at the end of the 1990s",
+  "abstract": "This study examines mortality differentials and health disparities between educational groups within the 1998 adult population (ages 25 and older) in the United States. Mortality differentials are measured using average life expectancy and health disparities by expected years without activity limitation. The results indicate that for both sexes, higher education is associated with higher life expectancy. Those with higher levels of education also have higher life expectancy without activity limitation. Adults with higher education can also expect to enjoy a greater percentage of their expected lives free of any form of activity limitation. At each level of education, adult females have a higher level of activity limitation compared to adult males. At the same level of education, adult females expect to enjoy smaller percentages of their remaining lives free of activity limitation compared to adult males of the same age.",
+  "authors": [
+    {
+      "raw": "Molla, MT",
+      "family": "Molla",
+      "given": "MT"
+    },
+    {
+      "raw": "Madans, JH",
+      "family": "Madans",
+      "given": "JH"
+    },
+    {
+      "raw": "Wagener, DK",
+      "family": "Wagener",
+      "given": "DK"
+    }
+  ],
+  "authors_text": "Molla, MT; Madans, JH; Wagener, DK",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2004,
+  "doi": "10.1111/j.1728-4457.2004.00035.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2004.00035.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2004.00035.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2004.00035.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

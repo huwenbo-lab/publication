@@ -1,0 +1,35 @@
+{
+  "title": "Trapped in Place? Segmented Resilience to Hurricanes in the Gulf Coast, 1970-2005",
+  "abstract": "Hurricanes pose a continuing hazard to populations in coastal regions. This study estimates the impact of hurricanes on population change in the years 1970-2005 in the U.S. Gulf Coast region. Geophysical models are used to construct a unique data set that simulates the spatial extent and intensity of wind damage and storm surge from the 32 hurricanes that struck the region in this period. Multivariate spatial time-series models are used to estimate the impacts of hurricanes on population change. Population growth is found to be reduced significantly for up to three successive years after counties experience wind damage, particularly at higher levels of damage. Storm surge is associated with reduced population growth in the year after the hurricane. Model extensions show that change in the white and young adult population is more immediately and strongly affected than is change for blacks and elderly residents. Negative effects on population are stronger in counties with lower poverty rates. The differentiated impact of hurricanes on different population groups is interpreted as segmented withdrawal-a form of segmented resilience in which advantaged population groups are more likely to move out of or avoid moving into harm's way while socially vulnerable groups have fewer choices.",
+  "authors": [
+    {
+      "raw": "Logan, John R.",
+      "family": "Logan",
+      "given": "John R."
+    },
+    {
+      "raw": "Issar, Sukriti",
+      "family": "Issar",
+      "given": "Sukriti"
+    },
+    {
+      "raw": "Xu, Zengwang",
+      "family": "Xu",
+      "given": "Zengwang"
+    }
+  ],
+  "authors_text": "Logan, John R.; Issar, Sukriti; Xu, Zengwang",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0496-4",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0496-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0496-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0496-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

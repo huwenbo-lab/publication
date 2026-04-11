@@ -1,0 +1,25 @@
+{
+  "title": "Forgotten marriages? Measuring the reliability of marriage histories",
+  "abstract": "BACKGROUND Marriage histories are a valuable data source for investigating nuptiality. While researchers typically acknowledge the problems associated with their use, it is unknown to what extent these problems occur and how marriage analyses are affected. OBJECTIVE This paper seeks to investigate the quality of marriage histories by measuring levels of misreporting, examining the characteristics associated with misreporting, and assessing whether misreporting biases marriage indicators. METHODS Using data from the Malawi Longitudinal Study of Families and Health (MLSFH), I compare marriage histories reported by the same respondents at two different points in time. I investigate whether respondents consistently report their spouses (by name), status of marriage, and dates of marriage. I use multivariate regression models to investigate the characteristics associated with misreporting. Finally, I examine whether misreporting marriages and marriage dates affects marriage indicators. RESULTS Results indicate that 28.3% of men and 17.9% of women omitted at least one marriage in one of the survey waves. Multivariate regression models show that misreporting is not random: marriage, individual, interviewer, and survey characteristics are associated with marriage omission and marriage date inconsistencies. Misreporting also affects marriage indicators. CONCLUSIONS This is the first study of its kind to examine the reliability of marriage histories collected in the context of Sub-Saharan Africa. Although marriage histories are frequently used to study marriage dynamics, until now no knowledge has existed on the degree of misreporting. Misreporting in marriage histories is shown to be non-negligent and could potentially affect analyses.",
+  "authors": [
+    {
+      "raw": "Chae, Sophia",
+      "family": "Chae",
+      "given": "Sophia"
+    }
+  ],
+  "authors_text": "Chae, Sophia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.19",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

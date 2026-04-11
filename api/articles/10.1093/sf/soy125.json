@@ -1,0 +1,35 @@
+{
+  "title": "Gender Inequality in Product Markets: When and How Status Beliefs Transfer to Products",
+  "abstract": "This paper develops and evaluates a theory of status belief transfer, the process by which gender status beliefs differentially affect the evaluations of products made by men and women. We conduct three online experiments to evaluate this theory. In Study 1, we gathered 50 product categories from a large online retailer and had participants rate each product's association with femininity and masculinity. We find evidence of the pervasiveness of gender-typing in product markets. In Studies 2 and 3, we simulate male-typed and female-typed product markets (craft beer and cupcakes, respectively). In the male-typed product market, a craft beer described as produced by a woman is evaluated more negatively than the same product described as produced by a man. Consistent with our predictions, we further find that if the beer is conferred external status via an award, the evaluation of the beer made by a woman improves by a greater magnitude than the same beer made by a man. In the female-typed product market of cupcakes, the producer's gender does not affect ratings. Together, the two studies provide evidence of an asymmetric negative bias: products made by women are disadvantaged in male-typed markets, but products made by men are not disadvantaged in female-typed markets. These studies also provide compelling evidence of status belief transfer from producers to their products. We draw out the implications of these findings and suggest ways that gender biases in product markets can be reduced.",
+  "authors": [
+    {
+      "raw": "Tak, Elise",
+      "family": "Tak",
+      "given": "Elise"
+    },
+    {
+      "raw": "Correll, Shelley J.",
+      "family": "Correll",
+      "given": "Shelley J."
+    },
+    {
+      "raw": "Soule, Sarah A.",
+      "family": "Soule",
+      "given": "Sarah A."
+    }
+  ],
+  "authors_text": "Tak, Elise; Correll, Shelley J.; Soule, Sarah A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy125",
+  "doi_url": "https://doi.org/10.1093/sf/soy125",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy125",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy125.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

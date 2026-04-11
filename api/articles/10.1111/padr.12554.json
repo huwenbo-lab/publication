@@ -1,0 +1,40 @@
+{
+  "title": "Impacts of the COVID-19 Lockdown on Gender Inequalities in Time Spent on Paid and Unpaid Work in Singapore",
+  "abstract": "The COVID-19 pandemic has affected gender inequalities in time spent on paid and unpaid work globally. Few studies outside of the Western context (i.e., countries in Australasia, Europe, or the Americas) have used longitudinal data to compare time use before and during the pandemic, focused on potential mechanisms through which the pandemic affects gender inequalities in time use, or examined the heterogeneous effects of socioeconomic status. We examine the impact of the COVID-19 lockdown on gender inequalities in time spent on paid work, housework, and childcare in Singapore. Using a panel dataset of 290 married women interviewed before, during, and after the lockdown, and applying between-within models, we find that gender gaps in housework hours increased during and persisted after the lockdown, even as the gender gap in paid work hours narrowed. The gap in childcare hours expanded among households with fewer resources but decreased among households with more resources. Mothers responded to loss of income and employment by increasing their childcare and housework time more than fathers, suggesting that doing gender, rather than time availability or material resources, provide the key mechanism explaining gendered changes in time use. Our results highlight that when a pandemic strikes, women, especially those in less-resourced households, were put in a particularly vulnerable position compared to men.",
+  "authors": [
+    {
+      "raw": "Zang, Emma",
+      "family": "Zang",
+      "given": "Emma"
+    },
+    {
+      "raw": "Tan, Poh Lin",
+      "family": "Tan",
+      "given": "Poh Lin"
+    },
+    {
+      "raw": "Lyttelton, Thomas",
+      "family": "Lyttelton",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Guo, Anna",
+      "family": "Guo",
+      "given": "Anna"
+    }
+  ],
+  "authors_text": "Zang, Emma; Tan, Poh Lin; Lyttelton, Thomas; Guo, Anna",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12554",
+  "doi_url": "https://doi.org/10.1111/padr.12554",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12554",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12554.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

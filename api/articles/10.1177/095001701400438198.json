@@ -1,0 +1,30 @@
+{
+  "title": "Age and Participation in Vocational Education and Training",
+  "abstract": "In recent years increasing attention has been paid to the problems faced by older workers in the UK labour market. In this paper we examine the issue of older workers' participation in vocational training and education, drawing upon data from the Labour Force Survey. Our initial analysis identifies how rates of participation in workrelated education and training differ between age groups. Further exploratory analysis attempts to identify possible reasons for this, analysing the type of training undertaken by various age groups as well as the incidence of self-financed training. We then estimate an ordered-probit model for males and females separately, in an attempt to isolate the extent to which this lower incidence among older workers is due to employer or employee decision making. We find that, when compared to a reference group of prime aged individuals, those aged between 40 and 49 and 50 and 59/64 are less likely to undergo training and, also, less likely to be offered training. We conclude that the lower incidence of training among older workers can be mainly attributed to employer decision making. Finally, we discuss the implications of these findings for public policy.",
+  "authors": [
+    {
+      "raw": "Taylor, Philip",
+      "family": "Taylor",
+      "given": "Philip"
+    },
+    {
+      "raw": "Urwin, Peter",
+      "family": "Urwin",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Taylor, Philip; Urwin, Peter",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2001,
+  "doi": "10.1177/095001701400438198",
+  "doi_url": "https://doi.org/10.1177/095001701400438198",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F095001701400438198",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/095001701400438198.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

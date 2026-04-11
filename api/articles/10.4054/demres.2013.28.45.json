@@ -1,0 +1,30 @@
+{
+  "title": "A Bayesian semiparametric multilevel survival modelling of age at first birth in Nigeria",
+  "abstract": "The age at which childbearing begins influences the total number of children a woman bears throughout her reproductive period, in the absence of any active fertility control. For countries in sub-Saharan Africa where contraceptive prevalence rate is still",
+  "authors": [
+    {
+      "raw": "Gayawan, Ezra",
+      "family": "Gayawan",
+      "given": "Ezra"
+    },
+    {
+      "raw": "Adebayo, Samson B.",
+      "family": "Adebayo",
+      "given": "Samson B."
+    }
+  ],
+  "authors_text": "Gayawan, Ezra; Adebayo, Samson B.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2013,
+  "doi": "10.4054/demres.2013.28.45",
+  "doi_url": "https://doi.org/10.4054/demres.2013.28.45",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2013.28.45",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2013.28.45.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

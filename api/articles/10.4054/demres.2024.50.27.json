@@ -1,0 +1,40 @@
+{
+  "title": "The influence of parental cancer on the mental health of children and young adults: Evidence from Norwegian register data on healthcare consultations",
+  "abstract": "OBJECTIVE The aim was to examine how parental cancer affects the mental health of offspring aged 6-30, and age variations in this effect. METHODS Individual fixed-effects models were estimated from register data covering the entire Norwegian population in 2010-2018. The outcome variable was whether the individual (offspring) had at least one consultation within a year with a general practitioner (GP) or specialist where a mental health diagnosis or symptom was reported. RESULTS The consultation probability was higher after a parental cancer diagnosis than before (e.g., 15% higher in the first year after the diagnosis). This was to a large extent driven by subsequent parental deaths, but there was also a small post-diagnosis increase among offspring whose parent survived the observation period. The consultation probability increased by 83% the year a parent died among offspring who were 19-30 at that time, after a smaller increase over a few of the preceding years. A decline occurred later. The death seemed to have a weaker, but more lasting, effect on those who were 8-18 years old at the time of the death, and these did not experience a clear pre-death increase. CONCLUSION Parental cancer death seems to weaken offspring's mental health - and no less among young adults than among children. By contrast, having a parent with cancer who remains alive at least throughout the observation period has relatively little impact. CONTRIBUTION We show associations between parental cancer and offspring's mental health, paying special attention to whether the parent dies. This may inform discussions about supporting offspring.",
+  "authors": [
+    {
+      "raw": "Kravdal, Oystein",
+      "family": "Kravdal",
+      "given": "Oystein"
+    },
+    {
+      "raw": "Worn, Jonathan",
+      "family": "Worn",
+      "given": "Jonathan"
+    },
+    {
+      "raw": "Hart, Rannveig K.",
+      "family": "Hart",
+      "given": "Rannveig K."
+    },
+    {
+      "raw": "Reme, Bjorn-Atle",
+      "family": "Reme",
+      "given": "Bjorn-Atle"
+    }
+  ],
+  "authors_text": "Kravdal, Oystein; Worn, Jonathan; Hart, Rannveig K.; Reme, Bjorn-Atle",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.27",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

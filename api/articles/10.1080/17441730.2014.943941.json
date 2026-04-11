@@ -1,0 +1,25 @@
+{
+  "title": "Female Labour Force Participation and Fertility in South Korea",
+  "abstract": "Drawing on data from the Korea Labour and Income Panel Study 1998−2008, this article attempts to assess the impact of female labour force participation on childbirth decisions in South Korea. To control for the dynamic processes through which soon-to-be mothers choose to get out of the labour force to give birth, empirical datasets using three different birth-month lag scenarios are examined: no lag; five-month lag; and eight-month lag. In addition parity-specific effects for the first and second childbirth are evaluated in consideration of previous findings showing different effects by birth order. Results suggest that, regarding the first birth, female labour force participation does not seem to have significantly diminished transition probability to first birth. Female labour force participation, however, appears to affect the second childbirth decision in a negative direction, although the impacts are not as great as have been widely publicised.",
+  "authors": [
+    {
+      "raw": "Kim, Hyun Sik",
+      "family": "Kim",
+      "given": "Hyun Sik"
+    }
+  ],
+  "authors_text": "Kim, Hyun Sik",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2014,
+  "doi": "10.1080/17441730.2014.943941",
+  "doi_url": "https://doi.org/10.1080/17441730.2014.943941",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2014.943941",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2014.943941.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

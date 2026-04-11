@@ -1,0 +1,30 @@
+{
+  "title": "The Great Recession and the Immigrant-Native Gap in Job Loss in the Spanish Labour Market",
+  "abstract": "This study examines whether the likelihood of job loss varies by immigrant status and economic periods. In addition, it asks how the immigrant-native differences in job loss change under volatile economic conditions in the highly segmented Spanish labour market. Our study takes advantage of the current economic crisis to test several hypotheses that draw upon detailed longitudinal data from a sample of working males aged 16-64 years from the Spanish Labour Force Survey over the period 2005-2010. A series of random-effect logistic models and decomposition models reveal three central findings. First, we find that compositional differences in structural factors like occupational level and temporary employment contracts account for the major part of the difference in the job loss between immigrants and natives. Secondly, we find that during the Great Recession the likelihood of job loss is disproportionally higher among immigrants than natives. Thirdly, we find a significant increase in the unexplained portion of job loss contingent upon workers' ethnicity. Our results implicate that group differences in employment during economic downturns are more likely related to employers' firing practices that vary strongly with the economic context.",
+  "authors": [
+    {
+      "raw": "Mooi-Reci, Irma",
+      "family": "Mooi-Reci",
+      "given": "Irma"
+    },
+    {
+      "raw": "Munoz-Comet, Jacobo",
+      "family": "Munoz-Comet",
+      "given": "Jacobo"
+    }
+  ],
+  "authors_text": "Mooi-Reci, Irma; Munoz-Comet, Jacobo",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcw031",
+  "doi_url": "https://doi.org/10.1093/esr/jcw031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcw031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcw031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

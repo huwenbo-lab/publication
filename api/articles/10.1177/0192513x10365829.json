@@ -1,0 +1,35 @@
+{
+  "title": "Marital Status and Sexually Transmitted Infections Among African Americans",
+  "abstract": "This article assesses the relationship between low marriage rates and racial disparities in sexually transmitted infection (STI) rates. Data from the 2002 National Survey of Family Growth was used to examine the prevalence of sexual risk behaviors by marital status. Logistic regression was used to examine whether racial differences in marriage patterns help account for racial disparities in STI rates. Results indicate that the 12-month prevalence of multiple partners and high-risk partnerships was lowest among currently married, intermediate among cohabiting, and highest among formerly and never-married respondents. Of all racial/ethnic groups, African Americans were least likely to be married. In multiple logistic analyses adjustment for marriage attenuated the association between race and STI risk behaviors for African Americans. Low marriage rates may be an important contributing factor to racial/ethnic disparities in STI rates, particularly for African Americans.",
+  "authors": [
+    {
+      "raw": "Taylor, Eboni M.",
+      "family": "Taylor",
+      "given": "Eboni M."
+    },
+    {
+      "raw": "Adimora, Adaora A.",
+      "family": "Adimora",
+      "given": "Adaora A."
+    },
+    {
+      "raw": "Schoenbach, Victor J.",
+      "family": "Schoenbach",
+      "given": "Victor J."
+    }
+  ],
+  "authors_text": "Taylor, Eboni M.; Adimora, Adaora A.; Schoenbach, Victor J.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2010,
+  "doi": "10.1177/0192513x10365829",
+  "doi_url": "https://doi.org/10.1177/0192513x10365829",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x10365829",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x10365829.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

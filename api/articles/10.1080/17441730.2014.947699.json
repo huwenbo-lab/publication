@@ -1,0 +1,35 @@
+{
+  "title": "One Country Two Peoples?",
+  "abstract": "AbstractThis article weighs the demographic evidence for either assimilation or separation among Hong Kong residents who were born in British Colonial Hong Kong or Mainland China. Using successive waves of Hong Kong census data from 1991 to 2011, we show the effects of nativity on four indicators of social distance and differentiation: residential segregation, linguistic assimilation, wage inequality and educational opportunity. On the one hand, there is some evidence of assimilation in terms of residential location and home language. On the other hand, in terms of wage inequality and access to postsecondary education, our findings suggest that Hong Kong's population could become more divided depending upon birthplace.KEYWORDS: immigrationassimilationethnicitysegregationearnings inequalityeducational attainment Notes1. Whereas the UK took the position that Hong Kong Island and the Kowloon Peninsula south of Boundary Street had been ceded in perpetuity in 1842, the UK only obtained control over the outlying islands and the northern peninsula in 1897, through a 99-year lease. These territories were termed 'new'.2. As summarized by the past head of the world trade organization and by the European Union's Commissioner on Home affairs, 'Mainstream politicians, held hostage by xenophobic parties, adopt anti-immigrant rhetoric to win over fearful publics, while the foreign-born are increasingly marginalised in schools, cities, and at the workplace' (Sutherland & Malmstrom, Citation2012). In the United States, immigration from Latin America (and, to some degree, from Asia) has become a major political issue. The state of Arizona passed a law in 2010 that would have given local police broad powers to arrest and penalize people who were in the state without legal authorization by the US Federal government. This law was eventually ruled unconstitutional by a narrow majority of US Supreme Court (see Schwartz, Citation2012).3. A classic joke from the early 1990s about the attempt to create a united nation: An East German approaches a West German in the excitement of the moment and happily shouts, 'We are ONE PEOPLE!' The West German replies dryly, 'So are WE!!'4. In the case of the Okies, their Otherness persisted until the eve of the war with Japan, when Californians found a common enemy. As California's Fresno County Deputy Superintendent of Schools, wrote to the community in 1940, 'they are white folks like yourselves. We must assimilate them...' (cited in Alexander, Citation2004, p. 124).5. We looked at 17 districts of Hong Kong out of the 19 administrative zones. One of the zones we did not include was the floating boat population, the other were outlying islands.6. Parents who were not working or whose income was missing were assigned a value of 'zero' income. Children who lived with only one parent who was working had less real income in this approach than did children who lived with both parents and whose quartile of family income would have been greater. One drawback of this method is that it ignores the potential earnings of non-working parents, whose contribution to the family may be equal to or even greater than contributions from parents who earned an income in the labor force. Other analyses, not reported here, have focused on mothers' educational attainment and the changing impact of mothers' education over time. The results are largely consistent with the trends we found when looking only at the changing effect of earned income.",
+  "authors": [
+    {
+      "raw": "Post, David",
+      "family": "Post",
+      "given": "David"
+    },
+    {
+      "raw": "Pong, Suet-ling",
+      "family": "Pong",
+      "given": "Suet-ling"
+    },
+    {
+      "raw": "Ou, Dongshu",
+      "family": "Ou",
+      "given": "Dongshu"
+    }
+  ],
+  "authors_text": "Post, David; Pong, Suet-ling; Ou, Dongshu",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2014,
+  "doi": "10.1080/17441730.2014.947699",
+  "doi_url": "https://doi.org/10.1080/17441730.2014.947699",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2014.947699",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2014.947699.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

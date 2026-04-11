@@ -1,0 +1,30 @@
+{
+  "title": "Symmetries between life lived and left in finite stationary populations",
+  "abstract": "BACKGROUND The Brouard-Carey equality describes the symmetries between the distribution of life lived and life left in stationary populations. This result was formally proved for populations of infinite size and continuous time, and a subsequent attempt to prove it for populations of finite size is invalid. OBJECTIVE We attempt to provide a formal mathematical proof of the Brouard-Carey equality for finite stationary populations. CONCLUSIONS The symmetries between life lived and life left in finite stationary populations can only be proved if time is explicitly discretized. The proof is more complex than in a continuous-time framework, but it conforms with the kinds of data usually available to researchers. CONTRIBUTION The main contribution of this paper is to offer a complete and formal proof of the symmetries between life lived and life left for finite stationary populations in a discrete-time framework. This result is a useful tool for the study of human and non-human populations when the assumption of stationarity is acceptable, especially when subject ages are unknown, but individuals are followed-up until death.",
+  "authors": [
+    {
+      "raw": "Villavicencio, Francisco",
+      "family": "Villavicencio",
+      "given": "Francisco"
+    },
+    {
+      "raw": "Riffe, Tim",
+      "family": "Riffe",
+      "given": "Tim"
+    }
+  ],
+  "authors_text": "Villavicencio, Francisco; Riffe, Tim",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.14",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

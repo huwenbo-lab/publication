@@ -1,0 +1,70 @@
+{
+  "title": "A world apart: Levels and determinants of excess mortality due to COVID-19 in care homes: The case of the Belgian region of Wallonia during the spring 2020 wave",
+  "abstract": "BACKGROUND In Western countries, COVID-19 has been particularly deadly for care home residents. OBJECTIVE To understand the role of age and sex structures, health frailty, and contamination dynamics in COVID-19 mortality in populations living inside and outside care homes. METHODS We compared COVID-19 death data recorded in March-June 2020 in Wallonia (southern Belgium) for populations living inside and outside care homes, using annual death data (all-cause mortality in 2017) to assess the health condition of each population. RESULTS Sixty-four percent of COVID-19 deaths were residents in care homes, where the outbreak started after that in the external population, but at a faster pace. The death rate varied between 0 parts per thousand and 340 parts per thousand (mean 43 parts per thousand) per care home, increasing with the number of both residents and staff. All-cause and COVID-19 mortality rates increased exponentially with age but were much higher in care homes. The ratio of male (M) to female (F) death rates was 1.6 for all-cause mortality and 2.0 for COVID-19 mortality (both confirmed and suspected). The COVID-19 mortality reached 24% (M) and 18% (F) of the all-cause mortality rate in care homes, compared to 5% (M) and 4% (F) outside care homes. CONCLUSIONS The COVID-19 mortality rate was 130x higher inside than outside care homes, due to the near multiplicative effects of differences in the residents' age and sex structure (11x), health frailty (3.8x), and infection risk (probably 3.5x). CONTRIBUTION Care homes should be treated as a very specific population in epidemiological studies due to their extreme vulnerability to COVID-19.",
+  "authors": [
+    {
+      "raw": "Hardy, Olivier J.",
+      "family": "Hardy",
+      "given": "Olivier J."
+    },
+    {
+      "raw": "Dubourg, Dominique",
+      "family": "Dubourg",
+      "given": "Dominique"
+    },
+    {
+      "raw": "Bourguignon, Melanie",
+      "family": "Bourguignon",
+      "given": "Melanie"
+    },
+    {
+      "raw": "Dellicour, Simon",
+      "family": "Dellicour",
+      "given": "Simon"
+    },
+    {
+      "raw": "Eggerickx, Thierry",
+      "family": "Eggerickx",
+      "given": "Thierry"
+    },
+    {
+      "raw": "Gilbert, Marius",
+      "family": "Gilbert",
+      "given": "Marius"
+    },
+    {
+      "raw": "Sanderson, Jean-Paul",
+      "family": "Sanderson",
+      "given": "Jean-Paul"
+    },
+    {
+      "raw": "Scohy, Aline",
+      "family": "Scohy",
+      "given": "Aline"
+    },
+    {
+      "raw": "Vandael, Eline",
+      "family": "Vandael",
+      "given": "Eline"
+    },
+    {
+      "raw": "Decroly, Jean-Michel",
+      "family": "Decroly",
+      "given": "Jean-Michel"
+    }
+  ],
+  "authors_text": "Hardy, Olivier J.; Dubourg, Dominique; Bourguignon, Melanie; Dellicour, Simon; Eggerickx, Thierry; Gilbert, Marius; Sanderson, Jean-Paul; Scohy, Aline; Vandael, Eline; Decroly, Jean-Michel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.33",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The importance of correcting for health-related survey non-response when estimating health expectancies: Evidence from the HUNT Study",
+  "abstract": "BACKGROUND Most studies on health expectancies rely on self-reported health from surveys to measure the prevalence of disabilities or ill health in a population. At best, such studies only correct for sample selection based on a limited number of characteristics observed on the invitees. OBJECTIVE Using longitudinal data from the Trondelag Health Study (HUNT), I investigate the extent to which adjustments for a health-related sample selection affect the age profiles for the prevalence of functional impairment (FI) and the associated disability-free life expectancy (DFLE). METHODS I estimate a probit model with sample selection under the identifying restriction that the strength of the health-related selection is of similar order to the strength of the selection on observable characteristics. I then compute the selection-adjusted FI prevalence rates and trace out the implications for DFLE using the Sullivan method. RESULTS The analysis confirms that poor health measured at younger ages correlates with nonresponse behaviour in later waves of the survey, and that even for a conservative lower bound for the assumed degree of health-related selection, the estimated age profiles for DFLE lie systematically below the corresponding profiles when controlling only for selection on observable characteristics. CONCLUSIONS Health related non-response downwardly biases the raw sample prevalence rates for FI obtained from survey data and contributes to overestimating the expansion in DFLE.",
+  "authors": [
+    {
+      "raw": "Schroyen, Fred",
+      "family": "Schroyen",
+      "given": "Fred"
+    }
+  ],
+  "authors_text": "Schroyen, Fred",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.25",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

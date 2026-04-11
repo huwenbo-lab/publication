@@ -1,0 +1,30 @@
+{
+  "title": "Social capital and self-rated health: Clarifying the role of trust",
+  "abstract": "While research on social capital and health typically focuses on generalized trust (trust in abstract others), questions about the conceptualization and measurement of generalized trust remain, including whether trust should even be considered a part of social capital. We present a new approach to studying trust in the context of health and argue that consideration of the mechanisms through which social capital influences health highlights the central theoretical role of particularized trust (trust in known others). Furthermore, we argue that the effects of trust and social networks on health are dependent on one another. Analyzing data from Waves 5 and 6 of the World Values Survey (WVS), we find that, net of control variables, particularized trust is more strongly associated with self-rated health than is generalized trust. In addition, we find that the predicted effects of particularized and generalized trust on self-rated health are conditioned by membership in voluntary associations and vice versa.",
+  "authors": [
+    {
+      "raw": "Glanville, Jennifer L.",
+      "family": "Glanville",
+      "given": "Jennifer L."
+    },
+    {
+      "raw": "Story, William T.",
+      "family": "Story",
+      "given": "William T."
+    }
+  ],
+  "authors_text": "Glanville, Jennifer L.; Story, William T.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.01.002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.01.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.01.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.01.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

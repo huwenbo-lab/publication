@@ -1,0 +1,25 @@
+{
+  "title": "Literacy and Gender: Development Success Stories",
+  "abstract": "The adult literacy rate, a commonly used indicator of male and female literacy, gives an unnecessarily incomplete picture of progress toward gender equality and universal literacy. Age-specific literacy rates provide evidence of changing male and female literacy for up to seven decades prior to a census. When available for two or more successive censuses, they provide a powerful test of data quality. In Malawi, the gender gap in literacy disappeared in 2000, and near-universal literacy is likely to be achieved during the present decade. Much the same is true of El Salvador. The gender gap in Vietnam had dwindled to insignificance by the early 1980s. In Morocco, the gap narrowed steadily between 1940 and 2000 and may disappear by 2015. Despite these successes, adult literacy rates may take another half century or more to reach similar levels. This lag is a consequence of the intrinsic population dynamics of literacy.",
+  "authors": [
+    {
+      "raw": "Feeney, Griffith",
+      "family": "Feeney",
+      "given": "Griffith"
+    }
+  ],
+  "authors_text": "Feeney, Griffith",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2014,
+  "doi": "10.1111/j.1728-4457.2014.00697.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2014.00697.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2014.00697.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2014.00697.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

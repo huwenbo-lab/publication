@@ -1,0 +1,45 @@
+{
+  "title": "The Direct Effect of Taxes and Transfers on Changes in the US Income Distribution, 1967-2015",
+  "abstract": "Scholars have increasingly drawn attention to rising levels of income inequality in the United States. However, prior studies have provided an incomplete account of how changes to specific transfer programs have contributed to changes in income growth across the distribution. Our study decomposes the direct effects of tax and transfer programs on changes in the household income distribution from 1967 to 2015. We show that despite a rising Gini coefficient, lower-tail inequality (the ratio of the 50th to 10th percentile)declinedin the United States during this period due to the rise of in-kind and tax-based transfers. Food assistance and refundable tax credits account for nearly all the income growth between 1967 and 2015 at the 5th percentile and roughly one-half the growth at the 10th percentile. Moreover, income gains near the bottom of the distribution are concentrated among households with children. Changes in the income distribution were far less progressive among households without children.",
+  "authors": [
+    {
+      "raw": "Wimer, Christopher",
+      "family": "Wimer",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Parolin, Zachary",
+      "family": "Parolin",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Fenton, Anny",
+      "family": "Fenton",
+      "given": "Anny"
+    },
+    {
+      "raw": "Fox, Liana",
+      "family": "Fox",
+      "given": "Liana"
+    },
+    {
+      "raw": "Jencks, Christopher",
+      "family": "Jencks",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Wimer, Christopher; Parolin, Zachary; Fenton, Anny; Fox, Liana; Jencks, Christopher",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00903-6",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00903-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00903-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00903-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

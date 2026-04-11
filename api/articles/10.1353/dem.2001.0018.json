@@ -1,0 +1,25 @@
+{
+  "title": "Increasing longevity and medicare expenditures",
+  "abstract": "Abstract Official Medicare projections forecast that the elderly population will be less healthy and more costly over the next century. This prediction stems from the use of age as an indicator of health status: increases in longevity are assumed to increase demand for health care as individuals survive to older and higher-use ages. In this paper I suggest an alternative approach, in which time until death replaces age as the demographic indicator of health status. Increases in longevity are assumed to postpone the higher Medicare use and costs associated with the final decade of life. I contrast the two approaches, using mortality forecasts consistent with recent projections from the U.S. Census Bureau and the Social Security Administration. The time-until-death method yields significantly lower-cost forecasts. The hypothetical cost savings from improved health are small, however, relative to the size of the Medicare solvency problem caused by population aging.",
+  "authors": [
+    {
+      "raw": "Miller, Tim",
+      "family": "Miller",
+      "given": "Tim"
+    }
+  ],
+  "authors_text": "Miller, Tim",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.1353/dem.2001.0018",
+  "doi_url": "https://doi.org/10.1353/dem.2001.0018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2001.0018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2001.0018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

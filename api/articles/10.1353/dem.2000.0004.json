@@ -1,0 +1,35 @@
+{
+  "title": "Understanding the sex ratio in India: A simulation approach",
+  "abstract": "Abstract The highly masculine sex ratio in India has increased substantially in the twentieth century, in contrast to most other countries in the world. Competing arguments alternatively posit underenumeration, highly masculine sex ratios at birth, or excess female mortality throughout the life course as the factors underlying the level of the overall sex ratio; these arguments have not been resolved. Based on population projections that simulate population dynamics, our findings show that small differences in mortality at young ages, persisting over a long period, as well as a sex ratio at birth of 106 males per 100 females, result in a highly masculine population sex ratio.",
+  "authors": [
+    {
+      "raw": "Griffiths, Paula",
+      "family": "Griffiths",
+      "given": "Paula"
+    },
+    {
+      "raw": "Matthews, Zoë",
+      "family": "Matthews",
+      "given": "Zoë"
+    },
+    {
+      "raw": "Hinde, Andrew",
+      "family": "Hinde",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Griffiths, Paula; Matthews, Zoë; Hinde, Andrew",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.1353/dem.2000.0004",
+  "doi_url": "https://doi.org/10.1353/dem.2000.0004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2000.0004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2000.0004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

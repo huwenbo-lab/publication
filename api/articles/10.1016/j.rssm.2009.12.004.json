@@ -1,0 +1,35 @@
+{
+  "title": "Changing effects of family background on transitions to secondary education in the Netherlands: Consequences of educational expansion and reform",
+  "abstract": "Recent developments in educational transitions research suggest a decomposition of qualitative dimensions within educational levels that are (nearly) universal. However, research on long-term trends of social stratification in the structurally tracked educational system of the Netherlands has not been published previously. In the Netherlands, the secondary educational level is divided into four hierarchical tracks which each lead to different options for subsequent educational decisions. A rapid increase of participation in the higher tracks over time however. may have changed the background-specific distribution of early track placement. This paper improves upon previous research on educational inequality by incorporating a long-term perspective into tracking research. The secondary level of the Dutch educational system is decomposed into its four tracks, using a time frame that covers cohorts that entered secondary education between 1946 and 1998. The application of multinomial logit regressions reveals that the choice of a secondary track is strongly depending on social background features, measured as education of the parents and occupational status of the father. We found linear downward trends of effects for fathers' occupation in the intermediate tracks for the cohorts that entered secondary education between WWII and the 90s. The effects of parental education also decrease after WWII, but the trend is curvilinear and not enduring. Unexpectedly, the effects almost reach their previous level in the youngest cohort. Our results furthermore suggest that a controversial reform of the educational system in 1968 neither triggered nor accelerated equalization of secondary education, although it resulted in a growth of participation in senior general education (HAVO). (C) 2010 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Tieben, Nicole",
+      "family": "Tieben",
+      "given": "Nicole"
+    },
+    {
+      "raw": "de Graaf, Paul M.",
+      "family": "de Graaf",
+      "given": "Paul M."
+    },
+    {
+      "raw": "de Graaf, Nan Dirk",
+      "family": "de Graaf",
+      "given": "Nan Dirk"
+    }
+  ],
+  "authors_text": "Tieben, Nicole; de Graaf, Paul M.; de Graaf, Nan Dirk",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2010,
+  "doi": "10.1016/j.rssm.2009.12.004",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2009.12.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2009.12.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2009.12.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "A spatial population downscaling model for integrated human- environment analysis in the United States",
+  "abstract": "BACKGROUND Spatial population models are important to inform understanding of historical demographic development patterns and to project possible future changes, especially for use in anticipating environmental interactions. OBJECTIVE We document, calibrate, and evaluate a high-resolution gravity-based population downscaling model for each US state and interpret its historical urban and rural spatial population change patterns. METHODS We estimate two free parameters that govern the spatial population change pattern using the historical population grids of each state. We interpret the resulting parameters in light of the spatial development pattern they represent. We evaluate the model by comparing the resulting total population grid of each state in 2010 against its census-based grid. We also analyze the temporal stability of parameters across the 1990-2000 and 2000-2010 decades. RESULTS Our analysis indicates varying levels of performance across states and population types. While our results suggest a consolidated change pattern in urban population across states, rural population change patterns are diverse. We find urban parameters are more stable. CONCLUSIONS The model's adaptability, performance, and interpretability indicate its potential for depicting historical state-level spatial population changes. It assigns these changes to different representative categories to assist interpretation. CONTRIBUTION We document and evaluate a gravitational model as well as investigate historical state-level spatial population changes. This research facilitates future work creating projections of the spatial distribution of population at the subnational level, especially those according to the Shared Socioeconomic Pathways (SSPs), widely used scenarios for climate change research.",
+  "authors": [
+    {
+      "raw": "Zoraghein, Hamidreza",
+      "family": "Zoraghein",
+      "given": "Hamidreza"
+    },
+    {
+      "raw": "O'Neill, Brian C.",
+      "family": "O'Neill",
+      "given": "Brian C."
+    }
+  ],
+  "authors_text": "Zoraghein, Hamidreza; O'Neill, Brian C.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.54",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.54",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.54",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.54.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

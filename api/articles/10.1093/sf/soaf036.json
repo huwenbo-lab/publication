@@ -1,0 +1,25 @@
+{
+  "title": "Colonial legacy and contemporary civil violence: a global study from 1960 to 2018",
+  "abstract": "This study assesses whether the legacy of colonialism continues to influence patterns of civil violence in the contemporary era. A large and established quantitative literature attributes civil violence to low levels of economic development and limited political rights, but few quantitative studies consider whether colonial legacy plays an enduring role in such conflicts. This is surprising given the substantial evidence showing that colonialism impeded long-run development in many parts of the world. Drawing on ideas from macro-comparative sociology, institutional economics, and political science, the study develops several theoretical expectations regarding colonialism's effect on contemporary civil violence. These ideas are tested with a global sample of 152 countries observed annually from 1960 to 2018. Results from logistic regression models support the contention that (1) post-colonial societies are more prone to civil violence than non-colonized societies, that (2) ex-British colonies are especially prone to ethnic-based civil violence while ex-Spanish colonies are especially prone to socio-economic-based civil violence, and that (3) these historical effects change and evolve but never fully abate. This latter finding implies that elevated levels of civil violence are a path-dependent legacy of colonialism. The study ends by running robustness checks and discussing the theoretical implications of the study's findings, in particular reflecting on our understanding of the long-run consequences of colonialism.",
+  "authors": [
+    {
+      "raw": "Kollmeyer, Christopher",
+      "family": "Kollmeyer",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Kollmeyer, Christopher",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf036",
+  "doi_url": "https://doi.org/10.1093/sf/soaf036",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf036",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf036.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

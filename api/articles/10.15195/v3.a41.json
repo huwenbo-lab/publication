@@ -1,0 +1,40 @@
+{
+  "title": "Success-Breeds-Success in Collective Political Behavior: Evidence from a Field Experiment",
+  "abstract": "Scholars have proposed that the emergence of political movements is highly pathdependent, such that early mobilization successes may lead to disproportionately greater eventual success. This article replicates a unique field experiment testing for positive feedback in internet petition signing (van de Rijt et al. 2014). The prior study found no significant effect of signatures bestowed by the experimenters on the signing rate of 200 online petitions posted to a political petitions website (http://www.change.org), but this may have lacked power because of its sample size and variation across petitions. We report on results of a new field experiment in which we posted 400 petitions differing only in tightly controlled ways to the same website, varying the number of experimentally bestowed signatures across a wider range than in the original experiment. Subsequent petition signing increased monotonically with the treatment, confirming the presence of positive feedback. These results support the existence of success-breeds-success dynamics in the mobilization of collective political behavior, confirming that early success can increase the attractiveness of collective action to potential supporters. However, while significant, the effect of prior signatures was small, suggesting that cumulative advantage effects resulting from popularity metrics may play a minor role in collective action outcomes.",
+  "authors": [
+    {
+      "raw": "van de Rijt, Arnout",
+      "family": "van de Rijt",
+      "given": "Arnout"
+    },
+    {
+      "raw": "Akin, Idil",
+      "family": "Akin",
+      "given": "Idil"
+    },
+    {
+      "raw": "Willer, Robb",
+      "family": "Willer",
+      "given": "Robb"
+    },
+    {
+      "raw": "Feinberg, Matthew",
+      "family": "Feinberg",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "van de Rijt, Arnout; Akin, Idil; Willer, Robb; Feinberg, Matthew",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2016,
+  "doi": "10.15195/v3.a41",
+  "doi_url": "https://doi.org/10.15195/v3.a41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv3.a41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v3.a41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

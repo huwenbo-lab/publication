@@ -1,0 +1,30 @@
+{
+  "title": "Elite Schools, Elite Ambitions? The Consequences of Secondary-Level School Choice Sorting for Tertiary-Level Educational Choices",
+  "abstract": "We ask if school choice, through its effect on sorting across schools, affects high school graduates' application decisions to higher education. We exploit a school choice reform that dramatically increased achievement sorting across secondary schools in the municipality of Stockholm, employing a before-after design with a control group of students in similar schools located outside this municipality. The reform had a close to zero mean effect on the propensity to apply for tertiary educational programs, but strongly affected the self-selection by achievement into the kinds of higher educational programs applied for. Low achievers increased their propensity to apply for the `low-status' educational programs, on average destining them to less prestigious, less well-paid occupations, and high achievers increased their propensity to apply for `high-status' educational programs, on average destining them to more prestigious, well-paid occupations. The results suggest that increased sorting across schools reinforces differences across schools and groups in `cultures of ambition'. Although these effects translate into relatively small increases in the gender gap, the immigration gap, and the parental education gap in educational choice, our results indicate that school choice, and the increased sorting it leads to, through conformity mechanisms in schools polarizes educational choices of students across achievement groups.",
+  "authors": [
+    {
+      "raw": "Bygren, Magnus",
+      "family": "Bygren",
+      "given": "Magnus"
+    },
+    {
+      "raw": "Rosenqvist, Erik",
+      "family": "Rosenqvist",
+      "given": "Erik"
+    }
+  ],
+  "authors_text": "Bygren, Magnus; Rosenqvist, Erik",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcaa008",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

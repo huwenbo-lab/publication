@@ -1,0 +1,30 @@
+{
+  "title": "Mapping Changes in Attitudes towards Gays and Lesbians in Europe: An Application of Diffusion Theory",
+  "abstract": "Despite the introduction of laws granting family rights for lesbians and gays (LG) in many countries, negative attitudes towards homosexuality persist among various segments of the population, even in countries that have fully legitimized same-sex relationships. This mismatch raises questions about the processes through which societies achieve positive attitudes towards gays and lesbians. This article applies diffusion theory to nearly 20 years of European Social Survey data for 27 countries to provide an in-depth examination of the evolution of attitudes towards gays and lesbians. Using data on same-sex legislation and cluster analysis, we construct a classification of countries distinguishing among those that are more versus less ahead in the process of granting family rights for LG couples, which is then applied to societal growth curve models to account for historical changes in attitudes among different social groups. Our results show a stronger increase in positive attitudes towards homosexuality among higher educated, secular, and non-conservative individuals in countries with greater same-sex rights. These findings suggest that laws granting family rights to LG people represent a necessary but not sufficient condition for the diffusion of positive attitudes towards homosexuality, pointing to a considerable lag between the macro and the micro-level.",
+  "authors": [
+    {
+      "raw": "Sani, Giulia M. Dotti",
+      "family": "Sani",
+      "given": "Giulia M. Dotti"
+    },
+    {
+      "raw": "Quaranta, Mario",
+      "family": "Quaranta",
+      "given": "Mario"
+    }
+  ],
+  "authors_text": "Sani, Giulia M. Dotti; Quaranta, Mario",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab032",
+  "doi_url": "https://doi.org/10.1093/esr/jcab032",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab032",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab032.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

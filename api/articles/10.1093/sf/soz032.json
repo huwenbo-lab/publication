@@ -1,0 +1,30 @@
+{
+  "title": "Worker Power and Class Polarization in Intra-Year Work Hour Volatility",
+  "abstract": "Precarious work, which has become more prevalent in the United States in recent decades, is disproportionately experienced by workers of lower socio-economic classes, and research suggests that the erosion of worker power has contributed to this class polarization in precarity. One dimension of precarious work of growing interest to scholars and policymakers is instability faced by workers in the amount and regularity of their work hours. However, we know little about the magnitude of month-to-month or week-to-week (intra-year) volatility in hours worked, the extent of class-based polarization in this measure of job quality, and whether worker power moderates this polarization. In this paper, we make novel use of the panel nature of the nationally-representative Current Population Survey (CPS) to estimate intra-year volatility in the actual hours respondents report working in the previous week across four consecutive survey months. Using this new measure, we then show that, net of demographic characteristics and controls for occupation and industry, low-wage workers experience disproportionately greater work hour volatility. Finally, we find evidence that reductions in marketplace bargaining power-as measured by higher state-level unemployment rates-increase wage- and education-based polarization in work hour volatility, while increases in associational power-as measured by union coverage-reduce wage-based polarization in work hour volatility.",
+  "authors": [
+    {
+      "raw": "LaBriola, Joe",
+      "family": "LaBriola",
+      "given": "Joe"
+    },
+    {
+      "raw": "Schneider, Daniel",
+      "family": "Schneider",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "LaBriola, Joe; Schneider, Daniel",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz032",
+  "doi_url": "https://doi.org/10.1093/sf/soz032",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz032",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz032.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

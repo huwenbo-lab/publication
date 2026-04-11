@@ -1,0 +1,50 @@
+{
+  "title": "Gender Discrimination in Hiring: Evidence from a Cross-National Harmonized Field Experiment",
+  "abstract": "Gender discrimination is often regarded as an important driver of women's disadvantage in the labour market, yet earlier studies show mixed results. However, because different studies employ different research designs, the estimates of discrimination cannot be compared across countries. By utilizing data from the first harmonized comparative field experiment on gender discrimination in hiring in six countries, we can directly compare employers' callbacks to fictitious male and female applicants. The countries included vary in a number of key institutional, economic, and cultural dimensions, yet we found no sign of discrimination against women. This cross-national finding constitutes an important and robust piece of evidence. Second, we found discrimination against men in Germany, the Netherlands, Spain, and the UK, and no discrimination against men in Norway and the United States. However, in the pooled data the gender gradient hardly differs across countries. Our findings suggest that although employers operate in quite different institutional contexts, they regard female applicants as more suitable for jobs in female-dominated occupations, ceteris paribus, while we find no evidence that they regard male applicants as more suitable anywhere.",
+  "authors": [
+    {
+      "raw": "Birkelund, Gunn Elisabeth",
+      "family": "Birkelund",
+      "given": "Gunn Elisabeth"
+    },
+    {
+      "raw": "Lancee, Bram",
+      "family": "Lancee",
+      "given": "Bram"
+    },
+    {
+      "raw": "Larsen, Edvard Nergard",
+      "family": "Larsen",
+      "given": "Edvard Nergard"
+    },
+    {
+      "raw": "Polavieja, Javier G.",
+      "family": "Polavieja",
+      "given": "Javier G."
+    },
+    {
+      "raw": "Radl, Jonas",
+      "family": "Radl",
+      "given": "Jonas"
+    },
+    {
+      "raw": "Yemane, Ruta",
+      "family": "Yemane",
+      "given": "Ruta"
+    }
+  ],
+  "authors_text": "Birkelund, Gunn Elisabeth; Lancee, Bram; Larsen, Edvard Nergard; Polavieja, Javier G.; Radl, Jonas; Yemane, Ruta",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab043",
+  "doi_url": "https://doi.org/10.1093/esr/jcab043",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab043",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab043.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

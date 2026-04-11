@@ -1,0 +1,30 @@
+{
+  "title": "History, place, and racial self-representation in 21st century America",
+  "abstract": "How is a person's racial self-representation related to the race history of the place in which he or she lives? We use Census Bureau data about race and ancestry to address this research question for two groups of people with mixed racial heritage: those reporting white and American Indian heritages, or reporting black and American Indian heritages. Links between history, place, and self-representation can be seen in geographic clustering for each race/ancestry response combination. We use multinomial logistic regression models to predict individuals' race/ancestry responses (e.g., white with American Indian ancestry versus white and American Indian races) using measures of local race history and the area's contemporary racial composition. Multivariate results highlight the relationship between a person's identity claims and the history of the area, net of contemporary area composition. Future research should attend to the history of the place as a potential contributor to contemporary patterns. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Liebler, Carolyn A.",
+      "family": "Liebler",
+      "given": "Carolyn A."
+    },
+    {
+      "raw": "Zacher, Meghan",
+      "family": "Zacher",
+      "given": "Meghan"
+    }
+  ],
+  "authors_text": "Liebler, Carolyn A.; Zacher, Meghan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2015.12.002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2015.12.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2015.12.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2015.12.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Factors Contributing to Increasing Marital Stability in the United States",
+  "abstract": "Results from the 1995 National Survey of Family Growth indicate that marriages contracted after 1980 are becoming more stable. This article examines several individual characteristics in search of an explanation for increasing stability. A person-year file is created and logistic regression is used to determine which covariates account for the negative effect of year in a model predicting the likelihood of marital dissolution. Increasing experience of premarital sex, premarital birth, cohabitation, and racial and religious heterogamy are detracting from marital stability. However, rising age at marriage and, to a lesser degree, increased education are associated with increasing marital stability. These latter effects more than counterbalance the factors associated with instability leading to an overall decline in the rate of marital dissolution.",
+  "authors": [
+    {
+      "raw": "HEATON, TIM B.",
+      "family": "HEATON",
+      "given": "TIM B."
+    }
+  ],
+  "authors_text": "HEATON, TIM B.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2002,
+  "doi": "10.1177/0192513x02023003004",
+  "doi_url": "https://doi.org/10.1177/0192513x02023003004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x02023003004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x02023003004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

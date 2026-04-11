@@ -1,0 +1,25 @@
+{
+  "title": "Commentary on “A methodology for identifying married couples in medicare data”",
+  "abstract": "Abstract Authors of an article appearing recently in Demography propose a retrospective method to identify husband-wife pairs in administrative records. Although their premise is correct, they overstate the power of their methodology. The error stems from a misunderstanding of how persons entitled to both primary and secondary social security benefits are classified in program data. A retrospective look four years after the reference date shows that the number of pairs is increased by less than 10%, not by more than 50%, as the authors claim.",
+  "authors": [
+    {
+      "raw": "Kestenbaum, Bert",
+      "family": "Kestenbaum",
+      "given": "Bert"
+    }
+  ],
+  "authors_text": "Kestenbaum, Bert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648126",
+  "doi_url": "https://doi.org/10.2307/2648126",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648126",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648126.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

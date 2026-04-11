@@ -1,0 +1,30 @@
+{
+  "title": "The absorption and multiplication of uncertainty in machine-learning-driven finance",
+  "abstract": "Uncertainty about market developments and their implications characterize financial markets. Increasingly, machine learning is deployed as a tool to absorb this uncertainty and transform it into manageable risk. This article analyses machine-learning-based uncertainty absorption in financial markets by drawing on 182 interviews in the finance industry, including 45 interviews with informants who were actively applying machine-learning techniques to investment management, trading, or risk management problems. We argue that while machine-learning models are deployed to absorb financial uncertainty, they also introduce a new and more profound type of uncertainty, which we call critical model uncertainty. Critical model uncertainty refers to the inability to explain how and why the machine-learning models (particularly neural networks) arrive at their predictions and decisions-their uncertainty-absorbing accomplishments. We suggest that the dialectical relation between machine-learning models' uncertainty absorption and multiplication calls for further research in the field of finance and beyond.",
+  "authors": [
+    {
+      "raw": "Hansen, Kristian Bondo",
+      "family": "Hansen",
+      "given": "Kristian Bondo"
+    },
+    {
+      "raw": "Borch, Christian",
+      "family": "Borch",
+      "given": "Christian"
+    }
+  ],
+  "authors_text": "Hansen, Kristian Bondo; Borch, Christian",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2021,
+  "doi": "10.1111/1468-4446.12880",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12880",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12880",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12880.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

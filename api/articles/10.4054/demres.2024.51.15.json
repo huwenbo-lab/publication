@@ -1,0 +1,35 @@
+{
+  "title": "The impact of the COVID-19 pandemic on women's care work and employment in the Middle East and North Africa",
+  "abstract": "BACKGROUND The COVID-19 pandemic was accompanied by widespread childcare and school closures. Emerging evidence - primarily from high-income countries - suggests that these changes increased women's time in unpaid care, which may be a particular challenge for women with paid employment. OBJECTIVE The paper examines how women's unpaid care responsibilities and employment changed during the pandemic in the Middle East and North Africa (MENA), specifically: (1) How did the closure of schools and nurseries impact married women's time spent in care work? (2) How were exits from employment related to care responsibilities? and (3) How did changes in employment vary by pre-pandemic type of employment? METHODS This paper uses multiple waves of phone surveys from five MENA countries. Country- specific information on school modalities is a key covariate. The analyses present both descriptive statistics and multivariate models for outcomes of care work and employment. Analyses also include fixed-effect logit models, with woman fixed effects, leveraging the multiple observations per woman in the panel. RESULTS When schools were totally closed during the pandemic, married women with children under age 18 reported performing more care work. However, exits from employment during the pandemic were not increased by women's care responsibilities. CONTRIBUTIONS Even before the pandemic, structural inequalities pushed women in MENA - particularly married women with young children - out of the types of employment that were difficult to reconcile with care responsibilities. These findings underscore the importance of local employment conditions in mediating the impact of the pandemic on gender inequality.",
+  "authors": [
+    {
+      "raw": "Krafft, Caroline",
+      "family": "Krafft",
+      "given": "Caroline"
+    },
+    {
+      "raw": "Selwaness, Irene",
+      "family": "Selwaness",
+      "given": "Irene"
+    },
+    {
+      "raw": "Sieverding, Maia",
+      "family": "Sieverding",
+      "given": "Maia"
+    }
+  ],
+  "authors_text": "Krafft, Caroline; Selwaness, Irene; Sieverding, Maia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.15",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

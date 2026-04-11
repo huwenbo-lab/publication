@@ -1,0 +1,30 @@
+{
+  "title": "The sex preference for children in Europe: Children's sex and the probability and timing of births",
+  "abstract": "BACKGROUND The preference for having children of a particular sex may be reflected in fertility behavior. For example, parents who want to have a son may be more likely to have another child if their firstborn child is female or if they have two female children. They may also speed up the conception, resulting in a faster progression to the next child.OBJECTIVE We examine whether there is a sex preference for children in Europe, which is reflected in an increased/decreased probability of having another child and a shorter/longer time to the next birth given the sex of existing children. We distinguish between progression to the second and the third child and different cohorts. METHODS We model the impact of children's sex on fertility using event history analysis. We apply mixture cure models, which allow us to distinguish between the probability of experiencing the event of interest and its timing.RESULTS We find evidence of the preference for having a girl, reflected in an increased probability of not having a second child if the first child is female. We also find that women who have two children of the same sex are more likely to give birth to a third child.CONTRIBUTION We contribute to research on the sex preference for children by (1) providing a comprehensive analysis of a number of European countries using consistent data and methodology, (2) examining the progression to the second and the third child, (3) distinguishing between different cohorts of women, and (4) applying mixture cure models.",
+  "authors": [
+    {
+      "raw": "Cukrowska-Torzewska, Ewa",
+      "family": "Cukrowska-Torzewska",
+      "given": "Ewa"
+    },
+    {
+      "raw": "Grabowska, Magdalena",
+      "family": "Grabowska",
+      "given": "Magdalena"
+    }
+  ],
+  "authors_text": "Cukrowska-Torzewska, Ewa; Grabowska, Magdalena",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.8",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

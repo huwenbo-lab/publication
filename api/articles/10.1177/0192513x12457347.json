@@ -1,0 +1,35 @@
+{
+  "title": "Does Adolescent Family Structure Predict Military Enlistment? A Comparison of Post–High School Activities",
+  "abstract": "This article investigates the link between adolescent family structure and the likelihood of military enlistment in young adulthood as compared with alternative post–high school activities. The authors use data from the National Longitudinal Study of Adolescent Health and multinomial logistic regression analyses to compare the odds of military enlistment with college attendance or labor force involvement. They find that alternative family structures predict enlistment relative to college attendance. Living in a single-parent household during adolescence increased odds of military enlistment, but the effect is accounted for by socioeconomic status and early feelings of social isolation. Living with a stepparent or with neither biological parent more than doubles the odds of enlistment, independent of socioeconomic status, characteristics of parent–child relationships, or feelings of social isolation. Although college attendance is widely promoted as a valued post–high school activity, military service may offer a route to independence and a greater sense of belonging.",
+  "authors": [
+    {
+      "raw": "Spence, Naomi J.",
+      "family": "Spence",
+      "given": "Naomi J."
+    },
+    {
+      "raw": "Henderson, Kathryn A.",
+      "family": "Henderson",
+      "given": "Kathryn A."
+    },
+    {
+      "raw": "Elder, Glen H.",
+      "family": "Elder",
+      "given": "Glen H."
+    }
+  ],
+  "authors_text": "Spence, Naomi J.; Henderson, Kathryn A.; Elder, Glen H.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2012,
+  "doi": "10.1177/0192513x12457347",
+  "doi_url": "https://doi.org/10.1177/0192513x12457347",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x12457347",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x12457347.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Stop, in the Name of COVID! Using Social Media Data to Estimate the Effects of COVID-19-Related Travel Restrictions on Migration",
+  "abstract": "In the wake of the COVID-19 pan demic, the International Organization for Migration has pos tu lated that inter na tional migrant stocks fell short of their prepan demic pro jec tions by nearly 2 mil lion as a result of travel restric tions. However, this decline is not test able with migra tion data from tra di tional sources. Key migration stake hold ers have called for using data from alter na tive sources, includ ing social media, to fill these gaps. Building on pre vi ous work using social media data to ana lyze migra tion responses to exter nal shocks, we test the hypoth e sis that COVID-related travel restric tions reduced migrant stock rel a tive to expected migra tion with out such restric tions using esti ma tes of migrants drawn from Facebook's adver tis ing plat form and dynamic panel mod els. We focus on four key ori gin countries in North and West Africa (C & ocirc;te d'Ivoire, Algeria, Morocco, and Senegal) and on their 23 key des ti na tion countries. Between Feb ru ary and June 2020, we esti mate that a des ti na tion coun try implementing a month -long total entry ban on arriv als from C & ocirc;te d'Ivoire, Algeria, Morocco, or Senegal might have expected a 3.39% reduc tion in migrant stock from the restricted coun try com pared with the coun ter fac tual in which no travel restric tions were implemented. However, when broader soci e tal dis rup tions of the pan demic are accounted for, we esti mate that countries implementing travel restric tions might par adox i cally have expected an increase in migrant stock. In this con text, travel restric tions do not appear to have effec tively curbed migra tion and could have resulted in out comes oppo site their intended effects.",
+  "authors": [
+    {
+      "raw": "Klein, Jordan D.",
+      "family": "Klein",
+      "given": "Jordan D."
+    },
+    {
+      "raw": "Weber, Ingmar",
+      "family": "Weber",
+      "given": "Ingmar"
+    },
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    }
+  ],
+  "authors_text": "Klein, Jordan D.; Weber, Ingmar; Zagheni, Emilio",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11229946",
+  "doi_url": "https://doi.org/10.1215/00703370-11229946",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11229946",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11229946.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

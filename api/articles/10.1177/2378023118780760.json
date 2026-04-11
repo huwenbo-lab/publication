@@ -1,0 +1,25 @@
+{
+  "title": "Feminist Twitter and Gender Attitudes: Opportunities and Limitations to Using Twitter in the Study of Public Opinion",
+  "abstract": "In this study, the author tests whether one form of big data, tweets about feminism, provides a useful measure of public opinion about gender. Through qualitative and naive Bayes sentiment analysis of more than 100,000 tweets, the author calculates region-, state-, and county-level Twitter sentiment toward feminism and tests how strongly these measures correlate with aggregated gender attitudes from the General Social Survey. Then, the author examines whether Twitter sentiment represents the gender attitudes of diverse populations by predicting the effect of Twitter sentiment on individuals’ gender attitudes across race, gender, and education level. The results indicate that Twitter sentiment toward feminism is highly correlated with gender attitudes, suggesting that Twitter is a useful measure of public opinion about gender. However, Twitter sentiment is not fully representative. The gender attitudes of nonwhites and the less educated are unrelated to Twitter sentiment, indicating limits in the extent to which inferences can be drawn from Twitter data.",
+  "authors": [
+    {
+      "raw": "Scarborough, William J.",
+      "family": "Scarborough",
+      "given": "William J."
+    }
+  ],
+  "authors_text": "Scarborough, William J.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118780760",
+  "doi_url": "https://doi.org/10.1177/2378023118780760",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118780760",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118780760.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

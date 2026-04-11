@@ -1,0 +1,30 @@
+{
+  "title": "The siren song of so-called evidence: Why the evidence for social ecology models is not as strong as we think",
+  "abstract": "Ecological competition models from biology have been adopted for the study of a wide variety of social entities, including workplace organizations and voluntary associations.Despite their popularity, a number of fundamental challenges to these models have not been sufficiently recognized or addressed. As a result, it's possible that some apparently supportive evidence for ecological competition is in fact the outcome of chance or other processes. We propose a per-mutation test to compare observed evidence for ecological competition against an appropriate counterfactual population. To demonstrate our approach and validate our concern about the quality of evidence for ecological competition models, we apply the permutation test to one specific case. The results indicate that K-correlation values that have been taken as evidence for a well-established model, the Ecology of Affiliation, are quite common even in the absence of ecological competition. We conclude that the existing evidence for social ecology models may not be as reliable as commonly believed due to the disconnect between theory and empirical testing.",
+  "authors": [
+    {
+      "raw": "Zhong, Jingwen",
+      "family": "Zhong",
+      "given": "Jingwen"
+    },
+    {
+      "raw": "Brashears, Matthew E.",
+      "family": "Brashears",
+      "given": "Matthew E."
+    }
+  ],
+  "authors_text": "Zhong, Jingwen; Brashears, Matthew E.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2023.102978",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102978",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102978",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102978.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

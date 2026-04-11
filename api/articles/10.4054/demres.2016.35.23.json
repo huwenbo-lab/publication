@@ -1,0 +1,35 @@
+{
+  "title": "Coresidence with elderly parents and female labor supply in China",
+  "abstract": "BACKGROUND The female labor force participation rate in China has experienced a significant decline over the past two decades. Existing studies attribute this decline to the retreat of government protection of female employment and growing gender discrimination in the labor market, while overlooking other factors such as changing living arrangements. OBJECTIVE This paper aims to explore the causal effect of coresidence or nearby residence with parents on female labor supply in China. METHOD Based on a paired sample of middle-aged married women and their elderly parents, we apply the instrumental variable approach to correct for the endogeneity of living arrangement. RESULTS We show that women coresiding with their parents are 27.9 percentage points more likely to work than those living apart, and women living with their parents in the same neighborhood are 34.9 percentage points more likely to work than those living in a different neighborhood. Also, on average, coresidence or nearby residence with parents significantly increases women's work time by 20-26 hours per week. The positive impacts of this living arrangement are more prominent in urban areas than in rural areas. We also show that intergenerational coresidence allows women to share the burden of housework with their parents, thus leading to increased labor supply. CONCLUSION Our study offers a fresh explanation for the drop in female labor force participation in China since 1990. Policies directed towards encouraging intergenerational coresidence would be effective in improving female labor supply.",
+  "authors": [
+    {
+      "raw": "Shen, Ke",
+      "family": "Shen",
+      "given": "Ke"
+    },
+    {
+      "raw": "Yan, Ping",
+      "family": "Yan",
+      "given": "Ping"
+    },
+    {
+      "raw": "Zeng, Yi",
+      "family": "Zeng",
+      "given": "Yi"
+    }
+  ],
+  "authors_text": "Shen, Ke; Yan, Ping; Zeng, Yi",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.23",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

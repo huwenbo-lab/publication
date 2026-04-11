@@ -1,0 +1,30 @@
+{
+  "title": "Latino Destinations and Environmental Inequality: Estimated Cancer Risk from Air Toxics in Latino Traditional and New Destinations",
+  "abstract": "Since the 1990s, Latino migration patterns have shifted from traditional destinations to new destinations away from the Mexico border. Scholars note disparities between destinations in housing, crime, and health care, yet no study has examined environmental inequalities. In this article we employ theories of spatial assimilation and environmental inequality to evaluate health risks across Latino destinations by asking the question, is there a difference in estimated cancer risk from air toxics among established, new, and nondestination locations? Using county-level data with spatial lag regression analyses, we find that early new destinations (i.e., counties with significant Latino growth from 1990 to 2000) and recent new destinations (i.e., counties with significant Latino growth from 1990 to 2010) have higher estimated cancer risk from air toxics than established destinations (i.e., counties at or greater than the national average of Latinos in 1990) and nondestinations. The effect remains significant when controlling for various economic indicators.",
+  "authors": [
+    {
+      "raw": "Alvarez, Camila H.",
+      "family": "Alvarez",
+      "given": "Camila H."
+    },
+    {
+      "raw": "Norton-Smith, Kathryn G.",
+      "family": "Norton-Smith",
+      "given": "Kathryn G."
+    }
+  ],
+  "authors_text": "Alvarez, Camila H.; Norton-Smith, Kathryn G.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118796931",
+  "doi_url": "https://doi.org/10.1177/2378023118796931",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118796931",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118796931.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

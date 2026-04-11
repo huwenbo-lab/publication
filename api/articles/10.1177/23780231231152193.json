@@ -1,0 +1,40 @@
+{
+  "title": "Does the Musk Twitter Takeover Matter? Political Influencers, Their Arguments, and the Quality of Information They Share",
+  "abstract": "In October 2022, Elon Musk took over Twitter. Although conservatives cheered the takeover, progressives decried it as dangerous for democracy. Despite scholarly interest in Twitter, little is known about the impact of “old” Twitter’s policies on the information environment, making it difficult to speculate about Musk’s effects. The authors begin to address this gap through an analysis of 245,020 tweets collected before and after Twitter suspended eight accounts calling for state audits of the 2020 presidential election results. In this analysis of message amplifiers, or accounts receiving 200 or more retweets, and message drivers, or top-ranked accounts, no evidence is found that the Twitter ban improved the ideas or the quality of information shared about the election, nor did it dramatically change who posted about the audit. The authors conclude with a discussion of the implications of these findings for future research on Twitter under Musk’s control.",
+  "authors": [
+    {
+      "raw": "Rohlinger, Deana A.",
+      "family": "Rohlinger",
+      "given": "Deana A."
+    },
+    {
+      "raw": "Rose, Kyle",
+      "family": "Rose",
+      "given": "Kyle"
+    },
+    {
+      "raw": "Warren, Sarah",
+      "family": "Warren",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Shulman, Stuart",
+      "family": "Shulman",
+      "given": "Stuart"
+    }
+  ],
+  "authors_text": "Rohlinger, Deana A.; Rose, Kyle; Warren, Sarah; Shulman, Stuart",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231152193",
+  "doi_url": "https://doi.org/10.1177/23780231231152193",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231152193",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231152193.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

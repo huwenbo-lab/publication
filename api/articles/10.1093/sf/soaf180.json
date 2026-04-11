@@ -1,0 +1,25 @@
+{
+  "title": "Occupational gender segregation: what can we learn from computer use trends?",
+  "abstract": "This study posits to an intricate interrelation between changes in occupational gender segregation (OGS) and the rise in computer use in the workplace in the United States. I posit that two contrasting mechanisms underpin this relation. Firstly, computerization has contributed to a more balanced gender distribution in certain professions, previously dominated by men, due to a decrease in physical tasks in occupations, thereby reducing OGS. Conversely, in other occupations, heightened computer use has increased Science, Technology, Engineering, and Mathematics (STEM) knowledge requirements, thus restricting women's integration and reproducing OGS. My empirical analysis, utilizing fixed-effects regression models, lagged models, ordinary least squares (OLS) models, and mediation analysis on a comprehensive dataset of the United States Census, American Community Survey, and Occupational Information Network data, confirms a significant association between computer use and OGS. The physical attributes of occupations and their required STEM knowledge components emerge as critical factors. These contradictory mechanisms-one involving reduced physical demands and the other increased required STEM knowledge-ultimately maintain a stable OGS level.",
+  "authors": [
+    {
+      "raw": "Herzberg-Druker, Efrat",
+      "family": "Herzberg-Druker",
+      "given": "Efrat"
+    }
+  ],
+  "authors_text": "Herzberg-Druker, Efrat",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf180",
+  "doi_url": "https://doi.org/10.1093/sf/soaf180",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf180",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf180.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

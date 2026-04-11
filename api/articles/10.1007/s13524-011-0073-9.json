@@ -1,0 +1,50 @@
+{
+  "title": "The Quality of Male Fertility Data in Major U.S. Surveys",
+  "abstract": "Abstract Researchers continue to question fathers’ willingness to report their biological children in surveys and the ability of surveys to adequately represent fathers. To address these concerns, this study evaluates the quality of men’s fertility data in the 1979 and 1997 cohorts of the National Longitudinal Survey of Youth (NLSY79 and NLSY97) and in the 2002 National Survey of Family Growth (NSFG). Comparing fertility rates in each survey with population rates based on data from Vital Statistics and the U.S. Census Bureau, we document how the incomplete reporting of births in different surveys varies according to men’s characteristics, including their age, race, marital status, and birth cohort. In addition, we use Monte Carlo simulations based on the NSFG data to demonstrate how birth underreporting biases associations between early parenthood and its antecedents. We find that in the NSFG, roughly four out of five early births were reported; but in the NLSY79 and NLSY97, almost nine-tenths of early births were reported. In all three surveys, incomplete reporting was especially pronounced for nonmarital births. Our results suggest that the quality of male fertility data is strongly linked to survey design and that it has implications for models of early male fertility.",
+  "authors": [
+    {
+      "raw": "Joyner, Kara",
+      "family": "Joyner",
+      "given": "Kara"
+    },
+    {
+      "raw": "Peters, H. Elizabeth",
+      "family": "Peters",
+      "given": "H. Elizabeth"
+    },
+    {
+      "raw": "Hynes, Kathryn",
+      "family": "Hynes",
+      "given": "Kathryn"
+    },
+    {
+      "raw": "Sikora, Asia",
+      "family": "Sikora",
+      "given": "Asia"
+    },
+    {
+      "raw": "Taber, Jamie Rubenstein",
+      "family": "Taber",
+      "given": "Jamie Rubenstein"
+    },
+    {
+      "raw": "Rendall, Michael S.",
+      "family": "Rendall",
+      "given": "Michael S."
+    }
+  ],
+  "authors_text": "Joyner, Kara; Peters, H. Elizabeth; Hynes, Kathryn; Sikora, Asia; Taber, Jamie Rubenstein; Rendall, Michael S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0073-9",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0073-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0073-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0073-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

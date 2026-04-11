@@ -1,0 +1,25 @@
+{
+  "title": "A Longitudinal Analysis of the Relationship Between Fertility Timing and Schooling",
+  "abstract": "Abstract This article quantifies the contribution of pre-treatment dynamic selection to the relationship between fertility timing and postsecondary attainment, after controlling for a rich set of predetermined characteristics. Eventual mothers and nonmothers are matched using their predicted birth hazard rate, which shares the desirable properties of a propensity score but in a multivalued treatment setting. I find that eventual mothers and matched nonmothers enter college at the same rate, but their educational paths diverge well before the former become pregnant. This pre-pregnancy divergence creates substantial differences in ultimate educational attainment that cannot possibly be due to the childbirth itself. Controls for predetermined characteristics and fixed effects do not address this form of dynamic selection bias. A dynamic model of the simultaneous childbirth-education sequencing decision is necessary to address it.",
+  "authors": [
+    {
+      "raw": "Stange, Kevin",
+      "family": "Stange",
+      "given": "Kevin"
+    }
+  ],
+  "authors_text": "Stange, Kevin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0050-3",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0050-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0050-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0050-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

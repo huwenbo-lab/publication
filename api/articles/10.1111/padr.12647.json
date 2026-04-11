@@ -1,0 +1,40 @@
+{
+  "title": "Digital Trace Data and Demographic Forecasting: How Well Did Google Predict the US COVID-19 Baby Bust?",
+  "abstract": "At the onset of the first wave of COVID-19 in the United States, the pandemic's effect on future birthrates was unknown. In this paper, we assess whether digital trace data-often touted as a panacea for traditional data scarcity-held the potential to accurately predict fertility change caused by the COVID-19 pandemic in the United States. Specifically, we produced state-level, dynamic future predictions of the pandemic's effect on birthrates in the United States using pregnancy-related Google search data. Importantly, these predictions were made in October 2020 (and revised in February 2021), well before the birth effect of the pandemic could have possibly been known. Our analysis predicted that between November 2020 and February 2021, monthly United States births would drop sharply by approximately 12 percent, then begin to rebound while remaining depressed through August 2021. While these predictions were generally accurate in terms of the magnitude and timing of the trough, there were important misses regarding the speed at which these reductions materialized and rebounded. This ex post evaluation of an ex ante prediction serves as a powerful demonstration of the promise and pitfalls of digital trace data in demographic research.",
+  "authors": [
+    {
+      "raw": "Wilde, Joshua",
+      "family": "Wilde",
+      "given": "Joshua"
+    },
+    {
+      "raw": "Chen, Wei",
+      "family": "Chen",
+      "given": "Wei"
+    },
+    {
+      "raw": "Lohmann, Sophie",
+      "family": "Lohmann",
+      "given": "Sophie"
+    },
+    {
+      "raw": "Abdel Ghany, Jasmin",
+      "family": "Abdel Ghany",
+      "given": "Jasmin"
+    }
+  ],
+  "authors_text": "Wilde, Joshua; Chen, Wei; Lohmann, Sophie; Abdel Ghany, Jasmin",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12647",
+  "doi_url": "https://doi.org/10.1111/padr.12647",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12647",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12647.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

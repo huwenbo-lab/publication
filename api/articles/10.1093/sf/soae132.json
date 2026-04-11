@@ -1,0 +1,25 @@
+{
+  "title": "On the up and up: the job mobility of skilled return migrants",
+  "abstract": "This paper examines the labor market incorporation of skilled Indian migrants returning home after working in the United States. I analyze a novel dataset of 7,177 time-varying transnational employment histories from LinkedIn using logistic regression and survival analysis. I find that skilled Indian migrants experience occupational upgrades when re-entering their home labor market, buoyed by foreign human capital and compensating for US legal status restrictions. While immigrants often face initial occupational downgrades and job mobility constraints in foreign labor markets, return migrants experience stability, promotions and accelerated rates of job mobility at home. The paper contributes to the literature on return migration, a significant but understudied dimension of international migration due to data constraints. I offer LinkedIn employment histories as digital data source to address these limitations and leverage their rich spatio-temporal information. These data help expand prior research on return migrant wages to broader questions about transnational migrant career trajectories. The findings shed light into where high-demand migrants might maximize their career growth, and have implications for understanding the policies shaping the recruitment and retention of skilled workers in the global labor market.",
+  "authors": [
+    {
+      "raw": "Jacobs, Elizabeth",
+      "family": "Jacobs",
+      "given": "Elizabeth"
+    }
+  ],
+  "authors_text": "Jacobs, Elizabeth",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soae132",
+  "doi_url": "https://doi.org/10.1093/sf/soae132",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae132",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae132.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

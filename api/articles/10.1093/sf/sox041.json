@@ -1,0 +1,35 @@
+{
+  "title": "The Globalization of Production and Income Inequality in Rich Democracies",
+  "abstract": "Despite prominent and compelling theoretical arguments linking manufacturing imports from the global South to rising income inequality in the global North, the literature has produced decidedly mixed support for such arguments. We explain this mixed support by introducing intervening processes at the global and national levels. At the global level, evolving characteristics of global production networks (GPNs) amplify the effect of Southern imports. At the national level, wage coordination and welfare state generosity counteract the mechanisms by which Southern imports increase inequality, and thereby mitigate their effects. We conduct a time-series cross-section regression analyses of income inequality among eighteen advanced capitalist countries to test these propositions. Our analysis addresses alternative explanations, as well as validity threats related to model specification, sample composition, and measurement. We find substantial variation in the effect of Southern imports across global and national contexts. Southern imports have no systematic effect on income inequality until the magnitude of GPN activity surpasses its world-historical average, or in states with above-average levels of wage coordination and welfare state generosity. With counterfactual analyses, we show that Southern imports would have led to much different inequality trajectories in the North if there were fewer GPNs, and if the prevailing degrees of wage coordination and welfare state generosity were higher. The countervailing effects of GPNs and institutional context call for theories of inequality at the intersection of the global and the national, and raise important questions about distributional politics in the years to come.",
+  "authors": [
+    {
+      "raw": "Mahutga, Matthew C.",
+      "family": "Mahutga",
+      "given": "Matthew C."
+    },
+    {
+      "raw": "Roberts, Anthony",
+      "family": "Roberts",
+      "given": "Anthony"
+    },
+    {
+      "raw": "Kwon, Ronald",
+      "family": "Kwon",
+      "given": "Ronald"
+    }
+  ],
+  "authors_text": "Mahutga, Matthew C.; Roberts, Anthony; Kwon, Ronald",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox041",
+  "doi_url": "https://doi.org/10.1093/sf/sox041",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox041",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox041.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

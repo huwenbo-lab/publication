@@ -1,0 +1,30 @@
+{
+  "title": "Partnership Ties Shape Friendship Networks: A Dynamic Social Network Study",
+  "abstract": "Partnership ties shape friendship networks through different social forces. First, partnership ties drive clustering in friendship networks: individuals who are in a partnership tend to have common friends and befriend other couples. Second, partnership ties influence the level of homophily in these emerging friendship clusters. Partners tend to be similar in a number of attributes (homogamy). If one partner selects friends based on preferences for homophily, then the other partner may befriend the same person regardless of whether they also have homophilic preferences. Thus, two homophilic ties emerge based on a single partner's preferences. This amplification of homophily can be observed in many attributes (e.g., ethnicity, religion, age). Gender homophily, however, may be de-amplified, as the gender of partners differs in heterosexual partnerships. In our study, we follow dynamic friendship formation among 126 individuals and their cohabiting partners in a university-related graduate housing community over a period of nine months (N = 2,250 self-reported friendship relations). We find that partnership ties strongly shape the dynamic process of friendship formation. They are a main driver of local network clustering and explain a striking amount of homophily.",
+  "authors": [
+    {
+      "raw": "Stadtfeld, Christoph",
+      "family": "Stadtfeld",
+      "given": "Christoph"
+    },
+    {
+      "raw": "Pentland, Alex (Sandy)",
+      "family": "Pentland",
+      "given": "Alex (Sandy)"
+    }
+  ],
+  "authors_text": "Stadtfeld, Christoph; Pentland, Alex (Sandy)",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sov079",
+  "doi_url": "https://doi.org/10.1093/sf/sov079",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov079",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov079.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

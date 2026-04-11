@@ -1,0 +1,25 @@
+{
+  "title": "The fertility response to the Great Recession in Europe and the United States: Structural economic conditions and perceived economic uncertainty",
+  "abstract": "BACKGROUND This study further develops Goldstein et al.'s (2013) analysis of the fertility response to the Great Recession in western economies. OBJECTIVE The purpose of this paper is to shed light on the fertility reaction to different indicators of the crisis. Beyond the structural labor market conditions, I investigate the dependence of fertility rates on economic policy uncertainty, government financial risk, and consumer confidence. METHODS Following Goldstein et al. (2013), I use log-log models to assess the elasticity of age-, parity-, and education-specific fertility rates to an array of indicators. Besides the inclusion of a wider set of explanatory variables, I include more recent data (2000-2013) and I enlarge the sample to 31 European countries plus the United States. RESULTS Fertility response to unemployment in some age-and parity-specific groups has been, in more recent years, larger than estimated by Goldstein et al. (2013). Female unemployment has also been significantly reducing fertility rates. Among uncertainty measures, the drop in consumer confidence is strongly related to fertility decline and in Southern European countries the fertility response to sovereign debt risk is comparable to that of unemployment. Economic policy uncertainty is negatively related to TFR even when controlling for unemployment. CONCLUSIONS Theoretical and empirical investigation is needed to develop more tailored measures of economic and financial insecurity and their impact on birth rates.",
+  "authors": [
+    {
+      "raw": "Comolli, Chiara Ludovica",
+      "family": "Comolli",
+      "given": "Chiara Ludovica"
+    }
+  ],
+  "authors_text": "Comolli, Chiara Ludovica",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.51",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.51",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.51",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.51.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Evidence of Self-correction of Child Sex Ratios in India: A District-Level Analysis of Child Sex Ratios From 1981 to 2011",
+  "abstract": "Sex ratios in India have become increasingly imbalanced over the past decades. We hypothesize that when sex ratios become very uneven, the shortage of girls will increase girls' future value, leading sex ratios to self-correct. Using data on children under 5 from the last four Indian censuses, we examine the relationship between the sex ratio at one point in time and the change in sex ratio over the next 10 years by district. Fixed-effects models show that when accounting for unobserved district-level characteristics-including total fertility rate, infant mortality rate, percentage literate, percentage rural, percentage scheduled caste, percentage scheduled tribe, and a time trend variable-sex ratios are significantly negatively correlated with the change in sex ratio in the successive 10-year period. This suggests that self-corrective forces are at work on imbalanced sex ratios in India.",
+  "authors": [
+    {
+      "raw": "Diamond-Smith, Nadia",
+      "family": "Diamond-Smith",
+      "given": "Nadia"
+    },
+    {
+      "raw": "Bishai, David",
+      "family": "Bishai",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Diamond-Smith, Nadia; Bishai, David",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-014-0356-z",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0356-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0356-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0356-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

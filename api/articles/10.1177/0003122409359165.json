@@ -1,0 +1,35 @@
+{
+  "title": "Socioeconomic Disparities in Health over the Life Course in China: A Cohort Analysis",
+  "abstract": "This article examines social stratification in individual health trajectories for multiple cohorts in the context of China's dramatically changing macro-social environment. Using data from the China Health and Nutrition Survey, we find significant socioeconomic status (SES) differences in the mean level of health and that these SES differentials generally diverge over the life course. We also find strong cohort variations in SES disparities in the mean levels of health and health trajectories. The effect of education on health slightly decreases across successive cohorts. By contrast, the income gap in health trajectories diverges for earlier cohorts but converges for most recent cohorts. Both effects are more pronounced in rural areas. Given that these cohort effects are opposite those reported in recent U.S. studies, we discuss China's unique social, economic, and political settings. We highlight the association between SES and health behaviors, China's stage of epidemiologic transition, and the changing power of the state government and its implications for health care.",
+  "authors": [
+    {
+      "raw": "Chen, Feinian",
+      "family": "Chen",
+      "given": "Feinian"
+    },
+    {
+      "raw": "Yang, Yang",
+      "family": "Yang",
+      "given": "Yang"
+    },
+    {
+      "raw": "Liu, Guangya",
+      "family": "Liu",
+      "given": "Guangya"
+    }
+  ],
+  "authors_text": "Chen, Feinian; Yang, Yang; Liu, Guangya",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122409359165",
+  "doi_url": "https://doi.org/10.1177/0003122409359165",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122409359165",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122409359165.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

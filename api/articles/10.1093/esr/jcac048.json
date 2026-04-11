@@ -1,0 +1,40 @@
+{
+  "title": "Is early formal childcare an equalizer? How attending childcare and education centres affects children's cognitive and socio-emotional skills in Germany",
+  "abstract": "This study examines the role of formal childcare under the age of three in tackling the early social inequality in children's cognitive and socio-emotional competencies in Germany, by drawing on the new-born sample of the National Educational Panel Study. To this end, we study first whether the access to formal early childhood education and care (ECEC) differs by parents' socio-economic status (SES), by means of logistic regressions. Second, we analyse the main effect of attending ECEC institutions. Third, we ask whether the effect of attending ECEC on children's competencies differs by SES. We perform OLS regression with inverse probability weighting to address confounding bias possibly arising from selection into care arrangements. Moreover, we developed a counterfactual analysis to compare the observed SES gradient in children's competencies with two alternative extreme scenarios, one characterized by the absence of ECEC, and the other by universalistic access to ECEC. Our findings show that ECEC attendance is socially stratified and suggest an equalizing impact of ECEC institutions. We conclude that ECEC can play a compensatory function on social stratification, by making the expansion of formal early childcare expenditures a fruitful investment for more equal opportunities.",
+  "authors": [
+    {
+      "raw": "Ghirardi, Gaia",
+      "family": "Ghirardi",
+      "given": "Gaia"
+    },
+    {
+      "raw": "Baier, Tina",
+      "family": "Baier",
+      "given": "Tina"
+    },
+    {
+      "raw": "Kleinert, Corinna",
+      "family": "Kleinert",
+      "given": "Corinna"
+    },
+    {
+      "raw": "Triventi, Moris",
+      "family": "Triventi",
+      "given": "Moris"
+    }
+  ],
+  "authors_text": "Ghirardi, Gaia; Baier, Tina; Kleinert, Corinna; Triventi, Moris",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac048",
+  "doi_url": "https://doi.org/10.1093/esr/jcac048",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac048",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac048.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

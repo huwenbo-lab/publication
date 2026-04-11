@@ -1,0 +1,25 @@
+{
+  "title": "Collective action, rival incentives, and the emergence of antisocial norms",
+  "abstract": "Centralized sanctions (selective incentives) and informal norms have been advanced as distinct solutions to collective action problems. This article investigates their interaction, modeling the emergence of norms in the presence of incentives to contribute to collective goods. Computational experiments show how collective action depends on a three-way interaction among the value of incentives, the rivalness of incentives (ranging from independence to zero-sum competition), and group cohesiveness (effectiveness of peer influence). This investigation shows a broad range of conditions in which social norms promote the collective good and thus peer influence complements a centralized regime of selective incentives. It also shows conditions in which the two systems clash because incentives lead to antisocial norms that discourage contributions to collective goods. In these conditions, social scientists must reconsider the widely predicted relationships of collective action to selective incentives, group cohesiveness, and second-order free riding.",
+  "authors": [
+    {
+      "raw": "Kitts, JA",
+      "family": "Kitts",
+      "given": "JA"
+    }
+  ],
+  "authors_text": "Kitts, JA",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1177/000312240607100204",
+  "doi_url": "https://doi.org/10.1177/000312240607100204",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240607100204",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240607100204.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

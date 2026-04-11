@@ -1,0 +1,30 @@
+{
+  "title": "Poverty and macroeconomic performance across space, race, and family structure",
+  "abstract": "AbstractWe examined the effects of macroeconomic performance and social policy on the extent and depth of poverty in America using state-level panel data from the 1981–2000 waves of the Current Population Survey. We found that a strong macroeconomy at both the state and national levels reduced both the number of families who were living in poverty and the severity of poverty. The magnitude and source of these antipoverty effects, however, were not uniform across family structures and racial groups or necessarily over time. While gains in the eradication of poverty, in general, were tempered by rising wage inequality, simulations indicated that female-headed families and families that were headed by black persons experienced substantial reductions in poverty in the 1990s largely because of the growth in median wages. An auxiliary time-series analysis suggests that the expansions in the federal Earned Income Tax Credit of the 1990s accounted for upward of 50% of the reduction in after-tax income deprivation.",
+  "authors": [
+    {
+      "raw": "Gundersen, Craig",
+      "family": "Gundersen",
+      "given": "Craig"
+    },
+    {
+      "raw": "Ziliak, James P.",
+      "family": "Ziliak",
+      "given": "James P."
+    }
+  ],
+  "authors_text": "Gundersen, Craig; Ziliak, James P.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0004",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

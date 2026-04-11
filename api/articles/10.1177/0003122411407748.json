@@ -1,0 +1,25 @@
+{
+  "title": "Consequences of Parental Divorce for Child Development",
+  "abstract": "In this article, I propose a three-stage estimation model to examine the effect of parental divorce on the development of children's cognitive skills and noncognitive traits. Using a framework that includes pre-, in-, and post-divorce time periods, I disentangle the complex factors affecting children of divorce. I use the Early Childhood Longitudinal Study-Kindergarten Class 1998 to 1999 (ECLS-K), a multiwave longitudinal dataset, to assess the three-stage model. To evaluate the parameters of interest more rigorously, I employ a stage-specific ordinary least squares (OLS) model, a counterfactual matching estimator, and a piece-wise growth curve model. Within some combinations of developmental domains and stages, in particular from the in-divorce stage onward, I find negative effects of divorce even after accounting for selection factors that influence children's skills and traits at or before the beginning of the dissolution process. These negative outcomes do not appear to intensify or abate in the ensuing study period.",
+  "authors": [
+    {
+      "raw": "Kim, Hyun Sik",
+      "family": "Kim",
+      "given": "Hyun Sik"
+    }
+  ],
+  "authors_text": "Kim, Hyun Sik",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1177/0003122411407748",
+  "doi_url": "https://doi.org/10.1177/0003122411407748",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122411407748",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122411407748.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

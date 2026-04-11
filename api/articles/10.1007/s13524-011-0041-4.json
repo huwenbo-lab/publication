@@ -1,0 +1,35 @@
+{
+  "title": "The Evolution of Family Complexity from the Perspective of Nonmarital Children",
+  "abstract": "Abstract We document the incidence and evolution of family complexity from the perspective of children. Following a cohort of firstborn children whose mothers were not married at the time of their birth, we consider family structure changes over the first 10 years of the child’s life—considering both full and half-siblings who are coresidential or who live in another household. We rely on detailed longitudinal administrative data from Wisconsin that include information on the timing of subsequent births to the mother and father, and detailed information on earnings, child support, and welfare. We find that 60% of firstborn children of unmarried mothers have at least one half-sibling by age 10. Our results highlight the importance of having fertility information for both fathers and mothers: estimates of the proportion of children with half-siblings would be qualitatively lower if we had fertility information on only one parent. Complex family structures are more likely for children of parents who are younger or who have low earnings and for those in larger urban areas. Children who have half-siblings on their mother’s side are also more likely to have half-siblings on their father’s side, and vice versa, contributing to very complex family structures—and potential child support arrangements—for some children.",
+  "authors": [
+    {
+      "raw": "Cancian, Maria",
+      "family": "Cancian",
+      "given": "Maria"
+    },
+    {
+      "raw": "Meyer, Daniel R.",
+      "family": "Meyer",
+      "given": "Daniel R."
+    },
+    {
+      "raw": "Cook, Steven T.",
+      "family": "Cook",
+      "given": "Steven T."
+    }
+  ],
+  "authors_text": "Cancian, Maria; Meyer, Daniel R.; Cook, Steven T.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0041-4",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0041-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0041-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0041-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

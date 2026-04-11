@@ -1,0 +1,35 @@
+{
+  "title": "Global Value Chains and Union Decline in Rich Democracies",
+  "abstract": "This article reassesses the classic thesis linking the globalization of production to union decline. Our argument is three-fold. First, prior literature does not appreciate how the exchange conditions characterizing global value chain (GVC) relations between leading firms in rich democracies and supplier firms in less developed countries (LDCs) can undermine unionization through trade. Second, the worldwide entrenchment of GVCs as an organizational form over time, and cross-national variation in the strength and scope of two key labor market institutions (wage-coordination and Ghent systems), should moderate the effect of LDC trade on unionization. Third, trade with LDCs is endogenous in models of union decline, because high unionization often leads to offshoring. Empirically, we use an instrumental variable (IV) design and a panel dataset covering the longest historical period studied to date. IV estimates suggest that trade with LDCs reduces unionization in rich democracies; these estimates are nearly three times as large as results obtained by OLS, and they increase in size as GVCs entrench worldwide. Estimates also weaken in countries with highly coordinated wage-setting institutions and Ghent systems. Nevertheless, conditional effects and counterfactual histories suggest that GVCs cause union decline even in countries with the most union-friendly institutions, and were more important for union decline overall than either wage-coordination or Ghent systems.",
+  "authors": [
+    {
+      "raw": "Mahutga, Matthew C.",
+      "family": "Mahutga",
+      "given": "Matthew C."
+    },
+    {
+      "raw": "Gao, Manjing",
+      "family": "Gao",
+      "given": "Manjing"
+    },
+    {
+      "raw": "Pandian, Roshan K.",
+      "family": "Pandian",
+      "given": "Roshan K."
+    }
+  ],
+  "authors_text": "Mahutga, Matthew C.; Gao, Manjing; Pandian, Roshan K.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1177/00031224251315496",
+  "doi_url": "https://doi.org/10.1177/00031224251315496",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224251315496",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224251315496.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "The Genome-Wide Influence on Human BMI Depends on Physical Activity, Life Course, and Historical Period",
+  "abstract": "In this analysis, guided by an evolutionary framework, we investigate how the human genome as a whole interacts with historical period, age, and physical activity to influence body mass index (BMI). The genomic influence is estimated by (1) heritability or the proportion of variance in BMI explained by genome-wide genotype data, and (2) the random effects or the best linear unbiased predictors (BLUPs) of genome-wide association studies (GWAS) data on BMI. Data were used from the Framingham Heart Study (FHS) in the United States. The study was initiated in 1948, and the obesity data were collected repeatedly over the subsequent decades. The analyses draw analysis samples from a pool of > 8,000 individuals in the FHS. The hypothesis testing based on Pitman test, permutation Pitman test, F test, and permutation F test produces three sets of significant findings. First, the genomic influence on BMI is substantially larger after the mid-1980s than in the few decades before the mid-1980s within each age group of 21-40, 41-50, 51-60, and > 60. Second, the genomic influence on BMI weakens as one ages across the life course, or the genomic influence on BMI tends to be more important during reproductive ages than after reproductive ages within each of the two historical periods. Third, within the age group of 21-50 and not in the age group of > 50, the genomic influence on BMI among physically active individuals is substantially smaller than the influence on those who are not physically active. In summary, this study provides evidence that the influence of human genome as a whole on obesity depends on historical period, age, and level of physical activity.",
+  "authors": [
+    {
+      "raw": "Guo, Guang",
+      "family": "Guo",
+      "given": "Guang"
+    },
+    {
+      "raw": "Liu, Hexuan",
+      "family": "Liu",
+      "given": "Hexuan"
+    },
+    {
+      "raw": "Wang, Ling",
+      "family": "Wang",
+      "given": "Ling"
+    },
+    {
+      "raw": "Shen, Haipeng",
+      "family": "Shen",
+      "given": "Haipeng"
+    },
+    {
+      "raw": "Hu, Wen",
+      "family": "Hu",
+      "given": "Wen"
+    }
+  ],
+  "authors_text": "Guo, Guang; Liu, Hexuan; Wang, Ling; Shen, Haipeng; Hu, Wen",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0421-2",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0421-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0421-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0421-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

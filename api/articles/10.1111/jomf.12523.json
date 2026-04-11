@@ -1,0 +1,35 @@
+{
+  "title": "Childhood Family Structure and the Accumulation of Wealth Across the Life Course",
+  "abstract": "Objective: The aim of this article is to document how childhood family structure is related to the accumulation of wealth. Background: Childhood family structure is a commonly studied determinant of child and adult outcomes, but little is known about its effects on wealth accumulation. Wealth is affected by a wide variety of factors, including human capital formation, family dynamics, and intergenerational transfers. Studying wealth therewith sheds light on how childhood family structure relates to the accumulation of advantages across life. Method: Data from the 1979 National Longitudinal Survey of Youth (N = 7,066) are employed to document wealth differences at ages 47 to 55. Growth curve models are estimated to understand at what ages these differences emerge. Results: A median wealth penalty of at least $61,600 at ages 47 to 55 is observed for individuals who did not live continuously with both parents from birth to age 18, depending on the alternative childhood family trajectory considered. A subsequent mediation analysis of the wealth penalty related to the permanent departure of a parent from the household during childhood points at human capital formation and own family dynamics as the primary channels through which wealth differences are produced; intergenerational transfers matter rather less. Conclusion: Childhood family structure has moderate effects on multiple different life domains that accrue during the life course and collectively add up to a more considerable penalty in wealth.",
+  "authors": [
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    },
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    },
+    {
+      "raw": "Geven, Koen",
+      "family": "Geven",
+      "given": "Koen"
+    }
+  ],
+  "authors_text": "Bernardi, Fabrizio; Boertien, Diederik; Geven, Koen",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12523",
+  "doi_url": "https://doi.org/10.1111/jomf.12523",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12523",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12523.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

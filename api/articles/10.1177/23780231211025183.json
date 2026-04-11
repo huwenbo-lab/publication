@@ -1,0 +1,35 @@
+{
+  "title": "Science Graduate Students’ Reports of Discrimination Due to Gender, Race, and Religion: Identifying Shared and Unique Predictors",
+  "abstract": "Students from underrepresented groups face numerous challenges during their scientific education and training, including discrimination. Research tends to investigate student experiences with discrimination on the basis of a single characteristic, but an intersectional framework is necessary for understanding the complexity of discrimination. Using data from a survey of more than 1,300 U.S. graduate students in five natural and social science disciplines, the authors examine the predictors of reported discrimination across three different characteristics: gender, race, and religion. They find that nearly two thirds of students report discrimination on at least one characteristic, while almost 30 percent report discrimination along multiple characteristics. Multivariate analyses show that a student’s report of discrimination on any one characteristic is significantly associated with increased odds of reporting discrimination on each of the other two characteristics. This suggests that an individual’s experiences within one social location are often intertwined with and influence their experiences with in other social locations.",
+  "authors": [
+    {
+      "raw": "Scheitle, Christopher P.",
+      "family": "Scheitle",
+      "given": "Christopher P."
+    },
+    {
+      "raw": "Remsburg, Taylor",
+      "family": "Remsburg",
+      "given": "Taylor"
+    },
+    {
+      "raw": "Platt, Lisa F.",
+      "family": "Platt",
+      "given": "Lisa F."
+    }
+  ],
+  "authors_text": "Scheitle, Christopher P.; Remsburg, Taylor; Platt, Lisa F.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211025183",
+  "doi_url": "https://doi.org/10.1177/23780231211025183",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211025183",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211025183.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

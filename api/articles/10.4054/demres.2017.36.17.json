@@ -1,0 +1,30 @@
+{
+  "title": "The quality of periodic fertility measures in EU-SILC",
+  "abstract": "BACKGROUND The European Union Statistics on Income and Living Conditions (EU-SILC) are increasingly used in demographic analysis, due to their large country coverage, the availability of harmonized socioeconomic measures, and the possibility to merge partners. However, so far there exists no comprehensive analysis of the representativeness of the fertility behavior reported by EU-SILC. OBJECTIVE This paper quantifies the quality of periodic fertility measures in EU-SILC. METHODS We compare periodic fertility measures obtained with EU-SILC to unbiased measures from the Human Fertility Database (HFD) for several European countries, by applying a cross-sectional perspective. RESULTS We show that EU-SILC measures of periodic fertility are biased downward, mainly due to attrition, while births of order one for ages 20. 29 are particularly underreported. However, we find no evidence of socioeconomic differentials in attrition. CONCLUSION AND CONTRIBUTION Our results suggest that for the majority of European countries, EU-SILC can be used for the analysis of childbearing behavior when respecting the measures of precaution mentioned in this article. These contain, for example, applying a retrospective approach and differentiating by rotation groups when calculating aggregate measures of periodic fertility.",
+  "authors": [
+    {
+      "raw": "Greulich, Angela",
+      "family": "Greulich",
+      "given": "Angela"
+    },
+    {
+      "raw": "Dasre, Aurelien",
+      "family": "Dasre",
+      "given": "Aurelien"
+    }
+  ],
+  "authors_text": "Greulich, Angela; Dasre, Aurelien",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.17",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

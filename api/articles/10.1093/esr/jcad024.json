@@ -1,0 +1,30 @@
+{
+  "title": "The impact of religious involvement on trust, volunteering, and perceived cooperativeness: evidence from two British panels",
+  "abstract": "Does religious involvement make people more trusting and prosocial? Considering conflicting theories and mixed prior evidence, we subject this question to a stringent test using large-scale, representative data from the British Household Panel Survey (1991-2009, N approximate to 26,000) and the UK Household Longitudinal Study (2009-2021, N approximate to 80,000). We employ cross-lagged panel models with individual fixed effects to account for time-invariant confounders and reverse causality-two issues that have haunted earlier research. We find that frequency of religious service attendance on average has a positive impact on generalized trust, volunteering, and perceived cooperativeness. Other indicators of religious involvement have weaker effects. We also find variation across religious traditions: the effects of religious attendance are mostly positive for Anglicans and other Protestants, but weaker and mostly statistically insignificant for Catholics, Hindus, and the unaffiliated, and even negative for Muslims when the outcome is perceived cooperativeness. Our findings are robust to alternative model set-ups and hold up after accounting for neighbourhood religious composition, respondent and interviewer ethnicity, and other potential moderators and confounders. Altogether, our study shows that religious involvement can foster prosocial behaviours and attitudes, although in our study this effect is largely restricted to religious service attendance and majority religions.",
+  "authors": [
+    {
+      "raw": "Aksoy, Ozan",
+      "family": "Aksoy",
+      "given": "Ozan"
+    },
+    {
+      "raw": "Wiertz, Dingeman",
+      "family": "Wiertz",
+      "given": "Dingeman"
+    }
+  ],
+  "authors_text": "Aksoy, Ozan; Wiertz, Dingeman",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad024",
+  "doi_url": "https://doi.org/10.1093/esr/jcad024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

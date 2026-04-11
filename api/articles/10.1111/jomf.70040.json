@@ -1,0 +1,30 @@
+{
+  "title": "Unexpected Changes in Rural Families: Fewer Married Parents, Lower Child Poverty",
+  "abstract": "Objective To examine whether family change in rural America is widening the rural-urban child poverty gap and increasing inequalities between children raised in married parent families and those raised in other family types.Background Mounting evidence of falling marriage rates across rural areas has led to concerns that child poverty rates have increased. However, new methods of measuring poverty and recent increases in Child Tax Credits challenge these assumptions about rural child poverty trends and the poverty penalties associated with nonmarital families.Methods Current Population Survey data are used to estimate rural and urban trends in family structures and child poverty, using the Supplemental Poverty Measure, from 2000 to 2023. Logistic regressions test whether the poverty penalties associated with living in four kinds of nonmarital families (cohabiting, formerly married, never married, and kinship care) have changed for rural and urban children over this period.Results By 2023, significantly more rural (37.9%) than urban (32.5%) children lived in nonmarital families; simultaneously, rural poverty rates declined significantly. Further, although rural children living in nonmarital families faced greater poverty penalties than urban children in 2000-2003, by 2020-2023 these penalties had diminished substantially for both rural and urban children, and the elevated poverty penalties for rural children had disappeared.Conclusions Despite a sizable increase in rural children living with nonmarried parents, rural child poverty rates sharply declined.",
+  "authors": [
+    {
+      "raw": "Brooks, Matthew M.",
+      "family": "Brooks",
+      "given": "Matthew M."
+    },
+    {
+      "raw": "Clark, Shelley",
+      "family": "Clark",
+      "given": "Shelley"
+    }
+  ],
+  "authors_text": "Brooks, Matthew M.; Clark, Shelley",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70040",
+  "doi_url": "https://doi.org/10.1111/jomf.70040",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70040",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70040.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

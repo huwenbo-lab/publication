@@ -1,0 +1,45 @@
+{
+  "title": "Measuring Maternal Nonstandard Work in Survey Data",
+  "abstract": "Surveys differ in the measurement of nonstandard work, such that some surveys require respondents to indicate whether they work either a standard or a nonstandard schedule, whereas others allow respondents to indicate that they work both types of schedules. We test whether these measurement decisions influence the estimated prevalence of maternal nonstandard work, using data from two sources: the Current Population Survey (N = 1,430) and the Fragile Families and Child Wellbeing Study (N = 2,524). Using propensity score techniques, we find that giving respondents the option of reporting work at more than one type of schedule doubles the prevalence of nonstandard work, compared to allowing respondents to indicate only one type of schedule. Our results suggest that many mothers of young children regularly work at both standard and nonstandard times and that mutually exclusive conceptualizations of standard and nonstandard work schedules do not fully capture their experiences.",
+  "authors": [
+    {
+      "raw": "Dunifon, Rachel",
+      "family": "Dunifon",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Kalil, Ariel",
+      "family": "Kalil",
+      "given": "Ariel"
+    },
+    {
+      "raw": "Crosby, Danielle A.",
+      "family": "Crosby",
+      "given": "Danielle A."
+    },
+    {
+      "raw": "Su, Jessica Houston",
+      "family": "Su",
+      "given": "Jessica Houston"
+    },
+    {
+      "raw": "DeLeire, Thomas",
+      "family": "DeLeire",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Dunifon, Rachel; Kalil, Ariel; Crosby, Danielle A.; Su, Jessica Houston; DeLeire, Thomas",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2013,
+  "doi": "10.1111/jomf.12017",
+  "doi_url": "https://doi.org/10.1111/jomf.12017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

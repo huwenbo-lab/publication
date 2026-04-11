@@ -1,0 +1,30 @@
+{
+  "title": "Does Fertility Behavior Spread among Friends?",
+  "abstract": "By integrating insights from economic and sociological theories, this article investigates whether and through which mechanisms friends' fertility behavior affects an individual's transition to parenthood. By exploiting the survey design of the Add Health data, our strategy allows us to properly identify interaction effects and distinguish them from selection and contextual effects. We use a series of discrete-time event history models with random effects at the dyadic level. Results show that, net of confounding effects, a friend's childbearing increases an individual's risk of becoming a parent. We find a short-term, curvilinear effect: an individual's risk of childbearing starts increasing after a friend's childbearing, reaches its peak approximately two years later, and then decreases.",
+  "authors": [
+    {
+      "raw": "Balbo, Nicoletta",
+      "family": "Balbo",
+      "given": "Nicoletta"
+    },
+    {
+      "raw": "Barban, Nicola",
+      "family": "Barban",
+      "given": "Nicola"
+    }
+  ],
+  "authors_text": "Balbo, Nicoletta; Barban, Nicola",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122414531596",
+  "doi_url": "https://doi.org/10.1177/0003122414531596",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122414531596",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122414531596.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

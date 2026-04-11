@@ -1,0 +1,30 @@
+{
+  "title": "Child Incarceration and Maternal Alcohol Use: Disentangling Within- and Between-Person Processes",
+  "abstract": "Having a child incarcerated can take a toll on the physical, psychological, and financial well-being of mothers. These factors could, in turn, affect behavioral outcomes of mothers, such as alcohol use patterns. Some mothers might drink to cope with the experience of having a child incarcerated, but others may reduce alcohol use for various reasons. Given these uncertainties, the authors examined the association between child incarceration and maternal alcohol consumption (i.e., any use, frequency, quantity, and binge drinking). Eight waves of nationally representative data from the National Longitudinal Survey of Youth 1979 cohort were linked with the National Longitudinal Survey Children and Young Adults ( n = 3,837 mothers; 678 had children incarcerated). Multilevel generalized linear regression models showed that compared with mothers with no child incarceration, mothers of ever-incarcerated children were more likely to binge drink and consume more drinks when drinking (between-person effects). In contrast, following child incarceration, women consumed alcohol less frequently and were less likely to binge drink than they were prior to experiencing child incarceration (within-person effects). Additional research should focus on mechanisms that explain these opposing associations to identify protective factors and institutional supports for women whose children have been incarcerated.",
+  "authors": [
+    {
+      "raw": "Greene, Kaylin",
+      "family": "Greene",
+      "given": "Kaylin"
+    },
+    {
+      "raw": "Warner, Cody",
+      "family": "Warner",
+      "given": "Cody"
+    }
+  ],
+  "authors_text": "Greene, Kaylin; Warner, Cody",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241287670",
+  "doi_url": "https://doi.org/10.1177/23780231241287670",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241287670",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241287670.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

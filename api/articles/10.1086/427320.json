@@ -1,0 +1,30 @@
+{
+  "title": "Sociology and simulation: Statistical and qualitative cross-validation",
+  "abstract": "Agent-based simulation modeling enables the construction of formal models that simultaneously can be microvalidated against accounts of individual behavior and macrovalidated against aggregate data that show the characteristics of many socially derived time series. These characteristics ( leptokurtosis and clustered volatility) have two important consequences: first, they also appear in suitably structured agent-based models where, like real social actors, agents are socially embedded and metastable; second, their presence precludes the use of many standard statistical techniques like the chi-square test. These characteristics in time-series data indicate that a suitable agent-based model rather than a standard statistical model will be appropriate. This is illustrated with an agent-based model of mutual social influence on domestic water demand. The consequences for many frequently used statistical techniques are discussed.",
+  "authors": [
+    {
+      "raw": "Moss, S",
+      "family": "Moss",
+      "given": "S"
+    },
+    {
+      "raw": "Edmonds, B",
+      "family": "Edmonds",
+      "given": "B"
+    }
+  ],
+  "authors_text": "Moss, S; Edmonds, B",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2005,
+  "doi": "10.1086/427320",
+  "doi_url": "https://doi.org/10.1086/427320",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F427320",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/427320.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

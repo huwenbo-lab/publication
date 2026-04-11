@@ -1,0 +1,30 @@
+{
+  "title": "The Endogeneity of Race: Black Racial Identification and Men's Earnings in Mexico",
+  "abstract": "A growing body of sociological research has shown that racial identification is not only fluid, but crucially depends on other individual- and societal-level factors. When such factors are also associated with socioeconomic outcomes such as earnings, estimates of the disadvantage experienced by individuals because of how they identify racially obtained from standard regression models may be biased. We illustrate this potential bias using data from a large-scale survey conducted by the Mexican census bureau. This survey is the first by the government agency since the country's independence to include a question on black identification. We find evidence of a substantial bias in estimates of racial disadvantage. Results from our initial models treating racial self-identification as an exogenous predictor indicate that black men have higher earnings than non-black men. However, when we use an instrumental variables model that treats racial self-identification as endogenous, that is, as a function of the same unobserved characteristics as individuals' earnings, we find a significant negative effect of black identification on earnings. While previous studies have acknowledged the endogeneity of race, ours is the first to explicitly model racial self-identification as an endogenous predictor to obtain an unbiased estimate of its effect on individuals' socioeconomic conditions.",
+  "authors": [
+    {
+      "raw": "Villarreal, Andres",
+      "family": "Villarreal",
+      "given": "Andres"
+    },
+    {
+      "raw": "Bailey, Stanley R.",
+      "family": "Bailey",
+      "given": "Stanley R."
+    }
+  ],
+  "authors_text": "Villarreal, Andres; Bailey, Stanley R.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz096",
+  "doi_url": "https://doi.org/10.1093/sf/soz096",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz096",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz096.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

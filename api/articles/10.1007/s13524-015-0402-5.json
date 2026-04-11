@@ -1,0 +1,25 @@
+{
+  "title": "Effects of Early US Compulsory Schooling Laws on Educational Assortative Mating: The Importance of Context",
+  "abstract": "Modernization theory predicts that rising education should increase assortative mating by education and decrease sorting by race. Recent research suggests that effects of educational expansion depend on contextual factors, such as economic development. Using log-linear and log-multiplicative models of male household heads ages 36 to 75 in the 1940 U.S. census data-the first U.S. census with educational attainment information-I investigate how educational assortative mating changed with one instance of educational expansion: early U.S. compulsory school attendance laws. To improve on existing research and distinguish effects of expansion from changes due to particular years or cohorts, I capitalize on state variation in the timing of these compulsory laws (ranging from 1852 to 1918). Aggregate results suggest that compulsory laws had minimal impact on assortative mating. However, separate analyses by region (and supplemental analyses by race) reveal that assortative mating by education decreased with the laws in the South but increased in the North. Whether due to economic, legal, political, or other differences, results suggest that the implications of educational expansion for marital sorting depend on context. Contemporary implications are discussed in light of President Obama's 2012 suggested extension of compulsory schooling to age 18.",
+  "authors": [
+    {
+      "raw": "Rauscher, Emily",
+      "family": "Rauscher",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Rauscher, Emily",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0402-5",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0402-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0402-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0402-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

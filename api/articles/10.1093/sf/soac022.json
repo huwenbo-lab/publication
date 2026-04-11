@@ -1,0 +1,35 @@
+{
+  "title": "Subjective Well-Being Scarring Through Unemployment: New Evidence from a Long-Running Panel",
+  "abstract": "Scarring effects of unemployment on subjective well-being (SWB), i.e., negative effects that remain even after workers reenter employment, are well documented in the literature. Nevertheless, the theoretical mechanisms by which unemployment leads to long-lasting negative consequences for SWB are still under debate. Thus, we theorize that unemployment can have an enduring impact mainly through (1) the experience of unemployment as an incisive life event and (2) unemployment as a driver of future unemployment. In the empirical part, we focus on one important dimension of SWB: overall life satisfaction. Based on advanced longitudinal modeling that controls for group-specific trends, we estimate scarring through unemployment using the German Socio-Economic Panel (SOEP). Our results consistently show a large negative effect of unemployment on life satisfaction as well as significant scarring effects that last at least 5 years after reemployment for both men and women as well as for short- and long-term unemployment spells. Further analyses reveal that repeated periods of unemployment drive these effects and cause even longer lasting scarring, implying that there are hardly any adaptations to unemployment that buffer its effect on life satisfaction. We conclude that scarring effects mainly work through repeated episodes of unemployment. Regarding policy implications, our findings suggest that preventing unemployment, regardless of its duration, is beneficial for individual well-being not only in the short term.",
+  "authors": [
+    {
+      "raw": "Eberl, Andreas",
+      "family": "Eberl",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Collischon, Matthias",
+      "family": "Collischon",
+      "given": "Matthias"
+    },
+    {
+      "raw": "Wolbring, Tobias",
+      "family": "Wolbring",
+      "given": "Tobias"
+    }
+  ],
+  "authors_text": "Eberl, Andreas; Collischon, Matthias; Wolbring, Tobias",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac022",
+  "doi_url": "https://doi.org/10.1093/sf/soac022",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac022",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac022.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

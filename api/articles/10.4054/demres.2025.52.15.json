@@ -1,0 +1,35 @@
+{
+  "title": "On the momentum of pseudostable populations",
+  "abstract": "BACKGROUND Keyfitz introduced in 1971 the population momentum - that is, the amount of further population growth (decline) if an instantaneous reduction (increase) of fertility to the replacement level occurred in a stable population. OBJECTIVE We wanted to find analytical results for the momentum of pseudostable populations - that is, populations that relax the strict assumptions of the stable population model and allow fertility reductions at a constant rate. METHODS The formal methods to analyze pseudostable populations are similar to those used in classical stable population theory. Numerical simulations, based on data from the United Nations' World Population Prospects, show that the simplifying assumptions of our formal methods - rectangular survival and childbearing at a single age - do not affect the qualitative nature of our findings. RESULTS The pseudostable population momentum is a monotonously declining S-shaped function approaching zero with increasing time. Maximum momentum converges to a theoretical upper limit defined by the ratio of life expectancy at birth and the mean age at childbearing. We prove that the timing, when the momentum is one, occurs when the net reproductive rate is already smaller than one - unlike in stable populations. CONCLUSIONS Pseudostable populations describe the transition from a very young to a very old population. By deriving the population momentum for pseudostable populations, we are extending the analytical understanding of population dynamics for models that are less restrictive than the canonical stable population model.",
+  "authors": [
+    {
+      "raw": "Feichtinger, Gustav",
+      "family": "Feichtinger",
+      "given": "Gustav"
+    },
+    {
+      "raw": "Rau, Roland",
+      "family": "Rau",
+      "given": "Roland"
+    },
+    {
+      "raw": "Novak, Andreas J.",
+      "family": "Novak",
+      "given": "Andreas J."
+    }
+  ],
+  "authors_text": "Feichtinger, Gustav; Rau, Roland; Novak, Andreas J.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.15",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

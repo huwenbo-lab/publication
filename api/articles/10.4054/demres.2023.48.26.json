@@ -1,0 +1,35 @@
+{
+  "title": "A test of the predictive validity of relative versus absolute income for self-reported health and well-being in the United States",
+  "abstract": "BACKGROUNDA classic debate concerns whether absolute or relative income is more salient. Absolute values resources as constant across time and place while relative contextualizes one's hierarchical location in the distribution of a time and place.OBJECTIVEThis study investigates specifically whether absolute income or relative income matters more for health and well-being.METHODSWe exploit within-person, within-age, and within-time variation with higher-quality income measures and multiple health and well-being outcomes in the United States. Using the Panel Study of Income Dynamics and the Cross-National Equivalent File, we estimate three-way fixed effects models of self-rated health, poor health, psychological distress, and life satisfaction.RESULTSFor all four outcomes, relative income has much larger standardized coefficients than absolute income. Robustly, the confidence intervals for relative income do not overlap with zero. By contrast, absolute income mostly has confidence intervals that overlap with zero, and its coefficient is occasionally signed in the wrong direction. A variety of robustness checks support these results.CONCLUSIONSRelative income has far greater predictive validity than absolute income for self-reported health and well-being.CONTRIBUTIONCompared to earlier studies, this study provides a more rigorous comparison and test of the predictive validity of absolute and relative income that is uniquely conducted with data on the United States. This informs debates on income measurement, the sources of health and well-being, and inequalities generally. Plausibly, these results can guide any analysis that includes income in models.",
+  "authors": [
+    {
+      "raw": "Brady, David",
+      "family": "Brady",
+      "given": "David"
+    },
+    {
+      "raw": "Curran, Michaela",
+      "family": "Curran",
+      "given": "Michaela"
+    },
+    {
+      "raw": "Carpiano, Richard M.",
+      "family": "Carpiano",
+      "given": "Richard M."
+    }
+  ],
+  "authors_text": "Brady, David; Curran, Michaela; Carpiano, Richard M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.26",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Populist Style in American Politics: Presidential Campaign Discourse, 1952-1996",
+  "abstract": "This paper examines populist claims-making in US presidential elections. We define populism as a discursive strategy that juxtaposes the virtuous populace with a corrupt elite and views the former as the sole legitimate source of political power. In contrast to past research, we argue that populism is best operationalized as an attribute of political claims rather than a stable ideological property of political actors. This analytical strategy allows us to systematically measure how the use of populism is affected by a variety of contextual factors. Our empirical case consists of 2,406 speeches given by American presidential candidates between 1952 and 1996, which we code using automated text analysis. Populism is shown to be a common feature of presidential politics among both Democrats and Republicans, but its prevalence varies with candidates' relative positions in the political field. In particular, we demonstrate that the probability of a candidate's reliance on populist claims is directly proportional to his distance from the center of power (in this case, the presidency). This suggests that populism is primarily a strategic tool of political challengers, and particularly those who have legitimate claims to outsider status. By examining temporal changes in populist claims-making on the political left and right, its variation across geographic regions and field positions, and the changing content of populist frames, our paper contributes to the debate on populism in modern democracies, while integrating field theory with the study of institutional politics.",
+  "authors": [
+    {
+      "raw": "Bonikowski, Bart",
+      "family": "Bonikowski",
+      "given": "Bart"
+    },
+    {
+      "raw": "Gidron, Noam",
+      "family": "Gidron",
+      "given": "Noam"
+    }
+  ],
+  "authors_text": "Bonikowski, Bart; Gidron, Noam",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sov120",
+  "doi_url": "https://doi.org/10.1093/sf/sov120",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov120",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov120.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Paradox Between Immigrant Advantages in Morbidity and Mortality: Dynamic Patterns and Tentative Explanations",
+  "abstract": "Recent research indicates that immigrants are more likely to experience chronic conditions and disabilities than natives at older ages, yet they continue to exhibit lower overall mortality, thus suggesting a morbidity-mortality paradox. We utilize the IPUMS National Health Interview Survey 2002-2018 with linked mortal ity data through 2019 (n = 405,270) to comprehensively investigate how this paradox unfolds with age for various groups of immigrants. The analysis shows that immi grants' advantages in chronic conditions and disabilities narrow or even disappear at old ages, whereas their mortality advantages continuously increase with age. These patterns exist for immigrants of different ethnoracial, sex, and educational groups. The decomposition analysis reveals that the narrowing disability gap is due to immigrants' increasing prevalence of mental illness and diabetes, shrinking advantages in lung diseases and musculoskeletal conditions, and increasing vulnerability to the disabling effects of major chronic conditions. However, immigrants are less likely to die from chronic diseases and disabilities, and this advantage strengthens with age, widening the nativity gap in mortality risk with age. We suggest that health based selection might simultaneously postpone the onset of chronic diseases and disabilities to later ages for immigrants and better enable them to weather the mortality consequences of the dis eases and disabilities.",
+  "authors": [
+    {
+      "raw": "Zheng, Hui",
+      "family": "Zheng",
+      "given": "Hui"
+    },
+    {
+      "raw": "Yu, Wei-hsin",
+      "family": "Yu",
+      "given": "Wei-hsin"
+    }
+  ],
+  "authors_text": "Zheng, Hui; Yu, Wei-hsin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11868456",
+  "doi_url": "https://doi.org/10.1215/00703370-11868456",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11868456",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11868456.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

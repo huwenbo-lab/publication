@@ -1,0 +1,40 @@
+{
+  "title": "Mortality by Cause of Death in Brazil: A Research Note on the Effects of the COVID-19 Pandemic and Contribution to Changes in Life Expectancy at Birth",
+  "abstract": "We analyze and quantify the ways the COVID-19 pandemic affected other causes of death in Brazil in 2020 and 2021. We decompose age-standardized mortality rate time series for 2010-2021 into three additive components: trend, seasonal, and remainder. Given the long-term trend and historical seasonal variation, we assume that most of the impact of the COVID-19 pandemic will be left in the remainder. We use a regression model to test this assumption. We decompose the contributions of COVID19 deaths (direct effect) and those of other causes (indirect effects) to the annual change in life expectancy at birth (e0) from 2017 to 2021. The COVID-19 pandemic not only increased rates for other causes of death but also decreased rates for some causes. Broadly, the remainders mirror the COVID-19 pandemic waves. The direct effects of the pandemic reduced e0 by 1.88 years in 2019-2020 and by 1.77 in 2020-2021. Indirect effects increased e0 by 0.44 in 2019-2020 and had virtually no effect on e0 in 2020-2021. Whether the trajectories of mortality rates and annual gains in e0 will return to prepandemic levels and their interregional gradients depend on whether a nonnegligible number of patients who recovered from COVID-19 will suffer premature mortality.",
+  "authors": [
+    {
+      "raw": "Fernandes, Fernando",
+      "family": "Fernandes",
+      "given": "Fernando"
+    },
+    {
+      "raw": "Turra, Cassio M.",
+      "family": "Turra",
+      "given": "Cassio M."
+    },
+    {
+      "raw": "Franca, Giovanny V. A.",
+      "family": "Franca",
+      "given": "Giovanny V. A."
+    },
+    {
+      "raw": "Castro, Marcia C.",
+      "family": "Castro",
+      "given": "Marcia C."
+    }
+  ],
+  "authors_text": "Fernandes, Fernando; Turra, Cassio M.; Franca, Giovanny V. A.; Castro, Marcia C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11862487",
+  "doi_url": "https://doi.org/10.1215/00703370-11862487",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11862487",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11862487.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Recovering the Missing Middle: A Mesocomparative Analysis of Within-Group Inequality, 1970-2011",
+  "abstract": "This study assesses the causes of within-group inequality, or the inequality occurring among workers and households otherwise similar on observed characteristics. The author situates his research in a longitudinal analysis of local labor markets to determine the heterogeneous set of causes of within-group inequality. A data set is constructed locating within-and between-group portions of male wage, female wage, and household income inequality from nine waves of the integrated public use microdata series from the U.S. census in 722 temporally stable geographical units that cover the entire contiguous United States. Results from heteroscedastic and multilevel repeated-measures regression models reveal that within-group inequality follows economic development along a U-shaped pattern and that the well-established curvilinear relationship between development and inequality occurs specifically through the within-group portion of wages and incomes. Other factors-including sector change, occupational task concentration, educational expansion, urbanization, and deinstitutionalization-contribute to explain the association between within-group inequality and economic development.",
+  "authors": [
+    {
+      "raw": "VanHeuvelen, Tom",
+      "family": "VanHeuvelen",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "VanHeuvelen, Tom",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2018,
+  "doi": "10.1086/695640",
+  "doi_url": "https://doi.org/10.1086/695640",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F695640",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/695640.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

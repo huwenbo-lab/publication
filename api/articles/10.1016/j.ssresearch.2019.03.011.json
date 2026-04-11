@@ -1,0 +1,35 @@
+{
+  "title": "Relative deprivation in context: How contextual status homogeneity shapes the relationship between disadvantaged social status and health",
+  "abstract": "We examine the relationship between disadvantaged social status and adverse health outcomes within a context-contingent thesis of relative deprivation. We argue that the health effect of low relative status depends on contextual status homogeneity, which is measured as income inequality and group diversity. Applying mixed-effect modeling to the pooled 2011-2013 Chinese General Social Survey and exploring the cross-level interactions, we found that 1) people in the bottom socioeconomic quartile report significantly better health when contextual income inequality is lower; 2) racial-ethnic minorities report significantly better health when contextual ethnic diversity is higher; and 3) religious minorities also report significantly better health when contextual religious diversity is higher. Ethnic minorities and Muslims even report better health than the majorities in highly diverse contexts. Thus, contextual status homogeneity can modify or even eliminate the health disparities caused by relative deprivation. The context-level moderation of relative deprivation may be explained by the processes of social comparison, institutional resources, and social capital formation. Our findings suggest that health disparities are an interactive product of contextual homogeneity and individual's relative deprivation, and underscore the importance of the nature of the social environment where relative deprivation occurs. In this way, we contribute to knowledge about reducing health disparities along the social gradient.",
+  "authors": [
+    {
+      "raw": "Yang, Xiaozhao Yousef",
+      "family": "Yang",
+      "given": "Xiaozhao Yousef"
+    },
+    {
+      "raw": "Hu, Anning",
+      "family": "Hu",
+      "given": "Anning"
+    },
+    {
+      "raw": "Schieman, Scott",
+      "family": "Schieman",
+      "given": "Scott"
+    }
+  ],
+  "authors_text": "Yang, Xiaozhao Yousef; Hu, Anning; Schieman, Scott",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.03.011",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.03.011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.03.011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.03.011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Looking at Population Health Beyond Male and Female: Implications of Transgender Identity and Gender Nonconformity for Population Health",
+  "abstract": "Looking beyond binary measurements of male or female can illuminate health inequality patterns that correspond to gender identity rather than biological sex. This study examines disparities in overall health among transgender men, transgender women, gender-nonconforming adults, and cisgender (nontransgender) men and women in the U.S. population. Behavioral Risk Factor Surveillance System (BRFSS) data from 32 U.S. states and territories between 2014 and 2016 yield an analytic sample that identifies 2,229 transgender and gender-nonconforming adults and 516,753 cisgender adults. Estimates from logistic regression models, using cisgender men as a reference group, show that gender-nonconforming respondents have significantly higher odds of reporting poor self-rated health than any other gender identity group. Transgender men also display higher odds of reporting poor health in some models, corresponding to their relative socioeconomic disadvantage. I find no apparent health disadvantage among transgender women and a persistent, if slight, disadvantage among cisgender women. Gender-nonconforming respondents' predicted probabilities of reporting poor health remain nearly twice as high as those of cisgender men after adjustments for demographic, socioeconomic, and behavioral factors. Their persistent patterns of health-related disadvantage underscore the need for higher-quality data on gender-nonconforming respondents that account for sex assigned at birth.",
+  "authors": [
+    {
+      "raw": "Lagos, Danya",
+      "family": "Lagos",
+      "given": "Danya"
+    }
+  ],
+  "authors_text": "Lagos, Danya",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0714-3",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0714-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0714-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0714-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

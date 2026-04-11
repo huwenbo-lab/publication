@@ -1,0 +1,30 @@
+{
+  "title": "Female Labor Force Participation in Sub-Saharan Africa: A Cohort Analysis",
+  "abstract": "Female labor force participation rates have been stagnating despite rising female education in sub-Saharan Africa since the turn of the millennium. Using representative and repeated census data from a heterogeneous sample of 13 sub-Saharan African countries, this paper analyzes female labor force participation from a demographic perspective. We show that enrollment in education is substantially higher among the most recent female cohorts than among the earlier-born ones. The higher enrollment mechanically depresses female labor force participation, weakening the relationship between female labor force participation and education. After taking this cohort trend into account, we find a strong and positive association between female labor force participation and female education. We further find a cohort trend toward higher female employment in the nonprimary sector and a positive association between female employment in the nonprimary sector and female education. The higher investments in education by younger female cohorts, together with the demographics of sub-Saharan African countries, have implications for a potentially arising demographic dividend.",
+  "authors": [
+    {
+      "raw": "Backhaus, Andreas",
+      "family": "Backhaus",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Loichinger, Elke",
+      "family": "Loichinger",
+      "given": "Elke"
+    }
+  ],
+  "authors_text": "Backhaus, Andreas; Loichinger, Elke",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2022,
+  "doi": "10.1111/padr.12492",
+  "doi_url": "https://doi.org/10.1111/padr.12492",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12492",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12492.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

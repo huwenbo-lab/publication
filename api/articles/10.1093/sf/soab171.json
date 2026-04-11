@@ -1,0 +1,35 @@
+{
+  "title": "The Precarity of Self-Employment among Low- and Moderate-Income Households",
+  "abstract": "Many people in the United States have achieved economic stability through self-employment and are often seen as embracing the entrepreneurial spirit and seizing opportunity. Yet, research also suggests that self-employment may be precarious for many people in the lower socioeconomic strata. Drawing on a unique dataset that combines longitudinal survey data with administrative tax data for a sample of low- and moderate-income (LMI) workers, we bring new evidence to bear on this debate by examining the link between self-employment and economic insecurity. Overall, our results show that self-employment is associated with greater economic insecurity among LMI workers compared with wage-and-salary employment. For instance, compared with their wage-and-salary counterparts, the self-employed have 78, 168, and 287 percent greater odds of having an income below basic expenses, and experiencing an unexpected income decline and high levels of income volatility, respectively. We also find that differences in financial endowment and access to health insurance are key drivers in explaining the relationship between employment type and economic insecurity, as being able to access $2,000 in an emergency greatly lowers the odds of budgetary constraint, whereas lack of health insurance increases those odds. These findings suggest that formal work arrangements with wages and benefits offered by an employer promotes greater economic stability among LMI workers compared with informal work arrangements via self-employment. We discuss implications of these results for future research and policy initiatives seeking to promote economic wellbeing through entrepreneurship.",
+  "authors": [
+    {
+      "raw": "Auguste, Daniel",
+      "family": "Auguste",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Roll, Stephen",
+      "family": "Roll",
+      "given": "Stephen"
+    },
+    {
+      "raw": "Despard, Mathieu",
+      "family": "Despard",
+      "given": "Mathieu"
+    }
+  ],
+  "authors_text": "Auguste, Daniel; Roll, Stephen; Despard, Mathieu",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab171",
+  "doi_url": "https://doi.org/10.1093/sf/soab171",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab171",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab171.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

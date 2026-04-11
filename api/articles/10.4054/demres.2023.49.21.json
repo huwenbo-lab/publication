@@ -1,0 +1,25 @@
+{
+  "title": "Calculating contraceptive prevalence and unmet need for family planning in low-fertility countries with the Generations and Gender Survey",
+  "abstract": "BACKGROUND In Europe, 10%-40% of adults experience an unintended or sooner-than-intended birth. However, European research on family planning need and use is scarce. OBJECTIVE The Generations and Gender Survey is a cross-national panel survey collected in low -fertility settings in Europe, Asia, and South America. This paper demonstrates how to use this dataset to calculate family planning need and use and explores the possibility of comparison across countries and time. METHOD The paper provides a hands-on example of how to calculate contraceptive prevalence and unmet need for family planning using Generations and Gender Survey data collected in the Republic of Moldova in 2020. It also provides an overview of the differences between the questionnaires of the Generations and Gender Survey round II (collected in the 2020s), the Generations and Gender Survey round I (collected in the 2000s), the Fertility and Family Survey (collected in the 1990s), the World Fertility Survey (collected in the 1970s and 1980s), and the Demographic and Health Surveys (collected in the 1990s -2020s). CONCLUSION The Generations and Gender Survey is one of the few data sources that allows examining family planning need and use in European countries. The high comparability between the Generations and Gender Survey and other international demographic surveys provides ample opportunities to examine how family planning need and use varies across and within countries over time. The panel aspect of the Generations and Gender Survey can be used to expand knowledge about family planning need and use and their consequences. CONTRIBUTION Calculating contraceptive prevalence and unmet need for family planning can be difficult and time-consuming. By reducing this burden, this paper aims to stimulate family planning research in low-fertility settings and increase comparisons across countries and time.",
+  "authors": [
+    {
+      "raw": "Koops, Judith C.",
+      "family": "Koops",
+      "given": "Judith C."
+    }
+  ],
+  "authors_text": "Koops, Judith C.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.21",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.21",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.21",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.21.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

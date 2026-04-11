@@ -1,0 +1,25 @@
+{
+  "title": "Birth spacing, human capital, and the motherhood penalty at midlife in the United States",
+  "abstract": "BACKGROUND Researchers have examined how first-birth timing is related to motherhood wage penalties, but research that examines birth spacing is lacking. Furthermore, little research has examined the persistence of penalties across the life course. OBJECTIVE The objective is to estimate the effects of birth spacing on midlife labor market outcomes and assess the extent to which these effects vary by education and age at first birth. METHODS I use data from the United States from the 1979-2010 waves of the National Longitudinal Survey of Youth 1979 and dynamic inverse probability of treatment weighting to estimate the effects of different birth intervals on mothers' midlife cumulative work hours, cumulative earnings, and hourly wages. I examine how education and age at first birth moderate these effects. RESULTS Women with birth intervals longer than two years but no longer than six years have the smallest penalties for cumulative outcomes; in models interacting the birth interval with age at first birth, postponement of a first birth to at least age 30 appears to be more important for cumulative outcomes than birth spacing. College-educated women benefit more from a longer birth interval than less educated women. CONCLUSIONS hildbearing strategies that result in greater accumulation of human capital provide long-run labor market benefits to mothers, and results suggest that different birth-spacing patterns could play a small role in facilitating this accumulation, as theorized in past literature. CONTRIBUTION I contribute to the demographic literature by testing the theory that birth spacing matters for mothers' labor market outcomes and by assessing the effects at midlife rather than immediately following a birth.",
+  "authors": [
+    {
+      "raw": "Gough, Margaret",
+      "family": "Gough",
+      "given": "Margaret"
+    }
+  ],
+  "authors_text": "Gough, Margaret",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.13",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

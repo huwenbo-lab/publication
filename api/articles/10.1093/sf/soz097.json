@@ -1,0 +1,50 @@
+{
+  "title": "Stuck in Place? A Field Experiment on the Effects of Reputational Information on Student Evaluations",
+  "abstract": "Studies suggest that students' prior performance can shape subsequent teacher evaluations, but the magnitude of reputational effects and their implications for educational inequality remain unclear. Existing scholarship presents two major perspectives that exist in tension: do teachers primarily use reputational information as a temporary signal that is subsequently updated in response to actual student performance? Or do teachers primarily use reputational information as a filter that biases perception of subsequent evidence, thus crystallizing student reputations and keeping previously poor-performing students stuck in place? In a field experiment, we recruited a random sample of 832 junior high school teachers from the second-most populous province of China to grade a sequence of four essays written by the same student, and we randomly assign both the academic reputation of the student and the quality of the essays produced. We find that (1) reputational information influences how teachers grade, (2) teachers rely on negative information more heavily than positive information, and (3) negative reputations are crystallized by a single behavioral confirmation. These results suggest that students can escape their prior reputations, but to do so, they must contradict them immediately, with a single confirmation sufficient to crystallize a negative reputation.",
+  "authors": [
+    {
+      "raw": "Chu, James",
+      "family": "Chu",
+      "given": "James"
+    },
+    {
+      "raw": "Li, Guirong",
+      "family": "Li",
+      "given": "Guirong"
+    },
+    {
+      "raw": "Loyalka, Prashant",
+      "family": "Loyalka",
+      "given": "Prashant"
+    },
+    {
+      "raw": "Liu, Chengfang",
+      "family": "Liu",
+      "given": "Chengfang"
+    },
+    {
+      "raw": "Rosa, Leonardo",
+      "family": "Rosa",
+      "given": "Leonardo"
+    },
+    {
+      "raw": "Li, Yanyan",
+      "family": "Li",
+      "given": "Yanyan"
+    }
+  ],
+  "authors_text": "Chu, James; Li, Guirong; Loyalka, Prashant; Liu, Chengfang; Rosa, Leonardo; Li, Yanyan",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz097",
+  "doi_url": "https://doi.org/10.1093/sf/soz097",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz097",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz097.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

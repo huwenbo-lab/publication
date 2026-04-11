@@ -1,0 +1,30 @@
+{
+  "title": "Indirect Estimation of the Timing of First Union Dissolution With Incomplete Marriage Histories",
+  "abstract": "The lack of nation ally rep re sen ta tive data with detailed mar riage his to ries in low-and mid dle-income countries (LMICs) impedes a com pre hen sive under stand ing of essen tial aspects of union dis so lu tion, such as the tim ing of first union dis so lu tion, in these countries. We pro pose a method for esti mat ing quan tum-adjusted mea sures of the tim ing of first union dis so lu tion from incom plete mar riage his to ries. This method, indirect life table of first union dissolution (ILTUD), esti ma tes the first union sur vival func tion from a sim ple tab u la tion of ever-mar ried women by dura tion since first union, clas si fied by union dis so lu tion sta tus (intact vs. dissolved first union). It then uses the rela tion ships between life table func tions to gen er ate the dis tri bu tion of mar riages end-ing each year (theta t) for a given mar riage cohort. Using this dis tri bu tion, ILTUD gen er ates quan tum-adjusted first union sur vival rates from which the per cen tiles of first union dissolution are calculated. ILTUD estimates are consistent with estimates produced using tra di tional sta tis ti cal meth ods, such as the Kaplan-Meier esti ma tor. In addi tion, ILTUD is sim ple to imple ment and has min i mal data require ments, which are avail able in most nation ally rep re sen ta tive sur veys. Thus, the ILTUD method has the poten tial to broaden our under stand ing of union dis so lu tion dynam ics in LMICs.",
+  "authors": [
+    {
+      "raw": "John, Ben Malinga",
+      "family": "John",
+      "given": "Ben Malinga"
+    },
+    {
+      "raw": "Nitsche, Natalie",
+      "family": "Nitsche",
+      "given": "Natalie"
+    }
+  ],
+  "authors_text": "John, Ben Malinga; Nitsche, Natalie",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10581068",
+  "doi_url": "https://doi.org/10.1215/00703370-10581068",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10581068",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10581068.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

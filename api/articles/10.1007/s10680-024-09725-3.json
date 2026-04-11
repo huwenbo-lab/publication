@@ -1,0 +1,45 @@
+{
+  "title": "Urban–Rural Disparities in the Transition to Parenthood During Times of Uncertainty: A Multilevel Perspective on Finland",
+  "abstract": "Abstract Over the last 15 years, many European countries have experienced fertility declines. Existing research on this shift in fertility behavior points to economic aspects and increased levels of uncertainty as important drivers. However, in this debate little attention has been paid to how the relevance of individual- and contextual-level dimensions for understanding the new fertility patterns varies by level of urbanization. This is surprising given that urban and rural areas not only differ strongly in fertility timing and levels, but also in economic conditions. Our paper fills this important research gap by analyzing rich register data from Finland using multi-level event history models to study the transition to first birth among younger (under age 30) and older (ages 30 or older) women. We show that urban–rural differences in the transition to parenthood are particularly pronounced among younger women. In addition, the results indicate that economic circumstances and related uncertainties are more relevant for understanding first births probabilities for younger women than older women. Finally, among younger women, the relevance of economic circumstances and related uncertainties seems to be most relevant in the capital region of Helsinki and urban areas compared to semiurban and rural areas. Our findings underline that the urban–rural dimension should receive more attention in research on fertility in times of uncertainty.",
+  "authors": [
+    {
+      "raw": "Campisi, Nicholas",
+      "family": "Campisi",
+      "given": "Nicholas"
+    },
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    },
+    {
+      "raw": "Mikolai, Júlia",
+      "family": "Mikolai",
+      "given": "Júlia"
+    },
+    {
+      "raw": "Klüsener, Sebastian",
+      "family": "Klüsener",
+      "given": "Sebastian"
+    },
+    {
+      "raw": "Myrskylä, Mikko",
+      "family": "Myrskylä",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Campisi, Nicholas; Kulu, Hill; Mikolai, Júlia; Klüsener, Sebastian; Myrskylä, Mikko",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-024-09725-3",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09725-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09725-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09725-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Integrating uncertainty in time series population forecasts: An illustration using a simple projection model",
+  "abstract": "Population forecasts are widely used for public policy purposes. Methods to quantify the uncertainty in forecasts tend to ignore model uncertainty and to be based on a single model.",
+  "authors": [
+    {
+      "raw": "Abel, Guy",
+      "family": "Abel",
+      "given": "Guy"
+    },
+    {
+      "raw": "Bijak, Jakub",
+      "family": "Bijak",
+      "given": "Jakub"
+    },
+    {
+      "raw": "Forster, Jonathan J.",
+      "family": "Forster",
+      "given": "Jonathan J."
+    },
+    {
+      "raw": "Raymer, James",
+      "family": "Raymer",
+      "given": "James"
+    },
+    {
+      "raw": "Smith, Peter W.F.",
+      "family": "Smith",
+      "given": "Peter W.F."
+    },
+    {
+      "raw": "Wong, Jackie S.T.",
+      "family": "Wong",
+      "given": "Jackie S.T."
+    }
+  ],
+  "authors_text": "Abel, Guy; Bijak, Jakub; Forster, Jonathan J.; Raymer, James; Smith, Peter W.F.; Wong, Jackie S.T.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2013,
+  "doi": "10.4054/demres.2013.29.43",
+  "doi_url": "https://doi.org/10.4054/demres.2013.29.43",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2013.29.43",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2013.29.43.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

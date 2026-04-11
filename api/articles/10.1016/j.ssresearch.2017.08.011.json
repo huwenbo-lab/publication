@@ -1,0 +1,25 @@
+{
+  "title": "Disentangling the reciprocal relationship between change in crime and racial/ethnic change",
+  "abstract": "Prior research has found that racial/ethnic change and residential instability are positively related to neighborhood crime. However, the process of racial/ethnic change differentially influences crime above and beyond residential instability. While both processes affect crime through the disruption of existing social ties, racial/ethnic change has additional consequences for crime by heightening racial/ethnic tensions and undercutting cross group interactions. This means racial/ethnic change is a different process than residential instability, and suggests that neighborhoods experiencing high rates of instability and high rates of racial/ethnic change may be particularly susceptible to crime. Therefore, we examine the influence of racial/ethnic compositional change on change in crime across different levels of residential instability. Further, we argue that demographic change and crime may be influencing each other simultaneously: increases in the crime rate and racial/ethnic compositional change impact each other at the same time. To capture this process, we employ a structural equation model (SEM) that accounts for the reciprocal and simultaneous relationship between racial/ethnic change and violent and property crime rates in Los Angeles, California between 1990 and 2000. We also account for the influence of change in spatially proximate communities. Results show robust evidence that increases in racial/ethnic change contributes to greater violent and property crime rates, but the reciprocal influence of crime on racial/ethnic change is contingent upon the degree to which a neighborhood is experiencing residential instability and crime type. (C) 2017 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Boggess, Lyndsay N.",
+      "family": "Boggess",
+      "given": "Lyndsay N."
+    }
+  ],
+  "authors_text": "Boggess, Lyndsay N.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2017.08.011",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.08.011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.08.011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.08.011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

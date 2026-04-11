@@ -1,0 +1,30 @@
+{
+  "title": "Not Cologne but the data collection (might have) changed everything: a cautionary tale on ignoring changes in data recording in sociological research",
+  "abstract": "In his 2020 ESR article, Arun Frey analysed data on ethnic violence that he web-scraped from a chronicle of hostile incidents against refugees, published by a German charitable foundation and a non-profit organization. He finds remarkable and supposedly causal effects of the New Year's Eve sexual assaults in 2015/2016 on anti-refugee violence. We argue that it is invalid to draw conclusions regarding the effects of the New Year's Eve event due to simultaneous alterations in the way the data have been collected. We review the changes in data reporting which took place at the beginning of 2016 on the level of the German government and discuss the lack of a remarkable New Year's effect when focussing on data which has not been affected by these changes. This casts doubt on the previous findings proposed by . We conclude with a general word of caution.",
+  "authors": [
+    {
+      "raw": "Schwitter, Nicole",
+      "family": "Schwitter",
+      "given": "Nicole"
+    },
+    {
+      "raw": "Liebe, Ulf",
+      "family": "Liebe",
+      "given": "Ulf"
+    }
+  ],
+  "authors_text": "Schwitter, Nicole; Liebe, Ulf",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac057",
+  "doi_url": "https://doi.org/10.1093/esr/jcac057",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac057",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac057.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

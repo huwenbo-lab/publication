@@ -1,0 +1,30 @@
+{
+  "title": "A Research Note on Trends in Black Hypersegregation",
+  "abstract": "In this note, we use a consistently defined set of metropolitan areas to study patterns and trends in black hypersegregation from 1970 to 2010. Over this 40-year period, 52 metropolitan areas were characterized by hypersegregation at one point or another, although not all at the same time. Over the period, the number of hypersegregated metropolitan areas declined by about one-half, but the degree of segregation within those areas characterized by hypersegregation changed very little. As of 2010, roughly one-third of all black metropolitan residents lived in a hypersegregated area.",
+  "authors": [
+    {
+      "raw": "Massey, Douglas S.",
+      "family": "Massey",
+      "given": "Douglas S."
+    },
+    {
+      "raw": "Tannen, Jonathan",
+      "family": "Tannen",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Massey, Douglas S.; Tannen, Jonathan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0381-6",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0381-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0381-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0381-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

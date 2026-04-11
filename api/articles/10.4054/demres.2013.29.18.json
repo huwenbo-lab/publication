@@ -1,0 +1,40 @@
+{
+  "title": "Explaining the rural-urban gap in infant mortality in India",
+  "abstract": "Prior studies suggest that infant mortality in rural areas of India is substantially higher than in urban areas. However, little is known about the determinants explaining such excess of rural mortality.",
+  "authors": [
+    {
+      "raw": "Saikia, Nandita",
+      "family": "Saikia",
+      "given": "Nandita"
+    },
+    {
+      "raw": "Singh, Abhishek",
+      "family": "Singh",
+      "given": "Abhishek"
+    },
+    {
+      "raw": "Jasilionis, Domantas",
+      "family": "Jasilionis",
+      "given": "Domantas"
+    },
+    {
+      "raw": "Ram, Faujdar",
+      "family": "Ram",
+      "given": "Faujdar"
+    }
+  ],
+  "authors_text": "Saikia, Nandita; Singh, Abhishek; Jasilionis, Domantas; Ram, Faujdar",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2013,
+  "doi": "10.4054/demres.2013.29.18",
+  "doi_url": "https://doi.org/10.4054/demres.2013.29.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2013.29.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2013.29.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

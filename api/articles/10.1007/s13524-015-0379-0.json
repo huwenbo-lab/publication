@@ -1,0 +1,30 @@
+{
+  "title": "Proximity of Couples to Parents: Influences of Gender, Labor Market, and Family",
+  "abstract": "We use household survey data from the UK to study how close middle-aged men and women in partnerships live to their parents and their partner's parents. We find a slight tendency for couples to live closer to the woman's parents than the man's. This tendency is more pronounced among couples in which neither partner has a college degree and in which there is a child. In other respects, proximity to parents is gender-neutral, with the two partners having equal influence on intergenerational proximity. Better-educated couples live farther from their parents. And although certain family characteristics matter, intergenerational proximity is primarily driven by factors affecting mobility over long distances, which are mainly associated with the labor market, as opposed to gender or family circumstances.",
+  "authors": [
+    {
+      "raw": "Chan, Tak Wing",
+      "family": "Chan",
+      "given": "Tak Wing"
+    },
+    {
+      "raw": "Ermisch, John",
+      "family": "Ermisch",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Chan, Tak Wing; Ermisch, John",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0379-0",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0379-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0379-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0379-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

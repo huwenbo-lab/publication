@@ -1,0 +1,35 @@
+{
+  "title": "The (mis)use of Google Trends data in the social sciences - A systematic review, critique, and recommendations",
+  "abstract": "Researchers increasingly use aggregated search data from Google Trends to study a wide range of phenomena. Although this new data source possesses some important practical and methodological benefits, it also carries substantial challenges with respect to internal validity, reliability, and generalizability. In this paper, we describe and assess the existing applied research with Google Trends data in the social sciences. We conduct a systematic literature review of 360 studies using Google Trends data to (1) illustrate habits and trends and (2) examine whether and how researchers take the identified challenges into account. The results show that the large majority of the literature fails to test the internal validity of their Google Trends measure, does not consider whether their data are reliable across samples, and does not discuss the generalizability of their results. We conclude by stating practical recommendations that will help researchers to address these issues and properly work with Google Trends data.",
+  "authors": [
+    {
+      "raw": "Holzl, Johanna",
+      "family": "Holzl",
+      "given": "Johanna"
+    },
+    {
+      "raw": "Keusch, Florian",
+      "family": "Keusch",
+      "given": "Florian"
+    },
+    {
+      "raw": "Sajons, Christoph",
+      "family": "Sajons",
+      "given": "Christoph"
+    }
+  ],
+  "authors_text": "Holzl, Johanna; Keusch, Florian; Sajons, Christoph",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2024.103099",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103099",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103099",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103099.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

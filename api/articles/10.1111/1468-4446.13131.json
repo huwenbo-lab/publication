@@ -1,0 +1,30 @@
+{
+  "title": "The revolution next door",
+  "abstract": "This paper explores the cascading influence of revolutionary moments on democracy and inequality, not at home, but across borders. We use data on revolutions and other social upheavals over the past 120 years and examine their cross-national impact on a range of variables in neighboring countries. Engaging with debates on whether substantial democracy and equality increases require extraordinary circumstances, our research investigates whether revolutionary activities induce consequential spillovers, such as policy concessions from elites in neighboring contexts. In exploring spillover effects, the paper examines how significant events in one nation influence social life in adjacent ones. It encompasses an analysis of 171 countries over two centuries, connecting data on revolution with democracy and equality metrics, and hypothesizing that elite fear of revolutionary contagion may necessitate democracy and equality concessions to mitigate potential uprisings. Findings suggest neighboring revolutions positively impact domestic democracy and equality levels. We observe significant increases in an index of democracy and two indices of economic egalitarianism, although one of the egalitarianism measures is robust to all model specifications. Additionally, we find that isolated protest-led ousters can moderately increase suffrage and one of our indices of egalitarianism, while coups do not seem to impact democracy or inequality variables. By examining various upheaval types and outcomes across time and space, the study illuminates the causal relationship between global mobilizations and local changes, providing insights into how global events inform domestic outcomes.",
+  "authors": [
+    {
+      "raw": "Calnitsky, David",
+      "family": "Calnitsky",
+      "given": "David"
+    },
+    {
+      "raw": "Wannamaker, Kaitlin Pauline",
+      "family": "Wannamaker",
+      "given": "Kaitlin Pauline"
+    }
+  ],
+  "authors_text": "Calnitsky, David; Wannamaker, Kaitlin Pauline",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1111/1468-4446.13131",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13131",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13131",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13131.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

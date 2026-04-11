@@ -1,0 +1,30 @@
+{
+  "title": "Is There a Motherhood Penalty in Academia? The Gendered Effect of Children on Academic Publications in German Sociology",
+  "abstract": "Based on data that tracks curriculum vitae (CV) and publication records as well as survey information from sociologists in German academia, we examine the effects of parenthood on the publication output of male and female academics that were present in German universities or research institutes in the year 2013. Results indicate that having children leads to a significant decline in the number of publications by women on average, while not affecting the number of publications by men. However, the gendered effect of children on productivity hardly mitigates differences in publication output between men and women, as women still publish about 20 per cent less than men after controlling for the adverse effects of children on productivity. The gendered effect of childbearing depends partly on prior levels of women's academic achievements, suggesting a mechanism of performance-driven self-selection. Lower-performing women tend to suffer a stronger motherhood penalty than better performing women, while the publication output of successful women (who have been granted academic awards) is not reduced through childbirth. The results indicate that women are better at managing the 'double burden' of kids and career if external, award-giving committees have bestowed prestige upon them or indicated their potential for a scientific career.",
+  "authors": [
+    {
+      "raw": "Lutter, Mark",
+      "family": "Lutter",
+      "given": "Mark"
+    },
+    {
+      "raw": "Schroeder, Martin",
+      "family": "Schroeder",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Lutter, Mark; Schroeder, Martin",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcz063",
+  "doi_url": "https://doi.org/10.1093/esr/jcz063",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz063",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz063.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

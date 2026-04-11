@@ -1,0 +1,30 @@
+{
+  "title": "The Effect of Population Growth on Economic Growth: A Meta-Regression Analysis of the Macroeconomic Literature",
+  "abstract": "Many studies have sought to gauge the impact of population growth on economic growth. A well-known stylized fact of this literature is that the estimated effects of population growth measures on economic growth are not robust, varying between being positive, negative, and insignificantly different from zero. The present study analyzes 471 statistical regressions from 29 prominent economic growth studies using meta-regression analysis to identify the effect of alternative methodologies on key population growth results. This study finds that a broad set of methodological factors explains more than half of the variation in the population growth effects observed from this literature, including the types of variables used to measure population growth, the countries selected, the time frame of the analysis, and the nature of the control variables specified. The study also yields results that have implications for policymakers, especially insofar as several policy factors seem to influence the population change-economic growth nexus. Particularly strong is the evidence in support of the increasingly adverse effects of population growth in the post-1980 period, suggesting that demographic issues should warrant greater attention than they currently receive from the policymaking community.",
+  "authors": [
+    {
+      "raw": "Headey, Derek D.",
+      "family": "Headey",
+      "given": "Derek D."
+    },
+    {
+      "raw": "Hodge, Andrew",
+      "family": "Hodge",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Headey, Derek D.; Hodge, Andrew",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2009,
+  "doi": "10.1111/j.1728-4457.2009.00274.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2009.00274.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2009.00274.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2009.00274.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

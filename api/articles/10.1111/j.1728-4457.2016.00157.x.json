@@ -1,0 +1,30 @@
+{
+  "title": "Is the US Old-Age Mortality Advantage Vanishing?",
+  "abstract": "Americans experience higher mortality than their peers in other high-income countries for most of the life course, but recent work has shown that at the oldest ages they experience a mortality advantage-a phenomenon we call the US mortality crossover. We document the crossover and time trends therein. We find that the age of crossover has increased linearly by about 0.5 years per year, a pattern of change that has not been identified before. We then interrogate several potential explanations for a steadily increasing crossover age. While none is completely satisfactory, we rule out differential age misstatement, selection, and access to and quality of health care. The most plausible explanations involve the deleterious effects of differential smoking and obesity, but we are unable to judge more precisely whether either of these factors independently or in combination explains the phenomenon.",
+  "authors": [
+    {
+      "raw": "Palloni, Alberto",
+      "family": "Palloni",
+      "given": "Alberto"
+    },
+    {
+      "raw": "Yonker, James A.",
+      "family": "Yonker",
+      "given": "James A."
+    }
+  ],
+  "authors_text": "Palloni, Alberto; Yonker, James A.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2016,
+  "doi": "10.1111/j.1728-4457.2016.00157.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2016.00157.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2016.00157.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2016.00157.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

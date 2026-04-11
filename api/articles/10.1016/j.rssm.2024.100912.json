@@ -1,0 +1,30 @@
+{
+  "title": "Heterogeneity, selection, and the policy effect of educational expansion on college graduate earnings in China, 1981-2015",
+  "abstract": "This article examines the impact of social origin on the returns to college education in the context of China's higher education expansion since 1999. Utilizing a double-treatment setting, a marginal treatment effect framework is adopted to estimate the causal effect of college education on earnings, while a difference-indifferences methodology identifies the policy effect of educational expansion on the college premium. Analysis of data from a series of nationally representative Chinese surveys reveals that the true college earnings premium is rather small for the post-expansion cohort, and that much of the observed earnings gap between college and high school graduates after the expansion is due to returns to unobserved abilities. Further analysis shows that the college earnings premium after the expansion declines more for rural-origin children with schooling probabilities in the top percentiles than for their urban counterparts.",
+  "authors": [
+    {
+      "raw": "Guo, Maocan",
+      "family": "Guo",
+      "given": "Maocan"
+    },
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    }
+  ],
+  "authors_text": "Guo, Maocan; Wu, Xiaogang",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100912",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100912",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100912",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100912.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

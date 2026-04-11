@@ -1,0 +1,30 @@
+{
+  "title": "Estimating health expectancies from two cross-sectional surveys",
+  "abstract": "Health expectancies are key indicators for monitoring the health of populations, as well as for informing debates about compression or expansion of morbidity. However, current methodologies for estimating them are not entirely satisfactory. They are either of limited applicability due to high data requirements (the multistate method) or based upon questionable assumptions (the Sullivan method).This paper proposes a new method, called the \"intercensal\" method, which relies on the multistate framework using widely available data. The method uses age-specific proportions \"healthy\" at two successive, independent cross-sectional health surveys, and, together with information on general mortality, solves for the set of transition probabilities that produces the observed sequence of proportions healthy. The system is solved by making realistic parametric assumptions about the age patterns of transition probabilities. Using data from the Health and Retirement Survey and from the National Health Interview Survey, the method is tested against both the multistate method and the Sullivan method. We conclude that the intercensal approach is a promising framework for the indirect estimation of health expectancies.",
+  "authors": [
+    {
+      "raw": "Guillot, Michel",
+      "family": "Guillot",
+      "given": "Michel"
+    },
+    {
+      "raw": "Yu, Yan",
+      "family": "Yu",
+      "given": "Yan"
+    }
+  ],
+  "authors_text": "Guillot, Michel; Yu, Yan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2009,
+  "doi": "10.4054/demres.2009.21.17",
+  "doi_url": "https://doi.org/10.4054/demres.2009.21.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2009.21.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2009.21.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

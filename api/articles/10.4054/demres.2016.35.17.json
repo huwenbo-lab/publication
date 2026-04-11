@@ -1,0 +1,40 @@
+{
+  "title": "Insight on 'typical' longevity: An analysis of the modal lifespan by leading causes of death in Canada",
+  "abstract": "BACKGROUND The longevity gains recorded in high-income countries since the 1960s are mainly due to a reduction in mortality from chronic degenerative diseases, which particularly affect older individuals. In recent years the adult modal age at death (M) gained increasing recognition as a lifespan indicator for monitoring improvements in old-age survival. However, studies of M by cause of death are lacking. OBJECTIVE This work investigates trends in M by leading causes of death in Canada over the 19742011 period and identifies the causes of death that have been more responsive to improvements in lifestyle behaviors and medical progress. METHODS We extend a recent method for estimating the all-cause M using a flexible P-spline approach to the context of cause-of-death analysis. Using data from the Canadian Vital Statistics Database for the 1974. 2011 period, we derive cause-specific modal age-atdeath estimates and compare them in terms of levels and time-trends. RESULTS Although modal age-at-death estimates for heart diseases, cerebrovascular diseases, and the three types of cancers studied (breast/prostate, colorectal, and trachea, bronchus, and lung) differ greatly in terms of levels, they have all followed a steady upward trend since the mid-1970s in Canada. Moreover, the increase in cause-specific modal age estimates occurred at a strikingly similar pace for most causes, except for breast cancer females) and heart diseases (males), whose modal ages rose at a substantially faster pace. CONTRIBUTION Our study introduces an innovative method for estimating cause-specific modal ages at death and provides the first available estimates of time-trends in M by leading causes of death.",
+  "authors": [
+    {
+      "raw": "Diaconu, Viorela",
+      "family": "Diaconu",
+      "given": "Viorela"
+    },
+    {
+      "raw": "Ouellette, Nadine",
+      "family": "Ouellette",
+      "given": "Nadine"
+    },
+    {
+      "raw": "Camarda, Carlo G.",
+      "family": "Camarda",
+      "given": "Carlo G."
+    },
+    {
+      "raw": "Bourbeau, Robert",
+      "family": "Bourbeau",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Diaconu, Viorela; Ouellette, Nadine; Camarda, Carlo G.; Bourbeau, Robert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.17",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

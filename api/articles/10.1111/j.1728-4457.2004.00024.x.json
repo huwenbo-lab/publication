@@ -1,0 +1,30 @@
+{
+  "title": "China's floating population: New evidence from the 2000 census",
+  "abstract": "This article uses tabulations from the 2000 Population Census of China along with a micro-level data sample from the census to provide a picture of China's floating population: migrants without local household registration (hukou), a status resulting in significant social and economic disadvantages. By 2000, the size of China's floating population had grown to nearly 79 million, if that category is defined as migrants who moved between provinces or counties and resided at their destinations for six months or more. Intracounty floating migration is similarly large, contributing another 66 million to the size of the floating population. The article also discusses the geographic pattern of the floating population and the reasons for moving as reported by migrants. Policy implications are noted.",
+  "authors": [
+    {
+      "raw": "Liang, Z",
+      "family": "Liang",
+      "given": "Z"
+    },
+    {
+      "raw": "Ma, ZD",
+      "family": "Ma",
+      "given": "ZD"
+    }
+  ],
+  "authors_text": "Liang, Z; Ma, ZD",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2004,
+  "doi": "10.1111/j.1728-4457.2004.00024.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2004.00024.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2004.00024.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2004.00024.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

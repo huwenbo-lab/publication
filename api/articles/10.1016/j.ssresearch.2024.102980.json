@@ -1,0 +1,25 @@
+{
+  "title": "Can cognitive dissonance explain beliefs regarding meritocracy?",
+  "abstract": "Why do economically disadvantaged people often regard inequality as fair? The literature on deliberative justice suggests that people regard inequality as fair when it is proportional to inequality in effort or other inputs - i.e. when it is meritocratic. But in the real -world there is substantial uncertainty over the distribution of income and merit - so what compels disadvantaged people to legitimate their own disadvantage? This paper suggests it is a reaction to cognitive dissonance. When inequality is high, and when people lack control, their only way to reduce dissonance is to convince themselves the distribution is fair. I implement an online experiment to test this theory. Results do not support a cognitive dissonance mechanism behind meritocracy. But they do indicate that disadvantaged individuals are more likely to regard inequality as fair when they lack control. Analysis of qualitative data indicates that deprivation of control engenders a fatalistic response to inequality.",
+  "authors": [
+    {
+      "raw": "Foley, William",
+      "family": "Foley",
+      "given": "William"
+    }
+  ],
+  "authors_text": "Foley, William",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.102980",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.102980",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.102980",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.102980.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

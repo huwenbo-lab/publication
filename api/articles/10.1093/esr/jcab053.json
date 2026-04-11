@@ -1,0 +1,35 @@
+{
+  "title": "Grading Practices and the Social Gradient in GPA: Quasi-Experimental Evidence from Sweden",
+  "abstract": "We analyse the causal effect of grading practices on socioeconomic differences in GPA. While earlier studies have documented the significant role of non-academic student traits such as self-discipline or cultural capital in producing social gradients in GPA, this study is the first to analyse the effect of grading practices on the socioeconomic gradient in grades. We exploit a Swedish educational reform, which changed the compulsory school's grading system from a relative scale to an absolute scale between 1997 and 1998. Under reasonable and largely testable assumptions, the changes between these two years in the association between various socioeconomic background variables and student GPA has a causal interpretation as an effect of the change in grading practice. Results show that changing the grading practice can significantly alter the social gradients in GPA, in this case widening the gap between students of low and high educated parents, while also narrowing the achievement gap between girls and boys. We attribute the increase in social gradient to an interplay between school segregation and frog-pond effects.",
+  "authors": [
+    {
+      "raw": "Hjorth-Trolle, Anders",
+      "family": "Hjorth-Trolle",
+      "given": "Anders"
+    },
+    {
+      "raw": "Rosenqvist, Erik",
+      "family": "Rosenqvist",
+      "given": "Erik"
+    },
+    {
+      "raw": "Hed, Anders",
+      "family": "Hed",
+      "given": "Anders"
+    }
+  ],
+  "authors_text": "Hjorth-Trolle, Anders; Rosenqvist, Erik; Hed, Anders",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab053",
+  "doi_url": "https://doi.org/10.1093/esr/jcab053",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab053",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab053.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

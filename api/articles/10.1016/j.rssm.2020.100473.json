@@ -1,0 +1,30 @@
+{
+  "title": "The just gender pay gap in Germany revisited: The male breadwinner model and regional differences in gender-specific role ascriptions",
+  "abstract": "Despite recent advances, women still earn less than men, and this gap is considerable. Moreover, even after accounting for differences in education, occupation, experience and performance, many people think that this gap is justified, which leads to a so-called just gender pay gap (JGPG). Research thus far has not been able to explain this JGPG. In this paper, we use a factorial survey experiment conducted with a population-representative sample in Germany (SOEP-Pretest 2008, 1066 persons, 26,650 vignette ratings) to test if the male breadwinner model (MBM)-the belief that fathers should be gainfully employed to provide for the material needs of their family while mothers attend to the unpaid family work-can account for this JGPG. Based on the MBM explanation, we expect that the JGPG is larger if there are children in a family. To account for the multistep rating process of the factorial survey in the SOEP-Pretest 2008, we develop and implement a new, highly flexible factorial survey model: the generalized Craggit model. Our results clearly indicate that the MBM is a critical factor driving the JGPG in Germany. While respondents think that childless women and men should be paid equally, they consider it just if men with children earn approximately 8 % more than women with children or childless persons earn. Moreover, our analyses based on the generalized Craggit model demonstrate a lower JGPG and less relevance of the MBM in the eastern federal states than in the western federal states.",
+  "authors": [
+    {
+      "raw": "Lang, Volker",
+      "family": "Lang",
+      "given": "Volker"
+    },
+    {
+      "raw": "Gross, Martin",
+      "family": "Gross",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Lang, Volker; Gross, Martin",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100473",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100473",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100473",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100473.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

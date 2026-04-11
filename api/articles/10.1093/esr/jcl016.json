@@ -1,0 +1,30 @@
+{
+  "title": "Social Stratification and Cultural Consumption: Music in England",
+  "abstract": "In this article we use recent survey data to test three arguments on the relationship between social stratification and cultural consumption: i.e. what we label as the homology, individualization and omnivore–univore arguments. We note various conceptual and methodological problems in the ways these arguments have been advanced, and stress in particular the importance of maintaining the Weberian distinction between class and status. We concentrate on musical consumption and apply latent class models to identify types of musical consumer. We then examine the social character of these types through a regression analysis that includes a range of demographic and stratification variables. As would be anticipated from a Weberian standpoint, type of musical consumption proves to be more closely associated with status, and also with education, than with class. In general, our results provide little support for the homology or individualisation arguments. They are more consonant with the omnivore–univore argument, although a number of qualifications to this are also suggested.",
+  "authors": [
+    {
+      "raw": "Chan, T. W.",
+      "family": "Chan",
+      "given": "T. W."
+    },
+    {
+      "raw": "Goldthorpe, J. H.",
+      "family": "Goldthorpe",
+      "given": "J. H."
+    }
+  ],
+  "authors_text": "Chan, T. W.; Goldthorpe, J. H.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1093/esr/jcl016",
+  "doi_url": "https://doi.org/10.1093/esr/jcl016",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcl016",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcl016.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

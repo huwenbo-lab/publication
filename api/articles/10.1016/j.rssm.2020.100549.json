@@ -1,0 +1,25 @@
+{
+  "title": "Occupational mobility in Europe during the crisis: Did the social elevator break?",
+  "abstract": "Sudden, disruptive social change resulting from economic crises may affect occupational structure and mobility. However, studies on social mobility have concentrated on secular trends of social change while recent studies on the impact of the Great Recession and the Eurozone debt crisis have focused on unemployment and wages. Therefore, it is unclear what effect these economic crises had on occupational mobility. In this study, I sketch out a theory of occupational mobility during economic crises reviewing arguments for downgrading (threat of the ?reserve army?), polarization (labour market segmentation) and upgrading (?creative destruction?) from the literature. Then, I discuss how institutions in different types of market economies in Europe moderate these effects. Afterwards, I compare patterns of occupational mobility as movements between different skill levels in Europe before and during the Great Recession and the Eurozone crisis using longitudinal data from the EU-SILC for 27 European countries. First, I examine mobility rates; second, I fit a series of log-linear topological models to test whether upgrading, downgrading or polarization prevailed during the crisis. To account for differences in unemployment and re-employment risks, I include unemployment in the analysis. The results show that downward mobility in particular soared during the crisis, especially in the mixed market economies.",
+  "authors": [
+    {
+      "raw": "Pohlig, Matthias",
+      "family": "Pohlig",
+      "given": "Matthias"
+    }
+  ],
+  "authors_text": "Pohlig, Matthias",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2020.100549",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100549",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100549",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100549.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

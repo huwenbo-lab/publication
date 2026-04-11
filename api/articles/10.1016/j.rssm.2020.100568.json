@@ -1,0 +1,40 @@
+{
+  "title": "What happens when schools shut down? Investigating inequality in students' reading behavior during Covid-19 in Denmark",
+  "abstract": "The outbreak of Covid-19 in spring 2020 shut down schools around the world and placed parents in charge of their children's schooling. Research from the lockdown period documents that families differ in their responses to their new responsibility for their children's homeschooling by socioeconomic status and that the Covid-19 crisis has increased educational inequality. The aim of this paper is to examine inequality in children's reading behavior before, during and after the lockdown of schools in Denmark by analyzing new digital data from a widely used reading app combined with administrative data. Our results show, first, that students' online reading behavior increased significantly as a consequence of the lockdown of schools, second, that there is a socioeconomic gradient in students' reading behavior both before and during the lockdown, and, third, that inequality in reading behavior during Covid-19 increased exclusively during the first lockdown period in which schools were closed and students where taught online. Consequently, our results support the findings from previous research documenting a SES gradient in learning opportunities in homeschooling activities during the Covid-19 induced lockdown. Yet, contrary to prior research, we find only a short-term increase in inequality on children's actual reading activity during Covid-19.",
+  "authors": [
+    {
+      "raw": "Reimer, David",
+      "family": "Reimer",
+      "given": "David"
+    },
+    {
+      "raw": "Smith, Emil",
+      "family": "Smith",
+      "given": "Emil"
+    },
+    {
+      "raw": "Andersen, Ida Gran",
+      "family": "Andersen",
+      "given": "Ida Gran"
+    },
+    {
+      "raw": "Sortkaer, Bent",
+      "family": "Sortkaer",
+      "given": "Bent"
+    }
+  ],
+  "authors_text": "Reimer, David; Smith, Emil; Andersen, Ida Gran; Sortkaer, Bent",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2020.100568",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100568",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100568",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100568.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

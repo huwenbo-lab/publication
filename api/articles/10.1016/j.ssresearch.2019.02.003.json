@@ -1,0 +1,40 @@
+{
+  "title": "Mothers' employment and child care choices across the European Union",
+  "abstract": "The aim of this paper is to analyse cross-country differences in the maternal employment patterns and the demand for formal and informal child care as interrelated decisions across Europe. We explore a sample of preschoolers and their mothers drawn from the EU-SILC (2005-2013) in a set of 11 EU countries with different institutional settings. The analytical strategy a set of simultaneous tobit models allows for mutual interdependencies across decisions. The results vary across welfare regimes and are related to the public provision of child care as well as other dimensions of the institutional context and values. We have found complementarities between paid employment and child care while formal and informal care are shown to be mutual substitutes, even in countries where the provision of external, formal child care is very extended and child care does not depend much on families. This means that the mere expansion of public child care is not enough to improve maternal employment rates. Other institutional aspects of the labour market and societal values also need to be taken into account in this endeavour.",
+  "authors": [
+    {
+      "raw": "Cebrian, Inmaculada",
+      "family": "Cebrian",
+      "given": "Inmaculada"
+    },
+    {
+      "raw": "Davia, Maria A.",
+      "family": "Davia",
+      "given": "Maria A."
+    },
+    {
+      "raw": "Legazpe, Nuria",
+      "family": "Legazpe",
+      "given": "Nuria"
+    },
+    {
+      "raw": "Moreno, Gloria",
+      "family": "Moreno",
+      "given": "Gloria"
+    }
+  ],
+  "authors_text": "Cebrian, Inmaculada; Davia, Maria A.; Legazpe, Nuria; Moreno, Gloria",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.02.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.02.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.02.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.02.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Comment of Liying Luo’s Article, “Assessing Validity and Application Scope of the Intrinsic Estimator Approach to the Age-Period-Cohort Problem”",
+  "abstract": "Liying Luo's article (this issue) addresses three important properties of the intrinsic estimator (IE).First, the constraint used to produce the IE (b ie ⋅ b 0 = 0) constrains the linear trends of the age coefficients, period coefficients, and cohort coefficients.Second, the IE is a biased estimate of the age, period, and cohort coefficients that generated the outcome data, unless the constraint on the linear trends imposed by the IE is the same as the linear trends for the parameter values that generated the outcome data.Third, the IE is not a consistent estimator of the parameters that generated the outcome data unless its constraint corresponds to those generating parameters.She is successful in showing the form of the linear constraint (for some models) and that the IE is a biased and inconsistent estimate unless its constraint is consistent with the parameters that generated the outcome data.I will return to these issues, but first I provide modest extension of her work.Luo's approach in the body of her article assumes that the effects of age groups, periods, and cohorts are linear: the age coefficients all lie on a single line, the period coefficients all lie on a single line, and the cohort coefficients all lie on a single line. 1 Although her work implies that the IE constrains linear trends in the age, period, and cohort coefficient estimates for all forms of APC data, she does not show the explicit constraint for the general case in which the coefficients can take on any form; for example, with seven periods, the coefficients might be -.6, .6,-.8, .5, .2,.5, and -.4.Because these period coefficients do not lie on a line, they are not linear.The constraint that the IE imposes on the linear trends in estimating these age, period, and cohort coefficients in the general case is crucial to the APC identification problem because the differences between various constrained estimators involve the linear trends of their coefficients (O'Brien 2011b(O'Brien , 2012)).With the linear trends determined, the deviations of the age, period, and cohort coefficients from their linear trends are identical across the different constrained solutions (O'Brien 2012).",
+  "authors": [
+    {
+      "raw": "O’Brien, Robert M.",
+      "family": "O’Brien",
+      "given": "Robert M."
+    }
+  ],
+  "authors_text": "O’Brien, Robert M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0250-0",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0250-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0250-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0250-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

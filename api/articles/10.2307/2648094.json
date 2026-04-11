@@ -1,0 +1,30 @@
+{
+  "title": "Educational assortative mating across marriage markets: Nonhispanic whites in the United States",
+  "abstract": "Abstract Whether local marriage market conditions shape marriage behavior is a central social demographic question. Most work on this subject, however, focuses on one type of market condition—sex ratios— and on a single outcome—marital timing or sorting. We examine the impact of local marriage markets’ educational composition on educational assortative mating and on how sorting varies with age. We estimate a discrete-time competing-risks model of educational sorting outcomes, using individual data from the NLSY and community descriptors aggregated from census microdata. Results show that residents of educationally less favorable marriage markets are more likely to marry down on education, and that (for women) their chance of doing so increases with age more than for residents of more favorable markets.",
+  "authors": [
+    {
+      "raw": "Lewis, Susan K.",
+      "family": "Lewis",
+      "given": "Susan K."
+    },
+    {
+      "raw": "Oppenheimer, Valerie K.",
+      "family": "Oppenheimer",
+      "given": "Valerie K."
+    }
+  ],
+  "authors_text": "Lewis, Susan K.; Oppenheimer, Valerie K.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648094",
+  "doi_url": "https://doi.org/10.2307/2648094",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648094",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648094.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

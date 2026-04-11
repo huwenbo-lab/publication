@@ -1,0 +1,45 @@
+{
+  "title": "Occupational earning potential: a new measure of social hierarchy in Europe and the US",
+  "abstract": "Social stratification is interested in unequal life chances and assumes the existence of a hierarchy of more or less advantageous occupations. Yet occupations are not easily translated into a linear hierarchical measure. Influential scales combine multiple indicators and lack intuitive interpretation. We therefore present a new scale based on occupations' earnings potential (OEP). OEP measures the median earnings of occupations and expresses them as percentiles of the overall earnings structure: if mechanics earn the national median wage, their OEP is 50. We construct national OEP scales using annual microdata pooled over several decades for Germany, Sweden, Switzerland, the UK and the US. Consistent with the Treiman constant, these national scales are highly correlated over time and across countries, justifying the use of one common OEP scale. When applied to another European dataset, the common OEP scale explains a quarter of the variance in earnings-and works as well for men as women and as well for countries used to construct the scale as for other countries. Moreover, it is associated with the causes (education) and consequences (social mobility) that the theory expects. OEP thereby provides a simple and parsimonious indicator of economic advantage that can be meaningfully interpreted.",
+  "authors": [
+    {
+      "raw": "Oesch, Daniel",
+      "family": "Oesch",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Lipps, Oliver",
+      "family": "Lipps",
+      "given": "Oliver"
+    },
+    {
+      "raw": "Shahbazian, Roujman",
+      "family": "Shahbazian",
+      "given": "Roujman"
+    },
+    {
+      "raw": "Bihagen, Erik",
+      "family": "Bihagen",
+      "given": "Erik"
+    },
+    {
+      "raw": "Morris, Katy",
+      "family": "Morris",
+      "given": "Katy"
+    }
+  ],
+  "authors_text": "Oesch, Daniel; Lipps, Oliver; Shahbazian, Roujman; Bihagen, Erik; Morris, Katy",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf035",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf035",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf035",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf035.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Gendered wage returns to changes in non-routine job tasks: Evidence from Germany",
+  "abstract": "The labor market exhibits persistent occupational segregation by gender, with women and men performing distinct job tasks within their occupations. Prior research suggests that non-routine job tasks generally lead to higher wages, especially in digitally advancing contexts. However, these findings are largely based on crosssectional data and neglect gender as a relevant dimension of inequality. We analyze three-wave panel data over nine years from the German National Educational Panel Study to explore the relationship between changes in non-routine job tasks and wages by gender. Given the constrained wage-setting opportunities within German firms, we further examine whether the association between task changes and wages differs for employees with and without job changes, both within and across occupational segments. Our fixed-effect regression analyses reveal gender-specific associations between changes in non-routine job tasks and wage increases. Men benefit from performing more complex and autonomous tasks, with additional gains when an inter-segmental job change accompanies the increase in complex job tasks. Conversely, women do not see wage benefits from enhancements in either complex or autonomous job tasks. These findings underscore the gendered patterns of wage increases associated with advancements in non-routine job tasks, with men profiting intra-individually from shifts towards more non-routine job tasks.",
+  "authors": [
+    {
+      "raw": "Wicht, Alexandra",
+      "family": "Wicht",
+      "given": "Alexandra"
+    },
+    {
+      "raw": "Mueller, Nora",
+      "family": "Mueller",
+      "given": "Nora"
+    },
+    {
+      "raw": "Pollak, Reinhard",
+      "family": "Pollak",
+      "given": "Reinhard"
+    }
+  ],
+  "authors_text": "Wicht, Alexandra; Mueller, Nora; Pollak, Reinhard",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100963",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100963",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100963",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100963.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

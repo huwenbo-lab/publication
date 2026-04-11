@@ -1,0 +1,40 @@
+{
+  "title": "Poor State, Rich State: Understanding the Variability of Poverty Rates across U.S. States",
+  "abstract": "According to the Supplemental Poverty Measure, state-level poverty rates range from a low of less than 10 percent in Iowa to a high of more than 20 percent in California. We seek to account for these differences using a theoretical framework proposed by Brady, Finnigan, and Hübgen (2017), which emphasizes the prevalence of poverty risk factors as well as poverty penalties associated with each risk factor. We estimate state-specific penalties and prevalences associated with single motherhood, low education, young households, and joblessness. We also consider state variation in the poverty risks associated with living in a black household and a Hispanic immigrant household. Brady et al. (2017) find that country-level differences in poverty rates are more closely tied to penalties than prevalences. Using data from the Current Population Survey, we find that the opposite is true for state-level differences in poverty rates. Although we find that state poverty differences are closely tied to the prevalence of high-risk populations, our results do not suggest that state-level antipoverty policy should be solely focused on changing 'risky' behavior. Based on our findings, we conclude that state policies should take into account cost-of-living penalties as well as the state-specific relationship between poverty, prevalences, and penalties.",
+  "authors": [
+    {
+      "raw": "Laird, Jennifer",
+      "family": "Laird",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Parolin, Zachary",
+      "family": "Parolin",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Waldfogel, Jane",
+      "family": "Waldfogel",
+      "given": "Jane"
+    },
+    {
+      "raw": "Wimer, Christopher",
+      "family": "Wimer",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Laird, Jennifer; Parolin, Zachary; Waldfogel, Jane; Wimer, Christopher",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2018,
+  "doi": "10.15195/v5.a26",
+  "doi_url": "https://doi.org/10.15195/v5.a26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv5.a26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v5.a26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

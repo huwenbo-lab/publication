@@ -1,0 +1,35 @@
+{
+  "title": "The association of childhood socioeconomic conditions with healthy longevity at the oldest-old ages in China",
+  "abstract": "AbstractBased on unique data from the largest-ever sample of the Chinese oldest-old aged 80 and older, our multivariate logistic regression analyses show that either receiving adequate medical service during sickness in childhood or never/rarely suffering from serious illness during childhood significantly reduces the risk of being ADL (activities of daily living) impaired, being cognitively impaired, and self-reporting poor health by 18%–33% at the oldest-old ages. Estimates of effects for five other indicators of childhood conditions are similarly positive but mostly not statistically significant. Multivariate survival analysis shows that better childhood socioeconomic conditions in general tend to reduce the four-year period mortality risk among the oldest-old. But after additional controls for 14 covariates are put into the model, the effects are not statistically significant, thus suggesting that most of the effects of childhood conditions on oldest-old mortality are indirect—at least to the point of affecting current health status at the oldest-old ages, which itself is strongly associated with mortality. While acknowledging limitations of the present analyses due to a lack of information on childhood illness, the oldest-olds’ recollection errors, and other data problems, we conclude, based on this and other studies, that policies that enhance childhood health care and children’s socioeconomic wellbeing can have large and long-lasting benefits up to the oldest-old ages.",
+  "authors": [
+    {
+      "raw": "Yi, Zeng",
+      "family": "Yi",
+      "given": "Zeng"
+    },
+    {
+      "raw": "Gu, Danan",
+      "family": "Gu",
+      "given": "Danan"
+    },
+    {
+      "raw": "Land, Kenneth C.",
+      "family": "Land",
+      "given": "Kenneth C."
+    }
+  ],
+  "authors_text": "Yi, Zeng; Gu, Danan; Land, Kenneth C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0033",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0033",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0033",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0033.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

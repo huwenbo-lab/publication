@@ -1,0 +1,40 @@
+{
+  "title": "Do refugee children impair the academic performance of native children in the school? Informative null results from Danish Register Data",
+  "abstract": "Discussions concerning the social impact of accepting refugee immigrants arise each time large numbers of refugees apply for protection in rich countries. However, little evidence exists on how the integration of refugees into core welfare institutions affects native citizens who depend on and interact with these institutions. In this paper, we focus on whether receiving refugees in a school cohort affects the academic performance of natives, using administrative data from Denmark, which contain test scores on all children in public schools. We exploit variation in the timing of refugees' entrance to schools to facilitate causal estimates. Our findings show that refugees tend to cluster in schools that had poorer performance even prior to the refugees' arrival. When we take this selection pattern into account, the effect of receiving refugees on the academic performance trajectory of natives is both statistically insignificant and substantially unimportant.",
+  "authors": [
+    {
+      "raw": "Hassan, Said",
+      "family": "Hassan",
+      "given": "Said"
+    },
+    {
+      "raw": "Hvidtfeldt, Camilla",
+      "family": "Hvidtfeldt",
+      "given": "Camilla"
+    },
+    {
+      "raw": "Andersen, Lars Hojsgaard",
+      "family": "Andersen",
+      "given": "Lars Hojsgaard"
+    },
+    {
+      "raw": "Udsen, Rebecca Overgaard",
+      "family": "Udsen",
+      "given": "Rebecca Overgaard"
+    }
+  ],
+  "authors_text": "Hassan, Said; Hvidtfeldt, Camilla; Andersen, Lars Hojsgaard; Udsen, Rebecca Overgaard",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac059",
+  "doi_url": "https://doi.org/10.1093/esr/jcac059",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac059",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac059.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

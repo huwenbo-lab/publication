@@ -1,0 +1,35 @@
+{
+  "title": "Aligning household decision-making with work and education: A comparative analysis of women?s empowerment",
+  "abstract": "BACKGROUND Although women's empowerment is one of the key concepts in development, it has proven challenging to measure it. Empirical studies have tended to focus on a cause-and-effect analysis of empowerment and using composite measures to compare different national contexts. More recent works suggest new conceptual and methodological approaches to women's empowerment that better reflect contextual factors, intersectionality, and life course perspectives. OBJECTIVE We conduct cross-national comparative research on women's empowerment using a new approach: by examining how women's household decision-making power, education, and work - major components of empowerment - relate to each other across 28 low-and middle-income countries. Through this, we explore what the different relationships might imply for women's empowerment in different contexts and circumstances. METHODS We utilize latent class analysis, a person-centered approach, to identify an unobserved class membership structure that classifies women into typologies to account for the different contexts and multidimensionality of women's empowerment within and between countries. RESULTS We find substantial within-country differences in household decision-making power and how this aligns with women's education and work. Across countries, we find work and education are not always positively associated with each other or with decision-making power, which suggests a need to contextualize the associations within the different dimensions of women's empowerment.",
+  "authors": [
+    {
+      "raw": "Yu, Sojin",
+      "family": "Yu",
+      "given": "Sojin"
+    },
+    {
+      "raw": "Chen, Feinian",
+      "family": "Chen",
+      "given": "Feinian"
+    },
+    {
+      "raw": "Desai, Sonalde",
+      "family": "Desai",
+      "given": "Sonalde"
+    }
+  ],
+  "authors_text": "Yu, Sojin; Chen, Feinian; Desai, Sonalde",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.19",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Women's economic empowerment in sub- Saharan Africa: Evidence from cross-national population data",
+  "abstract": "BACKGROUND Women's economic empowerment (WEE) has attracted high-level policy interest, and is recognized as a central, cross-cutting outcome, and the cornerstone for achieving Sustainable Development Goals. However, it lacks a standardised definition and standard, measurable, and comparable indicators, and is plagued by large data gaps, particularly in sub-Saharan Africa (SSA).OBJECTIVE We examine the extent of WEE in SSA. Our goal is to identify WEE country typologies explaining the variation in and contributing domains of WEE in each country.METHODS Using recent DHS data in 33 countries, we apply principal component analysis to generate a WEE score based on 9 indicators in order to better understand the contributors underlying this score and derive country typologies.RESULTS Overall, WEE is low but it varies markedly by country. It is typically explained by educational attainment, employment, and land ownership among women alone or in combination with men. We identified 5 typologies of WEE: (1) instrumental agency explained by high educational attainment, (2) instrumental agency explained by land ownership, (3) individual economic advancement explained by high employment rates, (4) basic-level economic empowerment, and (5) low-level economic empowerment.CONCLUSIONS The level of WEE in SSA varies by country. The factors affecting the level also vary and can be divided into 5 typologies characterising the type of WEE.CONTRIBUTION Our results provide timely evidence for the increasing push to achieve WEE and highlight potential priority areas for policy and programme interventions.",
+  "authors": [
+    {
+      "raw": "Williams, Eunice Mueni",
+      "family": "Williams",
+      "given": "Eunice Mueni"
+    },
+    {
+      "raw": "Vaisanen, Heini",
+      "family": "Vaisanen",
+      "given": "Heini"
+    },
+    {
+      "raw": "Padmadas, Sabu S.",
+      "family": "Padmadas",
+      "given": "Sabu S."
+    }
+  ],
+  "authors_text": "Williams, Eunice Mueni; Vaisanen, Heini; Padmadas, Sabu S.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.15",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

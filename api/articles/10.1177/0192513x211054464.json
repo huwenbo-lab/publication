@@ -1,0 +1,40 @@
+{
+  "title": "Remarriage After Divorce and Health in Later Life: Findings From CHARLS in China",
+  "abstract": "Marriage has a positive effect on health. After the dissolution of a marriage, the health of divorcees worsens. This study focuses on whether remarriage can help a person regain the health benefits that comes with marriage. Using national baseline data from the China Health and Retirement Longitudinal Study (CHARLS), which conducted from 2011 to 2012, this article applies instrumental variables (IV) method to investigate the association between remarriage after divorce and late-life health. We found that, compared with divorcees who had not remarried, those who remarried suffered less from depression and had better self-rated health. There were gender differences in the relationship between remarriage after divorce and mental health. Remarriage can improve the mental health of men, but there is no significant correlation between remarriage and the mental health of women.",
+  "authors": [
+    {
+      "raw": "Li, Xiaomin",
+      "family": "Li",
+      "given": "Xiaomin"
+    },
+    {
+      "raw": "Jiang, Quanbao",
+      "family": "Jiang",
+      "given": "Quanbao"
+    },
+    {
+      "raw": "Cheng, Xinfeng",
+      "family": "Cheng",
+      "given": "Xinfeng"
+    },
+    {
+      "raw": "Ge, Tingshuai",
+      "family": "Ge",
+      "given": "Tingshuai"
+    }
+  ],
+  "authors_text": "Li, Xiaomin; Jiang, Quanbao; Cheng, Xinfeng; Ge, Tingshuai",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x211054464",
+  "doi_url": "https://doi.org/10.1177/0192513x211054464",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x211054464",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x211054464.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

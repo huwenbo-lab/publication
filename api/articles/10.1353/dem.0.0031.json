@@ -1,0 +1,25 @@
+{
+  "title": "When to promote, and when to avoid, a population perspective",
+  "abstract": "AbstractDemography’s population perspective, and the sampling methods that help produce it, are powerful but underutilized research tools. The first half of this article makes the case for more vigorous promotion of a population perspective throughout the sciences. It briefly reviews the basic elements of population sampling and then provides examples from both developed and developing countries of how population sampling can enrich random-assignment policy experiments, multisite studies, and qualitative research. At the same time, an ill-considered application of a population perspective to the problem of causal inference can hinder social and behavioral science. The second half of the article describes the “slippery slope” by which some demographic studies slide from providing a highly useful description about the population to using regressions to estimate causal models for that population. It then suggests that causal modeling is sometimes well served by a highly selective look at small subsets of a population with interesting variability in independent variables of interest. A robust understanding of causal effects, however, rests on convergence between selective and population-wide perspectives.",
+  "authors": [
+    {
+      "raw": "Duncan, Greg J.",
+      "family": "Duncan",
+      "given": "Greg J."
+    }
+  ],
+  "authors_text": "Duncan, Greg J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0031",
+  "doi_url": "https://doi.org/10.1353/dem.0.0031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Compositional and Institutional Sources of Union Dissolution for Married and Unmarried Parents in the United States",
+  "abstract": "Abstract Unmarried parents have less stable unions than married parents, but there is considerable debate over the sources of this instability. Unmarried parents may be more likely than married parents to end their unions because of compositional differences, such as more disadvantaged personal and relationship characteristics, or because they lack the normative and institutional supports of marriage, thus rendering their relationships more sensitive to disadvantage. In this article, we evaluate these two sources of union instability among married, cohabiting, and dating parents following the birth of a shared child, using five waves of longitudinal data from the Fragile Families and Child Wellbeing Study. Using discrete-time event history models, we find that demographic, economic, and relationship differences explain more than two-thirds of the increased risk of dissolution for unmarried parents relative to married parents. We also find that differential responses to economic or relationship disadvantage do not explain why unmarried parents are more likely to end their unions than married parents.",
+  "authors": [
+    {
+      "raw": "Tach, Laura",
+      "family": "Tach",
+      "given": "Laura"
+    },
+    {
+      "raw": "Edin, Kathryn",
+      "family": "Edin",
+      "given": "Kathryn"
+    }
+  ],
+  "authors_text": "Tach, Laura; Edin, Kathryn",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0203-7",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0203-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0203-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0203-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

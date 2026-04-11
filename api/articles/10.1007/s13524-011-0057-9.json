@@ -1,0 +1,50 @@
+{
+  "title": "Population Composition, Public Policy, and the Genetics of Smoking",
+  "abstract": "AbstractIn this article, we explore the effect of public policy on the extent to which genes influence smoking desistance. Using a sample of adult twins (nmz = 363, ndz = 233) from a large population registry, we estimate Cox proportional hazards models that describe similarity in the timing of smoking desistance among adult twin pairs. We show that identical twin pairs are significantly more likely to quit smoking within a similar time frame compared with fraternal twin pairs. Importantly, we then show that genetic factors for smoking desistance increase in importance following restrictive legislation on smoking behaviors that occurred in the early and mid-1970s. These findings support the social push perspective and make important contributions to the social demography and genetic epidemiology of smoking as well as to the gene-environment interaction literatures.",
+  "authors": [
+    {
+      "raw": "Boardman, Jason D.",
+      "family": "Boardman",
+      "given": "Jason D."
+    },
+    {
+      "raw": "Blalock, Casey L.",
+      "family": "Blalock",
+      "given": "Casey L."
+    },
+    {
+      "raw": "Pampel, Fred C.",
+      "family": "Pampel",
+      "given": "Fred C."
+    },
+    {
+      "raw": "Hatemi, Peter K.",
+      "family": "Hatemi",
+      "given": "Peter K."
+    },
+    {
+      "raw": "Heath, Andrew C.",
+      "family": "Heath",
+      "given": "Andrew C."
+    },
+    {
+      "raw": "Eaves, Lindon J.",
+      "family": "Eaves",
+      "given": "Lindon J."
+    }
+  ],
+  "authors_text": "Boardman, Jason D.; Blalock, Casey L.; Pampel, Fred C.; Hatemi, Peter K.; Heath, Andrew C.; Eaves, Lindon J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0057-9",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0057-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0057-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0057-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

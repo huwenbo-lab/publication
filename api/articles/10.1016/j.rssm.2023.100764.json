@@ -1,0 +1,25 @@
+{
+  "title": "How is university students' paid work associated with their locus of control?",
+  "abstract": "This study examines whether university students doing paid work during their studies improves their internal locus of control - the belief in one's ability to have control over their life events. Using longitudinal data on a cohort of English students, I estimate a standard skill production function and control for lagged locus of control and a rich set of covariates to partially account for unobserved heterogeneity and selection into paid work. The findings show that engagement in paid work, rather than hours spent in work, is associated with greater students' internal locus of control. Students who have ever worked during university had 0.08 standard deviations more internal locus of control than students who do not work, and these estimates are largely relevant for term-time work. Estimates during the holidays are smaller in magnitude and statistically insignificant. I do not find any non-linearities in hours of work to skills development, nor do I find heterogeneities by gender. The findings show support for the human capital theory that work experience can help facilitate skills development.",
+  "authors": [
+    {
+      "raw": "Chang, Grace",
+      "family": "Chang",
+      "given": "Grace"
+    }
+  ],
+  "authors_text": "Chang, Grace",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100764",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100764",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100764",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100764.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Mexico-US migration: Views from both sides of the border",
+  "abstract": "Migration to the United States increased sharply in the 1980s and 1990s, raising political concerns. The immigrant flow from Mexico, both authorized and unauthorized, was particularly large. Good data would contribute to rational discussion of this politically charged issue, but data on immigration, particularly of the unauthorized, are notoriously poor. This article applies residual estimation techniques to data from the 1990 and 20,00 population censuses of Mexico and the United States (Mexico-born population) to quantify the intercensal migration flow, arguing that the reasons why unauthorized migrants might avoid enumeration in the United States would not adversely affect data from Mexico. Results suggest that the annual net flow of migrants aged 10 to 80 years from Mexico to the United States averaged between 324,000 and 440,000 between 1990 and 2000. A sensitivity analysis indicates that these results are quite robust (especially those using US data) to likely errors.",
+  "authors": [
+    {
+      "raw": "Hill, K",
+      "family": "Hill",
+      "given": "K"
+    },
+    {
+      "raw": "Wong, R",
+      "family": "Wong",
+      "given": "R"
+    }
+  ],
+  "authors_text": "Hill, K; Wong, R",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2005,
+  "doi": "10.1111/j.1728-4457.2005.00050.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2005.00050.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2005.00050.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2005.00050.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

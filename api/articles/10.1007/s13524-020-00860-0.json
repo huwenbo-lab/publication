@@ -1,0 +1,25 @@
+{
+  "title": "Cumulative Effects of Doubling Up in Childhood on Young Adult Outcomes",
+  "abstract": "Living in a doubled-up, or shared, household is a common experience. Nearly one-half of children in the United States double up at some point during childhood, yet we know little about the cumulative effects of these households on children. This study estimates the effects on young adult health and educational attainment of childhood years spent in three doubled-up household types: (1) those formed with children's grandparent(s), (2) those formed with children's adult sibling(s), and (3) those formed with other extended family or non-kin adults. Using marginal structural models and inverse probability of treatment weighting-methods that account for the fact that household composition is both a cause and consequence of other family characteristics-I find that doubling up shapes children's life chances, but the effects vary depending on children's relationships with household members. Childhood years spent living with nongrandparent extended family or non-kin adults are associated with worse young adult outcomes, but coresidence with grandparents is not significantly associated with young adult outcomes after selection into these households is accounted for, and coresidence with adult siblings may be beneficial in some domains. By studying the effects of coresidence with adults beyond the nuclear family, this research contributes to a fuller understanding of the implications of family complexity for children.",
+  "authors": [
+    {
+      "raw": "Harvey, Hope",
+      "family": "Harvey",
+      "given": "Hope"
+    }
+  ],
+  "authors_text": "Harvey, Hope",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00860-0",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00860-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00860-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00860-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

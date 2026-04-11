@@ -1,0 +1,35 @@
+{
+  "title": "Doing Genders: Partner's Gender and Labor Market Behavior",
+  "abstract": "Partnered men and women show consistently gendered patterns of labor market behavior. We test whether not only a person's own gender, but also their partner's gender shapes hours worked. We use Dutch administrative population data on almost 5,000 persons who had both male and female partners, whose hours worked we observe monthly over 15 years. We argue that this provides a unique setting to assess the relevance of partner's gender for labor market behavior. Using two-way fixed effects and fixed-effects individual slopes models, we find that both men and women tend to work more hours when partnered with a female partner compared to a male partner. These results align with our hypothesis that a partner's gender influences labor market behavior. For women, we conclude that this finding may be (partly) explained by marital and motherhood status. Additionally, we discovered that women decrease their hours worked to a lesser extent when caring for a child if they have a female partner. Finally, we found that for men, the positive association between own and partner's hours worked is weaker when one has a female partner, indicating a higher degree of specialization within these couples.",
+  "authors": [
+    {
+      "raw": "Jaspers, Eva",
+      "family": "Jaspers",
+      "given": "Eva"
+    },
+    {
+      "raw": "Mazrekaj, Deni",
+      "family": "Mazrekaj",
+      "given": "Deni"
+    },
+    {
+      "raw": "Machado, Weverthon",
+      "family": "Machado",
+      "given": "Weverthon"
+    }
+  ],
+  "authors_text": "Jaspers, Eva; Mazrekaj, Deni; Machado, Weverthon",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1177/00031224241252079",
+  "doi_url": "https://doi.org/10.1177/00031224241252079",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224241252079",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224241252079.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

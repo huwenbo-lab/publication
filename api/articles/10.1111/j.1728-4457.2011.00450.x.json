@@ -1,0 +1,25 @@
+{
+  "title": "Harvesting the Biosphere: The Human Impact",
+  "abstract": "The human species has evolved to dominate the biosphere: global anthropomass is now an order of magnitude greater than the mass of all wild terrestrial mammals. As a result, our dependence on harvesting the products of photosynthesis for food, animal feed, raw materials, and energy has grown to make substantial global impacts. During the past two millennia these harvests, and changes of land use due to deforestation and conversions of grasslands and wetlands, have reduced the stock of global terrestrial plant mass by as much as 45 percent, with the twentieth-century reduction amounting to more than 15 percent. Current annual harvests of phytomass have been a significant share of the global net primary productivity (NPP, the total amount of new plant tissues created by photosynthesis). Some studies put the human appropriation of NPP (the ratio of these two variables) as high as 40 percent but the measure itself is problematic. Future population growth and improved quality of life will result in additional claims on the biosphere, but options to accommodate these demands exist without severely compromising the irreplaceable biospheric services.",
+  "authors": [
+    {
+      "raw": "Smil, Vaclav",
+      "family": "Smil",
+      "given": "Vaclav"
+    }
+  ],
+  "authors_text": "Smil, Vaclav",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2011,
+  "doi": "10.1111/j.1728-4457.2011.00450.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2011.00450.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2011.00450.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2011.00450.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

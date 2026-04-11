@@ -1,0 +1,25 @@
+{
+  "title": "Maternal Age and Infant Mortality for White, Black, and Mexican Mothers in the United States",
+  "abstract": "This paper assesses the pattern of infant mortality by maternal age for white, black, and Mexican mothers using the 2013 Period Linked Birth/Infant Death Public Use File from the Centers for Disease Control. The results are consistent with the “weathering” hypothesis, which suggests that white women benefit from delayed childbearing while for black women early childbearing is adaptive because of deteriorating health status through the childbearing years. For white women, the risk (adjusted for covariates) of infant death is U-shaped—lowest in the early thirties—while for black women the risk increases linearly with age. Mexican-origin women show a J-shape, with highest risk at the oldest ages. The results underscore the need for understanding the relationship between maternal age and infant mortality in the context of unequal health experiences across race/ethnic groups in the US.",
+  "authors": [
+    {
+      "raw": "Cohen, Philip",
+      "family": "Cohen",
+      "given": "Philip"
+    }
+  ],
+  "authors_text": "Cohen, Philip",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2016,
+  "doi": "10.15195/v3.a2",
+  "doi_url": "https://doi.org/10.15195/v3.a2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv3.a2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v3.a2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "The Non-uniqueness Property of the Intrinsic Estimator in APC Models",
+  "abstract": "This article explores an important property of the intrinsic estimator that has received no attention in literature: the age, period, and cohort estimates of the intrinsic estimator are not unique but vary with the parameterization and reference categories chosen for these variables. We give a formal proof of the non-uniqueness property for effect coding and dummy variable coding. Using data on female mortality in the United States over the years 1960-1999, we show that the variation in the results obtained for different parameterizations and reference categories is substantial and leads to contradictory conclusions. We conclude that the non-uniqueness property is a new argument for not routinely applying the intrinsic estimator.",
+  "authors": [
+    {
+      "raw": "Pelzer, Ben",
+      "family": "Pelzer",
+      "given": "Ben"
+    },
+    {
+      "raw": "te Grotenhuis, Manfred",
+      "family": "te Grotenhuis",
+      "given": "Manfred"
+    },
+    {
+      "raw": "Eisinga, Rob",
+      "family": "Eisinga",
+      "given": "Rob"
+    },
+    {
+      "raw": "Schmidt-Catran, Alexander W.",
+      "family": "Schmidt-Catran",
+      "given": "Alexander W."
+    }
+  ],
+  "authors_text": "Pelzer, Ben; te Grotenhuis, Manfred; Eisinga, Rob; Schmidt-Catran, Alexander W.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-014-0360-3",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0360-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0360-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0360-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

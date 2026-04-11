@@ -1,0 +1,30 @@
+{
+  "title": "The Fall of Violence and the Reconfiguration of Urban Neighborhoods",
+  "abstract": "Over the past few decades, U.S. cit ies have changed dra mat i cally, largely because of two major trends: the fall of vio lence and the rise of urban inequal ity. Despite the atten tion given to each of these trends, lit tle research has assessed how they are related to each other. This study is the first to gen er ate causal evi dence on the impact of vio lent crime on eco nomic res i den tial seg re ga tion. We doc u ment the effect of the crime drop on eco nomic seg re ga tion in 500 U.S. cit ies between 1990 and 2010, using exogenous shocks to city crime rates to iden tify causal effects. We find that declining violent and property crime reduced low-income household segregation but had no effect on afflu ent house holds. Our find ings indi cate that the crime decline has not overturned the trend toward ris ing eco nomic seg re ga tion but has slowed its pace. Additional analyses suggest that declining crime reduced low-income household segregation by drawing more White and college-educated residents to the poorest neighborhoods of 1990. We also find sug ges tive evi dence that declining vio lence led poor house holds to migrate out of low-income neigh bor hoods, reflecting a pattern of gentrification. Descriptive analyses of tract-level data from five cities show that neighborhoods with sharper declines in violence became less socioeconomically disadvantaged. Despite continued rising economic inequality, the crime decline has had its greatest impact on concentrated poverty, long seen as one of the most harm ful dimen sions of urban inequal ity.",
+  "authors": [
+    {
+      "raw": "Torrats-Espinosa, Gerard",
+      "family": "Torrats-Espinosa",
+      "given": "Gerard"
+    },
+    {
+      "raw": "Sharkey, Patrick",
+      "family": "Sharkey",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Torrats-Espinosa, Gerard; Sharkey, Patrick",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11841397",
+  "doi_url": "https://doi.org/10.1215/00703370-11841397",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11841397",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11841397.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "A comparative perspective on intermarriage: Explaining differences among national-origin groups in the United States",
+  "abstract": "AbstractLittle is known about the validity of group-level theories of ethnic intermarriage despite the fact that such theories are often invoked in explaining why certain ethnic groups are “closed,” whereas others are relatively “open.” We develop a comparative perspective by analyzing the marriage choices of 94 national-origin groups in the United States, using pooled data from the Current Population Surveys, 1994–2006, and multilevel models in which individual and contextual determinants of intermarriage are included simultaneously. Our analyses show large differences in endogamy across groups. After taking compositional effects into account, we find that both structural and cultural group-level factors have significant effects on endogamy. Cultural explanations (which focus on the role of norms and preferences) play a more important role than structural explanations (which focus on meeting and mating opportunities). Our results reinforce the common but untested interpretation of endogamy in terms of group boundaries.",
+  "authors": [
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    },
+    {
+      "raw": "Van Tubergen, Frank",
+      "family": "Van Tubergen",
+      "given": "Frank"
+    }
+  ],
+  "authors_text": "Kalmijn, Matthijs; Van Tubergen, Frank",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0103",
+  "doi_url": "https://doi.org/10.1353/dem.0.0103",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0103",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0103.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

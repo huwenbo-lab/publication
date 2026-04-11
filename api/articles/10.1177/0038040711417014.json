@@ -1,0 +1,25 @@
+{
+  "title": "Academic Achievement and Its Impact on Friend Dynamics",
+  "abstract": "Academic achievement in adolescence is a key determinant of future educational and occupational success. Friends play an important role in the educational process. They provide support and resources and can both encourage and discourage academic achievement. As a result, the friends adolescents make may help to maintain and exacerbate inequality if friends are sorted on the basis of academic achievement. These observations prompt the question: How does academic achievement affect the friendship ties made? Using data from the high schools in the Add Health saturated sample, the author models network change using a stochastic actor-based Markov model for the co-evolution of networks and behavior. This model is carried out at the school level for each of the high schools included in the saturated sample. Results show that in the most typical American schools, similarity in academic achievement is an important and consistent predictor of friendship ties in a dynamic context. High-achieving students are more likely to extend ties to other high-achieving students, net of other sociodemographic, network, and proximity characteristics, while low-achieving students are more likely to extend ties to other low-achieving students. Adolescents respond to changes in academic achievement by changing their friendship ties.",
+  "authors": [
+    {
+      "raw": "Flashman, Jennifer",
+      "family": "Flashman",
+      "given": "Jennifer"
+    }
+  ],
+  "authors_text": "Flashman, Jennifer",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2012,
+  "doi": "10.1177/0038040711417014",
+  "doi_url": "https://doi.org/10.1177/0038040711417014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040711417014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040711417014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

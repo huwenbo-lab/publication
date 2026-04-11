@@ -1,0 +1,25 @@
+{
+  "title": "Does Re-Partnering Behavior Spread Among Former Spouses?",
+  "abstract": "AbstractThis study focused on individuals’ re-partnering behavior following a divorce and asked whether divorcees influence each other’s new union formation. By exploiting the System of Social statistical Datasets (SSD) of Statistics Netherlands, I identified divorced dyads and examined interdependencies in their re-partnering behavior. Discrete-time event history models accounting for shared characteristics of divorcees that are likely to influence their divorce and re-partnering behavior simultaneously were estimated. Findings showed that the probability of re-partnering increased within the first two years following a former spouse’s new union formation. Further analyses focusing on formerly cohabiting couples rather than divorcees also revealed significant associations in re-partnering behavior. Following a former romantic partner’s new union formation, women were exposed to risk longer than men, due to men’s quicker re-partnering. These results were robust to the falsification tests. Overall, findings indicate that the consequences of a divorce or breakup are not limited to the incidence itself and former romantic partners remain important in each other’s life courses even after a breakup. With the increasing number of divorcees and changing family structures, it is important to consider former spouses as active network partners that may influence individual life courses.",
+  "authors": [
+    {
+      "raw": "Buyukkececi, Zafer",
+      "family": "Buyukkececi",
+      "given": "Zafer"
+    }
+  ],
+  "authors_text": "Buyukkececi, Zafer",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2021,
+  "doi": "10.1007/s10680-021-09589-x",
+  "doi_url": "https://doi.org/10.1007/s10680-021-09589-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-021-09589-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-021-09589-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

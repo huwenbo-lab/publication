@@ -1,0 +1,40 @@
+{
+  "title": "Visualizing Concentrations of Couples and Same-Sex Couples across U.S. Counties",
+  "abstract": "The 2020 decennial census provides a unique opportunity to directly count same-sex couples using a revised household roster, and its recently released Demographic and Housing Characteristics File offers county-level data on the concentration of same-sex couples. As county-level data can unveil more nuanced geographic patterns than state-level data, the authors examine within-state variation using two maps of county-level quartiles to compare the percentages of individuals in unions among the population and same-sex unions among all unions. The findings reveal that concentrations of same-sex couples are not necessarily driven by the percentages of individuals in unions. These patterns suggest that the social location of same-sex couples is not determined solely by the area’s couple configuration but by other factors. To help illuminate these factors, future research should explore whether the counties with high shares of couples but low shares of same-sex couples are also areas where inclusivity tends to be lagging.",
+  "authors": [
+    {
+      "raw": "Marino, Francesca A.",
+      "family": "Marino",
+      "given": "Francesca A."
+    },
+    {
+      "raw": "Westrick-Payne, Krista K.",
+      "family": "Westrick-Payne",
+      "given": "Krista K."
+    },
+    {
+      "raw": "Manning, Wendy D.",
+      "family": "Manning",
+      "given": "Wendy D."
+    },
+    {
+      "raw": "Brown, Susan L.",
+      "family": "Brown",
+      "given": "Susan L."
+    }
+  ],
+  "authors_text": "Marino, Francesca A.; Westrick-Payne, Krista K.; Manning, Wendy D.; Brown, Susan L.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231231222772",
+  "doi_url": "https://doi.org/10.1177/23780231231222772",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231222772",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231222772.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

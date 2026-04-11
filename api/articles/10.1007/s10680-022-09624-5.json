@@ -1,0 +1,45 @@
+{
+  "title": "Life-Course Trajectories of Childless Women: Country-Specific or Universal?",
+  "abstract": "AbstractWhile existing research has documented complexities in biographies of childless women, few studies to date have systematically examined the life-course pathways of the childless from a comparative, cross-country perspective. In this paper, we analyse biographies of childless women in four countries—Germany, Italy, Poland, and the United States—in order to investigate whether pathways into childlessness are country-specific or commonly shared across institutional, cultural, and geographical settings. Partnership, education, and employment histories are examined using sequence analysis with dynamic Hamming distance and cluster analysis. Discrepancy analysis indicates a country-effect in women’s biographies although life-course patterns identified in each country share similarities. Overall, seven life-course trajectories have been identified, with the most numerous cluster comprising single, working women who completed their education at a relatively young age. The results highlight a marked variation in the life-courses of childless women. Put together, these findings provide descriptive evidence for both country-specificity and cross-country similarity in the pathways to childlessness.",
+  "authors": [
+    {
+      "raw": "Tocchioni, Valentina",
+      "family": "Tocchioni",
+      "given": "Valentina"
+    },
+    {
+      "raw": "Rybińska, Anna",
+      "family": "Rybińska",
+      "given": "Anna"
+    },
+    {
+      "raw": "Mynarska, Monika",
+      "family": "Mynarska",
+      "given": "Monika"
+    },
+    {
+      "raw": "Matysiak, Anna",
+      "family": "Matysiak",
+      "given": "Anna"
+    },
+    {
+      "raw": "Vignoli, Daniele",
+      "family": "Vignoli",
+      "given": "Daniele"
+    }
+  ],
+  "authors_text": "Tocchioni, Valentina; Rybińska, Anna; Mynarska, Monika; Matysiak, Anna; Vignoli, Daniele",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09624-5",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09624-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09624-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09624-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

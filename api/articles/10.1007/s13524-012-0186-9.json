@@ -1,0 +1,40 @@
+{
+  "title": "Educational Differences in Completed Fertility: A Behavioral Genetic Study of Finnish Male and Female Twins",
+  "abstract": "AbstractDespite the large body of research on educational differences in fertility, how genetic and environmental influences may contribute to educational differences in completed fertility is not well understood. This study examines the association between educational level and completed fertility in a sample of Finnish male and female twins born between 1950 and 1957 with register-based fertility follow-up until 2009. The results show that poorly educated men and highly educated women are least likely to have any children and have lower completed fertility in general. Behavioral genetics analysis suggests that the association between education and having any children in both sexes is influenced by factors shared by co-twins and that these factors are genetic rather than common environmental. No evidence of a causal pathway between education and having any children independent of these shared influences is found. These findings suggest that familial factors may play a role in the process through which educational differences in completed fertility are formed.",
+  "authors": [
+    {
+      "raw": "Nisén, Jessica",
+      "family": "Nisén",
+      "given": "Jessica"
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    },
+    {
+      "raw": "Kaprio, Jaakko",
+      "family": "Kaprio",
+      "given": "Jaakko"
+    },
+    {
+      "raw": "Silventoinen, Karri",
+      "family": "Silventoinen",
+      "given": "Karri"
+    }
+  ],
+  "authors_text": "Nisén, Jessica; Martikainen, Pekka; Kaprio, Jaakko; Silventoinen, Karri",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-012-0186-9",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0186-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0186-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0186-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

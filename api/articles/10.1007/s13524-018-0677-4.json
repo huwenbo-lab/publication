@@ -1,0 +1,30 @@
+{
+  "title": "Formerly Incarcerated Parents and Their Children",
+  "abstract": "The negative effects of incarceration on child well-being are often linked to the economic insecurity of formerly incarcerated parents. Researchers caution, however, that the effects of parental incarceration may be small in the presence of multiple-partner fertility and other family complexity. Despite these claims, few studies have directly observed either economic insecurity or the full extent of family complexity. We study parent-child relationships with a unique data set that includes detailed information about economic insecurity and family complexity among parents just released from prison. We find that stable private housing, more than income, is associated with close and regular contact between parents and children. Formerly incarcerated parents see their children less regularly in contexts of multiple-partner fertility and in the absence of supportive family relationships. Significant housing and family effects are estimated even after we control for drug use and crime, which are themselves negatively related to parental contact. The findings point to the constraints of material insecurity and the complexity of family relationships on the contact between formerly incarcerated parents and their children.",
+  "authors": [
+    {
+      "raw": "Western, Bruce",
+      "family": "Western",
+      "given": "Bruce"
+    },
+    {
+      "raw": "Smith, Natalie",
+      "family": "Smith",
+      "given": "Natalie"
+    }
+  ],
+  "authors_text": "Western, Bruce; Smith, Natalie",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0677-4",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0677-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0677-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0677-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

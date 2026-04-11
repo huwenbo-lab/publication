@@ -1,0 +1,30 @@
+{
+  "title": "Genetic Options and Constraints: A Randomized Controlled Trial on How Genetic Ancestry Tests Affect Ethnic and Racial Identities",
+  "abstract": "An estimated 21% of US adults have taken genetic ancestry tests (GATs). Recent studies have found that many test-takers change their ethnic and racial identities based on GAT results, viewing them through social lenses rather than always deferring to genetic information. Yet these studies have several limitations; most fail to consider the counterfactual or account for ancestry percentages reported in admixture tests. In this first randomized controlled trial of GATs, the authors analyze GATs' causal impact on identity change among non-Hispanic White Americans (N=802). The authors address how much identity change can be attributed to GATs and evaluate the independent and interactional effects of identity aspirations and test-reported ancestry percentages. They find very low rates of racial identity change and significant but small amounts of ethnic identity change beyond that experienced by non-test-takers. The authors find support for identity aspirations and GAT-reported ancestry percentages as change mechanisms. They also find that GATs do not support test-takers' claims to Native American ancestry; they are more than twice as likely as non-GAT-takers to drop Native American identities after testing.",
+  "authors": [
+    {
+      "raw": "Roth, Wendy D.",
+      "family": "Roth",
+      "given": "Wendy D."
+    },
+    {
+      "raw": "Yaylaci, Sule",
+      "family": "Yaylaci",
+      "given": "Sule"
+    }
+  ],
+  "authors_text": "Roth, Wendy D.; Yaylaci, Sule",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1086/728819",
+  "doi_url": "https://doi.org/10.1086/728819",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F728819",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/728819.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

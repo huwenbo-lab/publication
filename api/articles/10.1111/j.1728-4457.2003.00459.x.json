@@ -1,0 +1,25 @@
+{
+  "title": "Some thoughts on causation as it relates to demography and population studies",
+  "abstract": "The counterfactual account of causality defines an effect as the difference, for some unit, between an outcome under an observed treatment and an outcome under a hypothetical alternative. When units are heterogeneous in a population, there is no single causal effect. The micro-level account of causation is complicated when units interact with one another, as they do in human populations. The search for causation requires manipulation. But key micro-level demographic variables-age, race, sex-are not easily manipulated. What are subject to manipulation are the social rules, policies, or choice sets available to individuals within populations. Thus causes are best conceptualized at the macro level, even if their effects are observed at the micro level.",
+  "authors": [
+    {
+      "raw": "Smith, HL",
+      "family": "Smith",
+      "given": "HL"
+    }
+  ],
+  "authors_text": "Smith, HL",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2003,
+  "doi": "10.1111/j.1728-4457.2003.00459.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2003.00459.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2003.00459.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2003.00459.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

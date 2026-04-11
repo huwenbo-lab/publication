@@ -1,0 +1,25 @@
+{
+  "title": "Interpreting changes in life expectancy during temporary mortality shocks",
+  "abstract": "BACKGROUND Life expectancy is a pure measure of the mortality conditions faced by a population, unaffected by that population's age structure. The numerical value of life expectancy also has an intuitive interpretation, conditional on some assumptions, as the expected age at death of an average newborn. This intuitive interpretation gives life expectancy a broad appeal. Changes in life expectancy are also routinely used to assess mortality trends. Interpreting these changes is not straightforward as the assumptions underpinning the intuitive interpretation of life expectancy are no longer valid. This is particularly problematic during mortality 'shocks,' such as during wars or pandemics, when mortality changes may be sudden, temporary, and contrary to secular trends.OBJECTIVE This study aims to provide an alternative perspective on what changes in life expectancy measure that remains applicable during mortality shocks.CONCLUSIONS Returning to two different models that the period life table may represent, I show that a difference in life expectancy is typically interpreted from the synthetic cohort model as the difference in mean longevity between different birth cohorts. However, it can also be interpreted from the stationary population model as a measure of premature mortality in a death cohort. The latter, less common interpretation makes more sense for temporary declines in life expectancy induced by mortality shocks. The absolute change in life expectancy is then an age-standardized value of the average lifespan reduction for people dying during the mortality shock.CONTRIBUTION To clarify what a decline in life expectancy measures during mortality shocks is important, especially as demographers often assess the mortality impact of those shocks using this metric, which gets widely reported beyond demographers' inner circle.",
+  "authors": [
+    {
+      "raw": "Heuveline, Patrick",
+      "family": "Heuveline",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Heuveline, Patrick",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.1",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Context effects and the temporal stability of stated preferences",
+  "abstract": "In stated preference studies it is assumed that individuals' answers reflect true preferences and are stable over time. We test these two assumptions of validity and reliability using as an example a choice experiment study on ethical consumption that measures preferences for a Peace Product jointly produced by Israeli and Palestinian producers as well as for organic products. In a web survey conducted in Germany, we investigate the validity assumption by manipulating the question context and presenting one group of respondents with questions on anti-Semitic and anti-Arabic attitudes before the choice tasks, and presenting another group with these questions after the choice tasks. In order to test the assumption of temporal stability, the same experimental set-up was repeated in a second survey based on a new sample ten months after the first. However, prior to the second survey an external event, a major violent dispute between Israelis and the Palestinians occurred. Overall, we find evidence for a context effect but not for temporal instability. In both surveys, the placement of the attitudinal questions before the choice tasks has a positive effect on the valuation of products from Israel, Palestinian products and the Peace Product (i.e. a directional context effect). The respondents seem to act according to an anti-discrimination norm. In line with this reasoning, we find an attention shift caused by the attitudinal questions. Organic products are valued much less positively if discriminatory attitudes are surveyed before the choice tasks. Furthermore, despite the violent dispute, stated preferences are very stable over time. This indicates high reliability of stated preference studies and encourages the use of study results by private and public decision makers. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Liebe, Ulf",
+      "family": "Liebe",
+      "given": "Ulf"
+    },
+    {
+      "raw": "Hundeshagen, Cordula",
+      "family": "Hundeshagen",
+      "given": "Cordula"
+    },
+    {
+      "raw": "Beyer, Heiko",
+      "family": "Beyer",
+      "given": "Heiko"
+    },
+    {
+      "raw": "von Cramon-Taubadel, Stephan",
+      "family": "von Cramon-Taubadel",
+      "given": "Stephan"
+    }
+  ],
+  "authors_text": "Liebe, Ulf; Hundeshagen, Cordula; Beyer, Heiko; von Cramon-Taubadel, Stephan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.04.013",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.04.013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.04.013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.04.013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

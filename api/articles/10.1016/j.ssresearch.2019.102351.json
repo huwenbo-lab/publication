@@ -1,0 +1,35 @@
+{
+  "title": "Educational expansion and educational wage premiums of young male employees: A long-term analysis for West Germany 1976-2010",
+  "abstract": "For decades, Western societies have experienced educational expansion accompanied by an upgrading of skills. The literature provides competing hypotheses on the consequences for educational wage returns - among them are the positional value theory, routine-biased technological change, and the social closure theory. We test these theoretical perspectives empirically on young, male full-time workers in West Germany between 1976 and 2010 in two ideal-type occupational segments using 2.34 million administrative earnings records (Sample of Integrated Labor Market Biographies, SIAB). Our findings show no credential inflation across all levels of education. Instead, the picture in both segments - negative effects of educational expansion on the returns to medium-but not high-level skills - confirms the predictions of routine-biased technological change. Wage premiums for medium-skilled workers differ between segments: the premiums worsen over time in the general segment whereas social-closure mechanisms seem to weaken this negative trend for vocational graduates in the specific segment.",
+  "authors": [
+    {
+      "raw": "Alda, Holger",
+      "family": "Alda",
+      "given": "Holger"
+    },
+    {
+      "raw": "Friedrich, Anett",
+      "family": "Friedrich",
+      "given": "Anett"
+    },
+    {
+      "raw": "Rohrbach-Schmidt, Daniela",
+      "family": "Rohrbach-Schmidt",
+      "given": "Daniela"
+    }
+  ],
+  "authors_text": "Alda, Holger; Friedrich, Anett; Rohrbach-Schmidt, Daniela",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102351",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102351",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102351",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102351.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

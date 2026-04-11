@@ -1,0 +1,30 @@
+{
+  "title": "Opportunities and challenges of big data for the social sciences: The case of genomic data",
+  "abstract": "In this paper, we draw attention to one unique and valuable source of big data, genomic data, by demonstrating the opportunities they provide to social scientists. We discuss different types of large-scale genomic data and recent advances in statistical methods and computational infrastructure used to address challenges in managing and analyzing such data. We highlight how these data and methods can be used to benefit social science research. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Liu, Hexuan",
+      "family": "Liu",
+      "given": "Hexuan"
+    },
+    {
+      "raw": "Guo, Guang",
+      "family": "Guo",
+      "given": "Guang"
+    }
+  ],
+  "authors_text": "Liu, Hexuan; Guo, Guang",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.04.016",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.04.016",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.04.016",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.04.016.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Family Influence on Physical Health During the Middle Years: The Case of Onset of Hypertension",
+  "abstract": "Using survival analysis for 367 married women and 340 married men, this article investigates (a) change in hazard rates and survival probabilities with age for the onset of hypertension and (b) the influences of stressful marital and parental relationships on the hazard rates and survival probabilities of hypertension. Hazard and survival plots show that the risk for hypertension increases during the middle years to maximum, then decreases with age for both men and women. Log‐logistic survival models demonstrate that although marital stress significantly increases the likelihood of earlier hypertension among these long‐time married men and women, parental stress increases the likelihood of earlier hypertension only for women. These models control for the effects of stressful work conditions, health behaviors, hostility, and education. Employing a longitudinal research design strengthens confidence in the findings. The findings demonstrate that stressful close relationships may be more important determinants of physical health than is generally assumed.",
+  "authors": [
+    {
+      "raw": "Wickrama, K. A. S.",
+      "family": "Wickrama",
+      "given": "K. A. S."
+    },
+    {
+      "raw": "Lorenz, Frederick O.",
+      "family": "Lorenz",
+      "given": "Frederick O."
+    },
+    {
+      "raw": "Wallace, Lora Ebert",
+      "family": "Wallace",
+      "given": "Lora Ebert"
+    },
+    {
+      "raw": "Peiris, Laknath",
+      "family": "Peiris",
+      "given": "Laknath"
+    },
+    {
+      "raw": "Conger, Rand D.",
+      "family": "Conger",
+      "given": "Rand D."
+    },
+    {
+      "raw": "Elder, Glen H.",
+      "family": "Elder",
+      "given": "Glen H."
+    }
+  ],
+  "authors_text": "Wickrama, K. A. S.; Lorenz, Frederick O.; Wallace, Lora Ebert; Peiris, Laknath; Conger, Rand D.; Elder, Glen H.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2001,
+  "doi": "10.1111/j.1741-3737.2001.00527.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2001.00527.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2001.00527.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2001.00527.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

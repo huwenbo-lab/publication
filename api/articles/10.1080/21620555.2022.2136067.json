@@ -1,0 +1,25 @@
+{
+  "title": "Marriage chances and international migration from Fujian to the US, 1978-2000",
+  "abstract": "This paper explores the effect of migration on marriage for Fujianese international migrants to the US during a period of mass China-US migration, 1978-2000. It sheds light on significant gender differences in terms of the impact of migration on marriage. Data from the Chinese International Migration Project on Chinese international migration to the US was used, with detailed information on respondents' migration and marriage history. Discrete-time event history techniques are employed allowing for correlation across migration and marriage at both the individual and household levels. Results show that migration decreased men's marriage chances, while it only temporarily disrupted those of women. The negative effect of migration on marriage for men could be due to the differing educational levels for male and female migrants, which makes assortative matching less likely at destination, especially for lower educated men. The results also show that migrants have a higher probability of marriage than nonmigrants.",
+  "authors": [
+    {
+      "raw": "Nie, Wanli",
+      "family": "Nie",
+      "given": "Wanli"
+    }
+  ],
+  "authors_text": "Nie, Wanli",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1080/21620555.2022.2136067",
+  "doi_url": "https://doi.org/10.1080/21620555.2022.2136067",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2022.2136067",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2022.2136067.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

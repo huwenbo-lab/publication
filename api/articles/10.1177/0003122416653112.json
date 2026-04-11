@@ -1,0 +1,35 @@
+{
+  "title": "Nonmarital First Births, Marriage, and Income Inequality",
+  "abstract": "Many aggregate-level studies suggest a relationship between economic inequality and sociodemographic outcomes such as family formation, health, and mortality; individual-level evidence, however, is lacking. Nor is there satisfactory evidence on the mechanisms by which inequality may have an effect. We study the determinants of transitions to a nonmarital first birth as a single parent or as a cohabiting parent compared to transitions to marriage prior to a first birth among unmarried, childless young adults in the National Longitudinal Survey of Youth, 1997 cohort, from 1997 to 2011. We include measures of county-group-level household income inequality and the availability of jobs typically held by high school graduates that pay above-poverty wages (i.e., middle-skilled jobs). We find that greater income inequality is associated with a reduced likelihood of transitioning to marriage prior to a first birth for both women and men. The association between levels of inequality and transitions to marriage can be partially accounted for by the availability of middle-skilled jobs. Some models also suggest that greater income inequality is associated with a reduced likelihood of transitioning to a first birth while cohabiting.",
+  "authors": [
+    {
+      "raw": "Cherlin, Andrew J.",
+      "family": "Cherlin",
+      "given": "Andrew J."
+    },
+    {
+      "raw": "Ribar, David C.",
+      "family": "Ribar",
+      "given": "David C."
+    },
+    {
+      "raw": "Yasutake, Suzumi",
+      "family": "Yasutake",
+      "given": "Suzumi"
+    }
+  ],
+  "authors_text": "Cherlin, Andrew J.; Ribar, David C.; Yasutake, Suzumi",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1177/0003122416653112",
+  "doi_url": "https://doi.org/10.1177/0003122416653112",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122416653112",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122416653112.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

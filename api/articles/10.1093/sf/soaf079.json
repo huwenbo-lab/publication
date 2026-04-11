@@ -1,0 +1,40 @@
+{
+  "title": "Competing social influence in contested diffusion: contention and the spread of the early reformation",
+  "abstract": "The spread of radical institutional change does not often result from one-sided pro-innovation influence; countervailing influence networks in support of the status quo can suppress adoption. We develop a model of multiplex and competing network diffusion to describe how competing actors compete through multiple types of networks. Specifically, we hypothesize three types of contested diffusion: market competition, inoculation, and firefighting. To apply the contested-diffusion model to real data, we look at the contest between Martin Luther and Desiderius Erasmus, the two most influential intellectuals of early 16th-century Europe. In the early phase of the Reformation, these two figures utilized influence networks, affecting which cities in the Holy Roman Empire adopted reform. Using newly digitalized data on both leaders' correspondence networks, their travels, the dispersion of their followers, and parallel processes of exchange among places through trade routes, we employ empirical tests of our theoretical model. We find that although Luther's network is strongly associated with the spread of the Reformation, Erasmus's network is associated with the stifling of the Reformation. This is consistent with a firefighting mechanism of contested diffusion, whereby the countervailing force suppresses innovations only after they have begun to spread.",
+  "authors": [
+    {
+      "raw": "Becker, Sascha",
+      "family": "Becker",
+      "given": "Sascha"
+    },
+    {
+      "raw": "Hsiao, Yuan",
+      "family": "Hsiao",
+      "given": "Yuan"
+    },
+    {
+      "raw": "Pfaff, Steven",
+      "family": "Pfaff",
+      "given": "Steven"
+    },
+    {
+      "raw": "Rubin, Jared",
+      "family": "Rubin",
+      "given": "Jared"
+    }
+  ],
+  "authors_text": "Becker, Sascha; Hsiao, Yuan; Pfaff, Steven; Rubin, Jared",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf079",
+  "doi_url": "https://doi.org/10.1093/sf/soaf079",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf079",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf079.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

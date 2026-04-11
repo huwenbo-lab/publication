@@ -1,0 +1,30 @@
+{
+  "title": "Born to move? Birth order and emigration",
+  "abstract": "This paper studies the interrelation between birth order and emigration adopting a family fixedeffects approach. We use register data on all persons in full-siblings groups born 1970-2002 in the entire Finnish-born population, and observe their first move abroad since age 18 in the period 1987-2020. The total number of siblings is 1,352,908, the total number of sibling groups 549,842, and the total number of first moves abroad 31,192. By comparing siblings in the same family, we effectively adjust for all time-invariant confounding from unobserved or unmeasured time-invariant variables. Emigration is found to be positively associated with birth order. The hazard of emigration for second-born siblings is 1.05 that of first borns, that of third borns 1.07, and that of fourth borns 1.11. The pattern is particularly marked for emigration to countries where there is free mobility, and the association is similar for both genders. Potential explanations to the birth order pattern may be variation in personality traits, risk-taking behaviours and aspirations between siblings, or differential allocation of resources and opportunities within families. The results highlight the importance of considering birth order within the context of family dynamics and individual mobility patterns, and they need to be extended to broader settings.",
+  "authors": [
+    {
+      "raw": "Saarela, Jan",
+      "family": "Saarela",
+      "given": "Jan"
+    },
+    {
+      "raw": "Turunen, Jani",
+      "family": "Turunen",
+      "given": "Jani"
+    }
+  ],
+  "authors_text": "Saarela, Jan; Turunen, Jani",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103052",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103052",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103052",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103052.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

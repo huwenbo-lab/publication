@@ -1,0 +1,40 @@
+{
+  "title": "A Note on Sequential Neighborhood Effects by Hicks et al. (2018)",
+  "abstract": "We revisit a novel causal model published in Demography by Hicks et al. (2018), designed to assess whether exposure to neighborhood disavantage over time affects children's reading and math skills. Here, we provide corrected and new results. Reconsideration of the model in the original article raised concerns about bias due to expoure iduced confounding (i.e., past exposures directly affecting future exposures) and true state dependence (i.e., past exposures affecting confounders of future exposures). Through simulation, we show that our originally proposed propensity function approach displays modest bias due to exposureinduced confounding but no bias from true state dependence. We suggest a correction based on residualized values and show that this new approach corrects for the observed bias. We contrast this revised method with other causal modeling approaches using simulation. Finally, we reproduce the substantive models from Hicks et al. (2018) using the new residuals-based adjustment procedure. With the correction, our findings are essentially identical to those reported originally. We end with some conclusions regarding approaches to causal modeling.",
+  "authors": [
+    {
+      "raw": "Handcock, Mark S.",
+      "family": "Handcock",
+      "given": "Mark S."
+    },
+    {
+      "raw": "Hicks, Andrew L.",
+      "family": "Hicks",
+      "given": "Andrew L."
+    },
+    {
+      "raw": "Sastry, Narayan",
+      "family": "Sastry",
+      "given": "Narayan"
+    },
+    {
+      "raw": "Pebley, Anne R.",
+      "family": "Pebley",
+      "given": "Anne R."
+    }
+  ],
+  "authors_text": "Handcock, Mark S.; Hicks, Andrew L.; Sastry, Narayan; Pebley, Anne R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9000711",
+  "doi_url": "https://doi.org/10.1215/00703370-9000711",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9000711",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9000711.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

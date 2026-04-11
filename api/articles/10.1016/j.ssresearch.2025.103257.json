@@ -1,0 +1,35 @@
+{
+  "title": "Homeownership and political participation: The case of Hong Kong",
+  "abstract": "This article investigates the impacts of homeownership on political participation in Hong Kong, using two waves of data from the Hong Kong Panel Study of Social Dynamics ([HKPSSD], 2015, 2017/2018). Probit regressions show that, compared with renters, homeowners are more likely to engage in both electoral voting and social protests. To address the potential selection bias of homeownership, we employ the lottery results under the Home Ownership Scheme (HOS) as an instrumental variable, and reveal that the results for electoral voting persist. However, no evidence suggests that homeownership increases the likelihood of participating in social protests. Mediation analysis further demonstrates that the association between homeownership and voting behavior is partially explained by residential stability and civic association ties. Our research contributes to understanding the social and political consequences of homeownership in in a unique institutional and cultural setting, which bears significant implications for housing policies to promote homeownership in Hong Kong and beyond.",
+  "authors": [
+    {
+      "raw": "Yin, Jun",
+      "family": "Yin",
+      "given": "Jun"
+    },
+    {
+      "raw": "Miao, Jia",
+      "family": "Miao",
+      "given": "Jia"
+    },
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    }
+  ],
+  "authors_text": "Yin, Jun; Miao, Jia; Wu, Xiaogang",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103257",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103257",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103257",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103257.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

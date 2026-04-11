@@ -1,0 +1,30 @@
+{
+  "title": "Native Out-Migration and Neighborhood Immigration in New Destinations",
+  "abstract": "Abstract Using longitudinal data from the Panel Study of Income Dynamics linked to three decades of census data on immigrant settlement patterns, this study examines how the migration behaviors of native-born whites and blacks are related to local immigrant concentrations, and how this relationship varies across traditional and nontraditional metropolitan gateways. Our results indicate that regardless of gateway type, the likelihood of neighborhood out-migration among natives increases as the local immigrant population grows—an association that is not explained by sociodemographic characteristics of householders or by features of the neighborhoods and metropolitan areas in which they reside. Most importantly, we find that this tendency to move away from immigrants is pronounced for natives living in metropolitan areas that are developing into a major gateway—that is, a community that has experienced rapid recent growth in foreign-born populations. We also demonstrate that among mobile natives, the neighborhoods that they move to have substantially smaller immigrant concentrations than the ones they left, a finding that is especially evident in new gateway areas.",
+  "authors": [
+    {
+      "raw": "Hall, Matthew",
+      "family": "Hall",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    }
+  ],
+  "authors_text": "Hall, Matthew; Crowder, Kyle",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0350-5",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0350-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0350-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0350-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "How Do Criminal Courts Respond in Times of Crisis? Evidence from 9/11",
+  "abstract": "How courts make decisions during national emergencies has been a key focus of legal scholarship, yet we know comparatively little about how courts respond to national crises in one of their core functions-criminal sentencing. This article addresses this gap by leveraging the terrorist attacks on September 11, 2001, to examine the punishment of foreign nationals before and after a national emergency. Using difference-in-difference-in-differences estimation, this article finds little evidence that the severity of sentences for non-U.S. citizens changed appreciably nationwide. This article does find, however, considerable evidence of a more local 9/11 effect, whereby the sentencing gap between citizens and noncitizens widened significantly in the New York and Washington, D.C., District Courts following the attacks. Using restricted data from the U.S. Sentencing Commission, this article finds suggestive evidence that the differences in sentencing following 9/11 are likely attributable to changes in judges' behavior, rather than policy shifts or changes in prosecutorial decisions.",
+  "authors": [
+    {
+      "raw": "Light, Michael",
+      "family": "Light",
+      "given": "Michael"
+    },
+    {
+      "raw": "Massoglia, Michael",
+      "family": "Massoglia",
+      "given": "Michael"
+    },
+    {
+      "raw": "Dinsmore, Ellen",
+      "family": "Dinsmore",
+      "given": "Ellen"
+    }
+  ],
+  "authors_text": "Light, Michael; Massoglia, Michael; Dinsmore, Ellen",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2019,
+  "doi": "10.1086/705159",
+  "doi_url": "https://doi.org/10.1086/705159",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F705159",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/705159.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Executive Compensation, Fat Cats, and Best Athletes",
+  "abstract": "Income gains in the top 1 percent are the primary cause for the rapid growth in U.S. inequality since the late 1970s. Managers and executives of firms account for a large proportion of these top earners. Chief executive officers (CEOs), in particular, have seen their compensation increase faster than the growth in firm size. We propose that changes in the macro patterns of the distribution of CEO compensation resulted from a process of diffusion within localized networks, propagating higher pay among corporate executives. We compare three possible explanations for diffusion: director board interlocks, peer groups, and educational networks. The statistical results indicate that corporate director networks facilitate social comparisons that generate the observed pay patterns. Peer and education network effects do not survive a novel endogeneity test that we execute. A key implication is that local diffusion through executive network structures partially explains the changes in macro patterns of income distribution found in the inequality data.",
+  "authors": [
+    {
+      "raw": "Kim, Jerry W.",
+      "family": "Kim",
+      "given": "Jerry W."
+    },
+    {
+      "raw": "Kogut, Bruce",
+      "family": "Kogut",
+      "given": "Bruce"
+    },
+    {
+      "raw": "Yang, Jae-Suk",
+      "family": "Yang",
+      "given": "Jae-Suk"
+    }
+  ],
+  "authors_text": "Kim, Jerry W.; Kogut, Bruce; Yang, Jae-Suk",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1177/0003122415572463",
+  "doi_url": "https://doi.org/10.1177/0003122415572463",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122415572463",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122415572463.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

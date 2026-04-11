@@ -1,0 +1,30 @@
+{
+  "title": "Care and careers: Gender (in)equality in unpaid care, housework and employment",
+  "abstract": "This article examines whether reducing care and housework duties and redistributing them within different-sex couples could further enhance gender equality on the labor market in terms of labor market participation for different employment types and actual working hours. Women around the world perform the majority of unpaid care and housework, with a large and persistent gap to men. Most research explains the unequal gender division of domestic chores, but less frequently their consequences for employment outcomes and career outlooks. Based on the German Socio-Economic Panel (2001-2017 N = 40,419 for employment probabilities / N = 30,795 for working hours) matched with regional data on external child-and elderly care, the authors use an instrumental variables approach and eliminate time-constant individual effects in first-differenced regressions to address endogeneity issues and to disentangle the reciprocal relationship. Results show that both the overall amount as well as the unequal division of housework and care in couple households have detrimental effects on women's labor market participation and actual working hours. Reducing the overall burden from housework and care duties and achieving a more symmetric within-couple distribution improves female integration into the labor market.",
+  "authors": [
+    {
+      "raw": "Samtleben, Claire",
+      "family": "Samtleben",
+      "given": "Claire"
+    },
+    {
+      "raw": "Mueller, Kai-Uwe",
+      "family": "Mueller",
+      "given": "Kai-Uwe"
+    }
+  ],
+  "authors_text": "Samtleben, Claire; Mueller, Kai-Uwe",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2021.100659",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100659",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100659",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100659.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

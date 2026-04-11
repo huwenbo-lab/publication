@@ -1,0 +1,35 @@
+{
+  "title": "Coherent Mortality Forecasting: The Product-Ratio Method With Functional Time Series Models",
+  "abstract": "Abstract When independence is assumed, forecasts of mortality for subpopulations are almost always divergent in the long term. We propose a method for coherent forecasting of mortality rates for two or more subpopulations, based on functional principal components models of simple and interpretable functions of rates. The product-ratio functional forecasting method models and forecasts the geometric mean of subpopulation rates and the ratio of subpopulation rates to product rates. Coherence is imposed by constraining the forecast ratio function through stationary time series models. The method is applied to sex-specific data for Sweden and state-specific data for Australia. Based on out-of-sample forecasts, the coherent forecasts are at least as accurate in overall terms as comparable independent forecasts, and forecast accuracy is homogenized across subpopulations.",
+  "authors": [
+    {
+      "raw": "Hyndman, Rob J.",
+      "family": "Hyndman",
+      "given": "Rob J."
+    },
+    {
+      "raw": "Booth, Heather",
+      "family": "Booth",
+      "given": "Heather"
+    },
+    {
+      "raw": "Yasmeen, Farah",
+      "family": "Yasmeen",
+      "given": "Farah"
+    }
+  ],
+  "authors_text": "Hyndman, Rob J.; Booth, Heather; Yasmeen, Farah",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0145-5",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0145-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0145-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0145-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

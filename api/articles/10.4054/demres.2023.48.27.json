@@ -1,0 +1,25 @@
+{
+  "title": "Improved bounds and high-accuracy estimates for remaining life expectancy via quadrature rule-based methods",
+  "abstract": "BACKGROUND Previous research has derived bounds on the remaining life expectancy function e(x) that connect survivorship and remaining life expectancy at two age values and therefore can be used to, among other things, estimate life expectancy at birth when the population's full mortality trajectory is not known. RESULTS We show that the aforementioned bounds emerge from using particular two-node closed quadrature rules and prove a theorem that establishes conditions for when an n-node closed rule respects those bounds for e(x). This enables the usage of known high-accuracy rules that stay within the bounds and provide new high-accuracy estimates for e(x). We show that among this set of rules are ones that yield exact estimates for e(x). We illustrate our work empirically using life table data from French females since 1816 and discover a new empirical regularity linking life expectancy at birth in the data set to survivorship and remaining life expectancy at age 20. CONTRIBUTION Our results furnish conditions for using known rules to generate high-accuracy estimates of remaining life expectancy that respect the known theoretical bounds on e(x), making calculating the associated maximum errors straightforward and requiring no information about the higher-order derivatives of the associated survival function, as is the case for standard rules. The empirical validation of this approach in the French female data and the discovery of the aforementioned associated empirical regularity argue for follow-up research using our approach to establish additional, higher-accuracy estimates for e(x) and also to probe the generality and biodemographic drivers of the new regularity.",
+  "authors": [
+    {
+      "raw": "Fernandez, Oscar E.",
+      "family": "Fernandez",
+      "given": "Oscar E."
+    }
+  ],
+  "authors_text": "Fernandez, Oscar E.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.27",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

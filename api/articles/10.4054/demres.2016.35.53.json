@@ -1,0 +1,30 @@
+{
+  "title": "Estimating male fertility in eastern and western Germany since 1991: A new lowest low?",
+  "abstract": "BACKGROUND Research on fertility differentials between eastern and western Germany after German reunification in 1990 has focused on the fertility of women. Trends in the fertility of men are rarely studied due to data constraints and methodological challenges. OBJECTIVE This paper aims to close this gap by analyzing fertility differentials between eastern and western German males over the period 1991-2013. We consider different approaches to estimate male fertility and investigate variation in fertility trends, levels, and timing. METHODS We use German birth register data to estimate age-specific fertility rates and total fertility rates. As the paternal age is unknown for a non-negligible proportion of births, we compare imputation techniques and conduct sensitivity analyses. For the population at risk we employ adjusted numbers that attempt to account for the overcount in the population of childbearing age in the 1990s and the 2000s. RESULTS The trends and differences in the fertility of eastern and western German men are roughly similar to those observed among women. However, male fertility levels are lower, and male and female fertility vary in terms of timing. The total fertility rate of eastern German males in 1994 of 0.74 is likely to represent a record low. Whereas the fertility levels of eastern German women recently surpassed those of western German women, the fertility levels of eastern German men are still lower than those of their western German counterparts. CONTRIBUTION We compare methods to estimate male fertility trends.",
+  "authors": [
+    {
+      "raw": "Dudel, Christian",
+      "family": "Dudel",
+      "given": "Christian"
+    },
+    {
+      "raw": "Kluesener, Sebastian",
+      "family": "Kluesener",
+      "given": "Sebastian"
+    }
+  ],
+  "authors_text": "Dudel, Christian; Kluesener, Sebastian",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.53",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.53",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.53",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.53.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Organizational Field of Blood Collection: A Multilevel Analysis of Organizational Determinants of Blood Donation in Europe",
+  "abstract": "Maintaining an adequate blood supply for transfusion poses a pressing challenge to society. We argue that this challenge has not been adequately addressed in previous research. Building upon Healy's seminal work on 'blood-collection regimes' and the subsequent shift towards a field-level approach that broadens the analytical focus beyond the dyadic relationship between donors and organizations, we embed the act of blood donation within the organizational field in which blood establishments operate. We assume that varying modes of governance shape the organizational practices of donor recruitment and blood collection. Our analysis is based on Eurobarometer data from 2014 (number of countries = 28; number of individuals = 19,363). The results identify considerable variance in donation rates according to field characteristics in terms of hierarchical centralization and competitiveness. Decentralized systems without competition perform worst in terms of the recruitment of (first-time) blood donors. Competitive systems in which several different bodies share responsibility for the provision of blood to patients yield the highest donation rates.",
+  "authors": [
+    {
+      "raw": "Gorleer, Sam",
+      "family": "Gorleer",
+      "given": "Sam"
+    },
+    {
+      "raw": "Bracke, Piet",
+      "family": "Bracke",
+      "given": "Piet"
+    },
+    {
+      "raw": "Hustinx, Lesley",
+      "family": "Hustinx",
+      "given": "Lesley"
+    }
+  ],
+  "authors_text": "Gorleer, Sam; Bracke, Piet; Hustinx, Lesley",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcaa002",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

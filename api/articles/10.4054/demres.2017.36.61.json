@@ -1,0 +1,30 @@
+{
+  "title": "The change in single mothers' educational gradient over time in Spain",
+  "abstract": "BACKGROUND Family structures changed enormously during the latter decades of the 20th century, with the diffusion of less-common family forms, especially among low-educated women. Previous research suggests that in Spain these changes have taken place in a very short period of time. OBJECTIVE The aim of this paper is, specifically, to analyse the educational gradient of single-mother families and its evolution in recent decades, focusing on age differences. METHODS We use the 1991, 2001, and 2011 Spanish population censuses and apply logistic regression analysis. Our investigation focuses on non-widowed mothers with children under 18. RESULTS Results show how the educational gradient of single motherhood reversed between 1991 and 2011. Our analyses reveal differences by age. While mothers younger than 30 present a consistent and even increasingly negative educational gradient across the whole period, the reversal applies to older mothers. It is this reversal that has resulted in changing a positive to a negative or neutral educational gradient. CONCLUSIONS The diversification of educational profiles of Spanish mothers' family structures is a process that is here to stay.",
+  "authors": [
+    {
+      "raw": "Garriga, Anna",
+      "family": "Garriga",
+      "given": "Anna"
+    },
+    {
+      "raw": "Cortina, Clara",
+      "family": "Cortina",
+      "given": "Clara"
+    }
+  ],
+  "authors_text": "Garriga, Anna; Cortina, Clara",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.61",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.61",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.61",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.61.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

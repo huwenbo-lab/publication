@@ -1,0 +1,30 @@
+{
+  "title": "Supply-Side Versus Demand-Side Unmet Need: Implications for Family Planning Programs",
+  "abstract": "Despite its central importance to global family planning, the unmet need for contraception metric is frequently misinterpreted. Often conflated with a lack of access, misinterpretation of what unmet need means and how it is measured has important implications for family planning programs. We review previous examinations of unmet need, with a focus on the roles of access and demand for contraception, as well as the role of population control in shaping the indicator's priorities. We suggest that disaggregating unmet need into demand-side unmet need (stemming from lack of demand) and supply-side unmet need (stemming from lack of access) could allow current data to be leveraged into a more person-centered understanding of contraceptive need. We use Demographic and Health Survey data from seven sub-Saharan African countries to generate a proof-of-concept, dividing women into unmet need categories based on reason for contraceptive nonuse. We perform sensitivity analyses with varying conceptions of access and disaggregate by education and marital status. We find that demand-side unmet need far exceeds supply-side unmet need in all scenarios. Focusing on supply-side rather than overall unmet need is an imperfect but productive step toward person-centered measurement, while more sweeping changes to family planning measurement are still required.",
+  "authors": [
+    {
+      "raw": "Senderowicz, Leigh",
+      "family": "Senderowicz",
+      "given": "Leigh"
+    },
+    {
+      "raw": "Maloney, Nicole",
+      "family": "Maloney",
+      "given": "Nicole"
+    }
+  ],
+  "authors_text": "Senderowicz, Leigh; Maloney, Nicole",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2022,
+  "doi": "10.1111/padr.12478",
+  "doi_url": "https://doi.org/10.1111/padr.12478",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12478",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12478.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

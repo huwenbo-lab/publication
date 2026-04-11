@@ -1,0 +1,40 @@
+{
+  "title": "Refusal Bias in the Estimation of HIV Prevalence",
+  "abstract": "Abstract In 2007, UNAIDS corrected estimates of global HIV prevalence downward from 40 million to 33 million based on a methodological shift from sentinel surveillance to population-based surveys. Since then, population-based surveys are considered the gold standard for estimating HIV prevalence. However, prevalence rates based on representative surveys may be biased because of nonresponse. This article investigates one potential source of nonresponse bias: refusal to participate in the HIV test. We use the identity of randomly assigned interviewers to identify the participation effect and estimate HIV prevalence rates corrected for unobservable characteristics with a Heckman selection model. The analysis is based on a survey of 1,992 individuals in urban Namibia, which included an HIV test. We find that the bias resulting from refusal is not significant for the overall sample. However, a detailed analysis using kernel density estimates shows that the bias is substantial for the younger and the poorer population. Nonparticipants in these subsamples are estimated to be three times more likely to be HIV-positive than participants. The difference is particularly pronounced for women. Prevalence rates that ignore this selection effect may be seriously biased for specific target groups, leading to misallocation of resources for prevention and treatment.",
+  "authors": [
+    {
+      "raw": "Janssens, Wendy",
+      "family": "Janssens",
+      "given": "Wendy"
+    },
+    {
+      "raw": "van der Gaag, Jacques",
+      "family": "van der Gaag",
+      "given": "Jacques"
+    },
+    {
+      "raw": "Rinke de Wit, Tobias F.",
+      "family": "Rinke de Wit",
+      "given": "Tobias F."
+    },
+    {
+      "raw": "Tanović, Zlata",
+      "family": "Tanović",
+      "given": "Zlata"
+    }
+  ],
+  "authors_text": "Janssens, Wendy; van der Gaag, Jacques; Rinke de Wit, Tobias F.; Tanović, Zlata",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0290-0",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0290-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0290-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0290-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

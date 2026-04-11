@@ -1,0 +1,30 @@
+{
+  "title": "Parenting",
+  "abstract": "Americanae nace como un proyecto conjunto que surge dentro de la Red Europea de Información y Documentación sobre América Latina (REDIAL), y que ha afrontado la Biblioteca de la Agencia Española de Cooperación Internacional para el Desarrollo (AECID). Esta nueva biblioteca virtual hace más accesibles los libros digitales de tema americanista a los investigadores y usuarios interesados de cualquier parte del mundo.",
+  "authors": [
+    {
+      "raw": "Faircloth, Charlotte",
+      "family": "Faircloth",
+      "given": "Charlotte"
+    },
+    {
+      "raw": "Murray, Marjorie",
+      "family": "Murray",
+      "given": "Marjorie"
+    }
+  ],
+  "authors_text": "Faircloth, Charlotte; Murray, Marjorie",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2014,
+  "doi": "10.1177/0192513x14533546",
+  "doi_url": "https://doi.org/10.1177/0192513x14533546",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x14533546",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x14533546.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

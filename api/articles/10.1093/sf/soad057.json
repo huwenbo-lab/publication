@@ -1,0 +1,35 @@
+{
+  "title": "What Drives the News Coverage of US Social Movements?",
+  "abstract": "What drives the news coverage of social movements in the professional news media? We address this question by elaborating an institutional mediation model arguing that the news values, routines, and characteristics of the news media induce them to pay attention to movements depending on their characteristics and the political contexts in which they engage. The news-making characteristics of movements include their disruptive capacities and organizational strength, and the political contexts include a partisan regime in power, benefitting from national policies, and congressional investigations. To appraise these arguments, we analyze approximately 1 million news articles mentioning 29 social movements over the twentieth century, published in four national newspapers. We use negative binomial regression analyses and separate time-series analyses of the labor movement to assess the model's robustness across different movements, time periods, and news sources. In each analysis, the results support the hypotheses based on the institutional mediation model. More generally, we argue that the influence of social movements on institutions depends on the structure and operating procedures of those institutions. This insight has implications for future studies of the influence of movements on major social institutions.",
+  "authors": [
+    {
+      "raw": "Yuan, Weijun",
+      "family": "Yuan",
+      "given": "Weijun"
+    },
+    {
+      "raw": "Caren, Neal",
+      "family": "Caren",
+      "given": "Neal"
+    },
+    {
+      "raw": "Amenta, Edwin",
+      "family": "Amenta",
+      "given": "Edwin"
+    }
+  ],
+  "authors_text": "Yuan, Weijun; Caren, Neal; Amenta, Edwin",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soad057",
+  "doi_url": "https://doi.org/10.1093/sf/soad057",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad057",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad057.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

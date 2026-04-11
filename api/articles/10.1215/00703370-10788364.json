@@ -1,0 +1,35 @@
+{
+  "title": "Does Anyone Suffer From Teenage Motherhood? Mental Health Effects of Teen Motherhood in Great Britain Are Small and Homogeneous",
+  "abstract": "Teen moth ers expe ri ence dis ad van tage across a wide range of out comes. However, pre vi ous research is equiv o cal with respect to pos si ble long-term men tal health con se quences of teen moth er hood and has not ade quately con sid ered the pos-si bil ity that effects on men tal health may be het ero ge neous. Drawing on data from the 1970 Brit ish Birth Cohort Study, this arti cle applies a novel sta tis ti cal machine-learn ing approach-Bayes ian Additive Regression Trees-to esti mate the effects of teen moth-er hood on men tal health out comes at ages 30, 34, and 42. We extend pre vi ous work by estimating not only sample-average effects but also individual-specific estimates. Our results show that sam ple-aver age men tal health effects of teen moth er hood are sub-stantively small at all time points, apart from age 30 comparisons to women who first became mothers at age 25-30. Moreover, we find that these effects are largely homo-ge neous for all women in the sam ple-indi cat ing that there are no sub groups in the data who experience important detrimental mental health consequences. We conclude that there are likely no mental health benefits to policy and interventions that aim to prevent teen motherhood.",
+  "authors": [
+    {
+      "raw": "O'Flaherty, Martin",
+      "family": "O'Flaherty",
+      "given": "Martin"
+    },
+    {
+      "raw": "Kalucza, Sara",
+      "family": "Kalucza",
+      "given": "Sara"
+    },
+    {
+      "raw": "Bon, Joshua",
+      "family": "Bon",
+      "given": "Joshua"
+    }
+  ],
+  "authors_text": "O'Flaherty, Martin; Kalucza, Sara; Bon, Joshua",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10788364",
+  "doi_url": "https://doi.org/10.1215/00703370-10788364",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10788364",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10788364.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

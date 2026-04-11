@@ -1,0 +1,35 @@
+{
+  "title": "Increases in shared custody after divorce in the United States",
+  "abstract": "BACKGROUND While a striking rise in shared physical custody after divorce has been observed in Wisconsin and some European countries, the same trend in shared custody has not been documented in US national data. OBJECTIVE We provide new evidence on the time trend in shared physical custody after divorce in the United States. METHODS We use eight waves of data from the Current Population Survey - Child Support Supplement to estimate logit models and conduct a formal decomposition. RESULTS The likelihood of shared physical custody after divorce more than doubled in the United States from before 1985 until 2010-2014, from 13% to 34%. Non-linear probability (logit) models show that non-Hispanic Whites and more advantaged individuals are more likely to report shared physical custody. Both sequential multivariate models and a more formal decomposition show that the increase cannot be explained by changes in the characteristics of those divorcing; rather we find that several characteristics become more strongly associated with shared physical custody over time. CONCLUSIONS Our results suggest that shared physical custody is increasing in the United States as a whole, and this increase appears to reflect changing norms and policies that favor shared custody. These changing patterns have important implications for children's living arrangements and for the parental investments that children receive after their parents' divorce - and more broadly for the rise in inequality across families over recent decades. CONTRIBUTION This paper complements previous analyses using court record data from a single US state (Wisconsin) and shows that a large increase in shared physical custody after divorce has occurred in the United States as a whole over the past three decades.",
+  "authors": [
+    {
+      "raw": "Meyer, Daniel R.",
+      "family": "Meyer",
+      "given": "Daniel R."
+    },
+    {
+      "raw": "Carlson, Marcia J.",
+      "family": "Carlson",
+      "given": "Marcia J."
+    },
+    {
+      "raw": "Ul Alam, Md Moshi",
+      "family": "Ul Alam",
+      "given": "Md Moshi"
+    }
+  ],
+  "authors_text": "Meyer, Daniel R.; Carlson, Marcia J.; Ul Alam, Md Moshi",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.38",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.38",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.38",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.38.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

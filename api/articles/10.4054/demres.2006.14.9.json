@@ -1,0 +1,25 @@
+{
+  "title": "A model for geographical variation in health and total life expectancy",
+  "abstract": "This paper develops a joint approach to life and health expectancy based on 2001 UK Census data for limiting long term illness and general health status, and on registered death occurrences in 2001. The model takes account of the interdependence o",
+  "authors": [
+    {
+      "raw": "Congdon, Peter",
+      "family": "Congdon",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Congdon, Peter",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2006,
+  "doi": "10.4054/demres.2006.14.9",
+  "doi_url": "https://doi.org/10.4054/demres.2006.14.9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2006.14.9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2006.14.9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

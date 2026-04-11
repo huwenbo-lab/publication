@@ -1,0 +1,55 @@
+{
+  "title": "COVID-19 attributed Changes of Home and Family Responsibilities among Single Mothers",
+  "abstract": "Lockdown measures during COVID-19 have presented increased challenges in the home and family responsibilities. Single mothers may face unique challenges as they may be isolated from external family supports. Changes on a 19-item home and family work role survey pre- and post-COVID were tested with a paired t-test and sign test; the impact of age and people in the home was assessed using linear regression. There was a significant increase (p < 0.05) in 6/19 post-COVID-19 family responsibilities. In comparison to pre-COVID-19, post-COVID-19 single mothers reported a statistically significant median increase in family responsibilities (Mdn = .0000), p < .041. Each additional person living in the home was associated with a decrease in family responsibilities (B = -13.1, 95% CI [-21.943, -4.247]). Changes in the home and family responsibilities confirm that COVID-19 led to increased unpaid work to fulfill home and family responsibilities among single mothers.",
+  "authors": [
+    {
+      "raw": "Gavidia, Lisbeth A. Pino",
+      "family": "Gavidia",
+      "given": "Lisbeth A. Pino"
+    },
+    {
+      "raw": "Seens, Hoda",
+      "family": "Seens",
+      "given": "Hoda"
+    },
+    {
+      "raw": "Fraser, James",
+      "family": "Fraser",
+      "given": "James"
+    },
+    {
+      "raw": "Sivagurunathan, Marudan",
+      "family": "Sivagurunathan",
+      "given": "Marudan"
+    },
+    {
+      "raw": "MacDermid, Joy C.",
+      "family": "MacDermid",
+      "given": "Joy C."
+    },
+    {
+      "raw": "Brunton, Laura",
+      "family": "Brunton",
+      "given": "Laura"
+    },
+    {
+      "raw": "Doralp, Samantha",
+      "family": "Doralp",
+      "given": "Samantha"
+    }
+  ],
+  "authors_text": "Gavidia, Lisbeth A. Pino; Seens, Hoda; Fraser, James; Sivagurunathan, Marudan; MacDermid, Joy C.; Brunton, Laura; Doralp, Samantha",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x221105247",
+  "doi_url": "https://doi.org/10.1177/0192513x221105247",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x221105247",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x221105247.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

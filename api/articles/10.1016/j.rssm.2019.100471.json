@@ -1,0 +1,30 @@
+{
+  "title": "Investigating the impact of interventions on educational disparities: Estimating average treatment effects (ATEs) is not sufficient",
+  "abstract": "In most national education systems, educational attainment depends heavily on parental socioeconomic status, which challenges the notion of equal opportunity. Educational interventions have increasingly become the focus of public and scientific debate as a tool for mitigating these disparities. Establishing appropriate methods for investigating the impact of these programs on inequality is of great interest to researchers, policymakers and practitioners. We help make methodological refinements in this research area. In defining educational disparities as unequal chances for educational attainment of different social groups on the macro level, we suggest considering not only how strongly participating persons from distinct social groups benefit from a program (i.e., group-specific ATEs) but also how many persons from distinct social groups take part in the program under real world conditions (i.e., group-specific participation rates (PRs)). As we define the PR as the share of a sub-population participating in a program under real world conditions, PRs link the real world and macro level to the intervention level, and therefore, its consideration confers external validity. We develop a formula of how group-specific ATEs and PRs jointly contribute to an intervention's effect on disparities, and we simulate their joint contributions to disparities in university enrollment within reasonable limits and by presenting a fictitious yet realistic example. Because the contributions of group-specific ATEs and PRs to disparities have not been formalized yet, our results underscore the essential importance of PRs for understanding the impact of educational interventions on disparities. Furthermore, the illustration helps to correct the misconception that focusing exclusively on group-specific ATEs (or on group-specific PRs) is sensible when drawing conclusions about a program's effect on disparities. More specifically, interventions that appear to mitigate disparities based on a comparison of group-specific ATEs might in fact exacerbate inequality if low-SES persons are underrepresented in the program. We close with recommendations for future research and a review of the study's limitations.",
+  "authors": [
+    {
+      "raw": "Pietrzyk, Irena",
+      "family": "Pietrzyk",
+      "given": "Irena"
+    },
+    {
+      "raw": "Erdmann, Melinda",
+      "family": "Erdmann",
+      "given": "Melinda"
+    }
+  ],
+  "authors_text": "Pietrzyk, Irena; Erdmann, Melinda",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100471",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100471",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100471",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100471.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

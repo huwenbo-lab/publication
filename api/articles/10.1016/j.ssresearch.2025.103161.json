@@ -1,0 +1,35 @@
+{
+  "title": "Retention in the early STEM career: The role of gendered intentions and first STEM employment",
+  "abstract": "There have been numerous policy initiatives and federal investments in the United States over the past twenty years to increase the science, technology, engineering, and mathematics (STEM) labor force. Prior research has investigated how STEM career aspirations are formed, and how experiences in STEM workplaces influence retention in a STEM career. This study uses a unique longitudinal dataset that surveyed graduating chemistry and chemical engineering majors at two prestigious universities in the United States, following up with those graduates four years later. This data allows us to observe processes that create intentions to remain in STEM while still in school, along with actual retention in the STEM workforce four years after graduation. Results indicate that while intentions to remain in STEM help predict actual retention, they do so primarily by increasing the likelihood STEM graduates' first job will be in a STEM field. While we saw little gender or race differences in early retention, we did find evidence that those whose first job was not in STEM and those changing jobs more frequently were less likely to be retained in the STEM labor force. Moreover, those who never worked in the STEM sector or left a STEM job in their early career earned more money on average four years after graduation than those who were retained in STEM jobs. This suggests STEM graduates are finding their skills can command higher earnings over time in non-STEM employment sectors.",
+  "authors": [
+    {
+      "raw": "Karen, Rachel",
+      "family": "Karen",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Peng, Rui Jie",
+      "family": "Peng",
+      "given": "Rui Jie"
+    },
+    {
+      "raw": "Glass, Jennifer",
+      "family": "Glass",
+      "given": "Jennifer"
+    }
+  ],
+  "authors_text": "Karen, Rachel; Peng, Rui Jie; Glass, Jennifer",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103161",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103161",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103161",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103161.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

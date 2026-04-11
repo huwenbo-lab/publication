@@ -1,0 +1,40 @@
+{
+  "title": "Population sex imbalance in China before the One-Child Policy",
+  "abstract": "OBJECTIVE Most research on population sex imbalance in China has focused on the One-Child Policy era. However, because much of China's fertility decline occurred during the 1970s, we investigate the possibility that sex ratios began rising during this period (as predicted by theory) before the One-Child Policy. RESULTS Analyzing sex ratios between 1960 and 1987 by birth order and sibship sex composition, we find that among the subset of couples expected to have the greatest demand for sons (those at higher parities without previous sons), sex ratios at birth reached 115-121 boys per 100 girls during the 1970s - implying approximately 840,000 to 1,100,000 girls missing from Chinese birth cohorts during the 1970s. Importantly, these results do not appear to be driven by differential under-reporting of living girls, or instances of adoption. Given the absence of ultrasound technologies prior to 1979, they imply the presence of postnatal sex selection in China during the 1970s. CONTRIBUTION Our work makes several important contributions to existing literature. First, we focus on the subset of couples among whom the demand for sons is predicted to be the strongest: higher parity couples not yet having a boy. Second, we estimate sex ratios by single year of age (from birth to age 4), distinguishing differential rates of infant death from more gradual neglect of girls as they age throughout childhood. Third, we combine graphical and multivariate statistical analyses to test for meaningfully imbalanced sex ratios. Finally, we measure potential irregularities in the reporting of living girls, including the adoption of girls, and we generate new estimates of unreported females.",
+  "authors": [
+    {
+      "raw": "Babiarz, Kimberly Singer",
+      "family": "Babiarz",
+      "given": "Kimberly Singer"
+    },
+    {
+      "raw": "Ma, Paul",
+      "family": "Ma",
+      "given": "Paul"
+    },
+    {
+      "raw": "Song, Shige",
+      "family": "Song",
+      "given": "Shige"
+    },
+    {
+      "raw": "Miller, Grant",
+      "family": "Miller",
+      "given": "Grant"
+    }
+  ],
+  "authors_text": "Babiarz, Kimberly Singer; Ma, Paul; Song, Shige; Miller, Grant",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.13",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

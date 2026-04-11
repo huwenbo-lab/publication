@@ -1,0 +1,30 @@
+{
+  "title": "Is biology destiny? Birth weight and life chances",
+  "abstract": "Two key questions are addressed regarding the intersection of socioeconomic status, biology, and low birth weight over the life course. First, do the income and other socioeconomic conditions of a mother during her pregnancy affect her chances of having a low-birth-weight infant net of her own birth weight, that of the father, and other family-related, unobserved factors? Second, does an individual's birth weight status affect his or her adult life chances net of socioeconomic status? These questions have implications for the way we conceive of the relationship between socioeconomic status and health over the life course, specifically in sorting out causal directionality. We use intergenerational data from the Panel Study of income Dynamics, for the years 1968 through 1992. Results of sibling comparisons (family fixed-effects models) demonstrate that maternal income does not appear to have a significant impact on birth weight. However, low birth weight results in lower educational attainment net of other factors. These findings suggest that, when considered across generations, causality may not be as straightforward as implied by cross-sectional or unigenerational longitudinal studies.",
+  "authors": [
+    {
+      "raw": "Conley, D",
+      "family": "Conley",
+      "given": "D"
+    },
+    {
+      "raw": "Bennett, NG",
+      "family": "Bennett",
+      "given": "NG"
+    }
+  ],
+  "authors_text": "Conley, D; Bennett, NG",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2000,
+  "doi": "10.2307/2657467",
+  "doi_url": "https://doi.org/10.2307/2657467",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2657467",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2657467.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Shelter from the storm: do partnerships buffer the well-being costs of unemployment?",
+  "abstract": "This article contributes to the existing literature on the effects of unemployment on subjective well-being (SWB) by partnership status. We argue that material and latent deprivation can explain the effects of becoming and remaining unemployed on SWB by partnership status, as both partners and their employment status crucially shape the extent of deprivation. To test our hypothesis about partnership-specific unemployment effects on SWB and the mediating roles of latent deprivation (in terms of status loss) and material deprivation, we use 14 waves of German panel data. To identify time-varying unemployment effects, we rely on time-distributed fixed effects models. Our results suggest a strong negative and rather time-constant impact of unemployment on SWB, buffered over time for those with working or nonworking partners. Furthermore, our results indicate in particular material deprivation but also latent deprivation to be relevant mechanisms for explaining partnership-specific trajectories in the loss of SWB.",
+  "authors": [
+    {
+      "raw": "Prechsl, Sebastian",
+      "family": "Prechsl",
+      "given": "Sebastian"
+    },
+    {
+      "raw": "Wolbring, Tobias",
+      "family": "Wolbring",
+      "given": "Tobias"
+    }
+  ],
+  "authors_text": "Prechsl, Sebastian; Wolbring, Tobias",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad066",
+  "doi_url": "https://doi.org/10.1093/esr/jcad066",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad066",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad066.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

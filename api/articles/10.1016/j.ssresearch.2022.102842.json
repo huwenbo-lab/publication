@@ -1,0 +1,30 @@
+{
+  "title": "Conflicting signals: Exploring the socioeconomic implications of gender discordant names",
+  "abstract": "We investigate the educational and employment consequences of having a gender discordant name - one that is also given to people of a different gender. People with discordant names may be more likely to experience stigma due to the conflicting signal between their gender and the perceptions of femininity or masculinity associated with their names. Our primary measure of discordance is based on the percentage of men and women with each first name, using a large administrative dataset from Brazil. We find that both men and women with gender discordant names attain significantly less education. Gender discordant names are also negatively and significantly associated with earnings though, after controlling for educational attainment, only people with the most discordant names have significantly lower earnings. These results are corroborated when using crowd-sourced gender perceptions of names in our dataset, which suggests that stereotypes and the judgments of others are a probable mechanism for the observed disparities.",
+  "authors": [
+    {
+      "raw": "Francis-Tan, Andrew",
+      "family": "Francis-Tan",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Saperstein, Aliya",
+      "family": "Saperstein",
+      "given": "Aliya"
+    }
+  ],
+  "authors_text": "Francis-Tan, Andrew; Saperstein, Aliya",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2022.102842",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102842",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102842",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102842.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

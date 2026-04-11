@@ -1,0 +1,40 @@
+{
+  "title": "The Short-Term Effects of European Integration on Mortality Convergence: A Case Study of European Union’s 2004 Enlargement",
+  "abstract": "AbstractAlthough European integration can be expected to result in mortality convergence (reduced mortality differences), a life expectancy divide persists in the European Union (EU) between the old Member States (OMS) in the west and the new Member States (NMS) in the east. Studies investigating the impact of European integration on mortality convergence are rare and did not consider regional differences. We examine the short-term effects of the 2004 enlargement on mortality convergence at the supranational, national, and subnational levels. Using sex-specific life expectancies for 23 Member States (1990–2017) and the NUTS 2 regions in Czechia, Hungary, and Poland for 1992–2016, we examined the trend in sigma and beta mortality convergence measures at the country and regional levels using joinpoint regression. We found no compelling evidence that EU accession influenced the process of mortality convergence between OMS and NMS, or within the three NMS, over the short term. While there was overall beta and sigma convergence at the national level during 1990–2017, no regional convergence showed, and the trends in convergence did not significantly change at the time of EU accession or soon after (2004–2007). The accession in 2004 did not visibly impact the overall process of mortality convergence over the short term, likely because of the greater influence of country and region-specific policies and characteristics. The interaction of Member State and regional contexts with the mechanisms of European integration requires further study. Future enlargement procedures should emphasise tailored support to ensure more equitable gains from European integration.",
+  "authors": [
+    {
+      "raw": "Hrzic, Rok",
+      "family": "Hrzic",
+      "given": "Rok"
+    },
+    {
+      "raw": "Vogt, Tobias",
+      "family": "Vogt",
+      "given": "Tobias"
+    },
+    {
+      "raw": "Brand, Helmut",
+      "family": "Brand",
+      "given": "Helmut"
+    },
+    {
+      "raw": "Janssen, Fanny",
+      "family": "Janssen",
+      "given": "Fanny"
+    }
+  ],
+  "authors_text": "Hrzic, Rok; Vogt, Tobias; Brand, Helmut; Janssen, Fanny",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2021,
+  "doi": "10.1007/s10680-021-09596-y",
+  "doi_url": "https://doi.org/10.1007/s10680-021-09596-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-021-09596-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-021-09596-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

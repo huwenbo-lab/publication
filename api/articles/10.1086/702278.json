@@ -1,0 +1,35 @@
+{
+  "title": "Economic Self-Reliance and Gender Inequality between US Men and Women, 1970-2010",
+  "abstract": "Women have become increasingly economically self-reliant, depending more on paid employment for their positions in the income distribution than in the past. We know little about what happened to men, however, because most prior research restricts changes in self-reliance to be zero-sum, with women's changes necessitating opposite and proportionate changes among men. This article introduces a measure that allows asymmetric changes and also incorporates multiple population subgroups and income sources beyond couples' labor earnings. Using Current Population Survey data, the authors find that women's self-reliance increased dramatically, as expected, but men's declined only slightly. The authors decompose these trends into changes in family structure and redistribution, which increased and decreased self-reliance, respectively, for men and women, though more for women. Labor market shifts, by contrast, were asymmetric and opposing, reducing men's self-reliance much less than they increased women's. The authors' approach opens opportunities for new insight into both gender inequality and the income attainment process.",
+  "authors": [
+    {
+      "raw": "Bloome, Deirdre",
+      "family": "Bloome",
+      "given": "Deirdre"
+    },
+    {
+      "raw": "Burk, Derek",
+      "family": "Burk",
+      "given": "Derek"
+    },
+    {
+      "raw": "McCall, Leslie",
+      "family": "McCall",
+      "given": "Leslie"
+    }
+  ],
+  "authors_text": "Bloome, Deirdre; Burk, Derek; McCall, Leslie",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2019,
+  "doi": "10.1086/702278",
+  "doi_url": "https://doi.org/10.1086/702278",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F702278",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/702278.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

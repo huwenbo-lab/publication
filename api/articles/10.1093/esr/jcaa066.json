@@ -1,0 +1,30 @@
+{
+  "title": "Digital Transformation and Subjective Job Insecurity in Germany",
+  "abstract": "The present study examines to what extent employees in Germany are afraid of losing their jobs, depending on the degree of computerization of their occupations. So far, empirical evidence on the relationship between digital transformation and subjective job insecurity is scarce. We distinguish three interrelated insecurity measures: cognitive job insecurity, i.e. the individual assessment of job loss probability, labour market insecurity, i.e. the perceived availability of job alternatives, and affective job insecurity, i.e. the extent to which individuals are worried about a potential job loss. The analysis is based on a large-scale panel study from Germany and refers to the period between 2013 and 2016. Computerization is measured by the occupation-specific substitution potential, i.e. the extent to which occupational tasks are substitutable by computers or computer-controlled machines. The results from multivariate panel analysis suggest that the digital transformation has a negative impact on cognitive job insecurity. We do not find effects on labour market insecurity and affective job insecurity.",
+  "authors": [
+    {
+      "raw": "Dengler, Katharina",
+      "family": "Dengler",
+      "given": "Katharina"
+    },
+    {
+      "raw": "Gundert, Stefanie",
+      "family": "Gundert",
+      "given": "Stefanie"
+    }
+  ],
+  "authors_text": "Dengler, Katharina; Gundert, Stefanie",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa066",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa066",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa066",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa066.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

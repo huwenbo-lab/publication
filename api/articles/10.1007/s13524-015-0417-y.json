@@ -1,0 +1,40 @@
+{
+  "title": "Africans in the American Labor Market",
+  "abstract": "The number of migrants to the United States from Africa has grown exponentially since the 1930s. For the first time in America's history, migrants born in Africa are growing at a faster rate than migrants from any other continent. The composition of African-origin migrants has also changed dramatically: in the mid-twentieth century, the majority were white and came from only three countries; but today, about one-fifth are white, and African-origin migrants hail from across the entire continent. Little is known about the implications of these changes for their labor market outcomes in the United States. Using the 2000-2011 waves of the American Community Survey, we present a picture of enormous heterogeneity in labor market participation, sectoral choice, and hourly earnings of male and female migrants by country of birth, race, age at arrival in the United States, and human capital. For example, controlling a rich set of human capital and demographic characteristics, some migrants-such as those from South Africa/Zimbabwe and Cape Verde, who typically enter on employment visas-earn substantial premiums relative to other African-origin migrants. These premiums are especially large among males who arrived after age 18. In contrast, other migrants-such as those from Sudan/Somalia, who arrived more recently, mostly as refugees-earn substantially less than migrants from other African countries. Understanding the mechanisms generating the heterogeneity in these outcomes-including levels of socioeconomic development, language, culture, and quality of education in countries of origin, as well as selectivity of those who migrate-figures prominently among important unresolved research questions.",
+  "authors": [
+    {
+      "raw": "Elo, Irma T.",
+      "family": "Elo",
+      "given": "Irma T."
+    },
+    {
+      "raw": "Frankenberg, Elizabeth",
+      "family": "Frankenberg",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Gansey, Romeo",
+      "family": "Gansey",
+      "given": "Romeo"
+    },
+    {
+      "raw": "Thomas, Duncan",
+      "family": "Thomas",
+      "given": "Duncan"
+    }
+  ],
+  "authors_text": "Elo, Irma T.; Frankenberg, Elizabeth; Gansey, Romeo; Thomas, Duncan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0417-y",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0417-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0417-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0417-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

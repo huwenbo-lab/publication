@@ -1,0 +1,35 @@
+{
+  "title": "From asking to observing. Behavioural measures of socio-emotional and motivational skills in large-scale assessments",
+  "abstract": "Socio-emotional and motivational skills are routinely measured using self-reports in large-scale educational assessments. Measures exploiting test-takers' behaviour during the completion of questionnaires or cognitive tests are increasingly used as alternatives to self-reports in the eco-nomics of education literature. We compute behavioural measures of socio-emotional and motivational skills using data from the Programme for International Student Assessment (PISA). We find that these measures capture important aspects of students' academic profiles: some are importantly associated with contemporaneous performance and educational attainment and most measures have a high degree of stability over time. However, these measures are only limitedly correlated among themselves and have low correlations with self-report measures of the same constructs. This is likely a reflection of the fact that behavioural measures are representations of the test taker current 'state', rather than descriptions of the participant view of their own 'trait' like the self-report measures. Moreover, the low correlation across measures suggests that they capture different behavioural responses to the test-taking situation. These differences are still limitedly understood because the measures are constructed ex-post using collateral information collected during the administration of assessments rather than developed ex ante in line with theoretical models of human cognition and affect.",
+  "authors": [
+    {
+      "raw": "Borgonovi, F.",
+      "family": "Borgonovi",
+      "given": "F."
+    },
+    {
+      "raw": "Ferrara, A.",
+      "family": "Ferrara",
+      "given": "A."
+    },
+    {
+      "raw": "Piacentini, M.",
+      "family": "Piacentini",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Borgonovi, F.; Ferrara, A.; Piacentini, M.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102874",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102874",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102874",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102874.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

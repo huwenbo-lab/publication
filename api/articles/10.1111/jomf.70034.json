@@ -1,0 +1,30 @@
+{
+  "title": "Partners Mirror Each Other's Informal Helping Behavior: Evidence From a Longitudinal Study",
+  "abstract": "Objective This paper examines to what extent partners' informal helping behaviors are related and to what extent this partner effect differs by gender. Differences in informal help given to kin and non-kin are explored.Background Although prior research has suggested that partners influence each other's helping behavior, these mostly cross-sectional studies did not account for possible selection effects. The present study takes a longitudinal approach to examine whether the partner's helping behavior changes informal helping over time, thereby diminishing the impact of selection and allowing for a more stringent test of partner influence.Method Using three waves of dyadic data from the Swiss Household Panel (2013, 2016, and 2019) (N = 9666), we employ fixed-effects logistic regression analysis to eliminate between-person differences. To facilitate interpretation of the effects, we estimate average logit elasticities.Results People have a higher likelihood of providing informal help when their partner engages in informal helping. This relationship did not differ between men and women but was stronger for help to kin than for help to non-kin.Conclusion Findings suggest that the relationship between partners' informal helping behavior is not solely due to selection effects but is at least partly the result of partners changing their helping behavior to resemble each other more over time. New questions surface about differences between helping kin and non-kin.",
+  "authors": [
+    {
+      "raw": "Ramaekers, Marlou J. M.",
+      "family": "Ramaekers",
+      "given": "Marlou J. M."
+    },
+    {
+      "raw": "Voorpostel, Marieke",
+      "family": "Voorpostel",
+      "given": "Marieke"
+    }
+  ],
+  "authors_text": "Ramaekers, Marlou J. M.; Voorpostel, Marieke",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70034",
+  "doi_url": "https://doi.org/10.1111/jomf.70034",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70034",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70034.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

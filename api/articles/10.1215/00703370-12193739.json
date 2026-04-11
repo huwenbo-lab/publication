@@ -1,0 +1,30 @@
+{
+  "title": "Mobility-Based Segregation in US Metropolitan Areas",
+  "abstract": "This article uses large-scale Global Positioning System daily movement data collected from mobile devices in U.S. metropolitan areas to develop a novel measure to quantify racial, ethnic, and income segregation experienced in activity space, which captures both local residential environments and the connected communities that individuals frequently travel to. We modify conventional spatial segregation measures in three ways. First, we switch from a distance-based to a mobility-based conceptuali-zation of group exposure. Second, we introduce daily mobility data traced via mobile devices to empirically measure mobility connectedness between communities. Third, we decompose our segregation measures into within-and between-community components to uncover different sources of segregation. Combining daily mobility data with measures of community characteristics obtained from the U.S. Census, we show that mobility-based measures capture dimensions of segregation that are quite distinct from distance-based measures. Our mobility-based measures consistently indicate both strong own-group isolation in terms of individuals' activity space manifested through their everyday movements and substantial heterogeneity in local mobility exposure even within communities of similar racial, ethnic, and income composition, particularly among minority communities. Our findings illustrate the value of combining mobility-based segregation measures with large-scale, geocoded human movement data to study racial, ethnic, and income segregation.",
+  "authors": [
+    {
+      "raw": "Zhang, Yongjun",
+      "family": "Zhang",
+      "given": "Yongjun"
+    },
+    {
+      "raw": "Cheng, Siwei",
+      "family": "Cheng",
+      "given": "Siwei"
+    }
+  ],
+  "authors_text": "Zhang, Yongjun; Cheng, Siwei",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-12193739",
+  "doi_url": "https://doi.org/10.1215/00703370-12193739",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12193739",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12193739.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

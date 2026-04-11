@@ -1,0 +1,30 @@
+{
+  "title": "Hidden Heterogeneity: How the White Racial Category Masks Interethnic Health Inequality",
+  "abstract": "Inequality research has often used non-Hispanic Whites as the reference category in measuring U.S. racial and ethnic health disparities, with less attention paid to diversity among Whites. Immigration patterns over the last several decades have led to greater ethnic heterogeneity among Whites, which could be hidden by the aggregate category. Using data from the National Health Interview Survey (2000-2018), we disaggregate non-Hispanic Whites by nativity status (U.S.- and foreign-born) and foreign-born region of birth (Europe, Former Soviet Union, and the Middle East) to examine diversity in health among adults aged 30+ (n = 290,361). We find that for eign-born Whites do not have a consistent immigrant health advantage over U.S.-born Whites, and the presence of an advantage further varies by birth region. Immigrants from the Former Soviet Union (FSU) are particularly disadvantaged, reporting worse self-rated health and higher rates of hypertension (high blood pressure) than U.S.-born and European-born Whites. Middle Eastern immigrants also fare worse than U.S.-born Whites but have health outcomes more similar to European immigrants than to immigrants from the FSU. These findings highlight considerable diversity in health among White subgroups that is masked by the aggregate White category. Future research must continue to monitor growing heterogeneity among Whites and consider more carefully their use as an aggregate category for gauging racial inequality.",
+  "authors": [
+    {
+      "raw": "Read, Jen'nan G.",
+      "family": "Read",
+      "given": "Jen'nan G."
+    },
+    {
+      "raw": "Fairfax, Fatima G.",
+      "family": "Fairfax",
+      "given": "Fatima G."
+    }
+  ],
+  "authors_text": "Read, Jen'nan G.; Fairfax, Fatima G.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11790429",
+  "doi_url": "https://doi.org/10.1215/00703370-11790429",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11790429",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11790429.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

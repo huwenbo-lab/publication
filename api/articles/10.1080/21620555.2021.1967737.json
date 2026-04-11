@@ -1,0 +1,35 @@
+{
+  "title": "Authoritarian responsiveness and political attitudes during COVID-19: evidence from Weibo and a survey experiment",
+  "abstract": "How do citizens react to authoritarian responsiveness? To investigate this question, we study how Chinese citizens reacted to a novel government initiative which enabled social media users to publicly post requests for COVID-related medical assistance. To understand the effect of this initiative on public perceptions of government effectiveness, we employ a two-part empirical strategy. First, we conduct a survey experiment in which we directly expose subjects to real help-seeking posts, in which we find that viewing posts did not improve subjects' ratings of government effectiveness, and in some cases worsened them. Second, we analyze over 10,000 real-world Weibo posts to understand the political orientation of the discourse around help-seekers. We find that negative and politically critical posts far outweighed positive and laudatory posts, complementing our survey experiment results. To contextualize our results, we develop a theoretic framework to understand the effects of different types of responsiveness on citizens' political attitudes. We suggest that citizens' negative reactions in this case were primarily influenced by public demands for help, which illuminated existing problems and failures of governance.",
+  "authors": [
+    {
+      "raw": "Wei, Lai",
+      "family": "Wei",
+      "given": "Lai"
+    },
+    {
+      "raw": "Yao, Elaine",
+      "family": "Yao",
+      "given": "Elaine"
+    },
+    {
+      "raw": "Zhang, Han",
+      "family": "Zhang",
+      "given": "Han"
+    }
+  ],
+  "authors_text": "Wei, Lai; Yao, Elaine; Zhang, Han",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1080/21620555.2021.1967737",
+  "doi_url": "https://doi.org/10.1080/21620555.2021.1967737",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2021.1967737",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2021.1967737.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

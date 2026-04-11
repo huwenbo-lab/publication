@@ -1,0 +1,30 @@
+{
+  "title": "When investment backfires: Unbalanced sex ratios and mental health among boys in rural areas",
+  "abstract": "BACKGROUND In China, a key feature of demographic transition is the abnormally high sex ratio, resulting in a shortage of brides. In addition, depressive symptoms among Chinese adolescents have risen sharply in the last decade, and among these adolescents, boys in rural areas are most likely to be depressed.OBJECTIVE In this study, we investigate the phenomenon of depression in a large number of rural boys. We hypothesize that upon perceiving the strong competition in the local marriage market, rural parents tend to increase educational investment to improve their sons' relative standing in the market, thereby leading to high pressure and depression among rural boys.METHODS By leveraging variations across counties and cohorts, we constructed a difference-in-differences model featuring rich fixed effects to absorb invariant confounding factors and cohort trends across provinces. To ensure the exogeneity of sex ratios, we studied the first children in families, in cognition of the randomness of the first child's gender.CONCLUSIONS Empirical evidence suggests that high sex ratios motivate rural parents to elevate their educational expectations of and tangible and intangible investments in their sons, invariably increasing performance pressure and lowering academic performance, thereby deepening mental depression.CONTRIBUTION Our study contributes to multidisciplinary theories, such as son preference, competitive motive, and tiger parenting theory. Moreover, our findings have relevant implications:(1) A population control policy combined with a son-preference culture induces several unanticipated negative consequences. (2) The unrestrained educational investment is in disagreement with human capital outcomes.",
+  "authors": [
+    {
+      "raw": "Wu, Hantao",
+      "family": "Wu",
+      "given": "Hantao"
+    },
+    {
+      "raw": "Li, Ting",
+      "family": "Li",
+      "given": "Ting"
+    }
+  ],
+  "authors_text": "Wu, Hantao; Li, Ting",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.21",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.21",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.21",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.21.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

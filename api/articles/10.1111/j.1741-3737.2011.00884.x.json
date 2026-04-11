@@ -1,0 +1,30 @@
+{
+  "title": "Marriage and Desistance From Crime: A Consideration of Gene–Environment Correlation",
+  "abstract": "An impressive body of research has examined the effect of marriage on desistance from a criminal career. Although extensive efforts have been made to control for potential confounders, almost no research has considered the role that genetic influences play in the relationship. In this study, the authors revisited the marriage–desistance connection by analyzing sibling data drawn from the National Longitudinal Study of Adolescent Health (Add Health; Ns ranged between 2,224 and 3,745 siblings) and by using a statistical design that controls for confounding genetic influences. The findings revealed that both marriage and desistance were under genetic influence (h2 = .56 and .49, respectively). In addition, before controlling for shared genetic influences, marriage was predictive of desistance. After genetic influences were controlled, the marriage effect remained statistically significant but was reduced by 60%. The implications of these findings for life course criminology are considered.",
+  "authors": [
+    {
+      "raw": "Barnes, J. C.",
+      "family": "Barnes",
+      "given": "J. C."
+    },
+    {
+      "raw": "Beaver, Kevin M.",
+      "family": "Beaver",
+      "given": "Kevin M."
+    }
+  ],
+  "authors_text": "Barnes, J. C.; Beaver, Kevin M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2012,
+  "doi": "10.1111/j.1741-3737.2011.00884.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2011.00884.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2011.00884.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2011.00884.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Trends and Disparities in Broadband Internet Access in the United States, 2013 to 2023",
+  "abstract": "Since the turn of the century, sociologists and other scholars concerned about digital inequality have most often been concerned about disparities in the quality of Internet use, not necessarily the availability of Internet access itself. However, the coronavirus disease 2019 pandemic laid bare the fact that the Internet’s potential benefits to mitigating the spread of the virus were available only to those with Internet access. In this visualization, the author uses household-level data from the American Community Survey from 2013 to 2023 ( n = 10,713,204 households) to estimate a linear probability model predicting Internet access by race/ethnicity, household educational attainment, and poverty status. The results suggest that household Internet access has increased over the past decade, but disparities still exist on all three dimensions.",
+  "authors": [
+    {
+      "raw": "Allen, Spencer",
+      "family": "Allen",
+      "given": "Spencer"
+    }
+  ],
+  "authors_text": "Allen, Spencer",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251363238",
+  "doi_url": "https://doi.org/10.1177/23780231251363238",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251363238",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251363238.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

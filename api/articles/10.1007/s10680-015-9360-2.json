@@ -1,0 +1,30 @@
+{
+  "title": "Return Migration of Foreign Students",
+  "abstract": "Using administrative panel data, this paper presents a comprehensive empirical analysis of the return of recent foreign students in the Netherlands. We focus on how individual labour market changes and marriage formation influence their decision to leave. Our model allows for correlated unobserved heterogeneity across the migration, the labour market and the marriage formation processes. The large size of the data permits us to stratify the analysis by five groups based on the country of birth. The empirical analyses reveal that when students become unemployed they leave faster. The effect of finding a job on return is more ambiguous. For students from developed (including EU) countries it hardly affects their return, while students from less developed countries and Antilles/Surinam are more prone to leave after finding a job. Marriage in the Netherlands makes the students more prone to stay.",
+  "authors": [
+    {
+      "raw": "Bijwaard, Govert E.",
+      "family": "Bijwaard",
+      "given": "Govert E."
+    },
+    {
+      "raw": "Wang, Qi",
+      "family": "Wang",
+      "given": "Qi"
+    }
+  ],
+  "authors_text": "Bijwaard, Govert E.; Wang, Qi",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2016,
+  "doi": "10.1007/s10680-015-9360-2",
+  "doi_url": "https://doi.org/10.1007/s10680-015-9360-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-015-9360-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-015-9360-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

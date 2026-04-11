@@ -1,0 +1,25 @@
+{
+  "title": "Population Estimation without Censuses or Surveys: A Discussion of Mark-recapture Methods Illustrated by Results from Three Studies",
+  "abstract": "Contact-recontact (aka ‘mark-recapture’) methods offer sociologists a potentially economical and effective means of estimating the size of a range of different populations, but also face a number of difficulties - ethical identification of matches, sample independence, population movement, population definition, and sample heterogeneity. Drawing on three recent studies for illustration (the prevalence of injecting drug use across Wales, the local prevalence of problem drinking, and the prevalence of ‘rooflessness’ in Scotland), it is argued that the first three of these problems can be readily addressed, while the last two are only open to partial resolution. Population definition may be partly addressed by careful selection of datasets or by combining contact-recontact methods with a screening instrument. Sample heterogeneity may be partly addressed by separate modelling of different constituent sub-populations. However, some of these ‘solutions’ may themselves generate further problems: the value of such methods is great in potential but uncertain in practice.",
+  "authors": [
+    {
+      "raw": "Bloor, Michael",
+      "family": "Bloor",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Bloor, Michael",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2005,
+  "doi": "10.1177/0038038505049005",
+  "doi_url": "https://doi.org/10.1177/0038038505049005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038505049005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038505049005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

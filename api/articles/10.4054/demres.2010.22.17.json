@@ -1,0 +1,40 @@
+{
+  "title": "The compression of deaths above the mode",
+  "abstract": "Kannisto (2001) has shown that as the frequency distribution of ages at death has shifted to the right, the age distribution of deaths above the modal age has become more compressed. In order to further investigate this old-age mortality compression, we adopt the simple logistic model with two parameters, which is known to fit data on old-age mortality well (Thatcher 1999). Based on the model, we show that three key measures of old-age mortality (the modal age of adult deaths, the life expectancy at the modal age, and the standard deviation of ages at death above the mode) can be estimated fairly accurately from death rates at only two suitably chosen high ages (70 and 90 in this study). The distribution of deaths above the modal age becomes compressed when the logits of death rates fall more at the lower age than at the higher age. Our analysis of mortality time series in six countries, using the logistic model, endorsed Kannisto's conclusion. Some possible reasons for the compression are discussed.",
+  "authors": [
+    {
+      "raw": "Thatcher, A. Roger",
+      "family": "Thatcher",
+      "given": "A. Roger"
+    },
+    {
+      "raw": "Cheung, Siu Lan Karen",
+      "family": "Cheung",
+      "given": "Siu Lan Karen"
+    },
+    {
+      "raw": "Horiuchi, Shiro",
+      "family": "Horiuchi",
+      "given": "Shiro"
+    },
+    {
+      "raw": "Robine, Jean-Marie",
+      "family": "Robine",
+      "given": "Jean-Marie"
+    }
+  ],
+  "authors_text": "Thatcher, A. Roger; Cheung, Siu Lan Karen; Horiuchi, Shiro; Robine, Jean-Marie",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.22.17",
+  "doi_url": "https://doi.org/10.4054/demres.2010.22.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.22.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.22.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

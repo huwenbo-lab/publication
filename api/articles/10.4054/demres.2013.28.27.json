@@ -1,0 +1,40 @@
+{
+  "title": "The power of the interviewer",
+  "abstract": "African censuses and surveys remain dependent on interviewers for data collection. Data quality is assured through training and supervision. Many survey concepts are difficult to translate into African languages and some, such as \"household\", may have mult",
+  "authors": [
+    {
+      "raw": "Randall, Sara",
+      "family": "Randall",
+      "given": "Sara"
+    },
+    {
+      "raw": "Coast, Ernestina",
+      "family": "Coast",
+      "given": "Ernestina"
+    },
+    {
+      "raw": "Compaore, Natacha",
+      "family": "Compaore",
+      "given": "Natacha"
+    },
+    {
+      "raw": "Antoine, Philippe",
+      "family": "Antoine",
+      "given": "Philippe"
+    }
+  ],
+  "authors_text": "Randall, Sara; Coast, Ernestina; Compaore, Natacha; Antoine, Philippe",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2013,
+  "doi": "10.4054/demres.2013.28.27",
+  "doi_url": "https://doi.org/10.4054/demres.2013.28.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2013.28.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2013.28.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

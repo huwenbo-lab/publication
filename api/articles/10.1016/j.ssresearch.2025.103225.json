@@ -1,0 +1,40 @@
+{
+  "title": "Who do they think you are? Inconsistencies in self-and proxy-reports of education within families",
+  "abstract": "Estimates of intergenerational educational mobility are generally computed using a combination of self-and proxy-reports of one's and one's parents' education. Such reports are easily collected, offering a cost-effective alternative to collecting multiple self-reports or register data. However, the bias that proxy-reports could introduce in the measurement of intergenerational educational mobility is rarely assessed. Our study fills this gap and assesses how reliable people are when they report their parents' or their child's educational attainment. We find that both parents and children tend to underestimate the educational distance between themselves and their family members, thus inflating estimates of educational reproduction. This trend is larger when children act as proxy-reporters. Another limitation of using children's proxy-reported information is the number of missing answers, which is lower when parents are asked to proxy-report their child's education. In a simulation exercise, we establish that the bias introduced by proxy reports is not negligible, with self-reported intergenerational regression coefficients being 9% higher when a proxy-report is used.",
+  "authors": [
+    {
+      "raw": "Lavest, Chloe",
+      "family": "Lavest",
+      "given": "Chloe"
+    },
+    {
+      "raw": "Ferry, Mathieu",
+      "family": "Ferry",
+      "given": "Mathieu"
+    },
+    {
+      "raw": "Ichou, Mathieu",
+      "family": "Ichou",
+      "given": "Mathieu"
+    },
+    {
+      "raw": "Prag, Patrick",
+      "family": "Prag",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Lavest, Chloe; Ferry, Mathieu; Ichou, Mathieu; Prag, Patrick",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103225",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103225",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103225",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103225.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

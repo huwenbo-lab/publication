@@ -1,0 +1,25 @@
+{
+  "title": "The when and the how of the emergence of social inequality in mental health: Exploring social causation and health selection through employment transitions",
+  "abstract": "How, and at what stage of the adult lifecourse, does the association between income and mental health problems arise? Research mostly tests whether mechanisms of social causation or health selection are evident in a given sample. I test for these mechanisms, and the contribution of unobserved heterogeneity, but additionally explore the extent to which each contributes to growth in social inequality in mental health, specifically symptoms of depression and anxiety and their negative correlation with household income. Using Understanding Society data, I first show that inequality in mental health among adults emerges around ages 20-30 and then persists, only weakening from around 60. Inequality is much lower controlling for employment. Next, I apply a novel fixedeffects longitudinal structural equation model to test three mechanisms generating growth of this inequality, operationalising social causation and health selection through employment transitions. While leaving employment exhibits a negative association with subsequent mental health, neither this mechanism nor the reverse - health selection out of employment - can account for growth in mental health inequality. Rather, only unobserved heterogeneity between individuals accounts for a substantial portion of this growth - around a third. This result is similar for men and women and across age groups. These findings lend support to the relatively neglected indirect health selection hypothesis, and indicate that a priority for future work should be to more clearly delineate what sorts of relatively fixed characteristics of individuals might matter, through what sorts of pathways, and how these characteristics are moulded across childhood and adolescence.",
+  "authors": [
+    {
+      "raw": "Anderson, Lewis R.",
+      "family": "Anderson",
+      "given": "Lewis R."
+    }
+  ],
+  "authors_text": "Anderson, Lewis R.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100642",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100642",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100642",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100642.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

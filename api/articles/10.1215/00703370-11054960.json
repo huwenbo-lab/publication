@@ -1,0 +1,45 @@
+{
+  "title": "The Big (Genetic) Sort? A Research Note on Migration Patterns and Their Genetic Imprint in the United Kingdom",
+  "abstract": "This research note reinvestigates Abdellaoui et al.'s (2019) find ings that genetically selective migration may lead to persistent and accumulating socioeconomic and health inequalities between types (coal min ing or non-coal min ing) of places in the United Kingdom. Their migra tion mea sure clas si fied migrants who moved to the same type of place (coal min ing to coal min ing or non-coal min ing to non-coal min ing) into stay categories, pre vent ing them from distinguishing migrants from non mi grants. We reinvestigate the ques tion of genet i cally selec tive migra tion by exam in ing migra tion pat terns between places rather than place types and find genetic selec tiv ity in whether peo ple migrate and where. For exam ple, we find evi dence of pos i tive selec tion: peo ple with genetic var i ants cor re lated with bet ter edu ca tion moved from non-coal min ing to coal min ing places with our mea sure of migra tion. Such find ings were obscured in ear lier work that could not dis tin guish non mi grants from migrants.",
+  "authors": [
+    {
+      "raw": "Furuya, Shiro",
+      "family": "Furuya",
+      "given": "Shiro"
+    },
+    {
+      "raw": "Liu, Jihua",
+      "family": "Liu",
+      "given": "Jihua"
+    },
+    {
+      "raw": "Sun, Zhongxuan",
+      "family": "Sun",
+      "given": "Zhongxuan"
+    },
+    {
+      "raw": "Lu, Qiongshi",
+      "family": "Lu",
+      "given": "Qiongshi"
+    },
+    {
+      "raw": "Fletcher, Jason M.",
+      "family": "Fletcher",
+      "given": "Jason M."
+    }
+  ],
+  "authors_text": "Furuya, Shiro; Liu, Jihua; Sun, Zhongxuan; Lu, Qiongshi; Fletcher, Jason M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-11054960",
+  "doi_url": "https://doi.org/10.1215/00703370-11054960",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11054960",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11054960.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

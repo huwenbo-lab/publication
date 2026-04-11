@@ -1,0 +1,30 @@
+{
+  "title": "Explaining gender segregation in higher education: longitudinal evidence on the French case",
+  "abstract": "This article examines how girls and boys choose their tertiary field of study and how the different factors driving their choices contribute to gender segregation in higher education (GSHE) in France. We present seven theoretical explanations for GSHE, review the relevant literature and discuss their applicability to the French context. Using rich longitudinal data combining administrative sources, students, parents and school head questionnaires, we assess the heuristic value of these explanations. We employ multinomial logit models as well as decomposition techniques for categorical outcome variables. Our results refute explanations arguing that GSHE reflects gender differences in skills or girls' lower career ambitions. We conclude that curricular differentiation and occupational plans are key drivers of GSHE, even when controlling for ability selection into secondary curricula and for parental and teachers' gender-stereotypical influences.",
+  "authors": [
+    {
+      "raw": "Herbaut, Estelle",
+      "family": "Herbaut",
+      "given": "Estelle"
+    },
+    {
+      "raw": "Barone, Carlo",
+      "family": "Barone",
+      "given": "Carlo"
+    }
+  ],
+  "authors_text": "Herbaut, Estelle; Barone, Carlo",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2021,
+  "doi": "10.1080/01425692.2021.1875199",
+  "doi_url": "https://doi.org/10.1080/01425692.2021.1875199",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2021.1875199",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2021.1875199.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Linking period and cohort life-expectancy linear increases in Gompertz proportional hazards models",
+  "abstract": "In a Gompertz mortality model with constant yearly improvements at all ages, linear increases in period life expectancy correspond to linear increases in the respective cohort life expectancy. The link between the two measures can be given by a simple",
+  "authors": [
+    {
+      "raw": "Missov, Trifon",
+      "family": "Missov",
+      "given": "Trifon"
+    },
+    {
+      "raw": "Lenart, Adam",
+      "family": "Lenart",
+      "given": "Adam"
+    }
+  ],
+  "authors_text": "Missov, Trifon; Lenart, Adam",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2011,
+  "doi": "10.4054/demres.2011.24.19",
+  "doi_url": "https://doi.org/10.4054/demres.2011.24.19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2011.24.19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2011.24.19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

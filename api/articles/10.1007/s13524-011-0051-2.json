@@ -1,0 +1,35 @@
+{
+  "title": "The Relationship History Calendar: Improving the Scope and Quality of Data on Youth Sexual Behavior",
+  "abstract": "Abstract Most survey data on sexual activities are obtained via face-to-face interviews, which are prone to misreporting of socially unacceptable behaviors. Demographers have developed various private response methods to minimize social desirability bias and improve the quality of reporting; however, these methods often limit the complexity of information collected. We designed a life history calendar—the Relationship History Calendar (RHC)—to increase the scope of data collected on sexual relationships and behavior while enhancing their quality. The RHC records detailed, 10-year retrospective information on sexual relationship histories. The structure and interview procedure draw on qualitative techniques, which could reduce social desirability bias. We compare the quality of data collected with the RHC with a standard face-to-face survey instrument through a field experiment conducted among 1,275 youth in Kisumu, Kenya. The results suggest that the RHC reduces social desirability bias and improves reporting on multiple measures, including higher rates of abstinence among males and multiple recent sexual partnerships among females. The RHC fosters higher levels of rapport and respondent enjoyment, which appear to be the mechanisms through which social desirability bias is minimized. The RHC is an excellent alternative to private response methods and could potentially be adapted for large-scale surveys.",
+  "authors": [
+    {
+      "raw": "Luke, Nancy",
+      "family": "Luke",
+      "given": "Nancy"
+    },
+    {
+      "raw": "Clark, Shelley",
+      "family": "Clark",
+      "given": "Shelley"
+    },
+    {
+      "raw": "Zulu, Eliya M.",
+      "family": "Zulu",
+      "given": "Eliya M."
+    }
+  ],
+  "authors_text": "Luke, Nancy; Clark, Shelley; Zulu, Eliya M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0051-2",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0051-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0051-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0051-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

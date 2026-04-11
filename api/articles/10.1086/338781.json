@@ -1,0 +1,30 @@
+{
+  "title": "Welfare state and infant mortality",
+  "abstract": "This article seeks to understand the effects of welfare-state spending on infant mortality rates. Infant mortality was chosen for its importance as a social indicator and its putative sensitivity to state action over a short time span. Country fixed-effects models are used to determine that public health spending does have a significant impact in lowering infant mortality rates, net of other factors, such as economic development, and that this effect is cumulative over a five-year time span. A net effect of health spending is also found, even when controlling for the level of spending in the year after which the outcome is measured (to account for spurious effects or reverse causation). State spending affects infant mortality both through social mechanisms and through medical ones. This article also shows that the impact of state spending may vary by the institutional structure of the welfare state. Finally, this study tests for structural breaks in the relationship between health spending and infant mortality and finds none over this time period.",
+  "authors": [
+    {
+      "raw": "Conley, D",
+      "family": "Conley",
+      "given": "D"
+    },
+    {
+      "raw": "Springer, KW",
+      "family": "Springer",
+      "given": "KW"
+    }
+  ],
+  "authors_text": "Conley, D; Springer, KW",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2001,
+  "doi": "10.1086/338781",
+  "doi_url": "https://doi.org/10.1086/338781",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F338781",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/338781.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

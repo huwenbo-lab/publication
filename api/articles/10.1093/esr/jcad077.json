@@ -1,0 +1,40 @@
+{
+  "title": "Two pandemic years greatly reduced young people's life satisfaction: evidence from a comparison with pre-COVID-19 panel data",
+  "abstract": "How much did young people suffer from the COVID-19 pandemic? A growing number of studies address this question, but they often lack a comparison group that was unaffected by the pandemic, and the observation window is usually short. Here, we compared the 2-year development of life satisfaction of German high school students during COVID-19 (N = 2,698) with the development in prepandemic cohorts (N = 4,834) with a difference-in-differences design. We found a decline in life satisfaction in winter 2020/2021 (Cohen's d = -0.40) that was approximately three times stronger than that in the general population and persisted until winter 2021/2022. Young people found some restrictions particularly burdensome, especially travel restrictions, bans on cultural events, and the closure of bars/clubs.",
+  "authors": [
+    {
+      "raw": "Neugebauer, Martin",
+      "family": "Neugebauer",
+      "given": "Martin"
+    },
+    {
+      "raw": "Patzina, Alexander",
+      "family": "Patzina",
+      "given": "Alexander"
+    },
+    {
+      "raw": "Dietrich, Hans",
+      "family": "Dietrich",
+      "given": "Hans"
+    },
+    {
+      "raw": "Sandner, Malte",
+      "family": "Sandner",
+      "given": "Malte"
+    }
+  ],
+  "authors_text": "Neugebauer, Martin; Patzina, Alexander; Dietrich, Hans; Sandner, Malte",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad077",
+  "doi_url": "https://doi.org/10.1093/esr/jcad077",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad077",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad077.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

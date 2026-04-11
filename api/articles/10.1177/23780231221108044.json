@@ -1,0 +1,35 @@
+{
+  "title": "Scientific Disciplines and the Admissibility of Expert Evidence in Courts",
+  "abstract": "The authors examine how people interpret expert claims when they do not share experts’ technical understanding. The authors review sociological research on the cultural boundaries of science and expertise, which suggests that scientific disciplines are heuristics nonspecialists use to evaluate experts’ credibility. To test this idea, the authors examine judicial decisions about contested expert evidence in U.S. district courts ( n = 575). Multinomial logistic regression results show that judges favor evidence from natural scientists compared with social scientists, even after adjusting for other differences among experts, judges, and court cases. Judges also favor evidence from medical and health experts compared with social scientists. These results help illustrate the assumptions held by judges about the credibility of some disciplines relative to others. They also suggest that judges may rely on tacit assumptions about the merits of different areas of science, which may reflect broadly shared cultural beliefs about expertise and credibility.",
+  "authors": [
+    {
+      "raw": "O’Brien, Timothy L.",
+      "family": "O’Brien",
+      "given": "Timothy L."
+    },
+    {
+      "raw": "Hawkins, Stephen L.",
+      "family": "Hawkins",
+      "given": "Stephen L."
+    },
+    {
+      "raw": "Loesch, Adam",
+      "family": "Loesch",
+      "given": "Adam"
+    }
+  ],
+  "authors_text": "O’Brien, Timothy L.; Hawkins, Stephen L.; Loesch, Adam",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221108044",
+  "doi_url": "https://doi.org/10.1177/23780231221108044",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221108044",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221108044.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

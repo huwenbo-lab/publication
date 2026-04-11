@@ -1,0 +1,30 @@
+{
+  "title": "Self-Citation, Cumulative Advantage, and Gender Inequality in Science",
+  "abstract": "In science, self-citation is often interpreted as an act of self-promotion that (artificially) boosts the visibility of one’s prior work in the short term, which could then inflate professional authority in the long term. Recently, in light of research on the gender gap in self-promotion, two large-scale studies of publications examine if women self-cite less than men. But they arrive at conflicting conclusions; one concludes yes whereas the other, no. We join the debate with an original study of 36 cohorts of life scientists (1970–2005) followed through 2015 (or death or retirement). We track not only the rate of self-citation per unit of past productivity but also the likelihood of self-citing intellectually distant material and the rate of return on self-citations with respect to a host of major career outcomes, including grants, future citations, and job changes. With comprehensive, longitudinal data, we find no evidence whatsoever of a gender gap in self-citation practices or returns. Men may very well be more aggressive self-promoters than women, but this dynamic does not manifest in our sample with respect to self-citation practices. Implications of our null findings are discussed, particularly with respect to gender inequality in scientific careers more broadly.",
+  "authors": [
+    {
+      "raw": "Azoulay, Pierre",
+      "family": "Azoulay",
+      "given": "Pierre"
+    },
+    {
+      "raw": "Lynn, Freda",
+      "family": "Lynn",
+      "given": "Freda"
+    }
+  ],
+  "authors_text": "Azoulay, Pierre; Lynn, Freda",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2020,
+  "doi": "10.15195/v7.a7",
+  "doi_url": "https://doi.org/10.15195/v7.a7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv7.a7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v7.a7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

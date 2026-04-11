@@ -1,0 +1,25 @@
+{
+  "title": "When Growing Up Without a Parent Does Not Hurt: Parental Separation and the Compensatory Effect of Social Origin",
+  "abstract": "This article investigates how the negative impact of parental separation on children's educational outcomes varies with social origin. In particular, I test the compensatory class hypothesis which postulates that higher class families compensate the negative effects of disadvantageous life events, such as parental separation. I apply family-fixed effects models to control for unmeasured confounding characteristics of families and use data on siblings from Germany. I do find indication of substantial negative effects of parental separation on the probability of attending the upper track in secondary school (Gymnasium) and on school grades in German and Mathematics. These negative consequences of parental separation are limited to children with low-educated parents. Children in families with highly educated parents are not negatively affected by their parents' separation in their educational outcomes. This finding supports the compensatory class hypothesis and demonstrates that research on the consequences of parental separation has to take into account the heterogeneity of separation effects.",
+  "authors": [
+    {
+      "raw": "Graetz, Michael",
+      "family": "Graetz",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Graetz, Michael",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcv057",
+  "doi_url": "https://doi.org/10.1093/esr/jcv057",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv057",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv057.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

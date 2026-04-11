@@ -1,0 +1,30 @@
+{
+  "title": "Visualizing Underemployment Dynamics in Australia: Combining Sankey and Sequence Analysis Plots",
+  "abstract": "This visualization uses annual data from the Household, Income and Labour Dynamics in Australia (HILDA) Survey to illustrate the dynamics of underemployment for Australian men and women in their early careers (ages 25–34 years). Visualizing the dynamics of underemployment reveals that it is a persistent and gender-biased issue. Women are more likely to experience underemployment in their early careers compared with men. Additionally, women are more likely to become trapped in a cycle of underemployment and inactivity, leading to unfavorable long-term work experiences. This disparity highlights the need for policies that improve women’s human capital and productivity by addressing underemployment in their early careers.",
+  "authors": [
+    {
+      "raw": "Fauser, Sophia",
+      "family": "Fauser",
+      "given": "Sophia"
+    },
+    {
+      "raw": "Mooi-Reci, Irma",
+      "family": "Mooi-Reci",
+      "given": "Irma"
+    }
+  ],
+  "authors_text": "Fauser, Sophia; Mooi-Reci, Irma",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231160640",
+  "doi_url": "https://doi.org/10.1177/23780231231160640",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231160640",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231160640.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "And Their Children after Them? The Effect of College on Educational Reproduction",
+  "abstract": "Conventional analyses of social mobility and status reproduction retrospectively compare an outcome of individuals to a characteristic of their parents. By ignoring the mechanisms of family formation and excluding childless individuals, conventional approaches introduce selection bias into estimates of how characteristics in one generation affect an outcome in the next. The prospective approach introduced here integrates the effects of college on marriage and fertility into the reproduction of educational outcomes. Marginal structural models with inverse probability of treatment weighting are used with data from the Wisconsin Longitudinal Study to estimate the causal effect of pathways linking graduating from college with having a child who graduates from college. Results show that college increases male graduates' probability of having a child who completes college; for female graduates there is no effect. The gender distinction is largely explained by the negative effects of college on women's likelihood to marry and have children.",
+  "authors": [
+    {
+      "raw": "Lawrence, Matthew",
+      "family": "Lawrence",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    }
+  ],
+  "authors_text": "Lawrence, Matthew; Breen, Richard",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2016,
+  "doi": "10.1086/687592",
+  "doi_url": "https://doi.org/10.1086/687592",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F687592",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/687592.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

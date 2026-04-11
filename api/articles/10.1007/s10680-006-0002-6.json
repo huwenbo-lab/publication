@@ -1,0 +1,35 @@
+{
+  "title": "Déstandardisation, différenciation régionale et changements générationnels. Départ du foyer parental et modes de vie en Suisse au XXe siècle",
+  "abstract": "Recent studies on transitions to adulthood have somewhat disregarded the choice of living arrangements after moving out of the parental home. In this article we investigate the leaving home experience of young adults and the way it has changed over time in Switzerland during the 20th century. Using longitudinal data from the Swiss Household Panel, we first analyze the timing of the leaving home experience, and then living arrangements through competing risks models. Our findings show that in Switzerland leaving home behaviour varied across cohorts and linguistic regions in terms of timing, type of living arrangement and degree of synchronisation with other transitions to adulthood.RésuméLe choix du mode de vie au départ du domicile parental est une question peu abordée dans les études sur le passage à la vie adulte. Cet article propose une analyse des comportements en matière de mode de vie au départ du foyer parental et leur évolution en Suisse au cours du XXe siècle. A partir des données de l’enquête biographique du Panel Suisse de Ménages, des analyses longitudinales sont menées sur le calendrier de départ du foyer parental, puis, en spécifiant des modèles à risques concurrentiels, sur le type de mode de vie choisi à ce moment. Les résultats montrent qu’en Suisse ces comportements varient selon les cohortes et les régions tant du point de vue du calendrier du départ, du type de destination choisi que dans la synchronisation des principaux événements du passage à la vie adulte.",
+  "authors": [
+    {
+      "raw": "Schumacher, Reto",
+      "family": "Schumacher",
+      "given": "Reto"
+    },
+    {
+      "raw": "Spoorenberg, Thomas",
+      "family": "Spoorenberg",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Forney, Yannic",
+      "family": "Forney",
+      "given": "Yannic"
+    }
+  ],
+  "authors_text": "Schumacher, Reto; Spoorenberg, Thomas; Forney, Yannic",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2006,
+  "doi": "10.1007/s10680-006-0002-6",
+  "doi_url": "https://doi.org/10.1007/s10680-006-0002-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-006-0002-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-006-0002-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

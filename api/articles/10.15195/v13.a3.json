@@ -1,0 +1,40 @@
+{
+  "title": "Generative AI in Sociological Research: State of the Discipline",
+  "abstract": "Generative artificial intelligence (GenAI) has garnered considerable attention for its poten- tial utility in research and scholarship, even among those who typically do not rely on computational tools. However, early commentators have also articulated concerns about how GenAI usage comes with enormous environmental costs, serious social risks, and a tendency to produce low-quality content. In the midst of both excitement and skepticism, it is crucial to take stock of how GenAI is actually being used. Our study focuses on sociological research as our site, and here we present findings from a survey of 433 authors of articles published in 50 sociology journals in the past five years. The survey provides an overview of the state of the discipline with regard to the use of GenAI by providing answers to fundamental questions: how (much) do scholars use the technology for their research; what are their reasons for using it; and how concerned, trustful, and optimistic are they about the technology? Of the approximately one third of respondents who self-report using GenAI at least weekly, the primary uses are for writing assistance and comparatively less so in planning, data collection, or data analysis. In both use and attitudes, there are surprisingly few differences between self-identified computational and non-computational researchers. In general, respondents are very concerned about the social and environmental consequences of GenAI. Trust in GenAI outputs is low, regardless of expertise or frequency of use. Although optimism that GenAI will improve is high, scholars are divided on whether GenAI will have a positive impact on the field.",
+  "authors": [
+    {
+      "raw": "Alvero, AJ",
+      "family": "Alvero",
+      "given": "AJ"
+    },
+    {
+      "raw": "Stoltz, Dustin",
+      "family": "Stoltz",
+      "given": "Dustin"
+    },
+    {
+      "raw": "Stuhler, Oscar",
+      "family": "Stuhler",
+      "given": "Oscar"
+    },
+    {
+      "raw": "Taylor, Marshall",
+      "family": "Taylor",
+      "given": "Marshall"
+    }
+  ],
+  "authors_text": "Alvero, AJ; Stoltz, Dustin; Stuhler, Oscar; Taylor, Marshall",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2026,
+  "doi": "10.15195/v13.a3",
+  "doi_url": "https://doi.org/10.15195/v13.a3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv13.a3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v13.a3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

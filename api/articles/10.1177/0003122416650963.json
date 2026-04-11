@@ -1,0 +1,35 @@
+{
+  "title": "Modeling Dynamic Identities and Uncertainty in Social Interactions: Bayesian Affect Control Theory",
+  "abstract": "Drawing on Bayesian probability theory, we propose a generalization of affect control theory (BayesACT) that better accounts for the dynamic fluctuation of identity meanings for self and other during interactions, elucidates how people infer and adjust meanings through social experience, and shows how stable patterns of interaction can emerge from individuals' uncertain perceptions of identities. Using simulations, we illustrate how this generalization offers a resolution to several issues of theoretical significance within sociology and social psychology by balancing cultural consensus with individual deviations from shared meanings, balancing meaning verification with the learning processes reflective of change, and accounting for noise in communicating identity. We also show how the model speaks to debates about core features of the self, which can be understood as stable and yet malleable, coherent and yet composed of multiple identities that may carry competing meanings. We discuss applications of the model in different areas of sociology, implications for understanding identity and social interaction, as well as the theoretical grounding of computational models of social behavior.",
+  "authors": [
+    {
+      "raw": "Schroeder, Tobias",
+      "family": "Schroeder",
+      "given": "Tobias"
+    },
+    {
+      "raw": "Hoey, Jesse",
+      "family": "Hoey",
+      "given": "Jesse"
+    },
+    {
+      "raw": "Rogers, Kimberly B.",
+      "family": "Rogers",
+      "given": "Kimberly B."
+    }
+  ],
+  "authors_text": "Schroeder, Tobias; Hoey, Jesse; Rogers, Kimberly B.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1177/0003122416650963",
+  "doi_url": "https://doi.org/10.1177/0003122416650963",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122416650963",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122416650963.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

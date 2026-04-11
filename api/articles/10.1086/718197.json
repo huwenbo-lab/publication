@@ -1,0 +1,30 @@
+{
+  "title": "Shining a Light on the Shadows: Endogenous Trade Structure and the Growth of an Online Illegal Market",
+  "abstract": "How do illegal markets grow and develop? Using unique transaction-level data on 7,205 market actors and 16,847 illegal drug exchanges on a darknet drug market, the authors evaluate the network processes that shape online illegal drug trade and promote the growth of online illegal drug markets. Contrary to past research on online markets, the authors argue that the high-risk context of illegal trade enhances market actors' reliance on social relationships that emerge endogenously from transaction networks. The findings reveal a highly structured trade network characterized by dense clustering and frequent recurrent drug exchange. Dynamic network models reveal that both embeddedness and closure in exchange structure increase the hazard rate of illegal drug trade, with effect sizes comparable to formal reputations. These effects are pronounced in the early stages of market development but wane once the market reaches maturity. These findings demonstrate the powerful, temporally contingent, influence of transaction networks on illegal trade in online markets and reveal how endogenous networks of economic relations can promote risky exchange under conditions of relative anonymity and illegality.",
+  "authors": [
+    {
+      "raw": "Duxbury, Scott W.",
+      "family": "Duxbury",
+      "given": "Scott W."
+    },
+    {
+      "raw": "Haynie, Dana L.",
+      "family": "Haynie",
+      "given": "Dana L."
+    }
+  ],
+  "authors_text": "Duxbury, Scott W.; Haynie, Dana L.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2021,
+  "doi": "10.1086/718197",
+  "doi_url": "https://doi.org/10.1086/718197",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F718197",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/718197.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

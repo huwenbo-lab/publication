@@ -1,0 +1,40 @@
+{
+  "title": "Working and disability expectancies at older ages: The role of childhood circumstances and education",
+  "abstract": "The ability to work at older ages depends on health and education. Both accumulate starting very early in life. We assess how childhood disadvantages combine with education to affect working and health trajectories. Applying multistate period life tables to data from the Health and Retirement Study (HRS) for the period 2008-2014, we estimate how the residual life expectancy at age 50 is distributed in number of years of work and disability, by number of childhood disadvantages, gender, and race/ethnicity. Our findings indicate that number of childhood disadvantages is negatively associated with work and positively with disability, irrespective of gender and race/ethnicity. Childhood disadvantages intersect with low education resulting in shorter lives, and redistributing life years from work to disability. Among the highly educated, health and work differences between groups of childhood disadvantage are small. Combining multistate models and inverse probability weighting, we show that the return of high education is greater among the most disadvantaged.",
+  "authors": [
+    {
+      "raw": "Lorenti, Angelo",
+      "family": "Lorenti",
+      "given": "Angelo"
+    },
+    {
+      "raw": "Dudel, Christian",
+      "family": "Dudel",
+      "given": "Christian"
+    },
+    {
+      "raw": "Hale, Jo Mhairi",
+      "family": "Hale",
+      "given": "Jo Mhairi"
+    },
+    {
+      "raw": "Myrskyla, Mikko",
+      "family": "Myrskyla",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Lorenti, Angelo; Dudel, Christian; Hale, Jo Mhairi; Myrskyla, Mikko",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2020.102447",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102447",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102447",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102447.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

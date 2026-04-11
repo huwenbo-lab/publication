@@ -1,0 +1,30 @@
+{
+  "title": "Is the Effect Larger in Group A or B? It Depends: Understanding Results From Nonlinear Probability Models",
+  "abstract": "Demographers and other social sci-en-tists often study effect het-ero-ge-ne-ity (defined here as dif-fer-ences in out-come-pre-dic-tor asso-ci-a-tions across groups defined by the val-ues of a third var-i-able) to under-stand how inequalities evolve between groups or how groups dif-fer-en-tially ben-e-fit from treat-ments. Yet answer-ing the ques-tion Is the effect larger in group A or group B? is sur-pris-ingly dif-fi-cult. In fact, the answer sometimes reverses across scales. For exam-ple, research-ers might con-clude that the effect of edu-ca-tion on mor-tal-ity is larger among women than among men if they quan-tify edu-ca-tion's effect on an odds-ratio scale, but their con-clu-sion might flip (to indi-cate a larger effect among men) if they instead quan-tify edu-ca-tion's effect on a per-cent-age- point scale. We illu-mi-nate this flipped-signs phe-nom-e-non in the con-text of non-lin-ear prob-a-bil-ity mod-els, which were used in about one third of arti-cles published in Demography in 2018-2019. Although meth-od-ol-o-gists are aware that flipped signs can occur, applied research-ers have not inte-grated this insight into their work. We pro-vide for-mal inequalities that research-ers can use to eas-ily deter-mine if flipped signs are a prob-lem in their own appli-ca-tions. We also share prac-ti-cal tips to help research-ers han-dle flipped signs and, thus, gen-er-ate clear and sub-stan-tively cor-rect descrip-tions of effect het-ero-ge-ne-ity. Our find-ings advance research-ers' abil-ity to accu-rately char-ac-ter-ize pop-u-la-tion var-i-a-tion.",
+  "authors": [
+    {
+      "raw": "Bloome, Deirdre",
+      "family": "Bloome",
+      "given": "Deirdre"
+    },
+    {
+      "raw": "Ang, Shannon",
+      "family": "Ang",
+      "given": "Shannon"
+    }
+  ],
+  "authors_text": "Bloome, Deirdre; Ang, Shannon",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10109444",
+  "doi_url": "https://doi.org/10.1215/00703370-10109444",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10109444",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10109444.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

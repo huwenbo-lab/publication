@@ -1,0 +1,40 @@
+{
+  "title": "Adult Mortality Five Years after a Natural Disaster",
+  "abstract": "Exposure to extreme events has been hypothesized to affect subsequent mortality because of mortality selection and scarring effects of the event itself. We examine survival at and in the five years after the 2004 Indian Ocean earthquake and tsunami for a population-representative sample of residents of Aceh, Indonesia who were differentially exposed to the disaster. For this population, the dynamics of selection and scarring are a complex function of the degree of tsunami impact in the community, the nature of individual exposures, age at exposure, and gender. Among individuals from tsunami-affected communities we find evidence for positive mortality selection among older individuals, with stronger effects for males than for females, and that this selection dominates any scarring impact of stressful exposures that elevate mortality. Among individuals from other communities, where mortality selection does not play a role, there is evidence of scarring with property loss associated with elevated mortality risks in the five years after the disaster among adults age 50 or older at the time of the disaster.",
+  "authors": [
+    {
+      "raw": "Ho, Jessica Y.",
+      "family": "Ho",
+      "given": "Jessica Y."
+    },
+    {
+      "raw": "Frankenberg, Elizabeth",
+      "family": "Frankenberg",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Sumantri, Cecep",
+      "family": "Sumantri",
+      "given": "Cecep"
+    },
+    {
+      "raw": "Thomas, Duncan",
+      "family": "Thomas",
+      "given": "Duncan"
+    }
+  ],
+  "authors_text": "Ho, Jessica Y.; Frankenberg, Elizabeth; Sumantri, Cecep; Thomas, Duncan",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2017,
+  "doi": "10.1111/padr.12075",
+  "doi_url": "https://doi.org/10.1111/padr.12075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Change in Personal Culture over the Life Course",
+  "abstract": "Prior literature finds stability in personal culture, such as attitudes and values, in individuals' life courses using short-running panel data. This work has concluded that lasting change in personal culture is rare after formative early years. This conclusion conflicts with a growing body of evidence for changes in personal culture after significant life course transitions, drawing on long-running panel data. To integrate these conflicting findings, the current study develops and applies a life course adaption model of personal culture, accounting for early imprinting and the continued possibility for change. Drawing on rich data from six long-running panel studies from five countries (BHPS, HILDA, PSID, SHP, SOEP, UKHLS) and 428 measures of personal culture, I test the theoretical expectations using mixed-effects modeling and an individual participant data meta-analysis. Results support the life course adaption model. Although lasting, non-transitory, within-individual changes in personal culture are relatively small compared to stable between-individual differences, I find strong support for the proposition that individuals change persistently in their personal culture as they move through the life course. These changes are partly dependent on prior biographical experiences. Finally, personal culture fluctuates substantially from year to year. Change in personal culture is increasingly varied for younger birth cohorts.",
+  "authors": [
+    {
+      "raw": "Lersch, Philipp M.",
+      "family": "Lersch",
+      "given": "Philipp M."
+    }
+  ],
+  "authors_text": "Lersch, Philipp M.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231156456",
+  "doi_url": "https://doi.org/10.1177/00031224231156456",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231156456",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231156456.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

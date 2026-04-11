@@ -1,0 +1,45 @@
+{
+  "title": "Live like mosquitoes: Hukou, rural–urban disparity, and depression",
+  "abstract": "Although there has been a longstanding curiosity about the socio-political consequences of China’s remarkable urban–rural divide, we have yet to understand the divide’s possible influence on mental health. Using data from the 2016 wave of the China Labor-force Dynamics Survey (CLDS), we find that depressive symptoms of both rural–urban migrants and rural residents are significantly higher than those of urban residents. Consistent with the fundamental-causes-of-disease and stress-exposure perspectives, results from zero-inflated negative binomial regression suggest that such differences in depressive symptoms can be attributed to socioeconomic status and proximate stressors such as unemployment, living alone, and the unaffordability of medical services. In particular, the rural–urban difference in depressive symptoms is explained away by educational attainment. A further investigation using spline Poisson regression suggests that the protective effects of the period of middle school, which vary substantially across demographic groups, are especially relevant to the rural–urban disparity in depression. We argue that hukou is a fundamental cause of disease in China and mental health is an important yet understudied area where China’s salient urban–rural inequality strikes.",
+  "authors": [
+    {
+      "raw": "Fu, Qiang",
+      "family": "Fu",
+      "given": "Qiang"
+    },
+    {
+      "raw": "Wu, Cary",
+      "family": "Wu",
+      "given": "Cary"
+    },
+    {
+      "raw": "Liu, Heqing",
+      "family": "Liu",
+      "given": "Heqing"
+    },
+    {
+      "raw": "Shi, Zhilei",
+      "family": "Shi",
+      "given": "Zhilei"
+    },
+    {
+      "raw": "Gu, Jiaxin",
+      "family": "Gu",
+      "given": "Jiaxin"
+    }
+  ],
+  "authors_text": "Fu, Qiang; Wu, Cary; Liu, Heqing; Shi, Zhilei; Gu, Jiaxin",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2018,
+  "doi": "10.1177/2057150x17748313",
+  "doi_url": "https://doi.org/10.1177/2057150x17748313",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x17748313",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x17748313.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

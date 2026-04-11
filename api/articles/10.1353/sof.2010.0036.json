@@ -1,0 +1,40 @@
+{
+  "title": "No Safe Place: Environmental Hazards & Injustice along Mexico's Northern Border",
+  "abstract": "This article examines spatial relationships between environmental hazards (i.e., pork feed lots, brick kilns, final assembly plants and a rail line) and markers of social marginality in Ciudad Juárez, Mexico. Juárez represents an opportunity for researchers to test for patterns of injustice in a recently urbanizing metropolis of the Global South. We use spatial-econometric modeling to predict the four unique hazard variables and a composite hazard variable using socio-demographic variables at the neighborhood level. Lower class and higher percentages of children and migrants were statistically significant predictors of composite hazard density. These results align with previous studies in the North. However, disaggregating these results by hazard type reveals important and counterintuitive differences in groups at risk based on the market-orientation of the hazard (i.e., domestic vs. transnational) and its location within the urban structure.",
+  "authors": [
+    {
+      "raw": "Grineski, S. E.",
+      "family": "Grineski",
+      "given": "S. E."
+    },
+    {
+      "raw": "Collins, T. W.",
+      "family": "Collins",
+      "given": "T. W."
+    },
+    {
+      "raw": "Romo Aguilar, M. d. L.",
+      "family": "Romo Aguilar",
+      "given": "M. d. L."
+    },
+    {
+      "raw": "Aldouri, R.",
+      "family": "Aldouri",
+      "given": "R."
+    }
+  ],
+  "authors_text": "Grineski, S. E.; Collins, T. W.; Romo Aguilar, M. d. L.; Aldouri, R.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2010,
+  "doi": "10.1353/sof.2010.0036",
+  "doi_url": "https://doi.org/10.1353/sof.2010.0036",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2010.0036",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2010.0036.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

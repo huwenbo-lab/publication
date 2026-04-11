@@ -1,0 +1,30 @@
+{
+  "title": "Child-Driven Parenting: Differential Early Childhood Investment by Offspring Genotype",
+  "abstract": "A growing literature points to children's influence on parents' behavior, including parental investments in children. Further, previous research has shown differential parental response by socioeconomic status to children's birth weight, cognitive ability, and school outcomes-all early life predictors of later socioeconomic success. This study considers an even earlier, more exogenous predictor of parental investments: offspring genotype. Specifically, we analyze (1) whether children's genetic propensity toward educational success affects parenting during early childhood and (2) whether parenting in response to children's genetic propensity toward educational success is socially stratified. Using data from the Avon Longitudinal Survey of Parents and Children (N = 6,247), we construct polygenic indexes (PGIs) for educational attainment (EA) and regress cognitively stimulating parenting behavior during early childhood on these PGIs. We apply Mendelian imputation to construct the missing parental genotype. This approach allows us to control for both parents' PGIs for EA and thereby achieve a natural experiment: Conditional on parental genotype, the offspring genotype is randomly assigned. In this way, we eliminate the possibility that child's genotype may be proxying unmeasured parent characteristics. Results differ by parenting behavior: (1) parents' singing to the child is not affected by the child's EA PGI, (2) parents play more with children with higher EA PGIs, and (3) non-college-educated parents read more to children with higher education PGIs, while college-educated parents respond less to children's EA PGI.",
+  "authors": [
+    {
+      "raw": "Breinholt, Asta",
+      "family": "Breinholt",
+      "given": "Asta"
+    },
+    {
+      "raw": "Conley, Dalton",
+      "family": "Conley",
+      "given": "Dalton"
+    }
+  ],
+  "authors_text": "Breinholt, Asta; Conley, Dalton",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac155",
+  "doi_url": "https://doi.org/10.1093/sf/soac155",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac155",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac155.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

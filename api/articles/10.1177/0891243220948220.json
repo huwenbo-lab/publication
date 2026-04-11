@@ -1,0 +1,30 @@
+{
+  "title": "Gendered Places: The Dimensions of Local Gender Norms across the United States",
+  "abstract": "In this study, we explore the dimensions of local gender norms across U.S. commuting zones. Applying hierarchical cluster analysis with four established indicators of gender norms, we find that these local cultural environments are best conceptualized with a multilevel framework. Commuting zones can be differentiated between those that are egalitarian and those that are traditional. Within these general categories, however, exist more complex dimensions. Gender-traditional areas may be distinguished between traditional-breadwinning and traditional-essentialist, while egalitarian areas are separated into those that are liberal-egalitarian and egalitarian-essentialist. Examining the factors sustaining this spatial variation, we test the role of compositional and contextual effects. We find limited support for compositional effects because commuting zone demographic makeup explains little variation in gender norm indicators. Instead, we find evidence that local gender norms are sustained through contextual effects where the experience of living in a particular environment shapes residents’ attitudes and behaviors. Contextual effects are exceptionally strong in areas with traditional gender norms, where residents who would otherwise hold gender-egalitarian perspectives (e.g., the highly educated) have more traditional outlooks than those who share the same characteristics but reside in places with egalitarian gender norms.",
+  "authors": [
+    {
+      "raw": "Scarborough, William J.",
+      "family": "Scarborough",
+      "given": "William J."
+    },
+    {
+      "raw": "Sin, Ray",
+      "family": "Sin",
+      "given": "Ray"
+    }
+  ],
+  "authors_text": "Scarborough, William J.; Sin, Ray",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2020,
+  "doi": "10.1177/0891243220948220",
+  "doi_url": "https://doi.org/10.1177/0891243220948220",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243220948220",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243220948220.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

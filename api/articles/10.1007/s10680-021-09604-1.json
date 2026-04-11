@@ -1,0 +1,35 @@
+{
+  "title": "A Tale of Integration? The Migrant Wealth Gap in Austria",
+  "abstract": "AbstractWe investigate how previous generations of migrants and their children integrated into Austrian society, as measured by their wealth ownership. Using individual-level data from the Household Finance and Consumption Survey (HFCS), we document (1) a positive average migrant wealth gap between migrants and natives—that is, migrants owning less wealth than natives, especially in the upper half of the distribution, (2) substantial within-group inequality for migrants, and (3) evidence for catch-up, since second-generation migrants are much more similar to natives in terms of wealth and socio-economic characteristics than first-generation migrants. Using a RIF regression, we confirm an economically significant migrant wealth gap for first-generation migrants after controlling for socio-economic characteristics especially for the upper middle of the distribution, where housing wealth is a particularly relevant asset category. Second-generation migrants’ wealth gap is fully explained by our covariates in the middle of the distribution, whereas at the top where business wealth is more salient, their characteristics predict them to have higher wealth than natives. Decomposing the partial effects of covariates suggests that inheritances have the highest explanatory power for the migrant wealth gap of both first- and second-generation migrants, further buttressing the case for progressive integration in terms of wealth, while the composition of the migrant population, and in particular migrants’ heritage may continue to play a role in their wealth ownership.",
+  "authors": [
+    {
+      "raw": "Muckenhuber, Mattias",
+      "family": "Muckenhuber",
+      "given": "Mattias"
+    },
+    {
+      "raw": "Rehm, Miriam",
+      "family": "Rehm",
+      "given": "Miriam"
+    },
+    {
+      "raw": "Schnetzer, Matthias",
+      "family": "Schnetzer",
+      "given": "Matthias"
+    }
+  ],
+  "authors_text": "Muckenhuber, Mattias; Rehm, Miriam; Schnetzer, Matthias",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-021-09604-1",
+  "doi_url": "https://doi.org/10.1007/s10680-021-09604-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-021-09604-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-021-09604-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

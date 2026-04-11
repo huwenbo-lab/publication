@@ -1,0 +1,30 @@
+{
+  "title": "The impact of kin availability, parental religiosity, and nativity on fertility differentials in the late 19th-century United States",
+  "abstract": "METHODS Most quantitative research on fertility decline in the United States ignores the potential impact of cultural and familial factors. We rely on new complete-count data from the 1880 US census to construct couple-level measures of nativity/ethnicity, religiosity, and kin availability. We include these measures with a comprehensive set of demographic, economic, and contextual variables in Poisson regression models of net marital fertility to assess their relative importance. We construct models with and without area-fixed effects to control for unobserved heterogeneity. CONTRIBUTION All else being equal, we find a strong impact of nativity on recent net marital fertility. Fertility differentials among second-generation couples relative to the native-born white population of native parentage were in most cases less than half of the differential observed among first-generation immigrants, suggesting greater assimilation to native-born American childbearing norms. Our measures of parental religiosity and familial propinquity indicate a more modest impact on marital fertility. Couples who chose biblical names for their children had approximately 3% more children than couples relying on secular names, while the presence of a potential mother-in-law in a nearby household was associated with 2% more children. Overall, our results demonstrate the need for more inclusive models of fertility behavior that include cultural and familial covariates.",
+  "authors": [
+    {
+      "raw": "Hacker, J. David",
+      "family": "Hacker",
+      "given": "J. David"
+    },
+    {
+      "raw": "Roberts, Evan",
+      "family": "Roberts",
+      "given": "Evan"
+    }
+  ],
+  "authors_text": "Hacker, J. David; Roberts, Evan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.34",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.34",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.34",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.34.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

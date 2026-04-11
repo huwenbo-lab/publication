@@ -1,0 +1,25 @@
+{
+  "title": "Intersectional Complexity in Stereotype Content",
+  "abstract": "Research on stereotypes often focuses on discrete, isolated social categories (e.g., gender or race), and rarely centers the fact that people belong to many social categories at once (e.g., gender and race). In a large factorial experiment (N=1,762) I measure two dimensions of stereotypes-warmth and competence-across 360 intersections of gender, sexuality, age, race/ethnicity, and social class. Warmth stereotypes were complex in the sense that only about a third of intersectional variation came from main effects of the five social categories. Competence stereotypes were less complex, with most variation stemming from main effects. Stereotypes varied across intersections with other categories, even sometimes reversing typically negative stereotypes. Finally, analyses also showed support for double standard theories: equal competence yielded less expected status for the more marginalized. Such findings show how intersectional perspectives can shed new light on how stereotypes affect how people are seen and uncover commonalities as well as differences between intersectional identities.",
+  "authors": [
+    {
+      "raw": "Heiserman, Nicholas",
+      "family": "Heiserman",
+      "given": "Nicholas"
+    }
+  ],
+  "authors_text": "Heiserman, Nicholas",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1086/728051",
+  "doi_url": "https://doi.org/10.1086/728051",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F728051",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/728051.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

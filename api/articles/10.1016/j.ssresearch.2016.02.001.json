@@ -1,0 +1,35 @@
+{
+  "title": "Place matters: Contextualizing the roles of religion and race for understanding Americans' attitudes about homosexuality",
+  "abstract": "As laws and policies related to homosexuality have evolved, Americans' attitudes have also changed. Race and religion have been established as important indicators of feelings about homosexuality. However, researchers have given almost no attention to how county characteristics shape Americans' attitudes. Using Hierarchical Linear Modeling techniques, we examine how personal characteristics and the religious and racial context of a county shape feelings about homosexuality drawing on data from the American National Election Survey and information about where respondents reside. We find that African Americans initially appear less tolerant than other racial groups, until we account for the geographical distribution of attitudes across the nation. Additionally, once we consider religious involvement, strength of belief, and religious affiliation African Americans appear to have warmer feelings about homosexuality than whites. Drawing on the moral communities' hypothesis, we also find that the strength of religiosity amongst county residents heightens the influence of personal religious beliefs on disapproving attitudes. There is also a direct effect of the proportion conservative Protestant, whereby people of all faiths have cooler attitudes towards homosexual individuals when they reside in a county with a higher proportion of conservative Protestants. Finally, we do not find any evidence for an African American cultural influence on attitudes. Published by Elsevier Inc.",
+  "authors": [
+    {
+      "raw": "Adamczyk, Amy",
+      "family": "Adamczyk",
+      "given": "Amy"
+    },
+    {
+      "raw": "Boyd, Katharine A.",
+      "family": "Boyd",
+      "given": "Katharine A."
+    },
+    {
+      "raw": "Hayes, Brittany E.",
+      "family": "Hayes",
+      "given": "Brittany E."
+    }
+  ],
+  "authors_text": "Adamczyk, Amy; Boyd, Katharine A.; Hayes, Brittany E.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.02.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.02.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.02.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.02.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Adolescent Intergenerational Cohesiveness and Young Adult Proximity to Mothers",
+  "abstract": "We consider how mother–child cohesion in adolescence relates to geographic proximity in young adulthood. Using the National Longitudinal Survey of Youth 1997 ( N = 3,985), ordered probit models the association between adolescents’ emotional closeness to mother and subsequent residential distance, controlling for key factors. Young people “at risk” of living at a distance (i.e., who have left the parental home) may be characterized by poorer relationships with parents. To take account of potential selection bias, two-stage Heckit models address spatial proximity as it relates to the choice to live with parents. The results suggest that emotional closeness to mother is robustly associated with later spatial proximity. The finding holds controlling for family structure, which is often taken as proxy for relationship quality. Although emotional closeness figures in the decision to leave home and move away, we do not find that selection out of coresidence biases the results for geographic proximity.",
+  "authors": [
+    {
+      "raw": "Gillespie, Brian Joseph",
+      "family": "Gillespie",
+      "given": "Brian Joseph"
+    },
+    {
+      "raw": "Treas, Judith",
+      "family": "Treas",
+      "given": "Judith"
+    }
+  ],
+  "authors_text": "Gillespie, Brian Joseph; Treas, Judith",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2016,
+  "doi": "10.1177/0192513x15598548",
+  "doi_url": "https://doi.org/10.1177/0192513x15598548",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x15598548",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x15598548.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

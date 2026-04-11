@@ -1,0 +1,30 @@
+{
+  "title": "COVID-19 and inequalities in educational achievement in Italy",
+  "abstract": "We use longitudinal data from over 1.5 million Italian students to examine differences in the mathematics and reading achievement of students who completed primary and lower secondary school in 2020-21 (COVID cohort) and those who completed it in 2018-19 (non-COVID cohort). We also examine the evolution of in-equalities by gender, socio-economic condition, and prior academic achievement during the pandemic. On average, the primary school COVID cohort experienced a small increase in reading achievement and a drop in mathematics achievement compared to the non-COVID cohort. The lower secondary school COVID cohort experienced a large reduction in mathematics achievement and a smaller reduction in reading achievement compared to the non-COVID cohort. Previously middle-achieving students suffered the most from the pandemic, while high achievers gained. Socio-economic inequalities in achievement remained stable for secondary school students and somewhat decreased for primary school students between the non-COVID and COVID cohorts. Gender disparities were broadly reduced across domains and school levels, except for primary school math",
+  "authors": [
+    {
+      "raw": "Borgonovi, Francesca",
+      "family": "Borgonovi",
+      "given": "Francesca"
+    },
+    {
+      "raw": "Ferrara, Alessandro",
+      "family": "Ferrara",
+      "given": "Alessandro"
+    }
+  ],
+  "authors_text": "Borgonovi, Francesca; Ferrara, Alessandro",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100760",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100760",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100760",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100760.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

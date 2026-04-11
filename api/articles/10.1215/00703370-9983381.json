@@ -1,0 +1,25 @@
+{
+  "title": "Mass Education and Women's Autonomy: Evidence From Latin America",
+  "abstract": "Most low- and middle-income countries have implemented mass education reforms in the last few decades. Demographers and policymakers have posited that mass schooling would enhance women's autonomy and, therefore, accelerate population transformations in the Global South. However, gains in women's schooling may have unexpected implications for female autonomy in contexts where hypergamy norms-the ideal that men should marry down and women should marry up in education and other markers of status-are still dominant. This study addresses difficulties in evaluating the causal impact of additional education on women's autonomy by leveraging the timing of compulsory schooling reforms in three Latin American countries: Bolivia, Colombia, and Peru. Using Demographic and Health Surveys, I implement an instrumental variable design using random exposure to compulsory schooling laws as an instrument for years of education. Results show that for women who entered the school system as a result of compulsory reforms, further schooling decreased their level of autonomy in all countries-especially among women from rural Bolivia and Peru. Additional analyses suggest these results are explained by changes in the selection into schooling and the formation of unions defying hypergamy norms. Together, these findings highlight the importance of examining the returns to mass schooling considering population heterogeneity and the contextual meaning of women's education.",
+  "authors": [
+    {
+      "raw": "Urbina, Daniela R.",
+      "family": "Urbina",
+      "given": "Daniela R."
+    }
+  ],
+  "authors_text": "Urbina, Daniela R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9983381",
+  "doi_url": "https://doi.org/10.1215/00703370-9983381",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9983381",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9983381.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Gender Gaps in Undergraduate Fields of Study: Do College Characteristics Matter?",
+  "abstract": "Despite gender parity in earned bachelor’s degrees, large gender gaps persist across fields of study. The dominant explanatory framework in this area of research assesses how gender differences in individual-level attributes predict gaps in major choice. The authors argue that individualistic accounts cannot provide a complete explanation because they fail to consider the powerful effects of the gendered institutional environments that inform and shape young men’s and women’s choices. The authors propose a cultural-organizational approach that considers how institutional characteristics and cultural contexts on college campuses may influence gendered choices and thus be associated with patterns of gender segregation across fields of study. The results of an analysis of institutional data on all U.S. degree-granting colleges and universities reveal substantial interinstitutional variation in gender segregation. Furthermore, structural and contextual institutional features related to peer culture, curricular focus, institutional commitment to gender equity, and the gender proportionality of the student body correlate with heightened or diminished levels of segregation.",
+  "authors": [
+    {
+      "raw": "Mullen, Ann L.",
+      "family": "Mullen",
+      "given": "Ann L."
+    },
+    {
+      "raw": "Baker, Jayne",
+      "family": "Baker",
+      "given": "Jayne"
+    }
+  ],
+  "authors_text": "Mullen, Ann L.; Baker, Jayne",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118789566",
+  "doi_url": "https://doi.org/10.1177/2378023118789566",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118789566",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118789566.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

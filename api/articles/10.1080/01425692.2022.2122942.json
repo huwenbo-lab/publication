@@ -1,0 +1,30 @@
+{
+  "title": "Do teacher and classroom characteristics affect the way in which girls and boys are graded? A multilevel analysis of student-teacher matched data",
+  "abstract": "Teachers' evaluations of students do not consider only academic competence, but are imbued with social considerations related to individual teacher and student characteristics, their interactions, and the surrounding context. The aim of this paper is understanding the extent to which teachers grade girls more generously than boys, and which characteristics of teachers and classrooms are likely to reduce this gender grading gap. We use Italian data from INVALSI-SNV, providing information on 10th-grade students linked with their teachers. The analysis relies on grade equation models in multilevel regression analysis, with students as first level, teachers/classrooms as second level, and schools as third level. Results show that, when comparing students who have identical subject-specific competence, teachers are more likely to give higher grades to girls. Furthermore, they demonstrate for the first time that this grading premium favouring girls is systemic, as teacher and classroom characteristics play a negligible role in reducing it.",
+  "authors": [
+    {
+      "raw": "Lievore, Ilaria",
+      "family": "Lievore",
+      "given": "Ilaria"
+    },
+    {
+      "raw": "Triventi, Moris",
+      "family": "Triventi",
+      "given": "Moris"
+    }
+  ],
+  "authors_text": "Lievore, Ilaria; Triventi, Moris",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2023,
+  "doi": "10.1080/01425692.2022.2122942",
+  "doi_url": "https://doi.org/10.1080/01425692.2022.2122942",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2022.2122942",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2022.2122942.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

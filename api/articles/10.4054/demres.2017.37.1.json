@@ -1,0 +1,30 @@
+{
+  "title": "Fertility change in the American Indian and Alaska Native population, 1980-2010",
+  "abstract": "BACKGROUND Since 1990, Vital Statistics reports show a dramatic decline in the total fertility rates (TFRs) of American Indian and Alaska Native (AI/AN) women in the United States. OBJECTIVE We study whether the decrease in TFRs is due to a real change in fertility for a stable population; a compositional change in who identifies as AI/AN; or a methodological issue stemming from differences in identifying race across the data systems used to calculate fertility rates. METHODS We use data from the decennial US Census to study change in AI/AN fertility from 1980-2010. RESULTS We find declining TFRs when fertility is calculated within a single data system. Additionally, although TFRs are relatively stable within the subgroups of married and unmarried AI/AN women, the proportion of AI/AN women who are married has declined across birth cohorts. CONCLUSIONS The decrease in TFRs for AI/AN women is a real change in fertility patterns and is not due to differences in racial identification across data systems. CONTRIBUTION We update knowledge of AI/AN fertility to include the decline in TFRs between 1980 and 2010.",
+  "authors": [
+    {
+      "raw": "Cannon, Sarah",
+      "family": "Cannon",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Percheski, Christine",
+      "family": "Percheski",
+      "given": "Christine"
+    }
+  ],
+  "authors_text": "Cannon, Sarah; Percheski, Christine",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.1",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

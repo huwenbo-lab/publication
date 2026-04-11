@@ -1,0 +1,30 @@
+{
+  "title": "Measuring the educational gradient of period fertility in 28 European countries: A new approach based on parity-specific fertility estimates",
+  "abstract": "BACKGROUNDMeasures of fertility by level of female education are currently only available for cohorts that have already completed childbearing age. The focus on cohorts whose fertility decisions were made in the past is problematic when the objective is to better understand which specific groups within European countries are currently the most affected by low and/or declining fertility.OBJECTIVEIn this article we provide more timely measures of the educational gradient of fertility for Europe by quantifying it for those cohorts that are currently of childbearing age (ages 15 to 49) for most European countries.METHODSTo measure period fertility by education for 24 EU and 4 non-EU countries in Europe, we use data from the European Union's Survey of Income and Living Conditions, EU-SILC (Eurostat 2020). A semi-retrospective approach is used to observe the parity-specific fertility behavior of cohorts that are of childbearing age, while at the same time recording the educational level correctly. Bayesian statistics allow us to obtain credible intervals for the age-, education-, and parity-specific birth probabilities for each country. These birth probabilities are then combined into a multi-state life table in order to obtain parity-specific and total birth intensities by education. A post-stratification of birth probabilities allows consistency with national fertility estimates, enabling international comparisons of specific groups (e.g., highly educated women) or of particular dimensions of fertility behavior (e.g., childlessness).RESULTSOur analytical set-up reveals whether there are significant differences in fertility behavior between education groups in each European country and how these differentials vary between European countries. More precisely, we answer the question of whether, when all birth orders are combined, heterogeneity in period fertility behavior is greater among the higher-or the lower-educated across Europe. In addition, we show for which parity the heterogeneity between education groups is the largest. CONCLUSIONSEven if low-educated women have the highest period fertility levels in almost all covered European countries, the educational gradient is not always negative. In one-third of European countries, period fertility levels in 2010 exhibit a U-shaped pattern, with the middle-educated having the lowest fertility. The diversity in period fertility levels among highly educated women in Europe is due to the transitions to first and second childbirth of highly educated women being higher in some countries than in others, while higher -order childbirths exhibit a more negative educational gradient across Europe.CONTRIBUTION By delivering a new method for measuring the educational gradient of fertility for women who are of childbearing age rather than for women who have already completed their reproductive years, our research enables a timely analysis of within-country differentials of period fertility behavior.",
+  "authors": [
+    {
+      "raw": "Greulich, Angela",
+      "family": "Greulich",
+      "given": "Angela"
+    },
+    {
+      "raw": "Toulemon, Laurent",
+      "family": "Toulemon",
+      "given": "Laurent"
+    }
+  ],
+  "authors_text": "Greulich, Angela; Toulemon, Laurent",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.34",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.34",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.34",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.34.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

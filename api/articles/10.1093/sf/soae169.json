@@ -1,0 +1,35 @@
+{
+  "title": "Strong ties, strong homophily? Variation in homophily on sociodemographic characteristics by relationship strength",
+  "abstract": "Social networks are segregated by sociodemographic characteristics such as gender, ethnicity, religion, and socioeconomic status. A key reason for this segregation is homophily, or people's preferences to associate with similar others. Homophily is documented for relationships of different strengths, ranging from marriage and close friendship to weaker acquaintanceships. But does sociodemographic homophily vary by relationship strength? While most researchers assume more pronounced sociodemographic homophily for strong than for weak relationships, theoretical expectations and empirical evidence are inconclusive. For instance, shared sociodemographic characteristics can come with joint experiences and identities that could facilitate the development of strong relationships. At the same time, however, matching personalities and attitudes may be necessary for forming strong relationships, so the superficial similarity that accompanies shared sociodemographic traits may only suffice for weak relationships. Based on these considerations, we test whether and how gender, ethnic, religious, and socioeconomic status homophily vary by relationship strength in over 600 school-based networks of more than 20,000 adolescents from Israel, England, Germany, the Netherlands, and Sweden. Using valued exponential random graph models, we find consistent evidence that strong tie homophily exceeds weak tie homophily. While adolescents are more likely to report strong ties with those who share their gender, ethnicity, religion, and socioeconomic status, homophily is less pronounced for weaker ties. Our finding suggests that it is crucial to consider the link between homophily and tie strength to understand the flow of information, resources, social support, and opportunities in social networks.",
+  "authors": [
+    {
+      "raw": "Kretschmer, David",
+      "family": "Kretschmer",
+      "given": "David"
+    },
+    {
+      "raw": "Leszczensky, Lars",
+      "family": "Leszczensky",
+      "given": "Lars"
+    },
+    {
+      "raw": "Mcmillan, Cassie",
+      "family": "Mcmillan",
+      "given": "Cassie"
+    }
+  ],
+  "authors_text": "Kretschmer, David; Leszczensky, Lars; Mcmillan, Cassie",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soae169",
+  "doi_url": "https://doi.org/10.1093/sf/soae169",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae169",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae169.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

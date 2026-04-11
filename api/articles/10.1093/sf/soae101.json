@@ -1,0 +1,25 @@
+{
+  "title": "The effect of academic outcomes, equity, and student demographics on parental preferences for schools: evidence from a survey experiment",
+  "abstract": "How does competition for school resources, along with racial and socioeconomic biases, shape parental preferences for schools? In this article, I investigate how school attributes affect preferences and choice, which sheds light on the processes that maintain school segregation. To do so, I conduct a survey experiment that explores parental preferences and the tradeoffs inherent in the process of school selection using school profiles that resemble those available on widely used education data platforms. I find that parents hold the strongest positive preferences for learning opportunities and overall school achievement compared to other attributes, including school racial and socioeconomic composition. Additionally, though parents prefer schools that have higher equity rankings, highly equitable schools are less desirable to parents than schools with more status and learning opportunities. However, parents also hold independent racial and socioeconomic preferences and -on average-avoid schools with more students of color and low-income students. Furthermore, results suggest they are largely unwilling to make tradeoffs that would result in schools with higher fractions of students of color or low-income students. Taken together, this study links prior studies on the segregating effects of educational data with literatures on school segregation by illustrating the specific dimensions that drive school choice.",
+  "authors": [
+    {
+      "raw": "Thompson, Marissa E.",
+      "family": "Thompson",
+      "given": "Marissa E."
+    }
+  ],
+  "authors_text": "Thompson, Marissa E.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae101",
+  "doi_url": "https://doi.org/10.1093/sf/soae101",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae101",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae101.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Does Hypersegregation Matter for Black-White Socioeconomic Disparities?",
+  "abstract": "Massey and Denton's concept of hypersegregation describes how multiple and distinct forms of black-white segregation lead to high levels of black-white stratification. However, numerous studies assessing the association between segregation and racial stratification applied only one or two dimensions of segregation, neglecting how multiple forms of segregation combine to potentially exacerbate socioeconomic disparities between blacks and whites. We address this by using data from the U.S. Census from 1980 to 2010 and data from the American Community Survey from 2012 to 2016 to assess trajectories for black-white disparities in educational attainment, employment, and neighborhood poverty between metropolitan areas with hypersegregation and black-white segregation, as measured by the dissimilarity index. Using a time-varying measure of segregation types, our results indicate that in some cases, hypersegregated metropolitan areas have been associated with larger black-white socioeconomic disparities beyond those found in metropolitan areas that are highly segregated in terms of dissimilarity but are not hypersegregated. However, the contrasts in black-white socioeconomic inequality between hypersegregated metropolitan areas and those with high segregation largely diminish by the 2012 to 2016 observation.",
+  "authors": [
+    {
+      "raw": "Hess, Chris",
+      "family": "Hess",
+      "given": "Chris"
+    },
+    {
+      "raw": "Gabriel, Ryan",
+      "family": "Gabriel",
+      "given": "Ryan"
+    },
+    {
+      "raw": "Leibbrand, Christine",
+      "family": "Leibbrand",
+      "given": "Christine"
+    },
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    }
+  ],
+  "authors_text": "Hess, Chris; Gabriel, Ryan; Leibbrand, Christine; Crowder, Kyle",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00825-y",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00825-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00825-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00825-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

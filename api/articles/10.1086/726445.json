@@ -1,0 +1,35 @@
+{
+  "title": "Life Course Trajectories and Wealth Accumulation in the United States: Comparing Late Baby Boomers and Early Millennials",
+  "abstract": "Millennials are often assumed to be economically worse off than previous generations because of more precarious employment and unstable family lives. Using sequence analysis and unconditional quantile decomposition, we analyze the work and family trajectories of late baby boomers and early millennials and relate them to wealth holdings at age 35. We find that the poorest millennials have less wealth than their baby boomer counterparts, but the wealthiest millennials have more. Millennials are less likely to enter high-status occupations and are more likely to work in low-skilled service jobs, and family trajectories show a strong decline of traditional early marriage and parenthood; however, changes in life course trajectories cannot account for the increase in wealth inequality. Instead, the distribution of wealth has become more unequal because the economic returns to typical middle-class trajectories have increased, while the returns to typical working-class trajectories have stagnated or declined.",
+  "authors": [
+    {
+      "raw": "Gruijters, Rob J.",
+      "family": "Gruijters",
+      "given": "Rob J."
+    },
+    {
+      "raw": "Van Winkle, Zachary",
+      "family": "Van Winkle",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Fasang, Anette E.",
+      "family": "Fasang",
+      "given": "Anette E."
+    }
+  ],
+  "authors_text": "Gruijters, Rob J.; Van Winkle, Zachary; Fasang, Anette E.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1086/726445",
+  "doi_url": "https://doi.org/10.1086/726445",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F726445",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/726445.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

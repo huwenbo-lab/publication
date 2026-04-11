@@ -1,0 +1,30 @@
+{
+  "title": "As Disaster Costs Rise, So Does Inequality",
+  "abstract": "Across the United States, communities are experiencing increases in the frequency and severity of natural hazards. The pervasiveness and upward trajectory of these damages are worrisome enough, but equally disconcerting are the social inequalities they can leave in their wake. To examine these inequalities, the authors linked county-level damage data to a random sample of American households. The authors visualize the pervasiveness of natural hazards as well as their influence on racial wealth gaps over time. The results show that natural hazard damages and how relief is provided afterward exacerbate the growing gap between white and black wealth.",
+  "authors": [
+    {
+      "raw": "Howell, Junia",
+      "family": "Howell",
+      "given": "Junia"
+    },
+    {
+      "raw": "Elliott, James R.",
+      "family": "Elliott",
+      "given": "James R."
+    }
+  ],
+  "authors_text": "Howell, Junia; Elliott, James R.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118816795",
+  "doi_url": "https://doi.org/10.1177/2378023118816795",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118816795",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118816795.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Using latent class analysis to produce a typology of environmental concern in the UK",
+  "abstract": "Factor analysis is often used to study environmental concern. This choice of methodology is driven by predominant theories that tie environmental attitudes to the multidimensional construct of environmental concern. This paper demonstrates that using a clustering method such as latent class analysis can be a valuable tool for studying environmental attitudes as they exist within a given population. In making the case for the value of latent class analysis in this context, we examine UK public concern for the environment and how this concern is associated with pro-environmental behaviours. To do this we use responses to DEFRA's 2009 Survey of Public Attitudes and Behaviours towards the Environment, which is still the most nationally representative survey of its type in the UK. Grouping respondents according to homogenous response patterns, we identify four classes of people, defined by their concern for the environment: Pro-environment, Neutral Majority, Disengaged and Paradoxical. To understand how these attitude classes are associated with behaviour and socio-economic status, class membership probability is regressed onto education, income and social grade, as well as 16 measures of environmental behaviour related to transport, food, recycling and home energy conservation. The results contradict most previous research with the environmental attitude classes by being highly predictive of environmental behaviour.",
+  "authors": [
+    {
+      "raw": "Rhead, Rebecca",
+      "family": "Rhead",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Elliot, Mark",
+      "family": "Elliot",
+      "given": "Mark"
+    },
+    {
+      "raw": "Upham, Paul",
+      "family": "Upham",
+      "given": "Paul"
+    }
+  ],
+  "authors_text": "Rhead, Rebecca; Elliot, Mark; Upham, Paul",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.06.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.06.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.06.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.06.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

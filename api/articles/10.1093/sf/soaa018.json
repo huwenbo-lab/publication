@@ -1,0 +1,30 @@
+{
+  "title": "Happiness in Hard Times: Does Religion Buffer the Negative Effect of Unemployment on Happiness?",
+  "abstract": "Two well-known findings are that the religious are happier than the non-religious, and people are less happy when they lose their job. We investigate a link between these by asking whether religion buffers against the negative effect of unemployment on happiness. Although theorized or implicitly assumed in many studies, empirical demonstrations of a causal, moderating effect of religion have been infrequent and often not strong methodologically. We conduct individual-level fixed effects models to test for the buffering effect in the US context using recent panel data from the 2006-2014 General Social Surveys. Religious service attendance, belief in life after death, and trying to carry one's religious beliefs over into other dealings in life all substantially buffered the effect of unemployment on happiness. Praying daily, believing God exists, identifying as a religious person, and having a religious affiliation did not. We discuss these results in the context of prior work and existing theory. To further support a causal interpretation of these findings, we also conduct a secondary analysis showing that unemployment does not appear to increase or decrease religiousness. This paper makes an important sociological contribution to the growing field of happiness research and to our understanding of how religion matters to people during hard times.",
+  "authors": [
+    {
+      "raw": "Hastings, Orestes P.",
+      "family": "Hastings",
+      "given": "Orestes P."
+    },
+    {
+      "raw": "Roeser, Kassandra K.",
+      "family": "Roeser",
+      "given": "Kassandra K."
+    }
+  ],
+  "authors_text": "Hastings, Orestes P.; Roeser, Kassandra K.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soaa018",
+  "doi_url": "https://doi.org/10.1093/sf/soaa018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

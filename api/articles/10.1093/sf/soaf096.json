@@ -1,0 +1,35 @@
+{
+  "title": "Gun purchase interest as backlash to Black Lives Matter protests",
+  "abstract": "How do protests affect Americans' gun ownership decisions? Using a novel dataset of gun-related web searches in combination with geocoded protest data, we examine the effects of the 2020 Black Lives Matter (BLM) protests on Americans' interest in firearm purchase. We find a clear relationship between geographic proximity to BLM protests and firearm purchase web searches, but a null relationship between these searches and proximity to re-opening protests. We then examine racial attitudes of would-be gun buyers using users' web search histories and find that users exposed to racially conservative narratives had significantly larger spikes in gun purchase interest during the 2020 BLM protests than did other comparable searchers. These results suggest that Black civil rights protests can serve as a catalyst for gun purchase interest.",
+  "authors": [
+    {
+      "raw": "Krupenkin, Masha",
+      "family": "Krupenkin",
+      "given": "Masha"
+    },
+    {
+      "raw": "Yom-Tov, Elad",
+      "family": "Yom-Tov",
+      "given": "Elad"
+    },
+    {
+      "raw": "Rothschild, David",
+      "family": "Rothschild",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Krupenkin, Masha; Yom-Tov, Elad; Rothschild, David",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf096",
+  "doi_url": "https://doi.org/10.1093/sf/soaf096",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf096",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf096.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Impact of family policies and economic situation on low fertility in Tehran, Iran: A multi-agent-based modeling",
+  "abstract": "OBJECTIVE This paper investigates and predicts the impact of family policies and the economic situation on women's reproductive behavior in Tehran Province, Iran. METHODS The low fertility behavior of women in terms of simultaneous interaction among such agents as household, women, and government is modeled using a multi-agent-based modeling. The probability, heterogeneity, uncertainty, and interactions of agents are the top features of the model. The model is developed based on the micro level and utilized at the macro level for the prediction of a range of such reproductive outcomes as the total fertility rate (TFR), the cumulative frequency of children ever born, unwanted and wanted pregnancies, miscarriage, and induced abortions of women in Tehran Province during 2019 and 2029. RESULTS The results derived by the model projects show that the TFR in Tehran Province will decline with a steep downward trend over 10 years from 1.4 children in 2019 to 1.06 children in 2029 while the peak of childbearing is observed for the age group 25 to 29. With the implementation of the optimistic economic scenario and the provision of family support policies by the government, the TFR would reach 1.1 children in 2029, and the peak of childbearing will shift to the 20 to 24 age group. CONTRIBUTION This paper provides a multi-agent-based model for low fertility as a complex system. This model facilitates computer-based simulations, enhances demographic methods, and is a useful tool for evaluating the impacts of long-term population policies. The results help policymakers to predict the outcomes that may be obtained in the future based on the current population policies and programs.",
+  "authors": [
+    {
+      "raw": "Esmaeili, Nasibeh",
+      "family": "Esmaeili",
+      "given": "Nasibeh"
+    },
+    {
+      "raw": "Abbasi-Shavazi, Mohammad Jalal",
+      "family": "Abbasi-Shavazi",
+      "given": "Mohammad Jalal"
+    }
+  ],
+  "authors_text": "Esmaeili, Nasibeh; Abbasi-Shavazi, Mohammad Jalal",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.5",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "An Empirical Test of Crisis, Social Selection, and Role Explanations of the Relationship Between Marital Disruption and Psychological Distress: A Pooled Time‐Series Analysis of Four‐Wave Panel Data",
+  "abstract": "Although a higher level of psychological distress has been found in many studies of divorced compared with married individuals, explanations for this difference remain elusive. Three basic theoretical explanations have been proposed. Social role theory maintains that the role of being divorced is inherently more stressful than that of being married; crisis theory attributes the higher stress to role transitions and transient stressors of the disruption process, and social selection theory claims that the higher stress levels among the divorced result from the selection of people with poor mental health into divorce. Some empirical support is available for each of these approaches, but all three have not been tested simultaneously in a longitudinal study. This research empirically evaluates the efficacy of these theories in a pooled time‐series analysis of a four‐wave panel of married persons followed over 12 years. The pooled‐time series random effects model was used to estimate the effects of social roles, crisis, and social selection. The results provide evidence that the higher stress levels of the divorced primarily reflect the effect of social role with selection and crisis effects making small contributions only.",
+  "authors": [
+    {
+      "raw": "Johnson, David R.",
+      "family": "Johnson",
+      "given": "David R."
+    },
+    {
+      "raw": "Wu, Jian",
+      "family": "Wu",
+      "given": "Jian"
+    }
+  ],
+  "authors_text": "Johnson, David R.; Wu, Jian",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2002,
+  "doi": "10.1111/j.1741-3737.2002.00211.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2002.00211.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2002.00211.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2002.00211.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

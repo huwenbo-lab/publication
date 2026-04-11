@@ -1,0 +1,30 @@
+{
+  "title": "Decomposition of differences in health expectancy by cause",
+  "abstract": "Abstract Health expectancy is a widely used measure for monitoring trends in the health of a population and assessing differences in health among population groups. However, no decomposition method is available to examine the contribution made by causes of death and disability to differences in health expectancy among population groups or periods. We present a method for decomposing differences in health expectancy, based on the Sullivan method. This method is an extension of the decomposition method for life expectancy developed by Arriaga. We illustrate the method and its added value by decomposing male-female differences in health expectancy for the Netherlands.",
+  "authors": [
+    {
+      "raw": "Nusselder, Wilma J.",
+      "family": "Nusselder",
+      "given": "Wilma J."
+    },
+    {
+      "raw": "Looman, Caspar W. N.",
+      "family": "Looman",
+      "given": "Caspar W. N."
+    }
+  ],
+  "authors_text": "Nusselder, Wilma J.; Looman, Caspar W. N.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0017",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

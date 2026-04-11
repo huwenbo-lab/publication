@@ -1,0 +1,25 @@
+{
+  "title": "Impact of Child Subsidies on Child Health, Well-Being, and Investment in Child Human Capital: Evidence from Russian Longitudinal Monitoring Survey 2010–2017",
+  "abstract": "AbstractThis study evaluates the impact of introducing the Maternity Capital (MC) program—a child subsidy of 250,000 Rub (7,150 euros or 10,000 USD, in 2007)—provided to mothers giving birth to/adopting a second or subsequent child since January 2007. Eligible Russian families could use this subsidy to improve family housing conditions, fund child’s education/childcare, or invest in the mother’s retirement fund. This study evaluates the impact of MC eligibility on various child health and developmental outcomes, household consumption patterns, and housing quality. Using data from the representative Russian Longitudinal Monitoring Survey 2010–2017, I tested regression discontinuity models and found that MC eligibility may have led to a small improvement in child health status, which could be explained by improved housing conditions, particularly in rural areas. However, children living in MC-eligible families were also more likely to report reduced socialisation. Heterogeneity analysis by child gender, household poverty status, and urban/rural residence suggests that MC incentives may have had a differential impact on some analysed outcomes. Results are robust to different polynomial and nonparametric RDD specifications.",
+  "authors": [
+    {
+      "raw": "Proshin, Alex",
+      "family": "Proshin",
+      "given": "Alex"
+    }
+  ],
+  "authors_text": "Proshin, Alex",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2023,
+  "doi": "10.1007/s10680-023-09653-8",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09653-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09653-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09653-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

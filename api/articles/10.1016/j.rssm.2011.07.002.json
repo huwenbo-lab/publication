@@ -1,0 +1,30 @@
+{
+  "title": "Parental wealth and children's outcomes over the life-course in Brazil: A propensity score matching analysis",
+  "abstract": "Parental wealth - as distinct from income, education and other parental socioeconomic resources may - play a large role in children's socioeconomic outcomes, particularly in developing countries, characterized by economic volatility, a weak social safety net and limited access to credit. Using a propensity score matching approach, we examine the influence of parental wealth on adult children's schooling, school quality, occupational status, consumption level, and wealth holdings in Brazil. Findings suggest a substantial effect of parental wealth on all these outcomes, with a positive effect of even modest levels of wealth. The effect of parental wealth on occupational status is largely mediated by parental investment in more and better education for children. In contrast, the effect on children's consumption and wealth is largely unmediated by labor market resources and rewards, a pattern that is more pronounced for sons than for daughters. This suggests direct parental financial assistance. Sensitivity analysis indicates that hidden bias emerging from unobserved confounders should have to be unlikely large to question inference of a causal influence of high levels of parental wealth, although the influence of low levels of wealth may be more susceptible to hidden bias. (C) 2011 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    },
+    {
+      "raw": "Costa-Ribeiro, Carlos",
+      "family": "Costa-Ribeiro",
+      "given": "Carlos"
+    }
+  ],
+  "authors_text": "Torche, Florencia; Costa-Ribeiro, Carlos",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2012,
+  "doi": "10.1016/j.rssm.2011.07.002",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2011.07.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2011.07.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2011.07.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Taking the Time: The Implications of Workplace Assessment for Organizational Gender Inequality",
+  "abstract": "Gendered differences in workload distribution, in particular who spends time on low-promotability workplace tasks-tasks that are essential for organizations yet do not typically lead to promotions-contribute to persistent gender inequalities in workplaces. We examined how gender is implicated in the content, quality, and consequences of one low-promotability workplace task: assessment. By analyzing real-world behavioral data that include 33,456 in-the-moment numerical and textual evaluations of 359 resident physicians (subordinates) by 285 attending physicians (superordinates) in eight U.S. hospitals, and by combining qualitative methods and machine learning, we found that, compared to men, women attendings wrote more words in their comments to residents, used more job-related terms, and were more likely to provide helpful feedback, particularly when residents were struggling. Additionally, we found women residents were less likely to receive substantive evaluations, regardless of attending gender. Our findings suggest that workplace assessment is gendered in three ways: women (superordinates) spend more time on this low-promotability task, they are more cognitively engaged with assessment, and women (subordinates) are less likely to fully benefit from quality assessment. We conclude that workplaces would benefit from addressing pervasive inequalities hidden within workplace assessment, equalizing not only who provides this assessment work, but who does it well and equitably.",
+  "authors": [
+    {
+      "raw": "Nelson, Laura K.",
+      "family": "Nelson",
+      "given": "Laura K."
+    },
+    {
+      "raw": "Brewer, Alexandra",
+      "family": "Brewer",
+      "given": "Alexandra"
+    },
+    {
+      "raw": "Mueller, Anna S.",
+      "family": "Mueller",
+      "given": "Anna S."
+    },
+    {
+      "raw": "O'Connor, Daniel M.",
+      "family": "O'Connor",
+      "given": "Daniel M."
+    },
+    {
+      "raw": "Dayal, Arjun",
+      "family": "Dayal",
+      "given": "Arjun"
+    },
+    {
+      "raw": "Arora, Vineet M.",
+      "family": "Arora",
+      "given": "Vineet M."
+    }
+  ],
+  "authors_text": "Nelson, Laura K.; Brewer, Alexandra; Mueller, Anna S.; O'Connor, Daniel M.; Dayal, Arjun; Arora, Vineet M.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231184264",
+  "doi_url": "https://doi.org/10.1177/00031224231184264",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231184264",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231184264.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

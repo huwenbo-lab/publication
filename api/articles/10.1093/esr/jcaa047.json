@@ -1,0 +1,40 @@
+{
+  "title": "Improving Formal Qualifications or Firm Linkages-What Supports Successful School-to-Work Transitions among Low-Achieving School Leavers in Germany?",
+  "abstract": "Many countries have implemented youth (un)employment programmes for low-achieving young people to improve their employment prospects. In Germany, these youths are often channelled into prevocational programmes to prevent them from long-term 'scars' by providing a 'second chance' to enter apprenticeships (serving as entry into the labour market in Germany). However, the usefulness of these programmes is contested. It remains unclear whether it is (more) useful for young people to invest in education and improve formal qualifications (to send a positive 'signal') or to spend more time in firms (e.g. to counteract possible discrimination processes or to generate new network ties). It is also unclear who benefits most depending on previous school-leaving certificates. We address these questions by using rich data from the German National Educational Panel Study and apply entropy balancing as a matching approach to control for selection. We find that both attaining a higher school certificate and spending time in firms improve low-achieving youth's chances to enter apprenticeships. However, only those who attained a higher-level school certificate are able to enter higher-status training occupations afterwards. Moreover, prevocational programmes are most beneficial for the most disadvantaged.",
+  "authors": [
+    {
+      "raw": "Holtmann, Anne Christine",
+      "family": "Holtmann",
+      "given": "Anne Christine"
+    },
+    {
+      "raw": "Ehlert, Martin",
+      "family": "Ehlert",
+      "given": "Martin"
+    },
+    {
+      "raw": "Menze, Laura",
+      "family": "Menze",
+      "given": "Laura"
+    },
+    {
+      "raw": "Solga, Heike",
+      "family": "Solga",
+      "given": "Heike"
+    }
+  ],
+  "authors_text": "Holtmann, Anne Christine; Ehlert, Martin; Menze, Laura; Solga, Heike",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa047",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa047",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa047",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa047.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

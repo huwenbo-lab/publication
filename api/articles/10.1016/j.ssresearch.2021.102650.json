@@ -1,0 +1,35 @@
+{
+  "title": "Intergenerationally penalized? The long-term wage consequences of parental joblessness",
+  "abstract": "Studies of intergenerational stratification and mobility have long called for investigation of the joint role of mothers and fathers in affecting labor market outcomes of children. However, long-term effects of parental joblessness-where no co-residing parent is employed at a given time-are not well understood. Using longitudinal data (covering 9942 person-year observations from 2281 children) from the Household, Income, and Labour Dynamics in Australia (HILDA) Survey, this study investigates the long-term association between parental joblessness and children's wages during early adulthood. It examines whether these associations are mediated by family income during childhood and adolescence, educational attainment, and subsequent employment inactivity of the child, and whether exposure at earlier ages is associated with more detrimental effects. Multilevel mixed-effects models regressing hourly wages in early adulthood (observed over 2008-2018) on the proportion of time spent living in a household where no parent is employed (observed over 2001-2007) reveal two major findings. First, exposure to parental joblessness during childhood and adolescence is correlated with adverse wage outcomes during early adulthood in addition to previously documented employment penalties, with similar estimates across age groups. Second, mediation analyses indicate that household income, children's educational attainment, and children's own inactivity reduce the magnitude of this wage penalty, but do not completely offset it.",
+  "authors": [
+    {
+      "raw": "Curry, Matthew",
+      "family": "Curry",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Mooi-Reci, Irma",
+      "family": "Mooi-Reci",
+      "given": "Irma"
+    },
+    {
+      "raw": "Wooden, Mark",
+      "family": "Wooden",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Curry, Matthew; Mooi-Reci, Irma; Wooden, Mark",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102650",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102650",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102650",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102650.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

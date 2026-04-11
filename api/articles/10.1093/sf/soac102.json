@@ -1,0 +1,30 @@
+{
+  "title": "What Explains Socioeconomic Disparities in Early Pregnancy Rates?",
+  "abstract": "In this study, we integrate diverse structural, social psychological, and relational perspectives to develop and test a comprehensive framework of the processes that make early pregnancy a socially stratified phenomenon. Drawing on rich panel data collected among a sample of 940 18- to 20-year-old women from a county in Michigan, we estimate nested hazard models and formal mediation analyses to simultaneously elucidate the extent to which different mechanisms explain disparities in early pregnancy rates across maternal education levels-a key indicator of socioeconomic status. Together, our distal mechanisms explain 53 and 31 percent of the difference in pregnancy rates between young women whose mothers graduated college and young women whose mothers graduated and did not graduate high school, respectively. Reproductive desires, norms, and attitudes, relationship contexts, and educational opportunities and environment each link maternal education to young women's odds of pregnancy. Self-efficacy, however, plays only a modest role; while contraceptive affordability and knowledge are not significant pathways. These findings bring into focus the most prominent intervening mechanisms through which socioeconomic circumstances shape young women's likelihood of becoming pregnant during the transition to adulthood.",
+  "authors": [
+    {
+      "raw": "Cha, Hyungmin",
+      "family": "Cha",
+      "given": "Hyungmin"
+    },
+    {
+      "raw": "Weitzman, Abigail",
+      "family": "Weitzman",
+      "given": "Abigail"
+    }
+  ],
+  "authors_text": "Cha, Hyungmin; Weitzman, Abigail",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac102",
+  "doi_url": "https://doi.org/10.1093/sf/soac102",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac102",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac102.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

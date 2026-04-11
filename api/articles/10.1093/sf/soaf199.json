@@ -1,0 +1,35 @@
+{
+  "title": "Why moderate voters choose extreme candidates: voter uncertainty as a driver of elite polarization",
+  "abstract": "Representative democracy depends on elected officials reflecting voters' policy preferences. Yet, US elected officials are more ideologically extreme than even the voters from their own party. This disparity is especially puzzling in light of recent studies reinforcing the view that voters are highly motivated by policy preferences and ideological fit when selecting among candidates. Using both agent-based computational models and an online vignette experiment, we uncover a novel mechanism through which candidates who rigidly back the party's ideological priorities, even when doing so is unpopular among the party's own voters, may paradoxically benefit because partisan voters under conditions of uncertainty infer that such candidates are also likelier than more moderate and representative candidates to support the party's other (more popular) positions. This dynamic alone can produce a world with moderately partisan voters but extreme politicians, not despite but precisely because of those voters' motivation to see their (relatively moderate) policy preferences reflected by their elected representatives.",
+  "authors": [
+    {
+      "raw": "Kim, Minjae",
+      "family": "Kim",
+      "given": "Minjae"
+    },
+    {
+      "raw": "DellaPosta, Daniel",
+      "family": "DellaPosta",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Essig, Liam W.",
+      "family": "Essig",
+      "given": "Liam W."
+    }
+  ],
+  "authors_text": "Kim, Minjae; DellaPosta, Daniel; Essig, Liam W.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf199",
+  "doi_url": "https://doi.org/10.1093/sf/soaf199",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf199",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf199.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Vaccine and COVID-19 Trajectories",
+  "abstract": "Vaccine equity holds the key to ending the coronavirus disease 2019 (COVID-19) pandemic. Yet most prior work on vaccine equity has compared vaccine uptake across neighborhoods with varying sociodemographic composition or assessed whether vaccine disparity across neighborhoods has diminished over time. Researchers seldom examine the extent to which vaccination helps reduce inequalities in the prevalence of COVID-19 across neighborhoods. Using administrative data from the City of Toronto, the authors compare the vaccine trajectories of neighborhoods with low, moderate, and high COVID-19 rates. The authors also examine whether disparities in COVID-19 rates have narrowed or widened as vaccinations have become more available. By mid-June 2021, differences in vaccination rates by neighborhoods’ COVID-19 levels were small, but disparities in COVID-19 rates across neighborhoods persisted. Equality in vaccination rates is not a silver bullet to reducing inequalities in COVID-19 infections across neighborhoods with varying sociodemographic characteristics and likely variations in exposure to the COVID-19 virus.",
+  "authors": [
+    {
+      "raw": "Choi, Kate H.",
+      "family": "Choi",
+      "given": "Kate H."
+    },
+    {
+      "raw": "Denice, Patrick A.",
+      "family": "Denice",
+      "given": "Patrick A."
+    },
+    {
+      "raw": "Ramaj, Sagi",
+      "family": "Ramaj",
+      "given": "Sagi"
+    }
+  ],
+  "authors_text": "Choi, Kate H.; Denice, Patrick A.; Ramaj, Sagi",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211052946",
+  "doi_url": "https://doi.org/10.1177/23780231211052946",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211052946",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211052946.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

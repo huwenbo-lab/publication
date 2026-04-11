@@ -1,0 +1,30 @@
+{
+  "title": "Taking Lemons for a Trial Run: Does Type of Job Exit Affect the Risk of Entering Fixed-Term Employment in Germany?",
+  "abstract": "A central argument for the deregulation of employment contracts is that fixed-term contracts boost employment of jobseekers with uncertain productivity by giving employers a tool to screen such applicants over a longer period of time before permanent hire. We test this proposition by comparing the risk of entering fixed-term employment for individually laid-off workers with that for individuals who have left their previous job for other reasons. This strategy is based on the assumption that in the German context individual lay-offs create uncertainty about jobseekers' productivity. We use data on work exits and subsequent labour market re-entry of the prime-age workforce in Germany from waves 2000-2013 of the Socio-Economic Panel. Our results show that the risk of fixed-term employment is substantively smaller after voluntary job exits but reveal only a small and statistically insignificant risk difference between individual lay-offs and workplace closures after adjusting for differences in socio-economic background and characteristics of the previous job. These findings challenge the view that employers use fixed-term contracts as an instrument to screen specific groups of workers whose productivity is highly uncertain, at least with regard to recent career disruptions.",
+  "authors": [
+    {
+      "raw": "Biegert, Thomas",
+      "family": "Biegert",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Kuehhirt, Michael",
+      "family": "Kuehhirt",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Biegert, Thomas; Kuehhirt, Michael",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy003",
+  "doi_url": "https://doi.org/10.1093/esr/jcy003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "What Is Urban? Comparing a Satellite View with the Demographic and Health Surveys",
+  "abstract": "Appraisal of urbanization trends is limited by the lack of a globally consistent definition of what is meant by urban. This article seeks to identify and explain differences in the definition of urbanness as used in two largely distinct research communities. We compare the Global Rural-Urban Mapping Project (GRUMP), which defines urban areas based primarily on satellite imagery of nighttime lights, to the urban classification found in Demographic and Health Surveys (DHS), which relies on the urban definitions of individual countries' national statistical offices. We analyze the distribution of DHS clusters falling within and outside of GRUMP urban extents and examine select characteristics of these clusters (notably, household electrification). Our results show a high degree of agreement between the two data sources on what areas are considered urban; furthermore, when used together, GRUMP and DHS data reveal urban characteristics that are not evident when one data source is used independently. GRUMP urban extents are overwhelmingly medium and large highly electrified localities. DHS clusters that are classified as non-urban but that fall within GRUMP extents tend to be peri-urban areas.",
+  "authors": [
+    {
+      "raw": "Dorelien, Audrey",
+      "family": "Dorelien",
+      "given": "Audrey"
+    },
+    {
+      "raw": "Balk, Deborah",
+      "family": "Balk",
+      "given": "Deborah"
+    },
+    {
+      "raw": "Todd, Megan",
+      "family": "Todd",
+      "given": "Megan"
+    }
+  ],
+  "authors_text": "Dorelien, Audrey; Balk, Deborah; Todd, Megan",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2013,
+  "doi": "10.1111/j.1728-4457.2013.00610.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2013.00610.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2013.00610.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2013.00610.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

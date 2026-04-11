@@ -1,0 +1,40 @@
+{
+  "title": "Cooperation and the emergence of role differentiation in the dynamics of social networks",
+  "abstract": "By means of extensive computer simulations, the authors consider the entangled coevolution of actions and social structure in a new version of a spatial Prisoner's Dilemma model that naturally gives way to a process of social differentiation. Diverse social roles emerge from the dynamics of the system: leaders are individuals getting a large payoff who are imitated by a considerable fraction of the population, conformists are unsatisfied cooperative agents that keep cooperating, and exploiters are defectors with a payoff larger than the average one obtained by cooperators. The dynamics generate a social network that can have the topology of a small world network. The network has a strong hierarchical structure in which the leaders play an essential role in sustaining a highly cooperative stable regime. But disruptions affecting leaders produce social crises described as dynamical cascades that propagate through the network.",
+  "authors": [
+    {
+      "raw": "Eguíluz, VM",
+      "family": "Eguíluz",
+      "given": "VM"
+    },
+    {
+      "raw": "Zimmermann, MG",
+      "family": "Zimmermann",
+      "given": "MG"
+    },
+    {
+      "raw": "Cela-Conde, CJ",
+      "family": "Cela-Conde",
+      "given": "CJ"
+    },
+    {
+      "raw": "San Miguel, M",
+      "family": "San Miguel",
+      "given": "M"
+    }
+  ],
+  "authors_text": "Eguíluz, VM; Zimmermann, MG; Cela-Conde, CJ; San Miguel, M",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2005,
+  "doi": "10.1086/428716",
+  "doi_url": "https://doi.org/10.1086/428716",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F428716",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/428716.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

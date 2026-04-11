@@ -1,0 +1,35 @@
+{
+  "title": "Order without Law: Reputation Promotes Cooperation in a Cryptomarket for Illegal Drugs",
+  "abstract": "The emergence of large-scale cooperation in humans poses a major puzzle for the social and behavioural sciences. Reputation formation-individuals' ability to share information about others' deeds and misdeeds-has been found to promote cooperation. However, these findings are mostly based on small-scale laboratory and field experiments or on data gathered from online markets embedded in functioning legal systems. Using a unique data set of transactions in a cryptomarket for illegal drugs, we analyse the effect of buyers' ratings of finished transactions on sellers' business success. Cryptomarkets are online marketplaces in the so-called Dark Web, which can only be accessed by means of encryption software that conceals users' identities and locations. The encryption technology makes it virtually impossible for law enforcement to intervene in these market exchanges. We find that sellers with a better rating history charge higher prices and sell their merchandise faster than sellers with no or a bad rating history. Our results demonstrate how reputation creates real incentives for cooperative behaviour at a large scale, in the absence of law enforcement and among anonymous actors with doubtful intentions. Our results thus challenge the institutional and social embeddedness of actors as necessary preconditions for the emergence of social order in markets.",
+  "authors": [
+    {
+      "raw": "Przepiorka, Wojtek",
+      "family": "Przepiorka",
+      "given": "Wojtek"
+    },
+    {
+      "raw": "Norbutas, Lukas",
+      "family": "Norbutas",
+      "given": "Lukas"
+    },
+    {
+      "raw": "Corten, Rense",
+      "family": "Corten",
+      "given": "Rense"
+    }
+  ],
+  "authors_text": "Przepiorka, Wojtek; Norbutas, Lukas; Corten, Rense",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcx072",
+  "doi_url": "https://doi.org/10.1093/esr/jcx072",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx072",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx072.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

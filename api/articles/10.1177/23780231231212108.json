@@ -1,0 +1,30 @@
+{
+  "title": "How Symbols Influence Social Media Discourse: An Embedding Regression Analysis of Trump’s Return to Twitter",
+  "abstract": "How does social media content affect users’ online discourse? Existing scholarship sheds light on how several social media features involving content can influence users’ speech. However, this research often conflates content’s lexical dimension with its symbolic dimension. The authors analyze how the symbolic properties of online content can distinctly affect discourse on social media. Specifically, they examine how the symbolic meanings conveyed by Twitter’s reinstatement of Donald Trump’s account influenced Twitter users’ discourse. The results of embedding regressions indicate that Trump’s reinstatement immediately shifted users’ discourse about social and political identity-based groups, but only when they discussed Black and Jewish people. Additional results suggest that the discourse became more politicized and that the discursive shift was short lived. The authors’ findings contribute conceptual and analytical clarity to the sociosemantic dynamics of online discourse, encouraging future research to distinguish and compare the lexical and symbolic dimensions of online content.",
+  "authors": [
+    {
+      "raw": "Karell, Daniel",
+      "family": "Karell",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Sachs, Jeffrey",
+      "family": "Sachs",
+      "given": "Jeffrey"
+    }
+  ],
+  "authors_text": "Karell, Daniel; Sachs, Jeffrey",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231212108",
+  "doi_url": "https://doi.org/10.1177/23780231231212108",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231212108",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231212108.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

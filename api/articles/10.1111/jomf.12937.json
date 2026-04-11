@@ -1,0 +1,30 @@
+{
+  "title": "The male marital earnings premium contextualized: Longitudinal evidence from the United States, Germany, and the United Kingdom",
+  "abstract": "Objective: To examine the effect of marriage entry on annual net rather than gross earnings across different institutional settings.Background: Previous research focused on men's gross wage marital premium to explore whether selection or specialization explains premiums. However, gross wages do not reflect disposable resources because taxes still have to be deducted. As the tax treatment varies across countries and by marital status, it is also relevant to consider such aspects.Method: We use panel data from the United States (PSID), Germany (SOEP), and the United Kingdom (UKHLS) to examine annual male net earnings changes over marriage entry using fixed effect models with individual slopes. The models enable us to assess marriage-related net earnings while adjusting for heterogeneous age slopes before marriage in addition to any time-constant heterogeneity. Our sample contains 3244 US men, 4581 German men, and 7140 British men.Results: Our results reveal a male marital net earnings premium only in Germany-a country with sizeable institutional marriage privileges. We go on to show heterogeneity in marriage effects by cohort, partner's education, and children. Results highlight that men from earlier cohorts and those married to partners with low education tend to benefit more.Conclusion: Results add novel insights to our understanding of marital premiums and highlight the relevance of tax policy contexts as an institutional driver underlying marital premiums.",
+  "authors": [
+    {
+      "raw": "Schechtl, Manuel",
+      "family": "Schechtl",
+      "given": "Manuel"
+    },
+    {
+      "raw": "Kapelle, Nicole",
+      "family": "Kapelle",
+      "given": "Nicole"
+    }
+  ],
+  "authors_text": "Schechtl, Manuel; Kapelle, Nicole",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12937",
+  "doi_url": "https://doi.org/10.1111/jomf.12937",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12937",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12937.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

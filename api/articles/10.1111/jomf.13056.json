@@ -1,0 +1,35 @@
+{
+  "title": "Divorce among more and less divorce-prone populations following unilateral divorce laws",
+  "abstract": "ObjectiveThis study analyzes heterogeneity in divorce rates after the 1987 transition from mutual consent to unilateral no-fault divorce in Finland.BackgroundMarriage and divorce legislation can impact divorce rates. However, some groups may be more responsive to changes in legal context than others. We propose that unilateral no-fault divorce laws either (a) increase divorce more in more or less divorce-prone groups, or (b) increase divorce equally across these groups.MethodsWe use population-wide individual-level register data from Finland to identify salient social groups with different divorce propensity, including ethno-linguistic and religious affiliations with divergent divorce propensity and couples of different parental status, marriage length, and marital history. We use piecewise constant exponential survival models to estimate the association with divorce proneness before and after the introduction of mutual consent divorce laws.ResultsDivorce rates increase in all studied subgroups by about 60% in the years following unilateral divorce. We found no support for the hypothesis that groups that were either more or less divorce-prone prior to the reform would be particularly responsive to divorce liberalization in the short-to-medium term.ConclusionsThe findings speak toward a universal rather than heterogeneous effect of divorce law liberalization.",
+  "authors": [
+    {
+      "raw": "Andersson, Linus",
+      "family": "Andersson",
+      "given": "Linus"
+    },
+    {
+      "raw": "Saarela, Jan",
+      "family": "Saarela",
+      "given": "Jan"
+    },
+    {
+      "raw": "Uggla, Caroline",
+      "family": "Uggla",
+      "given": "Caroline"
+    }
+  ],
+  "authors_text": "Andersson, Linus; Saarela, Jan; Uggla, Caroline",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13056",
+  "doi_url": "https://doi.org/10.1111/jomf.13056",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13056",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13056.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

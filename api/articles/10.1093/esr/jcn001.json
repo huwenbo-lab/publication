@@ -1,0 +1,35 @@
+{
+  "title": "Early Ethnic Educational Inequality: The Influence of Duration of Preschool Attendance and Social Composition",
+  "abstract": "Ethnic inequality in education is a well-established topic among the scientific community. We assume that ethnic inequality is constituted early in life—before a child has even started school. Differences between natives and immigrants with regard to preschool attendance (if, when, and which preschool is attended) may account for some of the ethnic educational inequality upon entering school. We use the school entrance examination data of the City of Osnabrück (Germany) for the years 2000–2005 to analyse the school readiness of 6- to 7-year-old children as an indicator of early school success. It is apparent that the amount of preschool experience improves school readiness, even when controlling for family background. While this is true for all children, immigrant children nonetheless exhibit lower scores on school readiness when all these individual explaining factors are controlled for. Multilevel analysis shows that the ethnic effect differs among preschools. A preschool's influence depends on its social composition: preschools with a beneficial social composition are better able to promote children's development than those with a poorer learning context. Immigrant children benefit particularly from longer attendance at preschools with a positive context.",
+  "authors": [
+    {
+      "raw": "Biedinger, N.",
+      "family": "Biedinger",
+      "given": "N."
+    },
+    {
+      "raw": "Becker, B.",
+      "family": "Becker",
+      "given": "B."
+    },
+    {
+      "raw": "Rohling, I.",
+      "family": "Rohling",
+      "given": "I."
+    }
+  ],
+  "authors_text": "Biedinger, N.; Becker, B.; Rohling, I.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2007,
+  "doi": "10.1093/esr/jcn001",
+  "doi_url": "https://doi.org/10.1093/esr/jcn001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Mediated and Moderated Effects of Family Support on Child Maltreatment",
+  "abstract": "Previous research has linked parents’ social support to decreased child maltreatment, but questions remain surrounding the mechanisms explaining this association. Furthermore, it is unclear whether this association applies to support provided by family alone (and not friends), and whether it is moderated by the presence of neighborhood violence. Based on a sample of parents of children aged 3 to 15 years in Chicago, the authors find that parents’ family support is associated with a lower risk of child maltreatment. This association is partly mediated by reduced parental depression, but only in neighborhoods with average or high levels of violence. In neighborhoods with low levels of violence, the inverse association between family support and maltreatment is equally strong, but it is not mediated by reduced depression.",
+  "authors": [
+    {
+      "raw": "Martin, Anne",
+      "family": "Martin",
+      "given": "Anne"
+    },
+    {
+      "raw": "Gardner, Margo",
+      "family": "Gardner",
+      "given": "Margo"
+    },
+    {
+      "raw": "Brooks-Gunn, Jeanne",
+      "family": "Brooks-Gunn",
+      "given": "Jeanne"
+    }
+  ],
+  "authors_text": "Martin, Anne; Gardner, Margo; Brooks-Gunn, Jeanne",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2011,
+  "doi": "10.1177/0192513x11431683",
+  "doi_url": "https://doi.org/10.1177/0192513x11431683",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x11431683",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x11431683.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

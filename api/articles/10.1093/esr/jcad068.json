@@ -1,0 +1,35 @@
+{
+  "title": "Parental job loss and the role of unemployment duration and income changes for children's education",
+  "abstract": "This article studies the impact of parental job loss, subsequent unemployment duration, and income changes on the results of the final exam in lower secondary education and on the decision to pursue an academic track in Denmark. Drawing on administrative register data we use sibling fixed effects models as well as a before-after-test design to investigate the shorter-term effects of parental job loss. The results show that there are hardly any effects of parental job losses on children's exam results, while we find a reduction in the transition to the academic upper secondary track, both for maternal and paternal job losses. We find no systematic evidence that the negative effects would be larger if the job loss is followed by a longer period of unemployment or by a loss of income, and no evidence for a moderating role of parental education.",
+  "authors": [
+    {
+      "raw": "Jensen, Simon Skovgaard",
+      "family": "Jensen",
+      "given": "Simon Skovgaard"
+    },
+    {
+      "raw": "Lindemann, Kristina",
+      "family": "Lindemann",
+      "given": "Kristina"
+    },
+    {
+      "raw": "Weiss, Felix",
+      "family": "Weiss",
+      "given": "Felix"
+    }
+  ],
+  "authors_text": "Jensen, Simon Skovgaard; Lindemann, Kristina; Weiss, Felix",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad068",
+  "doi_url": "https://doi.org/10.1093/esr/jcad068",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad068",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad068.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

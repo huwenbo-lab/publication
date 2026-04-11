@@ -1,0 +1,35 @@
+{
+  "title": "Maternal Stress and Pregnancy Outcomes Evidence from a Natural Experiment: The 2004 Madrid Train Bombings",
+  "abstract": "Previous studies have shown that the reproduction of social background inequality starts at birth and even in the womb. We advance the understanding of the inequality in early life outcomes by analysing whether prenatal stress affects prematurity and low birth weight and how this effect varies by parental socio-economic status (SES). To address the endogeneity of prenatal maternal stress and pregnancy outcomes, we use a natural experiment and consider the 2004 Madrid train bombings as an exogenous source of stress. We analyse administrative data referring to the whole population of newborns in Spain between 2000 and 2005 and use a difference-in-differences design with a synthetic control approach. We find that children exposed to the Madrid bombing had a higher risk of prematurity and low birth weight, and that this detrimental effect is consistently concentrated among low-SES offspring. We discuss four possible mechanisms to explain this heterogeneity and rely on findings of previous research and on information from additional data to test their plausibility. In the conclusions, we highlight the broader implications of our findings for the reproduction of social inequalities across generations",
+  "authors": [
+    {
+      "raw": "Cozzani, Marco",
+      "family": "Cozzani",
+      "given": "Marco"
+    },
+    {
+      "raw": "Triventi, Moris",
+      "family": "Triventi",
+      "given": "Moris"
+    },
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    }
+  ],
+  "authors_text": "Cozzani, Marco; Triventi, Moris; Bernardi, Fabrizio",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab045",
+  "doi_url": "https://doi.org/10.1093/esr/jcab045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

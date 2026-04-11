@@ -1,0 +1,35 @@
+{
+  "title": "Racial Steering in U.S. Housing Markets: When, Where, and to Whom Does It Occur?",
+  "abstract": "Housing discrimination has long been thought to contribute to the persistence of racial segregation, yet evidence indicates that many forms of discrimination have waned over time. We argue that past work has not fully considered the role of racial steering in maintaining segregation. To explore patterns of steering, we leverage experimental audit data from the 2012 Housing Discrimination Study to examine how neighborhoods of homes shown by real estate agents to auditors change dynamically throughout the search process and to assess the conditions under which steering is most likely. As with past research, we find no evidence of steering in Asian-White or Hispanic-White audits. However, we find consistent evidence that agents steer Black homeseekers away from White neighborhoods and toward Black ones, particularly female homeseekers and those with children. We also find that agents steer relatively early in the search process and especially when searches begin in racially-homogeneous neighborhoods.",
+  "authors": [
+    {
+      "raw": "Hall, Matthew",
+      "family": "Hall",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Timberlake, Jeffrey M.",
+      "family": "Timberlake",
+      "given": "Jeffrey M."
+    },
+    {
+      "raw": "Johns-Wolfe, Elaina",
+      "family": "Johns-Wolfe",
+      "given": "Elaina"
+    }
+  ],
+  "authors_text": "Hall, Matthew; Timberlake, Jeffrey M.; Johns-Wolfe, Elaina",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231197024",
+  "doi_url": "https://doi.org/10.1177/23780231231197024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231197024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231197024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

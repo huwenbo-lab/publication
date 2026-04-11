@@ -1,0 +1,50 @@
+{
+  "title": "Impact of Road Traffic Deaths on Expected Years of Life Lost and Reduction in Life Expectancy in Brazil",
+  "abstract": "Abstract The road traffic crash burden is significant in Brazil; calculating years of life lost and life expectancy reduction quantifies the burden of road traffic deaths to enable prioritization of this issue. Years of life lost and reduction in life expectancy were calculated using 2008 population/crash data from Brazil’s ministries of health and transport. The potential for reduction in crash mortality was calculated for hypothetical scenarios reducing death rates to those of the best-performing region and age category. In Brazil, road traffic deaths reduce the at-birth life expectancy by 0.8 years for males and by 0.2 years for females. Many years of life lost for men and woman could be averted—270,733 and 123,986, respectively—if all rates matched those of the lowest-risk region and age category. This study further characterizes the burden of motor vehicle deaths in Brazil and quantifies the potential health benefits of policies/interventions that reduce road traffic death rates to those of the best-performing subpopulations.",
+  "authors": [
+    {
+      "raw": "Chandran, Aruna",
+      "family": "Chandran",
+      "given": "Aruna"
+    },
+    {
+      "raw": "Kahn, Geoffrey",
+      "family": "Kahn",
+      "given": "Geoffrey"
+    },
+    {
+      "raw": "Sousa, Tanara",
+      "family": "Sousa",
+      "given": "Tanara"
+    },
+    {
+      "raw": "Pechansky, Flavio",
+      "family": "Pechansky",
+      "given": "Flavio"
+    },
+    {
+      "raw": "Bishai, David M.",
+      "family": "Bishai",
+      "given": "David M."
+    },
+    {
+      "raw": "Hyder, Adnan A.",
+      "family": "Hyder",
+      "given": "Adnan A."
+    }
+  ],
+  "authors_text": "Chandran, Aruna; Kahn, Geoffrey; Sousa, Tanara; Pechansky, Flavio; Bishai, David M.; Hyder, Adnan A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0135-7",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0135-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0135-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0135-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

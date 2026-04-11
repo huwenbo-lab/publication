@@ -1,0 +1,35 @@
+{
+  "title": "The formal demography of kinship V: Kin loss, bereavement, and causes of death",
+  "abstract": "BACKGROUND The loss of kin by death has medical, psychological, and social effects on other members of a kinship network. Recent formal demographic models can account for deaths of kin, but not causes of those deaths. OBJECTIVE Our objective is to extend the matrix kinship model to analyze losses of any type of kin, at any age at death, due to any cause of death, at any age of a Focal individual. METHODS Given age-specific schedules of risk due to each cause, the projection matrix is enlarged to include multiple absorbing states representing the age at death and the cause of death of kin at each age of Focal. The fertility matrix is enlarged to include births by living kin and to exclude births by dead kin. RESULTS The model provides deaths experienced at each age, and accumulated up to each age, of Focal, by cause of death and age at death. Causes of death are competing risks, permitting the study of how the elimination of one cause displaces bereavement across kin types and age groups of the bereaved. As an example, we analyze kin death experiences attributable to each of the six leading causes of death in the US Non-Hispanic White female population.CONTRIBUTION Studies of the death of kin and bereavement of survivors can now take into account diverse causes of death, each with its own age schedule of risks. These results may help understand how different causes of death influence kinship structures and the experience of bereavement among surviving kin.",
+  "authors": [
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    },
+    {
+      "raw": "Margolis, Rachel",
+      "family": "Margolis",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Verdery, Ashton M.",
+      "family": "Verdery",
+      "given": "Ashton M."
+    }
+  ],
+  "authors_text": "Caswell, Hal; Margolis, Rachel; Verdery, Ashton M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.41",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

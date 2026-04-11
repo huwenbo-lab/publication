@@ -1,0 +1,35 @@
+{
+  "title": "Modernization and Social Fluidity in Hungary, 1870-1950",
+  "abstract": "This article addresses how modernization processes influenced social openness in Hungarian municipalities between 1870 and 1950. Our focus is on relative occupational mobility, which reflects the underlying pattern of inequalities in attaining class positions. We derive hypotheses from the 'theory of industrialization' on the association between social fluidity and modernization processes. We test these for a late-industrializing country, Hungary. A large-scale historical micro-data set, spanning the period 1870-1950 is used to construct 633 mobility tables based on marriage cohorts within 62 municipalities. We specify parsimonious association models to estimate social fluidity from each mobility table, and test our hypotheses in a subsequent step, using multivariate regression analyses with cohort-and-municipality-based indicators of modernization processes. We use a stronger explanatory design than previous studies by including fixed effects to control for stable historical municipal characteristics. We find that increasing educational opportunities led to a decline in nonagrarian manual and nonmanual class rigidities, and that industrialization decreased class rigidities of the nonmanual classes. Agrarian class reproduction was unaffected by modernization. Modernization processes explain most of the temporal variation in the social fluidity of manual classes.",
+  "authors": [
+    {
+      "raw": "Lippenyi, Zoltan",
+      "family": "Lippenyi",
+      "given": "Zoltan"
+    },
+    {
+      "raw": "Maas, Ineke",
+      "family": "Maas",
+      "given": "Ineke"
+    },
+    {
+      "raw": "van Leeuwen, Marco H. D.",
+      "family": "van Leeuwen",
+      "given": "Marco H. D."
+    }
+  ],
+  "authors_text": "Lippenyi, Zoltan; Maas, Ineke; van Leeuwen, Marco H. D.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcu085",
+  "doi_url": "https://doi.org/10.1093/esr/jcu085",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcu085",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcu085.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

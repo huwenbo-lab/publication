@@ -1,0 +1,35 @@
+{
+  "title": "Why Do Lower Educated People Separate More Often? Life Strains and the Gradient in Union Dissolution",
+  "abstract": "In many Western countries, coresidential unions of lower educated people are less stable than those of higher educated people. A prominent explanation of this gradient in union dissolution holds that the lower educated experience more strain. Evidence for this explanation has been limited by a focus on only the economic dimension of strain and on only one partner in each union. In this study, we broadened the concept of strain to cover multiple life domains and capture the experience of both partners in each union. To do so, we used longitudinal data from the Household, Income and Labour Dynamics in Australia survey (N = 52,574 union-years; 7,930 unions). Generalized structural equation models showed that lower educated individuals experienced more strain not only in the economic domain but also in other life domains. Moreover, lower educated individuals tended to have partners who experienced more strain as well. In total, the joint experience of life strains explained 49% of the education gradient in union dissolution. These results suggest that life strains are pivotal to the stratification of family life.",
+  "authors": [
+    {
+      "raw": "Hogendoorn, Bram",
+      "family": "Hogendoorn",
+      "given": "Bram"
+    },
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    },
+    {
+      "raw": "Leopold, Thomas",
+      "family": "Leopold",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Hogendoorn, Bram; Kalmijn, Matthijs; Leopold, Thomas",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab022",
+  "doi_url": "https://doi.org/10.1093/esr/jcab022",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab022",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab022.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

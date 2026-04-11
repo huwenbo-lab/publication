@@ -1,0 +1,35 @@
+{
+  "title": "Mechanisms Underlying the Effects of Work from Home on Careers in the Post-Covid Context",
+  "abstract": "This study investigates the role of two mechanisms – perceived workers’ performance and commitment – in shaping the career opportunities of teleworkers and office-based workers in the post-pandemic context of the United Kingdom. We outline a theoretical framework that integrates economic and sociological literature on work from home (WFH) and careers, and accounts for workers’ gender and parenthood obligations. We test it utilizing data from a discrete choice experiment conducted between July and December 2022 with 937 managers. Our findings reveal that hybrid workers face poorer career prospects than office-based workers because managers perceive them as underperforming. Among full-time teleworkers, reduced career opportunities stem not only from managers’ perceptions of their job performance but also from assumptions that full-time teleworkers are less committed to work. Finally, we demonstrate disparate impacts on promotion and earning opportunities based on gender and parenthood, primarily due to differing employer perceptions regarding work performance and commitment.",
+  "authors": [
+    {
+      "raw": "Matysiak, Anna",
+      "family": "Matysiak",
+      "given": "Anna"
+    },
+    {
+      "raw": "Kasperska, Agnieszka",
+      "family": "Kasperska",
+      "given": "Agnieszka"
+    },
+    {
+      "raw": "Cukrowska-Torzewska, Ewa",
+      "family": "Cukrowska-Torzewska",
+      "given": "Ewa"
+    }
+  ],
+  "authors_text": "Matysiak, Anna; Kasperska, Agnieszka; Cukrowska-Torzewska, Ewa",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2025,
+  "doi": "10.1177/09500170251325769",
+  "doi_url": "https://doi.org/10.1177/09500170251325769",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170251325769",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170251325769.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

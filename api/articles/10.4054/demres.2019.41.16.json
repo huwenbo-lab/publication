@@ -1,0 +1,30 @@
+{
+  "title": "The role of education and educational-occupational mismatches in decisions regarding commuting and interregional migration from eastern to western Germany",
+  "abstract": "OBJECTIVE This paper investigates commuting and interregional migration from eastern to western Germany, and asks, first: Who chooses to migrate and who chooses to commute? Second: Does commuting serve as a stepping-stone or as a long-term alternative to migration? And third: What role does education and educational-occupational mismatch play in those choices? METHODS We use the Socio-Economic Panel data from 1992 to 2013 and multilevel multinomial logit models with random effects, as well as cross-classified multilevel logit with random effects. RESULTS People with higher education are more likely to migrate than to remain immobile or to commute, while people who have spent less time in education are more likely to commute than to remain immobile or to migrate. Educational-occupational mismatches reduce the likelihood of migration for both men and women, but they reduce the likelihood of commuting only for men. For women, educational-occupational mismatches increase the likelihood of commuting Moreover, commuting serves as a stepping-stone to migration, rather than as a long-term alternative to it, especially for the highly educated. CONTRIBUTION We investigate the relationship between migration and commuting more directly than has been the case in previous research. Moreover, we advance previous research by showing how educational-occupational mismatch influences decisions as to whether to 1 commute or to migrate. Our analysis shows how education, educational-occupational mismatch, and gender are interrelated and intertwined with each other, and how gender-specific mobility patterns follow from these interrelations.",
+  "authors": [
+    {
+      "raw": "Melzer, Silvia Maja",
+      "family": "Melzer",
+      "given": "Silvia Maja"
+    },
+    {
+      "raw": "Hinz, Thomas",
+      "family": "Hinz",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Melzer, Silvia Maja; Hinz, Thomas",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.16",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Reassessing racial and socioeconomic disparities in environmental justice research",
+  "abstract": "Abstract The number of studies examining racial and socioeconomic disparities in the geographic distribution of environmental hazards and locally unwanted land uses has grown considerably over the past decade. Most studies have found statistically significant racial and socioeconomic disparities associated with hazardous sites. However, there is considerable variation in the magnitude of racial and socioeconomic disparities found; indeed, some studies have found none. Uncertainties also exist about the underlying causes of the disparities. Many of these uncertainties can be attributed to the failure of the most widely used method for assessing environmental disparities to adequately account for proximity between the hazard under investigation and nearby residential populations. In this article, we identify the reasons for and consequences of this failure and demonstrate ways of overcoming these shortcomings by using alternate, distance-based methods. Through the application of such methods, we show how assessments about the magnitude and causes of racial and socioeconomic disparities in the distribution of hazardous sites are changed. In addition to research on environmental inequality, we discuss how distance-based methods can be usefully applied to other areas of demographic research that explore the effects of neighborhood context on a range of social outcomes.",
+  "authors": [
+    {
+      "raw": "Mohai, Paul",
+      "family": "Mohai",
+      "given": "Paul"
+    },
+    {
+      "raw": "Saha, Robin",
+      "family": "Saha",
+      "given": "Robin"
+    }
+  ],
+  "authors_text": "Mohai, Paul; Saha, Robin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2006,
+  "doi": "10.1353/dem.2006.0017",
+  "doi_url": "https://doi.org/10.1353/dem.2006.0017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2006.0017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2006.0017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

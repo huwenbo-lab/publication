@@ -1,0 +1,35 @@
+{
+  "title": "Is temporary employment a stepping stone for unemployed immigrants?",
+  "abstract": "This study investigates whether temporary employment serves as a stepping stone or a trap for unemployed job seekers in Belgium, with a focus on differences between migrant and native-born populations. Using panel data from the Belgian Labour Force Survey (2017-2024) and propensity score matching, we estimate the short-term effects of entering temporary work on employment, permanent employment, and wages. Compared to remaining unemployed, temporary work significantly increases the likelihood of being employed and holding a permanent contract one year later, though it does not lead to higher wages. These benefits are broadly similar for migrant and native-born workers, but not all migrant subgroups benefit equally. Immigrant women, in particular, experience smaller gains than men, highlighting persistent gendered barriers to labour market integration. By contrast, differences by region of origin and length of stay are not significant. The positive effects of temporary employment are evident across contract types and occupational skill levels, with no consistent advantage for fixed-term over agency jobs. A complementary analysis shows that while temporary work outperforms continued unemployment, it yields substantially lower returns than entering permanent employment. Overall, temporary employment should be viewed neither as a panacea nor as a trap, but as a pathway offering modest, uneven, yet generally positive returns for diverse unemployed job seekers.",
+  "authors": [
+    {
+      "raw": "Lens, Dries",
+      "family": "Lens",
+      "given": "Dries"
+    },
+    {
+      "raw": "Van Looy, Kilian",
+      "family": "Van Looy",
+      "given": "Kilian"
+    },
+    {
+      "raw": "Marx, Ive",
+      "family": "Marx",
+      "given": "Ive"
+    }
+  ],
+  "authors_text": "Lens, Dries; Van Looy, Kilian; Marx, Ive",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101092",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101092",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101092",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101092.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Bell Curve Revisited: Testing Controversial Hypotheses with Molecular Genetic Data",
+  "abstract": "In 1994, the publication of Herrnstein's and Murray's The Bell Curve resulted in a social science maelstrom of responses. In the present study, we argue that Herrnstein's and Murray's assertions were made prematurely, on their own terms, given the lack of data available to test the role of genotype in the dynamics of achievement and attainment in U.S. society. Today, however, the scientific community has access to at least one dataset that is nationally representative and has genome-wide molecular markers. We deploy those data from the Health and Retirement Study in order to test the core series of propositions offered by Herrnstein and Murray in 1994. First, we ask whether the effect of genotype is increasing in predictive power across birth cohorts in the middle twentieth century. Second, we ask whether assortative mating on relevant genotypes is increasing across the same time period. Finally, we ask whether educational genotypes are increasingly predictive of fertility (number ever born [NEB]) in tandem with the rising (negative) association of educational outcomes and NEB. The answers to these questions are mostly no; while molecular genetic markers can predict educational attainment, we find little evidence for the proposition that we are becoming increasingly genetically stratified.",
+  "authors": [
+    {
+      "raw": "Conley, Dalton",
+      "family": "Conley",
+      "given": "Dalton"
+    },
+    {
+      "raw": "Domingue, Benjamin",
+      "family": "Domingue",
+      "given": "Benjamin"
+    }
+  ],
+  "authors_text": "Conley, Dalton; Domingue, Benjamin",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2016,
+  "doi": "10.15195/v3.a23",
+  "doi_url": "https://doi.org/10.15195/v3.a23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv3.a23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v3.a23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

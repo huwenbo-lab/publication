@@ -1,0 +1,35 @@
+{
+  "title": "Demography, Education, and Democracy: Global Trends and the Case of Iran",
+  "abstract": "Reconstructions and projections of populations by age, sex, and educational attainment for 120 countries since 1970 are used to assess the global relationship between improvements in human capital and democracy. Democracy is measured by the Freedom House indicator of political rights. Similar to an earlier study on the effects of improving educational attainment on economic growth, the greater age detail of this new dataset resolves earlier ambiguities about the effect of improving education as assessed using a global set of national time series. The results show consistently strong effects of improving overall levels of educational attainment, of a narrowing gender gap in education, and of fertility declines and the subsequent changes in age structure on improvements in the democracy indicator. This global relationship is then applied to the Islamic Republic of Iran. Over the past two decades Iran has experienced the world's most rapid fertility decline associated with massive increases in female education. The results show that based on the experience of 120 countries since 1970, Iran has a high chance of significant movement toward more democracy over the following two decades.",
+  "authors": [
+    {
+      "raw": "Lutz, Wolfgang",
+      "family": "Lutz",
+      "given": "Wolfgang"
+    },
+    {
+      "raw": "Cuaresma, Jesus Crespo",
+      "family": "Cuaresma",
+      "given": "Jesus Crespo"
+    },
+    {
+      "raw": "Abbasi-Shavazi, Mohammad Jalal",
+      "family": "Abbasi-Shavazi",
+      "given": "Mohammad Jalal"
+    }
+  ],
+  "authors_text": "Lutz, Wolfgang; Cuaresma, Jesus Crespo; Abbasi-Shavazi, Mohammad Jalal",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2010,
+  "doi": "10.1111/j.1728-4457.2010.00329.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2010.00329.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2010.00329.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2010.00329.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

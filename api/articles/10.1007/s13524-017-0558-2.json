@@ -1,0 +1,30 @@
+{
+  "title": "Economic Assimilation and Skill Acquisition: Evidence From the Occupational Sorting of Childhood Immigrants",
+  "abstract": "We study the economic assimilation of childhood immigrants to the United States. The linguistic distance between English and the predominant language in one's country of birth interacted with age at arrival is shown to be closely connected to occupational sorting in adulthood. By applying big-data techniques to occupations' detailed skill requirements, we provide evidence that childhood immigrants from English-distant countries who arrived after the primary school years reveal comparative advantages in tasks distinct from those for which (close to) Anglophone immigrants are better suited. Meanwhile, those who arrive at younger ages specialize in a bundle of skills very similar to that supplied by observationally equivalent workers. These patterns emerge even after we net out the effects of formal education. Such findings are compatible with the existence of different degrees of complementarity between relative English-learning potential at arrival and the acquisition of multiple capabilities demanded in the U.S. labor market (math/logic, socioemotional, physical, and communication skills). Consistent with the investment-complementarity argument, we show that linguistic distance and age at arrival also play a significant role on the choice of college major within this population.",
+  "authors": [
+    {
+      "raw": "Bacolod, Marigee",
+      "family": "Bacolod",
+      "given": "Marigee"
+    },
+    {
+      "raw": "Rangel, Marcos A.",
+      "family": "Rangel",
+      "given": "Marcos A."
+    }
+  ],
+  "authors_text": "Bacolod, Marigee; Rangel, Marcos A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0558-2",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0558-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0558-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0558-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

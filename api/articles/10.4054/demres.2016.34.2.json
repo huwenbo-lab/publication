@@ -1,0 +1,30 @@
+{
+  "title": "Does selection of mortality model make a difference in projecting population ageing?",
+  "abstract": "BACKGROUND In low mortality countries, assessing future ageing depends to a large extent on scenarios of future mortality reduction at old age. Often in population projections mortality reduction is implemented via life expectancy increases that do not specify mortality change at specific age groups. The selection of models that translate life expectancy into age-specific mortality rates may be of great importance for projecting the older age groups of future populations and indicators of ageing. OBJECTIVE We quantify how the selection of mortality models, assuming similar life expectancy scenarios, affects projected indices of population ageing. METHOD Using the cohort-component method, we project the populations of Italy, Japan, Russia, Sweden, and the USA. For each country, the given scenario of life expectancy at birth is translated into age-specific death rates by applying four alternative mortality models (variants of extrapolations of the log-mortality rates, the Brass relational model, and the Bongaarts shifting model). The models are contrasted according to their produced future age-specific mortality rates, population age composition, life expectancy at age 65, age at remaining life expectancy 15 years, and conventional and prospective old-age dependency ratios. CONCLUSIONS We show strong differences between the alternative mortality models in terms of mortality age pattern and ageing indicators. Researchers of population ageing should be as careful about their choice of model of age patterns of future mortality as about scenarios of future life expectancy. The simultaneous extrapolation of age-specific death rates may be a better alternative to projecting life expectancy first and then deriving the age patterns of mortality in the second step.",
+  "authors": [
+    {
+      "raw": "Scherbov, Sergei",
+      "family": "Scherbov",
+      "given": "Sergei"
+    },
+    {
+      "raw": "Ediev, Dalkhat M.",
+      "family": "Ediev",
+      "given": "Dalkhat M."
+    }
+  ],
+  "authors_text": "Scherbov, Sergei; Ediev, Dalkhat M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.2",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

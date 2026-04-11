@@ -1,0 +1,40 @@
+{
+  "title": "From Funding Equity Initiatives to Research Productivity: Quantifying the Impact of NSF ADVANCE Awards on Recipients’ Publication Trajectories",
+  "abstract": "Service work in academia, including organizational change efforts, often competes with time for research, potentially affecting academic careers (tenure, promotion, and pay) through slowed publication productivity. However, little is known about how involvement in such efforts affects publication strategies or whether external funding mitigates the potentially negative impacts on research activity. The authors examine changes in publication trajectories among academics participating in the National Science Foundation ADVANCE program, an externally funded gender equity initiative. Using bibliometric data and a matched sample, the authors find that scholars involved in ADVANCE awards published significantly more articles within the first four years after receiving funding. This increase cannot be fully attributed to shifts in research focus, such as publications on gender, or changes in collaboration patterns. Instead, ADVANCE resources created a spillover effect, boosting publications in gender equity while also enhancing productivity in scholars’ primary research areas. These findings suggest that external and institutional resource allocation can offset the additional burdens associated with organizational change work, enabling academics to maintain active research careers while contributing to sustainable change initiatives. This highlights the critical role of robust resource provision in supporting faculty members engaged in organizational change.",
+  "authors": [
+    {
+      "raw": "Gates, Alexander J.",
+      "family": "Gates",
+      "given": "Alexander J."
+    },
+    {
+      "raw": "Nelson, Laura K.",
+      "family": "Nelson",
+      "given": "Laura K."
+    },
+    {
+      "raw": "Grudt, Rachael",
+      "family": "Grudt",
+      "given": "Rachael"
+    },
+    {
+      "raw": "Zippel, Kathrin",
+      "family": "Zippel",
+      "given": "Kathrin"
+    }
+  ],
+  "authors_text": "Gates, Alexander J.; Nelson, Laura K.; Grudt, Rachael; Zippel, Kathrin",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251328714",
+  "doi_url": "https://doi.org/10.1177/23780231251328714",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251328714",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251328714.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

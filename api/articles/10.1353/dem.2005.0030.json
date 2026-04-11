@@ -1,0 +1,25 @@
+{
+  "title": "Familial obesity as a proxy for omitted variables in the obesity-mortality relationship",
+  "abstract": "Abstract In a conventional survival analysis of a sample of the U.S. population in 1971–1974, the association between mortality and obesity is compared with the analogous risk from the presence of an obese person in a household. The two factors have similar risk profiles, with a hazard ratio of 1.44 for nonmorbid obesity and 1.48 for nonmorbid familial obesity in one sample. If “familial obesity” cannot directly affect personal longevity, and if shared factors determine both personal and familial obesity, the mortality risk of family and actual personal obesity is similarly overstated. This false positive in the estimated risk arises from correlations among obesity and unobserved environmental, behavioral, or genetic factors.",
+  "authors": [
+    {
+      "raw": "Gronniger, J. Timothy",
+      "family": "Gronniger",
+      "given": "J. Timothy"
+    }
+  ],
+  "authors_text": "Gronniger, J. Timothy",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0030",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

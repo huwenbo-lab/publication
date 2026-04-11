@@ -1,0 +1,25 @@
+{
+  "title": "Accounting for structural and exchange mobility in models of status attainment: Social fluidity in five European countries",
+  "abstract": "This paper proposes a new method to distinguish structural from exchange mobility in status attainment models with interval endogenous variables. In order to measure structural mobility, the paper proposes to trace occupational and educational changes across generations using information provided by children about their fathers. The validity of the method is assessed by comparing the effects of father's socio-economic status and education on son's status and educational attainments, net of occupational upgrading and educational expansion, in five European countries: Britain, Denmark, Germany, Norway, and Spain, using data from the 2005 EU-SILC survey. The results show that the effect of father's on son's ISEI weakens greatly in all countries after considering occupational upgrading, and that much of father's influence over sons occurs by directing them towards occupations with good economic prospects. Useful extensions to the method are discussed in the conclusions. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Rodriguez Menes, Jorge",
+      "family": "Rodriguez Menes",
+      "given": "Jorge"
+    }
+  ],
+  "authors_text": "Rodriguez Menes, Jorge",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.06.010",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.06.010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.06.010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.06.010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Unmarried Americans vote more Democratic than their married counterparts: The role of race and religiosity in the marital gap (a research brief )",
+  "abstract": "ObjectiveWe investigate how differences in the characteristics of married and unmarried (never-married and divorced) voters contribute to a marital gap-unmarried voters are more likely to vote for Democratic presidential candidates. We also explore why the marital gap has grown over the past 40 years.BackgroundResearch in the 1980s discovered that unmarried Americans are more likely to choose Democratic presidential candidates. We show that these gaps have persisted, and the gap between married and never-married voters has grown.MethodsWe performed a decomposition of levels examining never-married/married and divorced/married gaps, combining data from the 1985-2022 General Social Surveys. Because the gap between married and never-married voters increased substantially between the 1984 and 2020 elections, we also performed a decomposition of change on the never-married/married gap.ResultsThe largest factor contributing to gaps between married and unmarried voters is their different racial compositions. Unmarried voters are disproportionately Black, and Black voters overwhelmingly support Democrats. Among non-Black voters, differences in religiosity contribute to marital gaps because less religious voters are more likely to be unmarried and to vote Democratic. The gap between married and never-married voters has increased since the 1980s in part because never-married voters became more diverse (with a smaller percent White) at a faster rate than married voters.ConclusionSince the 1980s, gaps by marital status in whether voters choose Democrats have become an enduring feature of American politics. These gaps are influenced by racial and religious differences in who enters into and remains in marriage.",
+  "authors": [
+    {
+      "raw": "Vilbig, Karyn",
+      "family": "Vilbig",
+      "given": "Karyn"
+    },
+    {
+      "raw": "England, Paula",
+      "family": "England",
+      "given": "Paula"
+    },
+    {
+      "raw": "Hout, Michael",
+      "family": "Hout",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Vilbig, Karyn; England, Paula; Hout, Michael",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13058",
+  "doi_url": "https://doi.org/10.1111/jomf.13058",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13058",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13058.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

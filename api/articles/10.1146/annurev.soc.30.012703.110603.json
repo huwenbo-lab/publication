@@ -1,0 +1,40 @@
+{
+  "title": "The use of newspaper data in the study of collective action",
+  "abstract": "Studying collective action with newspaper accounts of protest events, rare only 20 years ago, has become commonplace in the past decade. A critical literature has accompanied the growth of protest event analysis. The literature has focused on selection bias-particularly which subset of events are covered-and description bias - notably, the veracity of the coverage. The hard news of the event, if it is reported, tends to be relatively accurate. However, a newspaper's decision to cover an event at all is influenced by the type of event, the news agency, and the issue involved. In this review, we discuss approaches to detecting bias, as well as ways to factor knowledge about bias into interpretations of protest event data.",
+  "authors": [
+    {
+      "raw": "Earl, J",
+      "family": "Earl",
+      "given": "J"
+    },
+    {
+      "raw": "Martin, A",
+      "family": "Martin",
+      "given": "A"
+    },
+    {
+      "raw": "McCarthy, JD",
+      "family": "McCarthy",
+      "given": "JD"
+    },
+    {
+      "raw": "Soule, SA",
+      "family": "Soule",
+      "given": "SA"
+    }
+  ],
+  "authors_text": "Earl, J; Martin, A; McCarthy, JD; Soule, SA",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2004,
+  "doi": "10.1146/annurev.soc.30.012703.110603",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.30.012703.110603",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.30.012703.110603",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.30.012703.110603.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

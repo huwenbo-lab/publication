@@ -1,0 +1,25 @@
+{
+  "title": "Book Review: The Life Table. Modelling Survival and Death",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Shkolnikov, Vladimir M.",
+      "family": "Shkolnikov",
+      "given": "Vladimir M."
+    }
+  ],
+  "authors_text": "Shkolnikov, Vladimir M.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2004,
+  "doi": "10.1023/b:eujp.0000033854.15911.52",
+  "doi_url": "https://doi.org/10.1023/b:eujp.0000033854.15911.52",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1023%2Fb%3Aeujp.0000033854.15911.52",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1023/b%3Aeujp.0000033854.15911.52.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

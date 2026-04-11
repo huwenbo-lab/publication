@@ -1,0 +1,35 @@
+{
+  "title": "Household Joblessness in U.S. Metropolitan Areas during the COVID-19 Pandemic: Polarization and the Role of Educational Profiles",
+  "abstract": "The authors use Current Population Survey 2016 to 2021 quarterly data to analyze changes in household joblessness across metropolitan areas in the United States during the coronavirus disease 2019 pandemic. The authors first use shift-share analysis to decompose the change in household joblessness into changes in individual joblessness, household compositions, and polarization. The focus is on polarization, which is the result of the unequal distribution of individual joblessness across households. The authors find that the rise in household joblessness during the pandemic varies strongly across U.S. metropolitan areas. The initial stark increase and subsequent recovery are due largely to changes in individual joblessness. Polarization contributes notably to household joblessness but to varying degree. Second, the authors use metropolitan area–level fixed-effects regressions to test whether the educational profile of the population is a helpful predictor of changes in household joblessness and polarization. They measure three distinct features: educational levels, educational heterogeneity, and educational homogamy. Although much of the variance remains unexplained, household joblessness increased less in areas with higher educational levels. The authors show that how polarization contributes to household joblessness is shaped by educational heterogeneity and educational homogamy.",
+  "authors": [
+    {
+      "raw": "Biegert, Thomas",
+      "family": "Biegert",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Özcan, Berkay",
+      "family": "Özcan",
+      "given": "Berkay"
+    },
+    {
+      "raw": "Rossetti-Youlton, Magdalena",
+      "family": "Rossetti-Youlton",
+      "given": "Magdalena"
+    }
+  ],
+  "authors_text": "Biegert, Thomas; Özcan, Berkay; Rossetti-Youlton, Magdalena",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231158087",
+  "doi_url": "https://doi.org/10.1177/23780231231158087",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231158087",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231158087.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

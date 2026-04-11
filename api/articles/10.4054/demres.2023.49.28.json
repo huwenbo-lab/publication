@@ -1,0 +1,35 @@
+{
+  "title": "Black-white intermarriage in global perspective",
+  "abstract": "BACKGROUND Intermarriage is a leading indicator of racialized relations. Scholarly literature has focused on the United States and shows that black-white intermarriage is especially low within that country. Surprisingly, there are no studies that compare black-white intermarriage across a broad range of countries around the world. OBJECTIVE How does black-white intermarriage compare in Brazil, Cuba, France, South Africa, the United States, and the United Kingdom circa 2010? METHODS We use odds ratios of endogamy and log-linear analysis of large micro-level datasets for each country. RESULTS Interracial marriage varies widely across countries. Despite increases in recent decades, US black-white intermarriage levels are the second lowest among the six countries, although they are markedly higher among cohabitors. Intermarriage rates (opposite of endogamy) are high in the Latin American countries, moderate in the European countries, low-moderate in the United States and extremely low in South Africa. Controls for structural factors have minor effects, suggesting that national differences are mostly related to cultural factors.",
+  "authors": [
+    {
+      "raw": "Telles, Edward",
+      "family": "Telles",
+      "given": "Edward"
+    },
+    {
+      "raw": "Esteve, Albert",
+      "family": "Esteve",
+      "given": "Albert"
+    },
+    {
+      "raw": "Torres, Andres F. Castro",
+      "family": "Torres",
+      "given": "Andres F. Castro"
+    }
+  ],
+  "authors_text": "Telles, Edward; Esteve, Albert; Torres, Andres F. Castro",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.28",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

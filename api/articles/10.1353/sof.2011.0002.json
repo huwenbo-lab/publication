@@ -1,0 +1,35 @@
+{
+  "title": "Race, Ethnicity and the Quality of Life in America, 1972-2008",
+  "abstract": "We extend research on black-white gaps in the subjective quality of life by exploring recent General Social Survey data, focusing attention on Latinos, and probing the value of partial proportional odds models for ordinal quality-of-life measures. Results indicate a declining but discernable black-white gap for four measures—marital happiness, overall happiness, health status and trust—and the persistence of a gap for another—satisfaction with finances. Although Latinos as a whole have a lower quality of life than non-Latinos, significant differences between Mexican-origin Latinos and those from other countries emerge for only two quality-of-life measures, overall happiness and financial satisfaction. The partial proportional odds models overcome technical problems common to the analysis of ordinal dependent variables and establish both the magnitude and location of inequalities.",
+  "authors": [
+    {
+      "raw": "Coverdill, J. E.",
+      "family": "Coverdill",
+      "given": "J. E."
+    },
+    {
+      "raw": "Lopez, C. A.",
+      "family": "Lopez",
+      "given": "C. A."
+    },
+    {
+      "raw": "Petrie, M. A.",
+      "family": "Petrie",
+      "given": "M. A."
+    }
+  ],
+  "authors_text": "Coverdill, J. E.; Lopez, C. A.; Petrie, M. A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2011,
+  "doi": "10.1353/sof.2011.0002",
+  "doi_url": "https://doi.org/10.1353/sof.2011.0002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2011.0002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2011.0002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "A tangled web: The reciprocal relationship between depression and educational outcomes in China",
+  "abstract": "Research on depression and education usually focuses on a unidirectional relationship. This paper proposes a reciprocal relationship, simultaneously estimating the effects of depression on education and of education on depression. China, which has the world's largest education system, is used as a case study. This paper applies structural equation modeling to three datasets: the China Family Panel Studies, the China Education Panel Survey, and the Gansu Survey of Children and Families. Analyses reveal a reciprocal and negative relationship between depression and educational outcomes. Specifically, early depression reduces later educational achievement, and higher educational achievement also lowers the level of subsequent depression by resulting in less peers' unfriendliness, less pressure from parents' expectations, and less teachers' criticism. More time spent on studies is not associated with higher educational achievement but significantly increases the level of depression. Children from lower SES families bear more pressure and spend more time on studies, which does not correspond to higher educational achievement but rather to higher levels of depression. In the long term, prior depression lowers educational attainment and, after controlling for prior depression, lower educational attainment is also associated with higher levels of subsequent depression. This paper shows that the lower achievers, not the high achievers, bear the major psychological burden of the education system's quest to produce high achievement. This situation reinforces these students' educational disadvantage.",
+  "authors": [
+    {
+      "raw": "Shen, Wensong",
+      "family": "Shen",
+      "given": "Wensong"
+    }
+  ],
+  "authors_text": "Shen, Wensong",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102353",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102353",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102353",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102353.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "How Dangerous Is Obesity? Issues in Measurement and Interpretation",
+  "abstract": "Significant uncertainty remains regarding the effects of obesity on the mortality levels of individuals and of populations. In this article, we describe some of the analytic sources of that uncertainty. We illustrate the effects of major biases and threats to generalizability that are commonly encountered in observational studies of the mortality risks of obesity. Our preferred model requires no sample exclusions and uses lifetime maximum body mass index to address several biases. Compared to people of normal weight, this model produces excess mortality levels associated with overweight, obese class I, and obese class II individuals of 5, 23, and 59 percent. We estimate that 16.2 percent of US adult deaths are attributable to overweight and obesity. Among the alternative models examined, the association between excess weight and mortality was most significantly underestimatedwhen body mass index at the time of survey was used. Using this model, only 5.5 percent of deaths were attributed to overweight/ obesity. The highest relative risks of death associated with obesity were estimated when the sample was restricted to never-smokers: 35.6 percent of deaths among never-smokers were attributed to overweight/ obesity. While these estimated risks are too high for the current population as a whole, they prefigure a growing role for obesity in the national mortality profile as smoking continues to decline.",
+  "authors": [
+    {
+      "raw": "Stokes, Andrew",
+      "family": "Stokes",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Preston, Samuel H.",
+      "family": "Preston",
+      "given": "Samuel H."
+    }
+  ],
+  "authors_text": "Stokes, Andrew; Preston, Samuel H.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2016,
+  "doi": "10.1111/padr.12015",
+  "doi_url": "https://doi.org/10.1111/padr.12015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

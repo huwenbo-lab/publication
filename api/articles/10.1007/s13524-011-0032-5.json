@@ -1,0 +1,40 @@
+{
+  "title": "The Protective Effect of Marriage for Survival: A Review and Update",
+  "abstract": "AbstractThe theory that marriage has protective effects for survival has itself lived for more than 100 years since Durkheim’s groundbreaking study of suicide (Durkheim 1951 [1897]). Investigations of differences in this protective effect by gender, by age, and in contrast to different unmarried statuses, however, have yielded inconsistent conclusions. These investigations typically either use data in which marital status and other covariates are observed in cross-sectional surveys up to 10 years before mortality exposure, or use data from panel surveys with much smaller sample sizes. Their conclusions are usually not based on formal statistical tests of contrasts between men and women or between never-married, divorced/separated, and widowed statuses. Using large-scale pooled panel survey data linked to death registrations and earnings histories for U.S. men and women aged 25 and older, and with appropriate contrast tests, we find a consistent survival advantage for married over unmarried men and women, and an additional survival “premium” for married men. We find little evidence of mortality differences between never-married, divorced/separated, and widowed statuses.",
+  "authors": [
+    {
+      "raw": "Rendall, Michael S.",
+      "family": "Rendall",
+      "given": "Michael S."
+    },
+    {
+      "raw": "Weden, Margaret M.",
+      "family": "Weden",
+      "given": "Margaret M."
+    },
+    {
+      "raw": "Favreault, Melissa M.",
+      "family": "Favreault",
+      "given": "Melissa M."
+    },
+    {
+      "raw": "Waldron, Hilary",
+      "family": "Waldron",
+      "given": "Hilary"
+    }
+  ],
+  "authors_text": "Rendall, Michael S.; Weden, Margaret M.; Favreault, Melissa M.; Waldron, Hilary",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0032-5",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0032-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0032-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0032-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

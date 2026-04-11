@@ -1,0 +1,35 @@
+{
+  "title": "Born Again French: Explaining Inconsistency in Citizenship Declarations in French Longitudinal Data",
+  "abstract": "Citizenship is a fundamental boundary in contemporary societies that entails rights, a sense of belonging, and social status. Drawing on longitudinal census data, this article tracks individual changes in self-reported citizenship over 30 years in France. Respondents choose one of three categories: French by birth, became French, or foreigner. The first category should be stable over the life course: one is born, but cannot become, French by birth. Yet, our findings indicate that about 19 percent of foreign-origin respondents in a given census switch to French by birth declarations at the next census, in a process we call reclassification. Immigrant assimilation variables, such as nativity and length of stay, and events such as intermarriage, naturalization, and residential mobility, trigger reclassification. Yet reclassification is also higher among individuals with lower socioeconomic status and respondents of African and Southeast Asian origin, as well as those with origins in former French colonies. These findings suggest reclassification is a byproduct of immigrant assimilation, which triggers feelings of national identity, as well as status upgrading, whereby disadvantaged and discriminated groups change their citizenship declaration to compensate for low social status. Empirically novel, reclassification offers original theoretical insights into the meanings of citizenship, civic stratification, and boundary-crossing.",
+  "authors": [
+    {
+      "raw": "Caron, Louise",
+      "family": "Caron",
+      "given": "Louise"
+    },
+    {
+      "raw": "Mcavay, Haley",
+      "family": "Mcavay",
+      "given": "Haley"
+    },
+    {
+      "raw": "Safi, Mirna",
+      "family": "Safi",
+      "given": "Mirna"
+    }
+  ],
+  "authors_text": "Caron, Louise; Mcavay, Haley; Safi, Mirna",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231207392",
+  "doi_url": "https://doi.org/10.1177/00031224231207392",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231207392",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231207392.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

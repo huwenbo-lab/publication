@@ -1,0 +1,35 @@
+{
+  "title": "To what extent do disadvantaged neighbourhoods mediate social assistance dependency? Evidence from Sweden",
+  "abstract": "This article investigates social assistance dependency and its relation to neighbourhood disadvantage in Sweden. We combine Swedish register data, tracking and analysing a cohort from 1998-2017, with the help of causal mediation, our analysis identifies the impact of early-adulthood social assistance on mid-adulthood social assistance. More specifically, we examine the mediating roles of neighbourhood conditions and compare this effect to the well-known mediating effect of unstable work experiences. Our findings suggest a differential effect for individuals with a high versus low probability of receiving social assistance in early adulthood. For individuals with a baseline high probability of receiving early-adulthood social assistance, the total estimated effect of early-adulthood social assistance on mid-adulthood social assistance recipiency is over 15 per cent points. Neighbourhood disadvantage only has a minor mediating effect on average, however, for individuals with a high risk of early-adulthood social assistance, the effect is substantial, over 5 per cent points, even more than the mediating effect from unstable work. The findings suggest that for high-risk individuals, social assistance recipiency in young adulthood is linked to subsequent entrenchment in disadvantaged areas and unstable employment, reinforcing a cycle of poverty. Our findings contribute to understanding the complex interactions between policy, socioeconomic status, and environmental factors in perpetuating social assistance dependency.",
+  "authors": [
+    {
+      "raw": "Lin, Cheng",
+      "family": "Lin",
+      "given": "Cheng"
+    },
+    {
+      "raw": "Daoud, Adel",
+      "family": "Daoud",
+      "given": "Adel"
+    },
+    {
+      "raw": "Branden, Maria",
+      "family": "Branden",
+      "given": "Maria"
+    }
+  ],
+  "authors_text": "Lin, Cheng; Daoud, Adel; Branden, Maria",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf016",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf016",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf016",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf016.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

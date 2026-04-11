@@ -1,0 +1,35 @@
+{
+  "title": "Chains of affection: The structure of adolescent romantic and sexual networks",
+  "abstract": "This article describes the structure of the adolescent romantic and sexual network in a population of over 800 adolescents residing in a midsized town in the midwestern United States. Precise images and measures of network structure are derived from reports of relationships that occurred over a period of 18 months between 1993 and 1995. The study offers a comparison of the structural characteristics of the observed network to simulated networks conditioned on the distribution of ties; the observed structure reveals networks characterized by longer contact chains and fewer cycles than expected. This article identifies the micromechanisms that generate networks with structural features similar to the observed network. Implications for disease transmission dynamics and social policy are explored.",
+  "authors": [
+    {
+      "raw": "Bearman, PS",
+      "family": "Bearman",
+      "given": "PS"
+    },
+    {
+      "raw": "Moody, J",
+      "family": "Moody",
+      "given": "J"
+    },
+    {
+      "raw": "Stovel, K",
+      "family": "Stovel",
+      "given": "K"
+    }
+  ],
+  "authors_text": "Bearman, PS; Moody, J; Stovel, K",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2004,
+  "doi": "10.1086/386272",
+  "doi_url": "https://doi.org/10.1086/386272",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F386272",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/386272.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

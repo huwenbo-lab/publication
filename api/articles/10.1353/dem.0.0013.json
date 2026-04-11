@@ -1,0 +1,25 @@
+{
+  "title": "The changing relationship between family size and educational attainment over the course of socioeconomic development: Evidence from Indonesia",
+  "abstract": "AbstractMany studies from developed countries show a negative correlation between family size and children’s schooling, while results from developing countries show this association ranging from positive to neutral to negative, depending on the context. The body of evidence suggests that this relationship changes as a society develops, but this theory has been difficult to assess because the existing evidence requires comparisons across countries with different social structures and at different levels of development. The world’s fourth most populous nation in 2007, Indonesia has developed rapidly in recent decades. This context provides the opportunity to study these relationships within the same rapidly developing setting to see if and how these associations change. Results show that in urban areas, the association between family size and children’s schooling was positive for older cohorts but negative for more recent cohorts. Models using instrumental variables to address the potential endogeneity of fertility con rm these results. In contrast, rural areas show no significant association between family size and children’s schooling for any cohort. These findings show how the relationship between family size and children’s schooling can differ within the same country and change over time as contextual factors evolve with socioeconomic development.",
+  "authors": [
+    {
+      "raw": "Maralani, Vida",
+      "family": "Maralani",
+      "given": "Vida"
+    }
+  ],
+  "authors_text": "Maralani, Vida",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0013",
+  "doi_url": "https://doi.org/10.1353/dem.0.0013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

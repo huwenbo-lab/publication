@@ -1,0 +1,40 @@
+{
+  "title": "Educational Engagement and Early Family Formation: Differences by Ethnicity and Generation",
+  "abstract": "This paper examines how school engagement influences the timing of family formation for youth. We pay particular attention to variation across four racial/ethnic groups and by generation status, variation that reflects the diversification of U.S. society through immigration. Using data from the National Education Longitudinal Study (NELS), we employ discrete-time multinomial logistic regression models examining the likelihood of childbearing or marriage in late adolescence. We find that the delaying effects of school enrollment and engagement vary by race/ethnicity, suggesting that strategies for socioeconomic success that focus on delaying family roles are more important among some groups than others. The results also indicate that controlling for school enrollment and school engagement reduces differences in early marriage and non-marital childbearing by generation status.",
+  "authors": [
+    {
+      "raw": "Glick, J. E.",
+      "family": "Glick",
+      "given": "J. E."
+    },
+    {
+      "raw": "Ruf, S. D.",
+      "family": "Ruf",
+      "given": "S. D."
+    },
+    {
+      "raw": "White, M. J.",
+      "family": "White",
+      "given": "M. J."
+    },
+    {
+      "raw": "Goldscheider, F.",
+      "family": "Goldscheider",
+      "given": "F."
+    }
+  ],
+  "authors_text": "Glick, J. E.; Ruf, S. D.; White, M. J.; Goldscheider, F.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2006,
+  "doi": "10.1353/sof.2006.0049",
+  "doi_url": "https://doi.org/10.1353/sof.2006.0049",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2006.0049",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2006.0049.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

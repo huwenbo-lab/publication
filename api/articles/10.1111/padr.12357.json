@@ -1,0 +1,30 @@
+{
+  "title": "The Influence of Health in Early Adulthood on Male Fertility",
+  "abstract": "Despite the large literature examining predictors of fertility, previous research has not offered a population-level perspective on how health in early adulthood is related to male fertility. Using Swedish population and military conscription registers, we study how body mass index (BMI), physical fitness, and height are associated with total fertility and parity transitions by 2012 among 405,427 Swedish men born 1965-1972, meaning we observe fertility up to age 40 or older. Applying linear regression and sibling fixed effects, we find that these anthropometric measures are strong predictors of fertility, even after accounting for education and cumulative income. Men with a normal BMI and in the highest decile of physical fitness have the most children. Men who were obese at ages 17-20 had a relative probability of childlessness almost twice as high as men who had a normal BMI, and men in the bottom decile of physical fitness had a relatively probability of childlessness more than 50 percent higher than men in the top decile. In sibling comparison models the tallest men have the most children and men in the lowest two deciles of height have significantly lower fertility. Further analyses show that the strong associations persist even among men who married.",
+  "authors": [
+    {
+      "raw": "Barclay, Kieron",
+      "family": "Barclay",
+      "given": "Kieron"
+    },
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Barclay, Kieron; Kolk, Martin",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2020,
+  "doi": "10.1111/padr.12357",
+  "doi_url": "https://doi.org/10.1111/padr.12357",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12357",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12357.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

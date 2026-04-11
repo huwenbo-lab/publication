@@ -1,0 +1,40 @@
+{
+  "title": "Justification of violence, ideological preferences, and exposure to protests: causal evidence from the 2019 Chilean social unrest",
+  "abstract": "We examine the relationship between proximity to actively policed protest events and people's willingness to justify violence against police forces. Focusing on the Chilean social uprising, a series of massive protests between 2019 and 2020, this study highlights the significant implications of law enforcement issues on government legitimacy and the potential for protest policing to escalate violence. To conduct our research, we use a difference-in-differences design that combines survey data with georeferenced data on protests that experienced active policing near survey respondents. Our results show that spatial and temporal proximity to such protests significantly increases people's willingness to justify violence. Additionally, this effect is not uniform across all ideological groups. Exposure to protests with active policing strongly affects centrists, whereas it is negligible for leftists, rightists, and independents. Different robustness checks largely support a causal link between proximity to actively policed protests and justification of violence against the police. These insights contribute to our understanding of how mass mobilizations and state responses influence public attitudes, emphasizing the nuanced impact of protest policing on different ideological segments of society.",
+  "authors": [
+    {
+      "raw": "Disi Pavlic, Rodolfo",
+      "family": "Disi Pavlic",
+      "given": "Rodolfo"
+    },
+    {
+      "raw": "Medel, Rodrigo M.",
+      "family": "Medel",
+      "given": "Rodrigo M."
+    },
+    {
+      "raw": "Bargsted, Matias",
+      "family": "Bargsted",
+      "given": "Matias"
+    },
+    {
+      "raw": "Somma, Nicolas M.",
+      "family": "Somma",
+      "given": "Nicolas M."
+    }
+  ],
+  "authors_text": "Disi Pavlic, Rodolfo; Medel, Rodrigo M.; Bargsted, Matias; Somma, Nicolas M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf102",
+  "doi_url": "https://doi.org/10.1093/sf/soaf102",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf102",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf102.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

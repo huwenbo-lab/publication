@@ -1,0 +1,30 @@
+{
+  "title": "The Impact of Cohort Membership on Disposable Incomes in West Germany, France, and the United States",
+  "abstract": "This paper uses age-period-cohort models to show that the living standards (total monetary incomes after public benefits and contributions, adjusted for household size and inflation) of successive birth cohorts in the United States and Germany are strongly correlated with general changes in disposable incomes. This means that, after introducing controls, virtually every successive birth cohort in Germany and the United States had increasing disposable incomes, similar to general rates of economic growth. For France, however, we find that, while disposable income increased through the 20th century, cohorts born before 1950 profited from this, while cohorts born after 1950 experience no improvement in living standards over previous cohorts, after adjusting disposable incomes for inflation and controls-mainly education and household composition. Thus, while economic growth benefits all birth cohorts in the United States and Germany, pre-1950 birth cohorts in France have monopolized lucrative positions and social transfers so that post-1950 birth cohorts do not benefit from economic growth.",
+  "authors": [
+    {
+      "raw": "Chauvel, Louis",
+      "family": "Chauvel",
+      "given": "Louis"
+    },
+    {
+      "raw": "Schroeder, Martin",
+      "family": "Schroeder",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Chauvel, Louis; Schroeder, Martin",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcu091",
+  "doi_url": "https://doi.org/10.1093/esr/jcu091",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcu091",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcu091.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

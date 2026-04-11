@@ -1,0 +1,25 @@
+{
+  "title": "The problematic estimation of \"imitation effects\" in multilevel models",
+  "abstract": "It seems plausible that a personâs demographic behaviour may be influenced by that among other people in the community, for example because of an inclination to imitate. When estimating multilevel models from clustered individual data, some investigat",
+  "authors": [
+    {
+      "raw": "Kravdal, Øystein",
+      "family": "Kravdal",
+      "given": "Øystein"
+    }
+  ],
+  "authors_text": "Kravdal, Øystein",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2003,
+  "doi": "10.4054/demres.2003.9.2",
+  "doi_url": "https://doi.org/10.4054/demres.2003.9.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2003.9.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2003.9.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

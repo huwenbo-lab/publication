@@ -1,0 +1,40 @@
+{
+  "title": "The Effect of Education on the Demographic Dividend",
+  "abstract": "The effect of population age structure on economic growth has been studied in recent decades using different methods to estimate the so -called demographic dividend. Education is seen as a key factor in economic growth. We propose a decomposition of the demographic dividend into age and education effects. We illustrate the potential of the method, deriving an application to Mexico and Spain over the period 1970 -2100. We estimate the National Transfer Accounts age profiles by education level and apply them to population projections stratified by education level. Our results confirm the role of population age structure in the demographic dividend, but also reveal that education attainment can be even more crucial. Moreover, we find that how both age and education effects influence economic growth depends to a great extent on the country - specific consumption and labor income age profiles.",
+  "authors": [
+    {
+      "raw": "Renteria, Elisenda",
+      "family": "Renteria",
+      "given": "Elisenda"
+    },
+    {
+      "raw": "Souto, Guadalupe",
+      "family": "Souto",
+      "given": "Guadalupe"
+    },
+    {
+      "raw": "Mejia-Guevara, Ivan",
+      "family": "Mejia-Guevara",
+      "given": "Ivan"
+    },
+    {
+      "raw": "Patxot, Concepcio",
+      "family": "Patxot",
+      "given": "Concepcio"
+    }
+  ],
+  "authors_text": "Renteria, Elisenda; Souto, Guadalupe; Mejia-Guevara, Ivan; Patxot, Concepcio",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2016,
+  "doi": "10.1111/padr.12017",
+  "doi_url": "https://doi.org/10.1111/padr.12017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

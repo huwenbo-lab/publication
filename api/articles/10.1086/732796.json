@@ -1,0 +1,35 @@
+{
+  "title": "Diffusion Through Multiple Domains: The Spread of Romantic Nationalism Across Europe, 1770-1930",
+  "abstract": "We examine an extraordinarily consequential case of ideational diffusion: how cultural nationalism spread across Europe from the French Revolution to the First World War, awakening nation after nation. Through which pathways did Romantic nationalism proliferate, and where did it fall on fertile ground? Using regression analysis with 2,300 cities as observational units and a large number of geocoded data sources, we show that Romantic nationalism resonated most in states ruled by dynasties of foreign origins, which contradicted nationalist ideals of self-rule. Other frame resonance mechanisms (such as the compatibility between old and new templates) do not seem to have been at play. Regarding pathways, we show that Romantic nationalism spread across linguistic, religious, and political boundaries and simultaneously through personal networks, cultural institutions, and within clusters of historically connected cities. The article advances the study of multiplex diffusion processes, introduces frame resonance mechanisms into diffusion research, and offers the first quantitative account of the rise of cultural nationalism across Europe.",
+  "authors": [
+    {
+      "raw": "Wimmer, Andreas",
+      "family": "Wimmer",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Lee, Seungwon",
+      "family": "Lee",
+      "given": "Seungwon"
+    },
+    {
+      "raw": "LaViolette, Jack",
+      "family": "LaViolette",
+      "given": "Jack"
+    }
+  ],
+  "authors_text": "Wimmer, Andreas; Lee, Seungwon; LaViolette, Jack",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1086/732796",
+  "doi_url": "https://doi.org/10.1086/732796",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F732796",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/732796.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

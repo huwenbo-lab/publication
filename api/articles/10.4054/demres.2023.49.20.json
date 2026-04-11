@@ -1,0 +1,40 @@
+{
+  "title": "Religion and union dissolution: Effects of couple and municipal religiosity on divorce and separation",
+  "abstract": "BACKGROUND Several theoretical models argue that divorce risks depend on an individual's level of religiosity and the level of religiosity in this individual's spatial context. However, it remains unclear whether the same relationship holds for couples and whether the strength of the effect of couple-level religiosity depends on the level of religiosity in the context (a so-called cross-level interaction effect). Moreover, we lack considerable knowledge about whether such effects also apply to the dissolution of unmarried cohabitations.OBJECTIVE We aim to understand the extent to which levels of couple and municipal religiosity, as well as their interplay, affect the union dissolution risk of married and cohabiting couples.METHODS This study focuses on the Netherlands and links survey information from the Dutch Labor Force Surveys (2011-2015) and register data from Statistics Netherlands (n(couples)= 145,461). We used multilevel modeling to test hypotheses.RESULTS Highly religious couples are less likely to dissolve their marriage than less religious couples, but both are equally likely to dissolve a cohabitation. The less religious a municipality, the smaller the differences in the union dissolution risks of highly religious and less religious couples.CONCLUSIONS The effect of couple religiosity on union dissolution risks depends on the religious context in which a couple lives and the relationship type of the couple. Union dissolution risks are higher for religious couples who live in less religious contexts or choose to cohabit instead of marry",
+  "authors": [
+    {
+      "raw": "Vermeulen, Willem R. J.",
+      "family": "Vermeulen",
+      "given": "Willem R. J."
+    },
+    {
+      "raw": "Zoutewelle-Terovan, Mioara",
+      "family": "Zoutewelle-Terovan",
+      "given": "Mioara"
+    },
+    {
+      "raw": "Kooiman, Niels",
+      "family": "Kooiman",
+      "given": "Niels"
+    },
+    {
+      "raw": "Liefbroer, Aart C.",
+      "family": "Liefbroer",
+      "given": "Aart C."
+    }
+  ],
+  "authors_text": "Vermeulen, Willem R. J.; Zoutewelle-Terovan, Mioara; Kooiman, Niels; Liefbroer, Aart C.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.20",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Windows of Vulnerability: Consequences of Exposure Timing during the Dutch Hunger Winter",
+  "abstract": "Prior research on early-life exposures to famine has established in utero development as a critical period of vulnerability to malnutrition. Yet, previous research tends to focus narrowly on this stage, at the expense of a more comprehensive examination of childhood. As a result, the literature has yet to compare the severity of the consequences of exposure to malnutrition across developmentally salient periods. Such comparison is crucial not only in the magnitude of effects but also in the nature of outcomes. Using a restricted population registry-linked health survey, this study examines the Dutch Hunger Winter to provide a comprehensive examination of the long-term consequences of in utero, infant, childhood, and adolescent exposure to famine. The results show malnutrition leads to heterogeneous effects depending on when the exposure occurs. In utero exposure to malnutrition leads to deleterious conditions in physical health and lower socioeconomic attainment. For older cohorts, results suggest a resilience to the effects of malnutrition on physical health in late life, but a higher vulnerability to socioeconomic stunting. Furthermore, the results suggest important gender differences in the long-term impact of malnutrition. Males consistently show stronger negative consequences across a wider array of conditions.",
+  "authors": [
+    {
+      "raw": "Ramirez, Daniel",
+      "family": "Ramirez",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Haas, Steven A.",
+      "family": "Haas",
+      "given": "Steven A."
+    }
+  ],
+  "authors_text": "Ramirez, Daniel; Haas, Steven A.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2022,
+  "doi": "10.1111/padr.12513",
+  "doi_url": "https://doi.org/10.1111/padr.12513",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12513",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12513.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

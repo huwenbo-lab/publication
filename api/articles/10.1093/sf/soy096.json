@@ -1,0 +1,30 @@
+{
+  "title": "Racialized Re-entry: Labor Market Inequality After Incarceration",
+  "abstract": "Why do some people succeed in the labor market after incarceration but others do not? We study the transition from prison to work with data on monthly employment and earnings for a sample of men and women observed for a year after incarceration. More than in earlier research, the data provide detailed measurement of temporary and informal employment and richly describe the labor market disadvantages of formerly incarcerated men and women. We find that half the sample is jobless in any given month and average earnings are well below the poverty level. By jointly modeling employment and earnings, we show that blacks and Hispanics have lower total earnings than whites even after accounting for health, human capital, social background, crime and criminal justice involvement, and job readiness. A decomposition attributes most of the earnings gaps to racial and ethnic inequalities in employment. Qualitative interviews suggest that whites more than blacks and Hispanics find stable, high-paying jobs through social networks. These findings support a hypothesis of racialized re-entry that helps explain the unusual disadvantage of African Americans at the nexus of the penal system and the labor market.",
+  "authors": [
+    {
+      "raw": "Western, Bruce",
+      "family": "Western",
+      "given": "Bruce"
+    },
+    {
+      "raw": "Sirois, Catherine",
+      "family": "Sirois",
+      "given": "Catherine"
+    }
+  ],
+  "authors_text": "Western, Bruce; Sirois, Catherine",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy096",
+  "doi_url": "https://doi.org/10.1093/sf/soy096",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy096",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy096.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

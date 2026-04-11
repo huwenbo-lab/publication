@@ -1,0 +1,30 @@
+{
+  "title": "Cumulative risks of paternal and maternal incarceration in Denmark and the United States",
+  "abstract": "BACKGROUND No research has estimated the cumulative risk of paternal or maternal incarceration in any country other than the U.S., so it remains unclear how much more likely U.S. children are to be exposed to parental incarceration than children living in other countries. OBJECTIVE To estimate the cumulative risks of paternal and maternal incarceration (including even very short jail stays of less than 24 hours) by age 14 for the 1990 Danish birth cohort. We then compare these estimates to equivalent estimates for the 1990 U.S. birth cohort. METHODS We use birth cohort life tables and Danish registry data, which provide administrative records on all incarcerations in Denmark, to estimate the cumulative risks of paternal and maternal incarceration. We follow the full 1990 Danish birth cohort (N = 62,982) up to age 14 to see whether each child has ever experienced different lengths of paternal and maternal incarceration. RESULTS We estimate that 1.54% of Danish children experienced paternal imprisonment and that 8.78% of Danish children experienced any paternal incarceration (including jail stays less than 24 hours), indicating that U.S. children are almost as likely to have their fathers sent to prison (which usually results from a sentence of at least one year in the U.S.) as Danish children are to have their fathers spend less than one day in jail. Results for maternal imprisonment are similar. CONCLUSIONS U.S. children are far more likely to be exposed to parental incarceration than Danish children, suggesting that imprisonment contributes not only to inequality among children within the U.S., but also to inequality between children in the U.S. and children in other developed democracies.",
+  "authors": [
+    {
+      "raw": "Wildeman, Christopher",
+      "family": "Wildeman",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Andersen, Lars H.",
+      "family": "Andersen",
+      "given": "Lars H."
+    }
+  ],
+  "authors_text": "Wildeman, Christopher; Andersen, Lars H.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.32.57",
+  "doi_url": "https://doi.org/10.4054/demres.2015.32.57",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.32.57",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.32.57.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

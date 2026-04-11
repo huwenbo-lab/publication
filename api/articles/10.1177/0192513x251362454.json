@@ -1,0 +1,45 @@
+{
+  "title": "The Impact of Early Sexual Debut on Family Structure: A Life-Course Perspective",
+  "abstract": "This study used data from the 2011-2019 National Survey of Family Growth (NSFG) to examine how family structure at the time of the interview was impacted by the age of sexual debut. A total of 15,420 participants aged 15-44 were included in the analysis. Family structure was divided into two categories: those with a spouse or cohabiting partner were categorized as supported parenting and those without as unsupported parenting. Logistic regression models, adjusted for demographic and family background, assessed the likelihood of unsupported parenting. Results revealed that those with an early sexual debut had nearly twice the odds (AOR = 1.92) of single parenthood compared to those who delayed sexual debut until 18 or older. Findings suggest that early sexual initiation may impact future family structure. Educating parents on how to discuss sexual health with their children is warranted for reducing early sexual activity and its long-term consequences.",
+  "authors": [
+    {
+      "raw": "Chopak-Foss, Joanne",
+      "family": "Chopak-Foss",
+      "given": "Joanne"
+    },
+    {
+      "raw": "Cowan, Logan T.",
+      "family": "Cowan",
+      "given": "Logan T."
+    },
+    {
+      "raw": "Riggins, Alisha D.",
+      "family": "Riggins",
+      "given": "Alisha D."
+    },
+    {
+      "raw": "Alford, Alexandria Y.",
+      "family": "Alford",
+      "given": "Alexandria Y."
+    },
+    {
+      "raw": "Nwaonumah, Emmanuela C.",
+      "family": "Nwaonumah",
+      "given": "Emmanuela C."
+    }
+  ],
+  "authors_text": "Chopak-Foss, Joanne; Cowan, Logan T.; Riggins, Alisha D.; Alford, Alexandria Y.; Nwaonumah, Emmanuela C.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2025,
+  "doi": "10.1177/0192513x251362454",
+  "doi_url": "https://doi.org/10.1177/0192513x251362454",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x251362454",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x251362454.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

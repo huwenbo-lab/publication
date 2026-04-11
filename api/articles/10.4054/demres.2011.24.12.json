@@ -1,0 +1,30 @@
+{
+  "title": "A summary period measure of immigrant advancement in the U.S.",
+  "abstract": "This paper proposes a method for summarizing the pace of advancement of the foreign-born population in a given period. The method standardizes for variations in the duration of residence or age composition of immigrant groups, attainments possessed by",
+  "authors": [
+    {
+      "raw": "Pitkin, John",
+      "family": "Pitkin",
+      "given": "John"
+    },
+    {
+      "raw": "Myers, Dowell",
+      "family": "Myers",
+      "given": "Dowell"
+    }
+  ],
+  "authors_text": "Pitkin, John; Myers, Dowell",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2011,
+  "doi": "10.4054/demres.2011.24.12",
+  "doi_url": "https://doi.org/10.4054/demres.2011.24.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2011.24.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2011.24.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Urbanization and fertility: An event-history analysis of Coastal Ghana",
+  "abstract": "Abstract In this article, we undertake an event-history analysis of fertility in Ghana. We exploit detailed life history calendar data to conduct a more refined and definitive analysis of the relationship among personal traits, urban residence, and fertility. Although urbanization is generally associated with lower fertility in developing countries, inferences in most studies have been hampered by a lack of information about the timing of residence in relationship to childbearing. We find that the effect of urbanization itself is strong, evident, and complex, and persists after we control for the effects of age, cohort, union status, and education. Our discrete-time event-history analysis shows that urban women exhibit fertility rates that are, on average, 11% lower than those of rural women, but the effects vary by parity. Differences in urban population traits would augment the effects of urban adaptation itself. Extensions of the analysis point to the operation of a selection effect in rural-to-urban mobility but provide limited evidence for disruption effects. The possibility of further selection of urbanward migrants on unmeasured traits remains. The analysis also demonstrates the utility of an annual life history calendar for collecting such data in the field.",
+  "authors": [
+    {
+      "raw": "White, Michael J.",
+      "family": "White",
+      "given": "Michael J."
+    },
+    {
+      "raw": "Muhidin, Salut",
+      "family": "Muhidin",
+      "given": "Salut"
+    },
+    {
+      "raw": "Andrzejewski, Catherine",
+      "family": "Andrzejewski",
+      "given": "Catherine"
+    },
+    {
+      "raw": "Tagoe, Eva",
+      "family": "Tagoe",
+      "given": "Eva"
+    },
+    {
+      "raw": "Knight, Rodney",
+      "family": "Knight",
+      "given": "Rodney"
+    },
+    {
+      "raw": "Reed, Holly",
+      "family": "Reed",
+      "given": "Holly"
+    }
+  ],
+  "authors_text": "White, Michael J.; Muhidin, Salut; Andrzejewski, Catherine; Tagoe, Eva; Knight, Rodney; Reed, Holly",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0035",
+  "doi_url": "https://doi.org/10.1353/dem.0.0035",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0035",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0035.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

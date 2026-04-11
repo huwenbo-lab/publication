@@ -1,0 +1,35 @@
+{
+  "title": "Measuring Once Twice: An Evaluation of Recalling Attitudes in Survey Research",
+  "abstract": "We compare retrospective attitudinal accounts that were gathered in 2006 to the contemporaneous attitudes people had in 1995 towards euthanasia, homosexuality, and the presence of migrants. We study the usefulness of recalled attitudes for descriptive purposes on the individual level, as well as on the aggregate level, and the value of statistically modelling change with recalled data. We show (i) how accurate retrospective accounts are, (ii) respondents with which characteristics are more accurate in recollecting their 1995 attitude, and (iii) whether causal inferences with recalled accounts of the 1995 attitudes lead to similar results compared to the use of the contemporaneous accounts of the 1995 attitudes. We found evidence for a strong consistency bias, as well as an aggregate trend bias. Furthermore, almost no categories of respondents turned out to make better recollections, except for those who claimed to be more certain. For making causal inferences, recalled attitudes seem promising, as we found few significant differences between the use of recalled attitudes and contemporaneous attitudes in our causal models. This contribution offers important clues for future survey researchers who wish to make use of recalled attitudes.",
+  "authors": [
+    {
+      "raw": "Jaspers, E.",
+      "family": "Jaspers",
+      "given": "E."
+    },
+    {
+      "raw": "Lubbers, M.",
+      "family": "Lubbers",
+      "given": "M."
+    },
+    {
+      "raw": "De Graaf, N. D.",
+      "family": "De Graaf",
+      "given": "N. D."
+    }
+  ],
+  "authors_text": "Jaspers, E.; Lubbers, M.; De Graaf, N. D.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1093/esr/jcn048",
+  "doi_url": "https://doi.org/10.1093/esr/jcn048",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn048",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn048.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "The Population Education Transition Curve: Education Gradients Across Population Exposure to New Health Risks",
+  "abstract": "The salutary effect of formal education on health-risk behaviors and mortality is extensively documented: ceteris paribus, greater educational attainment leads to healthier lives and longevity. Even though the epidemiological evidence has strongly indicated formal education as a leading social vaccine, there is intermittent reporting of counter-education gradients for health-risk behavior and associated outcomes for certain populations during specific periods. How can education have both beneficial and harmful effects on health, and under which contexts do particular effects emerge? It is useful to conceptualize the influence of education as a process sensitive to the nature, timing of entry, and uniqueness of a new pleasurable and desirable lifestyle and/or product (such as smoking) with initially unclear health risks for populations. Developed herein is a hypothesis that the education gradient comprises multiple potent pathways (material, psychological, cognitive) by which health-risk behaviors are influenced, and that there can be circumstances under which pathways act in opposite directions or are differentially suppressed and enhanced. We propose the population education transition (PET) curve as a unifying functional form to predict shifting education gradients across the onset and course of a population's exposure to new health risks and their associated consequences. Then, we estimate PET curves for cases with prior epidemiological evidence of heterogeneous education gradients with health-risk behaviors related to mass-produced cigarettes in China and the United States; saturated fats, sugar, and processed food diets in Latin America; and HIV infection in sub-Saharan Africa. Each offers speculation on interactions between environmental factors during population exposure and education pathways to health-risk behaviors that could be responsible for the temporal dynamics of PET curves. Past epidemiological studies reporting either negative or positive education gradients may not represent contradictory findings as much as come from analyses unintentionally limited to just one part of the PET process. Last, the PET curve formulation offers richer nuances about educational pathways, macro-historical population dynamics, and the fundamental cause of disease paradigm.",
+  "authors": [
+    {
+      "raw": "Baker, David P.",
+      "family": "Baker",
+      "given": "David P."
+    },
+    {
+      "raw": "Smith, William C.",
+      "family": "Smith",
+      "given": "William C."
+    },
+    {
+      "raw": "Munoz, Ismael G.",
+      "family": "Munoz",
+      "given": "Ismael G."
+    },
+    {
+      "raw": "Jeon, Haram",
+      "family": "Jeon",
+      "given": "Haram"
+    },
+    {
+      "raw": "Fu, Tian",
+      "family": "Fu",
+      "given": "Tian"
+    },
+    {
+      "raw": "Leon, Juan",
+      "family": "Leon",
+      "given": "Juan"
+    },
+    {
+      "raw": "Salinas, Daniel",
+      "family": "Salinas",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Horvatek, Renata",
+      "family": "Horvatek",
+      "given": "Renata"
+    }
+  ],
+  "authors_text": "Baker, David P.; Smith, William C.; Munoz, Ismael G.; Jeon, Haram; Fu, Tian; Leon, Juan; Salinas, Daniel; Horvatek, Renata",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0608-9",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0608-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0608-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0608-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

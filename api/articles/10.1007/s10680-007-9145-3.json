@@ -1,0 +1,40 @@
+{
+  "title": "Cause-of-Death Contributions to Educational Inequalities in Mortality in Austria between 1981/1982 and 1991/1992",
+  "abstract": "This article uses census records and deaths records to analyze trends in educational inequalities in mortality for Austrian women and men aged 35-64 years between 1981/1982 and 1991/1992. We find an increasing gradient in mortality by education for circulatory diseases and especially ischaemic heart disease. Respiratory diseases and, in addition for women, cancers showed the opposite trend. Using decomposition analysis, we give evidence that in many cases changes in the age-structure within the 10-year interval had a bigger effect than direct improvements in mortality on the analyzed subpopulations.",
+  "authors": [
+    {
+      "raw": "Rau, Roland",
+      "family": "Rau",
+      "given": "Roland"
+    },
+    {
+      "raw": "Doblhammer, Gabriele",
+      "family": "Doblhammer",
+      "given": "Gabriele"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Zhen, Zhang",
+      "family": "Zhen",
+      "given": "Zhang"
+    }
+  ],
+  "authors_text": "Rau, Roland; Doblhammer, Gabriele; Canudas-Romo, Vladimir; Zhen, Zhang",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2007,
+  "doi": "10.1007/s10680-007-9145-3",
+  "doi_url": "https://doi.org/10.1007/s10680-007-9145-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-007-9145-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-007-9145-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

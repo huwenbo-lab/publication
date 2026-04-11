@@ -1,0 +1,30 @@
+{
+  "title": "Exclusionary Risks on the Transitional Labour Market",
+  "abstract": "The emergent transitional labour market offers new opportunities to workers, while increasing the risk of social exclusion at the same time. This article deals with exclusionary risks on the transitional labour market in the Netherlands. We try to find out whether immigrants bear higher risks than Dutch natives, possibly as a consequence of having fewer transition skills. The data used are from the Sociale Positie en Voorzieningengebruik Allochtonen (‘Social Position and Use of Public Utilities by Migrants’, SPVA) survey for the years 1998 and 2002. Since the analysis of transitions is hindered by lack of panel data, particularly on immigrants, we estimate hazard rate models that take the individuals' labour market history into account. As we do not have direct information on workers' transition skills, we use a decomposition method to control for differences in individual labour market characteristics. The main result of the analyses is that unequal risks exist, but to a different degree for various immigrant groups and with variations per transition type. Transition skills seem less important than human capital characteristics.",
+  "authors": [
+    {
+      "raw": "Veenman, Justus",
+      "family": "Veenman",
+      "given": "Justus"
+    },
+    {
+      "raw": "Bijwaard, Govert E.",
+      "family": "Bijwaard",
+      "given": "Govert E."
+    }
+  ],
+  "authors_text": "Veenman, Justus; Bijwaard, Govert E.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1093/esr/jcr033",
+  "doi_url": "https://doi.org/10.1093/esr/jcr033",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcr033",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcr033.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "How Internal Hiring Affects Occupational Stratification",
+  "abstract": "When employers conduct more internal hiring, does this facilitate upward mobility for low-paid workers or does it protect the already advantaged? To assess the effect of within-employer job mobility on occupational stratification, we develop a framework that accounts for inequality in both rates and payoffs of job changing. Internal hiring facilitates advancement for workers without strong credentials, but it excludes workers at employers with few good jobs to advance into. Analyzing Current Population Survey data, we find that when internal hiring increases in a local labor market, it facilitates upward mobility less than when external hiring increases. When workers in low-paid occupations switch jobs, they benefit more from switching employers than from moving jobs within the same employer. One-third of this difference is due to low-paid workers isolated in industries with few high-paying jobs to transfer into. An occupationally segregated labor market therefore limits the benefits that internal hiring can bring to the workers who most need upward mobility.",
+  "authors": [
+    {
+      "raw": "Wilmers, Nathan",
+      "family": "Wilmers",
+      "given": "Nathan"
+    },
+    {
+      "raw": "Kimball, William",
+      "family": "Kimball",
+      "given": "William"
+    }
+  ],
+  "authors_text": "Wilmers, Nathan; Kimball, William",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab131",
+  "doi_url": "https://doi.org/10.1093/sf/soab131",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab131",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab131.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

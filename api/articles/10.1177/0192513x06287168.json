@@ -1,0 +1,35 @@
+{
+  "title": "A Strategy for Assessing the Impact of Time-Varying Family Risk Factors on High School Dropout",
+  "abstract": "Human behavior is dynamic, influenced by changing situations over time. Yet the impact of the dynamic nature of important explanatory variables on outcomes has only recently begun to be estimated in developmental models. Using a risk factor perspective, this article demonstrates the potential benefits of regressing time-varying outcome measures on time-varying explanatory measures in longitudinal models. The authors apply event history analysis techniques to demonstrate a methodological strategy that accounts for changes over time in two family risk factors for high school graduation. In a sample of 686 low-income youth attending school in an urban district, the authors found that maternal employment status and income are significant predictors of high school graduation only when conceptualized and measured as time-varying influences. The implications for policy and practice and, from a methodological perspective, for the use of time-varying explanatory variables in event models are discussed.",
+  "authors": [
+    {
+      "raw": "Randolph, Karen A.",
+      "family": "Randolph",
+      "given": "Karen A."
+    },
+    {
+      "raw": "Fraser, Mark W.",
+      "family": "Fraser",
+      "given": "Mark W."
+    },
+    {
+      "raw": "Orthner, Dennis K.",
+      "family": "Orthner",
+      "given": "Dennis K."
+    }
+  ],
+  "authors_text": "Randolph, Karen A.; Fraser, Mark W.; Orthner, Dennis K.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2006,
+  "doi": "10.1177/0192513x06287168",
+  "doi_url": "https://doi.org/10.1177/0192513x06287168",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x06287168",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x06287168.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

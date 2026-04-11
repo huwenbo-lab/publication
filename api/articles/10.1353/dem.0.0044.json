@@ -1,0 +1,25 @@
+{
+  "title": "Composition and decomposition in nonmarital fertility",
+  "abstract": "Abstract Ermisch (2009) criticized Gray, Stockard, and Stone (2006), arguing that they incorrectly tested a model positing a nonlinear relationship between the nonmarital fertility ratio and the proportion of unmarried women. I identify a different problem, which is that even if this model were to hold for a particular population, it would not in general hold for subgroups of this population; likewise, were it to hold for subgroups, it would not hold for aggregations of these subgroups.",
+  "authors": [
+    {
+      "raw": "Wu, Lawrence l.",
+      "family": "Wu",
+      "given": "Lawrence l."
+    }
+  ],
+  "authors_text": "Wu, Lawrence l.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0044",
+  "doi_url": "https://doi.org/10.1353/dem.0.0044",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0044",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0044.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

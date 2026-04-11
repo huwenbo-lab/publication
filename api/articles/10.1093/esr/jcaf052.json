@@ -1,0 +1,35 @@
+{
+  "title": "Increasingly polarized? Inequality, prosperity, and perceived socioeconomic conflict in advanced economies (1987-2019)",
+  "abstract": "Previous studies suggest that in more unequal societies, people perceive stronger antagonistic relations between opposing socioeconomic groups. Given that income inequality and social polarization have both been on the rise in most Western democracies, we expand on this body of work by investigating whether changes in macroeconomic fundamentals have triggered changes in perceived socioeconomic conflict. To assess this proposition, we fit hybrid multilevel models using time-series cross-sectional data from 26 countries spanning over three decades (1987-2019). Our evidence shows that rising economic prosperity does not reduce the level of perceived conflict once income inequality is accounted for. In contrast, growing inequality is robustly associated with increased salience of perceived socioeconomic conflict. Findings indicate a sociotropic within effect of income inequality, net of changes in economic prosperity and accounting for contextual confounders and individual-level compositional effects. Our results further suggest that income inequality exacerbates class-based polarization in conflict perceptions: it increases perceived conflict across all groups-except the upper-middle class. Alternative model specifications and extensive robustness checks lend additional support to our argument that the distribution of economic resources has a direct impact on the salience of socioeconomic conflict perceptions.",
+  "authors": [
+    {
+      "raw": "Romo, Cristian Marquez",
+      "family": "Romo",
+      "given": "Cristian Marquez"
+    },
+    {
+      "raw": "Bienstman, Simon",
+      "family": "Bienstman",
+      "given": "Simon"
+    },
+    {
+      "raw": "Gangl, Markus",
+      "family": "Gangl",
+      "given": "Markus"
+    }
+  ],
+  "authors_text": "Romo, Cristian Marquez; Bienstman, Simon; Gangl, Markus",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf052",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf052",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf052",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf052.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

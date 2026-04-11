@@ -1,0 +1,25 @@
+{
+  "title": "Capturing Culture: A New Method to Estimate Exogenous Cultural Effects Using Migrant Populations",
+  "abstract": "We know that culture influences people's behavior. Yet estimating the exact extent of this influence poses a formidable methodological challenge for the social sciences. This is because preferences and beliefs are endogenous, that is, they are shaped by individuals' own experiences and affected by the same macro-structural conditions that constrain their actions. This study introduces a new method to overcome endogeneity problems in the estimation of cultural effects by using migrant populations. This innovative method uses imputed traits, generated from non-migrating equivalents observed at the country of origin, as instruments for immigrants' own cultural traits measured at the country of destination. By construction, imputed traits are exogenous to immigrants' host social environment. The predicted power of imputed traits over observed traits in instrumental-variable estimation captures the non-idiosyncratic component of preferences and beliefs that migrants and non-migrating equivalents share as members of the same national-origin group, that is, their culture. I use this innovative method to estimate the net exogenous impact of traditional values on female labor-force participation in Europe. I find that this impact is much larger than standard regression methods would suggest.",
+  "authors": [
+    {
+      "raw": "Polavieja, Javier G.",
+      "family": "Polavieja",
+      "given": "Javier G."
+    }
+  ],
+  "authors_text": "Polavieja, Javier G.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1177/0003122414562600",
+  "doi_url": "https://doi.org/10.1177/0003122414562600",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122414562600",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122414562600.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

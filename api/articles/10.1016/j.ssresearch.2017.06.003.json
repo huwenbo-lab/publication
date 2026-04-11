@@ -1,0 +1,25 @@
+{
+  "title": "Political democracy, economic liberalization, and macro-sociological models of intergenerational mobility",
+  "abstract": "Building on the previously investigated macro-sociological models which analyze the consequences of economic development, income inequality, and international migration on social mobility, this article studies the specific contextual covariates of intergenerational reproduction of occupational status in post-communist societies. It is theorized that social mobility is higher in societies with democratic political regimes and less liberalized economies. The outlined hypotheses are tested by using micro- and macro-level datasets for 21 post-communist societies which are fitted into multilevel mixed-effects linear regressions. The derived findings suggest that factors specific to transition societies, conventional macro-level variables, and the legacy of the Soviet Union explain variation in intergenerational social mobility, but the results vary depending which birth cohorts survey participants belong to and whether or not they stem from advantaged or disadvantaged social origins. These findings are robust to various alternative data, sample, and method specifications. (C) 2017 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Gugushvili, Alexi",
+      "family": "Gugushvili",
+      "given": "Alexi"
+    }
+  ],
+  "authors_text": "Gugushvili, Alexi",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2017.06.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.06.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.06.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.06.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

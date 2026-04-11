@@ -1,0 +1,30 @@
+{
+  "title": "Population age structure only partially explains the large number of COVID-19 deaths at the oldest ages",
+  "abstract": "BACKGROUND To date, any attention paid to the age shape of COVID-19 deaths has been mostly in relation to understanding the differences in case fatality rates between countries. OBJECTIVE We explore differences in the age distribution of deaths from COVID-19 among six European countries which have old age structures. We do this by way of a cross-country comparison and put forward some reasons for potential differences. METHODS We estimate the distribution of deaths by 10-year age groups and the counterfactual age distribution under the assumption that all populations had the age structure of Italy. For this, we use 10-year age-grouped COVID-19 death counts and the corresponding population exposures for France, Italy, the Netherlands, Germany, Sweden, Spain, and China. RESULTS All included European countries experienced a high proportion of deaths at older ages. The relative proportion of deaths at ages above 90 years is lowest in Italy when compared to the other countries in the study despite Italy having the oldest population in Europe. CONTRIBUTION Population age structure seems essential for understanding COVID-19-related mortality, but other factors may play an important role, particularly at older ages in European populations.",
+  "authors": [
+    {
+      "raw": "Medford, Anthony",
+      "family": "Medford",
+      "given": "Anthony"
+    },
+    {
+      "raw": "Trias-Llimos, Sergi",
+      "family": "Trias-Llimos",
+      "given": "Sergi"
+    }
+  ],
+  "authors_text": "Medford, Anthony; Trias-Llimos, Sergi",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.19",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

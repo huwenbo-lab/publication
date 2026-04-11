@@ -1,0 +1,25 @@
+{
+  "title": "Maximum Likelihood Estimator The Untold Stories, Caveats, and Tips for Application",
+  "abstract": "Advanced statistical models rely on maximum likelihood (ML) estimators to estimate unknown parameters. Given the complexity and highly technical nature of the numerical approaches embedded in ML, textbooks typically offer oversimplified descriptions of ML, omitting important details from the discussion. These untold stories about ML create barriers, anxieties, and uncertainties among users, and increase the risk that poorly informed users might misinterpret study findings. Taking a simple logistic regression as an example, this methodological note describes the basic ideas and detailed steps of running the Newton-Raphson algorithm (i.e., the most popular ML method). An Excel spreadsheet illustrates the iterative procedure that aims to maximize sample likelihood. Implications for discussing the ML procedure, particularly caveats and tips for application, are summarized.",
+  "authors": [
+    {
+      "raw": "Guo, Shenyang",
+      "family": "Guo",
+      "given": "Shenyang"
+    }
+  ],
+  "authors_text": "Guo, Shenyang",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2013,
+  "doi": "10.2753/csa2162-0555450304",
+  "doi_url": "https://doi.org/10.2753/csa2162-0555450304",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2753%2Fcsa2162-0555450304",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2753/csa2162-0555450304.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

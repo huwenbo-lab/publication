@@ -1,0 +1,25 @@
+{
+  "title": "The Goldilocks effect: Convergence in national income distributions, 1990-2015",
+  "abstract": "Recent work shows that national income distributions are converging, with stratified nations becoming more equal and egalitarian countries becoming more unequal. I replicate this finding using more recent data from multiple sources, drawing from 3006 observations across 152 countries from the Standardized World Income Inequality Database (SWIID) and 238 observations across 46 countries from the Luxembourg Income Study (LIS) during the 1990-2015 period. I find that a country's initial Gini is negatively related to subsequent change in the Gini (i.e., beta-convergence), with egalitarian and stratified countries both drifting towards a more moderate level of inequality. I then test several theoretical explanations for this trend, including (1) sectoral transitions, (2) economic development, (3) global diffusion, (4) public sentiment, and (5) statistical bias. Overall, the results are most consistent with the latter two accounts, indicating a public aversion to, and statistical bias against, extreme levels of (in)equality. By contrast, beta-convergence is not explained by sectoral transitions, nor do development or globalization appear to accelerate the process, casting doubt on alternative interpretations. Overall, the findings suggest that scholars should begin to account for convergence dynamics when modeling income distributions within nations.",
+  "authors": [
+    {
+      "raw": "Clark, Rob",
+      "family": "Clark",
+      "given": "Rob"
+    }
+  ],
+  "authors_text": "Clark, Rob",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.01.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.01.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.01.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.01.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

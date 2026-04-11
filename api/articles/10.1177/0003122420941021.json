@@ -1,0 +1,30 @@
+{
+  "title": "New on the Block: Analyzing Network Selection Trajectories in a Prison Treatment Program",
+  "abstract": "Personal network change is largely driven by transitions between the groups and organizations where people spend their day-to-day lives. But, how do entrants choose which relationships to pursue among the numerous possibilities a new environment offers? We expect newcomers will use the same mechanisms as longer-tenured members, although this will take time as they acclimate and form initial relationships that support future ties. Thus, our goal is to understand how the network selection processes used by new organizational members shift in importance as time in the organization grows. We focus on network selection via homophily, propinquity, formal relations, and endogenous network processes. For each mechanism, we distinguish between change in the strength of the mechanism and opportunities to enact the mechanism. We evaluate expected changes using network data from a prison-based therapeutic community (TC). This setting is ideal because the structured nature of TC entry and exit generates regular membership turnover and removes confounds present in studies of more familiar contexts (e.g., schools). Results show that the relative importance of network selection mechanisms varies over tenure, with homophily dominating early on and endogenous network processes catching up later. We discuss implications of these findings for new member socialization and broader patterns of inequality.",
+  "authors": [
+    {
+      "raw": "Schaefer, David R.",
+      "family": "Schaefer",
+      "given": "David R."
+    },
+    {
+      "raw": "Kreager, Derek A.",
+      "family": "Kreager",
+      "given": "Derek A."
+    }
+  ],
+  "authors_text": "Schaefer, David R.; Kreager, Derek A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1177/0003122420941021",
+  "doi_url": "https://doi.org/10.1177/0003122420941021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122420941021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122420941021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

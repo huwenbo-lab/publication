@@ -1,0 +1,30 @@
+{
+  "title": "Unemployment and fertility: The relationship between individual and aggregated unemployment and fertility during 1994-2014 in Norway",
+  "abstract": "BACKGROUND Studies on the unemployment-fertility relationship show divergent and inconclusive findings. OBJECTIVE We aim to investigate the unemployment-fertility relationship by focusing on multiple dimensions of unemployment across 21 years. METHODS Using register data covering the Norwegian population in the period 1994-2014, we apply discrete-time event history analysis to estimate the relative risk of first and higher-order births for men and women by their employment situation and local unemployment levels. RESULTS There is a negative association between individual unemployment and the risk of birth for childless women, childless men, and fathers. For mothers, the association is positive. The negative association is present among childless men and childless women across the included time period of the study, whereas for mothers and fathers it disappeared over time. There is a negative association between municipal unemployment rates and higher-order births, but not first births. A positive association was found in the 1990s for childless men and childless women, but at the turn of the millennium the association became slightly negative. For mothers and fathers, the negative association remains over time but grows weaker and less clear. Our findings also show that individual unemployment matters more for people's fertility behavior than aggregated unemployment and that it matters more for childless individuals' childbearing decisions than for parents'. CONTRIBUTION By investigating the unemployment-fertility relationship using different unemployment measures and a gender perspective, this paper extends our understanding of contemporary fertility dynamics while also checking for potential changes in this relationship across time.",
+  "authors": [
+    {
+      "raw": "Kristensen, Axel Peter",
+      "family": "Kristensen",
+      "given": "Axel Peter"
+    },
+    {
+      "raw": "Lappegard, Trude",
+      "family": "Lappegard",
+      "given": "Trude"
+    }
+  ],
+  "authors_text": "Kristensen, Axel Peter; Lappegard, Trude",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.35",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.35",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.35",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.35.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

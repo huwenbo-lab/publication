@@ -1,0 +1,30 @@
+{
+  "title": "Modelling the demographic impact of HIV/AIDS in South Africa and the likely impact of interventions",
+  "abstract": "This paper describes an approach to incorporating the impact of HIV/AIDS and the effects of HIV/AIDS prevention and treatment programmes into a cohort component projection model of the South African population. The modelled HIV-positive population is d",
+  "authors": [
+    {
+      "raw": "Johnson, Leigh F.",
+      "family": "Johnson",
+      "given": "Leigh F."
+    },
+    {
+      "raw": "Dorrington, Rob",
+      "family": "Dorrington",
+      "given": "Rob"
+    }
+  ],
+  "authors_text": "Johnson, Leigh F.; Dorrington, Rob",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2006,
+  "doi": "10.4054/demres.2006.14.22",
+  "doi_url": "https://doi.org/10.4054/demres.2006.14.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2006.14.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2006.14.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

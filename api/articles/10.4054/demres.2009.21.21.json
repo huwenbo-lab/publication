@@ -1,0 +1,30 @@
+{
+  "title": "Social inequality and HIV-testing",
+  "abstract": "The plan to increase HIV testing is a cornerstone of the international health strategy against the HIV/AIDS epidemic, particularly in sub-Saharan Africa. This paper highlights a problematic aspect of that plan: the reliance on clinic-rather than homebased testing. First, drawing on DHS data from across Africa, we demonstrate the substantial differences in socio-demographic and economic profiles between those who report having ever had an HIV test, and those who report never having had one. Then, using data from a random household survey in rural Malawi, we show that substituting home-based for clinic-based testing may eliminate this source of inequality between those tested and those not tested. This result, which is stable across modeling frameworks, has important implications for accurately and equitably addressing the counseling and treatment programs that comprise the international health strategy against AIDS, and that promise to shape the future trajectory of the epidemic in Africa and beyond.",
+  "authors": [
+    {
+      "raw": "Weinreb, Alexander A.",
+      "family": "Weinreb",
+      "given": "Alexander A."
+    },
+    {
+      "raw": "Stecklov, Guy",
+      "family": "Stecklov",
+      "given": "Guy"
+    }
+  ],
+  "authors_text": "Weinreb, Alexander A.; Stecklov, Guy",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2009,
+  "doi": "10.4054/demres.2009.21.21",
+  "doi_url": "https://doi.org/10.4054/demres.2009.21.21",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2009.21.21",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2009.21.21.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

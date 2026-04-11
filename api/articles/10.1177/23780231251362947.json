@@ -1,0 +1,30 @@
+{
+  "title": "High School Employment and Intergenerational Mobility in Education: A Causal Decomposition Approach in a Period of Widespread Teenage Work",
+  "abstract": "Youth employment has long been posited to have a detrimental impact on educational outcomes and to potentially contribute to the intergenerational association of educational outcomes. The early 1980s in the United States constituted a time when high school employment was especially common, and the routes to gainful employment without a college education were especially more accessible than they are today. Leveraging rich educational data on a nationally representative cohort of 10th graders in 1980, the authors apply recently developed double machine learning–based causal decomposition methods to examine how working while in high school causally links parental educational attainment to children’s educational attainment. The results indicate that working in high school plays little to no role in explaining the intergenerational transmission of educational attainment. Although the authors consistently find evidence that working in 10th grade, particularly working long hours, has a robust negative impact on educational outcomes, there is little variation in the prevalence of working. The authors do find significant heterogeneity in the effect of working on dropout rates for the children of dropouts compared with children whose parents completed high school, indicating that about 10 percent of the gap in dropout rates between these groups can be attributed to differences in the effect of working.",
+  "authors": [
+    {
+      "raw": "Vachuska, Karl",
+      "family": "Vachuska",
+      "given": "Karl"
+    },
+    {
+      "raw": "Rodriguez-Elliott, Stephen",
+      "family": "Rodriguez-Elliott",
+      "given": "Stephen"
+    }
+  ],
+  "authors_text": "Vachuska, Karl; Rodriguez-Elliott, Stephen",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251362947",
+  "doi_url": "https://doi.org/10.1177/23780231251362947",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251362947",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251362947.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

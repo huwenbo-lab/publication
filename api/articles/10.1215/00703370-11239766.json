@@ -1,0 +1,40 @@
+{
+  "title": "Separating Scarring Effect and Selection of Early-Life Exposures With Genetic Data",
+  "abstract": "Causal life course research exam in ing con se quences of early -life expo sures has largely relied on asso ci a tions between early -life envi ron ments and later -life out comes using exogenous environmental shocks. Nonetheless, even with (quasi -)randomized early -life expo sures, these asso ci a tions may reflect not only cau sa tion (scar ring) but also selec tion (i.e., which mem bers are included in data assessing later life). Investigating this selec tion and its impacts on esti mated effects of early -life con di tions has, however, often been ignored because of a lack of pre-expo sure data. This study pro poses an approach for assessing and correcting selec tion, sep a rately from scar ring, using genetic mea sure ments. Because genetic mea sure ments are deter mined at the time of con cep tion, any asso ci a tions with early -life expo sures should be interpreted as selec tion. Using data from the UK Biobank, we find that in utero expo sure to a higher area -level infant mortality rate is associated with genetic predispositions correlated with better educational attain ment and health. These find ings point to the direc tion and mag ni tude of selec tion from this expo sure. Corrections for this selec tion in exam i na tions of effects of expo sure on later edu ca tional attain ment sug gest under es ti mates of 26-74%; effects on other life course out comes also vary across selec tion cor rec tion meth ods.",
+  "authors": [
+    {
+      "raw": "Furuya, Shiro",
+      "family": "Furuya",
+      "given": "Shiro"
+    },
+    {
+      "raw": "Zheng, Fengyi",
+      "family": "Zheng",
+      "given": "Fengyi"
+    },
+    {
+      "raw": "Lu, Qiongshi",
+      "family": "Lu",
+      "given": "Qiongshi"
+    },
+    {
+      "raw": "Fletcher, Jason M.",
+      "family": "Fletcher",
+      "given": "Jason M."
+    }
+  ],
+  "authors_text": "Furuya, Shiro; Zheng, Fengyi; Lu, Qiongshi; Fletcher, Jason M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11239766",
+  "doi_url": "https://doi.org/10.1215/00703370-11239766",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11239766",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11239766.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

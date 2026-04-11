@@ -1,0 +1,30 @@
+{
+  "title": "Why Does Education Matter to Employers in Different Institutional Contexts? A Vignette Study in England and the Netherlands",
+  "abstract": "We study the process by which employers evaluate and interpret information related to the educational background of job applicants in simulated hiring contexts. We focus on England and the Netherlands, countries with very different education systems and labor-market institutions. Using a vignette study, a quasi-experimental technique, we asked employers to rate a series of resumes of hypothetical job applicants that randomly varied on a number of characteristics, including level of education, field of study, grades, study delays, and internships. Our findings suggest that the informational value of these characteristics varies across the two countries: English employers primarily sort applicants based on relative signals of merit such as grades, in line with queuing theory; Dutch employers instead base their ratings on fields of study and occupation-specific degrees, as predicted by human capital and closure theories. The findings from the vignette study are in line with results obtained from a survey administered to the same employers, corroborating the research validity. This study brings the employers' perspective into a field that has mainly tested theoretical arguments about employers' hiring behavior using employee data. From a theoretical point of view, our approach nuances three well-known theories on the relationship between education and job assignment (human capital, queuing, and closure theories), by specifying the scope conditions under which they are more likely to hold. We show that the reason why education matters to employers and the way employers evaluate educational credentials during the hiring process are conditional on institutions.",
+  "authors": [
+    {
+      "raw": "Di Stasio, Valentina",
+      "family": "Di Stasio",
+      "given": "Valentina"
+    },
+    {
+      "raw": "van de Werfhorst, Herman G.",
+      "family": "van de Werfhorst",
+      "given": "Herman G."
+    }
+  ],
+  "authors_text": "Di Stasio, Valentina; van de Werfhorst, Herman G.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sow027",
+  "doi_url": "https://doi.org/10.1093/sf/sow027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

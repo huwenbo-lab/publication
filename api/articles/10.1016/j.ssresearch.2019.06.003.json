@@ -1,0 +1,35 @@
+{
+  "title": "Spousal migration and married adults' psychological distress in rural China: The roles of intimacy, autonomy and responsibility",
+  "abstract": "Spousal separation due to migration is a prevalent phenomenon in the developing world, but its psychological consequences for left-behind partners are largely understudied. Using data from 2010, 2012 and 2014 China Family Panel Studies (CFPS), this paper first examined whether spousal migration causes rural married adults any psychological distress; this finding was then advanced by testing the mechanisms that could potentially explain the linkage between these two variables. Inverse Probability Weighting (IPW) for multivalued treatment effect models and paired Propensity Score Matching (PSM) have been used to correct the potential selection bias of spousal migration. The results show that prolonged spousal separation through migration increases the depressive symptoms of married adults in rural China, and the detrimental effects on left-behind spouses' psychological well-being can be explained by the reduced level of emotional intimacy between husband and wife, and partially by women becoming the master of the household. Considering that being the master of the household is accompanied by elevated stress levels associated with increasing family responsibilities, further examination showed that economic resources can buffer the negative effect associated with being the master of the household when the spouse migrates. However, we did not find that time use is an effective mechanism to link spousal migration and left-behind spouses' well-being.",
+  "authors": [
+    {
+      "raw": "Tong, Yuying",
+      "family": "Tong",
+      "given": "Yuying"
+    },
+    {
+      "raw": "Chen, Feinian",
+      "family": "Chen",
+      "given": "Feinian"
+    },
+    {
+      "raw": "Shu, Binbin",
+      "family": "Shu",
+      "given": "Binbin"
+    }
+  ],
+  "authors_text": "Tong, Yuying; Chen, Feinian; Shu, Binbin",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.06.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.06.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.06.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.06.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

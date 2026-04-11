@@ -1,0 +1,35 @@
+{
+  "title": "Never partnered: A multilevel analysis of lifelong singlehood",
+  "abstract": "BACKGROUND Lifelong singlehood is a comparatively rare demographic phenomenon, averaging about 5% across the European Union. However, levels of lifelong singlehood vary greatly between countries in Europe. What explains this variation? Our main thesis is that it reflects the prevailing norms regarding gender roles. We hypothesize that in societies that have not adapted to women's new roles there will be a greater propensity toward lifelong singlehood, especially among highly educated women. OBJECTIVE We analyze the link between levels of gender egalitarianism and the probability of lifelong singlehood, both overall and by educational attainment. METHODS We apply multilevel modeling to European Social Survey (ESS) and European Values Study (EVS) data collected between 2002 and 2014. We focus on differences in nonpartnering across levels of education. We run separate models for men and women. RESULTS In support of our hypothesis, our analysis reveals an inverse U-shaped relationship between levels of gender equity and the likelihood of lifelong singlehood for women. The association is particularly marked for more highly educated women, while it is linear for low-educated men. CONCLUSIONS Our results suggest that high levels of singlehood are concentrated very much within those societies where traditional gender values have waned but gender egalitarianism remains poorly diffused. Where gender egalitarianism has become normatively dominant, we find higher levels of partnering for better-educated women and for low-educated men. CONTRIBUTION Our study contributes to the limited research on singlehood as well as to the growing body of literature on the demographic consequences of the ongoing revolution in women's roles.",
+  "authors": [
+    {
+      "raw": "Bellani, Daniela",
+      "family": "Bellani",
+      "given": "Daniela"
+    },
+    {
+      "raw": "Esping-Andersen, Gosta",
+      "family": "Esping-Andersen",
+      "given": "Gosta"
+    },
+    {
+      "raw": "Nedoluzhko, Lesia",
+      "family": "Nedoluzhko",
+      "given": "Lesia"
+    }
+  ],
+  "authors_text": "Bellani, Daniela; Esping-Andersen, Gosta; Nedoluzhko, Lesia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.4",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

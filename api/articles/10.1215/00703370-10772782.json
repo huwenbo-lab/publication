@@ -1,0 +1,40 @@
+{
+  "title": "Probabilistic County-Level Population Projections",
+  "abstract": "Population pro jec tions pro vide pre dic tions of future pop u la tion sizes for an area. Historically, most population projections have been produced using deterministic or sce nario-based approaches and have not assessed uncer tainty about future pop u la tion change. Starting in 2015, how ever, the United Nations (UN) has pro duced prob a bi lis tic pop u la tion pro jec tions for all countries using a Bayes ian approach. There is also con sid-erable interest in subnational probabilistic population projections, but the UN's national approach can not be used directly for this pur pose, because within-coun try cor re la tions in fer til ity and mor tal ity are gen er ally larger than between-coun try ones, migra tion is not constrained in the same way, and there is a need to account for col lege and other spe cial pop u la tions, par tic u larly at the county level. We pro pose a Bayes ian method for producing subnational population projections, including migration and accounting for col lege pop u la tions, by build ing on but mod i fy ing the UN approach. We illus trate our approach by apply ing it to the counties of Washington State and com par ing the results with extant deterministic projections produced by Washington State demographers. Out-of-sam ple exper i ments show that our method gives accu rate and well-calibrated fore casts and fore cast inter vals. In most cases, our inter vals were narrower than the growth-based inter vals issued by the state, par tic u larly for shorter time hori zons.",
+  "authors": [
+    {
+      "raw": "Yu, Crystal C. Y.",
+      "family": "Yu",
+      "given": "Crystal C. Y."
+    },
+    {
+      "raw": "Sevcikova, Hana",
+      "family": "Sevcikova",
+      "given": "Hana"
+    },
+    {
+      "raw": "Raftery, Adrian E.",
+      "family": "Raftery",
+      "given": "Adrian E."
+    },
+    {
+      "raw": "Curran, Sara R.",
+      "family": "Curran",
+      "given": "Sara R."
+    }
+  ],
+  "authors_text": "Yu, Crystal C. Y.; Sevcikova, Hana; Raftery, Adrian E.; Curran, Sara R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10772782",
+  "doi_url": "https://doi.org/10.1215/00703370-10772782",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10772782",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10772782.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

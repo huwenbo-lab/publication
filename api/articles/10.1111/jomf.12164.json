@@ -1,0 +1,30 @@
+{
+  "title": "Gene-Environment Interplay: Where We Are, Where We Are Going",
+  "abstract": "The idea that both genetic and environmental influences contribute to behavioral outcomes is widely accepted. However, the practice of examining candidate GenexEnvironment interaction (cGxE) is controversial. In this article, we summarize some of the key issues involved in cGxE research and provide recommendations for work in this area. Highlighted challenges include the selection of the gene, the development of the cGxE hypothesis, and the coding of the genotype. To address these challenges and gain confidence in cGxE findings, we recommend using empirical data to select and code genes/variants, using theory to develop cGxE hypotheses and a rigorous and transparent approach to hypothesis testing. Family researchers have much to offer to the study of GenexEnvironment research in view of their process-oriented theories that are grounded in decades of nuanced measurement of the environment; implementing these best practices will help deliver on that promise.",
+  "authors": [
+    {
+      "raw": "Salvatore, Jessica E.",
+      "family": "Salvatore",
+      "given": "Jessica E."
+    },
+    {
+      "raw": "Dick, Danielle M.",
+      "family": "Dick",
+      "given": "Danielle M."
+    }
+  ],
+  "authors_text": "Salvatore, Jessica E.; Dick, Danielle M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12164",
+  "doi_url": "https://doi.org/10.1111/jomf.12164",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12164",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12164.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Effects of Demographic and Retirement-Age Policies on Future Pension Deficits, with an Application to China",
+  "abstract": "A simple method is proposed for projecting future deficits in a defined benefit or defined contribution pension scheme. The annual pension deficit rate is expressed in terms of the elderly dependency ratio (determined by demographic factors), the average retirement age, and a few parameters describing the scheme. An illustrative application to China demonstrates that if the average age at retirement gradually increases from the current low level to age 65 for both men and women in 2050, the annual pension deficit rate would be greatly reduced or even eliminated under various plausible demographic regimes over this period. With all else equal, a transition to a two-child policy (assuming this would raise fertility) would also lower the deficit rate in comparison to keeping the current fertility policy unchanged, although the effect would be seen only after 2030. The effect of potentially faster mortality decline in raising future deficits is appreciable and starts earlier than the effects of fertility change. The proposed method may also be used to gauge the magnitudes and timing of impacts on future pension deficits of alternative assumptions regarding levels and age/sex composition of international migration.",
+  "authors": [
+    {
+      "raw": "Zeng, Yi",
+      "family": "Zeng",
+      "given": "Yi"
+    }
+  ],
+  "authors_text": "Zeng, Yi",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2011,
+  "doi": "10.1111/j.1728-4457.2011.00434.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2011.00434.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2011.00434.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2011.00434.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

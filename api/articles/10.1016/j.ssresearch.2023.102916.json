@@ -1,0 +1,40 @@
+{
+  "title": "Adolescent friendship, cross-sexuality ties, and attitudes toward sexual minorities: A social network approach to intergroup contact",
+  "abstract": "Social ties between members of in- and outgroups are theorized to reduce individual levels of prejudice. However, instances of intergroup contact are not isolated events; cross-group interactions are embedded in broader networks defined by various social processes that guide the formation and maintenance of interpersonal relationships. This project reconsiders the potential benefits of intergroup contact by applying a network perspective to examine whether friendships between youth of different sexualities can shape individuals' homophobic attitudes. The impact of cross-sexuality ties is evaluated through the application of stochastic actor-oriented models (SAOMs) to a two-wave sample of Dutch adolescents. Results indicate that the benefits of crosssexuality connections become negligible when we account for how patterns of network connectivity and segregation are informed by other individual-level traits, such as age, religious background, ethnicity, and gender. In other words, heterosexual adolescents who are situated in network positions that provide opportunities to form cross-sexuality friendships would be expected to report less homophobic attitudes even in the absence of this intergroup contact. These findings suggest that the cross-sexuality contact observed in the social world often represents instances of preaching to the choir, limiting the potential for intergroup connections to challenge systems of social inequality.",
+  "authors": [
+    {
+      "raw": "McMillan, Cassie",
+      "family": "McMillan",
+      "given": "Cassie"
+    },
+    {
+      "raw": "Craig, Brandon",
+      "family": "Craig",
+      "given": "Brandon"
+    },
+    {
+      "raw": "la Roi, Chaim",
+      "family": "la Roi",
+      "given": "Chaim"
+    },
+    {
+      "raw": "Veenstra, Rene",
+      "family": "Veenstra",
+      "given": "Rene"
+    }
+  ],
+  "authors_text": "McMillan, Cassie; Craig, Brandon; la Roi, Chaim; Veenstra, Rene",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102916",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102916",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102916",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102916.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Selective Enrollment Public Schools and District-Level Achievement Outcomes from 3rd to 8th Grade",
+  "abstract": "Fierce local debates throughout the United States surround the equity of admitting students to public schools using academic criteria. Although research has evaluated the central assumption of these debates—that Selective Enrollment Public (SEP) schools enhance the welfare of students who attend them—none has addressed the district-level outcomes associated with these schools. This is important because the selectivity and scope of SEP schools produce tiered school systems (SEP districts). This district-level process, in turn, calls for an analysis of district-level achievement outcomes. To address this gap, I compile an original list of SEP schools using an innovative web scraping procedure. I combine these data with newly available district-level measures of third to eighth grade achievement from the Stanford Education Data Archive. Analyses follow a difference-in-differences design, using grade level as the longitudinal dimension. This approach facilitates a falsification test, using future treated districts, to reject spurious causation. I find evidence of overall slower growth in mean math achievement in SEP districts and for white, black, and Latinx racial/ethnic groups separately. SEP districts also see an increase in the white–Latinx math achievement gap. This work highlights the importance of considering SEP schools as part of a differentiated school system.",
+  "authors": [
+    {
+      "raw": "Irwin, Véronique",
+      "family": "Irwin",
+      "given": "Véronique"
+    }
+  ],
+  "authors_text": "Irwin, Véronique",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2020,
+  "doi": "10.15195/v7.a5",
+  "doi_url": "https://doi.org/10.15195/v7.a5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv7.a5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v7.a5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

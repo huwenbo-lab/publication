@@ -1,0 +1,40 @@
+{
+  "title": "Visualizing the Spatial Distribution of Energy Insecurity in the United States",
+  "abstract": "Prior to 2020, little was known about how energy insecurity varies across U.S. states. The recent release of energy insecurity data from the Energy Information Administration facilitates the exploration of energy insecurity at the state level using the Residential Energy Consumption Survey. In this visualization, the authors use choropleth maps to show spatial variation in (1) forgoing basic necessities such as food or medicine to pay an energy bill and (2) keeping the home at an unhealthy temperature. Both are strategies used by households to prevent energy insecurity. The visualization highlights the state-level prevalence of each indicator.",
+  "authors": [
+    {
+      "raw": "Laird, Jennifer",
+      "family": "Laird",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Cello, Mateo",
+      "family": "Cello",
+      "given": "Mateo"
+    },
+    {
+      "raw": "Mena, Allen",
+      "family": "Mena",
+      "given": "Allen"
+    },
+    {
+      "raw": "Hernández, Diana",
+      "family": "Hernández",
+      "given": "Diana"
+    }
+  ],
+  "authors_text": "Laird, Jennifer; Cello, Mateo; Mena, Allen; Hernández, Diana",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231205209",
+  "doi_url": "https://doi.org/10.1177/23780231231205209",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231205209",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231205209.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

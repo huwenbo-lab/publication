@@ -1,0 +1,25 @@
+{
+  "title": "Inequality Preservation through Uneven Diffusion of Cultural Materials across Stratified Groups",
+  "abstract": "Inequality between groups is frequently maintained through the construction and legitimation of inter-group cultural differences. I draw on Blau's multiform heterogeneity and complex contagion models to theorize and develop a relational mechanism that shows how inequality can be preserved when additional, new bases of differentiating between groups layer over existing ones. I investigate the conditions under which variations in the distribution of the population across stratified groups and homophily of social networks along the stratifying attribute interact in such a way that a belief/practice diffuses widely in one group but not the other-an outcome referred to as differential diffusion. I also analyze how size of ego networks and adoption thresholds affect differential diffusion. Using mathematical and agent-based models, I find a positive correlation between adoption thresholds and homophily: when social networks are highly homophilous (e.g., race and socioeconomic class), uneven diffusion of non-normative behavior reproduces inequality; inclusive networks (e.g., in diverse city schools), in contrast, reestablish inequality through differential diffusion of low-risk behavior. This suggests that cultivating diversity is likely to mitigate inequality preservation in conservative situations where adoption of new beliefs/practices needs considerable affirmation. Encouraging status-based solidarity is more appropriate in receptive contexts where adoption of new behaviors entails comparatively lower risk. The results also imply that analyses of diffusion need to be sensitive to contextual factors, including homophily, cultural institutionalization of the diffusing material, and population distribution. Finally, I extend Ridgeway's seminal work to show how relational structure can not only construct status hierarchies but also contribute to their symbolic maintenance.",
+  "authors": [
+    {
+      "raw": "Gondal, Neha",
+      "family": "Gondal",
+      "given": "Neha"
+    }
+  ],
+  "authors_text": "Gondal, Neha",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sou101",
+  "doi_url": "https://doi.org/10.1093/sf/sou101",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou101",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou101.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Geographical distance between child and parent after a union dissolution in Sweden, 1974-2011",
+  "abstract": "BACKGROUND Divorce is associated with a weakened relationship between the child and the nonresident parent, usually the father. This loss of contact is likely to be even further exacerbated if this parent lives at a substantial distance from the child. OBJECTIVE This paper analyzes how the distance between children and nonresident parents, the year after a parental separation, has changed during a 40-year period in Sweden, and whether this is related to changes in child custody policies. METHODS We use Swedish population register data that includes exact geographical coordinates for children and their nonresident parents in the year after separation. We analyze how average distance and the likelihood of living very close to, or very far from, a nonresident parent has changed over this period, using OLS and logistic regression models. RESULTS Results show a gradual decrease in the distance between children and nonresident parents from the 1970s until the early 1990s, after which the trend stalled at a low level. In 2011, 50% of all children lived within 2 kilometers of their nonresident parent. We find no evidence of direct policy effects, indicated by any sudden changes in distance after the introduction of a new custody policy. High-income parents have changed their post -divorce residential patterns at a faster pace than low-income parents. CONCLUSIONS Our results indicate a diffusion process where distances between children and nonresident parents gradually decreased until the 1990s. CONTRIBUTION This paper demonstrates that the change has not been directly influenced by custody law reforms promoting dual parent responsibility.",
+  "authors": [
+    {
+      "raw": "Turunen, Jani",
+      "family": "Turunen",
+      "given": "Jani"
+    },
+    {
+      "raw": "Branden, Maria",
+      "family": "Branden",
+      "given": "Maria"
+    },
+    {
+      "raw": "Lundstrom, Karin",
+      "family": "Lundstrom",
+      "given": "Karin"
+    }
+  ],
+  "authors_text": "Turunen, Jani; Branden, Maria; Lundstrom, Karin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.17",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

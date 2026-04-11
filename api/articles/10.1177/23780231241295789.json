@@ -1,0 +1,35 @@
+{
+  "title": "Within-Respondent Alignment between Single-Choice and Mark-All-That-Apply Survey Measures for Sexual Identity",
+  "abstract": "With the rising disclosure of LGBTQ+ identities, there have been increasing efforts to capture inclusive sexual identity data. Commonly used survey measures are closed ended and single choice (i.e., “select one”) and may be restrictive for sexuality- and gender-diverse respondents. However, more expansive measures may be unwieldy to survey takers and analysts. In this data visualization, the authors compare single-choice and mark-all-that-apply measures for sexual identity. Using survey data ( n = 2,511) fielded in the United States and United Kingdom in 2022, the authors analyze within-respondent alignment of a single-choice measure and an expansive mark-all-that-apply measure for sexual identity. Responses were considered “aligned” when respondents provided identical information across both measures. Overall, alignment was 89 percent in the full sample, with the highest rate of alignment occurring among straight respondents. With the mark-all-that-apply measure, 3 percent of the sample selected multiple identities, and about 2 percent selected identities not found in the commonly used single-choice measure.",
+  "authors": [
+    {
+      "raw": "Pai, Dashram",
+      "family": "Pai",
+      "given": "Dashram"
+    },
+    {
+      "raw": "Zhu, Yan Zhen",
+      "family": "Zhu",
+      "given": "Yan Zhen"
+    },
+    {
+      "raw": "Pao, Christina",
+      "family": "Pao",
+      "given": "Christina"
+    }
+  ],
+  "authors_text": "Pai, Dashram; Zhu, Yan Zhen; Pao, Christina",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241295789",
+  "doi_url": "https://doi.org/10.1177/23780231241295789",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241295789",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241295789.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

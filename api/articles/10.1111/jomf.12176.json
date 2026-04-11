@@ -1,0 +1,35 @@
+{
+  "title": "Effect of Marriage and Spousal Criminality on Recidivism",
+  "abstract": "The authors analyzed whether the effect of marriage on recidivism varied by spousal criminality. For this purpose, they used propensity score matching and full population data from Statistics Denmark on all unmarried and previously convicted men from birth cohorts 1965-1985 (N=102,839). The results showed that marriage reduced recidivism compared to nonmarriage only when the spouse had no criminal record. Similarly, marriage to a nonconvicted spouse reduced recidivism significantly more than marriage to a convicted spouse. These findings not only underline how important marriage is for social integration but also stress the heterogeneous nature of the protective effects of marriage.",
+  "authors": [
+    {
+      "raw": "Andersen, Signe Hald",
+      "family": "Andersen",
+      "given": "Signe Hald"
+    },
+    {
+      "raw": "Andersen, Lars Hojsgaard",
+      "family": "Andersen",
+      "given": "Lars Hojsgaard"
+    },
+    {
+      "raw": "Skov, Peer Ebbesen",
+      "family": "Skov",
+      "given": "Peer Ebbesen"
+    }
+  ],
+  "authors_text": "Andersen, Signe Hald; Andersen, Lars Hojsgaard; Skov, Peer Ebbesen",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12176",
+  "doi_url": "https://doi.org/10.1111/jomf.12176",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12176",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12176.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Is Cost of Living Related to Living Alone Among Older Persons? Evidence From the Elder Economic Security Standard Index",
+  "abstract": "This study examines whether the cost of living is related to the probability of living alone among unmarried persons age 65 years and older in the United States. Cost of living is measured at the metropolitan area level by the Elder Economic Security Standard Index, which takes into account geographic variability in cost of housing, food, transportation, and medical care. Using multilevel modeling, we find that higher cost of living is related to a lower likelihood of living alone net of personal resources. Results also show that the gap in the likelihood of living alone between high- and low-income older adults is slightly lessened in low-cost metropolitan areas. We conclude that the price of “purchasing privacy” is substantially higher in some metropolitan areas than in others. These findings inform policies designed to help older adults age in place.",
+  "authors": [
+    {
+      "raw": "Mutchler, Jan E.",
+      "family": "Mutchler",
+      "given": "Jan E."
+    },
+    {
+      "raw": "Lyu, Jiyoung",
+      "family": "Lyu",
+      "given": "Jiyoung"
+    },
+    {
+      "raw": "Xu, Ping",
+      "family": "Xu",
+      "given": "Ping"
+    },
+    {
+      "raw": "Burr, Jeffrey A.",
+      "family": "Burr",
+      "given": "Jeffrey A."
+    }
+  ],
+  "authors_text": "Mutchler, Jan E.; Lyu, Jiyoung; Xu, Ping; Burr, Jeffrey A.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2015,
+  "doi": "10.1177/0192513x15606773",
+  "doi_url": "https://doi.org/10.1177/0192513x15606773",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x15606773",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x15606773.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

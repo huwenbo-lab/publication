@@ -1,0 +1,25 @@
+{
+  "title": "Unhealthy Assimilation or Compositional Differences? Disentangling Immigrants' Mental Health Trajectories with Residence Duration",
+  "abstract": "Studies have often found that recent immigrants have better mental health than natives, whereas established immigrants have no such advantage. This could be interpreted as evidence for immigrants' mental health deteriorating with residence duration-the unhealthy assimilation hypothesis. However, the methods used in the literature are unfit to assess whether the mental health differences between recent and established immigrants are due to individual-level deterioration in mental health, compositional differences between immigration cohorts, or selective remigration. This is because previous studies mostly rely on cross-sectional data, incur in overcontrol bias, and/or fail to disentangle variation with time since arrival from variation with age or between cohorts. In this article, I propose a novel analytical strategy to test the unhealthy assimilation hypothesis. Using fixed- and random-effect regressions stratified by immigrants' age at arrival and data from waves 1-11 of the UK household longitudinal study, I find no evidence that immigrants' mental health deteriorates with time since arrival: immigrants' mental health trajectories are in line with natives' trajectories with age, and the cross-sectional finding of more established immigrants having worse mental health is driven by differences between individuals who migrated at different times.",
+  "authors": [
+    {
+      "raw": "Brunori, Claudia",
+      "family": "Brunori",
+      "given": "Claudia"
+    }
+  ],
+  "authors_text": "Brunori, Claudia",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12642",
+  "doi_url": "https://doi.org/10.1111/padr.12642",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12642",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12642.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

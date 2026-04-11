@@ -1,0 +1,40 @@
+{
+  "title": "Foreclosure migration and neighborhood outcomes: Moving toward segregation and disadvantage",
+  "abstract": "The US housing crisis during the late 2000s was arguably the most devastating residential disaster of the last century, sending millions of families into foreclosure and destroying billions in household wealth. An understudied aspect of the crisis was the spike in local migration that followed the foreclosure surge. In this paper, we assess the residential consequences of these moves, by exploring how foreclosure-induced migration affected the racial and socioeconomic composition of affected families' neighborhoods. To do so, we use the Panel Study of Income Dynamics to track foreclosure, migration, and neighborhood outcomes for samples of white, black, and Hispanic homeowners. Findings from our analysis show clearly that foreclosure was linked to migration to less white and more residentially disadvantaged neighborhoods, with foreclosed Hispanic householders, in particular, tending to move to poorer and more racially isolated neighborhoods.",
+  "authors": [
+    {
+      "raw": "Hall, Matthew",
+      "family": "Hall",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    },
+    {
+      "raw": "Spring, Amy",
+      "family": "Spring",
+      "given": "Amy"
+    },
+    {
+      "raw": "Gabriel, Ryan",
+      "family": "Gabriel",
+      "given": "Ryan"
+    }
+  ],
+  "authors_text": "Hall, Matthew; Crowder, Kyle; Spring, Amy; Gabriel, Ryan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2017.11.006",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.11.006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.11.006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.11.006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

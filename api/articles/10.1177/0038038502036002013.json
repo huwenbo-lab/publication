@@ -1,0 +1,105 @@
+{
+  "title": "Book Reviews",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Mills, David",
+      "family": "Mills",
+      "given": "David"
+    },
+    {
+      "raw": "Shildrick, Margrit",
+      "family": "Shildrick",
+      "given": "Margrit"
+    },
+    {
+      "raw": "Smithson, Janet",
+      "family": "Smithson",
+      "given": "Janet"
+    },
+    {
+      "raw": "Williams, Malcolm",
+      "family": "Williams",
+      "given": "Malcolm"
+    },
+    {
+      "raw": "Roberts, Brian",
+      "family": "Roberts",
+      "given": "Brian"
+    },
+    {
+      "raw": "Sharma, Ursula",
+      "family": "Sharma",
+      "given": "Ursula"
+    },
+    {
+      "raw": "Hunt, Alan",
+      "family": "Hunt",
+      "given": "Alan"
+    },
+    {
+      "raw": "Gane, Nicholas",
+      "family": "Gane",
+      "given": "Nicholas"
+    },
+    {
+      "raw": "Thomas, Martin",
+      "family": "Thomas",
+      "given": "Martin"
+    },
+    {
+      "raw": "Wilkinson, Iain",
+      "family": "Wilkinson",
+      "given": "Iain"
+    },
+    {
+      "raw": "Croall, Hazel",
+      "family": "Croall",
+      "given": "Hazel"
+    },
+    {
+      "raw": "Roberts, Ken",
+      "family": "Roberts",
+      "given": "Ken"
+    },
+    {
+      "raw": "Daly, Mary",
+      "family": "Daly",
+      "given": "Mary"
+    },
+    {
+      "raw": "Cresswell, Tim",
+      "family": "Cresswell",
+      "given": "Tim"
+    },
+    {
+      "raw": "Ford, David",
+      "family": "Ford",
+      "given": "David"
+    },
+    {
+      "raw": "Dunning, Eric",
+      "family": "Dunning",
+      "given": "Eric"
+    },
+    {
+      "raw": "Zack-Williams, Alfred",
+      "family": "Zack-Williams",
+      "given": "Alfred"
+    }
+  ],
+  "authors_text": "Mills, David; Shildrick, Margrit; Smithson, Janet; Williams, Malcolm; Roberts, Brian; Sharma, Ursula; Hunt, Alan; Gane, Nicholas; Thomas, Martin; Wilkinson, Iain; Croall, Hazel; Roberts, Ken; Daly, Mary; Cresswell, Tim; Ford, David; Dunning, Eric; Zack-Williams, Alfred",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2002,
+  "doi": "10.1177/0038038502036002013",
+  "doi_url": "https://doi.org/10.1177/0038038502036002013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038502036002013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038502036002013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

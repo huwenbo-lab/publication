@@ -1,0 +1,35 @@
+{
+  "title": "Pre-COVID-19 Geographic Inequalities in Non-Hispanic Black US Life Expectancy, 1990-2019",
+  "abstract": "In recent years, US life expectancy has stagnated relative to other developed countries and geographic inequalities in mortality within the United States have widened. Much of the recent literature has focused on non-Hispanic White mortality. Less attention has been devoted to non-Hispanic Black mortality independent of Black-White disparities. In this paper, we examine trends in non-Hispanic Black male and female life expectancy between 1990 and 2019 by metropolitan category and region/division, including age group and cause-of-death contributions to these trends. We document considerable geographic divergence in life expectancy over time with the largest improvements in large central and large fringe metropolitan areas and the smallest improvements in small/medium metros and nonmetropolitan areas. We also document sizable differences across regions, with the largest gains in the Northeast and the South Atlantic region and the smallest in other parts of the South and the Midwest. Most gains were achieved by 2010 with stagnating or declining life expectancies thereafter. We find particularly adverse trends in the Midwest after 2010 where Black life expectancies declined in all metro categories. We provide a discussion of the potential explanatory factors and call for greater attention to the study of non-Hispanic Black mortality.",
+  "authors": [
+    {
+      "raw": "Elo, Irma T.",
+      "family": "Elo",
+      "given": "Irma T."
+    },
+    {
+      "raw": "Luck, Anneliese N.",
+      "family": "Luck",
+      "given": "Anneliese N."
+    },
+    {
+      "raw": "Tuder, Sylvie",
+      "family": "Tuder",
+      "given": "Sylvie"
+    }
+  ],
+  "authors_text": "Elo, Irma T.; Luck, Anneliese N.; Tuder, Sylvie",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70018",
+  "doi_url": "https://doi.org/10.1111/padr.70018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

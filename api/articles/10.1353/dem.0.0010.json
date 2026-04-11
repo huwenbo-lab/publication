@@ -1,0 +1,25 @@
+{
+  "title": "Population change and farm dependence: Temporal and spatial variation in the U.S. great plains, 1900–2000",
+  "abstract": "Abstract I investigate the relationship between county population change and farm dependence in the Great Plains region during the twentieth century, using spatial data analysis techniques. This research is rooted in a long-standing sociological and demographic interest in population responses to economic transitions and informs the theoretical understanding of urbanization processes. Using census and environmental data, the analysis challenges earlier assertions of a simple transition in the relationship between farm dependence and population change that accompanied modern technological advancements, namely tractors (the mechanization thesis). Rather than observing the proposed positive-to-negative shift, study results show a negative association throughout the pre- and post-mechanization periods. Partial support is found if the thesis is revised to consider the relationship between population change and the change in farm dependence rather than the level of farm dependence. Findings show mixed support for an alternative argument that nonfarm industries moderate the in_ uence of farm dependence (the industry complex thesis). In contrast to earlier applications of the thesis, industrial relations in the Great Plains context are characterized by specialization rather than cooperation.",
+  "authors": [
+    {
+      "raw": "Curtis White, Katherine J.",
+      "family": "Curtis White",
+      "given": "Katherine J."
+    }
+  ],
+  "authors_text": "Curtis White, Katherine J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0010",
+  "doi_url": "https://doi.org/10.1353/dem.0.0010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

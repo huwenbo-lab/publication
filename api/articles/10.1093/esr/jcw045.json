@@ -1,0 +1,30 @@
+{
+  "title": "Finding a Job: The Role of the Neighbourhood for Different Household Configurations over the Life Course",
+  "abstract": "The field of neighbourhood effects studies on individual socio-economic outcomes has two main shortcomings. Most studies (i) ignore the impact of the neighbourhood on the duration of inactivity and timing of entering the labour market and, (ii) disregard the heterogeneity of these neighbourhood effects for different household configurations over the life course. Yet, it is likely that the neighbourhood influences its residents in heterogeneous ways. This study analyses the differential impact of the neighbourhood on the individual transition rates from inactivity to work from a life course perspective. It applies a discrete time event history analysis with unique individual-level population panel data from 2004 to 2011 in the Netherlands, covering a random sample of over 30,000 individuals with changes in employment status, household position, and neighbourhoods over time. The models suggest that residing in a deprived neighbourhood only hampers the transition to work for women, above and beyond their individual characteristics and household resources, as well as that this association hinges on their household composition: our findings show that only for partnered mothers with the youngest child below 4 years and single mothers with the youngest child between 4 and 12 years a higher level of neighbourhood deprivation results in a statistically significant reduction in the odds of making the transition to work. These conditional neighbourhood effects reveal unexplored mechanisms and generate different kinds of policy implications from the ones we usually see.",
+  "authors": [
+    {
+      "raw": "Miltenburg, Emily M.",
+      "family": "Miltenburg",
+      "given": "Emily M."
+    },
+    {
+      "raw": "van de Werfhorst, Herman G.",
+      "family": "van de Werfhorst",
+      "given": "Herman G."
+    }
+  ],
+  "authors_text": "Miltenburg, Emily M.; van de Werfhorst, Herman G.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcw045",
+  "doi_url": "https://doi.org/10.1093/esr/jcw045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcw045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcw045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "STEM Education",
+  "abstract": "Improving science, technology, engineering, and mathematics (STEM) education, especially for traditionally disadvantaged groups, is widely recognized as pivotal to the United States's long-term economic growth and security. In this article, we review and discuss current research on STEM education in the United States, drawing on recent research in sociology and related fields. The reviewed literature shows that different social factors affect the two major components of STEM education attainment: (a) attainment of education in general, and (b) attainment of STEM education relative to non-STEM education conditional on educational attainment. Cognitive and social-psychological characteristics matter for both components, as do structural influences at the family, neighborhood, school, and broader cultural levels. However, whereas commonly used measures of socioeconomic status (SES) predict the attainment of general education, social-psychological factors are more important influences on participation and achievement in STEM versus non-STEM education. Domestically, disparities by family SES, race, and gender persist in STEM education. Internationally, American students lag behind those in some countries with fewer economic resources. Explanations for group disparities within the United States and the mediocre international ranking of US student performance require more research, a task that is best accomplished through interdisciplinary approaches.",
+  "authors": [
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    },
+    {
+      "raw": "Fang, Michael",
+      "family": "Fang",
+      "given": "Michael"
+    },
+    {
+      "raw": "Shauman, Kimberlee",
+      "family": "Shauman",
+      "given": "Kimberlee"
+    }
+  ],
+  "authors_text": "Xie, Yu; Fang, Michael; Shauman, Kimberlee",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2015,
+  "doi": "10.1146/annurev-soc-071312-145659",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-071312-145659",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-071312-145659",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-071312-145659.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

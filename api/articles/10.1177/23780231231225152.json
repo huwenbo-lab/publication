@@ -1,0 +1,25 @@
+{
+  "title": "Who Represents Asian American in Mainstream Newspapers",
+  "abstract": "Who counts as Asian Americans? Previous research with survey data shows that South Asian Americans are less likely to be recognized as Asian Americans compared with East Asian Americans. Using a national news dataset, this visualization presents annual trends in the mentions of three subethnicities (East Asian, South Asian, and Southeast Asian) when discussing Asian Americans from 1977 to 2022. East Asians are the most likely to be mentioned when discussing Asian Americans compared with South Asians and Southeast Asians. The patterns are consistent over time. This suggests that such disparity among Asian subethnic groups is institutionalized in news media.",
+  "authors": [
+    {
+      "raw": "Lin, Hao",
+      "family": "Lin",
+      "given": "Hao"
+    }
+  ],
+  "authors_text": "Lin, Hao",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231231225152",
+  "doi_url": "https://doi.org/10.1177/23780231231225152",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231225152",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231225152.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

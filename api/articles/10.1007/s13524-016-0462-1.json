@@ -1,0 +1,35 @@
+{
+  "title": "Intimate Partner Violence in the Great Recession",
+  "abstract": "In the United States, the Great Recession was marked by severe negative shocks to labor market conditions. In this study, we combine longitudinal data from the Fragile Families and Child Wellbeing Study with U.S. Bureau of Labor Statistics data on local area unemployment rates to examine the relationship between adverse labor market conditions and mothers' experiences of abusive behavior between 2001 and 2010. Unemployment and economic hardship at the household level were positively related to abusive behavior. Further, rapid increases in the unemployment rate increased men's controlling behavior toward romantic partners even after we adjust for unemployment and economic distress at the household level. We interpret these findings as demonstrating that the uncertainty and anticipatory anxiety that go along with sudden macroeconomic downturns have negative effects on relationship quality, above and beyond the effects of job loss and material hardship.",
+  "authors": [
+    {
+      "raw": "Schneider, Daniel",
+      "family": "Schneider",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Harknett, Kristen",
+      "family": "Harknett",
+      "given": "Kristen"
+    },
+    {
+      "raw": "McLanahan, Sara",
+      "family": "McLanahan",
+      "given": "Sara"
+    }
+  ],
+  "authors_text": "Schneider, Daniel; Harknett, Kristen; McLanahan, Sara",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0462-1",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0462-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0462-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0462-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

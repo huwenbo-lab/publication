@@ -1,0 +1,25 @@
+{
+  "title": "Multidimensional Mortality Selection: Why Individual Dimensions of Frailty Don't Act Like Frailty",
+  "abstract": "Theoretical models of mortality selection have great utility in explaining otherwise puzzling phenomena. The most famous example may be the Black-White mortality crossover: at old ages, Blacks outlive Whites, presumably because few frail Blacks survive to old ages while some frail Whites do. Yet theoretical models of unidimensional heterogeneity, or frailty, do not speak to the most common empirical situation for mortality researchers: the case in which some important population heterogeneity is observed and some is not. I show that, when one dimension of heterogeneity is observed and another is unobserved, neither the observed nor the unobserved dimension need behave as classic frailty models predict. For example, in a multidimensional model, mortality selection can increase the proportion of survivors who are disadvantaged, or frail, and can lead Black survivors to be more frail than Whites, along some dimensions of disadvantage. Transferring theoretical results about unidimensional heterogeneity to settings with both observed and unobserved heterogeneity produces misleading inferences about mortality disparities. The unusually flexible behavior of individual dimensions of multidimensional heterogeneity creates previously unrecognized challenges for empirically testing selection models of disparities, such as models of mortality crossovers.",
+  "authors": [
+    {
+      "raw": "Wrigley-Field, Elizabeth",
+      "family": "Wrigley-Field",
+      "given": "Elizabeth"
+    }
+  ],
+  "authors_text": "Wrigley-Field, Elizabeth",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00858-8",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00858-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00858-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00858-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

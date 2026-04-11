@@ -1,0 +1,40 @@
+{
+  "title": "Greater mortality variability in the United States in comparison with peer countries",
+  "abstract": "BACKGROUND Over the past several decades, US mortality declines have lagged behind other high-income countries. However, scant attention has been devoted to how US mortality variability compares with other countries. OBJECTIVE We examine trends in mortality and mortality variability in the US and 16 peer countries from 1980 through 2016. METHODS We employ the Human Mortality Database and demographic techniques - with a focus on patterns in the interquartile (IQR), interdecile (IDR), and intercentile (ICR) ranges of survivorship - to better understand US mortality and mortality variability trends in comparative perspective. RESULTS Compared to other high-income countries, the US: (1) mortality ranking has slipped for nearly all age groups; (2) is losing its old age mortality advantage; (3) has seen growth in relative age-specific mortality gaps from infancy through midlife; and (4) exhibits greater concentrations of deaths from infancy through adulthood, resulting in much greater mortality variability. CONCLUSIONS We contribute to calls for renewed attention to the relatively low and lagging US life expectancy. The ICR draws particular attention to the comparatively high US early and midlife mortality. CONTRIBUTION We find comparatively high variability in US mortality. Further reductions in early and midlife mortality could diminish variability, reduce years of potential life lost, and increase life expectancy. Consistent with previous research, we encourage policymakers to focus on reducing the unacceptably high early and midlife mortality in the US. And we urge researchers to more frequently monitor and track mortality variation in conjunction with mortality rates and life expectancy estimates.",
+  "authors": [
+    {
+      "raw": "Rogers, Richard G.",
+      "family": "Rogers",
+      "given": "Richard G."
+    },
+    {
+      "raw": "Hummer, Robert A.",
+      "family": "Hummer",
+      "given": "Robert A."
+    },
+    {
+      "raw": "Vinneau, Justin M.",
+      "family": "Vinneau",
+      "given": "Justin M."
+    },
+    {
+      "raw": "Lawrence, Elizabeth M.",
+      "family": "Lawrence",
+      "given": "Elizabeth M."
+    }
+  ],
+  "authors_text": "Rogers, Richard G.; Hummer, Robert A.; Vinneau, Justin M.; Lawrence, Elizabeth M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.36",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.36",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.36",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.36.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

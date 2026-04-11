@@ -1,0 +1,30 @@
+{
+  "title": "Internal migration and the de-standardization of the life course: A sequence analysis of reasons for migrating",
+  "abstract": "BACKGROUND The life-course perspective has become one of the main paradigms in migration research, providing a rich and fruitful framework for understanding migration behavior. Despite a large literature on the association between internal migration and life-course transitions, little effort has been made to understand the impact of increasing diversity in the life-course trajectory of young adults on heterogeneity in migration behavior. OBJECTIVES To address this gap, this paper seeks to establish intra-and inter-cohort variation in the occurrence, order, and timing of reasons for migrating among young adults. METHODS We apply sequence and cluster analysis to self-reported reasons for migrating collected from 2002 to 2019 as part of the Household Income and Labour Dynamics in Australia (HILDA) survey and follow two cohorts of young adults born between 1982-1984 and 1990-1992 over 10 years. We distinguish between education, employment, family, housing, amenity, lifestyle, and health migration. RESULTS Sequence analysis reveals diversity in individual migration trajectories, shaped by the number and timing of migrations and the type of reason. Intra-cohort variation is manifested by the delineation of five distinct migration clusters, while inter-cohort change is most visible in the growing share of young adults that follow diverse and delayed migration trajectories. CONCLUSIONS Sequence analysis is a promising tool to advance understanding of migration behavior, which can now find greater usage thanks to the maturation of longitudinal surveys. CONTRIBUTION Analyzing migration histories over a sustained period reveals greater heterogeneity in migration behavior than focusing on single migration events. This reinforces the importance of conceptualizing and analyzing migration as a life-course trajectory that unfolds over time.",
+  "authors": [
+    {
+      "raw": "Bernard, Aude",
+      "family": "Bernard",
+      "given": "Aude"
+    },
+    {
+      "raw": "Kalemba, Sunganani",
+      "family": "Kalemba",
+      "given": "Sunganani"
+    }
+  ],
+  "authors_text": "Bernard, Aude; Kalemba, Sunganani",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.12",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

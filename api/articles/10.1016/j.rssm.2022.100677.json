@@ -1,0 +1,35 @@
+{
+  "title": "States of inequality: Politics, labor, and rising income inequality in the US States since 1950",
+  "abstract": "This paper uses power resource theory to investigate the determinants of rising income inequality in the U.S. states from 1951-2018. Specifically, we analyze how political party control of national- and state-level government, presidential and gubernatorial election cycles, union strength and state right-to-work laws affect the Gini index and the Theil index-two measures that tap middle-class and upper-tail income inequality. A major contribution is to probe more deeply than previous research the historical and regional contingency of these processes by examining contrasting patterns between the Keynesian (1951-1980) and neoliberal (1981-2018) periods and between the Non- South and the South. We conduct three primary analyses. First, we explore the effects of these determinants over the entire period, net of other covariates. Second, we explore historical contingency by investigating how these effects differ during the Keynesian and neoliberal periods. Third, we explore regional contingency by examining differences in effects between the Non-Southern and Southern regions of the country. We find consistent evidence that political and labor power resources matter in the determination of income inequality; moreover, how they matter differs in substantively and theoretically important ways across period and region. We conclude with a discussion of what the results suggest for future developments in U.S. income inequality.",
+  "authors": [
+    {
+      "raw": "Wallace, Michael",
+      "family": "Wallace",
+      "given": "Michael"
+    },
+    {
+      "raw": "Hyde, Allen",
+      "family": "Hyde",
+      "given": "Allen"
+    },
+    {
+      "raw": "Vachon, Todd E.",
+      "family": "Vachon",
+      "given": "Todd E."
+    }
+  ],
+  "authors_text": "Wallace, Michael; Hyde, Allen; Vachon, Todd E.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100677",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100677",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100677",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100677.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Radius of Trust: Religion, Social Embeddedness and Trust in Strangers",
+  "abstract": "Data from the 2002 Religion and Public Activism Survey were used to examine relationships among measures of religious orientation, embeddedness in social networks and the level of trust individuals direct toward others. Results from ordered logistic regression analysis demonstrate that Catholics and members of other denominations show significantly less trust in strangers than mainline Protestants, while older persons and those who are more trusting of acquaintances show greater trust. Although measures of personal religiosity and activity within a congregation show no statistically significant relationship to trust once important controls are taken into account, measures of embeddedness within secular social networks do.",
+  "authors": [
+    {
+      "raw": "Welch, M. R.",
+      "family": "Welch",
+      "given": "M. R."
+    },
+    {
+      "raw": "Sikkink, D.",
+      "family": "Sikkink",
+      "given": "D."
+    },
+    {
+      "raw": "Loveland, M. T.",
+      "family": "Loveland",
+      "given": "M. T."
+    }
+  ],
+  "authors_text": "Welch, M. R.; Sikkink, D.; Loveland, M. T.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2007,
+  "doi": "10.1353/sof.2007.0116",
+  "doi_url": "https://doi.org/10.1353/sof.2007.0116",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2007.0116",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2007.0116.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Cohort Trends in the Association Between Sibship Size and Educational Attainment in 26 Low-Fertility Countries",
+  "abstract": "Children with many siblings have lower average educational attainment compared with children raised in smaller families, and this disadvantage by sibship size has been observed across many countries. We still know remarkably little, however, about how sibship size disadvantage has changed within countries and how such trends vary across countries. Using comparative data from 111 surveys from 26 low-fertility countries, we find an overall trend of growing sibship size disadvantage across cohorts in the majority of countries: between the 1931-1940 birth cohort and the 1971-1980 birth cohort, 16 of 26 countries showed a statistically significant increase in sibship size disadvantage in education, while only two countries showed a significant reduction in sibship size disadvantage. The disadvantage in years of education associated with having an additional sibling increased remarkably in post-socialist (0.3) and East Asian countries (0.34) and, to a lesser extent, Western European countries (0.2). In contrast, this disadvantage showed little change in Nordic countries (0.05) and even decreased in Anglo-Saxon countries (-0.11). We discuss explanations and implications of our comparative evidence in the context of the intergenerational transmission of education.",
+  "authors": [
+    {
+      "raw": "Choi, Seongsoo",
+      "family": "Choi",
+      "given": "Seongsoo"
+    },
+    {
+      "raw": "Taiji, Riley",
+      "family": "Taiji",
+      "given": "Riley"
+    },
+    {
+      "raw": "Chen, Manting",
+      "family": "Chen",
+      "given": "Manting"
+    },
+    {
+      "raw": "Monden, Christiaan",
+      "family": "Monden",
+      "given": "Christiaan"
+    }
+  ],
+  "authors_text": "Choi, Seongsoo; Taiji, Riley; Chen, Manting; Monden, Christiaan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00885-5",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00885-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00885-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00885-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

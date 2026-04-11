@@ -1,0 +1,30 @@
+{
+  "title": "The intergenerational transmission of migration capital: The role of family migration history and lived migration experiences",
+  "abstract": "BACKGROUND Growing empirical evidence shows that the decision to migrate is influenced by parents' international migration experiences, with the second generation being more likely to migrate than individuals with no migration background. However, the factors underpinning this intergenerational transmission of migration behaviour remain poorly understood. OBJECTIVES This study extends existing evidence in two main ways. First, it assesses the relative contribution of two transmission pathways: family migration history and lived childhood migration experiences. Second, it considers both the probability of migrating as an adult and the direction of migration (onward versus return migration). METHODS We apply survival analysis to retrospective survey data for baby boomers who were born in or migrated to any of 15 European countries during childhood and track their first international migration in adulthood. RESULTS Family migration history facilitates adult life migration, particularly when both parents migrated. Living in a foreign country as a child is more conducive to adult life migration than family migration history alone. For individuals born in the survey country, childhood migration experiences enable the acquisition of both general and location-specific migration capital, whereas for members of the 1.5 generation, these experiences mainly lead to location-specific migration capital. CONTRIBUTION Building on these initial findings, we refine the concept of migration capital as a set of general and location-specific attitudes, skills, and resources that accumulate within and across generations through family migration history and lived migration experiences, and that facilitate future migration by altering individuals' perceptions of migration's monetary and non-monetary costs and benefits. Further empirical testing is required to generalise this concept.",
+  "authors": [
+    {
+      "raw": "Bernard, Aude",
+      "family": "Bernard",
+      "given": "Aude"
+    },
+    {
+      "raw": "Perales, Francisco",
+      "family": "Perales",
+      "given": "Francisco"
+    }
+  ],
+  "authors_text": "Bernard, Aude; Perales, Francisco",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.29",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

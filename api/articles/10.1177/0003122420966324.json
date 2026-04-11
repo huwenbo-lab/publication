@@ -1,0 +1,35 @@
+{
+  "title": "The Variability of Occupational Attainment: How Prestige Trajectories Diversified within Birth Cohorts over the Twentieth Century",
+  "abstract": "This study develops and applies a framework for analyzing variability in individuals' occupational prestige trajectories and changes in average variability between birth cohorts. It extends previous literature focused on typical patterns of intragenerational mobility over the life course to more fully examine intracohort differentiation. Analyses are based on rich life course data for men and women in West Germany born between 1919 and 1979 from the German Life History Study and the German National Educational Panel Study (N = 16,854 individuals). Mixed-effects growth-curve models with heterogeneous variance components are applied. Results show that birth cohorts systematically differ in their variability; cohorts who entered the labor market in the late 1950s and 1960s and experienced mostly closed employment relations have exceptionally homogenous trajectories. Earlier and later cohorts, who experienced more open employment relations, are more heterogeneous in their trajectories. Cohorts with higher variability at labor market entry are characterized by persistently strong intracohort differentiation. Women's variability within employment is similar to men's but markedly increases once employment interruptions are considered.",
+  "authors": [
+    {
+      "raw": "Lersch, Philipp M.",
+      "family": "Lersch",
+      "given": "Philipp M."
+    },
+    {
+      "raw": "Schulz, Wiebke",
+      "family": "Schulz",
+      "given": "Wiebke"
+    },
+    {
+      "raw": "Leckie, George",
+      "family": "Leckie",
+      "given": "George"
+    }
+  ],
+  "authors_text": "Lersch, Philipp M.; Schulz, Wiebke; Leckie, George",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1177/0003122420966324",
+  "doi_url": "https://doi.org/10.1177/0003122420966324",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122420966324",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122420966324.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

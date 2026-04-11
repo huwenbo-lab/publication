@@ -1,0 +1,30 @@
+{
+  "title": "Cultural capital and educational strategies. Shaping boundaries between groups of students with homologous cultural behaviours",
+  "abstract": "Rather than assessing its causal effect on educational attainment, the authors of this article aim to use the concept of cultural capital to define a huge, complex and interconnected collection of educational and school strategies adopted by students and families and to examine the way that these strategies are related to school inequalities. Data analysed come from the 2009 Italian survey for the Program for International Student Assessment run by the OECD. A Latent Class Regression Analysis has been applied to categorize four groups of individuals who share specific cultural habits, educational dispositions and choices, and social status; in short, the four groups differentiate individuals with a different endowment of the intangible asset, cultural capital. Moreover, using the socio-economic status as a covariate we link the latent class membership probability with individuals' social standing and, consequently school choices.",
+  "authors": [
+    {
+      "raw": "Pitzalis, Marco",
+      "family": "Pitzalis",
+      "given": "Marco"
+    },
+    {
+      "raw": "Porcu, Mariano",
+      "family": "Porcu",
+      "given": "Mariano"
+    }
+  ],
+  "authors_text": "Pitzalis, Marco; Porcu, Mariano",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2017,
+  "doi": "10.1080/01425692.2016.1205968",
+  "doi_url": "https://doi.org/10.1080/01425692.2016.1205968",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2016.1205968",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2016.1205968.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

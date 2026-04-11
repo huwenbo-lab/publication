@@ -1,0 +1,25 @@
+{
+  "title": "Labor Unions as Activist Organizations: A Union Power Approach to Estimating Union Wage Effects",
+  "abstract": "A mid the long decline of US unions, research on union wage effects has struggled with selection problems and inadequate theory. I draw on the sociology of labor to argue that unions use non-market sources of power to pressure companies into raising wages. This theory of union power implies a new test of union wage effects: does union activism have an effect on wages that is not reducible to workers' market position? Two institutional determinants of union activity are used to empirically isolate the wage effect of union activism from labor market conditions: increased union revenue from investment shocks and increased union activity leading up to union officer elections. Instrumental variable analysis of panel data from the Department of Labor shows that a 1 percent increase in union spending increases a proxy for union members' wages between 0.15 percent and 0.30 percent. These wage effects are larger in years of active collective bargaining, and when unions increase spending in ways that could pressure companies. The results indicate that non-market sources of union power can affect workers' wages and that even in a period of labor weakness unions still play a role in setting wages for their members.",
+  "authors": [
+    {
+      "raw": "Wilmers, Nathan",
+      "family": "Wilmers",
+      "given": "Nathan"
+    }
+  ],
+  "authors_text": "Wilmers, Nathan",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sow108",
+  "doi_url": "https://doi.org/10.1093/sf/sow108",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow108",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow108.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

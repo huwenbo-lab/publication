@@ -1,0 +1,30 @@
+{
+  "title": "Hispanic Segregation in Metropolitan America: Exploring the Multiple Forms of Spatial Assimilation",
+  "abstract": "This article investigates patterns of spatial assimilation of Hispanics in U.S. metropolitan areas. Using restricted-use data from the 2000 Census, we calculate Hispanics' levels of residential segregation by race and nativity and then estimate multivariate models to examine the association of group characteristics with these patterns. To obtain a more nuanced view of spatial assimilation, we use alternative reference groups in the segregation calculations-Anglos, African Americans, and Hispanics not of the same race. We find that Hispanics experience multiple and concurrent forms of spatial assimilation across generations: U.S.-born White, Black, and other-race Hispanics tend to be less segregated from Anglos, African Americans, and US.-born Hispanics not of the same race than are the foreign-born of the respective groups. We find some exceptions, suggesting that race continues to influence segregation despite the general strength of assimilation-related factors: Black Hispanics display high levels of segregation from Anglos, and U.S.-born Black Hispanics are no less segregated from other Hispanic groups than are their foreign-born counterparts.",
+  "authors": [
+    {
+      "raw": "Iceland, John",
+      "family": "Iceland",
+      "given": "John"
+    },
+    {
+      "raw": "Nelson, Kyle Anne",
+      "family": "Nelson",
+      "given": "Kyle Anne"
+    }
+  ],
+  "authors_text": "Iceland, John; Nelson, Kyle Anne",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1177/000312240807300503",
+  "doi_url": "https://doi.org/10.1177/000312240807300503",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240807300503",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240807300503.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

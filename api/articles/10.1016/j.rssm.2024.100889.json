@@ -1,0 +1,35 @@
+{
+  "title": "The lasting earnings losses of COVID-19 short-time work",
+  "abstract": "This study is the first to investigate the impact of short-time work (STW) schemes during the COVID-19 pandemic on earnings after STW. STW schemes were implemented to preserve employee-employer matches, support workers' incomes, and uphold consumption. Although workers faced temporary earnings losses under STW, it is unclear if the negative earnings effects of STW persisted or were limited to the STW spell. Therefore, this study uses a dynamic difference-in-difference (DiD) identification strategy with administrative data to identify any lasting STW effects on earnings. This approach accounts for factors that influenced worker selection into STW and tests for heterogeneous effects across subgroups of workers. We find lasting earnings losses that persisted beyond the STW participation itself. Most importantly, these earnings losses depended on the duration of STW exposure, with greater negative effects being more prominent in cases of long-term or recurring STW spells. Lasting, post-STW earnings losses tended to be more pronounced for white-collar jobs, while the largest losses were observed among men with blue-collar jobs whose STW spells exceeded one year.",
+  "authors": [
+    {
+      "raw": "Vogtenhuber, Stefan",
+      "family": "Vogtenhuber",
+      "given": "Stefan"
+    },
+    {
+      "raw": "Steiber, Nadia",
+      "family": "Steiber",
+      "given": "Nadia"
+    },
+    {
+      "raw": "Muehlboeck, Monika",
+      "family": "Muehlboeck",
+      "given": "Monika"
+    }
+  ],
+  "authors_text": "Vogtenhuber, Stefan; Steiber, Nadia; Muehlboeck, Monika",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100889",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100889",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100889",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100889.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

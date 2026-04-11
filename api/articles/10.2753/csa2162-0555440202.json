@@ -1,0 +1,25 @@
+{
+  "title": "The Household Registration System and Rural-Urban Educational Inequality in Contemporary China",
+  "abstract": "This article examines the effect on educational inequality in contemporary China of the household registration (hukou) system, based on which Chinese citizens were designated as having either rural or urban status and entitled to different life chances. Analyses of data from a national representative survey in 2005 consistently reveal a significant educational gap between people of different hukou status, even after controlling for other covariates. Furthermore, to rule out the selectivity effect of hukou assignment based on education, endogenous switching regression models are employed to demonstrate a causal impact of hukou status on educational attainment. The article thus calls for attention to be paid to the hukou institution in studying educational stratification and the reassessment of the role of the socialist state in generating social inequality in contemporary China.",
+  "authors": [
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    }
+  ],
+  "authors_text": "Wu, Xiaogang",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2011,
+  "doi": "10.2753/csa2162-0555440202",
+  "doi_url": "https://doi.org/10.2753/csa2162-0555440202",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2753%2Fcsa2162-0555440202",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2753/csa2162-0555440202.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

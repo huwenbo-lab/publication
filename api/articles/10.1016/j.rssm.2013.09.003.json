@@ -1,0 +1,35 @@
+{
+  "title": "Age at childbearing over two generations and grandchildren's cognitive achievement",
+  "abstract": "We examine whether grandparents' and parents' ages at birth are associated with grandchildren's early cognitive achievement, and whether grandparents' or parents' socioeconomic status, health, and marital status mediate those associations. Our analysis is based on data from the Panel Study of Income Dynamics and its Child Development Supplement. A grandparent's age at the birth of their own children is robustly and positively associated with grandchildren's verbal achievement, but not with grandchildren's applied mathematics achievement, after controlling for parents' age at the grandchild's birth. The associations are similar in magnitude for grandmothers and grandfathers. A variety of indicators of social class in the grandparent and parent generations did not mediate this age effect. However, many of those indicators of grandparents' social class were directly or indirectly related to grandchildren's achievement.(C) 2013 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Fomby, Paula",
+      "family": "Fomby",
+      "given": "Paula"
+    },
+    {
+      "raw": "Krueger, Patrick M.",
+      "family": "Krueger",
+      "given": "Patrick M."
+    },
+    {
+      "raw": "Wagner, Nicole M.",
+      "family": "Wagner",
+      "given": "Nicole M."
+    }
+  ],
+  "authors_text": "Fomby, Paula; Krueger, Patrick M.; Wagner, Nicole M.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2014,
+  "doi": "10.1016/j.rssm.2013.09.003",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2013.09.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2013.09.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2013.09.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

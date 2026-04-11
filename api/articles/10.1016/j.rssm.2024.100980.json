@@ -1,0 +1,35 @@
+{
+  "title": "Disentangling genetic and social pathways of the intergenerational transmission of cognitive ability - A nuclear twin family study",
+  "abstract": "As cognitive ability accounts for large parts of the intergenerational transmission of advantage, it is crucial to understand the mechanisms driving the intergenerational transmission of cognitive ability itself. Social mobility research usually focuses on social mechanisms of intergenerational transmission. For the case of cognitive ability, this means that parental cognitive ability affects offspring ability via the family environment. However, parents do not only provide resources, but also pass their genes to their children. As social and genetic transmission are not mutually exclusive, it is crucial to disentangle the contribution of both to the intergenerational transmission of cognitive ability. Using data from the German TwinLife survey, we apply a nuclear twin family design to address this question. Using data from all four twin birth cohorts, covering an age range of 5-25 years, we further explore whether the contribution of both mechanisms varies over the life course. For all four cohorts, in any of the estimated models, social transmission is very small and not significant. Genetic transmission, in turn, seems to be the primary mechanisms of intergenerational transmission of cognitive ability and becomes increasingly important with age. Our findings challenge conventional social mobility perspectives, stressing the need to incorporate genetic transmission into sociological research for a more comprehensive understanding of intergenerational transmission of advantage.",
+  "authors": [
+    {
+      "raw": "Wolfram, Tobias",
+      "family": "Wolfram",
+      "given": "Tobias"
+    },
+    {
+      "raw": "Ruks, Mirko",
+      "family": "Ruks",
+      "given": "Mirko"
+    },
+    {
+      "raw": "Spinath, Frank M.",
+      "family": "Spinath",
+      "given": "Frank M."
+    }
+  ],
+  "authors_text": "Wolfram, Tobias; Ruks, Mirko; Spinath, Frank M.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100980",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100980",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100980",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100980.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

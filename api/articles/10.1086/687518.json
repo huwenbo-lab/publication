@@ -1,0 +1,25 @@
+{
+  "title": "Racial Profiling and Use of Force in Police Stops: How Local Events Trigger Periods of Increased Discrimination",
+  "abstract": "Racial profiling and the disproportionate use of police force are controversial political issues. I argue that racial bias in the use of force increases after relevant events such as the shooting of a police officer by a black suspect. To examine this argument, I design a quasi experiment using data from 3.9 million time and geocoded pedestrian stops in New York City. The findings show that two fatal shootings of police officers by black suspects increased the use of police force against blacks substantially in the days after the shootings. The use of force against whites and Hispanics, however, remained unchanged, and there is no evidence for an effect of two other police murders by a white and Hispanic suspect. Aside from the importance for the debate on racial profiling and police use of force, this research reveals a general set of processes where events create intergroup conflict, foreground stereotypes, and trigger discriminatory responses.",
+  "authors": [
+    {
+      "raw": "Legewie, Joscha",
+      "family": "Legewie",
+      "given": "Joscha"
+    }
+  ],
+  "authors_text": "Legewie, Joscha",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2016,
+  "doi": "10.1086/687518",
+  "doi_url": "https://doi.org/10.1086/687518",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F687518",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/687518.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

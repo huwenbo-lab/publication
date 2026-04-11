@@ -1,0 +1,30 @@
+{
+  "title": "Experimental Evidence of Discrimination in the Labour Market: Intersections between Ethnicity, Gender, and Socio-Economic Status",
+  "abstract": "This article presents evidence of ethnic discrimination in the recruitment process from a field experiment conducted in the Danish labour market. In a correspondence experiment, fictitious job applications were randomly assigned either a Danish or Middle Eastern-sounding name and sent to real job openings. In addition to providing evidence on the extent of ethnic discrimination in the Danish labour market, the study offers two novel contributions to the literature more generally. First, because a majority of European correspondence experiments have relied solely on applications with male aliases, there is limited evidence on the way gender and ethnicity interact across different occupations. By randomly assigning gender and ethnicity, this study suggests that ethnic discrimination is strongly moderated by gender: minority males are consistently subject to a much larger degree of discrimination than minority females across different types of occupations. Second, this study addresses a key critique of previous correspondence experiments by examining the potential confounding effect of socio-economic status related to the names used to represent distinct ethnic groups. The results support the notion that differences in callbacks are caused exclusively by the ethnic traits.",
+  "authors": [
+    {
+      "raw": "Dahl, Malte",
+      "family": "Dahl",
+      "given": "Malte"
+    },
+    {
+      "raw": "Krog, Niels",
+      "family": "Krog",
+      "given": "Niels"
+    }
+  ],
+  "authors_text": "Dahl, Malte; Krog, Niels",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy020",
+  "doi_url": "https://doi.org/10.1093/esr/jcy020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Special times? How COVID-specific concerns disrupted fertility desires in the United States during the COVID-19 pandemic",
+  "abstract": "BACKGROUND Despite growing research on fertility during COVID-19, the precise mechanisms underlying fertility responses to the pandemic remain poorly understood. OBJECTIVE We specifically focus on COVID-19 mitigation policies and the health implications of COVID-19. We examine whether disruptions in fertility desires during COVID-19 can be attributed to material and emotional hardships-comparable to those observed in other crises-or if they are uniquely linked to broader concerns specific to the pandemic itself. METHODS We used original data from a nationally representative longitudinal survey on well-being during COVID-19 in the United States (N = 2,433). We first conducted exploratory factor analysis to examine the underlying relationships between various views related to the COVID-19 pandemic. Then we employed multinomial logistic regression and linear regression models to examine how COVID-specific concerns and hardships were associated with fertility desires in late 2020 and late 2021. RESULTS Material and emotional hardships were associated with less stable fertility desires in late 2020 and late 2021. However, generalized concerns related to the pandemic, including restrictions of daily activities due to social distancing and worries about contracting and spreading the virus, were associated with a decrease in fertility desires in late 2020, even after accounting for hardships. Suggestive evidence shows that these COVID-specific concerns remained negatively associated with fertility desires in late 2021. CONCLUSIONS Beyond material and emotional hardships brought by COVID-19, concerns surrounding the pandemic itself may have had a distinct impact on fertility desires.",
+  "authors": [
+    {
+      "raw": "Yang, Yining Milly",
+      "family": "Yang",
+      "given": "Yining Milly"
+    },
+    {
+      "raw": "Kao, Grace",
+      "family": "Kao",
+      "given": "Grace"
+    }
+  ],
+  "authors_text": "Yang, Yining Milly; Kao, Grace",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.3",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Has protest increased since the 1970s? How a survey question can construct a spurious trend",
+  "abstract": "The literature on political participation asserts that protest has increased over the last four decades, all over the world. This trend is derived from surveys asking questions about participation in various forms of protest, including demonstrations, boycotts, and unofficial strikes. The latter question made sense in the context in which it was formulated, Britain in the early 1970s, and with regard to the original methodological aim, measuring protest potential'. The absence of a generic question on strikes, however, distorts our understanding of protest. Two sources of data on Britain in the 1980s and 1990s - a population survey and an event catalogue - comprehensively measure strikes. They show that strikes greatly outnumbered demonstrations and other forms of protest. Another claim in the literature, that protesters are highly educated, no longer holds once strikes are properly counted. Strikes in Britain, as in many countries, have dramatically declined since the 1980s. This decline more than offsets any increase in demonstrations and boycotts, meaning that the total volume of protest has decreased. The episode illustrates how survey questions, when replicated without scrutiny, can misconstrue social trends.",
+  "authors": [
+    {
+      "raw": "Biggs, Michael",
+      "family": "Biggs",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Biggs, Michael",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2015,
+  "doi": "10.1111/1468-4446.12099",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12099",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12099",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12099.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

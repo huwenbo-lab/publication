@@ -1,0 +1,30 @@
+{
+  "title": "Contraceptive use and lengthening birth intervals in rural and urban Eastern Africa",
+  "abstract": "BACKGROUND The transition towards low fertility has been slow in sub-Saharan Africa. Although increasing numbers of women are now using contraception, levels of unmet need for contraception remain high. And yet the dynamics of fertility are changing: national estimates have documented significant lengthening of birth intervals across the region. OBJECTIVE The aim of this paper is to explore trends in birth interval length by residence in Ethiopia, Kenya, Tanzania, and Zimbabwe, and the role of contraception in these changes. METHODS We conducted a birth interval analysis of fertility using up to six Demographic and Health Surveys from each country. We modelled age-order duration-specific period fertility using Poisson regression and calculated median birth interval lengths from the fitted rates using life-table techniques. RESULTS Birth intervals have lengthened in all four countries, most notably Zimbabwe. Urban populations now have median intervals that exceed 35 months in all four countries. The lengthening of birth intervals is associated with, although not limited to, the use of contraception. In urban areas the median birth interval among ever-users of contraception ranges between 52 and 86 months. CONCLUSIONS The increase in the length of birth intervals in Eastern Africa has been concentrated in urban areas. The trend is most pronounced among contraceptive users, but also results from unreported forms of birth control. It might become even more pronounced if access to contraception were improved. CONTRIBUTION We show that lengthening of birth intervals in Eastern Africa has resulted largely from dramatic increases among urban women and women who have ever used contraception.",
+  "authors": [
+    {
+      "raw": "Towriss, Catriona A.",
+      "family": "Towriss",
+      "given": "Catriona A."
+    },
+    {
+      "raw": "Timaeus, Ian M.",
+      "family": "Timaeus",
+      "given": "Ian M."
+    }
+  ],
+  "authors_text": "Towriss, Catriona A.; Timaeus, Ian M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.64",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.64",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.64",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.64.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

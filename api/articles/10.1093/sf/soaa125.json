@@ -1,0 +1,40 @@
+{
+  "title": "Intergenerational Educational Mobility and Life-Course Income Trajectories in the United States",
+  "abstract": "A theoretical formulation derived from the cumulative advantage literature, that intergenerational educational mobility has enduring life-course income effects above and beyond individuals' education, is empirically tested. This formulation contrasts sharplywith both the human capitalmodel, which does not consider parental education as a determinant of children's income, and the sociological research on social mobility, which mostly relies on a snapshot view to study the economic consequences of educational mobility. To test this theory, we use NLSY79 survey data (with Panel Study of Income Dynamics data serving for robustness checks). We apply growth models to the data to estimate if and how the different intergenerational educational mobility groups that are produced by the intersection of parental and respondent education shape life-course income trajectories. Results provide evidence in support of the argument that the intersection of parental and respondent education bears important long-term income consequences, mainly for men. These results, moreover, do not vary by race. We discuss the theoretical and policy implications of our results.",
+  "authors": [
+    {
+      "raw": "Yaish, Meir",
+      "family": "Yaish",
+      "given": "Meir"
+    },
+    {
+      "raw": "Shiffer-Sebba, Doron",
+      "family": "Shiffer-Sebba",
+      "given": "Doron"
+    },
+    {
+      "raw": "Gabay-Egozi, Limor",
+      "family": "Gabay-Egozi",
+      "given": "Limor"
+    },
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    }
+  ],
+  "authors_text": "Yaish, Meir; Shiffer-Sebba, Doron; Gabay-Egozi, Limor; Park, Hyunjoon",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa125",
+  "doi_url": "https://doi.org/10.1093/sf/soaa125",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa125",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa125.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

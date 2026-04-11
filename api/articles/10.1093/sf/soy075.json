@@ -1,0 +1,30 @@
+{
+  "title": "Horizontal Stratification of Higher Education: The Relative Importance of Field of Study, Institution, and Department for Candidates' Wages",
+  "abstract": "Studies typically find large variation in labor market outcomes not only between educational levels, but also among individuals with a higher education. However, the importance of different types of horizontal divisions in higher education is mostly treated in separate literatures. In this paper, we use multilevel models and an outcome-based approach to investigate the relative importance of institution (college), department, and field of study in the Norwegian labor market. We find that the effects of field of study on wages are generally strong. The overall effects of institution are also quite large, but they emerge to a considerable extent at the level of departments; the effects of institution over and above the effects of department are small. We also show that the effects of horizontal divisions are greater at the graduate than at the undergraduate level, and that the effects of horizontal divisions increase over individuals' work careers.",
+  "authors": [
+    {
+      "raw": "Borgen, Nicolai T.",
+      "family": "Borgen",
+      "given": "Nicolai T."
+    },
+    {
+      "raw": "Mastekaasa, Arne",
+      "family": "Mastekaasa",
+      "given": "Arne"
+    }
+  ],
+  "authors_text": "Borgen, Nicolai T.; Mastekaasa, Arne",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy075",
+  "doi_url": "https://doi.org/10.1093/sf/soy075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

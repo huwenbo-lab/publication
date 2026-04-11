@@ -1,0 +1,30 @@
+{
+  "title": "Organization by Design: Supply- and Demand-side Models of Mathematics Course Taking",
+  "abstract": "Prior work has proposed different theoretical mechanisms to explain students' course-taking patterns in schools. On the one hand, there are oversocialized accounts that claim that rules, social background factors, and supply-side factors shape observed career patterns. On the other hand, there are undersocialized accounts that claim that the decisions of strategic agents and demand-side dynamics shape course-taking careers. In this article, the authors use simulations to illustrate how these theoretical mechanisms can generate course-taking patterns. Grounding the simulations in empirical data on the mathematics course taking of students in two high schools, they assess the relative merits of these competing theories by testing how closely observed and predicted career patterns align. The results reveal that the characteristics of students and the organizational rules and requirements of course-taking career systems render certain allocation mechanisms more salient than others. In particular, highly competitive and structurally constrained systems are shaped by supply dynamics, while less regulated systems of diverse populations are shaped by agent-based decision making.",
+  "authors": [
+    {
+      "raw": "McFarland, Daniel A.",
+      "family": "McFarland",
+      "given": "Daniel A."
+    },
+    {
+      "raw": "Rodan, Simon",
+      "family": "Rodan",
+      "given": "Simon"
+    }
+  ],
+  "authors_text": "McFarland, Daniel A.; Rodan, Simon",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2009,
+  "doi": "10.1177/003804070908200402",
+  "doi_url": "https://doi.org/10.1177/003804070908200402",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070908200402",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070908200402.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

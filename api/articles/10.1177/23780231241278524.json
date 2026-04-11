@@ -1,0 +1,50 @@
+{
+  "title": "Understandings of Culture: A European Bottom-up Study Using Structural Topic Modeling",
+  "abstract": "This exploratory study renders it an open empirical question how ordinary people understand the meaning of culture and what are its sociopolitical implications. Using original survey data from over 11,000 respondents across nine European countries, the study focuses on an open-ended question where the respondents defined the meaning of “culture” in their own words. The open-ended answers are scrutinized by structural topic modeling, which allows for identifying relatively coherent clusters of understandings of culture and their relationships. In addition to examining how these understandings vary across national contexts, the study investigates their variation according to major sociodemographic divisions and sociopolitical and cultural factors in and across the nine European societies through regression methods. The results underscore substantial national variation and social stratification of the understandings of culture and the potential of computational text analysis in open-ended survey research.",
+  "authors": [
+    {
+      "raw": "Sirkka, Ossi",
+      "family": "Sirkka",
+      "given": "Ossi"
+    },
+    {
+      "raw": "Walo, Simon",
+      "family": "Walo",
+      "given": "Simon"
+    },
+    {
+      "raw": "Purhonen, Semi",
+      "family": "Purhonen",
+      "given": "Semi"
+    },
+    {
+      "raw": "Verboord, Marc",
+      "family": "Verboord",
+      "given": "Marc"
+    },
+    {
+      "raw": "Janssen, Susanne",
+      "family": "Janssen",
+      "given": "Susanne"
+    },
+    {
+      "raw": "Bonnet, Philippe",
+      "family": "Bonnet",
+      "given": "Philippe"
+    }
+  ],
+  "authors_text": "Sirkka, Ossi; Walo, Simon; Purhonen, Semi; Verboord, Marc; Janssen, Susanne; Bonnet, Philippe",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241278524",
+  "doi_url": "https://doi.org/10.1177/23780231241278524",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241278524",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241278524.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

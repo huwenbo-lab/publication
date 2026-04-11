@@ -1,0 +1,30 @@
+{
+  "title": "Modeling momentum in gradual demographic transitions",
+  "abstract": "Abstract The analysis of population momentum following a gradual decline in fertility to replacement level provides valuable insights into prospects for future population growth. Here, we extend recent work in the area by applying a new form of the quadratic hyperstable (QH) model, which relates exponentially changing fertility to the resultant exponentiated quadratic birth sequence. Modeling gradual transitions from an initial stable population to an ultimate stationary population indicates that such declines in fertility increase momentum by a product of two factors. The first factor is a previously noted continuation of stable growth for half the period of decline. The second is a not previously appreciated offsetting factor that reflects the interaction between the decline in fertility, the changing age pattern of fertility, and the changing age composition of the population. Numerical examples using both hypothetical and actual populations demonstrate that for declines of any length, the product of the two factors yields momentum values that closely agree with the results of population projections. The QH model can examine monotonic transitions between any two sets of constant vital rates. As a generalization of the fixed-rate stable model, it has great potential value in numerous areas of demographic analysis.",
+  "authors": [
+    {
+      "raw": "Schoen, Robert",
+      "family": "Schoen",
+      "given": "Robert"
+    },
+    {
+      "raw": "Jonsson, Stefan Hrafn",
+      "family": "Jonsson",
+      "given": "Stefan Hrafn"
+    }
+  ],
+  "authors_text": "Schoen, Robert; Jonsson, Stefan Hrafn",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.1353/dem.2003.0040",
+  "doi_url": "https://doi.org/10.1353/dem.2003.0040",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2003.0040",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2003.0040.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

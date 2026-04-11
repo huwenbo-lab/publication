@@ -1,0 +1,30 @@
+{
+  "title": "The (Housing) Complex Web of Race, Ethnicity, Family Structure, and Housing Tenure: An Analysis on Housing Instability Risks and Residential Outcomes",
+  "abstract": "ObjectiveThis study examines associations between family structure and housing tenure with housing stability risk and residential outcomes and further explores how these associations differ by race and ethnicity for married couples and single women.BackgroundExisting literature finds that single women are more likely to experience eviction and poorer residential outcomes post-eviction, with families of color facing more housing inequalities.MethodUsing data from the 2021 American Housing Survey (N = 20,857), this analysis employs bivariate analysis and logistic regression to describe differences in housing stability and residential outcomes by race, ethnicity, family structure, and housing tenure.ResultsHousing instability risk among single women, relative to married couples, is worse in that they are more likely to be unable to pay rent and are more likely to become unhoused, regardless of housing tenure. Renters are also more likely to experience lower neighborhood quality. Congruent with previous literature, racial and ethnic differences remain pervasive especially among subgroups of married homeowners, married renters, single-women homeowners, and single-women renters. For example, Black single-women homeowners and renters significantly face more housing risk and poorer residential outcomes, relative to their white counterparts.ConclusionWe find predominant support for the place stratification model as the interrelated impacts of race, ethnicity, marital status, and homeownership on residential stability and attainment are nuanced. Significant housing disparities are faced by mostly Black and some Hispanic households, especially among single women.",
+  "authors": [
+    {
+      "raw": "Gan, Kimberly",
+      "family": "Gan",
+      "given": "Kimberly"
+    },
+    {
+      "raw": "McCarthy, Sarah",
+      "family": "McCarthy",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Gan, Kimberly; McCarthy, Sarah",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70009",
+  "doi_url": "https://doi.org/10.1111/jomf.70009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

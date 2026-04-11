@@ -1,0 +1,30 @@
+{
+  "title": "Interrelationships Between Childbearing and Housing Transitions in the Family Life Course",
+  "abstract": "AbstractResearch has examined the effect of family changes on housing transitions and childbearing patterns within various housing types. Although most research has investigated how an event in one domain of family life depends on the current state in another domain, the interplay between them has been little studied. This study examines the interrelationships between childbearing decisions and housing transitions. We use rich longitudinal register data from Finland and apply multilevel event history analysis to allow for multiple births and housing changes over the life course. We investigate the timing of fertility decisions and housing choices with respect to each other. We model childbearing and housing transitions jointly to control for time-invariant unobserved characteristics of women, which may simultaneously influence their fertility behavior and housing choices, and we show how joint modeling leads to a deeper understanding of the interplay between the two domains of family life.",
+  "authors": [
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    },
+    {
+      "raw": "Steele, Fiona",
+      "family": "Steele",
+      "given": "Fiona"
+    }
+  ],
+  "authors_text": "Kulu, Hill; Steele, Fiona",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0216-2",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0216-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0216-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0216-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

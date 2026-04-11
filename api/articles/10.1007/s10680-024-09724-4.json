@@ -1,0 +1,30 @@
+{
+  "title": "The Effect of Parental Caregiving on the Fertility Expectations of Adult Children",
+  "abstract": "Abstract Previous research has highlighted the positive impact of parents on their adult children's fertility plans through childcare, but the association between parental health and fertility expectations remains unclear. Thus, this paper offers a novel perspective on the issue of family support by investigating how caregiving responsibilities toward elderly parents affect adult children’s decision to have a child. Using a long panel dataset for Australia, we examine whether adult children changed their fertility expectations after becoming care providers to their parents. To address issues of unobserved heterogeneity and selection into parenthood and caregiving, we employ generalized difference-in-differences models. Results show a 7% decrease in fertility expectations within two years of becoming a parental caregiver, with a stronger effect over time, consistent across genders and more pronounced for respondents with one child. These findings suggest that interventions aimed at reducing the caregiver burden could provide an opportunity to positively influence fertility levels.",
+  "authors": [
+    {
+      "raw": "Lazzari, Ester",
+      "family": "Lazzari",
+      "given": "Ester"
+    },
+    {
+      "raw": "Zurla, Valeria",
+      "family": "Zurla",
+      "given": "Valeria"
+    }
+  ],
+  "authors_text": "Lazzari, Ester; Zurla, Valeria",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-024-09724-4",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09724-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09724-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09724-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

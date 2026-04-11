@@ -1,0 +1,35 @@
+{
+  "title": "Late-stage educational inequality: Can selection on noncognitive skills explain waning social background effects?",
+  "abstract": "Past research finds that the effect of socioeconomic origin on the probability of making educational transitions decreases over the educational career from primary to graduate school. Some have argued that this pattern of waning is the result of selective attrition, since those of modest social origins who make a given transition may have exceptional cognitive or noncognitive skills while more advantaged individuals may rely less heavily on these skills to continue their education. We study a sample of American 10th graders from 1980 to assess how much the pattern of waning effects is due to selective attrition along noncognitive skills for this cohort. We find that controlling for noncognitive skills does not make the effect of socioeconomic origin more stable across transitions. Still, socioeconomic advantage does not decline uniformly across transitions, and it appears most pronounced at the transition into college, whether accounting for noncognitive skills or not. Our results suggest that origins continue to drive educational attainment even among those who make it to postsecondary transitions.",
+  "authors": [
+    {
+      "raw": "Smith, Christian Michael",
+      "family": "Smith",
+      "given": "Christian Michael"
+    },
+    {
+      "raw": "Grodsky, Eric",
+      "family": "Grodsky",
+      "given": "Eric"
+    },
+    {
+      "raw": "Warren, John Robert",
+      "family": "Warren",
+      "given": "John Robert"
+    }
+  ],
+  "authors_text": "Smith, Christian Michael; Grodsky, Eric; Warren, John Robert",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2019,
+  "doi": "10.1016/j.rssm.2019.100424",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100424",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100424",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100424.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

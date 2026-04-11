@@ -1,0 +1,35 @@
+{
+  "title": "Examining the relationships between education, coresidential unions, and the fertility gap by simulating the reproductive life courses of Dutch women",
+  "abstract": "BACKGROUND Couples in Europe have fewer children than they intend to, resulting in a gap between intended family size and completed fertility. This is partly because first-pregnancy attempts are postponed to older reproductive ages, when giving birth is more difficult due to the decline in fecundity and increased probability of miscarriage. Modelling educational differences in prevalence, timing, and stability of coresidential unions together with reproductive behaviour and constraints provides us with information on how postponement relates to completed fertility. OBJECTIVE We measure the extent to which changes in education, union events, and physiology change the gap between intended family size and coresidential completed cohort fertility for Dutch women born during 1974-1984. METHODS We perform microsimulations including physiological parameters and detailed information on education and union events. Our model parameters are based on a range of representative data sources, including the Generations and Gender Survey and the Longitudinal Internet studies for the Social Sciences panel. RESULTS Counterfactual simulations revealed that increases in lifelong singlehood increased the fertility gap the most, followed by separation and divorce. Re-partnering rates reduced the gap slightly more than marriage rates. Highly educated women had larger fertility gaps, mainly because they cohabited less and later than low-educated women. CONCLUSIONS Lifelong singlehood and increasing ages at entry into first coresidential union should receive more attention, given their strong positive associations with the fertility gap. CONTRIBUTION We are able to model and measure the degree to which education, unions, and physiology are associated with the gap between intended family size and completed cohort fertility. We advance existing microsimulation fertility models.",
+  "authors": [
+    {
+      "raw": "Granholm, Rolf",
+      "family": "Granholm",
+      "given": "Rolf"
+    },
+    {
+      "raw": "Gauthier, Anne",
+      "family": "Gauthier",
+      "given": "Anne"
+    },
+    {
+      "raw": "Stulp, Gert",
+      "family": "Stulp",
+      "given": "Gert"
+    }
+  ],
+  "authors_text": "Granholm, Rolf; Gauthier, Anne; Stulp, Gert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.24",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.24",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.24",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.24.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

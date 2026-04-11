@@ -1,0 +1,45 @@
+{
+  "title": "A spatial dynamic panel approach to modelling the space-time dynamics of interprovincial migration flows in China",
+  "abstract": "BACKGROUND Migration plays an increasingly crucial role in regional growth and development. However, most empirical studies fail to simultaneously capture the spatial and temporal aspects of migration flows, and thus fail to reveal how space-time dynamics shape path-dependent migration processes. OBJECTIVE This study attempts to incorporate space-time dimensions into a traditional gravity model and to measure the impact of regional socioeconomic changes on migration flows. Doing so allows us to better understand the space-time dynamics of complex migration processes. METHODS We construct a spatial dynamic panel data model for dyadic migration flows and decompose origin, destination, and spillover effects into their contemporaneous, short-, and long-term components. We then apply this approach to panel data of interprovincial migration flows in China from 1985 to 2015. RESULTS The empirical results indicate that space-time interactions are crucial to the formation and evolution of migration flows. Population size and age structure play an important role in the Chinese interprovincial migration process, particularly dominated by significant and positive spillover effects in the contemporaneous period. The relationship between development and migration tends to take an inverted U-shaped curve, a fact not revealed in nonspatial models. CONCLUSIONS This fine-grained decomposition of origin, destination, and spillover effects over contemporaneous, short-, and long-term periods can help understand the spatial and temporal mechanisms of migration and its driving factors. CONTRIBUTION We propose a spatial dynamic panel data model for migration flows and estimate space-time effects of regional explanatory variables. This method could be applied to model other flow data such as trade and transportation flows.",
+  "authors": [
+    {
+      "raw": "Pu, Yingxia",
+      "family": "Pu",
+      "given": "Yingxia"
+    },
+    {
+      "raw": "Zhao, Xinyi",
+      "family": "Zhao",
+      "given": "Xinyi"
+    },
+    {
+      "raw": "Chi, Guangqing",
+      "family": "Chi",
+      "given": "Guangqing"
+    },
+    {
+      "raw": "Zhao, Jin",
+      "family": "Zhao",
+      "given": "Jin"
+    },
+    {
+      "raw": "Kong, Fanhua",
+      "family": "Kong",
+      "given": "Fanhua"
+    }
+  ],
+  "authors_text": "Pu, Yingxia; Zhao, Xinyi; Chi, Guangqing; Zhao, Jin; Kong, Fanhua",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.31",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

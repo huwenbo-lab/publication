@@ -1,0 +1,25 @@
+{
+  "title": "Missing Dimensions of Poverty? Calibrating Deprivation Scales Using Perceived Financial Situation",
+  "abstract": "Deprivation scales usually cover some but not all aspects of poverty. Missing dimensions could affect who is and is not identified as poor. Despite its importance, whether missing dimensions affect the measurement of poverty has not been empirically examined in the EU context. Such an examination requires data on missing dimensions that existing surveys do not usually collect. In this article, I get around this problem with an innovative design and using the rich content of the British Household Panel Survey (1999-2008). I use perceived financial inadequacy as a proxy for poverty and show that, independent of the deprivation status, having a need in healthcare, child-care, social care, or education increases the risk of reporting financial inadequacy. The main explanations for these effects are extra spending and reduced earnings of the families (as a response to having extra needs), and not other biases that might arise from using a self-assessed proxy measure such as scale heterogeneity, personality traits, state dependence, anticipations, or psychological negativity. These findings demonstrate the need for more comprehensive measures. Unless relevant indicators of missing dimensions (e.g. cost-related unmet needs in healthcare) are included in the analysis, deprivation scales might fail to identify some people experiencing poverty.",
+  "authors": [
+    {
+      "raw": "Beduk, Selcuk",
+      "family": "Beduk",
+      "given": "Selcuk"
+    }
+  ],
+  "authors_text": "Beduk, Selcuk",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcaa004",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

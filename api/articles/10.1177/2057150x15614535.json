@@ -1,0 +1,30 @@
+{
+  "title": "The sampling design of the China Family Panel Studies (CFPS)",
+  "abstract": "The China Family Panel Studies (CFPS) is an on-going, nearly nationwide, comprehensive, longitudinal social survey that is intended to serve research needs on a large variety of social phenomena in contemporary China. In this article, we describe the sampling design of the CFPS sample for its 2010 baseline survey, and methods for constructing weights to adjust for sampling design and survey non-responses. Specifically, the CFPS used a multi-stage probability strategy to reduce operation costs and implicit stratification to increase efficiency. Respondents were oversampled in five provinces or administrative equivalents for regional comparisons. We provide operation details for both sampling and weights construction.",
+  "authors": [
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    },
+    {
+      "raw": "Lu, Ping",
+      "family": "Lu",
+      "given": "Ping"
+    }
+  ],
+  "authors_text": "Xie, Yu; Lu, Ping",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2015,
+  "doi": "10.1177/2057150x15614535",
+  "doi_url": "https://doi.org/10.1177/2057150x15614535",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x15614535",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x15614535.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

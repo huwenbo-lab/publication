@@ -1,0 +1,25 @@
+{
+  "title": "Defending the Decimals: How Foolishly False Precision Might Strengthen Social Science",
+  "abstract": "Social scientists often report regression coefficients using more significant figures than are meaningful given measurement precision and sample size. Common sense says we should not do this. Yet, as normative practice, eliminating these extra digits introduces a more serious scientific problem when accompanied by other ascendant reporting practices intended to reduce social scienceâ€™s long-standing emphasis on null hypothesis significance testing. Coefficient p-values can no longer be recovered to the degree of precision that p-values have been abundantly demonstrated to influence actual research practice. Developing methods for detecting and addressing systematically exaggerated effect sizes across collections of studies cannot be done effectively if p-values are hidden. Regarding what is preferable for scientific literature versus an individual study, the costs of false precision are therefore innocuous compared to alternatives that either encourage the continuation of practices known to exaggerate causal effects or thwart assessment of how much such exaggeration occurs.",
+  "authors": [
+    {
+      "raw": "Freese, Jeremy",
+      "family": "Freese",
+      "given": "Jeremy"
+    }
+  ],
+  "authors_text": "Freese, Jeremy",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2014,
+  "doi": "10.15195/v1.a29",
+  "doi_url": "https://doi.org/10.15195/v1.a29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv1.a29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v1.a29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

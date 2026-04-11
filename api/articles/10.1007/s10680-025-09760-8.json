@@ -1,0 +1,30 @@
+{
+  "title": "National Life Expectancy Lags Behind Benchmark Progress and the Role of Smoking: An International Comparison",
+  "abstract": "Abstract Countries with low mortality show uneven success in improving longevity. Smoking—still a dominant health risk—is a major determinant of these divergent trajectories. Our study aims to determine: a) the continuing influence of smoking on national mortality trends, and b) the extent to which other factors are preventing countries from realizing their health potential. Using mortality data from 20 low-mortality countries (1950–2019), we quantify life expectancy and age-specific mortality differences as calendar years behind the current longevity frontier, defined as record smoking-eliminated life expectancy. We find that current life expectancy largely reflects smoking-eliminated records from two decades ago, with a notable gender paradox across most countries: men are moving closer to the optimal health benchmarks, while women are drifting further away, although men still bear a greater burden of past smoking. While longevity leaders differ from laggards mainly in mortality at advanced ages, laggards show also extensive developmental delays throughout most of the working ages and the second half of life. Our results highlight the diminishing effect of smoking and the role of additional adverse factors in delayed mortality improvement. However, the positive effects from smoking declines have not yet been fully realized, as evidenced by the still comparatively high reduction in development delays after eliminating smoking. Nevertheless, the realization of further health potential largely depends on countries’ ability to manage health in old age, including the increasing burden of chronic disease.",
+  "authors": [
+    {
+      "raw": "Ebeling, Marcus",
+      "family": "Ebeling",
+      "given": "Marcus"
+    },
+    {
+      "raw": "Peters, Frederik",
+      "family": "Peters",
+      "given": "Frederik"
+    }
+  ],
+  "authors_text": "Ebeling, Marcus; Peters, Frederik",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09760-8",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09760-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09760-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09760-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

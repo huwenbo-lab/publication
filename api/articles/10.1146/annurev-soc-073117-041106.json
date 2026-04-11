@@ -1,0 +1,30 @@
+{
+  "title": "Machine Learning for Sociology",
+  "abstract": "Machine learning is a field at the intersection of statistics and computer science that uses algorithms to extract information and knowledge from data. Its applications increasingly find their way into economics, political science, and sociology. We offer a brief introduction to this vast toolbox and illustrate its current uses in the social sciences, including distilling measures from new data sources, such as text and images; characterizing population heterogeneity; improving causal inference; and offering predictions to aid policy decisions and theory development. We argue that, in addition to serving similar purposes in sociology, machine learning tools can speak to long-standing questions on the limitations of the linear modeling framework, the criteria for evaluating empirical findings, transparency around the context of discovery, and the epistemological core of the discipline.",
+  "authors": [
+    {
+      "raw": "Molina, Mario",
+      "family": "Molina",
+      "given": "Mario"
+    },
+    {
+      "raw": "Garip, Filiz",
+      "family": "Garip",
+      "given": "Filiz"
+    }
+  ],
+  "authors_text": "Molina, Mario; Garip, Filiz",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2019,
+  "doi": "10.1146/annurev-soc-073117-041106",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-073117-041106",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-073117-041106",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-073117-041106.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

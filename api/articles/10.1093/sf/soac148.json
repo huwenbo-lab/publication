@@ -1,0 +1,35 @@
+{
+  "title": "School, Studying, and Smarts: Gender Stereotypes and Education Across 80 Years of American Print Media, 1930-2009†",
+  "abstract": "In this article, we apply computational word embeddings to a 200-million-word corpus of American print media (1930-2009) to examine how education-relevant gender stereotypes changed as women's educational attainment caught up with and eventually surpassed men's. This case presents a rare opportunity to observe how cultural components of the gender system transform alongside the reversal of an important pattern of stratification. We track six stereotypes that prior work linked to academic outcomes. Our results suggest that stereotypes most closely tied to the core stereotypical distinction between women as communal and men as agentic remained unchanged. The other stereotypes we tracked, however, became increasingly gender polarized: as school and studying gained feminine associations, intelligence and unintelligence gained masculine ones. Unexpectedly, we observe that trends in the gender associations of intelligence and studying are near-perfect mirror opposites, suggesting an interrelationship. We use these observations to further elaborate contemporary theoretical accounts of the gender system, arguing that this system persists partly because stereotypes shift to reinterpret social change in terms of a durable hierarchical distinction between women and men.",
+  "authors": [
+    {
+      "raw": "Boutyline, Andrei",
+      "family": "Boutyline",
+      "given": "Andrei"
+    },
+    {
+      "raw": "Arseniev-Koehler, Alina",
+      "family": "Arseniev-Koehler",
+      "given": "Alina"
+    },
+    {
+      "raw": "Cornell, Devin J.",
+      "family": "Cornell",
+      "given": "Devin J."
+    }
+  ],
+  "authors_text": "Boutyline, Andrei; Arseniev-Koehler, Alina; Cornell, Devin J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac148",
+  "doi_url": "https://doi.org/10.1093/sf/soac148",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac148",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac148.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

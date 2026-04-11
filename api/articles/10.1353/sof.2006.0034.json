@@ -1,0 +1,30 @@
+{
+  "title": "Process and Protest: Accounting for Individual Protest Participation",
+  "abstract": "Using American Citizen Participation Survey data (Verba et al 1995a), we perform logistic regression analyses to adjudicate between three core explanations for individual protest: biographical availability, political engagement and structural availability. We calculate estimated probabilities to weigh the relative effects of these factors on the likelihood of protest participation, and we find that being asked to protest is the strongest predictor of participating in protest, but that numerous other individual characteristics such as political interest and organizational ties are important predictors of being asked to protest. Viewing protest as a multi-stage process and recognizing that certain factors predict being asked to protest while others predict actually protesting, we gain theoretical leverage over the ways in which individuals are prompted to take part in protest.",
+  "authors": [
+    {
+      "raw": "Schussman, A.",
+      "family": "Schussman",
+      "given": "A."
+    },
+    {
+      "raw": "Soule, S. A.",
+      "family": "Soule",
+      "given": "S. A."
+    }
+  ],
+  "authors_text": "Schussman, A.; Soule, S. A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2005,
+  "doi": "10.1353/sof.2006.0034",
+  "doi_url": "https://doi.org/10.1353/sof.2006.0034",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2006.0034",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2006.0034.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

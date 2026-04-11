@@ -1,0 +1,30 @@
+{
+  "title": "Political Polarization and Long-Term Change in Public Support for Environmental Spending",
+  "abstract": "Public support for environmental protection has evinced declines in recent years that are widely attributed to growing antipathy among self-identified Republicans. Fractures in what was long considered broad and enduring support for the environment in the United States have called attention to the broader socio-political context in which individual opinion on the environment is formed, and especially the role of political parties and their leaders in shaping opinion. Empirical analyses of environmental support, however, remain strongly focused on individual-level correlates of support. We apply recent methodological advances in age-period-cohort models to scrutinize changes in Americans' willingness to pay more for environmental protection between 1973 and 2014. Analyses distinguish the importance of individual traits, such as political identification, from cohort and especially period-based fluctuations that result from changing economic and political conditions. Individual-level covariate results are reflective of previous research on environmental opinion (e.g., age is negatively and education positively associated with environmental support). We further find that political context across time periods matters as much as, and interacts with, individual political affiliation to influence support for the environment. Americans of all political stripes demonstrate decreases in support for environmental spending during Democratic presidential administrations and during difficult economic times. Declines during Democratic presidencies are especially pronounced among Republicans. Analyses also highlight parallels between the high levels of political polarization in environmental support found at the end of the Obama Presidency and the end of the Carter era.",
+  "authors": [
+    {
+      "raw": "Johnson, Erik W.",
+      "family": "Johnson",
+      "given": "Erik W."
+    },
+    {
+      "raw": "Schwadel, Philip",
+      "family": "Schwadel",
+      "given": "Philip"
+    }
+  ],
+  "authors_text": "Johnson, Erik W.; Schwadel, Philip",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy124",
+  "doi_url": "https://doi.org/10.1093/sf/soy124",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy124",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy124.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

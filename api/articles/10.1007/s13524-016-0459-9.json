@@ -1,0 +1,25 @@
+{
+  "title": "Large-Scale Urban Riots and Residential Segregation: A Case Study of the 1960s US Riots",
+  "abstract": "Despite a well-established literature investigating race-related predictors of riot incidence, the racial aftermath of riots remains unexamined. In this study, I use the 1960s U.S. race riots to investigate trends in black residential segregation levels following large-scale riot activity in seven major U.S. cities. I use a novel approach-namely, synthetic control matching-to select a group of cities against which segregation trends can be compared. I find that levels of black segregation rose in 1970 for four of the seven cities, but these increases disappeared in 1980 and 1990 except in Detroit. These results mask differential trends at lower geographic levels: suburban neighborhoods in affected areas experienced larger and longer-term increases in segregation, particularly in traditionally hypersegregated cities in the Midwest and Northeast.",
+  "authors": [
+    {
+      "raw": "Brazil, Noli",
+      "family": "Brazil",
+      "given": "Noli"
+    }
+  ],
+  "authors_text": "Brazil, Noli",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0459-9",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0459-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0459-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0459-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

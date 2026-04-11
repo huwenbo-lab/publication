@@ -1,0 +1,35 @@
+{
+  "title": "The strength and vulnerability of school-age children",
+  "abstract": "BACKGROUND Children between the ages of 5 and 14 appear to have a lower risk of dying than both younger and older individuals. OBJECTIVE We looked for possible factors influencing the mortality rates of school-age children in Norway during the German occupation from 1940 to 1945, i.e., at a time of poverty and moderate food shortage - and before the general use of vaccines. METHODS We used Norwegian mortality data by age and sex, during the period of 1930-1954, from the Human Mortality Database and obtained the main causes of death, as well as age-specific data from different regions of Norway, from Statistics Norway. RESULTS Boys and girls aged 5-14 years had lower mortality rates than any other age group below 40, even during the German occupation. However, 5-14-year-old boys as well as 5-9-year-old girls had significantly increased mortality during 1941-1945 as compared to the previous decade. Mortality as a result of diphtheria, pertussis, scarlet fever, and measles increased more than five-fold, surpassing mortality as a result of accidents, whereas mortality from these infections only doubled in adults up to 39 years. During that same period, the body weight of schoolchildren aged 8-13 years dropped slightly. CONCLUSIONS Proper nourishment, being of the utmost importance for a functioning immune system,is key to understanding the potential vulnerability of children at any age. Our study shows how vulnerable even the most resistant children can be. CONTRIBUTION The vulnerability of children 5-14 years old may not have been properly taken into account, as was also shown in the recent upward UN revision of 5- 14 age mortality in low- and middle-income countries.",
+  "authors": [
+    {
+      "raw": "Mamelund, Svenn-Erik",
+      "family": "Mamelund",
+      "given": "Svenn-Erik"
+    },
+    {
+      "raw": "Haneberg, Bjorn",
+      "family": "Haneberg",
+      "given": "Bjorn"
+    },
+    {
+      "raw": "Mjaaland, Siri",
+      "family": "Mjaaland",
+      "given": "Siri"
+    }
+  ],
+  "authors_text": "Mamelund, Svenn-Erik; Haneberg, Bjorn; Mjaaland, Siri",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.63",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.63",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.63",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.63.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

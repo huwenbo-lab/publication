@@ -1,0 +1,30 @@
+{
+  "title": "Overwork, Specialization, and Wealth",
+  "abstract": "Objective: This study examines how overwork and traditional household specialization-defined as households with one dedicated female homemaker and one dedicated male breadwinner-are associated with wealth across socioeconomic strata. Background: Although overwork and household specialization are clearly associated with income, less is known about how these behaviors affect household wealth. Household wealth is only moderately correlated with household income and is influenced by many factors that do not affect income, suggesting that overwork and specialization have different associations with wealth than with income. Moreover, because wealth is so unevenly distributed, overwork and specialization likely have different associations with wealth across socioeconomic strata. Method: With data from the Survey of Consumer Finances, a nationally representative survey of households that includes an oversample of high-wealth households, the authors estimate unconditional quantile regression models to investigate how overwork and household specialization are associated with household wealth across socioeconomic strata and over time. Results: Overwork has the greatest absolute benefits at the top of the wealth distribution but the greatest relative benefits in lower portions of the wealth distribution. Specialization yields distinct advantages for high-wealth households that have grown over time, whereas specialization comes with trade-offs for low-wealth households that outweigh its benefits. Conclusion: The financial trade-offs associated with overwork and specialization vary considerably across the wealth distribution. Contrary to findings in income-based research, overwork premiums appear most crucial to the financial well-being of underprivileged households, whereas specialization premiums are evident only for the economic elite.",
+  "authors": [
+    {
+      "raw": "Aronson, Brian",
+      "family": "Aronson",
+      "given": "Brian"
+    },
+    {
+      "raw": "Keister, Lisa A.",
+      "family": "Keister",
+      "given": "Lisa A."
+    }
+  ],
+  "authors_text": "Aronson, Brian; Keister, Lisa A.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12596",
+  "doi_url": "https://doi.org/10.1111/jomf.12596",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12596",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12596.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

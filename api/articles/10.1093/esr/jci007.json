@@ -1,0 +1,25 @@
+{
+  "title": "Social Capital and Social Trust in Britain",
+  "abstract": "Most quantitative research in social capital focuses on civic engagement in formal organisations. Data on social capital in informal social networks are harder to obtain and there has also been insufficient means for investigating this. In this paper, we use the British Household Panel Survey (BHPS) to conceptualise and measure three types of social capital: neighbourhood attachment, social network and civic participation. The first two refer to informal social networks and the last to formal social networks. We use gllamm (Generalized Linear Latent and Mixed Models) to construct the latent variable scores from the categorical component variables. We also analyse the socio-cultural determinants of the three types of social capital and their impacts on social trust. The results show that socio-cultural conditions affect social capital generation. People in disadvantaged positions are more likely to draw social capital from weak ties and those in advantaged positions are more likely to do so from formal civic engagement. We also find that social capital has an effect over and above people’s own socio-cultural positions. Informal social networks, especially having good neighbourly relations, tend to foster greater trust than does formal civic engagement.",
+  "authors": [
+    {
+      "raw": "Li, Y.",
+      "family": "Li",
+      "given": "Y."
+    }
+  ],
+  "authors_text": "Li, Y.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1093/esr/jci007",
+  "doi_url": "https://doi.org/10.1093/esr/jci007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

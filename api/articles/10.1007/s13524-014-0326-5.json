@@ -1,0 +1,35 @@
+{
+  "title": "The Effects of Intrauterine Malnutrition on Birth and Fertility Outcomes: Evidence From the 1974 Bangladesh Famine",
+  "abstract": "Abstract This article uses the Bangladesh famine of 1974 as a natural experiment to estimate the impact of intrauterine malnutrition on sex of the child and infant mortality. In addition, we estimate the impact of malnutrition on post-famine pregnancy outcomes. Using the 1996 Matlab Health and Socioeconomic Survey (MHSS), we find that women who were pregnant during the famine were less likely to have male children. Moreover, children who were in utero during the most severe period of the Bangladesh famine were 32 % more likely to die within one month of birth compared with their siblings who were not in utero during the famine. Finally, we estimate the impacts of the famine on subsequent pregnancy outcomes. Controlling for pre-famine fertility, we find that women who were pregnant during the famine experienced a higher number of stillbirths in the post-famine years. This increase appears to be driven by an excess number of male stillbirths.",
+  "authors": [
+    {
+      "raw": "Hernández-Julián, Rey",
+      "family": "Hernández-Julián",
+      "given": "Rey"
+    },
+    {
+      "raw": "Mansour, Hani",
+      "family": "Mansour",
+      "given": "Hani"
+    },
+    {
+      "raw": "Peters, Christina",
+      "family": "Peters",
+      "given": "Christina"
+    }
+  ],
+  "authors_text": "Hernández-Julián, Rey; Mansour, Hani; Peters, Christina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0326-5",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0326-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0326-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0326-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Educational selectivity of internal migrants: A global assessment",
+  "abstract": "BACKGROUND It is well established that migrants are a selected group with respect to a number of characteristics, including education. However, the extent to which the degree of educational selectivity varies between countries remains unclear. OBJECTIVE We assess the educational selectivity of internal migrants for a global sample of 56 countries that represent over 65% of the world population. METHODS We fit binomial logistic regression to individual-level census data drawn from the Integrated Public Use Microdata Series-International (IPUMS). For each country, we regress migration against educational attainment and include a set of individual-level control variables and urban status of current place of residence. We report results for individual countries and estimate global and regional population-weighted means. RESULTS Globally, compared to individuals with no formal education, those with primary education are 1.7 times more likely to move, those with secondary education 2.9 times, and those with tertiary education 4.2 times. Once control variables are added, the effect of education decreases to 1.1, 1.2, and 2.3 times for primary, secondary, and tertiary education respectively. In all countries but Haiti tertiary education has a positive, statistically significant impact on migration, and in 80% of countries both secondary and tertiary education significantly increase the odds of migrating. CONCLUSIONS The results lend unequivocal support to the hypothesis that the likelihood to move increases with educational attainment while revealing significant variations between and within regions. CONTRIBUTION This study has uncovered a near universal empirical regularity in the effect of education on migration while revealing limited educational selectivity in Latin America. Variations in the degree of educational selectivity indicate that the effect of education on migration decision is subtle, varied, and specific to the national context and is not a function of the level of human development as originally anticipated.",
+  "authors": [
+    {
+      "raw": "Bernard, Aude",
+      "family": "Bernard",
+      "given": "Aude"
+    },
+    {
+      "raw": "Bell, Martin",
+      "family": "Bell",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Bernard, Aude; Bell, Martin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.29",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

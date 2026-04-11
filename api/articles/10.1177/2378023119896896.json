@@ -1,0 +1,35 @@
+{
+  "title": "Is Urbanization Good for the Climate? A Cross-County Analysis of Impervious Surface, Affluence, and the Carbon Intensity of Well-Being",
+  "abstract": "We contribute to literature exploring the socioecological impact of urban development as a multidimensional project, one in which changes to landscape features complement changes in demographic and administrative measures to co-constitute the socioecological impact of urbanity. We use a random coefficients modeling approach to examine U.S. relationships between the intensity of impervious surface within a county, population density in impervious areas, and carbon intensity of well-being (CIWB)—here constructed using industrial emissions. We then explore the moderating association that another component of social settlement patterns, household median income, has on the impervious surface–population density–CIWB nexus. Findings suggest that landscapes featuring greater development of impervious surface are associated with increased CIWB. Further exploration indicates that income acts to attenuate the association of urban space and CIWB. Ultimately, we argue that such attenuation indicates that more affluent areas are able to shift production-based processes associated with urban forms to less affluent areas.",
+  "authors": [
+    {
+      "raw": "Greiner, Patrick Trent",
+      "family": "Greiner",
+      "given": "Patrick Trent"
+    },
+    {
+      "raw": "Shtob, Daniel A.",
+      "family": "Shtob",
+      "given": "Daniel A."
+    },
+    {
+      "raw": "Besek, Jordan Fox",
+      "family": "Besek",
+      "given": "Jordan Fox"
+    }
+  ],
+  "authors_text": "Greiner, Patrick Trent; Shtob, Daniel A.; Besek, Jordan Fox",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023119896896",
+  "doi_url": "https://doi.org/10.1177/2378023119896896",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119896896",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119896896.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

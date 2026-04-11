@@ -1,0 +1,30 @@
+{
+  "title": "Community organization moderates the effect of alcohol outlet density on violence",
+  "abstract": "AbstractThere is growing evidence from multiple disciplines that alcohol outlet density is associated with community levels of assault. Based on the theoretical and empirical literatures on social organization and crime, we tested the hypothesis that the association between alcohol outlet density and neighbourhood violence rates is moderated by social organization. Using geocoded police data on assaults, geocoded data on the location of alcohol outlets, and controlling for several structural factors thought to be associated with violence rates, we tested this hypothesis employing negative binomial regression with our sample of 298 block groups in Cincinnati. Our results revealed direct effects of alcohol outlet density and social organization on assault density, and these effects held for different outlet types (i.e., off‐premise, bars, restaurants) and levels of harm (i.e., simple and aggravated assaults). More importantly, we found that the strength of the outlet‐assault association was significantly weaker in more socially organized communities. Subsequent analyses by level of organization revealed no effects of alcohol outlet density on aggravated assaults in organized block groups, but significant effects in disorganized block groups. We found no association between social (dis)organization and outlet density. These results clarify the community‐level relationship between alcohol outlets and violence and have important implications for municipal‐level alcohol policies.",
+  "authors": [
+    {
+      "raw": "Pridemore, William Alex",
+      "family": "Pridemore",
+      "given": "William Alex"
+    },
+    {
+      "raw": "Grubesic, Tony H.",
+      "family": "Grubesic",
+      "given": "Tony H."
+    }
+  ],
+  "authors_text": "Pridemore, William Alex; Grubesic, Tony H.",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2012,
+  "doi": "10.1111/j.1468-4446.2012.01432.x",
+  "doi_url": "https://doi.org/10.1111/j.1468-4446.2012.01432.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1468-4446.2012.01432.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1468-4446.2012.01432.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

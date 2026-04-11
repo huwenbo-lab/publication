@@ -1,0 +1,25 @@
+{
+  "title": "Time availability and housework: The effect of unemployment on couples' hours of household labor",
+  "abstract": "Using data from the German Socio-Economic Panel (G-SOEP, 1991-2014), this study investigates how unemployment influences the hours of household labor performed by individuals and their partners. It is argued that by using longitudinal data on unemployed individuals, the time availability hypothesis, which explains individuals' hours of housework with their available time, can be tested more rigorously than in previous research, as concerns about simultaneity and unobserved heterogeneity can be addressed. The results show that while unemployed individuals increase the hours they spend on household labor, unemployed women tend to spend more time performing female-typed tasks, while unemployed men tend to spend more time doing male-typed tasks. It is concluded that couples' responses are in line with the time availability hypothesis, but that gendered expectations about household responsibilities also shape couples' reactions to unemployment.",
+  "authors": [
+    {
+      "raw": "Fauser, Sophia",
+      "family": "Fauser",
+      "given": "Sophia"
+    }
+  ],
+  "authors_text": "Fauser, Sophia",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.04.017",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.04.017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.04.017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.04.017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

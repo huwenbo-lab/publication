@@ -1,0 +1,30 @@
+{
+  "title": "Locked out of banking: The limits of financial inclusion for formerly incarcerated individuals",
+  "abstract": "Using data from the 1979 and 1997 National Longitudinal Surveys of Youth (NLSY), this study investigates the relationship between criminal justice system contact history, particularly incarceration, and being excluded from the financial system. Individual fixed effects estimates show that people who have been incarcerated have a lower likelihood of having a checking or savings account after incarceration. While this association could be due to justice-involved individuals avoiding formal systems like financial services, there is no evidence of a relationship between arrest history and being unbanked. Even adjusted for age and other factors, formerly incarcerated people are more likely to be unbanked in the years after release than before being incarcerated. This study offers further evidence on the challenges facing formerly incarcerated individuals, as well as for banking and financial services regulators seeking to expand financial inclusion efforts in the U.S.",
+  "authors": [
+    {
+      "raw": "Bryan, Brielle",
+      "family": "Bryan",
+      "given": "Brielle"
+    },
+    {
+      "raw": "Collins, J. Michael",
+      "family": "Collins",
+      "given": "J. Michael"
+    }
+  ],
+  "authors_text": "Bryan, Brielle; Collins, J. Michael",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103050",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103050",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103050",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103050.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

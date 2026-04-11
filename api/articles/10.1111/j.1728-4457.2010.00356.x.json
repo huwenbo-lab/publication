@@ -1,0 +1,30 @@
+{
+  "title": "US Mortality in an International Context: Age Variations",
+  "abstract": "Compared to other developed countries, the United States ranks poorly in terms of life expectancy at age 50. We seek to shed light on the US's low life expectancy ranking by comparing the age-specific death rates of 18 developed countries at older ages. A striking pattern emerges: between ages 40 and 75, US all-cause mortality rates are among the poorest in the set of comparison countries. The US position improves dramatically after age 75 for both males and females. We consider four possible explanations of the age patterns revealed by this analysis: (1) access to health insurance; (2) international differences in patterns of smoking; (3) age patterns of health care system performance; and (4) selection processes. We find that health insurance and smoking are not plausible sources of this age pattern. While we cannot rule out selection, we present suggestive evidence that an unusually vigorous deployment of life-saving technologies by the US health care system at very old ages is contributing to the age-pattern of US mortality rankings. Differences in obesity distributions are likely to be making a moderate contribution to the pattern but uncertainty about the risks associated with obesity prevents a precise assessment.",
+  "authors": [
+    {
+      "raw": "Ho, Jessica Y.",
+      "family": "Ho",
+      "given": "Jessica Y."
+    },
+    {
+      "raw": "Preston, Samuel H.",
+      "family": "Preston",
+      "given": "Samuel H."
+    }
+  ],
+  "authors_text": "Ho, Jessica Y.; Preston, Samuel H.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2010,
+  "doi": "10.1111/j.1728-4457.2010.00356.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2010.00356.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2010.00356.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2010.00356.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

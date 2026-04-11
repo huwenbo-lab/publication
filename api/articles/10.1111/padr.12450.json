@@ -1,0 +1,45 @@
+{
+  "title": "Public Health and Armed Conflict: Immunization in Times of Systemic Disruptions",
+  "abstract": "Armed conflicts are a concern for human development and public health and represent a major impediment for realizing Sustainable Development Goal #3: to ensure healthy lives and promote well-being for all at all ages. Vaccination programs can be highly politicized and subjected to major security constraints in war zones, reducing their effectiveness. This article studies how armed conflict impacts immunization rates among children, combining two large datasets. We use health data for 15 conflict-affected countries in sub-Saharan Africa, including multiple Demographic and Health Survey rounds for most. We exploit the fact that age-appropriate vaccinations should take place in the child's first year of life and compare children aged one to five with varying degrees of (local) conflict exposure in their first year of life within the same countries and communities. We differentiate between the effects of local and country-level exposure to conflict on childhood immunization rates. The regression results show that conflict has a nonmonotonic effect on vaccination rates with minor (major) conflicts being associated with higher (lower) full immunization rates. We argue that in the case of minor conflicts, local-level health care access drives the results, whereas for major conflicts it is mainly national channels that drive the result.",
+  "authors": [
+    {
+      "raw": "Ostby, Gudrun",
+      "family": "Ostby",
+      "given": "Gudrun"
+    },
+    {
+      "raw": "Shemyakina, Olga",
+      "family": "Shemyakina",
+      "given": "Olga"
+    },
+    {
+      "raw": "Tollefsen, Andreas Foro",
+      "family": "Tollefsen",
+      "given": "Andreas Foro"
+    },
+    {
+      "raw": "Urdal, Henrik",
+      "family": "Urdal",
+      "given": "Henrik"
+    },
+    {
+      "raw": "Verpoorten, Marijke",
+      "family": "Verpoorten",
+      "given": "Marijke"
+    }
+  ],
+  "authors_text": "Ostby, Gudrun; Shemyakina, Olga; Tollefsen, Andreas Foro; Urdal, Henrik; Verpoorten, Marijke",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2021,
+  "doi": "10.1111/padr.12450",
+  "doi_url": "https://doi.org/10.1111/padr.12450",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12450",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12450.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

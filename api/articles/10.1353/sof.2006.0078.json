@@ -1,0 +1,30 @@
+{
+  "title": "Differential Participation and the Nature of a Movement: A Study of the 1999 Anti-U.S. Beijing Student Demonstrations",
+  "abstract": "In this article, we develop a quadripartite classification of social movement participants based on the participants' levels of interest in a movement goal and the amount of resources that the participants contribute to the movement. We use the latent class model to determine the percentage of participants in each of the four categories in our classification system for the case of the 1999 anti-U.S. student demonstrations in Beijing in the aftermath of the Belgrade Embassy bombing. Finally, we apply the multinomial logit regression to investigate the mechanisms behind the mobilization of different types of participants during the anti-U.S. demonstrations. Our analysis and empirical findings not only show the importance of studying movement mobilization based on a classification of movement participants, but also reveal much about the nature of the 1999 anti-U.S. demonstrations.",
+  "authors": [
+    {
+      "raw": "Yu, Z.",
+      "family": "Yu",
+      "given": "Z."
+    },
+    {
+      "raw": "Zhao, D.",
+      "family": "Zhao",
+      "given": "D."
+    }
+  ],
+  "authors_text": "Yu, Z.; Zhao, D.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2006,
+  "doi": "10.1353/sof.2006.0078",
+  "doi_url": "https://doi.org/10.1353/sof.2006.0078",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2006.0078",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2006.0078.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

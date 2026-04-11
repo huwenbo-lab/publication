@@ -1,0 +1,35 @@
+{
+  "title": "Residential segregation and racial disparities in self-rated health: How do dimensions of residential segregation matter?",
+  "abstract": "Previous research on segregation and health has been criticized for overlooking the fact that segregation is a multi-dimensional concept (i.e., evenness, exposure, concentration, centralization, and clustering) and recent evidence drawn from non-black minorities challenges the conventional belief that residential segregation widens racial health disparities. Combining a survey data (n = 18,752) from Philadelphia with the 2010 Census tract (n = 925) data, we examine two theoretical frameworks to understand why the association of segregation with health may differ by race/ethnicity. Specifically, we investigate how each dimension of segregation contributed to racial disparities in self rated health. We found (1) high levels of white/black concentration could exacerbate the white/black health disparities up to 25 percent, (2) the white/Hispanic health disparities was narrowed by increasing the level of white/Hispanic centralization, and (3) no single dimension of segregation statistically outperforms others. Our findings supported that segregation is bad for blacks but may be beneficial for Hispanics. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Yang, Tse-Chuan",
+      "family": "Yang",
+      "given": "Tse-Chuan"
+    },
+    {
+      "raw": "Zhao, Yunhan",
+      "family": "Zhao",
+      "given": "Yunhan"
+    },
+    {
+      "raw": "Song, Qian",
+      "family": "Song",
+      "given": "Qian"
+    }
+  ],
+  "authors_text": "Yang, Tse-Chuan; Zhao, Yunhan; Song, Qian",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.06.011",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.06.011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.06.011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.06.011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Navigating the early career: The social stratification of young workers' employment trajectories in Italy",
+  "abstract": "This paper contributes to the debate on early-career precariousness and inequalities against the backdrop of labour market deregulation. The analyses focus on a cohort of young Italian workers who entered the labour market after the deregulatory reforms of the late 1990s and early 2000s. Instead of looking at the timing of isolated transitions between employment states, 7-year-long trajectories are considered to identify differences by gender and education in the probability of experiencing more stable and protected early-careers. Italy is a particularly interesting country-case because of its high youth unemployment rates and difficult school-to-work transitions into the protected labour market segment. The analyses draw on AD-SILC, a unique data source that combines administrative records of complete employment histories and survey data and offers an unprecedented, highly detailed distinction between a wide range of non-standard employment relationships. Applying sequence analysis, eight early-career types characterized by different degrees of employment continuity and stability are identified. Multivariate logistic regression estimates show that women-especially if lower-educated-are more likely than men to experience pathways characterized by instability and weak (or absent) employment and social security protection, that ultimately lead to more precarious early careers.",
+  "authors": [
+    {
+      "raw": "Struffolino, Emanuela",
+      "family": "Struffolino",
+      "given": "Emanuela"
+    }
+  ],
+  "authors_text": "Struffolino, Emanuela",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2019,
+  "doi": "10.1016/j.rssm.2019.100421",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100421",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100421",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100421.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Measuring contraceptive use in India: Implications of recent fieldwork design and implementation of the National Family Health Survey",
+  "abstract": "BACKGROUND India's National Family Health Surveys (NFHS) have provided critical population-level data to inform public policy and research. Although fertility declined, NFHS-4 (2015- 2016) reported lower modern contraceptive and female sterilization use compared with NFHS-3 (2005-2006). OBJECTIVE This study assesses selected survey design and interviewer factors' influences on respondent reporting of modern contraceptive and female sterilization use. METHODS With data on 582,144 married childbearing-aged females, the analysis pursues multivariable logistic models of both outcomes using survey covariates, assesses interviewer deviance residuals, and estimates multi-level cross-classified random intercept models for state, cluster and interviewer effects. RESULTS Adjusted odds ratios (AORs) for reporting modern use in NFHS-4 versus NFHS-3 were 1.21 (1.17-1.26) and 1.66 (1.59-1.74) for sterilization. The AOR for each interview month after survey launch was 1.16 (1.15-1.17) for modern use and 1.18 (1.16-1.19) for sterilization. The AOR for respondents interviewed in the first versus second survey phase was 1.35 (1.30-1.40) for modern methods and 1.12 (1.07-1.17) for female sterilization. Interviewer deviance residuals for both contraceptive outcomes were larger in NFHS-4 than NFHS-3. Eliminating problematic interviews raised modern use 2.0% points and sterilization 1.3% points. Larger state, community cluster and interviewer effects were observed for NFHS-4 versus NFHS-3. CONCLUSIONS The five-fold expansion of NFHS-4's sample likely challenged pre-existing survey protocols and may have lowered modern method use by up to 6% points and female sterilization by 2% points. CONTRIBUTION The roles of survey fieldwork and interviewers, as sources of measurement error, are important to consider when interpreting change observed in cross-sectional estimates.",
+  "authors": [
+    {
+      "raw": "Kumar, Kaushalendra",
+      "family": "Kumar",
+      "given": "Kaushalendra"
+    },
+    {
+      "raw": "Singh, Abhishek",
+      "family": "Singh",
+      "given": "Abhishek"
+    },
+    {
+      "raw": "Tsui, Amy O.",
+      "family": "Tsui",
+      "given": "Amy O."
+    }
+  ],
+  "authors_text": "Kumar, Kaushalendra; Singh, Abhishek; Tsui, Amy O.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.4",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

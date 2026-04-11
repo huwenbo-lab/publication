@@ -1,0 +1,30 @@
+{
+  "title": "Leaving the Financial Nest: Connecting Young Adults' Financial Independence to Financial Security",
+  "abstract": "Objective This study examines variation in young adults' transitions to financial independence and the relationship between these transitions and financial security. Background Individuals rely on their families for substantial financial support well into early adulthood, even as young adults perceive independence as a key marker of adulthood. Given known variation in transitions to adulthood and unequal exposure to financial precariousness across social groups, the authors ask whether heterogeneity emerges with regards to the timing of financial independence and types of support received and how differences in pathways to independence may matter for financial security later in young adulthood. Method The authors estimate group-based trajectory models of four indicators of financial independence for 1,719 young adults from age 18 to 27 using data from the 2005 to 2015 Panel Study of Income Dynamics. These trajectories are then used to estimate predicted levels of financial security at the end of the study period using logistic and linear regression analysis. Results The results show that paths to young adults' financial independence are best characterized by four types of trajectories: consistently independent (23%), quickly independent (41%), gradually independent (23%), and consistently supported (13%), with types and duration of support varying substantially across trajectories. The authors find that young adults experiencing trajectories characterized by lower levels of familial support also report higher levels of financial insecurity by the end of the survey. Conclusion The findings suggest that the patterning and timing of financial independence in the transition to adulthood has implications for early adult financial well-being.",
+  "authors": [
+    {
+      "raw": "Bea, Megan Doherty",
+      "family": "Bea",
+      "given": "Megan Doherty"
+    },
+    {
+      "raw": "Yi, Youngmin",
+      "family": "Yi",
+      "given": "Youngmin"
+    }
+  ],
+  "authors_text": "Bea, Megan Doherty; Yi, Youngmin",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12553",
+  "doi_url": "https://doi.org/10.1111/jomf.12553",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12553",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12553.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

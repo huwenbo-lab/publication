@@ -1,0 +1,35 @@
+{
+  "title": "Joining, Leaving, and Staying in the American Indian/Alaska Native Race Category Between 2000 and 2010",
+  "abstract": "Conceptualizing and operationalizing American Indian populations is challenging. Each census for decades has seen the American Indian population increase substantially more than expected, with indirect and qualitative evidence that this is due to changes in individuals' race responses. We apply uniquely suited (but not nationally representative) linked data from the 2000 and 2010 decennial censuses (N = 3.1 million) and the 2006-2010 American Community Survey (N = 188,131) to address three research questions. First, to what extent do American Indian people have different race responses across data sources? We find considerable race response change, especially among multiple-race and/or Hispanic American Indians. Second, how are people who change responses different from or similar to those who do not? We find three sets of American Indians: those who (1) had the same race and Hispanic responses in 2000 and 2010, (2) moved between single-race and multiple-race American Indian responses, and (3) added or dropped the American Indian response, thus joining or leaving the enumerated American Indian population. People in groups (1) and (2) were relatively likely to report a tribe, live in an American Indian area, report American Indian ancestry, and live in the West. Third, how are people who join a group different from or similar to those who leave it? Multivariate models show general similarity between joiners and leavers in group (1) and in group (2). Population turnover is hidden in cross-sectional comparisons; people joining each subpopulation of American Indians are similar in number and characteristics to those who leave it.",
+  "authors": [
+    {
+      "raw": "Liebler, Carolyn A.",
+      "family": "Liebler",
+      "given": "Carolyn A."
+    },
+    {
+      "raw": "Bhaskar, Renuka",
+      "family": "Bhaskar",
+      "given": "Renuka"
+    },
+    {
+      "raw": "Porter (nee Rastogi), Sonya R.",
+      "family": "Porter (nee Rastogi)",
+      "given": "Sonya R."
+    }
+  ],
+  "authors_text": "Liebler, Carolyn A.; Bhaskar, Renuka; Porter (nee Rastogi), Sonya R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0461-2",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0461-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0461-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0461-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

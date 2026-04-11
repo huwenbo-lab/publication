@@ -1,0 +1,30 @@
+{
+  "title": "Race-ethnicity, class, and unemployment dynamics: Do macroeconomic shifts alter existing disadvantages?",
+  "abstract": "Research indicates that individuals of different races, ethnic backgrounds, and class origins differ in their unemployment rates. We know less, however, about whether these differences result from the differing groups' unequal hazards of entering or exiting unemployment and even less about how economic fluctuations moderate the ethnoracial and class-origin gaps in the long-term risks of transitioning into and out of unemployment. Using Rounds 1-17 of the National Longitudinal Survey of Youth 1997 and event history models, we show that non-Hispanic blacks become more similar to non-Hispanic whites in their paces of entering unemployment as their local unemployment rate rises, perhaps because jobs largely closed to the former are eliminated in a greater proportion during recessions. Nonetheless, blacks' relatively slow pace of transitioning from unemployment to having a job decelerates further with economic downturns. By contrast, Hispanics' paces of entering and exiting unemployment relative to non-Hispanic whites hardly change with local unemployment rates, despite unemployed Hispanics' slower rate of transitioning to having a job. With respect to class origin, we find that the advantages in both unemployment entry and recovery of young men with relatively educated parents diminish with economic deterioration. Based on these results, we suggest that facing economic pressure, employers' preference for workers of a higher class origin is more malleable than their preference for whites over blacks, making unemployed blacks especially disadvantaged in uncertain economic times.",
+  "authors": [
+    {
+      "raw": "Yu, Wei-hsin",
+      "family": "Yu",
+      "given": "Wei-hsin"
+    },
+    {
+      "raw": "Sun, Shengwei",
+      "family": "Sun",
+      "given": "Shengwei"
+    }
+  ],
+  "authors_text": "Yu, Wei-hsin; Sun, Shengwei",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2019,
+  "doi": "10.1016/j.rssm.2019.100422",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100422",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100422",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100422.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

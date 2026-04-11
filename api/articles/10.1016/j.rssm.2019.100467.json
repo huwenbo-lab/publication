@@ -1,0 +1,35 @@
+{
+  "title": "Do you know what you do for a living? Occupational coding mismatches between coders in the Korean General Social Survey",
+  "abstract": "Occupation has been a workhorse variable in stratification and mobility studies in sociology. Despite the widespread usage of the occupation variable, its measurement issues and the related theoretical and practical implications have been little studied in the sociology community. In this study, we review the previous studies on the measurement issue of occupation and examine the match rates of occupational codes between independent coders using the 2010 similar to 2018 Korean General Social Survey. Our results show that the reliability of occupational classification is not as high as previously assumed in sociology. The mismatch rates between two independent coders ranged from 31.3 % for the broad 1-digit occupational groupings to 50.9 % for the detailed 4-digit occupational groupings. We argue that this relatively low reliability is inherently tied to the socially constructive aspects of occupation. The factors associated with the mismatch are also explored. The implications of these findings for sociological research in stratification and mobility are discussed.",
+  "authors": [
+    {
+      "raw": "Kim, ChangHwan",
+      "family": "Kim",
+      "given": "ChangHwan"
+    },
+    {
+      "raw": "Kim, Jibum",
+      "family": "Kim",
+      "given": "Jibum"
+    },
+    {
+      "raw": "Ban, Mihee",
+      "family": "Ban",
+      "given": "Mihee"
+    }
+  ],
+  "authors_text": "Kim, ChangHwan; Kim, Jibum; Ban, Mihee",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100467",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100467",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100467",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100467.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

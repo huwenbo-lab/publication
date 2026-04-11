@@ -1,0 +1,30 @@
+{
+  "title": "Does Ethnicity Affect Ever Migrating and the Number of Migrations? The Case of Indonesia",
+  "abstract": "Abstract This paper is the first to examine to what extent ethnicity affects ever migrating and the number of migrations across the lifespan for the case of internal migration in Indonesia. We use all five waves of the Indonesia Family Life Survey (IFLS) to study migration behaviour of respondents belonging to some of the largest ethnic groups in Indonesia. Our logistic regression results show that the Minangkabau, Betawi, Madurese, Balinese, Buginese and Makassarese, and Sasak, Bima and Dompu are less likely to ever migrate than the Javanese. Using only migrants and controlling for the first migration and other characteristics, truncated negative binomial regression results show that, in comparison with the Javanese, the Minangkabau and Banjarese have a higher expected number of migrations while the numbers are lower for the Betawi and Balinese. Thus, ethnicity contributes to ever migrating as well as the number of migrations, but we find that the differences between the ethnic groups diminish for the latter. These results also point out that a higher likelihood of ever migrating does not always correspond with a higher number of migrations, highlighting the importance of studying migration count to complement the study of migration as a one-time event.",
+  "authors": [
+    {
+      "raw": "Pardede, Elda Luciana",
+      "family": "Pardede",
+      "given": "Elda Luciana"
+    },
+    {
+      "raw": "Venhorst, Viktor Andreas",
+      "family": "Venhorst",
+      "given": "Viktor Andreas"
+    }
+  ],
+  "authors_text": "Pardede, Elda Luciana; Venhorst, Viktor Andreas",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-023-09694-z",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09694-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09694-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09694-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

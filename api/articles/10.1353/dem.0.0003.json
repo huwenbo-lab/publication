@@ -1,0 +1,25 @@
+{
+  "title": "An assessment of China’s fertility level using the variable-r method",
+  "abstract": "Abstract The fertility level in China is a matter of uncertainty and controversy. This paper applies Preston and Coale’s (1982) variable-r method to assess the fertility level in China. By using data from China’s 1990 and 2000 censuses as well as annual population change surveys, the variable-r method confirms that Chinese fertility has reached a level well below replacement.",
+  "authors": [
+    {
+      "raw": "Cai, Yong",
+      "family": "Cai",
+      "given": "Yong"
+    }
+  ],
+  "authors_text": "Cai, Yong",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0003",
+  "doi_url": "https://doi.org/10.1353/dem.0.0003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

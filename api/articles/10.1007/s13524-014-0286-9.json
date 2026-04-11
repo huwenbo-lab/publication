@@ -1,0 +1,25 @@
+{
+  "title": "Does Contraceptive Use Always Reduce Breast-feeding?",
+  "abstract": "AbstractPrevious studies suggest that access to modern contraceptives can reduce breast-feeding rates because women who had been using breast-feeding to avoid pregnancy substitute away from it. This article shows that contraceptive use can also have a positive effect on breast-feeding. A mother often weans a child if she becomes pregnant again, which can occur sooner than desired if she lacks access to contraceptives. Thus, by enabling longer birth spacing and preventing unwanted pregnancies, contraceptive use allows for a longer duration of breast-feeding. This positive effect should primarily affect infants who are past the first few months of life because their mothers are more fecund then, and the negative effect should affect infants who are very young because the contraceptive property of breast-feeding is strongest then. I test for these dual effects using Demographic and Health Survey data for Indonesia. I find evidence of the positive birth-spacing effect: contraceptive use increases the likelihood that children continue to be breast-fed past age 1. There is also suggestive evidence of a negative substitution effect among infants age 3 months and younger.",
+  "authors": [
+    {
+      "raw": "Jayachandran, Seema",
+      "family": "Jayachandran",
+      "given": "Seema"
+    }
+  ],
+  "authors_text": "Jayachandran, Seema",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0286-9",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0286-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0286-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0286-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

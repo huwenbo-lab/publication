@@ -1,0 +1,25 @@
+{
+  "title": "Demography: Fast and Slow",
+  "abstract": "Scientific ideas on the human population tend to be rooted in a slow demography paradigm, which emphasizes an inertial, predictable, self-contained view of population dynamics, mostly dependent on fertility and mortality. Yet, demography can also move fast. At the country level, it is crucial to empirically assess how fast demography moves by taking migratory movements into account, in addition to fertility and mortality. We discuss these ideas and present new estimates of the speed of population change, that is, country-level population turnover rates, as well as the share of turnover due to migration, for all countries in the world with available data between 1990 and 2020. Population turnover is inversely related to population size and development, and migratory movements tend to become important factors in shaping demography for both small and highly developed countries. Longitudinally, we analyze annual turnover data for Italy and Germany, documenting the changing speed of population change over time and its determinants. Accepting the fast and slow demography perspective has several implications for science and policy, which we discuss.",
+  "authors": [
+    {
+      "raw": "Billari, Francesco C.",
+      "family": "Billari",
+      "given": "Francesco C."
+    }
+  ],
+  "authors_text": "Billari, Francesco C.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2022,
+  "doi": "10.1111/padr.12464",
+  "doi_url": "https://doi.org/10.1111/padr.12464",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12464",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12464.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Social capital as a partial explanation for gender wage gaps",
+  "abstract": "Despite a long record of research on the sources of the gender wage gap, a large fraction of gender wage differences remains unexplained. In this paper, we propose gender differences in social capital as a novel explanation for the gender wage gap. We use British data from the Understanding Society (UKHLS) survey and wage decompositions to estimate the contribution of social capital derived from network homophily, that is, the similarity to one's peer group, to the gender wage differential. Our results show that differences in network structure explain as much as 15% of the overall gender wage gap. This finding is largely driven by gender differences in the number of males among closest friends, while other social capital measures used in this study hardly matter. We further show that differences in returns to social capital are not statistically significant.",
+  "authors": [
+    {
+      "raw": "Collischon, Matthias",
+      "family": "Collischon",
+      "given": "Matthias"
+    },
+    {
+      "raw": "Eberl, Andreas",
+      "family": "Eberl",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Collischon, Matthias; Eberl, Andreas",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2021,
+  "doi": "10.1111/1468-4446.12833",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12833",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12833",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12833.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

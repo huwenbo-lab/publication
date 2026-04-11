@@ -1,0 +1,35 @@
+{
+  "title": "Relationship Quality in Marital and Cohabiting Unions Across Europe",
+  "abstract": "In this study, the authors used data from the first wave of the Generations and Gender Survey to investigate relationship quality among currently married and cohabiting individuals ages 18 to 55 (N = 41,760) in 8 European countries (Bulgaria, France, Germany, Hungary, Norway, Romania, Russia, and The Netherlands). They expected to find fewer differences between cohabitation and marriage in countries where cohabitation is widespread. Controlling for a range of selection characteristics of respondents and their partners (e.g., common children, union duration, and education), the analyses showed that in all countries cohabiters more often had breakup plans and were less satisfied with their relationships than individuals who married. This cohabitation gap in relationship quality was largest in Russia, Romania, and Germany, which indeed were among the countries in the current sample where cohabitation was least prevalent.",
+  "authors": [
+    {
+      "raw": "Aarskaug Wiik, Kenneth",
+      "family": "Aarskaug Wiik",
+      "given": "Kenneth"
+    },
+    {
+      "raw": "Keizer, Renske",
+      "family": "Keizer",
+      "given": "Renske"
+    },
+    {
+      "raw": "Lappegård, Trude",
+      "family": "Lappegård",
+      "given": "Trude"
+    }
+  ],
+  "authors_text": "Aarskaug Wiik, Kenneth; Keizer, Renske; Lappegård, Trude",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2012,
+  "doi": "10.1111/j.1741-3737.2012.00967.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2012.00967.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2012.00967.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2012.00967.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "National estimates of racial segregation in rural and small-town America",
+  "abstract": "Abstract The objective of this paper is to provide, for the first time, comparative estimates of racial residential segregation of blacks, Hispanics, and Native Americans in nonmetropolitan and metropolitan places in 1990 and 2000. Analyses are based on block data from the 1990 and 2000 U.S. decennial censuses. The results reveal a singularly important and perhaps surprising central conclusion: levels and trends in recent patterns of racial segregation in America’s small towns are remarkably similar to patterns observed in larger metropolitan cities. Like their big-city counterparts, nonmetropolitan blacks are America’s most highly segregated racial minority—roughly 30% to 40% higher than the indices observed for Hispanics and Native Americans. Finally, baseline ecological models of spatial patterns of rural segregation reveal estimates that largely support the conclusions reached in previous metropolitan studies. Racial residential segregation in rural places increases with growing minority percentage shares and is typically lower in “new” places (as measured by growth in the housing stock), while racially selective annexation and the implied “racial threat” at the periphery exacerbate racial segregation in rural places. Our study reinforces the need to broaden the spatial scale of segregation beyond its traditional focus on metropolitan cities or suburban places, especially as America’s population shifts down the urban hierarchy into exurban places and small towns.",
+  "authors": [
+    {
+      "raw": "Lichter, Daniel T.",
+      "family": "Lichter",
+      "given": "Daniel T."
+    },
+    {
+      "raw": "Parisi, Domenico",
+      "family": "Parisi",
+      "given": "Domenico"
+    },
+    {
+      "raw": "Grice, Steven Michael",
+      "family": "Grice",
+      "given": "Steven Michael"
+    },
+    {
+      "raw": "Taquino, Michael C.",
+      "family": "Taquino",
+      "given": "Michael C."
+    }
+  ],
+  "authors_text": "Lichter, Daniel T.; Parisi, Domenico; Grice, Steven Michael; Taquino, Michael C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0030",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

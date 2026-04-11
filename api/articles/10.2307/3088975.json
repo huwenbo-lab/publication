@@ -1,0 +1,30 @@
+{
+  "title": "The hinges of history: State-making and revolt in early modern France",
+  "abstract": "The formation of early modern states-combining increases in taxation, warfare, and administrative centralization-was often violently opposed by subjects. A game theoretic model of strategic interactions between rulers and subjects is developed to more fully specify the relationship between state-making and revolt in France between 1515 and 1789. Quantitative analyses of revolts throughout France are combined with a brief case study of revolts in Guyenne (the most quarrelsome French province) to test propositions derived from the model. Offensive war (but not war in general) and administrative centralization increased the likelihood of revolt, while the presence of the Estates General (the national legislative assembly) decreased it. The effect of taxation on revolt depended on the historical context-high taxes and offensive wars tended to incite revolts prior to the Fronde (a cluster of revolts in 1648-1653), but had no effect afterwards. It is argued that the outcomes of significant revolts, like the Fronde, often serve as important turning points in the history of state-making. Potentially similar events in medieval England and early modern Spain are also discussed.",
+  "authors": [
+    {
+      "raw": "Kiser, E",
+      "family": "Kiser",
+      "given": "E"
+    },
+    {
+      "raw": "Linton, A",
+      "family": "Linton",
+      "given": "A"
+    }
+  ],
+  "authors_text": "Kiser, E; Linton, A",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2002,
+  "doi": "10.2307/3088975",
+  "doi_url": "https://doi.org/10.2307/3088975",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088975",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088975.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

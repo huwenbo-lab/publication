@@ -1,0 +1,30 @@
+{
+  "title": "Knowledge Specialization, Knowledge Brokerage and the Uneven Growth of Technology Domains",
+  "abstract": "Why do certain domains of knowledge grow fast while others grow slowly or stagnate? Two distinct theoretical arguments hold that knowledge growth is enhanced by knowledge specialization and knowledge brokerage. Based on the notion of recombinant knowledge growth, we show that specialization and brokerage are opposing modes of knowledge generation, the difference between them lying in the extent to which homogeneous vs. heterogeneous input ideas get creatively recombined. Accordingly, we investigate how both modes of knowledge generation can enhance the growth of technology domains. To address this question, we develop an argument that reconciles both specialization and brokerage into a dynamic explanation. Our contention is that specializing in an increasingly homogeneous set of input ideas is both more efficient and less risky than brokering knowledge. Nevertheless, specializing implies progressively exhausting available recombinant possibilities, while brokerage creates new ones. Hence, technology domains tend to grow faster when they specialize, but the more specialized they become, the more they need knowledge brokerage to grow. We cast out our argument into five hypotheses that predict how growth rates vary across technology domains.",
+  "authors": [
+    {
+      "raw": "Carnabuci, G.",
+      "family": "Carnabuci",
+      "given": "G."
+    },
+    {
+      "raw": "Bruggeman, J.",
+      "family": "Bruggeman",
+      "given": "J."
+    }
+  ],
+  "authors_text": "Carnabuci, G.; Bruggeman, J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0257",
+  "doi_url": "https://doi.org/10.1353/sof.0.0257",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0257",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0257.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

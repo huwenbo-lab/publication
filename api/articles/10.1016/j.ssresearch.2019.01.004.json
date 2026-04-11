@@ -1,0 +1,40 @@
+{
+  "title": "Living in skipped generation households and happiness among middle-aged and older grandparents in China",
+  "abstract": "This study examines whether living in skipped-generation households (SGHs) is prospectively linked to happiness among middle-aged and older grandparents in China and explores the moderating effects of age, gender, education, income and rural-urban status on this link. The analyses use the two most recent waves of data (collected in 2012 and 2014) from the China Family Panel Studies. The outcome is a continuous, single-item happiness scale composed of data taken from the latter wave, while the key predictor is a categorical measurement of the respondents' living arrangements in 2012. The analyses use ordinary least squares (OLS) linear regression analyses to assess the relationship between the two variables of interest. Overall, grandparents living in SGHs are less happy than those living only with a spouse or those living in three-generation households. Age group and rural-urban status are found to be significant moderators. The negative link between living in SGHs and happiness is largely absent in the oldest age group (i.e., age 70 or above) and among urban dwellers.",
+  "authors": [
+    {
+      "raw": "Wen, Ming",
+      "family": "Wen",
+      "given": "Ming"
+    },
+    {
+      "raw": "Ren, Qiang",
+      "family": "Ren",
+      "given": "Qiang"
+    },
+    {
+      "raw": "Korinek, Kim",
+      "family": "Korinek",
+      "given": "Kim"
+    },
+    {
+      "raw": "Trinh, Ha N.",
+      "family": "Trinh",
+      "given": "Ha N."
+    }
+  ],
+  "authors_text": "Wen, Ming; Ren, Qiang; Korinek, Kim; Trinh, Ha N.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.01.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.01.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.01.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.01.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

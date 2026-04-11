@@ -1,0 +1,35 @@
+{
+  "title": "The relationship between attachment insecurity and pathological narcissism: A three‐level meta‐analysis",
+  "abstract": "AbstractThe detrimental effects of pathological narcissism on individual development and intimate relationships have been widely studied. Although the exact origins of this phenomenon are still debated, the important role that family dynamics play in its emergence is increasingly being recognized. Previous researchers have pointed out that insecure attachment is associated with pathological narcissism; however, empirical findings are inconsistent. Hence, this study conducted a three‐level random‐effects meta‐analysis based on 183 effect sizes from 29 articles (N = 8247 participants). Our findings have demonstrated the significant and positive link between insecure attachment and pathological narcissism (r = .18; 95% CI: 0.14, 0.22; p < .001). In addition, a moderator analysis was carried out to explore factors that may weaken or strengthen the primary association of interest. In total, there are five significant moderators, including insecure attachment style (F(3,176) = 13.72; p < .001), measurement tool of attachment insecurity (F(8,171) = 4.59; p < .001), measurement tool of pathological narcissism (F(6,173) = 5.21; p < .001), percentage of participants identifying as male (F(1,174) = 4.04; p = .046), and age (F(1,178) = 19.94; p < .001). This research highlights the positive correlation between attachment insecurity and pathological narcissism, providing family theorists with insights into how early family experiences influence personality formation and guiding family therapists in interventions for narcissistic pathology.",
+  "authors": [
+    {
+      "raw": "Zhang, Yihan",
+      "family": "Zhang",
+      "given": "Yihan"
+    },
+    {
+      "raw": "Zhang, Juan",
+      "family": "Zhang",
+      "given": "Juan"
+    },
+    {
+      "raw": "Wang, Yihui",
+      "family": "Wang",
+      "given": "Yihui"
+    }
+  ],
+  "authors_text": "Zhang, Yihan; Zhang, Juan; Wang, Yihui",
+  "journal": "Journal of Family Theory & Review",
+  "journal_slug": "Journal_of_Family_Theory_and_Review",
+  "year": 2024,
+  "doi": "10.1111/jftr.12593",
+  "doi_url": "https://doi.org/10.1111/jftr.12593",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjftr.12593",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jftr.12593.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Theory_and_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Theory_and_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

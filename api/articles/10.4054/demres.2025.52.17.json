@@ -1,0 +1,35 @@
+{
+  "title": "Life expectancy by religious affiliation in Finland 1972-2020",
+  "abstract": "BACKGROUND Religion and religiosity are known as important determinants of health and mortality. Previous studies on the interrelation between religion and mortality have relied on survey data and have mainly been carried out in a North American setting. OBJECTIVE We provide a register-based study of life expectancy by religious affiliation for a total national population over the course of five decades. METHODS We calculate life expectancy by religious affiliation, using register data on the entire population of Finland for the period 1972-2020. Calculations are made separately for men and women born in Finland and abroad. We use administrative longitudinal annual data on each person's religious denomination, as registered by the Finnish government. RESULTS Orthodox Christians have up to two years shorter life expectancy than members of the Evangelical Lutheran State Church, while people of other religions have up to four years longer life expectancy. Non-affiliated persons have about one-year shorter life expectancy than Evangelical Lutherans, but the difference has decreased over time, and they currently are at a similar level. The pattern of life expectancy is similar for the native and foreign-born, but sex differences are more pronounced among the latter.",
+  "authors": [
+    {
+      "raw": "Klein, Julia",
+      "family": "Klein",
+      "given": "Julia"
+    },
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    },
+    {
+      "raw": "Saarela, Jan",
+      "family": "Saarela",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Klein, Julia; Kolk, Martin; Saarela, Jan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.17",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "War Commemoration and Nationalism in Belgium, 1914-1945: The Role of Military Networks",
+  "abstract": "War commemoration either solidifies or undermines the nation. Studying the evolution of Belgian nationalism during and between the two World Wars, the authors argue that the impact of war commemoration on nationalism is conditional on the military networks in which warfare was embedded. The authors rely on commemorative books and archival records to create a unique database of World War I military networks and commemoration as well as nationalist resistance and anti-nationalist collaboration during World War II. Aligned with the main hypothesis, autoregressive network models reveal that if military networks crosscut the regional communities and fostered equal relationships, commemoration was likely to strengthen the defense of the nation. In the absence of these relationships, however, commemoration activated internal fault lines that undermined nationalism. These findings highlight how collective rituals, military organization, and social structure should be studied simultaneously to fully understand the relational dynamics of warfare and nation. This article also calls attention to a distinct set of mechanisms through which organizational and ideational effects produced by one war can carry on to the next.",
+  "authors": [
+    {
+      "raw": "Acosta, Laura",
+      "family": "Acosta",
+      "given": "Laura"
+    },
+    {
+      "raw": "Braun, Robert",
+      "family": "Braun",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Acosta, Laura; Braun, Robert",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab050",
+  "doi_url": "https://doi.org/10.1093/sf/soab050",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab050",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab050.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

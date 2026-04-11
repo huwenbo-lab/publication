@@ -1,0 +1,35 @@
+{
+  "title": "Industrial Robots and Regional Fertility in European Countries",
+  "abstract": "AbstractIn this study, we examine whether the long-term structural changes in the labour market, driven by automation, affect fertility. The adoption of industrial robots is used as a proxy for these changes. It has tripled since the mid-1990s in the EU, tremendously changing the conditions of participating in the labour market. On the one hand, new jobs are created, benefitting largely the highly skilled workers. On the other hand, the growing turnover in the labour market and changing content of jobs induce fears of job displacement and make workers continuously adjust to new requirements (reskill, upskill, increase work efforts). The consequences of these changes are particularly strong for the employment and earning prospects of low and middle-educated workers. Our focus is on six European countries: Czechia, France, Germany, Italy, Poland and the UK. We link regional data on fertility and employment structures by industry from Eurostat (NUTS-2) with data on robot adoption from the International Federation of Robotics. We estimate fixed effects linear models with instrumental variables in order to account for the external shocks which may affect fertility and robot adoption in parallel. Our findings suggest robots tend to exert a negative impact on fertility in highly industrialised regions, regions with relatively low educated populations and those which are technologically less advanced. At the same time, better educated and prospering regions may even experience fertility improvements as a result of technological change. The family and labour market institutions of the country may further moderate these effects.",
+  "authors": [
+    {
+      "raw": "Matysiak, Anna",
+      "family": "Matysiak",
+      "given": "Anna"
+    },
+    {
+      "raw": "Bellani, Daniela",
+      "family": "Bellani",
+      "given": "Daniela"
+    },
+    {
+      "raw": "Bogusz, Honorata",
+      "family": "Bogusz",
+      "given": "Honorata"
+    }
+  ],
+  "authors_text": "Matysiak, Anna; Bellani, Daniela; Bogusz, Honorata",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2023,
+  "doi": "10.1007/s10680-023-09657-4",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09657-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09657-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09657-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

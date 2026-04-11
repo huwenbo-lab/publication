@@ -1,0 +1,25 @@
+{
+  "title": "A Threatening Tone: Homicide, Racial Threat Narratives, and the Historical Growth of Incarceration in the United States, 1926-2016",
+  "abstract": "This study evaluates how homicide, racial threat, and media discourse interacted to shape the timing and persistence of prison growth in the United States. Drawing on Blumer's classic work, I argue that media discourse circulates threat narratives that portray racial minorities as either economically, politically, or criminally threatening. Criminal threat narratives increase in response to highly salient crimes, like homicide, and exert institutionally specific pressures that increase incarceration. To evaluate these claims, I use machine learning to classify 1,026,862 news articles in accordance with economic, political, and criminal threat themes in a time series analysis of the national incarceration rate between 1926 and 2016. Results reveal that the period of prison growth is characterized by an influx of criminal threat narratives that coincides with increases in the homicide rate. Criminal threat narratives and the homicide rate both have sizable long-term effects on the incarceration rate, whereas economic and political threat narratives have little explanatory power. Further analyses show that criminal threat narratives account for roughly half of the effect of the homicide rate on incarceration, and that the homicide rate has an indirect effect on racial disparity in prison admissions by acting through criminal threat narratives. These findings support core theoretical claims and expand our understanding of the complex interaction between racial threat and homicide in the historical rise of incarceration.",
+  "authors": [
+    {
+      "raw": "Duxbury, Scott W.",
+      "family": "Duxbury",
+      "given": "Scott W."
+    }
+  ],
+  "authors_text": "Duxbury, Scott W.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soad022",
+  "doi_url": "https://doi.org/10.1093/sf/soad022",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad022",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad022.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

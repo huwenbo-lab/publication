@@ -1,0 +1,35 @@
+{
+  "title": "Migration Systems in Europe: Evidence From Harmonized Flow Data",
+  "abstract": "AbstractEmpirical tests of migration systems theory require consistent and complete data on international migration flows. Publicly available data, however, represent an inconsistent and incomplete set of measurements obtained from a variety of national data collection systems. We overcome these obstacles by standardizing the available migration reports of sending and receiving countries in the European Union and Norway each year from 2003–2007 and by estimating the remaining missing flows. The resulting harmonized estimates are then used to test migration systems theory. First, locating thresholds in the size of flows over time, we identify three migration systems within the European Union and Norway. Second, examining the key determinants of flows with respect to the predictions of migration systems theory, our results highlight the importance of shared experiences of nation-state formation, geography, and accession status in the European Union. Our findings lend support to migration systems theory and demonstrate that knowledge of migration systems may improve the accuracy of migration forecasts toward managing the impacts of migration as a source of social change in Europe.",
+  "authors": [
+    {
+      "raw": "DeWaard, Jack",
+      "family": "DeWaard",
+      "given": "Jack"
+    },
+    {
+      "raw": "Kim, Keuntae",
+      "family": "Kim",
+      "given": "Keuntae"
+    },
+    {
+      "raw": "Raymer, James",
+      "family": "Raymer",
+      "given": "James"
+    }
+  ],
+  "authors_text": "DeWaard, Jack; Kim, Keuntae; Raymer, James",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0117-9",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0117-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0117-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0117-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

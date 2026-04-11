@@ -1,0 +1,40 @@
+{
+  "title": "Does the crying baby always get the milk? An analysis of government responses for online requests",
+  "abstract": "One thing that has frequently been overlooked in studies of how a local government responds to its citizens is the text itself. When a petitioner drafts a post, they can pick up words and choose how the demand or question is conveyed. Thus, how a post is composed may also influence local government responsiveness. In this study, we investigated whether a delayed response is due to the way the message is drafted or the actual content by separating content-related and content-agnostic text features. Based on posts retrieved from two websites, we found that the response pattern varies by location, time, and type of queried agency. Our results also indicated that lengthy and low positive sentiment posts generally result in longer waiting times. However, more research is needed to gauge the possibility of a false negative and the meaning of contents extracted from computational tools. In addition, our work scrutinized several methodological issues and sought practical solutions to analyzing big data.",
+  "authors": [
+    {
+      "raw": "Cai, Tianji",
+      "family": "Cai",
+      "given": "Tianji"
+    },
+    {
+      "raw": "Li, Fumin",
+      "family": "Li",
+      "given": "Fumin"
+    },
+    {
+      "raw": "Zhan, Jian",
+      "family": "Zhan",
+      "given": "Jian"
+    },
+    {
+      "raw": "Wang, Zhengrong",
+      "family": "Wang",
+      "given": "Zhengrong"
+    }
+  ],
+  "authors_text": "Cai, Tianji; Li, Fumin; Zhan, Jian; Wang, Zhengrong",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1080/21620555.2022.2103667",
+  "doi_url": "https://doi.org/10.1080/21620555.2022.2103667",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2022.2103667",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2022.2103667.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

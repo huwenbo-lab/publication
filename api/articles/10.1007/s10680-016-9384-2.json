@@ -1,0 +1,35 @@
+{
+  "title": "Does the Impact of the Tobacco Epidemic Explain Structural Changes in the Decline of Mortality?",
+  "abstract": "Since 1950, most developed countries have exhibited structural changes in mortality decline. This complicates extrapolative forecasts, such as the commonly used Lee-Carter model, that require the presence of a steady long-term trend. This study tests whether the impact of the tobacco epidemic explains the structural changes in mortality decline, as it is presumed in earlier studies. For this purpose, the time index of the Lee-Carter model in males was investigated in 20 developed countries between 1950 and 2011 for possible structural changes. It was found that removing the impact of smoking from mortality trends took away more than half of the 12 detected trend breaks. For the remaining trend breaks, adjusting for smoking attenuated the degree of change in mortality decline. Taking the tobacco epidemic into account should become standard procedure in mortality forecasts to avoid a misleading extrapolation of trends. Nevertheless, more research is needed to identify additional factors, such as health-care policies and innovations in medical treatment, to explain the remaining structural changes.",
+  "authors": [
+    {
+      "raw": "Peters, F.",
+      "family": "Peters",
+      "given": "F."
+    },
+    {
+      "raw": "Mackenbach, J. P.",
+      "family": "Mackenbach",
+      "given": "J. P."
+    },
+    {
+      "raw": "Nusselder, W. J.",
+      "family": "Nusselder",
+      "given": "W. J."
+    }
+  ],
+  "authors_text": "Peters, F.; Mackenbach, J. P.; Nusselder, W. J.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2016,
+  "doi": "10.1007/s10680-016-9384-2",
+  "doi_url": "https://doi.org/10.1007/s10680-016-9384-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-016-9384-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-016-9384-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

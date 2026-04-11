@@ -1,0 +1,50 @@
+{
+  "title": "Dimensional Latent Structure of Relationship Quality: Results of Three Representative Population Samples",
+  "abstract": "A fundamental question facing every latent construct (e.g., relationship quality) is whether the construct is categorical or dimensional in nature. The authors analyzed the latent status of relationship quality in 3 large general German population samples using the Partnership Questionnaire (PFB), the Quality of Relationship Inventory, and the short form of the PFB (PFB-K; N-1 = 1,330, N-2 = 1,494, N-3 = 1,390). They applied 3 widely used taxometric methods: (a) MAXEIG, (b) MAMBAC, and (c) L-Mode. Simulation data were created to evaluate the comparison curve fit index values, which were below 0.5 across the 3 German population samples, supporting a dimensional solution. Hence, in the current study the latent structure of relationship quality encompassed differences in degree rather than kind. Implications of the dimensional latent status of relationship quality, as well as causes of the discrepant findings with previous taxometric studies, are discussed.",
+  "authors": [
+    {
+      "raw": "Kliem, Soeren",
+      "family": "Kliem",
+      "given": "Soeren"
+    },
+    {
+      "raw": "Foran, Heather M.",
+      "family": "Foran",
+      "given": "Heather M."
+    },
+    {
+      "raw": "Beller, Johannes",
+      "family": "Beller",
+      "given": "Johannes"
+    },
+    {
+      "raw": "Hahlweg, Kurt",
+      "family": "Hahlweg",
+      "given": "Kurt"
+    },
+    {
+      "raw": "Stoebel-Richter, Yve",
+      "family": "Stoebel-Richter",
+      "given": "Yve"
+    },
+    {
+      "raw": "Braehler, Elmar",
+      "family": "Braehler",
+      "given": "Elmar"
+    }
+  ],
+  "authors_text": "Kliem, Soeren; Foran, Heather M.; Beller, Johannes; Hahlweg, Kurt; Stoebel-Richter, Yve; Braehler, Elmar",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12211",
+  "doi_url": "https://doi.org/10.1111/jomf.12211",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12211",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12211.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Female employment and fertility trajectories in Spain: an Optimal Matching Analysis",
+  "abstract": "This article describes the evolution of labour market participation and fertility patterns in Spain among women born between 1956 and 1970. Trajectories are captured by combining partnership, employment and motherhood over a 20-year span (from the age of 16 to the age of 35). Using Optimal Matching Analysis, four different patterns in female trajectories are identified: (1) early marriage/non-working mother/high fertility; (2) late marriage/working mother/low fertility; (3) early marriage/working mother/high fertility; and (4) late marriage/low participation/low fertility. A multinomial probit model contrasts whether or not the patterns found are compatible with the human capital approach to female labour market participation and fertility and/or Hakim’s preference theory. Results show that both theoretical frameworks partly explain the observed trajectories although neither of them, not even both together, suffices to determine female employment and family careers.",
+  "authors": [
+    {
+      "raw": "Davia, Maria A",
+      "family": "Davia",
+      "given": "Maria A"
+    },
+    {
+      "raw": "Legazpe, Nuria",
+      "family": "Legazpe",
+      "given": "Nuria"
+    }
+  ],
+  "authors_text": "Davia, Maria A; Legazpe, Nuria",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2014,
+  "doi": "10.1177/0950017013500117",
+  "doi_url": "https://doi.org/10.1177/0950017013500117",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017013500117",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017013500117.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

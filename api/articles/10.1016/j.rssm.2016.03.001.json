@@ -1,0 +1,30 @@
+{
+  "title": "The absolute and relative values of education and the inequality of educational opportunity: Trends in access to education in postwar Japan",
+  "abstract": "We propose three models of measuring the value of educational attainment, and we investigated using these models the changes in the effect of fathers' education on educational attainment during the course of educational expansion in post-war Japan. The first model corresponds to a notion of the absolute level of educational attainment and the other two models present a conceptualization of educational achievement that considers education from a relative point of view. We used the data from the Social Stratification and Social Mobility surveys and the Japanese Life Course Panel surveys. The results showed that when we used years of schooling as an indicator of educational attainment in absolute terms, the inequality of educational opportunity by social background was reduced during the post-war period, and the least advantaged group benefited most from the general upgrading of education. However, when we measured the relative value of education by its occupational return in the labor market or by individuals' ranking within the distribution of education, we observed an increasing gap between individuals whose fathers graduated from high school and those with university-educated fathers in access to advantageous education. We discuss the implications of these diverging findings. (C) 2016 Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Fujihara, Sho",
+      "family": "Fujihara",
+      "given": "Sho"
+    },
+    {
+      "raw": "Ishida, Hiroshi",
+      "family": "Ishida",
+      "given": "Hiroshi"
+    }
+  ],
+  "authors_text": "Fujihara, Sho; Ishida, Hiroshi",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2016,
+  "doi": "10.1016/j.rssm.2016.03.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2016.03.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2016.03.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2016.03.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

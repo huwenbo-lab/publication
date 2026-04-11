@@ -1,0 +1,35 @@
+{
+  "title": "A Tale of Two Cities: A Decomposition of Recent Fertility Changes in Shanghai and Hong Kong",
+  "abstract": "In the past 20 years, Hong Kong and Shanghai's total fertility rates (TFR) have undergone drastic changes: first declining and then rebounding. We use a decomposition method to assess changes in the TFRs of these two cities during the period 1990–2010. During the period of decline from 1990 to 2000, the decrease in marital fertility rate (MFR) was the major cause behind Shanghai's TFR decline; the decrease in nuptiality and MFR were equally responsible for the decline in Hong Kong's TFR. During the 2000–2010 period, although the decline in nuptiality exerted downward pressure on TFR, both cities experienced an increase in TFR mainly due to an increase in the MFR. Analysis of the difference in TFR between the two cities in 2010/2011, also reveals that Hong Kong's marriage delay has a negative impact on fertility and it is the higher MFR that leads to a higher TFR than Shanghai's TFR. It also shows that a reduction of first- and second-order births is equally responsible for Shanghai's lower MFR. Despite the one-child policy in Shanghai, some couples continue to postpone their first births, while others have even chosen to be childfree (a preferred term to 'childless'). The tempo distortion is diminishing more prominently in Hong Kong, while the decline in fertility aspiration adds much uncertainty to future fertility trends in Shanghai.",
+  "authors": [
+    {
+      "raw": "Yip, Paul Siu Fai",
+      "family": "Yip",
+      "given": "Paul Siu Fai"
+    },
+    {
+      "raw": "Chen, Mengni",
+      "family": "Chen",
+      "given": "Mengni"
+    },
+    {
+      "raw": "Chan, Chee Hon",
+      "family": "Chan",
+      "given": "Chee Hon"
+    }
+  ],
+  "authors_text": "Yip, Paul Siu Fai; Chen, Mengni; Chan, Chee Hon",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2015,
+  "doi": "10.1080/17441730.2015.1093285",
+  "doi_url": "https://doi.org/10.1080/17441730.2015.1093285",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2015.1093285",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2015.1093285.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

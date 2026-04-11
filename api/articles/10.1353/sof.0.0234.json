@@ -1,0 +1,30 @@
+{
+  "title": "Diversity, Racial Threat and Metropolitan Housing Segregation",
+  "abstract": "Previous studies have shown that as the percent black or percent Hispanic grows, that groups residential segregation from whites tends to increase as well. Typically, these findings are explained in terms of white discriminatory reaction to the perceived threat associated with minority population growth. The present analysis examines whether these racial threat effects depend on the extent of racial and ethnic diversity in an area. This possibility is tested by estimating otherwise standard models of black-white and Hispanic-white segregation using metropolitan area data from the 1990 and 2000 U.S. censuses. Results from robust regression analyses strongly support the prediction for each of the white-minority pairs: the racial threat effect is significantly diminished in areas with greater multi-ethnic diversity.",
+  "authors": [
+    {
+      "raw": "DeFina, R.",
+      "family": "DeFina",
+      "given": "R."
+    },
+    {
+      "raw": "Hannon, L.",
+      "family": "Hannon",
+      "given": "L."
+    }
+  ],
+  "authors_text": "DeFina, R.; Hannon, L.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0234",
+  "doi_url": "https://doi.org/10.1353/sof.0.0234",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0234",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0234.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

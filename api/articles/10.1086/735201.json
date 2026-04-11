@@ -1,0 +1,25 @@
+{
+  "title": "Market Design as Organizational Problem: Explaining System Failures in Platform Markets",
+  "abstract": "System failures occur when organizations managing sociotechnical systems lose control over interactions between components. To prevent such failures, organizations decompose systems into simpler parts and empower frontline experts to manage them in a flat hierarchy. The article examines whether such modularization applies to the design of platform markets, focusing on California's electricity markets between 1995 and 2000. Although modularization seemed like a reasonable technique to avoid system failures, the platforms became vulnerable to persistent gaming. Drawing on rich archival data and interviews, the article finds that the platform markets violated a central requirement for distributed organizations. Market actors, unlike organizational employees, did not cooperate to maintain the relationship between modules. This hindered designers' ability to prevent, detect, and correct failures. The case reveals a tension between designers' efforts to coordinate actors via incentives and organizational strategies to manage complex sociotechnical systems, highlighting the need for an organizational sociology of digital marketplaces.",
+  "authors": [
+    {
+      "raw": "Rilinger, Georg",
+      "family": "Rilinger",
+      "given": "Georg"
+    }
+  ],
+  "authors_text": "Rilinger, Georg",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1086/735201",
+  "doi_url": "https://doi.org/10.1086/735201",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F735201",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/735201.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

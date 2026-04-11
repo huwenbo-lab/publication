@@ -1,0 +1,35 @@
+{
+  "title": "For better or worse: Economic strain, furlough, and relationship quality during the Covid-19 lockdown",
+  "abstract": "Objective This study evaluates the role of objective and subjective measures of economic uncertainty, as well as furlough schemes, on changes in couples' relationships during the first lockdown in the UK.Background Most theories of relationship quality argue that economic uncertainty strains intimate relationships, leading to a deterioration in relationship quality. Few studies capture such an intense period of economic uncertainty, and the role of government policy to mitigate the impact of the economic crisis.Method The study employs the UK Household Longitudinal Covid-19 surveys conducted in April-June 2020. Using multinomial logit regression models (N = 5792), we examine how self-reported change in relationship quality is associated with socioeconomic status, subjective financial uncertainty, and change in employment situation, especially for those furloughed through the UK government's Employment Protection Scheme.Results The study finds that 8% of individuals reported a decline in their couple relationship quality, but 19% reported improvements. Those with higher education and household earnings were more likely to experience improvements in relationship quality. Reduced work hours or job loss was not associated with changes in relationship, although expecting a worse future financial situation was. Furlough was strongly associated with improvements in relationships, and furloughed men were slightly more likely to report an improvement in their relationships than women.Conclusion and Implications Although prior research has found that economic uncertainty is detrimental to relationships, employment protection schemes seem to have mitigated some of the worst effects on families.",
+  "authors": [
+    {
+      "raw": "Perelli-Harris, Brienna",
+      "family": "Perelli-Harris",
+      "given": "Brienna"
+    },
+    {
+      "raw": "Chao, Shih-Yi",
+      "family": "Chao",
+      "given": "Shih-Yi"
+    },
+    {
+      "raw": "Berrington, Ann",
+      "family": "Berrington",
+      "given": "Ann"
+    }
+  ],
+  "authors_text": "Perelli-Harris, Brienna; Chao, Shih-Yi; Berrington, Ann",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2023,
+  "doi": "10.1111/jomf.12906",
+  "doi_url": "https://doi.org/10.1111/jomf.12906",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12906",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12906.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

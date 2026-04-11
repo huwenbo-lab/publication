@@ -1,0 +1,35 @@
+{
+  "title": "Inheriting the Grade: HOLC “Redlining” Maps and Contemporary Neighborhood Crime",
+  "abstract": "Communities and crime research often invokes historical housing policies to explain vast disparities in crime. However, these assertions are rarely tested. Using lending security maps from the government-sponsored Home Owner’s Loan Corporation (HOLC), we examine the consequences for neighborhood crime of a notorious policy intervention in the housing market: the practice of “redlining” that discouraged investment in Black, non-White, and poor areas. The HOLC maps represent class and race biases embedded in the housing market and may have institutionalized the practice of redlining. Pairing data from the National Neighborhood Crime Study (Wave 2) with HOLC maps, we find neighborhoods with relatively poor HOLC grades inherited more violence and burglary some 70 years later. Furthermore, greater concentrations of contemporary neighborhood disadvantage, racial segregation, and housing instability largely explain these associations. Findings underscore the long shadow of historical interventions in the housing market for inequalities in the spatial distribution of crime today.",
+  "authors": [
+    {
+      "raw": "Lyons, Christopher J.",
+      "family": "Lyons",
+      "given": "Christopher J."
+    },
+    {
+      "raw": "Vélez, María B.",
+      "family": "Vélez",
+      "given": "María B."
+    },
+    {
+      "raw": "Chen, Xuanying",
+      "family": "Chen",
+      "given": "Xuanying"
+    }
+  ],
+  "authors_text": "Lyons, Christopher J.; Vélez, María B.; Chen, Xuanying",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231197030",
+  "doi_url": "https://doi.org/10.1177/23780231231197030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231197030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231197030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

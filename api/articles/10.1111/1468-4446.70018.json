@@ -1,0 +1,35 @@
+{
+  "title": "Social Mobility, Self-Selection, and the Persistence of Class Inequality in Electoral Participation",
+  "abstract": "In recent decades, non-voting among the British working class has increased substantially, contributing to widening class-based inequality in electoral participation. This study examines the impact of occupational class mobility on the intergenerational transmission of electoral participation in two ways. First, by applying Diagonal Reference Models to data from the British Household Panel Survey and the UK Household Longitudinal Study covering eight General Elections. Through this, we estimate the impact of mobility on the relative influence of class of origin and class of destination. Second, by examining patterns of non-voting during the early years of adulthood in order to estimate the degree to which class patterns of non-voting among occupationally mature adults reflect processes of prior self-selection, rather than the pattern of non-voting associated with occupational class of destination. The findings indicate that upwardly mobile individuals are more likely to vote, but only after they have experienced occupational mobility into the middle class, thus suggesting a process of acculturation into the class of destination that diminishes the influence of their class origins. Conversely, individuals who are downwardly mobile from the middle class are less likely to vote. However, this lower level of participation is already apparent earlier in life, before they experience adult occupational mobility. This suggests a pre-existing pattern indicative of selection effects. These dynamics, in the context of balanced patterns of upward and downward mobility, reinforce class inequalities in electoral participation and suggest that relative differences in turnout between social classes are likely to remain stable or even widen.",
+  "authors": [
+    {
+      "raw": "Melli, Giacomo",
+      "family": "Melli",
+      "given": "Giacomo"
+    },
+    {
+      "raw": "de Graaf, Nan Dirk",
+      "family": "de Graaf",
+      "given": "Nan Dirk"
+    },
+    {
+      "raw": "Evans, Geoffrey",
+      "family": "Evans",
+      "given": "Geoffrey"
+    }
+  ],
+  "authors_text": "Melli, Giacomo; de Graaf, Nan Dirk; Evans, Geoffrey",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1111/1468-4446.70018",
+  "doi_url": "https://doi.org/10.1111/1468-4446.70018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.70018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.70018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

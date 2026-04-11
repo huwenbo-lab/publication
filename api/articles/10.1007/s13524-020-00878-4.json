@@ -1,0 +1,30 @@
+{
+  "title": "Understanding Trends in the Concentration of Infant Mortality Among Disadvantaged White and Black Mothers in the United States, 1983-2013: A Decomposition Analysis",
+  "abstract": "The United States compares unfavorably with other high-income countries in infant mortality, which recent literature has attributed to the poor birth outcomes among disadvantaged (i.e., unmarried and less-educated) mothers. Describing and decomposing the trend of the concentration of infant mortality among disadvantaged mothers thus provides important clues for improving birth outcomes. We develop the infant mortality disadvantage index (IMDI) to measure such concentration. Using the 1983-2013 Birth Cohort Linked Birth and Infant Death data, we show that although the IMDI-as a measure of mortality inequality-was persistently higher for Blacks than Whites, the trends were different between the two groups. The IMDI declined for Black women; for White women, however, it increased in the 1980s, then plateaued until the early 2000s, and declined thereafter. We then use Das Gupta's decomposition method to assess the contribution of five demographic/social factors (age, education, marriage, fertility, and infant mortality) to the IMDI trend. Nonmarital fertility among women with less than 12 years of education contributed most to Whites' changing IMDI; for Blacks, a shrinking proportion of the less-educated group and declines in infant mortality among disadvantaged mothers contributed to their declining IMDI. These findings explicate links between population-level compositional changes and infant mortality inequality.",
+  "authors": [
+    {
+      "raw": "Fan, Wen",
+      "family": "Fan",
+      "given": "Wen"
+    },
+    {
+      "raw": "Luo, Liying",
+      "family": "Luo",
+      "given": "Liying"
+    }
+  ],
+  "authors_text": "Fan, Wen; Luo, Liying",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00878-4",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00878-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00878-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00878-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

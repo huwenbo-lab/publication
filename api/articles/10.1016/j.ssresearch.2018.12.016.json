@@ -1,0 +1,30 @@
+{
+  "title": "Reproduction of social inequality through housing: A three-generational study from Norway",
+  "abstract": "The means through which socioeconomic status is transmitted across generations has long been of central interest to scholarship on inequality. We explore multi-generational reproduction of socioeconomic status through transmission of housing wealth by investigating how the tenure, size and location of housing occupied by grandparents relates to the tenure and value of housing occupied by their grandchildren. We estimate OLS, tobit and structural equation models based on Norwegian register data on three generations of families linked from 1960 to 2015. We find that those whose grandparents owned a large home in Oslo in 1960 had a much higher probability of owning a home in 2014, and among owners their dwellings were valued substantially more, compared to otherwise similar individuals whose grandparents were renters not living in cities. A natural experiment of housing price deregulation in Oslo indicates that resource transfers, not socialization of housing-related norms, was the dominant mechanism behind this process. Influences on parents' and grandchildren's income and education are substantial mediators. Results document the crucial role played by housing wealth in perpetuating social inequalities across several generations.",
+  "authors": [
+    {
+      "raw": "Galster, George",
+      "family": "Galster",
+      "given": "George"
+    },
+    {
+      "raw": "Wessel, Terje",
+      "family": "Wessel",
+      "given": "Terje"
+    }
+  ],
+  "authors_text": "Galster, George; Wessel, Terje",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.12.016",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.12.016",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.12.016",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.12.016.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

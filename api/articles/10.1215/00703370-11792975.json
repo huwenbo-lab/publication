@@ -1,0 +1,25 @@
+{
+  "title": "Flooding, Sociospatial Risk, and Population Health",
+  "abstract": "Climate change and population settlement patterns are altering the severity and spatial dimensions of flooding. Despite associational evidence linking flood expo sure to population health in the United States, few studies have used counterfactual strategies to address confounding or examined how sociospatial determinations of risk, such as floodplain delineation, affect wellbeing. Using the case of Hurricane Harvey, I leverage novel, repeated crosssectional health survey data from Houston immedi ately predisaster (N = 2,540) and six to nine months postdisaster (N = 2,798), linked to local flood inundation and floodplain data. Differenceindifferences models show that the probability of psychological distress and fair/poor health increased significantly in the flooded treatment group, with mixed evidence on unhealthy mental health days and no change in unhealthy physical health days. Tripledifference estimators further reveal buffered mental health adversity for those in flooded areas with high floodplain areal coverage relative to little or no floodplains. Descriptive analyses of mechanisms suggest that floodplain coverage did not differentiate individuallevel disaster expo sure but increased the likelihood of disaster preparedness and evacuation. This article offers insights into the climate-health nexus empirically by using a causal framework to improve credibility and conceptually by demonstrating how an underexamined dimen sion of vulnerability-sociospatial risk determinations-can stratify population health.",
+  "authors": [
+    {
+      "raw": "Raker, Ethan J.",
+      "family": "Raker",
+      "given": "Ethan J."
+    }
+  ],
+  "authors_text": "Raker, Ethan J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11792975",
+  "doi_url": "https://doi.org/10.1215/00703370-11792975",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11792975",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11792975.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

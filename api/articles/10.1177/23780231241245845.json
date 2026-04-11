@@ -1,0 +1,40 @@
+{
+  "title": "Measuring Gender Status Beliefs",
+  "abstract": "The implicit association test (IAT) is designed to reduce socially desirable responses and capture implicit associations between two social categories. Prior work has used and expanded on the IAT to capture implicit status beliefs, but tests of the specific images and words used to denote status and gender are lacking. Here, the authors (1) identify specific images to best elicit implicit stereotypical gender differentiation, (2) identify specific words to best distinguish relative status, and (3) assess the test-retest reliability of a full and a brief gender status IAT. First, the authors find that images presented in grayscale, rather than images presented in color, best elicit implicit gender categorization. The authors also identify five male and five female images that best elicit implicit stereotypical gender categorization. Second, the findings show that status words and evaluation words load on unique factors (highlighting that the status words are not merely capturing evaluations), and the authors identify five specific words that best distinguish implicit relative status. Third, the authors find that the standard long-form IAT has a more acceptable test-retest reliability than the brief IAT. The authors conclude with suggestions on how to further refine the measure and how it might be applied in research.",
+  "authors": [
+    {
+      "raw": "Montgomery, Bradley",
+      "family": "Montgomery",
+      "given": "Bradley"
+    },
+    {
+      "raw": "Park, Hyomin",
+      "family": "Park",
+      "given": "Hyomin"
+    },
+    {
+      "raw": "Barry Burrill, Leanne",
+      "family": "Barry Burrill",
+      "given": "Leanne"
+    },
+    {
+      "raw": "Melamed, David",
+      "family": "Melamed",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Montgomery, Bradley; Park, Hyomin; Barry Burrill, Leanne; Melamed, David",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241245845",
+  "doi_url": "https://doi.org/10.1177/23780231241245845",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241245845",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241245845.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

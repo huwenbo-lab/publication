@@ -1,0 +1,30 @@
+{
+  "title": "The diversity Wave:A meta-analysis of the native-born white response to ethnic diversity",
+  "abstract": "Does ethnic diversity increase or reduce white threat perceptions? Meta-analyses help orient a field and communicate findings to policymakers. We report the results of a meta-analysis of studies measuring the relationship between ethnic context and both opposition to immigration and support for anti-immigration parties. Our analysis attempts to be exhaustive, and is based on 171 post-1995 studies averaging 25,000 observations each, a knowledge base of over 4 million data points. We find a linear association between ethnic change and elevated threat. However, for diversity levels, the relationship between ethnic context and threat is nonlinear. This takes the form of a 'wave', with higher diversity predicting threat responses at the smallest and largest scales, whereas in units of 5000-10,000 people (such as tracts or neighbourhoods), diversity is associated with reduced threat.",
+  "authors": [
+    {
+      "raw": "Kaufmann, Eric",
+      "family": "Kaufmann",
+      "given": "Eric"
+    },
+    {
+      "raw": "Goodwin, Matthew J.",
+      "family": "Goodwin",
+      "given": "Matthew J."
+    }
+  ],
+  "authors_text": "Kaufmann, Eric; Goodwin, Matthew J.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.07.008",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.07.008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.07.008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.07.008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

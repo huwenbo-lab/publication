@@ -1,0 +1,25 @@
+{
+  "title": "Inherited Advantage: Comparing Households that Receive Gifts and Bequests with Non-receiving Households across the Distribution of Household Wealth in 11 European Countries",
+  "abstract": "This study examines the importance of gifts and bequests ('wealth transfers') across the distribution of household wealth. Unconditional quantile regression applied to harmonized survey data obtained from 11 European countries reveals that households that receive gifts and bequests own considerably more wealth than non-receiving households, all other things being equal. The wealth gap varies hugely along the distribution of net wealth. At the median, the wealth gap reaches about 119,000 euros and increases to 630,000 euros at the 90th percentile. With regard to the 99th percentile, survey data even indicate differences in wealth levels greater than 2.3 million euros. Further analysis finds evidence that the impact of wealth transfers on household wealth follows an inverted U-shaped pattern: gifts and bequests contribute the most to the stock of private wealth in the broad mid-section and less so at the lower and upper ends of the distribution. Overall, the study provides evidence for a strong nexus between inheritance and household wealth that is not limited to the top.",
+  "authors": [
+    {
+      "raw": "Korom, Philipp",
+      "family": "Korom",
+      "given": "Philipp"
+    }
+  ],
+  "authors_text": "Korom, Philipp",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcx084",
+  "doi_url": "https://doi.org/10.1093/esr/jcx084",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx084",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx084.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

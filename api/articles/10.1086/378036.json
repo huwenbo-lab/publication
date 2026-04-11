@@ -1,0 +1,30 @@
+{
+  "title": "The socioeconomic determinants of ill-gotten gains: Within-person changes in drug use and illegal earnings",
+  "abstract": "Generalizing from the sociology of earnings attainment, we develop a conceptual model of social embeddedness in conventional and criminal activities to explain illegal earnings among criminal offenders. To isolate the effects of time-varying factors such as legal earnings, drug use, and criminal opportunities, we use data from the National Supported Work Demonstration Project to estimate fixed-effects models predicting month-to-month changes in illegal earnings. We find that criminal earnings are sensitive to embeddedness in conforming work and family relationships, criminal experience, and the perceived risks and rewards of crime. Moreover, heroin and cocaine use creates a strong earnings imperative that is difficult to satisfy in the low-wage labor market, and offenders earn far more money illegally when they are using these drugs than during periods of abstinence.",
+  "authors": [
+    {
+      "raw": "Uggen, C",
+      "family": "Uggen",
+      "given": "C"
+    },
+    {
+      "raw": "Thompson, M",
+      "family": "Thompson",
+      "given": "M"
+    }
+  ],
+  "authors_text": "Uggen, C; Thompson, M",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2003,
+  "doi": "10.1086/378036",
+  "doi_url": "https://doi.org/10.1086/378036",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F378036",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/378036.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

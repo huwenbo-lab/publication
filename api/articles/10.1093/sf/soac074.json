@@ -1,0 +1,25 @@
+{
+  "title": "The Topography of Subnational Inequality",
+  "abstract": "In this study, I examine inequality divergence, or the inequality of inequalities across local labor markets. While divergence trends of central tendencies such as per capita income have been well documented, less is known about the descriptive trends or contributing mechanisms for inequality itself. In this study, I construct wage inequality measures in 722 commuting zones covering the entire contiguous United States across 22 waves of Census and American Community Survey data from 1940 to 2019 to assess the historical trends of inequality divergence. I synthesize counterfactual and variance decomposition techniques to develop main conclusions. Results show two eras, one of convergence between 1950 and 1990, and divergence between 1990 and 2019, resulting in rates of divergence today as high as any time in the past 80 years. With a brief exception from 1990 to 2007, most changes occurred through the geographical mobility of wages across labor markets. In the 1950-1990 period, this primarily occurred through equalization of wages across regions and within the US South, while the takeoff of highly urban and unequal labor markets made a novel contribution to the 1990-2019 era. In total, results point to the fundamental importance of what I term the topography of inequality, or the contours of inequality levels across spatial locations and the change in the size and location of peaks and valleys across time, for understanding the full nature of long run inequality change.",
+  "authors": [
+    {
+      "raw": "VanHeuvelen, Tom",
+      "family": "VanHeuvelen",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "VanHeuvelen, Tom",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac074",
+  "doi_url": "https://doi.org/10.1093/sf/soac074",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac074",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac074.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

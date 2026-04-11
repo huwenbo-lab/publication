@@ -1,0 +1,35 @@
+{
+  "title": "The effects of maternal employment on child injuries and infectious disease",
+  "abstract": "AbstractThis article presents estimates of effects of maternal paid work and nonmaternal child care on injuries and infectious disease for children aged 12 to 36 months. Mother-child fixed-effects estimates are obtained by using data from the NICHD Study of Early Child Care. Estimates indicate that maternal employment itself has no statistically significant adverse effects on the incidence of infectious disease and injury. However, greater time spent by children in center-based care is associated with increased rates of respiratory problems for children aged 12 to 36 months and increased rates of ear infections for children aged 12 to 24 months.",
+  "authors": [
+    {
+      "raw": "Gordon, Rachel A.",
+      "family": "Gordon",
+      "given": "Rachel A."
+    },
+    {
+      "raw": "Kaestner, Robert",
+      "family": "Kaestner",
+      "given": "Robert"
+    },
+    {
+      "raw": "Korenman, Sanders",
+      "family": "Korenman",
+      "given": "Sanders"
+    }
+  ],
+  "authors_text": "Gordon, Rachel A.; Kaestner, Robert; Korenman, Sanders",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0011",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

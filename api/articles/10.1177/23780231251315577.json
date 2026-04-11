@@ -1,0 +1,30 @@
+{
+  "title": "Decomposing Gender Identity Differences in Subjective Well-Being Using Two Colombian Surveys",
+  "abstract": "The aim of this study is to understand mental well-being differences among cisgender, transgender, and nonbinary people in Colombia. On the one hand, the authors quantify the importance of economic and social resources in explaining such differences. On the other hand, they document the role played by experiences of discrimination. The authors use two different datasets to achieve these goals. First, they use nonprobabilistic data from the Williams Institute, which surveyed a large number of transgender and nonbinary people. The authors compare these individuals’ well-being with that of cisgender nonheterosexual people. Second, the authors use probabilistic data from the Colombian Drug Use Survey to replicate the main results and to compare with cisgender heterosexual individuals. The authors find that social and economic resources have limited power explaining well-being differences among cisgender, transgender, and nonbinary people in both samples. Instead, experiences of discrimination and violence mediate a large part of the association between gender identity and well-being among the LGBTQ sample.",
+  "authors": [
+    {
+      "raw": "Rodríguez Sánchez, Alejandra",
+      "family": "Rodríguez Sánchez",
+      "given": "Alejandra"
+    },
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    }
+  ],
+  "authors_text": "Rodríguez Sánchez, Alejandra; Boertien, Diederik",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251315577",
+  "doi_url": "https://doi.org/10.1177/23780231251315577",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251315577",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251315577.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

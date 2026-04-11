@@ -1,0 +1,25 @@
+{
+  "title": "The formal demography of kinship: A matrix formulation",
+  "abstract": "BACKGROUND Any individual is surrounded by a network of kin that develops over her lifetime. In a justly famous paper, Goodman, Keyfitz, and Pullum (1974) presented formal calculations of the mean numbers of (female, matrilineal) kin implied by a mortality and fertility schedule. OBJECTIVE The aim of this paper is a new theory of kinship demography that provides age distributions as well as expected numbers, permits calculation of properties (e.g., dependency) of kin, is easily computable, and does not require simulation. METHODS The analysis relies on a novel application of the matrix formulation of cohort component population projection to describe the dynamics of a kinship network. The approach arises from the observation that the kin of a focal individual form a population, and can be modelled as one. RESULTS Kinship dynamics are described by a coupled system of non-autonomous matrix equations. I show how to calculate age distributions, total numbers, prevalence, dependency, and the experience of the death of relatives. As an example, I compare the kinship networks implied by the period vital rates of Japanese women in 1947 and 2014. Over this interval, fertility declined by 70% while life expectancy increased by 60%. The implications of these changes for kinship structure are profound; a lifetime dominated, under 1947 rates, by the experience of the death of kin has changed to one in which the death of kin is a rare event. On the other hand, the burden of dependent aged kin, including those suffering from dementia, is many-fold larger under 2014 rates. CONCLUSIONS This new theory opens to investigation hitherto inaccessible aspects of kinship, with potential applications to many problems in family demography.",
+  "authors": [
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    }
+  ],
+  "authors_text": "Caswell, Hal",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.24",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.24",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.24",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.24.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

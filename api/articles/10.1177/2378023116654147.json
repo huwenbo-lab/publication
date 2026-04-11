@@ -1,0 +1,25 @@
+{
+  "title": "Measuring Interdisciplinarity Using Text",
+  "abstract": "This article presents a new, text-based measure of interdisciplinarity. The author compares the text of a scholar’s publications with text from multiple disciplines and measures the extent to which a scholar’s work integrates language from distal and proximate disciplines. The measure is tested on all faculty members employed at Stanford University between 1993 and 2008. Comparisons among text, citation, and coauthorship measures of interdisciplinarity; measures of disciplinarity; and other variables provide validity evidence for the measure. This text-based measure of interdisciplinarity offers new opportunities for data analysis, especially for unstructured text and within book-centric fields such as the humanities.",
+  "authors": [
+    {
+      "raw": "Evans, Eliza D.",
+      "family": "Evans",
+      "given": "Eliza D."
+    }
+  ],
+  "authors_text": "Evans, Eliza D.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2016,
+  "doi": "10.1177/2378023116654147",
+  "doi_url": "https://doi.org/10.1177/2378023116654147",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023116654147",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023116654147.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

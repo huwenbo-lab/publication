@@ -1,0 +1,30 @@
+{
+  "title": "Women's Economic Independence and the Probability of Divorce",
+  "abstract": "In this article, we ask the question: Does a wife's economic independence destabilize marriage and heighten the risk of divorce? Using longitudinal data from the National Survey of Families and Households, we find only weak support for the economic independence thesis. There is an initial positive association between a wife's percentage contribution to family income and divorce, but the relation is reduced to nonsignificance as soon as variables measuring gender ideology are introduced into the model. Our analysis indicates that measures of marital commitment and satisfaction are better predictors of marital dissolution than measures of economic independence. This strongly suggests that the independence effect found in prior research, which did not include controls for marital quality, may have been measuring the role of wives' economic independence in exiting bad marriages, not in exiting all marriages.",
+  "authors": [
+    {
+      "raw": "SAYER, LIANA C.",
+      "family": "SAYER",
+      "given": "LIANA C."
+    },
+    {
+      "raw": "BIANCHI, SUZANNE M.",
+      "family": "BIANCHI",
+      "given": "SUZANNE M."
+    }
+  ],
+  "authors_text": "SAYER, LIANA C.; BIANCHI, SUZANNE M.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2000,
+  "doi": "10.1177/019251300021007005",
+  "doi_url": "https://doi.org/10.1177/019251300021007005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F019251300021007005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/019251300021007005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

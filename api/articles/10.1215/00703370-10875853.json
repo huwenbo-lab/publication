@@ -1,0 +1,25 @@
+{
+  "title": "Does Schooling Have Lasting Effects on Cognitive Function? Evidence From Compulsory Schooling Laws",
+  "abstract": "This study assesses whether an additional year of secondary schooling has lasting causal effects on cognitive function. I use data from Understanding Society, the largest longitudinal household study in the United Kingdom, and exploit quasi-experimental variation in schooling from the 1972 raising of the school-leaving age in England and Wales. This reform increased the minimum secondary school-leaving age from 15 to 16 years. Cognitive function outcomes were measured when participants were aged 48 to 60. Using a fuzzy regression discontinuity design, I show that remaining in school until age 16 improved working memory by one third to one half of a standard deviation. I find limited evidence for causal effects on verbal fluency and measures of numeric ability. Analyses of potential mechanisms showed statistically significant effects of remaining in school until age 16 on the type of occupation entered immediately after leaving school and at older ages. These patterns are consistent with basic education improving cognitive outcomes through occupation choice. The findings are robust to sensitivity analyses.",
+  "authors": [
+    {
+      "raw": "Gorman, Emma",
+      "family": "Gorman",
+      "given": "Emma"
+    }
+  ],
+  "authors_text": "Gorman, Emma",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10875853",
+  "doi_url": "https://doi.org/10.1215/00703370-10875853",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10875853",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10875853.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Neighborhood Poverty and Nonmarital Fertility: Spatial and Temporal Dimensions",
+  "abstract": "Data from 4,855 respondents to the Panel Study of Income Dynamics were used to examine spatial and temporal dimensions of the effect of neighborhood poverty on teenage premarital childbearing. Although high poverty in the immediate neighborhood increased the risk of becoming an unmarried parent, high poverty in surrounding neighborhoods reduced this risk. The effect of local neighborhood poverty was especially pronounced when surrounding neighborhoods were economically advantaged. Measuring exposure to neighborhood poverty over the childhood life course yielded stronger effects than measuring exposure at a single age. Neither racial differences in the level of poverty in proximate neighborhoods nor racial differences in neighborhood poverty over the childhood life course explained the racial difference in nonmarital fertility.",
+  "authors": [
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    },
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    }
+  ],
+  "authors_text": "South, Scott J.; Crowder, Kyle",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2010,
+  "doi": "10.1111/j.1741-3737.2009.00685.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2009.00685.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2009.00685.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2009.00685.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

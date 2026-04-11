@@ -1,0 +1,30 @@
+{
+  "title": "Pathways toward Inclusive Income Growth: A Comparative Decomposition of National Growth Profiles",
+  "abstract": "Despite rising interest in income inequality, scholars remain divided over the mechanisms underlying inclusive income growth and how these mechanisms vary across countries. This study introduces the concept of national growth profiles, that is, the additive contribution of changes in taxes, transfers, composition, and other factors including market institutions to changes across a country's income distribution. We present a decomposition framework to measure national growth profiles for eight high-income countries from the 1980s to 2010s. Our findings adjudicate competing sociological and economic perspectives on rising inequality. First, we find that policy-driven changes in taxes and transfers are the dominant drivers of inclusive growth at the tails of the income distributions. Second, rising educational attainment contributes most to income growth across the distribution, but consistently contributes to less-inclusive growth. When changes in education are considered, changes in assortative mating and single parenthood have little consequence for changes in inequality. Third, changes to other factors including market institutions increased inequality in countries such as the United States, but less so in France and Germany. Had the United States matched the changes to Dutch tax policy, Danish transfer policy, or other factors of most other countries, it could have achieved more inclusive income growth than observed.",
+  "authors": [
+    {
+      "raw": "Parolin, Zachary J.",
+      "family": "Parolin",
+      "given": "Zachary J."
+    },
+    {
+      "raw": "Gornick, Janet C.",
+      "family": "Gornick",
+      "given": "Janet C."
+    }
+  ],
+  "authors_text": "Parolin, Zachary J.; Gornick, Janet C.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/00031224211054808",
+  "doi_url": "https://doi.org/10.1177/00031224211054808",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211054808",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211054808.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Neighborhood Diversity, Metropolitan Constraints, and Household Migration",
+  "abstract": "Focusing on micro-level processes of residential segregation, this analysis combines data from the Panel Study of Income Dynamics with contextual information from three censuses and several other sources to examine patterns of residential mobility between neighborhoods populated by different combinations of racial and ethnic groups. We find that despite the emergence of multiethnic neighborhoods, stratified mobility dynamics continue to dominate, with relatively few black or white households moving into neighborhoods that could be considered multiethnic. However, we also find that the tendency for white and black households to move between neighborhoods dominated by their own group varies significantly across metropolitan areas. Black and white households' mobility into more integrated neighborhoods is shaped substantially by demographic, economic, political, and spatial features of the broader metropolitan area. Metropolitan-area racial composition, the stock of new housing, residential separation of black and white households, poverty rates, and functional specialization emerge as particularly important predictors. These macro-level effects reflect opportunities for intergroup residential contact as well as structural forces that maintain residential segregation.",
+  "authors": [
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    },
+    {
+      "raw": "Pais, Jeremy",
+      "family": "Pais",
+      "given": "Jeremy"
+    },
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    }
+  ],
+  "authors_text": "Crowder, Kyle; Pais, Jeremy; South, Scott J.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2012,
+  "doi": "10.1177/0003122412441791",
+  "doi_url": "https://doi.org/10.1177/0003122412441791",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122412441791",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122412441791.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

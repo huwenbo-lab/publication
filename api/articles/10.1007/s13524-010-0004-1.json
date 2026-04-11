@@ -1,0 +1,25 @@
+{
+  "title": "The Leverage of Demographic Dynamics on Carbon Dioxide Emissions: Does Age Structure Matter?",
+  "abstract": "Abstract This article provides a methodological contribution to the study of the effect of changes in population age structure on carbon dioxide (CO2) emissions. First, I propose a generalization of the IPAT equation to a multisector economy with an age-structured population and discuss the insights that can be obtained in the context of stable population theory. Second, I suggest a statistical model of household consumption as a function of household size and age structure to quantitatively evaluate the extent of economies of scale in consumption of energy-intensive goods, and to estimate age-specific profiles of consumption of energy-intensive goods and of CO2 emissions. Third, I offer an illustration of the methodologies using data for the United States. The analysis shows that per-capita CO2 emissions increase with age until the individual is in his or her 60s, and then emissions tend to decrease. Holding everything else constant, the expected change in U.S. population age distribution during the next four decades is likely to have a small, but noticeable, positive impact on CO2 emissions.",
+  "authors": [
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    }
+  ],
+  "authors_text": "Zagheni, Emilio",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-010-0004-1",
+  "doi_url": "https://doi.org/10.1007/s13524-010-0004-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-010-0004-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-010-0004-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

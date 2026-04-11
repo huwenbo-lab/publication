@@ -1,0 +1,30 @@
+{
+  "title": "The development of ICT skills in adolescence at the intersection of gender and family background",
+  "abstract": "We examine how gender and family background impact adolescents' information and communications technology (ICT) skills, defined as the ability to effectively interact with digital technologies and to use them as a tool to process information. Using objective assessment data from the National Educational Panel Study Starting Cohort Grade 9 (NEPS-SC4), which includes 8828 students in non-academic and 5309 in academic tracks in German secondary schools, we analyzed ICT skills in grade 9, with follow-up data in grade 12 for students in academic tracks. Results reveal a gender gap favoring males in both tracks in grade 9, which widens in grade 12 among academic track students. In academic schools, gender and social background interact in affecting ICT skills, with no gender differences among socially privileged students. In non-academic schools, gender differences persist in grade 9, regardless of family background. Concerning skill growth in academic schools, the gender gap disappears for students with higher economic capital. In sum, these results suggest that in academic schools, more privileged students experience more gender-egalitarian socialization.",
+  "authors": [
+    {
+      "raw": "Wicht, Alexandra",
+      "family": "Wicht",
+      "given": "Alexandra"
+    },
+    {
+      "raw": "Kleinert, Corinna",
+      "family": "Kleinert",
+      "given": "Corinna"
+    }
+  ],
+  "authors_text": "Wicht, Alexandra; Kleinert, Corinna",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103202",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103202",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103202",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103202.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Does Increasing the Minimum School-Leaving Age Affect the Intergenerational Transmission of Education? Evidence from Four European Countries",
+  "abstract": "Reforms in the minimum school-leaving age are candidates for policies that affect the intergenerational transmission of education. I propose that the societal contexts in which these reforms occur may moderate their effects on educational mobility. To test this hypothesis, I estimate the cross-country variation in the effects of increases in the minimum school-leaving age on educational mobility in four European countries. I employ a regression discontinuity design and data from the European Social Survey and the Survey of Health, Ageing and Retirement in Europe on Austria, Denmark, France, and the Netherlands. The findings provide no evidence to the hypothesis that the reforms in the minimum school-leaving age changed the association between the education of parents and the education of their children in any of the four countries. These findings are robust to measuring educational attainment in a multitude of ways, and they do not vary between men and women. The results are at odds with rational choice theories that expect reforms in the minimum school-leaving age to increase educational mobility.",
+  "authors": [
+    {
+      "raw": "Graetz, Michael",
+      "family": "Graetz",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Graetz, Michael",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab065",
+  "doi_url": "https://doi.org/10.1093/esr/jcab065",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab065",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab065.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

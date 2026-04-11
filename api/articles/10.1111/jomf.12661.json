@@ -1,0 +1,25 @@
+{
+  "title": "Paternity Leave and Fathers' Responsibility: Evidence From a Natural Experiment in Canada",
+  "abstract": "Objective This study uses a natural experiment in Canada to examine whether reserved paternity leave policy can increase fathers' involvement with their children. Background Although a growing body of research suggests that paternal leave-taking is associated with increased father involvement, the causality of this relationship is unclear. Furthermore, leave-taking may differently impact multiple dimensions of father involvement, including engagement (direct interaction with children), accessibility (time in children's presence), and responsibility (solo parenting time). Method Using two cross-sectional waves of time diary data from the 2005 and 2010 Canadian General Social Survey, this study exploits the natural experiment of the reserved paternity leave policy introduced in the province of Quebec in 2006 compared to the shared parental leave benefits offered in the rest of Canada. Difference-in-differences methods are used to estimate the causal effect of the policy on multiple measures of father involvement. Results The reserved paternity leave policy led to a direct increase in fathers' responsibility time-2.2 additional hours of solo parenting time per week-but no direct effect on fathers' engagement or accessibility time. The findings also suggest that there may be indirect, contextual effects of the policy that have shifted the norms in Quebec regarding fathering. Conclusion This study concludes that reserved paternity leave can increase fathers' responsibility for children in ways that may benefit family well-being and gender equality more broadly.",
+  "authors": [
+    {
+      "raw": "Wray, Dana",
+      "family": "Wray",
+      "given": "Dana"
+    }
+  ],
+  "authors_text": "Wray, Dana",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12661",
+  "doi_url": "https://doi.org/10.1111/jomf.12661",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12661",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12661.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

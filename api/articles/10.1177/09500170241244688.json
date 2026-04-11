@@ -1,0 +1,30 @@
+{
+  "title": "Medicalisation of Unemployment: An Analysis of Sick Leave for the Unemployed in Germany Using a Three-Level Model",
+  "abstract": "The study investigates whether sick leave for the unemployed is used to address problems of labour market integration – a process that can theoretically be conceptualised as the medicalisation of unemployment. Estimating a multilevel logistic regression model on a sample of N = 20,196 individuals from the German panel study Labour Market and Social Security (PASS) reveals that, on average, 18% of the unemployed are on sick leave due to poor health. However, given a comparable state of health, the probability increases for men, older individuals and those with lower educational levels. These findings are crucial as they reveal a dual role of sick leave in a context with limited access to disability pensions: as a protective measure for sick, unemployed individuals and as medicalisation of unemployment by excluding those who face non-medical barriers to labour market integration.",
+  "authors": [
+    {
+      "raw": "Linden, Philipp",
+      "family": "Linden",
+      "given": "Philipp"
+    },
+    {
+      "raw": "Reibling, Nadine",
+      "family": "Reibling",
+      "given": "Nadine"
+    }
+  ],
+  "authors_text": "Linden, Philipp; Reibling, Nadine",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2024,
+  "doi": "10.1177/09500170241244688",
+  "doi_url": "https://doi.org/10.1177/09500170241244688",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170241244688",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170241244688.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

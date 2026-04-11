@@ -1,0 +1,25 @@
+{
+  "title": "Rethinking gender segregation and gender inequality: Measures and meanings",
+  "abstract": "Abstract It is often assumed that occupational segregation by gender is readily interpretable as an index of inequality between men and women in the labor force. Although this view has been challenged, the development and dissemination of analytic tools that could test this assumption have been limited. This article reviews two methods for identifying invidious and noninvidious components of gender segregation and develops a third approach that overcomes some limitations of the other two. Each method is applied to a data set that consists of observations from 22 countries covered in the International Social Survey Program. The results are compared and contrasted, and several conclusions emerge. First, occupational segregation is not completely interpretable as occupational gender inequality. Second, the methods differ in how large they estimate the invidious (vertical) component to be. Third, each method produces measures of invidious and noninvidious segregation that can be predicted statistically from other characteristics of the countries in question. The article ends with suggestions about the circumstances under which the various approaches may be the most useful.",
+  "authors": [
+    {
+      "raw": "Bridges, William P.",
+      "family": "Bridges",
+      "given": "William P."
+    }
+  ],
+  "authors_text": "Bridges, William P.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.1353/dem.2003.0020",
+  "doi_url": "https://doi.org/10.1353/dem.2003.0020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2003.0020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2003.0020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Feeding the pipeline: Gender, occupational plans, and college major selection",
+  "abstract": "In this article, we analyze gender differences in college major selection for respondents to the Education Longitudinal Study (2002-2006), focusing on educational pathways through college that lead to science, engineering, or doctoral-track medicine occupations and to non-doctoral track clinical and health sciences occupations. We show that gender differences in college major selection remain substantial, even for a cohort in which rates of enrollment in postsecondary education are more than ten percent higher for young women than for young men. Consistent with other recent research, we demonstrate that neither gender differences in work-family goals nor in academic preparation explain a substantial portion of these differences. However, the occupational plans of high school seniors are strong predictors of initial college major selection, a finding that is revealed only when occupational plans are measured with sufficient detail, here by using the verbatim responses of students. We also find that the association between occupational plans and college major selection is not attributable to work-family orientation or academic preparation. Finally, we find gender differences in the associations between occupational plans and college major selection that are consistent with prior research on STEM attrition, as well as with the claim that attrition also affects the selection of majors that are gateways into doctoral-track medicine. We discuss the implications of the predictive power of occupational plans formed in adolescence for understanding sex segregation and for policies intended to create a gender-balanced STEM and doctoral-level medical workforce.",
+  "authors": [
+    {
+      "raw": "Morgan, Stephen L.",
+      "family": "Morgan",
+      "given": "Stephen L."
+    },
+    {
+      "raw": "Gelbgiser, Dafna",
+      "family": "Gelbgiser",
+      "given": "Dafna"
+    },
+    {
+      "raw": "Weeden, Kim A.",
+      "family": "Weeden",
+      "given": "Kim A."
+    }
+  ],
+  "authors_text": "Morgan, Stephen L.; Gelbgiser, Dafna; Weeden, Kim A.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2013,
+  "doi": "10.1016/j.ssresearch.2013.03.008",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2013.03.008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2013.03.008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2013.03.008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

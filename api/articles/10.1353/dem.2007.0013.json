@@ -1,0 +1,35 @@
+{
+  "title": "As low birth weight babies grow, can well-educated parents buffer this adverse factor? A research note",
+  "abstract": "Abstract This research note combines two national Taiwanese data sets to investigate the relationships among low birth weight (LBW) babies, their parents’ educational levels, and their future academic outcomes. We find that LBW is negatively correlated with the probability of such children attending college at age 18; however, when both parents are college or high school graduates, such negative effects may be partially offset. We also show that discrimination against daughters occurs, but only for daughters who were LBW babies. Moreover, high parental education can buffer the LBW shock only among moderately LBW children (as compared with very LBW children) and full-term LBW children (as compared with preterm LBW children).",
+  "authors": [
+    {
+      "raw": "Lin, Ming-Jen",
+      "family": "Lin",
+      "given": "Ming-Jen"
+    },
+    {
+      "raw": "Liu, Jin-Tan",
+      "family": "Liu",
+      "given": "Jin-Tan"
+    },
+    {
+      "raw": "Chou, Shin-Yi",
+      "family": "Chou",
+      "given": "Shin-Yi"
+    }
+  ],
+  "authors_text": "Lin, Ming-Jen; Liu, Jin-Tan; Chou, Shin-Yi",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0013",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

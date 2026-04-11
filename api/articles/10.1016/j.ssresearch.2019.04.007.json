@@ -1,0 +1,30 @@
+{
+  "title": "Stepping up or stepping down?: The earnings differences associated with Swedish temporary workers' employment sequences",
+  "abstract": "The share of temporary work in the labor market has increased, but the consequences of this change remain controversial. Specifically, the differences associated with temporary employment and labor market outcomes, such as earnings, are debated. In this study, we contribute to the literature by describing the earnings differences associated with employment sequences among Swedish temporary workers. In the first step, we derive sequence types using sequence analysis. In the next step, we use propensity score weighting for the types of employment sequences to weight the covariates, as informed by life course labor market inequality theories. Finally, we evaluate the covariates' relation to earnings using weighted regressions. We find that the type of employment sequence varies with differences in earnings relative to predominantly constant temporary employment. In particular, workers who go from temporary work to permanent work exhibit gains. To our surprise, workers transitioning from permanent work to temporary work also increase their earnings.",
+  "authors": [
+    {
+      "raw": "Reichenberg, Olof",
+      "family": "Reichenberg",
+      "given": "Olof"
+    },
+    {
+      "raw": "Berglund, Tomas",
+      "family": "Berglund",
+      "given": "Tomas"
+    }
+  ],
+  "authors_text": "Reichenberg, Olof; Berglund, Tomas",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.04.007",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.04.007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.04.007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.04.007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

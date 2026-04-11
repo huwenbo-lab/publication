@@ -1,0 +1,35 @@
+{
+  "title": "Hispanic Older Adult Mortality in the United States: New Estimates and an Assessment of Factors Shaping the Hispanic Paradox",
+  "abstract": "Hispanics make up a rapidly growing proportion of the U.S. older adult population, so a firm grasp of their mortality patterns is paramount for identifying racial/ethnic differences in life chances in the population as a whole. Documentation of Hispanic mortality is also essential for assessing whether the Hispanic paradox-the similarity in death rates between Hispanics and non-Hispanic whites despite Hispanics' socioeconomic disadvantage-characterizes all adult Hispanics or just some age, gender, nativity, or national-origin subgroups. We estimate age-/sex- and cause-specific mortality rate ratios and life expectancy for foreign-born and U.S.-born Hispanics, foreign-born and U.S.-born Mexican Americans, non-Hispanic blacks, and non-Hispanic whites ages 65 and older using the 1989-2006 National Health Interview Survey Linked Mortality Files. Results affirm that Hispanic mortality estimates are favorable relative to those of blacks and whites, but particularly so for foreign-born Hispanics and smoking-related causes. However, if not for Hispanics' socioeconomic disadvantage, their mortality levels would be even more favorable.",
+  "authors": [
+    {
+      "raw": "Lariscy, Joseph T.",
+      "family": "Lariscy",
+      "given": "Joseph T."
+    },
+    {
+      "raw": "Hummer, Robert A.",
+      "family": "Hummer",
+      "given": "Robert A."
+    },
+    {
+      "raw": "Hayward, Mark D.",
+      "family": "Hayward",
+      "given": "Mark D."
+    }
+  ],
+  "authors_text": "Lariscy, Joseph T.; Hummer, Robert A.; Hayward, Mark D.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-014-0357-y",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0357-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0357-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0357-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

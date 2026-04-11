@@ -1,0 +1,25 @@
+{
+  "title": "Women, Demography, and Politics: How Lower Fertility Rates Lead to Democracy",
+  "abstract": "Where connections between demography and politics are examined in the literature, it is largely in the context of the effects of male aspects of demography on phenomena such as political violence. This project aims to place the study of demographic variables' influence on politics, particularly on democracy, squarely within the scope of political and social sciences, and to focus on the effects of woman-related demographics-namely, fertility rate. I test the hypothesis that demographic variables-female-related predictors, in particular-have an independent effect on political structure. Comparing countries over time, this study finds a growth in democracy when fertility rates decline. In the theoretical framework developed, it is family structure as well as the economic and political status of women that account for this change at the macro and micro levels. Findings based on data for more than 140 countries over three decades are robust when controlling not only for alternative effects but also for reverse causality and data limitations.",
+  "authors": [
+    {
+      "raw": "Sommer, Udi",
+      "family": "Sommer",
+      "given": "Udi"
+    }
+  ],
+  "authors_text": "Sommer, Udi",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0655-x",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0655-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0655-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0655-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

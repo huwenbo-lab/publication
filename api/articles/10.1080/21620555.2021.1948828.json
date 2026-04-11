@@ -1,0 +1,25 @@
+{
+  "title": "Leveraging machine learning methods to estimate heterogeneous effects: father absence in China as an example",
+  "abstract": "Individuals differ in their personal and environmental characteristics, and the same treatment or condition may affect individuals in different ways or magnitudes. Heterogeneity in effects thus has important implications for academic research and policymaking. However, it is difficult to uncover and estimate heterogenous effects using conventional parametric models without making assumptions based on limited information, and results can be difficult to interpret when involving a large number of moderators. To address these limitations, this paper introduces three supervised machine learning methods for estimating heterogeneous treatment effects with experimental and observational data: causal forest, Bayesian Additive Regression Trees (BART), and an ensemble approach called X-learner. These methods are first applied to simulated datasets and then implemented using empirical education survey data from China to estimate heterogeneous effects of father absence on student cognitive ability across a series of individual and family characteristics.",
+  "authors": [
+    {
+      "raw": "Liu, Ran",
+      "family": "Liu",
+      "given": "Ran"
+    }
+  ],
+  "authors_text": "Liu, Ran",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1080/21620555.2021.1948828",
+  "doi_url": "https://doi.org/10.1080/21620555.2021.1948828",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2021.1948828",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2021.1948828.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

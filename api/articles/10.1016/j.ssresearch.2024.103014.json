@@ -1,0 +1,35 @@
+{
+  "title": "Political efficacy and fertility intentions: A survey experiment study in Hong Kong, Taiwan, and Singapore",
+  "abstract": "The decline in fertility is a pressing issue for most advanced economies. Previous studies on fertility have not paid enough attention to politics. This study investigates the role of political efficacy on people's fertility intentions in Hong Kong, Taiwan and Singapore - three advanced economies with different political regimes. We also uncover how such a relationship varies depending on people's political attitudes. This study gathered data from three online surveys with a factorial experiment design in Hong Kong (N = 1895), Taiwan (N = 1971), and Singapore (N = 1985). The results of random -intercept regression analyses show that the impact of political efficacy varies depending on the context. The results indicate that political efficacy positively impacts fertility intentions in Hong Kong and Taiwan, where there are active political movements, especially among those who support democratic values. In Singapore, where there is a lack of active political movements, political efficacy has a lesser impact on fertility intentions. In modern societies with advanced economies and influential political voices from civil society, promoting citizens' involvement in policymaking may be a beneficial strategy to increase fertility rates.",
+  "authors": [
+    {
+      "raw": "Cheung, Adam Ka-Lok",
+      "family": "Cheung",
+      "given": "Adam Ka-Lok"
+    },
+    {
+      "raw": "Lui, Lake",
+      "family": "Lui",
+      "given": "Lake"
+    },
+    {
+      "raw": "Mu, Zheng",
+      "family": "Mu",
+      "given": "Zheng"
+    }
+  ],
+  "authors_text": "Cheung, Adam Ka-Lok; Lui, Lake; Mu, Zheng",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103014",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

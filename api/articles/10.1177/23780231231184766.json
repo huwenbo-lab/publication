@@ -1,0 +1,30 @@
+{
+  "title": "Whose Social Capital?: Citation and Co-citation Patterns of a Fragmented Concept",
+  "abstract": "Despite its wide use across the social sciences, social capital research has been regularly criticized as having fuzzy conceptualization, resulting in multiple (potentially conflicting) operationalizations. Our analyses employ bibliometric analytic tools to demonstrate the disconnected structure of social capital research. The resulting visualization illustrates one potential source of the confusion surrounding social capital—that there are many, potentially nonoverlapping versions of the idea rather than one unified social capital concept.",
+  "authors": [
+    {
+      "raw": "adams, jimi",
+      "family": "adams",
+      "given": "jimi"
+    },
+    {
+      "raw": "Vinita Fitch, Kate",
+      "family": "Vinita Fitch",
+      "given": "Kate"
+    }
+  ],
+  "authors_text": "adams, jimi; Vinita Fitch, Kate",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231184766",
+  "doi_url": "https://doi.org/10.1177/23780231231184766",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231184766",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231184766.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Status allocation from elementary allocation principles",
+  "abstract": "Status allocation is a process by which complex labor market processes allocate individuals with varying cre-dentials and background characteristics to occupational positions that vary systematically in prestige, autonomy, and compensation. Previous literature examines two principles of allocation, the meritocratic principle and the lottery or chance principle, to assess departures of an observed distribution from pure meritocratic versus pure chance distributions (Krauze and Slomczy ' nski, 1985). In this paper, we model an observed distribution as a compound of elementary distributions, meritocratic and chance, governed by a mixing parameter that expresses, in effect, the proportion of the actual allocation attributable to one principle versus another. We generalize the constant mixing model to a differential mixing model in which the mixing parameters are origin-specific. We explore the insights our framework enables with two comprehensive data sets on educational origins and occupational destinations, one covering the EU for over 30 countries from 1992 to 2018 and the other from IPUMS for both EU and other nations. We find that the differential model typically fits better than the constant model, that mixing coefficient for the top origin category is much larger than the mixing coefficient for lower categories, that the allocation of women is generally more meritocratic than the allocation of men, that there is fluctuation over time in the degree to which an observed allocation fits a meritocratic pattern, and that countries differ widely how much meritocracy versus lottery contributes to status allocation.",
+  "authors": [
+    {
+      "raw": "Karpinski, Zbigniew",
+      "family": "Karpinski",
+      "given": "Zbigniew"
+    },
+    {
+      "raw": "Skvoretz, John",
+      "family": "Skvoretz",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Karpinski, Zbigniew; Skvoretz, John",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100769",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100769",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100769",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100769.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

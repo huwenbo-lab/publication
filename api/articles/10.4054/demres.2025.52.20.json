@@ -1,0 +1,30 @@
+{
+  "title": "Household living arrangements and disparities in hardship",
+  "abstract": "BACKGROUND Experiences of hardship, such as trouble paying bills and food insecurity, vary considerably across different household living arrangements, with relatively low levels among married-couple households. OBJECTIVE We examine the extent to which disparities across household types can be explained by differences in income, non-income resources such as wealth, demographic characteristics, and socioeconomic characteristics such as education. METHODS We used 2021 data from the Survey of Income and Program Participation and OLS regression and decomposition analysis to examine this issue. RESULTS We confirmed that married-couple households experienced fewer hardships than other household types; single-parent families with children experienced the most hardships. Other household types, such as cohabiting couples and people living alone, fell in between. Among the factors associated with the differences, non-income resources-particularly wealth-played the most significant role, followed by income and then demographic and socioeconomic characteristics. CONCLUSIONS Our findings suggest that income and especially the wealth-building capacity of different types of households are the most important factors explaining household hardship disparities. Meanwhile, selection into different household types by demographic and socioeconomic characteristics is moderately important. CONTRIBUTION This study provides new information on why we observe differences in hardship across different types of households, including the important role played by wealth.",
+  "authors": [
+    {
+      "raw": "Iceland, John",
+      "family": "Iceland",
+      "given": "John"
+    },
+    {
+      "raw": "Cho, Jaehoon",
+      "family": "Cho",
+      "given": "Jaehoon"
+    }
+  ],
+  "authors_text": "Iceland, John; Cho, Jaehoon",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.20",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

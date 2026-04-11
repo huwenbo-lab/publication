@@ -1,0 +1,70 @@
+{
+  "title": "The use of mobile phone surveys for rapid mortality monitoring: A national study in Burkina Faso",
+  "abstract": "BACKGROUND In low- and middle-income countries, death registration remains low, and mortality estimation is heavily based on surveys and censuses conducted through face-to-face interviews. These operations are costly and time-consuming, and are difficult to conduct during health and security crises. Taking advantage of the rapid increase in cell phone network coverage, mobile phone surveys (MPS) have recently started to be used to collect mortality data. OBJECTIVES We computed mortality levels obtained from a national MPS conducted in 2021-2022 in Burkina Faso and compare them to estimates from censuses, surveys, and modeled estimates developed by United Nations agencies. METHODS The MPS included three modules adapted from standard questionnaires to reduce interview length: (1) truncated birth histories, (2) summary sibling histories, and (3) parental survival histories. We applied direct and indirect mortality estimation methods and used post-stratification weights to account for sample selectivity. RESULTS Indirect estimates of under-5 mortality aligned with UN estimates, but direct estimates extracted from truncated birth histories provided lower mortality rates. However, these lower direct estimates were consistent with the latest Demographic and Health Surveys, conducted in 2021. MPS estimates of 35q15 derived from the sibling histories were about half of those published by the UN. This downward bias is likely due to errors in reporting siblings' ages and timing of death. Mortality levels at older ages (30q50) from the parental survival histories were also substantially lower than model-based UN estimates (with a relative difference of -20% among men and -34% among women). CONTRIBUTION MPS are a promising tool for the rapid measurement of age-specific mortality in settings where face-to-face surveys are difficult to implement. However, our findings also indicate that further research is needed to evaluate and improve on the quality of data collected over the phone.",
+  "authors": [
+    {
+      "raw": "Dianou, Kassoum",
+      "family": "Dianou",
+      "given": "Kassoum"
+    },
+    {
+      "raw": "Soura, Abdramane",
+      "family": "Soura",
+      "given": "Abdramane"
+    },
+    {
+      "raw": "Lankoande, Bruno",
+      "family": "Lankoande",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Bassinga, Herve",
+      "family": "Bassinga",
+      "given": "Herve"
+    },
+    {
+      "raw": "Luhar, Shammi",
+      "family": "Luhar",
+      "given": "Shammi"
+    },
+    {
+      "raw": "Oren, Ashira Menashe",
+      "family": "Oren",
+      "given": "Ashira Menashe"
+    },
+    {
+      "raw": "McCain, Kelly",
+      "family": "McCain",
+      "given": "Kelly"
+    },
+    {
+      "raw": "Tlhajoane, Malebogo",
+      "family": "Tlhajoane",
+      "given": "Malebogo"
+    },
+    {
+      "raw": "Reniers, Georges",
+      "family": "Reniers",
+      "given": "Georges"
+    },
+    {
+      "raw": "Masquelier, Bruno",
+      "family": "Masquelier",
+      "given": "Bruno"
+    }
+  ],
+  "authors_text": "Dianou, Kassoum; Soura, Abdramane; Lankoande, Bruno; Bassinga, Herve; Luhar, Shammi; Oren, Ashira Menashe; McCain, Kelly; Tlhajoane, Malebogo; Reniers, Georges; Masquelier, Bruno",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.16",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

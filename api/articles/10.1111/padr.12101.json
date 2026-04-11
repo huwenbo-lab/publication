@@ -1,0 +1,40 @@
+{
+  "title": "Migration, Schooling Choice, and Student Outcomes in China",
+  "abstract": "We present empirical evidence on the gap in schooling outcomes of migrant students, left-behind children, and children living with parents. We use a comparable dataset of schooling outcomes of rural students in specific source communities and migrant students who were born in and come from the same source communities. The migration of students to private migrant schools in urban areas has a large and significant negative effect on student math scores. Migrant students also exhibit higher levels of learning anxiety. In part the large gap in schooling outcomes between migrant students and rural students is attributable to the poor quality of migrant schools. After isolating a school quality effect, we believe that a large unexplained part of the gap may be due to either a selection effect or a migrant living environment effect.",
+  "authors": [
+    {
+      "raw": "Wang, Xiaobing",
+      "family": "Wang",
+      "given": "Xiaobing"
+    },
+    {
+      "raw": "Bai, Yu",
+      "family": "Bai",
+      "given": "Yu"
+    },
+    {
+      "raw": "Zhang, Linxiu",
+      "family": "Zhang",
+      "given": "Linxiu"
+    },
+    {
+      "raw": "Rozelle, Scott",
+      "family": "Rozelle",
+      "given": "Scott"
+    }
+  ],
+  "authors_text": "Wang, Xiaobing; Bai, Yu; Zhang, Linxiu; Rozelle, Scott",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2017,
+  "doi": "10.1111/padr.12101",
+  "doi_url": "https://doi.org/10.1111/padr.12101",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12101",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12101.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

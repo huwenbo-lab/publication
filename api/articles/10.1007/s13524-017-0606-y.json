@@ -1,0 +1,35 @@
+{
+  "title": "Racial Differences in Neighborhood Attainment: The Contributions of Interneighborhood Migration and In Situ Change",
+  "abstract": "Recent research shows that as they age, blacks experience less improvement than whites in the socioeconomic status of their residential neighborhoods. Using data from the Panel Study of Income Dynamics and U.S. decennial censuses, we assess the relative contribution of residential mobility and in situ neighborhood change (i.e., change surrounding nonmobile neighborhood residents) to the black-white difference in changes in neighborhood socioeconomic status and racial composition. Results from decomposition analyses show that the racial difference in in situ neighborhood change explains virtually all the black-white difference in neighborhood socioeconomic status change. In contrast, racial differences in residential mobility explain the bulk of the black-white difference in neighborhood racial compositional change. Among blacks and whites initially residing in low-income and predominantly minority neighborhoods, whites experience a much greater increase than blacks in the socioeconomic status of their neighborhoods and the percentage of their neighbors who are non-Hispanic white. These differences are driven primarily by racial differences in the economic and racial composition of local (intracounty) movers' destination neighborhoods and secondarily by black-white differences in the likelihood of moving long distances.",
+  "authors": [
+    {
+      "raw": "Huang, Ying",
+      "family": "Huang",
+      "given": "Ying"
+    },
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    },
+    {
+      "raw": "Spring, Amy",
+      "family": "Spring",
+      "given": "Amy"
+    }
+  ],
+  "authors_text": "Huang, Ying; South, Scott J.; Spring, Amy",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0606-y",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0606-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0606-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0606-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

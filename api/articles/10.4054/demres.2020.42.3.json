@@ -1,0 +1,25 @@
+{
+  "title": "Migrant-based youth bulges and social conflict in urban sub-Saharan Africa",
+  "abstract": "BACKGROUND Sub-Saharan Africa has experienced relatively high population growth, which raises concerns about the potential contribution of large young cohorts, termed 'youth bulges', to unrest. Youth bulges, under the right circumstances, can expand productivity and boost economic growth, but they have also been found to enable civil war, corruption, and democracy collapse, especially where resources are scarce. OBJECTIVE This paper considers youth bulges characterised by high proportions of rural-urban migrants and examines their effects on the likelihood of social conflict in urban sub-Saharan Africa between 1990 and 2013. METHODS United Nations data on urban and rural populations by age and sex is combined with the Social Conflict Analysis Database to create a cross-section time series dataset. Negative binomial models are used to examine the relationship between youth bulges and conflict using country level fixed effects. RESULTS The study finds that a migrant-based youth bulge does not increase the likelihood of urban social conflict in sub-Saharan Africa. Additionally, female youth bulges, often neglected when studying conflict, are found to increase the likelihood of conflict. CONCLUSIONS The overall disassociation between young rural-urban migrants and social conflict is encouraging. All the same, women were found to play a role in conflict, and women should therefore be considered in future studies. CONTRIBUTION This article characterises the composition of youth bulges - an important factor that has previously been ignored - by examining whether youth bulges composed largely of rural-urban migrants are more likely to increase the likelihood of conflict in urban subSaharan Africa.",
+  "authors": [
+    {
+      "raw": "Menashe-Oren, Ashira",
+      "family": "Menashe-Oren",
+      "given": "Ashira"
+    }
+  ],
+  "authors_text": "Menashe-Oren, Ashira",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.3",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

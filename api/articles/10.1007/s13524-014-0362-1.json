@@ -1,0 +1,35 @@
+{
+  "title": "The Effects of Mortality on Fertility: Population Dynamics After a Natural Disaster",
+  "abstract": "Understanding how mortality and fertility are linked is essential to the study of population dynamics. We investigate the fertility response to an unanticipated mortality shock that resulted from the 2004 Indian Ocean tsunami, which killed large shares of the residents of some Indonesian communities but caused no deaths in neighboring communities. Using population-representative multilevel longitudinal data, we identify a behavioral fertility response to mortality exposure, both at the level of a couple and in the broader community. We observe a sustained fertility increase at the aggregate level following the tsunami, which was driven by two behavioral responses to mortality exposure. First, mothers who lost one or more children in the disaster were significantly more likely to bear additional children after the tsunami. This response explains about 13 % of the aggregate increase in fertility. Second, women without children before the tsunami initiated family-building earlier in communities where tsunami-related mortality rates were higher, indicating that the fertility of these women is an important route to rebuilding the population in the aftermath of a mortality shock. Such community-level effects have received little attention in demographic scholarship.",
+  "authors": [
+    {
+      "raw": "Nobles, Jenna",
+      "family": "Nobles",
+      "given": "Jenna"
+    },
+    {
+      "raw": "Frankenberg, Elizabeth",
+      "family": "Frankenberg",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Thomas, Duncan",
+      "family": "Thomas",
+      "given": "Duncan"
+    }
+  ],
+  "authors_text": "Nobles, Jenna; Frankenberg, Elizabeth; Thomas, Duncan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-014-0362-1",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0362-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0362-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0362-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

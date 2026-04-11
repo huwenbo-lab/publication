@@ -1,0 +1,35 @@
+{
+  "title": "They Can't All Be Stars: The Matthew Effect, Cumulative Status Bias, and Status Persistence in NBA All-Star Elections",
+  "abstract": "This study investigates the extent to and mechanisms through which Matthew effects create persistent status hierarchies. We propose a model that highlights the role of cumulative status bias in the feedback loop that leads from initial status allocation to status confirmation. We investigate the formalized process of repeated status allocation in annual elections to the National Basketball Association (NBA) All-Star game. Using detailed records on player performances allows us to isolate the Matthew effect from actual productivity differences to show that a previous All-Star nomination improves the chances to be re-nominated. We demonstrate that this Matthew effect is partly explained by improved productivity after an All-Star nomination, but voters' evaluations are also directly biased by a player's prior status. Multiple previous nominations further improve a player's chances, confirming the importance of cumulative status bias. The resulting status-biased persistence of achieved status implies ever greater decoupling of productivity and status, undermining the meritocratic allocation of status and resources even more than the existing literature acknowledges.",
+  "authors": [
+    {
+      "raw": "Biegert, Thomas",
+      "family": "Biegert",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Kuhhirt, Michael",
+      "family": "Kuhhirt",
+      "given": "Michael"
+    },
+    {
+      "raw": "Van Lancker, Wim",
+      "family": "Van Lancker",
+      "given": "Wim"
+    }
+  ],
+  "authors_text": "Biegert, Thomas; Kuhhirt, Michael; Van Lancker, Wim",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231159139",
+  "doi_url": "https://doi.org/10.1177/00031224231159139",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231159139",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231159139.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

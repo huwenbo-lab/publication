@@ -1,0 +1,30 @@
+{
+  "title": "Gender, Unemployment, and Subjective Well-Being: Why Do Women Suffer Less from Unemployment than Men?",
+  "abstract": "Previous studies have shown that women suffer less from unemployment than men in terms of subjective well-being. However, there is little research that aims to test possible explanations for this gender-specific reaction. We distinguish two different ways in which unemployment reduces well-being, namely the financial and non-financial effects of becoming unemployed. Gender differences in both types could explain the different effects on the well-being of women and men. Using the German Socio-Economic Panel, we analyse why women are less affected by unemployment than men. Applying fixed-effects panel regressions, we find substantially smaller negative effects for women, but this can only to a small extent be explained by different financial effects. To test the relevance of non-financial effects, we investigate how gender differences vary between subgroups, for which the non-financial effects should differ. Our analyses show that gender differences are more pronounced both among people who were socialized in West Germany compared to East Germany and among parents compared to singles. Moreover, differences in labour market attachment prior to the transition to unemployment explain a large share of the gender gap. These findings support the assumption that non-financial effects are responsible for the weaker consequences of unemployment among women.",
+  "authors": [
+    {
+      "raw": "Heyne, Stefanie",
+      "family": "Heyne",
+      "given": "Stefanie"
+    },
+    {
+      "raw": "Vossemer, Jonas",
+      "family": "Vossemer",
+      "given": "Jonas"
+    }
+  ],
+  "authors_text": "Heyne, Stefanie; Vossemer, Jonas",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac030",
+  "doi_url": "https://doi.org/10.1093/esr/jcac030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

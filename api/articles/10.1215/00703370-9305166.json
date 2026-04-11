@@ -1,0 +1,40 @@
+{
+  "title": "The Benefits of Rental Assistance for Children's Health and School Attendance in the United States",
+  "abstract": "Programs that provide affordable and stable housing may contribute to better child health and thus to fewer missed days of school. Drawing on a unique linkage of survey and administrative data, we use a quasi-experimental approach to examine the impact of rental assistance programs on missed days of school due to illness. We compare missed school days due to illness among children receiving rental assistance with those who will enter assistance within two years of their interview, the average length of waitlists for federal rental assistance. Overall, we find that children who receive rental assistance miss fewer days of school due to illness relative to those in the pseudo-waitlist group. We demonstrate that rental assistance leads to a reduction in the number of health problems among children and thus to fewer days of school missed due to illness. We find that the effect of rental assistance on missed school days is stronger for adolescents than for younger children. Additionally, race-stratified analyses reveal that rental assistance leads to fewer missed days due to illness among non-Hispanic White and Hispanic/Latino children; this effect, however, is not evident for non-Hispanic Black children, the largest racial/ethnic group receiving assistance. These findings suggest that underinvestment in affordable housing may impede socioeconomic mobility among disadvantaged non-Hispanic White and Hispanic/Latino children. In contrast, increases in rental assistance may widen racial/ethnic disparities in health among disadvantaged children, and future research should examine why this benefit is not evident for Black children.",
+  "authors": [
+    {
+      "raw": "Fenelon, Andrew",
+      "family": "Fenelon",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Boudreaux, Michel",
+      "family": "Boudreaux",
+      "given": "Michel"
+    },
+    {
+      "raw": "Slopen, Natalie",
+      "family": "Slopen",
+      "given": "Natalie"
+    },
+    {
+      "raw": "Newman, Sandra J.",
+      "family": "Newman",
+      "given": "Sandra J."
+    }
+  ],
+  "authors_text": "Fenelon, Andrew; Boudreaux, Michel; Slopen, Natalie; Newman, Sandra J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9305166",
+  "doi_url": "https://doi.org/10.1215/00703370-9305166",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9305166",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9305166.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

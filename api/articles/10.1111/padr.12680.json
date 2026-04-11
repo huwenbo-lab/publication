@@ -1,0 +1,45 @@
+{
+  "title": "COVID-19 Pandemic and Women's Age at Marriage: New Evidence From India",
+  "abstract": "A rich literature has documented the relationship between age at marriage and girls' health and educational outcomes. The upheaval caused by the pandemic on household decision-making has been hypothesized to have influenced the age of marriage, but the direction of impact is unclear. On the one hand, the pandemic may have increased the age at marriage if lockdown policies and negative income shocks to families placed a burden on household wealth and the ability to pay for weddings. On the other hand, the age of marriage could have decreased during the pandemic due to school closures that kept girls out of school, parental deaths that encouraged families to expedite weddings, and lower wedding costs because of government mandates to have smaller weddings. Using data from the National Family Health Survey of 2019-2021 of India, we explore how the pandemic impacted age at marriage for women using district and household fixed effects models. After accounting for secular trends in the age of marriage and contingent on the model and specification, we find a significant increase in age at marriage for women who got married during the pandemic by 1.1-1.2 years as compared with those married before the pandemic.",
+  "authors": [
+    {
+      "raw": "Batheja, Deepshikha",
+      "family": "Batheja",
+      "given": "Deepshikha"
+    },
+    {
+      "raw": "Banerji, Abhik",
+      "family": "Banerji",
+      "given": "Abhik"
+    },
+    {
+      "raw": "Summan, Amit",
+      "family": "Summan",
+      "given": "Amit"
+    },
+    {
+      "raw": "Laxminarayan, Ramanan",
+      "family": "Laxminarayan",
+      "given": "Ramanan"
+    },
+    {
+      "raw": "Nandi, Arindam",
+      "family": "Nandi",
+      "given": "Arindam"
+    }
+  ],
+  "authors_text": "Batheja, Deepshikha; Banerji, Abhik; Summan, Amit; Laxminarayan, Ramanan; Nandi, Arindam",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12680",
+  "doi_url": "https://doi.org/10.1111/padr.12680",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12680",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12680.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "'Motherhood penalty' and 'fatherhood premium'? Fertility effects on parents in China",
+  "abstract": "BACKGROUND Many previous empirical findings on 'motherhood penalty' and 'fatherhood premium' remain inconclusive due to potential selection biases. China's regional variation in exemptions to the one-child policy enables us to use the gender of the first child as a powerful instrumental variable (IV) in identifying the gendered fertility effects. OBJECTIVE We aim to estimate the causal effects of fertility on fathers' and mothers' various outcomes in China. METHODS Using the IV approach, this paper examines the gender-specific fertility effects on parents' time use, income, and subjective well-being, using data for 2010 from the China Family Panel Studies. RESULTS Results show that while fathers spend more time at work and less time taking care of family members with more children, mothers report better subjective well-being. Moreover, fathers gain self-confidence in both their careers and the future, and mothers are happier, more satisfied with life and report better social ability. CONCLUSIONS Our findings do not directly support the gendered fertility effects on parents. However, the differential fertility effects on specific domains for mothers versus fathers are consistent with household specialisation. By interpreting this conclusion within the context of China's one-child family planning policy, our research suggests that parents would do better if the one-child policy were abolished -i.e., if parents were allowed to have more children.",
+  "authors": [
+    {
+      "raw": "Mu, Zheng",
+      "family": "Mu",
+      "given": "Zheng"
+    },
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Mu, Zheng; Xie, Yu",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.47",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.47",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.47",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.47.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Estimating Children's Household Instability Between Birth and Age 18 Using Longitudinal Household Roster Data",
+  "abstract": "Previous descriptions of the composition and stability of children's households have focused on the presence of parents and the stability of mothers' marital and cohabiting relationships. We use data available in the 2008 Survey of Income and Program Participation to expand the description of children's household composition and stability. We find that one in five children lives with nonnuclear household members. These other household members are a source of substantial household instability. In addition, during the period of observation (2008-2013), children experienced considerable residential instability. Thus, children's experience of household instability is much more common and frequent than previously documented. Moreover, levels of both residential and compositional instability are higher for children with less-educated mothers and for racial/ethnic minorities.",
+  "authors": [
+    {
+      "raw": "Raley, R. Kelly",
+      "family": "Raley",
+      "given": "R. Kelly"
+    },
+    {
+      "raw": "Weiss, Inbar",
+      "family": "Weiss",
+      "given": "Inbar"
+    },
+    {
+      "raw": "Reynolds, Robert",
+      "family": "Reynolds",
+      "given": "Robert"
+    },
+    {
+      "raw": "Cavanagh, Shannon E.",
+      "family": "Cavanagh",
+      "given": "Shannon E."
+    }
+  ],
+  "authors_text": "Raley, R. Kelly; Weiss, Inbar; Reynolds, Robert; Cavanagh, Shannon E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00806-1",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00806-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00806-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00806-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

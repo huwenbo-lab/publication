@@ -1,0 +1,25 @@
+{
+  "title": "Measuring male fertility rates in developing countries with Demographic and Health Surveys: An assessment of three methods",
+  "abstract": "BACKGROUND Levels and patterns of male fertility are poorly documented in developing countries. Demographic accounts of male fertility focus primarily on developed countries, and where such accounts do exist for developing countries they are mainly available at the local or regional level. OBJECTIVE We show how data from Demographic and Health Surveys (DHS) can be used to compute age-specific male fertility rates. Three methods are described and compared: the own-children method, the date-of-last-birth method, and the crisscross method. Male and female fertility rates are compared using the own-children method. RESULTS Male fertility estimates produced using the own-children method emerge as the most trustworthy. The data needed for this method is widely available and makes it possible to document male fertility in a large number of developing countries. The date-of-last-birth method also appears worthwhile, and may be especially useful for analyzing fertility differentials. The crisscross method is less reliable, but may be of interest for ages below 40. Comparisons of male and female fertility show that reproductive experiences differ across gender in most developing countries: Male fertility is substantially higher than female fertility, and males have their children later than females. CONTRIBUTION This study shows that Demographic and Health Surveys constitute a valuable and untapped source of data that can be used to document male fertility in a large number of countries. Male fertility rates are markedly different from female fertility rates in developing countries, and documenting both male and female fertility provides a more complete picture of fertility.",
+  "authors": [
+    {
+      "raw": "Schoumaker, Bruno Z.",
+      "family": "Schoumaker",
+      "given": "Bruno Z."
+    }
+  ],
+  "authors_text": "Schoumaker, Bruno Z.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.28",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

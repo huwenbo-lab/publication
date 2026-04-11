@@ -1,0 +1,30 @@
+{
+  "title": "Maternity Leave and Mothers' Long-Term Sickness Absence: Evidence From West Germany",
+  "abstract": "Exploiting unique German administrative data, we estimate the association between an expansion in maternity leave duration from two to six months in 1979 and mothers' postbirth long-term sickness absence over a period of three decades after childbirth. Adopting a difference-in-difference approach, we first assess the reform's labor market effects and, subsequently, prebirth and postbirth maternal long-term sickness absence, accounting for the potential role of the reform in mothers' selection into employment. Consistent with previous research, our estimates show that the leave extension caused mothers to significantly delay their return to work within the first year after childbirth. We then provide difference-in-difference estimates for the number and length of spells of long-term sickness absence among returned mothers. Our findings suggest that among those returned, mothers subject to the leave extension exhibit a higher incidence of long-term sickness absence compared with mothers who gave birth before the reform. This also holds true after we control for observable differences in prebirth illness histories. At the same time, we find no pronounced effects on mothers' medium-run labor market attachment following the short-run delay in return to work, which might rationalize a negative causal health effect. Breaking down the results by mothers' prebirth health status suggests that the higher incidence of long-term sickness absence among mothers subject to the reform may be explained by the fact that the reform facilitated the reentry of a negative health selection into the labor market.",
+  "authors": [
+    {
+      "raw": "Guertzgen, Nicole",
+      "family": "Guertzgen",
+      "given": "Nicole"
+    },
+    {
+      "raw": "Hank, Karsten",
+      "family": "Hank",
+      "given": "Karsten"
+    }
+  ],
+  "authors_text": "Guertzgen, Nicole; Hank, Karsten",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0654-y",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0654-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0654-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0654-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

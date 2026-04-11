@@ -1,0 +1,30 @@
+{
+  "title": "Compensating or boosting genetic propensities? Gene-family socioeconomic status interactions by educational outcome selectivity",
+  "abstract": "This study investigates the extent to which the genetic propensity for education - measured using the polygenic index (PGI) for educational attainment - matters more for the final educational attainment of high or low socio-economic status (SES) students. We propose a model integrating social stratification theories, such as the compensatory and boosting advantage models, into sociogenomics, highlighting the role of educational outcome selectivity. Our model predicts that for low selective educational outcomes (e.g., high school completion), the PGI for education matters more for low-SES individuals, while for highly selective outcomes (e.g., graduate school completion), it matters more for high-SES individuals. We test our model using the National Longitudinal Study of Adolescent to Adult Health, the Health and Retirement Study, and the Wisconsin Longitudinal Study. The results corroborate our predictions and are robust to alternative models' specifications. Our theoretical model based on the selectivity of the considered outcome explains previous heterogeneous findings and can be generalized to develop testable hypotheses for other cohorts in the US and other countries. It can also be generalized to other studies on compensatory and boosting advantage based on other traits and events and not on PGI.",
+  "authors": [
+    {
+      "raw": "Ghirardi, Gaia",
+      "family": "Ghirardi",
+      "given": "Gaia"
+    },
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    }
+  ],
+  "authors_text": "Ghirardi, Gaia; Bernardi, Fabrizio",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103174",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103174",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103174",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103174.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

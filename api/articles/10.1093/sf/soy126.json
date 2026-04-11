@@ -1,0 +1,40 @@
+{
+  "title": "A Rare Case of Gender Parity in Academia",
+  "abstract": "In academia, women trail men in nearly every major professional reward, such as earnings, publications, and funding. Bibliometric studies, however, suggest that citations are unique with regard to gender inequality: female penalties have been reported, but gender parity or even female premiums are routinely documented as well. Two questions follow from this puzzle. First, does gender matter for citations in sociology and neighboring social science disciplines? No theoretically informed study of gender and citations exists for the social science core. We begin to fill this gap by analyzing roughly 10,000 publications in economics, political science, and sociology. In contrast to many big data studies, we estimate the effect of author gender on citations alongside other author-, article-, journal-, and (sub)field-level predictors. Our results strongly suggest that when male and female authors publish articles that are comparably positioned to receive citations, their publications do in fact accrue citations at the same rate. This finding raises a second question: Why would gender matter everywhere but here? We hypothesize that the answer is related to the mechanisms (e.g., self-selection, biased assessments of commitment) that are activated in the context of some professional rewards but not citations. We discuss why a null gender finding should not be discarded as an anomaly but rather approached as an analytical opportunity.",
+  "authors": [
+    {
+      "raw": "Lynn, Freda B.",
+      "family": "Lynn",
+      "given": "Freda B."
+    },
+    {
+      "raw": "Noonan, Mary C.",
+      "family": "Noonan",
+      "given": "Mary C."
+    },
+    {
+      "raw": "Sauder, Michael",
+      "family": "Sauder",
+      "given": "Michael"
+    },
+    {
+      "raw": "Andersson, Matthew A.",
+      "family": "Andersson",
+      "given": "Matthew A."
+    }
+  ],
+  "authors_text": "Lynn, Freda B.; Noonan, Mary C.; Sauder, Michael; Andersson, Matthew A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy126",
+  "doi_url": "https://doi.org/10.1093/sf/soy126",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy126",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy126.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

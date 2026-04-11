@@ -1,0 +1,30 @@
+{
+  "title": "Does Unemployment Hurt Less if There is More of it Around? A Panel Analysis of Life Satisfaction in Germany and Switzerland",
+  "abstract": "This article examines the existence of a habituation effect to unemployment: Does the subjective well-being of unemployed people decline less if unemployment is more widespread? The underlying idea is that unemployment hysteresis may operate through a sociological channel: if many people in the community lose their job and remain unemployed over an extended period, the psychological cost of being unemployed diminishes, and the pressure to accept a new job declines. We analyse this question with individual-level data from the German socio-economic panel and the Swiss household panel (2000)(2001)(2002)(2003)(2004)(2005)(2006)(2007)(2008)(2009)(2010). Our fixed-effects estimates show no evidence for a mitigating effect of high surrounding unemployment on the subjective well-being of the unemployed. Becoming unemployed hurts as much when regional unemployment is high as when it is low. Likewise, the strongly harmful impact of being unemployed on well-being neither wears off over time, nor do repeated episodes of unemployment make it any better. It thus appears doubtful that an unemployment shock becomes persistent because the unemployed becomes used to, and hence reasonably content with, being without a job.",
+  "authors": [
+    {
+      "raw": "Oesch, D.",
+      "family": "Oesch",
+      "given": "D."
+    },
+    {
+      "raw": "Lipps, O.",
+      "family": "Lipps",
+      "given": "O."
+    }
+  ],
+  "authors_text": "Oesch, D.; Lipps, O.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2012,
+  "doi": "10.1093/esr/jcs071",
+  "doi_url": "https://doi.org/10.1093/esr/jcs071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcs071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcs071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

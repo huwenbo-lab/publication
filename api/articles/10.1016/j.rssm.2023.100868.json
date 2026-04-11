@@ -1,0 +1,40 @@
+{
+  "title": "Historical evolution of intergenerational class mobility and educational effects in urban Argentina: 1960-2017",
+  "abstract": "The Argentinean case -given an early modernization and the singularity of its reversal of development- is instructive about the role of education on intergenerational class mobility. We propose a wide historical analysis of time variations in intergenerational class mobility and the role of education over different periods in urban Argentina -specifically in the Buenos Aires Metropolitan Area, from 1960 to 2017. This is the first time a longterm social mobility study has been conducted in Argentina. We analyse intergenerational social mobility according to EGP class scheme, using absolute rates, log-linear models, and long-term counterfactual analysis. Results show a social fluidity process for men but not for women. The counterfactual analysis exhibits that most social fluidity among men was due to a reduction in the direct class origin-class destination effect. No evidence of effects of educational expansion or educational equalization is observed. This presence of moderate social fluidity has not been linked to a modernization process which expands vertical upward mobility. Instead, it took place in a context of deindustrialization and the decline of the skilled working class.",
+  "authors": [
+    {
+      "raw": "Jorrat, Jorge Raul",
+      "family": "Jorrat",
+      "given": "Jorge Raul"
+    },
+    {
+      "raw": "Dalle, Pablo",
+      "family": "Dalle",
+      "given": "Pablo"
+    },
+    {
+      "raw": "Fachelli, Sandra",
+      "family": "Fachelli",
+      "given": "Sandra"
+    },
+    {
+      "raw": "Riveiro, Manuel",
+      "family": "Riveiro",
+      "given": "Manuel"
+    }
+  ],
+  "authors_text": "Jorrat, Jorge Raul; Dalle, Pablo; Fachelli, Sandra; Riveiro, Manuel",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2023.100868",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100868",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100868",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100868.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

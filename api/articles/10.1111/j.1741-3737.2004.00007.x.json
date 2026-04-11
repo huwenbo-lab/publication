@@ -1,0 +1,35 @@
+{
+  "title": "Did Divorces Decline After the Oklahoma City Bombing?",
+  "abstract": "The Oklahoma City bombing in April 1995 was an act of terrorism that had many potential influences on the city and state, including influences on families. We analyzed divorce data from 1985 to 2000 for all 77 counties in Oklahoma to assess the divorce response to the Oklahoma City bombing. Our prediction was that divorce rates in Oklahoma would decrease in response to the bombing, a prediction derived from two different theoretical orientations, terror management theory and attachment theory. We test this prediction in the context of two relatively powerful quasi‐experimental designs, an interrupted time series design, and a nonequivalent control group design. We analyze the time series data with polynomial regression. Results suggested that there were lower observed divorce rates following the Oklahoma City bombing than the prevailing 10‐year cubic divorce trend would have predicted, with the effect dampening over time. We analyzed the nonequivalent control group design using an analysis of covariance (ANCOVA) linear model to compare counties in and around Oklahoma City to those farther away, and to compare metropolitan to nonmetropolitan counties in Oklahoma. In each case, divorces were lower in the predicted directions.",
+  "authors": [
+    {
+      "raw": "Nakonezny, Paul A.",
+      "family": "Nakonezny",
+      "given": "Paul A."
+    },
+    {
+      "raw": "Reddick, Rebecca",
+      "family": "Reddick",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Rodgers, Joseph Lee",
+      "family": "Rodgers",
+      "given": "Joseph Lee"
+    }
+  ],
+  "authors_text": "Nakonezny, Paul A.; Reddick, Rebecca; Rodgers, Joseph Lee",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2004,
+  "doi": "10.1111/j.1741-3737.2004.00007.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2004.00007.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2004.00007.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2004.00007.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

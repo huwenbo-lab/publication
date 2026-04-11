@@ -1,0 +1,30 @@
+{
+  "title": "What explains intergenerational associations in home ownership and value in the UK? Investigating the transmission mechanisms",
+  "abstract": "Evidence shows strong associations in wealth across generations, yet the underlying mechanisms are not fully understood. Some studies attribute these associations to direct financial transfers between generations, while others suggest more indirect mechanisms such as the impact of parental wealth on children 's earnings, family formation, or saving and investment behaviour. Factors such as residential homophily and house value appreciation may also play a role. This study examines the extent to which these mechanisms explain intergenerational associations in home ownership and home value in the UK. Using 30 years of high-quality panel survey data, we link 1341 parent-child pairs, track children 's sources of wealth accumulation in early adulthood, and assess their home ownership and value outcomes at mid-life (around age 35). We employ mediation analysis to determine the relative importance of different transmission mechanisms. Our findings reveal significant age-adjusted correlations in home ownership (0.27) and home value (0.40) between parents and their adult children. These correlations are mainly explained by children 's accumulated earnings, savings and investment income, while parental financial transfers and children 's family lives play limited roles. A substantial part of the correlations in home values are also explained by parental characteristics other than their housing wealth, particularly their place of residence. Future research should pay more attention to the role of place and the influence that parental housing wealth has on the earnings and financial behaviour of young adults.",
+  "authors": [
+    {
+      "raw": "Beduk, Selcuk",
+      "family": "Beduk",
+      "given": "Selcuk"
+    },
+    {
+      "raw": "Harkness, Susan",
+      "family": "Harkness",
+      "given": "Susan"
+    }
+  ],
+  "authors_text": "Beduk, Selcuk; Harkness, Susan",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100951",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100951",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100951",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100951.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

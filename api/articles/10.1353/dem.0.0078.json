@@ -1,0 +1,25 @@
+{
+  "title": "Understanding links between adolescent health and educational attainment",
+  "abstract": "AbstractThe educational and economic consequences of poor health during childhood and adolescence have become increasingly clear, with a resurgence of evidence leading researchers to reconsider the potentially significant contribution of early-life health to population welfare both within and across generations. Meaningful relationships between early-life health and educational attainment raise important questions about how health may influence educational success in young adulthood and beyond, as well as for whom its influence is strongest. Using data from the National Longitudinal Survey of Youth 1997, I examine how adolescentś health and social status act together to create educational disparities in young adulthood, focusing on two questions in particular. First, does the link between adolescent health and educational attainment vary across socioeconomic and racial/ethnic groups? Second, what academic factors explain the connection between adolescent health and educational attainment? The findings suggest that poorer health in adolescence is strongly negatively related to educational attainment, net of both observed confounders and unobserved, time-invariant characteristics within households. The reduction in attainment is particularly large for non-Hispanic white adolescents, suggesting that the negative educational consequences of poor health are not limited to only the most socially disadvantaged adolescents. Finally, I find that the link between adolescent health and educational attainment is explained by academic factors related to educational participation and, most importantly, academic performance, rather than by reduced educational expectations. These findings add complexity to our understanding of how the educational consequences of poor health apply across the social hierarchy, as well as why poor health may lead adolescents to complete less schooling.",
+  "authors": [
+    {
+      "raw": "Jackson, Margot I.",
+      "family": "Jackson",
+      "given": "Margot I."
+    }
+  ],
+  "authors_text": "Jackson, Margot I.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0078",
+  "doi_url": "https://doi.org/10.1353/dem.0.0078",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0078",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0078.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

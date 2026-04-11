@@ -1,0 +1,30 @@
+{
+  "title": "The paradox of seeking help: Socioeconomic inequality in medical crowdfunding in the era of the mobile internet",
+  "abstract": "In recent years, the emergence of mobile-internet-based crowdfunding has provided a new way for the poor to obtain emergency relief for medical needs. Despite a number of reported scams, medical crowdfunding has made an important contribution to society. Public opinion and sentiment highlight two practical issues: Are the resources being directed to the people who need them the most? And how can we optimize medical crowdfunding? To tackle these questions, we focus on the issue of how the socioeconomic status (SES) of help-seekers affects their online medical crowdfunding outcomes. We ask three research questions: What is the correlation between the SES of help-seekers and their fundraising outcomes? What are the underlying mechanisms? Is there a possible path for the optimization of medical crowdfunding outcomes? Our dataset includes 1930 fundraising cases from a large medical crowdfunding platform in China. The study finds significant differences in crowdfunding outcomes among different socioeconomic groups. Higher SES brings higher donation amounts, higher proportions of fundraising targets reached, a higher number of donations received, and more shares on social media. This socioeconomic gradient in crowdfunding outcomes contradicts the social expectation of prioritizing help to the neediest in medical crowdfunding. Mediation analysis also shows that offline interpersonal networks play an important intermediary role. While appealing case narratives are helpful, they are not an intermediary mechanism that links family SES with crowdfunding outcomes. Further analysis also finds that such a socioeconomic gradient seems to weaken when crowdfunding that begins within a private network of offline acquaintances on WeChat moves to public platforms.",
+  "authors": [
+    {
+      "raw": "Cheng, Cheng",
+      "family": "Cheng",
+      "given": "Cheng"
+    },
+    {
+      "raw": "Ren, Yifei",
+      "family": "Ren",
+      "given": "Yifei"
+    }
+  ],
+  "authors_text": "Cheng, Cheng; Ren, Yifei",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1177/2057150x241230163",
+  "doi_url": "https://doi.org/10.1177/2057150x241230163",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x241230163",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x241230163.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "College for All, Degrees for Few: For-Profit Colleges and Socioeconomic Differences in Degree Attainment",
+  "abstract": "The recent expansion of for-profit colleges in US higher education has ignited much debate over the potential contributions, and limitations, of profit-maximizing educational businesses to socioeconomic inequality. For-profit colleges have a strong economic incentive to retain students, and can offer innovative services in order to compete with more established institutions. But for-profit colleges may also seek to increase revenues in ways that are not beneficial for student outcomes. Using detailed longitudinal information on a nationally representative sample of recent high school students (ELS 2002), this paper provides the first comprehensive and systematic assessment of the effect of attendance at for-profit colleges on socioeconomic inequality in student outcomes, measured as the attainment of bachelor's degrees. Results from logit models and weighted regression technique indicate that low-SES students that attend for-profit colleges are substantially less likely to earn a bachelor's degree than observationally similar students that attend non-profit open admission colleges. By contrast, enrollment at for-profit colleges has little bearing on the likelihood of high-SES students to earn a bachelor's degree. These findings suggest that for-profit colleges contribute to the maintenance of socioeconomic disadvantage, in that low-SES students with mobility aspirations are paying more for their education and yet are less likely to reap the benefits of their investment.",
+  "authors": [
+    {
+      "raw": "Gelbgiser, Dafna",
+      "family": "Gelbgiser",
+      "given": "Dafna"
+    }
+  ],
+  "authors_text": "Gelbgiser, Dafna",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy022",
+  "doi_url": "https://doi.org/10.1093/sf/soy022",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy022",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy022.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

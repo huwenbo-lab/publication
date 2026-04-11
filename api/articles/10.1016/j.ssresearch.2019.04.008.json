@@ -1,0 +1,25 @@
+{
+  "title": "Genetic architecture of socioeconomic outcomes: Educational attainment, occupational status, and wealth",
+  "abstract": "This study takes a socio-genomic approach to examine the complex relationships among three important socioeconomic outcomes: educational attainment, occupational status, and wealth. Using more than 8,000 genetic samples from the Health and Retirement study, it first estimates the collective influence of genetic variants across the whole human genome to each of the three socioeconomic outcomes. It then tests genetic correlations among three socioeconomic outcomes, and examines the extent to which genetic influences on occupational status and wealth are mediated by educational attainment. Analyses using the genomic-relatedness-matrix restricted maximum likelihood method show significant genetic correlations among the three outcomes, and provide evidence for both mediated and independent genetic influences. A polygenic score analysis demonstrates the utility of findings in socio-genomic studies to address genetic confounding in causal relationships among the three socioeconomic outcomes.",
+  "authors": [
+    {
+      "raw": "Liu, Hexuan",
+      "family": "Liu",
+      "given": "Hexuan"
+    }
+  ],
+  "authors_text": "Liu, Hexuan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.04.008",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.04.008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.04.008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.04.008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Beyond Average Effects: Incorporating Heterogeneous Treatment Effects Into Family Research",
+  "abstract": "Family researchers are increasingly concerned with causal inference. In this article, I urge family researchers to consider 2 types of causal inference: pretreatment heterogeneity, a consideration of nonrandom selection into a treatment (e.g., divorce), and posttreatment heterogeneity, a consideration of systematic differential responses to a treatment. I detail the heterogeneous treatment effects approach, a method designed to account for both pretreatment heterogeneity and posttreatment heterogeneity. I then review existing research that has implemented this method, paying particular attention to research on family life. Finally, I provide concrete examples of how family researchers can implement heterogeneous treatment effects to answer key research questions.",
+  "authors": [
+    {
+      "raw": "Turney, Kristin",
+      "family": "Turney",
+      "given": "Kristin"
+    }
+  ],
+  "authors_text": "Turney, Kristin",
+  "journal": "Journal of Family Theory & Review",
+  "journal_slug": "Journal_of_Family_Theory_and_Review",
+  "year": 2015,
+  "doi": "10.1111/jftr.12114",
+  "doi_url": "https://doi.org/10.1111/jftr.12114",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjftr.12114",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jftr.12114.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Theory_and_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Theory_and_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

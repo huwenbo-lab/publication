@@ -1,0 +1,25 @@
+{
+  "title": "Are Black Workers Missing the Connection? The Effect of Spatial Distance and Employee Referrals on Interfirm Racial Segregation",
+  "abstract": "I use data on the hiring practices and spatial location of firms in four cities to model the process of interfirm racial segregation. When I control for the spatial location of the firm, the use of employee referrals reduced the probability of hiring a black worker by 75% in firms that are less than 10% black. Among all firms, the results suggest that employee referrals are just as important as the geographic location of the firm in generating employment segregation: both increase the predicted level of interfirm racial segregation among blue-collar workers in the cities studied by about 10%.",
+  "authors": [
+    {
+      "raw": "Mouw, Ted",
+      "family": "Mouw",
+      "given": "Ted"
+    }
+  ],
+  "authors_text": "Mouw, Ted",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.2307/3088329",
+  "doi_url": "https://doi.org/10.2307/3088329",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088329",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088329.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

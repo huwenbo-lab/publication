@@ -1,0 +1,40 @@
+{
+  "title": "Bayesian Probabilistic Projections of Life Expectancy for All Countries",
+  "abstract": "AbstractWe propose a Bayesian hierarchical model for producing probabilistic forecasts of male period life expectancy at birth for all the countries of the world to 2100. Such forecasts would be an input to the production of probabilistic population projections for all countries, which is currently being considered by the United Nations. To evaluate the method, we conducted an out-of-sample cross-validation experiment, fitting the model to the data from 1950–1995 and using the estimated model to forecast for the subsequent 10 years. The 10-year predictions had a mean absolute error of about 1 year, about 40 % less than the current UN methodology. The probabilistic forecasts were calibrated in the sense that, for example, the 80 % prediction intervals contained the truth about 80 % of the time. We illustrate our method with results from Madagascar (a typical country with steadily improving life expectancy), Latvia (a country that has had a mortality crisis), and Japan (a leading country). We also show aggregated results for South Asia, a region with eight countries. Free, publicly available R software packages called bayesLife and bayesDem are available to implement the method.",
+  "authors": [
+    {
+      "raw": "Raftery, Adrian E.",
+      "family": "Raftery",
+      "given": "Adrian E."
+    },
+    {
+      "raw": "Chunn, Jennifer L.",
+      "family": "Chunn",
+      "given": "Jennifer L."
+    },
+    {
+      "raw": "Gerland, Patrick",
+      "family": "Gerland",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Ševčíková, Hana",
+      "family": "Ševčíková",
+      "given": "Hana"
+    }
+  ],
+  "authors_text": "Raftery, Adrian E.; Chunn, Jennifer L.; Gerland, Patrick; Ševčíková, Hana",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-012-0193-x",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0193-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0193-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0193-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

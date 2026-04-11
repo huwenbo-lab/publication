@@ -1,0 +1,30 @@
+{
+  "title": "What Drives Ethnic Homophily? A Relational Approach on How Ethnic Identification Moderates Preferences for Same-Ethnic Friends",
+  "abstract": "Individual preferences for same-ethnic friends contribute to persistent segregation of adolescents' friendship networks. Yet, we know surprisingly little about the mechanisms behind ethnic homophily. Prior research suggests that ethnic homophily is ubiquitous, but a social identity perspective indicates that strong ingroup identification drives ingroup favoritism. Combining a social identity perspective with a relational approach, we ask whether the presumed increased homophily of high identifiers extends to all ingroup members, or whether it is conditional on the strength of same-ethnics' identification. We propose that the strength of ethnic identification affects not only how much individuals desire same-ethnic friends, but also how attractive they are as potential friends to others. Fitting stochastic actor-oriented models to German adolescent school-based network panel data, we find that ethnic homophily is driven by an interplay of peers' ethnic identification: high identifiers befriend same-ethnic peers who share their strong ethnic identification, while excluding same-ethnic low identifiers. Low identifiers, in turn, tend to avoid befriending inter-ethnic high identifiers. Our relational approach reveals that ethnic homophily is hardly ubiquitous but requires strong identification of both parties of a (potential) friendship.",
+  "authors": [
+    {
+      "raw": "Leszczensky, Lars",
+      "family": "Leszczensky",
+      "given": "Lars"
+    },
+    {
+      "raw": "Pink, Sebastian",
+      "family": "Pink",
+      "given": "Sebastian"
+    }
+  ],
+  "authors_text": "Leszczensky, Lars; Pink, Sebastian",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419846849",
+  "doi_url": "https://doi.org/10.1177/0003122419846849",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419846849",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419846849.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

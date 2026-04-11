@@ -1,0 +1,25 @@
+{
+  "title": "Engineering Inequality: Informal Coaching, Glass Walls, and Social Closure in Silicon Valley",
+  "abstract": "Despite the rise of women's labor force participation over the last 60 years, the technology industry remains highly segregated by gender. Engineers often think of their work as purely technical. Yet this study highlights the importance of social relationships for career advancement. Drawing on interviews with tech workers, the author traces the unequal career trajectories of men and women. She finds that men without computer science or engineering degrees are informally coached to learn technical skills from their coworkers and transition from nontechnical to technical roles. Women, however, are excluded from these coaching opportunities and steered out of technical roles, effectively barring them from some of the most lucrative positions in the tech industry. These findings highlight new social closure mechanisms that reproduce gender inequality and question whether the educational pipeline can adequately explain women's underrepresentation in technical roles.",
+  "authors": [
+    {
+      "raw": "Luhr, Sigrid Willa",
+      "family": "Luhr",
+      "given": "Sigrid Willa"
+    }
+  ],
+  "authors_text": "Luhr, Sigrid Willa",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1086/729506",
+  "doi_url": "https://doi.org/10.1086/729506",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F729506",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/729506.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

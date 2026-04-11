@@ -1,0 +1,30 @@
+{
+  "title": "The Complexity of Associative Diffusion: Reassessing the Relationship between Network Structure and Cultural Variation",
+  "abstract": "Goldberg and Stein (2018) present an innovative agent-based computational model that shows how cultural associations can diffuse through superficial interpersonal interactions. They counterintuitively argue that segmented networks-for example, those resembling small worlds with dense local clustering-inhibit rather than promote cultural diffusion. This finding is notable because it breaks with a long line of influential research showing that local clustering is crucial to diffusion in cases where behaviors and practices-including cultural beliefs-require multiple reinforcements in order to spread. Replicating Goldberg and Stein's model, we find this result only holds consistently in settings approximating small-group interactions. In models with larger populations, and where cultural associations require repeated reinforcement through social observation, locally clustered small-world networks can promote global cultural variation as well as globally-connected networks, and sometimes do so better. The complex interactions among parameters that lead to this reversal in Goldberg and Stein's model are instructive for theoretical models of interpersonal influence.",
+  "authors": [
+    {
+      "raw": "DellaPosta, Daniel",
+      "family": "DellaPosta",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Davoodi, Marjan",
+      "family": "Davoodi",
+      "given": "Marjan"
+    }
+  ],
+  "authors_text": "DellaPosta, Daniel; Davoodi, Marjan",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/00031224211056954",
+  "doi_url": "https://doi.org/10.1177/00031224211056954",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211056954",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211056954.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

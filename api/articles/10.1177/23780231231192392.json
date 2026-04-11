@@ -1,0 +1,30 @@
+{
+  "title": "The Effects of Head Start on Low-Income Mothers",
+  "abstract": "Head Start is a federal antipoverty program that provides free childcare, preschool, and related services to disadvantaged families. Research on Head Start has focused almost exclusively on impacts among children. Using data from the Head Start Impact Study, a nationally representative field experiment, the authors estimate treatment effects on maternal employment, economic hardship, and depression. The authors find that Head Start admission generates some improvements among Black mothers but not among other subpopulations. In analyses accounting for treatment intensity, noncompliance, and program substitution, the authors find suggestive evidence that Head Start participation may lead to even greater improvements in these outcomes specifically among Black mothers who would otherwise look after their children at home and when they participate in the program full-time. In conclusion, Head Start likely improves outcomes for some groups of low-income mothers, but these effects are heterogeneous, and they may be small, dose-dependent, or otherwise difficult to detect for many women.",
+  "authors": [
+    {
+      "raw": "Yeh, Catherine T. H.",
+      "family": "Yeh",
+      "given": "Catherine T. H."
+    },
+    {
+      "raw": "Wodtke, Geoffrey T.",
+      "family": "Wodtke",
+      "given": "Geoffrey T."
+    }
+  ],
+  "authors_text": "Yeh, Catherine T. H.; Wodtke, Geoffrey T.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231192392",
+  "doi_url": "https://doi.org/10.1177/23780231231192392",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231192392",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231192392.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

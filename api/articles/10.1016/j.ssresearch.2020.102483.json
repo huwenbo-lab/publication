@@ -1,0 +1,30 @@
+{
+  "title": "Peer influence on obesity: Evidence from a natural experiment of a gene-environment interaction",
+  "abstract": "The role of peers in explaining the obesity epidemic is difficult to evaluate, largely due to selection (the tendency of similar individuals to make friends with each other). Our study addresses this selection issue by using data from a natural experiment of randomly assigned college roommates. We investigate whether and how peers, gender, and the FTO gene interactively influenced BMI. We find that women with a weight-prone version of the gene were about three pounds lighter if assigned frequently-exercising roommates than if assigned non-frequently-exercising roommates. However, living with frequently-exercising roommates had little impact for women without the weight-prone version of the gene or for men regardless of genotype. We find that individuals with the weight-prone version of the gene exercised more often when assigned frequently-exercising roommates. This might be a mechanism through which the effect of frequently-exercising roommates worked.",
+  "authors": [
+    {
+      "raw": "Li, Yi",
+      "family": "Li",
+      "given": "Yi"
+    },
+    {
+      "raw": "Guo, Guang",
+      "family": "Guo",
+      "given": "Guang"
+    }
+  ],
+  "authors_text": "Li, Yi; Guo, Guang",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2020.102483",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102483",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102483",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102483.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

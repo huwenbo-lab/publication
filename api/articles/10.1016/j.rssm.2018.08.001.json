@@ -1,0 +1,30 @@
+{
+  "title": "Can class and status really be disentangled?",
+  "abstract": "Tak Wing Chan and John Goldthorpe (CG) have argued that it makes theoretical and empirical sense to use indicators of both class and status in analyses of cultural consumption, political attitudes and labour market outcomes in order to disentangle different mechanisms of stratification. However, we argue that class and status measured by occupationally based stratification variables are too strongly mutually associated for this to be a reliable approach. We provide empirical analyses, using secondary survey data from the UK's BHPS, that indicate that the measures of class and status largely tap the same form of stratification. It turns out that class accounts for around 75% and more of the variation in status and even more if excluding outliers. Moreover, class and status are similarly associated with earnings, have similar experience-earnings curves, and patterns in relevant model residuals are not consistent with the theoretical differences between class and status. In conclusion we point out alternative and more accurate usages of Weber's concepts of status and also suggest a more realistic and pragmatic view on occupationally based stratification variables.",
+  "authors": [
+    {
+      "raw": "Bihagen, Erik",
+      "family": "Bihagen",
+      "given": "Erik"
+    },
+    {
+      "raw": "Lambert, Paul",
+      "family": "Lambert",
+      "given": "Paul"
+    }
+  ],
+  "authors_text": "Bihagen, Erik; Lambert, Paul",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2018,
+  "doi": "10.1016/j.rssm.2018.08.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2018.08.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2018.08.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2018.08.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

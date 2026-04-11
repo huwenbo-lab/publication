@@ -1,0 +1,35 @@
+{
+  "title": "Economic situation and late-life divorce: A his and hers perspective",
+  "abstract": "ObjectiveThis study investigated the association between individuals' economic situation and divorce among the population aged 60+ in Sweden, with a focus on the role of gender and potential changes across cohorts.BackgroundPrevious research on divorce has mainly considered individuals of working age or all ages combined, although late-life divorce is increasing in several Western countries. Economic considerations regarding divorce may differ for older members of the population, who often have a more restricted economic situation and fewer possibilities to respond to the consequences of a dissolution.MethodUsing Swedish population registers, this study investigated late-life divorce among cohorts born 1930-1956. Discrete-time event-history analysis was employed to study the relationship between income (recent and accumulated individual income, and spouses combined income levels) and divorce across gender and cohorts.ResultsFor women, the results showed a shifting pattern from a positive to a slightly negative gradient of the two individual income measures for divorce. Men had an increasingly negative income gradient in divorce across cohorts. The results for combined income levels for couples corroborate these patterns. Late-life divorce has become increasingly linked to low income over cohorts.ConclusionThe novel findings for older individuals mirror previous findings on trends in the general population, although those studies used other socioeconomic measures. As the association between income and divorce becomes increasingly negative among older women and men, and as the divorce rate increases, there is a growing need to understand different aspects of couple dynamics in later life.",
+  "authors": [
+    {
+      "raw": "Kridahl, Linda",
+      "family": "Kridahl",
+      "given": "Linda"
+    },
+    {
+      "raw": "Ohlsson-Wijk, Sofi",
+      "family": "Ohlsson-Wijk",
+      "given": "Sofi"
+    },
+    {
+      "raw": "Duvander, Ann-Zofie",
+      "family": "Duvander",
+      "given": "Ann-Zofie"
+    }
+  ],
+  "authors_text": "Kridahl, Linda; Ohlsson-Wijk, Sofi; Duvander, Ann-Zofie",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13107",
+  "doi_url": "https://doi.org/10.1111/jomf.13107",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13107",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13107.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

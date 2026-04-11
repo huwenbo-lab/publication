@@ -1,0 +1,40 @@
+{
+  "title": "Cohort fertility decline in low fertility countries: Decomposition using parity progression ratios",
+  "abstract": "BACKGROUND The long-term decline in cohort fertility in highly developed countries has been widely documented. However, no systematic analysis has investigated which parity contributed most to the fertility decline to low and very low levels. OBJECTIVE We examine how the contribution of changing parity progression ratios varied across cohorts, countries, and broader regions in Europe, North America, Australia, and East Asia. We pay special attention to countries that reached very low completed cohort fertility, below 1.75 children per woman. METHODS Using population censuses and large-scale surveys for 32 low fertility countries, we decompose the change in completed cohort fertility among women born between 1940 and 1970. The decomposition method takes into account the sequential nature of childbearing as a chain of transitions from lower to higher parities. RESULTS Among women born between 1940 and 1955, the fertility decline was mostly driven by reductions in the progression ratios to third and higher-order births. By contrast, among women born between 1955 and 1970, changes in fertility showed distinct regional patterns: in Central and Eastern Europe they were fuelled by falling second-birth rates, whereas in the German-speaking countries, Southern Europe, and East Asia decreases in first-birth rates played the major role. CONCLUSIONS Pathways to low and very low fertility show distinct geographical patterns, which reflect the diversity of the cultural, socioeconomic, and institutional settings of low fertility countries. CONTRIBUTION Our study highlights the importance of analysing parity- specific components of fertility in order to understand fertility change and variation. We demonstrate that similar low levels of completed cohort fertility can result from different combinations of parityspecific fertility rates.",
+  "authors": [
+    {
+      "raw": "Zeman, Krystof",
+      "family": "Zeman",
+      "given": "Krystof"
+    },
+    {
+      "raw": "Beaujouan, Eva",
+      "family": "Beaujouan",
+      "given": "Eva"
+    },
+    {
+      "raw": "Brzozowska, Zuzanna",
+      "family": "Brzozowska",
+      "given": "Zuzanna"
+    },
+    {
+      "raw": "Sobotka, Tomas",
+      "family": "Sobotka",
+      "given": "Tomas"
+    }
+  ],
+  "authors_text": "Zeman, Krystof; Beaujouan, Eva; Brzozowska, Zuzanna; Sobotka, Tomas",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.25",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

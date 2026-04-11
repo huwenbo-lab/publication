@@ -1,0 +1,25 @@
+{
+  "title": "Big Microdata for Population Research",
+  "abstract": "Abstract This article describes an explosion in the availability of individual-level population data. By 2018, demographic researchers will have access to over 2 billion records of accessible microdata from over 100 countries, dating from 1703 to the present. Another 2 to 4 billion records will be available through restricted-access data enclaves. These new resources represent a new kind of data that will enable transformative research on demographic and economic change and the spatial organization of society.",
+  "authors": [
+    {
+      "raw": "Ruggles, Steven",
+      "family": "Ruggles",
+      "given": "Steven"
+    }
+  ],
+  "authors_text": "Ruggles, Steven",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0240-2",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0240-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0240-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0240-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

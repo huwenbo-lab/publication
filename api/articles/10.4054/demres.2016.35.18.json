@@ -1,0 +1,35 @@
+{
+  "title": "Fertility progression in Germany: An analysis using flexible nonparametric cure survival models",
+  "abstract": "OBJECTIVE This paper uses data from the German Socio-Economic Panel (GSOEP) to study the transition to second and third births. In particular, we seek to distinguish the factors that determine the timing of fertility from the factors that influence ultimate parity progression. METHODS We employ cure survival models, a technique commonly used in epidemiological studies and in the statistical literature but only rarely applied to fertility research. RESULTS We find that education has a different impact on the timing and the ultimate probability of having a second and a third birth. Furthermore, we show that the shape of the fertility schedule for the total population differs from that of 'susceptible women' (i.e., those who have a second or a third child). CONCLUSION Standard event history models conflate timing and quantum effects. Our approach overcomes this shortcoming. It estimates separate parameters for the hazard rate of having a next child for the 'susceptible population' and the ultimate probability of having another child for the entire population at risk. CONTRIBUTION We go beyond standard cure survival models, also known as split population models, used in fertility research by specifying a flexible non-parametric model using Bayesian P-splines for the latent distribution (related to the timing of an extra birth) instead of a parametric model. Our approach is, so far, limited to time-constant covariates, but can be extended to include time-varying covariates as well.",
+  "authors": [
+    {
+      "raw": "Bremhorst, Vincent",
+      "family": "Bremhorst",
+      "given": "Vincent"
+    },
+    {
+      "raw": "Kreyenfeld, Michaela",
+      "family": "Kreyenfeld",
+      "given": "Michaela"
+    },
+    {
+      "raw": "Lambert, Philippe",
+      "family": "Lambert",
+      "given": "Philippe"
+    }
+  ],
+  "authors_text": "Bremhorst, Vincent; Kreyenfeld, Michaela; Lambert, Philippe",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.18",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

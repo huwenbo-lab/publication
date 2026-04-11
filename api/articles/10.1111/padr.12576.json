@@ -1,0 +1,30 @@
+{
+  "title": "Do Conditional Cash Transfers Reduce Fertility? Nationwide Evidence from Mexico",
+  "abstract": "Conditional cash transfer (CCT) programs, which link transfers to investment in human capital in poor families, have spread around the world over the past two decades. This paper studies the medium-term effects of Progresa, the pioneering Mexican CCT program, on fertility using nationwide vital statistics combined with administrative data on program receipt. The effects of CCTs are likely to vary by age of the woman, and we study impacts by five-year age intervals. We test and account for possible underreporting of births using indirect methods. We find that Progresa led to an important and statistically significant decline in teenage fertility and smaller, but still significant, effects on reducing the fertility of older women.",
+  "authors": [
+    {
+      "raw": "Parker, Susan W.",
+      "family": "Parker",
+      "given": "Susan W."
+    },
+    {
+      "raw": "Ryu, Soomin",
+      "family": "Ryu",
+      "given": "Soomin"
+    }
+  ],
+  "authors_text": "Parker, Susan W.; Ryu, Soomin",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2023,
+  "doi": "10.1111/padr.12576",
+  "doi_url": "https://doi.org/10.1111/padr.12576",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12576",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12576.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

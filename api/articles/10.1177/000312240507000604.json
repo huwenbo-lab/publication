@@ -1,0 +1,30 @@
+{
+  "title": "Family policies, wage structures, and gender gaps: Sources of earnings inequality in 20 countries",
+  "abstract": "This study uncovers an unexpected effect of family-friendly policies on women economic attainments. Using hierarchical linear models, the analysis combines individual-level data (obtained from the Luxembourg Income Study) with country-level data (obtained from secondary sources) to evaluate the effects of family policies on gender earnings inequality across 20 advanced societies. The analysis shows that gender earnings disparities are less pronounced in countries with developed family policies. However the findings also show that if cross-country differences in the wage structure are controlled, the underlying effect of family policy on the gender gap is exposed. Although mother-friendly policies enable more women to become economically active, they exacerbate gender occupational inequality. The authors therefore conclude that the lower earnings differentials between men and women in developed welfare states should be attributed to their more egalitarian wage structures rather than to their family policies. The paradoxical implications of policies intended to reconcile paid and unpaid work as well as the mechanisms that cause these policies to widen the gender earnings gap are discussed and evaluated in light of sociological theories on the role of family policy and wage determination institutions in contemporary societies.",
+  "authors": [
+    {
+      "raw": "Mandel, H",
+      "family": "Mandel",
+      "given": "H"
+    },
+    {
+      "raw": "Semyonov, M",
+      "family": "Semyonov",
+      "given": "M"
+    }
+  ],
+  "authors_text": "Mandel, H; Semyonov, M",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1177/000312240507000604",
+  "doi_url": "https://doi.org/10.1177/000312240507000604",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240507000604",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240507000604.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

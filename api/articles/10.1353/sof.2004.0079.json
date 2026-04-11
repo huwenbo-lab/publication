@@ -1,0 +1,40 @@
+{
+  "title": "To Help or To Harm? Food Stamp Receipt and Mortality Risk Prior to the 1996 Welfare Reform Act",
+  "abstract": "We use data from the National Health Interview Survey-Family Resources Supplement to examine the relationship between Food Stamp receipt and prospective adult mortality, among eligible households. We specify a switching probit model to adjust for observed and unobserved factors that correlate with selection into the Food Stamp Program and mortality, and to estimate mortality under counterfactual conditions that we do not observe. The average individual, based on observed characteristics, has higher mortality when participating than when not participating. But due to unobserved differences between participants and nonparticipants, those who self-select into participation experience lower mortality than if they did not participate. Our findings suggest that Food Stamps provide an important safety net that protects the health of those who are most likely to participate.",
+  "authors": [
+    {
+      "raw": "Krueger, P. M.",
+      "family": "Krueger",
+      "given": "P. M."
+    },
+    {
+      "raw": "Rogers, R. G.",
+      "family": "Rogers",
+      "given": "R. G."
+    },
+    {
+      "raw": "Ridao-Cano, C.",
+      "family": "Ridao-Cano",
+      "given": "C."
+    },
+    {
+      "raw": "Hummer, R. A.",
+      "family": "Hummer",
+      "given": "R. A."
+    }
+  ],
+  "authors_text": "Krueger, P. M.; Rogers, R. G.; Ridao-Cano, C.; Hummer, R. A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2004,
+  "doi": "10.1353/sof.2004.0079",
+  "doi_url": "https://doi.org/10.1353/sof.2004.0079",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2004.0079",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2004.0079.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

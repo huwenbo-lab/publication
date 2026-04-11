@@ -1,0 +1,25 @@
+{
+  "title": "HIV and population dynamics: A general model and maximum-likelihood standards for East Africa",
+  "abstract": "AbstractIn high-prevalence populations, the HIV epidemic undermines the validity of past empirical models and related demographic techniques. A parsimonious model of HIV and population dynamics is presented here and fit to 46,000 observations, gathered from 11 East African populations. The fitted model simulates HIV and population dynamics with standard demographic inputs and only two additional parameters for the onset and scale of the epidemic. The underestimation of the general prevalence of HIV in samples of pregnant women and the fertility impact of HIV are examples of the dynamic interactions that demographic models must reproduce and are shown here to increase over time even with constant prevalence levels. As a result, the impact of HIV on population growth appears to have been underestimated by current population projections that ignore this dynamic.",
+  "authors": [
+    {
+      "raw": "Heuveline, Patrick",
+      "family": "Heuveline",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Heuveline, Patrick",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.1353/dem.2003.0013",
+  "doi_url": "https://doi.org/10.1353/dem.2003.0013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2003.0013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2003.0013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

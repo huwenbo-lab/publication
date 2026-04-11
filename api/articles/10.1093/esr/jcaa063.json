@@ -1,0 +1,30 @@
+{
+  "title": "Socio-Economic Family Background and Adult Children's Health in Germany: The Role of Intergenerational Transmission of Education",
+  "abstract": "This study examines consequences of parental education for adult children's physical and mental health using panel data from the German Socio-Economic Panel study. Based on random-effects growth curve models (N = 15,144 West German respondents born between 1925 and 1998 aged 18-80), we estimate gender-, age-, and cohort-specific trajectories of physical and mental health components of the SF-12 questionnaire for low and high parental education measured biennially from 2002 to 2018. Findings suggest more persistent effects of parental education on physical than mental health. In particular, both daughters and sons of the lower educated group of parents (with neither parent qualified for university) exhibit markedly poorer physical health over the whole life course and worse mental health in mid-life and later life than those of higher educated parents. Thus, children's health gradients conditional on parental education tend to widen with increasing age. Once children's educational attainment is held constant, effects of parental education on children's health mostly vanish. This suggests that in the strongly stratified West German context with its rather low social mobility, intergenerational transmission of education, which, according to our analyses, has been declining among younger cohorts, contributes to cementing long-term health inequalities across the life course.",
+  "authors": [
+    {
+      "raw": "Becker, Oliver Arranz",
+      "family": "Becker",
+      "given": "Oliver Arranz"
+    },
+    {
+      "raw": "Loter, Katharina",
+      "family": "Loter",
+      "given": "Katharina"
+    }
+  ],
+  "authors_text": "Becker, Oliver Arranz; Loter, Katharina",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa063",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa063",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa063",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa063.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

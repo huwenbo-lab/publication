@@ -1,0 +1,45 @@
+{
+  "title": "Losses of Expected Lifetime in the United States and Other Developed Countries: Methods and Empirical Analyses",
+  "abstract": "Abstract Patterns of diversity in age at death are examined using e†, a dispersion measure that equals the average expected lifetime lost at death. We apply two methods for decomposing differences in e†. The first method estimates the contributions of average levels of mortality and mortality age structures. The second (and newly developed) method returns components produced by differences between age- and cause-specific mortality rates. The United States is close to England and Wales in mean life expectancy but has higher life expectancy losses and lacks mortality compression. The difference is determined by mortality age structures, whereas the role of mortality levels is minor. This is related to excess mortality at ages under 65 from various causes in the United States. Regression on 17 country-series suggests that e† correlates with income inequality across countries but not across time. This result can be attributed to dissimilarity between the age- and cause-of-death structures of temporal mortality reduction and intercountry mortality variation. It also suggests that factors affecting overall mortality decrease differ from those responsible for excess lifetime losses in the United States compared with other countries. The latter can be related to weaknesses of health system and other factors resulting in premature death from heart diseases, amenable causes, accidents and violence.",
+  "authors": [
+    {
+      "raw": "Shkolnikov, Vladimir M.",
+      "family": "Shkolnikov",
+      "given": "Vladimir M."
+    },
+    {
+      "raw": "Andreev, Evgeny M.",
+      "family": "Andreev",
+      "given": "Evgeny M."
+    },
+    {
+      "raw": "Zhang, Zhen",
+      "family": "Zhang",
+      "given": "Zhen"
+    },
+    {
+      "raw": "Oeppen, James",
+      "family": "Oeppen",
+      "given": "James"
+    },
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    }
+  ],
+  "authors_text": "Shkolnikov, Vladimir M.; Andreev, Evgeny M.; Zhang, Zhen; Oeppen, James; Vaupel, James W.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0015-6",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0015-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0015-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0015-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

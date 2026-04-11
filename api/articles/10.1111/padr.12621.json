@@ -1,0 +1,30 @@
+{
+  "title": "State-Level Immigrant Policies and Ideal Family Size in the United States",
+  "abstract": "Demographers have long been interested in how fertility ideals vary in response to perceived existential threats. Although migration scholars document the increasingly threatening nature of U.S. immigration policies, little research explores how these policies shape the fertility ideals of those most affected by them. To that end, we exploit spatiotemporal variation in states' evolving immigrant policy contexts to understand the effects of different policies on the ideal family size of Hispanics-a group who is most likely to be stereotyped as undocumented and most likely to live in mixed-status households or communities. Specifically, we combine time-varying information on state-level immigrant policies with geo-referenced data from the General Social Survey. Results suggest that ideal family sizes are significantly higher among Hispanics (compared to non-Hispanic whites) in state-years with omnibus policies-which bundle multiple restrictive laws together and thus impose sweeping restrictions- compared to state-years without these policies. On the other hand, sanctuary policies, which aim to curb federal immigration enforcement, and E-verify mandates, which aim to curb the employment of undocumented immigrants, are not associated with significant differences. Our analyses provide new insights into the complex ways in which the evolving U.S. immigrant policy landscape has far-reaching impacts on reproductive and family life.",
+  "authors": [
+    {
+      "raw": "Behrman, Julia A.",
+      "family": "Behrman",
+      "given": "Julia A."
+    },
+    {
+      "raw": "Weitzman, Abigail",
+      "family": "Weitzman",
+      "given": "Abigail"
+    }
+  ],
+  "authors_text": "Behrman, Julia A.; Weitzman, Abigail",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12621",
+  "doi_url": "https://doi.org/10.1111/padr.12621",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12621",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12621.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Wealth, race, and inter-neighborhood migration",
+  "abstract": "Racial differences in wealth have often been thought to underlie racial differences in residential segregation and neighborhood attainment, but research supporting this claim is limited. The authors of this article use data from the 1989-2001 waves of the Panel Study of Income Dynamics (PSID), in conjunction with tract-level decennial census data, to examine the effects of household and parental wealth on the migration of black and non-Hispanic white families between neighborhoods comprised of varying percentages of Anglos (i.e., non-Hispanic whites). They find generally modest effects of wealth oil these patterns of inter-neighborhood migration. Consistent with one version of the place-stratification model of locational attainment, the effects of both household and parental wealth are stronger among blacks than among non-Hispanic whites, with the sharpest racial difference emerging among renters. Racial differences in household and parental wealth, however, can account for only a trivial portion of the pronounced racial difference in migration into neighborhoods containing larger percentages of Anglo residents. The authors conclude that explanations for the racially stratified intern neighborhood migration streams that underlie and reinforce black-Anglo residential segregation will need to look beyond the influence of wealth and other socioeconoinic resources.",
+  "authors": [
+    {
+      "raw": "Crowder, K",
+      "family": "Crowder",
+      "given": "K"
+    },
+    {
+      "raw": "South, SJ",
+      "family": "South",
+      "given": "SJ"
+    },
+    {
+      "raw": "Chavez, E",
+      "family": "Chavez",
+      "given": "E"
+    }
+  ],
+  "authors_text": "Crowder, K; South, SJ; Chavez, E",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1177/000312240607100104",
+  "doi_url": "https://doi.org/10.1177/000312240607100104",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240607100104",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240607100104.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

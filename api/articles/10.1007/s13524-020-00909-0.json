@@ -1,0 +1,30 @@
+{
+  "title": "Gender Discrimination and Excess Female Under-5 Mortality in India: A New Perspective Using Mixed-Sex Twins",
+  "abstract": "Son preference has been linked to excess female under-5 mortality in India, and considerable literature has explored whether parents invest more resources in sons relative to daughters-which we refer to asexplicit discrimination-leading to girls' poorer health status and, consequently, higher mortality. However, this literature has not adequately controlled for theimplicitdiscrimination processes that sort girls into different types of families (e.g., larger) and at earlier parities. To better address the endogeneity associated with implicit discrimination processes, we explore the association between child sex and postneonatal under-5 mortality using a sample of mixed-sex twins from four waves of the Indian National Family Health Survey. Mixed-sex twins provide a natural experiment that exogenously assigns a boy and a girl to families at the same time, thus controlling for selectivity into having an unwanted female child. We document a sizable impact of explicit discrimination on girls' excess mortality in India, particularly compared with a placebo analysis in sub-Saharan Africa, where girls have a survival advantage. We also show that explicit discrimination weakened for birth cohorts after the mid-1990s, especially in northern India, but further weakening has stalled since the mid-2000s, thus contributing to understandings of how the micro-processes underlying the female mortality disadvantage have changed over time.",
+  "authors": [
+    {
+      "raw": "Kashyap, Ridhi",
+      "family": "Kashyap",
+      "given": "Ridhi"
+    },
+    {
+      "raw": "Behrman, Julia",
+      "family": "Behrman",
+      "given": "Julia"
+    }
+  ],
+  "authors_text": "Kashyap, Ridhi; Behrman, Julia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00909-0",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00909-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00909-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00909-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

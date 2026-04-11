@@ -1,0 +1,40 @@
+{
+  "title": "Harnessing the Potential of Google Searches for Understanding Dynamics of Intimate Partner Violence Before and After the COVID-19 Outbreak",
+  "abstract": "AbstractMost social phenomena are inherently complex and hard to measure, often due to under-reporting, stigma, social desirability bias, and rapidly changing external circumstances. This is for instance the case of Intimate Partner Violence (IPV), a highly-prevalent social phenomenon which has drastically risen in the wake of the COVID-19 pandemic. This paper explores whether big data—an increasingly common tool to track, nowcast, and forecast social phenomena in close-to-real time—might help track and understand IPV dynamics. We leverage online data from Google Trends to explore whether online searches might help reach “hard-to-reach” populations such as victims of IPV using Italy as a case-study. We ask the following questions: Can digital traces help predict instances of IPV—both potential threat and actual violent cases—in Italy? Is their predictive power weaker or stronger in the aftermath of crises such as COVID-19? Our results suggest that online searches using selected keywords measuring different facets of IPV are a powerful tool to track potential threats of IPV before and during global-level crises such as the current COVID-19 pandemic, with stronger predictive power post outbreaks. Conversely, online searches help predict actual violence only in post-outbreak scenarios. Our findings, validated by a Facebook survey, also highlight the important role that socioeconomic status (SES) plays in shaping online search behavior, thus shedding new light on the role played by third-level digital divides in determining the predictive power of digital traces. More specifically, they suggest that forecasting might be more reliable among high-SES population strata.",
+  "authors": [
+    {
+      "raw": "Köksal, Selin",
+      "family": "Köksal",
+      "given": "Selin"
+    },
+    {
+      "raw": "Pesando, Luca Maria",
+      "family": "Pesando",
+      "given": "Luca Maria"
+    },
+    {
+      "raw": "Rotondi, Valentina",
+      "family": "Rotondi",
+      "given": "Valentina"
+    },
+    {
+      "raw": "Şanlıtürk, Ebru",
+      "family": "Şanlıtürk",
+      "given": "Ebru"
+    }
+  ],
+  "authors_text": "Köksal, Selin; Pesando, Luca Maria; Rotondi, Valentina; Şanlıtürk, Ebru",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09619-2",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09619-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09619-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09619-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

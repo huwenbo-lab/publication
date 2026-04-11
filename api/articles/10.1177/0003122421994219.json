@@ -1,0 +1,55 @@
+{
+  "title": "Neighborhoods, Activity Spaces, and the Span of Adolescent Exposures",
+  "abstract": "Since the inception of urban sociology, the neighborhood has served as the dominant context to capture developmentally significant youth experiences beyond the home. Yet no large-scale study has examined patterns of exposure to the most commonly used operationalization of neighborhood-the census tract-among urban youth. Using smartphone GPS data from the Adolescent Health and Development in Context study (N = 1,405), we estimate the amount of time youth spend in residential neighborhoods and consider explanations for variation in neighborhood exposure. On average, youth (ages 11 to 17) spend 5.7 percent of their waking-time in their neighborhood but not at home, 60 percent at home, and 34.3 percent outside their neighborhood. Multilevel negative binomial regression models indicate that residence in economically disadvantaged neighborhoods is associated with less time in one's neighborhood. Higher levels of local violence and the absence of a neighborhood school are negatively associated with time in-neighborhood and mediate the concentrated disadvantage effect. Fractional multinomial logit models indicate that higher violence is linked with increased time at home, and school absence is associated with increased outside-neighborhood time. Theoretical development and empirical research on neighborhood effects should incorporate findings on the extent and nature of neighborhood and broader activity space exposures among urban youth.",
+  "authors": [
+    {
+      "raw": "Browning, Christopher R.",
+      "family": "Browning",
+      "given": "Christopher R."
+    },
+    {
+      "raw": "Calder, Catherine A.",
+      "family": "Calder",
+      "given": "Catherine A."
+    },
+    {
+      "raw": "Boettner, Bethany",
+      "family": "Boettner",
+      "given": "Bethany"
+    },
+    {
+      "raw": "Tarrence, Jake",
+      "family": "Tarrence",
+      "given": "Jake"
+    },
+    {
+      "raw": "Khan, Kori",
+      "family": "Khan",
+      "given": "Kori"
+    },
+    {
+      "raw": "Soller, Brian",
+      "family": "Soller",
+      "given": "Brian"
+    },
+    {
+      "raw": "Ford, Jodi L.",
+      "family": "Ford",
+      "given": "Jodi L."
+    }
+  ],
+  "authors_text": "Browning, Christopher R.; Calder, Catherine A.; Boettner, Bethany; Tarrence, Jake; Khan, Kori; Soller, Brian; Ford, Jodi L.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/0003122421994219",
+  "doi_url": "https://doi.org/10.1177/0003122421994219",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122421994219",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122421994219.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

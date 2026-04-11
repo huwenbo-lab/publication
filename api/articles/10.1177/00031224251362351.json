@@ -1,0 +1,25 @@
+{
+  "title": "The Cultural Devaluation of Feminized Work: The Evolution of US Occupational Prestige and Gender Typing in Linguistic Representations, 1900 to 2019",
+  "abstract": "Previous research on occupational devaluation typically evaluates the potential wage declines associated with a significant inflow of women into an occupation; results have been mixed. Few studies, however, examine the cultural mechanism central to the thesis, where an occupation's symbolic value in multiple dimensions changes in response to the dynamics of its cultural association with women. This article proposes a new semantic approach to trace the devaluation process in U.S. culture, where occupation titles appear in scholarly and public discourses with varied semantic proximity to gender- and prestige-signaling phrases over time. Decade-specific occupation embedding (1900 to 2019) from 127 billion words of American English across genres and a novel fixed-effects estimator show a latent cultural bias against women's work, such that an occupation's general prestige and perceived potency (but not its moral standing) declines when it becomes increasingly stereotyped as female. The largest penalties are found in lower- and middle-wage occupations; most high-wage occupations, despite experiencing large increases in female share in recent years, are persistently stereotyped as male professions without a prestige loss. In total, the cultural mechanism of devaluation accounts for 22.4 to 25.9 percent of the observed negative link between occupations' female typing and hourly wages.",
+  "authors": [
+    {
+      "raw": "Jiang, Wenhao",
+      "family": "Jiang",
+      "given": "Wenhao"
+    }
+  ],
+  "authors_text": "Jiang, Wenhao",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1177/00031224251362351",
+  "doi_url": "https://doi.org/10.1177/00031224251362351",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224251362351",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224251362351.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

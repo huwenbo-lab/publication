@@ -1,0 +1,45 @@
+{
+  "title": "Modeling and Forecasting Health Expectancy: Theoretical Framework and Application",
+  "abstract": "AbstractLife expectancy continues to grow in most Western countries; however, a major remaining question is whether longer life expectancy will be associated with more or fewer life years spent with poor health. Therefore, complementing forecasts of life expectancy with forecasts of health expectancies is useful. To forecast health expectancy, an extension of the stochastic extrapolative models developed for forecasting total life expectancy could be applied, but instead of projecting total mortality and using regular life tables, one could project transition probabilities between health states simultaneously and use multistate life table methods. In this article, we present a theoretical framework for a multistate life table model in which the transition probabilities depend on age and calendar time. The goal of our study is to describe a model that projects transition probabilities by the Lee-Carter method, and to illustrate how it can be used to forecast future health expectancy with prediction intervals around the estimates. We applied the method to data on the Dutch population aged 55 and older, and projected transition probabilities until 2030 to obtain forecasts of life expectancy, disability-free life expectancy, and probability of compression of disability.",
+  "authors": [
+    {
+      "raw": "Majer, Istvan M.",
+      "family": "Majer",
+      "given": "Istvan M."
+    },
+    {
+      "raw": "Stevens, Ralph",
+      "family": "Stevens",
+      "given": "Ralph"
+    },
+    {
+      "raw": "Nusselder, Wilma J.",
+      "family": "Nusselder",
+      "given": "Wilma J."
+    },
+    {
+      "raw": "Mackenbach, Johan P.",
+      "family": "Mackenbach",
+      "given": "Johan P."
+    },
+    {
+      "raw": "van Baal, Pieter H. M.",
+      "family": "van Baal",
+      "given": "Pieter H. M."
+    }
+  ],
+  "authors_text": "Majer, Istvan M.; Stevens, Ralph; Nusselder, Wilma J.; Mackenbach, Johan P.; van Baal, Pieter H. M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0156-2",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0156-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0156-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0156-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Cultural capital in context: Heterogeneous returns to cultural capital across schooling environments",
+  "abstract": "This paper tests two competing explanations of differences in returns to cultural capital across schooling environments: Cultural reproduction (cultural capital yields a higher returns in high-achieving environments than in low-achieving ones) and cultural mobility (cultural capital yields higher returns in low-achieving environments). Using multilevel mixture models, empirical results from analyses based on PISA data from three countries (Canada, Germany, and Sweden) show that returns to cultural capital tend to be higher in low-achieving schooling environments than in high-achieving ones. These results principally support the cultural mobility explanation and suggest that research should pay explicit attention to the institutional contexts in which cultural capital is converted into educational success.",
+  "authors": [
+    {
+      "raw": "Andersen, Ida Gran",
+      "family": "Andersen",
+      "given": "Ida Gran"
+    },
+    {
+      "raw": "Jæger, Mads Meier",
+      "family": "Jæger",
+      "given": "Mads Meier"
+    }
+  ],
+  "authors_text": "Andersen, Ida Gran; Jæger, Mads Meier",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2015,
+  "doi": "10.1016/j.ssresearch.2014.11.015",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2014.11.015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2014.11.015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2014.11.015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

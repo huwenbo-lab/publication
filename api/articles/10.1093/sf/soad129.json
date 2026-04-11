@@ -1,0 +1,40 @@
+{
+  "title": "Pathways of Peer Influence on Major Choice",
+  "abstract": "Peers influence students' academic decisions and outcomes. For example, several studies with strong claims to causality demonstrate that peers affect the choice of and persistence in majors. One remaining issue, however, has stymied efforts to translate this evidence into actionable interventions: the literature has not grappled adequately with the fact that in natural settings, students typically select most of their peers. The bulk of causal evidence for peer influence comes from exogenously assigned peers (e.g., roommates) because peer effects are easier to identify in such cases. However, students do not form their most important ties for the convenience of scientific inference. In order to link theory and practice, we need to understand which peers are influential. We employ longitudinal, multiplex network data on students' choices of and persistence in their majors from 1260 students across 14 universities to identify likely causal pathways of peer influence via self-selected peers. We introduce time-reversed analysis as a novel tool for addressing some selection concerns in network influence studies. We find that peers with whom a student reports merely spending time, rather than-e.g., close friends, study partners, esteemed peers-consistently and potently influence their college major choice.",
+  "authors": [
+    {
+      "raw": "Rubineau, Brian",
+      "family": "Rubineau",
+      "given": "Brian"
+    },
+    {
+      "raw": "Noh, Shinwon",
+      "family": "Noh",
+      "given": "Shinwon"
+    },
+    {
+      "raw": "Neblo, Michael A.",
+      "family": "Neblo",
+      "given": "Michael A."
+    },
+    {
+      "raw": "Lazer, David M. J.",
+      "family": "Lazer",
+      "given": "David M. J."
+    }
+  ],
+  "authors_text": "Rubineau, Brian; Noh, Shinwon; Neblo, Michael A.; Lazer, David M. J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soad129",
+  "doi_url": "https://doi.org/10.1093/sf/soad129",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad129",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad129.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

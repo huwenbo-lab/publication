@@ -1,0 +1,30 @@
+{
+  "title": "Gender, Marital Status, and Mental Health: A Test of the Sex Role Hypothesis in India",
+  "abstract": "Received wisdom says marriage correlates with better health, but men derive a greater benefit than do women. These perceptions persist even though the latter, known as the sex role hypothesis, no longer receives unqualified support. Some researchers attribute declining evidence for the sex role hypothesis to greater gender equality. Such arguments, however, may best apply to Western, developed countries where gains in women’s status have been largest. To date, few researchers have explored these issues in non-Western, developing countries. This study is the first to explore sex-specific differences in the association between marital status and mental health in India, a country with high levels of gender inequality. Data come from the Youth in India Situation and Needs survey, with analysis restricted to 19,163 young adults aged 20 to 24. Results from negative binomial regression models supported the sex role hypothesis. The implications of these findings are discussed.",
+  "authors": [
+    {
+      "raw": "Strohschein, Lisa",
+      "family": "Strohschein",
+      "given": "Lisa"
+    },
+    {
+      "raw": "Ram, Usha",
+      "family": "Ram",
+      "given": "Usha"
+    }
+  ],
+  "authors_text": "Strohschein, Lisa; Ram, Usha",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2016,
+  "doi": "10.1177/0192513x16680090",
+  "doi_url": "https://doi.org/10.1177/0192513x16680090",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x16680090",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x16680090.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

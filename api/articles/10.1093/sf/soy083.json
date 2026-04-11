@@ -1,0 +1,35 @@
+{
+  "title": "How Institutions and Attitudes Shape Tax Compliance: a Cross-National Experiment and Survey",
+  "abstract": "Tax evasion is a problem everywhere, but it is a much bigger policy problem in some countries than it is in others. The Italian government estimates that it loses more than 27 percent of total tax revenue to evasion, whereas the Swedish government estimates their tax gap to be less than 9 percent. What explains this variation? We test for the importance of culturally based attitudes and institutionally structured rules for taxes and benefits through a unique set of cross-national experiments and attitudinal surveys done in multiple locations across Italy, the UK, the United States, and Sweden. Participants in each location were presented with identical conditions based on institutional variations (tax rates, redistribution regimes, benefits) and asked to complete a survey afterward concerning their attitudes toward a number of social and political issues. A mixed-model analysis of the 2,537 subjects in our study reveals consistent influence of institutional scenarios and three attitude scales measuring pro-redistributive ideology, fiscal responsibility, and perceived government competence. Country effects, however, are more mixed and inconsistent.",
+  "authors": [
+    {
+      "raw": "Pampel, Fred",
+      "family": "Pampel",
+      "given": "Fred"
+    },
+    {
+      "raw": "Andrighetto, Giulia",
+      "family": "Andrighetto",
+      "given": "Giulia"
+    },
+    {
+      "raw": "Steinmo, Sven",
+      "family": "Steinmo",
+      "given": "Sven"
+    }
+  ],
+  "authors_text": "Pampel, Fred; Andrighetto, Giulia; Steinmo, Sven",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy083",
+  "doi_url": "https://doi.org/10.1093/sf/soy083",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy083",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy083.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

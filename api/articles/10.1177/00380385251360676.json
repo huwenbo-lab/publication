@@ -1,0 +1,35 @@
+{
+  "title": "Friendship in Times of Crisis: How Social Bonds Buffered the Impact of Economic Precarity on Well-Being during COVID-19",
+  "abstract": "Friendship and social support are critical for mental health, yet little is known about how these relationships vary across socioeconomic status, especially during crises like the COVID-19 pandemic. This study examines the protective effects of friendship on well-being during the pandemic and how these effects differ by income level. Using data from the nationally representative DSL-COVID survey of US adults (N = 1862), we analyze the frequency of socializing with friends and its association with well-being across income groups. Higher-income individuals socialize with friends about 0.3 times more per week than their lower-income counterparts. Importantly, time spent with friends has a significantly stronger positive association with well-being among low-income individuals (β = 0.0385, p < 0.001). These findings suggest that friendships play a disproportionately protective role for economically vulnerable individuals, buffering the mental health effects of economic precarity. Our study highlights the unequal yet essential role of social relationships in mitigating mental health disparities during times of crisis.",
+  "authors": [
+    {
+      "raw": "Choi, Meera",
+      "family": "Choi",
+      "given": "Meera"
+    },
+    {
+      "raw": "Tessler, Hannah",
+      "family": "Tessler",
+      "given": "Hannah"
+    },
+    {
+      "raw": "Kao, Grace",
+      "family": "Kao",
+      "given": "Grace"
+    }
+  ],
+  "authors_text": "Choi, Meera; Tessler, Hannah; Kao, Grace",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2025,
+  "doi": "10.1177/00380385251360676",
+  "doi_url": "https://doi.org/10.1177/00380385251360676",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380385251360676",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380385251360676.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

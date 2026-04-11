@@ -1,0 +1,30 @@
+{
+  "title": "Bayesian projection of life expectancy accounting for the HIV/AIDS epidemic",
+  "abstract": "BACKGROUND While probabilistic projection methods for projecting life expectancy exist, few account for covariates related to life expectancy. Generalized HIV/AIDS epidemics have a large, immediate negative impact on the life expectancy in a country, but this impact can be mitigated by widespread use of antiretroviral therapy (ART). Thus, projection methods for countries with generalized HIV/AIDS epidemics could be improved by accounting for HIV prevalence, the future course of the epidemic, and ART coverage. METHODS We extend the current Bayesian probabilistic life expectancy projection methods of Raftery et al. (2013) to account for HIV prevalence and adult ART coverage in countries with generalized HIV/AIDS epidemics. RESULTS We evaluate our method using out-of-sample validation. We find that the proposed method performs better than the method that does not account for HIV prevalence or ART coverage for projections of life expectancy in countries with a generalized epidemic, while projections for countries without an epidemic remain essentially unchanged. CONCLUSIONS In general, our projections show rapid recovery to pre-epidemic life expectancy levels in the presence of widespread ART coverage. After the initial life expectancy recovery, we project a steady rise in life expectancy until the end of the century. CONTRIBUTION We develop a simple Bayesian hierarchical model for long-term projections of life expectancy while accounting for HIV/AIDS prevalence and coverage of ART. The method produces well-calibrated projections for countries with generalized HIV/AIDS epidemics up to 2100 while having limited data demands.",
+  "authors": [
+    {
+      "raw": "Godwin, Jessica",
+      "family": "Godwin",
+      "given": "Jessica"
+    },
+    {
+      "raw": "Raftery, Adrian E.",
+      "family": "Raftery",
+      "given": "Adrian E."
+    }
+  ],
+  "authors_text": "Godwin, Jessica; Raftery, Adrian E.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.48",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.48",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.48",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.48.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

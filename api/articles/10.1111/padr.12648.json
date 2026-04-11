@@ -1,0 +1,30 @@
+{
+  "title": "Fertility and Family Dynamics in the Aftermath of the COVID-19 Pandemic",
+  "abstract": "When the COVID-19 pandemic began in early 2020, speculation was rife both in public and academic spheres over its possible effects on birth rates and partnership behavior. Now, over four years later, we still know surprisingly little about the effect of COVID-19 on fertility and family dynamics. In this paper, we outline three main takeaways from the scientific literature produced on this topic in the past four years. We argue that (1) we still do not have enough data to answer basic questions about the effect of COVID-19 on fertility and family dynamics, (2) the data we do have suggest an unexpectedly incoherent and heterogeneous response, and (3) the estimated effects we do have are suspect since shifting and theoretically unexpected prepandemic fertility behavior made identifying a strict causal effect of the pandemic problematic.",
+  "authors": [
+    {
+      "raw": "Nitsche, Natalie",
+      "family": "Nitsche",
+      "given": "Natalie"
+    },
+    {
+      "raw": "Wilde, Joshua",
+      "family": "Wilde",
+      "given": "Joshua"
+    }
+  ],
+  "authors_text": "Nitsche, Natalie; Wilde, Joshua",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12648",
+  "doi_url": "https://doi.org/10.1111/padr.12648",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12648",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12648.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

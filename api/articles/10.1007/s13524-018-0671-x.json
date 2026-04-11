@@ -1,0 +1,30 @@
+{
+  "title": "Marriage Markets and Intermarriage: Exchange in First Marriages and Remarriages",
+  "abstract": "Drawing on data from the American Community Survey, we compare patterns of assortative mating in first marriages, remarriages, and mixed-order marriages. We identify a number of ascribed and achieved characteristics that are viewed as resources available for exchange, both as complements and substitutes. We apply conditional logit models to show how patterns of assortative mating among never-married and previously married persons are subject to local marriage market opportunities and constraints. The results reveal that previously married individuals cast a wider net: spousal pairings are more heterogamous among remarriages than among first marriages. Marital heterogamy, however, is reflected in systematic evidence of trade-offs showing that marriage order (i.e., status of being never-married) is a valued trait for exchange. Never-married persons are better positioned than previously married persons to marry more attractive marital partners, variously measured (e.g., highly educated partners). Previously married persons-especially women-are disadvantaged in the marriage market, facing demographic shortages of potential partners to marry. Marriage market constraints take demographic expression in low remarriage rates and in heterogamous patterns of mate selection in which previously married partners often substitute other valued characteristics in marriage with never-married persons.",
+  "authors": [
+    {
+      "raw": "Qian, Zhenchao",
+      "family": "Qian",
+      "given": "Zhenchao"
+    },
+    {
+      "raw": "Lichter, Daniel T.",
+      "family": "Lichter",
+      "given": "Daniel T."
+    }
+  ],
+  "authors_text": "Qian, Zhenchao; Lichter, Daniel T.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0671-x",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0671-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0671-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0671-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

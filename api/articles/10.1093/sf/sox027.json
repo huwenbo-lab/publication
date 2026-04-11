@@ -1,0 +1,25 @@
+{
+  "title": "Economic Change and Class Conflict over Tax Attitudes: Evidence from Nine Advanced Capitalist Democracies",
+  "abstract": "Do economic downturns induce class conflict over tax attitudes? Previous research casts doubt on this possibility and suggests that economic change exerts a minimal influence on welfare attitudes. Yet most of this research focuses on aggregate preferences, which potentially obscures important changes taking place at the level of social class. This study uses cross-national and temporal variation in unemployment rates as an empirical point of leverage to examine how unemployment rates influence class conflict over tax attitudes. The analysis combines individual-level data on tax attitudes (from different modules of the International Social Survey Programme) with country-level data on unemployment rates (from the Organization for Economic Cooperation and Development) to create a dataset with information on both individuals' tax attitudes and larger unemployment rates. Findings from two-way fixed-effects logistic regression models indicate that rising unemployment induces class-based change in tax attitudes. High-level professionals and managers respond to rising unemployment by withdrawing support for raising tax progressivity. By contrast, manual workers (along with low-level professionals and managers) respond to rising unemployment by increasing their support for tax progressivity. The results are observed across two different data sources. The study suggests that economic changes can foster class polarization in political attitudes.",
+  "authors": [
+    {
+      "raw": "Dodson, Kyle",
+      "family": "Dodson",
+      "given": "Kyle"
+    }
+  ],
+  "authors_text": "Dodson, Kyle",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox027",
+  "doi_url": "https://doi.org/10.1093/sf/sox027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

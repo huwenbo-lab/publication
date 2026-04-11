@@ -1,0 +1,30 @@
+{
+  "title": "Immigration and Preferences for Greater Law Enforcement Spending in Rich Democracies",
+  "abstract": "Immigration to rich democracies grew substantially in the 1990s and 2000s. We investigate whether the rise of immigration influenced the novel and salient outcome of preferences for greater law enforcement spending. We propose that these preferences are consequential for policymaking, reflect popular demand for punitive social control, and represent micro-level preferences underlying the politics of criminal justice. Motivated by literatures on criminal justice politics, minority threat, and the fear of crime, we examine whether stocks and flows of immigration influence individual-level preferences for greater law enforcement spending. Using International Social Survey Programme (ISSP) data, we analyze between-country variation with multi-level models of 25 countries in 2006, and within-country variation with differences-in-differences (DD) models of 16 countries with available data in both 1996 and 2006. Both multilevel and DD models show that flows of immigration increase preferences for greater law enforcement spending. Indeed, the coefficients for immigration flows are larger than or comparable in magnitude to the coefficients for any other variable, and are robust net of homicide rates and police officers per 100,000. By contrast, the stock of immigrants is not robustly associated with preferences. The results demonstrate that rising immigration contributed to increasing public support for greater law enforcement spending.",
+  "authors": [
+    {
+      "raw": "Fink, Joshua J.",
+      "family": "Fink",
+      "given": "Joshua J."
+    },
+    {
+      "raw": "Brady, David",
+      "family": "Brady",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Fink, Joshua J.; Brady, David",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz024",
+  "doi_url": "https://doi.org/10.1093/sf/soz024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

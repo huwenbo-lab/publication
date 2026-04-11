@@ -1,0 +1,35 @@
+{
+  "title": "Intermediate Levels of Network Fluidity Amplify Economic Growth and Mitigate Economic Inequality in Experimental Social Networks",
+  "abstract": "Social connections are mutable. Prior experimental work has shown that circumstances fostering an intermediate rate of forming and breaking social ties (\"network fluidity\") facilitate the maintenance of optimal levels of cooperation in experimental social networks. Previous observational work has also suggested a relationship between economic outcomes and network structure (measured statically) at a geographic level. However, it is not known how network fluidity might affect economic growth and inequality, particularly in an experimental setting. Using data from a series of online experiments involving a public goods game in 90 independent, dynamic social networks (with N=1,529 subjects), we show that increasing network fluidity simultaneously achieves the highest level of economic growth and the lowest level of economic inequality, up to a point. These effects of network fluidity on economic outcomes are mediated, in these experiments, by the levels of cooperation and tie formation that subjects evince. Finally, we show that wealthier networks are less unequal. Social network fluidity may play an important role in economic outcomes and hence in social welfare.",
+  "authors": [
+    {
+      "raw": "Nishi, Akihiro",
+      "family": "Nishi",
+      "given": "Akihiro"
+    },
+    {
+      "raw": "Shirado, Hirokazu",
+      "family": "Shirado",
+      "given": "Hirokazu"
+    },
+    {
+      "raw": "Christakis, Nicholas",
+      "family": "Christakis",
+      "given": "Nicholas"
+    }
+  ],
+  "authors_text": "Nishi, Akihiro; Shirado, Hirokazu; Christakis, Nicholas",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2015,
+  "doi": "10.15195/v2.a26",
+  "doi_url": "https://doi.org/10.15195/v2.a26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv2.a26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v2.a26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

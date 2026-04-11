@@ -1,0 +1,35 @@
+{
+  "title": "Spatial Trends in Mortality Convergence: The Cases of France, Italy, and Spain, 1975–2019",
+  "abstract": "Abstract Spatial differences in mortality are a significant source of inequality in low-mortality countries and are important for public health, regional planning, and subnational population forecasts. Long-term trends in geographic mortality inequalities remain poorly understood, especially from a comparative perspective. In this study, we examine trends in subnational mortality differences in France, Italy, and Spain from 1975 to 2019. We study whether life expectancy has converged or diverged between geographic areas, assess how the geographic mortality gradient has changed, and document age-specific differences. We find convergence in life expectancy in all three countries, although the path of convergence varies between countries and sexes. We find concerning evidence of diverging mortality at younger ages in all three countries. Our results show that even in similar national contexts, very different subnational trajectories in mortality inequalities can occur.",
+  "authors": [
+    {
+      "raw": "Martin, Jacob",
+      "family": "Martin",
+      "given": "Jacob"
+    },
+    {
+      "raw": "Camarda, Carlo Giovanni",
+      "family": "Camarda",
+      "given": "Carlo Giovanni"
+    },
+    {
+      "raw": "Riffe, Timothy",
+      "family": "Riffe",
+      "given": "Timothy"
+    }
+  ],
+  "authors_text": "Martin, Jacob; Camarda, Carlo Giovanni; Riffe, Timothy",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09745-7",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09745-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09745-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09745-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

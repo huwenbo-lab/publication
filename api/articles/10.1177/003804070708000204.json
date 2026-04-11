@@ -1,0 +1,25 @@
+{
+  "title": "When work matters: The varying impact of work intensity on high school dropout",
+  "abstract": "While the association between teenagers' work and academic performance continues to be debated in studies of adolescent employment, many researchers have found that intensive involvement in paid work increases the risk of high school dropout. It is still unclear, however, whether this relationship is spurious owing to preexisting differences in socioeconomic background, school performance, aspirations, and orientations toward work and school. Using propensity- score matching techniques, the authors address this issue and assess variation in the effects of work hours on the probability of dropping out of high school. The results suggest that long hours on the job do not encourage high school dropout among all students.",
+  "authors": [
+    {
+      "raw": "Lee, Jennifer C.",
+      "family": "Lee",
+      "given": "Jennifer C."
+    }
+  ],
+  "authors_text": "Lee, Jennifer C.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2007,
+  "doi": "10.1177/003804070708000204",
+  "doi_url": "https://doi.org/10.1177/003804070708000204",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070708000204",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070708000204.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

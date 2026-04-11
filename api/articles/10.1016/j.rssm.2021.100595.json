@@ -1,0 +1,40 @@
+{
+  "title": "Concise survey measures for the Big Five personality traits",
+  "abstract": "With a few notable exceptions, sociologists, economists, and public opinion researchers have generally neglected the role of personality in status attainment, well-being, and related research on non-cognitive skills. This is partly because the existing measurement instruments for the well-known Big Five personality traits are far too long for inclusion in the large nationwide (as opposed to clinical) surveys where status attainment and well-being are typically analyzed. Accordingly, with the goal of identifying a powerful, concise collection of items measuring key personality traits, we included the classical full 60-item NEO-5 personality test measurements in a special follow-up to the Czech edition of the Program for the International Assessment of Adult Competencies (PIAAC; n = 2198). Using classical measurement techniques of factor analysis, supplemented by structural equation analyses which also take into account correlations with criterion variables, we assess the value of the different potential items. We arrive at a concise set that, for general social science as opposed to clinical purposes, adequately measures two of the Big Five personality traits: extraversion (4 items) and conscientiousness (4 items). We also find an empirically highly reliable measure of third, neuroticism (6 items), but have some doubts about its conceptual meaning. We do not find adequate measures of openness to experience or to agreeableness, the remainder of the Big Five.",
+  "authors": [
+    {
+      "raw": "Smith, Michael L.",
+      "family": "Smith",
+      "given": "Michael L."
+    },
+    {
+      "raw": "Hamplova, Dana",
+      "family": "Hamplova",
+      "given": "Dana"
+    },
+    {
+      "raw": "Kelley, Jonathan",
+      "family": "Kelley",
+      "given": "Jonathan"
+    },
+    {
+      "raw": "Evans, M. D. R.",
+      "family": "Evans",
+      "given": "M. D. R."
+    }
+  ],
+  "authors_text": "Smith, Michael L.; Hamplova, Dana; Kelley, Jonathan; Evans, M. D. R.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100595",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100595",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100595",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100595.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

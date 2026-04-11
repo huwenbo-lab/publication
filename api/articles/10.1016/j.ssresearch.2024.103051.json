@@ -1,0 +1,30 @@
+{
+  "title": "Free to represent you and me: Gender attitudes and women's share of parliament, 1995-2021",
+  "abstract": "Women are under-represented in political leadership roles, comprising only a quarter of national parliament members across the world. This is surprising, given women's comparatively high level of education and labor force participation. Why has women's political leadership lagged behind other indicators of gender equality? In this study, we revisit the importance of gender attitudes and examine the extent to which they shape women's share of parliament. Prior studies either examine gender attitudes by relying on cross-sectional research designs with small samples or adopt proxy measures that serve as crude indicators of gender ideology. We overcome these limitations by directly measuring gender attitudes from the World Values Survey and European Values Study, while adopting a panel design with a larger sample of countries and a more comprehensive set of controls. Drawing from our dataset of 275 observations across 101 countries during the 1995-2021 period, we find that our attitudinal measure, gender egalitarianism, wipes away most of the observed differences in women's share of parliament between world regions. Moreover, when we add two-way fixed effects, we find that a one-unit increase in a country's gender egalitarianism score is associated with an increase in women's parliament share by about four or five percentage points. Finally, we address concerns about endogeneity by replicating our results using two-stage least squares models with fixed effects. Overall, our findings suggest that gender ideology helps account for the growing success and persistent obstacles faced by women political candidates across the world.",
+  "authors": [
+    {
+      "raw": "Clark, Rob",
+      "family": "Clark",
+      "given": "Rob"
+    },
+    {
+      "raw": "Kroska, Amy",
+      "family": "Kroska",
+      "given": "Amy"
+    }
+  ],
+  "authors_text": "Clark, Rob; Kroska, Amy",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103051",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103051",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103051",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103051.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

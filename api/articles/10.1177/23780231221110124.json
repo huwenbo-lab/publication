@@ -1,0 +1,35 @@
+{
+  "title": "Visualizing How Race, Support for Black Lives Matter, and Gun Ownership Shape Views of the U.S. Capitol Insurrection of January 6, 2021",
+  "abstract": "Protest movements linked to racial inequality in policing and antigovernment sentiment have roiled the United States in recent years. In this visualization, the authors examine how race, support for Black Lives Matter (BLM), and gun ownership predict views about the political uprising of January 6, 2021, at the U.S. Capitol. On the basis of a 2021 survey from a long-term longitudinal study, the authors show that views of the Capitol insurrection do not vary by race, contrary to expectations. However, there is a positive association between support for BLM and views of January 6 participants as “extremists,” especially among Whites, independent of age, sex, respondent’s education, parental education, and childhood neighborhood poverty. Race and gun ownership also interact, with White gun owners an outlier in viewing the insurrection more favorably. Black gun owners, on the contrary, viewed it most negatively.",
+  "authors": [
+    {
+      "raw": "Bucci, Rebecca",
+      "family": "Bucci",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Kirk, David S.",
+      "family": "Kirk",
+      "given": "David S."
+    },
+    {
+      "raw": "Sampson, Robert J.",
+      "family": "Sampson",
+      "given": "Robert J."
+    }
+  ],
+  "authors_text": "Bucci, Rebecca; Kirk, David S.; Sampson, Robert J.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221110124",
+  "doi_url": "https://doi.org/10.1177/23780231221110124",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221110124",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221110124.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

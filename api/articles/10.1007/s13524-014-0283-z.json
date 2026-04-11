@@ -1,0 +1,30 @@
+{
+  "title": "Redefining Neighborhoods Using Common Destinations: Social Characteristics of Activity Spaces and Home Census Tracts Compared",
+  "abstract": "AbstractResearch on neighborhood effects has focused largely on residential neighborhoods, but people are exposed to many other places in the course of their daily lives—at school, at work, when shopping, and so on. Thus, studies of residential neighborhoods consider only a subset of the social-spatial environment affecting individuals. In this article, we examine the characteristics of adults’ “activity spaces”—spaces defined by locations that individuals visit regularly—in Los Angeles County, California. Using geographic information system (GIS) methods, we define activity spaces in two ways and estimate their socioeconomic characteristics. Our research has two goals. First, we determine whether residential neighborhoods represent the social conditions to which adults are exposed in the course of their regular activities. Second, we evaluate whether particular groups are exposed to a broader or narrower range of social contexts in the course of their daily activities. We find that activity spaces are substantially more heterogeneous in terms of key social characteristics, compared to residential neighborhoods. However, the characteristics of both home neighborhoods and activity spaces are closely associated with individual characteristics. Our results suggest that most people experience substantial segregation across the range of spaces in their daily lives, not just at home.",
+  "authors": [
+    {
+      "raw": "Jones, Malia",
+      "family": "Jones",
+      "given": "Malia"
+    },
+    {
+      "raw": "Pebley, Anne R.",
+      "family": "Pebley",
+      "given": "Anne R."
+    }
+  ],
+  "authors_text": "Jones, Malia; Pebley, Anne R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0283-z",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0283-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0283-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0283-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

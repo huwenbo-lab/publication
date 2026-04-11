@@ -1,0 +1,30 @@
+{
+  "title": "Choice by Contrast in Swedish Schools: How Peers' Achievement Affects Educational Choice",
+  "abstract": "We ask whether a social contrast mechanism depresses the educational aspirations of students with high-achieving peers. We study two entire cohorts of students in the final grade of the Swedish comprehensive school with matched information on social origin and achievements (160,417 students, 829 schools). Controlling for school fixed effects and observed characteristics of students and families, we find that the propensity to make a high-aspiring choice of upper-secondary school program is lower for students with high-achieving schoolmates, given own achievement. While theoretically interesting, the effect is small compared to that of own achievement: Moving an average student from an average school to a school that lies one standard deviation lower in achievement increases the probability of a high-aspiring choice by three percentage points.",
+  "authors": [
+    {
+      "raw": "Jonsson, J. O.",
+      "family": "Jonsson",
+      "given": "J. O."
+    },
+    {
+      "raw": "Mood, C.",
+      "family": "Mood",
+      "given": "C."
+    }
+  ],
+  "authors_text": "Jonsson, J. O.; Mood, C.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2008,
+  "doi": "10.1353/sof.0.0135",
+  "doi_url": "https://doi.org/10.1353/sof.0.0135",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0135",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0135.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

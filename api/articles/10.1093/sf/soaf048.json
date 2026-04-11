@@ -1,0 +1,25 @@
+{
+  "title": "Evidence for the welfare magnet hypothesis? A global examination using exponential random graph models",
+  "abstract": "The welfare magnet hypothesis states that welfare generosity in destination countries is a migration pull factor. However, supporting evidence is mixed. Previous research has focused on explanatory factors in destination countries rather than in origin countries, examined migration from Organisation for Economic Co-operation and Development country perspectives rather than from a global perspective, and typically ignored that migration flows are not independent, thus overestimating welfare spending effects. We used exponential random graph models to examine migration flows between 160 countries and treated welfare spending in origin and destination countries as the main explanatory variable. Our findings show that social spending attraction effects largely disappear after controlling for various explanatory variables (gross domestic product, population size, geographic distance, democracy levels, and common spoken language). The migration preferences of low- and high-income groups do not mediate social spending attraction effects. Furthermore, flows between countries with similar spending levels are greater than flows between very low- and very high-spending countries, indicating migrant status maintenance. In conclusion, we find insufficient evidence that welfare spending strongly impacts migration.",
+  "authors": [
+    {
+      "raw": "Mueller, Tim S.",
+      "family": "Mueller",
+      "given": "Tim S."
+    }
+  ],
+  "authors_text": "Mueller, Tim S.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf048",
+  "doi_url": "https://doi.org/10.1093/sf/soaf048",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf048",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf048.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

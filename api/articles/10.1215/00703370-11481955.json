@@ -1,0 +1,30 @@
+{
+  "title": "Decomposing the Drivers of Population Aging: A Research Note",
+  "abstract": "Population aging is an impor tant and increas ingly rel e vant area of study for demog ra phers. A grow ing body of research seeks to deter mine how long-term changes in births, mor tal ity, and migra tion-the three driv ers of any demo graphic pro cess- have shaped the pres ent aging sit u a tion. Using var i able-r decomposition and cohort data, this research note pres ents a for mula for the change in the old-age depen dency ratio to deter mine the extent to which rel a tive changes in births, as well as in mor tality and migra tion rates, con trib ute to aging. This per spec tive pro vi des a care ful and in-depth pic ture of aging and con trib utes to the debate concerning whether changes in births or mor tal ity have had the stron gest effect on pop u la tion aging. When applied to Australia, the United States, and sev eral Euro pean pop u la tions, the decom po si tion of the old-age depen dency ratio shows that aging occurred in all pop u la tions and that changes in both births and mor tal ity con trib uted to this aging. Analysis of these pop ula tions dem on strates that although they differed regard ing which of these fac tors contrib uted more, changes in births prevailed as the more sig nif cant fac tor. In nearly all pop ulations, migration decreased the rate of population aging.",
+  "authors": [
+    {
+      "raw": "Scott, Tabitha",
+      "family": "Scott",
+      "given": "Tabitha"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Scott, Tabitha; Canudas-Romo, Vladimir",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11481955",
+  "doi_url": "https://doi.org/10.1215/00703370-11481955",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11481955",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11481955.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

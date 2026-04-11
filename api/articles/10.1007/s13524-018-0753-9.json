@@ -1,0 +1,35 @@
+{
+  "title": "Misreporting Month of Birth: Diagnosis and Implications for Research on Nutrition and Early Childhood in Developing Countries",
+  "abstract": "A large literature has used children's birthdays to identify exposure to shocks and estimate their impacts on later outcomes. Using height-for-age z scores (HAZ) for more than 990,000 children in 62 countries from 163 Demographic and Health Surveys (DHS), we show how random errors in birth dates create artifacts in HAZ that can be used to diagnose the extent of age misreporting. The most important artifact is an upward gradient in HAZ by recorded month of birth (MOB) from start to end of calendar years, resulting in a large HAZ differential between December- and January-born children of -0.32 HAZ points. We observe a second artifact associated with round ages, with a downward gradient in HAZ by recorded age in months, and then an upward step after reaching ages 2, 3, and 4. These artifacts have previously been interpreted as actual health shocks. We show that they are not related to agroclimatic conditions but are instead linked to the type of calendar used and arise mainly when enumerators do not see the child's birth registration cards. We explain the size of the December-January gap through simulation in which 11 % of children have their birth date replaced by a random month. We find a minor impact on the average stunting rate but a larger impact in specific error-prone surveys. We further show how misreporting MOB causes attenuation bias when MOB is used for identification of shock exposure as well as systematic bias in the impact on HAZ of events that occur early or late in each calendar year.",
+  "authors": [
+    {
+      "raw": "Larsen, Anna Folke",
+      "family": "Larsen",
+      "given": "Anna Folke"
+    },
+    {
+      "raw": "Headey, Derek",
+      "family": "Headey",
+      "given": "Derek"
+    },
+    {
+      "raw": "Masters, William A.",
+      "family": "Masters",
+      "given": "William A."
+    }
+  ],
+  "authors_text": "Larsen, Anna Folke; Headey, Derek; Masters, William A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-018-0753-9",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0753-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0753-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0753-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

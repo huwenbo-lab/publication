@@ -1,0 +1,35 @@
+{
+  "title": "Evidence from Field Experiments in Hiring Shows Substantial Additional Racial Discrimination after the Callback",
+  "abstract": "Field experiments using fictitious applications have become an increasingly important method for assessing hiring discrimination. Most field experiments of hiring, however, only observe whether the applicant receives an invitation to interview, called the callback. How adequate is our understanding of discrimination in the hiring process based on an assessment of discrimination in callbacks, when the ultimate subject of interest is discrimination in job offers? To address this question, we examine evidence from all available field experimental studies of racial or ethnic discrimination in hiring that go to the job offer outcome. Our sample includes 12 studies encompassing more than 13,000 job applications. We find considerable additional discrimination in hiring after the callback: majority applicants in our sample receive 53% more callbacks than comparableminority applicants, but majority applicants receive 145% more job offers than comparable minority applicants. The additional discrimination from interview to job offer is weakly correlated (r = 0.21) with the level of discrimination earlier in the hiring process. We discuss the implications of our results for theories of discrimination, including statistical discrimination.",
+  "authors": [
+    {
+      "raw": "Quillian, Lincoln",
+      "family": "Quillian",
+      "given": "Lincoln"
+    },
+    {
+      "raw": "Lee, John J.",
+      "family": "Lee",
+      "given": "John J."
+    },
+    {
+      "raw": "Oliver, Mariana",
+      "family": "Oliver",
+      "given": "Mariana"
+    }
+  ],
+  "authors_text": "Quillian, Lincoln; Lee, John J.; Oliver, Mariana",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soaa026",
+  "doi_url": "https://doi.org/10.1093/sf/soaa026",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa026",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa026.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Measuring living standards with proxy variables",
+  "abstract": "Abstract Very few demographic surveys in developing countries have gathered information on household incomes or consumption expenditures. Researchers interested in living standards therefore have had little alternative but to rely on simple proxy indicators. The properties of these proxies have not been analyzed systematically. We ask what hypotheses can be tested using proxies, and compare these indicators with consumption expenditures per adult, our preferred measure of living standards. We find that the proxies employed in much demographic research are very weak predictors of consumption per adult. Nevertheless, hypothesis tests based on proxies are likely to be powerful enough to warrant consideration.",
+  "authors": [
+    {
+      "raw": "Montgomery, Mark R.",
+      "family": "Montgomery",
+      "given": "Mark R."
+    },
+    {
+      "raw": "Gragnolati, Michele",
+      "family": "Gragnolati",
+      "given": "Michele"
+    },
+    {
+      "raw": "Burke, Kathleen A.",
+      "family": "Burke",
+      "given": "Kathleen A."
+    },
+    {
+      "raw": "Paredes, Edmundo",
+      "family": "Paredes",
+      "given": "Edmundo"
+    }
+  ],
+  "authors_text": "Montgomery, Mark R.; Gragnolati, Michele; Burke, Kathleen A.; Paredes, Edmundo",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648118",
+  "doi_url": "https://doi.org/10.2307/2648118",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648118",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648118.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

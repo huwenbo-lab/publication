@@ -1,0 +1,35 @@
+{
+  "title": "Editorial to the Special Issue on Demographic Data Visualization: Getting the point across - Reaching the potential of demographic data visualization",
+  "abstract": "BACKGROUND Demography is full of data visualization challenges, such as age-period-cohort effects or life course trajectories. Innovative approaches to visualizing such complex data structures have been proposed from within and outside the discipline. However, demographic data visualizations presented in the scientific literature often fall short of the state-of-the-art. OBJECTIVE We discuss what makes a good data visualization and why it is worthwhile to strive for state-of-the-art visualization. We highlight the distinction between exploratory and explanatory graphics, and relate the seven papers that comprise the Demographic Research special collection on data visualization to the broader endeavor of data visualization in demography. CONTRIBUTION We suggest a set of best practice rules that are intended to provide general guidance for researchers attempting to produce meaningful and coherently designed figures from their data.",
+  "authors": [
+    {
+      "raw": "Riffe, Tim",
+      "family": "Riffe",
+      "given": "Tim"
+    },
+    {
+      "raw": "Sander, Nikola",
+      "family": "Sander",
+      "given": "Nikola"
+    },
+    {
+      "raw": "Kluesener, Sebastian",
+      "family": "Kluesener",
+      "given": "Sebastian"
+    }
+  ],
+  "authors_text": "Riffe, Tim; Sander, Nikola; Kluesener, Sebastian",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.36",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.36",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.36",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.36.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

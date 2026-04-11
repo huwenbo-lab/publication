@@ -1,0 +1,30 @@
+{
+  "title": "Early Childbearing, School Attainment, and Cognitive Skills: Evidence From Madagascar",
+  "abstract": "Female secondary school attendance has recently increased in sub-Saharan Africa, and so has the risk of becoming pregnant while attending school. We analyze the impact of teenage pregnancy on young women's human capital using longitudinal data in Madagascar that capture the transition from adolescence to adulthood for a cohort aged 21-24 in 2012, first interviewed in 2004. We find that early childbearing increases the likelihood of dropping out of school and decreases the chances of completing secondary school. This pregnancy-related school dropout also has a detrimental impact on standardized test scores in math and French. We instrument early pregnancy with the young woman's community-level access and her exposure to condoms since age 15 after controlling for pre-fertility socioeconomic conditions. Our results are robust to different specifications that address potential endogeneity of program placement and instrument validity.",
+  "authors": [
+    {
+      "raw": "Almanza, Catalina Herrera",
+      "family": "Almanza",
+      "given": "Catalina Herrera"
+    },
+    {
+      "raw": "Sahn, David E.",
+      "family": "Sahn",
+      "given": "David E."
+    }
+  ],
+  "authors_text": "Almanza, Catalina Herrera; Sahn, David E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0664-9",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0664-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0664-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0664-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

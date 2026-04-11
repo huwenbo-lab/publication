@@ -1,0 +1,30 @@
+{
+  "title": "Endogenous Dynamics in Contentious Fields: Evidence from the Shareholder Activism Network, 2006–2013",
+  "abstract": "Shareholder activism is a contentious field where investors confront management over governance and social responsibility matters. Most prior research on shareholder activism focuses on firm traits, such as performance, that explain targeting. We argue that shareholder activism also reflects endogenous dynamics. Although activists target firms because of their characteristics, activists also choose targets based on their position in the relational field. We develop a network approach to mapping contentious fields: Shareholder activism is a social network whose topology reflects self-organizing patterns. We hypothesize four network effects thought to contribute to the observed structure: prolificacy, ignominy, differentiation, and homophily. We use data on shareholder-sponsored proposals targeting Fortune 250 firms between 2006 and 2013. Results from exponential random graph models support our hypothesized effects and suggest that activism sponsorship and targeting follow an endogenous cumulative process. We argue that these self-organization processes help explain the structure of the shareholder activism network.",
+  "authors": [
+    {
+      "raw": "Benton, Richard A.",
+      "family": "Benton",
+      "given": "Richard A."
+    },
+    {
+      "raw": "You, Jihae",
+      "family": "You",
+      "given": "Jihae"
+    }
+  ],
+  "authors_text": "Benton, Richard A.; You, Jihae",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2017,
+  "doi": "10.1177/2378023117705231",
+  "doi_url": "https://doi.org/10.1177/2378023117705231",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023117705231",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023117705231.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

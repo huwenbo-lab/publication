@@ -1,0 +1,25 @@
+{
+  "title": "Earnings and first birth probability among Norwegian men and women 1995-2010",
+  "abstract": "BACKGROUND The relationship between earnings and fertility and how it varies with context are among the core investigations of demography. Cross-country comparisons show that when parenting and employment are in conflict, this relationship is less positive for women. We lack knowledge of how this relationship is shaped by context for men and how it varies with contextual changes over time rather than between countries. OBJECTIVE I investigate how the relationship between earnings and first-birth probability changes over time for men and women, in a period when efforts in parenting and paid work become increasingly similar across sex. METHODS Discrete-time hazard regressions are applied to highly accurate data from Norwegian population registers. Through estimation of separate models for each of the years 1995 through 2010, I assess whether the correlation between yearly earnings and the first birth probabilities changed over period time. The correlation is estimated net of observable confounders, such as educational enrolment and attainment and region of birth. RESULTS The correlation between earnings and fertility has become substantially more positive over time for women, and also somewhat more positive among men. CONCLUSIONS Though the potential opportunity cost of fathering increases, there is no evidence of a weaker correlation between earnings and first birth probability for men. I suggest that decreasing opportunity costs of motherhood as well as strategic timing of fertility are both plausible explanations for the increasingly positive correlation among women.",
+  "authors": [
+    {
+      "raw": "Hart, Rannveig Kaldager",
+      "family": "Hart",
+      "given": "Rannveig Kaldager"
+    }
+  ],
+  "authors_text": "Hart, Rannveig Kaldager",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.38",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.38",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.38",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.38.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

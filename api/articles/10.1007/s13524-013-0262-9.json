@@ -1,0 +1,30 @@
+{
+  "title": "Polygynous Contexts, Family Structure, and Infant Mortality in Sub-Saharan Africa",
+  "abstract": "AbstractContextual characteristics influence infant mortality above and beyond family-level factors. The widespread practice of polygyny is one feature of many sub-Saharan African contexts that may be relevant to understanding patterns of infant mortality. Building on evidence that the prevalence of polygyny reflects broader economic, social, and cultural features and that it has implications for how families engage in the practice, we investigate whether and how the prevalence of polygyny (1) spills over to elevate infant mortality for all families, and (2) conditions the survival disadvantage for children living in polygynous families (i.e., compared with monogamous families). We use data from Demographic and Health Surveys to estimate multilevel hazard models that identify associations between infant mortality and region-level prevalence of polygyny for 236,336 children in 260 subnational regions across 29 sub-Saharan African countries. We find little evidence that the prevalence of polygyny influences mortality for infants in nonpolygynous households net of region-level socioeconomic factors and gender inequality. However, the prevalence of polygyny significantly amplifies the survival disadvantage for infants in polygynous families. Our findings demonstrate that considering the broader marital context reveals important insights into the relationship between family structure and child well-being.",
+  "authors": [
+    {
+      "raw": "Smith-Greenaway, Emily",
+      "family": "Smith-Greenaway",
+      "given": "Emily"
+    },
+    {
+      "raw": "Trinitapoli, Jenny",
+      "family": "Trinitapoli",
+      "given": "Jenny"
+    }
+  ],
+  "authors_text": "Smith-Greenaway, Emily; Trinitapoli, Jenny",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-013-0262-9",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0262-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0262-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0262-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

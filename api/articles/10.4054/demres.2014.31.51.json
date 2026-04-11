@@ -1,0 +1,30 @@
+{
+  "title": "Divergence without decoupling",
+  "abstract": "Divergence of male and female life expectancy is a well-documented phenomenon. Comovement is a heretofore-neglected aspect of changes in male and female mortality.",
+  "authors": [
+    {
+      "raw": "Noymer, Andrew",
+      "family": "Noymer",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Van, Viola",
+      "family": "Van",
+      "given": "Viola"
+    }
+  ],
+  "authors_text": "Noymer, Andrew; Van, Viola",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2014,
+  "doi": "10.4054/demres.2014.31.51",
+  "doi_url": "https://doi.org/10.4054/demres.2014.31.51",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2014.31.51",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2014.31.51.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

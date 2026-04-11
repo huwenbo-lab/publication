@@ -1,0 +1,30 @@
+{
+  "title": "Estimating wealth effects without expenditure data—or tears: An application to educational enrollments in states of India",
+  "abstract": "Abstract Using data from India, we estimate the relationship between household wealth and children’s school enrollment. We proxy wealth by constructing a linear index from asset ownership indicators, using principal-components analysis to derive weights. In Indian data this index is robust to the assets included, and produces internally coherent results. State-level results correspond well to independent data on per capita output and poverty. To validate the method and to show that the asset index predicts enrollments as accurately as expenditures, or more so, we use data sets from Indonesia, Pakistan, and Nepal that contain information on both expenditures and assets. The results show large, variable wealth gaps in children’s enrollment across Indian states. On average a “rich” child is 31 percentage points more likely to be enrolled than a “poor” child, but this gap varies from only 4.6 percentage points in Kerala to 38.2 in Uttar Pradesh and 42.6 in Bihar.",
+  "authors": [
+    {
+      "raw": "Filmer, Deon",
+      "family": "Filmer",
+      "given": "Deon"
+    },
+    {
+      "raw": "Pritchett, Lant H.",
+      "family": "Pritchett",
+      "given": "Lant H."
+    }
+  ],
+  "authors_text": "Filmer, Deon; Pritchett, Lant H.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.1353/dem.2001.0003",
+  "doi_url": "https://doi.org/10.1353/dem.2001.0003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2001.0003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2001.0003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

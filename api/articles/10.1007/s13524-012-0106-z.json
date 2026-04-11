@@ -1,0 +1,30 @@
+{
+  "title": "Statistical Security for Social Security",
+  "abstract": "Abstract The financial viability of Social Security, the single largest U.S. government program, depends on accurate forecasts of the solvency of its intergenerational trust fund. We begin by detailing information necessary for replicating the Social Security Administration’s (SSA’s) forecasting procedures, which until now has been unavailable in the public domain. We then offer a way to improve the quality of these procedures via age- and sex-specific mortality forecasts. The most recent SSA mortality forecasts were based on the best available technology at the time, which was a combination of linear extrapolation and qualitative judgments. Unfortunately, linear extrapolation excludes known risk factors and is inconsistent with long-standing demographic patterns, such as the smoothness of age profiles. Modern statistical methods typically outperform even the best qualitative judgments in these contexts. We show how to use such methods, enabling researchers to forecast using far more information, such as the known risk factors of smoking and obesity and known demographic patterns. Including this extra information makes a substantial difference. For example, by improving only mortality forecasting methods, we predict three fewer years of net surplus, $730 billion less in Social Security Trust Funds, and program costs that are 0.66% greater for projected taxable payroll by 2031 compared with SSA projections. More important than specific numerical estimates are the advantages of transparency, replicability, reduction of uncertainty, and what may be the resulting lower vulnerability to the politicization of program forecasts. In addition, by offering with this article software and detailed replication information, we hope to marshal the efforts of the research community to include ever more informative inputs and to continue to reduce uncertainties in Social Security forecasts.",
+  "authors": [
+    {
+      "raw": "Soneji, Samir",
+      "family": "Soneji",
+      "given": "Samir"
+    },
+    {
+      "raw": "King, Gary",
+      "family": "King",
+      "given": "Gary"
+    }
+  ],
+  "authors_text": "Soneji, Samir; King, Gary",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0106-z",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0106-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0106-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0106-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

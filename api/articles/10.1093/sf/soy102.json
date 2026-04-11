@@ -1,0 +1,35 @@
+{
+  "title": "The Effect of Timing of Incarceration on Mental Health: Evidence from a Natural Experiment",
+  "abstract": "There is growing evidence that incarceration is associated with adverse health outcomes, but little is known about how circumstances surrounding incarceration relate to health. In the present study, we estimate the effect of timing of incarceration on mental health using panel data constructed from the Danish population registry. We exploit a 1994 criminal justice reform as a natural experiment that created exogenous variation in the age at which offenders were first incarcerated: because of policy change, incarceration occurred earlier than it would have otherwise. For the three out of the four mental health outcomes assessed in the study- having undergone psychiatric treatment, being in therapy or consultation, and being charged with the possession of drugs-we found consistent support for the notion that earlier incarceration is more harmful. The study refines our understanding of the collateral consequences of incarceration and it is the first to provide quasi-experimental evidence for the mental health effects of timing of incarceration.",
+  "authors": [
+    {
+      "raw": "Bacak, Valerio",
+      "family": "Bacak",
+      "given": "Valerio"
+    },
+    {
+      "raw": "Andersen, Lars H.",
+      "family": "Andersen",
+      "given": "Lars H."
+    },
+    {
+      "raw": "Schnittker, Jason",
+      "family": "Schnittker",
+      "given": "Jason"
+    }
+  ],
+  "authors_text": "Bacak, Valerio; Andersen, Lars H.; Schnittker, Jason",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy102",
+  "doi_url": "https://doi.org/10.1093/sf/soy102",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy102",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy102.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

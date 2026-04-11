@@ -1,0 +1,30 @@
+{
+  "title": "No trend in the intergenerational transmission of divorce",
+  "abstract": "Abstract Previous studies on trends in the intergenerational transmission of divorce have produced mixed findings, with two studies (McLanahan and Bumpass 1988; Teachman 2002) reporting no trend in divorce transmission and one study (Wolfinger 1999) finding that divorce transmission has weakened substantially. Using a stratified Cox proportional hazard model, we analyze data from the National Survey of Families and Households and find no evidence for any trend in divorce transmission. To reconcile apparent differences in results, we note that the General Social Survey data used by Wolfinger lack information on marital duration, permitting analysis only for whether respondents have divorced by interview. As a result, an apparent decline in divorce transmission could be due to inadequate adjustments for the longer exposures to risk by earlier marriage cohorts, yielding a higher probability of divorce by interview for earlier cohorts relative to more recent cohorts even if divorce risks are identical across all marriage cohorts. We confirm this possibility by using a series of discrete-time hazard logistic regressions to investigate the sensitivity of estimates of trends in divorce transmission to different adjustments for exposure to risk. We conclude that there has been no trend in the intergenerational transmission of divorce.",
+  "authors": [
+    {
+      "raw": "Li, Jui-Chung Allen",
+      "family": "Li",
+      "given": "Jui-Chung Allen"
+    },
+    {
+      "raw": "Wu, Lawrence L.",
+      "family": "Wu",
+      "given": "Lawrence L."
+    }
+  ],
+  "authors_text": "Li, Jui-Chung Allen; Wu, Lawrence L.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0030",
+  "doi_url": "https://doi.org/10.1353/dem.0.0030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Why Net Worth Misrepresents Wealth Effects and What to Do About It",
+  "abstract": "Wealth plays an important role in social stratification but the results that can be obtained when analyzing wealth as a predictor variable depend on modeling decisions. Although wealth consists of multiple components it is often operationalized as net worth. Moreover, wealth effects are likely non-linear, but the functional form is often unknown. To overcome these problems, we propose to 1) split up net worth into gross wealth and debt and evaluate their joint effect and 2) use non-parametric Generalized Additive Models. We show in a simulation study that this approach describes systematic wealth differences in more detail and overfits less to random variation in the data than standard approaches. We then apply the approach to re-analyze wealth gaps in educational attainment in the US. We find that the operationalization of wealth as net worth results in a misclassification of which children have the best and the worst educational prospects. Not negative net worth is associated with the worst educational prospects but only the combination of low gross wealth and low debt. The most advantaged group are not only children with high net worth but all children with high gross wealth independent of the households' amount of debt.",
+  "authors": [
+    {
+      "raw": "Dräger, Jascha",
+      "family": "Dräger",
+      "given": "Jascha"
+    },
+    {
+      "raw": "Pforr, Klaus",
+      "family": "Pforr",
+      "given": "Klaus"
+    },
+    {
+      "raw": "Müller, Nora",
+      "family": "Müller",
+      "given": "Nora"
+    }
+  ],
+  "authors_text": "Dräger, Jascha; Pforr, Klaus; Müller, Nora",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a19",
+  "doi_url": "https://doi.org/10.15195/v10.a19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

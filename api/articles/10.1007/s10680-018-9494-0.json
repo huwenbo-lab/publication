@@ -1,0 +1,30 @@
+{
+  "title": "Migration Versus Immobility, and Ties to Parents",
+  "abstract": "We investigate the association between geographic proximity to parents and the likelihood of moving longer distances (e.g. at least 40 km), using British panel data from the Understanding Society study and probit regression. We also look at the extent to which this association diminishes by introducing measures of frequency of contact, interaction with neighbors and length of residence. Using a number of different models and samples, we find that living far from parents increases longer distance mobility. Seeing parents weekly and more interactions with neighbors reduce longer distance mobility, but its association with parental proximity remains substantial. The positive effect of living far from parents on the likelihood of moving longer distances is also found in subsamples of those who have lived in their current residence for 5 years or less and of the highly educated, while the negative effect of seeing parents weekly is also found in these subsamples as well as in a subsample of those living close to parents. Even though endogeneity cannot be ruled out completely, these findings show a robust association between family ties and the likelihood of moving a long distance.",
+  "authors": [
+    {
+      "raw": "Ermisch, John",
+      "family": "Ermisch",
+      "given": "John"
+    },
+    {
+      "raw": "Mulder, Clara H.",
+      "family": "Mulder",
+      "given": "Clara H."
+    }
+  ],
+  "authors_text": "Ermisch, John; Mulder, Clara H.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9494-0",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9494-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9494-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9494-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

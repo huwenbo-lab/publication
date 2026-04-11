@@ -1,0 +1,30 @@
+{
+  "title": "New estimates and projections of population growth in Pakistan",
+  "abstract": "Pakistan population growth rate rose steadily from about 2.6 percent annum in the early 1960s to a high of about 3.5 percent during the late 1980s. Since then it has declined to an estimated 2.1 percent for 2003. Growth rates calculated from the population censuses, which show a very different picture, are distorted by differential accuracy of enumeration, During the period of rising growth rates, fertility was constant at just under 7 children per woman while life expectancy at birth rose by nearly 20 years. Fertility decline began in the late 1980s, bringing the population growth rate down with it. Remarkably, there appears to have been little change in life expectancy over the past 15 years.",
+  "authors": [
+    {
+      "raw": "Feeney, G",
+      "family": "Feeney",
+      "given": "G"
+    },
+    {
+      "raw": "Alam, I",
+      "family": "Alam",
+      "given": "I"
+    }
+  ],
+  "authors_text": "Feeney, G; Alam, I",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2003,
+  "doi": "10.1111/j.1728-4457.2003.00483.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2003.00483.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2003.00483.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2003.00483.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

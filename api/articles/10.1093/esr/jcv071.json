@@ -1,0 +1,30 @@
+{
+  "title": "The Logic of Relative Frustration: Boudon's Competition Model and Experimental Evidence",
+  "abstract": "An improvement in the availability of opportunities for actors in a social system ( e. g. a society or a firm) can coincide with a growing rate of frustrated individuals. For instance, uprisings have repeatedly been preceded by forms of political liberalization that have provided greater opportunities ( the so- called Tocqueville paradox). In organizations, satisfaction with regard to promotion opportunities can be negatively associated with objective chances of promotion. Raymond Boudon has proposed a game- theoretic competition model, which specifies the micro- mechanisms that produce these puzzling phenomena at the aggregate level and clarifies the conditions under which they emerge. We conducted three laboratory experiments to test the model's predictions, making our study the first empirical test of Boudon's model. The results are mixed: when opportunities increased, the rate of the relatively frustrated losers in the group remained constant, or increased only slightly. However, when applying another aggregation rule, which accounts for all social comparison processes and does not merely focus on the losers, an increase in relative frustration under improved conditions was observed. Our results imply that under specific conditions, there is a trade- off between opportunities and social mobility, on the one hand, and social inequality and relative frustration, on the other.",
+  "authors": [
+    {
+      "raw": "Berger, Joel",
+      "family": "Berger",
+      "given": "Joel"
+    },
+    {
+      "raw": "Diekmann, Andreas",
+      "family": "Diekmann",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Berger, Joel; Diekmann, Andreas",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcv071",
+  "doi_url": "https://doi.org/10.1093/esr/jcv071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

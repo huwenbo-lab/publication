@@ -1,0 +1,30 @@
+{
+  "title": "From empire to nation-state: Explaining wars in the modern world, 1816-2001",
+  "abstract": "The existing quantitative literature on war takes the independent nation-state as the se revident unit of analysis and largely excludes other political types from consideration. In contrast, the authors argue that the change in the institutional form of states is itself a major cause for war. The rise of empires and the global spread of the nation-state are the of most important institutional transformations in the modern age. To test this hypothesis, the authors introduce a new data set that records the outbreak of war in fixed geographic territories from 1816 to 2001, independent of the political entity in control of a territory. Analysis of this data set demonstrates that wars are much more likely during and because of these two transformations. For the transformation to the modern nation-state, the authors confirm this hypothesis further with logit regressions that control for variables that have been robustly significant in previous research. The results provide support for the main mechanisms that explain this time dependency. Modern nation states are ruled in the name of a nationally defined people, in contrast to empires, which govern to spread a faith across the world, to bring civilization to backward people, or to advance the world revolutionary cause. The institution of the nation-state thus introduces incentives for political elites to privilege members of the national majority over ethnic minorities, and for minority elites to mobilize against such political discrimination. The resulting power struggles over the ethno-national character of the state may escalate into civil wars. Interstate wars can result from attempts to protect co-nationals who are politically excluded in neighboring states. The reported research thus provides a corrective to mainstream approaches, which exclude ethnic and nationalist politics as factors that would help understanding the dynamics of war.",
+  "authors": [
+    {
+      "raw": "Wimmer, Andreas",
+      "family": "Wimmer",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Min, Brian",
+      "family": "Min",
+      "given": "Brian"
+    }
+  ],
+  "authors_text": "Wimmer, Andreas; Min, Brian",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1177/000312240607100601",
+  "doi_url": "https://doi.org/10.1177/000312240607100601",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240607100601",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240607100601.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

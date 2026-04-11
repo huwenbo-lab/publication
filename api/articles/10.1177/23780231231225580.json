@@ -1,0 +1,40 @@
+{
+  "title": "Political Polarization and the Dynamics between Actual Income and Perceived Income Inequality in the United States, 1987 to 2021",
+  "abstract": "The rich often perceive lower levels of inequality than the poor. In recent decades, however, notions regarding the equality or inequality of our society have progressively taken on a more political nature. Consequently, people’s perceptions of income inequality may be less associated with their actual income status and more with their political ideology. The authors visualize this “political turn” using data from the U.S. General Social Survey (1987–2021). The analysis shows that historically actual income and perceived inequality had an inverse relationship, independent of political alignment. Yet since 2000, this has changed: whereas Republicans show a deepening inverse correlation after some attenuation in prior years, Democrats reverse it. With this said, we see an increase in overall concern about inequality among those who identify strongly with either Democratic or Republican ideologies, but importantly the biggest increase is among those in the Democratic group. This invites reflections on the nature of the “political turn.”",
+  "authors": [
+    {
+      "raw": "Wu, Cary",
+      "family": "Wu",
+      "given": "Cary"
+    },
+    {
+      "raw": "Sharma, Kriti",
+      "family": "Sharma",
+      "given": "Kriti"
+    },
+    {
+      "raw": "Haddon, Edward",
+      "family": "Haddon",
+      "given": "Edward"
+    },
+    {
+      "raw": "Duina, Francesco",
+      "family": "Duina",
+      "given": "Francesco"
+    }
+  ],
+  "authors_text": "Wu, Cary; Sharma, Kriti; Haddon, Edward; Duina, Francesco",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231231225580",
+  "doi_url": "https://doi.org/10.1177/23780231231225580",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231225580",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231225580.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

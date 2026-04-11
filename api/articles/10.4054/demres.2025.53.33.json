@@ -1,0 +1,30 @@
+{
+  "title": "Immigrant labor market dynamics in Germany by family status",
+  "abstract": "BACKGROUND The labor market activities of immigrants are diverse and highly gendered. Few studies have examined these disparities by legal entry pathway in a multi-state framework that accounts for multiple entries to and exits from the market. OBJECTIVE We analyze immigrants' timing and level of participation in training and labor market activities by gender, parity, and legal entry pathway. METHODS Using data from the German Socio-Economic Panel (GSOEP), we employ competing-risks event history models, treating labor market attachment as a multi-state process. RESULTS Immigrants from Europe, ex-Yugoslavia, and the former Soviet Union exhibit higher levels of labor market attachment than immigrants from Turkey, Africa, and West Asia. However, we find that the presence of children is more negatively linked to women's labor force participation for Europeans than non-Europeans. Turkish, West Asian, and African immigrant women are less likely to return to the labor market once they exit. CONCLUSIONS The greater impact of motherhood on the labor market participation of European immigrant women than that of non-European immigrant women is due to their higher participation when childless. However, overall, non-European immigrant women show markedly lower attachment to the labor market regardless of motherhood status. CONTRIBUTION This research sheds light on how gender, origin, and entry pathway intersect with family processes, particularly among women, contributing to a deeper understanding of immigrant labor dynamics.",
+  "authors": [
+    {
+      "raw": "Liu, Chia",
+      "family": "Liu",
+      "given": "Chia"
+    },
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    }
+  ],
+  "authors_text": "Liu, Chia; Kulu, Hill",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.33",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

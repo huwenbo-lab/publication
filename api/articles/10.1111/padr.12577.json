@@ -1,0 +1,25 @@
+{
+  "title": "Migration and Skewed Subnational Sex Ratios among Young Adults",
+  "abstract": "Skewed sex ratios have been found to increase crime and spread of diseases, as well as influence fertility decisions, gender roles, and economic development. I document the extent to which international and internal migration shape national and subnational sex ratios among young adults (SRYA). For this purpose, I analyze the data from the United Nations' Urban and Rural Population by Age and Sex and World Population Prospects, focusing on the cohort born between 1975 and 1985 in 200 countries. I find that, while 33 countries have significantly skewed country-level sex ratios, as many as 107 of the 200 investigated countries have either rural or urban skewed SRYA in 2010. To identify the sources of sex ratio imbalances, I decompose country-level sex ratios into three factors: sex ratio at birth, relative probability of survival, and sex-selective migration. I show that without sex-selective international migration, country-level SRYA would be balanced in almost all countries of the world. In the third part of the study, I use Eurostat data for European subnational regions. I find a strong log-linear relationship between sex ratios and population density, that is, relatively more women among young adults as population density increases. Moreover, I show that skewed SRYA can be mainly attributable to sex-selective migration, rather than to imbalanced sex ratios at birth and differential mortality.",
+  "authors": [
+    {
+      "raw": "Gulczynski, Michal",
+      "family": "Gulczynski",
+      "given": "Michal"
+    }
+  ],
+  "authors_text": "Gulczynski, Michal",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2023,
+  "doi": "10.1111/padr.12577",
+  "doi_url": "https://doi.org/10.1111/padr.12577",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12577",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12577.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Estimating mortality from external causes using data from retrospective surveys: A validation study in Niakhar (Senegal)",
+  "abstract": "BACKGROUND In low- and middle-income countries (LMICs), data on causes of death is often inaccurate or incomplete. In this paper, we test whether adding a few questions about injuries and accidents to mortality questionnaires used in representative household surveys would yield accurate estimates of the extent of mortality due to external causes ( accidents, homicides, or suicides). METHODS We conduct a validation study in Niakhar (Senegal), during which we compare reported survey data to high-quality prospective records of deaths collected by a health and demographic surveillance system (HDSS). RESULTS Survey respondents more frequently list the deaths of their adult siblings who die of external causes than the deaths of those who die from other causes. The specificity of survey data is high, but sensitivity is low. Among reported deaths, less than 60% of the deaths classified as due to external causes by the HDSS are also classified as such by survey respondents. Survey respondents better report deaths due to road-traffic accidents than deaths from suicides and homicides. CONCLUSIONS Asking questions about deaths resulting from injuries and accidents during surveys might help measure mortality from external causes in LMICs, but the resulting data displays systematic bias in a rural population of Senegal. Future studies should 1) investigate whether similar biases also apply in other settings and 2) test new methods to further improve the accuracy of survey data on mortality from external causes. CONTRIBUTION This study helps strengthen the monitoring of sustainable development targets in LMICs by validating a simple approach for the measurement of mortality from external causes.",
+  "authors": [
+    {
+      "raw": "Pison, Gilles",
+      "family": "Pison",
+      "given": "Gilles"
+    },
+    {
+      "raw": "Masquelier, Bruno",
+      "family": "Masquelier",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Kante, Almamy Malick",
+      "family": "Kante",
+      "given": "Almamy Malick"
+    },
+    {
+      "raw": "Ndiaye, Cheikh Tidiane",
+      "family": "Ndiaye",
+      "given": "Cheikh Tidiane"
+    },
+    {
+      "raw": "Douillot, Laetitia",
+      "family": "Douillot",
+      "given": "Laetitia"
+    },
+    {
+      "raw": "Duthe, Geraldine",
+      "family": "Duthe",
+      "given": "Geraldine"
+    },
+    {
+      "raw": "Sokhna, Cheikh",
+      "family": "Sokhna",
+      "given": "Cheikh"
+    },
+    {
+      "raw": "Delaunay, Valerie",
+      "family": "Delaunay",
+      "given": "Valerie"
+    },
+    {
+      "raw": "Helleringer, Stephane",
+      "family": "Helleringer",
+      "given": "Stephane"
+    }
+  ],
+  "authors_text": "Pison, Gilles; Masquelier, Bruno; Kante, Almamy Malick; Ndiaye, Cheikh Tidiane; Douillot, Laetitia; Duthe, Geraldine; Sokhna, Cheikh; Delaunay, Valerie; Helleringer, Stephane",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.32",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

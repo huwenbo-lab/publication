@@ -1,0 +1,30 @@
+{
+  "title": "Religious Attendance in Cross-National Perspective: A Multilevel Analysis of 60 Countries",
+  "abstract": "Why are some nations more religious than others? This article proposes a multilevel framework in which country differences in religious attendance are explained by contextual, individual, and cross-level interaction effects. Hypotheses from different theories are simultaneously tested with data from 60 nations obtained from the European/World Values Surveys. Multilevel logistic regression analyses show that religious regulation in a country diminishes religious attendance and that there are only small negative effects of people's own education and average educational level of the country. Religious attendance is strongly affected by personal and societal insecurities and by parental and national religious socialization and level of urbanization. These theories explain 75% of the cross-national variation in religious attendance.",
+  "authors": [
+    {
+      "raw": "Ruiter, Stijn",
+      "family": "Ruiter",
+      "given": "Stijn"
+    },
+    {
+      "raw": "van Tubergen, Frank",
+      "family": "van Tubergen",
+      "given": "Frank"
+    }
+  ],
+  "authors_text": "Ruiter, Stijn; van Tubergen, Frank",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2009,
+  "doi": "10.1086/603536",
+  "doi_url": "https://doi.org/10.1086/603536",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F603536",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/603536.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

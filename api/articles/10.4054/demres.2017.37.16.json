@@ -1,0 +1,30 @@
+{
+  "title": "Different places, different stories: A study of the spatial heterogeneity of county-level fertility in China",
+  "abstract": "BACKGROUND China has been characterized by persistently low fertility rates since the 1990s. Existing literature has examined the relationship between fertility levels and social, economic, and policy-related determinants. However, the possible spatial variation in these relationships has not been investigated. OBJECTIVE The purpose of this study is to examine the potential spatially varying relationships between county-level fertility rates and policy and socioeconomic factors in China. METHODS Using geocoded 2010 county-level census data, this study adopts the geographically weighted regression (GWR) method to identify place-specific relationships between county-level total fertility rate (TFR) and socioeconomic and policy-related factors. CONCLUSIONS We find that relationships between TFR and widely used social, economic, and policy-related factors (rural Hukou, ethnic minority, female education, net migration rate, poor living standard, sex ratio at birth, fertility policy compliance ratio) vary spatially in terms of direction, strength, and magnitude. This spatial variation is largely due to differences in local characteristics. The differences between and the complexities of localities cannot be told by a single story of either government intervention or socioeconomic development.",
+  "authors": [
+    {
+      "raw": "Wang, Donghui",
+      "family": "Wang",
+      "given": "Donghui"
+    },
+    {
+      "raw": "Chi, Guangqing",
+      "family": "Chi",
+      "given": "Guangqing"
+    }
+  ],
+  "authors_text": "Wang, Donghui; Chi, Guangqing",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.16",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

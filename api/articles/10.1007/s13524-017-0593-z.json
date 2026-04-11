@@ -1,0 +1,35 @@
+{
+  "title": "Does Black Socioeconomic Mobility Explain Recent Progress Toward Black-White Residential Integration?",
+  "abstract": "Studies of racial residential segregation have found that black-white segregation in U.S. metropolitan areas has declined slowly but steadily since the early 1970s. As of this writing, black-white residential segregation in the United States is approximately 25 % lower than it was in 1970. To identify the sources of this decline, we used individual-level, geocoded data from the Panel Study of Income Dynamics (PSID) to compare the residential attainment of different cohorts of blacks. We analyzed these data using Blinder-Oaxaca regression decomposition techniques that partition the decline in residential segregation among cohorts into the decline resulting from (1) changes in the social and economic characteristics of blacks and (2) changes in the association between blacks' social and economic characteristics and the level of residential segregation they experience. Our findings show that black cohorts entering adulthood prior to the civil rights movement of the 1960s experienced consistently high levels of residential segregation at middle age, but that cohorts transitioning to adulthood during and after this period of racial progress experienced significantly lower levels of residential segregation. We find that the decline in black-white residential segregation for these later cohorts reflects both their greater social and economic attainment and a strengthening of the association between socioeconomic characteristics and residential segregation. Educational gains for the post-civil rights era cohorts and improved access to integrated neighborhoods for high school graduates and college attendees in these later cohorts were the principal source of improved residential integration over this period.",
+  "authors": [
+    {
+      "raw": "Wagmiller, Robert L., Jr.",
+      "family": "Wagmiller",
+      "given": "Robert L., Jr."
+    },
+    {
+      "raw": "Gage-Bouchard, Elizabeth",
+      "family": "Gage-Bouchard",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Karraker, Amelia",
+      "family": "Karraker",
+      "given": "Amelia"
+    }
+  ],
+  "authors_text": "Wagmiller, Robert L., Jr.; Gage-Bouchard, Elizabeth; Karraker, Amelia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0593-z",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0593-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0593-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0593-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

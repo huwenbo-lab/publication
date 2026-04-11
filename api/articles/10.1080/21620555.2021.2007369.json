@@ -1,0 +1,25 @@
+{
+  "title": "Mortality trends and projections in Hong Kong",
+  "abstract": "Hong Kong has experienced a steady decline in mortality during the past several decades, and Hong Kong now life expectancy are among the highest in the world. Given the very low mortality already achieved, is there much more room for further improvement in Hong Kong's mortality decline? This paper examined how age-specific mortality by sex in Hong Kong has changed over time, and applied the Lee-Carter model to mortality projections in Hong Kong for next 50 years. When using Lee-Carter model, we dealt with the possible divergence in mortality projection for males and females over time, and take a shorter projection base period to meet the assumption of the parameters describing the age pattern of mortality decline being invariant. If we compare the results with the most recent official forecasts, projections on mortality decline in this paper are more optimistic than the official forecasts.",
+  "authors": [
+    {
+      "raw": "Wang, Jianping",
+      "family": "Wang",
+      "given": "Jianping"
+    }
+  ],
+  "authors_text": "Wang, Jianping",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1080/21620555.2021.2007369",
+  "doi_url": "https://doi.org/10.1080/21620555.2021.2007369",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2021.2007369",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2021.2007369.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

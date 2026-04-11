@@ -1,0 +1,35 @@
+{
+  "title": "Comparative evidence of years lived with reproductive-age morbidity in sub-Saharan Africa (2010-2019)",
+  "abstract": "BACKGROUND Despite remarkable progress in reducing maternal mortality, maternal morbidities remain high, particularly in sub-Saharan Africa (SSA). This study estimates the life years that women of reproductive ages spend in poor health due to indirect maternal morbidities and measures how much each morbidity compromises the reproductive-age life expectancy. METHODS Demographic and Health Survey data from 23 SSA countries were used to estimate age-specific mortality prevalence in reproductive-age women and construct life tables to estimate the survival function and reproductive-age life expectancy (RALE) with and without HIV and anaemia using the Sullivan method. RESULTS HIV (4.9%) and anaemia (34.3%) prevalence is high among SSA women. These conditions compromise women's health by an average of 14.3 years (CI 95%, 14.3-14.4), approximately 42% of RALE life years. On average, SSA women spend 11.6 years (11.6- 11.7) with anaemia, 1.7 years (1.7-1.8) with HIV, and 1.1 years (1.1-1.2) with both conditions. CONCLUSIONS The morbidities that women carry with them in these ages affect not only their health status but that of their infants as well. The high burden of life years with reproductive-age morbidities among SSA women highlights that to achieve healthy lives for women and children as part of Sustainable Development Goal 3, morbidity prevention and management measures will need to be enhanced over the entire reproductive-age span. CONTRIBUTION This study provides comparative evidence of the excess disease burden on the healthy lives of SSA women due to reproductive-age morbidities and quantifies the average number of years SSA women live with reproductive-age morbidities.",
+  "authors": [
+    {
+      "raw": "Kalindi, Audrey",
+      "family": "Kalindi",
+      "given": "Audrey"
+    },
+    {
+      "raw": "Houle, Brian",
+      "family": "Houle",
+      "given": "Brian"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Kalindi, Audrey; Houle, Brian; Canudas-Romo, Vladimir",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.6",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

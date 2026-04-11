@@ -1,0 +1,35 @@
+{
+  "title": "Do parents suffer too? Children's unemployment and their parents' mental health in 12 European countries",
+  "abstract": "Unemployment is not only a significant risk for the mental health of those affected but also to their interlinked family members, such as their parents. Recent studies have shown a negative association between children's unemployment and their parents' mental health, drawing on mechanisms based on linked lives and stress processing within the intergenerational family. However, the role of the broader economic context for this association, particularly regarding prevailing family support cultures, remains less understood. Therefore, our study aims to investigate the association between children's unemployment and their parents' mental health in 12 European countries with varying (de)familism regimes before, during, and after the Great Recession of 2008. Using longitudinal panel data from the Survey of Health, Ageing, and Retirement in Europe (SHARE), we analysed 14,954 parents and their 26,382 children over 5 SHARE waves from 2004 to 2015 (N = 92,667) applying pooled longitudinal and fixed-effects linear probability regression. We found significant mental health declines in mothers with their children's unemployment, which was, however, not generally moderated by the economic context. The associations varied across European regions and (de)familism regimes, particularly for mothers in Southern Europe when accounting for individual confounding. Our study provides novel and robust evidence for intergenerational mental health effects of family economic stress, especially in more familistic regime contexts.",
+  "authors": [
+    {
+      "raw": "Bister, Lara",
+      "family": "Bister",
+      "given": "Lara"
+    },
+    {
+      "raw": "Janssen, Fanny",
+      "family": "Janssen",
+      "given": "Fanny"
+    },
+    {
+      "raw": "Vogt, Tobias",
+      "family": "Vogt",
+      "given": "Tobias"
+    }
+  ],
+  "authors_text": "Bister, Lara; Janssen, Fanny; Vogt, Tobias",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf018",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

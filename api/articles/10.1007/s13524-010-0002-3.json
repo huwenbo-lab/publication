@@ -1,0 +1,35 @@
+{
+  "title": "The Effects of Children’s Migration on Elderly Kin’s Health: A Counterfactual Approach",
+  "abstract": "AbstractRecent studies of migration and the left-behind have found that elders with migrant children actually experience better health outcomes than those with no migrant children, yet these studies raise many concerns about self-selection. Using three rounds of panel survey data from the Indonesian Family Life Survey, we employ the counterfactual framework developed by Rosenbaum and Rubin to examine the relationship between having a migrant child and the health of elders aged 50 and older, as measured by activities of daily living (ADL), self-rated health (SRH), and mortality. As in earlier studies, we find a positive association between old-age health and children’s migration, an effect that is partly explained by an individual’s propensity to have migrant children. Positive impacts of migration are much greater among elders with a high propensity to have migrant children than among those with low propensity. We note that migration is one of the single greatest sources of health disparity among the elders in our study population, and point to the need for research and policy aimed at broadening the benefits of migration to better improve health systems rather than individual health.",
+  "authors": [
+    {
+      "raw": "Kuhn, Randall",
+      "family": "Kuhn",
+      "given": "Randall"
+    },
+    {
+      "raw": "Everett, Bethany",
+      "family": "Everett",
+      "given": "Bethany"
+    },
+    {
+      "raw": "Silvey, Rachel",
+      "family": "Silvey",
+      "given": "Rachel"
+    }
+  ],
+  "authors_text": "Kuhn, Randall; Everett, Bethany; Silvey, Rachel",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-010-0002-3",
+  "doi_url": "https://doi.org/10.1007/s13524-010-0002-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-010-0002-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-010-0002-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

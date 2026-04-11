@@ -1,0 +1,35 @@
+{
+  "title": "Race, disadvantage, and violence: A spatial exploration of macrolevel covariates of police-involved homicides within and between US counties",
+  "abstract": "Efforts to explore the macrolevel determinants of police-involved homicides have expanded in recent years due in part to increased scrutiny and media attention to such events, and increased data availability of these events through crowdsourced databases. However, little empirical research has examined the spatial determinants of such events. The present study extends the extant macrolevel research on police-involved homicides by employing an underutilized spatial econometric model, the spatial Durbin model (SDM), to assess the direct and indirect county effects of racial threat, economic threat, social disorganization, and community violence on police killings within and between US counties from 2013 through 2020. Results indicate a direct inverse relationship between racial threat and police-involved homicides, no support for economic threat, and a direct positive association with two measures of social disorganization. Additionally, we find firearm availability exhibits significant direct and indirect spatial dependence on focal county police-involved homicides, reflecting spatial spillover processes. In essence, as firearm availability in neighboring counties increases, police-involved homicides within a focal county increase. The implications of these findings for racial threat, economic threat, social disorganization, and community violence are discussed.",
+  "authors": [
+    {
+      "raw": "Maksuta, Kyle D.",
+      "family": "Maksuta",
+      "given": "Kyle D."
+    },
+    {
+      "raw": "Zhao, Yunhan",
+      "family": "Zhao",
+      "given": "Yunhan"
+    },
+    {
+      "raw": "Yang, Tse-Chuan",
+      "family": "Yang",
+      "given": "Tse-Chuan"
+    }
+  ],
+  "authors_text": "Maksuta, Kyle D.; Zhao, Yunhan; Yang, Tse-Chuan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.102985",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.102985",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.102985",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.102985.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

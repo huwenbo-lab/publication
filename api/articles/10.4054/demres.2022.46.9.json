@@ -1,0 +1,35 @@
+{
+  "title": "Assessing the demographic impact of migration on the working-age population across European territories",
+  "abstract": "BACKGROUND Ageing is central in the European Union (EU) policy debate, with all member states being concerned about implications of growing shares of older people and declining shares of working-age populations for the sustainability of welfare and health systems. Beyond this general context, ageing patterns differ largely across EU territories because of distinctive demographic and spatial dynamics. OBJECTIVE We study the relative contribution of cohort turnover and migration flows in shaping the demographic evolution of the working-age population at the local level. METHODS Using Eurostat data, we decompose the changes that have occurred in the working-age population into cohort turnover and net migration effects for the 2015-2019 period, at territorial (NUTS3 and urban-intermediate-rural) levels. RESULTS The majority (63%) of European (NUTS3) territories experienced negative cohort turnover effects alongside positive net migration effects during the 2015-2019 period. However, in only 27% of these territories, net migration counterbalanced the deficit in the working-age population due to cohort turnover. CONCLUSIONS In 2015-2019, migration was the underlying force in the evolution of the working-age population, partially compensating for the loss of population due to the cohort turnover. This effect was particularly pronounced in urban areas. CONTRIBUTION Our contribution is twofold. First, we map EU NUTS3 territories where the working-age population is declining rapidly. Second, we give an assessment of the varied role of migration in mitigating the effect of ageing and shrinking working-age populations across EU urban, intermediate, and rural areas.",
+  "authors": [
+    {
+      "raw": "Ghio, Daniela",
+      "family": "Ghio",
+      "given": "Daniela"
+    },
+    {
+      "raw": "Goujon, Anne",
+      "family": "Goujon",
+      "given": "Anne"
+    },
+    {
+      "raw": "Natale, Fabrizio",
+      "family": "Natale",
+      "given": "Fabrizio"
+    }
+  ],
+  "authors_text": "Ghio, Daniela; Goujon, Anne; Natale, Fabrizio",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.9",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

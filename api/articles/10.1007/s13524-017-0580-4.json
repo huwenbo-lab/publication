@@ -1,0 +1,35 @@
+{
+  "title": "Job Displacement and First Birth Over the Business Cycle",
+  "abstract": "In this article, we investigate the impact of job displacement on women's first-birth rates as well as the variation in this effect over the business cycle. We use mass layoffs to estimate the causal effects of involuntary job loss on fertility in the short and medium term, up to five years after displacement. Our analysis is based on rich administrative data from Germany, with an observation period spanning more than 20 years. We apply inverse probability weighting (IPW) to flexibly control for the observed differences between women who were and were not displaced. To account for the differences in the composition of the women who were displaced in a downturn and the women who were displaced in an upswing, we use a double weighting estimator. Results show that the extent to which job displacement has adverse effects on fertility depends on the business cycle. The first-birth rates were much lower for women who were displaced in an economic downturn than for those who lost a job in an economic upturn. This result cannot be explained by changes in the observed characteristics of the displaced women over the business cycle.",
+  "authors": [
+    {
+      "raw": "Hofmann, Barbara",
+      "family": "Hofmann",
+      "given": "Barbara"
+    },
+    {
+      "raw": "Kreyenfeld, Michaela",
+      "family": "Kreyenfeld",
+      "given": "Michaela"
+    },
+    {
+      "raw": "Uhlendorff, Arne",
+      "family": "Uhlendorff",
+      "given": "Arne"
+    }
+  ],
+  "authors_text": "Hofmann, Barbara; Kreyenfeld, Michaela; Uhlendorff, Arne",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0580-4",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0580-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0580-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0580-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Increasing Educational Inequality in Biological Aging Among US Adults Aged 50-79 From 1988-1994 to 2015-2018",
+  "abstract": "Educational inequality in health has been increasing in the United States. The growth in health inequality has not been limited to specific conditions but has been observed across a wide range of outcomes, including disability, multimorbidity, self-rated health, and mortality. This study used data for adults aged 50-79 from the National Health and Nutrition Examination Survey to assess changes in biological aging across education groups over a 25-year period. We found that while biologi-cal aging slowed for each education group, educational inequality increased owing to greater improvements among those with the highest education levels. Specifically, biological age differences between adults with 0-11 years of schooling and adults with 16+ years of schooling grew from one year in 1988-1994 to almost two years in 2015-2018. Growing inequality in biological aging was not attenuated by changes in smoking, obesity, or medication use. Overall, these results point to an increasing difference in physiological dysregulation by education among U.S. older adults, which might remain a source of greater and growing inequality in morbidity, disability, and mortality in the near future.",
+  "authors": [
+    {
+      "raw": "Farina, Mateo P.",
+      "family": "Farina",
+      "given": "Mateo P."
+    },
+    {
+      "raw": "Kim, Jung Ki",
+      "family": "Kim",
+      "given": "Jung Ki"
+    },
+    {
+      "raw": "Crimmins, Eileen M.",
+      "family": "Crimmins",
+      "given": "Eileen M."
+    }
+  ],
+  "authors_text": "Farina, Mateo P.; Kim, Jung Ki; Crimmins, Eileen M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-12175545",
+  "doi_url": "https://doi.org/10.1215/00703370-12175545",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12175545",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12175545.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

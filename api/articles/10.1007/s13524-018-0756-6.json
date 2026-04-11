@@ -1,0 +1,45 @@
+{
+  "title": "New Evidence of Skin Color Bias and Health Outcomes Using Sibling Difference Models: A Research Note",
+  "abstract": "In this research note, we use data from the National Longitudinal Study of Adolescent to Adult Health (Add Health) to determine whether darker skin tone predicts hypertension among siblings using a family fixed-effects analytic strategy. We find that even after we account for common family background and home environment, body mass index, age, sex, and outdoor activity, darker skin color significantly predicts hypertension incidence among siblings. In a supplementary analysis using newly released genetic data from Add Health, we find no evidence that our results are biased by genetic pleiotropy, whereby differences in alleles among siblings relate to coloration and directly to cardiovascular health simultaneously. These results add to the extant evidence on color biases that are distinct from those based on race alone and that will likely only heighten in importance in an increasingly multiracial environment as categorization becomes more complex.",
+  "authors": [
+    {
+      "raw": "Laidley, Thomas",
+      "family": "Laidley",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Domingue, Benjamin",
+      "family": "Domingue",
+      "given": "Benjamin"
+    },
+    {
+      "raw": "Sinsub, Piyapat",
+      "family": "Sinsub",
+      "given": "Piyapat"
+    },
+    {
+      "raw": "Harris, Kathleen Mullan",
+      "family": "Harris",
+      "given": "Kathleen Mullan"
+    },
+    {
+      "raw": "Conley, Dalton",
+      "family": "Conley",
+      "given": "Dalton"
+    }
+  ],
+  "authors_text": "Laidley, Thomas; Domingue, Benjamin; Sinsub, Piyapat; Harris, Kathleen Mullan; Conley, Dalton",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-018-0756-6",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0756-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0756-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0756-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

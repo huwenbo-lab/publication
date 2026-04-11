@@ -1,0 +1,25 @@
+{
+  "title": "A New Approach to Understanding Population Change in Central and Eastern Europe",
+  "abstract": "This study introduces a novel approach to decomposing population change by identifying the separate contributions of fertility, mortality, net migration, and initial age structure using a stationary population model. The strength of this scenario-based decomposition method lies in the additivity of the results: the contributions of these factors, along with the interaction effect, sum to equal the total population change. In addition, identifying the direct impact of initial age structure on population change offers new insights into the drivers of population dynamics. Central and Eastern Europe (CEE) was one of the regions hit most by population decline between 1990 and 2020; however, it was marked by significant variation across countries. By decomposing population change, we found that the positive impact of the relatively young initial age structure in the CEE region was as large as the population-reducing effect of negative net migration, while the positive impact of mortality improvement offset one-third of the population-reducing effect of low fertility. On the other hand, the initial age structure had a crucial role in explaining differences in country-level population change during the study period.",
+  "authors": [
+    {
+      "raw": "Toth, Csaba G.",
+      "family": "Toth",
+      "given": "Csaba G."
+    }
+  ],
+  "authors_text": "Toth, Csaba G.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70029",
+  "doi_url": "https://doi.org/10.1111/padr.70029",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70029",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70029.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Influences on Pregnancy-Termination Decisions in Matlab, Bangladesh",
+  "abstract": "Abstract We investigate factors affecting women’s decisions to terminate pregnancies in Matlab, Bangladesh, using logistic regression on high-quality data from the Demographic Surveillance System on more than 215,000 pregnancies that occurred between 1978 and 2008. Variables associated with the desire not to have another birth soon (very young and older maternal age, a greater number of living children, the recent birth of twins or of a son, a short interval since a recent live birth) are associated with a greater likelihood of pregnancy termination, and the effects of many of these explanatory variables are stronger in more recent years. Women are less likely to terminate a pregnancy if they don’t have any living sons or recently experienced a miscarriage, a stillbirth, or the death of a child. The higher the woman’s level of education, the more likely she is to terminate a pregnancy. Between 1982 and the mid-2000s, pregnancy termination was significantly less likely in the area of Matlab with better family planning services.",
+  "authors": [
+    {
+      "raw": "DaVanzo, Julie",
+      "family": "DaVanzo",
+      "given": "Julie"
+    },
+    {
+      "raw": "Rahman, Mizanur",
+      "family": "Rahman",
+      "given": "Mizanur"
+    },
+    {
+      "raw": "Ahmed, Shahabuddin",
+      "family": "Ahmed",
+      "given": "Shahabuddin"
+    },
+    {
+      "raw": "Razzaque, Abdur",
+      "family": "Razzaque",
+      "given": "Abdur"
+    }
+  ],
+  "authors_text": "DaVanzo, Julie; Rahman, Mizanur; Ahmed, Shahabuddin; Razzaque, Abdur",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0202-8",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0202-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0202-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0202-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

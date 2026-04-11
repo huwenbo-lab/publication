@@ -1,0 +1,35 @@
+{
+  "title": "How Norms Can Generate Conflict: An Experiment on the Failure of Cooperative Micro-motives on the Macro-level",
+  "abstract": "Why does the adherence to norms not prevent conflict? While the current literature focuses on the emergence, maintenance and impact of norms with regard to cooperation, the issue of norm-related conflict deserves more attention. We develop a general game theoretical model of “normative conflict” and explain how transaction failures on the macrolevel can result from cooperative motives on the microlevel. We differentiate between two kinds of conflict. The first results from distinct expectations regarding the way in which general normative obligations should be fulfilled, the second from distinct expectations as to how the norm should restrain actions based on self-interest. We demonstrate the empirical relevance of normative conflict in a version of the ultimatum game. Our data reveal widespread normative conflict among different types of actors – egoistic, equity, equality and cherry picker. Our findings demonstrate how cooperative intentions about how to divide a collectively produced good may fail to produce cooperative outcomes.",
+  "authors": [
+    {
+      "raw": "Winter, F.",
+      "family": "Winter",
+      "given": "F."
+    },
+    {
+      "raw": "Rauhut, H.",
+      "family": "Rauhut",
+      "given": "H."
+    },
+    {
+      "raw": "Helbing, D.",
+      "family": "Helbing",
+      "given": "D."
+    }
+  ],
+  "authors_text": "Winter, F.; Rauhut, H.; Helbing, D.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2012,
+  "doi": "10.1093/sf/sor028",
+  "doi_url": "https://doi.org/10.1093/sf/sor028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsor028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sor028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

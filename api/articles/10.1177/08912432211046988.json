@@ -1,0 +1,40 @@
+{
+  "title": "How do Gender Norms and Childcare Costs Affect Maternal Employment Across US States?",
+  "abstract": "In this article, we investigate how state-to-state differences in U.S. childcare costs and gender norms are associated with maternal employment. Although an abundance of research has examined factors that influence mothers’ employment, few studies explore the interrelationship between maternal employment and culture, policy, and individual resources across U.S. states. Using a representative sample of women in the 2017 American Community Survey along with state-level measures of childcare costs and gender norms, we examine the relationship between these state conditions and mothers’ probability of employment. We pay careful attention to differences in mothers’ level of education. Our results suggest that expensive childcare is associated with lower maternal employment, particularly for those with less education. For the college educated, expensive childcare is negatively associated with maternal employment in states with traditional gender norms that uphold mothers as primary caregivers. Among mothers with lower levels of education, gender norms have a limited association with employment. These findings suggest that highly educated mothers mobilize resources to remain in the labor force when paid work is supported by local gender norms. For less-educated mothers, expensive childcare predicts lower employment regardless of gender norms, indicating that structural constraints outweigh normative expectations among those with fewer resources.",
+  "authors": [
+    {
+      "raw": "Ruppanner, Leah",
+      "family": "Ruppanner",
+      "given": "Leah"
+    },
+    {
+      "raw": "Collins, Caitlyn",
+      "family": "Collins",
+      "given": "Caitlyn"
+    },
+    {
+      "raw": "Landivar, Liana Christin",
+      "family": "Landivar",
+      "given": "Liana Christin"
+    },
+    {
+      "raw": "Scarborough, William J.",
+      "family": "Scarborough",
+      "given": "William J."
+    }
+  ],
+  "authors_text": "Ruppanner, Leah; Collins, Caitlyn; Landivar, Liana Christin; Scarborough, William J.",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2021,
+  "doi": "10.1177/08912432211046988",
+  "doi_url": "https://doi.org/10.1177/08912432211046988",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432211046988",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432211046988.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

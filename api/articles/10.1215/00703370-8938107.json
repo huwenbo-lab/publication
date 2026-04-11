@@ -1,0 +1,35 @@
+{
+  "title": "Leaders and Laggards in Life Expectancy Among European Scholars From the Sixteenth to the Early Twentieth Century",
+  "abstract": "When did mortality first start to decline, and among whom? We build a large, new data set with more than 30,000 scholars covering the sixteenth to the early twentieth century to analyze the timing of the mortality decline and the heterogeneity in life expectancy gains among scholars in the Holy Roman Empire. The large sample size, well-defined entry into the risk group, and heterogeneity in social status are among the key advantages of the new database. After recovering from a severe mortality crisis in the seventeenth century, life expectancy among scholars started to increase as early as in the eighteenth century, well before the Industrial Revolution. Our finding that members of scientific academies-an elite group among scholars-were the first to experience mortality improvements suggests that 300 years ago, individuals with higher social status already enjoyed lower mortality. We also show, however, that the onset of mortality improvements among scholars in medicine was delayed, possibly because these scholars were exposed to pathogens and did not have germ theory knowledge that might have protected them. The disadvantage among medical professionals decreased toward the end of the nineteenth century. Our results provide a new perspective on the historical timing of mortality improvements, and the database accompanying our study facilitates replication and extensions.",
+  "authors": [
+    {
+      "raw": "Stelter, Robert",
+      "family": "Stelter",
+      "given": "Robert"
+    },
+    {
+      "raw": "de la Croix, David",
+      "family": "de la Croix",
+      "given": "David"
+    },
+    {
+      "raw": "Myrskyla, Mikko",
+      "family": "Myrskyla",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Stelter, Robert; de la Croix, David; Myrskyla, Mikko",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8938107",
+  "doi_url": "https://doi.org/10.1215/00703370-8938107",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8938107",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8938107.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Unequal Returns to Housing Investments? A Study of Real Housing Appreciation among Black, White, and Hispanic Households",
+  "abstract": "This article assesses whether housing in predominantly minority and integrated neighborhoods appreciates more slowly than comparable housing in predominantly white communities, and if so, the extent to which inequality is due to neighborhood racial composition per se rather than nonracial socioeconomic and housing structure factors. I take a dynamic approach to the issue of housing appreciation, considering both racial, ethnic, and poverty composition at purchase and change in those characteristics over time. I examine differences in real housing appreciation across black, white, and Hispanic households by applying a hedonic price analysis to data from the Health and Retirement Study, combined with data from the 1970, 1980, and 1990 Census. While much of neighborhood appreciation inequality is explained by nonracial (particularly socioeconomic) factors, minority composition continues to exert a significant effect on appreciation even net of these considerations, particularly in highly segregated communities and those that experience large increases in black representation. Unequal housing appreciation has a large negative impact on the overall wealth holdings of mature minority households, and has important implications for racial and ethnic stratification.",
+  "authors": [
+    {
+      "raw": "Flippen, C.",
+      "family": "Flippen",
+      "given": "C."
+    }
+  ],
+  "authors_text": "Flippen, C.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2004,
+  "doi": "10.1353/sof.2004.0069",
+  "doi_url": "https://doi.org/10.1353/sof.2004.0069",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2004.0069",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2004.0069.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

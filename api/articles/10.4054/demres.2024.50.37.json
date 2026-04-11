@@ -1,0 +1,35 @@
+{
+  "title": "The effect of migration and time spent abroad on migrants' health: A home/host country perspective",
+  "abstract": "BACKGROUND It is widely recognized that migrants are generally healthy upon arrival, but for several reasons, a longer length of stay abroad can have detrimental effects on health. Empirical evidence suggests the use of different comparison groups (natives in the destination country; co-nationals in the origin country) to analyse migrants' health, depending on research aims and data availability. OBJECTIVE Using data from two nationally representative surveys, the Italian survey Social Condition and Integration of Foreign Citizens (2011-2012) and the Albanian Living Standard Measurement Survey (2012), this study aims to (1) analyse health differences between migrants abroad and non-migrants in their origin countries, focusing on the Albania-Italy migration corridor; and (2) assess health differences among Albanian migrants living in Italy according to their length of stay. METHODS We apply propensity score matching analysis to compare health outcomes between the two groups and use logistic regression models to investigate the effect of the length of stay in Italy on migrants' health. RESULTS Our findings show that migrants exhibit poorer health compared to their co-nationals in the origin country and, in line with previous studies, that longer residence in Italy is associated with health deterioration. CONTRIBUTION This study is the first in Italy to contribute to a more comprehensive understanding of the relationship between migration and health. It does so by adopting a comparative home/host country perspective.",
+  "authors": [
+    {
+      "raw": "di Belgiojoso, Elisa Barbiano",
+      "family": "di Belgiojoso",
+      "given": "Elisa Barbiano"
+    },
+    {
+      "raw": "Cela, Eralba",
+      "family": "Cela",
+      "given": "Eralba"
+    },
+    {
+      "raw": "Trappolini, Eleonora",
+      "family": "Trappolini",
+      "given": "Eleonora"
+    }
+  ],
+  "authors_text": "di Belgiojoso, Elisa Barbiano; Cela, Eralba; Trappolini, Eleonora",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.37",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.37",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.37",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.37.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "The Significance of Education for Mortality Compression in the United States",
+  "abstract": "AbstractRecent studies of old-age mortality trends assess whether longevity improvements over time are linked to increasing compression of mortality at advanced ages. The historical backdrop of these studies is the long-term improvement in a population’s socioeconomic resources that fueled longevity gains. We extend this line of inquiry by examining whether socioeconomic differences in longevity within a population are accompanied by old-age mortality compression. Specifically, we document educational differences in longevity and mortality compression for older men and women in the United States. Drawing on the fundamental cause of disease framework, we hypothesize that both longevity and compression increase with higher levels of education and that women with the highest levels of education will exhibit the greatest degree of longevity and compression. Results based on the Health and Retirement Study and the National Health Interview Survey Linked Mortality File confirm a strong educational gradient in both longevity and mortality compression. We also find that mortality is more compressed within educational groups among women than men. The results suggest that educational attainment in the United States maximizes life chances by delaying the biological aging process.",
+  "authors": [
+    {
+      "raw": "Brown, Dustin C.",
+      "family": "Brown",
+      "given": "Dustin C."
+    },
+    {
+      "raw": "Hayward, Mark D.",
+      "family": "Hayward",
+      "given": "Mark D."
+    },
+    {
+      "raw": "Montez, Jennifer Karas",
+      "family": "Montez",
+      "given": "Jennifer Karas"
+    },
+    {
+      "raw": "Hummer, Robert A.",
+      "family": "Hummer",
+      "given": "Robert A."
+    },
+    {
+      "raw": "Chiu, Chi-Tsun",
+      "family": "Chiu",
+      "given": "Chi-Tsun"
+    },
+    {
+      "raw": "Hidajat, Mira M.",
+      "family": "Hidajat",
+      "given": "Mira M."
+    }
+  ],
+  "authors_text": "Brown, Dustin C.; Hayward, Mark D.; Montez, Jennifer Karas; Hummer, Robert A.; Chiu, Chi-Tsun; Hidajat, Mira M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0104-1",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0104-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0104-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0104-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

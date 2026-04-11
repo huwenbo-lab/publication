@@ -1,0 +1,30 @@
+{
+  "title": "Cohabitation History, Marriage, and Wealth Accumulation",
+  "abstract": "Abstract This study extends research on the relationship between wealth accumulation and union experiences, such as marriage and cohabitation. Using data from the National Longitudinal Survey of Youth 1979, we explore the wealth trajectories of married individuals in light of their premarital cohabitation histories. Over time, marriage positively correlates with wealth accumulation. Most married persons with a premarital cohabitation history have wealth trajectories that are indistinguishable from those without cohabitation experience, with one exception: individuals who marry their one and only cohabiting partner experience a wealth premium that is twice as large as that for married individuals who never cohabited prior to marrying. Results remain robust over time despite cohabiters’ selection out of marriage, yet vary by race/ethnicity. We conclude that relationship history may shape long-term wealth accumulation, and contrary to existing literature, individuals who marry their only cohabiting partners experience a beneficial marital outcome. It is therefore important to understand the diversity of cohabitation experiences among the married.",
+  "authors": [
+    {
+      "raw": "Vespa, Jonathan",
+      "family": "Vespa",
+      "given": "Jonathan"
+    },
+    {
+      "raw": "Painter, Matthew A.",
+      "family": "Painter",
+      "given": "Matthew A."
+    }
+  ],
+  "authors_text": "Vespa, Jonathan; Painter, Matthew A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0043-2",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0043-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0043-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0043-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

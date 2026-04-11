@@ -1,0 +1,35 @@
+{
+  "title": "Class and Political Preferences in Europe: A Multilevel Analysis of Trends Over Time",
+  "abstract": "This article analyzes trends over time in the relationship between social class and political preferences in EU countries. Multilevel models and logistic regression techniques are employed to examine Eurobarometer data for thirteen nations between 1976 and 2003. In the comparative research addressing the issue of long-term changes in class politics, class voting is the most common indicator. Instead of focussing on electoral behaviour, we analyze data on respondent's self-placement on a left-right scale. We argue that this indicator presents some relevant advantages when large-scale comparisons across time and space are involved. Our results point to a prevailing stability over time of the association between class position and political preferences.",
+  "authors": [
+    {
+      "raw": "Barone, C.",
+      "family": "Barone",
+      "given": "C."
+    },
+    {
+      "raw": "Lucchini, M.",
+      "family": "Lucchini",
+      "given": "M."
+    },
+    {
+      "raw": "Sarti, S.",
+      "family": "Sarti",
+      "given": "S."
+    }
+  ],
+  "authors_text": "Barone, C.; Lucchini, M.; Sarti, S.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2007,
+  "doi": "10.1093/esr/jcm009",
+  "doi_url": "https://doi.org/10.1093/esr/jcm009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcm009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcm009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

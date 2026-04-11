@@ -1,0 +1,30 @@
+{
+  "title": "Trends in realized job insecurity rate and depth in the United States from 1978 to 2022",
+  "abstract": "Scholars have argued that the past four decades have undergone a fundamental change to the nature of economic security in the American labor market. However, the literature is surprisingly unsettled on the basic nature of historical trends of economic insecurity. This study expands on past work by developing novel measures of realized job insecurity using the monthly longitudinal data from the Current Population Survey from 1978 to 2022. We differentiate between an individual's insecurity rate, or a change in labor market status, and insecurity depth, the frequency of changes in employment status. Using regression, counterfactual, and decomposition techniques allows us to disentangle the complex historical changes in the labor market by showing how our measures change in contrasting ways. Our results show women's high levels of insecurity rate decline through 1990s and remain largely stable through the late 2010s. Men, in contrast, experienced a slow and volatile increase in rate through the early 2010s with a decline following the Great Recession. Both women and men experienced increased depth in the late 1980s and decreased in the 2010s before a rapid rise preceding the COVID pandemic. Changes occur through rising educational attainment, population aging, and changing risks to vulnerable and marginalized populations. Our results provide a critical long-run empirical foundation for modern economic insecurity trends showing decreasing insecurity rate, but increasing severity for the insecure.",
+  "authors": [
+    {
+      "raw": "Himmelstern, Jessie",
+      "family": "Himmelstern",
+      "given": "Jessie"
+    },
+    {
+      "raw": "Vanheuvelen, Tom",
+      "family": "Vanheuvelen",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "Himmelstern, Jessie; Vanheuvelen, Tom",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf200",
+  "doi_url": "https://doi.org/10.1093/sf/soaf200",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf200",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf200.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

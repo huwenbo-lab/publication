@@ -1,0 +1,35 @@
+{
+  "title": "Proximate sources of growth in neighborhood income segregation: Class-selective migration versus in sita change",
+  "abstract": "The growth in residential segregation by income implies an increase over time in the neighbor-hood income gap between rich and poor households. This analysis uses data from the Panel Study of Income Dynamics, in concert with tract-level decennial U.S. census data, to quantify the relative contribution of two proximate sources of this increase: change in the income-class-selectivity of inter-neighborhood migrants and change in the class difference in neighborhood income among non-migrants, or in sita change. Change in the income-class-selectivity of migrants is likely to be particularly important for explaining the increase in the neighborhood income gap among blacks to the extent that declining housing discrimination enables middle-class blacks to access higher-income neighborhoods. Decomposition of the change between 1980 and 1990 in the class difference in neighborhood income shows that, among blacks, the increase in the neighborhood income gap between rich and poor persons is attributable in large measure to a change in migrant selectivity. An increase in the class difference in average income among the destination neighborhoods of short-distance migrants is a particularly important source of the growth in the class difference in neighborhood income among blacks. In contrast, among whites, the bulk of the increase in the class difference in neighborhood income is attributable to a divergence in neighborhood income between rich and poor non-migrants.",
+  "authors": [
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    },
+    {
+      "raw": "Huang, Ying",
+      "family": "Huang",
+      "given": "Ying"
+    },
+    {
+      "raw": "Spring, Amy",
+      "family": "Spring",
+      "given": "Amy"
+    }
+  ],
+  "authors_text": "South, Scott J.; Huang, Ying; Spring, Amy",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102624",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102624",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102624",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102624.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

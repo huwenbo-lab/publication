@@ -1,0 +1,25 @@
+{
+  "title": "Decomposition analysis of disparities in infant mortality rates across 27 US states",
+  "abstract": "BACKGROUND Infant mortality rates (IMRs) vary dramatically across US states. A potential explanation centers on compositional differences in births from sociodemographic groups with a high risk of infant mortality. OBJECTIVE I seek to identify the contribution of key compositional factors to state-level disparities in IMRs using a series of Kitagawa-Blinder-Oaxaca decompositions. METHODS Drawing on linked birth-death records for US infants born between 2015 and 2017, I decompose cross-state disparities in IMRs into two components: (1) disparities attributable to differences in the distribution of maternal education, race/ethnicity, and age; and (2) disparities attributable to differences in the association between these sociodemographic characteristics and infant mortality (plus unmeasured compositional differences). I apply this approach to analyze disparities between the US IMR and 27 state IMRs. I then decompose IMR gaps between 630 pairs of states. I use linear regression to explore state-level predictors of variation in the second decomposition component. RESULTS In 7 of the 18 sample states with IMRs higher than the rest of the United States, led by Louisiana, South Carolina, and Georgia, more than 50% of this disparity can be attributed to the proportion of births from high-risk sociodemographic groups. In 11 high-IMR states, including Oklahoma, Indiana, and Missouri, more than 50% of the disparity is unexplained by the distribution of observed sociodemographic characteristics. The sample also includes nine states with IMRs lower than the rest of the United States. In Colorado, Oregon, and Minnesota, more than 50% of this advantage can be attributed to sociodemographic composition. Conversely, in six states, including New York, New Jersey, and California, the contribution of sociodemographic factors is outweighed by the unexplained decomposition component. Regression analyses show that variation in this component is associated with state differences in contextual predictors.",
+  "authors": [
+    {
+      "raw": "Sosnaud, Benjamin",
+      "family": "Sosnaud",
+      "given": "Benjamin"
+    }
+  ],
+  "authors_text": "Sosnaud, Benjamin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.40",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.40",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.40",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.40.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

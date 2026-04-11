@@ -1,0 +1,25 @@
+{
+  "title": "How did the increase in economic inequality between 1970 and 1990 affect children's educational attainment?",
+  "abstract": "This study estimates the effect of changes in economic inequality between 1970 and 1990 on children's educational attainment. Data on individual children from the Panel Study of Income Dynamics is combined with other data on state characteristics. Growing up in a state with widespread economic inequality increases educational attainment for high-income children and lowers it for low-income children. Most of the effect is due to factors unassociated with family income or economic segregation in the state. These other factors include state spending for schooling and the increase in the returns to schooling over this period.",
+  "authors": [
+    {
+      "raw": "Mayer, SE",
+      "family": "Mayer",
+      "given": "SE"
+    }
+  ],
+  "authors_text": "Mayer, SE",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2001,
+  "doi": "10.1086/323149",
+  "doi_url": "https://doi.org/10.1086/323149",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F323149",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/323149.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

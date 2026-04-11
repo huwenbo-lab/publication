@@ -1,0 +1,45 @@
+{
+  "title": "COVID-19 Policy Interventions and Fertility Dynamics in the Context of Pre-Pandemic Welfare Support",
+  "abstract": "This paper focuses on nonpharmaceutical interventions (NPIs) to explain fertility dynamics during the pandemic, while considering countries' institutional context. We argue that containment policies disrupted people's lives and increased their uncertainty more in countries with weak welfare support systems, while health-related and economic support NPIs mitigated such disruptions much more there, as they were less expected by citizens. We estimate monthly excess crude birth rates (CBRs) and find that countries with low public support-Southern Europe, East Asia, and Eastern Europe-experienced larger decreases and less of a rebound in CBRs than countries with histories of high public spending-Western, Central, and Northern Europe. However, in low support countries, NPIs are much more strongly associated with excess CBRs-containment NPIs more negatively and health and economic support NPIs more positively-with the exception of the one-month lag of containment NPIs, for which the opposite holds. When putting these coefficients into broader perspective, our findings suggest that the actual implementation of all NPIs taken together mitigated fertility declines. This is especially the case for low public support countries, whereas one might have seen a birth decline even in high support countries if the NPIs were not implemented.",
+  "authors": [
+    {
+      "raw": "Plach, Samuel",
+      "family": "Plach",
+      "given": "Samuel"
+    },
+    {
+      "raw": "Aassve, Arnstein",
+      "family": "Aassve",
+      "given": "Arnstein"
+    },
+    {
+      "raw": "Cavalli, Nicolo",
+      "family": "Cavalli",
+      "given": "Nicolo"
+    },
+    {
+      "raw": "Mencarini, Letizia",
+      "family": "Mencarini",
+      "given": "Letizia"
+    },
+    {
+      "raw": "Sanders, Seth",
+      "family": "Sanders",
+      "given": "Seth"
+    }
+  ],
+  "authors_text": "Plach, Samuel; Aassve, Arnstein; Cavalli, Nicolo; Mencarini, Letizia; Sanders, Seth",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12557",
+  "doi_url": "https://doi.org/10.1111/padr.12557",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12557",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12557.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

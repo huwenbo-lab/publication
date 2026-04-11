@@ -1,0 +1,30 @@
+{
+  "title": "Cash-for-Care and the Cost of Parenthood: Evidence From Same-Sex and Adoptive Parents",
+  "abstract": "ObjectiveThis study evaluates the reasons behind the gendered use of cash-for-care by comparing first-time parents in female same-sex couples (SSC), adoptive parents in different-sex couples (DSC), and biological parents in DSC, alongside its association with parents' reduction in earnings after parenthood.BackgroundCash-for-care is a benefit for parents of children under the age of 3 who do not use publicly financed childcare services. It disproportionally affects women's labor force participation, potentially exacerbating earnings reductions after parenthood for women. By comparing different family types, we evaluate to what extent the use of cash-for-care can be attributed to sex differences between parents, giving birth/breastfeeding, or financial incentives.MethodsUsing Finnish register data (1996-2020), 1184 parents in female SSC, 3544 adoptive parents in DSC, and 630,346 biological parents in DSC were identified. Logistic and linear regression analyses assess the use and division of cash-for-care.ResultsCash-for-care is unequally divided in all families, but more so for adoptive and biological parents in DSC than for SSC. Moreover, using cash-for-care is associated with sizable earnings losses for all parents.ConclusionComparing different family types shows that gender norms appear to have the strongest role in shaping cash-for-care use, followed by pregnancy/childbirth, whereas financial considerations have no influence. Moreover, cash-for-care extends gendered caregiving divisions, and hence, a diminished or more equal use among parents could reduce post-parenthood earnings losses for mothers in DSC.",
+  "authors": [
+    {
+      "raw": "van der Vleuten, Maaike",
+      "family": "van der Vleuten",
+      "given": "Maaike"
+    },
+    {
+      "raw": "Moberg, Ylva",
+      "family": "Moberg",
+      "given": "Ylva"
+    }
+  ],
+  "authors_text": "van der Vleuten, Maaike; Moberg, Ylva",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70010",
+  "doi_url": "https://doi.org/10.1111/jomf.70010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

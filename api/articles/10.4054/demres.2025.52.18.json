@@ -1,0 +1,35 @@
+{
+  "title": "Uncovering the underlying causes for the narrowing, stalling, and widening Black-White mortality gap from 2000 to 2022 in the United States",
+  "abstract": "BACKGROUND The Black-White mortality gap transitioned from narrowing to stalling and eventually widening between 2000 and 2022. OBJECTIVE This study investigates the contributors to the stalling gap in the 2010s, to what extent the widening gap during the COVID-19 pandemic was a result of causes that contributed to the pre-pandemic stalling, and the variations by sex and education. METHODS We use data from the American Community Survey and CDC Multiple Cause of Death data from 2000 to 2022, and we decompose the changes in the Black-White gap of years of life lost (YLL) over time by sex and education. RESULTS Between 2000 and 2014, the YLL gap narrowed, particularly among individuals without a bachelor's degree (BA). This narrowing was primarily due to faster declines in HIV-, circulatory disease-, and cancer-related mortality among Blacks, coupled with increases in drug-related deaths among Whites. However, after 2015, change in the racial gap stagnated. This was partially attributed to increasing deaths related to drugs, homicide, and unintentional injuries (DHI) among Blacks, particularly affecting men under age 55 without a BA. The COVID-19 pandemic further exacerbated the Black- White YLL gap. DHI-related deaths resumed their upward trend, constituting 70% of the widening gap among men without a BA. Additionally, circulatory disease-related deaths emerged as a new contributor, despite their previous role in narrowing the gap before 2015. CONTRIBUTION We identify the underlying causes of death that have contributed to the stalling and subsequent widening of the Black-White mortality gap since 2015, along with their variations by sex and education level.",
+  "authors": [
+    {
+      "raw": "Zheng, Hui",
+      "family": "Zheng",
+      "given": "Hui"
+    },
+    {
+      "raw": "Choi, Yoonyoung",
+      "family": "Choi",
+      "given": "Yoonyoung"
+    },
+    {
+      "raw": "Kim, Taehyun Ethan",
+      "family": "Kim",
+      "given": "Taehyun Ethan"
+    }
+  ],
+  "authors_text": "Zheng, Hui; Choi, Yoonyoung; Kim, Taehyun Ethan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.18",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

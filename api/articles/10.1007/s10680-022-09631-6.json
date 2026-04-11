@@ -1,0 +1,35 @@
+{
+  "title": "Pension Wealth and the Gender Wealth Gap",
+  "abstract": "AbstractWe examine the gender wealth gap with a focus on pension wealth and statutory pension rights. By taking into account employment characteristics of women and men, we are able to identify the extent to which the redistributive effect of pension rights reduces the gender wealth gap. The data for our analysis come from the German Socio-Economic Panel (SOEP), one of the few surveys that collects information on wealth and pension entitlements at the individual level. Pension wealth data are available in the SOEP for 2012 only. While the relative raw gender wealth gap is about 35% (or 31,000 euros) when analysing the standard measure of net worth, it shrinks to 28% when pension wealth is added. This reduction is due to redistributive elements such as caregiver credits provided through the statutory pension scheme. Results of a recentred influence functions (RIF) decomposition show that pension wealth reduces the gap substantially in the lower half of the distribution. At the 90th percentile, the gender wealth gap in net worth and in augmented wealth remains more stable at roughly 27–30%.",
+  "authors": [
+    {
+      "raw": "Cordova, Karla",
+      "family": "Cordova",
+      "given": "Karla"
+    },
+    {
+      "raw": "Grabka, Markus M.",
+      "family": "Grabka",
+      "given": "Markus M."
+    },
+    {
+      "raw": "Sierminska, Eva",
+      "family": "Sierminska",
+      "given": "Eva"
+    }
+  ],
+  "authors_text": "Cordova, Karla; Grabka, Markus M.; Sierminska, Eva",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09631-6",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09631-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09631-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09631-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

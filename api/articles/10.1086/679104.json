@@ -1,0 +1,35 @@
+{
+  "title": "Sources of Sibling (Dis)similarity: Total Family Impact on Status Variation in the Netherlands in the Nineteenth Century",
+  "abstract": "The authors describe and explain variation in the occupational status resemblance of brothers in the Netherlands during modernization. They test opposing hypotheses about how modernization processes influenced fraternal resemblance through the value and inequality of family resources based on a job competition model in combination with modernization theory, status maintenance theory, and dualism theory. The authors use the high-quality, large-scale database GENLIAS, yielding digitized information for approximately 450,000 linked Dutch marriage certificates from 250,000 families, complemented with historical indicators of six modernization processes for over 2,500 communities. Using multilevel meta-regression models, they find that brother correlations in status decreased slowly from about 1860 onward. Although this exactly parallels the period of modernization, the authors find that modernization processes were not responsible (except possibly urbanization and mass transportation). In fact, in line with dualism theory, fraternal resemblance increased with most processes (i.e., industrialization, educational expansion, in-migration, and mass communication) because they amplified inequality.",
+  "authors": [
+    {
+      "raw": "Knigge, Antonie",
+      "family": "Knigge",
+      "given": "Antonie"
+    },
+    {
+      "raw": "van Leeuwen, Marco H. D.",
+      "family": "van Leeuwen",
+      "given": "Marco H. D."
+    },
+    {
+      "raw": "Maas, Ineke",
+      "family": "Maas",
+      "given": "Ineke"
+    }
+  ],
+  "authors_text": "Knigge, Antonie; van Leeuwen, Marco H. D.; Maas, Ineke",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2014,
+  "doi": "10.1086/679104",
+  "doi_url": "https://doi.org/10.1086/679104",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F679104",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/679104.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

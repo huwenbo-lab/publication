@@ -1,0 +1,30 @@
+{
+  "title": "Discovering pockets of complexity: Socioeconomic status, stress exposure, and the nuances of the health gradient",
+  "abstract": "One of the most pervasive statements about stratification and health identifies the strong inverse relationship-or gradient-between socioeconomic status (SES) and poor health. We elaborate on the ways that the SES-based gradient in stress exposure contributes to nuances in the SES-health association. In analyses of the 2008 National Study of the Changing Workforce, we find some evidence that the inverse association between SES and health outcomes is finely graded-but several 'pockets of complexity' emerge. First, education and income have different associations with health and well-being. Second, those associations depend on the outcome being assessed. Education is more influential for predicting anxiety and poor health than for depression or life dissatisfaction, while income is more influential for predicting depression and, to a lesser extent, life dissatisfaction. Third, different patterns of explanation or suppression reflect resource advantage or stress of higher status dynamics. Some impactful stressors that people encounter-especially job pressure and work-family conflict-are not neatly graded in ways that corroborate the conventional SES-health narrative. Instead, these mask the size of the overall health differences between lower versus higher SES groups. Our mapping of the SES gradient in stressors extends that story and complicates the conventional view of the association between SES and health/well-being. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Schieman, Scott",
+      "family": "Schieman",
+      "given": "Scott"
+    },
+    {
+      "raw": "Koltai, Jonathan",
+      "family": "Koltai",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Schieman, Scott; Koltai, Jonathan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.09.023",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.09.023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.09.023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.09.023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Asymmetric Fixed-effects Models for Panel Data",
+  "abstract": "Standard fixed-effects methods presume that effects of variables are symmetric: The effect of increasing a variable is the same as the effect of decreasing that variable but in the opposite direction. This is implausible for many social phenomena. York and Light showed how to estimate asymmetric models by estimating first-difference regressions in which the difference scores for the predictors are decomposed into positive and negative changes. In this article, I show that there are several aspects of their method that need improvement. I also develop a data-generating model that justifies the first-difference method but can be applied in more general settings. In particular, it can be used to construct asymmetric logistic regression models.",
+  "authors": [
+    {
+      "raw": "Allison, Paul D.",
+      "family": "Allison",
+      "given": "Paul D."
+    }
+  ],
+  "authors_text": "Allison, Paul D.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119826441",
+  "doi_url": "https://doi.org/10.1177/2378023119826441",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119826441",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119826441.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

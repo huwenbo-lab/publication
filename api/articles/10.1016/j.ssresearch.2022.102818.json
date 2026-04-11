@@ -1,0 +1,35 @@
+{
+  "title": "The mobility effects hypothesis: Methods and applications",
+  "abstract": "We discuss hypotheses researchers have put forth to explain how outcomes of socially mobile and immobile individuals might differ and/or how mobility experiences are related to outcomes of interest. Next, we examine the methodological literature on this topic, culminating in the development of the diagonal mobility model (DMM, also called the diagonal reference model in some studies), the primary tool of use since the 1980's. We then discuss some of the many applications of the DMM. Although the model was proposed to examine the effects of social mobility on outcomes of interest, the estimated relationships between mobility and outcomes that researchers have called mobility effects are more appropriately regarded as partial associations. When mobility is not associated with outcomes, as is often found in empirical work, the outcomes of movers from origin o to destination d are a weighted average of the outcomes of individuals who remained in states o and d respectively, and the weights capture the relative salience of origins and destinations in the acculturation process. In light of this attractive feature of the model, we briefly develop several generalizations of the current DMM that future researchers should also find useful. Finally, we propose new estimands of mobility effects, based on the explicit notion that a unit effect of mobility is a comparison of an individual with herself under two conditions, one in which she is mobile, the other in which she is immobile, and we discuss some of the challenges in identifying such effects.",
+  "authors": [
+    {
+      "raw": "Zang, Emma",
+      "family": "Zang",
+      "given": "Emma"
+    },
+    {
+      "raw": "Sobel, Michael E.",
+      "family": "Sobel",
+      "given": "Michael E."
+    },
+    {
+      "raw": "Luo, Liying",
+      "family": "Luo",
+      "given": "Liying"
+    }
+  ],
+  "authors_text": "Zang, Emma; Sobel, Michael E.; Luo, Liying",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2022.102818",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102818",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102818",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102818.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

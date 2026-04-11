@@ -1,0 +1,25 @@
+{
+  "title": "Network Inequalities and International Migration in the Americas",
+  "abstract": "Based on predictions derived from migration systems theory, this study argues that chain-like international migratory exchanges tend to be organized as transitive structures patterned along an intelligible hierarchy of attractiveness between countries. To test this idea, harmonized bilateral migrant stock data are used to estimate country-to-country migration flows in the Americas in the second half of the 20th century. Then, temporal exponential random graph models are used to explain the emergence and structure of these estimated flows. Results show that triadic migratory chains are patterned as (nearly) perfect linear hierarchies. These hierarchical structural patterns are shown to be important to understand the structure and evolution of migration flows across the continent from both a statistical and a historical perspective.",
+  "authors": [
+    {
+      "raw": "Leal, Diego F.",
+      "family": "Leal",
+      "given": "Diego F."
+    }
+  ],
+  "authors_text": "Leal, Diego F.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2021,
+  "doi": "10.1086/713877",
+  "doi_url": "https://doi.org/10.1086/713877",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F713877",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/713877.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

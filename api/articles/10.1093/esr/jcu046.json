@@ -1,0 +1,40 @@
+{
+  "title": "Social Contacts of Older People in 27 European Countries: The Role of Welfare Spending and Economic Inequality",
+  "abstract": "Social contacts of older people have consistently been associated with good health and longevity. The extent of individual social contacts, however, varies considerably between countries. We study why countries differ in amounts of social contacts of older adults. Using theory on income inequality and neo-materialism, we expect the amount of social contacts of older people to be highest in countries with low income inequality and comprehensive welfare spending. Furthermore, we hypothesize that the impact of country characteristics on social contacts differs with individual income and age. We combine individual-level data from the European Social Survey with country-level data from Eurostat, and test two dimensions of social contacts of people aged ≥60 years: having a close contact and meeting socially. Cross-national comparison of 27 European countries is realized through linear and logistic multilevel modelling. The results reveal partial support for our expectations. Income inequality and old-age poverty reduce the likelihood of having a close contact. Welfare spending, specifically expenditure on care for older adults and health services, has the potential to cancel out some of these negative effects. However, there were only small differences between age groups. The implications of these findings are being discussed.",
+  "authors": [
+    {
+      "raw": "Ellwardt, Lea",
+      "family": "Ellwardt",
+      "given": "Lea"
+    },
+    {
+      "raw": "Peter, Sascha",
+      "family": "Peter",
+      "given": "Sascha"
+    },
+    {
+      "raw": "Präg, Patrick",
+      "family": "Präg",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Steverink, Nardi",
+      "family": "Steverink",
+      "given": "Nardi"
+    }
+  ],
+  "authors_text": "Ellwardt, Lea; Peter, Sascha; Präg, Patrick; Steverink, Nardi",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1093/esr/jcu046",
+  "doi_url": "https://doi.org/10.1093/esr/jcu046",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcu046",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcu046.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

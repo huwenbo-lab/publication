@@ -1,0 +1,65 @@
+{
+  "title": "What Percentage of Americans Have Ever Had a Family Member Incarcerated?: Evidence from the Family History of Incarceration Survey (FamHIS)",
+  "abstract": "What percentage of Americans have ever had a family member incarcerated? To answer this question, we designed the Family History of Incarceration Survey (FamHIS). The survey was administered in the summer of 2018 by NORC at the University of Chicago using their AmeriSpeak Panel. It was funded by FWD.us, which released a separate report using the data. The data show that 45 percent of Americans have ever had an immediate family member incarcerated. The incarceration of an immediate family member was most prevalent for blacks (63 percent) but common for whites (42 percent) and Hispanics (48 percent) as well. College graduates had a lower risk of having a family member incarcerated, but the risk for black college graduates was comparatively high. The most common form of family member incarceration was the incarceration of a sibling.",
+  "authors": [
+    {
+      "raw": "Enns, Peter K.",
+      "family": "Enns",
+      "given": "Peter K."
+    },
+    {
+      "raw": "Yi, Youngmin",
+      "family": "Yi",
+      "given": "Youngmin"
+    },
+    {
+      "raw": "Comfort, Megan",
+      "family": "Comfort",
+      "given": "Megan"
+    },
+    {
+      "raw": "Goldman, Alyssa W.",
+      "family": "Goldman",
+      "given": "Alyssa W."
+    },
+    {
+      "raw": "Lee, Hedwig",
+      "family": "Lee",
+      "given": "Hedwig"
+    },
+    {
+      "raw": "Muller, Christopher",
+      "family": "Muller",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Wakefield, Sara",
+      "family": "Wakefield",
+      "given": "Sara"
+    },
+    {
+      "raw": "Wang, Emily A.",
+      "family": "Wang",
+      "given": "Emily A."
+    },
+    {
+      "raw": "Wildeman, Christopher",
+      "family": "Wildeman",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Enns, Peter K.; Yi, Youngmin; Comfort, Megan; Goldman, Alyssa W.; Lee, Hedwig; Muller, Christopher; Wakefield, Sara; Wang, Emily A.; Wildeman, Christopher",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119829332",
+  "doi_url": "https://doi.org/10.1177/2378023119829332",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119829332",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119829332.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

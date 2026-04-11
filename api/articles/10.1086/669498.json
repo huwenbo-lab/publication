@@ -1,0 +1,30 @@
+{
+  "title": "The Payoff to Skill in the Third Industrial Revolution",
+  "abstract": "Is the third industrial revolution indeed driven by rising payoffs to skill? This simple but important question has gone unanswered because conventional models of earnings inequality are based on exceedingly weak measurements of skill. By attaching occupational skill measurements to the 1979-2010 Current Population Surveys, it becomes possible to adjudicate competing accounts of the changing returns to cognitive, creative, technical, and social skill. The well-known increase in between-occupation inequality is fully explained when such skills are taken into account, while returns to schooling prove to be quite stable once correlated changes in workplace skills are parsed out. The most important trend, however, is a precipitous increase in the wage payoff to synthesis, critical thinking, and related analytic skills. The payoff to technical and creative skills, often touted in discussions of the third industrial revolution, is shown to be less substantial.",
+  "authors": [
+    {
+      "raw": "Liu, Yujia",
+      "family": "Liu",
+      "given": "Yujia"
+    },
+    {
+      "raw": "Grusky, David B.",
+      "family": "Grusky",
+      "given": "David B."
+    }
+  ],
+  "authors_text": "Liu, Yujia; Grusky, David B.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2013,
+  "doi": "10.1086/669498",
+  "doi_url": "https://doi.org/10.1086/669498",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F669498",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/669498.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

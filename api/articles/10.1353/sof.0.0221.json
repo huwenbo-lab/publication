@@ -1,0 +1,35 @@
+{
+  "title": "Putting Poverty in Political Context: A Multi-Level Analysis of Adult Poverty across 18 Affluent Democracies",
+  "abstract": "Our study analyzes how political context, embodied by the welfare state and Leftist political actors, shapes individual poverty. Using the Luxembourg Income Study, we conduct a multi-level analysis of working-aged adult poverty across 18 affluent Western democracies. Our index of welfare generosity has a negative effect on poverty net of individual characteristics and structural context. For each standard deviation increase in welfare generosity, the odds of poverty decline by a factor of 2.3. The odds of poverty in the United States (the least generous welfare state) are greater by a factor of 16.6 than a person with identical characteristics in Denmark (the most generous welfare state). Significant interaction effects suggest that welfare generosity reduces the extent to which low education and the number of children increase poverty. Also, welfare generosity reduces poverty among those with low education, single-mother households and young households. We show that Leftist parties and union density reduce the odds of poverty, however their effects channel through the welfare state. Ultimately, poverty is shaped both by individual characteristics and the political context in which the individual resides.",
+  "authors": [
+    {
+      "raw": "Brady, D.",
+      "family": "Brady",
+      "given": "D."
+    },
+    {
+      "raw": "Fullerton, A. S.",
+      "family": "Fullerton",
+      "given": "A. S."
+    },
+    {
+      "raw": "Cross, J. M.",
+      "family": "Cross",
+      "given": "J. M."
+    }
+  ],
+  "authors_text": "Brady, D.; Fullerton, A. S.; Cross, J. M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0221",
+  "doi_url": "https://doi.org/10.1353/sof.0.0221",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0221",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0221.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Becoming a Grandparent and Early Retirement in Europe",
+  "abstract": "Given that the funding of pensions is at issue, governments across Europe now try to discourage early retirement. Yet, international research about the determinants of early retirement based on appropriate micro-data is scarce. In addition, studies have tended to look at the retiring generation in an isolated way, ignoring the intergenerational ties that may play a role in their retirement decision. This article uses the European Social Survey, covering 22 countries from all regions of Europe, to investigate to what extent becoming a grandparent affects early retirement in European countries. We apply multilevel event history modelling to data from the third round of the European Social Survey and from the MULTILINKS database on intergenerational policy indicators. We find that becoming a grandparent speeds up retirement, especially at the round ages of 55 and 60 years. However, the effect is statistically significant only for women, not for men. We discuss differences between countries, including the role played by differences in formal childcare provisions.",
+  "authors": [
+    {
+      "raw": "Van Bavel, J.",
+      "family": "Van Bavel",
+      "given": "J."
+    },
+    {
+      "raw": "De Winter, T.",
+      "family": "De Winter",
+      "given": "T."
+    }
+  ],
+  "authors_text": "Van Bavel, J.; De Winter, T.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1093/esr/jct005",
+  "doi_url": "https://doi.org/10.1093/esr/jct005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjct005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jct005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Nonmarital childbearing: Influences of education, marriage, and fertility",
+  "abstract": "Abstract We examined the determinants of nonmarital fertility, focusing on the effects of other life-course events: education, marriage, marital dissolution, and marital fertility. Since these determinants are potentially endogenous, we modeled the processes that generate them jointly with nonmarital fertility and accounted for the sequencing of events and the unobserved correlations across processes. The results showed that the risk of nonmarital conception increases immediately after leaving school and that the educational effects are less pronounced for black women than for other women. The risk is lower for previously married women than for never-married women, even controlling for age, but this reduction is significant only for black women. The more children a woman already has, the lower her risk of nonmarital childbearing, particularly if the earlier children were born during a previous marriage. Ignoring endogeneity issues seriously biases the estimates of several substantively important effects.",
+  "authors": [
+    {
+      "raw": "Upchurch, Dawn M.",
+      "family": "Upchurch",
+      "given": "Dawn M."
+    },
+    {
+      "raw": "Lillard, Lee A.",
+      "family": "Lillard",
+      "given": "Lee A."
+    },
+    {
+      "raw": "Panis, Constantijn W. A.",
+      "family": "Panis",
+      "given": "Constantijn W. A."
+    }
+  ],
+  "authors_text": "Upchurch, Dawn M.; Lillard, Lee A.; Panis, Constantijn W. A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.1353/dem.2002.0020",
+  "doi_url": "https://doi.org/10.1353/dem.2002.0020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2002.0020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2002.0020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

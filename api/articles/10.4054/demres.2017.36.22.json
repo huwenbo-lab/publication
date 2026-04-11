@@ -1,0 +1,30 @@
+{
+  "title": "Orphan status, school attendance, and their relationship to household head in Nigeria",
+  "abstract": "BACKGROUND This study addresses the important issue of whether extended family networks can meet the educational needs of orphans in Nigeria. The theory behind this paper is based on Hamilton's rule, which holds that individuals are less altruistic toward those with whom they have distant kinship ties. OBJECTIVE Our objective is to determine whether orphans experience an educational advantage if they reside in households headed by blood relatives rather than non-relatives, paying attention to age and household income differences. METHODS We use logistic regression to estimate models of children's school attendance based on data from the 2010 Nigeria Education Data Survey (NEDS). The analyses examine the associations of paternal (father died) and maternal/double orphans (mother or both parents died) and child's relation to the household head with school attendance. It also investigates how the pattern of relationships differs by age of children and household income. RESULTS The results indicate that paternal and maternal/double orphans who are distantly related to their household heads have lower chances of attending school than those who have close biological ties, specifically when they reside in poor households. This finding is consistent with Hamilton's rule. CONCLUSIONS Our analysis suggests that orphanhood is problematic for those more distantly related to their guardians and in poor households. Since the disadvantages of orphanhood carry oninto later life, ameliorative policies and programs need to be attentive to the double disadvantages faced by children in such circumstances. CONTRIBUTION This study contributes to the literature by showing that while close kinship ties to household head produce educational advantage for orphans, the willingness of household heads to display altruism regardless of degree of kinship is highly dependent on their economic resources.",
+  "authors": [
+    {
+      "raw": "Kazeem, Aramide",
+      "family": "Kazeem",
+      "given": "Aramide"
+    },
+    {
+      "raw": "Jensen, Leif",
+      "family": "Jensen",
+      "given": "Leif"
+    }
+  ],
+  "authors_text": "Kazeem, Aramide; Jensen, Leif",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.22",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

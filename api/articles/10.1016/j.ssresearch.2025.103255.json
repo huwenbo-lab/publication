@@ -1,0 +1,50 @@
+{
+  "title": "Dual language immersion programs and their neighborhoods: Issues of program access and representation within Los Angeles Unified School District",
+  "abstract": "School segregation, which is tightly linked to residential segregation, is a pervasive problem across the United States. Two-way dual language immersion programs (TWDL)-specialized bilingual education programs that often act as school choice programs and are meant to serve both non-English language and English speakers-are increasingly recognized as one promising mechanism by which to create integrated learning environments. In this paper, we use quantitative and geospatial methods to study the potential of TWDL to overcome residential segregation and create diverse enrollments. We use unique geospatial data, including school attendance zones and students' census tracts of residence, to analyze the relationship between elementary TWDL program enrollments in Los Angeles Unified School District (LAUSD) and the composition of their neighborhoods. We find TWDL programs in LAUSD tend to be located in neighborhoods with high proportions of populations who can especially benefit from bilingual education, including racial groups associated with programs' target languages, non-English speaking populations, and lowincome populations. Programs enroll high proportions of students from the demographic groups living within their attendance zones, but they also act as school choice programs that enroll out-of-zone students from more traditionally advantaged groups, helping to make enrollments slightly more diverse. Our evidence suggests TWDL programs in LAUSD are acting as school choice mechanisms and are, to a modest extent, overcoming residential segregation.",
+  "authors": [
+    {
+      "raw": "Asson, Sarah",
+      "family": "Asson",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Frankenberg, Erica",
+      "family": "Frankenberg",
+      "given": "Erica"
+    },
+    {
+      "raw": "Darriet, Clemence",
+      "family": "Darriet",
+      "given": "Clemence"
+    },
+    {
+      "raw": "Santibanez, Lucrecia",
+      "family": "Santibanez",
+      "given": "Lucrecia"
+    },
+    {
+      "raw": "Cervantes-Soon, Claudia",
+      "family": "Cervantes-Soon",
+      "given": "Claudia"
+    },
+    {
+      "raw": "Lopez, Francesca",
+      "family": "Lopez",
+      "given": "Francesca"
+    }
+  ],
+  "authors_text": "Asson, Sarah; Frankenberg, Erica; Darriet, Clemence; Santibanez, Lucrecia; Cervantes-Soon, Claudia; Lopez, Francesca",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2026,
+  "doi": "10.1016/j.ssresearch.2025.103255",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103255",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103255",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103255.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

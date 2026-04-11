@@ -1,0 +1,40 @@
+{
+  "title": "Gender differences in the choice of field of study and the relevance of income information. Insights from a field experiment",
+  "abstract": "Research consistently reports pronounced earnings differences between men and women, even among the highly educated. This article investigates whether students' responsiveness to information on income returns relates to gender differences in major choices, which might contribute to the persistent gender wage gap. We use field-experimental panel data on students in Berlin (Germany), starting one year before high school graduation. Our intervention comprised information on major-specific returns to college and was provided to students in randomly selected schools. By comparing the major-specific application decisions of treated and untreated high school seniors, we examine whether, and why, male and female students respond differently to this information. As potential mechanisms behind a gender-specific treatment effect, we analyze the role of gender stereotypes and roles associated with certain job attributes. We find that providing income information on college majors only influences the major choices of male (not female) students with college intention: treated male students on average applied to majors associated with higher mean income. Further analyses suggest that this gender difference in the treatment effect cannot be explained by differential distributions or effects of preferred job attributes.",
+  "authors": [
+    {
+      "raw": "Finger, Claudia",
+      "family": "Finger",
+      "given": "Claudia"
+    },
+    {
+      "raw": "Solga, Heike",
+      "family": "Solga",
+      "given": "Heike"
+    },
+    {
+      "raw": "Ehlert, Martin",
+      "family": "Ehlert",
+      "given": "Martin"
+    },
+    {
+      "raw": "Rusconi, Alessandra",
+      "family": "Rusconi",
+      "given": "Alessandra"
+    }
+  ],
+  "authors_text": "Finger, Claudia; Solga, Heike; Ehlert, Martin; Rusconi, Alessandra",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100457",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100457",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100457",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100457.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

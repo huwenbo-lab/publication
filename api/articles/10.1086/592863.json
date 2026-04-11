@@ -1,0 +1,30 @@
+{
+  "title": "A Preference-Opportunity-Choice Framework with Applications to Intergroup Friendship",
+  "abstract": "A long-standing objective of friendship research is to identify the effects of personal preference and structural opportunity on intergroup friendship choice. Although past studies have used various methods to separate preference from opportunity, researchers have not yet systematically compared the properties and implications of these methods. This study puts forward a general framework for discrete choice, where choice probability is specified as proportional to the product of preference and opportunity. To implement this framework, the authors propose a modification to the conditional logit model for estimating preference parameters free from the influence of opportunity structure and then compare this approach to several alternative methods for separating preference and opportunity used in the friendship choice literature. As an empirical example, the authors test hypotheses of homophily and status asymmetry in friendship choice using data from the National Longitudinal Study of Adolescent Health. The example also demonstrates the approach of conducting a sensitivity analysis to examine how parameter estimates vary by specification of the opportunity structure.",
+  "authors": [
+    {
+      "raw": "Zeng, Zhen",
+      "family": "Zeng",
+      "given": "Zhen"
+    },
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Zeng, Zhen; Xie, Yu",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2008,
+  "doi": "10.1086/592863",
+  "doi_url": "https://doi.org/10.1086/592863",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F592863",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/592863.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Assessing Validity and Application Scope of the Intrinsic Estimator Approach to the Age-Period-Cohort Problem",
+  "abstract": "Abstract In many different fields, social scientists desire to understand temporal variation associated with age, time period, and cohort membership. Among methods proposed to address the identification problem in age-period-cohort analysis, the intrinsic estimator (IE) is reputed to impose few assumptions and to yield good estimates of the independent effects of age, period, and cohort groups. This article assesses the validity and application scope of IE theoretically and illustrates its properties with simulations. It shows that IE implicitly assumes a constraint on the linear age, period, and cohort effects. This constraint not only depends on the number of age, period, and cohort categories but also has nontrivial implications for estimation. Because this assumption is extremely difficult, if not impossible, to verify in empirical research, IE cannot and should not be used to estimate age, period, and cohort effects.",
+  "authors": [
+    {
+      "raw": "Luo, Liying",
+      "family": "Luo",
+      "given": "Liying"
+    }
+  ],
+  "authors_text": "Luo, Liying",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0243-z",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0243-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0243-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0243-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

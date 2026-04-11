@@ -1,0 +1,25 @@
+{
+  "title": "Model migration schedules incorporating student migration peaks",
+  "abstract": "This paper proposes an extension of the standard parameterized model migration schedule to account for highly age-concentrated student migration. Many age profiles of regional migration are characterized by sudden 'spiked' increases in migration intensities in the late teenage years, which are related to leaving school, and, in particular, to entry into higher education. The standard model schedule does not appear to be effective in describing the pattern at these ages. This paper therefore proposes an extension of the standard model through the addition of a student curve. The paper also describes a relatively simple Microsoft Excel-based fitting procedure. By way of illustration, both student peak and standard model schedules are fitted to the age patterns of internal migration for two Australian regions that experience substantial student migration. The student peak schedule is shown to provide an improved model of these migration age profiles. Illustrative population projections are presented to demonstrate the differences that result when model migration schedules with and without student peaks are used.",
+  "authors": [
+    {
+      "raw": "Wilson, Tom",
+      "family": "Wilson",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "Wilson, Tom",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.23.8",
+  "doi_url": "https://doi.org/10.4054/demres.2010.23.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.23.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.23.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

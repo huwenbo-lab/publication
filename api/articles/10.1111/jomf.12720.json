@@ -1,0 +1,30 @@
+{
+  "title": "Converging Educational Differences in Parents' Time Use in Developmental Child Care",
+  "abstract": "Objective: This study examines parents' time use in developmental child care by parental education and assesses whether the educational gap has widened or narrowed over the period of 2003-2017. Background: The diverging trends in work hours between mothers with different levels of education since the early 2000s, along with the proliferation of the ideal of intensive parenting, suggest that education disparities in developmental child care time have likely converged, opposite to the widening trend before then. Method: Using the 2003-2017 American Time Use Survey (N = 30,072), ordinary least squares regression models estimate minutes per day mothers and fathers with children under age 5 spend on developmental child care, after accounting for demographic characteristics, family income, and hours at work. The interaction terms between parental education and years estimate the trend in the educational gap. Results: The educational disparity in developmental child care has narrowed between 2003 and 2017 due to opposite trends at both ends of the educational spectrum: whereas time spent among parents with a bachelor's degree or higher has stalled, time spent among counterparts with high school or less education has continuously increased. For mothers, the converging trend is partly attributable to differential trends in hours at work by education. Conclusion: In contrast to the claim of diverging destinies, parents' time use in developmental child care is likely not contributing to diverging resources for children between more- and less-educated parents.",
+  "authors": [
+    {
+      "raw": "Cha, Yun",
+      "family": "Cha",
+      "given": "Yun"
+    },
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    }
+  ],
+  "authors_text": "Cha, Yun; Park, Hyunjoon",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12720",
+  "doi_url": "https://doi.org/10.1111/jomf.12720",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12720",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12720.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

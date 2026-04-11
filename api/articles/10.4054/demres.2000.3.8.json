@@ -1,0 +1,30 @@
+{
+  "title": "Frailty Modelling for Adult and Old Age Mortality",
+  "abstract": "Unobserved differences in individual's susceptibility to death are an important aspect in the analysis of contemporary mortality patterns. However, observed mortality rates at adult and old ages, which are usually well-described by a Gompertz curve, ar",
+  "authors": [
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    },
+    {
+      "raw": "Kohler, Iliana",
+      "family": "Kohler",
+      "given": "Iliana"
+    }
+  ],
+  "authors_text": "Kohler, Hans-Peter; Kohler, Iliana",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2000,
+  "doi": "10.4054/demres.2000.3.8",
+  "doi_url": "https://doi.org/10.4054/demres.2000.3.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2000.3.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2000.3.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Why Do Older People Change Their Ratings of Childhood Health?",
+  "abstract": "Abstract A growing number of studies in life course epidemiology and biodemography make use of a retrospective question tapping self-rated childhood health to assess overall physical health status. Analyzing repeated measures of self-rated childhood health from the Health and Retirement Study (HRS), this study examines several possible explanations for why respondents might change their ratings of childhood health. Results reveal that nearly one-half of the sample revised their rating of childhood health during the 10-year observation period. Whites and relatively advantaged older adults—those with more socioeconomic resources and better memory—were less likely to revise their rating of childhood health, while those who experienced multiple childhood health problems were more likely to revise their childhood health rating, either positively or negatively. Changes in current self-rated health and several incident physical health problems were also related to the revision of one’s rating of childhood health, while the development of psychological disorders was associated with more negative revised ratings. We then illustrate the impact that these changes may have on an adult outcomes: namely, depressive symptoms. Whereas adult ratings of childhood health are likely to change over time, we recommend their use only if adjusting for factors associated with these changes, such as memory, psychological disorder, adult self-rated health, and socioeconomic resources.",
+  "authors": [
+    {
+      "raw": "Vuolo, Mike",
+      "family": "Vuolo",
+      "given": "Mike"
+    },
+    {
+      "raw": "Ferraro, Kenneth F.",
+      "family": "Ferraro",
+      "given": "Kenneth F."
+    },
+    {
+      "raw": "Morton, Patricia M.",
+      "family": "Morton",
+      "given": "Patricia M."
+    },
+    {
+      "raw": "Yang, Ting-Ying",
+      "family": "Yang",
+      "given": "Ting-Ying"
+    }
+  ],
+  "authors_text": "Vuolo, Mike; Ferraro, Kenneth F.; Morton, Patricia M.; Yang, Ting-Ying",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0344-3",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0344-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0344-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0344-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

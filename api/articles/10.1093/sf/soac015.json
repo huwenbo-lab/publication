@@ -1,0 +1,35 @@
+{
+  "title": "Mother-Father Parity in Work-Family Conflict? The Importance of Selection Effects and Nonresponse Bias*",
+  "abstract": "Do mothers experience worse work-family conflicts compared with fathers? Yes, according to trenchant and influential qualitative studies that illuminate mothers' deeply felt problems from work demands that intrude into family life. No, suggest studies employing representative samples of employed parents that show mothers' and fathers' have similar work-to-family conflict. We assess these paradoxical depictions of parents' lives using panel data from the national Canadian Work, Stress and Health study (2011-2019). We argue that comparable reports from men and women are misleading because they overlook mothers' adjustment of work hours in the face of high conflict. As evidence, we reveal a gender suppression effect whereby mothers report higher conflict than fathers when adjusting for work hours in the baseline sample. Next, we show that mothers are more likely to leave paid work because of conflict. In fact, they are three times more likely than fathers to leave because of conflict's focal predictor-having young children. These findings reflect mothers' adjustment to the conflict they might already experience or anticipate. We use pooled person-year data and fixed-effects regression with logit specification to estimate the hazard of not working at the next wave by gender. We underscore the selection of some mothers into surveys or subsequent waves because it excludes those who systematically dropped out due to higher conflict and its primary predictor of having young children. We argue the observed gender symmetry of conflict is an artifact and illustrate the importance of theorizing stress processes over time to understand contradictory work-family conflict scholarship.",
+  "authors": [
+    {
+      "raw": "Young, Marisa",
+      "family": "Young",
+      "given": "Marisa"
+    },
+    {
+      "raw": "Milkie, Melissa A.",
+      "family": "Milkie",
+      "given": "Melissa A."
+    },
+    {
+      "raw": "Schieman, Scott",
+      "family": "Schieman",
+      "given": "Scott"
+    }
+  ],
+  "authors_text": "Young, Marisa; Milkie, Melissa A.; Schieman, Scott",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soac015",
+  "doi_url": "https://doi.org/10.1093/sf/soac015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

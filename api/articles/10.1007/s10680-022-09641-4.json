@@ -1,0 +1,25 @@
+{
+  "title": "Extreme Temperature and Mortality by Educational Attainment in Spain, 2012–2018",
+  "abstract": "AbstractExtreme temperatures are a threat to public health, increasing mortality in the affected population. Moreover, there is substantial research showing how age and gender shape vulnerabilities to this environmental risk. However, there is only limited knowledge on how socioeconomic status (SES), operationalized using educational attainment, stratifies the effect of extreme temperatures on mortality. Here, we address this link using Poisson regression and administrative data from 2012 to 2018 for 50 Spanish Provinces on individuals aged above 65 matched with meteorological data provided by the E-OBS dataset. In line with previous studies, results show that hot and cold days increase mortality. Results on the interaction between SES and extreme temperatures show a positive and significant effect of exposure to heat and cold for individuals with medium and low SES level. Conversely, for high SES individuals we do not find evidence of a robust association with heat or cold. We further investigate how the local climate moderates these associations. A warmer climate increases risks with exposures to low temperatures and vice versa for hot temperatures in the pooled sample. Moreover, we observe that results are mostly driven by low SES individuals being particularly vulnerable to heat in colder climates and cold in warmer climates. In conclusion, results highlight how educational attainment stratifies the effect of extreme temperatures and the relevance of the local climate in shaping risks of low SES individuals aged above 65.",
+  "authors": [
+    {
+      "raw": "Conte Keivabu, Risto",
+      "family": "Conte Keivabu",
+      "given": "Risto"
+    }
+  ],
+  "authors_text": "Conte Keivabu, Risto",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09641-4",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09641-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09641-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09641-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

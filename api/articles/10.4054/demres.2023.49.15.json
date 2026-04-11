@@ -1,0 +1,40 @@
+{
+  "title": "Adolescence in flux: Unmasking 30 years of change in subnational parity-specific adolescent fertility in Mexico",
+  "abstract": "BACKGROUND In 2015 Mexico set a goal to halve its adolescent fertility rate and eliminate childbearing among girls 14 years and younger, but the ambitious goal is severely off track. National estimates show stagnation, and while implementation is targeted at the municipal level, little is known about adolescent fertility in Mexican municipalities.OBJECTIVE This study estimates trends in subnational parity-specific fertility from 1990 to 2020 at all adolescent ages in 2,469 Mexican municipalities. Importantly, the estimates include the fertility of younger adolescents, and parity progression ratios offer a more accurate picture of the true risk of repeat adolescent childbearing. METHODS This study uses pooled census data and multilevel logistic regression models to estimate age-and parity-specific municipal population proportions. Modeled estimates are used to calculate second birth parity progression ratios.RESULTS The analysis reveals that municipal trends see considerable diversity and change. The results unmask 30 years of flux and a surprising pattern of convergence in first births alongside little concordance for second births.CONTRIBUTION Not only have the estimates not been seen before, but they (1) highlight priorities that might otherwise be overlooked by the national strategy and (2) emphasize the value of tracking first and second adolescent births separately. Ultimately, the findings have rel-evance far beyond Mexico. They confirm the importance of examining subnational pat-terns for understanding adolescent childbearing and question the adequacy of ASFR15-19 as the default measure given that repeat births to adolescent mothers as well as births to girls before age 15 remain widespread across the globe.",
+  "authors": [
+    {
+      "raw": "Garbett, Ann",
+      "family": "Garbett",
+      "given": "Ann"
+    },
+    {
+      "raw": "Neal, Sarah",
+      "family": "Neal",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Hernandez, Angela Luna",
+      "family": "Hernandez",
+      "given": "Angela Luna"
+    },
+    {
+      "raw": "Tzavidis, Nikos",
+      "family": "Tzavidis",
+      "given": "Nikos"
+    }
+  ],
+  "authors_text": "Garbett, Ann; Neal, Sarah; Hernandez, Angela Luna; Tzavidis, Nikos",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.15",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

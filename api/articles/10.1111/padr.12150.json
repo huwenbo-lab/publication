@@ -1,0 +1,30 @@
+{
+  "title": "Determinants of Urban Growth during Demographic and Mobility Transitions: Evidence from India, Mexico, and the US",
+  "abstract": "Evidence suggests that the relative contributions to urban population growth of natural increase, rural-urban migration, and reclassification from rural to urban may vary in a regular pattern as countries pass through demographic and mobility transitions, but the nature of that pattern remains unclear. We propose a conceptual framework based on theoretical and empirical literature and investigate determinants of urban population growth in India, Mexico and the US, three countries at different stages of the transitions. We use a multi-regional population/urbanization projection model to decompose total changes in urban population into the influences of natural increase, migration, and reclassification. Results are generally consistent with our conceptual model. While natural increase is the main determinant of recent urban growth in all three countries, migration contributes a large component in India but a smaller component in the US, even though rural-urban migration rates remain high. The role of reclassification is larger at higher urbanization levels but its precise contribution is more uncertain than natural increase and migration. Results over a longer time period and for additional countries would be important in confirming these findings.",
+  "authors": [
+    {
+      "raw": "Jiang, Leiwen",
+      "family": "Jiang",
+      "given": "Leiwen"
+    },
+    {
+      "raw": "O'Neill, Brian C.",
+      "family": "O'Neill",
+      "given": "Brian C."
+    }
+  ],
+  "authors_text": "Jiang, Leiwen; O'Neill, Brian C.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2018,
+  "doi": "10.1111/padr.12150",
+  "doi_url": "https://doi.org/10.1111/padr.12150",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12150",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12150.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

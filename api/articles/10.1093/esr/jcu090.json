@@ -1,0 +1,35 @@
+{
+  "title": "Gender Differences in Fields of Study: The Role of Significant Others and Rational Choice Motivations",
+  "abstract": "Although gender inequalities in education have greatly changed in recent decades with young women outpacing young men, girls and boys continue to study in gender-typical fields of study. Recognizing that boys and girls might have different educational preferences, we conceptualized gender differentiation as an outcome of both socialization processes and rational choice factors. Using a data set from an original survey of curricular choices of high school students in Tel Aviv-Jaffa in Israel, we employed nested logit regression models using the KHB method to examine the determinants of the gender differentiation in advanced course-taking. We found that socialization mechanisms (significant other influences) and rational choice motivations (utility considerations and failure expectations) explain up to 40 percent of the gender-typical curricular choice in our data. The implications of these results for future research are discussed.",
+  "authors": [
+    {
+      "raw": "Gabay-Egozi, Limor",
+      "family": "Gabay-Egozi",
+      "given": "Limor"
+    },
+    {
+      "raw": "Shavit, Yossi",
+      "family": "Shavit",
+      "given": "Yossi"
+    },
+    {
+      "raw": "Yaish, Meir",
+      "family": "Yaish",
+      "given": "Meir"
+    }
+  ],
+  "authors_text": "Gabay-Egozi, Limor; Shavit, Yossi; Yaish, Meir",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcu090",
+  "doi_url": "https://doi.org/10.1093/esr/jcu090",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcu090",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcu090.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

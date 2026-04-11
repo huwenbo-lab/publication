@@ -1,0 +1,35 @@
+{
+  "title": "Growing rich without growing old: the impact of internal migration in China",
+  "abstract": "In China in 2017, the elderly dependency ratio (EDR) – which is the number of elderly per 100 working-age population – was 14.8. This represents a huge increase from 6.7 in 1970. The speed and magnitude of the ageing trend remains a serious threat to the sustainable development of China. However, the EDRs exhibit wide and unusual spatial variations within the nation. In this study, based on a decomposition analysis, the spatial pattern of the EDRs across 31 provinces in China in 2000 and 2010 are investigated. The analyses attributed the change in the EDRs to four factors: working-age migration, mortality of the population aged 5–54, population momentum, and growth of the elderly population. It is found that the impacts of internal migration offset or even reverse the regional differentials in fertility and mortality, leading to an unusual ageing pattern in China. More developed provinces attracted young workers, which reduced the EDRs despite persistent low fertility; whereas the less developed provinces saw young workers outflow, increasing the EDRs despite the relatively high fertility rate. To some extent, it could be said that some provinces are ‘growing old before growing rich’, while other provinces are growing rich without growing old.",
+  "authors": [
+    {
+      "raw": "Chen, Mengni",
+      "family": "Chen",
+      "given": "Mengni"
+    },
+    {
+      "raw": "Lloyd, Chris J.",
+      "family": "Lloyd",
+      "given": "Chris J."
+    },
+    {
+      "raw": "Yip, Paul S. F.",
+      "family": "Yip",
+      "given": "Paul S. F."
+    }
+  ],
+  "authors_text": "Chen, Mengni; Lloyd, Chris J.; Yip, Paul S. F.",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2020,
+  "doi": "10.1080/17441730.2020.1750187",
+  "doi_url": "https://doi.org/10.1080/17441730.2020.1750187",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2020.1750187",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2020.1750187.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

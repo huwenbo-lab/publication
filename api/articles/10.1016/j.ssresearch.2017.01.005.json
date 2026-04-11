@@ -1,0 +1,30 @@
+{
+  "title": "The earnings payoff from attending a selective college",
+  "abstract": "Studies relating the selectivity of colleges to the earnings of their graduates report inconsistent findings. Some find no effects; most report statistically significant but quite small earnings benefits from attending a more selective college; and a few studies report large effects. Analyzing two recent national longitudinal studies of college graduates, with models sensitive to selection bias, we find large earnings payoffs from attending a highly selective college both four and ten years after graduation. However, those returns are uneven: full-time working women graduates earn a lot less than their male counterparts from equivalent colleges, college majors pay differently, and family background also affects earnings over and above one's college's selectivity. Nevertheless, earnings differences attributable to college selectivity are striking. (C) 2017 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Witteveen, Dirk",
+      "family": "Witteveen",
+      "given": "Dirk"
+    },
+    {
+      "raw": "Attewell, Paul",
+      "family": "Attewell",
+      "given": "Paul"
+    }
+  ],
+  "authors_text": "Witteveen, Dirk; Attewell, Paul",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2017.01.005",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.01.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.01.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.01.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "There Is Cumulative Status Bias and Status Entrenchment in NBA Awards: Comment on McMahan and Shor (2024)",
+  "abstract": "Peter McMahan and Eran Shor (MS) published an article in Sociological Science critiquing our study on cumulative status bias in NBA All-Star elections (Biegert, Kühhirt, and Van Lancker 2023). In this article, we affirm the presence of cumulative status bias in NBA Awards. Crucially, MS focus only on the accumulated component of cumulative status bias, ignoring the impact of immediately preceding status signals, which decouple quality and status. Furthermore, we identify theoretical and empirical issues with their model extensions of All-Star elections and their reapplication to All-NBA selections. (1) We deem MS’ argument for legitimate deviations between status and quality deeply problematic. (2) We argue that their inclusion of additional variables is not theoretically plausible in several instances, nor does it improve the models, which still support our findings. (3) We argue that All-NBA selections are a different application, not a better one, with no direct implications for the role of cumulative status bias in NBA All-Star elections. (4) We highlight flaws in MS’ models, such as irrelevant covariates, an indiscriminate approach to confounding and mediation, mismeasurement, and problematic post-treatment and post-outcome controls. (5) Our re-analysis confirms that, even in the All-NBA setting, previous status distinctions cumulatively bias outcomes.",
+  "authors": [
+    {
+      "raw": "Biegert, Thomas",
+      "family": "Biegert",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Kühhirt, Michael",
+      "family": "Kühhirt",
+      "given": "Michael"
+    },
+    {
+      "raw": "Van Lancker, Wim",
+      "family": "Van Lancker",
+      "given": "Wim"
+    }
+  ],
+  "authors_text": "Biegert, Thomas; Kühhirt, Michael; Van Lancker, Wim",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2026,
+  "doi": "10.15195/v13.a12",
+  "doi_url": "https://doi.org/10.15195/v13.a12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv13.a12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v13.a12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

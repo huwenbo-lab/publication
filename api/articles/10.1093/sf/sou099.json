@@ -1,0 +1,35 @@
+{
+  "title": "Racial and Spatial Targeting: Segregation and Subprime Lending within and across Metropolitan Areas",
+  "abstract": "Recent studies find that high levels of black-white segregation increased rates of foreclosures and subprime lending across US metropolitan areas during the housing crisis. These studies speculate that segregation created distinct geographic markets that enabled subprime lenders and brokers to leverage the spatial proximity of minorities to disproportionately target minority neighborhoods. Yet, the studies do not explicitly test whether the concentration of subprime loans in minority neighborhoods varied by segregation levels. We address this shortcoming by integrating neighborhood-level data and spatial measures of segregation to examine the relationship between segregation and subprime lending across the 100 largest US metropolitan areas. Controlling for alternative explanations of the housing crisis, we find that segregation is strongly associated with higher concentrations of subprime loans in clusters of minority census tracts but find no evidence of unequal lending patterns when we examine minority census tracts in an aspatial way. Moreover, residents of minority census tracts in segregated metropolitan areas had higher likelihoods of receiving subprime loans than their counterparts in less segregated metropolitan areas. Our findings demonstrate that segregation played a pivotal role in the housing crisis by creating relatively larger areas of concentrated minorities into which subprime loans could be efficiently and effectively channeled. These results are consistent with existing but untested theories on the relationship between segregation and the housing crisis in metropolitan areas.",
+  "authors": [
+    {
+      "raw": "Hwang, Jackelyn",
+      "family": "Hwang",
+      "given": "Jackelyn"
+    },
+    {
+      "raw": "Hankinson, Michael",
+      "family": "Hankinson",
+      "given": "Michael"
+    },
+    {
+      "raw": "Brown, Kreg Steven",
+      "family": "Brown",
+      "given": "Kreg Steven"
+    }
+  ],
+  "authors_text": "Hwang, Jackelyn; Hankinson, Michael; Brown, Kreg Steven",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sou099",
+  "doi_url": "https://doi.org/10.1093/sf/sou099",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou099",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou099.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "How Many Americans Change Their Racial Identification over Time?",
+  "abstract": "Despite long-standing assumptions about racial identity as a fixed characteristic, social scientists have increasingly recognized its fluidity and examined the origins of micro-level race change. However, knowledge regarding the prevalence of race change is limited. This data visualization fills this descriptive gap by providing a comprehensive account of recent levels of racial self-identification change among Americans. The author uses five high-quality panel surveys in which race is asked of the same nationally representative adult samples several years apart. Among all respondents, race change rates range from 5 percent to 12 percent across surveys, averaging 8 percent. Original white identifiers (4 percent on average) are much less prone to change than initial nonwhites collectively (20 percent). Blacks have as stable identities as whites, while mixed-race (52 percent) and “other”-race (73 percent) Americans undergo substantial identity shifts over time. Results further cement a perspective of race as flexible for some in the United States.",
+  "authors": [
+    {
+      "raw": "Agadjanian, Alexander",
+      "family": "Agadjanian",
+      "given": "Alexander"
+    }
+  ],
+  "authors_text": "Agadjanian, Alexander",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221098547",
+  "doi_url": "https://doi.org/10.1177/23780231221098547",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221098547",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221098547.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

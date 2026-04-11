@@ -1,0 +1,35 @@
+{
+  "title": "Internal migration in Indonesia: new insights from longitudinal data",
+  "abstract": "This study examines the roles of individual and household characteristics in internal migration in Indonesia for the first time using the five waves of Indonesia Family Life Survey. Our analysis extends previous research by using a longer period to capture mobility behaviour, by comparing changing of residence across three spatial scales, by incorporating the interaction of relation to household head and gender, and by differentiating migration involving the interaction of Sumatra, Java, other regions and rural-urban areas.The multinomial logistic regression results are consistent with international observations relating to age, education, marital status, previous migration, dependents, family size, and income. Some unique features from this study are the results which show that the probability of migrating by gender varies according to one’s relation to the household head, which highlights the importance of gender and family structure in migration decision-making. Residents of Java have lower probabilities of migrating, compared to non-Java residents for smaller spatial scale migrations, but are relatively likely to engage in inter-provincial migration. Urban-originating moves are more likely than rural-originating moves for all spatial scales except for Sumatra where its rural residents have a higher probability of migrating inter-provincially than its urban residents.",
+  "authors": [
+    {
+      "raw": "Pardede, Elda Luciana",
+      "family": "Pardede",
+      "given": "Elda Luciana"
+    },
+    {
+      "raw": "McCann, Philip",
+      "family": "McCann",
+      "given": "Philip"
+    },
+    {
+      "raw": "Venhorst, Viktor A.",
+      "family": "Venhorst",
+      "given": "Viktor A."
+    }
+  ],
+  "authors_text": "Pardede, Elda Luciana; McCann, Philip; Venhorst, Viktor A.",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2020,
+  "doi": "10.1080/17441730.2020.1774139",
+  "doi_url": "https://doi.org/10.1080/17441730.2020.1774139",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2020.1774139",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2020.1774139.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

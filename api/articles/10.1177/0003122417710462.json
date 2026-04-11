@@ -1,0 +1,50 @@
+{
+  "title": "Where Old Heads Prevail: Inmate Hierarchy in a Men's Prison Unit",
+  "abstract": "Research on inmate social order, a once-vibrant area, receded just as U.S. incarceration rates climbed and the country's carceral contexts dramatically changed. This study returns to inmate society with an abductive mixed-methods investigation of informal status within a contemporary men's prison unit. We collected narrative and social network data from 133 male inmates housed in a unit of a Pennsylvania medium-security prison. Analyses of inmate narratives suggest that unit old heads provide collective goods in the form of mentoring and role modeling that foster a positive and stable peer environment. We test this hypothesis with Exponential Random Graph Models (ERGMs) of peer nomination data. The ERGM results complement the qualitative analysis and suggest that older inmates and inmates who have been on the unit longer are perceived by their peers as powerful and influential. Both analytic strategies point to the maturity of aging and the acquisition of local knowledge as important for attaining informal status in the unit. In summary, this mixed-methods case study extends theoretical insights of classic prison ethnographies, adds quantifiable results capable of future replication, and points to a growing population of older inmates as important for contemporary prison social organization.",
+  "authors": [
+    {
+      "raw": "Kreager, Derek A.",
+      "family": "Kreager",
+      "given": "Derek A."
+    },
+    {
+      "raw": "Young, Jacob T. N.",
+      "family": "Young",
+      "given": "Jacob T. N."
+    },
+    {
+      "raw": "Haynie, Dana L.",
+      "family": "Haynie",
+      "given": "Dana L."
+    },
+    {
+      "raw": "Bouchard, Martin",
+      "family": "Bouchard",
+      "given": "Martin"
+    },
+    {
+      "raw": "Schaefer, David R.",
+      "family": "Schaefer",
+      "given": "David R."
+    },
+    {
+      "raw": "Zajac, Gary",
+      "family": "Zajac",
+      "given": "Gary"
+    }
+  ],
+  "authors_text": "Kreager, Derek A.; Young, Jacob T. N.; Haynie, Dana L.; Bouchard, Martin; Schaefer, David R.; Zajac, Gary",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1177/0003122417710462",
+  "doi_url": "https://doi.org/10.1177/0003122417710462",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122417710462",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122417710462.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

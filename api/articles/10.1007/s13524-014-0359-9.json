@@ -1,0 +1,30 @@
+{
+  "title": "Pregnancy Intentions, Maternal Behaviors, and Infant Health: Investigating Relationships With New Measures and Propensity Score Analysis",
+  "abstract": "The premise that unintended childbearing has significant negative effects on the behavior of mothers and on the health of infants strongly influences public health policy and much of current research on reproductive behaviors. Yet, the evidence base presents mixed findings. Using data from the U.S. National Survey of Family Growth, we employ a measure of pregnancy intentions that incorporates the extent of mistiming, as well as the desire scale developed by Santelli et al. (Studies in Family Planning, 40, 87-100, 2009). Second, we examine variation in the characteristics of mothers within intention status groups. Third, we account for the association of mothers' background characteristics with their pregnancy intentions and with the outcomes by employing propensity score weighting. We find that weighting eliminated statistical significance of many observed associations of intention status with maternal behaviors and birth outcomes, but not all. Mistimed and unwanted births were still less likely to be recognized early in pregnancy than intended ones. Fewer unwanted births received early prenatal care or were breast-fed, and unwanted births were also more likely than intended births to be of low birth weight. Relative to births at the highest level of the desire scale, all other births were significantly less likely to be recognized early in pregnancy and to receive early prenatal care.",
+  "authors": [
+    {
+      "raw": "Kost, Kathryn",
+      "family": "Kost",
+      "given": "Kathryn"
+    },
+    {
+      "raw": "Lindberg, Laura",
+      "family": "Lindberg",
+      "given": "Laura"
+    }
+  ],
+  "authors_text": "Kost, Kathryn; Lindberg, Laura",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-014-0359-9",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0359-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0359-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0359-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

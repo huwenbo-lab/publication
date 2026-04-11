@@ -1,0 +1,40 @@
+{
+  "title": "The importance of education for understanding variability of dementia onset in the United States",
+  "abstract": "BACKGROUND Greater levels of education are associated with lower risk of dementia, but less is known about how education is also associated with the compression of dementia incidence. OBJECTIVE We extend the literature on morbidity compression by evaluating whether increased levels of education are associated with greater dementia compression. We evaluate these patterns across race and gender groups. METHODS We use the Health and Retirement Study (2000-2016), a nationally representative longitudinal study of older adults in the United States. To evaluate the onset and compression of dementia across education groups, we examine the age-specific distribution of dementia events, identifying the modal age of onset and the standard deviation above the mode (a measure of compression). RESULTS While the modal age of onset is around 85 years among adults with a college degree, the modal age for adults with less than a high school education occurs before age 65 - at least a 20 -year difference. The standard deviation of dementia onset is about three times greater for adults with less than a high school education compared to adults with a college degree. Patterns were consistent across race and gender groups. CONCLUSION This research highlights the variability of dementia experiences in the older population by documenting differences in longevity without dementia and compression of dementia onset among more educated adults and less educated adults. CONTRIBUTION We incorporate conceptual insights from the life span variability and compression literature to better understand education-dementia disparities in both the postponement and uncertainty of dementia onset in the US population.",
+  "authors": [
+    {
+      "raw": "Cha, Hyungmin",
+      "family": "Cha",
+      "given": "Hyungmin"
+    },
+    {
+      "raw": "Farina, Mateo P.",
+      "family": "Farina",
+      "given": "Mateo P."
+    },
+    {
+      "raw": "Chiu, Chi-Tsun",
+      "family": "Chiu",
+      "given": "Chi-Tsun"
+    },
+    {
+      "raw": "Hayward, Mark D.",
+      "family": "Hayward",
+      "given": "Mark D."
+    }
+  ],
+  "authors_text": "Cha, Hyungmin; Farina, Mateo P.; Chiu, Chi-Tsun; Hayward, Mark D.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.26",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

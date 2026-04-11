@@ -1,0 +1,40 @@
+{
+  "title": "Why do some occupations offer more part-time work than others? Reciprocal dynamics in occupational gender segregation and occupational part-time work in West Germany, 1976-2010",
+  "abstract": "This paper analyzes the reciprocal relationship between occupational gender segregation and occupational part-time work in West Germany over time. Based on a unique occupational panel dataset covering 254 occupations between 1976 and 2010, we apply static, dynamic, and Arellano-Bond panel models to account for reverse causality and endogeneity. Results indicate that trends in occupational part-time rates and gender ratios mutually reinforce each other but not in the same manner. Part-time work in occupations increases once more women start working in these occupations. Occupational part-time ratios are mainly driven by married women and mothers; women's education level only plays a minor role. Vice versa, the gender composition of occupations is likewise affected by changing working-time arrangements, at least in the short run, but it is mainly driven by previous levels of occupational gender segregation.",
+  "authors": [
+    {
+      "raw": "Baechmann, Ann-Christin",
+      "family": "Baechmann",
+      "given": "Ann-Christin"
+    },
+    {
+      "raw": "Gatermann, Doerthe",
+      "family": "Gatermann",
+      "given": "Doerthe"
+    },
+    {
+      "raw": "Kleinert, Corinna",
+      "family": "Kleinert",
+      "given": "Corinna"
+    },
+    {
+      "raw": "Leuze, Kathrin",
+      "family": "Leuze",
+      "given": "Kathrin"
+    }
+  ],
+  "authors_text": "Baechmann, Ann-Christin; Gatermann, Doerthe; Kleinert, Corinna; Leuze, Kathrin",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102685",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102685",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102685",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102685.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

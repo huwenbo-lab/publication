@@ -1,0 +1,25 @@
+{
+  "title": "The Elements of Cultural Power: Novelty, Emotion, Status, and Cultural Capital",
+  "abstract": "Why do certain ideas catch on? What makes some ideas more powerful than others? Using a novel dataset that traces Chinese netizens' discussion of U.S. politics on an online forum, this study examines key predictors of cultural power-novelty, emotion, status, and linguistic features-using an innovative diachronic word-embedding method. The study finds a curvilinear relationship between novelty and resonance, as well as a positive relationship between status and cultural power. Contrary to theoretical expectations, moderate emotions, whether positive or negative, are found to be more effective in evoking resonance than more intense emotions, possibly due to the mediating effect of the forum's group style. Thus, it appears that although extreme sentiments toward the United States may exist, they are not likely to be resonant, at least among more educated Chinese netizens. The study also finds significant effects of linguistic features, such as lexical diversity and the use of English in Chinese discussions. This suggests a Bourdieusian cultural capital signaling and selection path to cultural power, which has not been considered in most studies of resonance.",
+  "authors": [
+    {
+      "raw": "Zhou, Di",
+      "family": "Zhou",
+      "given": "Di"
+    }
+  ],
+  "authors_text": "Zhou, Di",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1177/00031224221123030",
+  "doi_url": "https://doi.org/10.1177/00031224221123030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224221123030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224221123030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

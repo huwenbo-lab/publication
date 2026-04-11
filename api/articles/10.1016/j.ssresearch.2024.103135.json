@@ -1,0 +1,30 @@
+{
+  "title": "Age discrimination in hiring: Relative importance and additive and multiplicative effects",
+  "abstract": "In a preregistered nationwide factorial survey experiment among 5017 Danish employers and 20,068 vignettes, we examined the interplay between applicant age (45-75 years) and other applicant characteristics in hiring discrimination. The experiment enabled us to examine the relative importance of age compared to other forms of hiring discrimination, as well as the additive and multiplicative effects. First, regarding relative importance, our study reveals that discrimination against older applicants outweighs other characteristics and persists regardless of the employer's age. Across all industries and sectors, no other applicant characteristics were found to be statistically significantly more important than age. Second, we identified three multiplicative effects that weaken age discrimination: the employers discriminated less against older applicants in terms of previous unemployment, preference for not working full-time, and being male with a Muslim background. We did not find any multiplicative effects between age and other applicant characteristics that strengthen age discrimination in hiring. Third, after accounting for all multiplicative effects, we found strong additive effects, as applicants who are older and have other disadvantaged characteristics have a likelihood of recruitment that is close to zero.",
+  "authors": [
+    {
+      "raw": "Qvist, Jeevitha Yogachandiran",
+      "family": "Qvist",
+      "given": "Jeevitha Yogachandiran"
+    },
+    {
+      "raw": "Larsen, Christian Albrekt",
+      "family": "Larsen",
+      "given": "Christian Albrekt"
+    }
+  ],
+  "authors_text": "Qvist, Jeevitha Yogachandiran; Larsen, Christian Albrekt",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2024.103135",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103135",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103135",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103135.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

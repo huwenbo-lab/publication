@@ -1,0 +1,30 @@
+{
+  "title": "Gay Pay for Straight Work",
+  "abstract": "Drawing from the gender wage gap literature, we explore four possible causes of sexual minority earnings gaps: (1) variation in human capital and labor force participation, (2) occupational and industrial sorting, (3) differences in the institutional organization of the public and private sector, and (4) different returns to marriage and parenthood. Using the 2006 Census of Canada, we find that heterosexual men earn more than gay men, followed by lesbians and heterosexual women. Oaxaca-Blinder decompositions show that industry of employment, rather than occupation, disadvantages gay men, lesbians, and heterosexual women. High levels of educational attainment lead to employment in lucrative occupations, but sexual minorities earn significantly less than heterosexual men within these occupations. Wage gaps are reduced in the public sector for heterosexual women, gay men, and lesbians. Finally, we find that heterosexual women experience a motherhood penalty, heterosexual men experience a fatherhood premium, and both receive a premium for marriage; however, the presence of children and marriage have no effect on the earnings of either gay men or lesbians in conjugal relationships.",
+  "authors": [
+    {
+      "raw": "Waite, Sean",
+      "family": "Waite",
+      "given": "Sean"
+    },
+    {
+      "raw": "Denier, Nicole",
+      "family": "Denier",
+      "given": "Nicole"
+    }
+  ],
+  "authors_text": "Waite, Sean; Denier, Nicole",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2015,
+  "doi": "10.1177/0891243215584761",
+  "doi_url": "https://doi.org/10.1177/0891243215584761",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243215584761",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243215584761.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

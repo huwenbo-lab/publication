@@ -1,0 +1,35 @@
+{
+  "title": "An Overlapping Cohorts Perspective of Lifespan Inequality",
+  "abstract": "A grow ing lit erature inves ti gates the lev els, trends, causes, and effects of lifespan inequal ity. This work is typ i cally based on mea sures that com bine par tial cohort his to ries into a syn thetic cohort, most fre quently in a period life table, or focus on sin gle (com pleted) cohort anal y sis. We intro duce a new cohort-based method-the overlapping cohorts per spec tive-that pre serves indi vid ual cohort his to ries and aggregates them in a pop u la tion-level mea sure. We apply these new meth ods to describe lev els and trends in lifespan inequal ity and to assess tem po rary and per ma nent mor tality changes in sev eral case stud ies, includ ing the surge of vio lent deaths in Colombia in the 1990s and 2000s and cause-deleted exer cises for top mor tal ity causes such as cardiovas cu lar dis eases and cancer. The results from our approach differ from those of existing meth ods in the tim ing, trends, and lev els of the impact of these mor tal ity develop ments on lifespan inequal ity, bring ing new insights to the study of lifespan inequal ity.",
+  "authors": [
+    {
+      "raw": "Pifarre i Arolas, Hector",
+      "family": "Pifarre i Arolas",
+      "given": "Hector"
+    },
+    {
+      "raw": "Andrade, Jose",
+      "family": "Andrade",
+      "given": "Jose"
+    },
+    {
+      "raw": "Myrskyla, Mikko",
+      "family": "Myrskyla",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Pifarre i Arolas, Hector; Andrade, Jose; Myrskyla, Mikko",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11876384",
+  "doi_url": "https://doi.org/10.1215/00703370-11876384",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11876384",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11876384.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Ethnicity, Democracy, Trust: A Majority-Minority Approach",
+  "abstract": "Why do ethnic and racialized minorities have lower trust? While previous research emphasizes individual factors such as the national and cultural origins of ethnic groups, this paper draws attention to the ethnic majority-minority relationship. We argue that ethnic differences in trust are a function of the power dynamics underlying this relationship and that these dynamics are particularly salient in democratic political systems. To test this argument, we develop new measures of ethnic majority-minority status, which for the first time allows for global cross-national comparison of heterogeneous ethnic groups at the micro level. Using the World Values Survey, we test the majority-minority argument, showing that, while democracy increases generalized trust across the board, it also leads to a gap in trust that favors the majority group. This gap remains even after the inclusion of controls for country differences in factors such as ethnic diversity and GDP.",
+  "authors": [
+    {
+      "raw": "Wilkes, Rima",
+      "family": "Wilkes",
+      "given": "Rima"
+    },
+    {
+      "raw": "Wu, Cary",
+      "family": "Wu",
+      "given": "Cary"
+    }
+  ],
+  "authors_text": "Wilkes, Rima; Wu, Cary",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy027",
+  "doi_url": "https://doi.org/10.1093/sf/soy027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

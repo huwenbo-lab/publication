@@ -1,0 +1,40 @@
+{
+  "title": "The concentration of reproduction in cohorts of women in Europe and the United States",
+  "abstract": "What proportion of women bear what proportion of children? Is reproduction concentrated among relatively few women or is it more equally spread among most women? We address these questions by examining concentration curves and summary statistics for female cohorts with completed fertility in the United States and 18 European countries. Concentration of reproduction designates the amount of inter-individual diversity among women in respect to the number of children they have and is measured by the concentration ratio and by the Havehalf and Halfhave statistics. The decline in the concentration of reproduction described by prior studies has more recently reversed first in the United States and then in western and eastern Europe. At present, the concentration of reproduction tends to be increasing. This trend is predominantly determined by growing childlessness. Increases in the share of women with one child and decreases in the share of women with two children produce additional effects in some countries. The concentration of reproduction is especially high in West Germany and English-speaking countries, and low in most eastern European countries. It is only for the United States that our data con. firm the strong negative correlation between the level of average fertility and concentration found by earlier studies. It appears that the relationship varies across countries and time. In western countries lower average fertility and a higher concentration of reproduction are found among highly educated women; the least educated groups experience higher average fertility and lower concentration of reproduction. This is not the case in countries of eastern Europe. Even in populations with significant fertility differences between racial and social groups, the total amount of diversity is mainly determined by within-group rather than inter-group variation. Monitoring of concentration of reproduction provides important information for making decisions concerning social and family policies.",
+  "authors": [
+    {
+      "raw": "Shkolnikov, Vladimir M.",
+      "family": "Shkolnikov",
+      "given": "Vladimir M."
+    },
+    {
+      "raw": "Andreev, Evgueni M.",
+      "family": "Andreev",
+      "given": "Evgueni M."
+    },
+    {
+      "raw": "Houle, Rene",
+      "family": "Houle",
+      "given": "Rene"
+    },
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    }
+  ],
+  "authors_text": "Shkolnikov, Vladimir M.; Andreev, Evgueni M.; Houle, Rene; Vaupel, James W.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2007,
+  "doi": "10.1111/j.1728-4457.2007.00159.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2007.00159.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2007.00159.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2007.00159.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Family Size, Cognitive Outcomes, and Familial Interaction in Stable, Two-Parent Families: United States, 1997–2002",
+  "abstract": "Abstract Measures of children’s time use, particularly with parents and siblings, are used to evaluate three hypotheses in relation to the vocabulary and mathematical skills development: (1) the resource dilution hypothesis, which argues that parental and household resources are diluted in larger families; (2) the confluence hypothesis, which suggests that the intellectual milieu of families is lowered with additional children; and (3) the admixture (“no effect”) hypothesis, which suggests that the negative relationship between family size and achievement is an artifact of cross-sectional research resulting from unobserved heterogeneity. Each hypothesis is tested using within-child estimates of change in cognitive scores over time with the addition of new children to families.",
+  "authors": [
+    {
+      "raw": "Sandberg, John",
+      "family": "Sandberg",
+      "given": "John"
+    },
+    {
+      "raw": "Rafail, Patrick",
+      "family": "Rafail",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Sandberg, John; Rafail, Patrick",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0331-8",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0331-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0331-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0331-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

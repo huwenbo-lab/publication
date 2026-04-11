@@ -1,0 +1,35 @@
+{
+  "title": "Sexual orientation on Zoe: A global analysis of a lesbian dating app",
+  "abstract": "BACKGROUND The global LGBTQIA+ population is growing, especially among younger generations. However, most research on sexual orientation focuses on wealthy anglophone Western countries, limiting understanding of emerging identities, such as asexuality, in a global context. This study addresses this gap by analyzing a diverse international sample. OBJECTIVE This study examines how sexual orientation is expressed globally, exploring variations across regions and age groups. It also acknowledges that social and cultural environments may influence identity diversity and disclosure. METHODS Using data from Zoe, a queer women and nonbinary dating app, the study analyzes 913,253 users from 122 countries between January 2023 and May 2025. It examines self-reported sexual identities and their distribution across geography and age. RESULTS Lesbian and bisexual identities are the most common worldwide, while countries in the Global North show greater diversity. Younger generations display more heterogeneity, with higher proportions identifying as bisexual or queer. High rates of missing data in some regions may indicate contextual differences in users' willingness or ability to disclose their identities. CONCLUSIONS Patterns in sexual identity expression appear to be associated with sociocultural contexts. Greater diversity in wealthier nations and among younger generations suggests that societal acceptance and generational change may influence identity expression. CONTRIBUTION By leveraging a large-scale global dataset, this study provides descriptive evidence of LGBTQIA+ identities beyond Anglo-Saxon contexts. The findings highlight the value of integrating digital trace data and regional diversity into more inclusive approaches to global demographic research on sexuality.",
+  "authors": [
+    {
+      "raw": "Rampazzo, Francesco",
+      "family": "Rampazzo",
+      "given": "Francesco"
+    },
+    {
+      "raw": "Winer, Canton",
+      "family": "Winer",
+      "given": "Canton"
+    },
+    {
+      "raw": "Kovacic, Milan",
+      "family": "Kovacic",
+      "given": "Milan"
+    }
+  ],
+  "authors_text": "Rampazzo, Francesco; Winer, Canton; Kovacic, Milan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.38",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.38",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.38",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.38.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

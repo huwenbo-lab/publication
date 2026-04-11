@@ -1,0 +1,35 @@
+{
+  "title": "Educational Selectivity and Immigrants' Labour Market Performance in Europe",
+  "abstract": "This article depicts the selectivity profiles of first-generation immigrants of multiple origins in 18 European destinations and investigates whether educational selectivity is relevant to their labour market performance. The theoretical account starts from the premise that the relative position individuals occupy in the educational distribution of their origin country represents-frequently unmeasured-characteristics such as motivation, skills, and resources, which matter for immigrants' incorporation into the labour market in their destination countries. The empirical analyses are based on data from the European Social Survey for the destination countries, and from the Barro-Lee Educational Attainment Dataset for the origin countries. The findings reveal that immigrants are mostly positively selected with regard to their educational attainment. At the same time, they point to considerable variation in the degree of selectivity across migrants from different regions of the world, as well as across different destinations. Results of linear multilevel regression models of occupational status indicate that over and above the absolute level of educational attainment, first-generation immigrants profit from a favourable position in the educational distribution of their origin country. Conversely, there are indications that selectivity is negatively associated with the likelihood of being employed.",
+  "authors": [
+    {
+      "raw": "Schmidt, Regine",
+      "family": "Schmidt",
+      "given": "Regine"
+    },
+    {
+      "raw": "Kristen, Cornelia",
+      "family": "Kristen",
+      "given": "Cornelia"
+    },
+    {
+      "raw": "Muhlau, Peter",
+      "family": "Muhlau",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Schmidt, Regine; Kristen, Cornelia; Muhlau, Peter",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab042",
+  "doi_url": "https://doi.org/10.1093/esr/jcab042",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab042",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab042.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

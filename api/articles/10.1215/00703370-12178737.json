@@ -1,0 +1,30 @@
+{
+  "title": "Retirement Trajectories and Health in Japan",
+  "abstract": "The relationship between retirement and health is a critical issue in rap idly aging societies. Numerous studies have investigated the effect of retirement on subsequent health, but this research has paid little attention to heterogeneous patterns of retirement. To address this limitation, we examine the relationship between retire ment pathways from fulltime regular employment and health. Using the 2005-2019 Longitudinal Survey of Middleaged and Elderly Persons conducted in Japan, the world's oldest country, we first use sequence analysis to identify distinct retirement trajectories at ages 59-66. We then evaluate alternative approaches to estimate rela tionships between these retirement trajectories and an index measure of self rated health. Results of ordinary least squares and inverse probabilityweighted regression adjustment models show that both gradual and abrupt retirement are associated with worse health relative to continued regular employment. In contrast, estimates from instrumental variable models are imprecise and provide no clear evidence of a rela tionship between retirement trajectories and health. Results are generally robust to sensitivity checks. These findings help establish an empirical foundation for under standing the potential implications of heterogeneous retirement pathways for health at older ages in the context of mandatory retirement policies and rapid population aging.",
+  "authors": [
+    {
+      "raw": "Mizuochi, Masaaki",
+      "family": "Mizuochi",
+      "given": "Masaaki"
+    },
+    {
+      "raw": "Raymo, James M.",
+      "family": "Raymo",
+      "given": "James M."
+    }
+  ],
+  "authors_text": "Mizuochi, Masaaki; Raymo, James M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-12178737",
+  "doi_url": "https://doi.org/10.1215/00703370-12178737",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12178737",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12178737.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

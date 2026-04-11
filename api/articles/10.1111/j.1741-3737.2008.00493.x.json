@@ -1,0 +1,25 @@
+{
+  "title": "Family Structure Effects on Maternal and Paternal Parenting in Low‐Income Families",
+  "abstract": "Using longitudinal data from the Fragile Families and Child Wellbeing Survey, a birth cohort study, this study analyzes the effect of family structure on parenting for 3,402 mothers and 2,615 fathers. To address the problem of omitted variable bias, fixed effects methods are used to control for the presence of time‐invariant unobserved characteristics that may counfound estimates. Marriage by itself did not influence the parenting of mothers or fathers, and there was little effect of family structure on maternal parenting. The presence of a romantic partner was important, as fathers who repartner had lower engagement scores and mothers reported cohabiting stepfathers to be more involved in the family’s life as compared to married biological fathers.",
+  "authors": [
+    {
+      "raw": "Gibson‐Davis, Christina M.",
+      "family": "Gibson‐Davis",
+      "given": "Christina M."
+    }
+  ],
+  "authors_text": "Gibson‐Davis, Christina M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2008,
+  "doi": "10.1111/j.1741-3737.2008.00493.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2008.00493.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2008.00493.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2008.00493.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

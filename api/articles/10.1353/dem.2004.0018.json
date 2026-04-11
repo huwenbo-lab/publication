@@ -1,0 +1,35 @@
+{
+  "title": "A new method for correcting under-estimation of disabled life expectancy and an application to the chinese oldest-old",
+  "abstract": "AbstractThis article demonstrates that disabled life expectancies that are based on conventional multistate life-table methods are significantly underestimated because of the assumption of no changes in functional status between age x and death. We present a new method to correct the bias and apply it to data from a longitudinal survey of about 9,000 oldest-old Chinese aged 80–105 collected in 1998 and 2000. In our application, the age trajectories of disability (activities of daily living—ADL), status-specific death rates, and the probabilities of transitions between ADL states of the oldest-old were investigated for the first time in a developing country. In this article, we report estimates of bias-corrected disabled and active life expectancies of the Chinese oldest-old and demonstrate patterns of large differences associated with initial status, gender, and advances in ages. Using combined information on ADL disabilities and length of having been bedridden before dying, we analyze gender and age patterns of the extent of morbidity before dying among the oldest-old and their implications for debates on the hypothesis of compression of morbidity.",
+  "authors": [
+    {
+      "raw": "Yi, Zeng",
+      "family": "Yi",
+      "given": "Zeng"
+    },
+    {
+      "raw": "Danan, Gu",
+      "family": "Danan",
+      "given": "Gu"
+    },
+    {
+      "raw": "Land, Kenneth C.",
+      "family": "Land",
+      "given": "Kenneth C."
+    }
+  ],
+  "authors_text": "Yi, Zeng; Danan, Gu; Land, Kenneth C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0018",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

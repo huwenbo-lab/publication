@@ -1,0 +1,30 @@
+{
+  "title": "Able but Unwilling to Enforce: Cooperative Dilemmas in Group Lending",
+  "abstract": "It is known that greater social cohesion increases a group's ability to enforce cooperation. Despite this, defectors often go unpunished, and groups with social structures that are a priori favorable often fail. A critical distinction is required between the structural effect on ability versus willingness to punish. The authors develop a theoretical framework in which variation in a group's social structure generates a tension between ability and willingness to enforce cooperation. Structures that promote ability to punish also often reduce interest in carrying out sanctions, thus changing collective outcomes. The authors' empirical analysis involves a well-defined cooperative dilemma: group lending in Sierra Leone. They complement statistical modeling, based on a data set containing 5,487 group repayments, with ethnographic analysis. They find that (1) structural cohesion only increases economic cooperation between borrowers to a point, beyond which unwillingness outweighs increased ability to punish, reducing group repayments, and that (2) groups with disconnected subgroups perform worse on average. Although borrowers are more willing to punish defectors in the out-subgroup, they are unable to do so effectively.",
+  "authors": [
+    {
+      "raw": "Sabin, Nicholas",
+      "family": "Sabin",
+      "given": "Nicholas"
+    },
+    {
+      "raw": "Reed-Tsochas, Felix",
+      "family": "Reed-Tsochas",
+      "given": "Felix"
+    }
+  ],
+  "authors_text": "Sabin, Nicholas; Reed-Tsochas, Felix",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2020,
+  "doi": "10.1086/709105",
+  "doi_url": "https://doi.org/10.1086/709105",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F709105",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/709105.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

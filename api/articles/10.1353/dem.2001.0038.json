@@ -1,0 +1,35 @@
+{
+  "title": "Life expectancies in specific health states: Results from a joint model of health status and mortality of older persons",
+  "abstract": "Abstract With the trend toward aging, increases in health care expenditures are expected. Insight into (future) needs for care services requires a taxonomy of older persons’ health conditions: how health status develops as people age and how these health conditions determine residual life expectancy. In this paper we provide this information for the Netherlands. We apply a flexible nonparametric method—he Grade of Membership method—to a national database and summarize the multidimensional concept of health status into a limited set of interpretable indices. We then use these indices in our panel data model for health status and mortality. The model results are used to calculate age-health profiles and expected residual lifetimes in specific health states.",
+  "authors": [
+    {
+      "raw": "Portrait, France",
+      "family": "Portrait",
+      "given": "France"
+    },
+    {
+      "raw": "Lindeboom, Maarten",
+      "family": "Lindeboom",
+      "given": "Maarten"
+    },
+    {
+      "raw": "Deeg, Dorly",
+      "family": "Deeg",
+      "given": "Dorly"
+    }
+  ],
+  "authors_text": "Portrait, France; Lindeboom, Maarten; Deeg, Dorly",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.1353/dem.2001.0038",
+  "doi_url": "https://doi.org/10.1353/dem.2001.0038",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2001.0038",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2001.0038.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Escaping uncertainty through downward mobility? Occupational mobility upon transition to permanent employment in Germany and in Poland",
+  "abstract": "Extending existing research on transitions from temporary to permanent employment this article investigates the social mobility dimension of these transitions. Specifically, it asks whether certain individuals experience downward occupational mobility while moving from temporary to permanent employment in the two countries under study, Germany and Poland. The empirical analysis of the employment histories of young individuals until age 35 involves event history modelling using Cox proportional hazards methodology and is conducted on data from the German Socioeconomic Panel (G-SOEP) and the Polish Panel Survey (POLPAN) for the period 2003-2017/2018. In the study, transitions to permanent employment with and without downward occupational mobility are defined as competing events and modeled separately. The analysis reveals that ten per cent and as much as seventeen per cent of moves to permanent employment in Germany and Poland, respectively, are accompanied by a loss in occupational status. A higher prevalence of downward mobility in Poland may result from a weaker welfare state there which is less decommodifying. Furthermore, a low level of individual eco-nomic vulnerability decreases the transition rate to permanent employment involving a drop in occupational status. In Poland, the high socioeconomic position of the family of origin deters from changing to an unlimited contract with downward mobility. In Germany, married or partnered individuals who enjoy a high household income bear a lower risk of transitioning to permanent employment with status loss.",
+  "authors": [
+    {
+      "raw": "Kopycka, Katarzyna",
+      "family": "Kopycka",
+      "given": "Katarzyna"
+    }
+  ],
+  "authors_text": "Kopycka, Katarzyna",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100768",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100768",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100768",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100768.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

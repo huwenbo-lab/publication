@@ -1,0 +1,25 @@
+{
+  "title": "A Life Course Trajectory Framework for Understanding the Intracohort Pattern of Wage Inequality",
+  "abstract": "Much research has been devoted to cross-sectional and intercohort patterns of wage inequality, but relatively little is known about the mechanisms for the intracohort pattern of wage inequality. To fill this intellectual gap, this article establishes a life course trajectory (LCT) framework for understanding the intracohort pattern of wage inequality. First, the author proposes and conceptualizes three essential properties of the LCT framework (random variability, trajectory heterogeneity, and cumulative advantage) that are used to establish a mathematical formalization of the LCT framework. Both the conceptualization and the formalization imply that intracohort wage inequality will increase over the life course due to random variability, trajectory heterogeneity, and cumulative advantage. Finally, the author combines the LCT framework with the multilevel growth curve model, then applies the model to data from the NLSY79, and finds support for the significance of random variability, trajectory heterogeneity, and between-group cumulative advantage properties but not the within-group cumulative advantage property.",
+  "authors": [
+    {
+      "raw": "Cheng, Siwei",
+      "family": "Cheng",
+      "given": "Siwei"
+    }
+  ],
+  "authors_text": "Cheng, Siwei",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2014,
+  "doi": "10.1086/679103",
+  "doi_url": "https://doi.org/10.1086/679103",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F679103",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/679103.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

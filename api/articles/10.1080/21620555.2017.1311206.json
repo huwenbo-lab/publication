@@ -1,0 +1,25 @@
+{
+  "title": "Birth Weight, Family Socioeconomic Status, and Cognitive Skills Among Chinese Adolescents",
+  "abstract": "The long-term impact of birth weight on cognitive development has been well documented, yet whether the determining role of the endowment can be moderated by family socioeconomic status (SES) is less understood. Using data from the 2010 baseline survey of the China Family Panel Studies (CFPS), this study investigates whether family background influences the association between birth weight and cognitive achievement among Chinese adolescents ages 10-22. Results from an ordinary least squares (OLS) regression show that an increase in birth weight leads to significant improvement in math and word adaptive test scores after adjustment for parents' cognitive skills. Family SES could potentially cushion health shocks at birth, as parents with higher levels of education are more capable of helping their children with lower birth weights to catch up with healthier children in terms of cognitive development. The findings suggest that social programs aiming to reduce health and education inequalities should pay particular attention to enhancing prenatal care, child care, and parenting skills, and priority should be given to low-SES families.",
+  "authors": [
+    {
+      "raw": "Miao, Jia",
+      "family": "Miao",
+      "given": "Jia"
+    }
+  ],
+  "authors_text": "Miao, Jia",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1080/21620555.2017.1311206",
+  "doi_url": "https://doi.org/10.1080/21620555.2017.1311206",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2017.1311206",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2017.1311206.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

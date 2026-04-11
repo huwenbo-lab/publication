@@ -1,0 +1,30 @@
+{
+  "title": "Parental STEM credentials and children's schooling progress in immigrant and US born families",
+  "abstract": "Although many previous studies have examined the outcomes of STEM graduates, there is very limited research examining the educational attainment of their children. Given the increasing contribution of immigration to the supply of STEM graduates, we use data from the ACS to examine disparities in children's schooling progress in the families of immigrant and U.S born STEM graduates. Our analysis shows several findings. First, the children of STEM graduates are less likely to fall behind in school than the children of graduates in Business, Arts/Humanities, and other fields of study. This relative STEM advantage is, however, stronger in immigrant than U.S born families. Second, the children of immigrant STEM graduates have more favorable outcomes than the children of U.S. born STEM graduates; however, the favorable outcomes of the former are more consistent for children whose parents have U.S. rather than foreign STEM degrees. Finally, our results show that it is only among the children of STEM graduates that we find lower odds of schooling progress among 1.75- compared to second-generation children. These odds are statistically significant, implying that there is some convergence in the outcomes of firstand second-generation children of immigrant STEM graduates.",
+  "authors": [
+    {
+      "raw": "Thomas, Kevin J. A.",
+      "family": "Thomas",
+      "given": "Kevin J. A."
+    },
+    {
+      "raw": "Lonobile, Cheyenne",
+      "family": "Lonobile",
+      "given": "Cheyenne"
+    }
+  ],
+  "authors_text": "Thomas, Kevin J. A.; Lonobile, Cheyenne",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102601",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102601",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102601",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102601.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

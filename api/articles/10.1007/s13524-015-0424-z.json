@@ -1,0 +1,35 @@
+{
+  "title": "The Long-Term Health Implications of Marital Disruption: Divorce, Work Limits, and Social Security Disability Benefits Among Men",
+  "abstract": "We provide new evidence on the long-term impact of divorce on work disability among U.S. men. Using data from the 2004 Survey of Income and Program Participation linked to U.S. Social Security Administration records, we assess the relationship between divorce and subsequent self-reports of work limitations and the receipt of federal disability benefits. The examination of self-reports and administrative records of medically qualified benefits provides dual confirmation of key relationships. We compare men who experienced a marital dissolution between 1975 and 1984 with continuously married men for 20 years following divorce using fixed-effects and propensity score matching models, and choose a sample to help control for selection into divorce. On average, we find that divorce is not associated with an increased probability of self-reported work limitations or receipt of disability benefits over the long run. However, among those who do not remarry, we do find that divorce increases men's long-term probability of both self-reported work limitations and federal disability benefit receipt. Lack of marital resources may drive this relationship. Alternative estimates that do not control for selection into divorce demonstrate that selection bias can substantially alter findings regarding the relationship between marital status changes and subsequent health.",
+  "authors": [
+    {
+      "raw": "Couch, Kenneth A.",
+      "family": "Couch",
+      "given": "Kenneth A."
+    },
+    {
+      "raw": "Tamborini, Christopher R.",
+      "family": "Tamborini",
+      "given": "Christopher R."
+    },
+    {
+      "raw": "Reznik, Gayle L.",
+      "family": "Reznik",
+      "given": "Gayle L."
+    }
+  ],
+  "authors_text": "Couch, Kenneth A.; Tamborini, Christopher R.; Reznik, Gayle L.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0424-z",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0424-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0424-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0424-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

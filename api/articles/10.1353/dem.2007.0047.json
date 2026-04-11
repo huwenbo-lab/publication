@@ -1,0 +1,35 @@
+{
+  "title": "The impact of childhood mortality on Fertility in six rural Thanas of Bangladesh",
+  "abstract": "AbstractIn this article, we examine the relationship between child mortality and subsequent fertility using prospective longitudinal data on births and childhood deaths occurring to nearly 8,000 Bangladeshi mothers observed over the 1982–1993 period, a time of rapid fertility decline. Generalized hazard-regression analyses are employed to assess the effect of infant and child mortality on the hazard of conception, with controls for birth order and maternal age and educational attainment. Results show that childhood mortality reduces the time to subsequent conception if the death occurs within a given interval, representing the combined effect of biological and volitional replacement. The time to conception is also reduced if a childhood death occurs during a prior birth interval, a finding that signifies an effect of volitional replacement of the child that died. Moreover, mortality effects in prior birth intervals are consistent with hypothesized insurance (or hoarding) effects. Interaction of replacement with elapsed time suggests that the volitional impact of child mortality increases as the demographic transition progresses. This volitional effect interacts with sex of index child. Investigation of higher-order interactions suggests that this gender-replacement effect has not changed over time.",
+  "authors": [
+    {
+      "raw": "Hossain, Mian Bazle",
+      "family": "Hossain",
+      "given": "Mian Bazle"
+    },
+    {
+      "raw": "Phillips, James F.",
+      "family": "Phillips",
+      "given": "James F."
+    },
+    {
+      "raw": "Legrand, Thomas K.",
+      "family": "Legrand",
+      "given": "Thomas K."
+    }
+  ],
+  "authors_text": "Hossain, Mian Bazle; Phillips, James F.; Legrand, Thomas K.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0047",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0047",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0047",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0047.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

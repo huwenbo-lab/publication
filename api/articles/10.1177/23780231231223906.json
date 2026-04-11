@@ -1,0 +1,25 @@
+{
+  "title": "Diversity and Dynamics in Care Networks of Older Americans",
+  "abstract": "Despite growing interest in exploring caregiving alternatives beyond traditional models, limited research has focused on the diverse care networks that provide assistance to older adults. The aim of this study is to illuminate the complexity of older adults’ care networks by developing a typology that considers care from various sources. Using latent class analysis on longitudinal data from the National Health and Aging Trends Study, the authors identify five distinct care network types: spousal care, care exclusively from children, care from both children and other sources, self-care with assistive technology, and care exclusively from nonfamily sources. Further analysis, including multinomial logistic regression and latent transition analysis, reveals that when a spouse is available, older adults, particularly older men, are more likely to rely on spousal care. However, in cases in which spouses and/or children are unavailable, older adults are inclined to turn to diverse care networks involving nontraditional caregivers or resort to self-care using assistive technologies. Additionally, declining health conditions are associated with a higher likelihood of receiving care from more varied care networks. This underscores the evolving nature of care arrangements in response to changing family structures and health needs.",
+  "authors": [
+    {
+      "raw": "Lin, Zhiyong",
+      "family": "Lin",
+      "given": "Zhiyong"
+    }
+  ],
+  "authors_text": "Lin, Zhiyong",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231231223906",
+  "doi_url": "https://doi.org/10.1177/23780231231223906",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231223906",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231223906.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

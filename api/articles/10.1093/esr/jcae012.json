@@ -1,0 +1,30 @@
+{
+  "title": "Determinants of ethnic harassment among first- and second-generation immigrants in Europe",
+  "abstract": "The topic of this study is the experiences of ethnic harassment (EH) among first- and second-generation immigrants in Europe. EH is defined as unwanted conduct related to racial or ethnic origin that creates an intimidating, hostile, or offensive environment. Previous research has shown that EH has a negative impact on the health, well-being, and integration of immigrants. However, little is known about which immigrants are more likely to experience EH. This study aims to fill this gap. We develop a theoretical framework for understanding EH and use it to generate hypotheses about individual-level characteristics. We test these hypotheses using data from the Second European Union Minorities and Discrimination Survey and analyze the experiences of EH among 12,596 immigrants in 17 European countries. Largely in line with theoretical expectations, results from logistic regression models reveal that immigrants are more likely to experience EH if they are Muslim, wear religious clothing, are from the second generation, are higher educated, are proficient in the host-country language, and perceive themselves to be overqualified for their job and face more economic hardship.",
+  "authors": [
+    {
+      "raw": "van Tubergen, Frank",
+      "family": "van Tubergen",
+      "given": "Frank"
+    },
+    {
+      "raw": "Kros, Mathijs",
+      "family": "Kros",
+      "given": "Mathijs"
+    }
+  ],
+  "authors_text": "van Tubergen, Frank; Kros, Mathijs",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcae012",
+  "doi_url": "https://doi.org/10.1093/esr/jcae012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

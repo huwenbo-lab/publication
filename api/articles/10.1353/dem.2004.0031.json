@@ -1,0 +1,30 @@
+{
+  "title": "Family structure and children’s educational outcomes: Blended families, stylized facts, and descriptive regressions",
+  "abstract": "AbstractThis article adds to the growing literature describing correlations between children’s educational outcomes and family structure. Popular discussions have focused on the distinction between two-parent families and single-parent families. This article shows that educational outcomes for both types of children in blended families—stepchildren and their half-siblings who are the joint children of both parents—are similar to each other and substantially worse than outcomes for children reared in traditional nuclear families. We conclude that as a description of the data, the crucial distinction is between children reared in traditional nuclear families (i.e., families in which all children are the joint children of both parents) and children reared in other family structures (e.g., single-parent families or blended families). We then turn from “stylized facts” (i.e., simple correlations) that control only for family structure to “descriptive regressions” that control for other variables such as family income. When controls for other variables are introduced, the relationship between family structure and children’s educational outcomes weakens substantially and is often statistically insignificant.",
+  "authors": [
+    {
+      "raw": "Ginther, Donna K.",
+      "family": "Ginther",
+      "given": "Donna K."
+    },
+    {
+      "raw": "Pollak, Robert A.",
+      "family": "Pollak",
+      "given": "Robert A."
+    }
+  ],
+  "authors_text": "Ginther, Donna K.; Pollak, Robert A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0031",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

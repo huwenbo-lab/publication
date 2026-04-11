@@ -1,0 +1,30 @@
+{
+  "title": "Technologies and Health Inequities",
+  "abstract": "Health technologies aim to improve individual and population health, but they may also exacerbate health disparities. Focusing on the specific design features of technologies, their availability, and their use, we present a conceptual framework to examine how health technologies may benefit some groups more than others by combining the theory of fundamental causes with a technology-in-practice approach. We examine three classes of technologies that have been associated with health inequities: once-advanced technologies such as kidney dialysis and transplantation for end-stage renal disease, which have been plagued by issues of scarcity and fair distribution, generating racial disparities; the highly anticipated precision medicine promising to change the focus from population to individualized medicine; and digital technologies, which may herald a democratization of health care.",
+  "authors": [
+    {
+      "raw": "Timmermans, Stefan",
+      "family": "Timmermans",
+      "given": "Stefan"
+    },
+    {
+      "raw": "Kaufman, Rebecca",
+      "family": "Kaufman",
+      "given": "Rebecca"
+    }
+  ],
+  "authors_text": "Timmermans, Stefan; Kaufman, Rebecca",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2020,
+  "doi": "10.1146/annurev-soc-121919-054802",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-121919-054802",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-121919-054802",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-121919-054802.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

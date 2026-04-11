@@ -1,0 +1,30 @@
+{
+  "title": "How Segregation Ruins Inference: A Sociological Simulation of the Inequality Equilibrium",
+  "abstract": "Why do many people underestimate economic and racial inequality and maintain that theirs is a meritocratic society? Existing work suggests that people are rationalizing, misinformed, or misled. This article proposes an additional explanation: Inequality itself makes economic and racial disparities difficult to understand. In unequal societies, individuals establish their networks at formative institutions patterned by class and race. As a result, they unwittingly condition on key causal pathways when making descriptive and causal inferences about inequality. We use a simple agent-based model to show that, under circumstances typical to highly stratified societies, individuals will underestimate the extent of economic and racial inequality, downplay the importance of inherited advantages, and overestimate the relative importance of individual ability. Moreover, we show that they will both underestimate the extent of racial discrimination and overestimate its relative importance. Because segregated social worlds bias inference in these ways, all individuals (rich and poor) have principled reasons to favor less redistribution than they would if their social worlds were more integrated.",
+  "authors": [
+    {
+      "raw": "Mijs, Jonathan J. B.",
+      "family": "Mijs",
+      "given": "Jonathan J. B."
+    },
+    {
+      "raw": "Usmani, Adaner",
+      "family": "Usmani",
+      "given": "Adaner"
+    }
+  ],
+  "authors_text": "Mijs, Jonathan J. B.; Usmani, Adaner",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae033",
+  "doi_url": "https://doi.org/10.1093/sf/soae033",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae033",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae033.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

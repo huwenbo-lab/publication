@@ -1,0 +1,30 @@
+{
+  "title": "Status and Interaction",
+  "abstract": "Status inequality is a matter both of the distribution of persons to status positions (men and women, highly educated and poorly educated, young and old) and of the value of those positions relative to one another. The authors’ work focuses on the second issue. The authors propose a stochastic model for how status value can be measured on a ratio scale from data on how occupancy of macro-status positions influences the micro-status orderings of actors that arise in task groups. The model is tested on three available data sets by estimating parameters and assessing goodness of fit.",
+  "authors": [
+    {
+      "raw": "Skvoretz, John",
+      "family": "Skvoretz",
+      "given": "John"
+    },
+    {
+      "raw": "Fararo, Thomas J.",
+      "family": "Fararo",
+      "given": "Thomas J."
+    }
+  ],
+  "authors_text": "Skvoretz, John; Fararo, Thomas J.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2016,
+  "doi": "10.1177/2378023115621561",
+  "doi_url": "https://doi.org/10.1177/2378023115621561",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023115621561",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023115621561.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

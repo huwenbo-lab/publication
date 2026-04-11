@@ -1,0 +1,40 @@
+{
+  "title": "Foreign-born emigration: A new approach and estimates based on matched CPS files",
+  "abstract": "Abstract The utility of postcensal population estimates depends on the adequate measurement of four major components of demographic change: fertility, mortality, immigration, and emigration. Of the four components, emigration, especially of the foreign-born, has proved the most difficult to gauge. Without “direct” methods (i.e., methods identifying who emigrates and when), demographers have relied on indirect approaches, such as residual methods. Residual estimates, however, are sensitive to inaccuracies in their constituent parts and are particularly ill-suited for measuring the emigration of recent arrivals. Here we introduce a new method for estimating foreign-born emigration that takes advantage of the sample design of the Current Population Survey (CPS): repeated interviews of persons in the same housing units over a period of 16 months. Individuals appearing in a first March Supplement to the CPS but not the next include those who died in the intervening year, those who moved within the country, and those who emigrated. We use statistical methods to estimate the proportion of emigrants among those not present in the follow-up interview. Our method produces emigration estimates that are comparable to those from residual methods in the case of longer-term residents (immigrants who arrived more than 10 years ago), but yields higher—and what appear to be more accurate—estimates for recent arrivals. Although somewhat constrained by sample size, we also generate estimates by age, sex, region of birth, and duration of residence in the United States.",
+  "authors": [
+    {
+      "raw": "Van Hook, Jennifer",
+      "family": "Van Hook",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Zhang, Weiwei",
+      "family": "Zhang",
+      "given": "Weiwei"
+    },
+    {
+      "raw": "D. Bean, Frank",
+      "family": "D. Bean",
+      "given": "Frank"
+    },
+    {
+      "raw": "S. Passel, Jeffrey",
+      "family": "S. Passel",
+      "given": "Jeffrey"
+    }
+  ],
+  "authors_text": "Van Hook, Jennifer; Zhang, Weiwei; D. Bean, Frank; S. Passel, Jeffrey",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2006,
+  "doi": "10.1353/dem.2006.0013",
+  "doi_url": "https://doi.org/10.1353/dem.2006.0013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2006.0013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2006.0013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

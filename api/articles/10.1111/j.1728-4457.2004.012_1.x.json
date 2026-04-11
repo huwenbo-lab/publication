@@ -1,0 +1,30 @@
+{
+  "title": "The determinants of gender equity in India: Examining Dyson and Moore's thesis with new data",
+  "abstract": "In revisiting the influential Dyson and Moore (1983) hypothesis as to why women in South India enjoy relatively more agency than in the North, we conducted an econometric analysis of the determinants of women's mobility and decisionmaking authority. Data for the study come from a household data survey carried out in the Northern state of Uttar Pradesh and in the Southern state of Karnataka in 1995. We find that cross-cousin and uncle-niece marriage is more prevalent in Karnataka as expected. Contrary to Dyson and Moore, however, by 1995 a majority of communities in both North and South practiced village exogamy, and dowries in the two regions were of similar size. Reduced-form, multivariate regressions show that cultural factors affect women's autonomy in ways not earlier predicted. The impact of village exogamy is mixed rather than negative, while that of consanguinity is strongly negative rather than positive as Dyson and Moore surmised. These authors correctly identified the negative effect purdah has on female mobility. Consistent with economic theory, our data show that higher wages for women consistently improve their mobility and authority, while higher male wages decrease them. Improvements in infrastructure-particularly the presence of street lights and schools in the village-are associated with increased women's agency. We conclude, therefore, that economic factors, state action, and restrictions on mobility seem more powerful than kinship structures as explanations of differences in female autonomy between North and South India.",
+  "authors": [
+    {
+      "raw": "Rahman, L",
+      "family": "Rahman",
+      "given": "L"
+    },
+    {
+      "raw": "Rao, V",
+      "family": "Rao",
+      "given": "V"
+    }
+  ],
+  "authors_text": "Rahman, L; Rao, V",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2004,
+  "doi": "10.1111/j.1728-4457.2004.012_1.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2004.012_1.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2004.012_1.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2004.012_1.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

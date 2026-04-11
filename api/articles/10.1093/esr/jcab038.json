@@ -1,0 +1,35 @@
+{
+  "title": "When I Was Growing Up: The Lasting Impact of Immigrant Presence on Native-Born American Attitudes towards Immigrants and Immigration",
+  "abstract": "Scholarship, including seminal research on prejudice, identifies adolescence as a critical period for the development of attitudes. Yet most sociological research on prejudice, especially in the form of anti-immigrant sentiment, focuses on the relationship between contemporaneous social conditions and attitudes towards out-groups while neglecting the demographic context during one's impressionable years. Therefore, we design research to investigate the relationship among temporally distal and temporally proximal sub-national contexts and native-born attitudes towards immigration and immigrants. To do this, we merge geocoded data from the General Social Survey (1994-2016) with a unique US state-level dataset (1900-2015). Results from multilevel models reveal that immigrant presence during adolescence is a more consistent predictor of attitudes towards immigration and immigrants in adulthood. Thus, while the majority of sociological research on anti-immigrant sentiment asks if societal conditions matter, our results suggest that a more important question is when the context matters.",
+  "authors": [
+    {
+      "raw": "Eger, Maureen A.",
+      "family": "Eger",
+      "given": "Maureen A."
+    },
+    {
+      "raw": "Mitchell, Jeffrey",
+      "family": "Mitchell",
+      "given": "Jeffrey"
+    },
+    {
+      "raw": "Hjerm, Mikael",
+      "family": "Hjerm",
+      "given": "Mikael"
+    }
+  ],
+  "authors_text": "Eger, Maureen A.; Mitchell, Jeffrey; Hjerm, Mikael",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab038",
+  "doi_url": "https://doi.org/10.1093/esr/jcab038",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab038",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab038.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

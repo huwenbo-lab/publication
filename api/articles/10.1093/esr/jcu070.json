@@ -1,0 +1,25 @@
+{
+  "title": "Exploring the Relationship between Educational Field and Transition to Parenthood--An Analysis of Women and Men in Western Germany",
+  "abstract": "The extensive existing research on the relationship between educational attainment and fertility behaviour has been expanded by adding the new dimension of the specific field of education This article addresses the question of how the educational field influences the transition to parenthood of women and men in western Germany. Using data from the German Socio-Economic Panel (SOEP) (1984–2010), discrete-time event history models are applied, looking at the time after graduation up until the first child is born. The results show that educational fields only affect the transition to parenthood for women and not for men. However, the findings also point at the importance of the educational level for the probability of men becoming fathers. High transition rates are found among women educated in both female-dominated and male-dominated fields while low rates are found among women educated in public sector fields. Further analysis implies that the relationship between women’s educational field and their transition to parenthood is also affected by an underlying set of person-specific preferences.",
+  "authors": [
+    {
+      "raw": "Oppermann, A.",
+      "family": "Oppermann",
+      "given": "A."
+    }
+  ],
+  "authors_text": "Oppermann, A.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1093/esr/jcu070",
+  "doi_url": "https://doi.org/10.1093/esr/jcu070",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcu070",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcu070.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

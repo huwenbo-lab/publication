@@ -1,0 +1,35 @@
+{
+  "title": "Better Estimates from Binned Income Data: Interpolated CDFs and Mean-Matching",
+  "abstract": "Researchers often estimate income statistics from summaries that report the number of incomes in bins such as $0 to 10,000, $10,001 to 20,000, …, $200,000+. Some analysts assign incomes to bin midpoints, but this treats income as discrete. Other analysts fit a continuous parametric distribution, but the distribution may not fit well. We fit nonparametric continuous distributions that reproduce the bin counts perfectly by interpolating the cumulative distribution function (CDF). We also show how both midpoints and interpolated CDFs can be constrained to reproduce the mean of income when it is known. We evaluate the methods in estimating the Gini coefficients of all 3,221 U.S. counties. Fitting parametric distributions is very slow. Fitting interpolated CDFs is much faster and slightly more accurate. Both interpolated CDFs and midpoints give dramatically better estimates if constrained to match a known mean. We have implemented interpolated CDFs in the \"binsmooth\" package for R. We have implemented the midpoint method in the \"rpme\" command for Stata. Both implementations can be constrained to match a known mean.",
+  "authors": [
+    {
+      "raw": "von Hippel, Paul",
+      "family": "von Hippel",
+      "given": "Paul"
+    },
+    {
+      "raw": "Hunter, David",
+      "family": "Hunter",
+      "given": "David"
+    },
+    {
+      "raw": "Drown, McKalie",
+      "family": "Drown",
+      "given": "McKalie"
+    }
+  ],
+  "authors_text": "von Hippel, Paul; Hunter, David; Drown, McKalie",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2017,
+  "doi": "10.15195/v4.a26",
+  "doi_url": "https://doi.org/10.15195/v4.a26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv4.a26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v4.a26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

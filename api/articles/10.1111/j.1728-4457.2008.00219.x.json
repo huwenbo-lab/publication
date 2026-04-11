@@ -1,0 +1,30 @@
+{
+  "title": "Intergenerational coresidence in developing countries",
+  "abstract": "Newly available census microdata from IPUMS-International are used to assess trends in intergenerational coresidence in 15 developing countries. Contrary to expectations, we find no general decline in intergenerational coresidence over the past several decades. There have been, however, significant changes in the configuration of intergenerational coresidence. Families in which a member of the older generation is household head-a configuration consistent with traditional patriarchal forms in which the older generation retains authority-are becoming more common in most of the countries. Intergenerational families headed by a member of the younger generation-the configuration one would expect if intergenerational coresidence were motivated by a need for old-age support-are on the decline in most of the countries. Multivariate analysis reveals that intergenerational families headed by the older generation are positively associated with measures of economic development. These findings are at variance with widely accepted social theory. We hypothesize that housing shortages, economic stress in the younger generation, and old-age pensions may contribute to the change. More broadly, in some developing countries rising incomes may have allowed more people to achieve their preferred family structure of intergenerational coresidence following traditional family forms.",
+  "authors": [
+    {
+      "raw": "Ruggles, Steven",
+      "family": "Ruggles",
+      "given": "Steven"
+    },
+    {
+      "raw": "Heggeness, Misty",
+      "family": "Heggeness",
+      "given": "Misty"
+    }
+  ],
+  "authors_text": "Ruggles, Steven; Heggeness, Misty",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2008,
+  "doi": "10.1111/j.1728-4457.2008.00219.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2008.00219.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2008.00219.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2008.00219.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

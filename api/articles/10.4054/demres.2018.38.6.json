@@ -1,0 +1,40 @@
+{
+  "title": "The role of education in the association between race/ethnicity/nativity, cognitive impairment, and dementia among older adults in the United States",
+  "abstract": "BACKGROUND Older Black and Hispanic adults are more likely to be cognitively impaired than older White adults. Disadvantages in educational achievement for minority and immigrant populations may contribute to disparities in cognitive impairment. OBJECTIVE Examine the role of education in racial/ethnic and nativity differences in cognitive impairment/no dementia (CIND) and dementia among older US adults. METHODS Data comes from the 2012 Health and Retirement Study. A total of 19,099 participants aged > 50 were included in the analysis. Participants were categorized as having normal cognition, CIND, or dementia based on the Telephone Interview for Cognitive Status (TICS) or questions from a proxy interview. We document age and educational differences in cognitive status among White, Black, US-born Hispanic, and foreign-born Hispanic adults by sex. Logistic regression is used to quantify the association between race/ethnicity/nativity, education, and cognitive status by sex. RESULTS Among women, foreign-born Hispanics have higher odds of CIND and dementia than Whites. For men, Blacks have higher odds for CIND and dementia compared to Whites. The higher odds for CIND and dementia across race/ethnic and nativity groups was reduced after controlling for years of education but remained statistically significant for older Black and US-born Hispanic adults. Controlling for education reduces the odds for CIND (women and men) and dementia (men) among foreign-born Hispanics to nonsignificance. CONTRIBUTION These results highlight the importance of education in CIND and dementia, particularly among foreign-born Hispanics. Addressing inequalities in education can contribute to reducing racial/ethnic/nativity disparities in CIND and dementia for older adults.",
+  "authors": [
+    {
+      "raw": "Garcia, Marc A.",
+      "family": "Garcia",
+      "given": "Marc A."
+    },
+    {
+      "raw": "Saenz, Joseph",
+      "family": "Saenz",
+      "given": "Joseph"
+    },
+    {
+      "raw": "Downer, Brian",
+      "family": "Downer",
+      "given": "Brian"
+    },
+    {
+      "raw": "Wong, Rebeca",
+      "family": "Wong",
+      "given": "Rebeca"
+    }
+  ],
+  "authors_text": "Garcia, Marc A.; Saenz, Joseph; Downer, Brian; Wong, Rebeca",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.6",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

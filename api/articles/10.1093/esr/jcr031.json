@@ -1,0 +1,30 @@
+{
+  "title": "Explaining Membership in the British National Party: A Multilevel Analysis of Contact and Threat",
+  "abstract": "Support for the British National Party (BNP) has grown exponentially in the last decade. Using a leaked membership list, we locate over 12,000 members and match them with Census data on more than 200,000 neighbourhoods in Britain. Two established theories of ethnic hostility—contact and threat—provide opposing predictions about the effect of the proportion of minorities. These predictions are tested with a multilevel analysis of variation in the probability of white British adults belonging to the BNP. The probability is lower in neighbourhoods with a substantial proportion of non-whites. The probability is higher, by contrast, in cities with a larger proportion of non-whites, but only where they are also highly segregated. Within the non-white category, we find that South Asians matter rather than blacks; results for Muslims are similar. These findings show how contact and threat can be disentangled by considering different spatial scales, and also demonstrate the importance of segregation.",
+  "authors": [
+    {
+      "raw": "Biggs, M.",
+      "family": "Biggs",
+      "given": "M."
+    },
+    {
+      "raw": "Knauss, S.",
+      "family": "Knauss",
+      "given": "S."
+    }
+  ],
+  "authors_text": "Biggs, M.; Knauss, S.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1093/esr/jcr031",
+  "doi_url": "https://doi.org/10.1093/esr/jcr031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcr031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcr031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

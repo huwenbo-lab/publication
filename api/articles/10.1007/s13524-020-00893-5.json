@@ -1,0 +1,25 @@
+{
+  "title": "Measuring Housing Stability With Consumer Reference Data",
+  "abstract": "Housing instability for low-income renters has drawn greater attention recently, but measurement has limited research on policies to stabilize housing. Address histories from consumer reference data can be used to increase the quantity and quality of research on low-income renters. Consumer data track housing moves throughout the entire United States for most of the adult population. In this article, I show that such data can measure housing stability for groups with very low income and extreme instability. For example, the data can track housing moves during natural disasters, at demolition of public housing, for households at high risk of homelessness, and during gentrification. Consumer data can track housing instability outcomes that are more common than shelter entry and less expensive to collect than surveys. Relative to existing administrative address histories, consumer data allow researchers to track housing moves to exact addresses and across jurisdictions.",
+  "authors": [
+    {
+      "raw": "Phillips, David C.",
+      "family": "Phillips",
+      "given": "David C."
+    }
+  ],
+  "authors_text": "Phillips, David C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00893-5",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00893-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00893-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00893-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "America's Churning Races: Race and Ethnicity Response Changes Between Census 2000 and the 2010 Census",
+  "abstract": "A person's racial or ethnic self-identification can change over time and across contexts, which is a component of population change not usually considered in studies that use race and ethnicity as variables. To facilitate incorporation of this aspect of population change, we show patterns and directions of individual-level race and Hispanic response change throughout the United States and among all federally recognized race/ethnic groups. We use internal U.S. Census Bureau data from the 2000 and 2010 censuses in which responses have been linked at the individual level (N = 162 million). Approximately 9.8 million people (6.1 %) in our data have a different race and/or Hispanic-origin response in 2010 than they did in 2000. Race response change was especially common among those reported as American Indian, Alaska Native, Native Hawaiian, Other Pacific Islander, in a multiple-race response group, or Hispanic. People reported as non-Hispanic white, black, or Asian in 2000 usually had the same response in 2010 (3 %, 6 %, and 9 % of responses changed, respectively). Hispanic/non-Hispanic ethnicity responses were also usually consistent (13 % and 1 %, respectively, changed). We found a variety of response change patterns, which we detail. In many race/Hispanic response groups, we see population churn in the form of large countervailing flows of response changes that are hidden in cross-sectional data. We find that response changes happen across ages, sexes, regions, and response modes, with interesting variation across racial/ethnic categories. Researchers should address the implications of race and Hispanic-origin response change when designing analyses and interpreting results.",
+  "authors": [
+    {
+      "raw": "Liebler, Carolyn A.",
+      "family": "Liebler",
+      "given": "Carolyn A."
+    },
+    {
+      "raw": "Porter, Sonya R.",
+      "family": "Porter",
+      "given": "Sonya R."
+    },
+    {
+      "raw": "Fernandez, Leticia E.",
+      "family": "Fernandez",
+      "given": "Leticia E."
+    },
+    {
+      "raw": "Noon, James M.",
+      "family": "Noon",
+      "given": "James M."
+    },
+    {
+      "raw": "Ennis, Sharon R.",
+      "family": "Ennis",
+      "given": "Sharon R."
+    }
+  ],
+  "authors_text": "Liebler, Carolyn A.; Porter, Sonya R.; Fernandez, Leticia E.; Noon, James M.; Ennis, Sharon R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-016-0544-0",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0544-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0544-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0544-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

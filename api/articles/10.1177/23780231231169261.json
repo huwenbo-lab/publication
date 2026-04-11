@@ -1,0 +1,25 @@
+{
+  "title": "Racial Segregation in Everyday Mobility Patterns: Disentangling the Effect of Travel Time",
+  "abstract": "Nascent research documents that U.S. racial segregation is not merely a residential phenomenon but is present in everyday mobility patterns. Better understanding the causes of mobility-based segregation requires disentangling the spatial macrosegregation, which constitutes an obvious confounding factor. In this work, the author analyzes big data on everyday visits between 270 million neighborhood dyads to estimate the effect of neighborhood racial composition on mobility patterns, net of driving, walking, and public transportation travel time. Matching on these travel times, the author finds that residents of Black and Hispanic neighborhoods visit White neighborhoods only slightly less than they visit other Black and Hispanic neighborhoods. Distinctly, residents of White neighborhoods are far less likely to visit non-White neighborhoods than other White neighborhoods, even net of travel time. The author finds that this travel time–adjusted visit homophily among White neighborhoods is greater in commuting zones where White neighborhoods are situated closer to non-White neighborhoods.",
+  "authors": [
+    {
+      "raw": "Vachuska, Karl",
+      "family": "Vachuska",
+      "given": "Karl"
+    }
+  ],
+  "authors_text": "Vachuska, Karl",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231169261",
+  "doi_url": "https://doi.org/10.1177/23780231231169261",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231169261",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231169261.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

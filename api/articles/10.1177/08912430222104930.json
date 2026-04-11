@@ -1,0 +1,55 @@
+{
+  "title": "Book Reviews",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "WINFIELD, IDEE",
+      "family": "WINFIELD",
+      "given": "IDEE"
+    },
+    {
+      "raw": "HALL, JULIA",
+      "family": "HALL",
+      "given": "JULIA"
+    },
+    {
+      "raw": "COVINO, DEBORAH CASLAV",
+      "family": "COVINO",
+      "given": "DEBORAH CASLAV"
+    },
+    {
+      "raw": "ROTHMAN, BARBARA KATZ",
+      "family": "ROTHMAN",
+      "given": "BARBARA KATZ"
+    },
+    {
+      "raw": "PURI, JYOTI",
+      "family": "PURI",
+      "given": "JYOTI"
+    },
+    {
+      "raw": "CHILDERS, JULIE",
+      "family": "CHILDERS",
+      "given": "JULIE"
+    },
+    {
+      "raw": "DWORKIN, SHARI L.",
+      "family": "DWORKIN",
+      "given": "SHARI L."
+    }
+  ],
+  "authors_text": "WINFIELD, IDEE; HALL, JULIA; COVINO, DEBORAH CASLAV; ROTHMAN, BARBARA KATZ; PURI, JYOTI; CHILDERS, JULIE; DWORKIN, SHARI L.",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2002,
+  "doi": "10.1177/08912430222104930",
+  "doi_url": "https://doi.org/10.1177/08912430222104930",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912430222104930",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912430222104930.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

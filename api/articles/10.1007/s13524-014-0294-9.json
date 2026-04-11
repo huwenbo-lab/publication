@@ -1,0 +1,30 @@
+{
+  "title": "Home Front: Post-Deployment Mental Health and Divorces",
+  "abstract": "Abstract Since 2003, about 14 % of U.S. Army soldiers have reported symptoms of posttraumatic stress disorder (PTSD) following deployments. In this article, we examine how post-deployment symptoms of PTSD and of other mental health conditions are related to the probability of divorce among married active-duty U.S. Army soldiers. For this purpose, we combine Army administrative individual-level longitudinal data on soldiers’ deployments, marital history, and sociodemographic characteristics with their self-reported post-deployment health information. Our estimates indicate that time spent in deployment increases the divorce risk among Army enlisted personnel and that PTSD symptoms are associated with further increases in the odds of divorce. Although officers are generally less likely to screen positive for PTSD than enlisted personnel, we find a stronger relationship between PTSD symptoms and divorces among Army officers who are PTSD-symptomatic than among enlisted personnel. We estimate a larger impact of deployments on the divorce risk among female soldiers, but we do not find a differential impact of PTSD symptoms by gender. Also, we find that most of the effect of PTSD symptoms occurs early in the career of soldiers who deploy multiple times.",
+  "authors": [
+    {
+      "raw": "Negrusa, Brighita",
+      "family": "Negrusa",
+      "given": "Brighita"
+    },
+    {
+      "raw": "Negrusa, Sebastian",
+      "family": "Negrusa",
+      "given": "Sebastian"
+    }
+  ],
+  "authors_text": "Negrusa, Brighita; Negrusa, Sebastian",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0294-9",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0294-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0294-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0294-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

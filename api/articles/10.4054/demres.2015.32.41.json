@@ -1,0 +1,30 @@
+{
+  "title": "Living alone in South and Southeast Asia: An analysis of census data",
+  "abstract": "BACKGROUND Living alone (in a one-person household) has reached very high levels in some parts of the world. Across Asia the phenomenon is common in parts of East Asia, but has rarely been examined in South or Southeast Asia. OBJECTIVE The authors seek to establish from the evidence of censuses the main contours of living alone in South and Southeast Asia, and in doing so address issues of definition and measurement, particularly issues arising due to differences in the census handling of the 'group quarters' type of household. METHODS The paper examines 10 national censuses in the IPUMS archive of census micro-files. The data are explored for age profiles of living alone by sex, classified by urban versus rural residence and marital status. RESULTS The censuses reveal a combination of underlying commonalities among the countries and dates as well as distinct national features. There are distinct age profiles for males and females, and profiles typical of urban and rural sectors across countries. Living alone in group quarters is most common among young adults. Tabulation by marital status shows considerable variation among single young adults and elderly widowed or divorced/separated persons. It is also found that the proportions of the population not living with core family who are living alone vary widely by age and sex and across countries and years. CONCLUSIONS Studies of living alone with national censuses must take note of whether conventional households and group quarters are included and how these are defined. Group quarters residence makes up a significant proportion of living alone among the young.",
+  "authors": [
+    {
+      "raw": "Podhisita, Chai",
+      "family": "Podhisita",
+      "given": "Chai"
+    },
+    {
+      "raw": "Xenos, Peter",
+      "family": "Xenos",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Podhisita, Chai; Xenos, Peter",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.32.41",
+  "doi_url": "https://doi.org/10.4054/demres.2015.32.41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.32.41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.32.41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

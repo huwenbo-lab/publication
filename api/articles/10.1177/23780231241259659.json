@@ -1,0 +1,35 @@
+{
+  "title": "The Use of Facial Recognition in Sociological Research: A Comparison of ClarifAI and Kairos Classifications to Hand-Coded Images",
+  "abstract": "Sociologists increasingly employ machine learning (ML) to quickly sort, code, classify, and analyze data. With known racial and gender biases in ML algorithms, we urge sociologists to (re)consider the implications of the widespread use of these technologies in our research. To illustrate this point, we use two popular ML algorithms, ClarifAI and Kairos, to code a small sample of sociologists (n = 167) and their coauthors (n = 1,664) and compare their findings to the sociologists’ hand-coded race and gender information. We further explore ML-generated differences by analyzing the extent of racial homophily in these sociologists’ collaboration networks. We find significant differences across the three coding methods that would lead to very different conclusions and future research agendas. We conclude by elaborating on how sociologists might ethically consider the role of ML and its use in the discipline.",
+  "authors": [
+    {
+      "raw": "Peoples, Crystal E.",
+      "family": "Peoples",
+      "given": "Crystal E."
+    },
+    {
+      "raw": "Knudsen, Paige",
+      "family": "Knudsen",
+      "given": "Paige"
+    },
+    {
+      "raw": "Fuentes, Melany",
+      "family": "Fuentes",
+      "given": "Melany"
+    }
+  ],
+  "authors_text": "Peoples, Crystal E.; Knudsen, Paige; Fuentes, Melany",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241259659",
+  "doi_url": "https://doi.org/10.1177/23780231241259659",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241259659",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241259659.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

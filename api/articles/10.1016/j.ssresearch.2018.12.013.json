@@ -1,0 +1,30 @@
+{
+  "title": "Are the faithful becoming less fruitful? The decline of conservative protestant fertility and the growing importance of religious practice and belief in childbearing in the US",
+  "abstract": "Studies of religion and fertility argue that American childbearing has become less predicated on religious tradition and more on religious commitment and belief. Yet studies have not documented this transition over time or considered whether the growing importance of religious commitment and belief in childbearing applies across Christian traditions equally. Using data from the 1972-2016 General Social Surveys, we analyze childbearing trends across time and birth cohort focusing on the independent and interrelated effects of religious tradition, religious practice, and theological fundamentalism. We also utilize zero-inflated negative binomial regression models to better account for the increasing number of Americans who forego childbearing. Conservative Protestant affiliation is associated with faster than average declines in fertility, while monthly church attendance and biblical literalism are associated with slower than average declines in fertility, ceteris paribus. Examining moderating relationships, monthly worship attendance slightly increases the childbearing of mainline Protestants and Catholics over time, while conservative Protestant childbearing declines regardless of attendance. Unless offset by switching, our findings portend future population declines for conservative Protestants, notably, ones that are not attenuated by greater religious commitment.",
+  "authors": [
+    {
+      "raw": "Perry, Samuel L.",
+      "family": "Perry",
+      "given": "Samuel L."
+    },
+    {
+      "raw": "Schleifer, Cyrus",
+      "family": "Schleifer",
+      "given": "Cyrus"
+    }
+  ],
+  "authors_text": "Perry, Samuel L.; Schleifer, Cyrus",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.12.013",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.12.013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.12.013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.12.013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "What do computers really do? Computerization, fading pay -setting institutions and rising wage inequality",
+  "abstract": "In this paper we advance the argument that the widespread assumption that computerization and institutional changes are independent explanations for the resurgence of wage inequality is inaccurate. Instead we posit for complex dynamics between computerization and fading pay-setting institutions, arguing that the latter is a mechanism by which the former operates. To test our argument that computerization increases wage inequality not only via the mechanisms specified by skill-biased Technological Change, but also indirectly through structural processes, we utilize longitudinal U.S. industrial-level data on computerization, pay-setting institutions, and wage inequality. Estimating Error Correction Models, we find a stronger longitudinal association between computerization and wage inequality in industries where labor processes were subject to both computerization and the breakup of pay-setting institutions (such as labor unions) than in industries where these institutions never had much of a presence. These findings provide some evidence that computerization operates also through the mechanism of weakening labor market institutions. (C) 2015 Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Kristal, Tali",
+      "family": "Kristal",
+      "given": "Tali"
+    },
+    {
+      "raw": "Cohen, Yinon",
+      "family": "Cohen",
+      "given": "Yinon"
+    }
+  ],
+  "authors_text": "Kristal, Tali; Cohen, Yinon",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2015,
+  "doi": "10.1016/j.rssm.2015.07.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2015.07.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2015.07.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2015.07.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

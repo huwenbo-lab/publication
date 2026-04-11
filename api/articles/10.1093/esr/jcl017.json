@@ -1,0 +1,30 @@
+{
+  "title": "Would Declining Exit Rates from Welfare Provide Evidence of Welfare Dependence in Homogeneous Environments?",
+  "abstract": "Negative duration dependence in the exit rate from social assistance is an important issue addressed in the dynamic welfare participation literature. If heterogeneity is properly modelled, the decline of the exit rate is ascribed to a progressive reduction of the capability to get off welfare due to the detrimental effects of the benefit as time in welfare increases (Blank, 1989; Sandefur and Cook, 1998; Dahl and Lorentzen, 2003; Gangl, 2003; Chay et al., 2005). The aim of this article is to show that the potential corruptive effects of benefits are not easily identified with this analytical strategy. As a starting point we develop a model, coherent with the Bane and Ellwood (1994) theoretical framework, that describes the causal links occurring between work/unemployment, poverty, and social assistance. A simulation study is carried out in order to show that negative duration dependence in the exit rate from welfare may arise in environments where no corruptive effects of benefits are at work, even in the absence of heterogeneity at the onset of the process. Thus, negative duration dependence in the exit rate from welfare does not imply ‘welfare dependence’: the observed pattern may be due to effects of persistence in poverty or in unemployment.",
+  "authors": [
+    {
+      "raw": "Contini, D.",
+      "family": "Contini",
+      "given": "D."
+    },
+    {
+      "raw": "Negri, N.",
+      "family": "Negri",
+      "given": "N."
+    }
+  ],
+  "authors_text": "Contini, D.; Negri, N.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1093/esr/jcl017",
+  "doi_url": "https://doi.org/10.1093/esr/jcl017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcl017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcl017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

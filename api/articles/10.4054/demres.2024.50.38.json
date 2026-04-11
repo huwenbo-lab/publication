@@ -1,0 +1,25 @@
+{
+  "title": "International completeness of death registration",
+  "abstract": "BACKGROUND Death registration completeness, the share of deaths captured by countries' vital registration systems, vary substantially across countries. Estimates of completeness, even recent ones, are outdated or contradictory for many countries. OBJECTIVE We derive the most up-to-date and consistent estimates of death registration completeness in as many countries as possible. RESULTS Death registration is complete in Europe, North America, and other developed countries. In developing countries, completeness varies by region. While some have complete death registration, many countries completeness ranges from 40% to 75%. Regionally, Africa has lowest death registration completeness, and in many countries no registration data was located. In Latin America and Asia, several countries have improved their registration compared to previously available estimates. CONTRIBUTION This paper presents the publicly available International Completeness of Death Registration (ICDR) dataset: https://github.com/akarlinsky/death registration. ICDR contains the annual amount of deaths registered and death registration completeness in 193 countries from 2015 to 2019.",
+  "authors": [
+    {
+      "raw": "Karlinsky, Ariel",
+      "family": "Karlinsky",
+      "given": "Ariel"
+    }
+  ],
+  "authors_text": "Karlinsky, Ariel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.38",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.38",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.38",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.38.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

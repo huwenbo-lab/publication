@@ -1,0 +1,40 @@
+{
+  "title": "Evolution of fixed demographic heterogeneity from a game of stable coexistence",
+  "abstract": "BACKGROUND Demographic heterogeneity refers to the observation that - within the same population trajectories of survival and reproduction differ substantially between individuals. These differences have been found in both natural and captive populations. Models in ecology and evolution that incorporate demographic heterogeneity can improve both our understanding of the evolution of mortality curves and our population management abilities. Current explanations of the origin of demographic heterogeneity mostly revolve around interindividual differences that are either present at birth (fixed heterogeneity) or the result of stochasticity in life history realization (dynamic heterogeneity). Largely neglected remains the possibility that a form of fixed heterogeneity may evolve from interactions between behaviorally distinct individuals through their lifespan. OBJECTIVE We suggest one possible way in which heterogeneity in vital rates may evolve. Our approach assumes game theoretic interactions in the population. METHODS We combine population matrix models and game theory. We study a stable coexistence game between two types that are initially demographically homogeneous and analyze the effect of mutations that influence the trajectories of survival and reproduction. RESULTS The rise and fixation of mutations can make the population demographically heterogeneous, while the game can preserve the coexistence of different types in the population. CONCLUSIONS Frequency-dependent selection can help to explain the evolution of demographic heterogeneity. CONTRIBUTION Frequency-dependent selection can maintain already existing demographic heterogeneity in a population without overlapping generations. Here, we show that this form of selection can also be involved in the origin of a form of fixed heterogeneity.",
+  "authors": [
+    {
+      "raw": "Giaimo, Stefano",
+      "family": "Giaimo",
+      "given": "Stefano"
+    },
+    {
+      "raw": "Li, Xiang-Yi",
+      "family": "Li",
+      "given": "Xiang-Yi"
+    },
+    {
+      "raw": "Traulsen, Arne",
+      "family": "Traulsen",
+      "given": "Arne"
+    },
+    {
+      "raw": "Baudisch, Annette",
+      "family": "Baudisch",
+      "given": "Annette"
+    }
+  ],
+  "authors_text": "Giaimo, Stefano; Li, Xiang-Yi; Traulsen, Arne; Baudisch, Annette",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.8",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Expectations' predictive power regarding international return and onward migration of immigrants",
+  "abstract": "BACKGROUND Migration expectations and behaviour are almost exclusively analysed separately in the international migration literature, while the predictive power of migration expectations for migration behaviour has received little attention. OBJECTIVE We explore the association between migration expectations and actual emigration, distinguishing between return, onward, and back-and-forth movements, for immigrants in the Netherlands. METHODS Drawing on the Survey of Integration of Migrants 2015 matched with population register data from 2015 to 2020 (N = 4,158), we use descriptive statistics and multinomial logistic regression to investigate the association between 5-year emigration expectations and actual behaviour for immigrants in the Netherlands. RESULTS Twenty-seven per cent of immigrants who expected to return to their country of origin within five years did so. Among those who expected to stay, only 4% returned. Around 9% of those with onward migration expectations migrated onward, compared to below 3% for those with other migration expectations. Of those who expected to spend part of their time in their country of origin and part of their time in the Netherlands, 10% returned and 4% moved multiple times. Adjusting for sociodemographic variables, individuals who expected to return were 11 (2.42 coefficient) times more likely to return, while those who expected to migrate onward were 7 (2.06 coefficient) times more likely to do so than those not expecting to migrate. CONTRIBUTION This study contributes to migration research by examining the predictive power of immigrants' migration expectations in the Netherlands. Unlike previous work focused on the intentions and binary outcomes of staying versus leaving, we demonstrate that expectations such as return or onward migration are strong predictors of actual behaviour. By linking survey data with longitudinal register data, we provide an accurate measure of migration outcomes.",
+  "authors": [
+    {
+      "raw": "Ozer, Ozge Elif",
+      "family": "Ozer",
+      "given": "Ozge Elif"
+    },
+    {
+      "raw": "Remund, Adrien",
+      "family": "Remund",
+      "given": "Adrien"
+    },
+    {
+      "raw": "Mulder, Clara",
+      "family": "Mulder",
+      "given": "Clara"
+    },
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    }
+  ],
+  "authors_text": "Ozer, Ozge Elif; Remund, Adrien; Mulder, Clara; Kalmijn, Matthijs",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.35",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.35",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.35",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.35.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,55 @@
+{
+  "title": "The DYNAMO-HIA Model: An Efficient Implementation of a Risk Factor/Chronic Disease Markov Model for Use in Health Impact Assessment (HIA)",
+  "abstract": "Abstract In Health Impact Assessment (HIA), or priority-setting for health policy, effects of risk factors (exposures) on health need to be modeled, such as with a Markov model, in which exposure influences mortality and disease incidence rates. Because many risk factors are related to a variety of chronic diseases, these Markov models potentially contain a large number of states (risk factor and disease combinations), providing a challenge both technically (keeping down execution time and memory use) and practically (estimating the model parameters and retaining transparency). To meet this challenge, we propose an approach that combines micro-simulation of the exposure information with macro-simulation of the diseases and survival. This approach allows users to simulate exposure in detail while avoiding the need for large simulated populations because of the relative rareness of chronic disease events. Further efficiency is gained by splitting the disease state space into smaller spaces, each of which contains a cluster of diseases that is independent of the other clusters. The challenge of feasible input data requirements is met by including parameter calculation routines, which use marginal population data to estimate the transitions between states. As an illustration, we present the recently developed model DYNAMO-HIA (DYNAMIC MODEL for Health Impact Assessment) that implements this approach.",
+  "authors": [
+    {
+      "raw": "Boshuizen, Hendriek C.",
+      "family": "Boshuizen",
+      "given": "Hendriek C."
+    },
+    {
+      "raw": "Lhachimi, Stefan K.",
+      "family": "Lhachimi",
+      "given": "Stefan K."
+    },
+    {
+      "raw": "van Baal, Pieter H. M.",
+      "family": "van Baal",
+      "given": "Pieter H. M."
+    },
+    {
+      "raw": "Hoogenveen, Rudolf T.",
+      "family": "Hoogenveen",
+      "given": "Rudolf T."
+    },
+    {
+      "raw": "Smit, Henriette A.",
+      "family": "Smit",
+      "given": "Henriette A."
+    },
+    {
+      "raw": "Mackenbach, Johan P.",
+      "family": "Mackenbach",
+      "given": "Johan P."
+    },
+    {
+      "raw": "Nusselder, Wilma J.",
+      "family": "Nusselder",
+      "given": "Wilma J."
+    }
+  ],
+  "authors_text": "Boshuizen, Hendriek C.; Lhachimi, Stefan K.; van Baal, Pieter H. M.; Hoogenveen, Rudolf T.; Smit, Henriette A.; Mackenbach, Johan P.; Nusselder, Wilma J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0122-z",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0122-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0122-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0122-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

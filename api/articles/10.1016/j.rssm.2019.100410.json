@@ -1,0 +1,30 @@
+{
+  "title": "The intergenerational effects of unemployment: How parental unemployment affects educational transitions in Germany",
+  "abstract": "This paper studies the intergenerational effects of parental unemployment on students' post-secondary transitions. Besides estimating the average treatment effect of parental unemployment on transition outcomes, we identify the economic, psychological or other intra-familial mechanisms that might explain any adverse impact of parental unemployment. Using longitudinal data from the German Socio-Economic Panel and propensity score matching estimators we find that paternal unemployment has an adverse impact on the likelihood of entering tertiary education, whereas maternal unemployment does not. We also find that the magnitude of the effect depends on the duration of unemployment. Even though we are unable to fully account for the underlying mechanisms, our mediation analysis suggests that the effect of paternal unemployment is not due to the loss of income, but relates to the negative consequences of unemployment for intra-familial well-being and students' declining optimism about their academic prospects.",
+  "authors": [
+    {
+      "raw": "Lindemann, Kristina",
+      "family": "Lindemann",
+      "given": "Kristina"
+    },
+    {
+      "raw": "Gangl, Markus",
+      "family": "Gangl",
+      "given": "Markus"
+    }
+  ],
+  "authors_text": "Lindemann, Kristina; Gangl, Markus",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2019,
+  "doi": "10.1016/j.rssm.2019.100410",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100410",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100410",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100410.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

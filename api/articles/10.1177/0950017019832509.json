@@ -1,0 +1,30 @@
+{
+  "title": "Migrants and Low-Paid Employment in British Workplaces",
+  "abstract": "Using nationally representative workplace data for Britain, we identify where migrants work and examine the partial correlation between workplace wages and whether migrants are employed at a workplace. Three-in-ten workplaces with five or more employees employ migrant workers, with the probability rising substantially with workplace size. We find the bottom quartile of the log earnings distribution is 4–5% lower in workplaces employing migrants, ceteris paribus. However, the effect is confined to workplaces set up before the introduction of the National Minimum Wage (NMW) in the late 1990s, consistent with the proposition that minimum wage regulation limits employers’ propensity to pay low wages in the presence of migrant workers.",
+  "authors": [
+    {
+      "raw": "Bryson, Alex",
+      "family": "Bryson",
+      "given": "Alex"
+    },
+    {
+      "raw": "White, Michael",
+      "family": "White",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Bryson, Alex; White, Michael",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2019,
+  "doi": "10.1177/0950017019832509",
+  "doi_url": "https://doi.org/10.1177/0950017019832509",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017019832509",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017019832509.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

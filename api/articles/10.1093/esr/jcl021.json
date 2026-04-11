@@ -1,0 +1,30 @@
+{
+  "title": "Attrition in Panel Data: The Effectiveness of Weighting",
+  "abstract": "Although weighting seems to be a popular strategy for coping with panel attrition in sociological research it is not clear how effective it is in reducing attrition bias. This article aims to fill this gap by giving an assessment of the effectiveness of weighting in the European Community Household Panel (ECHP). Estimates of the distribution of social class and education appear to be dropout biased in the ECHP. Moreover, the direction of the bias differs across countries. Weighting with the ECHP longitudinal weight tends to reduce this bias to some extent; yet, unexpectedly, it also sometimes increases it. The latter problem is largely avoided, however, by replacing the available ECHP-weight with a new longitudinal weight that includes better predictors of dropout, such as covariates related to the interview process, to respondents’ previous interview experiences, and education.",
+  "authors": [
+    {
+      "raw": "Vandecasteele, L.",
+      "family": "Vandecasteele",
+      "given": "L."
+    },
+    {
+      "raw": "Debels, A.",
+      "family": "Debels",
+      "given": "A."
+    }
+  ],
+  "authors_text": "Vandecasteele, L.; Debels, A.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1093/esr/jcl021",
+  "doi_url": "https://doi.org/10.1093/esr/jcl021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcl021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcl021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

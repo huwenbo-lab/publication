@@ -1,0 +1,35 @@
+{
+  "title": "Linguistic life expectancies: Immigrant language retention in Southern California",
+  "abstract": "Newly available data from two surveys - the Immigration and Intergenerational Mobility in Metropolitan Los Angeles survey, and the Children of Immigrants Longitudinal Study in San Diego - are used to test the assertion that Spanish is unlikely to go the way of other immigrant languages in the United States and succumb to English-language dominance across the generations. Southern California offers an ideal critical test of this hypothesis because it is the country's largest Spanish- speaking region and houses its largest concentration of immigrants. Linguistic survival is defined in two ways: a preference for speaking a mother tongue within the household and the ability to speak that language very well. Survival curves are computed in half- generation increments, and life table methods are applied to derive linguistic life expectancies - the average number of generations a mother tongue can be expected to survive in the United States after the arrival of an immigrant. Although the life expectancy of Spanish is found to be greater among Mexicans in Southern California compared to other groups, its ultimate demise nonetheless seems assured by the third generation. English has never been seriously threatened as the dominant language of the United States, and it is not threatened today - not even in Southern California. What is endangered instead is the survivability of the non-English languages that immigrants bring with them to the United States.",
+  "authors": [
+    {
+      "raw": "Rumbaut, Ruben G.",
+      "family": "Rumbaut",
+      "given": "Ruben G."
+    },
+    {
+      "raw": "Massey, Douglas S.",
+      "family": "Massey",
+      "given": "Douglas S."
+    },
+    {
+      "raw": "Bean, Frank D.",
+      "family": "Bean",
+      "given": "Frank D."
+    }
+  ],
+  "authors_text": "Rumbaut, Ruben G.; Massey, Douglas S.; Bean, Frank D.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2006,
+  "doi": "10.1111/j.1728-4457.2006.00132.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2006.00132.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2006.00132.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2006.00132.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

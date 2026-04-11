@@ -1,0 +1,25 @@
+{
+  "title": "Generalized Linear Models in Family Studies",
+  "abstract": "Generalized linear models (GLMs), as defined byJ. A. Nelder and R. W. M. Wedderburn (1972), unify a class of regression models for categorical, discrete, and continuous response variables. As an extension of classical linear models, GLMs provide a common body of theory and methodology for some seemingly unrelated models and procedures, such as the logistic, Poisson, and probit models, that are increasingly used in family studies. This article provides an overview of the principle and the key components of GLMs, such as the exponential family of distributions, the linear predictor, and the link function. To illustrate the application of GLMs, this article uses Canadian national survey data to build an example focusing on the number of close friends among older adults. The article concludes with a discussion of the strengths and weaknesses of GLMs.",
+  "authors": [
+    {
+      "raw": "WU, Zheng",
+      "family": "WU",
+      "given": "Zheng"
+    }
+  ],
+  "authors_text": "WU, Zheng",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2005,
+  "doi": "10.1111/j.1741-3737.2005.00192.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2005.00192.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2005.00192.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2005.00192.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

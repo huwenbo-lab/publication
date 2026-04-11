@@ -1,0 +1,30 @@
+{
+  "title": "Coming Out of the Penumbras: World Culture and Cross-National Variation in Divorce Rates",
+  "abstract": "This paper extends the comparative literature on divorce by theorizing how international institutions and norms influence societal divorce rates. Drawing on developmental idealism and world society theory, the paper argues that global institutions legitimize cultural principles such as individualism, human rights, and gender equality, which reshape modern understandings of marriage and family relations. Formal international institutions and treaties do not explicitly proclaim or codify the right to divorce, but we suggest that new norms regarding divorce emerge from the penumbras of world culture and diffuse globally. Panel regression models covering 84 countries between 1970 and 2008 find a strong association between global cultural influence and divorce rates, controlling for other factors. Results highlight the effects of world society on the private lives of individuals, and suggest that world society affects a wider set of outcomes than the conventional literature would predict.",
+  "authors": [
+    {
+      "raw": "Wang, Cheng-Tong Lir",
+      "family": "Wang",
+      "given": "Cheng-Tong Lir"
+    },
+    {
+      "raw": "Schofer, Evan",
+      "family": "Schofer",
+      "given": "Evan"
+    }
+  ],
+  "authors_text": "Wang, Cheng-Tong Lir; Schofer, Evan",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy070",
+  "doi_url": "https://doi.org/10.1093/sf/soy070",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy070",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy070.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Rooted America: Immobility and Segregation of the Intercounty Migration Network",
+  "abstract": "Despite the popular narrative that the United States is a land of mobility, the country may have become a rooted America after a decades-long decline in migration rates. This article interrogates the lingering question about the social forces that limit migration, with an empirical focus on internal migration in the United States. We propose a systemic, network model of migration flows, combining demographic, economic, political, and geographic factors and network dependence structures that reflect the internal dynamics of migration systems. Using valued temporal exponential-family random graph models, we model the network of intercounty migration flows from 2011 to 2015. Our analysis reveals a pattern of segmented immobility, where fewer people migrate between counties with dissimilar political contexts, levels of urbanization, and racial compositions. Probing our model using knockout experiments suggests one would have observed approximately 4.6 million (27 percent) more intercounty migrants each year were the segmented immobility mechanisms inoperative. This article offers a systemic view of internal migration and reveals the social and political cleavages that underlie geographic immobility in the United States.",
+  "authors": [
+    {
+      "raw": "Huang, Peng",
+      "family": "Huang",
+      "given": "Peng"
+    },
+    {
+      "raw": "Butts, Carter T.",
+      "family": "Butts",
+      "given": "Carter T."
+    }
+  ],
+  "authors_text": "Huang, Peng; Butts, Carter T.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231212679",
+  "doi_url": "https://doi.org/10.1177/00031224231212679",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231212679",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231212679.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

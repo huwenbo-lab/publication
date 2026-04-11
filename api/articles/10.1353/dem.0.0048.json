@@ -1,0 +1,30 @@
+{
+  "title": "Fleeing the storm(s): an examination of evacuation behavior during florida’s 2004 hurricane season",
+  "abstract": "AbstractThe 2004 hurricane season was the worst in Florida’s history, with four hurricanes causing at least 47 deaths and some $45 billion in damages. To collect information on the demographic impact of those hurricanes, we surveyed households throughout the state and in the local areas that sustained the greatest damage. We estimate that one-quarter of Florida’s population evacuated prior to at least one hurricane; in some areas, well over one-half of the residents evacuated at least once, and many evacuated several times. Most evacuees stayed with family or friends and were away from home for only a few days. Using logistic regression analysis, we found that the strength of the hurricane and the vulnerability of the housing unit had the greatest impact on evacuation behavior; additionally, several demographic variables had significant effects on the probability of evacuating and the choice of evacuation lodging (family/friends, public shelters, or hotels/motels). With continued population growth in coastal areas and the apparent increase in hurricane activity caused by global warming, threats posed by hurricanes are rising in the United States and throughout the world. We believe the present study will help government officials plan more effectively for future hurricane evacuations.",
+  "authors": [
+    {
+      "raw": "Smith, Stanley K.",
+      "family": "Smith",
+      "given": "Stanley K."
+    },
+    {
+      "raw": "McCarty, Chris",
+      "family": "McCarty",
+      "given": "Chris"
+    }
+  ],
+  "authors_text": "Smith, Stanley K.; McCarty, Chris",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0048",
+  "doi_url": "https://doi.org/10.1353/dem.0.0048",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0048",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0048.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

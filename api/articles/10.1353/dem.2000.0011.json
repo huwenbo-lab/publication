@@ -1,0 +1,35 @@
+{
+  "title": "Demographic models of birth outcomes and infant mortality: An alternative measurement approach",
+  "abstract": "AbstractMost demographic studies use 2,500 grams of birth weight and 37 weeks of gestation as cutpoints for evaluating the effects of adverse birth outcomes on infant mortality. We propose an alternative strategy, which relies on continuous measures of birth outcomes, identifies an optimal combination of birth weight and gestational age for infant survival, and estimates the effects of adverse birth outcomes in terms of their departure from this “optimal point.” We illustrate the advantages of this approach by estimating a logistic model using data from the 1989–1991 NCHS linked birth/infant death files. Finally, we discuss future applications and methodological issues to be resolved in subsequent research.",
+  "authors": [
+    {
+      "raw": "Solís, Patricio",
+      "family": "Solís",
+      "given": "Patricio"
+    },
+    {
+      "raw": "G. Pullum, Starling",
+      "family": "G. Pullum",
+      "given": "Starling"
+    },
+    {
+      "raw": "Frisbie, W. Parker",
+      "family": "Frisbie",
+      "given": "W. Parker"
+    }
+  ],
+  "authors_text": "Solís, Patricio; G. Pullum, Starling; Frisbie, W. Parker",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.1353/dem.2000.0011",
+  "doi_url": "https://doi.org/10.1353/dem.2000.0011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2000.0011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2000.0011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

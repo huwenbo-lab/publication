@@ -1,0 +1,30 @@
+{
+  "title": "Is the Association Between Education and Fertility Postponement Causal? The Role of Family Background Factors",
+  "abstract": "A large body of literature has demonstrated a positive relationship between education and age at first birth. However, this relationship may be partly spurious because of family background factors that cannot be controlled for in most research designs. We investigate the extent to which education is causally related to later age at first birth in a large sample of female twins from the United Kingdom (N = 2,752). We present novel estimates using within-identical twin and biometric models. Our findings show that one year of additional schooling is associated with about one-half year later age at first birth in ordinary least squares (OLS) models. This estimate reduced to only a 1.5-month later age at first birth for the within-identical twin model controlling for all shared family background factors (genetic and family environmental). Biometric analyses reveal that it is mainly influences of the family environment-not genetic factors-that cause spurious associations between education and age at first birth. Last, using data from the Office for National Statistics, we demonstrate that only 1.9 months of the 2.74 years of fertility postponement for birth cohorts 1944-1967 could be attributed to educational expansion based on these estimates. We conclude that the rise in educational attainment alone cannot explain differences in fertility timing between cohorts.",
+  "authors": [
+    {
+      "raw": "Tropf, Felix C.",
+      "family": "Tropf",
+      "given": "Felix C."
+    },
+    {
+      "raw": "Mandemakers, Jornt J.",
+      "family": "Mandemakers",
+      "given": "Jornt J."
+    }
+  ],
+  "authors_text": "Tropf, Felix C.; Mandemakers, Jornt J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-016-0531-5",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0531-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0531-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0531-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

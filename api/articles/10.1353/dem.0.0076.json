@@ -1,0 +1,30 @@
+{
+  "title": "Immigration, crime, and incarceration in early twentieth-century America",
+  "abstract": "AbstractThe major government commissions on immigration and crime in the early twentieth century relied on evidence that suffered from aggregation bias and the absence of accurate population data, which led them to present partial and sometimes misleading views of the immigrant-native criminality comparison. With improved data and methods, we find that in 1904, prison commitment rates for more serious crimes were quite similar by nativity for all ages except ages 18 and 19, for which the commitment rate for immigrants was higher than for the native-born. By 1930, immigrants were less likely than natives to be committed to prisons at all ages 20 and older, but this advantage disappears when one looks at commitments for violent offenses. The time series pattern reflects a growing gap between natives and immigrants at older ages, one that was driven by sharp increases in the commitment rates of the native-born, while commitment rates for the foreign-born were remarkably stable.",
+  "authors": [
+    {
+      "raw": "Moehling, Carolyn",
+      "family": "Moehling",
+      "given": "Carolyn"
+    },
+    {
+      "raw": "Piehl, Anne Morrison",
+      "family": "Piehl",
+      "given": "Anne Morrison"
+    }
+  ],
+  "authors_text": "Moehling, Carolyn; Piehl, Anne Morrison",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0076",
+  "doi_url": "https://doi.org/10.1353/dem.0.0076",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0076",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0076.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

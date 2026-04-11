@@ -1,0 +1,30 @@
+{
+  "title": "Single Motherhood and Child Mortality in Sub-Saharan Africa: A Life Course Perspective",
+  "abstract": "AbstractSingle motherhood in sub-Saharan Africa has received surprisingly little attention, although it is widespread and has critical implications for children’s well-being. Using survival analysis techniques, we estimate the probability of becoming a single mother over women’s life course and investigate the relationship between single motherhood and child mortality in 11 countries in sub-Saharan Africa. Although a mere 5 % of women in Ethiopia have a premarital birth, one in three women in Liberia will become mothers before first marriage. Compared with children whose parents were married, children born to never-married single mothers were significantly more likely to die before age 5 in six countries (odds ratios range from 1.36 in Nigeria to 2.61 in Zimbabwe). In addition, up to 50 % of women will become single mothers as a consequence of divorce or widowhood. In nine countries, having a formerly married mother was associated with a significantly higher risk of dying (odds ratios range from 1.29 in Zambia to 1.75 in Kenya) relative to having married parents. Children of divorced women typically had the poorest outcomes. These results highlight the vulnerability of children with single mothers and suggest that policies aimed at supporting single mothers could help to further reduce child mortality in sub-Saharan Africa.",
+  "authors": [
+    {
+      "raw": "Clark, Shelley",
+      "family": "Clark",
+      "given": "Shelley"
+    },
+    {
+      "raw": "Hamplová, Dana",
+      "family": "Hamplová",
+      "given": "Dana"
+    }
+  ],
+  "authors_text": "Clark, Shelley; Hamplová, Dana",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0220-6",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0220-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0220-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0220-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

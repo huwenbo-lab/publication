@@ -1,0 +1,30 @@
+{
+  "title": "The Class Pay Gap in Higher Professional and Managerial Occupations",
+  "abstract": "This article demonstrates how class origin shapes earnings in higher professional and managerial employment. Taking advantage of newly released data in Britain's Labour Force Survey, we examine the relative openness of different high-status occupations and the earnings of the upwardly mobile within them. In terms of access, we find a distinction between traditional professions, such as law, medicine, and finance, which are dominated by the children of higher managers and professionals, and more technical occupations, such as engineering and IT, that recruit more widely. Moreover, even when people who are from working-class backgrounds are successful in entering high-status occupations, they earn 17 percent less, on average, than individuals from privileged backgrounds. This class-origin pay gap translates to up to 7,350 pound ($11,000) lower annual earnings. This difference is partly explained by the upwardly mobile being employed in smaller firms and working outside London, but it remains substantial even net of a variety of important predictors of earnings. These findings underline the value of investigating differences in mobility rates between individual occupations as well as illustrating how, beyond entry, the mobile population often faces an earnings class ceiling within high-status occupations.",
+  "authors": [
+    {
+      "raw": "Laurison, Daniel",
+      "family": "Laurison",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Friedman, Sam",
+      "family": "Friedman",
+      "given": "Sam"
+    }
+  ],
+  "authors_text": "Laurison, Daniel; Friedman, Sam",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1177/0003122416653602",
+  "doi_url": "https://doi.org/10.1177/0003122416653602",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122416653602",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122416653602.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

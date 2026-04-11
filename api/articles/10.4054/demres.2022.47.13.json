@@ -1,0 +1,25 @@
+{
+  "title": "The formal demography of kinship IV: Two-sex models and their approximations",
+  "abstract": "BACKGROUND Previous kinship models analyze female kin through female lines of descent, neglecting male kin and male lines of descent. Because males and females differ in mortality and fertility, including both sexes in kinship models is an important unsolved problem. OBJECTIVE The objectives are to develop a kinship model including female and male kin through all lines of descent, to explore approximations when full sex-specific rates are unavailable, and to apply the model to several populations as an example. METHODS The kin of a focal individual form an age-sex-classified population and are projected as Focal ages using matrix methods, providing expected age-sex structures for every type of kin at every age of Focal. Initial conditions are based on the distribution of ages at maternity and paternity. RESULTS The equations for two-sex kinship dynamics are presented. As an example, the model is applied to populations with large (Senegal), medium (Haiti), and small (France) differ-ences between female and male fertility. Results include numbers and sex ratios of kin as Focal ages. An approximation treating female and male rates as identical provides some insight into kin numbers, even when male and female rates are very different. CONTRIBUTION Many demographic and sociological parameters (e.g., aspects of health, bereavement, labor force participation) differ markedly between the sexes. This model permits analysis of such parameters in the context of kinship networks. The matrix formulation makes it possible to extend the two-sex analysis to include kin loss, multistate kin demography, and time varying rates.",
+  "authors": [
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    }
+  ],
+  "authors_text": "Caswell, Hal",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.13",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

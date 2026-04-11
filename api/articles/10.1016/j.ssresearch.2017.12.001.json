@@ -1,0 +1,40 @@
+{
+  "title": "Identifying diverse life transition patterns from adolescence to young adulthood: The influence of early socioeconomic context",
+  "abstract": "The purposes of the present study are to investigate: (1) the heterogeneity in life transition patterns of youth from adolescence to young adulthood (ages 18-30) involving the timing and sequence of four transition events (college graduation, full-time employment, marriage, and parenthood), (2) the influence of early socioeconomic adversity on life transition patterns from adolescence to young adulthood, and (3) the influence of gender and race/ethnicity on these transition patterns. Using a multivariate discrete-time mixture survival model with a sample of 14,503 adolescents from the National Longitudinal Study of Adolescent to Adult Health (Add Health), the study identified four life transition patterns and found that early socioeconomic adversity shapes disrupted life transition patterns from adolescence to young adulthood. Gender and race/ethnicity differences are discussed. These results highlight the need for prevention and intervention programs that selectively target at-risk youth beginning in adolescence and continuing through subsequent transition periods.",
+  "authors": [
+    {
+      "raw": "Lee, Tae Kyoung",
+      "family": "Lee",
+      "given": "Tae Kyoung"
+    },
+    {
+      "raw": "Wickrama, Kandauda A. S.",
+      "family": "Wickrama",
+      "given": "Kandauda A. S."
+    },
+    {
+      "raw": "O'Neal, Catherine Walker",
+      "family": "O'Neal",
+      "given": "Catherine Walker"
+    },
+    {
+      "raw": "Prado, Guillermo",
+      "family": "Prado",
+      "given": "Guillermo"
+    }
+  ],
+  "authors_text": "Lee, Tae Kyoung; Wickrama, Kandauda A. S.; O'Neal, Catherine Walker; Prado, Guillermo",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2017.12.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.12.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.12.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.12.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

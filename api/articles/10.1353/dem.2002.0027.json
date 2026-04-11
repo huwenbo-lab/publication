@@ -1,0 +1,30 @@
+{
+  "title": "An empirical analysis of the matching patterns of same-sex and opposite-sex couples",
+  "abstract": "AbstractWe used 1990 Census data to compare the matching behaviors of four types of cohabiting couples: same-sex male couples, same-sex female couples, opposite-sex unmarried couples, and married couples. In general, we found evidence of positive assortative mating for all traits and across all types of couples. The positive assortative mating, however, is stronger for non-labor-market traits (e.g., age, education) than for labor-market traits (e.g., hourly earnings). Further, members of married couples are more alike with respect to most characteristics than are members of opposite-sex cohabiting couples, and members of opposite-sex cohabiting couples are more alike than are members of same-sex couples.",
+  "authors": [
+    {
+      "raw": "Jepsen, Lisa K.",
+      "family": "Jepsen",
+      "given": "Lisa K."
+    },
+    {
+      "raw": "Jepsen, Christopher A.",
+      "family": "Jepsen",
+      "given": "Christopher A."
+    }
+  ],
+  "authors_text": "Jepsen, Lisa K.; Jepsen, Christopher A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.1353/dem.2002.0027",
+  "doi_url": "https://doi.org/10.1353/dem.2002.0027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2002.0027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2002.0027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

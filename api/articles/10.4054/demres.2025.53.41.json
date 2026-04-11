@@ -1,0 +1,30 @@
+{
+  "title": "Shifting spousal age gaps in Kenya and Ghana: Does education matter?",
+  "abstract": "BACKGROUND Spousal age gaps shape fertility, gender power dynamics, and female autonomy. While global trends show a decline, sub-Saharan Africa exhibits a high spousal age gap, particularly in relationships in which men are older. Averages alone can obscure these persistent inequalities, as high spousal age gaps have implications for gender equity and fertility transitions beyond shifts in the mean. OBJECTIVE This study examines high spousal age gap trends (>= 10 years) in Ghana and Kenya from 1990-1994 to 2020-2024 survey periods and evaluates the role of education in these shifts. Although these countries differ in sociocultural contexts, urbanisation trajectories, and education levels, both adopted universal primary education policies around the same time and have extensive Demographic and Health Surveys (DHS) data, offering valuable comparative cases. METHODS Using data from DHS, we apply a Kitagawa decomposition to distinguish the contributions of changes in the education-specific prevalence of high age gap from behavioural shifts within educational groups. This approach helps clarify how much of the overall decrease in age gaps is due to a larger educated population (compositional effect) versus people with the same education levels choosing similar-aged partners (behavioural effect). RESULTS Results show a decline in high spousal age gaps in both countries, though the underlying mechanisms differ. In Ghana, reductions were largely driven by the structural compone reflecting shifts in the education-specific prevalence of high-age-gap unions. In Kenya, declines were more behaviour-driven, indicating changes in partner-age selection within educational groups over time. CONCLUSIONS The findings suggest that male education plays an important role in partner selection, complementing the well-documented effects of female education on demographic transitions.nt,",
+  "authors": [
+    {
+      "raw": "Durowaa-Boateng, Afua",
+      "family": "Durowaa-Boateng",
+      "given": "Afua"
+    },
+    {
+      "raw": "Kebede, Endale",
+      "family": "Kebede",
+      "given": "Endale"
+    }
+  ],
+  "authors_text": "Durowaa-Boateng, Afua; Kebede, Endale",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.41",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Network Dynamics of Status: Assimilation and Selection",
+  "abstract": "Using longitudinal data that we have collected on friendship and advice relations in a cohort of MBA students, we examine how status affects the dynamics of network ties among peers. Estimates of Stochastic Actor-Oriented Models (SAOMs) suggest that status is a consequence of network ties because over time the level of status attributed to individual students by other students tends to the average level of status attributed to their network partners-a phenomenon we call status assimilation. Status is also an antecedent to network ties because it affects partner selection decisions, giving rise to distinct forms of social attachment. We find that both network-based processes of status assimilation, as well as status-based processes of social selection, are present, but they vary subtly yet significantly across network domains. Students tend to the average level of status of their friends, but not to that of their advisors. High-status students are more active in the friendship network, but more popular in the advice network. We find evidence of performance homophily rather than status homophily: students with similar grades are more likely to exchange friendship and advice ties. High-status students tend to be more central in the advice network, but status attributions spill over through friendship, rather than advice relations. The study documents how the relation between social status and social networks varies both over time, as well as across network domains. The study also demonstrates the importance of accounting for multiplexity-the tendency of a network to operate through another.",
+  "authors": [
+    {
+      "raw": "Torlo, Vanina Jasmine",
+      "family": "Torlo",
+      "given": "Vanina Jasmine"
+    },
+    {
+      "raw": "Lomi, Alessandro",
+      "family": "Lomi",
+      "given": "Alessandro"
+    }
+  ],
+  "authors_text": "Torlo, Vanina Jasmine; Lomi, Alessandro",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox040",
+  "doi_url": "https://doi.org/10.1093/sf/sox040",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox040",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox040.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Promises and Pitfalls of Anchoring Vignettes in Health Survey Research",
+  "abstract": "Data harmonization is a topic of growing importance to demographers, who increasingly conduct domestic or international comparative research. Many self-reported survey items cannot be directly compared across demographic groups or countries because these groups differ in how they use subjective response categories. Anchoring vignettes, already appearing in numerous surveys worldwide, promise to overcome this problem. However, many anchoring vignettes have not been formally evaluated for adherence to the key measurement assumptions of vignette equivalence and response consistency. This article tests these assumptions in some of the most widely fielded anchoring vignettes in the world: the health vignettes in the World Health Organization (WHO) Study on Global AGEing and Adult Health (SAGE) and World Health Survey (WHS) (representing 10 countries; n = 52,388), as well as similar vignettes in the Health and Retirement Study (HRS) (n = 4,528). Findings are encouraging regarding adherence to response consistency, but reveal substantial violations of vignette equivalence both cross-nationally and across socioeconomic groups. That is, members of different sociocultural groups appear to interpret vignettes as depicting fundamentally different levels of health. The evaluated anchoring vignettes do not fulfill their promise of providing interpersonally comparable measures of health. Recommendations for improving future implementations of vignettes are discussed.",
+  "authors": [
+    {
+      "raw": "Grol-Prokopczyk, Hanna",
+      "family": "Grol-Prokopczyk",
+      "given": "Hanna"
+    },
+    {
+      "raw": "Verdes-Tennant, Emese",
+      "family": "Verdes-Tennant",
+      "given": "Emese"
+    },
+    {
+      "raw": "McEniry, Mary",
+      "family": "McEniry",
+      "given": "Mary"
+    },
+    {
+      "raw": "Ispany, Marton",
+      "family": "Ispany",
+      "given": "Marton"
+    }
+  ],
+  "authors_text": "Grol-Prokopczyk, Hanna; Verdes-Tennant, Emese; McEniry, Mary; Ispany, Marton",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0422-1",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0422-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0422-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0422-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

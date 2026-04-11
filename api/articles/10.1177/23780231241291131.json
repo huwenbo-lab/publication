@@ -1,0 +1,30 @@
+{
+  "title": "Implicit Racial Bias in Europe: Cross-National Variation and Time Trends",
+  "abstract": "The authors visualize how implicit racial bias at the collective level varies across European countries and how it changed between 2009 and 2019. To obtain population-level estimates, the authors re-weight implicit association test data from the Project Implicit international dataset ( n = 184,745). Implicit bias against Black people is stronger in southern and eastern vis-à-vis northern and western European countries. It decreased until the mid-2010s but started to increase thereafter.",
+  "authors": [
+    {
+      "raw": "Dederichs, Kasimir",
+      "family": "Dederichs",
+      "given": "Kasimir"
+    },
+    {
+      "raw": "Verhaeghe, Pieter-Paul",
+      "family": "Verhaeghe",
+      "given": "Pieter-Paul"
+    }
+  ],
+  "authors_text": "Dederichs, Kasimir; Verhaeghe, Pieter-Paul",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241291131",
+  "doi_url": "https://doi.org/10.1177/23780231241291131",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241291131",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241291131.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

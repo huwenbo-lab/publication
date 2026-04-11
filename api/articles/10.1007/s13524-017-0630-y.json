@@ -1,0 +1,40 @@
+{
+  "title": "The Promise and Perils of Population Research on Same-Sex Families",
+  "abstract": "As a follow-up to our 2016 study, this article presents new findings examining the relationship between same-sex family structure and child health using the 2008-2015 National Health Interview Survey (NHIS). After discussing NIHS data problems, we examine the relationship between family structure and a broad range of child well-being outcomes, including school days lost, behavior, parent-rated health, emotional difficulties, and activity limitations. We find both similarities (school days lost, behavior, parent-rated health) and differences (emotional difficulties and activity limitations) across our two studies using different survey years, but our overall conclusions are robust. We further discuss the implications of our findings for future research on this topic, including how to account for biological relatedness in a study on child health in same-sex families.",
+  "authors": [
+    {
+      "raw": "Reczek, Corinne",
+      "family": "Reczek",
+      "given": "Corinne"
+    },
+    {
+      "raw": "Spiker, Russell",
+      "family": "Spiker",
+      "given": "Russell"
+    },
+    {
+      "raw": "Liu, Hui",
+      "family": "Liu",
+      "given": "Hui"
+    },
+    {
+      "raw": "Crosnoe, Robert",
+      "family": "Crosnoe",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Reczek, Corinne; Spiker, Russell; Liu, Hui; Crosnoe, Robert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0630-y",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0630-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0630-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0630-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

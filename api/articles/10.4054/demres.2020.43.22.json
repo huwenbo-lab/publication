@@ -1,0 +1,35 @@
+{
+  "title": "Estimating and explaining ethnic disparities in the cumulative risk of paternal incarceration in Denmark",
+  "abstract": "BACKGROUND Paternal incarceration is a well-known risk factor for poor child outcomes. Although existing research documents the prevalence of paternal incarceration and racial/ethnic disparities in this risk, research in this area is still sorely limited in two ways. First, the range of groups for which we know the cumulative risk of paternal incarceration is still quite narrow. Second, no research has decomposed disparities in the risk of paternal incarceration into analytically distinct components. OBJECTIVE To estimate and explain ethnic disparities in paternal incarceration risk in Denmark. METHOD We use Danish administrative data and two core demographic techniques. First, we use birth cohort life tables to estimate country of origin-specific paternal incarceration risks for native Danes, Western descendants of immigrants, and ten groups of non-Western descendants of immigrants. Second, we conduct Blinder-Oaxaca decompositions to see how three factors - paternal employment, education, and previous criminal justice contact - shape these risks. RESULTS We find that descendants of immigrants are much more likely to experience paternal incarceration than native Danes, but that there is substantial heterogeneity across country of origin. Additionally, we find that for most countries the observed disparities in paternal incarceration risk can be almost entirely explained by group differences in paternal employment, education, and previous criminal justice contact. CONTRIBUTION By using two core demographic techniques we provide insight into how future research on paternal incarceration and other risk factors for poor child well-being could better estimate and explain the risk of experiencing these events.",
+  "authors": [
+    {
+      "raw": "Anker, Anne Sofie Tegner",
+      "family": "Anker",
+      "given": "Anne Sofie Tegner"
+    },
+    {
+      "raw": "Andersen, Lars H.",
+      "family": "Andersen",
+      "given": "Lars H."
+    },
+    {
+      "raw": "Wildeman, Christopher",
+      "family": "Wildeman",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Anker, Anne Sofie Tegner; Andersen, Lars H.; Wildeman, Christopher",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.22",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Toward a new conceptualization of settlements for demography",
+  "abstract": "it has long been recognized that where people live and work can be a relevant factor in helping to explain demographic behavior, yet the treatment of location in censuses and surveys remains surprisingly crude. Emphasis is still being given to the urban-rural dichotomy based on definitions that most countries around the world introduced 40 to 50 years ago and have modified little since. Given the increase in the complexity of settlement systems in recent decades in less developed as well as in more developed contexts, this simple classification is no longer adequate for examining the role of settlement in demographic processes. The time has come to rethink how settlement should be differentiated in population data collection and analysis. Contemporary technologies and methodologies make it possible to analyze spatially referenced data in ways that are more rapid and sophisticated than could have been imagined when the conventional approach was devised.",
+  "authors": [
+    {
+      "raw": "Hugo, G",
+      "family": "Hugo",
+      "given": "G"
+    },
+    {
+      "raw": "Champion, A",
+      "family": "Champion",
+      "given": "A"
+    },
+    {
+      "raw": "Lattes, A",
+      "family": "Lattes",
+      "given": "A"
+    }
+  ],
+  "authors_text": "Hugo, G; Champion, A; Lattes, A",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2003,
+  "doi": "10.1111/j.1728-4457.2003.00277.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2003.00277.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2003.00277.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2003.00277.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "The Relationship between Education and Mental Health: New Evidence from a Discordant Twin Study",
+  "abstract": "Prior research has documented a strong and positive correlation between completed education and adults' mental health. Researchers often describe this relationship using causal language: higher levels of education are thought to enhance people's skills, afford important structural advantages, and empower better coping mechanisms, all of which lead to better mental health. An alternative explanation-the social selection hypothesis-suggests that schooling is a proxy for unobserved endowments and/or preexisting conditions that confound the relationship between the two variables. In this article, we seek to adjudicate between these hypotheses using a relatively large, US-based sample of identical adult twins. By relating within-twin-pair differences in education to within-twin-pair differences in mental health, we are able to control for the influence of genetic traits and shared family characteristics that may otherwise bias the estimates associated with educational attainment. Results from our analyses suggest that the observed association between education and mental health is attributable to confounding on unobserved variables. This finding holds across mental health conditions, is robust to several sensitivity checks, and survives a falsification test. Theoretical implications for the study of educational gradients in mental health are discussed.",
+  "authors": [
+    {
+      "raw": "Halpern-Manners, Andrew",
+      "family": "Halpern-Manners",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Schnabel, Landon",
+      "family": "Schnabel",
+      "given": "Landon"
+    },
+    {
+      "raw": "Hernandez, Elaine M.",
+      "family": "Hernandez",
+      "given": "Elaine M."
+    },
+    {
+      "raw": "Silberg, Judy L.",
+      "family": "Silberg",
+      "given": "Judy L."
+    },
+    {
+      "raw": "Eaves, Lindon J.",
+      "family": "Eaves",
+      "given": "Lindon J."
+    }
+  ],
+  "authors_text": "Halpern-Manners, Andrew; Schnabel, Landon; Hernandez, Elaine M.; Silberg, Judy L.; Eaves, Lindon J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sow035",
+  "doi_url": "https://doi.org/10.1093/sf/sow035",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow035",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow035.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

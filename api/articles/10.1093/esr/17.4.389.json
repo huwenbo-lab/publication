@@ -1,0 +1,25 @@
+{
+  "title": "Social Influence and Corporate Behaviour A Case Study of Interdependent Decision-Making in Sweden's Publicly Traded Firms",
+  "abstract": "In the course of a few months in 1997, about 20 per cent of Stockholm Stock Exchange's primary‐list firms transferred to the Exchange's secondary list due to a new tax policy. Drawing on a theory of social influence, we suggest that the transfer decisions depended both on the firms' social embeddedness with other firms in the population at risk and their economic predisposition to make such transfers. We model such transfer decisions as a continuous stochastic process by utilizing event‐history techniques. The analysis is performed on data that are exceptionally good for both network and event‐history analysis: they include the whole population of firms at risk in a complete observation window. Our results indicate that the decision to transfer was a function of the firms' economic predisposition and their social embeddedness in terms of board interlocks. The special features of our data in combination with our findings suggest that our results should have a broader application: Ignoring social interdependencies at the micro level when attempting to explain the rationale for strategic decisions at the firm level in a group of firms belonging to the same system is likely to miss some of the most important driving forces behind strategic decision making.",
+  "authors": [
+    {
+      "raw": "Edling, C.",
+      "family": "Edling",
+      "given": "C."
+    }
+  ],
+  "authors_text": "Edling, C.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2001,
+  "doi": "10.1093/esr/17.4.389",
+  "doi_url": "https://doi.org/10.1093/esr/17.4.389",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2F17.4.389",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/17.4.389.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

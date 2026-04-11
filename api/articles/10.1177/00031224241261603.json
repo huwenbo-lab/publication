@@ -1,0 +1,50 @@
+{
+  "title": "Advancing Stratification Research by Measuring Non-declarative Cultural Capital: A National Population-Based Study Combining IAT and Survey Data",
+  "abstract": "Cultural capital is a central concept in stratification research. Crucial to the Bourdieusian habitus, upper strata familiarity with the dominant culture is assumed to be ingrained via socialization, allowing its members to smoothly navigate educational institutions and higher segments of the labor market. Although cultural capital is deemed partially implicit, such non-declarative or embodied cultural capital has largely escaped empirical scrutiny; arguments about its importance are typically post hoc interpretations of associations between measures of declarative cultural capital (survey items on elite cultural consumption) and variables of interest. To advance stratification research, we developed tools to empirically capture non-declarative cultural capital: Implicit Association Tests (IATs) measuring (1) positive association and (2) self-identification with elite culture, embedded in a survey fielded among a high-quality panel representative of the Dutch population (n = 2,436). We find our IATs validly measure non-declarative cultural capital. As expected, scores are only weakly coupled with declarative cultural capital, and associated with (parental) socioeconomic position. Using these IATs liberates non-declarative cultural capital from its deus ex machina status and answers the black-box critique of the Bourdieusian habitus as an explanation for socially stratified patterns across a range of fields.",
+  "authors": [
+    {
+      "raw": "van der Waal, Jeroen",
+      "family": "van der Waal",
+      "given": "Jeroen"
+    },
+    {
+      "raw": "de Koster, Willem",
+      "family": "de Koster",
+      "given": "Willem"
+    },
+    {
+      "raw": "van Meurs, Tim",
+      "family": "van Meurs",
+      "given": "Tim"
+    },
+    {
+      "raw": "Noordzij, Kjell",
+      "family": "Noordzij",
+      "given": "Kjell"
+    },
+    {
+      "raw": "Groeniger, Joost Oude",
+      "family": "Groeniger",
+      "given": "Joost Oude"
+    },
+    {
+      "raw": "Schaap, Julian",
+      "family": "Schaap",
+      "given": "Julian"
+    }
+  ],
+  "authors_text": "van der Waal, Jeroen; de Koster, Willem; van Meurs, Tim; Noordzij, Kjell; Groeniger, Joost Oude; Schaap, Julian",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1177/00031224241261603",
+  "doi_url": "https://doi.org/10.1177/00031224241261603",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224241261603",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224241261603.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

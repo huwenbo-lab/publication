@@ -1,0 +1,30 @@
+{
+  "title": "How Has Elderly Migration Changed in the Twenty-First Century? What the Data Can-and Cannot-Tell Us",
+  "abstract": "Interstate elderly migration has strong implications for state tax policies and health care systems, yet little is known about how it has changed in the twenty-first century. Its relative rarity requires a large data set with which to construct reliable measures, and the replacement of the U.S. Census long form (CLF) with the American Community Survey (ACS) has made such updates difficult. Two commonly used alternative migration data sources-the Current Population Survey (CPS) and the Statistics of Income (SOI) program of the Internal Revenue Service (IRS)-suffer serious limitations in studying the migration of any subpopulation, including the elderly. Our study informs migration research in the post-2000 era by identifying methodological differences between data sources and devising strategies for reconciling the CLF and ACS. Our investigation focusing on the elderly suggests that the ACS can generate comparable migration data that reveal a continuation of previously identified geographic patterns as well as changes unique to the 2000s. However, its changed definition of residence and survey timing leaves us unable to construct a comparable national migration rate, suggesting that one must use national trends in the smaller CPS to investigate whether elderly migration has increased or decreased in the twenty-first century.",
+  "authors": [
+    {
+      "raw": "Conway, Karen Smith",
+      "family": "Conway",
+      "given": "Karen Smith"
+    },
+    {
+      "raw": "Rork, Jonathan C.",
+      "family": "Rork",
+      "given": "Jonathan C."
+    }
+  ],
+  "authors_text": "Conway, Karen Smith; Rork, Jonathan C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0477-7",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0477-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0477-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0477-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

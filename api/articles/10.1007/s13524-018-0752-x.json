@@ -1,0 +1,40 @@
+{
+  "title": "Repartnering Following Gray Divorce: The Roles of Resources and Constraints for Women and Men",
+  "abstract": "The doubling of the gray divorce rate (i.e., divorce at age 50 or older) over the past few decades portends growth in later-life repartnering, yet little is known about the mechanisms undergirding decisions to repartner after gray divorce. Using data from the 1998-2014 Health and Retirement Study, we examined women's and men's likelihoods of forming a remarriage or cohabiting union following gray divorce by estimating competing risk multinomial logistic regression models using discrete-time event history data. About 22 % of women and 37 % of men repartnered within 10 years after gray divorce. Repartnering more often occurred through cohabitation than remarriage, particularly for men. Resources such as economic factors, health, and social ties were linked to repartnering, but constraints captured by the contours of the marital biography were also salient, underscoring the distinctive features of union formation in later life.",
+  "authors": [
+    {
+      "raw": "Brown, Susan L.",
+      "family": "Brown",
+      "given": "Susan L."
+    },
+    {
+      "raw": "Lin, I-Fen",
+      "family": "Lin",
+      "given": "I-Fen"
+    },
+    {
+      "raw": "Hammersmith, Anna M.",
+      "family": "Hammersmith",
+      "given": "Anna M."
+    },
+    {
+      "raw": "Wright, Matthew R.",
+      "family": "Wright",
+      "given": "Matthew R."
+    }
+  ],
+  "authors_text": "Brown, Susan L.; Lin, I-Fen; Hammersmith, Anna M.; Wright, Matthew R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-018-0752-x",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0752-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0752-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0752-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

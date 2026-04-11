@@ -1,0 +1,30 @@
+{
+  "title": "Growth in family income inequality, 1970–1990: Industrial restructuring and demographic change",
+  "abstract": "AbstractIndustrial restructuring and changing population composition frequently have been treated as competing explanations of growing U.S. income inequality. Using the Gini coefficient, we employ a model of conditional change to explore the relative effects of each on changes of family income distribution between 1970 and 1990, across 784 metropolitan areas and public use microdata areas (PUMAs). Changes in both industrial structure and population characteristics are found to have significant and opposite effects on family income distribution, although there are sharp differences by decade in the dynamics that underlie increasing inequality. Our central conclusion is that it is too soon to eliminate deindustrialization as a significant cause of increased earnings inequality.",
+  "authors": [
+    {
+      "raw": "Chevan, Albert",
+      "family": "Chevan",
+      "given": "Albert"
+    },
+    {
+      "raw": "Stokes, Randall",
+      "family": "Stokes",
+      "given": "Randall"
+    }
+  ],
+  "authors_text": "Chevan, Albert; Stokes, Randall",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648048",
+  "doi_url": "https://doi.org/10.2307/2648048",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648048",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648048.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

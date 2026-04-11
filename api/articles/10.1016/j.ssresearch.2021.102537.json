@@ -1,0 +1,45 @@
+{
+  "title": "Experiences matter: A longitudinal study of individual-level sources of declining social trust in the United States",
+  "abstract": "The US has experienced a substantial decline in social trust in recent decades. Surprisingly few studies analyze whether individual-level explanations can account for this decrease. We use threewave panel data from the General Social Survey (2006-2014) to study the effects of four possible individual-level sources of changes in social trust: job loss, social ties, income, and confidence in political institutions. Findings from fixed-effects linear regression models suggest that all but social ties matter. We then use 1973-2018 GSS data to predict trust based on observed values for unemployment, confidence in institutions, and satisfaction with income, versus an alternative counterfactual scenario in which the values of those three predictors are held constant at their mean levels in the early 1970s. Predicted values from these two scenarios differ substantially, suggesting that decreasing confidence in institutions and increasing unemployment scarring may explain about half of the observed decline in US social trust.",
+  "authors": [
+    {
+      "raw": "Mewes, Jan",
+      "family": "Mewes",
+      "given": "Jan"
+    },
+    {
+      "raw": "Fairbrother, Malcolm",
+      "family": "Fairbrother",
+      "given": "Malcolm"
+    },
+    {
+      "raw": "Giordano, Giuseppe Nicola",
+      "family": "Giordano",
+      "given": "Giuseppe Nicola"
+    },
+    {
+      "raw": "Wu, Cary",
+      "family": "Wu",
+      "given": "Cary"
+    },
+    {
+      "raw": "Wilkes, Rima",
+      "family": "Wilkes",
+      "given": "Rima"
+    }
+  ],
+  "authors_text": "Mewes, Jan; Fairbrother, Malcolm; Giordano, Giuseppe Nicola; Wu, Cary; Wilkes, Rima",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102537",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102537",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102537",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102537.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

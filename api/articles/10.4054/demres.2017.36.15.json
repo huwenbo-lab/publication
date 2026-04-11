@@ -1,0 +1,25 @@
+{
+  "title": "Disparities in death: Inequality in cause-specific infant and child mortality in Stockholm, 1878-1926",
+  "abstract": "BACKGROUND The decline of child mortality during the late 19th century is one of the most significant demographic changes in human history. However, there is evidence suggesting that the substantial reductions in mortality during the era did little to reduce mortality inequality between socioeconomic groups. OBJECTIVE The aim of this study is to examine the development of socioeconomic inequalities in cause-specific infant and child mortality during Stockholm's demographic transition. METHODS Using an individual-level longitudinal population register for Stockholm, Sweden, between 1878 and 1926, I estimate Cox proportional hazards models to study how inequality in cause-specific hazards of dying from six categories of causes varied over time. The categories included are 1) airborne and 2) food and waterborne infectious diseases, 3) other infectious diseases, 4) noninfectious diseases and accidents, 5) perinatal causes, and 6) unspecified causes. RESULTS The results show that class differentials in nearly all causes of death converged during the demographic transition. The only exception was the airborne infectious disease category, for which the gap between white-collar and unskilled blue-collar workers widened over time. CONCLUSIONS The results demonstrate that, even in a context of falling mortality and a changing epidemiological environment, higher socioeconomic groups were able to maintain a health advantage for their children by reducing their risks of dying from airborne disease to a greater extent than other groups. Potential explanations for these patterns are suggested, as well as suggestions for future research. CONTRIBUTION This is the first paper to use individual-level cause-of-death data to study the long-term trends in inequality of cause-specific child mortality during the demographic transition.",
+  "authors": [
+    {
+      "raw": "Molitoris, Joseph",
+      "family": "Molitoris",
+      "given": "Joseph"
+    }
+  ],
+  "authors_text": "Molitoris, Joseph",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.15",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

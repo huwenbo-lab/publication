@@ -1,0 +1,35 @@
+{
+  "title": "Rally 'round the flag effects are not for all: Trajectories of institutional trust among populist and non-populist voters",
+  "abstract": "Using the Consequences of COVID-19 (COCO) dataset (quota sample of the adult Italian population, surveyed seven times by email), we analysed the trend of trust in political (political parties, parliament and local administrations), super partes (president of the Republic, judiciary and police) and international (the European Union and the United Nations) institutions from June 2019 to October 2022. Three latent growth curve models showed that trust in political institutions increased between June 2019 and April 2020 and subsequently decreased below the pre-pandemic level. Trust in super partes institutions decreased slightly between June 2019 and April 2020, decreased from April 2020 to April 2022 and increased in the subsequent months. Trust in international institutions declined between June 2019 and April 2020 and then returned to pre-pandemic levels. Three piecewise decompositions showed different trends in trust for nonpopulist voters, populist voters and non-voters. Strengths, weaknesses and possible developments of the study are discussed.",
+  "authors": [
+    {
+      "raw": "Colloca, Pasquale",
+      "family": "Colloca",
+      "given": "Pasquale"
+    },
+    {
+      "raw": "Roccato, Michele",
+      "family": "Roccato",
+      "given": "Michele"
+    },
+    {
+      "raw": "Russo, Silvia",
+      "family": "Russo",
+      "given": "Silvia"
+    }
+  ],
+  "authors_text": "Colloca, Pasquale; Roccato, Michele; Russo, Silvia",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.102986",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.102986",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.102986",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.102986.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

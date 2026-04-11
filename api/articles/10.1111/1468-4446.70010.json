@@ -1,0 +1,25 @@
+{
+  "title": "Chinese Concerted Cultivation: The Pattern and Determinants of Chinese Parenting and Its Cumulative Consequences on Children's Cognitive Developments",
+  "abstract": "Past studies have yielded important findings on the stratification and consequences of parenting, but it remains inconclusive how the stratification of parenting changes as children grow and how parenting at different developmental stages creates cumulative advantages for children. To examine these questions, this paper analyzes data from the 2010 to 2018 China Family Panel Study, drawing on a sample of N = 1129 children. It employs Confirmatory Factor Analysis (CFA), linear regression, and the Regression-with-Residuals (RWR) method to investigate the patterns, determinants, and consequences of parenting in China. This research yields several novel and important findings. First, CFA results indicate the presence of a latent construct underlying all dimensions of parenting, suggesting a pattern of concerted cultivation. Second, after controlling for family finances and structural factors, parental education robustly predicts all dimensions of parenting, highlighting a pattern of cultural capital stratification. Third, the strength of educational stratification in parenting decreases with age, supporting an age-as-leveler perspective in understanding the stratification of parenting. Fourth, RWR analyses reveal that Chinese concerted cultivation in childhood and early adolescence generates cumulative-though declining-advantages in children's cognitive abilities. This paper extends cross-cultural perspectives on the cultural capital theory of parenting, introduces an age-as-leveler perspective on the stratification of parenting, and highlights the cumulative function of parenting in social reproduction.",
+  "authors": [
+    {
+      "raw": "Zheng, Boyan",
+      "family": "Zheng",
+      "given": "Boyan"
+    }
+  ],
+  "authors_text": "Zheng, Boyan",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1111/1468-4446.70010",
+  "doi_url": "https://doi.org/10.1111/1468-4446.70010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.70010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.70010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

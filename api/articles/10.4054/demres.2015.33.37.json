@@ -1,0 +1,35 @@
+{
+  "title": "Old age insurance participation among rural-urban migrants in China",
+  "abstract": "BACKGROUND The Chinese government has been introducing reform policies to improve the existing social security system, including the old age insurance schemes for rural-urban migrants. However, there are still challenges in the current system that hinder migrants who move frequently from participating in old age insurance schemes. OBJECTIVE The objectives of this paper are to describe the current coverage of old age insurance amongst migrant workers and examine the associated individual, household, and geographical factors, and to predict the probability of old age insurance participation among rural-urban migrants by province and relevant migrant characteristics. METHODS Data for the analysis are drawn from the 2011 Migrant Dynamics Monitoring Survey in China. The sample consists of 110,005 migrant workers with rural household registration. The analysis considers multinomial logistic regression with type of old age insurance as the outcome variable. RESULTS Of all rural-urban migrant workers nationwide, 16.4% have participated in the Basic Pension Insurance for urban employees, 9.8% in the New Old Age Pension scheme for rural residents, 3.3% are covered by both schemes, and 70.5% have no coverage with any old age pension scheme. Migrants moving within provinces or from relatively wealthy households are more likely to participate in an old age insurance scheme than those moving across provinces or from relatively poor households. Migrants' occupational status also influences their participation in old age pension schemes. The predicted probability of participation varies across China by province.",
+  "authors": [
+    {
+      "raw": "Qin, Min",
+      "family": "Qin",
+      "given": "Min"
+    },
+    {
+      "raw": "Zhuang, Yaer",
+      "family": "Zhuang",
+      "given": "Yaer"
+    },
+    {
+      "raw": "Liu, Hongyan",
+      "family": "Liu",
+      "given": "Hongyan"
+    }
+  ],
+  "authors_text": "Qin, Min; Zhuang, Yaer; Liu, Hongyan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.37",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.37",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.37",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.37.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

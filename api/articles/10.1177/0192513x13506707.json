@@ -1,0 +1,30 @@
+{
+  "title": "The Family Questionnaire",
+  "abstract": "Efforts to improve the quality of life of children cannot be considered in isolation from the family. In this study, a short family questionnaire (FQ) is presented that clinicians, researchers, and policy makers can use to assess the quality of family functioning. Measured family characteristics are responsiveness, communication, organization, social network, and partner relationship. A total of 2,450 parents (2,011 mothers and 439 fathers) completed the FQ. Confirmatory factor analysis reveals a robust comparative fit index of 0.98 and RMSEA of 0.04. Internal consistency ranges from 0.83 to 0.97, test–retest reliability from 0.77 to 0.91 and mother–father concordance from 0.64 to 0.74. An estimated 11% of all Dutch families are neutral or negative about their total family functioning. The conclusions are that the results support the reliability and validity of the FQ, and that the majority of Dutch parents perceived the quality of their family functioning positively.",
+  "authors": [
+    {
+      "raw": "Scholte, Evert",
+      "family": "Scholte",
+      "given": "Evert"
+    },
+    {
+      "raw": "Van der Ploeg, Jan",
+      "family": "Van der Ploeg",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Scholte, Evert; Van der Ploeg, Jan",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2013,
+  "doi": "10.1177/0192513x13506707",
+  "doi_url": "https://doi.org/10.1177/0192513x13506707",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x13506707",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x13506707.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

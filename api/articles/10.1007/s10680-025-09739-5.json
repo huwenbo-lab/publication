@@ -1,0 +1,35 @@
+{
+  "title": "Fertility among Norwegian Women and Men with Mental Disorders",
+  "abstract": "Abstract We analysed the associations between mental disorders and women’s and men’s first-, second- and third-birth rates in 2010–2018, using register data for the full Norwegian population. Having had at least one consultation for depression in primary or specialised health care in the calendar year before the preceding year was associated with lower birth rates. According to a simulation, the birth-rate reduction corresponds to a reduction in completed fertility from 1.60 births per woman among those without any of the mental disorders under study, to 1.34 among those with depression throughout the reproductive period. The corresponding numbers for men were 1.41 and 0.90. The associations between anxiety and fertility were of similar magnitude, while fertility was even lower among individuals with bipolar disorder, eating disorder or personality disorder. The simulated completed fertility was lowest among women and men with schizophrenia (0.36 and 0.16, respectively). However, to the extent that individuals with these mental disorders enter parenthood, many of the estimates suggested that they do so at a relatively early age. The associations between mental disorders and fertility became weaker when partnership, education and income were controlled for, and when characteristics shared by siblings were taken into account in family fixed-effects models.",
+  "authors": [
+    {
+      "raw": "Kravdal, Øystein",
+      "family": "Kravdal",
+      "given": "Øystein"
+    },
+    {
+      "raw": "Flatø, Martin",
+      "family": "Flatø",
+      "given": "Martin"
+    },
+    {
+      "raw": "Torvik, Fartein A.",
+      "family": "Torvik",
+      "given": "Fartein A."
+    }
+  ],
+  "authors_text": "Kravdal, Øystein; Flatø, Martin; Torvik, Fartein A.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09739-5",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09739-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09739-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09739-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

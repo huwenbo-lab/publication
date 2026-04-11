@@ -1,0 +1,30 @@
+{
+  "title": "The Hazards of Predicting Divorce Without Crossvalidation",
+  "abstract": "Divorce prediction studies (e.g., Gottman, Coan, Carrere, & Swanson, 1998) suggest that couples' eventual divorce can be very accurately predicted from a number of different variables. Recent attention to these studies has failed to consider the need to crossvalidate prediction equations and to consider the prevalence of divorce in the population. We analyze archival data to demonstrate that accuracy and predictive value drops precipitously during crossvalidation. We conclude that results of studies without crossvalidation analyses should be interpreted with extreme caution, no matter how impressive the initial results appear to be.",
+  "authors": [
+    {
+      "raw": "Heyman, Richard E.",
+      "family": "Heyman",
+      "given": "Richard E."
+    },
+    {
+      "raw": "Slep, Amy M. Smith",
+      "family": "Slep",
+      "given": "Amy M. Smith"
+    }
+  ],
+  "authors_text": "Heyman, Richard E.; Slep, Amy M. Smith",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2001,
+  "doi": "10.1111/j.1741-3737.2001.00473.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2001.00473.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2001.00473.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2001.00473.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

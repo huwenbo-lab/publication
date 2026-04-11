@@ -1,0 +1,30 @@
+{
+  "title": "Lessons from the pandemic: Gender inequality in childcare and the emergence of a gender mental health gap among parents in Germany",
+  "abstract": "OBJECTIVE This study investigates how changes in childcare arrangements affected parental mental health during the COVID-19 pandemic in Germany. BACKGROUND The gender gap in mental health that emerged in Germany during the pandemic grew disproportionally among partnered parents. The question arises as to why mothers - compared to fathers - experienced greater declines in mental health when guiding their families through the pandemic. METHOD The German Family Panel is based on a random probability sample from which we selected n = 803 partnered mothers and fathers interviewed before (2018-2019) and after (2020) the onset of the pandemic. We ran change score regression models to examine (1) whether changes in gender inequality in childcare arrangements predict within-changes in mental health among mothers and fathers, and (2) whether gender role attitudes moderate this association. RESULTS Systematic mental health differences can be pinpointed at the intersection of gender inequality in childcare and gender role attitudes. Women in stable female childcare arrangements in which the mother did relatively more childcare and women who transitioned from non-female to female childcare arrangements experienced the largest mental health declines. This association was particularly salient among women with egalitarian attitudes. Men in these childcare arrangements either experienced no change or even improvement in certain mental health dimensions. By contrast, sharing childcare was mentally beneficial for both mothers , fathers in this global health crisis. CONCLUSION Gender inequality in childcare is a risk factor for women's health, particularly during times of shifting patterns in employment and childcare arrangements. CONTRIBUTION Taking lessons from the pandemic, policymakers should acknowledge the disproportionate burden that mothers carry when institutional childcare and schooling are unreliable. Accordingly, the unfolding childcare crises in Germany and beyond need to be tackled from a gender-sensitive perspective.",
+  "authors": [
+    {
+      "raw": "Hiekel, Nicole",
+      "family": "Hiekel",
+      "given": "Nicole"
+    },
+    {
+      "raw": "Kuehn, Mine",
+      "family": "Kuehn",
+      "given": "Mine"
+    }
+  ],
+  "authors_text": "Hiekel, Nicole; Kuehn, Mine",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.3",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

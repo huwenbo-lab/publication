@@ -1,0 +1,40 @@
+{
+  "title": "Use of Parental Benefits by Family Income in Canada: Two Policy Changes",
+  "abstract": "Objective: This article examines how two recent policy extensions affected the use and sharing of parental benefits in Canada and how this differed by family income. Background: Paid parental benefits positively affect economic and health outcomes. However, not all policy changes increase leave-taking, especially among low-income families. Method: Drawing on administrative data from 1998 to 2012, we estimate linear probability models to examine the likelihood of either parent using parental benefits and multinomial logit models to examine patterns in sharing benefits. We stratify models by household income to examine how the two policy changes affected families differently across the income spectrum. Results: Both policies increased use more among low-income families than those with higher incomes, which is likely due to widening eligibility criteria that affected low-income families disproportionately. Second, policy design induced different patterns of sharing benefits in response to the two policy changes. In contrast to the 2001 policy that only moderately increased sharing of parental benefits, Quebec's 2006 program explicitly promoted gender equality and increased sharing of benefits across all income groups, but three times as much for middle- and high-income families than low-income families. Conclusion: We conclude that policy design shapes socioeconomic inequality in newborns' early life parental context.",
+  "authors": [
+    {
+      "raw": "Margolis, Rachel",
+      "family": "Margolis",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Hou, Feng",
+      "family": "Hou",
+      "given": "Feng"
+    },
+    {
+      "raw": "Haan, Michael",
+      "family": "Haan",
+      "given": "Michael"
+    },
+    {
+      "raw": "Holm, Anders",
+      "family": "Holm",
+      "given": "Anders"
+    }
+  ],
+  "authors_text": "Margolis, Rachel; Hou, Feng; Haan, Michael; Holm, Anders",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12542",
+  "doi_url": "https://doi.org/10.1111/jomf.12542",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12542",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12542.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

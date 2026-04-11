@@ -1,0 +1,30 @@
+{
+  "title": "Aggressive Policing and the Educational Performance of Minority Youth",
+  "abstract": "An increasing number of minority youth experience contact with the criminal justice system. But how does the expansion of police presence in poor urban communities affect educational outcomes? Previous research points at multiple mechanisms with opposing effects. This article presents the first causal evidence of the impact of aggressive policing on minority youths' educational performance. Under Operation Impact, the New York Police Department (NYPD) saturated high-crime areas with additional police officers with the mission to engage in aggressive, order-maintenance policing. To estimate the effect of this policing program, we use administrative data from more than 250,000 adolescents age 9 to 15 and a difference-in-differences approach based on variation in the timing of police surges across neighborhoods. We find that exposure to police surges significantly reduced test scores for African American boys, consistent with their greater exposure to policing. The size of the effect increases with age, but there is no discernible effect for African American girls and Hispanic students. Aggressive policing can thus lower educational performance for some minority groups. These findings provide evidence that the consequences of policing extend into key domains of social life, with implications for the educational trajectories of minority youth and social inequality more broadly.",
+  "authors": [
+    {
+      "raw": "Legewie, Joscha",
+      "family": "Legewie",
+      "given": "Joscha"
+    },
+    {
+      "raw": "Fagan, Jeffrey",
+      "family": "Fagan",
+      "given": "Jeffrey"
+    }
+  ],
+  "authors_text": "Legewie, Joscha; Fagan, Jeffrey",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419826020",
+  "doi_url": "https://doi.org/10.1177/0003122419826020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419826020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419826020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

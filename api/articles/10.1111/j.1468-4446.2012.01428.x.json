@@ -1,0 +1,45 @@
+{
+  "title": "‘The whole is always smaller than its parts’ – a digital test ofGabrielTardes' monads",
+  "abstract": "AbstractIn this paper we argue that the new availability of digital data sets allows one to revisitGabrielTarde's (1843–1904) social theory that entirely dispensed with using notions such as individual or society. Our argument is that when it was impossible, cumbersome or simply slow to assemble and to navigate through the masses of information on particular items, it made sense to treat data about social connections by defining two levels: one for the element, the other for the aggregates. But once we have the experience of following individuals through their connections (which is often the case with profiles) it might be more rewarding to begin navigating datasets without making the distinction between the level of individual component and that of aggregated structure. It becomes possible to give some credibility to Tarde's strange notion of ‘monads’. We claim that it is just this sort of navigational practice that is now made possible by digitally available databases and that such a practice could modify social theory if we could visualize this new type of exploration in a coherent way.",
+  "authors": [
+    {
+      "raw": "Latour, Bruno",
+      "family": "Latour",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Jensen, Pablo",
+      "family": "Jensen",
+      "given": "Pablo"
+    },
+    {
+      "raw": "Venturini, Tommaso",
+      "family": "Venturini",
+      "given": "Tommaso"
+    },
+    {
+      "raw": "Grauwin, Sébastian",
+      "family": "Grauwin",
+      "given": "Sébastian"
+    },
+    {
+      "raw": "Boullier, Dominique",
+      "family": "Boullier",
+      "given": "Dominique"
+    }
+  ],
+  "authors_text": "Latour, Bruno; Jensen, Pablo; Venturini, Tommaso; Grauwin, Sébastian; Boullier, Dominique",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2012,
+  "doi": "10.1111/j.1468-4446.2012.01428.x",
+  "doi_url": "https://doi.org/10.1111/j.1468-4446.2012.01428.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1468-4446.2012.01428.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1468-4446.2012.01428.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

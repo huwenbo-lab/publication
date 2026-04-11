@@ -1,0 +1,30 @@
+{
+  "title": "Why Do Friends Have Similar Educational Expectations? Separating Influence and Selection Effects",
+  "abstract": "The influence of friends in shaping students' educational expectations has received considerable theoretical and empirical attention in past research. However, few studies have directly tackled the methodological problems associated with estimating such influence effects. In particular, the separation of selection effects-with students selecting friends with similar educational expectations-from influence effects has remained elusive. In this study, we therefore investigate whether friend influence persists once we account for selection effects and other confounding network-related processes. In addition, we quantify the contribution of selection and influence to the similarity of educational expectations among friends. We rely on two-wave longitudinal data on 1,821 German secondary school students in 77 classrooms and multilevel random-coefficients stochastic actor-oriented models for the coevolution of networks and behaviour. Our results demonstrate that both selection and influence contribute to expectation-based similarity and that selection effects are substantial. This shows that without explicitly accounting for selection, estimates of friend influence effects are likely to be biased.",
+  "authors": [
+    {
+      "raw": "Kretschmer, David",
+      "family": "Kretschmer",
+      "given": "David"
+    },
+    {
+      "raw": "Roth, Tobias",
+      "family": "Roth",
+      "given": "Tobias"
+    }
+  ],
+  "authors_text": "Kretschmer, David; Roth, Tobias",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa042",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa042",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa042",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa042.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

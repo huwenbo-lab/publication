@@ -1,0 +1,25 @@
+{
+  "title": "Open Secrecy: How Police Crackdowns and Creative Problem-Solving Brought Illegal Markets out of the Shadows",
+  "abstract": "Can organized illegal activities grow stronger and more advanced in response to legal pressure? In October 2013, the FBI shut down Silk Road, a thriving e-commerce market for illegal drugs. After the shock, market actors adopted a new identity verification method that enabled mass-migration to other markets, and created websites for information distribution that reduced post-shock uncertainties. The outcome was a decentralized market in which actors could operate in open secrecy across multiple websites. With verifiable pseudonyms and securely obfuscated real-world identities, actors could publicly discuss, plan, and participate in illegal activities. Threats from police and opportunistic criminals persisted but were no longer crippling concerns as buyers and sellers could reasonably expect that their exchange partners would be available for future business; the illegal market could operate more like a legal one. Drawing on quantitative and qualitative data, the author argues that advances in information technology have expanded the opportunity structure for cooperation and creative problem-solving in the underworld, and therefore that shocks did not hinder but rather stimulate development in digital drug markets. Data, collected in 2013-2017, include nearly one million transactions from three illicit e-commerce markets, three millionmessages from eight discussion forums, and website traffic from two market-independent websites.",
+  "authors": [
+    {
+      "raw": "Ladegaard, Isak",
+      "family": "Ladegaard",
+      "given": "Isak"
+    }
+  ],
+  "authors_text": "Ladegaard, Isak",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz140",
+  "doi_url": "https://doi.org/10.1093/sf/soz140",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz140",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz140.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

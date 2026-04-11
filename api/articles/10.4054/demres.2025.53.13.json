@@ -1,0 +1,40 @@
+{
+  "title": "Unpacking the black box of latent class analysis using qualitative life history interviews: A data-linked explanatory approach examining sexual behavior in rural South Africa",
+  "abstract": "BACKGROUND Sexual behaviors are determined by present-day factors and past/future considerations. Previous work utilizing latent class analysis on a population-based cross-sectional survey of rural South Africans aged 15-plus showed how sexual behaviors cluster in distinct population subgroups (Class 1: Single with consistent protective behaviors; Class 2: Risky behaviors; Class 3: In union with lack of protective behaviors) and their associations with age, sex, and HIV status. OBJECTIVE Expanding upon this work, we advance a novel mixed methods approach-data-linked explanatory analysis-to demonstrate how nested qualitative life history interviews (LHIs) with survey participants can be used to account for population patterns in studies utilizing person-centered techniques to classify health behaviors. METHODS We predict the most likely latent class for a subsample of men and women aged 40-plus living with and without HIV from the survey (n = 45) and then analyze LHIs within each class by gender and HIV status. We highlight the different routes participants take to end up in the same predicted latent class in mid/later life, and we explore additional factors that may account for predicted class membership and HIV-related outcomes within the broader context of participants' lives. FINDINGS In the LHI sample (n = 45), 22% fell into Class 1, 7% into Class 2, and 71% into Class 3. Factors that may account for predicted latent class membership include: Class 1-living with HIV or fears of contracting HIV; Class 3-life events and lifestyle changes (for men without HIV), including illness (for men with HIV). In Class 3, married women's relative influence over their husbands' behaviors, as well as their husbands' own HIV-related awareness, actions, and concerns, also inform HIV-related outcomes. CONTRIBUTION Data-linked explanatory analysis is a novel and valuable approach to understanding the complexity underlying population subgroups identified by latent class analysis, enabling triangulation at the individual level and showing how survey-nested qualitative interviews can help uncover factors contributing to aggregate population-level patterns.",
+  "authors": [
+    {
+      "raw": "Angotti, Nicole",
+      "family": "Angotti",
+      "given": "Nicole"
+    },
+    {
+      "raw": "Houle, Brian",
+      "family": "Houle",
+      "given": "Brian"
+    },
+    {
+      "raw": "Schatz, Enid",
+      "family": "Schatz",
+      "given": "Enid"
+    },
+    {
+      "raw": "Mojola, Sanyu A.",
+      "family": "Mojola",
+      "given": "Sanyu A."
+    }
+  ],
+  "authors_text": "Angotti, Nicole; Houle, Brian; Schatz, Enid; Mojola, Sanyu A.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.13",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The often overlooked issue of statistical power: This and other issues regarding assessing importance weighting in quality of life measures",
+  "abstract": "In the area of quality of life research, researchers may ask respondents to rate importance as well as satisfaction of various life domains (such as job and health) and use importance ratings as weights to calculate overall, or global, life satisfaction. The practice of giving more important domains more weight, known as importance weighting, has not been without controversy. Several previous studies assessed importance weighting using the analytical approach of moderated regression. This study discusses major issues related to how importance weighting has been assessed. Specifically, this study highlights that studies on importance weighting without considering statistical power are prone to type II error, i.e., failing to reject the null hypothesis of no significant weighting effect when the null hypothesis is actually false. The sample size required for adequate statistical power to detect importance weighting functions appeared larger than most previous studies could offer.",
+  "authors": [
+    {
+      "raw": "Hsieh, Chang-ming",
+      "family": "Hsieh",
+      "given": "Chang-ming"
+    }
+  ],
+  "authors_text": "Hsieh, Chang-ming",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2015,
+  "doi": "10.1016/j.ssresearch.2014.12.009",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2014.12.009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2014.12.009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2014.12.009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The influence of the number of siblings on expected family size in a cohort of young adults in Germany",
+  "abstract": "BACKGROUND Previous research has shown that fertility is influenced by the family of origin. However, there is only little evidence about intergenerational transmission of fertility expectations in younger birth cohorts. OBJECTIVE We investigate if there is a positive relationship between the number of full siblings and expected family size in a young birth cohort in Germany and whether this association can be explained by transmission of socioeconomic status. METHODS We use the fifth wave of the German Family Panel (birth cohort 1991-1993) and estimate multinomial logistic regression models. RESULTS We find a positive effect of the number of full siblings on expected family size that remains stable when controlling for the socioeconomic status of the parents. The effect is smaller on an expected family size of two children compared to other parities which is compatible with the prevailing two-child norm in Germany. Contrary to our expectations there is no effect of the number of siblings on being uncertain about having children. CONCLUSION The family of origin influences fertility expectations in a cohort born in the 1990s in Germany, which cannot be explained by transmission of socioeconomic status. Although it is theoretically plausible, there is no final proof that the relationship is instead due to transmission of family values, as the number of siblings is only a proxy variable for the family values of the parents. CONTRIBUTION We verify the results of previous studies for a cohort born in the 1990s in Germany, account for parity differences, and include uncertainty in fertility expectations.",
+  "authors": [
+    {
+      "raw": "Buhr, Petra",
+      "family": "Buhr",
+      "given": "Petra"
+    },
+    {
+      "raw": "Lutz, Katharina",
+      "family": "Lutz",
+      "given": "Katharina"
+    },
+    {
+      "raw": "Peter, Timo",
+      "family": "Peter",
+      "given": "Timo"
+    }
+  ],
+  "authors_text": "Buhr, Petra; Lutz, Katharina; Peter, Timo",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.10",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

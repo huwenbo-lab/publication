@@ -1,0 +1,25 @@
+{
+  "title": "Does waiting pay off for couples? Partnership duration prior to household formation and union stability",
+  "abstract": "BACKGROUND Most couples that live together began their relationship while having separate addresses. In contrast to the large body of literature on the role of pre-marital cohabitation in divorce, very little is known about how the partnership period before moving in together affects union stability. OBJECTIVE This article investigates: 1) the timing of household formation in a couple's history, 2) the impact of such timing on dissolution behavior, and 3) how household formation and dissolution differ for first and higher-order partnerships. METHODS Using data based on 15,081 partnerships (of which 45% were coresidential unions) from the German Family Panel, cumulative incidence curves reveal the dynamic of the non-coresidential partnership episode. For the sample of coresidential unions (N=6,741), piecewise constant survival models with a person-specific frailty term are estimated in order to assess the influence of household formation timing on union stability. RESULTS Partnership arrangements with partners living in separate households are transitory in nature and may result in either household formation or separation. First partnerships transform into coresidential unions less often and later than higher-order partnerships. Union stability is positively related to the duration of the preceding non-coresidential period. Especially among unions with a non-coresidential period of 7 to 24 months, first partnerships have lower dissolution risks than higher-order partnerships. CONCLUSION The results suggest that the non-coresidential period is a significant phase in the partnership, as it enables couples to acquire information about the quality of their partnership.",
+  "authors": [
+    {
+      "raw": "Schnor, Christine",
+      "family": "Schnor",
+      "given": "Christine"
+    }
+  ],
+  "authors_text": "Schnor, Christine",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.22",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

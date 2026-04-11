@@ -1,0 +1,60 @@
+{
+  "title": "Separation and Elevated Residential Mobility: A Cross-Country Comparison",
+  "abstract": "AbstractThis study investigates the magnitude and persistence of elevated post-separation residential mobility (i.e. residential instability) in five countries (Australia, Belgium, Germany, the Netherlands, and the UK) with similar levels of economic development, but different welfare provisions and housing markets. While many studies examine residential changes related to separation in selected individual countries, only very few have compared patterns across countries. Using longitudinal data and applying Poisson regression models, we study the risk of a move of separated men and women compared with cohabiting and married individuals. We use time since separation to distinguish between moves due to separation and moves of separated individuals. Our analysis shows that separated men and women are significantly more likely to move than cohabiting and married individuals. The risk of a residential change is the highest shortly after separation, and it decreases with duration since separation. However, the magnitude of this decline varies by country. In Belgium, mobility rates remain elevated for a long period after separation, whereas in the Netherlands, post-separation residential instability appears brief, with mobility rates declining rapidly. The results suggest that housing markets are likely to shape the residential mobility of separated individuals. In countries, where mortgages are easy to access and affordable rental properties are widespread, separated individuals can rapidly adjust their housing to new family circumstances; in contrast, in countries with limited access to homeownership and small social rental markets, separated individuals experience a prolonged period of residential instability.",
+  "authors": [
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    },
+    {
+      "raw": "Mikolai, Júlia",
+      "family": "Mikolai",
+      "given": "Júlia"
+    },
+    {
+      "raw": "Thomas, Michael J.",
+      "family": "Thomas",
+      "given": "Michael J."
+    },
+    {
+      "raw": "Vidal, Sergi",
+      "family": "Vidal",
+      "given": "Sergi"
+    },
+    {
+      "raw": "Schnor, Christine",
+      "family": "Schnor",
+      "given": "Christine"
+    },
+    {
+      "raw": "Willaert, Didier",
+      "family": "Willaert",
+      "given": "Didier"
+    },
+    {
+      "raw": "Visser, Fieke H. L.",
+      "family": "Visser",
+      "given": "Fieke H. L."
+    },
+    {
+      "raw": "Mulder, Clara H.",
+      "family": "Mulder",
+      "given": "Clara H."
+    }
+  ],
+  "authors_text": "Kulu, Hill; Mikolai, Júlia; Thomas, Michael J.; Vidal, Sergi; Schnor, Christine; Willaert, Didier; Visser, Fieke H. L.; Mulder, Clara H.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2020,
+  "doi": "10.1007/s10680-020-09561-1",
+  "doi_url": "https://doi.org/10.1007/s10680-020-09561-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-020-09561-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-020-09561-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

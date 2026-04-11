@@ -1,0 +1,30 @@
+{
+  "title": "Late School Tracking, Less Class Bias in Educational Decision-Making? The Uncertainty Reduction Mechanism and Its Experimental Testing",
+  "abstract": "A long-standing hypothesis in the sociology of education is that the timing of ability tracking impacts the inequality of educational opportunity. While earlier studies mainly focused on how early tracking impacts the primary effect of social origin (systematic performance differences due to social background), the impact of early tracking on the secondary effect of social origin (class-specific educational decision-making) has been neglected. Recently, the idea has been put forward that late tracking decreases uncertainty in educational decision-making, thus enabling more rational decision-making by lower-class individuals. Extending this idea, we propose the uncertainty reduction mechanism (URM) as a theoretical foundation; this mechanism can be derived from a decision-theoretic model on educational decision-making based on prospect theory. Moreover, we perform a first empirical test of the URM by means of a computerized laboratory experiment. The evidence is in line with the model predictions and the results support the intuition that a postponement of tracking could reduce the negative bias of lower-class individuals in educational decision-making, thereby reducing educational inequality with respect to social background.",
+  "authors": [
+    {
+      "raw": "Berger, Joel",
+      "family": "Berger",
+      "given": "Joel"
+    },
+    {
+      "raw": "Combet, Benita",
+      "family": "Combet",
+      "given": "Benita"
+    }
+  ],
+  "authors_text": "Berger, Joel; Combet, Benita",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcw054",
+  "doi_url": "https://doi.org/10.1093/esr/jcw054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcw054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcw054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

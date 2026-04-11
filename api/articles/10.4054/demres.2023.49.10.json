@@ -1,0 +1,40 @@
+{
+  "title": "Use of standard verbal autopsies to improve the mortality data capacity of civil registration and vital statistics systems in low- and middle-income countries: Analysis of key issues",
+  "abstract": "BACKGROUND Multidimensional issues confront the use of standard verbal autopsies (SVAs), such as the WHO's verbal autopsy standards and the Population Health Metrics Research Consortium's gold standard verbal autopsy, to improve the mortality data performance of civil registration and vital statistics (CRVS) systems in low-and middle-income countries (LMICs).OBJECTIVES This paper attempts an inclusive analysis of these issues and their implications for policies intending to integrate routine SVAs into CRVS systems to enhance mortality data coverage in LMICs. METHODOLOGY Issues were identified from the verbal autopsy and CRVS literature, official documents, and the authors' field experiences with the Nigerian CRVS system. These were analysed using a problem (key issues) analysis methodology.RESULTS Two classes of issues were shown to impinge on the use of SVAs within CRVS systems. One class is generic to SVAs (technical complexity, cost, and standardization issues) and to CRVS systems (contextual, resource, and infrastructural limitations) in LMICs. The other is related to the incompatibility of SVA and CRVS system functions, operations, instruments, and data.CONCLUSION The results indicate a need for alternative solutions to the mortality data challenges of CRVS systems in LMICs that are more pragmatic than SVAs, especially in the short and medium term. Such alternatives must involve less complex data procedures and costs and must be adapted to CRVS system functions, operations, and socioeconomic contexts in LMICs.CONTRIBUTION The paper contributes to the discourse on the use of SVAs to improve the mortality data capacity of CRVS systems in LMICs.",
+  "authors": [
+    {
+      "raw": "Maduekwe, Nnamdi Ifeanyi",
+      "family": "Maduekwe",
+      "given": "Nnamdi Ifeanyi"
+    },
+    {
+      "raw": "Banjo, Olufunmilayo O.",
+      "family": "Banjo",
+      "given": "Olufunmilayo O."
+    },
+    {
+      "raw": "Sangodapo, Mike O.",
+      "family": "Sangodapo",
+      "given": "Mike O."
+    },
+    {
+      "raw": "Abdulazeez, Aisha",
+      "family": "Abdulazeez",
+      "given": "Aisha"
+    }
+  ],
+  "authors_text": "Maduekwe, Nnamdi Ifeanyi; Banjo, Olufunmilayo O.; Sangodapo, Mike O.; Abdulazeez, Aisha",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.10",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

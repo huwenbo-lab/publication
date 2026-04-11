@@ -1,0 +1,30 @@
+{
+  "title": "Comparing Child Poverty Risk by Family Structure During the 2008 Recession",
+  "abstract": "Children in nonmarried families are at greater risk for poverty and especially so during a time of macroeconomic recession. Using carefully harmonized data, the authors analyze child poverty among nonmarried families before and during the 2008 recession in five liberal welfare states: Australia, Canada, Ireland, the United Kingdom, and the United States. Although having similar demographic compositions, the authors document wide cross-national variation in poverty risk based on marital status and gender of the household head. Through the recession, child poverty in Canada and the United Kingdom declined while it increased in Australia and Ireland and was largely unchanged in the United States. Decomposing changes within countries over time, family benefits in the form of income transfers play a major role in reducing poverty for nonmarried families. In all countries, children in cohabitating families were less protected from market instability.",
+  "authors": [
+    {
+      "raw": "Rothwell, David W.",
+      "family": "Rothwell",
+      "given": "David W."
+    },
+    {
+      "raw": "McEwen, Annie",
+      "family": "McEwen",
+      "given": "Annie"
+    }
+  ],
+  "authors_text": "Rothwell, David W.; McEwen, Annie",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2017,
+  "doi": "10.1111/jomf.12421",
+  "doi_url": "https://doi.org/10.1111/jomf.12421",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12421",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12421.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

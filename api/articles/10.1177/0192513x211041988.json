@@ -1,0 +1,35 @@
+{
+  "title": "Living-Apart-Together (LAT) in Contemporary Sweden: (How) Does It Relate to Vulnerability?",
+  "abstract": "Sweden is among the countries with the highest share of single households in Europe, but not all are truly partnerless. We examine the potential vulnerability of individuals in living-apart-together relationships at age 30 and above, analyzing data from the Swedish GGS. We apply multinomial logistic regression. The results show that individuals engaging in LAT occupy an intermediate position in terms of socioeconomic resources (homeownership and economic situation), being less advantaged than co-residents but better-off than singles, especially men. We find no association between ill-health and living in a LAT arrangement. Having previous family experiences (unions with or without children) is positively associated with LAT, but childhood family composition does not matter. The majority of LAT individuals claim to be constrained to living-apart-together rather than LAT being their preferred alternative. Women and the elderly (aged 70+) are, however, more likely to engage in LAT by choice and appreciate their non-residential partnerships.",
+  "authors": [
+    {
+      "raw": "Olah, Livia Sz.",
+      "family": "Olah",
+      "given": "Livia Sz."
+    },
+    {
+      "raw": "Karlsson, Lena",
+      "family": "Karlsson",
+      "given": "Lena"
+    },
+    {
+      "raw": "Sandstrom, Glenn",
+      "family": "Sandstrom",
+      "given": "Glenn"
+    }
+  ],
+  "authors_text": "Olah, Livia Sz.; Karlsson, Lena; Sandstrom, Glenn",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x211041988",
+  "doi_url": "https://doi.org/10.1177/0192513x211041988",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x211041988",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x211041988.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

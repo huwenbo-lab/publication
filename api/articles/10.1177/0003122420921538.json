@@ -1,0 +1,30 @@
+{
+  "title": "Measuring Stability and Change in Personal Culture Using Panel Data",
+  "abstract": "Models of population-wide cultural change tend to invoke one of two broad models of individual change. One approach theorizes people actively updating their beliefs and behaviors in the face of new information. The other argues that, following early socialization experiences, dispositions are stable. We formalize these two models, elaborate empirical implications of each, and derive a simple combined model for comparing them using panel data. We test this model on 183 attitude and behavior items from the 2006 to 2014 rotating panels of the General Social Survey. The pattern of results is complex but more consistent with the settled dispositions model than with the active updating model. Most of the observed change in the GSS appears to be short-term attitude change or measurement error rather than persisting changes. When persistent change occurs, it is somewhat more likely to occur in younger people and for public behaviors and beliefs about high-profile issues than for private attitudes. We argue that we need both models in our theory of cultural evolution but that we need more research on the circumstances under which each is more likely to apply.",
+  "authors": [
+    {
+      "raw": "Kiley, Kevin",
+      "family": "Kiley",
+      "given": "Kevin"
+    },
+    {
+      "raw": "Vaisey, Stephen",
+      "family": "Vaisey",
+      "given": "Stephen"
+    }
+  ],
+  "authors_text": "Kiley, Kevin; Vaisey, Stephen",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1177/0003122420921538",
+  "doi_url": "https://doi.org/10.1177/0003122420921538",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122420921538",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122420921538.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

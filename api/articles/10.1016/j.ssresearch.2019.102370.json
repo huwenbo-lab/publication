@@ -1,0 +1,25 @@
+{
+  "title": "Gender, nonstandard schedules, and partnership quality in the UK: Exploring heterogeneous effects through a quasi-experiment",
+  "abstract": "This study adopts a potential outcomes framework to explore how nonstandard schedules (i.e., employment during nights, evenings, and weekends) affect partnership quality (PQ). Competing theories of positive and negative selection are proposed based on the contention that there will be heterogeneous returns to partnerships from nonstandard schedules (in terms of penalties and benefits) that will depend on how and why partners have selected into these arrangements. Mahalanobis Distance Matching techniques are then employed to mimic blocked randomization, simulate potential outcomes and identify patterns of heterogeneous effects using a sample of 21,766 workers in co-resident partnerships included in the UK Household Longitudinal Study (2010-2017). Results indicate that after correcting for baseline selection, weekend work only negatively affects PQ for mothers, whilst nonstandard hours take their most negative effect on PQ when worked by women without children. Maternal nonstandard hour work, on the other hand, is shown to positively affect PQ. However, results suggest this positive effect may often be obscured by patterns of negative selection. That is, the mothers most commonly observed in nonstandard hours are in partnerships that stand to benefit the least. In contrast, consistent patterns of positive selection into both nonstandard days and hours are observed for men without children, demonstrating the centrality of bargaining power and household constraints for selection. Such findings highlight the need to consider complex and gendered processes of household and socioeconomic selection when studying the relationship between nonstandard schedules and outcomes relating to family cohesion.",
+  "authors": [
+    {
+      "raw": "Taiji, Riley",
+      "family": "Taiji",
+      "given": "Riley"
+    }
+  ],
+  "authors_text": "Taiji, Riley",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102370",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102370",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102370",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102370.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

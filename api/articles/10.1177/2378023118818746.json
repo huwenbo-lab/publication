@@ -1,0 +1,25 @@
+{
+  "title": "Neighborhood Residence and Assessments of Racial Profiling Using Census Data",
+  "abstract": "People frequently compare the racial composition of stopped individuals with the racial composition of the local residential population to assess unequal policing. This type of evaluation rests on the assumption that the census-derived population accurately reflects the population at risk to be stopped. For vehicle stops, existing research indicates that this assumption is very problematic, resulting in highly unreliable assessments of black-white policing disparities. However, there is little research on the significance of this assumption for stopped urban pedestrians. Analyzing more than 100,000 investigatory stops in Chicago, the present study finds that similar to vehicle stops, most pedestrian investigations do not involve neighborhood residents, and estimates of racial disproportionality are inflated when this issue is ignored. Still, the degree to which estimates are inflated appears less than that previously reported for vehicle stops, and sizable racial disparities remain unexplained after the issue is taken into account. Implications for future research are discussed.",
+  "authors": [
+    {
+      "raw": "Hannon, Lance",
+      "family": "Hannon",
+      "given": "Lance"
+    }
+  ],
+  "authors_text": "Hannon, Lance",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118818746",
+  "doi_url": "https://doi.org/10.1177/2378023118818746",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118818746",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118818746.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The 1918 influenza pandemic and subsequent birth deficit in Japan",
+  "abstract": "BACKGROUND Recent research has documented fertility decline after the peak of pandemic-associated mortality during the 1918 influenza pandemic. Yet the time interval between the mortality peak and the dip in fertility and its contributing mechanisms remains a line of debate. OBJECTIVE This study examines the inter-temporal association between pandemic-associated mortality and subsequent birth deficit in Japan in order to shed light on the current debate about the impact of the 1918 influenza pandemic on human fertility. METHODS Seasonally and trend-adjusted monthly data on deaths, births, and stillbirths in Japan are used to compute cross-correlations between deaths, births, and stillbirths. RESULTS The analysis revealed a negative and statistically significant association between deaths (d) at time t and births (b) at time t + 9 (r(db) (9) = -.397, P < .0001), indicating that excessive birth deficits occurred nine months after pandemic-associated mortality peaked. Additionally, there was a positive and high contemporaneous correlation between pandemic-associated stillbirths (s) and excess mortality (r(ds) (0)= .929, p < .0001). CONCLUSIONS In contrast to earlier research that suggests that late first-trimester embryonic loss was the primary link between pandemic-associated mortality and future births, the findings of this paper suggest that a combination of reduced conceptions and embryonic losses during the first month of pregnancy were an important mechanism linking pandemic-associated mortality with subsequent depressed fertility.",
+  "authors": [
+    {
+      "raw": "Chandra, Siddharth",
+      "family": "Chandra",
+      "given": "Siddharth"
+    },
+    {
+      "raw": "Yu, Yan-Liang",
+      "family": "Yu",
+      "given": "Yan-Liang"
+    }
+  ],
+  "authors_text": "Chandra, Siddharth; Yu, Yan-Liang",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.11",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

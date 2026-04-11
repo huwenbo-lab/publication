@@ -1,0 +1,50 @@
+{
+  "title": "Assessing Electronic Health Records for Describing Racial and Ethnic Health Disparities: A Research Note",
+  "abstract": "The use of data derived from elec tronic health records (EHRs) to describe racial and eth nic health disparities is increas ingly com mon, but there are chal lenges. While the num ber of patients cov ered by EHRs can be quite large, such patients may not be rep re sen ta tive of a source pop u la tion. One way to eval u ate the extent of this lim i ta tion is by linking EHRs to an exter nal source, in this case with the Amer i can Community Survey (ACS). Relying on a strat i fied ran dom sam ple of about 200,000 patient records from a large, pub lic, inte grated health deliv ery sys tem in North Carolina (2016-2019), we assess link ages to restricted ACS microdata (2001-2017) by race and eth nic ity to under stand the strengths and weaknesses of EHR-derived data for describing disparities. The results in this research note sug gest that Black-White com par i sons will ben e fit from stan dard adjust ments (e.g., weighting pro ce dures) but that mis esti ma tion of health disparities may arise for His panic patients because of dif fer en tial cov er age rates for this group.",
+  "authors": [
+    {
+      "raw": "Limburg, Aubrey",
+      "family": "Limburg",
+      "given": "Aubrey"
+    },
+    {
+      "raw": "Young, Jordan",
+      "family": "Young",
+      "given": "Jordan"
+    },
+    {
+      "raw": "Carey, Timothy S.",
+      "family": "Carey",
+      "given": "Timothy S."
+    },
+    {
+      "raw": "Chelminski, Paul Roman",
+      "family": "Chelminski",
+      "given": "Paul Roman"
+    },
+    {
+      "raw": "Udalova, Victoria M.",
+      "family": "Udalova",
+      "given": "Victoria M."
+    },
+    {
+      "raw": "Entwisle, Barbara",
+      "family": "Entwisle",
+      "given": "Barbara"
+    }
+  ],
+  "authors_text": "Limburg, Aubrey; Young, Jordan; Carey, Timothy S.; Chelminski, Paul Roman; Udalova, Victoria M.; Entwisle, Barbara",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11582088",
+  "doi_url": "https://doi.org/10.1215/00703370-11582088",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11582088",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11582088.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

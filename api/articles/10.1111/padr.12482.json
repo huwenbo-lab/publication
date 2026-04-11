@@ -1,0 +1,35 @@
+{
+  "title": "The Childhood Origins of Climate-Induced Mobility and Immobility",
+  "abstract": "The literature on climate exposures and human migration has focused largely on assessing short-term responses to temperature and precipitation shocks. In this paper, we suggest that this common coping strategies model can be extended to account for mechanisms that link environmental conditions to migration behavior over longer periods of time. We argue that early-life climate exposures may affect the likelihood of migration from childhood through early adulthood by influencing parental migration, community migration networks, human capital development, and decisions about household resource allocation, all of which are correlates of geographic mobility. After developing this conceptual framework, we evaluate the corresponding hypotheses using a big data approach, analyzing 20 million individual georeferenced records from 81 censuses implemented across 31 countries in tropical Africa, Latin America, and Southeast Asia. For each world region, we estimate regression models that predict lifetime migration (a change in residence between birth and ages 30-39) as a function of temperature and precipitation anomalies in early life, defined as the year prior to birth to age four. Results suggest that early-life climate is systematically associated with changes in the probability of lifetime migration in most regions of the tropics, with the largest effects observed in sub-Saharan Africa. In East and Southern Africa, the effects of temperature shocks vary by sex and educational attainment and in a manner that suggests women and those of lower socioeconomic status are most vulnerable. Finally, we compare our main results with models using alternative measures of climate exposures. This comparison suggests climate exposures during the prenatal period and first few years of life are particularly (but not exclusively) salient for lifetime migration, which is most consistent with the hypothesized human capital mechanism.",
+  "authors": [
+    {
+      "raw": "Thiede, Brian C.",
+      "family": "Thiede",
+      "given": "Brian C."
+    },
+    {
+      "raw": "Randell, Heather",
+      "family": "Randell",
+      "given": "Heather"
+    },
+    {
+      "raw": "Gray, Clark",
+      "family": "Gray",
+      "given": "Clark"
+    }
+  ],
+  "authors_text": "Thiede, Brian C.; Randell, Heather; Gray, Clark",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2022,
+  "doi": "10.1111/padr.12482",
+  "doi_url": "https://doi.org/10.1111/padr.12482",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12482",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12482.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Reflections on Conceptualizing and Measuring Tie Strength",
+  "abstract": "We welcome this opportunity to revisit \"Measuring Tie Strength\" When we wrote our article, the field of social networks was in the process of emerging as a recognized area of study, though it had many precursors (Freeman 2004). Since then, interest in network phenomena has surged, engaging analysts from many disciplines. We began by observing that the concept of tie strength had been substantively fruitful, and interest in it remains high -indeed growing: Web of Science citations to Granovetter's classic (1973) statement about tie strength accelerated rapidly in the 2000s, exceeding 500 per year from 2009 to 2011. The much lower level of attention accorded to our article on its measurement follows a similar time path. Studies invoking the concept cover a broad substantive range: they examine topics including innovation (Ruef 2002), job searches (Harvey 2008), knowledge transfer (Levin and Cross 2004), minority social integration (Vervoort 2011), political participation (Lim 2008) and volunteering (Paik and Navarre-Jackson 2011), among many others. Studies of tie strength also span locations as disparate as China (e.g., Bian 1997) and Sweden (e.g., Korpi 2001).",
+  "authors": [
+    {
+      "raw": "Marsden, P. V.",
+      "family": "Marsden",
+      "given": "P. V."
+    },
+    {
+      "raw": "Campbell, K. E.",
+      "family": "Campbell",
+      "given": "K. E."
+    }
+  ],
+  "authors_text": "Marsden, P. V.; Campbell, K. E.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2012,
+  "doi": "10.1093/sf/sos112",
+  "doi_url": "https://doi.org/10.1093/sf/sos112",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsos112",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sos112.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

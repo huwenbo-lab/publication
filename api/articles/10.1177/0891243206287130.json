@@ -1,0 +1,35 @@
+{
+  "title": "Race, Gender, and the Wage Gap",
+  "abstract": "Using the Integrated Postsecondary Education Data System, the authors compare the gender pay gap at predominantly white institutions (PWIs) with the gap at historically Black colleges and universities (HBCUs). Also, within the HBCU milieu, they examine how class of the institution has an impact on pay gaps. First, they find that HBCUs do seem to have a smaller gap but that pay for all faculty at HBCUs is lower than in PWIs. Second, the gap is only significantly smaller in the rank of associates. Third, the gap is smaller at the associate rank because men make less money in HBCUs than they do in PWIs. Fourth, elite HBCUs are more similar to PWIs than to HBCUs in terms of their gender pay gap. Race, class, and gender effects must be taken into account to understand patterns of wage equity across these institutions. The greater gender equity at HBCUs is apparent because of the absence of the “men's bonus, ” which is prevalent in PWIs and elite HBCUs.",
+  "authors": [
+    {
+      "raw": "Renzulli, Linda A.",
+      "family": "Renzulli",
+      "given": "Linda A."
+    },
+    {
+      "raw": "Grant, Linda",
+      "family": "Grant",
+      "given": "Linda"
+    },
+    {
+      "raw": "Kathuria, Sheetija",
+      "family": "Kathuria",
+      "given": "Sheetija"
+    }
+  ],
+  "authors_text": "Renzulli, Linda A.; Grant, Linda; Kathuria, Sheetija",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2006,
+  "doi": "10.1177/0891243206287130",
+  "doi_url": "https://doi.org/10.1177/0891243206287130",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243206287130",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243206287130.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

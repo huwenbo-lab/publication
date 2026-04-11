@@ -1,0 +1,35 @@
+{
+  "title": "Both parents matter. Family-based educational inequality in Italy over the second half of the 20th century",
+  "abstract": "Research on educational inequalities, as well as social stratification research in general, has since long conceptualized and operationalized social origins using parental status, in particular their occupational position and/or educational achievement. The theoretical rationale is that an individual's social position depends on his/ her household. As a matter of fact, often in actual research practice only paternal characteristics have been used, either on theoretical grounds or using the so-called dominance coding. Such a practice is not tenable today, when women systematically outperform men in educational achievement and where their labour market par-tecipation has dramatically raised. The paper shows how father-based and single-parent codings systematically bias the estimates of inequality of educational opportunities (IEO), particularly concerning its trend over time. It studies systematically how different codings of social origins, by including or excluding relevant information, change the empirical results of models of IEO for the Italian case. It uses survey data from three waves (1998, 2003 and 2008) of the MultiPurpose Survey carried out by the Italian National Institute for Statistics (Istat), in order to compare the fit and the parameters estimates for the association between parental education and educational achievement of a set of logit models of IEO and of its trend over time, where different measurement strategies of social origin, as indexed by parental education, are used. This is done for two school transitions, namely achieving at least upper secondary and achieving tertiary, including all post-secondary titles. We also compare the magnitude of the effect of parental social class and education, confirming the latter to be stronger than the former. Results show that models where social origin is measured including information concerning both parents reproduce the data better than models relying on one parent only. The dominance approach un-derestimates the association between parental education and respondent's education when parents have a similar educational title, while it overestimates it when a wider education gap is found between parents. In particular, a full interaction coding, exploiting all available information by considering all combinations of maternal and paternal education, provides the best fit for models of the transition to upper secondary education, while con-cerning the transition to a tertiary title the reduced interaction coding, which does not consider the dominant parent in non-homogamic parental couples, is statistically equivalent to the full interaction one. Our analysis shows that including both parents significantly changes the resulting evidence concerning the trend of IEO over cohorts: models using the interacted coding of social origin, exploiting all available information, show a clearer picture of a declining IEO over time, this decrease being mostly determined by the offspring of low-educated parents and of those parental couples where the maternal educational level is dominant with respect to the paternal one.",
+  "authors": [
+    {
+      "raw": "Ballarino, Gabriele",
+      "family": "Ballarino",
+      "given": "Gabriele"
+    },
+    {
+      "raw": "Meraviglia, Cinzia",
+      "family": "Meraviglia",
+      "given": "Cinzia"
+    },
+    {
+      "raw": "Panichella, Nazareno",
+      "family": "Panichella",
+      "given": "Nazareno"
+    }
+  ],
+  "authors_text": "Ballarino, Gabriele; Meraviglia, Cinzia; Panichella, Nazareno",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100597",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100597",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100597",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100597.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

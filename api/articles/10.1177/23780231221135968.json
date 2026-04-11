@@ -1,0 +1,40 @@
+{
+  "title": "Prepandemic and Pandemic Marriages among Same-Sex and Different-Sex Couples",
+  "abstract": "Most states experienced declines in marriages during the pandemic, with variation across states. Given that marriages to same-sex couples make up a small share of total marriages, these trends are overwhelmingly representative of marriages of different-sex couples. To test if the decline observed among marriages of different-sex couples is also observed among marriages of same-sex couples, the authors calculated ratios (2020 marriage count divided by 2019 marriage count) for 13 states, disaggregating marriages of same- and different-sex couples. The 13 states selected were the only states in which same-sex marriage administrative data were available. The results reveal disparate effects of the pandemic on marriage counts for same-sex and different-sex couples. For 11 of the states examined, marriages of same-sex couples either did not decline or declined less than marriages of different-sex couples. Further investigation is warranted as more state-level data on same-sex marriage become available.",
+  "authors": [
+    {
+      "raw": "Julian, Christopher A.",
+      "family": "Julian",
+      "given": "Christopher A."
+    },
+    {
+      "raw": "Manning, Wendy D.",
+      "family": "Manning",
+      "given": "Wendy D."
+    },
+    {
+      "raw": "Westrick-Payne, Krista K.",
+      "family": "Westrick-Payne",
+      "given": "Krista K."
+    },
+    {
+      "raw": "Carlson, Lisa",
+      "family": "Carlson",
+      "given": "Lisa"
+    }
+  ],
+  "authors_text": "Julian, Christopher A.; Manning, Wendy D.; Westrick-Payne, Krista K.; Carlson, Lisa",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221135968",
+  "doi_url": "https://doi.org/10.1177/23780231221135968",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221135968",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221135968.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

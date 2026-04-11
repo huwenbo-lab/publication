@@ -1,0 +1,25 @@
+{
+  "title": "Distributionally adjusted life expectancy as a life table function",
+  "abstract": "BACKGROUND Life expectancy is one of the most useful indicators of mortality and development in a given society but considers only one aspect of the distribution of length of life: the average. OBJECTIVE Within an axiomatic framework we investigate alternative measures of life expectancy that take into account distributional considerations in the length of life of the generation in a period life table. Most of the literature studying inequality in the length of life distribution has used inequality tools from income distribution analysis, focusing on life expectancy and inequality as separate, albeit related, issues. CONTRIBUTION We propose an alternative, integrated framework, which allows us to combine both dimensions in a single index and provide an axiomatic derivation that delivers the particular indexes to be used given a set of axioms. We illustrate the proposed index using data from the Human Mortality Database.",
+  "authors": [
+    {
+      "raw": "Goerlich Gisbert, Francisco Jose",
+      "family": "Goerlich Gisbert",
+      "given": "Francisco Jose"
+    }
+  ],
+  "authors_text": "Goerlich Gisbert, Francisco Jose",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.14",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

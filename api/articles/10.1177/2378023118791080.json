@@ -1,0 +1,30 @@
+{
+  "title": "Biases of Online Political Polls: Who Participates?",
+  "abstract": "With a large portion of the population online and the high cost of phone-based surveys, querying people about their voter preference online can offer an affordable and timely alternative. However, given that there are biases in who adopts various sites and services that are often used as sampling frames (e.g., various social media), online political polls may not represent the views of the overall population. How are such polls biased? Who is most likely to participate in them? Drawing on a national survey of voter-eligible American adults administered in summer 2016, this paper shows that background characteristics (i.e., age, gender, race, education, and employment status) as well as Internet experiences and skills relate to who casts votes in online political polls.",
+  "authors": [
+    {
+      "raw": "Hargittai, Eszter",
+      "family": "Hargittai",
+      "given": "Eszter"
+    },
+    {
+      "raw": "Karaoglu, Gokce",
+      "family": "Karaoglu",
+      "given": "Gokce"
+    }
+  ],
+  "authors_text": "Hargittai, Eszter; Karaoglu, Gokce",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118791080",
+  "doi_url": "https://doi.org/10.1177/2378023118791080",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118791080",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118791080.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

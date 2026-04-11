@@ -1,0 +1,30 @@
+{
+  "title": "What Do Historical Sociologists Do All Day? Analytic Architectures in Historical Sociology",
+  "abstract": "Drawing on an original data set of over 15,000 in-text citations, we use quantitative and qualitative techniques to analyze 37 award-winning publications in historical sociology between 1995 and 2015. We show that historical sociology comprises no fewer than four distinct analytic architectures that rely on different kinds of sources and use evidence and theory in different ways. We find suggestive evidence that the recognition of these different architectures has varied over time, such that award-winning works of historical sociology increasingly use architectures that favor the heavier use of primary sources and/or constructive theoretical syntheses. These findings suggest that analytic architectures are a consequential facet of the practice of social research that may yield important insights into dynamics of scholarly recognition, consecration, and methodological pluralism across the social sciences.",
+  "authors": [
+    {
+      "raw": "Mayrl, Damon",
+      "family": "Mayrl",
+      "given": "Damon"
+    },
+    {
+      "raw": "Wilson, Nicholas Hoover",
+      "family": "Wilson",
+      "given": "Nicholas Hoover"
+    }
+  ],
+  "authors_text": "Mayrl, Damon; Wilson, Nicholas Hoover",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2020,
+  "doi": "10.1086/709017",
+  "doi_url": "https://doi.org/10.1086/709017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F709017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/709017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

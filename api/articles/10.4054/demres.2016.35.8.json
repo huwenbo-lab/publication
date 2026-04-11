@@ -1,0 +1,30 @@
+{
+  "title": "Migrant children and migrants' children: Nativity differences in school enrollment in Mexico and the United States",
+  "abstract": "BACKGROUND The growing prevalence of migrant children in diverse contexts requires a reconsideration of the intergenerational consequences of migration. To understand how migration and duration of residence are associated with children's schooling, we need more comparative work that can point to the similarities and differences in outcomes for children across contexts. OBJECTIVE This paper addresses the importance of nativity and duration of residence for children's school enrollment on both sides of a binational migration system: The United States and Mexico. The analyses are designed to determine whether duration of residence has a similar association with school enrollment across these different settings. METHODS The analyses are based on nationally representative household data from the 2010 Mexican Census and the 2006-2010 American Community Survey. Logistic regression models compare school enrollment patterns of Mexican and U.S.-born children of Mexican origin in the United States and those of Mexican and U.S.-born children in Mexico. Interactions for nativity/duration of residence and age are also included. RESULTS The results demonstrate that, adjusting for household resources and household-level migration experience, Mexican-born children in the United States and U.S.-born children in Mexico, particularly those who arrived recently, lag behind in school enrollment. These differences are most pronounced at older ages. CONCLUSIONS The comparisons across migration contexts point to greater school attrition and non-enrollment among older, recent migrant youth, regardless of the context. The interactions suggest that recent migration is associated with lower schooling for youth who engage in migration at older ages in both the United States and Mexico.",
+  "authors": [
+    {
+      "raw": "Glick, Jennifer E.",
+      "family": "Glick",
+      "given": "Jennifer E."
+    },
+    {
+      "raw": "Yabiku, Scott T.",
+      "family": "Yabiku",
+      "given": "Scott T."
+    }
+  ],
+  "authors_text": "Glick, Jennifer E.; Yabiku, Scott T.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.8",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

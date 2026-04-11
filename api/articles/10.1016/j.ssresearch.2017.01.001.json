@@ -1,0 +1,35 @@
+{
+  "title": "Misconceived equity? Health care resources, contextual poverty, and child health disparities in Peru",
+  "abstract": "Although many studies have examined determinants of child health, fewer have explored factors explaining regional disparities in child health outcomes. In the Peruvian context, we examined the relationship between regional disparities in child malnutrition and local variation in health resources (health care resources and the socioeconomic environment). Using the Peruvian 2007-2008 Continuous Demographic and Health Survey (N = 8020) and governmental administrative data, our analyses show that 1) only selected types of health care resources (medical professionals and outpatient visits) are related to child nutritional status, 2) local poverty predicts nutritional status net of household characteristics, and, most importantly, 3) a significant portion of regional differences in child malnutrition are explained by local poverty, whereas health care resources are not associated with regional disparities. These findings suggest that the local socioeconomic environment is a key determinant of both child health outcomes and regional disparities in these outcomes. (C) 2017 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Shin, Heeju",
+      "family": "Shin",
+      "given": "Heeju"
+    },
+    {
+      "raw": "Aliaga-Linares, Lissette",
+      "family": "Aliaga-Linares",
+      "given": "Lissette"
+    },
+    {
+      "raw": "Britton, Marcus",
+      "family": "Britton",
+      "given": "Marcus"
+    }
+  ],
+  "authors_text": "Shin, Heeju; Aliaga-Linares, Lissette; Britton, Marcus",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2017.01.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.01.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.01.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.01.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

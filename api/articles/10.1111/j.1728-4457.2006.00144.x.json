@@ -1,0 +1,25 @@
+{
+  "title": "How long will we live?",
+  "abstract": "Since 1800 life expectancy at birth in high-income countries has doubled from about 40 years to nearly 80 years. Pessimists expect these improvements to end soon because we are approaching biological limits to longevity, whereas optimists predict continued rapid improvements without limits. To shed light on this controversy, past trends in the juvenile, background, and senescent components of life expectancy are examined in 16 high-income countries. Large increases in conventional life expectancy before 1950 are found to be primarily attributable to reductions in juvenile and background mortality. After 1950 the rate of improvement in life expectancy slowed because of diminishing declines in juvenile and background mortality, but senescent mortality fell more rapidly than before, thus becoming the main cause of rising life expectancy at birth. The role of smoking in the past half-century is also quantified. In the future, background mortality and juvenile mortality will have little or no impact on longevity because they have reached very low levels. There is, however, no evidence of approaching limits, and life expectancy will likely improve at a rate of approximately 1.5 years per decade owing to continued declines in senescent mortality.",
+  "authors": [
+    {
+      "raw": "Bongaarts, John",
+      "family": "Bongaarts",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Bongaarts, John",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2006,
+  "doi": "10.1111/j.1728-4457.2006.00144.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2006.00144.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2006.00144.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2006.00144.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

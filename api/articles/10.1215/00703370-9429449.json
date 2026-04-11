@@ -1,0 +1,30 @@
+{
+  "title": "Examining Ethnic Variation in Life Expectancy Among Asians in the United States, 2012-2016",
+  "abstract": "As the fastest growing racial group in the United States, understanding the health patterns of Asians is important to addressing health gaps in American society. Most studies have not considered the unique experiences of the ethnic groups contained in the Asian racial group, implying that Asians have a shared story'. However, we should expect differences between the ethnic groups given the differences in their timing and place of migration, socioeconomic status, and racialized experiences in the United States. We estimate the life expectancy of the six largest Asian ethnic groups- Chinese, Asian Indians, Filipinos, Vietnamese, Koreans, and Japanese-analyzing data from the Multiple Cause of Death File (2012-2016) and the American Community Survey (2012-2016) in the United States at the national and regional levels. Nationally. Chinese had the highest life expectancy (males e(0) = 86.8; females e(0) = 91.3), followed by Asian Indians, Koreans, Japanese, Filipinos, and Vietnamese, generally reflecting the pattern expected given their educational attainment, our primary indicator of socioeconomic status. We also found regional differences in life expectancy, where life expectancy for Asians in the West was significantly lower than all other regions. These findings suggest the presence of underlying selection effects associated with settlement patterns among new and traditional destinations. Our results underline the necessity of studying the experiences of the different Asian ethnic groups in the United States, permitting a better assessment of the varying health needs within this diverse racial group.",
+  "authors": [
+    {
+      "raw": "Baluran, Darwin A.",
+      "family": "Baluran",
+      "given": "Darwin A."
+    },
+    {
+      "raw": "Patterson, Evelyn J.",
+      "family": "Patterson",
+      "given": "Evelyn J."
+    }
+  ],
+  "authors_text": "Baluran, Darwin A.; Patterson, Evelyn J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9429449",
+  "doi_url": "https://doi.org/10.1215/00703370-9429449",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9429449",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9429449.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Research Note: Gender Differences in Employment During the COVID-19 Epidemic",
+  "abstract": "We inves ti gate the impact of the COVID-19 epi demic on gen der disparities in three employ ment out comes: labor force par tic i pa tion, full-time employ ment, and unem ploy ment. Using data from the monthly Current Population Survey, in this research note we test indi vid ual fixed-effects mod els to exam ine the employ ment sta tus of women rel a tive to that of men in the nine months fol low ing the onset of the epi demic in March of 2020. We also test sep a rate mod els to exam ine differ ences between women and men based on the pres ence of young chil dren. Because the eco nomic effects of the epi demic coin cided with the sum mer months, when women's employ ment often declines, we account for seasonality in women's employ ment sta tus. After doing so, we find that women's full-time employ ment did not decline sig nificantly rel a tive to that of men dur ing the months fol low ing the begin ning of the epi demic. Gender gaps in unem ploy ment and labor force par tic i pa tion did increase, how ever, in the early and later months of the year, respec tively. Our find ings regard ing women's labor force partic i pa tion and employ ment have impli ca tions for our under stand ing of the long-term effects of the health cri sis on other demo graphic out comes.",
+  "authors": [
+    {
+      "raw": "Villarreal, Andres",
+      "family": "Villarreal",
+      "given": "Andres"
+    },
+    {
+      "raw": "Yu, Wei-hsin",
+      "family": "Yu",
+      "given": "Wei-hsin"
+    }
+  ],
+  "authors_text": "Villarreal, Andres; Yu, Wei-hsin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9710353",
+  "doi_url": "https://doi.org/10.1215/00703370-9710353",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9710353",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9710353.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

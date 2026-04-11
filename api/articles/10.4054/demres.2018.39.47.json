@@ -1,0 +1,25 @@
+{
+  "title": "Higher acceptance rates of asylum seekers lead to slightly more asylum applications in the future",
+  "abstract": "BACKGROUND There is much discussion about whether high acceptance rates of asylum applications lead to a greater inflow of asylum seekers to Europe. To date, little is known about this relationship before and after the peak of the so-called refugee crisis of 2015. While Syrian and Iraqi inflows decreased after 2015, African asylum seekers became more numerous, their numbers tripling between 2008 and 2018. OBJECTIVE We study the two-way relationship between the number of asylum applications from Africans and African refugee acceptance rates in Europe. METHODS We compile quarterly data from 2008 to 2018 on 1,488 country dyads of 48 African and 31 European countries and estimate fixed effects panel models with different lags of the variables of interest. RESULTS We find robust evidence for a positive effect of acceptance rates on the number of subsequent asylum applications in the respective countries. However, this effect is rather small in size. Conversely, more applications can prompt authorities to accept fewer asylum seekers, but evidence for this effect is much weaker. CONCLUSIONS Higher acceptance rates lead to a greater number of asylum seekers, but formal protection rates cannot explain the substantial increase in asylum applicants from Africa to Europe that has continued since the 'refugee crisis' of 2015. Besides informal practices, which can play a role, the self-reinforcing nature of migration is a major driver of the current increase in inflows. CONTRIBUTION This is the first study to analyze country-to-country flows of asylum seekers on a fine-grained timescale (quarters) focusing on recent developments before and after the 'refugee crisis' in Europe.",
+  "authors": [
+    {
+      "raw": "Weber, Hannes",
+      "family": "Weber",
+      "given": "Hannes"
+    }
+  ],
+  "authors_text": "Weber, Hannes",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.47",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.47",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.47",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.47.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

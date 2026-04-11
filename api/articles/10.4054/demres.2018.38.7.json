@@ -1,0 +1,25 @@
+{
+  "title": "The role of residential mobility in reproducing socioeconomic stratification during the transition to adulthood",
+  "abstract": "OBJECTIVE This study assesses whether frequency of residential mobility plays a role in the reproduction of socioeconomic inequality during the transition to adulthood based on two criteria: (1) selection - is there socioeconomic sorting into residential trajectories? - and (2) lack of moderation - is this sorting irreducible to other life events that prompt moves (e.g., changes in employment status)? METHODS I use two and a half years of monthly address data from the Relationship Dynamics and Social Life data set, a sample of 18- and 19-year-old young women in a Michigan county. As an improvement upon previous measures of residential mobility, I use group-based trajectory analysis to categorize young women into residential trajectory groups. I then conduct a series of nested logistic regressions to predict membership in residential trajectory groups and a decomposition analysis to determine whether rapid movers are exposed to more life events (e.g., entering/exiting employment) or are simply more sensitive to moving in the face of life events compared to gradual movers. RESULTS Rapid moving is associated with low socioeconomic status. Rapid movers experience similar family formation, employment, and academic changes as gradual movers but are more likely to move when faced with these life events. CONCLUSIONS High residential mobility is a phenomenon among early home-leavers as part of an accelerated and underfunded transition to adulthood rather than a reflection of the upward socioeconomic mobility of college students. CONTRIBUTION High residential mobility is not simply a neutral or normative aspect of the transition to adulthood but rather part of the process of reproducing socioeconomic stratification.",
+  "authors": [
+    {
+      "raw": "Clark, Anne",
+      "family": "Clark",
+      "given": "Anne"
+    }
+  ],
+  "authors_text": "Clark, Anne",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.7",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

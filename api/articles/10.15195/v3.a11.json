@@ -1,0 +1,35 @@
+{
+  "title": "Viral Altruism? Charitable Giving and Social Contagion in Online Networks.",
+  "abstract": "How do social media affect the success of charitable campaigns? We show that, despite the promise of online platforms to generate social network effects in generosity through social contagion or peer effects, these platforms may instead stimulate costless (and less impactful) forms of involvement. Online social contagion might thus be limited when it comes to contributing real money to charities. This study relies on both individual-level longitudinal data and experimental evidence from a social media application that facilitates donations while broadcasting donors' activities to their contacts. We find that broadcasting is positively associated with donations, although some individuals appear to opportunistically broadcast a pledge and then delete it. Furthermore, broadcasting a pledge is associated with more pledges by a user's contacts, suggesting the presence of network effects or social contagion. However, results from a field experiment where broadcasting of the initial pledges was randomized suggest that the observational findings were likely due to homophily rather than genuine contagion effects. The experiment also shows that, although the campaigns reached approximately 6.4 million users and generated considerable attention in the form of clicks and \"likes,\" only 30 donations were made. Finally, an online survey experiment indicates that both the presence of an intermediary and a fee contributed to the low donation rate.",
+  "authors": [
+    {
+      "raw": "Lacetera, Nicola",
+      "family": "Lacetera",
+      "given": "Nicola"
+    },
+    {
+      "raw": "Macis, Mario",
+      "family": "Macis",
+      "given": "Mario"
+    },
+    {
+      "raw": "Mele, Angelo",
+      "family": "Mele",
+      "given": "Angelo"
+    }
+  ],
+  "authors_text": "Lacetera, Nicola; Macis, Mario; Mele, Angelo",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2016,
+  "doi": "10.15195/v3.a11",
+  "doi_url": "https://doi.org/10.15195/v3.a11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv3.a11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v3.a11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

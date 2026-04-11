@@ -1,0 +1,35 @@
+{
+  "title": "Birth and employment transitions of women in Turkey: The emergence of role incompatibility",
+  "abstract": "BACKGROUND The available evidence on the relationship between fertility and employment among women in developing countries paints an ambiguous picture. In Turkey there have been considerable structural changes since the 1960s, related to the incompatibility between women's roles as mother and worker. OBJECTIVE This study analyzes the two-way relationship between employment and fertility in Turkey over a 35-year period, including the correlates of the risks of first, second, third, and fourth and higher-order conceptions, and of the transitions from non-employment to employment and from employment to non-employment. METHODS The study adopts piecewise constant exponential event history modeling using data from the 2008 Turkey Demographic and Health Survey, mainly its event history data on ever-married women. RESULTS There is a two-way negative association between fertility and employment among women in Turkey. The characteristics of jobs that favor compatibility between worker and mother roles increase the risk of conception. Exiting employment is temporarily increased by fertility, due either to pregnancy or having an infant Fertility in all its dimensions decreases the risk of entry into employment. CONCLUSIONS Contextual changes related to the incompatibility of the roles of mother and worker have transformed the fertility-employment relationship in Turkey from being insignificant to being strongly negative, in line with the role incompatibility hypothesis. CONTRIBUTION This is the first study to use event history analysis to analyze the relationship between women's fertility and employment in a developing country. As regards Turkey, it is the first to follow a decadal approach to the issue, and has important policy implications for the country.",
+  "authors": [
+    {
+      "raw": "Abbasoglu Ozgoren, Ayse",
+      "family": "Abbasoglu Ozgoren",
+      "given": "Ayse"
+    },
+    {
+      "raw": "Ergocmen, Banu",
+      "family": "Ergocmen",
+      "given": "Banu"
+    },
+    {
+      "raw": "Tansel, Aysit",
+      "family": "Tansel",
+      "given": "Aysit"
+    }
+  ],
+  "authors_text": "Abbasoglu Ozgoren, Ayse; Ergocmen, Banu; Tansel, Aysit",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.46",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.46",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.46",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.46.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

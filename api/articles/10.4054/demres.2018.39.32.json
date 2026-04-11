@@ -1,0 +1,30 @@
+{
+  "title": "Explaining Swedish sibling similarity in fertility: Parental fertility behavior vs. social background",
+  "abstract": "OBJECTIVE The aim of this descriptive study is to determine which of the family-specific factors, parental fertility behavior or social background, matters most for the intergenerational transmission of fertility. METHODS Brother and sister correlations in age at first birth and final family size were estimated using multilevel linear regression on data covering 242,976 Swedish men and women born between 1958 and 1967. To explore how much of siblings' similarity in fertility can be explained by parental fertility behavior (age at parenthood and number of children) and social background, we analyzed the decrease in sibling correlation when these family-specific factors were added to the unconditional models. RESULTS We found that most of siblings' similarity in fertility could not be explained by parental fertility behavior and social background, but that they explained a substantive part of siblings' similarities in age at first birth and a smaller but non-negligible part of siblings' similarities in completed fertility. Parental fertility behavior and social background explain as much (about 36%) of brothers' and sisters' similarities in age at first birth. Parental fertility behavior matters more than social background for sisters' similarities in completed family size. Parental fertility behavior and social background explain about the same (5%) for brothers' similarities in completed family size. CONTRIBUTION This study contributes to the existing understanding of intergenerational transmission of fertility; both methodologically, by introducing a new method to estimate the impact of specific factors shared by siblings, and by determining how much of siblings' resemblance in fertility can be explained by parental fertility behavior and social background.",
+  "authors": [
+    {
+      "raw": "Dahlberg, Johan",
+      "family": "Dahlberg",
+      "given": "Johan"
+    },
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Dahlberg, Johan; Kolk, Martin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.32",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

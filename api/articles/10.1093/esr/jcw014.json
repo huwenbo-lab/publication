@@ -1,0 +1,30 @@
+{
+  "title": "The Sanctioning Dilemma: A Quasi-Experiment on Social Norm Enforcement in the Train",
+  "abstract": "Numerous laboratory experiments have established peer-sanctioning as an important driver of norm compliance and cooperation in human groups. However, systematic evidence of peer-sanctioning occurring in the field is still rare. Here we present results from a quasi-experimental field study investigating the enforcement of the silence norm in the train. We let a confederate play music on his/her mobile phone in an open-plan train car and measure the time until a negative sanction occurs (if any). The silence norm is enforced in 45 of 90 cases, enforcement rates do not differ across silent-and non-silent-area cars, and the more passengers are in a car, the more likely is the silence norm enforced. Passengers' propensities to enforce the silence norm are in line with predictions derived from the asymmetric volunteer's dilemma (VOD). The higher a passenger's net benefit from enforcing the silence norm is, the more likely is the passenger to negatively sanction the norm breaker. Our findings extend the validity of results from laboratory experiments which conceive the second-order free-rider problem as a VOD.",
+  "authors": [
+    {
+      "raw": "Przepiorka, Wojtek",
+      "family": "Przepiorka",
+      "given": "Wojtek"
+    },
+    {
+      "raw": "Berger, Joel",
+      "family": "Berger",
+      "given": "Joel"
+    }
+  ],
+  "authors_text": "Przepiorka, Wojtek; Berger, Joel",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcw014",
+  "doi_url": "https://doi.org/10.1093/esr/jcw014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcw014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcw014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Children and Careers: How Family Size Affects Parents' Labor Market Outcomes in the Long Run",
+  "abstract": "We estimate the effect of family size on various measures of labor market outcomes over the whole career until retirement, using instrumental variables estimation in data from Norwegian administrative registers. Parents' number of children is instrumented with the sex mix of their first two children. We find that having additional children causes sizable reductions in labor supply for women, which fade as children mature and even turn positive for women without a college degree. Among women with a college degree, there is evidence of persistent and even increasing career penalties of family size. Having additional children reduces these women's probability of being employed by higher-paying firms, their earnings rank within the employing firm, and their probability of being the top earner at the workplace. Some of the career effects persist long after labor supply is restored. We find no effect of family size on any of men's labor market outcomes in either the short or long run.",
+  "authors": [
+    {
+      "raw": "Cools, Sara",
+      "family": "Cools",
+      "given": "Sara"
+    },
+    {
+      "raw": "Markussen, Simen",
+      "family": "Markussen",
+      "given": "Simen"
+    },
+    {
+      "raw": "Strom, Marte",
+      "family": "Strom",
+      "given": "Marte"
+    }
+  ],
+  "authors_text": "Cools, Sara; Markussen, Simen; Strom, Marte",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0612-0",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0612-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0612-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0612-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

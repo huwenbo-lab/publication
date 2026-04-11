@@ -1,0 +1,35 @@
+{
+  "title": "Divorce and Diverging Poverty Rates: A Risk-and-Vulnerability Approach",
+  "abstract": "Objective This study offers a new approach to analyzing life course inequalities and applies it to the link between divorce and poverty. Background Previous research has suggested that divorce drives cumulative inequality between education groups during the life course. Two pathways play a role in this process: the educational gradient in the risk of divorce and the educational gradient in economic vulnerability to divorce. Both pathways should be studied simultaneously to understand how divorce drives inequality. Method The authors used administrative data from the Netherlands, following the marriage cohorts 2003 to 2005 (N = 179,018) during a period of 10 years. Decomposition analyses estimated the contributions of the gradients in divorce risk and vulnerability to poverty differences during the life course. Results In the 10 years following marriage, the fraction of the educational difference in poverty explained by divorce was 12% in the overall population and 26% in mothers. Among childless men and women, divorce increased poverty differences due mainly to greater economic vulnerability of the lower educated. Among mothers, divorce increased poverty differences due to both higher risk and greater vulnerability of the lower educated. Among fathers, divorce was unrelated to poverty. Conclusion Divorce is a major driver of cumulative inequality during the life course.",
+  "authors": [
+    {
+      "raw": "Hogendoorn, Bram",
+      "family": "Hogendoorn",
+      "given": "Bram"
+    },
+    {
+      "raw": "Leopold, Thomas",
+      "family": "Leopold",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Bol, Thijs",
+      "family": "Bol",
+      "given": "Thijs"
+    }
+  ],
+  "authors_text": "Hogendoorn, Bram; Leopold, Thomas; Bol, Thijs",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12629",
+  "doi_url": "https://doi.org/10.1111/jomf.12629",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12629",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12629.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

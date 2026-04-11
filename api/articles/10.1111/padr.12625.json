@@ -1,0 +1,25 @@
+{
+  "title": "Where Does the Black-White Life Expectancy Gap Come From? The Deadly Consequences of Residential Segregation",
+  "abstract": "The disparity in life expectancy between white and black Americans exceeds five years for men and three years for women. While prior research has investigated the roles of healthcare, health behaviors, biological risk, socioeconomic status, and life course effects on black mortality, the literature on the geographic origins of the gap is more limited. This study examines how the black-white life expectancy gap varies across counties and how much of the national gap is attributable to within-county racial inequality versus differences between counties. The estimates suggest that over 90 percent of the national gap can be attributed to within-county factors. Using a quasi-experimental research design, I find that black-white residential segregation increases the gap by approximately 16 years for men and five years for women. The segregation effect loads heavily on causes of death associated with access to and quality of healthcare; safety and violence; and public health measures. Residential segregation does not appear to operate through health behaviors or individual-level factors but instead acts primarily through institutional mechanisms. Efforts to address racial disparities in mortality should focus on reducing racial residential segregation or reducing inequalities in the mechanisms through which residential segregation acts: public services, employment opportunities, and community resources.",
+  "authors": [
+    {
+      "raw": "Hendi, Arun S.",
+      "family": "Hendi",
+      "given": "Arun S."
+    }
+  ],
+  "authors_text": "Hendi, Arun S.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12625",
+  "doi_url": "https://doi.org/10.1111/padr.12625",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12625",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12625.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

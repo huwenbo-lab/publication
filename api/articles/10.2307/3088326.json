@@ -1,0 +1,35 @@
+{
+  "title": "How Well Can We Track Cohabitation Using the SIPP? A Consideration of Direct and Inferred Measures",
+  "abstract": "Cohabitation is an alternative to marriage and to living independently for an increasing number of Americans. Still, research that explores links between living arrangements and economic behavior is limited by a lack of data that explicitly identify cohabiting couples. To aid researchers in using the Survey of Income and Program Participation's (SIPP) rich data to explore cohabitation issues, we consider direct and inferred measures of cohabitation. We find, first, that the use of inferred definitions (relative to direct measures) in the SIPP is likely to yield higher cohabitation rates in the United States by incorrectly coding roommates as cohabitors. Second, the SIPP (whether by direct or inferred measures) counts a significantly larger number of cohabiting couples than the widely used Current Population Survey (CPS). Third, spells of cohabitation occur less frequently and last longer when a direct measure of cohabitation is used than when either of the two inferred measures of cohabitation is used; ours is the first article to reveal this result.",
+  "authors": [
+    {
+      "raw": "Baughman, Reagan",
+      "family": "Baughman",
+      "given": "Reagan"
+    },
+    {
+      "raw": "Dickert-Conlin, Stacy",
+      "family": "Dickert-Conlin",
+      "given": "Stacy"
+    },
+    {
+      "raw": "Houser, Scott",
+      "family": "Houser",
+      "given": "Scott"
+    }
+  ],
+  "authors_text": "Baughman, Reagan; Dickert-Conlin, Stacy; Houser, Scott",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.2307/3088326",
+  "doi_url": "https://doi.org/10.2307/3088326",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088326",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088326.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

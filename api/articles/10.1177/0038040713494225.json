@@ -1,0 +1,25 @@
+{
+  "title": "School Violent Crime and Academic Achievement in Chicago",
+  "abstract": "Educational outcomes vary dramatically across schools in the United States. Many underperforming schools, especially in Chicago, also deal with high levels of violent crime on school grounds. Exposure to this type of frequent violence may be an important factor shaping already disadvantaged students' educational experiences. However, estimating the effect of school violence on learning is difficult due to potential selection bias and the confounding of other school-level problems. Using detailed crime data from the Chicago Police Department, complete administrative records from the Chicago Public Schools, and school climate surveys conducted by the Consortium on Chicago School Research (2002-2010), this study exploits variation in violent crime rates within schools over time to estimate its effect on academic achievement. School and neighborhood fixed-effects models show that violent crime rates have a negative effect on test scores, but not on grades. This effect is more likely related to direct reductions in learning, through cognitive stress and classroom disruptions, than changes in perceived safety, general school climate, or discipline practices.",
+  "authors": [
+    {
+      "raw": "Burdick-Will, Julia",
+      "family": "Burdick-Will",
+      "given": "Julia"
+    }
+  ],
+  "authors_text": "Burdick-Will, Julia",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2013,
+  "doi": "10.1177/0038040713494225",
+  "doi_url": "https://doi.org/10.1177/0038040713494225",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040713494225",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040713494225.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

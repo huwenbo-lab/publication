@@ -1,0 +1,30 @@
+{
+  "title": "‘Not a bowl of rice, but tender loving care’: from aborting girls to preferring daughters in South Korea",
+  "abstract": "South Korea is the first country to shift from strong son preference to preferring daughters. This paper examines the factors associated with daughter preference, using data from the 2012 Korea General Social Survey, a nationally-representative survey of 1,379 people. The outcome variable was derived from the survey question, 'If you were to have one child, which one would you like to have - son, daughter, or no preference?' Multinomial logistic regression was used to examine the association between reported child gender preference and several social and cultural variables. 43 per cent of respondents preferred daughters, 36 per cent preferred sons, and 21 per cent were indifferent. The probability of preferring daughters over sons increased with exposure to Korea's social transformations (younger, more educated, and urban residents); and among those less vested in the traditional patriarchal norms (women, non-Buddhists, and less conservative views on gender roles). Other studies in South Korea find increasing intergenerational support between parents and daughters. This is no longer an agrarian society where aging parents depend financially on sons. Today people can save for retirement and have national health insurance. However, people live longer and need companionship and care which they feel daughters provide more than sons.",
+  "authors": [
+    {
+      "raw": "Chun, Heeran",
+      "family": "Chun",
+      "given": "Heeran"
+    },
+    {
+      "raw": "Das Gupta, Monica",
+      "family": "Das Gupta",
+      "given": "Monica"
+    }
+  ],
+  "authors_text": "Chun, Heeran; Das Gupta, Monica",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2021,
+  "doi": "10.1080/17441730.2021.1944408",
+  "doi_url": "https://doi.org/10.1080/17441730.2021.1944408",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2021.1944408",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2021.1944408.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Associations of perceived social mobility with health indicators: Findings from the Chinese general social survey from 2017 to 2021",
+  "abstract": "This study examined how perceived intergenerational and intragenerational social mobility would be associated with health indicators (i.e., self-rated health, life satisfaction, and depressive symptoms) using data from the 2017, 2018, and 2021 waves of the Chinese General Social Survey (N = 31,262). Polynomial regression and response surface analyses revealed consistent associations of perceived intergenerational and intragenerational social mobility with all three health indicators. Individuals who perceived downward social mobility reported worse health outcomes than those who perceived upward social mobility, but both groups reported poorer health outcomes compared to immobile individuals. Among immobile individuals, the relationship between subjective social status and these health indicators followed an inverted U-shaped pattern, with health indicators initially rising to a peak and then slightly decreased as subjective social status increased. This study offers the first pieces of evidence for the health consequences of perceived social mobility under the Chinese sociocultural context and has potential to challenge the conventional more is better model of socioeconomic status.",
+  "authors": [
+    {
+      "raw": "Zhao, Huali",
+      "family": "Zhao",
+      "given": "Huali"
+    },
+    {
+      "raw": "Qiao, Jinhui",
+      "family": "Qiao",
+      "given": "Jinhui"
+    },
+    {
+      "raw": "Shen, Xinyue",
+      "family": "Shen",
+      "given": "Xinyue"
+    },
+    {
+      "raw": "Dong, Yue",
+      "family": "Dong",
+      "given": "Yue"
+    },
+    {
+      "raw": "Hu, Yue",
+      "family": "Hu",
+      "given": "Yue"
+    },
+    {
+      "raw": "Zhang, Yingying",
+      "family": "Zhang",
+      "given": "Yingying"
+    },
+    {
+      "raw": "Yang, Fei",
+      "family": "Yang",
+      "given": "Fei"
+    },
+    {
+      "raw": "You, Jin",
+      "family": "You",
+      "given": "Jin"
+    }
+  ],
+  "authors_text": "Zhao, Huali; Qiao, Jinhui; Shen, Xinyue; Dong, Yue; Hu, Yue; Zhang, Yingying; Yang, Fei; You, Jin",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101037",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101037",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101037",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101037.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

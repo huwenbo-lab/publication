@@ -1,0 +1,40 @@
+{
+  "title": "Why Does Parental Divorce Lower Children’s Educational Attainment? A Causal Mediation Analysis",
+  "abstract": "Mechanisms explaining the negative effects of parental divorce on children's attainment have long been conjectured and assessed. Yet few studies of parental divorce have carefully attended to the assumptions and methods necessary to estimate causal mediation effects. Applying a causal framework to linked U.S. panel data, we assess the degree to which parental divorce limits children's education among whites and nonwhites and whether observed lower levels of educational attainment are explained by postdivorce family conditions and children's skills. Our analyses yield three key findings. First, the negative effect of divorce on educational attainment, particularly college, is substantial for white children; by contrast, divorce does not lower the educational attainment of nonwhite children. Second, declines in family income explain as much as one- to two-thirds of the negative effect of parental divorce on white children's education. Family instability also helps explain the effect, particularly when divorce occurs in early childhood. Children's psychosocial skills explain about one-fifth of the effect, whereas children's cognitive skills play a minimal role. Third, among nonwhites, the minimal total effect on education is explained by the offsetting influence of postdivorce declines in family income and stability alongside increases in children's psychosocial and cognitive skills.",
+  "authors": [
+    {
+      "raw": "Brand, Jennie",
+      "family": "Brand",
+      "given": "Jennie"
+    },
+    {
+      "raw": "Moore, Ravaris",
+      "family": "Moore",
+      "given": "Ravaris"
+    },
+    {
+      "raw": "Song, Xi",
+      "family": "Song",
+      "given": "Xi"
+    },
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Brand, Jennie; Moore, Ravaris; Song, Xi; Xie, Yu",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2019,
+  "doi": "10.15195/v6.a11",
+  "doi_url": "https://doi.org/10.15195/v6.a11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv6.a11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v6.a11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Feminization of Occupations and Change in Wages: A Panel Analysis of Britain, Germany, and Switzerland",
+  "abstract": "In the past four decades, women have made major inroads into occupations previously dominated by men. This paper examines whether occupational feminization is accompanied by a decline in wages: Do workers suffer a wage penalty if they remain in, or move into, feminizing occupations? We analyze this question over the 1990s and 2000s in Britain, Germany, and Switzerland, using longitudinal panel data to estimate individual fixed effects for men and women. Moving from an entirely male to an entirely female occupation entails a loss in individual earnings of 13 percent in Britain, 7 percent in Switzerland, and 3 percent in Germany. The impact of occupational feminization on wages is not linear, but sets apart occupations holding more than 60 percent of women. Moving into such female occupations incurs a wage penalty. Contrary to the prevailing idea in economics, differences in productivity-human capital, job-specific skills, and time investment-do not fully explain the wage gap between male and female occupations. The wage penalty associated with working in a female occupation is also much larger where employer discretion is greater-in the private sector-than where wage-setting is guided by formal rules-the public sector. These findings suggest that wage disparities across male and female occupations are due to gender devaluation.",
+  "authors": [
+    {
+      "raw": "Murphy, Emily",
+      "family": "Murphy",
+      "given": "Emily"
+    },
+    {
+      "raw": "Oesch, Daniel",
+      "family": "Oesch",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Murphy, Emily; Oesch, Daniel",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sov099",
+  "doi_url": "https://doi.org/10.1093/sf/sov099",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov099",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov099.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Delinquent peers revisited: Does network structure matter?",
+  "abstract": "This study examines whether structural properties of friendship networks condition the association between friends' delinquency and an individual's own delinquent behavior. Data from the Add Health allows a more accurate conceptualization of the peer network and a more rigorous measurement of peer delinquency than previous research. Findings from this study indicate that friends' delinquency is associated with an adolescent's own delinquency involvement. However, characteristics of adolescents' friendship networks, such as its density and adolescents' centrality and popularity, condition the delinquency-peer association. Network density, in particular, emerges as an important component of the delinquency-peer association, with very cohesive networks containing stronger delinquency-peer associations than those that are less cohesive. These findings suggest that it is necessary to consider the underlying structural properties of friendship networks in order to understand the impact of peer influence on adolescent delinquency.",
+  "authors": [
+    {
+      "raw": "Haynie, DL",
+      "family": "Haynie",
+      "given": "DL"
+    }
+  ],
+  "authors_text": "Haynie, DL",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2001,
+  "doi": "10.1086/320298",
+  "doi_url": "https://doi.org/10.1086/320298",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F320298",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/320298.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

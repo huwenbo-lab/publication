@@ -1,0 +1,25 @@
+{
+  "title": "Personality traits as a partial explanation for gender wage gaps and glass ceilings",
+  "abstract": "This paper investigates whether personality traits can explain glass ceilings (increasing gender wage gaps across the wage distribution). Using longitudinal survey data from Germany, I combine unconditional quantile regressions with wage gap decompositions to identify the effect of personality traits on gender gaps and investigate potential channels of the effect. The results suggest that the impact of personality traits on wage gaps increases across the wage distribution. Personality traits explain up to 14% of the overall gender wage gap at the top of the wage distribution and around 7-9% at the mean. The effect is mostly driven by direct wage effects (potentially through productivity or bargaining behavior) of certain traits that differ between men and women, while access to jobs and discrimination of women based on personality traits play a minor role.",
+  "authors": [
+    {
+      "raw": "Collischon, Matthias",
+      "family": "Collischon",
+      "given": "Matthias"
+    }
+  ],
+  "authors_text": "Collischon, Matthias",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100596",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100596",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100596",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100596.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Fake news virality: Relational niches and the diffusion of COVID-19 vaccine misinformation",
+  "abstract": "This study explores why some fake news publishers are able to propagate misinformation while others receive little attention on social media. Using COVID-19 vaccine tweets as a case study, this study combined the relational niche framework with pooled and multilevel models that address the unobserved heterogeneity. The results showed that, as expected, ties to accounts with more followers were associated with more fake news tweets, retweets, and likes. However, more surprisingly, embedding with fake news publishers had an inverted U-shaped association with diffusion, whereas social proximity to mainstream media was positively associated. Although the effect of influential users is in line with opinion leader theory, the newly-identified effects of social proximity to reliable sources and embeddedness suggest that the key to fake news virality is to earn greater organizational status and modest, not overly, echo chambers. This study highlights the potential of dynamic media networks to shape the misinformation market.",
+  "authors": [
+    {
+      "raw": "Hong, Chen-Shuo",
+      "family": "Hong",
+      "given": "Chen-Shuo"
+    }
+  ],
+  "authors_text": "Hong, Chen-Shuo",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Characteristics Approach to the Measurement of Population Aging",
+  "abstract": "Conventional measures of population aging, such as proportions over age 65, can present a misleading picture of the aging process by not taking account of changes in people's characteristics beyond their chronological agefor example, changes in remaining life expectancy, health and morbidity, disability rates, and cognitive functioning. The characteristics approach set out in this article encompasses multiple features of population aging, yielding new measures that can better inform both demographic analysis and public policy debate. We relate the brief history of this approach, examine its basic mathematical structure, and give empirical examples of the insights it offers, drawing on data from West Germany, Japan, Russia, and the United States.",
+  "authors": [
+    {
+      "raw": "Sanderson, Warren C.",
+      "family": "Sanderson",
+      "given": "Warren C."
+    },
+    {
+      "raw": "Scherbov, Sergei",
+      "family": "Scherbov",
+      "given": "Sergei"
+    }
+  ],
+  "authors_text": "Sanderson, Warren C.; Scherbov, Sergei",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2013,
+  "doi": "10.1111/j.1728-4457.2013.00633.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2013.00633.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2013.00633.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2013.00633.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

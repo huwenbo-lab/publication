@@ -1,0 +1,35 @@
+{
+  "title": "A Quiescent Phase in Human Mortality? Exploring the Ages of Least Vulnerability",
+  "abstract": "Demographic studies of mortality often emphasize the two ends of the lifespan, focusing on the declining hazard after birth or the increasing risk of death at older ages. We call attention to the intervening phase, when humans are least vulnerable to the force of mortality, and consider its features in both evolutionary and historical perspectives. We define this quiescent phase (Q-phase) formally, estimate its bounds using life tables for Swedish cohorts born between 1800 and 1920, and describe changes in the morphology of the Q-phase. We show that for cohorts aging during Sweden's demographic and epidemiological transitions, the Q-phase became longer and more pronounced, reflecting the retreat of infections and maternal mortality as key causes of death. These changes revealed an underlying hazard trajectory that remains relatively low and constant during the prime ages for reproduction and investment in both personal capital and relationships with others. Our characterization of the Q-phase highlights it as a unique, dynamic, and historically contingent cohort feature, whose increased visibility was made possible by the rapid pace of survival improvements in the nineteenth and twentieth centuries. This visibility may be reduced or sustained under subsequent demographic regimes.",
+  "authors": [
+    {
+      "raw": "Engelman, Michal",
+      "family": "Engelman",
+      "given": "Michal"
+    },
+    {
+      "raw": "Seplaki, Christopher L.",
+      "family": "Seplaki",
+      "given": "Christopher L."
+    },
+    {
+      "raw": "Varadhan, Ravi",
+      "family": "Varadhan",
+      "given": "Ravi"
+    }
+  ],
+  "authors_text": "Engelman, Michal; Seplaki, Christopher L.; Varadhan, Ravi",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0569-z",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0569-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0569-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0569-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The impact of origin region and internal migration on Italian fertility",
+  "abstract": "We examine the impact of population distribution on fertility in a nationally representative sample. We exploit detailed life-history data to conduct an event-history analysis of transition to first birth, examining mechanisms that might link migration",
+  "authors": [
+    {
+      "raw": "Gabrielli, Giuseppe",
+      "family": "Gabrielli",
+      "given": "Giuseppe"
+    },
+    {
+      "raw": "Paterno, Anna",
+      "family": "Paterno",
+      "given": "Anna"
+    },
+    {
+      "raw": "White, Michael",
+      "family": "White",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Gabrielli, Giuseppe; Paterno, Anna; White, Michael",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2007,
+  "doi": "10.4054/demres.2007.17.24",
+  "doi_url": "https://doi.org/10.4054/demres.2007.17.24",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2007.17.24",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2007.17.24.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

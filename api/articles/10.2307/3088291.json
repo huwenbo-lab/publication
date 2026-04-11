@@ -1,0 +1,25 @@
+{
+  "title": "New African American Life Tables from 1935-1940 to 1985-1990",
+  "abstract": "New life tables for African Americans are presented from 1935 through 1990. They are based on a historical series of vital statistics data on deaths that have been corrected for age misreporting, on reconstructed population counts that have been adjusted for census underenumeration, and on births that have been corrected for underregistration. The new life tables show rapid mortality declines for both African American males and females from 1935 to 1950, and relatively steady reductions thereafter for females. The smaller declines in male mortality in young adulthood and middle age since the 1950s have led to exceptionally high ratios of male to female mortality at these ages. Corrections for census undercounts lead to higher values of life expectancy than in official life tables, but to less improvement over time. Official estimates of life expectancy at age 65 appear to be about 10% too high around 1940 but only about 1.5% too high in the late 1980s.",
+  "authors": [
+    {
+      "raw": "Elo, Irma T.",
+      "family": "Elo",
+      "given": "Irma T."
+    }
+  ],
+  "authors_text": "Elo, Irma T.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.2307/3088291",
+  "doi_url": "https://doi.org/10.2307/3088291",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088291",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088291.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Robotisation and Workforce Dynamics: Analysing Employment and Wage Effects within Manufacturing Establishments",
+  "abstract": "This article explores the effects of increasing robot adoption on workforce composition, wages and wage inequality in the manufacturing sector. Using longitudinal data from the German Institute for Employment Research (IAB), industrial robot sales data and survey data from the IAB Establishment Panel, we examine the impact of robots on total employment and wage structures at the establishment level from 2008 to 2017. We find that while robotisation contributes to overall employment and wage growth, its effects vary across worker groups. High- and middle-skilled workers benefit more from employment and wage increases, whereas low-skilled and routine-intensive workers experience fewer gains. In contrast to skill-biased and task-biased technological change theories (SBTC and TBTC), robots do not significantly increase wage inequality within establishments. Instead, firms mitigate inequality, suggesting that organisational policies play a key role in shaping distributional outcomes. Works councils also influence wage dynamics, benefiting middle-skilled more than low-skilled workers.",
+  "authors": [
+    {
+      "raw": "Otto, Michael",
+      "family": "Otto",
+      "given": "Michael"
+    },
+    {
+      "raw": "Abraham, Martin",
+      "family": "Abraham",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Otto, Michael; Abraham, Martin",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2025,
+  "doi": "10.1177/09500170251351260",
+  "doi_url": "https://doi.org/10.1177/09500170251351260",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170251351260",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170251351260.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Constant Gap: Parenthood Premiums in Sweden 1968-2010",
+  "abstract": "We know that parenthood has different consequences for men's and women's careers. Still, the research remains inconclusive on the question of whether this is mainly a consequence of a fatherhood premium, a motherhood penalty, or both. A common assumption is that women fall behind in terms of pay when they become mothers. Based on longitudinal data from the Swedish Level of Living Survey (LNU), and individual fixed-effects models, we examine the support for this assumption by mapping the size of parenthood effects on wages during the years 1968-2010. During this period, Swedish women's labor supply increased dramatically, dual-earner family policies were institutionalized, and society's norms on the gendered division of labor changed. We describe the development of parenthood effects on wages during this transformative period. Our results indicate that both genders benefit from a gross parenthood premium, both at the beginning of the period and in recent years, but the size of this premium is larger for men. Individual fixed-effects models indicate that the wage premium is mainly the result of parents' increased labor market investments. Controlling for these, women suffer from a small motherhood penalty early in the period under study whereas parenthood is unrelated to women's wages in later years and to men's wages throughout the period. Neither for men nor for women do we find a statistically significant period change in the parenthood effects. Instead, patterns are remarkably stable over time given the radical changes in family policies and norms that took place during the period examined.",
+  "authors": [
+    {
+      "raw": "Bygren, Magnus",
+      "family": "Bygren",
+      "given": "Magnus"
+    },
+    {
+      "raw": "Gaehler, Michael",
+      "family": "Gaehler",
+      "given": "Michael"
+    },
+    {
+      "raw": "Magnusson, Charlotta",
+      "family": "Magnusson",
+      "given": "Charlotta"
+    }
+  ],
+  "authors_text": "Bygren, Magnus; Gaehler, Michael; Magnusson, Charlotta",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa097",
+  "doi_url": "https://doi.org/10.1093/sf/soaa097",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa097",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa097.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

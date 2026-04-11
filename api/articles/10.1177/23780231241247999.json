@@ -1,0 +1,35 @@
+{
+  "title": "Emotional Support and Mental Health during the COVID-19 Pandemic: A Focus on Gender and Sexual Identities",
+  "abstract": "Emotional support is essential to health outcomes, especially for marginalized communities. The coronavirus disease 2019 pandemic increased the prevalence of mental health issues and thus increased the need for emotional support, particularly for sexual minoritized people. The authors applied minority stress theory and the stress process framework by drawing on a population-based data source of 3,642 respondents, the National Couples’ Health and Time Study, which oversampled sexual minoritized people during the pandemic. The authors examine three sources of emotional support (friends, family, and partners) and their association with three mental health outcomes (depression, anxiety, and loneliness) separately for cisgender men and cisgender women. The authors find that emotional support plays a larger role in the association between sexual identity and mental health for cisgender men than cisgender women. Regardless of gender, bisexual individuals have consistently higher levels of depression, anxiety, and loneliness across all models, and this difference is not attenuated by emotional support.",
+  "authors": [
+    {
+      "raw": "Gustafson, Kristen E.",
+      "family": "Gustafson",
+      "given": "Kristen E."
+    },
+    {
+      "raw": "Manning, Wendy D.",
+      "family": "Manning",
+      "given": "Wendy D."
+    },
+    {
+      "raw": "Dush, Claire M. Kamp",
+      "family": "Dush",
+      "given": "Claire M. Kamp"
+    }
+  ],
+  "authors_text": "Gustafson, Kristen E.; Manning, Wendy D.; Dush, Claire M. Kamp",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241247999",
+  "doi_url": "https://doi.org/10.1177/23780231241247999",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241247999",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241247999.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Variance models of the last age interval and their impact on life expectancy at subnational scales",
+  "abstract": "BACKGROUND The Chiang method is the most widely accepted standard for estimating life expectancy (LE) at subnational scales; it is the only method that provides an equation for the LE variance. However, the Chiang variance formula incorrectly omits the contribution of the last age interval. This error is largely unknown to practitioners, and its impact has not been rigorously assessed. OBJECTIVE We aim to demonstrate the potentially substantial role of the last age interval on LE variance. We further aim to provide formulae and tools for corrected variance estimation. METHODS The delta method is used to derive variance formulae for a range of variance models of the last age interval. Corrected variances are tested on 291 empirical, abridged life tables drawn from Canadian data (2004. 2008) spanning provincial, regional, and intraregional scales. RESULTS The last age interval death count can contribute substantially to the LE variance, leading to overestimates of precision and false positives in statistical tests when using the uncorrected Chiang variance. Overdispersion amplifies the contribution while error in population counts has minimal impact. CONCLUSIONS Use of corrected variance formulae is essential for studies that use the Chiang LE. The important role of the last age interval, and hence the life table closure method, on LE variance is demonstrated. These findings extend to other LE-derived metrics such as health expectancy. CONTRIBUTION We demonstrate that the last age interval death count can contribute substantially to the LE variance, thus resolving an ambiguity in the scientific literature. We provide heretofore-unavailable formulae for correcting the Chiang LE variance equation.",
+  "authors": [
+    {
+      "raw": "Lo, Ernest",
+      "family": "Lo",
+      "given": "Ernest"
+    },
+    {
+      "raw": "Vatnik, Dan",
+      "family": "Vatnik",
+      "given": "Dan"
+    },
+    {
+      "raw": "Benedetti, Andrea",
+      "family": "Benedetti",
+      "given": "Andrea"
+    },
+    {
+      "raw": "Bourbeau, Robert",
+      "family": "Bourbeau",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Lo, Ernest; Vatnik, Dan; Benedetti, Andrea; Bourbeau, Robert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.15",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

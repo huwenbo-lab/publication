@@ -1,0 +1,25 @@
+{
+  "title": "Assimilation and Health: Evidence From Linked Birth Records of Second- and Third-Generation Hispanics",
+  "abstract": "This study explores the effects of assimilation on the health of Hispanics in the United States, using ethnic intermarriage as a metric of acculturation. I exploit a unique data set of linked confidential use birth records in California and Florida from 1970-2009. The confidential data allow me to link mothers giving birth in 1989-2009 to their own birth certificate records in 1970-1985 and to identify second-generation siblings. Thus, I can analyze the relationship between the parental exogamy of second-generation Hispanic women and the birth outcomes of their offspring controlling for grandmother fixed effects as well as indicators for second generation's birth weight. Despite their higher socioeconomic status, third-generation children of second-generation intermarried Hispanic women are more likely to have poor health at birth, even after I account for second-generation health at birth and employ only within-family variations in the extent of assimilation. I find that a second-generation Hispanic woman married to a non-Hispanic man is 9 % more likely to have a child with low birth weight relative to a second-generation woman married to another Hispanic. These results largely reflect the higher incidence of risky behaviors (e.g., smoking during pregnancy) among intermarried Hispanic women.",
+  "authors": [
+    {
+      "raw": "Giuntella, Osea",
+      "family": "Giuntella",
+      "given": "Osea"
+    }
+  ],
+  "authors_text": "Giuntella, Osea",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0522-6",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0522-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0522-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0522-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

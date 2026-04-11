@@ -1,0 +1,25 @@
+{
+  "title": "What shape great expectations? Gender and social-origin effects on expectation of university graduation",
+  "abstract": "Female educational attainment has progressively caught up with male educational attainment in many OECD countries. Expectations of university graduation have correspondingly been found higher among female adolescents than among male ones. Resorting to individual-level data drawn from PISA 2003, we study the extent to which female advantage diverges across levels of parental education. We find evidence that female advantage in terms of expectations of university graduation is higher for children of lower social origin. Merging individual-level data (PISA 2003) with data on systems of education, gender egalitarianism and gender labour-market equality drawn from different sources, and applying both a two-step approach and three-level random intercept multilevel modelling to the resulting dataset, we then explore if these country-level factors explain the positive effect of gender at lower levels of parental education. We do not find that the system of education plays any role in this respect, but there is some evidence that gender labour-market inequality stimulates higher educational expectations among daughters of lowly educated fathers (compensatory effect).",
+  "authors": [
+    {
+      "raw": "Ortiz-Gervasi, Luis",
+      "family": "Ortiz-Gervasi",
+      "given": "Luis"
+    }
+  ],
+  "authors_text": "Ortiz-Gervasi, Luis",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100527",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100527",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100527",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100527.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

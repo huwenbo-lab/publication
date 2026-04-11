@@ -1,0 +1,30 @@
+{
+  "title": "How Job Characteristics Affect International Migration: The Role of Informality in Mexico",
+  "abstract": "AbstractDespite the importance given to employment opportunities as a primary motive for migration, previous studies have paid insufficient attention to the kinds of jobs that are more likely to retain workers in their countries of origin. We use information from a panel survey of Mexican adults to examine how job characteristics affect the risk of international migration. The sampling strategy and overall size of the survey allow us to analyze the effect of employment characteristics on migration from urban areas, which have much greater labor market diversity, and to separate our analysis by gender. We also distinguish migrants according to whether they migrate for work or for other reasons. We find informality to be a significant predictor of international migration. Even after controlling for individual factors including workers’ wages, as well as various household- and community-level predictors, we find that workers employed in the informal sector have significantly higher odds of migrating than their counterparts in the formal sector. The pervasive nature of informality in many developing countries from which a high proportion of international migrants originate may therefore create a constant supply of workers who are predisposed to migrate. Our findings thus have important implications for a proper understanding of the effects of economic development on migration.",
+  "authors": [
+    {
+      "raw": "Villarreal, Andrés",
+      "family": "Villarreal",
+      "given": "Andrés"
+    },
+    {
+      "raw": "Blanchard, Sarah",
+      "family": "Blanchard",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Villarreal, Andrés; Blanchard, Sarah",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0153-5",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0153-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0153-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0153-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

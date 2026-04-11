@@ -1,0 +1,30 @@
+{
+  "title": "Better Overeducated than Unemployed? The Short- and Long-Term Effects of an Overeducated Labour Market Re-entry",
+  "abstract": "Previous studies have shown that overeducation is inferior to adequate employment. For example, overeducated workers have lower earnings, participate less often in continuing education and training, and are less satisfied with their jobs. This article changes perspectives by asking whether it is better for the unemployed to take up a job for which they are overeducated or to remain unemployed and continue the search for adequate employment. Theoretically, we rely on the established confrontation of the stepping-stone and trap hypotheses, which make opposing predictions in terms of long-term employment chances and job quality. Using the German Socio-Economic Panel (1984-2012) and applying a dynamic propensity score matching approach, the analyses reveal an interesting trade-off. Although an overeducated re-entry increases the long-term employment chances persistently, it also implies strong lock-in effects into overeducation for up to 5 years after re-employment. In sum, the results support the stepping-stone hypothesis in terms of future employment chances, but also highlight non-negligible risks of remaining trapped in a job that is below one's level of educational qualification.",
+  "authors": [
+    {
+      "raw": "Vossemer, Jonas",
+      "family": "Vossemer",
+      "given": "Jonas"
+    },
+    {
+      "raw": "Schuck, Bettina",
+      "family": "Schuck",
+      "given": "Bettina"
+    }
+  ],
+  "authors_text": "Vossemer, Jonas; Schuck, Bettina",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcv093",
+  "doi_url": "https://doi.org/10.1093/esr/jcv093",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv093",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv093.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

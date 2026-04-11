@@ -1,0 +1,30 @@
+{
+  "title": "Comment on “Assessing Validity and Application Scope of the Intrinsic Estimator Approach to the Age-Period-Cohort (APC) Problem”",
+  "abstract": "This article looks at a problem that has been studied over decades: the unidentifiability issue in the age-period-cohort (APC) model.The impossibility to identify the full set of age, period, and cohort effects in the analysis of mortality or other vital rates has created much confusion in the epidemiological and sociological literature.The misconception that the problem is a shortcoming of current statistical methods still seems to be prevalent, and apparently a new \"solution\" has been proposed recently: the intrinsic estimator (IE).However, the difficulty is inescapable and arises from the fact that subjects cannot move in one time scale without an identical move in others (Clayton and Hills 1993:315).In order to develop some intuition for this phenomenon, it helps to visualize the simultaneous development of age, period, and cohort in a Lexis diagram.Similar graphical devices date back to sociological literature from the 1870s published in German; see Keiding (2011) for an interesting review.Alternatively, the identifiability problem in APC models can be described as follows.Suppose that we have estimates of age, period, and cohort effects, all of which can be centered to zero with appropriate adjustment of the global mean µ.Then the three sets of estimates can be rotated in a certain way, such that the linear predictor (Eq.(1) in the Luo article) remains the same for all observations (Knorr-Held and Rainer 2001:111, Eq. ( 3)).This phenomenon is illustrated in Fig. 1.Any pattern of age, period, and cohort effects can be transformed to an equivalent pattern, which will give exactly the same fit to the data.This applies also to estimates obtained via the IE.Therefore, Clayton and Schifflers (1987: figure 3) recommended displaying only the identifiable second differences parameter estimates, but those are difficult to interpret.A unified approach to validate and derive further estimable functions is given in O'Brien (2012).",
+  "authors": [
+    {
+      "raw": "Held, Leonhard",
+      "family": "Held",
+      "given": "Leonhard"
+    },
+    {
+      "raw": "Riebler, Andrea",
+      "family": "Riebler",
+      "given": "Andrea"
+    }
+  ],
+  "authors_text": "Held, Leonhard; Riebler, Andrea",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0255-8",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0255-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0255-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0255-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

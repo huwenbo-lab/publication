@@ -1,0 +1,30 @@
+{
+  "title": "Women's employment transitions: The influence of her, his, and joint gender ideologies",
+  "abstract": "BACKGROUND Research suggests that women's employment decisions are influenced by not only their own gender ideologies but also their partners'. This paper is the first study examining the role of a couple's joint gender ideology on the female partner's employment transitions, specifically her work hours and employment breaks. OBJECTIVE The authors seek to advance research on the effects of gender ideologies on paid work transitions conceptually, arguing that a couple's (dis)agreement on gender ideologies may be important. METHODS The authors use data from the German panel study Labour Market and Social Security (PASS) and logistic regression models estimating the probability of reducing work hours or taking an employment break between two successive panel waves. RESULTS Women's gender ideologies impact their likelihood of reducing work hours and taking an employment break. The more egalitarian women are, the less likely they are to reduce their labor market participation. The male partner's gender ideology initially appears irrelevant. However, when considering the couple as a unit, the authors find a couple effect of joint ideology: Women are more likely to reduce their work hours when both partners believe in gender essentialism as opposed to other couple-ideology constellations. For women's employment breaks, findings also point to a couple-ideology effect, though with less statistical certainty. CONCLUSIONS The couple perspective shows that his gender ideology matters only in relation to hers. CONTRIBUTION Introducing the couple perspective reveals that individual ideology measures provide a skewed picture of how gender ideologies actually work in couples to influence the gender division of paid work.",
+  "authors": [
+    {
+      "raw": "Grunow, Daniela",
+      "family": "Grunow",
+      "given": "Daniela"
+    },
+    {
+      "raw": "Lietzmann, Torsten",
+      "family": "Lietzmann",
+      "given": "Torsten"
+    }
+  ],
+  "authors_text": "Grunow, Daniela; Lietzmann, Torsten",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.3",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

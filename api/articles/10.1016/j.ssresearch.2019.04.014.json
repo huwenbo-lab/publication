@@ -1,0 +1,30 @@
+{
+  "title": "Do income inequalities in higher weight status depend on social integration?",
+  "abstract": "Those with higher incomes tend to have better health outcomes, including healthy weight status. We use data from the 2003-2008 National Health and Nutrition Examination Survey (NHANES) to examine whether the association between higher weight status and social integration varies by income. We examine gender differences in weight status, measured by BMI and obesity, by social integration and income, and find evidence that high social integration is a risk factor for higher weight status among low-income men. The association between income and higher weight status operates differently for women and men and is dependent, in part, on their level of social integration. Income is negatively associated with weight status for men who are highly integrated, but is positively associated with weight status among men who have low integration. We conclude that higher numbers of close friends and family places low-income men at greater risk of higher weight status.",
+  "authors": [
+    {
+      "raw": "Campbell, Anthony David",
+      "family": "Campbell",
+      "given": "Anthony David"
+    },
+    {
+      "raw": "Baker, Elizabeth H.",
+      "family": "Baker",
+      "given": "Elizabeth H."
+    }
+  ],
+  "authors_text": "Campbell, Anthony David; Baker, Elizabeth H.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.04.014",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.04.014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.04.014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.04.014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

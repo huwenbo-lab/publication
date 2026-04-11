@@ -1,0 +1,35 @@
+{
+  "title": "Intragenerational Social Mobility and Well-being in Great Britain: A Biomarker Approach",
+  "abstract": "Social theory has long predicted that social mobility, in particular downward social mobility, is detrimental to the well-being of individuals. Dissociative and falling from grace theories suggest that mobility is stressful due to the weakening of social ties, feelings of alienation, and loss of status. In light of these theories, it is a puzzle that the majority of quantitative studies in this area have shown null results. Our approach to resolve the puzzle is two-fold. First, we argue for a broader conception of the mobility process than is often used and thus focus on intragenerational occupational class mobility rather than restricting ourselves to the more commonly studied intergenerational mobility. Second, we argue that self-reported measures may be biased by habituation (or entrenched deprivation). Using nurse-collected health and biomarker data from the UK Household Longitudinal Study (2010-2012, N = 4,123), we derive a measure of allostatic load as an objective gauge of physiological wear and tear and compare patterns of mobility effects with self-reports of health using diagonal reference models. Our findings indicate a strong class gradient in both allostatic load and self-rated health, and that both first and current job matter for current well-being outcomes. However, in terms of the effects of mobility itself, we find that intragenerational social mobility is consequential for allostatic load, but not for self-rated health. Downward mobility is detrimental and upward mobility beneficial for well-being as assessed by allostatic load. Thus, these findings do not support the idea of generalized stress from dissociation, but they do support the falling from grace hypothesis of negative downward mobility effects. Our findings have a further implication, namely that the differences in mobility effects between the objective and subjective outcome infer the presence of entrenched deprivation. Null results in studies of self-rated outcomes may therefore be a methodological artifact, rather than an outright rejection of decades-old social theory.",
+  "authors": [
+    {
+      "raw": "Prag, Patrick",
+      "family": "Prag",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Fritsch, Nina-Sophie",
+      "family": "Fritsch",
+      "given": "Nina-Sophie"
+    },
+    {
+      "raw": "Richards, Lindsay",
+      "family": "Richards",
+      "given": "Lindsay"
+    }
+  ],
+  "authors_text": "Prag, Patrick; Fritsch, Nina-Sophie; Richards, Lindsay",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab153",
+  "doi_url": "https://doi.org/10.1093/sf/soab153",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab153",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab153.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

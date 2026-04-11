@@ -1,0 +1,30 @@
+{
+  "title": "Month of Birth, Early Academic Achievement, and Parental Expectations of University Completion: A New Test on Sticky Expectations",
+  "abstract": "Previous studies have shown that educational expectations of individuals with high socioeconomic status (SES) are relatively unaffected by low academic performance, a phenomenon called sticky expectations. However, this result might be biased by endogeneity and reverse causality between academic achievement and educational expectations. Using data from the Trends in International Mathematics and Science Study from 11 countries with a strict school-entry rule and building on the well-established finding that children born in the months before the school-entry cutoff underperform at school, we use birth month as an instrument to identify the causal effect of early academic achievement on parents' expectations of university completion by parental education. Our findings based on the instrumental variable (IV) regression show that the moderation of social origin in the relationship between children's performance and parental expectations is moderately overestimated in cross-sectional data. Nonetheless, the stickiness of high-SES parental expectations is confirmed in the IV model, proving that parental expectations are less affected by children's early achievement when the parents are highly educated.",
+  "authors": [
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    },
+    {
+      "raw": "Valdes, Manuel T.",
+      "family": "Valdes",
+      "given": "Manuel T."
+    }
+  ],
+  "authors_text": "Bernardi, Fabrizio; Valdes, Manuel T.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2025,
+  "doi": "10.1177/00380407241300306",
+  "doi_url": "https://doi.org/10.1177/00380407241300306",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380407241300306",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380407241300306.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

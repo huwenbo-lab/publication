@@ -1,0 +1,30 @@
+{
+  "title": "Longitudinal Dyad Models in Family Research",
+  "abstract": "Multilevel modeling allows for the simultaneous analysis of data gathered at more than 1 unit of analysis (e.g., children nested in schools). It is often used to examine the effects of various contexts on individual differences in change. This paper promotes the application of multilevel models to longitudinal dyadic data in family research. By focusing on the dyad as context, researchers can examine within‐dyad change and begin to understand the interactive processes that constitute the relationship between partners. They can then frame questions about interdyad differences in within‐dyad change. We present several longitudinal models that researchers can use to examine the pattern of change within dyads, assess heterogeneity in change across dyads, and investigate cross‐partner effects on change. We comment on the implications of these models for family research.",
+  "authors": [
+    {
+      "raw": "Lyons, Karen S.",
+      "family": "Lyons",
+      "given": "Karen S."
+    },
+    {
+      "raw": "Sayer, Aline G.",
+      "family": "Sayer",
+      "given": "Aline G."
+    }
+  ],
+  "authors_text": "Lyons, Karen S.; Sayer, Aline G.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2005,
+  "doi": "10.1111/j.1741-3737.2005.00193.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2005.00193.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2005.00193.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2005.00193.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

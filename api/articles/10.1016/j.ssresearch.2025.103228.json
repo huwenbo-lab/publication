@@ -1,0 +1,35 @@
+{
+  "title": "The uneven effects of gender parity: Trends in gender homophily in scientific publications, 1980-2019",
+  "abstract": "This study examines gender collaboration patterns across male-dominated, gender-neutral, and female-dominated fields. Using data from the Web of Science, we investigate how the increasing participation of women in research affects gender homophily in scientific collaborations. Our analysis covers articles indexed from 1980 to 2019, encompassing 15,642 journals, 28,241,100 articles, and 111,980,858 authorships across 153 research areas. We find that gender homophily is most pronounced in fields at the intersection of male-dominated and gender-neutral areas and lowest in female-dominated fields. We suggest that this asymmetry arises from differing incentives for cross-gender collaboration. Men may view the increasing presence of women in traditionally male fields as a threat to the status quo, reinforcing exclusionary behaviors like homophily. In contrast, women may view cross-gender collaboration as an opportunity to enhance their status and expand their networks.",
+  "authors": [
+    {
+      "raw": "Torre, Margarita",
+      "family": "Torre",
+      "given": "Margarita"
+    },
+    {
+      "raw": "Prieto-Alonso, Jesus A.",
+      "family": "Prieto-Alonso",
+      "given": "Jesus A."
+    },
+    {
+      "raw": "Ucar, Inaki",
+      "family": "Ucar",
+      "given": "Inaki"
+    }
+  ],
+  "authors_text": "Torre, Margarita; Prieto-Alonso, Jesus A.; Ucar, Inaki",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103228",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103228",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103228",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103228.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

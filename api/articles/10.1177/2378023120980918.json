@@ -1,0 +1,45 @@
+{
+  "title": "Racial Disparities in COVID-19 and Excess Mortality in Minnesota",
+  "abstract": "The coronavirus disease 2019 (COVID-19) pandemic has produced vastly disproportionate deaths for communities of color in the United States. Minnesota seemingly stands out as an exception to this national pattern, with white Minnesotans accounting for 80 percent of the population and 82 percent of COVID-19 deaths. The authors examine confirmed COVID-19 mortality alongside deaths indirectly attributable to the pandemic—“excess mortality”—in Minnesota. This analysis reveals profound racial disparities: age-adjusted excess mortality rates for whites are exceeded by a factor of 2.8 to 5.3 for all other racial groups, with the highest rates among Black, Latino, and Native Minnesotans. The seemingly small disparities in COVID-19 deaths in Minnesota reflect the interaction of three factors: the natural history of the disease, whose early toll was heavily concentrated in nursing homes; an exceptionally divergent age distribution in the state; and a greatly different proportion of excess mortality captured in confirmed COVID-19 rates for white Minnesotans compared with most other groups.",
+  "authors": [
+    {
+      "raw": "Wrigley-Field, Elizabeth",
+      "family": "Wrigley-Field",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Garcia, Sarah",
+      "family": "Garcia",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Leider, Jonathon P.",
+      "family": "Leider",
+      "given": "Jonathon P."
+    },
+    {
+      "raw": "Robertson, Christopher",
+      "family": "Robertson",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Wurtz, Rebecca",
+      "family": "Wurtz",
+      "given": "Rebecca"
+    }
+  ],
+  "authors_text": "Wrigley-Field, Elizabeth; Garcia, Sarah; Leider, Jonathon P.; Robertson, Christopher; Wurtz, Rebecca",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120980918",
+  "doi_url": "https://doi.org/10.1177/2378023120980918",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120980918",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120980918.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

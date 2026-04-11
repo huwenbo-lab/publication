@@ -1,0 +1,25 @@
+{
+  "title": "Immigrants and natives in U.S. science and engineering occupations, 1994–2006",
+  "abstract": "Abstract Between 1994 and 2006, the ratio of foreign-born scientists and engineers (FSE) to native scientists and engineers (NSE) doubled. I decompose this change into a migration effect (which accounts for migration in general), a proportional college effect (which accounts for the relative proportions of college graduates among migrant and native workers), and a proportional science and engineering (S&E) effect (which accounts for the relative proportions of S&Es among migrant and native college-educated workers). Results show that the migration effect explains about three-quarters of the increase in FSE/NSE during the entire period under study. The proportional S&E effect, which captures changes in the ratio as a result of immigration of S&Es in excess of what would be expected from general migration alone, was largest in 1995–1998, which were years of sustained economic growth. Conversely, a slower economy coincided with a declining proportional S&E effect after 2000. Increases in the annual cap on H-1B visas, an important avenue of entry for foreign-born S&Es, had little effect on the ratio. In short, during 1994–2006, the association between economic swings and the specific, more than proportional migration of S&Es was much stronger than the association between the latter and changes in the H-1B cap.",
+  "authors": [
+    {
+      "raw": "Sana, Mariano",
+      "family": "Sana",
+      "given": "Mariano"
+    }
+  ],
+  "authors_text": "Sana, Mariano",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0117",
+  "doi_url": "https://doi.org/10.1353/dem.0.0117",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0117",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0117.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

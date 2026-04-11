@@ -1,0 +1,35 @@
+{
+  "title": "The Unsustainable State: Greenhouse Gas Emissions, Inequality, and Human Well-Being in the United States, 1913 to 2017",
+  "abstract": "A central premise of development strategies is that nations use natural resources, such as fossil fuels, to raise population living standards and enhance well-being. However, research shows that the relationship among human well-being, resource use, and the associated emissions is complex and context specific. To better understand if natural resource use plays a historic role in generating human well-being in the United States, the authors conduct a time-series analysis of greenhouse gas emissions and average life expectancy from 1913 to 2017. The results show that increases in greenhouse gas emissions per capita have an instantaneous, negative effect on life expectancy. The authors also find evidence that income inequality has a long-run negative effect on life expectancy. Additional analyses provide mixed results regarding whether and how the effects of emissions on life expectancy are conditional on income inequality. These findings contradict the assumption that reductions in emissions necessitate trade-offs in human well-being in high-income contexts.",
+  "authors": [
+    {
+      "raw": "Kelly, Orla",
+      "family": "Kelly",
+      "given": "Orla"
+    },
+    {
+      "raw": "Thombs, Ryan P.",
+      "family": "Thombs",
+      "given": "Ryan P."
+    },
+    {
+      "raw": "Jorgenson, Andrew",
+      "family": "Jorgenson",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Kelly, Orla; Thombs, Ryan P.; Jorgenson, Andrew",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211020536",
+  "doi_url": "https://doi.org/10.1177/23780231211020536",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211020536",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211020536.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

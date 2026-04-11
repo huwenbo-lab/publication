@@ -1,0 +1,30 @@
+{
+  "title": "What's a parent to do? Measuring cultural logics of parenting with computational text analysis",
+  "abstract": "Leading theories on parenting in the United States suggest that parenting varies widely by socioeconomic status, with middle-class parents practicing concerted cultivation-marked by parents' intensive efforts to foster their children's development-and working-class parents engaging in the accomplishment of natural growth-with children given more freedom to manage their own time. While frequently inferred that these parenting practices reflect different cultural logics of parenting, such logics are inherently hard to measure. Our paper proposes a new inductive way to study parenting logics using computational text analysis applied to a nationally representative survey where respondents provided parenting advice across three hypothetical parenting situations. Analyzing this advice using Biterm Topic Modeling we find that nearly all parenting logics reflect some form of intensive parenting, but within that are multiple nuanced versions varying across two dimensions: (1) assertive vs negotiated parenting, and (2) pedagogic vs pragmatic parenting. Using fractional multinomial logistic regression, we find little difference in how parenting logics vary by race/ethnicity, education, and income, suggesting more similarity across groups and more variability within groups than commonly understood. These findings also demonstrate how computational techniques may provide complementary tools to enrich the study of long-standing questions in social science research, at times offering an analytical naivete that human coding cannot offer.",
+  "authors": [
+    {
+      "raw": "Hastings, Orestes P.",
+      "family": "Hastings",
+      "given": "Orestes P."
+    },
+    {
+      "raw": "Pesando, Luca Maria",
+      "family": "Pesando",
+      "given": "Luca Maria"
+    }
+  ],
+  "authors_text": "Hastings, Orestes P.; Pesando, Luca Maria",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103074",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103074",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103074",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103074.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

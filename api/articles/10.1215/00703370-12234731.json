@@ -1,0 +1,40 @@
+{
+  "title": "Temporary Employment and First Births: A Path Analysis of the Underlying Mechanisms Using Aus tra lian and Ger man Panel Data",
+  "abstract": "In many countries, temporary work (including fixed-term and casual employment contracts) is negatively associated with fertility. Yet, the mechanisms underlying this relationship remain poorly understood. This study investigates several mediating pathways (wages, financial satisfaction, short tenure, and subjective job insecurity) through which temporary work influences the transition to first birth in two contrasting contexts: Australia and Germany. Event-history and path models are estimated using 19 years of data from both the Household, Income and Labour Dynamics in Australia Survey (n = 28,530) and the German Socio-Economic Panel (n = 31,608). Results show that casual work among women and men in Australia and fixed-term contracts among women in Germany are associated with a lower likelihood of first birth than permanent employment. Lower wages explain a significant proportion of these differences for both genders. The higher likelihood of being new in a job (in Germany) and higher perceived job insecurity (in Australia) are relevant mediators only among women, whereas the subjective financial situation was not a relevant mediator for any group. These findings suggest that a less favorable objective financial situation plays a crucial role in first-birth postponement by temporary workers, whereas perceived economic and employment uncertainty are not universally associated with first-birth decisions.",
+  "authors": [
+    {
+      "raw": "Lass, Inga",
+      "family": "Lass",
+      "given": "Inga"
+    },
+    {
+      "raw": "Mooi-Reci, Irma",
+      "family": "Mooi-Reci",
+      "given": "Irma"
+    },
+    {
+      "raw": "Bujard, Martin",
+      "family": "Bujard",
+      "given": "Martin"
+    },
+    {
+      "raw": "Wooden, Mark",
+      "family": "Wooden",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Lass, Inga; Mooi-Reci, Irma; Bujard, Martin; Wooden, Mark",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-12234731",
+  "doi_url": "https://doi.org/10.1215/00703370-12234731",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12234731",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12234731.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

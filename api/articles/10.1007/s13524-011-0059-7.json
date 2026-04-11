@@ -1,0 +1,30 @@
+{
+  "title": "Fertility Following an Unintended First Birth",
+  "abstract": "Abstract Research on unintended fertility tends to focus on births as isolated events. This article expands previous research by examining the relationship between early unintended childbearing and subsequent fertility dynamics in the United States. Data from the 2002 National Survey of Family Growth show that 27.5% of mothers report an unintended first birth. We use event history methods to show that these women are significantly more likely than women with an intended first birth to have an unintended second birth than to have either no second birth or an intended second birth, net of sociodemographic characteristics. An unintended first birth also increases the risk of having an unintended third birth relative to no birth or an intended birth, independent of the intendedness of the second birth. We conclude that early unintended fertility is a strong signal of high risk for subsequent unintended fertility.",
+  "authors": [
+    {
+      "raw": "Guzzo, Karen Benjamin",
+      "family": "Guzzo",
+      "given": "Karen Benjamin"
+    },
+    {
+      "raw": "Hayford, Sarah",
+      "family": "Hayford",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Guzzo, Karen Benjamin; Hayford, Sarah",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0059-7",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0059-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0059-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0059-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

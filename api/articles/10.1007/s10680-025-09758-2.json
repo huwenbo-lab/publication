@@ -1,0 +1,40 @@
+{
+  "title": "Projecting Labour Market Imbalances and Skill Mismatch Under Demographic Change in the EU",
+  "abstract": "Abstract We assess long-term labour mismatches in the European Union (EU27) by projecting the occupational distribution of workers and skill-specific labour demand up to 2060. Using a dynamic microsimulation approach ( Link4Skills-Mic ), we jointly model demographic, educational, and labour force dynamics at the individual level and combine country-specific projections of labour supply with projections of occupational demand. The analysis highlights growing imbalances: although the supply of highly educated workers continues to rise, shifts in demand are not evenly distributed across skill levels. Consequently, underutilization of high-skilled workers is projected to coexist with persistent vacancies in medium- and low-skilled occupations. Rather than indicating widespread labour shortages, these trends point to structural mismatches driven by the misalignment of worker qualifications, job characteristics, and hiring practices. To explore potential responses, we examine a series of policy scenarios such as expanded immigration, education reform, mid-career retraining, delayed retirement, and employer-led automation and upskilling. The findings show that, while certain policies can reduce specific mismatches, no single intervention closes all the gaps that emerge. Notably, automation reduces vacancies but increases underutilization, whereas human capital strategies shift mismatches across skill levels. These results suggest that addressing future labour mismatches will require coordinated, comprehensive and varied strategies that integrate demographic realities with evolving job demands in Europe’s ageing and increasingly digitalized and knowledge-based economies.",
+  "authors": [
+    {
+      "raw": "Marois, Guillaume",
+      "family": "Marois",
+      "given": "Guillaume"
+    },
+    {
+      "raw": "Potančoková, Michaela",
+      "family": "Potančoková",
+      "given": "Michaela"
+    },
+    {
+      "raw": "Bezat, Agnieszka",
+      "family": "Bezat",
+      "given": "Agnieszka"
+    },
+    {
+      "raw": "Crespo Cuaresma, Jesús",
+      "family": "Crespo Cuaresma",
+      "given": "Jesús"
+    }
+  ],
+  "authors_text": "Marois, Guillaume; Potančoková, Michaela; Bezat, Agnieszka; Crespo Cuaresma, Jesús",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09758-2",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09758-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09758-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09758-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Siblings and human capital: A comparison between Italy and France",
+  "abstract": "This paper investigates how family size affects children's human capital, comparing Italy and France. We tested the dilution effect in these countries, starting with the assumption that the higher the number of siblings, the fewer parental resources are available for each child, and the lower the probability that each child will successfully pursue his/her educational career. We find a negative correlation between the number of siblings and human capital. However, when the analysis is developed with a causal approach, the strength of the dilution effect weakens in Italy and disappears in France.",
+  "authors": [
+    {
+      "raw": "Ferrari, Giulia",
+      "family": "Ferrari",
+      "given": "Giulia"
+    },
+    {
+      "raw": "Dalla Zuanna, Gianpiero",
+      "family": "Dalla Zuanna",
+      "given": "Gianpiero"
+    }
+  ],
+  "authors_text": "Ferrari, Giulia; Dalla Zuanna, Gianpiero",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.23.21",
+  "doi_url": "https://doi.org/10.4054/demres.2010.23.21",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.23.21",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.23.21.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

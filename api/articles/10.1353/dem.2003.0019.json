@@ -1,0 +1,40 @@
+{
+  "title": "Economic potential and entry into marriage and cohabitation",
+  "abstract": "AbstractThis article explores the relationship between economic potential and rates of entry into marriage and cohabitation. Using data from the 1990 census and the 1980–1992 High School and Beyond (Sophomore Cohort), we developed a method for explicitly estimating five time-varying measures of earnings potential. The analyses of union formation are based on an intergenerational panel study of parents and children, to which our measures of earnings potential were appended. The results indicate that all five measures of earnings potential strongly and positively influence the likelihood of marriage for men, but not for women. Earnings potential does not affect entry into cohabiting unions for either men or women.",
+  "authors": [
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    },
+    {
+      "raw": "Raymo, James M.",
+      "family": "Raymo",
+      "given": "James M."
+    },
+    {
+      "raw": "Goyette, Kimberly",
+      "family": "Goyette",
+      "given": "Kimberly"
+    },
+    {
+      "raw": "Thornton, Arland",
+      "family": "Thornton",
+      "given": "Arland"
+    }
+  ],
+  "authors_text": "Xie, Yu; Raymo, James M.; Goyette, Kimberly; Thornton, Arland",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.1353/dem.2003.0019",
+  "doi_url": "https://doi.org/10.1353/dem.2003.0019",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2003.0019",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2003.0019.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

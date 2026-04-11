@@ -1,0 +1,25 @@
+{
+  "title": "Social Influence on Observed Race",
+  "abstract": "This article introduces a novel theoretical approach for understanding racial fluidity, emphasizing the social embeddedness of racial classifications. We propose that social ties affect racial perceptions through within-group micromechanisms, resulting in discrepancies between racial self-identifications and race as classified by others. We demonstrate this empirically on data from 12 Hungarian high school classes with one minority group (the Roma) using stochastic actor-oriented models for the analysis of social network panel data. We find strong evidence for social influence: individuals tend to accept their peers' judgement about another student’s racial category; opinions of friends have a larger effect than those of nonfriends. Perceived social position also matters: those well-accepted among majority-race peers are likely to be classified as majority students themselves. We argue that similar analyses in other social contexts shall lead to a better understanding of race and interracial processes.",
+  "authors": [
+    {
+      "raw": "Boda, Zsófia",
+      "family": "Boda",
+      "given": "Zsófia"
+    }
+  ],
+  "authors_text": "Boda, Zsófia",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2018,
+  "doi": "10.15195/v5.a3",
+  "doi_url": "https://doi.org/10.15195/v5.a3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv5.a3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v5.a3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

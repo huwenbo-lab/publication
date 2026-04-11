@@ -1,0 +1,30 @@
+{
+  "title": "Converging or unequal retirement patterns? Late working lives, retirement trajectories, and pension income in Germany over three decades of cohorts",
+  "abstract": "Scholars increasingly recognize retirement transitions as gradual, complex, and unequal processes that shape inequalities in later-life outcomes, while the patterns of retirement are strongly influenced by welfare state reforms and socioeconomic transformations. Germany presents a unique case where late working lives are highly stratified, yet early retirement trends have dramatically reversed since major reforms in the 1990s, while facing multiple recessions. Against this backdrop, our study examines the dynamics of social stratification in retirement processes and their relationship with pension income following major transformations in Germany after reunification. Using administrative pension insurance records linked with survey data, we combine sequence and cluster analyses with regression models to study the late working lives in Germany across three decades of birth cohorts until 2019. Results demonstrate a gradual shift from early retirement trajectories to the standard type of retirement, with persistent disparities by education level. Women's rising later-life employment has been driven more by flexible/part-time trajectories than standard forms, while some convergence is observed between the East and West. Differences in retirement trajectories significantly explain variations in public pension income, net of socio-demographic characteristics and lifetime work histories.",
+  "authors": [
+    {
+      "raw": "Lee, Kun",
+      "family": "Lee",
+      "given": "Kun"
+    },
+    {
+      "raw": "Ebbinghaus, Bernhard",
+      "family": "Ebbinghaus",
+      "given": "Bernhard"
+    }
+  ],
+  "authors_text": "Lee, Kun; Ebbinghaus, Bernhard",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf211",
+  "doi_url": "https://doi.org/10.1093/sf/soaf211",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf211",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf211.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

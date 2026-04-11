@@ -1,0 +1,35 @@
+{
+  "title": "Heterogeneity in the Strehler-Mildvan General Theory of Mortality and Aging",
+  "abstract": "Abstract This study examines and further develops the classic Strehler-Mildvan (SM) general theory of mortality and aging. Three predictions from the SM theory are tested by examining the age dependence of mortality patterns for 42 countries (including developed and developing countries) over the period 1955–2003. By applying finite mixture regression models, principal component analysis, and random-effects panel regression models, we find that (1) the negative correlation between the initial adulthood mortality rate and the rate of increase in mortality with age derived in the SM theory exists but is not constant; (2) within the SM framework, the implied age of expected zero vitality (expected maximum survival age) also is variable over time; (3) longevity trajectories are not homogeneous among the countries; (4) Central American and Southeast Asian countries have higher expected age of zero vitality than other countries in spite of relatively disadvantageous national ecological systems; (5) within the group of Central American and Southeast Asian countries, a more disadvantageous national ecological system is associated with a higher expected age of zero vitality; and (6) larger agricultural and food productivities, higher labor participation rates, higher percentages of population living in urban areas, and larger GDP per capita and GDP per unit of energy use are important beneficial national ecological system factors that can promote survival. These findings indicate that the SM theory needs to be generalized to incorporate heterogeneity among human populations.",
+  "authors": [
+    {
+      "raw": "Zheng, Hui",
+      "family": "Zheng",
+      "given": "Hui"
+    },
+    {
+      "raw": "Yang, Yang",
+      "family": "Yang",
+      "given": "Yang"
+    },
+    {
+      "raw": "Land, Kenneth C.",
+      "family": "Land",
+      "given": "Kenneth C."
+    }
+  ],
+  "authors_text": "Zheng, Hui; Yang, Yang; Land, Kenneth C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0013-8",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0013-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0013-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0013-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "The Examination of Diffusion Effects on Modern Contraceptive Use in Nigeria",
+  "abstract": "This study uses data gathered for an evaluation of a Bill & Melinda Gates Foundation-funded initiative designed to increase modern contraceptive use in select urban areas of Nigeria. When the initiative was conceived, the hope was that any positive momentum in the cities would diffuse to surrounding areas. Using a variety of statistical methods, we study three aspects of diffusion and their effects on modern contraceptive use: spread through mass communications, social learning, and social influence. Using a dynamic causal model, we find strong evidence of social multiplier effects through social learning. The results for social influence and spread through mass communications are promising, but we are unable to identify definitive causal impacts.",
+  "authors": [
+    {
+      "raw": "Guilkey, David K.",
+      "family": "Guilkey",
+      "given": "David K."
+    },
+    {
+      "raw": "Escamilla, Veronica",
+      "family": "Escamilla",
+      "given": "Veronica"
+    },
+    {
+      "raw": "Calhoun, Lisa M.",
+      "family": "Calhoun",
+      "given": "Lisa M."
+    },
+    {
+      "raw": "Speizer, Ilene S.",
+      "family": "Speizer",
+      "given": "Ilene S."
+    }
+  ],
+  "authors_text": "Guilkey, David K.; Escamilla, Veronica; Calhoun, Lisa M.; Speizer, Ilene S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00884-6",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00884-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00884-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00884-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

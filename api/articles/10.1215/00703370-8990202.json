@@ -1,0 +1,25 @@
+{
+  "title": "The Effect of Schooling on Women's Overweight and Obesity: A Natural Experiment in Nigeria",
+  "abstract": "extensive social scientific literature has documented the importance of schooling in preventing overweight and obesity among women. However, prior quasiexperimental studies investigating the causal effect of schooling on wom-en's overweight and obesity have focused almost exclusively on highincome countries (HICs). Schooling effects may differ in low or middleincome countries (LMICs), where information about the harms of being overweight is often sparse and where larger body sizes can be socially valued. Here I evaluate the causal impact of schooling on women's probability of being overweight or obese in an LMIC, Nigeria, using data from the 2003, 2008, and 2013 Demographic Health Surveys. In 1976, the Nigerian government abolished primary school fees and increased funding for primary school construction, creating quasirandom variation in access to primary school according to an individual's age and the number of newly constructed schools in their state of residence. I exploit both sources of variation and use a twostage instrumental variables approach to es-ti-mate the effect of increased schooling on the probability of being overweight or obese. Each additional year of schooling increased the probability of being overweight or obese by 6%, but this effect estimate was not statistically different from zero. This finding differs from the protective effect of schooling documented in several HICs, suggesting that con-textual factors play an important role calibrating the influence of ad-di-tional schooling on overweight or obesity. Furthermore, my findings contrast markedly with the positive correlation between schooling and overweight/obesity identified in previous studies in Nigeria, suggesting that studies failing to account for selection bias overestimate the causal effect of schooling. More robust causal research is needed to examine the effect of schooling on overweight and obesity in LMIC contexts.",
+  "authors": [
+    {
+      "raw": "Barlow, Pepita",
+      "family": "Barlow",
+      "given": "Pepita"
+    }
+  ],
+  "authors_text": "Barlow, Pepita",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8990202",
+  "doi_url": "https://doi.org/10.1215/00703370-8990202",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8990202",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8990202.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>期刊文献数据库</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="search" type="application/opensearchdescription+xml" href="opensearch.xml" title="期刊文献数据库搜索">
 </head>
 <body>
 <div class="app-shell">
@@ -182,6 +183,15 @@
                 </article>
             </div>
         </section>
+
+        <section class="modal-section">
+            <div class="section-head">
+                <h3>AI 读这个</h3>
+                <button type="button" class="tiny-btn" data-copy-ai-prompt="true">复制 AI 提示词</button>
+            </div>
+            <div id="ai-links" class="ai-links"></div>
+            <pre id="ai-prompt" class="citation-text"></pre>
+        </section>
     </div>
 </div>
 
@@ -210,6 +220,7 @@
     </div>
 </div>
 
+<script id="article-schema" type="application/ld+json"></script>
 <script src="https://sql.js.org/dist/sql-wasm.js"></script>
 <script src="app.js"></script>
 </body>

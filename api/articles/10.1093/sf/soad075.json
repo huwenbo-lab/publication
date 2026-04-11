@@ -1,0 +1,35 @@
+{
+  "title": "Best for Whom? Heterogeneous Treatment Effects of Breastfeeding on Child Development",
+  "abstract": "The slogan Breast is Best has been popularized by medical organizations and parenting networks to extoll the benefits of breastfeeding, yet the causal effects are widely debated. Our study contributes to the debate by examining whether breastfeeding has differential effects based on the propensity to breastfeed, which is also known as causal effect heterogeneity. Prior studies attempt to isolate the causal effect of breastfeeding by netting out confounding characteristics, but we argue that the effects of breastmilk are unlikely to operate in a vacuum. The social forces that promote or constrain breastfeeding among different populations in American society can also shape its effects. Using rich intergenerational panel data from the NLSY79 Child and Young Adult cohort (n = 7902), we evaluate heterogeneous treatment effects in the relationship between breastfeeding and child development from ages 4 to 14 using stratification-multilevel propensity score models. We find that breastfeeding is associated with small benefits for behavioral development, math scores, and academic ability among those with the highest propensities to breastfeed. By contrast, its small benefits for reading comprehension and vocabulary are concentrated among children with the lowest propensities to breastfeed. Our findings suggest that the social process of selection into breastfeeding cannot be fully disentangled from its estimated effects. The social context not only shapes who breastfeeds in American society, but also who benefits most.",
+  "authors": [
+    {
+      "raw": "Su, Jessica Houston",
+      "family": "Su",
+      "given": "Jessica Houston"
+    },
+    {
+      "raw": "Raissian, Kerri M.",
+      "family": "Raissian",
+      "given": "Kerri M."
+    },
+    {
+      "raw": "Kim, Jiyeon",
+      "family": "Kim",
+      "given": "Jiyeon"
+    }
+  ],
+  "authors_text": "Su, Jessica Houston; Raissian, Kerri M.; Kim, Jiyeon",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soad075",
+  "doi_url": "https://doi.org/10.1093/sf/soad075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

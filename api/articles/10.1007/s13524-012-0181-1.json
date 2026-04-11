@@ -1,0 +1,35 @@
+{
+  "title": "Meet the Parents? Family Size and the Geographic Proximity Between Adult Children and Older Mothers in Sweden",
+  "abstract": "Abstract The aim of this study is to estimate the causal effect of family size on the proximity between older mothers and adult children by using a large administrative data set from Sweden. Our main results show that adult children in Sweden are not constrained by sibship size in choosing where to live: for families with more than one child, sibship size does not affect child-mother proximity. For aging parents, however, having fewer children reduces the probability of having at least one child living nearby, which is likely to have consequences for the intensity of intergenerational contact and eldercare.",
+  "authors": [
+    {
+      "raw": "Holmlund, Helena",
+      "family": "Holmlund",
+      "given": "Helena"
+    },
+    {
+      "raw": "Rainer, Helmut",
+      "family": "Rainer",
+      "given": "Helmut"
+    },
+    {
+      "raw": "Siedler, Thomas",
+      "family": "Siedler",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Holmlund, Helena; Rainer, Helmut; Siedler, Thomas",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-012-0181-1",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0181-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0181-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0181-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

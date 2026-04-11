@@ -1,0 +1,25 @@
+{
+  "title": "Paternity Leave and the Motherhood Penalty: NewCausal Evidence",
+  "abstract": "Objective: The objective of this study was to test how a father's paternity leave affects the within-household gender wage gap among heterosexual couples. Background: Previous studies focus on the actual number of days of leave the father takes, but if an important driver of the gender wage gap is the effect of parental leave on gender-specific household specialization, absolute variations in the father's leave should not be the key interest. Instead, this article tests the effect of the extent of the father's leave relative to that of the mother's leave because it is this variation that plausibly affects the division of household labor and through this the within-household gender wage gap. Method: Full sample, administrative data are from Statistics Denmark. Causal inference was facilitated by exploiting 5 Danish parental leave reforms on 5 separate samples of all households who become first-time parents within the year before and after each reform (N-1=2,304; N-2=45,683; N-3=16,668; N-4=42,328; N-5=38,978). Results: Father's leave reduces the within-household gender wage gap through increasing mother's wages. Father's leave furthermore causes an increase in total household wage incomes. Conclusion: Father's stronger involvement in the household may be one route to more gender equality, but more so to increased financial well-being among families.",
+  "authors": [
+    {
+      "raw": "Andersen, Signe Hald",
+      "family": "Andersen",
+      "given": "Signe Hald"
+    }
+  ],
+  "authors_text": "Andersen, Signe Hald",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2018,
+  "doi": "10.1111/jomf.12507",
+  "doi_url": "https://doi.org/10.1111/jomf.12507",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12507",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12507.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

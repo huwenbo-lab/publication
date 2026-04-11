@@ -1,0 +1,35 @@
+{
+  "title": "How reducing differentials in education and labor force participation could lessen workforce decline in the EU-28",
+  "abstract": "BACKGROUND Population ageing is unavoidable in Europe, but perhaps its impact on labor force is not. In the context of a new demographic regime of high immigration and low fertility, differentials in labor force participation and educational attainment can be more consequential for the labor force than either the number of immigrants or structure of the overall population. OBJECTIVE The objective of this paper is to investigate how improvements in both educational attainment (especially among children with a low educated mother or an immigration background) and labor force participation (especially of women and immigrants) could impact the future labor force in the European Union. METHODS We used a microsimulation model called CEPAM-Mic to project the labor force of EU28 countries. CEPAM-Mic incorporates heterogeneity among different groups and allows the development of alternative scenarios concerning educational attainment and labor force participation of disadvantaged groups. RESULTS Removing inequalities between subgroups in educational attainment and labor force participation drastically changes the prospective labor force size and labor force dependency ratio (LFDR) in the EU. Assuming perfect equality, the anticipated decline in the labor force size reduces by 54%, while the expected increase in the LFDR narrows by 70%. CONCLUSION Population aging is a destiny in large part driven by past demographic behaviors, but its anticipated consequences in terms of labor force size and labor force dependency ratio may be avoidable. CONTRIBUTION This paper features a policy-oriented use of microsimulation population projections. The alternative scenarios developed go beyond traditional demographic scenarios that can only set assumptions on fertility, mortality and migration.",
+  "authors": [
+    {
+      "raw": "Marois, Guillaume",
+      "family": "Marois",
+      "given": "Guillaume"
+    },
+    {
+      "raw": "Sabourin, Patrick",
+      "family": "Sabourin",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Belanger, Alain",
+      "family": "Belanger",
+      "given": "Alain"
+    }
+  ],
+  "authors_text": "Marois, Guillaume; Sabourin, Patrick; Belanger, Alain",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.6",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

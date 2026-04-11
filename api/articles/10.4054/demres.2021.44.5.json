@@ -1,0 +1,25 @@
+{
+  "title": "A decade of TFR declines suggests no relationship between development and sub-replacement fertility rebounds",
+  "abstract": "BACKGROUND Human development is historically associated with fertility declines. However, demographic paradigms disagree about whether that relationship should hold at very high levels of development. Using data through the late 2000s, Myrskyla, Kohler, and Billari (2009, 2011) found that very high national levels of the Human Development Index (HDI) were associated with increasing total fertility rates (TFRs), at least at high levels of gender parity. OBJECTIVE This paper seeks to update that finding and to introduce the Human Life Indicator (HLI) as a novel measure of development within this debate. RESULTS Among the countries that reached HDI 0.8 before 2010 (n = 40), there is no clear relationship between changes in the HDI and the TFR at HDI > 0.8 through 2018. Conditioning on high levels of gender parity does not change this finding. This negative result is closely tied to the sharp declines in fertility seen in most highly developed countries since 2010 - a median decline of 0.125 in tempo-adjusted TFR through the most recent available year (n = 23). Furthermore, the longer historical coverage of the HLI shows that at all high levels of development, at least one country has exhibited almost every level of TFR between 1.2 and 2.0. CONCLUSIONS Fertility declines over the last decade mean that the previous suggestion that very high levels of development and gender equality foster fertility increases is no longer supported on the national level.",
+  "authors": [
+    {
+      "raw": "Gaddy, Hampton Gray",
+      "family": "Gaddy",
+      "given": "Hampton Gray"
+    }
+  ],
+  "authors_text": "Gaddy, Hampton Gray",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.5",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

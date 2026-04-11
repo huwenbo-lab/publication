@@ -1,0 +1,40 @@
+{
+  "title": "Visualizing Multiple Sexual Identity Responses Using a Network Approach",
+  "abstract": "Measurement strategies for gauging sexual identity within the United States’s population-based data infrastructure are evolving. Despite notable advancements, most measurement techniques still do not accurately reflect the nuanced ways in which sexually diverse adults conceptualize their identities. One measurement limitation involves asking participants to choose a single “best” identity. In this visualization, drawing on data from the National Couples’ Health and Time Study, the authors illustrate the complexity of sexual identity responses by constructing a network that aggregates the patterns of multiple identities chosen by respondents. The findings underscore that relying on a single-item response risks undercounting the range of sexually diverse identities. As national surveys progress in incorporating sexual identity measures, a “select all that apply” option is crucial if the identities of sexually diverse adults are to be accurately represented.",
+  "authors": [
+    {
+      "raw": "Julian, Christopher A.",
+      "family": "Julian",
+      "given": "Christopher A."
+    },
+    {
+      "raw": "Newmyer, Lauren",
+      "family": "Newmyer",
+      "given": "Lauren"
+    },
+    {
+      "raw": "Manning, Wendy D.",
+      "family": "Manning",
+      "given": "Wendy D."
+    },
+    {
+      "raw": "Dush, Claire M. Kamp",
+      "family": "Dush",
+      "given": "Claire M. Kamp"
+    }
+  ],
+  "authors_text": "Julian, Christopher A.; Newmyer, Lauren; Manning, Wendy D.; Dush, Claire M. Kamp",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241279129",
+  "doi_url": "https://doi.org/10.1177/23780231241279129",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241279129",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241279129.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

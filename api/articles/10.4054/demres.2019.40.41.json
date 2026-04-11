@@ -1,0 +1,35 @@
+{
+  "title": "Impact of delayed effects on human old-age mortality",
+  "abstract": "BACKGROUND There is growing empirical evidence supporting theories of developmental origins of health and disease (DOHaD). However, the implications of DOHaD conjectures for aggregate population patterns of human disease, disability, mortality, and aging are poorly understood. OBJECTIVE We empirically test two predictions derived from a formal model of aggregate population-level impacts of DOHaD. This model predicts that populations potentially influenced by delayed effects should experience singularities in their adult mortality patterns that can be empirically detected from aggregate data. METHODS We test predictions using a large mortality database for populations in the Latin American and Caribbean (LAC) region, spanning nearly one hundred years of mortality history. RESULTS Results are consistent, within explicit bounds of uncertainty, with expected patterns. We find that younger cohorts in countries whose mortality decline starts more recently experience deceleration in survival gains at older ages, attenuation of the rate of aging at older ages, and a decline in the association between early childhood and adult mortality. CONCLUSIONS Results point to the importance of adverse early conditions for human longevity. Future research should shed light on the impact on morbidity, disability, and healthy life expectancy. CONTRIBUTION To our knowledge this is the first time that implications of DOHaD conjectures for populations' mortality patterns are formulated precisely and empirically tested with aggregate population data.",
+  "authors": [
+    {
+      "raw": "Verhulst, Andrea",
+      "family": "Verhulst",
+      "given": "Andrea"
+    },
+    {
+      "raw": "Beltran-Sanchez, Hiram",
+      "family": "Beltran-Sanchez",
+      "given": "Hiram"
+    },
+    {
+      "raw": "Palloni, Alberto",
+      "family": "Palloni",
+      "given": "Alberto"
+    }
+  ],
+  "authors_text": "Verhulst, Andrea; Beltran-Sanchez, Hiram; Palloni, Alberto",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.41",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Sleep in adolescence: Considering family structure and family complexity",
+  "abstract": "Objectives To investigate associations between family structure, family complexity, and sleep in adolescence. Background Family structure may be associated with sleep patterns and sleep problems among adolescents. Yet, research documenting this association has not captured the complexity of modern families and used crude measures of sleep. Method The youth@hordaland study (N = 8833) of adolescents aged 16-19 conducted in 2012 in Norway provided a detailed assessment of family structure, family complexity (i.e., living with half-/stepsiblings), and multiple sleep parameters. Insomnia and delayed sleep-wake phase disorder (DSWPD) were defined in alignment with diagnostic criteria. Ordinary least squares and Poisson regression analyses were used to assess associations between family structure, family complexity, and sleep outcomes. Results Adolescents in joint physical custody (JPC) had more similar sleep parameters as peers in nuclear families than in single-and stepparent families. Adolescents in single- and stepparent families had a higher risk of short sleep duration on weekdays, long sleep onset latency, long wake after sleep onset, oversleeping, insomnia, and DSWPD than peers in nuclear families. Family complexity was also associated with a higher risk of sleep problems, but the risk attenuated when considered jointly with family structure. Socioeconomic status and depressive symptoms partly attenuated the differences between the groups. Conclusion Inequalities in sleep exist by family structure and, in part, family complexity. Despite alternating between two homes and often experiencing family complexity, sleep among adolescents in JPC was more similar to peers in nuclear families than in single- and stepparent families.",
+  "authors": [
+    {
+      "raw": "Nilsen, Sondre Aasen",
+      "family": "Nilsen",
+      "given": "Sondre Aasen"
+    },
+    {
+      "raw": "Bergstrom, Malin",
+      "family": "Bergstrom",
+      "given": "Malin"
+    },
+    {
+      "raw": "Sivertsen, Borge",
+      "family": "Sivertsen",
+      "given": "Borge"
+    },
+    {
+      "raw": "Stormark, Kjell Morten",
+      "family": "Stormark",
+      "given": "Kjell Morten"
+    },
+    {
+      "raw": "Hysing, Mari",
+      "family": "Hysing",
+      "given": "Mari"
+    }
+  ],
+  "authors_text": "Nilsen, Sondre Aasen; Bergstrom, Malin; Sivertsen, Borge; Stormark, Kjell Morten; Hysing, Mari",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12844",
+  "doi_url": "https://doi.org/10.1111/jomf.12844",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12844",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12844.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

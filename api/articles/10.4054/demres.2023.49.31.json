@@ -1,0 +1,35 @@
+{
+  "title": "A Bayesian model for the reconstruction of education- and age-specific fertility rates: An application to African and Latin American countries",
+  "abstract": "BACKGROUND Consistent and reliable time series of education-and age-specific fertility rates for the past are difficult to obtain in developing countries, although they are needed to evaluate the impact of women's education on fertility across periods and cohorts.OBJECTIVE We aim to fill the existing gap by reconstructing age-specific fertility rates by level of education for a large sample of African and Latin American countries from 1970 to 2020 in 5-year steps.METHOD We develop a Bayesian framework to reconstruct age-specific fertility rates by level of education using prior information from the birth history module of the Demographic and Health Surveys (DHS).RESULTS We find that the Bayesian approach allows for estimating reliable education-and age specific fertility rates using multiple rounds of the DHS surveys. The time series obtained confirm the main findings of the literature on fertility trends and age-and education specific differentials.CONCLUSION From a methodological point of view, we show that the Bayesian reconstruction model allows for estimating missing data on fertility by level of educational attainment. This information is key when we account for the role of education in fertility rates and assess the impacts of education policies in countries in Africa and Latin America.CONTRIBUTION We propose an advanced statistical model which fills gaps in time series when data are missing, and provide complete and UN WPP-consistent age-specific fertility rates for 50 countries.",
+  "authors": [
+    {
+      "raw": "Durowaa-Boateng, Afua",
+      "family": "Durowaa-Boateng",
+      "given": "Afua"
+    },
+    {
+      "raw": "Yildiz, Dilek",
+      "family": "Yildiz",
+      "given": "Dilek"
+    },
+    {
+      "raw": "Goujon, Anne",
+      "family": "Goujon",
+      "given": "Anne"
+    }
+  ],
+  "authors_text": "Durowaa-Boateng, Afua; Yildiz, Dilek; Goujon, Anne",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.31",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

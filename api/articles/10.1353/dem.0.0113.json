@@ -1,0 +1,35 @@
+{
+  "title": "Knox meets Cox: Adapting epidemiological space-time statistics to demographic studies",
+  "abstract": "AbstractMany important questions and theories in demography focus on changes over time, and on how those changes differ over geographic and social space. Space-time analysis has always been important in studying fertility transitions, for example. However, demographers have seldom used formal statistical methods to describe and analyze time series of maps. One formal method, used widely in epidemiology, criminology, and public health, is Knox’s space-time interaction test. In this article, we discuss the potential of the Knox test in demographic research and note some possible pitfalls. We demonstrate how to use familiar proportional hazards models to adapt the Knox test for demographic applications. These adaptations allow for nonrepeatable events and for the incorporation of structural variables that change in space and time. We apply the modified test to data on the onset of fertility decline in Brazil over 1960–2000 and show how the modified method can produce maps indicating where and when diffusion effects seem strongest, net of covariate effects.",
+  "authors": [
+    {
+      "raw": "Schmertmann, Carl P.",
+      "family": "Schmertmann",
+      "given": "Carl P."
+    },
+    {
+      "raw": "Assunção, Renato M.",
+      "family": "Assunção",
+      "given": "Renato M."
+    },
+    {
+      "raw": "Potter, Joseph E.",
+      "family": "Potter",
+      "given": "Joseph E."
+    }
+  ],
+  "authors_text": "Schmertmann, Carl P.; Assunção, Renato M.; Potter, Joseph E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0113",
+  "doi_url": "https://doi.org/10.1353/dem.0.0113",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0113",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0113.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

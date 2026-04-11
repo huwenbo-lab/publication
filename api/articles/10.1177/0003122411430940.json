@@ -1,0 +1,35 @@
+{
+  "title": "Variance Function Regression in Hierarchical Age-Period-Cohort Models: Applications to the Study of Self-Reported Health",
+  "abstract": "Two long-standing research problems of interest to sociologists are sources of variations in social inequalities and differential contributions of the temporal dimensions of age, time period, and cohort to variations in social phenomena. Recently, scholars have introduced a model called Variance Function Regression for the study of the former problem, and a model called Hierarchical Age-Period-Cohort regression has been developed for the study of the latter. This article presents an integration of these two models as a means to study the evolution of social inequalities along distinct temporal dimensions. We apply the integrated model to survey data on subjective health status. We find substantial age, period, and cohort effects, as well as gender differences, not only for the conditional mean of self-rated health (i.e., between-group disparities), but also for the variance in this mean (i.e., within-group disparities)-and it is detection of age, period, and cohort variations in the latter disparities that application of the integrated model permits. Net of effects of age and individual-level covariates, in recent decades, cohort differences in conditional means of self-rated health have been less important than period differences that cut across all cohorts. By contrast, cohort differences of variances in these conditional means have dominated period differences. In particular, post-baby boom birth cohorts show significant and increasing levels of within-group disparities. These findings illustrate how the integrated model provides a powerful framework through which to identify and study the evolution of variations in social inequalities across age, period, and cohort temporal dimensions. Accordingly, this model should be broadly applicable to the study of social inequality in many different substantive contexts.",
+  "authors": [
+    {
+      "raw": "Zheng, Hui",
+      "family": "Zheng",
+      "given": "Hui"
+    },
+    {
+      "raw": "Yang, Yang",
+      "family": "Yang",
+      "given": "Yang"
+    },
+    {
+      "raw": "Land, Kenneth C.",
+      "family": "Land",
+      "given": "Kenneth C."
+    }
+  ],
+  "authors_text": "Zheng, Hui; Yang, Yang; Land, Kenneth C.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1177/0003122411430940",
+  "doi_url": "https://doi.org/10.1177/0003122411430940",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122411430940",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122411430940.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

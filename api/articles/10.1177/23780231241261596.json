@@ -1,0 +1,30 @@
+{
+  "title": "Artificial Intelligence Policymaking: An Agenda for Sociological Research",
+  "abstract": "Sociological research on artificial intelligence (AI) is flourishing: sociologists of inequality are examining new and concerning effects of AI on American society, and computational sociologists are developing novel ways to use AI in research. The authors advocate for a third form of sociological engagement with AI: research on how AI can be publicly governed to advance equity in American society. The authors orient sociologists to the rapidly evolving AI policy landscape by defining AI and by contrasting two leading approaches to AI governance: a safety-based and an equity-based approach. The authors argue that the safety-based approach is the predominant one but is inadequate. They suggest that sociologists can shift AI policymaking to prioritize equity by examining corporate political power in AI policy debates and by organizing research around four sociological questions centered on equity and public engagement. The authors conclude with recommendations for supporting and coordinating policy-oriented research on AI in sociology.",
+  "authors": [
+    {
+      "raw": "Law, Tina",
+      "family": "Law",
+      "given": "Tina"
+    },
+    {
+      "raw": "McCall, Leslie",
+      "family": "McCall",
+      "given": "Leslie"
+    }
+  ],
+  "authors_text": "Law, Tina; McCall, Leslie",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241261596",
+  "doi_url": "https://doi.org/10.1177/23780231241261596",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241261596",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241261596.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

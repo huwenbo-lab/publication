@@ -1,0 +1,35 @@
+{
+  "title": "Racial and Gender Disparities among Evicted Americans",
+  "abstract": "Drawing on millions of court records of eviction cases filed between 2012 and 2016 in 39 states, this study documents the racial and gender demographics of America's evicted population. Black renters received a disproportionate share of eviction filings and experienced the highest rates of eviction filing and eviction judgment. Black and Latinx female renters faced higher eviction rates than their male counterparts. Black and Latinx renters were also more likely to be serially filed against for eviction at the same address. These findings represent the most comprehensive investigation to date of racial and gender disparities among evicted renters in the United States.",
+  "authors": [
+    {
+      "raw": "Hepburn, Peter",
+      "family": "Hepburn",
+      "given": "Peter"
+    },
+    {
+      "raw": "Louis, Renee",
+      "family": "Louis",
+      "given": "Renee"
+    },
+    {
+      "raw": "Desmond, Matthew",
+      "family": "Desmond",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Hepburn, Peter; Louis, Renee; Desmond, Matthew",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2020,
+  "doi": "10.15195/v7.a27",
+  "doi_url": "https://doi.org/10.15195/v7.a27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv7.a27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v7.a27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

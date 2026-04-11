@@ -1,0 +1,35 @@
+{
+  "title": "The effect of sociodemographic (mis)match between interviewers and respondents on unit and item nonresponse in Belgium",
+  "abstract": "Interviewer characteristics affect nonresponse and measurement errors in face-to-face surveys. Some studies have shown that mismatched sociodemographic characteristics for example gender affect people's behavior when interacting with an interviewer at the door and during the survey interview, resulting in more nonresponse. We investigate the effect of sociodemographic (mis)matching on nonresponse in two successive rounds of the European Social Survey in Belgium. As such, we replicate the analyses of the effect of (mis) matching gender and age on unit nonresponse on the one hand, and of gender, age and education level (mis)matching on item nonresponse on the other hand. Recurring effects of sociodemographic (mis)match are found for both unit and item nonresponse. (C) 2017 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Vercruyssen, Anina",
+      "family": "Vercruyssen",
+      "given": "Anina"
+    },
+    {
+      "raw": "Wuyts, Celine",
+      "family": "Wuyts",
+      "given": "Celine"
+    },
+    {
+      "raw": "Loosveldt, Geert",
+      "family": "Loosveldt",
+      "given": "Geert"
+    }
+  ],
+  "authors_text": "Vercruyssen, Anina; Wuyts, Celine; Loosveldt, Geert",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2017.02.007",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.02.007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.02.007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.02.007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

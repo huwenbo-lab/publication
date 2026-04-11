@@ -1,0 +1,40 @@
+{
+  "title": "Trends in the completeness of birth registration in Nigeria: 2002-2010",
+  "abstract": "BACKGROUND Nigeria is a signatory to the Convention on the Rights of the Child, which identifies birth registration as a child's right. However, it is unclear how much progress has been made toward attaining universal birth registration in the country. METHODS This paper reports findings from a secondary analysis of data from the 2007 and 2011 UNICEF Multiple Indicator Cluster Survey in Nigeria. Trends in birth registration completeness based on year of birth of children and age at survey were computed, tabulated, and graphed. RESULTS Birth registration completeness was 31.5% and 41.5% in 2007 and 2011 respectively. Children had better odds of registration across Nigeria in 2011 than in 2007 (OR 1.79, 95% CI 1.59-2.01), except in the North East geopolitical zone (OR 0.76, 95% CI 0.55-1.07). Likewise, older children had better odds of registration than those aged less than one year. Female children had worse chances of registration than their male counterparts (OR 0.92, 95% CI 0.85-0.99). CONCLUSION Birth registration improved in 2011 over 2007 across Nigeria except in the North East region. However, much still needs to be done to achieve universal birth registration. Birth registration appears to still be influenced by the gender and age of the child. Designing and implementing a strategic communication program to educate the population about the processes and benefits of early birth registration may further improve birth registration. CONTRIBUTION This paper provides a rigorous assessment of the progress made toward universal birth registration, which has not been previously demonstrated.",
+  "authors": [
+    {
+      "raw": "Makinde, Olusesan Ayodeji",
+      "family": "Makinde",
+      "given": "Olusesan Ayodeji"
+    },
+    {
+      "raw": "Olapeju, Bolanle",
+      "family": "Olapeju",
+      "given": "Bolanle"
+    },
+    {
+      "raw": "Ogbuoji, Osondu",
+      "family": "Ogbuoji",
+      "given": "Osondu"
+    },
+    {
+      "raw": "Babalola, Stella",
+      "family": "Babalola",
+      "given": "Stella"
+    }
+  ],
+  "authors_text": "Makinde, Olusesan Ayodeji; Olapeju, Bolanle; Ogbuoji, Osondu; Babalola, Stella",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.12",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

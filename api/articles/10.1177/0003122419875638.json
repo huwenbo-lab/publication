@@ -1,0 +1,30 @@
+{
+  "title": "Mapping Cultural Schemas: From Theory to Method",
+  "abstract": "A growing body of research in sociology uses the concept of cultural schemas to explain how culture influences beliefs and actions. However, this work often relies on belief or attitude measures gleaned from survey data as indicators of schemas, failing to measure the cognitive associations that constitute schemas. In this article, we propose a concept-association-based approach for collecting data about individuals' schematic associations, and a corresponding method for modeling concept network representations of shared cultural schemas. We use this method to examine differences between liberal and conservative schemas of poverty in the United States, uncovering patterns of associations expected based on previous research. Examining the structure of schematic associations provides novel insights to long-standing empirical questions regarding partisan attitudes toward poverty. Our method yields a clearer picture of what poverty means for liberals and conservatives, revealing how different concepts related to poverty indeed mean fundamentally different things for these two groups. Finally, we show that differences in schema structure are predictive of individuals' policy preferences.",
+  "authors": [
+    {
+      "raw": "Hunzaker, M. B. Fallin",
+      "family": "Hunzaker",
+      "given": "M. B. Fallin"
+    },
+    {
+      "raw": "Valentino, Lauren",
+      "family": "Valentino",
+      "given": "Lauren"
+    }
+  ],
+  "authors_text": "Hunzaker, M. B. Fallin; Valentino, Lauren",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419875638",
+  "doi_url": "https://doi.org/10.1177/0003122419875638",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419875638",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419875638.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

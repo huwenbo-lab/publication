@@ -1,0 +1,35 @@
+{
+  "title": "Decomposing changes in life expectancy: Compression versus shifting mortality",
+  "abstract": "BACKGROUND In most developed countries, mortality reductions in the first half of the 20th century were highly associated with changes in lifespan disparities. In the second half of the 20th century, changes in mortality are best described by a shift in the mortality schedule, with lifespan variability remaining nearly constant. These successive mortality dynamics are known as compression and shifting mortality, respectively. OBJECTIVE To understand the effect of compression and shifting dynamics on mortality changes, we quantify the gains in life expectancy due to changes in lifespan variability and changes in the mortality schedule, respectively. METHODS We introduce a decomposition method using newly developed parametric expressions of the force of mortality that include the modal age at death as one of their parameters. Our approach allows us to differentiate between the two underlying processes in mortality and their dynamics. RESULTS An application of our methodology to the mortality of Swedish females shows that, since the mid-1960s, shifts in the mortality schedule were responsible for more than 70% of the increase in life expectancy. CONCLUSIONS The decomposition method allows differentiation between both underlying mortality processes and their respective impact on life expectancy, and also determines when and how one process has replaced the other.",
+  "authors": [
+    {
+      "raw": "Bergeron-Boucher, Marie-Pier",
+      "family": "Bergeron-Boucher",
+      "given": "Marie-Pier"
+    },
+    {
+      "raw": "Ebeling, Marcus",
+      "family": "Ebeling",
+      "given": "Marcus"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Bergeron-Boucher, Marie-Pier; Ebeling, Marcus; Canudas-Romo, Vladimir",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.14",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Politics and inequality in Latin America and the Caribbean",
+  "abstract": "This article presents the first pooled time series analysis of the impact that politics and policy have on inequality in Latin America and the Caribbean. The authors build on models consisting of sociological and economic variables, adding the strength of the democratic tradition, long-term legislative partisan political power distribution, and social spending to explain variation in inequality. They analyze an unbalanced pooled time series data set for income distribution in 18 Latin American and Caribbean countries from 1970 to 2000. They show that the political variables add explanatory power. A strong record of democracy and a left-leaning legislative partisan balance are associated with lower levels of inequality, as are social security and weltare spending under democratic regimes. Thus, they replicate some and modify other well-established findingsfrom studies of Organizationfor Economic Cooperation and Development (OECD) countries in the very different context of Latin America and the Caribbean. They confirm that the partisan composition of government matters, and show that, in contrast to OECD countries, where social security and welfare spending consistently reduce inequality, such spending reduces inequality only in a democratic context in Latin America and the Caribbean.",
+  "authors": [
+    {
+      "raw": "Huber, Evelyne",
+      "family": "Huber",
+      "given": "Evelyne"
+    },
+    {
+      "raw": "Nielsen, Francois",
+      "family": "Nielsen",
+      "given": "Francois"
+    },
+    {
+      "raw": "Pribble, Jenny",
+      "family": "Pribble",
+      "given": "Jenny"
+    },
+    {
+      "raw": "Stephens, John D.",
+      "family": "Stephens",
+      "given": "John D."
+    }
+  ],
+  "authors_text": "Huber, Evelyne; Nielsen, Francois; Pribble, Jenny; Stephens, John D.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1177/000312240607100604",
+  "doi_url": "https://doi.org/10.1177/000312240607100604",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240607100604",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240607100604.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

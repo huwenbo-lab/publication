@@ -1,0 +1,25 @@
+{
+  "title": "Imprisonment and Opportunity Structures: A Bayesian Hierarchical Analysis",
+  "abstract": "Comparative sociologists mostly ignore wide differences in criminality and incarceration rates among modern western societies; with notable exceptions, students of the prison take scant notice of research comparing political economies, welfare regimes, and patterns of inequality. This article outlines an opportunity structures model of imprisonment that bridges this gap by treating incarceration trends as byproducts of the institutional organization of opportunities over the life course. Using a sample of 15 rich democracies observed over four decades, empirical attention focuses on three levels of analysis: the capacities of alternative life course paths, the distribution of political power, and institutional differences in state structures and policy regimes. Hypothesized cross-level interactions call for the specification of a hierarchical model to be estimated within a Bayesian framework. Results conform to the expectations of the opportunity structures model and support many of its specific predictions.",
+  "authors": [
+    {
+      "raw": "Sutton, J. R.",
+      "family": "Sutton",
+      "given": "J. R."
+    }
+  ],
+  "authors_text": "Sutton, J. R.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcq044",
+  "doi_url": "https://doi.org/10.1093/esr/jcq044",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcq044",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcq044.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

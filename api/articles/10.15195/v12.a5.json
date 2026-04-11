@@ -1,0 +1,25 @@
+{
+  "title": "Invalidating Factorial Survey Experiments Using Invalid Comparisons Is Bad Practice: Learning from Forster and Neugebauer (2024)",
+  "abstract": "Forster and Neugebauer's (2024) invalidation study is invalid. Their conclusion that factorial survey (FS) experiments 'are not suited for studying hiring behavior' (P. 901) is unjustified, because their claim that they conducted a field experiment (FE) and FS with 'nearly identical' designs is false (P. 891). The two experiments included: (1) different factor levels (for three factors), (2) different unvalidated applicant names (to manipulate ethnicity), (3) different applicant photos, (4) different fixed factors (e.g., applicant stories about moving), and (5) different experimental settings (e.g., testing, instrumentation, and conditions of anonymity). In the current article, I discuss each of these major design differences and explain why it invalidates Forster and Neugebauer's (2024) comparison of their FE and FS findings. I conclude by emphasizing that social scientists are better served by asking why FE and FS findings sometimes differ than by assuming that any difference in findings across the experimental designs invalidates FS.",
+  "authors": [
+    {
+      "raw": "Pickett, Justin",
+      "family": "Pickett",
+      "given": "Justin"
+    }
+  ],
+  "authors_text": "Pickett, Justin",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a5",
+  "doi_url": "https://doi.org/10.15195/v12.a5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

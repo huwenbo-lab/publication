@@ -1,0 +1,35 @@
+{
+  "title": "Dynamics of later-life caregiving and health. Insights from biomarker data and cognitive tests",
+  "abstract": "As populations age and informal caregiving becomes more widespread, the health consequences of providing care are becoming a key concern for societies. Sociological theories of stress appraisal and role strain posit detrimental consequences to the health and wellbeing of caregivers. Conversely, role enhancement theory holds that caregiving can have positive health consequences. Using data from the English Longitudinal Study of Aging (ELSA) collected among adults aged 50 years or older with a follow-up period of up to 20 years (2002-23, 88,225 observations of 20,217 respondents), we examine associations between transitions into and out of caregiving, and two key health outcomes which have been understudied as consequences of caregiving, namely: allostatic load and cognitive functioning. We estimate asymmetric fixed effects models which model changes in health outcomes as a function of transitions into and out of caregiving while accounting for unobserved between-person heterogeneity. Our results show that caregiving is associated with better cognitive health for both men and women, but not with improved biomarker-based allostatic load. Results do not differ by caregiving intensity. Our findings provide support for role enhancement theory, suggesting that caregivers benefit in terms of cognitive functioning, even if a biomarker-based approach to measuring stress-related health outcome does not corroborate an overall health benefit. We formulate implications for policy-making and directions for future research.",
+  "authors": [
+    {
+      "raw": "Bertogg, Ariane",
+      "family": "Bertogg",
+      "given": "Ariane"
+    },
+    {
+      "raw": "Prag, Patrick",
+      "family": "Prag",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Raiber, Klara",
+      "family": "Raiber",
+      "given": "Klara"
+    }
+  ],
+  "authors_text": "Bertogg, Ariane; Prag, Patrick; Raiber, Klara",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103205",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103205",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103205",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103205.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

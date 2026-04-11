@@ -1,0 +1,35 @@
+{
+  "title": "A Tent Census: How Counting Tents Informs an Understanding of Unsheltered Homelessness in Seattle",
+  "abstract": "Tents are a familiar sight across many U.S. cities, especially West Coast cities. In Seattle, given the high visibility of tents, public perceptions of a widespread problem, the uncertainty surrounding the city’s number of tents, and national data showing a rise in unsheltered homelessness, the authors decided to count tents. They conducted a tent census to obtain a full count of the number of tents in the city of Seattle as well as two resamples of highly populated areas of tents. In the tent census, and in the two resamples, the authors find support for three general expectations: the census revealed a greater number of tents than official counts, there were clear spatial patterns to the locations of tents, and the total number of tents in Seattle increased during the coronavirus disease 2019 pandemic. The data reveal some surprises regarding the size and change of tent clusters, the proportion of solo tents versus tent camps, and the “amenability” or proximity of tents to infrastructure and social services. To conclude, the authors discuss the policy implications of this research.",
+  "authors": [
+    {
+      "raw": "Snedker, Karen A.",
+      "family": "Snedker",
+      "given": "Karen A."
+    },
+    {
+      "raw": "McKinney, Jennifer",
+      "family": "McKinney",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Lanfear, Charles C.",
+      "family": "Lanfear",
+      "given": "Charles C."
+    }
+  ],
+  "authors_text": "Snedker, Karen A.; McKinney, Jennifer; Lanfear, Charles C.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251338651",
+  "doi_url": "https://doi.org/10.1177/23780231251338651",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251338651",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251338651.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

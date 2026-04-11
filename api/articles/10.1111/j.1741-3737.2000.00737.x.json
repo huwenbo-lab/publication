@@ -1,0 +1,30 @@
+{
+  "title": "The Timing of Divorce: Predicting When a Couple Will Divorce Over a 14‐Year Period",
+  "abstract": "This paper investigates the predictability of divorce in a long‐term, prospective longitudinal study. Past research has indicated that 2 periods can be considered the most critical for the survival of marriages: (a) the first 7 years of marriage, during which half of all divorces are known to occur, and (b) the period during which the first child reaches 14 years of age, which has been suggested as a low point for marital satisfaction in the life course. In the present study, interaction variables at Time 1 (both during conflict and in an events‐of‐the‐day discussion following separation of the spouses for at least 8 hours) and noninteractive variables were used to predict divorcing both early and later in the marriage. A different set of variables predicted early divorcing than predicted later divorcing. Negative affect during conflict predicted early divorcing, but it did not predict later divorcing. By contrast, the lack of positive affect in events‐of‐the‐day and conflict discussions predicted later divorcing, but it did not predict early divorcing. Prediction was possible over the 14‐year period of the study with a model that included marital satisfaction, thoughts of marital dissolution, and affective interaction in both conversations. The model predicted divorce with 93% accuracy.",
+  "authors": [
+    {
+      "raw": "Gottman, John Mordechai",
+      "family": "Gottman",
+      "given": "John Mordechai"
+    },
+    {
+      "raw": "Levenson, Robert Wayne",
+      "family": "Levenson",
+      "given": "Robert Wayne"
+    }
+  ],
+  "authors_text": "Gottman, John Mordechai; Levenson, Robert Wayne",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2000,
+  "doi": "10.1111/j.1741-3737.2000.00737.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2000.00737.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2000.00737.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2000.00737.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

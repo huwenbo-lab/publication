@@ -1,0 +1,25 @@
+{
+  "title": "Pay to play? Economic constraints and participation in extracurricular activities",
+  "abstract": "Research across countries shows that children from lower-income families are less likely to participate in extracurricular activities than children from more affluent families. While this income gradient in participation is by now established, the mechanisms behind the gradient are more contested. I examine whether the income gradient in extracurricular activity participation is the result of household economic constraints, using panel data methods on a nationally representative sample of Swedish adolescents. Data from the Children of Immigrants Longitudinal Study in Four European countries (CILS4EU) allow me to combine taxation register data on changes in household income with survey data on changes in extracurricular activity participation. Results from first-difference regression models show that changes in household income are not generally associated with changes in participation, but a weak association is found between changes in income and ceasing participation among adolescents in low-income households. The results largely cast doubt on theoretical explanations that emphasize household economic constraints as a substantial contributor to the income gradient in participation. Instead, results are more consistent with explanations emphasizing cultural differences in parenting logics and parental preferences for participation, as well as with explanations stressing non-economic forms of resource constraints.",
+  "authors": [
+    {
+      "raw": "Hjalmarsson, Simon",
+      "family": "Hjalmarsson",
+      "given": "Simon"
+    }
+  ],
+  "authors_text": "Hjalmarsson, Simon",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac061",
+  "doi_url": "https://doi.org/10.1093/esr/jcac061",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac061",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac061.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Retirement and death in office of U.S. Supreme Court justices",
+  "abstract": "AbstractWe construct demographic models of retirement and death in office of U.S. Supreme Court justices, a group that has gained demographic notice, evaded demographic analysis, and is said to diverge from expected retirement patterns. Models build on prior multistate labor force status studies, and data permit an unusually clear distinction between voluntary and “induced” retirement. Using data on every justice from 1789 through 2006, with robust, cluster-corrected, discrete-time, censored, event-history methods, we (1) estimate retirement effects of pension eligibility, age, health, and tenure on the timing of justices’ retirements and deaths in office, (2) resolve decades of debate over the politicized departure hypothesis that justices tend to alter the timing of their retirements for the political benefit or detriment of the incumbent president, (3) reconsider the nature of rationality in retirement decisions, and (4) consider the relevance of organizational conditions as well as personal circumstances to retirement decisions. Methodological issues are addressed.",
+  "authors": [
+    {
+      "raw": "Stolzenberg, Ross M.",
+      "family": "Stolzenberg",
+      "given": "Ross M."
+    },
+    {
+      "raw": "Lindgren, James",
+      "family": "Lindgren",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Stolzenberg, Ross M.; Lindgren, James",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0100",
+  "doi_url": "https://doi.org/10.1353/dem.0.0100",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0100",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0100.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

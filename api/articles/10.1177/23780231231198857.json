@@ -1,0 +1,35 @@
+{
+  "title": "Durable Change in U.S. Urban Mobility Networks, 2019–2022",
+  "abstract": "In 2020, the COVID-19 pandemic significantly altered how people move between neighborhoods. Tracking these changes is important because a growing literature demonstrates that mobility networks influence social and environmental exposures that interact directly with urban inequalities. Using four years of weekly smartphone-based mobility data in the 25 largest U.S. cities, we investigate how mobility changed in 2021 and 2022. We measure mobility networks with three previously used indices and introduce a fourth, the Dissimilar Mobility Index, to capture the demographic dissimilarity experienced in a mobility network. We find that although mobility hubs and their associated patterns of segregated mobility returned to pre-pandemic levels in 2021, neighborhood isolation remained depressed until the end of 2022 compared to 2019. Together, these results indicate that despite vaccine availability in 2021, structural changes in urban mobility networks caused by the COVID-19 pandemic were durable for over two years after its onset.",
+  "authors": [
+    {
+      "raw": "Marlow, Thomas",
+      "family": "Marlow",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Makovi, Kinga",
+      "family": "Makovi",
+      "given": "Kinga"
+    },
+    {
+      "raw": "Abrahao, Bruno",
+      "family": "Abrahao",
+      "given": "Bruno"
+    }
+  ],
+  "authors_text": "Marlow, Thomas; Makovi, Kinga; Abrahao, Bruno",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231198857",
+  "doi_url": "https://doi.org/10.1177/23780231231198857",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231198857",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231198857.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

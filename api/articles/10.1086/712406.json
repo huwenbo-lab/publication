@@ -1,0 +1,30 @@
+{
+  "title": "Flows and Boundaries: A Network Approach to Studying Occupational Mobility in the Labor Market",
+  "abstract": "Although stratification research has long recognized the importance of mapping out the underlying boundaries that govern the flow of workers in the labor market, the current literature faces two major challenges: (1) the determination of mobility boundaries and (2) the incorporation of changes in mobility boundaries. The authors propose a network approach to address these challenges. The approach conceptualizes the occupational system as a network, in which the nodes are occupations and the edges are defined by the volume and direction of workers who move between the nodes. A flow-based community detection algorithm is introduced to uncover mobility boundaries based on the observed mobility network. Applying this approach to analyze trends in intragenerational occupational mobility in the United States from 1989 to 2015, the authors find that the boundaries that constrain mobility opportunities have become increasingly rigid over time, while, at the same time, decoupled from the boundaries of big classes and microclasses. Moreover, these boundaries are increasingly sorting workers into clusters of occupations with similar skill requirements.",
+  "authors": [
+    {
+      "raw": "Cheng, Siwei",
+      "family": "Cheng",
+      "given": "Siwei"
+    },
+    {
+      "raw": "Park, Barum",
+      "family": "Park",
+      "given": "Barum"
+    }
+  ],
+  "authors_text": "Cheng, Siwei; Park, Barum",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2020,
+  "doi": "10.1086/712406",
+  "doi_url": "https://doi.org/10.1086/712406",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F712406",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/712406.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

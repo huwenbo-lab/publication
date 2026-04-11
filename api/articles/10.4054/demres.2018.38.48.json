@@ -1,0 +1,30 @@
+{
+  "title": "Mixed marriages in Switzerland: A test of the segmented assimilation hypothesis",
+  "abstract": "BACKGROUND Switzerland hosts one of the largest and most diversified migrant populations in Europe, while currently reinforcing restrictive immigration policies. Knowledge on Swiss immigrant-native marriages, as ultimate signposts of integration, is limited. OBJECTIVE We explore the role of origin group and birth cohort in the emergence and dissolution of mixed marriages in Switzerland among both natives and immigrants. METHODS Based on a sample of 12,827 respondents from the 2013 Swiss Family and Generations Survey, we fit competing-risks models for entry into first marriage, and Cox proportional hazards models for entry into (first) divorce. RESULTS We find evidence of a segmented marriage market, with migrants from neighbouring Western European countries having higher chances of getting and staying married to a Swiss native. As opposed to natives, migrants from younger cohorts are progressively less likely to intermarry. CONCLUSIONS In line with segmented assimilation claims, results suggest differences in integration pathways between immigrant groups. Findings also point to the reactive ethnicity of marginalized groups (e.g., Turks and ex-Yugoslavs) in response to an increasingly hostile immigration climate. Decreasing (inter) marriage with natives among young immigrants reflects shifting marriage market conditions over the last decades.",
+  "authors": [
+    {
+      "raw": "Potarca, Gina",
+      "family": "Potarca",
+      "given": "Gina"
+    },
+    {
+      "raw": "Bernardi, Laura",
+      "family": "Bernardi",
+      "given": "Laura"
+    }
+  ],
+  "authors_text": "Potarca, Gina; Bernardi, Laura",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.48",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.48",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.48",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.48.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

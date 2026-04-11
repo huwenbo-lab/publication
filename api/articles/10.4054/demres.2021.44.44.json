@@ -1,0 +1,35 @@
+{
+  "title": "The role of reductions in old-age mortality in old-age population growth",
+  "abstract": "BACKGROUND The variable-r model provides demographers with a way to explore the contributions of demographic components (fertility, mortality, migration) to changes in populations' age structures. However, traditional variable-r methods require extremely long mortality series to explore growth at oldest-old ages. OBJECTIVE Our goal is to disentangle the old-age growth rate into two main components: the growth rate at some younger age, and reductions in mortality between the younger and older ages. METHODS We focus on an adaptation of the variable-r model that can use shorter mortality series to explore population growth between two ages. RESULTS Using data from the Human Mortality Database, we explore how these two components are driving the growth rate of 100-year-olds. Observed growth of those reaching age 100 results primarily from the high growth rates when those cohorts were 80-year-olds, and from time reductions in cohort mortality between ages 80 and 100. However, the latter component behaves differently across populations, with some countries experiencing recent slowdowns in cohort mortality declines or increases in mortality between ages 80 and 100. CONCLUSIONS We find great diversity in the level of old-age mortality improvements across populations, and heterogeneity in the drivers of these improvements. Our findings highlight the need to closely monitor the underlying reasons for the changes in old-age mortality across populations and time. CONTRIBUTION We present illustrations of the use of the variable-r method to monitor demographic change in an online interactive application, estimated even when only short historical series of demographic data are available.",
+  "authors": [
+    {
+      "raw": "Das-Romo, Vladimir Cann",
+      "family": "Das-Romo",
+      "given": "Vladimir Cann"
+    },
+    {
+      "raw": "Shen, Tianyu",
+      "family": "Shen",
+      "given": "Tianyu"
+    },
+    {
+      "raw": "Payne, Collin",
+      "family": "Payne",
+      "given": "Collin"
+    }
+  ],
+  "authors_text": "Das-Romo, Vladimir Cann; Shen, Tianyu; Payne, Collin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.44",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.44",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.44",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.44.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

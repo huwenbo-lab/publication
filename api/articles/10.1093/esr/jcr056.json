@@ -1,0 +1,25 @@
+{
+  "title": "Reconsidering the Effect of Education on East-West Migration in Germany",
+  "abstract": "This article analyses migration from East to West Germany, focusing on the influence of education on migration and on the self-selection processes involved in decisions regarding education and migration. Using human capital, signalling, and segmentation theory, hypotheses are derived on the influence of education on migration. The migration patterns for men and women are investigated on the basis of the German Socio-economic Panel data from 1992 to 2007. The results of the hierarchical logit regression models show that the level of education influences the migration decisions of both men and women. However, Heckman selection models reveal that only the migration patterns of women are defined by a selection of upper secondary education. For women, the results suggest that the same mechanisms drive their participation in upper secondary education and in migration.",
+  "authors": [
+    {
+      "raw": "Melzer, S. M.",
+      "family": "Melzer",
+      "given": "S. M."
+    }
+  ],
+  "authors_text": "Melzer, S. M.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1093/esr/jcr056",
+  "doi_url": "https://doi.org/10.1093/esr/jcr056",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcr056",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcr056.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

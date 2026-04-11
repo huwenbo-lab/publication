@@ -1,0 +1,30 @@
+{
+  "title": "Interactions, Actors, and Time: Dynamic Network Actor Models for Relational Events",
+  "abstract": "Ample theoretical work on social networks is explicitly or implicitly concerned with the role of interpersonal interaction. However, empirical studies to date mostly focus on the analysis of stable relations. This article introduces Dynamic Network Actor Models (DyNAMs) for the study of directed, interpersonal interaction through time. The presented model addresses three important aspects of interpersonal interaction. First, interactions unfold in a larger social context and depend on complex structures in social systems. Second, interactions emanate from individuals and are based on personal preferences, restricted by the available interaction opportunities. Third, sequences of interactions develop dynamically, and the timing of interactions relative to one another contains useful information. We refer to these aspects as the network nature, the actor-oriented nature, and the dynamic nature of social interaction. A case study compares the DyNAM framework to the relational event model, a widely used statistical method for the study of social interaction data.",
+  "authors": [
+    {
+      "raw": "Stadtfeld, Christoph",
+      "family": "Stadtfeld",
+      "given": "Christoph"
+    },
+    {
+      "raw": "Block, Per",
+      "family": "Block",
+      "given": "Per"
+    }
+  ],
+  "authors_text": "Stadtfeld, Christoph; Block, Per",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2017,
+  "doi": "10.15195/v4.a14",
+  "doi_url": "https://doi.org/10.15195/v4.a14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv4.a14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v4.a14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

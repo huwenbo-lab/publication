@@ -1,0 +1,35 @@
+{
+  "title": "The Mobilisation of AI in Education: A Bourdieusean Field Analysis",
+  "abstract": "Artificial Intelligence (AI) is currently hailed as a ‘solution’ to perceived problems in education. Though few sociologists of education would agree with its deterministic claims, this AI solutionist thinking is gaining significant currency. In this article, using a relatively novel method for sociology – a knowledge graph – together with Bourdieusean theory, we critically examine how and why different stakeholders in education, educational technology and policy are valorising AI, the main concepts, such as personalisation, they collectively endorse and their incentives for doing so. Drawing on this analysis, we argue that AI is currently being mobilised in education in problematic ways and advocate for more systematic sociological thinking and research to re-orientate the field to account for society’s structural conditions.",
+  "authors": [
+    {
+      "raw": "Davies, Huw C",
+      "family": "Davies",
+      "given": "Huw C"
+    },
+    {
+      "raw": "Eynon, Rebecca",
+      "family": "Eynon",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Salveson, Cory",
+      "family": "Salveson",
+      "given": "Cory"
+    }
+  ],
+  "authors_text": "Davies, Huw C; Eynon, Rebecca; Salveson, Cory",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2020,
+  "doi": "10.1177/0038038520967888",
+  "doi_url": "https://doi.org/10.1177/0038038520967888",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038520967888",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038520967888.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Active life expectancy estimates for the U.S. elderly population: A multidimensional continuous-mixture model of functional change applied to completed Cohorts, 1982–1996",
+  "abstract": "Abstract An increment-decrement stochastic-process life table model that continuously mixes measures of functional change is developed to represent age transitions among highly refined disability states interacting simultaneously with mortality. The model is applied to data from the National Long Term Care Surveys of elderly persons in the years 1982 to 1996 to produce active life expectancy estimates based on completed-cohort life tables. At ages 65 and 85, comparisons with extant period estimates for 1990 show that our active life expectancy estimates are larger for both males and females than are extant period estimates based on coarse disability states.",
+  "authors": [
+    {
+      "raw": "Manton, Kenneth G.",
+      "family": "Manton",
+      "given": "Kenneth G."
+    },
+    {
+      "raw": "Land, Kenneth C.",
+      "family": "Land",
+      "given": "Kenneth C."
+    }
+  ],
+  "authors_text": "Manton, Kenneth G.; Land, Kenneth C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648040",
+  "doi_url": "https://doi.org/10.2307/2648040",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648040",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648040.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "An experimental test of Situational Action Theory of crime causation: Investigating the perception-choice process",
+  "abstract": "Criminal action, according to Situational Action Theory (SAT), is a two-stage process consisting of a perception and a choice process. This Germany-wide vignette study (N = 3,088, participants recruited offline) provides an explicit and extensive test of these processes. It experimentally varied the informal moral context, deterrence (sanctions and detection risk), and possible gains of selling prescription drugs illegally in a 2x2x2x2 between-subject design. Personal morality and self-control were measured. Double-hurdle models show that personal morality served as a filter for the perception of criminal alternatives. Law-conforming moral context information, high selfcontrol, and deterrence lowered the crime willingness. Thereby, this study underlines the usefulness of an explicit modeling of the dual-process of criminal conduct, in which certain antecedents only play a role in a certain process. While several findings corroborate assumptions from SAT, an influence of the informal moral context was only found in the choice process, not in the perception process.",
+  "authors": [
+    {
+      "raw": "Sattler, Sebastian",
+      "family": "Sattler",
+      "given": "Sebastian"
+    },
+    {
+      "raw": "van Veen, Floris",
+      "family": "van Veen",
+      "given": "Floris"
+    },
+    {
+      "raw": "Hasselhorn, Fabian",
+      "family": "Hasselhorn",
+      "given": "Fabian"
+    },
+    {
+      "raw": "Mehlkop, Guido",
+      "family": "Mehlkop",
+      "given": "Guido"
+    },
+    {
+      "raw": "Sauer, Carsten",
+      "family": "Sauer",
+      "given": "Carsten"
+    }
+  ],
+  "authors_text": "Sattler, Sebastian; van Veen, Floris; Hasselhorn, Fabian; Mehlkop, Guido; Sauer, Carsten",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102693",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102693",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102693",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102693.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

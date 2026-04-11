@@ -1,0 +1,25 @@
+{
+  "title": "The Demographics of School District Secession",
+  "abstract": "School segregation has been a topic of significant sociological research in the United States. Less attention has been devoted to understanding the relationship between school district inequalities and secession, a political tool that forms new boundaries after a formal withdrawal from an existing school district. This paper analyzes the school district secession attempts that have occurred since the year 2000 using national data and builds upon qualitative research and case studies focused on a single region or metropolitan area. Drawing on social closure theory, I explore the community characteristics associated with secession attempts. To do so, I create a measure of social imbalance that leverages the geographic variation between places attempting a secession and the school districts they are nested within. Results indicate that the percentage of residents with a college degree is among the strongest predictors of secession attempts, highlighting the salience of educational attainment at the population-level for selecting into the use of this political tool. Results also indicate that school districts successfully created through secession cleave onto racial and economic divides for both the residential and student populations, driven by secessions located in the South. School district secession processes elucidate the many pathways by which school segregation is produced and perpetuated, including micro-level school and neighborhood selection decisions, jurisdictional restructuring of district boundaries, and the national and state-level legal landscape.",
+  "authors": [
+    {
+      "raw": "Cooperstock, Alexandra",
+      "family": "Cooperstock",
+      "given": "Alexandra"
+    }
+  ],
+  "authors_text": "Cooperstock, Alexandra",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac069",
+  "doi_url": "https://doi.org/10.1093/sf/soac069",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac069",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac069.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

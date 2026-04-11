@@ -1,0 +1,35 @@
+{
+  "title": "The Effect of Parental Loss on Social Mobility in Early Twentieth-Century Sweden",
+  "abstract": "Parents are assumed to play a crucial role in the socioeconomic attainment of children. Through investments of both time and resources, they promote the ability, human capital, networks, and motivation of their children to advance socially, or at least to maintain their social position. Consequently, losing a parent in childhood could be detrimental to adult socioeconomic outcomes. We use full-count linked census data and a comprehensive death register to study the effect of parental loss on socioeconomic outcomes in adulthood in Sweden during the first half of the twentieth century. We employ sibling fixed-effects models and the Spanish flu as an exogenous mortality shock to assess the importance of endogeneity bias in associations between parental loss and socioeconomic outcomes. Maternal death led to worse socioeconomic outcomes in adulthood in terms of occupational and class attainment, as well as for social mobility. The effects seem to be causal but the magnitudes were small. For paternal death, we find no consistent pattern, and in most models there was no effect on sons' socioeconomic outcomes. The patterns were similar for sons and daughters and do not support the theory that parental loss had important negative effects on socioeconomic outcomes in adulthood.",
+  "authors": [
+    {
+      "raw": "Dribe, Martin",
+      "family": "Dribe",
+      "given": "Martin"
+    },
+    {
+      "raw": "Debiasi, Enrico",
+      "family": "Debiasi",
+      "given": "Enrico"
+    },
+    {
+      "raw": "Eriksson, Bjorn",
+      "family": "Eriksson",
+      "given": "Bjorn"
+    }
+  ],
+  "authors_text": "Dribe, Martin; Debiasi, Enrico; Eriksson, Bjorn",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9962514",
+  "doi_url": "https://doi.org/10.1215/00703370-9962514",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9962514",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9962514.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

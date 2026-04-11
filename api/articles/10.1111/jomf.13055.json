@@ -1,0 +1,30 @@
+{
+  "title": "The payroll tax contribution limit and women's labor market outcomes",
+  "abstract": "ObjectiveTo examine the effect of the male partner's entry into payroll tax-exempt earnings on the female partner's labor market outcomes.BackgroundEmployees only pay payroll taxes up to a specific limit, which results in a comparatively greater increase in the take-home pay of individuals who earn labor incomes above this threshold. We argue that returns from payroll-exempt labor are gendered: That is, because men are more likely high earners than women, they will more often benefit from the payroll tax ceiling. This increases the labor market returns of men and sets substantial incentives within couples to reduce the paid labor of the secondary earner.MethodWe use panel data from the United States (PSID) to examine changes in women's annual work hours, hourly wages, and earnings over the partner's entry into payroll tax-exempt labor (treatment) using fixed-effect models with individual slopes. The models enable us to assess women's labor market outcomes while adjusting for heterogeneous within-couple earnings differential slopes before treatment in addition to any time-constant heterogeneity. Our sample contains 7297 women providing 65,811 observations.ResultsWomen's earnings on average diminished by 4% after the partner breaks through the payroll tax contribution threshold. This was mostly explained by changes in annual work hours, which on average decreased by 4%. We did not find reduced hourly wages in the short run.ConclusionWe conclude that payroll exemptions for high earners reinforce gender inequality within upper-income couples, which is a link hitherto missed in the literature.",
+  "authors": [
+    {
+      "raw": "Schechtl, Manuel",
+      "family": "Schechtl",
+      "given": "Manuel"
+    },
+    {
+      "raw": "Haupt, Andreas",
+      "family": "Haupt",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Schechtl, Manuel; Haupt, Andreas",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13055",
+  "doi_url": "https://doi.org/10.1111/jomf.13055",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13055",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13055.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

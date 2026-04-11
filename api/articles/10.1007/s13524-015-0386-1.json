@@ -1,0 +1,30 @@
+{
+  "title": "Parental Spending on School-Age Children: Structural Stratification and Parental Expectation",
+  "abstract": "As consumption expenditures are increasingly recognized as direct measures of children's material well-being, they provide new insights into the process of intergenerational transfers from parents to children. Little is known, however, about how parents allocate financial resources to individual children. To fill this gap, we develop a conceptual framework based on stratification theory, human capital theory, and the child-development perspective; exploit unique child-level expenditure data from Child Supplements of the PSID; and employ quantile regression to model the distribution of parental spending on children. Overall, we find strong evidence supporting our hypotheses regarding the effects of socioeconomic status (SES), race, and parental expectation. Our nuanced estimates suggest that (1) parental education, occupation, and family income have differential effects on parental spending, with education being the most influential determinant; (2) net of SES, race continues to be a significant predictor of parental spending on children; and (3) parental expectation plays a crucial role in determining whether parents place a premium on child development in spending and how parents prioritize different categories of spending.",
+  "authors": [
+    {
+      "raw": "Hao, Lingxin",
+      "family": "Hao",
+      "given": "Lingxin"
+    },
+    {
+      "raw": "Yeung, Wei-Jun Jean",
+      "family": "Yeung",
+      "given": "Wei-Jun Jean"
+    }
+  ],
+  "authors_text": "Hao, Lingxin; Yeung, Wei-Jun Jean",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0386-1",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0386-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0386-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0386-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

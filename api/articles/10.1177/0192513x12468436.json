@@ -1,0 +1,30 @@
+{
+  "title": "Racial Variations of Parity Status as a Predictor of Disability Onset Among Old-Old Women",
+  "abstract": "This research investigates whether the capacity of parity status to predict disability onset varies by race among older women. Data from the Health and Retirement Study (1998-2008) were used, and a series of discrete-time event-history models were estimated using multinomial logistic regression. Disability onset was constructed from five common activities of daily living measures (i.e., difficulty dressing, bathing, eating, getting in/out of bed, and walking). The initial risk group was old-old women (i.e., born before 1925) without disability in 1998 ( N = 2,229). Nulliparous and high-parity Black women born before 1925 were more likely to develop disability onset compared with White women with the same parity status. The results suggest that parity status among Black older women may be a salient risk factor for disability onset.",
+  "authors": [
+    {
+      "raw": "Latham, Kenzie",
+      "family": "Latham",
+      "given": "Kenzie"
+    },
+    {
+      "raw": "Holcomb, Jeanne",
+      "family": "Holcomb",
+      "given": "Jeanne"
+    }
+  ],
+  "authors_text": "Latham, Kenzie; Holcomb, Jeanne",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2012,
+  "doi": "10.1177/0192513x12468436",
+  "doi_url": "https://doi.org/10.1177/0192513x12468436",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x12468436",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x12468436.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

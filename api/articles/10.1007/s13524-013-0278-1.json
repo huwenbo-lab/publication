@@ -1,0 +1,25 @@
+{
+  "title": "Marriage Duration and Divorce: The Seven-Year Itch or a Lifelong Itch?",
+  "abstract": "AbstractPrevious studies have shown that the risk of divorce is low during the first months of marriage; it then increases, reaches a maximum, and thereafter begins to decline. Some researchers consider this pattern consistent with the notion of a “seven-year itch,” while others argue that the rising-falling pattern of divorce risk is a consequence of misspecification of longitudinal models because of omitted covariates or unobserved heterogeneity. The aim of this study is to investigate the causes of the rising-falling pattern of divorce risk. Using register data from Finland and applying multilevel hazard models, the analysis supports the rising-falling pattern of divorce by marriage duration: the risk of marital dissolution increases, reaches its peak, and then gradually declines. This pattern persists when I control for the sociodemographic characteristics of women and their partners. The inclusion of unobserved heterogeneity in the model leads to some changes in the shape of the baseline risk; however, the rising-falling pattern of the divorce risk persists.",
+  "authors": [
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    }
+  ],
+  "authors_text": "Kulu, Hill",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-013-0278-1",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0278-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0278-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0278-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

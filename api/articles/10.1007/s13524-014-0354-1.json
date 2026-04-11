@@ -1,0 +1,45 @@
+{
+  "title": "Selection Bias in the Link Between Child Wantedness and Child Survival: Theory and Data From Matlab, Bangladesh",
+  "abstract": "We examine the potential effects of selection bias on the association between unwanted births and child mortality from 7,942 women from Matlab, Bangladesh who declared birth intentions in 1990 prior to conceiving pregnancies. We explore and test two opposing reasons for bias in the distribution of observed births. First, some women who report not wanting more children could face starvation or frailty; and if these women are infecund, the remaining unwanted births would appear more healthy. Second, some women who report not wanting more children could have social privileges in acquiring medical services, abortion, and contraceptives; and if these women avoid births, the remaining unwanted births would appear less healthy. We find (1) no overall effect of unwantedness on child survival in rural Bangladesh in the 1990s, (2) no evidence that biological processes are spuriously making the birth cohort look more healthy, and (3) some evidence that higher schooling for women who avoid unwanted births is biasing the observed sample to make unwanted births look less healthy. Efforts to understand the effect of unwantedness in data sets that do not control for complex patterns of selective birth may be misleading and require more cautious interpretation.",
+  "authors": [
+    {
+      "raw": "Bishai, David",
+      "family": "Bishai",
+      "given": "David"
+    },
+    {
+      "raw": "Razzaque, Abdur",
+      "family": "Razzaque",
+      "given": "Abdur"
+    },
+    {
+      "raw": "Christiansen, Susan",
+      "family": "Christiansen",
+      "given": "Susan"
+    },
+    {
+      "raw": "Mustafa, A. H. M. Golam",
+      "family": "Mustafa",
+      "given": "A. H. M. Golam"
+    },
+    {
+      "raw": "Hindin, Michelle",
+      "family": "Hindin",
+      "given": "Michelle"
+    }
+  ],
+  "authors_text": "Bishai, David; Razzaque, Abdur; Christiansen, Susan; Mustafa, A. H. M. Golam; Hindin, Michelle",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-014-0354-1",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0354-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0354-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0354-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

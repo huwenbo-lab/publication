@@ -1,0 +1,25 @@
+{
+  "title": "Proximity to riots: spatial exposure and attitude toward the police in Africa",
+  "abstract": "Riot poses a serious challenge to the legitimacy of state institutions, eroding the trust that underpins effective policing. While research links riot violence to declining trust in the police, it has paid little attention to how distance (spatial proximity) to riots shapes this relationship. This study argues that, compared to residents at greater distance, those closer to riot hot spots are less likely to trust the police. Drawing on procedural justice theory, psychological coping frameworks, and criminological research on distance decay, the analysis matches geocoded Afrobarometer survey data with Armed Conflict Location & Event Data Project riot events across twenty-three African countries. Findings confirm that riot exposure generally reduces trust in the police, but the effect is non-linear: trust is not eroded in riot epicenters and declines more steeply at moderate distances, all relative to greater distance. Lethal riots, compared to non-lethal ones, exacerbate this erosion and heighten fear of violence. By contrast, mob violence, compared to violent demonstrations, strengthens trust as police are seen as protectors against chaos. The study advances a spatially sensitive account of trust and highlights the need for community-based policing strategies tailored to riot-affected contexts, especially in mid-range communities where reassurance is weakest and rumors thrive.",
+  "authors": [
+    {
+      "raw": "Yameogo, Souleymane",
+      "family": "Yameogo",
+      "given": "Souleymane"
+    }
+  ],
+  "authors_text": "Yameogo, Souleymane",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf203",
+  "doi_url": "https://doi.org/10.1093/sf/soaf203",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf203",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf203.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

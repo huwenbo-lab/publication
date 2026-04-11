@@ -1,0 +1,30 @@
+{
+  "title": "Employment Protection Legislation, Labour Market Dualism, and Inequality in Europe",
+  "abstract": "This article deals with the relation between labour market regulation and the dynamics of overall employment and unemployment in continental Europe. We investigate the impact of the reforms of employment protection systems and activating welfare policies and test the integrative power of marginal labour market deregulation, assessing occupational outcomes of changing workforce exposure to unemployment and fixed-term contracts. Thus, particular attention is paid to the possible effect of 'institutionally driven' labour market segmentation, mirrored by the national discrepancy in employment protections of workers with distinct contractual arrangements and by the ratio of expenses on GDP in active versus passive labour market policies. We use pseudo-panel data based on European Labour Force Survey (EU-LFS) (1992-2008) and apply linear fixed effect (FE) models with lagged independent variables. The deregulation measure-the insider-outsider differentials-is based on the OECD employment protection legislation index (EPL 2013). The overall findings indicate a detrimental effect of unbalanced passive and active labour market policies, a negative trend of permanent employment, and a 'honeymoon effect' of partial and targeted deregulation measures whose effectiveness on overall employment, if any, appears to be progressively weakened over time. The responsiveness of employment conditions to marginal EPL variations as well as to previous 'unstable employment situations' is significantly higher in Southern Europe. Temporary employment, if compared with unemployment, may still play a role in reducing individual subsequent unemployment risks, but its 'integrative effect' is hardly confirmed if we view fixed-term contracts as a stepping stone towards stable insertion into the primary labour market.",
+  "authors": [
+    {
+      "raw": "Barbieri, Paolo",
+      "family": "Barbieri",
+      "given": "Paolo"
+    },
+    {
+      "raw": "Cutuli, Giorgio",
+      "family": "Cutuli",
+      "given": "Giorgio"
+    }
+  ],
+  "authors_text": "Barbieri, Paolo; Cutuli, Giorgio",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcv058",
+  "doi_url": "https://doi.org/10.1093/esr/jcv058",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv058",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv058.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

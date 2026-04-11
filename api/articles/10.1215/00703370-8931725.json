@@ -1,0 +1,40 @@
+{
+  "title": "Offspring Educational Attainment and Older Parents' Cognition in Mexico",
+  "abstract": "Population-level disparities in later-life cognitive health point to the importance of family resources. Although the bulk of prior work on the topic has established the directional flow of resources from parents to offspring, the linked lives perspective raises the question of how offspring resources could affect parental health as well. This study examines whether adult children's education influences older parents' (aged 50+) cognitive health in Mexico, where schooling reforms have contributed to significant gains in the educational achievements of recent birth cohorts. Harnessing a change in compulsory school laws and applying an instrumental variables approach, we found that each year of offspring schooling was associated with higher overall cognition among parents but was less predictive across different cognitive functioning domains. More offspring schooling improved parents' cognitive abilities in verbal learning, verbal fluency, and orientation, but not in visual scanning, visuospatial ability, or visual memory. The beneficial effects of offspring schooling on those cognitive domains are more salient for mothers than for fathers, suggesting potential gendered effects in the influence of offspring schooling. The results remained robust to controls for parent-child contact and geographic proximity, suggesting other avenues through which offspring education could affect parental health and a pathway for future research. Our findings contribute to growing research stressing the causal influence of familial educational attainment on population health.",
+  "authors": [
+    {
+      "raw": "Ma, Mingming",
+      "family": "Ma",
+      "given": "Mingming"
+    },
+    {
+      "raw": "Yahirun, Jenjira",
+      "family": "Yahirun",
+      "given": "Jenjira"
+    },
+    {
+      "raw": "Saenz, Joseph",
+      "family": "Saenz",
+      "given": "Joseph"
+    },
+    {
+      "raw": "Sheehan, Connor",
+      "family": "Sheehan",
+      "given": "Connor"
+    }
+  ],
+  "authors_text": "Ma, Mingming; Yahirun, Jenjira; Saenz, Joseph; Sheehan, Connor",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8931725",
+  "doi_url": "https://doi.org/10.1215/00703370-8931725",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8931725",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8931725.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

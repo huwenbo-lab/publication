@@ -1,0 +1,25 @@
+{
+  "title": "Model Uncertainty in Sociological Research: An Application to Religion and Economic Growth",
+  "abstract": "Model uncertainty is pervasive in quantitative research. Classical statistical theory assumes that only one (true) model is applied to a sample of data. In practice, however, researchers do not know which exact model specification is best. Modern computing power allows researchers to estimate a huge number of plausible models, yet only a few of these estimates are published. The result is a severe asymmetry of information between analyst and reader The applied modeling process produces a much wider range of estimates than is suggested by the usual standard errors or confidence intervals. I demonstrate this using the work of Barro and McCleary, on religion and economic growth. Small, sensible changes in their model specification produce large changes in the results: the results are inconsistent across time, and the instrumental variables strategy suffers from a weak instrument set. Also, the observed relationship between religiosity and economic growth does not hold in the West; it is largely a feature of Asian and African countries and of countries whose data is poor quality In short, empirical findings should be evaluated not just by their significance but also by their robustness to model specification. I conclude with suggestions for incorporating model uncertainty into practice and improving the transparency of social science research.",
+  "authors": [
+    {
+      "raw": "Young, Cristobal",
+      "family": "Young",
+      "given": "Cristobal"
+    }
+  ],
+  "authors_text": "Young, Cristobal",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2009,
+  "doi": "10.1177/000312240907400303",
+  "doi_url": "https://doi.org/10.1177/000312240907400303",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240907400303",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240907400303.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

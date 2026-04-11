@@ -1,0 +1,30 @@
+{
+  "title": "The Individual Economic Returns to Volunteering in Work Life",
+  "abstract": "This article examines the individual economic returns to volunteering during different stages of working life. The article uses a unique panel data set created by combining rich survey data from Denmark with information on wages from administrative registers covering the period from 2004 to 2012. Applying a two-way fixed-effects regression model that controls for both period-specific and individual-specific effects, the article finds that for labour market entrants and for people in the early stages of their working life, an additional year of volunteer work experience yields a significant positive return. However, the economic returns to volunteer work experience decrease as a function of professional labour market experience. For people with more than 6 years of professional labour market experience, the economic returns to volunteer work experience are insignificant. On these grounds, the article argues that the economic returns to volunteer work experience depend on the current stage of people's work lives.",
+  "authors": [
+    {
+      "raw": "Qvist, Hans-Peter Y.",
+      "family": "Qvist",
+      "given": "Hans-Peter Y."
+    },
+    {
+      "raw": "Munk, Martin D.",
+      "family": "Munk",
+      "given": "Martin D."
+    }
+  ],
+  "authors_text": "Qvist, Hans-Peter Y.; Munk, Martin D.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy004",
+  "doi_url": "https://doi.org/10.1093/esr/jcy004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Grandparents' Education and Infant Health: Pathways Across Generations",
+  "abstract": "Using data from the Fragile Families and Child Wellbeing survey linked to respondents' medical records (N=2,870), this study examines the association between grandparents' education and birth outcomes and explores potential pathways underlying this relationship. Results show that having a grandfather with less than a high school education was associated with a 93 gram reduction in birth weight, a 59% increase in the odds of low birth weight, and a 136% increase in the odds of a neonatal health condition when compared with having a grandfather with a high school education or more. These associations were partially accounted for by mother's educational attainment and marital status as well as by prenatal history of depression, hypertension, and prenatal health behaviors, depending on the specific outcome. The findings from this study call for heightened attention to the multigenerational influences of educational attainment for infant health.",
+  "authors": [
+    {
+      "raw": "McFarland, Michael J.",
+      "family": "McFarland",
+      "given": "Michael J."
+    },
+    {
+      "raw": "McLanahan, Sara S.",
+      "family": "McLanahan",
+      "given": "Sara S."
+    },
+    {
+      "raw": "Goosby, Bridget J.",
+      "family": "Goosby",
+      "given": "Bridget J."
+    },
+    {
+      "raw": "Reichman, Nancy E.",
+      "family": "Reichman",
+      "given": "Nancy E."
+    }
+  ],
+  "authors_text": "McFarland, Michael J.; McLanahan, Sara S.; Goosby, Bridget J.; Reichman, Nancy E.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2017,
+  "doi": "10.1111/jomf.12383",
+  "doi_url": "https://doi.org/10.1111/jomf.12383",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12383",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12383.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

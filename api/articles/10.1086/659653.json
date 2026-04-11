@@ -1,0 +1,30 @@
+{
+  "title": "How Network Externalities Can Exacerbate Intergroup Inequality",
+  "abstract": "The authors describe a common but largely unrecognized mechanism that produces and exacerbates intergroup inequality: the diffusion of valuable practices with positive network externalities through social networks whose members differentially possess characteristics associated with adoption. The authors examine two cases: the first, to explore the mechanism's implications and, the second, to demonstrate its utility in analyzing empirical data. In the first, the diffusion of Internet use, network effects increase adoption's benefits to associates of prior adopters. An agent-based model demonstrates positive, monotonic relationships, given externalities, between homophily bias and intergroup inequality in equilibrium adoption rates. In the second, rural-urban migration in Thailand, network effects reduce risk to persons whose networks include prior migrants. Analysis of longitudinal individual-level migration data indicates that network homophily interacts with network externalities to induce divergence of migration rates among otherwise similar villages.",
+  "authors": [
+    {
+      "raw": "DiMaggio, Paul",
+      "family": "DiMaggio",
+      "given": "Paul"
+    },
+    {
+      "raw": "Garip, Filiz",
+      "family": "Garip",
+      "given": "Filiz"
+    }
+  ],
+  "authors_text": "DiMaggio, Paul; Garip, Filiz",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2011,
+  "doi": "10.1086/659653",
+  "doi_url": "https://doi.org/10.1086/659653",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F659653",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/659653.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

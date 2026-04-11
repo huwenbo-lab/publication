@@ -1,0 +1,25 @@
+{
+  "title": "Estimation of confidence intervals for decompositions and other complex demographic estimators",
+  "abstract": "BACKGROUND While the use of standard errors and confidence intervals is common in regression-based studies in the population sciences, it is far less common in studies using formal demographic measures and methods, including demographic decompositions. OBJECTIVE This article describes and provides explicit instructions for using four different approaches for computing standard errors for complex demographic estimators. METHODS Standard errors for Arriaga's decomposition of life expectancy differences are computed using the delta method, the Poisson bootstrap, the binomial bootstrap, and the Monte Carlo approaches. The methods are demonstrated using a 50% sample of vital statistics data on age-specific mortality among urban women in the Pacific region of the United States in 1990 and 2019. RESULTS All four methods for computing standard errors returned similar estimates, with the delta method, Poisson bootstrap, and Monte Carlo approaches being the most consistent. The Monte Carlo approach is recommended for general use, while the delta method is recommended for specific cases. CONTRIBUTION This study documents multiple ways of estimating statistical uncertainty for complex demographic estimators and describes in detail how to apply these various methods to nearly any rate-based demographic measure. It also provides advice on when the use of standard errors is and is not appropriate in demographic studies. Explicit formulae for computing standard errors for Arriaga's decomposition using the delta method approach",
+  "authors": [
+    {
+      "raw": "Hendi, Arun S.",
+      "family": "Hendi",
+      "given": "Arun S."
+    }
+  ],
+  "authors_text": "Hendi, Arun S.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.5",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

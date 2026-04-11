@@ -1,0 +1,30 @@
+{
+  "title": "Digital divides in China: evidence from CGSS2005-2021",
+  "abstract": "China has undergone a remarkable digital transformation over the past two decades, benefiting a significant portion of the population while also giving rise to new forms of social inequality, commonly referred to as the digital divide. This paper introduces a quantitative analytical framework based on existing theories to explore the three coexisting levels of the digital divide in China: in internet access, in internet usage, and in outcomes derived from internet use. Using data from the Chinese General Social Survey (CGSS) spanning 2005-2021, we find that while the first-level digital divide has narrowed over time, the second- and third-level digital divides continue to perpetuate social inequalities. Moreover, evidence suggests that capital-enhancing activities can benefit disadvantaged groups, but their limited engagement in these activities may hinder such benefits. Those who engage most in these activities can catch up with their more advantaged counterparts, while those who participate least may fall further behind and become more vulnerable. Our analysis indicates that addressing the second-level digital divide may be the most effective strategy for narrowing social inequalities in the digital era.",
+  "authors": [
+    {
+      "raw": "Zhao, Yizhang",
+      "family": "Zhao",
+      "given": "Yizhang"
+    },
+    {
+      "raw": "Kuang, Meiying",
+      "family": "Kuang",
+      "given": "Meiying"
+    }
+  ],
+  "authors_text": "Zhao, Yizhang; Kuang, Meiying",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1080/21620555.2025.2475430",
+  "doi_url": "https://doi.org/10.1080/21620555.2025.2475430",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2025.2475430",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2025.2475430.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

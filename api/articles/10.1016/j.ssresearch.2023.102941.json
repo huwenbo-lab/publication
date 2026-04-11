@@ -1,0 +1,45 @@
+{
+  "title": "How did it get this way? Disentangling the sources of teacher quality gaps through agent-based modeling",
+  "abstract": "We develop a novel simulation methodology to study the extent to which three interrelated processes-teacher attrition from the state teaching workforce, teacher mobility between teaching positions, and teacher hiring for open positions-contribute to teacher quality gaps (TQGs) between students of color and other students in K-12 public schools. We apply this methodology to data from Washington State to provide estimates that eliminating inequities in teacher mobility and hiring across different schools would close TQGs within 5 years, while just eliminating inequities in teacher hiring would close gaps within 10 years. On the other hand, eliminating inequities in teacher attrition without addressing mobility and hiring does little to close gaps.",
+  "authors": [
+    {
+      "raw": "Goldhaber, Dan",
+      "family": "Goldhaber",
+      "given": "Dan"
+    },
+    {
+      "raw": "Kasman, Matt",
+      "family": "Kasman",
+      "given": "Matt"
+    },
+    {
+      "raw": "Quince, Vanessa",
+      "family": "Quince",
+      "given": "Vanessa"
+    },
+    {
+      "raw": "Theobald, Roddy",
+      "family": "Theobald",
+      "given": "Roddy"
+    },
+    {
+      "raw": "Wolff, Malcolm",
+      "family": "Wolff",
+      "given": "Malcolm"
+    }
+  ],
+  "authors_text": "Goldhaber, Dan; Kasman, Matt; Quince, Vanessa; Theobald, Roddy; Wolff, Malcolm",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102941",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102941",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102941",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102941.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

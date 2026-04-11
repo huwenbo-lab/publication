@@ -1,0 +1,50 @@
+{
+  "title": "Educational Disparities in Adult Mortality Across US States: How Do They Differ, and Have They Changed Since the Mid-1980s?",
+  "abstract": "Adult mortality varies greatly by educational attainment. Explanations have focused on actions and choices made by individuals, neglecting contextual factors such as economic and policy environments. This study takes an important step toward explaining educational disparities in U.S. adult mortality and their growth since the mid-1980s by examining them across U.S. states. We analyzed data on adults aged 45-89 in the 1985-2011 National Health Interview Survey Linked Mortality File (721,448 adults; 225,592 deaths). We compared educational disparities in mortality in the early twenty-first century (1999-2011) with those of the late twentieth century (1985-1998) for 36 large-sample states, accounting for demographic covariates and birth state. We found that disparities vary considerably by state: in the early twenty-first century, the greater risk of death associated with lacking a high school credential, compared with having completed at least one year of college, ranged from 40 % in Arizona to 104 % in Maryland. The size of the disparities varies across states primarily because mortality associated with low education varies. Between the two periods, higher-educated adult mortality declined to similar levels across most states, but lower-educated adult mortality decreased, increased, or changed little, depending on the state. Consequently, educational disparities in mortality grew over time in many, but not all, states, with growth most common in the South and Midwest. The findings provide new insights into the troubling trends and disparities in U.S. adult mortality.",
+  "authors": [
+    {
+      "raw": "Montez, Jennifer Karas",
+      "family": "Montez",
+      "given": "Jennifer Karas"
+    },
+    {
+      "raw": "Zajacova, Anna",
+      "family": "Zajacova",
+      "given": "Anna"
+    },
+    {
+      "raw": "Hayward, Mark D.",
+      "family": "Hayward",
+      "given": "Mark D."
+    },
+    {
+      "raw": "Woolf, Steven H.",
+      "family": "Woolf",
+      "given": "Steven H."
+    },
+    {
+      "raw": "Chapman, Derek",
+      "family": "Chapman",
+      "given": "Derek"
+    },
+    {
+      "raw": "Beckfield, Jason",
+      "family": "Beckfield",
+      "given": "Jason"
+    }
+  ],
+  "authors_text": "Montez, Jennifer Karas; Zajacova, Anna; Hayward, Mark D.; Woolf, Steven H.; Chapman, Derek; Beckfield, Jason",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-018-0750-z",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0750-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0750-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0750-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "The Effects of Education on Mortality: Evidence From Linked US Census and Administrative Mortality Data",
+  "abstract": "Does education change people's lives in a way that delays mortality? Or is education primarily a proxy for unobserved endowments that promote longevity? Most scholars conclude that the former is true, but recent evidence based on Danish twin data calls this conclusion into question. Unfortunately, these potentially field-changing findings-that obtaining additional schooling has no independent effect on survival net of other hard-to-observe characteristics-have not yet been subject to replication outside Scandinavia. In this article, we produce the first U.S.-based estimates of the effects of education on mortality using a representative panel of male twin pairs drawn from linked complete-count census and death records. For comparison purposes, and to shed additional light on the roles that neighborhood, family, and genetic factors play in confounding associations between education and mortality, we also produce parallel estimates of the education-mortality relationship using data on (1) unrelated males who lived in different neighborhoods during childhood, (2) unrelated males who shared the same neighborhood growing up, and (3) non-twin siblings who shared the same family environment but whose genetic endowments vary to a greater degree. We find robust associations between education and mortality across all four samples, although estimates are modestly attenuated among twins and non-twin siblings. These findings-coupled with several robustness checks and sensitivity analyses-support a causal interpretation of the association between education and mortality for cohorts of boys born in the United States in the first part of the twentieth century.",
+  "authors": [
+    {
+      "raw": "Halpern-Manners, Andrew",
+      "family": "Halpern-Manners",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Helgertz, Jonas",
+      "family": "Helgertz",
+      "given": "Jonas"
+    },
+    {
+      "raw": "Warren, John Robert",
+      "family": "Warren",
+      "given": "John Robert"
+    },
+    {
+      "raw": "Roberts, Evan",
+      "family": "Roberts",
+      "given": "Evan"
+    }
+  ],
+  "authors_text": "Halpern-Manners, Andrew; Helgertz, Jonas; Warren, John Robert; Roberts, Evan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00892-6",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00892-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00892-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00892-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

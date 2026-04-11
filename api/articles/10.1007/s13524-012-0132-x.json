@@ -1,0 +1,30 @@
+{
+  "title": "Maternal Age and Offspring Adult Health: Evidence From the Health and Retirement Study",
+  "abstract": "Abstract Advanced maternal age is associated with negative offspring health outcomes. This interpretation often relies on physiological processes related to aging, such as decreasing oocyte quality. We use a large, population-based sample of American adults to analyze how selection and lifespan overlap between generations influence the maternal age–offspring adult health association. We find that offspring born to mothers younger than age 25 or older than 35 have worse outcomes with respect to mortality, self-rated health, height, obesity, and the number of diagnosed conditions than those born to mothers aged 25–34. Controls for maternal education and age at which the child lost the mother eliminate the effect for advanced maternal age up to age 45. The association between young maternal age and negative offspring outcomes is robust to these controls. Our findings suggest that the advanced maternal age–offspring adult health association reflects selection and factors related to lifespan overlap. These may include shared frailty or parental investment but are not directly related to the physiological health of the mother during conception, fetal development, or birth. The results for young maternal age add to the evidence suggesting that children born to young mothers might be better off if the parents waited a few years.",
+  "authors": [
+    {
+      "raw": "Myrskylä, Mikko",
+      "family": "Myrskylä",
+      "given": "Mikko"
+    },
+    {
+      "raw": "Fenelon, Andrew",
+      "family": "Fenelon",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Myrskylä, Mikko; Fenelon, Andrew",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0132-x",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0132-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0132-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0132-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Wealth as One of the Big Four SES Dimensions in Intergenerational Transmissions",
+  "abstract": "Recent scholarship on mobility has increasingly incorporated wealth. We ask if wealth brings anything new to mobility research or is just a standard socioeconomic status (SES) dimension in disguise. We exploit Swedish administrative registers, which contain rich SES measures over individuals' lives for both parents' and children's generations. Using sibling correlations to estimate a baseline of shared family background influence, we then perform a total decomposition for each SES dimension and their overlaps. We find that wealth is a distinct dimension of SES that is very different from education, occupation, and income. Parental wealth cannot be substituted for other SES dimensions in understanding child's wealth attainment. Moreover, parental wealth substantially moderates intergenerational reproduction in other dimensions: The wealthiest have higher reproduction rates in all child outcomes, but in particular for children's income and wealth. Excluding wealth leads to underestimating intergenerational inequality, aggravated by its qualitatively unique status as an SES resource. We conclude that-alongside the SES resources education, occupation, and income-wealth emerges as an integral and unique dimension of what we choose to call the big four of social stratification.",
+  "authors": [
+    {
+      "raw": "Hallsten, Martin",
+      "family": "Hallsten",
+      "given": "Martin"
+    },
+    {
+      "raw": "Thaning, Max",
+      "family": "Thaning",
+      "given": "Max"
+    }
+  ],
+  "authors_text": "Hallsten, Martin; Thaning, Max",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab080",
+  "doi_url": "https://doi.org/10.1093/sf/soab080",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab080",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab080.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Qualitative Coding in the Computational Era: A Hybrid Approach to Improve Reliability and Reduce Effort for Coding Ethnographic Interviews",
+  "abstract": "Sociologists have argued that there is value in incorporating computational tools into qualitative research, including using machine learning to code qualitative data. Yet standard computational approaches do not neatly align with traditional qualitative practices. The authors introduce a hybrid human-machine learning approach (HHMLA) that combines a contemporary iterative approach to qualitative coding with advanced word embedding models that allow contextual interpretation beyond what can be reliably accomplished with conventional computational approaches. The results, drawn from an analysis of 87 human-coded ethnographic interview transcripts, demonstrate that HHMLA can code data sets at a fraction of the effort of human-only strategies, saving hundreds of hours labor in even modestly sized qualitative studies, while improving coding reliability. The authors conclude that HHMLA may provide a promising model for coding data sets where human-only coding would be logistically prohibitive but conventional computational approaches would be inadequate given qualitative foci.",
+  "authors": [
+    {
+      "raw": "Li, Zhuofan",
+      "family": "Li",
+      "given": "Zhuofan"
+    },
+    {
+      "raw": "Dohan, Daniel",
+      "family": "Dohan",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Abramson, Corey M.",
+      "family": "Abramson",
+      "given": "Corey M."
+    }
+  ],
+  "authors_text": "Li, Zhuofan; Dohan, Daniel; Abramson, Corey M.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211062345",
+  "doi_url": "https://doi.org/10.1177/23780231211062345",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211062345",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211062345.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Income Inequality in U.S. Voting: A Visualization",
+  "abstract": "Although it is clear that the 2020 election broke turnout records, we do not know how levels of voting changed across income groups. Journalistic accounts emphasized increases in turnout across demographic groups but relied on self-reported voter data. The authors use validated voting data from both the Common Election Study and the Pew Research Center to examine the relationship between income and voting across the two elections (along with education and race in supplemental analyses ). The authors show that levels of inequality in political participation were the same or higher in 2020 compared with previous years and that there are substantial differences in coefficients for income between the two data sets, raising questions about the accuracy of validated voter data.",
+  "authors": [
+    {
+      "raw": "Laurison, Daniel",
+      "family": "Laurison",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Rastogi, Ankit",
+      "family": "Rastogi",
+      "given": "Ankit"
+    }
+  ],
+  "authors_text": "Laurison, Daniel; Rastogi, Ankit",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231154358",
+  "doi_url": "https://doi.org/10.1177/23780231231154358",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231154358",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231154358.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

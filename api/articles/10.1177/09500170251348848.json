@@ -1,0 +1,35 @@
+{
+  "title": "Organizational Intersectionality: Do Gender and Migration Status Inequalities Reinforce or Offset Each Other in French Workplaces?",
+  "abstract": "This study examines whether organizations with significant pay gaps along one dimension (gender, migration status, class, etc.) tend to exhibit similarly high inequalities along other dimensions, or whether there is a trade-off between inequality dimensions. Using French administrative data, it estimates correlations between class, gender and migrant workplace earnings gaps, and studies how these gaps also relate to a fourth measure of intra-categorical inequality. To ensure robust results, this article introduces innovative methods to address measurement biases that may distort the relationship between earnings gaps. It establishes three key patterns. First, the gender gap is higher in more unequal workplaces. Second, the migrant gap is higher in more equal workplaces. Third, gender and migrant earnings gaps are negatively correlated within workplaces. These results suggest that workplace inequality regimes are shaped by both reinforcing and trade-off dynamics. Finally, this article explores factors influencing these patterns and highlights the role of industries.",
+  "authors": [
+    {
+      "raw": "Godechot, Olivier",
+      "family": "Godechot",
+      "given": "Olivier"
+    },
+    {
+      "raw": "Safi, Mirna",
+      "family": "Safi",
+      "given": "Mirna"
+    },
+    {
+      "raw": "Soener, Matthew",
+      "family": "Soener",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Godechot, Olivier; Safi, Mirna; Soener, Matthew",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2025,
+  "doi": "10.1177/09500170251348848",
+  "doi_url": "https://doi.org/10.1177/09500170251348848",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170251348848",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170251348848.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

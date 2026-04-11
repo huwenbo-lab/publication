@@ -1,0 +1,45 @@
+{
+  "title": "Workplace Concentration of Immigrants",
+  "abstract": "AbstractCasual observation suggests that in most U.S. urban labor markets, immigrants have more immigrant coworkers than native-born workers do. While seeming obvious, this excess tendency to work together has not been precisely measured, nor have its sources been quantified. Using matched employer–employee data from the U.S. Census Bureau Longitudinal Employer-Household Dynamics (LEHD) database on a set of metropolitan statistical areas (MSAs) with substantial immigrant populations, we find that, on average, 37 % of an immigrant’s coworkers are themselves immigrants; in contrast, only 14 % of a native-born worker’s coworkers are immigrants. We decompose this difference into the probability of working with compatriots versus with immigrants from other source countries. Using human capital, employer, and location characteristics, we narrow the mechanisms that might explain immigrant concentration. We find that industry, language, and residential segregation collectively explain almost all the excess tendency to work with immigrants from other source countries, but they have limited power to explain work with compatriots. This large unexplained compatriot component suggests an important role for unmeasured country-specific factors, such as social networks.",
+  "authors": [
+    {
+      "raw": "Andersson, Fredrik",
+      "family": "Andersson",
+      "given": "Fredrik"
+    },
+    {
+      "raw": "García-Pérez, Mónica",
+      "family": "García-Pérez",
+      "given": "Mónica"
+    },
+    {
+      "raw": "Haltiwanger, John",
+      "family": "Haltiwanger",
+      "given": "John"
+    },
+    {
+      "raw": "McCue, Kristin",
+      "family": "McCue",
+      "given": "Kristin"
+    },
+    {
+      "raw": "Sanders, Seth",
+      "family": "Sanders",
+      "given": "Seth"
+    }
+  ],
+  "authors_text": "Andersson, Fredrik; García-Pérez, Mónica; Haltiwanger, John; McCue, Kristin; Sanders, Seth",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0352-3",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0352-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0352-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0352-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

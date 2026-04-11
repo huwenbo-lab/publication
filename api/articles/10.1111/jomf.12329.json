@@ -1,0 +1,30 @@
+{
+  "title": "Associations Between Prior Deployments and Marital Satisfaction Among Army Couples",
+  "abstract": "Although the experience of deployments has been described as devastating to married life, evidence linking deployments directly to poorer marital functioning has been sparse. The analyses described in this article compare associations between prior deployments and current marital satisfaction across four different ways of measuring prior deployment within a large and representative sample of married Army service members and their spouses. Results indicate that the experience of prior deployments is associated with significantly lower current marital satisfaction among military couples. The association is disproportionately strong for first deployments and first cumulative months of deployment and weakens over subsequent deployment experiences. Most of these associations, but not all, can be accounted for by the fact that service members who have been deployed are more likely to have experienced traumatic events and to experience post-traumatic stress disorder symptoms, both of which are independently associated with lower levels of marital satisfaction.",
+  "authors": [
+    {
+      "raw": "Karney, Benjamin R.",
+      "family": "Karney",
+      "given": "Benjamin R."
+    },
+    {
+      "raw": "Trail, Thomas E.",
+      "family": "Trail",
+      "given": "Thomas E."
+    }
+  ],
+  "authors_text": "Karney, Benjamin R.; Trail, Thomas E.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2017,
+  "doi": "10.1111/jomf.12329",
+  "doi_url": "https://doi.org/10.1111/jomf.12329",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12329",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12329.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

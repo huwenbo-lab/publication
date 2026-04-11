@@ -1,0 +1,30 @@
+{
+  "title": "Methods and theory for analyzing intensive longitudinal data in family research",
+  "abstract": "Although family scholars have long relied on longitudinal data, electronic methods of data collection like web- and app-based surveys have greatly increased the amount of data with many repeated measures at short intervals, sometimes called intensive longitudinal data. The authors provide a conceptual overview of this type of data, paying particular attention to the appropriate frequency for the intervals, and discuss some of the unique contributions to Life Course Theory that can be generated with such data. They illustrate two analytic techniques that especially benefit from an intensive longitudinal design-sequence analysis and between-within regression-by applying these methods to intensive longitudinal data from the Relationship Dynamics and Social Life Study that represent a micro life course of pregnancy risk (partnering, pregnancy desire, sex, and contraception) during the transition to adulthood. Their sequence analysis shows that singlehood, hormonal contraception, or partnered abstinence dominated most young women's micro-life courses. Black/African-American young women's micro life courses were similarly dominated by singlehood but were even more frequently dominated by partnered abstinence than their non-Black/African-American peers'. However, Black/African-American women's micro life courses were less stable, potentially explaining their higher undesired pregnancy rates. A between-within regression model shows that Black/African-American coital contraceptors were less likely than their non-Black/African-American peers to use withdrawal (rather than condoms). They conclude by suggesting some potential ways that intensive longitudinal data capturing micro-life courses can contribute to important outstanding research questions in family research.",
+  "authors": [
+    {
+      "raw": "Barber, Jennifer S.",
+      "family": "Barber",
+      "given": "Jennifer S."
+    },
+    {
+      "raw": "Liao, Tim Futing",
+      "family": "Liao",
+      "given": "Tim Futing"
+    }
+  ],
+  "authors_text": "Barber, Jennifer S.; Liao, Tim Futing",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12993",
+  "doi_url": "https://doi.org/10.1111/jomf.12993",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12993",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12993.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

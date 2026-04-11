@@ -1,0 +1,35 @@
+{
+  "title": "Does tracking increase segregation? International evidence on the effects of between-school tracking on social segregation across schools",
+  "abstract": "In the present study, we focus on institutional segregation as determined by the school system. We investigate the effect of between-school tracking on countries' social segregation across schools as measured by the variation in the socioeconomic composition of schools. We combine data from international large-scale assessments to estimate difference-in-differences models. Specifically, we regress the degree of social segregation across schools at the secondary school level on an indicator of between-school tracking, while controlling for the degree of segregation at the primary school level. The analyses are replicated on 32 different combinations of datasets from three large-scale assessments: Progress in International Reading Literacy Study [PIRLS], Trends in International Mathematics and Science Study [TIMSS], and Programme for International Student Assessment [PISA]. These encompass 16 assessment cycles and 75 different countries or regions. The results provide strong evidence for the hypothesis that between-school tracking increases social segregation between advantaged and disadvantaged students.",
+  "authors": [
+    {
+      "raw": "Strello, Andres",
+      "family": "Strello",
+      "given": "Andres"
+    },
+    {
+      "raw": "Strietholt, Rolf",
+      "family": "Strietholt",
+      "given": "Rolf"
+    },
+    {
+      "raw": "Steinmann, Isa",
+      "family": "Steinmann",
+      "given": "Isa"
+    }
+  ],
+  "authors_text": "Strello, Andres; Strietholt, Rolf; Steinmann, Isa",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100689",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100689",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100689",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100689.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The Impact of Density: The Importance of Nonlinearity and Selection on Flight and Fight Responses",
+  "abstract": "Unlike commonsense notions and the findings from animal research, the literature concerning the effects of density on human social behavior is paralyzed by contradictory findings. This article examines empirically two fundamental issues which could account for this and which are central to the density-crowding debate: (1) whether observed crowding effects are the result of causation or selection and (2) whether individuals are negatively affected by both low and high levels of density. Data from the Toronto Mental Health and Stress study are analyzed using structural equation modeling to investigate these questions. The results support the notion that the effects of density on aggressive and withdrawn behavior are nonlinear in nature. The findings further reveal a self selection of respondents into particular forms of housing. The implications of these findings for future research on crowding are discussed.",
+  "authors": [
+    {
+      "raw": "Regoeczi, W. C.",
+      "family": "Regoeczi",
+      "given": "W. C."
+    }
+  ],
+  "authors_text": "Regoeczi, W. C.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2002,
+  "doi": "10.1353/sof.2003.0018",
+  "doi_url": "https://doi.org/10.1353/sof.2003.0018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2003.0018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2003.0018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

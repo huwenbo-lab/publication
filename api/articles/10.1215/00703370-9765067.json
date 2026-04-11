@@ -1,0 +1,35 @@
+{
+  "title": "The Components of Change in Population Growth Rates",
+  "abstract": "The demo graphic bal ance equa tion relates the pop u la tion growth rate with crude rates of fer til ity, mor tal ity, and net migra tion. All these rates refer to changes occur ring between two time points, say, t and t + h. However, this fundamental balance equation overlooks the contribution of historical fertility, mortality, and migration in explaining these pop u la tion counts. Because of this, the bal ance equa tion only par?? tially explains a change in growth rate between time t and t+ h as it does not include the contribution of historical population trends in shaping the population at time t. The over all pop u la tion growth rate can also be expressed as the weighted aver age of age spe cific growth rates. In this article, we develop a method to decom pose the historical driv ers of cur rent pop u la tion growth by recur sively employing the var i able??r method on the population???s average age-spe cific growth rates. We illus trate our method by identifying the unique contributions of survival progress, migration change, and fertil ity decline for cur rent population growth in Denmark, England and Wales, France, and the United States. Our results show that sur vival prog ress is mainly hav ing an effect on pop u la tion growth at older ages, although account ing for indi rect his tor i cal effects illuminates additional contributions at younger ages. Migration is particularly impor?? tant in Denmark and England and Wales. Finally, we find that across all populations stud ied, his tor i cal fer til ity decline plays the larg est role in shap ing recent reduc tions in population growth rates.",
+  "authors": [
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Shen, Tianyu",
+      "family": "Shen",
+      "given": "Tianyu"
+    },
+    {
+      "raw": "Payne, Collin F.",
+      "family": "Payne",
+      "given": "Collin F."
+    }
+  ],
+  "authors_text": "Canudas-Romo, Vladimir; Shen, Tianyu; Payne, Collin F.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9765067",
+  "doi_url": "https://doi.org/10.1215/00703370-9765067",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9765067",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9765067.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

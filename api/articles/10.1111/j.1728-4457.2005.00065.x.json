@@ -1,0 +1,40 @@
+{
+  "title": "Mortality attributable to cigarette smoking in the United States",
+  "abstract": "Cigarette smoking is an especially pernicious behavior because of its high prevalence and mortality risk. We use the powerful methodology of life tables with covariates and employ the National Health Interview Survey-Multiple Cause of Death file to illuminate the interrelationships of smoking with other risk factors and the combined influences of smoking prevalence and population size on mortality attributable to smoking. We find that the relationship between smoking and mortality is only modestly affected by controlling for other risk factors. Excess deaths attributable to smoking among adults in the United States in the year 2000 were as high as 340,000. Better knowledge of the prevalence and mortality risk associated with different cigarette smoking statuses can enhance the future health and longevity prospects of the population.",
+  "authors": [
+    {
+      "raw": "Rogers, RG",
+      "family": "Rogers",
+      "given": "RG"
+    },
+    {
+      "raw": "Hummer, RA",
+      "family": "Hummer",
+      "given": "RA"
+    },
+    {
+      "raw": "Krueger, PM",
+      "family": "Krueger",
+      "given": "PM"
+    },
+    {
+      "raw": "Pampel, FC",
+      "family": "Pampel",
+      "given": "FC"
+    }
+  ],
+  "authors_text": "Rogers, RG; Hummer, RA; Krueger, PM; Pampel, FC",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2005,
+  "doi": "10.1111/j.1728-4457.2005.00065.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2005.00065.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2005.00065.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2005.00065.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

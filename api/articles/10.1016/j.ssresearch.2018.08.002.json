@@ -1,0 +1,30 @@
+{
+  "title": "Growing pains or appreciable gains? Latent classes of neighborhood change, and consequences for crime in Southern California neighborhoods",
+  "abstract": "This study explored the dynamic nature of neighborhoods using a relatively novel approach and data source. By using a nonparametric holistic approach of neighborhood change based on latent class analysis (LCA), we have explored how changes in the socio-demographic characteristics of residents, as well as home improvement and refinance activity by residents, are related to changes in neighborhood crime over a decade. Utilizing annual home mortgage loan data in the city of Los Angeles from the years 2000-2010, we 1) conducted principle components factor analyses using measures of residential in-migration and home investment activities; 2) estimated LCA models to identify classes of neighborhoods that shared common patterns of change over the decade; 3) described these 11 classes; 4) estimated change-score regression models to assess the relationship of these classes with changing crime rates. The analyses detected six broad types of neighborhood change: 1) stability; 2) urban investors; 3) higher-income home buyers; 4) in mover oscillating; 5) oscillating refinance; 6) mixed-trait. The study describes the characteristics of each of these classes, and how they are related to changes in crime rates over the decade.",
+  "authors": [
+    {
+      "raw": "Branic, Nicholas",
+      "family": "Branic",
+      "given": "Nicholas"
+    },
+    {
+      "raw": "Hipp, John R.",
+      "family": "Hipp",
+      "given": "John R."
+    }
+  ],
+  "authors_text": "Branic, Nicholas; Hipp, John R.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.08.002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.08.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.08.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.08.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

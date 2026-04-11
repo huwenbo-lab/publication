@@ -1,0 +1,30 @@
+{
+  "title": "Socioeconomic Variation in the Effect of Economic Conditions on Marriage and Nonmarital Fertility in the United States: Evidence From the Great Recession",
+  "abstract": "The United States has become increasingly characterized by stark class divides in family structure. Poor women are less likely to marry than their more affluent counterparts but are far more likely to have a birth outside of marriage. Recent theoretical and qualitative work at the intersection of demography and cultural sociology suggests that these patterns are generated because poor women have high, nearly unattainable, economic standards for marriage but make a much weaker connection between economic standing and fertility decisions. We use the events of the Great Recession, leveraging variation in the severity of the crisis between years and across states, to examine how exposure to worse state-level economic conditions is related to poor women's likelihood of marriage and of having a nonmarital birth between 2008 and 2012. In accord with theory, we find that women of low socioeconomic status (SES) exposed to worse economic conditions are indeed somewhat less likely to marry. However, we also find that unmarried low-SES women exposed to worse economic conditions significantly reduce their fertility; economic standing is not disconnected from nonmarital fertility. Our results suggest that economic concerns were connected to fertility decisions for low-SES unmarried women during the Great Recession.",
+  "authors": [
+    {
+      "raw": "Schneider, Daniel",
+      "family": "Schneider",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Hastings, Orestes P.",
+      "family": "Hastings",
+      "given": "Orestes P."
+    }
+  ],
+  "authors_text": "Schneider, Daniel; Hastings, Orestes P.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0437-7",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0437-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0437-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0437-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

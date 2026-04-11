@@ -1,0 +1,35 @@
+{
+  "title": "Is the social origin pay gap bigger than we thought? Identifying and acknowledging workers with undefined social origins in survey data",
+  "abstract": "This article investigates whether empirical studies have underestimated the social origin pay gap by omitting respondents with undefined social origins. Specifically, individuals that were not assigned a social origin because the identity of their parental household was unclear, nobody was earning in the household, or the occupational identity of the main wage earner could not be identified. Data from the UK Quarterly Labour Force Survey is analysed to establish the prevalence of undefined social origins and the extent to which the socioeconomic characteristics of these groups are different from those who can be identified using the Standard Occupational Classification (SOC). The results show that 10.5% of the working age population have undefined social origins and that the labour market outcomes of these people are worse than those with defined social origins. Results show that omitting these respondents underestimates the range of the social origin pay gap and the number of people affected.",
+  "authors": [
+    {
+      "raw": "Vallely, Michael",
+      "family": "Vallely",
+      "given": "Michael"
+    },
+    {
+      "raw": "Findlay, Jeanette",
+      "family": "Findlay",
+      "given": "Jeanette"
+    },
+    {
+      "raw": "Hermannsson, Kristinn",
+      "family": "Hermannsson",
+      "given": "Kristinn"
+    }
+  ],
+  "authors_text": "Vallely, Michael; Findlay, Jeanette; Hermannsson, Kristinn",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100952",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100952",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100952",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100952.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

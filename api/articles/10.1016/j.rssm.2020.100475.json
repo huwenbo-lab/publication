@@ -1,0 +1,25 @@
+{
+  "title": "Induced competition in matched correspondence tests: Conceptual and methodological considerations",
+  "abstract": "Audit and correspondence studies are established as the dominant empirical strategy for examining the prevalence of hiring discrimination in labor markets. Historically, these studies are most often conducted as pairwise within-subject tests where one of the testers or applicants are exposed to the treatment of interest, while the other serves as a reference. In more recent studies, however, some scholars are moving towards the practice of sending only a single application per vacancy. This design choice is rarely discussed explicitly. Taking experiments on ethnic hiring discrimination as a case, I summarize the strengths, weaknesses and particular considerations associated with both approaches, by aid of a computational model comparing the two. The main argument I present is that the matched and unmatched designs differ in a more substantive way than what has been properly acknowledged in previous studies: Choice of design can potentially influence estimates, as the matched design induces competition affecting the callback probability of the treated candidates when applicant pools are small. I conclude that this is a potential weakness of the matched design, but that each design has multiple distinct advantages. While this study discusses experiments on hiring discrimination specifically, the main argument applies to similar contexts where one has to choose between matched and unmatched designs.",
+  "authors": [
+    {
+      "raw": "Larsen, Edvard N.",
+      "family": "Larsen",
+      "given": "Edvard N."
+    }
+  ],
+  "authors_text": "Larsen, Edvard N.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100475",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100475",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100475",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100475.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

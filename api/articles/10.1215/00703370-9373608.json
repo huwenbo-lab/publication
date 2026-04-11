@@ -1,0 +1,30 @@
+{
+  "title": "Genome-Wide Heritability Estimates for Family Life Course Complexity",
+  "abstract": "Sequence analysis is an established method used to study the complexity of family life courses. Although individual and societal characteristics have been linked with the complexity of family trajectories, social scientists have neglected the potential role of genetic factors in explaining variation in family transitions and events across the life course. We estimate the genetic contribution to sequence complexity and a wide range of family demographic behaviors using genomic relatedness-based, restricted maximum likelihood models with data from the U.S. Health and Retirement Study. This innovative methodological approach allows us to provide the first estimates of the heritability of composite life course outcomes-that is, sequence complexity. We demonstrate that a number of family demographic indicators (e.g., the age at first birth and first marriage) are heritable and provide evidence that composite metrics can be influenced by genetic factors. For example, our results show that 11% of the total variation in the complexity of differentiated family sequences is attributable to genetic influences. Moreover, we test whether this genetic contribution varies by social environment as indexed by birth cohort over a period of rapid changes in family norms during the twentieth century. Interestingly, we find evidence that the complexity of fertility and differentiated family trajectories decreased across cohorts, but we find no evidence that the heritability of the complexity of partnership trajectories changed across cohorts. Therefore, our results do not substantiate claims that lower normative constraints on family demographic behavior increase the role of genes.",
+  "authors": [
+    {
+      "raw": "Van Winkle, Zachary",
+      "family": "Van Winkle",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Conley, Dalton",
+      "family": "Conley",
+      "given": "Dalton"
+    }
+  ],
+  "authors_text": "Van Winkle, Zachary; Conley, Dalton",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9373608",
+  "doi_url": "https://doi.org/10.1215/00703370-9373608",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9373608",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9373608.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

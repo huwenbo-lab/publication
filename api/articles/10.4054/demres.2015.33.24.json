@@ -1,0 +1,35 @@
+{
+  "title": "Adapting chain referral methods to sample new migrants: Possibilities and limitations",
+  "abstract": "BACKGROUND Demographic research on migration requires representative samples of migrant populations. Yet recent immigrants, who are particularly informative about current migrant flows, are difficult to capture even in specialist surveys. Respondent-driven sampling (RDS), a chain referral sampling and analysis technique, potentially offers the opportunity to achieve population-level inference of recently arrived migrant populations. OBJECTIVE We evaluate the attempt to use RDS to sample two groups of migrants, from Pakistan and Poland, who had arrived in the UK within the previous 18 months, and we present an alternative approach adapted to recent migrants. METHODS We discuss how connectedness, privacy, clustering, and motivation are expected to differ among recently arrived migrants, compared to typical applications of RDS. We develop a researcher-led chain referral approach, and compare success in recruitment and indicators of representativeness to standard RDS recruitment. RESULTS Our researcher-led approach led to higher rates of chain-referral, and enabled us to reach population members with smaller network sizes. The researcher-led approach resulted in similar recruiter-recruit transition probabilities to traditional RDS across many demographic and social characteristics. However, we did not succeed in building up long referral chains, largely due to the lack of connectedness of our target populations and some reluctance to refer. There were some differences between the two migrant groups, with less mobile and less hidden Pakistani men producing longer referral chains. CONCLUSIONS Chain referral is difficult to implement for sampling newly arrived migrants. However, our researcher-led adaptation shows promise for less hidden and more stable recent immigrant populations.",
+  "authors": [
+    {
+      "raw": "Platt, Lucinda",
+      "family": "Platt",
+      "given": "Lucinda"
+    },
+    {
+      "raw": "Luthra, Renee",
+      "family": "Luthra",
+      "given": "Renee"
+    },
+    {
+      "raw": "Frere-Smith, Tom",
+      "family": "Frere-Smith",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "Platt, Lucinda; Luthra, Renee; Frere-Smith, Tom",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.24",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.24",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.24",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.24.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

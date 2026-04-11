@@ -1,0 +1,30 @@
+{
+  "title": "Marriage, Cohabitation, and Happiness: A Cross‐National Analysis of 27 Countries",
+  "abstract": "The authors investigated how the reported happiness of married and cohabiting individuals varies cross‐nationally with societal gender beliefs and religious context. They used the 2002 International Social Survey Programme data from 27 countries (N = 36,889) and specified hierarchical linear models with macro – micro level interactions in order to examine how the social – institutional context affects happiness at the individual level. Consistent with previous research, they found a happiness gap between married and cohabiting persons. In the case of women, this gap was moderated by the gender climate and the religious context in the country. This suggests that, at least for women, this gap is not intractable but is rather an outcome of the social context. For men, the relationship between marital status and happiness was less variable across the different social contexts studied.",
+  "authors": [
+    {
+      "raw": "Lee, Kristen Schultz",
+      "family": "Lee",
+      "given": "Kristen Schultz"
+    },
+    {
+      "raw": "Ono, Hiroshi",
+      "family": "Ono",
+      "given": "Hiroshi"
+    }
+  ],
+  "authors_text": "Lee, Kristen Schultz; Ono, Hiroshi",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2012,
+  "doi": "10.1111/j.1741-3737.2012.01001.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2012.01001.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2012.01001.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2012.01001.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

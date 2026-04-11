@@ -1,0 +1,30 @@
+{
+  "title": "Accounting for Spatial Variation in Tolerance: The Effects of Education and Religion",
+  "abstract": "Prior research has shown that individuals living in the South express significantly less tolerant attitudes than the rest of the nation, while individuals residing in urban areas express significantly more tolerant attitudes than their rural peers. We seek to explain these generally unspecified Southern and urban effects by identifying demographic contextual factors that affect individuals tolerance levels. Using 1976–2000 General Social Survey and 1990 U.S. Census data, we find that net of individual factors, residing in an area with a larger proportion of college graduates significantly increases individual levels of tolerance, while residing in an area with a larger proportion of evangelical Protestants significantly decreases tolerance. We also find that the Southern and urban effects on tolerance become non-significant after contextual-level controls are added.",
+  "authors": [
+    {
+      "raw": "Moore, L. M.",
+      "family": "Moore",
+      "given": "L. M."
+    },
+    {
+      "raw": "Ovadia, S.",
+      "family": "Ovadia",
+      "given": "S."
+    }
+  ],
+  "authors_text": "Moore, L. M.; Ovadia, S.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2006,
+  "doi": "10.1353/sof.2006.0101",
+  "doi_url": "https://doi.org/10.1353/sof.2006.0101",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2006.0101",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2006.0101.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

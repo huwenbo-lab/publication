@@ -1,0 +1,30 @@
+{
+  "title": "Household registration, urban status attainment, and social stratification in China",
+  "abstract": "Previous studies on the household registration system (hukou) have focused either on the selective process of hukou conversion to urban status and its impact on social stratification or on the socioeconomic disadvantages and the assimilation of rural migrant workers in cities. Pooling the data from two national probability surveys in China (CGSS 2003 and 2008), we investigate socioeconomic inequality in urban labor markets and the role played by successful and unsuccessful conversion to urban hukou status for those of rural origins. Specifically, we compare the earnings of three subgroups: those who acquired urban status through their own efforts, those who gained their urban hukou via the incorporation of their villages into cities, and rural migrants who have not obtained an urban hukou. Linear regression results show that the commonly observed earnings premium associated with urban hukou status is limited only to a subgroup of rural-origin people who obtained their urban hukou through a highly selective process. Propensity-score matching analyses further reveal that the effect of urban hukou status on earnings is positively associated with the propensity of hukou conversion to urban status, and that the urban hukou only pays off among people with better education and higher-status occupations within the state sector. These findings shed new light on the relationship between mobility processes and stratification outcomes, and bear important policy implications for the ongoing reform of the hukou system in the process of China's urbanization.",
+  "authors": [
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    },
+    {
+      "raw": "Zheng, Bingdao",
+      "family": "Zheng",
+      "given": "Bingdao"
+    }
+  ],
+  "authors_text": "Wu, Xiaogang; Zheng, Bingdao",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2018,
+  "doi": "10.1016/j.rssm.2017.11.002",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2017.11.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2017.11.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2017.11.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

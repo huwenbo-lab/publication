@@ -1,0 +1,35 @@
+{
+  "title": "Motherhood Penalties in the US, 1986-2014",
+  "abstract": "Objective This article aims to determine whether the wage penalty for motherhood changed in the United States between 1986 and 2014 and to assess the relative impact of education and experience on the penalty over time. Background Mothers earn less than childless women. Although mothers' educational levels and labor market experience have increased over time, most studies do not analyze the motherhood penalty over time. Method This article uses ordinary least squares and fixed effects regressions to estimate the motherhood penalty in three time periods (1986-1995, 1996-2004, and 2006-2014) and compares the penalty across time periods. The data used in the analysis are from the U.S. Panel Study of Income Dynamics, one of the only nationally representative data sets that contains a measure of actual labor market experience. Results The motherhood penalty remains quite stable over time and may have worsened for mothers with one child. The gross gap in pay between childless women and mothers of two or more children has narrowed only because mothers' have increased their investments in human capital, such as education and workforce experience. Ordinary least squares and fixed effects models provide similar results. Conclusion Mothers' human capital investment may not be enough to lower the motherhood wage penalty in the United States.",
+  "authors": [
+    {
+      "raw": "Jee, Eunjung",
+      "family": "Jee",
+      "given": "Eunjung"
+    },
+    {
+      "raw": "Misra, Joya",
+      "family": "Misra",
+      "given": "Joya"
+    },
+    {
+      "raw": "Murray-Close, Marta",
+      "family": "Murray-Close",
+      "given": "Marta"
+    }
+  ],
+  "authors_text": "Jee, Eunjung; Misra, Joya; Murray-Close, Marta",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12543",
+  "doi_url": "https://doi.org/10.1111/jomf.12543",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12543",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12543.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

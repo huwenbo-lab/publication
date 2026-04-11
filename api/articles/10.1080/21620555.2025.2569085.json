@@ -1,0 +1,30 @@
+{
+  "title": "Migrants' reference group selection: insights from the multidimensional assimilation framework",
+  "abstract": "This study explores how cultural, identity, economic, and structural assimilation shape rural-to-urban migrants' choice of reference group in China. Understanding reference group selection is important because it can influence economic outcomes, subjective well-being, and intergroup attitudes. Using data from the Chinese Household Income Project (CHIP) 2013, we apply multinomial logistic regression to analyze reference group selection. The results indicate that cultural assimilation measured by migration distance and duration does not significantly predict reference group choice, suggesting that cultural assimilation is insufficient to explain migrants' social comparisons in recent China. In contrast, identity and economic assimilation play key roles. Particularly, migrants who intend to settle permanently in urban areas and those with higher education and financial statuses are more likely to compare themselves with urban residents. Structural assimilation produces mixed results; institutional barriers such as hukou and insurance statuses show little effect, but living in supercities influences reference group selection in unexpected ways. These findings highlight the multidimensionality of migrants' reference group choices and suggest that policymakers should prioritize urban inclusion and economic empowerment initiatives to shape migrants' reference group choices.",
+  "authors": [
+    {
+      "raw": "Chen, Zhenxiang",
+      "family": "Chen",
+      "given": "Zhenxiang"
+    },
+    {
+      "raw": "Gu, Danan",
+      "family": "Gu",
+      "given": "Danan"
+    }
+  ],
+  "authors_text": "Chen, Zhenxiang; Gu, Danan",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1080/21620555.2025.2569085",
+  "doi_url": "https://doi.org/10.1080/21620555.2025.2569085",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2025.2569085",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2025.2569085.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

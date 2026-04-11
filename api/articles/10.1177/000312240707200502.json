@@ -1,0 +1,30 @@
+{
+  "title": "Working for the woman? Female managers and the gender wage gap",
+  "abstract": "Most previous research on gender inequality and management has been concerned with the question of access to managerial jobs and the glass ceiling. We offer the first large-scale analysis that turns this question around, asking whether the gender characteristics of managers-specifically, the gender composition and relative status of female managers-affect inequality for the nonmanagerial workers beneath them. Results from three-level hierarchical linear models, estimated on a unique nested data set drawn from the 2000 Census, suggest that greater representation of women in management does narrow the gender wage gap. Model predictions show, however that the presence of high-status female managers has a much larger impact on gender wage inequality. We conclude that the promotion of women into management positions may benefit all women, hut only if female managers reach relatively high-status positions.",
+  "authors": [
+    {
+      "raw": "Cohen, Philip N.",
+      "family": "Cohen",
+      "given": "Philip N."
+    },
+    {
+      "raw": "Huffman, Matt L.",
+      "family": "Huffman",
+      "given": "Matt L."
+    }
+  ],
+  "authors_text": "Cohen, Philip N.; Huffman, Matt L.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2007,
+  "doi": "10.1177/000312240707200502",
+  "doi_url": "https://doi.org/10.1177/000312240707200502",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240707200502",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240707200502.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

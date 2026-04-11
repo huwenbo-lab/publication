@@ -1,0 +1,25 @@
+{
+  "title": "Identifying the role of high school in educational inequality: A causal mediation approach",
+  "abstract": "Although the effect of socioeconomic background on children's educational attainment has long been investigated, the extent to which high school mediates this effect has not been assessed from the causal mediation framework. This study investigates the direct effect of family income on educational attainment not mediated by the rank of high school, using data from longitudinal surveys of ninth-grade students in Japan (n = 1,790). Regression with residuals (RWR) analysis reveals that, although high school type mediates the effects of family income on university enrollment and relative educational attainment to some extent (approximately 25% and 33%, respectively), the direct effects of family income are considerable. The result also suggests a positive interaction effect between family income and high school selectivity, implying a boosting advantage pattern rather than a compensatory advantage. I argue that the analytical framework can be applied to many methodological settings in sociological studies.",
+  "authors": [
+    {
+      "raw": "Fujihara, Sho",
+      "family": "Fujihara",
+      "given": "Sho"
+    }
+  ],
+  "authors_text": "Fujihara, Sho",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103077",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103077",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103077",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103077.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

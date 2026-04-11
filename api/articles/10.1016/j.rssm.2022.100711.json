@@ -1,0 +1,40 @@
+{
+  "title": "Reproduction of academic and socioeconomic segregation in the transition to postsecondary education: A new approach",
+  "abstract": "Highly massified and differentiated postsecondary education systems tend to replicate the stratification and social segregation of previous educational levels, thus maintaining social inequity in their access. In this regard, gaps in academic test scores are frequently perceived to be a fundamental transmission channel of socioeconomic segregation from secondary to postsecondary education. Within this framework, the purpose of this study is to analyze whether and to what degree socioeconomic segregation is reproduced in the transition from secondary to postsecondary education and how much of the socioeconomic segregation is related to academic segregation in the latter. Using a modified Dissimilarity Index to quantify the segregation of three Chilean cohorts, we find that, unlike in secondary education, academic performance is more decisive than socioeconomic background in the distribution of students in postsecondary education, with a notable reduction in the socioeconomic segregation levels in the transition to the latter. However, using a pioneering approach, we also find that less than half of the socioeconomic segregation in postsecondary education is related to academic sorting, suggesting that factors other than academic admission criteria are more relevant in explaining unequal distribution of students from different socioeconomic background in postsecondary education.",
+  "authors": [
+    {
+      "raw": "Kuzmanic, Danilo",
+      "family": "Kuzmanic",
+      "given": "Danilo"
+    },
+    {
+      "raw": "Valenzuela, Juan Pablo",
+      "family": "Valenzuela",
+      "given": "Juan Pablo"
+    },
+    {
+      "raw": "Villalobos, Cristobal",
+      "family": "Villalobos",
+      "given": "Cristobal"
+    },
+    {
+      "raw": "Quaresma, Maria Luisa",
+      "family": "Quaresma",
+      "given": "Maria Luisa"
+    }
+  ],
+  "authors_text": "Kuzmanic, Danilo; Valenzuela, Juan Pablo; Villalobos, Cristobal; Quaresma, Maria Luisa",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100711",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100711",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100711",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100711.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

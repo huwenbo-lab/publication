@@ -1,0 +1,25 @@
+{
+  "title": "A world of cities",
+  "abstract": "Amin, Ash and Thrift, Nigel 2002 Cambridge : 192 pp. £ 50.00 (hardback) £ 14.99 (paperback) Beall, Jo, Crankshaw, Owen and Parnell, Susan 2002 London : 200 pp. £ 60.00 (hardback) £ 19.99 (paperback) Bridge, Gary and Watson, Sophie (eds) 2002 Oxford : 600 pp. £ 65.00 (hardback) £ 19.99 (paperback) Le Galès, Patrick 2002 Oxford : 280 pp. £ 60.00 (hardback) £ 19.99 (paperback) Orum, Anthony M. and Chen, Xiangming 2003 Oxford : 192 pp. £ 50.00 (hardback) £ 14.99 (paperback)",
+  "authors": [
+    {
+      "raw": "Robinson, Jennifer",
+      "family": "Robinson",
+      "given": "Jennifer"
+    }
+  ],
+  "authors_text": "Robinson, Jennifer",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2004,
+  "doi": "10.1111/j.1468-4446.2004.00038.x",
+  "doi_url": "https://doi.org/10.1111/j.1468-4446.2004.00038.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1468-4446.2004.00038.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1468-4446.2004.00038.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

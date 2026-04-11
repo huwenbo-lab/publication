@@ -1,0 +1,30 @@
+{
+  "title": "Parental Investments in College and Later Cash Transfers",
+  "abstract": "Parents often provide generous financial transfers to their adult children, perhaps assisting with college expenses, recognizing major life course events, or cushioning against negative financial shocks. Because resources are limited, a transfer made to one child likely affects transfers made to others in the family. Despite such possibilities, data limitations have led previous authors to focus almost exclusively on a single type of transfer made at a single point in time. Using data from the Health and Retirement Study, we examine the relationships among parental transfers for college and later cash transfers to all children within a family. We find that parents typically spend differentially on the postsecondary schooling of their children but find no evidence that this differential spending is offset by later cash transfers.",
+  "authors": [
+    {
+      "raw": "Haider, Steven J.",
+      "family": "Haider",
+      "given": "Steven J."
+    },
+    {
+      "raw": "McGarry, Kathleen",
+      "family": "McGarry",
+      "given": "Kathleen"
+    }
+  ],
+  "authors_text": "Haider, Steven J.; McGarry, Kathleen",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0703-6",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0703-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0703-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0703-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

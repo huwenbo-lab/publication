@@ -1,0 +1,30 @@
+{
+  "title": "Using age and spatial flow structures in the indirect estimation of migration streams",
+  "abstract": "AbstractThis article outlines a formal model-based approach for inferring interregional age-specific migration streams in settings where such data are incomplete, inadequate, or unavailable. The estimation approach relies heavily on log-linear models, using them to impose some of the regularities exhibited by past age and spatial structures or to combine and borrow information drawn from other sources. The approach is illustrated using data from the 1990 and 2000 U.S. and Mexico censuses. nt]mis|This work was supported by the National Institute of Child Health and Human Development and the National Science Foundation. The authors are grateful to Virgilio Partida Bush for providing the data on Mexico, to Rick Rogers for his comments and suggestions on an earlier draft of this article, and to the three anonymous reviewers who suggested useful revisions.",
+  "authors": [
+    {
+      "raw": "Raymer, James",
+      "family": "Raymer",
+      "given": "James"
+    },
+    {
+      "raw": "Rogers, Andrei",
+      "family": "Rogers",
+      "given": "Andrei"
+    }
+  ],
+  "authors_text": "Raymer, James; Rogers, Andrei",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0016",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0016",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0016",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0016.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

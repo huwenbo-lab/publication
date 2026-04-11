@@ -1,0 +1,30 @@
+{
+  "title": "Adult mortality in sub-Saharan Africa: Evidence from demographic and health surveys",
+  "abstract": "Abstract This article reports levels, trends, and age patterns of adult mortality in 23 sub-Saharan Africa countries, based on the sibling histories and orphanhood data collected by the countries’ Demographic and Health Surveys. Adult mortality has risen sharply since HIV became prevalent, but the size and speed of the mortality increase varies greatly among countries. Excess mortality is concentrated among women aged 25–39 and among men aged 30–44. These data suggest that the increase in the number of men who die each year has exceeded somewhat the increase for women. It is time for a systematic attempt to reconcile the demographic and epidemiological evidence concerning AIDS in Africa.",
+  "authors": [
+    {
+      "raw": "Timæus, Ian M.",
+      "family": "Timæus",
+      "given": "Ian M."
+    },
+    {
+      "raw": "Jasseh, Momodou",
+      "family": "Jasseh",
+      "given": "Momodou"
+    }
+  ],
+  "authors_text": "Timæus, Ian M.; Jasseh, Momodou",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0037",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0037",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0037",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0037.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

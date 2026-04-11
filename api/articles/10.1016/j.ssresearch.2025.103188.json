@@ -1,0 +1,30 @@
+{
+  "title": "Tracking in context: Variation in the effects of reforms in the age at tracking on educational mobility",
+  "abstract": "Previous research found that increasing the age at first tracking in an education system increased educational mobility. This research has implicitly assumed that these effects do not vary across contexts. Contrary to this assumption, we develop two hypotheses predicting such variation. The first hypothesis predicts that changes in the age at tracking increase educational mobility more for larger than for smaller changes in the age at tracking. According to the second hypothesis, reforms in the age at tracking only increase educational mobility if they occur in societies which put a high emphasis on equality of opportunity as a policy aim. We test these hypotheses by estimating the effects of reforms in the age at tracking, which occurred in five European countries (Belgium, Denmark, Finland, France, and Italy) in the 20th century, on educational mobility. We use data from the European Social Survey (ESS) and the Survey of Health, Ageing and Retirement in Europe (SHARE). The effects of the reforms are identified using a regression discontinuity design (RDD). A third hypothesis tests if the reforms increase educational mobility more among women than among men and if this is particularly the case in countries with a more gender egalitarian climate. Overall, the results reveal little cross-country variation in the effects of reforms in the age at tracking on educational mobility. In all analyzed countries there is an increase in educational mobility due to the reform in the age at tracking. In most countries, these effects do not differ between men and women.",
+  "authors": [
+    {
+      "raw": "Gratz, Michael",
+      "family": "Gratz",
+      "given": "Michael"
+    },
+    {
+      "raw": "Heers, Marieke",
+      "family": "Heers",
+      "given": "Marieke"
+    }
+  ],
+  "authors_text": "Gratz, Michael; Heers, Marieke",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103188",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103188",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103188",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103188.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

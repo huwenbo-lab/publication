@@ -1,0 +1,30 @@
+{
+  "title": "Mental Health Around the Transition to First Birth: Does Medically Assisted Reproduction Matter?",
+  "abstract": "Previous research has shown that childbearing is associated with short-term improvements in women's subjective well-being but that these effects depend on the timing and quantum of the birth as well as on the parents' education and socioeconomic status. These studies did not address whether and, if so, how this effect varies according to the mode of conception. This represents an important knowledge gap, given that conceptions through medically assisted reproduction (MAR) have been increasing rapidly in recent decades, exceeding 5% of live births in some European countries. Drawing on nine waves (2009/2010-2017/2018) of the UK Household Longitudinal Study, we use distributed fixed -effects linear regression models to examine changes in women's mental health before, during, and after natural and MAR conceptions. The results show that the mental health of women who conceived naturally improved around the time of conception and then gradually returned to baseline levels; comparatively, the mental health of women who conceived through MAR declined in the year before pregnancy and then gradually recovered. The findings also indicate that women's happiness decreased both two years and one year before an MAR conception and then increased above the baseline in the year of pregnancy. We further show that the deterioration in mental health and subjective well-being before an MAR conception affects both partners, which could be part of a longer process in which the partners potentially suffer from stress related not solely to the MAR treatments themselves but also to the experience of subfertility.",
+  "authors": [
+    {
+      "raw": "Tosi, Marco",
+      "family": "Tosi",
+      "given": "Marco"
+    },
+    {
+      "raw": "Goisis, Alice",
+      "family": "Goisis",
+      "given": "Alice"
+    }
+  ],
+  "authors_text": "Tosi, Marco; Goisis, Alice",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9335177",
+  "doi_url": "https://doi.org/10.1215/00703370-9335177",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9335177",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9335177.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

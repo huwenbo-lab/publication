@@ -1,0 +1,40 @@
+{
+  "title": "Measuring Cohabitation in US National Surveys",
+  "abstract": "Cohabitation is one of the fastest growing family forms in the United States. It is widespread and continues to increase but has not been consistently measured across surveys. It is important to track the quality of data on cohabitation because it has implications for research on the correlates and consequences of cohabitation for adults and children. Recent rounds of the Current Population Survey (CPS), National Longitudinal Survey of Adolescent to Adult Health (Add Health), National Longitudinal Survey of Youth (NLSY-97), and National Survey of Family Growth (NSFG) provide an opportunity to contrast estimates of cohabitation status and experience using nationally representative data sets and assess the quality of data on cohabitation in these data sets. Results demonstrated that the surveys provide similar estimates of current cohabitation status, except the CPS resulted in lower estimates. In terms of cohabitation experience (i.e., having ever cohabited), Add Health produced higher estimates, whereas both the NSFG and NLSY-97 produced lower estimates. We documented a strong education gradient across all surveys, with lower levels of current cohabitation and cohabitating experience and with increases in educational attainment. Racial/ethnic differences in cohabitation were inconsistent across surveys. We discuss aspects of sampling and measurement that potentially explain differences in estimates. Our findings have implications not only for survey design but also for the interpretation of results based on these four national surveys.",
+  "authors": [
+    {
+      "raw": "Manning, Wendy D.",
+      "family": "Manning",
+      "given": "Wendy D."
+    },
+    {
+      "raw": "Joyner, Kara",
+      "family": "Joyner",
+      "given": "Kara"
+    },
+    {
+      "raw": "Hemez, Paul",
+      "family": "Hemez",
+      "given": "Paul"
+    },
+    {
+      "raw": "Cupka, Cassandra",
+      "family": "Cupka",
+      "given": "Cassandra"
+    }
+  ],
+  "authors_text": "Manning, Wendy D.; Joyner, Kara; Hemez, Paul; Cupka, Cassandra",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00796-0",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00796-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00796-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00796-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

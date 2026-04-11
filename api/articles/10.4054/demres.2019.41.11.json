@@ -1,0 +1,45 @@
+{
+  "title": "A framework for the prospective analysis of ethno-cultural super-diversity",
+  "abstract": "BACKGROUND Pressures to keep immigration rates at relatively high levels are likely to persist in most developed countries. At the same time, immigrant cohorts are becoming more and more diverse, leading host societies to become increasingly heterogeneous across multiple dimensions. For scholars who study demographic or socio-economic behaviours, the need to account for ethno-cultural super-diversity brings new challenges. OBJECTIVE The main objective of this paper is to present a framework for the prospective analysis of super-diversity in several high immigration countries. METHODS We developed microsimulation models that simultaneously project several population dimensions for Canada, the United States and countries of the European Union, with the aim of studying the consequences of alternate future population and migration trends. RESULTS The paper presents the projected progression of three indicators of diversity: percentage of foreign-born population, percentage of the population using a non-official language at home and percentage of non-Christians. It also examines the projected changes in the labour force by education levels and language. Using alternative scenarios, we also show that the proportion of highly educated in the US and EU28 labour force could increase by 11 and 15 percentage points respectively if future immigrants were selected as in Canada. Finally, the paper proposes a new longitudinal indicator that counts the number of years lived as active and inactive over the life course for foreign-and nativeborn cohorts. CONTRIBUTION The microsimulation models provide much more informative results than more traditional cohort-component models to study the future effects of ethno-cultural superdiversity on high immigration countries.",
+  "authors": [
+    {
+      "raw": "Belanger, Alain",
+      "family": "Belanger",
+      "given": "Alain"
+    },
+    {
+      "raw": "Sabourin, Patrick",
+      "family": "Sabourin",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Marois, Guillaume",
+      "family": "Marois",
+      "given": "Guillaume"
+    },
+    {
+      "raw": "Van Hook, Jennifer",
+      "family": "Van Hook",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Vezina, Samuel",
+      "family": "Vezina",
+      "given": "Samuel"
+    }
+  ],
+  "authors_text": "Belanger, Alain; Sabourin, Patrick; Marois, Guillaume; Van Hook, Jennifer; Vezina, Samuel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.11",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

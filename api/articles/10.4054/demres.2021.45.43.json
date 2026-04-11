@@ -1,0 +1,35 @@
+{
+  "title": "Gender division of housework during the COVID-19 pandemic: Temporary shocks or durable change?",
+  "abstract": "BACKGROUND First evidence shows that lockdown and confinement measures were associated with a more egalitarian gender division of housework in the United Kingdom. However, we know little about how the gender division of housework adjusted in different phases of the pandemic. OBJECTIVE We ask: (1) How did the gender division of housework change with the first national lockdown in March 2020? (2) Did observed changes persist when the lockdown measures were lifted or did couples revert to the gender division of housework observed before lockdown? METHODS We describe changes in the share of housework done by women before, during, and after the first lockdown using data from the Understanding Society COVID-19 study and employing fixed effects regression for couples with pre-school or school age children and couples without children living at home. RESULTS The lockdown measures affected the gender division of housework with differential effects by the age of the youngest child in the household. After the initial shock, couples with younger children and couples with school-age children reverted to their pre-pandemic gender division of housework. However, couples without children living at home sustained a more equal share of housework. CONCLUSIONS Like other shocks to the division of labor, couples tend to adapt to new circumstances, sustaining previous patterns of within household inequality. Initial signs of increasing gender equality at the start of the pandemic had already started to vanish for some by September 2020.",
+  "authors": [
+    {
+      "raw": "Sanchez, Alejandra Rodriguez",
+      "family": "Sanchez",
+      "given": "Alejandra Rodriguez"
+    },
+    {
+      "raw": "Fasang, Anette Eva",
+      "family": "Fasang",
+      "given": "Anette Eva"
+    },
+    {
+      "raw": "Harkness, Susan",
+      "family": "Harkness",
+      "given": "Susan"
+    }
+  ],
+  "authors_text": "Sanchez, Alejandra Rodriguez; Fasang, Anette Eva; Harkness, Susan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.43",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.43",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.43",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.43.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

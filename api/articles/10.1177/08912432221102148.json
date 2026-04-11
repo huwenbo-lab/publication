@@ -1,0 +1,25 @@
+{
+  "title": "Gender-Typed Skill Co-Occurrence and Occupational Sex Segregation: The Case of Professional Occupations in the United States, 2011–2015",
+  "abstract": "Studies of occupational sex segregation rely on the sociocultural model to explain why some occupations are numerically dominated by women and others by men. This model argues that occupational sex segregation is driven by norms about gender-appropriate work, which are frequently conceptualized as gender-typed skills: work-related tasks, abilities, and knowledge domains that society views as either feminine or masculine. The sociocultural model thus explains the primary patterns of occupational sex segregation, which conform to these norms: Requirements for feminine (masculine) skills increase with women’s (men’s) representation in the occupation. However, the model does not adequately explain cases of segregation that deviate from these norms or investigate the ways in which feminine and masculine skills co-occur in occupations. The present study fills these gaps by evaluating two previously untested explanations for deviations from the sociocultural model. The findings show that requirements for physical strength (a masculine skill) increase with women’s representation in professional occupations because physical strength skills co-occur with substantially higher requirements for feminine skills that involve helping and caring for others. These results indicate that the sociocultural model, and more generally explanations for how gender norms drive occupational sex segregation, can be improved by examining patterns of gender-typed skill co-occurrence.",
+  "authors": [
+    {
+      "raw": "Hsiung, Constance",
+      "family": "Hsiung",
+      "given": "Constance"
+    }
+  ],
+  "authors_text": "Hsiung, Constance",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2022,
+  "doi": "10.1177/08912432221102148",
+  "doi_url": "https://doi.org/10.1177/08912432221102148",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432221102148",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432221102148.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

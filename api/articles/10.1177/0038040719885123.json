@@ -1,0 +1,25 @@
+{
+  "title": "Measuring High School Curricular Intensity over Three Decades",
+  "abstract": "This article presents a new measure of curricular intensity that is objective, parsimonious, clearly defined, replicable, and comparable over time for use by researchers interested in examining trends, causes, and outcomes of high school course taking. After proposing a reduced-form version of Adelman's curricular intensity index comprised of number of courses completed in English and core science, highest math course completed, and whether students took at least one Advanced Placement course, I test the measure in four National Center for Education Statistics high school longitudinal studies using confirmatory factor analysis. I examine the methodological implications of the measure by conducting multigroup tests for invariance across cohorts to understand how curricular intensity changes over time and comparing the measure's predictive validity to that of alternative measures of course taking. I then examine substantive implications of the measure through analysis of trends and inequalities in curricular intensity. The four course-taking variables combined create a strong measure of curricular intensity across cohorts that performs as well as or better than Adelman's index in explaining variance in postsecondary outcomes and predicting postsecondary success. The measure accounts for shifts over time in the relative contribution of each course-taking variable to overall curricular intensity, facilitating more accurate comparisons across cohorts or data sets. I provide practical guidance for using the measure in other data sets, including state- and district-level data, to analyze overall trends and gaps in curricular intensity and its role in postsecondary success, and I discuss some potential uses of the measure for future research and policy.",
+  "authors": [
+    {
+      "raw": "Austin, Megan",
+      "family": "Austin",
+      "given": "Megan"
+    }
+  ],
+  "authors_text": "Austin, Megan",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2020,
+  "doi": "10.1177/0038040719885123",
+  "doi_url": "https://doi.org/10.1177/0038040719885123",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040719885123",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040719885123.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

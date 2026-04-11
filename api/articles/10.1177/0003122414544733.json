@@ -1,0 +1,30 @@
+{
+  "title": "Prenatal Exposure to Violence and Birth Weight in Mexico: Selectivity, Exposure, and Behavioral Responses",
+  "abstract": "This article examines the effect of maternal exposure to local homicides on birth weight. We create a monthly panel by merging all births in Mexico from 2008 to 2010 with homicide data at the municipality level. Findings from fixed-effects models indicate that exposure to homicides in the first trimester of gestation increases infant birth weight and reduces the proportion of low birth weight. The effect is not driven by fertility or migration responses to environmental violence. The mechanism driving this surprising positive effect appears to be an increase in mothers' health-enhancing behaviors (particularly the use of prenatal care) as a result of exposure to violence. The positive effect of homicide exposure is heterogeneous across socioeconomic status (SES). It is strong among low-SES women-but only those living in urban areas-and null among the most advantaged women. This variation suggests that behavioral responses to an increase in local homicides depend on a combination of increased vulnerability and access to basic resources that allow women to obtain prenatal care.",
+  "authors": [
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    },
+    {
+      "raw": "Villarreal, Andres",
+      "family": "Villarreal",
+      "given": "Andres"
+    }
+  ],
+  "authors_text": "Torche, Florencia; Villarreal, Andres",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122414544733",
+  "doi_url": "https://doi.org/10.1177/0003122414544733",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122414544733",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122414544733.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

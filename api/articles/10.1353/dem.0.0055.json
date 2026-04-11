@@ -1,0 +1,25 @@
+{
+  "title": "Proximate sources of population sex imbalance in india",
+  "abstract": "Abstract There is a population sex imbalance in India. Despite a consensus that this imbalance is due to excess female mortality, the specific source of this excess mortality remains poorly understood. I use microdata on child survival in India to analyze the proximate sources of the sex imbalance. I address two questions: when in life does the sex imbalance arise, and what health or nutritional investments are specifically responsible for its appearance? I present a new methodology that uses microdata on child survival. This methodology explicitly takes into account both the possibility of naturally occurring sex differences in survival and possible differences between investments in their importance for survival. Consistent with existing literature, I find significant excess female mortality in childhood, particularly between the ages of 1 and 5, and argue that the sex imbalance that exists by age 5 is large enough to explain virtually the entire imbalance in the population. Within this age group, sex differences in vaccinations explain between 20% and 30% of excess female mortality, malnutrition explains an additional 20%, and differences in treatment for illness play a smaller role. Together, these investments account for approximately 50% of the sex imbalance in mortality in India.",
+  "authors": [
+    {
+      "raw": "Oster, Emily",
+      "family": "Oster",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Oster, Emily",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0055",
+  "doi_url": "https://doi.org/10.1353/dem.0.0055",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0055",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0055.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

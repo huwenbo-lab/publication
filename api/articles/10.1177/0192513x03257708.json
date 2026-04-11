@@ -1,0 +1,30 @@
+{
+  "title": "Revisiting Jane Austen’s Theory of Marriage Timing",
+  "abstract": "This article examines union entrance among never-married young men, focusing on whether the importance of a man’s being economically established to marry has decreased in this new era of cohabitation and working wives. The authors test this assumption by examining marriage and cohabitation as competing risks to see whether the importance of employment has changed between the cohorts of the 1970s and 1990s. Data are from the National Survey of the Labor Force Experience of Young Men and the National Survey of Families and Households. The results show that Controlling cohabitation as a competing risk makes some difference in models of marriage, because marriage is somewhat more selective. More important changes reflect the decline in the importance of employment and the increased role of values. Indirect indicators, such as race, region, and childhood family structure, and direct measures of gender role attitudes have become critical influences on men’s likelihood of union formation.",
+  "authors": [
+    {
+      "raw": "Sassler, Sharon",
+      "family": "Sassler",
+      "given": "Sharon"
+    },
+    {
+      "raw": "Goldscheider, Frances",
+      "family": "Goldscheider",
+      "given": "Frances"
+    }
+  ],
+  "authors_text": "Sassler, Sharon; Goldscheider, Frances",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2004,
+  "doi": "10.1177/0192513x03257708",
+  "doi_url": "https://doi.org/10.1177/0192513x03257708",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x03257708",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x03257708.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

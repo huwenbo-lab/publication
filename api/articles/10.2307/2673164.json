@@ -1,0 +1,30 @@
+{
+  "title": "Suburban racial change and suburban school segregation, 1987-95",
+  "abstract": "The authors used panel data on enrollments in suburban public schools from 1987 to 1995 to explore the relationship between minority suburbanization and patterns of school segregation in suburban areas. Using fixed-effects regression models, they found that increases in suburban enrollment shares of black, Hispanic, and Asian students were strongly and positively related to increases in suburban segregation levels during the 1987-95 period. Moreover, changes in black segregation were predominantly related to changes in between-district (residential) suburban segregation, while changes in Hispanic and Asian segregation were related to a combination of between- and within-district segregation changes.",
+  "authors": [
+    {
+      "raw": "Reardon, SF",
+      "family": "Reardon",
+      "given": "SF"
+    },
+    {
+      "raw": "Yun, JT",
+      "family": "Yun",
+      "given": "JT"
+    }
+  ],
+  "authors_text": "Reardon, SF; Yun, JT",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2001,
+  "doi": "10.2307/2673164",
+  "doi_url": "https://doi.org/10.2307/2673164",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2673164",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2673164.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Studying individuals in same-sex couples using longitudinal administrative data from Canadian tax records: Opportunities and challenges",
+  "abstract": "BACKGROUND Quantitative research on the social, demographic, and economic outcomes of sexual minorities has long been hampered by data shortfalls, with most surveys and censuses limited by sample sizes and/or a lack of direct questions on sexual identity. The growing availability of administrative data presents an opportunity to fill some of these gaps. OBJECTIVE This article highlights the challenges and opportunities involved with using a novel administrative dataset - the Longitudinal Administrative Databank, which includes 20% of Canadian tax filers - to study sexual minority populations in Canada. We identify three sources of bias, propose strategies to adjust for this bias, and introduce a measure of inferred sexual minority status to improve the identification of sexual minorities in tax data. RESULTS Administrative tax data offers significant advantages, including a large sample size, high- quality income data for individuals and linked family members, a longitudinal design, and the ability to trace individuals' same-/different-sex partnership histories. Our adjustment strategies mitigate some biases in identifying same-sex couples, including underreporting, misclassification, and measurement errors. The estimated proportion of individuals in same-sex marriages closely aligns with Canadian census estimates from 2006-2021, while the proportion in same-sex common-law partnerships is underestimated. Finally, our earnings gaps analyses highlight the utility of the inferred sexual minority status measure. CONTRIBUTION This article contributes to research on sexual minority data landscapes, offering new insights into the identification and measures of sexual minority populations using longitudinal administrative tax data. Our approach points to new opportunities for studying the long-term longitudinal income and family dynamics of sexual minority populations on the national level.",
+  "authors": [
+    {
+      "raw": "Yang, Chih-lan Winnie",
+      "family": "Yang",
+      "given": "Chih-lan Winnie"
+    },
+    {
+      "raw": "Denier, Nicole",
+      "family": "Denier",
+      "given": "Nicole"
+    },
+    {
+      "raw": "St-Denis, Xavier",
+      "family": "St-Denis",
+      "given": "Xavier"
+    },
+    {
+      "raw": "Waite, Sean",
+      "family": "Waite",
+      "given": "Sean"
+    }
+  ],
+  "authors_text": "Yang, Chih-lan Winnie; Denier, Nicole; St-Denis, Xavier; Waite, Sean",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.2",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

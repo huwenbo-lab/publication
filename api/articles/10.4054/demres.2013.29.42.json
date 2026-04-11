@@ -1,0 +1,30 @@
+{
+  "title": "Register-based estimates of parents' coresidence in Sweden, 1969-2007",
+  "abstract": "Many of the dramatic changes in family formation and dissolution observed in wealthy countries over the past 60 years are tracked through vital statistics or censuses. The signature change in family behavior -- non-marital cohabitation -- is not, however,",
+  "authors": [
+    {
+      "raw": "Thomson, Elizabeth",
+      "family": "Thomson",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Eriksson, Helen",
+      "family": "Eriksson",
+      "given": "Helen"
+    }
+  ],
+  "authors_text": "Thomson, Elizabeth; Eriksson, Helen",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2013,
+  "doi": "10.4054/demres.2013.29.42",
+  "doi_url": "https://doi.org/10.4054/demres.2013.29.42",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2013.29.42",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2013.29.42.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Reputation Formation and the Evolution of Cooperation in Anonymous Online Markets",
+  "abstract": "Theoretical propositions stressing the importance of trust, reciprocity, and reputation for cooperation in social exchange relations are deeply rooted in classical sociological thought. Today's online markets provide a unique opportunity to test these theories using unobtrusive data. Our study investigates the mechanisms promoting cooperation in an online-auction market where most transactions can be conceived as one-time-only exchanges. We first give a systematic account of the theoretical arguments explaining the process of cooperative transactions. Then, using a large dataset comprising 14,627 mobile phone auctions and 339,517 DVD auctions, we test key hypotheses about the effects of traders' reputations on auction outcomes and traders' motives for leaving feedback. Our statistical analyses show that sellers with better reputations have higher sales and obtain higher prices. Furthermore, we observe a high rate of participation in the feedback system, which is largely consistent with strong reciprocity-a predisposition to unconditionally reward (or punish) one's interaction partner's cooperation (or defection)-and altruism-a predisposition to increase one's own utility by elevating an interaction partner's utility. Our study demonstrates how strong reciprocity and altruism can mitigate the free-rider problem in the feedback system to create reputational incentives for mutually beneficial online trade.",
+  "authors": [
+    {
+      "raw": "Diekmann, Andreas",
+      "family": "Diekmann",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Jann, Ben",
+      "family": "Jann",
+      "given": "Ben"
+    },
+    {
+      "raw": "Przepiorka, Wojtek",
+      "family": "Przepiorka",
+      "given": "Wojtek"
+    },
+    {
+      "raw": "Wehrli, Stefan",
+      "family": "Wehrli",
+      "given": "Stefan"
+    }
+  ],
+  "authors_text": "Diekmann, Andreas; Jann, Ben; Przepiorka, Wojtek; Wehrli, Stefan",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122413512316",
+  "doi_url": "https://doi.org/10.1177/0003122413512316",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122413512316",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122413512316.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

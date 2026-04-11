@@ -1,0 +1,40 @@
+{
+  "title": "Understanding the socio-economic distribution of multiple deprivation: An application of self-organising maps",
+  "abstract": "In this paper we seek to contribute to recent efforts to develop and implement multi-dimensional approaches to social exclusion by applying self-organising maps (SOMs) to a set of material deprivation indicators from the Irish component of EU-SILC. The first stage of our analysis involves the identification of sixteen clusters that confirm the multi-dimensional nature of deprivation in contemporary Ireland and the limitations of focusing solely on income. In going beyond this mapping stage, we consider both patterns of socio-economic differentiation in relation to cluster membership and the extent to which such membership contributes to our understanding of economic stress. Our analysis makes clear the continuing importance of traditional forms of stratification relating to factors such as income, social class and housing tenure in accounting for patterns of multiple deprivation. However, it also confirms the role of acute life events and life cycle and location influences. Most importantly, it demonstrates that conclusions relating to the relative impact of different kinds of socio-economic influences are highly dependent on the form of deprivation being considered. Our analysis suggests that debates relating to the extent to which poverty and social exclusion have become individualized should take particular care to distinguish between different kinds of outcomes. Further analysis demonstrates that the SOM approach is considerably more successful than a comparable latent class analysis in identifying those exposed to subjective economic stress. (C) 2010 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Whelan, Christopher T.",
+      "family": "Whelan",
+      "given": "Christopher T."
+    },
+    {
+      "raw": "Lucchini, Mario",
+      "family": "Lucchini",
+      "given": "Mario"
+    },
+    {
+      "raw": "Pisati, Maurizio",
+      "family": "Pisati",
+      "given": "Maurizio"
+    },
+    {
+      "raw": "Maitre, Bertrand",
+      "family": "Maitre",
+      "given": "Bertrand"
+    }
+  ],
+  "authors_text": "Whelan, Christopher T.; Lucchini, Mario; Pisati, Maurizio; Maitre, Bertrand",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2010,
+  "doi": "10.1016/j.rssm.2010.03.003",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2010.03.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2010.03.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2010.03.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

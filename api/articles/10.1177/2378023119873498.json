@@ -1,0 +1,30 @@
+{
+  "title": "Under the Radar: Simplifying the Representation of Latent Class Characteristics",
+  "abstract": "In this visualization, we demonstrate how to use radar plots to represent the class-specific posterior response probabilities from latent class analysis results. These plots allow for a simple representation of the class differences in the distributions across the modeled indicators. We demonstrate the utility of this approach with results from a published model of women’s employment and family life circumstances. In doing so, we demonstrate how to avoid some of the pitfalls common to radar plots and provide example code to allow other researchers to readily adapt this approach to present their own results.",
+  "authors": [
+    {
+      "raw": "adams, jimi",
+      "family": "adams",
+      "given": "jimi"
+    },
+    {
+      "raw": "Lippert, Adam M.",
+      "family": "Lippert",
+      "given": "Adam M."
+    }
+  ],
+  "authors_text": "adams, jimi; Lippert, Adam M.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119873498",
+  "doi_url": "https://doi.org/10.1177/2378023119873498",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119873498",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119873498.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

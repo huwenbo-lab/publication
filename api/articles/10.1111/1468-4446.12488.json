@@ -1,0 +1,30 @@
+{
+  "title": "Educational assortative mating: a micro-educational approach",
+  "abstract": "This article presents a new way of analysing educational assortative mating patterns, using a detailed 'micro-educational' classification capturing both hierarchical and horizontal forms of educational differentiation. Taking advantage of rich Danish population data, we apply log-linear models that include four ways of measuring educational homogamy patterns: (a) by returns to education, (b) by macro-education (five aggregated levels), (c) by field of study (16 categories), and (d) by a disaggregated micro-educational classification, combining levels and fields of study (54 groups). Our results show declines in educational homogamy from 1984 to 2013, but the odds ratios of being educationally homogamous at the university college and university levels remain of substantial magnitude, by both the macro- and micro-educational measures. The micro-educational classification outperforms all other measures in explaining the associations in the homogamy tables. The income measure ('returns to education') does a particularly poor job of explaining homogamy patterns from 1984 to 2013.",
+  "authors": [
+    {
+      "raw": "Andrade, Stefan B.",
+      "family": "Andrade",
+      "given": "Stefan B."
+    },
+    {
+      "raw": "Thomsen, Jens-Peter",
+      "family": "Thomsen",
+      "given": "Jens-Peter"
+    }
+  ],
+  "authors_text": "Andrade, Stefan B.; Thomsen, Jens-Peter",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2019,
+  "doi": "10.1111/1468-4446.12488",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12488",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12488",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12488.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

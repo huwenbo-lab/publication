@@ -1,0 +1,30 @@
+{
+  "title": "Educational reversals and first-birth timing in sub-Saharan Africa: A dynamic multilevel approach",
+  "abstract": "AbstractIn many areas throughout sub-Saharan Africa, young adult cohorts are less educated than their predecessors because of declines in school enrollments during the 1980s and 1990s. Because a woman with little education typically becomes a mother earlier and has more children than one with better education, and because of a similar well-established relationship between current education and current fertility at the societal level, one might expect such education reversals to raise fertility. However, if there is an additional negative effect of low educational level among currently young women compared with that in the past, which would accord with ideas about the impact of relative deprivation, the total effect of an education reversal may run in either direction. This possibility has not been explored in earlier studies, which have taken a more static approach. We focus on the initiation of childbearing. Using Demographic and Health Survey data from 16 sub-Saharan African countries with multiple surveys, we estimate a fixed-effects multilevel model for first births that includes the woman’s own education, community education, and community education relative to the past. There are negative effects of individual and community education, but no effect of relative education. Thus we conclude that education reversals do seem to speed up entry into parenthood.",
+  "authors": [
+    {
+      "raw": "Derose, Laurie F.",
+      "family": "Derose",
+      "given": "Laurie F."
+    },
+    {
+      "raw": "Kravdal, Øystein",
+      "family": "Kravdal",
+      "given": "Øystein"
+    }
+  ],
+  "authors_text": "Derose, Laurie F.; Kravdal, Øystein",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0001",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

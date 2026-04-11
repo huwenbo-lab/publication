@@ -1,0 +1,30 @@
+{
+  "title": "National Crimes: A New National Data Set of Lynchings in the United States, 1883 to 1941",
+  "abstract": "Historians are increasingly studying lynching outside of the American Southeast, but sociologists have been slow to follow. We introduce a new public data set that extends existing data on lynching victims to cover the contiguous United States from 1883 to 1941. These data confirm that lynching was a heterogeneous practice across the United States. We differentiate between three different regimes over this period: a Wild West regime, characterized mostly by the lynching of whites in areas with weak state penetration; a slavery regime, found in former slave states, characterized mostly by the lynching of blacks; and a third minor regime, characterized by the lynching of Mexican nationals mostly along the Texas-Mexico border. We also note great variability at the county level in the extent of lynching. By contrast, we find very little state-level variability in lynching once local and regional regimes are considered. We discuss the implications of local and regional heterogeneity for quantitative lynching research using these data.",
+  "authors": [
+    {
+      "raw": "Seguin, Charles",
+      "family": "Seguin",
+      "given": "Charles"
+    },
+    {
+      "raw": "Rigby, David",
+      "family": "Rigby",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Seguin, Charles; Rigby, David",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119841780",
+  "doi_url": "https://doi.org/10.1177/2378023119841780",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119841780",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119841780.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

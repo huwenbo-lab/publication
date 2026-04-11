@@ -1,0 +1,30 @@
+{
+  "title": "Divergent Pathways on the Road to Sustainability: A Multilevel Model of the Effects of Geopolitical Power on the Relationship between Economic Growth and Environmental Quality",
+  "abstract": "The authors examine the effect of a country’s placement in the world system in 1960 on its ability to use wealth to mitigate environmental impacts. They use random-coefficients models to examine if countries belonging to core, semiperiphery, and periphery categories are able to use growth in gross domestic product (GDP) per capita to reduce CO2 emissions per capita. The findings indicate that core nations have an attenuated relationship between GDP per capita and carbon dioxide emissions per capita at higher levels of economic activity. However, nations in the semiperiphery have a relationship between GDP per capita and CO2 per capita that approximates the curve of a U. Furthermore, the authors highlight the ability of random-coefficients models to examine which levels of analysis variation in the dependent variable is most associated with. They find that the majority of variation in CO2 emissions is correlated with time-invariant variables, not with time-variant predictors, such as GDP.",
+  "authors": [
+    {
+      "raw": "Greiner, Patrick Trent",
+      "family": "Greiner",
+      "given": "Patrick Trent"
+    },
+    {
+      "raw": "McGee, Julius Alexander",
+      "family": "McGee",
+      "given": "Julius Alexander"
+    }
+  ],
+  "authors_text": "Greiner, Patrick Trent; McGee, Julius Alexander",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023117749381",
+  "doi_url": "https://doi.org/10.1177/2378023117749381",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023117749381",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023117749381.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

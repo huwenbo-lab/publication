@@ -1,0 +1,35 @@
+{
+  "title": "How Political Dynasties Concentrate Advantage within Cities: Evidence from Crime and City Services in Chicago",
+  "abstract": "Classic models of urban inequality acknowledge the importance of politics for resource distribution and service provision. Yet, contemporary studies of spatial inequality rarely measure politics directly. In this paper, we introduce political dynasties as a way of integrating political economy approaches with ecological theory to better understand the political construction of urban spatial inequality. To do so, we examine the case of political dynasties within the Chicago city council. We show that, from 2011 to 2018, blocks in dynastic wards saw fewer homicides, assaults, robberies, and thefts relative to those in non-dynastic wards. We then leverage the 2015 ward redistricting to provide evidence that dynastic effects play some role in producing these outcomes: blocks annexed into dynastic wards experienced a decline in assaults and robberies and an increase in pothole coverings. While dynastic politicians improve outcomes for blocks they annex, they also withdraw power from those they displace; and displaced blocks had relatively higher levels of crime than annexed blocks in 2015. Taken together, our findings provide evidence that dynastic politicians are contributing to spatial inequalities within Chicago.",
+  "authors": [
+    {
+      "raw": "Ternullo, Stephanie",
+      "family": "Ternullo",
+      "given": "Stephanie"
+    },
+    {
+      "raw": "Zorro-Medina, Angela",
+      "family": "Zorro-Medina",
+      "given": "Angela"
+    },
+    {
+      "raw": "Vargas, Robert",
+      "family": "Vargas",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Ternullo, Stephanie; Zorro-Medina, Angela; Vargas, Robert",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae029",
+  "doi_url": "https://doi.org/10.1093/sf/soae029",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae029",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae029.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

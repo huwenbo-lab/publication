@@ -1,0 +1,25 @@
+{
+  "title": "Relationship Between Mobile Penetration Rate and Divorce Rate in Iran During 1995-2019: A Time-Series Study",
+  "abstract": "Mobile media, which comprise the main features of other media, can potentially influence many social issues. This time-series study aims to investigate the relationship between the mobile penetration rate and the growing divorce rate in Iran from 1995 to 2019. To specify the relationship, women's participation in the labor force as a powerful social variable affecting the divorce rate was considered and modeled in the analysis. More specifically, the autoregressive distributed lag (ARDL) method was employed to measure the short and long-term relationships. The results indicated a significant positive relationship between the mobile penetration rate and the divorce rate in both short- and long-term periods; however, women's participation in the labor force was not associated with the divorce rate.",
+  "authors": [
+    {
+      "raw": "Ahmadi, Siroos",
+      "family": "Ahmadi",
+      "given": "Siroos"
+    }
+  ],
+  "authors_text": "Ahmadi, Siroos",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2022,
+  "doi": "10.1177/0192513x211038066",
+  "doi_url": "https://doi.org/10.1177/0192513x211038066",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x211038066",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x211038066.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

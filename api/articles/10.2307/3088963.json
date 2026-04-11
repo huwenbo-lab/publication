@@ -1,0 +1,35 @@
+{
+  "title": "Organizational size and pollution: The case of the US chemical industry",
+  "abstract": "In their recent efforts to uncover the social structural causes of pollution, sociologists have explored the environmental effects of such factors as urbanization, modernization, class hierarchies, long economic cycles, and the world-system. However they have yet to study what some consider to be the most intensive and effective environmental destroyer of all-organizations-and the effects of their structures. This paper proposes a new line of research that focuses on whether variations in pollution rates are associated with variations in organizational characteristics. As a first step toward developing this new approach, the authors investigate the effects of the organizational size of chemical plants on the rate of toxic emissions. Using data from the Environmental Protection Agency's Toxics Release Inventory, results show that large chemical plants emit toxins at a significantly higher rate than do small plants, especially if they are embedded in a wider corporate structure (i.e., they are also branch plants or owned by a major firm). Implications for future research on the structural determinants of pollution are discussed.",
+  "authors": [
+    {
+      "raw": "Grant, DS",
+      "family": "Grant",
+      "given": "DS"
+    },
+    {
+      "raw": "Jones, AW",
+      "family": "Jones",
+      "given": "AW"
+    },
+    {
+      "raw": "Bergesen, AJ",
+      "family": "Bergesen",
+      "given": "AJ"
+    }
+  ],
+  "authors_text": "Grant, DS; Jones, AW; Bergesen, AJ",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2002,
+  "doi": "10.2307/3088963",
+  "doi_url": "https://doi.org/10.2307/3088963",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088963",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088963.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Fewer children, better futures: How war shapes family choices",
+  "abstract": "BACKGROUND Most research on the demographic impact of war focuses on how highly disruptive conflicts impact family life, often overlooking how less destructive wars shape family strategies. Understanding family adaptation in these contexts is essential for a nuanced view of war's demographic effects. OBJECTIVE This study examines whether exposure to the Spanish Civil War (SCW) led families with reproductive flexibility to shift from larger families to a greater investment in childhood quality. METHODS We use retrospective microdata from the 1991 Spanish Sociodemographic Survey, applying regression discontinuity designs to exploit variation in exposure to the SCW by birth cohort and provincial violence intensity. Outcomes analyzed include sibship size, child labor, and early child mortality. RESULTS Exposure to the SCW reduced family size and improved child outcomes-less child labor and reduced early child mortality-especially among families with greater reproductive flexibility and in high-violence provinces. Robustness checks confirm that these effects are not driven by modernization and other secular trends. CONCLUSIONS When children are not explicit targets of violence and families retain certain agency, wars can prompt a strategic shift toward fewer, better-supported children. These adaptive responses concentrate among families able to adjust their reproductive plans and in areas most affected by violence.",
+  "authors": [
+    {
+      "raw": "Boado, Hector Cebolla",
+      "family": "Boado",
+      "given": "Hector Cebolla"
+    },
+    {
+      "raw": "Manzano, Dulce",
+      "family": "Manzano",
+      "given": "Dulce"
+    }
+  ],
+  "authors_text": "Boado, Hector Cebolla; Manzano, Dulce",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.35",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.35",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.35",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.35.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

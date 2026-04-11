@@ -1,0 +1,40 @@
+{
+  "title": "The Impact of Concentrations of Religious Denominational Affiliations on the Rate of Currently Divorced in Counties in the United States",
+  "abstract": "This study examines the question Does the rate of currently divorced in counties in the United States vary inversely to the relative percentage of concentration of adherents of seven different religious denominational groupings—Catholic, Jewish, Mormon, conservative Protestant, moderate Protestant, liberal Protestant, and miscellaneous Protestant—within those counties? The analysis is based on data from the 1990 U.S. Census and the Glenmary Research Center that pertain to a 20% random sample of counties from each of the 50 states (i.e., 621 counties). The results show, controlling for other selected variables known to be associated with the likelihood of divorce, that higher divorced rates are significantly related to a lower concentration of moderate Protestants, miscellaneous Protestants, Catholics, and Mormons.",
+  "authors": [
+    {
+      "raw": "Mullins, Larry C.",
+      "family": "Mullins",
+      "given": "Larry C."
+    },
+    {
+      "raw": "Brackett, Kimberly P.",
+      "family": "Brackett",
+      "given": "Kimberly P."
+    },
+    {
+      "raw": "Bogie, Donald W.",
+      "family": "Bogie",
+      "given": "Donald W."
+    },
+    {
+      "raw": "Pruett, Daniel",
+      "family": "Pruett",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Mullins, Larry C.; Brackett, Kimberly P.; Bogie, Donald W.; Pruett, Daniel",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2006,
+  "doi": "10.1177/0192513x06287185",
+  "doi_url": "https://doi.org/10.1177/0192513x06287185",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x06287185",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x06287185.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

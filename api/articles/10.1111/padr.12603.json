@@ -1,0 +1,30 @@
+{
+  "title": "Trends in Living Arrangements Around the World",
+  "abstract": "Most people coreside with other kin in private households while others live alone. The incidence of coresidence with kin and solo living varies noticeably across societies. Scholars have long theorized about the role of modernization and cultural change for living arrangements, suggesting a trend toward the nuclearization of households (coresidence only with primary kin) or solo living as societies attain higher levels of development. There is little empirical evidence about global variations in living arrangements and about how such variations unfold at different levels of development. Here we address these fundamental questions. Using IPUMS census microdata for 279 samples and 90 countries, we develop a new metric for assessing the part of the lifetime a person can expect to reside with primary kin, nonprimary kin, or alone assuming exposure rates, from birth to death, to the living arrangements observed in a given year. Results show that coresidence patterns differ substantially across societies, with exposure to primary kin alone and to solo living substantially higher at higher levels of development (as measured with Human Development Index [HDI]). They also reveal a sustained decline in coresidence with nonprimary kin and/or with others nearly everywhere, supporting the idea of an increasing importance of nuclear living arrangements. This trend is most pronounced at medium levels of HDI. At very high levels of development, nuclear family coresidence tends to be stalling or is in decline in favor of more time spent living alone and, rather unexpectedly, to a modest increase in exposure to nonprimary kin within the household. We suggest different interpretations for these results.",
+  "authors": [
+    {
+      "raw": "Esteve, Albert",
+      "family": "Esteve",
+      "given": "Albert"
+    },
+    {
+      "raw": "Reher, David S.",
+      "family": "Reher",
+      "given": "David S."
+    }
+  ],
+  "authors_text": "Esteve, Albert; Reher, David S.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12603",
+  "doi_url": "https://doi.org/10.1111/padr.12603",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12603",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12603.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

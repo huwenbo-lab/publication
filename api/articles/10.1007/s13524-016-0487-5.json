@@ -1,0 +1,30 @@
+{
+  "title": "Birds of a Feather: Social Bases of Neighborhood Formation in Newark, New Jersey, 1880",
+  "abstract": "This study examines the bases of residential segregation in a late nineteenth century American city, recognizing the strong tendency toward homophily within neighborhoods. Our primary question is how ethnicity, social class, nativity, and family composition affect where people live. Segregation is usually studied one dimension at a time, but these social differences are interrelated, and thus a multivariate approach is needed to understand their effects. We find that ethnicity is the main basis of local residential sorting, while occupational standing and, to a lesser degree, family life cycle and nativity also are significant. A second concern is the geographic scale of neighborhoods: in this study, the geographic area within which the characteristics of potential neighbors matter in locational outcomes of individuals. Studies of segregation typically use a single spatial scale, often one determined by the availability of administrative data. We take advantage of a unique data set containing the address and geo-referenced location of every resident. We conclude that it is the most local scale that offers the best prediction of people's similarity to their neighbors. Adding information at larger scales minimally improves prediction of the person's location. The 1880 neighborhoods of Newark, New Jersey, were formed as individuals located themselves among similar neighbors on a single street segment.",
+  "authors": [
+    {
+      "raw": "Logan, John R.",
+      "family": "Logan",
+      "given": "John R."
+    },
+    {
+      "raw": "Shin, Hyoung-jin",
+      "family": "Shin",
+      "given": "Hyoung-jin"
+    }
+  ],
+  "authors_text": "Logan, John R.; Shin, Hyoung-jin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0487-5",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0487-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0487-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0487-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

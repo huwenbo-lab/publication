@@ -1,0 +1,30 @@
+{
+  "title": "What is Segregation?",
+  "abstract": "Measures of inequality form the backdrop to a variety of sociological investigations, allowing the description of gaps in opportunity by occupational class, gender or ethnicity, for example, and of trends in these differences over time and place. These preliminary descriptive patterns can then be explored in more detail to uncover their socio-economic determinants, leading to the reduction of inequality. However, it has become clear from the ‘index wars’ dating back to at least the 1930s that measuring inequality is not a simple issue. To some extent the results obtained in an investigation and, therefore, the definition of further problems to be explored, are dependent on the precise nature of the measures used. This paper concentrates on measures of segregation. It considers a number of the methods available to the analyst concerned with the patterns of spread of socio-economic disadvantage between institutions. It focuses on measures of evenness and exposure, rehearsing the relative advantages of each approach and showing how closely related they are in practice. It introduces for the first time the notions of strong and weak compositional invariance, showing that some common indices of segregation, such as the dissimilarity index, display only weak compositional invariance. It therefore advocates the use instead, in appropriate circumstances, of the precise exchange proportion, termed here the ‘segregation index’. This has been developed and used successfully in our long-term study of the changing socio-economic composition of schools in the UK.",
+  "authors": [
+    {
+      "raw": "Gorard, Stephen",
+      "family": "Gorard",
+      "given": "Stephen"
+    },
+    {
+      "raw": "Taylor, Chris",
+      "family": "Taylor",
+      "given": "Chris"
+    }
+  ],
+  "authors_text": "Gorard, Stephen; Taylor, Chris",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2002,
+  "doi": "10.1177/003803850203600405",
+  "doi_url": "https://doi.org/10.1177/003803850203600405",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003803850203600405",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003803850203600405.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

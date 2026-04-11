@@ -1,0 +1,25 @@
+{
+  "title": "Variance in age at death equals average squared remaining life expectancy at death",
+  "abstract": "Variance in life span 2 and life expectancy lost due to death e are important demographic indicators of life disparity.",
+  "authors": [
+    {
+      "raw": "Wrycza, Tomasz",
+      "family": "Wrycza",
+      "given": "Tomasz"
+    }
+  ],
+  "authors_text": "Wrycza, Tomasz",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2014,
+  "doi": "10.4054/demres.2014.30.50",
+  "doi_url": "https://doi.org/10.4054/demres.2014.30.50",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2014.30.50",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2014.30.50.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

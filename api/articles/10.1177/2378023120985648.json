@@ -1,0 +1,25 @@
+{
+  "title": "Income Inequality, Social Comparison, and Happiness in the United States",
+  "abstract": "Using social comparison theory, I investigate the relation between experienced happiness and income inequality. In the analysis, I study happiness effects of the individual-level within-gender-ethnicity comparison-based Gini index conditional on a state’s overall inequality, using a linked set of the March 2013 Current Population Survey and the 2013 American Time Use Survey data while controlling major potential confounders. The findings suggest that individuals who are positioned to conduct both upward and downward comparison would feel happier in states where overall income inequality is high. In states where inequality is not high, however, such effects are not present because social comparison becomes less meaningful when one’s position is not as clearly definable. Therefore, social comparison matters where inequality persists: One’s comparison with all similar others’ in the income distribution in a social environment determines the effect of one’s income on happiness, with the comparison target being the same gender-ethnic group.",
+  "authors": [
+    {
+      "raw": "Liao, Tim Futing",
+      "family": "Liao",
+      "given": "Tim Futing"
+    }
+  ],
+  "authors_text": "Liao, Tim Futing",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/2378023120985648",
+  "doi_url": "https://doi.org/10.1177/2378023120985648",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120985648",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120985648.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

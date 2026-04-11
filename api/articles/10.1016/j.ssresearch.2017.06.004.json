@@ -1,0 +1,35 @@
+{
+  "title": "Intergenerational transmission of parent-child relationship quality: Evidence from a multi-actor survey",
+  "abstract": "Intergenerational transmission is a long-standing interest of social science research. However, little attention has been devoted to the study of transmission of relationship quality between several generations of family members. Exploiting multigenerational multi-actor data from the German Family Panel (pairfam), we estimate multilevel models to investigate whether, in three-generation families, relationship quality between the middle generation and the oldest (that is, grandparent) generation predicts relationship quality between the youngest generation of adolescent children and the middle generation. Our results reveal evidence of intergenerational transmission of emotional closeness, conflict, and ambivalence. Transmission was more consistently observed when emanating from ties to grandfathers than from ties to grandmothers. A hypothesis concerning differences in the strength of transmission between East Germany and West Germany found no support. The paper concludes with a discussion of limitations and perspectives for future research. (C) 2017 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Hank, Karsten",
+      "family": "Hank",
+      "given": "Karsten"
+    },
+    {
+      "raw": "Salzburger, Veronika",
+      "family": "Salzburger",
+      "given": "Veronika"
+    },
+    {
+      "raw": "Silverstein, Merril",
+      "family": "Silverstein",
+      "given": "Merril"
+    }
+  ],
+  "authors_text": "Hank, Karsten; Salzburger, Veronika; Silverstein, Merril",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2017.06.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.06.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.06.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.06.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

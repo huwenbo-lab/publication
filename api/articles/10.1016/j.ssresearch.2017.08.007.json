@@ -1,0 +1,35 @@
+{
+  "title": "Studying neighborhood crime across different macro spatial scales: The case of robbery in 4 cities",
+  "abstract": "Whereas there is a burgeoning literature focusing on the spatial distribution of crime events across neighborhoods or micro-geographic units in a specific city, the present study expands this line of research by selecting four cities that vary across two macro-spatial dimensions: population in the micro-environment, and population in the broader macro-environment. We assess the relationship between measures constructed at different spatial scales and robbery rates in blocks in four cities: 1) San Francisco (high in micro- and macro-environment population); 2) Honolulu (high in micro- but low in macro-environment population); 3) Los Angeles (low in micro- but high in macro environment population); 4) Sacramento (low in micro- and macro-environment population). Whereas the socio-demographic characteristics of residents further than 1/2 mile away do not impact robbery rates, the number of people up to 2.5 miles away are related to robbery rates, especially in the two cities with smaller micro-environment population, implying a larger spatial scale than is often considered. The results show that coefficient estimates differ somewhat more between cities differing in micro-environment population compared to those differing based on macro-environment population. It is therefore necessary to consider the broader macro-environment even when focusing on the level of crime across neighborhoods or micro-geographic units within an area. (C) 2017 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Hipp, John R.",
+      "family": "Hipp",
+      "given": "John R."
+    },
+    {
+      "raw": "Wo, James C.",
+      "family": "Wo",
+      "given": "James C."
+    },
+    {
+      "raw": "Kim, Young-An",
+      "family": "Kim",
+      "given": "Young-An"
+    }
+  ],
+  "authors_text": "Hipp, John R.; Wo, James C.; Kim, Young-An",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2017.08.007",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.08.007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.08.007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.08.007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

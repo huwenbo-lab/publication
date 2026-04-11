@@ -1,0 +1,30 @@
+{
+  "title": "Timing of early childcare take-up in Germany: An application of rational choice theory",
+  "abstract": "Objective This study investigates some of the mechanisms, which may explain social inequalities in the usage of early childhood education and care (ECEC) by focusing on a recently born child cohort born in Germany, a universal childcare regime. Background Research recognizes rational cost-benefit considerations as important for understanding social inequalities in educational decisions. Yet, given data limitations, we know relatively little about how these considerations are associated with inequalities in ECEC take-up. Thus, we model the decision to use ECEC as a rational cost-benefit investment strategy, which simultaneously affects the human capital of mothers and children. Method We test our assumptions with data from the newborn cohort of the National Educational Panel Study (NEPS), estimating the timing of first entry into ECEC, using discrete-time event history models (N = 3257). Results Results indicate that cost-benefit calculations are relevant for the timing of ECEC take-up, but do not explain social differences. Mothers who perceive ECEC as an investment in child development, and as an opportunity to maintain their own employment status use ECEC earlier. This association is particularly pronounced for more highly educated mothers. Conclusion Findings highlight mothers' awareness of future educational returns for ECEC decisions. Additionally, they illustrate the importance of the cultural and structural context for these decisions.",
+  "authors": [
+    {
+      "raw": "Steinberg, Hannah Sinja",
+      "family": "Steinberg",
+      "given": "Hannah Sinja"
+    },
+    {
+      "raw": "Kleinert, Corinna",
+      "family": "Kleinert",
+      "given": "Corinna"
+    }
+  ],
+  "authors_text": "Steinberg, Hannah Sinja; Kleinert, Corinna",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12825",
+  "doi_url": "https://doi.org/10.1111/jomf.12825",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12825",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12825.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

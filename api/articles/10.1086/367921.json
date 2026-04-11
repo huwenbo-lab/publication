@@ -1,0 +1,35 @@
+{
+  "title": "Explaining spatial variation in support for capital punishment: A multilevel analysis",
+  "abstract": "This research examines the effects of social context on support for the death penalty using individual-level data from the 1974-98 General Social Survey (GSS), which have been linked with aggregate-level data on homicide rates and sociodemographic, political, and economic characteristics. Consistent with instrumental, social threat, and constructionist perspectives, this study finds that residents of areas with higher homicide rates, a larger proportion of blacks, and a more conservative political climate are significantly more likely to support the death penalty, net of compositional differences. These results warrant further attention to contextual and individual sources of public support for the death penalty.",
+  "authors": [
+    {
+      "raw": "Baumer, EP",
+      "family": "Baumer",
+      "given": "EP"
+    },
+    {
+      "raw": "Messner, SF",
+      "family": "Messner",
+      "given": "SF"
+    },
+    {
+      "raw": "Rosenfeld, R",
+      "family": "Rosenfeld",
+      "given": "R"
+    }
+  ],
+  "authors_text": "Baumer, EP; Messner, SF; Rosenfeld, R",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2003,
+  "doi": "10.1086/367921",
+  "doi_url": "https://doi.org/10.1086/367921",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F367921",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/367921.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

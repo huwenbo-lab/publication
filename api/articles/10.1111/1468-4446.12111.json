@@ -1,0 +1,25 @@
+{
+  "title": "Capital in the twenty‐first century: a critique",
+  "abstract": "AbstractI set out and explain Piketty's model of the dynamics of capitalism based on two equations and the r > g inequality (his central contradiction of capitalism). I then take issue with Piketty's analysis of the rebuilding of inequality from the 1970s to the present on three grounds: First, his model is based on the (neo‐classical) assumption that companies are essentially passive actors who invest the amount savers choose to accumulate at equilibrium output – leading to the counterintuitive result that companies respond to the secular fall in growth (and hence their product markets) from the 1970s on by increasing their investment relative to output; this does indeed imply increased inequality on Piketty's β measure, the ratio of capital to output. I suggest a more realistic model in which businesses determine investment growth based on their expectations of output growth, with monetary policy bringing savings into line with business‐determined investment; the implication of this model is that β does not change at all. And in fact as other recent empirical work which I reference has noted, β has not changed significantly over these recent decades. Hence Piketty's central analysis of the growth of contemporary inequality requires rethinking. Second, despite many references to the need for political economic analysis, Piketty's analysis of the growth of inequality in the period from the 1970s to the present is almost devoid of it, his explanatory framework being purely mathematical. I sketch what a political economic framework might look like during a period when politics was central to inequality. Third, inequality in fact rose on a variety of dimensions apart from β (including poverty which Piketty virtually makes no reference to in this period), but it is unclear what might explain why inequality rose in these other dimensions.",
+  "authors": [
+    {
+      "raw": "Soskice, David",
+      "family": "Soskice",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Soskice, David",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2014,
+  "doi": "10.1111/1468-4446.12111",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12111",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12111",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12111.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

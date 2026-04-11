@@ -1,0 +1,30 @@
+{
+  "title": "Gender Pay Gap and Employment Sector: Sources of Earnings Disparities in the United States, 1970–2010",
+  "abstract": "AbstractUsing data from the IPUMS-USA, the present research focuses on trends in the gender earnings gap in the United States between 1970 and 2010. The major goal of this article is to understand the sources of the convergence in men’s and women’s earnings in the public and private sectors as well as the stagnation of this trend in the new millennium. For this purpose, we delineate temporal changes in the role played by major sources of the gap. Several components are identified: the portion of the gap attributed to gender differences in human-capital resources; labor supply; sociodemographic attributes; occupational segregation; and the unexplained portion of the gap. The findings reveal a substantial reduction in the gross gender earnings gap in both sectors of the economy. Most of the decline is attributed to the reduction in the unexplained portion of the gap, implying a significant decline in economic discrimination against women. In contrast to discrimination, the role played by human capital and personal attributes in explaining the gender pay gap is relatively small in both sectors. Differences between the two sectors are not only in the size and pace of the reduction but also in the significance of the two major sources of the gap. Working hours have become the most important factor with respect to gender pay inequality in both sectors, although much more dominantly in the private sector. The declining gender segregation may explain the decreased impact of occupations on the gender pay gap in the private sector. In the public sector, by contrast, gender segregation still accounts for a substantial portion of the gap. The findings are discussed in light of the theoretical literature on sources of gender economic inequality and in light of the recent stagnation of the trend.",
+  "authors": [
+    {
+      "raw": "Mandel, Hadas",
+      "family": "Mandel",
+      "given": "Hadas"
+    },
+    {
+      "raw": "Semyonov, Moshe",
+      "family": "Semyonov",
+      "given": "Moshe"
+    }
+  ],
+  "authors_text": "Mandel, Hadas; Semyonov, Moshe",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0320-y",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0320-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0320-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0320-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Effect of Childhood Family Size on Fertility in Adulthood: New Evidence From IV Estimation",
+  "abstract": "Although fertility is positively correlated across generations, the causal effect of children's experience with larger sibships on their own fertility in adulthood is poorly understood. With the sex composition of the two firstborn children as an instrumental variable, we estimate the effect of sibship size on adult fertility using high-quality data from Norwegian administrative registers. Our study sample is all firstborns or second-borns during the 1960s in Norwegian families with at least two children (approximately 110,000 men and 104,000 women). An additional sibling has a positive effect on male fertility, mainly causing them to have three children themselves, but has a negative effect on female fertility at the same margin. Investigation into mediators reveals that mothers of girls shift relatively less time from market to family work when an additional child is born. We speculate that this scarcity in parents' time makes girls aware of the strains of life in large families, leading them to limit their own number of children in adulthood.",
+  "authors": [
+    {
+      "raw": "Cools, Sara",
+      "family": "Cools",
+      "given": "Sara"
+    },
+    {
+      "raw": "Hart, Rannveig Kaldager",
+      "family": "Hart",
+      "given": "Rannveig Kaldager"
+    }
+  ],
+  "authors_text": "Cools, Sara; Hart, Rannveig Kaldager",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-016-0537-z",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0537-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0537-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0537-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

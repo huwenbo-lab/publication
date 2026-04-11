@@ -1,0 +1,25 @@
+{
+  "title": "Exploring the Fetal Origins Hypothesis Using Genetic Data",
+  "abstract": "Birth weight is a robust predictor of valued life course outcomes, emphasizing the importance of prenatal development. But does birth weight act as a proxy for environmental conditions in utero, or do biological processes surrounding birth weight themselves play a role in healthy development? To answer this question, we leverage variation in birth weight that is, within families, orthogonal to prenatal environmental conditions: one's genes. We construct polygenic scores in two longitudinal studies (Born in Bradford, N = 2008; Wisconsin Longitudinal Study, N = 8488) to empirically explore the molecular genetic correlates of birth weight. A 1 standard deviation increase in the polygenic score is associated with an similar to 100-grams increase in birth weight and a 1.4 pp (22 percent) decrease in low birth weight probability. Sibling comparisons illustrate that this association largely represents a causal effect. The polygenic score-birth weight association is increased for children who spend longer in the womb and whose mothers have higher body mass index, though we find no differences across maternal socioeconomic status. Finally, the polygenic score affects social and cognitive outcomes, suggesting that birth weight is itself related to healthy prenatal development.",
+  "authors": [
+    {
+      "raw": "Trejo, Sam",
+      "family": "Trejo",
+      "given": "Sam"
+    }
+  ],
+  "authors_text": "Trejo, Sam",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae018",
+  "doi_url": "https://doi.org/10.1093/sf/soae018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

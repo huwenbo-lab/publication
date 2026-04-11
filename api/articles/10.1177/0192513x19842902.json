@@ -1,0 +1,30 @@
+{
+  "title": "Parenting While Food Insecure: Links Between Adult Food Insecurity, Parenting Aggravation, and Children's Behaviors",
+  "abstract": "Parents who experience food insecurity face not only uncertainty in obtaining food, but an invisible emotional burden, one that can potentially influence both their parenting behaviors and ultimately, their children. In our study, we investigated adult food insecurity's link to parents' aggravation and whether that aggravation influenced their children's behaviors. Results, based on data from the Early Childhood Longitudinal Survey, Kindergarten Class of 2010-2011 using first-difference regression, showed that parents (N = 7,820) of first graders who became food insecure experienced heightened parenting aggravation (0.525; p < .01). Our mediation analysis on a matched sample of food secure (n = 1,600) and insecure parents (n = 470) revealed that adult food insecurity was not directly associated with children's behaviors; rather, it was indirectly related to lowered attentional focus (-0.062; p < .05) and inhibitory control (-0.093; p < .001) via parenting aggravation. Our findings underscore the importance of parenting aggravation in transmitting the effects of food insecurity on children's behaviors.",
+  "authors": [
+    {
+      "raw": "Gee, Kevin A.",
+      "family": "Gee",
+      "given": "Kevin A."
+    },
+    {
+      "raw": "Asim, Minahil",
+      "family": "Asim",
+      "given": "Minahil"
+    }
+  ],
+  "authors_text": "Gee, Kevin A.; Asim, Minahil",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2019,
+  "doi": "10.1177/0192513x19842902",
+  "doi_url": "https://doi.org/10.1177/0192513x19842902",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x19842902",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x19842902.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

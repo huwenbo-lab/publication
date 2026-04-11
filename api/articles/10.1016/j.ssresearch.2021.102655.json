@@ -1,0 +1,30 @@
+{
+  "title": "The neighborhood ethnoracial and socioeconomic context of public elementary school closures in US metropolitan areas",
+  "abstract": "Public school closures are increasing in number and size in U.S. cities. When public schools close, heated debates typically ensue. A central argument within this debate asserts that schools being closed are more likely to be located in minority, socioeconomically disadvantaged neighborhoods, and thus their abandonment has the potential for widening racial and socioeconomic gaps and exacerbating spatial inequality. Using school attendance boundary data in over 260 U.S. metropolitan areas, we examine the relationship between the locations of traditional elementary public school closures between 2010 and 2016 and neighborhood ethnoracial and socioeconomic composition in 2010 and their change over time. Our overall results indicate that closures are associated with lower neighborhood percent White and percent Hispanic and higher percent Black and socioeconomic disadvantage. While increasing percent White is positively associated with closure, we found little other evidence of a relationship between closure and other changes in ethnoracial and socioeconomic composition. However, the relationship between neighborhood context and closure varies across region and urbanicity, with closures associated with patterns of gentrification in urban areas, and exhibiting differential relationships with neighborhood SES, race and ethnicity across region.",
+  "authors": [
+    {
+      "raw": "Brazil, Noli",
+      "family": "Brazil",
+      "given": "Noli"
+    },
+    {
+      "raw": "Candipan, Jennifer",
+      "family": "Candipan",
+      "given": "Jennifer"
+    }
+  ],
+  "authors_text": "Brazil, Noli; Candipan, Jennifer",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102655",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102655",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102655",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102655.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

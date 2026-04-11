@@ -1,0 +1,30 @@
+{
+  "title": "Heterogeneous effects of less educated mothers' further education during early childhood on children's educational performance in adolescence",
+  "abstract": "After the transition into motherhood, mothers with no post-secondary education are the most likely to complete more education. Maternal education is often highlighted as key to promote children's educational success, and skill development in early childhood has been stressed as important for later skill development. Yet, it remains uncertain whether less educated mothers' further education has an impact during early childhood that affects children's later educational performance. Using Danish administrative data on mothers without post-secondary education that enroll in education between births, we apply a fixed effect design to control for the nonrandom selection into maternal education. We find that once positive selection has been taken into account, there is no overall effect of maternal educational during early childhood on grade point average (GPA) achieved in ado-lescence. However, for children of the mothers empirically least likely to enroll in education after the transition to motherhood, we find a non-trivial positive effect of mothers' college education during early childhood on children's GPA in adolescence. We interpret this finding to indicate that the return to maternal education de-pends on the level of human, cultural, and social capital the mother had before enrolling in education, and the economic and emotional support mothers have while enrolled in education.",
+  "authors": [
+    {
+      "raw": "Breinholt, Asta",
+      "family": "Breinholt",
+      "given": "Asta"
+    },
+    {
+      "raw": "Holm, Anders",
+      "family": "Holm",
+      "given": "Anders"
+    }
+  ],
+  "authors_text": "Breinholt, Asta; Holm, Anders",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100506",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100506",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100506",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100506.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

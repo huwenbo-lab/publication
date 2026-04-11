@@ -1,0 +1,25 @@
+{
+  "title": "Early Retirement and Social Class: A Health-Giving Choice for All?",
+  "abstract": "Empirical evidence on the effect of the timing of retirement on post-retirement health is so far inconclusive regarding the causal nature of this relationship, and little is known about how the effect varies by social class. This paper uses birth cohort variation in incentives to postpone early retirement in an instrumental variable framework to estimate the causal effect of early retirement on post-retirement health as indicated by visits to general practitioners (GP) and mortality. Drawing on Danish administrative register data, results from instrumental variable regressions suggest that for men, the effect of early retirement at age 60 on GP visits is positive and short-term, if anything, as it reduces early retirees' number of visits to the GP compared to men who retire later than at age 60. These effects, among men, are particularly driven by members of the skilled manual working class. For women, the results show no evidence of a health effect of early retirement on GP visits. Additionally, for mortality, the results provided no evidence of a health effect of early retirement, irrespective of social class and gender.",
+  "authors": [
+    {
+      "raw": "Qvist, Jeevitha Yogachandiran",
+      "family": "Qvist",
+      "given": "Jeevitha Yogachandiran"
+    }
+  ],
+  "authors_text": "Qvist, Jeevitha Yogachandiran",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac029",
+  "doi_url": "https://doi.org/10.1093/esr/jcac029",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac029",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac029.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

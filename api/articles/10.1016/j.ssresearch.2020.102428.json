@@ -1,0 +1,35 @@
+{
+  "title": "A tale half told: State exclusionary and inclusionary regimes, incarceration of fathers, and the educational attainment of children",
+  "abstract": "Paternal incarceration leads to educational disparities among children who are innocent of their fathers' crimes. The scale and concentration of mass paternal incarceration thus harms millions of innocent American children. Current individual level analyses neglect the contribution of macro-level variation in responses of punitive state regimes to this social problem. We hypothesize that state as well as individual level investment in exclusionary paternal incarceration diminishes the educational attainment of children, although state inclusionary investment in welfare and education can offset some - and could potentially offset more - of this harm. Understanding inter-generational educational attainment therefore requires individual- and contextual level analyses. We use Hierarchical Generalized Linear Models to analyze the National Longitudinal Survey of Adolescent to Adult Health. Disparities in postsecondary educational outcomes are especially detrimental for children of incarcerated fathers located in state regimes with high levels of paternal incarceration and concentrated disadvantage. This has important implications for intergenerational occupational and status attainment.",
+  "authors": [
+    {
+      "raw": "Hagan, John",
+      "family": "Hagan",
+      "given": "John"
+    },
+    {
+      "raw": "Foster, Holly",
+      "family": "Foster",
+      "given": "Holly"
+    },
+    {
+      "raw": "Murphy, Chantrey J.",
+      "family": "Murphy",
+      "given": "Chantrey J."
+    }
+  ],
+  "authors_text": "Hagan, John; Foster, Holly; Murphy, Chantrey J.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2020.102428",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102428",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102428",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102428.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

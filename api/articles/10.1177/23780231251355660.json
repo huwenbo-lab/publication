@@ -1,0 +1,35 @@
+{
+  "title": "Gender Polarization and Sociodemographic Axes in Canada",
+  "abstract": "Although quantitative social scientists have examined how self-perceptions of masculinity and femininity vary by sociodemographic axes, gender polarization has rarely been studied. This concept captures gender subjectivities in ways that reflect how many individuals understand themselves as having a mixture of masculine and feminine characteristics, helping align survey measures with how gender theorists and qualitative scholars have examined gender. It is measured as the absolute value of the difference between self-rated masculinity and femininity. For example, if someone rated themselves as a 4 of 7 on masculinity and a 7 of 7 on femininity, their gender polarization value would be 3. In contrast, if someone rated themselves as a 1 of 7 on masculinity (the lowest value) and a 7 of 7 on femininity, their value would be 6. The authors examine this metric in a probability sample of Canadians. Gender polarization differed by political ideology, sexual identity, and age cohort for both women and men. For men only, race/ethnicity, educational attainment, and rural or urban location were related to gender polarization. These results highlight how social and structural contexts both shape and constrain how individuals perceive themselves in gendered ways.",
+  "authors": [
+    {
+      "raw": "Silva, Tony",
+      "family": "Silva",
+      "given": "Tony"
+    },
+    {
+      "raw": "Dimitrakopoulos, Sophia",
+      "family": "Dimitrakopoulos",
+      "given": "Sophia"
+    },
+    {
+      "raw": "Huddart, Emily",
+      "family": "Huddart",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Silva, Tony; Dimitrakopoulos, Sophia; Huddart, Emily",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251355660",
+  "doi_url": "https://doi.org/10.1177/23780231251355660",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251355660",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251355660.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

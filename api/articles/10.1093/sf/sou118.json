@@ -1,0 +1,30 @@
+{
+  "title": "Homebuyer Neighborhood Attainment in Black and White: Housing Outcomes during the Housing Boom and Bust",
+  "abstract": "This paper examines the types of neighborhoods that black and white homebuyers have secured loans in during the recent housing boom and subsequent bust. We expand upon and refine previous research on locational attainment using loan-level data from the 1992-2010 Home Mortgage Disclosure Act (HMDA) combined with tract- and metropolitan-level data from the 1990, 2000, and 2010 Census and the American Community Survey. Multilevel models show that black homebuyers are moving into considerably more racially segregated neighborhoods than their white counterparts and that their access to whiter neighborhoods did not expand during the housing boom, even after controlling for the racial composition of the metropolitan area and other key ecological factors. Conversely, new white homebuyers have been moving into neighborhoods with greater percent black residents, which may be a contributing factor in observed declines in segregation during the past few decades. Additionally, black homebuyers in metropolitan areas with greater suburban growth were on average accessing homes in more integrated neighborhoods. Finally, the models explained considerably more of the variation in the neighborhood racial composition of whites compared to blacks. These findings are suggestive of a dual housing market, one in which the experiences of blacks are still systematically different than those of whites, despite expanded access to homeownership.",
+  "authors": [
+    {
+      "raw": "Fischer, Mary J.",
+      "family": "Fischer",
+      "given": "Mary J."
+    },
+    {
+      "raw": "Lowe, Travis Scott",
+      "family": "Lowe",
+      "given": "Travis Scott"
+    }
+  ],
+  "authors_text": "Fischer, Mary J.; Lowe, Travis Scott",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sou118",
+  "doi_url": "https://doi.org/10.1093/sf/sou118",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou118",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou118.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

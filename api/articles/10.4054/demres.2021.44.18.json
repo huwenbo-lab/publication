@@ -1,0 +1,40 @@
+{
+  "title": "Age patterns of under-5 mortality in sub-Saharan Africa during 1990-2018: A comparison of estimates from demographic surveillance with full birth histories and the historic record",
+  "abstract": "BACKGROUND Estimates of under-5 mortality (U5M) for sub-Saharan African populations often rely heavily on full birth histories (FBH5) collected in surveys and model age patterns of mortality calibrated against vital statistics from other populations. Health and Demographic Surveillance Systems (HDSSs) are alternate sources of population-based data in much of sub-Saharan Africa, which are less formally utilized in estimation. OBJECTIVE In this study we compare the age pattern of U5M in different African data sources (HDSSs, Demographic and Health Surveys (DHS), and Multiple Indicator Cluster Surveys (MICS)), and contrast these with the historical record as summarized in the Human Mortality Database and model age patterns. METHODS We examined the relative levels of neonatal, postneonatal, infant, and child mortality across data sources. We directly compared estimates for DHS and MICS subnational regions with HDSS, and used linear regression to identify data and contextual attributes that correlated with the disparity between estimates. RESULTS HDSS and FBH data suggests that African populations have higher levels of child mortality and lower infant mortality than the historic record. This age pattern is most explicit for Western African populations, but also characterizes data for other subregions. The comparison between HDSS and FBH data suggests that FBH estimates of child mortality are biased downward. The comparison is less conclusive for neonatal and infant mortality. CONTRIBUTION This study questions the practice of using model age patterns derived from largely high-income settings for inferring or correcting U5M estimates for African populations. It also highlights the considerable uncertainty around the consistency of HDSS and FBH estimates of U5M.",
+  "authors": [
+    {
+      "raw": "Eilerts, Hattie",
+      "family": "Eilerts",
+      "given": "Hattie"
+    },
+    {
+      "raw": "Prieto, Julio Romero",
+      "family": "Prieto",
+      "given": "Julio Romero"
+    },
+    {
+      "raw": "Eaton, Jeffrey W.",
+      "family": "Eaton",
+      "given": "Jeffrey W."
+    },
+    {
+      "raw": "Reniers, Georges",
+      "family": "Reniers",
+      "given": "Georges"
+    }
+  ],
+  "authors_text": "Eilerts, Hattie; Prieto, Julio Romero; Eaton, Jeffrey W.; Reniers, Georges",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.18",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

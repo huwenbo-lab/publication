@@ -1,0 +1,35 @@
+{
+  "title": "Developmental Trajectories of Parental Knowledge During Early Adolescence and Their Psychosocial Predictors",
+  "abstract": "Recent studies revealed that parental knowledge of the child’s activities and whereabouts moderately declines during adolescence. This study investigated whether (a) there exist trajectory classes that considerably deviate from this average trend and (b) whether early psychosocial factors distinguish the trajectory subgroups. Analyses were based on a German sample of school students ( N = 715) who provided annual self-reports from age 10 to 14 years. Growth mixture modeling revealed two same-sized trajectory groups of parental knowledge that both displayed a moderate decline and were only distinguishable by different levels. Membership in the lower level group was associated with a difficult temperament, poor family relationships, problems with peers, and male gender. Contrary to other studies, findings indicated that trajectory classes of parental knowledge which substantially deviate from the normative decline do not exist. Sample characteristics, the focus on early adolescence, and a thorough application of growth mixture specifications may explain our findings.",
+  "authors": [
+    {
+      "raw": "Spaeth, Michael",
+      "family": "Spaeth",
+      "given": "Michael"
+    },
+    {
+      "raw": "Weichold, Karina",
+      "family": "Weichold",
+      "given": "Karina"
+    },
+    {
+      "raw": "Silbereisen, Rainer K.",
+      "family": "Silbereisen",
+      "given": "Rainer K."
+    }
+  ],
+  "authors_text": "Spaeth, Michael; Weichold, Karina; Silbereisen, Rainer K.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2016,
+  "doi": "10.1177/0192513x15576965",
+  "doi_url": "https://doi.org/10.1177/0192513x15576965",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x15576965",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x15576965.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

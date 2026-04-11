@@ -1,0 +1,25 @@
+{
+  "title": "The Credit Crisis as a Problem in the Sociology of Knowledge",
+  "abstract": "This article analyzes the role in the credit crisis of the processes by which market participants produce knowledge about financial instruments. Employing documentary sources and 87 predominantly oral history interviews, the article presents a historical sociology of the clusters of evaluation practices surrounding ABSs (asset-backed securities, most importantly mortgage-backed securities) and CDOs (collateralized debt obligations). Despite the close structural similarity between ABSs and CDOs, these practices came to differ substantially and became the province (e.g., in the rating agencies) of organizationally separate groups. In consequence, when ABS CDOs (CDOs in which the underlying assets are ABSs) emerged, they were evaluated in two separate stages. This created a fatally attractive arbitrage opportunity, large-scale exploitation of which sidelined previously important gatekeepers (risk-sensitive investors in the lower tranches of mortgage-backed securities) and eventually magnified and concentrated the banking system's calamitous mortgage-related losses.",
+  "authors": [
+    {
+      "raw": "MacKenzie, Donald",
+      "family": "MacKenzie",
+      "given": "Donald"
+    }
+  ],
+  "authors_text": "MacKenzie, Donald",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2011,
+  "doi": "10.1086/659639",
+  "doi_url": "https://doi.org/10.1086/659639",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F659639",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/659639.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

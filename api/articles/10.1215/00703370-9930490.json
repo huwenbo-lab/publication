@@ -1,0 +1,30 @@
+{
+  "title": "Does Childbearing Affect Cognitive Health in Later Life? Evidence From an Instrumental Variable Approach",
+  "abstract": "Cognitive decline is a widespread concern as populations grow older. However, population aging is partly driven by a decrease in fertility, and family size may influence cognitive functioning in later life. Prior studies have shown that fertility history is associated with late-life cognition, but whether the relationship is causal remains unclear. We use an instrumental variable approach and data from the Survey of Health, Ageing, and Retirement in Europe to examine whether having three or more versus two children affects late-life cognition. Parents often prefer to have at least one son and one daughter. We thus exploit the sex composition of the first two children as a source of exogenous variation in the probability of having three or more children. Results indicate that having three or more versus two children has a negative effect on late-life cognition. This effect is strongest in Northern Europe, perhaps because higher fertility decreases financial resources yet does not improve social resources in this region. Future studies should address the potential effects of childlessness or having one child on late-life cognition and explore the mediating mechanisms.",
+  "authors": [
+    {
+      "raw": "Bonsang, Eric",
+      "family": "Bonsang",
+      "given": "Eric"
+    },
+    {
+      "raw": "Skirbekk, Vegard",
+      "family": "Skirbekk",
+      "given": "Vegard"
+    }
+  ],
+  "authors_text": "Bonsang, Eric; Skirbekk, Vegard",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9930490",
+  "doi_url": "https://doi.org/10.1215/00703370-9930490",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9930490",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9930490.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

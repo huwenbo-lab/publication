@@ -1,0 +1,35 @@
+{
+  "title": "Indigeneity in the Americas: how language, skin color, and nation shape indigenous identification",
+  "abstract": "Indigenous peoples have long been classified based on cultural features. Reflecting changing nation-state projects and scholarly trends, Latin American censuses traditionally used Indigenous language proficiency to classify Indigenous populations. However, most Latin American censuses now prioritize the internationally sanctioned standard of self-identification. There is little understanding, though, of how language and physical traits are related to self-identification. Using America's Barometer surveys for four countries with over two-thirds of the Indigenous population of the Americas (Bolivia, Guatemala, Mexico, and Peru), we find that Indigenous language proficiency and darker skin color predict Indigenous identification. However, we also find that many Indigenous language speakers, particularly those with light skin color, do not identify as Indigenous, while some non-Indigenous language speakers, particularly those with dark skin color, identify as Indigenous. Our findings also suggest that national contexts dilute Indigenous identification through identity-eroding mestizaje projects but bolster it where there are strong Indigenous movements. Findings from this study highlight the interplay of physical and cultural traits, embedded in diverse nation-state contexts, in shaping Indigenous identification.",
+  "authors": [
+    {
+      "raw": "Martinez, Caroline",
+      "family": "Martinez",
+      "given": "Caroline"
+    },
+    {
+      "raw": "Telles, Edward",
+      "family": "Telles",
+      "given": "Edward"
+    },
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    }
+  ],
+  "authors_text": "Martinez, Caroline; Telles, Edward; Torche, Florencia",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf152",
+  "doi_url": "https://doi.org/10.1093/sf/soaf152",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf152",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf152.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

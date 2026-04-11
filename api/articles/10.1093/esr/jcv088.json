@@ -1,0 +1,25 @@
+{
+  "title": "Employment Protection Legislation and the Youth Labour Market",
+  "abstract": "This study analyses the effect of employment protection legislation (EPL) on youth unemployment and employment rates in Western Europe. It differentiates between two components of EPL: job security provisions and regulations on temporary contracts. While deregulating job security provisions is expected to lower youth unemployment, the impact of deregulating temporary contracts is ambiguous, but should depend on the strictness of job security provisions. A literature review and replication of prior research demonstrate that much prior evidence linking EPL to higher youth unemployment is not robust to important or minor specification checks. The empirical analysis uses aggregate data from 16 Western European countries and the United States for the period from 1980 to 2008 (N = 461) and fixed effects and differences-in-differences estimation. While effects of job security provisions are inconsistent across specifications, there is suggestive evidence that deregulating temporary contracts at high levels of job security provisions has significantly increased youth unemployment rates and lowered youth employment rates.",
+  "authors": [
+    {
+      "raw": "Noelke, Clemens",
+      "family": "Noelke",
+      "given": "Clemens"
+    }
+  ],
+  "authors_text": "Noelke, Clemens",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcv088",
+  "doi_url": "https://doi.org/10.1093/esr/jcv088",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv088",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv088.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

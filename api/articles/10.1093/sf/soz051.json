@@ -1,0 +1,25 @@
+{
+  "title": "Why Who Marries Whom Matters: Effects of Educational Assortative Mating on Infant Health in the United States 1969-1994",
+  "abstract": "Educational assortative mating patterns in the United States have changed since the 1960s, but we know little about the effects of these patterns on children, particularly on infant health. Rising educational homogamy may alter prenatal contexts through parental stress and resources, with implications for inequality. Using 1969-1994 NVSS birth data and aggregate cohort-state census measures of spousal similarity of education and labor force participation as instrumental variables (IV), this study estimates the effects of parental educational similarity on infant health. Controlling for both maternal and paternal education, results support family systems theory and suggest that parental educational homogamy is beneficial for infant health while hypergamy is detrimental. These effects are stronger in later cohorts and are generally limited to mothers with more education. Hypogamy estimates are stable by cohort, suggesting that rising female hypogamy may have limited effect on infant health. In contrast, rising educational homogamy could have increasing implications for infant health. Effects of parental homogamy on infant health could help explain racial inequality of infant health and may offer a potential mechanism through which inequality is transmitted between generations.",
+  "authors": [
+    {
+      "raw": "Rauscher, Emily",
+      "family": "Rauscher",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Rauscher, Emily",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz051",
+  "doi_url": "https://doi.org/10.1093/sf/soz051",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz051",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz051.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

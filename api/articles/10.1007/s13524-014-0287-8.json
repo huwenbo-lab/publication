@@ -1,0 +1,35 @@
+{
+  "title": "Divergence in Age Patterns of Mortality Change Drives International Divergence in Lifespan Inequality",
+  "abstract": "Abstract In the past six decades, lifespan inequality has varied greatly within and among countries even while life expectancy has continued to increase. How and why does mortality change generate this diversity? We derive a precise link between changes in age-specific mortality and lifespan inequality, measured as the variance of age at death. Key to this relationship is a young–old threshold age, below and above which mortality decline respectively decreases and increases lifespan inequality. First, we show for Sweden that shifts in the threshold’s location have modified the correlation between changes in life expectancy and lifespan inequality over the last two centuries. Second, we analyze the post–World War II (WWII) trajectories of lifespan inequality in a set of developed countries—Japan, Canada, and the United States—where thresholds centered on retirement age. Our method reveals how divergence in the age pattern of mortality change drives international divergence in lifespan inequality. Most strikingly, early in the 1980s, mortality increases in young U.S. males led to a continuation of high lifespan inequality in the United States; in Canada, however, the decline of inequality continued. In general, our wider international comparisons show that mortality change varied most at young working ages after WWII, particularly for males. We conclude that if mortality continues to stagnate at young ages yet declines steadily at old ages, increases in lifespan inequality will become a common feature of future demographic change.",
+  "authors": [
+    {
+      "raw": "Gillespie, Duncan O. S.",
+      "family": "Gillespie",
+      "given": "Duncan O. S."
+    },
+    {
+      "raw": "Trotter, Meredith V.",
+      "family": "Trotter",
+      "given": "Meredith V."
+    },
+    {
+      "raw": "Tuljapurkar, Shripad D.",
+      "family": "Tuljapurkar",
+      "given": "Shripad D."
+    }
+  ],
+  "authors_text": "Gillespie, Duncan O. S.; Trotter, Meredith V.; Tuljapurkar, Shripad D.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0287-8",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0287-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0287-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0287-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

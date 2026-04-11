@@ -1,0 +1,25 @@
+{
+  "title": "The neighborhood context of racial and ethnic disparities in arrest",
+  "abstract": "AbstractThis study assesses the role of social context in explaining racial and ethnic disparities in arrest, with a focus on how distinct neighborhood contexts in which different racial and ethnic groups reside explain variations in criminal outcomes. To do so, I utilize a multilevel, longitudinal research design, combining individual-level data with contextual data from the Project on Human Development in Chicago Neighborhoods (PHDCN). Findings reveal that black youths face multiple layers of disadvantage relative to other racial and ethnic groups, and these layers work to create differences in arrest. At the family level, results show that disadvantages in the form of unstable family structures explain much of the disparities in arrest across race and ethnicity. At the neighborhood level, black youths tend to reside in areas with both significantly higher levels of concentrated poverty than other youths as well as lower levels of collective efficacy than white youths. Variations in neighborhood tolerance of deviance across groups explain little of the arrest disparities, yet tolerance of deviance does influence the frequency with which a crime ultimately ends in an arrest. Even after accounting for relevant demographic, family, and neighborhood-level predictors, substantial residual arrest differences remain between black youths and youths of other racial and ethnic groups.",
+  "authors": [
+    {
+      "raw": "Kirk, David S.",
+      "family": "Kirk",
+      "given": "David S."
+    }
+  ],
+  "authors_text": "Kirk, David S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.2008.0011",
+  "doi_url": "https://doi.org/10.1353/dem.2008.0011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2008.0011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2008.0011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

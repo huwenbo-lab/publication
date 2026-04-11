@@ -1,0 +1,35 @@
+{
+  "title": "State Power and COVID-19 Vaccination Efforts",
+  "abstract": "The COVID-19 pandemic provides a unique opportunity to assess how different forms of state power shape public health outcomes during a global crisis. Drawing on Michael Mann's distinction between infrastructural and despotic power, we construct a typology of states and evaluate its predictive power for COVID-19 vaccination rates in 161 countries across three pandemic periods (2021, 2022, 2023). Our analysis shows that infrastructural power-a state's capacity to coordinate society and implement policy-was associated with higher vaccination rates, regardless of its level of despotic power. However, the relevance of different state capacities varied across periods: economic resources were critical for securing doses during early scarcity, infrastructural capacity was key for distribution once vaccines became widely available, and low-despotic states proved more successful at vaccinating the margins during the final phase. These findings demonstrate that Mann's interactive conception of state power offers a sharper analytical lens than standard proxies like GDP or health security indices, and they reaffirm the role of infrastructural power in effective governance amid transnational crises.",
+  "authors": [
+    {
+      "raw": "Yavuz, Devrim Adam",
+      "family": "Yavuz",
+      "given": "Devrim Adam"
+    },
+    {
+      "raw": "Russell, David",
+      "family": "Russell",
+      "given": "David"
+    },
+    {
+      "raw": "Spence, Naomi J.",
+      "family": "Spence",
+      "given": "Naomi J."
+    }
+  ],
+  "authors_text": "Yavuz, Devrim Adam; Russell, David; Spence, Naomi J.",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1111/1468-4446.70045",
+  "doi_url": "https://doi.org/10.1111/1468-4446.70045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.70045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.70045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

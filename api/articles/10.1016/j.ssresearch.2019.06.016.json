@@ -1,0 +1,35 @@
+{
+  "title": "Status and collaboration: The case of pro bono network inequalities in corporate law",
+  "abstract": "We examine how status shapes intersectoral collaboration between large US corporate law firms and public interest legal organizations (PILOs). We draw from status theories to derive competing hypotheses about the status processes that generate organizational collaboration within this network. Supporting a status-signaling hypothesis, high-status law firms tend to collaborate with similarly high-status pro bono organizations. This gives rise to a highly unequal playing field where a handful of PILOs have a wealth of connections to high-status law firms, while the majority of PILOs only collaborate with few relatively under-resourced non-high-status firms. We test our hypotheses using latent space models for weighted networks. We further validate our results using more traditional QAP multiple regressions. In closing, we discuss the implications of our findings for scholarship on status and organizations, as well as the role that corporate law firms play in exacerbating inequality in terms of access to justice in the US.",
+  "authors": [
+    {
+      "raw": "Leal, Diego F.",
+      "family": "Leal",
+      "given": "Diego F."
+    },
+    {
+      "raw": "Paik, Anthony",
+      "family": "Paik",
+      "given": "Anthony"
+    },
+    {
+      "raw": "Boutcher, Steven A.",
+      "family": "Boutcher",
+      "given": "Steven A."
+    }
+  ],
+  "authors_text": "Leal, Diego F.; Paik, Anthony; Boutcher, Steven A.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.06.016",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.06.016",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.06.016",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.06.016.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

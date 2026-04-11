@@ -1,0 +1,30 @@
+{
+  "title": "Money, Birth, Gender: Explaining Unequal Earnings Trajectories following Parenthood",
+  "abstract": "Using population register data from the Netherlands, we analyze the child penalty for new parents in three groups of couples: different-sex and female same-sex couples with a biological child and different-sex couples with an adopted child. With a longitudinal design, we follow parents' earnings from two years before to eight years after the arrival of the child and use event study models to estimate the effects of the transition to parenthood on earnings trajectories. Comparing different groups of couples allows us to test hypotheses related to three types of within-couple differences that are difficult to disentangle when studying only heterosexual biological parents: relative earnings, childbearing, and gender. Our results offer strong support for gender as the main driver of divergent child penalties. The gender of their partners is more consequential for mothers' earnings trajectories than is childbearing or the pre-parenthood relative earnings in the couple.",
+  "authors": [
+    {
+      "raw": "Machado, Weverthon",
+      "family": "Machado",
+      "given": "Weverthon"
+    },
+    {
+      "raw": "Jaspers, Eva",
+      "family": "Jaspers",
+      "given": "Eva"
+    }
+  ],
+  "authors_text": "Machado, Weverthon; Jaspers, Eva",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a14",
+  "doi_url": "https://doi.org/10.15195/v10.a14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

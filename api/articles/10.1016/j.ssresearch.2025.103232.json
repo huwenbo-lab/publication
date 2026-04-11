@@ -1,0 +1,35 @@
+{
+  "title": "Is political interest tracked in schools? Evidence from Germany",
+  "abstract": "Motivated by ongoing academic debates about whether education functions as a causal driver or a proxy in shaping sociopolitical outcomes, this study investigates the impact of educational tracking on the development of political interest among youths. Specifically, we examine whether the transition into academic and vocational upper-secondary school tracks affects students' political interest. We applied a difference-in-differences framework to estimate the causal effect of track placement, drawing on individual-level panel data from the German National Educational Panel Study. The longitudinal design allowed us to observe students at multiple time points: before, during, and after their transition into upper-secondary education. We found that students exhibited different levels of political interest before their upper-secondary tracks, and the academic track had no substantive nor significant causal effect on the development of political interest. We conclude that educational tracking at the upper-secondary level did not actively contribute to the differentiated development of individual political interest and had negligible impact on altering preexisting disparities; its role in shaping civic dispositions might be more limited than often assumed. We call for more research in different contexts and at earlier stages of political socialization.",
+  "authors": [
+    {
+      "raw": "Zhang, Yuxin",
+      "family": "Zhang",
+      "given": "Yuxin"
+    },
+    {
+      "raw": "Quaranta, Mario",
+      "family": "Quaranta",
+      "given": "Mario"
+    },
+    {
+      "raw": "Triventi, Moris",
+      "family": "Triventi",
+      "given": "Moris"
+    }
+  ],
+  "authors_text": "Zhang, Yuxin; Quaranta, Mario; Triventi, Moris",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103232",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103232",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103232",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103232.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Measuring structural similarity in large online networks",
+  "abstract": "Structural similarity based on bipartite graphs can be used to detect meaningful communities, but the networks have been tiny compared to massive online networks. Scalability is important in applications involving tens of millions of individuals with highly skewed degree distributions. Simulation analysis holding underlying similarity constant shows that two widely used measures - Jaccard index and cosine similarity - are biased by the distribution of out-degree in web-scale networks. However, an alternative measure, the Standardized Co-incident Ratio (SCR), is unbiased. We apply SCR to members of Congress, musical artists, and professional sports teams to show how massive co-following on Twitter can be used to map meaningful affiliations among cultural entities, even in the absence of direct connections to one another. Our results show how structural similarity can be used to map cultural alignments and demonstrate the potential usefulness of social media data in the study of culture, politics, and organizations across the social and behavioral sciences. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Shi, Yongren",
+      "family": "Shi",
+      "given": "Yongren"
+    },
+    {
+      "raw": "Macy, Michael",
+      "family": "Macy",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Shi, Yongren; Macy, Michael",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.04.021",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.04.021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.04.021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.04.021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Does Opportunity Skip Generations? Reassessing Evidence From Sibling and Cousin Correlations",
+  "abstract": "Sibling (cousin) correlations are empirically straightforward: they capture the degree to which siblings' (cousins') socioeconomic outcomes are similar. At face value, these quantities seem to summarize something about how families constrain opportunity. Their meaning, however, is complicated. One empirical set of sibling and cousin correlations can be generated from a multitude of distinct theoretical processes. I illustrate this problem in the context of multigenerational mobility: the relationship between the incomes of an ancestor and a descendant separated by several generations in a family. When cousins' outcomes are similar (an empirical fact), prior authors have favored the particular theoretical interpretation that extended kin affect life chances through pathways not involving the parents of the focal individual. I show that this evidence is consistent with alternative theories of latent transmission (measurement error) or dynamic transmission (a parent-to-child transmission process that changes over generations). Theoretical assumptions are required to lend meaning to a point estimate. Further, I show that point estimates alone may be misleading because they can be highly uncertain. To facilitate uncertainty estimation for the key test statistic, I develop a Bayesian procedure to estimate sibling and cousin correlations. I conclude by outlining how future research might use sibling and cousin correlations as effective descriptive quantities while remaining cognizant that these quantities could arise from a variety of distinct theoretical processes.",
+  "authors": [
+    {
+      "raw": "Lundberg, Ian",
+      "family": "Lundberg",
+      "given": "Ian"
+    }
+  ],
+  "authors_text": "Lundberg, Ian",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00880-w",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00880-w",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00880-w",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00880-w.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

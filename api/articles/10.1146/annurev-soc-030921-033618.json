@@ -1,0 +1,25 @@
+{
+  "title": "Spatial Analysis of the Social World",
+  "abstract": "Because all human activity occurs at least partially in physical space, explaining sociological outcomes often benefits from modeling spatial patterns of social activity. This article reviews methods that sociologists may wish to use to analyze sociological phenomena based on three different types of data indexed to space in three ways: areal data indexed to polygons on the Earth's surface, point data indexed to latitudes and longitudes, and spatial ties data that measure relationships between people and place. Issues common to all three types of data, including privacy, changing between types of data, and model assumptions, deserve careful consideration, particularly to understand how those issues introduce systematic biases into analyses of spatially indexed data. The plethora of existing methods offer the chance to improve sociological explanations of spatial patterns of social life. The thoughtful collection of spatially indexed data and the construction of innovative variables that test ideas about how space influences social outcomes offer the best opportunity to improve sociological explanations for the influence of spatial processes in social life.",
+  "authors": [
+    {
+      "raw": "Bader, Michael D. M.",
+      "family": "Bader",
+      "given": "Michael D. M."
+    }
+  ],
+  "authors_text": "Bader, Michael D. M.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2025,
+  "doi": "10.1146/annurev-soc-030921-033618",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-030921-033618",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-030921-033618",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-030921-033618.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

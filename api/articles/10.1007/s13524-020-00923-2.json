@@ -1,0 +1,40 @@
+{
+  "title": "Exposure to Armed Conflict and Fertility in Sub-Saharan Africa",
+  "abstract": "Changes in fertility patterns are hypothesized to be among the many second-order consequences of armed conflict, but expectations about the direction of such effects are theoretically ambiguous. Prior research, from a range of contexts, has also yielded inconsistent results. We contribute to this debate by using harmonized data and methods to examine the effects of exposure to conflict on preferred and observed fertility outcomes across a spatially and temporally extensive population. We use high-resolution georeferenced data from 25 sub-Saharan African countries, combining records of violent events from the Armed Conflict Location and Event Data Project (ACLED) with data on fertility goals and outcomes from the Demographic and Health Surveys (n= 368,765 women aged 15-49 years). We estimate a series of linear and logistic regression models to assess the effects of exposure to conflict events on ideal family size and the probability of childbearing within the 12 months prior to the interview. We find that, on average, exposure to armed conflict leads to modest reductions in both respondents' preferred family size and their probability of recent childbearing. Many of these effects are heterogeneous between demographic groups and across contexts, which suggests systematic differences in women's vulnerability or preferred responses to armed conflict. Additional analyses suggest that conflict-related fertility declines may be driven by delays or reductions in marriage. These results contribute new evidence about the demographic effects of conflict and their underlying mechanisms, and broadly underline the importance of studying the second-order effects of organized violence on vulnerable populations.",
+  "authors": [
+    {
+      "raw": "Thiede, Brian C.",
+      "family": "Thiede",
+      "given": "Brian C."
+    },
+    {
+      "raw": "Hancock, Matthew",
+      "family": "Hancock",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Kodouda, Ahmed",
+      "family": "Kodouda",
+      "given": "Ahmed"
+    },
+    {
+      "raw": "Piazza, James",
+      "family": "Piazza",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Thiede, Brian C.; Hancock, Matthew; Kodouda, Ahmed; Piazza, James",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00923-2",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00923-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00923-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00923-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

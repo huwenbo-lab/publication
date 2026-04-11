@@ -1,0 +1,30 @@
+{
+  "title": "Competing Effects on the Average Age of Infant Death",
+  "abstract": "In recent decades, the relationship between the average length of life for those who die in the first year of life-the life table quantity (1)a(0)-and the level of infant mortality, on which its calculation is often based, has broken down. The very low levels of infant mortality in the developed world correspond to a range of (1)a(0) quantities. We illustrate the competing effect of falling mortality and reduction in preterm births on, (1)a(0) through two populations with very different levels of premature birth-infants born to non-Hispanic White mothers and infants born to non-Hispanic Black mothers in the United States-using linked birth and infant death cohort data. Through simulation, we further demonstrate that falling mortality reduces (1)a(0), while a reduction in premature births increases it. We use these observations to motivate the formulation of a new approximation formula for (1)a(0) in low-mortality contexts, which aims to incorporate differences in preterm birth through a proxy measure-the ratio of infant to under-five mortality. Models are built and tested using data from the Human Mortality Database. Model results and validation show that the newly proposed model outperforms existing alternatives.",
+  "authors": [
+    {
+      "raw": "Alexander, Monica",
+      "family": "Alexander",
+      "given": "Monica"
+    },
+    {
+      "raw": "Root, Leslie",
+      "family": "Root",
+      "given": "Leslie"
+    }
+  ],
+  "authors_text": "Alexander, Monica; Root, Leslie",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9779784",
+  "doi_url": "https://doi.org/10.1215/00703370-9779784",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9779784",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9779784.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

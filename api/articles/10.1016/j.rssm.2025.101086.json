@@ -1,0 +1,40 @@
+{
+  "title": "The educational wealth divide in Europe: Post-secondary enrollment gaps across parental wealth components and countries",
+  "abstract": "Parental wealth is a crucial dimension of socioeconomic status (SES) and plays a significant role in the intergenerational transmission of educational advantage. Previous research on the topic has been limited to a small number of countries, and findings on the relationship between parental wealth and educational attainment are hardly comparable across institutional contexts. Furthermore, the specific role of different wealth components remains unclear. This study addresses these gaps by comparing parental wealth-based inequalities in postsecondary enrollment across 15 European countries, using harmonized Household Finance and Consumption Survey data. We assess how different dimensions of parental wealth - net, real, and financial - relate to children's post-secondary enrollment, and how these associations vary across institutional contexts. Our findings reveal substantial enrollment gaps between high- and low-wealth families in all countries, with these disparities remaining significant in ten countries even after accounting for other parental SES dimensions. When considering net wealth, we observe the largest enrollment gaps in Southern and Eastern Europe and smaller gaps in most Continental countries. However, most of country differences are not statistically significant. Real wealth, particularly housing assets, is the strongest predictor of enrollment, whereas the role of household debt is more context-dependent. These results underscore the importance of disaggregating wealth components and considering the specific national context when assessing wealth-related educational inequalities.",
+  "authors": [
+    {
+      "raw": "Pietrolucci, Andrea",
+      "family": "Pietrolucci",
+      "given": "Andrea"
+    },
+    {
+      "raw": "Drager, Jascha",
+      "family": "Drager",
+      "given": "Jascha"
+    },
+    {
+      "raw": "Muller, Nora",
+      "family": "Muller",
+      "given": "Nora"
+    },
+    {
+      "raw": "Albertini, Marco",
+      "family": "Albertini",
+      "given": "Marco"
+    }
+  ],
+  "authors_text": "Pietrolucci, Andrea; Drager, Jascha; Muller, Nora; Albertini, Marco",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101086",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101086",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101086",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101086.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

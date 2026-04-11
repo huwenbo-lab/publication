@@ -1,0 +1,30 @@
+{
+  "title": "Ethnicity and sentencing outcomes in US federal courts: Who is punished more harshly?",
+  "abstract": "Using federal court data collected by the U.S. Sentencing Commission for the years 1993-1996, this study examines racial/ethnic differences-white versus black versus,white-Hispanic versus black-Hispanic-in sentencing outcomes and criteria under the federal sentencing guidelines. Regression analyses of incarceration and term-length decisions reveal considerable judicial consistency in the use of sentencing criteria for all defendants; however, important racial/ethnic disparities in sentencing emerge. Consistent with theoretical hypotheses, the authors find that ethnicity has a small to moderate effect on sentencing outcomes that favors white defendants and penalizes Hispanic defendants; black defendants are in an intermediate position. Hispanic drug offenders are most at risk of receiving the harshest penalties, and their harsher treatment is most pronounced in prosecutor-controlled guidelines departure cases. These findings highlight both a classic organizational tension noted by Weber and a fundamental dilemma in policy efforts to structure sentencing processes (formal rationality) while allowing for judicial and prosecutorial discretion (substantive rationality). The findings also broaden our view of the continuing significance of race in American society-as a matter confronting not only blacks but also Hispanics and perhaps other ethnic groups as well.",
+  "authors": [
+    {
+      "raw": "Steffensmeier, D",
+      "family": "Steffensmeier",
+      "given": "D"
+    },
+    {
+      "raw": "Demuth, S",
+      "family": "Demuth",
+      "given": "S"
+    }
+  ],
+  "authors_text": "Steffensmeier, D; Demuth, S",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2000,
+  "doi": "10.2307/2657543",
+  "doi_url": "https://doi.org/10.2307/2657543",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2657543",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2657543.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

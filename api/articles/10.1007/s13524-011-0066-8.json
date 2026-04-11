@@ -1,0 +1,30 @@
+{
+  "title": "Differential Survival in Europe and the United States: Estimates Based on Subjective Probabilities of Survival",
+  "abstract": "Abstract Cross-country comparisons of differential survival by socioeconomic status (SES) are useful in many domains. Yet, to date, such studies have been rare. Reliably estimating differential survival in a single country has been challenging because it requires rich panel data with a large sample size. Cross-country estimates have proven even more difficult because the measures of SES need to be comparable internationally. We present an alternative method for acquiring information on differential survival by SES. Rather than using observations of actual survival, we relate individuals’ subjective probabilities of survival to SES variables in cross section. To show that subjective survival probabilities are informative proxies for actual survival when estimating differential survival, we compare estimates of differential survival based on actual survival with estimates based on subjective probabilities of survival for the same sample. The results are remarkably similar. We then use this approach to compare differential survival by SES for 10 European countries and the United States. Wealthier people have higher survival probabilities than those who are less wealthy, but the strength of the association differs across countries. Nations with a smaller gradient appear to be Belgium, France, and Italy, while the United States, England, and Sweden appear to have a larger gradient.",
+  "authors": [
+    {
+      "raw": "Delavande, Adeline",
+      "family": "Delavande",
+      "given": "Adeline"
+    },
+    {
+      "raw": "Rohwedder, Susann",
+      "family": "Rohwedder",
+      "given": "Susann"
+    }
+  ],
+  "authors_text": "Delavande, Adeline; Rohwedder, Susann",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0066-8",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0066-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0066-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0066-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

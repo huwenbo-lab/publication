@@ -1,0 +1,25 @@
+{
+  "title": "Qualitative Data Analysis Software and Family Science: 2011-2020 Usage Trends",
+  "abstract": "ObjectiveThis brief report examines how often a technology called QDAS (qualitative data analysis software) was mentioned in family science (FS) research between 2011 and 2020 and how it was described. It also provides data about qualitative FS research trends and examines whether there is a relationship between QDAS use and grounded theory.BackgroundQDAS is a technology used by qualitative FS scholars, but little is known about its prevalence or how it is used. Research in this area is needed because technology can influence qualitative research practices in unknown or unacknowledged ways such as methodological homogenization.MethodEmpirical articles from five FS journals were examined for whether they presented qualitative findings during 2011-2015 and 2016-2020. Identified articles were then examined for their QDAS use. A chi-square analysis compared articles mentioning QDAS with those not mentioning it for whether they were more likely to mention grounded theory.ResultsThe percentage of qualitative research findings increased from 15% to 17% across the two time periods; in those articles, QDAS use increased from 25% to 41%. Few details were provided about how the programs were used, and a moderate relationship was found between QDAS and grounded theory.ConclusionQDAS use is increasing in FS, and more detail needs to be provided about how it is used. This information is increasingly important due to the incorporation of automatic features into QDAS programs such as Generative Artificial Intelligence tools.",
+  "authors": [
+    {
+      "raw": "Humble, Aine M.",
+      "family": "Humble",
+      "given": "Aine M."
+    }
+  ],
+  "authors_text": "Humble, Aine M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70020",
+  "doi_url": "https://doi.org/10.1111/jomf.70020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Age and Self-Rated Health in Korea",
+  "abstract": "I examine age variation in the effects of socioeconomic status (SES) on self-rated health in Korea by including three alternative indicators of SES—liquid assets, home ownership, and real estate ownership—as well as two standard measures of education and household income. Furthermore, I consider the SES-health relationship and its variation by age for men and women separately. The empirical findings in general do not support the hypothesis that the SES gap in health converges with age. Most SES effects on self-rated health remain constant across age groups or even increase with age. However, there is evidence of the converging effects of household income and liquid assets for women. Differences in self-rated health by household income or liquid assets diverge and then converge as age advances.",
+  "authors": [
+    {
+      "raw": "Park, H.",
+      "family": "Park",
+      "given": "H."
+    }
+  ],
+  "authors_text": "Park, H.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2005,
+  "doi": "10.1353/sof.2005.0043",
+  "doi_url": "https://doi.org/10.1353/sof.2005.0043",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2005.0043",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2005.0043.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

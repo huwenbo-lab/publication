@@ -1,0 +1,35 @@
+{
+  "title": "Socioeconomic and cultural differentials in mortality in a late 19th century urban setting: A linked records study from Tartu, Estonia, 1897-1900",
+  "abstract": "BACKGROUND An expanding literature documents historical linkages between socioeconomic and cultural disparities and survival. The evidence originates mainly from studies of Western Europe and North America, but we know less about the history of mortality differentials in other regions. OBJECTIVE This study estimates the mortality level among the Lutheran population of Tartu (18971900) and examines its associations with socioeconomic status and ethnicity/language. METHODS The analysis draws on parish registers, which have been linked to data from the first Russian Imperial census in 1897. In order to investigate the association between the characteristics of the population and mortality risks, Poisson regression models are estimated. RESULTS The results show significant inequalities in mortality associated with socioeconomic status. In addition to upper-level non-manual workers, domestic servants were found to have reduced death risks, while small entrepreneurs displayed elevated risks. Surprisingly, the adult mortality advantage associated with upper-level non-manual jobs and advanced education was driven by women. Men in the upper strata of society exhibited no substantial advantage, but a lack of elementary education implied a mortality disadvantage for working-age men. The effect of education did not disappear with the inclusion of occupation and other controls in the models. The analysis revealed no significant difference between ethnic/language groups. CONCLUSIONS The observed differentials can be seen as manifestations of a divide between forerunners of and laggards in the secular trend towards longer life expectancy. The study makes a case for a comprehensive approach to examining mortality differentials that pays equal attention to the effects of the individual characteristics of men and women. CONTRIBUTION The study contributes to the literature by focusing on an Eastern European context and examining mortality differences associated with occupational group as well as education, which has seldom been done in 19th century settings.",
+  "authors": [
+    {
+      "raw": "Jaadla, Hannaliis",
+      "family": "Jaadla",
+      "given": "Hannaliis"
+    },
+    {
+      "raw": "Puur, Allan",
+      "family": "Puur",
+      "given": "Allan"
+    },
+    {
+      "raw": "Rahu, Kaja",
+      "family": "Rahu",
+      "given": "Kaja"
+    }
+  ],
+  "authors_text": "Jaadla, Hannaliis; Puur, Allan; Rahu, Kaja",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.1",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

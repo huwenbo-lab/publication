@@ -1,0 +1,25 @@
+{
+  "title": "Sorting Schools: A Computational Analysis of Charter School Identities and Stratification",
+  "abstract": "Research shows charter schools are more segregated by race and class than are traditional public schools. I investigate an underexamined mechanism for this segregation: Charter schools project identities corresponding to parents' race- and class-specific parenting styles and educational values. I use computational text analysis to detect the emphasis on inquiry-based learning in the websites of all charter schools operating in 2015-16. I then estimate mixed linear regression models to test the relationships between ideological emphasis and school- and district-level poverty and ethnicity. I thereby transcend methodological problems in scholarship on charter school identities by collecting contemporary, populationwide data and by blending text analysis with hypothesis testing. Findings suggest charter school identities are both race and class specific, outlining a new mechanism by which school choice may consolidate parents by race and class-and paving the way for behavioral and longitudinal studies. This project contributes to literatures on school choice and educational stratification.",
+  "authors": [
+    {
+      "raw": "Haber, Jaren R.",
+      "family": "Haber",
+      "given": "Jaren R."
+    }
+  ],
+  "authors_text": "Haber, Jaren R.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2021,
+  "doi": "10.1177/0038040720953218",
+  "doi_url": "https://doi.org/10.1177/0038040720953218",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040720953218",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040720953218.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Estimates of regional and global life expectancy, 1800-2001",
+  "abstract": "Historians and demographers have gone to considerable trouble to reconstruct life expectancy in the past in individual countries. This overview collects information from a large body of that work and links estimates for historical populations to those provided by the United Nations, the World Bank, and other sources for 1950-2001. The result is a picture of regional and global life expectancy at birth for selected years from 1800 to 2001. The bibliography of more than 700 sources is published separately on the web.",
+  "authors": [
+    {
+      "raw": "Riley, JC",
+      "family": "Riley",
+      "given": "JC"
+    }
+  ],
+  "authors_text": "Riley, JC",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2005,
+  "doi": "10.1111/j.1728-4457.2005.00083.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2005.00083.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2005.00083.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2005.00083.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Mortality of American troops in the Iraq war",
+  "abstract": "We estimate the death rate of United States troops deployed to Iraq from the beginning of the US invasion through 30 September 2006. Eighty percent of the deaths in Iraq were combat-related. The death rate in Iraq is lower than that of the civilian population of the United States but substantially higher than that of young adults. It is much lower than the death rate of US troops in Vietnam, in part because a much smaller fraction die among those wounded in Iraq. We also estimate relative mortality levels for US troops according to numerous demographic variables through 30 November 2006. The risk of death in Iraq per deployment is shown to be highest for Marines; Naval and Air Force personnel in Iraq have lower death rates than the civilian population of comparable age. Other categories with above-average mortality in Iraq are enlisted troops, males, younger persons, and Hispanics.",
+  "authors": [
+    {
+      "raw": "Buzzell, Emily",
+      "family": "Buzzell",
+      "given": "Emily"
+    },
+    {
+      "raw": "Preston, Samuel H.",
+      "family": "Preston",
+      "given": "Samuel H."
+    }
+  ],
+  "authors_text": "Buzzell, Emily; Preston, Samuel H.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2007,
+  "doi": "10.1111/j.1728-4457.2007.00185.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2007.00185.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2007.00185.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2007.00185.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

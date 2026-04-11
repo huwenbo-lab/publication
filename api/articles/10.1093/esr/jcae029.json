@@ -1,0 +1,30 @@
+{
+  "title": "Unemployment: a hidden source of wage inequality?",
+  "abstract": "Although unemployment plays a central role in the emergence of labour market disparities, rarely any studies have linked its dynamics with the overall level of wage inequality. This study addresses this gap by assessing how unemployment is associated with both between- and within-group wage disparities. Hypotheses derived from labour market theories are tested using comprehensive longitudinal data from the Dutch OSA Labour Supply Panel spanning 1985-2008. Results from newly developed variance function panel regression models demonstrate that wages of previously unemployed workers are both lower and more dispersed compared to the wages of continuously employed workers. We also found that wage disparities were more pronounced among previously unemployed men than women. The results also demonstrate the usefulness of the variance function panel regression as a method for analyzing sources that drive wage inequality within persons and over time.",
+  "authors": [
+    {
+      "raw": "Mooi-Reci, Irma",
+      "family": "Mooi-Reci",
+      "given": "Irma"
+    },
+    {
+      "raw": "Liao, Tim F.",
+      "family": "Liao",
+      "given": "Tim F."
+    }
+  ],
+  "authors_text": "Mooi-Reci, Irma; Liao, Tim F.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcae029",
+  "doi_url": "https://doi.org/10.1093/esr/jcae029",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae029",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae029.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

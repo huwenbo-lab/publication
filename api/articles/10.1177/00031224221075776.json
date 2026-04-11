@@ -1,0 +1,25 @@
+{
+  "title": "Intersecting the Academic Gender Gap: The Education of Lesbian, Gay, and Bisexual America",
+  "abstract": "Although gender is central to contemporary accounts of educational stratification, sexuality has been largely invisible as a population-level axis of academic inequality. Taking advantage of major recent data expansions, the current study establishes sexuality as a core dimension of educational stratification in the United States. First, I analyze lesbian, gay, and bisexual (LGB) adults' college completion rates: overall, by race/ethnicity, and by birth cohort. Then, using new data from the High School Longitudinal Survey of 2009, I analyze LGB students' performance on a full range of achievement and attainment measures. Across analyses, I reveal two demographic facts. First, women's rising academic advantages are largely confined to straight women: although lesbian women historically outpaced straight women, in contemporary cohorts, lesbian and bisexual women face significant academic disadvantages. Second, boys' well-documented underperformance obscures one group with remarkably high levels of school success: gay boys. Given these facts, I propose that marginalization from hegemonic gender norms has important-but asymmetric-impacts on men's and women's academic success. To illustrate this point, I apply what I call a gender predictive approach, using supervised machine learning methods to uncover patterns of inequality otherwise obscured by the binary sex/gender measures typically available in population research.",
+  "authors": [
+    {
+      "raw": "Mittleman, Joel",
+      "family": "Mittleman",
+      "given": "Joel"
+    }
+  ],
+  "authors_text": "Mittleman, Joel",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1177/00031224221075776",
+  "doi_url": "https://doi.org/10.1177/00031224221075776",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224221075776",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224221075776.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

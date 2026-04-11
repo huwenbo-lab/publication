@@ -1,0 +1,40 @@
+{
+  "title": "Book Review Symposium: J Brewer, Peace Processes: A Sociological Approach",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Ganiel, Gladys",
+      "family": "Ganiel",
+      "given": "Gladys"
+    },
+    {
+      "raw": "Malešević, Siniša",
+      "family": "Malešević",
+      "given": "Siniša"
+    },
+    {
+      "raw": "Lynch, Jake",
+      "family": "Lynch",
+      "given": "Jake"
+    },
+    {
+      "raw": "Galtung, Johan",
+      "family": "Galtung",
+      "given": "Johan"
+    }
+  ],
+  "authors_text": "Ganiel, Gladys; Malešević, Siniša; Lynch, Jake; Galtung, Johan",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2012,
+  "doi": "10.1177/0038038511427934",
+  "doi_url": "https://doi.org/10.1177/0038038511427934",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038511427934",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038511427934.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

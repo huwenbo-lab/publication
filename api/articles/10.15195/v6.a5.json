@@ -1,0 +1,35 @@
+{
+  "title": "Danger on the Way to School: Exposure to Violent Crime, Public Transportation, and Absenteeism",
+  "abstract": "In this study, we propose and test a mechanism for the effect of neighborhood of residence on school outcomes: absenteeism that results from exposure to danger on the way to school. We first determine the most efficient route to school using public transportation for 4,200 first-time freshmen in Baltimore City public high schools. Then, we link the specific streets along the most efficient route to incident-level crime data from the Baltimore Police Department. We find that students whose estimated routes require walking along streets with higher violent-crime rates have higher rates of absenteeism throughout the year. We also show that absenteeism is not associated with exposure to dangerous streets while riding on public transit and exposure to property crime.These conclusions hold with and without adjustments for student demographic characteristics, prior school attendance, violent crime around homes and schools, and unobserved differences related to school preference and neighborhood selection.",
+  "authors": [
+    {
+      "raw": "Burdick-Will, Julia",
+      "family": "Burdick-Will",
+      "given": "Julia"
+    },
+    {
+      "raw": "Stein, Marc",
+      "family": "Stein",
+      "given": "Marc"
+    },
+    {
+      "raw": "Grigg, Jeffrey",
+      "family": "Grigg",
+      "given": "Jeffrey"
+    }
+  ],
+  "authors_text": "Burdick-Will, Julia; Stein, Marc; Grigg, Jeffrey",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2019,
+  "doi": "10.15195/v6.a5",
+  "doi_url": "https://doi.org/10.15195/v6.a5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv6.a5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v6.a5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

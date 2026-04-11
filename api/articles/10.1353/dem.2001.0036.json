@@ -1,0 +1,30 @@
+{
+  "title": "Evaluating the performance of the lee-carter method for forecasting mortality",
+  "abstract": "Abstract Lee and Carter (LC) published a new statistical method for forecasting mortality in 1992. This paper examines its actual and hypothetical forecast errors, and compares them with Social Security forecast errors. Hypothetical historical projections suggest that LC tended to underproject gains, but by less than did Social Security. True e0 was within the ex ante 95% probability interval 97% of the time overall, but intervals were too broad up to 40 years and too narrow after 50 years. Projections to 1998 made after 1945 always contain errors of less than two years. Hypothetical projections for France, Sweden, Japan, and Canada would have done well. Changing age patterns of mortality decline over the century pose problems for the method.",
+  "authors": [
+    {
+      "raw": "Lee, Ronald",
+      "family": "Lee",
+      "given": "Ronald"
+    },
+    {
+      "raw": "Miller, Timothy",
+      "family": "Miller",
+      "given": "Timothy"
+    }
+  ],
+  "authors_text": "Lee, Ronald; Miller, Timothy",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.1353/dem.2001.0036",
+  "doi_url": "https://doi.org/10.1353/dem.2001.0036",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2001.0036",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2001.0036.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Which Spouse Initiates Marital Separation When There Are Children Involved?",
+  "abstract": "This report examines whether the presence of children in marriage differentially influences the risk of wives or husbands initiating separation. The analytic sample consists of 9,118 first marriages from the Households, Income and Labour Dynamics in Australia survey (2001). Using event history and competing risks analysis, I find weak evidence that wives are less likely than husbands to initiate when they have infants, and husbands are less likely than wives to initiate when children are school age or older. Overall, the results show that children deter marital separation for both wives and husbands, indicating that gender differences in the decision to separate are likely attributable to other factors such as a willingness to remain in an unhappy marriage.",
+  "authors": [
+    {
+      "raw": "Hewitt, Belinda",
+      "family": "Hewitt",
+      "given": "Belinda"
+    }
+  ],
+  "authors_text": "Hewitt, Belinda",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2009,
+  "doi": "10.1111/j.1741-3737.2009.00603.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2009.00603.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2009.00603.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2009.00603.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

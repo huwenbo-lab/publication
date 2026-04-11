@@ -1,0 +1,35 @@
+{
+  "title": "The unexpected rise of cohabitation in the Philippines: evidence of socioeconomic disadvantage or a second demographic transition?",
+  "abstract": "Cohabitation has increased rapidly in the Philippines, quadrupling in prevalence from 6 per cent in 1993 to 24 per cent in 2013 among young adult women. This increase is dramatic and exceptional given the slow change in other family behaviours, such as low divorce rates and continued high fertility, and the persistent influence of the Catholic Church. While cohabitation is often framed as evidence of ideational change and liberalisation, its continued uptake over time may be associated with socio-economic conditions. Using the 2013 national demographic and health surveys, we apply a discrete-time competing risks model to examine the relationship between socio-economic status and cohabitation, using education as proxy for resources and opportunities available to women. Our findings demonstrate that lower levels of education are significantly associated with a higher risk of cohabitation, which suggests rising cohabitation in the Philippines is more linked to socio-economic disadvantage than the devaluing of marriage among educated elites.",
+  "authors": [
+    {
+      "raw": "Kuang, Bernice",
+      "family": "Kuang",
+      "given": "Bernice"
+    },
+    {
+      "raw": "Perelli-Harris, Brienna",
+      "family": "Perelli-Harris",
+      "given": "Brienna"
+    },
+    {
+      "raw": "Padmadas, Sabu",
+      "family": "Padmadas",
+      "given": "Sabu"
+    }
+  ],
+  "authors_text": "Kuang, Bernice; Perelli-Harris, Brienna; Padmadas, Sabu",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2019,
+  "doi": "10.1080/17441730.2018.1560664",
+  "doi_url": "https://doi.org/10.1080/17441730.2018.1560664",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2018.1560664",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2018.1560664.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

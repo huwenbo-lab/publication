@@ -1,0 +1,25 @@
+{
+  "title": "Relationship Transitions and the Risk for Child Maltreatment",
+  "abstract": "Family structure as a risk for child maltreatment has long been viewed as a static state in the child maltreatment literature. Drawing on data from the Fragile Families and Child Wellbeing Study, the author uses a series of individual fixed-effects models to investigate whether particular types of relationship transitions over children's first decade of life are associated with increased risk for maternal and paternal child abuse and maternal neglect. Findings question and confirm a number of long-standing theoretical and empirical findings from the child maltreatment literature. Results indicate that transitions to being single are associated with increased risk for maternal child abuse and neglect. In addition, the frequency and severity of paternal harsh parenting may be closely linked with the nature of fathers' relationship transitions. Last, results largely do not provide support for the theory that the presence of social (nonbiological) fathers increases mothers' risk for engaging in child abuse or neglect.",
+  "authors": [
+    {
+      "raw": "Schneider, William",
+      "family": "Schneider",
+      "given": "William"
+    }
+  ],
+  "authors_text": "Schneider, William",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0514-6",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0514-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0514-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0514-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

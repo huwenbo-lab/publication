@@ -1,0 +1,40 @@
+{
+  "title": "Resource Compensation or Multiplication? The Interplay between Cognitive Ability and Social Origin in Explaining Educational Attainment",
+  "abstract": "While previous research has conclusively established that children with higher cognitive ability and those originating from advantaged socioeconomic status (SES) backgrounds have better educational outcomes, the interplay between the influences of cognitive ability and social origin has been largely overlooked. The influence of cognitive ability might be weaker in high-SES families as a result of resource compensation, and stronger in high-SES families owing to resource multiplication. We investigate these mechanisms while taking into account the possibility that the association between cognitive ability and educational attainment might be partly spurious due to unobserved genetic and environmental influences. We do so by analysing a large sample of twins from the German TwinLife study (N-pairs = 2,190). Our results show that the association between cognitive ability and educational attainment is to a large extent confounded by genetic and shared environmental factors. If this is not considered, and this is the case in most previous studies, high-SES parents seem to compensate for the lower cognitive ability of their children. However, when we consider the genetic and shared environmental confounding, the resource compensation effect becomes non-significant.",
+  "authors": [
+    {
+      "raw": "Stienstra, Kim",
+      "family": "Stienstra",
+      "given": "Kim"
+    },
+    {
+      "raw": "Maas, Ineke",
+      "family": "Maas",
+      "given": "Ineke"
+    },
+    {
+      "raw": "Knigge, Antonie",
+      "family": "Knigge",
+      "given": "Antonie"
+    },
+    {
+      "raw": "Schulz, Wiebke",
+      "family": "Schulz",
+      "given": "Wiebke"
+    }
+  ],
+  "authors_text": "Stienstra, Kim; Maas, Ineke; Knigge, Antonie; Schulz, Wiebke",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa054",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

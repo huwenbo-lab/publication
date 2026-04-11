@@ -1,0 +1,40 @@
+{
+  "title": "Overcoming the Problems of Inconsistent International Migration data: A New Method Applied to Flows in Europe",
+  "abstract": "Due to differences in definitions and measurement methods, cross-country comparisons of international migration patterns are difficult and confusing. Emigration numbers reported by sending countries tend to differ from the corresponding immigration numbers reported by receiving countries. In this paper, a methodology is presented to achieve harmonised estimates of migration flows benchmarked to a specific definition of duration. This methodology accounts for both differences in definitions and the effects of measurement error due to, for example, under reporting and sampling fluctuations. More specifically, the differences between the two sets of reported data are overcome by estimating a set of adjustment factors for each country's immigration and emigration data. The adjusted data take into account any special cases where the origin-destination patterns do not match the overall patterns. The new method for harmonising migration flows that we present is based on earlier efforts by Poulain (European Journal of Population, 9(4): 353-381 1993, Working Paper 12, joint ECE-Eurostat Work Session on Migration Statistics, Geneva, Switzerland 1999) and is illustrated for movements between 19 European countries from 2002 to 2007. The results represent a reliable and consistent set of international migration flows that can be used for understanding recent changes in migration patterns, as inputs into population projections and for developing evidence-based migration policies.",
+  "authors": [
+    {
+      "raw": "de Beer, Joop",
+      "family": "de Beer",
+      "given": "Joop"
+    },
+    {
+      "raw": "Raymer, James",
+      "family": "Raymer",
+      "given": "James"
+    },
+    {
+      "raw": "van der Erf, Rob",
+      "family": "van der Erf",
+      "given": "Rob"
+    },
+    {
+      "raw": "van Wissen, Leo",
+      "family": "van Wissen",
+      "given": "Leo"
+    }
+  ],
+  "authors_text": "de Beer, Joop; Raymer, James; van der Erf, Rob; van Wissen, Leo",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2010,
+  "doi": "10.1007/s10680-010-9220-z",
+  "doi_url": "https://doi.org/10.1007/s10680-010-9220-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-010-9220-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-010-9220-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

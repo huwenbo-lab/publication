@@ -1,0 +1,30 @@
+{
+  "title": "Transitional Inequality Offset: Educational Expansion and Inequality of Educational Opportunity in European Countries between 2000 and 2018",
+  "abstract": "Educational expansion has been taking place in European countries since 2000. We address the relationship between this educational expansion and the inequality of educational opportunity (IEO) by educational origin. We analyse the European Social Survey data from 20 European countries over five rounds (2002, 2006, 2010, 2014, and 2018). Our analysis is restricted to the 25-34 age groups. We use a multilevel sequential logit (MLSL) model for three hierarchical educational transitions (sequences), delimited by four International Standard Classification of Education (ISCED97) categories. We apply the MLSL model to decompose IEO in completed education into the educational origin effects on passing transitions and the structural effects (weights) connected with transitions. Our results show that educational expansion slightly weakens IEO in completed education, but this is far from being a situation in which IEO does not exist. IEO is maintained in educational transitions by transitional inequality offset. The effect of the weight of each transition takes over the educational origin effect on passing transitions and vice versa over educational expansion. Both these effects are maintained in balance; educational expansion changes primarily their ratio. This holds true until one of the transitions becomes mostly universal. After that, its contribution (weighted origin effect) to IEO in completed education begins to diminish.",
+  "authors": [
+    {
+      "raw": "Katrnak, Tomas",
+      "family": "Katrnak",
+      "given": "Tomas"
+    },
+    {
+      "raw": "Hubatkova, Barbora",
+      "family": "Hubatkova",
+      "given": "Barbora"
+    }
+  ],
+  "authors_text": "Katrnak, Tomas; Hubatkova, Barbora",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcac003",
+  "doi_url": "https://doi.org/10.1093/esr/jcac003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

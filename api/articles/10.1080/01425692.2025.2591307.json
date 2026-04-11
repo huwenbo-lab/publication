@@ -1,0 +1,40 @@
+{
+  "title": "How has poverty segregation between schools changed in England 1989-2024, and what drives it?",
+  "abstract": "This paper looks at how disadvantaged pupils are clustered (or not) within schools in England. There are three main analyses of socio-economic and other segregation between secondary schools, based on the school level census (1989-2024), on a longitudinal version of the national pupil database (2009-2019), and on a new restricted database linking the national pupil database to household income (2009-2019). The focus is on poverty, represented by low income or eligibility for free school meals, but we also compare figures for special needs and having English as an additional language. It is clear from all three analyses that socio-economic segregation between schools has declined overall since 2011, in a way that has not happened previously for as long as data has been available. This reduction cannot be explained by increased poverty over time, or any other factor tested. A more plausible general explanation lies in the changes brought about by the Pupil Premium funding policy from 2011, which was intended to make disadvantaged pupils 'less unattractive' to schools when contested places are being decided.",
+  "authors": [
+    {
+      "raw": "Gorard, Stephen",
+      "family": "Gorard",
+      "given": "Stephen"
+    },
+    {
+      "raw": "Yang, Fujia",
+      "family": "Yang",
+      "given": "Fujia"
+    },
+    {
+      "raw": "Chen, Wenqing",
+      "family": "Chen",
+      "given": "Wenqing"
+    },
+    {
+      "raw": "Siddiqui, Nadia",
+      "family": "Siddiqui",
+      "given": "Nadia"
+    }
+  ],
+  "authors_text": "Gorard, Stephen; Yang, Fujia; Chen, Wenqing; Siddiqui, Nadia",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2025,
+  "doi": "10.1080/01425692.2025.2591307",
+  "doi_url": "https://doi.org/10.1080/01425692.2025.2591307",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2025.2591307",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2025.2591307.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

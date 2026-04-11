@@ -1,0 +1,25 @@
+{
+  "title": "Private Schools and \"Latino Flight\" from Black Schoolchildren",
+  "abstract": "Several recent studies provide evidence that the choice between private and public school among white students is influenced by the racial composition of the local student population.None of these studies, however, examines whether Latinos are also fleeing to private schools in response to black schoolchildren.I explore the \"Latino flight\" hypothesis using data from the National Educational Longitudinal Study (NELS) and a recently released confidential dataset from the National Center for Educational Statistics (NCES).In probit regressions for the probability of attending private school among Latinos, I find a large, positive and statistically significant coefficient on the black share of the school-age population.The coefficient estimates imply that a 10 percentage point increase in the black share increases the probability of private school attendance by 25.7 to 33.2 percent among Latino 8th graders and 35.2 to 52.2 percent among Latino 10th graders.I interpret these results as providing evidence of \"Latino flight\" from public schools into private schools.I do not find evidence that Latinos respond differently to black schoolchildren than do whites.",
+  "authors": [
+    {
+      "raw": "Fairlie, Robert W.",
+      "family": "Fairlie",
+      "given": "Robert W."
+    }
+  ],
+  "authors_text": "Fairlie, Robert W.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.2307/3180825",
+  "doi_url": "https://doi.org/10.2307/3180825",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3180825",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3180825.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

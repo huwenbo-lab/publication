@@ -1,0 +1,25 @@
+{
+  "title": "Decisions about Knowledge in Medical Practice: The Effect of Temporal Features of a Task",
+  "abstract": "A classic question of social science is how knowledge informs practice. Research on physicians' decisions about medical knowledge has focused on doctors' personal capabilities and features of the knowledge corpus, producing divergent findings. This study asks, instead, How is decision making about the use of knowledge influenced by features of work? From observations of one team's decisions in multiple clinical and administrative contexts, the author argues that making decisions is contingent upon temporal features of physicians' tasks. Physicians receive feedback at different speeds, and they must account for these speeds when judging what they can prioritize. This finding explains doctors' perceived uncertainty in other studies as a product of the long feedback loop in tasks, and their certainty or pragmatism as a product of shorter feedback loops. In these latter scenarios, physicians consider and deploy scientific knowledge after-and not before, as is usually assumed-determining a fruitful plan of action.",
+  "authors": [
+    {
+      "raw": "Menchik, Daniel A.",
+      "family": "Menchik",
+      "given": "Daniel A."
+    }
+  ],
+  "authors_text": "Menchik, Daniel A.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2014,
+  "doi": "10.1086/679105",
+  "doi_url": "https://doi.org/10.1086/679105",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F679105",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/679105.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

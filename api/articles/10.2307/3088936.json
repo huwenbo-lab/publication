@@ -1,0 +1,30 @@
+{
+  "title": "The political sociology of the death penalty: A pooled time-series analysis",
+  "abstract": "Despite the interest in the death penalty, no statistical studies have isolated the social and political forces that account for the legality of this punishment. Racial or ethnic threat theories suggest that the death penalty will more likely be legal in jurisdictions with relatively large black or Hispanic populations. Economic threat explanations suggest that this punishment will be present in unequal areas. Jurisdictions with a more conservative public or a stronger law-and-order Republican party should be more likely to legalize the death penalty as well. After controlling for social disorganization, region, period, and violent crime, panel analyses suggest that minority presence and economic inequality enhance the likelihood of a legal death penalty. Conservative values and Republican strength in the legislature have equivalent effects. A supplemental time-to-event analysis supports these conclusions. The results suggest that a political approach has explanatory power because threat effects expressed through politics and effects that are directly political invariably account for decisions about the legality of capital punishment.",
+  "authors": [
+    {
+      "raw": "Jacobs, D",
+      "family": "Jacobs",
+      "given": "D"
+    },
+    {
+      "raw": "Carmichael, JT",
+      "family": "Carmichael",
+      "given": "JT"
+    }
+  ],
+  "authors_text": "Jacobs, D; Carmichael, JT",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2002,
+  "doi": "10.2307/3088936",
+  "doi_url": "https://doi.org/10.2307/3088936",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088936",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088936.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

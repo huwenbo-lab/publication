@@ -1,0 +1,35 @@
+{
+  "title": "Three faces of the online leftists: An exploratory study based on case observations and big-data analysis",
+  "abstract": "Left-leaning social thoughts are not a unitary and coherent theoretical system, and leftists can be divided into divergent groups. Based on inductive qualitative observations, this article proposes a theoretical typology of two dimensions of theoretical resources and position orientations to describe left-wing social thoughts communicated in online space. Empirically, we used a mixed approach, an integration of case observations and big-data analyses of Weibo tweets, to investigate three types of left-leaning social thoughts. The identified left-leaning social thoughts include state-centered leftism, populist leftism, and liberal leftism, which are consistent with the proposed theoretical typology. State-centered leftism features strong support of the state and the current regime and a negative attitude toward the West, populist leftism is characterized by unequivocal affirmation of the revolutionary legacy and support for disadvantaged grassroots, and liberal leftism harbors a grassroots position and a decided affirmation of individual rights. In addition, we used supervised machine learning and social network analysis techniques to identify online communities that harbor the afore-mentioned left-leaning social thoughts and analyzed the interaction patterns within and across communities as well as the evolutions of community structures. We found that during the study period of 2012-2014, the liberal leftists gradually declined the corresponding communities dissolved; the interactions between populist leftists and state-centered leftists intensified, and the ideational cleavage between these two camps increased the online confrontations. This article demonstrates that the mixed method approach of integrating traditional methods with big-data analytics has enormous potential in the sub-discipline of digital sociology.",
+  "authors": [
+    {
+      "raw": "Gui, Yong",
+      "family": "Gui",
+      "given": "Yong"
+    },
+    {
+      "raw": "Huang, Ronggui",
+      "family": "Huang",
+      "given": "Ronggui"
+    },
+    {
+      "raw": "Ding, Yi",
+      "family": "Ding",
+      "given": "Yi"
+    }
+  ],
+  "authors_text": "Gui, Yong; Huang, Ronggui; Ding, Yi",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2020,
+  "doi": "10.1177/2057150x19896537",
+  "doi_url": "https://doi.org/10.1177/2057150x19896537",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x19896537",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x19896537.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

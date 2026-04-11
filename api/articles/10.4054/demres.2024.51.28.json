@@ -1,0 +1,25 @@
+{
+  "title": "Cash transfers and fertility: Evidence from Poland's Family 500+Policy",
+  "abstract": "BACKGROUND To increase the lowest fertility rate in the European Union in 2015, combat poverty, and invest in children's human capital, the Polish government launched a pronatalist cash transfer program in 2016. OBJECTIVE What are the short-term fertility effects of the Family 500+ cash transfer? Which groups of women responded to the cash transfer? METHODS Using the Polish Household Budget Survey (2010-2018), I estimate linear probability regression models to identify the effect of the cash transfer on the probability of a birth as a function of a woman's cash transfer eligibility, including heterogeneous effects by age, income, and education. RESULTS In the short term, the cash transfer is associated with an increased annual probability of overall births by 1.5 percentage points. Heterogeneity analyses reveal the cash transfer is associated with increased fertility for women aged 31-40 (0.7 to 1.8 percentage points), in contrast to decreased fertility for women aged 21-30 (2.2 to 2.6 percentage points) and women with higher household incomes (1 percentage point). CONCLUSIONS This analysis provides mixed evidence on the short-term efficacy of the cash transfer on fertility. Some demographic groups are more sensitive to the additional income, suggesting that the economic and social barriers to fertility are not equally distributed in the Polish population.",
+  "authors": [
+    {
+      "raw": "Bokun, Anna",
+      "family": "Bokun",
+      "given": "Anna"
+    }
+  ],
+  "authors_text": "Bokun, Anna",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.28",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

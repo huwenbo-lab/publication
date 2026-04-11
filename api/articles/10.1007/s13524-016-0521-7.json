@@ -1,0 +1,25 @@
+{
+  "title": "Parental Divorce and Children's Schooling in Rural Malawi",
+  "abstract": "A growing body of literature has examined the impact of different types of family structures on children's schooling in sub-Saharan Africa. These studies have investigated how living arrangements, gender of the household head, parental death, and paternal migration are related to schooling. Although many sub-Saharan African countries have high divorce rates, very few studies have explored the impact of parental divorce on children's schooling. The present study uses three waves of data from the Malawi Longitudinal Study of Families and Health (MLSFH) to investigate the effect of parental divorce on children's schooling and the possible mechanisms driving this relationship. Unlike prior studies, this study uses child-level fixed-effects models to control for selection into divorce. Results show that parental divorce is associated with lower grade attainment and a larger schooling gap, defined as the number of years a child is behind in school (among children currently attending school). Although no association exists between parental divorce and current school attendance, girls affected by divorce are significantly less likely to be attending school. Differences in economic resources, maternal coresidence, or maternal psychological well-being do not explain the relationship between parental divorce and children's schooling.",
+  "authors": [
+    {
+      "raw": "Chae, Sophia",
+      "family": "Chae",
+      "given": "Sophia"
+    }
+  ],
+  "authors_text": "Chae, Sophia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0521-7",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0521-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0521-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0521-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

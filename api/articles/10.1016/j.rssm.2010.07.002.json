@@ -1,0 +1,25 @@
+{
+  "title": "Competing sources of earnings inequality: A comparison of variance components",
+  "abstract": "Using data from the National Longitudinal Survey of Youth, this study partitions competing sources of earnings variation into four components: a component for individual-level factors, a component for transitory factors, a component for occupational factors, and a component for geographic factors. From these variance components intraclass correlation coefficients are calculated and compared within and across seven ascriptive statuses: non-Hispanic white, non-Hispanic black, Latino, women, men, foreign-born and U.S. born statuses. Among those of age 25 to middle adulthood, the results indicate that the transitory component is the largest source of variation in earnings, followed by individual-level factors. Occupational factors and geographic factors combined account for nearly the amount of earnings variation as individual-level factors. The omission of these socio-structural factors inflates the size of the individual-level variance component by over 35 percent. Counter to expectations, the variance profiles are remarkably similar across ascriptive statuses. Indeed, the variance profiles for whites and blacks are nearly identical. Modest differences in intraclass correlation coefficients are found between men and women. Relative to men, less of the variation in earnings for women is attributed to individual-level factors, and slightly more of the variation in earnings for women is attributed to occupational factors and transitory factors. This research draws attention to universal theories of earnings inequality. (C) 2010 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Pais, Jeremy",
+      "family": "Pais",
+      "given": "Jeremy"
+    }
+  ],
+  "authors_text": "Pais, Jeremy",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2010,
+  "doi": "10.1016/j.rssm.2010.07.002",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2010.07.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2010.07.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2010.07.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The scarring effect of unemployment on psychological well-being across Europe",
+  "abstract": "Past unemployment may have a pervasive psychological impact that occurs across nations. We investigate the association between unemployment events across working life and subsequent psychological well-being across 14 European countries. Additionally, we consider the influence of between-country differences in labour market institutions and conditions on the cross-country well-being effects of unemployment. Data detailing life-long employment trajectories and contemporary life conditions are drawn from the Survey of Health, Ageing and Retirement in Europe. The well-being impact of unemployment is modeled using linear, multi-level specifications. Each six-month spell of past unemployment is found to predict reduced quality of life and life satisfaction after the age of 50, having adjusted for a broad range of individual and country-specific covariates. In contrast, the impact of past unemployment on depression is explained by individual demographic factors. We identify the first comparative long-term evidence that unemployment welfare scarring may be a broad, international phenomenon.",
+  "authors": [
+    {
+      "raw": "Mousteri, Victoria",
+      "family": "Mousteri",
+      "given": "Victoria"
+    },
+    {
+      "raw": "Daly, Michael",
+      "family": "Daly",
+      "given": "Michael"
+    },
+    {
+      "raw": "Delaney, Liam",
+      "family": "Delaney",
+      "given": "Liam"
+    }
+  ],
+  "authors_text": "Mousteri, Victoria; Daly, Michael; Delaney, Liam",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.01.007",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.01.007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.01.007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.01.007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

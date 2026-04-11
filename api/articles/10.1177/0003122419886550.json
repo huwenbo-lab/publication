@@ -1,0 +1,55 @@
+{
+  "title": "Genes, Gender Inequality, and Educational Attainment",
+  "abstract": "Women's opportunities have been profoundly altered over the past century by reductions in the social and structural constraints that limit women's educational attainment. Do social constraints manifest as a suppressing influence on genetic indicators of potential, and if so, did equalizing opportunity mean equalizing the role of genetics? We address this with three cohort studies: the Wisconsin Longitudinal Study (WLS; birth years 1939 to 1940), the Health and Retirement Study, and the National Longitudinal Study of Adolescent Health (Add Health; birth years 1975 to 1982). These studies include a polygenic score for educational attainment, providing a novel opportunity to explore this question. We find that within the WLS cohort, the relationship between genetics and educational outcomes is weaker for women than for men. However, as opportunities changed in the 1970s and 1980s, and many middle-aged women went back to school, the relationship between genetic factors and education strengthened for women as they aged. Furthermore, utilizing the HRS and Add Health, we find that as constraints limiting women's educational attainment declined, gender differences in the relationship between genetics and educational outcomes weakened. We demonstrate that genetic influence must be understood through the lens of historical change, the life course, and social structures like gender.",
+  "authors": [
+    {
+      "raw": "Herd, Pamela",
+      "family": "Herd",
+      "given": "Pamela"
+    },
+    {
+      "raw": "Freese, Jeremy",
+      "family": "Freese",
+      "given": "Jeremy"
+    },
+    {
+      "raw": "Sicinski, Kamil",
+      "family": "Sicinski",
+      "given": "Kamil"
+    },
+    {
+      "raw": "Domingue, Benjamin W.",
+      "family": "Domingue",
+      "given": "Benjamin W."
+    },
+    {
+      "raw": "Harris, Kathleen Mullan",
+      "family": "Harris",
+      "given": "Kathleen Mullan"
+    },
+    {
+      "raw": "Wei, Caiping",
+      "family": "Wei",
+      "given": "Caiping"
+    },
+    {
+      "raw": "Hauser, Robert M.",
+      "family": "Hauser",
+      "given": "Robert M."
+    }
+  ],
+  "authors_text": "Herd, Pamela; Freese, Jeremy; Sicinski, Kamil; Domingue, Benjamin W.; Harris, Kathleen Mullan; Wei, Caiping; Hauser, Robert M.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419886550",
+  "doi_url": "https://doi.org/10.1177/0003122419886550",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419886550",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419886550.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

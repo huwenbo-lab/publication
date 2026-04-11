@@ -62,20 +62,28 @@ publication/
 ├── update.py                  # 定期更新脚本
 ├── check_quality.py           # 数据质量检查
 ├── build_lit_db.py            # 生成 lit_db/ 目录
+├── build_article_api.py       # 生成 api/ 静态 JSON 端点
 ├── build_search_db.py         # 构建 SQLite FTS5 全文检索数据库
+├── opensearch.xml             # 浏览器地址栏搜索描述文件
+├── .github/workflows/update.yml # 每周自动更新 workflow
 │
 ├── raw_data/                  # Web of Science 原始导出文件（归档）
 │   └── *.xls                  # 17 本期刊的 Excel 导出文件
 │
-└── lit_db/                    # 轻量级文献索引（供 AI 查阅）
-    ├── overview.md            # 数据库概况（~3KB，可直接给 AI 读）
-    ├── titles/
-    │   ├── all_titles.tsv     # 全量标题索引，可 grep（~5MB）
-    │   └── by_journal/        # 按期刊：每个文件含该刊所有标题
-    └── abstracts/
-        ├── 2020_2026/         # 近6年文章，含摘要片段，按期刊
-        ├── 2010_2019/         # 2010–2019 年
-        └── 2000_2009/         # 2000–2009 年
+├── lit_db/                    # 轻量级文献索引（供 AI 查阅）
+│   ├── overview.md            # 数据库概况（~3KB，可直接给 AI 读）
+│   ├── titles/
+│   │   ├── all_titles.tsv     # 全量标题索引，可 grep（~5MB）
+│   │   └── by_journal/        # 按期刊：每个文件含该刊所有标题
+│   └── abstracts/
+│       ├── 2020_2026/         # 近6年文章，含摘要片段，按期刊
+│       ├── 2010_2019/         # 2010–2019 年
+│       └── 2000_2009/         # 2000–2009 年
+└── api/                       # 静态 JSON 端点（供 AI / 外部工具读取）
+    ├── overview.json
+    ├── journals.json
+    └── articles/
+        └── 10.1086/714825.json
 ```
 
 ---
@@ -110,6 +118,7 @@ python update.py --dry-run    # 仅检查，不写入
 
 ```bash
 python build_lit_db.py        # 重建 AI 查阅索引
+python build_article_api.py   # 重建静态 JSON 端点
 python build_search_db.py     # 重建全文检索数据库
 ```
 
@@ -159,6 +168,7 @@ python build_articles.py      # 从 raw_data/*.xls 重建
 python enrich_crossref.py     # CrossRef 补全（耗时较长）
 python enrich_openalex.py     # OpenAlex + S2 二次补全摘要
 python build_lit_db.py        # 重建 AI 查阅索引
+python build_article_api.py   # 重建静态 JSON 端点
 python build_search_db.py     # 重建全文检索数据库
 ```
 
@@ -181,6 +191,26 @@ https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/
 ```
 
 从这里开始：[`lit_db/overview.md`](lit_db/overview.md)
+
+网页端文章详情弹窗也会直接给出：
+- 单篇 JSON：`/api/articles/[DOI路径].json`
+- 本刊标题索引 raw URL
+- 同年份段摘要 raw URL
+- 可复制给 AI 的提示词
+
+---
+
+## 静态 API
+
+`api/` 目录为机器可读导出：
+
+```text
+/api/overview.json
+/api/journals.json
+/api/articles/10.1086/714825.json
+```
+
+其中单篇端点按 DOI 生成，规则是把 DOI 按 `/` 拆成路径层级，再给最后一段加 `.json`。
 
 ---
 

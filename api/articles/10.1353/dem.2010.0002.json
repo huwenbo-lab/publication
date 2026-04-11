@@ -1,0 +1,30 @@
+{
+  "title": "Some macroeconomic aspects of global population aging",
+  "abstract": "Abstract Across the demographic transition, declining mortality followed by declining fertility produces decades of rising support ratios as child dependency falls. These improving support ratios raise per capita consumption, other things equal, but eventually deteriorate as the population ages. Population aging and the forces leading to it can produce not only frightening declines in support ratios but also very substantial increases in productivity and per capita income by raising investment in physical and human capital. Longer life, lower fertility, and population aging all raise the demand for wealth needed to provide for old-age consumption. This leads to increased capital per worker even as aggregate saving rates fall. However, capital per worker may not rise if the increased demand for wealth is satisfied by increased familial or public pension transfers to the elderly. Thus, institutions and policies matter for the consequences of population aging. The accumulation of human capital also varies across the transition. Lower fertility and mortality are associated with higher human capital investment per child, also raising labor productivity. Together, the positive changes due to human and physical capital accumulation will likely outweigh the problems of declining support ratios. We draw on estimates and analyses from the National Transfer Accounts project to illustrate and quantify these points.",
+  "authors": [
+    {
+      "raw": "Lee, Ronald",
+      "family": "Lee",
+      "given": "Ronald"
+    },
+    {
+      "raw": "Mason, Andrew",
+      "family": "Mason",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Lee, Ronald; Mason, Andrew",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.2010.0002",
+  "doi_url": "https://doi.org/10.1353/dem.2010.0002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2010.0002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2010.0002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

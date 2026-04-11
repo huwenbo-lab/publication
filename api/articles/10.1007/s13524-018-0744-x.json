@@ -1,0 +1,35 @@
+{
+  "title": "Prevalence and Risk Factors for Early Motherhood Among Low-Income, Maltreated, and Foster Youth",
+  "abstract": "Early childbearing is associated with a host of educational and economic disruptions for teenage girls and increased risk of adverse outcomes for their children. Low-income, maltreated, and foster youth have a higher risk of teen motherhood than the general population of youth. In this study, we assessed differences in the risk of early motherhood among these groups and investigated whether differences likely reflect selection factors versus effects of involvement with Child Protective Services (CPS) or foster care. Using a statewide linked administrative data system for Wisconsin, we employed survival analysis to estimate the hazard of early birth (child conceived prior to age 18) among females. We found that both the youth involved in CPS and youth in foster care were at significantly higher risk of early motherhood than low-income youth, and these differences were not explained by a range of sociodemographic and family composition characteristics. Moreover, our findings indicate that CPS and foster care are unlikely to be causal agents in the risk of early motherhood: among foster youth, risk was lower during foster care compared with before; among CPS-involved girls, risk was the same or lower after CPS investigation compared with before. Subsequent analysis showed that after girls exited foster care, those who were reunified with their birth families were at higher risk than those placed in adoption or guardianship. Overall, our findings suggest that whereas CPS and foster youth are high-risk populations for early motherhood, CPS involvement and foster care placement do not exacerbate, and may instead reduce, risk.",
+  "authors": [
+    {
+      "raw": "Font, Sarah A.",
+      "family": "Font",
+      "given": "Sarah A."
+    },
+    {
+      "raw": "Cancian, Maria",
+      "family": "Cancian",
+      "given": "Maria"
+    },
+    {
+      "raw": "Berger, Lawrence M.",
+      "family": "Berger",
+      "given": "Lawrence M."
+    }
+  ],
+  "authors_text": "Font, Sarah A.; Cancian, Maria; Berger, Lawrence M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-018-0744-x",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0744-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0744-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0744-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

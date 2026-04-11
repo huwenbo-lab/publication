@@ -1,0 +1,25 @@
+{
+  "title": "Communities of classes: A network approach to social mobility",
+  "abstract": "Based on recent insights in network analysis, a new approach to the analysis and interpretation of social mobility data is presented. The approach advocates using community detection methods to identify communities of classes within which classes share members at above expected rates and between which classes share members at below expected rates. This approach, when applied to mobility data, offers novel interpretations of mobility patterns and may be used to substantially improve the fit of models of social mobility. To illustrate, the community structure of social mobility is analyzed using data from the General Social Survey. Several models are employed to demonstrate both the interpretation of the community structure of social mobility as well as how the community structure may be implemented to improve model fit. (C) 2015 Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Melamed, David",
+      "family": "Melamed",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Melamed, David",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2015,
+  "doi": "10.1016/j.rssm.2015.05.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2015.05.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2015.05.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2015.05.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

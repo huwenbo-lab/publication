@@ -1,0 +1,35 @@
+{
+  "title": "How Do Women and Men Use Extra Time? Housework and Childcare after the French 35-Hour Workweek Regulation",
+  "abstract": "This paper analyses how and when men and women devote their extra time to childcare and housework by exploiting an exogenous shock in scheduling: the partial implementation of the 35-hour work-week reform in France. Using propensity score matching and the most recent time use survey (INSEE, 2010), we show that time reallocations differ by gender and day of the week. While men dedicate their extra time to performing more housework on weekdays in the form of mainly time-flexible tasks such as repairs or shopping, they do less on weekends. This shift from weekends to weekdays is not observed for women who perform day-to-day tasks that are less transferable. Women spend more time on childcare and reduce multitasking. Overall, task specialization by gender is more pronounced, and this gendered use of similar extra time illustrates that time allocation is not only a question of time availability. In particular, men and women 'do gender' at weekends, when performing tasks is more visible to others.",
+  "authors": [
+    {
+      "raw": "Pailhe, Ariane",
+      "family": "Pailhe",
+      "given": "Ariane"
+    },
+    {
+      "raw": "Solaz, Anne",
+      "family": "Solaz",
+      "given": "Anne"
+    },
+    {
+      "raw": "Souletie, Arthur",
+      "family": "Souletie",
+      "given": "Arthur"
+    }
+  ],
+  "authors_text": "Pailhe, Ariane; Solaz, Anne; Souletie, Arthur",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcz039",
+  "doi_url": "https://doi.org/10.1093/esr/jcz039",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz039",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz039.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

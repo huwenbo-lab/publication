@@ -1,0 +1,30 @@
+{
+  "title": "The Presence of Organizational Resources in Poor Urban Neighborhoods: An Analysis of Average and Contextual Effects",
+  "abstract": "Wilson (1987) and others argue that poor neighborhoods lack important organizational resources the middle class takes for granted, such as childcare centers, grocery stores and pharmacies. However, this approach does not distinguish poor neighborhoods from segregated neighborhoods, ignores immigration and neglects city differences. Using Department of Commerce and 2000 Census data for zip codes in 331 MSA/PMSAs, we estimate HGLM models predicting the number of each of 10 organizational resources. We find that, (1) on average, as the poverty rate of a neighborhood increases, the number of establishments increases slightly; (2) as the proportion of blacks increases, the number of establishments decreases; (3) as the proportion of foreign-born increases, so does the number of establishments. Finally (4), metropolitan context matters: poor neighborhoods have more establishments in cities with low poverty rates, and in cities in the South and West, than in other parts of the country. Findings suggest reevaluating the de-institutionalized ghetto perspective as a theory of the effects of black segregation and depopulation, rather than poverty concentration, and approaching neighborhood poverty from a conditional perspective.",
+  "authors": [
+    {
+      "raw": "Small, M. L.",
+      "family": "Small",
+      "given": "M. L."
+    },
+    {
+      "raw": "McDermott, M.",
+      "family": "McDermott",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Small, M. L.; McDermott, M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2006,
+  "doi": "10.1353/sof.2006.0067",
+  "doi_url": "https://doi.org/10.1353/sof.2006.0067",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2006.0067",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2006.0067.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

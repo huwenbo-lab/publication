@@ -1,0 +1,35 @@
+{
+  "title": "Ethnic Politics and Armed Conflict: A Configurational Analysis of a New Global Data Set",
+  "abstract": "Quantitative scholarship on civil wars has long debated whether ethnic diversity breeds armed conflict. We go beyond this debate and show that highly diverse societies are not more conflict prone. Rather states characterized by certain ethnopolitical configurations of power are more likely to experience violent conflict. First, armed rebellions are more likely to challenge states that exclude large portions of the population on the basis of ethnic background. Second, when a large number of competing elites share power in a segmented state, the risk of violent infighting increases. Third, incohesive states with a short history of direct rule are more likely to experience secessionist conflicts. We test these hypotheses for all independent states since 1945 using the new Ethnic Power Relations (EPR) data set. Cross-national analysis demonstrates that ethnic politics is as powerful and robust in predicting civil wars as is a country level of economic development. Using multinomial logit regression, we show that rebellion, infighting, and secession result from high degrees of exclusion, segmentation, and incohesion, respectively. More diverse states, on the other hand, are not more likely to suffer from violent conflict.",
+  "authors": [
+    {
+      "raw": "Wimmer, Andreas",
+      "family": "Wimmer",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Cederman, Lars-Erik",
+      "family": "Cederman",
+      "given": "Lars-Erik"
+    },
+    {
+      "raw": "Min, Brian",
+      "family": "Min",
+      "given": "Brian"
+    }
+  ],
+  "authors_text": "Wimmer, Andreas; Cederman, Lars-Erik; Min, Brian",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2009,
+  "doi": "10.1177/000312240907400208",
+  "doi_url": "https://doi.org/10.1177/000312240907400208",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240907400208",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240907400208.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

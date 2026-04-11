@@ -1,0 +1,35 @@
+{
+  "title": "Living Arrangements and Supplemental Income Programs for Older Adults in Mexico",
+  "abstract": "Living arrangements often reflect important quality-of-life indicators for elderly adults. In particular, increased income can prompt changes in household living arrangements for elderly adults. Using a differences-in-differences approach, we examine whether a supplemental income program in Mexico for adults aged 70 and older influenced household size and composition. We compare outcomes at baseline and at six-month follow-up for elderly adults in the treatment group with those in the control group that did not participate in the program. We find that household size increased by 3% in the treatment group relative to the control group. We also find a statistically significant increase in the number of girls aged 6-11 in the household, likely the granddaughters or great-granddaughters of program recipients. Increases in household size were greatest for adults aged 70-79, couples, households receiving two or more supplemental incomes, and households in the top income tercile. Household size did not increase for households of adults aged 80 and older, singles, households with only one supplemental income recipient, and households not in the top income tercile. These results suggest that when older adults have more income, they use part of this income to house their grandchildren.",
+  "authors": [
+    {
+      "raw": "Aguila, Emma",
+      "family": "Aguila",
+      "given": "Emma"
+    },
+    {
+      "raw": "Park, Jung Ho",
+      "family": "Park",
+      "given": "Jung Ho"
+    },
+    {
+      "raw": "Vega, Alma",
+      "family": "Vega",
+      "given": "Alma"
+    }
+  ],
+  "authors_text": "Aguila, Emma; Park, Jung Ho; Vega, Alma",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00879-3",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00879-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00879-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00879-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

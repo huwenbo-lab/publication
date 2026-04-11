@@ -1,0 +1,30 @@
+{
+  "title": "Adolescent Cognitive Skills, Attitudinal/Behavioral Traits and Career Wages",
+  "abstract": "We use panel data from the National Longitudinal Survey of Youth (NLSY79) to estimate the effects of cognitive skills (measured by the Armed Forces Qualification Test) and attitudinal/behavioral traits (a latent factor based on self-reported self-esteem, locus of control, educational aspirations and educational expectations) on career wage trajectories of white, black and Latino/a men and women. We find that both cognitive and attitudinal/behavioral traits affect initial wages and wage growth, above and beyond their effects on schooling and transcript-reported high school grades. The relative size of these effects, however, varies by race/ethnicity. We also show that black and Latino men, and black women have substantially flatter wage trajectories than white men and women. Using wage decomposition techniques, we find that the lower wages of these groups are partially, but not fully, accounted for by group differences in cognitive skill and attitudinal/behavioral traits.",
+  "authors": [
+    {
+      "raw": "Hall, M.",
+      "family": "Hall",
+      "given": "M."
+    },
+    {
+      "raw": "Farkas, G.",
+      "family": "Farkas",
+      "given": "G."
+    }
+  ],
+  "authors_text": "Hall, M.; Farkas, G.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2011,
+  "doi": "10.1093/sf/89.4.1261",
+  "doi_url": "https://doi.org/10.1093/sf/89.4.1261",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2F89.4.1261",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/89.4.1261.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

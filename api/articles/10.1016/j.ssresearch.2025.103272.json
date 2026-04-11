@@ -1,0 +1,30 @@
+{
+  "title": "Moving homes, changing perspectives: How residential and social mobility in childhood shape locus of control and adult mental health",
+  "abstract": "Early-life relocations are often linked to developmental disruptions and poorer psychological outcomes. While their long-term implications are typically attributed to the frequency of residential moves, the role of social class changes accompanying those moves remains underexplored. To address this gap, we examine whether combined patterns of residential and social class mobility during childhood associate with adolescent locus of control at age 16-the belief that one's outcomes are influenced by personal agency-and, in turn, adult mental health at age 34. Using five waves of the 1970 British Cohort Study, following participants from birth through 2004, we apply delta-adjusted inverse probability weighted mediation models to account for attrition and non-random missingness. We find that frequent moves are not inherently harmful. Instead, negative consequences primarily emerge when mobility is accompanied by downward class mobility within the family context. Conversely, moderate residential change in the context of upward class movement is connected to a stronger internal locus of control in adolescence and better mental health later in life. These associations hold independently of baseline socioeconomic status. A complementary test of moves into South-East England-characterised as an 'escalator' region-yields similar results to those for upward social mobility, underscoring the role of opportunity structures in shaping psychological trajectories. Our findings emphasise the value of contextualising residential mobility within broader life-course trajectories and point to locus of control as a key mechanism linking early instability to later inequality.",
+  "authors": [
+    {
+      "raw": "Valente, Riccardo",
+      "family": "Valente",
+      "given": "Riccardo"
+    },
+    {
+      "raw": "Vidal, Sergi",
+      "family": "Vidal",
+      "given": "Sergi"
+    }
+  ],
+  "authors_text": "Valente, Riccardo; Vidal, Sergi",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2026,
+  "doi": "10.1016/j.ssresearch.2025.103272",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103272",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103272",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103272.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

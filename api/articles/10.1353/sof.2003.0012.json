@@ -1,0 +1,30 @@
+{
+  "title": "The Political Context of Sentencing: An Analysis of Community and Individual Determinants",
+  "abstract": "Most studies of jail or prison sentence length focus on whether offender characteristics produce sentencing differentials after legal effects have been controlled, but the findings in the literature have not been consistent, probably because most studies have been based on a few jurisdictions. To see if political effects explain these discrepancies, this study of 337 jurisdictions in seven states analyzes interaction effects between external political influences and offender attributes after holding constant multiple individual and environmental factors. To adjust for censoring, Tobit is used to analyze the length of sentences, while state differences are held constant with state-specific dummy variables. When interaction terms are not included, the results are consistent with prior research. But the inclusion of political interactions produces findings suggesting that African Americans and males receive longer sentences when local courts are embedded in conservative political environments where a law-and-order presidential candidate received more votes. These results support theoretical claims that punishment is an intensely political process.",
+  "authors": [
+    {
+      "raw": "Helms, R.",
+      "family": "Helms",
+      "given": "R."
+    },
+    {
+      "raw": "Jacobs, D.",
+      "family": "Jacobs",
+      "given": "D."
+    }
+  ],
+  "authors_text": "Helms, R.; Jacobs, D.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2002,
+  "doi": "10.1353/sof.2003.0012",
+  "doi_url": "https://doi.org/10.1353/sof.2003.0012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2003.0012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2003.0012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

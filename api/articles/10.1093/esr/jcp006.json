@@ -1,0 +1,25 @@
+{
+  "title": "Logistic Regression: Why We Cannot Do What We Think We Can Do, and What We Can Do About It",
+  "abstract": "Logistic regression estimates do not behave like linear regression estimates in one important respect: They are affected by omitted variables, even when these variables are unrelated to the independent variables in the model. This fact has important implications that have gone largely unnoticed by sociologists. Importantly, we cannot straightforwardly interpret log-odds ratios or odds ratios as effect measures, because they also reflect the degree of unobserved heterogeneity in the model. In addition, we cannot compare log-odds ratios or odds ratios for similar models across groups, samples, or time points, or across models with different independent variables in a sample. This article discusses these problems and possible ways of overcoming them.",
+  "authors": [
+    {
+      "raw": "Mood, C.",
+      "family": "Mood",
+      "given": "C."
+    }
+  ],
+  "authors_text": "Mood, C.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2009,
+  "doi": "10.1093/esr/jcp006",
+  "doi_url": "https://doi.org/10.1093/esr/jcp006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcp006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcp006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Variable Selection and Parameter Tuning for BART Modeling in the Fragile Families Challenge",
+  "abstract": "Our goal for the Fragile Families Challenge was to develop a hands-off approach that could be applied in many settings to identify relationships that theory-based models might miss. Data processing was our first and most time-consuming task, particularly handling missing values. Our second task was to reduce the number of variables for modeling, and we compared several techniques for variable selection: least absolute selection and shrinkage operator, regression with a horseshoe prior, Bayesian generalized linear models, and Bayesian additive regression trees (BART). We found minimal differences in final performance based on the choice of variable selection method. We proceeded with BART for modeling because it requires minimal assumptions and permits great flexibility in fitting surfaces and based on previous success using BART in black-box modeling competitions. In addition, BART allows for probabilistic statements about the predictions and other inferences, which is an advantage over most machine learning algorithms. A drawback to BART, however, is that it is often difficult to identify or characterize individual predictors that have strong influences on the outcome variable.",
+  "authors": [
+    {
+      "raw": "Carnegie, Nicole Bohme",
+      "family": "Carnegie",
+      "given": "Nicole Bohme"
+    },
+    {
+      "raw": "Wu, James",
+      "family": "Wu",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Carnegie, Nicole Bohme; Wu, James",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119825886",
+  "doi_url": "https://doi.org/10.1177/2378023119825886",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119825886",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119825886.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

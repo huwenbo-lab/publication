@@ -1,0 +1,30 @@
+{
+  "title": "Gendering health differences between nonmigrants and migrants by duration of stay in Italy",
+  "abstract": "BACKGROUND Gender and migrant status are important factors for health. A common finding is that women report poorer health than men and that migrants' health converges with nonmigrants' health as the duration of stay in the host country increases. However, little is known about whether gender differences in health persist within migrant groups and whether the migrant-native health convergence differs by gender, especially in the Italian context. OBJECTIVE This study aims to include the gender dimension in the analysis of the health differences between Italians and migrants by duration of stay, focusing on how gender interacts with duration of stay in determining migrants' health. METHODS We performed multivariate logistic regression on a sample of 70,154 residents in Italy aged 20-64, using the 2013 Italian Health Survey. We modelled the association between duration of stay and three health dimensions by gender and computed predicted probabilities to show the interaction effect of gender and duration of stay. RESULTS We found evidence of a migrant health advantage among recent migrant men and women that becomes weaker among long-term migrants. After a long duration of stay, differences in health between migrants and nonmigrants are slightly more pronounced among women than among men. CONTRIBUTION This is the first study in Italy that contributes to a more comprehensive understanding of the role played by gender in determining the health differences observed. The study highlights the need to consider migrant status and gender in tandem when looking at adult health inequalities.",
+  "authors": [
+    {
+      "raw": "Trappolini, Eleonora",
+      "family": "Trappolini",
+      "given": "Eleonora"
+    },
+    {
+      "raw": "Giudici, Cristina",
+      "family": "Giudici",
+      "given": "Cristina"
+    }
+  ],
+  "authors_text": "Trappolini, Eleonora; Giudici, Cristina",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.7",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

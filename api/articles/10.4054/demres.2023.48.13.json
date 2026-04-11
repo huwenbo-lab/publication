@@ -1,0 +1,35 @@
+{
+  "title": "World population aging as a function of period demographic conditions",
+  "abstract": "BACKGROUNDPopulation aging is a fundamental element of the demographic transition. In the absence of births, deaths, and migration, the mean age of any population will increase one year per calendar year. The intensity of period birth, death, and migration conditions (i.e., their crude rates and the difference between their mean age and the mean age of the population) either lessen or strengthen this natural tendency of populations to age.OBJECTIVEWe investigate the contribution of births, deaths, and migration to population aging across the globe from 1950 to 2100. We examine whether a concerted pattern of population aging is associated with changes in period demographic conditions.METHODSWe apply a mathematical expression proposed by Preston, Himes, and Eggers (1989) that decomposes the rate of change in the mean age of a population according to period demographic conditions. We use the 2022 revision of the United Nations population estimates and projections covering 236 countries or areas.RESULTSDuring the demographic transition, population aging follows a general concerted pattern characterized by five distinct stages. Populations age because of declining inflows (births) at age zero and insufficient outflows (deaths) at older ages. Overall, migration does not play a pivotal role but can be more relevant in specific countries or regions.CONTRIBUTION Our study combines long-time series data for most countries in the world with an elegant mathematical solution proposed by Preston, Himes, and Eggers (1989) to empirically measure the dynamics of population aging according to period demographic conditions.",
+  "authors": [
+    {
+      "raw": "Fernandes, Fernando",
+      "family": "Fernandes",
+      "given": "Fernando"
+    },
+    {
+      "raw": "Turra, Cussio M.",
+      "family": "Turra",
+      "given": "Cussio M."
+    },
+    {
+      "raw": "Rios-Neto, Eduardo L. G.",
+      "family": "Rios-Neto",
+      "given": "Eduardo L. G."
+    }
+  ],
+  "authors_text": "Fernandes, Fernando; Turra, Cussio M.; Rios-Neto, Eduardo L. G.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.13",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

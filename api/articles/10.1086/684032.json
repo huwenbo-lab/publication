@@ -1,0 +1,40 @@
+{
+  "title": "Ethnic Composition and Friendship Segregation: Differential Effects for Adolescent Natives and Immigrants",
+  "abstract": "Ethnically diverse settings provide opportunities for interethnic friendship but can also increase the preference for same-ethnic friendship. Therefore, same-ethnic friendship preferences, or ethnic homophily, can work at cross-purposes with policy recommendations to diversify ethnic representation in social settings. In order to effectively overcome ethnic segregation, we need to identify those factors within diverse settings that exacerbate the tendency toward ethnic homophily. Using unique data and multiple network analyses, the authors examine 529 adolescent friendship networks in English, German, Dutch, and Swedish schools and find that the ethnic composition of school classes relates differently to immigrant and native homophily. Immigrant homophily disproportionately increases as immigrants see more same-ethnic peers, and friendship density among natives has no effect on this. By contrast, native homophily remains relatively low until natives see dense groups of immigrants. The authors' results suggest that theories of interethnic competition and contact opportunities apply differently to ethnic majority and minority groups.",
+  "authors": [
+    {
+      "raw": "Smith, Sanne",
+      "family": "Smith",
+      "given": "Sanne"
+    },
+    {
+      "raw": "Van Tubergen, Frank",
+      "family": "Van Tubergen",
+      "given": "Frank"
+    },
+    {
+      "raw": "Maas, Ineke",
+      "family": "Maas",
+      "given": "Ineke"
+    },
+    {
+      "raw": "McFarland, Daniel A.",
+      "family": "McFarland",
+      "given": "Daniel A."
+    }
+  ],
+  "authors_text": "Smith, Sanne; Van Tubergen, Frank; Maas, Ineke; McFarland, Daniel A.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2016,
+  "doi": "10.1086/684032",
+  "doi_url": "https://doi.org/10.1086/684032",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F684032",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/684032.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

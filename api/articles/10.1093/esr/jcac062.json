@@ -1,0 +1,25 @@
+{
+  "title": "No Matthew effects and stable SES gaps in math and language achievement growth throughout schooling: Evidence from Germany",
+  "abstract": "The extent to which achievement gaps become wider or narrower over the course of schooling is a topic that is widely discussed, both publicly and in educational research. This study examines whether absolute achievement (in language and math skills) and social origin gaps grow throughout the school career. To investigate the achievement growth of three German student cohorts (N = 14,273) at different stages of their school career (primary school, lower secondary school, and upper secondary school), I use multilevel models to estimate the effects of prior achievement and social origin on achievement growth. The results consistently suggest a negative association between prior achievement and subsequent growth; hence, initially low-performing students have higher achievement gains than initially high-performing students. Additionally, I find that social origin gaps remain stable over time. However, when controlling for initial achievement, slightly growing socio-economic status gaps can be observed.",
+  "authors": [
+    {
+      "raw": "Nennstiel, Richard",
+      "family": "Nennstiel",
+      "given": "Richard"
+    }
+  ],
+  "authors_text": "Nennstiel, Richard",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac062",
+  "doi_url": "https://doi.org/10.1093/esr/jcac062",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac062",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac062.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

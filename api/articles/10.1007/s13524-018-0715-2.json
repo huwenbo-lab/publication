@@ -1,0 +1,45 @@
+{
+  "title": "Promises and Pitfalls of Using Digital Traces for Demographic Research",
+  "abstract": "The digital traces that we leave online are increasingly fruitful sources of data for social scientists, including those interested in demographic research. The collection and use of digital data also presents numerous statistical, computational, and ethical challenges, motivating the development of new research approaches to address these burgeoning issues. In this article, we argue that researchers with formal training in demography-those who have a history of developing innovative approaches to using challenging data-are well positioned to contribute to this area of work. We discuss the benefits and challenges of using digital trace data for social and demographic research, and we review examples of current demographic literature that creatively use digital trace data to study processes related to fertility, mortality, and migration. Focusing on Facebook data for advertisers-a novel digital census that has largely been untapped by demographers-we provide illustrative and empirical examples of how demographic researchers can manage issues such as bias and representation when using digital trace data. We conclude by offering our perspective on the road ahead regarding demography and its role in the data revolution.",
+  "authors": [
+    {
+      "raw": "Cesare, Nina",
+      "family": "Cesare",
+      "given": "Nina"
+    },
+    {
+      "raw": "Lee, Hedwig",
+      "family": "Lee",
+      "given": "Hedwig"
+    },
+    {
+      "raw": "McCormick, Tyler",
+      "family": "McCormick",
+      "given": "Tyler"
+    },
+    {
+      "raw": "Spiro, Emma",
+      "family": "Spiro",
+      "given": "Emma"
+    },
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    }
+  ],
+  "authors_text": "Cesare, Nina; Lee, Hedwig; McCormick, Tyler; Spiro, Emma; Zagheni, Emilio",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0715-2",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0715-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0715-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0715-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

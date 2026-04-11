@@ -1,0 +1,30 @@
+{
+  "title": "Appropriate methods for analyzing the effect of method choice on contraceptive discontinuation",
+  "abstract": "Abstract The contraceptive method chosen is an important determinant of contraceptive discontinuation. However, method choice is endogenous to contraceptive discontinuation. Using data from the 1997 Indonesia Demographic and Health Survey, we apply a multilevel multiprocess model to examine the impact of method choice on three types of contraceptive discontinuation. We confirm that method choice is endogenous to the processes of contraceptive abandonment and method switching, but not failure. Ignoring the endogeneity of contraceptive choice leads to various biases in the magnitude of estimated effects of method choice on abandonment and method switching, but the general conclusions are robust to these biases.",
+  "authors": [
+    {
+      "raw": "Steele, Fiona",
+      "family": "Steele",
+      "given": "Fiona"
+    },
+    {
+      "raw": "Curtis, Siân",
+      "family": "Curtis",
+      "given": "Siân"
+    }
+  ],
+  "authors_text": "Steele, Fiona; Curtis, Siân",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.1353/dem.2003.0009",
+  "doi_url": "https://doi.org/10.1353/dem.2003.0009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2003.0009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2003.0009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Health interventions and health equity: The example of measles vaccination in Bangladesh",
+  "abstract": "Although the existence of socioeconomic differentials in infant and childhood mortality in developing countries is well established, little consensus exists as to the most effective approaches to reducing such differentials. This article utilizes longitudinal data from the Matlab study area in rural Bangladesh to investigate the impact of an efficacious child survival intervention-measles vaccination-on reductions in gender and socioeconomic differentials in childhood mortality. The article analyzes data from 16,270 vaccinated children and randomly matched controls, and evaluates their subsequent mortality risks. Proportional hazards analysis demonstrates that unvaccinated children from very poor families face more than a threefold higher risk of subsequent early child mortality, compared to vaccinated children from families of high economic status. While measles vaccination has little impact on mortality risks among children of higher economic status, the improvement in survival among children from poorer households is pronounced. The provision of measles vaccination markedly reduces mortality risks for poorer children-from over three times higher to just over 1.5 times higher relative to vaccinated children from wealthier families. The findings of this study are evaluated in terms of the potential of child survival interventions such as measles vaccination to promote greater health equity.",
+  "authors": [
+    {
+      "raw": "Koenig, MA",
+      "family": "Koenig",
+      "given": "MA"
+    },
+    {
+      "raw": "Bishai, D",
+      "family": "Bishai",
+      "given": "D"
+    },
+    {
+      "raw": "Khan, MA",
+      "family": "Khan",
+      "given": "MA"
+    }
+  ],
+  "authors_text": "Koenig, MA; Bishai, D; Khan, MA",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2001,
+  "doi": "10.1111/j.1728-4457.2001.00283.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2001.00283.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2001.00283.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2001.00283.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Expanding an abridged life table",
+  "abstract": "A question of interest in the demographic and actuarial fields is the estimation of the age-specific mortality pattern when data are given in age groups. Data can be provided in such a form usually because of systematic fluctuations caused by age heapi",
+  "authors": [
+    {
+      "raw": "Kostaki, Anastasia",
+      "family": "Kostaki",
+      "given": "Anastasia"
+    },
+    {
+      "raw": "Panousis, Vagelis",
+      "family": "Panousis",
+      "given": "Vagelis"
+    }
+  ],
+  "authors_text": "Kostaki, Anastasia; Panousis, Vagelis",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2001,
+  "doi": "10.4054/demres.2001.5.1",
+  "doi_url": "https://doi.org/10.4054/demres.2001.5.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2001.5.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2001.5.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

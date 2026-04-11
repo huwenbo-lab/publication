@@ -1,0 +1,30 @@
+{
+  "title": "Occupational Segregation and Gender Differences in Sickness Absence: Evidence from 17 European Countries",
+  "abstract": "Previous research indicates that women fare less well than men on a wide range of health-related measures, including sickness absence from work. Possible explanations are that women have—on average—less healthy jobs than men, or that they are more vulnerable to job-related stressors. We address these issues using comparative data on 17 European countries from the EU Labour Force Surveys. Employing logistic regression, we find that gender differences in sickness absence tend to increase if we control for up to 147 detailed occupational categories, thus indicating that women are, if anything, in more healthy jobs than men in most countries. We also examine to what extent the gender differences in sickness absence are systematically related to the gender mix of the occupation, e.g. whether women have particularly high sickness absence in occupations that are strongly male dominated. There is a tendency towards smaller gender differences in female-dominated occupations in a few countries, but in most cases the gender difference is of similar magnitude in female-dominated, male-dominated, and gender-balanced occupations.",
+  "authors": [
+    {
+      "raw": "Mastekaasa, Arne",
+      "family": "Mastekaasa",
+      "given": "Arne"
+    },
+    {
+      "raw": "Melsom, Anne May",
+      "family": "Melsom",
+      "given": "Anne May"
+    }
+  ],
+  "authors_text": "Mastekaasa, Arne; Melsom, Anne May",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1093/esr/jcu059",
+  "doi_url": "https://doi.org/10.1093/esr/jcu059",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcu059",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcu059.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

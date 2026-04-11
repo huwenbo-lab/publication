@@ -1,0 +1,30 @@
+{
+  "title": "In Living Memory: The Demographic Dynamics of Event Recollection in a Stable Population*",
+  "abstract": "We model a stable population that has experienced an important historical event and the declining proportion, as time passes, of the population that remembers that event. The proportion is determined by the demographic characteristics of the population, including its age distribution, the natural rate of growth, the underlying birth rate, the life table probabilities to which the population is subject, and the effects of immigration and emigration under alternative assumptions about the nature of the event. (We distinguish between local and universal events.) It is determined also by the choice of an age of awareness of children at the time the event occurred. We preface development of the model by noting examples of major events of the kind we have in mind and, after development, explore the model's sensitivity to different parameter specifications by experimental simulation. The output of each experiment is a sequence of remembering proportions at successive decade intervals and the corresponding mean ages of the rememberers in relation to the overall mean age of the population.",
+  "authors": [
+    {
+      "raw": "Denton, Frank T.",
+      "family": "Denton",
+      "given": "Frank T."
+    },
+    {
+      "raw": "Spencer, Byron G.",
+      "family": "Spencer",
+      "given": "Byron G."
+    }
+  ],
+  "authors_text": "Denton, Frank T.; Spencer, Byron G.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2021,
+  "doi": "10.1111/padr.12388",
+  "doi_url": "https://doi.org/10.1111/padr.12388",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12388",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12388.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

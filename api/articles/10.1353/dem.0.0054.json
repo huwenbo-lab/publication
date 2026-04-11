@@ -1,0 +1,30 @@
+{
+  "title": "Is the relationship between socioeconomic status and health stronger for older children in developing countries?",
+  "abstract": "Abstract Recent research on the relationship between child health and income in developed countries reveals a positive gradient that is more pronounced for older children, suggesting that the impact of income upon health accumulates. This article examines whether the same is true in a developing country. Using data from the Indonesian Family Life Survey on children aged 0 to 14 years, we find that although low income adversely affects health, its impact does not differ by age. This finding is robust to the use of both subjective and objective health measures, controlling for selective mortality, the use of alternative measures of households’ resources, and the inclusion of indicators of health at birth and parental health. One explanation for the constancy of the health-income relationship that we explore is the dominant role played by acute illness in determining the general health status of children in a developing-country context compared with the more central role played by chronic conditions in developed countries.",
+  "authors": [
+    {
+      "raw": "Cameron, Lisa",
+      "family": "Cameron",
+      "given": "Lisa"
+    },
+    {
+      "raw": "Williams, Jenny",
+      "family": "Williams",
+      "given": "Jenny"
+    }
+  ],
+  "authors_text": "Cameron, Lisa; Williams, Jenny",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0054",
+  "doi_url": "https://doi.org/10.1353/dem.0.0054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Handling Missing Values in Longitudinal Panel Data With Multiple Imputation",
+  "abstract": "This article offers an applied review of key issues and methods for the analysis of longitudinal panel data in the presence of missing values. The authors consider the unique challenges associated with attrition (survey dropout), incomplete repeated measures, and unknown observations of time. Using simulated data based on 4 waves of the Marital Instability Over the Life Course Study (n=2,034), they applied a fixed effect regression model and an event-history analysis with time-varying covariates. They then compared results for analyses with nonimputed missing data and with imputed data both in long and in wide structures. Imputation produced improved estimates in the event-history analysis but only modest improvements in the estimates and standard errors of the fixed effects analysis. Factors responsible for differences in the value of imputation are examined, and recommendations for handling missing values in panel data are presented.",
+  "authors": [
+    {
+      "raw": "Young, Rebekah",
+      "family": "Young",
+      "given": "Rebekah"
+    },
+    {
+      "raw": "Johnson, David R.",
+      "family": "Johnson",
+      "given": "David R."
+    }
+  ],
+  "authors_text": "Young, Rebekah; Johnson, David R.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12144",
+  "doi_url": "https://doi.org/10.1111/jomf.12144",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12144",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12144.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

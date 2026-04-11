@@ -1,0 +1,35 @@
+{
+  "title": "Fertility History and Biomarkers Using Prospective Data: Evidence From the 1958 National Child Development Study",
+  "abstract": "Research on the later-life health implications of fertility history has predominantly considered associations with mortality or self-reported indicators of health. Most of this previous research has either not been able to account for selection factors related to both early-life and later-life health or has had to rely on retrospectively reported accounts of childhood circumstances. Using the 1958 National Child Development Study, and in particular the biomedical survey conducted in 2002-2003, we investigate associations between fertility histories (number of children and age at first and at last birth) and biomarkers for cardiometabolic risk and respiratory function in midlife among both men and women. Results from models that adjusted for a very wide range of childhood factors, including early-life socioeconomic position, cognitive ability, and mental health, showed weak associations between parity and biomarkers. However, we found an inverse association between age at first birth and biomarkers indicative of worse cardiometabolic health, with poorer outcomes for those with very young ages at entry to parenthood and increasingly better outcomes for those becoming parents at older ages. A very young age at last birth was also associated with less favorable biomarker levels, especially among women. Results highlight the value of prospectively collected data and the availability of biomarkers in studies of life course determinants of health in midlife and later.",
+  "authors": [
+    {
+      "raw": "Sironi, Maria",
+      "family": "Sironi",
+      "given": "Maria"
+    },
+    {
+      "raw": "Ploubidis, George B.",
+      "family": "Ploubidis",
+      "given": "George B."
+    },
+    {
+      "raw": "Grundy, Emily M.",
+      "family": "Grundy",
+      "given": "Emily M."
+    }
+  ],
+  "authors_text": "Sironi, Maria; Ploubidis, George B.; Grundy, Emily M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00855-x",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00855-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00855-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00855-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

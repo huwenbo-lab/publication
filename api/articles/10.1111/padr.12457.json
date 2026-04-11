@@ -1,0 +1,25 @@
+{
+  "title": "Changes in Literacy Skills as Cohorts Age",
+  "abstract": "As our societies transform into knowledge societies, skills are playing an ever-increasing role in life. Despite recent efforts to consistently measure adult skills across countries, a challenge remains to understand how skills evolve over time and what the main drivers behind these changes are. By applying demographic methods to estimate the development of skills over the life course, this paper presents the reconstruction of empirical adult literacy test results along cohort lines by age, sex, and educational attainment for 44 countries for the period 1970-2015. Results suggest significant heterogeneity in the pattern of changes in literacy skills with age, reflecting the differential exposure to cognitive stimulation over the life course and suggesting that the development of skills in a country is also the consequence of a changing composition of its population. Gender, however, was found to have hardly any effect on how literacy skills evolve between the ages of 15 and 65. On the aggregate level, findings reveal considerable differences between countries-regarding both the level of skills and their development over time. Overall, it was found that massive educational expansions happening globally in the recent past only partly resulted in a corresponding rise in skills.",
+  "authors": [
+    {
+      "raw": "Reiter, Claudia",
+      "family": "Reiter",
+      "given": "Claudia"
+    }
+  ],
+  "authors_text": "Reiter, Claudia",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2022,
+  "doi": "10.1111/padr.12457",
+  "doi_url": "https://doi.org/10.1111/padr.12457",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12457",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12457.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

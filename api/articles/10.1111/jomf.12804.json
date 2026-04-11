@@ -1,0 +1,45 @@
+{
+  "title": "Does couple communication predict later relationship quality and dissolution? A meta-analysis",
+  "abstract": "Objective To estimate the overall effect between positive and negative communication behaviors and later relationship quality and dissolution. Background Behavioral models of relationship development argue that the quality of couples' communication is key to understanding later relational outcomes. However, longitudinal studies have yielded inconsistent associations between communication behaviors and subsequent relationship functioning, leaving questions about the robustness of these effects. Method To explore these potential associations, we conducted a meta-analysis of 64 dyadic studies and 1784 parameter estimates to generate a weighted average effect of positive and negative communication behaviors predicting later relationship quality and dissolution. We conducted multiple-regression moderation analyses to identify key study-level moderators. Results Positive (r(within-partner) = .15, p < .001; r(cross-partner) = .09, p = .017) and negative (r(within-partner) = -.17, p < .001; r(cross-partner) = -.16, p < .001) communication behaviors had a small and significant effect on later relationship quality. Positive communication behaviors had a small but not statistically significant effect on relationship dissolution (d = 0.24, p = .105), whereas negative communication behaviors had a small-to-moderate statistically significant effect on relationship dissolution (d = -0.41, p < .001). Few study-level characteristics consistently moderated these associations. Conclusions This meta-analysis indicates that couples' positive and negative communication behaviors are reliably associated with their later relationship quality, and couples' negative communication is associated with later dissolution. However, these effects are small, suggesting single, early assessments of positive and negative communication behaviors may be only modestly predictive of later relationship functioning. Greater attention to other factors that interact with communication to predict couples' outcomes over time is needed.",
+  "authors": [
+    {
+      "raw": "Kanter, Jeremy B.",
+      "family": "Kanter",
+      "given": "Jeremy B."
+    },
+    {
+      "raw": "Lavner, Justin A.",
+      "family": "Lavner",
+      "given": "Justin A."
+    },
+    {
+      "raw": "Lannin, Daniel G.",
+      "family": "Lannin",
+      "given": "Daniel G."
+    },
+    {
+      "raw": "Hilgard, Joseph",
+      "family": "Hilgard",
+      "given": "Joseph"
+    },
+    {
+      "raw": "Monk, J. Kale",
+      "family": "Monk",
+      "given": "J. Kale"
+    }
+  ],
+  "authors_text": "Kanter, Jeremy B.; Lavner, Justin A.; Lannin, Daniel G.; Hilgard, Joseph; Monk, J. Kale",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12804",
+  "doi_url": "https://doi.org/10.1111/jomf.12804",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12804",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12804.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Marriage, Cohabitation, and Sexual Exclusivity: Unpacking the Effect of Marriage",
+  "abstract": "Sexual concurrency, or having temporally overlapping sexual partnerships, has important consequences for relationship quality and individual health, as well as the health and well-being of others embedded in larger sexual networks. Although married and cohabiting couples have similar, almost universal expectations of sexual exclusivity, the former report significantly lower rates of engaging in sexual concurrency than the latter. Given that this difference in behavior occurs despite similar expectations of sexual fidelity, sexual exclusivity can provide an important test of whether marriage has a causal effect on relationship behavior. Using data from the National Longitudinal Study of Adolescent to Adult Health, I estimate an instrumental variable model testing whether observed differences in sexual concurrency between marital and cohabiting relationships are attributable to marriage itself via a recent implementation of the special regressor method, an estimator for binary choice models with endogenous regressors. I find evidence that, relative to cohabitation, marriage reduces the likelihood that an individual will engage in concurrent sexual relationships. Finding an effect of marriage in a recent cohort of young adults suggests that, despite changes in marriage and cohabitation, marriage still influences individual behavior.",
+  "authors": [
+    {
+      "raw": "Wagner, Brandon G.",
+      "family": "Wagner",
+      "given": "Brandon G."
+    }
+  ],
+  "authors_text": "Wagner, Brandon G.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy082",
+  "doi_url": "https://doi.org/10.1093/sf/soy082",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy082",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy082.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

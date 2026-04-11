@@ -1,0 +1,25 @@
+{
+  "title": "Social Origins and Recruitment to Norwegian Business and Public Sector Elites",
+  "abstract": "Building upon recent studies of social mobility, this paper considers the relationship between social class origins and the attainment of top positions in business organizations and in central and local government administration. Data comprise all persons between 25 and 50 years of age employed in these sectors in 1995. Elite status is defined in terms of position in each organization's pay distribution, and the data are analysed by means of binomial and multinomial logistic regression. There is a very strong gross relationship between class origins and elite status in all three sectors. These effects are primarily mediated by education. In public administration, there seems to be no direct effect of class. In private business firms there is a considerable direct class effect among people with low or medium education, but it declines strongly at higher educational levels. The direct class effect is also strongest with regard to elite status in small firms. The interaction of class with education and firm size means that the estimated direct effects of class on elite status in large firms are close to zero for people with higher university degrees.",
+  "authors": [
+    {
+      "raw": "Mastekaasa, A.",
+      "family": "Mastekaasa",
+      "given": "A."
+    }
+  ],
+  "authors_text": "Mastekaasa, A.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2004,
+  "doi": "10.1093/esr/jch019",
+  "doi_url": "https://doi.org/10.1093/esr/jch019",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjch019",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jch019.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

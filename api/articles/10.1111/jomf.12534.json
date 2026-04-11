@@ -1,0 +1,30 @@
+{
+  "title": "Caregiving and Union Instability in Middle and Later Life",
+  "abstract": "Objective: This study addressed the implications of informal caregiving for subsequent union instability in middle and later life, focusing on associations between gender and union type (marital, cohabiting) and the risk of separation or divorce within heterosexual unions. Background: Although caregiving is widely reported to be stressful and to have negative implications for the health and well-being of individual caregivers, its implications for union stability are less clear. This is particularly evident with regard to middle-aged and older adults in both marital and cohabiting unions. Yet caregiving may increase separation or divorce risk by operating as a stressor on the marital or union relationship, leading to lower union quality and subsequent dissolution. Method: Using retrospective data on union histories for a national population-based cohort of married or cohabiting Canadian men and women aged 45 years and older (N = 17,194), Cox proportional hazard models were used to examine the main and interactive effects of caregiving history, union type, and gender on union dissolution from age 45 to the time of the survey. Results: Caregiving was more destabilizing when it involved cohabiting rather than marital unions and female rather than male caregivers. Conclusion: These findings suggest that caregiving is associated with union dissolution but that the type of union and gender need to be considered.",
+  "authors": [
+    {
+      "raw": "Penning, Margaret J.",
+      "family": "Penning",
+      "given": "Margaret J."
+    },
+    {
+      "raw": "Wu, Zheng",
+      "family": "Wu",
+      "given": "Zheng"
+    }
+  ],
+  "authors_text": "Penning, Margaret J.; Wu, Zheng",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12534",
+  "doi_url": "https://doi.org/10.1111/jomf.12534",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12534",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12534.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Using occupation-based social classifications",
+  "abstract": "Occupation-based social classifications are important social indicators, but are easily misunderstood. Using survey data from the UK and Sweden, we summarize the empirical relations between a number of alternative occupation-based social classifications. Results indicate similarity between most measures, though there are often quite considerable differences in the properties of related classifications according to the level of detail at which they have been operationalized (such as the number of categories). While these findings may seem unsurprising, they are in conflict with canonical theoretical interpretations attributed to occupation-based measures, where the level of detail is often overlooked, whereas the concepts associated with different measures are emphasized.",
+  "authors": [
+    {
+      "raw": "Lambert, Paul S",
+      "family": "Lambert",
+      "given": "Paul S"
+    },
+    {
+      "raw": "Bihagen, Erik",
+      "family": "Bihagen",
+      "given": "Erik"
+    }
+  ],
+  "authors_text": "Lambert, Paul S; Bihagen, Erik",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2014,
+  "doi": "10.1177/0950017013519845",
+  "doi_url": "https://doi.org/10.1177/0950017013519845",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017013519845",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017013519845.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Occupational Feminization and Pay: Assessing Causal Dynamics Using 1950-2000 U.S. Census Data",
+  "abstract": "Occupations with a greater share of females pay less than those with a lower share, controlling for education and skill. This association is explained by two dominant views: devaluation and queuing. The former views the pay offered in an occupation to affect its female proportion, due to employers' preference for men—a gendered labor queue. The latter argues that the proportion of females in an occupation affects pay, owing to devaluation of work done by women. Only a few past studies used longitudinal data, which is needed to test the theories. We use fixed-effects models, thus controlling for stable characteristics of occupations, and U.S. Census data from 1950 through 2000. We find substantial evidence for the devaluation view, but only scant evidence for the queuing view.",
+  "authors": [
+    {
+      "raw": "Levanon, A.",
+      "family": "Levanon",
+      "given": "A."
+    },
+    {
+      "raw": "England, P.",
+      "family": "England",
+      "given": "P."
+    },
+    {
+      "raw": "Allison, P.",
+      "family": "Allison",
+      "given": "P."
+    }
+  ],
+  "authors_text": "Levanon, A.; England, P.; Allison, P.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0264",
+  "doi_url": "https://doi.org/10.1353/sof.0.0264",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0264",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0264.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

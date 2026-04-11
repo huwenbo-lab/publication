@@ -1,0 +1,25 @@
+{
+  "title": "Alphas and Asterisks: The Development of Statistical Significance Testing Standards in Sociology",
+  "abstract": "In this paper, I trace the development of statistical significance testing standards in sociology by analyzing data from articles published in two prestigious sociology journals between 1935 and 2000. I focus on the role of two key elements in the diffusion literature, contagion and rationality, as well as the role of institutional factors. I find that statistical significance testing flourished in the 20th century. Contagion processes and the suitability of significance testing given a study's data characteristics encourage the diffusion of significance testing, whereas institutional factors such as department prestige and particular editorships help explain growing popularity of the .05 alpha level and use of the “three-star system” of symbolic codes (i.e., *p < = .05, **p < = .01, ***p < = .001).",
+  "authors": [
+    {
+      "raw": "Leahey, E.",
+      "family": "Leahey",
+      "given": "E."
+    }
+  ],
+  "authors_text": "Leahey, E.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2005,
+  "doi": "10.1353/sof.2005.0108",
+  "doi_url": "https://doi.org/10.1353/sof.2005.0108",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2005.0108",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2005.0108.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

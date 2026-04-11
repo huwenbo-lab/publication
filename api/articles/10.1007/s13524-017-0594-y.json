@@ -1,0 +1,35 @@
+{
+  "title": "The Network Survival Method for Estimating Adult Mortality: Evidence From a Survey Experiment in Rwanda",
+  "abstract": "Adult death rates are a critical indicator of population health and well-being. Wealthy countries have high-quality vital registration systems, but poor countries lack this infrastructure and must rely on estimates that are often problematic. In this article, we introduce the network survival method, a new approach for estimating adult death rates. We derive the precise conditions under which it produces consistent and unbiased estimates. Further, we develop an analytical framework for sensitivity analysis. To assess the performance of the network survival method in a realistic setting, we conducted a nationally representative survey experiment in Rwanda (n = 4,669). Network survival estimates were similar to estimates from other methods, even though the network survival estimates were made with substantially smaller samples and are based entirely on data from Rwanda, with no need for model life tables or pooling of data from other countries. Our analytic results demonstrate that the network survival method has attractive properties, and our empirical results show that this method can be used in countries where reliable estimates of adult death rates are sorely needed.",
+  "authors": [
+    {
+      "raw": "Feehan, Dennis M.",
+      "family": "Feehan",
+      "given": "Dennis M."
+    },
+    {
+      "raw": "Mahy, Mary",
+      "family": "Mahy",
+      "given": "Mary"
+    },
+    {
+      "raw": "Salganik, Matthew J.",
+      "family": "Salganik",
+      "given": "Matthew J."
+    }
+  ],
+  "authors_text": "Feehan, Dennis M.; Mahy, Mary; Salganik, Matthew J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0594-y",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0594-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0594-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0594-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

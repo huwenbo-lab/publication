@@ -1,0 +1,30 @@
+{
+  "title": "Do Energy Burdens Contribute to Economic Poverty in the United States? A Panel Analysis",
+  "abstract": "For many households, energy consumption represents a non-discretionary portion of their budget and directly relates to quality of life. As researchers continue to study the environmental impacts of energy behavior, it is important to explore how energy consumption relates to socio-economic wellbeing. This paper examines the economic impacts of being energy-burdened in the United States, defined as spending at least 10% of household income on heating and electricity services; energy burdens are partially, but not entirely, driven by income, since energy needs and costs can vary substantially due to housing characteristics, utility rates, and other factors. Using panel data of US household income and energy expenditures during 1999-2017, this analysis demonstrates that energy-burdened households were at about 150%-200% greater risk of transitioning into or extending the duration of economic poverty over a two-year timeframe relative to non-burdened households. This analysis indicates that dedicating inordinate amounts of income to energy services can threaten a household's economic well-being over time, possibly by preventing a household from engaging in other economic activities or compounding existing economic hardship. These results emphasize the importance of energy assistance and energy efficiency for low-income households, drawing attention to how structures of energy consumption, the welfare state, and social stratification intertwine.",
+  "authors": [
+    {
+      "raw": "Bohr, Jeremiah",
+      "family": "Bohr",
+      "given": "Jeremiah"
+    },
+    {
+      "raw": "McCreery, Anna C.",
+      "family": "McCreery",
+      "given": "Anna C."
+    }
+  ],
+  "authors_text": "Bohr, Jeremiah; McCreery, Anna C.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz131",
+  "doi_url": "https://doi.org/10.1093/sf/soz131",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz131",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz131.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

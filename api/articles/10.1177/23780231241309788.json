@@ -1,0 +1,40 @@
+{
+  "title": "Rental Arrears and Perceived Risk of Eviction among U.S. Renter Households by Household Composition, Race, and Ethnicity 2020 to 2024",
+  "abstract": "This visualization presents trends in the estimated proportion of U.S. renter households in arrears and their perceived risk of eviction from August 2020 through June 2024 constructed using the Household Pulse Survey, a nationally representative repeated cross-sectional survey fielded by the U.S. Census Bureau. The proportion of renter households in arrears fell following the initial shock of the coronavirus pandemic and an increasing fraction of renters felt that eviction was unlikely. The proportion of renters perceiving some risk and high risk for eviction both generally fell over time. These patterns were evident for all demographic subgroups, but there were clear and persistent disparities. Black and Hispanic households reported higher rates of both rental arrears and perceived risk for eviction throughout the time period compared with White households. Households with children had higher rates of rental arrears and perceived eviction risk compared with households without children within each racial and ethnic demographic subgroup.",
+  "authors": [
+    {
+      "raw": "Fusaro, Vincent A.",
+      "family": "Fusaro",
+      "given": "Vincent A."
+    },
+    {
+      "raw": "Collier, K. Megan",
+      "family": "Collier",
+      "given": "K. Megan"
+    },
+    {
+      "raw": "Baidoo, Christopher",
+      "family": "Baidoo",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Coley, Rebekah Levine",
+      "family": "Coley",
+      "given": "Rebekah Levine"
+    }
+  ],
+  "authors_text": "Fusaro, Vincent A.; Collier, K. Megan; Baidoo, Christopher; Coley, Rebekah Levine",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231241309788",
+  "doi_url": "https://doi.org/10.1177/23780231241309788",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241309788",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241309788.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

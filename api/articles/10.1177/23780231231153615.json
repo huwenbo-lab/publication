@@ -1,0 +1,35 @@
+{
+  "title": "Time Transfers by Age and Gender in 28 Countries",
+  "abstract": "Transfers of services that are produced through unpaid care work (such as cooking, cleaning, shopping, household maintenance, and direct care) sustain our societies. Yet they differ considerably between genders and across countries. This visualization highlights the cross-country differences in giving and receiving unpaid household services (time transfers) by gender and age for 28 countries. It demonstrates how much more unpaid care work is done by women compared with men across the lifecycle in all countries. The visualization also shows that the highest amount of time transfers is received by the youngest generations.",
+  "authors": [
+    {
+      "raw": "Vargha, Lili",
+      "family": "Vargha",
+      "given": "Lili"
+    },
+    {
+      "raw": "Binder-Hammer, Bernhard",
+      "family": "Binder-Hammer",
+      "given": "Bernhard"
+    },
+    {
+      "raw": "Donehower, Gretchen",
+      "family": "Donehower",
+      "given": "Gretchen"
+    }
+  ],
+  "authors_text": "Vargha, Lili; Binder-Hammer, Bernhard; Donehower, Gretchen",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231153615",
+  "doi_url": "https://doi.org/10.1177/23780231231153615",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231153615",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231153615.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

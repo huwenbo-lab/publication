@@ -1,0 +1,40 @@
+{
+  "title": "Proceed With Caution? Parents' Union Dissolution and Children's Educational Achievement",
+  "abstract": "Using high‐quality Norwegian register data on 49,879 children from 23,655 families, the authors estimated sibling fixed‐effects models to explore whether children who are younger at the time of a parental union dissolution perform less well academically, as measured by their grades at age 16, than their older siblings who have spent more time living with both biological parents. Results from a baseline model suggest a positive age gradient that is consistent with findings in some of the extant family structure literature. Once birth order is taken into account, the gradient reverses. When analyses also control for grade inflation by adding year of birth to the model, only those children who experience a dissolution just prior to receiving their grades appear relatively disadvantaged. The results illustrate the need to specify and interpret sibling fixed‐effects model with great care.",
+  "authors": [
+    {
+      "raw": "Sigle‐Rushton, Wendy",
+      "family": "Sigle‐Rushton",
+      "given": "Wendy"
+    },
+    {
+      "raw": "Lyngstad, Torkild Hovde",
+      "family": "Lyngstad",
+      "given": "Torkild Hovde"
+    },
+    {
+      "raw": "Andersen, Patrick Lie",
+      "family": "Andersen",
+      "given": "Patrick Lie"
+    },
+    {
+      "raw": "Kravdal, Øystein",
+      "family": "Kravdal",
+      "given": "Øystein"
+    }
+  ],
+  "authors_text": "Sigle‐Rushton, Wendy; Lyngstad, Torkild Hovde; Andersen, Patrick Lie; Kravdal, Øystein",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2014,
+  "doi": "10.1111/jomf.12075",
+  "doi_url": "https://doi.org/10.1111/jomf.12075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

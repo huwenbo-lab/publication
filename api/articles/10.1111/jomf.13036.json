@@ -1,0 +1,25 @@
+{
+  "title": "Early-life disadvantage and parent-to-child financial transfers",
+  "abstract": "ObjectiveTo determine (1) how parental childhood disadvantage is associated with parent-to-child financial transfers for schooling and other unspecified purposes and (2) whether the association holds when parental socioeconomic status (years of education, family income, wealth) is considered.BackgroundCumulative inequality theory posits that early life disadvantage may not only adversely affect one's resource accumulation across the life course, but it may also shape one's ability to provide assistance to offspring.MethodData from the Panel Study of Income Dynamics were used to estimate zero-inflated negative binomial regression models to predict the amount of parent-to-child transfers (N = 2364 for school transfers, N = 3618 for other transfers), controlling for parents' and children's sociodemographic factors. Childhood disadvantage score (0 as reference, 1, 2, 3, 4+) was constructed using 13 items that reflect the economic, psychosocial, environmental, and health domains of early life. The associations of each domain with financial transfers were also estimated.ResultsParents with 4+ disadvantages gave about $2200 less for schooling. Economic and environmental disadvantage lessened levels of school transfers, while environmental disadvantage decreased the odds of being a non-provider of other transfers. The disparity in transfer amounts generally narrowed when the mediating role of parental socioeconomic status was accounted for.ConclusionHigher education has become one of the major mechanisms through which class stratification, social inequality, and health disparities ensue. Educational outcomes among current cohorts of young adults could have been shaped by the preceding generation's childhood through intergenerational exchanges.",
+  "authors": [
+    {
+      "raw": "Cheng, Kent Jason Go",
+      "family": "Cheng",
+      "given": "Kent Jason Go"
+    }
+  ],
+  "authors_text": "Cheng, Kent Jason Go",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13036",
+  "doi_url": "https://doi.org/10.1111/jomf.13036",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13036",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13036.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

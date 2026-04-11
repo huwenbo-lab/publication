@@ -1,0 +1,25 @@
+{
+  "title": "Irregularly-shaped school attendance zones and racial integration",
+  "abstract": "This paper investigates how much the geographic shapes of school attendance zones within urban school districts are associated with levels of attendance zone racial segregation (while holding constant levels of residential segregation). Based on an analysis of 304 school districts, findings show that more irregularly-shaped school attendance zones are correlated with lower levels of racial segregation in attendance zones after accounting for residential segregation. In fact, not one school district contains both highly irregularly-shaped attendance zones and unusually high levels of attendance zone racial segregation although there are several school districts with irregularly-shaped zones and unusually high levels of racial integration. These findings undermine recent claims that irregularly-shaped attendance zones generally serve to segregate students by race. In addition to these empirical findings, this paper introduces a variation of the spatial information theory segregation index H that is useful for predicting segregation in school attendance zones and other types of geographic boundaries containing roughly equal populations. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Saporito, Salvatore",
+      "family": "Saporito",
+      "given": "Salvatore"
+    }
+  ],
+  "authors_text": "Saporito, Salvatore",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.10.011",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.10.011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.10.011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.10.011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

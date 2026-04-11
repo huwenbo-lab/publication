@@ -1,0 +1,30 @@
+{
+  "title": "Religiosity and marital fertility among Muslims in Israel",
+  "abstract": "BACKGROUND Mounting evidence suggests that religious couples tend to have an above-average preference for children. Most of the evidence comes from studies of Christian and Jewish populations. Much less is known about the relationship between religiosity and fertility among Muslims. So far, only a few studies have reported a positive relationship between religiosity and fertility among Muslims. None of these control for marital duration. Thus, it is not clear to what extent the relationship is a result of early marriage among more religious women. OBJECTIVE This article tries to show that there is a relationship between religiosity and marital fertility among Muslims after controlling for marital duration. METHODS Using survey data from Israel we model the relationship between religiosity and marital fertility in a discrete-time repeated events history analysis. RESULTS We report a positive relationship between an objective measure of religiosity and marital fertility. If they tend to have an above-average preference for children, then we expect to observe less parity-dependent fertility control among religious couples. Our results confirm this. The effect of religiosity increases with parity. CONCLUSIONS As has been shown for Christians and Jews before, there also is a positive relationship between religiosity and marital fertility among Muslims. CONTRIBUTION To the best of our knowledge, this is the first study to present evidence for a relationship between an objective measure of religiosity and marital fertility among Muslims, which controls for marital duration.",
+  "authors": [
+    {
+      "raw": "Schellekens, Jona",
+      "family": "Schellekens",
+      "given": "Jona"
+    },
+    {
+      "raw": "Atrash, A'as",
+      "family": "Atrash",
+      "given": "A'as"
+    }
+  ],
+  "authors_text": "Schellekens, Jona; Atrash, A'as",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.34",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.34",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.34",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.34.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

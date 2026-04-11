@@ -1,0 +1,25 @@
+{
+  "title": "Legal Recognition of Same-Sex Couples and Family Formation",
+  "abstract": "It has long been debated how legalizing same-sex marriage would affect (different-sex) family formation. In this article, I use data on OECD member countries for the period 1980-2009 to examine the effects of the legal recognition of same-sex couples (through marriage or an alternative institution) on different-sex marriage, divorce, and extramarital births. Estimates from difference-in-difference models indicate that the introduction of same-sex marriage or of alternative institutions has no negative effects on family formation. These findings are robust to a multitude of specification checks, including the construction of counterfactuals using the synthetic control method. In addition, the country-by-country case studies provide evidence of homogeneity of the estimated effects.",
+  "authors": [
+    {
+      "raw": "Trandafir, Mircea",
+      "family": "Trandafir",
+      "given": "Mircea"
+    }
+  ],
+  "authors_text": "Trandafir, Mircea",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-014-0361-2",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0361-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0361-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0361-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

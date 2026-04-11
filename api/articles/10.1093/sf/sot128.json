@@ -1,0 +1,30 @@
+{
+  "title": "Foreign Direct Investment and Economic Growth: New Evidence from Post-Socialist Transition Countries",
+  "abstract": "In this article, we revisit classic sociological debates regarding the growth effects of Foreign Direct Investment (FDI). First, we identify a series of theoretical and empirical issues that halted sociological research on the developmental consequences of FDI. Second, we illustrate that post-socialist transition (PST) provides a historically novel opportunity to reinvigorate the debate. These countries experienced rapid industrialization but nearly zero FDI under socialism, and we can therefore observe changes in output as FDI accumulates in real time and effectively control for alternative sources of underdevelopment that might otherwise become conflated with FDI. We then estimate growth models that correct for biases owing to country- and period-specific heterogeneity and endogeneity in the FDI→ growth link. Our results suggest that FDI penetration reduces economic growth in the short and long term, and are robust to alternative choices of measurement and econometric specification. We conclude by implicating these findings in debates about post-socialist transition and economic growth, and by posing questions for future research.",
+  "authors": [
+    {
+      "raw": "Curwin, K. D.",
+      "family": "Curwin",
+      "given": "K. D."
+    },
+    {
+      "raw": "Mahutga, M. C.",
+      "family": "Mahutga",
+      "given": "M. C."
+    }
+  ],
+  "authors_text": "Curwin, K. D.; Mahutga, M. C.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2014,
+  "doi": "10.1093/sf/sot128",
+  "doi_url": "https://doi.org/10.1093/sf/sot128",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsot128",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sot128.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

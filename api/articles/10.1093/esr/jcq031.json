@@ -1,0 +1,30 @@
+{
+  "title": "Female Education and Marriage Dissolution: Is it a Selection Effect?",
+  "abstract": "Various papers have shown that in countries and cohorts where the rate of divorce is low, women with higher education are more likely to get divorced. However, when divorce becomes more common, the relationship between female education and marriage dissolution changes from being positive to being negative. The first aim of this article is to investigate whether the reversal in the educational gradient in marital dissolution is observed in Spain, where the marriage dissolution was extremely low until the mid-1970s and has since risen notably. It is, however, also well known that highly educated women tend to marry less frequently. Highly educated women who do marry are possibly a self-selected group with unobserved characteristics, such as, for instance, their commitment to the institution of marriage; these unobserved characteristics might also make them less likely to divorce later on. The second aim of this article is to test whether the reverse in the educational gradient in marriage dissolution is caused by the stronger self-selection of highly educated women choosing to marry in recent years. We estimate two simultaneous event history models, a continuous-time model for the risk of divorce and a discrete-time model for selection into marriage, allowing for correlation between the error terms of the two models. The results of the event history models with sample selection show that the decline in the effect of education on marriage dissolution is a consistent finding, one that is not biased by the self-selection into marriage among highly educated women.",
+  "authors": [
+    {
+      "raw": "Bernardi, F.",
+      "family": "Bernardi",
+      "given": "F."
+    },
+    {
+      "raw": "Martinez-Pastor, J.-I.",
+      "family": "Martinez-Pastor",
+      "given": "J.-I."
+    }
+  ],
+  "authors_text": "Bernardi, F.; Martinez-Pastor, J.-I.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcq031",
+  "doi_url": "https://doi.org/10.1093/esr/jcq031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcq031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcq031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Telecommuting and gender inequalities in parents' paid and unpaid work before and during the COVID-19 pandemic",
+  "abstract": "Objective This study examines the relationship between telecommuting and gender inequalities in parents' time use at home and on the job before and during the COVID-19 pandemic. Background Telecommuting is a potential strategy for addressing the competing demands of work and home and the gendered ways in which they play out. Limited evidence is mixed, however, on the implications of telecommuting for mothers' and fathers' time in paid and unpaid work. The massive increase in telecommuting due to COVID-19 underscores the critical need to address this gap in the literature. Method Data from the 2003-2018 American Time Use Survey (N = 12,519) and the 2020 Current Population Survey (N = 83,676) were used to estimate the relationship between telecommuting and gender gaps in parents' time in paid and unpaid work before and during the pandemic. Matching and quasi-experimental methods better approximate causal relationships than prior studies. Results Before the pandemic, telecommuting was associated with larger gender gaps in housework and work disruptions but smaller gender gaps in childcare, particularly among couples with two full-time earners. During the pandemic, telecommuting mothers maintained paid work to a greater extent than mothers working on-site, whereas fathers' work hours did not differ by work location. Conclusion In the context of weak institutional support for parenting, telecommuting may offer mothers a mechanism for maintaining work hours and reducing gender gaps in childcare, while exacerbating inequalities in housework and disruptions to paid work.",
+  "authors": [
+    {
+      "raw": "Lyttelton, Thomas",
+      "family": "Lyttelton",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Zang, Emma",
+      "family": "Zang",
+      "given": "Emma"
+    },
+    {
+      "raw": "Musick, Kelly",
+      "family": "Musick",
+      "given": "Kelly"
+    }
+  ],
+  "authors_text": "Lyttelton, Thomas; Zang, Emma; Musick, Kelly",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12810",
+  "doi_url": "https://doi.org/10.1111/jomf.12810",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12810",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12810.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

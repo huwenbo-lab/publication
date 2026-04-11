@@ -1,0 +1,25 @@
+{
+  "title": "Model Uncertainty and the Crisis in Science",
+  "abstract": "The “crisis in science” today is rooted in genuine problems of model uncertainty and lack of transparency. Researchers estimate a large number of models in the course of their research but only publish a small number of preferred results. Authors have much influence on the results of an empirical study through their choices about model specification. I advance methods to quantify the influence of the author—or at least demonstrate the scope an author has to choose a preferred result. Multimodel analysis, combined with modern computational power, allows authors to present their preferred estimate alongside a distribution of estimates from many other plausible models. I demonstrate the method using new software and applied empirical examples. When evaluating research results, accounting for model uncertainty and model robustness is at least as important as statistical significance.",
+  "authors": [
+    {
+      "raw": "Young, Cristobal",
+      "family": "Young",
+      "given": "Cristobal"
+    }
+  ],
+  "authors_text": "Young, Cristobal",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023117737206",
+  "doi_url": "https://doi.org/10.1177/2378023117737206",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023117737206",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023117737206.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Rising Household Debt and Children's Socioemotional Well-being Trajectories",
+  "abstract": "Debt is now a substantial aspect of family finances. Yet, research on how household debt is linked with child development has been limited. We use data from the National Longitudinal Survey of Youth 1979 cohort and hierarchical linear models to estimate associations of amounts and types of parental debt (home, education, auto, unsecured/uncollateralized) with child socioemotional well-being. We find that unsecured debt is associated with growth in child behavior problems, whereas this is not the case for other forms of debt. Moreover, the association of unsecured debt with child behavior problems varies by child age and socioeconomic status, with younger children and children from less-advantaged families experiencing larger associations of unsecured debt with greater behavior problems.",
+  "authors": [
+    {
+      "raw": "Berger, Lawrence M.",
+      "family": "Berger",
+      "given": "Lawrence M."
+    },
+    {
+      "raw": "Houle, Jason N.",
+      "family": "Houle",
+      "given": "Jason N."
+    }
+  ],
+  "authors_text": "Berger, Lawrence M.; Houle, Jason N.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00800-7",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00800-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00800-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00800-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Visualizing Change in Ordinal Measures: Religious Attendance in the United States (1972–2018)",
+  "abstract": "The figure plots self-reports of religious attendance using data from the General Social Survey (1972–2018), contributing to current debates about how religiosity is changing in the United States by clearly showing the relative increase or decrease of each level of religious attendance over time. The main new insight is that the observed decline in religious attendance in the United States has been driven primarily by a large increase in people reporting never attending religious services and a corresponding decrease in people reporting weekly attendance, rather than uniform changes across different levels. Some categories, such as attendance once a month, have seen virtually no change. More generally, the figure may be used as a template for plotting other ordinal measures over time, such as political attitudes or ideology.",
+  "authors": [
+    {
+      "raw": "Wood, Michael Lee",
+      "family": "Wood",
+      "given": "Michael Lee"
+    }
+  ],
+  "authors_text": "Wood, Michael Lee",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023119900064",
+  "doi_url": "https://doi.org/10.1177/2378023119900064",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119900064",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119900064.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

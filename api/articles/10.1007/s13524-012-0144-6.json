@@ -1,0 +1,35 @@
+{
+  "title": "Marital Sorting and Parental Wealth",
+  "abstract": "AbstractThe extent of marital sorting by socioeconomic background has implications for the intergenerational transmission of inequality, the role of marriage as a mechanism for social mobility, and the extent of cross-group interactions within a society. However, studies of assortative mating have disproportionately focused on spouses’ education, rather than their social origins. Using data from the Panel Study of Income Dynamics (PSID), and exploiting the unique genealogical design of the data set, we study the degree to which spouses sort on the basis of parental wealth. We find that the estimated correlation in parental wealth among married spouses, after controlling for race and age, is about .4. Importantly, we show that controlling for spousal education explains only one-quarter of sorting based on parental wealth. We show that our results are robust to accounting for measurement error in spousal reports of parental wealth and for selection into and out of marriage.",
+  "authors": [
+    {
+      "raw": "Charles, Kerwin Kofi",
+      "family": "Charles",
+      "given": "Kerwin Kofi"
+    },
+    {
+      "raw": "Hurst, Erik",
+      "family": "Hurst",
+      "given": "Erik"
+    },
+    {
+      "raw": "Killewald, Alexandra",
+      "family": "Killewald",
+      "given": "Alexandra"
+    }
+  ],
+  "authors_text": "Charles, Kerwin Kofi; Hurst, Erik; Killewald, Alexandra",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0144-6",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0144-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0144-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0144-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

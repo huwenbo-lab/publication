@@ -1,0 +1,30 @@
+{
+  "title": "Social Isolation in America: An Artifact",
+  "abstract": "This article examines whether existing estimates of network size and social isolation, drawn from egocentric name generators across several representative samples, suffer from systematic biases linked to interviewers. Using several analytic approaches, we find that estimates of network size found in the 2004 and 2010 General Social Surveys (GSS), as well as other representative samples, were affected by significant interviewer effects. Across these surveys, we find a negative correlation between interviewer effects and mean network size. In the 2004 GSS, levels of social connectivity are strongly linked to interviewer-level variation and reflect the fact that some interviewers obtained highly improbable levels of social isolation. In the 2010 GSS, we observe larger interviewer effects in two versions of the questionnaire in which training and fatigue effects among interviewers were more likely. Results support the argument that many estimates of social connectivity are biased by interviewer effects. Some interviewers' failure to elicit network data makes inferences, such as the argument that networks have become smaller, an artifact. Overall, this study highlights the importance of interviewer effects for network data collection and raises questions about other survey items with similar issues.",
+  "authors": [
+    {
+      "raw": "Paik, Anthony",
+      "family": "Paik",
+      "given": "Anthony"
+    },
+    {
+      "raw": "Sanchagrin, Kenneth",
+      "family": "Sanchagrin",
+      "given": "Kenneth"
+    }
+  ],
+  "authors_text": "Paik, Anthony; Sanchagrin, Kenneth",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1177/0003122413482919",
+  "doi_url": "https://doi.org/10.1177/0003122413482919",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122413482919",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122413482919.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

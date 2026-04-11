@@ -1,0 +1,35 @@
+{
+  "title": "Did social change strengthen genetic associations? Gendered educational attainment before and after German reunification",
+  "abstract": "Recent research on post-socialist societies demonstrates that as institutional barriers decline, the genetic associations with educational attainment become more pronounced. However, existing studies have only partially considered the role of gender in this process. To address this gap in the literature, this study examines gendered genetic associations with educational attainment in Germany before and after reunification. Using Gene-SOEP data (N = 1573) and stepwise OLS regression, we analyze polygenic scores across cohorts (1943-1992) in East Germany (German Democratic Republic, GDR) and West Germany (Federal Republic of Germany, FRG). Our findings reveal that genetic associations with educational attainment increased over time, thereby reducing gender-based educational inequality in both regions. However, this positive trend began at lower levels of gender inequality and exhibited an earlier erosion of these differences in the FRG. Despite promoting gender equality, the GDR's policies alone were insufficient to eliminate gender-based differences in genetic educational attainment.",
+  "authors": [
+    {
+      "raw": "Sporlein, Christoph",
+      "family": "Sporlein",
+      "given": "Christoph"
+    },
+    {
+      "raw": "Zoch, Gundula",
+      "family": "Zoch",
+      "given": "Gundula"
+    },
+    {
+      "raw": "Schlueter, Elmar",
+      "family": "Schlueter",
+      "given": "Elmar"
+    }
+  ],
+  "authors_text": "Sporlein, Christoph; Zoch, Gundula; Schlueter, Elmar",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101091",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101091",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101091",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101091.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

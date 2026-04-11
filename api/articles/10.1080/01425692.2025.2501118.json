@@ -1,0 +1,35 @@
+{
+  "title": "Revisiting Foucault's panopticon: how does AI surveillance transform educational norms?",
+  "abstract": "This article applies Foucault's theories of surveillance, disciplinary power, and normalisation to examine the shifting power dynamics in AI-mediated education. Drawing on qualitative responses from 27 English and Chinese-speaking stakeholders, including students, teachers, administrators and parents with no geographical restrictions, this study investigates how AI surveillance reshapes behaviours and perceptions and identifies emergent norms in education. Thematic analysis revealed four key themes: normalising ubiquitous surveillance and behavioural control, prioritising efficiency over autonomy, reaffirming the importance of human elements in AI-assisted education, and ensuring human-AI collaboration. Machine learning is not neutral but an active agent of algorithmic control, reflecting a post-panoptic power structure. It introduces new forms of disciplinary power, encouraging behaviours aligned with efficiency at the expense of autonomy and privacy. Despite these shifts, the findings underscore the vital role of human engagement, pointing to a future where human agency remains central in regulating and complementing AI in education.",
+  "authors": [
+    {
+      "raw": "Dai, Ruixun",
+      "family": "Dai",
+      "given": "Ruixun"
+    },
+    {
+      "raw": "Thomas, Matthew Krehl Edward",
+      "family": "Thomas",
+      "given": "Matthew Krehl Edward"
+    },
+    {
+      "raw": "Rawolle, Shaun",
+      "family": "Rawolle",
+      "given": "Shaun"
+    }
+  ],
+  "authors_text": "Dai, Ruixun; Thomas, Matthew Krehl Edward; Rawolle, Shaun",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2025,
+  "doi": "10.1080/01425692.2025.2501118",
+  "doi_url": "https://doi.org/10.1080/01425692.2025.2501118",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2025.2501118",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2025.2501118.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

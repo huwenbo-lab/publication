@@ -1,0 +1,30 @@
+{
+  "title": "The Population of Centenarians in Brazil: Historical Estimates from 1900 to 2000",
+  "abstract": "Since the nineteenth century, the census has provided the number of 100-year-olds in Brazil, one of the most populous countries worldwide. In 1900, 4,438 individuals reported themselves to be centenarians, a figure that increased about fivefold by the 2000 census. However, due to data quality issues, we are skeptical about the real size of the recorded population in the Brazilian census. We offer alternative estimates of the most likely number of centenarians during the twentieth century by combining variable-rrelations with different mortality models. Our results indicate there was virtually no centenarian at the beginning of the twentieth century. The population has become larger than 1,000 individuals only in the 1990s, suggesting there has been an extensive, although diminishing, overenumeration of centenarians in the census records. Our results can help policymakers to plan the demands of a growing old age population in places that face stricter family and public budget constraints.",
+  "authors": [
+    {
+      "raw": "Nepomuceno, Marilia R.",
+      "family": "Nepomuceno",
+      "given": "Marilia R."
+    },
+    {
+      "raw": "Turra, Cassio M.",
+      "family": "Turra",
+      "given": "Cassio M."
+    }
+  ],
+  "authors_text": "Nepomuceno, Marilia R.; Turra, Cassio M.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2020,
+  "doi": "10.1111/padr.12355",
+  "doi_url": "https://doi.org/10.1111/padr.12355",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12355",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12355.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

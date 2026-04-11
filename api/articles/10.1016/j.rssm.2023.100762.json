@@ -1,0 +1,30 @@
+{
+  "title": "The importance of parental ability for cognitive ability and student achievement: Implications for social stratification theory and practice",
+  "abstract": "Socioeconomic status (SES) is considered a powerful influence on children's cognitive development and student achievement. This model has generated an enormous literature on the nature of, explanations for, and policy implications arising from SES inequalities in early childhood cognitive outcomes and student achievement. An alternative model focuses on the associations between SES and parental ability, the parent-child transmission of ability, and the association between children's ability and their test scores. This study analyses two ability and three achievement measures, with composite and multiple SES measures and a commonly used indicator of the home environment (HOME) in children aged from 3 to 15. The associations between SES and children's test scores are only partially accounted for by the home environment, which itself has only small to moderate as-sociations with test scores, independent of SES. Adding mother's cognitive ability substantially reduces the coefficients for the composite SES measure by between 50% and 60%, and for mother's education by between 56% and 87%. The contemporaneous effects of SES and the home environment are small or very small. Sizable percentages of the variance in the five outcome measures are attributable to genetics ranging from 38% for the Peabody Picture Vocabulary Test (PPVT) to 77% for reading recognition. The contributions of the shared environment ranged from 14% for reading recognition to 41% for the PPVT. Therefore, genetics is important, and the non-trivial contributions of the common environment are more likely to reflect school and neighborhood factors rather than parental SES and the home environment.",
+  "authors": [
+    {
+      "raw": "Marks, Gary N.",
+      "family": "Marks",
+      "given": "Gary N."
+    },
+    {
+      "raw": "O'Connell, Michael",
+      "family": "O'Connell",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Marks, Gary N.; O'Connell, Michael",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100762",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100762",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100762",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100762.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

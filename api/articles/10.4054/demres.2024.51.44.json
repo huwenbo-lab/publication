@@ -1,0 +1,40 @@
+{
+  "title": "Analyzing regional patterns of mortality data quality and adult mortality for small areas in Brazil, 1980-2010",
+  "abstract": "BACKGROUND Brazil's profound regional social inequalities raise concerns about their impact on adult mortality and data quality. Although the quality of mortality data has improved in recent decades, substantial regional disparities in death registration and mortality rates persist. OBJECTIVE Our study examines the spatial and temporal trends in death record quality and adult mortality across Brazil's small regions from 1980 to 2010. It assesses whether adult mortality rates are converging or diverging and whether the vital registration system is progressively improving. METHODS Utilizing mortality data and census records, we adopt a two-step approach. First, we evaluate data quality and calculate adult mortality estimates across subnational microregions using death distribution methods and TOPALS regression. Second, we employ bivariate choropleth mapping to explore the relationship between adult mortality and socioeconomic factors, measured across 558 microregions and disaggregated by sex. RESULTS Our findings highlight regional and temporal evolution of completeness of death count coverage. Results show that social inequality is a key factor driving regional disparities in adult mortality. Additionally, assessing and adjusting for the under-registration of death counts is crucial for understanding the spatial relationship between adult mortality and the distribution of socioeconomic inequality. CONTRIBUTION We propose an approach combining demographic and statistical methods to evaluate data quality and produce adult mortality estimates for countries with limited data. We demonstrate how data quality evolves over time and how it varies by gender and region. This research offers a practical method for assessing data quality in small areas and estimating adult mortality in countries with data limitations, and it provides insights for policymakers aiming to reduce regional mortality disparities.",
+  "authors": [
+    {
+      "raw": "Lima, Everton",
+      "family": "Lima",
+      "given": "Everton"
+    },
+    {
+      "raw": "Queiroz, Bernardo Lanza",
+      "family": "Queiroz",
+      "given": "Bernardo Lanza"
+    },
+    {
+      "raw": "Freire, Flavio",
+      "family": "Freire",
+      "given": "Flavio"
+    },
+    {
+      "raw": "Gonzaga, Marcos",
+      "family": "Gonzaga",
+      "given": "Marcos"
+    }
+  ],
+  "authors_text": "Lima, Everton; Queiroz, Bernardo Lanza; Freire, Flavio; Gonzaga, Marcos",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.44",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.44",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.44",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.44.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

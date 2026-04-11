@@ -1,0 +1,35 @@
+{
+  "title": "Birth month, school graduation, and the timing of births and marriages",
+  "abstract": "Abstract We investigated the timing of fertility and marriage in Sweden using exogenous variation in the age at school graduation that results from differences in birth month. Our analysis found that the difference of 11 months in the age at leaving school between women who were born in two consecutive months, December and January, implies a delay in the age at first birth of 4.9 months. This effect of delayed graduation also persists for the timing of second births and first marriages, but it does not affect completed fertility or the overall probability of marriage before age 45. These results suggest the existence of a relatively rigid sequencing of demographic events in early adulthood, and the age at graduation from school emerges as an important factor in determining the timing—but not the quantum—of family formation. In addition, these effects point to a potentially important influence of social age, defined by an individual’s school cohort, instead of biological age. The relevance of social age is likely due to social interactions and peer-group influences exerted by individuals who are in the same school cohort but are not necessarily of the same age.",
+  "authors": [
+    {
+      "raw": "Skirbekk, Vegard",
+      "family": "Skirbekk",
+      "given": "Vegard"
+    },
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    },
+    {
+      "raw": "Prskawetz, Alexia",
+      "family": "Prskawetz",
+      "given": "Alexia"
+    }
+  ],
+  "authors_text": "Skirbekk, Vegard; Kohler, Hans-Peter; Prskawetz, Alexia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0028",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Family Life History and Late Mid-Life Mortality in Norway",
+  "abstract": "Using data on all Norwegians born 193568, we analyze the associations between mortality and a combined indicator of fertility and marital or partnership status and history. The focus is on ages 4073 and the years 19802008 (30 million person-years of observations and 117,000 deaths). Among men in first marriages, the childless have 36 percent higher mortality than those with two or more children. The corresponding figure for women is 61 percent. The never-married have higher mortality and are differentiated even more by parenthood status. Thus, childless never-married men and women have mortality three times as high as those who are married and have two or more children. The apparent advantage associated with having at least two children is smallest among men who divorced before their oldest child's tenth birthday. Having step-children has no association with mortality for those without natural children but is associated with higher mortality among the parous.",
+  "authors": [
+    {
+      "raw": "Kravdal, Oystein",
+      "family": "Kravdal",
+      "given": "Oystein"
+    },
+    {
+      "raw": "Grundy, Emily",
+      "family": "Grundy",
+      "given": "Emily"
+    },
+    {
+      "raw": "Lyngstad, Torkild H.",
+      "family": "Lyngstad",
+      "given": "Torkild H."
+    },
+    {
+      "raw": "Wiik, Kenneth Aa.",
+      "family": "Wiik",
+      "given": "Kenneth Aa."
+    }
+  ],
+  "authors_text": "Kravdal, Oystein; Grundy, Emily; Lyngstad, Torkild H.; Wiik, Kenneth Aa.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2012,
+  "doi": "10.1111/j.1728-4457.2012.00491.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2012.00491.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2012.00491.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2012.00491.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

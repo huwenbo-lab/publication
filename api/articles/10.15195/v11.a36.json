@@ -1,0 +1,35 @@
+{
+  "title": "Social Status and the Moral Acceptance of Artificial Intelligence",
+  "abstract": "The morality of artificial intelligence (AI) has become a contentious topic in academic and public debates. We argue that AIs moral acceptance depends not only on its ability to accomplish a task in line with moral norms but also on the social status attributed to AI. Agent type (AI vs. computer program vs. human), gender, and organizational membership impact moral permissibility. In a factorial survey experiment, 578 participants rated the moral acceptability of agents performing a task (e.g., cancer diagnostics). We find that using AI is judged less morally acceptable than employing human agents. AI used in high-status organizations is judged more morally acceptable than in low-status organizations. No differences were found between computer programs and AI. Neither anthropomorphic nor gender framing had an effect. Thus, human agents in high-status organizations receive a moral surplus purely based on their structural position in a cultural status hierarchy regardless of their actual performance.",
+  "authors": [
+    {
+      "raw": "Schenk, Patrick",
+      "family": "Schenk",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Müller, Vanessa",
+      "family": "Müller",
+      "given": "Vanessa"
+    },
+    {
+      "raw": "Keiser, Luca",
+      "family": "Keiser",
+      "given": "Luca"
+    }
+  ],
+  "authors_text": "Schenk, Patrick; Müller, Vanessa; Keiser, Luca",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2024,
+  "doi": "10.15195/v11.a36",
+  "doi_url": "https://doi.org/10.15195/v11.a36",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv11.a36",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v11.a36.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

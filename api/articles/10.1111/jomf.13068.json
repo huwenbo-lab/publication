@@ -1,0 +1,40 @@
+{
+  "title": "Measuring family boundary ambiguity in cohabiting stepfamilies",
+  "abstract": "ObjectiveOur study introduces a novel approach to gauging family boundary ambiguity using information obtained from just one household reporter. It also illuminates the strengths and challenges presented by parent pointers in federal surveys.BackgroundThe prominence of boundary ambiguity in cohabiting stepfamilies leads to significant measurement challenges, which take on greater salience as more children experience this family type.MethodDrawing on the 2019-2022 Current Population Survey (CPS), we assessed boundary ambiguity within cohabiting stepfamilies (N = 4133) by examining whether reporting the stepparent as the child's second parent differed by household reporter type: biological parent versus cohabiting partner. Logistic regressions showed the roles of sociodemographic, family, and child correlates of family boundary ambiguity by household reporter type.ResultsBoundary ambiguity in cohabiting stepfamilies was high, with over 80% of reporters not identifying the cohabiting partner as the child's second parent. Parents more often experienced boundary ambiguity (91%) than did partners (68%). Parents with more economic resources than their partners were more likely to experience boundary ambiguity. Joint children were negatively related to boundary ambiguity.ConclusionThis study shows most parents and partners in cohabiting stepfamilies do not view the partner as a second parent. It also reveals the ramifications of the CPS parent pointers that restrict respondents to reporting only two parents, tacitly reinforcing the two-biological parent norm.",
+  "authors": [
+    {
+      "raw": "Juteau, Gabrielle",
+      "family": "Juteau",
+      "given": "Gabrielle"
+    },
+    {
+      "raw": "Brown, Susan L.",
+      "family": "Brown",
+      "given": "Susan L."
+    },
+    {
+      "raw": "Manning, Wendy D.",
+      "family": "Manning",
+      "given": "Wendy D."
+    },
+    {
+      "raw": "Westrick-Payne, Krista K.",
+      "family": "Westrick-Payne",
+      "given": "Krista K."
+    }
+  ],
+  "authors_text": "Juteau, Gabrielle; Brown, Susan L.; Manning, Wendy D.; Westrick-Payne, Krista K.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13068",
+  "doi_url": "https://doi.org/10.1111/jomf.13068",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13068",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13068.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

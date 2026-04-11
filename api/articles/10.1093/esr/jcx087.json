@@ -1,0 +1,35 @@
+{
+  "title": "Housing Evictions and Economic Hardship. A Prospective Study",
+  "abstract": "Research has demonstrated that evictions primarily affect vulnerable populations. However, relatively little is known about the consequences eviction has, particularly regarding economic outcomes. Using comprehensive Swedish national register data on evictions in 2009, this study tests two competing hypotheses regarding to what extent an eviction affects subsequent economic hardship for an already disadvantaged group. The degree to which individuals rely on means-tested social assistance is used as an indicator of economic hardship. The cumulative disadvantage perspective predicts that additional strain will compound the economic hardship experienced by the group. In contrast, the disadvantage saturation perspective suggests that additional adversities may not add to economic hardship for disadvantaged individuals. Results from propensity score matching analyses show that, the year immediately after eviction, the degree of social assistance receipt was around 8 percentage points higher for the evicted group than for the matched comparison group. In the following 3 years, the degree of social assistance receipt continued to be significantly higher for those evicted compared to peers. The results lend support to the cumulative disadvantage perspective and suggest that-in the context of preventing evictions-policy measures such as assistance to repay rent arrears would be adequate to prevent further economic hardship.",
+  "authors": [
+    {
+      "raw": "Kahlmeter, Anna",
+      "family": "Kahlmeter",
+      "given": "Anna"
+    },
+    {
+      "raw": "Backman, Olof",
+      "family": "Backman",
+      "given": "Olof"
+    },
+    {
+      "raw": "Brannstrom, Lars",
+      "family": "Brannstrom",
+      "given": "Lars"
+    }
+  ],
+  "authors_text": "Kahlmeter, Anna; Backman, Olof; Brannstrom, Lars",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcx087",
+  "doi_url": "https://doi.org/10.1093/esr/jcx087",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx087",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx087.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

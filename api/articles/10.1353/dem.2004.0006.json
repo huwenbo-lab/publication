@@ -1,0 +1,30 @@
+{
+  "title": "The fertility contribution of Mexican immigration to the United States",
+  "abstract": "Abstract Crucial to the long-term contribution of immigration to a receiving country’s population is the extent to which the immigrants reproduce themselves in subsequent, native-born generations. Using conventional projection methodologies, this fertility contribution may be poorly estimated primarily because of problems in projecting the number of immigrants who are at risk of childbearing. We propose an alternative method that obviates the need to project the number of immigrants by using the full sending-country birth cohort as the risk group to project their receiving-country childbearing. This “sending-country birth cohort” method is found to perform dramatically better than conventional methods when projecting to 1999 from base years both before and after the large increase in inflows of Mexican immigrants to the United States in the late 1980s. Projecting forward from 1999, we estimate a cumulative contribution of Mexican immigrant fertility from the 1980s to 2040 of 36 million births, including 25% to 50% more births after 1995 than are projected using conventional methods.",
+  "authors": [
+    {
+      "raw": "Jonsson, Stefan Hrafn",
+      "family": "Jonsson",
+      "given": "Stefan Hrafn"
+    },
+    {
+      "raw": "Rendall, Michael S.",
+      "family": "Rendall",
+      "given": "Michael S."
+    }
+  ],
+  "authors_text": "Jonsson, Stefan Hrafn; Rendall, Michael S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0006",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

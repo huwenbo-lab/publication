@@ -1,0 +1,35 @@
+{
+  "title": "Rearranging the Desk Chairs: A Large Randomized Field Experiment on the Effects of Close Contact on Interethnic Relations",
+  "abstract": "Contact theory predicts that interethnic exposure reduces antiminority discrimination. By contrast, conflict theory predicts that interethnic exposure worsens discrimination. Received scope conditions, however, are vague and do not properly differentiate between the domains of the theories. Furthermore, prior evidence is mostly correlational, and supportive field experiments for contact theory have largely accrued in rarefied settings. This begs the question how interethnic contact affects interethnic relations in everyday situations. The authors test the causal effect of interethnic exposure on discrimination under quotidian conditions in a large preregistered randomized field experiment involving N=2,395 students in 39 Hungarian schools. The authors find that neither manipulating the closeness of interethnic exposure between students within classrooms nor variation in ethnic composition across grade levels affects antiminority discrimination. This indicates that the domains of contact and conflict theory are much narrower than previously thought. Interethnic contact may not affect discrimination either way in many everyday settings.",
+  "authors": [
+    {
+      "raw": "Elwert, Felix",
+      "family": "Elwert",
+      "given": "Felix"
+    },
+    {
+      "raw": "Keller, Tamas",
+      "family": "Keller",
+      "given": "Tamas"
+    },
+    {
+      "raw": "Kotsadam, Andreas",
+      "family": "Kotsadam",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Elwert, Felix; Keller, Tamas; Kotsadam, Andreas",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1086/724865",
+  "doi_url": "https://doi.org/10.1086/724865",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F724865",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/724865.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

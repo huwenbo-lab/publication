@@ -1,0 +1,30 @@
+{
+  "title": "Student mobility in Italy: The increasing role of family background during the expansion of higher education supply",
+  "abstract": "Student mobility is a significant component of Italian internal migration patterns, but its role in preserving or dismantling social inequalities is still largely under-investigated, especially when considering parental background-that is, the educational, occupational and social statuses of the parents. This paper has two aims. First, by analysing the effect of parental background on children's decision to move to northern regions for tertiary education, it examines the selectivity into student internal geographical mobility in Italy and discusses it in terms of possible social mobility pathways. Second, the paper adopts a diachronic perspective to evaluate if the relationship between geographical mobility and family background persisted over the years 1995-2011, a period characterized by crucial changes in the tertiary education system in Italy. We applied multinomial logit regression to a repeated cross-section of Istat's Survey on Educational and Professional Paths of Upper Secondary School Graduates. The findings highlight that student mobility in Italy is characterized by a positive self-selection in terms of family background-especially explained by parental education-which has increased over time despite the proliferation of degrees and university branches across the country resulting from the local university reform.",
+  "authors": [
+    {
+      "raw": "Impicciatore, Roberto",
+      "family": "Impicciatore",
+      "given": "Roberto"
+    },
+    {
+      "raw": "Tosi, Francesca",
+      "family": "Tosi",
+      "given": "Francesca"
+    }
+  ],
+  "authors_text": "Impicciatore, Roberto; Tosi, Francesca",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2019,
+  "doi": "10.1016/j.rssm.2019.100409",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100409",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100409",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100409.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

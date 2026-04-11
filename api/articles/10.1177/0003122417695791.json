@@ -1,0 +1,30 @@
+{
+  "title": "Grand Advantage: Family Wealth and Grandchildren's Educational Achievement in Sweden",
+  "abstract": "We study the role of family wealth for children's educational achievement using novel Swedish register data. In particular, we focus on the relationship between grandparents' wealth and their grandchildren's educational achievement. Doing so allows us to reliably establish the independent role of wealth in contributing to long-term inequalities in opportunity. We use regression models with extensive controls to account for observed socioeconomic characteristics of families, cousin fixed effects to net out potentially unobserved grandparent effects, and marginal structural models to account for endogenous selection. We find substantial associations between grandparents' wealth and their grandchildren's grade point averages (GPA) in the 9th grade that are only partly mediated by parents' socioeconomic characteristics and wealth. Our findings indicate that family wealth inequality-even in a comparatively egalitarian context like Sweden-has profound consequences for the distribution of opportunity across multiple generations. We posit that our estimates of the long-term consequences of wealth inequality may be conservative for nations other than Sweden, like the United States, where family wealth-in addition to its insurance and normative functions-allows the direct purchase of educational quality and access.",
+  "authors": [
+    {
+      "raw": "Hallsten, Martin",
+      "family": "Hallsten",
+      "given": "Martin"
+    },
+    {
+      "raw": "Pfeffer, Fabian T.",
+      "family": "Pfeffer",
+      "given": "Fabian T."
+    }
+  ],
+  "authors_text": "Hallsten, Martin; Pfeffer, Fabian T.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1177/0003122417695791",
+  "doi_url": "https://doi.org/10.1177/0003122417695791",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122417695791",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122417695791.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

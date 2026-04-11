@@ -1,0 +1,30 @@
+{
+  "title": "Feasible Peer Effects: Experimental Evidence for Deskmate Effects on Educational Achievement and Inequality",
+  "abstract": "Schools routinely employ seating charts to influence educational outcomes. Dependable&#13;\\nevidence for the causal effects of seating charts on students’ achievement levels and inequality,&#13;\\nhowever, is scarce. We executed a large pre-registered field experiment to estimate causal peer&#13;\\neffects on students’ test scores and grades by randomizing the seating charts of 195 classrooms&#13;\\n(N=3,365 students). We found that neither sitting next to a deskmate with higher prior achievement&#13;\\nnor sitting next to a female deskmate affected learning outcomes on average. However, we also&#13;\\nfound that sitting next to the highest-achieving deskmates improved the educational outcomes&#13;\\nof the lowest-achieving students; and sitting next to the lowest-achieving deskmates lowered the&#13;\\neducational outcomes of the highest-achieving students. Therefore, compared to random seating&#13;\\ncharts, achievement-discordant seating charts would decrease inequality; whereas achievementconcordant seating charts would increase inequality. We discuss policy implications.",
+  "authors": [
+    {
+      "raw": "Keller, Tamás",
+      "family": "Keller",
+      "given": "Tamás"
+    },
+    {
+      "raw": "Elwert, Felix",
+      "family": "Elwert",
+      "given": "Felix"
+    }
+  ],
+  "authors_text": "Keller, Tamás; Elwert, Felix",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a28",
+  "doi_url": "https://doi.org/10.15195/v10.a28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

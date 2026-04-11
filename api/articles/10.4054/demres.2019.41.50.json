@@ -1,0 +1,35 @@
+{
+  "title": "Living arrangement dynamics of older adults in Mexico: Latent class analysis in an accelerated longitudinal design",
+  "abstract": "BACKGROUND Because living arrangements have many implications for the well-being of older adults, knowledge regarding typical age-related developmental changes in living arrangements is of a major concern for public health policymakers, particularly in low- and middle-income countries dealing with growing aging populations. However, the much-needed empirical analysis of living arrangement dynamics is hindered by a lack of proper data. OBJECTIVE To exploit often-available short-term longitudinal data in the study of long-term phenomena, in this paper we accelerate the Mexican Health and Aging Study (MHAS) panel as a means to explore, over a broad age span, the household dynamics of Mexican older adults. METHODS Instead of working with a priori definitions of different household structures when analyzing transitions between them, we introduce a novel approach that estimates latent classes of developmental trends in the household composition of older people as they age. RESULTS We show how accelerated longitudinal designs, coupled with latent class analysis, can offer new insights into living arrangement dynamics. Our findings suggest that in Mexico the typical living arrangements at 50 years old serve as an important predictor of future living arrangements, and that typical living-arrangement trajectories are strongly gendered in Mexico. This new approach may prove to be indispensible when determining the social support needed by high-risk population groups and as a means to better anticipate the necessary financial resources to do so.",
+  "authors": [
+    {
+      "raw": "Huffman, Curtis",
+      "family": "Huffman",
+      "given": "Curtis"
+    },
+    {
+      "raw": "Regules-Garcia, Ricardo",
+      "family": "Regules-Garcia",
+      "given": "Ricardo"
+    },
+    {
+      "raw": "Vargas-Chanes, Delfino",
+      "family": "Vargas-Chanes",
+      "given": "Delfino"
+    }
+  ],
+  "authors_text": "Huffman, Curtis; Regules-Garcia, Ricardo; Vargas-Chanes, Delfino",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.50",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.50",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.50",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.50.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

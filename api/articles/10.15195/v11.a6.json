@@ -1,0 +1,30 @@
+{
+  "title": "Differences in Academic Preparedness Do Not Fully Explain Black–White Enrollment Disparities in Advanced High School Coursework",
+  "abstract": "Whether racial disparities in enrollment in advanced high school coursework can be attributed to differences in prior academic preparation is a central question in sociological research and education policy. However, previous investigations face methodological limitations, for they compare race-specific enrollment rates of students after adjusting for characteristics only partially related to their academic preparedness for advanced coursework. Informed by a recently-developed statistical technique, we propose and estimate a novel measure of students' academic preparedness and use administrative data from the New York City Department of Education to measure differences in Advanced Placement (AP) mathematics enrollment rates among similarly prepared students of different races. We find that preexisting differences in academic preparation do not fully explain the under-representation of Black students relative to White students in AP mathematics. Our results imply that achieving equal opportunities for AP enrollment not only requires equalizing earlier academic experiences, but also addressing inequities that emerge from coursework placement processes.",
+  "authors": [
+    {
+      "raw": "Souto-Maior, João",
+      "family": "Souto-Maior",
+      "given": "João"
+    },
+    {
+      "raw": "Shroff, Ravi",
+      "family": "Shroff",
+      "given": "Ravi"
+    }
+  ],
+  "authors_text": "Souto-Maior, João; Shroff, Ravi",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2024,
+  "doi": "10.15195/v11.a6",
+  "doi_url": "https://doi.org/10.15195/v11.a6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv11.a6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v11.a6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

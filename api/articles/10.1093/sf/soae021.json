@@ -1,0 +1,35 @@
+{
+  "title": "Exposure of Neighborhood Racial and Socio-Economic Composition in Activity Space: A New Approach Adjusting for Residential Conditions",
+  "abstract": "A longstanding urban sociological literature emphasizes the geographic isolation of city dwellers in residence and everyday routines, expecting exposures to neighborhood racial and socio-economic structure driven principally by city-wide segregation and the role of proximity and homophily in mobility. The compelled mobility approach emphasizes the uneven distribution of organizational and institutional resources across urban space, expecting residents of poor Black-segregated neighborhoods to exhibit non-trivial levels of everyday exposure to White, non-poor areas for resource seeking. We use two sets of location data in the hypersegregated Chicago metro to examine these two approaches: Global Positioning System (GPS) location tracking on a sample of older adults from the Chicago Health and Activity Space in Real-Time (CHART) study and travel diaries on a sample of younger adults by the Chicago Metropolitan Agency for Planning (CMAP). We introduce a novel and flexible individual-level method for assessing activity space exposures that accounts for the spatially proximate environment around home. Analyses reveal that activity space contexts mimic the racial/ethnic and socio-economic landscape of respondents' broad residential environment. However, after residential-based adjustment, Black younger (CMAP) adults from poor Black neighborhoods are disproportionately exposed to Whiter, less Black but less non-poor neighborhoods. Older (CHART) adult activity spaces align more closely with their residential areas; however, activity spaces of poor-Black-neighborhood-residing CHART Blacks are systematically poorer and, less consistently, more Black and less White after local area adjustment. Implications for understanding contextual exposures on well-being and the potential for age or cohort differences in isolation are discussed.",
+  "authors": [
+    {
+      "raw": "Cai, Liang",
+      "family": "Cai",
+      "given": "Liang"
+    },
+    {
+      "raw": "Browning, Christopher R.",
+      "family": "Browning",
+      "given": "Christopher R."
+    },
+    {
+      "raw": "Cagney, Kathleen A.",
+      "family": "Cagney",
+      "given": "Kathleen A."
+    }
+  ],
+  "authors_text": "Cai, Liang; Browning, Christopher R.; Cagney, Kathleen A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae021",
+  "doi_url": "https://doi.org/10.1093/sf/soae021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

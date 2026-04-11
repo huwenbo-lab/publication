@@ -1,0 +1,30 @@
+{
+  "title": "Income Inequality and Income Segregation",
+  "abstract": "This article investigates how the growth in income inequality from 1970 to 2000 affected patterns of income segregation along three dimensions: the spatial segregation of poverty and affluence, race-specific patterns of income segregation, and the geographic scale of income segregation. The evidence reveals a robust relationship between income inequality and income segregation, an effect that is larger for black families than for white families. In addition, income inequality affects income segregation primarily through its effect on the large-scale spatial segregation of affluence rather than by affecting the spatial segregation of poverty or by altering small-scale patterns of income segregation.",
+  "authors": [
+    {
+      "raw": "Reardon, Sean F.",
+      "family": "Reardon",
+      "given": "Sean F."
+    },
+    {
+      "raw": "Bischoff, Kendra",
+      "family": "Bischoff",
+      "given": "Kendra"
+    }
+  ],
+  "authors_text": "Reardon, Sean F.; Bischoff, Kendra",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2011,
+  "doi": "10.1086/657114",
+  "doi_url": "https://doi.org/10.1086/657114",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F657114",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/657114.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

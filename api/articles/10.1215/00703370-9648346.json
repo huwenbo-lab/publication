@@ -1,0 +1,35 @@
+{
+  "title": "What Tears Couples Apart: A Machine Learning Analysis of Union Dissolution in Germany",
+  "abstract": "This study contributes to the literature on union dissolution by adopting a machine learning (ML) approach, specifically Random Survival Forests (RSF). We used RSF to analyze data on 2,038 married or cohabiting couples who participated in the German Socio-Economic Panel Survey, and found that RSF had considerably better predictive accuracy than conventional regression models. The man's and the woman's life satisfaction and the woman's percentage of housework were the most important predictors of union dissolution; several other variables (e.g., woman's working hours, being married) also showed substantial predictive power. RSF was able to detect complex patterns of association, and some predictors examined in previous studies showed A. marginal or null predictive power. Finally, while we found that some personality traits were strongly predictive of union dissolution, no interactions between those traits were evident, possibly reflecting assortative mating by personality traits. From a methodological point of view, the study demonstrates the potential benefits of ML techniques for the analysis of union dissolution and for demographic research in general. Key features of ML include the ability to handle a large number of predictors, the automatic detection of nonlinearities and nonadditivities between predictors and the outcome, generally superior predictive accuracy, and robustness against multicollinearity.",
+  "authors": [
+    {
+      "raw": "Arpino, Bruno",
+      "family": "Arpino",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Le Moglie, Marco",
+      "family": "Le Moglie",
+      "given": "Marco"
+    },
+    {
+      "raw": "Mencarini, Letizia",
+      "family": "Mencarini",
+      "given": "Letizia"
+    }
+  ],
+  "authors_text": "Arpino, Bruno; Le Moglie, Marco; Mencarini, Letizia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9648346",
+  "doi_url": "https://doi.org/10.1215/00703370-9648346",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9648346",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9648346.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

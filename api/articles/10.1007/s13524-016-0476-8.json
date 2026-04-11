@@ -1,0 +1,40 @@
+{
+  "title": "The Intrinsic Estimator, Alternative Estimates, and Predictions of Mortality Trends: A Comment on Masters, Hummer, Powers, Beck, Lin, and Finch",
+  "abstract": "In this article, we discuss a study by Masters et al. (2014), published in Demography. Masters and associates estimated age, period, and cohort (APC) effects on U.S. mortality rates between 1959 and 2009 using the intrinsic estimator (IE). We first argue that before applying the IE, a grounded theoretical justification is needed for its fundamental constraint on minimum variance of the estimates. We next demonstrate IE's high sensitivity to the type of dummy parameterization used to obtain the estimates. Finally, we discuss challenges in the interpretation of APC models. Our comments are not restricted to the article in question but pertain generally to any research that uses the IE.",
+  "authors": [
+    {
+      "raw": "te Grotenhuis, Manfred",
+      "family": "te Grotenhuis",
+      "given": "Manfred"
+    },
+    {
+      "raw": "Pelzer, Ben",
+      "family": "Pelzer",
+      "given": "Ben"
+    },
+    {
+      "raw": "Luo, Liying",
+      "family": "Luo",
+      "given": "Liying"
+    },
+    {
+      "raw": "Schmidt-Catran, Alexander W.",
+      "family": "Schmidt-Catran",
+      "given": "Alexander W."
+    }
+  ],
+  "authors_text": "te Grotenhuis, Manfred; Pelzer, Ben; Luo, Liying; Schmidt-Catran, Alexander W.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0476-8",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0476-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0476-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0476-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

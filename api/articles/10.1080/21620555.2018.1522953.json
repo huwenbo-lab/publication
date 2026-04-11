@@ -1,0 +1,30 @@
+{
+  "title": "Coresidence in the Transition to Adulthood: The Case of the United States, Germany, Taiwan, and Mainland China",
+  "abstract": "This paper compares the prevalence and age-specific changes of coresidence patterns, by means of a classification of 12 coresidence types, for the age range from 16 to 30 in the United States (US), Germany ( GE), Taiwan (TW), and mainland China ( CN). Panel data were used in separate nested logistic regression models to estimate transitions in coresidence for individuals in each society in the transition to adulthood. On the first level, decisions to move from different types of family-of-origin-households were modeled, depending on intergenerational solidarity and parental resources. On the second level, target household types were modeled, depending on others' trajectory events and their interaction with gender. The analysis used the National Longitudinal Study of Youth ( NLS Y97) from the United States, the German Family Panel (pairfam), the Taiwanese Youth Project (TYP), and the China Family Panel Studies (CFPS). Age-specific coresidence patterns were pooled and transitions probabilities were estimated for a two-year period. The systematic comparative approach makes it possible to correct misinterpretations based on analyses from single societies. Our results demonstrated that differences in coresidence patterns within the patrilineal, collectivistic societies ( CN and TW), and within the bilineal, individualistic societies (US and GE) were as important as the differences between these two groups of societies.",
+  "authors": [
+    {
+      "raw": "Nauck, Bernhard",
+      "family": "Nauck",
+      "given": "Bernhard"
+    },
+    {
+      "raw": "Ren, Qiang",
+      "family": "Ren",
+      "given": "Qiang"
+    }
+  ],
+  "authors_text": "Nauck, Bernhard; Ren, Qiang",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1080/21620555.2018.1522953",
+  "doi_url": "https://doi.org/10.1080/21620555.2018.1522953",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2018.1522953",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2018.1522953.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

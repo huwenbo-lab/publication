@@ -1,0 +1,35 @@
+{
+  "title": "More Careful or Less Marriageable? Parental Divorce, Spouse Selection and Entry into Marriage",
+  "abstract": "Despite the large literature on the long-term effects of parental divorce, few studies have analyzed the effects of parental divorce on spouse selection behavior. However, the characteristics of one's spouse can have important effects on economic well-being and on marital success. We use discrete-time, event-history data from Finnish population registers to study the effects of parental divorce on entry into marriage with spouses who have different educational qualifications (both absolute and relative to one's own education), using conditional multinomial logistic regression models. The results show that Finnish children of divorce have lower rates of marriage than those from intact families. In particular, children of divorce have a lower likelihood of marrying spouses with secondary education or more, and especially low rates of marrying someone with a tertiary degree. The latter gap is smaller among those with tertiary education, as a result of the higher rates of homogamous marriage among the children of divorce with high education. Our findings suggest that children of divorce carry with them traits and behaviors that make them less marriageable candidates in the marriage market. We discuss the possible implications of these findings.",
+  "authors": [
+    {
+      "raw": "Erola, J.",
+      "family": "Erola",
+      "given": "J."
+    },
+    {
+      "raw": "Harkonen, J.",
+      "family": "Harkonen",
+      "given": "J."
+    },
+    {
+      "raw": "Dronkers, J.",
+      "family": "Dronkers",
+      "given": "J."
+    }
+  ],
+  "authors_text": "Erola, J.; Harkonen, J.; Dronkers, J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2012,
+  "doi": "10.1093/sf/sos073",
+  "doi_url": "https://doi.org/10.1093/sf/sos073",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsos073",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sos073.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

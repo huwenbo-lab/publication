@@ -1,0 +1,30 @@
+{
+  "title": "Historical population estimates: Unraveling the consensus",
+  "abstract": "The mid-twentieth century Witnessed the emergence of a remarkable consensus on quantitative estimates of world population growth after 1650. This was the achievement of Walter Willcox, supported and modified by Alexander Carr-Saunders and John Durand, and was endorsed by United Nations publications. It had its origins in eighteenth- and nineteenth-century work, largely carried out in Germany. Willcox was particularly interested in demonstrating seventeenth-century population growth as evidence of the global impact of European expansion, and this probably led to a too-ready acceptance of estimates with little real basis. More recent estimates do little to shake the consensus, but extend the historical series back over two millennia or further. The article examines. the strength and influence of a consensus based in the earlier period on surprisingly insecure data. It then turns to the most suspect element in the consensus, the pre-twentieth-century estimates for Africa. Finally, little hope is expressed that future researchers will be able to establish reliable estimates, especially for dates earlier than the eighteenth century.",
+  "authors": [
+    {
+      "raw": "Caldwell, JC",
+      "family": "Caldwell",
+      "given": "JC"
+    },
+    {
+      "raw": "Schindlmayr, T",
+      "family": "Schindlmayr",
+      "given": "T"
+    }
+  ],
+  "authors_text": "Caldwell, JC; Schindlmayr, T",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2002,
+  "doi": "10.1111/j.1728-4457.2002.00183.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2002.00183.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2002.00183.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2002.00183.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

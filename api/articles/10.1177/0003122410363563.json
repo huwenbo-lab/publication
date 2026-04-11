@@ -1,0 +1,35 @@
+{
+  "title": "From Policy to Polity: Democracy, Paternalism, and the Incorporation of Disadvantaged Citizens",
+  "abstract": "This article investigates how experiences with public policies affect levels of civic and political engagement among the poor. Studies of ''policy feedback'' investigate policies not just as political outcomes, but also as factors that set political forces in motion and shape political agency. To advance this literature, we take up three outstanding questions related to selection bias, the distinction between universal and targeted programs, and the types of authority relations most likely to foster engagement among the poor. Using a longitudinal dataset from the Fragile Families and Child Wellbeing Study, which follows a cohort of low-income parents and their newborn children in 20 U.S. cities, we estimate effects associated with three types of means-tested public assistance. We find that these policies' effects are not an illusion created by selection bias; the effects of targeted programs can both promote and discourage engagement; and such effects tend to be more positive when a policy's authority structure reflects democratic rather than paternalist principles.",
+  "authors": [
+    {
+      "raw": "Bruch, Sarah K.",
+      "family": "Bruch",
+      "given": "Sarah K."
+    },
+    {
+      "raw": "Ferree, Myra Marx",
+      "family": "Ferree",
+      "given": "Myra Marx"
+    },
+    {
+      "raw": "Soss, Joe",
+      "family": "Soss",
+      "given": "Joe"
+    }
+  ],
+  "authors_text": "Bruch, Sarah K.; Ferree, Myra Marx; Soss, Joe",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122410363563",
+  "doi_url": "https://doi.org/10.1177/0003122410363563",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410363563",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410363563.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

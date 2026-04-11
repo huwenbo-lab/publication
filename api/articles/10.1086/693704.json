@@ -1,0 +1,45 @@
+{
+  "title": "Investigating the Temporal Dynamics of Interorganizational Exchange: Patient Transfers among Italian Hospitals",
+  "abstract": "Previous research on interaction behavior among organizations (resource exchange, collaboration, communication) has typically aggregated those behaviors over time as a network of organizational relationships. The authors instead study structural-temporal patterns in organizational exchange, focusing on the dynamics of reciprocation. Applying this lens to a community of Italian hospitals during 2003-7, the authors observe two mechanisms of interorganizational reciprocation: organizational embedding and resource dependence. The authors show how these two mechanisms operate on distinct time horizons: dependence applies to contemporaneous exchange structures, whereas embedding develops through longer-term historical patterns. They also show how these processes operate differently in competitive and noncompetitive contexts, operationalized in terms of market differentiation and geographic space. In noncompetitive contexts, the authors observe both logics of reciprocation, dependence in the short term and embedding over the long term, developing into population-level generalized exchange. In competitive contexts, they find no reciprocation and instead observe the microfoundations of status hierarchies.",
+  "authors": [
+    {
+      "raw": "Kitts, James A.",
+      "family": "Kitts",
+      "given": "James A."
+    },
+    {
+      "raw": "Lomi, Alessandro",
+      "family": "Lomi",
+      "given": "Alessandro"
+    },
+    {
+      "raw": "Mascia, Daniele",
+      "family": "Mascia",
+      "given": "Daniele"
+    },
+    {
+      "raw": "Pallotti, Francesca",
+      "family": "Pallotti",
+      "given": "Francesca"
+    },
+    {
+      "raw": "Quintane, Eric",
+      "family": "Quintane",
+      "given": "Eric"
+    }
+  ],
+  "authors_text": "Kitts, James A.; Lomi, Alessandro; Mascia, Daniele; Pallotti, Francesca; Quintane, Eric",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2017,
+  "doi": "10.1086/693704",
+  "doi_url": "https://doi.org/10.1086/693704",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F693704",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/693704.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

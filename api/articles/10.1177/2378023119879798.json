@@ -1,0 +1,35 @@
+{
+  "title": "The Network Structure of Police Misconduct",
+  "abstract": "Conventional explanations of police misconduct generally adopt a microlevel focus on deviant officers or a macrolevel focus on the top-down organization of police departments. Between these levels are social networks of misconduct. This study recreates these networks using data on 16,503 complaints and 15,811 police officers over a six-year period in Chicago. We examine individual-level factors associated with receiving a complaint, the basic properties of these misconduct networks, and factors related to officer co-naming in complaints. We find that the incidence of police misconduct is associated with attributes including race, age, and tenure and that almost half of police officers are connected in misconduct ties in broader networks of misconduct. We also find that certain dyadic factors, especially seniority and race, strongly predict network ties and the incidence of group misconduct. Our results provide actionable information regarding possible ways to leverage the co-complaint network structure to reduce misconduct.",
+  "authors": [
+    {
+      "raw": "Wood, George",
+      "family": "Wood",
+      "given": "George"
+    },
+    {
+      "raw": "Roithmayr, Daria",
+      "family": "Roithmayr",
+      "given": "Daria"
+    },
+    {
+      "raw": "Papachristos, Andrew V.",
+      "family": "Papachristos",
+      "given": "Andrew V."
+    }
+  ],
+  "authors_text": "Wood, George; Roithmayr, Daria; Papachristos, Andrew V.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119879798",
+  "doi_url": "https://doi.org/10.1177/2378023119879798",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119879798",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119879798.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

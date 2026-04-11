@@ -1,0 +1,25 @@
+{
+  "title": "Funding Sources, Family Income, and Fields of Study in College",
+  "abstract": "Research shows that receiving loans, family contributions, and grants has implications for students both during and after college, but one key outcome has been overlooked: fields of study. Using data from the National Longitudinal Survey of Youth-1997 cohort (NLSY-97), this study is the first to assess how college funding is associated with first-term majors and course selection throughout college. I posit that funding sources effectively constrain students' fields of study, such that students choose majors and courses that align with their broader financial circumstances. As funding from loans increases, students are more likely to major in applied non-STEM fields (e.g., business, nursing) and less likely to be undeclared during the first term-particularly if students are from low-or middle-income families. Conversely, as funding from family contributions increases, students are more likely to be undeclared and less likely to major or take courses in applied non-STEM fields. Receiving grants bears little relation to students' major or course fields. These patterns suggest that funding sources entail distinct costs and benefits that may influence college student decision-making, and that fields of study are the product of multiple sources of inequality.",
+  "authors": [
+    {
+      "raw": "Quadlin, Natasha",
+      "family": "Quadlin",
+      "given": "Natasha"
+    }
+  ],
+  "authors_text": "Quadlin, Natasha",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox042",
+  "doi_url": "https://doi.org/10.1093/sf/sox042",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox042",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox042.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

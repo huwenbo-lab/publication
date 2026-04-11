@@ -1,0 +1,35 @@
+{
+  "title": "Explaining Residential Clustering of Large Families",
+  "abstract": "AbstractNumerous studies have shown that fertility behavior is spatially clustered. In addition to pure contextual effects, two causal mechanisms could drive this pattern. First, neighbors may influence each other's fertility and second, family size may influence decisions about where to live. In this study we examine these two potential causal mechanisms empirically, using the sex composition of the two eldest children and twin births as instrumental variables (IVs) for having a third child. We estimate how having a third child affects three separate outcomes: the fertility of neighbors; the propensity to move houses; and the likelihood of living in a family-friendly neighborhood with many children. We draw residential and childbearing histories (2000–2018) from Norwegian administrative registers (N ~ 167,000 women). Individuals' neighborhoods are defined using time-varying geocoordinates for place of residence. We identify selective moves as one plausible causal driver of residential clustering of large families. This study contributes to the understanding of fertility and relocation, and to the literature on the social interaction effects of fertility, by testing the relevance of yet another network: that of neighbors.",
+  "authors": [
+    {
+      "raw": "Bergsvik, Janna",
+      "family": "Bergsvik",
+      "given": "Janna"
+    },
+    {
+      "raw": "Cools, Sara",
+      "family": "Cools",
+      "given": "Sara"
+    },
+    {
+      "raw": "Hart, Rannveig K.",
+      "family": "Hart",
+      "given": "Rannveig K."
+    }
+  ],
+  "authors_text": "Bergsvik, Janna; Cools, Sara; Hart, Rannveig K.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2023,
+  "doi": "10.1007/s10680-023-09655-6",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09655-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09655-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09655-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

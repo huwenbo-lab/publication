@@ -1,0 +1,30 @@
+{
+  "title": "On the Beginning of Mortality Acceleration",
+  "abstract": "Physiological senescence is characterized by the increasing limitation of capabilities of an organism resulting from the progressive accumulation of molecular damage, which at group (cohort) level translates into, among other things, an increase in mortality risks with age. Physiological senescence is generally thought to begin at birth, if not earlier, but models of demographic aging (i.e., an increase in mortality risks) normally start at considerably later ages. This apparent inconsistency can be solved by assuming the existence of two mortality regimes: latent and manifest aging. Up to a certain age, there is only latent aging: physiological senescence occurs, but its low level does not trigger any measurable increase in mortality. Past a certain level (and age), molecular damage is such that mortality risks start to increase. We first discuss why this transition from latent to manifest aging should exist at all, and then we turn to the empirical estimation of the corresponding threshold age by applying Bai's approach to the estimation of breakpoints in time series. Our analysis, which covers several cohorts born between 1850 and 1938 in 14 of the countries included in the Human Mortality Database, indicates that an age at the onset of manifest aging can be identified. However, it has not remained constant: it has declined from about 43 and 47 years, respectively, for males and females at the beginning of the period (cohorts born in 1850-1869) to about 31 for both males and females toward its end (cohorts born in 1920-1938). A discussion of why this may have happened ensues.",
+  "authors": [
+    {
+      "raw": "Salinari, Giambattista",
+      "family": "Salinari",
+      "given": "Giambattista"
+    },
+    {
+      "raw": "De Santis, Gustavo",
+      "family": "De Santis",
+      "given": "Gustavo"
+    }
+  ],
+  "authors_text": "Salinari, Giambattista; De Santis, Gustavo",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-014-0363-0",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0363-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0363-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0363-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

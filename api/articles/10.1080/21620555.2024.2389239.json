@@ -1,0 +1,40 @@
+{
+  "title": "Preschool advantage: economic disparities in the long-term effects of early childhood education on cognitive development in China",
+  "abstract": "This study examines the long-term impact of early childhood education on adolescent cognitive development in China, with a particular focus on the disparities in its effects across various economic backgrounds. Utilizing longitudinal data from the China Family Panel Studies and employing propensity score matching, the findings demonstrate a significant positive correlation between early childhood education and the cognitive development of primary and middle school students. Importantly, the study reveals that children from economically disadvantaged backgrounds experience significantly greater cognitive benefits from preschool attendance compared to their more affluent peers. Theoretical contributions and policy implications are discussed.",
+  "authors": [
+    {
+      "raw": "Ma, Gaoming",
+      "family": "Ma",
+      "given": "Gaoming"
+    },
+    {
+      "raw": "Xu, Can",
+      "family": "Xu",
+      "given": "Can"
+    },
+    {
+      "raw": "Zhang, Jiayu",
+      "family": "Zhang",
+      "given": "Jiayu"
+    },
+    {
+      "raw": "Dai, Haijing",
+      "family": "Dai",
+      "given": "Haijing"
+    }
+  ],
+  "authors_text": "Ma, Gaoming; Xu, Can; Zhang, Jiayu; Dai, Haijing",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1080/21620555.2024.2389239",
+  "doi_url": "https://doi.org/10.1080/21620555.2024.2389239",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2024.2389239",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2024.2389239.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

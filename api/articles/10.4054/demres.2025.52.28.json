@@ -1,0 +1,40 @@
+{
+  "title": "A parallel kinship universe? A replication of Kolk et al. (2023) with Dutch register data on kinship networks",
+  "abstract": "BACKGROUND Kolk et al. (2023) use Swedish register data to provide a detailed numerical account of biological kinship. Applying their approach in other countries is challenging due to high data requirements. OBJECTIVE We examine whether Kolk et al.'s (2023) findings generalize to another demographically advanced country, the Netherlands, and assess how differences in cohort fertility and divorce rates influence the prevalence of different kin types. METHODS We analyze kinship network data for the entire Dutch population in 2018, focusing on ties to grandchildren, children, nieces, nephews, siblings, cousins, parents, aunts, uncles, and grandparents. RESULTS First, we find strong similarities between Dutch and Swedish kinship structures, extending the picture drawn by Kolk et al. (2023) to another demographically advanced Western context. Second, we show how the Dutch baby boom has trickled down across generations, leading to larger numbers of aunts, uncles, and cousins. Third, we show how differences in other family-related behaviors-specifically divorce and separation-shape the composition of kinship networks and cross-national differences, evident in a substantially lower number of half-siblings in the Netherlands than in Sweden.",
+  "authors": [
+    {
+      "raw": "de Bel, Vera",
+      "family": "de Bel",
+      "given": "Vera"
+    },
+    {
+      "raw": "Bokanyi, Eszter",
+      "family": "Bokanyi",
+      "given": "Eszter"
+    },
+    {
+      "raw": "Hank, Karsten",
+      "family": "Hank",
+      "given": "Karsten"
+    },
+    {
+      "raw": "Leopold, Thomas",
+      "family": "Leopold",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "de Bel, Vera; Bokanyi, Eszter; Hank, Karsten; Leopold, Thomas",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.28",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

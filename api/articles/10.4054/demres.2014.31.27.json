@@ -1,0 +1,40 @@
+{
+  "title": "Varying association between education and second births in Europe",
+  "abstract": "Previous research has shown considerable variation in the relationship between womenâs educational attainment and second births in contemporary Europe. A negative association is found in some countries, while a positive or non-negative relationship is repo",
+  "authors": [
+    {
+      "raw": "Klesment, Martin",
+      "family": "Klesment",
+      "given": "Martin"
+    },
+    {
+      "raw": "Puur, Allan",
+      "family": "Puur",
+      "given": "Allan"
+    },
+    {
+      "raw": "Rahnu, Leen",
+      "family": "Rahnu",
+      "given": "Leen"
+    },
+    {
+      "raw": "Sakkeus, Luule",
+      "family": "Sakkeus",
+      "given": "Luule"
+    }
+  ],
+  "authors_text": "Klesment, Martin; Puur, Allan; Rahnu, Leen; Sakkeus, Luule",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2014,
+  "doi": "10.4054/demres.2014.31.27",
+  "doi_url": "https://doi.org/10.4054/demres.2014.31.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2014.31.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2014.31.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

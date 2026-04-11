@@ -1,0 +1,30 @@
+{
+  "title": "In-Group Bias or Out-Group Reluctance? The Interplay of Gender and Religion in Creating Religious Friendship Segregation among Muslim Youth",
+  "abstract": "Even in diverse schools that provide opportunities for interreligious friendships, Muslim youth disproportionally tend to be friends with Muslims rather than non-Muslims. Echoing broader debates about minorities' self-segregation versus exclusion by majority group members, a key question is whether religious friendship segregation arises because of Muslims' in-group bias or because of non-Muslims' reluctance to befriend them. We suggest that the answer differs for Muslim boys and girls. Building on research on interreligious romantic relations and accounts of the lives of young Muslims and other ethno-religious minorities in Western societies, we propose that religious in-group bias is stronger for Muslim girls than for Muslim boys. Conversely, we expect non-Muslim youth to be more open to befriend Muslim girls than Muslim boys. Applying stochastic actor-oriented models of network dynamics to large-scale longitudinal data of friendship networks in German schools, we find that Muslim girls indeed have a strong in-group bias, whereas non-Muslim youth are not reluctantto be friends with them. Muslim boys, by contrast, have a much weaker in-group bias, but non-Muslim youth are less willing to be friends with them rather than with non-Muslims. A simulation analysis demonstrates that these gendered individual-level processes result in comparable aggregate patterns of friendship segregation among Muslim boys and girls. Religious friendship segregation thus arises because Muslim girls tend to self-segregate and non-Muslim youth are less willing to befriend Muslim boys although the latter are open to interreligious friendships. This gendered friendship-making behavior has implications for the larger question of minority social integration.",
+  "authors": [
+    {
+      "raw": "Kretschmer, David",
+      "family": "Kretschmer",
+      "given": "David"
+    },
+    {
+      "raw": "Leszczensky, Lars",
+      "family": "Leszczensky",
+      "given": "Lars"
+    }
+  ],
+  "authors_text": "Kretschmer, David; Leszczensky, Lars",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab029",
+  "doi_url": "https://doi.org/10.1093/sf/soab029",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab029",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab029.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

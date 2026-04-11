@@ -1,0 +1,25 @@
+{
+  "title": "Migration, fertility, and aging in stable populations",
+  "abstract": "Abstract Fertility is below replacement level in all European countries, and population growth is expected to decline in the coming decades. Increasing life expectancy will accentuate concomitant aging of the population. Migration has been seen as a possible means to decelerate aging. In this article, I introduce a stable, open-population model in which cohort net migration is proportional to births. In this case, the migration-fertility trade-off can be studied with particular ease. I show that although migration can increase the growth rate, which tends to make the age distribution younger, it also has an opposite effect because of its typical age pattern. I capture the effect of the age pattern of net migration in a migration-survivor function. The effect of net migration on growth is quantified with data from 17 European countries. I show that some countries already have a level of migration that will lead to stationarity. For other countries with asymptotically declining population, migration still provides opportunities for slowing down aging of the population as a whole.",
+  "authors": [
+    {
+      "raw": "Alho, Juha M.",
+      "family": "Alho",
+      "given": "Juha M."
+    }
+  ],
+  "authors_text": "Alho, Juha M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0021",
+  "doi_url": "https://doi.org/10.1353/dem.0.0021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

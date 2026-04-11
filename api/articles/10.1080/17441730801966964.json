@@ -1,0 +1,30 @@
+{
+  "title": "HOW WELL DID PAST UN POPULATION PROJECTIONS ANTICIPATE DEMOGRAPHIC TRENDS IN SIX SOUTH-EAST ASIAN COUNTRIES?",
+  "abstract": "This paper analyses the accuracy of the United Nations' population projections since the late 1950s for six South-east Asian countries: Indonesia, Malaysia, Singapore, the Philippines, Thailand and Vietnam. The study uses available projected and estimated age-structured data as well as published assumptions on fertility and mortality trends. A decomposition of the total projection errors into base errors (wrong estimates of demographic conditions at the beginning of projection interval) and change errors (wrong assumptions about the trends) shows that the base errors have generally been decreasing over time presumably as a consequence of improving demographic monitoring systems. The change errors, however, do not seem to decline over time. This seems to be due to a number of country-specific cultural and political factors whose effect was not anticipated as well as to a lack of good theories with predictive power. These findings suggest the need to give more explicit attention to the treatment of uncertainty in future population projections.",
+  "authors": [
+    {
+      "raw": "Khan, Hafiz T. A.",
+      "family": "Khan",
+      "given": "Hafiz T. A."
+    },
+    {
+      "raw": "Lutz, Wolfgang",
+      "family": "Lutz",
+      "given": "Wolfgang"
+    }
+  ],
+  "authors_text": "Khan, Hafiz T. A.; Lutz, Wolfgang",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2008,
+  "doi": "10.1080/17441730801966964",
+  "doi_url": "https://doi.org/10.1080/17441730801966964",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730801966964",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730801966964.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

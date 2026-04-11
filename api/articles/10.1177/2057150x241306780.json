@@ -1,0 +1,30 @@
+{
+  "title": "Natural language processing for social science research: A comprehensive review",
+  "abstract": "Text data has been a longstanding pivotal source for social science research, providing an informative lens across disciplines including sociology, psychology, and political science. Its salient role in research, combined with the difficulty in numerically digesting unstructured data in natural languages, has been inspiring growing demands for natural language processing techniques to extract meaningful insights from vast text data. Breakthrough advances in natural language processing emerge with the recent expansion in data availability and computational resources, calling for an up-to-date comprehensive review for those methodologies and applications in social science research. This article reviews natural language processing techniques, detailing the procedure from representing unstructured text data to distilling semantic information, with expertise-based algorithms and unsupervised/supervised machine-learning methods. We then introduce their typical applications in producing research outcomes for sociology and political science. Keeping in mind challenges in data representativeness, interpretability, and biases, this review encourages utilizing natural language processing technique responsibly and effectively in social science research to improve quantitative understandings of emerging text data.",
+  "authors": [
+    {
+      "raw": "Hou, Yuxin",
+      "family": "Hou",
+      "given": "Yuxin"
+    },
+    {
+      "raw": "Huang, Junming",
+      "family": "Huang",
+      "given": "Junming"
+    }
+  ],
+  "authors_text": "Hou, Yuxin; Huang, Junming",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1177/2057150x241306780",
+  "doi_url": "https://doi.org/10.1177/2057150x241306780",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x241306780",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x241306780.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

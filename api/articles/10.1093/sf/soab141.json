@@ -1,0 +1,30 @@
+{
+  "title": "Racial and Class Inequality in US Incarceration in the Early Twenty-First Century",
+  "abstract": "The relative importance of racial and class inequality in incarceration in the United States has recently become the subject of much debate. In this paper, we seek to give this debate a stronger empirical foundation. First, we update previous research on racial and class inequality in people's likelihood of being imprisoned. Then, we examine racial and class inequality in people's risk of having a family member imprisoned or living in a high-imprisonment neighborhood. We find that racial inequality in prison admissions has fallen in the twenty-first century, while class inequality has surged. However, in recent years, Black people with high levels of education and income were more likely than white people with low levels of education and income to experience the imprisonment of a family member or to live in a neighborhood with a high imprisonment rate. These seemingly contradictory conclusions can be reconciled by the fact that enduring structures of racial domination have made class boundaries among Black people more permeable than they are among white people. Imprisonment in the United States is increasingly reserved for the poor. But because Black Americans are disproportionately connected to the poor through their families and neighborhoods, racial inequality exceeds class inequality in people's indirect experiences with imprisonment.",
+  "authors": [
+    {
+      "raw": "Muller, Christopher",
+      "family": "Muller",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Roehrkasse, Alexander F.",
+      "family": "Roehrkasse",
+      "given": "Alexander F."
+    }
+  ],
+  "authors_text": "Muller, Christopher; Roehrkasse, Alexander F.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab141",
+  "doi_url": "https://doi.org/10.1093/sf/soab141",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab141",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab141.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

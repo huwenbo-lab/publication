@@ -1,0 +1,25 @@
+{
+  "title": "Uncertainties in the composition of world population in the twenty-first century",
+  "abstract": "Past interest in long-range global population projections has been almost exclusively centered on future population size and, to some extent, on changes in the age structure. Uncertainties concerning future demographic dynamics are typically dealt with by preparing multiple projections, distinguished by differing fertility trajectories ranging from high to low. The usual assumption, that the constituting units of the global population-countries and regions-all follow the same variant projection (such as high or low), masks another potential uncertainty of future population dynamics: uncertainty in the composition of the global total by the relative sizes of its constituting units. Using a set of long-range population projections covering the period 2000-2100, this note explores plausible ranges of this uncertainty with reference to six constituting units of the global population.",
+  "authors": [
+    {
+      "raw": "Singer, M",
+      "family": "Singer",
+      "given": "M"
+    }
+  ],
+  "authors_text": "Singer, M",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2002,
+  "doi": "10.1111/j.1728-4457.2002.00539.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2002.00539.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2002.00539.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2002.00539.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

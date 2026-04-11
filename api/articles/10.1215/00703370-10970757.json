@@ -1,0 +1,40 @@
+{
+  "title": "Does Early Childhood BCG Vaccination Improve Survival to Midlife in a Population With a LowTuberculosis Prevalence? Quasi-experimental Evidence on Nonspecific Effects From 32 Swedish Birth Cohorts",
+  "abstract": "The Bacillus Calmette-Guerin (BCG) vac cine for tuber cu lo sis (TB) is widely used glob ally. Many high-income countries discontinued nation wide vac ci-na tion pol i cies starting in the 1980s as the TB prev a lence decreased. However, there is con tin ued sci en tific inter est in whether the gen eral child hood immu nity boost con- ferred by the BCG vac ci na tion impacts adult health and mor tal ity in low-TB con texts (known as non spe cific effects). While recent stud ies have found evi dence of an asso ci- a tion between BCG vac ci na tion and sur vival to ages 34-45, it is unclear whether these asso ci a tions are causal or driven by the unob served char ac ter is tics of those who chose to vol un tar ily vac ci nate. We use the abrupt dis con tin u a tion of man da tory BCG vac ci- na tion in Sweden in 1975 as a nat u ral exper i ment to esti mate the causal non spe cific effect of the BCG vac cine on cohort sur vival to mid life. Applying two com ple men tary study designs, we find no evi dence that sur vival to age 40 was affected by the dis con- tin u a tion of child hood BCG vac ci na tion. The results are con sis tent among both males and females and are robust to sev eral sen si tiv ity tests. Overall, despite prior cor re la-tional stud ies suggesting large non spe cific effects, we do not find any pop u la tion-level evi dence for a non spe cific effect of the BCG vac cine dis con tin u a tion on sur vival to age 40 in Sweden.",
+  "authors": [
+    {
+      "raw": "Theilmann, Michaela",
+      "family": "Theilmann",
+      "given": "Michaela"
+    },
+    {
+      "raw": "Geldsetzer, Pascal",
+      "family": "Geldsetzer",
+      "given": "Pascal"
+    },
+    {
+      "raw": "Baernighausen, Till",
+      "family": "Baernighausen",
+      "given": "Till"
+    },
+    {
+      "raw": "Sudharsanan, Nikkil",
+      "family": "Sudharsanan",
+      "given": "Nikkil"
+    }
+  ],
+  "authors_text": "Theilmann, Michaela; Geldsetzer, Pascal; Baernighausen, Till; Sudharsanan, Nikkil",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10970757",
+  "doi_url": "https://doi.org/10.1215/00703370-10970757",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10970757",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10970757.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

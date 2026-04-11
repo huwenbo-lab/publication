@@ -1,0 +1,30 @@
+{
+  "title": "Neighborhoods, Schools, and Academic Achievement: A Formal Mediation Analysis of Contextual Effects on Reading and Mathematics Abilities",
+  "abstract": "Although evidence indicates that neighborhoods affect educational outcomes, relatively little research has explored the mechanisms thought to mediate these effects. This study investigates whether school poverty mediates the effect of neighborhood context on academic achievement. Specifically, it uses longitudinal data from the Panel Study of Income Dynamics, counterfactual methods, and a value-added modeling strategy to estimate the total, natural direct, and natural indirect effects of exposure to an advantaged rather than disadvantaged neighborhood on reading and mathematics abilities during childhood and adolescence. Contrary to expectations, results indicate that school poverty is not a significant mediator of neighborhood effects during either developmental period. Although moving from a disadvantaged neighborhood to an advantaged neighborhood is estimated to substantially reduce subsequent exposure to school poverty and improve academic achievement, school poverty does not play an important mediating role because even the large differences in school composition linked to differences in neighborhood context appear to have no appreciable effect on achievement. An extensive battery of sensitivity analyses indicates that these results are highly robust to unobserved confounding, alternative model specifications, alternative measures of school context, and measurement error, which suggests that neighborhood effects on academic achievement are largely due to mediating factors unrelated to school poverty.",
+  "authors": [
+    {
+      "raw": "Wodtke, Geoffrey T.",
+      "family": "Wodtke",
+      "given": "Geoffrey T."
+    },
+    {
+      "raw": "Parbst, Matthew",
+      "family": "Parbst",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Wodtke, Geoffrey T.; Parbst, Matthew",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0603-1",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0603-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0603-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0603-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

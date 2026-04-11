@@ -1,0 +1,45 @@
+{
+  "title": "Return Migration Selection and Its Impact on the Migrant Mortality Advantage: New Evidence Using French Pension Data",
+  "abstract": "The migrant mor tal ity advan tage (MMA) has been observed in many immi grant-receiv ing countries, but its under ly ing fac tors remain poorly under stood. This arti cle exam ines the role of return migra tion selec tion effects in explaining the MMA among males aged 65+ using a rich, unique dataset from France. This dataset con tains infor ma tion on native-born and for eign-born pen sion ers who are tracked world wide until they die, pro vid ing a rare oppor tu nity to assess return migra tion selec tion effects and their impact on the MMA. Results pro vide evi dence of sub stan-tial and sys tem atic neg a tive return migra tion selec tion among for eign-born males in France. Old-age returns, in par tic u lar, appear par tic u larly affected by such selec-tion; how ever, they are not fre quent enough to explain the MMA at ages 65+. By con trast, returns at youn ger ages are much more fre quent, and the MMA at ages 65+ essen tially dis ap pears once these ear lier returns are con sid ered. This study extends the lit er a ture on neg a tive selec tion at return and its impact on the MMA by pro vid ing evi dence that such neg a tive selec tion may operate not only at older ages but through out the life course, with impacts on the MMA that are larger than previously suggested.",
+  "authors": [
+    {
+      "raw": "Guillot, Michel",
+      "family": "Guillot",
+      "given": "Michel"
+    },
+    {
+      "raw": "Khlat, Myriam",
+      "family": "Khlat",
+      "given": "Myriam"
+    },
+    {
+      "raw": "Gansey, Romeo",
+      "family": "Gansey",
+      "given": "Romeo"
+    },
+    {
+      "raw": "Solignac, Matthieu",
+      "family": "Solignac",
+      "given": "Matthieu"
+    },
+    {
+      "raw": "Elo, Irma",
+      "family": "Elo",
+      "given": "Irma"
+    }
+  ],
+  "authors_text": "Guillot, Michel; Khlat, Myriam; Gansey, Romeo; Solignac, Matthieu; Elo, Irma",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10938784",
+  "doi_url": "https://doi.org/10.1215/00703370-10938784",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10938784",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10938784.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

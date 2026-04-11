@@ -1,0 +1,35 @@
+{
+  "title": "Fighting Infectious Disease: Evidence from Sweden 1870-1940",
+  "abstract": "Even more than in developing countries today, public health strategies to fight infectious disease in the past focused on the prevention of new infections by stopping their spread. These strategies were motivated by new insights into the causes of disease and the modes of transmission in the mid-nineteenth century. By combining longitudinal individual-level data on 17,000 children in a rural/semi-urban region in southern Sweden with local community data on public health investments, we explore the effects of the establishment of isolation hospitals and improved midwifery on mortality before age 15. Using a difference-in-differences approach, we find that the establishment of isolation hospitals in the mid-1890s was successful in reducing child mortality, while increases in the number of qualified midwives after the 1900s led to a decrease in infant mortality. In both cases, rates fell by more than 50 percent.",
+  "authors": [
+    {
+      "raw": "Lazuka, Volha",
+      "family": "Lazuka",
+      "given": "Volha"
+    },
+    {
+      "raw": "Quaranta, Luciana",
+      "family": "Quaranta",
+      "given": "Luciana"
+    },
+    {
+      "raw": "Bengtsson, Tommy",
+      "family": "Bengtsson",
+      "given": "Tommy"
+    }
+  ],
+  "authors_text": "Lazuka, Volha; Quaranta, Luciana; Bengtsson, Tommy",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2016,
+  "doi": "10.1111/j.1728-4457.2016.00108.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2016.00108.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2016.00108.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2016.00108.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

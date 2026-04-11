@@ -1,0 +1,35 @@
+{
+  "title": "Bayesian estimation of hispanic fertility hazards from survey and population data*",
+  "abstract": "Abstract Previous studies have demonstrated both large gains in efficiency and reductions in bias by incorporating population information in regression estimation with sample survey data. These studies, however, assumed that the population values are exact. This assumption is relaxed here through a Bayesian extension of constrained maximum likelihood estimation applied to U.S. Hispanic fertility. The Bayesian approach allows for the use of both auxiliary survey data and expert judgment in making adjustments to published Hispanic Population fertility rates, and for the estimation of uncertainty about these adjustments. Compared with estimation from sample survey data only, the Bayesian constrained estimator results in much greater precision in the age pattern of the baseline fertility hazard and therefore of the predicted values for any given combination of socioeconomic variables. The use of population data in combination with survey data may therefore be highly advantageous even when the population data are known to have significant levels of nonsampling error.",
+  "authors": [
+    {
+      "raw": "Rendall, Michael S.",
+      "family": "Rendall",
+      "given": "Michael S."
+    },
+    {
+      "raw": "Handcock, Mark S.",
+      "family": "Handcock",
+      "given": "Mark S."
+    },
+    {
+      "raw": "Jonsson, Stefan H.",
+      "family": "Jonsson",
+      "given": "Stefan H."
+    }
+  ],
+  "authors_text": "Rendall, Michael S.; Handcock, Mark S.; Jonsson, Stefan H.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0041",
+  "doi_url": "https://doi.org/10.1353/dem.0.0041",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0041",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0041.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

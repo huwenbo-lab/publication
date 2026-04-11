@@ -1,0 +1,25 @@
+{
+  "title": "Fertility trends by social status",
+  "abstract": "This article discusses how fertility relates to social status with the use of a new dataset, several times larger than the ones used so far. The status-fertility relation is investigated over several centuries, across world regions and by the type of s",
+  "authors": [
+    {
+      "raw": "Skirbekk, Vegard",
+      "family": "Skirbekk",
+      "given": "Vegard"
+    }
+  ],
+  "authors_text": "Skirbekk, Vegard",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2008,
+  "doi": "10.4054/demres.2008.18.5",
+  "doi_url": "https://doi.org/10.4054/demres.2008.18.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2008.18.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2008.18.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

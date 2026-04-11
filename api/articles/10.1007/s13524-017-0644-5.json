@@ -1,0 +1,30 @@
+{
+  "title": "Is 60 the New 50? Examining Changes in Biological Age Over the Past Two Decades",
+  "abstract": "Increasing life expectancy has been interpreted as improving health of a population. However, mortality is not always a reliable proxy for the pace of aging and could instead reflect achievement in keeping ailing people alive. Using data from NHANES III (1988-1994) and NHANES IV (2007-2010), we examined how biological age, relative to chronological age, changed in the United States between 1988 and 2010, while estimating the contribution of changes in modifiable health behaviors. Results suggest that biological age is lower for more recent periods; however, the degree of improvement varied across age and sex groups. Overall, older adults experienced the greatest improvement or decreases in biological age. Males, especially those in the youngest and oldest groups, experienced greater declines in biological age than females. These differences were partially explained by age- and sex-specific changes in behaviors, such as smoking, obesity, and medication use. Slowing the pace of aging, along with increasing life expectancy, has important social and economic implications; thus, identifying modifiable risk factors that contribute to cohort differences in health and aging is essential.",
+  "authors": [
+    {
+      "raw": "Levine, Morgan E.",
+      "family": "Levine",
+      "given": "Morgan E."
+    },
+    {
+      "raw": "Crimmins, Eileen M.",
+      "family": "Crimmins",
+      "given": "Eileen M."
+    }
+  ],
+  "authors_text": "Levine, Morgan E.; Crimmins, Eileen M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-017-0644-5",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0644-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0644-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0644-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

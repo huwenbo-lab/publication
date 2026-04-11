@@ -1,0 +1,35 @@
+{
+  "title": "Public support for social security in 66 countries: Prosperity, inequality, and household income as interactive causes",
+  "abstract": "It is widely accepted that support for government intervention is highest among people in lower socioeconomic positions, during economic recessions and in less prosperous countries. However, the relationship between income inequality and attitudes toward government intervention is less clear. We contribute new insights to both questions by exploring how subjective household income, economic prosperity, and income inequality interact to influence attitudes. Using mixed-effects and country fixed-effects models fitted to data from 66 countries, we demonstrate that income inequality has a strong positive impact on attitudes toward government intervention in rich countries but no discernable effect in poor countries. Concomitantly, the impact of economic prosperity differs by level of inequality. It has little effect when income inequality is relatively low, a weakening effect as inequality rises, and no apparent effect when inequality is high. Consistent with these findings, the effect of subjective household income on attitudes toward government intervention is strongest in countries that are simultaneously very prosperous and highly unequal. Taken together, these findings suggest that if inequality continues to rise, especially in rich countries, public demand for social spending will eventually increase as well.",
+  "authors": [
+    {
+      "raw": "Andersen, Robert",
+      "family": "Andersen",
+      "given": "Robert"
+    },
+    {
+      "raw": "Curtis, Joshua",
+      "family": "Curtis",
+      "given": "Joshua"
+    },
+    {
+      "raw": "Brym, Robert",
+      "family": "Brym",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Andersen, Robert; Curtis, Joshua; Brym, Robert",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2021,
+  "doi": "10.1111/1468-4446.12842",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12842",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12842",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12842.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

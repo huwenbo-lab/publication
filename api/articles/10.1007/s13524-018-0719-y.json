@@ -1,0 +1,30 @@
+{
+  "title": "Beyond the Nuclear Family: Trends in Children Living in Shared Households",
+  "abstract": "Using data from the 1996-2008 panels of the Survey of Income and Program Participation and the 2009-2016 American Community Survey, we examine trends in U.S. children living in shared households (living with adults beyond their nuclear (parent/parent's partner/sibling) family). We find that although the share of children who lived in a shared household increased over this period, the rise was nearly entirely driven by an increase in three-generation/multigenerational households (coresident grandparent(s), parent(s), and child). In 1996, 5.7 % of children lived in a three-generation household; by 2016, 9.8 % did likewisemore than a 4 percentage point increase. More economically advantaged groups (older, more educated mothers, married households) experienced the largest percentage increase in three-generation coresidence, although correlates of coresidence remained largely stable. Decomposition analyses suggest that the rise in Social Security receipt and changes in parental relationship status (less marriage, more single parenthood) most strongly explained the increase in three-generation households. Given the dramatic rise in three-generation households, more research is needed to understand the consequences of these living arrangements for children, their parents, and their grandparents.",
+  "authors": [
+    {
+      "raw": "Pilkauskas, Natasha V.",
+      "family": "Pilkauskas",
+      "given": "Natasha V."
+    },
+    {
+      "raw": "Cross, Christina",
+      "family": "Cross",
+      "given": "Christina"
+    }
+  ],
+  "authors_text": "Pilkauskas, Natasha V.; Cross, Christina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0719-y",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0719-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0719-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0719-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Using sequence analysis to visualize exposure to pregnancy in the postpartum period",
+  "abstract": "BACKGROUND Exposure to pregnancy during the postpartum period is shaped by biological and behavioral determinants, such as resumption of sexual activity, return of menses, and contraceptive use dynamics. OBJECTIVE We implement sequence and cluster analyses to generate new insights about exposure to pregnancy during the postpartum period using unique longitudinal data in a low-resource setting. METHODS We used population-based data from a sample of 1,935 Ethiopian women who provided reports on factors influencing exposure to pregnancy in the year following childbirth. We used sequence and cluster analyses to characterize patterns of women's reproductive behaviors during the postpartum period. RESULTS We identified five postpartum trajectories of exposure to pregnancy: (1) no sex; (2) family-planning adopters, no menses; (3) family-planning adopters, return of menses; (4) sex, no menses, no family planning; and (5) sex, menses, no family planning. The 'sex, no menses, no family planning' cluster (50% of the sample) was characterized by resumption of sexual activity around three months postpartum, amenorrhea, and no contraceptive adoption. Women in the two 'family-planning adopters' clusters (39%) resumed sexual activity and adopted contraception around three months postpartum but differ by return of menses. The 'no sex' cluster (5%) was characterized by no sexual activity, contraceptive use, or menses. CONTRIBUTION Sequence analysis offers new insights into a critical reproductive window by emphasizing the dynamic biological and behavioral states that influence distinct patterns of postpartum exposure to pregnancy. Establishing longitudinal trajectories of exposure to pregnancy has research and programmatic implications that include a more holistic understanding of postpartum fecundity and measuring unmet need for postpartum family planning.",
+  "authors": [
+    {
+      "raw": "Sarnak, Dana",
+      "family": "Sarnak",
+      "given": "Dana"
+    },
+    {
+      "raw": "Zimmerman, Linnea",
+      "family": "Zimmerman",
+      "given": "Linnea"
+    },
+    {
+      "raw": "Huang, Wenxuan",
+      "family": "Huang",
+      "given": "Wenxuan"
+    },
+    {
+      "raw": "Gemmill, Alison",
+      "family": "Gemmill",
+      "given": "Alison"
+    }
+  ],
+  "authors_text": "Sarnak, Dana; Zimmerman, Linnea; Huang, Wenxuan; Gemmill, Alison",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.1",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Community Social Capital and Entrepreneurship",
+  "abstract": "The literature on social capital and entrepreneurship often explores individual benefits of social capital, such as the role of personal networks in promoting self-employment. In this article, we instead examine social capital's public good aspects, arguing that the benefits of social trust and organization memberships accrue not just to the individual but to the community at large. We test these arguments using individual data from the 2000 Census that have been merged with two community surveys, the Social Capital Benchmark Survey and the General Social Survey. We find that individuals in communities with high levels of social trust are more likely to be self-employed compared to individuals in communities with lower levels of social trust. Additionally, membership in organizations connected to the larger community is associated with higher levels of self-employment, but membership in isolated organizations that lack connections to the larger community is associated with lower levels of self-employment. Further analysis suggests that the entrepreneurship-enhancing effects of community social capital are stronger for whites, native-born residents, and long-term community members than for minorities, immigrants, and recent entrants.",
+  "authors": [
+    {
+      "raw": "Kwon, Seok-Woo",
+      "family": "Kwon",
+      "given": "Seok-Woo"
+    },
+    {
+      "raw": "Heflin, Colleen",
+      "family": "Heflin",
+      "given": "Colleen"
+    },
+    {
+      "raw": "Ruef, Martin",
+      "family": "Ruef",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Kwon, Seok-Woo; Heflin, Colleen; Ruef, Martin",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1177/0003122413506440",
+  "doi_url": "https://doi.org/10.1177/0003122413506440",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122413506440",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122413506440.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

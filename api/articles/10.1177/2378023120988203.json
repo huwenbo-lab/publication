@@ -1,0 +1,30 @@
+{
+  "title": "Online or in Person? Examining College Decisions to Reopen during the COVID-19 Pandemic in Fall 2020",
+  "abstract": "When coronavirus disease 2019 (COVID-19) became a major impediment to face-to-face college instruction in spring 2020, most teaching went online. Over the summer, colleges had to make difficult decisions about whether to return to in-person instruction. Although opening campuses could pose a major health risk, keeping instruction online could dissuade students from enrolling. Taking an ecological approach, the authors use mixed modeling techniques and data from 87 percent of two- and four-year public and four-year private U.S. colleges to assess the factors that shaped decisions about fall 2020 instructional modality. Most notably, the authors find that reopening decisions about whether to return to in-person instruction were unrelated to cumulative COVID-19 infection and mortality rates. Politics and budget concerns played the most important roles. Colleges that derived more of their revenue from tuition were more likely to return to classroom instruction, as were institutions in states and counties that supported Donald Trump for president in 2016.",
+  "authors": [
+    {
+      "raw": "Felson, Jacob",
+      "family": "Felson",
+      "given": "Jacob"
+    },
+    {
+      "raw": "Adamczyk, Amy",
+      "family": "Adamczyk",
+      "given": "Amy"
+    }
+  ],
+  "authors_text": "Felson, Jacob; Adamczyk, Amy",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/2378023120988203",
+  "doi_url": "https://doi.org/10.1177/2378023120988203",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120988203",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120988203.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

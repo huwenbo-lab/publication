@@ -1,0 +1,30 @@
+{
+  "title": "Technological innovation and inequality in health",
+  "abstract": "Abstract The effect of education on health has been increasing over the past several decades. We hypothesize that this increasing disparity is related to health-related technical progress: more-educated people are the first to take advantage of technological advances that improve health. We test this hypothesis using data on disease-specific mortality rates for 1980 and 1990, and cancer registry data for 1973–1993. We estimate education gradients in mortality using compulsory schooling as a measure of education. We then relate these gradients to two measures of health-related innovation: the number of active drug ingredients available to treat a disease, and the rate of change in mortality from that disease. We find that more-educated individuals have a greater survival advantage in those diseases for which there has been more health-related technological progress.",
+  "authors": [
+    {
+      "raw": "Glied, Sherry",
+      "family": "Glied",
+      "given": "Sherry"
+    },
+    {
+      "raw": "Lleras-Muney, Adriana",
+      "family": "Lleras-Muney",
+      "given": "Adriana"
+    }
+  ],
+  "authors_text": "Glied, Sherry; Lleras-Muney, Adriana",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0017",
+  "doi_url": "https://doi.org/10.1353/dem.0.0017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

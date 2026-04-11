@@ -1,0 +1,35 @@
+{
+  "title": "Estimating spatial inequalities of urban child mortality",
+  "abstract": "Results suggest the potential value of the Rajaratnam et al. method at the micro-spatial scale. Estimated rates indicate that there is variability in child mortality between zones, with a spread of up to 50 deaths per 1,000 births. Furthermore, there is evidence that child mortality is connected to environmental factors such as housing quality, slum-like conditions, and neighborhood levels of vegetation.",
+  "authors": [
+    {
+      "raw": "Jankowska, Marta",
+      "family": "Jankowska",
+      "given": "Marta"
+    },
+    {
+      "raw": "Benza, Magdalena",
+      "family": "Benza",
+      "given": "Magdalena"
+    },
+    {
+      "raw": "Weeks, John",
+      "family": "Weeks",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Jankowska, Marta; Benza, Magdalena; Weeks, John",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2013,
+  "doi": "10.4054/demres.2013.28.2",
+  "doi_url": "https://doi.org/10.4054/demres.2013.28.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2013.28.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2013.28.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

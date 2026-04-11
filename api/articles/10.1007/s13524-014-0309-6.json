@@ -1,0 +1,30 @@
+{
+  "title": "Is There a Trade-off Between Parent Care and Self-care?",
+  "abstract": "Abstract Caregiving for family members is often described as a 36-hour day. Previous literature has suggested that family caregivers have little time to attend to their own health needs, such as participating in leisure-time physical activity. Using data from the Health and Retirement Study, we analyze whether time-allocation decisions reflect a conflict between time devoted to informal care and time devoted to self-health promotion through physical activity. The empirical model is a system of four correlated equations, wherein the dependent variables are hours spent caregiving, frequency of moderate and vigorous physical activity, and hours spent in paid work. Results from joint estimation of the four equations indicate limited evidence of a competition between time spent in caregiving and frequency of physical activity. Parental factors that increase allocation of care time to parents do not comprehensively induce reductions in the frequency of any type of physical activity, or in hours of work, among either men or women.",
+  "authors": [
+    {
+      "raw": "Arora, Kanika",
+      "family": "Arora",
+      "given": "Kanika"
+    },
+    {
+      "raw": "Wolf, Douglas A.",
+      "family": "Wolf",
+      "given": "Douglas A."
+    }
+  ],
+  "authors_text": "Arora, Kanika; Wolf, Douglas A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0309-6",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0309-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0309-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0309-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

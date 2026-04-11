@@ -1,0 +1,30 @@
+{
+  "title": "Job creation, job destruction, and fertility in Germany",
+  "abstract": "BACKGROUND Labour market dynamics, such as job creation and job destruction, bear different associations with fertility. The relationship between job loss and fertility has been a core topic in family demography. However, little attention has been paid to examining how the expansion of some industries is associated with childbearing. OBJECTIVE This study investigates how job creation and job destruction are associated with regional- level total fertility rates in Germany. By including gender-specific job creation and destruction, it also aims to explore the drivers behind gender differences in the employment-fertility nexus. METHODS We use data from 400 NUTS 3 regions in Germany covering the period from 2008 to 2020. Spatial panel data modelling is used to examine the association between the creation and destruction of jobs and regional fertility rates. The approach allows us to identify both temporal and spatial processes associated with fertility. RESULTS We find a positive association between jobs created for female workers and regional fertility rates. Conversely, job destruction among male workers is negatively associated with regional fertility rates. Industry-level analyses suggest that particularly for women, the characteristics of the newly created jobs could matter for childbearing. CONTRIBUTION This study provides a nuanced picture of the association between job creation, job destruction, and fertility. In particular, our findings highlight gender differences in the relationship between dynamic labour market processes and childbearing. The relatively high degree of job creation, particularly in the female-dominated industries, might have contributed to the increase in fertility in Germany since 2009.",
+  "authors": [
+    {
+      "raw": "Luo, Chen",
+      "family": "Luo",
+      "given": "Chen"
+    },
+    {
+      "raw": "Jarosz, Ewa",
+      "family": "Jarosz",
+      "given": "Ewa"
+    }
+  ],
+  "authors_text": "Luo, Chen; Jarosz, Ewa",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.13",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

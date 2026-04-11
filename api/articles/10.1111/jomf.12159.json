@@ -1,0 +1,30 @@
+{
+  "title": "Marginal Structural Models: An Application to Incarceration and Marriage During Young Adulthood",
+  "abstract": "Advanced methods for panel data analysis are commonly used in research on family life and relationships, but the fundamental issue of simultaneous time-dependent confounding and mediation has received little attention. In this article the authors introduce inverse-probability-weighted estimation of marginal structural models, an approach to causal analysis that (unlike conventional regression modeling) appropriately adjusts for confounding variables on the causal pathway linking the treatment with the outcome. They discuss the need for marginal structural models in social science research and describe their estimation in detail. Substantively, the authors contribute to the ongoing debate on the effects of incarceration on marriage by applying a marginal structural model approach to panel data from the National Longitudinal Survey of Youth 1997 (N=4,781). In line with the increasing evidence on the collateral consequences of contact with the criminal justice system, the authors find that incarceration is associated with reduced chances of entering marriage.",
+  "authors": [
+    {
+      "raw": "Bacak, Valerio",
+      "family": "Bacak",
+      "given": "Valerio"
+    },
+    {
+      "raw": "Kennedy, Edward H.",
+      "family": "Kennedy",
+      "given": "Edward H."
+    }
+  ],
+  "authors_text": "Bacak, Valerio; Kennedy, Edward H.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12159",
+  "doi_url": "https://doi.org/10.1111/jomf.12159",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12159",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12159.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

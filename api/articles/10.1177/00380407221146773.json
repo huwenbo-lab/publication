@@ -1,0 +1,50 @@
+{
+  "title": "Global Determinants of Education Reform, 1960 to 2017",
+  "abstract": "Since post-World War II and especially throughout the 1990s, the globalization of a liberal international order propelled a wave of education reforms around the world. However, recent challenges to the legitimacy of the liberal order may undercut the prevalence of education reform across countries. To reveal how global changes are influencing education, we draw on a newly constructed data set of 6,696 education reforms in 147 countries from 1960 to 2017. Using dynamic negative binomial panel regression models, we find declining levels of reform in recent decades. We also find evidence of changing dynamics of influence among prominent organizational actors: World Bank lending is less associated with education reform over time, whereas the influence of international nongovernmental organizations has grown. This suggests a shifting system of governance, where formal coercive pressures become less palatable and the normative influences of civil society grow stronger. Overall, our findings indicate that education reform arises as a macro-global process as much as a response to local needs and conditions.",
+  "authors": [
+    {
+      "raw": "Bromley, Patricia",
+      "family": "Bromley",
+      "given": "Patricia"
+    },
+    {
+      "raw": "Furuta, Jared",
+      "family": "Furuta",
+      "given": "Jared"
+    },
+    {
+      "raw": "Kijima, Rie",
+      "family": "Kijima",
+      "given": "Rie"
+    },
+    {
+      "raw": "Overbey, Lisa",
+      "family": "Overbey",
+      "given": "Lisa"
+    },
+    {
+      "raw": "Choi, Minju",
+      "family": "Choi",
+      "given": "Minju"
+    },
+    {
+      "raw": "Santos, Heitor",
+      "family": "Santos",
+      "given": "Heitor"
+    }
+  ],
+  "authors_text": "Bromley, Patricia; Furuta, Jared; Kijima, Rie; Overbey, Lisa; Choi, Minju; Santos, Heitor",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2023,
+  "doi": "10.1177/00380407221146773",
+  "doi_url": "https://doi.org/10.1177/00380407221146773",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380407221146773",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380407221146773.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

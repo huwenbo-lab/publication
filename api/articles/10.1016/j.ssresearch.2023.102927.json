@@ -1,0 +1,35 @@
+{
+  "title": "Do moral intuitions influence judges' sentencing decisions? A multilevel study of criminal court sentencing in Pennsylvania",
+  "abstract": "The influence of judges' personal moral values on their sentencing decisions is of longstanding interest to researchers and the public. Few studies, however, have examined this influence empirically. Using a unique data set that combines a survey of 81 criminal court judges with archival data on their 40,385 criminal sentences over a 2-year period, and drawing on Moral Foundations Theory, we hypothesize that judges with strong care and fairness intuitions will sentence defendants less severely while judges with strong loyalty, authority, and sanctity intuitions will sentence defendants more severely. We further hypothesize that these effects will be heightened when the defendant is from a racial minority group. Results show that sentencing outcomes are largely independent of judges' moral intuitions, except that fairness intuitions tend to increase leniency, especially when the defendant is Black, and sanctity intuitions tend to decrease leniency. Implications for future research on sentencing are discussed.",
+  "authors": [
+    {
+      "raw": "Silver, Eric",
+      "family": "Silver",
+      "given": "Eric"
+    },
+    {
+      "raw": "Ulmer, Jeffery T.",
+      "family": "Ulmer",
+      "given": "Jeffery T."
+    },
+    {
+      "raw": "Silver, Jason R.",
+      "family": "Silver",
+      "given": "Jason R."
+    }
+  ],
+  "authors_text": "Silver, Eric; Ulmer, Jeffery T.; Silver, Jason R.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102927",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102927",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102927",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102927.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

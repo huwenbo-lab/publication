@@ -1,0 +1,30 @@
+{
+  "title": "Reexamining China's fertility puzzle: Data collection and quality over the last two decades",
+  "abstract": "China's fertility level has become a matter of considerable debate since the early 1990s. Despite the widespread concern over data quality, a review of the literature reveals little systematic examination of how fertility data are collected, what specific problems they pose, and how they have been used in demographic research. This article examines five major fertility data sources and identifies problems in producing and using fertility data and discusses their implications. issues relating to China's controversial 2000 census results and the reported low fertility are examined. The analysis concludes that the prevalent uncertainty about fertility levels may not only be related to the problem of data quality, but could also arise from misinterpreting fertility data and exaggerating the problem of undercounting.",
+  "authors": [
+    {
+      "raw": "Zhang, Guangyu",
+      "family": "Zhang",
+      "given": "Guangyu"
+    },
+    {
+      "raw": "Zhao, Zhongwei",
+      "family": "Zhao",
+      "given": "Zhongwei"
+    }
+  ],
+  "authors_text": "Zhang, Guangyu; Zhao, Zhongwei",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2006,
+  "doi": "10.1111/j.1728-4457.2006.00119.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2006.00119.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2006.00119.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2006.00119.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Growing or declining penalties? A cross-temporal analysis of unemployment scars in the German labor market",
+  "abstract": "We know that unemployment leaves scars. Unemployment scars are the penalties in terms of employment outcomes that workers experience due to past unemployment. To date we lack a long-term longitudinal account which examines how unemployment scarring has developed over time. The aim of this article is to fill this gap. We draw on longitudinal data from the German Socio-Economic Panel spanning a period of more than 30 years, from 1985 to 2020, and investigate long-term time trends of unemployment scarring. The German labor market has experienced profound structural and institutional change over the past decades. These changes have been associated with increased inequalities in the labor market. We examine whether the substantial transformation of the German labor market also had repercussions for the extent of postunemployment penalties. We focus on employment probabilities and wages, and consider both short-term (two years after the unemployment incidence) and mid-term outcomes (four years after the unemployment incidence). Changes in the amount of unemployment scarring over time can also occur due to changes in the composition of the unemployed. Our analyses therefore do not only investigate how macro -economic and institutional change are associated with varying amounts of unemployment scarring, but also control for and examine the role of compositional change.",
+  "authors": [
+    {
+      "raw": "Dieckhoff, Martina",
+      "family": "Dieckhoff",
+      "given": "Martina"
+    },
+    {
+      "raw": "Giesecke, Johannes",
+      "family": "Giesecke",
+      "given": "Johannes"
+    }
+  ],
+  "authors_text": "Dieckhoff, Martina; Giesecke, Johannes",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2023.102960",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102960",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102960",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102960.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

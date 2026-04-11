@@ -1,0 +1,30 @@
+{
+  "title": "Predictive Algorithms and Perceptions of Fairness: Parent Attitudes Toward Algorithmic Resource Allocation in K-12 Education",
+  "abstract": "As institutions increasingly use predictive algorithms to allocate scarce resources, scholars have warned that these algorithms may legitimize inequality. Although research has examined how elite discourses position algorithms as fair, we know less about how the public perceives them compared to traditional allocation methods. We implement a vignette-based survey experiment to measure perceptions of algorithmic allocation relative to common alternatives: administrative rules, lotteries, petitions from potential beneficiaries, and professional judgment. Focusing on the case of schools allocating scarce tutoring resources, our nationally representative survey of U.S. parents finds that parents view algorithms as fairer than traditional alternatives, especially lotteries. However, significant divides emerge along socioeconomic and political lines—lower socioeconomic status (SES) and conservative parents favor the personal knowledge held by counselors and parents, whereas higher SES and liberal parents prefer the impersonal logic of algorithms. We also find that, after reading about algorithmic bias, parental opposition to algorithms is strongest among those who are most directly disadvantaged. Overall, our findings map cleavages in attitudes that may influence the adoption and political sustainability of algorithmic allocation methods.",
+  "authors": [
+    {
+      "raw": "Johnson, Rebecca",
+      "family": "Johnson",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Zhang, Simone",
+      "family": "Zhang",
+      "given": "Simone"
+    }
+  ],
+  "authors_text": "Johnson, Rebecca; Zhang, Simone",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a15",
+  "doi_url": "https://doi.org/10.15195/v12.a15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

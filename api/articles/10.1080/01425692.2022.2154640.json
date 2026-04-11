@@ -1,0 +1,25 @@
+{
+  "title": "Schools' priority rules and ethnic school segregation",
+  "abstract": "Although previous studies have investigated the contribution of several components of the school choice paradigm to school segregation, one critical aspect has not received attention from segregation scholars: schools' priority rules, that is, the rules schools apply in case of oversubscription. We evaluate how three priority rules - grade-based, distance-based, and random-based - shape school segregation. Using Swedish register data on students' applications to upper secondary education in Stockholm, Sweden, we assess the effect of these priority rules from two counterfactual frameworks. One uses actual students' rank-ordered lists, and the other relies on a large-scale simulation framework. We show that grade-based and distance-based priorities produce higher levels of segregation than random-based priorities through different mechanisms. Our results hold, even when we control for students' school preferences and residential segregation.",
+  "authors": [
+    {
+      "raw": "Tapia, Eduardo",
+      "family": "Tapia",
+      "given": "Eduardo"
+    }
+  ],
+  "authors_text": "Tapia, Eduardo",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2023,
+  "doi": "10.1080/01425692.2022.2154640",
+  "doi_url": "https://doi.org/10.1080/01425692.2022.2154640",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2022.2154640",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2022.2154640.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

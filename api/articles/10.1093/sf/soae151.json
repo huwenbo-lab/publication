@@ -1,0 +1,35 @@
+{
+  "title": "Intergenerational family life courses and wealth accumulation in Norway",
+  "abstract": "While prior research has widely acknowledged the consequences of specific family transitions (e.g., parental death, parenthood, grandparenthood) for individual wealth holdings, the interplay of multiple family transitions and positions occurring at different life stages and in various orderings has received little attention. This is despite the fact that these transitions and positions most likely jointly shape wealth accumulation, both in the shorter and longer run. We apply (1) sequence analysis to identify typical family life course clusters defined by the timing of the death of the parent generation, the timing of the transition into parenthood, and grandparenthood and (2) regression analysis to describe how the accumulation of wealth between ages 40 and 64 differs by family life course cluster. Using Norwegian register data of individuals born in 1953 (N = 47,945), we identified six clusters of family trajectories ranging from childless individuals to individuals who were sandwiched between their parents, children, and grandchildren because of relatively early (grand)parenthood and late parental death. Individuals experiencing patterns with a later transition into (grand)parenthood occupied stable and high wealth positions over time. Individuals without children exhibited a steady increase in their wealth position. Additionally, experiencing parental death later in life was associated with increasing wealth, whereas early parental death was not. These results held net of gender and education. Pronounced and even increasing wealth differences over the life course seem to be associated with the interplay of multiple family transitions.",
+  "authors": [
+    {
+      "raw": "Huenteler, Bettina",
+      "family": "Huenteler",
+      "given": "Bettina"
+    },
+    {
+      "raw": "Nutz, Theresa",
+      "family": "Nutz",
+      "given": "Theresa"
+    },
+    {
+      "raw": "Worn, Jonathan",
+      "family": "Worn",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Huenteler, Bettina; Nutz, Theresa; Worn, Jonathan",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soae151",
+  "doi_url": "https://doi.org/10.1093/sf/soae151",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae151",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae151.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

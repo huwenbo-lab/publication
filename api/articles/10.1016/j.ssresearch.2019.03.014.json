@@ -1,0 +1,30 @@
+{
+  "title": "Does college education make people politically liberal?: Evidence from a natural experiment in South Korea",
+  "abstract": "Our study examines the impact of college education on individuals' ideological orientations (identifying as politically liberal or conservative) using a massive expansion of opportunities to attend college known as the graduation quota program in South Korea. A 1979 military coup in South Korea mandated that all public and private colleges expand their college admission quotas by thirty percent in 1981 and fifty percent in 1982. As an ideal natural experiment for our study, the mandatory increases in college enrollment happened quickly and exogenously in a short timeframe. We use the birth cohorts that were exposed to this abrupt policy change as an instrumental variable (IV) to identify the long-term effects of college education on political preferences. We find that the enrollment expansion caused those individuals who were induced to attend college by the graduation quota program to be more politically liberal.",
+  "authors": [
+    {
+      "raw": "Jung, Haeil",
+      "family": "Jung",
+      "given": "Haeil"
+    },
+    {
+      "raw": "Gil, Jung-ah",
+      "family": "Gil",
+      "given": "Jung-ah"
+    }
+  ],
+  "authors_text": "Jung, Haeil; Gil, Jung-ah",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.03.014",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.03.014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.03.014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.03.014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

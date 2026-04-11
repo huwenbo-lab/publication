@@ -1,0 +1,30 @@
+{
+  "title": "Assessing the quality of education reporting in Brazilian censuses",
+  "abstract": "BACKGROUND In developing countries, improving access to schooling has been and remains a priority. At the same time, a growing body of research relates education to demographic variables. It is therefore essential to measure the educational variable accurately. In Brazil, although the high degree of inaccuracy in age reporting is known, previous research has neglected that problems of misreporting may affect other variables such as education. OBJECTIVE To fill this gap, we calculate mortality levels by education as implied by intercensal survivorship ratios to investigate the quality of self-reported education among adults in Brazil between the 1991 and 2000 censuses. RESULTS Our findings show evidence of inaccurate educational data in the censuses. Analysis by single year of schooling weakly reflects the known educational gradient in mortality. After categorization of age and years of schooling into groups, a positive relationship between education and survival does appear, although some implausible patterns remain. CONTRIBUTION This study is an important step in demonstrating and assessing potential errors in census education data in Brazil. We highlight the importance of efforts to improve the quality of data on education, particularly in countries where an educational expansion is underway and where deficiencies in data quality are a potential issue of concern.",
+  "authors": [
+    {
+      "raw": "Nepomuceno, Marilia R.",
+      "family": "Nepomuceno",
+      "given": "Marilia R."
+    },
+    {
+      "raw": "Turra, Cassio M.",
+      "family": "Turra",
+      "given": "Cassio M."
+    }
+  ],
+  "authors_text": "Nepomuceno, Marilia R.; Turra, Cassio M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.15",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

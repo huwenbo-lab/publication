@@ -1,0 +1,25 @@
+{
+  "title": "Single Parenthood and Children’s Reading Performance in Asia",
+  "abstract": "Using the data from Program for International Student Assessment, I examine the gap in reading performance between 15‐year‐old students in single‐parent and intact families in 5 Asian countries in comparison to the United States. The ordinary least square regression analyses show negligible disadvantages of students with a single parent in Hong Kong and Korea, once students’ demographic characteristics and socioeconomic background are held constant. Students in single‐parent families in Indonesia and Thailand outperform their peers in intact families. The negative effect of single parenthood remains significant in Japan, even after parent‐child communication is controlled. Interpreting the weak effect of single parenthood in the Asian countries, I consider extended family systems and the relatively high proportion of widowhood among causes of single parenthood.",
+  "authors": [
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    }
+  ],
+  "authors_text": "Park, Hyunjoon",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2007,
+  "doi": "10.1111/j.1741-3737.2007.00410.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2007.00410.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2007.00410.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2007.00410.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

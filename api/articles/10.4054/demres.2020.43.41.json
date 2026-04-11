@@ -1,0 +1,35 @@
+{
+  "title": "Family changes and residential mobility among immigrant and native-born populations: Evidence from Swiss administrative data",
+  "abstract": "BACKGROUND Much of the literature on immigrant relocation has focused on human and social capital and has often ignored the role of life-course events as triggers of internal migration and residential mobility. We know that family transitions are closely tied to residential relocation, but the extent to which they might explain differential mobility patterns among immigrant and native-born populations is still largely unknown. OBJECTIVE/METHODS Using Swiss administrative registers and a nationally representative survey, we apply discrete-time logistic models to assess whether residential mobility responses to family changes differ between immigrant and native-born populations. We highlight various patterns of housing adjustment at times of childbirth, marriage (among cohabiting and non-cohabiting partners), and divorce. We also investigate the factors accounting for the differences between foreign- and native-born groups. RESULTS/CONTRIBUTIONS The results suggest that residential mobility increases at times of childbirth, marriage, and divorce for both native- and foreign-born populations living in Switzerland. The results also suggest that the timing and intensity of residential changes in response to (or in anticipation of) family transitions differ across groups according to their birthplace. Compared to native-born residents, immigrants prove to be more residentially mobile at the time of marriage, owing to specific pre-marital cohabitation behaviours, but less residentially mobile at the time of childbirth, an event inherently linked to housing improvement. Household income was identified as an important mitigating factor within the joint processes of family changes and residential mobility. We argue that linking residential mobility to life-course events and statuses can serve as an alternative, dynamic marker of residential integration, preferences, and housing disadvantage among immigrant populations.",
+  "authors": [
+    {
+      "raw": "Lacroix, Julie",
+      "family": "Lacroix",
+      "given": "Julie"
+    },
+    {
+      "raw": "Gagnon, Alain",
+      "family": "Gagnon",
+      "given": "Alain"
+    },
+    {
+      "raw": "Wanner, Philippe",
+      "family": "Wanner",
+      "given": "Philippe"
+    }
+  ],
+  "authors_text": "Lacroix, Julie; Gagnon, Alain; Wanner, Philippe",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.41",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

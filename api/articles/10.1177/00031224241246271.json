@@ -1,0 +1,30 @@
+{
+  "title": "Feature-Based Structures of Opportunity: Genre Innovation in the American Popular Music Industry, 1958 to 2016",
+  "abstract": "We offer a new perspective on how cultural markets are structured and the conditions under which innovations are more likely to emerge. We argue that in addition to organization- and producer-level factors, product features-the locus of marketplace interaction between producers and consumers-also structure markets. The aggregated distribution of product features helps producers gauge where to differentiate or conform and when consumers may be more receptive to the kind of novelty that spawns new genres, our measure of innovation. We test our arguments with a unique dataset comprising the nearly 25,000 songs that appeared on the Billboard Hot 100 chart from 1958 to 2016, using computational methods to capture and analyze the aesthetic (sonic) and semantic (lyrical) features of each song and, consequently, the market for popular music. Results reveal that new genres are more likely to appear following markets that can be characterized as diverse along one feature dimension while homogenous along the other. We then connect specific configurations of feature distributions to subsequent song novelty before linking the aesthetic and semantic novelty of individual songs to genre emergence. We replicate our findings using industry-wide data and conclude with implications for the study of markets and innovation.",
+  "authors": [
+    {
+      "raw": "Kim, Khwan",
+      "family": "Kim",
+      "given": "Khwan"
+    },
+    {
+      "raw": "Askin, Noah",
+      "family": "Askin",
+      "given": "Noah"
+    }
+  ],
+  "authors_text": "Kim, Khwan; Askin, Noah",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1177/00031224241246271",
+  "doi_url": "https://doi.org/10.1177/00031224241246271",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224241246271",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224241246271.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

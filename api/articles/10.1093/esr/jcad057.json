@@ -1,0 +1,30 @@
+{
+  "title": "Material deprivation and the Brexit referendum: a spatial multilevel analysis of the interplay between individual and regional deprivation",
+  "abstract": "In this study, we investigate the relationship between individual and neighbourhood deprivation and the decision to vote for Brexit in the 2016 referendum. Our analysis uses data from the UK Household Longitudinal Study and the English Index of Multiple Deprivation, and employs multilevel models to account for individual-level deprivation, neighbourhood deprivation, and larger-scale regional deprivation. We also examine the interaction between these scales. On average, we find that individual, neighbourhood, and wider area deprivation are associated with a higher likelihood of voting Leave. However, the effect of neighbourhood deprivation is heterogeneous and depends on the broader spatial context: living in deprived neighbourhoods (and to a lesser extent experiencing personal deprivation) has a stronger effect on voting behaviour in more affluent regions. Conversely, the effect of individual and neighbourhood deprivation is close to zero and statistically insignificant in more deprived areas of the country. These results suggest that social comparison processes of in-groups and out-groups operate within larger regional contexts. Our study thus highlights the role of individual and regional deprivation, but also their intersection, in shaping political attitudes and outcomes.",
+  "authors": [
+    {
+      "raw": "Haussmann, Charlotte",
+      "family": "Haussmann",
+      "given": "Charlotte"
+    },
+    {
+      "raw": "Ruettenauer, Tobias",
+      "family": "Ruettenauer",
+      "given": "Tobias"
+    }
+  ],
+  "authors_text": "Haussmann, Charlotte; Ruettenauer, Tobias",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad057",
+  "doi_url": "https://doi.org/10.1093/esr/jcad057",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad057",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad057.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

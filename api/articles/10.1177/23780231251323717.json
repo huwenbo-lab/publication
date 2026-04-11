@@ -1,0 +1,35 @@
+{
+  "title": "Racial Identification Switching and Health among Mothers in California",
+  "abstract": "Although prior studies indicate that approximately 6 percent of the population will engage in racial identification switching (RIS), no prior research has explored the potential relation between RIS and health outcomes. Using the California birth cohort file from 2005 to 2015, the authors examine RIS among mothers identifying as non-Hispanic (NH) white or NH Black and with at least two live births over the test period ( n = 449,008). Using a sibling-control design, the authors compared perinatal health and sociodemographic characteristics of mothers with RIS over time against those without RIS. The authors also conducted logistic regression analyses predicting maternal race at the second birth after controlling for characteristics of the second birth. In sibling-control univariate results, mothers who switched from NH white to NH Black over time were more likely to deliver a low-weight infant, use public programs (e.g., Medicaid), and have less than a high school education relative to NH white mothers who did not change racial identity over time. Logistic regression results further indicate several socioeconomic (e.g., Medicaid) and health (e.g., low birth weight) factors related to RIS. The pattern of results indicate that health disparity research should carefully consider racial identity as a fluid construct which often varies with socioeconomic and health status.",
+  "authors": [
+    {
+      "raw": "Bustos, Brenda",
+      "family": "Bustos",
+      "given": "Brenda"
+    },
+    {
+      "raw": "Bonham, Jason",
+      "family": "Bonham",
+      "given": "Jason"
+    },
+    {
+      "raw": "Bruckner, Tim A.",
+      "family": "Bruckner",
+      "given": "Tim A."
+    }
+  ],
+  "authors_text": "Bustos, Brenda; Bonham, Jason; Bruckner, Tim A.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251323717",
+  "doi_url": "https://doi.org/10.1177/23780231251323717",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251323717",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251323717.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

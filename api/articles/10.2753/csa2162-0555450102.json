@@ -1,0 +1,25 @@
+{
+  "title": "Do Networks Pay Off Among Internal Migrants in China? An Instrumental Variable Analysis",
+  "abstract": "Rural-to-urban migrants in China return home frequently within a year. This pattern of return implies the pivotal role of the village-level outflow of migrants in determining their job outcomes at the destination. Using data from twenty-two provinces in China, this paper assesses whether a migrant's wage is positively influenced by the number of fellow villagers who migrated to urban areas. Heckman's two-stage method is used to correct for sample selection. Natural disaster in the village of origin is used as an instrumental variable to deal with other endogeneity biases. The results presented here verify significant effects of origin-based networks, and show that network effects are underestimated without taking the endogeneity into account.",
+  "authors": [
+    {
+      "raw": "Chen, Yunsong",
+      "family": "Chen",
+      "given": "Yunsong"
+    }
+  ],
+  "authors_text": "Chen, Yunsong",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2012,
+  "doi": "10.2753/csa2162-0555450102",
+  "doi_url": "https://doi.org/10.2753/csa2162-0555450102",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2753%2Fcsa2162-0555450102",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2753/csa2162-0555450102.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

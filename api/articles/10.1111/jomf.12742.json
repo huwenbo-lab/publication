@@ -1,0 +1,35 @@
+{
+  "title": "Net Worth Poverty in Child Households by Race and Ethnicity, 1989-2019",
+  "abstract": "Objective This study is the first to examine net worth poverty, and its intersection with income poverty, by race and ethnicity among child households in the United States. Background Scholarship on economic scarcity for children has largely concentrated on income deficits and thus leaves open important questions about wealth deficits. Method Data come from the 1989-2019 waves of the Survey of Consumer Finances, on households with at least one resident child under the age of 18. Net worth poverty is measured as household net worth, defined as total assets minus total debts, that is less than one-fourth of the federal poverty line. Results In 2019, 57% of Black and 50% of Latino child households were net worth poor. The majority of these households were not income poor. Racial and ethnic differences in net worth poverty (unlike those for income poverty) persist even when sociodemographic variation predicting income poverty is controlled for. Conclusion Net worth poverty is so prevalent in the lives of non-White children that, after sociodemographic characteristics are controlled for, Black and Latino child households have about the same probability of not being poor as they do of being net worth poor. Implications A focus on income deprivation alone will overlook the precarious economic conditions related to family net worth and ignore growing disparities by race and ethnicity.",
+  "authors": [
+    {
+      "raw": "Gibson-Davis, Christina",
+      "family": "Gibson-Davis",
+      "given": "Christina"
+    },
+    {
+      "raw": "Keister, Lisa A.",
+      "family": "Keister",
+      "given": "Lisa A."
+    },
+    {
+      "raw": "Gennetian, Lisa A.",
+      "family": "Gennetian",
+      "given": "Lisa A."
+    }
+  ],
+  "authors_text": "Gibson-Davis, Christina; Keister, Lisa A.; Gennetian, Lisa A.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12742",
+  "doi_url": "https://doi.org/10.1111/jomf.12742",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12742",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12742.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Cumulative Effect of Retirement on Mortality",
+  "abstract": "Prior research on the mortality effects of retirement has rarely been infor mative in the sense of finding a statistically significant effect. However, this does not necessarily indicate the absence of a mortality effect of retirement. While earlier studies assumed an instantaneous change in mortality risk upon retirement, the mor tality effect of retirement may cumulatively evolve upon retirement. Using the Health and Retirement Study and fuzzy regression discontinuity and kink designs, I estimate mortality effects of retirement and retirement duration. Consistent with prior work, I find no evidence for a sudden jump in mortality risk at retirement. By contrast, I find that each additional year of retirement duration increases mortality risk by 0.9 percentage points, suggesting growing inequalities in mortality risk between retirees and counterfactual nonretirees. The positive, cumulative mortality effect of retirement at the Social Security eligibility age has important implications for an increase in the eligibility age, population health, and welfare programs to support older people in the United States.",
+  "authors": [
+    {
+      "raw": "Furuya, Shiro",
+      "family": "Furuya",
+      "given": "Shiro"
+    }
+  ],
+  "authors_text": "Furuya, Shiro",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-12246732",
+  "doi_url": "https://doi.org/10.1215/00703370-12246732",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12246732",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12246732.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

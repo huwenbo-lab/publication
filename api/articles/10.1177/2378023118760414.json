@@ -1,0 +1,30 @@
+{
+  "title": "Using Google Trends to Measure Issue Salience for Hard-to-Survey Populations",
+  "abstract": "Some populations are difficult to survey. This poses a problem for researchers who want to understand what issues matter to these populations and how the salience of those concerns varies over time. In this visualization article, the authors illustrate how Google Trends can be used to examine issue salience for hard-to-survey mass populations. Applying this method to immigrant concerns over deportation, the authors show that anxieties over removal increased in response to (potential) policy changes, such as Arizona’s Support Our Law Enforcement and Safe Neighborhoods Act (Senate Bill 1070) and the immigration policies that were considered in the wake of Donald Trump’s election.",
+  "authors": [
+    {
+      "raw": "Chykina, Volha",
+      "family": "Chykina",
+      "given": "Volha"
+    },
+    {
+      "raw": "Crabtree, Charles",
+      "family": "Crabtree",
+      "given": "Charles"
+    }
+  ],
+  "authors_text": "Chykina, Volha; Crabtree, Charles",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118760414",
+  "doi_url": "https://doi.org/10.1177/2378023118760414",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118760414",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118760414.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

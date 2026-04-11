@@ -1,0 +1,25 @@
+{
+  "title": "Gender Inequality in Lifetime Earnings",
+  "abstract": "Although vast, most research on gender earnings gaps uses cross-sectional data for year-round full-time workers; therefore, little is known about the dynamics of gender inequality in lifetime earnings. To address this lacuna, this article analyzes data from the Panel Study of Income Dynamics from 1968 to 2017, to investigate the extent, trends and explanations of gender inequality in lifetime earnings both within and across five birth cohorts born between 1930 and 1979. I find that the lifetime gap sharply declined until the 1960s birth cohort, with little change thereafter. Unpacking trends throughout the lifecycle shows that this stalled gender convergence is driven by increasing gender earnings inequality throughout the prime working years of those born in the 1960s and 1970s. Decomposition of the lifetime earnings gap further reveals that gender differences in the number of hours worked throughout one's working life is a more important factor for younger rather than older generations-despite gender convergence in lifetime labor force attachment across cohorts. On the other hand, gender inequality in stop-outs during early career has become a less relevant factor in explaining earnings differences for younger generations. These findings draw attention to the value of examining gender inequality as a cumulative long-term process.",
+  "authors": [
+    {
+      "raw": "de Castro Galvao, Juliana",
+      "family": "de Castro Galvao",
+      "given": "Juliana"
+    }
+  ],
+  "authors_text": "de Castro Galvao, Juliana",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac060",
+  "doi_url": "https://doi.org/10.1093/sf/soac060",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac060",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac060.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The structure of disadvantage: Individual and occupational determinants of the black-white wage gap",
+  "abstract": "This study is, motivated by the idea that the racial gap in earnings is generated not only by individual differences but also by systematic variation in the occupational structure that attenuates or exacerbates the effects of race. Using data from the 1990 census and the Dictionary of Occupational Titles, a hierarchical linear modeling approach is employed that allows the simultaneous exploration of the mechanisms of income inequality operating both within and between occupations. Among private-sector employees, striking evidence shows that racial disparities increase in both absolute and percentage terms as one moves up the occupational earnings hierarchy. The association between average occupational earnings and within-occupation racial disadvantage reveals an overlooked source of racial earnings inequality which constrains the opportunities available to upwardly mobile black men in the private sector This association cannot be explained by measured individual characteristics, or by the status, demographic composition, or skill demands of occupations. In: the public sector on the other hand, racial inequality in earnings is not systematically associated with average occupational earnings, and is instead more closely tied to individual human capital and occupational placement. The implications of these results are considered and directions for future research are suggested.",
+  "authors": [
+    {
+      "raw": "Grodsky, E",
+      "family": "Grodsky",
+      "given": "E"
+    },
+    {
+      "raw": "Pager, D",
+      "family": "Pager",
+      "given": "D"
+    }
+  ],
+  "authors_text": "Grodsky, E; Pager, D",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2001,
+  "doi": "10.2307/3088922",
+  "doi_url": "https://doi.org/10.2307/3088922",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088922",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088922.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

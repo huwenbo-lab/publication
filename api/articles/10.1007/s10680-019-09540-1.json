@@ -1,0 +1,35 @@
+{
+  "title": "Naturalisation and Immigrant Earnings: Why and to Whom Citizenship Matters",
+  "abstract": "Abstract The notion that naturalisation matters for the economic integration of immigrants is well established in the literature, but why and to whom that is, remains surprisingly ambiguous. The citizenship premium is traditionally assumed to result from increased labour market access and positive signalling towards employers, but these mechanisms fail to explain increased earnings derived from paid employment, which has been the predominant focus in most studies. We argue that naturalisation needs to be understood in the context of the life course, as immigrants anticipate rewards and opportunities of citizenship acquisition by investing in their human capital development. Insofar as naturalisation subsequently leads to higher earnings, we expect that the citizenship premium mostly reflects better employment opportunities rather than access to better paying jobs. To test these assumptions, we use high-quality register data from Statistics Netherlands, covering the period 1999–2011. These data contain almost all registered foreign-born individuals in The Netherlands (N = 74,531) and allow us to track immigrant cohorts over time. Results show that naturalisation confers a one-time boost in earnings after naturalisation, but particularly for migrants from economically less developed countries and unemployed migrants. Furthermore, earnings develop faster leading up to naturalisation than afterwards, consistent with the notion of anticipation. The relevance of citizenship for employed immigrants in part results from an increase in working hours, but is not explained by variation in labour market sectors. We conclude that citizenship matters in terms of earnings from labour, but that its impact is not universal and manifests predominantly leading up to naturalisation.",
+  "authors": [
+    {
+      "raw": "Peters, Floris",
+      "family": "Peters",
+      "given": "Floris"
+    },
+    {
+      "raw": "Schmeets, Hans",
+      "family": "Schmeets",
+      "given": "Hans"
+    },
+    {
+      "raw": "Vink, Maarten",
+      "family": "Vink",
+      "given": "Maarten"
+    }
+  ],
+  "authors_text": "Peters, Floris; Schmeets, Hans; Vink, Maarten",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2019,
+  "doi": "10.1007/s10680-019-09540-1",
+  "doi_url": "https://doi.org/10.1007/s10680-019-09540-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-019-09540-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-019-09540-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

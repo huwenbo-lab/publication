@@ -1,0 +1,40 @@
+{
+  "title": "Psychiatric Labels and Status: Exploring Variations by Gender, Diagnosis, and Participant Attributes",
+  "abstract": "Many studies suggest that people discriminate against individuals with a mental illness. Despite these generally robust patterns, however, variability in the results from laboratory experiments examining competence-based discrimination leaves questions about the specific diagnoses that elicit the discrimination and gender differences in the discriminatory behavior. Therefore, we revisit this question with a design aimed at clarifying some of the ambiguities. We examine the effects of two diagnoses (schizophrenia and depression) and a nonpsychiatric health problem (the need for leg surgery). As with other laboratory studies, we examine if and how a teammate’s psychiatric diagnosis affects participants’ willingness to accept the teammate’s problem-solving suggestions in a two-person task group. But we go beyond the previous studies by crossing the teammate gender with participant gender and by exploring the robustness in our results by examining the moderating role of numerous participant attributes (e.g., education, social desirability, parents’ education, age, political liberalism, three gender ideology scales, trust in others). We find that participants discriminate against teammates with both types of psychiatric diagnoses but not against teammates with the nonpsychiatric health problem and that this pattern is highly robust: The processes are almost entirely unrelated to teammate gender and participant attributes, including participant gender. Together, these results suggest that both schizophrenia and depression elicit competence-based discrimination, that these processes differ very little by participants’ demographic and attitudinal attributes, and that the status beliefs underlying this discrimination may be fairly uniform.",
+  "authors": [
+    {
+      "raw": "Kroska, Amy",
+      "family": "Kroska",
+      "given": "Amy"
+    },
+    {
+      "raw": "Harkness, Sarah K.",
+      "family": "Harkness",
+      "given": "Sarah K."
+    },
+    {
+      "raw": "Mattingly, Kelsey N.",
+      "family": "Mattingly",
+      "given": "Kelsey N."
+    },
+    {
+      "raw": "Lovera, Mollie A.",
+      "family": "Lovera",
+      "given": "Mollie A."
+    }
+  ],
+  "authors_text": "Kroska, Amy; Harkness, Sarah K.; Mattingly, Kelsey N.; Lovera, Mollie A.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241286678",
+  "doi_url": "https://doi.org/10.1177/23780231241286678",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241286678",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241286678.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Are conservatives more charitable than liberals in the US? A meta-analysis of political ideology and charitable giving",
+  "abstract": "Political ideology not only influences political activities, but also apolitical fields such as charitable giving. However, empirical studies regarding political ideology and charitable giving have yielded mixed results. To find out the effect size and explain the variation in effect sizes, we deploy a meta-analysis to estimate the average effect size and examine the potential moderators from four perspectives. Following scientific data collection and coding procedures, we identify 421 effect sizes from 31 empirical studies. Our meta-analysis results suggest that political conservatives are significantly more charitable than liberals at an overall level, but the relationship between political ideology and charitable giving varies under different scenarios. Furthermore, meta-regression results indicate that the measure of charitable giving, the type of charitable giving, and controlling for religiosity can account for the variation in effect sizes.",
+  "authors": [
+    {
+      "raw": "Yang, Yongzheng",
+      "family": "Yang",
+      "given": "Yongzheng"
+    },
+    {
+      "raw": "Liu, Peixu",
+      "family": "Liu",
+      "given": "Peixu"
+    }
+  ],
+  "authors_text": "Yang, Yongzheng; Liu, Peixu",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102598",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102598",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102598",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102598.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

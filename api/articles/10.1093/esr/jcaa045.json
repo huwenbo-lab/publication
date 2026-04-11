@@ -1,0 +1,30 @@
+{
+  "title": "The Link between Relative Pay and Job Satisfaction Revisited",
+  "abstract": "This paper investigates the connection between job satisfaction and comparison pay (defined as a person's rank within a reference group) with SOEP Data. Based on work values and social networks, we argue that the existing literature neglects heterogeneities in individual job satisfaction as well as wage trajectories along the career path. Thus, previous studies based on survey data likely overestimate the connection between job satisfaction and comparison pay. We use fixed-effects individual slopes models to account for heterogeneous time trends between individuals. We find no statistically significant correlation between comparison pay and job satisfaction. We conclude that previous estimates were biased by not accounting for idiosyncratic trends in job satisfaction due to unobserved heterogeneity, which led to an omitted variable bias.",
+  "authors": [
+    {
+      "raw": "Collischon, Matthias",
+      "family": "Collischon",
+      "given": "Matthias"
+    },
+    {
+      "raw": "Eberl, Andreas",
+      "family": "Eberl",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Collischon, Matthias; Eberl, Andreas",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa045",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

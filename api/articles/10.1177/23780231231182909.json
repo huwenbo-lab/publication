@@ -1,0 +1,25 @@
+{
+  "title": "Preaching to Social Media: Turkey’s Friday Khutbas and Their Effects on Twitter",
+  "abstract": "The author analyzes through unsupervised machine learning the content of all Friday khutbas (sermons) read to millions of citizens in thousands of mosques in Turkey between 2015 and 2021. The author focuses on six nonreligious and recurrent topics that feature in the sermons, namely, business, family, nationalism, health, trust, and patience. The author demonstrates that the content of the sermons responds strongly to events of national and political importance. The author then links the Friday sermons with about 4.8 million tweets on these topics. The author finds generally strong associations between the topics of the sermons and of the subsequent tweets, controlling for the tweets posted before the sermons. There is also heterogeneity by topic. The link between sermons and tweets is strongest for nationalism, patience, and health and weakest for business. Overall, these results suggest that religious institutions in Turkey are influential in shaping the public’s social media content on salient issues. More generally, these results show that mass offline religious activity can have strong effects on online social media behavior.",
+  "authors": [
+    {
+      "raw": "Aksoy, Ozan",
+      "family": "Aksoy",
+      "given": "Ozan"
+    }
+  ],
+  "authors_text": "Aksoy, Ozan",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231182909",
+  "doi_url": "https://doi.org/10.1177/23780231231182909",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231182909",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231182909.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

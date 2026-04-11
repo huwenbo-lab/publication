@@ -1,0 +1,30 @@
+{
+  "title": "A behaviorally-based approach to measuring inequality",
+  "abstract": "The measurement of inequality is often made using observed population-based distributions, such as the distribution of income or the distribution of members of different groups across neighborhoods. Unfortunately, such distributions confound the behavior of a given year with earlier events that influence the composition of the population. Here, we advocate measuring inequality using current behavioral measures and their compositional implications, and show how such measures may be obtained from frequently available data. The approach is then applied to trends in inequality between men and women in the distribution of ages at death. Observed death distributions indicate that, since 1970, mortality in 4 Western countries experienced increases in inequality that recently leveled off. In contrast, life table death distributions, which solely reflect the implications of a given year's mortality rates, reveal a peak in inequality followed (in 3 of the 4 countries) by appreciable declines. The results are insensitive to whether inequality is measured by entropy, the Gini Index, or the Index of Dissimilarity. However, the type of distribution analyzed---whether observed or behaviorally derived---can make a significant difference in the results obtained. Because behaviorally derived distributions reflect the inequality implications of actual behavior, they are recommended for greater use in analyses of inequality.",
+  "authors": [
+    {
+      "raw": "Schoen, Robert",
+      "family": "Schoen",
+      "given": "Robert"
+    },
+    {
+      "raw": "Nau, Claudia",
+      "family": "Nau",
+      "given": "Claudia"
+    }
+  ],
+  "authors_text": "Schoen, Robert; Nau, Claudia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2008,
+  "doi": "10.4054/demres.2008.19.49",
+  "doi_url": "https://doi.org/10.4054/demres.2008.19.49",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2008.19.49",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2008.19.49.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

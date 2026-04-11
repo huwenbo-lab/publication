@@ -1,0 +1,35 @@
+{
+  "title": "Changes in migration determinants along the urban hierarchy in China",
+  "abstract": "This paper examines trends of internal migration in China across two decades, with a focus on changes in socio-demographic predictors of origin-destination patterns. We use four microdata samples of the China decennial census and minicensus. After introducing a description of overall internal migration trends and providing a discussion of the utility of the urban hierarchy framework, we proceed with a two-step statistical approach. We look first descriptively at interprovincial bilateral migration flows. We then turn to a multivariate analysis of outmigration and destination selection as a function of age, sex, educational attainment and hukou status. Our results reveal the differential attractiveness of origins (for retention) and destinations by demographic characteristics and position within the urban hierarchy, and also indicate shifts in the strength of predictors over time. Greater educational attainment and urban hukou strongly favour the selection of a destination within the top levels of the urban hierarchy. Over time, selectivity by gender weakens. Although urban hukou and schooling become slightly less powerful predictors of interprovincial migration, attractiveness of top-tier destinations increases once individual demographic characteristics are controlled.",
+  "authors": [
+    {
+      "raw": "White, Michael",
+      "family": "White",
+      "given": "Michael"
+    },
+    {
+      "raw": "Sun, Liangliang",
+      "family": "Sun",
+      "given": "Liangliang"
+    },
+    {
+      "raw": "Jiang, Leiwen",
+      "family": "Jiang",
+      "given": "Leiwen"
+    }
+  ],
+  "authors_text": "White, Michael; Sun, Liangliang; Jiang, Leiwen",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2023,
+  "doi": "10.1080/17441730.2023.2167259",
+  "doi_url": "https://doi.org/10.1080/17441730.2023.2167259",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2023.2167259",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2023.2167259.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

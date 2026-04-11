@@ -1,0 +1,30 @@
+{
+  "title": "Family Background, Educational Qualifications, and Labour Market Attainment: Evidence from Danish Siblings",
+  "abstract": "Previous studies on how family background affects labour market outcomes among offspring with similar formal educational qualifications are limited either by the way in which they measure family background or by the detail level by which they measure educational attainment. To address these limitations, we develop a comprehensive approach based on sibling similarities in labour market outcomes. Applying the approach to high-quality register data on all Danes born 1965-1971, we examine the direct effect--other than through extremely granular education measures--of all combined effects of family background on occupational status and wages. Our analyses show that fine-grained education measures account for more than 90 per cent of the total family background effect on occupational status, while for wages they account for merely three-quarters. Half of the direct effect on wages can be explained by sibling similarities in occupational attainment, suggesting that direct family background effects on wages operate equally within and between occupations. However, observed family background characteristics account only for a minor portion of the direct effect on wages, pointing to that family-based advantages in the labour Danish market result from largely unidentified family characteristics. We discuss different mechanisms that may account for this pattern of results.",
+  "authors": [
+    {
+      "raw": "Karlson, Kristian Bernt",
+      "family": "Karlson",
+      "given": "Kristian Bernt"
+    },
+    {
+      "raw": "Birkelund, Jesper Fels",
+      "family": "Birkelund",
+      "given": "Jesper Fels"
+    }
+  ],
+  "authors_text": "Karlson, Kristian Bernt; Birkelund, Jesper Fels",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcac031",
+  "doi_url": "https://doi.org/10.1093/esr/jcac031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Social competition and the contingent legitimation of pay differentials in reform-era China",
+  "abstract": "This study extends recent research on the social determinants of the preferences for distributive disparities. We drew on a recent survey of more than 58,000 participants from 335 large cities in mainland China and measured pay differentials with a vignette experiment about allocating bonuses between two secretaries of different performance levels. Our ordinal regression models adjust for city-level random effects and exploit variation in early-age exposure to the incentives for educational competition across 840 admission district-by-cohort sample groups. Our results show that a higher incentive for long-term educational competition is associated with higher levels of legitimate pay differentials among all groups except the highest-status group, thereby narrowing the status gap. A stronger competitive intensity apparently fosters system justification among the majority lower-status groups but ostensibly does not affect legitimation among the top-status group. This heterogeneity in the effect is (a) unconfounded by personal income rank, provincial gross domestic product, local wealth inequality, and opportunity for college enrollment; and (b) robust to alternative measures of incentives for competition, subdivisions of status groups, nonparametric causal inference, and weighting for sample representativeness.",
+  "authors": [
+    {
+      "raw": "Chen, Jacqueline Chen",
+      "family": "Chen",
+      "given": "Jacqueline Chen"
+    },
+    {
+      "raw": "Jiang, Jin",
+      "family": "Jiang",
+      "given": "Jin"
+    },
+    {
+      "raw": "Tam, Tony",
+      "family": "Tam",
+      "given": "Tony"
+    }
+  ],
+  "authors_text": "Chen, Jacqueline Chen; Jiang, Jin; Tam, Tony",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1080/21620555.2022.2109013",
+  "doi_url": "https://doi.org/10.1080/21620555.2022.2109013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2022.2109013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2022.2109013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

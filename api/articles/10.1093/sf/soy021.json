@@ -1,0 +1,40 @@
+{
+  "title": "A Relational Inequality Approach to First- and Second-Generation Immigrant Earnings in German Workplaces",
+  "abstract": "We conceptualize immigrant incorporation as a categorically driven process and contrast the bright distinctions between first-generation immigrants and natives, with more blurry second-generation contrasts. We analyze linked employer-employee data of a sample of 5,097 employees in 97 large German organizations and focus on first- and second-generation immigrants. We explore how generational status in the labor market and workplace contexts expands and contracts native-immigrant wage inequalities. We find a substantial average first-generation immigrant-native wage gap, which is not explained by individual human capital differences or most aspects of organizational context. In contrast, there is, on average, no second-generation wage gap, but there are substantial variations across workplaces. A series of results confirm predictions from relational inequality theory. For both first- and second-generation immigrants, working in a high-inequality workplace is associated with larger wage gaps. Second-generation immigrants perform better in workplaces where they have intersectional advantages over natives, and for first-generation immigrants collective bargaining protection narrows wage gaps with natives. Consistent with ethnic competition theory, in workplaces with very high shares of immigrant workers, the first-generation-native wage gap is larger. In contrast, increased contact between native Germans and second-generation immigrant coworkers reduces earnings gaps, but only up to a tipping point, after which competition processes reappear and earning gaps widen.",
+  "authors": [
+    {
+      "raw": "Melzer, Silvia Maja",
+      "family": "Melzer",
+      "given": "Silvia Maja"
+    },
+    {
+      "raw": "Tomaskovic-Devey, Donald",
+      "family": "Tomaskovic-Devey",
+      "given": "Donald"
+    },
+    {
+      "raw": "Schunck, Reinhard",
+      "family": "Schunck",
+      "given": "Reinhard"
+    },
+    {
+      "raw": "Jacobebbinghaus, Peter",
+      "family": "Jacobebbinghaus",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Melzer, Silvia Maja; Tomaskovic-Devey, Donald; Schunck, Reinhard; Jacobebbinghaus, Peter",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy021",
+  "doi_url": "https://doi.org/10.1093/sf/soy021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

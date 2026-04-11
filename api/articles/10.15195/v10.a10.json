@@ -1,0 +1,30 @@
+{
+  "title": "Marginal Odds Ratios: What They Are, How to Compute Them, and Why Sociologists Might Want to Use Them",
+  "abstract": "As sociologists are increasingly turning away from using odds ratios, reporting average marginal effects is becoming more popular. We aim to restore the use of odds ratios in sociological research by introducing marginal odds ratios. Unlike conventional odds ratios, marginal odds ratios are not affected by omitted covariates in arbitrary ways. Marginal odds ratios thus behave like average marginal effects but retain the relative effect interpretation of the odds ratio. We argue that marginal odds ratios are well suited for much sociological inquiry and should be reported as a complement to the reporting of average marginal effects. We define marginal odds ratios in terms of potential outcomes, show their close relationship to average marginal effects, and discuss their potential advantages over conventional odds ratios. We also briefly discuss how to estimate marginal odds ratios and present examples comparing marginal odds ratios with conventional odds ratios and average marginal effects.",
+  "authors": [
+    {
+      "raw": "Karlson, Kristian",
+      "family": "Karlson",
+      "given": "Kristian"
+    },
+    {
+      "raw": "Jann, Ben",
+      "family": "Jann",
+      "given": "Ben"
+    }
+  ],
+  "authors_text": "Karlson, Kristian; Jann, Ben",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a10",
+  "doi_url": "https://doi.org/10.15195/v10.a10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

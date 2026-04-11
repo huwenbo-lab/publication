@@ -1,0 +1,25 @@
+{
+  "title": "Non-Standard Employment and Partnership Dissolution: A Comparison of Nonmarital Cohabitations and Marriages",
+  "abstract": "This paper investigates the link between non-standard employment (NSE) and the risk of partnership dissolution, applying event history analysis to data from the German Socio-Economic Panel (SOEP) and the Household, Income and Labour Dynamics in Australia (HILDA) Survey for the period 2001-2016. It moves beyond previous studies by (a) considering a broader range of employment types, including fixed-term and casual contracts, temporary agency work and part-time work, and (b) by comparing the effect of NSE in nonmarital cohabitations and marriages. The results show that the effect differs by employment type, gender and partnership type. For example, among women, part-time work is associated with a decreased dissolution risk compared to full-time work in marriages but not in cohabitations. Temporary employment is linked to increased dissolution risks compared to permanent employment in both partnership types, with the association partly being stronger for casual and/or agency work than for fixed-term contracts.",
+  "authors": [
+    {
+      "raw": "Lass, Inga",
+      "family": "Lass",
+      "given": "Inga"
+    }
+  ],
+  "authors_text": "Lass, Inga",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x221107452",
+  "doi_url": "https://doi.org/10.1177/0192513x221107452",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x221107452",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x221107452.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "A Quantitative Assessment of the Rush Hour of Life in Austria, Italy and Slovenia",
+  "abstract": "This article builds on time use data to explore cross-country differences between Austria, Italy and Slovenia in unpaid labour and its implications in terms of gender distribution of total work. A contribution of this paper is to measure the 'rush hour of life' (RHOL) based on age spans in which individuals' working time (including paid and unpaid work) exceeds their free time. In total, men and women work similar hours in Austria, whereas Italy and Slovenia show a gender gap with women working an average of approximately 50 min more per day during prime working ages. The different compositions and loads of total work are reflected in cross-country variations of the length and intensity of the RHOL, with Slovenian women reporting, on average, the larger squeeze of time. However, breadwinner arrangements differ considerably among the three countries, which can affect the amounts of work and free time available for men and even more so for women. Therefore, we further extend our analysis by developing a regression model to quantitatively assess the association between couples' working arrangements and levels of the RHOL indicator for men and women. Results indicate a dual burden for women in dual-earner couples, squeezing out their free time. By contrast, women in male-breadwinner arrangements report the lowest amounts of total work. Breadwinner models show no significant relation to male levels of work and free time, with the main exception of Italy where men face higher RHOL in full-time employed couples.",
+  "authors": [
+    {
+      "raw": "Zannella, Marina",
+      "family": "Zannella",
+      "given": "Marina"
+    },
+    {
+      "raw": "Hammer, Bernhard",
+      "family": "Hammer",
+      "given": "Bernhard"
+    },
+    {
+      "raw": "Prskawetz, Alexia",
+      "family": "Prskawetz",
+      "given": "Alexia"
+    },
+    {
+      "raw": "Sambt, Jože",
+      "family": "Sambt",
+      "given": "Jože"
+    }
+  ],
+  "authors_text": "Zannella, Marina; Hammer, Bernhard; Prskawetz, Alexia; Sambt, Jože",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9502-4",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9502-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9502-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9502-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

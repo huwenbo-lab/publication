@@ -1,0 +1,35 @@
+{
+  "title": "Death distribution methods for estimating adult mortality",
+  "abstract": "TThe General Growth Balance (GGB) and Synthetic Extinct Generations (SEG) methods have been widely used to evaluate the coverage of registered deaths in developing countries. However, relatively little is known about how the methods behave in the pres",
+  "authors": [
+    {
+      "raw": "Hill, Kenneth",
+      "family": "Hill",
+      "given": "Kenneth"
+    },
+    {
+      "raw": "You, Danzhen",
+      "family": "You",
+      "given": "Danzhen"
+    },
+    {
+      "raw": "Choi, Yoonjoung",
+      "family": "Choi",
+      "given": "Yoonjoung"
+    }
+  ],
+  "authors_text": "Hill, Kenneth; You, Danzhen; Choi, Yoonjoung",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2009,
+  "doi": "10.4054/demres.2009.21.9",
+  "doi_url": "https://doi.org/10.4054/demres.2009.21.9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2009.21.9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2009.21.9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

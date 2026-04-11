@@ -1,0 +1,25 @@
+{
+  "title": "Taking the lab to the field: Monitoring reproductive hormones in population research",
+  "abstract": "The incorporation of biological measures in social science research allows for the development of robust models, with greater explanatory power. By analyzing the underlying proximate causes of fertility and mortality, biodemographers have been able to model demographic patterns more accurately. Recent technological advances are making possible the analysis of biological samples collected using minimally invasive methods. Methods and techniques are discussed that can be used for estimating hormonal, particularly reproductive hormone, levels in large-scale population studies in which thousands of samples could be collected. Sample collection methods and techniques reviewed include blood spots, urine samples, and saliva samples. The collection of biological samples is associated with serious ethical concerns. The article discusses the issue of asymmetries in technology between developing and developed countries, emphasizing the need for capacity building and information transfer. Illustrative contributions of biological data are presented.",
+  "authors": [
+    {
+      "raw": "Valeggia, Claudia R.",
+      "family": "Valeggia",
+      "given": "Claudia R."
+    }
+  ],
+  "authors_text": "Valeggia, Claudia R.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2007,
+  "doi": "10.1111/j.1728-4457.2007.00183.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2007.00183.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2007.00183.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2007.00183.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

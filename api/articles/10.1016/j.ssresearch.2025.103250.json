@@ -1,0 +1,45 @@
+{
+  "title": "Arbitrage equilibrium in scale-and venue-mediated socioeconomic segregation: A behavioral microeconomics framework",
+  "abstract": "Contrary to the widely believed hypothesis that larger, denser cities promote socioeconomic mixing, a recent study reports the opposite behavior, i.e. more segregation. We present a behavioral microeconomics framework that predicts such segregation in multiclass systems. In our framework, every agent tries to maximize its effective utility, a measure of its socioeconomic benefit-cost trade-offs, by making choices about where to live and socialize. Our effective utility model incorporates well-known behavioral elements, such as homophily, congestion costs, venue option benefit, competition costs, and exploration vs. exploitation strategies. We prove that a population of such socioeconomic agents will reach an arbitrage equilibrium under certain general conditions. We derive the mathematical conditions that lead to social segregation. Our theory presents a micro-to-macro mathematical framework that connects individual preferences to neighborhood-level outcomes. Our key insight is that socioeconomic segregation mechanisms operate differently at different population densities. In low-density environments, agents accept more socioeconomic diversity due to reduced homophily benefits. In high-density environments, the abundance of people and choices enables finer-grained sorting by socioeconomic traits. Furthermore, the arbitrage equilibrium outcome implies the equality of effective utilities among all agents. This intriguing result could be interpreted as all agents being equally happy in their respective environments, despite segregation, in our ideal society. This captures the essence of Rawlsian distributive justice and fairness. Our theory contributes towards a deeper philosophical and mathematical understanding of socioeconomic dynamics and behavior as we strive to create more harmonious societies.",
+  "authors": [
+    {
+      "raw": "Venkatasubramanian, Venkat",
+      "family": "Venkatasubramanian",
+      "given": "Venkat"
+    },
+    {
+      "raw": "Shi, Jessica",
+      "family": "Shi",
+      "given": "Jessica"
+    },
+    {
+      "raw": "Goldman, Leo",
+      "family": "Goldman",
+      "given": "Leo"
+    },
+    {
+      "raw": "Sankar, E. M. Arun",
+      "family": "Sankar",
+      "given": "E. M. Arun"
+    },
+    {
+      "raw": "Sivaram, Abhishek",
+      "family": "Sivaram",
+      "given": "Abhishek"
+    }
+  ],
+  "authors_text": "Venkatasubramanian, Venkat; Shi, Jessica; Goldman, Leo; Sankar, E. M. Arun; Sivaram, Abhishek",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103250",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103250",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103250",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103250.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

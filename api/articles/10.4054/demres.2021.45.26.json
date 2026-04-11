@@ -1,0 +1,25 @@
+{
+  "title": "The growth of education differentials in marital dissolution in the United States",
+  "abstract": "BACKGROUND Recent data suggest that overall divorce rates in the United States have been declining since the 1980s, while research examining marriages formed prior to 2004 suggests that divorce rates historically have not declined equally across the socioeconomic spectrum. Understanding recent differentials by education helps explore growing inequality over time given the well-documented negative consequences of divorce for women. OBJECTIVE This study examines marital dissolution and divorce rates in the new millennium to understand trends by marital cohort and educational attainment. METHODS To understand recent trends in marital stability, this study uses the 2006-2019 National Survey of Family Growth female dataset to assess the likelihood of marital dissolution and divorce by the 5th and 10th anniversary. Life tables and discrete-time event-history analyses are used to measure marital dissolution over time and by educational attainment while controlling for risk factors that may explain differentials. RESULTS Overall marital dissolution and divorce rates are declining over time. However, this downward trend is driven by those with higher education; those with the least education are seeing rising marital dissolution rates, even when controlling for correlated risk factors. The greater divide when examining marital dissolution as compared to formal divorce also illustrates the lower propensity of the least educated to formalize their dissolution. CONTRIBUTION Overall dissolution trends hide important - and growing - differentials by educational attainment. Declines in dissolution are not equally distributed across social classes; those women who are most vulnerable to divorce are least likely to be able to recover from its negative consequences.",
+  "authors": [
+    {
+      "raw": "McErlean, Kim",
+      "family": "McErlean",
+      "given": "Kim"
+    }
+  ],
+  "authors_text": "McErlean, Kim",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.26",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

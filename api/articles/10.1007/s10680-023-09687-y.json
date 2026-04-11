@@ -1,0 +1,30 @@
+{
+  "title": "Does Abortion Liberalisation Accelerate Fertility Decline? A Worldwide Time-Series Analysis",
+  "abstract": "AbstractSince WWII, the two most important global trends in family planning have been fertility decline and abortion liberalisation. But are they related? Specifically: Does abortion liberalisation affect changes in fertility rates? The demographic literature has yet to answer this important question and instead offers two opposing predictions. Some studies argue that liberalisation of this medical procedure reduces fertility rates. By contrast, others note that such legal reforms may merely have an average, negligible effect on fertility levels. We adjudicate between the two approaches by conducting, in our view, the most comprehensive global, quantitative analysis of the relationship between those legal reforms and changing fertility rates. The analysis relies on two-way fixed models and three different indicators of abortion policy liberalism created by independent research teams to estimate the relationship between abortion liberalisation and total fertility changes. The data cover 185 independent states between 1970 and 2019. Fertility rates are significantly related to average public education levels and alternative contraceptive use. Using multiple model specifications, however, abortion reforms do not have a robust association with the outcome. Replication materials for this article can be found at https://figshare.com/s/5336a4422f47c8c39228.",
+  "authors": [
+    {
+      "raw": "Fernández, Juan J.",
+      "family": "Fernández",
+      "given": "Juan J."
+    },
+    {
+      "raw": "Juif, Dácil",
+      "family": "Juif",
+      "given": "Dácil"
+    }
+  ],
+  "authors_text": "Fernández, Juan J.; Juif, Dácil",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2023,
+  "doi": "10.1007/s10680-023-09687-y",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09687-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09687-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09687-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

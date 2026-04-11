@@ -1,0 +1,35 @@
+{
+  "title": "Birds of a feather, or friend of a friend? using exponential random graph models to investigate adolescent social networks",
+  "abstract": "AbstractIn this article, we use newly developed statistical methods to examine the generative processes that give rise to widespread patterns in friendship networks. The methods incorporate both traditional demographic measures on individuals (age, sex, and race) and network measures for structural processes operating on individual, dyadic, and triadic levels. We apply the methods to adolescent friendship networks in 59 U.S. schools from the National Longitudinal Survey of Adolescent Health (Add Health). We model friendship formation as a selection process constrained by individuals’ sociality (propensity to make friends), selective mixing in dyads (friendships within race, grade, or sex categories are differentially likely relative to cross-category friendships), and closure in triads (a friend’s friends are more likely to become friends), given local population composition. Blacks are generally the most cohesive racial category, although when whites are in the minority, they display stronger selective mixing than do blacks when blacks are in the minority. Hispanics exhibit disassortative selective mixing under certain circumstances; in other cases, they exhibit assortative mixing but lack the higher-order cohesion common in other groups. Grade levels are always highly cohesive, while females form triangles more than males. We conclude with a discussion of how network analysis may contribute to our understanding of sociodemographic structure and the processes that create it.",
+  "authors": [
+    {
+      "raw": "Goodreau, Steven M.",
+      "family": "Goodreau",
+      "given": "Steven M."
+    },
+    {
+      "raw": "Kitts, James A.",
+      "family": "Kitts",
+      "given": "James A."
+    },
+    {
+      "raw": "Morris, Martina",
+      "family": "Morris",
+      "given": "Martina"
+    }
+  ],
+  "authors_text": "Goodreau, Steven M.; Kitts, James A.; Morris, Martina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0045",
+  "doi_url": "https://doi.org/10.1353/dem.0.0045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

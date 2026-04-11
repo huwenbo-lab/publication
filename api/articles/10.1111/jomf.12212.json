@@ -1,0 +1,25 @@
+{
+  "title": "The Great Recession, Fertility, and Uncertainty: Evidence From the United States",
+  "abstract": "The Great Recession produced the highest rates of unemployment and foreclosure in the United States since the Great Depression. In this article the author examines the consequences of these poor economic conditions for fertility in the United States by estimating the effect of area-level economic conditions on state fertility in the years leading up to and including the Great Recession. The economic impacts of the Great Recession, captured by state-level economic conditions, had a strong negative effect on fertility in models with state and year fixed effects. These reductions in fertility were likely caused both by increased economic hardship and increased economic uncertainty.",
+  "authors": [
+    {
+      "raw": "Schneider, Daniel",
+      "family": "Schneider",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Schneider, Daniel",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12212",
+  "doi_url": "https://doi.org/10.1111/jomf.12212",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12212",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12212.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

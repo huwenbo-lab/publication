@@ -1,0 +1,30 @@
+{
+  "title": "Intergenerational Support and Later Life Health: Associations by Role, Type and Direction of Support",
+  "abstract": "Objective This study aims to examine the health consequences of intergenerational support, distinguishing between providers and receivers (role), financial and practical support (type), and upward and downward support (direction).Background Intergenerational support is an important pillar for coping with some of the challenges of aging societies. However, its health implications may differ across health outcomes, for providers and receivers, as well as the resources being transferred.Method We draw on six waves from the Survey of Health, Aging, and Retirement in Europe (SHARE), collected 2004-2017, and focus on respondents aged 60 or older whose youngest child was aged 25-60. Respondents may be both children and parents. Using fixed effects modeling, we analyze the association between the provision and receipt of intergenerational support and changes in five subjective and objective measures of physical and mental health (grip strength, chronic conditions, self-rated health, depression, and quality of life).Results Both providing and receiving support are associated with decreases in health. Providing support is associated with more chronic conditions and lower mental health and well-being. Practical and upward support to parents mostly accounts for these findings. Receiving practical support in particular is associated with health declines, specifically if received upwardly.Conclusion Our study suggests that extensive reliance on informal support arrangements may come with longer-term health costs. This may undermine the potential for intergenerational solidarity needed to cope with individual and societal crises.",
+  "authors": [
+    {
+      "raw": "Bertogg, Ariane",
+      "family": "Bertogg",
+      "given": "Ariane"
+    },
+    {
+      "raw": "Manzoni, Anna",
+      "family": "Manzoni",
+      "given": "Anna"
+    }
+  ],
+  "authors_text": "Bertogg, Ariane; Manzoni, Anna",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70049",
+  "doi_url": "https://doi.org/10.1111/jomf.70049",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70049",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70049.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

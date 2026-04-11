@@ -1,0 +1,30 @@
+{
+  "title": "The Historical Demography of Racial Segregation",
+  "abstract": "Standard measures of residential segregation tend to equate spatial with social proximity. This assumption has been increasingly subject to critique among demographers and ethnographers and becomes especially problematic in historical settings. In the late nineteenth-century United States, standard measures suggest a counterintuitive pattern: southern cities, with their long history of racial inequality, had less residential segregation than urban areas considered to be more racially tolerant. By using census enumeration procedures, we develop a sequence measure that captures a more subtle backyard pattern of segregation, where white families dominated front streets and blacks were relegated to alleys. Our analysis of complete household data from the 1880 Census documents how segregation took various forms across the postbellum United States. Whereas northern cities developed segregation via racialized neighborhoods, substituting residential inequality for the status inequality of slavery, southern cities embraced street-front segregation that reproduced the racial inequality that existed under slavery.",
+  "authors": [
+    {
+      "raw": "Grigoryeva, Angelina",
+      "family": "Grigoryeva",
+      "given": "Angelina"
+    },
+    {
+      "raw": "Ruef, Martin",
+      "family": "Ruef",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Grigoryeva, Angelina; Ruef, Martin",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1177/0003122415589170",
+  "doi_url": "https://doi.org/10.1177/0003122415589170",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122415589170",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122415589170.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

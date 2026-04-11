@@ -1,0 +1,40 @@
+{
+  "title": "Educational Differences in Fertility Among Female Same-Sex Couples in Finland",
+  "abstract": "Same-sex couples increasingly often live in legally recognized unions and have children as a couple. The accessibility of parenthood, however, depends on intersecting contextual and couple-level characteristics. Using Finnish register data on female same-sex couples who registered their partnership in 2002-2016, a period of important legal reforms regarding same-sex parenthood, we explore how education and the existence of prior children predict childbearing within the same-sex partnership. Female couples' likelihood of having a child within five years of registering a part nership increased from 20% to 45% over the observation window. This increase was not universal. The likelihood increased from 24% to 55% for couples with a tertiary education but decreased from 27% to 9% for couples with primary and lower second- ary education. Couples with the highest level of education and no prior children born before the partnership were the most likely female couples to have a child. Educational differences in childbearing were only marginally explained by couples' income levels. The results highlight how intersectional factors shape female couples' fertility behavior. Intensifying educational differences in couples' fertility might reflect changes in couple-level characteristics and institutional barriers to childbearing that merit more attention.",
+  "authors": [
+    {
+      "raw": "Ponkilainen, Maria",
+      "family": "Ponkilainen",
+      "given": "Maria"
+    },
+    {
+      "raw": "Einioe, Elina",
+      "family": "Einioe",
+      "given": "Elina"
+    },
+    {
+      "raw": "Pietilaeinen, Marjut",
+      "family": "Pietilaeinen",
+      "given": "Marjut"
+    },
+    {
+      "raw": "Myrskylae, Mikko",
+      "family": "Myrskylae",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Ponkilainen, Maria; Einioe, Elina; Pietilaeinen, Marjut; Myrskylae, Mikko",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11687583",
+  "doi_url": "https://doi.org/10.1215/00703370-11687583",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11687583",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11687583.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Neighborhood disadvantage and obesity across childhood and adolescence: Evidence from the NLSY children and young adults cohort (1986-2010)",
+  "abstract": "Previous research suggests that youth who grow up in socioeconomically disadvantaged neighborhoods face higher odds of becoming obese. Neighborhood effects scholars, meanwhile, have suggested that contextual influences may increase in strength as children age. This is the first study to examine whether developmental epochs moderate the effect of neighborhood disadvantage on obesity over time. I use thirteen waves of new restricted and geo-coded data on children ages 2-18 from the National Longitudinal Survey of Youth, Children and Young Adults. Bivariate and pooled logistic regression results suggest that neighborhood disadvantage has a stronger impact on adolescents' likelihood of becoming obese. Fixed effects models reveal that after adjusting for observed and unobserved con-founders, adolescents continue to face higher odds of becoming obese due to the conditions associated with living in disadvantaged neighborhoods. Moreover, as research on adults suggests, girls experience larger impacts of neighborhood disadvantage than boys. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Alvarado, Steven Elias",
+      "family": "Alvarado",
+      "given": "Steven Elias"
+    }
+  ],
+  "authors_text": "Alvarado, Steven Elias",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.01.008",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.01.008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.01.008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.01.008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

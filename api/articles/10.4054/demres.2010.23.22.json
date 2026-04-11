@@ -1,0 +1,40 @@
+{
+  "title": "The relationship context of nonmarital childbearing in the U.S.",
+  "abstract": "Using Early Childhood Longitudinal Study-Birth Cohort data, we present estimates of nonmarital births in the United States in 2001, both within and outside of cohabiting unions. We additionally examine how mother and father characteristics are associated with the relationship context at birth, and assess racial/ethnic differences in these relationships. We find that 52% of nonmarital births (and 19% of all births) occur within cohabitating unions-a substantial increase in cohabiting births since the early 1990s. The increase in cohabiting births among white and Hispanic women largely reflects a shift from marital to cohabiting births, while the increase in cohabiting births among black women largely reflects a shift from single to cohabiting births. Mother and father characteristics, including marital and fertility histories, are associated with relationship status at birth. However, with the exception of mother's education, only the association between father characteristics and relationship status at birth vary by race and ethnicity.",
+  "authors": [
+    {
+      "raw": "Manlove, Jennifer",
+      "family": "Manlove",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Ryan, Suzanne",
+      "family": "Ryan",
+      "given": "Suzanne"
+    },
+    {
+      "raw": "Wildsmith, Elizabeth",
+      "family": "Wildsmith",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Franzetta, Kerry",
+      "family": "Franzetta",
+      "given": "Kerry"
+    }
+  ],
+  "authors_text": "Manlove, Jennifer; Ryan, Suzanne; Wildsmith, Elizabeth; Franzetta, Kerry",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.23.22",
+  "doi_url": "https://doi.org/10.4054/demres.2010.23.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.23.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.23.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

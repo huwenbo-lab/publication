@@ -1,0 +1,25 @@
+{
+  "title": "Saving, Sharing, or Spending? The Wealth Consequences of Raising Children",
+  "abstract": "This study uses 1986-2012 National Longitudinal Survey of Youth 1979 cohort data to investigate the relationship between raising children and net worth among younger Baby Boomer parents. I combine fixed-effects and unconditional quantile regression models to estimate changes in net worth associated with having children in different age groups across the wealth distribution. This allows me to test whether standard economic models for savings and consumption over the life course hold for families at different wealth levels. My findings show that the wealth effects of children vary throughout the distribution. Among families at or below the median, children of all ages were associated with wealth declines, likely due to the costs of child-rearing. However, at the 75th percentile and above, wealth increased with the presence of younger children but decreased after those children reached age 18. My results, therefore, provide evidence for a saving and investment model of child-rearing among wealthier families but not among families at or below median wealth levels. For these families, the costs of raising children largely outweighed motivations for saving.",
+  "authors": [
+    {
+      "raw": "Maroto, Michelle",
+      "family": "Maroto",
+      "given": "Michelle"
+    }
+  ],
+  "authors_text": "Maroto, Michelle",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0716-1",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0716-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0716-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0716-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

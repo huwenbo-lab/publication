@@ -1,0 +1,25 @@
+{
+  "title": "Social status in an open-source community",
+  "abstract": "Despite a fair amount of conjecture regarding the circumstances that lead to the generation of status orders, most of the previous literature in this area typically has studied the effects of social cues within a laboratory setting. This article analyzes the evolution of the status hierarchy within a large-scale, natural setting. The results of empirical analyses assessing a large online community of software developers show that in the process of status attainment, community members tend to evaluate a focal actor reputation according to publicly available social references. Ironically, these same social references also work to constrain an actor status mobility.",
+  "authors": [
+    {
+      "raw": "Stewart, D",
+      "family": "Stewart",
+      "given": "D"
+    }
+  ],
+  "authors_text": "Stewart, D",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1177/000312240507000505",
+  "doi_url": "https://doi.org/10.1177/000312240507000505",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240507000505",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240507000505.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

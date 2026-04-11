@@ -1,0 +1,35 @@
+{
+  "title": "What Is Your Estimand? Defining the Target Quantity Connects Statistical Evidence to Theory",
+  "abstract": "We make only one point in this article. Every quantitative study must be able to answer the question: what is your estimand? The estimand is the target quantity-the purpose of the statistical analysis. Much attention is already placed on how to do estimation; a similar degree of care should be given to defining the thing we are estimating. We advocate that authors state the central quantity of each analysis-the theoretical estimand-in precise terms that exist outside of any statistical model. In our framework, researchers do three things: (1) set a theoretical estimand, clearly connecting this quantity to theory; (2) link to an empirical estimand, which is informative about the theoretical estimand under some identification assumptions; and (3) learn from data. Adding precise estimands to research practice expands the space of theoretical questions, clarifies how evidence can speak to those questions, and unlocks new tools for estimation. By grounding all three steps in a precise statement of the target quantity, our framework connects statistical evidence to theory.",
+  "authors": [
+    {
+      "raw": "Lundberg, Ian",
+      "family": "Lundberg",
+      "given": "Ian"
+    },
+    {
+      "raw": "Johnson, Rebecca",
+      "family": "Johnson",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Stewart, Brandon M.",
+      "family": "Stewart",
+      "given": "Brandon M."
+    }
+  ],
+  "authors_text": "Lundberg, Ian; Johnson, Rebecca; Stewart, Brandon M.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/00031224211004187",
+  "doi_url": "https://doi.org/10.1177/00031224211004187",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211004187",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211004187.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

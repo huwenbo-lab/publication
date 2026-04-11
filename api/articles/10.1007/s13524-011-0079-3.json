@@ -1,0 +1,30 @@
+{
+  "title": "The Value of an Employment-Based Green Card",
+  "abstract": "Abstract The need for and role of highly skilled immigrant workers in the U.S. economy is fiercely debated. Proponents and opponents agree that temporary foreign workers are paid a lower wage than are natives. This lower wage partly originates from the restricted mobility of workers while on a temporary visa. In this article, we estimate the wage gain to employment-based immigrants from acquiring permanent U.S. residency. We use data from the New Immigrant Survey (2003) and implement a difference-in-difference propensity score matching estimator. We find that for employer-sponsored immigrants, the acquisition of a green card leads to an annual wage gain of about $11,860.",
+  "authors": [
+    {
+      "raw": "Mukhopadhyay, Sankar",
+      "family": "Mukhopadhyay",
+      "given": "Sankar"
+    },
+    {
+      "raw": "Oxborrow, David",
+      "family": "Oxborrow",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Mukhopadhyay, Sankar; Oxborrow, David",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0079-3",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0079-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0079-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0079-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

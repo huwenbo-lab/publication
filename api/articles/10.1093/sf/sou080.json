@@ -1,0 +1,25 @@
+{
+  "title": "Birth Cohort Changes in the Association Between College Education and Religious Non-Affiliation",
+  "abstract": "This article examines the changing association between higher education and reporting no religious affiliation in the United States. I argue that increases in higher education have led to a decline in the individual-level effect of college education on religious non-affiliation. Results from hierarchical age-period-cohort models using more than three and a half decades of repeated cross-sectional survey data demonstrate that the strong, positive effect of college education on reporting no religious affiliation declines precipitously across birth cohorts. Specifically, a bachelor's degree has no effect on non-affiliation by the 1965–69 cohort, and a negative effect for the 1970s cohorts. Moreover, these across-cohort changes are strongly associated with aggregate growth in college education, and they vary considerably by religious origin. I conclude with a discussion of how the results relate to changes among the college-educated population, the religious deinstitutionalization of the non-college-educated, cultural diffusion across social statuses, and other cohort-appropriate social and cultural changes.",
+  "authors": [
+    {
+      "raw": "Schwadel, P.",
+      "family": "Schwadel",
+      "given": "P."
+    }
+  ],
+  "authors_text": "Schwadel, P.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2014,
+  "doi": "10.1093/sf/sou080",
+  "doi_url": "https://doi.org/10.1093/sf/sou080",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou080",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou080.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

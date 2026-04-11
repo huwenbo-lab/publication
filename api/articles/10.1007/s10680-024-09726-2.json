@@ -1,0 +1,30 @@
+{
+  "title": "The Importance of Self-Selection and Childcare Leave Length for Child Penalty",
+  "abstract": "Abstract Childbirth has consequences for mothers’ labour market outcomes which in turn has consequences for gender differences in pay. In the Finnish context, earnings-related parental leave can be extended with home care allowance which enables mothers to choose their childcare leave length with varying benefit levels. We empirically test the importance of choice of childcare leave length for the subsequent child penalty. We apply Finnish register data with information on the length of childcare leave at the individual and workplace levels. By using workplace comparisons, we can account for some of the endogeneity in choices of workplace, parity, and childcare leave length. By instrumenting the leave length with varying home care allowance levels, we categorise always-takers, never-takers, and compliers. We find that the child penalty is heterogeneous and highly related to the choice of leave length. Always-takers use longer leaves than the workplace average and are penalised, while never-takers use shorter leaves than the workplace average and experience only a mild child penalty. Compliers adjust their leave lengths to the allowance level and experience child penalties in between. These results support that self-selection of childcare leave length has implications for post-birth outcomes and in addition, that family policy can affect the child penalty and the gender gap in pay.",
+  "authors": [
+    {
+      "raw": "Österbacka, Eva",
+      "family": "Österbacka",
+      "given": "Eva"
+    },
+    {
+      "raw": "Räsänen, Tapio",
+      "family": "Räsänen",
+      "given": "Tapio"
+    }
+  ],
+  "authors_text": "Österbacka, Eva; Räsänen, Tapio",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-024-09726-2",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09726-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09726-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09726-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

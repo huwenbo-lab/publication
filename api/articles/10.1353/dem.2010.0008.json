@@ -1,0 +1,35 @@
+{
+  "title": "Disease prevalence, disease incidence, and mortality in the United States and in England",
+  "abstract": "AbstractWe find that both disease incidence and disease prevalence are higher among Americans in age groups 55–64 and 70–80, indicating that Americans suffer from higher past cumulative disease risk and experience higher immediate risk of new disease onset compared with the English. In contrast, age-specific mortality rates are similar in the two countries, with an even higher risk among the English after age 65. We also examine reasons for the large financial gradients in mortality in the two countries. Among 55- to 64-year-olds, we estimate similar health gradients in income and wealth in both countries, but for 70- to 80-year-olds, we find no income gradient in the United Kingdom. Standard behavioral risk factor’s (work, marriage, obesity, exercise, and smoking) almost fully explain income gradients among those aged 55–64 in both countries and a significant part among Americans 70–80 years old. The most likely explanation of the absence of an English income gradient relates to the English income benefit system: below the median, retirement benefits are largely flat and independent of past income, and hence past health, during the working years. Finally, we report evidence using a long panel of American respondents that their subsequent mortality is not related to large changes in wealth experienced during the prior 10-year period.",
+  "authors": [
+    {
+      "raw": "Banks, James",
+      "family": "Banks",
+      "given": "James"
+    },
+    {
+      "raw": "Muriel, Alastair",
+      "family": "Muriel",
+      "given": "Alastair"
+    },
+    {
+      "raw": "Smith, James P.",
+      "family": "Smith",
+      "given": "James P."
+    }
+  ],
+  "authors_text": "Banks, James; Muriel, Alastair; Smith, James P.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.2010.0008",
+  "doi_url": "https://doi.org/10.1353/dem.2010.0008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2010.0008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2010.0008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

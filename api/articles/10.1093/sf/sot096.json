@@ -1,0 +1,35 @@
+{
+  "title": "Breaking Up Is Hard to Do, Unless Everyone Else Is Doing It Too: Social Network Effects on Divorce in a Longitudinal Sample",
+  "abstract": "Divorce represents the dissolution of a social tie, but it is also possible that attitudes about divorce flow across social ties. To explore how social networks influence divorce and vice versa, we exploit a longitudinal data set from the long-running Framingham Heart Study. The results suggest that divorce can spread between friends. Clusters of divorces extend to two degrees of separation in the network. Popular people are less likely to get divorced, divorcees have denser social networks, and they are much more likely to remarry other divorcees. Interestingly, the presence of children does not influence the likelihood of divorce, but each child reduces the susceptibility to being influenced by peers who get divorced. Overall, the results suggest that attending to the health of one's friends' marriages may serve to support and enhance the durability of one's own relationship, and that, from a policy perspective, divorce should be understood as a collective phenomenon that extends beyond those directly affected.",
+  "authors": [
+    {
+      "raw": "McDermott, R.",
+      "family": "McDermott",
+      "given": "R."
+    },
+    {
+      "raw": "Fowler, J. H.",
+      "family": "Fowler",
+      "given": "J. H."
+    },
+    {
+      "raw": "Christakis, N. A.",
+      "family": "Christakis",
+      "given": "N. A."
+    }
+  ],
+  "authors_text": "McDermott, R.; Fowler, J. H.; Christakis, N. A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sot096",
+  "doi_url": "https://doi.org/10.1093/sf/sot096",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsot096",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sot096.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

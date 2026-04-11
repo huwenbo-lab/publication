@@ -1,0 +1,35 @@
+{
+  "title": "Who Contacts Whom? Educational Homophily in Online Mate Selection",
+  "abstract": "Data from an online dating platform are used to study the importance of education for initiating and replying to online contacts. We analyse how these patterns are influenced by educational homophily and opportunity structures. Social exchange theory and mate search theory are used to explain online mate selection behaviour. Our results show that educational homophily is the dominant mechanism in online mate choice. Similarity in education significantly increases the rate of both sending and replying to initial contacts. After controlling for the opportunity structure on the platform, the preference for similar educated others is the most important factor, particularly among women. Our results also support the exchange theoretical idea that homophily increases with educational level. If dissimilarity contacting patterns are found, women are highly reluctant to contact partners with lower educational qualifications. Men, in contrast, do not have any problems to contact lower-qualified women. Studies of educational homogamy generally show that couples where women have a higher level of education are rare. Our study demonstrates that this is mainly the result of women’s reluctance to contact lower qualified men.",
+  "authors": [
+    {
+      "raw": "Skopek, J.",
+      "family": "Skopek",
+      "given": "J."
+    },
+    {
+      "raw": "Schulz, F.",
+      "family": "Schulz",
+      "given": "F."
+    },
+    {
+      "raw": "Blossfeld, H.-P.",
+      "family": "Blossfeld",
+      "given": "H.-P."
+    }
+  ],
+  "authors_text": "Skopek, J.; Schulz, F.; Blossfeld, H.-P.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcp068",
+  "doi_url": "https://doi.org/10.1093/esr/jcp068",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcp068",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcp068.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Fathering, living arrangements, and child development in China",
+  "abstract": "The impact on child development of paternal involvement in childrearing has received growing attention recently. Based on data from the 2010, 2014 and 2018 waves of the China Family Panel Studies, this study applies the propensity score matching (PSM) method to investigate the causal effects of being primarily raised by one's father on children's cognitive skills and psychological well-being in different family types. In migrant families, primarily fathered children are not disadvantaged compared to those primarily mothered, and boys even have better word test scores. For children living with both parents, our results indicate no significant differences in most respects between the cognitive skills and mental health of children primarily cared for by fathers and by mothers, except that children perform slightly worse in word-test scores when their fathers are their primary caregivers. However, coresidence with grandparents substantially mitigates the negative effect of primary paternal involvement in childcare on children's language development. Our findings suggest that the role of father involvement in child development should be understood in more nuanced family contexts.",
+  "authors": [
+    {
+      "raw": "Liu, Wen",
+      "family": "Liu",
+      "given": "Wen"
+    },
+    {
+      "raw": "Yu, Jia",
+      "family": "Yu",
+      "given": "Jia"
+    }
+  ],
+  "authors_text": "Liu, Wen; Yu, Jia",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1080/21620555.2024.2303602",
+  "doi_url": "https://doi.org/10.1080/21620555.2024.2303602",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2024.2303602",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2024.2303602.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

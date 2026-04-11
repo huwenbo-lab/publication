@@ -1,0 +1,25 @@
+{
+  "title": "Tracing very long-term kinship networks using SOCSIM",
+  "abstract": "While each individual has 10 billion ancestors a thousand years ago, these are not distinct and in practice, the number of distinct ancestors is much smaller. A female (âmitochondrial Eveâ) and a male ancestor (âY-chromosome Adamâ) of all humans certai",
+  "authors": [
+    {
+      "raw": "Murphy, Mike",
+      "family": "Murphy",
+      "given": "Mike"
+    }
+  ],
+  "authors_text": "Murphy, Mike",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2004,
+  "doi": "10.4054/demres.2004.10.7",
+  "doi_url": "https://doi.org/10.4054/demres.2004.10.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2004.10.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2004.10.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

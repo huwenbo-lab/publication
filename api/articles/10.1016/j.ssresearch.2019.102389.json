@@ -1,0 +1,40 @@
+{
+  "title": "Heterogeneous treatment effects on Children's cognitive/non-cognitive skills: A reevaluation of an influential early childhood intervention",
+  "abstract": "The 1962-67 High/Scope Perry Preschool Program, a well-known experimental early childhood intervention study that provided quality preschool education to disadvantaged children, has been shown to have had positive impacts on early child development and on a variety of adulthood outcomes. However, most previous analyses have only examined average treatment effects across all program participants without exploring possible effect heterogeneity by children's background characteristics. We investigated this question by first using the 1964-65 Current Population Survey data in combination with the Perry data to construct a scale of child socioeconomic status based on the estimated propensity for inclusion in the Perry program, then analyzing effect heterogeneity within the Perry sample by strata of our socioeconomic scale. We found that the treatment effects of enrollment in the Perry preschool on cognitive and non-cognitive skills were much larger and more persistent among the most disadvantaged children than among others in the Perry program. Furthermore, among the most disadvantaged children, the treatment (i.e., preschool enrollment) affects later outcomes through a reinforcement mechanism of skill development (i.e., early cognitive gain leads to a non-cognitive gain, which in turn leads to later cognitive gain) and a sequential improvement of cognitive skills over time. These findings have important implications for the evaluation of policy interventions in early child development using experimental data.",
+  "authors": [
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    },
+    {
+      "raw": "Near, Christopher",
+      "family": "Near",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Xu, Hongwei",
+      "family": "Xu",
+      "given": "Hongwei"
+    },
+    {
+      "raw": "Song, Xi",
+      "family": "Song",
+      "given": "Xi"
+    }
+  ],
+  "authors_text": "Xie, Yu; Near, Christopher; Xu, Hongwei; Song, Xi",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102389",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102389",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102389",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102389.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Ambiguities in Action Ascription",
+  "abstract": "In everyday interactions with one another, speakers not only say things but also do things like offer, complain, reject, and compliment. Through observation, it is possible to see that much of the time people unproblematically understand what others are doing. Research on conversation has further documented how speakers' word choice, prosody, grammar, and gesture all help others to recognize what actions they are performing. In this study, we rely on spontaneous naturally occurring conversational data where people have trouble making their actions understood to examine what leads to ambiguous actions, bringing together prior research and identifying recurrent types of ambiguity that hinge on different dimensions of social action. We then discuss the range of costs and benefits for social actors when actions are clear versus ambiguous. Finally, we offer a conceptual model of how, at a microlevel, action ascription is done. Actions in interaction are building blocks for social relations; at each turn, an action can strengthen or strain the bond between two individuals. Thus, a unified theory of action ascription at a microlevel is an essential component for broader theories of social action and of how social actions produce, maintain, and revise the social world.",
+  "authors": [
+    {
+      "raw": "Stivers, Tanya",
+      "family": "Stivers",
+      "given": "Tanya"
+    },
+    {
+      "raw": "Rossi, Giovanni",
+      "family": "Rossi",
+      "given": "Giovanni"
+    },
+    {
+      "raw": "Chalfoun, Andrew",
+      "family": "Chalfoun",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Stivers, Tanya; Rossi, Giovanni; Chalfoun, Andrew",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac021",
+  "doi_url": "https://doi.org/10.1093/sf/soac021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Informal Learning and Labour Market Returns. Evidence from German Panel Data",
+  "abstract": "Informal learning, the self-initiated acquisition of knowledge, takes a central position in political and scientific debates on skill formation. Human capital theory argues that informal learning increases skills and thereby will positively affect returns in the labour market. Signalling and closure theories do not expect returns to informal learning, as informal learning does not result in a formal degree. So far only a few studies have empirically investigated how informal learning affects labour market outcomes, all of them applying a cross-sectional design. By using the German National Educational Panel Study (NEPS), we model the returns to three forms of informal learning in person fixed-effects models, thereby reducing problems of selection into informal learning. We find that up to 33 per cent of the respondents engage in at least one form of professional purpose informal learning. While participation is high, the effects on labour market returns are negligible. We find a very small positive effect of one of the three types of informal learning on employment, and we find no effect of informal learning on wages.",
+  "authors": [
+    {
+      "raw": "Rueber, Ina Elisabeth",
+      "family": "Rueber",
+      "given": "Ina Elisabeth"
+    },
+    {
+      "raw": "Bol, Thijs",
+      "family": "Bol",
+      "given": "Thijs"
+    }
+  ],
+  "authors_text": "Rueber, Ina Elisabeth; Bol, Thijs",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcx075",
+  "doi_url": "https://doi.org/10.1093/esr/jcx075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The effect of sexual abstinence on females' educational attainment",
+  "abstract": "Abstract A number of studies have shown that teenagers who abstain from sex are more likely to graduate from high school and attend college than their sexually active peers. However, it is unclear whether this association represents a causal relationship or can be explained by unmeasured heterogeneity. We employ a variety of statistical techniques to distinguish between these hypotheses, using data on females from the National Longitudinal Study of Adolescent Health. Our results provide evidence that delaying first intercourse leads to an increased likelihood of graduating from high school. This relationship appears to be strongest among respondents in the bottom third of the ability distribution. Controlling for fertility reduces, but does not eliminate, the estimated effect of delaying intercourse.",
+  "authors": [
+    {
+      "raw": "Sabia, Joseph J.",
+      "family": "Sabia",
+      "given": "Joseph J."
+    },
+    {
+      "raw": "Rees, Daniel I.",
+      "family": "Rees",
+      "given": "Daniel I."
+    }
+  ],
+  "authors_text": "Sabia, Joseph J.; Rees, Daniel I.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0072",
+  "doi_url": "https://doi.org/10.1353/dem.0.0072",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0072",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0072.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

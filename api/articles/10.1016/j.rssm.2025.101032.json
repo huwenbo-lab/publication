@@ -1,0 +1,30 @@
+{
+  "title": "The socio-organisational embeddedness of work-life mobility",
+  "abstract": "There has recently been renewed interest in occupational mobility over the life-course. We argue that such studies should place greater emphasis on organisational and social embeddings of occupations as key drivers of mobility. Occupations are interconnected by their organisational, regional, and industrial contexts, which create mobility opportunities. These contexts also foster social relations that underpin classic mobility predictors such as social capital, cultural capital, and aspiration, all of which guide occupational choices. Building on the idea that social and organisational relations between occupations shape the overall structure of social mobility, we devise a structural model that focuses not on variables, but on emergent mobility patterns. We conceptualise the mobility table as a network, fitting a loglinear model including concentration, reciprocity, and clustering parameters. This model is applied to analyse intra-generational mobility between 59 micro-classes in the UK during the first decade of this century, using data from the British Household Panel Survey. We find that emergent patterns are strong predictors of mobility. When comparing our model to a conventional social-class based one, we find that social-class parameters decrease by 88 % after the inclusion of network patterns. We conclude that the socio-organisational embeddedness of occupations is an overlooked structuring force behind work-life mobility.",
+  "authors": [
+    {
+      "raw": "Block, Per",
+      "family": "Block",
+      "given": "Per"
+    },
+    {
+      "raw": "Jonsson, Jan O.",
+      "family": "Jonsson",
+      "given": "Jan O."
+    }
+  ],
+  "authors_text": "Block, Per; Jonsson, Jan O.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101032",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101032",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101032",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101032.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

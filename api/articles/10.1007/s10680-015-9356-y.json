@@ -1,0 +1,35 @@
+{
+  "title": "The Effect of Gender Policies on Fertility: The Moderating Role of Education and Normative Context",
+  "abstract": "In this paper, we aim to assess the extent to which individual-level completed fertility varies across contexts characterized by policies supporting different gender division of labor models. We examine key labor market and care policies that shape gender relations in households and in the public domain. We also consider the role of gender norms, which can act as both a moderator and a confounding factor for policy effects. We hypothesize that, by facilitating role compatibility and reducing the gendered costs of childrearing, policies that support gender equality lead to an increase in fertility levels and to a reduction in fertility differentials by the level of education. Using individual-level data from the European Union Survey on Income and Living Conditions for 16 countries, combined with country-level data, we analyze completed fertility through multilevel Poisson's models. We find that the national level of childcare coverage is positively associated with fertility. Family allowances, prevalence of women's part-time employment and length of paid leaves were also found to be positively associated with completed fertility, though the associations were not statistically significant. These variables show a significant positive pattern according to education. A high number of average working hours for men are negatively associated with completed fertility and show a strong negative pattern by educational level. The prevalence of gender-egalitarian norms is highly predictive of fertility levels, yet we found no consistent evidence of a weaker association of gender-equality policies in countries where egalitarian values are less prevalent.",
+  "authors": [
+    {
+      "raw": "Baizan, Pau",
+      "family": "Baizan",
+      "given": "Pau"
+    },
+    {
+      "raw": "Arpino, Bruno",
+      "family": "Arpino",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Delclòs, Carlos Eric",
+      "family": "Delclòs",
+      "given": "Carlos Eric"
+    }
+  ],
+  "authors_text": "Baizan, Pau; Arpino, Bruno; Delclòs, Carlos Eric",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2016,
+  "doi": "10.1007/s10680-015-9356-y",
+  "doi_url": "https://doi.org/10.1007/s10680-015-9356-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-015-9356-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-015-9356-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

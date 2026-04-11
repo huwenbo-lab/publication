@@ -1,0 +1,30 @@
+{
+  "title": "The Long-Lasting Effects of Schooling: Estimating the Effects of Science and Math Identity in High School on College and Career Outcomes in STEM",
+  "abstract": "A growing body of research suggests that the beliefs, interests, expectations and other attitudes acquired early in life play a critical role in shaping individuals’ career trajectories. Yet the causal pathways connecting early-acquired attitudes and future outcomes are not well understood. In this study, the authors argue that a plausible way to understand this relationship is by postulating a direct effect of early-acquired attitudes on future outcomes that is not mediated by more recent values of these attitudes. This effect is referred to as the controlled direct effect. Using a nationally representative sample, the authors implement inverse probability–weighted marginal structural models to estimate the controlled direct effect of math and science identity beliefs in ninth grade on career and college outcomes in science, technology, engineering, and mathematics (STEM). The results suggest that identifying with science or math in school increases the odds of enrolling in a STEM major in college as well expecting to have a STEM career.",
+  "authors": [
+    {
+      "raw": "Quintana, Rafael",
+      "family": "Quintana",
+      "given": "Rafael"
+    },
+    {
+      "raw": "Saatcioglu, Argun",
+      "family": "Saatcioglu",
+      "given": "Argun"
+    }
+  ],
+  "authors_text": "Quintana, Rafael; Saatcioglu, Argun",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221115405",
+  "doi_url": "https://doi.org/10.1177/23780231221115405",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221115405",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221115405.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

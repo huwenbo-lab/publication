@@ -1,0 +1,25 @@
+{
+  "title": "Marriage Advantages in Perinatal Health: Evidence of Marriage Selection or Marriage Protection?",
+  "abstract": "Marriage is a social tie associated with health advantages for adults and their children, as lower rates of preterm birth and low birth weight are observed among married women. In this study the author tested 2 competing hypotheses explaining this marriage advantage-marriage protection versus marriage selection-using a sample of recent births to single, cohabiting, and married women from the National Survey of Family Growth, 2006-2010. Propensity score matching and fixed effects regression results demonstrated support for marriage selection, as a rich set of early life selection factors account for all of the cohabiting-married disparity and part of the single-married disparity. Subsequent analyses demonstrated that prenatal smoking mediates the adjusted single-married disparity in birth weight, lending some support for the marriage protection perspective. The study's findings sharpen our understanding of why and how marriage matters for child well-being and provide insight into pre-conception and prenatal factors describing intergenerational transmissions of inequality via birth weight.",
+  "authors": [
+    {
+      "raw": "Kane, Jennifer B.",
+      "family": "Kane",
+      "given": "Jennifer B."
+    }
+  ],
+  "authors_text": "Kane, Jennifer B.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2016,
+  "doi": "10.1111/jomf.12257",
+  "doi_url": "https://doi.org/10.1111/jomf.12257",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12257",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12257.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

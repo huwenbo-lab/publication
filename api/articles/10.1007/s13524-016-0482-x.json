@@ -1,0 +1,35 @@
+{
+  "title": "Gendered Authorship and Demographic Research: An Analysis of 50 Years of Demography",
+  "abstract": "Demography, the official journal of the Population Association of America, has been given the highest rating among demographic journals by the Social Sciences Citation Index (SSCI). Our aim here is to investigate the development of research subfields and female authorship in Demography over the last 50 years. We find that female authorship in Demography has risen considerably since the 1980s and that currently a woman is about as likely as a man to be the sole or the first author of a paper published in the journal. However, we find some differences by subfield. Women seem to be overrepresented in the family and household research subfield but underrepresented in the mortality and health and data and methods categories.",
+  "authors": [
+    {
+      "raw": "Krapf, Sandra",
+      "family": "Krapf",
+      "given": "Sandra"
+    },
+    {
+      "raw": "Kreyenfeld, Michaela",
+      "family": "Kreyenfeld",
+      "given": "Michaela"
+    },
+    {
+      "raw": "Wolf, Katharina",
+      "family": "Wolf",
+      "given": "Katharina"
+    }
+  ],
+  "authors_text": "Krapf, Sandra; Kreyenfeld, Michaela; Wolf, Katharina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0482-x",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0482-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0482-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0482-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

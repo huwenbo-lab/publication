@@ -1,0 +1,35 @@
+{
+  "title": "Multigenerational Effects of Early-Life Health Shocks",
+  "abstract": "A large literature has documented links between harmful early-life exposures and later-life health and socioeconomic deficits. These studies, however, have typically been unable to examine the possibility that these shocks are transmitted to the next generation. Our study uses representative survey data from the United States to trace the impacts of in utero exposure to the 1918 influenza pandemic on the outcomes of the children and grandchildren of those affected. We find evidence of multigenerational effects on educational, economic, and health outcomes.",
+  "authors": [
+    {
+      "raw": "Cook, C. Justin",
+      "family": "Cook",
+      "given": "C. Justin"
+    },
+    {
+      "raw": "Fletcher, Jason M.",
+      "family": "Fletcher",
+      "given": "Jason M."
+    },
+    {
+      "raw": "Forgues, Angela",
+      "family": "Forgues",
+      "given": "Angela"
+    }
+  ],
+  "authors_text": "Cook, C. Justin; Fletcher, Jason M.; Forgues, Angela",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00804-3",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00804-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00804-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00804-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

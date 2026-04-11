@@ -1,0 +1,25 @@
+{
+  "title": "Book Review: Gender and Health: The Effects of Constrained Choices and Social Policies. By Chloe E. Bird and Patricia P. Rieker. New York: Cambridge University Press, 2008, 256 pp., $85.00 (cloth); $25.99 (paper)",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Simonstein, Frida",
+      "family": "Simonstein",
+      "given": "Frida"
+    }
+  ],
+  "authors_text": "Simonstein, Frida",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2009,
+  "doi": "10.1177/0891243209339751",
+  "doi_url": "https://doi.org/10.1177/0891243209339751",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243209339751",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243209339751.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

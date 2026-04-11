@@ -1,0 +1,25 @@
+{
+  "title": "Beyond the Parental Generation: The Influence of Grandfathers and Great-grandfathers on Status Attainment",
+  "abstract": "Studies on intergenerational social mobility usually examine the extent to which social positions of one generation determine the social positions of the next. This study investigates whether the persistence of inequality can be expected to stretch over more than two generations. Using a multigenerational version of GENLIAS, a large-scale database containing information from digitized Dutch marriage certificates during 1812-1922, this study describes and explains the influence of grandfathers and great-grandfathers on the occupational status attainment of 119,662 men in the Netherlands during industrialization. Multilevel regression models show that both grandfather's and great-grandfather's status influence the status attainment of men, after fathers and uncles are taken into account. Whereas the influence of the father and uncles decreases over time, that of the grandfather and great-grandfather remains stable. The results further suggest that grandfathers influence their grandsons through contact but also without being in contact with them. Although the gain in terms of explained variance from using a multigenerational model is moderate, leaving out the influence of the extended family considerably misrepresents the influence of the family on status attainment.",
+  "authors": [
+    {
+      "raw": "Knigge, Antonie",
+      "family": "Knigge",
+      "given": "Antonie"
+    }
+  ],
+  "authors_text": "Knigge, Antonie",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0486-6",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0486-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0486-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0486-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Minority stress and structural stigma predict well-being in European LGBTQ plus parents",
+  "abstract": "ObjectiveThis study tested whether exposure to minority stress and structural stigma across multiple levels of the family system were associated with two indicators of well-being (life satisfaction, depressive symptoms) in LGBTQ+ parents across 19 European countries.BackgroundMinority stress (i.e., identity-based stress resulting from systemic oppression) and structural stigma (i.e., hostile legal environments, prejudicial social attitudes) are heterogeneous, yet well-documented risk factors of reduced well-being within LGBTQ+ populations. However, a comprehensive assessment stratifying both concepts across multiple levels of the family system (i.e., the individual, couple, and family level) is lacking for LGBTQ+ parents.MethodUsing data from the EU LGBTI Survey 2019, a sample of 3808 LGBTQ+ parents from 19 European countries was analyzed. Associations between self-reported minority stress indicators, objective structural stigma indicators, sociodemographic predictors, and well-being were tested using non-linear, machine learning-based techniques (gradient boosted decision tree models).ResultsSupporting preregistered hypotheses, exposure to individual-level minority stress and individual- and family-level structural stigma predicted life satisfaction and depressive symptoms. Couple-level minority stress predicted life satisfaction, but not depressive symptoms, and family-level minority stress predicted neither. Trans parents and those facing economic burdens were particularly vulnerable to low well-being.ConclusionsExposure to minority stress and structural stigma, particularly within highly stigmatizing regions, are risk factors for LGBTQ+ parents' well-being. Future research should examine the role of family-level minority stress using validated measures.",
+  "authors": [
+    {
+      "raw": "Siegel, Magdalena",
+      "family": "Siegel",
+      "given": "Magdalena"
+    },
+    {
+      "raw": "Steyrl, David",
+      "family": "Steyrl",
+      "given": "David"
+    },
+    {
+      "raw": "Goldberg, Abbie E.",
+      "family": "Goldberg",
+      "given": "Abbie E."
+    },
+    {
+      "raw": "Nicholson, Andrew A.",
+      "family": "Nicholson",
+      "given": "Andrew A."
+    },
+    {
+      "raw": "Zemp, Martina",
+      "family": "Zemp",
+      "given": "Martina"
+    }
+  ],
+  "authors_text": "Siegel, Magdalena; Steyrl, David; Goldberg, Abbie E.; Nicholson, Andrew A.; Zemp, Martina",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13071",
+  "doi_url": "https://doi.org/10.1111/jomf.13071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

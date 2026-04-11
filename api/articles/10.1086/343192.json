@@ -1,0 +1,25 @@
+{
+  "title": "Power, authority, and the constraint of belief systems",
+  "abstract": "This article proposes an approach to studying the formal properties of the belief systems of groups. Belief systems may be quantified in terms of their degree of consensus (the degree to which all group members agree) and their degree of tightness (the degree to which holding some belief implies holding or not holding other beliefs). Two theoretical claims link the production of tightness and consensus to formal properties of social structure. Cognitive authority is hypothesized to produce tightness, as beliefs that are in the same domain of authoritative judgment may be connected via webs of implications. The clarity of the power structure is hypothesized to produce consensus, as an inability to conceive of alternatives to the domestic order translates into an inability to conceive of alternatives in beliefs. These claims are tested with data on 44 naturally occurring communities.",
+  "authors": [
+    {
+      "raw": "Martin, JL",
+      "family": "Martin",
+      "given": "JL"
+    }
+  ],
+  "authors_text": "Martin, JL",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2002,
+  "doi": "10.1086/343192",
+  "doi_url": "https://doi.org/10.1086/343192",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F343192",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/343192.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

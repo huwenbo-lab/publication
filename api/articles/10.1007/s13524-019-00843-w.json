@@ -1,0 +1,30 @@
+{
+  "title": "Worth the Weight? Recent Trends in Obstetric Practices, Gestational Age, and Birth Weight in the United States",
+  "abstract": "Birth weight in the United States declined substantially during the 1990s and 2000s. We suggest that the declines were likely due to shifts in gestational age resulting from changes in obstetric practices. Using restricted National Vital Statistics System data linked birth/infant death data for 1990-2013, we analyze trends in obstetric practices, gestational age distributions, and birth weights among first-birth singletons born to U.S. non-Hispanic White, non-Hispanic Black, and Latina women. We use life table techniques to analyze the joint probabilities of gestational age-specific birth and gestational age-specific obstetric intervention (i.e., induced cesarean delivery, induced vaginal delivery, not-induced cesarean delivery, and not-induced vaginal delivery) to fully document trends in obstetric practices by gestational age. We use simulation techniques to estimate counterfactual changes in birth weight distributions if obstetric practices did not change between 1990 and 2013. Results show that between 1990 and 2013, the likelihood of induced labors and cesarean deliveries increased at all gestational ages, and the gestational age distribution of U.S. births significantly shifted. Births became much less likely to occur beyond gestational week 40 and much more likely to occur during weeks 37-39. Overall, nearly 18% of births from not-induced labor and vaginal delivery at later gestational ages were replaced with births occurring at earlier gestational ages from obstetric interventions. Results suggest that if rates of obstetric practices had not changed between 1990 and 2013, then the average U.S. birth weight would have increased over this time. Findings strongly indicate that recent declines in U.S. birth weight were due to increases in induced labor and cesarean delivery at select gestational ages.",
+  "authors": [
+    {
+      "raw": "Tilstra, Andrea M.",
+      "family": "Tilstra",
+      "given": "Andrea M."
+    },
+    {
+      "raw": "Masters, Ryan K.",
+      "family": "Masters",
+      "given": "Ryan K."
+    }
+  ],
+  "authors_text": "Tilstra, Andrea M.; Masters, Ryan K.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-019-00843-w",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00843-w",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00843-w",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00843-w.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

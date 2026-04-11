@@ -1,0 +1,30 @@
+{
+  "title": "Gene-environment interactions and school tracking during secondary education: Evidence from the US",
+  "abstract": "There is much evidence to suggest that family background and the context of secondary education both contribute to the formation of educational inequalities. Meanwhile, our knowledge about the role of ability in generating class differences in educational outcomes is still limited. By deploying genetic data that allow us to measure at least part of innate ability inherited through biological mechanisms from parents, this study examines how such abilities are associated with educational tracking outcomes among U.S. high schoolers. This study also details our understanding of the role of nature and nurture in the educational attainment processes by testing for gene-environment interactions-that is, a joint, mutually moderating effect of one's genetic potential and one's environment (e.g., family background or school context) on phenotypic outcomes (educational tracking). Using the National Longitudinal Study of Adolescent to Adult Health that collects a unique set of demographic, educational, and genetic characteristics of students, we report the following results: First, a positive association between the genetic potential for educational attainment and taking advanced courses holds even after controlling for previous course tracking measures. Second, results provide suggestive evidence that parental SES amplifies the association between one's genetic potential for educational attainment and mathematics tracking. In contrast to the argument by some stratification scholars that places primary emphasis on the role of social background for the reproduction of educational stratification, the present findings imply that we need to fully consider the role of genetic inheritance for educational stratification in addition to social origin.",
+  "authors": [
+    {
+      "raw": "Uchikoshi, Fumiya",
+      "family": "Uchikoshi",
+      "given": "Fumiya"
+    },
+    {
+      "raw": "Conley, Dalton",
+      "family": "Conley",
+      "given": "Dalton"
+    }
+  ],
+  "authors_text": "Uchikoshi, Fumiya; Conley, Dalton",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100628",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100628",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100628",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100628.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

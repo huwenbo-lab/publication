@@ -1,0 +1,45 @@
+{
+  "title": "The reproduction of social inequality among university graduates in Chile",
+  "abstract": "This study analyses how social origin influences university graduates' salaries in Chile, both directly and indirectly through the type of university attended. Linear regression and Blinder-Oaxaca decomposition were used to analyse survey data from 931 recent graduates of 17 universities. The findings reveal a substantial pay gap based on graduates' social origin. Between one-fifth and one-third of this gap is mediated by institutional stratification, as graduates from privileged families are more likely to access prestigious universities associated with higher salaries. However, large disparities persist even among graduates who attended the same institutions. On average, graduates from very high-income households earn nearly US$11,500 more per year than those from low- and middle-income families. Our findings suggest that higher education contributes to the indirect transmission of privilege linked to social origin. However, they also indicate that the role of the higher education system in this process is not universal but shaped by contextual factors.",
+  "authors": [
+    {
+      "raw": "Espinoza, Oscar",
+      "family": "Espinoza",
+      "given": "Oscar"
+    },
+    {
+      "raw": "Corradi, Bruno",
+      "family": "Corradi",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Sandoval, Luis",
+      "family": "Sandoval",
+      "given": "Luis"
+    },
+    {
+      "raw": "Miranda, Catalina",
+      "family": "Miranda",
+      "given": "Catalina"
+    },
+    {
+      "raw": "Mcginn, Noel",
+      "family": "Mcginn",
+      "given": "Noel"
+    }
+  ],
+  "authors_text": "Espinoza, Oscar; Corradi, Bruno; Sandoval, Luis; Miranda, Catalina; Mcginn, Noel",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2025,
+  "doi": "10.1080/01425692.2025.2571578",
+  "doi_url": "https://doi.org/10.1080/01425692.2025.2571578",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2025.2571578",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2025.2571578.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

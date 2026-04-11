@@ -1,0 +1,35 @@
+{
+  "title": "Correlated mortality risks of siblings in Kenya",
+  "abstract": "Random-effect models have been useful in demonstrating how unobserved factors are related to infant or child death clustering. Another potential hypothesis is state dependence whereby the death of an older sibling affects the risk of death of a subsequ",
+  "authors": [
+    {
+      "raw": "Omariba, Walter Rasugu",
+      "family": "Omariba",
+      "given": "Walter Rasugu"
+    },
+    {
+      "raw": "Rajulton, Fernando",
+      "family": "Rajulton",
+      "given": "Fernando"
+    },
+    {
+      "raw": "Beaujot, Roderic",
+      "family": "Beaujot",
+      "given": "Roderic"
+    }
+  ],
+  "authors_text": "Omariba, Walter Rasugu; Rajulton, Fernando; Beaujot, Roderic",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2008,
+  "doi": "10.4054/demres.2008.18.11",
+  "doi_url": "https://doi.org/10.4054/demres.2008.18.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2008.18.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2008.18.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Probabilistic forecasting of maximum human lifespan by 2100 using Bayesian population projections",
+  "abstract": "BACKGROUND We consider the problem of quantifying the human lifespan using a statistical approach that probabilistically forecasts the maximum reported age at death (MRAD) through 2100. OBJECTIVE We seek to quantify the probability that any person attains various extreme ages, such as those above 120, by the year 2100. METHODS We use the exponential survival model for supercentenarians (people over age 110) of Rootzen and Zholud (2017) but extend the forecasting window, quantify population uncertainty using Bayesian population projections, and incorporate the most recent data from the International Database on Longevity (IDL) to obtain unconditional estimates of the distribution of MRAD this century in a fully Bayesian analysis. RESULTS We find that the exponential survival model for supercentenarians is consistent with the most recent IDL data and that projections of the population aged 110-114 through 2080 are sensible. We integrate over the posterior distributions of the exponential model parameter and uncertainty in the supercentenarian population projections to estimate an unconditional distribution of MRAD by 2100. CONCLUSIONS Based on the Bayesian analysis, there is a greater than 99% probability that the current MRAD of 122 will be broken by 2100. We estimate the probabilities that a person lives to at least age 126, 128, or 130 this century, as 89%, 44%, and 13%, respectively. CONTRIBUTION We have updated the supercentenarian survival model of Rootzen and Zholud using the most recent IDL data, incorporated Bayesian population projections, and extended the forecasting window to create the first fully Bayesian and unconditional probabilistic projection of MRAD by 2100.",
+  "authors": [
+    {
+      "raw": "Pearce, Michael",
+      "family": "Pearce",
+      "given": "Michael"
+    },
+    {
+      "raw": "Raftery, Adrian E.",
+      "family": "Raftery",
+      "given": "Adrian E."
+    }
+  ],
+  "authors_text": "Pearce, Michael; Raftery, Adrian E.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.52",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.52",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.52",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.52.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

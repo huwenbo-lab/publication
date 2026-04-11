@@ -1,0 +1,30 @@
+{
+  "title": "Loneliness at Older Ages in the United States: Lonely Life Expectancy and the Role of Loneliness in Health Disparities",
+  "abstract": "We provide an empirical foundation for research on the demography of loneliness at older ages. First, we use published life tables and data from the U.S.-based Health and Retirement Study for the period 2008-2016 to calculate lonely life expectancy for Americans aged 55 or older. Using Sullivan's method, we demonstrate pronounced differences in lonely life expectancy by sex, race/ethnicity, and educational attainment that correspond to well-established patterns of stratification in other dimensions of well-being. Next, we estimate models that decompose observed sex, racial/ethnic, and educational differences in three key health outcomes into the part explained (in a statistical accounting sense) by loneliness and the part accounted for by other factors. We find little evidence of an important role for loneliness in understanding disparities in mortality and the onset of physical disability and cognitive impairment among Americans aged 55 or older, net of several established correlates of health disparities. These descriptive findings provide an empirical foundation for continued development of a demography of loneliness at older ages in response to the anticipated growth in scientific and policy emphasis on loneliness and the fundamental life changes that have accompanied the COVID-19 pandemic.",
+  "authors": [
+    {
+      "raw": "Raymo, James M.",
+      "family": "Raymo",
+      "given": "James M."
+    },
+    {
+      "raw": "Wang, Jia",
+      "family": "Wang",
+      "given": "Jia"
+    }
+  ],
+  "authors_text": "Raymo, James M.; Wang, Jia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9937606",
+  "doi_url": "https://doi.org/10.1215/00703370-9937606",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9937606",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9937606.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

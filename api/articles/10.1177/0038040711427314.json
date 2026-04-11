@@ -1,0 +1,30 @@
+{
+  "title": "The Double Edge of Common Interest: Ethnic Segregation as an Unintended Byproduct of Opinion Homophily",
+  "abstract": "How can we reduce ethnic friendship segregation in ethnically heterogeneous schools? The Common Ingroup Identity Model suggests that interethnic friendships are promoted by those intervention programs that focus on the interests students have in common. The authors argue that the outcome of these common interest interventions may crucially depend on sufficient consensus in participants' opinions regarding the shared interest. Such an intervention may backfire and increase ethnic segregation if participants from different ethnic groups have different opinions about the common interest. The authors test their argument analyzing the dynamics of friendship networks and opinions in 48 school classes with an actor-based stochastic model. Their findings suggest that salient common interests in ethnically mixed school classes can indeed reduce ethnic segregation. However, they also found that friendship selection on the basis of similar opinions can foster ethnic segregation. This occurred when ethnicity was correlated with the opinions that students held regarding the salient interest, even when these students did not prefer intra-ethnic friendship per se.",
+  "authors": [
+    {
+      "raw": "Stark, Tobias H.",
+      "family": "Stark",
+      "given": "Tobias H."
+    },
+    {
+      "raw": "Flache, Andreas",
+      "family": "Flache",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Stark, Tobias H.; Flache, Andreas",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2012,
+  "doi": "10.1177/0038040711427314",
+  "doi_url": "https://doi.org/10.1177/0038040711427314",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040711427314",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040711427314.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

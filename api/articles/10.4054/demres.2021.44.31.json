@@ -1,0 +1,30 @@
+{
+  "title": "Low perceived susceptibility to pregnancy as a reason for contraceptive nonuse among women with unintended births",
+  "abstract": "BACKGROUND While low perceived susceptibility (PS) to pregnancy is a common risk factor for having sex without contraception among women susceptible to unintended pregnancy, little research has examined the correlates of low PS, and none have investigated whether low PS predisposes women to later pregnancy discovery and prenatal care initiation among women with unintended births. METHODS We use data from the 2004.2011 Pregnancy Risk Assessment Monitoring System and limit our sample to women in the United States with unintended births who were not using contraception at the time of the index pregnancy (n = 55,940). Women were classified as having low PS if they indicated they could not get pregnant at the time the index pregnancy occurred or they or their partner were sterile. We use logistic regression to identify correlates of low PS and determine whether low PS is associated with timing of pregnancy recognition and prenatal care initiation. RESULTS Over one-third of women with unintended births cited low PS as a reason for contraceptive nonuse. Maternal age and disadvantage are correlated with low PS. Among women with unintended births, those with low PS had lower odds of early pregnancy recognition (adjOR = 0.88; 95% CI: 0.82, 0.94) and prenatal care initiation (adjOR = 0.86; 95% CI: 0.79, 0.94) compared to those who did not hold these beliefs. CONTRIBUTION Although research remains focused on other barriers to contraceptive use, low perceived susceptibility to pregnancy is critical to understanding the high rates of unintended pregnancies and births in the United States and may affect prenatal health.",
+  "authors": [
+    {
+      "raw": "Gemmill, Alison",
+      "family": "Gemmill",
+      "given": "Alison"
+    },
+    {
+      "raw": "Cowan, Sarah K.",
+      "family": "Cowan",
+      "given": "Sarah K."
+    }
+  ],
+  "authors_text": "Gemmill, Alison; Cowan, Sarah K.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.31",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

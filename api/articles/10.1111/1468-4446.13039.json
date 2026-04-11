@@ -1,0 +1,25 @@
+{
+  "title": "Doubly disadvantaged: Unemployment, young age, and electoral participation in the United Kingdom",
+  "abstract": "Previous studies examine how unemployment affects socio-political behaviour, but this literature has scarcely focused on the role of the life-course. Integrating the frameworks of unemployment scarring and political socialisation, we posit that unemployment experiences, or scars, undermine electoral participation, and that this is exacerbated at younger ages. We test these hypotheses relying on the British Household Panel Survey and Understanding Society datasets (1991-2020), employing panel data analysis approaches as Propensity Score Matching, Individual Fixed Effects, and Individual Fixed Effects with Individual Slopes. Results suggest that unemployment experiences depress electoral participation in the UK, with effect sizes around -5% of a Standard Deviation in turnout. However, this effect varies powerfully by age: the impact of unemployment on electoral participation is stronger at younger ages (-21% SD at age 20), and weaker to not significant after age 35. This is robust across the three main approaches and several robustness checks. Further analyses show that the first unemployment spell matters the most for electoral participation, and that for individuals under 35, there is a scar effect lasting up to 5 years after the first unemployment spell. The life-course emerges as central to better understand the relationship between labour market hardships and socio-political behaviour.",
+  "authors": [
+    {
+      "raw": "Azzollini, Leo",
+      "family": "Azzollini",
+      "given": "Leo"
+    }
+  ],
+  "authors_text": "Azzollini, Leo",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1111/1468-4446.13039",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13039",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13039",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13039.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

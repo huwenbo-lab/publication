@@ -1,0 +1,30 @@
+{
+  "title": "Covid-19 and The Gender Gap in Employment Among Parents of Young Children in Canada",
+  "abstract": "Economic and social disruptions of the COVID-19 pandemic have important implications for gender and class inequality. Drawing on Statistics Canada’s monthly Labour Force Survey, we document trends in gender gaps in employment and work hours over the pandemic (February–October 2020). Our findings highlight the importance of care provisions for gender equity, with gaps larger among parents than people without children, and most pronounced when care and employment were more difficult to reconcile. When employment barriers eased, so did the gender–employment gap. The pandemic could not undo longer-standing cultural and structural shifts motivating contemporary mothers’ employment. The pandemic also exacerbated educational inequalities among women, highlighting the importance of assessing gendered impacts through an intersectional lens.",
+  "authors": [
+    {
+      "raw": "Fuller, Sylvia",
+      "family": "Fuller",
+      "given": "Sylvia"
+    },
+    {
+      "raw": "Qian, Yue",
+      "family": "Qian",
+      "given": "Yue"
+    }
+  ],
+  "authors_text": "Fuller, Sylvia; Qian, Yue",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2021,
+  "doi": "10.1177/08912432211001287",
+  "doi_url": "https://doi.org/10.1177/08912432211001287",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432211001287",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432211001287.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

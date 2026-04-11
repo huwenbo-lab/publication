@@ -1,0 +1,25 @@
+{
+  "title": "Impact of COVID-19 on mortality in Asia",
+  "abstract": "The SARS-CoV-2 virus (termed COVID-19) has raised the mortality trends and diminished life expectancy globally. The impact of COVID-19 on mortality. however, differs across population groups, times, and locations. The current study examines some aspects of COVID-19’s impact on mortality in Asia using published estimates of excess mortality. The estimates of excess mortality all showed higher death rates than officially reported for Asian countries. Excess mortality in India and Indonesia was about 7 and 10 times higher than the reported mortality rates. In both these countries, COVID-19 was probably the leading cause of death. COVID-19 deaths were higher among men and older people. People with multiple comorbidities had a significantly higher risk of infection severity and fatality from COVID-19. There were significant inequalities in mortality rates across different socioeconomic groups, with poor households and low-paid workers disproportionately affected by COVID-19.",
+  "authors": [
+    {
+      "raw": "Jones, Gavin W.",
+      "family": "Jones",
+      "given": "Gavin W."
+    }
+  ],
+  "authors_text": "Jones, Gavin W.",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2023,
+  "doi": "10.1080/17441730.2023.2193476",
+  "doi_url": "https://doi.org/10.1080/17441730.2023.2193476",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2023.2193476",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2023.2193476.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

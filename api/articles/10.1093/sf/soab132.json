@@ -1,0 +1,45 @@
+{
+  "title": "The Effect of Split Sentences on Employment and Future Criminal Justice Involvement: Evidence from a Natural Experiment",
+  "abstract": "Jails serve as the front doors of carceral systems, with 10 million jail admissions annually. The people admitted to jail often end up with probation sentences. As a result, there are approximately 3.5 million people on probation supervision in the United States. Despite the widespread reach of these institutions, little sociological research exists on the collateral consequences of jail and probation supervision. We focus on these two forms of criminal justice supervision by examining the use of split sentences, an understudied yet common type of criminal sanction that combines a period of jail incarceration with an ordinary probation sentence. Using rich administrative data, we leverage a natural experiment that relies upon the random assignment of judges to felony cases to estimate causal effects of receiving a split sentence compared to receiving a probation-only sentence. Our identification strategy allows us to isolate the effect of receiving a split sentence among people also sentenced to probation. Our results show that split sentences increase the risk of future prison admissions and, among whites with presentence employment, decrease formal labor market employment. We find that most of the effect of a split sentence on new prison admissions is driven by greater risk of technical violations of probation conditions stemming from higher levels of probation supervision, suggesting that intensification of criminal justice involvement is a self-fulfilling prophecy initiated by the judge's decision to start a probation sentence with a local jail term.",
+  "authors": [
+    {
+      "raw": "Menefee, Michael R.",
+      "family": "Menefee",
+      "given": "Michael R."
+    },
+    {
+      "raw": "Harding, David J.",
+      "family": "Harding",
+      "given": "David J."
+    },
+    {
+      "raw": "Nguyen, Anh P.",
+      "family": "Nguyen",
+      "given": "Anh P."
+    },
+    {
+      "raw": "Morenoff, Jeffrey D.",
+      "family": "Morenoff",
+      "given": "Jeffrey D."
+    },
+    {
+      "raw": "Bushway, Shawn D.",
+      "family": "Bushway",
+      "given": "Shawn D."
+    }
+  ],
+  "authors_text": "Menefee, Michael R.; Harding, David J.; Nguyen, Anh P.; Morenoff, Jeffrey D.; Bushway, Shawn D.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab132",
+  "doi_url": "https://doi.org/10.1093/sf/soab132",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab132",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab132.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

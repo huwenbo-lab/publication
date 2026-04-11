@@ -1,0 +1,35 @@
+{
+  "title": "Variations in migration motives over distance",
+  "abstract": "BACKGROUND It is often assumed that long-distance migration is dominated by employment or educationally led motives and that local-scale mobility is linked to family and housing adjustments. Unfortunately, few empirical studies examining the relationship between motives and distance exist. OBJECTIVE Recognising that the relationships between migration motives and distances are likely to be context-specific, we explore and compare the relationship in three advanced economies: the United Kingdom, Australia, and Sweden. METHODS We use three sources of nationally representative microdata: the United Kingdom Household Longitudinal Study (UKHLS) (2009-2018); the Australian Household, Income and Labour Dynamics (HILDA) survey (2001-2016); and a Swedish survey of motives undertaken in spring 2007. LOESS smooth curves are presented for each of six distance-motive trends (Area, Education, Employment, Family, Housing, and Other) in the three countries. RESULTS The patterns offer some support to the common assumptions. In all three countries, housing is the most commonly cited motive to move locally. Employment is an important motive for longer-distance migration. Yet, interestingly, and consistent across the three national contexts, family-related considerations are shown to be key in motivating both shorter-and longer-distance moves. CONTRIBUTION Our analysis demonstrates how people move for different reasons, across different distances, in different national contexts. While typically associated with local-scale relocations, family-related motives are rarely mentioned in literature focused on longer-distance migration. The role of family in long-distance migration would thus appear to warrant far more attention than it currently receives.",
+  "authors": [
+    {
+      "raw": "Thomas, Michael",
+      "family": "Thomas",
+      "given": "Michael"
+    },
+    {
+      "raw": "Gillespie, Brian",
+      "family": "Gillespie",
+      "given": "Brian"
+    },
+    {
+      "raw": "Lomax, Nik",
+      "family": "Lomax",
+      "given": "Nik"
+    }
+  ],
+  "authors_text": "Thomas, Michael; Gillespie, Brian; Lomax, Nik",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.38",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.38",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.38",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.38.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

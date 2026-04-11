@@ -1,0 +1,30 @@
+{
+  "title": "Socioeconomic Status and the Increased Prevalence of Autism in California",
+  "abstract": "The prevalence of autism has increased precipitously-roughly 10-fold in the past 40 years-yet no one knows exactly what caused this dramatic rise. Using a large and representative dataset that spans the California birth cohorts from 1992 through 2000, we examine individual and community resources associated with the likelihood of an autism diagnosis over time. This allows us to identify key social factors that have contributed to increased autism prevalence. While individual-level factors, such as birth weight and parental education, have had a fairly constant effect on likelihood of diagnosis over time, we find that community-level resources drive increased prevalence. This study suggests that neighborhoods dynamically interact with the people living in them in different ways at different times to shape health outcomes. By treating neighborhoods as dynamic, we can better understand the changing socioeconomic gradient of autism and the increase in prevalence.",
+  "authors": [
+    {
+      "raw": "King, Marissa D.",
+      "family": "King",
+      "given": "Marissa D."
+    },
+    {
+      "raw": "Bearman, Peter S.",
+      "family": "Bearman",
+      "given": "Peter S."
+    }
+  ],
+  "authors_text": "King, Marissa D.; Bearman, Peter S.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1177/0003122411399389",
+  "doi_url": "https://doi.org/10.1177/0003122411399389",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122411399389",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122411399389.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

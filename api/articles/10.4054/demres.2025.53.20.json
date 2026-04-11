@@ -1,0 +1,55 @@
+{
+  "title": "Socioeconomic differences in ART treatment success: Evidence from Italy",
+  "abstract": "BACKGROUND Several studies have shown stark socioeconomic disparities in births resulting from assisted reproduction technology (ART), but only a few have investigated the underlying causes. An explanation may be possible inequalities in ART treatment success. OBJECTIVE This study investigates whether there are disparities in ART treatment success. We use observational data from women undergoing ART treatment at the ART center at Careggi Hospital in Florence. We analyze three outcomes: the probability of conception following ART, the probability of a miscarriage after conception, and the probability of a live birth. We further examine these disparities across population subgroups, including first-time or last-time patients, Italian-born individuals, and different age groups. METHODS We estimate baseline and adjusted logistic models and display predicted probabilities. RESULTS The results show no socioeconomic disparities between more and less advantaged patients in any of the outcomes considered. These findings are consistent across all the subgroups we investigated. CONTRIBUTION We explore a possible mechanism underlying ART birth disparities and highlight that these disparities do not appear to arise from treatment success, at least when treatments are performed in a widely subsidized public context in Italy.",
+  "authors": [
+    {
+      "raw": "Cozzani, Marco",
+      "family": "Cozzani",
+      "given": "Marco"
+    },
+    {
+      "raw": "Coccia, Maria Elisabetta",
+      "family": "Coccia",
+      "given": "Maria Elisabetta"
+    },
+    {
+      "raw": "Giusti, Emilia",
+      "family": "Giusti",
+      "given": "Emilia"
+    },
+    {
+      "raw": "Landini, Sara",
+      "family": "Landini",
+      "given": "Sara"
+    },
+    {
+      "raw": "Piazzini, Francesca",
+      "family": "Piazzini",
+      "given": "Francesca"
+    },
+    {
+      "raw": "Tocchioni, Valentina",
+      "family": "Tocchioni",
+      "given": "Valentina"
+    },
+    {
+      "raw": "Vignoli, Daniele",
+      "family": "Vignoli",
+      "given": "Daniele"
+    }
+  ],
+  "authors_text": "Cozzani, Marco; Coccia, Maria Elisabetta; Giusti, Emilia; Landini, Sara; Piazzini, Francesca; Tocchioni, Valentina; Vignoli, Daniele",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.20",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

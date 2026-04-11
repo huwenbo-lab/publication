@@ -1,0 +1,35 @@
+{
+  "title": "How the educational level of confidants impacts our political attitudes?",
+  "abstract": "The role of an individual's educational level in shaping their political attitudes is very well documented. Also, social networks formed by both our strong and weak ties are generally segregated by educational level. Dove-tailing these two observations raised the question of whether the educational level of one's confidants also independently impacts an individual's political attitudes; however, this question has gotten hardly any attention. Therefore, we theorize and study the role of education in the core discussion network, including the question under what conditions the influence of our confidant's education on our political attitudes is especially strong. Empirically, we use a random intercept cross-lagged panel model to disentangle selection effects from the influence effects of interest. We find a small but robust influence effect of confidants' educational attainment on political attitudes of ego. However, confidants' influence does not depend on the degree of dyadic political discussion, confidant newness, and dyadic similarity.",
+  "authors": [
+    {
+      "raw": "Jeroense, Thijmen",
+      "family": "Jeroense",
+      "given": "Thijmen"
+    },
+    {
+      "raw": "Spierings, Niels",
+      "family": "Spierings",
+      "given": "Niels"
+    },
+    {
+      "raw": "Tolsma, Jochem",
+      "family": "Tolsma",
+      "given": "Jochem"
+    }
+  ],
+  "authors_text": "Jeroense, Thijmen; Spierings, Niels; Tolsma, Jochem",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcae041",
+  "doi_url": "https://doi.org/10.1093/esr/jcae041",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae041",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae041.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

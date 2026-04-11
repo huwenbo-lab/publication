@@ -1,0 +1,25 @@
+{
+  "title": "Moderate Alcohol Consumption and the Risk of Mortality",
+  "abstract": "Abstract There has been a growing consensus that moderate consumption of alcohol is associated with a lower risk of mortality and that this association is probably causal. However, a recent review article has raised a serious challenge to this consensus. In short, it determined that most prior research in this area committed serious misclassification errors; furthermore, among those studies that were free of these misclassification errors, no support for a protective role of alcohol consumption was found. This article reexamines the issue using prospective data for more than 124,000 persons interviewed in the U.S. National Health Interview Surveys of 1997 through 2000 with mortality follow-up through 2002 using the Linked Mortality File. The study involves about 488,000 person-years. Controlling for a variety of covariates, this study finds that compared with nondrinkers, those who consume a moderate amount of alcohol have lower all-cause and CHD mortality. The fact that the current study has taken care to avoid the pitfalls of some earlier studies and still finds that those who consume a moderate amount of alcohol have lower all-cause mortality and CHD mortality lends credence to the argument that the relationship is causal.",
+  "authors": [
+    {
+      "raw": "Fuller, Theodore D.",
+      "family": "Fuller",
+      "given": "Theodore D."
+    }
+  ],
+  "authors_text": "Fuller, Theodore D.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0035-2",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0035-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0035-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0035-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

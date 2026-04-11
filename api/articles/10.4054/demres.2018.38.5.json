@@ -1,0 +1,30 @@
+{
+  "title": "Integrating occupations: Changing occupational sex segregation in the United States from 2000 to 2014",
+  "abstract": "BACKGROUND Declining occupational sex segregation in the late 20th century helped to usher in unprecedented occupational and economic advancement for women. As the 21st century dawned, that advancement stalled. OBJECTIVE We examine how occupational integration occurred in the early decades of the 21st century by focusing on (1) the extent of occupational feminization and masculinization and (2) occupational succession. More broadly we examine how the representation of women in detailed occupational categories changed between 2000 and 2014, regardless of whether they were historically 'male' or 'female,' and how sociodemographic characteristics contributed to uneven shifts in occupational integration. METHODS We use Integrated Public Use Microdata Series data to estimate the percentage point female at the detailed occupation level, specifically the 5% census microdata sample for 2000, and two 1% American Community Survey (ACS) samples for 2013 and 2014. RESULTS Despite a stall in overall integration, there was much fluctuation within detailed occupations. Moreover, occupational inroads have been uneven in the post-2000 period. Women gained entry into the same types of professional and managerial occupations they entered between 1970 and 2000, especially in the health professions. Men increased their representation in lower-level, nonprofessional occupations. CONTRIBUTION Rather than focus solely on predominantly male or female occupations, we focus more broadly on how occupations feminize and masculinize. More occupations masculinized than previously. Moreover, those in feminizing occupations are more likely to be advantaged (e.g., white, citizens, and educated), while those in masculinizing occupations are more likely to be disadvantaged (e.g., black, Hispanic, and poor English speakers).",
+  "authors": [
+    {
+      "raw": "Roos, Patricia A.",
+      "family": "Roos",
+      "given": "Patricia A."
+    },
+    {
+      "raw": "Stevens, Lindsay M.",
+      "family": "Stevens",
+      "given": "Lindsay M."
+    }
+  ],
+  "authors_text": "Roos, Patricia A.; Stevens, Lindsay M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.5",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

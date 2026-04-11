@@ -1,0 +1,25 @@
+{
+  "title": "The effects of state-managed marketplaces on out-of-pocket health care costs: Before and after the Affordable Care Act",
+  "abstract": "The healthcare marketplaces established by the Affordable Care Act (ACA) are intended to make healthcare more affordable and accessible for middle- and moderate-income families. However, state governments regulate many aspects of the insurance markets. This study examines how state-managed insurance marketplaces affect the ACA's impact on out-of-pocket healthcare spending across different income groups. A difference-in-difference model is used on the Panel Study of Income Dynamics data in conjunction with data from the Kaiser Family Foundation and Centers of Medicare and Medicaid Services. While expenses for middle and upper-income families across the country continue to rise, findings reveal that many ACA-eligible, moderate-income families experience relatively lower costs. State-managed marketplaces pronounce this constraining effect, especially for moderate-income families with incomes between 200% and 300% of the poverty line. The stratification-inspired approach furthermore provides insight to policymakers and judgment and decision-making scientists interested in how best to implement equitable choice-based programs among stratified communities.",
+  "authors": [
+    {
+      "raw": "Kline, Zachary D.",
+      "family": "Kline",
+      "given": "Zachary D."
+    }
+  ],
+  "authors_text": "Kline, Zachary D.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2023.100881",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100881",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100881",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100881.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

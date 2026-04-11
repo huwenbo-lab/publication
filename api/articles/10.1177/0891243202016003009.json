@@ -1,0 +1,50 @@
+{
+  "title": "Book Reviews",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "MORRISSEY, MARIETTA",
+      "family": "MORRISSEY",
+      "given": "MARIETTA"
+    },
+    {
+      "raw": "FOGELL, MELANIE",
+      "family": "FOGELL",
+      "given": "MELANIE"
+    },
+    {
+      "raw": "GLASBERG, DAVITA SILFEN",
+      "family": "GLASBERG",
+      "given": "DAVITA SILFEN"
+    },
+    {
+      "raw": "HESS, BETH B.",
+      "family": "HESS",
+      "given": "BETH B."
+    },
+    {
+      "raw": "LUCAL, BETSY",
+      "family": "LUCAL",
+      "given": "BETSY"
+    },
+    {
+      "raw": "MONTEMURRO, BETH",
+      "family": "MONTEMURRO",
+      "given": "BETH"
+    }
+  ],
+  "authors_text": "MORRISSEY, MARIETTA; FOGELL, MELANIE; GLASBERG, DAVITA SILFEN; HESS, BETH B.; LUCAL, BETSY; MONTEMURRO, BETH",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2002,
+  "doi": "10.1177/0891243202016003009",
+  "doi_url": "https://doi.org/10.1177/0891243202016003009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243202016003009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243202016003009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

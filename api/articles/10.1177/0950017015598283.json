@@ -1,0 +1,35 @@
+{
+  "title": "Work interruptions and young women’s career prospects in Germany, Sweden and the US",
+  "abstract": "This article assesses the impact of discontinuous work histories on young women’s occupational mobility in Germany, Sweden and the US. Women with continuous work histories are compared with those with gaps due to family leave, unemployment, or other reasons. The German Life History Study, the Swedish Level of Living Survey and the US National Longitudinal Survey of Youth are used to estimate Cox regression models of the transition rate to downward or upward occupational mobility. The results indicate that US women face increased downward mobility with increasing duration of both family leave and unemployment. German women with unemployment experience are also more likely to encounter downward mobility, but no such relationship is found for family leave. In Sweden, family leave experience reduces the chances of upward mobility. Results question the human capital approach, according to which skills should deteriorate at the same rate independent of the reason for the leave.",
+  "authors": [
+    {
+      "raw": "Evertsson, Marie",
+      "family": "Evertsson",
+      "given": "Marie"
+    },
+    {
+      "raw": "Grunow, Daniela",
+      "family": "Grunow",
+      "given": "Daniela"
+    },
+    {
+      "raw": "Aisenbrey, Silke",
+      "family": "Aisenbrey",
+      "given": "Silke"
+    }
+  ],
+  "authors_text": "Evertsson, Marie; Grunow, Daniela; Aisenbrey, Silke",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2015,
+  "doi": "10.1177/0950017015598283",
+  "doi_url": "https://doi.org/10.1177/0950017015598283",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017015598283",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017015598283.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

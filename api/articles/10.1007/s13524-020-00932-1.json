@@ -1,0 +1,30 @@
+{
+  "title": "Employment's Role in Enabling and Constraining Marriage in the Middle East and North Africa",
+  "abstract": "We investigate the role of employment in enabling and constraining marriage for young men and women in Egypt, Jordan, and Tunisia. Survival analysis methods for age at marriage are applied to comparable labor market panel surveys from Egypt (2012), Jordan (2010), and Tunisia (2014), which include detailed labor market histories. For men, employment and especially high-quality employment are associated with more rapid transitions to marriage. For women, past-but not contemporaneous-employment statuses are associated with more rapid transitions to marriage. After addressing endogeneity using residual-inclusion methods for the case of public sector employment (a type of high-quality employment), we find that such employment significantly accelerates marriage for men in Egypt and women in Egypt and Tunisia. The potential of high-quality employment to accelerate marriage may make queuing in unemployment while seeking high-quality employment a worthwhile strategy.",
+  "authors": [
+    {
+      "raw": "Krafft, Caroline",
+      "family": "Krafft",
+      "given": "Caroline"
+    },
+    {
+      "raw": "Assaad, Ragui",
+      "family": "Assaad",
+      "given": "Ragui"
+    }
+  ],
+  "authors_text": "Krafft, Caroline; Assaad, Ragui",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00932-1",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00932-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00932-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00932-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

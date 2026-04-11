@@ -1,0 +1,35 @@
+{
+  "title": "Indian paradox: Rising education, declining women's employment",
+  "abstract": "BACKGROUND Theories of human capital would suggest that with more education, women acquire greater skills and their earnings increase, resulting in higher labor force participation. However, it has been long known that in India, women's education has a U-shaped relationship with labor force participation. Part of the decline at moderate levels of education may be due to an income effect whereby women with more education marry into richer families that enable them to withdraw from the labor force. OBJECTIVE The paper uses the first comprehensive Indian income data to evaluate whether the other family income effect explains the negative relationship between moderate women's education and their labor force participation. METHODS Using two waves of the India Human Development Survey, a comprehensive measure of labor force participation is regressed on educational levels for currently married women aged 25-59. RESULTS We find a strong other family income effect that explains some but not all of the U-shape education relationship. Further analyses suggest the importance of a lack of suitable employment opportunities for moderately educated women. CONCLUSION Other factors need to be identified to explain the paradoxical U-shape relationship. We suggest the importance of occupational sex segregation, which excludes moderately educated Indian women from clerical and sales jobs.",
+  "authors": [
+    {
+      "raw": "Chatterjee, Esha",
+      "family": "Chatterjee",
+      "given": "Esha"
+    },
+    {
+      "raw": "Desai, Sonalde",
+      "family": "Desai",
+      "given": "Sonalde"
+    },
+    {
+      "raw": "Vanneman, Reeve",
+      "family": "Vanneman",
+      "given": "Reeve"
+    }
+  ],
+  "authors_text": "Chatterjee, Esha; Desai, Sonalde; Vanneman, Reeve",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.31",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

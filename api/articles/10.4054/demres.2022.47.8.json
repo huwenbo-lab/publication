@@ -1,0 +1,35 @@
+{
+  "title": "Leveraging deep neural networks to estimate age-specific mortality from life expectancy at birth",
+  "abstract": "BACKGROUND Life expectancy is one of the most informative indicators of population health and de-velopment. Its stability, which has been observed over time, has made the prediction and forecasting of life expectancy an appealing area of study. However, predicted or estimated values of life expectancy do not tell us about age-specific mortality. OBJECTIVE Reliable estimates of age-specific mortality are essential in the study of health inequal-ities, well-being and to calculate other demographic indicators. This task comes with several difficulties, including a lack of reliable data in many populations. Models that re-late levels of life expectancy to a full age-specific mortality profile are therefore important but scarce. METHODS We propose a deep neural networks (DNN) model to derive age-specific mortality from observed or predicted life expectancy by leveraging deep-learning algorithms akin to de-mography's indirect estimation techniques. RESULTS Out-of-sample validation was used to validate the model, and the predictive performance of the DNN model was compared with two state-of-the-art models. The DNN model provides reliable estimates of age-specific mortality for the United States, Italy, Japan, and Russia using data from the Human Mortality Database. CONTRIBUTION We show how the DNN model could be used to estimate age-specific mortality for coun-tries without age-specific data using neighbouring information or populations with sim-ilar mortality dynamics. We take a step forward among demographic methods, offering a multi-population indirect estimation based on a data driven-approach, that can be fitted to many populations simultaneously, using DNN optimisation approaches.",
+  "authors": [
+    {
+      "raw": "Nigri, Andrea",
+      "family": "Nigri",
+      "given": "Andrea"
+    },
+    {
+      "raw": "Levantesi, Susanna",
+      "family": "Levantesi",
+      "given": "Susanna"
+    },
+    {
+      "raw": "Aburto, Jose Manuel",
+      "family": "Aburto",
+      "given": "Jose Manuel"
+    }
+  ],
+  "authors_text": "Nigri, Andrea; Levantesi, Susanna; Aburto, Jose Manuel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.8",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

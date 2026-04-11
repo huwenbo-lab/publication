@@ -1,0 +1,30 @@
+{
+  "title": "Assessing age trajectories (of subjective well-being): clarifying estimands, identification assumptions, and estimation strategies",
+  "abstract": "Assessments of age trajectories are crucial for various strands of sociological research. This study provides guidance on how to estimate age trajectories by discussing a research design to answer the question, 'How does aging affect subjective well-being?' We define the estimand, discuss key identification and estimation assumptions, and propose-informed by this discussion-a research design. By contrasting our design with those of previous studies, we conclude that many prior investigations were affected by three biases related to identification and one bias concerning estimation. Using extensive panel data from the German Socio-Economic Panel Study (SOEP), we demonstrate that these four biases contributed to mixed empirical evidence, producing distortions that led to even qualitatively different conclusions. Finally, we discuss implications of our study for life course research and for enhancing the credibility of social science more broadly.",
+  "authors": [
+    {
+      "raw": "Kratz, Fabian",
+      "family": "Kratz",
+      "given": "Fabian"
+    },
+    {
+      "raw": "Bruderl, Josef",
+      "family": "Bruderl",
+      "given": "Josef"
+    }
+  ],
+  "authors_text": "Kratz, Fabian; Bruderl, Josef",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf038",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf038",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf038",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf038.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

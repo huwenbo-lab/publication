@@ -1,0 +1,30 @@
+{
+  "title": "Societal Pessimism and the Transition to Parenthood: A Future Too Bleak to Have Children?",
+  "abstract": "Contemporary adults often cite economic uncertainty, global warming, and increasing inequality as reasons for intending not to have children. Despite extensive research on the impact of societal pessimism on attitudes towards out-group members, political preferences, and voting behaviors, its impact on demographic behaviors, such as fertility, has received little attention. This study examines the relationship between societal pessimism-captured through individuals' negative perception of the future of the next generation-and their likelihood of becoming a parent. Using data from the Dutch Longitudinal Internet studies for the Social Sciences (LISS), we use discrete-time event history models to estimate the probability of becoming a parent in a given year based on respondents' self-reported negative assessment of the future of the next generation in six distinct areas. Our results demonstrate that perceiving the future of the coming generation as worse than today is associated with a lower probability of becoming a parent. These findings suggest that surveys aimed at understanding fertility behaviors should incorporate questions about individuals' perceptions of the future, in addition to their own contemporaneous conditions.",
+  "authors": [
+    {
+      "raw": "Ivanova, Katya",
+      "family": "Ivanova",
+      "given": "Katya"
+    },
+    {
+      "raw": "Balbo, Nicoletta",
+      "family": "Balbo",
+      "given": "Nicoletta"
+    }
+  ],
+  "authors_text": "Ivanova, Katya; Balbo, Nicoletta",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12620",
+  "doi_url": "https://doi.org/10.1111/padr.12620",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12620",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12620.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

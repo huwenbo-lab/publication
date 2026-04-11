@@ -1,0 +1,30 @@
+{
+  "title": "Asymmetry by Design? Identity Obfuscation, Reputational Pressure, and Consumer Predation in US For-Profit Higher Education",
+  "abstract": "This article develops and tests an identity-based account of malfeasance in consumer markets. We hypothesize that multi-brand organizational structures help predatory firms short-circuit reputational discipline by rendering their underlying identities opaque to consumer audiences. The analysis utilizes comprehensive administrative data on all U.S. for-profit colleges, an industry characterized by widespread fraud and poor (although variable) educational outcomes. Consistent with the hypothesis that brand multiplicity facilitates malfeasance by reducing ex ante reputational risks, colleges that are part of multi-brand companies invest less in instruction, have worse student outcomes, and are more likely to face legal and regulatory sanctions (relative to single-brand firms). Maintaining multiple outward-facing brand identities also mitigates reputational penalties in the wake of law enforcement actions, as measured by news coverage of legal actions, and by subsequent enrollment growth. The results suggest identity multiplicity plays a key role in allowing firms to furnish substandard products, even amid frequent scandals and media scrutiny. Predatory practices are facilitated not only by the inherent informational asymmetries in a given product, but also by firms' efforts to make themselves less legible to audiences. The analysis contributes to research on higher education, organizational theory, and the sociology of markets.",
+  "authors": [
+    {
+      "raw": "Goldstein, Adam",
+      "family": "Goldstein",
+      "given": "Adam"
+    },
+    {
+      "raw": "Eaton, Charlie",
+      "family": "Eaton",
+      "given": "Charlie"
+    }
+  ],
+  "authors_text": "Goldstein, Adam; Eaton, Charlie",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/00031224211043223",
+  "doi_url": "https://doi.org/10.1177/00031224211043223",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211043223",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211043223.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

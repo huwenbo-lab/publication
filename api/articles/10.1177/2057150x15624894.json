@@ -1,0 +1,30 @@
+{
+  "title": "Housing inequality in urban China",
+  "abstract": "Using data from a nationwide longitudinal survey, the current inequalities in housing conditions, property, ownership rate, market value, and dynamic changes of housing with difficulties were studied, and the affected factors from the characteristics of households and regional variations in urban China were explored. It was found that 77% of urban households owned their own houses, but 14% had housing difficulties in 2012. In addition, it was found that more than 67% of families owned one house, and more than 15% owned two or more. The median market value of current housing was 250,000 yuan, and the median market value per square meter was 2587 yuan. Finally, it was determined that household-level characteristics played important roles in housing inequality, and that regional variations significantly affected the likelihood of housing difficulties being present.",
+  "authors": [
+    {
+      "raw": "Ren, Qiang",
+      "family": "Ren",
+      "given": "Qiang"
+    },
+    {
+      "raw": "Hu, Rongqin",
+      "family": "Hu",
+      "given": "Rongqin"
+    }
+  ],
+  "authors_text": "Ren, Qiang; Hu, Rongqin",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2016,
+  "doi": "10.1177/2057150x15624894",
+  "doi_url": "https://doi.org/10.1177/2057150x15624894",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x15624894",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x15624894.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

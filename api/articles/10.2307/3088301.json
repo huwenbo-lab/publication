@@ -1,0 +1,40 @@
+{
+  "title": "A Cross-National Comparison of the Impact of Family Migration on Women's Employment Status",
+  "abstract": "In this paper we consider the effects of family migration on women's employment status, using census microdata from Great Britain and the United States. We test a simple hypothesis that families tend to move long distances in favor of the male's career and that this can have a detrimental effect on women's employment status. Unlike many previous studies of this question, our work emphasizes the importance of identifying couples that have migrated together, rather than simply comparing long-distance (fe)male migrants with nonmigrant (fe)males individually. We demonstrate that women's employment status is harmed by family migration; the results we present are surprisingly consistent for Great Britain and the United States, despite differing economic situations and cultural norms regarding gender and migration. We also demonstrate that studies that fail to identify linked migrant couples are likely to underestimate the negative effects of family migration on women's employment status.",
+  "authors": [
+    {
+      "raw": "Boyle, Paul",
+      "family": "Boyle",
+      "given": "Paul"
+    },
+    {
+      "raw": "Cooke, Thomas J.",
+      "family": "Cooke",
+      "given": "Thomas J."
+    },
+    {
+      "raw": "Halfacree, Keith",
+      "family": "Halfacree",
+      "given": "Keith"
+    },
+    {
+      "raw": "Smith, Darren",
+      "family": "Smith",
+      "given": "Darren"
+    }
+  ],
+  "authors_text": "Boyle, Paul; Cooke, Thomas J.; Halfacree, Keith; Smith, Darren",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.2307/3088301",
+  "doi_url": "https://doi.org/10.2307/3088301",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088301",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088301.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

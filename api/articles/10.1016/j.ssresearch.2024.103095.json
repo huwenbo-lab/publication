@@ -1,0 +1,30 @@
+{
+  "title": "The effect of grandparental involvement on grandchildren's school grades: Heterogeneity by the extended family characteristics",
+  "abstract": "As the early years are crucial for individuals' lifelong socioeconomic success, extensive research has examined the impact of non-maternal childcare on children's development. This study aims to enhance the understanding of the relationship between grandparental involvement (defined as grandparent childcare, frequency of contact, and financial support) and grandchildren's school grades, exploring a mechanism of positive selection: children from extended families with specific socioeconomic characteristics are more likely to spend time with grandparents and benefit the most from this involvement. We utilize data from the German Pairfam survey, which uniquely provides rich information on three family generations. By conducting a heterogeneous treatment effect analysis, we account for confounding factors associated with grandparental involvement and school performance that could bias our findings. For example, children from advantaged families could be more likely to spend time with grandparents and achieve better school grades. Additionally, this approach examines whether the effect of grandparental involvement systematically varies across children based on the extended family's characteristics. For example, children from advantaged families may benefit the most from spending time with grandparents who possess social, cultural, and cognitive resources conducive to their development. After accounting for confounding factors and heterogeneity, our analyses do not reveal a statistically significant effect of grandparental investment on children's school grades. The study concludes by discussing possible reasons for this result and highlighting the implications for the intergenerational transmission of inequality.",
+  "authors": [
+    {
+      "raw": "Zanasi, Francesca",
+      "family": "Zanasi",
+      "given": "Francesca"
+    },
+    {
+      "raw": "Bordone, Valeria",
+      "family": "Bordone",
+      "given": "Valeria"
+    }
+  ],
+  "authors_text": "Zanasi, Francesca; Bordone, Valeria",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2024.103095",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103095",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103095",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103095.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

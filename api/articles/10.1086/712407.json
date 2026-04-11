@@ -1,0 +1,30 @@
+{
+  "title": "Is Lying Contagious? Spatial Diffusion of High-Yield Satellites during China's Great Leap Forward",
+  "abstract": "Situated in China's Great Leap Forward (GLF) campaign in 1958, this study examines the spatial diffusion of launching high-yield satellites-exaggerating grain yields, which contributed to the 1959-61 GLF famine that claimed millions of human lives. The authors conceptualize exaggerating grain yields as a political innovation adopted by local cadres to endorse the GLF and signal political loyalty to their superiors. Using geocoded county-level event history data from historical newspaper archives, the authors found that the diffusion of exaggerating grain yields across the country was primarily driven by the interaction between geographic proximity and political proximity.",
+  "authors": [
+    {
+      "raw": "Xu, Hongwei",
+      "family": "Xu",
+      "given": "Hongwei"
+    },
+    {
+      "raw": "Tian, Geng",
+      "family": "Tian",
+      "given": "Geng"
+    }
+  ],
+  "authors_text": "Xu, Hongwei; Tian, Geng",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2020,
+  "doi": "10.1086/712407",
+  "doi_url": "https://doi.org/10.1086/712407",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F712407",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/712407.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

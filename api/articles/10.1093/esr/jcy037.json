@@ -1,0 +1,25 @@
+{
+  "title": "Some Methodological Problems in the Study of Multigenerational Mobility",
+  "abstract": "A number of recent studies by sociologists have sought to discover whether a person's status (typically their social class, education, or socio-economic status) is directly affected by the status of their grandparents, once the effects of parents' status are controlled. The results have been ambiguous, with some studies finding a direct effect of grandparents on their grandchildren, while others find no effect. I use causal graphical methods to demonstrate some of the methodological problems that occur in trying to identify this direct effect, and I offer some suggestions as to how they might be addressed.",
+  "authors": [
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    }
+  ],
+  "authors_text": "Breen, Richard",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy037",
+  "doi_url": "https://doi.org/10.1093/esr/jcy037",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy037",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy037.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

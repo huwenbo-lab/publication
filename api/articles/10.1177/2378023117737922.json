@@ -1,0 +1,25 @@
+{
+  "title": "Arrested by Skin Color: Evidence from Siblings and a Nationally Representative Sample",
+  "abstract": "Racial disparities in the criminal justice system are striking, but social scientists know little about skin color inequalities within this system. Research demonstrates that racial minorities with darker skin are more disadvantaged than their lighter skinned counterparts. However, scholars often analyze individuals across families without considering that skin color differences also exist within families. I improve on prior studies with an underused, within-family approach using data from the National Longitudinal Study of Adolescent to Adult Health. I first examine the relationship between skin color and being arrested among a male nationally representative sample. Furthermore, to account for mutual unobserved and observed family characteristics, I use sibling fixed effects models to consider whether skin color disparities in arrest outcomes occur between brothers. Even when analyzing family members, I find that having darker skin remains a significant predictor for being arrested.",
+  "authors": [
+    {
+      "raw": "Kizer, Jessica M.",
+      "family": "Kizer",
+      "given": "Jessica M."
+    }
+  ],
+  "authors_text": "Kizer, Jessica M.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2017,
+  "doi": "10.1177/2378023117737922",
+  "doi_url": "https://doi.org/10.1177/2378023117737922",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023117737922",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023117737922.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

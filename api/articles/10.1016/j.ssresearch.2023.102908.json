@@ -1,0 +1,30 @@
+{
+  "title": "Conformity or contrast? Simultaneous effect of grademates and classmates on students' educational aspirations",
+  "abstract": "This study examines the relationship between peers' cognitive abilities and students' educational aspirations. The big-fish-little-pond effect (BFLPE) predicts that compared with equally able counterparts, students tend to have higher educational aspirations when the average ability of their surrounding peers is relatively low. Meanwhile, the local dominance effect claims that the association changes between educational aspirations and peers' ability from relatively local to relatively distant peers; closer distance leads to stronger associations. In addition, some empirical findings contradict the notion that students' aspirations are positively associated with their high achieving classmates. This study combines the BFLPE and local dominance effect into one theoretical framework and explores whether the higher aspiration-inferior peers hypothesis stands at the class and grade levels. Using data from the 2014-2015 China Education Panel Survey and employing multilevel regression modeling, this study finds opposite associations in class and grade. The findings indicate that when classmates' cognitive ability is controlled, students feel negative pressure from their grademates. Better performance exhibited by their grademates results in their relatively low educational aspirations. However, at the class level, the negative correlation by peer comparison with excellent classmates is offset by positive associations brought about by these peers. The findings of this study support the hypotheses that students' educational aspirations are positively correlated with their peers' cognitive abilities as long as their local peers are relatively high achievers, and their distant peers are relatively low achievers.",
+  "authors": [
+    {
+      "raw": "Yuan, Xiao",
+      "family": "Yuan",
+      "given": "Xiao"
+    },
+    {
+      "raw": "Olivos, Francisco",
+      "family": "Olivos",
+      "given": "Francisco"
+    }
+  ],
+  "authors_text": "Yuan, Xiao; Olivos, Francisco",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102908",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102908",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102908",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102908.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

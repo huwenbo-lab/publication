@@ -1,0 +1,25 @@
+{
+  "title": "Race, military service, and marital timing: Evidence from the NLSY-79",
+  "abstract": "Abstract I use data from the 1979 National Longitudinal Study of Youth to examine the relationship between military service and marital timing for white men and black men during the 1980s. I use information about active-duty and reserve-duty service as well as veteran status to implement strong controls for selectivity. I find that active-duty military service increases the probability of first marriage for both whites and blacks. In part, this relationship is due to positive selectivity into the military and, for whites, to greater income and economic stability. Above and beyond the effects of selectivity, income, and economic stability, the effect of active-duty military service is particularly strong for black men.",
+  "authors": [
+    {
+      "raw": "Teachman, Jay",
+      "family": "Teachman",
+      "given": "Jay"
+    }
+  ],
+  "authors_text": "Teachman, Jay",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0018",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

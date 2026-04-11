@@ -1,0 +1,30 @@
+{
+  "title": "The Cancer Transition in Japan since 1951",
+  "abstract": "The overall trend of cancer mortality in Japan has been decreasing since the 1960s (age-standardized death rates for ages 30-69), though trends differ enormously among various forms of the disease. Cancer mortality was heavily influenced by Japanese po",
+  "authors": [
+    {
+      "raw": "Gersten, Omer",
+      "family": "Gersten",
+      "given": "Omer"
+    },
+    {
+      "raw": "Wilmoth, John R.",
+      "family": "Wilmoth",
+      "given": "John R."
+    }
+  ],
+  "authors_text": "Gersten, Omer; Wilmoth, John R.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2002,
+  "doi": "10.4054/demres.2002.7.5",
+  "doi_url": "https://doi.org/10.4054/demres.2002.7.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2002.7.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2002.7.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

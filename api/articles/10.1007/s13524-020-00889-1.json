@@ -1,0 +1,35 @@
+{
+  "title": "A Bayesian Reconstruction of a Historical Population in Finland, 1647-1850",
+  "abstract": "This article provides a novel method for estimating historical population development. We review the previous literature on historical population time-series estimates and propose a general outline to address the well-known methodological problems. We use a Bayesian hierarchical time-series model that allows us to integrate the parish-level data set and prior population information in a coherent manner. The procedure provides us with model-based posterior intervals for the final population estimates. We demonstrate its applicability by estimating the long-term development of Finland's population from 1647 onward and simultaneously place the country among the very few to have an annual population series of such length available.",
+  "authors": [
+    {
+      "raw": "Voutilainen, Miikka",
+      "family": "Voutilainen",
+      "given": "Miikka"
+    },
+    {
+      "raw": "Helske, Jouni",
+      "family": "Helske",
+      "given": "Jouni"
+    },
+    {
+      "raw": "Hogmander, Harri",
+      "family": "Hogmander",
+      "given": "Harri"
+    }
+  ],
+  "authors_text": "Voutilainen, Miikka; Helske, Jouni; Hogmander, Harri",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00889-1",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00889-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00889-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00889-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

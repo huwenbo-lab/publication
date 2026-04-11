@@ -1,0 +1,50 @@
+{
+  "title": "Environmental Inequality in Four European Cities: A Study Combining Household Survey and Geo-Referenced Data",
+  "abstract": "Combining individual-level survey data and geo-referenced administrative noise data for four European cities (Bern, Zurich, Hanover, and Mainz; n = 7,450), we test the social gradient hypothesis, which states that exposure to residential noise is higher for households in a lower socioeconomic position (measured by income and migration background). In addition, we introduce and test the 'environmental shielding hypothesis', which states that, given environmental 'bads' in the neighbourhood, privileged social groups have better opportunities to shield themselves against them. Our results show that, for many residents of the four cities, observed road traffic and aircraft noise levels are above World Health Organization limits. Estimates of spatial error regression models only partly support the social gradient hypothesis. While we find significant but relatively small income effects and somewhat stronger effects of having a (non-Western) migration background, these effects are not significant in all cities. However, especially high-income households are more capable of avoiding exposure to indoor noise. Due to their residence characteristics and having the resources to maintain high standards of noise protection, these households have more capabilities to shield themselves against environmental bads in their neighbourhood. This supports the environmental shielding hypothesis.",
+  "authors": [
+    {
+      "raw": "Diekmann, Andreas",
+      "family": "Diekmann",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Bruderer Enzler, Heidi",
+      "family": "Bruderer Enzler",
+      "given": "Heidi"
+    },
+    {
+      "raw": "Hartmann, Joerg",
+      "family": "Hartmann",
+      "given": "Joerg"
+    },
+    {
+      "raw": "Kurz, Karin",
+      "family": "Kurz",
+      "given": "Karin"
+    },
+    {
+      "raw": "Liebe, Ulf",
+      "family": "Liebe",
+      "given": "Ulf"
+    },
+    {
+      "raw": "Preisendoerfer, Peter",
+      "family": "Preisendoerfer",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Diekmann, Andreas; Bruderer Enzler, Heidi; Hartmann, Joerg; Kurz, Karin; Liebe, Ulf; Preisendoerfer, Peter",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac028",
+  "doi_url": "https://doi.org/10.1093/esr/jcac028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

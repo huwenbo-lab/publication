@@ -1,0 +1,35 @@
+{
+  "title": "Facing up to uncertain life expectancy: The longevity fan charts",
+  "abstract": "Abstract This article uses longevity fan charts to represent the uncertainty in projections of future life expectancy. These fan charts are based on a mortality model calibrated on mortality data for English and Welsh males. The fan charts indicate strong upward sloping trends in future life expectancy. Their widths indicate the extent of uncertainty in these projections, and this uncertainty increases as the forecast horizon lengthens. Allowing for uncertainty in the parameter values of the model adds further to uncertainty in life expectancy projections. The article also illustrates how longevity fan charts can be used to stress-test longevity outcomes.",
+  "authors": [
+    {
+      "raw": "Dowd, Kevin",
+      "family": "Dowd",
+      "given": "Kevin"
+    },
+    {
+      "raw": "Blake, David",
+      "family": "Blake",
+      "given": "David"
+    },
+    {
+      "raw": "Cairns, Andrew J.G.",
+      "family": "Cairns",
+      "given": "Andrew J.G."
+    }
+  ],
+  "authors_text": "Dowd, Kevin; Blake, David; Cairns, Andrew J.G.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0083",
+  "doi_url": "https://doi.org/10.1353/dem.0.0083",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0083",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0083.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

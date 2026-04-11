@@ -1,0 +1,30 @@
+{
+  "title": "Beyond the Paycheck: Family Systems, Adult Children's Job Sector, and Parental Subjective Well-Being in China",
+  "abstract": "ObjectiveApplying family systems theory, this study examines the relationship between adult children's job sector (public vs. private) and parental subjective well-being in post-reform China. Gender disparity and mechanisms have also been examined.BackgroundIndividual development is shaped by multilevel interactions within the systematic family units, embedded in larger social structure contexts. The market transition in China, which contributed to a fragmented labor market and divided welfare regimes, may have reshaped the micro parent-child interconnections. Adult children's life circumstances, differentiated by social structures, may lead to inequalities in well-being among the older generation.MethodDrawing on data from the China Family Panel Studies (CFPS), this study uses the Inverse Probability of Treatment Weighting (IPTW) to investigate the association between children's job sector and parental well-being while controlling for the observable confounding bias. KHB (Karlson-Holm-Breen) analysis is used to examine the mediators with the weighted sample.ResultsAdult children's state-sector employment is associated with improved parental subjective well-being, but only daughters' state-sector jobs significantly favor parental subjective well-being. The relationships are partly mediated by daughters' well-being and emotional support toward parents.ConclusionAdopting a systemic approach to understanding social changes, family dynamics, and personal functioning, this study illustrates how a segmented labor market and divided welfare regimes significantly influence individual well-being through the family process.",
+  "authors": [
+    {
+      "raw": "Zhao, Mengke",
+      "family": "Zhao",
+      "given": "Mengke"
+    },
+    {
+      "raw": "Tong, Yuying",
+      "family": "Tong",
+      "given": "Yuying"
+    }
+  ],
+  "authors_text": "Zhao, Mengke; Tong, Yuying",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13110",
+  "doi_url": "https://doi.org/10.1111/jomf.13110",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13110",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13110.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

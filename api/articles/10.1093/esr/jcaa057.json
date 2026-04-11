@@ -1,0 +1,30 @@
+{
+  "title": "Sibling Models, Categorical Outcomes, and the Intra-Class Correlation",
+  "abstract": "In sibling models with categorical outcomes the question arises of how best to calculate the intraclass correlation, ICC. We show that, for this purpose, the random effects linear probability model is preferable to a random effects non-linear probability model, such as a logit or probit. This is because, for a binary outcome, the ICC derived from a random effects linear probability model is a non-parametric estimate of the ICC, equivalent to a statistic called Cohen's j. Furthermore, because j can be calculated when the outcome has more than two categories, we can use the random effects linear probability model to compute a single ICC in cases with more than two outcome categories. Lastly, ICCs are often compared between groups to show the degree to which sibling differences vary between groups: we show that when the outcome is categorical these comparisons are invalid. We suggest alternative measures for this purpose.",
+  "authors": [
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    },
+    {
+      "raw": "Ermisch, John",
+      "family": "Ermisch",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Breen, Richard; Ermisch, John",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa057",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa057",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa057",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa057.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

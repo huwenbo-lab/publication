@@ -1,0 +1,25 @@
+{
+  "title": "Income volatility and mobility: A conceptual exploration of two frameworks",
+  "abstract": "This paper explores two frameworks for measuring income volatility using data from the Panel Study of Income Dynamics. The permanent income framework measures volatility as the standard deviation of income change in a study period, which classifies all change in income as volatile. The income trend framework measures volatility as the standard deviation of income change from an individual's own income trend line, which distinguishes the amount from the direction of income change. Results from a hierarchical linear model suggest that a large proportion of income volatility is explained by the income trend line. Results from a fixed effects model suggest that the distribution of income volatility by the direction of the trend line is unequal. Declining income is more volatile than rising income.",
+  "authors": [
+    {
+      "raw": "Latner, Jonathan P.",
+      "family": "Latner",
+      "given": "Jonathan P."
+    }
+  ],
+  "authors_text": "Latner, Jonathan P.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2018,
+  "doi": "10.1016/j.rssm.2017.10.002",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2017.10.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2017.10.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2017.10.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

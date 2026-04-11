@@ -1,0 +1,30 @@
+{
+  "title": "We (Have to) Try Harder",
+  "abstract": "Across three decades in both Britain and the United States, surveys indicate that women must work harder than men do. Using data from the 1997 Skills Survey of the Employed British Workforce (U.K.) and the 1997 National Study of the Changing Workforce (U.S.), the authors investigate two possible explanations for this gap in reports of required effort: gender differences in job characteristics and family responsibilities. In multivariate ordered logistic regressions, extensive measures of job characteristics do not explain the difference between women and men. Family obligations, as well, account for little or none of the gap. The authors argue that the association between gender and reported required work effort is best interpreted as reflecting stricter performance standards imposed on women, even when women and men hold the same jobs. The authors discuss alternative interpretations and implications for research.",
+  "authors": [
+    {
+      "raw": "Gorman, Elizabeth H.",
+      "family": "Gorman",
+      "given": "Elizabeth H."
+    },
+    {
+      "raw": "Kmec, Julie A.",
+      "family": "Kmec",
+      "given": "Julie A."
+    }
+  ],
+  "authors_text": "Gorman, Elizabeth H.; Kmec, Julie A.",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2007,
+  "doi": "10.1177/0891243207309900",
+  "doi_url": "https://doi.org/10.1177/0891243207309900",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243207309900",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243207309900.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

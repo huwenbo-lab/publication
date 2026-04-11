@@ -1,0 +1,35 @@
+{
+  "title": "Non-family Living Arrangements Among Young Adults in the United States",
+  "abstract": "Abstract The share of young adults living in married-couple family households in the USA has declined in recent decades. Research on alternative living arrangements focuses on cohabitation among unmarried couples and parent–adult child coresidence. Less is known about trends in non-family living arrangements and the characteristics of young adults living with non-relatives. This study documents trends over time in non-family living arrangements among young adults in the USA and examines the sociodemographic profile of those living with non-relatives. Using pooled US Census and American Community Survey microdata from 1990 to 2019, the authors document age patterns in non-family living arrangements over time and use logistic regression to estimate the likelihood of living with non-family based on individual-level characteristics. Results indicate that non-family living among young adults has increased over time, and that the arrangement is associated with markers of both advantage and disadvantage. Differences across age groups explain some of these mixed results. Trends among younger groups are linked to socioeconomic patterns around family formation. Among older groups, the demographic and labor force characteristics of the foreign born and constraints of their kin availability may be driving trends. The exploratory analysis provides relevant evidence around an increasingly common living arrangement in the USA and also identifies several areas for future research on living arrangements among young adults and the implications of these trends.",
+  "authors": [
+    {
+      "raw": "Jeffers, Kristen",
+      "family": "Jeffers",
+      "given": "Kristen"
+    },
+    {
+      "raw": "Esteve, Albert",
+      "family": "Esteve",
+      "given": "Albert"
+    },
+    {
+      "raw": "Batyra, Ewa",
+      "family": "Batyra",
+      "given": "Ewa"
+    }
+  ],
+  "authors_text": "Jeffers, Kristen; Esteve, Albert; Batyra, Ewa",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-024-09696-5",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09696-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09696-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09696-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Diversity, semi-communication and cross-country trust: A quantitative analysis",
+  "abstract": "Existing trust research has often failed to account for the possibility that communication impairments brought on by language barriers could explain low levels of trust both within and between countries. To test whether this is the case, I construct an 'index of communication potential' for a sample of 359 cross-country dyads composed of 21 European countries. Although similar indexes have been used previously, this is the first one to include instances of 'semi-communication' between related languages when calculating communication potential. Multiple regression analysis indicated not only that greater communication potential was associated with greater cross-country trust, but that this relationship was monotonic: semi-communication was also associated with greater trust, but the link was weaker than for actually sharing a language.",
+  "authors": [
+    {
+      "raw": "Kumove, Michael",
+      "family": "Kumove",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Kumove, Michael",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102392",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102392",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102392",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102392.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

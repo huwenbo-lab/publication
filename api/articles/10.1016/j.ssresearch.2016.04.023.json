@@ -1,0 +1,40 @@
+{
+  "title": "Spatio-temporal filtering techniques for the detection of disaster-related communication",
+  "abstract": "Individuals predominantly exchange information with one another through informal, interpersonal channels. During disasters and other disrupted settings, information spread through informal channels regularly outpaces official information provided by public officials and the press. Social scientists have long examined this kind of informal communication in the rumoring literature, but studying rumoring in disrupted settings has posed numerous methodological challenges. Measuring features of informal communication timing, content, location with any degree of precision has historically been extremely challenging in small studies and infeasible at large scales. We address this challenge by using online, informal communication from a popular microblogging website and for which we have precise spatial and temporal metadata. While the online environment provides a new means for observing rumoring, the abundance of data poses challenges for parsing hazard-related rumoring from countless other topics in numerous streams of communication. Rumoring about disaster events is typically temporally and spatially constrained to places where that event is salient. Accordingly, we use spatio and temporal subsampling to increase the resolution of our detection techniques. By filtering out data from known sources of error (per rumor theories), we greatly enhance the signal of disaster-related rumoring activity. We use these spatio-temporal filtering techniques to detect rumoring during a variety of disaster events, from high-casualty events in major population centers to minimally destructive events in remote areas. We consistently find three phases of response: anticipatory excitation where warnings and alerts are issued ahead of an event, primary excitation in and around the impacted area, and secondary excitation which frequently brings a convergence of attention from distant locales onto locations impacted by the event. Our results demonstrate the promise of spatio-temporal filtering techniques for tuning measurement of hazard-related rumoring to enable observation of rumoring at scales that have long been infeasible. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Fitzhugh, Sean M.",
+      "family": "Fitzhugh",
+      "given": "Sean M."
+    },
+    {
+      "raw": "Ben Gibson, C.",
+      "family": "Ben Gibson",
+      "given": "C."
+    },
+    {
+      "raw": "Spiro, Emma S.",
+      "family": "Spiro",
+      "given": "Emma S."
+    },
+    {
+      "raw": "Butts, Carter T.",
+      "family": "Butts",
+      "given": "Carter T."
+    }
+  ],
+  "authors_text": "Fitzhugh, Sean M.; Ben Gibson, C.; Spiro, Emma S.; Butts, Carter T.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.04.023",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.04.023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.04.023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.04.023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

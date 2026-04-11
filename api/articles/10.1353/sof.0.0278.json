@@ -1,0 +1,40 @@
+{
+  "title": "Education Differences in Intended and Unintended Fertility",
+  "abstract": "Using a hazards framework and panel data from the National Longitudinal Survey of Youth (1979-2004), we analyze the fertility patterns of a recent cohort of white and black women in the United States. We examine how completed fertility varies by women's education, differentiating between intended and unintended births. We find that the education gradient on fertility comes largely from unintended childbearing, and it is not explained by child-bearing desires or opportunity costs, the two most common explanations in previous research. Less-educated women want no more children than the more educated, so this factor explains none of their higher completed fertility. Less-educated women have lower wages, but wages have little of the negative effect on fertility predicted by economic theories of opportunity cost. We propose three other potential mechanisms linking low education and unintended childbearing, focusing on access to contraception and abortion, relational and economic uncertainty, and consistency in the behaviors necessary to avoid unintended pregnancies. Our work highlights the need to incorporate these mechanisms into future research.",
+  "authors": [
+    {
+      "raw": "Musick, K.",
+      "family": "Musick",
+      "given": "K."
+    },
+    {
+      "raw": "England, P.",
+      "family": "England",
+      "given": "P."
+    },
+    {
+      "raw": "Edgington, S.",
+      "family": "Edgington",
+      "given": "S."
+    },
+    {
+      "raw": "Kangas, N.",
+      "family": "Kangas",
+      "given": "N."
+    }
+  ],
+  "authors_text": "Musick, K.; England, P.; Edgington, S.; Kangas, N.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0278",
+  "doi_url": "https://doi.org/10.1353/sof.0.0278",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0278",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0278.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

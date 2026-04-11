@@ -1,0 +1,40 @@
+{
+  "title": "Subjective health in adolescence: Comparing the reliability of contemporaneous, retrospective, and proxy reports of overall health",
+  "abstract": "Self-rated health (SRH) is one of the most important social science measures of health. Yet its measurement properties remain poorly understood. Most studies ignore the measurement error in SRH despite the bias resulting from even random measurement error. Our goal is to estimate the measurement reliability of SRH in contemporaneous, retrospective, and proxy indicators. We use the National Longitudinal Study of Adolescent to Adult Health to estimate the reliability of SRH relative to proxy assessments and respondents? recollections of past health. Even the best indicators ? contemporaneous self-reports ? have a modest reliability of -0.6; retrospective and proxy assessments fare much worse, with reliability less than 0.2. Moreover, not correcting for measurement error in SRH leads to a -20?40% reduction in its correlation with other measures of health. Researchers should be skeptical of analyses that treat these subjective reports as explanatory variables and fail to take account of their substantial measurement error.",
+  "authors": [
+    {
+      "raw": "Bollen, Kenneth A.",
+      "family": "Bollen",
+      "given": "Kenneth A."
+    },
+    {
+      "raw": "Gutin, Iliya",
+      "family": "Gutin",
+      "given": "Iliya"
+    },
+    {
+      "raw": "Halpern, Carolyn T.",
+      "family": "Halpern",
+      "given": "Carolyn T."
+    },
+    {
+      "raw": "Harris, Kathleen M.",
+      "family": "Harris",
+      "given": "Kathleen M."
+    }
+  ],
+  "authors_text": "Bollen, Kenneth A.; Gutin, Iliya; Halpern, Carolyn T.; Harris, Kathleen M.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102538",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102538",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102538",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102538.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

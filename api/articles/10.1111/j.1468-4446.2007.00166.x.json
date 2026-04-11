@@ -1,0 +1,30 @@
+{
+  "title": "Social stratification and attitudes: a comparative analysis of the effects of class and education in Europe",
+  "abstract": "AbstractA classic topic in the sociology of inequality lies in the subjective consequences of people's stratification position. Many studies have shown that education and occupational class have significant effects on attitudes, but little is known about how the magnitude of these effects depends on the societal context. There has been debate in the scholarly literature, with some authors arguing that effects of class and education are less important when societies are more developed, whereas other authors argue that effects are either stable (for class) or increasing (for education). We use a meta‐analytical design to address this debate. More specifically we examine the effects of class and education for a broad range of attitudes (21 scales) in 22 European countries using data from the 1999 wave of the European Values Study. We pool summary‐measures of association (Eta‐values) into a new dataset and analyse these Eta‐values (N = 453) applying multilevel models with characteristics of countries and characteristics of attitudes as the independent variables. Our results show that there is no evidence that the effects of class on attitudes are lower when countries are more modern, but we do find larger effects of education in more modern countries.",
+  "authors": [
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    },
+    {
+      "raw": "Kraaykamp, Gerbert",
+      "family": "Kraaykamp",
+      "given": "Gerbert"
+    }
+  ],
+  "authors_text": "Kalmijn, Matthijs; Kraaykamp, Gerbert",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2007,
+  "doi": "10.1111/j.1468-4446.2007.00166.x",
+  "doi_url": "https://doi.org/10.1111/j.1468-4446.2007.00166.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1468-4446.2007.00166.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1468-4446.2007.00166.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

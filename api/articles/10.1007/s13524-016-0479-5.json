@@ -1,0 +1,30 @@
+{
+  "title": "Moving Toward Integration? Effects of Migration on Ethnoracial Segregation Across the Rural-Urban Continuum",
+  "abstract": "This study analyzes the impact of migration on ethnoracial segregation among U.S. counties. Using county-level net migration estimates by age, race, and Hispanic origin from 1990-2000 and 2000-2010, we estimate migration's impact on segregation by age and across space. Overall, migration served to integrate ethnoracial groups in both decades, whereas differences in natural population change (increase/decrease) would have increased segregation. Age differences, however, are stark. Net migration of the population under age 40 reduced segregation, while net migration of people over age 60 further segregated people. Migration up and down the rural-urban continuum (including suburbanization among people of color) did most to decrease segregation, while interregional migration had only a small impact. People of color tended to move toward more predominantly white counties and regions at all ages. Migration among white young adults (aged 20-39) also decreased segregation. Whites aged 40 and older, however, showed tendencies toward white flight. Moderate spatial variation suggests that segregation is diminishing the most in suburban and fringe areas of several metropolitan areas in the Northeast and Midwest, while parts of the South, Southwest, and Appalachia show little evidence of integration.",
+  "authors": [
+    {
+      "raw": "Winkler, Richelle L.",
+      "family": "Winkler",
+      "given": "Richelle L."
+    },
+    {
+      "raw": "Johnson, Kenneth M.",
+      "family": "Johnson",
+      "given": "Kenneth M."
+    }
+  ],
+  "authors_text": "Winkler, Richelle L.; Johnson, Kenneth M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0479-5",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0479-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0479-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0479-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Women's health decline following (some) unintended births: A prospective study",
+  "abstract": "BACKGROUND As many as one in three unintended births occur in Africa. These births have the potential to adversely impact women's health, but data and design limitations have complicated efforts to understand their consequences. Moreover, there is growing evidence that women often feel happy about an unintended pregnancy, and this heterogeneity may be important for identifying the births that are - and those that are not - harmful to women's health. OBJECTIVE To assess whether having an unintended birth precipitates health declines for young women in a high-fertility, high-morbidity context and whether a woman's emotional reaction to a pregnancy foreshadows the consequences of the resulting birth. METHODS We use closely spaced panel data from 896 young women in Malawi that include prospective measures of fertility timing desires captured only months before conception and a contemporaneous measure of emotional reaction to the pregnancy. We run lagged dependent variable regression models of self-rated health that account for health and sociodemographic conditions prior to pregnancy and compare women with unintended births to women with intended births and to an alternative comparison group: women who avoid unintended births. We then disaggregate unintended births by women's emotional reactions after learning of the pregnancy. RESULTS Women who had an unintended birth but initially had a positive reaction to the pregnancy did not experience a decline in health after birth. Women who had a more negative reaction, however, experienced marked reductions in self-rated health, even years after the birth. CONTRIBUTION Our findings highlight meaningful heterogeneity in the consequences of unintended fertility for women's health and offer insights into the unintended births that put women at greatest risk of health decline.",
+  "authors": [
+    {
+      "raw": "Yeatman, Sara",
+      "family": "Yeatman",
+      "given": "Sara"
+    },
+    {
+      "raw": "Smith-Greenaway, Emily",
+      "family": "Smith-Greenaway",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Yeatman, Sara; Smith-Greenaway, Emily",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.17",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

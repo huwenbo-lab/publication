@@ -1,0 +1,35 @@
+{
+  "title": "Individual and Social Genomic Contributions to Educational and Neighborhood Attainments: Geography, Selection, and Stratification in the United States",
+  "abstract": "Research on neighborhood effects draws suggestive links between local spatial environments and a range of social, economic, and public health outcomes. Here, we consider the potential role of genetics in the geography of social stratification in the United States using genomic data from the National Longitudinal Study of Adolescent to Adult Health. We find that those with genotypes related to higher educational attainment sort into neighborhoods that are better educated and have higher population densities, both descriptively and using formal school and sibling fixed-effects models. We identify four mechanisms through which this geographic sorting on genetic endowment can magnify social stratification: assortative mating, social-genetic effects, gene-by-environment interactions, and gene–by–social-genetic interactions. We examine the presence of the latter three in our data, finding provisional yet suggestive evidence for social-genetic effects that putatively amount to about one-third of the influence of one’s own genomic profile. We find no evidence, however, for the presence of interactions between environments and individual genetic background. Collectively, these findings highlight the potential for geographic sorting on genotype to emerge both as a key methodological concern in population genetics and social science research and also a potentially overlooked dimension of social stratification worthy of future study.",
+  "authors": [
+    {
+      "raw": "Laidley, Thomas",
+      "family": "Laidley",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Vinneau, Justin",
+      "family": "Vinneau",
+      "given": "Justin"
+    },
+    {
+      "raw": "Boardman, Jason",
+      "family": "Boardman",
+      "given": "Jason"
+    }
+  ],
+  "authors_text": "Laidley, Thomas; Vinneau, Justin; Boardman, Jason",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2019,
+  "doi": "10.15195/v6.a22",
+  "doi_url": "https://doi.org/10.15195/v6.a22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv6.a22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v6.a22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

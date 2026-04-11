@@ -1,0 +1,40 @@
+{
+  "title": "Caring for Parents/In-Laws and Cognitive Functioning of Adult Children in China",
+  "abstract": "ObjectiveThis study investigates the longitudinal association between caring for parents/in-laws and cognitive functioning among adult children in China. It also examines how this association is influenced by relationship type (own parents vs. in-laws), caregiving intensity, and the gender of the caregiver.BackgroundWhile family caregiving is often seen as stressful and negatively impacting caregivers' health, recent evidence suggests that caregiving may improve health, particularly cognitive health, through cognitively stimulating activities that can help prevent cognitive decline. However, the cognitive health implications of caregiving, especially in non-Western contexts, remain underexplored.MethodsUsing data from three waves of the China Health and Retirement Longitudinal Study (CHARLS, 2011, 2013, and 2018), this study includes 12,750 respondents and 24,076 person-year observations. Growth curve models were used to predict the cognitive functioning trajectories of adult children.ResultsDescriptive analyses showed that women were more likely to be caregivers, especially for parents-in-law, compared to men. Growth curve models indicated that caring for one's own parents was associated with better cognitive functioning compared to noncaregivers, whereas caring for parents-in-law alone had no significant effects. Both women and men benefited from caring for their own parents, although for women, the benefits were significant only at low/moderate caregiving intensity.ConclusionThis study highlights the connection between caregiving and cognitive health, emphasizing the importance of considering caregiver-recipient relationship types. It advocates for gender-specific support and the development of long-term care policies that address these varied caregiving experiences.",
+  "authors": [
+    {
+      "raw": "Lin, Zhiyong",
+      "family": "Lin",
+      "given": "Zhiyong"
+    },
+    {
+      "raw": "Duan, Haoshu",
+      "family": "Duan",
+      "given": "Haoshu"
+    },
+    {
+      "raw": "He, Jianfeng",
+      "family": "He",
+      "given": "Jianfeng"
+    },
+    {
+      "raw": "Huang, Ying",
+      "family": "Huang",
+      "given": "Ying"
+    }
+  ],
+  "authors_text": "Lin, Zhiyong; Duan, Haoshu; He, Jianfeng; Huang, Ying",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13117",
+  "doi_url": "https://doi.org/10.1111/jomf.13117",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13117",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13117.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

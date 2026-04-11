@@ -1,0 +1,35 @@
+{
+  "title": "Overeducation, Labour Market Dynamics, and Economic Downturn in Europe",
+  "abstract": "Previous research on overeducation focused on labour market entrants and investigated the role of individual characteristics and, more recently, labour market and educational institutions. This article shifts the focus to primeage workers, exploring the relation between economic conditions, related labour market dynamics, and overeducation across 16 European countries in the aftermath of the 2008 economic crisis. We regard cross-sectional overeducation rates as the result of past labour market dynamics involving employers' hiring and dismissal decisions and employees' job mobility. Based on data from the 2011/2012 Programme for the International Assessment of Adult Competences (PIAAC), we estimate mixed-effects linear-probability models. We find that overeducation risks are higher for individuals who experienced job mobility after the outbreak of the crisis (movers) than for those who were able to keep their jobs, with workers who changed their job before the crisis (short-term stayers) experiencing higher overeducation risks than long-term stayers. These differences are partly explained by compositional and contextual factorshowever, our newly introduced differentiation of labour market dynamics profiles also shows an independent effect. Moreover, tertiary graduates are more likely to be overeducated than workers with upper-secondary qualificationscontrolling for workers' skill heterogeneity. The findings on macroeconomic conditions are mixed: overeducation risks are higher in contexts of poorer economic conditions and even more so for movers; however, the multiplicative negative effect for movers disappears after controlling for job characteristics. This finding suggests that post-crisis mobility channeled workers more often into labour market segments with inferior job conditions where the risk of overeducation is generally higher.",
+  "authors": [
+    {
+      "raw": "Borgna, Camilla",
+      "family": "Borgna",
+      "given": "Camilla"
+    },
+    {
+      "raw": "Solga, Heike",
+      "family": "Solga",
+      "given": "Heike"
+    },
+    {
+      "raw": "Protsch, Paula",
+      "family": "Protsch",
+      "given": "Paula"
+    }
+  ],
+  "authors_text": "Borgna, Camilla; Solga, Heike; Protsch, Paula",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcy046",
+  "doi_url": "https://doi.org/10.1093/esr/jcy046",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy046",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy046.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

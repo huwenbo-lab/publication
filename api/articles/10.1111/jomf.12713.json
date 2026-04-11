@@ -1,0 +1,30 @@
+{
+  "title": "Parenthood Wage Gaps Across the Life Course: A Comparison by Gender and Race",
+  "abstract": "Objective We map the magnitude, timing, and persistence of parenthood wage gaps in the life course for Black, Hispanic, and White men and women in the United States. Background Previous research indicates that penalties only persist into mid-life for mothers with three or more children without distinguishing by race. The timing and age range in which parenthood wage gaps occur for fathers and mothers of different racial backgrounds are unknown. We develop a theoretical framework based on the gender- and race-specific interplay between labor market dynamics and family demographics over the life course to derive hypotheses. Method Age-specific parenthood wage gaps from ages 20-40 are estimated using 1979 and 1997 National Longitudinal Surveys of Youth data and fixed effects models. Results Only White women with three or more children suffer large and persistent adjusted motherhood penalties up to age 40. For Black and Hispanic mothers, penalties are concentrated in a brief age range of 5-10 years around age 30 and then attenuate irrespective of the number of children. Adjusted fatherhood premiums only occur for White men and are confined to brief periods in early adulthood, suggesting that they result from complex selection effects into education, employment, and fatherhood. Conclusion For minority men and women, parenthood wage gaps are concentrated in brief periods of the life course. Only White mothers with many children experience persistent wage penalties. The race- and gender-specific interplay between labor market dynamics and family demographics over the life course offers a consistent account of these findings.",
+  "authors": [
+    {
+      "raw": "Van Winkle, Zachary",
+      "family": "Van Winkle",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Fasang, Anette Eva",
+      "family": "Fasang",
+      "given": "Anette Eva"
+    }
+  ],
+  "authors_text": "Van Winkle, Zachary; Fasang, Anette Eva",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12713",
+  "doi_url": "https://doi.org/10.1111/jomf.12713",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12713",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12713.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

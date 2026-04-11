@@ -1,0 +1,30 @@
+{
+  "title": "Top-down and bottom-up research in biodemography",
+  "abstract": "The most efficient way to make scientific progress in biodemography is to encourage bi-directional exchange between âtop-downâ and âbottom-upâ research. This will entail exchange along the continuum of research from microscopic intracellular processes",
+  "authors": [
+    {
+      "raw": "Kaplan, Hillard",
+      "family": "Kaplan",
+      "given": "Hillard"
+    },
+    {
+      "raw": "Gurven, Michael",
+      "family": "Gurven",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Kaplan, Hillard; Gurven, Michael",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2008,
+  "doi": "10.4054/demres.2008.19.44",
+  "doi_url": "https://doi.org/10.4054/demres.2008.19.44",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2008.19.44",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2008.19.44.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

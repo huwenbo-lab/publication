@@ -1,0 +1,30 @@
+{
+  "title": "Equal educational qualifications but unequal labor market outcomes: An exploration of gender disparities in occupational status and their mechanisms, over five decades",
+  "abstract": "Switzerland's comparatively slow but ongoing educational expansion, alongside the persistent gender disparities in the Swiss labor market, offers a unique context in which to investigate how returns to education, as regards occupational status, have evolved for men and women over the last 50 years. Drawing on large-scale administrative census data (1970, 1980, 1990, 2000) and annual structural surveys (2011-2020), social changes across pseudo-birth cohorts (1920-1994) at two career stages (ages 25-30 and 45-50) are analyzed. Two questions are investigated: (1) How have inequalities in occupational status between men and women with similar levels of educational attainment shifted over time? (2) Which mechanisms - such as part-time work, childcare responsibilities, and sector allocation - explain these gender differences, and how have their impacts changed? The findings reveal that although raw gender gaps in occupational status have narrowed in younger cohorts - particularly at early career stages - significant disparities persist when accounting for key mechanisms. A Blinder-Oaxaca decomposition shows that part-time work and labor market segregation continue to produce gendered penalties. The results underscore that even as women's educational attainment has surpassed that of men in recent cohorts, structural factors continue to limit full returns to education for women, in regard to their occupational status.",
+  "authors": [
+    {
+      "raw": "Nennstiel, Richard",
+      "family": "Nennstiel",
+      "given": "Richard"
+    },
+    {
+      "raw": "Becker, Rolf",
+      "family": "Becker",
+      "given": "Rolf"
+    }
+  ],
+  "authors_text": "Nennstiel, Richard; Becker, Rolf",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101070",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101070",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101070",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101070.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

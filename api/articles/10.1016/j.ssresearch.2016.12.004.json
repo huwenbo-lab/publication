@@ -1,0 +1,35 @@
+{
+  "title": "Trajectories of neighborhood attainment after prison",
+  "abstract": "A potentially important but understudied aspect of prisoner reentry is the neighborhood environments experienced by formerly incarcerated people. We know that many formerly incarcerated people return to very disadvantaged neighborhood environments and that returning to disadvantaged neighborhoods after prison increases the risk of recidivism and reduces employment. Yet very little is known about the social, economic, and institutional processes that sort formerly incarcerated people into different neighborhoods after release or their trajectories of neighborhood attainment over time. Motivated by a conceptualization of prisoner reentry and reintegration as a process that unfolds over time, we examine trajectories of neighborhood environments after release. Motivated by the literature on neighborhood attainment, social capital, and the role of criminal justice institutions in structuring the lives of former prisoners, we examine sources of variation in neighborhood attainment. We use administrative data from the Michigan Department of Corrections on formerly incarcerated people paroled in 2003 and followed for two years after release. Descriptive results from a latent class trajectory model show that most white and black formerly incarcerated people experience flat trajectories, with little upward or downward residential mobility over time. Findings from multi-level growth curve models suggest that institutional factors are particularly important for the neighborhood attainment of whites, while human capital and social ties are particularly important for blacks. Among both blacks and whites, pre-prison and first post-prison neighborhood conditions exhibit a strong association with post-prison neighborhood attainment, although these associations are larger for blacks than whites. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Lee, Keunbok",
+      "family": "Lee",
+      "given": "Keunbok"
+    },
+    {
+      "raw": "Harding, David J.",
+      "family": "Harding",
+      "given": "David J."
+    },
+    {
+      "raw": "Morenoff, Jeffrey D.",
+      "family": "Morenoff",
+      "given": "Jeffrey D."
+    }
+  ],
+  "authors_text": "Lee, Keunbok; Harding, David J.; Morenoff, Jeffrey D.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.12.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.12.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.12.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.12.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

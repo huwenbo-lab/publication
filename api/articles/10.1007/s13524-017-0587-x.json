@@ -1,0 +1,40 @@
+{
+  "title": "Influence of Proximity to Kin on Residential Mobility and Destination Choice: Examining Local Movers in Metropolitan Areas",
+  "abstract": "A growing body of research has examined how family dynamics shape residential mobility, highlighting the social-as opposed to economic-drivers of mobility. However, few studies have examined kin ties as both push and pull factors in mobility processes or revealed how the influence of kin ties on mobility varies across sociodemographic groups. Using data on local residential moves from the Panel Study of Income Dynamics (PSID) from 1980 to 2013, we find that location of noncoresident kin influences the likelihood of moving out of the current neighborhood and the selection of a new destination neighborhood. Analyses of out-mobility reveal that parents and young adult children living near each other as well as low-income adult children living near parents are especially deterred from moving. Discrete-choice models of neighborhood selection indicate that movers are particularly drawn to neighborhoods close to aging parents, white and higher-income households tend to move close to parents and children, and lower-income households tend to move close to extended family. Our results highlight the social and economic trade-offs that households face when making residential mobility decisions, which have important implications for broader patterns of inequality in residential attainment.",
+  "authors": [
+    {
+      "raw": "Spring, Amy",
+      "family": "Spring",
+      "given": "Amy"
+    },
+    {
+      "raw": "Ackert, Elizabeth",
+      "family": "Ackert",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    },
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    }
+  ],
+  "authors_text": "Spring, Amy; Ackert, Elizabeth; Crowder, Kyle; South, Scott J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0587-x",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0587-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0587-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0587-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

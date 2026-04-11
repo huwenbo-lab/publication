@@ -1,0 +1,25 @@
+{
+  "title": "Prenatal Exposure to an Acute Stressor and Children's Cognitive Outcomes",
+  "abstract": "Exposure to environmental stressors is highly prevalent and unequally distributed along socioeconomic lines and may have enduring negative consequences, even when experienced before birth. Yet, estimating the consequences of prenatal stress on children's outcomes is complicated by the issue of confounding (i.e., unobserved factors correlated with stress exposure and with children's outcomes). I combine a natural experiment-a strong earthquake in Chile-with a panel survey to capture the effect of prenatal exposure on acute stress and children's cognitive ability. I find that stress exposure in early pregnancy has no effect on children's cognition among middle-class families, but it has a strong negative influence among disadvantaged families. I then examine possible pathways accounting for the socioeconomic stratification in the effect of stress, including differential exposure across socioeconomic status, differential sensitivity, and parental responses. Findings suggest that the interaction between prenatal exposures and socioeconomic advantage provides a powerful mechanism for the intergenerational transmission of disadvantage.",
+  "authors": [
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    }
+  ],
+  "authors_text": "Torche, Florencia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0700-9",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0700-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0700-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0700-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

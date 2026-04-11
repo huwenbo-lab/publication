@@ -1,0 +1,45 @@
+{
+  "title": "Why Lifespans Are More Variable Among Blacks Than Among Whites in the United States",
+  "abstract": "Abstract Lifespans are both shorter and more variable for blacks than for whites in the United States. Because their lifespans are more variable, there is greater inequality in length of life—and thus greater uncertainty about the future—among blacks. This study is the first to decompose the black-white difference in lifespan variability in America. Are lifespans more variable for blacks because they are more likely to die of causes that disproportionately strike the young and middle-aged, or because age at death varies more for blacks than for whites among those who succumb to the same cause? We find that it is primarily the latter. For almost all causes of death, age at death is more variable for blacks than it is for whites, especially among women. Although some youthful causes of death, such as homicide and HIV/AIDS, contribute to the black-white disparity in variance, those contributions are largely offset by the higher rates of suicide and drug poisoning deaths for whites. As a result, differences in the causes of death for blacks and whites account, on net, for only about one-eighth of the difference in lifespan variance.",
+  "authors": [
+    {
+      "raw": "Firebaugh, Glenn",
+      "family": "Firebaugh",
+      "given": "Glenn"
+    },
+    {
+      "raw": "Acciai, Francesco",
+      "family": "Acciai",
+      "given": "Francesco"
+    },
+    {
+      "raw": "Noah, Aggie J.",
+      "family": "Noah",
+      "given": "Aggie J."
+    },
+    {
+      "raw": "Prather, Christopher",
+      "family": "Prather",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Nau, Claudia",
+      "family": "Nau",
+      "given": "Claudia"
+    }
+  ],
+  "authors_text": "Firebaugh, Glenn; Acciai, Francesco; Noah, Aggie J.; Prather, Christopher; Nau, Claudia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0345-2",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0345-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0345-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0345-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

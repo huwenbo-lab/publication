@@ -1,0 +1,25 @@
+{
+  "title": "The association between neonatal death and facility birth in regions of India",
+  "abstract": "BACKGROUND Reducing neonatal mortality in India is critical to achieving the 2030 Sustainable Development Goal of a global neonatal mortality rate (NNM) of no more than 12 per 1,000. Policy efforts to reduce India's NNM, including a large-scale conditional cash transfer program, have focused on promoting birth in health facilities, rather than at home. Between 2005 and 2015, the percentage of facility births doubled, from 40% to 80%. OBJECTIVE We assess evidence for the hypothesis that facility births reduce NNM by using new data from the National Family Health Survey, 2015-2016. METHODS We analyze the association between neonatal death and facility birth at the region level, using ordinary least squares (OLS) linear probability models with fixed effects for the primary sampling unit, as well as child, mother, and household-level controls. RESULTS For babies born outside of Uttar Pradesh and Bihar, facility birth is robustly associated with neonatal survival. The controlled association between facility birth and neonatal survival is 7 per 1,000 in the east region (West Bengal, Assam, Jharkhand, Odisha) and 13 per 1,000 in the central region (Madhya Pradesh and Chhattisgarh). In Uttar Pradesh and Bihar, however, being born in a health facility appears to confer no neonatal survival advantage. CONTRIBUTION Documenting the lack of an association between facility birth and neonatal death in Uttar Pradesh and Bihar is important because these states collectively contribute 43% of India's NNM. These findings suggest the need for future research to investigate whether and how the quality of maternal and newborn care in health facilities differs across regions.",
+  "authors": [
+    {
+      "raw": "Coffey, Diane",
+      "family": "Coffey",
+      "given": "Diane"
+    }
+  ],
+  "authors_text": "Coffey, Diane",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.16",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

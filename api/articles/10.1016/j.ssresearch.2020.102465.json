@@ -1,0 +1,30 @@
+{
+  "title": "Revisiting the relationship between perceived discrimination and health: Evidence from sibling models with multiple health measures",
+  "abstract": "Perceived discrimination (PD) is known to be significantly related to health outcomes. This link, however, warrants further scrutiny due to the possibility of unobserved family-level confounding. Using the Add Health and sibling fixed-effect approach, we examine whether the relationship between PD and health is confounded by family background characteristics such as genetics, family environment, and childhood social context (school and neighborhood effects). While the naive OLS models exhibit significant associations between PD and both physical and psychological health outcomes, our preferred sibling fixed-effect estimates reveal that the observed associations between PD and physical health outcomes are confounded by shared family background. In contrast, the observed associations for psychological health, self-reported health, and some of health behavior outcomes are robust to adjustment for sibling fixed-effects. Furthermore, we find similar overall patterns in the link between PD and health across races/ethnicities.",
+  "authors": [
+    {
+      "raw": "Kim, Jinho",
+      "family": "Kim",
+      "given": "Jinho"
+    },
+    {
+      "raw": "Tong, Yuying",
+      "family": "Tong",
+      "given": "Yuying"
+    }
+  ],
+  "authors_text": "Kim, Jinho; Tong, Yuying",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2020.102465",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102465",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102465",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102465.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Modeling transition rates using panel current-status data: How serious is the bias?",
+  "abstract": "Abstract Studies of disability dynamics and active life expectancy often rely on transition rates or probabilities that are estimated using panel survey data in which respondents report on current health or functional status. If respondents are contacted at intervals of one or two years, then relatively short periods of disability or recovery between surveys may be missed. Much published research that uses such data assumes that there are no unrecorded transitions, applying event-history techniques to estimate transition rates. In recent years, a different approach based on embedded Markov chains has received growing use. We assessed the performance of both approaches, using as a criterion their ability to reproduce the parameters of a “true” model based on panel data collected at one-month intervals. Neither of the widely used approaches performs particularly well, and neither is uniformly superior to the other.",
+  "authors": [
+    {
+      "raw": "Wolf, Douglas A.",
+      "family": "Wolf",
+      "given": "Douglas A."
+    },
+    {
+      "raw": "Gill, Thomas M.",
+      "family": "Gill",
+      "given": "Thomas M."
+    }
+  ],
+  "authors_text": "Wolf, Douglas A.; Gill, Thomas M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0057",
+  "doi_url": "https://doi.org/10.1353/dem.0.0057",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0057",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0057.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

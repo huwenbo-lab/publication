@@ -1,0 +1,40 @@
+{
+  "title": "Social-class differences in summer learning between kindergarten and first grade: Model specification and estimation",
+  "abstract": "Sociologists suggest that children from socially advantaged families continue to learn during the summer, whereas children from disadvantaged families learn either little or lose ground. This disparity in summer learning is hypothesized to result from differential participation in educationally beneficial summer activities. In this article, we test this theory with current and nationally representative data, the Early Childhood Longitudinal Study-Kindergarten Cohort. We examine how children's socioeconomic status (SES) is associated with their learning of literacy, mathematics, and general knowledge over the summer between kindergarten and the first grade. We also explore whether social-background differences in learning are explained by differential participation rates in summer activities. Our analytic models adjust for discrepancies between the timing of assessments and the timing of schools closing for the summer and opening in the fall. Much of the observed gain results from time in school. Nonetheless, social stratification characterizes summer learning between kindergarten and the first grade, with higher-SES children learning more. However, these social-background differences are only modestly explained by the activities in which children participate during the summer months.",
+  "authors": [
+    {
+      "raw": "Burkam, DT",
+      "family": "Burkam",
+      "given": "DT"
+    },
+    {
+      "raw": "Ready, DD",
+      "family": "Ready",
+      "given": "DD"
+    },
+    {
+      "raw": "Lee, VE",
+      "family": "Lee",
+      "given": "VE"
+    },
+    {
+      "raw": "LoGerfo, LF",
+      "family": "LoGerfo",
+      "given": "LF"
+    }
+  ],
+  "authors_text": "Burkam, DT; Ready, DD; Lee, VE; LoGerfo, LF",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2004,
+  "doi": "10.1177/003804070407700101",
+  "doi_url": "https://doi.org/10.1177/003804070407700101",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070407700101",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070407700101.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

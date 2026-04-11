@@ -1,0 +1,35 @@
+{
+  "title": "The Household Registration System",
+  "abstract": "Although longitudinal experimental community health research is crucial to testing hypotheses about the demographic impact of health technologies, longitudinal demographic research field stations are rare, owing to the complexity and high cost of devel",
+  "authors": [
+    {
+      "raw": "Phillips, James",
+      "family": "Phillips",
+      "given": "James"
+    },
+    {
+      "raw": "MacLeod, Bruce",
+      "family": "MacLeod",
+      "given": "Bruce"
+    },
+    {
+      "raw": "Pence, Brian",
+      "family": "Pence",
+      "given": "Brian"
+    }
+  ],
+  "authors_text": "Phillips, James; MacLeod, Bruce; Pence, Brian",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2000,
+  "doi": "10.4054/demres.2000.2.6",
+  "doi_url": "https://doi.org/10.4054/demres.2000.2.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2000.2.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2000.2.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

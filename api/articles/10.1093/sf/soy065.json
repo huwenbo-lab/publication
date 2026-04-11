@@ -1,0 +1,30 @@
+{
+  "title": "Consistency and Compensation in Mercy: Commutation in the Era of Mass Incarceration",
+  "abstract": "This multi-method paper presents a model of individual and contextual variation in commutation, a form of clemency that lessens the severity of criminal sentences. In the contemporary US context of high incarceration, commutation is one of few back-end mechanisms available for early release. We first describe national trends, showing a significant decline in commutation releases, as well as great geographic variation. We then test whether commutation decisions reflect consistency or compensation with other forms of punishment. Our mixed-effects logit analysis reveals state-level compensation (greater commutation in more punitive states) but individual-level consistency (greater commutation for more advantaged groups). Commutation is most likely for those presenting a mercy package of White race, female sex, and less violent criminal histories. In contrast, Black men convicted of violence are exceedingly unlikely to be commuted. Nevertheless, qualitative evidence suggests that the apparent female advantage in commutation may reflect differences in the nature of the underlying offense and subsequent prison behavior. These results both parallel and extend sociological research on punishment, pointing to commutation as an understudied and underutilized mechanism for mercy.",
+  "authors": [
+    {
+      "raw": "Horowitz, Veronica",
+      "family": "Horowitz",
+      "given": "Veronica"
+    },
+    {
+      "raw": "Uggen, Christopher",
+      "family": "Uggen",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Horowitz, Veronica; Uggen, Christopher",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy065",
+  "doi_url": "https://doi.org/10.1093/sf/soy065",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy065",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy065.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

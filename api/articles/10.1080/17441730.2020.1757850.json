@@ -1,0 +1,35 @@
+{
+  "title": "Government policy and global fertility change: a reappraisal",
+  "abstract": "The role of government policy in fertility change has been a central inquiry in understanding global demographic changes in the last half century. We return to this inquiry with longitudinal data for over 150 countries from 1976 to 2013 and use fixed-effects models to address common methodological concerns. Our results reveal that while government anti-natalist policies fail to show clear effects for all countries included, they are associated with significantly lower fertility in Asia and Latin America, two regions that have seen the most rapid fertility decline. For pro-natalist policies, which are becoming more popular in recent years, we detect only short-term positive effects, and effects limited to countries where fertility has not sunk below the ultra-low level of 1.4 children per woman. Combined, these results suggest that government policies are important in global fertility change, though the policy impacts vary by geographic location, timing, and fertility level.",
+  "authors": [
+    {
+      "raw": "Shen, Ke",
+      "family": "Shen",
+      "given": "Ke"
+    },
+    {
+      "raw": "Wang, Feng",
+      "family": "Wang",
+      "given": "Feng"
+    },
+    {
+      "raw": "Cai, Yong",
+      "family": "Cai",
+      "given": "Yong"
+    }
+  ],
+  "authors_text": "Shen, Ke; Wang, Feng; Cai, Yong",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2020,
+  "doi": "10.1080/17441730.2020.1757850",
+  "doi_url": "https://doi.org/10.1080/17441730.2020.1757850",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2020.1757850",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2020.1757850.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

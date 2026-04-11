@@ -1,0 +1,35 @@
+{
+  "title": "New OMB’s Race and Ethnicity Standards Will Affect How Americans Self-Identify",
+  "abstract": "In March 2024, the U.S. Office of Management and Budget (OMB) approved major changes to the ethnic and racial self-identification questions used by all federal agencies, including the U.S. Census Bureau. These modifications include merging the separate race and Hispanic ethnicity questions into a single combined question and adding a Middle Eastern and North African category. Government officials and researchers have requested evidence on how Americans might react to these changes. We conducted a survey experiment with a nationally representative sample of 7,350 adult Americans. Participants were randomly assigned to answer either the existing separate race and ethnicity questions or a combined question proposed by the OMB. We find that the combined question decreases the percentage of Americans identifying as white and as some other race. We identify the key mechanism driving these effects: Hispanics decrease their identification in other categories when a Hispanic category is available in the combined question format. This results in statistically significant decreases in key minority populations, including Afro-Latinos and indigenous Latinos.",
+  "authors": [
+    {
+      "raw": "Flores, René",
+      "family": "Flores",
+      "given": "René"
+    },
+    {
+      "raw": "Telles, Edward",
+      "family": "Telles",
+      "given": "Edward"
+    },
+    {
+      "raw": "Ventura, Ilana",
+      "family": "Ventura",
+      "given": "Ilana"
+    }
+  ],
+  "authors_text": "Flores, René; Telles, Edward; Ventura, Ilana",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2024,
+  "doi": "10.15195/v11.a42",
+  "doi_url": "https://doi.org/10.15195/v11.a42",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv11.a42",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v11.a42.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

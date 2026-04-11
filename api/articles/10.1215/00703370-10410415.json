@@ -1,0 +1,30 @@
+{
+  "title": "Cause-of-Death Diversity From a Multiple-Cause Perspective in the United States",
+  "abstract": "Cause-of-death diversity captures the variability of deaths across causes and is an important marker of heterogeneity in a population's health. We contribute to the debate of cause-of-death diversity dynamics by following a novel multiple causes of death (MCOD) approach and applying it to the U.S. context between 2003 and 2018 and across education groups. Results show that cause-of-death diversity increased over this period, especially up to 2012. These trends were mainly driven by increases in the groups aged 65 years or more. The inclusion of MCOD resulted in higher increases in cause-of-death diversity over time compared with merely using underlying causes of death, except for the 85 or more age group, where no difference was observed for males and a reverted gradient was observed for females. Results by educational attainment reveal lower diversity among the highest educated groups and widening differences across groups from around 2012 onward. The clear educational gradient observed at ages 30-64 diminished at older ages. The observed increases in cause-of-death diversity should be monitored to better understand mortality dynamics in aging populations. Our new MCOD diversity measures suggest that traditional approaches relying on single causes of death might be underestimating cause-of-death diversity dynamics, particularly for males.",
+  "authors": [
+    {
+      "raw": "Trias-Llimos, Sergi",
+      "family": "Trias-Llimos",
+      "given": "Sergi"
+    },
+    {
+      "raw": "Permanyer, Inaki",
+      "family": "Permanyer",
+      "given": "Inaki"
+    }
+  ],
+  "authors_text": "Trias-Llimos, Sergi; Permanyer, Inaki",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10410415",
+  "doi_url": "https://doi.org/10.1215/00703370-10410415",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10410415",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10410415.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Inequality in the Distribution of a Good is a Bad, and Inequality in the Distribution of a Bad is a Good",
+  "abstract": "This article presents a theorem connecting the goodness or badness of a thing with the goodness or badness of inequality in the thing's distribution. The theorem, which applies to cardinally measurable things like income, debt, years in prison, disease risk, and risk of unemployment, states that if an observer regards the original thing as a good (bad), then that observer regards inequality in the thing's distribution as a bad (good). The proof uses three inequality measures and two fairness measures embedding observer framing of things as good or bad. The theorem touches many themes in the sociological literature, not only goods and bads, inequality and stratification, the Weberian life chances, values, and attitudes toward inequality, but also, via its proof, fairness and moral development. Further, the theorem and its proof raise questions that provide new directions for theoretical and empirical research. For example, empirical tasks ahead include (1) learning more about inequality in bads (especially about their frequency distributions and inequality measures, to match the growing knowledge about differences across subgroups), and (2) studying both just rewards and justice evaluations, in both goods and bads, to assess the scope of justice concerns between earned and unearned things and between additive, transferable possessions and nonadditive, nontransferable characteristics. Finally, this work contributes to the growing understanding of the connections between inequality, justice, and the vast behavioural and social outcomes which inequality and justice, separately or together, generate.",
+  "authors": [
+    {
+      "raw": "Jasso, Guillermina",
+      "family": "Jasso",
+      "given": "Guillermina"
+    }
+  ],
+  "authors_text": "Jasso, Guillermina",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcx062",
+  "doi_url": "https://doi.org/10.1093/esr/jcx062",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx062",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx062.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

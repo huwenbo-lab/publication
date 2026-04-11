@@ -2,6 +2,7 @@ const SQL_JS_BASE = "https://sql.js.org/dist";
 const PAGE_SIZE = 50;
 const FAVORITES_STORAGE_KEY = "publication:favorites:v1";
 const THEME_STORAGE_KEY = "publication:theme:v1";
+const RAW_BASE = "https://raw.githubusercontent.com/huwenbo-lab/publication/main";
 
 const JOURNAL_GROUPS = [
     {
@@ -161,6 +162,132 @@ function buildShareUrl(article) {
     const url = new URL(window.location.href);
     url.hash = article?.doi ? `doi/${encodeURIComponent(article.doi)}` : "";
     return url.toString();
+}
+
+function buildAppBaseUrl() {
+    return new URL(".", window.location.href);
+}
+
+function safeJournalFilename(name) {
+    return String(name ?? "")
+        .replaceAll("&", "and")
+        .replaceAll(",", "")
+        .replace(/[^\w\s-]/g, "")
+        .trim()
+        .replace(/\s+/g, "_");
+}
+
+function getPeriodKey(year) {
+    const numericYear = Number(year || 0);
+    if (numericYear >= 2020 && numericYear <= 2026) {
+        return "2020_2026";
+    }
+    if (numericYear >= 2010 && numericYear <= 2019) {
+        return "2010_2019";
+    }
+    if (numericYear >= 2000 && numericYear <= 2009) {
+        return "2000_2009";
+    }
+    return "";
+}
+
+function buildRepoRawUrl(relativePath) {
+    return `${RAW_BASE}/${relativePath}`;
+}
+
+function buildArticleApiPath(doi) {
+    const clean = String(doi ?? "")
+        .replace(/^https?:\/\/doi\.org\//i, "")
+        .toLowerCase()
+        .trim();
+    if (!clean) {
+        return "";
+    }
+    const segments = clean
+        .split("/")
+        .filter(Boolean)
+        .map((segment) => encodeURIComponent(segment));
+    if (!segments.length) {
+        return "";
+    }
+    const last = `${segments.pop()}.json`;
+    return `api/articles/${[...segments, last].join("/")}`;
+}
+
+function buildArticleApiUrl(doi) {
+    const relativePath = buildArticleApiPath(doi);
+    return relativePath ? new URL(relativePath, buildAppBaseUrl()).toString() : "";
+}
+
+function buildAiResourceLinks(article) {
+    const journalSlug = safeJournalFilename(article.journal);
+    const period = getPeriodKey(article.year);
+    return {
+        overview: buildRepoRawUrl("lit_db/overview.md"),
+        journalTitles: journalSlug
+            ? buildRepoRawUrl(`lit_db/titles/by_journal/${journalSlug}.md`)
+            : "",
+        journalAbstracts: journalSlug && period
+            ? buildRepoRawUrl(`lit_db/abstracts/${period}/${journalSlug}.md`)
+            : "",
+        articleJson: buildArticleApiUrl(article.doi),
+    };
+}
+
+function buildAiPrompt(article, resources) {
+    const lines = [
+        "请基于以下资料分析这篇文章，并优先引用文章 JSON 中的结构化字段：",
+    ];
+    if (resources.articleJson) {
+        lines.push(`1. 文章 JSON：${resources.articleJson}`);
+    }
+    if (resources.journalTitles) {
+        lines.push(`2. 本刊标题索引：${resources.journalTitles}`);
+    }
+    if (resources.journalAbstracts) {
+        lines.push(`3. 同年份段摘要索引：${resources.journalAbstracts}`);
+    }
+    lines.push(`4. 数据库总览：${resources.overview}`);
+    lines.push("");
+    lines.push(`文章：${article.title || "无标题"}${article.year ? `（${article.year}）` : ""}`);
+    return lines.join("\n");
+}
+
+function clearArticleSchema() {
+    if (dom.articleSchema) {
+        dom.articleSchema.textContent = "";
+    }
+}
+
+function renderArticleSchema(article, shareUrl, apiUrl) {
+    if (!dom.articleSchema) {
+        return;
+    }
+    const doiUrl = buildDoiUrl(article.doi);
+    const schema = {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        headline: article.title || "无标题",
+        name: article.title || "无标题",
+        abstract: article.abstract || "",
+        author: parseAuthorList(article.authors).map((author) => ({
+            "@type": "Person",
+            name: author,
+        })),
+        isPartOf: {
+            "@type": "Periodical",
+            name: article.journal || "未知期刊",
+        },
+        datePublished: article.year ? String(article.year) : "",
+        identifier: article.doi ? [{
+            "@type": "PropertyValue",
+            propertyID: "DOI",
+            value: article.doi,
+        }] : [],
+        url: shareUrl || apiUrl || doiUrl || "",
+        sameAs: doiUrl || apiUrl || "",
+    };
+    dom.articleSchema.textContent = JSON.stringify(schema, null, 2);
 }
 
 function readStorage(key) {
@@ -486,6 +613,9 @@ function cacheDom() {
     dom.citationBibtex = $("citation-bibtex");
     dom.citationApa = $("citation-apa");
     dom.citationMla = $("citation-mla");
+    dom.aiLinks = $("ai-links");
+    dom.aiPrompt = $("ai-prompt");
+    dom.articleSchema = $("article-schema");
     dom.favoritesModal = $("favorites-modal");
     dom.favoritesSummary = $("favorites-summary");
     dom.favoritesList = $("favorites-list");
@@ -909,6 +1039,9 @@ function setFavoritesModalOpen(isOpen) {
 
 async function renderArticleModal() {
     if (!app.state.activeArticleKey && !app.state.activeArticleDoi) {
+        dom.aiLinks.innerHTML = "";
+        dom.aiPrompt.textContent = "";
+        clearArticleSchema();
         setModalOpen(false);
         return;
     }
@@ -926,6 +1059,9 @@ async function renderArticleModal() {
 
     if (!article) {
         closeArticleModalState();
+        dom.aiLinks.innerHTML = "";
+        dom.aiPrompt.textContent = "";
+        clearArticleSchema();
         setModalOpen(false);
         return;
     }
@@ -933,6 +1069,9 @@ async function renderArticleModal() {
     const articleKey = buildArticleKey(article);
     const doiUrl = buildDoiUrl(article.doi);
     const shareUrl = buildShareUrl(article);
+    const apiUrl = buildArticleApiUrl(article.doi);
+    const aiResources = buildAiResourceLinks(article);
+    const aiPrompt = buildAiPrompt(article, aiResources);
     const copyLinkLabel = article.doi ? "复制可分享链接" : "复制当前页面链接";
     dom.modalKicker.textContent = `${article.journal || "未知期刊"} · ${article.year || "年份未知"}`;
     dom.modalTitle.textContent = article.title || "无标题";
@@ -952,10 +1091,19 @@ async function renderArticleModal() {
     dom.citationBibtex.textContent = formatBibtex(article);
     dom.citationApa.textContent = formatApa(article);
     dom.citationMla.textContent = formatMla(article);
+    dom.aiLinks.innerHTML = `
+        ${aiResources.articleJson ? `<a class="result-link" href="${aiResources.articleJson}" target="_blank" rel="noreferrer">文章 JSON</a>` : '<span class="result-link">无 DOI，暂无单篇 JSON</span>'}
+        <a class="result-link" href="${aiResources.journalTitles}" target="_blank" rel="noreferrer">本刊标题索引</a>
+        ${aiResources.journalAbstracts ? `<a class="result-link" href="${aiResources.journalAbstracts}" target="_blank" rel="noreferrer">同年份段摘要</a>` : ""}
+        <a class="result-link" href="${aiResources.overview}" target="_blank" rel="noreferrer">数据库总览</a>
+    `;
+    dom.aiPrompt.textContent = aiPrompt;
     dom.modal.dataset.shareUrl = shareUrl;
+    dom.modal.dataset.aiPrompt = aiPrompt;
     dom.modal.querySelectorAll("[data-copy-link]").forEach((button) => {
         button.textContent = copyLinkLabel;
     });
+    renderArticleSchema(article, shareUrl, apiUrl);
     setModalOpen(true);
 }
 
@@ -1838,6 +1986,12 @@ function bindEvents() {
         const copyLinkButton = event.target.closest("[data-copy-link]");
         if (copyLinkButton) {
             await copyText(dom.modal.dataset.shareUrl || window.location.href);
+            return;
+        }
+
+        const copyAiPromptButton = event.target.closest("[data-copy-ai-prompt]");
+        if (copyAiPromptButton) {
+            await copyText(dom.modal.dataset.aiPrompt || "");
         }
     });
 

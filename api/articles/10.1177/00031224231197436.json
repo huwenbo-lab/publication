@@ -1,0 +1,30 @@
+{
+  "title": "The Stigma of Diseases: Unequal Burden, Uneven Decline",
+  "abstract": "Why are some diseases more stigmatized than others? And, has disease stigma declined over time? Answers to these questions have been hampered by a lack of comparable, longitudinal data. Using word embedding methods, we analyze 4.7 million news articles to create new measures of stigma for 106 health conditions from 1980 to 2018. Using mixed-effects regressions, we find that behavioral health conditions and preventable diseases attract the strongest connotations of immorality and negative personality traits, and infectious diseases are most marked by disgust. These results lend new empirical support to theories that norm enforcement and contagion avoidance drive disease stigma. Challenging existing theories, we find no evidence for a link between medicalization and stigma, and inconclusive evidence on the relationship between advocacy and stigma. Finally, we find that stigma has declined dramatically over time, but only for chronic physical illnesses. In the past four decades, disease stigma has transformed from a sea of negative connotations surrounding most diseases into two primary conduits of meaning: infectious diseases spark disgust, and behavioral health conditions cue negative stereotypes. These results show that cultural meanings are especially durable when they are anchored by interests, and that cultural changes intertwine in ways that only become visible through large-scale research.",
+  "authors": [
+    {
+      "raw": "Best, Rachel Kahn",
+      "family": "Best",
+      "given": "Rachel Kahn"
+    },
+    {
+      "raw": "Arseniev-Koehler, Alina",
+      "family": "Arseniev-Koehler",
+      "given": "Alina"
+    }
+  ],
+  "authors_text": "Best, Rachel Kahn; Arseniev-Koehler, Alina",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231197436",
+  "doi_url": "https://doi.org/10.1177/00031224231197436",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231197436",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231197436.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

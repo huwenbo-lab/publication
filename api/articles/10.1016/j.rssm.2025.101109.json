@@ -1,0 +1,30 @@
+{
+  "title": "Does course-level really matter?: Between-family confounding in the association between high school course-level and educational attainment",
+  "abstract": "Much education research assumes that high school course-level is a key determinant of educational attainment in the United States. Yet relatively little sociological research has addressed potential confounding in the course-level-attainment association. The analysis models the course-level-attainment association using the matched sibling file from the National Longitudinal Study of Adolescent to Adult Health to estimate OLS and sibling fixed effects models. The OLS estimates reveal that taking more advanced high school mathematics and science courses is strongly correlated with higher educational attainment by young adulthood. Introduction of sibling fixed effects negates the association between science course-level and educational attainment. However, the relationship between mathematics course-level and educational attainment remains robust. The sibling model addresses between-family confounding but cannot rule out potential selection on unobserved academic ability. The results demonstrate that cross-sectional models may overstate the association between course-level with educational attainment due to between-family confounding for non-mathematics subjects.",
+  "authors": [
+    {
+      "raw": "Fishman, Samuel H.",
+      "family": "Fishman",
+      "given": "Samuel H."
+    },
+    {
+      "raw": "Ervin, Michael",
+      "family": "Ervin",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Fishman, Samuel H.; Ervin, Michael",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101109",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101109",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101109",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101109.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Inside the Black Box of Organizational Life: The Gendered Language of Performance Assessment",
+  "abstract": "Organizations implement formalized procedures to eliminate the biasing effects of gender and other characteristics on evaluations. Prior work shows managers play a key role, but researchers have been unable to observe the thought processes guiding managers' evaluations. This article takes a first step in examining managers' sensemaking as they interpret and evaluate employee behaviors. Our data include managers' written performance reviews and numeric ratings of employees at a Fortune 500 technology company. Our theoretical model-the Viewing and Valuing Social Cognitive Processing Model-explains how and when gender beliefs frame managers' evaluations, affecting what behaviors managers notice (i.e., view) and rate highly (i.e., value). After conducting a detailed coding of the language in reviews, we assess whether there are gender differences in (1) the language used to describe performance (i.e., viewing differences) and (2) the correlations between that language and numeric ratings (i.e., valuing differences). Our analysis of 88 language attributes reveals where gender frames managers' evaluations and where the process instead operates gender-neutrally. For example, men and women are equally likely to be described as having technical ability, while women are viewed as too aggressive and men as too soft. Furthermore, some behaviors, such as taking charge, are more valued for men than for women: taking charge is associated with the highest performance ratings for men but not for women. Overall, our analysis identifies novel ways that gender biases emerge in a process intended to be meritocratic.",
+  "authors": [
+    {
+      "raw": "Correll, Shelley J.",
+      "family": "Correll",
+      "given": "Shelley J."
+    },
+    {
+      "raw": "Weisshaar, Katherine R.",
+      "family": "Weisshaar",
+      "given": "Katherine R."
+    },
+    {
+      "raw": "Wynn, Alison T.",
+      "family": "Wynn",
+      "given": "Alison T."
+    },
+    {
+      "raw": "Wehner, JoAnne Delfino",
+      "family": "Wehner",
+      "given": "JoAnne Delfino"
+    }
+  ],
+  "authors_text": "Correll, Shelley J.; Weisshaar, Katherine R.; Wynn, Alison T.; Wehner, JoAnne Delfino",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1177/0003122420962080",
+  "doi_url": "https://doi.org/10.1177/0003122420962080",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122420962080",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122420962080.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

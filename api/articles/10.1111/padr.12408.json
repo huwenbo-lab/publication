@@ -1,0 +1,35 @@
+{
+  "title": "How Armed Conflict Influences Migration",
+  "abstract": "The literature on migration during armed conflict is abundant. Yet, the questions of highest policy relevance-how many people will leave because of a conflict and how many more people will be living outside a country because of a conflict-are not well addressed. This article explores these questions using an agent-based model, a computational simulation that allows us to connect armed conflict to individual behavioral changes and then to aggregate migration flows and migrant stocks. With detailed data from Nepal during the 1996-2006 conflict, we find that out-migration rates actually decrease on average, largely due to a prior decrease in return migration. Regardless, the stock of migrants outside the country increases modestly during that period. Broadly, this study demonstrates that population dynamics are inherent to and necessary for understanding conflict-related migration. We conclude with a discussion of the generalizability and policy implications of this study.",
+  "authors": [
+    {
+      "raw": "Williams, Nathalie E.",
+      "family": "Williams",
+      "given": "Nathalie E."
+    },
+    {
+      "raw": "O'Brien, Michelle L.",
+      "family": "O'Brien",
+      "given": "Michelle L."
+    },
+    {
+      "raw": "Yao, Xiaozheng",
+      "family": "Yao",
+      "given": "Xiaozheng"
+    }
+  ],
+  "authors_text": "Williams, Nathalie E.; O'Brien, Michelle L.; Yao, Xiaozheng",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2021,
+  "doi": "10.1111/padr.12408",
+  "doi_url": "https://doi.org/10.1111/padr.12408",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12408",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12408.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

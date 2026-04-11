@@ -1,0 +1,30 @@
+{
+  "title": "Military Spending and Economic Well-Being in the American States: The Post-Vietnam War Era",
+  "abstract": "Using growth curve modeling techniques, this research investigates whether military spending improved or worsened the economic well-being of citizens within the American states during the post-Vietnam War period. We empirically test the military Keynesianism claim that military spending improves the economic conditions of citizens through its use by politicians as a countercyclical tool to reduce the negative effects of economic downturns. However, due to deindustrialization and the emergence of the “new military,” there are reasons to believe that military spending will not effectively improve economic well-being during the post-Vietnam War era. Using longitudinal data we find that states with high levels of military spending are better equipped to stave off the deleterious effects of economic recession than are states with lower levels of military spending.",
+  "authors": [
+    {
+      "raw": "Borch, C.",
+      "family": "Borch",
+      "given": "C."
+    },
+    {
+      "raw": "Wallace, M.",
+      "family": "Wallace",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Borch, C.; Wallace, M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2010,
+  "doi": "10.1353/sof.2010.0002",
+  "doi_url": "https://doi.org/10.1353/sof.2010.0002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2010.0002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2010.0002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

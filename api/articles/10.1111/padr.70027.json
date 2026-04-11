@@ -1,0 +1,25 @@
+{
+  "title": "A Refugee Health Paradox? Self-Reported Health Trajectories of Refugees and Immigrants in Germany",
+  "abstract": "Immigrants typically have better health than natives upon arrival owing to health selection, but this advantage declines over time. This Immigrant Health Paradox (IHP) is generalized to all immigrant groups, without recognizing key differences between them. Research on the health of asylum seekers and refugees (AS&Rs) is mostly cross-sectional, often lacks other immigrants or natives as control groups, and mainly focuses on psychopathological disorders. I bridge the literature on immigrant and AS&R health by investigating the health trajectories of AS&Rs vis-& agrave;-vis other immigrants and natives. Using longitudinal data from the German Socio-Economic Panel (2015-2022), I examine general health, health concerns, and SF-12 physical and mental health for AS&Rs and other immigrants arriving in the first half of the 2010s. I confirm the IHP for non-AS&R immigrants, while the health trajectories of AS&Rs are more complex. AS&Rs have a mental health disadvantage upon arrival that is gradually closed, while they have a health advantage for other outcomes that is stable or increasing before declining. AS&R women have worse health than men, especially upon arrival. Results are consistent across specifications, including fixed effects models. My findings question the generalizability of the IHP and the assumption that AS&Rs are a negatively selected group.",
+  "authors": [
+    {
+      "raw": "Ferrara, Alessandro",
+      "family": "Ferrara",
+      "given": "Alessandro"
+    }
+  ],
+  "authors_text": "Ferrara, Alessandro",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70027",
+  "doi_url": "https://doi.org/10.1111/padr.70027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

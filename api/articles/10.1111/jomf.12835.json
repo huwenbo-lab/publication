@@ -1,0 +1,40 @@
+{
+  "title": "Beyond the (family) binary: Family environment heterogeneity among transgender adults",
+  "abstract": "Objective To identify latent profiles of family environments among transgender adults and to examine the relationships between these profiles and mental and physical health. Background How a family-of-origin responds to a transgender family member has significant implications for that individual's mental and physical health. However, the extant research on the health of transgender people has largely relied on a binary conceptualization of family environments that has been critiqued as simplistic, reductionistic, and misrepresentative. To date, no known quantitative studies have assessed transgender family environments beyond this ostensibly antiquated conceptualization. Method Data were collected in 2018 from transgender adults via Amazon's MTurk (N = 873). Participants completed questionnaires about their family environment, experiences of minority stress, mental and physical health, and quality of life. Results Latent profile analysis yielded five profiles of transgender family environments: disengaged; accepting and affirming; repudiating; moderate family ambiguity; and high family ambiguity. Over half of respondents were assigned membership to one of the two ambiguity profiles (56.4%). Distal regression models demonstrated that, relative to embracing and affirming, membership in each of the other four profiles was negatively associated with both mental and physical health. Participants assigned to the ambiguity profiles did not statistically differ on health outcomes when compared to those in the repudiating profile. Conclusion Ambiguity is prevalent in transgender people's families-of-origin. It also appears equally detrimental as family rejection is to the mental and physical health of transgender adults.",
+  "authors": [
+    {
+      "raw": "Allen, Samuel H.",
+      "family": "Allen",
+      "given": "Samuel H."
+    },
+    {
+      "raw": "Fish, Jessica N.",
+      "family": "Fish",
+      "given": "Jessica N."
+    },
+    {
+      "raw": "McGuire, Jenifer K.",
+      "family": "McGuire",
+      "given": "Jenifer K."
+    },
+    {
+      "raw": "Leslie, Leigh A.",
+      "family": "Leslie",
+      "given": "Leigh A."
+    }
+  ],
+  "authors_text": "Allen, Samuel H.; Fish, Jessica N.; McGuire, Jenifer K.; Leslie, Leigh A.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12835",
+  "doi_url": "https://doi.org/10.1111/jomf.12835",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12835",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12835.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

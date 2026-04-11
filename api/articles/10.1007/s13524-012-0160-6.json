@@ -1,0 +1,30 @@
+{
+  "title": "Estimation of Covariate Effects With Current Status Data and Differential Mortality",
+  "abstract": "AbstractThe assessment of the impact that socioeconomic determinants have on the prevalence of certain chronic conditions reported by respondents in population surveys must confront two problems. First, the self-reports could be in error (false positives and false negatives). Second, those reporting are a selected sample of those who ever experience the problem, and this selection is heavily influenced by excess mortality attributable to the condition being reported. In this article, we use a combination of empirical data and microsimulation to (a) assess the magnitude of the bias attributable to the selection problem, and (b) suggest an adjustment procedure that corrects for this bias. We find that the proposed adjustment procedure considerably reduces the bias arising from differential mortality.",
+  "authors": [
+    {
+      "raw": "Palloni, Alberto",
+      "family": "Palloni",
+      "given": "Alberto"
+    },
+    {
+      "raw": "Thomas, Jason R.",
+      "family": "Thomas",
+      "given": "Jason R."
+    }
+  ],
+  "authors_text": "Palloni, Alberto; Thomas, Jason R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0160-6",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0160-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0160-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0160-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

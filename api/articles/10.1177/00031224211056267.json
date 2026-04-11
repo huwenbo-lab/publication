@@ -1,0 +1,35 @@
+{
+  "title": "Facets of Specialization and Its Relation to Career Success: An Analysis of US Sociology, 1980 to 2015",
+  "abstract": "We investigate how sociology students garner recognition from niche field audiences through specialization. Our dataset comprises over 80,000 sociology-related dissertations completed at U.S. universities, as well as data on graduates' pursuant publications. We analyze different facets of how students specialize-topic choice, focus, novelty, and consistency. To measure specialization types within a consistent methodological frame, we utilize structural topic modeling. These measures capture specialization strategies used at an early career stage. We connect them to a crucial long-term outcome in academia: becoming an advisor. Event-history models reveal that specific topic choices and novel combinations exhibit a positive influence, whereas focused theses make no substantial difference. In particular, theses related to the cultural turn, methods, or race are tied to academic careers that lead to mentorship. Thematic consistency of students' publication track also has a strong positive effect on the chances of becoming an advisor. Yet, there are diminishing returns to consistency for highly productive scholars, adding important nuance to the well-known imperative of publish or perish in academic careers.",
+  "authors": [
+    {
+      "raw": "Heiberger, Raphael H.",
+      "family": "Heiberger",
+      "given": "Raphael H."
+    },
+    {
+      "raw": "Galvez, Sebastian Munoz-Najar",
+      "family": "Galvez",
+      "given": "Sebastian Munoz-Najar"
+    },
+    {
+      "raw": "McFarland, Daniel A.",
+      "family": "McFarland",
+      "given": "Daniel A."
+    }
+  ],
+  "authors_text": "Heiberger, Raphael H.; Galvez, Sebastian Munoz-Najar; McFarland, Daniel A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/00031224211056267",
+  "doi_url": "https://doi.org/10.1177/00031224211056267",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211056267",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211056267.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

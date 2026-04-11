@@ -1,0 +1,35 @@
+{
+  "title": "Cross-Sectional Average Length of Life Childless",
+  "abstract": "Increases in the average age at first birth and in the proportion of women remaining childless have extended the total number of years that women spend childless during their reproductive lifetime in several countries. To quantify the number of years that reproductive-age women live without children, we introduce the cross-sectional average length of life childless (CALC). This measure includes all the age-specific first-birth information available for the cohorts present at time t; it is a period measure based on cohort data. Using the Human Fertility Database, CALC is calculated for the year 2015 for all countries with long enough histories of fertility available. Results show that women in the majority of the studied countries spend, on average, more than half of their reproductive lives childless. Furthermore, the difference between CALCs in two countries can be decomposed to give a clear visualization of how each cohort contributes to the difference in the duration of the length of childless life in those populations. Our illustration of the decomposition shows that (1) in recent years, female cohorts in Japan and Spain at increasingly younger ages have been contributing to more years of childless life compared with those in Sweden, (2) the United States continues to represent an exception among the high-income countries with a low expectation for childless life of women, and (3) Hungary experienced a strong period effect of the recent Great Recession. These examples show that CALC and its decomposition can provide insights into first-birth patterns.",
+  "authors": [
+    {
+      "raw": "Mogi, Ryohei",
+      "family": "Mogi",
+      "given": "Ryohei"
+    },
+    {
+      "raw": "Nisen, Jessica",
+      "family": "Nisen",
+      "given": "Jessica"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Mogi, Ryohei; Nisen, Jessica; Canudas-Romo, Vladimir",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8937427",
+  "doi_url": "https://doi.org/10.1215/00703370-8937427",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8937427",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8937427.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

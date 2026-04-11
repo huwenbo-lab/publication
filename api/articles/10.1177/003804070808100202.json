@@ -1,0 +1,25 @@
+{
+  "title": "Kracking the missing data problem: Applying Krackhardt's cognitive social structures to school-based social networks",
+  "abstract": "Social network analysis can enrich school-based research on children's peer relationships. Unfortunately, accurate network analysis requires near-complete data on all students and is underutilized in school-based research because of low rates of parental consent. This article advocates Krackhardt's cognitive social structures (CSS) as a solution to the problem of missing data in social network research. It compares CSS to other common strategies for dealing with missing data and shows how CSS can be used to yield more complete and precise network data. The article also uses an example of a sixth-grade classroom network to demonstrate the application of CSS and potential analyses.",
+  "authors": [
+    {
+      "raw": "Neal, Jennifer Watling",
+      "family": "Neal",
+      "given": "Jennifer Watling"
+    }
+  ],
+  "authors_text": "Neal, Jennifer Watling",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2008,
+  "doi": "10.1177/003804070808100202",
+  "doi_url": "https://doi.org/10.1177/003804070808100202",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070808100202",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070808100202.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

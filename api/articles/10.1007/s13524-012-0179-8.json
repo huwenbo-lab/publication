@@ -1,0 +1,45 @@
+{
+  "title": "Multidimensional Life Table Estimation of the Total Fertility Rate and Its Components",
+  "abstract": "Abstract Using discrete-time survival models of parity progression and illustrative data from the Philippines, this article develops a multivariate multidimensional life table of nuptiality and fertility, the dimensions of which are age, parity, and duration in parity. The measures calculated from this life table include total fertility rate (TRF), total marital fertility rate (TMFR), parity progression ratios (PPR), age-specific fertility rates, mean and median ages at first marriage, mean and median closed birth intervals, and mean and median ages at childbearing by child’s birth order and for all birth orders combined. These measures are referred to collectively as “TFR and its components.” Because the multidimensional life table is multivariate, all measures derived from it are also multivariate in the sense that they can be tabulated by categories or selected values of one socioeconomic variable while controlling for other socioeconomic variables. The methodology is applied to birth history data, in the form of actual birth histories from a fertility survey or reconstructed birth histories derived from a census or household survey. The methodology yields period estimates as well as cohort estimates of the aforementioned measures.",
+  "authors": [
+    {
+      "raw": "Retherford, Robert D.",
+      "family": "Retherford",
+      "given": "Robert D."
+    },
+    {
+      "raw": "Eini-Zinab, Hassan",
+      "family": "Eini-Zinab",
+      "given": "Hassan"
+    },
+    {
+      "raw": "Choe, Minja Kim",
+      "family": "Choe",
+      "given": "Minja Kim"
+    },
+    {
+      "raw": "Ogawa, Naohiro",
+      "family": "Ogawa",
+      "given": "Naohiro"
+    },
+    {
+      "raw": "Matsukura, Rikiya",
+      "family": "Matsukura",
+      "given": "Rikiya"
+    }
+  ],
+  "authors_text": "Retherford, Robert D.; Eini-Zinab, Hassan; Choe, Minja Kim; Ogawa, Naohiro; Matsukura, Rikiya",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0179-8",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0179-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0179-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0179-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

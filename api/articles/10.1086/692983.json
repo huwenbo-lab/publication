@@ -1,0 +1,25 @@
+{
+  "title": "Do Anti-Immigrant Laws Shape Public Sentiment? A Study of Arizona's SB 1070 Using Twitter Data",
+  "abstract": "Scholars have debated whether laws can influence public opinion, but evidence of these feedback effects is scant. This article examines the effect of Arizona's 2010 high-profile anti-immigrant law, SB 1070, on both public attitudes and behaviors toward immigrants. Using sentiment analysis and a difference-in-difference approach to analyze more than 250,000 tweets, the author finds that SB 1070 had a negative impact on the average sentiment of tweets regarding immigrants, Mexicans, and Hispanics, but not on those about Asians or blacks. However, these changes in public discourse were not caused by shifting attitudes toward immigrants but by the mobilization of anti-immigrant users and by motivating new users to begin tweeting. While some scholars propose that punitive laws can shape people's attitudes toward targeted groups, this study shows that policies are more likely to influence behaviors. Rather than placating the electorate, anti-immigrant laws may stir the pot further, mobilizing individuals already critical of immigrants.",
+  "authors": [
+    {
+      "raw": "Flores, Rene D.",
+      "family": "Flores",
+      "given": "Rene D."
+    }
+  ],
+  "authors_text": "Flores, Rene D.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2017,
+  "doi": "10.1086/692983",
+  "doi_url": "https://doi.org/10.1086/692983",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F692983",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/692983.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

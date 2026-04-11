@@ -1,0 +1,30 @@
+{
+  "title": "Gender Differences in Mathematical Trajectories",
+  "abstract": "In this article we test the hypothesis that male students outperform female students in mathematics. Using large national data sets and curvilinear growth models, we examine gender differences in mathematical trajectories from elementary school through high school. We analyze subsamples of high-scoring students and also different areas of math, such as reasoning and geometry. Despite relatively equal starting points in elementary school, and relatively equal slopes, we find that hoys have a faster rate of acceleration. By the 12th grade, this results in a slight gender difference, which is most pronounced in geometry. Realizing this slight and delayed emergence of gender differences, we qualify the strong conclusions of earlier research, such as Benbow and Stanley's (1980, 1983), which found that large gender differences emerge by junior high school.",
+  "authors": [
+    {
+      "raw": "Leahey, E.",
+      "family": "Leahey",
+      "given": "E."
+    },
+    {
+      "raw": "Guo, G.",
+      "family": "Guo",
+      "given": "G."
+    }
+  ],
+  "authors_text": "Leahey, E.; Guo, G.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2001,
+  "doi": "10.1353/sof.2001.0102",
+  "doi_url": "https://doi.org/10.1353/sof.2001.0102",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2001.0102",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2001.0102.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

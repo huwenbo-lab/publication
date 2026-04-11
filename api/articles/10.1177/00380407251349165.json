@@ -1,0 +1,40 @@
+{
+  "title": "When Money Matters Most: Unpacking the Effectiveness of School Spending",
+  "abstract": "Targeted school funding is a potentially valuable policy lever to increase educational equality by race, ethnicity, and income, but it remains unclear how to target funds most effectively. We use a regression discontinuity approach to compare districts that narrowly passed or failed a school funding election. We use close tax elections in nine states to identify effects of operating funds, and we use close bond elections in eight states to identify effects of capital funds. Results indicate positive achievement returns to spending, especially for math achievement. We find similar returns to spending by student race, ethnicity, and income (not statistically different), but we find significantly larger returns for students in low-spending and high-poverty districts than in more advantaged districts. Targeted spending to low-resource districts is more effective and can reduce inequality. Mediation analyses suggest spending on teacher salaries and counselors may be particularly effective mechanisms to increase achievement among Black and low-income students.",
+  "authors": [
+    {
+      "raw": "Rauscher, Emily",
+      "family": "Rauscher",
+      "given": "Emily"
+    },
+    {
+      "raw": "Mellon, Greer",
+      "family": "Mellon",
+      "given": "Greer"
+    },
+    {
+      "raw": "Loeb, Susanna",
+      "family": "Loeb",
+      "given": "Susanna"
+    },
+    {
+      "raw": "Abott, Carolyn",
+      "family": "Abott",
+      "given": "Carolyn"
+    }
+  ],
+  "authors_text": "Rauscher, Emily; Mellon, Greer; Loeb, Susanna; Abott, Carolyn",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2025,
+  "doi": "10.1177/00380407251349165",
+  "doi_url": "https://doi.org/10.1177/00380407251349165",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380407251349165",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380407251349165.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Sticky educational expectations: A cross-country comparison",
+  "abstract": "This work studies the cross-country variability in the interaction effect between academic achievement and social origin on the configuration of the expectation of enrolment in the academic track of upper secondary education. Drawing on the Relative Risk Aversion Theory and the Compensatory Advantage model, we anticipate that academic achievement and social origin interact so that high-SES students' expectations are irresponsive to low academic achievement. We call this phenomenon stickiness in expectations. However, we expect to observe sticky educational expectations of high-SES students particularly in those countries where the transition into the academic track of upper secondary education is consequential for their social status maintenance. To test this hypothesis, we use 2018 PISA data for 11 OECD countries and carry out a two-stage regression analysis. We estimate stickiness in expectations for each country using a counterfactual decomposition method. We then regress the country-specific estimate of stickiness in educational expectations on macro-level indicators of the risk of downward mobility associated with non-enrolment in the academic track and the economic capacity to compensate for low achievement in each country. We find sticky educational expectations in 6 of the 11 countries studied and show that stickiness is larger in those countries where not enrolling the academic track in Upper Secondary Education entails a larger risk of social status demotion for high-SES students.",
+  "authors": [
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    },
+    {
+      "raw": "Valdes, Manuel T.",
+      "family": "Valdes",
+      "given": "Manuel T."
+    }
+  ],
+  "authors_text": "Bernardi, Fabrizio; Valdes, Manuel T.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100624",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100624",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100624",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100624.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

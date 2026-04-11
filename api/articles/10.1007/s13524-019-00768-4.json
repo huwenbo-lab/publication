@@ -1,0 +1,30 @@
+{
+  "title": "The Impact of the Homicide Decline on Life Expectancy of African American Males",
+  "abstract": "Homicide is a leading cause of death for young people in the United States aged 15-34, but it has a disproportionate impact on one subset of the population: African American males. The national decline in homicide mortality that occurred from 1991 to 2014 thus provides an opportunity to generate evidence on a unique question-How do population health and health inequality change when the prevalence of one of the leading causes of death is cut in half? In this article, we estimate the impact of the decline in homicide mortality on life expectancy at birth as well as years of potential life lost for African American and white males and females, respectively. Estimates are generated using national mortality data by age, gender, race, and education level. Counterfactual estimates are constructed under the assumption of no change in mortality due to homicide from 1991 (the year when the national homicide rate reached its latest peak) to 2014 (the year when the homicide rate reached its trough). We estimate that the decline in homicides led to a 0.80-year increase in life expectancy at birth for African American males, and reduced years of potential life lost by 1,156 years for every 100,000 African American males. Results suggest that the drop in homicide represents a public health breakthrough for African American males, accounting for 17% of the reduction in the life expectancy gap between white and African American males.",
+  "authors": [
+    {
+      "raw": "Sharkey, Patrick",
+      "family": "Sharkey",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Friedson, Michael",
+      "family": "Friedson",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Sharkey, Patrick; Friedson, Michael",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00768-4",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00768-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00768-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00768-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

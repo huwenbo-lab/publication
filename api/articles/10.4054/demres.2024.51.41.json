@@ -1,0 +1,30 @@
+{
+  "title": "Using online genealogical data for demographic research: An empirical examination of the FamiLinx database",
+  "abstract": "BACKGROUND Online genealogies are promising data sources for demographic research, but their limitations are understudied. This paper takes a critical approach to evaluating the potential strengths and weaknesses of using online genealogical data for population studies. We focus on the FamiLinx dataset, which contains demographic information and kinship ties across multiple countries and centuries. OBJECTIVE We propose novel measures to assess the completeness and the quality of demographic variables in the FamiLinx data at both the individual and the familial level over the 1600- 1900 period. Utilizing Sweden as a test country, we investigate how the age-sex distribution and the mortality levels of the digital population extracted from FamiLinx diverge from the registered population. METHOD We employ descriptive statistics, negative binomial regression modeling, and standard life table techniques for our measures of completeness and quality. RESULTS Missing values and accuracy in demographic information from FamiLinx are selective. When one demographic variable is available, researchers can effectively anticipate the availability of other demographic information. The completeness and quality of demographic variables within kinship networks are markedly higher for individuals with more complete and accurate demographic information. Populations from FamiLinx display lower mortality levels than the registered population and their representativeness improves towards the end of the 19th century. CONTRIBUTION This study sheds new light on the opportunities and challenges of harnessing online genealogies for demographic research. Although this data source offers much promise, its usability in population studies is dependent on the quality and completeness of its recorded demographic information and their selectivity.",
+  "authors": [
+    {
+      "raw": "Colasurdo, Andrea",
+      "family": "Colasurdo",
+      "given": "Andrea"
+    },
+    {
+      "raw": "Omenti, Riccardo",
+      "family": "Omenti",
+      "given": "Riccardo"
+    }
+  ],
+  "authors_text": "Colasurdo, Andrea; Omenti, Riccardo",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.41",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

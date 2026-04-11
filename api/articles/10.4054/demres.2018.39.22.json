@@ -1,0 +1,45 @@
+{
+  "title": "WhatsApp usage patterns and prediction of demographic characteristics without access to message content",
+  "abstract": "BACKGROUND Social networks on the Internet have become ubiquitous applications that allow people to easily share text, pictures, and audio and video files. Popular networks include WhatsApp, Facebook, Reddit, and LinkedIn. OBJECTIVE We present an extensive study of the usage of the WhatsApp social network, an Internet messaging application that is quickly replacing SMS (short message service) messaging. To better understand people's use of the network, we provide an analysis of over 6 million encrypted messages from over 100 users, with the objective of building demographic prediction models that use activity data but not the content of these messages. METHODS We performed extensive statistical and numerical analysis of the data and found significant differences in WhatsApp usage across people of different genders and ages. We also entered the data into the Weka and pROC data mining packages and studied models created from decision trees, Bayesian networks, and logistic regression algorithms. RESULTS We found that different gender and age demographics had significantly different usage habits in almost all message and group attributes. We also noted differences in users' group behavior and created prediction models, including the likelihood that a given group would have relatively more file attachments and if a group would contain a larger number of participants, a higher frequency of activity, quicker response times, and shorter messages. CONCLUSIONS We were successful in quantifying and predicting a user's gender and age demographic. Similarly, we were able to predict different types of group usage. All models were built without analyzing message content. CONTRIBUTION The main contribution of this paper is the ability to predict user demographics without having access to users' text content. We present a detailed discussion about the specific attributes that were contained in all predictive models and suggest possible applications based on these results.",
+  "authors": [
+    {
+      "raw": "Rosenfeld, Avi",
+      "family": "Rosenfeld",
+      "given": "Avi"
+    },
+    {
+      "raw": "Sina, Sigal",
+      "family": "Sina",
+      "given": "Sigal"
+    },
+    {
+      "raw": "Sarne, David",
+      "family": "Sarne",
+      "given": "David"
+    },
+    {
+      "raw": "Avidov, Or",
+      "family": "Avidov",
+      "given": "Or"
+    },
+    {
+      "raw": "Kraus, Sarit",
+      "family": "Kraus",
+      "given": "Sarit"
+    }
+  ],
+  "authors_text": "Rosenfeld, Avi; Sina, Sigal; Sarne, David; Avidov, Or; Kraus, Sarit",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.22",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

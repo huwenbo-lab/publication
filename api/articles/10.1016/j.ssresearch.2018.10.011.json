@@ -1,0 +1,30 @@
+{
+  "title": "What do government unions do? Public sector unions and nonunion wages, 1977-2015",
+  "abstract": "In this article we investigate the connection between public sector union memberships and nonunion worker pay. We leverage nearly four decades of Current Population Survey (CPS) data on millions of U.S. workers to test whether public sector union density, measured at the state-level, is associated with higher average wages among unorganized workers. We find stable and substantively large positive effects of state-level public sector union strength on nonunion public sector workers' wages. These results are robust to the inclusion of a range of state-level controls, including GDP, average educational attainment, public sector size, and the strength of private sector unions. Analyses of public sector unions and nonunion private sector pay reveal a robust positive relationship - but one limited to women, revealing how occupational segregation interacts with pay-setting institutions to influence wage outcomes.",
+  "authors": [
+    {
+      "raw": "Rosenfeld, Jake",
+      "family": "Rosenfeld",
+      "given": "Jake"
+    },
+    {
+      "raw": "Denice, Patrick",
+      "family": "Denice",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Rosenfeld, Jake; Denice, Patrick",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.10.011",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.10.011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.10.011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.10.011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

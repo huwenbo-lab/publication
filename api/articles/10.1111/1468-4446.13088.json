@@ -1,0 +1,35 @@
+{
+  "title": "Getting ahead in the social sciences: How parenthood and publishing contribute to gender gaps in academic career advancement",
+  "abstract": "How do parenthood and publishing contribute to gender gaps in academic career advancement? While extensive research examines the causes of gender disparities in science, technology, engineering, and mathematics (STEM) careers, we know much less about the factors that constrain women's advancement in the social sciences. Combining detailed career- and administrative register data on 976 Danish social scientists in Business and Management, Economics, Political Science, Psychology, and Sociology (5703 person-years) that obtained a PhD degree between 2000 and 2015, we estimate gender differences in attainment of senior research positions and parse out how publication outputs, parenthood and parental leave contribute to these differences. Our approach is advantageous over previous longitudinal studies in that we track the careers and publication outputs of graduates from the outset of their PhD education and match this data with time-sensitive information on each individual's publication activities and family situation. In discrete time-event history models, we observe a similar to 24 per cent female disadvantage in advancement likelihoods within the first 7 years after PhD graduation, with gender differences increasing over the observation period. A decomposition indicates that variations in publishing, parenthood and parental leave account for similar to 40 per cent of the gender gap in career advancement, suggesting that other factors, including recruitment disparities, asymmetries in social capital and experiences of unequal treatment at work, may also constrain women's careers.",
+  "authors": [
+    {
+      "raw": "Nielsen, Mathias Wullum",
+      "family": "Nielsen",
+      "given": "Mathias Wullum"
+    },
+    {
+      "raw": "Pedersen, Jens Vognstoft",
+      "family": "Pedersen",
+      "given": "Jens Vognstoft"
+    },
+    {
+      "raw": "Larregue, Julien",
+      "family": "Larregue",
+      "given": "Julien"
+    }
+  ],
+  "authors_text": "Nielsen, Mathias Wullum; Pedersen, Jens Vognstoft; Larregue, Julien",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1111/1468-4446.13088",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13088",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13088",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13088.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

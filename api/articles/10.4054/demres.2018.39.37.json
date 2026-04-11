@@ -1,0 +1,30 @@
+{
+  "title": "Life lived and left: Estimating age-specific survival in stable populations with unknown ages",
+  "abstract": "BACKGROUND Demographers sometimes observe remaining lifespans in populations of individuals of unknown age. Such populations may have an age structure that is approximately stable. To estimate life tables for these populations, it is useful to know the relationship between the number of individuals at a given age a, and the number of individuals that are expected to die a time units after observation. This result has already been described for stationary populations, but here we extend it to stable populations. RESULTS In a stable population, the population at a given age a is a simple function of the number of deaths at remaining lifespan a, the number of deaths at remaining lifespans a and higher, and the population growth rate. This property, which can be useful when ages are unknown, but individuals are followed until death, permits estimation of the underlying unknown survival schedule of the population and calculation of the usual life table functions and statistics, including the stable age structure. CONTRIBUTION The main contribution of this article is to provide a formal proof of the relationship between life lived and life left in stable populations. We also discuss the challenges of applying theoretical relationships to empirical data, especially due to the fact that in real-world applications time is not continuous and some adjustments are necessary to move from a continuous to a discrete-time framework. Two applications, one with simulated data and a second with Swedish data from the 19th century, illustrate these ideas.",
+  "authors": [
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    },
+    {
+      "raw": "Villavicencio, Francisco",
+      "family": "Villavicencio",
+      "given": "Francisco"
+    }
+  ],
+  "authors_text": "Vaupel, James W.; Villavicencio, Francisco",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.37",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.37",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.37",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.37.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

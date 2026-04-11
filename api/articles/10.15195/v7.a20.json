@@ -1,0 +1,30 @@
+{
+  "title": "Generalized Markovian Quantity Distribution Systems: Social Science Applications",
+  "abstract": "Interest in the study of gene–environment interaction has recently grown due to the sudden availability of molecular genetic data—in particular, polygenic scores—in many long-running longitudinal studies. Identifying and estimating statistical interactions comes with several analytic and inferential challenges; these challenges are heightened when used to integrate observational genomic and social science data. We articulate some of these key challenges, provide new perspectives on the study of gene–environment interactions, and end by offering some practical guidance for conducting research in this area. Given the sudden availability of well-powered polygenic scores, we anticipate a substantial increase in research testing for interaction between such scores and environments. The issues we discuss, if not properly addressed, may impact the enduring scientific value of gene–environment interaction studies.",
+  "authors": [
+    {
+      "raw": "Friedkin, Noah",
+      "family": "Friedkin",
+      "given": "Noah"
+    },
+    {
+      "raw": "Proskurnikov, Anton",
+      "family": "Proskurnikov",
+      "given": "Anton"
+    }
+  ],
+  "authors_text": "Friedkin, Noah; Proskurnikov, Anton",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2020,
+  "doi": "10.15195/v7.a20",
+  "doi_url": "https://doi.org/10.15195/v7.a20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv7.a20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v7.a20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

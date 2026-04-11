@@ -1,0 +1,35 @@
+{
+  "title": "How (not) to make women work?",
+  "abstract": "Women in developed economies have experienced an unparalleled increase in employment rates, to the point that the gap with respect to men was cut in half. This positive trend has often been attributed to changes in the opportunity costs of working (e.g. access to caring facilities) and the opportunity costs of not-working (notably, relative growth in wages in positions more frequently occupied by women, improved educational attainment). Meanwhile, the gender employment gaps were stagnant in transition economies. Admittedly, employment equality among genders was initially much higher in transition countries. We exploit this unique evidence from transition and advanced countries, to analyze the relationship between the institutional environment and the (adjusted) gender employment gaps. We estimate comparable gender employment gaps on nearly 1500 micro databases from over 40 countries. Changes in both types of the opportunity costs exhibited strong correlation with gender employment equality where the gap was larger, i.e. advanced economies. We provide some evidence that these results are not explained away by transition-related phenomena. We argue that the observed divergence in time trends reflects a level effect: the lower the gender employment gap, the lower the strength of the relationship between gender employment equality and the opportunity costs of working. An implication from our study is that the existing instruments might be insufficient to further reduce the gender employment gap.",
+  "authors": [
+    {
+      "raw": "Tyrowicz, Joanna",
+      "family": "Tyrowicz",
+      "given": "Joanna"
+    },
+    {
+      "raw": "van der Velde, Lucas",
+      "family": "van der Velde",
+      "given": "Lucas"
+    },
+    {
+      "raw": "Goraus, Karolina",
+      "family": "Goraus",
+      "given": "Karolina"
+    }
+  ],
+  "authors_text": "Tyrowicz, Joanna; van der Velde, Lucas; Goraus, Karolina",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.06.009",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.06.009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.06.009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.06.009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

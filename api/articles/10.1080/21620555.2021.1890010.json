@@ -1,0 +1,30 @@
+{
+  "title": "From traditional and socialist work-unit communities to commercial housing: the association between neighborhood types and adult health in urban China",
+  "abstract": "The urban structure in China has been transformed profoundly through rounds of economic reforms. Over the past 60 years, various types of neighborhoods have emerged at different stages of economic and social transition. Formed and organized in different ways, these neighborhoods provide distinct economic, social, and physical environments to residents. However, little is known about the link between neighborhood types and the health of residents in urban China. Using longitudinal data from the China Labor-Force Dynamics Survey (2012-2014), we estimate multilevel regression models to predict self-rated health (SRH) while controlling for a lagged measure of SRH. Results show that living in traditional communities in old districts and work-unit compounds for state-owned enterprises is associated with better SRH among older adults (>= 50 years old) compared with living in other types of neighborhoods, such as commercial-housing communities and migrant enclaves. Neighborhood types do not matter for the health of younger adults (<50 years old). Neighborhood water quality and distance to facilities are associated with SRH for older adults but do not account for the relationships between neighborhood types and SRH.",
+  "authors": [
+    {
+      "raw": "Lei, Lei",
+      "family": "Lei",
+      "given": "Lei"
+    },
+    {
+      "raw": "Lin, Zhiyong",
+      "family": "Lin",
+      "given": "Zhiyong"
+    }
+  ],
+  "authors_text": "Lei, Lei; Lin, Zhiyong",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1080/21620555.2021.1890010",
+  "doi_url": "https://doi.org/10.1080/21620555.2021.1890010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2021.1890010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2021.1890010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

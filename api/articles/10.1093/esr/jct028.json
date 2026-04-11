@@ -1,0 +1,35 @@
+{
+  "title": "A Macro-Sociological Study into the Changes in the Popularity of Domestic, European, and American Pop Music in Western Countries",
+  "abstract": "Relying on the top 100 pop songs from year-end charts, we coded more than 30,000 chart positions based on the country of origin of the artist and the language of performance, in nine Western countries. We estimated cross-national differences and trends since 1973, testing expectations on globalization as has been reviewed in the literature, where Americanization/Westernization, diversification, nationalization, and glocalization have been distinguished. Since the late 1980s, there has been an upward trend in the popularity of domestic artists, both when they perform in English or in their native language. Levels of globalization turn out to be positively related to the popularity of domestic artists singing in English. We also found evidence that when public opinion shows more pride in the nation, the chart success of artists performing in the domestic language is greater.",
+  "authors": [
+    {
+      "raw": "Bekhuis, Hidde",
+      "family": "Bekhuis",
+      "given": "Hidde"
+    },
+    {
+      "raw": "Lubbers, Marcel",
+      "family": "Lubbers",
+      "given": "Marcel"
+    },
+    {
+      "raw": "Ultee, Wout",
+      "family": "Ultee",
+      "given": "Wout"
+    }
+  ],
+  "authors_text": "Bekhuis, Hidde; Lubbers, Marcel; Ultee, Wout",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1093/esr/jct028",
+  "doi_url": "https://doi.org/10.1093/esr/jct028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjct028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jct028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

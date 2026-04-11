@@ -1,0 +1,35 @@
+{
+  "title": "Household income mobility in France over the COVID-19 pandemic: Losers and winners of the crisis",
+  "abstract": "Economic hardship induced by the COVID-19 pandemic has mainly been studied over the initial outbreak. We track household income mobility from before to the end of the epidemiological crisis with longitudinal data from France, where welfare support over this period was comparatively strong, possibly protecting households from income loss. In addition to rising inequalities in the overall distribution of household equivalized income attested by income Gini dynamics, downward mobility increased considerably over the crisis (2019-2022) compared to the pre-pandemic years (2016-2019). However, patterns of income loss were independent from COVID-related health conditions and remained largely stable across different social groups from before through the crisis. These findings contradict the idea that the pandemic acted as a 'great equalizer', but at the same time do not fully support the view that the crisis exacerbated economic inequalities along the lines of a strict definition of cumulative disadvantage. In fact, we find persistent patterns of exposure to the risks of downward household income mobility from the pre-pandemic period. We interpret these results partially as a reflection of robust welfare transfers in France that turned an otherwise exceptional crisis into a time of 'business as usual' for income dynamics. Meanwhile, the 'winners' of the pandemic appear to be the households that preserved their income, and have members who largely belong to privileged groups.",
+  "authors": [
+    {
+      "raw": "Veljkovic, Marta",
+      "family": "Veljkovic",
+      "given": "Marta"
+    },
+    {
+      "raw": "Recchi, Ettore",
+      "family": "Recchi",
+      "given": "Ettore"
+    },
+    {
+      "raw": "Zola, Andrew",
+      "family": "Zola",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Veljkovic, Marta; Recchi, Ettore; Zola, Andrew",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101093",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101093",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101093",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101093.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

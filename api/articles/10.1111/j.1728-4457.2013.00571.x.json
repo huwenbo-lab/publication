@@ -1,0 +1,30 @@
+{
+  "title": "Trends and Socioeconomic Gradients in Adult Mortality around the Developing World",
+  "abstract": "We combine data from 84 Demographic and Health Surveys from 46 countries to analyze trends and socioeconomic differences in adult mortality, calculating mortality based on the sibling mortality reports collected from female respondents aged 1549. The analysis yields four main findings. First, adult mortality is different from child mortality: while under-5 mortality shows a definite improving trend over time, adult mortality does not, especially in sub-Saharan Africa. The second main finding is the increase in adult mortality in sub-Saharan African countries. The increase is dramatic among those most affected by the HIV/AIDS pandemic. Mortality rates in the highest HIV-prevalence countries of southern Africa exceed those in countries that experienced episodes of armed conflict. Third, even in sub-Saharan countries where HIV prevalence is not as high, mortality rates appear to be at best stagnating, and even increasing in several cases. Finally, the main dimension along which mortality appears to differ in the aggregate is by sex. Adult mortality rates in sub-Saharan Africa have risen substantially higher for men than for womenespecially so in the high HIV-prevalence countries. On the whole, the data do not show large gaps by urban/rural residence or by school attainment.",
+  "authors": [
+    {
+      "raw": "de Walque, Damien",
+      "family": "de Walque",
+      "given": "Damien"
+    },
+    {
+      "raw": "Filmer, Deon",
+      "family": "Filmer",
+      "given": "Deon"
+    }
+  ],
+  "authors_text": "de Walque, Damien; Filmer, Deon",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2013,
+  "doi": "10.1111/j.1728-4457.2013.00571.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2013.00571.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2013.00571.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2013.00571.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

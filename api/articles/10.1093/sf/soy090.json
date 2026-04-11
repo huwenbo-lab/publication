@@ -1,0 +1,25 @@
+{
+  "title": "The Transmission of Multigenerational Educational Inequality",
+  "abstract": "This study explores the transmission of educational inequality across three generations in the United States. It addresses two common problems in analyses of multigenerational inequality: omitted mechanisms of indirect transmissions through grandparents' early influences on parents, and theoretically problematic tests of direct effects based on non-zero residual grandparent-child associations. The first problem leads to upwardly biased direct effect estimates; analyses that control for parents' attributes and experiences during their own childhood eliminate most grandparent-child educational associations. Conversely, the second problem can obscure direct effects. This study avoids inferring direct effects from residual grandparent-child associations by assessing the explanatory power of measured child attributes that constitute likely mechanisms of direct effects. It finds little evidence of direct effects overall, although there is some indication of direct effects on bachelor's degree attainment among those with the most-educated grandparents. The findings also speak to potential mechanisms of direct and indirect educational transmission.",
+  "authors": [
+    {
+      "raw": "Fiel, Jeremy E.",
+      "family": "Fiel",
+      "given": "Jeremy E."
+    }
+  ],
+  "authors_text": "Fiel, Jeremy E.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy090",
+  "doi_url": "https://doi.org/10.1093/sf/soy090",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy090",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy090.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

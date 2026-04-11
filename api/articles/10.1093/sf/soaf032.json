@@ -1,0 +1,40 @@
+{
+  "title": "Breathing unequal air: environmental disadvantage and residential sorting of immigrant minorities in England and Germany",
+  "abstract": "Despite ongoing debates on environmental justice, the link between selective residential migration and the unequal exposure to environmental hazards remains underexplored. Previous research has often relied on spatially aggregated data and focused on single-country analyses, limiting our understanding of broader patterns. We address this gap using longitudinal household-level data from the UK Household Longitudinal Study and the German Socio-Economic Panel linked to air pollution estimates (NO2, PM2.5, and SO2). We find that immigrant minorities are exposed to higher levels of air pollution at their place of residence. The overall disadvantage faced by immigrant minorities in England is three times as large as in Germany. Given that immigrant households start under initially higher levels of air pollution, one would expect convergence with non-immigrant populations over time due to residential moves. However, immigrants face a substantial penalty when moving. If native households started in similar neighborhoods as immigrants-the relevant counterfactual-they would experience higher gains from relocation. Socio-economic factors cannot explain these differences. The pattern holds in both England and Germany, although inequalities in residential mobility are more pronounced in England. In particular, racial and ethnic minorities, such as Bangladeshi, Caribbean, and African migrants in England and Turkish migrants in Germany, experience the largest environmental disadvantages.",
+  "authors": [
+    {
+      "raw": "Ruttenauer, Tobias",
+      "family": "Ruttenauer",
+      "given": "Tobias"
+    },
+    {
+      "raw": "Bader, Felix",
+      "family": "Bader",
+      "given": "Felix"
+    },
+    {
+      "raw": "Ehler, Ingmar",
+      "family": "Ehler",
+      "given": "Ingmar"
+    },
+    {
+      "raw": "Best, Henning",
+      "family": "Best",
+      "given": "Henning"
+    }
+  ],
+  "authors_text": "Ruttenauer, Tobias; Bader, Felix; Ehler, Ingmar; Best, Henning",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf032",
+  "doi_url": "https://doi.org/10.1093/sf/soaf032",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf032",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf032.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

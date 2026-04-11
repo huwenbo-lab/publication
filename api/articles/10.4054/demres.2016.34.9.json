@@ -1,0 +1,35 @@
+{
+  "title": "Non-standard work schedules, gender, and parental stress",
+  "abstract": "BACKGROUND Working non-standard hours changes the temporal structure of family life, constraining the time that family members spend with one another and threatening individuals. wellbeing. However, the empirical research on the link between stress and non-standard schedules has provided mixed results. Some studies have indicated that working nonstandard hours is harmful whereas others have suggested that working atypical hours might facilitate the balance between family and work. Moreover, there is some evidence that the association between stress and non-standard employment has different implications for men and women. OBJECTIVE This paper examines the association between non-standard work schedules and stress among dual-earner couples with children. Two research questions are addressed. First, do predictability of the schedule and time flexibility moderate the link between nonstandard work hours and stress? Second, do non-standard schedules affect men's and women's perceptions of stress differently? METHODS We use a sample of 1,932 working parents from the Canadian 2010 General Social Survey, which includes a time-use diary. A sequential logit regression analysis stratified by gender is employed to model two types of result. First, we estimate the odds of being stressed versus not being stressed. Second, for all respondents feeling stressed, we estimate the odds of experiencing high levels versus moderate levels of stress. RESULTS Our analysis shows that the link between non-standard working hours and perceived stress differs between mothers and fathers. First, fathers with non-standard schedules appear more likely to experience stress than those working standard hours, although the results are not significant. Among mothers, having a non-standard schedule is associated with a significantly lower risk of experiencing stress. Second, the analysis focusing on the mediating role of flexibility and predictability indicates that predictability is more important than flexibility. Workers with non-standard predictable schedules exhibit a lower risk of being stressed than those with non-standard unpredictable hours. Work flexibility does not seem to bring any additional advantage to women. However, it is linked to higher odds of being stressed for fathers, particularly among those having non-standard schedules.",
+  "authors": [
+    {
+      "raw": "Lozano, Mariona",
+      "family": "Lozano",
+      "given": "Mariona"
+    },
+    {
+      "raw": "Hamplova, Dana",
+      "family": "Hamplova",
+      "given": "Dana"
+    },
+    {
+      "raw": "Le Bourdais, Celine",
+      "family": "Le Bourdais",
+      "given": "Celine"
+    }
+  ],
+  "authors_text": "Lozano, Mariona; Hamplova, Dana; Le Bourdais, Celine",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.9",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

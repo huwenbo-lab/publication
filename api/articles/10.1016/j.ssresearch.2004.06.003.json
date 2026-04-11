@@ -1,0 +1,30 @@
+{
+  "title": "Pre-school enrollment: An analysis by immigrant generation",
+  "abstract": "There has been minimal research on the pre-school enrollment of immigrant children. Using 1990 U.S. Census data, this paper investigates pre-school enrollment of child immigrants, those who immigrated as children and the U.S.-born children of immigrants. The analysis is conducted using probit analysis. Pre-school enrollment is found to vary systematically with parental characteristics (income and education), immigrant generation, number of siblings, mother’s labor supply and country of origin. Among the foreign-born, differences in preschool enrollment are analyzed by country of origin. Among the U.S.-born children of immigrants pre-school enrollment is greatest among those with both parents foreign born.",
+  "authors": [
+    {
+      "raw": "Chiswick, Barry R.",
+      "family": "Chiswick",
+      "given": "Barry R."
+    },
+    {
+      "raw": "DebBurman, Noyna",
+      "family": "DebBurman",
+      "given": "Noyna"
+    }
+  ],
+  "authors_text": "Chiswick, Barry R.; DebBurman, Noyna",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2006,
+  "doi": "10.1016/j.ssresearch.2004.06.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2004.06.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2004.06.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2004.06.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

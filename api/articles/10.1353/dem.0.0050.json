@@ -1,0 +1,25 @@
+{
+  "title": "Job loss and health in the U.S. labor market",
+  "abstract": "Abstract While U.S. unemployment rates remain low, rates of job loss are high and rising. Job loss is also becoming increasingly common in more advantaged, white-collar occupations. This article is concerned with how these patterns impact the health of U.S. workers. Drawing on recent data from the U.S. Panel Study of Income Dynamics, I find that job loss harms health, beyond sicker people being more likely to lose their jobs. Respondents who lost jobs but were reemployed at the survey faced an increased risk of developing new health conditions; they were not, however, more likely to describe their health in negative terms. This suggests that recent job “churning” within the United States (i.e., high rates of job loss but low unemployment) may impact certain health outcomes but not others. I find no evidence that the health consequences of job loss differ across white- and blue-collar occupations, although health-related selection out of jobs appears stronger within the blue-collar category.",
+  "authors": [
+    {
+      "raw": "Strully, Kate W.",
+      "family": "Strully",
+      "given": "Kate W."
+    }
+  ],
+  "authors_text": "Strully, Kate W.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0050",
+  "doi_url": "https://doi.org/10.1353/dem.0.0050",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0050",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0050.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

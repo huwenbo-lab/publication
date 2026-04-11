@@ -1,0 +1,25 @@
+{
+  "title": "Forecasting enrollments for immigrant entry-port school districts",
+  "abstract": "AbstractThis paper projects school enrollments in Santa Ana, California and evaluates the accuracy of the projections. It emphasizes the distinctive aspects of a local setting undergoing substantial immigrant influx and highlights the uncertainties that must be addressed. I adapt existing forecasting approaches to such local situations, match assumptions to future unknowns, and devise “early warning” thresholds keyed to timely decision making. This hybrid approach offers forecasters a useful point of departure in local settings dominated by wide margins of uncertainty and inherently risky assumptions.",
+  "authors": [
+    {
+      "raw": "Morrison, Peter A.",
+      "family": "Morrison",
+      "given": "Peter A."
+    }
+  ],
+  "authors_text": "Morrison, Peter A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.1353/dem.2000.0009",
+  "doi_url": "https://doi.org/10.1353/dem.2000.0009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2000.0009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2000.0009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

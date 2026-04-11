@@ -1,0 +1,45 @@
+{
+  "title": "Segregation in Social Networks Based on Acquaintanceship and Trust",
+  "abstract": "Using 2006 General Social Survey data, the authors compare levels of segregation by race and along other dimensions of potential social cleavage in the contemporary United States. Americans are not as isolated as the most extreme recent estimates suggest. However, hopes that bridging social capital is more common in broader acquaintanceship networks than in core networks are not supported. Instead, the entire acquaintanceship network is perceived by Americans to be about as segregated as the much smaller network of close ties. People do not always know the religiosity, political ideology, family behaviors, or socioeconomic status of their acquaintances, but perceived social divisions on these dimensions are high, sometimes rivaling racial segregation in acquaintanceship networks. The major challenge to social integration today comes from the tendency of many Americans to isolate themselves from others who differ on race, political ideology, level of religiosity, and other salient aspects of social identity.",
+  "authors": [
+    {
+      "raw": "DiPrete, Thomas A.",
+      "family": "DiPrete",
+      "given": "Thomas A."
+    },
+    {
+      "raw": "Gelman, Andrew",
+      "family": "Gelman",
+      "given": "Andrew"
+    },
+    {
+      "raw": "McCormick, Tyler",
+      "family": "McCormick",
+      "given": "Tyler"
+    },
+    {
+      "raw": "Teitler, Julien",
+      "family": "Teitler",
+      "given": "Julien"
+    },
+    {
+      "raw": "Zheng, Tian",
+      "family": "Zheng",
+      "given": "Tian"
+    }
+  ],
+  "authors_text": "DiPrete, Thomas A.; Gelman, Andrew; McCormick, Tyler; Teitler, Julien; Zheng, Tian",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2011,
+  "doi": "10.1086/659100",
+  "doi_url": "https://doi.org/10.1086/659100",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F659100",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/659100.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

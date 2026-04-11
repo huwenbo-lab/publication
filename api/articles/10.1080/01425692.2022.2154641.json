@@ -1,0 +1,25 @@
+{
+  "title": "Peer preferences and educational decisions: heterogeneous associations across student socioeconomic status",
+  "abstract": "Peers may both promote conformity and discourage ambitious choices when students make educational decisions. Low socioeconomic status (SES) students may be more sensitive to outside influence than high SES students when making educational decisions. Considering the case of choosing between an academic track and a vocational track in Danish post-compulsory education, I test whether low SES students are more prone to conform to peer preference or more likely to be deterred from choosing the more ambitious academic track by more ambitious peers. I test these hypotheses using multilevel models with school fixed effects on survey data from 882 Danish 9th(-)grade students, with information on track choice and survey measures of normative track preference. I find that higher classroom peer preference for the academic track is associated with higher probability of choosing the academic track, especially for low SES students. Thus, ambitious peers may help compensate for inequality in track choice.",
+  "authors": [
+    {
+      "raw": "Smith, Emil",
+      "family": "Smith",
+      "given": "Emil"
+    }
+  ],
+  "authors_text": "Smith, Emil",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2023,
+  "doi": "10.1080/01425692.2022.2154641",
+  "doi_url": "https://doi.org/10.1080/01425692.2022.2154641",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2022.2154641",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2022.2154641.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

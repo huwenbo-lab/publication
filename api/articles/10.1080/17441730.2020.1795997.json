@@ -1,0 +1,30 @@
+{
+  "title": "Factors associated with regional variation in disability-free life expectancy based on functional difficulty among older persons in the Philippines",
+  "abstract": "This study describes regional differences in the prevalence of functional difficulty among older persons in the Philippines. Using this measure, the study examines regional variation in disability-free life expectancy (DFLE) and investigates the factors associated with this variation. Data are drawn from the 2010 Philippine Census of Population and Housing and the 2010 Philippine regional life tables. Disability-free status is defined as having no functional difficulties and is based on the binary composite of six individual functional difficulties, with no difficulties being contrasted with any difficulty. The Sullivan Method is employed to calculate DFLE and a series of bivariate meta-regression models are used to identify the socioeconomic factors associated with regional variation in DFLE. Results show substantial regional disparity in functional difficulty and DFLE among older men and older women. The population-level socioeconomic indicators associated with regional DFLE include the prevalence of poverty, GDP per capita, urbanisation, doctor to population ratio and level of education among younger adults. Associated indicators based on the older population are level of education among men and women, the labour force participation rate among men and the proportion currently married among women.",
+  "authors": [
+    {
+      "raw": "Abalos, Jeofrey B.",
+      "family": "Abalos",
+      "given": "Jeofrey B."
+    },
+    {
+      "raw": "Booth, Heather",
+      "family": "Booth",
+      "given": "Heather"
+    }
+  ],
+  "authors_text": "Abalos, Jeofrey B.; Booth, Heather",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2020,
+  "doi": "10.1080/17441730.2020.1795997",
+  "doi_url": "https://doi.org/10.1080/17441730.2020.1795997",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2020.1795997",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2020.1795997.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

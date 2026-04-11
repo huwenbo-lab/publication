@@ -1,0 +1,30 @@
+{
+  "title": "Vocational education and employment over the life course using a new measure of occupational specificity",
+  "abstract": "Vocational education is seen as beneficial for the labor market allocation of young people. However, recent studies point to disadvantages later in the life course, where the specific skills that are obtained from vocational education decrease employability. This paper re-evaluates this hypothesis for the Netherlands with an improved measure for the vocational specificity of educational programs, utilizing both vertical (level) and horizontal (field) information on education. More specifically, we use a gradual measure for the linkage strength between education and occupation to predict employment over the life course. Using data from the national Dutch labor force surveys, we show that there is considerable heterogeneity in occupational specificity within the categories of vocational and general educational programs that is masked when using a dichotomous classification of general versus vocational education. In the life course analyses we find that the large early benefits of having vocational education disappear later in the career and turn into a small disadvantage before retirement.",
+  "authors": [
+    {
+      "raw": "Forster, Andrea G.",
+      "family": "Forster",
+      "given": "Andrea G."
+    },
+    {
+      "raw": "Bol, Thijs",
+      "family": "Bol",
+      "given": "Thijs"
+    }
+  ],
+  "authors_text": "Forster, Andrea G.; Bol, Thijs",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2017.11.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.11.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.11.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.11.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

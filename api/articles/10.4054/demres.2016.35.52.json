@@ -1,0 +1,30 @@
+{
+  "title": "Lifetime probabilities of multigenerational caregiving and labor force attachment in Australia",
+  "abstract": "BACKGROUND An aging population has increased the prevalence of multigenerational caregiving (MGC), defined as unpaid care for an adult while having a dependent child in the household. Policymakers are simultaneously promoting labor force attachment in response to population aging, which may conflict with MGC status. OBJECTIVE This research provides estimates of the probability of MGC status and its relationship to labor force attachment. METHODS A balanced panel of respondents from nine waves (2005-2013) of the Household, Income and Labour Dynamics in Australia (HILDA) survey data has been used to estimate point-in-time and lifetime probabilities of MGC status for women and for men, and rates of labor force participation and part-time employment prior to, during, and after MGC status. RESULTS Few adult women (2.3%) and men (1.1%) report MGC status at any point in time. Estimated lifetime probabilities of MGC status are 57.1% for women and 34.6% for men, and rates are higher for women and men out of the labor force pre-MGC status. Comparing pre- and post-MGC periods, women's labor force participation rises by an estimated 9 percentage points, mainly due to an increase in part-time employment. CONCLUSION A majority of Australian women and many Australian men can expect to take on multigenerational caregiving responsibilities during their lifetime. While long-term labor force participation is not reduced by these responsibilities, they may increase the concentration of women in part-time employment.",
+  "authors": [
+    {
+      "raw": "Bardoel, E. Anne",
+      "family": "Bardoel",
+      "given": "E. Anne"
+    },
+    {
+      "raw": "Drago, Robert",
+      "family": "Drago",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Bardoel, E. Anne; Drago, Robert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.52",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.52",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.52",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.52.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

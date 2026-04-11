@@ -1,0 +1,30 @@
+{
+  "title": "Fixed-term Employment and Subjective Well-being: A Comparison of Natives, Migrants and Refugees",
+  "abstract": "This article examines the impact of fixed-term employment on subjective well-being among natives, migrants and refugees in Germany and the underlying mechanisms of this relationship. Utilizing longitudinal data from 2016 to 2021, we employ fixed-effects panel models and mediation analyses. We find that refugees experience stronger negative effects of fixed-term employment on their well-being than natives and migrants, especially shortly after their arrival. For migrants and natives, subjective job insecurity significantly mediates these effects, while it is less relevant for refugees. Our results indicate that it is essential to acknowledge the heterogeneous effects for vulnerable groups when studying the impact of fixed-term employment. During their integration process, refugees encounter complex labour market challenges which can pose threats to their subjective well-being. Therefore, we suggest engaging more in debates about non-standard forms of employment and taking aspects of the quality of employment into account when designing integration measures for this group.",
+  "authors": [
+    {
+      "raw": "Goßner, Laura",
+      "family": "Goßner",
+      "given": "Laura"
+    },
+    {
+      "raw": "Ehab, Maye",
+      "family": "Ehab",
+      "given": "Maye"
+    }
+  ],
+  "authors_text": "Goßner, Laura; Ehab, Maye",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2025,
+  "doi": "10.1177/09500170251393618",
+  "doi_url": "https://doi.org/10.1177/09500170251393618",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170251393618",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170251393618.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

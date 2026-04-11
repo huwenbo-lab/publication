@@ -1,0 +1,35 @@
+{
+  "title": "Educational Inequality, Educational Expansion, and Intergenerational Income Persistence in the United States",
+  "abstract": "The children of high-income parents often become high-income adults, while their low-income peers often become low-income adults. Education plays a central role in this intergenerational income persistence. Because education-based inequalities grew in recent decades, many scholars predicted that intergenerational income persistence would increase. However, previous research suggests that it remained stable across recent cohorts. We address this puzzle. Analyzing National Longitudinal Surveys of Youth data, we find that growing educational inequality by parental income, along with rising economic returns to education, increased intergenerational persistence, as scholars expected. However, two countervailing trends offset this increase. The expansion of higher education reduced persistence, because completing college helps low-income children become high-income adults. Yet, this reduction in persistence was far from enough to offset the increase in persistence associated with growing educational inequality and rising educational returns. Intergenerational persistence would have increased if not for another change: within educational groups, parental income became less predictive of adult income. New methodological tools underlie these findings, tools that quantify, for the first time, education's full force in intergenerational income persistence. These findings suggest that to reduce intergenerational persistence, educational policies should focus less on how many people complete college and more on who completes college.",
+  "authors": [
+    {
+      "raw": "Bloome, Deirdre",
+      "family": "Bloome",
+      "given": "Deirdre"
+    },
+    {
+      "raw": "Dyer, Shauna",
+      "family": "Dyer",
+      "given": "Shauna"
+    },
+    {
+      "raw": "Zhou, Xiang",
+      "family": "Zhou",
+      "given": "Xiang"
+    }
+  ],
+  "authors_text": "Bloome, Deirdre; Dyer, Shauna; Zhou, Xiang",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1177/0003122418809374",
+  "doi_url": "https://doi.org/10.1177/0003122418809374",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122418809374",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122418809374.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

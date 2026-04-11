@@ -1,0 +1,25 @@
+{
+  "title": "Modifying model life tables to derive mortality curves for countries with excess mortality",
+  "abstract": "BACKGROUND Model life tables are valuable tools for filling gaps in mortality data when estimates are only available for specific age groups, and have been used in many countries. However, their relevance has declined, as they fail to account for cause-specific mortality, leading to biased results in populations with significant differences from the reference data, such as countries with high levels of violence or road accidents. OBJECTIVE This study examines whether traditional model life tables can still be used to estimate mortality curves and their backward projection in countries with excess mortality due to external causes. METHODS We propose a simple method to adjust Coale-Demeny or UN model life tables in order to estimate mortality curves for countries with excess mortality. The method identifies the most appropriate model life table that reflects the mortality pattern without excess deaths and adjusts it to the actual one by considering external-cause mortality rates. This allows for estimating life expectancy differences with and without excess mortality. RESULTS We exemplify the method with the case of Colombia. The results show a difference in life expectancy at birth between no excess mortality and excess mortality, Delta e(0)no-excess and excess, of about-5 years in the 1990s, reaching-5.47 in 2000 and-2.39 in 2017. CONCLUSION This variation reflects key historical moments related to drug trafficking, the armed conflict, and shifts in government policy. CONTRIBUTION This method estimates mortality curves that more accurately reflect the realities of countries with high external-cause mortality, providing a better understanding of its impact on life expectancy, and improving backward population projections.",
+  "authors": [
+    {
+      "raw": "Sanchez-Cespedes, Lina Maria",
+      "family": "Sanchez-Cespedes",
+      "given": "Lina Maria"
+    }
+  ],
+  "authors_text": "Sanchez-Cespedes, Lina Maria",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.2",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "On the Impact of Public Housing on Income Segregation in France",
+  "abstract": "This article provides a geographic analysis of the contribution of public housing to income segregation in France from 1999 to 2015. The analysis is conducted with several segregation indices and at different geographic scales. Surprisingly, it appears that while home tenure (public vs. private housing) segregation has been decreasing, income segregation has been rising. With segregation decomposition techniques, we provide evidence that this is partly due to an increasing concentration of low-income households in public housing, which cancels out the effect of the spatial dispersion of public housing. Indeed. while public housing has become more homogeneously distributed geographically, which should help to reduce income segregation. the distribution of income within public (and private) housing has changed: households living in public housing were poorer in 2015 than in 1999. We also provide evidence of a sorting effect-the process of allocating public housing that is not random-so that the richest neighborhoods or municipalities receive wealthier-than-average public tenants.",
+  "authors": [
+    {
+      "raw": "Beaubrun-Diant, Kevin",
+      "family": "Beaubrun-Diant",
+      "given": "Kevin"
+    },
+    {
+      "raw": "Maury, Tristan-Pierre",
+      "family": "Maury",
+      "given": "Tristan-Pierre"
+    }
+  ],
+  "authors_text": "Beaubrun-Diant, Kevin; Maury, Tristan-Pierre",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9807596",
+  "doi_url": "https://doi.org/10.1215/00703370-9807596",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9807596",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9807596.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

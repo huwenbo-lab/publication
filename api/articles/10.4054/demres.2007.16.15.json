@@ -1,0 +1,30 @@
+{
+  "title": "Does cancer affect the divorce rate?",
+  "abstract": "Discrete-time hazard regression models were employed to register and census data on 1.4 million Norwegian married couples from 1974-2001 to explore the probability of divorce following cancer illness. Divorce rates for around 215 000 persons diagnosed",
+  "authors": [
+    {
+      "raw": "Syse, Astri",
+      "family": "Syse",
+      "given": "Astri"
+    },
+    {
+      "raw": "Kravdal, Øystein",
+      "family": "Kravdal",
+      "given": "Øystein"
+    }
+  ],
+  "authors_text": "Syse, Astri; Kravdal, Øystein",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2007,
+  "doi": "10.4054/demres.2007.16.15",
+  "doi_url": "https://doi.org/10.4054/demres.2007.16.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2007.16.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2007.16.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

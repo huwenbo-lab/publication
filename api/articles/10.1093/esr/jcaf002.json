@@ -1,0 +1,30 @@
+{
+  "title": "The effect of school peers on residential mobility in young adulthood: evidence from Sweden",
+  "abstract": "There is increasing evidence that social networks matter not only for long-distance moves but also for short-distance residential mobility. And the emerging structural sorting perspective is integrating networks into understandings of segregation processes. We add to this literature by considering how former school peers influence residential choices. We use Swedish register data describing the residential histories of cohorts of students who attended the same primary or secondary schools in Sweden. We trace their residential choices in young adulthood and estimate the effect of distance to peers on these choices. To account for selection, we use the spatial configuration of older cohorts who attended the same schools to adjust for peer similarity on unobserved preferences and attitudes. Using conditional logistic regression models of residential destinations, we find that individuals are more likely to choose a neighbourhood close to former school peers. Drawing on a linked lives perspective, we also consider how the peer effects change over the early adult life-course. The models imply that other networks can displace the social influence of primary and secondary school peers. While our analysis does not consider segregation as an outcome, our results suggest that schools may play a role in reproducing patterns of segregation within and between generations.",
+  "authors": [
+    {
+      "raw": "Fursich, Laura",
+      "family": "Fursich",
+      "given": "Laura"
+    },
+    {
+      "raw": "Jarvis, Benjamin F.",
+      "family": "Jarvis",
+      "given": "Benjamin F."
+    }
+  ],
+  "authors_text": "Fursich, Laura; Jarvis, Benjamin F.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf002",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

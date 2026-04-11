@@ -1,0 +1,25 @@
+{
+  "title": "The Cumulative Effects of Colorism: Race, Wealth, and Skin Tone",
+  "abstract": "Researchers have long documented a persistent Black-White gap in wealth. These studies, however, often treat race as a discrete category, eluding its socially constructed nature. As a result, these studies assume that the effect of race is consistent across all individuals racialized as Black. Studies that make this assumption potentially obscure heterogeneity in the size of the Black-White wealth gap. Research on skin color stratification suggests that it is possible that the Black-White wealth gap varies by the extent to which a racial subgroup is deemed to fit the broader racial umbrella. In turn, I adopt a more complex operationalization of race that is based on both racial and skin tone appraisals. Drawing on data from the National Longitudinal Survey of Youth 1997, I find that the Black-White wealth gap does vary by the Black skin tone subgroup. Generally, the Black-White gap in assets is smallest when focusing on lighter-skin Black people and largest when focusing on darker-skin Black people. These differences are not only the result of initial disadvantage but also cumulative disadvantage in the rate of wealth accumulation. Lastly, the findings suggest that the Black-White wealth gaps grow at a faster rate than the skin tone wealth gaps. I found that differences were robust to adjustments for parental socioeconomic status, childhood background, and interviewer characteristics. I conclude by discussing the theoretical implications for our understanding of the mechanisms undergirding Black-White disparities in wealth attainment.",
+  "authors": [
+    {
+      "raw": "Adames, Alexander",
+      "family": "Adames",
+      "given": "Alexander"
+    }
+  ],
+  "authors_text": "Adames, Alexander",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soad038",
+  "doi_url": "https://doi.org/10.1093/sf/soad038",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad038",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad038.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

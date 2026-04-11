@@ -1,0 +1,30 @@
+{
+  "title": "Gender composition of occupations and occupational characteristics: Explaining their true relationship by using longitudinal data",
+  "abstract": "This paper analyzes the relationship between the gender composition of occupations and occupational characteristics that describe working arrangements and qualification requirements. While prior studies showed associations between the representation of females in occupations and these occupational characteristics, we are the first to explain their true relationship by applying an analytical research design. In this regard, we add three alternative relationship patterns to the widespread assumption that occupational characteristics affect the representation of females in occupations. First, it is possible that the relationship works in the opposite direction. Second, the relationship does not necessarily have to be causal but can just be a historical connection. Third, the representation of females in occupations may follow a self-enforcing cycle. To put the relationship between the gender composition of occupations and occupational characteristics to the test, we create a unique occupation panel dataset that aggregates individual data from the 1996 to 2012 waves of the German Microcensus. Our results confirm that occupational characteristics determine the representation of females in occupations. Moreover, we find some evidence that the representation of females follows a self-enforcing cycle.",
+  "authors": [
+    {
+      "raw": "Damelang, Andreas",
+      "family": "Damelang",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Ebensperger, Sabine",
+      "family": "Ebensperger",
+      "given": "Sabine"
+    }
+  ],
+  "authors_text": "Damelang, Andreas; Ebensperger, Sabine",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102394",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102394",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102394",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102394.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

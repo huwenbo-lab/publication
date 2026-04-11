@@ -1,0 +1,35 @@
+{
+  "title": "The potential impact of comparative effectiveness research on U.S. Health Care expenditures",
+  "abstract": "Abstract Comparative effectiveness research (CER) has the potential to slow health care spending growth by focusing resources on health interventions that provide the most value. In this article, we discuss issues surrounding CER and its implementation and apply these methods to a salient clinical example: treatment of prostate cancer. Physicians have several options for treating patients recently diagnosed with localized disease, including removal of the prostate (radical prostatectomy), treatment with radioactive seeds (brachytherapy), radiation therapy (IMRT), or—if none of these are pursued—active surveillance. Using a commercial health insurance claims database and after adjustment for comorbid conditions, we estimate that the additional cost of treatment with radical prostatectomy is $7,300, while other alternatives are more expensive—$19,000 for brachytherapy and $46,900 for IMRT. However, a review of the clinical literature uncovers no evidence that justifies the use of these more expensive approaches. These results imply that if patient management strategies were shifted to those supported by CER-based criteria, an estimated $1.7 to $3.0 billion (2009 present value) could be saved each year.",
+  "authors": [
+    {
+      "raw": "Perlroth, Daniella J.",
+      "family": "Perlroth",
+      "given": "Daniella J."
+    },
+    {
+      "raw": "Goldman, Dana P.",
+      "family": "Goldman",
+      "given": "Dana P."
+    },
+    {
+      "raw": "Garber, Alan M.",
+      "family": "Garber",
+      "given": "Alan M."
+    }
+  ],
+  "authors_text": "Perlroth, Daniella J.; Goldman, Dana P.; Garber, Alan M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.2010.0004",
+  "doi_url": "https://doi.org/10.1353/dem.2010.0004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2010.0004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2010.0004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

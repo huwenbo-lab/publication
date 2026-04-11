@@ -1,0 +1,40 @@
+{
+  "title": "How Do Employers View Applicants With and Without Children?",
+  "abstract": "ObjectiveThis study investigates how parenthood influences employers' hiring decisions and the underlying signals that drive this discrimination.BackgroundPrior research has consistently shown a motherhood penalty in hiring, whereas evidence on fatherhood remains less clear. Yet, most studies simplify parenthood into a binary distinction between parents and non-parents, neglecting potential variations based on the number and age of children. Moreover, little research has examined the underlying reasons for these disparate hiring decisions.MethodA state-of-the-art vignette experiment was conducted with 452 real recruiters in Flanders (Belgium). Recruiters evaluated fictitious job applicants, whose parental status varied, on invitation rating and 16 theoretically relevant stigmas.ResultsMothers received lower invitation ratings than non-mothers, regardless of the number and age of children, which can be understood by a range of negative stigma, including lower flexibility, higher absenteeism risk, higher career break risk, and lower willingness to work overtime. For men, a penalty was found when they had many children, especially older children. Compared to fathers with fewer children, those with three children were seen as less ambitious, less flexible, less likely to work overtime, and more likely to have experienced recent loss of skills.ConclusionThe study highlights the persistent motherhood penalty and demonstrates that the fatherhood effect depends on the number and age of children.",
+  "authors": [
+    {
+      "raw": "El Haj, Morien",
+      "family": "El Haj",
+      "given": "Morien"
+    },
+    {
+      "raw": "Dalle, Axana",
+      "family": "Dalle",
+      "given": "Axana"
+    },
+    {
+      "raw": "Lippens, Louis",
+      "family": "Lippens",
+      "given": "Louis"
+    },
+    {
+      "raw": "Baert, Stijn",
+      "family": "Baert",
+      "given": "Stijn"
+    }
+  ],
+  "authors_text": "El Haj, Morien; Dalle, Axana; Lippens, Louis; Baert, Stijn",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70008",
+  "doi_url": "https://doi.org/10.1111/jomf.70008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

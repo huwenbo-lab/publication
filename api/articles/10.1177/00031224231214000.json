@@ -1,0 +1,35 @@
+{
+  "title": "The Social Foundations of Academic Freedom: Heterogeneous Institutions in World Society, 1960 to 2022",
+  "abstract": "This article analyzes academic freedom worldwide with newly available cross-national data. The literature principally addresses impingements on academic freedom arising from religion or repressive states. Academic freedom has broadly increased since 1945, but we see episodic reversals, including in recent years. Conventional work emphasizes the uniformity of international institutional structures and their influence on countries. We attend to the heterogeneity of international structures in world society and theorize how they contribute to ebbs and flows of academic freedom. Post-1945 liberal international institutions enshrined key rights and norms that bolstered academic freedom worldwide. Alongside them, however, illiberal alternatives coexisted. Cold War communism, for instance, anchored cultural frames that justified greater constraints on academia. We evaluate domestic and global arguments using regression models with country fixed effects for 155 countries from 1960 to 2022. Findings support conventional views: academic freedom is associated positively with democracy and negatively with state religiosity and militarism. We also find support for our argument regarding heterogeneous institutional structures in world society. Country linkages to liberal international institutions are positively associated with academic freedom. Illiberal international structures and organizations have the opposite effect. Heterogeneous institutions in world society, we contend, shape large-scale trajectories of academic freedom.",
+  "authors": [
+    {
+      "raw": "Lerch, Julia C.",
+      "family": "Lerch",
+      "given": "Julia C."
+    },
+    {
+      "raw": "Frank, David John",
+      "family": "Frank",
+      "given": "David John"
+    },
+    {
+      "raw": "Schofer, Evan",
+      "family": "Schofer",
+      "given": "Evan"
+    }
+  ],
+  "authors_text": "Lerch, Julia C.; Frank, David John; Schofer, Evan",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1177/00031224231214000",
+  "doi_url": "https://doi.org/10.1177/00031224231214000",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231214000",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231214000.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

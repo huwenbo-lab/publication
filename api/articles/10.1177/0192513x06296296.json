@@ -1,0 +1,30 @@
+{
+  "title": "Disaggregating the Effects of Marital Trajectories on Health",
+  "abstract": "Recent studies linking marital status and health increasingly focus on marital trajectories to examine the relationship from a life course perspective. However, research has been slow to bridge the theoretical concept of a marital trajectory with its measurement. This study uses retrospective and prospective data to model the age-dependent effects of marital sequences, timing, transitions, and durations on physical health. Results indicate that marriage duration is associated with lower rates of disease for men and women; however, the effect is time dependent and contingent on other trajectory components. For females, marriage timing and the cumulative number of divorce transitions are also important for health. For males, divorce duration and widowhood transitions play an integral role in this process. The authors also find that marital typologies have no effect when the number of transitions is taken into account.",
+  "authors": [
+    {
+      "raw": "Dupre, Matthew E.",
+      "family": "Dupre",
+      "given": "Matthew E."
+    },
+    {
+      "raw": "Meadows, Sarah O.",
+      "family": "Meadows",
+      "given": "Sarah O."
+    }
+  ],
+  "authors_text": "Dupre, Matthew E.; Meadows, Sarah O.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2007,
+  "doi": "10.1177/0192513x06296296",
+  "doi_url": "https://doi.org/10.1177/0192513x06296296",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x06296296",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x06296296.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

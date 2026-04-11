@@ -1,0 +1,30 @@
+{
+  "title": "Proximity and Police Departments: Spatial Dynamics of the Misdemeanor Arrest Decline",
+  "abstract": "What makes police departments change their practices? Do they transform in isolation, or do they mimic their neighbors? Combining insights from organizational theory and urban sociology, the authors argue that organizational change diffuses, in part, through physically proximate institutions. They apply this theory to an underexamined trend: the decline of misdemeanor arrests in the United States between 1990 and 2018. The study first explores the spatial dynamics of low-level law enforcement by graphing and mapping trends across a range of metropolitan types, finding that suburbs made the fewest low-level arrests and central cities reduced their arrests the most during these years. A spatial autoregressive panel data model reveals that police departments decreased their misdemeanor arrests more when nearby departments did so, net of crime rates and other controls, evincing spatial mimicry. Police reform efforts need not target only state and federal governments but can diffuse outward from city-level changes.",
+  "authors": [
+    {
+      "raw": "Beck, Brenden",
+      "family": "Beck",
+      "given": "Brenden"
+    },
+    {
+      "raw": "Holder, Eaven",
+      "family": "Holder",
+      "given": "Eaven"
+    }
+  ],
+  "authors_text": "Beck, Brenden; Holder, Eaven",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221124579",
+  "doi_url": "https://doi.org/10.1177/23780231221124579",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221124579",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221124579.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

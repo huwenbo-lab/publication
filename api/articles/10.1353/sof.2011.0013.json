@@ -1,0 +1,35 @@
+{
+  "title": "Multi-Scale Residential Segregation: Black Exceptionalism and America's Changing Color Line",
+  "abstract": "America's changing color line is perhaps best expressed in shifting patterns of neighborhood residential segregation—the geographic separation of races. This research evaluates black exceptionalism by using the universe of U.S. blocks from the 1990 and 2000 decennial censuses to provide a single geographically inclusive national estimate (Theil's H) of black residential segregation from whites and other groups, which can be additively decomposed into its within (e.g., neighborhood segregation within places) and between components (e.g., racial differences between places). The results show that America's blacks are living in blocks that are roughly two-thirds less racially diverse than the U.S. population overall. Nationally, neighborhood segregation processes account for half, or even less, of blacks' segregation from whites, Hispanics and Asians. Declining big-city micro-segregation has been muted by increasing or persistent macro-segregation. Moreover, with growing neighborhood segregation in the suburbs and fringe, America's central cities—the focus of most previous studies—now account for only a minority share of all neighborhood or micro-level segregation between blacks and whites. Evidence of black incorporation or spatial assimilation must account for other levels of geography that extend beyond the traditional focus on neighborhood segregation in big cities.",
+  "authors": [
+    {
+      "raw": "Parisi, D.",
+      "family": "Parisi",
+      "given": "D."
+    },
+    {
+      "raw": "Lichter, D. T.",
+      "family": "Lichter",
+      "given": "D. T."
+    },
+    {
+      "raw": "Taquino, M. C.",
+      "family": "Taquino",
+      "given": "M. C."
+    }
+  ],
+  "authors_text": "Parisi, D.; Lichter, D. T.; Taquino, M. C.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2011,
+  "doi": "10.1353/sof.2011.0013",
+  "doi_url": "https://doi.org/10.1353/sof.2011.0013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2011.0013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2011.0013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

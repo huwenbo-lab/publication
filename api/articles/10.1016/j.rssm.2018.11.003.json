@@ -1,0 +1,25 @@
+{
+  "title": "The Great Recession and shifting patterns of college effects for young men",
+  "abstract": "Economic recessions have heterogeneous effects, with the worst consequences often disproportionately concentrated among workers with little education. This suggests an increase in the effects of college during recessionary contexts. Using panel data from the U.S. before and during the Great Recession, I employ a non-parametric multilevel propensity score method to assess whether the estimated effects of college completion for young men were sensitive to the economic context they encountered. Results suggest that returns to college in terms of earnings, employment, and wages shifted across economic contexts, but that they moved in opposing directions for advantaged versus disadvantaged young men. Consistent with job competition theory, recessions seem to increase college effects on wages most for advantaged young men, while increasing college effects on employment most for the less advantaged. Therefore, any change in the value of college for young men during the Great Recession was dependent both on which specific outcome was being considered and on observable precollege characteristics such as socioeconomic background and prior academic achievement.",
+  "authors": [
+    {
+      "raw": "Curry, Matthew",
+      "family": "Curry",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Curry, Matthew",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2019,
+  "doi": "10.1016/j.rssm.2018.11.003",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2018.11.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2018.11.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2018.11.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

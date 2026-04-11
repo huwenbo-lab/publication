@@ -1,0 +1,30 @@
+{
+  "title": "Cross-National Sources of Health Inequality: Education and Tobacco Use in the World Health Survey",
+  "abstract": "AbstractThe spread of tobacco use from the West to other parts of the world, especially among disadvantaged socioeconomic groups, raises concerns not only about the indisputable harm to global health but also about worsening health inequality. Arguments relating to economic cost and diffusion posit that rising educational disparities in tobacco use—and associated disparities in health and premature mortality—are associated with higher national income and more advanced stages of cigarette diffusion, particularly among younger persons and males. To test these arguments, we use World Health Survey data for 99,661 men and 123,953 women from 50 low-income to upper-middle–income nations. Multilevel logistic regression models show that increases in national income and cigarette diffusion widen educational disparities in smoking among young persons and men but have weaker influences among older persons and women. The results suggest that the social and economic patterns of cigarette adoption across low- and middle-income nations foretell continuing, and perhaps widening, disparities in mortality.",
+  "authors": [
+    {
+      "raw": "Pampel, Fred C.",
+      "family": "Pampel",
+      "given": "Fred C."
+    },
+    {
+      "raw": "Denney, Justin T.",
+      "family": "Denney",
+      "given": "Justin T."
+    }
+  ],
+  "authors_text": "Pampel, Fred C.; Denney, Justin T.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0027-2",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0027-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0027-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0027-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

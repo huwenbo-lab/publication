@@ -1,0 +1,40 @@
+{
+  "title": "A Typology of Younger Adults' Nuclear and Extended Family Relations in the United States",
+  "abstract": "Objective: To develop a typology of relationship quality for nuclear and extended family relations of younger adults in the United States, accounting for variation across kinship types and racial/ethnic groups. Background: Existing typologies of family relationships primarily focus on nuclear ties, often neglecting relations with extended kin. Ties to extended kin are, however, central to many people's lives and may be particularly salient in certain racial/ethnic groups. Expanding current typologies to include nuclear and extended kin is therefore important for describing the diverse landscape of family relations. Method: We applied latent class analysis to data from the US sample of the KINMATRIX survey. Data of respondents aged 25 to 35 were collected online, capturing their perspectives on a wide array of nuclear and extended family members. The analytic sample comprised N = 3772 respondents and n = 65,270 dyadic relationships with their biological kin. Results: We identified five classes of relationships: tight-knit, connected-but-autonomous, disharmonious-but-supportive, intimate-but-distant, and detached. Across these classes, we found a pronounced gradient, whereby closeness declined and detachment increased with genealogical distance. Considering absolute kin numbers revealed a substantial relational reserve in extended family ties, particularly those characterized as connected-but-autonomous. These were especially relevant among Black respondents, who were less close to nuclear kin, but also less detached from extended kin. Conclusion: This study highlights the relevance of kin relations beyond the nuclear family and demonstrates the value of typological approaches assessing commonalities and differences-especially along racial/ethnic lines-in contemporary American families.",
+  "authors": [
+    {
+      "raw": "Huenteler, Bettina",
+      "family": "Huenteler",
+      "given": "Bettina"
+    },
+    {
+      "raw": "Hank, Karsten",
+      "family": "Hank",
+      "given": "Karsten"
+    },
+    {
+      "raw": "Alburez-Gutierrez, Diego",
+      "family": "Alburez-Gutierrez",
+      "given": "Diego"
+    },
+    {
+      "raw": "Leopold, Thomas",
+      "family": "Leopold",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Huenteler, Bettina; Hank, Karsten; Alburez-Gutierrez, Diego; Leopold, Thomas",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70014",
+  "doi_url": "https://doi.org/10.1111/jomf.70014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

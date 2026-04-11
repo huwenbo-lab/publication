@@ -1,0 +1,30 @@
+{
+  "title": "Immigrants' Employment Stability Over the Great Recession and Its Aftermath",
+  "abstract": "We exam ine immi grant men's employ ment sta bil ity dur ing the Great Recession and its after math using a lon gi tu di nal approach that draws on data from the Survey of Income and Program Participation (SIPP), a nation ally rep re sen ta tive panel sur vey of U.S. res i dents. Discrete-time event-his tory mod els are used to esti mate male immigrants' relative risk of experiencing an involuntary job loss or underemployment, defined as work ing less than full-time invol un tarily. The anal y sis also inves ti gates differences in job stability by immigrant documentation status. Undocumented immi-grants are iden ti fied using a log i cal allo ca tion method aug mented with exter nal infor-ma tion about whether the respon dent was suc cess fully matched with admin is tra tive data. We find that immi grants are at sig nificantly higher risk of invol un tary job loss, and espe cially of under em ploy ment rel a tive to native-born work ers. Undocumented immi grants face a greater risk of adverse job tran si tions, par tic u larly under em ploy ment in the first part of the reces sion. When demo graphic and job char ac ter is tics are taken into account, immigrant-native and documented-undocumented differences attenuate but remain in many instances. A com par i son of our find ings with those from an ear lier nonrecessionary period from 2004 to 2006 sug gests that immi grants' higher risk of employ ment insta bil ity may be attrib uted to the reces sion.",
+  "authors": [
+    {
+      "raw": "Tamborini, Christopher R.",
+      "family": "Tamborini",
+      "given": "Christopher R."
+    },
+    {
+      "raw": "Villarreal, Andres",
+      "family": "Villarreal",
+      "given": "Andres"
+    }
+  ],
+  "authors_text": "Tamborini, Christopher R.; Villarreal, Andres",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9429459",
+  "doi_url": "https://doi.org/10.1215/00703370-9429459",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9429459",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9429459.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

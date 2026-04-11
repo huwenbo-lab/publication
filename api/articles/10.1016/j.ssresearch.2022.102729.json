@@ -1,0 +1,30 @@
+{
+  "title": "Taking up the tiki torch: Understanding alt-right interest using internet search data",
+  "abstract": "The alt-right is a white supremacist social movement that operates primarily online. Its broader constituency has not been studied systematically. Participants in white supremacist movements tend to join in response to threats to their social and economic status. Quantitative work suggests they come primarily from working-and lower-middle class backgrounds. Alt-right leadership, however, argues their movement successfully mobilizes a more affluent population of college educated professionals. In this paper, we examine predictors of county-level Internet search volume for alt-right content. Results indicate that counties with larger percentages of college graduates, of highly educated non-white and immigrant groups, and higher poverty levels for college graduates tend to have a higher search volume for alt-right content. We interpret this as evidence that the alt-right appeals to college-educated whites experiencing real or perceived threats to their economic and social status.",
+  "authors": [
+    {
+      "raw": "Kyler, Anna M.",
+      "family": "Kyler",
+      "given": "Anna M."
+    },
+    {
+      "raw": "Charron-Chenier, Raphel",
+      "family": "Charron-Chenier",
+      "given": "Raphel"
+    }
+  ],
+  "authors_text": "Kyler, Anna M.; Charron-Chenier, Raphel",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2022.102729",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102729",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102729",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102729.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

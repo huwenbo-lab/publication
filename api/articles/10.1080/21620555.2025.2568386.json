@@ -1,0 +1,25 @@
+{
+  "title": "Unlocking policy implementation logic: comparative analysis of Chinese Social Credit Systems in Rongcheng and Danyang with an enterprise focus",
+  "abstract": "The Social Credit System (SCS) in China is a nationwide system that aims to assess the creditworthiness of Chinese citizens and corporations. Drawing on publicly available data from government websites of Rongcheng and Danyang, this study centers on enterprises and employs traditional statistical analysis and machine learning techniques to understand how the state-centered SCS is manifested in these two cities as well as explore the reasons for Rongcheng's success in implementing the SCS. Specifically, it focuses on analyzing and comparing the design, implementation process, and results of the SCS in Rongcheng and Danyang, to uncover how the three-level institutional context may contribute to explaining the local discrepancies between these two cities. The research finding suggests that different institutional contexts, including formal rules, institutional actors, and institutions, may operate differently in different settings. In Rongcheng and Danyang, institutions play a critical role in implementation outcomes. Rongcheng's successful approach involves public promotion of the SCS, fostering shared beliefs(institutions) and contributing to its effective implementation. These insights are valuable for designing and implementing big data-driven systems in diverse institutional environments.",
+  "authors": [
+    {
+      "raw": "Yin, Mingjing",
+      "family": "Yin",
+      "given": "Mingjing"
+    }
+  ],
+  "authors_text": "Yin, Mingjing",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1080/21620555.2025.2568386",
+  "doi_url": "https://doi.org/10.1080/21620555.2025.2568386",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2025.2568386",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2025.2568386.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

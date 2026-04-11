@@ -1,0 +1,30 @@
+{
+  "title": "Change in Social Selection to Upper Secondary School--Primary and Secondary Effects in Sweden",
+  "abstract": "Inequality of educational opportunity (IEO) depends on two separate mechanisms: children from advantaged social backgrounds perform better at school—primary effects—and tend more than others to choose to continue in education—secondary effects. IEO in the transition from compulsory to academic upper secondary education has earlier been shown to have decreased in Sweden since the middle of the 20th century. We investigate whether this change can be accounted for by changing primary or secondary effects, or perhaps by both. The analysis is based on longitudinal data for six cohorts of children, born from 1948 to 1982. Primary and secondary effects are separated both by grade point averages and cognitive test results. The estimation of the effects is based on the comparison of actual and counterfactual transitions among children from different social classes. Results show that the decrease in IEO overall seems to be related to corresponding changes in the primary and secondary effects. Secondary effects are greater when the separation is based on cognitive ability tests rather than grades and we end by discussing the consequences of this observation for the separation of primary and secondary effects.",
+  "authors": [
+    {
+      "raw": "Erikson, R.",
+      "family": "Erikson",
+      "given": "R."
+    },
+    {
+      "raw": "Rudolphi, F.",
+      "family": "Rudolphi",
+      "given": "F."
+    }
+  ],
+  "authors_text": "Erikson, R.; Rudolphi, F.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2009,
+  "doi": "10.1093/esr/jcp022",
+  "doi_url": "https://doi.org/10.1093/esr/jcp022",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcp022",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcp022.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

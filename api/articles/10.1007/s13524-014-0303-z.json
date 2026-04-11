@@ -1,0 +1,30 @@
+{
+  "title": "The Schooling of Offspring and the Survival of Parents",
+  "abstract": "AbstractContemporary stratification research on developed societies usually views the intergenerational transmission of educational advantage as a one-way effect from parent to child. However, parents’ investment in their offspring’s schooling may yield significant returns for parents themselves in later life. For instance, well-educated offspring have greater knowledge of health and technology to share with their parents and more financial means to provide for them than do their less-educated counterparts. We use data from the 1992–2006 Health and Retirement Study (HRS) to examine whether adult offspring’s educational attainments are associated with parents’ survival in the United States. We show that adult offspring’s educational attainments have independent effects on their parents’ mortality, even after controlling for parents’ own socioeconomic resources. This relationship is more pronounced for deaths that are linked to behavioral factors: most notably, chronic lower respiratory disease and lung cancer. Furthermore, at least part of the association between offspring’s schooling and parents’ survival may be explained by parents’ health behaviors, including smoking and physical activity. These findings suggest that one way to influence the health of the elderly is through their offspring. To harness the full value of schooling for health, then, a family and multigenerational perspective is needed.",
+  "authors": [
+    {
+      "raw": "Friedman, Esther M.",
+      "family": "Friedman",
+      "given": "Esther M."
+    },
+    {
+      "raw": "Mare, Robert D.",
+      "family": "Mare",
+      "given": "Robert D."
+    }
+  ],
+  "authors_text": "Friedman, Esther M.; Mare, Robert D.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0303-z",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0303-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0303-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0303-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

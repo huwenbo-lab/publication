@@ -1,0 +1,35 @@
+{
+  "title": "Educational pairings and fertility decline in Brazil: An analysis using cohort fertility",
+  "abstract": "BACKGROUND Brazil's fertility transition was the result of multiple socioeconomic transformations that started during the second quarter of the 20th century. Education expansion played an important role in this process by promoting changes in social norms and in assortative mating profiles. OBJECTIVE The goal is to estimate cohort fertility rates (CFR) of women in union by educational pairing (different combinations of men's and women's educational levels) and whether changes observed in assortative mating profiles were associated to the Brazilian cohort fertility transition. METHODS First, we estimate CFR by educational pairings for women cohorts born between 1925 and 1969. Second, we decompose the difference in CFR between younger and older cohorts into two components, the effects of changes in the composition of educational pairings (structural changes) and the rate effects (other factors). RESULTS The CFR of couples in Brazil declined from levels higher than 6 children per women for cohorts born in 1925-1929, to less than 3 children for women born in 1965-1969. Changes in the composition of educational pairing corresponded to approximately one-third of these reductions in cohort fertility. CONCLUSIONS These results suggest that changes in the composition of educational pairing related to the rising education levels of men and women corresponded to an important share of the cohort fertility decline of women in unions.",
+  "authors": [
+    {
+      "raw": "Costa Monteiro da Silva, Jose Henrique",
+      "family": "Costa Monteiro da Silva",
+      "given": "Jose Henrique"
+    },
+    {
+      "raw": "Campos de Lima, Everton Emanuel",
+      "family": "Campos de Lima",
+      "given": "Everton Emanuel"
+    },
+    {
+      "raw": "Ferreira Albino de Oliveira, Maria Coleta",
+      "family": "Ferreira Albino de Oliveira",
+      "given": "Maria Coleta"
+    }
+  ],
+  "authors_text": "Costa Monteiro da Silva, Jose Henrique; Campos de Lima, Everton Emanuel; Ferreira Albino de Oliveira, Maria Coleta",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.6",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

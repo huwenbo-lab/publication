@@ -1,0 +1,25 @@
+{
+  "title": "Who feels it? Income inequality, relative deprivation, and financial satisfaction in US states, 1973-2012",
+  "abstract": "Many accounts posit that as income inequality rises, individuals will be less satisfied with their own financial situation as they feel increasingly deprived relative to others-driving these individuals to spend more as they engage in positional competition and increasing their anxieties as position in the income distribution becomes ever more important. I examine if and for whom income inequality reduces financial satisfaction by analyzing the 1973-2012 General Social Surveys linked to state-level administrative data based on tax returns, the Census, and the American Community Survey. I find that higher state-level income inequality decreases financial satisfaction overall, and I further find that this effect is especially pronounced for those in the middle of the income distribution. Counterfactual simulations suggest rising income inequality explains a substantial portion of a four-decade decline in financial satisfaction.",
+  "authors": [
+    {
+      "raw": "Hastings, Orestes P.",
+      "family": "Hastings",
+      "given": "Orestes P."
+    }
+  ],
+  "authors_text": "Hastings, Orestes P.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2019,
+  "doi": "10.1016/j.rssm.2019.01.004",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.01.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.01.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.01.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

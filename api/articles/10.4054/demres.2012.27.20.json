@@ -1,0 +1,25 @@
+{
+  "title": "Smoothing and projecting age-specific probabilities of death by TOPALS",
+  "abstract": "TOPALS is a new relational model for smoothing and projecting age schedules. The model is operationally simple, flexible, and transparent.",
+  "authors": [
+    {
+      "raw": "de Beer, Joop",
+      "family": "de Beer",
+      "given": "Joop"
+    }
+  ],
+  "authors_text": "de Beer, Joop",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2012,
+  "doi": "10.4054/demres.2012.27.20",
+  "doi_url": "https://doi.org/10.4054/demres.2012.27.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2012.27.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2012.27.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

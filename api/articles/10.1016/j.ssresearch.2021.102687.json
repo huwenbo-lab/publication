@@ -1,0 +1,30 @@
+{
+  "title": "Nothing funnier than the news: Assessing Johnny Carson?s comedic effect, past and present",
+  "abstract": "Anecdotes abound of Johnny Carson's political influence as host of The Tonight Show, but no statistical assessment of this influence has featured in the academic literature. To address this gap between conventional wisdom and empirical evaluation, we report on findings from 1) both frequentist and Bayesian time series models of Carson's effect on President Richard Nixon's Gallup approval, and 2) a national survey experiment featuring distilled elements of Carson's approach to political comedy. The time series models find significant, but conditional, Carson effects on Nixon's approval between 1972 and 1974. Meanwhile, the experimental results show strong preference for Carson's approach to political humor (versus more contemporary styles). These findings offer additional dimensions to scholarly assessment of television comedy's political influence by providing empirical focus on the genre's foundational figure.",
+  "authors": [
+    {
+      "raw": "Calfano, Brian",
+      "family": "Calfano",
+      "given": "Brian"
+    },
+    {
+      "raw": "Han, Lori Cox",
+      "family": "Han",
+      "given": "Lori Cox"
+    }
+  ],
+  "authors_text": "Calfano, Brian; Han, Lori Cox",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102687",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102687",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102687",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102687.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

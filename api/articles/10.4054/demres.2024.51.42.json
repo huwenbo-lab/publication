@@ -1,0 +1,25 @@
+{
+  "title": "Fertility quantum and tempo with cubic age-specific birth rates",
+  "abstract": "OBJECTIVE To demonstrate the analytical value of a cubic parameterization of the age curve of fertility and to explore its features, especially its usefulness in separating fertility level and fertility timing. METHODS Using mathematical analysis, the cubic fertility curve is derived and examined in both continuous and discrete forms. RESULTS The cubic curve for replacement level fertility is found and expressed in terms of the mean age of fertility. That baseline cubic birth rate density, proportionately adjusted for the level of fertility, is shown to plausibly fit observed birth rates and imply a new approximation for their implicit stable growth rate. Because the proposed cubic model separates the effects of fertility level (quantum) and fertility timing (tempo), it leads to new period/cohort and population momentum relationships and provides a structure for relating fertility trajectories to birth sequences in changing rate models. CONTRIBUTION The cubic parameterization can simplify the representation of age curves of fertility rates while capturing their essential features. With a proportional adjustment at all ages to reflect fertility level, the cubic model can separate level and timing effects and permit numerous analytical applications. Of note, those applications include a new and superior approach to how changes in period tempo with constant quantum affect cohort fertility.",
+  "authors": [
+    {
+      "raw": "Schoen, Robert",
+      "family": "Schoen",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Schoen, Robert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.42",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.42",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.42",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.42.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Smoothing migration intensities with P-TOPALS",
+  "abstract": "BACKGROUND Age-specific migration intensities often display irregularities that need to be removed by graduation, but two current methods for doing so, parametric model migration schedules and non-parametric kernel regression, have their limitations. OBJECTIVE This paper introduces P-TOPALS, a relational method for smoothing migration data that combines both parametric and non-parametric approaches. METHODS I adapt de Beer's TOPALS framework to migration data and combine it with penalised splines to give a method that frees the user from choosing the optimal number and position of knots and that can be solved using linear techniques. I compare this method to smoothing by model migration schedules and kernel regression using one-year and five-year migration probabilities calculated from Australian census data. RESULTS I find that P-TOPALS combines the strengths of both student model migration schedules and kernel regression to allow a good estimation of the high-curvature portion of the curve at young adult ages as well as a sensitive modelling of intensities beyond the labour force peak. CONCLUSIONS P-TOPALS is a useful framework for incorporating non-parametric elements to improve a model migration schedule fit. It is flexible enough to capture the variety of profiles seen for both interstate and regional migration flows and is naturally suited to small populations where observed probabilities can be highly irregular from one age to the next. CONTRIBUTION I demonstrate a new method for migration graduation that brings together the strengths of both parametric and non-parametric approaches to give a good general-purpose smoother. An implementation of the method is available as an Excel add-in.",
+  "authors": [
+    {
+      "raw": "Dyrting, Sigurd",
+      "family": "Dyrting",
+      "given": "Sigurd"
+    }
+  ],
+  "authors_text": "Dyrting, Sigurd",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.55",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.55",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.55",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.55.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

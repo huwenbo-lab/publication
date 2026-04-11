@@ -1,0 +1,40 @@
+{
+  "title": "Life and Death in a Changing City: Mortality Patterns and Inequalities in Paris, 1890-1949",
+  "abstract": "Over the past two centuries, European metropolises have transformed from urban graveyards to healthy cocoons. Despite its critical role in the history of longevity, this evolution remains underexplored due to limited detailed data. We leverage a newly harmonized dataset of high-quality, cause-specific mortality records to examine the rapid increase in life expectancy in Paris during the first half of the 20th century. Using a consistent cause-of-death classification from 1890 to 1949, we show that infectious diseases-particularly tuberculosis and respiratory infections-accounted for 60-70 percent of the 25-year gain in life expectancy at age 1, with mortality reductions among children and young adults driving most of these improvements. We also document a profound shift in the causes behind the sex gap in life expectancy, from infectious diseases to cardiovascular and cancer-related causes. Furthermore, our analysis of cause-specific and socioeconomic data for Paris's 80 neighborhoods reveals pronounced social gradients in infectious mortality, with the poorest areas suffering the highest rates. These disparities widened during the early phase of the tuberculosis mortality decline, favoring wealthier areas, but narrowed in subsequent phases as public health improvements reached poorer neighborhoods.",
+  "authors": [
+    {
+      "raw": "Bonnet, Florian",
+      "family": "Bonnet",
+      "given": "Florian"
+    },
+    {
+      "raw": "Torres, Catalina",
+      "family": "Torres",
+      "given": "Catalina"
+    },
+    {
+      "raw": "Kesztenbaum, Lionel",
+      "family": "Kesztenbaum",
+      "given": "Lionel"
+    },
+    {
+      "raw": "Mesle, France",
+      "family": "Mesle",
+      "given": "France"
+    }
+  ],
+  "authors_text": "Bonnet, Florian; Torres, Catalina; Kesztenbaum, Lionel; Mesle, France",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70031",
+  "doi_url": "https://doi.org/10.1111/padr.70031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

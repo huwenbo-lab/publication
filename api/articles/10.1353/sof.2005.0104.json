@@ -1,0 +1,30 @@
+{
+  "title": "Residential Mobility and Adolescent Violence",
+  "abstract": "Using two waves of data from the National Longitudinal Study of Adolescent Health, this study examines the impact of recent residential mobility on adolescent violence. A unique focus of our analysis is an examination of the ability of various mechanisms, including parent-child relationships, psychological distress, experiences of victimization, and peer networks, to account for the relationship between residential mobility and violent behavior. We pay particular attention to the ability of adolescent friendship networks, including both their structural characteristics (e.g., size, density, and centrality) and their behavioral composition (e.g., friends' participation in deviant activities) to transmit the detrimental effects of residential mobility. We find that residentially-mobile adolescents exhibit higher rates of violent behavior compared to non-mobile adolescents. Although most of the impact of residential mobility on adolescent violence remains unexplained by the potential mediators, friends' involvement in deviance is by far the most important of the mechanisms that we consider.",
+  "authors": [
+    {
+      "raw": "Haynie, D. L.",
+      "family": "Haynie",
+      "given": "D. L."
+    },
+    {
+      "raw": "South, S. J.",
+      "family": "South",
+      "given": "S. J."
+    }
+  ],
+  "authors_text": "Haynie, D. L.; South, S. J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2005,
+  "doi": "10.1353/sof.2005.0104",
+  "doi_url": "https://doi.org/10.1353/sof.2005.0104",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2005.0104",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2005.0104.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

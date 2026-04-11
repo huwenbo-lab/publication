@@ -1,0 +1,35 @@
+{
+  "title": "Nonlabor Income and Age at Marriage: Evidence From China's Heating Policy",
+  "abstract": "We exploit China's heating policy to investigate how nonlabor income affects marriage. From the mid-1950s, the policy gave substantial subsidies to urban residents north of the Huai River. Applying geographic regression discontinuity, we find that with the policy, urban men in the north married 15 months earlier than men in the south. The difference is substantial given that the average age at first marriage is 24.9 years for urban men in the south. The effect is larger for later birth cohorts, which is consistent with the progressive implementation of the policy. The effect is smaller among women, consistent with women having less power in the household than men. There is no effect among rural residents, who did not benefit from the heating policy.",
+  "authors": [
+    {
+      "raw": "Chu, Junhong",
+      "family": "Chu",
+      "given": "Junhong"
+    },
+    {
+      "raw": "Liu, Haoming",
+      "family": "Liu",
+      "given": "Haoming"
+    },
+    {
+      "raw": "Png, I. P. L.",
+      "family": "Png",
+      "given": "I. P. L."
+    }
+  ],
+  "authors_text": "Chu, Junhong; Liu, Haoming; Png, I. P. L.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0732-1",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0732-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0732-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0732-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

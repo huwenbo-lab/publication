@@ -1,0 +1,45 @@
+{
+  "title": "Interaction of family SES with children's genetic propensity for cognitive and noncognitive skills: No evidence of the Scarr-Rowe hypothesis for educational outcomes",
+  "abstract": "This study examines the role of genes and environments in predicting educational outcomes. We test the Scarr-Rowe hypothesis, suggesting that enriched environments enable genetic potential to unfold, and the compensatory advantage hypothesis, proposing that low genetic endowments have less impact on education for children from high socioeconomic status (SES) families. We use a pre-registered design with Netherlands Twin Register data (426 <= N-individuals <= 3875). We build polygenic indexes (PGIs) for cognitive and noncognitive skills to predict seven educational outcomes from childhood to adulthood across three designs (between-family, within-family, and trio) accounting for different confounding sources, totalling 42 analyses. Cognitive PGIs, noncognitive PGIs, and parental education positively predict educational outcomes. Providing partial support for the compensatory hypothesis, 39/42 PGI x SES interactions are negative, with 7 reaching statistical significance under Romano-Wolf and 3 under the more conservative Bonferroni multiple testing corrections (p-value < 0.007). In contrast, the Scarr-Rowe hypothesis lacks empirical support, with just 2 non-significant and 1 significant (not surviving Romano-Wolf) positive interactions. Overall, we emphasise the need for future replication studies in larger samples. Our findings demonstrate the value of merging social-stratification and behavioural-genetic theories to better understand the intricate interplay between genetic factors and social contexts.",
+  "authors": [
+    {
+      "raw": "Ghirardi, Gaia",
+      "family": "Ghirardi",
+      "given": "Gaia"
+    },
+    {
+      "raw": "Gil-Hernandez, Carlos J.",
+      "family": "Gil-Hernandez",
+      "given": "Carlos J."
+    },
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    },
+    {
+      "raw": "van Bergen, Elsje",
+      "family": "van Bergen",
+      "given": "Elsje"
+    },
+    {
+      "raw": "Demange, Perline",
+      "family": "Demange",
+      "given": "Perline"
+    }
+  ],
+  "authors_text": "Ghirardi, Gaia; Gil-Hernandez, Carlos J.; Bernardi, Fabrizio; van Bergen, Elsje; Demange, Perline",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100960",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100960",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100960",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100960.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

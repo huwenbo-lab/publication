@@ -1,0 +1,25 @@
+{
+  "title": "Family Structure and Children's Health and Behavior",
+  "abstract": "Using data from the 1999 National Survey of America's Families, this research investigates the association and pathways between family structure and child well-being among children age 6 to 17. Three indicators of child well-being are examined: parent-rated health, limiting health conditions, and child behavior. Results show that both stepfamilies and intact families are advantageous relative to single-parent families. Family socioeconomic status (SES) and social capital are important factors of child well-being and help explain family structure effects. Family SES seems to have a stronger mediating effect than social capital. However, after simultaneously modeling these hypothesized mediators, significant differences in aspects of child well-being across family types persist in most cases. Findings support the idea that differences in child well-being across family types are considerably but not entirely accounted for by family SES, parental participation in religious services, parent–child relationship, and child engagement in extracurricular activities.",
+  "authors": [
+    {
+      "raw": "Ming Wen",
+      "family": "Ming Wen",
+      "given": ""
+    }
+  ],
+  "authors_text": "Ming Wen",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2008,
+  "doi": "10.1177/0192513x08320188",
+  "doi_url": "https://doi.org/10.1177/0192513x08320188",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x08320188",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x08320188.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

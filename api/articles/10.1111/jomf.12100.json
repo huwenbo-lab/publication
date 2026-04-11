@@ -1,0 +1,30 @@
+{
+  "title": "Estimating the Effects of Parental Divorce and Death With Fixed Effects Models",
+  "abstract": "The authors used child fixed effects models to estimate the effects of parental divorce and death on a variety of outcomes using 2 large national data sets: (a) the Early Childhood Longitudinal Study, Kindergarten Cohort (kindergarten through the 5th grade) and (b) the National Educational Longitudinal Study (8th grade to the senior year of high school). In both data sets, divorce and death were associated with multiple negative outcomes among children. Although evidence for a causal effect of divorce on children was reasonably strong, effect sizes were small in magnitude. A second analysis revealed a substantial degree of variability in children's outcomes following parental divorce, with some children declining, others improving, and most not changing at all. The estimated effects of divorce appeared to be strongest among children with the highest propensity to experience parental divorce.",
+  "authors": [
+    {
+      "raw": "Amato, Paul R.",
+      "family": "Amato",
+      "given": "Paul R."
+    },
+    {
+      "raw": "Anthony, Christopher J.",
+      "family": "Anthony",
+      "given": "Christopher J."
+    }
+  ],
+  "authors_text": "Amato, Paul R.; Anthony, Christopher J.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2014,
+  "doi": "10.1111/jomf.12100",
+  "doi_url": "https://doi.org/10.1111/jomf.12100",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12100",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12100.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

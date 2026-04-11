@@ -1,0 +1,35 @@
+{
+  "title": "Upper secondary tracks and student competencies: A selection or a causal effect? Evidence from the Italian case",
+  "abstract": "The aim of this article is to assess whether the track attended in upper secondary education affects student competencies in Italy, by disentangling the genuine effects of track choices from selection biases related to the characteristics of students enrolled in different tracks. We contribute to the literature by relying on a more detailed measure of tracking, by focusing on between-school tracking and exploring whether track effects vary systematically by student social background, a largely overlooked issue in previous research. We adopt a counterfactual approach and rely on population panel data on a recent cohort of students assessed in 5th, 8th and 10th grade. We rely on a difference-in-difference strategy integrated with marginal mean weighting with stratification and inverse probability weighting, which are used respectively to better control for selection into tracks and account for missing data. First, we document strong social selection into tracks, along various students' characteristics. Second, we find that track effects are smaller once accounting for selection processes, but are still substantial on both reading and mathematics competencies, albeit slightly larger in the latter subject. Beyond the anticipated advantage of the academic track over vocational education, we also find differential effects of attending different curricula within these tracks. Third, the benefits of attending the academic tracks appear to be rather homogeneous across students from different social backgrounds.",
+  "authors": [
+    {
+      "raw": "Triventi, Moris",
+      "family": "Triventi",
+      "given": "Moris"
+    },
+    {
+      "raw": "Barone, Carlo",
+      "family": "Barone",
+      "given": "Carlo"
+    },
+    {
+      "raw": "Facchini, Marta",
+      "family": "Facchini",
+      "given": "Marta"
+    }
+  ],
+  "authors_text": "Triventi, Moris; Barone, Carlo; Facchini, Marta",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100626",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100626",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100626",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100626.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

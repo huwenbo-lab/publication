@@ -1,0 +1,35 @@
+{
+  "title": "The promise and limits of inclusive public policy: federal safety net clinics and immigrant access to health care in the US",
+  "abstract": "In the United States, exclusionary public policies generate inequalities within and across labor, financial, and legal status hierarchies, which together undermine immigrant well-being. But can inclusive public policies improve immigrant health? We examine whether and how an immigrant-inclusive federal program, Federally Qualified Health Centers (FQHCs), shaped health care access and use among farmworkers over nearly three decades, paying particular attention to disparities at the intersection of nativity and legal status. Linking historical administrative data on the location and funding of FQHCs with the National Agricultural Workers Survey from 1989-2017, we first document trends in farmworkers' county-level proximity to FQHCs and identify a steady increase in FQHC access among undocumented farmworkers following the Affordable Care Act. Next, using time-series cross-sectional regressions with a battery of fixed effects, we find that living in a county where FQHCs are available and better resourced is associated with increased health care use among undocumented farmworkers, but not among U.S.-born or documented immigrant farmworkers. We also find that county-level access to FQHCs is associated with reduced reports of language barriers to care among both documented and undocumented foreign-born farmworkers. These findings suggest that FQHCs may improve access for immigrants who are typically excluded from U.S. health care institutions. Still, county-level FQHC infrastructure is not associated with cost-related barriers to care for any nativity or legal status groups. Taken together, our study highlights both the potential and constraints of inclusive public policies for promoting health equity in a welfare state context characterized by commodification and stratification.",
+  "authors": [
+    {
+      "raw": "Parker, Emily",
+      "family": "Parker",
+      "given": "Emily"
+    },
+    {
+      "raw": "Schut, Rebecca Anna",
+      "family": "Schut",
+      "given": "Rebecca Anna"
+    },
+    {
+      "raw": "Boen, Courtney",
+      "family": "Boen",
+      "given": "Courtney"
+    }
+  ],
+  "authors_text": "Parker, Emily; Schut, Rebecca Anna; Boen, Courtney",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae111",
+  "doi_url": "https://doi.org/10.1093/sf/soae111",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae111",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae111.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "An extended evaluation of the weathering hypothesis for birthweight",
+  "abstract": "BACKGROUND Prior weathering research finds that US-born Black women experience more rapidly deteriorating birthweight outcomes at older ages than US born White women. OBJECTIVE The present study extends this literature by evaluating maternal age-birthweight associations across a variety of racial/ethnic-nativity groups. METHODS Race/ethnicity-nativity stratified average marginal effects of maternal age on low and very low birthweight are estimated using data from 2014 through 2018 US cohort natality files. RESULTS Older maternal ages at birth are associated with higher probabilities of low and very low birthweight for most racial/ethnic-nativity groups. Consistent with the weathering hypothesis, birth at older maternal ages (e.g., 30-34 or 40+) is more predictive of low and very low birthweight for US-born Black, American Indian/Alaskan Native, and US-born Mexican American women than for US-born Whites. In contrast, some foreignborn populations exhibit relatively weak relationships between maternal age and low birthweight, suggesting the role of healthy immigrant selection. CONTRIBUTION Some disadvantaged racial/ethnic-nativity groups - US-born Black, American Indian/Alaskan Native, and US-born Mexican American women - exhibit more rapid increases in the risk of low birthweight at older maternal ages than US-born White women. These patterns are consistent with the weathering hypothesis. Future research may benefit from using linked family data and sibling modeling approaches to estimate causal models of weathering.",
+  "authors": [
+    {
+      "raw": "Fishman, Samuel",
+      "family": "Fishman",
+      "given": "Samuel"
+    }
+  ],
+  "authors_text": "Fishman, Samuel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.31",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

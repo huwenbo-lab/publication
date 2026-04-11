@@ -1,0 +1,35 @@
+{
+  "title": "Using LASSO to Assist Imputation and Predict Child Well-being",
+  "abstract": "This article documents an approach to predicting children’s well-being using data from the Fragile Families and Child Wellbeing Study, which are representative of births in large U.S. cities. The authors use the least absolute shrinkage and selection operator (LASSO) to preprocess the data. They then apply the Amelia algorithm to impute missing data. Finally, they use LASSO again for prediction with the imputed data. The authors report the performance of this approach for six outcome variables. The approach achieves the best performance for the variable material hardship. The out-of-sample mean squared error of the authors’ prediction is 0.019, the lowest among all submissions in the Fragile Families Challenge. The authors find that among variables with high predictive power, variables from mother surveys dominate. Furthermore, components of material hardship in the past strongly predict current material hardship.",
+  "authors": [
+    {
+      "raw": "Stanescu, Diana",
+      "family": "Stanescu",
+      "given": "Diana"
+    },
+    {
+      "raw": "Wang, Erik",
+      "family": "Wang",
+      "given": "Erik"
+    },
+    {
+      "raw": "Yamauchi, Soichiro",
+      "family": "Yamauchi",
+      "given": "Soichiro"
+    }
+  ],
+  "authors_text": "Stanescu, Diana; Wang, Erik; Yamauchi, Soichiro",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118814623",
+  "doi_url": "https://doi.org/10.1177/2378023118814623",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118814623",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118814623.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Birth Intention Status and Infant Mortality: Fixed-Effects Analysis of 60 Countries",
+  "abstract": "Most studies on the impact of birth intentions on children's well-being do not separate risks of infant mortality associated with pregnancy intention status from the risks that are associated with sociodemographic characteristics. There is a lack of studies taking a multicountry comparative perspective. We analyzed 60 Demographic and Health Surveys in Asia, the Americas, and Africa to examine the association between birth intentions and infant mortality using sibling fixed-effects linear probability models accounting for confounding due to time-invariant maternal characteristics. Compared to wanted births, the probability of infant mortality was higher after an unwanted or mistimed birth, or both, in 41 countries. Particularly in West Africa, mostly mistimed pregnancies were associated with infant mortality, whereas in the Americas unwanted pregnancies mattered more. These differences could be partly due to contextual variation in the concept of birth intentions and in the importance of birth spacing and limiting. We show that the risk of infant mortality after an unwanted/mistimed pregnancy was higher in countries with low human development index and high overall infant mortality rate, highlighting the importance of taking context into account rather than pooling data. To the best of our knowledge, this is the first large-scale, cross-regional, and cross-country comparative study to analyze the association between birth intentions and infant mortality using a fixed-effects approach.",
+  "authors": [
+    {
+      "raw": "Vaisanen, Heini",
+      "family": "Vaisanen",
+      "given": "Heini"
+    },
+    {
+      "raw": "Batyra, Ewa",
+      "family": "Batyra",
+      "given": "Ewa"
+    }
+  ],
+  "authors_text": "Vaisanen, Heini; Batyra, Ewa",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12652",
+  "doi_url": "https://doi.org/10.1111/padr.12652",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12652",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12652.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

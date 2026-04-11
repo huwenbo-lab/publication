@@ -1,0 +1,25 @@
+{
+  "title": "The contribution of differences in adiposity to educational disparities in mortality in the United States",
+  "abstract": "BACKGROUND There are large differences in life expectancy by educational attainment in the United States. Previous research has found obesity's contribution to these differences to be small. Those findings may be sensitive to how obesity is estimated. METHODS This analysis uses discrete-time logistic regressions with data from the National Health and Nutrition Examination Survey (NHANES), pooled from 1988 to 1994 and 1999 to 2010, to estimate the contribution of differences in adiposity, or body fat, to educational differences in mortality. I show that results depend upon the measure of adiposity used: body mass index (BMI) at the time of survey or lifetime maximum BMI. RESULTS College graduates were less likely than high school graduates to be obese at the time of survey (25% vs. 34.6%, respectively) and were also less likely to have ever been obese (35.7% vs. 49.4%, respectively). Lifetime maximum BMI performed better than BMI at the time of survey in predicting mortality using criteria for model selection. Differences in maximum BMI were associated with between 10.3% and 12% of mortality differences between college graduates and all others, compared to between 3.3% and 4.6% for BMI at the time of survey. Among nonsmokers, between 18.4% and 27.6% of mortality differences between college graduates and all others were associated with differences in maximum BMI. CONTRIBUTION Adiposity is an overlooked contributor to educational differences in mortality. Previous findings that obesity does not contribute to educational disparities were based on BMI at the time of survey, which is less informative than maximum BMI. The contribution of adiposity to educational mortality differences will likely grow as smoking prevalence declines. Health surveys should collect information on weight history.",
+  "authors": [
+    {
+      "raw": "Vierboom, Yana C.",
+      "family": "Vierboom",
+      "given": "Yana C."
+    }
+  ],
+  "authors_text": "Vierboom, Yana C.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.54",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.54",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.54",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.54.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

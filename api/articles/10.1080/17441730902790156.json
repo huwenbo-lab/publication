@@ -1,0 +1,35 @@
+{
+  "title": "ADULT MORTALITY IN MATLAB, BANGLADESH",
+  "abstract": "This study examines adult mortality (15–59 years) in Matlab using data from the Health and Demographic Surveillance System (HDSS) of the International Centre for Diarrhoeal Disease Research, Bangladesh. Levels and trends of adult mortality were ascertained by life table techniques using HDSS reports, while detailed analyses were undertaken of two cohorts (a July 1982 cohort and a January 1996 cohort), each followed for three years. Over the study period, adult mortality declined significantly, but the decline was not homogenous across socio-demographic categories. Differences in mortality by education, ownership of household items and marital status changed little, but differences by religion and study area contracted. Elderly adult mortality remains higher for males than females, but the male–female mortality difference contracted for young adults. The proportion of adult deaths due to infectious diseases almost halved over the study period, while the proportion due to non-infectious diseases and injury more than doubled.",
+  "authors": [
+    {
+      "raw": "Razzaque, Abdur",
+      "family": "Razzaque",
+      "given": "Abdur"
+    },
+    {
+      "raw": "Carmichael, Gordon A.",
+      "family": "Carmichael",
+      "given": "Gordon A."
+    },
+    {
+      "raw": "Streatfield, Peter Kim",
+      "family": "Streatfield",
+      "given": "Peter Kim"
+    }
+  ],
+  "authors_text": "Razzaque, Abdur; Carmichael, Gordon A.; Streatfield, Peter Kim",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2009,
+  "doi": "10.1080/17441730902790156",
+  "doi_url": "https://doi.org/10.1080/17441730902790156",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730902790156",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730902790156.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

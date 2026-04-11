@@ -1,0 +1,35 @@
+{
+  "title": "American crime drops: Investigating the breaks, dips and drops in temporal homicide",
+  "abstract": "Objectives: While a great deal of attention has been given to the 1990s crime drop, less is known about the more recent decline in homicide rates that occurred in several large U.S. cities. This paper aims to explore whether these represent two distinct drops via statistical evidence of structural breaks in longitudinal homicide trends and explore potentially differing explanations for the two declines. Methods: Using homicide data on a large sample of U.S. cities from 1990 to 2011, we test for structural breaks in temporal homicide rates. Combining census data and a time series approach, we also examine the role structural features, demographic shifts, and crime control strategies played in the changes in homicide rates over time. Results: Statistical evidence demonstrates two structural breaks in homicide trends, with one trend reflecting the 1990s crime drop (1994-2002) and another trend capturing a second decline (2007-2011). Time series analysis confirms previous research findings about the contributions of structural conditions (e.g., disadvantage) and crime control strategies (e.g., police force size) to the crime drop of the 1990s, but these factors cannot account for the more recent drop with the exception of police presence. Conclusions: Although both structural conditions and crime control strategies are critical to the longitudinal trends in homicide rates over the entire span from 1990 to 2011, different factors account for these two distinct temporal trends. Published by Elsevier Inc.",
+  "authors": [
+    {
+      "raw": "Parker, Karen F.",
+      "family": "Parker",
+      "given": "Karen F."
+    },
+    {
+      "raw": "Mancik, Ashley",
+      "family": "Mancik",
+      "given": "Ashley"
+    },
+    {
+      "raw": "Stansfield, Richard",
+      "family": "Stansfield",
+      "given": "Richard"
+    }
+  ],
+  "authors_text": "Parker, Karen F.; Mancik, Ashley; Stansfield, Richard",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.09.029",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.09.029",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.09.029",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.09.029.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

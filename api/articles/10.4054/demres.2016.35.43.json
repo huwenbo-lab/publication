@@ -1,0 +1,35 @@
+{
+  "title": "Does the number of siblings affect health in midlife? Evidence from the Swedish Prescribed Drug Register",
+  "abstract": "BACKGROUND In many societies, growing up in a large family is associated with receiving less parental time, attention, and financial support. As a result, children with a large number of siblings may have worse physical and mental health outcomes than children with fewer siblings. OBJECTIVE Our objective is to examine the long-term causal effects of sibship size on physical and mental health in modern Sweden. METHODS We employ longitudinal data covering the entire Swedish population from the Multigenerational Register and the Medical Birth Register. This data includes information on family size and on potential confounders such as parental background. We use the Prescribed Drug Register to identify the medicines that have been prescribed and dispensed. We use instrumental variable models with multiple births as instruments to examine the causal effects of family size on the health outcomes of children, as measured by receiving medicines at age 45. RESULTS Our results indicate that in Sweden, growing up in a large family does not have a detrimental effect on physical and mental health in midlife. CONTRIBUTION We provide a systematic overview of the health-related implications of growing up in a large family. We adopt a research design that gives us the opportunity to make causal inferences about the long-term effects of family size. Moreover, our paper provides evidence on the links between family size and health outcomes in the context of a developed country that implements policies oriented towards reducing social inequalities in health and other living conditions.",
+  "authors": [
+    {
+      "raw": "Baranowska-Rataj, Anna",
+      "family": "Baranowska-Rataj",
+      "given": "Anna"
+    },
+    {
+      "raw": "de Luna, Xavier",
+      "family": "de Luna",
+      "given": "Xavier"
+    },
+    {
+      "raw": "Ivarsson, Anneli",
+      "family": "Ivarsson",
+      "given": "Anneli"
+    }
+  ],
+  "authors_text": "Baranowska-Rataj, Anna; de Luna, Xavier; Ivarsson, Anneli",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.43",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.43",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.43",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.43.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

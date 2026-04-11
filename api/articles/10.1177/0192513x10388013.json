@@ -1,0 +1,30 @@
+{
+  "title": "Contributions to College Costs by Married, Divorced, and Remarried Parents",
+  "abstract": "Using parent interview data from a subsample of the National Postsecondary Student Aid Study (NPSAS), the authors compared the financial contributions of married, divorced, and remarried parents toward their children’s college education and found that although divorced parents contributed significantly less than married parents, remarried parents contributed amounts similar to those of divorced parents, despite having incomes similar to those of married parents. The authors also investigated the financial contributions of divorced and remarried parents who lived in states that permit courts to extend child support beyond the age of 18 for college expenses (postmajority states) and found that living in a postmajority state is not associated with increased parent contributions.",
+  "authors": [
+    {
+      "raw": "López Turley, Ruth N.",
+      "family": "López Turley",
+      "given": "Ruth N."
+    },
+    {
+      "raw": "Desmond, Matthew",
+      "family": "Desmond",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "López Turley, Ruth N.; Desmond, Matthew",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2010,
+  "doi": "10.1177/0192513x10388013",
+  "doi_url": "https://doi.org/10.1177/0192513x10388013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x10388013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x10388013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

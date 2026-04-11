@@ -1,0 +1,35 @@
+{
+  "title": "Cross-national differences in women's repartnering behaviour in Europe: The role of individual demographic characteristics",
+  "abstract": "BACKGROUND With rising union instability across Europe, more individuals now re-enter the partner market and eventually repartner. The increase in cohabitation may also be influencing repartnering behaviour. While several studies examine individual-level characteristics related to repartnering, few take a broader view and compare repartnering levels or explore how demographic characteristics associated with repartnering differ across Europe. OBJECTIVE We describe levels of repartnering and the characteristics of those exposed to repartnering in 11 European countries. We then examine whether the relationship between women's demographic characteristics at union dissolution and repartnering are similar or different across countries. Given the recent increase in cohabitation, we pay particular attention to prior cohabitation and marriage, but we also compare age at first union dissolution, first union duration, and presence of children. METHODS Using the Harmonized Histories database, we apply discrete-time hazard models separately by country and to pooled cross-national data. RESULTS Despite large differences in levels of repartnering, in most countries we find similar associations between demographic characteristics and repartnering. First union type did not matter after controlling for age and children, except in France, where those who previously cohabited had significantly lower risks of repartnering. Age at union dissolution and presence of children are negatively associated with repartnering in almost all countries. CONCLUSION Although cohabitation has increased everywhere, prior experience of a coresidential partnership outside of formal marriage makes little difference to repartnering behaviour after controls (except in France). However, regardless of country, older women and/or mothers are less likely to form second unions.",
+  "authors": [
+    {
+      "raw": "Galezewska, Paulina",
+      "family": "Galezewska",
+      "given": "Paulina"
+    },
+    {
+      "raw": "Perelli-Harris, Brienna",
+      "family": "Perelli-Harris",
+      "given": "Brienna"
+    },
+    {
+      "raw": "Berrington, Ann",
+      "family": "Berrington",
+      "given": "Ann"
+    }
+  ],
+  "authors_text": "Galezewska, Paulina; Perelli-Harris, Brienna; Berrington, Ann",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.8",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

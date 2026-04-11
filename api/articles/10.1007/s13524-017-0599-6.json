@@ -1,0 +1,40 @@
+{
+  "title": "Decomposing Current Mortality Differences Into Initial Differences and Differences in Trends: The Contour Decomposition Method",
+  "abstract": "This study proposes a new decomposition method that permits a difference in an aggregate measure at a final time point to be split into additive components corresponding to the initial differences in the event rates of the measure and differences in trends in these underlying event rates. For instance, when studying divergence in life expectancy, this method allows researchers to more easily contrast age-specific mortality trends between populations by controlling for initial age-specific mortality differences. Two approaches are assessed: (1) an additive change method that uses logic similar to cause-of-death decomposition, and (2) a contour decomposition method that extends the stepwise replacement algorithm along an age-period demographic contour. The two approaches produce similar results, but the contour method is more widely applicable. We provide a full description of the contour replacement method and examples of its application to life expectancy and lifetime disparity differences between the United States and England and Wales in the period 1980-2010.",
+  "authors": [
+    {
+      "raw": "Jdanov, Dmitri A.",
+      "family": "Jdanov",
+      "given": "Dmitri A."
+    },
+    {
+      "raw": "Shkolnikov, Vladimir M.",
+      "family": "Shkolnikov",
+      "given": "Vladimir M."
+    },
+    {
+      "raw": "van Raalte, Alyson A.",
+      "family": "van Raalte",
+      "given": "Alyson A."
+    },
+    {
+      "raw": "Andreev, Evgeny M.",
+      "family": "Andreev",
+      "given": "Evgeny M."
+    }
+  ],
+  "authors_text": "Jdanov, Dmitri A.; Shkolnikov, Vladimir M.; van Raalte, Alyson A.; Andreev, Evgeny M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0599-6",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0599-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0599-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0599-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

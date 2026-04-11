@@ -1,0 +1,30 @@
+{
+  "title": "Stepfather-stepchild Relationship Quality",
+  "abstract": "Using data from the National Survey of Families and Households, the authors investigate how a stepfather's demand for conformity from a stepchild influences stepfather-stepchild relationship quality. Drawing from normative resource theory as well as from Coleman's theory of social capital, the authors consider whether the effect depends on the social capital that the stepchild derives from his or her relationship with the biological father. The authors find that when the stepchild's social capital from this relationship is great, the stepparent's demand for conformity negatively affects stepfather-stepchild relationship quality. Otherwise, its effect is positive.",
+  "authors": [
+    {
+      "raw": "MacDONALD, WILLIAM L.",
+      "family": "MacDONALD",
+      "given": "WILLIAM L."
+    },
+    {
+      "raw": "DeMARIS, ALFRED",
+      "family": "DeMARIS",
+      "given": "ALFRED"
+    }
+  ],
+  "authors_text": "MacDONALD, WILLIAM L.; DeMARIS, ALFRED",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2002,
+  "doi": "10.1177/0192513x02023001006",
+  "doi_url": "https://doi.org/10.1177/0192513x02023001006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x02023001006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x02023001006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

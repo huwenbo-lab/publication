@@ -1,0 +1,30 @@
+{
+  "title": "Still under the ancestors' shadow? Ancestor worship and family formation in contemporary China",
+  "abstract": "BACKGROUND Ancestor worship in China used to be an indispensable component of marriage and family life because it fostered an orientation toward perpetuating the family line. However, whether or not ancestor worship still matters in contemporary China is an open question. OBJECTIVE This article presents a comprehensive study of the association between ancestor worship practices and 1) the timing of transition to first marriage, 2) the pattern of childbearing, and 3) the orientation toward son preference. METHODS Drawing on the adult sample from the Chinese Family Panel Studies 2010, several multivariate models (Cox proportional hazard model, probit regression model, negative binomial regression models, and ordered probit model) were fitted, corresponding to different types of outcome. RESULTS All else being equal, involvement in ancestor worship practices is correlated with 1) an early transition to marriage, 2) a larger number of children, 3) a higher probability of having at least one son, and 4) a larger number of sons. CONCLUSIONS The relevance of the kinship tradition to family formation persists in contemporary China and has not faded away. CONTRIBUTION By highlighting the demographic implications of ancestor worship, this study illustrates the ongoing connection between culture and demography.",
+  "authors": [
+    {
+      "raw": "Hu, Anning",
+      "family": "Hu",
+      "given": "Anning"
+    },
+    {
+      "raw": "Tian, Felicia F.",
+      "family": "Tian",
+      "given": "Felicia F."
+    }
+  ],
+  "authors_text": "Hu, Anning; Tian, Felicia F.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.1",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Firm Size and Employment during the Pandemic",
+  "abstract": "Previous studies have established that firm size is associated with a wage premium, but the wage premium has declined in recent decades. The authors examine the risk for unemployment by firm size during the initial outbreak of coronavirus disease 2019 in the United States. Using both yearly and state-month variation, the authors find greater excess unemployment among workers in small enterprises than among those in larger firms. The gaps cannot be entirely attributed to the sorting of workers or to industrial context. The firm size advantage is most pronounced in sectors with high remotability but reverses in the sectors most affected by the pandemic. Overall, these findings suggest that firm size is linked to greater job security and that the pandemic may have accelerated prior trends regarding product and labor market concentration. They also point out that the initial policy responses did not provide sufficient protection for workers in small and medium-sized businesses.",
+  "authors": [
+    {
+      "raw": "Lin, Ken-Hou",
+      "family": "Lin",
+      "given": "Ken-Hou"
+    },
+    {
+      "raw": "Aragão, Carolina",
+      "family": "Aragão",
+      "given": "Carolina"
+    },
+    {
+      "raw": "Dominguez, Guillermo",
+      "family": "Dominguez",
+      "given": "Guillermo"
+    }
+  ],
+  "authors_text": "Lin, Ken-Hou; Aragão, Carolina; Dominguez, Guillermo",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/2378023121992601",
+  "doi_url": "https://doi.org/10.1177/2378023121992601",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023121992601",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023121992601.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

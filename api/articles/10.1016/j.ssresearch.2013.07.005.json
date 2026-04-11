@@ -1,0 +1,45 @@
+{
+  "title": "Disentangling mode-specific selection and measurement bias in social surveys",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Schouten, Barry",
+      "family": "Schouten",
+      "given": "Barry"
+    },
+    {
+      "raw": "van den Brakel, Jan",
+      "family": "van den Brakel",
+      "given": "Jan"
+    },
+    {
+      "raw": "Buelens, Bart",
+      "family": "Buelens",
+      "given": "Bart"
+    },
+    {
+      "raw": "van der Laan, Jan",
+      "family": "van der Laan",
+      "given": "Jan"
+    },
+    {
+      "raw": "Klausch, Thomas",
+      "family": "Klausch",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Schouten, Barry; van den Brakel, Jan; Buelens, Bart; van der Laan, Jan; Klausch, Thomas",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2013,
+  "doi": "10.1016/j.ssresearch.2013.07.005",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2013.07.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2013.07.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2013.07.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

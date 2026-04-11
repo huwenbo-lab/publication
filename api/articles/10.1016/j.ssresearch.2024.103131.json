@@ -1,0 +1,35 @@
+{
+  "title": "Does relying on close to home information sources increase voter confidence? Evidence from the 2022 midterm elections",
+  "abstract": "Research shows that positive voter experiences shape public views about election integrity, especially confidence that votes are counted accurately. Local election officials (LEOs) play a key role in shaping these experiences. They run elections in voters' local jurisdictions, and are the authoritative sources of official, accurate, and timely information. Despite enjoying close to home status however, election officials may not be every voter's top information source for information about how to vote. In this paper, we argue that relying on close to home sources - local election offices, local or regional TV stations, and print publications - increases the chances voters are exposed to accurate information about how to vote, which translates into higher confidence in ballot accuracy. Drawing on a nationally representative survey of registered voters before the 2022 U.S. midterm elections, we find a positive relationship between these sources and voter confidence at personal, community, and state levels. This relationship holds even for integrity skeptics, such as Trump voters. While opting into close to home information ecosystems improves trust in elections, we note a key caveat: voters who rely on state election offices consistently report lower confidence. This suggests important nuances in how election officials are perceived by the public as trusted messengers in matters of election process and integrity.",
+  "authors": [
+    {
+      "raw": "Merivaki, Thessalia",
+      "family": "Merivaki",
+      "given": "Thessalia"
+    },
+    {
+      "raw": "Suttmann-Lea, Mara",
+      "family": "Suttmann-Lea",
+      "given": "Mara"
+    },
+    {
+      "raw": "Orey, Rachel",
+      "family": "Orey",
+      "given": "Rachel"
+    }
+  ],
+  "authors_text": "Merivaki, Thessalia; Suttmann-Lea, Mara; Orey, Rachel",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2024.103131",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103131",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103131",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103131.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

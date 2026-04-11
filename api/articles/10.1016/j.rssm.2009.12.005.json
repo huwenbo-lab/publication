@@ -1,0 +1,30 @@
+{
+  "title": "Allocation and distribution A discussion of the educational transition model, with reference to the Italian case",
+  "abstract": "The main characteristic of education in the past century has been its expansion: a major stratification research question associated with this is whether the inequalities of educational opportunities among classes have persisted or changed (diminished) overtime. The educational transition model (Mare, 1980, 1981). adopted by the majority of scholars in the field, separates the study of allocation, that is class inequality in education, from that of distribution, the amount of schooling and its expansion, using conditional logits. A consequence of the way this distinction has influenced subsequent research has been the emergence of a sharp gap between macro-level research on the expansion of education and stratification studies. This paper proposes to re-integrate research on allocation and distribution using cumulative logits (McCullagh, 1980) to analyse the relation between class of origin and educational attainment. Such analyses provide explicit parameters for educational expansion, as well as a measure of class inequality in educational opportunities. A model for educational expansion leading to the logistic curve is sketched, and the relation between a cumulative logit analysis and the conditional logits of the educational transition model is analysed. Empirically, the Italian case is considered, where the cumulative logit analyses show diminishing class inequality of educational opportunities (1E0), contrary to most of the previous literature. These results are systematically compared with those from the educational transition model and linear regression analyses. The difference, as it turns out, lies more in the interpretation than in the actual empirical results. (C) 2010 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Ballarino, Gabriele",
+      "family": "Ballarino",
+      "given": "Gabriele"
+    },
+    {
+      "raw": "Schadee, Hans",
+      "family": "Schadee",
+      "given": "Hans"
+    }
+  ],
+  "authors_text": "Ballarino, Gabriele; Schadee, Hans",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2010,
+  "doi": "10.1016/j.rssm.2009.12.005",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2009.12.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2009.12.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2009.12.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

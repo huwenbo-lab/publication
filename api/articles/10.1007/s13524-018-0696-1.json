@@ -1,0 +1,45 @@
+{
+  "title": "Father Absence and Accelerated Reproductive Development in Non-Hispanic White Women in the United States",
+  "abstract": "Girls who experience father absence in childhood also experience accelerated reproductive development in comparison with peers with present fathers. One hypothesis advanced to explain this empirical pattern is genetic confounding, wherein gene-environment correlation (rGE) causes a spurious relationship between father absence and reproductive timing. We test this hypothesis by constructing polygenic scores for age at menarche and first birth using recently available genome-wide association study results and molecular genetic data on a sample of non-Hispanic white females from the National Longitudinal Study of Adolescent to Adult Health. We find that young women's accelerated menarche polygenic scores are unrelated to their exposure to father absence. In contrast, polygenic scores for earlier age at first birth tend to be higher in young women raised in homes with absent fathers. Nevertheless, father absence and the polygenic scores independently and additively predict reproductive timing. We find no evidence in support of the rGE hypothesis for accelerated menarche and only limited evidence in support of the rGE hypothesis for earlier age at first birth.",
+  "authors": [
+    {
+      "raw": "Gaydosh, Lauren",
+      "family": "Gaydosh",
+      "given": "Lauren"
+    },
+    {
+      "raw": "Belsky, Daniel W.",
+      "family": "Belsky",
+      "given": "Daniel W."
+    },
+    {
+      "raw": "Domingue, Benjamin W.",
+      "family": "Domingue",
+      "given": "Benjamin W."
+    },
+    {
+      "raw": "Boardman, Jason D.",
+      "family": "Boardman",
+      "given": "Jason D."
+    },
+    {
+      "raw": "Harris, Kathleen Mullan",
+      "family": "Harris",
+      "given": "Kathleen Mullan"
+    }
+  ],
+  "authors_text": "Gaydosh, Lauren; Belsky, Daniel W.; Domingue, Benjamin W.; Boardman, Jason D.; Harris, Kathleen Mullan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0696-1",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0696-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0696-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0696-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

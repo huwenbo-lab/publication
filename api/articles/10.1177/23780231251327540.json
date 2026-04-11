@@ -1,0 +1,35 @@
+{
+  "title": "Bridging Social Capital Potential and Alzheimer’s Disease Mortality Rates",
+  "abstract": "Geographic disparities in Alzheimer’s disease are often attributed to sociodemographic differences across communities or unequal access to opportunity structures whose use serves as protective mechanisms. Yet limited research considers the social dynamics between residents that are enabled by these opportunity structures. The authors adopt a population-level approach to evaluate how ethnoracial diversity and opportunity structures function jointly to facilitate the development of bridging social capital (i.e., mixing of dissimilar people) which is hypothesized to predict Alzhiemer’s disease mortality rates. Upon analyzing Alzheimer’s disease mortality records from 2,469 U.S. counties, the authors find that counties whose sociodemographic composition and opportunity structures combine to encourage bridging capital potential exhibit lower mortality rates than counties with fewer such opportunities. These findings consistently appear in environments whose composition and structure are conducive to social mixing (i.e., workhoods and civic organizations) but inconsistently in environments that are less conducive to social mixing (i.e., residential neighborhoods). The findings highlight the importance of structural factors that create opportunities for social capital.",
+  "authors": [
+    {
+      "raw": "Roth, Adam R.",
+      "family": "Roth",
+      "given": "Adam R."
+    },
+    {
+      "raw": "Railey, Ashley F.",
+      "family": "Railey",
+      "given": "Ashley F."
+    },
+    {
+      "raw": "Peng, Siyun",
+      "family": "Peng",
+      "given": "Siyun"
+    }
+  ],
+  "authors_text": "Roth, Adam R.; Railey, Ashley F.; Peng, Siyun",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251327540",
+  "doi_url": "https://doi.org/10.1177/23780231251327540",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251327540",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251327540.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

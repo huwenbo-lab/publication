@@ -1,0 +1,30 @@
+{
+  "title": "Who Benefits Most from College? Evidence for Negative Selection in Heterogeneous Economic Returns to Higher Education",
+  "abstract": "In this article, we consider how the economic return to a college education varies across members of the U.S. population. Based on principles of comparative advantage, scholars commonly presume that positive selection is at work, that is, individuals who are most likely to select into college also benefit most from college. Net of observed economic and noneconomic factors influencing college attendance, we conjecture that individuals who are least likely to obtain a college education benefit the most from college. We call this theory the negative selection hypothesis. To adjudicate between the two hypotheses, we study the effects of completing college on earnings by propensity score strata using an innovative hierarchical linear model with data from the National Longitudinal Survey of Youth 1979 and the Wisconsin Longitudinal Study. For both cohorts, for both men and women, and for every observed stage of the life course, we find evidence suggesting negative selection. Results from auxiliary analyses lend further support to the negative selection hypothesis.",
+  "authors": [
+    {
+      "raw": "Brand, Jennie E.",
+      "family": "Brand",
+      "given": "Jennie E."
+    },
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Brand, Jennie E.; Xie, Yu",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122410363567",
+  "doi_url": "https://doi.org/10.1177/0003122410363567",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410363567",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410363567.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

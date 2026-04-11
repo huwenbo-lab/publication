@@ -1,0 +1,30 @@
+{
+  "title": "The intervening role of social integration in the effect of education on subjective mental health",
+  "abstract": "This paper contributes to the literature examining the interplay of education, social integration, and mental health. Based on social network theories, we argue that social integration plays a role in explaining the link between education and mental health. Using data from the German Panel Study Labour Market and Social Security (PASS) (observation period: 2006/2007-2018), our sample comprises 16,870 individuals. We use panel regression models to analyze the association between education and the probability of reporting at least good mental health. Based on mediation analysis techniques, we investigate the mediating role of strong and weak ties in this relationship. Results show that overall social integration, the number of close friends and relatives, and memberships in voluntary associations partly explain the link between education and mental health.",
+  "authors": [
+    {
+      "raw": "Kroh, Jacqueline",
+      "family": "Kroh",
+      "given": "Jacqueline"
+    },
+    {
+      "raw": "Prechsl, Sebastian",
+      "family": "Prechsl",
+      "given": "Sebastian"
+    }
+  ],
+  "authors_text": "Kroh, Jacqueline; Prechsl, Sebastian",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100786",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100786",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100786",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100786.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "For Richer, for Poorer: The Impact of Macroeconomic Conditions on Union Dissolution Rates in the Netherlands 1972-1996",
+  "abstract": "Most studies on union dissolution of couples focus on explanations at the individual or household level. Consequently, our knowledge on the association between macrolevel conditions and union dissolution rates is limited. In this article, we shift our focus from individual characteristics to contextual conditions as explanations for differences in union dissolution rates. We examine the effects of macroeconomic conditions on union dissolution and control these effects for changes in the cultural climate and in the financial institutions for those needing support. We use data from the Dutch Fertility and Family Surveys 1988, 1993, and 1998 (Statistics Netherlands). In these data, 12,135 female respondents started a first union between 1960 and 1996. About 20 per cent of these unions were dissolved at the time of the interview. Using hazard analyses with time-varying covariates, we estimate the effects of changing contextual conditions on union dissolution risks of cohabiting and married couples. We control the analyses for individual characteristics to rule out the role of possible composition effects on changes in union dissolution rates. The results show a linear and negative relationship between consumer confidence and union dissolution rates of women, irrespective of their level of education.",
+  "authors": [
+    {
+      "raw": "Fischer, T.",
+      "family": "Fischer",
+      "given": "T."
+    },
+    {
+      "raw": "Liefbroer, A. C.",
+      "family": "Liefbroer",
+      "given": "A. C."
+    }
+  ],
+  "authors_text": "Fischer, T.; Liefbroer, A. C.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1093/esr/jcl013",
+  "doi_url": "https://doi.org/10.1093/esr/jcl013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcl013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcl013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

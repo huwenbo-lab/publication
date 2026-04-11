@@ -1,0 +1,30 @@
+{
+  "title": "Geographic proximity to siblings in older adulthood",
+  "abstract": "BACKGROUND Research on older adults' geographic proximity to their family has focused almost exclusively on intergenerational distances, while factors associated with intragenerational proximity have received little attention.OBJECTIVES We explore associations between (1) having at least one sibling nearby and characteristics of older adults (aged 65-84), and (2) proximity to siblings and characteristics of dyads of siblings. METHODS Drawing on Swedish population register data from 2016, we use multi-level logistic regression models to investigate individual-, dyad-, and family-level determinants of close proximity to siblings.RESULTS Based on information about 987,486 individuals nested within 475,644 family groups, nearly 35% of Swedish older adults have their closest sibling living within 10 km. The likelihood of living close to at least one sibling is higher for those with a parent nearby, without partners and children, the less-educated, and living in urban areas and/or their counties of birth. This likelihood decreases with age. At the family level, having more than one sibling, same-gender siblings, and only full siblings are associated with living near a sibling. Based on information about 814,506 dyads, the propensity of close intragenerational distance is higher for those with a parent nearby, without partners or children, brothers, full siblings, the less-educated, and those living in counties of birth and urban areas.CONTRIBUTION This study contributes to the knowledge about the geography of siblings - the family members that might emerge as more active players in older adults' family networks.",
+  "authors": [
+    {
+      "raw": "Artamonova, Alyona",
+      "family": "Artamonova",
+      "given": "Alyona"
+    },
+    {
+      "raw": "Gillespie, Brian Joseph",
+      "family": "Gillespie",
+      "given": "Brian Joseph"
+    }
+  ],
+  "authors_text": "Artamonova, Alyona; Gillespie, Brian Joseph",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.7",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

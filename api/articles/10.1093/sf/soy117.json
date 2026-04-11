@@ -1,0 +1,30 @@
+{
+  "title": "Finding Jobs, Forming Families, and Stressing Out? Work, Family, and Stress among Young Adult Women in the United States",
+  "abstract": "The transition to adulthood is increasingly characterized by complex paths into the world of work and family, especially for young women. Yet how work and family combine to influence stress among young adult women is not well understood. Using data from the National Longitudinal Study of Adolescent to Adult Health, we leverage new extensions to latent class analysis (LCA) to identify common combinations of work and family circumstances among young adult women, their earlier life and contemporaneous correlates, and associations with two stress measures: a multi-item Perceived Stress Scale (PSS) and Epstein Barr Viral (EBV) antibody titers, a well-validated biomarker of stress-related immunity impairments. We identify seven different common combinations of latent work family combinations among young adult women ranging from well-compensated professional workers with and without children, mothers without paid employment, and delayed transitions to work and family. Completing a college degree was associated with a higher likelihood of membership in classes marked by professional work irrespective of motherhood, while being raised in a community with greater female labor opportunities was generally associated with membership in child-free classes. Mothers and child-free women in pink-collar work with low wages and decision-marking freedom reported higher stress compared to women in white-collar work with higher wages and decision-making freedom. These differences are mostly attenuated following adjustments for poverty-related stressors and work family conflict. While prior work has emphasized the health benefits for women of combining work and family, our research suggests these benefits may be limited to women of higher socioeconomic status with flexible, well-compensated jobs.",
+  "authors": [
+    {
+      "raw": "Lippert, Adam M.",
+      "family": "Lippert",
+      "given": "Adam M."
+    },
+    {
+      "raw": "Damaske, Sarah",
+      "family": "Damaske",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Lippert, Adam M.; Damaske, Sarah",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy117",
+  "doi_url": "https://doi.org/10.1093/sf/soy117",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy117",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy117.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

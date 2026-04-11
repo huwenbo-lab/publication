@@ -1,0 +1,35 @@
+{
+  "title": "The Value of Cultural Similarity for Predicting Migration: Evidence from Food and Drink Interests in Digital Trace Data",
+  "abstract": "One of the strongest empirical regularities in spatial demography is that flows of migrants are positively associated with population stocks at origin and destination and are inversely related to distance. This pattern was formalized into what are known as gravity models of migration. Traditionally, distance is measured geographically, but other measures of distance, such as cultural distance, are also relevant in explaining migration flows. However, measures of cultural distance are not widely adopted in the literature on modeling migration flows, partially because of the difficulties associated with operationalizing and producing these measures across space and time. In this paper, we use a scalable approach to obtain proxies for measuring cultural similarity between countries by using Facebook data and illustrate the impact of incorporating these measures, based on food and drink interests, into gravity models for predicting migration. Our results show that, despite their limitations, the new measures of cultural similarity derived from Facebook data improve the prediction power of traditional gravity models and have a predictive capacity comparable to that of classic variables used in the literature, such as shared language and history. The results open up new opportunities for understanding the determinants of migration and for predicting migration when considering broader and complementary perspectives on the meaning and measurement of distance.",
+  "authors": [
+    {
+      "raw": "Coimbra Vieira, Carolina",
+      "family": "Coimbra Vieira",
+      "given": "Carolina"
+    },
+    {
+      "raw": "Lohmann, Sophie",
+      "family": "Lohmann",
+      "given": "Sophie"
+    },
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    }
+  ],
+  "authors_text": "Coimbra Vieira, Carolina; Lohmann, Sophie; Zagheni, Emilio",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12607",
+  "doi_url": "https://doi.org/10.1111/padr.12607",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12607",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12607.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

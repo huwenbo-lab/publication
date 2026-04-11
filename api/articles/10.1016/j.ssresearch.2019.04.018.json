@@ -1,0 +1,25 @@
+{
+  "title": "Exploring violence: The role of neighborhood characteristics, alcohol outlets, and other micro-places",
+  "abstract": "This study explores the association between neighborhood characteristics, alcohol outlets, other micro-places, and neighborhood violence rates. Prior studies that examined the alcohol availability and violence associations suggested that alcohol outlets play an important role in violent outcomes, yet we know less about the larger environment in which alcohol outlets are located, including how the availability of other types of places that exist side by side with alcohol outlets in neighborhoods could influence the alcohol-violence relationships. I collected publicly available data on simple and aggravated assaults, neighborhood characteristics (concentrated disadvantage, concentrated immigration, residential stability, and ethnic heterogeneity), on- and off-premise outlets, and other micro-places (colleges and universities, primary and secondary schools, financial services, gas stations, hotels and motels, laundromats, parks and playgrounds, and rooming houses) and subsequently aggregated the data to Milwaukee, Wisconsin census block groups. I estimated spatially lagged regression models to test these associations and compared the results across the models. The findings show that some neighborhood characteristics and some micro-places are important predictors of neighborhood violence. Importantly, off-premise alcohol outlets have a consistently significant positive relationship with simple and aggravated assaults, even when the influence of the neighborhood characteristics and micro-places is accounted for in the models. This study contributes to the environmental criminology theories and alcohol availability theory by highlighting the importance of off-premise outlets as crime attractors and crime generators to explain violence.",
+  "authors": [
+    {
+      "raw": "Snowden, Aleksandra J.",
+      "family": "Snowden",
+      "given": "Aleksandra J."
+    }
+  ],
+  "authors_text": "Snowden, Aleksandra J.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.04.018",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.04.018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.04.018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.04.018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

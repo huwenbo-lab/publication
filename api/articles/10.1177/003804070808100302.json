@@ -1,0 +1,35 @@
+{
+  "title": "Are Failing schools really failing? Using seasonal comparison to evaluate school effectiveness",
+  "abstract": "To many, it seems obvious which schools are failing-schools whose students perform poorly on achievement tests. But since evaluating schools on achievement mixes the effects of school and nonschool influences, achievement-based evaluation likely underestimates the effectiveness of schools that serve disadvantaged populations. In this article, the authors discuss school-evaluation methods that more effectively separate school effects from nonschool effects. Specifically, the authors evaluate schools using 12-month (calendar-year) learning rates, 9-month (school-year) learning rates, and a provocative new measure, impact-which is the difference between the school-year learning rate and the summer learning rate. Using data from the Early Childhood Longitudinal Study of 1998-99, the authors show that learning- or impact-based evaluation methods substantially change conclusions about which schools are failing. In particular, among schools with failing (i.e., bottom-quintile) achievement levels, less than half are failing with respect to learning or impact. In addition, schools that serve disadvantaged students are much more likely to have low achievement levels than they are to have low levels of learning or impact. The implications of these findings are discussed in relation to market-based educational reform.",
+  "authors": [
+    {
+      "raw": "Downey, Douglas B.",
+      "family": "Downey",
+      "given": "Douglas B."
+    },
+    {
+      "raw": "von Hippel, Paul T.",
+      "family": "von Hippel",
+      "given": "Paul T."
+    },
+    {
+      "raw": "Hughes, Melanie",
+      "family": "Hughes",
+      "given": "Melanie"
+    }
+  ],
+  "authors_text": "Downey, Douglas B.; von Hippel, Paul T.; Hughes, Melanie",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2008,
+  "doi": "10.1177/003804070808100302",
+  "doi_url": "https://doi.org/10.1177/003804070808100302",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070808100302",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070808100302.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

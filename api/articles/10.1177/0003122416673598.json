@@ -1,0 +1,40 @@
+{
+  "title": "Do Highly Paid, Highly Skilled Women Experience the Largest Motherhood Penalty?",
+  "abstract": "Motherhood reduces women's wages. But does the size of this penalty differ between more and less advantaged women? To answer this, we use unconditional quantile regression models with person-fixed effects, and panel data from the 1979 to 2010 National Longitudinal Survey of Youth (NLSY79). We find that among white women, the most privilegedwomen with high skills and high wagesexperience the highest total penalties, estimated to include effects mediated through lost experience. Although highly skilled, highly paid women have fairly continuous experience, their high returns to experience make even the small amounts of time some of them take out of employment for childrearing costly. By contrast, penalties net of experience, which may represent employer discrimination or effects of motherhood on job performance, are not distinctive for highly skilled women with high wages.",
+  "authors": [
+    {
+      "raw": "England, Paula",
+      "family": "England",
+      "given": "Paula"
+    },
+    {
+      "raw": "Bearak, Jonathan",
+      "family": "Bearak",
+      "given": "Jonathan"
+    },
+    {
+      "raw": "Budig, Michelle J.",
+      "family": "Budig",
+      "given": "Michelle J."
+    },
+    {
+      "raw": "Hodges, Melissa J.",
+      "family": "Hodges",
+      "given": "Melissa J."
+    }
+  ],
+  "authors_text": "England, Paula; Bearak, Jonathan; Budig, Michelle J.; Hodges, Melissa J.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1177/0003122416673598",
+  "doi_url": "https://doi.org/10.1177/0003122416673598",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122416673598",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122416673598.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

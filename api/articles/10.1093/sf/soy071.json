@@ -1,0 +1,30 @@
+{
+  "title": "Examining Homicide-Suicide as a Current in the Stream Analogy of Lethal Violence",
+  "abstract": "Although suicide and homicide are two of the leading causes of death, theoretical understanding and rigorous quantitative examination of homicide-suicideuthe rare combination of suicide and homicideuare sparse. We ground homicide-suicide in the stream analogy of lethal violence and use three analytical techniques to examine the shared and unique correlates of suicide, homicide-suicide, and homicide. Data come from the National Violent Death Reporting System (NVDRS), a pooled, cross-sectional time-series database of US victims across 46 states from 2003 to 2013. A logistic regression model with robust standard errors clustered across states and year fixed effects on 105,243 suicide and homicide-suicide cases predicts the odds of homicide-suicide relative to suicide across a range of theoretically informed covariates. A multinomial logistic regression model investigates the factors that distinguish 26,243 appended homicide cases (from the NVDRS) from suicide and homicide-suicide cases. And, an item-response-based statistical approach examines the extent to which homicide-suicide perpetrators are primarily homicidal versus primarily suicidal. Results indicated that interpersonal stressors and criminal history increased, while physical and mental health stressors decreased, the odds of homicide-suicide relative to suicide. In addition, the etiology of homicide-suicide more closely resembled homicide than suicide. Finally, almost one-half of the homicide-suicide cases in our sample were classified as primarily homicidal, while less than one-quarter were classified as primarily suicidal. Findings suggest that homicide-suicide can be conceptualized as a current in the stream analogy of lethal violence, and that the prevention of homicide-suicide would be better facilitated via screening of violence prevention than suicide prevention programs.",
+  "authors": [
+    {
+      "raw": "Fridel, Emma E.",
+      "family": "Fridel",
+      "given": "Emma E."
+    },
+    {
+      "raw": "Zimmerman, Gregory M.",
+      "family": "Zimmerman",
+      "given": "Gregory M."
+    }
+  ],
+  "authors_text": "Fridel, Emma E.; Zimmerman, Gregory M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy071",
+  "doi_url": "https://doi.org/10.1093/sf/soy071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

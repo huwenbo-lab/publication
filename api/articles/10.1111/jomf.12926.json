@@ -1,0 +1,45 @@
+{
+  "title": "COVID-19 and the role of gender, earnings, and telecommuting in parents' employment",
+  "abstract": "Objective: To understand how married mothers' and fathers' earnings and ability to telecommute structured their employment throughout the COVID-19 pandemic. Background: We weigh two competing explanations-rational choice and gendered resources-to evaluate the association between married parents' financial and workplace resources and sustained employment throughout the pandemic. Method: We use hierarchical logistic regression models to analyze rotating panel data from the current population survey for respondents in dual-earner, different-sex marriages who are aged 25 to 54 with children 12 years or younger from January 2020 through August 2021. We restrict our analysis to those who were employed prior to the start of the pandemic to isolate pandemic-related exits. Results: We find that being the primary earner (i.e., earning at least half of the household income) prior to the start of the pandemic did not protect mothers from employment exits during the pandemic. Fathers' primary earner status did help sustain their employment. In contrast, access to telecommuting was an important resource to help sustain mothers' work attachment throughout the pandemic but had little association with fathers' employment. Conclusion: Rational choice explanations help explain married fathers' but not mothers' employment during the pandemic. Gendered resources better explain mothers' employment. Mothers who were primary earners were still pulled away from employment as caregiving demands grew during the pandemic. Telecommuting supported mothers' employment by offering flexibility in addressing these competing work and family demands, but not by challenging conventional gender divisions of labor among different-sex couples.",
+  "authors": [
+    {
+      "raw": "Scarborough, William J.",
+      "family": "Scarborough",
+      "given": "William J."
+    },
+    {
+      "raw": "Collins, Caitlyn",
+      "family": "Collins",
+      "given": "Caitlyn"
+    },
+    {
+      "raw": "Landivar, Liana Christin",
+      "family": "Landivar",
+      "given": "Liana Christin"
+    },
+    {
+      "raw": "Ruppanner, Leah",
+      "family": "Ruppanner",
+      "given": "Leah"
+    },
+    {
+      "raw": "Huffman, Matt L.",
+      "family": "Huffman",
+      "given": "Matt L."
+    }
+  ],
+  "authors_text": "Scarborough, William J.; Collins, Caitlyn; Landivar, Liana Christin; Ruppanner, Leah; Huffman, Matt L.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2023,
+  "doi": "10.1111/jomf.12926",
+  "doi_url": "https://doi.org/10.1111/jomf.12926",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12926",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12926.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

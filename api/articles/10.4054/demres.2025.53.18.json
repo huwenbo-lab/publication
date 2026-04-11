@@ -1,0 +1,35 @@
+{
+  "title": "Universal yet local: Estimating county-level fertility ideals and intentions in China",
+  "abstract": "BACKGROUND Understanding China's persistent low fertility requires detailed information regarding fertility attitudes at a finer geographic scale. However, data on fertility preferences at appropriate spatial resolutions are often unavailable. OBJECTIVE This study aims to estimate county-level fertility ideals and intentions in China. METHODS This study employs the multilevel regression and post-stratification method to estimate county-level fertility ideals and intentions. Fertility ideals and intentions data are drawn from a large national fertility survey, while post-stratification data come from the 2020 population census. The estimates are internally validated using a split sample approach and externally validated against independent national and regional surveys. RESULTS The estimates reveal that the county-level average ideal number of children for women of reproductive age is 1.98 (ranging from 1.29 to 3.78), while the average for the intended number of children is 1.81, with a broader range (1.02 to 3.96). The spatial distribution of fertility ideals exhibits a north-south contrast, suggesting cultural influences on family norms. Fertility intentions show coastal-inland disparities, underscoring socioeconomic conditions. Within-province variations are no less than between-province variations. CONTRIBUTION These findings highlight the complexity of the fertility attitudes landscape in China. The estimates also serve as an important data source for predicting future fertility and designing place-based policies.",
+  "authors": [
+    {
+      "raw": "Wang, Donghui",
+      "family": "Wang",
+      "given": "Donghui"
+    },
+    {
+      "raw": "Jin, Yongai",
+      "family": "Jin",
+      "given": "Yongai"
+    },
+    {
+      "raw": "Liu, Tao",
+      "family": "Liu",
+      "given": "Tao"
+    }
+  ],
+  "authors_text": "Wang, Donghui; Jin, Yongai; Liu, Tao",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.18",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

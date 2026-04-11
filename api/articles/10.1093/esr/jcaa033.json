@@ -1,0 +1,30 @@
+{
+  "title": "Explaining Cross-National Variation in the Health Benefits of Tertiary Education: What Are the Roles of the Skills Gap and the Earnings Gap?",
+  "abstract": "Recent studies have shown that the relationship between educational attainment and health varies across countries. To better understand the cross-national variation in the health benefits of higher education, we theorize and empirically examine two country-level factors-the skills gap and the earnings gap between adults with tertiary and intermediate education. We expect the skills gap and the earnings gap to moderate educational gradients in health through shaping information transparency and thus affecting labour market and marriage market opportunities, even though men and women may be affected in distinct ways. To test our hypotheses, we analyse a sample of 75,642 women and 68,004 men in 25 countries from the Programme for the International Assessment of Adult Competencies data. Multilevel linear regression models show that, for women but not men, the relationship between tertiary education and self-reported health is magnified in countries with a greater skills gap; for men but not women, the relationship between tertiary education and self-reported health is magnified in countries with a greater earnings gap. Combined, these results indicate that the educational system, the labour market, and the partner selection process cross-cut and amplify one another to shape the (re)production of health inequalities in gendered ways.",
+  "authors": [
+    {
+      "raw": "Fan, Wen",
+      "family": "Fan",
+      "given": "Wen"
+    },
+    {
+      "raw": "Han, Siqi",
+      "family": "Han",
+      "given": "Siqi"
+    }
+  ],
+  "authors_text": "Fan, Wen; Han, Siqi",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcaa033",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa033",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa033",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa033.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

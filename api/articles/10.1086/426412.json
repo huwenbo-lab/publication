@@ -1,0 +1,25 @@
+{
+  "title": "Computational models of social forms: Advancing generative process theory",
+  "abstract": "Building on Simmel's theoretical foundations, sociological process theorists continue to challenge mainstream social theory. So far, however, they have rarely relied on formal modeling. The author argues that recent advances in computational modeling offer tools to explore the emergence of social forms in the Simmelian tradition. Thanks to common foundations in both epistemology and ontology, these two fields can benefit from drawing more explicitly on each other. The process-theoretic tradition in social theory and contemporary agent-based models shift theorizing from nomothetic to generative explanations of social forms, and from variable-based to configurative ontologies. In order to formalize sociational theory, the author focuses on how to model dynamic social networks and emergent actor configurations.",
+  "authors": [
+    {
+      "raw": "Cederman, LE",
+      "family": "Cederman",
+      "given": "LE"
+    }
+  ],
+  "authors_text": "Cederman, LE",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2005,
+  "doi": "10.1086/426412",
+  "doi_url": "https://doi.org/10.1086/426412",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F426412",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/426412.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Understanding differences in children's reading ability by social origin and gender: The role of parental reading and pre- and primary school exposure in Ireland",
+  "abstract": "Given growing concerns about disadvantaged boys' achievement and disengagement from learning, this paper investigates differences in reading ability by gender and social origin. It uses data from the Growing Up in Ireland study to investigate how parents' approach to learning at home and children's exposure to early care and ed-ucation contribute to these differences. We find that both children's gender and their family's social class in-fluence their cognitive development between age 3 and age 9, though the effects are additive, with little variation in the gender gap across social class groups. Parents from more advantaged social classes read more to their 3 -year-old children than other parents, yet by age 5, when most children have started primary school, these class differences in parental reading are much lower. Parental reading, ECCE participation and length of primary school exposure were found to facilitate language development and partly explain differences in reading scores at age 9, although strong direct effects of social class remained, even accounting for vocabulary score at age 3. The benefits from parental reading, ECCE and exposure to school are broadly similar for boys and girls, though there is some evidence that boys benefit more than girls from longer exposure to school.",
+  "authors": [
+    {
+      "raw": "McGinnity, Frances",
+      "family": "McGinnity",
+      "given": "Frances"
+    },
+    {
+      "raw": "McMullin, Patricia",
+      "family": "McMullin",
+      "given": "Patricia"
+    },
+    {
+      "raw": "Murray, Aisling",
+      "family": "Murray",
+      "given": "Aisling"
+    },
+    {
+      "raw": "Russell, Helen",
+      "family": "Russell",
+      "given": "Helen"
+    },
+    {
+      "raw": "Smyth, Emer",
+      "family": "Smyth",
+      "given": "Emer"
+    }
+  ],
+  "authors_text": "McGinnity, Frances; McMullin, Patricia; Murray, Aisling; Russell, Helen; Smyth, Emer",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100729",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100729",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100729",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100729.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

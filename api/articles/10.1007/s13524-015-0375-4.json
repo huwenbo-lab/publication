@@ -1,0 +1,25 @@
+{
+  "title": "Decomposing the Effect of Crime on Population Changes",
+  "abstract": "This article estimates the effect of crime on migration rates for counties in U.S. metropolitan areas and makes three contributions to the literature. First, I use administrative data on migration flows between counties, which gives me more precise estimates of population changes than data used in previous studies. Second, I am able to decompose net population changes into gross migration flows in order to identify how individuals respond to crime rate changes. Finally, I include county-level trends so that my identification comes from shocks away from the trend. I find effects that are one-fiftieth the size of the most prominent estimate in the literature; and although the long-run effects are somewhat larger, they are still only approximately one-twentieth as large. I also find that responses to crime rates differ by subgroups, and that increases in crime cause white households to leave the county, with effects almost 10 times as large as for black households.",
+  "authors": [
+    {
+      "raw": "Foote, Andrew",
+      "family": "Foote",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Foote, Andrew",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0375-4",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0375-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0375-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0375-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

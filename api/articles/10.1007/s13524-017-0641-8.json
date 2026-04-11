@@ -1,0 +1,30 @@
+{
+  "title": "How We Fall Apart: Similarities of Human Aging in 10 European Countries",
+  "abstract": "We analyze human aging-understood as health deficit accumulation-for a panel of European individuals, using four waves of the Survey of Health, Aging and Retirement in Europe (SHARE data set) and constructing a health deficit index. Results from log-linear regressions suggest that, on average, elderly European men and women develop approximately 2.5 % more health deficits from one birthday to the next. In nonlinear regressions (akin to the Gompertz-Makeham model), however, we find much greater rates of aging and large differences between men and women as well as between countries. Interestingly, these differences follow a particular regularity (akin to the compensation effect of mortality) and suggest an age at which average health deficits converge for men and women and across countries. This age, which may be associated with human life span, is estimated as 102 +/- 2.6 years.",
+  "authors": [
+    {
+      "raw": "Abeliansky, Ana Lucia",
+      "family": "Abeliansky",
+      "given": "Ana Lucia"
+    },
+    {
+      "raw": "Strulik, Holger",
+      "family": "Strulik",
+      "given": "Holger"
+    }
+  ],
+  "authors_text": "Abeliansky, Ana Lucia; Strulik, Holger",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-017-0641-8",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0641-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0641-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0641-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Education and Public Support for COVID-19 Mitigation Measures",
+  "abstract": "Governments around the world have adopted many mitigation strategies to stop the spread of the coronavirus disease 2019 (COVID-19) pandemic. Public support for these strategies varies widely. In this visualization the authors examine whether college education might play a role in support for various COVID-19 mitigation strategies. To do so, they leverage original data from surveys conducted across six countries. The authors find that the association between education and support for COVID-19 restrictions varies considerably in direction, both by restriction type and by country. Given this finding, in many contexts, the educational status of the intended audience should be considered in how public health messaging campaigns are developed and targeted.",
+  "authors": [
+    {
+      "raw": "Chykina, Volha",
+      "family": "Chykina",
+      "given": "Volha"
+    },
+    {
+      "raw": "Crabtree, Charles",
+      "family": "Crabtree",
+      "given": "Charles"
+    }
+  ],
+  "authors_text": "Chykina, Volha; Crabtree, Charles",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231159538",
+  "doi_url": "https://doi.org/10.1177/23780231231159538",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231159538",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231159538.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

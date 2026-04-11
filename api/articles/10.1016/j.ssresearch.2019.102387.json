@@ -1,0 +1,25 @@
+{
+  "title": "The social and genetic inheritance of educational attainment: Genes, parental education, and educational expansion",
+  "abstract": "Recently, several genome-wide association studies of educational attainment have found education-related genetic variants and enabled the integration of human inheritance into social research. This study incorporates the newest education polygenic score (Lee et al., 2018) into sociological research, and tests three gene-environment interaction hypotheses on status attainment. Using the Health and Retirement Study (N = 7599), I report three findings. First, a standard deviation increase in the education polygenic score is associated with a 58% increase in the likelihood of advancing to the next level of education, while a standard deviation increase in parental education results in a 53% increase. Second, supporting the Saunders hypothesis, the genetic effect becomes 11% smaller when parental education is one standard deviation higher, indicating that highly educated parents are more able to preserve their family's elite status in the next generation. Finally, the genetic effect is slightly greater for the younger cohort (1942-59) than the older cohort (1920-41). The findings strengthen the existing literature on the social influences in helping children achieve their innate talents.",
+  "authors": [
+    {
+      "raw": "Lin, Meng-Jung",
+      "family": "Lin",
+      "given": "Meng-Jung"
+    }
+  ],
+  "authors_text": "Lin, Meng-Jung",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102387",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102387",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102387",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102387.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

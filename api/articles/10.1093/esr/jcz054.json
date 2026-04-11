@@ -1,0 +1,25 @@
+{
+  "title": "Social Influence or Rational Choice? Two Models and Their Contribution to Explaining Class Differentials in Student Educational Aspirations",
+  "abstract": "Both the Wisconsin model of status attainment (WIM) and rational choice theory (RCT) indicate that social class differentials in student educational aspirations are partially determined by academic performance. Conditional on performance, the WIM predicts that social influence mechanisms explain the remaining class differentials, whereas RCT maintains that rational calculus factors provide the explanation. Both theories have rarely been compared directly using large-scale empirical data. Moreover, the appropriateness of these models has been questioned for highly stratified and selective educational systems such as Germany's. In this article, we analyse the extent to which the WIM and RCT can explain the relationship between students' social class origins and their educational aspirations. We use data from the National Educational Panel Study and analysed the aspirations of 4,896 ninth-graders in German schools along with data about their school performance, social class positions, social influences, and rational choice factors. Our mixed logit models largely confirm that both social influences and rational choice factors mediate class differentials. Five factors contribute the most: parents' expectations, friends' aspirations, the motive of status maintenance, costs, and perceived probability of success. This research confirms that both the WIM and RCT can each independently explain aspirations and class differentials in aspirations.",
+  "authors": [
+    {
+      "raw": "Zimmermann, Thomas",
+      "family": "Zimmermann",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Zimmermann, Thomas",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcz054",
+  "doi_url": "https://doi.org/10.1093/esr/jcz054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

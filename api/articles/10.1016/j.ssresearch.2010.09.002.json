@@ -1,0 +1,25 @@
+{
+  "title": "Producing adulthood: Adolescent employment, fertility, and the life course",
+  "abstract": "Abstract Adolescent employment is typically framed as having either positive or negative effects. Yet cutting edge research yields apparently contradictory results; work lowers delinquency but also increases school dropout. Both opportunity cost and life course development theories could explain these results. This study investigates effects of employment on fertility among adolescent women, which pits life course development against opportunity cost theory. Using 2006 and 2007 American Community Surveys, individual instrumental variable and state-level difference-in-difference models (following the same cohort over time) control for self-selection and find a positive effect of employment on adolescent fertility. National Vital Statistics birth data confirm state-level results. Results for fertility (and some evidence for other early transitions) indicate that youth employment speeds the transition to adulthood, supporting life course theory. Findings suggest adolescent employment should be reconceived as promoting adult rather than positive or negative behavior.",
+  "authors": [
+    {
+      "raw": "Rauscher, Emily",
+      "family": "Rauscher",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Rauscher, Emily",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2011,
+  "doi": "10.1016/j.ssresearch.2010.09.002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2010.09.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2010.09.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2010.09.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

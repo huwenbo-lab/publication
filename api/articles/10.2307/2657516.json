@@ -1,0 +1,25 @@
+{
+  "title": "Using the literature: Reference networks, reference contexts, and the social structure of scholarship",
+  "abstract": "Networks of citations among the papers on a research topic reflect the structure of scholarship on that topic. Reference-network data for research areas from several disciplines show substantial variation in the structure of scholarship, ranging from the frequent and disproportionate citation of recent work to the frequent and disproportionate citation of foundational documents. The variation is inconsistent with the pattern expected of a simple physical sciences-behavioral sciences-humanities dimension. Citation-context analyses of references in the networks of various fields suggest that variation in network structure is due in part to differences in why authors cite their colleagues' work: Disproportionate citation of foundational documents occurs when authors cite papers as examples of perspectives or general approaches rather than as support for specific points. Differences in use patterns for citations can help us understand other differences among scholarly communities.",
+  "authors": [
+    {
+      "raw": "Hargens, LL",
+      "family": "Hargens",
+      "given": "LL"
+    }
+  ],
+  "authors_text": "Hargens, LL",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2000,
+  "doi": "10.2307/2657516",
+  "doi_url": "https://doi.org/10.2307/2657516",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2657516",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2657516.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

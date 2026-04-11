@@ -1,0 +1,35 @@
+{
+  "title": "Latent profiles of Koreans' attitudes toward alternatives to traditional marital formation",
+  "abstract": "ObjectiveDespite conceptual differences between alternatives to traditional marital formation and alternatives within traditional marriage, exclusive empirical attention to the former has been restricted. We aimed to identify the latent profiles of attitudes toward alternatives to traditional marital formation among South Koreans, including voluntary singlehood, same-sex marriage (SSM), nonmarital sex, nonmarital births, cohabitation, and domestic partnership and to examine the demographic factors that predict profile membership.BackgroundTraditionally, getting married was a required life event in Korea that must occur within a different-sex partner relationship prior to intercourse, childbirth, and living together. However, alternative partnerships and non-partnerships have become visible due to attitude changes. In this context, attitudes toward alternatives to traditional marital formation may vary among Koreans.MethodWe conducted latent profile analysis using a sample of 1584 Koreans aged 20-64 years from the 2023 Seoul Family Survey.ResultsWe identified four profiles: centrists who oppose SSM (38.0%), conservatives (27.3%), centrists across all alternatives (20.9%), and progressives (13.8%). Centrists who oppose SSM were relatively positive toward voluntary singlehood, nonmarital sex, and cohabitation; neutral toward nonmarital births and domestic partnerships; and negative toward SSM. Conservatives had relatively traditional attitudes with notable opposition to SSM. Centrists across all alternatives were neutral toward all the alternatives including SSM. Finally, progressives were the most positive toward all alternatives with the lowest score for nonmarital births. Gender, age, marital status, education, and having a religion predicted profile membership.ConclusionThe findings show variation in attitudes toward partnerships beyond traditional marriage in an East Asian context.",
+  "authors": [
+    {
+      "raw": "Lee, Jaerim",
+      "family": "Lee",
+      "given": "Jaerim"
+    },
+    {
+      "raw": "Park, Jane",
+      "family": "Park",
+      "given": "Jane"
+    },
+    {
+      "raw": "Son, Seohee",
+      "family": "Son",
+      "given": "Seohee"
+    }
+  ],
+  "authors_text": "Lee, Jaerim; Park, Jane; Son, Seohee",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13098",
+  "doi_url": "https://doi.org/10.1111/jomf.13098",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13098",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13098.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

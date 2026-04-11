@@ -1,0 +1,30 @@
+{
+  "title": "Using household death questions from surveys to assess adult mortality in periods of health crisis: An application for Peru, 2018-2022",
+  "abstract": "BACKGROUND The COVID-19 pandemic highlighted the importance of civil registration and vital statistics (CRVS) systems for tracking and monitoring mortality outcomes during a public health crisis, especially in low- and middle-income countries. Alternative mortality data sources, such as censuses and surveys, offer an opportunity to assess the impact of health crises on countries with incomplete CRVS systems. OBJECTIVE Our aim is to show that data on retrospective household deaths collected in household surveys produce informative adult mortality numbers that can be useful in estimating mortality in the context of the COVID-19 pandemic in countries with incomplete CRVS systems, such as Peru. METHODS Using data on household deaths in the previous five years from the National Demographic and Family Health Surveys of Peru (ENDES) from 2018, 2019, 2021, and 2022, we estimate the probability of dying between ages 20 and 64 ( 45 q 20 ) and compare the results with estimates from the World Population Prospects (WPP) 2022 revision and with estimates attained using the sibling survival method. RESULTS We verify that 45q20 q 20 estimates from ENDES household death information fall close to those reported by the WPP 2022. However, these estimates have high confidence intervals due to the small sample size. The sibling survival method consistently estimates lower adult mortality probabilities, even in pandemic years. Despite the difference in magnitude between the WPP 2022 estimates and those from household deaths, both provide a picture of an increase in the probability of dying among adults during the pandemic period. This is not reflected in estimates made using the sibling survival method. CONTRIBUTION Despite small sample size and irregularities in age-specific estimates, our work shows that survey questions on household deaths have a great potential for informing adult mortality over time in countries with deficient CRVS systems.",
+  "authors": [
+    {
+      "raw": "da Silva, Jose H. C. Monteiro",
+      "family": "da Silva",
+      "given": "Jose H. C. Monteiro"
+    },
+    {
+      "raw": "Castanheira, Helena Cruz",
+      "family": "Castanheira",
+      "given": "Helena Cruz"
+    }
+  ],
+  "authors_text": "da Silva, Jose H. C. Monteiro; Castanheira, Helena Cruz",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.8",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

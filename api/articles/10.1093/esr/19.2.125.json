@@ -1,0 +1,25 @@
+{
+  "title": "Cross-National Differences in Victimization. Disentangling the Impact of Composition and Context",
+  "abstract": "Varying rates of criminal victimization across countries are assumed to be the outcome of country‐level structural constraints that determine the supply of motivated offenders, as well as the differential composition within countries of suitable targets and capable guardianship. However, previous empirical tests of these ‘compositional’ and ‘contextual’ explanations of cross‐national differences have been performed upon macro‐level crime data due to the unavailability of comparable individual‐level data across countries. This limitation has had two important consequences for cross‐national crime research. First, micro‐/meso‐level mechanisms underlying cross‐national differences cannot be truly inferred from macro‐level data. Secondly, the effects of contextual measures (e.g. income inequality) on crime are uncontrolled for compositional heterogeneity. In this paper, these limitations are overcome by analysing individual‐level victimization data across 18 countries from the International Crime Victims Survey. Results from multi‐level analyses on theft and violent victimization indicate that the national level of income inequality is positively related to risk, independent of compositional (i.e. micro‐ and meso‐level) differences. Furthermore, cross‐national variation in victimization rates is not only shaped by differences in national context, but also by varying composition. More specifically, countries had higher crime rates the more they consisted of urban residents and regions with low average social cohesion.",
+  "authors": [
+    {
+      "raw": "van Wilsem, J.",
+      "family": "van Wilsem",
+      "given": "J."
+    }
+  ],
+  "authors_text": "van Wilsem, J.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2003,
+  "doi": "10.1093/esr/19.2.125",
+  "doi_url": "https://doi.org/10.1093/esr/19.2.125",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2F19.2.125",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/19.2.125.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

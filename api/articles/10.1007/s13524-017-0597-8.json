@@ -1,0 +1,25 @@
+{
+  "title": "Intergenerational Neighborhood Attainment and the Legacy of Racial Residential Segregation: A Causal Mediation Analysis",
+  "abstract": "Advances in mediation analysis are used to examine the legacy effects of racial residential segregation in the United States on neighborhood attainments across two familial generations. The legacy effects of segregation are anticipated to operate through two primary pathways: a neighborhood effects pathway and an urban continuity pathway. The neighborhood effects pathway explains why parent's exposure to racial residential segregation during their family-rearing years can influence the residential outcomes of their children later in life. The urban continuity pathway captures the temporal consistency of the built and topographical environment in providing similar residential opportunities across generations. Findings from the Panel Study of Income Dynamics and U.S. Census data indicate that the legacy effect of racial residential segregation among black families operates primarily through the neighborhood effects that influence children growing up. For white families, there is less support for the legacy effects of segregation. The findings are supported by a comprehensive mediation analysis that provides a formal sensitivity analysis, deploys an instrumental variable, and assesses effect heterogeneity. Knowledge of the legacy of segregation moves neighborhood attainment research beyond point-in-time studies of racial residential segregation to provide a deeper understanding into the ways stratified residential environments are reproduced.",
+  "authors": [
+    {
+      "raw": "Pais, Jeremy",
+      "family": "Pais",
+      "given": "Jeremy"
+    }
+  ],
+  "authors_text": "Pais, Jeremy",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0597-8",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0597-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0597-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0597-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

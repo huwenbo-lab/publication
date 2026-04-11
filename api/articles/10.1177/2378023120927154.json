@@ -1,0 +1,25 @@
+{
+  "title": "The Complexities of Race and Place: Childhood Neighborhood Disadvantage and Adult Incarceration for Whites, Blacks, and Latinos",
+  "abstract": "The author uses restricted geocoded tract-level panel data (1986–2014) that span the prison boom and the acceleration of residential segregation in the United States from two cohorts of the National Longitudinal Survey of Youth (1979 and Children and Young Adults) to study whether the association between childhood neighborhood disadvantage and adult incarceration varies by race and ethnicity. Sibling fixed-effects models suggest that exposure to childhood neighborhood disadvantage increases the likelihood of incarceration in adulthood, net of observed and unobserved adjustments. However, the association appears weakest for blacks, especially black boys, compared with whites and Latinos. This suggests a more consistent likelihood of incarceration for blacks across all neighborhood origins. The author discusses potential theoretical explanations, including discrimination in profiling, policing, surveillance, and other prejudicial policies in the criminal justice system that are likely to uniquely affect blacks from all neighborhoods.",
+  "authors": [
+    {
+      "raw": "Alvarado, Steven Elías",
+      "family": "Alvarado",
+      "given": "Steven Elías"
+    }
+  ],
+  "authors_text": "Alvarado, Steven Elías",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120927154",
+  "doi_url": "https://doi.org/10.1177/2378023120927154",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120927154",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120927154.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

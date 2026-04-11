@@ -1,0 +1,35 @@
+{
+  "title": "Revisiting the Occupational Health Impact of Right-to-Work Laws: A Research Note",
+  "abstract": "This research note reevaluates the occu pa tional health impact of rightto-work (RTW) legislation, incorporating recent developments in causal inference tech niques. In an era marked by an uptick in the adop tion of anti-union leg is la tion and increases in work place fatal i ties and injuries, it is par tic u larly urgent to exam ine the extent to which RTW laws affect work ers' health. Using a state-year-level dataset span ning 28 years and col lected from mul ti ple data sources, we apply an inno va tive generalized synthetic control method to overcome several limitations of the traditional two-way fixed-effects approach to exam ine the effect of RTW laws on occu pa tional fatal injuries as well as var i ous other health out comes. Robustness checks were conducted using a wide range of alter na tive meth ods for two-way fixed-effects adjust ments. In con trast with find ings from pre vi ous stud ies, we found null effects on occu pa tional fatal injuries, as well as on all other health out comes. Overall, our results indi cate that find ings from pre vi ous stud ies are based on very thin empir i cal evi dence, with potentially underestimated stan dard errors and unob served con found ers. Our results high light the impor tance of revisiting research ques tions using updated meth od o log i cal tools.",
+  "authors": [
+    {
+      "raw": "Zang, Emma",
+      "family": "Zang",
+      "given": "Emma"
+    },
+    {
+      "raw": "Hu, Qinyou",
+      "family": "Hu",
+      "given": "Qinyou"
+    },
+    {
+      "raw": "Wang, Zitong",
+      "family": "Wang",
+      "given": "Zitong"
+    }
+  ],
+  "authors_text": "Zang, Emma; Hu, Qinyou; Wang, Zitong",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11556182",
+  "doi_url": "https://doi.org/10.1215/00703370-11556182",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11556182",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11556182.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

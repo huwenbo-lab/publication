@@ -1,0 +1,40 @@
+{
+  "title": "Racialized Discourse in Seattle Rental Ad Texts",
+  "abstract": "Racial discrimination has been a central driver of residential segregation for many decades, in the Seattle area as well as in the United States as a whole. In addition to redlining and restrictive housing covenants, housing advertisements included explicit racial language until 1968. Since then, housing patterns have remained racialized, despite overt forms of racial language and discrimination becoming less prevalent. In this paper, we use Structural Topic Models (STM) and qualitative analysis to investigate how contemporary rental listings from the Seattle-Tacoma Craigslist page differ in their description based on neighborhood racial composition. Results showthat listings from White neighborhoods emphasize trust and connections to neighborhood history and culture, while listings from non-White neighborhoods offer more incentives and focus on transportation and development features, sundering these units from their surroundings. Without explicitly mentioning race, these listings display racialized neighborhood discourse that might impact neighborhood decision-making in ways that contribute to the perpetuation of housing segregation.",
+  "authors": [
+    {
+      "raw": "Kennedy, Ian",
+      "family": "Kennedy",
+      "given": "Ian"
+    },
+    {
+      "raw": "Hess, Chris",
+      "family": "Hess",
+      "given": "Chris"
+    },
+    {
+      "raw": "Paullada, Amandalynne",
+      "family": "Paullada",
+      "given": "Amandalynne"
+    },
+    {
+      "raw": "Chasins, Sarah",
+      "family": "Chasins",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Kennedy, Ian; Hess, Chris; Paullada, Amandalynne; Chasins, Sarah",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa075",
+  "doi_url": "https://doi.org/10.1093/sf/soaa075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Effect of Schooling on Mortality: New Evidence From 50,000 Swedish Twins",
+  "abstract": "By using historical data on about 50,000 twins born in Sweden during 1886-1958, we demonstrate a positive and statistically significant relationship between years of schooling and longevity. This relation remains almost unchanged when exploiting a twin fixed-effects design to control for the influence of genetics and shared family background. This result is robust to controlling for within-twin-pair differences in early-life health and cognitive ability, as proxied by birth weight and height, as well as to restricting the sample to MZ twins. The relationship is fairly constant over time but becomes weaker with age. Literally, our results suggest that compared with low levels of schooling (less than 10 years), high levels of schooling (at least 13 years of schooling) are associated with about three years longer life expectancy at age 60 for the considered birth cohorts. The real societal value of schooling may hence extend beyond pure labor market and economic growth returns. From a policy perspective, schooling may therefore be a vehicle for improving longevity and health, as well as equality along these dimensions.",
+  "authors": [
+    {
+      "raw": "Lundborg, Petter",
+      "family": "Lundborg",
+      "given": "Petter"
+    },
+    {
+      "raw": "Lyttkens, Carl Hampus",
+      "family": "Lyttkens",
+      "given": "Carl Hampus"
+    },
+    {
+      "raw": "Nystedt, Paul",
+      "family": "Nystedt",
+      "given": "Paul"
+    }
+  ],
+  "authors_text": "Lundborg, Petter; Lyttkens, Carl Hampus; Nystedt, Paul",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0489-3",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0489-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0489-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0489-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

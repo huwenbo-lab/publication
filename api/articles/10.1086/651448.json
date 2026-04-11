@@ -1,0 +1,35 @@
+{
+  "title": "Social Influence and the Autism Epidemic",
+  "abstract": "Despite a plethora of studies, we do not know why autism incidence has increased rapidly over the past two decades. Using California data, this study shows that children living very close to a child previously diagnosed with autism are more likely to be diagnosed with autism. An underlying social influence mechanism involving information diffusion drives this result, contributing to 16% of the increase in prevalence over 2000-2005. We eliminate competing explanations (i.e., residential sorting, environmental toxicants, and viral transmission) through seven tests and show that information diffusion simultaneously contributed to the increased prevalence, spatial clustering, and decreasing age of diagnosis.",
+  "authors": [
+    {
+      "raw": "Liu, Ka-Yuet",
+      "family": "Liu",
+      "given": "Ka-Yuet"
+    },
+    {
+      "raw": "King, Marissa",
+      "family": "King",
+      "given": "Marissa"
+    },
+    {
+      "raw": "Bearman, Peter S.",
+      "family": "Bearman",
+      "given": "Peter S."
+    }
+  ],
+  "authors_text": "Liu, Ka-Yuet; King, Marissa; Bearman, Peter S.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2010,
+  "doi": "10.1086/651448",
+  "doi_url": "https://doi.org/10.1086/651448",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F651448",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/651448.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Partner's Education and Mortality in Finland: A Study of Married and Cohabiting Unions Among Cohorts Born Between 1932 and 1970",
+  "abstract": "Abstract The consequences of educational expansion and changes in couples’ educational distribution on mortality risk remain understudied. Using Finnish full population register data, this study examines the extent to which the education of both partners in married and cohabiting couples born between 1932 and 1970 is related to mortality risk. The results of Gompertz survival models show that a “resource multiplication mechanism” tends to prevail among these couples. Specifically, homogamous highly educated couples tend to have the highest survival advantage, low-educated couples have the greatest mortality risk, and heterogamous couples fall in between. One exception is women born in 1932–1950, who present a “resource substitution mechanism.” Women in couples in which one of the partners has a low level of education have similar survival probabilities to those in highly educated couples, meaning that men’s education could fully compensate for women’s lack of education. However, among women born between 1951 and 1970, these differences grow to resemble those observed in men, although they remain less pronounced. Furthermore, mortality has risen over time among low-educated couples, particularly cohabiters, while highly educated married couples have experienced significant mortality declines. Overall, cohabiters and low-educated men partnered with low-educated women emerge as the most vulnerable groups.",
+  "authors": [
+    {
+      "raw": "Potente, Cecilia",
+      "family": "Potente",
+      "given": "Cecilia"
+    },
+    {
+      "raw": "Palumbo, Lydia",
+      "family": "Palumbo",
+      "given": "Lydia"
+    },
+    {
+      "raw": "Jalovaara, Marika",
+      "family": "Jalovaara",
+      "given": "Marika"
+    }
+  ],
+  "authors_text": "Potente, Cecilia; Palumbo, Lydia; Jalovaara, Marika",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09752-8",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09752-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09752-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09752-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

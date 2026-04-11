@@ -1,0 +1,30 @@
+{
+  "title": "Shocks and migration in Malawi",
+  "abstract": "BACKGROUND Research on the relationship between shocks and migration has primarily focused on large shocks, such as natural disasters or economic crises. Far less is known about smaller shocks, despite the fact that these shocks are common and often have a large impact on individuals and households, particularly in developing settings. OBJECTIVE We examine whether rural Malawians move after experiencing different types of small-scale shocks and examine if this relationship differs by gender and the number of shocks experienced. METHODS We use longitudinal panel data and measure shock exposure in 2008 and migration by 2010, which permits us to identify the order of events between migration and shock experience. We use multivariate logistic regression models to examine the relationship between shock experience and migration. RESULTS Those who experienced shocks in 2008 are significantly more likely to migrate. Men are more likely to move after environmental/economic shocks, while women are more likely to move after household shocks. While experiencing one shock does not lead to migration, those experiencing multiple shocks are more likely to migrate. CONCLUSIONS Small-scale shocks appear to force many rural Malawians to move residences. But the exact relationship between shocks and migration varies by gender and the number of shocks experienced.",
+  "authors": [
+    {
+      "raw": "Anglewicz, Philip",
+      "family": "Anglewicz",
+      "given": "Philip"
+    },
+    {
+      "raw": "Myroniuk, Tyler W.",
+      "family": "Myroniuk",
+      "given": "Tyler W."
+    }
+  ],
+  "authors_text": "Anglewicz, Philip; Myroniuk, Tyler W.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.14",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

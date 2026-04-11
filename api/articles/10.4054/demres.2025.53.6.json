@@ -1,0 +1,35 @@
+{
+  "title": "Trends in Indigenous fertility in Canada, 2001-2021",
+  "abstract": "BACKGROUND Indigenous peoples in Canada are among the youngest and fastest-growing populations in the country and have had higher fertility rates than non-Indigenous populations. OBJECTIVE This paper examines how Indigenous fertility in Canada changed over two decades (2001-2021). It also examines how Indigenous fertility varies across different Indigenous populations and how the gap between Indigenous and non-Indigenous fertility has changed. METHODS The paper uses the own-children method to reconstruct the total fertility rate (TFR) of Indigenous populations in Canada. Data are from confidential long-form Canadian census micro-files from 2000, 2006, 2016, and 2021 and from the National Household Survey of 2011. RESULTS First, we find that Indigenous fertility was close to replacement level in 2001, 2006, and 2011 and that it declined below replacement fertility in 2016 to 1.82 and then to 1.54 in 2021. Second, we disaggregate Indigenous fertility and find that the Inuit have the highest TFR among all Indigenous populations. Status Indians had above-replacement fertility in 2001, 2006, and 2011 but as of 2021 have had below-replacement fertility. In contrast, non-status Indians and M & eacute;tis had below-replacement fertility between 2001 and 2021. Third, although Indigenous peoples have had much higher fertility than non-Indigenous groups in Canada, the gap has narrowed. CONCLUSIONS Indigenous fertility has declined to below-replacement levels, moving toward convergence with non-Indigenous populations.",
+  "authors": [
+    {
+      "raw": "Teng, Yue",
+      "family": "Teng",
+      "given": "Yue"
+    },
+    {
+      "raw": "Margolis, Rachel",
+      "family": "Margolis",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Ramos, Howard",
+      "family": "Ramos",
+      "given": "Howard"
+    }
+  ],
+  "authors_text": "Teng, Yue; Margolis, Rachel; Ramos, Howard",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.6",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

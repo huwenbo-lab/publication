@@ -1,0 +1,40 @@
+{
+  "title": "From Social Assistance to Self-Sufficiency: Low Income Work as a Stepping Stone",
+  "abstract": "Welfare reforms often focus on stimulating employment among benefit recipients, based on the theoretical mechanism that the performance of low income work will serve as a stepping stone towards financial self-sufficiency. Alternative theories, however, argue that the acceptance of low income work will reduce job search intensity and can signal low productivity, and therefore will not enable people to support themselves. Using longitudinal administrative data and discrete time linear probability models, we follow all social assistance recipients in the Netherlands from 2010 to 2015, and analyse whether, and for whom, low income work functions as a stepping stone towards sustainable self-sufficiency. We find that social assistance recipients are more likely to become self-sufficient when they are active in low income work. This stepping stone effect applies in particular to benefit recipients with limited work experience, a higher educational level, a shorter duration of welfare receipt and to those who belong to the native Dutch majority. The type of employment also matters: low income work through temporary employment agencies is found to be the most effective stepping stone towards self-sufficiency.",
+  "authors": [
+    {
+      "raw": "Boschman, Sanne",
+      "family": "Boschman",
+      "given": "Sanne"
+    },
+    {
+      "raw": "Maas, Ineke",
+      "family": "Maas",
+      "given": "Ineke"
+    },
+    {
+      "raw": "Vrooman, J. Cok",
+      "family": "Vrooman",
+      "given": "J. Cok"
+    },
+    {
+      "raw": "Kristiansen, Marcus H.",
+      "family": "Kristiansen",
+      "given": "Marcus H."
+    }
+  ],
+  "authors_text": "Boschman, Sanne; Maas, Ineke; Vrooman, J. Cok; Kristiansen, Marcus H.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcab003",
+  "doi_url": "https://doi.org/10.1093/esr/jcab003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

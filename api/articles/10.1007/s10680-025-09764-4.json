@@ -1,0 +1,45 @@
+{
+  "title": "Harvesting Effect and Extreme Temperature-Related Mortality in Italy",
+  "abstract": "It is well-established that deaths peak in winter and show throughs in summer. However, it remains unclear how mortality patterns will unfold as the climate warms, bringing fewer cold days and more hot days. One concern is “harvesting,” where a short-term surge in deaths among the most vulnerable people is then followed by a period with fewer deaths than usual because those individuals would have died soon anyway. Under global warming, it is possible that higher mortality rates in summer will result not only from an increase in extreme heat events but also from a seasonal shift in excess deaths that would have previously occurred in winter. Combining mortality data from the Italian Statistical Office with temperature data from the Copernicus Data Store for Italy at the provincial level from 2011 to 2019, we employ Poisson regression models to estimate the effects of temperature extremes on mortality among individuals aged 60 and above. The results reveal that temperatures outside the comfort zone, both lower and higher, are associated with increased monthly mortality rates, with the strongest effects seen in the most extreme temperature ranges. We find evidence of a harvesting effect, particularly for moderately warm days (≥ 85th to < 95th percentile). However, even after high winter mortality, extremely hot days still lead to significant increases in deaths—especially among individuals aged 80 and above. This suggests that while some short-term mortality displacement occurs, it is not enough to offset the full impact of extreme heat, highlighting the continued vulnerability of older populations.",
+  "authors": [
+    {
+      "raw": "Kannankeril Joseph, Vinod Joseph",
+      "family": "Kannankeril Joseph",
+      "given": "Vinod Joseph"
+    },
+    {
+      "raw": "Conte Keivabu, Risto",
+      "family": "Conte Keivabu",
+      "given": "Risto"
+    },
+    {
+      "raw": "Muttarak, Raya",
+      "family": "Muttarak",
+      "given": "Raya"
+    },
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    },
+    {
+      "raw": "Mazzuco, Stefano",
+      "family": "Mazzuco",
+      "given": "Stefano"
+    }
+  ],
+  "authors_text": "Kannankeril Joseph, Vinod Joseph; Conte Keivabu, Risto; Muttarak, Raya; Zagheni, Emilio; Mazzuco, Stefano",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2026,
+  "doi": "10.1007/s10680-025-09764-4",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09764-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09764-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09764-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

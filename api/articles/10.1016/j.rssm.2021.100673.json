@@ -1,0 +1,35 @@
+{
+  "title": "The impact of the abolition of compulsory service on life satisfaction",
+  "abstract": "Life satisfaction is arguably the ultimate goal of individual actions. We use the abolition of compulsory military and civil service in 2011 in Germany as a natural experiment to identify effects of institutionalized career disruptions on life satisfaction. We expect the effect to differ between young men according to their current situation in the transition into the labor market. Tracing back their labor market situation based on educational levels, we aim at revealing the social inequality processes for young men as they relate to compulsory military service. Drawing on data from the German Socio-Economic Panel (SOEP) from 2007 to 2015, we apply a difference-in-differences design (comparing young males and females) to assess the effect of this reform on individual life satisfaction in general. Our results show a large and significant positive effect of the abolition of compulsory service on young males' life satisfaction. Differentiating between educational groups, we show that the abolition of compulsory service in Germany decreased the life satisfaction gap between education groups. Thus, the abolition of compulsory service decreased social inequalities regarding life satisfaction between different education groups. Furthermore, we provide empirical evidence that career uncertainty regarding the future and career disruptions contribute to the positive effect of the abolition on young males' life satisfaction.",
+  "authors": [
+    {
+      "raw": "Eberl, Andreas",
+      "family": "Eberl",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Collischon, Matthias",
+      "family": "Collischon",
+      "given": "Matthias"
+    },
+    {
+      "raw": "Jahn, Kerstin",
+      "family": "Jahn",
+      "given": "Kerstin"
+    }
+  ],
+  "authors_text": "Eberl, Andreas; Collischon, Matthias; Jahn, Kerstin",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2021.100673",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100673",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100673",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100673.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

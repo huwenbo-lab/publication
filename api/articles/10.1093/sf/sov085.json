@@ -1,0 +1,25 @@
+{
+  "title": "Cascades of Coverage: Dynamics of Media Attention to Social Movement Organizations",
+  "abstract": "Gaining attention in the mass media is a key goal of many social movement organizations (SMOs). The dominant explanation of media attention to SMOs is that the media act like a filter, selecting some types of SMOs and events for attention, and ignoring others based on characteristics of these SMOs, events, and their political environment. In contrast to this bias model, I argue that some media attention to SMOs is characterized by positive feedback, or rich-get-richer processes: past media attention increases the likelihood of future media attention through its effect on the SMO and on other media outlets. Like other positive feedback systems, media attention can be path dependent, is routinely punctuated by large cascades of attention to previously obscure SMOs, and can be contingent on accidents of history: at critical junctures, individuals, organizations, and events have the potential to radically impact the extent of media attention to their movements and organizations. Media attention to SMOs can also become decoupled from the types of events that initially sparked their media attention, becoming spokes-organizations for their movements and receiving media attention for events and stories that they themselves are not involved. In support of this theory, I first show that media attention is, similar to other positive feedback processes, power-law distributed across SMOs using two national (US) data sets. I then illustrate the process of positive feedback in media attention through a case study of the Black Panther Party's rise to prominence in media attention.",
+  "authors": [
+    {
+      "raw": "Seguin, Charles",
+      "family": "Seguin",
+      "given": "Charles"
+    }
+  ],
+  "authors_text": "Seguin, Charles",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sov085",
+  "doi_url": "https://doi.org/10.1093/sf/sov085",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov085",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov085.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

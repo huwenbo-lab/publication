@@ -1,0 +1,40 @@
+{
+  "title": "The Impact of Privileged Classroom Friends on Adult Income and Income Mobility: A Study of a Swedish Cohort Born in 1953",
+  "abstract": "Social relationships across and within generations are associated with intergenerational income mobility. Parents affect their children's future opportunities through socialization and by conveying various resources to the child during upbringing. However, self-acquired social contacts of children, such as friendships in school, might also affect long-term outcomes. Children from less privileged homes may gain access to additional resources through contact with privileged friends and their parents. This study examines whether having a classroom friend with high parental income (privileged friend) is associated with upward income mobility. Furthermore, it explores where in the parental income distribution a privileged friend matters most. We use data from the Stockholm Birth Cohort Multigenerational Study (n = 10,641), which is a prospective study of individuals born in 1953 who lived in the greater Stockholm area in 1963. We fit classroom fixed-effects models to estimate the association between having a privileged childhood friend and adult income as well as parental income and adult income along with the interaction of privileged friend and parental income. Results show that cohort members who had a privileged classroom friend had higher adult income, and that this income gain was greater among those whose parents belonged to the lowest income quartile, compared with those whose parents had higher incomes. These results are robust to adjustments for childhood socioeconomic background, personal attributes, and adult educational attainment. Our findings indicate that having an economically privileged friend in the school class bolsters adult income and upward income mobility of children from families with low income.",
+  "authors": [
+    {
+      "raw": "Gurzo, Klara",
+      "family": "Gurzo",
+      "given": "Klara"
+    },
+    {
+      "raw": "Ostergren, Olof",
+      "family": "Ostergren",
+      "given": "Olof"
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    },
+    {
+      "raw": "Modin, Bitte",
+      "family": "Modin",
+      "given": "Bitte"
+    }
+  ],
+  "authors_text": "Gurzo, Klara; Ostergren, Olof; Martikainen, Pekka; Modin, Bitte",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soad079",
+  "doi_url": "https://doi.org/10.1093/sf/soad079",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad079",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad079.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

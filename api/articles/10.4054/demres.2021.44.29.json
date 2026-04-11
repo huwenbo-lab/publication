@@ -1,0 +1,30 @@
+{
+  "title": "Using race- and age-specific COVID-19 case data to investigate the determinants of the excess COVID-19 mortality burden among Hispanic Americans",
+  "abstract": "BACKGROUND Age-adjusted COVID-19 mortality estimates have exposed a previously hidden excess mortality burden for the US Hispanic population. Multiple explanations have been put forth, including unequal quality/access to health care, higher proportion of pre-existing health conditions, multigenerational household composition, and disproportionate representation in telecommute-unfriendly occupations. However, these hypotheses have been rarely tested. OBJECTIVE We examine age-stratified patterns of Hispanic COVID-19 mortality vis-a-vis patterns of exposure to evaluate the multiple posited hypotheses. METHODS We use a combination of public and restricted data from the Centers of Disease Control and Prevention and leverage national and subnational race- and age-stratified COVID-19 mortality and case burdens/advantages to evaluate the workplace vulnerability hypothesis. We also use individual-level information on prior health conditions and mortality from the case data to assess whether observed patterns are consistent with the other hypotheses. RESULTS Our results indicate that the disproportionate burdens for both COVID-19 case and mortality for the Hispanic population are largest among the working-age groups, supporting the hypothesis that workplace exposure plays a critical role in heightening vulnerability to COVID-19 mortality. We find little evidence to support the hypotheses regarding multigenerational household composition, pre-existing health conditions, or unequal quality/access to health care. CONCLUSION Our findings point to the key roles played by age structure and differential exposure in contributing to the disproportionately severe impact of COVID-19 on the Hispanic population. CONTRIBUTION We contribute evidence to explain the driving factors in the observed excess COVID-19 mortality burden among Hispanics. Our findings underscore the importance of focusing on more robust workplace protections, particularly for working-age minority populations.",
+  "authors": [
+    {
+      "raw": "Do, D. Phuong",
+      "family": "Do",
+      "given": "D. Phuong"
+    },
+    {
+      "raw": "Frank, Reanne",
+      "family": "Frank",
+      "given": "Reanne"
+    }
+  ],
+  "authors_text": "Do, D. Phuong; Frank, Reanne",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.29",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

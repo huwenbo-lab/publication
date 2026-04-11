@@ -1,0 +1,30 @@
+{
+  "title": "Gentrification and mental health in Hong Kong",
+  "abstract": "This study investigates the association between gentrification and mental health in Hong Kong, where gentrification is mainly driven by government intervention and is widely supported by the public. We utilize a harmonized dataset that integrates the 2006 and 2016 Hong Kong population census data with data from Wave 4 (2017/2018) of the Hong Kong Panel Study of Social Dynamics (HKPSSD). Findings of the multilevel logistic models show that residents in gentrifying neighborhoods report a lower risk of mental distress compared to residents in non-gentrifying neighborhoods with similar socioeconomic characteristics. Furthermore, residents with higher household incomes tend to benefit more from gentrification. Results from causal mediation analysis suggest that neighborhood cohesion mediates the effect of gentrification on mental health. This study advances the literature on gentrification effects by offering empirical evidence from the relatively understudied East Asian context and examining the socioeconomic variations in these effects. We discuss potential policy implications for future interventions in neighborhood change processes.",
+  "authors": [
+    {
+      "raw": "Zhang, Yi",
+      "family": "Zhang",
+      "given": "Yi"
+    },
+    {
+      "raw": "Miao, Jia",
+      "family": "Miao",
+      "given": "Jia"
+    }
+  ],
+  "authors_text": "Zhang, Yi; Miao, Jia",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1080/21620555.2024.2445669",
+  "doi_url": "https://doi.org/10.1080/21620555.2024.2445669",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2024.2445669",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2024.2445669.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

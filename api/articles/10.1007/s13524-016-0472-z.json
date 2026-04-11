@@ -1,0 +1,30 @@
+{
+  "title": "Maternal Risk Exposure and Adult Daughters' Health, Schooling, and Employment: A Constructed Cohort Analysis of 50 Developing Countries",
+  "abstract": "This study analyzes the relationships between maternal risk factors present at the time of daughters' births-namely, young mother, high parity, and short preceding birth interval-and their subsequent adult developmental, reproductive, and socioeconomic outcomes. Pseudo-cohorts are constructed using female respondent data from 189 cross-sectional rounds of Demographic and Health Surveys conducted in 50 developing countries between 1986 and 2013. Generalized linear models are estimated to test the relationships and calculate cohort-level outcome proportions with the systematic elimination of the three maternal risk factors. The simulation exercise for the full sample of 2,546 pseudo-cohorts shows that the combined elimination of risk exposures is associated with lower mean proportions of adult daughters experiencing child mortality, having a small infant at birth, and having a low body mass index. Among sub-Saharan African cohorts, the estimated changes are larger, particularly for years of schooling. The pseudo-cohort approach can enable longitudinal testing of life course hypotheses using large-scale, standardized, repeated cross-sectional data and with considerable resource efficiency.",
+  "authors": [
+    {
+      "raw": "Li, Qingfeng",
+      "family": "Li",
+      "given": "Qingfeng"
+    },
+    {
+      "raw": "Tsui, Amy O.",
+      "family": "Tsui",
+      "given": "Amy O."
+    }
+  ],
+  "authors_text": "Li, Qingfeng; Tsui, Amy O.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0472-z",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0472-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0472-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0472-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

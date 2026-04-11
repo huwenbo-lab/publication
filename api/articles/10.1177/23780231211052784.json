@@ -1,0 +1,30 @@
+{
+  "title": "Working from Home and Changes in Work Characteristics during COVID-19",
+  "abstract": "A relatively high proportion of U.S. workers started working from home during the coronavirus disease 2019 pandemic. There has been extensive tracking of employment trends, but it is less clear what kind of impact working from home during the pandemic has had on job experiences. The authors use data from the October 2020 Pew Research Center American Trends Panel. On the basis of a sample of 4,508 respondents, the authors find that working from home improves job satisfaction, flexibility over when to put in one’s work hours, work-family balance, productivity, and work hours. Working from home reduces connectedness to coworkers, job security, and opportunities for advancement. The benefits for both workers and employers of working from home may encourage working from home even after the pandemic.",
+  "authors": [
+    {
+      "raw": "Kaufman, Gayle",
+      "family": "Kaufman",
+      "given": "Gayle"
+    },
+    {
+      "raw": "Taniguchi, Hiromi",
+      "family": "Taniguchi",
+      "given": "Hiromi"
+    }
+  ],
+  "authors_text": "Kaufman, Gayle; Taniguchi, Hiromi",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211052784",
+  "doi_url": "https://doi.org/10.1177/23780231211052784",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211052784",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211052784.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

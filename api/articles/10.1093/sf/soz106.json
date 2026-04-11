@@ -1,0 +1,30 @@
+{
+  "title": "Rules of the Game: Exponential Random Graph Models of a Gang Homicide Network",
+  "abstract": "Gang members frequently refer to street life as a game (or The Game): a social milieu in which status is lost or won by the way individuals and groups manage their reputations. Like other games, successfully participating in the street game may demand adherence to certain rules, such as the willingness to violently redress threats, the avoidance of weak behaviors, and the protection of one's allies. This paper draws on detailed police records of violent exchanges among gangs in Chicago to ascertain which rules of the game in fact contribute to the relative social standing of groups. Specifically, we use exponential random graph models to identify the underlying micro-arrangements among gangs that collectively generate macro-level patterns of homicide. Findings illuminate a large and diverse array of generative mechanisms based on gangs' attributes and structural positions. However, these mechanisms vary depending on which two gangs are at hand; provide evidence of a contested hierarchy with few intergroup alliances; and are surprisingly inconsistent over time. As all gangs engage in local and ongoing struggles for dominance-and as the rules constantly change-the street game is continually played but never truly won.",
+  "authors": [
+    {
+      "raw": "Lewis, Kevin",
+      "family": "Lewis",
+      "given": "Kevin"
+    },
+    {
+      "raw": "Papachristos, Andrew, V",
+      "family": "Papachristos",
+      "given": "Andrew, V"
+    }
+  ],
+  "authors_text": "Lewis, Kevin; Papachristos, Andrew, V",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz106",
+  "doi_url": "https://doi.org/10.1093/sf/soz106",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz106",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz106.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

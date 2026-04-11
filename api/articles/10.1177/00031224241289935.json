@@ -1,0 +1,35 @@
+{
+  "title": "Racial Inequality in 8th-Grade Math Course-Taking: Between-School Inequality, Local Achievement Queues, and Course Placements",
+  "abstract": "In the United States, 8th grade is the entry point into a stratified course-taking sequence in mathematics. Black students are substantially less likely than white students to enroll in advanced math courses in 8th grade and beyond. Unfortunately, prior research has failed to produce a consistent explanation for these racial inequalities. In this article, we develop an analytic framework that overcomes numerous limitations in prior studies. Our framework shows how racialized sorting between schools constrains course-taking opportunities and shapes achievement distributions within schools (local achievement queues), both of which affect how course placements are made within a given school. We analyze administrative data for multiple cohorts of 8th-grade students in the state of Indiana. Our findings show that course-taking opportunities in 8th-grade math vary markedly across schools, and Black students are much more likely than white students to attend schools that offer no advanced courses (Algebra or Geometry). By failing to account for this structural inequality, prior research has underestimated racial inequality in course placements. However, our analyses also show that racial segregation across schools improves the position of Black students within their local achievement queues, which increases their chances of enrolling in advanced math courses. Our findings highlight the central importance of schools as key organizational units in explaining racial inequality in course placements.",
+  "authors": [
+    {
+      "raw": "Carbonaro, William",
+      "family": "Carbonaro",
+      "given": "William"
+    },
+    {
+      "raw": "Lee, Kenya",
+      "family": "Lee",
+      "given": "Kenya"
+    },
+    {
+      "raw": "Langenkamp, Amy G.",
+      "family": "Langenkamp",
+      "given": "Amy G."
+    }
+  ],
+  "authors_text": "Carbonaro, William; Lee, Kenya; Langenkamp, Amy G.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1177/00031224241289935",
+  "doi_url": "https://doi.org/10.1177/00031224241289935",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224241289935",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224241289935.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

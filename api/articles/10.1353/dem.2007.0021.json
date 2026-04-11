@@ -1,0 +1,30 @@
+{
+  "title": "How do marital status, work effort, and wage rates interact?",
+  "abstract": "AbstractHow marital status interacts with men’s earnings is an important analytic and policy issue, especially in the context of debates in the United States over programs that encourage healthy marriage. This paper generates new findings about the earnings-marriage relationship by estimating the linkages among flows into and out of marriage, work effort, and wage rates. The estimates are based on National Longitudinal Survey of Youth panel data, covering 23 years of marital and labor market outcomes, and control for unobserved heterogeneity. We estimate marriage effects on hours worked (our proxy for work effort) and on wage rates for all men and for black and low-skilled men separately. The estimates reveal that entering marriage raises hours worked quickly and substantially but that marriage’s effect on wage rates takes place more slowly while men continue in marriage. Together, the stimulus to hours worked and wage rates generates an 18%–19% increase in earnings, with about one-third to one-half of the marriage earnings premium attributable to higher work effort. At the same time, higher wage rates and hours worked encourage men to marry and to stay married. Thus, being married and having high earnings reinforce each other over time.",
+  "authors": [
+    {
+      "raw": "Ahituv, Avner",
+      "family": "Ahituv",
+      "given": "Avner"
+    },
+    {
+      "raw": "Lerman, Robert I.",
+      "family": "Lerman",
+      "given": "Robert I."
+    }
+  ],
+  "authors_text": "Ahituv, Avner; Lerman, Robert I.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0021",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

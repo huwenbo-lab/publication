@@ -1,0 +1,30 @@
+{
+  "title": "Differential impact of the COVID-19 pandemic on excess mortality and life expectancy loss within the Hispanic population",
+  "abstract": "BACKGROUND The impact of the COVID-19 pandemic on the Hispanic population resulted in the almost complete elimination of the long-standing Hispanic mortality advantage relative to the non-Hispanic White population. However, it is unknown how COVID-19 mortality affected the diverse Hispanic subpopulations. OBJECTIVE We estimate life expectancy at birth in 2019 and 2020 by select Hispanic country/region of origin and explore how changes in age-specific all-cause and COVID-19 mortality affected changes in life expectancy between 2019 and 2020 for each group. METHODS We use final 2019 and 2020 mortality data from the National Center for Health Statistics and population estimates based on the 2019 and 2020 American Community Survey. We calculate life tables and apply decomposition techniques to explore the effects of changes in age-and cause-specific mortality on life expectancy. RESULTS Patterns of age-and cause-specific excess deaths and their impact on declines in life expectancy due to the COVID-19 pandemic differed substantially by Hispanic subgroup. Life expectancy losses ranged from 0.6 to 6.7 years among males and from 0.6 to 3.6 years among females. CONCLUSIONS Our findings highlight the heterogeneous impact of the COVID-19 pandemic within the Hispanic population.CONTRIBUTIONS Our findings contribute new information that will help future researchers identify the causes of the disproportionately severe impact of the COVID-19 pandemic on the Hispanic population. Our study underscores the importance of population disaggregation in endeavors to identify the multiple pathways by which the pandemic affected the Hispanic population.",
+  "authors": [
+    {
+      "raw": "Arias, Elizabeth",
+      "family": "Arias",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Tejada-Vera, Betzaida",
+      "family": "Tejada-Vera",
+      "given": "Betzaida"
+    }
+  ],
+  "authors_text": "Arias, Elizabeth; Tejada-Vera, Betzaida",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.12",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

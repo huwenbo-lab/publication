@@ -1,0 +1,30 @@
+{
+  "title": "Women's age at first marriage and marital instability in the United States: Differences by race and ethnicity",
+  "abstract": "BACKGROUND Numerous studies have shown that the age at which women enter first marriage is a major factor in marital instability, but possible differences by race/ethnicity have not been examined to date. OBJECTIVE Our aim was to study whether the association between women's age at first marriage and marital instability varies by race/ethnicity. METHODS We used data from the 2006-2010 National Survey of Family Growth to examine differences by race/ethnicity in the shape of the curve relating women's age at entry into first marriage to marital instability. RESULTS We found that for non-Hispanic white women, the probability of dissolution falls with age up to ages 30-32 and thereafter the curve flattens out. For black women, marital instability decreases with age only up to ages 24-26. For Hispanic women, marital instability falls from age <= 20 to 21-23 and then the curve flattens out; beyond ages 3032 the curve turns upward. CONCLUSIONS We suggest explanations for these patterns, based in part on differentials in the associations of age at marriage with education and nonmarital fertility. For white women, but not for their black and Hispanic counterparts, delayed entry into marriage is associated with a small increase in nonmarital fertility and a pronounced increase in education.",
+  "authors": [
+    {
+      "raw": "Lehrer, Evelyn L.",
+      "family": "Lehrer",
+      "given": "Evelyn L."
+    },
+    {
+      "raw": "Son, Yeon Jeong",
+      "family": "Son",
+      "given": "Yeon Jeong"
+    }
+  ],
+  "authors_text": "Lehrer, Evelyn L.; Son, Yeon Jeong",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.9",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

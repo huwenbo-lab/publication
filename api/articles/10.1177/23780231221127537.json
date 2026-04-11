@@ -1,0 +1,40 @@
+{
+  "title": "Signaled or Suppressed? How Gender Informs Women’s Undergraduate Applications in Biology and Engineering",
+  "abstract": "How does gender inform initial academic commitments and narrative self-presentation in science, technology, engineering, and mathematics (STEM) fields during the college application process? Analyzing 60,000 undergraduate applications to the University of California, the authors surface two key findings. First, extant gender segregation of academic disciplines also manifests in intended major choice. Additionally, gender and SAT Math scores together strongly predict intent to major in biology and engineering, the most popular and gender-segregated majors. Second, using natural language processing, the investigators find that author gender is more predictive of essay topics written by prospective engineers than prospective biologists. Specifically, women intending to major in engineering write about essay topics that signal their gender identity to a greater degree than women intending to major in biology, perhaps to mitigate gender-transgressive academic commitments. The authors subsequently argue that prescriptive and proscriptive ideas about men and women’s academic choices remain highly salient in a moment of imagining future academic and professional selves.",
+  "authors": [
+    {
+      "raw": "Giebel, Sonia",
+      "family": "Giebel",
+      "given": "Sonia"
+    },
+    {
+      "raw": "Alvero, AJ",
+      "family": "Alvero",
+      "given": "AJ"
+    },
+    {
+      "raw": "Gebre-Medhin, Ben",
+      "family": "Gebre-Medhin",
+      "given": "Ben"
+    },
+    {
+      "raw": "Antonio, Anthony Lising",
+      "family": "Antonio",
+      "given": "Anthony Lising"
+    }
+  ],
+  "authors_text": "Giebel, Sonia; Alvero, AJ; Gebre-Medhin, Ben; Antonio, Anthony Lising",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221127537",
+  "doi_url": "https://doi.org/10.1177/23780231221127537",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221127537",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221127537.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

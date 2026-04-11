@@ -1,0 +1,35 @@
+{
+  "title": "How does parental social mobility during childhood affect socioeconomic status over the life course?",
+  "abstract": "The gap in occupational earnings between children from parents of higher versus lower socioeconomic back-ground widens over the life course. This gap can be at least partly explained by family background character-istics in childhood but the ex-tent to which parental social mobility in childhood can provide additional explanatory power is less well researched. This study compares socially mobile and socially stable families in childhood with static measures of parental socioeconomic status with respect to the children's life course oc-cupational earnings using data from the 1958 National Child Development Study. In doing so, this study in-vestigates the extent to which the children's life course occupational earnings are constrained by their parents' (lack of) social mobility during childhood. Furthermore, the strength of intergenerational socioeconomic transmission may depend on specific socioeconomic characteristics of the parents. Therefore, this study explores the influence of changes in childhood socioeconomic characteristics, namely father's social class and housing ownership status, both separately and combined for assessing independent effects, on adult life course occu-pational earnings whilst also controlling for maternal education, sex and region of residence. Using life course step function multilevel models, the results indicate that parental social mobility predicts life course occupa-tional earnings over and above socioeconomic variables measured when the child was 16. Moreover, the father's social class mobility measure showcases greater intergenerational accumulation of social (dis)advantage. We also demonstrate social mobility during childhood appears to have long lasting and independent effects on life course occupational earnings.",
+  "authors": [
+    {
+      "raw": "Byrne, Adrian",
+      "family": "Byrne",
+      "given": "Adrian"
+    },
+    {
+      "raw": "Chandola, Tarani",
+      "family": "Chandola",
+      "given": "Tarani"
+    },
+    {
+      "raw": "Shlomo, Natalie",
+      "family": "Shlomo",
+      "given": "Natalie"
+    }
+  ],
+  "authors_text": "Byrne, Adrian; Chandola, Tarani; Shlomo, Natalie",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2018,
+  "doi": "10.1016/j.rssm.2018.10.003",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2018.10.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2018.10.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2018.10.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Bringing space into the equation: Modelling the social and spatial interdependence of neighborhood effects on educational outcomes",
+  "abstract": "While there is an ever-growing body of research on neighborhood effects on various forms of life chances, the suggested social mechanisms still refer to rather ambiguous theoretical concepts. Furthermore, previous research seldom adequately models the suggested social interdependence at the individual level. Instead, researchers largely rely on contextual regression models. This paper addresses both problems by using spatial econometrics to reconstruct neighborhood effects in terms of interdependent social action. To this end, a rational action model of neighborhood effects on educational outcomes is elaborated as a theoretical alternative. Furthermore, using data on the transition to secondary school in Switzerland as an illustration, spatial probit models are estimated to directly test neighborhood effects at the individual level. It can be shown how the interdependence of parental educational motivation within neighborhoods crucially shapes students' transition to the more advantageous school track, thereby revealing an additional path by which educational inequalities are reproduced.",
+  "authors": [
+    {
+      "raw": "Zangger, Christoph",
+      "family": "Zangger",
+      "given": "Christoph"
+    }
+  ],
+  "authors_text": "Zangger, Christoph",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2018,
+  "doi": "10.1016/j.rssm.2018.03.007",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2018.03.007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2018.03.007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2018.03.007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

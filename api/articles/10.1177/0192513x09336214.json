@@ -1,0 +1,40 @@
+{
+  "title": "Trends in Marital Happiness by Gender and Race, 1973 to 2006",
+  "abstract": "This article uses data from the 1973-2006 General Social Survey to assess the interactive impact of race and gender on marital happiness over time. Findings indicate independent and significant effects for both variables, with Whites and husbands reporting greater marital happiness than Blacks and wives. Comparing four subgroups (White husbands, White wives, Black husbands, and Black wives), the authors find that White husbands report the highest levels of marital happiness whereas Black wives report the lowest. Assessment of trends from the 1970s to the 2000s reveals a convergence among the groups: Although White husbands consistently report the highest levels of marital happiness, there has been a steady decline in the gap between all four groups. Most notably, Black wives exhibit a significant increase in marital happiness relative to the other groups. Findings are discussed in the context of the changing structure and composition of families in contemporary U.S. society.",
+  "authors": [
+    {
+      "raw": "Corra, Mamadi",
+      "family": "Corra",
+      "given": "Mamadi"
+    },
+    {
+      "raw": "Carter, Shannon K.",
+      "family": "Carter",
+      "given": "Shannon K."
+    },
+    {
+      "raw": "Carter, J. Scott",
+      "family": "Carter",
+      "given": "J. Scott"
+    },
+    {
+      "raw": "Knox, David",
+      "family": "Knox",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Corra, Mamadi; Carter, Shannon K.; Carter, J. Scott; Knox, David",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2009,
+  "doi": "10.1177/0192513x09336214",
+  "doi_url": "https://doi.org/10.1177/0192513x09336214",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x09336214",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x09336214.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

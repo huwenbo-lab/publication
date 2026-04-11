@@ -1,0 +1,35 @@
+{
+  "title": "What Types of Novelty Are Most Disruptive?",
+  "abstract": "Novelty and impact are key characteristics of the scientific enterprise. Classic theories of scientific change distinguish among different types of novelty and emphasize how a new idea interacts with previous work and influences future flows of knowledge. However, even recently developed measures of novelty remain unidimensional, and continued reliance on citation counts captures only the amount, but not the nature, of scientific impact. To better align theoretical and empirical work, we attend to different types of novelty (new results, new theories, and new methods) and whether a scientific offering has a consolidating form of influence (bringing renewed attention to foundational ideas) or a disruptive one (prompting subsequent scholars to overlook them). By integrating data from the Web of Science (to measure the nature of influence) with essays written by authors of Citation Classics (to measure novelty type), and by joining computational text analysis with statistical analyses, we demonstrate clear and robust patterns between type of novelty and the nature of scientific influence. As expected, new methods tend to be more disruptive, whereas new theories tend to be less disruptive. Surprisingly, new results do not have a robust effect on the nature of scientific influence.",
+  "authors": [
+    {
+      "raw": "Leahey, Erin",
+      "family": "Leahey",
+      "given": "Erin"
+    },
+    {
+      "raw": "Lee, Jina",
+      "family": "Lee",
+      "given": "Jina"
+    },
+    {
+      "raw": "Funk, Russell J.",
+      "family": "Funk",
+      "given": "Russell J."
+    }
+  ],
+  "authors_text": "Leahey, Erin; Lee, Jina; Funk, Russell J.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231168074",
+  "doi_url": "https://doi.org/10.1177/00031224231168074",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231168074",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231168074.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

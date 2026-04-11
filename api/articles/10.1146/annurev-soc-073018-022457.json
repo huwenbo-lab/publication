@@ -1,0 +1,30 @@
+{
+  "title": "Bayesian Statistics in Sociology: Past, Present, and Future",
+  "abstract": "Although Bayes' theorem has been around for more than 250 years, widespread application of the Bayesian approach only began in statistics in 1990. By 2000, Bayesian statistics had made considerable headway into social science, but even now its direct use is rare in articles in top sociology journals, perhaps because of a lack of knowledge about the topic. In this review, we provide an overview of the key ideas and terminology of Bayesian statistics, and we discuss articles in the top journals that have used or developed Bayesian methods over the last decade. In this process, we elucidate some of the advantages of the Bayesian approach. We highlight that many sociologists are, in fact, using Bayesian methods, even if they do not realize it, because techniques deployed by popular software packages often involve Bayesian logic and/or computation. Finally, we conclude by briefly discussing the future of Bayesian statistics in sociology.",
+  "authors": [
+    {
+      "raw": "Lynch, Scott M.",
+      "family": "Lynch",
+      "given": "Scott M."
+    },
+    {
+      "raw": "Bartlett, Bryce",
+      "family": "Bartlett",
+      "given": "Bryce"
+    }
+  ],
+  "authors_text": "Lynch, Scott M.; Bartlett, Bryce",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2019,
+  "doi": "10.1146/annurev-soc-073018-022457",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-073018-022457",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-073018-022457",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-073018-022457.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

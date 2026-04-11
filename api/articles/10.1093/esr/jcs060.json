@@ -1,0 +1,25 @@
+{
+  "title": "Family Structure, Female Employment, and National Income Inequality: A Cross-National Study of 16 Western Countries",
+  "abstract": "This study assesses whether recent changes in family structure and female employment patterns have altered the distribution of income in some countries. Extant literature on this topic reaches inconsistent conclusions and overwhelmingly focuses on the United States. To address these shortcomings, the author draws on internationally comparable data for 16 Western countries to assess whether these social changes have distributional consequences. Specifically, the hypothesis is that increased female employment reduces income inequality, but that increased prevalence of single-mother families heightens income inequality. Results from two-way random effects regression models provide considerable support for this hypothesis. These effects are robust after controlling for variations in labour market institutions, social welfare provisions, and relevant social and economic structures. Limited evidence also suggests that educational homogamy between spouses and partners explains some of the differences in income inequality among countries. The study ends by discussing some of the implications of these findings.",
+  "authors": [
+    {
+      "raw": "Kollmeyer, C.",
+      "family": "Kollmeyer",
+      "given": "C."
+    }
+  ],
+  "authors_text": "Kollmeyer, C.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2012,
+  "doi": "10.1093/esr/jcs060",
+  "doi_url": "https://doi.org/10.1093/esr/jcs060",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcs060",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcs060.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

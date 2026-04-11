@@ -1,0 +1,40 @@
+{
+  "title": "Movers and Stayers: A Study of Emigration from Sweden 1993–2014",
+  "abstract": "AbstractA standard proposition in the migration literature is that emigrants are not drawn randomly from their source population, but rather compose a self-selected group in terms of labour market characteristics. Such self-selection refers to observed characteristics, such as education, or occupation, as well as unobserved characteristics such as cognitive abilities. However, due to data limitations, most previous studies on selectivity have analysed immigrants’ characteristics at destinations rather than using data from their source countries. This paper assesses emigrants’ selectivity patterns by following the full-risk population of natives over a long period of time (over 20 years). It also includes an innovative measure of selectivity on unobserved characteristics—namely, school performance—as a proxy for individual motivation and cognitive abilities, and it compares it to the widely used measure of income residuals. We use Swedish register data and assess the probabilities of leaving Sweden between 1993 and 2014 among men and women born in Sweden between 1975 and 1978. We further look for differences among Swedish emigrants who chose different countries of destination. The findings suggest that emigrants are positively self-selected in terms of their observed characteristics, whereas selectivity patterns in terms of unobserved characteristics are more complex. When we assess unobservable characteristics using compulsory school grades as a proxy, emigrants are found to be positively self-selected, while when using income residuals, we find that the effect is U-shaped. Individuals leaving to non-Nordic countries are also found to be more positively self-selected than those heading to neighbouring countries. We discuss these findings and their implications in light of economic and sociological theories.",
+  "authors": [
+    {
+      "raw": "Birgier, Debora Pricila",
+      "family": "Birgier",
+      "given": "Debora Pricila"
+    },
+    {
+      "raw": "Lundh, Christer",
+      "family": "Lundh",
+      "given": "Christer"
+    },
+    {
+      "raw": "Haberfeld, Yitchak",
+      "family": "Haberfeld",
+      "given": "Yitchak"
+    },
+    {
+      "raw": "Elldér, Erik",
+      "family": "Elldér",
+      "given": "Erik"
+    }
+  ],
+  "authors_text": "Birgier, Debora Pricila; Lundh, Christer; Haberfeld, Yitchak; Elldér, Erik",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09634-3",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09634-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09634-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09634-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

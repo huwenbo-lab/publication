@@ -1,0 +1,25 @@
+{
+  "title": "Applying the matching law as micro-foundation of social phenomena",
+  "abstract": "Social phenomena are suggested to be explained by the matching law - an empirical regularity of individual behaviour. While a considerable amount of psychological research on this law exists, only a few sociological applications can be found. This paper points to the problems that come with its usage as micro-foundation of social behaviour and provides solutions. In particular, a model of melioration learning enables the derivation of social phenomena from the matching law. The proposed approach is illustrated by the application of the learning model to the volunteer's dilemma. In contrast to game-theoretical solutions, the matching law leads to more intuitive results in case of the asymmetric dilemma. The relationship between the matching law and utility maximisation is discussed by its integration into economic consumer theory.",
+  "authors": [
+    {
+      "raw": "Zschache, Johannes",
+      "family": "Zschache",
+      "given": "Johannes"
+    }
+  ],
+  "authors_text": "Zschache, Johannes",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.03.010",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.03.010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.03.010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.03.010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

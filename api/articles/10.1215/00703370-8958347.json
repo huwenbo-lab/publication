@@ -1,0 +1,25 @@
+{
+  "title": "Hardship Among Immigrants and the Native-born in the United States",
+  "abstract": "This study examines the prevalence of several types of hard-ship (e.g., bill paying and housing hardships) among immigrants by race and ethnicity in the United States using data from the 2008 and 2014 panels of the Survey of Income and Program Participation and logistic regressions. I find that Blacks, and to some extent Hispanics, are more likely to report hardships than Whites and Asians, who are about equally likely to report hardships. Exploring results by nativity and citizenship status, I find that immigrants who became U.S. citizens are less likely than the nativeborn poulation to report some kinds of hardship. Undocumented immigrants, however, are more likely to report some kinds of hardships, particularly in the 2008 panel conducted at the time of the Great Recession, which hit immigrants especially hard; this relationship, however, is explained by the lower incomes of undocumented immigrant households in the 2008 panel. Results within racial and ethnic groups are generally in the same direction but are less frequently statistically significant. Overall, these findings suggest that immigrants are not particularly prone to hardship, especially when other characteristics are controlled for. In fact, the lower likelihood of some hardships among foreignborn citizens suggests that they are positively selected: they may have unobserved characteristics that are protective, such as better health, stronger social networks, or money management skills. Because the foreign-born are less likely to be disadvantaged vis-a-vis the nativeborn when hardship rather than the official income poverty measure is used, this study highlights the importance of using multiple measures when assessing the well-being of immigrants.",
+  "authors": [
+    {
+      "raw": "Iceland, John",
+      "family": "Iceland",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Iceland, John",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8958347",
+  "doi_url": "https://doi.org/10.1215/00703370-8958347",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8958347",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8958347.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The Demographic Transition, with Data from Brazil",
+  "abstract": "The demographic transition—the process through which declines in mortality precede declines in fertility, leading to a period of population growth and the long-term restructuring of the age composition—holds remarkable power to explain the state of our social world. In this visualization, I employ Brazilian demographic measures dating back to the 1870s to depict the interplay between mortality, fertility, growth rates, dependency ratios, and total population size within a single three-panel figure with a shared time axis. Over the course of nearly two centuries, fertility and mortality differentials contribute to a staggering 18-fold increase in Brazil’s population size and a dramatic rise in the proportion elderly. Although the data are drawn from a single country, Brazil’s patterns of demographic change are representative of those experienced in many other populations. A graph of demographic transition-era population dynamics alongside an understanding of various world regions’ positions along the x-axis can help to answer innumerable questions of great social importance.",
+  "authors": [
+    {
+      "raw": "Lopus, Sara",
+      "family": "Lopus",
+      "given": "Sara"
+    }
+  ],
+  "authors_text": "Lopus, Sara",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241259620",
+  "doi_url": "https://doi.org/10.1177/23780231241259620",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241259620",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241259620.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

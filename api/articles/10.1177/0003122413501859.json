@@ -1,0 +1,35 @@
+{
+  "title": "When Unionization Disappears: State-Level Unionization and Working Poverty in the United States",
+  "abstract": "Although the working poor are a much larger population than the unemployed poor, U.S. poverty research devotes much more attention to joblessness than to working poverty. Research that does exist on working poverty concentrates on demographics and economic performance and neglects institutions. Building on literatures on comparative institutions, unionization, and states as polities, we examine the influence of a potentially important labor market institution for working poverty: the level of unionization in a state. Using the Luxembourg Income Study (LIS) for the United States, we estimate (1) multi-level logit models of poverty among employed households in 2010; and (2) two-way fixed-effects models of working poverty across seven waves of data from 1991 to 2010. Further, we replicate the analyses with the Current Population Survey while controlling for household unionization, and assess unionization's potential influence on selection into employment. Across all models, state-level unionization is robustly significantly negative for working poverty. The effects of unionization are larger than the effects of states' economic performance and social policies. Unionization reduces working poverty for both unionized and non-union households and does not appear to discourage employment. We conclude that U.S. poverty research can advance by devoting greater attention to working poverty, and by incorporating insights from the comparative literature on institutions.",
+  "authors": [
+    {
+      "raw": "Brady, David",
+      "family": "Brady",
+      "given": "David"
+    },
+    {
+      "raw": "Baker, Regina S.",
+      "family": "Baker",
+      "given": "Regina S."
+    },
+    {
+      "raw": "Finnigan, Ryan",
+      "family": "Finnigan",
+      "given": "Ryan"
+    }
+  ],
+  "authors_text": "Brady, David; Baker, Regina S.; Finnigan, Ryan",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1177/0003122413501859",
+  "doi_url": "https://doi.org/10.1177/0003122413501859",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122413501859",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122413501859.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

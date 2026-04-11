@@ -1,0 +1,40 @@
+{
+  "title": "Social, behavioral, and biological factors, and sex differences in mortality",
+  "abstract": "AbstractFew studies have examined whether sex differences in mortality are associated with different distributions of risk factors or result from the unique relationships between risk factors and mortality for men and women. We extend previous research by systematically testing a variety of factors, including health behaviors, social ties, socioeconomic status, and biological indicators of health. We employ the National Health and Nutritional Examination Survey III Linked Mortality File and use Cox proportional hazards models to examine sex differences in adult mortality in the United States. Our findings document that social and behavioral characteristics are key factors related to the sex gap in mortality. Once we control for women’s lower levels of marriage, poverty, and exercise, the sex gap in mortality widens; and once we control for women’s greater propensity to visit with friends and relatives, attend religious services, and abstain from smoking, the sex gap in mortality narrows. Biological factors—including indicators of inflammation and cardiovascular risk—also inform sex differences in mortality. Nevertheless, persistent sex differences in mortality remain: compared with women, men have 30% to 83% higher risks of death over the follow-up period, depending on the covariates included in the model. Although the prevalence ofriskfactors differs by sex, the impact of those riskfactors on mortality is similar for men and women.",
+  "authors": [
+    {
+      "raw": "Rogers, Richard G.",
+      "family": "Rogers",
+      "given": "Richard G."
+    },
+    {
+      "raw": "Everett, Bethany G.",
+      "family": "Everett",
+      "given": "Bethany G."
+    },
+    {
+      "raw": "Onge, Jarron M. Saint",
+      "family": "Onge",
+      "given": "Jarron M. Saint"
+    },
+    {
+      "raw": "Krueger, Patrick M.",
+      "family": "Krueger",
+      "given": "Patrick M."
+    }
+  ],
+  "authors_text": "Rogers, Richard G.; Everett, Bethany G.; Onge, Jarron M. Saint; Krueger, Patrick M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0119",
+  "doi_url": "https://doi.org/10.1353/dem.0.0119",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0119",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0119.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Cross-Talk: The Role of Homophily and Elite Bias in Civic Associations",
+  "abstract": "We examine the manner in which voluntary associations expose individuals to differing perspectives, or “cross-talk.” Specifically we develop hypotheses based on the interactive roles of elite bias and homophily in structuring networks of democratic participation and test them on social network data of Los Angeles neighborhood councils. We find that homophily leads to boards less diverse than their communities, but does not lead to homogeneous cliques within boards. Moreover, we find that elite bias and homophily counteract each other in lower-status communities, leading to more diverse boards than would be predicted by homophily alone. We then examine the effects of assortative mixing on political attitudes and collective action, and find weak support for the proposition that associational diversity promotes tolerance and access to information.",
+  "authors": [
+    {
+      "raw": "Weare, C.",
+      "family": "Weare",
+      "given": "C."
+    },
+    {
+      "raw": "Musso, J.",
+      "family": "Musso",
+      "given": "J."
+    },
+    {
+      "raw": "Jun, K.-N.",
+      "family": "Jun",
+      "given": "K.-N."
+    }
+  ],
+  "authors_text": "Weare, C.; Musso, J.; Jun, K.-N.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0227",
+  "doi_url": "https://doi.org/10.1353/sof.0.0227",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0227",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0227.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

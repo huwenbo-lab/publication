@@ -1,0 +1,30 @@
+{
+  "title": "Does the effect of job loss on psychological distress differ by educational level?",
+  "abstract": "We examine the impact of involuntary job loss on psychological distress and investigate whether the impact differs by educational level using a sample of men drawn from the British Household Panel Study. We expect higher-educated men to suffer less from job loss because they have more resources and better re-employment chances. Alternatively, it could be that, in the long run, lower-educated men adapt better to continued unemployment or downward mobility. Fixed effects regression analyses show that job loss increases distress, but over time the effect wears off and is limited to non-employed men. We find that higher-educated men experience less distress following job loss. These educational differences in the impact of job loss become smaller over time and are mainly driven by re-employment chances.",
+  "authors": [
+    {
+      "raw": "Mandemakers, Jornt J",
+      "family": "Mandemakers",
+      "given": "Jornt J"
+    },
+    {
+      "raw": "Monden, Christiaan WS",
+      "family": "Monden",
+      "given": "Christiaan WS"
+    }
+  ],
+  "authors_text": "Mandemakers, Jornt J; Monden, Christiaan WS",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2013,
+  "doi": "10.1177/0950017012460312",
+  "doi_url": "https://doi.org/10.1177/0950017012460312",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017012460312",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017012460312.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

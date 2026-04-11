@@ -1,0 +1,30 @@
+{
+  "title": "The formal demography of kinship VII: Lifetime kin overlap within and across generations",
+  "abstract": "Background Interactions among kin have important consequences, including resource transfers, allo-parenting, health care, and economic support. Some interactions require that the lives of the interacting relatives overlap. The overlap over a lifetime (lifetime kin overlap, LKO) depends on mortality (longer lives give more opportunity for overlap) and fertility (higher fertility produces more kin with which to overlap). Here we provide a general solution to the problem of calculating lifetime kin overlap. Objective Our objective is to develop a demographic model for the mean and variance of the lifetime overlap of any types of kin over the life of a focal individual. Methods The matrix kinship model is used to provide the age distribution of kin as an age-specific property of Focal. The mean and variance of lifetime overlap with kin of any type are then calculated using Markov chains with rewards. Results The analysis provides the mean and variance of the remaining lifetime overlap with any kind of kin at every age of a focal individual. It may be measured in terms of numbers, numbers in chosen age ranges, or numbers weighted by prevalence, or by the presence of at least one kin. Overlap is defined both prospectively and retrospectively. and includes simultaneous overlap with two or more types of kin ('sandwiched kin'). Contribution It is now possible to compute the mean and variance of the projected LKO with any type of kin, in one-sex or two-sex models based on age or combinations of age and stage.",
+  "authors": [
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    },
+    {
+      "raw": "de Vries, Charlotte",
+      "family": "de Vries",
+      "given": "Charlotte"
+    }
+  ],
+  "authors_text": "Caswell, Hal; de Vries, Charlotte",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.5",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

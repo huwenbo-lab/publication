@@ -1,0 +1,35 @@
+{
+  "title": "What You Need to Know When Estimating Monthly Impact Functions: Comment on Hudde and Jacob, “There’s More in the Data!”",
+  "abstract": "In life course research, it is common practice to analyze the effects of life events on outcomes. This is usually done by estimating “impact functions.” To date, most studies have estimated yearly impact functions. However, Hudde and Jacob (2023) (hereafter H&J) pointed out that most panel data sets include information on the month of events. Consequently, they proposed exploiting this information by estimating monthly impact functions. In this adversarial collaboration, we address two issues regarding H&J’s work. First, H&J did not provide sufficient guidance on how to estimate monthly impact functions. We will provide a step-by-step description of how to do so. Second, the procedure H&J proposed for smoothing monthly estimates produces confidence intervals (CIs) that are likely too narrow. This can lead to misleading conclusions. Therefore, we suggest using more appropriate bootstrapped CIs.",
+  "authors": [
+    {
+      "raw": "Brüderl, Josef",
+      "family": "Brüderl",
+      "given": "Josef"
+    },
+    {
+      "raw": "Hudde, Ansgar",
+      "family": "Hudde",
+      "given": "Ansgar"
+    },
+    {
+      "raw": "Jacob, Marita",
+      "family": "Jacob",
+      "given": "Marita"
+    }
+  ],
+  "authors_text": "Brüderl, Josef; Hudde, Ansgar; Jacob, Marita",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a34",
+  "doi_url": "https://doi.org/10.15195/v12.a34",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a34",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a34.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

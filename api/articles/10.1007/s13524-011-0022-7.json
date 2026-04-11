@@ -1,0 +1,40 @@
+{
+  "title": "Pathways of Early Fatherhood, Marriage, and Employment: A Latent Class Growth Analysis",
+  "abstract": "AbstractIn the National Longitudinal Survey of Youth 1979 (NLSY79), young fathers include heterogeneous subgroups with varying early life pathways in terms of fatherhood timing, the timing of first marriage, and holding full-time employment. Using latent class growth analysis with 10 observations between ages 18 and 37, we derived five latent classes with median ages of first fatherhood below the cohort median (26.4), constituting distinct early fatherhood pathways representing 32.4% of NLSY men: (A) Young Married Fathers, (B) Teen Married Fathers, (C) Young Underemployed Married Fathers, (D) Young Underemployed Single Fathers, and (E) Young Later-Marrying Fathers. A sixth latent class of men who become fathers around the cohort median, following full-time employment and marriage (On-Time On-Sequence Fathers), is the comparison group. With sociodemographic background controlled, all early fatherhood pathways show disadvantage in at least some later-life circumstances (earnings, educational attainment, marital status, and incarceration). The extent of disadvantage is greater when early fatherhood occurs at relatively younger ages (before age 20), occurs outside marriage, or occurs outside full-time employment. The relative disadvantage associated with early fatherhood, unlike early motherhood, increases over the life course.",
+  "authors": [
+    {
+      "raw": "Dariotis, Jacinda K.",
+      "family": "Dariotis",
+      "given": "Jacinda K."
+    },
+    {
+      "raw": "Pleck, Joseph H.",
+      "family": "Pleck",
+      "given": "Joseph H."
+    },
+    {
+      "raw": "Astone, Nan M.",
+      "family": "Astone",
+      "given": "Nan M."
+    },
+    {
+      "raw": "Sonenstein, Freya L.",
+      "family": "Sonenstein",
+      "given": "Freya L."
+    }
+  ],
+  "authors_text": "Dariotis, Jacinda K.; Pleck, Joseph H.; Astone, Nan M.; Sonenstein, Freya L.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0022-7",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0022-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0022-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0022-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

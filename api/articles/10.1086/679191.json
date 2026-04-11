@@ -1,0 +1,35 @@
+{
+  "title": "Where Do Immigrants Fare Worse? Modeling Workplace Wage Gap Variation with Longitudinal Employer-Employee Data",
+  "abstract": "The authors propose a strategy for observing and explaining workplace variance in categorically linked inequalities. Using Swedish economy-wide linked employer-employee panel data, the authors examine variation in workplace wage inequalities between native Swedes and non-Western immigrants. Consistent with relational inequality theory, the authors' findings are that immigrant-native wage gaps vary dramatically across workplaces, even net of strong human capital controls. The authors also find that, net of observed and fixed-effect controls for individual traits, workplace immigrant-native wage gaps decline with increased workplace immigrant employment and managerial representation and increase when job segregation rises. These results are stronger in high-inequality workplaces and for white-collar employees: contexts in which one expects status-based claims on organizational resources, the central causal mechanism identified by relational inequality theory, to be stronger. The authors conclude that workplace variation in the non-Western immigrant-native wage gaps is contingenton organizational variation in the relative power of groups and the institutional context in which that power is exercised.",
+  "authors": [
+    {
+      "raw": "Tomaskovic-Devey, Donald",
+      "family": "Tomaskovic-Devey",
+      "given": "Donald"
+    },
+    {
+      "raw": "Hallsten, Martin",
+      "family": "Hallsten",
+      "given": "Martin"
+    },
+    {
+      "raw": "Avent-Holt, Dustin",
+      "family": "Avent-Holt",
+      "given": "Dustin"
+    }
+  ],
+  "authors_text": "Tomaskovic-Devey, Donald; Hallsten, Martin; Avent-Holt, Dustin",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2015,
+  "doi": "10.1086/679191",
+  "doi_url": "https://doi.org/10.1086/679191",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F679191",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/679191.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

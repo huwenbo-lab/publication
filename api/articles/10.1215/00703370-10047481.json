@@ -1,0 +1,35 @@
+{
+  "title": "Toxic Neighborhoods: The Effects of Concentrated Poverty and Environmental Lead Contamination on Early Childhood Development",
+  "abstract": "Although socioeconomic disparities in cognitive ability emerge early in the life course, most research on the consequences of living in a disadvantaged neighborhood has focused on school-age children or adolescents. In this study, we outline and test a theoretical model of neighborhood effects on cognitive development during early childhood that highlights the mediating role of exposure to neurotoxic lead. To evaluate this model, we follow 1,266 children in Chicago from birth through school entry and track both their areal risk of lead exposure and their neighborhoods' socioeconomic composition over time. With these data, we estimate the joint effects of neighborhood poverty and environmental lead contamination on receptive vocabulary ability. We find that sustained exposure to disadvantaged neighborhoods reduces vocabulary skills during early childhood and that this effect operates through a causal mechanism involving lead contamination.",
+  "authors": [
+    {
+      "raw": "Wodtke, Geoffrey T.",
+      "family": "Wodtke",
+      "given": "Geoffrey T."
+    },
+    {
+      "raw": "Ramaj, Sagi",
+      "family": "Ramaj",
+      "given": "Sagi"
+    },
+    {
+      "raw": "Schachner, Jared",
+      "family": "Schachner",
+      "given": "Jared"
+    }
+  ],
+  "authors_text": "Wodtke, Geoffrey T.; Ramaj, Sagi; Schachner, Jared",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10047481",
+  "doi_url": "https://doi.org/10.1215/00703370-10047481",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10047481",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10047481.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

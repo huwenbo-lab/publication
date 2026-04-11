@@ -1,0 +1,35 @@
+{
+  "title": "Social selection in student mobility: The interplay of origin, achievement and track in the Italian North-South divide",
+  "abstract": "Student mobility constitutes a pivotal mechanism in the reproduction of social inequalities, especially in regions characterized by stark territorial disparities. In the Italian context, the persistent economic and institutional divide between the North and South shapes university enrollment patterns, fostering a longstanding trend of selective student migration from Southern regions to the Center-North. This study examines how three key dimensions of stratification - social origin, academic achievement, and school track - interact in shaping the likelihood of mobility at the point of university enrollment. Drawing on newly linked administrative data covering the entire cohort of Southern high school graduates in 2022, we assess whether student mobility operates as a boosting mechanism - benefiting high-achieving students from privileged backgrounds - or as a strategy of compensatory mobility and social ascent for others. Our findings reveal a clear pattern of triply selective mobility: relocation is most frequent among students who combine strong academic performance, a privileged social origin and enrollment in high-status school tracks.",
+  "authors": [
+    {
+      "raw": "Priulla, Andrea",
+      "family": "Priulla",
+      "given": "Andrea"
+    },
+    {
+      "raw": "Miaci, Eleonora",
+      "family": "Miaci",
+      "given": "Eleonora"
+    },
+    {
+      "raw": "Panichella, Nazareno",
+      "family": "Panichella",
+      "given": "Nazareno"
+    }
+  ],
+  "authors_text": "Priulla, Andrea; Miaci, Eleonora; Panichella, Nazareno",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101105",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101105",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101105",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101105.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

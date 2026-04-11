@@ -1,0 +1,25 @@
+{
+  "title": "Segregation and Poverty Concentration: The Role of Three Segregations",
+  "abstract": "A key argument of Massey and Denton's (1993) American Apartheid is that racial residential segregation and non-white group poverty rates combine interactively to produce spatially concentrated poverty. Despite a compelling theoretical rationale, empirical tests of this proposition have been negative or mixed. This article develops a formal decomposition model that expands Massey's model of how segregation, group poverty rates, and other spatial conditions combine to form concentrated poverty. The revised decomposition model allows for income effects on cross-race neighborhood residence and interactive combinations of multiple spatial conditions in the formation of concentrated poverty. Applying the model to data reveals that racial segregation and income segregation within race contribute importantly to poverty concentration, as Massey argued. Almost equally important for poverty concentration, however, is the disproportionate poverty of blacks' and Hispanics' other-race neighbors. It is thus more accurate to describe concentrated poverty in minority communities as resulting from three segregations: racial segregation, poverty-status segregation within race, and segregation from high- and middle-income members of other racial groups. The missing interaction Massey expected in empirical tests can be found with proper accounting for the factors in the expanded model.",
+  "authors": [
+    {
+      "raw": "Quillian, Lincoln",
+      "family": "Quillian",
+      "given": "Lincoln"
+    }
+  ],
+  "authors_text": "Quillian, Lincoln",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2012,
+  "doi": "10.1177/0003122412447793",
+  "doi_url": "https://doi.org/10.1177/0003122412447793",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122412447793",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122412447793.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

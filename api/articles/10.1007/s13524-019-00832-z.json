@@ -1,0 +1,35 @@
+{
+  "title": "The Mechanism Underlying Change in the Sex Gap in Life Expectancy at Birth: An Extended Decomposition",
+  "abstract": "The relationship between differential mortality rates and differences in life expectancy is well understood, but how changing differential rates translate into changing differences in life expectancy has not been fully explained. To elucidate the mechanism involved, this study extends existing decomposition methods. The extended method decomposes change in the sex gap in life expectancy at birth into three components capturing the effects of the sex difference in mortality improvement (rho-effect), life table deaths density by age (f-effect), and remaining life expectancy by age (e-effect). These three effects oppose and augment each other, depending on relative change in sex-differential mortality rates. The new method is applied to period data for 35 countries and cohort data for 25 countries. The results demonstrate how the mechanism, involving the three effects, operates to determine change in the sex difference in life expectancy. We observe the pivotal importance of the f-effect, which is predominantly negative because of lower female mortality, in favoring narrowing rather than widening of the sex gap, in shifting the overall effect to younger ages, and in exaggerating fluctuations due to crisis mortality. The new decomposition provides a more detailed basis for substantive analyses examining change in differences in life expectancy.",
+  "authors": [
+    {
+      "raw": "Cui, Qi",
+      "family": "Cui",
+      "given": "Qi"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Booth, Heather",
+      "family": "Booth",
+      "given": "Heather"
+    }
+  ],
+  "authors_text": "Cui, Qi; Canudas-Romo, Vladimir; Booth, Heather",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00832-z",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00832-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00832-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00832-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

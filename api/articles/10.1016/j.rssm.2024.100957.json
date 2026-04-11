@@ -1,0 +1,25 @@
+{
+  "title": "The effect of transitioning into temporary employment on wages is not negative: A comparative study in eight countries",
+  "abstract": "There remains a lack of clarity about the effect of temporary employment on wages. Using asymmetric fixed effects models with a dummy impact function, we study the wage effects of four distinct transitions: (1) from unemployment into a temporary relative to (2) a permanent contracts; and (3) from temporary into permanent contracts relative to (4) from permanent into temporary contracts. We use panel data from eight countries to examine the effect of these distinct transitions, over time after the transition occurs, and in a cross-national, comparative context. The main finding explains the wage penalty of temporary employment identified by previous research. The negative effect is more accurately understood as the difference between two types of transitions, neither of which are negative, even if transitions from temporary into permanent contracts more positive than transitions from permanent into temporary contracts. There is little difference in the wage effect of transitions from unemployment into temporary relative to permanent contracts. The findings may be counter intuitive, but they are consistent with the theory of equalizing differences.",
+  "authors": [
+    {
+      "raw": "Latner, Jonathan P.",
+      "family": "Latner",
+      "given": "Jonathan P."
+    }
+  ],
+  "authors_text": "Latner, Jonathan P.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100957",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100957",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100957",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100957.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

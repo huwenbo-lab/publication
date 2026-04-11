@@ -1,0 +1,35 @@
+{
+  "title": "Short-Lived Relief: The Racial Geography of Rebounding Eviction Rates in Postmoratorium St. Louis",
+  "abstract": "This visualization examines time series and spatial trends in eviction case filings in St. Louis and St. Louis County before, during, and after the federal eviction moratorium. Scraping data from the Missouri Courts system for all eviction cases in the region from January 2017 thru December 2024, the authors compare how eviction rates rebounded across majority-white and majority-Black neighborhoods, particularly in light of the moratorium’s documented effects dramatically diminishing eviction rates in high-risk communities. The results show that, in majority-Black neighborhoods, eviction filing rates rebounded aggressively during the moratorium and to an even stronger degree afterward, even despite emergency rental assistance protections. By contrast, rates rebounded to a more modest degree in majority-white neighborhoods and only after the moratorium’s end. A spatial representation of case filings illustrates the disproportionate degree to which eviction filings endured in majority-Black neighborhoods during the moratorium, setting the stage for pre- and postmoratorium portraits of eviction that were effectively indistinguishable. As a whole, these findings indicate that racialized patterns in the rebound of evictions in the region quickly eroded, and eventually eliminated, the relative parity in eviction filings between white and Black neighborhoods observed in the very early stages of the moratorium.",
+  "authors": [
+    {
+      "raw": "Brown, Anne",
+      "family": "Brown",
+      "given": "Anne"
+    },
+    {
+      "raw": "Kye, Samuel H.",
+      "family": "Kye",
+      "given": "Samuel H."
+    },
+    {
+      "raw": "Wang, Yi",
+      "family": "Wang",
+      "given": "Yi"
+    }
+  ],
+  "authors_text": "Brown, Anne; Kye, Samuel H.; Wang, Yi",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251404293",
+  "doi_url": "https://doi.org/10.1177/23780231251404293",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251404293",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251404293.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

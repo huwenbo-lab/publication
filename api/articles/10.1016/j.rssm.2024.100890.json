@@ -1,0 +1,35 @@
+{
+  "title": "Is the wage premium on using computers at work gender-specific?",
+  "abstract": "Past research on the relationship between computers and wages has revealed two stylized facts. First, workers who use a computer at work earn higher wages than similar workers who do not (termed as 'the computer wage premium'). Second, women are more likely to use a computer at work than are men. Given the recognized computer wage premium and women's advantage in computer use at work, we ask: Is the wage premium on using computers at work gender- or non-gender-specific? Given gendered processes operating at both the occupational and within-occupation levels, we expect that returns to computer usage are gender-bias. This contrasts the skill-biased technological change (SBTC) theory assumption that the theorized pathways through which computers boost earnings are non-gender-specific productivity-enhancing mechanisms. Analyzing occupational data on computer use at work from O*NET attached to the 1979-2016 Current Population Surveys (CPS) and individual-level data from the 2012 Survey of Adult Skills (PIAAC), we find that the computer wage premium is biased in favor of men at the occupation level. We conclude by suggesting that computer-based technologies relate to reproducing old forms of gender pay inequality due to gendered processes that operate mainly at the structural level (i.e., occupations) rather than at the individual level.",
+  "authors": [
+    {
+      "raw": "Kristal, Tali",
+      "family": "Kristal",
+      "given": "Tali"
+    },
+    {
+      "raw": "Herzberg-Druker, Efrat",
+      "family": "Herzberg-Druker",
+      "given": "Efrat"
+    },
+    {
+      "raw": "White, Adena",
+      "family": "White",
+      "given": "Adena"
+    }
+  ],
+  "authors_text": "Kristal, Tali; Herzberg-Druker, Efrat; White, Adena",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100890",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100890",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100890",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100890.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

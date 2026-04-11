@@ -1,0 +1,40 @@
+{
+  "title": "Panel Conditioning in a Longitudinal Study of Adolescents' Substance Use: Evidence from an Experiment",
+  "abstract": "Panel surveys are widely used in sociology to examine life-course trajectories and to assess causal effects. However, when using panel data researchers usually assume that the act of measuring respondents' attitudes and behaviors has no effect on the attributes being measured or on the accuracy of reports about those attributes. Evidence from cognitive psychology, marketing research, political science and other fields suggests that this assumption may not be warranted. Using a rigorous experimental design, we examine the magnitude of panel conditioning bias – the bias emerging from having answered questions in prior waves of a survey – in a panel study of substance use among adolescents in Chile. We find that adolescents who answered survey questions about alcohol, cigarette, marijuana and cocaine use were considerably less likely than members of a control group to report substance use when re-interviewed one year later. This finding has important implications, and also points to the need for sociologists to be concerned about panel conditioning as an important methodological issue.",
+  "authors": [
+    {
+      "raw": "Torche, F.",
+      "family": "Torche",
+      "given": "F."
+    },
+    {
+      "raw": "Warren, J. R.",
+      "family": "Warren",
+      "given": "J. R."
+    },
+    {
+      "raw": "Halpern-Manners, A.",
+      "family": "Halpern-Manners",
+      "given": "A."
+    },
+    {
+      "raw": "Valenzuela, E.",
+      "family": "Valenzuela",
+      "given": "E."
+    }
+  ],
+  "authors_text": "Torche, F.; Warren, J. R.; Halpern-Manners, A.; Valenzuela, E.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2012,
+  "doi": "10.1093/sf/sor006",
+  "doi_url": "https://doi.org/10.1093/sf/sor006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsor006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sor006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

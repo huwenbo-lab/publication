@@ -1,0 +1,25 @@
+{
+  "title": "Less equal, less trusting? Longitudinal and cross-sectional effects of income inequality on trust in US States, 1973-2012",
+  "abstract": "Does income inequality reduce social trust? Although both popular and scholarly accounts have argued that income inequality reduces trust, some recent research has been more skeptical, noting these claims are more robust cross-sectionally than longitudinally. Furthermore, although multiple mechanisms have been proposed for why inequality could affect trust, these have rarely been tested explicitly. I examine the effect of state-level income inequality on trust using the 1973-2012 General Social Surveys. I find little evidence that states that have been more unequal over time have less trusting people. There is some evidence that the growth in income inequality is linked with a decrease in trust, but these effects are sensitive to how time is accounted for. While much previous inequality and trust research has focused on status anxiety, this mechanism receives the little support, but mechanisms based on social fractionalization and on exploitation and resentment receive some support. This analysis improves on previous estimates of the effect of state-level inequality on trust by using far more available observations, accounting for more potential individual and state level confounders, and using higher-quality income inequality data based on annual IRS tax returns. It also contributes to our understanding of the mechanism(s) through which inequality may affect trust.",
+  "authors": [
+    {
+      "raw": "Hastings, Orestes P.",
+      "family": "Hastings",
+      "given": "Orestes P."
+    }
+  ],
+  "authors_text": "Hastings, Orestes P.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.04.005",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.04.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.04.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.04.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

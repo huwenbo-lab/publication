@@ -1,0 +1,35 @@
+{
+  "title": "First and second births among immigrants and their descendants in Switzerland",
+  "abstract": "BACKGROUND The fertility of immigrants and their descendants is a crucial determinant of population dynamics, particularly where migrants are numerous and ethnically diverse, as in Switzerland. This paper analyses the transition to the first and second births of immigrants and their descendants and compares them with each other and with the native population. METHODS Using survival analysis and drawing on data from the Family and Generation Survey (FGS-2013), we disaggregate the fertility indicators of intensity and timing by ethnic minority and by birth order, controlling for a variety of sociodemographic characteristics. RESULTS Our results show that while there is no substantive difference in the probability and timing of first births between immigrants, their descendants, and Swiss natives, first-generation immigrants become parents younger and more often. Quite unexpectedly, we found that for migrants a second child is less frequent and comes after a longer birth interval than for Swiss natives, independently of whether or not they are born in Switzerland. CONCLUSIONS AND CONTRIBUTIONS This pattern of a delayed second birth for immigrants and their descendants differs from those observed in other European countries (Kulu et al. 2017). Our paper contributes to the literature by examining the heterogeneous fertility trajectories of different groups of migrants and their children. Our results by ethnic group and generation document fertility distribution in a highly diversified migration context, where new migrant groups are joining more established groups and where integration and family policies are weak, compared with the rest of Europe.",
+  "authors": [
+    {
+      "raw": "Rojas, Eder Andres Guarin",
+      "family": "Rojas",
+      "given": "Eder Andres Guarin"
+    },
+    {
+      "raw": "Bernardi, Laura",
+      "family": "Bernardi",
+      "given": "Laura"
+    },
+    {
+      "raw": "Schmid, Flurina",
+      "family": "Schmid",
+      "given": "Flurina"
+    }
+  ],
+  "authors_text": "Rojas, Eder Andres Guarin; Bernardi, Laura; Schmid, Flurina",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.11",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "No consistent effects of prenatal or neonatal exposure to Spanish flu on late-life mortality in 24 developed countries",
+  "abstract": "We test the effects of early life exposure to disease on later health by looking for differences in late-life mortality in cohorts born around the 1918-1919 flu pandemic using data from the Human Mortality Database for 24 countries. After controlling for age, period, and sex effects, residual mortality rates did not differ systematically for flu cohorts relative to surrounding cohorts. We calculate at most a 20-day reduction in life expectancy for flu cohorts; likely values are much smaller. Estimates of influenza incidence during the pandemic suggest that exposure was high enough for this to be a robust negative result.",
+  "authors": [
+    {
+      "raw": "Cohen, Alan",
+      "family": "Cohen",
+      "given": "Alan"
+    },
+    {
+      "raw": "Tillinghast, John",
+      "family": "Tillinghast",
+      "given": "John"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Cohen, Alan; Tillinghast, John; Canudas-Romo, Vladimir",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.22.20",
+  "doi_url": "https://doi.org/10.4054/demres.2010.22.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.22.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.22.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

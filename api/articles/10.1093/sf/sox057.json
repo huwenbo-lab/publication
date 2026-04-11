@@ -1,0 +1,35 @@
+{
+  "title": "What a Story?",
+  "abstract": "Despite efforts by protesters to develop newsworthy tactics, there is ample evidence that reporters use a few well-defined scripts to construct stories on these events. The institutionalization of protest has only served to amplify the routinization of media coverage. How then do reporters address emergent forms of collective action that fail to conform to existing scripts? The current research investigates this phenomenon by comparing the language used to describe protest in major American cities and disturbances on college and university campuses. Colleges and universities have seen an upsurge of these events, such as disorderly celebrations following sporting contests. In contrast, protest has become increasingly institutionalized. As a consequence, we suspected that coverage of campus community disturbances would draw much more heavily on language that portrays them as dangerous than would coverage of protests. Our analysis of newspaper coverage reveals that even when taking into consideration important event features like the behaviors of police and civilians, protests are covered in a far more routine fashion than are campus community riots, a condition that holds even for the most contentious protest events. These findings provide important insights into the interplay of collective action and media attention, and are especially timely given the recent rise of more contentious events such as the #blacklivesmatter protests.",
+  "authors": [
+    {
+      "raw": "Martin, Andrew W.",
+      "family": "Martin",
+      "given": "Andrew W."
+    },
+    {
+      "raw": "Rafail, Patrick",
+      "family": "Rafail",
+      "given": "Patrick"
+    },
+    {
+      "raw": "McCarthy, John D.",
+      "family": "McCarthy",
+      "given": "John D."
+    }
+  ],
+  "authors_text": "Martin, Andrew W.; Rafail, Patrick; McCarthy, John D.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox057",
+  "doi_url": "https://doi.org/10.1093/sf/sox057",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox057",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox057.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

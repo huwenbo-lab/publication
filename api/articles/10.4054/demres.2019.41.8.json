@@ -1,0 +1,30 @@
+{
+  "title": "The health of biracial children in two-parent families in the United States",
+  "abstract": "BACKGROUND Over the past few decades, the United States has experienced a dramatic rise in the number of multiracial individuals. The health of this population is vastly understudied because most population-based health surveys do not adequately identify multiracial individuals. OBJECTIVE We compare the health of black/white biracial children with that of single-race white and black children and assess the extent to which differences in characteristics of parents who select into the distinct unions and children's socioeconomic backgrounds explain the observed differences. METHODS Using information about the race of coresident mothers and fathers, we classify children into four racial groups - single-race whites (WW), biracial children with white mothers and black fathers (WB), biracial children with black mothers and white fathers (BW), and single-race blacks (BB). We estimate logistic regression models to document variations in rates of poor overall health and disability by children's racial background. RESULTS WW children are less likely than BB children to have poor overall health, but more likely to be diagnosed with a disability. WB children are less likely than BB children, but more likely than WW children, to have poorer health. The disability rates of WB children are similar to those of BB children. Selection and socioeconomic differences explain some of the differences in poor overall health, but suppress differences in disability, between WB and WW children. CONTRIBUTION This study underscores the importance of considering both maternal and paternal race when studying racial disparities in child health.",
+  "authors": [
+    {
+      "raw": "Choi, Kate H.",
+      "family": "Choi",
+      "given": "Kate H."
+    },
+    {
+      "raw": "Reichman, Nancy E.",
+      "family": "Reichman",
+      "given": "Nancy E."
+    }
+  ],
+  "authors_text": "Choi, Kate H.; Reichman, Nancy E.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.8",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Double standards? Co-authorship and gender bias in early-stage academic evaluations",
+  "abstract": "This article studies gender bias in early-stage academic evaluations in Italy and investigates whether this bias depends on various types of authorship in collaborative work across three academic fields: humanities, economics, and social sciences. We test our hypotheses via a factorial survey (vignette) experiment on a sample from the entire population of associate and full professors employed at Italian public universities in 2019. This is one of the few experiments conducted with university professors to consider hiring propensities in academia. Contrary to our general expectations, we do not find gender bias in relation to co-authorship in our general population of interest. However, the results provide some evidence that when the evaluator is a man, highly collaborative women academics in Italy receive less favourable evaluations of their qualifications compared to male colleagues with identical credentials. This gender bias is found in economics, a field where the conventions of co-authorship allow for greater uncertainty about individual contributions to a joint publication.",
+  "authors": [
+    {
+      "raw": "Gerxhani, Klarita",
+      "family": "Gerxhani",
+      "given": "Klarita"
+    },
+    {
+      "raw": "Kulic, Nevena",
+      "family": "Kulic",
+      "given": "Nevena"
+    },
+    {
+      "raw": "Liechti, Fabienne",
+      "family": "Liechti",
+      "given": "Fabienne"
+    }
+  ],
+  "authors_text": "Gerxhani, Klarita; Kulic, Nevena; Liechti, Fabienne",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac045",
+  "doi_url": "https://doi.org/10.1093/esr/jcac045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Safety Net Spending on Children and the Sources of Household Income Across US States, 1997-2016",
+  "abstract": "High levels of poverty and economic precarity in the United States rela tive to other countries have led to academic and policy debates about whether welfare state investments accomplish what they are intended to. Although social safety net spending clearly has antipoverty effects at the national level, there is scant evidence on the resource pathway presumed to underlie the effects of the local welfare state on families with children. Which types of public investments have especially contrib uted to the total resources of households with children? Understanding this question at the state level is important, given dramatic variation in states' safety net spending on children and the rise of federalism, which increases state autonomy in designing and administering social programs. Using annual data from the 1997-2016 Stateby State Spending on Kids Dataset linked to data from the Census Bureau's Annual Social and Economic Supplement to the Current Population Survey, we examine the relationship between transfer spending in states and household income sources. Findings suggest that government transfers raise the total income of households with the lowest income and educational levels and that transfer income among these households is more multi dimensional than among higher resource households. Further, analyses using variation within and across states demonstrate that state level spending in each area is associ ated with an increase in corresponding transfer income among noncollegeeducated households and those in the bottom half of the income distribution; such spending is associated with no increase (or a decrease) in transfer income among collegeeducated households and those in the top quarter of the income distribution. These results suggest that increases in state-level spending disproportionately benefit the budgets of households with the lowest resources and might be a promising means to reduce resource gaps between households.",
+  "authors": [
+    {
+      "raw": "Jackson, Margot I.",
+      "family": "Jackson",
+      "given": "Margot I."
+    },
+    {
+      "raw": "Wimer, Christopher",
+      "family": "Wimer",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Zilkha, Chloe",
+      "family": "Zilkha",
+      "given": "Chloe"
+    }
+  ],
+  "authors_text": "Jackson, Margot I.; Wimer, Christopher; Zilkha, Chloe",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11694711",
+  "doi_url": "https://doi.org/10.1215/00703370-11694711",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11694711",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11694711.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

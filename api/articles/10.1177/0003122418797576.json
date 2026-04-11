@@ -1,0 +1,30 @@
+{
+  "title": "Beyond Social Contagion: Associative Diffusion and the Emergence of Cultural Variation",
+  "abstract": "Network models of diffusion predominantly think about cultural variation as a product of social contagion. But culture does not spread like a virus. We propose an alternative explanation we call associative diffusion. Drawing on two insights from research in cognition-that meaning inheres in cognitive associations between concepts, and that perceived associations constrain people's actions-we introduce a model in which, rather than beliefs or behaviors, the things being transmitted between individuals are perceptions about what beliefs or behaviors are compatible with one another. Conventional contagion models require the assumption that networks are segregated to explain cultural variation. We show, in contrast, that the endogenous emergence of cultural differentiation can be entirely attributable to social cognition and does not require a segregated network or a preexisting division into groups. Moreover, we show that prevailing assumptions about the effects of network topology do not hold when diffusion is associative.",
+  "authors": [
+    {
+      "raw": "Goldberg, Amir",
+      "family": "Goldberg",
+      "given": "Amir"
+    },
+    {
+      "raw": "Stein, Sarah K.",
+      "family": "Stein",
+      "given": "Sarah K."
+    }
+  ],
+  "authors_text": "Goldberg, Amir; Stein, Sarah K.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1177/0003122418797576",
+  "doi_url": "https://doi.org/10.1177/0003122418797576",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122418797576",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122418797576.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

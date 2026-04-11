@@ -1,0 +1,25 @@
+{
+  "title": "The Effects of Undergraduate Financing on Advanced Degree Attainment",
+  "abstract": "This study examines the effects of undergraduate financing on subsequent advanced degree attainment in a context characterized by a shift away from traditional grant aid programs and toward widespread student loans. Using data from the National Survey of College Graduates, 2SLS Lewbel method regressions estimate the effects of having received undergraduate grant aid and having student loan debt on the chances of attaining an advanced degree during the next ten years. Results suggest a large positive influence of receiving undergraduate grant aid on advanced degree attainment ((+)8.5%), thus boosting higher education attainment far beyond only an undergraduate degree across college graduation cohorts between 1986 and 2007. Conversely, having loan debt upon college graduation affected the chances of advanced degree attainment negatively. The increased reliance on loans during undergraduate studies coincided with its long-term (or spillover) effect on advanced degree attainment being null in the late 1980s to a substantive deficit of more than 4 percentage-points from the 2000s onward. Counterfactual projection models suggest that loan-taking after the 1992 Higher Education Act suppressed the number of advanced degree holders in the US labor market and will continue to do so given current undergraduate financing patterns.",
+  "authors": [
+    {
+      "raw": "Witteveen, Dirk",
+      "family": "Witteveen",
+      "given": "Dirk"
+    }
+  ],
+  "authors_text": "Witteveen, Dirk",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soac044",
+  "doi_url": "https://doi.org/10.1093/sf/soac044",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac044",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac044.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

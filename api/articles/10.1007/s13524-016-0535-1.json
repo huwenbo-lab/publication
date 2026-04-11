@@ -1,0 +1,25 @@
+{
+  "title": "Age at Arrival and Life Chances Among Childhood Immigrants",
+  "abstract": "This study examines the causal relationship between childhood immigrants' age at arrival and their life chances as adults. I analyze panel data on siblings from Norwegian administrative registries, which enables me to disentangle the effect of age at arrival on adult socioeconomic outcomes from all fixed family-level conditions and endowments shared by siblings. Results from sibling fixed-effects models reveal a progressively stronger adverse influence of immigration at later stages of childhood on completed education, employment, adult earnings, occupational attainment, and social welfare assistance. The persistence of these relationships within families indicates that experiences related to the timing of childhood immigration have causal effects on later-life outcomes. These age-at-arrival effects are considerably stronger among children who arrive from geographically distant and economically less-developed origin regions than among children originating from developed countries. The age-at-arrival effects vary less by parental education and child gender. On the whole, the findings indicate that childhood immigration after an early-life formative period tends to constrain later human capital formation and economic opportunities over the life course.",
+  "authors": [
+    {
+      "raw": "Hermansen, Are Skeie",
+      "family": "Hermansen",
+      "given": "Are Skeie"
+    }
+  ],
+  "authors_text": "Hermansen, Are Skeie",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-016-0535-1",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0535-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0535-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0535-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

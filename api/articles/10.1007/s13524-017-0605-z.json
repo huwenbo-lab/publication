@@ -1,0 +1,30 @@
+{
+  "title": "The Simultaneous Effects of Socioeconomic Disadvantage and Child Health on Children's Cognitive Development",
+  "abstract": "Family socioeconomic status (SES) and child health are so strongly related that scholars have speculated child health to be an important pathway through which a cycle of poverty is reproduced across generations. Despite increasing recognition that SES and health work reciprocally and dynamically over the life course to produce inequality, research has yet to address how these two pathways simultaneously shape children's development. Using longitudinal data from the Fragile Families and Child Wellbeing Study and marginal structural models, we ask three questions: (1) how does the reciprocal relationship between socioeconomic disadvantage and child health affect estimates of each circumstance on children's cognitive development?; (2) how do their respective effects vary with age?; and (3) do family SES and child health have differential effects on cognitive development across population subgroups? The results show that the negative effects of socioeconomic disadvantage and poor health are insensitive to their reciprocal relationships over time. We find divergent effects of socioeconomic disadvantage and poor health on children's cognitive trajectories, with a widening pattern for family SES effects and a leveling-off pattern for child health effects. Finally, the effects of socioeconomic disadvantage are similar across all racial/ethnic groups, while the effects of child health are largely driven by white children. We discuss theoretical and policy implications of these findings for future research.",
+  "authors": [
+    {
+      "raw": "Lee, Dohoon",
+      "family": "Lee",
+      "given": "Dohoon"
+    },
+    {
+      "raw": "Jackson, Margot",
+      "family": "Jackson",
+      "given": "Margot"
+    }
+  ],
+  "authors_text": "Lee, Dohoon; Jackson, Margot",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0605-z",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0605-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0605-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0605-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

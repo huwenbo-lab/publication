@@ -1,0 +1,35 @@
+{
+  "title": "Height and the normal distribution: evidence from italian military data",
+  "abstract": "AbstractResearchers modeling historical heights have typically relied on the restrictive assumption of a normal distribution, only the mean of which is affected by age, income, nutrition, disease, and similar influences. To avoid these restrictive assumptions, we develop a new semiparametric approach in which covariates are allowed to affect the entire distribution without imposing any parametric shape. We apply our method to a new database of height distributions for Italian provinces, drawn from conscription records, of unprecedented length and geographical disaggregation. Our method allows us to standardize distributions to a single age and calculate moments of the distribution that are comparable through time. Our method also allows us to generate counterfactual distributions for a range of ages, from which we derive age-height profiles. These profiles reveal how the adolescent growth spurt (AGS) distorts the distribution of stature, and they document the earlier and earlier onset of the AGS as living conditions improved over the second half of the nineteenth century. Our new estimates of provincial mean height also reveal a previously unnoticed “regime switch” from regional convergence to divergence in this period.",
+  "authors": [
+    {
+      "raw": "A’hearn, Brian",
+      "family": "A’hearn",
+      "given": "Brian"
+    },
+    {
+      "raw": "Peracchi, Franco",
+      "family": "Peracchi",
+      "given": "Franco"
+    },
+    {
+      "raw": "Vecchi, Giovanni",
+      "family": "Vecchi",
+      "given": "Giovanni"
+    }
+  ],
+  "authors_text": "A’hearn, Brian; Peracchi, Franco; Vecchi, Giovanni",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0049",
+  "doi_url": "https://doi.org/10.1353/dem.0.0049",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0049",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0049.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

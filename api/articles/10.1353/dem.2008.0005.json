@@ -1,0 +1,30 @@
+{
+  "title": "The quality of retrospective data on Cohabitation",
+  "abstract": "Abstract We assess the quality of retrospective data on cohabitation by comparing data collected in four major U.S. family surveys: the National Survey of Families and Households and three rounds of the National Survey of Family Growth. We use event-history analysis to analyze rates of entry into cohabitation in age-period-cohort segments captured by multiple surveys. We find consistent discrepancies among the four surveys. The pattern of differences suggests that cohabitation histories underestimate cohabitation rates in distant periods relative to rates estimated closer to the date of survey. We conclude with cautions regarding the use of retrospective data on cohabitation.",
+  "authors": [
+    {
+      "raw": "Hayford, Sarah R.",
+      "family": "Hayford",
+      "given": "Sarah R."
+    },
+    {
+      "raw": "Morgan, S. Philip",
+      "family": "Morgan",
+      "given": "S. Philip"
+    }
+  ],
+  "authors_text": "Hayford, Sarah R.; Morgan, S. Philip",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.2008.0005",
+  "doi_url": "https://doi.org/10.1353/dem.2008.0005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2008.0005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2008.0005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

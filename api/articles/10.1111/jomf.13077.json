@@ -1,0 +1,35 @@
+{
+  "title": "Partners' health and silver splits in Europe: A gendered pattern?",
+  "abstract": "ObjectiveBuilding on the Theory of Dyadic Illness Management, this paper addresses the correlates of silver splits-voluntary union dissolutions after age 50-among mixed-gender couples in Europe focusing on the role of partners' health status.BackgroundFamily diversity at older ages is growing in wealthy countries, with late union dissolutions increasingly occurring through separation and divorce rather than widowhood. Nonetheless, the correlates of silver splits in Europe, particularly regarding health within couples, remain underexplored.MethodWe utilized data from the European Survey of Health, Ageing, and Retirement (SHARE), spanning Waves 1 (2004-2005) to 9 (2021-2022), and employed discrete-time event-history analysis to model the risk of silver splits, separately among couples aged 50-64 and 65+ (N = 31,915 and 48,361 couple-years, respectively). We inspected three health dimensions: self-rated health, Global Activity Limitations Index, depression.ResultsWe found a non-negligible and gendered association between health and union dissolution among couples aged 50-64. Couples in which the woman reported poor self-rated health or faced severe activity limitations, whereas the man maintained good health, exhibited a higher risk of silver splits compared to couples in good health. Conversely, the risk of silver splits did not change significantly when the man experienced poor self-rated health or activity limitations compared to couples in good health. Results among older couples suggested that the health/silver split link weakens with age.ConclusionGendered health-related selection effects appear among older European couples, as men struggle more than women with a partner's declining health, potentially jeopardizing the couple's stability.",
+  "authors": [
+    {
+      "raw": "Vignoli, Daniele",
+      "family": "Vignoli",
+      "given": "Daniele"
+    },
+    {
+      "raw": "Alderotti, Giammarco",
+      "family": "Alderotti",
+      "given": "Giammarco"
+    },
+    {
+      "raw": "Tomassini, Cecilia",
+      "family": "Tomassini",
+      "given": "Cecilia"
+    }
+  ],
+  "authors_text": "Vignoli, Daniele; Alderotti, Giammarco; Tomassini, Cecilia",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13077",
+  "doi_url": "https://doi.org/10.1111/jomf.13077",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13077",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13077.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

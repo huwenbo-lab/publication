@@ -1,0 +1,35 @@
+{
+  "title": "Transitions in secondary education: Exploring effects of social problems",
+  "abstract": "The purpose of this article is to investigate educational choices and attainment of children who experience social problems during their upbringing. The study explores the extent to which social problems can help explain the gaps in entry and dropout rates in upper secondary education in Denmark between students from different socioeconomic backgrounds. Population-based registers are used to include information on family upbringing, e.g. alcohol abuse, criminality, use of psychopharmaca and out-of-home placement. We estimate a parsimonious version of Cammen and Heckman's (2001) dynamic statistical model of educational progression. By using this method, we parcel educational attainment into a series of transitions and the model is able to control for educational selection and unobserved heterogeneity. We apply counterfactual analyses to allow a formal decomposition of the effects of social problems. The results show that social problems during upbringing have a large and significant effect on children's educational outcome and that the indicators of social problems explain about 20-30 per cent of the class differences in the students' educational outcomes. (C) 2014 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Larsen, Britt Ostergaard",
+      "family": "Larsen",
+      "given": "Britt Ostergaard"
+    },
+    {
+      "raw": "Jensen, Leif",
+      "family": "Jensen",
+      "given": "Leif"
+    },
+    {
+      "raw": "Jensen, Torben Pilegaard",
+      "family": "Jensen",
+      "given": "Torben Pilegaard"
+    }
+  ],
+  "authors_text": "Larsen, Britt Ostergaard; Jensen, Leif; Jensen, Torben Pilegaard",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2014,
+  "doi": "10.1016/j.rssm.2014.05.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2014.05.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2014.05.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2014.05.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

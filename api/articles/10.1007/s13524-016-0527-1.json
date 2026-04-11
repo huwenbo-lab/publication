@@ -1,0 +1,30 @@
+{
+  "title": "Compensation or Reinforcement? The Stratification of Parental Responses to Children's Early Ability",
+  "abstract": "Theory and empirical evidence suggest that parents allocate their investments unequally among their children, thus inducing within-family inequality. We investigate whether parents reinforce or compensate for initial ability differences between their children as well as whether these parental responses vary by family socioeconomic status (SES). Using the Early Childhood Longitudinal Study, Birth Cohort (ECLS-B) and a twin fixed-effects approach to address unobserved heterogeneity, we find that parental responses to early ability differences between their children do vary by family SES. Contrary to prior findings, we find that advantaged parents provide more cognitive stimulation to higher-ability children, and lower-class parents do not respond to ability differences. No analogous stratification in parental responses to birth weight is found, suggesting that parents' responses vary across domains of child endowments. The reinforcing responses to early ability by high-SES parents do not, however, led to increases in ability differences among children because parental responses have little effect on children's later cognitive performance in this twin sample.",
+  "authors": [
+    {
+      "raw": "Gratz, Michael",
+      "family": "Gratz",
+      "given": "Michael"
+    },
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    }
+  ],
+  "authors_text": "Gratz, Michael; Torche, Florencia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0527-1",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0527-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0527-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0527-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

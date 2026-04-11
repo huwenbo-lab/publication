@@ -1,0 +1,30 @@
+{
+  "title": "Knowledge Hierarchies and Gender Disparities in Social Science Funding",
+  "abstract": "This article examines the relationship between knowledge hierarchies and gender stratification in research funding. Through a mixed-methods study combining data on 5460 funded and unfunded social science applications submitted to a research council in Western Europe, and nine interviews with current and former council members, we explore how applicants’ disciplinary, thematic and methodological orientations intersect with gender to shape funding opportunities. Descriptive analysis indicates that women’s proposals are underfunded, with a relative gender difference of around 20%. Using computational text analysis and mediation analysis, we approximate that around one-third of this disparity may be attributed to gender differences in disciplinary focus, thematic specialisations and methodologies. The interviews with council members allow us to make sense of these disparities and expose the disciplinary hierarchies and power struggles at play in the council, sometimes resulting in a devaluation of qualitative methods and, more broadly, interpretive, descriptive and exploratory approaches in proposal assessments.",
+  "authors": [
+    {
+      "raw": "Larregue, Julien",
+      "family": "Larregue",
+      "given": "Julien"
+    },
+    {
+      "raw": "Nielsen, Mathias Wullum",
+      "family": "Nielsen",
+      "given": "Mathias Wullum"
+    }
+  ],
+  "authors_text": "Larregue, Julien; Nielsen, Mathias Wullum",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2023,
+  "doi": "10.1177/00380385231163071",
+  "doi_url": "https://doi.org/10.1177/00380385231163071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380385231163071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380385231163071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

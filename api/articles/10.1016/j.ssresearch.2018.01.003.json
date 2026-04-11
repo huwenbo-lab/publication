@@ -1,0 +1,35 @@
+{
+  "title": "In the shadow of production: Coal waste accumulation and environmental inequality formation in Eastern Kentucky",
+  "abstract": "This article advances an environmental-sociological and quantitative spatial-analytic approach to the study of environmental inequality formation in coal country. We use spatial error regression models in a case study of 2000 census block group proximity to hazardous coal waste impoundments amidst shifting coal production trajectories and impoundment disaster contexts in the declining Eastern Kentucky coalfields. Proximity to abandoned and sealed mines, coal production density, and the buffering effect of rural-agricultural context are the most powerful predictors of impoundment proximity in the period encapsulating the boom years of coal production and culminating in 2000. Amidst continued coal industry decline and the post-2000 Martin County impoundment disaster context, proximity to older impoundments, including the failed Martin County impoundment, proximity to abandoned and sealed mines, and poverty levels by 2000 are the most powerful predictors of proximity to impoundments sited from 2001 to 2006. Findings have important environmental justice research and policy implications.",
+  "authors": [
+    {
+      "raw": "Lievanos, Raoul S.",
+      "family": "Lievanos",
+      "given": "Raoul S."
+    },
+    {
+      "raw": "Greenberg, Pierce",
+      "family": "Greenberg",
+      "given": "Pierce"
+    },
+    {
+      "raw": "Wishart, Ryan",
+      "family": "Wishart",
+      "given": "Ryan"
+    }
+  ],
+  "authors_text": "Lievanos, Raoul S.; Greenberg, Pierce; Wishart, Ryan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.01.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.01.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.01.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.01.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

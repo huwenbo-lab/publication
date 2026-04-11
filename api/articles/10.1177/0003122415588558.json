@@ -1,0 +1,35 @@
+{
+  "title": "Toward a New Macro-Segregation? Decomposing Segregation within and between Metropolitan Cities and Suburbs",
+  "abstract": "This article documents a new macro-segregation, where the locus of racial differentiation resides increasingly in socio-spatial processes at the community or place level. The goal is to broaden the spatial lens for studying segregation, using decennial Census data on 222 metropolitan areas. Unlike previous neighborhood studies of racial change, we decompose metropolitan segregation into its within- and between-place components from 1990 to 2010. This is accomplished with the Theil index (H). Our decomposition of H reveals large post-1990 declines in metropolitan segregation. But, significantly, macro-segregationthe between-place componenthas increased since 1990, offsetting declines in the within-place component. The macro component of segregation is also most pronounced and increasing most rapidly among blacks, accounting for roughly one-half of all metro segregation in the most segregated metropolitan areas of the United States. Macro-segregation is least evident among Asians, which suggests other members of these communities (i.e., middle-class or affluent ethnoburbs) have less resistance to Asians relocating there. These results on emerging patterns of macro-segregation are confirmed in fixed-effects models that control for unobserved heterogeneity across metropolitan areas. Unlike most previous studies focused on the uneven distribution of racial and ethnic groups across metropolitan neighborhoods, we show that racial residential segregation is increasingly shaped by the cities and suburban communities in which neighborhoods are embedded.",
+  "authors": [
+    {
+      "raw": "Lichter, Daniel T.",
+      "family": "Lichter",
+      "given": "Daniel T."
+    },
+    {
+      "raw": "Parisi, Domenico",
+      "family": "Parisi",
+      "given": "Domenico"
+    },
+    {
+      "raw": "Taquino, Michael C.",
+      "family": "Taquino",
+      "given": "Michael C."
+    }
+  ],
+  "authors_text": "Lichter, Daniel T.; Parisi, Domenico; Taquino, Michael C.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1177/0003122415588558",
+  "doi_url": "https://doi.org/10.1177/0003122415588558",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122415588558",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122415588558.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

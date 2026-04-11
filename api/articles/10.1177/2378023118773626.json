@@ -1,0 +1,30 @@
+{
+  "title": "The Asymmetrical Effects of Economic Development on Consumption-based and Production-based Carbon Dioxide Emissions, 1990 to 2014",
+  "abstract": "The authors examine the potentially asymmetrical relationship between economic development and consumption-based and production-based CO2 emissions. They decompose economic development into economic expansions and contractions, measured separately as increases and decreases in gross domestic product per capita, and examine their unique effects on emissions. Analyzing cross-national data from 1990 to 2014, the authors find no statistical evidence of asymmetry for the overall sample. However, for a sample restricted to nations with populations larger than 10 million, the authors observe a contraction-leaning asymmetry whereby the effects of economic contraction on both emissions outcomes are larger in magnitude than the effects of economic expansion. This difference in magnitude is more pronounced for consumption-based emissions than for production-based emissions. The authors provide tentative explanations for the variations in results across the different samples and emissions measures and underscore the need for more nuanced research and deeper theorization on potential asymmetry in the relationship between economic development and anthropogenic emissions.",
+  "authors": [
+    {
+      "raw": "Huang, Xiaorui",
+      "family": "Huang",
+      "given": "Xiaorui"
+    },
+    {
+      "raw": "Jorgenson, Andrew K.",
+      "family": "Jorgenson",
+      "given": "Andrew K."
+    }
+  ],
+  "authors_text": "Huang, Xiaorui; Jorgenson, Andrew K.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118773626",
+  "doi_url": "https://doi.org/10.1177/2378023118773626",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118773626",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118773626.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

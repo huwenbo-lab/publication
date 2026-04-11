@@ -1,0 +1,35 @@
+{
+  "title": "Is Deliberate Control of Behavior Rare? A Test of the Automaticity Dominance Perspective",
+  "abstract": "The “automaticity dominance” perspective on cognition and behavior holds that automatic processes guide most behavior because deliberate processing is slow, inefficient, and therefore rare, typically restricted to “problematic” situations. Other scholars argue on both theoretical and empirical grounds that deliberate processing is more common. In this study, the authors test automaticity dominance by using multinomial processing tree models to examine donation decisions in an online sample of 1,027 respondents. Using a mixture of preregistered and exploratory analyses on both experimental and observational data, the authors find that (1) the processes underlying donation behavior execute efficiently and rapidly, but key processes are also controllable; (2) deliberate cognition increases in problematic situations but also operates when levels of problematicity are low; and (3) respondents deliberately control (at a minimum) a substantial minority of their decisions. These results indicate that deliberate cognition might not be as rare as an automaticity dominance perspective suggests.",
+  "authors": [
+    {
+      "raw": "Miles, Andrew",
+      "family": "Miles",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Khan, Salwa",
+      "family": "Khan",
+      "given": "Salwa"
+    },
+    {
+      "raw": "Samim, Yagana",
+      "family": "Samim",
+      "given": "Yagana"
+    }
+  ],
+  "authors_text": "Miles, Andrew; Khan, Salwa; Samim, Yagana",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251325087",
+  "doi_url": "https://doi.org/10.1177/23780231251325087",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251325087",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251325087.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

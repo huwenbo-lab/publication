@@ -1,0 +1,35 @@
+{
+  "title": "Religious affiliation and debt among US households",
+  "abstract": "Religion has been shown to have both a direct and indirect role in shaping personal values, especially pertaining to money and wealth accumulation. Existing research establishes a strong relationship between religious affiliation and wealth attainment. However, previous scholarship has largely ignored the link between religious affiliation and debt, an important yet overlooked indicator of total net worth. To address this gap, we utilize data from the 2017 wave of the Panel Study of Income Dynamics (PSID) and examine how religious affiliation is associated with two forms of household debt: credit card and mortgage debt. Findings from a series of logistic regression models indicate that Black Protestants have the lowest rates of both credit card and mortgage debt and Hispanic/Latinx Catholics have comparably low rates of credit card debt relative to Conservative Protestants. KHB decomposition analyses reveal that race/ethnicity explain some of the relationship between a Black Protestant or Hispanic/Latinx Catholic religious affiliation and household debt. While our study is the first to document the link between religious affiliation and debt profiles of Americans, we would encourage future research to explore how other elements of religiosity-long acknowledged by sociologists to affect wealth and social status-influence different types of debt accumulation in nuanced and meaningful ways.",
+  "authors": [
+    {
+      "raw": "Clifton, Tristen",
+      "family": "Clifton",
+      "given": "Tristen"
+    },
+    {
+      "raw": "Brewer, Mackenzie",
+      "family": "Brewer",
+      "given": "Mackenzie"
+    },
+    {
+      "raw": "Upenieks, Laura",
+      "family": "Upenieks",
+      "given": "Laura"
+    }
+  ],
+  "authors_text": "Clifton, Tristen; Brewer, Mackenzie; Upenieks, Laura",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102911",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102911",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102911",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102911.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

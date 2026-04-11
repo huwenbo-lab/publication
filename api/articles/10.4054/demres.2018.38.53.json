@@ -1,0 +1,35 @@
+{
+  "title": "Pathways to death: The co-occurrence of physical and mental health in the last years of life",
+  "abstract": "BACKGROUND Physical and mental health are important markers of quality of life. Little is known about how they unfold in tandem in the last years of life. OBJECTIVE We take a life-course perspective to identify typical joint trajectories of functional limitations and depression in the last eight years before death. Our objective is to assess whether there is only a linear association between functional limitations and depression or if we also find groups marked by high and increasing functional limitations but low depression, and vice versa. METHODS Data from 10 waves of the Health and Retirement Study that cover US Americans who died between 2003-2014 are analyzed with sequence, cluster, and multinomial logistic regression methods. RESULTS Results show five typical trajectories of joint functional limitations and depression. Corroborating previous findings, three groups support a linear positive relationship between functional limitations and depression. Beyond previous research, we find two resilient groups of medium and high functional limitations combined with stable low depression. The five groups are highly stratified by social status, gender, marital status, and subjective life expectancy reported at the beginning of the trajectories. CONCLUSION Physical and mental health trajectories at the end of life are not only linearly associated. Medium and high functional limitations go along with a polarized pattern of either stable high or stable low depression. CONTRIBUTION The nonlinear relationship between functional limitations and depression in the last years of life represented by the 'Resilient' groups of medium and high functional limitations with low depression have gone largely unnoticed in previous research and should be investigated in future studies.",
+  "authors": [
+    {
+      "raw": "Raab, Marcel",
+      "family": "Raab",
+      "given": "Marcel"
+    },
+    {
+      "raw": "Fasang, Anette Eva",
+      "family": "Fasang",
+      "given": "Anette Eva"
+    },
+    {
+      "raw": "Hess, Moritz",
+      "family": "Hess",
+      "given": "Moritz"
+    }
+  ],
+  "authors_text": "Raab, Marcel; Fasang, Anette Eva; Hess, Moritz",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.53",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.53",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.53",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.53.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

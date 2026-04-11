@@ -1,0 +1,35 @@
+{
+  "title": "Leisure Inequality in the United States: 1965–2003",
+  "abstract": "AbstractThis article exploits the complex sequential structure of the diary data in the American Heritage Time Use Study (AHTUS) and constructs three classes of indicators that capture the quality of leisure (pure leisure, co-present leisure, and leisure fragmentation) to show that the relative growth in leisure time enjoyed by low-educated individuals documented in previous studies has been accompanied by a relative decrease in the quality of that leisure time. These results are not driven by any single leisure activity, such as time spent watching television. Our findings may offer a more comprehensive picture of inequality in the United States and provide a basis for weighing the relative decline in earnings and consumption for the less-educated against the simultaneous relative growth of leisure.",
+  "authors": [
+    {
+      "raw": "Sevilla, Almudena",
+      "family": "Sevilla",
+      "given": "Almudena"
+    },
+    {
+      "raw": "Gimenez-Nadal, Jose I.",
+      "family": "Gimenez-Nadal",
+      "given": "Jose I."
+    },
+    {
+      "raw": "Gershuny, Jonathan",
+      "family": "Gershuny",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Sevilla, Almudena; Gimenez-Nadal, Jose I.; Gershuny, Jonathan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0100-5",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0100-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0100-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0100-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

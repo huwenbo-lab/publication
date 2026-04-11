@@ -1,0 +1,25 @@
+{
+  "title": "Health Insurance and Risk of Divorce: Does Having Your Own Insurance Matter?",
+  "abstract": "Most American adults under 65 obtain health insurance through their employers or their spouses' employers. The absence of a universal health care system in the United States puts Americans at considerable risk for losing their coverage when transitioning out of jobs or marriages. Scholars have found evidence of reduced job mobility among individuals who are dependent on their employers for health care coverage. In this study, the author found similar relationships between insurance and divorce. She applied the hazard model to married individuals in the longitudinal Survey of Income Program Participation (N = 17,388) and found lower divorce rates among people who were insured through their partners' plans without alternative sources of their own. Furthermore, she found gender differences in the relationship between health care coverage and divorce rates: Insurance-dependent women had lower rates of divorce than men in similar situations. These findings draw attention to the importance of considering family processes when debating and evaluating health policies.",
+  "authors": [
+    {
+      "raw": "Sohn, Heeju",
+      "family": "Sohn",
+      "given": "Heeju"
+    }
+  ],
+  "authors_text": "Sohn, Heeju",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12195",
+  "doi_url": "https://doi.org/10.1111/jomf.12195",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12195",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12195.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

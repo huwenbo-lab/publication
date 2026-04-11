@@ -1,0 +1,30 @@
+{
+  "title": "Social Effects of Health Care Reform",
+  "abstract": "Do public health policy interventions result in prosocial behaviors? The Patient Protection and Affordable Care Act’s Medicaid expansions were responsible for the largest gains in public insurance coverage since its inception in 1965. These gains were concentrated in states that opted to expand Medicaid eligibility, and they provide a unique opportunity to study not just medical but also social consequences of increased public health coverage. The authors examine the association between Medicaid and volunteer work. Volunteerism is implicated in individuals’ health and well-being, yet it is highly correlated with a person’s existing socioeconomic resources. Medicaid expansions improved financial security and a sense of health, two factors that predict volunteer work, for a socioeconomic group that has had low levels of volunteerism. Difference-in-difference analyses of the volunteer supplement of the Current Population Survey (2010–2015) find increased reports of formal volunteering for organizations as well as informal helping behaviors between neighbors for low-income nonelderly adults who would have likely benefited from expansions. Furthermore, increased volunteer work associated with Medicaid was greater among minority groups and narrowed existing ethnic differences in volunteerism in states that expanded Medicaid eligibility.",
+  "authors": [
+    {
+      "raw": "Sohn, Heeju",
+      "family": "Sohn",
+      "given": "Heeju"
+    },
+    {
+      "raw": "Timmermans, Stefan",
+      "family": "Timmermans",
+      "given": "Stefan"
+    }
+  ],
+  "authors_text": "Sohn, Heeju; Timmermans, Stefan",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2017,
+  "doi": "10.1177/2378023117700903",
+  "doi_url": "https://doi.org/10.1177/2378023117700903",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023117700903",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023117700903.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

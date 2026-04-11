@@ -1,0 +1,30 @@
+{
+  "title": "Union Strength, Neoliberalism, and Inequality: Contingent Political Analyses of US Income Differences since 1950",
+  "abstract": "Do historically contingent political accounts help explain the growth in family income inequality in the United States? We use time-series regressions based on 60 years to detect such relationships by assessing interactive associations between the neoliberal departure coincident with Ronald Reagan's election and the acceleration in inequality that began soon after Reagan took office. We find evidence for this and for a second contingent relationship: stronger unions could successfully resist policies that enhanced economic inequality only before Reagan's presidency and before the neoliberal anti-union administrations from both parties that followed Reagan. Politically inspired reductions in union membership, and labor's diminished political opportunities during and after Reagan's presidency, meant unions no longer could slow the growth in U.S. inequality. Coefficients on these two historically contingent interactions remain significant after many additional determinants are held constant. These findings indicate that political determinants should not be neglected when researchers investigate the determinants of U.S. inequality.",
+  "authors": [
+    {
+      "raw": "Jacobs, David",
+      "family": "Jacobs",
+      "given": "David"
+    },
+    {
+      "raw": "Myers, Lindsey",
+      "family": "Myers",
+      "given": "Lindsey"
+    }
+  ],
+  "authors_text": "Jacobs, David; Myers, Lindsey",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122414536392",
+  "doi_url": "https://doi.org/10.1177/0003122414536392",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122414536392",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122414536392.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

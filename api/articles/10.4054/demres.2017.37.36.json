@@ -1,0 +1,30 @@
+{
+  "title": "Entry into first marriage in China",
+  "abstract": "BACKGROUND China has experienced substantial socioeconomic and institutional changes over the past few decades. The literature has documented a variety of demographic changes during this time, including the delay and decline of marriage and the recent prevalence of cohabitation. However, we have little knowledge about how the Chinese enter into marriage. OBJECTIVE This study demonstrates the diversification of first marriage entry over time. METHODS We applied event-history analysis to longitudinal data from the China Family Panel Studies (2010-2012 waves) and estimated the competing risks of the identified marriage entry types. The observation covered the period from 1960 to 2012. RESULTS Our estimations from the competing models demonstrated four notable types of first marriage entry, including a general decline in the traditional 'direct marriage,' a rise and decline in 'conception marriage,' and two recently increasing innovative practices of `cohabitation marriage' and 'cohabitation and conception marriage.' The 1980s marked a turning point when traditional family practices began to decay and innovative family practices began to emerge and spread. CONCLUSIONS The diversification of marriage entry in China since the 1980s occurred in tandem with the development of China's economic reform and 'opening-up' policies. This simultaneity exemplifies the notion that socioeconomic changes at the macro level interact with family behavior changes at the individual level. CONTRIBUTION This study demonstrates an increasingly wide array of marriage entry types over time, reflecting the evolution of marriage behaviors from tradition to modernity in contemporary Chinese society.",
+  "authors": [
+    {
+      "raw": "Ma, Li",
+      "family": "Ma",
+      "given": "Li"
+    },
+    {
+      "raw": "Rizzi, Ester",
+      "family": "Rizzi",
+      "given": "Ester"
+    }
+  ],
+  "authors_text": "Ma, Li; Rizzi, Ester",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.36",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.36",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.36",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.36.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Intergenerational Wealth Mobility and Racial Inequality",
+  "abstract": "The black-white gap in household wealth is large and well documented. Here, we visualize how this racial wealth gap persists across generations. Animating the flow of individuals between the relative wealth position of parents and their adult children, we show that the disadvantage of black families is a consequence both of wealth inequality in prior generations and race differences in the transmission of wealth positions across generations: Black children both have less wealthy parents on average and are far more likely to be downwardly mobile in household wealth. By displaying intergenerational movements between parental and offspring wealth quintiles, we underline how intergenerational fluctuation coexists with the maintenance of a severely racialized wealth structure.",
+  "authors": [
+    {
+      "raw": "Pfeffer, Fabian T.",
+      "family": "Pfeffer",
+      "given": "Fabian T."
+    },
+    {
+      "raw": "Killewald, Alexandra",
+      "family": "Killewald",
+      "given": "Alexandra"
+    }
+  ],
+  "authors_text": "Pfeffer, Fabian T.; Killewald, Alexandra",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119831799",
+  "doi_url": "https://doi.org/10.1177/2378023119831799",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119831799",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119831799.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

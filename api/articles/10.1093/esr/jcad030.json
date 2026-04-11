@@ -1,0 +1,30 @@
+{
+  "title": "Origins of attainment: do brother correlations in occupational status and income overlap?",
+  "abstract": "We study the overlap in the overall impact of family background on two widely studied labour market outcomes by considering whether brother similarities in occupational status are rooted in the same underlying family characteristics that affect brother similarities in income. We extend previous research using sibling correlations as an omnibus measure of total family background impact on a given outcome by directly quantifying how brother correlations in occupational status and income overlap. We apply a novel variance components model to data from Denmark and the United States, two countries known to follow a contradictory pattern: While income mobility is much lower in the United States, occupational mobility is virtually similar. Apart from confirming this pattern, we find a substantial overlap, around 70 per cent, in brother similarities in income and occupational status in both countries. Conventional family background variables account for less than one-fifth of this overlap in each country, suggesting that shared family origins of attainment in these two domains are constituted by largely unknown family characteristics. We speculate what these characteristics might be.",
+  "authors": [
+    {
+      "raw": "Karlson, Kristian Bernt",
+      "family": "Karlson",
+      "given": "Kristian Bernt"
+    },
+    {
+      "raw": "Birkelund, Jesper Fels",
+      "family": "Birkelund",
+      "given": "Jesper Fels"
+    }
+  ],
+  "authors_text": "Karlson, Kristian Bernt; Birkelund, Jesper Fels",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad030",
+  "doi_url": "https://doi.org/10.1093/esr/jcad030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

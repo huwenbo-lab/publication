@@ -1,0 +1,30 @@
+{
+  "title": "The Effects of Active and Passive Leisure on Cognition in Children: Evidence from Exogenous Variation in Weather",
+  "abstract": "Leisure time activity is often positioned as a key factor in child development, yet we know relatively little about the causal significance of various specific activities or the magnitude of their effects. Here, we couple individual fixed effects and instrumental variable approaches in trying to determine whether specific forms of leisure contribute to gains in test performance over time. We merge a restricted access version of the Panel Study of Income Dynamics (PSID) Child Development Supplement (CDS), longitudinally collected from 1997 to 2007, with a database of over three million county-day observations of sunlight. We use this proxy for weather to instrument for the variation in physical, outdoor, sedentary, and screen-time behaviors based on CDS time diaries. We find evidence that physical and outdoor activity positively influence math performance, while sedentary behavior and screen time exhibit the opposite effect. Moreover, the effect sizes range from a fifth to more than half a standard deviation per additional daily hour of activity, rendering them meaningful in a real-world sense. Our stratified results indicate that children from less educated mothers and girls seem to be most sensitive to the effects of active and passive forms of leisure. We conclude with a descriptive examination of the trend lines between our data and the new 2014 CDS cohort, providing relevant contemporary context for our findings.",
+  "authors": [
+    {
+      "raw": "Laidley, Thomas",
+      "family": "Laidley",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Conley, Dalton",
+      "family": "Conley",
+      "given": "Dalton"
+    }
+  ],
+  "authors_text": "Laidley, Thomas; Conley, Dalton",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy020",
+  "doi_url": "https://doi.org/10.1093/sf/soy020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

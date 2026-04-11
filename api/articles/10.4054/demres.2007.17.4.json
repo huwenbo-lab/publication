@@ -1,0 +1,30 @@
+{
+  "title": "Differential mortality by lifetime earnings in Germany",
+  "abstract": "e estimate mortality rates by a measure of socio-economic status in a very large sample of male German pensioners aged ~65 or older. Our analysis is entirely nonparametric. Furthermore, the data enable us to compare mortality experiences in eastern and",
+  "authors": [
+    {
+      "raw": "von Gaudecker, Hans-Martin",
+      "family": "von Gaudecker",
+      "given": "Hans-Martin"
+    },
+    {
+      "raw": "Scholz, Rembrandt D.",
+      "family": "Scholz",
+      "given": "Rembrandt D."
+    }
+  ],
+  "authors_text": "von Gaudecker, Hans-Martin; Scholz, Rembrandt D.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2007,
+  "doi": "10.4054/demres.2007.17.4",
+  "doi_url": "https://doi.org/10.4054/demres.2007.17.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2007.17.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2007.17.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

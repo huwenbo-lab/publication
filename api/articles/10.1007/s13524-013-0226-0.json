@@ -1,0 +1,30 @@
+{
+  "title": "Microcredit and Domestic Violence in Bangladesh: An Exploration of Selection Bias Influences",
+  "abstract": "Abstract This article explores the relationship between women’s participation in microcredit groups and domestic violence in Bangladesh. Several recent studies have raised concern about microcredit programs by reporting higher levels of violence among women who are members. These results, however, may be attributable to selection bias because members might differ from nonmembers in ways that make them more susceptible to violence to begin with. Using a sample of currently married women from the 2007 Bangladesh Demographic Health Survey (BDHS) (N = 4,195), we use propensity score matching (PSM) as a way of exploring selection bias in this relationship. Results suggest that the previously seen strong positive association between membership and violence does not hold when an appropriate comparison group, generated using PSM, is used in the analyses. Additional analyses also suggest that levels of violence do not differ significantly between members and nonmembers and instead could depend on context-specific factors related to poverty. Members for whom a match is not found report considerably higher levels of violence relative to nonmembers in the unmatched group. The background characteristics of members and nonmembers who do not match suggest that they are more likely to be younger and from relatively well-to-do households.",
+  "authors": [
+    {
+      "raw": "Bajracharya, Ashish",
+      "family": "Bajracharya",
+      "given": "Ashish"
+    },
+    {
+      "raw": "Amin, Sajeda",
+      "family": "Amin",
+      "given": "Sajeda"
+    }
+  ],
+  "authors_text": "Bajracharya, Ashish; Amin, Sajeda",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0226-0",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0226-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0226-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0226-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

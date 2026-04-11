@@ -1,0 +1,45 @@
+{
+  "title": "Family stressors and child obesity",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Garasky, Steven",
+      "family": "Garasky",
+      "given": "Steven"
+    },
+    {
+      "raw": "Stewart, Susan D.",
+      "family": "Stewart",
+      "given": "Susan D."
+    },
+    {
+      "raw": "Gundersen, Craig",
+      "family": "Gundersen",
+      "given": "Craig"
+    },
+    {
+      "raw": "Lohman, Brenda J.",
+      "family": "Lohman",
+      "given": "Brenda J."
+    },
+    {
+      "raw": "Eisenmann, Joey C.",
+      "family": "Eisenmann",
+      "given": "Joey C."
+    }
+  ],
+  "authors_text": "Garasky, Steven; Stewart, Susan D.; Gundersen, Craig; Lohman, Brenda J.; Eisenmann, Joey C.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2009,
+  "doi": "10.1016/j.ssresearch.2009.06.002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2009.06.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2009.06.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2009.06.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Social influence or selection? Peer effects on the development of adolescents' educational expectations in Germany",
+  "abstract": "Educational expectations are a key predictor of educational attainment. Throughout adolescence, friends increasingly function as 'significant others' and, thus, can affect the development of these expectations. Although scholars often interpret the clustering of students with similar expectations within friendship networks as the outcome of peer influence, a similarity of friends can also be a result of friendship selection processes and preselection due to ability tracking. We apply multilevel social network models to panel data of adolescents from Germany (1,992 ninth-grade students in 91 classes) to disentangle these mechanisms. Beyond selecting similar friends (homophily), we find that adolescents adapt their expectations towards the average expectations of their friends (social influence) but only in secondary-school tracks that support diverse educational paths. We conclude that peer socialization is important for the development of students' educational expectations in contexts that are sufficiently heterogeneous to allow for the emergence of distinct peer milieus.",
+  "authors": [
+    {
+      "raw": "Lorenz, Georg",
+      "family": "Lorenz",
+      "given": "Georg"
+    },
+    {
+      "raw": "Boda, Zsofia",
+      "family": "Boda",
+      "given": "Zsofia"
+    },
+    {
+      "raw": "Salikutluk, Zerrin",
+      "family": "Salikutluk",
+      "given": "Zerrin"
+    },
+    {
+      "raw": "Jansen, Malte",
+      "family": "Jansen",
+      "given": "Malte"
+    }
+  ],
+  "authors_text": "Lorenz, Georg; Boda, Zsofia; Salikutluk, Zerrin; Jansen, Malte",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2020,
+  "doi": "10.1080/01425692.2020.1763163",
+  "doi_url": "https://doi.org/10.1080/01425692.2020.1763163",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2020.1763163",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2020.1763163.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

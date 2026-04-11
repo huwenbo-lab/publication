@@ -1,0 +1,25 @@
+{
+  "title": "How Has the Lower Boundary of Human Mortality Evolved, and Has It Already Stopped Decreasing?",
+  "abstract": "In contrast to the upper boundary of mortality, the lower boundary has so far largely been neglected. Based on the three key features-location, sex-specific difference, and level-I analyze past and present trends in the lower boundary of human mortality. The analysis is based on cohort mortality data for 38 countries, covering all the cohorts born between 1900 and 1993. Minimum mortality is analyzed using observed as well as smoothed estimates. The results show that the ages at which minimum mortality is reached have shifted to lower ages. Although the differences have become almost negligible over time, males are showing higher levels of minimum mortality than females. The level of minimum mortality was halved more than five times over the analyzed time horizon. The results also suggest that even after more than 150 years of mortality improvements, minimum mortality has not yet reached a lowest limit and is likely to decrease further in the near future. Trends in the three key features also raise questions about the importance of evolutionary, social, and biological determinants for the recent and future development of minimum mortality.",
+  "authors": [
+    {
+      "raw": "Ebeling, Marcus",
+      "family": "Ebeling",
+      "given": "Marcus"
+    }
+  ],
+  "authors_text": "Ebeling, Marcus",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0698-z",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0698-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0698-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0698-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

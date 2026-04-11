@@ -1,0 +1,30 @@
+{
+  "title": "Assortative Mating and Wealth Inequalities Between and Within Households",
+  "abstract": "Positive assortative mating may be a driver of wealth inequalities, but this relationship has not yet been examined. We investigate the association between assortative mating and wealth inequality within and between households drawing on data from the United States Survey of Income and Program Participation and measuring current, individual-level wealth for newly formed couples (N = 3936 couples). We find that partners positively sort according to wealth over and above sorting by age, race, education, and income. In the absence of assortative mating according to wealth, the Gini coefficient for between-household wealth inequality would be 7 percent lower. Wealth inequalities would thus remain high if couples did not match by wealth. We find a within-household wealth gap of about USD 23,000 to the disadvantage of women. Whereas the within-household wealth gap would be markedly greater for women at the bottom and in the middle of the female wealth distribution without assortative mating, we also find that women would have a substantial wealth advantage under random matching at the top of the female wealth distribution.",
+  "authors": [
+    {
+      "raw": "Lersch, Philipp M.",
+      "family": "Lersch",
+      "given": "Philipp M."
+    },
+    {
+      "raw": "Schunck, Reinhard",
+      "family": "Schunck",
+      "given": "Reinhard"
+    }
+  ],
+  "authors_text": "Lersch, Philipp M.; Schunck, Reinhard",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soad064",
+  "doi_url": "https://doi.org/10.1093/sf/soad064",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad064",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad064.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

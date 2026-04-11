@@ -1,0 +1,35 @@
+{
+  "title": "Mismatches in the Marriage Market",
+  "abstract": "Objective This article provides an assessment of whether unmarried women currently face demographic shortages of marital partners in the U.S. marriage market. Background One explanation for the declines in marriage is the putative shortage of economically attractive partners for unmarried women to marry. Previous studies provide mixed results but are usually focused narrowly on sex ratio imbalances rather than identifying shortages on the multiple socioeconomic characteristics that typically sort women and men into marriages. Methods This study identifies recent marriages from the 2008 to 2012 and 2013 to 2017 cumulative 5-year files of the American Community Survey. Data imputation methods provide estimates of the sociodemographic characteristics of unmarried women's potential (or synthetic) spouses who resemble the husbands of otherwise comparable married women. These estimates are compared with the actual distribution of unmarried men at the national, state, and local area levels to identify marriage market imbalances. Results These synthetic husbands have an average income that is about 58% higher than the actual unmarried men that are currently available to unmarried women. They also are 30% more likely to be employed (90% vs. 70%) and 19% more likely to have a college degree (30% vs. 25%). Racial and ethnic minorities, especially Black women, face serious shortages of potential marital partners, as do low socioeconomic status and high socioeconomic status unmarried women, both at the national and subnational levels. Conclusions This study reveals large deficits in the supply of potential male spouses. One implication is that the unmarried may remain unmarried or marry less well-suited partners.",
+  "authors": [
+    {
+      "raw": "Lichter, Daniel T.",
+      "family": "Lichter",
+      "given": "Daniel T."
+    },
+    {
+      "raw": "Price, Joseph P.",
+      "family": "Price",
+      "given": "Joseph P."
+    },
+    {
+      "raw": "Swigert, Jeffrey M.",
+      "family": "Swigert",
+      "given": "Jeffrey M."
+    }
+  ],
+  "authors_text": "Lichter, Daniel T.; Price, Joseph P.; Swigert, Jeffrey M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12603",
+  "doi_url": "https://doi.org/10.1111/jomf.12603",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12603",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12603.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

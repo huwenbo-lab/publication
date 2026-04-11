@@ -1,0 +1,35 @@
+{
+  "title": "Fertility Decline and Child Schooling in Urban Settings of Burkina Faso",
+  "abstract": "As evidenced in Western rich countries, Asia, and Latin America, lower fertility allows couples to invest more in each of their children's schooling. This postulate is the key rationale of family planning policies in sub-Saharan Africa. Yet, most studies on Africa have found no correlation or even a positive relationship between the number of children in a family and their educational attainment. These mixed results are usually explained by African family solidarity and resource transfers that might reduce pressures on household resources occasioned by many births as well as methodological problems that have afflicted much research on the region. Our study aims to assess the impact of family size on children's schooling in Ouagadougou (capital of Burkina Faso), using a better measure of household budget constraints and taking into account the simultaneity of fertility and schooling decisions. In contrast to most prior studies on sub-Saharan Africa, we find a net negative effect of sibship size on the level of schooling achieved by children-one that grows stronger as they progress through the educational system.",
+  "authors": [
+    {
+      "raw": "Bougma, Moussa",
+      "family": "Bougma",
+      "given": "Moussa"
+    },
+    {
+      "raw": "LeGrand, Thomas K.",
+      "family": "LeGrand",
+      "given": "Thomas K."
+    },
+    {
+      "raw": "Kobiane, Jean-Francois",
+      "family": "Kobiane",
+      "given": "Jean-Francois"
+    }
+  ],
+  "authors_text": "Bougma, Moussa; LeGrand, Thomas K.; Kobiane, Jean-Francois",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-014-0355-0",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0355-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0355-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0355-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

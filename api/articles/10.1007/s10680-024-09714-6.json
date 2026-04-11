@@ -1,0 +1,30 @@
+{
+  "title": "Does Ethnicity Moderate the Union Dissolution Penalty for Women? A Register-based Analysis of Changes in Income Components",
+  "abstract": "Union dissolution has severe consequences for women's economic well-being. Theoretical work links these consequences to ethnic inequality. Ethnic groups vary in terms of separation rates, female employment, repartnering trajectories, kin support, and reliance on welfare benefits. The current study examines whether ethnicity moderates the dissolution penalty. To do so, the authors draw on register data, covering women from five major ethnic groups in the Netherlands: Dutch, Antillean, Surinamese, Moroccan, and Turkish. The authors describe women's income trajectories from 1 year before to 5 years after union dissolution. Using decomposition techniques, changes in household income are decomposed into changes in six underlying income sources (i.e., earnings, benefits, alimony, partner income, and coresident family income). The results show that ethnicity moderates the dissolution penalty and, especially, the contribution of the various income sources when recovering from dissolution.",
+  "authors": [
+    {
+      "raw": "Hogendoorn, Bram",
+      "family": "Hogendoorn",
+      "given": "Bram"
+    },
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    }
+  ],
+  "authors_text": "Hogendoorn, Bram; Kalmijn, Matthijs",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-024-09714-6",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09714-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09714-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09714-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

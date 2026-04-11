@@ -1,0 +1,35 @@
+{
+  "title": "A Sociological (De)Construction of the Relationship between Status and Quality",
+  "abstract": "Although many sociologists are strongly wedded to the idea of social construction, the contextual factors that influence the magnitude of construction are rarely considered. This article explores the decoupling of an actor's status from the actor's underlying quality and examines the factors that influence the magnitude of decoupling. The authors specifically consider the role of quality uncertainty, diffuse status characteristics, and the self-fulfilling prophecy. To analyze the impact of each mechanism on decoupling, they simulate the evolution of thousands of small groups using a dyadic model of status allocation. The authors discuss the results of these simulations and conclude with the implications for future research and the practical management of groups.",
+  "authors": [
+    {
+      "raw": "Lynn, Freda B.",
+      "family": "Lynn",
+      "given": "Freda B."
+    },
+    {
+      "raw": "Podolny, Joel M.",
+      "family": "Podolny",
+      "given": "Joel M."
+    },
+    {
+      "raw": "Tao, Lin",
+      "family": "Tao",
+      "given": "Lin"
+    }
+  ],
+  "authors_text": "Lynn, Freda B.; Podolny, Joel M.; Tao, Lin",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2009,
+  "doi": "10.1086/603537",
+  "doi_url": "https://doi.org/10.1086/603537",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F603537",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/603537.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

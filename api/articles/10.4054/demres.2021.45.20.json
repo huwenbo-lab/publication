@@ -1,0 +1,30 @@
+{
+  "title": "An age-period-cohort approach to disentangling generational differences in family values and religious beliefs: Understanding the modern Australian family today",
+  "abstract": "BACKGROUND Over the last few decades, Australian families have undergone profound changes, including fewer marriages, more divorces, and an increase in double-income families, resulting in a qualitative shift in understanding the family today. OBJECTIVE This paper investigates whether generational differences in family values and religious beliefs are at the core of changes to the family structure. METHODS Using the Household, Income and Labour Dynamics in Australia (HILDA) survey, we apply the Age-Period-Cohort Detrended (APCD) methodology to investigate generational differences in family values and religious beliefs. RESULTS Results show that changes in family values and religious beliefs are overwhelmingly generational. Cohorts born between 1946 and 1964 (commonly referred to as baby boomers) have significantly contributed to the revolutionary shift in family behaviours and attitudes. CONCLUSIONS The baby boomer generation has played a crucial role in supporting progressive views on marriage, children, gender roles, and religious beliefs. When compared to older and younger cohorts, baby boomers saw the largest shift in family behaviours and attitudes, having matured in a period of rapid economic prosperity and significant social change. The unique events that occurred during their formative years may have influenced these behaviours and attitudes, ultimately contributing to the qualitative shift in the understanding of family. CONTRIBUTION Recognising differences between cohorts is essential to our understanding of social change. The APCD models used in this study can detect birth cohort nonlinearities pertaining specifically to the cohort variable. We then search for appropriate explanations of these cohort fluctuations with contextual elements of cohort-specific socialisation and life conditions.",
+  "authors": [
+    {
+      "raw": "Vera-Toscano, Esperanza",
+      "family": "Vera-Toscano",
+      "given": "Esperanza"
+    },
+    {
+      "raw": "Meroni, Elena Claudia",
+      "family": "Meroni",
+      "given": "Elena Claudia"
+    }
+  ],
+  "authors_text": "Vera-Toscano, Esperanza; Meroni, Elena Claudia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.20",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

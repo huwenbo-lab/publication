@@ -1,0 +1,40 @@
+{
+  "title": "Explaining Late Life Urban vs. Rural Health Discrepancies in Beijing",
+  "abstract": "Social characteristics that differ by place of residence are consequential for health. To study implications of this among older adults in rural vs. urban China, this study employs data from the Beijing municipality, a region that has witnessed growth and gaps in development. Life and active life expectancy is assessed using a multistate life table technique that estimates hazard rates and subsequent expected years in various health states. Hazards are estimated for a model that adjusts regional differences for age and sex and for a series of other models including additional covariates. Results indicate urban residents have an advantage. Specific factors show socio-economic status and access to health service account for a large part, social support and health behaviors for little, while disease is a suppressor.",
+  "authors": [
+    {
+      "raw": "Zimmer, Z.",
+      "family": "Zimmer",
+      "given": "Z."
+    },
+    {
+      "raw": "Kaneda, T.",
+      "family": "Kaneda",
+      "given": "T."
+    },
+    {
+      "raw": "Tang, Z.",
+      "family": "Tang",
+      "given": "Z."
+    },
+    {
+      "raw": "Fang, X.",
+      "family": "Fang",
+      "given": "X."
+    }
+  ],
+  "authors_text": "Zimmer, Z.; Kaneda, T.; Tang, Z.; Fang, X.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2010,
+  "doi": "10.1353/sof.2010.0000",
+  "doi_url": "https://doi.org/10.1353/sof.2010.0000",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2010.0000",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2010.0000.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

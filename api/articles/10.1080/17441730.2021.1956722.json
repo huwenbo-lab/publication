@@ -1,0 +1,35 @@
+{
+  "title": "A life course perspective on the wartime migrations of northern Vietnamese war survivors",
+  "abstract": "Research addressing conflict and migration has made great strides in explaining the relationship between violence and migration. However, it commonly lacks individual-level data on exposure to war. We use survey data from the 2018 Vietnam Health and Aging Study to examine the associations between war-related violence exposure during the American War and the wartime migrations of northern Vietnamese war survivors. Using multilevel mixed-effects count models, we investigate three groups of factors influencing migration-war-related events, economic circumstances, and demographic and life course factors-to explore the relationship between war exposure and migration, inclusive of deployments, economic moves, and displacements. Our findings indicate that the effects of war exposure, socioeconomic status, and demographic characteristics diverge for different types of migration. These findings, framed within the life course and historical context, suggest the need to thoughtfully delineate both war exposures and traditional causes of migration to understand the diverse types of mobility occurring during periods of armed conflict.",
+  "authors": [
+    {
+      "raw": "Young, Yvette",
+      "family": "Young",
+      "given": "Yvette"
+    },
+    {
+      "raw": "Korinek, Kim",
+      "family": "Korinek",
+      "given": "Kim"
+    },
+    {
+      "raw": "Huu Minh, Nguyen",
+      "family": "Huu Minh",
+      "given": "Nguyen"
+    }
+  ],
+  "authors_text": "Young, Yvette; Korinek, Kim; Huu Minh, Nguyen",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2021,
+  "doi": "10.1080/17441730.2021.1956722",
+  "doi_url": "https://doi.org/10.1080/17441730.2021.1956722",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2021.1956722",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2021.1956722.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

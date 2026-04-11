@@ -1,0 +1,40 @@
+{
+  "title": "District-Level Mortality Convergence in Reunified Germany: Long-Term Trends and Contextual Determinants",
+  "abstract": "The mor tal ity gap between for mer East and West Germany decreased rapidly in the decade following the reunification of the country in 1990. However, because no previous study has estimated life expectancy (e0) over time for all German districts, the extent of mortality convergence across districts and its determinants are largely unknown. We used a novel relational Bayes ian model to estimate district e0 in Germany during 1997-2016, examined mortality convergence using a novel conver- gence groups approach, and explored the role of selected district characteristics in the process. Differences in e0 between German districts decreased for both sexes during 1997-2016, mainly driven by rapid mortality improvements in eastern German dis- tricts. However, considerable heterogeneity in district -level e0 trajectories within fed- eral states was evident. For example, district clusters in northwestern Germany showed increasing e0 disadvantage, which led to a north-south divergence in mortality. A mul- tinomial regression analysis showed a robust association between the e0 trajectory and the district -level tax base and long-term unemployment but not with hospital density. Thus, an equitable leveling up of health seems possible with policies investing in places and the people who inhabit them.",
+  "authors": [
+    {
+      "raw": "Hrzic, Rok",
+      "family": "Hrzic",
+      "given": "Rok"
+    },
+    {
+      "raw": "Vogt, Tobias",
+      "family": "Vogt",
+      "given": "Tobias"
+    },
+    {
+      "raw": "Brand, Helmut",
+      "family": "Brand",
+      "given": "Helmut"
+    },
+    {
+      "raw": "Janssen, Fanny",
+      "family": "Janssen",
+      "given": "Fanny"
+    }
+  ],
+  "authors_text": "Hrzic, Rok; Vogt, Tobias; Brand, Helmut; Janssen, Fanny",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10422945",
+  "doi_url": "https://doi.org/10.1215/00703370-10422945",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10422945",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10422945.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

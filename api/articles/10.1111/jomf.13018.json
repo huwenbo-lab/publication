@@ -1,0 +1,35 @@
+{
+  "title": "Heterogenous causal effects: Potentials and pitfalls as illustrated with fatherhood and earnings",
+  "abstract": "Objective To discuss how methods to estimate heterogenous causal effects can be applied in Family Science and to supply empirical examples using the case of fatherhood and earnings. Background Many questions important to family scientists do not focus on one-size-fits-all average effects but rather on whether and how effects differ across groups. Recent methodological advances can assist this latter focus, offering new insights for theory and policy. Method Using Danish administrative data on all men who entered fatherhood 2005-2016 and on men of comparable age who did not, we focus on two types of heterogeneity in effects. First, effect heterogeneity across observed and unobserved covariates; second, treatment effect heterogeneity across the distribution of outcome variables. Results The fatherhood premium on annual labor income is, in fact, a fatherhood penalty on average and across most margins of heterogeneity. Substantial heterogeneity exists across observed and unobserved characteristics and across the distribution of labor market earnings, with results indicating larger penalties for lower earners and those least likely to become fathers. Conclusions Effect heterogeneity in Family Science holds great potential to inform policy and theory. However, causal interpretations always require assumptions, and researchers must be vigilant that the assumptions they make are warranted for each specific application.",
+  "authors": [
+    {
+      "raw": "Fallesen, Peter",
+      "family": "Fallesen",
+      "given": "Peter"
+    },
+    {
+      "raw": "Andersen, Lars Hojsgaard",
+      "family": "Andersen",
+      "given": "Lars Hojsgaard"
+    },
+    {
+      "raw": "Elwert, Felix",
+      "family": "Elwert",
+      "given": "Felix"
+    }
+  ],
+  "authors_text": "Fallesen, Peter; Andersen, Lars Hojsgaard; Elwert, Felix",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.13018",
+  "doi_url": "https://doi.org/10.1111/jomf.13018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Housing Affordability, Housing Tenure Status and Household Density: Are Housing Characteristics Associated with Union Dissolution?",
+  "abstract": "AbstractHousing is an important dimension of social inequality between couples, but it has been largely ignored in prior research on union dissolution. Extending the literature that controlled for the stabilizing effect of homeownership, we investigate whether housing, measured as household density, housing tenure and housing affordability, is related to the risk of union dissolution. Based on data from the German Family Panel (pairfam), we analyze 3441 coresidential partnerships. We run discrete-time event-history models to assess the risk of separation within a time frame of 7 years. Housing affordability is found to be negatively related to the risk of union dissolution among couples, as those couples with a high residual income (i.e., household income after deducting housing costs) were less likely to separate than those with a lower residual income. By contrast, household density is found to be unrelated to separation. In line with previous research, our findings indicate that homeowners had more stable relationships than tenants. The analysis shows that this was the case regardless of whether the home was jointly owned or was owned by one partner only.",
+  "authors": [
+    {
+      "raw": "Krapf, Sandra",
+      "family": "Krapf",
+      "given": "Sandra"
+    },
+    {
+      "raw": "Wagner, Michael",
+      "family": "Wagner",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Krapf, Sandra; Wagner, Michael",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2020,
+  "doi": "10.1007/s10680-019-09549-6",
+  "doi_url": "https://doi.org/10.1007/s10680-019-09549-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-019-09549-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-019-09549-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

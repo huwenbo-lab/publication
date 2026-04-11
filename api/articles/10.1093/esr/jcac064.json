@@ -1,0 +1,35 @@
+{
+  "title": "Long goodbyes: pathways of leaving home by gender and destination in Spain",
+  "abstract": "This article examines the pathways of leaving home in Spain by differentiating between moving out to live with a partner (marriage or cohabitation) and without one. We analyzed the relationship between these pathways, personal and family characteristics, and various life course events in both men and women. The analysis uses Spain's 2018 Fertility Survey data, applying logistic regression, and competing risk models. The results revealed a major transformation in these pathways between generations, with women recording a greater diversity of situations. In general, there is a delay in leaving home among the younger generations and greater relevance of economic factors. Personal and family characteristics related to modern values are associated with new destinations, namely, cohabiting, and living without a partner, while the traditional pathway involving marriage has lost ground. Finally, life-course events are closely related to different destinations, representing the gendered professional career effect. Finding a job and building a career are positively associated with all kinds of departures among men; however, they are negatively associated with leaving home to marry among women.",
+  "authors": [
+    {
+      "raw": "del Rey, Alberto",
+      "family": "del Rey",
+      "given": "Alberto"
+    },
+    {
+      "raw": "Stanek, Mikolaj",
+      "family": "Stanek",
+      "given": "Mikolaj"
+    },
+    {
+      "raw": "Garcia-Gomez, Jesus",
+      "family": "Garcia-Gomez",
+      "given": "Jesus"
+    }
+  ],
+  "authors_text": "del Rey, Alberto; Stanek, Mikolaj; Garcia-Gomez, Jesus",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac064",
+  "doi_url": "https://doi.org/10.1093/esr/jcac064",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac064",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac064.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

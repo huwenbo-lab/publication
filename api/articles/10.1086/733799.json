@@ -1,0 +1,30 @@
+{
+  "title": "Territoriality and the Emergence of Norms During the COVID-19 Pandemic",
+  "abstract": "Although social norms are critical for regulating behavior, the emergence of new norms is rarely studied in consequential real-world settings. Thus, the conditions under which norms arise in certain communities but not in others are not well understood. In this article, we propose territoriality as a factor that helps to explain the unequal emergence of norms. When individuals experience a strong sense of territoriality over the physical spaces they inhabit, they feel empowered and justified in regulating others' behavior within those spaces. To the extent that demand for particular norms is widespread, territoriality can facilitate norm emergence. Using daily, geolocated data from the early months of the COVID-19 pandemic in New York City, we find support for this theory; neighborhoods with higher levels of territoriality were more likely to adopt new health-protecting norms. Our territoriality account sheds light on the relationship between norm emergence, physical space, and neighborhood resilience.",
+  "authors": [
+    {
+      "raw": "Bergemann, Patrick",
+      "family": "Bergemann",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Brandtner, Christof",
+      "family": "Brandtner",
+      "given": "Christof"
+    }
+  ],
+  "authors_text": "Bergemann, Patrick; Brandtner, Christof",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1086/733799",
+  "doi_url": "https://doi.org/10.1086/733799",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F733799",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/733799.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

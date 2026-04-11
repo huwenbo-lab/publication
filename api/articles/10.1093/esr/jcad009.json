@@ -1,0 +1,30 @@
+{
+  "title": "Not all wealth is the same: types and levels of wealth and children's university enrolment",
+  "abstract": "A number of studies suggest that parental wealth has both primary and secondary effects on offspring's educational decisions, net of other measures family's socio-economic status. The article documents that there is a positive association between parental wealth and children's university enrolment in Italy, a country characterized by comparatively low levels of wealth inequality and a low enrolment rate in tertiary education. The positive association is confirmed when controlling for children's performance in secondary school, too. Moreover, complementing previous studies, the analyses explore the extent to which different types of wealth have a different effect on children's university enrolment, and on how this effect varies along the wealth distribution and depending on parents' educational level. A positive effect is found only for families with non-negative net wealth and up to the 35th percentile of the wealth distribution. A threshold effect is found for financial wealth as well, being the association positive and significant up to the median of the financial wealth distribution. Real assets show a positive, albeit weaker, association up to the 30th percentile. Next, parental wealth is found to be positively associated with a higher likelihood of enrolment at university only for children of parents with a lower secondary degree or less, whereas the effect is not statistically significant for children of parents with at least an upper secondary degree.",
+  "authors": [
+    {
+      "raw": "Pietrolucci, Andrea",
+      "family": "Pietrolucci",
+      "given": "Andrea"
+    },
+    {
+      "raw": "Albertini, Marco",
+      "family": "Albertini",
+      "given": "Marco"
+    }
+  ],
+  "authors_text": "Pietrolucci, Andrea; Albertini, Marco",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad009",
+  "doi_url": "https://doi.org/10.1093/esr/jcad009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

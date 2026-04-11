@@ -1,0 +1,25 @@
+{
+  "title": "On the Counterfactual Problem of Welfare State Research: How Can We Measure Redistribution?",
+  "abstract": "To measure welfare state redistribution, it is standard to compare the income distributions before and after taxes and transfers. This approach incorrectly assumes that the pre fisc distribution is independent of the welfare state. This paper identifies four sources of bias in the pre/post-approach: 1) Welfare states redistribute both between individuals and between generations, 2) Labor supply responses vary between socio-economic groups and depend on taxes and transfers, 3) The redistribution within social insurance schemes depends on the correlation between risk and income, and 4) Welfare states use public education to influence the distribution of earnings capabilities. I combine theoretical models, numeric simulations and empirics to examine the bias caused by these factors. Results indicate that the pre/post approach is more biased for welfare states with flat rate benefits and proportional taxation, that positively income-related benefits have a redistributive effect, and that public expenditure on primary and secondary education reduces inequality.",
+  "authors": [
+    {
+      "raw": "Bergh, Andreas",
+      "family": "Bergh",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Bergh, Andreas",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1093/esr/jci024",
+  "doi_url": "https://doi.org/10.1093/esr/jci024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

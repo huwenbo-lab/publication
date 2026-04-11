@@ -1,0 +1,25 @@
+{
+  "title": "Collaborating on the Carceral State: Political Elite Polarization and the Expansion of Federal Crime Legislation Networks, 1979 to 2005",
+  "abstract": "Lawmakers are routinely confronted by urgent social issues, yet they hold conflicting policy preferences, incentives, and goals that can undermine collaboration. How do lawmakers collaborate on solutions to urgent issues in the presence of conflicts? I argue that by building mutual trust, networks provide a mechanism to overcome the risks conflict imposes on policy collaboration. But, in doing so, network dependence constrains lawmakers' ability to react to the problems that motivate policy action beyond their immediate connections. I test this argument using machine learning and longitudinal analysis of federal crime legislation co-sponsorship networks between 1979 and 2005, a period of rising political elite polarization. Results show that elite polarization increased the effects of reciprocal action and prior collaboration on crime legislation co-sponsorships while suppressing the effect of violent crime rates. These relationships vary only marginally by political party and are pronounced for ratified criminal laws. The findings provide new insights to the role of collaboration networks in the historical development of the carceral state and elucidate how political actors pursue collective policy action on urgent issues in the presence of conflict.",
+  "authors": [
+    {
+      "raw": "Duxbury, Scott W.",
+      "family": "Duxbury",
+      "given": "Scott W."
+    }
+  ],
+  "authors_text": "Duxbury, Scott W.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1177/00031224241257614",
+  "doi_url": "https://doi.org/10.1177/00031224241257614",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224241257614",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224241257614.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

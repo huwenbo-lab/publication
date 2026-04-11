@@ -1,0 +1,25 @@
+{
+  "title": "Incidence of first-marriage divorce among women in the 1979 panel of the National Longitudinal Survey of Youth",
+  "abstract": "OBJECTIVE This study seeks to determine whether the likelihood of first-marriage divorce among a cohort of women who have been adults during the years of the US 'divorce plateau' matches the level implied by period rates of first-marriage divorce during those years. METHODS I use marital histories for women in the 1979 National Longitudinal Survey of Youth (NLSY79) to examine the current status of their first marriages and also carry out a survival analysis that takes into account right censoring and the competing risks of death and widowhood. RESULTS It is likely that at least half of the first marriages of the women in the NLSY79 sample have already ended in divorce, a level notably higher than those implied by analyses based on period rates. CONTRIBUTION This is the first study to examine the marital histories of a cohort US women who are now in their late 50s and the first to show a level of first-marriage divorce exceeding 50%. It also suggests that the pattern of change in US age-specific divorce rates over that past four decades accounts for the higher than expected level of first-marriage divorce shown by the NLSY79 women.",
+  "authors": [
+    {
+      "raw": "Hargens, Lowell L.",
+      "family": "Hargens",
+      "given": "Lowell L."
+    }
+  ],
+  "authors_text": "Hargens, Lowell L.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.52",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.52",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.52",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.52.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

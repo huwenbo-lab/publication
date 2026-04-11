@@ -1,0 +1,35 @@
+{
+  "title": "The Persistence of Division",
+  "abstract": "As noted by theorists such as Blau, Durkheim, Mayhew, and others, interaction opportunity is a fundamental determinant of social structure. One of the most empirically well established factors influencing interaction opportunity is that of physical distance. The strength of this effect in modern societies, however, has been called into question because of technological advances (the so-called death-of-distance hypothesis). Here, the authors examine the effect of distance in an extreme case, considering weak friendship ties among university-affiliated persons in a large-scale online social network. Additionally, the authors explore institutional covariates, such as prestige and public or private status, as moderators of the relationship between distance and social tie probability. The findings demonstrate that geographical distance continues to affect social ties, despite the absence of physical barriers to tie formation and maintenance. The authors find moreover that institutional factors differentially affect the propensity for two university-affiliated individuals to be tied across large distances, illustrating that systematic differences in network structure along status lines persist even in ostensibly unconstrained settings.",
+  "authors": [
+    {
+      "raw": "Spiro, Emma S.",
+      "family": "Spiro",
+      "given": "Emma S."
+    },
+    {
+      "raw": "Almquist, Zack W.",
+      "family": "Almquist",
+      "given": "Zack W."
+    },
+    {
+      "raw": "Butts, Carter T.",
+      "family": "Butts",
+      "given": "Carter T."
+    }
+  ],
+  "authors_text": "Spiro, Emma S.; Almquist, Zack W.; Butts, Carter T.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2016,
+  "doi": "10.1177/2378023116634340",
+  "doi_url": "https://doi.org/10.1177/2378023116634340",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023116634340",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023116634340.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

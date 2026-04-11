@@ -1,0 +1,25 @@
+{
+  "title": "Changes in Household Composition and Children's Educational Attainment",
+  "abstract": "Changes in parental romantic relationships are an important component of family instability, but children are exposed to many other changes in the composition of their households that bear on child well-being. Prior research that focused on parental transitions has thus overlooked a substantial source of instability in children's lives. I argue that the instability in children's residential arrangements is characterized by household instability rather than family instability. To evaluate this thesis, I use the 1968-2015 waves of the Panel Study of Income Dynamics and time-varying methods for causal inference to test the independent effects of different types of changes in household composition on educational attainment. Experiencing changes involving nonparent, nonsibling household members has a significant negative effect on educational attainment that is similar in magnitude to that for children who experience changes involving residential parents. Measures of parental changes miss the nearly 20% of children who experience changes involving household members other than parents or siblings. By showing that changes in nonparental household members are both common and consequential experiences for children, I demonstrate the value of conceptualizing the changes to which children are exposed as a product of household instability, rather than simply family instability.",
+  "authors": [
+    {
+      "raw": "Perkins, Kristin L.",
+      "family": "Perkins",
+      "given": "Kristin L."
+    }
+  ],
+  "authors_text": "Perkins, Kristin L.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-018-0757-5",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0757-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0757-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0757-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

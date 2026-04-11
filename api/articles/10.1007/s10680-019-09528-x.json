@@ -1,0 +1,40 @@
+{
+  "title": "The Role of Neighbourhood and Workplace Ethnic Contexts in the Formation of Inter-ethnic Partnerships: A Native Majority Perspective",
+  "abstract": "Although inter-ethnic encounters take place in multiple domains of daily life, ethnic intermarriage has typically been studied in relation to places of residence but rarely in relation to workplaces. Focussing on migrants is the most common approach to the study of intermarriage, whereas focussing on native majority population is less frequent. This study investigates an extent to which the share of immigrants at the workplace establishment and in the residential neighbourhood influences the natives' likelihood of choosing a foreign-born partner. The analysis is based on longitudinal register data that cover all residents of Finland in 1999-2014. We focus on native Finnish women and men born from 1981 to 1995. We estimated a discrete-time event history model with competing risks, distinguishing the first-partnership formation with a foreign-born partner and a native-born partner. The share of immigrants in the residential neighbourhood and workplace both increase the propensity of choosing a foreign-born partner, but the share of immigrants in workplace tends to have a stronger bearing on the partner choice. High exposure to other ethnic groups in one domain is associated with reduced effect of the additional exposure occurring in another domain. The effect of ethnic diversity at workplace tends to be more pronounced among women. The study contributes to the literature by examining both the independent effect of residential and workplace contexts on the formation of ethnically mixed partnership among the native majority population, as well as the interaction between the two.",
+  "authors": [
+    {
+      "raw": "Rahnu, Leen",
+      "family": "Rahnu",
+      "given": "Leen"
+    },
+    {
+      "raw": "Puur, Allan",
+      "family": "Puur",
+      "given": "Allan"
+    },
+    {
+      "raw": "Kleinepier, Tom",
+      "family": "Kleinepier",
+      "given": "Tom"
+    },
+    {
+      "raw": "Tammaru, Tiit",
+      "family": "Tammaru",
+      "given": "Tiit"
+    }
+  ],
+  "authors_text": "Rahnu, Leen; Puur, Allan; Kleinepier, Tom; Tammaru, Tiit",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2019,
+  "doi": "10.1007/s10680-019-09528-x",
+  "doi_url": "https://doi.org/10.1007/s10680-019-09528-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-019-09528-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-019-09528-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

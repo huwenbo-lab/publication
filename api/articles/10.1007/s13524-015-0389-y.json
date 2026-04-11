@@ -1,0 +1,45 @@
+{
+  "title": "Bayesian Population Forecasting: Extending the Lee-Carter Method",
+  "abstract": "In this article, we develop a fully integrated and dynamic Bayesian approach to forecast populations by age and sex. The approach embeds the Lee-Carter type models for forecasting the age patterns, with associated measures of uncertainty, of fertility, mortality, immigration, and emigration within a cohort projection model. The methodology may be adapted to handle different data types and sources of information. To illustrate, we analyze time series data for the United Kingdom and forecast the components of population change to the year 2024. We also compare the results obtained from different forecast models for age-specific fertility, mortality, and migration. In doing so, we demonstrate the flexibility and advantages of adopting the Bayesian approach for population forecasting and highlight areas where this work could be extended.",
+  "authors": [
+    {
+      "raw": "Wisniowski, Arkadiusz",
+      "family": "Wisniowski",
+      "given": "Arkadiusz"
+    },
+    {
+      "raw": "Smith, Peter W. F.",
+      "family": "Smith",
+      "given": "Peter W. F."
+    },
+    {
+      "raw": "Bijak, Jakub",
+      "family": "Bijak",
+      "given": "Jakub"
+    },
+    {
+      "raw": "Raymer, James",
+      "family": "Raymer",
+      "given": "James"
+    },
+    {
+      "raw": "Forster, Jonathan J.",
+      "family": "Forster",
+      "given": "Jonathan J."
+    }
+  ],
+  "authors_text": "Wisniowski, Arkadiusz; Smith, Peter W. F.; Bijak, Jakub; Raymer, James; Forster, Jonathan J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0389-y",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0389-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0389-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0389-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

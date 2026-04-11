@@ -1,0 +1,30 @@
+{
+  "title": "Demographic convergence in marriage timing: Intersecting gender and educational expansion",
+  "abstract": "BACKGROUND Considering the massive educational expansion and dramatic changes in marriage timing the world is undergoing, this study explores whether the timing of marriage has become increasingly similar across countries amid educational expansion at different levels. OBJECTIVE First, we focus on convergence in marital timing, a core family demography indicator often overlooked in the convergence literature. Second, we shift the focus from demographic convergence over time to convergence over educational expansion. Third, we incorporate a gender perspective into the analysis, taking into consideration gender differences in educational expansion and union formation. METHODS We combine time-series data from 1950 to 2015 covering 144 countries from two data sources: (1) sex-specific singulate mean age at marriage (SMAM) from World Marriage Data; (2) sex-specific educational attainment by age from Barro and Lee. Methodologically, we explore whether convergence in marriage indicators has occurred over educational attainment by testing for -convergence. RESULTS Age at marriage has strongly converged over measures of educational attainment, with far stronger convergence among women. We uncover two types of educational gradients: (1) convergence is stronger the higher the level of education (tertiary > secondary > primary); (2) within each level, completion of education contributes more to convergence in SMAM relative to just attendance. CONCLUSIONS The study is unique in showing that convergence in SMAM masks fundamental heterogeneity, pointing to the growing importance of secondary and tertiary education worldwide. Relatedly, results call for a shift in policy focus from school attendance to successful school cycle completion. CONTRIBUTION Findings provide important insights for addressing key challenges in global development and demography.",
+  "authors": [
+    {
+      "raw": "Wu, Hanbo",
+      "family": "Wu",
+      "given": "Hanbo"
+    },
+    {
+      "raw": "Pesando, Luca Maria",
+      "family": "Pesando",
+      "given": "Luca Maria"
+    }
+  ],
+  "authors_text": "Wu, Hanbo; Pesando, Luca Maria",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.14",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Child support debt and the well-being of disadvantaged fathers of color",
+  "abstract": "Objective Using a survey sample comprised of predominantly low-income fathers of color, we examine whether child support debt (arrears) is associated with fathers' poor physical health, depression, and material hardship 9 years after their child's birth. Background About 70% of the $113.5 billion in outstanding arrears is held by men earning $10,000 or less, and an emerging body of research suggests arrears can negatively impact economically disadvantaged fathers of color and their families. Method Drawing on fathers' data from the first five waves of the Fragile Families and Child Wellbeing Study (FFCWS; N = 1614), we use multivariate regressions to assess the relationship between child support arrears and fathers' physical health, depression, and material hardship. We examine three different measures of arrears and assess the robustness of our results to model specifications that account for selection into arrears. Results Fathers with arrears and with higher arrears are more likely to experience poor physical health, depression, and material hardship, and these associations are more pronounced for fathers with high arrears burdens relative to their incomes. Results are robust to different measurements of arrears, who reports them (father or mother), and across model specifications (lagged dependent variables and inverse probability weighted analyses). Conclusion Disadvantaged fathers with arrears fare far worse physically, psychologically, and economically than those with no arrears. Findings from our study add to growing research documenting harmful consequences of child support debt and point to an important avenue through which ostensibly race neutral family policies may disadvantage low-income men of color.",
+  "authors": [
+    {
+      "raw": "Robbins, Nathan L.",
+      "family": "Robbins",
+      "given": "Nathan L."
+    },
+    {
+      "raw": "Waller, Maureen R.",
+      "family": "Waller",
+      "given": "Maureen R."
+    },
+    {
+      "raw": "Nepomnyaschy, Lenna",
+      "family": "Nepomnyaschy",
+      "given": "Lenna"
+    },
+    {
+      "raw": "Miller, Daniel P.",
+      "family": "Miller",
+      "given": "Daniel P."
+    }
+  ],
+  "authors_text": "Robbins, Nathan L.; Waller, Maureen R.; Nepomnyaschy, Lenna; Miller, Daniel P.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12841",
+  "doi_url": "https://doi.org/10.1111/jomf.12841",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12841",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12841.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

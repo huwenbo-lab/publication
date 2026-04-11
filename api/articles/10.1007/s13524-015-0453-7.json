@@ -1,0 +1,25 @@
+{
+  "title": "Trends in Life Expectancy and Lifespan Variation by Educational Attainment: United States, 1990-2010",
+  "abstract": "The educational gradient in life expectancy is well documented in the United States and in other low-mortality countries. Highly educated Americans, on average, live longer than their low-educated counterparts, who have recently seen declines in adult life expectancy. However, limiting the discussion on lifespan inequality to mean differences alone overlooks other dimensions of inequality and particularly disparities in lifespan variation. The latter represents a unique form of inequality, with higher variation translating into greater uncertainty in the time of death from an individual standpoint, and higher group heterogeneity from a population perspective. Using data from the National Vital Statistics System from 1990 to 2010, this is the first study to document trends in both life expectancy and S-25-the standard deviation of age at death above 25-by educational attainment. Among low-educated whites, adult life expectancy declined by 3.1 years for women and by 0.6 years for men. At the same time, S-25 increased by about 1.5 years among high school-educated whites of both genders, becoming an increasingly important component of total lifespan inequality. By contrast, college-educated whites benefited from rising life expectancy and record low variation in age at death, consistent with the shifting mortality scenario. Among blacks, adult life expectancy increased, and S-25 plateaued or declined in nearly all educational attainment groups, although blacks generally lagged behind whites of the same gender on both measures. Documenting trends in lifespan variation can therefore improve our understanding of lifespan inequality and point to diverging trajectories in adult mortality across socioeconomic strata.",
+  "authors": [
+    {
+      "raw": "Sasson, Isaac",
+      "family": "Sasson",
+      "given": "Isaac"
+    }
+  ],
+  "authors_text": "Sasson, Isaac",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-015-0453-7",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0453-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0453-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0453-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

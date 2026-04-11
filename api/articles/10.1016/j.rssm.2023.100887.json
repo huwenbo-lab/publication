@@ -1,0 +1,30 @@
+{
+  "title": "Racial and ethnic variation in the relationship between parental educational similarity and infant health",
+  "abstract": "Evidence suggests benefits of parental educational homogamy for infant and child well-being but ignores potential racial and ethnic variation in these benefits. Increasing disparities in infant health by maternal education and race, along with increasing educational sorting, raise questions about whether educational homogamy could contribute to these disparities. Drawing on a random sample of over 4 million live births in NVSS data from 2011 to 2020 and ordinary least squares regression, this study examines the relationship between infant health, parental educational similarity, and race and ethnicity. Our findings indicate a weak overall relationship between educational sorting and infant health at birth, with significant variation by race and ethnicity. In addition, absolute education levels and marital status more strongly predict infant health than educational assortative mating. Sensitivity analyses confirm the robustness of these findings across different modeling approaches and sample sizes. Our results indicate that parental educational sorting is only weakly related to infant health and cannot explain widening infant health gaps by race.",
+  "authors": [
+    {
+      "raw": "Rangel, David Enrique",
+      "family": "Rangel",
+      "given": "David Enrique"
+    },
+    {
+      "raw": "Rauscher, Emily",
+      "family": "Rauscher",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Rangel, David Enrique; Rauscher, Emily",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2023.100887",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100887",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100887",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100887.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

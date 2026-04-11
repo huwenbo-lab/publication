@@ -1,0 +1,35 @@
+{
+  "title": "Coping with ageing: An historical longitudinal study of internal return migrations later in life in the Netherlands",
+  "abstract": "BACKGROUND A return migration later in life can be seen as a coping strategy to deal with care needs and other difficulties. Understanding these return migrations requires a comprehensive approach that takes previous migrant trajectories into account. OBJECTIVE This study aims to investigate how long-term migrant trajectories, other relevant life course factors, and birth cohort impacted the risk of return migration later in life in the period 1900-1994. METHODS Using longitudinal data from the Historical Sample of the Netherlands, we combine sequence analysis and continuous-time event history analysis for recurrent events to estimate the effect of migrant trajectories from birth to age 50 and other individual characteristics on the risks of older adults' return migrations to birth/childhood and adulthood dwelling places; of short-, medium-, and long-distance returns; and of returns to rural and urban dwelling places. We also examine if these risks have changed in the 20th century Netherlands. RESULTS We identify nine distinct clusters of internal migrant trajectories based on residential municipality size. Persons with a stepwise migration trajectory are more likely to return later in life to places where they resided during adulthood. Deteriorating health status, low socioeconomic status, or having no partner are associated with a higher propensity to return to a birthplace or childhood dwelling place. However, returns to places of origin or childhood, to places of adulthood, and long-distance migrations decreased over time. CONCLUSIONS AND CONTRIBUTION The results underline the diversity of return migration types among elderly people according to past migrant experiences and other demographic events, indicating the importance of expanding the notion of return migration beyond place of origin.",
+  "authors": [
+    {
+      "raw": "Carlos, Dolores Sesma",
+      "family": "Carlos",
+      "given": "Dolores Sesma"
+    },
+    {
+      "raw": "Oris, Michel",
+      "family": "Oris",
+      "given": "Michel"
+    },
+    {
+      "raw": "Kok, Jan",
+      "family": "Kok",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Carlos, Dolores Sesma; Oris, Michel; Kok, Jan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.27",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "A Sociology of Artificial Intelligence: Inequalities, Power, and Data Justice",
+  "abstract": "Recent years have witnessed a surge of interest in artificial intelligence (AI). To address AI’s growing visibility and importance, the authors edited a special collection that showcases cutting-edge sociological research on AI in areas such as health and medicine, work and labor, new research methodologies, and policy. The articles collectively position AI as a sociotechnical system, recognizing that AI integrates heterogeneous elements that intertwine the social and the technical. Each article brings different aspects of sociotechnical systems to light. The authors highlight three contributions sociologists are poised to make to the study of AI: (1) critical analysis of AI hype, promotion, and adoption; (2) empirical study of AI’s co-constitution with processes of social life; and (3) identification of avenues for structural change in creating equitable AI futures. The authors call for the development of novel research methods to study distributed AI platforms and for future research on inequalities, power, and data justice.",
+  "authors": [
+    {
+      "raw": "Joyce, Kelly",
+      "family": "Joyce",
+      "given": "Kelly"
+    },
+    {
+      "raw": "Cruz, Taylor M.",
+      "family": "Cruz",
+      "given": "Taylor M."
+    }
+  ],
+  "authors_text": "Joyce, Kelly; Cruz, Taylor M.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241275393",
+  "doi_url": "https://doi.org/10.1177/23780231241275393",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241275393",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241275393.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

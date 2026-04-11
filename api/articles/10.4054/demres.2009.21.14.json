@@ -1,0 +1,40 @@
+{
+  "title": "150 Years of temperature-related excess mortality in the Netherlands",
+  "abstract": "Even in present-day high-income countries, there is a lot of evidence of a high degree of vulnerability of the population to both high and low outdoor temperatures. The magnitude of temperature-related mortality is strongly related to a wide variety of",
+  "authors": [
+    {
+      "raw": "Ekamper, Peter",
+      "family": "Ekamper",
+      "given": "Peter"
+    },
+    {
+      "raw": "van Poppel, Frans",
+      "family": "van Poppel",
+      "given": "Frans"
+    },
+    {
+      "raw": "van Duin, Coen",
+      "family": "van Duin",
+      "given": "Coen"
+    },
+    {
+      "raw": "Garssen, Joop",
+      "family": "Garssen",
+      "given": "Joop"
+    }
+  ],
+  "authors_text": "Ekamper, Peter; van Poppel, Frans; van Duin, Coen; Garssen, Joop",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2009,
+  "doi": "10.4054/demres.2009.21.14",
+  "doi_url": "https://doi.org/10.4054/demres.2009.21.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2009.21.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2009.21.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

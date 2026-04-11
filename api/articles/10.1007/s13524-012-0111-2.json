@@ -1,0 +1,30 @@
+{
+  "title": "Educational Assortative Mating and Income Inequality in Denmark",
+  "abstract": "Abstract Many writers have expressed a concern that growing educational assortative mating will lead to greater inequality between households in their earnings or income. In this article, we examine the relationship between educational assortative mating and income inequality in Denmark between 1987 and 2006. Denmark is widely known for its low level of income inequality, but the Danish case provides a good test of the relationship between educational assortative mating and inequality because although income inequality increased over the period we consider, educational homogamy declined. Using register data on the exact incomes of the whole population, we find that change in assortative mating increased income inequality but that these changes were driven by changes in the educational distributions of men and women rather than in the propensity for people to choose a partner with a given level of education.",
+  "authors": [
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    },
+    {
+      "raw": "Andersen, Signe Hald",
+      "family": "Andersen",
+      "given": "Signe Hald"
+    }
+  ],
+  "authors_text": "Breen, Richard; Andersen, Signe Hald",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0111-2",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0111-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0111-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0111-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The declining earnings gap between young women and men in the United States, 1979-2018",
+  "abstract": "We examine the dynamics of the gender earnings gap over the 1979 to 2018 period among full-time workers aged 25-29, focusing on the role of marital status and the presence of children. Using data from multiple years of the Current Population Survey, we find that the earnings gap declined among all groups of men and women, and by 2018 there was earnings parity among the those who were not married and without children. The share of people in this group also grew over the period, and comprised a majority of both men and women by 2018. We also find that while marriage was associated with lower earnings among women in 1979, by 2018 it was associated with higher earnings, suggesting greater positive selection of women with high earnings potential into marriage. The positive association between marriage and earnings among men remained stable. While we found a persistent earnings penalty for having children among women over the period, we found an emerging dampening effect of having children over time among men, which suggests that greater participation in childcare among men has led to lower earnings than in the past (i.e., a causal connection) and/or an emerging selection effect of young men more interested in childrearing over time, perhaps reflecting a cultural shift.",
+  "authors": [
+    {
+      "raw": "Iceland, John",
+      "family": "Iceland",
+      "given": "John"
+    },
+    {
+      "raw": "Redstone, Ilana",
+      "family": "Redstone",
+      "given": "Ilana"
+    }
+  ],
+  "authors_text": "Iceland, John; Redstone, Ilana",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2020.102479",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102479",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102479",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102479.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

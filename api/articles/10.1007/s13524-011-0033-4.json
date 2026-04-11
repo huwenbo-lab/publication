@@ -1,0 +1,25 @@
+{
+  "title": "Tempo and the TFR",
+  "abstract": "Tempo effects in period fertility indicators are widely regarded as a source of bias or distortion. But is this always the case? Whether tempo change results in bias depends, in the view advanced here, on the measure used, the meaning of bias/distortion, and the objective of analysis. Two ways of construing bias in period measures are suggested, and their relevance is discussed in the context of five broad purposes for measuring period fertility: describing and explaining fertility time trends, anticipating future prospects, providing input parameters for formal models, and communicating with nonspecialist audiences. Genuine timing effects are not biasing when period fertility is the explanandum but are distorting when the aim is to estimate cohort fertility. Alternatives to tempo adjustment are available that are a more defensible solution to the issue of timing change. Tempo adjustment could be more fruitfully considered a form of modeling rather than empirical measurement. The measurement of period fertility could be improved by relying more on a statistical approach and less on indicators based on stable assumptions. Future progress will depend on integrating research on measurement with substantive investigation.",
+  "authors": [
+    {
+      "raw": "Ní Bhrolcháin, Máire",
+      "family": "Ní Bhrolcháin",
+      "given": "Máire"
+    }
+  ],
+  "authors_text": "Ní Bhrolcháin, Máire",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0033-4",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0033-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0033-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0033-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

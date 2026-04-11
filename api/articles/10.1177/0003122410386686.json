@@ -1,0 +1,30 @@
+{
+  "title": "Religion, Social Networks, and Life Satisfaction",
+  "abstract": "Although the positive association between religiosity and life satisfaction is well documented, much theoretical and empirical controversy surrounds the question of how religion actually shapes life satisfaction. Using a new panel dataset, this study offers strong evidence for social and participatory mechanisms shaping religion's impact on life satisfaction. Our findings suggest that religious people are more satisfied with their lives because they regularly attend religious services and build social networks in their congregations. The effect of within-congregation friendship is contingent, however, on the presence of a strong religious identity. We find little evidence that other private or subjective aspects of religiosity affect life satisfaction independent of attendance and congregational friendship.",
+  "authors": [
+    {
+      "raw": "Lim, Chaeyoon",
+      "family": "Lim",
+      "given": "Chaeyoon"
+    },
+    {
+      "raw": "Putnam, Robert D.",
+      "family": "Putnam",
+      "given": "Robert D."
+    }
+  ],
+  "authors_text": "Lim, Chaeyoon; Putnam, Robert D.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122410386686",
+  "doi_url": "https://doi.org/10.1177/0003122410386686",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410386686",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410386686.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Racial Inequality in Work Environments",
+  "abstract": "This article explores racial stratification in work environments. Inequality scholars have long identified racial disparities in wage and occupational attainment, but workers' careers and well-being are also shaped by elements of their work environment, including firm culture, managerial style, and work-life balance. I theorize two processes that could lead to racial inequality in firms' work environments: (1) employee sorting due to exclusionary practices, and (2) spillover from racial differences in occupation and geographic location. To test this, I gathered a unique firm-level dataset composed of one million employee reviews, covering most large and medium-sized firms in the United States. I show that firms with more Black employees score lower for managerial quality, firm culture, and work-life balance, and firms with more Asian employees score higher on these dimensions. However, Asian employees' advantage disappears when controlling for occupation, industry, and geography, whereas Black employees' disadvantage persists, suggesting that the process of firm-level employee sorting is at work. Consistent with this, I find that Black employees' disadvantage is strongest in areas with more conservative racial attitudes and more prevalent workplace racial discrimination. I then replicated the main findings using two entirely different data sources. Together, these results underscore racial inequality in work environments, an overlooked but important dimension of workplace inequality.",
+  "authors": [
+    {
+      "raw": "Zhang, Letian",
+      "family": "Zhang",
+      "given": "Letian"
+    }
+  ],
+  "authors_text": "Zhang, Letian",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231157303",
+  "doi_url": "https://doi.org/10.1177/00031224231157303",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231157303",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231157303.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

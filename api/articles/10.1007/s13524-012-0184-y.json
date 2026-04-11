@@ -1,0 +1,35 @@
+{
+  "title": "Housing Tenure and Residential Segregation in Metropolitan America",
+  "abstract": "Abstract Homeownership, a symbol of the American dream, is one of the primary ways through which families accumulate wealth, particularly for blacks and Hispanics. Surprisingly, no study has explicitly documented the segregation of minority owners and renters from whites. Using data from Census 2000, this study aims to fill this gap. Analyses here reveal that the segregation of black renters relative to whites is significantly lower than the segregation of black owners from whites, controlling for relevant socioeconomic and demographic factors, contrary to the notion that homeownership represents an endpoint in the residential assimilation process. The patterns for Hispanics and Asians conform more to expectations under the spatial assimilation model. The findings here suggest that race and ethnicity continue to be as important in shaping residential segregation as socioeconomic status, and raise concerns about the benefits of homeownership, particularly for blacks.",
+  "authors": [
+    {
+      "raw": "Friedman, Samantha",
+      "family": "Friedman",
+      "given": "Samantha"
+    },
+    {
+      "raw": "Tsao, Hui-shien",
+      "family": "Tsao",
+      "given": "Hui-shien"
+    },
+    {
+      "raw": "Chen, Cheng",
+      "family": "Chen",
+      "given": "Cheng"
+    }
+  ],
+  "authors_text": "Friedman, Samantha; Tsao, Hui-shien; Chen, Cheng",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-012-0184-y",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0184-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0184-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0184-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

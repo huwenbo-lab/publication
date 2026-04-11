@@ -1,0 +1,35 @@
+{
+  "title": "The Changing Neighborhood Contexts of the Immigrant Metropolis",
+  "abstract": "To understand the impacts of large-scale immigration on neighborhood contexts, we employ locational-attainment models, in which two characteristics of a neighborhood, its average household income and the majority group's percentage among its residents, are taken as the dependent variables and a number of individual and household characteristics, such as race/ethnicity and household composition, form the vector of independent variables. Models are estimated separately for major racial/ethnic populations — whites, blacks, Asians, and Latinos — in five different metropolitan regions of immigrant concentration — Chicago, Los Angeles, Miami, New York, and San Francisco. In the cross section, the findings largely uphold the well-known model of spatial assimilation, in that socioeconomic status, assimilation level, and suburban residence are all strongly linked to residence in neighborhoods displaying greater affluence and with a greater number of non-Hispanic whites. Yet when the results are considered longitudinally, by comparing them with previously estimated models for 1980, the consistency with spatial-assimilation theory is no longer so striking. The impact of immigration is evident in the changing racial/ethnic composition of the neighborhoods of all groups, but especially for those where Asians and Latinos reside.",
+  "authors": [
+    {
+      "raw": "Alba, Richard D.",
+      "family": "Alba",
+      "given": "Richard D."
+    },
+    {
+      "raw": "Logan, John R.",
+      "family": "Logan",
+      "given": "John R."
+    },
+    {
+      "raw": "Stults, Brian J.",
+      "family": "Stults",
+      "given": "Brian J."
+    }
+  ],
+  "authors_text": "Alba, Richard D.; Logan, John R.; Stults, Brian J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2000,
+  "doi": "10.2307/2675510",
+  "doi_url": "https://doi.org/10.2307/2675510",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2675510",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2675510.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

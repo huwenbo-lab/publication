@@ -1,0 +1,30 @@
+{
+  "title": "Do Pregnancy Intentions Matter? A Research Note Revisiting Relationships Among Pregnancy, Birth, and Maternal Outcomes",
+  "abstract": "The pre ven tion of unplanned or unin tended preg nan cies con tin ues to be a cor ner stone of U.S. repro duc tive health pol icy, but the evi dence that such preg nan cies cause adverse mater nal and child out comes is lim ited. In this research note, we exam- ine these rela tion ships using recent large-scale data and inverse pro pen sity weights estimated from generalized boosted models. We find that pregnancy timing is related to mater nal expe ri ence dur ing preg nancy, but not to infant out comes at birth-both of which are con sis tent with prior research. In an addi tion to the lit er a ture, we show that preg nancy tim ing is rel e vant for a num ber of mater nal out comes, such as the onset of depres sion and inti mate part ner vio lence, changes in smok ing behav ior, and receipt of medical care. These findings suggest that policy intended to improve infant welfare by preventing unintended pregnancies has little empirical support, but that policy focused on increas ing repro duc tive auton omy and mater nal well-being has the poten tial to improve outcomes.",
+  "authors": [
+    {
+      "raw": "Mark, Nicholas D. E.",
+      "family": "Mark",
+      "given": "Nicholas D. E."
+    },
+    {
+      "raw": "Cowan, Sarah K.",
+      "family": "Cowan",
+      "given": "Sarah K."
+    }
+  ],
+  "authors_text": "Mark, Nicholas D. E.; Cowan, Sarah K.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9710311",
+  "doi_url": "https://doi.org/10.1215/00703370-9710311",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9710311",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9710311.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

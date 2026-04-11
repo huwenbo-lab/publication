@@ -1,0 +1,30 @@
+{
+  "title": "Cooperative Decision-Making and Intimate Partner Violence in Peru",
+  "abstract": "Using the continuous Demographic and Health Surveys (2005-2012) for Peru, we employ multinomial logistic regression estimates to assess risk for intimate partner violence (IPV). Using empowerment and gender frameworks for IPV, we find that women making more household decisions jointly with partners are less likely to experience physical violence. We also find that education is negatively associated with IPV, unless a woman's attainment exceeds her partner's. Although women earning more than their partners are more likely to experience violence, joint decision-makers have a lower risk of moderate physical violence even when their status exceeds that of a male partner. By adding measures for relationship dynamics, we highlight the ways decision-making within the household contributes to violence risk for women. While deviating from male-breadwinning norms can result in violence, risk factors are conditioned on the nature of cooperation within a partnership. Our findings suggest that shared power within the household reduces IPV risk.",
+  "authors": [
+    {
+      "raw": "Svec, Joseph",
+      "family": "Svec",
+      "given": "Joseph"
+    },
+    {
+      "raw": "Andic, Tanja",
+      "family": "Andic",
+      "given": "Tanja"
+    }
+  ],
+  "authors_text": "Svec, Joseph; Andic, Tanja",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2018,
+  "doi": "10.1111/padr.12127",
+  "doi_url": "https://doi.org/10.1111/padr.12127",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12127",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12127.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

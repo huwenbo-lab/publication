@@ -1,0 +1,30 @@
+{
+  "title": "Societal impacts and opportunities of federated learning",
+  "abstract": "Artificial intelligence (AI) systems have the potential to significantly enhance various aspects of human life, including healthcare, employment, energy management, finance, and creative endeavors. However, the rise of larger, computationally intensive AI models has also led to concerns about their negative societal impacts, such as increasing economic concentration, higher energy emissions, and threats to data privacy. In this paper, we examine the societal implications of a promising machine learning approach called federated learning. We begin by reviewing ongoing research challenges, noting that federated learning is often promoted as a potential solution to mitigate issues of economic concentration, environmental harm, and privacy concerns associated with AI. While federated learning systems hold significant promise, they are currently at an early stage of development and face critical technical challenges, including data leakage risks and high communication costs, which need to be addressed before widespread adoption can occur.",
+  "authors": [
+    {
+      "raw": "Curl, Justin",
+      "family": "Curl",
+      "given": "Justin"
+    },
+    {
+      "raw": "Xie, Xing",
+      "family": "Xie",
+      "given": "Xing"
+    }
+  ],
+  "authors_text": "Curl, Justin; Xie, Xing",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1177/2057150x251314299",
+  "doi_url": "https://doi.org/10.1177/2057150x251314299",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x251314299",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x251314299.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

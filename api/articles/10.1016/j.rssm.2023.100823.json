@@ -1,0 +1,35 @@
+{
+  "title": "From gender equality to household earnings equality: The role of women's labour market outcomes across OECD countries",
+  "abstract": "We assess the impact that full gender equality in the labour market would have on earnings inequality between households, and then decompose that impact by looking separately at the roles played by gender gaps in employment, hours, and pay. We do this by applying a reweighting method to LIS data for 22 OECD countries, across North America, Europe, and Australia. We find that full equality in earnings and employment between women and men would reduce household earnings inequality considerably, with the most substantial reductions coming from closing the gender gap in employment as opposed to closing the gaps in pay and hours worked. A 10% counterfactual decrease in the gender employment gap (relative to the country baseline) is associated with an average 0.6% decline in the Gini for household earnings inequality. Reducing the gender employment gap is thus the pathway through which greater gender equality may most strongly mitigate overall earnings inequality among households: these two key goals for contemporary societies can be pursued simultaneously.",
+  "authors": [
+    {
+      "raw": "Azzollini, Leo",
+      "family": "Azzollini",
+      "given": "Leo"
+    },
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    },
+    {
+      "raw": "Nolan, Brian",
+      "family": "Nolan",
+      "given": "Brian"
+    }
+  ],
+  "authors_text": "Azzollini, Leo; Breen, Richard; Nolan, Brian",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100823",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100823",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100823",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100823.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

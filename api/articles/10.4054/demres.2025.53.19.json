@@ -1,0 +1,45 @@
+{
+  "title": "Modelling the age and sex profiles of net international migration",
+  "abstract": "BACKGROUND Many national statistical offices and international agencies use age and sex profiles of net migration as inputs into demographic accounting models for population estimation and projection. Commonly used residual methods for inferring these profiles have proven inadequate due to errors in the measures of populations, births, and deaths. OBJECTIVE We test and apply a new methodology to infer the age and sex profiles of net international migration. METHODS Our strategy focuses on estimating flows of immigration and emigration by age and sex. Differences from these flow estimates are then used to represent estimates of net international migration. RESULTS Based on promising results from empirical tests that used data from Sweden and the Republic of Korea, the methodology is extended to estimate age-sex patterns of net international migration for countries lacking migration data. CONCLUSIONS We develop a relatively simple yet powerful model for estimating the age and sex profiles of net international migration from estimated immigration and emigration age-sex profiles. The model is flexible such that it can be applied to any country situation, with or without data, and can be modified to incorporate new data or assumptions.",
+  "authors": [
+    {
+      "raw": "Raymer, James",
+      "family": "Raymer",
+      "given": "James"
+    },
+    {
+      "raw": "Guan, Qing",
+      "family": "Guan",
+      "given": "Qing"
+    },
+    {
+      "raw": "Shen, Tianyu",
+      "family": "Shen",
+      "given": "Tianyu"
+    },
+    {
+      "raw": "Hertog, Sara",
+      "family": "Hertog",
+      "given": "Sara"
+    },
+    {
+      "raw": "Gerland, Patrick",
+      "family": "Gerland",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Raymer, James; Guan, Qing; Shen, Tianyu; Hertog, Sara; Gerland, Patrick",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.19",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

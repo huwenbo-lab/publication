@@ -1,0 +1,35 @@
+{
+  "title": "Intergenerational poverty persistence in Europe - Is there a 'Great Gatsby Curve' for poverty?",
+  "abstract": "While the influence of poverty in childhood on adulthood outcomes has been extensively studied, little is known about how the strength of intergenerational persistence in poverty itself varies across countries. Here we examine the intergenerational persistence of poverty in a comparative analysis of 30 European countries using data from the 2019 ad hoc module of the EU-SILC dataset. We construct proxy measures of poverty in the parental household employing information on the inability to meet basic needs and financial hardship when growing up, together with parental education and occupational social class. The strength of the association between current poverty based on the indicators at the core of the EU's social inclusion process and these measures of parental poverty is assessed and compared across countries. The cross-country variation in poverty persistence is probed concerning its relationship with the current and past extent of poverty: persistence tends to be stronger where current or parental poverty is higher, analogous to the Great Gatsby Curve relating intergenerational income mobility to income inequality at the country level. Mediation analysis highlights the role of own education as well as occupation in underpinning the observed relationship between current and parental poverty.",
+  "authors": [
+    {
+      "raw": "Bavaro, Michele",
+      "family": "Bavaro",
+      "given": "Michele"
+    },
+    {
+      "raw": "Carranza, Rafael",
+      "family": "Carranza",
+      "given": "Rafael"
+    },
+    {
+      "raw": "Nolan, Brian",
+      "family": "Nolan",
+      "given": "Brian"
+    }
+  ],
+  "authors_text": "Bavaro, Michele; Carranza, Rafael; Nolan, Brian",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100991",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100991",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100991",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100991.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

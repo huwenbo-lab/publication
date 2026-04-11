@@ -1,0 +1,25 @@
+{
+  "title": "Political and Social Consequences of Qualification Mismatches: A Bounding Approach to Status Inconsistency",
+  "abstract": "Many employees work in jobs that do not match their level of formal education. Status inconsistency theory (SIT) argues that such mismatches result in stress, dissatisfaction, political alienation, and social withdrawal. Status inconsistency may, therefore, pose a threat to social cohesion. However, extant SIT scholarship does not fully appreciate the consequences of an identification problem due to the perfect collinearity among the effects of occupation, education, and their mismatch. I review the literature and show that prior findings depend on implicit theoretical assumptions that are often implausible once spelled out. To overcome this problem, I propose a new approach to the study of mismatches that builds on recent advances in the modeling of age, period, and cohort effects. I demonstrate how a set of relatively weak assumptions that are transparently grounded in sociological theory allows for (partial) identification of mismatch effects. The empirical analysis draws on comparable large-scale survey data from the United Kingdom (UKLHS) and Germany (GSOEP), two countries with a very different institutional organization of education to job matching. Compared with previous research, I use theoretically justified identifying assumptions and provide more rigorous evidence by addressing non-random selection into mismatch. Constrained regression models show mismatch effects on work-related identities, satisfaction, and organizational integration. Contra SIT, my results suggest that the effects of mismatches do not arise from cognitive dissonance but from an expectation formation mechanism. I find only weak evidence that mismatch effects spill over into the political domain. Despite large institutional differences, the results are similar across countries.",
+  "authors": [
+    {
+      "raw": "Wiedner, Jonas",
+      "family": "Wiedner",
+      "given": "Jonas"
+    }
+  ],
+  "authors_text": "Wiedner, Jonas",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab120",
+  "doi_url": "https://doi.org/10.1093/sf/soab120",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab120",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab120.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

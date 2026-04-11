@@ -1,0 +1,30 @@
+{
+  "title": "Convergence or Continuity? The Gender Gap inHousehold Labor After Retirement",
+  "abstract": "This research examined 2 hypotheses about the effect of retirement on couples' division of household labor. The continuity hypothesis posits that the gender gap in household labor remains unaffected by retirement, whereas the convergence hypothesis expects it to close. The authors tested these hypotheses using longitudinal data from the German Socio-Economic Panel Study (N=1,302 couples). Fixed effects models revealed that male breadwinners doubled up on total hours of household labor across their transition to retirement. This rise was accompanied by a concurrent, albeit less pronounced, decline in wives' hours. As a result, the gender gap in household labor was cut in half. This convergence involved a moderate trade-off in female-typed tasks of routine housework and an increase in husbands' hours spent on male-typed tasks of repairs and gardening. The study concludes that gendered patterns of time use change substantially after retirement, rendering couples' division of household labor more equitable in later life.",
+  "authors": [
+    {
+      "raw": "Leopold, Thomas",
+      "family": "Leopold",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Skopek, Jan",
+      "family": "Skopek",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Leopold, Thomas; Skopek, Jan",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12199",
+  "doi_url": "https://doi.org/10.1111/jomf.12199",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12199",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12199.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

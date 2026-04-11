@@ -1,0 +1,45 @@
+{
+  "title": "How far has fertility in China really declined?",
+  "abstract": "According to births in the last year as reported in China's 2000 census, the total fertility rate (TFR) in the year 2000 in China was 1.22 children per woman. This estimate is widely considered to be too low, primarily because some women who had out-of-quota births according to China's one-child family policy did not report those births to the census enumerator. Analysis of fertility trends derived by applying the own-children method of fertility estimation to China's 1990 and 2000 censuses indicates that the true level of the TFR in 2000 was probably between 1.5 and 1.6 children per woman. A decomposition analysis of change in the TFR between 1990 and 2000, based on our best estimate of 1.59 for the TFR in 2000, indicates that about two-fifths of the decline in the conventional TFR between 1990 and 2000 is accounted for by later marriage and less marriage, and three-fifths by declining fertility within marriage. The analysis also applies the birth history reconstruction method of fertility estimation to the two censuses, yielding an alternative set of fertility estimates that are compared with the set derived by the own-children method. The analysis also includes estimates of trends in fertility by urban/rural residence, education, ethnicity, and migration status. Over time, fertility has declined sharply within all categories of these characteristics, indicating that the one-child policy has had large across-the-board effects.",
+  "authors": [
+    {
+      "raw": "Retherford, RD",
+      "family": "Retherford",
+      "given": "RD"
+    },
+    {
+      "raw": "Choe, MK",
+      "family": "Choe",
+      "given": "MK"
+    },
+    {
+      "raw": "Chen, JJ",
+      "family": "Chen",
+      "given": "JJ"
+    },
+    {
+      "raw": "Li, XR",
+      "family": "Li",
+      "given": "XR"
+    },
+    {
+      "raw": "Cui, HY",
+      "family": "Cui",
+      "given": "HY"
+    }
+  ],
+  "authors_text": "Retherford, RD; Choe, MK; Chen, JJ; Li, XR; Cui, HY",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2005,
+  "doi": "10.1111/j.1728-4457.2005.00052.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2005.00052.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2005.00052.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2005.00052.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

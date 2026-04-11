@@ -1,0 +1,30 @@
+{
+  "title": "Estimating Smoking-Attributable Mortality in the United States",
+  "abstract": "Abstract Tobacco use is the largest single cause of premature death in the developed world. Two methods of estimating the number of deaths attributable to smoking use mortality from lung cancer as an indicator of the damage from smoking. We reestimate the coefficients of one of these, the Preston/Glei/Wilmoth model, using recent data from U.S. states. We calculate smoking-attributable fractions for the 50 states and the United States as a whole in 2004, and estimate the contribution of smoking to the high adult mortality of the southern states. We estimate that 21% of deaths among men and 17% among women were attributable to smoking in 2004. Across states, attributable fractions range from 11% to 30% among men and from 7% to 23% among women. Smoking-related mortality also explains as much as 60% of the mortality disadvantage of southern states compared with other regions. At the national level, our estimates are in close agreement with those of the Centers for Disease Control and Prevention and Preston/Glei/Wilmoth, particularly for men, although we find greater variability by state than does CDC. We suggest that our coefficients are suitable for calculating smoking-attributable mortality in contexts with relatively mature epidemics of cigarette smoking.",
+  "authors": [
+    {
+      "raw": "Fenelon, Andrew",
+      "family": "Fenelon",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Preston, Samuel H.",
+      "family": "Preston",
+      "given": "Samuel H."
+    }
+  ],
+  "authors_text": "Fenelon, Andrew; Preston, Samuel H.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0108-x",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0108-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0108-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0108-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

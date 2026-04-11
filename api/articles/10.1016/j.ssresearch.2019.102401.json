@@ -1,0 +1,30 @@
+{
+  "title": "Negative ability bias from conditioning on a confounded mediator: A directed interaction test and case study",
+  "abstract": "Sociologists increasingly recognize the problem of endogenous selection bias in mediation analysis. Building on a sub-model of Elwert and Winship (2014), we propose that a widely-overlooked endogenous selection bias exists in the form of a negative ability bias in sociological models of economic outcomes where job attributes are often included as mediators but confounded by unobserved abilities. We use simulations to show that the bias size increases with collider selectivity under common modeling assumptions, and we leverage this property to develop a directed interaction test to detect this bias. To demonstrate the principles of the test and the practical significance of the bias, we re-examine the paradox of Communist Party Premiums in post-2000 China-the sudden disappearance of income returns to Party members, as found in recent studies. The results are strikingly consistent with the hypothesis that a negative ability bias has recently overwhelmed the persistent Party premiums in China.",
+  "authors": [
+    {
+      "raw": "Zhu, Ling",
+      "family": "Zhu",
+      "given": "Ling"
+    },
+    {
+      "raw": "Tam, Tony",
+      "family": "Tam",
+      "given": "Tony"
+    }
+  ],
+  "authors_text": "Zhu, Ling; Tam, Tony",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102401",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102401",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102401",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102401.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

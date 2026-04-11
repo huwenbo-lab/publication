@@ -1,0 +1,30 @@
+{
+  "title": "Surveilling system exposure and parental institutional disengagement",
+  "abstract": "Objective: We analyze the degree to which parents' direct and vicarious exposure to the Criminal Justice System (CJS), Child Support Enforcement (CSE), and Child Protective Services (CPS) is associated with disengagement from formal institutions. Background: Exposure to social control systems is pervasive in the US, disproportionately impacting socioeconomically disadvantaged families and communities of color. While links between CJS exposure and institutional disengagement are well established, similar features of CSE and CPS contact provide strong theoretical reasons to anticipate similar associations. MethodUsing data from both mothers and fathers in the Future of Families and Child Wellbeing Study, we conducted a series of multivariate regressions to model institutional disengagement as a function of prior recent contact with the CJS, CSE, and CPS. Models incorporate both direct and vicarious contact and stratify by parental coresidence to capture implications for family systems. Results: We find evidence of greater institutional disengagement among parents with direct CJS involvement, fathers at risk of CSE contact, and mothers with CPS exposure. While fathers' recent conviction or incarceration was linked with maternal institutional disengagement, we find no such associations with vicarious system contact among fathers, nor for the two other forms of system contact. Conclusion: This study expands the robust literature identifying how CJS involvement reshapes engagement with a wide range of other institutions, suggesting that contact with other systems with the authority to surveil and punish may similarly disrupt how families navigate institutions and secure important resources.",
+  "authors": [
+    {
+      "raw": "Dwyer Emory, Allison",
+      "family": "Dwyer Emory",
+      "given": "Allison"
+    },
+    {
+      "raw": "Sementilli, Grace C.",
+      "family": "Sementilli",
+      "given": "Grace C."
+    }
+  ],
+  "authors_text": "Dwyer Emory, Allison; Sementilli, Grace C.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13104",
+  "doi_url": "https://doi.org/10.1111/jomf.13104",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13104",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13104.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

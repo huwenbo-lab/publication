@@ -1,0 +1,35 @@
+{
+  "title": "Pandemic Shortfall in Marriages and Divorces in the United States",
+  "abstract": "Prior to the coronavirus disease 2019 pandemic, marriage and divorce had been in decline across the United States. As more data are released, evidence mounts that this pattern has persisted, and in some states been magnified, during the pandemic. The authors compared the change in yearly marriage and divorce counts prior to the beginning of the pandemic (change from 2018 to 2019) to estimate an expected number of marriages and divorces for 2020. By computing a P score on the basis of expected and observed marriages and divorces in 2020, the authors determined whether individual states experienced shortfalls or surpluses of marital events. Of the 20 states with available data on marriages, 18 experienced shortfalls (exceptions included Missouri and North Dakota), for an overall sample shortfall of nearly 11 percent. Regarding divorces, 31 of the 35 states with available data also experienced shortfalls (exceptions included Hawaii, Wyoming, Arizona, and Washington), for an overall sample shortfall of 12 percent.",
+  "authors": [
+    {
+      "raw": "Westrick-Payne, Krista K.",
+      "family": "Westrick-Payne",
+      "given": "Krista K."
+    },
+    {
+      "raw": "Manning, Wendy D.",
+      "family": "Manning",
+      "given": "Wendy D."
+    },
+    {
+      "raw": "Carlson, Lisa",
+      "family": "Carlson",
+      "given": "Lisa"
+    }
+  ],
+  "authors_text": "Westrick-Payne, Krista K.; Manning, Wendy D.; Carlson, Lisa",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221090192",
+  "doi_url": "https://doi.org/10.1177/23780231221090192",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221090192",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221090192.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

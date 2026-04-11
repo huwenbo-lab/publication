@@ -1,0 +1,25 @@
+{
+  "title": "The residential segregation of the American Indian and Alaska Native population in US metropolitan and micropolitan areas, 2010",
+  "abstract": "BACKGROUND Racial/ethnic residential segregation has been studied extensively, but few studies have focused on the growing population of American Indians and Alaska Natives (AIANs). An examination of the group's residential patterns will contribute to an understanding of the social position of AIANs and the overall pattern of racial/ethnic residential segregation in the United States. OBJECTIVE What is the average level of residential segregation in 2010 across metropolitan and micropolitan areas with a substantial ALAN presence? What are the most and least segregated areas for this group? What are the causes and correlates of residential segregation for this group? METHODS I use the index of dissimilarity to measure the residential segregation of single-race and multiracial AIANs from non-Hispanic whites in 264 metropolitan and micropolitan statistical areas, using data from the 2010 census. I also use data from the 2010 census and the 2006-2010 American Community Survey to estimate OLS regression models examining the possible causes and correlates of segregation levels across metropolitan and micropolitan areas. RESULTS The index of dissimilarity for single-race AIANs is 31.8, while for multiracial AIANs it is 23.6. For both single-race and multiracial AIANs, higher segregation levels are found in metropolitan areas with larger populations, a higher proportion of AIANs, more female-headed households, and a lower relative education level for AIANs. CONCLUSIONS Relative to other racial/ethnic groups, AIANs - especially multiracial AIANs - experience low levels of residential segregation from non-Hispanic whites. CONTRIBUTION This is the first study that reports and examines residential segregation levels for AIANs using 2010 census data.",
+  "authors": [
+    {
+      "raw": "Byerly, Jack",
+      "family": "Byerly",
+      "given": "Jack"
+    }
+  ],
+  "authors_text": "Byerly, Jack",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.33",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

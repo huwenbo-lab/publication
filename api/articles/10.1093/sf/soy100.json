@@ -1,0 +1,35 @@
+{
+  "title": "War Abroad and Homicides at Home: Evidence from the United States",
+  "abstract": "We analyze why domestic homicide rates in a country sending troops into war increase with some international wars, but not others. Drawing from research on the brutalization effect, we first explain how war can have an effect on homicides through individuals learning acceptable behavior from the state. Second, we explain why we observe the brutalization effect with some wars, but not others. We argue that illegitimate wars are associated with increased homicide rates, while state participation in legitimate wars should not affect homicide rates. Pursuing an illegitimate war may serve as a signal to society that norms and morals have been suspended, leading to a period of moral deregulation in the form of anomie. To test our theory, we conduct time-series analyses of data for the United States between 1928 and 2014. After examining the characteristics of eleven international wars pursued by the United States, we find that a brutalization effect occurs when the country engages in illegitimate, but not legitimate, conflicts. We also examine the validity of several potential alternative explanations and provide directions for future research.",
+  "authors": [
+    {
+      "raw": "Bunte, Jonas B.",
+      "family": "Bunte",
+      "given": "Jonas B."
+    },
+    {
+      "raw": "Connell, Nadine M.",
+      "family": "Connell",
+      "given": "Nadine M."
+    },
+    {
+      "raw": "Powell, Zachary A.",
+      "family": "Powell",
+      "given": "Zachary A."
+    }
+  ],
+  "authors_text": "Bunte, Jonas B.; Connell, Nadine M.; Powell, Zachary A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy100",
+  "doi_url": "https://doi.org/10.1093/sf/soy100",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy100",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy100.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

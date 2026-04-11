@@ -1,0 +1,30 @@
+{
+  "title": "Return migrants’ entrepreneurial decisions in rural China",
+  "abstract": "This paper presents an empirical analysis of return migrants’ entrepreneurial decisions after returning home using individual survey data in Jiangxi Province. We apply an extended hurdle model to investigate how social-economic factors, in particular, social network, local government support and previous migration experience may play different roles in affecting return migrants’ entrepreneurial decisions in different stages. A standard probit model is incorporated in the first stage to separate potential return migrant entrepreneurs from those who are not willing to consider establishing enterprises. In the second stage, a lognormal hurdle model is used to identify factors affecting return migrants’ entrepreneurial establishment and investment amount decisions. Results from the extended hurdle model suggest that government policy support is the most important factor for successfully attracting return migrant entrepreneurs back in Jiangxi Province. In addition, previous migration experience and household attributes are crucial and play different roles in affecting both return migrants’ willingness to consider entrepreneurship decisions and entrepreneurial investment decisions. On the other hand, individual characteristics are shown to affect only return migrants’ entrepreneurial investment decisions but not willingness to consider entrepreneurship decisions.",
+  "authors": [
+    {
+      "raw": "Wei, Xuan",
+      "family": "Wei",
+      "given": "Xuan"
+    },
+    {
+      "raw": "Zhu, Honggen",
+      "family": "Zhu",
+      "given": "Honggen"
+    }
+  ],
+  "authors_text": "Wei, Xuan; Zhu, Honggen",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2020,
+  "doi": "10.1080/17441730.2020.1718358",
+  "doi_url": "https://doi.org/10.1080/17441730.2020.1718358",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2020.1718358",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2020.1718358.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

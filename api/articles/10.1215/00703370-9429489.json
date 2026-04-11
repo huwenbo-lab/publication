@@ -1,0 +1,35 @@
+{
+  "title": "Husbands' Dominance in Decision-Making About Women's Health: A Spatial Diffusion Perspective in Sub-Saharan Africa",
+  "abstract": "This article maps spatial and temporal variation in husbands' dominance in deci sion-mak ing about their wives' health using pooled Demographic and Health Surveys from 28 countries in sub-Saharan Africa in an ear lier (i.e., 2001-2005) and later (i.e., 2010-2014) period. First, we use adap tive band width ker nel den sity estima tion to show how aggre gate coun try-level esti ma tes of hus bands' deci sion-mak ing dom i nance mask enor mous spa tial het ero ge ne ity within countries. Our maps also reveal a geo graphic clus ter ing of cells with sim i lar levels of hus band's deci sion-mak ing dominance both within and between countries. Next, we use panel fixed-effects spatial regres sion meth ods to show that decreases in hus bands' deci sion-mak ing dom i nance in neigh bor ing cells are asso ci ated with decreases in hus bands' deci sion-mak ing dominance in the reference cell. These findings support a diffusion explanation for declines in hus bands' deci sion-mak ing dom i nance over time. Our ana ly ses also indi cate that school ing and urban i za tion may be impor tant chan nels through which dif fu sion occurs, which we spec u late is because these are places where peo ple are exposed to new ideas and gen der norms.",
+  "authors": [
+    {
+      "raw": "Andriano, Liliana",
+      "family": "Andriano",
+      "given": "Liliana"
+    },
+    {
+      "raw": "Behrman, Julia",
+      "family": "Behrman",
+      "given": "Julia"
+    },
+    {
+      "raw": "Monden, Christiaan",
+      "family": "Monden",
+      "given": "Christiaan"
+    }
+  ],
+  "authors_text": "Andriano, Liliana; Behrman, Julia; Monden, Christiaan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9429489",
+  "doi_url": "https://doi.org/10.1215/00703370-9429489",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9429489",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9429489.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

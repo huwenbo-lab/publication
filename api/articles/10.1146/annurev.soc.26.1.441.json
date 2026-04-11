@@ -1,0 +1,30 @@
+{
+  "title": "Multilevel modeling for binary data",
+  "abstract": "We review some of the work of the past ten years that applied the multilevel logit model. We attempt to provide a brief description of the hypothesis tested, the hierarchical data structure analyzed, and the multilevel data source for each piece of work we have reviewed. We have also reviewed the technical literature and worked out two examples on multilevel models for binary outcomes. The review and examples serve two purposes: First, they are designed to assist in all aspects of working with multilevel models for binary outcomes, including model conceptualization, model description for a research report, understanding of the structure of required multilevel data, estimation of the model via a generally available statistical package, and interpretation of the results. Second, our examples contribute to the evaluation of the approximation procedures for binary multilevel models that have been implemented for general public use.",
+  "authors": [
+    {
+      "raw": "Guo, G",
+      "family": "Guo",
+      "given": "G"
+    },
+    {
+      "raw": "Zhao, HX",
+      "family": "Zhao",
+      "given": "HX"
+    }
+  ],
+  "authors_text": "Guo, G; Zhao, HX",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2000,
+  "doi": "10.1146/annurev.soc.26.1.441",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.26.1.441",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.26.1.441",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.26.1.441.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

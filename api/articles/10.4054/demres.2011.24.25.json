@@ -1,0 +1,30 @@
+{
+  "title": "On the correspondence between CAL and lagged cohort life expectancy",
+  "abstract": "It has been established that under certain mortality assumptions, the current value of the Cross-sectional Average length of Life (CAL) is equal to the life expectancy for the cohort currently reaching its life expectancy. This correspondence is important, because the life expectancy for the cohort currently reaching its life expectancy, or lagged cohort life expectancy (LCLE), has been discussed in the tempo literature as a summary mortality measure of substantive interest. In this paper, we build on previous work by evaluating the extent to which the correspondence holds in actual populations. We also discuss the implications of the CAL-LCLE correspondence (or lack thereof) for using CAL as a measure of cohort life expectancy, and for understanding the connection between CAL, LCLE, and underlying period mortality conditions.",
+  "authors": [
+    {
+      "raw": "Guillot, Michel",
+      "family": "Guillot",
+      "given": "Michel"
+    },
+    {
+      "raw": "Kim, Hyun Sik",
+      "family": "Kim",
+      "given": "Hyun Sik"
+    }
+  ],
+  "authors_text": "Guillot, Michel; Kim, Hyun Sik",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2011,
+  "doi": "10.4054/demres.2011.24.25",
+  "doi_url": "https://doi.org/10.4054/demres.2011.24.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2011.24.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2011.24.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

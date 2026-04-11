@@ -1,0 +1,30 @@
+{
+  "title": "The digital divide and body size disparity among Chinese adults",
+  "abstract": "BACKGROUND The rapid development of information and communication technology (ICT) in China has increased people's sedentary behavior and raised a number of related issues. ICT screen-viewing activities are increasingly considered to contribute to obesity, and sociodemographic characteristics such as gender, income, age, education, and geographical location seem to magnify the digital divide. OBJECTIVE This study first examines dissimilar stages of ICT transition, and then establishes how ICT screen-viewing activities relate to the Chinese obesity epidemic. Finally, this study assesses whether unequal access to digital resources and technology by geographic location and gender reinforces existing obesity disparities in China. METHODS This study uses longitudinal data drawn from 10,616 households and 17,377 personyears of those aged 18-55 who participated in the 2006, 2009, and 2011 China Health and Nutrition Survey (CHNS). Fixed effect linear regression models capture the link between ICT screen-viewing activities and body mass index (BMI). RESULTS The results show that while between 91.37% and 96.70% of individuals had access to televisions during 2006-2011, there is a significant disparity in terms of Internet activity by gender and geographical location. The results show that Internet use could decrease a rural women's BMI by .87 kg/m(2), while playing computer games could increase a rural man's BMI by .42 kg/m(2). CONTRIBUTION This study highlights that unequal access to digital resources and technology might reinforce existing obesity disparities in China.",
+  "authors": [
+    {
+      "raw": "Huang, Chih-Chien",
+      "family": "Huang",
+      "given": "Chih-Chien"
+    },
+    {
+      "raw": "Yabiku, Scott T.",
+      "family": "Yabiku",
+      "given": "Scott T."
+    }
+  ],
+  "authors_text": "Huang, Chih-Chien; Yabiku, Scott T.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.4",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

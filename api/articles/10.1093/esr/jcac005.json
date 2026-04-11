@@ -1,0 +1,35 @@
+{
+  "title": "Is Social Inequality in School-Age Achievement Generated before or during Schooling? A European Perspective",
+  "abstract": "Social gaps in children's educational achievement emerge early in life and remain stable over schooling. Does social origin constantly shape achievement or is social inequality in school just an echo of inequality settled before schooling? We extend the previous research by studying the origins of social gaps in language achievement among primary-school students in Germany, the Netherlands, and the United Kingdom. Based on dynamic accounts of skill development, we expected social origin to shape school-age achievement not only directly but also indirectly via before-school achievement. Using longitudinal data (Cohort Study on Educational Careers, Millennium Cohort Study, and National Educational Panel Study) and applying an instrumental variable approach, we estimated the extent to which achievement gaps by parental education in school were generated before and during schooling. About 50-80 per cent of language gaps observed at end of primary school were explained by gaps settled before formal schooling in all three countries. Conversely, at most 20-50 per cent of school-age gaps were generated during schooling. These findings suggest that the roots of social inequality in school-age achievement must be sought primarily in processes transpiring before school life starts.",
+  "authors": [
+    {
+      "raw": "Passaretta, Giampiero",
+      "family": "Passaretta",
+      "given": "Giampiero"
+    },
+    {
+      "raw": "Skopek, Jan",
+      "family": "Skopek",
+      "given": "Jan"
+    },
+    {
+      "raw": "van Huizen, Thomas",
+      "family": "van Huizen",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Passaretta, Giampiero; Skopek, Jan; van Huizen, Thomas",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcac005",
+  "doi_url": "https://doi.org/10.1093/esr/jcac005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

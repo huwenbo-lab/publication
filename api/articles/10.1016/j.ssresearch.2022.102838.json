@@ -1,0 +1,35 @@
+{
+  "title": "Blending in and standing out: College-going rates across charter and traditional public high schools",
+  "abstract": "Schools provide theoretical and methodological puzzles around complex stratification and organizational dynamics. Using organizational field theory, and the Schools and Staffing Survey, we study characteristics of charter and traditional high schools that are correlated with school rates of college-going. We first use Oaxaca-Blinder (OXB) models to decompose shifts in char-acteristics between charter and traditional public high schools. We find that charters have come to look more like traditional schools which may account for some of charters' increase in college -going rates. Then we use Qualitative Comparative Analysis (QCA) to examine how the combi-nation of certain characteristics may create unique recipes that help some charters outpace traditional schools. Without both methods, we would have drawn incomplete conclusions, because the OXB results highlight isomorphism while QCA emphasizes variation in school characteristics. We contribute to the literature by showing how conformity and variation simultaneously yield legitimacy in an organizational population.",
+  "authors": [
+    {
+      "raw": "Renzulli, Linda",
+      "family": "Renzulli",
+      "given": "Linda"
+    },
+    {
+      "raw": "Boylan, Rebecca",
+      "family": "Boylan",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Paino, Maria",
+      "family": "Paino",
+      "given": "Maria"
+    }
+  ],
+  "authors_text": "Renzulli, Linda; Boylan, Rebecca; Paino, Maria",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2022.102838",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102838",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102838",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102838.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

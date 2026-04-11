@@ -1,0 +1,30 @@
+{
+  "title": "Multipartnered Fertility and Depression Among Fragile Families",
+  "abstract": "We used data from the Fragile Families and Child Wellbeing Study to examine the association between multipartnered fertility (MPF)-when parents have children with more than one partner-and depression. Random effects models suggested that MPF is associated with a greater likelihood of depression, net of family structure and other covariates. However, these associations disappeared in more conservative fixed effects models that estimated changes in MPF as a function of changes in depression. Results also suggested that social selection may account for the link between MPF and depression for fathers (but not mothers), as depressed fathers with no MPF were more likely to have a child by a new partner four years later. Ultimately, MPF and depression may be reciprocally related and part of broader processes of social disadvantage.",
+  "authors": [
+    {
+      "raw": "Turney, Kristin",
+      "family": "Turney",
+      "given": "Kristin"
+    },
+    {
+      "raw": "Carlson, Marcia J.",
+      "family": "Carlson",
+      "given": "Marcia J."
+    }
+  ],
+  "authors_text": "Turney, Kristin; Carlson, Marcia J.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2011,
+  "doi": "10.1111/j.1741-3737.2011.00828.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2011.00828.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2011.00828.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2011.00828.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

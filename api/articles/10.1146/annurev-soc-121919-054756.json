@@ -1,0 +1,30 @@
+{
+  "title": "Sociology, Genetics, and the Coming of Age of Sociogenomics",
+  "abstract": "Recent years have seen the birth of sociogenomics via the infusion of molecular genetic data. We chronicle the history of genetics, focusing particularly on post-2005 genome-wide association studies, the post-2015 big data era, and the emergence of polygenic scores. We argue that understanding polygenic scores, including their genetic correlations with each other, causation, and underlying biological architecture, is vital. We show how genetics can be introduced to understand a myriad of topics such as fertility, educational attainment, intergenerational social mobility, well-being, addiction, risky behavior, and longevity. Although models of gene-environment interaction and correlation mirror agency and structure models in sociology, genetics is yet to be fully discovered by this discipline. We conclude with a critical reflection on the lack of diversity, nonrepresentative samples, precision policy applications, ethics, and genetic determinism. We argue that sociogenomics can speak to long-standing sociological questions and that sociologists can offer innovative theoretical, measurement, and methodological innovations to genetic research.",
+  "authors": [
+    {
+      "raw": "Mills, Melinda C.",
+      "family": "Mills",
+      "given": "Melinda C."
+    },
+    {
+      "raw": "Tropf, Felix C.",
+      "family": "Tropf",
+      "given": "Felix C."
+    }
+  ],
+  "authors_text": "Mills, Melinda C.; Tropf, Felix C.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2020,
+  "doi": "10.1146/annurev-soc-121919-054756",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-121919-054756",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-121919-054756",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-121919-054756.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

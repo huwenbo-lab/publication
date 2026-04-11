@@ -1,0 +1,35 @@
+{
+  "title": "A Very Uneven Playing Field: Economic Mobility in the United States",
+  "abstract": "The authors present results from a new data set that has been assembled from tax and other administrative sources to provide evidence on economic mobility and persistence in the United States. This data set allows the authors to take on the methodological problems that have complicated previous efforts to estimate intergenerational income elasticities. The resulting estimates of intergenerational persistence are as high as all but the highest of the previously reported survey-based estimates. Because the intergenerational curves are especially steep within the parental-income region defined by the 50th-90th percentiles, approximately two-thirds of the inequality between poor and well-off families is passed on to the next generation. This extreme persistence cannot be attributed to any single factor. Instead, the United States is exceptional with respect to virtually all factors governing intergenerational persistence, including the returns to human capital, the amount of public investment in the human capital of low-income children, the amount of socioeconomic segregation, and the progressiveness of the tax-and-transfer system. It follows that any substantial increase in mobility will require a wide-ranging package of reforms that cut across many institutions.",
+  "authors": [
+    {
+      "raw": "Mitnik, Pablo A.",
+      "family": "Mitnik",
+      "given": "Pablo A."
+    },
+    {
+      "raw": "Bryant, Victoria L.",
+      "family": "Bryant",
+      "given": "Victoria L."
+    },
+    {
+      "raw": "Grusky, David B.",
+      "family": "Grusky",
+      "given": "David B."
+    }
+  ],
+  "authors_text": "Mitnik, Pablo A.; Bryant, Victoria L.; Grusky, David B.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1086/728737",
+  "doi_url": "https://doi.org/10.1086/728737",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F728737",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/728737.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

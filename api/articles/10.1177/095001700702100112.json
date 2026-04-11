@@ -1,0 +1,25 @@
+{
+  "title": "Book Review: Demanding Work",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Brynin, Malcolm",
+      "family": "Brynin",
+      "given": "Malcolm"
+    }
+  ],
+  "authors_text": "Brynin, Malcolm",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2007,
+  "doi": "10.1177/095001700702100112",
+  "doi_url": "https://doi.org/10.1177/095001700702100112",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F095001700702100112",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/095001700702100112.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

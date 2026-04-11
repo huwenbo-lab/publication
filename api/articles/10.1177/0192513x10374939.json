@@ -1,0 +1,35 @@
+{
+  "title": "Alone in the Ivory Tower",
+  "abstract": "The authors use data from the 2000 Census Public Use Microdata Sample to examine the likelihood of a birth event, defined as the household presence of a child younger than 2 years, for male and female professionals. Physicians have the highest rate of birth events, followed in order by attorneys and academics. Within each profession men have more birth events than women. For men, occupational variation in birth events can be explained by marital status, income, and spousal employment. These factors only partially account for occupational differences in birth events for women.",
+  "authors": [
+    {
+      "raw": "Wolfinger, Nicholas H.",
+      "family": "Wolfinger",
+      "given": "Nicholas H."
+    },
+    {
+      "raw": "Goulden, Marc",
+      "family": "Goulden",
+      "given": "Marc"
+    },
+    {
+      "raw": "Mason, Mary Ann",
+      "family": "Mason",
+      "given": "Mary Ann"
+    }
+  ],
+  "authors_text": "Wolfinger, Nicholas H.; Goulden, Marc; Mason, Mary Ann",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2010,
+  "doi": "10.1177/0192513x10374939",
+  "doi_url": "https://doi.org/10.1177/0192513x10374939",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x10374939",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x10374939.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Bringing underprivileged middle-school students to the opera: cultural mobility or cultural compliance?",
+  "abstract": "This article assesses the impact of a two-year long project-based learning program conducted by the National Opera of Paris in a large number of middle schools located in underprivileged areas, aiming at preventing school dropout and tackling educational inequalities by providing disadvantaged students with the opportunity to discover the world of opera.Ta king a counterfactual approach (propensity score matching), we measure the impact of participation in the program on final exam and continuous assessment grades. The analysis displays mixed results: a significant and positive impact for the students who participate in the program for its whole duration (two years), at least for continuous assessment scores, but a negative impact for those who leave the program after only one year. The contrast between the effects of full and partial participation in the program suggests that these may be primarily due to a selection effect in favor of the most culturally and socially compliant students, in line with Bourdieu's and Passeron's reproduction theory (1997 [1970]) rather than a mobility effect (DiMaggio, 1982) resulting from the transfer of cultural capital to disadvantaged students.",
+  "authors": [
+    {
+      "raw": "Coulangeon, Philippe",
+      "family": "Coulangeon",
+      "given": "Philippe"
+    },
+    {
+      "raw": "Fougere, Denis",
+      "family": "Fougere",
+      "given": "Denis"
+    }
+  ],
+  "authors_text": "Coulangeon, Philippe; Fougere, Denis",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2022,
+  "doi": "10.1080/01425692.2022.2109593",
+  "doi_url": "https://doi.org/10.1080/01425692.2022.2109593",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2022.2109593",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2022.2109593.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

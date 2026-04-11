@@ -1,0 +1,30 @@
+{
+  "title": "Son Preference and Fertility Decisions: Evidence From Spatiotemporal Variation in Korea",
+  "abstract": "Using Korean data, this study investigates whether son-favoring ideas or the preference for sons affect fertility decisions. Son-favoring fertility behavior in Korea is of interest because the sex ratio at birth has recovered to a natural level after having been very skewed. To isolate the effects of the preference for sons from the effects of the surrounding environment, we compare the fertility behavior of individuals living in the same region but who were born in different regions or years. Exploiting the male-female gap in educational achievement at the parents' time and place of birth as exogenous variation in the 2000 Census Korea 2% sample, we find that the strength of son preference formed at an early age is associated with the strength of son-favoring fertility behavior as adults. Our results indicate that parents are more likely to have a third child if they happen to have only daughters as their first two children. More importantly, this tendency is stronger if parents were born in a spatiotemporal region with more skewed gender gap in educational investment. These findings are robust against various alternative specifications, including endogenous migration issues.",
+  "authors": [
+    {
+      "raw": "Kim, Seik",
+      "family": "Kim",
+      "given": "Seik"
+    },
+    {
+      "raw": "Lee, Sam-Ho",
+      "family": "Lee",
+      "given": "Sam-Ho"
+    }
+  ],
+  "authors_text": "Kim, Seik; Lee, Sam-Ho",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00875-7",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00875-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00875-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00875-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Racial classification as a multistate process",
+  "abstract": "BACKGROUND Although the existence of racial fluidity is generally accepted in both Brazil and the United States, changes in racial classification over the life course are often not incorporated into standard demographic estimates. OBJECTIVE By taking a multistate perspective on the variability of racial classification, we can use demographic methods to ask new questions about the nature of racial fluidity, such How many years can someone classified as White, Brown, or Black at birth expect to live in a different racial category? At what ages are changes in racial classification more likely to occur? METHODS We compute multistate life tables using linked data from Brazil's largest household survey (2017-2019 PNAD-C) to estimate transition probabilities between the White, Brown, and Black race categories, which we combine with age- and race-specific mortality probabilities. RESULTS Transition probabilities reveal that up to age 65, Brazilians are more likely to reclassified from either White or Black to Brown than they are to die at each age. Conditional life expectancy estimates show that Brazilians who were classified as Black at birth can expect to live almost 15 years of their lives classified as White, while those classified as White at birth can expect to live, on average, three years classified as Black.",
+  "authors": [
+    {
+      "raw": "Muniz, Jeronimo Oliveira",
+      "family": "Muniz",
+      "given": "Jeronimo Oliveira"
+    },
+    {
+      "raw": "Saperstein, Aliya",
+      "family": "Saperstein",
+      "given": "Aliya"
+    },
+    {
+      "raw": "Queiroz, Bernardo Lanza",
+      "family": "Queiroz",
+      "given": "Bernardo Lanza"
+    }
+  ],
+  "authors_text": "Muniz, Jeronimo Oliveira; Saperstein, Aliya; Queiroz, Bernardo Lanza",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.17",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

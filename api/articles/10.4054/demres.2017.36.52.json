@@ -1,0 +1,30 @@
+{
+  "title": "The relationship between women's paid employment and women's stated son preference in India",
+  "abstract": "OBJECTIVE We explore whether women's paid employment is associated with reductions in women's stated son preference in India and whether these results vary by employment sector (agriculture, manufacturing, services, professional-technical) and skill level (education and literacy). METHODS We conduct a logistic regression analysis of the relationship between women's paid employment and women's stated son preference among a sample of never-pregnant Indian women. We use the 2005 India National Family Health Survey (NFHS). RESULTS Women's paid employment in the service and manufacturing sectors is associated with significant reductions in the stated son preference of low-skilled women (i.e., low education and literacy). However, this negative association goes away for women at higher skill levels. In fact, paid employment in manufacturing is associated with significantly higher stated son preference among university-educated women. However, women's paid employment in agriculture and the professional-technical sectors is not significantly associated with women's stated son preference. Finally, the association between women's paid employment and stated son preference is significantly larger for women living in north India than for women living in south and east India. CONCLUSIONS We hypothesize that significant negative associations between women's paid employment and women's stated son preference occur only in cases where paid employment changes the economic status of women within the family. CONTRIBUTION Our analysis demonstrates that there are important linkages between women's paid employment and stated son preference, and draws attention to how the context of employment (e.g., sector and skill level) is differentially associated with demographic outcomes.",
+  "authors": [
+    {
+      "raw": "Behrman, Julia",
+      "family": "Behrman",
+      "given": "Julia"
+    },
+    {
+      "raw": "Duvisac, Sara",
+      "family": "Duvisac",
+      "given": "Sara"
+    }
+  ],
+  "authors_text": "Behrman, Julia; Duvisac, Sara",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.52",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.52",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.52",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.52.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

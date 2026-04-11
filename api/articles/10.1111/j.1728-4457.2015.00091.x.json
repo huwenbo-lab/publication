@@ -1,0 +1,30 @@
+{
+  "title": "Are We Overly Dependent on Conventional Dependency Ratios?",
+  "abstract": "The dependency ratio and its components have had a long and productive life. Here we show that they are no longer the most accurate way of measuring important aspects of population aging. We present ratios related to employment, standardized workers and consumers, health care costs, pension costs, and who is old. These ratios are based either on new data or on new approaches to the study of population aging and are all available on the internet. We compare forecasts of those ratios with forecasts of the dependency ratio, both based on the same UN population data. In all cases, we find that the dependency ratio and the old-age dependency ratio are poor approximations to the more up-to-date ratios. There is little need to use the dependency ratio. More accurate measures are readily available.",
+  "authors": [
+    {
+      "raw": "Sanderson, Warren C.",
+      "family": "Sanderson",
+      "given": "Warren C."
+    },
+    {
+      "raw": "Scherbov, Sergei",
+      "family": "Scherbov",
+      "given": "Sergei"
+    }
+  ],
+  "authors_text": "Sanderson, Warren C.; Scherbov, Sergei",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2015,
+  "doi": "10.1111/j.1728-4457.2015.00091.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2015.00091.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2015.00091.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2015.00091.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

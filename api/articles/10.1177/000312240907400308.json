@@ -1,0 +1,25 @@
+{
+  "title": "A Natural Experiment on Residential Change and Recidivism: Lessons from Hurricane Katrina",
+  "abstract": "Ex-prisoners tend to be geographically concentrated in a relatively small number of neighborhoods within the most resource deprived sections of metropolitan areas. Furthermore, many prisoners return home to the same criminogenic environment with the same criminal opportunities and criminal peers that proved so detrimental prior to incarceration. Yet estimating the causal impact of place of residence on the likelihood of recidivism is complicated by the issue of selection bias. In this study, I use a natural experiment as a means of addressing the selection issue and examine whether the migration of ex-prisoners away from their former place of residence will lead to lower levels of recidivism. In August 2005, Hurricane Katrina ravaged the Louisiana Gulf Coast, damaging many of the neighborhoods where ex-prisoners typically reside. The residential destruction resulting from Hurricane Katrina is an exogenous source of variation that influences where a parolee will reside upon release from prison. Findings reveal that moving away from former geographic areas substantially lowers a parolee likelihood of re-incarceration.",
+  "authors": [
+    {
+      "raw": "Kirk, David S.",
+      "family": "Kirk",
+      "given": "David S."
+    }
+  ],
+  "authors_text": "Kirk, David S.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2009,
+  "doi": "10.1177/000312240907400308",
+  "doi_url": "https://doi.org/10.1177/000312240907400308",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240907400308",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240907400308.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

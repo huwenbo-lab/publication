@@ -1,0 +1,30 @@
+{
+  "title": "Longevity of World War II Estonian volunteers in the Finnish Army: A follow-up study of the impact of the post-war life course and repressions",
+  "abstract": "BACKGROUND The existing literature pertaining to the long-term effects of war-related adversities on longevity is almost exclusively covering veterans from Western countries, while little is known about the longevity of surviving veterans in Eastern Europe. OBJECTIVES We analyse the effects of the post-war life course, including politically motivated repressions, on the longevity of a group of WWII participants - Estonian volunteers in the Finnish Army. METHODS We use a follow-up database of individual-level life histories of 3,352 Estonian men who served in the Finnish Army during WWII. The war and its aftermath divided them into several subgroups in a way that resembles a natural experiment. Using Cox proportional hazards models, we compare the mortality risks of subgroups whose members lived in different contexts after WWII. RESULTS The marked advantage in longevity of veterans who lived in exile in Western countries relative to those who stayed in Estonia reveals an impact of the macrosocial environment on longevity. The results also show immediate and delayed effects of repressions on longevity. Excess risk associated with repression emerged several decades after exposure, while the scarring effect later disappeared representing cohort inversion. CONCLUSIONS The results corroborate that the sequelae of war-related repressions affect the surviving population for many decades, while the scarring effects may remain undetected in the presence of other mechanisms, such as selection based on differential mortality. CONTRIBUTION The article presents the results of the first long-term follow-up study on the mortality effects of a group of WWII veterans from the Eastern bloc.",
+  "authors": [
+    {
+      "raw": "Leppik, Lauri",
+      "family": "Leppik",
+      "given": "Lauri"
+    },
+    {
+      "raw": "Puur, Allan",
+      "family": "Puur",
+      "given": "Allan"
+    }
+  ],
+  "authors_text": "Leppik, Lauri; Puur, Allan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.39",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.39",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.39",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.39.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

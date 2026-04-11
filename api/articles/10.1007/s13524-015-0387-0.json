@@ -1,0 +1,40 @@
+{
+  "title": "Strengthening or Weakening? The Impact of Universal Health Insurance on Intergenerational Coresidence in Taiwan",
+  "abstract": "In this article, we exploit a unique natural experiment-the implementation of National Health Insurance (NHI) in Taiwan in 1995-to examine how the introduction of universal health insurance increases or decreases the likelihood of intergenerational coresidence. Five waves of surveys from the Survey of Health and Living Status of the Elderly in Taiwan between 1989 and 2003 are employed, and models with various specifications are estimated. Our results indicate a mixed relationship between the likelihood of intergenerational coresidence and the enactment of NHI. Although NHI on average reduces the probability that elderly parents live with their adult children by approximately 6.6 %, the likelihood of intergenerational coresidence increases among families benefiting most from NHI, such as those with unhealthy elderly mothers and fewer children.",
+  "authors": [
+    {
+      "raw": "Hsieh, Hsin-Ling",
+      "family": "Hsieh",
+      "given": "Hsin-Ling"
+    },
+    {
+      "raw": "Chou, Shin-Yi",
+      "family": "Chou",
+      "given": "Shin-Yi"
+    },
+    {
+      "raw": "Liu, Echu",
+      "family": "Liu",
+      "given": "Echu"
+    },
+    {
+      "raw": "Lien, Hsien-Ming",
+      "family": "Lien",
+      "given": "Hsien-Ming"
+    }
+  ],
+  "authors_text": "Hsieh, Hsin-Ling; Chou, Shin-Yi; Liu, Echu; Lien, Hsien-Ming",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0387-0",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0387-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0387-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0387-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

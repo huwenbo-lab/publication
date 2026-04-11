@@ -1,0 +1,35 @@
+{
+  "title": "Deaths and survivors in war: The Italian soldiers in WWI",
+  "abstract": "OBJECTIVE The aim of this paper is to study the selection effects of mortality among soldiers in WWI. METHODS Individual-level data of more than 62,000 soldiers born between 1874 and 1899 in north-eastern Italy was used. Almost 10% of these soldiers died in the war. A data set was constructed by linking two different sources, the call-up registers and the Roll of Honour of the fallen Italian soldiers of WWI. RESULTS The risk of death of soldiers in war depended partly on the soldier's assignment to corps and partly on personal behaviour and individual characteristics. A relatively small number of soldiers of large body size fell in battle. The most universal cause of death was illness. Literate soldiers were less likely to die in captivity. CONTRIBUTION The concept of mortality differential has rarely been applied to soldiers engaged in conflict. This is because they were supposed to experience similar perils and run similar risks during the war. However, our study found evidence of strong mortality differentials among soldiers, which were strictly associated with the striking differences in terms of literacy, education, and socio-economic status that permeated the Italian society of that time and that the universal enrolment allowed to highlight.",
+  "authors": [
+    {
+      "raw": "Fornasin, Alessio",
+      "family": "Fornasin",
+      "given": "Alessio"
+    },
+    {
+      "raw": "Breschi, Marco",
+      "family": "Breschi",
+      "given": "Marco"
+    },
+    {
+      "raw": "Manfredini, Matteo",
+      "family": "Manfredini",
+      "given": "Matteo"
+    }
+  ],
+  "authors_text": "Fornasin, Alessio; Breschi, Marco; Manfredini, Matteo",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.22",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Non-cohabiting Partners’ Economic Characteristics and the Transition to Living Together in Germany: A Couple-Level Perspective",
+  "abstract": "Abstract Living together marks an important step in the progression of intimate partner relationships. While existing literature highlights the relevance of both partners’ economic characteristics for union formation, it remains unclear whether both partners’ economic characteristics are equally linked to the transition to co-residence, whether one partner’s traits matter more, and how this varies by gender. We address these gaps by examining how the economic characteristics of women and men in non-residential relationships relate to their transition to co-residence. Using 13 waves (2008–2021) of the German Family Panel pairfam and Cox proportional hazards model, we analyse 7165 non-residential relationships, capturing dyadic data on partners’ employment status, contract type, and income. Our findings show that economic factors significantly influence the likelihood of moving in together. Couples with two employed partners are most likely to move in together, while gender plays a role when only one partner works—this transition being more likely when the man is employed. Among employed individuals, higher income increases the probability of moving in together for both men and women. Additionally, temporary employment raises the likelihood of starting a co-residence exclusively for women. Overall, results suggest that men’s employment status plays a pivotal role in this transition and that union formation is socially stratified among young adults, reinforcing gender inequalities in partnership dynamics.",
+  "authors": [
+    {
+      "raw": "Ferraretto, Valeria",
+      "family": "Ferraretto",
+      "given": "Valeria"
+    },
+    {
+      "raw": "Hiekel, Nicole",
+      "family": "Hiekel",
+      "given": "Nicole"
+    },
+    {
+      "raw": "Vitali, Agnese",
+      "family": "Vitali",
+      "given": "Agnese"
+    }
+  ],
+  "authors_text": "Ferraretto, Valeria; Hiekel, Nicole; Vitali, Agnese",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09740-y",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09740-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09740-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09740-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

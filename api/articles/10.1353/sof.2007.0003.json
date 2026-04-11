@@ -1,0 +1,25 @@
+{
+  "title": "Environmental Racial Inequality in Detroit",
+  "abstract": "This study uses industrial pollution data from the Environmental Protection Agency's Toxics Release Inventory (TRI) and tract-level demographic data from the 2000 U.S. census to determine whether environmental racial inequality existed in the Detroit metropolitan area in the year 2000. This study differs from prior environmental inequality research in two important ways. First, it offers a positive rationale for using hazard proximity indicators. Second, it uses a distance decay modeling technique to estimate hazard proximity. This technique weights each hazard's estimated negative effect by distance such that the estimated negative effect declines continuously as distance from the hazard increases, thus providing more accurate estimates of proximity-based environmental risk than can be obtained using other variable construction techniques currently found in the literature. Using this technique, I find that Detroit's black neighborhoods were disproportionately burdened by TRI facility activity in 2000 and that neighborhood racial composition had a strong independent effect on neighborhood proximity to TRI activity.",
+  "authors": [
+    {
+      "raw": "Downey, L.",
+      "family": "Downey",
+      "given": "L."
+    }
+  ],
+  "authors_text": "Downey, L.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2006,
+  "doi": "10.1353/sof.2007.0003",
+  "doi_url": "https://doi.org/10.1353/sof.2007.0003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2007.0003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2007.0003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

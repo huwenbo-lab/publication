@@ -1,0 +1,40 @@
+{
+  "title": "Visualizing Children’s Family Structure",
+  "abstract": "This visualization illustrates the multidimensionality of family life among U.S. children. The authors used the 2022 Current Population Survey Annual Social and Economic Supplements from the Integrated Public Use Microdata Series to examine the intersection of three family structure domains: number of parents, relationship of child to parent(s), and parental union type. Even as 74 percent of children live with two parents, only 60 percent lived with their two biological or adoptive married parents, and substantial variation was evident in children’s family configurations. By focusing on child’s relationship to parent, the authors revealed that a minority of children lived with only their stepparent(s). A consideration of parents’ parental union status shows that parents within stepfamilies are almost nearly as likely to cohabit than marry. Children not residing with their parents were mostly living with other family members, mainly their grandparents, and these relatives were largely married or single. The results suggest that limiting family structure to one domain conceals its complexity by providing a narrow lens on families.",
+  "authors": [
+    {
+      "raw": "Juteau, Gabrielle",
+      "family": "Juteau",
+      "given": "Gabrielle"
+    },
+    {
+      "raw": "Westrick-Payne, Krista K.",
+      "family": "Westrick-Payne",
+      "given": "Krista K."
+    },
+    {
+      "raw": "Brown, Susan L.",
+      "family": "Brown",
+      "given": "Susan L."
+    },
+    {
+      "raw": "Manning, Wendy D.",
+      "family": "Manning",
+      "given": "Wendy D."
+    }
+  ],
+  "authors_text": "Juteau, Gabrielle; Westrick-Payne, Krista K.; Brown, Susan L.; Manning, Wendy D.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231205216",
+  "doi_url": "https://doi.org/10.1177/23780231231205216",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231205216",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231205216.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

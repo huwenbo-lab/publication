@@ -1,0 +1,25 @@
+{
+  "title": "Income Segregation and the Incomplete Integration of Islam in the Paris Metropolitan Area",
+  "abstract": "In France as in many other Western European countries, the purported concentration of large Muslim populations in disadvantaged areas at the outskirts of major cities has been associated with public and scholarly concerns for failed integration, but few spatial data exist for the purposes of empirical study. Relying on a unique geolocated data set built from online repositories of Muslim places comprising halal butcher shops, prayer spaces, religious schools, and bookstores, the author uses a geographic information system to map Islamic institutions in the Paris metropolitan area. Contrary to the religious segregation narrative, the presence of Islamic institutions is widespread within the city. Using census income data aggregated by neighborhoods, however, the author shows that the spatial distribution of Muslim institutions matches broader dynamics of income segregation within the entire metropolitan area. Despite urban mainstreaming suggested by a substantial presence within the city proper, the spatial integration of Islam thus remains incomplete.",
+  "authors": [
+    {
+      "raw": "Drouhot, Lucas G.",
+      "family": "Drouhot",
+      "given": "Lucas G."
+    }
+  ],
+  "authors_text": "Drouhot, Lucas G.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023119899585",
+  "doi_url": "https://doi.org/10.1177/2378023119899585",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119899585",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119899585.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

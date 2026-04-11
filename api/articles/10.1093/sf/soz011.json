@@ -1,0 +1,30 @@
+{
+  "title": "The Legacy of Disadvantaged Origins: Blocked Social Mobility of Descendants of Nobi Great-Grandfathers in Korea (1765-1894)",
+  "abstract": "Despite the emerging literature on multigenerational stratification beyond two generation models, our understanding of how disadvantages are transmitted over multiple generations at the bottom of the socioeconomic hierarchy is limited, with the lack of data on the extremely disadvantaged. We fill this research gap by investigating the legacy of the nobi system, a system by which individuals were treated as property and owned by the government or private individuals, upon social mobility across four generations. The formal abolition of the nobi system in 1801 provides an opportunity to assess the extent to which nobi great-grandfathers still mattered for great-grandsons' upward mobility, more than six decades after the dismantling of the system. Korean household registers, which were compiled every three years during 1765-1894 in two villages on Jeju Island and incorporated a variety of individual demographic and social status information, allow us to link families across generations. We identify the social status of adult males recorded in 1864-94 registers as well as that of their fathers, grandfathers, and great-grandfathers. Logistic regression results show that the odds of attaining high status were substantially lower for adult males whose great-grandfathers were nobis than for those whose great-grandfathers held high- or middle-status positions, even after controlling for the social statuses of fathers and grandfathers. Despite the abolition of the nobi system and the rapid expansion of high-status positions throughout the nineteenth century, the upward mobility of descendants of nobi great-grandfathers was considerably restricted, revealing the continuity of disadvantages over multiple generations.",
+  "authors": [
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    },
+    {
+      "raw": "Kim, Kuentae",
+      "family": "Kim",
+      "given": "Kuentae"
+    }
+  ],
+  "authors_text": "Park, Hyunjoon; Kim, Kuentae",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soz011",
+  "doi_url": "https://doi.org/10.1093/sf/soz011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

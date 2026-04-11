@@ -1,0 +1,40 @@
+{
+  "title": "Impact of conjugal separation on women's income in Canada: Does the type of union matter?",
+  "abstract": "BACKGROUND After conjugal unions end, women frequently experience sharp declines in their economic status. The severity of this decline may depend on whether they were in a marital or a cohabiting union and may change over time. OBJECTIVE We measure the economic situation of married and cohabiting women after union dissolution in Canada in two time periods and in two different contexts: Quebec, where nearly 40% of couples cohabit, and the other provinces, where only 14% of couples are in cohabiting unions. METHODS Using data from the Longitudinal Administrative Databank, we employ both descriptive statistics and fixed effects models to compare adjusted family-based income prior to separation to income in the following five years for women aged 25-44 who separated in 1993-1994 and 2003-2004 in Quebec and the rest of Canada. RESULTS All women experienced a major loss of income after separation. Previously cohabiting women tended to fare better than formerly married women, although after controlling for employment, number of children, and other factors married women did marginally better in the earlier cohort. Differences between married and cohabiting women tended to be smaller in Quebec than in the rest of Canada for the later cohort. CONCLUSIONS Both context and time period shape married and cohabiting women's economic wellbeing following separation. As cohabitation becomes more common and more closely resembles marriage, as it does in Quebec, long-term differences between marriage and cohabitation may diminish. CONTRIBUTION This paper extends the literature on the economic consequences of separation for women by examining the implications of rising levels of cohabitation.",
+  "authors": [
+    {
+      "raw": "Le Bourdais, Celine",
+      "family": "Le Bourdais",
+      "given": "Celine"
+    },
+    {
+      "raw": "Jeon, Sung-Hee",
+      "family": "Jeon",
+      "given": "Sung-Hee"
+    },
+    {
+      "raw": "Clark, Shelley",
+      "family": "Clark",
+      "given": "Shelley"
+    },
+    {
+      "raw": "Lapierre-Adamcyk, Evelyne",
+      "family": "Lapierre-Adamcyk",
+      "given": "Evelyne"
+    }
+  ],
+  "authors_text": "Le Bourdais, Celine; Jeon, Sung-Hee; Clark, Shelley; Lapierre-Adamcyk, Evelyne",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.50",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.50",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.50",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.50.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

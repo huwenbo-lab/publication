@@ -1,0 +1,25 @@
+{
+  "title": "Decoupled or doubled? Evaluating geospatial dispersion of student-resident displacement by school closure",
+  "abstract": "School closures can have negative impacts on the students attending them and the residential communities surrounding them, suggesting overlapping negative impacts on local children. Yet, it remains unclear that these two populations are one in the same. The current study uses administrative enrollment data from 18 public-school closures in Baltimore City (2010-15) to quantify student-resident displacement rates across neighborhoods. I find that closures displaced a small proportion of student-residents from many different neighborhoods, rather than displacing a large proportion of any one residential community. Displaced students' residential neighborhoods are spatially dispersed and socio-demographically diverse. Employing school fixed-effects modeling to compare displaced students with their classmates, I show how recognizing these variations in geospatial dispersion can help to predict post-closure enrollments among displaced students. Findings suggest that many students and neighborhoods experience school closure as decoupled rather than doubled, with implications for how policies can better mitigate impacts of school closure.",
+  "authors": [
+    {
+      "raw": "Nerenberg, Kiara Millay",
+      "family": "Nerenberg",
+      "given": "Kiara Millay"
+    }
+  ],
+  "authors_text": "Nerenberg, Kiara Millay",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2020.102519",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102519",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102519",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102519.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

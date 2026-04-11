@@ -1,0 +1,55 @@
+{
+  "title": "The geographic scale of Metropolitan racial segregation",
+  "abstract": "Abstract This article addresses an aspect of racial residential segregation that has been largely ignored in prior work: the issue of geographic scale. In some metropolitan areas, racial groups are segregated over large regions, with predominately white regions, predominately black regions, and so on, whereas in other areas, the separation of racial groups occurs over much shorter distances. Here we develop an approach—featuring the segregation profile and the corresponding macro/micro segregation ratio—that offers a scale-sensitive alternative to standard methodological practice for describing segregation. Using this approach, we measure and describe the geographic scale of racial segregation in the 40 largest U.S. metropolitan areas in 2000. We find considerable heterogeneity in the geographic scale of segregation patterns across both metropolitan areas and racial groups, a heterogeneity that is not evident using conventional “aspatial” segregation measures. Moreover, because the geographic scale of segregation is only modestly correlated with the level of segregation in our sample, we argue that geographic scale represents a distinct dimension of residential segregation. We conclude with a brief discussion of the implications of our findings for investigating the patterns, causes, and consequences of residential segregation at different geographic scales.",
+  "authors": [
+    {
+      "raw": "Reardon, Sean F.",
+      "family": "Reardon",
+      "given": "Sean F."
+    },
+    {
+      "raw": "Matthews, Stephen A.",
+      "family": "Matthews",
+      "given": "Stephen A."
+    },
+    {
+      "raw": "O’Sullivan, David",
+      "family": "O’Sullivan",
+      "given": "David"
+    },
+    {
+      "raw": "Lee, Barrett A.",
+      "family": "Lee",
+      "given": "Barrett A."
+    },
+    {
+      "raw": "Firebaugh, Glenn",
+      "family": "Firebaugh",
+      "given": "Glenn"
+    },
+    {
+      "raw": "Farrell, Chad R.",
+      "family": "Farrell",
+      "given": "Chad R."
+    },
+    {
+      "raw": "Bischoff, Kendra",
+      "family": "Bischoff",
+      "given": "Kendra"
+    }
+  ],
+  "authors_text": "Reardon, Sean F.; Matthews, Stephen A.; O’Sullivan, David; Lee, Barrett A.; Firebaugh, Glenn; Farrell, Chad R.; Bischoff, Kendra",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0019",
+  "doi_url": "https://doi.org/10.1353/dem.0.0019",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0019",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0019.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

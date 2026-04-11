@@ -1,0 +1,30 @@
+{
+  "title": "Changes in partnership patterns across the life course: An examination of 14 countries in Europe and the United States",
+  "abstract": "BACKGROUND Studies on Europe and the US indicate that marriage has been postponed, cohabitation has increased, and unions are more likely to dissolve. However, cross-national studies documenting these trends have typically studied each transition separately. OBJECTIVE This study aims to simultaneously capture these different partnership trends while examining heterogeneity within countries. Using latent class growth curves, we ask 1) what is changing more - the increase in premarital cohabitation or the increase in divorce and union dissolution? and 2) is cohabitation emerging as a relationship indistinguishable from marriage? These analyses also allow us to see whether changes over time follow a universal trajectory, and whether the US is an outlier in terms of relationship turnover. METHOD We use latent class growth models to trace the complexity of union formation in the United States and 14 countries in Europe by examining how union status can change between the ages of 15-45 for women born 1945-74. After determining the optimal number of latent classes, we calculate the probability of falling into each class by country and cohort. This shows the heterogeneity of union patterns across countries and over time. RESULTS In all countries, changes in partnership patterns have been driven by the postponement of marriage. Premarital cohabitation has changed patterns of partnership behavior more than union dissolution. Cohabitation has emerged as its own class, but is not identical to any marriage class. The US does not have disproportionately higher relationship churning in later cohorts compared to Eastern European countries.",
+  "authors": [
+    {
+      "raw": "Perelli-Harris, Brienna",
+      "family": "Perelli-Harris",
+      "given": "Brienna"
+    },
+    {
+      "raw": "Lyons-Amos, Mark",
+      "family": "Lyons-Amos",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Perelli-Harris, Brienna; Lyons-Amos, Mark",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.6",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

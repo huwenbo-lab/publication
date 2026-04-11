@@ -1,0 +1,30 @@
+{
+  "title": "Two-dimensional stratification of subjective social status in China from 2006 to 2021: a new perspective on objective-subjective status alignment",
+  "abstract": "Earlier studies have yielded significant insights into the difference in conditional mean of subjective social status (SSS) by objective social status (OSS), or the stratification in the level of SSS. We extend the literature by incorporating the difference in conditional variance of SSS by OSS. This dimension of social stratification of SSS highlights different levels of consensus that vary between OSS groups. Applying variance function regression to the Chinese General Social Survey data from 2006 to 2021, we analyzed the two-dimensional stratification of SSS. First and consistent with earlier studies, higher-socioeconomic status groups consistently perceive themselves to have higher SSS. Second and extending previous studies, this paper finds that consensus over SSS is also stronger within higher-class groups. Third and against earlier findings on the urban disadvantages in SSS, we find that the SSS gap between urban and rural residents diminishes by year. This research offers a fresh perspective on the interplay between OSS and SSS, highlights the role of consensus, and provides a multifaceted framework that guides further investigations into social stratification in China.",
+  "authors": [
+    {
+      "raw": "Zheng, Boyan",
+      "family": "Zheng",
+      "given": "Boyan"
+    },
+    {
+      "raw": "Wei, Lai",
+      "family": "Wei",
+      "given": "Lai"
+    }
+  ],
+  "authors_text": "Zheng, Boyan; Wei, Lai",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1080/21620555.2025.2568390",
+  "doi_url": "https://doi.org/10.1080/21620555.2025.2568390",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2025.2568390",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2025.2568390.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

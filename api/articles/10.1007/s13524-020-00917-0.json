@@ -1,0 +1,40 @@
+{
+  "title": "Income Segregation: Up or Down, and for Whom?",
+  "abstract": "Reports of rising income segregation in the United States have been brought into question by the observation that post-2000 estimates are upwardly biased because of a reduction in the sample sizes on which they are based. Recent studies have offered estimates of this sample-count bias using public data. We show here that there are two substantial sources of systematic bias in estimating segregation levels: bias associated with sample size and bias associated with using weighted sample data. We rely on new correction methods using the original census sample data for individual households to provide more accurate estimates. Family income segregation rose markedly in the 1980s but only selectively after 1990. For some categories of families, segregation declined after 1990. There has been an upward trend for families with children but not specifically for families with children in the upper or lower 10% of the income distribution. Separate analyses by race/ethnicity show that income segregation was not generally higher among Blacks and Hispanics than among White families, and evidence of income segregation trends for these separate groups is mixed. Income segregation increased for all three racial groups for families with children, particularly for Hispanics (but not Whites or Blacks) in the upper 10% of the income distribution. Trends vary for specific combinations of race/ethnicity, presence of children, and location in the income distribution, offering new challenges for understanding the underlying processes of change.",
+  "authors": [
+    {
+      "raw": "Logan, John R.",
+      "family": "Logan",
+      "given": "John R."
+    },
+    {
+      "raw": "Foster, Andrew",
+      "family": "Foster",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Xu, Hongwei",
+      "family": "Xu",
+      "given": "Hongwei"
+    },
+    {
+      "raw": "Zhang, Wenquan",
+      "family": "Zhang",
+      "given": "Wenquan"
+    }
+  ],
+  "authors_text": "Logan, John R.; Foster, Andrew; Xu, Hongwei; Zhang, Wenquan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00917-0",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00917-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00917-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00917-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

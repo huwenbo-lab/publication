@@ -1,0 +1,35 @@
+{
+  "title": "Migrating to New Contraceptive Contexts: The Case of Migrants from Turkey to France",
+  "abstract": "Do migrants adopt the contraceptive norms dominant in their destination context? To explore this question, the authors adopt a multisited analysis in which they standardize and integrate data on women’s contraceptive use from two different sources: the Trajectoires et Origines survey collected in France (the receiving country) and the Demographic and Health Survey collected in Turkey (the sending country). Descriptive analyses indicate that contraceptive use of migrant women from Turkey in France is more comparable with that of nonmigrant women in France compared with nonmigrant women in Turkey. To address migrant selectivity on observed characteristics in multivariate analyses, nonmigrant groups in France and Turkey are reweighted with entropy balancing to resemble migrants on observed characteristics. Multivariate results indicate that there are sizable differences in contraceptive use between Turkish migrants and nonmigrant Turkish women, which undermines the hypothesis of selection on observables. Yet there are no significant differences between migrants and nonmigrant French women in contraceptive methods, thus supporting an adaptation perspective. Supplementary analyses highlight several pathways that could help explain these findings.",
+  "authors": [
+    {
+      "raw": "Behrman, Julia",
+      "family": "Behrman",
+      "given": "Julia"
+    },
+    {
+      "raw": "Buyukakbas, Elif",
+      "family": "Buyukakbas",
+      "given": "Elif"
+    },
+    {
+      "raw": "Weitzman, Abigail",
+      "family": "Weitzman",
+      "given": "Abigail"
+    }
+  ],
+  "authors_text": "Behrman, Julia; Buyukakbas, Elif; Weitzman, Abigail",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221131627",
+  "doi_url": "https://doi.org/10.1177/23780231221131627",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221131627",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221131627.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

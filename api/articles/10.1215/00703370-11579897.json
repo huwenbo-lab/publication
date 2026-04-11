@@ -1,0 +1,35 @@
+{
+  "title": "Population Growth, Immigration, and Labor Market Dynamics",
+  "abstract": "This article provides a first synthesis of population flows and labor market dynamics across immigrant and native-born populations. We devise a novel dynamic accounting methodology that integrates population flows from two sources-changes in birth cohort size and immigrant flows-with labor market dynamics. We illustrate the method using data for the United Kingdom, where population flows have been large and cyclical, driven first by the maturation of baby boom cohorts in the 1980s and later by immigration in the 2000s. New measures of labor market flows by migrant status uncover the flow origins of disparities in the levels and cyclicality of immigrant and native labor market outcomes and their more recent convergence. An application of our accounting framework reveals that population flows have played a nontrivial role in the volatility of labor markets among the UK-born and, especially, immigrants.",
+  "authors": [
+    {
+      "raw": "Elsby, Michael W. L.",
+      "family": "Elsby",
+      "given": "Michael W. L."
+    },
+    {
+      "raw": "Smith, Jennifer C.",
+      "family": "Smith",
+      "given": "Jennifer C."
+    },
+    {
+      "raw": "Wadsworth, Jonathan",
+      "family": "Wadsworth",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Elsby, Michael W. L.; Smith, Jennifer C.; Wadsworth, Jonathan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11579897",
+  "doi_url": "https://doi.org/10.1215/00703370-11579897",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11579897",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11579897.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

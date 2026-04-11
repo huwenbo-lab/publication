@@ -1,0 +1,25 @@
+{
+  "title": "Paradigms of Sex Research and Women in Stem",
+  "abstract": "Scientists’ identities and social locations influence their work, but the content of scientific work can also influence scientists. Theory from feminist science studies, autoethnographic accounts, interviews, and experiments indicate that the substance of scientific research can have profound effects on how scientists are treated by colleagues and their sense of belonging in science. I bring together these disparate literatures under the framework of professional cultures. Drawing on the Survey of Earned Doctorates and the Web of Science, I use computational social science tools to argue that the way scientists write about sex in their research influences the future gender ratio of PhDs awarded across 53 subfields of the life sciences over a span of 47 years. Specifically, I show that a critical paradigm of “feminist biology” that seeks to de-essentialize sex and gender corresponds to increases in women’s graduation rates, whereas “sex difference” research—sometimes called “neurosexism” because of its emphasis on essential, categorical differences—corresponds to decreases in women’s graduation rates in most fields.",
+  "authors": [
+    {
+      "raw": "Lockhart, Jeffrey W.",
+      "family": "Lockhart",
+      "given": "Jeffrey W."
+    }
+  ],
+  "authors_text": "Lockhart, Jeffrey W.",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2021,
+  "doi": "10.1177/08912432211001384",
+  "doi_url": "https://doi.org/10.1177/08912432211001384",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432211001384",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432211001384.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

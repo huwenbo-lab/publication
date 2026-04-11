@@ -1,0 +1,45 @@
+{
+  "title": "Spatial Distance Between Parents and Adult Children in the United States",
+  "abstract": "Objective This brief report presents contemporary national estimates of the spatial distance between residences of parents and adult children in the United States, including distance to one's nearest parent or adult child and whether one lives near all of their parents and adult children. Background The most recent national estimates of parent-child spatial proximity come from data for the early 1990s. Moreover, research has rarely assessed the spatial clustering of all parents and adult children. Method Data are from the 2013 Panel Study of Income Dynamics on residential locations of adults aged 25 years and older and each of their parents and adult children. The following two measures of spatial proximity were estimated: the share of adults who have their nearest parent or adult child at a given distance and the share of adults who have all parents and/or all adult children at a given distance. Sociodemographic and geographic differences were examined for both measures. Results Among the adults with at least one living parent or adult child, a significant majority (74.8%) had their nearest parent or adult child within 30 miles, and about one third (35.5%) had all parents and adult children living that close. Spatial proximity differed substantially among sociodemographic groups, with those who were disadvantaged more likely to have their parents or adult children nearby. In most cases, sociodemographic disparities were much higher when spatial proximity was measured by proximity to all parents and all adult children instead of to the nearest parent or nearest adult child. Conclusion Disparities in having all parents and/or adult children nearby may be a result of family solidarity and also may affect family solidarity. This report sets the stage for new investigations of the spatial dimension of family cohesion.",
+  "authors": [
+    {
+      "raw": "Choi, HwaJung",
+      "family": "Choi",
+      "given": "HwaJung"
+    },
+    {
+      "raw": "Schoeni, Robert F.",
+      "family": "Schoeni",
+      "given": "Robert F."
+    },
+    {
+      "raw": "Wiemers, Emily E.",
+      "family": "Wiemers",
+      "given": "Emily E."
+    },
+    {
+      "raw": "Hotz, V. Joseph",
+      "family": "Hotz",
+      "given": "V. Joseph"
+    },
+    {
+      "raw": "Seltzer, Judith A.",
+      "family": "Seltzer",
+      "given": "Judith A."
+    }
+  ],
+  "authors_text": "Choi, HwaJung; Schoeni, Robert F.; Wiemers, Emily E.; Hotz, V. Joseph; Seltzer, Judith A.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12606",
+  "doi_url": "https://doi.org/10.1111/jomf.12606",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12606",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12606.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

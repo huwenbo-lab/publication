@@ -1,0 +1,30 @@
+{
+  "title": "Dimensions of Environmental Attitudes and General Fertility Ideals",
+  "abstract": "Recently, there has been a growing interest in examining the relationship between concerns about the environment or climate change and fertility behavior. While research published in environmental science-oriented journals suggests that stronger environmental concerns are associated with lower fertility preferences, demographic studies have reported mixed findings. This study investigates whether the inconsistent findings result from treating environmental attitudes as a unidimensional construct, typically measured as environmental concern. Using 2010 and 2021 General Social Survey data and applying factor analysis, we identified two additional dimensions of environmental attitudes: behavioral commitment (willingness to change to protect the environment) and perceived danger from environmental threats. Multinomial and ordinary least squares regression models were used to examine relationships between these environmental attitude dimensions and ideal family size over time. Results show that the influence of environmental attitudes on fertility ideals has strengthened in recent years, increasingly motivating preferences for smaller families. In 2010, environmental concern had the most substantial, though nevertheless a weak, association with fertility ideals, and its impact weakened further by 2021, while behavioral commitment became more prominent. Specifically, greater commitment was associated with higher endorsement of small-family ideals (0-1 children) and lower endorsement that couples should have as many children as desired. Nevertheless, two-child ideals remained more common than small-family ideals. Perceived danger remained a fairly weak correlate of ideals over the study period but became an important predictor of small-family ideals in 2021. These findings highlight the importance of recognizing the multidimensional nature of environmental attitudes. While environmental concern was historically emphasized, dimensions like behavioral commitment and perceived danger have become increasingly stronger correlates of fertility preferences in recent years.",
+  "authors": [
+    {
+      "raw": "Jayasinghe, Naduni",
+      "family": "Jayasinghe",
+      "given": "Naduni"
+    },
+    {
+      "raw": "Rackin, Heather",
+      "family": "Rackin",
+      "given": "Heather"
+    }
+  ],
+  "authors_text": "Jayasinghe, Naduni; Rackin, Heather",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70019",
+  "doi_url": "https://doi.org/10.1111/padr.70019",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70019",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70019.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

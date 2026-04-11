@@ -1,0 +1,35 @@
+{
+  "title": "The changing pattern of cohabitation: A sequence analysis approach",
+  "abstract": "BACKGROUND During the last decades, nonmarital cohabitation has diffused throughout the industrialised world, although not uniformly. The Second Demographic Transition (SDT) predicts a convergence of cohabitation patterns towards a final stage in which cohabitation and marriage will be almost indistinguishable. OBJECTIVE This paper contributes to the literature on the convergence of cohabitation patterns across countries by testing whether countries are becoming more similar over time, as suggested by the SDT. METHODS We use sequence analysis and cluster analysis techniques to classify different patterns of cohabitation in France, Italy, Norway, Bulgaria, and the United States. Using data mainly stemming from the Gender and Generations Surveys (GGS), we analyse women's patterns of behaviour during the five years following the start of their first cohabitation, over a time span of three decades (1970s-2000s). RESULTS On the basis of sequencing the events of childbirth, marriage, and separation we are able to identify five different clusters corresponding to different ways of going through the cohabitation experience. CONCLUSIONS Our results suggest that there is a general decreasing trend of cohabitation as a premarital experience and an increasing trend of cohabitation as an alternative to marriage or as a free union. However, within this homogeneous trend, persistent peculiarities at the country level suggest that the selected countries are not simply at different stages of the same trajectory. CONTRIBUTION The classification that emerges from the data-driven approach combines several features of already existing typologies of cohabitation experience. Analysis of the data highlights country peculiarities in the development of the cohabitation experience, rather than the existence of a common path as predicted by the SDT.",
+  "authors": [
+    {
+      "raw": "Di Giulio, Paola",
+      "family": "Di Giulio",
+      "given": "Paola"
+    },
+    {
+      "raw": "Impicciatore, Roberto",
+      "family": "Impicciatore",
+      "given": "Roberto"
+    },
+    {
+      "raw": "Sironi, Maria",
+      "family": "Sironi",
+      "given": "Maria"
+    }
+  ],
+  "authors_text": "Di Giulio, Paola; Impicciatore, Roberto; Sironi, Maria",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.42",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.42",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.42",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.42.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

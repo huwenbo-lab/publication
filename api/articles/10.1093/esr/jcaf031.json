@@ -1,0 +1,35 @@
+{
+  "title": "Nationalist focal events and anti-minority violence-how soldier funerals spark ethnic riots in Turkey",
+  "abstract": "What triggers anti-minority riots? We examine the role of soldier funerals as highly visible mourning rituals that amplify collective emotions and foster nationalist sentiment. Focusing on a most-likely setting, anti-Syrian riots in Turkey, we argue that soldier funerals motivate pro-group behaviour while simultaneously intensifying outgroup hostility, thereby increasing the likelihood of retributive violence against minority members. Combining fixed-effects Poisson regression models with a sharp Regression Discontinuity in Time (RDiT) design, we analyse fine-grained geocoded data on Turkish soldier funerals and anti-Syrian riots in Turkey between 2016 and 2024. Our findings demonstrate an increase in the likelihood of ethnic riots in the immediate aftermath of soldier funerals. Qualitative process tracing based on firsthand observations of a crucial case, the 2020 Kahramanmara & scedil; riots, further supports our findings. Our study contributes to the literature on triggering events, ethnic riots, and collective punishment by demonstrating the causal role of emotionally charged nationalist focal events in sparking anti-minority violence.",
+  "authors": [
+    {
+      "raw": "Schulte, Felix",
+      "family": "Schulte",
+      "given": "Felix"
+    },
+    {
+      "raw": "Karakus, Dogukan Cansin",
+      "family": "Karakus",
+      "given": "Dogukan Cansin"
+    },
+    {
+      "raw": "Gokburun, Ibrahim",
+      "family": "Gokburun",
+      "given": "Ibrahim"
+    }
+  ],
+  "authors_text": "Schulte, Felix; Karakus, Dogukan Cansin; Gokburun, Ibrahim",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf031",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

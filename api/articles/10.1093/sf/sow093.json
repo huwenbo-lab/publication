@@ -1,0 +1,35 @@
+{
+  "title": "The Context of Voting: Does Neighborhood Ethnic Diversity Affect Turnout?",
+  "abstract": "With continuing immigration to Western countries, an important question concerns how these demographic changes impact natives' propensity to vote. In particular, the literature debates whether exposure to ethnic others in local contexts generates conflict that mobilizes individuals to vote (mobilization theory), diminishes social cohesion that in turn makes voters likely to withdraw from voting (marginalization theory), or does not impact turnout at all. This study is one of the first to investigate the question using individual-level longitudinal data, which adds substantially to the causal leverage of the analysis. In particular, we use a panel dataset with validated turnout data for 1.9 million Danish voters combined with detailed data regarding the ethnic composition of individuals' proximate residential neighborhood. The results suggest that increasing shares of immigrants does not affect natives' propensity to vote to any substantive extent, irrespective of how the size of the neighborhood is specified. This finding cannot be ascribed to lack of statistical power. Hereby, the study provides an important contribution to the existing knowledge regarding the democratic consequences of continuing immigration and increasing ethnic diversity.",
+  "authors": [
+    {
+      "raw": "Bhatti, Yosef",
+      "family": "Bhatti",
+      "given": "Yosef"
+    },
+    {
+      "raw": "Danckert, Bolette",
+      "family": "Danckert",
+      "given": "Bolette"
+    },
+    {
+      "raw": "Hansen, Kasper M.",
+      "family": "Hansen",
+      "given": "Kasper M."
+    }
+  ],
+  "authors_text": "Bhatti, Yosef; Danckert, Bolette; Hansen, Kasper M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sow093",
+  "doi_url": "https://doi.org/10.1093/sf/sow093",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow093",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow093.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

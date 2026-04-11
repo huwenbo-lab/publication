@@ -1,0 +1,25 @@
+{
+  "title": "Explaining Disability Trends in the United States, 1963-2015",
+  "abstract": "The National Health Interview Survey is the world's longest survey time series of health data. In spite of the availability of such a long time series, previous studies did not attempt to explain long-term trends in disability, because the design of the question in the survey has changed over time. To control for changes in the design of the question, I added two variables indicating major changes in the design to the analysis. My results show that the decline in mortality from cardiovascular disease is associated with the rise in disability in the 1970s, whereas better education is associated with the long-term decline in disability that started in the 1980s. Combined, the two variables are able to account for all major trends in disability at age 50-84 from 1963 to 2015, leaving limited room for other explanations. The statistical model predicts that the trend in falling disability rates will end as the rise in educational levels draws to a halt.",
+  "authors": [
+    {
+      "raw": "Schellekens, J. Jona",
+      "family": "Schellekens",
+      "given": "J. Jona"
+    }
+  ],
+  "authors_text": "Schellekens, J. Jona",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2019,
+  "doi": "10.1111/padr.12292",
+  "doi_url": "https://doi.org/10.1111/padr.12292",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12292",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12292.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

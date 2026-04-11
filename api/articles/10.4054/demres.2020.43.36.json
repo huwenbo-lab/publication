@@ -1,0 +1,30 @@
+{
+  "title": "The gender gap in the United States: Housework across racialized groups",
+  "abstract": "BACKGROUND Most resource-based theoretical frameworks in housework research are tested and further developed based on 'average' patterns. Consequently, in countries like the United States these frameworks rely heavily on the patterns among white women in relation to white men. As such, the resource-based factors identified by the frameworks may work to estimate the housework division of white Americans rather than any other groups, particularly racialized women and men. OBJECTIVE We test the extent to which resource-based factors such as time availability and income can account for the gender gap in housework participation among white, Black, and Latinx women and men in the United States. METHODS Using the Kitagawa-Oaxaca-Blinder decomposition method, we analyze time-use diaries from the 2003-2018 American Time Use Survey. RESULTS We find that resource-based factors account for the gender gap in housework participation only when there are substantial resource differences between the contrasted groups, the exception being when the comparison is made with Black Americans. The results also show that when any group of women is compared with Black men, resource-based factors have little explanatory power in the intergroup time gap in housework participation. CONCLUSIONS The findings imply that housework research may need to pay special attention to the diverse effects of gendering and racialization on the division of housework to avoid normalizing the theoretical frameworks that only work for the dominant white groups. CONTRIBUTION This study uses group-level decomposition analysis to compare how resource-based factors apply to the gender gap across racialized groups in the United States.",
+  "authors": [
+    {
+      "raw": "Kolpashnikova, Kamila",
+      "family": "Kolpashnikova",
+      "given": "Kamila"
+    },
+    {
+      "raw": "Kan, Man-Yee",
+      "family": "Kan",
+      "given": "Man-Yee"
+    }
+  ],
+  "authors_text": "Kolpashnikova, Kamila; Kan, Man-Yee",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.36",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.36",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.36",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.36.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

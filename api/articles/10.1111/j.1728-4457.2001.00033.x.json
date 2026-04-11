@@ -1,0 +1,30 @@
+{
+  "title": "Fertility, education, and development:: Evidence from India",
+  "abstract": "Fertility has declined significantly in many parts of India since the early 1980s. This article examines the determinants of fertility levels and fertility decline, using data on Indian districts for 1981 and 1991. The authors find that women's education and child mortality are the most important factors explaining fertility differences across the country and over time. Low levels of son preference also contribute to lower fertility. By contrast, general indicators of modernization and development such as urbanization, poverty reduction, and male literacy exhibit no significant association with fertility. En passant, the authors probe a subject of much confusion-the relation between fertility decline and gender bias.",
+  "authors": [
+    {
+      "raw": "Drèze, J",
+      "family": "Drèze",
+      "given": "J"
+    },
+    {
+      "raw": "Murthi, M",
+      "family": "Murthi",
+      "given": "M"
+    }
+  ],
+  "authors_text": "Drèze, J; Murthi, M",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2001,
+  "doi": "10.1111/j.1728-4457.2001.00033.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2001.00033.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2001.00033.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2001.00033.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

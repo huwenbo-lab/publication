@@ -1,0 +1,25 @@
+{
+  "title": "The Racial Gap in Employment and Layoffs during COVID-19 in the United States: A Visualization",
+  "abstract": "A large body of sociological research has shown that racial minorities and women experience significant disadvantages in the labor market. In this visualization, the author presents evidence from the Current Population Survey examining the effects of the coronavirus disease 2019 crisis on racial and gender inequalities in employment in the United States among prime-age workers. The author shows that the white-nonwhite gap in employment increased significantly during the post-outbreak period. Results from individual fixed-effects regression models show a strong white male advantage in the likelihood of being laid off for post-outbreak months compared with women, black men, Hispanic men, and Asian men.",
+  "authors": [
+    {
+      "raw": "Dias, Felipe A.",
+      "family": "Dias",
+      "given": "Felipe A."
+    }
+  ],
+  "authors_text": "Dias, Felipe A.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/2378023120988397",
+  "doi_url": "https://doi.org/10.1177/2378023120988397",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120988397",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120988397.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

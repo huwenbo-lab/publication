@@ -1,0 +1,35 @@
+{
+  "title": "Decomposing changes in household measures: Household size and services in South Africa, 1994-2012",
+  "abstract": "BACKGROUND Household trends are generally tracked by means of repeated cross-sections, such as censuses or nationally representative surveys. However, the trends may be driven either by changes within households over time or the way in which the processes of household formation/dissolution interact with the measure in question. OBJECTIVE We aim to develop a method that enables us to apportion changes in a household measure to changes that happen within households and changes that occur due to household formation and dissolution. In particular we intend to show how South African households have reduced in size and how access to services has increased. METHODS We develop a formula for decomposing a household outcome measure. We apply the formula to household size and electricity access data from the Agincourt health and demographic surveillance site for the period 1994 to 2012. We also apply it to the National Income Dynamics Survey of South Africa from 2008 to 2012. We compare the results to the pattern derived from nationally representative surveys run by Statistics South Africa since 1994. RESULTS The overall reduction in household size is fuelled by rapid household formation, much of which is intertwined with shifts in location. Access to services has been reduced by the process of new household formation. Neither finding is evident from cross-sectional data. CONTRIBUTION We introduce a new decomposition technique which can be used with longitudinal data and discuss the insights that it provides.",
+  "authors": [
+    {
+      "raw": "Wittenberg, Martin",
+      "family": "Wittenberg",
+      "given": "Martin"
+    },
+    {
+      "raw": "Collinson, Mark",
+      "family": "Collinson",
+      "given": "Mark"
+    },
+    {
+      "raw": "Harris, Tom",
+      "family": "Harris",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "Wittenberg, Martin; Collinson, Mark; Harris, Tom",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.39",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.39",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.39",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.39.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

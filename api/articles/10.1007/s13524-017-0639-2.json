@@ -1,0 +1,25 @@
+{
+  "title": "The Mexican Drug War and Early-Life Health: The Impact of Violent Crime on Birth Outcomes",
+  "abstract": "This study examines the relationship between exposure to violent crime in utero and birth weight using longitudinal data from a household survey conducted in Mexico. Controlling for selective migration and fertility, the results suggest that early gestational exposure to the recent escalation of the Mexican Drug War is associated with a substantial decrease in birth weight. This association is especially pronounced among children born to mothers of low socioeconomic status and among children born to mothers who score poorly on a mental health index.",
+  "authors": [
+    {
+      "raw": "Brown, Ryan",
+      "family": "Brown",
+      "given": "Ryan"
+    }
+  ],
+  "authors_text": "Brown, Ryan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-017-0639-2",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0639-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0639-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0639-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

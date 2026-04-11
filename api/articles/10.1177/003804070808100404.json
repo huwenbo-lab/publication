@@ -1,0 +1,30 @@
+{
+  "title": "Educational Attainment, Teacher-Student Ratios, and the Risk of Adult Incarceration Among US Birth Cohorts Since 1910",
+  "abstract": "Little is known about the relationship between school characteristics, such as teacher-student ratios, and the risk of incarceration in adulthood. Educational skeptics argue that investment in schools has little effect on outcomes, such as criminality or the risk of incarceration, because criminal propensities are fixed at an early age and organizational inefficiencies make public schools incapable of using resources effectively to alter students' outcomes. Some educational proponents contend that schools increasingly provide critical defining moments in the life course and that by improving economic opportunities and facilitating social control in schools, greater resources can directly reduce criminality and the risk of incarceration. This article uses previously unreleased U.S. census data to identify the increasing association between educational attainment and teacher-student ratios on individuals' risk of incarceration for five-year birth cohorts starting in 1910. On the basis of an elaborate fixed-effect control methodology, the authors find conditional support for the conclusion that educational resources-measured as teacher-student ratios-are associated with the reduced risk of adult incarceration. They assess the robustness of this conclusion by replicating the analysis using school-level measures of teacher-student ratios and longitudinal indicators of individual-level incarceration from the National Longitudinal Study of Youth.",
+  "authors": [
+    {
+      "raw": "Arum, Richard",
+      "family": "Arum",
+      "given": "Richard"
+    },
+    {
+      "raw": "LaFree, Gary",
+      "family": "LaFree",
+      "given": "Gary"
+    }
+  ],
+  "authors_text": "Arum, Richard; LaFree, Gary",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2008,
+  "doi": "10.1177/003804070808100404",
+  "doi_url": "https://doi.org/10.1177/003804070808100404",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070808100404",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070808100404.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

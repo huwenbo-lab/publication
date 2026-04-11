@@ -1,0 +1,35 @@
+{
+  "title": "Adaptive educational expectations: How do parental educational expectations respond to child academic performance in various family contexts?",
+  "abstract": "Parental educational expectations are well-studied in sociology of education and social stratification and mobility, but most literature conceptualizes these expectations as static or considers how they change only at key educational junctures such as educational transitions. Whether parental educational expectations adapt to child academic performance more generally, and what might be the key theoretical components in adaptation, are not well-conceptualized or tested. To address these limitations, we posit and test the concept of adaptive educational expectations. Our concept encompasses three key propositions: adaptability - parental expectations adapt to child academic performance; relative responsiveness - the adaptive response of parental expectations to child performance is larger in magnitude than the responsiveness of child performance to parental expectations; and heterogeneity - the adaptability of parental expectations varies across family contexts. We test the concept using the case of China, the largest education system in the world, with analyses of longitudinal data from the China Education Panel Survey. Findings show that parental expectations are more adaptive to child performance in low-SES families than in high-SES families and in rural areas than in nonrural areas, but there is no difference in adaptability by child gender and sibship size. These findings indicate that the adaptation of educational expectations is more shaped by socioeconomic circumstances than family demographics. Furthermore, the use of this concept reveals a hidden form of educational inequality that prior literature often neglects: compared with high-SES parents, low-SES parents not only hold lower educational expectations but are more likely to decrease their expectations when child academic performance declines, which further reduces their educational involvement. These findings illustrate the relevance of all three features of the adaptive educational expectations concept.",
+  "authors": [
+    {
+      "raw": "Shen, Wensong",
+      "family": "Shen",
+      "given": "Wensong"
+    },
+    {
+      "raw": "Hannum, Emily",
+      "family": "Hannum",
+      "given": "Emily"
+    },
+    {
+      "raw": "Cherng, Hua-Yu Sebastian",
+      "family": "Cherng",
+      "given": "Hua-Yu Sebastian"
+    }
+  ],
+  "authors_text": "Shen, Wensong; Hannum, Emily; Cherng, Hua-Yu Sebastian",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2024.103097",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103097",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103097",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103097.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Sisterhood and credible narratives: Gender-based ingroup bias in the asylum courtroom",
+  "abstract": "Asylum processes are often portrayed as influenced by gender-related factors. However, empirically ascertaining gender effects in asylum decisions has proven challenging. We study the presence of gender-based ingroup bias, the tendency of decision-makers to treat individuals of their own gender differently, in granting international protection status. Investigating Belgian data on 23,248 asylum appeals in Dutch-language proceedings between 2007 and 2020, we find evidence of positive gender-based ingroup bias (preferential treatment of applicants of the same gender) in judicial decisions. Remarkably, this positive ingroup bias is exclusively due to the favorable treatment of female asylum seekers by female judges. We find no evidence of preferential treatment of male applicants by male judges. Upon generating a machine-learning summary of the content of the verdict texts, we further show that the positive gender-based ingroup bias manifests most prominently when case circumstances require judges to pay particular attention to the credibility of the asylum seeker's narrative, that is, when the scope for judicial discretion is comparatively greatest. Our analysis therefore reveals a hitherto unexplored consequence of credibility considerations in asylum decision-making.",
+  "authors": [
+    {
+      "raw": "Vaes, Diego",
+      "family": "Vaes",
+      "given": "Diego"
+    },
+    {
+      "raw": "Bielen, Samantha",
+      "family": "Bielen",
+      "given": "Samantha"
+    },
+    {
+      "raw": "Grajzl, Peter",
+      "family": "Grajzl",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Vaes, Diego; Bielen, Samantha; Grajzl, Peter",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103162",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103162",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103162",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103162.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

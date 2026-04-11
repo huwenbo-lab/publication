@@ -1,0 +1,30 @@
+{
+  "title": "Competitive Food Sales in Schools and Childhood Obesity: A Longitudinal Study",
+  "abstract": "The vast majority of American middle schools and high schools sell what are known as competitive foods, such as soft drinks, candy bars, and chips, to children. The relationship between consumption of sugar-sweetened drinks and snacks and childhood obesity is well established, but it remains unknown whether competitive food sales in schools are related to unhealthy weight gain among children. The authors examined this association using data from the Early Childhood Longitudinal Study, Kindergarten Class. Employing fixed effects models and a natural experimental approach, they found that children's weight gain between fifth and eighth grades was not associated with the introduction or the duration of exposure to competitive food sales in middle school. Also, the relationship between competitive foods and weight gain did not vary significantly by gender, race/ethnicity, or family socioeconomic status, and it remained weak and insignificant across several alternative model specifications. One possible explanation is that children's food preferences and dietary patterns are firmly established before adolescence. Also, middle school environments may dampen the effects of competitive food sales because they so highly structure children's time and eating opportunities.",
+  "authors": [
+    {
+      "raw": "Van Hook, Jennifer",
+      "family": "Van Hook",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Altman, Claire E.",
+      "family": "Altman",
+      "given": "Claire E."
+    }
+  ],
+  "authors_text": "Van Hook, Jennifer; Altman, Claire E.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2012,
+  "doi": "10.1177/0038040711417011",
+  "doi_url": "https://doi.org/10.1177/0038040711417011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040711417011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040711417011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

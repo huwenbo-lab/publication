@@ -1,0 +1,35 @@
+{
+  "title": "(Not) Getting What You Deserve: How Misrecognized Evaluators Reproduce Misrecognition in Peer Evaluations",
+  "abstract": "In most evaluation systems-such as those governing the allocation of prestigious awards-the evaluator's primary task is to reward the highest quality candidates. However, these systems are imperfect; top performers may not be acknowledged and thus be underrecognized, and low performers may receive unwarranted recognition and thus be overrecognized. An important feature of many evaluation systems is that people alternate between being candidates and being evaluators. How does experiencing misrecognition as a candidate affect how people subsequently evaluate others? We develop novel theory that underrecognition and overrecognition lead people to reproduce those experiences when they are evaluators. Across three studies-a quasi-natural experiment and two preregistered, multistage experiments, we find that underrecognized evaluators are less likely to grant recognition to others-even to the highest-performing candidates. Conversely, overrecognized evaluators are more likely to grant rewards to others-even to the lowest-performing candidates. Whereas underrecognized evaluator behavior is driven by individuals' perceptions that their experience was unfair, overrecognized evaluator behavior is driven by the informational cues people glean on how to evaluate others. Thus, in evaluation processes where people oscillate between being the evaluated and being the evaluator, we show how and why seemingly innocuous initial inefficiencies are reproduced in subsequent evaluations.",
+  "authors": [
+    {
+      "raw": "Abraham, Mabel",
+      "family": "Abraham",
+      "given": "Mabel"
+    },
+    {
+      "raw": "Botelho, Tristan L.",
+      "family": "Botelho",
+      "given": "Tristan L."
+    },
+    {
+      "raw": "Carter, James T.",
+      "family": "Carter",
+      "given": "James T."
+    }
+  ],
+  "authors_text": "Abraham, Mabel; Botelho, Tristan L.; Carter, James T.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1177/00031224251318051",
+  "doi_url": "https://doi.org/10.1177/00031224251318051",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224251318051",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224251318051.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "In the Organization's Shadow: How Individual Behavior Is Shaped by Organizational Leakage",
+  "abstract": "Individuals who join an organization often adopt its characteristic behaviors, but does the same effect extend to nearby nonmembers, and is this process impeded or enhanced by the competition between organizations? This article argues that organizations influence the behavior of both members and proximate nonmembers in a process we term organizational leakage and that competition between organizations moderates the impact of any one of them on individual behavior. This article finds, using the Add Health data, that an individual's location in an organizational ecology is an important predictor of his or her behavior, even while controlling for other factors, including membership.",
+  "authors": [
+    {
+      "raw": "Brashears, Matthew E.",
+      "family": "Brashears",
+      "given": "Matthew E."
+    },
+    {
+      "raw": "Genkin, Michael",
+      "family": "Genkin",
+      "given": "Michael"
+    },
+    {
+      "raw": "Suh, Chan S.",
+      "family": "Suh",
+      "given": "Chan S."
+    }
+  ],
+  "authors_text": "Brashears, Matthew E.; Genkin, Michael; Suh, Chan S.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2017,
+  "doi": "10.1086/693703",
+  "doi_url": "https://doi.org/10.1086/693703",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F693703",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/693703.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

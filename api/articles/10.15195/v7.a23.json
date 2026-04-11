@@ -1,0 +1,30 @@
+{
+  "title": "Concept Class Analysis: A Method for Identifying Cultural Schemas in Texts",
+  "abstract": "Recent methodological work at the intersection of culture, cognition, and computational methods has drawn attention to how cultural schemas can be 'recovered' from social survey data. Defining cultural schemas as slowly learned, implicit, and unevenly distributed relational memory structures, researchers show how schemas—or rather, the downstream consequences of people drawing upon them—can be operationalized and measured from domain-specific survey modules. Respondents can then be sorted into 'classes' on the basis of the schema to which their survey response patterns best align. In this article, we extend this 'schematic class analysis' method to text data. We introduce concept class analysis (CoCA): a hybrid model that combines word embeddings and correlational class analysis to group documents across a corpus by the similarity of schemas recovered from them. We introduce the CoCA model, illustrate its validity and utility using simulations, and conclude with considerations for future research and applications.",
+  "authors": [
+    {
+      "raw": "Taylor, Marshall",
+      "family": "Taylor",
+      "given": "Marshall"
+    },
+    {
+      "raw": "Stoltz, Dustin",
+      "family": "Stoltz",
+      "given": "Dustin"
+    }
+  ],
+  "authors_text": "Taylor, Marshall; Stoltz, Dustin",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2020,
+  "doi": "10.15195/v7.a23",
+  "doi_url": "https://doi.org/10.15195/v7.a23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv7.a23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v7.a23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

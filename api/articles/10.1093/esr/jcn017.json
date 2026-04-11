@@ -1,0 +1,25 @@
+{
+  "title": "Social Inequality in Educational Participation in the German School System in a Longitudinal Perspective: Pathways into and out of the most Prestigious School Track",
+  "abstract": "According to the selection hypothesis as well as the life course hypothesis, as children get older, the influences of social origins decrease progressively at educational branching points. Other approaches discuss the idea that some parental characteristics lose their impact during the educational career, while others gain importance like financial resources because of the increasing opportunity costs. This empirical analysis concentrates on Germany and especially on the drop-out process in ‘Gymnasium’, as this school track starts at a very early age and opens the way to an academic career. The database is the German Socio Economic Panel study (SOEP). First, we estimate the probability that a child will attend the ‘Gymnasium’ immediately after primary school. In a second step, we model dropping-out of ‘Gymnasium’ in the following years. Students are more likely to quit if their previous probability of entering the ‘Gymnasium’ was low. In accordance with the selection hypothesis, the influence of social origins seems to be weaker here than during the decision to enter this school type. We also find some evidence that parents become less important for the drop-out process as children come of age, while the rising educational costs do not seem to be a relevant factor.",
+  "authors": [
+    {
+      "raw": "Schneider, T.",
+      "family": "Schneider",
+      "given": "T."
+    }
+  ],
+  "authors_text": "Schneider, T.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1093/esr/jcn017",
+  "doi_url": "https://doi.org/10.1093/esr/jcn017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

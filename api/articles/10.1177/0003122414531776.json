@@ -1,0 +1,35 @@
+{
+  "title": "Social Distance in the United States: Sex, Race, Religion, Age, and Education Homophily among Confidants, 1985 to 2004",
+  "abstract": "Homophily, the tendency for similar actors to be connected at a higher rate than dissimilar actors, is a pervasive social fact. In this article, we examine changes over a 20-year period in two types of homophily-the actual level of contact between people in different social categories and the level of contact relative to chance. We use data from the 1985 and 2004 General Social Surveys to ask whether the strengths of five social distinctions-sex, race/ethnicity, religious affiliation, age, and education-changed over the past two decades in core discussion networks. Changes in the actual level of homophily are driven by the demographic composition of the United States. As the nation has become more diverse, cross-category contacts in race/ethnicity and religion have increased. After describing the raw homophily rates, we develop a case-control model to assess homophily relative to chance mixing. We find decreasing rates of homophily for gender but stability for race and age, although the young are increasingly isolated from older cohorts outside of the family. We also find some weak evidence for increasing educational and religious homophily. These relational trends may be explained by changes in demographic heterogeneity, institutional segregation, economic inequality, and symbolic boundaries.",
+  "authors": [
+    {
+      "raw": "Smith, Jeffrey A.",
+      "family": "Smith",
+      "given": "Jeffrey A."
+    },
+    {
+      "raw": "McPherson, Miller",
+      "family": "McPherson",
+      "given": "Miller"
+    },
+    {
+      "raw": "Smith-Lovin, Lynn",
+      "family": "Smith-Lovin",
+      "given": "Lynn"
+    }
+  ],
+  "authors_text": "Smith, Jeffrey A.; McPherson, Miller; Smith-Lovin, Lynn",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122414531776",
+  "doi_url": "https://doi.org/10.1177/0003122414531776",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122414531776",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122414531776.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

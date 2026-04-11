@@ -1,0 +1,25 @@
+{
+  "title": "Placing Families in Context: Challenges for Cross-National Family Research",
+  "abstract": "Cross-national comparisons constitute a valuable strategy to assess how broader cultural, political, and institutional contexts shape family outcomes. One typical approach of cross-national family research is to use comparable data from a limited number of countries, fit similar regression models for each country, and compare results across country-specific models. Researchers increasingly are adopting a second approach, which requires merging data from many more societies and testing multilevel models using the pooled sample. Although the second approach has the advantage of allowing direct estimates of the effects of nation-level characteristics, it is more likely to suffer from the problems of omitted-variable bias, influential cases, and measurement and construct nonequivalence. The author discusses ways to improve the first approach's ability to infer macro-level influences as well as how to deal with challenges associated with the second one. She also suggests choosing analytical strategies according to whether the data meet multilevel models' assumptions.",
+  "authors": [
+    {
+      "raw": "Yu, Wei-hsin",
+      "family": "Yu",
+      "given": "Wei-hsin"
+    }
+  ],
+  "authors_text": "Yu, Wei-hsin",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12152",
+  "doi_url": "https://doi.org/10.1111/jomf.12152",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12152",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12152.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

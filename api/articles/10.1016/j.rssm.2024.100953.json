@@ -1,0 +1,25 @@
+{
+  "title": "Measurement invariance of subjective social status: The issue of single-item questions in social stratification research",
+  "abstract": "Measures of objective and subjective social status are commonly used in social stratification research. While objective measures have been extensively examined for cross-national comparability, subjective indicators have received less attention. This study aims to address this research gap by investigating the measurement invariance of the three most commonly used single-item measures of subjective social status across many countries. Using a Bayesian approximation approach, we analysed data from three waves of the International Social Survey Programme conducted between 1999 and 2019. The analyses showed that our composite measure is a relatively reliable and stable construct when compared internationally. However, some single-item measures were not invariant across countries or survey rounds, suggesting that the average of a given single measure of subjective status or the relationship between it and other variables should not be compared across countries. Finally, the study showed that a subjective status item with a 10-step numerical ladder seems to be more appropriate for cross-country comparisons, showing low variation across countries. To improve the validity of future research, we recommend that at least three questions measuring subjective social status be included in international questionnaires and that subjective status be used as a latent construct whenever possible and appropriate.",
+  "authors": [
+    {
+      "raw": "Raudenska, Petra",
+      "family": "Raudenska",
+      "given": "Petra"
+    }
+  ],
+  "authors_text": "Raudenska, Petra",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100953",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100953",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100953",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100953.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

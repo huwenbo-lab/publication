@@ -1,0 +1,40 @@
+{
+  "title": "Division of Labor Over the Life Course: Structural or Symbolic Pressures?",
+  "abstract": "Objective Do structural or symbolic pressures, as measured by work-family transitions, play a greater role in determining the gendered division of household labor?Background Scholars explain gendered divisions of household labor using structural (i.e., resource allocation; time availability) and symbolic explanations (i.e., gender as a social institution; doing gender). We concurrently tested these theories through the lens of major work-family transitions, which have been shown to impact household labor in previous research.Method We used two nationally representative, longitudinal datasets: The Panel Study of Income Dynamics (PSID) and National Survey of Families and Households (NSFH) to understand how work-family transitions impact male and female partners' household labor hours, as well as the proportion of housework performed by female partners. To do this, we used fixed effects models (PSID), lagged dependent variable models, and first difference change score models (NSFH).Results We found that parenthood and work transitions, transitions that exert structural pressure, were associated with female partners' proportion of housework. On the other hand, the transition from cohabitation to marriage and relationship tenure, measures that are more symbolic in nature, did not significantly impact male or female partners' household labor.Conclusion Overall, the structural pressures underlying work-family transitions appear to play a larger role in determining the division of household labor as compared to symbolic pressures.",
+  "authors": [
+    {
+      "raw": "Tabor, Jaclyn A.",
+      "family": "Tabor",
+      "given": "Jaclyn A."
+    },
+    {
+      "raw": "Mead, Cassie",
+      "family": "Mead",
+      "given": "Cassie"
+    },
+    {
+      "raw": "Oslawski-Lopez, Jamie",
+      "family": "Oslawski-Lopez",
+      "given": "Jamie"
+    },
+    {
+      "raw": "Grady, Rebecca K.",
+      "family": "Grady",
+      "given": "Rebecca K."
+    }
+  ],
+  "authors_text": "Tabor, Jaclyn A.; Mead, Cassie; Oslawski-Lopez, Jamie; Grady, Rebecca K.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70023",
+  "doi_url": "https://doi.org/10.1111/jomf.70023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

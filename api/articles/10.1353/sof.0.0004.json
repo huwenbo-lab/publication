@@ -1,0 +1,35 @@
+{
+  "title": "Gender, Body Size and Social Relations in American High Schools",
+  "abstract": "To investigate the role of body size in social networks, this study estimated cross-nested multilevel network models (p2) with longitudinal data from the 16 saturated schools in the National Longitudinal Study of Adolescent Health. As body mass index increased, the likelihood of being nominated by schoolmates as friends — but not the likelihood of nominating others as friends — decreased. This trend was more pronounced among girls. Moreover, similarity in body mass index strongly predicted friendship formation. These findings were not explained by correlates (e.g., academic achievement) of both body size and friendship dynamics. Thus, the connection between body size and high school social relations was largely a function of the stigmatization of heavier body sizes, especially for girls, and of homophily.",
+  "authors": [
+    {
+      "raw": "Crosnoe, R.",
+      "family": "Crosnoe",
+      "given": "R."
+    },
+    {
+      "raw": "Frank, K.",
+      "family": "Frank",
+      "given": "K."
+    },
+    {
+      "raw": "Mueller, A. S.",
+      "family": "Mueller",
+      "given": "A. S."
+    }
+  ],
+  "authors_text": "Crosnoe, R.; Frank, K.; Mueller, A. S.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2008,
+  "doi": "10.1353/sof.0.0004",
+  "doi_url": "https://doi.org/10.1353/sof.0.0004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

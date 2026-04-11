@@ -1,0 +1,30 @@
+{
+  "title": "Do couples who use fertility treatments divorce more? Evidence from the US National Survey of Family Growth",
+  "abstract": "BACKGROUND Undertaking fertility treatment is a stressful process and may lead to couple instability, but high levels of couple satisfaction have usually been observed during or just after treatment. However, the evidence on divorce is scarce.OBJECTIVES We investigated the association between the use of a wide range of fertility treatments and marital dissolution in a representative sample of American women in their first marriage. METHODS We applied discrete-time event history analysis to data from the US National Survey of Family Growth (NSFG), collected from 2002 through 2013-2015, to compare divorce rates among women who experienced successful treatments or unsuccessful treatments and a natural birth or no birth within the marriage (N = 13,784).RESULTS Women who used fertility treatments had a lower risk of divorce up to 20 years after the marriage, compared to the other groups. The probability was especially low when the treatment was successful, but women who did not conceive after the treatment also showed a lower risk of divorce.CONCLUSION We found evidence that undertaking fertility treatment is associated with a lower risk of divorce, suggesting that it might strengthen couples' relationships. The sociodemographic characteristics of couples undertaking treatment partly explained the association, but we were not able to control for the quality of the relationship before the treatment, which is likely to play a role.CONTRIBUTION Our study contributes to knowledge about the consequences of fertility treatment by comparing the long-term risk of divorce of women who have experienced successful and unsuccessful treatments, childless women, and those who have had a natural birth. Furthermore, it is the first to examine this in the US context.",
+  "authors": [
+    {
+      "raw": "Barbuscia, Anna",
+      "family": "Barbuscia",
+      "given": "Anna"
+    },
+    {
+      "raw": "Sironi, Maria",
+      "family": "Sironi",
+      "given": "Maria"
+    }
+  ],
+  "authors_text": "Barbuscia, Anna; Sironi, Maria",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.23",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

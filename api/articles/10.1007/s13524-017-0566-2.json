@@ -1,0 +1,30 @@
+{
+  "title": "New Evidence Against a Causal Marriage Wage Premium",
+  "abstract": "Recent research has shown that men's wages rise more rapidly than expected prior to marriage, but interpretations diverge on whether this indicates selection or a causal effect of anticipating marriage. We seek to adjudicate this debate by bringing together literatures on (1) the male marriage wage premium; (2) selection into marriage based on men's economic circumstances; and (3) the transition to adulthood, during which both union formation and unusually rapid improvements in work outcomes often occur. Using data from the National Longitudinal Survey of Youth 1979, we evaluate these perspectives. We show that wage declines predate rather than follow divorce, indicating no evidence that staying married benefits men's wages. We find that older grooms experience no unusual wage patterns at marriage, suggesting that the observed marriage premium may simply reflect co-occurrence with the transition to adulthood for younger grooms. We show that men entering shotgun marriages experience similar premarital wage gains as other grooms, casting doubt on the claim that anticipation of marriage drives wage increases. We conclude that the observed wage patterns are most consistent with men marrying when their wages are already rising more rapidly than expected and divorcing when their wages are already falling, with no additional causal effect of marriage on wages.",
+  "authors": [
+    {
+      "raw": "Killewald, Alexandra",
+      "family": "Killewald",
+      "given": "Alexandra"
+    },
+    {
+      "raw": "Lundberg, Ian",
+      "family": "Lundberg",
+      "given": "Ian"
+    }
+  ],
+  "authors_text": "Killewald, Alexandra; Lundberg, Ian",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0566-2",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0566-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0566-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0566-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

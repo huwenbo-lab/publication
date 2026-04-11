@@ -1,0 +1,40 @@
+{
+  "title": "Comparing Observed and Unobserved Components of Childhood: Evidence From Finnish Register Data on Midlife Mortality From Siblings and Their Parents",
+  "abstract": "In this study, we argue that the long arm of childhood that determines adult mortality should be thought of as comprising an observed part and its unobserved counterpart, reflecting the observed socioeconomic position of individuals and their parents and unobserved factors shared within a family. Our estimates of the observed and unobserved parts of the long arm of childhood are based on family-level variance in a survival analytic regression model, using siblings nested within families as the units of analysis. The study uses a sample of Finnish siblings born between 1936 and 1950 obtained from Finnish census data. Individuals are followed from ages 35 to 72. To explain familial influence on mortality, we use demographic background factors, the socioeconomic position of the parents, and the individuals' own socioeconomic position at age 35 as predictors of all-cause and cause-specific mortality. The observed part-demographic and socioeconomic factors, including region; number of siblings; native language; parents' education and occupation; and individuals' income, occupation, tenancy status, and education-accounts for between 10 % and 25 % of the total familial influence on mortality. The larger part of the influence of the family on mortality is not explained by observed individual and parental socioeconomic position or demographic background and thus remains an unobserved component of the arm of childhood. This component highlights the need to investigate the influence of childhood circumstances on adult mortality in a comprehensive framework, including demographic, social, behavioral, and genetic information from the family of origin.",
+  "authors": [
+    {
+      "raw": "Kroeger, Hannes",
+      "family": "Kroeger",
+      "given": "Hannes"
+    },
+    {
+      "raw": "Hoffmann, Rasmus",
+      "family": "Hoffmann",
+      "given": "Rasmus"
+    },
+    {
+      "raw": "Tarkiainen, Lasse",
+      "family": "Tarkiainen",
+      "given": "Lasse"
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    }
+  ],
+  "authors_text": "Kroeger, Hannes; Hoffmann, Rasmus; Tarkiainen, Lasse; Martikainen, Pekka",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-017-0635-6",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0635-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0635-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0635-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

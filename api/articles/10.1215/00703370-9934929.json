@@ -1,0 +1,40 @@
+{
+  "title": "Using Social Networks to Sample Migrants and Study the Complexity of Contemporary Immigration: An Evaluation Study",
+  "abstract": "We test the effectiveness of a link-tracing sampling approach-network sampling with memory (NSM)-to recruit samples of rare immigrant populations with an application among Chinese immigrants in the Raleigh-Durham area of North Carolina. NSM uses the population network revealed by data from the survey to improve the efficiency of link-tracing sampling and has been shown to substantially reduce design effects in simulated sampling. Our goals are to (1) show that it is possible to recruit a probability sample of a locally rare immigrant group using NSM and achieve high response rates; (2) demonstrate the feasibility of the collection and benefits of new forms of network data that transcend kinship networks in existing surveys and can address unresolved questions about the role of social networks in migration decisions, the maintenance of transnationalism, and the process of social incorporation; and (3) test the accuracy of the NSM approach for recruiting immigrant samples by comparison with the American Community Survey. Our results indicate feasibility, high performance, cost-effectiveness, and accuracy of the NSM approach to sample immigrants for studies of local immigrant communities. This approach can also be extended to recruit multisite samples of immigrants at origin and destination.",
+  "authors": [
+    {
+      "raw": "Merli, M. Giovanna",
+      "family": "Merli",
+      "given": "M. Giovanna"
+    },
+    {
+      "raw": "Mouw, Ted",
+      "family": "Mouw",
+      "given": "Ted"
+    },
+    {
+      "raw": "Le Barbenchon, Claire",
+      "family": "Le Barbenchon",
+      "given": "Claire"
+    },
+    {
+      "raw": "Stolte, Allison",
+      "family": "Stolte",
+      "given": "Allison"
+    }
+  ],
+  "authors_text": "Merli, M. Giovanna; Mouw, Ted; Le Barbenchon, Claire; Stolte, Allison",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9934929",
+  "doi_url": "https://doi.org/10.1215/00703370-9934929",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9934929",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9934929.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

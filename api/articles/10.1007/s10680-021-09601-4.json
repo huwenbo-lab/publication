@@ -1,0 +1,30 @@
+{
+  "title": "Heterogeneity in Family Life Course Patterns and Intra-Cohort Wealth Disparities in Late Working Age",
+  "abstract": "AbstractConsidering soaring wealth inequalities in older age, this research addresses the relationship between family life courses and widening wealth differences between individuals as they age. We holistically examine how childbearing and marital histories are associated with personal wealth at ages 50–59 for Western Germans born between 1943 and 1967. We propose that deviations from culturally and institutionally-supported family patterns, or the stratified access to them, associate with differential wealth accumulation over time and can explain wealth inequalities at older ages. Using longitudinal data from the German Socio-Economic Panel Study (SOEP, v34, waves 2002–2017), we first identified typical family trajectory patterns between ages 16 and 50 with multichannel sequence analysis and cluster analysis. We then modelled personal wealth ranks at ages 50–59 as a function of family patterns. Results showed that deviations from the standard family pattern (i.e. stable marriage with, on average, two children) were mostly associated with lower wealth ranks at older age, controlling for childhood characteristics that partly predict selection into family patterns and baseline wealth. We found higher wealth penalties for greater deviation and lower penalties for moderate deviation from the standard family pattern. Addressing entire family trajectories, our research extended and nuanced our knowledge of the role of earlier family behaviour for later economic wellbeing. By using personal-level rather than household-level wealth data, we were able to identify substantial gender differences in the study associations. Our research also recognised the importance of combining marital and childbearing histories to assess wealth inequalities.",
+  "authors": [
+    {
+      "raw": "Kapelle, Nicole",
+      "family": "Kapelle",
+      "given": "Nicole"
+    },
+    {
+      "raw": "Vidal, Sergi",
+      "family": "Vidal",
+      "given": "Sergi"
+    }
+  ],
+  "authors_text": "Kapelle, Nicole; Vidal, Sergi",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2021,
+  "doi": "10.1007/s10680-021-09601-4",
+  "doi_url": "https://doi.org/10.1007/s10680-021-09601-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-021-09601-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-021-09601-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Discrete Barker Frailty and Warped Mortality Dynamics at Older Ages",
+  "abstract": "We develop a discrete variant of a general model for adult mortality influenced by the delayed impact of early conditions on adult health and mortality. The discrete variant of the model builds on an intuitively appealing interpretation of conditions that induce delayed effects and is an extension of the discrete form of the standard frailty model with distinct implications. We show that introducing delayed effects is equivalent to perturbing adult mortality patterns with a particular class of time-/age-varying frailty. We emphasize two main results. First, populations with delayed effects could experience unchanging or increasing adult mortality even when background mortality has been declining for long periods of time. Although this phenomenon also occurs in a regime with standard frailty, the distortions can be more severe under a regime with Barker frailty. As a consequence, conventional interpretations of the observed rates of adult mortality decline in societies that experience Barker frailty may be inappropriate. Second, the observed rate of senescence (slope of adult mortality rates) in populations with delayed effects could increase, decrease, or remain steady over time and across adult ages even though the rate of senescence of the background age pattern of mortality is time- and age-invariant. This second result implies that standard interpretations of empirical estimates of the slope of adult mortality rates in populations with delayed effects may be misleading because they can reflect mechanisms other than those inducing senescence as conventionally understood in the literature.",
+  "authors": [
+    {
+      "raw": "Palloni, Alberto",
+      "family": "Palloni",
+      "given": "Alberto"
+    },
+    {
+      "raw": "Beltran-Sanchez, Hiram",
+      "family": "Beltran-Sanchez",
+      "given": "Hiram"
+    }
+  ],
+  "authors_text": "Palloni, Alberto; Beltran-Sanchez, Hiram",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0548-4",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0548-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0548-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0548-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

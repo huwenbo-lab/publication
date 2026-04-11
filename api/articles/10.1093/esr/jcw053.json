@@ -1,0 +1,25 @@
+{
+  "title": "Is Education a Risky Investment? The Scarring Effect of University Dropout in Sweden",
+  "abstract": "A number of theoretical models of educational decision-making assume that education is a risky investment, but the empirical evidence of those risks is scant. This article analyses the link between educational failure and future adverse outcomes using Swedish register data. Drawing on the concept of risk inherent in the Breen-Goldthorpe model of educational decision-making-that staying on in school and failing leads to downward mobility-this article estimates the risk of university dropout in terms of future labour market exclusion, where dropouts are compared to never entrants of tertiary education. To rule out unobserved differences between the groups, sibling fixed effects are paired with controls for ability, non-cognitive skills, and life course events. The results show scarring effects of university dropout on labour market marginalization, although the scarring effects are small. This lends some support for the assumption that entering higher levels of education involves a risk of downward mobility.",
+  "authors": [
+    {
+      "raw": "Hallsten, Martin",
+      "family": "Hallsten",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Hallsten, Martin",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcw053",
+  "doi_url": "https://doi.org/10.1093/esr/jcw053",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcw053",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcw053.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

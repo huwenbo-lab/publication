@@ -1,0 +1,25 @@
+{
+  "title": "From Policies to Principals: Tiered Influences on School-Level Coupling",
+  "abstract": "For decades, educational scholars have claimed that public schools are loosely coupled organizations, but research does not fully address how schools create the coupling structure. Recent federal policies have centralized the public education system, but state laws, districts, and principals still play a prominent role in shaping the organization of schools. In this paper, I investigate how the multiple tiers of the public education system influence the coupling structures of schools. Utilizing all seven waves of the Schools and Staffing Survey (SASS), I rely on OLS regression to analyze how couplings emerge within schools. Findings suggest three major influences on coupling within schools. First, federal policies have had a non-linear effect on school-level coupling. Second, the relationship between the district and the school affects school-level coupling. Finally, principals play a key role in shaping the coupling within the school, and coupling is a gendered process.",
+  "authors": [
+    {
+      "raw": "Paino, Maria",
+      "family": "Paino",
+      "given": "Maria"
+    }
+  ],
+  "authors_text": "Paino, Maria",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/sox075",
+  "doi_url": "https://doi.org/10.1093/sf/sox075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

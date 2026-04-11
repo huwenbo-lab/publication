@@ -1,0 +1,35 @@
+{
+  "title": "Family Histories and Teen Pregnancy in the United States and Canada",
+  "abstract": "Objective: This study took a long view of childhood experiences that can contribute to the risk of teen pregnancy in the United States and Canada, two countries with different norms and policies surrounding family life and inequality. Background: Teenage pregnancy is a major life experience arising from life course trajectories unfolding during a young woman's childhood. Cross-national comparisons can elucidate family-based pathways while embedding youth within broader national contexts of the United States and Canada, which are similar in some respects yet different in others. Method: Longitudinal data from the U.S. National Longitudinal Survey of Youth 1979 Young Adult Survey (n=3,122) and the Canadian National Longitudinal Survey of Children and Youth (n=2,517) connected childhood histories to teenage pregnancy. Competing risk models estimated the risk of teenage pregnancy with family structure changes and episodes in poverty during childhood. Results: Teenage pregnancy, family change, and poverty were more common in the United States. In the United States, only multiple experiences of instability and poverty were associated with greater risk of teenage pregnancy, but, in Canada, any experience of childhood disadvantage was associated with elevated risk. Conclusion: The risk of teen pregnancy was higher among both U.S. and Canadian adolescents from more unstable and economically insecure families and that link between cumulative experiences of childhood disadvantage and adolescent pregnancy was stronger in Canada. Implications: Policies and interventions to reduce teen pregnancy must address childhood socioeconomic disadvantage.",
+  "authors": [
+    {
+      "raw": "Smith, Chelsea",
+      "family": "Smith",
+      "given": "Chelsea"
+    },
+    {
+      "raw": "Strohschein, Lisa",
+      "family": "Strohschein",
+      "given": "Lisa"
+    },
+    {
+      "raw": "Crosnoe, Robert",
+      "family": "Crosnoe",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Smith, Chelsea; Strohschein, Lisa; Crosnoe, Robert",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2018,
+  "doi": "10.1111/jomf.12512",
+  "doi_url": "https://doi.org/10.1111/jomf.12512",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12512",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12512.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Degrees of Difference: Gender Segregation of U.S. Doctorates by Field and Program Prestige",
+  "abstract": "Women earn nearly half of doctoral degrees in research fields, yet doctoral education in the United States remains deeply segregated by gender. We argue that in addition to the oft-noted segregation of men and women by field of study, men and women may also be segregated across programs that differ in their prestige. Using data on all doctorates awarded in the United States from 2003 to 2014, field-specific program rankings, and field-level measures of math and verbal skills, we show that (1) 'net' field segregation is very high and strongly associated with field-level math skills; (2) 'net' prestige segregation is weaker than field segregation but still a nontrivial form of segregation in doctoral education; (3) women are underrepresented among graduates of the highest-and to a lesser extent, the lowest-prestige programs; and (4) the strength and pattern of prestige segregation varies substantially across fields, but little of this variation is associated with field skills.",
+  "authors": [
+    {
+      "raw": "Weeden, Kim",
+      "family": "Weeden",
+      "given": "Kim"
+    },
+    {
+      "raw": "Thébaud, Sarah",
+      "family": "Thébaud",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Gelbgiser, Dafna",
+      "family": "Gelbgiser",
+      "given": "Dafna"
+    }
+  ],
+  "authors_text": "Weeden, Kim; Thébaud, Sarah; Gelbgiser, Dafna",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2017,
+  "doi": "10.15195/v4.a6",
+  "doi_url": "https://doi.org/10.15195/v4.a6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv4.a6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v4.a6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

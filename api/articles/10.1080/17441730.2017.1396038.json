@@ -1,0 +1,35 @@
+{
+  "title": "Socio-demographic differences of disability prevalence among the population aged 60 years and over in Bangladesh",
+  "abstract": "This study aims to delineate the sociodemographic differences in disability prevalence across the population aged 60 years and over in Bangladesh, and to investigate the association of factors with reporting disability in later life. A microdata sample for those aged 60 years or over from the Census of Bangladesh 2011 was used where disability was assessed with a self-reported single response question. Logistic regression models were performed separately for men and women. Results reveal that the disability prevalence rate increased sharply with age, and it was higher among older women (5.2 per cent) compared to men (4.8 per cent). Physical and vision disabilities were the two categories with the highest prevalence of reported disabilities, with a higher prevalence of physical disability among men and vision disability among women. Being older, female, currently not in marital partnership, and having a lower educational attainment, not being employed, living alone, and residing in the rural areas were significantly associated with reporting disability in later life. The higher prevalence of disability among older women, those who are illiterate, and those residing in rural areas highlights the need for policies prioritising these groups. Special attention should also be given to those who are currently not in marital partnership, particularly women who are living alone.",
+  "authors": [
+    {
+      "raw": "Rahman, Mijanur",
+      "family": "Rahman",
+      "given": "Mijanur"
+    },
+    {
+      "raw": "Guntupalli, Aravinda Meera",
+      "family": "Guntupalli",
+      "given": "Aravinda Meera"
+    },
+    {
+      "raw": "Byles, Julie E.",
+      "family": "Byles",
+      "given": "Julie E."
+    }
+  ],
+  "authors_text": "Rahman, Mijanur; Guntupalli, Aravinda Meera; Byles, Julie E.",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2017,
+  "doi": "10.1080/17441730.2017.1396038",
+  "doi_url": "https://doi.org/10.1080/17441730.2017.1396038",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2017.1396038",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2017.1396038.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

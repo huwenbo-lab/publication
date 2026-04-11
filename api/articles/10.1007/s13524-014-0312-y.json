@@ -1,0 +1,35 @@
+{
+  "title": "Can Pro-Marriage Policies Work? An Analysis of Marginal Marriages",
+  "abstract": "AbstractPolicies to promote marriage are controversial, and it is unclear whether they are successful. To analyze such policies, one must distinguish between a marriage that is created by a marriage-promoting policy (marginal marriage) and a marriage that would have been formed even in the absence of a state intervention (average marriage). We exploit the suspension of a cash-on-hand marriage subsidy in Austria to examine the differential behavior of marginal and average marriages. The announcement of an impending suspension of this subsidy led to an enormous marriage boom among eligible couples that allows us to locate marginal marriages. Applying a difference-in-differences approach, we show that marginal marriages are surprisingly as stable as average marriages but produce fewer children, children later in marriage, and children who are less healthy at birth.",
+  "authors": [
+    {
+      "raw": "Frimmel, Wolfgang",
+      "family": "Frimmel",
+      "given": "Wolfgang"
+    },
+    {
+      "raw": "Halla, Martin",
+      "family": "Halla",
+      "given": "Martin"
+    },
+    {
+      "raw": "Winter-Ebmer, Rudolf",
+      "family": "Winter-Ebmer",
+      "given": "Rudolf"
+    }
+  ],
+  "authors_text": "Frimmel, Wolfgang; Halla, Martin; Winter-Ebmer, Rudolf",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0312-y",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0312-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0312-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0312-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Immigration and the Wage Distribution in the United States",
+  "abstract": "This article assesses the connection between immigration and wage inequality in the United States. Departing from the focus on how the average wages of different native groups respond to immigration, we examine how immigrants shape the overall wage distribution. Despite evidence indicating that an increased presence of low-skilled immigrants is associated with losses at the lower end of wage distribution, we do not observe a similar result between high-skilled immigrants and natives at the upper end. Instead, the presence of foreign-born workers, whether high- or low-skilled, is associated with substantial gains for high-wage natives, particularly those at the very top. Consequently, increased immigration is associated with greater wage dispersion.",
+  "authors": [
+    {
+      "raw": "Lin, Ken-Hou",
+      "family": "Lin",
+      "given": "Ken-Hou"
+    },
+    {
+      "raw": "Weiss, Inbar",
+      "family": "Weiss",
+      "given": "Inbar"
+    }
+  ],
+  "authors_text": "Lin, Ken-Hou; Weiss, Inbar",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00828-9",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00828-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00828-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00828-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

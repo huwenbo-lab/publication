@@ -1,0 +1,30 @@
+{
+  "title": "Adult children's union type and contact with mothers: A replication",
+  "abstract": "BACKGROUND Several studies show that cohabiting adult children have less frequent contact with their mothers than married adult children. We argue that these findings might be spurious due to confounding.OBJECTIVE Our aim is to replicate earlier research using more robust statistical instruments from the family of multi-level models with fixed effects, which are known to offer better control of omitted-variable bias. We also want to show the extent to which union-type effects vary across countries and by parenthood status. METHODS We use data from the SHARE survey. Mothers are the primary respondents and report on contact with all their children as well as on their children's union type. We apply mother-level fixed effects (i.e., within-mother comparisons) to see if the frequency of contact depends on the child's union type (distinguishing marriage and unmarried cohabitation).RESULTS We find no overall association between the adult child's union status and the frequency of intergenerational contact with the mother. While there are some differences across countries in this effect, these are uncorrelated with the prevalence of unmarried cohabitation, any typology of family systems, or the prevailing type of unmarried cohabitation.CONCLUSIONS We failed to replicate previously reported associations between children's union type and frequency of intergenerational contact. We conclude that the earlier findings are spurious and cannot be interpreted causally.CONTRIBUTION Unmarried cohabitations should not be seen as 'incomplete institutions.' Cohabitors are not excluded from family networks and intergenerational exchanges on the basis of their union status.",
+  "authors": [
+    {
+      "raw": "Kreidl, Martin",
+      "family": "Kreidl",
+      "given": "Martin"
+    },
+    {
+      "raw": "Zilincikova, Zuzana",
+      "family": "Zilincikova",
+      "given": "Zuzana"
+    }
+  ],
+  "authors_text": "Kreidl, Martin; Zilincikova, Zuzana",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.23",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

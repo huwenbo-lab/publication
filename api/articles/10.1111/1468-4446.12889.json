@@ -1,0 +1,25 @@
+{
+  "title": "Minding the curve: The influence of social origin on earnings inequality by education in Mexico",
+  "abstract": "Relying on data from the Mexican Mobility Survey for 2006, I evaluate by how much earnings inequality improves upon reducing the influence of social origin on educational attainment. A semiparametric estimation of a counterfactual distribution is used to simulate a distribution of earnings that is not overdetermined by the effect of social origin on education. The contrast between the simulated and the observed distribution reveals that social origin worsens inequality by inducing an earnings bonus. In particular, the earnings bonus associated with social origin, benefits most those with a high school degree or more. Those who have attained at most middle school obtain a small earnings bonus or none at all. Social origin's boosting of returns to education is most salient above the median of the earnings distribution and increases disproportionately above the 80th percentile. The results emphasize the importance of universal educational opportunities for reducing the effect of social origin on labor market outcomes. The absence of any indirect effect of social origin on the earnings of those with less than a high school education is not consistent with sociological perspectives that emphasize social reproduction mechanisms in explaining inter-generational persistence in the labor market.",
+  "authors": [
+    {
+      "raw": "Toro, Harold J.",
+      "family": "Toro",
+      "given": "Harold J."
+    }
+  ],
+  "authors_text": "Toro, Harold J.",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2021,
+  "doi": "10.1111/1468-4446.12889",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12889",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12889",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12889.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

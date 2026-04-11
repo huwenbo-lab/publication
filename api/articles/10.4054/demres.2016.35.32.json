@@ -1,0 +1,30 @@
+{
+  "title": "Cohabitation among secular Jews in Israel: How ethnicity, education, and employment characteristics are related to young adults' living arrangements",
+  "abstract": "BACKGROUND Economic and ideational theories offer various explanations for the roles of ethnicity, education, and employment characteristics in determining cohabitation behavior in various contexts. OBJECTIVE We focus on young, native-born secular Jewish adults in Israel, a subpopulation that has been shown to display Second Demographic Transition behaviors. Within this group we investigate whether a person's ethnicity, education, and employment characteristics are associated with their current living arrangements. METHODS We employ multinomial logit regression on a series of five annual data files from the Israeli Social Survey (ISS), 2005-2009. We consider the association between various explanatory variables and the odds of cohabitation vs. being married as well as the odds of cohabitation vs. being unpartnered. RESULTS Higher odds of cohabiting vs. being married are significantly associated with (1) tertiary education and student status, among men and women; (2) having accumulated fewer than five years of work experience, among men; (3) working full-time, among women; and (4) European-American ethnicity and being third-generation Israeli, among women. Higher odds of cohabiting vs. being unpartnered are significantly associated with (1) tertiary education and student status, among men; and (2) working full-time, among men. CONCLUSIONS We suggest that in Israel a multicausal model that accounts for both economic and ideational factors is appropriate. While limited work experience among men encourages cohabitation as an alternative to marriage, as suggested by some economic theories, associations between cohabitation and educational characteristics (among men and women) as well as ethnicity (among women) are more consistent with ideational theories.",
+  "authors": [
+    {
+      "raw": "Manor, Avital",
+      "family": "Manor",
+      "given": "Avital"
+    },
+    {
+      "raw": "Okun, Barbara S.",
+      "family": "Okun",
+      "given": "Barbara S."
+    }
+  ],
+  "authors_text": "Manor, Avital; Okun, Barbara S.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.32",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

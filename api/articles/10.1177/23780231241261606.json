@@ -1,0 +1,35 @@
+{
+  "title": "Home Price Change and Ethno-racial Residential Segregation: Temporal Relationships at the Metro Level",
+  "abstract": "Although rates of residential racial segregation and home prices are undoubtedly related, the temporal nature of the relationship has rarely been studied. Using fixed effects models in a cross-lagged framework, we examine how prior changes in segregation and home prices at the metro level predict changes in the other. Our findings suggest that increases in home prices predict increasing racial segregation years later, but increases in segregation fail to predict subsequent change in home values. Metros that experience a 1 standard deviation increase in home prices experience an associated 0.25 standard deviation increase in Black-White segregation 10 years later and a 0.18 standard deviation increase 20 years later. No relationship is observed for Hispanic-White segregation. We discuss implications for understanding the economic underpinnings of segregation. Findings also offer insight into future segregation trends and illuminate how changes in the housing market may drive demographic trends more broadly.",
+  "authors": [
+    {
+      "raw": "Mikulas, Alex",
+      "family": "Mikulas",
+      "given": "Alex"
+    },
+    {
+      "raw": "Beck, Brenden",
+      "family": "Beck",
+      "given": "Brenden"
+    },
+    {
+      "raw": "Besbris, Max",
+      "family": "Besbris",
+      "given": "Max"
+    }
+  ],
+  "authors_text": "Mikulas, Alex; Beck, Brenden; Besbris, Max",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241261606",
+  "doi_url": "https://doi.org/10.1177/23780231241261606",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241261606",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241261606.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

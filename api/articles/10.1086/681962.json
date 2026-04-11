@@ -1,0 +1,45 @@
+{
+  "title": "Do Different Methods for Modeling Age-Graded Trajectories Yield Consistent and Valid Results?",
+  "abstract": "Data on age-sequenced trajectories of individuals' attributes are used for a growing number of research purposes. However, there is no consensus about which method to use to identify the number of discrete trajectories in a population or to assign individuals to a specific trajectory group. The authors modeled real and simulated trajectory data using naive methods, optimal matching, grade of membership models, and three types of finite-mixture models. They found that these methods produced inferences about the number of trajectories that frequently differ (1) from one another and (2) from the truth as represented by simulation parameters. They also found that they differed in the assignment of individuals to trajectory groups. In light of these findings, the authors argue that researchers should interpret results based on these methods cautiously, neither reifying point estimates about the number of trajectories nor treating individuals' trajectory group assignments as certain.",
+  "authors": [
+    {
+      "raw": "Warren, John Robert",
+      "family": "Warren",
+      "given": "John Robert"
+    },
+    {
+      "raw": "Luo, Liying",
+      "family": "Luo",
+      "given": "Liying"
+    },
+    {
+      "raw": "Halpern-Manners, Andrew",
+      "family": "Halpern-Manners",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Raymo, James M.",
+      "family": "Raymo",
+      "given": "James M."
+    },
+    {
+      "raw": "Palloni, Alberto",
+      "family": "Palloni",
+      "given": "Alberto"
+    }
+  ],
+  "authors_text": "Warren, John Robert; Luo, Liying; Halpern-Manners, Andrew; Raymo, James M.; Palloni, Alberto",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2015,
+  "doi": "10.1086/681962",
+  "doi_url": "https://doi.org/10.1086/681962",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F681962",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/681962.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Internal Migration and the Role of Intergenerational Family Ties and Life Events",
+  "abstract": "Objective This article examines how the migration behavior of older parents and adult children might be influenced by the geographical configuration of nonresident family networks and the emergence of linked life events. Background Researchers have long pointed to the importance of intrahousehold family events as triggers for migration, yet few have detailed how choices over whether, when, and where to migrate are formed with reference to significant others outside of the household. Method Utilizing geocoded register data for Norway, we identified intergenerational family networks comprising older parents (aged 55+) and their nonresident adult children living 20 km or more apart. We recorded the presence and location of various family ties, the occurrence of several life events, and analyzed their association with the propensity and direction of migration using multinomial logistic regression. Results Approximately 40% of all recorded migration events (>= 20 km) were directed toward familial locations (i.e., within 10 km of a parent/adult child). The attractiveness of familial locations was strengthened by the colocation of multiple family members and increased with the emergence of life events typically linked to increased support-needs (e.g., separation, widowhood, and childbirth). Beyond these general patterns, variations existed according to social class, immigrant background, and gender. Conclusion With the estimated coefficients for nonresident family ties appearing larger than many conventional predictors of migration, we call for far more attention to be paid to the links between kinship networks, care provision, and migration in contemporary society.",
+  "authors": [
+    {
+      "raw": "Thomas, Michael J.",
+      "family": "Thomas",
+      "given": "Michael J."
+    },
+    {
+      "raw": "Dommermuth, Lars",
+      "family": "Dommermuth",
+      "given": "Lars"
+    }
+  ],
+  "authors_text": "Thomas, Michael J.; Dommermuth, Lars",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12678",
+  "doi_url": "https://doi.org/10.1111/jomf.12678",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12678",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12678.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

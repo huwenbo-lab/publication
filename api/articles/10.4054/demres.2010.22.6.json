@@ -1,0 +1,50 @@
+{
+  "title": "Estimation of multi-state life table functions and their variability from complex survey data using the SPACE Program",
+  "abstract": "The multistate life table (MSLT) model is an important demographic method to document life cycle processes. In this paper, we present the SPACE (Stochastic Population Analysis for Complex Events) program to estimate MSLT functions and their sampling variability. It has several advantages over other programs, including the use of micro-simulation and the bootstrap method to estimate the variance of MSLT functions. Simulation enables researchers to analyze a broader array of statistics than the deterministic approach, and may be especially advantageous in investigating distributions of MSLT functions. The bootstrap method takes sample design into account to correct the potential bias in variance estimates.",
+  "authors": [
+    {
+      "raw": "Cai, Liming",
+      "family": "Cai",
+      "given": "Liming"
+    },
+    {
+      "raw": "Hayward, Mark D.",
+      "family": "Hayward",
+      "given": "Mark D."
+    },
+    {
+      "raw": "Saito, Yasuhiko",
+      "family": "Saito",
+      "given": "Yasuhiko"
+    },
+    {
+      "raw": "Lubitz, James",
+      "family": "Lubitz",
+      "given": "James"
+    },
+    {
+      "raw": "Hagedorn, Aaron",
+      "family": "Hagedorn",
+      "given": "Aaron"
+    },
+    {
+      "raw": "Crimmins, Eileen",
+      "family": "Crimmins",
+      "given": "Eileen"
+    }
+  ],
+  "authors_text": "Cai, Liming; Hayward, Mark D.; Saito, Yasuhiko; Lubitz, James; Hagedorn, Aaron; Crimmins, Eileen",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.22.6",
+  "doi_url": "https://doi.org/10.4054/demres.2010.22.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.22.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.22.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

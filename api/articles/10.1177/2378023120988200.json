@@ -1,0 +1,45 @@
+{
+  "title": "Remote or Removed: Predicting Successful Engagement with Online Learning during COVID-19",
+  "abstract": "Using data from a spring 2020 survey of nearly 10,000 parents of elementary school parents in one large southeastern public school district, the authors investigate predictors of elementary school student engagement during the initial period of pandemic remote learning. The authors hypothesize that household material and technological resources, school programming and instructional strategies, and family social capital contribute to student engagement in remote learning. The analyses indicate that even after controlling for rich measures of family socioeconomic resources, students with access to high-speed Internet and Internet-enabled devices have higher levels of engagement. Exposure to more diverse socioemotional and academic learning opportunities further predicts higher levels of engagement. In addition, students whose families remained socially connected to other students’ families were more likely to engage online.",
+  "authors": [
+    {
+      "raw": "Domina, Thurston",
+      "family": "Domina",
+      "given": "Thurston"
+    },
+    {
+      "raw": "Renzulli, Linda",
+      "family": "Renzulli",
+      "given": "Linda"
+    },
+    {
+      "raw": "Murray, Brittany",
+      "family": "Murray",
+      "given": "Brittany"
+    },
+    {
+      "raw": "Garza, Alma Nidia",
+      "family": "Garza",
+      "given": "Alma Nidia"
+    },
+    {
+      "raw": "Perez, Lysandra",
+      "family": "Perez",
+      "given": "Lysandra"
+    }
+  ],
+  "authors_text": "Domina, Thurston; Renzulli, Linda; Murray, Brittany; Garza, Alma Nidia; Perez, Lysandra",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/2378023120988200",
+  "doi_url": "https://doi.org/10.1177/2378023120988200",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120988200",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120988200.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Explaining Participation Differentials in Dutch Higher Education: The Impact of Subjective Success Probabilities on Level Choice and Field Choice",
+  "abstract": "In this article we examine whether subjective estimates of success probabilities explain the effect of social origin, sex, and ethnicity on students' choices between different school tracks in Dutch higher education. The educational options analysed differ in level (i.e. university versus professional college) and fields of study (i.e. science versus non-science). First we analyse students' self-assessed success probabilities for specific tracks in higher education. We hypothesize that differences in demonstrated academic ability explain these perceived success probabilities. Next, we test whether these success probabilities contribute to explaining educational decisions and differentials herein with respect to social background, sex, and ethnicity. We use the Dutch Participation in Higher Education dataset wave 1995 and 1997 to answer our questions. Success probabilities differ across social origins, between men and women, and across ethnic groups, even after controlling for ability differences. Success probabilities contribute to the explanatory model for school transition decisions which differ by field of study and level of schooling. They also help to explain social origin and sex-based differentials in field choice, but not in level choice. Ability is not a sufficient indicator for self-perceived success probabilities: success probabilities explain educational differentials better than ability.",
+  "authors": [
+    {
+      "raw": "Tolsma, J.",
+      "family": "Tolsma",
+      "given": "J."
+    },
+    {
+      "raw": "Need, A.",
+      "family": "Need",
+      "given": "A."
+    },
+    {
+      "raw": "de Jong, U.",
+      "family": "de Jong",
+      "given": "U."
+    }
+  ],
+  "authors_text": "Tolsma, J.; Need, A.; de Jong, U.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcp061",
+  "doi_url": "https://doi.org/10.1093/esr/jcp061",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcp061",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcp061.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

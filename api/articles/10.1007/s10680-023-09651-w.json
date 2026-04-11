@@ -1,0 +1,40 @@
+{
+  "title": "Double Disadvantage in a Nordic Welfare State: A Demographic Analysis of the Single-Parent Employment Gap in Finland, 1987–2018",
+  "abstract": "AbstractThis study demonstrates how an evolving negative educational gradient of single parenthood can interact with changing labour market conditions to shape labour market inequalities between partnered and single parents. We analysed trends in employment rates among Finnish partnered and single mothers and fathers from 1987 to 2018. In the late 1980s’ Finland, single mothers’ employment was internationally high and on par with that of partnered mothers, and single fathers’ employment rate was just below that of partnered fathers. The gaps between single and partnered parents emerged and increased during the 1990s recession, and after the 2008 economic crisis, it widened further. In 2018, the employment rates of single parents were 11–12 percentage points lower than those of partnered parents. We ask how much of this single-parent employment gap could be explained by compositional factors, and the widening educational gradient of single parenthood in particular. We use Chevan and Sutherland’s decomposition technique on register data, which allows us to decompose the single-parent employment gap into the composition and rate effects by each category of the background variables. The findings point to an increasing double disadvantage of single parents: the gradually evolving disadvantage in educational backgrounds together with large differences in employment rates between single and partnered parents with low education explain large parts of the widening employment gap. Sociodemographic changes in interaction with changes in the labour market can produce inequalities by family structure in a Nordic society known for its extensive support for combining childcare and employment for all parents.",
+  "authors": [
+    {
+      "raw": "Härkönen, Juho",
+      "family": "Härkönen",
+      "given": "Juho"
+    },
+    {
+      "raw": "Jalovaara, Marika",
+      "family": "Jalovaara",
+      "given": "Marika"
+    },
+    {
+      "raw": "Lappalainen, Eevi",
+      "family": "Lappalainen",
+      "given": "Eevi"
+    },
+    {
+      "raw": "Miettinen, Anneli",
+      "family": "Miettinen",
+      "given": "Anneli"
+    }
+  ],
+  "authors_text": "Härkönen, Juho; Jalovaara, Marika; Lappalainen, Eevi; Miettinen, Anneli",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2023,
+  "doi": "10.1007/s10680-023-09651-w",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09651-w",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09651-w",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09651-w.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

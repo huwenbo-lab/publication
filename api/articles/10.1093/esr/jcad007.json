@@ -1,0 +1,35 @@
+{
+  "title": "Professors' gender biases in assessing applicants for professorships",
+  "abstract": "Recent evidence suggests that women are more likely to be selected for professorships when they apply. This female advantage may be partly due to the widely promoted gender-equality policy of having a substantial female quota in selection committees. Yet, research has rarely considered whether male and female committee members evaluate applicants for professorships differently. We address this research gap based on a large factorial survey experiment with German university professors from different disciplines. We asked these professors to rate how qualified hypothetical applicants are for full professorships and the likelihood of inviting these applicants for a job interview. We find that female applicants have an modest advantage both in their perceived qualifications and in their likelihood of being invited-with no differences between the male and female professors assessing them. Importantly, however, the female advantage in invitation does not apply to highly qualified female applicants but only to female applicants with low and mediocre perceived qualifications-again, there is no difference between male and female professors. Moreover, our analyses do not indicate a Matilda effect, that is, we do not find a co-authorship penalty for female applicants.",
+  "authors": [
+    {
+      "raw": "Solga, Heike",
+      "family": "Solga",
+      "given": "Heike"
+    },
+    {
+      "raw": "Rusconi, Alessandra",
+      "family": "Rusconi",
+      "given": "Alessandra"
+    },
+    {
+      "raw": "Netz, Nicolai",
+      "family": "Netz",
+      "given": "Nicolai"
+    }
+  ],
+  "authors_text": "Solga, Heike; Rusconi, Alessandra; Netz, Nicolai",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad007",
+  "doi_url": "https://doi.org/10.1093/esr/jcad007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

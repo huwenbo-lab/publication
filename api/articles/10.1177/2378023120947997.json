@@ -1,0 +1,40 @@
+{
+  "title": "Early Signs Indicate That COVID-19 Is Exacerbating Gender Inequality in the Labor Force",
+  "abstract": "In this data visualization, the authors examine how the coronavirus disease 2019 (COVID-19) crisis in the United States has affected labor force participation, unemployment, and work hours across gender and parental status. Using data from the Current Population Survey, the authors compare estimates between February and April 2020 to examine the period of time before the COVID-19 outbreak in the United States to the height of the first wave, when stay-at-home orders were issued across the country. The findings illustrate that women, particularly mothers, have employment disproportionately affected by COVID-19. Mothers are more likely than fathers to exit the labor force and become unemployed. Among heterosexual married couples of which both partners work in telecommuting-capable occupations, mothers have scaled back their work hours to a far greater extent than fathers. These patterns suggest that the COVID-19 crisis is already worsening existing gender inequality, with long-term implications for women’s employment.",
+  "authors": [
+    {
+      "raw": "Landivar, Liana Christin",
+      "family": "Landivar",
+      "given": "Liana Christin"
+    },
+    {
+      "raw": "Ruppanner, Leah",
+      "family": "Ruppanner",
+      "given": "Leah"
+    },
+    {
+      "raw": "Scarborough, William J.",
+      "family": "Scarborough",
+      "given": "William J."
+    },
+    {
+      "raw": "Collins, Caitlyn",
+      "family": "Collins",
+      "given": "Caitlyn"
+    }
+  ],
+  "authors_text": "Landivar, Liana Christin; Ruppanner, Leah; Scarborough, William J.; Collins, Caitlyn",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120947997",
+  "doi_url": "https://doi.org/10.1177/2378023120947997",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120947997",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120947997.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

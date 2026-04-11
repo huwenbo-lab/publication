@@ -1,0 +1,25 @@
+{
+  "title": "The Causal Impact of Segregation on a Disparity: A Gap-Closing Approach",
+  "abstract": "Segregation-whether across schools, neighborhoods, or occupations-is regularly invoked as a cause of social and economic disparities. But segregation is a complicated causal treatment: what do we mean when we appeal to a world in which segregation does not exist? One could take societal contexts as the unit of analysis and compare across societies with differing levels of segregation. In practice, it is more common for studies of segregation to take persons or households as the unit of analysis within a single societal context, focusing on what would happen if particular individuals were counterfactually assigned to social positions in a more equitable way. Taking this latter framework, this paper shows how to study segregation as a cause. The first step is to theorize a counterfactual assignment rule: what would it mean to assign people to social positions equitably? The second step is to identify the causal effect of those social positions and simulate counterfactual outcomes. The third step is to interpret results as the impact of a unit-level (rather than society-level) intervention. A running example and empirical analysis illustrates the approach by studying the causal effect of occupational segregation on a racial health gap.",
+  "authors": [
+    {
+      "raw": "Lundberg, Ian",
+      "family": "Lundberg",
+      "given": "Ian"
+    }
+  ],
+  "authors_text": "Lundberg, Ian",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a35",
+  "doi_url": "https://doi.org/10.15195/v12.a35",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a35",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a35.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Goldin’s Last Chapter on the Gender Pay Gap: An Exploratory Analysis Using Italian Data",
+  "abstract": "This article explores the application to Italy of Goldin’s hypothesis that the unexplained gender pay gap is crucially linked to firms’ incentive to disproportionately reward individuals who work long and particular hours. The study draws mainly on Italian responses to the 2014 European Structure of Earnings Survey for data on earnings and the individual characteristics of employees and their employer, but also uses data from the Occupational Information Network and the Italian Sample Survey on Professions to measure characteristics reflecting the work context within occupations. For graduate and non-graduate workers, the results reveal a positive relationship between various measures of the unexplained gender pay gap and the elasticity of earnings with respect to work hours. For graduate workers, in accordance with Goldin’s hypothesis, both these variables are correlated with the occupational characteristics that impose earnings penalties on workers seeking more workplace flexibility.",
+  "authors": [
+    {
+      "raw": "Destefanis, Sergio",
+      "family": "Destefanis",
+      "given": "Sergio"
+    },
+    {
+      "raw": "Mazzotta, Fernanda",
+      "family": "Mazzotta",
+      "given": "Fernanda"
+    },
+    {
+      "raw": "Parisi, Lavinia",
+      "family": "Parisi",
+      "given": "Lavinia"
+    }
+  ],
+  "authors_text": "Destefanis, Sergio; Mazzotta, Fernanda; Parisi, Lavinia",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2023,
+  "doi": "10.1177/09500170221143724",
+  "doi_url": "https://doi.org/10.1177/09500170221143724",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170221143724",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170221143724.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

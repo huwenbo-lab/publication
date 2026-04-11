@@ -1,0 +1,30 @@
+{
+  "title": "Completed U.S. Fertility by Sex, Cohort, and Education Level",
+  "abstract": "This visualization shows the relationship between completed fertility and education across five decades of cohorts in the United States using data from the General Social Survey. Across these cohorts, the educational gradient of fewer children for those with more education is stronger for women than for men. The gradient has become less steep across cohorts as the gap between people with medium and high levels of education has narrowed. Those without high school degrees have the highest fertility rates at all times, but this group represents a decreasing share of the population as educational levels rise over time. Thus, the educational gradient in completed fertility persists but has become less important for overall fertility patterns.",
+  "authors": [
+    {
+      "raw": "Hudde, Ansgar",
+      "family": "Hudde",
+      "given": "Ansgar"
+    },
+    {
+      "raw": "Cohen, Philip N.",
+      "family": "Cohen",
+      "given": "Philip N."
+    }
+  ],
+  "authors_text": "Hudde, Ansgar; Cohen, Philip N.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241261610",
+  "doi_url": "https://doi.org/10.1177/23780231241261610",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241261610",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241261610.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

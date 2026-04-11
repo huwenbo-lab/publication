@@ -1,0 +1,30 @@
+{
+  "title": "Parental status homogeneity in social networks: The role of homophilous tie selection in Germany",
+  "abstract": "OBJECTIVEWe study network selection regarding parenthood status based on large-scale panel data on social networks in Germany. BACKGROUNDPrevious studies find that members of social networks tend to influence each other regarding the likelihood and timing of births. However, less evidence exists as to whether and how individuals actively select their network ties according to parental status. Hence, we explicitly study both the discontinuation of existing ties and formation of new ties.METHODOur analyses are based on data from waves 2 and 4 of the German Family Panel (Pairfam, up to N = 36,352 ego-alter relationships). We use a record linkage procedure to match network persons longitudinally and estimate multilevel random and fixed-effect multinomial regression models.RESULTSWe find weak evidence that young children increase the likelihood that existing social network relationships are discontinued and strong evidence that young children decrease the likelihood that new network relationships are initiated. Further, we find homophily effects regarding parental status in that both childless respondents and parents who recently had a child are less likely to dissolve ties to alters with the same parental status, respectively. Among women, homophily in parenthood status also increases the likelihood of establishing a new social network relationship.CONTRIBUTIONBy considering tie selection on the relationship level in ego-centered networks, our findings shed more light on the phenomenon of social alignment in networks regarding fertility behavior.",
+  "authors": [
+    {
+      "raw": "Lois, Daniel",
+      "family": "Lois",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Becker, Oliver Arranz",
+      "family": "Becker",
+      "given": "Oliver Arranz"
+    }
+  ],
+  "authors_text": "Lois, Daniel; Becker, Oliver Arranz",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.2",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

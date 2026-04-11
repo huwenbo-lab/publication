@@ -1,0 +1,35 @@
+{
+  "title": "Religion and Racial Bias in Artificial Intelligence Large Language Models",
+  "abstract": "Artificial intelligence large language models (LLMs) have been shown to replicate social and cultural biases that exist in their training data, particularly with regard to race and gender. The authors examine if LLMs hold implicit assumptions with regard to religious identities. The authors prompted multiple LLMs to generate a total of 175 religious sermons, specifying different combinations of race and religious tradition of the clergyperson. The synthetically generated sermons were fed into a readability analyzer and given several commonly used readability scores. The authors analyzed this dataset of readability scores using bivariate and multivariate analyses. LLMs generated sermon texts that varied in readability. Evangelical Protestant pastors had easier to read artificial intelligence–generated sermons, whereas Jewish rabbis and Muslim imams had more difficult to read synthetic texts. There were no significant differences in readability across ethnoracial groups; however, all prompts specifying a race/ethnicity generated more difficult to read synthetic text than those with no ethnoracial group specified. As LLMs continue to expand in accessibility and capability, it is important to continue to monitor the ways they may sustain social biases across a variety of identities and group memberships.",
+  "authors": [
+    {
+      "raw": "Tom, Joshua C.",
+      "family": "Tom",
+      "given": "Joshua C."
+    },
+    {
+      "raw": "Ferguson, Todd W.",
+      "family": "Ferguson",
+      "given": "Todd W."
+    },
+    {
+      "raw": "Martinez, Brandon C.",
+      "family": "Martinez",
+      "given": "Brandon C."
+    }
+  ],
+  "authors_text": "Tom, Joshua C.; Ferguson, Todd W.; Martinez, Brandon C.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251377210",
+  "doi_url": "https://doi.org/10.1177/23780231251377210",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251377210",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251377210.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

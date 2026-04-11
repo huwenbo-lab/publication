@@ -1,0 +1,35 @@
+{
+  "title": "Further Evidence of Within-Marriage Fertility Control in Pre-Transitional England",
+  "abstract": "The identification of parity effects on the hazard of a next birth in cross-family data requires accounting for heterogeneity in fecundity across couples. In a previously published article, Cinnirella et al. Demography, 54, 413-436 (2017), we stratified duration models at the maternal level for this purpose and found that the hazard of a next birth decreases with rising parity in historical England. Clark and Cummins Demography, 56 (2019) took issue with this finding, claiming that the result is a statistical artifact caused by stratification at the maternal level. This reply documents that our previous finding is robust to addressing Clark and Cummins' critique.",
+  "authors": [
+    {
+      "raw": "Cinnirella, Francesco",
+      "family": "Cinnirella",
+      "given": "Francesco"
+    },
+    {
+      "raw": "Klemp, Marc",
+      "family": "Klemp",
+      "given": "Marc"
+    },
+    {
+      "raw": "Weisdorf, Jacob",
+      "family": "Weisdorf",
+      "given": "Jacob"
+    }
+  ],
+  "authors_text": "Cinnirella, Francesco; Klemp, Marc; Weisdorf, Jacob",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00787-1",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00787-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00787-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00787-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

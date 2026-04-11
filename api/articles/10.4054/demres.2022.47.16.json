@@ -1,0 +1,40 @@
+{
+  "title": "Legal status and health disparities: An examination of health insurance coverage among the foreign-born",
+  "abstract": "OBJECTIVE This paper employs a statistical matching procedure to impute the legal status of foreign -born adults in US Census surveys in order to estimate migration status disparities in health insurance coverage.METHODS Using data from the Survey of Income and Program Participation, we impute the legal/citizenship (migration) status of immigrants in the National Health Interview Survey.RESULTS Results from the pooled data document disparities in health insurance coverage among four citizen/legal status groups: naturalized citizens, lawful permanent residents, legal nonimmigrants, and unauthorized immigrants. Naturalized citizens had the highest rate of health insurance coverage, followed by legal immigrants, legal nonimmigrants, and unauthorized immigrants. CONTRIBUTIONS The paper presents revised pre-Affordable Care Act (ACA) estimates of health insurance coverage among the foreign-born that are crucial for evaluating the impact of the ACA on reducing or exacerbating disparities in health coverage among migration status groups.",
+  "authors": [
+    {
+      "raw": "Hamilton, Christal",
+      "family": "Hamilton",
+      "given": "Christal"
+    },
+    {
+      "raw": "Altman, Claire",
+      "family": "Altman",
+      "given": "Claire"
+    },
+    {
+      "raw": "Bachmeier, James D.",
+      "family": "Bachmeier",
+      "given": "James D."
+    },
+    {
+      "raw": "Spence, Cody",
+      "family": "Spence",
+      "given": "Cody"
+    }
+  ],
+  "authors_text": "Hamilton, Christal; Altman, Claire; Bachmeier, James D.; Spence, Cody",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.16",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

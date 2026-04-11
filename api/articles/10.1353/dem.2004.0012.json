@@ -1,0 +1,35 @@
+{
+  "title": "Union formation in fragile families",
+  "abstract": "AbstractIn this article, we use data from a new longitudinal survey—the Fragile Families and Child Wellbeing Study—to examine union formation among unmarried parents who have just had a child together. We used multinomial logistic regression to estimate the effects of economic, cultural/interpersonal, and other factors on whether (relative to having no romantic relationship) parents are romantically involved and living apart, cohabiting, or married to each other about one year after the child’s birth. Net of other factors (including baseline relationship status), women’s education and men’s earnings encourage marriage. Cultural and interpersonal factors also have strong effects: women’s trust of men, both parents’ positive attitudes toward marriage, and both parents’ assessment of the supportiveness in their relationship encourage marriage. Supportiveness also encourages cohabitation, while fathers having a problem with alcohol or drugs and reporting higher conflict in the relationship discourage cohabitation. Fathers’ physical violence deters couples’ remaining in romantic nonresident relationships.",
+  "authors": [
+    {
+      "raw": "Carlson, Marcia",
+      "family": "Carlson",
+      "given": "Marcia"
+    },
+    {
+      "raw": "McLanahan, Sara",
+      "family": "McLanahan",
+      "given": "Sara"
+    },
+    {
+      "raw": "England, Paula",
+      "family": "England",
+      "given": "Paula"
+    }
+  ],
+  "authors_text": "Carlson, Marcia; McLanahan, Sara; England, Paula",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0012",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

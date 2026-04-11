@@ -1,0 +1,35 @@
+{
+  "title": "Forced Marriage and Birth Outcomes",
+  "abstract": "We study the impact of marriages resulting from bride kidnapping on infant birth weight. Bride kidnapping-a form of forced marriage-implies that women are abducted by men and have little choice other than to marry their kidnappers. Given this lack of choice over the spouse, we expect adverse consequences for women in such marriages. Remarkable survey data from the Central Asian nation of Kyrgyzstan enable exploration of differential birth outcomes for women in kidnap-based and other types of marriage using both OLS and IV estimation. We find that children born to mothers in kidnap-based marriages have lower birth weight compared with children born to other mothers. The largest difference is between kidnap-based and arranged marriages: the magnitude of the birth weight loss is in the range of 2 % to 6 % of average birth weight. Our finding is one of the first statistically sound estimates of the impact of forced marriage and implies not only adverse consequences for the women involved but potentially also for their children.",
+  "authors": [
+    {
+      "raw": "Becker, Charles M.",
+      "family": "Becker",
+      "given": "Charles M."
+    },
+    {
+      "raw": "Mirkasimov, Bakhrom",
+      "family": "Mirkasimov",
+      "given": "Bakhrom"
+    },
+    {
+      "raw": "Steiner, Susan",
+      "family": "Steiner",
+      "given": "Susan"
+    }
+  ],
+  "authors_text": "Becker, Charles M.; Mirkasimov, Bakhrom; Steiner, Susan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0591-1",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0591-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0591-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0591-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Exploring Chinese human capital flight using university alumni data",
+  "abstract": "China is one of the major sources of student migrants to many Western countries, growing rapidly during the last couple of decades. In China, several national and regional level policy schemes have been set up to incentivise the return of the high-skilled overseas population. Data to monitor these migration patterns are typically lacking. In this article, we explore the spatial patterns of overseas alumni populations from 106 leading Chinese universities using data gathered from the LinkedIn advertising platform. We first assess the suitability of the LinkedIn data for measuring overseas migrant distributions and then adapt an extended gravity model to aid the interpretation of the relationships between countries, universities and intermediate characteristics and the size of the overseas alumni populations. We find that the LinkedIn data provide plausible measures of Chinese university alumni networks. Alumni populations are in general larger from highly ranked universities, in greater numbers from universities in Beijing and Shanghai and universities with higher numbers of foreign students. These findings help better understand human capital flight, where conventional studies use migration data that do not typically have breakdowns to sub-national units or specify where emigrants received their education.",
+  "authors": [
+    {
+      "raw": "Abel, Guy J.",
+      "family": "Abel",
+      "given": "Guy J."
+    },
+    {
+      "raw": "Zhu, XiaoXia",
+      "family": "Zhu",
+      "given": "XiaoXia"
+    },
+    {
+      "raw": "Huang, Ziyue",
+      "family": "Huang",
+      "given": "Ziyue"
+    }
+  ],
+  "authors_text": "Abel, Guy J.; Zhu, XiaoXia; Huang, Ziyue",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2023,
+  "doi": "10.1080/17441730.2023.2289705",
+  "doi_url": "https://doi.org/10.1080/17441730.2023.2289705",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2023.2289705",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2023.2289705.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

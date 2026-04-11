@@ -1,0 +1,30 @@
+{
+  "title": "Does the intergenerational transmission of crime depend on family complexity?",
+  "abstract": "Objective This study examines whether the intergenerational transmission of crime depends on family complexity. Background Research has found a substantial intergenerational transmission of crime. But the focus on biological parents in such research tends to not fully align with current demographic trends-which emphasize increasing family complexity (in the form of family instability and prevalence of stepparent-families)-nor with theories which predict why we should observe such transmissions. Method We use Danish administrative data on children born in 1985-1995 and linear probability models to estimate whether the association between paternal conviction and offspring conviction risk varies between children living in intact families with both biological parents at age 15 and children living in alternative family constellations, defined by instability and presence of a stepfather in the family. We furthermore examine whether a stepfather's conviction predicts children's conviction risk. Results The influence of paternal conviction-net of differences in demographics and parental socioeconomic status-was significantly diminished only in family constellations where a stepfather was present and mostly so in families with high degree of stability. But having a convicted stepfather was associated with a higher conviction risk. Conclusion The findings have important implications for theories of the intergenerational transmission of crime as they underline that biological family ties do not lock in children's future crime risks.",
+  "authors": [
+    {
+      "raw": "Anker, Anne Sofie Tegner",
+      "family": "Anker",
+      "given": "Anne Sofie Tegner"
+    },
+    {
+      "raw": "Andersen, Lars H.",
+      "family": "Andersen",
+      "given": "Lars H."
+    }
+  ],
+  "authors_text": "Anker, Anne Sofie Tegner; Andersen, Lars H.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12770",
+  "doi_url": "https://doi.org/10.1111/jomf.12770",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12770",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12770.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

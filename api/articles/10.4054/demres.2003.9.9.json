@@ -1,0 +1,30 @@
+{
+  "title": "Seasonal mortality in Denmark",
+  "abstract": "Our paper addresses two questions on seasonal mortality: How do women and men differ with respect to seasonal fluctuations in mortality? How does seasonality in death change with age? The analysis is based on a sample of all Danes aged 50 and older on 1 April 1968 being followed for 30 years. In contrast to previous studies we found remarkable differences between women and men in their seasonal mortality patterns. Men showed larger seasonal fluctuations than women indicating a higher susceptibility to environmental stressful periods. We found that seasonality increases with age. However, we discovered again a sex difference: women's seasonality starts increasing at later ages than men's.",
+  "authors": [
+    {
+      "raw": "Rau, Roland",
+      "family": "Rau",
+      "given": "Roland"
+    },
+    {
+      "raw": "Doblhammer, Gabriele",
+      "family": "Doblhammer",
+      "given": "Gabriele"
+    }
+  ],
+  "authors_text": "Rau, Roland; Doblhammer, Gabriele",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2003,
+  "doi": "10.4054/demres.2003.9.9",
+  "doi_url": "https://doi.org/10.4054/demres.2003.9.9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2003.9.9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2003.9.9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

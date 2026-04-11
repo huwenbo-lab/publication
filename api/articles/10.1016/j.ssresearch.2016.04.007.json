@@ -1,0 +1,30 @@
+{
+  "title": "Economic performance and public concerns about social class in twentieth-century books",
+  "abstract": "What is the association between macroeconomic conditions and public perceptions of social class? Applying a novel approach based on the Google Books N-gram corpus, this study addresses the relationship between public concerns about social class and economic conditions throughout the twentieth century. The usage of class-related words/phrases, or literary references to class, in American English-language books is related to US economic performance and income inequality. The findings of this study demonstrate that economic conditions play a significant role in literary references to class throughout the century, whereas income inequality does not. Similar results are obtained from further analyses using alternative measures of class concerns as well as different corpora of English Fiction and the New York Times. We add to the social class literature by showing that the long-term temporal dynamics of an economy can be exhibited by aggregate class concerns. The application of massive culture-wide content analysis using data of unprecedented size also represents a contribution to the literature. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Chen, Yunsong",
+      "family": "Chen",
+      "given": "Yunsong"
+    },
+    {
+      "raw": "Yan, Fei",
+      "family": "Yan",
+      "given": "Fei"
+    }
+  ],
+  "authors_text": "Chen, Yunsong; Yan, Fei",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.04.007",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.04.007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.04.007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.04.007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

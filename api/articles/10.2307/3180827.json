@@ -1,0 +1,35 @@
+{
+  "title": "A Regression Approach to Estimating the Average Number of Persons Per Household",
+  "abstract": "In the housing unit method, population is calculated as the number of households times the average number of persons per household (PPH), plus the population residing in group quarters facilities. Estimates of households and the group quarters population can be derived directly from concurrent data series, but estimates of PPH have traditionally been based on previous values or estimates for larger areas. In our study, we developed several regression models in which PPH estimates were based on symptomatic indicators of PPH change. We tested these estimates using county-level data in four states and found them to be more precise and less biased than estimates based on more commonly used methods.",
+  "authors": [
+    {
+      "raw": "Smith, Stanley K.",
+      "family": "Smith",
+      "given": "Stanley K."
+    },
+    {
+      "raw": "Nogle, June",
+      "family": "Nogle",
+      "given": "June"
+    },
+    {
+      "raw": "Cody, Scott",
+      "family": "Cody",
+      "given": "Scott"
+    }
+  ],
+  "authors_text": "Smith, Stanley K.; Nogle, June; Cody, Scott",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.2307/3180827",
+  "doi_url": "https://doi.org/10.2307/3180827",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3180827",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3180827.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

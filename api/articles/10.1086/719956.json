@@ -1,0 +1,30 @@
+{
+  "title": "Variation in the Relationship between School Spending and Achievement: Progressive Spending Is Efficient",
+  "abstract": "The equity-efficiency trade-off and cumulative return theories predict larger returns to school spending in areas with higher previous investment in children. Equity-not efficiency-is therefore used to justify progressive school funding: spending more in communities with fewer financial resources. Yet it remains unclear how returns to school spending vary across areas by previous investment. Using county-level panel data for 2009-18 from the Stanford Education Data Archive, the Census Finance Survey, and National Vital Statistics, the authors estimate achievement returns to school spending and test whether returns vary between counties with low and high levels of initial human capital (measured as birth weight), child poverty, and previous spending. Spending returns are higher among counties with low previous investment (counties that also have a high percentage of Black students). Evidence of diminishing returns by previous investment documents another way that schools increase equality and establishes another argument for progressive school funding: efficiency.",
+  "authors": [
+    {
+      "raw": "Rauscher, Emily",
+      "family": "Rauscher",
+      "given": "Emily"
+    },
+    {
+      "raw": "Shen, Yifan",
+      "family": "Shen",
+      "given": "Yifan"
+    }
+  ],
+  "authors_text": "Rauscher, Emily; Shen, Yifan",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2022,
+  "doi": "10.1086/719956",
+  "doi_url": "https://doi.org/10.1086/719956",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F719956",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/719956.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

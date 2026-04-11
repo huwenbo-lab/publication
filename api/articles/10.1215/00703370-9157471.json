@@ -1,0 +1,25 @@
+{
+  "title": "Decomposing the Decline of Cash Assistance in the United States, 1993 to 2016",
+  "abstract": "Cash assistance allocations from Temporary Assistance for Needy Families (TANF) and its predecessor program fell from $34.3 billion to $7.4 billion in real value from 1993 to 2016, a 78% decrease. Some investigations of TANF point to favorable labor market changes as the source of the decline, whereas others point to declining benefit levels and barriers to benefit receipt. This study introduces a framework to decompose the decline of TANF cash assistance into changes in need for cash assistance. the participation rate among those meeting income-based eligibility standards, and benefit levels among those receiving cash support. Using the U.S. Current Population Survey, I find that declining participation explains 52% of the decline in TANF cash assistance from 1993 onward, whereas declining need explains 21%, and declining benefit levels explain 27%. The study then applies reweighting techniques to measure the extent to which compositional changes in the population, such as rising employment rates among single mothers, can explain changes in need, participation, and benefit levels. The results suggest that compositional changes explain only 22% of the decline of TANF cash assistance, confirming that the majority of the decline is due to reduced participation and benefit levels rather than reduced demand for cash support. Adding the noncompositional share of the decline in TANF back to observed levels of cash spending in 2016 would result in nearly $20 billion in additional transfers, more than the minimum amount necessary to lift all single-mother households out of poverty.",
+  "authors": [
+    {
+      "raw": "Parolin, Zachary",
+      "family": "Parolin",
+      "given": "Zachary"
+    }
+  ],
+  "authors_text": "Parolin, Zachary",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9157471",
+  "doi_url": "https://doi.org/10.1215/00703370-9157471",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9157471",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9157471.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Drive-bys and Trade-ups: Examining the Directionality of the Crime and Residential Instability Relationship",
+  "abstract": "Most prior research testing the hypothesis of the social disorganization theory that residential instability increases crime has used cross-sectional data. Using a unique dataset linking home sales address matched to census tracts with crime data in Los Angeles, we test the direction of this relationship using a six-year panel data design. We also test whether crime acts as a generator of transition and decline in neighborhoods by testing its effect on property values the following year. Our findings suggest little evidence that home sales volatility in one year leads to more property or violent crime the following year. Instead, higher levels of tract property and violent crime in one year lead to more home sales the following year. This effect of high crime rates is exacerbated in tracts with high levels of racial/ethnic heterogeneity, suggesting that such tracts may engender a distinct combination of fear and uncertainty in their residents, leading to more turn over. We also find that tracts with more violent crime one year have lower property values the following year, suggesting a general process of decline.",
+  "authors": [
+    {
+      "raw": "Hipp, J. R.",
+      "family": "Hipp",
+      "given": "J. R."
+    },
+    {
+      "raw": "Tita, G. E.",
+      "family": "Tita",
+      "given": "G. E."
+    },
+    {
+      "raw": "Greenbaum, R. T.",
+      "family": "Greenbaum",
+      "given": "R. T."
+    }
+  ],
+  "authors_text": "Hipp, J. R.; Tita, G. E.; Greenbaum, R. T.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0184",
+  "doi_url": "https://doi.org/10.1353/sof.0.0184",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0184",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0184.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

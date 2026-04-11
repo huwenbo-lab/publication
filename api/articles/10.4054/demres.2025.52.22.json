@@ -1,0 +1,30 @@
+{
+  "title": "Uncovering what matters: Family life-course aspects and personal wealth in late working age",
+  "abstract": "BACKGROUND Capturing the complexity of family life courses as predictors of later-life outcomes like wealth is challenging. Previous research has either (a) assessed a few selective but potentially irrelevant summary indicators, or (b) examined entire life-course clusters without identifying specific important aspects within and between them. OBJECTIVE Our aim is to investigate which family life-course variables that capture the order, duration, and timing of states and transitions are key personal wealth predictors for Western Germans aged 50 to 59, and to analyse the strength and direction of associations between the relevant variables and personal wealth, and whether these differ by gender. METHODS We used German Socio-Economic Panel (SOEP) data and combined feature selection, sequence analysis tools, and regression techniques. RESULTS We identified 23 family life-course variables as relevant predictors, with 2-the time spent never-married, with and without children-deemed most relevant. Most family life-course variables were negatively associated with personal wealth and characterised by single parenthood, marital separation, or early marital transitions with or without fertility transitions. The prevalence and significance of some of the associations between these variables and personal wealth differed across genders. The results highlight the importance of previously concealed family life-course variables for wealth inequalities in late working age. CONTRIBUTION We extend previous research on the nexus between family demography and wealth stratification by using a novel, data-driven approach that more effectively explores family life-course complexities by considering the 'entire' universe of variables that describe such life courses and identifying those life-course variables that are relevant wealth predictors.",
+  "authors": [
+    {
+      "raw": "Kapelle, Nicole",
+      "family": "Kapelle",
+      "given": "Nicole"
+    },
+    {
+      "raw": "Rowold, Carla",
+      "family": "Rowold",
+      "given": "Carla"
+    }
+  ],
+  "authors_text": "Kapelle, Nicole; Rowold, Carla",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.22",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

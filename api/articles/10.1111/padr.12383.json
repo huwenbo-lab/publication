@@ -1,0 +1,40 @@
+{
+  "title": "Youth Migration Decisions in Sub-Saharan Africa: Satellite-Based Empirical Evidence from Nigeria",
+  "abstract": "This article examines the implications of urban growth on youth migration decisions in Nigeria. We use night light intensity data combined with Living Standards Measurement Study-Integrated Surveys on Agriculture data, as an indicator of urban growth and associated economic opportunities. Employing alternative econometric approaches that exploit the spatial and temporal differences in urban growth as proxied by night light intensity, we find that urban growth in potential migrant destinations encourages youth migration. We also find heterogeneous responses to urban growth among various groups of youth as well as varying responses to different types of migration. Broadly, women and those youth with more education are more likely to migrate, while those in households with livestock are less likely to migrate. Often, however, the effects are complex and varied. For example, land and physical asset ownership encourage temporary migration; but greater land ownership discourages permanent migration, while physical assets have insignificant effects. Our results from Nigeria show that policy makers concerned about rural-urban youth exodus should adopt a differentiated, in terms of targets, and multidimensional policy approach to reap the benefits of urbanization while avoiding its negative consequences.",
+  "authors": [
+    {
+      "raw": "Amare, Mulubrhan",
+      "family": "Amare",
+      "given": "Mulubrhan"
+    },
+    {
+      "raw": "Abay, Kibrom A.",
+      "family": "Abay",
+      "given": "Kibrom A."
+    },
+    {
+      "raw": "Arndt, Channing",
+      "family": "Arndt",
+      "given": "Channing"
+    },
+    {
+      "raw": "Shiferaw, Bekele",
+      "family": "Shiferaw",
+      "given": "Bekele"
+    }
+  ],
+  "authors_text": "Amare, Mulubrhan; Abay, Kibrom A.; Arndt, Channing; Shiferaw, Bekele",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2021,
+  "doi": "10.1111/padr.12383",
+  "doi_url": "https://doi.org/10.1111/padr.12383",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12383",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12383.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

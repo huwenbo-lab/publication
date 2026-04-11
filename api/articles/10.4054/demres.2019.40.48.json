@@ -1,0 +1,30 @@
+{
+  "title": "The gendered division of labor and its perceived fairness: Implications for childbearing in Germany",
+  "abstract": "BACKGROUND Recently it has been claimed that gender equality and gender equity in the family tend to increase fertility. The strength of this association, however, depends on prevailing gender relations and the level of social support of employment and family within a society. OBJECTIVE We wish to improve our understanding of the relationship between gender equality, gender equity, and fertility by investigating the impact of the actual division of paid and unpaid labor on first- and second-birth fertility in Germany while including in our analyses a repeatedly measured indicator of gender equity that captures the subjective perception of fairness of this division. METHODS Using nine waves of the German Family Panel (pairfam), we apply discrete-time logistic regression models to cohorts of young women and men in coresidential unions to determine whether a birth occurs in a given year while using measures of gender equality and gender equity as lagged time-varying covariates. RESULTS We find that an arrangement in which the woman is in charge of routine housework and the division of paid and unpaid work is perceived as fair is positively associated with family formation. The perception of a fair division of work is no prerequisite for continued childbearing. Yet women's responsibility for domestic work facilitates family extension. CONTRIBUTION This paper extends the literature on the relationship between gender equality, gender equity, and family outcomes by using prospective panel data to capture attitudinal and behavioral changes over the life course more fully than has previously been done.",
+  "authors": [
+    {
+      "raw": "Koeppen, Katja",
+      "family": "Koeppen",
+      "given": "Katja"
+    },
+    {
+      "raw": "Trappe, Heike",
+      "family": "Trappe",
+      "given": "Heike"
+    }
+  ],
+  "authors_text": "Koeppen, Katja; Trappe, Heike",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.48",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.48",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.48",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.48.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "How is income inequality associated with charitable giving intention? Evidence from a survey experiment in China",
+  "abstract": "Given the mixed findings on the relationship between income inequality and charitable giving, this study introduces a non-linear perspective to reconcile prior inconsistencies. Drawing on social integration theory, we argue that moderate income inequality enhances public support for government redistribution because of high social integration, thereby promoting charitable giving. In contrast, excessive inequality undermines social trust due to low integration, reducing charitable giving. A survey experiment with 916 participants in China reveals an inverted U-shaped relationship between income inequality and charitable giving intention. While generalized trust partially mediates the negative segment of this relationship, public support for government redistribution does not significantly mediate the positive segment. These findings offer theoretical insights into the nuanced effects of inequality on prosocial behavior and suggest practical implications for fostering charitable engagement under varying inequality conditions.",
+  "authors": [
+    {
+      "raw": "Yang, Yongzheng",
+      "family": "Yang",
+      "given": "Yongzheng"
+    },
+    {
+      "raw": "Wang, Zi",
+      "family": "Wang",
+      "given": "Zi"
+    }
+  ],
+  "authors_text": "Yang, Yongzheng; Wang, Zi",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1080/21620555.2025.2571941",
+  "doi_url": "https://doi.org/10.1080/21620555.2025.2571941",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2025.2571941",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2025.2571941.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

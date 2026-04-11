@@ -1,0 +1,25 @@
+{
+  "title": "Timing of citizenship acquisition and immigrants' children educational outcomes: a family fixed-effects approach",
+  "abstract": "Various studies suggest a positive effect of host country citizenship on the educational outcomes of immigrants' children. However, little is known about when and for whom citizenship matters and how much this is affected by potential endogeneity in the relationship between parental citizenship acquisition and their children's educational outcomes. Focusing on the Netherlands, this article exploits siblings' variation in their exposure to naturalization in order to net out the effect of time-constant parental characteristics. Results from a linear mixed model show that children who acquire Dutch citizenship have a substantial advantage in terms of academic performance over those who are still foreign citizens, especially if they naturalized in early childhood. A novel bounding estimator that gauges the sensitivity of the estimates to omitted variable bias confirms the robustness of these results. Moreover, the effects of citizenship are concentrated among students whose parents are at a disadvantage in the labour market and housing market, shedding light on hitherto under-explored effect heterogeneity.",
+  "authors": [
+    {
+      "raw": "Labussiere, Marie",
+      "family": "Labussiere",
+      "given": "Marie"
+    }
+  ],
+  "authors_text": "Labussiere, Marie",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad027",
+  "doi_url": "https://doi.org/10.1093/esr/jcad027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

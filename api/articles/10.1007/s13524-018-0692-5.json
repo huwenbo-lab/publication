@@ -1,0 +1,35 @@
+{
+  "title": "The Impact of the Affordable Care Act Young Adult Provision on Childbearing: Evidence From Tax Data",
+  "abstract": "We use panel U.S. tax data spanning 2008-2013 to study the impact of the Affordable Care Act (ACA) young adult provision on an important demographic outcome: childbearing. The impact is theoretically ambiguous: gaining insurance may increase access to contraceptive services while also reducing the out-of-pocket costs of childbirth. Because employer-reported U.S. Wage and Tax Statements (W-2 forms) record access to employer-provided benefits, we can examine the impact of the coverage expansion by focusing on young adults whose parents have access to benefits. We compare those who are slightly younger than the age threshold with those who are slightly older. Our results suggest that the ACA young adult provision led to a modest decrease in childbearing.",
+  "authors": [
+    {
+      "raw": "Heim, Bradley",
+      "family": "Heim",
+      "given": "Bradley"
+    },
+    {
+      "raw": "Lurie, Ithai",
+      "family": "Lurie",
+      "given": "Ithai"
+    },
+    {
+      "raw": "Simon, Kosali",
+      "family": "Simon",
+      "given": "Kosali"
+    }
+  ],
+  "authors_text": "Heim, Bradley; Lurie, Ithai; Simon, Kosali",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0692-5",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0692-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0692-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0692-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

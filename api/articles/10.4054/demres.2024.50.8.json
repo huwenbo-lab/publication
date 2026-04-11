@@ -1,0 +1,35 @@
+{
+  "title": "War and mobility: Using Yandex web searches to characterize intentions to leave Russia after its invasion of Ukraine",
+  "abstract": "Background Following the Russian invasion of Ukraine, many citizens left Russia due to increasing government repression, the fear of mobilization, or to escape the economic downturn. As yet, reliable statistical data on those who left are not available. Hence, much remains unknown about the characteristics and scope of this population. In the digital age, people prepare their journeys by searching online and these digital traces provide clues about their intentions and the scale of mobility events. Objective Here we aim to leverage this resource of search engine data to study geographic, temporal, and demographic trends in the international mobility intentions of Russian residents. Methods Our analysis combines search queries provided by the search engine Yandex with city-level data on sociodemographic and geographic characteristics. We examine two mobility events, the first after the start of the invasion and the second after mobilization started. We explore the relationships between cities' sociodemographic characteristics and the number of mobility-related searches during those events using a set of generalized linear models. Conclusions We find that regional indicators of wage levels were less important in the second wave and the proximity of a country of interest increased fourfold in importance. These and other results support dominant narratives in the media about a potential Russian brain drain, particularly during the first wave, and about the scale of the outflow. Contribution This work combines spatial data on sociodemographic characteristics with search engine data to understand the mobility patterns of Russian nationals from Russia after the invasion of Ukraine. Our findings confirm the potential of Yandex search engine data as a novel data source for informing migration and mobility research.",
+  "authors": [
+    {
+      "raw": "Anastasiadou, Athina",
+      "family": "Anastasiadou",
+      "given": "Athina"
+    },
+    {
+      "raw": "Volgin, Artem",
+      "family": "Volgin",
+      "given": "Artem"
+    },
+    {
+      "raw": "Leasure, Douglas R.",
+      "family": "Leasure",
+      "given": "Douglas R."
+    }
+  ],
+  "authors_text": "Anastasiadou, Athina; Volgin, Artem; Leasure, Douglas R.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.8",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

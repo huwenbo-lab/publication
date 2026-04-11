@@ -1,0 +1,30 @@
+{
+  "title": "Neighborhood effects on economic self-sufficiency: A reconsideration of the moving to opportunity experiment",
+  "abstract": "This article revisits the Moving to Opportunity housing mobility experiment, which heretofore has not provided strong evidence to support the hypothesis of neighborhood effects on economic self-sufficiency among adults. The authors undertake a conceptual and empirical analysis of the study's design and implementation to gain a better understanding of the selection processes that occur within the study. The article shows that the study is potentially affected by selectivity at several junctures: in determining who complied with the program's requirements, who entered integrated versus segregated neighborhoods, and who left neighborhoods after initial relocation. Furthermore, previous researchers have not found an experimental treatment effect on adult economic self-sufficiency, relative to controls. The authors propose an alternative approach that involves measuring the cumulative amount of time spent in different neighborhood environments. With this method, they find evidence that neighborhood is associated with outcomes such as employment, earnings, TANF receipt, and use of food stamps.",
+  "authors": [
+    {
+      "raw": "Clampet-Lundquist, Susan",
+      "family": "Clampet-Lundquist",
+      "given": "Susan"
+    },
+    {
+      "raw": "Massey, Douglas S.",
+      "family": "Massey",
+      "given": "Douglas S."
+    }
+  ],
+  "authors_text": "Clampet-Lundquist, Susan; Massey, Douglas S.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2008,
+  "doi": "10.1086/588740",
+  "doi_url": "https://doi.org/10.1086/588740",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F588740",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/588740.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

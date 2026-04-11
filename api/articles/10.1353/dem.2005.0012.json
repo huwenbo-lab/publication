@@ -1,0 +1,40 @@
+{
+  "title": "Three dimensions of the survival curve: horizontalization, verticalization, and longevity extension",
+  "abstract": "AbstractThree dimensions of the survival curve have been developed: (1) “horizontalization,” which corresponds to how long a cohort and how many survivors can live before aging-related deaths significantly decrease the proportion of survivors; (2) “verticalization,” which corresponds to how concentrated aging-related (“normal”) deaths are around the modal age at death (M); and (3) “longevity extension,” which corresponds to how far the highest normal life durations can exceed M. Our study shows that the degree of horizontalization increased relatively less than the degree of verticalization in Hong Kong from 1976 to 2001. After age normalization, the highest normal life durations moved closer to M, implying that the increase in human longevity is meeting some resistance.",
+  "authors": [
+    {
+      "raw": "Cheung, Siu Lan Karen",
+      "family": "Cheung",
+      "given": "Siu Lan Karen"
+    },
+    {
+      "raw": "Robine, Jean-Marie",
+      "family": "Robine",
+      "given": "Jean-Marie"
+    },
+    {
+      "raw": "Tu, Edward Jow-Ching",
+      "family": "Tu",
+      "given": "Edward Jow-Ching"
+    },
+    {
+      "raw": "Caselli, Graziella",
+      "family": "Caselli",
+      "given": "Graziella"
+    }
+  ],
+  "authors_text": "Cheung, Siu Lan Karen; Robine, Jean-Marie; Tu, Edward Jow-Ching; Caselli, Graziella",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0012",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

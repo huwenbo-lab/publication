@@ -1,0 +1,35 @@
+{
+  "title": "The Human Multiple Births Database (HMBD): An international database on twin and other multiple births",
+  "abstract": "BACKGROUND The frequency of twin births has increased dramatically since the 1970s in nearly all developed countries. This upsurge poses a public health challenge because multiple pregnancies are associated with higher health risks and other disadvantages for both the children and the parents. A better understanding of the variation and trends in twinning and other multiple rates is therefore urgently needed.OBJECTIVE The Human Multiple Births Database (HMBD) provides open access national statistics on multiple births for numerous countries.METHODS HMBD data come from the vital statistics system of each country included. We use annual counts of births by plurality to estimate the twinning and multiple birth rate for each year. All procedures performed on the input data are documented. RESULTS The HMBD provides the annual number of deliveries by multiplicity, the twinning rate, and the multiple rate. As of January 2023, 25 countries are included. For each country, data go back as far into the past as possible and extend until the most recent year with available data. Definitions and other specificities of each country's data (e.g., the treatment of stillbirths in the statistics) are provided in the metadata.CONTRIBUTION The HMBD is a unique resource, providing and documenting the most complete possible annual series of data on multiple births for each country included. All materials (data, metadata, computer codes, interactive data explorers, and supplementary material) are freely available at https://www.twinbirths.org/. At the time of writing this paper the HMBD is a work in progress, as updates and other enhancements are introduced progressively: the series for each country included is updated with data for the most recent years, and further developments in the metadata and other materials are underway.",
+  "authors": [
+    {
+      "raw": "Torres, Catalina",
+      "family": "Torres",
+      "given": "Catalina"
+    },
+    {
+      "raw": "Caporali, Arianna",
+      "family": "Caporali",
+      "given": "Arianna"
+    },
+    {
+      "raw": "Pison, Gilles",
+      "family": "Pison",
+      "given": "Gilles"
+    }
+  ],
+  "authors_text": "Torres, Catalina; Caporali, Arianna; Pison, Gilles",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.4",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

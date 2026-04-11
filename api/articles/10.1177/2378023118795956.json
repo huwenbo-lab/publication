@@ -1,0 +1,30 @@
+{
+  "title": "Visualizing Africa’s Educational Gender Gap",
+  "abstract": "This figure depicts the gendered patterns of educational expansion across Africa. The horizontal axis displays educational access, and vertical lines represent educational gender gaps for 267 country-specific birth cohorts, representing adults born between 1941 and 1992 in 32 African countries. The gaps take on an almond shape. In early stages of educational expansion, boys enter school at higher rates than girls; female enrollment begins to catch up only when at least half of the cohort attends school. Cohorts with the lowest educational access are disproportionately located in West Africa, and most higher-access cohorts are in central and southern Africa. In more than 30 percent of cohorts from central and southern African countries, girls surpass boys in rates of basic educational participation. Africa’s gender inequality is structured not only by regional context and temporal trends but also by a country’s position along the spectrum from scarcity to abundance of educational opportunities.",
+  "authors": [
+    {
+      "raw": "Lopus, Sara",
+      "family": "Lopus",
+      "given": "Sara"
+    },
+    {
+      "raw": "Frye, Margaret",
+      "family": "Frye",
+      "given": "Margaret"
+    }
+  ],
+  "authors_text": "Lopus, Sara; Frye, Margaret",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118795956",
+  "doi_url": "https://doi.org/10.1177/2378023118795956",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118795956",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118795956.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

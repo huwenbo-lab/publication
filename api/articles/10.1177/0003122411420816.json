@@ -1,0 +1,35 @@
+{
+  "title": "Neighborhood Effects in Temporal Perspective: The Impact of Long-Term Exposure to Concentrated Disadvantage on High School Graduation",
+  "abstract": "Theory suggests that neighborhood effects depend not only on where individuals live today, but also on where they lived in the past. Previous research, however, usually measures neighborhood context only once and does not account for length of residence, thereby understating the detrimental effects of long-term neighborhood disadvantage. This study investigates effects of duration of exposure to disadvantaged neighborhoods on high school graduation. It follows 4,154 children in the Panel Study of Income Dynamics, measuring neighborhood context once per year from age 1 to 17. The analysis overcomes the problem of dynamic neighborhood selection by adapting novel methods of causal inference for time-varying treatments. In contrast to previous analyses, these methods do not control away the effect of neighborhood context operating indirectly through time-varying characteristics of the family; thus, they capture the full impact of a lifetime of neighborhood disadvantage. We find that sustained exposure to disadvantaged neighborhoods has a severe impact on high school graduation that is considerably larger than effects reported in prior research. We estimate that growing up in the most (compared to the least) disadvantaged quintile of neighborhoods reduces the probability of graduation from 96 to 76 percent for black children, and from 95 to 87 percent for nonblack children.",
+  "authors": [
+    {
+      "raw": "Wodtke, Geoffrey T.",
+      "family": "Wodtke",
+      "given": "Geoffrey T."
+    },
+    {
+      "raw": "Harding, David J.",
+      "family": "Harding",
+      "given": "David J."
+    },
+    {
+      "raw": "Elwert, Felix",
+      "family": "Elwert",
+      "given": "Felix"
+    }
+  ],
+  "authors_text": "Wodtke, Geoffrey T.; Harding, David J.; Elwert, Felix",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1177/0003122411420816",
+  "doi_url": "https://doi.org/10.1177/0003122411420816",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122411420816",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122411420816.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

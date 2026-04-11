@@ -1,0 +1,30 @@
+{
+  "title": "The age difference between spouses and reproduction in 19th century Sweden",
+  "abstract": "BACKGROUND The influence of spousal relations on reproductive outcomes has received considerable attention in the demographic literature. Previous studies have shown the complex interplay between age difference, female autonomy, and reproductive outcomes, but only a few have focused on historical high-fertility populations. OBJECTIVE This study investigates the associations between spousal age difference and the timing of first and higher order births, as well as the total number of children born. METHODS Data from the Demographic Data Base (married women, born between 1840 and 1889, first marriages only) are used to construct individual life courses in central and northern Sweden. The relative risk of age-homogamous and age-heterogamous couples having a child is examined using event history analysis. Poisson regression is applied to identify the effects of age difference on the total number of children born. RESULTS After controlling for the age of the wife, women in wife-older marriages show higher hazard rates for the transition to first and later order births compared to women in age-homogamous marriages. By contrast, women in husband-older marriages show lower hazard rates for the transition between births, with the exception of first childbirth. However, the net effect of spousal age difference on the total number of children ever born is small. CONTRIBUTION This study provides empirical evidence of the association between spousal age gap and fertility outcomes, using the spousal age gap as a proxy for conjugal power. It shows that women in wife-older marriages used their greater female autonomy to shorten the interval between childbirths, although the effect on the total number of children born is negligible.",
+  "authors": [
+    {
+      "raw": "Rotering, Paul",
+      "family": "Rotering",
+      "given": "Paul"
+    },
+    {
+      "raw": "Bras, Hilde",
+      "family": "Bras",
+      "given": "Hilde"
+    }
+  ],
+  "authors_text": "Rotering, Paul; Bras, Hilde",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.37",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.37",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.37",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.37.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

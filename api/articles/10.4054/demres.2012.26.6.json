@@ -1,0 +1,30 @@
+{
+  "title": "Mapping the results of local statistics",
+  "abstract": "The application of geographically weighted regression (GWR) - a local spatial statistical technique used to test for spatial nonstationarity - has grown rapidly in the social, health and demographic sciences. GWR is a useful exploratory analytical tool that generates a set of location-specific parameter estimates which can be mapped and analysed to provide information on spatial nonstationarity in relationships between predictors and the outcome variable. A major challenge to GWR users, however, is how best to map these parameter estimates. This paper introduces a simple mapping technique that combines local parameter estimates and local t-values on one map. The resultant map can facilitate the exploration and interpretation of nonstationarity.",
+  "authors": [
+    {
+      "raw": "Matthews, Stephen",
+      "family": "Matthews",
+      "given": "Stephen"
+    },
+    {
+      "raw": "Yang, Tse-Chuan",
+      "family": "Yang",
+      "given": "Tse-Chuan"
+    }
+  ],
+  "authors_text": "Matthews, Stephen; Yang, Tse-Chuan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2012,
+  "doi": "10.4054/demres.2012.26.6",
+  "doi_url": "https://doi.org/10.4054/demres.2012.26.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2012.26.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2012.26.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

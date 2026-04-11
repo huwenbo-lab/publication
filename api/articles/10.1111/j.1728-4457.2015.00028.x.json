@@ -1,0 +1,40 @@
+{
+  "title": "Long-Term Contribution of Immigration to Population Renewal in Canada: A Simulation",
+  "abstract": "We analyze the direct and indirect demographic contribution of immigration to the foreign-origin composition of the Canadian population according to various projection scenarios over a century, from 2006 to 2106. More specifically, we use Statistics Canada's Demosim microsimulation model to assess the long-term sensitivity to immigration levels and the frequency of mixed unions of the share of immigrants in Canada and of persons who have at least one ancestor who arrived after 2006. The results of the simulations show that the population renewal process through immigration happens at a fast pace in a high immigration and low fertility country such as Canada. Under the scenarios developed, immigrants who entered after 2006 and their descendants could form the majority of the population by 2058 at the earliest and by 2079 at the latest and could represent between 62 percent and 88 percent in 2106. They also show that mixed unions are a key element of the speed at which the changes are likely to occur in the long run.",
+  "authors": [
+    {
+      "raw": "Dion, Patrice",
+      "family": "Dion",
+      "given": "Patrice"
+    },
+    {
+      "raw": "Caron-Malenfant, Eric",
+      "family": "Caron-Malenfant",
+      "given": "Eric"
+    },
+    {
+      "raw": "Grondin, Chantal",
+      "family": "Grondin",
+      "given": "Chantal"
+    },
+    {
+      "raw": "Grenier, Dominic",
+      "family": "Grenier",
+      "given": "Dominic"
+    }
+  ],
+  "authors_text": "Dion, Patrice; Caron-Malenfant, Eric; Grondin, Chantal; Grenier, Dominic",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2015,
+  "doi": "10.1111/j.1728-4457.2015.00028.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2015.00028.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2015.00028.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2015.00028.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

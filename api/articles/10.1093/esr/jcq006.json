@@ -1,0 +1,35 @@
+{
+  "title": "Context Matters: Economic Marginalization of Low-Educated Workers in Cross-National Perspective",
+  "abstract": "This article explains the different extent of economic marginalization of low-educated persons in different countries. Research on economic marginalization mainly studies the so-called displacement mechanism: the higher the high-skill supply is in relation to the high-skill demand, the higher is the risk of being unemployed for low-educated workers. In this article, we examine their economic marginalization in terms of status position. This research expands the explanation of economic marginalization of low-educated workers by scrutinizing additional causes, such as negative social selection, negative cognitive competence selection, and the increasing negative signal of being low educated (discredit). The results of the country comparison, using multilevel estimation techniques with inclusion of cross-level interactions, depict that, indeed, educational differences in socio-economic status attainment are larger in countries where the average competence of the group is low, the social composition is unfavourable, and the size of the low-educated group is relatively small. By considering these additional explanations, we are now better able to understand the economic vulnerability of low-educated people in educationally expanded countries.",
+  "authors": [
+    {
+      "raw": "Gesthuizen, M.",
+      "family": "Gesthuizen",
+      "given": "M."
+    },
+    {
+      "raw": "Solga, H.",
+      "family": "Solga",
+      "given": "H."
+    },
+    {
+      "raw": "Kunster, R.",
+      "family": "Kunster",
+      "given": "R."
+    }
+  ],
+  "authors_text": "Gesthuizen, M.; Solga, H.; Kunster, R.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcq006",
+  "doi_url": "https://doi.org/10.1093/esr/jcq006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcq006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcq006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

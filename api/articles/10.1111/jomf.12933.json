@@ -1,0 +1,30 @@
+{
+  "title": "Associations between parental precarious work schedules and child behavior problems among low-income families",
+  "abstract": "Objective: This study examined associations between parental precarious work schedules and child behavior problems among a sample of families with low incomes receiving child-care subsidies and tested three hypothesized mediators of these associations: work-family conflict, economic insecurity, and child-care instability.Background: As just-in-time, or on-call, scheduling practices become more prevalent among low-paid workers, working parents must balance family demands with precarious work schedules characterized by instability, unpredictability, and lack of control. Precarious work schedules may threaten child well-being by increasing parents' work-family conflict and stress, economic insecurity, and child-care instability. Yet, few studies have been able to empirically test these relationships.Method: This study uses data from a survey of child-care subsidy recipients to test the associations between five dimensions of parental precarious work schedules-variable work hours and shifts, limited advance notice, unexpected schedule changes, and lack of schedule control-and child externalizing behavior problems via work-care conflict, economic insecurity, and child-care instability. Analyses use Ordinary Least Squares (OLS) regression and decomposition methods and control for a host of child, parental, and household characteristics.Results: Variable shifts were indirectly associated with more parent-reported child behavior problems via work-care conflict, whereas unexpected schedule changes were indirectly associated with more behavior problems via both work-care conflict and material hardship.Conclusion: These findings add to a growing evidence-base on the incongruence between precarious employer-driven scheduling practices and the needs of families with young children.",
+  "authors": [
+    {
+      "raw": "Walther, Anna K.",
+      "family": "Walther",
+      "given": "Anna K."
+    },
+    {
+      "raw": "Pilarz, Alejandra Ros",
+      "family": "Pilarz",
+      "given": "Alejandra Ros"
+    }
+  ],
+  "authors_text": "Walther, Anna K.; Pilarz, Alejandra Ros",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12933",
+  "doi_url": "https://doi.org/10.1111/jomf.12933",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12933",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12933.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

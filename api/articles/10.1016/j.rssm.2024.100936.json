@@ -1,0 +1,25 @@
+{
+  "title": "Wage outcomes after temporary employment in Germany and the UK: Taking within- and between-employer transitions into account",
+  "abstract": "This study investigates wage outcomes of former temporary workers by distinguishing workers obtaining permanent jobs with the same employer from those who find permanent work with a new employer. With this distinction, we build on studies investigating the wage consequences of temporary jobs, which have thus far mainly focused on cross-sectional wage gaps and longer -term wage consequences without considering employer changes. We compare Germany and the UK as two prime examples of different labour market settings and look at labour market subgroups relevant for social stratification. We estimate fixed effects individual slopes regression with data from the German Socio-Economic Panel (1995-2021), the British Household Panel Study (1992-2008), and the UK Household Longitudinal Study (2010-2021). Results show that in the rigid German and in the more flexible UK labour market, wage increase of former temporary workers is larger if the permanent job is obtained with the same employer, but only if it coincides with a job change within the firm. For transitions occurring on the same job, only workers in Germany experience wage increase. This wage increase is not higher compared to the wage increase of workers who switch employers. These patterns are similar across subgroups, with the largest deviances found for older workers in Germany.",
+  "authors": [
+    {
+      "raw": "Fauser, Sophia",
+      "family": "Fauser",
+      "given": "Sophia"
+    }
+  ],
+  "authors_text": "Fauser, Sophia",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100936",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100936",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100936",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100936.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

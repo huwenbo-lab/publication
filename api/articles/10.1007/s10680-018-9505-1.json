@@ -1,0 +1,35 @@
+{
+  "title": "The Long Harm of Childhood: Childhood Exposure to Mortality and Subsequent Risk of Adult Mortality in Utah and The Netherlands",
+  "abstract": "How do early-life conditions affect adult mortality? Research has yielded mixed evidence about the influence of infant and child mortality in birth cohorts on adult health and mortality. Studies rarely consider the specific role of mortality within the family. We estimated how individuals' exposure to mortality as a child is related to their adult mortality risk between ages 18 and 85 in two historical populations, Utah (USA) 1874-2015 and Zeeland (The Netherlands) 1812-1957. We examined these associations for early community-level exposure to infant and early (before sixth birthday) and late (before eighteenth birthday) childhood mortality as well as exposure during these ages to sibling deaths. We find that that exposure in childhood to community mortality and sibling deaths increases adult mortality rates. Effects of sibling mortality on adult all-cause mortality risk were stronger in Utah, where sibling deaths were less common in relation to Zeeland. Exposure to sibling death due to infection was related to the surviving siblings' risk of adult mortality due to cardiovascular disease (relative risk: 1.06) and metabolic disease (relative risk: 1.42), primarily diabetes mellitus, a result consistent with an inflammatory immune response mechanism. We conclude that early-life conditions and exposure to mortality in early life, especially within families of origin, contribute to adult mortality.",
+  "authors": [
+    {
+      "raw": "van Dijk, Ingrid K.",
+      "family": "van Dijk",
+      "given": "Ingrid K."
+    },
+    {
+      "raw": "Janssens, Angelique",
+      "family": "Janssens",
+      "given": "Angelique"
+    },
+    {
+      "raw": "Smith, Ken R.",
+      "family": "Smith",
+      "given": "Ken R."
+    }
+  ],
+  "authors_text": "van Dijk, Ingrid K.; Janssens, Angelique; Smith, Ken R.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9505-1",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9505-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9505-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9505-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

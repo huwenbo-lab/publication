@@ -1,0 +1,50 @@
+{
+  "title": "Grandparental Co-residence, Grandchildren's Nutrition, and the Role of Demographic and Health Regimes",
+  "abstract": "In many modern populations, grandparents are increasingly becoming the primary caregivers of their grandchildren. This phenomenon has renewed interest in the role that grandparents play in within-family intergenerational transfers. However, few studies investigate variation in these patterns across populations experiencing different demographic and epidemiological regimes. We use Demographic and Health Survey data from 29 African countries and multilevel logistic regression models to assess the relationship between grandparental co-residence and grandchildren's stunting. While our results confirm existing findings that co-residence with grandmothers is associated with reduced grandchildren's stunting, unlike co-residence with grandfathers, we observe substantial cross-country heterogeneity. This is partly accounted for by contrasts between pre- and post-transitional demographic regimes and, importantly, by differences in epidemiological regimes. Specifically, the beneficial role of grandparental co-residence diminishes in older populations with higher life expectancy and outright disappears in populations with higher levels of chronic illness and disease. Micro-level analysis of mechanisms reflecting population-level demographic and epidemiological regimes, such as higher grandparental age, chronic conditions, and physical and cognitive abilities, confirms our population-level findings. The implication is that net flows of support from grandparents to grandchildren diminish as societies undergo demographic and epidemiological transitions, weakening the positive association between grandparental co-residence and grandchildren's health and development.",
+  "authors": [
+    {
+      "raw": "Munoz, Ismael G.",
+      "family": "Munoz",
+      "given": "Ismael G."
+    },
+    {
+      "raw": "Gomez Moreno, Guillermo",
+      "family": "Gomez Moreno",
+      "given": "Guillermo"
+    },
+    {
+      "raw": "Bueno Lopez, Clara",
+      "family": "Bueno Lopez",
+      "given": "Clara"
+    },
+    {
+      "raw": "Aldea, Nestor",
+      "family": "Aldea",
+      "given": "Nestor"
+    },
+    {
+      "raw": "Lund, Michael Borchgrevink",
+      "family": "Lund",
+      "given": "Michael Borchgrevink"
+    },
+    {
+      "raw": "Palloni, Alberto",
+      "family": "Palloni",
+      "given": "Alberto"
+    }
+  ],
+  "authors_text": "Munoz, Ismael G.; Gomez Moreno, Guillermo; Bueno Lopez, Clara; Aldea, Nestor; Lund, Michael Borchgrevink; Palloni, Alberto",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70026",
+  "doi_url": "https://doi.org/10.1111/padr.70026",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70026",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70026.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

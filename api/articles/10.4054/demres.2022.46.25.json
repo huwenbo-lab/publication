@@ -1,0 +1,35 @@
+{
+  "title": "Exploring the mortality advantage of Jewish neighbourhoods in mid-19th century Amsterdam",
+  "abstract": "BACKGROUND Many studies have observed that religion plays an important role in determining inequalities in mortality outcomes before the mortality decline in late 19th century Europe. Yet, it is difficult to pinpoint what exactly caused the mortality advantage observed for Jewish populations before the start of the demographic transition. OBJECTIVE To explore an alternative approach to the observed Jewish mortality advantage by comparing differences and similarities in various cause-specific mortality rates in Amsterdam's 50 neighbourhoods in the mid-19th century. RESULTS Jewish neighbourhoods had an overall mortality advantage, which was reflected in lower infant, respiratory, diarrhoeal, and smallpox death rates. Only in the cholera epidemic did the Jewish neighbourhoods not experience this health advantage. CONCLUSION Before the mortality decline, individual (and community) behaviours could already have been having an important impact on inequalities in health, although not for all diseases. CONTRIBUTION The neighbourhood approach is a useful alternative when individual-level data is not available to demonstrate how variation in social, economic, and disease environments may have resulted in health inequalities. In addition, the comparison of various cause-specific mortality rates in Jewish and non-Jewish neighbourhoods helps to disentangle which determinants might explain why Jewish mortality rates were lower.",
+  "authors": [
+    {
+      "raw": "Riswick, Tim",
+      "family": "Riswick",
+      "given": "Tim"
+    },
+    {
+      "raw": "Muurling, Sanne",
+      "family": "Muurling",
+      "given": "Sanne"
+    },
+    {
+      "raw": "Buzasi, Katalin",
+      "family": "Buzasi",
+      "given": "Katalin"
+    }
+  ],
+  "authors_text": "Riswick, Tim; Muurling, Sanne; Buzasi, Katalin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.25",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

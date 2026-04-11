@@ -1,0 +1,45 @@
+{
+  "title": "The Economic Consequences of Partnership Dissolution--A Comparative Analysis of Panel Studies from Belgium, Germany, Great Britain, Italy, and Sweden",
+  "abstract": "The paper analyses the economic consequences of partnership dissolution in different institutional settings. Belgium, Germany, Great Britain, Italy, and Sweden are selected as representatives of four prototypical models of family support (market model, extended family model, male breadwinner model, dual earner model). It is assumed that these four types of family support create specific dependencies within the family, which in case of separation or divorce may have negative economic consequences for the weaker partner. The central question is how much economic autonomy is granted to the weaker family members within each of the four models. Following a thorough discussion of the institutional setting in each of the selected countries, it is assumed that economic autonomy is highest in Sweden and lowest in Italy with Belgium, Germany, and Great Britain ranging in between. Using a cross-national data set of separations developed by the authors from national household panels in these five countries, a large number of partnership dissolutions are studied over time. The observation period is long enough to distinguish short- from long-term consequences of partnership dissolution and in doing so to add to previous comparative research. Using multivariate panel data models it is shown that (i) adjusted household income is affected for both genders; however more negatively for women than for men, (ii) the income decline is highest in Italy and lowest in Sweden, and (iii) British and German women recover rather quickly from the negative economic effects of separation. Sweden stands out as the country with the highest gender equalities with respect to post-separation incomes. However, the model does not convince without having a blemish: in the long run both Swedish men and women have to deal with long-lasting financial consequences after separation, which do not appear to the same extent in any of the other countries.",
+  "authors": [
+    {
+      "raw": "Andress, H.-J.",
+      "family": "Andress",
+      "given": "H.-J."
+    },
+    {
+      "raw": "Borgloh, B.",
+      "family": "Borgloh",
+      "given": "B."
+    },
+    {
+      "raw": "Brockel, M.",
+      "family": "Brockel",
+      "given": "M."
+    },
+    {
+      "raw": "Giesselmann, M.",
+      "family": "Giesselmann",
+      "given": "M."
+    },
+    {
+      "raw": "Hummelsheim, D.",
+      "family": "Hummelsheim",
+      "given": "D."
+    }
+  ],
+  "authors_text": "Andress, H.-J.; Borgloh, B.; Brockel, M.; Giesselmann, M.; Hummelsheim, D.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1093/esr/jcl012",
+  "doi_url": "https://doi.org/10.1093/esr/jcl012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcl012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcl012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

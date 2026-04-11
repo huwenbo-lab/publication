@@ -1,0 +1,30 @@
+{
+  "title": "Beyond Borders: Understanding Themes and Transitions in Skilled Migration Research Through Machine Learning Methods and Sociological Frameworks",
+  "abstract": "The global race to attract (highly) skilled or educated migrants (SEMs) has fueled significant scholarly interest, yet the evolution and collaboration patterns within SEM research remain underexplored. The authors address this gap by using computational methods (dynamic topic modeling, network analysis, and named entity recognition) to analyze 985 SEM-related studies published from 2000 to 2023 and to understand the temporal evolution of research themes. The findings reveal a rapid expansion of SEM research since 2010, with increasing scholarly engagement across diverse disciplines and countries, suggesting that intellectual proximity no longer dominates in this research field. Although key topics such as SEMs’ roles in international trade and integration challenges are gaining attention, most topics evolve slowly, revealing that the field is transitioning from a “reconfiguration” to a “normal” period, as theorized by Andrew Abbott. Research gaps persist, particularly in understanding SEMs’ social impacts and the role of nonpublic sectors in their migration and integration. This study provides a systematic analysis of SEMs’ research, identifying trends, gaps, and collaboration patterns. It demonstrates the value of combining machine learning methods with sociological theoretical frameworks in exploring migration studies, offering a methodological framework for other interdisciplinary domains.",
+  "authors": [
+    {
+      "raw": "Liu, Yuyao",
+      "family": "Liu",
+      "given": "Yuyao"
+    },
+    {
+      "raw": "Fong, Eric",
+      "family": "Fong",
+      "given": "Eric"
+    }
+  ],
+  "authors_text": "Liu, Yuyao; Fong, Eric",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251374111",
+  "doi_url": "https://doi.org/10.1177/23780231251374111",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251374111",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251374111.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

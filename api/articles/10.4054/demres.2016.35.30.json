@@ -1,0 +1,30 @@
+{
+  "title": "The Great Recession and America's geography of unemployment",
+  "abstract": "BACKGROUND The Great Recession of 2007-2009 was the most severe and lengthy economic crisis in the US since the Great Depression of the 1930s. The impacts on the population were multi-dimensional, but operated largely through local labor markets. OBJECTIVE To examine differences in recession-related changes in county unemployment rates and assess how population and place characteristics shaped these patterns. METHODS We calculate and decompose Theil Indexes to describe recession-related changes in the distribution of unemployment rates between counties and states. We use exploratory spatial statistics to identify geographic clusters of counties that experienced similar changes in unemployment. We use spatial regression to evaluate associations between county-level recession impacts on unemployment and demographic composition, industrial structure, and state context. RESULTS The recession was associated with increased inequality between county labor markets within states, but declining between-state differences. Counties that experienced disproportionate recession-related increases in unemployment were spatially clustered and characterized by large shares of historically disadvantaged racial and ethnic minority populations, low educational attainment, and heavy reliance on pro-cyclical industries. Associations between these sources of vulnerability were partially explained by unobserved state-level factors. CONCLUSIONS The local consequences of macroeconomic trends are associated with county population characteristics, and the structural contexts and policy environments in which they are embedded. The recession placed upward pressure on within-state disparities in local labor market conditions. CONTRIBUTION To present new estimates of the recession's impact on local labor markets, quantify how heterogeneous impacts affected the distribution of unemployment prevalence, and identify county characteristics associated with disproportionately large recession-related increases in unemployment.",
+  "authors": [
+    {
+      "raw": "Thiede, Brian C.",
+      "family": "Thiede",
+      "given": "Brian C."
+    },
+    {
+      "raw": "Monnat, Shannon M.",
+      "family": "Monnat",
+      "given": "Shannon M."
+    }
+  ],
+  "authors_text": "Thiede, Brian C.; Monnat, Shannon M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.30",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

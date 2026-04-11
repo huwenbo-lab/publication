@@ -1,0 +1,25 @@
+{
+  "title": "Nonlinear models of distribution of talking in small groups",
+  "abstract": "This paper develops a mathematical model of the distribution over time of talking in discussion groups. Researchers of small group processes and social inequality have long recognized that interaction in small discussion groups is usually not equally distributed and that being a person who talks more than others is associated with having higher status outside the group and greater prestige and influence within the group. There is also a history of mathematical approaches to describing this phenomenon. As an addition to this literature, here a nonlinear dynamical system model is presented and used to develop computer simulations that are compared with data from a laboratory study of real four-person discussion groups. The model is based on theoretical assumptions about group processes including individual differences in volubility, status generalization, deference hierarchies and norms of taking turns and of fairness. While none of these alone make predictions that match the data, when they are all combined simulations are produced that closely match the data in both changes over time and differentiation among members. The dynamical system using the parameters as estimated for these data reaches a fixed point, which may help understand how groups structures become stable under some conditions but not others.",
+  "authors": [
+    {
+      "raw": "Meeker, Barbara F.",
+      "family": "Meeker",
+      "given": "Barbara F."
+    }
+  ],
+  "authors_text": "Meeker, Barbara F.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102367",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102367",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102367",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102367.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

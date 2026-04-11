@@ -1,0 +1,45 @@
+{
+  "title": "Ethnic Residential Segregation: A Multilevel, Multigroup, Multiscale Approach Exemplified by London in 2011",
+  "abstract": "We develop and apply a multilevel modeling approach that is simultaneously capable of assessing multigroup and multiscale segregation in the presence of substantial stochastic variation that accompanies ethnicity rates based on small absolute counts. Bayesian MCMC estimation of a log-normal Poisson model allows the calculation of the variance estimates of the degree of segregation in a single overall model, and credible intervals are obtained to provide a measure of uncertainty around those estimates. The procedure partitions the variance at different levels and implicitly models the dependency (or autocorrelation) at each spatial scale below the topmost one. Substantively, we apply the model to 2011 census data for London, one of the world's most ethnically diverse cities. We find that the degree of segregation depends both on scale and group.",
+  "authors": [
+    {
+      "raw": "Jones, Kelvyn",
+      "family": "Jones",
+      "given": "Kelvyn"
+    },
+    {
+      "raw": "Johnston, Ron",
+      "family": "Johnston",
+      "given": "Ron"
+    },
+    {
+      "raw": "Manley, David",
+      "family": "Manley",
+      "given": "David"
+    },
+    {
+      "raw": "Owen, Dewi",
+      "family": "Owen",
+      "given": "Dewi"
+    },
+    {
+      "raw": "Charlton, Chris",
+      "family": "Charlton",
+      "given": "Chris"
+    }
+  ],
+  "authors_text": "Jones, Kelvyn; Johnston, Ron; Manley, David; Owen, Dewi; Charlton, Chris",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0430-1",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0430-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0430-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0430-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

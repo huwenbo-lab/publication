@@ -1,0 +1,30 @@
+{
+  "title": "The role of social integration in the adverse effect of unemployment on mental health - Testing the causal pathway and buffering hypotheses using panel data",
+  "abstract": "Social integration is considered crucially important for understanding the adverse effect of unemployment on mental health. Social integration is assumed to either bring about the health effects of unemployment (causal pathway hypothesis) or shield the unemployed from such effects (buffering hypothesis). However, there is scarce empirical evidence, especially based on panel data, regarding these two hypotheses. In our analysis, we use up to ten waves of the Labour Market and Social Security (PASS) German panel study and apply fixed effects panel regressions to account for unobserved confounders. We test several indicators that cover different aspects of social integration (numbers of strong and weak ties, conflict in the household, employed friends, general and job search-specific social support). We find no empirical support for the causal pathway hypothesis and only very limited support for the buffering hypothesis.",
+  "authors": [
+    {
+      "raw": "Krug, Gerhard",
+      "family": "Krug",
+      "given": "Gerhard"
+    },
+    {
+      "raw": "Prechsl, Sebastian",
+      "family": "Prechsl",
+      "given": "Sebastian"
+    }
+  ],
+  "authors_text": "Krug, Gerhard; Prechsl, Sebastian",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102379",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102379",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102379",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102379.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Some Provisional Techniques for Quantifying the Degree of Field Effect in Social Data",
+  "abstract": "The authors present some relatively simple measures for the degree of organization of a social field, illustrating them with the intuitively accessible cases of fields that are organized by geographic space, and demonstrate that the measures are able to indicate when fields become more organized and that they can be applied to nongeographic data. Finally, the general approach highlights the danger of ignoring complexities of the functional form of spatial interdependence for social data.",
+  "authors": [
+    {
+      "raw": "Martin, John Levi",
+      "family": "Martin",
+      "given": "John Levi"
+    },
+    {
+      "raw": "Slez, Adam",
+      "family": "Slez",
+      "given": "Adam"
+    },
+    {
+      "raw": "Borkenhagen, Chad",
+      "family": "Borkenhagen",
+      "given": "Chad"
+    }
+  ],
+  "authors_text": "Martin, John Levi; Slez, Adam; Borkenhagen, Chad",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2016,
+  "doi": "10.1177/2378023116635653",
+  "doi_url": "https://doi.org/10.1177/2378023116635653",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023116635653",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023116635653.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

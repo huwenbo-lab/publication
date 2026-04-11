@@ -1,0 +1,30 @@
+{
+  "title": "Socioeconomic Inequality in Children's Achievement from Infancy to Adolescence: The Case of Germany",
+  "abstract": "When in children's lives do gaps by family socioeconomic status (SES) in cognitive skills emerge, how large are they before children enter school, and how do they develop over schooling? We study the evolution of achievement gaps by parental education from birth to adolescence in Germany. We exploit data from fifty-seven tests taken from the age of seven months to sixteen years by the National Educational Panel Study. Because Germany has one of the most stratified education systems in the Western World, we hypothesized that achievement gaps will grow particularly during tracked secondary schooling. However, our findings show that SES gaps emerge and expand long before children enter school and then remain stable throughout their school careers. Because gaps stop growing, we tentatively conclude that schooling decreases inequality in learning by family SES.",
+  "authors": [
+    {
+      "raw": "Skopek, Jan",
+      "family": "Skopek",
+      "given": "Jan"
+    },
+    {
+      "raw": "Passaretta, Giampiero",
+      "family": "Passaretta",
+      "given": "Giampiero"
+    }
+  ],
+  "authors_text": "Skopek, Jan; Passaretta, Giampiero",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa093",
+  "doi_url": "https://doi.org/10.1093/sf/soaa093",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa093",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa093.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Caste Inequality in Occupational Exposure to Heat Waves in India",
+  "abstract": "India is a leading global hot spot for extreme heat waves induced by climate change. The social demography of India is centered on its caste hierarchy rooted in endogamous occupational groups. We investigate the association between caste and climate inequality by studying occupational exposure during the 2019 and 2022 heat waves. We combine high spatiotemporal resolution heat stress information from satellite imagery with a large nationally and regionally representative labor force survey with rich socioeconomic and demographic information (n > 100,000 individuals). The slope of the heat stress dose-workhours curve corresponding to the marginalized caste groups is between 25% and 150% steeper than that for dominant caste groups for UTCI (Universal Thermal Climate Index) thresholds between 26 degrees C and 35 degrees C. Our models control for other economic-demographic confounders, including age, gender, education, and economic status, besides political-geographic controls and fixed effects. Our robust evidence for the association between caste identity and exposure to heat stress shows why adaptation and mitigation plans in India must account for the hierarchical social order characterized by the division of laborers along caste lines rather than the mere division of labor. Methodologically, our analysis demonstrates the utility of pairing satellite imagery and detailed demographic data.",
+  "authors": [
+    {
+      "raw": "Shah, Arpit",
+      "family": "Shah",
+      "given": "Arpit"
+    },
+    {
+      "raw": "Thapliyal, Sneha",
+      "family": "Thapliyal",
+      "given": "Sneha"
+    },
+    {
+      "raw": "Sugathan, Anish",
+      "family": "Sugathan",
+      "given": "Anish"
+    },
+    {
+      "raw": "Mishra, Vimal",
+      "family": "Mishra",
+      "given": "Vimal"
+    },
+    {
+      "raw": "Malghan, Deepak",
+      "family": "Malghan",
+      "given": "Deepak"
+    }
+  ],
+  "authors_text": "Shah, Arpit; Thapliyal, Sneha; Sugathan, Anish; Mishra, Vimal; Malghan, Deepak",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11803010",
+  "doi_url": "https://doi.org/10.1215/00703370-11803010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11803010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11803010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

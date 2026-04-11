@@ -1,0 +1,25 @@
+{
+  "title": "Ethnic and regional inequalities in Russian military fatalities in Ukraine: Preliminary findings from crowdsourced data",
+  "abstract": "OBJECTIVES This paper investigates ethnic and regional disparities in fatality rates in the Russian military in 2022-2023 during the war in Ukraine.METHODS The analysis uses a new crowdsourced dataset comprising the names of over 20,000 Russian soldiers killed in Ukraine between February 2022 and April 2023. This dataset was compiled by a team of volunteers who gathered information from social media and other accessible sources. The dataset is incomplete and therefore the findings reported in this paper are tentative. Mortality rates and relative risks are estimated by ethnic group and region, and a linear model is fitted to assess the correlation between the ethnic composition of the population, socioeconomic factors, and regional fatality rates.RESULTS The study reveals significant disparities in military fatality rates across Russian regions, with the highest mortality observed among soldiers originating from economically disadvantaged areas in Siberia and the Russian Far East and the lowest among soldiers from Moscow and St. Petersburg. Buryats and Tuvans are overrepresented among the fatalities relative to their population share. However, when regional socioeconomic disparities are accounted for, ethnic differences in mortality rates are considerably reduced.CONCLUSIONS The observed regional and ethnic fatality disparities appear to be driven by socioeconomic inequalities between regions.CONTRIBUTION This paper evaluates social inequalities in fatalities in the Russian military in Ukraine and compares these findings with research on US military casualties.",
+  "authors": [
+    {
+      "raw": "Bessudnov, Alexey",
+      "family": "Bessudnov",
+      "given": "Alexey"
+    }
+  ],
+  "authors_text": "Bessudnov, Alexey",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.31",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

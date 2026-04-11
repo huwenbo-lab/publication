@@ -1,0 +1,50 @@
+{
+  "title": "Fitting Age-Period-Cohort Models Using the Intrinsic Estimator: Assumptions and Misapplications",
+  "abstract": "We thank Demography’s editorial office for the opportunity to respond to te Grotenhuis et al.’s commentary regarding the methods used and the results presented in our earlier paper (Masters et al. 2014). In this response, we briefly reply to three general themes raised in the commentary: (1) the presentation and discussion of APC results, (2) the fitting of full APC models to data for which a simpler model holds, and (3) the variation in the estimated age, period, and cohort coefficients produced by the intrinsic estimator (IE) (i.e., the “non-uniqueness property” of the IE, as referred to by Pelzer et al. (2015)).",
+  "authors": [
+    {
+      "raw": "Masters, Ryan K.",
+      "family": "Masters",
+      "given": "Ryan K."
+    },
+    {
+      "raw": "Powers, Daniel A.",
+      "family": "Powers",
+      "given": "Daniel A."
+    },
+    {
+      "raw": "Hummer, Robert A.",
+      "family": "Hummer",
+      "given": "Robert A."
+    },
+    {
+      "raw": "Beck, Audrey",
+      "family": "Beck",
+      "given": "Audrey"
+    },
+    {
+      "raw": "Lin, Shih-Fan",
+      "family": "Lin",
+      "given": "Shih-Fan"
+    },
+    {
+      "raw": "Finch, Brian Karl",
+      "family": "Finch",
+      "given": "Brian Karl"
+    }
+  ],
+  "authors_text": "Masters, Ryan K.; Powers, Daniel A.; Hummer, Robert A.; Beck, Audrey; Lin, Shih-Fan; Finch, Brian Karl",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0481-y",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0481-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0481-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0481-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

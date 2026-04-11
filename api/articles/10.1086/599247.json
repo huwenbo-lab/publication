@@ -1,0 +1,30 @@
+{
+  "title": "Origins of Homophily in an Evolving Social Network",
+  "abstract": "The authors investigate the origins of homophily in a large university community, using network data in which interactions, attributes, and affiliations are all recorded over time. The analysis indicates that highly similar pairs do show greater than average propensity to form new ties; however, it also finds that tie formation is heavily biased by triadic closure and focal closure, which effectively constrain the opportunities among which individuals may select. In the case of triadic closure, moreover, selection to friend of a friend status is determined by an analogous combination of individual preference and structural proximity. The authors conclude that the dynamic interplay of choice homophily and induced homophily, compounded over many generations of biased selection of similar individuals to structurally proximate positions, can amplify even a modest preference for similar others, via a cumulative advantage like process, to produce striking patterns of observed homophily.",
+  "authors": [
+    {
+      "raw": "Kossinets, Gueorgi",
+      "family": "Kossinets",
+      "given": "Gueorgi"
+    },
+    {
+      "raw": "Watts, Duncan J.",
+      "family": "Watts",
+      "given": "Duncan J."
+    }
+  ],
+  "authors_text": "Kossinets, Gueorgi; Watts, Duncan J.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2009,
+  "doi": "10.1086/599247",
+  "doi_url": "https://doi.org/10.1086/599247",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F599247",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/599247.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

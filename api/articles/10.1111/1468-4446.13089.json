@@ -1,0 +1,35 @@
+{
+  "title": "'Levelling up' social mobility? Comparing the social and spatial mobility for university graduates across districts of Britain",
+  "abstract": "Social and spatial mobility have been subject to substantial recent sociological and policy debate. Complementing other recent work, in this paper we explore these patterns in relation to higher education. Making use of high-quality data from the higher education statistics agency (HESA), we ran a set of multilevel models to test whether the local authority areas where young people grow up influence social and spatial mobility into a higher professional or managerial job on graduation. We found entry to these patterns reflect pre-existing geographies of wealth and income, with more affluent rural and suburban areas in South-East England having higher levels of entry to these occupations. Graduates clustered from major cities tended to be spatially immobile and those from peripheral areas further away from these cities show a higher density of long-distance moves following graduation. We also explored the intersection between social and spatial mobility for graduates with the economic geography of Britain, showing that access to high-class occupations is not necessarily associated with long-distance moves across most British districts. Our evidence further suggests that the 'London effect', where working-class students have higher school attainment than their peers elsewhere, may not continue through to graduate employment.",
+  "authors": [
+    {
+      "raw": "Yu, Yang",
+      "family": "Yu",
+      "given": "Yang"
+    },
+    {
+      "raw": "Gamsu, Sol",
+      "family": "Gamsu",
+      "given": "Sol"
+    },
+    {
+      "raw": "Forsberg, Hakan",
+      "family": "Forsberg",
+      "given": "Hakan"
+    }
+  ],
+  "authors_text": "Yu, Yang; Gamsu, Sol; Forsberg, Hakan",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1111/1468-4446.13089",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13089",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13089",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13089.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Reevaluating the Spatial Scale of Residential Segregation: Racial Change Within and Between Neighborhoods",
+  "abstract": "This study evaluates the extent to which metropolitan racial segregation occurs between neigh bor hoods-from tract to tract-and within neighborhoods-from block to block-and is framed the o ret i cally by Putnam's (2007) hunkering down hypoth e sis. Analyses are based on com plete-count block, tract, and met ro pol i tan data from the last four U.S. decen nial censuses. We doc u ment recent pat terns of block -toblock seg re ga tion between Whites and racial and eth nic minor i ties (Blacks, Asians, and His pan ics) and between dif fer ent minor ity pairs. For exam ple, roughly 40% of all metro Black-White seg re ga tion is due to seg re ga tion from block to block within neighborhoods. Among Asians, the between -neighborhood component of metropolitan seg re ga tion has increased over time but was largely com pen sated by declines in the within -neighborhood (or block) component. Metropolitan fixed -effects models show that trends and racial and eth nic differ ences in seg re ga tion-over all and within and between neigh bor hoods-are broadly observed across metro areas but are most evi dent in the larg est, oldest, and most highly seg re gated metro areas. The results are robust to alternative estimates that adjust for differential privacy, metropolitan reclassification, and neigh bor hood bound ary changes. Analyses of neigh bor hood change in Atlanta, Georgia, fur ther rein force the gen er al ity of our multiscale approach.",
+  "authors": [
+    {
+      "raw": "Lichter, Daniel T.",
+      "family": "Lichter",
+      "given": "Daniel T."
+    },
+    {
+      "raw": "Parisi, Domenico",
+      "family": "Parisi",
+      "given": "Domenico"
+    },
+    {
+      "raw": "Ambinakudige, Shrinidhi",
+      "family": "Ambinakudige",
+      "given": "Shrinidhi"
+    },
+    {
+      "raw": "Scott, Christian K.",
+      "family": "Scott",
+      "given": "Christian K."
+    }
+  ],
+  "authors_text": "Lichter, Daniel T.; Parisi, Domenico; Ambinakudige, Shrinidhi; Scott, Christian K.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11195639",
+  "doi_url": "https://doi.org/10.1215/00703370-11195639",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11195639",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11195639.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

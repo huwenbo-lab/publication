@@ -1,0 +1,30 @@
+{
+  "title": "Saving Babies: The Impact of Public Education Programs on Infant Mortality",
+  "abstract": "Abstract We take advantage of unique data on specific activities conducted under the Sheppard-Towner Act from 1924 through 1929 to focus on how public health interventions affected infant mortality. Interventions that provided one-on-one contact and opportunities for follow-up care, such as home visits by nurses and the establishment of health clinics, reduced infant deaths more than did classes and conferences. These interventions were particularly effective for nonwhites, a population with limited access to physicians and medical care. Although limited data on costs prevent us from making systematic cost-benefit calculations, we estimate that one infant death could be avoided for every $1,600 (about $20,400 in 2010 dollars) spent on home nurse visits.",
+  "authors": [
+    {
+      "raw": "Moehling, Carolyn M.",
+      "family": "Moehling",
+      "given": "Carolyn M."
+    },
+    {
+      "raw": "Thomasson, Melissa A.",
+      "family": "Thomasson",
+      "given": "Melissa A."
+    }
+  ],
+  "authors_text": "Moehling, Carolyn M.; Thomasson, Melissa A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-013-0274-5",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0274-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0274-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0274-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

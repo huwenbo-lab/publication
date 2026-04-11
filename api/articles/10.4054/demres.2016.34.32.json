@@ -1,0 +1,25 @@
+{
+  "title": "Investigating the migrant mortality advantage at the intersections of social stratification in Switzerland: The role of vulnerability",
+  "abstract": "BACKGROUND Migrant mortality advantage has been widely studied in Western countries, but little attention has been paid to how social factors interact to increase or diminish risks of death. Socioeconomic factors are indeed widely used in regression models but mostly to define, ceteris paribus, whether migrants have a higher propensity to die than natives. OBJECTIVE Using an inductive approach, the aim of this paper is to reassess the role of social factors. Focusing on migrant communities, the paper establishes at which intersection of the components of social stratification the migrant mortality advantage is mainly located. METHODS This study is based on census data linked with population registers (2001-2008) and focuses on individuals aged 25-64 years living in Switzerland. It uses model-based regression trees to first map the structure of mortality risks within the social stratification. In a second step, a confirmatory analysis supports the main outcomes. RESULTS Inductive methods give substantial results, firstly in revealing interactions within the social structure. Secondly, the findings suggest that the mortality advantage is not located only among immigrants but encompasses a wide population with a foreign background. Thirdly, it demonstrates that the migrant mortality advantage is stronger in the most vulnerable profiles. The non-inclusion in previous research of the flatter mortality gradient among individuals with a foreign background tends to underestimate the strength of the differentials. CONCLUSION Selection and acculturation explanations are not sufficient to understand the migrant mortality advantage. Psychosocial factors related to the migration background may provide an alternative explanation.",
+  "authors": [
+    {
+      "raw": "Zufferey, Jonathan",
+      "family": "Zufferey",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Zufferey, Jonathan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.32",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

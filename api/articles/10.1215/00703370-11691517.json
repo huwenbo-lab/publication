@@ -1,0 +1,35 @@
+{
+  "title": "The Causal Effect of Increasing Area-Level Income on Birth Outcomes and Pregnancy-Related Health: Estimates From the Marcellus Shale Boom Economy",
+  "abstract": "Income is positively correlated with pregnancy health and birth outcomes but the causal evidence for this association is limited. Leveraging a natural experiment based on the Pennsylvania boom economy created by the extraction of natural gas from the Marcellus Shale geological formation, we test whether area-level income gains impact birth outcomes (birth weight, gestational length, and preterm birth) and pregnancy health (prepregnancy and prenatal smoking, prepregnancy weight status, gestational weight gain, and the timing and adequacy of prenatal care). We append tax data to birth certificate data and compare health outcomes before and after the boom for births occurring in school districts above the Marcellus Shale. We also explore income effects with a subsample of siblings and test for nonlinear income effects by considering preboom district poverty rates. Using instrumented difference-in-differences models, we find that plausibly exogenous income gains increase the likelihood of having adequate prenatal care in the full sample. In the sibling sample, income gains decrease the likelihood of low birth weight but increase the likelihood of prepregnancy underweight among birthing parents. Results are statistically significant in initially high-poverty districts. We thus affirm prior findings of a causal effect of income on birth weight and prenatal care use but find minimal area-level income effects on other pregnancy-related health behaviors and birth outcomes.",
+  "authors": [
+    {
+      "raw": "Martin, Molly A.",
+      "family": "Martin",
+      "given": "Molly A."
+    },
+    {
+      "raw": "Green, Tiffany L.",
+      "family": "Green",
+      "given": "Tiffany L."
+    },
+    {
+      "raw": "Chapman, Alexander",
+      "family": "Chapman",
+      "given": "Alexander"
+    }
+  ],
+  "authors_text": "Martin, Molly A.; Green, Tiffany L.; Chapman, Alexander",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11691517",
+  "doi_url": "https://doi.org/10.1215/00703370-11691517",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11691517",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11691517.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

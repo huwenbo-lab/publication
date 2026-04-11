@@ -1,0 +1,25 @@
+{
+  "title": "Leveraging Multiple Machine-Learning Techniques to Predict Major Life Outcomes from a Small Set of Psychological and Socioeconomic Variables: A Combined Bottom-up/Top-down Approach",
+  "abstract": "Predicting longitudinal outcomes from thousands of variables across multiple waves provides impressive opportunities to identify variables of importance, but what is the most efficient way to carry out such analyses on hundreds or thousands of variables? As part of the Fragile Families Challenge, a series of analyses were conducted that aimed at identifying a few reliable, important variables, primarily with machine-learning approaches given minimal oversight. Using generalized boosted models, random forests, and elastic net regression models, these analyses identified a consistent set of psychological and socioeconomic factors that yielded strong prediction scores in generalized linear models. These results demonstrate that relatively simple models fitted to the Fragile Families data can generate predictions that perform close to state-of-the-art predictive models.",
+  "authors": [
+    {
+      "raw": "Altschul, Drew M.",
+      "family": "Altschul",
+      "given": "Drew M."
+    }
+  ],
+  "authors_text": "Altschul, Drew M.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118819943",
+  "doi_url": "https://doi.org/10.1177/2378023118819943",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118819943",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118819943.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

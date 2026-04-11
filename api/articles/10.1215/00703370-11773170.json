@@ -1,0 +1,30 @@
+{
+  "title": "Research Note: New Estimates of Immigrants' Self-employment From Linked Tax Records",
+  "abstract": "Self-employment plays a crucial role in immigrants' economic assimilation. Previous studies examining immigrants' self-employment relied on estimates obtained from national surveys, which could contain measurement error. In this research note, we compare estimates of immigrant men's self-employment obtained from the Current Population Survey (CPS) with those from data linking respondents to their tax records. Our findings indicate that the CPS substantially underestimates the immigrant-native gap in self-employment. In some cases, the rate of self-employment for immigrants from administrative data is nearly double that obtained from survey data alone. Measurement error also appears to distort estimated differences in self-employment among immigrants by race, ethnicity, and national origin. The results highlight the greater importance of self-employment for the labor market integration of immigrant men than was previously known on the basis of survey data alone.",
+  "authors": [
+    {
+      "raw": "Tamborini, Christopher R.",
+      "family": "Tamborini",
+      "given": "Christopher R."
+    },
+    {
+      "raw": "Villarreal, Andres",
+      "family": "Villarreal",
+      "given": "Andres"
+    }
+  ],
+  "authors_text": "Tamborini, Christopher R.; Villarreal, Andres",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11773170",
+  "doi_url": "https://doi.org/10.1215/00703370-11773170",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11773170",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11773170.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Immigrant Fertility in Comparative Perspective: South Africa and the United States",
+  "abstract": "Because immigrant fertility is situated within two societies, the resultant childbearing patterns reflect a culmination of selectivity into migration alongside blended experiences of origin-destination contexts around fertility norms. We analyze the ways that national origin shapes patterns of childbearing within fertility covariates. We use data from Statistics South Africa and the United States Census Bureau harmonized in the Integrated Public Use Microdata Series, International for a disaggregated analysis of the odds of a birth in the past year among the three most prominent immigrant groups compared with native-born women in each receiving country. Interacted logistic regression analyses and margins results demonstrate significant nativity-based differences in the odds of childbearing across age, previous childbearing, and marital status, but not across educational attainment. We attribute variation in the covariates of fertility across nativities to demographic composition and the contexts of migration unique to each group.",
+  "authors": [
+    {
+      "raw": "Aguilera, Guadalupe",
+      "family": "Aguilera",
+      "given": "Guadalupe"
+    },
+    {
+      "raw": "Korinek, Kim",
+      "family": "Korinek",
+      "given": "Kim"
+    }
+  ],
+  "authors_text": "Aguilera, Guadalupe; Korinek, Kim",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-019-00852-9",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00852-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00852-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00852-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Sibling Spillovers: Having an Academically Successful Older Sibling May Be More Important for Children in Disadvantaged Families",
+  "abstract": "This article examines causal sibling spillover effects among students from different family backgrounds in elementary and middle school. Family backgrounds are captured by race, household structure, mothers' educational attainment, and school poverty. Exploiting discontinuities in school starting age created by North Carolina school-entry laws, we adopt a quasi-experimental approach and compare test scores of public school students whose older siblings were born shortly before and after the school-entry cutoff date. We find that individuals whose older siblings were born shortly after the school-entry cutoff date have significantly higher test scores in middle school and that this positive spillover effect is particularly strong in disadvantaged families. We estimate that the spillover effect accounts for approximately one-third of observed statistical associations in test scores between siblings, and the magnitude is much larger for disadvantaged families. Our results suggest that spillover effects from older to younger siblings may lead to greater divergence in academic outcomes and economic inequality between families.",
+  "authors": [
+    {
+      "raw": "Zang, Emma",
+      "family": "Zang",
+      "given": "Emma"
+    },
+    {
+      "raw": "Cook, Philip J.",
+      "family": "Cook",
+      "given": "Philip J."
+    },
+    {
+      "raw": "Tan, Poh Lin",
+      "family": "Tan",
+      "given": "Poh Lin"
+    }
+  ],
+  "authors_text": "Zang, Emma; Cook, Philip J.; Tan, Poh Lin",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1086/724723",
+  "doi_url": "https://doi.org/10.1086/724723",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F724723",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/724723.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Unemployment, Nonstandard Employment, and Fertility: Insights From Japan's Lost 20 Years",
+  "abstract": "In this study, we examine relationships of unemployment and nonstandard employment with fertility. We focus on Japan, a country characterized by a prolonged economic downturn, significant increases in both unemployment and nonstandard employment, a strong link between marriage and childbearing, and pronounced gender differences in economic roles and opportunities. Analyses of retrospective employment, marriage, and fertility data for the period 1990-2006 indicate that changing employment circumstances for men are associated with lower levels of marriage, while changes in women's employment are associated with higher levels of marital fertility. The latter association outweighs the former, and results of counterfactual standardization analyses indicate that Japan's total fertility rate would have been 10 % to 20 % lower than the observed rate after 1995 if aggregate- and individual-level employment conditions had remained unchanged from the 1980s. We discuss the implications of these results in light of ongoing policy efforts to promote family formation and research on temporal and regional variation in men's and women's roles within the family.",
+  "authors": [
+    {
+      "raw": "Raymo, James M.",
+      "family": "Raymo",
+      "given": "James M."
+    },
+    {
+      "raw": "Shibata, Akihisa",
+      "family": "Shibata",
+      "given": "Akihisa"
+    }
+  ],
+  "authors_text": "Raymo, James M.; Shibata, Akihisa",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0614-y",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0614-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0614-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0614-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

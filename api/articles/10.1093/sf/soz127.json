@@ -1,0 +1,35 @@
+{
+  "title": "The Enduring Influence of Cohort Characteristics on Race-Specific Homicide Rates",
+  "abstract": "This study extends research on cohort effects and crime by considering how bifurcated population dynamics and institutional constraints explain variation in homicide rates across racial groups in the United States. Drawing upon the extensive research on racial residential segregation and institutional segmentation, we theorize how the criminogenic influences of cohort characteristics elucidated in prior work will be greater for Black cohorts than for White cohorts. We assess our hypothesis by estimating Age-Period-Cohort Characteristic models with data for the total population and separately for the Black and White populations over the 1975-2014 period. The results reveal persistent effects of relative cohort size and nonmarital births on Black cohort-specific homicide rates but null effects among the White population. These effects follow Black birth cohorts across the life course, leading to higher rates of both homicide arrest and homicide victimization.",
+  "authors": [
+    {
+      "raw": "Vogel, Matt",
+      "family": "Vogel",
+      "given": "Matt"
+    },
+    {
+      "raw": "Thompson, Kristina J.",
+      "family": "Thompson",
+      "given": "Kristina J."
+    },
+    {
+      "raw": "Messner, Steven F.",
+      "family": "Messner",
+      "given": "Steven F."
+    }
+  ],
+  "authors_text": "Vogel, Matt; Thompson, Kristina J.; Messner, Steven F.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz127",
+  "doi_url": "https://doi.org/10.1093/sf/soz127",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz127",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz127.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The Transformation of Prison Regimes in Late Capitalist Societies",
+  "abstract": "Recent studies argue that cultural and political-economic shifts have led to a sea change in penal regimes among modern Western societies, resulting in more punitive social policies in general and a trend toward higher incarceration rates in particular. This is a special case of a wider argument that globalization has led to a decline in state autonomy and convergence on a market-based model of economic and social policy. This thesis has been challenged by the empirical literature on welfare states, which finds persistent cross-national diversity in institutional structures, policies, and patterns of inequality. Focusing on incarceration rates as the outcome of interest, this study evaluates these arguments by applying a Bayesian change-point model to four decades of data from 15 countries. Results show that a regime shift did occur but that incarceration rates increased mainly among countries with unregulated labor markets, decentralized polities, or weak labor unions. Profound institutional differences persist and are fateful for incarceration trajectories.",
+  "authors": [
+    {
+      "raw": "Sutton, John R.",
+      "family": "Sutton",
+      "given": "John R."
+    }
+  ],
+  "authors_text": "Sutton, John R.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2013,
+  "doi": "10.1086/675300",
+  "doi_url": "https://doi.org/10.1086/675300",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F675300",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/675300.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

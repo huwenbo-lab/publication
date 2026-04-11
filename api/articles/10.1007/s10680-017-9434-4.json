@@ -1,0 +1,25 @@
+{
+  "title": "Constrained Mortality Extrapolation to Old Age: An Empirical Assessment",
+  "abstract": "This paper aims to improve the accuracy of parametric extrapolations of the death rates into old age by constraining the extrapolation model on presumed life expectancy at old age. Such a task is particularly important in cases where the data quality at old age, in particular the age exaggeration, is not sufficient for reliable mortality estimates. Our tests are based on period data from the Human Mortality Database and the use of the Horiuchi-Coale and Mitra formulas for reducing the bias of life expectancy in the open age interval. We show that extrapolation accuracy is substantially improved when the extrapolation is constrained by either the empirical life expectancy or the Horiuchi-Coale or Mitra estimates. Unconstrained extrapolations and those constrained by conventional life table estimates of life expectancy in the open age interval show substantial biases and should be avoided. Combining extrapolation with life expectancy estimates which are robust to the effects of age exaggeration appears to be a valuable way of improving mortality estimation.",
+  "authors": [
+    {
+      "raw": "Ediev, Dalkhat M.",
+      "family": "Ediev",
+      "given": "Dalkhat M."
+    }
+  ],
+  "authors_text": "Ediev, Dalkhat M.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2017,
+  "doi": "10.1007/s10680-017-9434-4",
+  "doi_url": "https://doi.org/10.1007/s10680-017-9434-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-017-9434-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-017-9434-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

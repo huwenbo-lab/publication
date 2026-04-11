@@ -1,0 +1,30 @@
+{
+  "title": "Short- to medium-run forecasting of mobility with dynamic linear models",
+  "abstract": "BACKGROUND Long-term projections of mobility are key inputs to sub-national population projections. These long-term projections are based on extrapolations of long-term trends. In cases of strong, potentially temporal, fluctuations it is informative to analyse the short-to medium -term dynamics of mobility, using data of monthly frequency. OBJECTIVE We develop two univariate models to forecast short-to medium-term mobility in the Netherlands. We apply a recent turning point in the time series of mobility to demonstrate how short-to medium-term forecasts can provide early warning signals about possible changes in the annual trend. METHODS The models we apply are Dynamic Linear Models (DLMs) which belong to the state space family of models. The two models developed in the paper incorporate trend, sea-sonal and autoregressive components but differ in the representation of the long-term trend. Posterior sampling allows for calculation of consistent prediction intervals for both monthly and annual data. CONCLUSION Forecast accuracy is evaluated using time series cross-validation. Point forecast errors and calibration of prediction intervals are compared to those of several other popular univariate forecasting models. One of our DLM models is more accurate than the models included as comparison. CONTRIBUTION The paper shows how short-to medium-term forecasts of mobility can be used to inform long-term projections based on annual data. This will be a challenging task for statistical offices generating post-COVID-19 demographic projections.",
+  "authors": [
+    {
+      "raw": "Husby, Trond",
+      "family": "Husby",
+      "given": "Trond"
+    },
+    {
+      "raw": "Visser, Hans",
+      "family": "Visser",
+      "given": "Hans"
+    }
+  ],
+  "authors_text": "Husby, Trond; Visser, Hans",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.28",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

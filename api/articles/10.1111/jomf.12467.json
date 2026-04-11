@@ -1,0 +1,30 @@
+{
+  "title": "Productivity or Gender? The Impact of Domestic Tasks Across the Wage Distribution",
+  "abstract": "This article assesses the wage impact of domestic tasks across women's and men's wage distributions given the cross-distribution variation in unpaid work time. The productivity-volume versus the gender-class normative argument developed here suggests competing hypotheses. Analyses of pooled 2010-2015 waves of the American Time Use Survey using unconditional quantile regression revealed that an increase in the lesser time women at the top of the wage distribution spent doing routine housework predicted a smaller wage penalty than at the bottom of women's wage distribution. Conversely, men at the top of their wage distribution spent the least time doing routine tasks, but incurred the largest penalty for an increase in that time. Increases in nonroutine housework or child-care time did not negatively affect the wage distributions of women or most men. Results supported the volume-productivity argument for routine housework among women, but a gender-class normative argument for men.",
+  "authors": [
+    {
+      "raw": "Cooke, Lynn Prince",
+      "family": "Cooke",
+      "given": "Lynn Prince"
+    },
+    {
+      "raw": "Hook, Jennifer L.",
+      "family": "Hook",
+      "given": "Jennifer L."
+    }
+  ],
+  "authors_text": "Cooke, Lynn Prince; Hook, Jennifer L.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2018,
+  "doi": "10.1111/jomf.12467",
+  "doi_url": "https://doi.org/10.1111/jomf.12467",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12467",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12467.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

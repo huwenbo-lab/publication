@@ -1,0 +1,30 @@
+{
+  "title": "Standardized mean age at death (MAD std ): Exploring its potential as a measure of human longevity",
+  "abstract": "BACKGROUND Period mean age at death (MAD) is affected by a population's age structure, and therefore by its mortality, fertility, and migration history. Period life expectancy ( e a ) is also a mean age at death, for a standardized population with a stationary age structure. It depends only on current mortality rates. Here, we explore a middle ground: an age-standardized measure of period age at death, called MAD std , that includes both past and present mortality influences, while omitting the effects of past fertility and migration. OBJECTIVE We want to highlight the common structure of the three measures by expressing them as weighted averages with different weighting functions. This allows us to examine them from the perspective of compositional change; i.e., how changes in the underlying age structure affect MAD, MAD(std) , and e(0) . METHODS We compare MAD(std) with e(0) and MAD formally and empirically, using data on six countries from 1990 to 2020. A particular focus is given to the effect of the increased mortality in 2020 on the three longevity measures. RESULTS The e(0) indicator gives a higher average age at death than MAD and MAD(std) because the relative number of older individuals is comparatively high in the hypothetical period life table population. While e(0) declines between 2019 and 2020, both MAD and MAD(std) show increases in 2020. This can be attributed to differences in the dynamics of the age structures underlying the three indicators. Only the life table population shifts to younger ages, whereas for the observed population and standardized population in 2020 the relative numbers of older individuals increased. CONCLUSION Trends in MAD and MAD(std) are less sensitive to recent developments in mortality, making e(0) the most valuable for examining changes in period mortality rates over time. Considering the interaction between changes in age-specific mortality rates and changes in the underlying age structure deepens the understanding of diverging time trends in MAD, MAD(std) , and e(0) .",
+  "authors": [
+    {
+      "raw": "Sauerberg, Markus",
+      "family": "Sauerberg",
+      "given": "Markus"
+    },
+    {
+      "raw": "Luy, Marc",
+      "family": "Luy",
+      "given": "Marc"
+    }
+  ],
+  "authors_text": "Sauerberg, Markus; Luy, Marc",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.30",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

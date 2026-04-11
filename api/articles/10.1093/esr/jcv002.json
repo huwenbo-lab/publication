@@ -1,0 +1,35 @@
+{
+  "title": "How Do Changes in Gender Role Attitudes Towards Female Employment Influence Fertility? A Macro-Level Analysis",
+  "abstract": "This study explores whether the diffusion of gender-equitable attitudes towards female employment is associated with fertility. We argue that any positive effect on fertility requires not only high levels of gender-equitable attitudes overall, but also attitude convergence between men and women. We analyse 27 countries using data from the World Values Surveys and European Values Studies. We find support for a U-shaped relationship between changes in gender role attitudes and fertility: an initial drop in fertility is observed as countries move from a traditional to a more gender-symmetric model. Beyond a certain threshold, additional increases in gender egalitarianism become positively associated with fertility. This curvi-linear relationship is moderated by the difference in attitudes between men and women: when there is more agreement, changes are more rapid and the effect of gender egalitarian attitudes on fertility strengthens.",
+  "authors": [
+    {
+      "raw": "Arpino, Bruno",
+      "family": "Arpino",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Esping-Andersen, Gosta",
+      "family": "Esping-Andersen",
+      "given": "Gosta"
+    },
+    {
+      "raw": "Pessin, Lea",
+      "family": "Pessin",
+      "given": "Lea"
+    }
+  ],
+  "authors_text": "Arpino, Bruno; Esping-Andersen, Gosta; Pessin, Lea",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcv002",
+  "doi_url": "https://doi.org/10.1093/esr/jcv002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Statistical Models for Social Networks",
+  "abstract": "Statistical models for social networks as dependent variables must represent the typical network dependencies between tie variables such as reciprocity, homophily, transitivity, etc. This review first treats models for single (cross-sectionally observed) networks and then for network dynamics. For single networks, the older literature concentrated on conditionally uniform models.. Various types of latent space models have been developed: for discrete, general metric, ultrametric, Euclidean, and partially ordered spaces. Exponential random graph models were proposed long ago but now are applied more and more thanks to the non-Markovian social circuit specifications that were recently proposed. Modeling network dynamics is less complicated than modeling single network observations because dependencies are spread out in time. For modeling network dynamics, continuous-time models are more fruitful. Actor-oriented models here provide a model that can represent many dependencies in a flexible way. Strong model development is now going on to combine the features of these models and to extend them to more complicated outcome spaces.",
+  "authors": [
+    {
+      "raw": "Snijders, Tom A. B.",
+      "family": "Snijders",
+      "given": "Tom A. B."
+    }
+  ],
+  "authors_text": "Snijders, Tom A. B.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2011,
+  "doi": "10.1146/annurev.soc.012809.102709",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.012809.102709",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.012809.102709",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.012809.102709.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

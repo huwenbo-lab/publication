@@ -1,0 +1,35 @@
+{
+  "title": "A Cause-of-Death Decomposition of Young Adult Excess Mortality",
+  "abstract": "We propose a method to decompose the young adult mortality hump by cause of death. This method is based on a flexible shape decomposition of mortality rates that separates cause-of-death contributions to the hump from senescent mortality. We apply the method to U.S. males and females from 1959 to 2015. Results show divergence between time trends of hump and observed deaths, both for all-cause and cause-specific mortality. The study of the hump shape reveals age, period, and cohort effects, suggesting that it is formed by a complex combination of different forces of biological and socioeconomic nature. Male and female humps share some traits in all-cause shape and trend, but they also differ by their overall magnitude and cause-specific contributions. Notably, among males, the contributions of traffic and other accidents were progressively replaced by those of suicides, homicides, and poisonings; among females, traffic accidents remained the major contributor to the hump.",
+  "authors": [
+    {
+      "raw": "Remund, Adrien",
+      "family": "Remund",
+      "given": "Adrien"
+    },
+    {
+      "raw": "Camarda, Carlo G.",
+      "family": "Camarda",
+      "given": "Carlo G."
+    },
+    {
+      "raw": "Riffe, Tim",
+      "family": "Riffe",
+      "given": "Tim"
+    }
+  ],
+  "authors_text": "Remund, Adrien; Camarda, Carlo G.; Riffe, Tim",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0680-9",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0680-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0680-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0680-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

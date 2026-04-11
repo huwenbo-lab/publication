@@ -1,0 +1,30 @@
+{
+  "title": "Canadian Families’ Strategies for Employment and Care for Preschool Children",
+  "abstract": "Based on the 2006 Canadian Census “long form” sample of one in every five households, the authors develop a detailed typology of family strategies for employment and the care of preschool children. The analysis is restricted to opposite-sex couples with at least one child under age 6 and no older child or other adult in the household. The typology reveals the persistence of a highly gendered division of labor whereby mothers do more child care and men more paid employment. Multinomial regression reveals strong but nonmonotonic effects of age and education on a couple’s strategy. When the partners differ in age or education, the family’s choice of strategy depends on which partner is older and has more education. The authors interpret the findings as more consistent with gender theory perspectives on family models of employment and domestic work.",
+  "authors": [
+    {
+      "raw": "Ornstein, Michael",
+      "family": "Ornstein",
+      "given": "Michael"
+    },
+    {
+      "raw": "Stalker, Glenn J.",
+      "family": "Stalker",
+      "given": "Glenn J."
+    }
+  ],
+  "authors_text": "Ornstein, Michael; Stalker, Glenn J.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2012,
+  "doi": "10.1177/0192513x12442824",
+  "doi_url": "https://doi.org/10.1177/0192513x12442824",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x12442824",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x12442824.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

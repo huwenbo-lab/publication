@@ -1,0 +1,30 @@
+{
+  "title": "The quality of demographic data on older Africans",
+  "abstract": "BACKGROUND Developing appropriate and equitable policies for older people in Africa requires accurate and reliable data. It is unclear whether existing data can accurately assess older African population structures, let alone provide the detailed information needed to inform policy decision-making. OBJECTIVE To evaluate the quality of nationally representative data on older Africans through examining the accuracy of age data collected from different sources. METHODS To measure the accuracy of age reporting overall we calculate Whipple's Index, and a modified Whipple's Index for older adults, using the single year age-sex distributions from (a) the household roster of 17 Demographic and Health Surveys (DHS), (b) the censuses of 12 of these countries, and (c) the Living Standards Measurement Study (LSMS) for Ethiopia and Niger. We compare reported sex ratios by age. RESULTS The quality of age data is very poor for most countries outside Southern Africa, especially for older adults. In some Sahelian countries DHS surveys appear to omit a considerable proportion of older women. Data on population structure of older people by age and sex produced by the DHS and the census are inconsistent and contradictory. CONCLUSIONS Different field methodological approaches generate contradictory data on older Africans. With the exception of Southern Africa, it is impossible to assess accurately the basic demographic structure of the older population. The data available are so problematic that any conclusions about age-related health and welfare and their evolution over time and space are potentially compromised. This has ramifications for policymakers and practitioners who demand, fund, and depend on large-scale demographic data sources.",
+  "authors": [
+    {
+      "raw": "Randall, Sara",
+      "family": "Randall",
+      "given": "Sara"
+    },
+    {
+      "raw": "Coast, Ernestina",
+      "family": "Coast",
+      "given": "Ernestina"
+    }
+  ],
+  "authors_text": "Randall, Sara; Coast, Ernestina",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.5",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Analysing migrant fertility using machine learning techniques: An application of random survival forest to longitudinal data from France",
+  "abstract": "BACKGROUND The fertility of immigrants and their descendants is shaped by many factors. Survival and event history techniques are methods commonly used to study the determinants of individuals' childbearing behaviour. Yet, machine learning techniques such as survival trees and tree ensembles are a useful alternative to classical methods. OBJECTIVE This paper analyses the predictors of having a first, second, and third birth among immigrants and their descendants in France. METHODS This study applies random survival forest (RSF) to longitudinal data from the Trajectories and Origins survey. RESULTS Our findings illustrate the potential of machine learning techniques in two ways. First, RSF allows us to identify the most important predictors of a life event. Our results show that predictors differ by parity: Educational level is the most important predictor of having a first child, whereas parents' family size is the most important predictor of having a second and third child. Second, RSF allows us to easily detect and visualize interactions. For instance, our results of a four-way interaction show that highly educated migrants are closer to the native population in their childbearing behaviour than migrants with low education. CONTRIBUTION Our application of RSF to the analysis of immigrant fertility behaviour shows that the method can easily be applied in life course research and that research on migrant fertility should pay more attention to how education shapes childbearing patterns among minority populations.",
+  "authors": [
+    {
+      "raw": "Delaporte, Isaure",
+      "family": "Delaporte",
+      "given": "Isaure"
+    },
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    },
+    {
+      "raw": "Ibbetson, Andrew",
+      "family": "Ibbetson",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Delaporte, Isaure; Kulu, Hill; Ibbetson, Andrew",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.21",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.21",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.21",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.21.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

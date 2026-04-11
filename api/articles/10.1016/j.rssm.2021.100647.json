@@ -1,0 +1,35 @@
+{
+  "title": "Same major, same economic returns? College selectivity and earnings inequality in young adulthood",
+  "abstract": "Fields of study are a persistent source of inequality among college graduates in the U.S., but surprisingly few studies have investigated factors that predict earnings within these fields. In this article, we focus on one dimension that has been central to studies of inequality in higher education-college selectivity-to examine how young adult earnings are stratified among college graduates who majored in the same fields, using data from the Education Longitudinal Study of 2002 (ELS; N = 2,952). We also assess gender differences in the relationships between fields of study, college selectivity, and earnings, given that gender is a consistent predictor of both majors and earnings. After accounting for selection bias using propensity score matching techniques, we find that recent college graduates in only two majors-business and the social sciences-experience a selectivity premium. Additionally, we find key gender differences in the majors that give rise to these premiums. Both men and women experience a selectivity premium in business and the social sciences, but within STEM fields, men benefit from a prestigious degree, but women do not. This finding underscores recent research showing that high-performing men in STEM fields receive outsized rewards relative to their women counterparts, thus deepening gender inequality in fields where women are underrepresented and assigned low expectations for performance.",
+  "authors": [
+    {
+      "raw": "Quadlin, Natasha",
+      "family": "Quadlin",
+      "given": "Natasha"
+    },
+    {
+      "raw": "Cohen, Emma D.",
+      "family": "Cohen",
+      "given": "Emma D."
+    },
+    {
+      "raw": "VanHeuvelen, Tom",
+      "family": "VanHeuvelen",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "Quadlin, Natasha; Cohen, Emma D.; VanHeuvelen, Tom",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100647",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100647",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100647",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100647.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

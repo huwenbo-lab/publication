@@ -1,0 +1,30 @@
+{
+  "title": "Revisiting das gupta: Refinement and extension of standardization and decomposition",
+  "abstract": "Abstract Standardization and decomposition are established and widely used demographic techniques for comparing rates and means between groups with differences in composition. The difference in rates and means has heretofore been resolved in terms of the contribution of variables to compositional effects for each variable and an overall rate effect. This study demonstrates that the resolution of differences is attainable at the categorical level for both compositional effects and rate effects. Refinements to Das Gupta’s equations yield a complete decomposition because of the additivity of categorical compositional and rate effects. Other refinements allow the decomposition of polytomous variables. Extensions to the method provide for the decomposition of the standard deviation and the multivariate index of dissimilarity.",
+  "authors": [
+    {
+      "raw": "Chevan, Albert",
+      "family": "Chevan",
+      "given": "Albert"
+    },
+    {
+      "raw": "Sutherland, Michael",
+      "family": "Sutherland",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Chevan, Albert; Sutherland, Michael",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0060",
+  "doi_url": "https://doi.org/10.1353/dem.0.0060",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0060",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0060.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Which transition comes first? Urban and demographic transitions in Belgium and Sweden",
+  "abstract": "BACKGROUND Several theories compete to explain the main drivers of urbanisation, past and present, in relation to both demographic transition and economic development. One hypothesis is that rural-to-urban migration is the driver of urbanisation; another is that urban mortality decline actually triggered urban transition. OBJECTIVE This paper reconsiders the relationship between demographic (vital) migration and urban transitions by analysing the long-term contribution of natural and migratory movements to urban transition. The respective contributions of birth, death, and migration and their timing will indicate whether economic development, through labour force migration, or vital transition mainly determines urban transition. METHOD After examining the spatial dimension of the demographic transition theory, we use 19th and 20th century series on Sweden and Belgium to better identify the migration component of urban transition through the computation of growth difference between urban and rural areas, accounting for the often neglected reclassification effect. RESULTS In both Sweden and Belgium, migration is the direct or indirect (through reclassification) engine of urban transition and its contribution precedes the onset of vital transition, while the vital transition has a secondary, unstable, and negative role in the urban transition. CONCLUSIONS Changes in the economic sphere are reinstated as the underlying cause of population change, acting through the shift of human capital in space. Methodological consequences are then drawn for analysing vital and urban transitions in an increasingly interdependent world.",
+  "authors": [
+    {
+      "raw": "Bocquier, Philippe",
+      "family": "Bocquier",
+      "given": "Philippe"
+    },
+    {
+      "raw": "Costa, Rafael",
+      "family": "Costa",
+      "given": "Rafael"
+    }
+  ],
+  "authors_text": "Bocquier, Philippe; Costa, Rafael",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.48",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.48",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.48",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.48.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

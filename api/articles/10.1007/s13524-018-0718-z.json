@@ -1,0 +1,40 @@
+{
+  "title": "Longevity and Lifespan Variation by Educational Attainment in Spain: 1960-2015",
+  "abstract": "For a long time, studies of socioeconomic gradients in health have limited their attention to between-group comparisons. Yet, ignoring the differences that might exist within groups and focusing on group-specific life expectancy levels and trends alone, one might arrive at overly simplistic conclusions. Using data from the Spanish Encuesta Sociodemografica and recently released mortality files by the Spanish Statistical Office (INE), this is the first study to simultaneously document (1) the gradient in life expectancy by educational attainment groups, and (2) the inequality in age-at-death distributions within and across those groups for the period between 1960 and 2015 in Spain. Our findings suggest that life expectancy has been increasing for all education groups but particularly among the highly educated. We observe diverging trends in life expectancy, with the differences between the low- and highly educated becoming increasingly large, particularly among men. Concomitantly with increasing disparities across groups, length-of-life inequality has decreased for the population as a whole and for most education groups, and the contribution of the between-group component of inequality to overall inequality has been extremely small. Even if between-group inequality has increased over time, its contribution has been too small to have sizable effects on overall inequality. In addition, our results suggest that education expansion and declining within-group variability might have been the main drivers of overall lifespan inequality reductions. Nevertheless, the diverging trends in longevity and lifespan inequality across education groups represent an important phenomenon whose underlying causes and potential implications should be investigated in detail.",
+  "authors": [
+    {
+      "raw": "Permanyer, Inaki",
+      "family": "Permanyer",
+      "given": "Inaki"
+    },
+    {
+      "raw": "Spijker, Jeroen",
+      "family": "Spijker",
+      "given": "Jeroen"
+    },
+    {
+      "raw": "Blanes, Amand",
+      "family": "Blanes",
+      "given": "Amand"
+    },
+    {
+      "raw": "Renteria, Elisenda",
+      "family": "Renteria",
+      "given": "Elisenda"
+    }
+  ],
+  "authors_text": "Permanyer, Inaki; Spijker, Jeroen; Blanes, Amand; Renteria, Elisenda",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0718-z",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0718-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0718-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0718-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

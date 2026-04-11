@@ -1,0 +1,30 @@
+{
+  "title": "Temporary Life Changes and the Timing of Divorce",
+  "abstract": "Marriage is a risky undertaking that people enter with incomplete information about their partner and their future life circumstances. A large literature has shown how new information gained from unforeseen but long-lasting or permanent changes in life circumstances may trigger a divorce. We extend this literature by considering how information gained from a temporary change in life circumstances-in our case, a couple having a child with infantile colic-may affect divorce behavior. Although persistent life changes are known to induce divorce, we argue that a temporary stressful situation allows couples more quickly to discern the quality of their relationship, in some cases leading them to divorce sooner than they otherwise would have. We formalize this argument in a model of Bayesian updating and test it using data from Denmark. We find that the incidence of infantile colic shortens the time to divorce or disruption among couples who would have split up anyway.",
+  "authors": [
+    {
+      "raw": "Fallesen, Peter",
+      "family": "Fallesen",
+      "given": "Peter"
+    },
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    }
+  ],
+  "authors_text": "Fallesen, Peter; Breen, Richard",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0498-2",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0498-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0498-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0498-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

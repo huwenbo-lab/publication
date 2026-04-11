@@ -1,0 +1,30 @@
+{
+  "title": "Neonatal mortality, cold weather, and socioeconomic status in two northern Italian rural parishes, 1820-1900",
+  "abstract": "BACKGROUND Cold-related conditions represent one of the most common causes of neonatal death in many developing countries. The effects of cold external temperatures on neonatal mortality at the onset of demographic transition recently have attracted scholarly interest. OBJECTIVE First, we aim to study the effects of cold temperatures on neonatal mortality at the onset of demographic transition, focusing on two Italian rural parishes between 1820 and 1900. Second, we aim to assess whether the effects vary according to socioeconomic status (SES), especially among the most vulnerable social groups. METHODS We apply logistic regression and discrete-time event history analysis using micro-data from parish registers and daily records of external temperature. RESULTS The risk of death during the first month of life varied according to external temperature's variation and to socioeconomic status, demonstrating that neonates born to landless rural labourers generally suffered a higher neonatal mortality risk during winter and, more specifically; in case of low temperature at the childbirth during coldest months. CONCLUSIONS The risk of neonatal death increased as external temperatures decreased. The clear influence of temperature on the day of birth suggests that low temperatures on the day of birth exerted a fundamental scarring effect on children's survival. We also find significant differences in neonatal mortality by SES, resulting in more pronounced effects from season and temperature in rural proletarian families. The results show that during the second half of the 19th century characterised by intense socioeconomic transformations, rural proletarians experienced a clear worsening of living conditions.",
+  "authors": [
+    {
+      "raw": "Scalone, Francesco",
+      "family": "Scalone",
+      "given": "Francesco"
+    },
+    {
+      "raw": "Samoggia, Alessandra",
+      "family": "Samoggia",
+      "given": "Alessandra"
+    }
+  ],
+  "authors_text": "Scalone, Francesco; Samoggia, Alessandra",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.18",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

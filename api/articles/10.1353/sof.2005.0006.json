@@ -1,0 +1,35 @@
+{
+  "title": "The Paradox of Social Organization: Networks, Collective Efficacy, and Violent Crime in Urban Neighborhoods",
+  "abstract": "Theories of neighborhood social organization and crime have not effectively explained the existence of socially organized, high-crime neighborhoods. We describe and test an alternative theory of urban violence that highlights the tension between two dimensions of social organization — social networks (ties and exchange between neighborhood residents) and collective efficacy (mutual trust and solidarity combined with expectations for prosocial action) — in the regulation of neighborhood crime. We argue that while social networks may contribute to neighborhood collective efficacy they also provide a source of social capital for offenders, potentially diminishing the regulatory effectiveness of collective efficacy. This negotiated coexistence model is considered alongside two competing theories of neighborhood crime drawn from the systemic and cultural transmission perspectives. We test these theories using 1990 census data, the 1994–95 Project on Human Development in Chicago Neighborhoods Community Survey, and 1995–97 Chicago Homicide Data. Consistent with the negotiated coexistence approach, spatial lag models of violent victimization and the 1995–97 log homicide rate indicate that the regulatory effects of collective efficacy on violence are substantially reduced in neighborhoods characterized by high levels of network interaction and reciprocated exchange.",
+  "authors": [
+    {
+      "raw": "Browning, C. R.",
+      "family": "Browning",
+      "given": "C. R."
+    },
+    {
+      "raw": "Dietz, R. D.",
+      "family": "Dietz",
+      "given": "R. D."
+    },
+    {
+      "raw": "Feinberg, S. L.",
+      "family": "Feinberg",
+      "given": "S. L."
+    }
+  ],
+  "authors_text": "Browning, C. R.; Dietz, R. D.; Feinberg, S. L.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2004,
+  "doi": "10.1353/sof.2005.0006",
+  "doi_url": "https://doi.org/10.1353/sof.2005.0006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2005.0006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2005.0006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

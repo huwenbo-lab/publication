@@ -1,0 +1,35 @@
+{
+  "title": "How Does the Risk of Dementia Change With Each Additional Year of Education?",
+  "abstract": "The risk of dementia is considerably lower among persons with a high edu cational attainment level than among less educated persons. This association has been documented across countries, cohorts, and populations. However, several questions remain unanswered. What is the rate of decline in dementia risk associated with addi tional education? Does the rate of decline with additional education differ across the education distribution? Are there key points in the education distribution that demark changes in the association, such as completing high school? Using the 2000-2018 Health and Retirement Study, we use a functional form approach to evaluate how dementia risk changes with each year of education among nonHispanic White and Black older adults. We observe a linear decline in dementia incidence with increasing years of educational attainment, both before and after 12 years of education. This pat tern is consistent across population subgroups. Additionally, dementia risk displays a step change decline at 12 years of education, but this reduction is observed primarily among men and White adults. These findings underscore the significance of educational exposure in understanding population differences in dementia risk and future changes in the burden of dementia in the population.",
+  "authors": [
+    {
+      "raw": "Cha, Hyungmin",
+      "family": "Cha",
+      "given": "Hyungmin"
+    },
+    {
+      "raw": "Farina, Mateo P.",
+      "family": "Farina",
+      "given": "Mateo P."
+    },
+    {
+      "raw": "Hayward, Mark D.",
+      "family": "Hayward",
+      "given": "Mark D."
+    }
+  ],
+  "authors_text": "Cha, Hyungmin; Farina, Mateo P.; Hayward, Mark D.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-12231508",
+  "doi_url": "https://doi.org/10.1215/00703370-12231508",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12231508",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12231508.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

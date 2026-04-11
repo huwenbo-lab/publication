@@ -1,0 +1,25 @@
+{
+  "title": "Relating Period and Cohort Fertility",
+  "abstract": "From a population perspective, the trajectories of both the total fertility at successive time periods and the total fertility of successive birth cohorts are derived from the same array of age-specific fertility rates. This analysis uses the assumption of constant age-specific fertility proportions to derive new explicit relationships between period and cohort fertility. In short, period total fertility is approximately equal to the total fertility of the cohort born a generation earlier, with a modest additive adjustment. A simple relationship also links both period and cohort total fertility to ACF, the average fertility of the childbearing cohorts in a given year. Assuming that fertility levels follow a cubic curve, cohort values from the derived relationships are then compared to observed cohort fertility values for the United States in 1917-2019. Despite substantial violations of the constant proportional fertility assumption, the calculated values deviate from the observed values by an average of only 7-8%. Short-term projections suggest that U.S. cohort fertility will continue to decline.",
+  "authors": [
+    {
+      "raw": "Schoen, Robert",
+      "family": "Schoen",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Schoen, Robert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9936991",
+  "doi_url": "https://doi.org/10.1215/00703370-9936991",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9936991",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9936991.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

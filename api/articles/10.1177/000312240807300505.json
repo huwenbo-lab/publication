@@ -1,0 +1,30 @@
+{
+  "title": "Spatial Dynamics of White Flight: The Effects of Local and Extralocal Racial Conditions on Neighborhood Out-Migration",
+  "abstract": "Using data from the Panel Study of Income Dynamics and three US. censuses, we examine how the composition of extralocal areas-areas surrounding a householder's neighborhood of residence-shapes the likelihood that Whites will move out of their neighborhoods. Net of local neighborhood conditions and other predictors of residential mobility, high concentrations of minorities in surrounding neighborhoods reduce the likelihood that Whites will move, presumably by reducing the attractiveness of nearby residential alternatives. Notably, this effect also suppresses the influence of the racial composition of the immediate neighborhood on White out-migration. Recent growth in the size of an extralocal minority population increases the likelihood of White out-migration and accounts for much of the influence previously attributed to racial changes in the local neighborhood. High levels of minority concentration in surrounding neighborhoods also exacerbate the positive effect of local minority concentration on White out-migration. These results highlight the importance of looking beyond reactions to local racial conditions to understand mobility decisions and resulting patterns of segregation.",
+  "authors": [
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    },
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    }
+  ],
+  "authors_text": "Crowder, Kyle; South, Scott J.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1177/000312240807300505",
+  "doi_url": "https://doi.org/10.1177/000312240807300505",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240807300505",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240807300505.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Late-life health effects of teenage motherhood",
+  "abstract": "BACKGROUND Teenage motherhood has been associated with a host of adverse outcomes over the life cycle. Less, however, is known about the impact of teenage motherhood on health later in life. OBJECTIVE To study the impact of teenage motherhood on late-life health, using a retrospective survey of almost 12,000 women aged 50+ from 13 European countries containing detailed information on early-life circumstances. METHODS We develop linear models of the association between teenage motherhood and late-life health outcomes. We control for early-life factors parametrically as well as through propensity score matching. In addition, we employ recently developed methods to derive consistent lower-bound estimates for the causal impact of teenage motherhood on late-life health outcomes. RESULTS We find that teenage mothers experience substantially poorer self-reported late-life health and are more likely to display depressive symptoms than nonteenage mothers. This result remains after controlling for early-life as well contemporaneous socioeconomic conditions. CONTRIBUTION We exploit recently developed empirical techniques to derive consistent lower bounds of the causal impact of teenage motherhood on health later in life using a cross-national survey of early-life and contemporaneous socioeconomic conditions.",
+  "authors": [
+    {
+      "raw": "Angelini, Viola",
+      "family": "Angelini",
+      "given": "Viola"
+    },
+    {
+      "raw": "Mierau, Jochen O.",
+      "family": "Mierau",
+      "given": "Jochen O."
+    }
+  ],
+  "authors_text": "Angelini, Viola; Mierau, Jochen O.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.41",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

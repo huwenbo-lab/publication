@@ -1,0 +1,25 @@
+{
+  "title": "How Income Inequality Influences Life Satisfaction: Hybrid Effects Evidence from the German SOEP",
+  "abstract": "This study uses hybrid effects regressions with the German Socio-Economic Panel to compare differences in happiness between Germans during times of high and low income inequality. It shows that Germans interviewed during times of persistently low inequality were no more satisfied with their lives than Germans during times of persistently high inequality. However, the article also uses within effects to show that the same individual is less satisfied with life in those years where inequality is higher than during a typical year. This non-negative between-person influence of inequality on life satisfaction, coupled with the negative within-person effect of inequality on life satisfaction, indicates that short-term increases in inequality decrease life satisfaction, but long-run levels of inequality do not. Part of the negative effect of inequality on life satisfaction exists because increased media attention to inequality seems to decrease life satisfaction. This indicates that perceptions of above-average inequality are damaging to life satisfaction, but long-run levels of inequality are not. The results from this study therefore indicate that the existing literature may find ambiguous effects of inequality on life satisfaction because people get used to long-run inequality, so that short-run increases in inequality, rather than long-run levels of inequality, make people unsatisfied with life. This may explain why populations of countries with persistently high inequality are as satisfied with life as populations of more equal countries, even though the same individual is less satisfied with life in those years where inequality is above-average.",
+  "authors": [
+    {
+      "raw": "Schroeder, Martin",
+      "family": "Schroeder",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Schroeder, Martin",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcv136",
+  "doi_url": "https://doi.org/10.1093/esr/jcv136",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv136",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv136.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

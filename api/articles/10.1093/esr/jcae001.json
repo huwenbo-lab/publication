@@ -1,0 +1,35 @@
+{
+  "title": "Educational field, economic uncertainty, and fertility decline in Finland in 2010-2019",
+  "abstract": "Fertility declined sharply and unexpectedly in Finland in the 2010s across educational levels. Using Finnish register data, we calculated total fertility rates (TFRs) and the proportion of women expected to have a first birth in 2010-2019 for 153 educational groups-reflecting field and level-and estimated how the characteristics of a group predicted its decline. As the educational field predicts factors related to economic uncertainty, heterogeneity in fertility decline across fields could shed light on the role of economic uncertainty behind the recent fertility decline. In general, women with the highest initial fertility levels (health, welfare, and education) and women in agriculture experienced weaker fertility declines (around -20% or less), while women with the lowest initial levels (ICT, arts and humanities) experienced stronger declines (around -40% or more). The extent of the fertility decline increased with higher unemployment and lower income levels in the field and with a lower share employed in the public sector. These uncertainty measures together explained one-fourth of the decline in TFR and two-fifths of the decline in first births. The results imply that fertility declined across all groups, but those with stable job prospects escaped very strong declines. Objective economic uncertainty is one aspect that mattered for the recent fertility decline.",
+  "authors": [
+    {
+      "raw": "Hellstrand, Julia",
+      "family": "Hellstrand",
+      "given": "Julia"
+    },
+    {
+      "raw": "Nisen, Jessica",
+      "family": "Nisen",
+      "given": "Jessica"
+    },
+    {
+      "raw": "Myrskylae, Mikko",
+      "family": "Myrskylae",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Hellstrand, Julia; Nisen, Jessica; Myrskylae, Mikko",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcae001",
+  "doi_url": "https://doi.org/10.1093/esr/jcae001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

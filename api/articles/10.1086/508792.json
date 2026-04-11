@@ -1,0 +1,30 @@
+{
+  "title": "Social status and newspaper readership",
+  "abstract": "In this article, the authors explore the social bases of cultural consumption by examining the association between newspaper readership and social status. They report a strong and systematic association between status and newspaper readership which is consistent with the expected link between status in the classical Weberian sense, on the one hand, and cultural level and lifestyle, on the other. This association persists in a multinomial logistic regression model in which the authors take into account, among other things, educational attainment which serves as a proxy for the respondent's information-processing capacity. The social status of respondent's father and best friend also have significant and substantial effects on newspaper preference. Finally, the authors report results that indicate that the effects of status on newspaper readership are generally more important than those of class.",
+  "authors": [
+    {
+      "raw": "Chan, Tak Wing",
+      "family": "Chan",
+      "given": "Tak Wing"
+    },
+    {
+      "raw": "Goldthorpe, John H.",
+      "family": "Goldthorpe",
+      "given": "John H."
+    }
+  ],
+  "authors_text": "Chan, Tak Wing; Goldthorpe, John H.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2007,
+  "doi": "10.1086/508792",
+  "doi_url": "https://doi.org/10.1086/508792",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F508792",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/508792.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

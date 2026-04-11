@@ -1,0 +1,35 @@
+{
+  "title": "Computational communication research (CCR): An early and active adopter of computational social science (CSS)",
+  "abstract": "Computational communication research (CCR) has emerged as an early and active subfield within computational social science, offering novel methodological approaches to address classical and emerging questions in communication research. This paper reviews the evolution and methodological developments in CCR in both the international research community and Chinese mainland, emphasizing the role of computational methods such as user analytics, content mining, and computational experiments. We map the alignment between traditional quantitative methods and computational ones, demonstrating how CCR methods have complemented and enhanced existing research paradigms. Through empirical applications, we illustrate the utility of CCR in understanding user behavior, content dynamics, and communication effects. We conclude with a discussion on the challenges of using computational methods in the Chinese context and the future directions for CCR.",
+  "authors": [
+    {
+      "raw": "Zhu, Jonathan J. H.",
+      "family": "Zhu",
+      "given": "Jonathan J. H."
+    },
+    {
+      "raw": "Peng, Tai-Quan",
+      "family": "Peng",
+      "given": "Tai-Quan"
+    },
+    {
+      "raw": "Liang, Hai",
+      "family": "Liang",
+      "given": "Hai"
+    }
+  ],
+  "authors_text": "Zhu, Jonathan J. H.; Peng, Tai-Quan; Liang, Hai",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1177/2057150x251317548",
+  "doi_url": "https://doi.org/10.1177/2057150x251317548",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x251317548",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x251317548.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

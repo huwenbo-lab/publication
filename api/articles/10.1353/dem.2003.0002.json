@@ -1,0 +1,35 @@
+{
+  "title": "Explaining trends in child support: Economic, demographic, and policy effects",
+  "abstract": "Abstract We use data from the Panel Study of Income Dynamics to examine trends in the receipt of child support (and the determinants of trends) between 1968 and 1997. The findings suggest that political, demographic, and economic forces all exerted downward pressure on child-support payments during this 30-year period, with inflation, the shift to unilateral divorce, and declines in fertility and men’s earnings being more important during the earlier years and decreases in men’s earnings being more important during the later years. These negative forces were offset by the passage of new child-support legislation in the 1980s and 1990s, including numeric guidelines, universal withholding, and genetic testing.",
+  "authors": [
+    {
+      "raw": "Case, Anne C.",
+      "family": "Case",
+      "given": "Anne C."
+    },
+    {
+      "raw": "Lin, I-Fen",
+      "family": "Lin",
+      "given": "I-Fen"
+    },
+    {
+      "raw": "Mclanahan, Sara S.",
+      "family": "Mclanahan",
+      "given": "Sara S."
+    }
+  ],
+  "authors_text": "Case, Anne C.; Lin, I-Fen; Mclanahan, Sara S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.1353/dem.2003.0002",
+  "doi_url": "https://doi.org/10.1353/dem.2003.0002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2003.0002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2003.0002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

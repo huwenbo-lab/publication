@@ -1,0 +1,30 @@
+{
+  "title": "Long-term trends in living alone among Korean adults: Age, gender, and educational differences",
+  "abstract": "BACKGROUND One of the major demographic changes in Korea is the rapid increase of one-person households, from 7% in 1985 to 24% in 2010. The increase of living alone has important implications for the traditional family system. OBJECTIVE We investigate the long-term trend over half a century in the proportion of people living alone, separately for different age and gender groups. Focusing on two groups, the widowed elderly aged 65 or over and never-married 25 to 34-year-olds, we further examine the relationship between education and living alone. METHODS We use 1960 to 2010 Korean Census data to describe the trends in living alone by age and gender. We apply logit models to predict the odds of living alone by education from 1980 to 2010. To facilitate interpretation, we present predicted probabilities of living alone. RESULTS There is a continuing increase in solo living among Koreans, albeit to different degrees, for both genders and all age groups. The rising trend in solo living among elderly widows and never-married men aged 25 to 34, in particular, reveals that the propensity for living alone has increased within specific marital status and age groups. We find that those with lower education were more likely to live alone than their counterparts with higher education. CONCLUSIONS The negative relationship between education and living alone in Korea is in contrast to the pattern of 'buying-out' living alone in the United States. We interpret the finding in the context of Korean society, which has a long tradition of valuing living together.",
+  "authors": [
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    },
+    {
+      "raw": "Choi, Jaesung",
+      "family": "Choi",
+      "given": "Jaesung"
+    }
+  ],
+  "authors_text": "Park, Hyunjoon; Choi, Jaesung",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.32.43",
+  "doi_url": "https://doi.org/10.4054/demres.2015.32.43",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.32.43",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.32.43.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

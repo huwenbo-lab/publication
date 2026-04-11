@@ -1,0 +1,50 @@
+{
+  "title": "Do Some Countries Discriminate More than Others? Evidence from 97 Field Experiments of Racial Discrimination in Hiring",
+  "abstract": "Comparing levels of discrimination across countries can provide a window into large-scale social and political factors often described as the root of discrimination. Because of difficulties in measurement, however, little is established about variation in hiring discrimination across countries. We address this gap through a formal meta-analysis of 97 field experiments of discrimination incorporating more than 200,000 job applications in nine countries in Europe and North America. We find significant discrimination against nonwhite natives in all countries in our analysis; discrimination against white immigrants is present but low. However, discrimination rates vary strongly by country: In high-discrimination countries, white natives receive nearly twice the callbacks of nonwhites; in low-discrimination countries, white natives receive about 25 percent more. France has the highest discrimination rates, followed by Sweden. We find smaller differences among Great Britain, Canada, Belgium, the Netherlands, Norway, the United States, and Germany. These findings challenge several conventional macro-level theories of discrimination.",
+  "authors": [
+    {
+      "raw": "Quillian, Lincoln",
+      "family": "Quillian",
+      "given": "Lincoln"
+    },
+    {
+      "raw": "Heath, Anthony",
+      "family": "Heath",
+      "given": "Anthony"
+    },
+    {
+      "raw": "Pager, Devah",
+      "family": "Pager",
+      "given": "Devah"
+    },
+    {
+      "raw": "Midtbøen, Arnfinn",
+      "family": "Midtbøen",
+      "given": "Arnfinn"
+    },
+    {
+      "raw": "Fleischmann, Fenella",
+      "family": "Fleischmann",
+      "given": "Fenella"
+    },
+    {
+      "raw": "Hexel, Ole",
+      "family": "Hexel",
+      "given": "Ole"
+    }
+  ],
+  "authors_text": "Quillian, Lincoln; Heath, Anthony; Pager, Devah; Midtbøen, Arnfinn; Fleischmann, Fenella; Hexel, Ole",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2019,
+  "doi": "10.15195/v6.a18",
+  "doi_url": "https://doi.org/10.15195/v6.a18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv6.a18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v6.a18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

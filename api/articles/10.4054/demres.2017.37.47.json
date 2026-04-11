@@ -1,0 +1,25 @@
+{
+  "title": "Decomposing American immobility: Compositional and rate components of interstate, intrastate, and intracounty migration and mobility decline",
+  "abstract": "BACKGROUND American migration rates have declined by nearly half since the mid-20th century, but it is not clear why. While the emerging literature on the topic stresses the salience of shifts in the composition of the American population, estimates of the contribution of population aging, increasing diversity, rising homeownership, and other shifts vary widely. Furthermore, it is unclear whether and how compositional shifts differ in their effects on migration over different geographic scales. OBJECTIVE To gauge the contribution of compositional shifts to concomitant declines in migration over various distances, while allowing for group variations in the rates at which declines occur. METHODS Drawing on individual-level IPUMS Current Population Survey data from 1982 to 2015, I use the Oaxaca-Blinder method to decompose declines in interstate migration, intrastate migration, and intracounty mobility. RESULTS Between a quarter and a third of declines since 1982 are attributable to aging and increasing diversity. Changing ethnoracial composition exerts a stronger influence on interstate migration, while aging has a stronger effect on local mobility. Results also reveal more dramatic declines among non-Latino Whites and those under age 35, as well as a marked delay and decline in peak mobility rates with each successive birth cohort. CONCLUSIONS Results point to social and economic shifts as the key drivers of American immobility, and the need for reorientation within the emerging literature. Future research should investigate the causes of group-specific rates of decline and focus on local mobility, where declines are most concentrated and where rising immobility is most problematic.",
+  "authors": [
+    {
+      "raw": "Foster, Thomas B.",
+      "family": "Foster",
+      "given": "Thomas B."
+    }
+  ],
+  "authors_text": "Foster, Thomas B.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.47",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.47",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.47",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.47.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

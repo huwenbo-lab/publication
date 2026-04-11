@@ -1,0 +1,25 @@
+{
+  "title": "The Prospective Power of Personality Factors for Family Formation and Dissolution Processes Among Males: Evidence from Swedish Register Data",
+  "abstract": "Abstract Personality has increasingly become relevant for family formation processes. However, the association between personality and family formation (dissolution) has been underexplored in demographic research. This study contributes to existing research by examining the prospective association between two personality factors [social maturity (SM), and emotional stability (ES)] and family formation and dissolution processes, i.e., (1) marital status, (2) fertility, and (3) partnership dissolution as both (a) divorce and (b) cohabitation dissolution, based on large Swedish register data. Poisson regression, Linear Probability, and Cox proportional hazard models were applied for different outcomes. Findings suggest that males with high scores on SM and ES measured at age of assignment to military service (17–20 years) are more likely to get married by age 39 and above. Regarding fertility, SM and ES show positive associations with offspring counts and negative associations with the probability of remaining childless by age 39 and above. Relationship dissolution is negatively linked with SM and ES, in particular among the lowest personality scores. Further analyses using sibling comparisons support these findings.",
+  "authors": [
+    {
+      "raw": "Peters, Steffen",
+      "family": "Peters",
+      "given": "Steffen"
+    }
+  ],
+  "authors_text": "Peters, Steffen",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09748-4",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09748-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09748-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09748-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Recall - A way to mitigate adverse effects of unemployment on earnings across occupations?",
+  "abstract": "We examine the reemployment earnings of workers reemployed by a former employer (known as recall) across different occupations. We first ask whether recalls represent a flexibilization strategy that mitigates adverse unemployment effects on workers' earnings. And second, whether there are any differences in post-unemployment earnings of recalled workers across different occupations. The article contributes to research on the effects of unemployment over a worker's life course. The empirical analysis is based on the German social security records of the Sample of Integrated Labour Market Biographies from the IAB (SIAB) for the years 2000, 2004 and 2008. Our results indicate first, that post-unemployment earnings decrease with duration of unemployment. The earning decrease, however, is reduced when a recall by a former employer occurs. Second, this buffer effect of recalls varies by occupation. In occupations with quicker changes in required competencies, the negative earning effect of unemployment duration is less mitigated by a recall. We explain these findings based on transaction costs, human capital devaluation and signaling theory.",
+  "authors": [
+    {
+      "raw": "Edler, Susanne",
+      "family": "Edler",
+      "given": "Susanne"
+    },
+    {
+      "raw": "Jacobebbinghaus, Peter",
+      "family": "Jacobebbinghaus",
+      "given": "Peter"
+    },
+    {
+      "raw": "Liebig, Stefan",
+      "family": "Liebig",
+      "given": "Stefan"
+    }
+  ],
+  "authors_text": "Edler, Susanne; Jacobebbinghaus, Peter; Liebig, Stefan",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2019,
+  "doi": "10.1016/j.rssm.2019.01.003",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.01.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.01.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.01.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

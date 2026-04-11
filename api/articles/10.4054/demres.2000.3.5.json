@@ -1,0 +1,30 @@
+{
+  "title": "Daily Fecundability",
+  "abstract": "This multicenter study has produced a database of 7017 menstrual cycles contributed by 881 women. It provides improved knowledge on length and location of the \"fertile window\" (identified as of up to 12 days duration) and the patterns and level of daily conception probability. The day of ovulation was identified in each cycle from records of basal body temperature and mucus symptoms. By referencing days of intercourse to the surrogate ovulation markers, estimates of daily fecundability were computed either directly or by the Scwartz model, both for single and multiple acts of intercourse in the fertile window. The relationship between coital pattern and fecundability has been explored. Univariate analysis underlines the significant link with fecundability only of the woman's reproductive history.",
+  "authors": [
+    {
+      "raw": "Colombo, Bernardo",
+      "family": "Colombo",
+      "given": "Bernardo"
+    },
+    {
+      "raw": "Masarotto, Guido",
+      "family": "Masarotto",
+      "given": "Guido"
+    }
+  ],
+  "authors_text": "Colombo, Bernardo; Masarotto, Guido",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2000,
+  "doi": "10.4054/demres.2000.3.5",
+  "doi_url": "https://doi.org/10.4054/demres.2000.3.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2000.3.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2000.3.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

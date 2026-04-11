@@ -1,0 +1,25 @@
+{
+  "title": "Who benefits from attending elite universities? Family background and graduates' career trajectories",
+  "abstract": "The literature on social stratification has paid considerable attention to whether and to what extent attending prestigious universities is beneficial for graduates? labor market returns. This paper contributes to the literature by applying a more dynamic perspective in asking whether graduates from prestigious and less prestigious universities differ in their career progression across fourteen years since labor market entry. It further investigates whether graduating from prestigious universities pays off more or less for graduates from different educational backgrounds. While the positive selection hypothesis suggests that students most likely to attend prestigious universities will benefit the most, the negative selection hypothesis suggests the opposite. Using multilevel growth curve modeling and the 1970 British Cohort Study (N = 939), the findings show no discernible differences in occupational prestige between graduates from diverse universities. If at all, there is a small Russell Group premium restricted to the early working career. This early Russell Group premium is mainly found among first-generation graduates providing evidence for the negative selection hypothesis.",
+  "authors": [
+    {
+      "raw": "Klein, Markus",
+      "family": "Klein",
+      "given": "Markus"
+    }
+  ],
+  "authors_text": "Klein, Markus",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100585",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100585",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100585",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100585.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

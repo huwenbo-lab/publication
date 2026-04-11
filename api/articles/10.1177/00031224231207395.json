@@ -1,0 +1,25 @@
+{
+  "title": "Who Profits from Occupational Licensing?",
+  "abstract": "Sociologists have debated intensively how and why occupations matter for economic inequality. I argue that occupational licensing alters wage-setting, depending on the characteristics of the licensing system. Licensing not only restricts market entry, as in the United States; some governments, like that of Germany, also regulate task prices and set occupation-specific wage floors for licensed occupations. I claim that the U.S. system leads to a growing licensing wage advantage across the distribution, and the German system leads to a falling one. Furthermore, I discuss how women may particularly benefit from licensing, as it reduces disadvantages women often face in wage-setting. I present unconditional and gender-specific quantile treatment effects based on CPS-MORG and BIBB/BAuA data from 2018. In the United States, wage premiums are highest for employees in the upper-middle part of the distribution and are small for those in the bottom and the top. In Germany, the wage premium is largest for licensed employees within the lower quarter and reduces significantly toward the top. In both countries, women profit significantly more from licensing. These results challenge claims about the role of licensing for inequality in the top, and suggest licensing reduces penalties faced by disadvantaged groups.",
+  "authors": [
+    {
+      "raw": "Haupt, Andreas",
+      "family": "Haupt",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Haupt, Andreas",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231207395",
+  "doi_url": "https://doi.org/10.1177/00031224231207395",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231207395",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231207395.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

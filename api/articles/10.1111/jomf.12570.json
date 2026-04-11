@@ -1,0 +1,25 @@
+{
+  "title": "Polygynous Unions and Intimate Partner Violence in Nigeria: An Examination of the Role of Selection",
+  "abstract": "Objective: This article explores the association between polygyny and intimate partner violence (IPV) in Nigeria, with attention to selection into polygyny. Background: Although IPV occurs within the social context of a family, the linkages between polygyny and IPV are rarely interrogated, and there is little attempt to differentiate between polygyny effects and selection effects. Method: This article uses a sample of 19,189 couples from the 2013 Nigeria Demographic Health Survey to conduct (a) a multivariate analysis of the characteristics that predict selection into polygyny, (b) a propensity score matching analysis of the association between polygyny and IPV, and (c) a Rosenbaum bounds analysis to assess hidden bias that might affect both selection into polygyny and IPV. Results: People who entered polygynous unions were different on observed characteristics-including relative status of husbands and wives coming into the union, education, religion, and ethnicity-than those who entered monogamous unions. Polygyny was associated with higher probabilities of women's reports of recent physical and emotional IPV, net of observed differences; however, a Rosenbaum bounds analysis indicated that it was highly plausible unobserved selectivity into polygyny helped account for these associations. Conclusion: It is important to move beyond viewing polygyny as a risk factor for IPV and toward understanding how selection into marriage is an important social process with implications for IPV, health, and well-being.",
+  "authors": [
+    {
+      "raw": "Behrman, Julia A.",
+      "family": "Behrman",
+      "given": "Julia A."
+    }
+  ],
+  "authors_text": "Behrman, Julia A.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12570",
+  "doi_url": "https://doi.org/10.1111/jomf.12570",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12570",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12570.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

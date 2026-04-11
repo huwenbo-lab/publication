@@ -1,0 +1,50 @@
+{
+  "title": "Exploring Strategies for Investigating the Mechanisms Linking Climate and Individual-Level Child Health Outcomes: An Analysis of Birth Weight in Mali",
+  "abstract": "The goal of this article is to consider data solutions to investigate the differential pathways that connect climate/weather variability to child health outcomes. We apply several measures capturing different aspects of climate/weather variability to different time periods of in utero exposure. The measures are designed to capture the complexities of climate-related risks and isolate their impacts based on the timing and duration of exposure. Specifically, we focus on infant birth weight in Mali and consider local weather and environmental conditions associated with the three most frequently posited potential drivers of adverse health outcomes: disease (malaria), heat stress, and food insecurity. We focus this study on Mali, where seasonal trends facilitate the use of measures specifically designed to capture distinct aspects of climate/weather conditions relevant to the potential drivers. Results indicate that attention to the timing of exposures and employing measures designed to capture nuances in each of the drivers provides important insight into climate and birth weight outcomes, especially in the case of factors impacted by precipitation. Results also indicate that high temperatures and low levels of agricultural production are consistently associated with lower birth weights, and exposure to malarious conditions may increase likelihood of nonlive birth outcomes.",
+  "authors": [
+    {
+      "raw": "Grace, Kathryn",
+      "family": "Grace",
+      "given": "Kathryn"
+    },
+    {
+      "raw": "Verdin, Andrew",
+      "family": "Verdin",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Dorelien, Audrey",
+      "family": "Dorelien",
+      "given": "Audrey"
+    },
+    {
+      "raw": "Davenport, Frank",
+      "family": "Davenport",
+      "given": "Frank"
+    },
+    {
+      "raw": "Funk, Chris",
+      "family": "Funk",
+      "given": "Chris"
+    },
+    {
+      "raw": "Husak, Greg",
+      "family": "Husak",
+      "given": "Greg"
+    }
+  ],
+  "authors_text": "Grace, Kathryn; Verdin, Andrew; Dorelien, Audrey; Davenport, Frank; Funk, Chris; Husak, Greg",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8977484",
+  "doi_url": "https://doi.org/10.1215/00703370-8977484",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8977484",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8977484.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The polarization of real estate ownership and increasing wealth inequality in Spain",
+  "abstract": "Recent research has shown that differences in the distribution of real estate wealth across households are the most important explanation for cross-national variation in wealth inequality. We extend this line of research by looking at change over time and quantifying the importance of two opposing trends related to housing for wealth inequality: declining homeownership rates and increases in multiple property ownership. Our analysis is based on data from the Spanish survey Encuesta Financiera de Familias covering the period 2002-2017. We show how real estate ownership is becoming increasingly polarized: both the share of households without any property at all as well as the share of households with multiple properties is increasing. Decomposition models show, first, that inequality between homeowners and non-owners is becoming a more important component of wealth inequality between households. Second, whereas real estate that is not used by households as their main residence constituted a relatively small part of wealth inequality in 2002, its absolute contribution had almost doubled by 2017. We conclude that household investments in non-residence real estate are an important channel through which wealth inequality increased over time in Spain.",
+  "authors": [
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    },
+    {
+      "raw": "Lopez-Gay, Antonio",
+      "family": "Lopez-Gay",
+      "given": "Antonio"
+    }
+  ],
+  "authors_text": "Boertien, Diederik; Lopez-Gay, Antonio",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac072",
+  "doi_url": "https://doi.org/10.1093/esr/jcac072",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac072",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac072.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

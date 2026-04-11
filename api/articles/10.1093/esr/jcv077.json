@@ -1,0 +1,25 @@
+{
+  "title": "Social Mobility and Class Identity: The Role of Economic Conditions in 33 Societies, 1999-2009",
+  "abstract": "Using hierarchal linear models fitted to survey data from the 1999 and 2009 International Social Survey Program Social Inequality module, this article examines how social mobility shapes class identification in 33 societies. My concern is with how social mobility-both at the individual level and the country level-affects class identification. The findings demonstrate that both one's own social class and their class origin influence class identification. On the other hand, national-level absolute mobility does not meaningfully shape class identification. This finding implies that people either consider only their own economic conditions-i.e. they care little about the conditions in which others live-or they are unaware of actual levels of mobility within their country. Finally, I build on previous research by demonstrating the importance of national-level income inequality. As income inequality rises, middle-class identities become weaker-regardless of one's social class position-because the adverse effects of inequality are felt more acutely across the class structure.",
+  "authors": [
+    {
+      "raw": "Curtis, Josh",
+      "family": "Curtis",
+      "given": "Josh"
+    }
+  ],
+  "authors_text": "Curtis, Josh",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcv077",
+  "doi_url": "https://doi.org/10.1093/esr/jcv077",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv077",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv077.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

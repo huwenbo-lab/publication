@@ -1,0 +1,25 @@
+{
+  "title": "Where job values come from: Family and schooling background, cognitive ability, and gender",
+  "abstract": "This paper develops a framework for conceptualizing preferences for different job properties in terms of a tradeoff between risk and return in the pursuit of economic welfare. Following portfolio theory, job properties are viewed as having mean-variance properties with respect to the distribution of rates of growth in economic welfare. Actors may pursue a high-return, high-risk entrepreneurial strategy, or a low-return, low-risk bureaucratic strategy. An actor's choice is determined by entrepreneurial ability and risk preferences, which in turn are rooted in the major dimensions of family and schooling background, cognitive ability, and gender. This theory is tested by anchoring it in the Wisconsin status attainment model and then fitting rank-ordered logit models to data from the 1957 and 1992 Wisconsin Longitudinal Survey. The findings support the theory: Actors who are advantaged with respect to family background, schooling, cognitive ability, and gender express a preference for entrepreneurial as opposed to bureaucratic job properties. Findings also highlight the strong parallels between the process generating adult job values and the process of socioeconomic achievement itself.",
+  "authors": [
+    {
+      "raw": "Halaby, CN",
+      "family": "Halaby",
+      "given": "CN"
+    }
+  ],
+  "authors_text": "Halaby, CN",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2003,
+  "doi": "10.2307/1519768",
+  "doi_url": "https://doi.org/10.2307/1519768",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F1519768",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/1519768.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

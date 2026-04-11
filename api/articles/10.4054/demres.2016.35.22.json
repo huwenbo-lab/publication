@@ -1,0 +1,35 @@
+{
+  "title": "Understanding the contribution of suicide to life expectancy in South Korea",
+  "abstract": "BACKGROUND South Korea has the highest rate and highest rate of increase in suicide among developed countries. The suicide epidemic in Korea is an anomaly, and suicide rates are high for both men and women, with no signs of decreasing. Yet we do not know the extent to which suicide has reduced life expectancy in Korea. OBJECTIVE We investigated whether and to what extent the rapid increase in suicide has contributed to changes in Korean life expectancy, a key indicator of population health. METHODS We used a recently developed decomposition method that separates the contribution of suicide's effect on change in life expectancy into two parts: that due to change in the overall suicide incidence rate and that due to change in the mean age of suicide victims. RESULTS From 1995 to 2010, life expectancy increased by 6.5 years in Korea, with change in most causes of death contributing to its growth. We nonetheless find, as expected, that the rise in suicides reduced the increase in life expectancy from 1995 to 2010, so life expectancy in Korea is about 0.21 years lower than it would have been without the increase in suicides. Moreover, had the age of suicide victims remained stable, we project that Korea's life expectancy would be fully 0.70 years lower than it is. CONCLUSION Although the growth in suicide was the largest single factor slowing the rise in Korean life expectancy, the effect would have been even larger had the age of suicide victims not increased.",
+  "authors": [
+    {
+      "raw": "Noah, Aggie J.",
+      "family": "Noah",
+      "given": "Aggie J."
+    },
+    {
+      "raw": "Acciai, Francesco",
+      "family": "Acciai",
+      "given": "Francesco"
+    },
+    {
+      "raw": "Firebaugh, Glenn",
+      "family": "Firebaugh",
+      "given": "Glenn"
+    }
+  ],
+  "authors_text": "Noah, Aggie J.; Acciai, Francesco; Firebaugh, Glenn",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.22",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

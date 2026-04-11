@@ -1,0 +1,30 @@
+{
+  "title": "The Impact of Grandparental Death on the Fertility of Adult Children",
+  "abstract": "The increasingly central role of vertical family kinship in Western societies underscores the potential value of intergenerational linkages that tie grandparents to the fertility of their adult children Recent research has examined the changing demography of grandparenthood and the roles fulfilled by living grandparents, but the complex implications of grandparental death-a key feature of intergenerational linkages over the life course-have drawn less attention. In this article, we explore whether and how childbearing of adult women is affected by the death of grandparents-their own parent(s) or their spouse's parent(s). We develop a novel conceptual framework that presents the pathways of influence and considers the overall impact of grandparental death on childbearing of adult children. We then estimate fixed-effects models to identify causal relationships between grandparental death and childbearing, using linked micro-level census and population register data from Israel for the period 1986-2014. We find that grandparental death leads to a reduction of approximately 5 percentage points in the five-year probability of childbirth. The effects of grandparental death are negative across all parities examined and are broadly similar across grandparent's gender and kinship relation. Additional effects are identified, including how the impact of grandparental death varies with time since the previous birth as well as residential proximity prior to death. We explain how our findings regarding the effect of grandparental death offer insight into the role of living grandparents. Our results suggest that policy-makers concerned with low fertility should explore mechanisms that reinforce potential sources of support from grandparents.",
+  "authors": [
+    {
+      "raw": "Okun, Barbara S.",
+      "family": "Okun",
+      "given": "Barbara S."
+    },
+    {
+      "raw": "Stecklov, Guy",
+      "family": "Stecklov",
+      "given": "Guy"
+    }
+  ],
+  "authors_text": "Okun, Barbara S.; Stecklov, Guy",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9015536",
+  "doi_url": "https://doi.org/10.1215/00703370-9015536",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9015536",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9015536.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

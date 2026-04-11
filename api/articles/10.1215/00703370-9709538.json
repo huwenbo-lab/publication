@@ -1,0 +1,40 @@
+{
+  "title": "Modeling Age Patterns of Under-5 Mortality: Results From a Log-Quadratic Model Applied to High-Quality Vital Registration Data",
+  "abstract": "Information about how the risk of death varies with age within the 0-5 age range rep re sents crit i cal evi dence for guid ing health pol icy. This study pro poses a new model for summarizing regularities about how under-5 mortality is distributed by detailed age. The model is based on a newly com piled data base that con tains under-5 mor tal ity infor ma tion by detailed age in countries with high-qual ity vital reg is tra tion sys tems, cov er ing a wide array of mor tal ity levels and pat terns. It uses a log-qua dratic approach in predicting a full mor tal ity sched ule between ages 0 and 5 on the basis of only one or two param e ters. With its larger num ber of age-groups, the pro posed model offers greater flex i bil ity than existing mod els in terms of both entry param e ters and model out comes. We present appli ca tions of this model for eval u at ing and correcting under-5 mor tal ity infor ma tion by detailed age in countries with prob lem atic mor tal ity data.",
+  "authors": [
+    {
+      "raw": "Guillot, Michel",
+      "family": "Guillot",
+      "given": "Michel"
+    },
+    {
+      "raw": "Prieto, Julio Romero",
+      "family": "Prieto",
+      "given": "Julio Romero"
+    },
+    {
+      "raw": "Verhulst, Andrea",
+      "family": "Verhulst",
+      "given": "Andrea"
+    },
+    {
+      "raw": "Gerland, Patrick",
+      "family": "Gerland",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Guillot, Michel; Prieto, Julio Romero; Verhulst, Andrea; Gerland, Patrick",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9709538",
+  "doi_url": "https://doi.org/10.1215/00703370-9709538",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9709538",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9709538.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Using subjective expectations to forecast longevity: do survey respondents know something we don’t know?",
+  "abstract": "Abstract Old-age mortality is notoriously dif cult to predict because it requires not only an understanding of the process of senescence—which is influenced by genetic, environmental, and behavioral factors—but also a prediction of how these factors will evolve. In this paper, I argue that individuals are uniquely qualified to predict their own mortality based on their own genetic background, as well as environmental and behavioral risk factors that are often known only to the individual. Given this private information, individuals form expectations about survival probabilities that may provide additional information to demographers and policymakers in their challenge to predict mortality. From expectations data from the 1992 Health and Retirement Study (HRS), I construct subjective, cohort life tables that are shown to predict the unusual direction of revisions to U.S. life expectancy by gender between 1992 and 2004: that is, for these cohorts, the Social Security Actuary (SSA) raised male life expectancy in 2004 and at the same lowered female life expectancy, narrowing the gender gap in longevity by 25% over this period. Further, although the subjective life expectancies for men appear to be roughly in line with the 2004 life tables, the subjective expectations of women suggest that female life expectancies estimated by the SSA might still be on the high side.",
+  "authors": [
+    {
+      "raw": "Perozek, Maria",
+      "family": "Perozek",
+      "given": "Maria"
+    }
+  ],
+  "authors_text": "Perozek, Maria",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.2008.0010",
+  "doi_url": "https://doi.org/10.1353/dem.2008.0010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2008.0010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2008.0010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

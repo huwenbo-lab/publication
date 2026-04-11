@@ -1,0 +1,25 @@
+{
+  "title": "Binary Response Models with Underlying Heterogeneity: Identification and Interpretation of Effects",
+  "abstract": "Comparison of logit coefficients across groups can be misleading if underlying variance heterogeneity is present, in particular one might find spurious differences of effects that are caused by different variation in the groups. This is quite unsettling given the problem seems not to be well recognized, but the logit model is widely used in applications. In particular the heterogeneous choice model has been used to account for the underlying heterogeneity. However, the heterogeneous choice model can be shown to be a specific interaction or varying-coefficientmodel. Therefore, one has a representation as a heterogeneity model and as an interaction model, but interpretation of effects is quite different for these models. We use the general framework of varying-coefficient models to obtain strategies that might be used to decide if the identified variation of coefficients is due to variance heterogeneity and therefore spurious or a true interaction effect. We will reconsider a data set that has been used by Allison (1999) when identifying the problem of heterogeneity and use further data sets to illustrate the method.",
+  "authors": [
+    {
+      "raw": "Tutz, Gerhard",
+      "family": "Tutz",
+      "given": "Gerhard"
+    }
+  ],
+  "authors_text": "Tutz, Gerhard",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy001",
+  "doi_url": "https://doi.org/10.1093/esr/jcy001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

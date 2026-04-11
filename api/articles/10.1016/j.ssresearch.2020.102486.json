@@ -1,0 +1,25 @@
+{
+  "title": "Estimating group fixed effects in panel data with a binary dependent variable: How the LPM outperforms logistic regression in rare events data",
+  "abstract": "Estimating fixed effects models can be challenging with rare events data. Researchers often face difficult trade-offs when selecting between the Linear Probability Model (LPM), logistic regression with group intercepts and the conditional logit. In this paper, I survey these tradeoffs and argue that, in fact, the LPM with fixed effects produces more accurate estimates and predicted probabilities than maximum likelihood specifications when the dependent variable has less than 25 percent of ones. I use Monte Carlo simulations to show when the LPM with fixed effects should be preferred. I perform these simulations on common time-series cross-sectional (TSCS) data structures found in the literature as well as big data. This paper provides clarity around fixed effects models in TSCS data and a novel technique to identify which one to use as a function of the frequency of events in y.",
+  "authors": [
+    {
+      "raw": "Timoneda, Joan C.",
+      "family": "Timoneda",
+      "given": "Joan C."
+    }
+  ],
+  "authors_text": "Timoneda, Joan C.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2020.102486",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102486",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102486",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102486.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

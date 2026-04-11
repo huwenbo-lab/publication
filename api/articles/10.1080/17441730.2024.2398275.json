@@ -1,0 +1,25 @@
+{
+  "title": "Estimating the stochastic uncertainty underlying sample-based estimates of infant mortality in the Philippines: a first-time application to a country in the Southeast Asia/Pacific Basin region",
+  "abstract": "ABSTRACT Infant mortality is an important population health statistic that is often used to make health policy decisions. Unfortunately, these data are not available for all populations. A newly developed method is presented for accounting for the stochastic uncertainty found in infant mortality rates (IMRs) estimated from sample surveys and for the first time applied to a country in the Southeast Asian/Pacific Basin area, the Philippines. The method is founded on the fact that there are two sources of variation in sample-based estimates of IMRs: (1) sample size; and (2) variation of infant deaths. The approach is aimed at taking into account stochastic uncertainty while preserving information concerning the uncertainty due to sampling. In applying the method to the Philippines, the sample-based IMR estimates appear to perform well in terms of accounting for stochastic uncertainty. This finding is consistent with previous research assessing this approach in Africa and with variations, in Canada, Europe and the United States, which suggests that in the form presented here or in one of its variants, it could successfully be employed not only elsewhere in the Southeast Asia/Pacific Basin region but also in East Asia, North Asia, South Asia, and West Asia.",
+  "authors": [
+    {
+      "raw": "Swanson, David A.",
+      "family": "Swanson",
+      "given": "David A."
+    }
+  ],
+  "authors_text": "Swanson, David A.",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2024,
+  "doi": "10.1080/17441730.2024.2398275",
+  "doi_url": "https://doi.org/10.1080/17441730.2024.2398275",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2024.2398275",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2024.2398275.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Visualizing Belief in Meritocracy, 1930–2010",
+  "abstract": "In this figure I describe the long trend in popular belief in meritocracy across the Western world between 1930 and 2010. Studying trends in attitudes is limited by the paucity of survey data that can be compared across countries and over time. Here, I show how to complement survey waves with cohort-level data. Repeated surveys draw on a representative sample of the population to describe the typical beliefs held by citizens in a given country and period. Leveraging the fact that citizens surveyed in a given year were born in different time-periods allows for a comparison of beliefs across birth cohorts. The latter overlaps with the former, but considerably extends the time period covered by the data. Taken together, the two measures give a “triangulated” longitudinal record of popular belief in meritocracy. I find that in most countries, popular belief in meritocracy is (much) stronger for more recent periods and cohorts.",
+  "authors": [
+    {
+      "raw": "Mijs, Jonathan J. B.",
+      "family": "Mijs",
+      "given": "Jonathan J. B."
+    }
+  ],
+  "authors_text": "Mijs, Jonathan J. B.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118811805",
+  "doi_url": "https://doi.org/10.1177/2378023118811805",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118811805",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118811805.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

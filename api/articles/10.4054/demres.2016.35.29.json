@@ -1,0 +1,25 @@
+{
+  "title": "Visualising the demographic factors which shape population age structure",
+  "abstract": "BACKGROUND The population pyramid is one of the most popular tools for visualising population age structure. However, it is difficult to discern from the diagram the relative effects of different demographic components on the size of age-specific populations, making it hard to understand exactly how a population's age structure is formed. OBJECTIVE The aim of this paper is to introduce a type of population pyramid which shows how births, deaths, and migration have shaped a population's age structure. DATA AND METHODS Births, deaths, and population data were obtained from the Human Mortality Database and the Australian Bureau of Statistics. A variation on the conventional population pyramid, termed here a components-of-change pyramid, was created. Based on cohort population accounts, it illustrates how births, deaths, and net migration have created the population of each age group. A simple measure which summarises the impact of net migration on age structure is also suggested. RESULTS Example components-of-change pyramids for several countries and subnational regions are presented, which illustrate how births, deaths, and net migration have fashioned current population age structures. The influence of migration is shown to vary greatly between populations. CONCLUSIONS The new type of pyramid aids interpretation of a population's age structure and helps to understand its demographic history over the last century.",
+  "authors": [
+    {
+      "raw": "Wilson, Tom",
+      "family": "Wilson",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "Wilson, Tom",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.29",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

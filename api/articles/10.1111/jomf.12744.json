@@ -1,0 +1,30 @@
+{
+  "title": "Premarital Cohabitation and Marital Dissolution: A Reply to Manning, Smock, and Kuperberg",
+  "abstract": "Objective Our goal is to show how premarital cohabitation's association with marital dissolution can be measured consistently over time. Background Rosenfeld and Roesler (2019) showed that premarital cohabitation led to lower rates of marital dissolution early in marital duration, but higher rates of marital dissolution after a few years of marital duration. Analysis based on marriage cohorts can erroneously appear to show that the association between premarital cohabitation and marital dissolution has disappeared in the most recent cohort. Method We use discrete time event history models to study the association between premarital cohabitation and marital dissolution across calendar time and across marriage cohorts, with data from the National Survey of Family Growth (NSFG). We examine a variety of modeling strategies and data filters including those in Manning, Smock, and Kuperberg's (MSK) comment to show how different data and modeling choices can bias the results. Results MSK's analysis rests on simple misunderstandings of our models. MSK discarded more than 70% of the valid couple years available in the NSFG data, and then used the resulting lower statistical power to declare a key interaction insignificant. MSK treat children as a time-invariant variable despite the fact that the presence of children changes over the course of relationships. MSK discard one wave of the data without explanation. All of these choices affect the outcome. Conclusion Our prior result stands: premarital cohabitation consistently predicts higher rates of marital dissolution in the U.S. Research into marital dissolution should be made more robust, transparent, and replicable.",
+  "authors": [
+    {
+      "raw": "Rosenfeld, Michael J.",
+      "family": "Rosenfeld",
+      "given": "Michael J."
+    },
+    {
+      "raw": "Roesler, Katharina",
+      "family": "Roesler",
+      "given": "Katharina"
+    }
+  ],
+  "authors_text": "Rosenfeld, Michael J.; Roesler, Katharina",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12744",
+  "doi_url": "https://doi.org/10.1111/jomf.12744",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12744",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12744.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

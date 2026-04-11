@@ -1,0 +1,35 @@
+{
+  "title": "Responsive Survey Design, Demographic Data Collection, and Models of Demographic Behavior",
+  "abstract": "Abstract To address declining response rates and rising data-collection costs, survey methodologists have devised new techniques for using process data (“paradata”) to address nonresponse by altering the survey design dynamically during data collection. We investigate the substantive consequences of responsive survey design—tools that use paradata to improve the representative qualities of surveys and control costs. By improving representation of reluctant respondents, responsive design can change our understanding of the topic being studied. Using the National Survey of Family Growth Cycle 6, we illustrate how responsive survey design can shape both demographic estimates and models of demographic behaviors based on survey data. By juxtaposing measures from regular and responsive data collection phases, we document how special efforts to interview reluctant respondents may affect demographic estimates. Results demonstrate the potential of responsive survey design to change the quality of demographic research based on survey data.",
+  "authors": [
+    {
+      "raw": "Axinn, William G.",
+      "family": "Axinn",
+      "given": "William G."
+    },
+    {
+      "raw": "Link, Cynthia F.",
+      "family": "Link",
+      "given": "Cynthia F."
+    },
+    {
+      "raw": "Groves, Robert M.",
+      "family": "Groves",
+      "given": "Robert M."
+    }
+  ],
+  "authors_text": "Axinn, William G.; Link, Cynthia F.; Groves, Robert M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0044-1",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0044-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0044-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0044-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

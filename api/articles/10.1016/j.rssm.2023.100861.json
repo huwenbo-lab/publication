@@ -1,0 +1,35 @@
+{
+  "title": "Starting flexible, always flexible? The relation of early temporary employment and young workers employment trajectories in the Netherlands",
+  "abstract": "Using register data from Statistics Netherlands (2009-2019), this paper examines whether the first employment contract is related to early career outcomes for a cohort of young workers who entered the Dutch labour market in the period from late 2009-2013. Instead of looking at the timing of isolated transitions between employment states, 6-year-long trajectories are considered to identify differences in early career paths. Applying a Mixture Hidden Markov Model, eight distinct states of employment quality characterized by different contract types and incomes are identified. Transitions between these employment states reveal four early career patterns that differ according to their upward and downward mobility. Our results show that entering the labour market with a permanent contract does not necessarily lead to immediate wage growth, but provides a safeguard against volatile careers with frequent transitions in and out of employment. While entering the labour market with a fixed-term contract facilitates upward mobility, on-call and temporary agency work early in the career may negatively affect long-term labour market integration.",
+  "authors": [
+    {
+      "raw": "Eberlein, Laura",
+      "family": "Eberlein",
+      "given": "Laura"
+    },
+    {
+      "raw": "Pavlopoulos, Dimitris",
+      "family": "Pavlopoulos",
+      "given": "Dimitris"
+    },
+    {
+      "raw": "Garnier-Villarreal, Mauricio",
+      "family": "Garnier-Villarreal",
+      "given": "Mauricio"
+    }
+  ],
+  "authors_text": "Eberlein, Laura; Pavlopoulos, Dimitris; Garnier-Villarreal, Mauricio",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2023.100861",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100861",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100861",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100861.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

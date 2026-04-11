@@ -1,0 +1,30 @@
+{
+  "title": "The National Immigrant Survey of Spain. A new data source for migration studies in Europe",
+  "abstract": "Spain has recently become the destination for large numbers of international migrants and now ranks as a key focal point for international migration in Europe. Currently, approximately one in ten residents in Spain are foreigners, up more than tenfold",
+  "authors": [
+    {
+      "raw": "Reher, David",
+      "family": "Reher",
+      "given": "David"
+    },
+    {
+      "raw": "Requena, Miguel",
+      "family": "Requena",
+      "given": "Miguel"
+    }
+  ],
+  "authors_text": "Reher, David; Requena, Miguel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2009,
+  "doi": "10.4054/demres.2009.20.12",
+  "doi_url": "https://doi.org/10.4054/demres.2009.20.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2009.20.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2009.20.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

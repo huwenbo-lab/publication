@@ -1,0 +1,35 @@
+{
+  "title": "The Differential Impacts of Contingent Employment on Fertility: Evidence from Australia",
+  "abstract": "Many studies have reported evidence of negative associations between fixed-term contract employment and fertility. With few exceptions, these studies assume that employment status is exogenous and thus results are likely biased. Furthermore, previous research has mostly not considered whether the effects of employment status on fertility might vary with other worker characteristics. We draw on nineteen years of data from the Household, Income and Labour Dynamics in Australia Survey to investigate the causal effect of contingent forms of employment (including both fixed-term and casual employment) on first births, and how that effect varies with selected worker characteristics. The issue of endogeneity is addressed through the use of instrumental variables estimation. Our main finding is that both fixed-term contracts and casual employment lead to a significantly lower probability of first births among men, with the effect of fixed-term contracts being almost as twice as large as the effect of casual employment. We also find that these negative fertility effects vary with workers' education, occupational status, country of origin, age, and relationship status. In the case of women, one of the instruments fails to satisfy the exclusion restriction, suggesting endogeneity remains a concern when analyzing female fertility outcomes.",
+  "authors": [
+    {
+      "raw": "Wooden, Mark",
+      "family": "Wooden",
+      "given": "Mark"
+    },
+    {
+      "raw": "Trinh, Trong-Anh",
+      "family": "Trinh",
+      "given": "Trong-Anh"
+    },
+    {
+      "raw": "Mooi-Reci, Irma",
+      "family": "Mooi-Reci",
+      "given": "Irma"
+    }
+  ],
+  "authors_text": "Wooden, Mark; Trinh, Trong-Anh; Mooi-Reci, Irma",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soad008",
+  "doi_url": "https://doi.org/10.1093/sf/soad008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

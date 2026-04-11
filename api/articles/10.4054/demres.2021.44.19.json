@@ -1,0 +1,25 @@
+{
+  "title": "The centered ternary balance scheme: A technique to visualize surfaces of unbalanced three-part compositions",
+  "abstract": "BACKGROUND The ternary balance scheme is a visualization technique that encodes three-part compositions as a mixture of three primary colors. The technique works best if the compositional data are well spread out across the domain but fails to show structure in very unbalanced data. OBJECTIVE I extend the ternary balance scheme such that it can be utilized to show variation in unbalanced compositional surfaces. METHODS By reprojecting an unbalanced compositional data set around its center of location and visualizing the transformed data with a standard ternary balance scheme, the internal variation of the data becomes visible. An appropriate centering operation has been defined within the field of compositional data analysis. RESULTS Using Europe's regional workforce structure by economic sector as an example, I have demonstrated the utility of the centered ternary balance scheme in visualizing variation across unbalanced compositional surfaces. CONTRIBUTION I have proposed a technique to visualize the internal variation in surfaces of highly unbalanced compositional data and implemented it in the tricolore R package.",
+  "authors": [
+    {
+      "raw": "Schoeley, Jonas",
+      "family": "Schoeley",
+      "given": "Jonas"
+    }
+  ],
+  "authors_text": "Schoeley, Jonas",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.19",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

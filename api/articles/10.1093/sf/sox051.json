@@ -1,0 +1,40 @@
+{
+  "title": "The Role of Education for Intergenerational Income Mobility: A comparison of the United States, Great Britain, and Sweden",
+  "abstract": "Previous studies have found that intergenerational income persistence is relatively high in the United States and Britain, especially as compared to Nordic countries. We compare the association between family income and sons' earnings in the United States (National Longitudinal Study of Youth 1979), Britain (British Cohort Study 1970), and Sweden (Population Register Data, 1965 cohort), and find that both income elasticities and rank-order correlations are highest in the United States, followed by Britain, with Sweden being clearly more equal. We ask whether differences in educational inequality and in return to qualifications can explain these cross-country differences. Surprisingly, we find that this is not the case, even though returns to education are higher in the United States. Instead, the low income mobility in the United States and Britain is almost entirely due to the part of the parent-son association that is not mediated by educational attainment. In the United States and especially Britain, parental income is far more important for earnings at a given level of education than in Sweden, a result that holds also when controlling for cognitive ability. This goes against widespread ideas of the United States as a country where the role of ascription is limited and meritocratic stratification prevails.",
+  "authors": [
+    {
+      "raw": "Gregg, Paul",
+      "family": "Gregg",
+      "given": "Paul"
+    },
+    {
+      "raw": "Jonsson, Jan O.",
+      "family": "Jonsson",
+      "given": "Jan O."
+    },
+    {
+      "raw": "Macmillan, Lindsey",
+      "family": "Macmillan",
+      "given": "Lindsey"
+    },
+    {
+      "raw": "Mood, Carina",
+      "family": "Mood",
+      "given": "Carina"
+    }
+  ],
+  "authors_text": "Gregg, Paul; Jonsson, Jan O.; Macmillan, Lindsey; Mood, Carina",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox051",
+  "doi_url": "https://doi.org/10.1093/sf/sox051",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox051",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox051.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

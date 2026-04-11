@@ -1,0 +1,40 @@
+{
+  "title": "Internal Displacement and Subjective Well-Being: The Case of Ukraine in 2018",
+  "abstract": "Ukraine is currently experiencing the largest human displacement crisis in the world. However, armed conflict that started in 2014 had already displaced nearly 1.8 million people in Ukraine, resulting in the largest internally displaced population in Europe. Although ethnically and culturally similar to the local population, Ukrainian Internally Displaced Persons (IDPs) encounter severe economic, housing, and social challenges, as well as residual trauma from violence. In this study we examine the extent to which the subjective well-being (SWB) of IDPs differs from locals who were not displaced. We explore whether the difference in subjective well-being between IDPs and locals is due to economic hardship, inadequate housing, and/or weak social support. Using a unique survey conducted in 2018 and OLS regression methods, we find a sizable gap in SWB between IDPs and locals. The gap shrinks after accounting for economic and housing status, and support from local networks. Measures of loss in housing and social networks additionally account for the gap. However, none of the factors we measure can account for the difference between locals and IDPs who reported only leaving due to violence, pointing to the enduring impact of trauma on SWB.",
+  "authors": [
+    {
+      "raw": "Perelli-Harris, Brienna",
+      "family": "Perelli-Harris",
+      "given": "Brienna"
+    },
+    {
+      "raw": "Zavisca, Jane",
+      "family": "Zavisca",
+      "given": "Jane"
+    },
+    {
+      "raw": "Levchuk, Nataliia",
+      "family": "Levchuk",
+      "given": "Nataliia"
+    },
+    {
+      "raw": "Gerber, Theodore P.",
+      "family": "Gerber",
+      "given": "Theodore P."
+    }
+  ],
+  "authors_text": "Perelli-Harris, Brienna; Zavisca, Jane; Levchuk, Nataliia; Gerber, Theodore P.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soad124",
+  "doi_url": "https://doi.org/10.1093/sf/soad124",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad124",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad124.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

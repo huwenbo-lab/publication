@@ -1,0 +1,25 @@
+{
+  "title": "Estimating a Dynamic Model of Sex Selection in China",
+  "abstract": "AbstractHigh ratios of males to females in China, which have historically concerned researchers (Sen 1990), have increased in the wake of China’s one-child policy, which began in 1979. Chinese policymakers are currently attempting to correct the imbalance in the sex ratio through initiatives that provide financial compensation to parents with daughters. Other scholars have advocated a relaxation of the one-child policy to allow more parents to have a son without engaging in sex selection. In this article, I present a model of fertility choice when parents have access to a sex-selection technology and face a mandated fertility limit. By exploiting variation in fines levied in China for unsanctioned births, I estimate the relative price of a son and daughter for mothers observed in China’s census data (1982–2000). I find that a couple’s first son is worth 1.42 years of income more than a first daughter, and the premium is highest among less-educated mothers and families engaged in agriculture. Simulations indicate that a subsidy of 1 year of income to families without a son would reduce the number of “missing girls” by 67% but impose an annual cost of 1.8% of Chinese gross domestic product (GDP). Alternatively, a three-child policy would reduce the number of “missing girls” by 56% but increase the fertility rate by 35%.",
+  "authors": [
+    {
+      "raw": "Ebenstein, Avraham",
+      "family": "Ebenstein",
+      "given": "Avraham"
+    }
+  ],
+  "authors_text": "Ebenstein, Avraham",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0030-7",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0030-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0030-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0030-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

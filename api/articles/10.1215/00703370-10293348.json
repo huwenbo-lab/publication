@@ -1,0 +1,30 @@
+{
+  "title": "Maternal Age, Early Childhood Temperament, and Youth Outcomes",
+  "abstract": "Demographers and family researchers have long debated whether early childbearing has negative consequences on the offspring, but few have considered that the benefits of delayed childbearing (or the lack thereof) may not be universal. Using sibling data from the National Longitudinal Survey of Youth 1979 Children and Young Adults, we investigate how the relevance of mothers' age at childbirth to youth outcomes (academic performance, years of education completed, and psychological distress) may differ for youth whose early-childhood behavioral disposition (i.e., temperament) indicated varying degrees of insecure attachment. Results from family fixed-effects models, which take into account much of the unobserved heterogeneity among families, show that having an older mother is associated with improved educational and psychological outcomes for youth with a rather insecure early temperament. In contrast, mothers' age at childbirth hardly matters for children with a secure disposition. Further analysis indicates that the moderating effect of maternal age cannot be explained by the mother's first-birth timing, education, work status, income, or family stability. Older mothers' higher likelihood of prior child-rearing experience explains part of the older-mother advantage for temperamentally insecure children. However, the aging process, which equips older mothers with enhanced maturity, more calmness, and therefore greater capacity to overcome adversities, seems to account for the smaller detrimental effects of an insecure disposition on their children.",
+  "authors": [
+    {
+      "raw": "Yu, Wei-hsin",
+      "family": "Yu",
+      "given": "Wei-hsin"
+    },
+    {
+      "raw": "Yan, Hope Xu",
+      "family": "Yan",
+      "given": "Hope Xu"
+    }
+  ],
+  "authors_text": "Yu, Wei-hsin; Yan, Hope Xu",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10293348",
+  "doi_url": "https://doi.org/10.1215/00703370-10293348",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10293348",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10293348.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

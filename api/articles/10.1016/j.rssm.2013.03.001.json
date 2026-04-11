@@ -1,0 +1,35 @@
+{
+  "title": "Intergenerational class mobility in Hungary between 1865 and 1950: Testing models of change in social openness",
+  "abstract": "This article describes long-term changes in the occupational class structure and intergenerational social mobility in Hungary between 1865 and 1950, a period that has not been studied in previous mobility research. The study's long time span and the fact that the Hungarian economy began to industrialize in the second half of the 19th century allows us to test several competing hypotheses about changes in social mobility. We use a large, individual-level, historical dataset with over 73,000 marriage records, representing all regions of present-day Hungary. Although the occupational structure remained predominantly agrarian, total mobility increased over the observed period, with an upward shift in the occupational distribution. Log-multiplicative association models were used to compare relative mobility patterns of men across 17 mobility tables over five-year periods. Relative mobility increased, lending partial support to the modernization thesis. The increase of relative mobility can be attributed to decreasing diagonal association. Off-diagonal association, indicating class-based inequalities in mobility chances, increased during the first period of industrialization. The results call for a closer examination of the mechanisms causing changes in social mobility during industrialization. (C) 2013 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Lippenyi, Zoltan",
+      "family": "Lippenyi",
+      "given": "Zoltan"
+    },
+    {
+      "raw": "Maas, Ineke",
+      "family": "Maas",
+      "given": "Ineke"
+    },
+    {
+      "raw": "van Leeuwen, Marco H. D.",
+      "family": "van Leeuwen",
+      "given": "Marco H. D."
+    }
+  ],
+  "authors_text": "Lippenyi, Zoltan; Maas, Ineke; van Leeuwen, Marco H. D.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2013,
+  "doi": "10.1016/j.rssm.2013.03.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2013.03.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2013.03.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2013.03.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

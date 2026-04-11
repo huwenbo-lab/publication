@@ -1,0 +1,40 @@
+{
+  "title": "The reproduction of benefit receipt: Disentangling the intergenerational transmission",
+  "abstract": "Adult children of benefit recipients are more likely to also receive benefits themselves. This may be a spurious effect, resulting from similarities between parents and children, but it is also possible that parental benefit receipt generates more benefit recipiency among their offspring. Such a non-spurious effect may be due to children's educational attainment, information, beliefs, and norms about welfare or work. We analyse longitudinal administrative data on benefit receipt among parents and children in the Netherlands. We approach causality through the timing of parental benefit receipt, and find indications for a non-spurious effect on adult children's benefit receipt. Parental benefit receipt lowers the child's educational attainment, and this subsequently results in more benefit receipt. The remaining effect is more likely related to beliefs and norms than to information provision.",
+  "authors": [
+    {
+      "raw": "Boschman, Sanne",
+      "family": "Boschman",
+      "given": "Sanne"
+    },
+    {
+      "raw": "Maas, Ineke",
+      "family": "Maas",
+      "given": "Ineke"
+    },
+    {
+      "raw": "Kristiansen, Marcus H.",
+      "family": "Kristiansen",
+      "given": "Marcus H."
+    },
+    {
+      "raw": "Vrooman, J. Cok",
+      "family": "Vrooman",
+      "given": "J. Cok"
+    }
+  ],
+  "authors_text": "Boschman, Sanne; Maas, Ineke; Kristiansen, Marcus H.; Vrooman, J. Cok",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.02.009",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.02.009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.02.009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.02.009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

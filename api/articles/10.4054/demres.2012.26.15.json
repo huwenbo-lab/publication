@@ -1,0 +1,45 @@
+{
+  "title": "Estimating trends in the total fertility rate with uncertainty using imperfect data",
+  "abstract": "When working with multiple imperfect observations from different data sources to estimate the total fertility rate, or demographic indicators in general, potential biases and differences in error variance should be taken into account to improve the estimates and their uncertainty assessment.",
+  "authors": [
+    {
+      "raw": "Alkema, Leontine",
+      "family": "Alkema",
+      "given": "Leontine"
+    },
+    {
+      "raw": "Raftery, Adrian E.",
+      "family": "Raftery",
+      "given": "Adrian E."
+    },
+    {
+      "raw": "Gerland, Patrick",
+      "family": "Gerland",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Clark, Samuel J.",
+      "family": "Clark",
+      "given": "Samuel J."
+    },
+    {
+      "raw": "Pelletier, Francois",
+      "family": "Pelletier",
+      "given": "Francois"
+    }
+  ],
+  "authors_text": "Alkema, Leontine; Raftery, Adrian E.; Gerland, Patrick; Clark, Samuel J.; Pelletier, Francois",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2012,
+  "doi": "10.4054/demres.2012.26.15",
+  "doi_url": "https://doi.org/10.4054/demres.2012.26.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2012.26.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2012.26.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

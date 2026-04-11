@@ -1,0 +1,25 @@
+{
+  "title": "Fewer Siblings, More Wealth? Sibship Size and Wealth Attainment",
+  "abstract": "This study examines the association between sibship size and wealth in adulthood. The study draws on resource dilution theory and additionally discusses potentially wealth-enhancing consequences of having siblings. Data from the German Socio-Economic Panel Study (SOEP, N = 3502 individuals) are used to estimate multilevel regression models adjusted for concurrent parental wealth and other important confounders neglected in extant work. The main results of the current study show that additional siblings reduce wealth by about 38%. Parental wealth moderates the association so that sibship size is more negatively associated with filial wealth when parents are wealthier. Birth order position does not moderate the association between sibship size and wealth. The findings suggest that fertility in the family of origin has a systematic impact on wealth attainment and may contribute to population-level wealth inequalities independently from other socio-economic characteristics in families of origin such as parental wealth.",
+  "authors": [
+    {
+      "raw": "Lersch, Philipp M.",
+      "family": "Lersch",
+      "given": "Philipp M."
+    }
+  ],
+  "authors_text": "Lersch, Philipp M.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2019,
+  "doi": "10.1007/s10680-018-09512-x",
+  "doi_url": "https://doi.org/10.1007/s10680-018-09512-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-09512-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-09512-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

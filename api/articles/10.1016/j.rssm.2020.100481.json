@@ -1,0 +1,35 @@
+{
+  "title": "3Ms of 3G: Testing three mechanisms of three-generational educational mobility in the U. S",
+  "abstract": "Following Mare's (2011) presidential address to the Population Association of America, much research has examined the dynamics of intergenerational mobility and socioeconomic inequality. However, this research is starkly divided on the existence of multigenerational effects and pathways. In this article, we examine educational attainment across three generations using the Panel Study of Income Dynamics. We test three key hypothesized mechanisms of grandparent educational advantage transmission that have been documented in international samples: compensation and augmentation, grandparent lifespan, and genetic transmission. To further interrogate how these mechanisms function across social contexts, we also race-stratify all analyses. As a more stringent test, we also test all hypotheses using cousin fixed effects models. We find no evidence in favor of the compensation hypothesis, but do find descriptive support for the augmentation hypothesis, as well as some limited support among whites for college graduation outcomes in cousin fixed effects models. Findings on the lifespan overlap and genetic transmission hypotheses are highly race-stratified. Overall, our findings support the importance of investigating the mechanisms of three-generation processes of educational attainment across contexts and sub-groups.",
+  "authors": [
+    {
+      "raw": "Daw, Jonathan",
+      "family": "Daw",
+      "given": "Jonathan"
+    },
+    {
+      "raw": "Gaddis, S. Michael",
+      "family": "Gaddis",
+      "given": "S. Michael"
+    },
+    {
+      "raw": "Morse, Anne Roback",
+      "family": "Morse",
+      "given": "Anne Roback"
+    }
+  ],
+  "authors_text": "Daw, Jonathan; Gaddis, S. Michael; Morse, Anne Roback",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100481",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100481",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100481",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100481.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Gender and Internal Geographical Mobility in Europe: A Comparative Analysis of Family and Employment Over the Life Course",
+  "abstract": "Abstract This article presents an investigation into the gendered outcomes of inter-regional moves in six European countries, adopting a life-course perspective. Analyses are based on retrospective data from SHARELIFE for birth cohorts from the 1930s to 1960s in France, Germany, Italy, Poland, Spain, and Sweden. Linear probability panel models with fixed effects are used to examine the association between inter-regional migration and employment status over time, while assessing whether it differs by gender and family status. Results show that men experience improved employment probabilities following migration, regardless of their family status, and that these outcomes are consistent across countries. Moreover, the likelihood of employment for men continues to gradually increase several years after the move. In contrast, inter-regional mobility favours single women more than partnered women, especially mothers. Results, however, do not confirm a pattern of continued disadvantages, as mobility does not further reduce the employment prospects of mothers over time. The largest differences in the association between geographical mobility and employment between single women and mothers are observed in Mediterranean countries, while in more egalitarian countries like Sweden these differences are comparatively small.",
+  "authors": [
+    {
+      "raw": "Gaukel, Hanne",
+      "family": "Gaukel",
+      "given": "Hanne"
+    },
+    {
+      "raw": "Impicciatore, Roberto",
+      "family": "Impicciatore",
+      "given": "Roberto"
+    },
+    {
+      "raw": "Panichella, Nazareno",
+      "family": "Panichella",
+      "given": "Nazareno"
+    },
+    {
+      "raw": "Zhelenkova, Antonina",
+      "family": "Zhelenkova",
+      "given": "Antonina"
+    }
+  ],
+  "authors_text": "Gaukel, Hanne; Impicciatore, Roberto; Panichella, Nazareno; Zhelenkova, Antonina",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09763-5",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09763-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09763-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09763-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

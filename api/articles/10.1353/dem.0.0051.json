@@ -1,0 +1,30 @@
+{
+  "title": "Unwed fathers’ ability to pay child support: New estimates accounting for multiple-partner fertility",
+  "abstract": "AbstractWe present new estimates of unwed fathers’ ability to pay child support. Prior research relied on surveys that drastically undercounted nonresident unwed fathers and provided no link to their children who lived in separate households. To overcome these limitations, previous research assumed assortative mating and that each mother partnered with one father who was actually eligible to pay support and had no other child support obligations. Because the Fragile Families and Child Wellbeing Study contains data on couples, multiple-partner fertility, and a rich array of other previously unmeasured characteristics of fathers, it is uniquely suited to address the limitations of previous research. We also use an improved method of dealing with missing data. Our findings suggest that previous research overestimated the aggregate ability of unwed nonresident fathers to pay child support by 33% to 60%.",
+  "authors": [
+    {
+      "raw": "Sinkewicz, Marilyn",
+      "family": "Sinkewicz",
+      "given": "Marilyn"
+    },
+    {
+      "raw": "Garfinkel, Irwin",
+      "family": "Garfinkel",
+      "given": "Irwin"
+    }
+  ],
+  "authors_text": "Sinkewicz, Marilyn; Garfinkel, Irwin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0051",
+  "doi_url": "https://doi.org/10.1353/dem.0.0051",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0051",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0051.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

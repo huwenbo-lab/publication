@@ -1,0 +1,35 @@
+{
+  "title": "The short- and long-term determinants of fertility in Uruguay",
+  "abstract": "BACKGROUND Uruguay was one of the pioneers of the demographic transition in Latin America and the Caribbean. It experienced very early declines in both fertility and mortality, but teenage fertility remained high until recently. OBJECTIVE We study the short- and long-term determinants of fertility at different reproductive age stages (less than 20 years old, 20 to 29 years old, and 30 years old and over). METHODS We employ time-series analysis methods based on data from 1968 to 2021 and panel-data techniques based on department-level statistical information from 1984 to 2019. CONCLUSION Our time-series analysis indicates a cointegration (long-term) relationship between fertility and economic performance, education, and infant mortality, with differences observed by reproductive age stage. It finds a negative relationship between income and fertility for women aged 20 to 29 that persists for women aged 30 and over and a negative relationship between education and adolescent fertility. A panel-data exercise with econometric techniques allowing us to control for unobserved heterogeneity confirms that income is a relevant factor for all groups of women and reinforces the crucial role of education in reducing teenage fertility. We also identify a negative correlation between fertility and employment rates for women aged 30 years old and over. Our study suggests a very relevant role for education in curbing fertility, especially among teenagers. It also confirms the importance of the level of economic development, providing support for conventional structural or diffusion, maternal role incompatibility, and institutional theories. Our evidence on female employment is not robust to the estimation method. CONTRIBUTION We provide the first comprehensive analysis of fertility at different stages of reproductive life for a Latin American and Caribbean country based on a long series of statistical data. Moreover, the case of Uruguay is particularly interesting because of the idiosyncratic features of this magnitude in the country. Our results yield additional evidence that contributes to increasing our understanding of the determinants of this phenomenon and informs policymakers regarding the design of interventions that shape fertility.",
+  "authors": [
+    {
+      "raw": "Ferre, Zuleika",
+      "family": "Ferre",
+      "given": "Zuleika"
+    },
+    {
+      "raw": "Triunfo, Patricia",
+      "family": "Triunfo",
+      "given": "Patricia"
+    },
+    {
+      "raw": "Anton, Jose Ignacio",
+      "family": "Anton",
+      "given": "Jose Ignacio"
+    }
+  ],
+  "authors_text": "Ferre, Zuleika; Triunfo, Patricia; Anton, Jose Ignacio",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.10",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

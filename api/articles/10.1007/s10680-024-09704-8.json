@@ -1,0 +1,40 @@
+{
+  "title": "Forecasting Inequalities in Survival to Retirement Age by Socioeconomic Status in Denmark and Sweden",
+  "abstract": "Abstract In Denmark and Sweden, statutory retirement age is indexed to life expectancy to account for mortality improvements in their populations. However, mortality improvements have not been uniform across different sub-populations. Notably, in both countries, individuals of lower socioeconomic status (SES) have experienced slower mortality improvements. As a result, a uniform rise in the statutory retirement age could disproportionally affect these low-SES groups and may unintentionally lead to a reverse redistribution effect, shifting benefits from short-lived low-SES individuals to long-lived high-SES individuals. The aim of this study is twofold: to quantify and contextualise mortality inequalities by SES in Denmark and Sweden, and to assess how indexing retirement age will affect future survival to retirement age by SES in these countries. We used Danish and Swedish registry data (1988–2019), to aggregate individuals aged 50 + based on their demographic characteristics and SES. We computed period life tables by year, sex, and SES to estimate the difference in survival across different SES groups. We then forecast mortality across SES groups to assess how indexing retirement age will affect survival inequalities to retirement age, using two forecasting models—the Mode model and the Li-Lee model. Mortality inequalities are comparable in Denmark and Sweden, even though the latter generally has higher survival. We also find that indexing retirement age to life expectancy will have two main consequences: it will reduce the probability of reaching retirement for all SES groups, particularly those of low SES, and time spent in retirement will be reduced, particularly for those of high SES.",
+  "authors": [
+    {
+      "raw": "Strozza, Cosmo",
+      "family": "Strozza",
+      "given": "Cosmo"
+    },
+    {
+      "raw": "Bergeron-Boucher, Marie-Pier",
+      "family": "Bergeron-Boucher",
+      "given": "Marie-Pier"
+    },
+    {
+      "raw": "Callaway, Julia",
+      "family": "Callaway",
+      "given": "Julia"
+    },
+    {
+      "raw": "Drefahl, Sven",
+      "family": "Drefahl",
+      "given": "Sven"
+    }
+  ],
+  "authors_text": "Strozza, Cosmo; Bergeron-Boucher, Marie-Pier; Callaway, Julia; Drefahl, Sven",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-024-09704-8",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09704-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09704-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09704-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Berkeley Unified Numident Mortality Database: Public administrative records for individual-level mortality research",
+  "abstract": "BACKGROUND While much progress has been made in understanding the demographic determinants of mortality in the United States using individual survey data and aggregate tabulations, the lack of population-level register data is a barrier to further advances in mortality re-search. With the release of Social Security application (SS-5), claim, and death records, the National Archives and Records Administration (NARA) has created a new admin-istrative data resource for researchers studying mortality. We introduce the Berkeley Unified Numident Mortality Database (BUNMD), a cleaned and harmonized version of these records. This publicly available dataset provides researchers access to over 49 mil-lion individual-level mortality records with demographic covariates and fine geographic detail, allowing for high-resolution mortality research. OBJECTIVE The purpose of this paper is to describe the BUNMD, discuss statistical methods for esti-mating mortality differentials based on this deaths-only dataset, and provide case studies illustrating the high-resolution mortality research possible with the BUNMD. METHODS We provide detailed information on our procedure for constructing the BUNMD dataset from the most informative parts of the publicly available Social Security Numident appli-cation, claim, and death records. CONTRIBUTION The BUNMD is now publicly available, and we anticipate these data will facilitate new avenues of research into the determinants of mortality disparities in the United States.",
+  "authors": [
+    {
+      "raw": "Breen, Casey F.",
+      "family": "Breen",
+      "given": "Casey F."
+    },
+    {
+      "raw": "Goldstein, Joshua R.",
+      "family": "Goldstein",
+      "given": "Joshua R."
+    }
+  ],
+  "authors_text": "Breen, Casey F.; Goldstein, Joshua R.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.5",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

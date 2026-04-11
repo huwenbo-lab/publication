@@ -1,0 +1,40 @@
+{
+  "title": "Recent Mortality Trend Reversal in Russia: Are Regions Following the Same Tempo?",
+  "abstract": "After several decades of negative trends and short-term fluctuations, life expectancy has been increasing in Russia since 2004. Between 2003 and 2014, the length of life rose by 6.6 years among males and by 4.6 years among females. While positive trends in life expectancy are observed in all regions of Russia, these trends are unfolding differently in different regions. First, regions entered the phase of life expectancy growth at different points in time. Second, the age- and cause-specific components of the gains in life expectancy and the number of years added vary noticeably. In this paper, we apply decomposition techniques-specifically, the stepwise replacement algorithm-to examine the age- and cause-specific components of the changes in inter-regional disparities during the current period of health improvement. The absolute inter-regional disparities in length of life, measured by the population-weighted standard deviation, decreased slightly between 2003 and 2014, from 3.3 to 3.2 years for males, and from 2.0 to 1.8 years for females. The decomposition of these small changes by ages and causes of death shows that these shifts were the result of diverse effects of mortality convergence at young and middle ages, and of mortality divergence at older ages. With respect to causes of death, the convergence is mainly attributable to external causes, while the inter-regional divergence of trends is largely determined by cardiovascular diseases. The two major cities, Moscow and Saint Petersburg, are currently pioneering mortality improvements in Russia and are making the largest contributions to the inter-regional divergence.",
+  "authors": [
+    {
+      "raw": "Timonin, Sergey",
+      "family": "Timonin",
+      "given": "Sergey"
+    },
+    {
+      "raw": "Danilova, Inna",
+      "family": "Danilova",
+      "given": "Inna"
+    },
+    {
+      "raw": "Andreev, Evgeny",
+      "family": "Andreev",
+      "given": "Evgeny"
+    },
+    {
+      "raw": "Shkolnikov, Vladimir M.",
+      "family": "Shkolnikov",
+      "given": "Vladimir M."
+    }
+  ],
+  "authors_text": "Timonin, Sergey; Danilova, Inna; Andreev, Evgeny; Shkolnikov, Vladimir M.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2017,
+  "doi": "10.1007/s10680-017-9451-3",
+  "doi_url": "https://doi.org/10.1007/s10680-017-9451-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-017-9451-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-017-9451-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

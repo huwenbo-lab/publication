@@ -1,0 +1,40 @@
+{
+  "title": "Technology implementation within enterprises and job ending among employees. A study of the role of educational attainment, organizational tenure, age and unionization",
+  "abstract": "This study examines how technology implementation within workplaces impacts job ending among employees. We advance the literature on the labor market consequences of new technologies by focusing on their impact within workplaces where they are implemented, rather than inferring from aggregate labor structural changes. We also address how the impact of technology differs depending on workers education, organizational tenure and age. Using large-scale Dutch matched employer-employee panel data directly measuring technology implementation, we find that technology implementation is associated with an overall decrease in the probability of job ending. In line with the skill biased technological change hypothesis, higher educational attainment is associated with lower probabilities of job ending. Furthermore, we find older workers (around 50+) and workers with longer organizational tenure (around 12+ years) to have a higher probability of job ending when technology is implemented. Finally, we do not find the effects of technology implementation to differ depending on the union density of the industry in which an enterprise operates.",
+  "authors": [
+    {
+      "raw": "ten Berge, Jannes",
+      "family": "ten Berge",
+      "given": "Jannes"
+    },
+    {
+      "raw": "Lippenyi, Zoltan",
+      "family": "Lippenyi",
+      "given": "Zoltan"
+    },
+    {
+      "raw": "van der Lippe, Tanja",
+      "family": "van der Lippe",
+      "given": "Tanja"
+    },
+    {
+      "raw": "Goos, Maarten",
+      "family": "Goos",
+      "given": "Maarten"
+    }
+  ],
+  "authors_text": "ten Berge, Jannes; Lippenyi, Zoltan; van der Lippe, Tanja; Goos, Maarten",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100548",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100548",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100548",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100548.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

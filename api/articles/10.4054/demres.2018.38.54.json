@@ -1,0 +1,25 @@
+{
+  "title": "Non-zero trajectories for long-run net migration assumptions in global population projection models",
+  "abstract": "BACKGROUND Little attention is given to the role of migration in global population projection models. Most demographers set future levels of net migration on trajectories towards zero in all countries, nullifying the impact of migration on long-run projected populations. Yet as fertility and mortality rates fall, the role of migration on future population change is becoming more pronounced. OBJECTIVES In this paper we develop future long-run migration scenarios to provide a range of possible outcomes. METHODS Our alternative migration scenarios are linked to the Shared Socioeconomic Pathways (SSP), widely used in research on global environmental change. These are utilized as inputs for a global cohort component projection model to obtain population totals up until 2100 for all countries. CONTRIBUTION The results illustrate the important role of migration assumptions in long-run projections, especially in post-demographic-transition countries. Further, they provide plausible alternatives to projections based on the commonly used, but poorly justified, convergence towards a zero net migration assumption.",
+  "authors": [
+    {
+      "raw": "Abel, Guy J.",
+      "family": "Abel",
+      "given": "Guy J."
+    }
+  ],
+  "authors_text": "Abel, Guy J.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.54",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.54",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.54",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.54.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

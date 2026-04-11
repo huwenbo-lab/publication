@@ -1,0 +1,30 @@
+{
+  "title": "Do Test Score Gaps Grow before, during, or between the School Years? Measurement Artifacts and What We Can Know in Spite of Them",
+  "abstract": "Do test score gaps between advantaged and disadvantaged children originate inside or outside schools? One approach to this classic question is to ask (1) How large are gaps when children enter school? (2) How much do gaps grow later on? (3) Do gaps grow faster during school or during summer? Confusingly, past research has given discrepant answers to these basic questions. We show that many results about gap growth have been distorted by measurement artifacts. One artifact relates to scaling: Gaps appear to grow faster if measurement scales spread with age. Another artifact relates to changes in test form: Summer gap growth is hard to estimate if children take different tests in spring than in fall. Net of artifacts, the most replicable finding is that gaps form mainly in early childhood, before schooling begins. After school begins, most gaps grow little, and some gaps shrink. Evidence is inconsistent regarding whether gaps grow faster during school or during summer. We substantiate these conclusions using new data from the Growth Research Database and two data sets used in previous studies of gap growth: the Beginning School Study and the Early Childhood Longitudinal Study, Kindergarten Cohort of 1998–1999.",
+  "authors": [
+    {
+      "raw": "von Hippel, Paul",
+      "family": "von Hippel",
+      "given": "Paul"
+    },
+    {
+      "raw": "Hamrock, Caitlin",
+      "family": "Hamrock",
+      "given": "Caitlin"
+    }
+  ],
+  "authors_text": "von Hippel, Paul; Hamrock, Caitlin",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2019,
+  "doi": "10.15195/v6.a3",
+  "doi_url": "https://doi.org/10.15195/v6.a3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv6.a3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v6.a3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

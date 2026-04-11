@@ -1,0 +1,45 @@
+{
+  "title": "Formal Childcare Use and Mothers’ Fertility Intentions and Behaviours: Evidence in Italy by Migration Background",
+  "abstract": "Abstract Numerous studies have explored the influences of family policies, such as formal childcare use, and migration on fertility, with mixed findings. However, limited research has examined how formal childcare use (or the lack thereof) affects both fertility intentions and behaviours among native and migrant women. This study uses Italy as a case study, where the familistic welfare system creates challenges in work–family reconciliation and female workforce participation, particularly for migrant women facing precarious jobs and higher fertility. This results in employment disparities between migrant and native women, especially among mothers. Using the 2012 Birth Sample Survey from the Italian National Institute of Statistics, we address two research questions: (i) Does formal childcare use for one child positively influence mothers' fertility intentions and behaviours to have another? (ii) Does this effect vary according to migration background? We apply multinomial logistic regression models to analyse the relationship between mothers' fertility intentions and behaviours and childcare use by migration background, migratory generation, and partner's nationality. Our results show that mothers using formal childcare—either stable or occasional—are more likely to have positive fertility behaviours than those with unmet needs, with differences by migration background. Among mothers using formal care, natives show higher positive short-term fertility intentions than migrants, while natives with unmet childcare needs are less likely to have another child than migrants. While formal childcare has limited effect on fertility, unmet childcare needs emerge as a crucial factor, highlighting the need for policies addressing broader socio-economic and cultural factors shaping fertility decisions.",
+  "authors": [
+    {
+      "raw": "Miaci, Eleonora",
+      "family": "Miaci",
+      "given": "Eleonora"
+    },
+    {
+      "raw": "Mussino, Eleonora",
+      "family": "Mussino",
+      "given": "Eleonora"
+    },
+    {
+      "raw": "Trappolini, Eleonora",
+      "family": "Trappolini",
+      "given": "Eleonora"
+    },
+    {
+      "raw": "Alderotti, Giammarco",
+      "family": "Alderotti",
+      "given": "Giammarco"
+    },
+    {
+      "raw": "Giudici, Cristina",
+      "family": "Giudici",
+      "given": "Cristina"
+    }
+  ],
+  "authors_text": "Miaci, Eleonora; Mussino, Eleonora; Trappolini, Eleonora; Alderotti, Giammarco; Giudici, Cristina",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09746-6",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09746-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09746-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09746-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

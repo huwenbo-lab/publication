@@ -1,0 +1,30 @@
+{
+  "title": "Male–Female Fertility Differentials Across 17 High-Income Countries: Insights From A New Data Resource",
+  "abstract": "AbstractObtaining cross-country comparative perspectives on male fertility has long been difficult, as male fertility is usually less well registered than female fertility. Recent methodological advancements in imputing missing paternal ages at childbirth enable us to provide a new database on male fertility. This new resource covers more than 330 million live births and is based on a consistent and well-tested set of methods. These methods allow us to handle missing information on the paternal age, which is missing for roughly 10% of births. The data resource is made available in the Human Fertility Collection and allows for the first time a comparative perspective on male fertility in high-income countries using high-quality birth register data. We analyze trends in male–female fertility quantum and tempo differentials across 17 high-income countries, dating as back as far as the late 1960s for some countries, and with data available for the majority of countries from the 1980s onward. Using descriptive and counterfactual analysis methods, we find substantial variation both across countries and over time. Related to the quantum we demonstrate that disparities between male and female period fertility rates are driven to a large degree by the interplay of parental age and cohort size differences. For parental age differences at childbirth, we observe a development toward smaller disparities, except in Eastern Europe. This observation fits with expectations based on gender theories. However, variation across countries also seems to be driven by factors other than gender equality.",
+  "authors": [
+    {
+      "raw": "Dudel, Christian",
+      "family": "Dudel",
+      "given": "Christian"
+    },
+    {
+      "raw": "Klüsener, Sebastian",
+      "family": "Klüsener",
+      "given": "Sebastian"
+    }
+  ],
+  "authors_text": "Dudel, Christian; Klüsener, Sebastian",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2021,
+  "doi": "10.1007/s10680-020-09575-9",
+  "doi_url": "https://doi.org/10.1007/s10680-020-09575-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-020-09575-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-020-09575-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

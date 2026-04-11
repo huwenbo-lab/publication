@@ -1,0 +1,40 @@
+{
+  "title": "Every Month Like Clockwork? Patterns and Prevalence of Serial Eviction Filing among Landlords",
+  "abstract": "In this study, the authors draw on a unique dataset of eviction filings in Washington, D.C., over a six-year period, merged with building ownership data from the District of Columbia Office of Tax and Revenue, to better understand patterns of serial filing, a practice whereby landlords file for eviction on a single household in a single unit multiple times. The authors create an empirical typology of serial filing chains to categorize the patterns observed in the dataset. They then test a series of hypotheses about the relationship between landlord portfolio size and serial filings. Households that are filed against in buildings owned by larger landlords are substantially more likely to experience serial eviction filing, and longer serial filing chains, relative to households living in buildings owned by smaller landlords. These results offer the first empirical evidence documenting multiple patterns of serial eviction filing and underscore how landlord filing strategies differ by portfolio size.",
+  "authors": [
+    {
+      "raw": "Watson, Henry",
+      "family": "Watson",
+      "given": "Henry"
+    },
+    {
+      "raw": "Garboden, Philip M. E.",
+      "family": "Garboden",
+      "given": "Philip M. E."
+    },
+    {
+      "raw": "McCabe, Brian J.",
+      "family": "McCabe",
+      "given": "Brian J."
+    },
+    {
+      "raw": "Rosen, Eva",
+      "family": "Rosen",
+      "given": "Eva"
+    }
+  ],
+  "authors_text": "Watson, Henry; Garboden, Philip M. E.; McCabe, Brian J.; Rosen, Eva",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231196274",
+  "doi_url": "https://doi.org/10.1177/23780231231196274",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231196274",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231196274.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

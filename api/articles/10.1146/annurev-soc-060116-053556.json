@@ -1,0 +1,30 @@
+{
+  "title": "Network Sampling: From Snowball and Multiplicity to Respondent-Driven Sampling",
+  "abstract": "Network sampling emerged as a set of methods for drawing statistically valid samples of hard-to-reach populations. The first form of network sampling, multiplicity sampling, involved asking respondents about events affecting those in their personal networks; it was subsequently applied to studies of homicide, HIV, and other topics, but its usefulness is limited to public events. Link-tracing designs employ a different approach to study hard-to-reach populations, using a set of respondents that expands in waves as each round of respondents recruit their peers. Link-tracing as applied to hidden populations, often described as snowball sampling, was initially considered a form of convenience sampling. This changed with the development of respondent-driven sampling (RDS), a widely used network sampling method in which the link-tracing design is adapted to provide the basis for statistical inference. The literature on RDS is large and rapidly expanding, involving contributions by numerous independent research groups employing data from dozens of different countries. Within this literature, many important research questions remain unresolved, including how best to choose among alternative RDS estimators, how to refine existing estimators to make them less dependent on assumptions that are sometimes counterfactual, and perhaps the greatest unresolved issue, how best to calculate the variability of the estimates.",
+  "authors": [
+    {
+      "raw": "Heckathorn, Douglas D.",
+      "family": "Heckathorn",
+      "given": "Douglas D."
+    },
+    {
+      "raw": "Cameron, Christopher J.",
+      "family": "Cameron",
+      "given": "Christopher J."
+    }
+  ],
+  "authors_text": "Heckathorn, Douglas D.; Cameron, Christopher J.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2017,
+  "doi": "10.1146/annurev-soc-060116-053556",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-060116-053556",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-060116-053556",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-060116-053556.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

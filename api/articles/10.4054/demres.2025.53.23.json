@@ -1,0 +1,35 @@
+{
+  "title": "The role of parenthood and gender in shaping circulation patterns of Ukrainian migration to Poland",
+  "abstract": "BACKGROUND Research on the interrelation of migration and family trajectories focuses on the familial events of long-term migrants in the destination country. For circular mobility the pattern is more complex, involving a series of migratory and familial decisions. OBJECTIVE The article evaluates the impact of the family situation and familial events on circular migration patterns, focusing on parenthood and gender. METHODS The article uses data from a 2019 survey of Ukrainian migrants to Poland (Warsaw) (N = 1314), and a similar 2015 survey (N = 642) to conduct robustness checks. The analytical strategy involves multistate discrete unobserved heterogeneity models, assessing the intensity of transitions from Poland to Ukraine and vice versa. RESULTS The family situation at the start of migration impacts the circulation patterns of women, while for men the obtained results are less obvious. Partnered mothers stay for shorter times in Poland and longer periods in Ukraine than partnered childless females, single mothers, and singles. Childbirth and marriage during the stay prolong the stay in both countries. CONCLUSIONS Familial and migratory trajectories are interlinked in circular migration, especially for female migrants, providing transnational livelihoods. These interrelations can be interpreted within a framework that combines the role of capital accumulation (savings) during migration and the different separation costs for women and men. CONTRIBUTION The study goes beyond the approach of studying long-term migrants in the destination country. It turns its attention to the sending country context in order to understand the interrelations between familial and migratory events and the respective differences between men and women.",
+  "authors": [
+    {
+      "raw": "Gorny, Agata",
+      "family": "Gorny",
+      "given": "Agata"
+    },
+    {
+      "raw": "Bijwaard, Govert",
+      "family": "Bijwaard",
+      "given": "Govert"
+    },
+    {
+      "raw": "Grabowska, Magdalena",
+      "family": "Grabowska",
+      "given": "Magdalena"
+    }
+  ],
+  "authors_text": "Gorny, Agata; Bijwaard, Govert; Grabowska, Magdalena",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.23",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

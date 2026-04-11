@@ -1,0 +1,30 @@
+{
+  "title": "An Investigation of Racial and Ethnic Disparities in Birth Weight in Chicago Neighborhoods",
+  "abstract": "We examine differences in the mean birth weights of infants born to non-Hispanic black, non-Hispanic white, and Mexican-origin Hispanic mothers (of any race) in Chicago in 1990 using linear regression models with neighborhood fixed effects. Our pooled models accounted for 64% of the black-white difference and 57% of the black/Mexican-origin Hispanic difference. Differences in the relationship between measured characteristics and birth weight accounted for around half the birth-weight gap between non-Hispanic black and other infants. Efforts to close this gap must go beyond programs that aim to reduce the level of risk factors among black women to address the causes of differences in the effects of risk factors.",
+  "authors": [
+    {
+      "raw": "Sastry, Narayan",
+      "family": "Sastry",
+      "given": "Narayan"
+    },
+    {
+      "raw": "Hussey, Jon M.",
+      "family": "Hussey",
+      "given": "Jon M."
+    }
+  ],
+  "authors_text": "Sastry, Narayan; Hussey, Jon M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.2307/1515204",
+  "doi_url": "https://doi.org/10.2307/1515204",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F1515204",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/1515204.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

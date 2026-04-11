@@ -1,0 +1,30 @@
+{
+  "title": "Unemployment in Families: The Case of Housework",
+  "abstract": "Unemployment has consequences for individuals, but its impacts also reverberate through families. This paper examines how families adapt to unemployment in one area of life-time in housework. Using 74,881 observations from 10,390 couples in the Panel Study of Income Dynamics, we estimate fixed effects models and find that individuals spend between 3 and 7 hours more per week in housework when unemployed than when employed, with corresponding decreases of 1 to 2 hours per week in the housework hours of unemployed individuals' spouses. We are the first to show that unemployment is associated both with a reallocation of housework to the unemployed spouse and an increase in the family's total household production time. The results also provide evidence for gender differences in adjustments to the division of labor during unemployment, with wives' unemployment associated with an increase in housework hours that is double the increase for unemployed husbands.",
+  "authors": [
+    {
+      "raw": "Gough, Margaret",
+      "family": "Gough",
+      "given": "Margaret"
+    },
+    {
+      "raw": "Killewald, Alexandra",
+      "family": "Killewald",
+      "given": "Alexandra"
+    }
+  ],
+  "authors_text": "Gough, Margaret; Killewald, Alexandra",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2011,
+  "doi": "10.1111/j.1741-3737.2011.00867.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2011.00867.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2011.00867.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2011.00867.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

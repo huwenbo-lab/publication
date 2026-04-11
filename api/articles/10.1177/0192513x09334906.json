@@ -1,0 +1,25 @@
+{
+  "title": "Sibling Relationships and Adolescents' Mental Health",
+  "abstract": "Although sibling structure influences some aspects of adolescents' well-being, including deviance and educational achievement, little research has explored the association between sibling structure and adolescents' mental health. This study explores how sibling structure (the number of siblings, full versus step- or half-siblings, the relative age of siblings, and the gender composition of siblings) influences adolescents' mental health and whether sibling relationship quality mediates or interacts with sibling structure. Using data from the 1995 National Longitudinal Study of Adolescent Health, the author performs multilevel modeling to control for siblings' sharing a joint family context. Results indicate that sibling structure has few associations with mental health and sibling relationship quality generally does not mediate (or suppress) these associations. However, sibling structure moderates the association between sibling relationship quality and adolescents' mental health. Thus, sibling structure and relationship quality appear to be interconnected in their influence on adolescents' mental health.",
+  "authors": [
+    {
+      "raw": "Vogt Yuan, Anastasia S.",
+      "family": "Vogt Yuan",
+      "given": "Anastasia S."
+    }
+  ],
+  "authors_text": "Vogt Yuan, Anastasia S.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2009,
+  "doi": "10.1177/0192513x09334906",
+  "doi_url": "https://doi.org/10.1177/0192513x09334906",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x09334906",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x09334906.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

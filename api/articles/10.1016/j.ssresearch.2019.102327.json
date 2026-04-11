@@ -1,0 +1,25 @@
+{
+  "title": "A time-sensitive analysis of the work-crime relationship for young men",
+  "abstract": "Theories of the work-crime relationship suggest that employment reduces crime by offering routines, income, and supervision. However, selection into and out of jobs could also explain the negative association between work and crime: people may start working when they are already offending less and stop working when they are already offending more. To evaluate these possibilities, I model month-to-month, within-person changes in offending during the periods surrounding job transitions. Using data from the Pathways to Desistance study, I analyze a sample of young, justice-involved men in two U.S. cities, Phoenix and Philadelphia. I find large reductions in income-related offending during the months leading up to job entry, after which there is no further decrease. I also find that offending spikes before job exit. These patterns suggest that for these young men, being employed does not reduce crime. Rather, employment transitions occur in response to other changes in their lives.",
+  "authors": [
+    {
+      "raw": "Lee, Angela Wang",
+      "family": "Lee",
+      "given": "Angela Wang"
+    }
+  ],
+  "authors_text": "Lee, Angela Wang",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.102327",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102327",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102327",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102327.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

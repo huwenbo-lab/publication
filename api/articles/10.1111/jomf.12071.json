@@ -1,0 +1,30 @@
+{
+  "title": "Maternal Attachment, Paternal Overnight Contact, and Very Young Children's Adjustment: Comment on Tornello et al. (2013)",
+  "abstract": "We are compelled to respond to Tornello et al. (2013) because of concerns about measures and theory and because some findings of their study were misleadingly presented. Their results, as described in the abstract and DISCUSSION section, were reported in news media aimed at the general public in the United States (Divorce Study, 2013; Hallas, 2013; HealthDay News, 2013b) and overseas (Asian News International, 2013; Furness, 2013), physicians (HealthDay News, 2013a; Scutti, 2013), and psychologists (British Psychological Society, 2013; Wood, 2013), making these inaccuracies more serious in their impact.We critique the measure used for attachment in Tornello et al.'s study, the results of the investigation with respect to attachment and adjustment, and the authors' argument about a burden of proof. Finally, we summarize our concerns with this highly publicized yet problematic article.MEASURE OF ATTACHMENTTornello et al.'s study introduced a new, neverbefore- used measure for attachment: the Toddler Attachment Q-Sort (TAQS). The authors did validation for this new measure in comparison to the measure from which it was derived (the Attachment Q-Set [AQS; Waters, 1995]). The TAQS is derived from maternal self-reports rather than from an independent assessor. No published analysis of the validity of this measure is presented, although an abstract of a poster presentation (Howard, Brooks-Gunn, & Lubke, 2008) is cited as evidence that the distribution of the TAQS resembles that of the AQS. Hence, we have little reason to believe that the measure of one of the key concepts in this study, attachment, is valid or reliable: The authors built their evidence using shaky materials. They list this as a limitation of their study, but only after making strong claims for their evidence.The measure of attachment used here (i.e., the TAQS) is gender specific; that is, it measures only attachment to mothers, despite previous research that attachment to fathers is important and is related to maternal attachment (van IJzendoorn & Wolff, 1997). Thus, the measure prevents the understanding of how parenting arrangements affect the attachment to fathers and mothers. This deficiency cannot be attributed to Tornello et al., because this appears to have been designed into the Fragile Families survey (QSORT ReleaseMemo, n.d.; Reichman, Teitler, Garfinkel, & McLanahan, 2001), but the authors fail to note this anomaly in the survey and sometimes cloud the gendered nature of their results by referring to parents (p. 882) when their study is confined to nonresident fathers.ATTACHMENT RESULTSThe hypothesis for Tornello et al.'s study was that very young children who had frequent overnights with their fathers would have more insecure attachments with their mothers (p. 874). The authors first tested this hypothesis with a bivariate analysis but with part of the main variable of interest removed; that is, they chose to exclude the category of no in their results, presenting only categories with visits in their comparative analysis. Because of this, we cannot tell whether the children were more secure with visits or without visits (see Table 3 of Tornello et al.). The stated reason for this is: Theory and research tend to focus on the difference in attachment security of young children who experience frequent overnights versus less frequent overnights or day contact (p. 878). Yet earlier the authors complained about the paucity of research on this topic, finding only three extant articles. If Tornello et al. were keen to show the effects of visits, then why would they not illustrate the benefits of visits by showing this category? Moreover, this category is excluded in the regression shown in their Table 5 (predicting attachment insecurity). So, a partial variable is in the bivariate analysis, but the complete variable is in the univariate analysis.The omission of the attachment values from Table 4 is especially strange, given the stated hypothesis/research question, and does not allow us to compare the bivariate relationship with the multivariate relationship in Table 5. …",
+  "authors": [
+    {
+      "raw": "Millar, Paul",
+      "family": "Millar",
+      "given": "Paul"
+    },
+    {
+      "raw": "Kruk, Edward",
+      "family": "Kruk",
+      "given": "Edward"
+    }
+  ],
+  "authors_text": "Millar, Paul; Kruk, Edward",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2014,
+  "doi": "10.1111/jomf.12071",
+  "doi_url": "https://doi.org/10.1111/jomf.12071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

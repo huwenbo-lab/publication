@@ -1,0 +1,30 @@
+{
+  "title": "A new family equilibrium? Changing dynamics between the gender division of labor and fertility in Great Britain, 1991-2017",
+  "abstract": "BACKGROUND There has recently been a heated debate about the relationship between gender equality and fertility. The macro-level relationship between female labor force participation and fertility has changed from negative to positive. At the micro level, a traditional gender role setting between spouses is still largely considered to be conducive to fertility. OBJECTIVE How has the relationship between the couple-level gender division of labor and fertility changed over the last 26 years in Great Britain? METHODS Data is from the harmonized Understanding Society and the British Household Panel Study. We first identify different levels of traditionalism in the division of labor by using latent class analysis. We then employ couple-level fixed-effect logistic regressions to analyze the reciprocal relationship between the gender division of labor and fertility. RESULTS From 1991 to 2017, the positive, reciprocal association between the traditional division of labor and fertility has been significantly weakening over time. Couples are less likely to adopt the male-breadwinner model when they have more children, and couples who adopt the male-breadwinner model are no longer more likely to have a new child from 2009 onward. CONTRIBUTION We take both spouses' market work and domestic work and their combinations into account to measure the gender division of labor. This measurement and the use of fixed-effect regressions enable a comprehensive and rigorous evaluation of the micro-level relationship between the division of labor and fertility. The time-varying association between the gendered division of labor and fertility provides important evidence of a changing family equilibrium in Britain. Egalitarian gender roles within a family are no longer a barrier to fertility.",
+  "authors": [
+    {
+      "raw": "Zhou, Muzhi",
+      "family": "Zhou",
+      "given": "Muzhi"
+    },
+    {
+      "raw": "Kan, Man-Yee",
+      "family": "Kan",
+      "given": "Man-Yee"
+    }
+  ],
+  "authors_text": "Zhou, Muzhi; Kan, Man-Yee",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.50",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.50",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.50",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.50.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

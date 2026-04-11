@@ -1,0 +1,30 @@
+{
+  "title": "Macroeconomic conditions and population health in Iceland",
+  "abstract": "BACKGROUND Results from recent research on the impact of economic cycles and population health have been mixed, with results appearing to be context-sensitive. OBJECTIVE We examine the long-term relationship between economic conditions and population health in Iceland, which has experienced some economically turbulent times in the last years and decades. METHODS We use aggregate annual data for 1981-2014. We use three aggregate indicators of economic activity to proxy the economic cycle: unemployment rate, real GDP per capita, and real GDP. Life expectancy at birth, infant mortality, and total mortality as well as four cause-specific mortality rates were used as outcome measures. RESULTS Our results do not suggest a statistically significant relationship between economic conditions and total mortality, infant mortality, or life expectancy. Different responses between causes of death are found, and in some instances between genders, although statistical significance is low. We do, however, find a consistent and statistically significant relationship for females aged 45-64, where economic downturns are associated with lower all-cause mortality. CONCLUSIONS For the time period studied we do not find a significant relationship between economic cycles and population health, where health is proxied by mortality rates, life expectancy at birth, and infant mortality. Further studies using less extreme health outcomes, such as morbidity rates, are warranted.",
+  "authors": [
+    {
+      "raw": "Birgisdottir, Kristin Helga",
+      "family": "Birgisdottir",
+      "given": "Kristin Helga"
+    },
+    {
+      "raw": "Asgeirsdottir, Tinna Laufey",
+      "family": "Asgeirsdottir",
+      "given": "Tinna Laufey"
+    }
+  ],
+  "authors_text": "Birgisdottir, Kristin Helga; Asgeirsdottir, Tinna Laufey",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.25",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

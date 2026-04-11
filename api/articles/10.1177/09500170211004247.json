@@ -1,0 +1,35 @@
+{
+  "title": "Women’s Attrition from Male-Dominated Workplaces in Norway: The Importance of Numerical Minority Status, Motherhood and Class",
+  "abstract": "This study explores women’s attrition from male-dominated workplaces based on Norwegian public administrative records, covering individuals born 1945–1983, in the period between 2003 and 2013. It examines sex differences in rates of attrition and tests the significance of two commonly proposed explanations in the literature, namely the degree of numerical minority status and motherhood. It also investigates whether these explanations vary by occupational class. Selection into male-dominated workplaces is accounted for by using individual fixed effects models. The results show that attrition rates from male-dominated workplaces are considerably higher among women than among men. Moreover, the risk of female attrition to sex-balanced workplaces increases, regardless of occupational class, with increases in the percentage of males. Childbirth is associated with an increased risk of attrition to female-dominated workplaces, while having young children (⩽ 10 years old) lowered the risk. This association, however, was primarily evident among working-class women in manual occupations.",
+  "authors": [
+    {
+      "raw": "Madsen, Aleksander Å",
+      "family": "Madsen",
+      "given": "Aleksander Å"
+    },
+    {
+      "raw": "Brekke, Idunn",
+      "family": "Brekke",
+      "given": "Idunn"
+    },
+    {
+      "raw": "Fekjær, Silje Bringsrud",
+      "family": "Fekjær",
+      "given": "Silje Bringsrud"
+    }
+  ],
+  "authors_text": "Madsen, Aleksander Å; Brekke, Idunn; Fekjær, Silje Bringsrud",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2021,
+  "doi": "10.1177/09500170211004247",
+  "doi_url": "https://doi.org/10.1177/09500170211004247",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170211004247",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170211004247.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Are States Created Equal? Moving to a State With More Expensive Childcare Reduces Mothers' Odds of Employment",
+  "abstract": "Married mothers who relocate are less likely to be employed after an interstate move than married childless women and nonmobile mothers. Here, we ask whether moving to a state with more expensive childcare is associated with lower odds of maternal employment among mothers who had been employed prior to relocation. We use hierarchical binomial logistic regression models, combining data from the 2015 American Community Survey five-year sample and state-level childcare costs to assess married mothers' employment following an interstate move, controlling for states' economic conditions. We show that employment odds for married mothers were about 42% lower than those for childless married women in the year following a move. Married mothers who moved to more expensive childcare states had odds of employment that were 18% lower than those of married mothers who moved to less expensive childcare states, showing that childcare accessibility shapes mothers' employment decisions even among those with stronger labor force attachment. Moving back to respondents' or their spouses' state of birth and moving to states with more favorable economic conditions improved odds of employment as well. Overall, we show that moving to states with fewer childcare barriers is associated with higher levels of maternal employment, partly mitigating the negative labor market effects of interstate migration.",
+  "authors": [
+    {
+      "raw": "Landivar, Liana Christin",
+      "family": "Landivar",
+      "given": "Liana Christin"
+    },
+    {
+      "raw": "Ruppanner, Leah",
+      "family": "Ruppanner",
+      "given": "Leah"
+    },
+    {
+      "raw": "Scarborough, William J.",
+      "family": "Scarborough",
+      "given": "William J."
+    }
+  ],
+  "authors_text": "Landivar, Liana Christin; Ruppanner, Leah; Scarborough, William J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8997420",
+  "doi_url": "https://doi.org/10.1215/00703370-8997420",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8997420",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8997420.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

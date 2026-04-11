@@ -1,0 +1,30 @@
+{
+  "title": "Parenthood and Subjective Financial Well-Being: Reconsidering the Economic Consequences of Parenthood",
+  "abstract": "ObjectiveWe aim to examine how experiences of parenthood influence subjective financial well-being, particularly in the context of rising economic uncertainties and the pressures of intensive parenting norms.BackgroundDespite the widely recognized negative effects of financial pressure on subjective well-being, limited research explores the connection between parenthood and subjective financial circumstances.MethodThis study uses longitudinal data from 19,258 respondents in the United Kingdom with 118,664 person-year records and fixed effects (FE) models and fixed effects models with individual constants and individual slopes (FEIS) to examine the impacts of parenthood on subjective financial well-being among couples.ResultsParenthood significantly reduces subjective financial well-being, with women experiencing a more pronounced decline than men. This gender difference is primarily due to greater changes in women's engagement in the labor market. The negative impact of parenthood on subjective financial well-being is especially pronounced for couples with more than one child, for mothers with very young children, or couples with teenagers, and when women hold more egalitarian views on gender ideology.ConclusionThis study reveals the dynamics of subjective financial well-being during the family formation process. The findings highlight the need for more policies to minimize employment disruptions for new parents and provide financial support for families with teenagers or older children.",
+  "authors": [
+    {
+      "raw": "Zhou, Muzhi",
+      "family": "Zhou",
+      "given": "Muzhi"
+    },
+    {
+      "raw": "Wang, Senhu",
+      "family": "Wang",
+      "given": "Senhu"
+    }
+  ],
+  "authors_text": "Zhou, Muzhi; Wang, Senhu",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70015",
+  "doi_url": "https://doi.org/10.1111/jomf.70015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

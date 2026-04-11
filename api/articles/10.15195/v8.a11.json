@@ -1,0 +1,35 @@
+{
+  "title": "Competitive Exclusion versus Mimetic Isomorphism: An Identified Empirical Test",
+  "abstract": "Why are organizations sometimes so similar, and in other cases so different? For decades this question has been central to research on organizations, and two leading theories have answered the question very differently. Neo-institutional theory points to the importance of mimetic isomorphism, where organizations imitate one another as they navigate decisions in the context of uncertainty over what is regarded as legitimate action. By contrast, ecological theory argues that competitive exclusion explains the differences we see around us, as organizations repel one another when they vie for the same resources. Decades of empirical work have tended to confirm one or the other prediction, with little acknowledgement of their opposition. Furthermore, much of the existing empirical work is limited to descriptive studies that make little or no attempt to empirically identify their findings, leaving the empirical record open to concerns over endogeneity. This article conducts an identified empirical test in a context where the two arguments make opposing predictions. In an analysis of auditor selection after the collapse of Arthur Andersen, we find evidence of competitive exclusion but no evidence of mimetic isomorphism. Implications for the continued progress of organization theory are discussed.",
+  "authors": [
+    {
+      "raw": "Barnett, William",
+      "family": "Barnett",
+      "given": "William"
+    },
+    {
+      "raw": "Xiao, Xiao",
+      "family": "Xiao",
+      "given": "Xiao"
+    },
+    {
+      "raw": "Zhou, Yi",
+      "family": "Zhou",
+      "given": "Yi"
+    }
+  ],
+  "authors_text": "Barnett, William; Xiao, Xiao; Zhou, Yi",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2021,
+  "doi": "10.15195/v8.a11",
+  "doi_url": "https://doi.org/10.15195/v8.a11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv8.a11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v8.a11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

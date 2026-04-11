@@ -1,0 +1,50 @@
+{
+  "title": "Beyond the Census Tract: Patterns and Determinants of Racial Segregation at Multiple Geographic Scales",
+  "abstract": "The census tract-based residential segregation literature rests on problematic assumptions about geographic scale and proximity. We pursue a new tract-free approach that combines explicitly spatial concepts and methods to examine racial segregation across egocentric local environments of varying size. Using 2000 Census data for the 100 largest US. metropolitan areas, we compute a spatially modified version of the information theory index H to describe patterns of Black-White, Hispanic-White, Asian-White, and multigroup segregation at different scales. We identify the metropolitan structural characteristics that best distinguish micro-segregation from macro-segregation for each group combination, and we decompose their effects into portions due to racial variation occurring over short and long distances. A comparison of our results with those from tract-based analyses confirms the value of the new approach.",
+  "authors": [
+    {
+      "raw": "Lee, Barrett A.",
+      "family": "Lee",
+      "given": "Barrett A."
+    },
+    {
+      "raw": "Reardon, Sean F.",
+      "family": "Reardon",
+      "given": "Sean F."
+    },
+    {
+      "raw": "Firebaugh, Glenn",
+      "family": "Firebaugh",
+      "given": "Glenn"
+    },
+    {
+      "raw": "Farrell, Chad R.",
+      "family": "Farrell",
+      "given": "Chad R."
+    },
+    {
+      "raw": "Matthews, Stephen A.",
+      "family": "Matthews",
+      "given": "Stephen A."
+    },
+    {
+      "raw": "O'Sullivan, David",
+      "family": "O'Sullivan",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Lee, Barrett A.; Reardon, Sean F.; Firebaugh, Glenn; Farrell, Chad R.; Matthews, Stephen A.; O'Sullivan, David",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1177/000312240807300504",
+  "doi_url": "https://doi.org/10.1177/000312240807300504",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240807300504",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240807300504.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

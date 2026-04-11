@@ -1,0 +1,50 @@
+{
+  "title": "Division of Childcare Leave among Parents of Children with a Serious Illness",
+  "abstract": "Balancing work and family may be particularly challenging for parents of seriously ill children. This Swedish registry-based study, including 2,788 parents of children with cancer and a matched reference cohort of 27,110 parents, used regression models to analyze the division of childcare, measured as use of temporary parental leave (TPL), and how it relates to income division within couples and change in income over time. The results show that the number of days on TPL increased significantly following a child's cancer diagnosis, particularly among mothers. Fathers' share of the couple's total income was not found to be a strong predictor of the division of TPL, and no association was found between TPL and income development. The study highlights the considerable time needed to care for a seriously ill child, unevenly distributed between mothers and fathers, and suggests that factors other than economic resources may influence the division of childcare responsibility.",
+  "authors": [
+    {
+      "raw": "Hjelmstedt, Sofia",
+      "family": "Hjelmstedt",
+      "given": "Sofia"
+    },
+    {
+      "raw": "Montgomery, Scott",
+      "family": "Montgomery",
+      "given": "Scott"
+    },
+    {
+      "raw": "Nybergh, Lotta",
+      "family": "Nybergh",
+      "given": "Lotta"
+    },
+    {
+      "raw": "Myrberg, Ida Hed",
+      "family": "Myrberg",
+      "given": "Ida Hed"
+    },
+    {
+      "raw": "Norberg, Annika Lindahl",
+      "family": "Norberg",
+      "given": "Annika Lindahl"
+    },
+    {
+      "raw": "Hoven, Emma",
+      "family": "Hoven",
+      "given": "Emma"
+    }
+  ],
+  "authors_text": "Hjelmstedt, Sofia; Montgomery, Scott; Nybergh, Lotta; Myrberg, Ida Hed; Norberg, Annika Lindahl; Hoven, Emma",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2021,
+  "doi": "10.1177/0192513x20940748",
+  "doi_url": "https://doi.org/10.1177/0192513x20940748",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x20940748",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x20940748.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

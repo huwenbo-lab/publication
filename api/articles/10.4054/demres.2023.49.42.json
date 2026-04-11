@@ -1,0 +1,35 @@
+{
+  "title": "Bayesian implementation of Rogers-Castro model migration schedules: An alternative technique for parameter estimation",
+  "abstract": "BACKGROUNDThe Rogers-Castro model migration schedule is a key model for migration trends over the life course. It is applied in a wide variety of settings by demographers to examine the relationship between age and migration intensity. This model is nonlinear and can have up to 13 parameters, which can make estimation difficult. Existing techniques for parameter estimation can lead to issues such as nonconvergence, sensitivity to initial values, or optimization algorithms that do not reach the global optimum.OBJECTIVEWe propose a new method of estimating Rogers-Castro model migration schedule parameters that overcomes most common difficulties.METHODSWe apply a Bayesian framework for fitting the Rogers-Castro model. We also provide the R package rcbayes with functions to easily apply our proposed methodology.RESULTSWe illustrate how this model and the R package can be used in a variety of settings by applying the model to data from the American Community Survey.CONTRIBUTIONWe provide a novel and easy-to-use approach for estimating Rogers-Castro model parameters. Our approach is formalized in an R package that makes parameter estimation and Bayesian methods more accessible for demographers and other researchers.",
+  "authors": [
+    {
+      "raw": "Yeung, Jessie",
+      "family": "Yeung",
+      "given": "Jessie"
+    },
+    {
+      "raw": "Alexander, Monica",
+      "family": "Alexander",
+      "given": "Monica"
+    },
+    {
+      "raw": "Riffe, Tim",
+      "family": "Riffe",
+      "given": "Tim"
+    }
+  ],
+  "authors_text": "Yeung, Jessie; Alexander, Monica; Riffe, Tim",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.42",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.42",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.42",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.42.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

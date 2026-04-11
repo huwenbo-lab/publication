@@ -1,0 +1,25 @@
+{
+  "title": "Duration and Timing of Exposure to Neighborhood Poverty and the Risk of Adolescent Parenthood",
+  "abstract": "Abstract Theory suggests that the impact of neighborhood poverty depends on both the duration and timing of exposure. Previous research, however, has not properly analyzed the sequence of neighborhoods to which children are exposed throughout the early life course. This study investigates the effects of different longitudinal patterns of exposure to disadvantaged neighborhoods on the risk of adolescent parenthood. It follows a cohort of children in the PSID from age 4 to 19 and uses novel methods for time-varying exposures that overcome critical limitations of conventional regression when selection processes are dynamic. Results indicate that sustained exposure to poor neighborhoods substantially increases the risk of becoming a teen parent and that exposure to neighborhood poverty during adolescence may be more consequential than exposure earlier during childhood.",
+  "authors": [
+    {
+      "raw": "Wodtke, Geoffrey T.",
+      "family": "Wodtke",
+      "given": "Geoffrey T."
+    }
+  ],
+  "authors_text": "Wodtke, Geoffrey T.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0219-z",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0219-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0219-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0219-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

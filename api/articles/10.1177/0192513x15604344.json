@@ -1,0 +1,40 @@
+{
+  "title": "Differences in Relationship Stability Between Individuals in First and Second Marriages",
+  "abstract": "Compared to first marriages, remarriages have consistently demonstrated higher rates of divorce. Theories used to explain this phenomenon include the family process and selection perspectives. Researchers have attempted to address selection bias in this area but have not yet employed propensity score analysis to bolster causal inference. The purpose of this study is to assess the efficacy of covariate control methods for handling selection bias compared to propensity score methods and to examine whether a direct causal link between marriage order and relationship stability can be inferred after using propensity score greedy matching and propensity score weighting procedures. We analyze a sample of 1,679 first married and 410 remarried individuals drawn from the Relationship Evaluation Survey. Results provide support for the selection perspective and suggest that a direct causal link between marriage order and relationship stability should not be inferred. Implications, limitations, and future directions for research are discussed.",
+  "authors": [
+    {
+      "raw": "Jensen, Todd M.",
+      "family": "Jensen",
+      "given": "Todd M."
+    },
+    {
+      "raw": "Shafer, Kevin",
+      "family": "Shafer",
+      "given": "Kevin"
+    },
+    {
+      "raw": "Guo, Shenyang",
+      "family": "Guo",
+      "given": "Shenyang"
+    },
+    {
+      "raw": "Larson, Jeffry H.",
+      "family": "Larson",
+      "given": "Jeffry H."
+    }
+  ],
+  "authors_text": "Jensen, Todd M.; Shafer, Kevin; Guo, Shenyang; Larson, Jeffry H.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2016,
+  "doi": "10.1177/0192513x15604344",
+  "doi_url": "https://doi.org/10.1177/0192513x15604344",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x15604344",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x15604344.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

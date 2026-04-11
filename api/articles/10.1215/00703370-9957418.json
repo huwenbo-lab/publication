@@ -1,0 +1,35 @@
+{
+  "title": "Polygenic Scores for Plasticity: A New Tool for Studying Gene-Environment Interplay",
+  "abstract": "Fertility, health, education, and other outcomes of interest to demographers are the product of an individual's genetic makeup and their social environment. Yet, gene x environment (GxE) research deploys a limited toolkit on the genetic side to study the gene-environment interplay, relying on polygenic scores (PGSs) that reflect the influence of genetics on levels of an outcome. In this article, we develop a genetic summary measure better suited for GxE research: variance polygenic scores (vPGSs), which are PGSs that reflect genetic contributions to plasticity in outcomes. First, we use the UK Biobank (N similar to 408,000 in the analytic sample) and the Health and Retirement Study (N similar to 5,700 in the analytic sample) to compare four approaches to constructing PGSs for plasticity. The results show that widely used methods for discovering which genetic variants affect outcome variability fail to serve as distinctive new tools for GxE. Second, using the PGSs that do capture distinctive genetic contributions to plasticity, we analyze heterogeneous effects of a UK education reform on health and educational attainment. The results show the properties of a useful new tool for population scientists studying the interplay of nature and nurture and for population-based studies that are releasing PGSs to applied researchers.",
+  "authors": [
+    {
+      "raw": "Johnson, Rebecca",
+      "family": "Johnson",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Sotoudeh, Ramina",
+      "family": "Sotoudeh",
+      "given": "Ramina"
+    },
+    {
+      "raw": "Conley, Dalton",
+      "family": "Conley",
+      "given": "Dalton"
+    }
+  ],
+  "authors_text": "Johnson, Rebecca; Sotoudeh, Ramina; Conley, Dalton",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9957418",
+  "doi_url": "https://doi.org/10.1215/00703370-9957418",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9957418",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9957418.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Another Way Out: The Impact of Juvenile Arrests on High School Dropout",
+  "abstract": "This article suggests that contact with the legal system increased school dropout in a Chicago sample of 4,844 inner-city students. According to multilevel multivariate logistic models, students who were first arrested during the 9th or 10th grade were six to eight times more likely than were nonarrested students ever to dropout of high school and are about 3.5 times more likely to drop out in Grades 9 and 10. However, selection bias is a real concern. To improve causal inference, students who were first arrested in Grade 9 (n = 228) are compared to 9th graders (n = 153) who were first arrested a year later. Given this sampling restriction, the groups hardly differ on many observables. Yet early arrest still increases early school dropout in models with many relevant covariates. The 9th-grade arrestees are also compared to matched students who avoided arrest. Similar intergroup differences in the risk of dropout were observed. Thus, being arrested weakens subsequent participation in urban schools, decreasing their capacity to educate and otherwise help vulnerable youths.",
+  "authors": [
+    {
+      "raw": "Hirschfield, Paul",
+      "family": "Hirschfield",
+      "given": "Paul"
+    }
+  ],
+  "authors_text": "Hirschfield, Paul",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2009,
+  "doi": "10.1177/003804070908200404",
+  "doi_url": "https://doi.org/10.1177/003804070908200404",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070908200404",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070908200404.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

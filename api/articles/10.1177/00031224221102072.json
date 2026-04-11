@@ -1,0 +1,30 @@
+{
+  "title": "Judges as Party Animals: Retirement Timing by Federal Judges and Party Control of Judicial Appointments",
+  "abstract": "Long-standing debate over the Politicized Departure Hypothesis (PDH) asserts that federal judges tend to arrange to retire under presidents of the same political party as the president who first appointed them, thereby giving that party the right to nominate their successor. PDH is important for asserting political party agency by judges, who receive no consequent personal benefit, and for explaining the long-term political party orientation of courts. PDH studies inevitably suffer from absence of data on known and unknown determinants of retirement timing. To avoid these and other problems, we apply 11 sharp regression discontinuity (SRD) analyses to voluntary judicial departures before and after five elections that replace Republican presidents with Democrats, and six that replace Democrats with Republicans, 1920 to 2018. Results of difference tests, difference-in-differences tests, and others are as predicted by PDH, for 10 of 11 analyses, for pre-election and post-inauguration observation periods of 270 days. Although unexpected, we find stronger PDH effects for Republican appointees than for Democratic appointees. We offer a novel explanation of PDH based on normative reciprocity rather than ideology.",
+  "authors": [
+    {
+      "raw": "Stolzenberg, Ross M.",
+      "family": "Stolzenberg",
+      "given": "Ross M."
+    },
+    {
+      "raw": "Lindgren, James",
+      "family": "Lindgren",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Stolzenberg, Ross M.; Lindgren, James",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1177/00031224221102072",
+  "doi_url": "https://doi.org/10.1177/00031224221102072",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224221102072",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224221102072.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

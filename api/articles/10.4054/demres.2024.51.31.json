@@ -1,0 +1,40 @@
+{
+  "title": "Socioeconomic development and Chinese young adults' propensity to live alone: An extended replication study",
+  "abstract": "BACKGROUND The proportion of young adults living alone has increased remarkably in China. This study seeks to assess current patterns and influencing factors in this phenomenon by replicating Cheung and Yeung's (2021) study, which highlighted the compositional and contextual effects on young adults' propensity to live alone. METHODS We analyzed 265,060 young adults aged 20-35 from the Seventh National Population Census Microdata (2020), nested within 315 prefectures. Two-level random-intercept logistic regression models were employed to examine the effects of socioeconomic development and individual factors on living alone separately for men and women. RESULTS The association between prefecture-level development and living alone remains positive in China as of 2020. However, the probability of living alone in less-developed areas is unexpectedly higher than that in middle-developed areas. Further, the curvilinear association between prefecture-level development and living alone is weak after controlling for migration status. Single people and short-term migrants (< 5 years migration) are most likely to live alone. In underdeveloped areas, increased short-term migration and highly educated young adults may be the strong forces behind the increased probability of one-person households. CONTRIBUTION We extend the effect of migration duration and education on the rise of young one-person households in China and highlight the contributions of short-term migration and higher education to the growth of one-person households in underdeveloped areas. We believe the clear prevalence of one-person households should be considered an indicator of the second demographic transition.",
+  "authors": [
+    {
+      "raw": "Wang, Xin",
+      "family": "Wang",
+      "given": "Xin"
+    },
+    {
+      "raw": "Yan, Chenyu",
+      "family": "Yan",
+      "given": "Chenyu"
+    },
+    {
+      "raw": "Deng, Che",
+      "family": "Deng",
+      "given": "Che"
+    },
+    {
+      "raw": "He, Hong",
+      "family": "He",
+      "given": "Hong"
+    }
+  ],
+  "authors_text": "Wang, Xin; Yan, Chenyu; Deng, Che; He, Hong",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.31",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Culture wars and opinion polarization: The case of abortion",
+  "abstract": "Recent observers have pointed to a growing polarization within the U.S. public over politicized moral issues - the so-called culture wars. DiMaggio, Evans, and Bryson studied trends over the past 25 years in American opinion on a number of critical social issues, finding little evidence of increased polarization; abortion is the primary exception. However, their conclusions are suspect because they treat ordinal or nominal scales as interval data. This article proposes new methods for studying polarization using ordinal data and uses these to model the National Election Study (NES) abortion item. Whereas the analysis of this item by DiMaggio et al. points to increasing polarization of abortion attitudes between 1972 and 1994, this article's analyses of these data offers little support for this conclusion and lends weight to their view that recent concerns over polarization are overstated.",
+  "authors": [
+    {
+      "raw": "Mouw, T",
+      "family": "Mouw",
+      "given": "T"
+    },
+    {
+      "raw": "Sobel, ME",
+      "family": "Sobel",
+      "given": "ME"
+    }
+  ],
+  "authors_text": "Mouw, T; Sobel, ME",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2001,
+  "doi": "10.1086/320294",
+  "doi_url": "https://doi.org/10.1086/320294",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F320294",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/320294.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

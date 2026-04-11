@@ -1,0 +1,25 @@
+{
+  "title": "Blood is thicker than bloodshed: A genealogical approach to reconstruct populations after armed conflicts",
+  "abstract": "BACKGROUND Conducting demographic research on armed conflicts is challenging because conflicts can affect the quality of primary data collection or halt the production of evidence altogether. Most of the existing methods for collecting time-variant demographic data cannot be used with war-affected populations. OBJECTIVE This paper introduces the Extended Genealogy Method (EGM), a toolkit for collecting high-quality data for demographic analysis using cross-checked extended genealogies. The paper assesses the quality of the data produced by the EGM by focusing on an empirical application of the method. METHODS The EGM uses chain-referral sampling to create extended kinship networks that include all members of a local population. The multiple reporting that results from the sampling strategy is used to reduce the error associated with retrospective reporting. RESULTS Data on 3,566 unique individuals and 1,986 marriages were collected from 100 EGM interviews. The paper shows how the EGM-generated data was used to reconstruct the excess mortality from the 1982 Rio Negro Massacres in Guatemala, a wartime event that produced very high excess mortality in the population. CONCLUSIONS The EGM produced reliable and complete demographic data. The sampling and data processing strategies addressed retrospective and selection bias and helped evaluate data completion. The EGM can be used to reconstruct the demographic history of other local populations. CONTRIBUTION The method can be applied to reconstruct demographic dynamics in contexts of data scarcity, such as during and after armed conflicts. The EGM produces time-variant social network data useful to study, for example, intergenerational support or the transmission of demographic traits and behaviours over time.",
+  "authors": [
+    {
+      "raw": "Alburez-Gutierrez, Diego",
+      "family": "Alburez-Gutierrez",
+      "given": "Diego"
+    }
+  ],
+  "authors_text": "Alburez-Gutierrez, Diego",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.23",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

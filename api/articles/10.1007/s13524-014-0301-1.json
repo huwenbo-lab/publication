@@ -1,0 +1,40 @@
+{
+  "title": "How Resource Dynamics Explain Accumulating Developmental and Health Disparities for Teen Parents’ Children",
+  "abstract": "Abstract This study examines the puzzle of disparities experienced by U.S. teen parents’ young children, whose health and development increasingly lag behind those of peers while their parents are simultaneously experiencing socioeconomic improvements. Using the nationally representative Early Childhood Longitudinal Study-Birth Cohort (2001–2007; N ≈ 8,600), we assess four dynamic patterns in socioeconomic resources that might account for these growing developmental and health disparities throughout early childhood and then test them in multilevel growth curve models. Persistently low socioeconomic resources constituted the strongest explanation, given that consistently low income, maternal education, and assets fully or partially account for growth in cognitive, behavioral, and health disparities experienced by teen parents’ children from infancy through kindergarten. That is, although teen parents gained socioeconomic resources over time, those resources remained relatively low, and the duration of exposure to limited resources explains observed growing disparities. Results suggest that policy interventions addressing the time dynamics of low socioeconomic resources in a household, in terms of both duration and developmental timing, are promising for reducing disparities experienced by teen parents’ children.",
+  "authors": [
+    {
+      "raw": "Mollborn, Stefanie",
+      "family": "Mollborn",
+      "given": "Stefanie"
+    },
+    {
+      "raw": "Lawrence, Elizabeth",
+      "family": "Lawrence",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "James-Hawkins, Laurie",
+      "family": "James-Hawkins",
+      "given": "Laurie"
+    },
+    {
+      "raw": "Fomby, Paula",
+      "family": "Fomby",
+      "given": "Paula"
+    }
+  ],
+  "authors_text": "Mollborn, Stefanie; Lawrence, Elizabeth; James-Hawkins, Laurie; Fomby, Paula",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0301-1",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0301-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0301-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0301-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

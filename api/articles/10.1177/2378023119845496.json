@@ -1,0 +1,30 @@
+{
+  "title": "Extracurricular Activities and Student Outcomes in Elementary and Middle School: Causal Effects or Self-selection?",
+  "abstract": "Participation in extracurricular activities (ECAs) is positively related to cognitive and socioemotional outcomes for children and adolescents. The authors argue that because of methodological limitations, prior research failed to address the self-selection of advantaged families into ECAs, which raises concerns regarding whether ECA participation is causally related to student outcomes. In this article, the authors present an analytical model that provides a stronger test of causal relationships. The authors analyze data from six waves of the Early Childhood Longitudinal Study–Kindergarten Class of 1998–99 (K–8) and construct a cross-lagged panel model with student fixed effects. Overall, the findings suggest that participation in ECAs during elementary school has small but positive causal effects on academic ability, which grow larger in later grades (third grade through eighth grade). The findings provide little evidence that greater ECA participation improves students’ socioemotional skills in either early or later grades. Overall, the findings validate some prior research while raising questions about the internal validity of other findings.",
+  "authors": [
+    {
+      "raw": "Carbonaro, William",
+      "family": "Carbonaro",
+      "given": "William"
+    },
+    {
+      "raw": "Maloney, Emily",
+      "family": "Maloney",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Carbonaro, William; Maloney, Emily",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119845496",
+  "doi_url": "https://doi.org/10.1177/2378023119845496",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119845496",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119845496.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

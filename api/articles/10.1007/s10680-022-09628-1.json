@@ -1,0 +1,30 @@
+{
+  "title": "Well-Being Adjusted Health Expectancy: A New Summary Measure of Population Health",
+  "abstract": "Abstract We propose a new summary measure of population health (SMPH), the well-being-adjusted health expectancy (WAHE). WAHE belongs to a subgroup of health-adjusted life expectancy indicators and gives the number of life years equivalent to full health. WAHE combines health and mortality information into a single indicator with weights that quantify the reduction in well-being associated with decreased health. WAHE's advantage over other SMPHs lies in its ability to differentiate between the consequences of health limitations at various levels of severity and its transparent, simple valuation function. Following the guidelines of a Committee on Summary Measures of Population Health, we discuss WAHE's validity, universality, feasibility sensitivity and ensure its reproducibility. We evaluate WAHE's performance compared to life expectancy, the most commonly used indicators of health expectancy (HE) and disability-adjusted life expectancy (DALE) in an empirical application for 29 European countries. Data on health and well-being are taken from the 2018 EU-SILC, and the life tables are from Eurostat. DALE is taken from the database of the Global Burden of Disease Programme. WAHE's sensitivity to univariate and multivariate state specifications is studied using the three Minimum European Health Module health dimensions: chronic morbidity, limitations in activities of daily living, and self-rated health. The empirical tests of the indicators’ correspondence reveal that WAHE has the strongest correlation with the other SMPHs. Moreover, WAHE estimates are in agreement with all other SMPHs. Additionally, WAHE and all other SMPHs form a group of reliable indicators for studying population health in European countries. Finally, WAHE estimates are robust, regardless of whether health is defined across one or multiple simultaneous dimensions of health. We conclude that WAHE is a useful and reliable indicator of population health and performs at least as well as other commonly used SMPHs.",
+  "authors": [
+    {
+      "raw": "Muszyńska-Spielauer, Magdalena",
+      "family": "Muszyńska-Spielauer",
+      "given": "Magdalena"
+    },
+    {
+      "raw": "Luy, Marc",
+      "family": "Luy",
+      "given": "Marc"
+    }
+  ],
+  "authors_text": "Muszyńska-Spielauer, Magdalena; Luy, Marc",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09628-1",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09628-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09628-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09628-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

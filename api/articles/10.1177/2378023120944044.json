@@ -1,0 +1,45 @@
+{
+  "title": "Visualizing 20 Years of Racial-Ethnic Variation in Women’s Ages at Sexual Initiation and Family Formation",
+  "abstract": "This data visualization uses several cycles of the National Survey of Family Growth to compare trends in median ages at first sex, birth, cohabitation, and marriage between 1995 and 2015 across non-Hispanic white, non-Hispanic black, native-born Hispanic, and foreign-born Hispanic women aged 40 to 44 years. Generally, women’s ages at first sex declined, ages at first cohabitation remained stable, and ages at marriage and birth increased. However, there were substantial race-ethnicity-nativity differences in the timing and sequencing of women’s reproductive and family experiences, and these differences grew over time. These descriptive findings point to the importance of identifying the larger social forces that contribute to differential experiences while underscoring the fundamental problems inherent with defining whites’ reproductive and family behaviors as “normal.”",
+  "authors": [
+    {
+      "raw": "Hemez, Paul",
+      "family": "Hemez",
+      "given": "Paul"
+    },
+    {
+      "raw": "Guzzo, Karen Benjamin",
+      "family": "Guzzo",
+      "given": "Karen Benjamin"
+    },
+    {
+      "raw": "Manning, Wendy D.",
+      "family": "Manning",
+      "given": "Wendy D."
+    },
+    {
+      "raw": "Brown, Susan L.",
+      "family": "Brown",
+      "given": "Susan L."
+    },
+    {
+      "raw": "Payne, Krista K.",
+      "family": "Payne",
+      "given": "Krista K."
+    }
+  ],
+  "authors_text": "Hemez, Paul; Guzzo, Karen Benjamin; Manning, Wendy D.; Brown, Susan L.; Payne, Krista K.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120944044",
+  "doi_url": "https://doi.org/10.1177/2378023120944044",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120944044",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120944044.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

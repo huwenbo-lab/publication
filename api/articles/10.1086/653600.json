@@ -1,0 +1,30 @@
+{
+  "title": "A Multilevel Systemic Model of Community Attachment: Assessing the Relative Importance of the Community and Individual Levels",
+  "abstract": "To what extent does community context affect individuals' social ties and levels of community attachment? The authors replicate Sampson's multilevel version of Kasarda and Janowitz's systemic model of community using data from a survey of nearly 10,000 people residing in 99 small Iowa communities. They improve on Sampson's work by using multilevel statistical tools, better measurement of community attachment, and data from 99 actual communities. While the authors find general support for the systemic model, their results suggest that the community one lives in actually has little effect on one's level of community attachment, calling into question many of the basic assumptions and findings of past community research.",
+  "authors": [
+    {
+      "raw": "Flaherty, Jeremy",
+      "family": "Flaherty",
+      "given": "Jeremy"
+    },
+    {
+      "raw": "Brown, Ralph B.",
+      "family": "Brown",
+      "given": "Ralph B."
+    }
+  ],
+  "authors_text": "Flaherty, Jeremy; Brown, Ralph B.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2010,
+  "doi": "10.1086/653600",
+  "doi_url": "https://doi.org/10.1086/653600",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F653600",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/653600.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

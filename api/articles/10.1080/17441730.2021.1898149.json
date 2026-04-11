@@ -1,0 +1,35 @@
+{
+  "title": "Missing marriage: changing marriage patterns amid social transition in Myanmar",
+  "abstract": "Across Asia, men and women increasingly delay or abstain from marriage, a change often linked to improvements in female educational attainment and labour force participation. In Myanmar, less than 90 per cent of women aged 45–49 years during the 2014 census had ever married, compared to nearly all men of a similar age. This paper investigates the difference in marriage patterns between males and females in Myanmar. Using a Cox proportional hazards model, we analyse the associations between entry into marriage across age cohorts, and male and female educational attainment and workforce participation. We find that having a high level of education and currently working negatively affect women's chances of marrying across all ages. While higher education similarly affects younger men, we find that higher socioeconomic status substantially improves a man's likelihood of marriage in later life, suggesting lingering gender stereotypes influencing women to remain single in the country.",
+  "authors": [
+    {
+      "raw": "Schuster, Anne",
+      "family": "Schuster",
+      "given": "Anne"
+    },
+    {
+      "raw": "Hinde, Andrew",
+      "family": "Hinde",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Padmadas, Sabu S.",
+      "family": "Padmadas",
+      "given": "Sabu S."
+    }
+  ],
+  "authors_text": "Schuster, Anne; Hinde, Andrew; Padmadas, Sabu S.",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2021,
+  "doi": "10.1080/17441730.2021.1898149",
+  "doi_url": "https://doi.org/10.1080/17441730.2021.1898149",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2021.1898149",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2021.1898149.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

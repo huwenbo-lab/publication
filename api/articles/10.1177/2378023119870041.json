@@ -1,0 +1,40 @@
+{
+  "title": "Algorithmic Control in Platform Food Delivery Work",
+  "abstract": "Building on an emerging literature concerning algorithmic management, this article analyzes the processes by which food delivery platforms control workers and uncovers variation in the extent to which such platforms constrain the freedoms—over schedules and activities—associated with gig work. Drawing on in-depth interviews with 55 respondents working on food delivery platforms, as well as a survey of 955 platform food delivery workers, we find that although all of the food delivery platforms use algorithmic management to assign and evaluate work, there is significant cross-platform variation. Instacart, the largest grocery delivery platform, exerts a type of control we call “algorithmic despotism,” regulating the time and activities of workers more stringently than other platform delivery companies. We conclude with a discussion of the implications of the spectrum of algorithmic control for the future of work.",
+  "authors": [
+    {
+      "raw": "Griesbach, Kathleen",
+      "family": "Griesbach",
+      "given": "Kathleen"
+    },
+    {
+      "raw": "Reich, Adam",
+      "family": "Reich",
+      "given": "Adam"
+    },
+    {
+      "raw": "Elliott-Negri, Luke",
+      "family": "Elliott-Negri",
+      "given": "Luke"
+    },
+    {
+      "raw": "Milkman, Ruth",
+      "family": "Milkman",
+      "given": "Ruth"
+    }
+  ],
+  "authors_text": "Griesbach, Kathleen; Reich, Adam; Elliott-Negri, Luke; Milkman, Ruth",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119870041",
+  "doi_url": "https://doi.org/10.1177/2378023119870041",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119870041",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119870041.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

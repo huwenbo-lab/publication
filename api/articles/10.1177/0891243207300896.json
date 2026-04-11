@@ -1,0 +1,30 @@
+{
+  "title": "Book Review: Medicalized Masculinities. Edited by Dana Rosenfeld and Christopher A. Faircloth. Philadelphia: Temple University Press, 2006, 272 pp., $24.95 (paper)",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Braksmajer, Amy",
+      "family": "Braksmajer",
+      "given": "Amy"
+    },
+    {
+      "raw": "Kimmel, Michael",
+      "family": "Kimmel",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Braksmajer, Amy; Kimmel, Michael",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2007,
+  "doi": "10.1177/0891243207300896",
+  "doi_url": "https://doi.org/10.1177/0891243207300896",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243207300896",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243207300896.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

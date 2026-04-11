@@ -1,0 +1,35 @@
+{
+  "title": "Uncovering disability-free grandparenthood in Italy between 1998 and 2016 using gender-specific decomposition",
+  "abstract": "BACKGROUND Decreasing fertility rates and increasing lifespan affect the time grandparents and grandchildren co-exist. Any changes in the time and length of grandparenthood could alter the quality and the direction of intergenerational exchange. In Italy, a country in which grandparents constitute a fundamental resource for the provision of childcare and where families are the main source of support for individuals, studying grandparents' health evolution is crucial, especially considering the limited evidence available. OBJECTIVE This study aims to uncover the evolution of disability-free grandparenthood at age 65 between 1998 and 2016 in Italy, analysing changes due to the longevity revolution and to grandparenthood-disability prevalence, with a focus on gender differences. METHODS Disability-free grandparenthood is estimated for Italy for the years 1998 to 2016 and by gender using the Sullivan method. The linear integral decomposition method is implemented to assess the contribution of changes in mortality and the grandparenthood- disability prevalence on the evolution of disability-free grandparenthood over time. RESULTS Between 1998 and 2016, Italian grandparents gained disability-free years of life overlapping with their grandchildren. Grandmothers gained 2.6 years (from 9.9 to 12.5 years), and grandfathers 1.8 years (from 8.9 to 10.7 years). Overall, this trend was primarily driven by improvements in health and survival. However, the postponement in the transition to grandparenthood for men slightly slowed down the trend.",
+  "authors": [
+    {
+      "raw": "Moretti, Margherita",
+      "family": "Moretti",
+      "given": "Margherita"
+    },
+    {
+      "raw": "Cisotto, Elisa",
+      "family": "Cisotto",
+      "given": "Elisa"
+    },
+    {
+      "raw": "De Rose, Alessandra",
+      "family": "De Rose",
+      "given": "Alessandra"
+    }
+  ],
+  "authors_text": "Moretti, Margherita; Cisotto, Elisa; De Rose, Alessandra",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.42",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.42",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.42",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.42.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

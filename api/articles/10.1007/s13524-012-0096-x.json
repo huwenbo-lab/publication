@@ -1,0 +1,50 @@
+{
+  "title": "Widowhood and Mortality: A Meta-Analysis and Meta-Regression",
+  "abstract": "AbstractThe study of spousal bereavement and mortality has long been a major topic of interest for social scientists, but much remains unknown with respect to important moderating factors, such as age, follow-up duration, and geographic region. The present study examines these factors using meta-analysis. Keyword searches were conducted in multiple electronic databases, supplemented by extensive iterative hand searches. We extracted 1,377 mortality risk estimates from 123 publications, providing data on more than 500 million persons. Compared with married people, widowers had a mean hazard ratio (HR) of 1.23 (95% confidence interval (CI), 1.19–1.28) among HRs adjusted for age and additional covariates and a high subjective quality score. The mean HR was higher for men (HR, 1.27; 95% CI, 1.19–1.35) than for women (HR, 1.15; 95% CI, 1.08–1.22). A significant interaction effect was found between gender and mean age, with HRs decreasing more rapidly for men than for women as age increased. Other significant predictors of HR magnitude included sample size, geographic region, level of statistical adjustment, and study quality.",
+  "authors": [
+    {
+      "raw": "Shor, Eran",
+      "family": "Shor",
+      "given": "Eran"
+    },
+    {
+      "raw": "Roelfs, David J.",
+      "family": "Roelfs",
+      "given": "David J."
+    },
+    {
+      "raw": "Curreli, Misty",
+      "family": "Curreli",
+      "given": "Misty"
+    },
+    {
+      "raw": "Clemow, Lynn",
+      "family": "Clemow",
+      "given": "Lynn"
+    },
+    {
+      "raw": "Burg, Matthew M.",
+      "family": "Burg",
+      "given": "Matthew M."
+    },
+    {
+      "raw": "Schwartz, Joseph E.",
+      "family": "Schwartz",
+      "given": "Joseph E."
+    }
+  ],
+  "authors_text": "Shor, Eran; Roelfs, David J.; Curreli, Misty; Clemow, Lynn; Burg, Matthew M.; Schwartz, Joseph E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0096-x",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0096-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0096-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0096-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

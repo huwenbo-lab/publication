@@ -1,0 +1,25 @@
+{
+  "title": "Self-Correcting Dynamics in Social Influence Processes",
+  "abstract": "Social influence may lead individuals to choose what is popular over what is best. Whenever this happens, it further increases the popularity advantage of the inferior choice, compelling subsequent decision makers to follow suit. The author argues that despite this positive feedback effect, discordances between popularity and quality will usually self-correct. Reanalyzing past experimental studies in which social information initially heavily favored inferior options, the author shows that in each experiment superior alternatives gained in popularity. This article also reports on a new experiment in which a larger number of subject choices allowed trials to be run to convergence and shows that in each trial the superior alternative eventually achieved popular dominance. To explain the persistent dominance of bestsellers, celebrities, and memes of seemingly questionable quality in everyday life in terms of social influence processes, one must identify conditions that render positive feedback so strong that self-correcting dynamics are prevented.",
+  "authors": [
+    {
+      "raw": "van de Rijt, Arnout",
+      "family": "van de Rijt",
+      "given": "Arnout"
+    }
+  ],
+  "authors_text": "van de Rijt, Arnout",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2019,
+  "doi": "10.1086/702899",
+  "doi_url": "https://doi.org/10.1086/702899",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F702899",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/702899.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

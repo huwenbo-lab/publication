@@ -1,0 +1,30 @@
+{
+  "title": "Early life exposure to cigarette smoking and adult and old-age male mortality: Evidence from linked US full-count census and mortality data",
+  "abstract": "BACKGROUNDSmoking is a leading cause of premature death across contemporary developed nations, but few longitudinal individual-level studies have examined the long-term health consequences of exposure to smoking. OBJECTIVEWe examine the effect of fetal and infant exposure to exogenous variation in smoking, brought about by state-level cigarette taxation, on adulthood and old-age mortality (ages 55-73) among cohorts of boys born in the United States during the 1920s and 1930s. METHODS We use state-of-the-art methods of record linkage to match 1930 and 1940 US full-count census records to death records, identifying early life exposure to the implementation of state-level cigarette taxes through contemporary sources. We examine a population of 2.4 million boys, estimating age at death by means of OLS regression, with post-stratification weights to account for linking selectivity.RESULTSFetal or infant exposure to the implementation of state cigarette taxation delayed mortality by about two months. Analyses further indicate heterogenous effects that are consistent with theoretical expectations; the largest benefits are enjoyed by individuals with parents who would have been affected most by the tax implementation.CONCLUSIONSDespite living in an era of continuously increasing cigarette consumption, cohorts exposed to a reduction in cigarette smoking during early life enjoyed a later age at death. While it is not possible to comprehensively assess the treatment effect on the treated, the magnitude of the effect should not be underestimated, as it is larger than the difference between having parents belonging to the highest and lowest socioeconomic groups. CONTRIBUTION The study provides the first estimates of long-run health effects from early life exposure to cigarette smoking.",
+  "authors": [
+    {
+      "raw": "Helgertz, Jonas",
+      "family": "Helgertz",
+      "given": "Jonas"
+    },
+    {
+      "raw": "Warren, John Robert",
+      "family": "Warren",
+      "given": "John Robert"
+    }
+  ],
+  "authors_text": "Helgertz, Jonas; Warren, John Robert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.25",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

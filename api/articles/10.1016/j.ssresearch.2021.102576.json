@@ -1,0 +1,35 @@
+{
+  "title": "Effect pathways of informal family separation on children's outcomes: Paternal labor migration and long-term educational attainment of left-behind children in rural China",
+  "abstract": "Informal family separation due to parental labor migration is an increasingly common experience in the lives of children in many countries. This paper proposes a framework and method for analyzing effect pathways by which parental labor migration might affect children's outcomes. The framework incorporates home-environment and child-development mechanisms and is adapted from migration, sociology of education, and child development literatures. We test these pathways using data on father absence and long-term educational outcomes for girls and boys in China. We apply structural equation models with inverse probability of treatment weighting to data from a 15-year longitudinal survey of 2000 children. Significantly, fathers' migration has distinct implications for different effect pathways. It is associated most significantly with reduced human capital at home, which has the largest detrimental effect on children's educational attainment, among those studied. At the same time, father absence is associated with better family economic capital, which partially buffers the negative implications of father absence. Overall, father absence corresponds to a reduction of 0.342 years, on average, in children's educational attainment, but the reduction is larger for boys than for girls. For boys and girls, the reduced availability of literate adults in the household linked to father absence is an important effect pathway. For girls, this detrimental effect is partially offset by a positive income effect, but for boys, the offset effect is trivial.",
+  "authors": [
+    {
+      "raw": "Shen, Wensong",
+      "family": "Shen",
+      "given": "Wensong"
+    },
+    {
+      "raw": "Hu, Li-Chung",
+      "family": "Hu",
+      "given": "Li-Chung"
+    },
+    {
+      "raw": "Hannum, Emily",
+      "family": "Hannum",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Shen, Wensong; Hu, Li-Chung; Hannum, Emily",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102576",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102576",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102576",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102576.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

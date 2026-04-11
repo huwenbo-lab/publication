@@ -1,0 +1,30 @@
+{
+  "title": "Epilocal: A real-time tool for local epidemic monitoring",
+  "abstract": "BACKGROUND The novel coronavirus (SARS-CoV-2) emerged as a global threat at the beginning of 2020, spreading around the globe at different times and rates. Within a country, such differences provide the opportunity for strategic allocations of health care resources. OBJECTIVE We aim to provide a tool to estimate and visualize differences in the spread of the pandemic at the subnational level. Specifically, we focus on the case of Italy, a country that has been harshly hit by the virus. METHODS We model the number of SARS-CoV-2 reported cases and deaths as well as the number of hospital admissions at the Italian subnational level with Poisson regression. We employ parametric and nonparametric functional forms for the hazard function. In the parametric approach, model selection is performed using an automatic criterion based on the statistical significance of the estimated parameters and on goodness-of-fit assessment. In the nonparametric approach, we employ out-of-sample forecasting error minimization. RESULTS For each province and region, fitted models are plotted against observed data, demonstrating the appropriateness of the modeling approach. Moreover, estimated counts and rates of change for each outcome variable are plotted on maps of the country. This provides a direct visual assessment of the geographic distribution of risk areas as well as insights on the evolution of the pandemic over time. CONTRIBUTION The proposed Epilocal software provides researchers and policymakers with an open-access real-time tool to monitor the most recent trends of the COVID-19 pandemic in Italian regions and provinces with informative graphical outputs. The software is freely available and can be easily modified to fit other countries as well as future pandemics.",
+  "authors": [
+    {
+      "raw": "Bonetti, Marco",
+      "family": "Bonetti",
+      "given": "Marco"
+    },
+    {
+      "raw": "Basellini, Ugofilippo",
+      "family": "Basellini",
+      "given": "Ugofilippo"
+    }
+  ],
+  "authors_text": "Bonetti, Marco; Basellini, Ugofilippo",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.12",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

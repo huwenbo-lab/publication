@@ -1,0 +1,35 @@
+{
+  "title": "Patterns and predictors of postsecondary re-enrollment in the acquisition of stackable credentials",
+  "abstract": "Using 15 years of student enrollment histories from administrative data spanning the 2004-05 through 2018-19 school years at all public colleges, universities, and technical/trade schools in the state of Ohio, we examine rates of re-enrollment in postsecondary education for individuals pursuing additional credentials following the receipt of a sub-baccalaureate certificate. We find that the majority of certificate recipients re-enroll to continue their progression toward stacking credentials. The likelihood of re-enrollment diminishes for certificate earners as they get further out from the term when their initial certificate was completed. Certificate earners re-enroll at an accelerated rate if they acquired their initial certificate at a community college, if they currently have low wages at their jobs, and following increases in local unemployment rates. Our findings lend support to sociological ideas about the role of institutional contexts, opportunity costs, and labor market opportunities in shaping non-traditional postsecondary pathways across the life course.",
+  "authors": [
+    {
+      "raw": "Bozick, Robert",
+      "family": "Bozick",
+      "given": "Robert"
+    },
+    {
+      "raw": "Anderson, Drew M.",
+      "family": "Anderson",
+      "given": "Drew M."
+    },
+    {
+      "raw": "Daugherty, Lindsay",
+      "family": "Daugherty",
+      "given": "Lindsay"
+    }
+  ],
+  "authors_text": "Bozick, Robert; Anderson, Drew M.; Daugherty, Lindsay",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102573",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102573",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102573",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102573.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

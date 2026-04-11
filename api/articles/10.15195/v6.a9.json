@@ -1,0 +1,30 @@
+{
+  "title": "Structure of Online Dating Markets in U.S. Cities",
+  "abstract": "We study the structure of heterosexual dating markets in the United States through an analysis of the interactions of several million users of a large online dating website, applying recently developed network analysis methods to the pattern of messages exchanged among users. Our analysis shows that the strongest driver of romantic interaction at the national level is simple geographic proximity, but at the local level, other demographic factors come into play. We find that dating markets in each city are partitioned into submarkets along lines of age and ethnicity. Sex ratio varies widely between submarkets, with younger submarkets having more men and fewer women than older ones. There is also a noticeable tendency for minorities, especially women, to be younger than the average in older submarkets, and our analysis reveals how this kind of racial stratification arises through the messaging decisions of both men and women. Our study illustrates how network techniques applied to online interactions can reveal the aggregate effects of individual behavior on social structure.",
+  "authors": [
+    {
+      "raw": "Bruch, Elizabeth",
+      "family": "Bruch",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Newman, M.",
+      "family": "Newman",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Bruch, Elizabeth; Newman, M.",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2019,
+  "doi": "10.15195/v6.a9",
+  "doi_url": "https://doi.org/10.15195/v6.a9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv6.a9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v6.a9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

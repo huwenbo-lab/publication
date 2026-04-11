@@ -1,0 +1,30 @@
+{
+  "title": "Examining the Influence of Political Affiliation and Orientation on Political Tolerance",
+  "abstract": "Political identities are strongly associated with political tolerance. Specifically, previous research shows that American liberals report higher levels of tolerance toward marginalized groups than conservatives. Political orientation, however, varies more among Democrats than Republicans, which might mean that Democrats are relatively diverse in their levels of political tolerance. In this article, the authors ask how the association between political orientation and political tolerance varies across political parties. Using General Social Survey data, the authors find that tolerance is highest among liberals, followed by moderates and conservatives. Regression models with interactions between party and orientation demonstrate that political orientation is consequential for tolerance levels among independents, and especially Democrats, but is far less so for Republicans. Additional analyses demonstrate how the party-contingent association between political orientation and tolerance varies by the outgroup in question. This research demonstrates the complexity of political dimensions when considering support for the rights of marginalized outgroups.",
+  "authors": [
+    {
+      "raw": "Garneau, Christopher R. H.",
+      "family": "Garneau",
+      "given": "Christopher R. H."
+    },
+    {
+      "raw": "Schwadel, Philip",
+      "family": "Schwadel",
+      "given": "Philip"
+    }
+  ],
+  "authors_text": "Garneau, Christopher R. H.; Schwadel, Philip",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221132368",
+  "doi_url": "https://doi.org/10.1177/23780231221132368",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221132368",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221132368.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

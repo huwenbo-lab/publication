@@ -1,0 +1,35 @@
+{
+  "title": "Marital Quality and Personal Well‐Being: A Meta‐Analysis",
+  "abstract": "This study examines the association between marital quality and personal well‐being using meta‐analytic techniques. Effects from 93 studies were analyzed. The average weighted effect size r was .37 for cross‐sectional and .25 for longitudinal effects. Results indicate that several variables moderate the association between marital quality and personal well‐being, including gender, participants’ marital duration, source of measurement, data collection year, and dependent variable. These results suggest that longitudinal effects are more likely to be uncovered when using standard measurement and that future research should use samples homogenous in marital length. The longitudinal finding that the strength of the association is stronger when personal well‐being is treated as the dependent variable supports previous theorizing.",
+  "authors": [
+    {
+      "raw": "Proulx, Christine M.",
+      "family": "Proulx",
+      "given": "Christine M."
+    },
+    {
+      "raw": "Helms, Heather M.",
+      "family": "Helms",
+      "given": "Heather M."
+    },
+    {
+      "raw": "Buehler, Cheryl",
+      "family": "Buehler",
+      "given": "Cheryl"
+    }
+  ],
+  "authors_text": "Proulx, Christine M.; Helms, Heather M.; Buehler, Cheryl",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2007,
+  "doi": "10.1111/j.1741-3737.2007.00393.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2007.00393.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2007.00393.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2007.00393.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

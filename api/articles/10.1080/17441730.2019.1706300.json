@@ -1,0 +1,35 @@
+{
+  "title": "Fertility behaviour in linguistic zones: revisiting the diffusion hypothesis in greater Bengal",
+  "abstract": "This study compares fertility-related behaviour in the adjacent regions of West Bengal (a state in eastern India) and Bangladesh. The starting premise of the paper is that common history and language has led to diffusion of fertility practices from West Bengal to Bangladesh. This is hypothesised to create a homogenous pattern of fertility behaviour in the bordering districts of both political regions. The study uses Demographic Health Survey (DHS) and District level Household Survey data for 1992, 2002, and 2012. Despite some reservations – as DHS is directed to produce state-level estimates, while DLHS is geared to yield district-level estimates – the similarity in sampling strategies and coverage of all districts (in West Bengal) and divisions (in Bangladesh) implies that the two data sets may be pooled, particularly in the absence of any alternatives. We tested whether fertility behaviour in (i) bordering districts differs from non-border districts in both countries, and (ii) bordering districts of both countries are similar using multi-level linear and logistic models. Outcome variables are contraceptive prevalence rate, and number of ever born children. The results reveal similarities in fertility behaviour between border divisions of Bangladesh and West Bengal, indicating possible cross-border diffusion of fertility practices.",
+  "authors": [
+    {
+      "raw": "Das, Pallabi",
+      "family": "Das",
+      "given": "Pallabi"
+    },
+    {
+      "raw": "Husain, Zakir",
+      "family": "Husain",
+      "given": "Zakir"
+    },
+    {
+      "raw": "Ghosh, Saswata",
+      "family": "Ghosh",
+      "given": "Saswata"
+    }
+  ],
+  "authors_text": "Das, Pallabi; Husain, Zakir; Ghosh, Saswata",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2020,
+  "doi": "10.1080/17441730.2019.1706300",
+  "doi_url": "https://doi.org/10.1080/17441730.2019.1706300",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2019.1706300",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2019.1706300.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

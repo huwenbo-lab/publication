@@ -1,0 +1,45 @@
+{
+  "title": "Abortion Reporting in the United States: An Assessment of Three National Fertility Surveys",
+  "abstract": "Despite its frequency, abortion remains a highly sensitive, stigmatized, and difficult-to-measure behavior. We present estimates of abortion underreporting for three of the most commonly used national fertility surveys in the United States: the National Survey of Family Growth, the National Longitudinal Survey of Youth 1997, and the National Longitudinal Study of Adolescent to Adult Health. Numbers of abortions reported in each survey were compared with external abortion counts obtained from a census of all U.S. abortion providers, with adjustments for comparable respondent ages and periods of each data source. We examined the influence of survey design factors, including survey mode, sampling frame, and length of recall, on abortion underreporting. We used Monte Carlo simulations to estimate potential measurement biases in relationships between abortion and other variables. Underreporting of abortion in the United States compromises the ability to study abortion-and, consequently, almost any pregnancy-related experience-using national fertility surveys.",
+  "authors": [
+    {
+      "raw": "Lindberg, Laura",
+      "family": "Lindberg",
+      "given": "Laura"
+    },
+    {
+      "raw": "Kost, Kathryn",
+      "family": "Kost",
+      "given": "Kathryn"
+    },
+    {
+      "raw": "Maddow-Zimet, Isaac",
+      "family": "Maddow-Zimet",
+      "given": "Isaac"
+    },
+    {
+      "raw": "Desai, Sheila",
+      "family": "Desai",
+      "given": "Sheila"
+    },
+    {
+      "raw": "Zolna, Mia",
+      "family": "Zolna",
+      "given": "Mia"
+    }
+  ],
+  "authors_text": "Lindberg, Laura; Kost, Kathryn; Maddow-Zimet, Isaac; Desai, Sheila; Zolna, Mia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00886-4",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00886-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00886-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00886-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

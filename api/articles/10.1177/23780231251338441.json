@@ -1,0 +1,30 @@
+{
+  "title": "Higher Turnout, Greater Inequality? A Precinct-Level Analysis of Income Inequality in U.S. Presidential Voting, 2016 to 2020",
+  "abstract": "The relationship between income and voter turnout is crucial to understanding U.S. democracy. Previous research has revealed that richer people tend to vote at higher rates than lower income people. But this research relied on survey data and was subject to response and social desirability bias, producing widely varying estimates of the size of the income-based turnout gap. Using data with official, geocoded precinct election results for the entire nation, the authors examine how precinct-level income is associated with changes in voter turnout between the 2016 and 2020 elections. The authors find a dramatic income gradient in precinct voter turnout and that this inequality became larger in 2020 compared with 2016. When comparing top-decile precincts with bottom-decile precincts (>$121,000 vs <$38,000), the authors estimate turnout gaps of 17 percentage points in 2016 and 27 percentage points in 2020. These results are robust in regression analysis controlling for critical features and spatial dependence.",
+  "authors": [
+    {
+      "raw": "Rastogi, Ankit",
+      "family": "Rastogi",
+      "given": "Ankit"
+    },
+    {
+      "raw": "Laurison, Daniel",
+      "family": "Laurison",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Rastogi, Ankit; Laurison, Daniel",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251338441",
+  "doi_url": "https://doi.org/10.1177/23780231251338441",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251338441",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251338441.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

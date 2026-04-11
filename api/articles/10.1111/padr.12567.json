@@ -1,0 +1,35 @@
+{
+  "title": "Local Food Price Volatility and School Dropout in Sub-Saharan Africa",
+  "abstract": "Worldwide, children are enrolled in primary school in greater numbers than ever before. Nonetheless, school dropout rates are significant in many countries. A crucial factor in a child's education and potential for leaving school is their family's economic insecurity. Low-income households, in particular, are highly sensitive to food prices, and increases in the cost of food staples can force families to sacrifice education to smooth food consumption. While earlier studies have relied on aggregate measures of economic conditions or are restricted to single countries and limited time periods, we take an individual approach and examine how education is affected by local food price volatility. Empirically, we combine individual-level data on school dropout from 40 Demographic and Health Surveys in 14 sub-Saharan African countries between 1992 and 2020 with geo-referenced data on consumer food prices at local markets from the World Food Programme. Our results show that children are up to 8 percent more likely to drop out when local food prices sharply increase. Notably, this effect is strongest for older children, especially for boys. This demonstrates that economic instability during childhood can have long-run adverse effects on individuals and has important implications for understanding the human capital costs of income crises.",
+  "authors": [
+    {
+      "raw": "Brown, Kathleen J.",
+      "family": "Brown",
+      "given": "Kathleen J."
+    },
+    {
+      "raw": "Haer, Roos",
+      "family": "Haer",
+      "given": "Roos"
+    },
+    {
+      "raw": "ostby, Gudrun",
+      "family": "ostby",
+      "given": "Gudrun"
+    }
+  ],
+  "authors_text": "Brown, Kathleen J.; Haer, Roos; ostby, Gudrun",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2023,
+  "doi": "10.1111/padr.12567",
+  "doi_url": "https://doi.org/10.1111/padr.12567",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12567",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12567.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

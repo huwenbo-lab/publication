@@ -1,0 +1,30 @@
+{
+  "title": "Race Differences in Family Experience and Early Sexual Initiation: Dynamic Models of Family Structure and Family Change",
+  "abstract": "We examine the effects of family structure on age at first sexual intercourse before marriage for a recent cohort of women. Previous research on the linkage between family structure and sexual initiation has employed relatively crude measures of family structure—typically a snapshot of the respondent's family structure at age 14. We use retrospective parent histories from the 1979–1987 National Longitudinal Survey of Youth to construct dynamic measures of family structure, using information on the number and types of parents in the respondent's household between birth and age 18. We use these measures in proportional hazard models to test the effects of prolonged exposure to a single‐mother family, prolonged absence of a biological father, parental presence during adolescence, and family turbulence. For White women, age‐specific rates of first sexual intercourse are significantly and positively associated with the number of family transitions; for Black women, age‐specific rates are significantly and positively associated with having resided in a mother‐only or father‐only family during adolescence. Net of other effects of family structure, we find no significant effects for White or Black women of being born out of wedlock, prolonged exposure to a single‐mother family, or prolonged absence of a biological father. Our results for White women are consistent with a turbulence hypothesis, whereas for Black women our results suggest the importance of family structure during adolescence. For neither White nor Black women are our results consistent with hypotheses positing earlier initiation of sexual activity for women with prolonged exposure to a single‐mother or father‐absent family.",
+  "authors": [
+    {
+      "raw": "Wu, Lawrence L.",
+      "family": "Wu",
+      "given": "Lawrence L."
+    },
+    {
+      "raw": "Thomson, Elizabeth",
+      "family": "Thomson",
+      "given": "Elizabeth"
+    }
+  ],
+  "authors_text": "Wu, Lawrence L.; Thomson, Elizabeth",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2001,
+  "doi": "10.1111/j.1741-3737.2001.00682.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2001.00682.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2001.00682.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2001.00682.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

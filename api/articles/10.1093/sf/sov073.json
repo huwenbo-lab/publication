@@ -1,0 +1,30 @@
+{
+  "title": "The Impact of Immigrant Classmates on Educational Outcomes",
+  "abstract": "Despite a growing empirical literature on the relationship between immigrant concentration in schools and student achievement, few studies address longer-run outcomes. Using Norwegian registry data, this study addresses the causal impact of immigrant classmates on educational attainment in young adulthood, as well as academic track enrollment and educational achievement in school, within six entire student cohorts in their final tenth grade of compulsory education (310,742 students, 751 schools). Controlling for school fixed effects, native peer characteristics, and observed characteristics of students and their families, we find that students in cohorts with more immigrant peers within the same school have slightly higher propensities to complete upper-secondary education by their early twenties. The effects are about three times stronger among students from immigrant families compared to students with native-born parents, and are also robust to adjustment for average grade achievement. Moreover, these peer effects seem to mainly reflect the presence of immigrant classmates from high-achieving origin regions, while we do not find corresponding negative effects of exposure to immigrant classmates from low-achieving origin regions. In conclusion, these results indicate a modest positive influence of exposure to immigrant classmates on, primarily, immigrant students' educational attainment several years later.",
+  "authors": [
+    {
+      "raw": "Hermansen, Are Skeie",
+      "family": "Hermansen",
+      "given": "Are Skeie"
+    },
+    {
+      "raw": "Birkelund, Gunn Elisabeth",
+      "family": "Birkelund",
+      "given": "Gunn Elisabeth"
+    }
+  ],
+  "authors_text": "Hermansen, Are Skeie; Birkelund, Gunn Elisabeth",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sov073",
+  "doi_url": "https://doi.org/10.1093/sf/sov073",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov073",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov073.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

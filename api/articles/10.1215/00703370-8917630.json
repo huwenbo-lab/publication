@@ -1,0 +1,55 @@
+{
+  "title": "Analyzing the Effect of Time in Migration Measurement Using Georeferenced Digital Trace Data",
+  "abstract": "Georeferenced digital trace data offer unprecedented flexibility in migration estimation. Because of their high temporal granularity, many migration estimates can be generated from the same data set by changing the definition parameters. Yet despite the growing application of digital trace data to migration research, strategies for taking advantage of their temporal granularity remain largely underdeveloped. In this paper, we provide a general framework for converting digital trace data into estimates of migration transitions and for systematically analyzing their variation along a quasi-continuous time scale, analogous to a survival function. From migration theory, we develop two simple hypotheses regarding how we expect our estimated migration transition functions to behave. We then test our hypotheses on simulated data and empirical data from three platforms in two internal migration contexts: geotagged Tweets and Gowalla check-ins in the United States, and cell-phone call detail records in Senegal. Our results demonstrate the need for evaluating the internal consistency of migration estimates derived from digital trace data before using them in substantive research. At the same time, however, common patterns across our three empirical data sets point to an emergent research agenda using digital trace data to study the specific functional relationship between estimates of migration and time and how this relationship varies by geography and population characteristics.",
+  "authors": [
+    {
+      "raw": "Fiorio, Lee",
+      "family": "Fiorio",
+      "given": "Lee"
+    },
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    },
+    {
+      "raw": "Abel, Guy",
+      "family": "Abel",
+      "given": "Guy"
+    },
+    {
+      "raw": "Hill, Johnathan",
+      "family": "Hill",
+      "given": "Johnathan"
+    },
+    {
+      "raw": "Pestre, Gabriel",
+      "family": "Pestre",
+      "given": "Gabriel"
+    },
+    {
+      "raw": "Letouze, Emmanuel",
+      "family": "Letouze",
+      "given": "Emmanuel"
+    },
+    {
+      "raw": "Cai, Jixuan",
+      "family": "Cai",
+      "given": "Jixuan"
+    }
+  ],
+  "authors_text": "Fiorio, Lee; Zagheni, Emilio; Abel, Guy; Hill, Johnathan; Pestre, Gabriel; Letouze, Emmanuel; Cai, Jixuan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8917630",
+  "doi_url": "https://doi.org/10.1215/00703370-8917630",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8917630",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8917630.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

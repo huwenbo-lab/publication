@@ -1,0 +1,30 @@
+{
+  "title": "Decomposing primary and secondary effects: A new decomposition method",
+  "abstract": "One strand of educational inequality research aims at decomposing the effect of social class origin on educational choices into primary and secondary effects. We formalize this distinction and present a new and simple method that allows empirical assessment of the relative magnitudes of primary and secondary effects. Contrary to other decomposition methods, this new method is unbiased, is more intuitive, and decomposes effects of both discrete and continuous measures of social origin. The method also provides analytically derived statistical tests and is easily calculated with standard statistical software. We give examples using the Danish Longitudinal Survey of Youth. (C) 2010 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Karlson, Kristian Bernt",
+      "family": "Karlson",
+      "given": "Kristian Bernt"
+    },
+    {
+      "raw": "Anders, Holm",
+      "family": "Anders",
+      "given": "Holm"
+    }
+  ],
+  "authors_text": "Karlson, Kristian Bernt; Anders, Holm",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2011,
+  "doi": "10.1016/j.rssm.2010.12.005",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2010.12.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2010.12.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2010.12.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

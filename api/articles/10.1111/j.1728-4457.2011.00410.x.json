@@ -1,0 +1,45 @@
+{
+  "title": "Fiscal Externalities of Becoming a Parent",
+  "abstract": "Theoretical and empirical results suggest that there are externalities to childbearing, but those results usually assume that these externalities accrue uniformly within a homogeneous population. We advance this argument by developing separate estimates of the fiscal externalities associated with parents-those who devote time or material resources to minor children-and nonparents. Our analysis uses data from the US Panel Study of Income Dynamics on the age profiles of taxes paid and publicly funded benefits consumed by parents and nonparents, together with a previously developed intertemporal economic-demographic accounting model. The accounting framework takes into account the net fiscal impacts of future generations as well as the present population. Our findings indicate that, with a 3 percent discount rate, parents produce a substantial net fiscal externality, about $217,000 in 2009 dollars. This is equivalent to a lifetime annuity of nearly $8,100 per year beginning at age 18. The results are sensitive to both the discount rate used and the proportion of parents within the cohort.",
+  "authors": [
+    {
+      "raw": "Wolf, Douglas A.",
+      "family": "Wolf",
+      "given": "Douglas A."
+    },
+    {
+      "raw": "Lee, Ronald D.",
+      "family": "Lee",
+      "given": "Ronald D."
+    },
+    {
+      "raw": "Miller, Timothy",
+      "family": "Miller",
+      "given": "Timothy"
+    },
+    {
+      "raw": "Donehower, Gretchen",
+      "family": "Donehower",
+      "given": "Gretchen"
+    },
+    {
+      "raw": "Genest, Alexandre",
+      "family": "Genest",
+      "given": "Alexandre"
+    }
+  ],
+  "authors_text": "Wolf, Douglas A.; Lee, Ronald D.; Miller, Timothy; Donehower, Gretchen; Genest, Alexandre",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2011,
+  "doi": "10.1111/j.1728-4457.2011.00410.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2011.00410.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2011.00410.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2011.00410.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The legacy of lynching and southem homicide",
+  "abstract": "This article assesses the influence of the legacy of lynching on homicide levels within the contemporary South. Drawing upon literature relating to the brutalizing effects of capital punishment and self-help in the absence of access to formal law, this study hypothesizes that a measure of the frequency of lynching in the past will exhibit positive effects on contemporary homicide levels for the overall population and for race-specific populations (white and black offending). The results of negative binomial regression analyses of counties and county-clusters in the South are generally consistent with expectations. The measure of lynching exhibits consistently positive effects on overall homicide levels and levels of black offending in models with controls for other theoretically relevant covariates. For whites, the effect of lynching emerges for a particular type of homicide: interracial homicides that evolve out of interpersonal conflicts. At a general level, our findings underscore the relevance of the historical context for understanding variation in contemporary levels of homicide.",
+  "authors": [
+    {
+      "raw": "Messner, SE",
+      "family": "Messner",
+      "given": "SE"
+    },
+    {
+      "raw": "Baller, RD",
+      "family": "Baller",
+      "given": "RD"
+    },
+    {
+      "raw": "Zevenbergen, MP",
+      "family": "Zevenbergen",
+      "given": "MP"
+    }
+  ],
+  "authors_text": "Messner, SE; Baller, RD; Zevenbergen, MP",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1177/000312240507000405",
+  "doi_url": "https://doi.org/10.1177/000312240507000405",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240507000405",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240507000405.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

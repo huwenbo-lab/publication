@@ -1,0 +1,35 @@
+{
+  "title": "Race/Ethnic Differences in Spatial Distance Between Adult Children and Their Mothers",
+  "abstract": "Objective This brief study examines race/ethnic differences in geographic distance to mothers among adults in the United States. Background Race/ethnic differences in rates of adult children living with their mothers in the United States are well documented, but spatial distances beyond shared housing are not. Method Spatial distances between residential locations of adults aged 25 years and older and their biological mothers are estimated using the 2013 Panel Study of Income Dynamics for Hispanics, Blacks, and Whites. Multinomial logistic regression models and nonlinear decomposition techniques are used to assess the role of demographic factors, socioeconomic status, and health of the child and mother in accounting for race/ethnic differences in adult child-mother proximity. Results Blacks are more likely than Whites to live with their mother and more likely to live within 30 miles but not coresident, whereas Whites are more likely to live more than 500 miles away. Geographic proximity to the mother is distinct for Hispanics with nearly one third having their mother outside the United States. Demographic, socioeconomic, and health factors account for the fact that Blacks are about twice as likely as Whites to live with their mother but do not fully account for large White-Black differences in proximity outside the household. The most important factor accounting for White-Black differences is marital status for coresidence, but education for proximity in the United States beyond coresidence. Conclusion New national estimates illustrate the complexity of race/ethnic differences in proximity to mothers that are not reflected in studies of coresidence.",
+  "authors": [
+    {
+      "raw": "Reyes, Adriana",
+      "family": "Reyes",
+      "given": "Adriana"
+    },
+    {
+      "raw": "Schoeni, Robert F.",
+      "family": "Schoeni",
+      "given": "Robert F."
+    },
+    {
+      "raw": "Choi, HwaJung",
+      "family": "Choi",
+      "given": "HwaJung"
+    }
+  ],
+  "authors_text": "Reyes, Adriana; Schoeni, Robert F.; Choi, HwaJung",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12614",
+  "doi_url": "https://doi.org/10.1111/jomf.12614",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12614",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12614.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

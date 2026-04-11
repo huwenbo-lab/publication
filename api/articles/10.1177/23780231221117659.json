@@ -1,0 +1,35 @@
+{
+  "title": "Income Inequality in College Enrollment and Degree Attainment During and After the Great Recession Years",
+  "abstract": "Prior research using the Current Population Surveys (CPS) documents a dramatic equalization in U.S. college enrollments based on family income starting in 2014. However, the measurement of income for independent young adults is problematic; we correct for this by imputing their incomes. We complement our reanalysis of CPS data with data from the Panel Study for Income Dynamics-Transition into Adulthood (PSID-TA). Both data sets show moderate, nonsignificant reductions in the income gap in college enrollments for cohorts coming of age during and after the Recession. Extending the CPS analysis to examine inequalities during the COVID pandemic, we show more or less unchanged inequalities for the cohort coming of age in 2020. Using the PSID-TA to examine degree attainment, we again find stable income inequalities in obtaining any degree and a bachelor’s degree for pre-Recession and Recession-era cohorts.",
+  "authors": [
+    {
+      "raw": "Klugman, Joshua",
+      "family": "Klugman",
+      "given": "Joshua"
+    },
+    {
+      "raw": "Arteta, Genesis D.",
+      "family": "Arteta",
+      "given": "Genesis D."
+    },
+    {
+      "raw": "Lee, Jennifer C.",
+      "family": "Lee",
+      "given": "Jennifer C."
+    }
+  ],
+  "authors_text": "Klugman, Joshua; Arteta, Genesis D.; Lee, Jennifer C.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221117659",
+  "doi_url": "https://doi.org/10.1177/23780231221117659",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221117659",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221117659.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

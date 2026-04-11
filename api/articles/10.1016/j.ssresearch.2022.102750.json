@@ -1,0 +1,35 @@
+{
+  "title": "Socioeconomic stratification and trajectories of social trust during COVID-19",
+  "abstract": "Extant theory suggests that crises such as the COVID-19 pandemic may change people's trust in others. A crisis-to-solidarity model suggests that people become more trusting, while a crisis-tonegative experience theory suggests that people lose trust, and a stability perspective predicts that social trust will largely remain unchanged. We argue that, when a crisis occurs, trust is likely to fall into distinct trajectories of change that will conform to these different perspectives, and placement into contrasting trajectories of change will be predicated on socioeconomic position. To test our argument, we use data from multiple waves of Canadian national surveys conducted from September 2019 to February 2021 and examine how two major forms of social trust-generalized trust and neighborhood trust-changed during the COVID-19 pandemic. A longitudinal latent class analysis (LLCA) shows increasing, decreasing, and stable trajectories of trust, which conform to each of the proposed patterns. We further show that individuals' baseline socioeconomic position is a strong indicator of the placement in these trajectories. Both forms of trust increased among individuals with higher socioeconomic positions while decreased among individuals with lower socioeconomic positions. This research contributes to the literature on the social context of trust by reconciling contrasting views of the consequences of crises for trust, and also in showing that the segmentation of changes in trust are proscribed by structures of social stratification.",
+  "authors": [
+    {
+      "raw": "Wu, Cary",
+      "family": "Wu",
+      "given": "Cary"
+    },
+    {
+      "raw": "Bierman, Alex",
+      "family": "Bierman",
+      "given": "Alex"
+    },
+    {
+      "raw": "Schieman, Scott",
+      "family": "Schieman",
+      "given": "Scott"
+    }
+  ],
+  "authors_text": "Wu, Cary; Bierman, Alex; Schieman, Scott",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2022.102750",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102750",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102750",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102750.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

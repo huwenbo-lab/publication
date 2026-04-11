@@ -1,0 +1,30 @@
+{
+  "title": "The economics of ethnic marriages: Endogamy and the social status of minority groups",
+  "abstract": "This study examines the relationship between ethnic endogamy and socioeconomic status (SES) within the socioeconomically divergent Jewish and Native-Chilean Mapuche communities of Santiago, Chile. By leveraging the Hispanic naming convention to analyze dual ethnic surnames, we trace endogamy patterns across comprehensive datasets that go back to 1884 up to the present. Our quantile regression analysis reveals that individuals from the lower SES brackets of the Jewish community and the higher brackets of the Mapuche community are more likely to have mixed ethnic backgrounds. This finding shows a nuanced interplay between socioeconomic standing and marital choices, suggesting that these factors significantly influence the persistence and transformation of SES within minority groups. The study introduces the Ecological Model of Ethnic Disaffiliation, providing a theoretical framework that explains how socioeconomic outliers within ethnic groups could lead to a narrowing of their socioeconomic range over generations.",
+  "authors": [
+    {
+      "raw": "Bro, Naim",
+      "family": "Bro",
+      "given": "Naim"
+    },
+    {
+      "raw": "Morav, Liran",
+      "family": "Morav",
+      "given": "Liran"
+    }
+  ],
+  "authors_text": "Bro, Naim; Morav, Liran",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1111/1468-4446.13133",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13133",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13133",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13133.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

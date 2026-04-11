@@ -1,0 +1,40 @@
+{
+  "title": "A Social History of Disease: Contextualizing the Rise and Fall of Social Inequalities in Cause-Specific Mortality",
+  "abstract": "Fundamental cause theory posits that social inequalities in health arise because of unequal access to flexible resources, including knowledge, money, power, prestige, and beneficial social connections, which allow people to avoid risk factors and adopt protective factors relevant in a particular place. In this study, we posit that diseases should also be put into temporal context. We characterize diseases as transitioning through four stages at a given time: (1) natural mortality, characterized by no knowledge about risk factors, preventions, or treatments for a disease in a population; (2) producing inequalities, characterized by unequal diffusion of innovations; (3) reducing inequalities, characterized by increased access to health knowledge; and (4) reduced mortality/disease elimination, characterized by widely available prevention and effective treatment. For illustration, we pair an ideal-types analysis with mortality data to explore hypothesized incidence rates of diseases. Although social inequalities exist in incidence rates of many diseases, the cause, extent, and direction of inequalities change systematically in relation to human intervention. This article highlights opportunities for further development, specifically highlighting the role of stage duration in maintaining social inequalities in cause-specific mortality.",
+  "authors": [
+    {
+      "raw": "Clouston, Sean A. P.",
+      "family": "Clouston",
+      "given": "Sean A. P."
+    },
+    {
+      "raw": "Rubin, Marcie S.",
+      "family": "Rubin",
+      "given": "Marcie S."
+    },
+    {
+      "raw": "Phelan, Jo C.",
+      "family": "Phelan",
+      "given": "Jo C."
+    },
+    {
+      "raw": "Link, Bruce G.",
+      "family": "Link",
+      "given": "Bruce G."
+    }
+  ],
+  "authors_text": "Clouston, Sean A. P.; Rubin, Marcie S.; Phelan, Jo C.; Link, Bruce G.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0495-5",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0495-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0495-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0495-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

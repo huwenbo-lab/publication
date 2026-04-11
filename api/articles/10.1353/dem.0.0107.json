@@ -1,0 +1,40 @@
+{
+  "title": "Biodemographic modeling of the links between fertility motivation and fertility outcomes in the NLSY79",
+  "abstract": "Abstract In spite of long-held beliefs that traits related to reproductive success tend to become fixed by evolution with little or no genetic variation, there is now considerable evidence that the natural variation of fertility within populations is genetically influenced and that a portion of that influence is related to the motivational precursors to fertility. We conduct a two-stage analysis to examine these inferences in a time-ordered multivariate context. First, using data from the National Longitudinal Survey of Youth, 1979, and LISREL analysis, we develop a structural equation model in which five hypothesized motivational precursors to fertility, measured in 1979–1982, predict both a child-timing and a child-number outcome, measured in 2002. Second, having chosen two time-ordered sequences of six variables from the SEM to represent our phenotypic models, we use Mx to conduct both univariate and multivariate behavioral genetic analyses with the selected variables. Our results indicate that one or more genes acting within a gene network have additive effects that operate through child-number desires to affect both the timing of the next child born and the final number of children born, that one or more genes acting through a separate network may have additive effects operating through gender role attitudes to produce downstream effects on the two fertility outcomes, and that no genetic variance is associated with either child-timing intentions or educational intentions.",
+  "authors": [
+    {
+      "raw": "Miller, Warren B.",
+      "family": "Miller",
+      "given": "Warren B."
+    },
+    {
+      "raw": "Bard, David E.",
+      "family": "Bard",
+      "given": "David E."
+    },
+    {
+      "raw": "Pasta, David J.",
+      "family": "Pasta",
+      "given": "David J."
+    },
+    {
+      "raw": "Rodgers, Joseph Lee",
+      "family": "Rodgers",
+      "given": "Joseph Lee"
+    }
+  ],
+  "authors_text": "Miller, Warren B.; Bard, David E.; Pasta, David J.; Rodgers, Joseph Lee",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0107",
+  "doi_url": "https://doi.org/10.1353/dem.0.0107",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0107",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0107.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

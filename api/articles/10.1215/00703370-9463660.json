@@ -1,0 +1,40 @@
+{
+  "title": "Inequality in Place: Effects of Exposure to Neighborhood-Level Economic Inequality on Mortality",
+  "abstract": "This study con trib utes to the debate on whether income inequal ity is harm- ful for health by addressing sev eral ana lyt i cal weaknesses of pre vi ous stud ies. Using the Panel Study of Income Dynamics in com bi na tion with tract -level mea sures of income inequal ity in the United States, we esti mate the effects of differ en tial expo sure to income inequal ity dur ing three decades of the life course on mor tal ity. Our study is among the first to con sider the impli ca tions of income inequal ity within U.S. tracts for mor tal ity using lon gi tu di nal and indi vid ual-level data. In addi tion, we improve upon prior work by account ing for the dynamic rela tion ship between local areas and indi vid u als' health, using mar ginal struc tural mod els to account for changes in expo- sure to local income inequal ity. In con trast to other stud ies that found no sig nifi cant rela tion between income inequal ity and mor tal ity, we find that recent expo sure to higher local inequal ity predicts higher rel a tive risk of mor tal ity among indi vid u als at ages 45 or older.",
+  "authors": [
+    {
+      "raw": "Zhao, Linda",
+      "family": "Zhao",
+      "given": "Linda"
+    },
+    {
+      "raw": "Hessel, Philipp",
+      "family": "Hessel",
+      "given": "Philipp"
+    },
+    {
+      "raw": "Thomas, Juli Simon",
+      "family": "Thomas",
+      "given": "Juli Simon"
+    },
+    {
+      "raw": "Beckfield, Jason",
+      "family": "Beckfield",
+      "given": "Jason"
+    }
+  ],
+  "authors_text": "Zhao, Linda; Hessel, Philipp; Thomas, Juli Simon; Beckfield, Jason",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9463660",
+  "doi_url": "https://doi.org/10.1215/00703370-9463660",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9463660",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9463660.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

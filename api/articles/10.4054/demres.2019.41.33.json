@@ -1,0 +1,35 @@
+{
+  "title": "Internal migration in the United States: A comprehensive comparative assessment of the Consumer Credit Panel",
+  "abstract": "BACKGROUND We introduce and provide the first comprehensive comparative assessment of the Federal Reserve Bank of New York/Equifax Consumer Credit Panel (CCP) as a valuable and underutilized dataset for studying internal migration within the United States. Relative to other data sources on US internal migration, the CCP permits highly detailed cross-sectional and longitudinal analyses of migration, both temporally and geographically. OBJECTIVE We seek to demonstrate the comparative utility and some of the unique advantages of the CCP relative to other data sources on US internal migration. METHODS We compare cross-sectional and longitudinal estimates of migration from the CCP to similar estimates derived from the American Community Survey, the Current Population Survey, Internal Revenue Service data, the National Longitudinal Survey of Youth, the Panel Study of Income Dynamics, and the Survey of Income and Program Participation. RESULTS Our results firmly establish the comparative utility and clearly illustrate some of the unique advantages of the CCP relative to other data sources on US internal migration. CONCLUSIONS We conclude by identifying some profitable directions for future research on US internal migration using the CCP, as well as reminding readers of the strengths and limitations of these data. CONTRIBUTION We provide an introduction to the CCP as a comprehensive comparative point of reference to stimulate future research on US internal migration using these data. More broadly, this paper contributes to research on the use of nontraditional data sources to study migration given well-documented problems with the availability, quality, and comparability of migration data from traditional sources.",
+  "authors": [
+    {
+      "raw": "DeWaard, Jack",
+      "family": "DeWaard",
+      "given": "Jack"
+    },
+    {
+      "raw": "Johnson, Janna",
+      "family": "Johnson",
+      "given": "Janna"
+    },
+    {
+      "raw": "Whitaker, Stephan",
+      "family": "Whitaker",
+      "given": "Stephan"
+    }
+  ],
+  "authors_text": "DeWaard, Jack; Johnson, Janna; Whitaker, Stephan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.33",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

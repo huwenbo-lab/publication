@@ -1,0 +1,35 @@
+{
+  "title": "Education-Occupation Linkage in the Highly-Educated Workforce: Patterns and Sources of Difference by Race/Ethnicity",
+  "abstract": "The present study investigates education-to-occupation linkage by race/ethnicity in the increasingly diverse educated workforce of the United States. We use a recently introduced linkage approach and identify two dimensions of linkage between educational credentials and occupation (vertical and horizontal linkage). Using data from the 2014 –2018 American Community Survey, we find notable differences in the total strength of education-occupation linkage by race/ethnicity. Highly-educated Black workers experience weaker vertical and horizontal linkage than their white counterparts; this is also true for Hispanic workers, though to a lesser extent. Ethnoracial differences in vertical linkage are stronger and more consistent than those in horizontal linkage. We decompose group differences in linkage strength and find that differences in occupational distributions and the composition-invariant structural component account for a large part of the overall difference in linkage strength. Separate analyses by degree levels show that, while the linkage is generally stronger for advanced degree holders than bachelor’s degree holders, ethnoracial differences remain similar between the two groups of highly-educated workers.",
+  "authors": [
+    {
+      "raw": "Lu, Yao",
+      "family": "Lu",
+      "given": "Yao"
+    },
+    {
+      "raw": "Li, Xiaoguang",
+      "family": "Li",
+      "given": "Xiaoguang"
+    },
+    {
+      "raw": "Elbers, Benjamin",
+      "family": "Elbers",
+      "given": "Benjamin"
+    }
+  ],
+  "authors_text": "Lu, Yao; Li, Xiaoguang; Elbers, Benjamin",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2022,
+  "doi": "10.1177/09500170221133714",
+  "doi_url": "https://doi.org/10.1177/09500170221133714",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170221133714",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170221133714.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

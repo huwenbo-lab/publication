@@ -1,0 +1,25 @@
+{
+  "title": "The gradient in sub-saharan Africa: Socioeconomic status and HIV/AIDS",
+  "abstract": "Abstract Using data from the Demographic and Health Surveys (DHS) for Burkina Faso (2003), Cameroon (2004), Ghana (2003), Kenya (2003), and Tanzania (2003), I investigate the cross- sectional relationship between HIV status and socioeconomic status. I find evidence of a robust positive education gradient in HIV infection, showing that, up to very high levels of education, better-educated respondents are more likely to be HIV-positive. Adults with six years of schooling are as much as three percentage points more likely to be infected with HIV than adults with no schooling. This gradient is not an artifact of age, sector of residence, or region of residence. With controls for sex, age, sector of residence, and region of residence, adults with six years of schooling are as much as 50% more likely to be infected with HIV than those with no schooling. Education is positively related to certain risk factors for HIV, including the likelihood of having premarital sex. Estimates of the wealth gradient in HIV, by contrast, vary substantially across countries and are sensitive to the choice of measure of wealth.",
+  "authors": [
+    {
+      "raw": "Fortson, Jane G.",
+      "family": "Fortson",
+      "given": "Jane G."
+    }
+  ],
+  "authors_text": "Fortson, Jane G.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0006",
+  "doi_url": "https://doi.org/10.1353/dem.0.0006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

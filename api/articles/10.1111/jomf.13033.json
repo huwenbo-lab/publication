@@ -1,0 +1,30 @@
+{
+  "title": "Trends in child support receipt and regularity in the United States, 1996-2018",
+  "abstract": "Objective: This study examined trends in child support receipt and regularity in the U.S. from 1996 to 2018, as well as whether inequality in these child support outcomes has grown by mothers' education, marital status, and race. Background: Child support from noncustodial fathers is an important income source for custodial mothers. Yet, many custodial mothers do not receive any child support or receive irregular payments. Demographic, economic, and policy changes over the past 20 years suggest custodial mothers' child support receipt, and especially regular receipt, may be declining, particularly among socioeconomically-disadvantaged mothers. Method: Using nationally-representative data from the Panel Study of Income Dynamics, this study describes trends in child support receipt and regularity among custodial mothers (N = 11,456). Regression models were used to examine maternal and household characteristics associated with child support receipt and regularity and to examine how gaps in child support receipt and regularity by maternal characteristics have changed over time. Results: Child support receipt and regularity declined by nearly 30% between 1996 and 2018. Any receipt, and especially regular receipt, declined by a larger margin for less- educated and never married mothers relative to higher- educated and married mothers, respectively. Conclusion: Growing gaps in child support receipt and regularity by mothers' education and marital status likely contribute to economic inequality, highlighting the need for reforms in child support policy and the social safety net.",
+  "authors": [
+    {
+      "raw": "Pilarz, Alejandra Ros",
+      "family": "Pilarz",
+      "given": "Alejandra Ros"
+    },
+    {
+      "raw": "Cuesta, Laura",
+      "family": "Cuesta",
+      "given": "Laura"
+    }
+  ],
+  "authors_text": "Pilarz, Alejandra Ros; Cuesta, Laura",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13033",
+  "doi_url": "https://doi.org/10.1111/jomf.13033",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13033",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13033.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Even in preschools: analysing the preschool and neighbourhood segregation gap in Swedish municipalities",
+  "abstract": "Preschool segregation has not been the focus of research efforts to the same extent as compulsory school segregation. This is at least in part a consequence of the lack of large-scale, registry-based data sources on where children live and where they attend preschool. This paper presents a full-population account of discrepancies between preschool segregation and neighbourhood segregation covering the Swedish population. Data includes preschool children as well as their parents' income, education, ethnic background, and place of residence. Findings indicate that while preschool segregation does not differ from neighbourhood segregation to the same extent as previous research has shown for school segregation, there are systematic differences affecting the level of segregation across Sweden and in various types of municipalities. Studies on school level show segregation by foreign background and income to be most prominent, whilst preschool segregation mostly concerns parents' educational attainment. Furthermore, the findings show that the geographical distribution of private and public preschools affects levels of segregation. This conclusion supports the general argument that the free-choice reform in the Swedish school system tends to raise levels of school segregation above the levels of residential segregation-even in preschools.",
+  "authors": [
+    {
+      "raw": "Fjellborg, Andreas Alm",
+      "family": "Fjellborg",
+      "given": "Andreas Alm"
+    },
+    {
+      "raw": "Forsberg, Hakan",
+      "family": "Forsberg",
+      "given": "Hakan"
+    }
+  ],
+  "authors_text": "Fjellborg, Andreas Alm; Forsberg, Hakan",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad004",
+  "doi_url": "https://doi.org/10.1093/esr/jcad004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

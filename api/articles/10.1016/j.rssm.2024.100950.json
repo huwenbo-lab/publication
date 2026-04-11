@@ -1,0 +1,40 @@
+{
+  "title": "Earnings trajectories of individuals in same-sex and different-sex couples: Evidence from administrative data",
+  "abstract": "We unite two interrelated bodies of work - a growing literature on sexual orientation earnings gaps and a rich tradition of research on intragenerational career trajectories - to examine how labor markets and life courses interact to produce gender and sexual orientation inequalities over time. We use the 1982-2019 Canadian Longitudinal Administrative Databank, a unique longitudinal database constructed from tax records, to answer core questions about the mechanisms that underlie sexual orientation earnings inequality. Growth curve models reveal how sexual orientation earnings gaps evolve over time spent in the workforce, and how they relate to differences in demographic and work characteristics for those in same- and different-sex couples at various points in the life course. We find that sexual orientation earnings gaps converge and diverge at unique career stages for men and women, and at each stage relate to unique mechanisms, especially work characteristics and family status. We find little significant variation in average earnings trajectories by sexual orientation across cohorts who were subject to differing legal and social environments surrounding sexual orientation.",
+  "authors": [
+    {
+      "raw": "Denier, Nicole",
+      "family": "Denier",
+      "given": "Nicole"
+    },
+    {
+      "raw": "Yang, Chih-lan Winnie",
+      "family": "Yang",
+      "given": "Chih-lan Winnie"
+    },
+    {
+      "raw": "St-Denis, Xavier",
+      "family": "St-Denis",
+      "given": "Xavier"
+    },
+    {
+      "raw": "Waite, Sean",
+      "family": "Waite",
+      "given": "Sean"
+    }
+  ],
+  "authors_text": "Denier, Nicole; Yang, Chih-lan Winnie; St-Denis, Xavier; Waite, Sean",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100950",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100950",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100950",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100950.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

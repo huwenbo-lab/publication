@@ -1,0 +1,35 @@
+{
+  "title": "Hiring Discrimination Under Pressures to Diversify: Gender, Race, and Diversity Commodification across Job Transitions in Software Engineering",
+  "abstract": "White, male-dominated professions in the United States are marked with substantial gender and racial inequality in career advancement, yet they often face pressures to increase diversity. In these contexts, are theories of employer biases based on gender and racial stereotypes sufficient to explain patterns of hiring discrimination during common career transitions in the external labor market? If not, how and why do discrimination patterns deviate from predictions? Through a case study of software engineering, we first draw from a large-scale audit study and demonstrate unexpected patterns of hiring screening discrimination: while employers discriminate in favor of White men among early-career job applicants seeking lateral positions, for both early-career and senior workers applying to senior jobs, Black men and Black women face no discrimination compared to White men, and White women are preferred. Drawing on in-depth interviews, we explain these patterns of discrimination by demonstrating how decision-makers incorporate diversity value-applicants' perceived worth for their contribution to organizational diversity-into hiring screening decisions, alongside biases. We introduce diversity commodification as the market-based valuative process by which diversity value varies across job level and intersectional groups. This article offers important implications for our understanding of gender, race, and employer decision-making in modern U.S. organizations.",
+  "authors": [
+    {
+      "raw": "Weisshaar, Katherine",
+      "family": "Weisshaar",
+      "given": "Katherine"
+    },
+    {
+      "raw": "Chavez, Koji",
+      "family": "Chavez",
+      "given": "Koji"
+    },
+    {
+      "raw": "Hutt, Tania",
+      "family": "Hutt",
+      "given": "Tania"
+    }
+  ],
+  "authors_text": "Weisshaar, Katherine; Chavez, Koji; Hutt, Tania",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1177/00031224241245706",
+  "doi_url": "https://doi.org/10.1177/00031224241245706",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224241245706",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224241245706.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

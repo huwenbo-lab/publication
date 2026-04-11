@@ -1,0 +1,35 @@
+{
+  "title": "Human Capital and the Gender Gap in Authority in European Countries",
+  "abstract": "In this article, we investigate why women are less likely than men to hold a position of workplace authority and why countries differ in this respect. We focus on the importance of investments in different types of human capital and the returns on them. Whether leave policies, the availability of part-time work, and gender desegregation in education contribute to the explanation of cross-national differences in the gender gap in authority is also investigated. Data from the European Social Survey 2004/05 and country-specific information were used to estimate several hierarchical models. Looking at Europe as a whole, we find evidence that overall work experience, experience with the current employer, and working hours help explain the gender gap in authority. In contrast, educational specialization and career interruptions due to childcare demands or unemployment appear to matter less. Lower returns on human capital for women are found only for the experience with the current employer. Human capital composition in different countries does not explain cross-national differences in the authority gender gap, nor do leave arrangements and gender segregation in education. We do find, though, that the gender gap in authority is smaller in countries where working part-time is common.",
+  "authors": [
+    {
+      "raw": "Abendroth, A.-K.",
+      "family": "Abendroth",
+      "given": "A.-K."
+    },
+    {
+      "raw": "Maas, I.",
+      "family": "Maas",
+      "given": "I."
+    },
+    {
+      "raw": "van der Lippe, T.",
+      "family": "van der Lippe",
+      "given": "T."
+    }
+  ],
+  "authors_text": "Abendroth, A.-K.; Maas, I.; van der Lippe, T.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1093/esr/jcr059",
+  "doi_url": "https://doi.org/10.1093/esr/jcr059",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcr059",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcr059.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

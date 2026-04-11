@@ -1,0 +1,30 @@
+{
+  "title": "Revisiting racial differences in college attendance: The role of historically black colleges and universities",
+  "abstract": "It is well known that the college enrollment rates of blacks have historically trailed those of whites, although in recent decades the actual size of the racial gap has fluctuated. Prior research has shown that blacks are more likely than whites to attend college after high school graduation, net of socioeconomic background and academic performance. It has been suggested that this net black advantage may be spurious-due to blacks' relatively high enrollment rates in historically black colleges and universities. With data from the National Education Longitudinal Study of 1988-1994, this hypothesis is tested by examining black-white differences in enrollment in different types of colleges: any college, four-year colleges, non-black four-year colleges, and academically selective four-year colleges. Overall, results confirm the existence of a net black advantage at low levels of family socioeconomic background. The implications of these findings for racial equality in access to higher education are explored.",
+  "authors": [
+    {
+      "raw": "Bennett, PR",
+      "family": "Bennett",
+      "given": "PR"
+    },
+    {
+      "raw": "Xie, Y",
+      "family": "Xie",
+      "given": "Y"
+    }
+  ],
+  "authors_text": "Bennett, PR; Xie, Y",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2003,
+  "doi": "10.2307/1519739",
+  "doi_url": "https://doi.org/10.2307/1519739",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F1519739",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/1519739.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

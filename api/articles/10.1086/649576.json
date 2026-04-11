@@ -1,0 +1,30 @@
+{
+  "title": "Interneighborhood Migration, Race, and Environmental Hazards: Modeling Microlevel Processes of Environmental Inequality",
+  "abstract": "This study combines longitudinal individual-level data with neighborhood-level industrial hazard data to examine the extent and sources of environmental inequality. Results indicate that profound racial and ethnic differences in proximity to industrial pollution persist when differences in individual education, household income, and other microlevel characteristics are controlled. Examination of underlying migration patterns further reveals that black and Latino householders move into neighborhoods with significantly higher hazard levels than do comparable whites and that racial differences in proximity to neighborhood pollution are maintained more by these disparate mobility destinations than by differential effects of pollution on the decision to move.",
+  "authors": [
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    },
+    {
+      "raw": "Downey, Liam",
+      "family": "Downey",
+      "given": "Liam"
+    }
+  ],
+  "authors_text": "Crowder, Kyle; Downey, Liam",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2010,
+  "doi": "10.1086/649576",
+  "doi_url": "https://doi.org/10.1086/649576",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F649576",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/649576.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

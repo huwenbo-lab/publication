@@ -1,0 +1,35 @@
+{
+  "title": "Why Are Women Penalized in Product Markets?",
+  "abstract": "Previous research using data from eBay found that women receive lower prices than men when selling the exact same products. The current project explores why this gender gap obtains and why some products have larger gender price gaps than others. To answer these questions, we exploit the variation in the gender price gap across products found in the earlier eBay data together with new survey data on the perceptions people have about seemingly male-typed and female-typed products and about people’s uncertainty about the prices of products. We show that women are penalized more for selling products that are perceived to be typically owned by men compared to products that are perceived to be typically owned by women. We further demonstrate that the effects of gender stereotypes are greater when buyers’ uncertainty increases: when buyers are uncertain about their willingness to pay for a product or about its market price, women sellers are penalized more.",
+  "authors": [
+    {
+      "raw": "Kricheli-Katz, Tamar",
+      "family": "Kricheli-Katz",
+      "given": "Tamar"
+    },
+    {
+      "raw": "Regev, Tali",
+      "family": "Regev",
+      "given": "Tali"
+    },
+    {
+      "raw": "Correll, Shelley",
+      "family": "Correll",
+      "given": "Shelley"
+    }
+  ],
+  "authors_text": "Kricheli-Katz, Tamar; Regev, Tali; Correll, Shelley",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119861024",
+  "doi_url": "https://doi.org/10.1177/2378023119861024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119861024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119861024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

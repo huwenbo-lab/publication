@@ -1,0 +1,50 @@
+{
+  "title": "Education, Smoking, and Cohort Change: Forwarding a Multidimensional Theory of the Environmental Moderation of Genetic Effects",
+  "abstract": "Sociologists interested in the effects of genes on complex social outcomes claim environmental conditions structure when and how genes matter, but they have only studied environmental moderation of genetic effects on single traits at a time (gene-by-environment interactions). In this article, we propose that the social environment can also transform the genetic link between two traits. Taking the relationship between educational attainment and smoking as an exemplary case, we use genome-wide methods to examine whether genetic variants linked to education are also linked to smoking, and whether the strength of this relationship varies across birth cohorts. Results suggest that the genetic relationship between education and smoking is stronger among U.S. adults born between 1974 and 1983 than among those born between 1920 and 1959. These results are supported by replication in additional data from the United Kingdom. Environmental conditions that differ across birth cohorts may result in the bundling of genetic effects on multiple outcomes, as anticipated by classic cohort theory. We introduce genetic correlation-by-environment interaction [(rG)xE] as a sociologically-informed model that will become especially useful as data for more well-powered analyses become available.",
+  "authors": [
+    {
+      "raw": "Wedow, Robbee",
+      "family": "Wedow",
+      "given": "Robbee"
+    },
+    {
+      "raw": "Zacher, Meghan",
+      "family": "Zacher",
+      "given": "Meghan"
+    },
+    {
+      "raw": "Huibregtse, Brooke M.",
+      "family": "Huibregtse",
+      "given": "Brooke M."
+    },
+    {
+      "raw": "Harris, Kathleen Mullan",
+      "family": "Harris",
+      "given": "Kathleen Mullan"
+    },
+    {
+      "raw": "Domingue, Benjamin W.",
+      "family": "Domingue",
+      "given": "Benjamin W."
+    },
+    {
+      "raw": "Boardman, Jason D.",
+      "family": "Boardman",
+      "given": "Jason D."
+    }
+  ],
+  "authors_text": "Wedow, Robbee; Zacher, Meghan; Huibregtse, Brooke M.; Harris, Kathleen Mullan; Domingue, Benjamin W.; Boardman, Jason D.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1177/0003122418785368",
+  "doi_url": "https://doi.org/10.1177/0003122418785368",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122418785368",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122418785368.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

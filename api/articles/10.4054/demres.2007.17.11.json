@@ -1,0 +1,30 @@
+{
+  "title": "Stochastic forecast of the population of Poland, 2005-2050",
+  "abstract": "Forecasting the population of Poland is very challenging. Firstly, the country has been undergoing rapid demographic changes. In the 1990s, they were influenced by the political, economic, and social consequences of the collapse of the communist regime",
+  "authors": [
+    {
+      "raw": "Matysiak, Anna",
+      "family": "Matysiak",
+      "given": "Anna"
+    },
+    {
+      "raw": "Nowok, Beata",
+      "family": "Nowok",
+      "given": "Beata"
+    }
+  ],
+  "authors_text": "Matysiak, Anna; Nowok, Beata",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2007,
+  "doi": "10.4054/demres.2007.17.11",
+  "doi_url": "https://doi.org/10.4054/demres.2007.17.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2007.17.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2007.17.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

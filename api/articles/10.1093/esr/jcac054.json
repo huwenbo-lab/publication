@@ -1,0 +1,45 @@
+{
+  "title": "Are classrooms equalizers or amplifiers of inequality? A genetically informative investigation of educational performance",
+  "abstract": "We investigate the influence of the classroom environment on educational performance and its dependency on parental socio-economic status (SES). The classroom environment can have a compensatory effect and decrease educational inequality, in which case the classroom context is more important for children originating from lower SES families. Alternatively, there can be an amplifying effect, in which case the classroom environment is more important for high-SES children. This would increase educational inequality. We investigate the two alternatives by applying a twin design to data from 4,216 twin pairs from the Netherlands Twin Register (birth cohorts 1991-2002). Some twin pairs share a classroom and other twins from the same pair are in different classrooms. We use this fact to decompose the variance in educational performance at the end of primary school into four components: genetic variance, classroom variance, shared environmental variance, and non-shared environmental variance. We find that of the total variance in educational performance, only a small part (2 per cent) can be attributed to differences between classrooms within schools. The influence of the classroom was larger when the level of parental SES was lower (up to 7.7 per cent) indicating a compensatory effect.",
+  "authors": [
+    {
+      "raw": "Stienstra, Kim",
+      "family": "Stienstra",
+      "given": "Kim"
+    },
+    {
+      "raw": "Knigge, Antonie",
+      "family": "Knigge",
+      "given": "Antonie"
+    },
+    {
+      "raw": "Maas, Ineke",
+      "family": "Maas",
+      "given": "Ineke"
+    },
+    {
+      "raw": "de Zeeuw, Eveline L.",
+      "family": "de Zeeuw",
+      "given": "Eveline L."
+    },
+    {
+      "raw": "Boomsma, Dorret, I",
+      "family": "Boomsma",
+      "given": "Dorret, I"
+    }
+  ],
+  "authors_text": "Stienstra, Kim; Knigge, Antonie; Maas, Ineke; de Zeeuw, Eveline L.; Boomsma, Dorret, I",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac054",
+  "doi_url": "https://doi.org/10.1093/esr/jcac054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

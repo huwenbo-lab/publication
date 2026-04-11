@@ -1,0 +1,35 @@
+{
+  "title": "The 'New Great Migration' of Blacks to the US South: Estimating duration of residence in the absence of retrospective information",
+  "abstract": "BACKGROUND Prior research on the 'New Great Migration' of Blacks to the U.S. South from other U.S. regions has neglected the issue of how long Black migrants have lived or can be expected to live in the South. This is a critical omission because duration of residence is an important precondition for and an indicator of migrants' integration in receiving areas. Unfortunately, data limitations prevent estimating Black migrants' duration of residence in the South in the usual way, using information from retrospective questions and life histories. OBJECTIVE Taking an unconventional but familiar approach, this study develops the first estimates of Black migrants' expected duration of residence in the South to shed light on the temporal characteristics of the New Great Migration. METHODS Microdata from four U.S. censuses and an adaptation to the accounting procedures in multiregional life tables are used to estimate Black migrants' expected duration of residence in the South between 1965 and 2000 for four birth cohorts (those born in 1920, 1930, 1940, and 1950), with uncertainty. We further disaggregate our results by place of birth (South versus non-South). RESULTS Black migrants could expect to live about half of their remaining life between 1965 and 2000 in the South, with variation across cohorts and by place of birth. CONCLUSIONS This study provides a needed point of reference for research on the New Great Migration of Blacks to the South, and shows how analyses of the age and origin-destination structure of migration flows can reveal their implied temporal dynamics.",
+  "authors": [
+    {
+      "raw": "DeWaard, Jack",
+      "family": "DeWaard",
+      "given": "Jack"
+    },
+    {
+      "raw": "Curtis, Katherine J.",
+      "family": "Curtis",
+      "given": "Katherine J."
+    },
+    {
+      "raw": "Fuguitt, Glenn V.",
+      "family": "Fuguitt",
+      "given": "Glenn V."
+    }
+  ],
+  "authors_text": "DeWaard, Jack; Curtis, Katherine J.; Fuguitt, Glenn V.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.31",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

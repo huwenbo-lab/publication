@@ -1,0 +1,40 @@
+{
+  "title": "Exploring the origin of sentencing disparities in the Crown Court: Using text mining techniques to differentiate between court and judge disparities",
+  "abstract": "Research on sentence consistency in England and Wales has focused on disparities between courts, with differences between judges generally ignored. This is largely due to the limitations in official data. Using text mining techniques from Crown Court sentence records available online we generate a sample of 7,212 violent and sexual offences where both court and judge are captured. Multilevel time-to-event analyses of sentence length demonstrate that most disparities originate at the judge, not the court-level. Two important implications follow: i) the extent of sentencing consistency in England and Wales has been underestimated; and ii) the importance attributed to the location in which sentences are passed in England and Wales and elsewhere needs to be revisited. Further analysis of the judge level disparities identifies judicial rotation across courts as a practice conducive of sentence consistency, which suggests that sentencing guidelines could be complemented with other, less intrusive, changes in judicial practice to promote consistency.",
+  "authors": [
+    {
+      "raw": "Pina-Sanchez, Jose",
+      "family": "Pina-Sanchez",
+      "given": "Jose"
+    },
+    {
+      "raw": "Grech, Diana",
+      "family": "Grech",
+      "given": "Diana"
+    },
+    {
+      "raw": "Brunton-Smith, Ian",
+      "family": "Brunton-Smith",
+      "given": "Ian"
+    },
+    {
+      "raw": "Sferopoulos, Dimitrios",
+      "family": "Sferopoulos",
+      "given": "Dimitrios"
+    }
+  ],
+  "authors_text": "Pina-Sanchez, Jose; Grech, Diana; Brunton-Smith, Ian; Sferopoulos, Dimitrios",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.102343",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102343",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102343",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102343.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

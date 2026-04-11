@@ -1,0 +1,35 @@
+{
+  "title": "Does perceived gender conflict shape young Koreans' attitudes toward marriage and childbearing?",
+  "abstract": "ObjectiveThis study examines how perceived gender conflict relates to attitudes toward marriage and childbearing among never-married childless young adults in South Korea, with a focus on gender differences.BackgroundSince the young feminist movement in South Korea emerged around 2015, gender conflict has become a significant social issue. This heightened perception of gender conflict may exert an influence on young adults' views on marriage and childbearing.MethodThe study used data from the 2022 Comprehensive Survey on Youth; a nationally representative survey of Koreans aged 19-34. Logistic regression techniques were employed for analysis.ResultsYoung adults in South Korea are less likely to have positive attitudes toward marriage and childbearing as perceived gender conflict increases, and this association is more pronounced in women than in men.ConclusionIncreased perception of gender conflict correlates with negative attitudes toward marriage and childbearing, potentially accelerating the trend toward fewer marriages and a lower fertility rate among young Koreans. Young women, in particular, may be more inclined to reject marriage and childbearing in a gender-unequal society facing a significant backlash.",
+  "authors": [
+    {
+      "raw": "Lee, Min-Ah",
+      "family": "Lee",
+      "given": "Min-Ah"
+    },
+    {
+      "raw": "Song, Rira",
+      "family": "Song",
+      "given": "Rira"
+    },
+    {
+      "raw": "Park, Juyeon",
+      "family": "Park",
+      "given": "Juyeon"
+    }
+  ],
+  "authors_text": "Lee, Min-Ah; Song, Rira; Park, Juyeon",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13106",
+  "doi_url": "https://doi.org/10.1111/jomf.13106",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13106",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13106.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

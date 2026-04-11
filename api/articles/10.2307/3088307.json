@@ -1,0 +1,30 @@
+{
+  "title": "Availability of Child Care in the United States: A Description and Analysis of Data Sources",
+  "abstract": "Lack of high-quality, affordable, and accessible child care is an often-cited impediment to a manageable balance between work and family. Researchers, however, have been restricted by a scarcity of data on the availability of child care across all U.S. communities. In this paper we describe and evaluate several indicators of child care availability that have been released by the U.S. Census Bureau over the last 15 years. Using community- and individual-level analyses, we find that these data sources are useful for indicating child care availability within communities, even though they were collected for other purposes. Furthermore, our results generally suggest that the data on child care availability are equally valid across communities of different urbanicity and average income levels, although it appears that larger geographic areas more accurately capture the child care market of centers than that of family day care providers. Our analyses indicate that center child care is least available in nonmetropolitan, poor communities, and that family day care is most available in nonmetropolitan, mixed-income communities. We discuss the benefits and limitations of the data sources, and point to directions for future data developments and research.",
+  "authors": [
+    {
+      "raw": "Gordon, Rachel A.",
+      "family": "Gordon",
+      "given": "Rachel A."
+    },
+    {
+      "raw": "Chase-Lansdale, P. Lindsay",
+      "family": "Chase-Lansdale",
+      "given": "P. Lindsay"
+    }
+  ],
+  "authors_text": "Gordon, Rachel A.; Chase-Lansdale, P. Lindsay",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.2307/3088307",
+  "doi_url": "https://doi.org/10.2307/3088307",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088307",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088307.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Measuring extended families over time in informal settlements in Nairobi, Kenya: Retention and data consistency in a two-round survey",
+  "abstract": "BACKGROUND Researchers have increasingly turned to longitudinal data to understand how the family environment of children changes over time and how this change affects their wellbeing. While the value of such efforts is clear, the inherent challenges of collecting robust data over time may limit or bias our understanding of family complexity. OBJECTIVE Drawing on data from an exploratory study on kinship structure and support for low income single mothers and their young children in Nairobi, Kenya, this paper aims to (1) assess the strengths and weaknesses of our approach in reflecting the complexities of kinship dynamics and (2) analyze how methodological issues such as selection and reporting inconsistency can influence our understanding of the role of kin in children's lives. METHODS The analysis used data from two waves of the Kinship Support Tree (KST) project. The starting sample consisted of 462 single mothers with at least one child under the age of 7, with data collected on approximately 5,000 resident and nonresident kin. Descriptive statistics and conventional tests of significance were used to analyze selection factors and inconsistencies in reporting across waves. RESULTS The study yielded a 91% retention rate after six months and the analysis provides some assurance that selectivity from attrition and reporting inconsistency are not entirely driven by shifts in support provision by kin. However, the selectivity of the sample underscores caution in generalizing the results. CONCLUSIONS While the challenges of conducting follow-up surveys such as the KST are serious, these findings suggest that it is possible to collect consistent data on kinship structure and support from the perspective of children in a mobile population. Tracking kinship structure over time using the KST is not only feasible but more importantly is unlikely to lead to incomplete or biased understanding of kinship.",
+  "authors": [
+    {
+      "raw": "Madhavan, Sangeetha",
+      "family": "Madhavan",
+      "given": "Sangeetha"
+    },
+    {
+      "raw": "Beguy, Donatien",
+      "family": "Beguy",
+      "given": "Donatien"
+    },
+    {
+      "raw": "Clark, Shelley",
+      "family": "Clark",
+      "given": "Shelley"
+    }
+  ],
+  "authors_text": "Madhavan, Sangeetha; Beguy, Donatien; Clark, Shelley",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.44",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.44",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.44",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.44.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

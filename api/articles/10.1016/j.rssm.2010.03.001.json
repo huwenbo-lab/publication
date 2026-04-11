@@ -1,0 +1,25 @@
+{
+  "title": "Nominal comparability is not enough: (In-)equivalence of construct validity of cross-national measures of educational attainment in the European Social Survey",
+  "abstract": "Educational attainment is a core social background variable covered in each and every survey of individuals. Since educational institutions and qualifications are difficult to compare across countries, cross-national surveys pose a particular challenge to the measurement of educational attainment. This study performs a comparative construct validation of a number of cross-national measures of education using the European Social Survey. The measures comprise two versions of the International Standard Classification of Education (ISCED). the education scheme developed in the project 'Comparative Analysis of Social Mobility in Industrial Nations' (CASMIN) and hypothetical as well as actual years of education. The first ISCED measure corresponds to the well-known main ISCED levels. The second one, the European Survey Version of ISCED (ES-ISCED) developed for this study, represents an effort to reflect different types of education within levels of education by considering ISCED sub-dimensions, most importantly 'programme orientation'. Using linear regression models, it is shown how much explanatory power educational attainment loses when different cross-national variables are used, as compared to country-specific educational attainment variables (CSEVs), and how these losses vary across measures and countries. The dependent variable used for the construct validation is social status as measured by the International Socio-Economic Index (ISEI). Results suggest that harmonisation always entails some loss of explanatory power for at least a few countries. However, there are clear performance differences between the comparable measures in terms of both the average amount of losses as well as the distribution of losses across countries. The use of actual years of education as well as the levels-only ISCED strongly attenuates the education-social status association on average, but also to very different degrees across countries. CASMIN and ES-ISCED fare considerably better: they show the lowest losses of explanatory power and the lowest variation of losses across countries. Hypothetical years of education lie in between. Some practical implications are then proposed. e.g. on how to implement cross-national measures of educational attainment in international surveys. (C) 2010 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Schneider, Silke L.",
+      "family": "Schneider",
+      "given": "Silke L."
+    }
+  ],
+  "authors_text": "Schneider, Silke L.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2010,
+  "doi": "10.1016/j.rssm.2010.03.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2010.03.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2010.03.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2010.03.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

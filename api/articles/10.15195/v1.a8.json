@@ -1,0 +1,25 @@
+{
+  "title": "Parental Age and Cognitive Disability among Children in the United States",
+  "abstract": "Some risks of having children at older ages are widely documented, and the \"biological clock\" is a popular media concern, but the association between cognitive disability generally and both mothers' and fathers' age is not well known. This article assesses descriptively the relationship between children's cognitive disability and parents' age at birth, using a sample of 353,119 children aged five to eleven living with two married parents from the 2009-2011 American Community Survey. Cognitive disability varied by parental age categories from 1.8 percent to 5.4 percent, with overall rates of 2.2 percent. Odds of disability were much more strongly associated with mothers' age at birth than with fathers' age at birth, with the highest odds for children whose mothers were age 45 or higher at the time of their birth (adjusted odds ratio 2.7 relative to age 30 to 34) and the lowest for those born to mothers in their early 30s. These results demonstrate that the risk is strongly associated with the mother's age at birth-but not the father's. This is consistent with previous research showing that it is the mother's health, rather than age per se, that is most important for the health of their children.",
+  "authors": [
+    {
+      "raw": "Cohen, Philip",
+      "family": "Cohen",
+      "given": "Philip"
+    }
+  ],
+  "authors_text": "Cohen, Philip",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2014,
+  "doi": "10.15195/v1.a8",
+  "doi_url": "https://doi.org/10.15195/v1.a8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv1.a8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v1.a8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

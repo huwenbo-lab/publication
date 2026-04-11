@@ -1,0 +1,35 @@
+{
+  "title": "The relative pay for foreign work: A novel evidence from home and host countries",
+  "abstract": "The literature has robustly documented a negative migrant-native wage gap in developed economies. Yet empirical evidence of pay differences has been elusive for developing countries. We approach this question by leveraging internationally harmonised microdata with 1.5 million individuals from 6 transition and developing countries and 15 OECD economies spanning from 1995 to 2016 and employ counterfactual decomposition techniques which allow us to control for individual-productivity and job-specific characteristics, and explain up to 74% of the observed immigrant-native wage gap. The Blinder-Oaxaca baseline results indicate that, vis-`a-vis comparable workers born in developed economies, the pay for workers born in transition and developing economies is discounted both in their home country labour markets and - if migrating - also in developed host country labour markets. However, the unexplained native-to-migrant wage gap remains sizeable in most countries even after controlling for productivity differentials (26% and more). Cross-country correlation analyses provide a direct empirical evidence of the link between variation in unobserved job characteristics and skills among foreign-born and nativeborn workers and wage gap, while the labour market institutions and especially the labour market discrimination environment are of a second-order importance.",
+  "authors": [
+    {
+      "raw": "Cupak, Andrej",
+      "family": "Cupak",
+      "given": "Andrej"
+    },
+    {
+      "raw": "Ciaian, Pavel",
+      "family": "Ciaian",
+      "given": "Pavel"
+    },
+    {
+      "raw": "Kancs, d'Artis",
+      "family": "Kancs",
+      "given": "d'Artis"
+    }
+  ],
+  "authors_text": "Cupak, Andrej; Ciaian, Pavel; Kancs, d'Artis",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2023.102977",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102977",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102977",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102977.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

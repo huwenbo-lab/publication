@@ -1,0 +1,40 @@
+{
+  "title": "Neighborhoods with the Highest Eviction Filing Rates Have the Lowest Levels of COVID-19 Vaccination",
+  "abstract": "The aim of this visualization is to determine whether populations at greatest risk for eviction have been vaccinated against COVID-19 prior to the end of the U.S. federal eviction moratorium. The authors identified nine jurisdictions in which both records of recent eviction filings and data on COVID-19 vaccination were available at the ZIP code level. In every jurisdiction, the ZIP codes with the highest rates of eviction filing during the pandemic had the lowest vaccination rates. These areas are also disproportionately home to majority Black and Hispanic populations. Given previous research demonstrating links between eviction and the spread of COVID-19, the present findings support the continuation of eviction protections. Communities at risk for eviction should be prioritized in vaccination campaigns.",
+  "authors": [
+    {
+      "raw": "Jin, Olivia",
+      "family": "Jin",
+      "given": "Olivia"
+    },
+    {
+      "raw": "Lemmerman, Emily",
+      "family": "Lemmerman",
+      "given": "Emily"
+    },
+    {
+      "raw": "Hepburn, Peter",
+      "family": "Hepburn",
+      "given": "Peter"
+    },
+    {
+      "raw": "Desmond, Matthew",
+      "family": "Desmond",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Jin, Olivia; Lemmerman, Emily; Hepburn, Peter; Desmond, Matthew",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211040885",
+  "doi_url": "https://doi.org/10.1177/23780231211040885",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211040885",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211040885.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

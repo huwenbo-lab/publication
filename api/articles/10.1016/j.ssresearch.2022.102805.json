@@ -1,0 +1,85 @@
+{
+  "title": "Measurement invariance in the social sciences: Historical development, methodological challenges, state of the art, and future perspectives",
+  "abstract": "This review summarizes the current state of the art of statistical and (survey) methodological research on measurement (non)invariance, which is considered a core challenge for the comparative social sciences. After outlining the historical roots, conceptual details, and standard procedures for measurement invariance testing, the paper focuses in particular on the statistical developments that have been achieved in the last 10 years. These include Bayesian approximate measurement invariance, the alignment method, measurement invariance testing within the multilevel modeling framework, mixture multigroup factor analysis, the measurement invariance explorer, and the response shift-true change decomposition approach. Furthermore, the contri-bution of survey methodological research to the construction of invariant measurement in-struments is explicitly addressed and highlighted, including the issues of design decisions, pretesting, scale adoption, and translation. The paper ends with an outlook on future research perspectives.",
+  "authors": [
+    {
+      "raw": "Leitgoeb, Heinz",
+      "family": "Leitgoeb",
+      "given": "Heinz"
+    },
+    {
+      "raw": "Seddig, Daniel",
+      "family": "Seddig",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Asparouhov, Tihomir",
+      "family": "Asparouhov",
+      "given": "Tihomir"
+    },
+    {
+      "raw": "Behr, Dorothee",
+      "family": "Behr",
+      "given": "Dorothee"
+    },
+    {
+      "raw": "Davidov, Eldad",
+      "family": "Davidov",
+      "given": "Eldad"
+    },
+    {
+      "raw": "De Roover, Kim",
+      "family": "De Roover",
+      "given": "Kim"
+    },
+    {
+      "raw": "Jak, Suzanne",
+      "family": "Jak",
+      "given": "Suzanne"
+    },
+    {
+      "raw": "Meitinger, Katharina",
+      "family": "Meitinger",
+      "given": "Katharina"
+    },
+    {
+      "raw": "Menold, Natalja",
+      "family": "Menold",
+      "given": "Natalja"
+    },
+    {
+      "raw": "Muthen, Bengt",
+      "family": "Muthen",
+      "given": "Bengt"
+    },
+    {
+      "raw": "Rudnev, Maksim",
+      "family": "Rudnev",
+      "given": "Maksim"
+    },
+    {
+      "raw": "Schmidt, Peter",
+      "family": "Schmidt",
+      "given": "Peter"
+    },
+    {
+      "raw": "van de Schoot, Rens",
+      "family": "van de Schoot",
+      "given": "Rens"
+    }
+  ],
+  "authors_text": "Leitgoeb, Heinz; Seddig, Daniel; Asparouhov, Tihomir; Behr, Dorothee; Davidov, Eldad; De Roover, Kim; Jak, Suzanne; Meitinger, Katharina; Menold, Natalja; Muthen, Bengt; Rudnev, Maksim; Schmidt, Peter; van de Schoot, Rens",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2022.102805",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102805",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102805",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102805.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

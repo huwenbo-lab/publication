@@ -1,0 +1,30 @@
+{
+  "title": "Maternal educational attainment and infant mortality in the United States: Does the gradient vary by race/ethnicity and nativity?",
+  "abstract": "BACKGROUND Maternal education-infant health gradients are flatter among foreign-born mothers than U.S.-born mothers; However, because common metrics of infant health are less predictive of infant mortality for some racial/ethnic and nativity groups, further study of maternal education-infant mortality gradients is necessary. OBJECTIVE We investigate whether maternal education-infant mortality gradients vary by race/ethnicity and nativity among infants born to mothers in the United States. METHODS We use data from the 1998-2002 National Vital Statistics Birth Cohort Linked Birth/Infant Death Data published by the National Center for Health Statistics (N = 17,520,140) to estimate logistic regression models predicting infant, neonatal, and postneonatal mortality by race/ethnicity and nativity. RESULTS The negative associations between maternal education and infant mortality are stronger for US-born mothers than foreign-born mothers. Among both groups, Non-Hispanic whites have the highest returns to education and Non-Hispanic blacks have the lowest returns. While foreign-born mothers are less likely to have an infant die than their native-born counterparts, this advantage is largest at the lowest levels of education and converges at the highest levels of education . For most racial/ethnic groups, the maternal education-infant mortality gradient is steeper during the postneonatal period than during the neonatal period. CONCLUSIONS The maternal education-infant mortality gradient varies substantially by the timing of infant death, race/ethnicity, and nativity. CONTRIBUTION This study extends the literature on nativity disparities in infant health by documenting how the maternal education-infant mortality gradient varies by nativity within racial/ethnic groups. To our knowledge, this is the first study to produce these estimates.",
+  "authors": [
+    {
+      "raw": "Green, Tiffany",
+      "family": "Green",
+      "given": "Tiffany"
+    },
+    {
+      "raw": "Hamilton, Tod G.",
+      "family": "Hamilton",
+      "given": "Tod G."
+    }
+  ],
+  "authors_text": "Green, Tiffany; Hamilton, Tod G.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.25",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Natives' Attitudes and Immigrants' Unemployment Durations",
+  "abstract": "In this study, we investigate how the attitude of nativesdefined as the perceived trustworthiness of citizens from different countriesaffects immigrants' labor market outcomes in Germany. Evidence in the literature suggests that barriers to economic assimilation might be higher for some groups of immigrants, but the role of natives' heterogeneous attitudes toward immigrants from different countries of origin has received little attention. Using individual-level panel data from the German Socio-Economic Panel covering the years 1984 to 2014, we apply survival analysis methods to model immigrants' unemployment durations. We find that lower levels of trust expressed by natives toward the citizens of a given country, measured using Eurobarometer surveys, are associated with increased unemployment durations for immigrants from this country. We show that this result is not driven by origin-specific unobserved heterogeneity and that it is robust to different specifications and alternative explanations.",
+  "authors": [
+    {
+      "raw": "Keita, Sekou",
+      "family": "Keita",
+      "given": "Sekou"
+    },
+    {
+      "raw": "Valette, Jerome",
+      "family": "Valette",
+      "given": "Jerome"
+    }
+  ],
+  "authors_text": "Keita, Sekou; Valette, Jerome",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00777-3",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00777-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00777-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00777-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

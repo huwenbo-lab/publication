@@ -1,0 +1,25 @@
+{
+  "title": "The Effects of Women's Labor Force Participation: An Explanation of Changes in Household Income Inequality",
+  "abstract": "Some previous studies of the relationship between women's labor force participation and household income inequality indicate that the promotion of the former has an equalizing effect on the latter; other studies insist that the promotion of women's labor force participation has a widening effect on household income inequality by way of the tendency toward assortative marriage. Hence, the relationship between women's labor force participation and household income inequality is unclear in the literature. This study aims to clarify the mechanism through which the interaction between household income and marriage produces social inequality by using mathematical and simulation-based approaches. The presented findings suggest that the promotion of women's labor force participation has a temporary widening effect on household income inequality, but an attenuating effect in the long run. They also state that assortative marriage itself has no widening effect on household income inequality, but rather an accelerating effect on widening inequality. Finally, by applying the model of that mechanism to Japan, I examine changes in household income inequality in that country.",
+  "authors": [
+    {
+      "raw": "Sudo, Naoki",
+      "family": "Sudo",
+      "given": "Naoki"
+    }
+  ],
+  "authors_text": "Sudo, Naoki",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox011",
+  "doi_url": "https://doi.org/10.1093/sf/sox011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

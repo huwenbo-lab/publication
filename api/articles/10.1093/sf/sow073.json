@@ -1,0 +1,30 @@
+{
+  "title": "Housework Now Takes Much Less Time: 85 Years of us Rural Women's Time Use",
+  "abstract": "Based on her analysis of published tables from US homemakers' 1924-32 week-long time use diaries collected by the US Department of Agriculture, Vanek (1974) concluded that housework time had not declined over the previous half-century-despite the diffusion of many time-saving home technologies. Although frequently challenged, this claim still survives in parts of the sociological literature; we use newly available evidence to refute it. Analysis of the original USDA diaries (many of which have now been recovered from the US National Archives), alongside more recent diary microdata from the American Heritage Time Use Study, reveals a pair of clear and contrary trends: a continuing decline in women's core housework (cooking and cleaning), partially offset by an increase of time in childcare and shopping. Names and addresses attached to the original diaries allow the identification of more than 93 percent of the USDA diarists in one or both of the 1920 and 1930 US Federal Censuses. Analysis (Oaxaca decomposition) of the household-and individual-level information from this source shows that most of the historical time shifts result not from changes in family demography or women's growing attachment to paid work over this period but from behavioral change, reflecting in part the spread of labor-saving domestic technology.",
+  "authors": [
+    {
+      "raw": "Gershuny, Jonathan",
+      "family": "Gershuny",
+      "given": "Jonathan"
+    },
+    {
+      "raw": "Harms, Teresa Atttracta",
+      "family": "Harms",
+      "given": "Teresa Atttracta"
+    }
+  ],
+  "authors_text": "Gershuny, Jonathan; Harms, Teresa Atttracta",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sow073",
+  "doi_url": "https://doi.org/10.1093/sf/sow073",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow073",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow073.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Between-School Ability Tracking and Ethnic Segregation in Secondary Schooling",
+  "abstract": "Between-school ability tracking-the assignment of students to different school types based on their prior achievement-is usually associated with increased ethnic segregation across schools. This article argues that stronger between-school ability tracking is not only associated with stronger ethnic sorting into school types, thus increasing segregation. At the same time, it hampers majority flight, majority members' avoidance of exposure to minority members, thus decreasing segregation. To identify the two-fold effect of tracking the article exploits a unique feature of the German secondary school system: regional variation in the strength of between-school ability tracking. Analyses rely on administrative data entailing geocoded information on all secondary schools in Germany in 2008/2009. Results corroborate expectations of a two-fold effect: there is indication that between-school ability tracking increases segregation via more sorting into tracks while at the same time decreasing it via less school sorting within each track and via less spatial sorting. This suggests that school reforms changing tracked school systems into more comprehensive school systems may have a weaker desegregating impact than expected.",
+  "authors": [
+    {
+      "raw": "Kruse, Hanno",
+      "family": "Kruse",
+      "given": "Hanno"
+    }
+  ],
+  "authors_text": "Kruse, Hanno",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy099",
+  "doi_url": "https://doi.org/10.1093/sf/soy099",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy099",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy099.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

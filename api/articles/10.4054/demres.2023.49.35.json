@@ -1,0 +1,35 @@
+{
+  "title": "Changes in birth seasonality in Spain: Data from 1863-1870 and 1900-2021",
+  "abstract": "BACKGROUND Changes in birth seasonality patterns have been documented in several countries, whether long-lasting or temporary. In Spain, a decline in and absence of birth seasonality was reported in 1941-2000. This study extends the analysis to the full period of available monthly data, exploring changes in birth seasonality in Spain, its connection to social/health phenomena, and its related effects.METHODS We analyzed the two available monthly data periods: 1863-1870 and 1900-2021 (n = 73,338,010 births). Fourier spectral analysis and Cosinor analysis were performed to study changes in the overall seasonal pattern. The Chow structural change test analyzed punctual variations. Box-Jenkins time series methodology was applied to estimate the impact of related events on the number of live births.RESULTS The overall monthly pattern changes, shifting the maximum of births from February in the 19th century to September in the 21st century, experiencing a loss of amplitude. Three structural change points were found in the monthly series of observed/expected births, in 1919, 1940, and 2020, corresponding to the influenza pandemic, the end of the Spanish Civil War, and the Covid-19 lockdown, with temporary impacts on live births of -8.1%, 38.8%, and -16.4%, respectively.CONCLUSION The seasonal pattern in Spain has changed substantially in shape and amplitude. While gradual changes appear to be associated with socioeconomic change, there is a clear connection between temporary changes and isolated social/health phenomena.CONTRIBUTION We study both gradual and temporary changes in birth seasonality, covering the entire period of data available in Spain, and quantify the effects of related isolated events.",
+  "authors": [
+    {
+      "raw": "Alcaide, Adela Recio",
+      "family": "Alcaide",
+      "given": "Adela Recio"
+    },
+    {
+      "raw": "Lopez, Cesar Perez",
+      "family": "Lopez",
+      "given": "Cesar Perez"
+    },
+    {
+      "raw": "Bolumar, Francisco",
+      "family": "Bolumar",
+      "given": "Francisco"
+    }
+  ],
+  "authors_text": "Alcaide, Adela Recio; Lopez, Cesar Perez; Bolumar, Francisco",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.35",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.35",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.35",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.35.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

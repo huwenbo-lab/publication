@@ -1,0 +1,30 @@
+{
+  "title": "The relation between cardiovascular mortality and development: A study of small areas in Brazil, 2001-2015",
+  "abstract": "BACKGROUND Cardiovascular disease (CVD) is one of the most serious health issues and the leading cause of death in Brazil, accounting for 30% of all deaths. Previous research shows that CVD mortality rates are not uniformly distributed across Brazil and have been changing over time. There is also previous evidence from other countries that economic development and improvements in the educational level have important effects in reducing CVD mortality. OBJECTIVE The goal of this paper is to contribute to this discussion by investigating the relation between CVD mortality and economic development over time and space, measured by gross domestic product (GDP) per capita, in Brazilian micro-regions from 2001 to 2015. METHODS We used data from the Mortality Information System (SIM-DATASUS) from 2001 to 2015. GDP data by micro-region were extracted from the Sistema IBGE de Recuperacao Automatica (SIDRA). Bivariate maps were used to establish the relationship between CVD mortality and GDP per capita. RESULTS The results show that GDP per capita increased in all micro-regions between 2001 and 2015. The results also suggest a rapid decline in CVD mortality in the South and Southeast micro-regions and a slower decline in the Central-West region. Meanwhile, the less developed North and Northeast regions showed an increase in CVD mortality over time. This spatial heterogeneity over the examined period appears to be associated with access to proper healthcare and strongly related to socioeconomic factors. In addition, males have higher mortality rates than females in approximately 72% of micro-regions. CONTRIBUTION This study provides useful clues for policymakers establishing public health planning and effective measures for the prevention of deaths from cardiovascular disease. The reduction of CVD mortality can positively impact GDP growth because it can increase life expectancy and consequently enable people to contribute to the Brazilian economy for a longer time.",
+  "authors": [
+    {
+      "raw": "Baptista, Emerson Augusto",
+      "family": "Baptista",
+      "given": "Emerson Augusto"
+    },
+    {
+      "raw": "Queiroz, Bernardo Lanza",
+      "family": "Queiroz",
+      "given": "Bernardo Lanza"
+    }
+  ],
+  "authors_text": "Baptista, Emerson Augusto; Queiroz, Bernardo Lanza",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.51",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.51",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.51",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.51.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

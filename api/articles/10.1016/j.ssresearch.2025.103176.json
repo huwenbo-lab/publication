@@ -1,0 +1,25 @@
+{
+  "title": "What are we modeling? An evaluation of depressive symptom trajectory models from adolescence to early midlife in the Add Health cohort",
+  "abstract": "It is critical to understand the development of depressive symptoms across life stages. Existing research has primarily explored this from a life course perspective, yielding inconsistent depressive trajectories, and raising questions as to whether life course processes best characterize the evolution of depressive symptoms across life stages. This study compares ten longitudinal models from four theoretical perspectives (life course, enduring, autoregressive, and hybrid) to identify the best-fitting, theoretically-informed model of depressive symptom development from adolescence to early midlife. Results indicate a hybrid model that combines enduring and autoregressive perspectives outperforms traditional life course models and best fits the data. This hybrid model suggests depressive symptom levels at baseline remain relatively stable across life stages, with past symptom levels predicting future levels. Additionally, it reveals racial/ethnic and gender differences in symptom levels in early adolescence, as well as racial/ethnic differences in longitudinal patterns. These findings advance theoretical understanding of depressive symptom development among US young adults across early portions of the life course.",
+  "authors": [
+    {
+      "raw": "Dennis, Alexis C.",
+      "family": "Dennis",
+      "given": "Alexis C."
+    }
+  ],
+  "authors_text": "Dennis, Alexis C.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103176",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103176",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103176",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103176.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

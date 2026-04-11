@@ -1,0 +1,35 @@
+{
+  "title": "Stochastic Population Forecasting Based on Combinations of Expert Evaluations Within the Bayesian Paradigm",
+  "abstract": "Abstract This article suggests a procedure to derive stochastic population forecasts adopting an expert-based approach. As in previous work by Billari et al. (2012), experts are required to provide evaluations, in the form of conditional and unconditional scenarios, on summary indicators of the demographic components determining the population evolution: that is, fertility, mortality, and migration. Here, two main purposes are pursued. First, the demographic components are allowed to have some kind of dependence. Second, as a result of the existence of a body of shared information, possible correlations among experts are taken into account. In both cases, the dependence structure is not imposed by the researcher but rather is indirectly derived through the scenarios elicited from the experts. To address these issues, the method is based on a mixture model, within the so-called Supra-Bayesian approach, according to which expert evaluations are treated as data. The derived posterior distribution for the demographic indicators of interest is used as forecasting distribution, and a Markov chain Monte Carlo algorithm is designed to approximate this posterior. This article provides the questionnaire designed by the authors to collect expert opinions. Finally, an application to the forecast of the Italian population from 2010 to 2065 is proposed.",
+  "authors": [
+    {
+      "raw": "Billari, Francesco C.",
+      "family": "Billari",
+      "given": "Francesco C."
+    },
+    {
+      "raw": "Graziani, Rebecca",
+      "family": "Graziani",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Melilli, Eugenio",
+      "family": "Melilli",
+      "given": "Eugenio"
+    }
+  ],
+  "authors_text": "Billari, Francesco C.; Graziani, Rebecca; Melilli, Eugenio",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0318-5",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0318-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0318-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0318-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

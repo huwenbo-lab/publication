@@ -1,0 +1,25 @@
+{
+  "title": "The diffusion of collective violence: Infectiousness, susceptibility, and mass media networks",
+  "abstract": "Using recent advances in event history diffusion modeling, this article reexamines the diffusion of racial rioting in the United States from 1964-71, uncovering several important aspects of diffusion not evident from prior analyses. First, riots are not independent events, and modeling them as such results in an inadequate understanding of the violence wave. Second, cities not only have differential intrinsic propensities to riot, but also different levels of responsiveness and resistance to diffusion from other riots. Third, implied networks related to mass media distribution provide the pathway along which riot diffusion is transmitted. These combined results underscore the necessity of conceptualizing riots as a series of interdependent events, which diffuse in different patterns depending on the characteristics of the riot and the city in which it occurs, and they further accentuate the paramount importance of the mass media in creating and sustaining collective violence and protest waves.",
+  "authors": [
+    {
+      "raw": "Myers, DJ",
+      "family": "Myers",
+      "given": "DJ"
+    }
+  ],
+  "authors_text": "Myers, DJ",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2000,
+  "doi": "10.1086/303110",
+  "doi_url": "https://doi.org/10.1086/303110",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F303110",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/303110.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

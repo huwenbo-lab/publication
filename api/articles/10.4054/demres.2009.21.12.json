@@ -1,0 +1,35 @@
+{
+  "title": "Schelling's Segregation Model: Parameters, scaling, and aggregation",
+  "abstract": "Thomas Schelling proposed a simple spatial model to illustrate how, even with relatively mild assumptions on each individual's nearest neighbor preferences, an integrated city would likely unravel to a segregated city, even if all individuals prefer in",
+  "authors": [
+    {
+      "raw": "Singh, Abhinav",
+      "family": "Singh",
+      "given": "Abhinav"
+    },
+    {
+      "raw": "Vainchtein, Dmitri",
+      "family": "Vainchtein",
+      "given": "Dmitri"
+    },
+    {
+      "raw": "Weiss, Howard",
+      "family": "Weiss",
+      "given": "Howard"
+    }
+  ],
+  "authors_text": "Singh, Abhinav; Vainchtein, Dmitri; Weiss, Howard",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2009,
+  "doi": "10.4054/demres.2009.21.12",
+  "doi_url": "https://doi.org/10.4054/demres.2009.21.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2009.21.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2009.21.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

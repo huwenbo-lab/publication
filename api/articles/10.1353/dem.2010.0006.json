@@ -1,0 +1,25 @@
+{
+  "title": "What can we learn from (and about) global aging?",
+  "abstract": "Abstract Although aging is a global phenomenon, there are large differences across countries in both the speed of aging and the current age composition. Furthermore, countries adopt vastly different policies. This creates a natural laboratory that scientists can use to understand how policies affect outcomes. I discuss under what circumstances data from different countries can be used for inference about policy effects. Although comparable health and retirement data are currently being collected in some 25 countries, the use of such data requires careful modeling of differences in institutions and in response styles across countries.",
+  "authors": [
+    {
+      "raw": "Kapteyn, Arie",
+      "family": "Kapteyn",
+      "given": "Arie"
+    }
+  ],
+  "authors_text": "Kapteyn, Arie",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.2010.0006",
+  "doi_url": "https://doi.org/10.1353/dem.2010.0006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2010.0006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2010.0006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

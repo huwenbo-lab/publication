@@ -1,0 +1,25 @@
+{
+  "title": "Cohort estimates of nonmarital fertility for U.S. Women",
+  "abstract": "Abstract Historical trends in U.S. nonmarital fertility have been compiled almost exclusively from vital statistics on births. This paper complements this historical record by providing cohort estimates of nonmarital fertility for cohorts of U.S. women spanning approximately 50 years of cohort experience. Life table estimates using retrospective marital and fertility histories in the June 1980, 1985, 1990, and 1995 Current Population Surveys reveal nonnegligible levels of nonmarital fertility historically. For women born between 1925 and 1929, nearly 1 in 10 had at least one nonmarital birth by age 30. For women born between 1965 and 1969, more than 1 of 4 had one or more nonmarital births by age 30, with roughly 1 of 5 white, 3 of 5 black, and 1 in 3 Hispanic women having at least one nonmarital birth by age 30. Life table estimates reveal a twofold increase between ages 20 and 30 in the percentage of women with at least one child outside of formal marriage for all cohorts of white and Hispanic women, and an increase of roughly two-thirds for all cohorts of black women. I also document qualitative differences in nonmarital fertility by race/ethnicity, with the percentage of nonmarital births following a divorce or marital separation for white women approximately twice that for black or Hispanic women. Finally, I introduce a new measure, the cohort nonmarital fertility ratio (CNMFR), which provides a cohort complement to the standard period nonmarital fertility ratio. Conservative estimates reveal a roughly threefold increase in the CNMFR for women born from 1925-1929 to 1950-1954 for both whites and blacks, despite substantially higher levels of nonmarital fertility among black women. Overall, these findings reveal surprisingly high levels of nonmarital fertility for women born since the 1920s and confirm that nonmarital fertility has become an increasingly substantial component of overall U.S. fertility",
+  "authors": [
+    {
+      "raw": "Wu, Lawrence L.",
+      "family": "Wu",
+      "given": "Lawrence L."
+    }
+  ],
+  "authors_text": "Wu, Lawrence L.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.2008.0001",
+  "doi_url": "https://doi.org/10.1353/dem.2008.0001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2008.0001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2008.0001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

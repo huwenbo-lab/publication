@@ -1,0 +1,30 @@
+{
+  "title": "Minority Dropout in Higher Education: A Comparison of the United States and Norway Using Competing Risk Event History Analysis",
+  "abstract": "The objective of this article is to compare college persistence patterns among minority and majority students in universities and colleges in Norway with that of the United States. Despite differences in the educational systems and economic regimes, both countries face the common challenge of ensuring educational equity, especially among students from socioeconomically disadvantaged backgrounds and minority students. Using competing risk event history analysis, this article examines nationally representative samples of students to assess the relative year-to-year risk of dropping out from higher education among minority and majority students. We found that while the US higher education system tends to exacerbate initial socioeconomic inequalities between minority and majority students, there is no difference in the dropout risk among minority and majority students in Norway. Moreover, at the BA level, we found that minority students graduate at significantly lower rates than majority students in the United States, even when we control for dropping out. Again, there is no such difference in Norway. This indicates that even though minority students in Norway are also disproportionately from socioeconomically disadvantaged backgrounds, they are encountering fewer obstacles in higher education than minority students in the United States.",
+  "authors": [
+    {
+      "raw": "Reisel, L.",
+      "family": "Reisel",
+      "given": "L."
+    },
+    {
+      "raw": "Brekke, I.",
+      "family": "Brekke",
+      "given": "I."
+    }
+  ],
+  "authors_text": "Reisel, L.; Brekke, I.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2009,
+  "doi": "10.1093/esr/jcp045",
+  "doi_url": "https://doi.org/10.1093/esr/jcp045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcp045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcp045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

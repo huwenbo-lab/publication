@@ -1,0 +1,35 @@
+{
+  "title": "Liberalism and Postmaterialism in China: The Role of Social Class and Inequality",
+  "abstract": "The postmaterialist thesis holds that postmaterialist and liberal values tend to be strongest in affluent locations and among people in higher socioeconomic positions. We demonstrate the degree to which China fails to conform to these expectations and seek to account for Chinese exceptionalism. We use multilevel models fitted to 2006 Chinese General Social Survey data to test the postmaterialist thesis. In general, we find expected associations for postmaterialism but not for liberalism. Indicators of individual-level status, including household income, middle/upper class status, urban residence, and majority ethnic group status are not associated with liberalism. Provincial-level affluence is not positively associated with either postmaterialism or liberalism, while income inequality is positively associated with liberalism. We conclude that in highly collectivist cultures like China's, economic development can have unexpected effects on value change. Growing inequality, which people in lower-status positions perceive as a threat, can promote liberalism, while people who benefit most from rising affluence and growing inequality may be more inclined to support traditional than liberal values.",
+  "authors": [
+    {
+      "raw": "Zhang, Tony Huiquan",
+      "family": "Zhang",
+      "given": "Tony Huiquan"
+    },
+    {
+      "raw": "Brym, Robert",
+      "family": "Brym",
+      "given": "Robert"
+    },
+    {
+      "raw": "Andersen, Robert",
+      "family": "Andersen",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Zhang, Tony Huiquan; Brym, Robert; Andersen, Robert",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1080/21620555.2016.1227239",
+  "doi_url": "https://doi.org/10.1080/21620555.2016.1227239",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2016.1227239",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2016.1227239.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

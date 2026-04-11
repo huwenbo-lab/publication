@@ -1,0 +1,35 @@
+{
+  "title": "Emigration Rates From Sample Surveys: An Application to Senegal",
+  "abstract": "What is the emigration rate of a country, and how reliable is that figure? Answering these questions is not at all straightforward. Most data on international migration are census data on foreign-born population. These migrant stock data describe the immigrant population in destination countries but offer limited information on the rate at which people leave their country of origin. The emigration rate depends on the number leaving in a given period and the population at risk of leaving, weighted by the duration at risk. Emigration surveys provide a useful data source for estimating emigration rates, provided that the estimation method accounts for sample design. In this study, emigration rates and confidence intervals are estimated from a sample survey of households in the Dakar region in Senegal, which was part of the Migration between Africa and Europe survey. The sample was a stratified two-stage sample with oversampling of households with members abroad or return migrants. A combination of methods of survival analysis (time-to-event data) and replication variance estimation (bootstrapping) yields emigration rates and design-consistent confidence intervals that are representative for the study population.",
+  "authors": [
+    {
+      "raw": "Willekens, Frans",
+      "family": "Willekens",
+      "given": "Frans"
+    },
+    {
+      "raw": "Zinn, Sabine",
+      "family": "Zinn",
+      "given": "Sabine"
+    },
+    {
+      "raw": "Leuchter, Matthias",
+      "family": "Leuchter",
+      "given": "Matthias"
+    }
+  ],
+  "authors_text": "Willekens, Frans; Zinn, Sabine; Leuchter, Matthias",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0622-y",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0622-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0622-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0622-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

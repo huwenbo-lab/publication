@@ -1,0 +1,25 @@
+{
+  "title": "Searching Racism after George Floyd",
+  "abstract": "On May 25, 2020, George Floyd, a 46-year-old African American man, was killed by a white police officer in Minneapolis, Minnesota. His death led to U.S.-wide protest that would eventually cross borders, spanning multiple continents. The transnational diffusion of protest and movement frames is a recognized phenomenon in the study of contention. Less well documented are the consequences of such protest for political interest; absent survey data, this is difficult to measure. One alternative is to use Internet search data. This visualization uses Google Trends to document variation in search interest for “racism” across 101 countries and 32 languages during the period before and after George Floyd’s killing. In the majority of countries, there was significantly increased search interest that was sustained for at least two weeks. The findings suggest that transnational protest diffusion may lead to global increases in political interest.",
+  "authors": [
+    {
+      "raw": "Barrie, Christopher",
+      "family": "Barrie",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Barrie, Christopher",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120971507",
+  "doi_url": "https://doi.org/10.1177/2378023120971507",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120971507",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120971507.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

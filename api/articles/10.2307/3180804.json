@@ -1,0 +1,30 @@
+{
+  "title": "Child Gender and the Transition to Marriage",
+  "abstract": "We estimate the effect of a child's gender on the mother's probability of marriage or remarriage using data from the PSID Marital History and Childbirth and Adoption History Files. We find that the birth of a son speeds the transition into marriage when the child is born before the mother's first marriage. A competing-risks analysis shows that the positive effect of a son is stronger for marriages to the child's biological father than for other marriages. We find no significant effect of child gender on the mother's remarriage probabilities when the children are born within a previous marriage. These results are consistent with a marital-search model in which sons, more than daughters, increase the value of marriage relative to single parenthood.",
+  "authors": [
+    {
+      "raw": "Lundberg, Shelly",
+      "family": "Lundberg",
+      "given": "Shelly"
+    },
+    {
+      "raw": "Rose, Elaina",
+      "family": "Rose",
+      "given": "Elaina"
+    }
+  ],
+  "authors_text": "Lundberg, Shelly; Rose, Elaina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.2307/3180804",
+  "doi_url": "https://doi.org/10.2307/3180804",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3180804",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3180804.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

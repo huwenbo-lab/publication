@@ -1,0 +1,60 @@
+{
+  "title": "Exploring integration and migration dynamics: the research potentials of a large-scale longitudinal household study of refugees in Germany",
+  "abstract": "Forced migration has intensified in the 21st century, driven by conflicts, persecution, and political instability in regions such as the Middle East, Afghanistan, the Horn of Africa, South-East Asia, Latin America and, most recently, Ukraine. Germany has become a primary destination for refugees within the European Union and one of the largest among the OECD countries. The IAB-BAMF-SOEP Refugee Survey, lunched in 2016, is a high-quality longitudinal household panel study that documents the arrival and integration trajectories of refugees who came to Germany during and after the 2015/16 surge. Based on a register-based random sample and conducted annually, the survey is integrated into the German Socio-Economic Panel Study (SOEP) and linked to administrative data sources, allowing for population-level inference and rich longitudinal analyses. It encompasses a wide range of topics, including pre-migration biographies, flight experiences, entry and arrival procedures, legal status, and integration processes. The dataset includes approximately 22,000 individual respondents across 6,500 households, with data currently available for the years 2016 to 2021. This paper discusses the analytical potential of the dataset, highlighting areas where the data contributes to research on forced migration and refugee integration, and subsequently outlines the survey's structure, questionnaire topics, and key descriptive statistics.",
+  "authors": [
+    {
+      "raw": "Bruecker, Herbert",
+      "family": "Bruecker",
+      "given": "Herbert"
+    },
+    {
+      "raw": "Kosyakova, Yuliya",
+      "family": "Kosyakova",
+      "given": "Yuliya"
+    },
+    {
+      "raw": "Rother, Nina",
+      "family": "Rother",
+      "given": "Nina"
+    },
+    {
+      "raw": "Zinn, Sabine",
+      "family": "Zinn",
+      "given": "Sabine"
+    },
+    {
+      "raw": "Liebau, Elisabeth",
+      "family": "Liebau",
+      "given": "Elisabeth"
+    },
+    {
+      "raw": "Gider, Wenke",
+      "family": "Gider",
+      "given": "Wenke"
+    },
+    {
+      "raw": "Schwanhaeuser, Silvia",
+      "family": "Schwanhaeuser",
+      "given": "Silvia"
+    },
+    {
+      "raw": "Siegert, Manuel",
+      "family": "Siegert",
+      "given": "Manuel"
+    }
+  ],
+  "authors_text": "Bruecker, Herbert; Kosyakova, Yuliya; Rother, Nina; Zinn, Sabine; Liebau, Elisabeth; Gider, Wenke; Schwanhaeuser, Silvia; Siegert, Manuel",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf032",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf032",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf032",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf032.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

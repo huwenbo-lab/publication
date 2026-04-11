@@ -1,0 +1,35 @@
+{
+  "title": "Jargonization, Language Development, and Team Performance",
+  "abstract": ": The emergence of team-specific vocabulary and language (“team jargon”) is a natural consequence of sustained, knowledge-intensive work. We examine how jargonization—the emergence of specialized shorthand—affects both the speed of language development and its implications for team performance. We argue that the explicit and mutually understood nature of team jargon reduces ambiguity, thereby facilitating language development and minimizing misunderstandings that could otherwise hinder coordination. Empirical analysis of language formation among newly formed teams assigned a symbol identification task supports this argument. We operationalize jargonization as the proportion of content words in team communications. Our findings indicate that as jargonization increases, the relationship between experience and language development strengthens, and the positive language effect on team accuracy increases in magnitude.",
+  "authors": [
+    {
+      "raw": "Reagans, Ray",
+      "family": "Reagans",
+      "given": "Ray"
+    },
+    {
+      "raw": "Burt, Ronald",
+      "family": "Burt",
+      "given": "Ronald"
+    },
+    {
+      "raw": "Liu, Donald",
+      "family": "Liu",
+      "given": "Donald"
+    }
+  ],
+  "authors_text": "Reagans, Ray; Burt, Ronald; Liu, Donald",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2026,
+  "doi": "10.15195/v13.a14",
+  "doi_url": "https://doi.org/10.15195/v13.a14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv13.a14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v13.a14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

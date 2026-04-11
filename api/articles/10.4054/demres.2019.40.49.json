@@ -1,0 +1,25 @@
+{
+  "title": "Changes in seasonality of births in Poland in the years 1900-2009",
+  "abstract": "BACKGROUND To date, several countries have documented changes over time in the pattern of seasonal fluctuations of births. Differences in these changes between countries allow us to better understand the social and economic factors determining birth seasonality. OBJECTIVE The aim of the present study is to explore birth seasonality in Poland over a period of 110 years. METHODS The study was conducted using the birth dates of 48,090,100 Polish citizens born in the years 1900-2009 and registered in the General Electronic System for Registration of the Population. I transformed the data into monthly time series of births, normalized the monthly birth rates for the unequal duration of months and years, and detrended by taking them to the centred 12-month average. Finally, I estimated seasonality patterns for particular decades by means of least squares regression on the harmonic model. RESULTS As many as three, relatively stable seasonal birth patterns occurred in Poland in the studied period. In 20th century Europe, the first one (1900-1919), characterised by a minimum birth rate in June, had previously only been observed in Italy. The second pattern with the spring peak and local peak in September remained almost unchanged in Poland for the longest time (1950-1979). Then, within a decade, it transformed into a new, third pattern (1990-2009), with peaks in July and September. CONTRIBUTION This article is the first to document in detail the changes in birth seasonality in Poland over a period of 110 years.",
+  "authors": [
+    {
+      "raw": "Cypryjanski, Jacek",
+      "family": "Cypryjanski",
+      "given": "Jacek"
+    }
+  ],
+  "authors_text": "Cypryjanski, Jacek",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.49",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.49",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.49",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.49.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

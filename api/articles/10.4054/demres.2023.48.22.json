@@ -1,0 +1,30 @@
+{
+  "title": "Better to ask online when it concerns intimate relationships? Survey mode differences in the assessment of relationship quality",
+  "abstract": "BACKGROUNDThe assessment of relationship quality is a key construct in family research , relies on several indicators. As answer behavior for sensitive and subjective questions can be biased by the interview situation, the emerging switch from face-to-face mode to web or mixed mode in surveys challenges the comparability of measurements.OBJECTIVEThis study investigates the impact of two modes of data collection - face-to-face mode and web mode - on central measurements of relationship quality in quantitative family research.METHODSIn a German experimental pilot study specialIntscript within the Generations and Gender Programme, target persons were randomly assigned to face-to-face or online interviews. Mode differences are assessed by comparing distributions for various indicators of relationship quality. To adjust for confounders, post-stratification weighting and multivariate regression analysis are applied.RESULTSFindings reveal consistent mode effects for almost all indicators of relationship quality even after adjusting for confounders. Respondents in web mode assess their relationship quality substantially lower than respondents in face-to-face mode, thinking more often about breaking up and reporting lower satisfaction and more conflicts.CONCLUSIONWeb mode seems to support less socially desirable reflections on respondents' relationships compared to face-to-face mode. Family researchers should consider survey design decisions when evaluating intimate relationships, particularly in longitudinal , cross-national studies.CONTRIBUTIONFindings on the assessment of relationships in family research based on self-administered modes, such as web mode, can be considered more reliable than those based on interviewer-administered modes.",
+  "authors": [
+    {
+      "raw": "Schumann, Almut",
+      "family": "Schumann",
+      "given": "Almut"
+    },
+    {
+      "raw": "Lueck, Detlev",
+      "family": "Lueck",
+      "given": "Detlev"
+    }
+  ],
+  "authors_text": "Schumann, Almut; Lueck, Detlev",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.22",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

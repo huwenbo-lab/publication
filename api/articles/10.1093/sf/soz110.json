@@ -1,0 +1,40 @@
+{
+  "title": "Forever Homes and Temporary Stops: Housing Search Logics and Residential Selection",
+  "abstract": "Residential selection is central in determining children's housing, neighborhood, and school contexts, and an extensive literature considers the social processes that shape residential searches and attainment. While this literature typically frames the residential search as a uniform process oriented around finding residential options with desired characteristics, we examine whether individuals may differentially conceive of these searches in ways that sustain inequality in residential attainment. Drawing on repeated, in-depth interviews with a stratified random sample of 156 households with young children in two metropolitan counties, we find that parents exhibit distinct residential search logics, informed by the constraints they face. Higher-income families usually engage in purposive searches oriented around their residential preferences. They search for forever homes that will meet their families' needs for years to come. In contrast, low-income parents typically draw on a logic of deferral. While they hope to eventually search for a home with the unit, neighborhood, and school characteristics they desire, aspirations for homeownership lead them to conceive of their moves (which are often between rental units) as temporary stops, which justifies accepting homes that are inconsistent with their long-term preferences. In addition, because they are often pushed to move by negative circumstances, they focus on their immediate housing needs and, in the most extreme cases, adopt an anywhere but here approach. These logics constitute an unexamined mechanism through which economic resources shape residential searches and ultimate attainment.",
+  "authors": [
+    {
+      "raw": "Harvey, Hope",
+      "family": "Harvey",
+      "given": "Hope"
+    },
+    {
+      "raw": "Fong, Kelley",
+      "family": "Fong",
+      "given": "Kelley"
+    },
+    {
+      "raw": "Edin, Kathryn",
+      "family": "Edin",
+      "given": "Kathryn"
+    },
+    {
+      "raw": "DeLuca, Stefanie",
+      "family": "DeLuca",
+      "given": "Stefanie"
+    }
+  ],
+  "authors_text": "Harvey, Hope; Fong, Kelley; Edin, Kathryn; DeLuca, Stefanie",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz110",
+  "doi_url": "https://doi.org/10.1093/sf/soz110",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz110",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz110.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

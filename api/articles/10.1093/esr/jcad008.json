@@ -1,0 +1,35 @@
+{
+  "title": "Student ICT resources and intergenerational transmission of educational inequality: testing implications of a reproduction and mobility perspective",
+  "abstract": "Information and communication technology (ICT) is often heralded to boost student learning. In this paper, we investigate the supposed benefits of ICT on student educational performance by considering the varied forms of ICT resources - access, skills, efficacy and different usage practices. We also examine the relationship between parental background, ICT and educational performance, employing notions from social reproduction and mobility theory, thereby investigating its role in processes of intergenerational transmission of educational inequality. Using PISA 2018 data, we examine 123,006 students' performance in Math and Reading. Results from fixed effects models indicate that ICT resources have a generic benefit to student learning, and mostly function as means to social reproduction. Our results indicate that having more ICT access and ICT skills seem to be most beneficial for students from advantageous family backgrounds, whereas using ICT for gaming seems most detrimental for high-SES students.",
+  "authors": [
+    {
+      "raw": "Loh, Renae Sze Ming",
+      "family": "Loh",
+      "given": "Renae Sze Ming"
+    },
+    {
+      "raw": "Kraaykamp, Gerbert",
+      "family": "Kraaykamp",
+      "given": "Gerbert"
+    },
+    {
+      "raw": "van Hek, Margriet",
+      "family": "van Hek",
+      "given": "Margriet"
+    }
+  ],
+  "authors_text": "Loh, Renae Sze Ming; Kraaykamp, Gerbert; van Hek, Margriet",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad008",
+  "doi_url": "https://doi.org/10.1093/esr/jcad008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

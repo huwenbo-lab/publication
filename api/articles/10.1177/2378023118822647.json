@@ -1,0 +1,35 @@
+{
+  "title": "Imputing Data for the Fragile Families Challenge: Identifying Similar Survey Questions with Semiautomated Methods",
+  "abstract": "The Fragile Families Challenge charged participants to predict six outcomes for 4,242 children and their families interviewed in the Fragile Families and Child Wellbeing Study. These outcome variables are grade point average, grit, material hardship, eviction, layoff and job training. The data set provided contained longitudinal survey and observational data collected on families and their children from birth to age 9. The authors used these data to create models to make predictions at age 15. The authors describe the imputation and modeling strategies that led them to make predictions ranked fifth and ninth in the material hardship and layoff categories, respectively. However, the results of the study are inconclusive with respect to increased predictive performance. The authors view this work as a first step toward organizing the Fragile Families missing data by exploiting the structure of the survey instruments.",
+  "authors": [
+    {
+      "raw": "Goode, Brian J.",
+      "family": "Goode",
+      "given": "Brian J."
+    },
+    {
+      "raw": "Datta, Debanjan",
+      "family": "Datta",
+      "given": "Debanjan"
+    },
+    {
+      "raw": "Ramakrishnan, Naren",
+      "family": "Ramakrishnan",
+      "given": "Naren"
+    }
+  ],
+  "authors_text": "Goode, Brian J.; Datta, Debanjan; Ramakrishnan, Naren",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118822647",
+  "doi_url": "https://doi.org/10.1177/2378023118822647",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118822647",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118822647.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Family Structure and Child Health: Does the Sex Composition of Parents Matter?",
+  "abstract": "The children of different-sex married couples appear to be advantaged on a range of outcomes relative to the children of different-sex cohabiting couples. Despite the legalization of same-sex marriage in the United States, whether and how this general pattern extends to the children of same-sex married and cohabiting couples is unknown. This study examines this question with nationally representative data from the 2004-2013 pooled National Health Interview Survey (NHIS). Results reveal that children in cohabiting households have poorer health outcomes than children in married households regardless of the sex composition of their parents. Children in same-sex and different-sex married households are relatively similar to each other on health outcomes, as are children in same-sex and different-sex cohabiting households. These patterns are not fully explained by socioeconomic differences among the four different types of families. This evidence can inform general debates about family structure and child health as well as policy interventions aiming to reduce child health disparities.",
+  "authors": [
+    {
+      "raw": "Reczek, Corinne",
+      "family": "Reczek",
+      "given": "Corinne"
+    },
+    {
+      "raw": "Spiker, Russell",
+      "family": "Spiker",
+      "given": "Russell"
+    },
+    {
+      "raw": "Liu, Hui",
+      "family": "Liu",
+      "given": "Hui"
+    },
+    {
+      "raw": "Crosnoe, Robert",
+      "family": "Crosnoe",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Reczek, Corinne; Spiker, Russell; Liu, Hui; Crosnoe, Robert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0501-y",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0501-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0501-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0501-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

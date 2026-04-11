@@ -1,0 +1,35 @@
+{
+  "title": "Promoting Social Support as a Protective Factor for Parental Stress and Child Behavior Problems During the COVID-19 Pandemic",
+  "abstract": "Child and family routines were significantly disrupted by the COVID-19 pandemic stay-at-home orders, leaving individuals isolated from school, work, and peer networks. This work examines how social support from family/friends and systems was connected to associations between parental stress and child behavior problems. Data was collected between January and March of 2021 from 195 parents of children in elementary school who were primarily in remote learning due to the pandemic. Hierarchical linear regression models indicated that younger child age and child gender were associated with parental stress in step 1; only child age remained significant when child behavior problems were added. Support from family, but not external systems, attenuated associations between child characteristics and behavior on parental stress, though child behavior problems remained consistent with parental stress even when support was present. Exploring parental stressors and investing in support networks may protect children and families from immediate and ongoing challenges.",
+  "authors": [
+    {
+      "raw": "Ross, Lily",
+      "family": "Ross",
+      "given": "Lily"
+    },
+    {
+      "raw": "Okine, Lucinda",
+      "family": "Okine",
+      "given": "Lucinda"
+    },
+    {
+      "raw": "Cederbaum, Julie A.",
+      "family": "Cederbaum",
+      "given": "Julie A."
+    }
+  ],
+  "authors_text": "Ross, Lily; Okine, Lucinda; Cederbaum, Julie A.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2024,
+  "doi": "10.1177/0192513x231209047",
+  "doi_url": "https://doi.org/10.1177/0192513x231209047",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x231209047",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x231209047.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

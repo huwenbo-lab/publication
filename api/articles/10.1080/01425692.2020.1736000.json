@@ -1,0 +1,35 @@
+{
+  "title": "Critiques of socio-economic school compositional effects: are they valid?",
+  "abstract": "School socio-economic compositional (SEC) effects have been influential in educational research predicting a range of outcomes and influencing public policy. However, some recent studies have challenged the veracity of SEC effects when applying residualised-change and fixed effects models and simulating potential measurement errors in hierarchical regression models. We review the residualised change and fixed effects methods in critical studies and find limitations in their capacity to demonstrate null compositional effects. We show this with an adjusted residualised change model finding significant SEC effects. We show structural equation models can address concerns that measurement errors inflate SEC effects by comparing hierarchical regression models to structural equation models. We find that structural equation models can detect SEC effects free from measurement error. We conclude that the reviewed critiques of SEC effects were due to methods unlikely to detect compositional effects. Future research would benefit from the identification of mediators of SEC effects.",
+  "authors": [
+    {
+      "raw": "Sciffer, Michael G.",
+      "family": "Sciffer",
+      "given": "Michael G."
+    },
+    {
+      "raw": "Perry, Laura B.",
+      "family": "Perry",
+      "given": "Laura B."
+    },
+    {
+      "raw": "McConney, Andrew",
+      "family": "McConney",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Sciffer, Michael G.; Perry, Laura B.; McConney, Andrew",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2020,
+  "doi": "10.1080/01425692.2020.1736000",
+  "doi_url": "https://doi.org/10.1080/01425692.2020.1736000",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2020.1736000",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2020.1736000.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

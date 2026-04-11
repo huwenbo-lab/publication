@@ -1,0 +1,25 @@
+{
+  "title": "The causal effect of an additional sibling on completed fertility: An estimation of intergenerational fertility correlations by looking at siblings of twins",
+  "abstract": "BACKGROUND Intergenerational transmission of fertility - a correlation between number of siblings and adult fertility - has been consistently demonstrated in developed countries. However, there is only limited knowledge of the causes of this correlation. OBJECTIVE This study estimates the effect of an exogenous increase of number of siblings on adult fertility for men and women using Swedish register data. The effect of an additional sibling is estimated from the birth of younger twin siblings by means of instrumental variable methods. RESULTS The study shows that there is no clear effect of an exogenous increase in the number of siblings on completed fertility. There is some evidence that an additional sibling is associated with lower fertility in adulthood. CONCLUSIONS The results indicate that intergenerational transmission of fertility is due to factors shared between parents and children such as preferences or socioeconomic status, not directly related to the size of the family of upbringing. There is no effect on fertility in adulthood of having an additional sibling per se.",
+  "authors": [
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Kolk, Martin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.32.51",
+  "doi_url": "https://doi.org/10.4054/demres.2015.32.51",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.32.51",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.32.51.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

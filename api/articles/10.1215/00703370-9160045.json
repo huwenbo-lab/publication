@@ -1,0 +1,40 @@
+{
+  "title": "How Nearby Homicides Affect Young Women's Pregnancy Desires: Evidence From a Quasi-Experiment",
+  "abstract": "Leveraging spatiotemporal variation in homicides that occurred during a 2.5-year weekly panel survey of 387 women ages 18-22 in Flint, Michigan, we investigate how young women's desires to become pregnant and to avoid pregnancy evolve in response to local homicides during the transition to adulthood. To address the endogeneity of exposure, we explore how the same woman's pregnancy desires (1) differed, on average, across weeks before and after the first homicide occurred within a quarter mile of her home; (2) evolved in the aftermath of this initial homicide exposure; and (3) changed in response to additional nearby homicides. One-fifth (22%) of women were exposed to a nearby homicide at least once during the study, and one-third of these women were exposed multiple times. Overall, the effects of nearby homicides were gradual: although average desires to become pregnant and to avoid pregnancy differed after initial exposure, these differences emerged approximately three to five months post-exposure. Repeated exposure to nearby homicides had nonlinear effects on how much women wanted to become pregnant and how much they wanted to avoid pregnancy. Together, our analyses provide a new explanation for why some young women-especially those who are socially disadvantaged-desire pregnancy at an early age.",
+  "authors": [
+    {
+      "raw": "Weitzman, Abigail",
+      "family": "Weitzman",
+      "given": "Abigail"
+    },
+    {
+      "raw": "Barber, Jennifer S.",
+      "family": "Barber",
+      "given": "Jennifer S."
+    },
+    {
+      "raw": "Heinze, Justin",
+      "family": "Heinze",
+      "given": "Justin"
+    },
+    {
+      "raw": "Zimmerman, Marc",
+      "family": "Zimmerman",
+      "given": "Marc"
+    }
+  ],
+  "authors_text": "Weitzman, Abigail; Barber, Jennifer S.; Heinze, Justin; Zimmerman, Marc",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9160045",
+  "doi_url": "https://doi.org/10.1215/00703370-9160045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9160045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9160045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

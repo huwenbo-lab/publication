@@ -1,0 +1,30 @@
+{
+  "title": "Impacts of education and immigration on the size and skills of the future workforce",
+  "abstract": "BACKGROUND In most developed countries the demographic regime is characterised by low fertility, high immigration, and population ageing. This regime impacts on the size of the labour force population, the ethno-cultural composition, and potential productivity. OBJECTIVE We examine the prospective impacts of two sociodemographic changes, namely increasing education and increasing immigration levels, on the size and skills of the workforce aged 25 to 64 years old for the time period 2011-2061. METHODS We use microsimulation models to project the population of Austria and Canada by age, sex, and several other socioeconomic and ethno-cultural dimensions. Using ` whatif' scenarios, we measure the impact of different immigration rates and immigrant selection patterns on the size and average literacy skills of the projected workforce. We also examine the potential effects of different assumptions about future educational attainment on the projection outcomes. RESULTS The results show that the volume of immigration heavily influences the expansion of the workforce. In terms of education among the general population, the rise in educational attainment is positively correlated with higher skill levels. However, increased immigration can override the effect that increasing education levels have on advancing workforce skills. CONTRIBUTION This paper shows the extent to which Austria and Canada have adopted diametrically opposed strategies regarding the future development of their workforces. Assuming that current policy goals hold true in the coming decades, Austria is likely to rely on a higher-skilled but declining (in size) workforce, whereas Canada will rely on a fastgrowing but less-skilled and more culturally diversified workforce.",
+  "authors": [
+    {
+      "raw": "Vezina, Samuel",
+      "family": "Vezina",
+      "given": "Samuel"
+    },
+    {
+      "raw": "Belanger, Alain",
+      "family": "Belanger",
+      "given": "Alain"
+    }
+  ],
+  "authors_text": "Vezina, Samuel; Belanger, Alain",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.12",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

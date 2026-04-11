@@ -1,0 +1,40 @@
+{
+  "title": "Investigating healthy life expectancy using a multi-state model in the presence of missing data and misclassification",
+  "abstract": "Background: A continuous-time three-state model can be used to describe change in cognitive function in the older population. State 1 corresponds to normal cognitive function, state 2 to cognitive impairment, and state 3 to dead. For statistical inference, longitudinal data are available from the UK Medical Research Council Cognitive Function and Ageing Study. Objective: The aim is statistical analysis of longitudinal multi-state data taking into account missing data and potential misclassification of state. In addition, methods for long-term prediction of the transition process are of interest, specifically when applied to the study of healthy life expectancy. Methods: Cognitive function in the older population is assumed to be stable or declining. For this reason, observed improvement of cognitive function is assumed to be caused by misclassification of either state 1 or 2. Regression models for the transition intensities are formulated to incorporate covariate information. Maximum likelihood is used for statistical inference. Results: It is shown that missing values for the state at a pre-scheduled time can easily be taken into account. Long-term prediction is explained and illustrated by the estimation of state-specific life expectancies. In addition, it is shown how microsimulation can be used to further explore predictions based on a fitted multi-state model. Conclusions: Statistical analysis of longitudinal multi-state data can take into account missing data and potential misclassification of state. With respect to long-term prediction, microsimulation is a useful tool for summarising and displaying characteristics of cognitive decline and survival. © 2014 van den Hout, Ogurtsova, Gampe & Matthews.",
+  "authors": [
+    {
+      "raw": "van den Hout, Ardo",
+      "family": "van den Hout",
+      "given": "Ardo"
+    },
+    {
+      "raw": "Ogurtsova, Ekaterina",
+      "family": "Ogurtsova",
+      "given": "Ekaterina"
+    },
+    {
+      "raw": "Gampe, Jutta",
+      "family": "Gampe",
+      "given": "Jutta"
+    },
+    {
+      "raw": "Matthews, Fiona",
+      "family": "Matthews",
+      "given": "Fiona"
+    }
+  ],
+  "authors_text": "van den Hout, Ardo; Ogurtsova, Ekaterina; Gampe, Jutta; Matthews, Fiona",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2014,
+  "doi": "10.4054/demres.2014.30.42",
+  "doi_url": "https://doi.org/10.4054/demres.2014.30.42",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2014.30.42",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2014.30.42.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Social Overload Thesis Revisited: Exploring the Mechanisms of Size-Dependent Participation Behavior in Voluntary Communities",
+  "abstract": "Sociological and urban studies have consistently reported that human behavior exhibits a discernible correlation with population size, following a power-law function. Individuals residing in larger communities exhibit significantly higher levels of activity in contrast to their counterparts in smaller communities. However, the underlying processes responsible for such behavioral patterns remain unclear. The authors propose that organizational crowding tends to generate competitive pressure that results in social overload for individuals, who in turn divide time and energy among many groups while reducing the time spent in each. The social overload thesis predicts integration, rather than mutual exclusion of groups, when experiencing competition. A large-scale event participation dataset from 11 major U.S. technology clusters over a period of 10 years is used to test these hypotheses. The results support the mediating role of competition in the relationship between population size and participation intensity. The authors demonstrate the impact of competition on network structure.",
+  "authors": [
+    {
+      "raw": "Shi, Yongren",
+      "family": "Shi",
+      "given": "Yongren"
+    },
+    {
+      "raw": "Shi, Qianyi",
+      "family": "Shi",
+      "given": "Qianyi"
+    }
+  ],
+  "authors_text": "Shi, Yongren; Shi, Qianyi",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231209140",
+  "doi_url": "https://doi.org/10.1177/23780231231209140",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231209140",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231209140.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

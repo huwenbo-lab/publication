@@ -1,0 +1,30 @@
+{
+  "title": "The Effects of Intermarriage on Wages for Immigrant Women in Italy",
+  "abstract": "In the current article, we analyze the impact of intermarriage on the wages of immigrant women in Italy. Using a sample of married immigrant women from a randomly selected sample, representative of families with foreigners in Italy, we estimate Ordinary Least Squares and we address self-selection into employment, while simultaneously accounting for intermarriage endogeneity with the combined method. The results reveal 9 percentage points higher earnings for intermarried immigrant women. However, this vanishes once we add other characteristics, as well as when we account for endogeneity and selection into employment, separately and simultaneously. We conclude that although immigrant women who marry natives have higher wages, this is due to their observable and unobservable characteristics.",
+  "authors": [
+    {
+      "raw": "Medina, Adda C. Justiniano",
+      "family": "Medina",
+      "given": "Adda C. Justiniano"
+    },
+    {
+      "raw": "Valentova, Marie",
+      "family": "Valentova",
+      "given": "Marie"
+    }
+  ],
+  "authors_text": "Medina, Adda C. Justiniano; Valentova, Marie",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x211046262",
+  "doi_url": "https://doi.org/10.1177/0192513x211046262",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x211046262",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x211046262.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

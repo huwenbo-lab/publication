@@ -1,0 +1,35 @@
+{
+  "title": "Life Expectancy during the Great Depression in Eleven European Countries",
+  "abstract": "The recent global economic recession has renewed interest in knowing whether a declining economy affects population health. Understanding the extreme case of the Great Depression may inform the current debate as well as theory regarding biological and behavioral adaptations to unwanted economic change. We test the hypothesis, recently suggested in the literature, that period life expectancy at birth improved during the Great Depression. We applied time-series methods to annual period life expectancy data of the civilian population from eleven European countries. Methods control for trends and other forms of autocorrelation in life expectancy that could induce spurious associations. We cannot reject the null hypothesis that period life expectancy at birth during the Great Depression remained within the interval forecasted from historical values. Additional analyses using an automated, rule-based methodology also cannot reject the null hypothesis. During the most severe phase of the Great Depression, period life expectancy in eleven European countries generally did not rise above expected levels.",
+  "authors": [
+    {
+      "raw": "Bruckner, Tim A.",
+      "family": "Bruckner",
+      "given": "Tim A."
+    },
+    {
+      "raw": "Noymer, Andrew",
+      "family": "Noymer",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Catalano, Ralph A.",
+      "family": "Catalano",
+      "given": "Ralph A."
+    }
+  ],
+  "authors_text": "Bruckner, Tim A.; Noymer, Andrew; Catalano, Ralph A.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2013,
+  "doi": "10.1111/j.1728-4457.2013.00573.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2013.00573.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2013.00573.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2013.00573.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

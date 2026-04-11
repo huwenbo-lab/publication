@@ -1,0 +1,30 @@
+{
+  "title": "Contextual Origins of Black-White Educational Disparities in the 21st Century: Evaluating Long-Term Disadvantage Across Three Domains",
+  "abstract": "How much do black-white educational disparities reflect differences in family, school, and neighborhood contexts? We use 16 years of statewide student administrative data from Michigan to update this classic sociological question with attention to observed racial differences in the duration of exposure to contextual disadvantage. We show that a longitudinal measure of family economic disadvantage explains significantly more of the black-white gap in test scores, high school completion, and college entry than a cross-sectional measure commonly used in education research. Racial differences in school context-much more than differences in neighborhood context-explain a large portion of remaining black-white educational disparities. Controlling for black-white differences in exposure to disadvantage across all three contexts reduces 8th and 11th grade test score gaps by over 60% and completely reverses educational attainment gaps, revealing a black net advantage. Our results demonstrate the need to incorporate longitudinal measures in educational administrative data and suggest that schools play a substantial role, after family disadvantage, in the persistence of racial educational inequality. More broadly, our study amplifies the argument that undoing systemic racism will require a confrontation with the deep contextual roots of black-white inequality in the 21st century.",
+  "authors": [
+    {
+      "raw": "Michelmore, Katherine",
+      "family": "Michelmore",
+      "given": "Katherine"
+    },
+    {
+      "raw": "Rich, Peter",
+      "family": "Rich",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Michelmore, Katherine; Rich, Peter",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac098",
+  "doi_url": "https://doi.org/10.1093/sf/soac098",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac098",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac098.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

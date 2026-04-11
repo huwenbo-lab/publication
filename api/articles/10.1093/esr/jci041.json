@@ -1,0 +1,25 @@
+{
+  "title": "Why do Couples with Highly Educated Parents have Higher Divorce Rates?",
+  "abstract": "Some studies have found that having highly educated parents or having a middle- or upper-class background increases the risk of divorce, but the literature offers little theoretical reasoning on the nature of this effect. This paper extends earlier research on this relationship by considering several competing explanations of the elevated divorce risk for couples from such backgrounds. Continuous-time hazard models are estimated using register-based data on 20 complete Norwegian first marriage cohorts (n = 276326). Results show that the higher dissolution risk for couples with highly educated parents cannot be attributed to the parents’ marital history, to their economic resources, or to an urban environment. I speculate that some socio-cultural factor contributes to raise these couples’ risk of marital dissolution.",
+  "authors": [
+    {
+      "raw": "Lyngstad, Torkild Hovde",
+      "family": "Lyngstad",
+      "given": "Torkild Hovde"
+    }
+  ],
+  "authors_text": "Lyngstad, Torkild Hovde",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1093/esr/jci041",
+  "doi_url": "https://doi.org/10.1093/esr/jci041",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci041",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci041.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

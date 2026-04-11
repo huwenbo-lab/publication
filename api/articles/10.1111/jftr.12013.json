@@ -1,0 +1,35 @@
+{
+  "title": "Overview of Behavioral Genetics Research for Family Researchers",
+  "abstract": "This article provides an overview of the methods, assumptions, and key findings of behavioral genetics methodology for family researchers with a limited background. We discuss how family researchers can utilize and contribute to the behavioral genetics field, particularly in terms of conducting research that seeks to explain shared environmental effects. This can be done, in part, by theoretically controlling for genetic confounds in research that seeks to determine cause‐and‐effect relationships among family variables and individual outcomes. Gene–environment correlation and interaction are especially promising areas for the family researcher to address. Given the methodological advancements in the field, we also briefly comment on new methods in molecular genetics for studying psychological mental health disorders.",
+  "authors": [
+    {
+      "raw": "Samek, Diana",
+      "family": "Samek",
+      "given": "Diana"
+    },
+    {
+      "raw": "Koh, Bibiana D.",
+      "family": "Koh",
+      "given": "Bibiana D."
+    },
+    {
+      "raw": "Rueter, Martha A.",
+      "family": "Rueter",
+      "given": "Martha A."
+    }
+  ],
+  "authors_text": "Samek, Diana; Koh, Bibiana D.; Rueter, Martha A.",
+  "journal": "Journal of Family Theory & Review",
+  "journal_slug": "Journal_of_Family_Theory_and_Review",
+  "year": 2013,
+  "doi": "10.1111/jftr.12013",
+  "doi_url": "https://doi.org/10.1111/jftr.12013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjftr.12013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jftr.12013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Theory_and_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Theory_and_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

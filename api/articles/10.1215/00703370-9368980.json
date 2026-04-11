@@ -1,0 +1,30 @@
+{
+  "title": "Trajectories of Subjective Health: Testing Longitudinal Models for Self-rated Health From Adolescence to Midlife",
+  "abstract": "Self-rated health (SRH) is ubiquitous in population health research. It is one of the few consistent health measures in longitudinal studies. Yet, extant research offers little guidance on its longitudinal trajectory. The literature on SRH suggests several possibilities, including SRH as (1) a more fixed, longer-term view of past, present, and anticipated health; (2) a spontaneous assessment at the time of the survey; (3) a result of lagged effects from prior responses; (4) a function of life course processes; and (5) a combination of the preceding. Different perspectives suggest different longitudinal models, but evidence is lacking about which model best captures SRH trajectory. Using data from the National Longitudinal Study of Adolescent to Adult Health and the National Longitudinal Survey of Youth, we employ structural equation modeling to correct for measurement error and identify the best-fitting, theoretically guided models describing SRH trajectories. Results support a hybrid model that combines the lagged effect of SRH with the enduring perspectives, fitted with a type of autoregressive latent trajectory (ALT) model. This model structure consistently outperforms other commonly used models and underscores the importance of accounting for lagged effects combined with time-invariant effects in longitudinal studies of SRH. Interestingly, comparisons of this latent, time-invariant autoregressive model across gender and racial/ethnic groups suggest that there are differences in starting points but less variability in SRH trajectories from early life into adulthood.",
+  "authors": [
+    {
+      "raw": "Bollen, Kenneth A.",
+      "family": "Bollen",
+      "given": "Kenneth A."
+    },
+    {
+      "raw": "Gutin, Iliya",
+      "family": "Gutin",
+      "given": "Iliya"
+    }
+  ],
+  "authors_text": "Bollen, Kenneth A.; Gutin, Iliya",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9368980",
+  "doi_url": "https://doi.org/10.1215/00703370-9368980",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9368980",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9368980.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

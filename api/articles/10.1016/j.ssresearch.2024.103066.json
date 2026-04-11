@@ -1,0 +1,25 @@
+{
+  "title": "Reexamining the causes of age patterns in Black-White birth weight disparities: Evidence from US cohorts",
+  "abstract": "Black-White disparities in low birth weight (LBW) rise with maternal age. Why? The weathering hypothesis holds that the increasing disparity is due to the accumulation of adverse exposures leading to accelerated aging among Black compared to White mothers. Using US birth certificate data covering millions of births to successive cohorts of US women, this paper finds two sets of results that complicate this theory. Descriptively, I find that Black-White LBW disparities increase with age for some cohorts but not others. More causally, analyses exploiting a plausibly exogenous policy shock show that the effects of reducing adverse exposures were larger for older compared to younger mothers. This evidence points toward an alternative or complementary hypothesis: that LBW risks are more responsive to adverse exposures at older maternal ages than at younger ages. Emphasizing this pathway - what I call responsiveness - as opposed to accumulation has important implications for both research and policy.",
+  "authors": [
+    {
+      "raw": "Mark, Nicholas D. E.",
+      "family": "Mark",
+      "given": "Nicholas D. E."
+    }
+  ],
+  "authors_text": "Mark, Nicholas D. E.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103066",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103066",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103066",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103066.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

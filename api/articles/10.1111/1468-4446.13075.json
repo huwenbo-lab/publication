@@ -1,0 +1,30 @@
+{
+  "title": "Social inequality in completion rates in higher education: Heterogeneity in educational fields",
+  "abstract": "This article examines how social disparities in dropout rates vary by educational field. Previous studies have shown that first-generation students, in general, have lower higher education completion rates than their fellow students. Less is known, however, about how such disparities vary between educational fields. We distinguish between general and field specific cultural capital and find that general cultural capital mainly operates through academic preparedness in upper secondary school, and after controlling for upper secondary school grade point average (GPA), students with parents with higher education degrees in a different field than themselves do not complete their degrees more often than first-generation students. More field-specific advantages of having a parent with a similar education are nonetheless visible in many fields also when we compare students with equal grades. Our analyses of Norwegian register data on the entire student population (N approximate to 400,000) show that the social inequalities are largest in fields that are both soft and pure, like humanities and social science, and that in soft and applied educational fields, like teaching and social work, the social differences are small and insignificant after controlling for GPA from upper secondary school. In fields classified as hard, it is only the students with parents with a similar education who complete their initial degree more often than first-generation students. We suggest that status group formation, field-specific cultural capital and micro-class reproduction may all contribute to explaining these patterns.",
+  "authors": [
+    {
+      "raw": "Helland, Havard",
+      "family": "Helland",
+      "given": "Havard"
+    },
+    {
+      "raw": "Stromme, Thea B.",
+      "family": "Stromme",
+      "given": "Thea B."
+    }
+  ],
+  "authors_text": "Helland, Havard; Stromme, Thea B.",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1111/1468-4446.13075",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

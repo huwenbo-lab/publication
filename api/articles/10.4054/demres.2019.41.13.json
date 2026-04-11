@@ -1,0 +1,30 @@
+{
+  "title": "Subnational population forecasts: Do users want to know about uncertainty?",
+  "abstract": "BACKGROUND Subnational population forecasts form a key input to many significant investment and planning decisions, but these forecasts are often subject to considerable amounts of uncertainty, even in the short run. This uncertainty is rarely quantified at the subnational scale, and little attention has been given to how uncertainty can be effectively communicated to users. OBJECTIVE We wished to find out if users of subnational population forecasts want to know about forecast uncertainty, their understanding of uncertainty, and their views on various methods of communicating it. METHODS An online survey of users of population forecasts in Australia was undertaken, followed by focus groups to permit in-depth discussions of forecasting and uncertainty topics. RESULTS Nine out of ten survey respondents wanted uncertainty information. The majority also understood basic uncertainty concepts, although about one-third did not currently use any uncertainty information. Several demographic terms for populations and uncertainty were found to be confusing to users. CONCLUSIONS Discovering that uncertainty information is desired by most users is an encouraging finding. Further work is required to create fully developed models for doing so. Learning how users interpret various means of expressing uncertainty helps in designing more effective communication tools. CONTRIBUTION The paper makes an original contribution to the forecast uncertainty literature through its focus on forecast users. We present the results of a recent survey and focus groups of subnational population forecast users in Australia which asked for their views on forecast uncertainty.",
+  "authors": [
+    {
+      "raw": "Wilson, Tom",
+      "family": "Wilson",
+      "given": "Tom"
+    },
+    {
+      "raw": "Shalley, Fiona",
+      "family": "Shalley",
+      "given": "Fiona"
+    }
+  ],
+  "authors_text": "Wilson, Tom; Shalley, Fiona",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.13",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "In-work Benefits for Low-wage Jobs: Can Additional Income Reduce Employment Stability?",
+  "abstract": "In-work benefits, which provide financial supplements to employees in low-wage jobs, are an instrument of active labour market policy used to encourage the labour market integration of low-skilled workers and the long-term unemployed. This paper argues that although government subsidies increase overall wages, employees interpret them as a signal that employers are unwilling to behave according to the norm of reciprocity. This leads to negative side-effects on employment stability, counteracting the positive effects of additional income on employment stability. The present article tests these hypotheses using a survey of in-work benefit recipients, with non-recipients as a comparison group. The method of propensity score matching is applied to eliminate all compositional differences between benefit recipients and non-recipients except for the source of their income. It is shown that in-work benefits lead to perceived violations of reciprocity. However, whether this explains why in-work benefits are not successful in promoting employment stability remains an open question.",
+  "authors": [
+    {
+      "raw": "Krug, G.",
+      "family": "Krug",
+      "given": "G."
+    }
+  ],
+  "authors_text": "Krug, G.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1093/esr/jcn062",
+  "doi_url": "https://doi.org/10.1093/esr/jcn062",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn062",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn062.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Effects of Public School Closures on Crime: The Case of the 2013 Chicago Mass School Closure",
+  "abstract": "Public school closures are increasing in number and size in U.S. cities. In response, parents, teachers, and public school advocates argue that closures carry negative consequences for multiple institutions across a wide set of outcomes. One such institution is the local neighborhood, and a negative consequence that is frequently raised is increased crime. I test this claim by using the 2013 Chicago mass school closure as a case study. Rather than conceiving of a school closure as a binary event (closed or not closed) I break it out according to a school’s status after closure: vacant, repurposed, and merged with an existing school. I find that vacancy and repurposing into a nonschool are associated with decreased crime. In contrast, merging a closed school with an existing school is associated with increased crime. The vacancy and repurposing effects are spatiotemporally localized, concentrated in the 75-meter area surrounding the school and disappearing after a year, whereas the student merger effect persisted over time across larger spatial scales. My results suggest that the relationship between closure and neighborhood crime is not straightforward, varying by postclosure land use status and spatiotemporal factors.",
+  "authors": [
+    {
+      "raw": "Brazil, Noli",
+      "family": "Brazil",
+      "given": "Noli"
+    }
+  ],
+  "authors_text": "Brazil, Noli",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2020,
+  "doi": "10.15195/v7.a6",
+  "doi_url": "https://doi.org/10.15195/v7.a6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv7.a6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v7.a6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

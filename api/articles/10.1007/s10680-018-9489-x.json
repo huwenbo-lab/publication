@@ -1,0 +1,30 @@
+{
+  "title": "Fertility History and Physical and Mental Health Changes in European Older Adults",
+  "abstract": "Previous studies have shown that aspects of reproductive history, such as earlier parenthood and high parity, are associated with poorer health in mid and later life. However, it is unclear which dimensions of health are most affected by reproductive history, and whether the pattern of associations varies for measures of physical, psychological and cognitive health. Such variation might provide more insight into possible underlying mechanisms. We use longitudinal data for men and women aged 50-79 years in ten European countries from the Survey of Health, Ageing and Retirement in Europe to analyse associations between completed fertility history and self-reported and observed health indicators measured 2-3 years apart (functional limitations, chronic diseases, grip strength, depression and cognition), adjusting for socio-demographic, and health factors at baseline. Using multiple imputation and pattern mixture modelling, we tested the robustness of estimates to missing data mechanisms. The results are partly consistent with previous studies and show that women who became mothers before age 20 had worse functional health at baseline and were more likely to suffer functional health declines. Parents of 4 or more children had worse physical, psychological and cognitive health at baseline and were more likely to develop circulatory disease over the follow-up period. Men who delayed fatherhood until age 35 or later had better health at baseline but did not experience significantly different health declines. This study improves our understanding of linkages between fertility histories and later life health and possible implications of changes in fertility patterns for population health. However, research ideally using prospective life course data is needed to further elucidate possible mechanisms, considering interactions with partnership histories, health behaviour patterns and socio-economic trajectories.",
+  "authors": [
+    {
+      "raw": "Keenan, Katherine",
+      "family": "Keenan",
+      "given": "Katherine"
+    },
+    {
+      "raw": "Grundy, Emily",
+      "family": "Grundy",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Keenan, Katherine; Grundy, Emily",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9489-x",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9489-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9489-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9489-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

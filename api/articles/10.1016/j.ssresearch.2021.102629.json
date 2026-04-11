@@ -1,0 +1,30 @@
+{
+  "title": "Long-term labor market returns to upper secondary school track choice: Leveraging idiosyncratic variation in peers' choices",
+  "abstract": "Vocational education and training (VET) is theorized to play a dual role for inequality of labor market outcomes: the role of a safety net and the role of socioeconomic diversion. In this paper, we test these hypotheses by examining the long-term labor market returns to track choice in upper secondary education in Denmark using an instrumental variable approach that relies on random variation in school peers' educational decisions. We report two main findings. First, VET diverts students on the margin to the academic track away from higher-status but not higherpaying occupations. Second, VET protects students on the margin to leaving school from risks of non-employment and unskilled work, also leading to higher earnings. These results suggest that in countries with a highly compressed wage structure, a strong VET system benefits students unlikely to continue to college, while causing few adverse consequences for students on the margin to choosing academic education.",
+  "authors": [
+    {
+      "raw": "Birkelund, Jesper Fels",
+      "family": "Birkelund",
+      "given": "Jesper Fels"
+    },
+    {
+      "raw": "van de Werfhorst, Herman G.",
+      "family": "van de Werfhorst",
+      "given": "Herman G."
+    }
+  ],
+  "authors_text": "Birkelund, Jesper Fels; van de Werfhorst, Herman G.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102629",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102629",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102629",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102629.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

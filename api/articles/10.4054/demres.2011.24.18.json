@@ -1,0 +1,25 @@
+{
+  "title": "A new relational method for smoothing and projecting age-specific fertility rates: TOPALS",
+  "abstract": "Age-specific fertility rates can be smoothed using parametric models or splines. Alternatively a relational model can be used which relates the age profile to be fitted or projected to a standard age schedule. This paper introduces TOPALS (tool for pro",
+  "authors": [
+    {
+      "raw": "de Beer, Joop",
+      "family": "de Beer",
+      "given": "Joop"
+    }
+  ],
+  "authors_text": "de Beer, Joop",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2011,
+  "doi": "10.4054/demres.2011.24.18",
+  "doi_url": "https://doi.org/10.4054/demres.2011.24.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2011.24.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2011.24.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

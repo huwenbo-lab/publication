@@ -1,0 +1,30 @@
+{
+  "title": "Red States, Blue States, and Divorce: Understanding the Impact of Conservative Protestantism on Regional Variation in Divorce Rates",
+  "abstract": "Why do states with larger proportions of religious conservatives have higher divorce rates than states with lower proportions of religious conservatives? This project examines whether earlier transitions to marriage and parenthood among conservative Protestants (known risk factors for divorce) contribute to this paradox while attending to other plausible explanations. County-level demographic information from all 50 states is combined from a variety of public data sources and merged with individual records from the National Surveys of Family Growth to estimate both aggregated county and multilevel individual models of divorce. Results show that individual religious conservatism is positively related to individual divorce risk, solely through the earlier transitions to adulthood and lower incomes of conservative Protestants. However, the proportion of conservative Protestants in a county is also independently and positively associated with both the divorce rate in that county and an individual's likelihood of divorcing. The earlier family formation and lower levels of educational attainment and income in counties with a higher proportion of conservative Protestants can explain a substantial portion of this association. Little support is found for alternative explanations of the association between religious conservatism and divorce rates, including the relative popularity of marriage versus cohabitation across counties.",
+  "authors": [
+    {
+      "raw": "Glass, Jennifer",
+      "family": "Glass",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Levchak, Philip",
+      "family": "Levchak",
+      "given": "Philip"
+    }
+  ],
+  "authors_text": "Glass, Jennifer; Levchak, Philip",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2014,
+  "doi": "10.1086/674703",
+  "doi_url": "https://doi.org/10.1086/674703",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F674703",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/674703.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

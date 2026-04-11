@@ -1,0 +1,35 @@
+{
+  "title": "Inequality Below the Poverty Line since 1967: The Role of the US Welfare State",
+  "abstract": "Since the War on Poverty in the 1960s, the U.S. social safety net has shifted away from direct cash assistance for the lowest-income households and toward tax-based transfers targeted at working families with children. Previous research has assessed this shift by evaluating its effect on the national poverty rate. Doing so, however, overlooks how it may also have led to increased inequality among low-income households. We apply a decomposition framework to measure how changes in taxes/transfers and composition have affected trends in inequality below the poverty line from 1967 to 2019. Income inequality among the poorest households has been volatile since the 1960s, and changes to the American welfare state played a decisive role in expanding or reducing inequality below the poverty line. Unlike in previous decades, after the mid-1990s, the policies that most reduced poverty were also those that most increased inequality among the poor. These findings challenge standard theories regarding the effectiveness of income transfers in reducing poverty by revealing that recent state-led antipoverty efforts have placed the near poor and the deeply poor on divergent paths.",
+  "authors": [
+    {
+      "raw": "Parolin, Zachary",
+      "family": "Parolin",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Desmond, Matthew",
+      "family": "Desmond",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Wimer, Christopher",
+      "family": "Wimer",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Parolin, Zachary; Desmond, Matthew; Wimer, Christopher",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231194019",
+  "doi_url": "https://doi.org/10.1177/00031224231194019",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231194019",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231194019.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

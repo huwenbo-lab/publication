@@ -1,0 +1,35 @@
+{
+  "title": "Division of Household Labor and Relationship Dissolution in Denmark 2001-2009",
+  "abstract": "This article studies how the gender division in time spent on housework is associated with relationship dissolution among Danish couples. The use of time diary information on the actual time spent on housework for both partners leads to more precise measures than in previous studies. Two waves of the Danish Time Use Survey provided data on 3,434 couples linked to information from the Danish administrative population registries to observe union dissolution. Late entry hazard models were estimated to analyze how men's contributions predicted dissolution risk after controlling for couple specific time-constant and time-varying covariates. The results show a U-shaped relationship between division of household labor and union dissolution with lowest risk when men provided 40% of the time on household tasks. Couples with the most unequal division of housework were the least stable. Even in a gender egalitarian society, women still perform more of the housework for relationships to be stable.",
+  "authors": [
+    {
+      "raw": "Thielemans, Gert",
+      "family": "Thielemans",
+      "given": "Gert"
+    },
+    {
+      "raw": "Fallesen, Peter",
+      "family": "Fallesen",
+      "given": "Peter"
+    },
+    {
+      "raw": "Mortelmans, Dimitri",
+      "family": "Mortelmans",
+      "given": "Dimitri"
+    }
+  ],
+  "authors_text": "Thielemans, Gert; Fallesen, Peter; Mortelmans, Dimitri",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2021,
+  "doi": "10.1177/0192513x20949890",
+  "doi_url": "https://doi.org/10.1177/0192513x20949890",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x20949890",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x20949890.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

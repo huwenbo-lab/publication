@@ -1,0 +1,30 @@
+{
+  "title": "The impact of parental death on school outcomes: Longitudinal evidence from South Africa",
+  "abstract": "Abstract We analyze longitudinal data from a demographic surveillance area (DSA) in KwaZulu-Natal to examine the impact of parental death on children’s outcomes. The results show significant differences in the impact of mothers’ and fathers’ deaths. The loss of a child’s mother is a strong predictor of poor schooling outcomes. Maternal orphans are significantly less likely to be enrolled in school and have completed significantly fewer years of schooling, conditional on age, than children whose mothers are alive. Less money is spent on maternal orphans’ educations, on average, conditional on enrollment. Moreover, children whose mothers have died appear to be at an educational disadvantage when compared with non-orphaned children with whom they live. We use the timing of mothers’ deaths relative to children’s educational shortfalls to argue that mothers’ deaths have a causal effect on children’s educations. The loss of a child’s father is a significant correlate of poor household socioeconomic status. However, the death of a father between waves of the survey has no significant effect on subsequent asset ownership. Evidence from the South African 2001 Census suggests that the estimated effects of maternal deaths on children’s outcomes in the Africa Centre DSA reflect the reality for orphans throughout South Africa.",
+  "authors": [
+    {
+      "raw": "Case, Anne",
+      "family": "Case",
+      "given": "Anne"
+    },
+    {
+      "raw": "Ardington, Cally",
+      "family": "Ardington",
+      "given": "Cally"
+    }
+  ],
+  "authors_text": "Case, Anne; Ardington, Cally",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2006,
+  "doi": "10.1353/dem.2006.0022",
+  "doi_url": "https://doi.org/10.1353/dem.2006.0022",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2006.0022",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2006.0022.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

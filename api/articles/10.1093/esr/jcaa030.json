@@ -1,0 +1,40 @@
+{
+  "title": "Age Discrimination in Hiring Decisions: A Factorial Survey among Managers in Nine European Countries",
+  "abstract": "This article analyses old-age discrimination in managers' hypothetical hiring decisions. We expect that older job candidates are less likely to be hired than equally qualified younger candidates. Statistical discrimination theory argues that when recruiters have more information about the candidate's skills, age is less important for hiring decisions. Given inconclusive results of previous studies, we elaborate on the theory by focusing on the content rather than the amount of information. We argue that information is primarily influential if it debunks, rather than confirms, ageist stereotypes. To test this argument, a factorial survey was conducted among 482 managers in nine European countries. The findings show that older candidates indeed receive lower hireability scores, and this finding is robust across countries and sectors. However, we do not find that stereotype-rejecting information moderates age discrimination: it does not matter whether recruiters have information that debunks or confirms ageist stereotypes; age is equally important in both situations. Our findings suggest that for hiring decisions, the valuation of applicants' skills and their age are largely independent.",
+  "authors": [
+    {
+      "raw": "Loessbroek, Jelle",
+      "family": "Loessbroek",
+      "given": "Jelle"
+    },
+    {
+      "raw": "Lancee, Bram",
+      "family": "Lancee",
+      "given": "Bram"
+    },
+    {
+      "raw": "van der Lippe, Tanja",
+      "family": "van der Lippe",
+      "given": "Tanja"
+    },
+    {
+      "raw": "Schippers, Joop",
+      "family": "Schippers",
+      "given": "Joop"
+    }
+  ],
+  "authors_text": "Loessbroek, Jelle; Lancee, Bram; van der Lippe, Tanja; Schippers, Joop",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa030",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

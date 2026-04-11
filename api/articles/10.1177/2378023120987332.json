@@ -1,0 +1,35 @@
+{
+  "title": "Cumulative Disparities in the Dynamics of Working Poverty for Later Career U.S. Workers (2002–2012)",
+  "abstract": "Many more Americans experience working poverty than unemployed poverty, a situation that was only exacerbated by the Great Recession. The consequences of working poverty for later career workers, who should be at their highest earning ages, are particularly dire. The authors expect that later career workers are especially vulnerable in terms of the risk and duration of working poverty and that those who have accumulated disadvantages over their life courses, in terms of the intersecting dimensions of race/ethnicity, gender, early-life disadvantage, and educational attainment, will suffer disproportionately. The authors use incidence-based Markov-chain multistate models to analyze the U.S. Health and Retirement Study, which is representative of the U.S. population aged 50 years and older. The results reveal that Black women and men, Latinx, those who experienced more early-life disadvantages, and people with lower education have higher risk and longer durations in working poverty over the period from 2002 to 2012. The findings also suggest that when confronted with economic hardship (the Great Recession) later career workers who originate in lower socioeconomic statuses, especially Blacks and Latinx, are in more precarious economic positions. Important from a policy perspective, educational attainment only partially mediates the association between race/ethnicity and working poverty; disparities persist.",
+  "authors": [
+    {
+      "raw": "Hale, Jo Mhairi",
+      "family": "Hale",
+      "given": "Jo Mhairi"
+    },
+    {
+      "raw": "Dudel, Christian",
+      "family": "Dudel",
+      "given": "Christian"
+    },
+    {
+      "raw": "Lorenti, Angelo",
+      "family": "Lorenti",
+      "given": "Angelo"
+    }
+  ],
+  "authors_text": "Hale, Jo Mhairi; Dudel, Christian; Lorenti, Angelo",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/2378023120987332",
+  "doi_url": "https://doi.org/10.1177/2378023120987332",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120987332",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120987332.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

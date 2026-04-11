@@ -1,0 +1,40 @@
+{
+  "title": "Visualizing the Rise and Seasonality of Mass Shootings in the United States",
+  "abstract": "The authors visualize monthly mass-shooting incidents in the United States from 2013 to 2022 by integrating data from five major databases, each using different definitional boundaries. The combined dataset provides the most comprehensive view available of mass-shooting victimization during this period, including incidents often excluded in academic and media accounts. A tiled heat map and associated time-series plots reveal two key patterns: a clear rise in the frequency of mass shootings over time and increasingly pronounced seasonal clustering, with recent years showing concentrated summer peaks. These visualizations demonstrate how definitional choices shape interpretations of long-term trends and highlight the importance of inclusive, longitudinal approaches for understanding mass shootings as a persistent and evolving form of violence in the United States.",
+  "authors": [
+    {
+      "raw": "Bridges, Tristan",
+      "family": "Bridges",
+      "given": "Tristan"
+    },
+    {
+      "raw": "Tober, Tara Leigh",
+      "family": "Tober",
+      "given": "Tara Leigh"
+    },
+    {
+      "raw": "Tyberg, Sara",
+      "family": "Tyberg",
+      "given": "Sara"
+    },
+    {
+      "raw": "Munday, Liz M.",
+      "family": "Munday",
+      "given": "Liz M."
+    }
+  ],
+  "authors_text": "Bridges, Tristan; Tober, Tara Leigh; Tyberg, Sara; Munday, Liz M.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2026,
+  "doi": "10.1177/23780231261425279",
+  "doi_url": "https://doi.org/10.1177/23780231261425279",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231261425279",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231261425279.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

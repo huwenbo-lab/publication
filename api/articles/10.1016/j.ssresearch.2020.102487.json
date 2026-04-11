@@ -1,0 +1,30 @@
+{
+  "title": "Acculturation strategies, age at migration, and self-rated health: An empirical study on internal migrants in China",
+  "abstract": "Berry's bidimensional acculturation model categorizes acculturation status (integration, assimilation, separation, marginalization) by preference toward host and origin cultures. According to Berry's theory, different acculturation strategies yield different health outcomes, and age at migration moderates the relationship between acculturation and health outcome. Previous research has applied this model to understand acculturation's influence on international migrants' health outcomes, but rarely for internal migrants. This research examines these relationships using a national survey on Chinese internal migrants. Using propensity score weighting, the results align with previous findings that integration strategy-using migrants reported optimal health status, separation/assimilation strategy-using migrants reported suboptimal health, and marginalization strategy-using migrants reported the worst health, suggesting the model can explain health disparities among internal migrants. Moreover, older age at migration deteriorates health outcomes and moderates health disparities among migrants employing different acculturation strategies. However, age at migration's moderating effect is significant only among inter-provincial migrants. Embracing the host society inhibits health deterioration among inter-provincial migrants with older age at migration, whereas rejecting or embracing both societies facilitates health deterioration among intra-provincial migrants.",
+  "authors": [
+    {
+      "raw": "Ma, Zhihao",
+      "family": "Ma",
+      "given": "Zhihao"
+    },
+    {
+      "raw": "Xia, Yiwei",
+      "family": "Xia",
+      "given": "Yiwei"
+    }
+  ],
+  "authors_text": "Ma, Zhihao; Xia, Yiwei",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2020.102487",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102487",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102487",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102487.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

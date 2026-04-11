@@ -1,0 +1,40 @@
+{
+  "title": "Is Lean Mean?",
+  "abstract": "This article examines the relationship between workplace transformation (or restructuring) and the well-being of employees, in terms of both psychological and physical health, at a large manufacturing corporation in the United States. While the previous literature has been largely divided over the issue - some researchers providing unqualified enthusiasm and others equally strong criticism of workplace changes - we found, after decomposing workplace transformation into five distinct dimensions of intensity, autonomy, team-work, skilling and computing, that certain components were harmful while others were beneficial to the employees. Furthermore, some effects of reengineering varied between managers and non-managers. Overall, increases in workplace intensity were associated with the largest increases in stress and symptoms of poor health. The data were produced by a longitudinal (two-wave) survey questionnaire of over 1000 employees and were analyzed by means of a structural equations model.",
+  "authors": [
+    {
+      "raw": "Anderson-Connolly, Richard",
+      "family": "Anderson-Connolly",
+      "given": "Richard"
+    },
+    {
+      "raw": "Grunberg, Leon",
+      "family": "Grunberg",
+      "given": "Leon"
+    },
+    {
+      "raw": "Greenberg, Edward S.",
+      "family": "Greenberg",
+      "given": "Edward S."
+    },
+    {
+      "raw": "Moore, Sarah",
+      "family": "Moore",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Anderson-Connolly, Richard; Grunberg, Leon; Greenberg, Edward S.; Moore, Sarah",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2002,
+  "doi": "10.1177/095001702762217407",
+  "doi_url": "https://doi.org/10.1177/095001702762217407",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F095001702762217407",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/095001702762217407.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

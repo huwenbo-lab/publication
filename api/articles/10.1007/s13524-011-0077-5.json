@@ -1,0 +1,30 @@
+{
+  "title": "Assessing Asset Indices",
+  "abstract": "Abstract The use of asset indices in welfare analysis and poverty targeting is increasing, especially in cases in which data on expenditures are unavailable or hard to collect. We compare alternative approaches to welfare measurement. Our analysis shows that inferences about inequalities in education, health care use, fertility, and child mortality, as well as labor market outcomes, are quite robust to the economic status measure used. Different measures—most significantly per capita expenditures versus the class of asset indices—do not, however, yield identical household rankings. Two factors stand out in predicting the degree of congruence in rankings. First is the extent to which expenditures can be explained by observed household and community characteristics. Rankings are most similar in settings with small transitory shocks to expenditure or with little random measurement error in expenditure. Second is the extent to which expenditures are dominated by individually consumed goods, such as food. Asset indices are typically derived from indicators of goods that are effectively public at the household level, while expenditures are often dominated by food, an almost exclusively private good. In settings in which individually consumed goods are the main component of expenditures, asset indices and per capita consumption yield the least similar results.",
+  "authors": [
+    {
+      "raw": "Filmer, Deon",
+      "family": "Filmer",
+      "given": "Deon"
+    },
+    {
+      "raw": "Scott, Kinnon",
+      "family": "Scott",
+      "given": "Kinnon"
+    }
+  ],
+  "authors_text": "Filmer, Deon; Scott, Kinnon",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0077-5",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0077-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0077-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0077-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

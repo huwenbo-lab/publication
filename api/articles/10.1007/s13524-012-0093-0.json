@@ -1,0 +1,30 @@
+{
+  "title": "The Proximate Determinants of Educational Homogamy: The Effects of First Marriage, Marital Dissolution, Remarriage, and Educational Upgrading",
+  "abstract": "Abstract This paper adapts the population balancing equation to develop a framework for studying the proximate determinants of educational homogamy. Using data from the National Longitudinal Survey of Youth on a cohort of women born between 1957 and 1964, we decompose the odds of homogamy in prevailing marriages into four proximate determinants: (1) first marriages, (2) first and later marital dissolutions, (3) remarriages, and (4) educational attainment after marriage. The odds of homogamy among new first marriages are lower than among prevailing marriages, but not because of selective marital dissolution, remarriage, and educational attainment after marriage, as has been speculated. Prevailing marriages are more likely to be educationally homogamous than new first marriages because of the accumulation of homogamous first marriages in the stock of marriages. First marriages overwhelmingly account for the odds of homogamy in prevailing marriages in this cohort. Marital dissolutions, remarriages, and educational upgrades after marriage have relatively small and offsetting effects. Our results suggest that, despite the high prevalence of divorce, remarriage, and continued schooling after marriage in the United States, the key to understanding trends in educational homogamy lies primarily in variation in assortative mating into first marriage.",
+  "authors": [
+    {
+      "raw": "Schwartz, Christine R.",
+      "family": "Schwartz",
+      "given": "Christine R."
+    },
+    {
+      "raw": "Mare, Robert D.",
+      "family": "Mare",
+      "given": "Robert D."
+    }
+  ],
+  "authors_text": "Schwartz, Christine R.; Mare, Robert D.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0093-0",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0093-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0093-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0093-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

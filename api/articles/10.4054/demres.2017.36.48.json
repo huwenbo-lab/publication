@@ -1,0 +1,40 @@
+{
+  "title": "The welfare state and demographic dividends",
+  "abstract": "BACKGROUND The demographic transition experienced by developed countries produces initial positive effects on economic growth. the first demographic dividend. which can be extended into a second demographic dividend if baby boomers' savings increase capital accumulation. Nevertheless, aging might reverse this process if dissaving of elderly baby boomers and the pressure on the pay-as-you-go financed welfare state reduce savings and capital. OBJECTIVE The aim of this paper is to evaluate the extent to which demographic dividends in Spain provide an opportunity for the reform of the welfare state system for an aging population. METHODS We decompose demographic dividends using a general equilibrium overlapping generations model with realistic demography and public transfers from the National Transfer Accounts database. This allows us to capture the endogenous evolution of savings and capital accumulation and, hence, the second demographic dividend. RESULTS When baby boomers enter the labor market, the purely demographic support ratio increases and this positive effect is extended by composition changes in the age structure of workers. When they start saving, the second demographic dividend arises, while its total net effect depends both on the strength of the aging process and on transfer size. CONCLUSIONS The derived decomposition shows that the second demographic dividend might also disappear. Sharp population aging in Spain implies that capital will shrink drastically after 2040. Before this, there seems to be margin for reforms; however, an extension of the welfare state toward the Nordic model would considerably reduce capital.",
+  "authors": [
+    {
+      "raw": "Abio, Gemma",
+      "family": "Abio",
+      "given": "Gemma"
+    },
+    {
+      "raw": "Patxot, Concepcio",
+      "family": "Patxot",
+      "given": "Concepcio"
+    },
+    {
+      "raw": "Sanchez-Romero, Miguel",
+      "family": "Sanchez-Romero",
+      "given": "Miguel"
+    },
+    {
+      "raw": "Souto, Guadalupe",
+      "family": "Souto",
+      "given": "Guadalupe"
+    }
+  ],
+  "authors_text": "Abio, Gemma; Patxot, Concepcio; Sanchez-Romero, Miguel; Souto, Guadalupe",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.48",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.48",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.48",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.48.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

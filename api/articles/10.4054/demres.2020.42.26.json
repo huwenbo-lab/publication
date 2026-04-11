@@ -1,0 +1,25 @@
+{
+  "title": "Computations of French lifetables by department, 1901-2014",
+  "abstract": "BACKGROUND Debates concerning the French territorial divide are deep in France. However, few historical data on French demography at the local level for the 20th century are available for the study of these territorial disputes. OBJECTIVE The main objective is to present a new demographic database built at the departmental level for the 20th century, as well as the methods used to build this database. METHODS The database was constructed by digitizing a large part of the raw data available in the French archives and by using new statistical sources for military deaths and deportees during the two world wars. The methods used are both the methodological protocol of the Human Mortality Database and a set of methods that take into account the specificities of the French departments. CONTRIBUTION With this database, the French departmental lifetables by sex and year, including military deaths and deaths in deportation, will be available, as well as the departmental populations by age, sex, and year between 1901 and 2014.(2)",
+  "authors": [
+    {
+      "raw": "Bonnet, Florian",
+      "family": "Bonnet",
+      "given": "Florian"
+    }
+  ],
+  "authors_text": "Bonnet, Florian",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.26",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

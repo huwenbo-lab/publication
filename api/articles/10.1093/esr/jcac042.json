@@ -1,0 +1,40 @@
+{
+  "title": "The political determinants of housing benefits",
+  "abstract": "Housing benefits differ substantially across countries. In this paper, we apply power resource theory, developed primarily in relation to the emergence and subsequent expansion of social citizenship, to housing policy. The purpose is to analyse the political determinants of housing benefits, and particularly the role of left parties and the partisan mobilization of labour. The empirical analyses are based on new housing benefit data for 31 affluent democracies from the period 2001-2018. The results of a series of fixed effects pooled time-series regressions show that the strength of left government is positively associated with the size of housing benefits. However, the positive influence of left cabinets is conditional on the relative size of rental housing and the fractionalization of the party system. Our findings highlight the need to combine actor-oriented explanations of the welfare state with theories about the corporatist power structures of society.",
+  "authors": [
+    {
+      "raw": "Nelson, Kenneth",
+      "family": "Nelson",
+      "given": "Kenneth"
+    },
+    {
+      "raw": "Borg, Ida",
+      "family": "Borg",
+      "given": "Ida"
+    },
+    {
+      "raw": "Nieuwenhuis, Rense",
+      "family": "Nieuwenhuis",
+      "given": "Rense"
+    },
+    {
+      "raw": "Alm, Susanne",
+      "family": "Alm",
+      "given": "Susanne"
+    }
+  ],
+  "authors_text": "Nelson, Kenneth; Borg, Ida; Nieuwenhuis, Rense; Alm, Susanne",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac042",
+  "doi_url": "https://doi.org/10.1093/esr/jcac042",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac042",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac042.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

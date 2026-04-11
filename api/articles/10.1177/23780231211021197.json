@@ -1,0 +1,30 @@
+{
+  "title": "Postsecondary Educational Attainment and Health among Younger U.S. Adults in the “College-for-All” Era",
+  "abstract": "Population-health research has neglected differentiation within postsecondary educational attainments. This gap is critical to understanding health inequality because college experience with no degree, vocational/technical certificates, and associate degrees may affect health differently. We examine health across detailed postsecondary attainment levels. We analyze data on 14,750 respondents in Waves I and IV of the nationally representative Add Health panel spanning adolescence to ages 26 to 34. Multivariate regression and counterfactual approaches to minimize the impact of confounders estimate multiple health outcomes across postsecondary attainment levels. Compared to high school diplomas, we find significant returns to bachelor’s degrees for most health outcomes and smaller but largely significant returns to associate degrees. In contrast, adults with some college but no degree or with vocational/technical certificates do not have better physical health than high school graduates. Our findings highlight the stark differentiation within higher education as reflected by the disparate health outcomes in early adulthood.",
+  "authors": [
+    {
+      "raw": "Zajacova, Anna",
+      "family": "Zajacova",
+      "given": "Anna"
+    },
+    {
+      "raw": "Lawrence, Elizabeth",
+      "family": "Lawrence",
+      "given": "Elizabeth"
+    }
+  ],
+  "authors_text": "Zajacova, Anna; Lawrence, Elizabeth",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211021197",
+  "doi_url": "https://doi.org/10.1177/23780231211021197",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211021197",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211021197.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "What a drop can do: Dried blood spots as a minimally invasive method for integrating biomarkers into population-based research",
+  "abstract": "AbstractLogistical constraints associated with the collection and analysis of biological samples in community-based settings have been a significant impediment to integrative, multilevel biodemographic and biobehavioral research. However, recent methodological developments have overcome many of these constraints and have also expanded the options for incorporating biomarkers into population-based health research in international as well as domestic contexts. In particular, using dried blood spot (DBS) samples—drops of whole blood collected on filter paper from a simple finger prick— provides a minimally invasive method for collecting blood samples in nonclinical settings. After a brief discussion of biomarkers more generally, we review procedures for collecting, handling, and analyzing DBS samples. Advantages of using DBS samples—compared with venipuncture—include the relative ease and low cost of sample collection, transport, and storage. Disadvantages include requirements for assay development and validation as well as the relatively small volumes of sample. We present the results of a comprehensive literature review of published protocols for analysis of DBS samples, and we provide more detailed analysis of protocols for 45 analytes likely to be of particular relevance to population-level health research. Our objective is to provide investigators with the information they need to make informed decisions regarding the appropriateness of blood spot methods for their research interests.",
+  "authors": [
+    {
+      "raw": "McDade, Thomas W.",
+      "family": "McDade",
+      "given": "Thomas W."
+    },
+    {
+      "raw": "Williams, Sharon",
+      "family": "Williams",
+      "given": "Sharon"
+    },
+    {
+      "raw": "Snodgrass, J. Josh",
+      "family": "Snodgrass",
+      "given": "J. Josh"
+    }
+  ],
+  "authors_text": "McDade, Thomas W.; Williams, Sharon; Snodgrass, J. Josh",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0038",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0038",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0038",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0038.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

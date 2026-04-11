@@ -1,0 +1,25 @@
+{
+  "title": "Active Life Expectancy of Elderly Koreans, 1994–2011",
+  "abstract": "Drawing on data from South Korea, this paper attempts to assess three dominant views on the evolution of morbidity and mortality of the elderly: expansion of morbidity, compression of morbidity, and dynamic equilibrium. The expansion of morbidity perspective argues that elongated life expectancy would comprise of, in large part, disabled life expectancy. The compression of morbidity theory suggests that increases in active life expectancy correspond to increases in total life expectancy. The dynamic equilibrium theory posits that, though overall levels of morbidity would rise, the prevalence of severe disability would decrease. The study is based on mortality data from Life Tables for Korea and the morbidity data from five nationally representative cross-sectional surveys conducted in 1994, 1998, 2004, 2008, and 2011. Sullivan's method is used to compute the active, mildly disabled, and severely disabled life expectancies. Results reveal that the total life expectancy of elderly Koreans has markedly increased, and this has been accompanied by an impressive extension of active life expectancy. In addition, results show negligible declines in the mildly disabled life expectancy but rapid drops in the severely disabled life expectancy. Collectively, these observations strongly support the compression hypothesis, and provide partial support for a dynamic equilibrium.",
+  "authors": [
+    {
+      "raw": "Kim, Hyun Sik",
+      "family": "Kim",
+      "given": "Hyun Sik"
+    }
+  ],
+  "authors_text": "Kim, Hyun Sik",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2015,
+  "doi": "10.1080/17441730.2015.1096096",
+  "doi_url": "https://doi.org/10.1080/17441730.2015.1096096",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2015.1096096",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2015.1096096.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

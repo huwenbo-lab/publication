@@ -1,0 +1,30 @@
+{
+  "title": "Inequality and Total Effect Summary Measures for Nominal and Ordinal Variables",
+  "abstract": "Many of the topics most central to the social sciences involve nominal groupings or ordinal rankings. There are many cases in which a summary of a nominal or ordinal independent variable's effect, or the effect on a nominal or ordinal outcome, is needed and useful for interpretation. For example, for nominal or ordinal independent variables, a single summary measure is useful to compare the effect sizes of different variables in a single model or across multiple models, as with mediation. For nominal or ordinal dependent variables, there are often an overwhelming number of effects to examine and understanding the holistic effect of an independent variable or how effect sizes compare within or across models is difficult. In this project, we propose two new summary measures using marginal effects (MEs). For nominal and ordinal independent variables, we propose ME inequality as a summary measure of a nominal or ordinal independent variable's holistic effect. For nominal and ordinal outcome models, we propose a total ME measure that quantifies the comprehensive effect of an independent variable across all outcome categories. The added benefits of our methods are both intuitive and substantively meaningful effect size metrics and approaches that can be applied across a wide range of models, including linear, nonlinear, categorical, multilevel, longitudinal, and more.",
+  "authors": [
+    {
+      "raw": "Mize, Trenton",
+      "family": "Mize",
+      "given": "Trenton"
+    },
+    {
+      "raw": "Han, Bing",
+      "family": "Han",
+      "given": "Bing"
+    }
+  ],
+  "authors_text": "Mize, Trenton; Han, Bing",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a7",
+  "doi_url": "https://doi.org/10.15195/v12.a7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

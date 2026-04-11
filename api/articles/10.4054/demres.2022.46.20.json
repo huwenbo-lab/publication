@@ -1,0 +1,35 @@
+{
+  "title": "Variation in the educational consequences of parental death and divorce: The role of family and country characteristics",
+  "abstract": "BACKGROUND AND OBJECTIVE Ample research demonstrates that experiencing parental death or divorce harms children's educational attainment. Less is known about variation herein, both between parental death and divorce and across social contexts. We investigated how family and national contexts moderate the educational consequences of these adverse events. At the family level, we studied whether the educational consequences of parental death and divorce are larger for children of higher-educated parents. At the national level, we investigated the buffering role of welfare benefits as well as the amplifying impact of a selective educational system and the divorce rate. Moreover, we examined the interplay between family and country contexts. METHODS AND RESULTS Using multilevel regression models with data from 17 countries from the Generations and Gender Survey, we found that parental divorce had a larger impact than parental death. Furthermore, the impact of parental divorce was largest for children of higher educated parents. Less selective educational systems and provision of single-parent benefits reduced the educational consequences of parental death, specifically for children of lower-educated parents. CONCLUSIONS Our results indicate that although both parental death and divorce harm children's educational attainment, their impacts differ across family and country contexts. The consequences of divorce strongly depend on the resources available in a family, while the effects of parental death are mitigated by educational and welfare policies. CONTRIBUTION Our study underscores the relevance of differentiating between specific adverse events and considering the social context to understand the consequences of adversity for children's educational attainment.",
+  "authors": [
+    {
+      "raw": "Bussemakers, Carlijn",
+      "family": "Bussemakers",
+      "given": "Carlijn"
+    },
+    {
+      "raw": "Kraaykamp, Gerbert",
+      "family": "Kraaykamp",
+      "given": "Gerbert"
+    },
+    {
+      "raw": "Tolsma, Jochem",
+      "family": "Tolsma",
+      "given": "Jochem"
+    }
+  ],
+  "authors_text": "Bussemakers, Carlijn; Kraaykamp, Gerbert; Tolsma, Jochem",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.20",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

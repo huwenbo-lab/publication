@@ -1,0 +1,25 @@
+{
+  "title": "The Effect of Prenatal Natural Disaster Exposure on School Outcomes",
+  "abstract": "Abstract This study looks at the impact of exposure to natural disasters during pregnancy on the educational outcomes of North Carolina children at the third grade level. A broad literature relates negative birth outcomes to poor educational performance, and a number of recent studies have examined the effect of prenatal exposure to natural disasters on birth outcomes. This study takes the next step by considering how prenatal exposure affects later outcomes. Combining North Carolina administrative data on births and school performance with disaster declarations from the U.S. Federal Emergency Management Agency (FEMA) allows for the identification of children who were exposed to disasters during prenatal development. These children are compared with other children born in the same county who were not exposed to disasters while in utero. Regression results suggest that children exposed to hurricanes prenatally have lower scores on third grade standardized tests in math and reading. Those exposed to flooding or tornadoes also have somewhat lower math scores. Additionally, results suggest that these negative effects are more concentrated among children in disadvantaged subgroups, especially children born to black mothers. However, no evidence exists that these effects are mediated by common measures of birth outcomes, including birth weight and gestational age.",
+  "authors": [
+    {
+      "raw": "Fuller, Sarah C.",
+      "family": "Fuller",
+      "given": "Sarah C."
+    }
+  ],
+  "authors_text": "Fuller, Sarah C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0310-0",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0310-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0310-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0310-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

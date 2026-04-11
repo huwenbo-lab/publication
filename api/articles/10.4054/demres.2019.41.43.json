@@ -1,0 +1,40 @@
+{
+  "title": "The impact of the choice of life table statistics when forecasting mortality",
+  "abstract": "BACKGROUND Different ways to forecast mortality have been suggested, with many forecasting models based on the extrapolation of age-specific death rates. Recent studies, however, have looked into forecasting models based on other mortality indicators, such as life expectancy or life table deaths. OBJECTIVE Here we ask, what are the implications of choosing one indicator over another to forecast mortality? METHODS We compare five extrapolative models based on different life table statistics: death rates, death probabilities, survival probabilities, life table deaths, and life expectancy at birth. We show the consequences of using a specific indicator for the forecast results by looking into time changes in the indicators produced by the models. RESULTS The results show that forecasting based on death rates and probabilities of death leads to more pessimistic forecasts than using survival probabilities, life table deaths, and life expectancy when applying existing models based on linear extrapolation of (transformed) indicators. CONTRIBUTIONS The paper raises awareness that the use of a specific life table statistic as input for mortality forecasting has a significant impact on the forecast results.",
+  "authors": [
+    {
+      "raw": "Bergeron-Boucher, Marie-Pier",
+      "family": "Bergeron-Boucher",
+      "given": "Marie-Pier"
+    },
+    {
+      "raw": "Kjaergaard, Soren",
+      "family": "Kjaergaard",
+      "given": "Soren"
+    },
+    {
+      "raw": "Oeppen, Jim",
+      "family": "Oeppen",
+      "given": "Jim"
+    },
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    }
+  ],
+  "authors_text": "Bergeron-Boucher, Marie-Pier; Kjaergaard, Soren; Oeppen, Jim; Vaupel, James W.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.43",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.43",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.43",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.43.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

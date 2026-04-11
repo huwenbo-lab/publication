@@ -1,0 +1,25 @@
+{
+  "title": "Changes in socioeconomic inequality in access to study abroad programs: A cross-country analysis",
+  "abstract": "The growing evidence about the benefits of studying abroad calls for increased public efforts to equalize study abroad opportunities among university students from different socioeconomic backgrounds. Using student-level data from the nationally representative surveys of three European countries (Italy, France and Germany) between the 2000s and mid-2010s, this paper investigates how the social gap in access to study abroad programs changed over time and what are the factors driving these changes. Logistic regressions are used in order to identify the determinants of study abroad program participation and a decomposition technique is employed in an attempt to both determine how much of the gap each factor explains and compare its relative contribution over time. The results indicate that, not only has disparity in study abroad participation rate between students from more and less advantaged backgrounds not decreased in any of the countries considered here, but there is consistent evidence showing that it has increased in Germany. Differences in earlier educational trajectories and performance between these two groups of students are important predictors of the gap. However, a large part of this gap remains unexplained, and this underscores the important role played by unobserved or difficult-to-measure factors in accounting for inequality.",
+  "authors": [
+    {
+      "raw": "Di Pietro, Giorgio",
+      "family": "Di Pietro",
+      "given": "Giorgio"
+    }
+  ],
+  "authors_text": "Di Pietro, Giorgio",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100465",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100465",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100465",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100465.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The ethnic wage penalty in Western European regions: Is the European integration model confirmed when differences within countries are considered?",
+  "abstract": "BACKGROUND The European model of integration of recent immigrants is characterised by a trade-off between employment and job quality, which takes different forms in Southern and Continental Europe. In Mediterranean countries, migrants have similar employment opportunities as natives, but they have high risks of entering the lowest strata of the occupational structure. In Continental Europe the trade-off is reversed: Migrants have lower employment opportunities, but once employed, they face a lower penalisation in terms of job quality than the one faced by immigrants living in Southern Europe. OBJECTIVE This work focuses on the regional heterogeneity of the model of inclusion of recent immigrants in the European labour markets, analysing how migrant-native gaps in wages and in the probability of (dependent) employment change across areas of the same country. Is the trade-off between employment and job quality confirmed when regional differences are considered? Are there gender differences in the models of inclusion? METHODS We used European Labour Force Survey (EU-LFS, 2009-2016) data and applied probit models with sample selection, estimated separately by region and gender. RESULTS Results show substantial regional heterogeneity in the ethnic penalties in Germany and in Southern Europe, especially in Greece and Italy. Moreover, when regional differences within countries were considered, the trade-off model of inclusion was confirmed only among men, while immigrant women's model of inclusion turned out to be more mixed, with some European areas conforming to a 'double-penalty' model, whereas other areas showed patterns of immigrant disadvantage in line with an 'integration' model. CONTRIBUTION This work extends the literature by studying differences in the ethnic penalties at the regional level, focusing on both (dependent) employment probability and wage - an alternative indicator of migrants' economic integration. Our results also suggest the importance of taking gender differences into account.",
+  "authors": [
+    {
+      "raw": "Cantalini, Stefano",
+      "family": "Cantalini",
+      "given": "Stefano"
+    },
+    {
+      "raw": "Guetto, Raffaele",
+      "family": "Guetto",
+      "given": "Raffaele"
+    },
+    {
+      "raw": "Panichella, Nazareno",
+      "family": "Panichella",
+      "given": "Nazareno"
+    }
+  ],
+  "authors_text": "Cantalini, Stefano; Guetto, Raffaele; Panichella, Nazareno",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.23",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

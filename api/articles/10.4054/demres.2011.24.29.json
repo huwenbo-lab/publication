@@ -1,0 +1,30 @@
+{
+  "title": "MAPLES: A general method for the estimation of age profiles from standard demographic surveys (with an application to fertility)",
+  "abstract": "In this paper we present MAPLES (Method for Age Profiles Longitudinal EStimation), a general method for the estimation of age profiles that uses standard micro-level demographic survey data. The aim is to estimate smoothed age profiles and relative ris",
+  "authors": [
+    {
+      "raw": "Impicciatore, Roberto",
+      "family": "Impicciatore",
+      "given": "Roberto"
+    },
+    {
+      "raw": "Billari, Francesco",
+      "family": "Billari",
+      "given": "Francesco"
+    }
+  ],
+  "authors_text": "Impicciatore, Roberto; Billari, Francesco",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2011,
+  "doi": "10.4054/demres.2011.24.29",
+  "doi_url": "https://doi.org/10.4054/demres.2011.24.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2011.24.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2011.24.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

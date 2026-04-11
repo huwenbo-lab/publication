@@ -1,0 +1,30 @@
+{
+  "title": "Schooling behaviors or prior skills? A cautionary tale of omitted variable bias within oppositional culture theory",
+  "abstract": "Prior research on oppositional culture theory has generally focused on beliefs about the opportunity structure, or the acting white hypothesis, as an explanation for racial differences in school achievement. However, little attention has been given to the mechanism by which these beliefs affect achievement: schooling behaviors. The authors posit that students' prior level of skills may be an important omitted factor that biases the effect of schooling behaviors on achievement. Using data from the National Educational Longitudinal Survey, they found that whereas behaviors account for a larger proportion of Asian Americans' achievement advantage than do prior skills, prior skills explain half to nearly three-quarters of blacks' low achievement relative to that of whites and that dramatic declines in behavioral effects on achievement are observed after prior skills are controlled. Finally, the findings show that schooling behaviors are partially shaped by prior skills. They suggest that students with low skill levels prior to high school are likely to have poor achievement at the end of their high school careers, regardless of their schooling behaviors during high school.",
+  "authors": [
+    {
+      "raw": "Harris, Angel L.",
+      "family": "Harris",
+      "given": "Angel L."
+    },
+    {
+      "raw": "Robinson, Keith",
+      "family": "Robinson",
+      "given": "Keith"
+    }
+  ],
+  "authors_text": "Harris, Angel L.; Robinson, Keith",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2007,
+  "doi": "10.1177/003804070708000203",
+  "doi_url": "https://doi.org/10.1177/003804070708000203",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070708000203",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070708000203.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

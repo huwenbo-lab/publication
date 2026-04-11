@@ -1,0 +1,25 @@
+{
+  "title": "Programmatic access to open statistical data for population studies: The SDMX standard",
+  "abstract": "BACKGROUND The public sector publishes vast amounts of open data and metadata. APIs (application programming interfaces) are transforming the way data are collected, documented, and disseminated. The transformation is slow, however, due to differences in communication protocol, data definition, and data format. The development is of particular relevance to demography, being a data-intensive science. It paves the way to the automation of data acquisition and the integration of data acquisition and data analysis. Together with the parallel development of literate programming, which allows the integration of text and computer code in a single document, programmatic access to data makes workflows transparent, verifiable, and easy to replicate by others. The Statistical Data and Metadata Exchange (SDMX) standard, which has emerged as a popular option for data and metadata exchange, makes finding and retrieving data and metadata easy and swift. Query strings form URLs with a standardised syntax.OBJECTIVE The aim of this paper is to describe the SDMX standard and demonstrate its benefits to our profession by retrieving demographic data and the associated metadata from online databases disseminated by a variety of data providers. The software environment used is R.CONTRIBUTION This is the first review of the SDMX standard aimed at the study of population. The paper includes the R code to access databases and download data and metadata. The paper includes several hyperlinks to relevant documents issued by data providers, giving readers immediate access to the referenced material.",
+  "authors": [
+    {
+      "raw": "Willekens, Frans",
+      "family": "Willekens",
+      "given": "Frans"
+    }
+  ],
+  "authors_text": "Willekens, Frans",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.40",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.40",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.40",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.40.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

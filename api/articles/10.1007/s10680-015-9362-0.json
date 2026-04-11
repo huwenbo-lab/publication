@@ -1,0 +1,30 @@
+{
+  "title": "Decision-Making in Agent-Based Models of Migration: State of the Art and Challenges",
+  "abstract": "We review agent-based models (ABM) of human migration with respect to their decision-making rules. The most prominent behavioural theories used as decision rules are the random utility theory, as implemented in the discrete choice model, and the theory of planned behaviour. We identify the critical choices that must be made in developing an ABM, namely the modelling of decision processes and social networks. We also discuss two challenges that hamper the widespread use of ABM in the study of migration and, more broadly, demography and the social sciences: (a) the choice and the operationalisation of a behavioural theory (decision-making and social interaction) and (b) the selection of empirical evidence to validate the model. We offer advice on how these challenges might be overcome.",
+  "authors": [
+    {
+      "raw": "Klabunde, Anna",
+      "family": "Klabunde",
+      "given": "Anna"
+    },
+    {
+      "raw": "Willekens, Frans",
+      "family": "Willekens",
+      "given": "Frans"
+    }
+  ],
+  "authors_text": "Klabunde, Anna; Willekens, Frans",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2016,
+  "doi": "10.1007/s10680-015-9362-0",
+  "doi_url": "https://doi.org/10.1007/s10680-015-9362-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-015-9362-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-015-9362-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

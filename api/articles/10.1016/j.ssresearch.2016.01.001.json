@@ -1,0 +1,30 @@
+{
+  "title": "Is immigrant neighborhood inequality less pronounced in suburban areas?",
+  "abstract": "We investigate suburbanization and neighborhood inequality among 14 immigrant groups using census tract data from the 2008-2012 American Community Survey. Immigrant neighborhood inequality is defined here as the degree to which immigrants reside in neighborhoods that are poorer than the neighborhoods in which native whites reside. Using city and suburb Gini coefficients which reflect the distributions of groups across neighborhoods with varying poverty rates, we find that the immigrant-white gap is attenuated in the suburbs. This finding applies to most of the nativity groups and remains after accounting for metropolitan context, the segregation of poverty, and group-specific segregation levels, poverty rates, and acculturation characteristics. Despite reduced neighborhood inequality in the suburbs, large group differences persist. A few immigrant groups achieve residential parity or better vis-a-vis suburban whites while others experience high levels of neighborhood inequality and receive marginal residential returns on suburban location. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Farrell, Chad R.",
+      "family": "Farrell",
+      "given": "Chad R."
+    },
+    {
+      "raw": "Firebaugh, Glenn",
+      "family": "Firebaugh",
+      "given": "Glenn"
+    }
+  ],
+  "authors_text": "Farrell, Chad R.; Firebaugh, Glenn",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.01.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.01.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.01.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.01.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

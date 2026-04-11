@@ -1,0 +1,25 @@
+{
+  "title": "The protective role of parental work intensity for children in poverty in the United States",
+  "abstract": "BACKGROUND In-work poverty-where families remain below the poverty threshold despite being employed-has been a persistent issue in many Western countries, particularly affecting families with children. Parents in such households may adjust their work intensity, namely the number of weeks worked annually, to buffer the negative impact of poverty on their children. OBJECTIVE This study examines whether an increase in parental work intensity acts as a resilience mechanism that helps to shield children from the developmental harms associated with poverty. Specifically, it examines the moderating role of parental work intensity in the relationship between poverty status and children's reading ability. METHODS Using longitudinal data from the National Longitudinal Survey of Youth 1979 Child and Young Adult (1988-2012), I employ OLS and individual fixed-effects models to estimate the relationship between parental work intensity and children's outcomes. The study population consists of children aged 5-15. RESULTS The results show that, for children in poverty, increased parental work intensity is positively associated with improved reading ability. This association is more pronounced among girls, Hispanic children, and children from racial groups that are neither Black nor Hispanic. By contrast, parental work intensity does not appear to be related to children's reading ability for children from families not in poverty. CONTRIBUTION This study highlights how specific features of parental employment-particularly work intensity-can function as resilience mechanisms that protect children from the negative developmental effects of poverty. It addresses a key gap in the literature, which has largely focused on parental unemployment, paying limited attention to families where the parents are employed but still experiencing poverty.",
+  "authors": [
+    {
+      "raw": "Garcia-Sierra, Alicia",
+      "family": "Garcia-Sierra",
+      "given": "Alicia"
+    }
+  ],
+  "authors_text": "Garcia-Sierra, Alicia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.4",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

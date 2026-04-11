@@ -1,0 +1,30 @@
+{
+  "title": "Liberal economic institutions reduce relative poverty only in developed, individualist societies: A global analysis, 2000-2019",
+  "abstract": "Liberal economic institutions-such as secure property rights, modest regulation, and free international trade-seem to boost economic development, but how do they relate to relative poverty? Surprisingly, given the social salience of this question in the age of globalization, there is almost no comprehensive research using global panel data and aggregate indices of economic freedom to investigate it. We construct such a dataset with 139 countries, and present fixed-effects and dynamic-panel regressions of relative poverty on liberal economic institutions, measured with the Fraser Institute's Economic Freedom of the World (EFW) index. Our baseline finding is that over-time increases in economic freedom-especially freedom of international trade but also limited government size-predict modest decreases in relative poverty. This relationship turns out to be heterogeneous and strongly mediated by unemployment, such that economic freedom decreases unemployment, which in turn decreases relative poverty. Crucially, we find that collectivism, a cultural variable, strongly moderates the relationship between economic freedom and poverty to the extent that it becomes non-significant in societies tending toward collectivism. Concerning endogeneity, our results are shown to be quite robust to moderate levels of omitted-variable bias in formal tests, and reverse causality is not an issue. However, dynamic panel models that include lagged values of the dependent variable among regressors indicate loss of significance for some of our main results, preventing us from claiming complete robustness to endogeneity.",
+  "authors": [
+    {
+      "raw": "Rutar, Tibor",
+      "family": "Rutar",
+      "given": "Tibor"
+    },
+    {
+      "raw": "Hocevar, Marko",
+      "family": "Hocevar",
+      "given": "Marko"
+    }
+  ],
+  "authors_text": "Rutar, Tibor; Hocevar, Marko",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103231",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103231",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103231",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103231.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Effects of Marital and Nonmarital Union Transition on Health",
+  "abstract": "This study examines the effects of marital and nonmarital union transition on health. Utilizing Canadian longitudinal data, we find that exiting both marriage and cohabitation seems to have similar effects: Dissolving either union tends to be associated with a decrease in physical health, mental health, or both. With possible selection effects eliminated and protection effects held constant, we find that remaining in either type of union generally is associated with poorer health. We speculate that decreased union quality may account for this inverse relationship, and that protection effects may explain much of the reported health gains associated with union life.",
+  "authors": [
+    {
+      "raw": "Wu, Zheng",
+      "family": "Wu",
+      "given": "Zheng"
+    },
+    {
+      "raw": "Hart, Randy",
+      "family": "Hart",
+      "given": "Randy"
+    }
+  ],
+  "authors_text": "Wu, Zheng; Hart, Randy",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2002,
+  "doi": "10.1111/j.1741-3737.2002.00420.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2002.00420.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2002.00420.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2002.00420.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

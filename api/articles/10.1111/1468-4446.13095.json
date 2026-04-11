@@ -1,0 +1,30 @@
+{
+  "title": "Regional variation in intergenerational social mobility in Britain",
+  "abstract": "We present the first comprehensive set of estimates of variation in intergenerational social mobility across regions of Great Britain using data from the UK Labour Force Survey. Unlike the Social Mobility Index produced by the Social Mobility Commission, we focus directly on variation in measures of intergenerational social class mobility between the regions in which individuals were brought up. We define regions using the NUTS classification and we consider three levels, from 11 large NUTS1 regions, to 168 NUTS3 regions, across England, Wales, and Scotland. We investigate whether it is possible to form an index of social mobility from these measures and we address a neglected question: how much does the region in which someone was raised matter in comparison with the social class in which they were raised?",
+  "authors": [
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    },
+    {
+      "raw": "In, Jung",
+      "family": "In",
+      "given": "Jung"
+    }
+  ],
+  "authors_text": "Breen, Richard; In, Jung",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1111/1468-4446.13095",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13095",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13095",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13095.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

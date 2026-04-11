@@ -1,0 +1,35 @@
+{
+  "title": "Alcohol's Collateral Damage: Childhood Exposure to Problem Drinkers and Subsequent Adult Mortality Risk",
+  "abstract": "The importance of childhood circumstances, broadly defined, for shaping adult health and longevity is well established. But the significance of one of the most prevalent childhood adversities-exposure to problem drinkers-has been understudied from a sociological perspective and remains poorly understood. We address this gap by drawing on cumulative inequality theory, using data from the 1988-2011 National Health Interview Survey-Linked Mortality Files, and estimating Cox proportional hazards models to examine the relationship between exposure to problem drinkers in childhood and adult mortality risk. Childhood exposure to problem drinkers is common (nearly one in five individuals were exposed) and elevates adult overall and cause-specific mortality risk. Compared to individuals who had not lived with a problem drinker during childhood, those who had done so suffered 17 percent higher risk of death (p < .001) over the follow-up period, net of age, sex, and race/ethnicity. We find compelling evidence that the duration, source, and intensity of exposure to problem drinkers in childhood contributes to inequality in adult mortality risk. Favorable socioeconomic status in adulthood does not ameliorate the consequences of childhood exposure to problem drinkers. The primary intervening mechanisms are risky behaviors, including adult drinking and smoking. The findings-which reveal that the influence of problem drinking is far reaching and long term-should inform policies to improve childhood circumstances, reduce detrimental effects of problem drinking, and increase life expectancy.",
+  "authors": [
+    {
+      "raw": "Rogers, Richard G.",
+      "family": "Rogers",
+      "given": "Richard G."
+    },
+    {
+      "raw": "Lawrence, Elizabeth M.",
+      "family": "Lawrence",
+      "given": "Elizabeth M."
+    },
+    {
+      "raw": "Montez, Jennifer Karas",
+      "family": "Montez",
+      "given": "Jennifer Karas"
+    }
+  ],
+  "authors_text": "Rogers, Richard G.; Lawrence, Elizabeth M.; Montez, Jennifer Karas",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sow074",
+  "doi_url": "https://doi.org/10.1093/sf/sow074",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow074",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow074.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

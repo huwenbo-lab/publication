@@ -1,0 +1,45 @@
+{
+  "title": "Generations and Gender Programme Wave 1 data collection: An overview and assessment of sampling and fieldwork methods, weighting procedures, and cross-sectional representativeness",
+  "abstract": "BACKGROUND The Generations and Gender Survey (GGS) was developed to stimulate the study of a broad range of topics of relevance to population scientists. So far, at least one wave of the GGS has been conducted in 19 countries. If scholars want to use the GGS for comparative purposes, it is essential that there be cross-national equivalence in terms of survey implementation and representativeness. OBJECTIVES The two main goals are (1) to describe the main features of the implementation of the GGS in participating countries, and (2) to describe and evaluate the quality of the data collection of the GGS in terms of its cross-sectional representativeness. METHODS We use weighted and unweighted GGS data for 18 countries and compare this to country-specific information. RESULTS The quality of sampling and fieldwork procedures of the GGS is generally good. On average, response rates in the GGS are comparable to those in other cross-national surveys. After weighting, the data are generally representative in terms of age, gender, region, and household size, but less so for marital status and educational attainment. Implications for future waves of the GGS are discussed.",
+  "authors": [
+    {
+      "raw": "Fokkema, Tineke",
+      "family": "Fokkema",
+      "given": "Tineke"
+    },
+    {
+      "raw": "Kveder, Andrej",
+      "family": "Kveder",
+      "given": "Andrej"
+    },
+    {
+      "raw": "Hiekel, Nicole",
+      "family": "Hiekel",
+      "given": "Nicole"
+    },
+    {
+      "raw": "Emery, Tom",
+      "family": "Emery",
+      "given": "Tom"
+    },
+    {
+      "raw": "Liefbroer, Aart C.",
+      "family": "Liefbroer",
+      "given": "Aart C."
+    }
+  ],
+  "authors_text": "Fokkema, Tineke; Kveder, Andrej; Hiekel, Nicole; Emery, Tom; Liefbroer, Aart C.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.18",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

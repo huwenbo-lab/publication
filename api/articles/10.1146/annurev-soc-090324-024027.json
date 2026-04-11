@@ -1,0 +1,30 @@
+{
+  "title": "Meaning in Hyperspace: Word Embeddings as Tools for Cultural Measurement",
+  "abstract": "Word embeddings are language models that represent words as positions in an abstract many-dimensional meaning space. Despite a growing range of applications demonstrating their utility for sociology, there is little conceptual clarity regarding what exactly embeddings measure and whether this matches what we need them to measure. Here, we fill this theoretical gap by clarifying how cultural meaning can be understood in spatial terms. We argue that embeddings operationalize context spaces, where words' positions can reflect any regularity in usage. We then examine sociologists' embeddings-based measurements to argue that most sociologists are instead implicitly interested in capturing concept spaces, where positions strictly indicate meaningful conceptual features (e.g., femininity or status). Because meaningful features yield regularities in usage, context spaces can proxy for concept spaces. However, context spaces also reflect surface regularities in language-e.g., syntax, morphology, dialect, and phraseology-which are irrelevant to most sociological investigations and can bias cultural measurement. We draw on our framework to propose best practices for measuring meaning with embeddings.",
+  "authors": [
+    {
+      "raw": "Boutyline, Andrei",
+      "family": "Boutyline",
+      "given": "Andrei"
+    },
+    {
+      "raw": "Arseniev-Koehler, Alina",
+      "family": "Arseniev-Koehler",
+      "given": "Alina"
+    }
+  ],
+  "authors_text": "Boutyline, Andrei; Arseniev-Koehler, Alina",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2025,
+  "doi": "10.1146/annurev-soc-090324-024027",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-090324-024027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-090324-024027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-090324-024027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

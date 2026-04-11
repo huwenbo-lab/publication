@@ -1,0 +1,50 @@
+{
+  "title": "A new subjective well-being index using anchored best-worst scaling",
+  "abstract": "Subjective well-being (SWB) describes an individual ' s life evaluation. Direct elicitation methods for SWB via rating scales do not force individuals to trade-off among life domains, whilst bestworst scaling (BWS) approaches only provide relative measures. This paper instead offers a dual -response BWS task, where respondents nominate areas of most and least importance and satisfaction with respect to 11 SWB domains, whilst also eliciting anchoring points to obtain an absolute measure of domain satisfaction. Combining domain satisfaction and importance produces a robust measure of individual SWB, but statistically unique relative to other life satisfaction measures utilizing single- and multi -item ratings, including global satisfaction and those aggregated over SWB domains, as well as eudemonia. Surveying 2500 Australians reveals anchored-BWS improves discrimination amongst domains in terms of importance and satisfaction, illustrating its value as a diagnostic tool for SWB measurement to focus services, policy, and initiatives in areas to most impact wellbeing. This includes highlighting a major discrepancy between health satisfaction and importance, whilst also reporting that SWB is significantly lower for Indigenous, unemployed, middle-aged, males and lower income groups.",
+  "authors": [
+    {
+      "raw": "Burke, Paul F.",
+      "family": "Burke",
+      "given": "Paul F."
+    },
+    {
+      "raw": "Rose, John M.",
+      "family": "Rose",
+      "given": "John M."
+    },
+    {
+      "raw": "Fifer, Simon",
+      "family": "Fifer",
+      "given": "Simon"
+    },
+    {
+      "raw": "Masters, Daniel",
+      "family": "Masters",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Kuegler, Stefan",
+      "family": "Kuegler",
+      "given": "Stefan"
+    },
+    {
+      "raw": "Cabrera, Ariana",
+      "family": "Cabrera",
+      "given": "Ariana"
+    }
+  ],
+  "authors_text": "Burke, Paul F.; Rose, John M.; Fifer, Simon; Masters, Daniel; Kuegler, Stefan; Cabrera, Ariana",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103013",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Spatial and social mobility in England and Wales: A sub-national analysis of differences and trends over time",
+  "abstract": "Recent studies of social mobility have documented that not only who your parents are, but also where you grow up, substantially influences subsequent life chances. We bring these two concepts together to study social mobility in England and Wales, in three post-war generations, using linked Decennial Census data. Our findings show considerable spatial variation in rates of absolute and relative mobility, as well as how these have changed over time. While upward mobility increased in every region between the mid-1950s and the early 1980s, this shift varied across different regions and tailed off for more recent cohorts. We also explore how domestic migration is related to social mobility, finding that those who moved out of their region of origin had higher rates of upward mobility compared to those who stayed, although this difference narrowed over time.",
+  "authors": [
+    {
+      "raw": "Buscha, Franz",
+      "family": "Buscha",
+      "given": "Franz"
+    },
+    {
+      "raw": "Gorman, Emma",
+      "family": "Gorman",
+      "given": "Emma"
+    },
+    {
+      "raw": "Sturgis, Patrick",
+      "family": "Sturgis",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Buscha, Franz; Gorman, Emma; Sturgis, Patrick",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2021,
+  "doi": "10.1111/1468-4446.12885",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12885",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12885",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12885.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

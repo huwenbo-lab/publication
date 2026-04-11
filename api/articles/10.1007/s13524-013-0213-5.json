@@ -1,0 +1,25 @@
+{
+  "title": "Migrant Networks and International Migration: Testing Weak Ties",
+  "abstract": "Abstract This article examines the role of migrant social networks in international migration and extends prior research by testing the strength of tie theory, decomposing networks by sources and resources, and disentangling network effects from complementary explanations. Nearly all previous empirical research has ignored friendship ties and has largely neglected extended-family ties. Using longitudinal data from the Migration between Africa and Europe project collected in Africa (Senegal) and Europe (France, Italy, and Spain), this article tests the robustness of network theory—and in particular, the role of weak ties—on first-time migration between Senegal and Europe. Discrete-time hazard model results confirm that weak ties are important and that network influences appear to be gendered, but they do not uphold the contention in previous literature that strong ties are more important than weak ties for male and female migration. Indeed, weak ties play an especially important role in male migration. In terms of network resources, having more resources as a result of strong ties appears to dampen overall migration, while having more resources as a result of weaker ties appears to stimulate male migration. Finally, the diversity of resources has varied effects for male and female migration.",
+  "authors": [
+    {
+      "raw": "Liu, Mao-Mei",
+      "family": "Liu",
+      "given": "Mao-Mei"
+    }
+  ],
+  "authors_text": "Liu, Mao-Mei",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0213-5",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0213-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0213-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0213-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

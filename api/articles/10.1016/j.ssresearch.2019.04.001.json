@@ -1,0 +1,30 @@
+{
+  "title": "Divergent roads: A cross-national intercohort analysis of affluence and environmental concern",
+  "abstract": "In this research, we combine insights from two lines of research on environmental attitudes. One tradition emphasizes heterogeneity in the relationship between environmental concern and affluence, at both the individual- and country-levels. Another examines the mechanisms that lead to change in environmental concern among affluent countries from one birth cohort to the next. We argue that a reconciliation of these two lines of research leads to new theoretical understandings of environmental concern. We assess environmental concern in an intercohort analysis using World Values Survey data from 1990 to 2009, using a sample of 164,664 individuals and 80 countries. Examining the data in two forms, in a multilevel regression framework of individuals nested in countries and a pseudo-panel design of birth cohorts across time, we draw two main conclusions. First, while environmental concern in younger cohorts has stagnated and declined among high-income countries, it has steadily grown among middle-income countries. This process is largely driven by divergent trends among respondents with lower levels of education. Second, we find significant change in environmental concern among birth cohorts over time, as well as heterogeneity in this change. Birth cohorts in middle-income countries tend to become more concerned with rising affluence, regardless of educational attainment. In contrast, we find an x-shaped pattern in high income countries. Those with higher educational attainment tend to become more concerned, and those with lower educational attainment less concerned, in response to affluence change. Theoretical and policy implications are discussed.",
+  "authors": [
+    {
+      "raw": "VanHeuvelen, Tom",
+      "family": "VanHeuvelen",
+      "given": "Tom"
+    },
+    {
+      "raw": "Summers, Nik",
+      "family": "Summers",
+      "given": "Nik"
+    }
+  ],
+  "authors_text": "VanHeuvelen, Tom; Summers, Nik",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.04.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.04.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.04.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.04.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

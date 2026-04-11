@@ -1,0 +1,35 @@
+{
+  "title": "Measurement properties of completely and end labeled unipolar and bipolar scales in Likert-type questions on income (in)equality",
+  "abstract": "The measurement of respondents' attitudes is key in social science research and many adjacent research fields. A common method to measure this information is to use Likert-type questions that consist of a statement that is evaluated with a rating scale. As shown by previous research, the scale design of Likert-type questions can have a profound impact on respondents' answer behavior. In this study, we therefore investigate the measurement properties of scales that systematically vary with respect to polarity (i.e., unipolar and bipolar) and labeling (i.e., completely and end). We conducted a survey experiment in a probability-based online panel (N = 4851) and used questions on income (in)equality that were adopted from the European Social Survey (ESS). The results reveal considerable differences between the scales under investigation. They show that end labeled unipolar and bipolar scales accomplish the criteria of equidistance best. Completely labeled bipolar scales, in contrast, only show a poor performance in terms of equidistance. Completely labeled unipolar scales are somewhere in between. Overall, our findings suggest that researchers should be careful when using survey data measured with (slightly) different scales because the results might not be comparable.",
+  "authors": [
+    {
+      "raw": "Hoehne, Jan Karem",
+      "family": "Hoehne",
+      "given": "Jan Karem"
+    },
+    {
+      "raw": "Krebs, Dagmar",
+      "family": "Krebs",
+      "given": "Dagmar"
+    },
+    {
+      "raw": "Kuehnel, Steffen-M",
+      "family": "Kuehnel",
+      "given": "Steffen-M"
+    }
+  ],
+  "authors_text": "Hoehne, Jan Karem; Krebs, Dagmar; Kuehnel, Steffen-M",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102544",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102544",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102544",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102544.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

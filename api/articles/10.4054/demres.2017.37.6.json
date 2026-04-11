@@ -1,0 +1,25 @@
+{
+  "title": "The effect of contraception on fertility: Is sub-Saharan Africa different?",
+  "abstract": "BACKGROUND Cross-sectional analyses of the relationship between contraceptive prevalence and the total fertility rate of developing countries show the expected strong negative correlation. However, this correlation is much weaker in sub-Saharan Africa than in the developing world as a whole. OBJECTIVE This paper aims to explain the unexpected weak effect of contraceptive use on fertility in sub-Saharan African countries by using different regression models to obtain unbiased effects. METHOD Using DHS survey data from 40 developing countries, the analysis consists of three steps: 1) examine the conventional cross-sectional TFR-CPR relationship by region at the time of the latest available surveys; 2) remove known technical flaws in the comparisons of fertility and contraceptive prevalence; and 3) analyze multiple observations of TFR and CPR per country using pooled OLS and fixed effect regressions. RESULTS The conventional cross-sectional analyses produce biased results, in part because technical factors, in particular postpartum overlap, create a downward bias in the effect of contraceptive prevalence on fertility in sub-Saharan Africa. In addition, and more importantly, the cross-sectional regression OLS parameters have a bias due to confounding country fixed effects. Technical adjustments and the use of fixed-effect models remove these biases. CONCLUSION A rise in contraceptive prevalence among fecund women has the same average effect on fertility in sub-Saharan Africa as in other regions of the developing world.",
+  "authors": [
+    {
+      "raw": "Bongaarts, John",
+      "family": "Bongaarts",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Bongaarts, John",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.6",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

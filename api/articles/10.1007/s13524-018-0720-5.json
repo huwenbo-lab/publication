@@ -1,0 +1,40 @@
+{
+  "title": "Interstate Migration and Employer-to-Employer Transitions in the United States: New Evidence From Administrative Records Data",
+  "abstract": "Declines in migration across labor markets have prompted concerns that the U.S. economy is becoming less dynamic. In this study, we examine the relationship between residential migration and employer-to-employer transitions in the United States, using both survey and administrative records data. We first note strong disagreement between the Current Population Survey (CPS) and other migration statistics on the timing and severity of any decline in U.S. interstate migration. Despite these divergent patterns for overall residential migration, we find consistent evidence of a substantial decline in economic migration between 2000 and 2010. We find that composition and the returns to migration have limited ability to explain recent changes in interstate migration.",
+  "authors": [
+    {
+      "raw": "Hyatt, Henry",
+      "family": "Hyatt",
+      "given": "Henry"
+    },
+    {
+      "raw": "McEntarfer, Erika",
+      "family": "McEntarfer",
+      "given": "Erika"
+    },
+    {
+      "raw": "Ueda, Ken",
+      "family": "Ueda",
+      "given": "Ken"
+    },
+    {
+      "raw": "Zhang, Alexandria",
+      "family": "Zhang",
+      "given": "Alexandria"
+    }
+  ],
+  "authors_text": "Hyatt, Henry; McEntarfer, Erika; Ueda, Ken; Zhang, Alexandria",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0720-5",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0720-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0720-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0720-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

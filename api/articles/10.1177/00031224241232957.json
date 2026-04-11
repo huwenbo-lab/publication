@@ -1,0 +1,35 @@
+{
+  "title": "Stepping-Stone versus Dead-End Jobs: Occupational Structure, Work Experience, and Mobility Out of Low-Wage Jobs",
+  "abstract": "Does working in a low-wage job lead to increased opportunities for upward mobility, or is it a dead-end that traps workers? In this article, we examine whether low-wage jobs are stepping-stones that enable workers to move to higher-paid jobs that are linked by institutional mobility ladders and skill transferability. To identify occupational linkages, we create two measures of occupational similarity using data on occupational mobility from matched samples of the Current Population Survey (CPS) and data on multiple dimensions of job skills from the O*NET. We test whether work experience in low-wage occupations increases mobility between linked occupations that results in upward wage mobility. Our analysis uses longitudinal data on low-wage workers from the 1979 National Longitudinal Study of Youth (NLSY) and the 1996 to 2008 panels of the Survey of Income and Program Participation (SIPP). We test the stepping-stone perspective using multinomial conditional logit (MCL) models, which allow us to analyze the joint effects of work experience and occupational linkages on achieving upward wage mobility. We find evidence for stepping-stone mobility in certain areas of the low-wage occupational structure. In these occupations, low-wage workers can acquire skills through work experience that facilitate upward mobility through occupational changes to skill and institutionally linked occupations.",
+  "authors": [
+    {
+      "raw": "Mouw, Ted",
+      "family": "Mouw",
+      "given": "Ted"
+    },
+    {
+      "raw": "Kalleberg, Arne L.",
+      "family": "Kalleberg",
+      "given": "Arne L."
+    },
+    {
+      "raw": "Schultz, Michael A.",
+      "family": "Schultz",
+      "given": "Michael A."
+    }
+  ],
+  "authors_text": "Mouw, Ted; Kalleberg, Arne L.; Schultz, Michael A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1177/00031224241232957",
+  "doi_url": "https://doi.org/10.1177/00031224241232957",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224241232957",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224241232957.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

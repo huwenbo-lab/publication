@@ -1,0 +1,45 @@
+{
+  "title": "Proximity to mother over the life course in the United States: Overall patterns and racial differences",
+  "abstract": "BACKGROUND The spatial distance between children and parents substantially influences their lives, yet empirical evidence on life course patterns of child-parent proximity is sparse. OBJECTIVES The goal of this study is to identify salient features of child-parent spatial distance across the life course and explain differences by race in these features in the United States. METHODS Using the Panel Study of Income Dynamics, this study examines the spatial distance between residential locations of children and their mothers over 47 years (166,098 person-year observations). Point-in-time, dynamic, and multi-state life table analyses of spatial distance are conducted using location measured at the block level. Differences between Black and White people are assessed, examining various explanatory factors, including life course events. RESULTS Living very close is common across the life course, with 25% of life-years during ages 18-54 spent within five miles of, but not with, one's mother. Children who are Black are much more likely than children who are White to live close to their mother if she is alive, but mothers of Black children are much less likely to be alive, especially when children are middle-aged. Observed sociodemographic characteristics of the child and mother account for a substantial share - and in some cases all - of the racial differences. CONCLUSIONS Very close residential proximity to one's mother beyond coresidence is common across the life course even in the geographically large United States. Racial differences in mortality affect differences between Black and White people in family spatial availability. CONTRIBUTION This study provides the first national estimates of intergenerational proximity over the life course in the United States, and hence a basis for further research.",
+  "authors": [
+    {
+      "raw": "Choi, HwaJung",
+      "family": "Choi",
+      "given": "HwaJung"
+    },
+    {
+      "raw": "Schoeni, Robert",
+      "family": "Schoeni",
+      "given": "Robert"
+    },
+    {
+      "raw": "Xu, Hongwei",
+      "family": "Xu",
+      "given": "Hongwei"
+    },
+    {
+      "raw": "Reyes, Adriana",
+      "family": "Reyes",
+      "given": "Adriana"
+    },
+    {
+      "raw": "Thomas, Deena",
+      "family": "Thomas",
+      "given": "Deena"
+    }
+  ],
+  "authors_text": "Choi, HwaJung; Schoeni, Robert; Xu, Hongwei; Reyes, Adriana; Thomas, Deena",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.23",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

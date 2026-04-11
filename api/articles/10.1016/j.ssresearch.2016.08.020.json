@@ -1,0 +1,25 @@
+{
+  "title": "Dyad vs. network effects: Modeling relationships in personal networks using contextual effects",
+  "abstract": "This paper proposes using contextual models to disentangle the effects of dyad characteristics from the effects of characteristics of the networks in which they reside. Multilevel models that nest dyads in personal networks can be coded for contextual analysis by entering both the dyad value of a predictor and the network mean of that predictor into the prediction equation. These models can then be used to measure a within -network effect for dyads and a network contextual effect. This paper conducts an example analysis of how dyad redundancy, and the network's average dyad redundancy, impact discussions of job opportunities. The findings suggest that the dyad and network effects of redundancy are in opposite directions: redundancy has a positive effect at the dyad level and a negative effect at the network level when predicting number of jobs discussed. These results support the major social capital tenets of closure and brokerage, respectively. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Hedberg, E. C.",
+      "family": "Hedberg",
+      "given": "E. C."
+    }
+  ],
+  "authors_text": "Hedberg, E. C.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.08.020",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.08.020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.08.020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.08.020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

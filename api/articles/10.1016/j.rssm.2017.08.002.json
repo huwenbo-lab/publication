@@ -1,0 +1,30 @@
+{
+  "title": "Understanding intergenerational transmission of deprivation in Spain: Education and marital sorting",
+  "abstract": "This paper contributes to the literature on intergenerational transmission of deprivation in Spain by exploring how this phenomenon is shaped by education and marital homogamy. To that aim, a set of univariate, bivariate and trivariate ordered probit models are estimated on a sample of Spanish-born individuals from the module on intergenerational transmission of disadvantages in the Spanish Survey on Living Conditions 2011. We split the sample into two age groups (30-39 and 40-49-year-olds), and find similar levels of intergenerational transmission of deprivation amongst younger cohorts despite their higher educational mobility. Education is more relevant as a channel for the transmission of disadvantages across generations in the younger subsample than in the elder one. Marital sorting has a more relevant impact on the transmission of social disadvantage in the younger group. Finally, in the elder subsample, there seems to be a more genuine (beyond the observed transmission channels) transmission of (dis-) advantage, while in the younger subsample, the observed transmission channels seem to fully explain the inheritance of the risk for material deprivation.",
+  "authors": [
+    {
+      "raw": "Davia, Maria A.",
+      "family": "Davia",
+      "given": "Maria A."
+    },
+    {
+      "raw": "Legazpe, Nuria",
+      "family": "Legazpe",
+      "given": "Nuria"
+    }
+  ],
+  "authors_text": "Davia, Maria A.; Legazpe, Nuria",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2017,
+  "doi": "10.1016/j.rssm.2017.08.002",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2017.08.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2017.08.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2017.08.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

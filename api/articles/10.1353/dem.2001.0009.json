@@ -1,0 +1,40 @@
+{
+  "title": "Behavior genetic modeling of human fertility: Findings from a contemporary danish twin study",
+  "abstract": "Abstract Behavior genetic designs and analyses can be used to address issues of central importance to demography. We use this methodology to document genetic influence on human fertility. Our data come from Danish twin pairs born from 1953 to 1959, measured on age at first attempt to get pregnant (FirstTry) and number of children (NumCh). Behavior genetic models were fitted using structural equation modeling and DF analysis. A consistent medium-level additive genetic influence was found for NumCh, equal across genders; a stronger genetic influence was identified for FirstTry, greater for females than for males. A bivariate analysis indicated significant shared genetic variance between NumCh and FirstTry.",
+  "authors": [
+    {
+      "raw": "Rodgers, Joseph Lee",
+      "family": "Rodgers",
+      "given": "Joseph Lee"
+    },
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    },
+    {
+      "raw": "Kyvik, Kirsten Ohm",
+      "family": "Kyvik",
+      "given": "Kirsten Ohm"
+    },
+    {
+      "raw": "Christensen, Kaare",
+      "family": "Christensen",
+      "given": "Kaare"
+    }
+  ],
+  "authors_text": "Rodgers, Joseph Lee; Kohler, Hans-Peter; Kyvik, Kirsten Ohm; Christensen, Kaare",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.1353/dem.2001.0009",
+  "doi_url": "https://doi.org/10.1353/dem.2001.0009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2001.0009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2001.0009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Aging in the Context of Cohort Evolution and Mortality Selection",
+  "abstract": "Abstract This study examines historical patterns of aging through the perspectives of cohort evolution and mortality selection, where the former emphasizes the correlation across cohorts in the age dependence of mortality rates, and the latter emphasizes cohort change in the acceleration of mortality over the life course. In the analysis of historical cohort mortality data, I find support for both perspectives. The rate of demographic aging, or the rate at which mortality accelerates past age 70, is not fixed across cohorts; rather, it is affected by the extent of mortality selection at young and late ages. This causes later cohorts to have higher rates of demographic aging than earlier cohorts. The rate of biological aging, approximating the rate of the senescence process, significantly declined between the mid- and late-nineteenth century birth cohorts and stabilized afterward. Unlike the rate of demographic aging, the rate of biological aging is not affected by mortality selection earlier in the life course but rather by cross-cohort changes in young-age mortality, which cause lower rates of biological aging in old age among later cohorts. These findings enrich theories of cohort evolution and have implications for the study of limits on the human lifespan and evolution of aging.",
+  "authors": [
+    {
+      "raw": "Zheng, Hui",
+      "family": "Zheng",
+      "given": "Hui"
+    }
+  ],
+  "authors_text": "Zheng, Hui",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0306-9",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0306-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0306-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0306-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

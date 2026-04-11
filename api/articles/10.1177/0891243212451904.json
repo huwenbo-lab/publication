@@ -1,0 +1,35 @@
+{
+  "title": "Gender Segregation in Elite Academic Science",
+  "abstract": "Efforts to understand gender segregation within and among science disciplines have focused on both supply- and demand-side explanations. Yet we know little about how academic scientists themselves view the sources of such segregation. Utilizing data from a survey of scientists at thirty top U.S. graduate programs in physics and biology (n = 2,503) and semistructured interviews with 150 of them, this article examines the reasons academic scientists provide for differences in the distribution of women in biology and physics. In quantitative analyses, gender is more salient than discipline in determining the reasons scientists provide for gender disparities between disciplines, suggesting that gender may act as a “master status,” shaping the experiences of scientists regardless of the gender composition of the discipline. Qualitative interviews confirm this interpretation and reveal that scientists also perceive mentoring, natural differences, discrimination, and the history of the disciplines to be important factors. Results contribute to research on the relationship between emotional labor and occupational gender segregation conducted in professions such as law and nursing.",
+  "authors": [
+    {
+      "raw": "Ecklund, Elaine Howard",
+      "family": "Ecklund",
+      "given": "Elaine Howard"
+    },
+    {
+      "raw": "Lincoln, Anne E.",
+      "family": "Lincoln",
+      "given": "Anne E."
+    },
+    {
+      "raw": "Tansey, Cassandra",
+      "family": "Tansey",
+      "given": "Cassandra"
+    }
+  ],
+  "authors_text": "Ecklund, Elaine Howard; Lincoln, Anne E.; Tansey, Cassandra",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2012,
+  "doi": "10.1177/0891243212451904",
+  "doi_url": "https://doi.org/10.1177/0891243212451904",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243212451904",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243212451904.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

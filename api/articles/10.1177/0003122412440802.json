@@ -1,0 +1,30 @@
+{
+  "title": "School Context and the Gender Gap in Educational Achievement",
+  "abstract": "Today, boys generally underperform relative to girls in schools throughout the industrialized world. Building on theories about gender identity and reports from prior ethnographic classroom observations, we argue that school environment channels conceptions of masculinity in peer culture, fostering or inhibiting boys' development of anti-school attitudes and behavior. Girls' peer groups, by contrast, vary less strongly with the social environment in the extent to which school engagement is stigmatized as un-feminine. As a consequence, boys are more sensitive than girls to school resources that create a learning-oriented environment. To evaluate this argument, we use a quasi-experimental research design and estimate the gender difference in the causal effect of peer socioeconomic status (SES) as an important school resource on test scores. Our design is based on the assumption that assignment to 5th-grade classrooms within Berlin's schools is as good as random, and we evaluate this selection process with an examination of Berlin's school regulations, a simulation analysis, and qualitative interviews with school principals. Estimates of the effect of SES composition on male and female performance strongly support our central hypothesis, and other analyses support our proposed mechanism as the likely explanation for gender differences in the causal effect.",
+  "authors": [
+    {
+      "raw": "Legewie, Joscha",
+      "family": "Legewie",
+      "given": "Joscha"
+    },
+    {
+      "raw": "DiPrete, Thomas A.",
+      "family": "DiPrete",
+      "given": "Thomas A."
+    }
+  ],
+  "authors_text": "Legewie, Joscha; DiPrete, Thomas A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2012,
+  "doi": "10.1177/0003122412440802",
+  "doi_url": "https://doi.org/10.1177/0003122412440802",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122412440802",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122412440802.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

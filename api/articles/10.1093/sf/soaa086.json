@@ -1,0 +1,25 @@
+{
+  "title": "Getting a Job, Again: New Evidence against Subjective Well-Being Scarring",
+  "abstract": "Previous research finds that unemployment leaves permanent scars on subjective well-being (SWB) that remain even after reemployment. However, this research systematically overweighs long-term unemployment, inaccurately measures employment transitions, often does not track individuals long enough to substantiate scarring, and does not always account for age-related changes in well-being. This paper uses event history calendars from the Panel Study of Income Dynamics to track complete monthly employment histories of prime working age Americans over a 17-year period, and accounts for the temporal relationships between SWB, age, and employment transitions using a novel fixed-effects formulation. The results suggest that there is some variation in patterns of recovery by employment stability after job loss, but no significant differences were observed by the duration of unemployment spells. Within 2 years of reemployment, average SWB levels reverted toward baseline trajectories across all groups, showing no evidence of scarring. This study brings unemployment literature into better alignment with research on resilience and adaptation. The findings also highlight some limitations of the construct of SWB for assessing the long-term costs of unemployment.",
+  "authors": [
+    {
+      "raw": "Rauf, Tamkinat",
+      "family": "Rauf",
+      "given": "Tamkinat"
+    }
+  ],
+  "authors_text": "Rauf, Tamkinat",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa086",
+  "doi_url": "https://doi.org/10.1093/sf/soaa086",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa086",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa086.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

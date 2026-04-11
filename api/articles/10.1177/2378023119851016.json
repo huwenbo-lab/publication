@@ -1,0 +1,35 @@
+{
+  "title": "Placing Racial Classification in Context",
+  "abstract": "This article extends previous research on place-based patterns of racial categorization by linking it to sociological theory that posits subnational variation in cultural schemas and applying regression techniques that allow for spatial variation in model estimates. We use data from a U.S. restricted-use geocoded longitudinal survey to predict racial classification as a function of both individual and county characteristics. We first estimate national average associations, then turn to spatial-regime models and geographically weighted regression to explore how these relationships vary across the country. We find that individual characteristics matter most for classification as “Black,” while contextual characteristics are important predictors of classification as “White” or “Other,” but some predictors also vary across space, as expected. These results affirm the importance of place in defining racial boundaries and suggest that U.S. racial schemas operate at different spatial scales, with some being national in scope while others are more locally situated.",
+  "authors": [
+    {
+      "raw": "Pickett, Robert E. M.",
+      "family": "Pickett",
+      "given": "Robert E. M."
+    },
+    {
+      "raw": "Saperstein, Aliya",
+      "family": "Saperstein",
+      "given": "Aliya"
+    },
+    {
+      "raw": "Penner, Andrew M.",
+      "family": "Penner",
+      "given": "Andrew M."
+    }
+  ],
+  "authors_text": "Pickett, Robert E. M.; Saperstein, Aliya; Penner, Andrew M.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119851016",
+  "doi_url": "https://doi.org/10.1177/2378023119851016",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119851016",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119851016.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

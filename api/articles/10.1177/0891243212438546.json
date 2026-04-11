@@ -1,0 +1,25 @@
+{
+  "title": "Performance-Support Bias and the Gender Pay Gap among Stockbrokers",
+  "abstract": "This article analyzes organizational mechanisms, and their contexts, leading to gender inequality among stockbrokers in two large brokerages. Inequality is the result of gender differences in sales, as both firms use performance-based pay, paying entirely by commissions. This article develops and tests whether performance-support bias, whereby women receive inferior sales support and sales assignments, causes the commissions gap. Newly available data on the brokerages’ internal transfers of accounts among brokers allows measurement of performance-support bias. Gender differences in the quality and quantity of transferred accounts provide a way to measure gender differences in the assignment of sales opportunities and support. Sales generated from internally transferred accounts, controlling for the accounts’ sales histories, provide a “natural experiment” testing for gender differences in sales capacities. The evidence for performance-support bias is (1) women are assigned inferior accounts and (2) women produce sales equivalent to men when given accounts with equivalent prior sales histories.",
+  "authors": [
+    {
+      "raw": "Madden, Janice Fanning",
+      "family": "Madden",
+      "given": "Janice Fanning"
+    }
+  ],
+  "authors_text": "Madden, Janice Fanning",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2012,
+  "doi": "10.1177/0891243212438546",
+  "doi_url": "https://doi.org/10.1177/0891243212438546",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243212438546",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243212438546.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

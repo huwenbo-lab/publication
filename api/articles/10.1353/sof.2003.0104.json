@@ -1,0 +1,40 @@
+{
+  "title": "The Effect of Teenage Employment on Delinquency and Problem Behaviors",
+  "abstract": "What happens to high school youths when they take on jobs during the school year, sometimes working long hours, while trying to maintain the role of student? There is a consensus in the empirical literature that teenage employment, particularly what is termed \"intensive\" employment, results in a constellation of detrimental consequences: lower school grades, diminished educational ambitions, and emotional alienation from parents. There is even more consensus that work and intensive work puts youths at great risk of committing delinquent acts and other problem behaviors such as smoking cigarettes, drinking alcohol, and using marijuana and other drugs. In our view, the conclusion that either work or intensive work has a harmful net effect on youths is based on a thin empirical base. The problem is that previous empirical work has not adequately addressed the issue of possible selection effects. In this article, we reexamine the relationship between intensive employment and delinquency and problem behaviors using data from the National Longitudinal Survey of Youth (NLSY). We conduct two general types of analysis. First, we conduct what we term a traditional analysis wherein we employ observed covariates to capture the selection process. Here we find the same positive relationship between intensive employment and antisocial behavior that others before us have. Second, we conduct both a random and a fixed-effect analysis where we adjust for both observed and unobserved sources of population heterogeneity. In this second analysis, we find that the positive association between work and antisocial behavior observed in the traditional analysis disappears. We discuss the implications of these results both for analyses of the relationship between work and crime in general and for criminological theory.",
+  "authors": [
+    {
+      "raw": "Paternoster, R.",
+      "family": "Paternoster",
+      "given": "R."
+    },
+    {
+      "raw": "Bushway, S.",
+      "family": "Bushway",
+      "given": "S."
+    },
+    {
+      "raw": "Apel, R.",
+      "family": "Apel",
+      "given": "R."
+    },
+    {
+      "raw": "Brame, R.",
+      "family": "Brame",
+      "given": "R."
+    }
+  ],
+  "authors_text": "Paternoster, R.; Bushway, S.; Apel, R.; Brame, R.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2003,
+  "doi": "10.1353/sof.2003.0104",
+  "doi_url": "https://doi.org/10.1353/sof.2003.0104",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2003.0104",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2003.0104.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

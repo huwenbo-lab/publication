@@ -1,0 +1,25 @@
+{
+  "title": "Places of Persistence: Slavery and the Geography of Intergenerational Mobility in the United States",
+  "abstract": "Intergenerational mobility has remained stable over recent decades in the United States but varies sharply across the country. In this article, I document that areas with more prevalent slavery by the outbreak of the Civil War exhibit substantially less upward mobility today. I find a negative link between prior slavery and contemporary mobility within states, when controlling for a wide range of historical and contemporary factors including income and inequality, focusing on the historical slave states, using a variety of mobility measures, and when exploiting geographical differences in the suitability for cultivating cotton as an instrument for the prevalence of slavery. As a first step to disentangle the underlying channels of persistence, I examine whether any of the five broad factors highlighted by Chetty et al. (2014a) as the most important correlates of upward mobility-family structure, income inequality, school quality, segregation, and social capital-can account for the link between earlier slavery and current mobility. More fragile family structures in areas where slavery was more prevalent, as reflected in lower marriage rates and a larger share of children living in single-parent households, is seemingly the most relevant to understand why it still shapes the geography of opportunity in the United States.",
+  "authors": [
+    {
+      "raw": "Berger, Thor",
+      "family": "Berger",
+      "given": "Thor"
+    }
+  ],
+  "authors_text": "Berger, Thor",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0693-4",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0693-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0693-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0693-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

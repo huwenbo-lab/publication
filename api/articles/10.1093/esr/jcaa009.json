@@ -1,0 +1,30 @@
+{
+  "title": "The End of Dominance? Evaluating Measures of Socio-Economic Background in Stratification Research",
+  "abstract": "We analyse how to best combine information on both parents' socio-economic status (SES) in intergenerational research. This can be done by utilizing separate measures for each parent, taking averages over parents, modelling interactions, or only using the highest value across parents-the latter commonly referred to as the dominance approach. Our brief literature review suggests that (i) the dominance tradition is widespread, although seldom theoretically or empirically justified and (ii) parental interactive models are not widely used. We assess how much of the sibling correlations in continuous measures of education, occupation, and earnings that are explained by parents' SES in the same dimensions using the different operationalizations. The dominance approach performs poorer than other models of parental SES. For the total contribution of socio-economic background, we find a bias of about 4-6 per cent for children's education and occupational outcomes compared with other approaches. We also conduct a separate evaluation of nominal EGP social class operationalizations and find that the dominance approach is the most suboptimal choice compared with the alternatives. In conclusion, parental averages are preferred over dominance, as an attractive and parsimonious one variable alternative, although the highest explanatory power is attributed to models using two parental measures and an interaction term.",
+  "authors": [
+    {
+      "raw": "Thaning, Max",
+      "family": "Thaning",
+      "given": "Max"
+    },
+    {
+      "raw": "Hallsten, Martin",
+      "family": "Hallsten",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Thaning, Max; Hallsten, Martin",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcaa009",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Union Instability as an Engine of Fertility? A Microsimulation Model for France",
+  "abstract": "Abstract Opportunities for conceiving and bearing children are fewer when unions are not formed or are dissolved during the childbearing years. At the same time, union instability produces a pool of persons who may enter new partnerships and have additional children in stepfamilies. The balance between these two opposing forces and their implications for fertility may depend on the timing of union formation and parenthood. In this article, we estimate models of childbearing, union formation, and union dissolution for female respondents to the 1999 French Etude de l’Histoire Familiale. Model parameters are applied in microsimulations of completed family size. We find that a population of women whose first unions dissolve during the childbearing years will end up with smaller families, on average, than a population in which all unions remain intact. Because new partnerships encourage higher parity progressions, repartnering minimizes the fertility gap between populations with and those without union dissolution. Differences between the two populations are much smaller when family formation is postponed—that is, when union formation and dissolution or first birth occurs after age 30, or when couples delay childbearing after union formation.",
+  "authors": [
+    {
+      "raw": "Thomson, Elizabeth",
+      "family": "Thomson",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Winkler-Dworak, Maria",
+      "family": "Winkler-Dworak",
+      "given": "Maria"
+    },
+    {
+      "raw": "Spielauer, Martin",
+      "family": "Spielauer",
+      "given": "Martin"
+    },
+    {
+      "raw": "Prskawetz, Alexia",
+      "family": "Prskawetz",
+      "given": "Alexia"
+    }
+  ],
+  "authors_text": "Thomson, Elizabeth; Winkler-Dworak, Maria; Spielauer, Martin; Prskawetz, Alexia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-011-0085-5",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0085-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0085-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0085-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Long-Term Trends and Ethnoracial Inequality in US Foster Care: A Research Note",
+  "abstract": "This study combines and standardizes multiple sources of administrative data to calculate rates of children in foster care in the United States from 1961 to 2018, more than tripling the length of previously available time series. Results yield novel insights about historical, geographic, and ethnoracial variation in children's experience of living without parents under state supervision. National rates of children in foster care rose from 3 per 1,000 in 1963 to a peak of almost 8 per 1,000 in 1997 before declining to just under 6 per 1,000 in 2018. After stable or increasing racial inequality in the late twentieth century, disparities between Black/African American and White children began to decrease in the twenty-first century in nearly every state, closing entirely in several Southern states but remaining wide outside the South. In many Midwestern and Western states, the extreme overrepresentation of American Indian/Alaska Native children in foster care persisted or intensified.",
+  "authors": [
+    {
+      "raw": "Roehrkasse, Alexander F.",
+      "family": "Roehrkasse",
+      "given": "Alexander F."
+    }
+  ],
+  "authors_text": "Roehrkasse, Alexander F.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9411316",
+  "doi_url": "https://doi.org/10.1215/00703370-9411316",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9411316",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9411316.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

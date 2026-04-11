@@ -1,0 +1,40 @@
+{
+  "title": "Health Selection, Migration, and HIV Infection in Malawi",
+  "abstract": "Despite its importance in studies of migrant health, selectivity of migrants-also known as migration health selection-has seldom been examined in sub-Saharan Africa (SSA). This neglect is problematic because several features of the context in which migration occurs in SSA-very high levels of HIV, in particular-differ from contextual features in regions that have been studied more thoroughly. To address this important gap, we use longitudinal panel data from Malawi to examine whether migrants differ from nonmigrants in pre-migration health, assessed via SF-12 measures of mental and physical health. In addition to overall health selection, we focus on three more-specific factors that may affect the relationship between migration and health: (1) whether migration health selection differs by destination (rural-rural, rural-town, and rural-urban), (2) whether HIV infection moderates the relationship between migration and health, and (3) whether circular migrants differ in pre-migration health status. We find evidence of the healthy migrant phenomenon in Malawi, where physically healthier individuals are more likely to move. This relationship varies by migration destination, with healthier rural migrants moving to urban and other rural areas. We also find interactions between HIV-infected status and health: HIV-infected women moving to cities are physically healthier than their nonmigrant counterparts.",
+  "authors": [
+    {
+      "raw": "Anglewicz, Philip",
+      "family": "Anglewicz",
+      "given": "Philip"
+    },
+    {
+      "raw": "VanLandingham, Mark",
+      "family": "VanLandingham",
+      "given": "Mark"
+    },
+    {
+      "raw": "Manda-Taylor, Lucinda",
+      "family": "Manda-Taylor",
+      "given": "Lucinda"
+    },
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    }
+  ],
+  "authors_text": "Anglewicz, Philip; VanLandingham, Mark; Manda-Taylor, Lucinda; Kohler, Hans-Peter",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0668-5",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0668-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0668-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0668-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

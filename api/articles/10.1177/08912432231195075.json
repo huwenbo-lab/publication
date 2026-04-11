@@ -1,0 +1,30 @@
+{
+  "title": "Gender Segregation in Civic Life: Women’s and Men’s Involvement in Voluntary Associations",
+  "abstract": "The pervasive persistence of gender segregation has been documented in a myriad of social settings, implying that women and men primarily encounter peers of their own gender in daily life. While voluntary associations are often praised for their ability to bridge other social divides, previous research indicates substantive gender disparities in voluntary involvement. Yet we still know relatively little about the extent and origins of gender segregation in civic life. In this article, we study gender homophily in voluntary involvement and examine how structural features of friendship networks and traditional gender norms bring about gender segregation. Employing data from a German panel study (SC6-NEPS), we analyze cross-sectional patterns of gender segregation and run multinomial and binary logistic regressions to model joining and quitting transitions. Our results indicate substantive gender segregation across and within types of voluntary associations. The overall gender segregation is driven by homophilous transitions into associational contexts, not by selective quitting decisions. Gender-segregated friendship networks partially explain the tendency to join organizations dominated by one’s own gender. Traditional gender norms are associated with more homophilous joining transitions among men, but not among women. Overall, these findings imply that civic life perpetuates the structural significance of gender.",
+  "authors": [
+    {
+      "raw": "Dederichs, Kasimir",
+      "family": "Dederichs",
+      "given": "Kasimir"
+    },
+    {
+      "raw": "de Graaf, Nan Dirk",
+      "family": "de Graaf",
+      "given": "Nan Dirk"
+    }
+  ],
+  "authors_text": "Dederichs, Kasimir; de Graaf, Nan Dirk",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2023,
+  "doi": "10.1177/08912432231195075",
+  "doi_url": "https://doi.org/10.1177/08912432231195075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432231195075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432231195075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

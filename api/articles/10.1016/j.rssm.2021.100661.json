@@ -1,0 +1,30 @@
+{
+  "title": "Gender inequality in educational performance over the school career: The role of tracking",
+  "abstract": "Previous studies have shown an association between the tracking age and gender inequality in educational performance and attainment, but it remains unclear when and how tracking affects the gender gap in educational outcomes. As differences between boys and girls are not constant across the school-career, tracking early or later in the school career might have different consequences. We examine how gender gaps develop over the school career and how this development differs between early- and late-tracking countries. Microdata on educational achievement and attainment from several cross-national surveys (PIRLS, TIMSS, PISA, PIAAC and ESS), are combined with country-level information on the tracking age. Using a differences-in-differences design, we find that differentiation between educational tracks, irrespective of the age at which it occurs, is beneficial for girls. However, this positive effect is larger when educational systems track late than when they track early, suggesting that compared to early tracking, tracking later is more favourable for female students.",
+  "authors": [
+    {
+      "raw": "Scheeren, Lotte",
+      "family": "Scheeren",
+      "given": "Lotte"
+    },
+    {
+      "raw": "Bol, Thijs",
+      "family": "Bol",
+      "given": "Thijs"
+    }
+  ],
+  "authors_text": "Scheeren, Lotte; Bol, Thijs",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2021.100661",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100661",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100661",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100661.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

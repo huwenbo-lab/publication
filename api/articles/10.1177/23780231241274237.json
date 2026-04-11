@@ -1,0 +1,30 @@
+{
+  "title": "What Is the Effect of an Inferred Mental Illness Label on Stigma? Theoretical and Empirical Challenges",
+  "abstract": "One of the strengths of vignette-based experimental research is that it captures the mental illness labeling process in the way it often occurs—inference without full information. Unfortunately, because the process of inferring a label is associated with confounding variables, such as perceived deviance and prior contact, it is difficult to measure the causal effect of inferred mental illness labels. To address these confounding variables, we advocate for the use of causal inference methods. Using causal inference methods, we analyze the 1996, 2006, and 2018 General Social Survey National Stigma Studies. We find that (1) an inferred mental illness label affects desired social distance, (2) the likelihood and effect of inferring a label differs across mental illnesses, and (3) causal inference methods that exact match on contact better approximate the causal effect of inferring a label. These findings underline the importance of clearly identifying effects of interest and causal methods’ utility for estimating these effects.",
+  "authors": [
+    {
+      "raw": "Manago, Bianca",
+      "family": "Manago",
+      "given": "Bianca"
+    },
+    {
+      "raw": "Mize, Trenton D.",
+      "family": "Mize",
+      "given": "Trenton D."
+    }
+  ],
+  "authors_text": "Manago, Bianca; Mize, Trenton D.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241274237",
+  "doi_url": "https://doi.org/10.1177/23780231241274237",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241274237",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241274237.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

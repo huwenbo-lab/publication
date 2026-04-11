@@ -1,0 +1,30 @@
+{
+  "title": "Demographers and their journals: Who remains uncited after ten years?",
+  "abstract": "This research note examines the level of uncitedness and the impact of articles published in the years 1990-92 in 17 demography journals. After ten years 24 percent of the demography articles are still uncited and the average number of citations per article is seven. The ten-year citation history reveals two novel insights. First, the impact of demography journals does not slow down significantly over time. The average number of citations in the first five years hardly differs from the average in the second five years, which suggests that one should be patient in assessing the full effect of demography articles. Second, the chance of being cited for the first time does not depend on the length of time an article remains uncited. In other words, the stigma of uncitedness does not play a significant role in the allocation of citations.",
+  "authors": [
+    {
+      "raw": "Van Dalen, HP",
+      "family": "Van Dalen",
+      "given": "HP"
+    },
+    {
+      "raw": "Henkens, K",
+      "family": "Henkens",
+      "given": "K"
+    }
+  ],
+  "authors_text": "Van Dalen, HP; Henkens, K",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2004,
+  "doi": "10.1111/j.1728-4457.2004.00025.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2004.00025.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2004.00025.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2004.00025.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

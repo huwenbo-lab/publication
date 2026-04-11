@@ -1,0 +1,40 @@
+{
+  "title": "Multiple (il)legal pathways: The diversity of immigrants' legal trajectories in Belgium",
+  "abstract": "BACKGROUND A growing number of primarily qualitative studies have shown that the legal trajectories of immigrants in Western countries are often complex. However, immigrants' long-term legal trajectories remain a blind spot in quantitative migration research. OBJECTIVES This paper aims to provide new empirical insights into the variety of legal pathways among non-European immigrants who arrived in Belgium between 1999 and 2008. We build a typology of legal trajectories, and we investigate how these trajectories are related to immigrants' country of origin, asylum status, and social ties in Belgium. METHODS The micro longitudinal data is from the Belgian National Register. We use sequence analysis to identify clusters of legal trajectories, and multinomial logistic regressions to explore how they are related to immigrants' characteristics. RESULTS We identify seven types of legal trajectory. While some are simple and smooth, others are characterized by moves back and forth between legal statuses and frequent periods of irregularity. Immigrants from the least developed countries and rejected asylum seekers are more likely to experience slow and chaotic trajectories. By contrast, simple and short trajectories are more common among immigrants from higher-or middle-income countries. We also find that social and family ties are a key factor in long-term immigrants experiencing smooth legal trajectories. CONCLUSIONS Legal statuses vary substantially over time , trajectories differ widely among immigrants. Some categories of immigrants are more at risk of highly precarious long-term trajectories that may lead to situations of 'permanent temporariness'. CONTRIBUTION The paper highlights the relevance of a quantitative longitudinal perspective on immigrants' legal status and underlines the need to take into account not only the legal status upon arrival but also the complexity of legal trajectories during the stay in the destination country.",
+  "authors": [
+    {
+      "raw": "Schoumaker, Bruno",
+      "family": "Schoumaker",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Le Guen, Mireille",
+      "family": "Le Guen",
+      "given": "Mireille"
+    },
+    {
+      "raw": "Caron, Louise",
+      "family": "Caron",
+      "given": "Louise"
+    },
+    {
+      "raw": "Nie, Wanli",
+      "family": "Nie",
+      "given": "Wanli"
+    }
+  ],
+  "authors_text": "Schoumaker, Bruno; Le Guen, Mireille; Caron, Louise; Nie, Wanli",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.10",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

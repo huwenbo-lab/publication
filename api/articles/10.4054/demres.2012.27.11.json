@@ -1,0 +1,45 @@
+{
+  "title": "Mortality decline and reproductive change during the Dutch demographic transition",
+  "abstract": "According to classic demographic transition theory, mortality change is the key factor that triggers a decline in fertility. Research on this topic has mostly relied on aggregate or time series data. Since fertility is based on the joint decisions of coupl",
+  "authors": [
+    {
+      "raw": "van Poppel, Frans",
+      "family": "van Poppel",
+      "given": "Frans"
+    },
+    {
+      "raw": "Reher, David",
+      "family": "Reher",
+      "given": "David"
+    },
+    {
+      "raw": "Sanz-Gimeno, Alberto",
+      "family": "Sanz-Gimeno",
+      "given": "Alberto"
+    },
+    {
+      "raw": "Sanchez-Dominguez, María",
+      "family": "Sanchez-Dominguez",
+      "given": "María"
+    },
+    {
+      "raw": "Beekink, Erik",
+      "family": "Beekink",
+      "given": "Erik"
+    }
+  ],
+  "authors_text": "van Poppel, Frans; Reher, David; Sanz-Gimeno, Alberto; Sanchez-Dominguez, María; Beekink, Erik",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2012,
+  "doi": "10.4054/demres.2012.27.11",
+  "doi_url": "https://doi.org/10.4054/demres.2012.27.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2012.27.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2012.27.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

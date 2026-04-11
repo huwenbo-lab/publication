@@ -1,0 +1,35 @@
+{
+  "title": "Religious attendance and mortality: Implications for the black-white mortality crossover",
+  "abstract": "AbstractThis study investigates the relationships among religious attendance, mortality, and the black-white mortality crossover. We build on prior research by examining the link between attendance and mortality while testing whether religious involvement captures an important source of population heterogeneity that contributes to a crossover. Using data from the Established Populations for Epidemiologic Studies of the Elderly, we find a strong negative association between attendance and mortality. Our results also show evidence of a racial crossover in mortality rates for both men and women. When religious attendance is modeled in terms of differential frailty, clear gender differences emerge. For women, the effect of attendance is race- and age-dependent, modifying the age at crossover by 10 years. For men, however, the effect of attendance is not related to race and does not alter the crossover pattern. When other health risks are modeled in terms of differential frailty, we find neither race nor age-related effects. Overall, the results highlight the importance of considering religious attendance when examining racial and gender differences in age-specific mortality rates.",
+  "authors": [
+    {
+      "raw": "Dupre, Matthew E.",
+      "family": "Dupre",
+      "given": "Matthew E."
+    },
+    {
+      "raw": "Franzese, Alexis T.",
+      "family": "Franzese",
+      "given": "Alexis T."
+    },
+    {
+      "raw": "Parrado, Emilio A.",
+      "family": "Parrado",
+      "given": "Emilio A."
+    }
+  ],
+  "authors_text": "Dupre, Matthew E.; Franzese, Alexis T.; Parrado, Emilio A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2006,
+  "doi": "10.1353/dem.2006.0004",
+  "doi_url": "https://doi.org/10.1353/dem.2006.0004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2006.0004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2006.0004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

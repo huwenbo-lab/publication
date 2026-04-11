@@ -1,0 +1,35 @@
+{
+  "title": "Men’s and women’s migration in coastal Ghana",
+  "abstract": "This article uses life history calendar (LHC) data from coastal Ghana and event history statistical methods to examine inter-regional migration for men and women, focusing on four specific migration types: rural-urban, rural-rural, urban-urban, and urban-rural. Our analysis is unique because it examines how key determinants of migration- including education, employment, marital status, and childbearing-differ by sex for these four types of migration. We find that women are significantly less mobile than men overall, but that more educated women are more likely to move (particularly to urban areas) than their male counterparts. Moreover, employment in the prior year is less of a deterrent to migration among women. While childbearing has a negative effect on migration, this impact is surprisingly stronger for men than for women, perhaps because women's search for assistance in childcare promotes migration. Meanwhile, being married or in union appears to have little effect on migration probabilities for either men or women. These results demonstrate the benefits of a LHC approach and suggest that migration research should further examine men's and women's mobility as it relates to both human capital and household and family dynamics, particularly in developing settings.",
+  "authors": [
+    {
+      "raw": "Reed, Holly E.",
+      "family": "Reed",
+      "given": "Holly E."
+    },
+    {
+      "raw": "Andrzejewski, Catherine S.",
+      "family": "Andrzejewski",
+      "given": "Catherine S."
+    },
+    {
+      "raw": "White, Michael",
+      "family": "White",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Reed, Holly E.; Andrzejewski, Catherine S.; White, Michael",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.22.25",
+  "doi_url": "https://doi.org/10.4054/demres.2010.22.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.22.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.22.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

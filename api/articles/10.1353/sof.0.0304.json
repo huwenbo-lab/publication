@@ -1,0 +1,25 @@
+{
+  "title": "Neighborhood Social Influence and Welfare Receipt in Sweden: A Panel Data Analysis",
+  "abstract": "This article places the choice to claim welfare benefits in a social context by studying how neighborhood welfare receipt affects welfare receipt among couples in Stockholm, Sweden. It is expected that the propensity to claim welfare should increase with welfare use in the neighborhood, primarily through stigma reduction and increasing availability of information. I use individual-level panel data (N = 1,595,843) for the Stockholm County population during the 1990s, data that contain a wide range of information and allow extensive controls for observed and unobserved confounding factors. The results from pooled and fixed-effects logistic regressions suggest that welfare receipt among people in the same neighborhood substantially increases the number of households entering the welfare system (inflow), but the effects on outflow are negligible.",
+  "authors": [
+    {
+      "raw": "Mood, C.",
+      "family": "Mood",
+      "given": "C."
+    }
+  ],
+  "authors_text": "Mood, C.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2010,
+  "doi": "10.1353/sof.0.0304",
+  "doi_url": "https://doi.org/10.1353/sof.0.0304",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0304",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0304.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

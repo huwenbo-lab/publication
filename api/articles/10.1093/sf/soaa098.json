@@ -1,0 +1,30 @@
+{
+  "title": "Life Course Events and Migration in the Transition to Adulthood",
+  "abstract": "Do life course events stimulate migration during the transition to adulthood? We identify nine specific life events in the family, education, and employment domains and test whether they lead to migration in the short term, using fixed-effects models that remove the influence of all stable individual-level characteristics and controlling for age. Marital and school completion events have substantively large effects on migration compared with individual work transitions, although there are more of the latter over the young adult years. Furthermore, young adults who are white and from higher class backgrounds are more likely to migrate in response to life events, suggesting that migration may be a mechanism for the reproduction of status attainment. Overall, the results demonstrate a close relationship between life course events and migration and suggest a potential role for migration in explaining the effect of life course events on well-being and behavior.",
+  "authors": [
+    {
+      "raw": "Horowitz, Jonathan",
+      "family": "Horowitz",
+      "given": "Jonathan"
+    },
+    {
+      "raw": "Entwisle, Barbara",
+      "family": "Entwisle",
+      "given": "Barbara"
+    }
+  ],
+  "authors_text": "Horowitz, Jonathan; Entwisle, Barbara",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa098",
+  "doi_url": "https://doi.org/10.1093/sf/soaa098",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa098",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa098.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Double Trouble: Does Job Loss Lead to Union Dissolution and Vice Versa?",
+  "abstract": "A now-substantial literature claims that job loss and union dissolution (the end of a marriage or cohabiting relationship) each increase individuals' risk of the other, highlighting that major negative life events in the labour market and family can spill over across domains. We address three limitations of this research using UK data. First, these associations might arise from unmeasured factors which jointly predispose individuals to the two events. Second, the distinction between job loss (an event) and unemployment (the state it may lead to) has been neglected. Third, where the impact of unemployment has been considered, its duration has not. We simultaneously model both processes: does job loss (or being unemployed) lead to union dissolution, and does union dissolution (or being divorced/separated) lead to job loss? To investigate the role of unobserved, time-invariant confounders, we model the individual-specific effects as random variables allowed to correlate across the models for the two outcomes. Upon allowing such cross-process correlations, we find that job loss and union dissolution have modest and non-significant prospective associations with one another. We also find no support for a connection between being divorced/separated and subsequent job loss. Unemployment appears to increase risk of union dissolution; by attending to duration we uncover gender differences in this relationship.",
+  "authors": [
+    {
+      "raw": "Anderson, Lewis R.",
+      "family": "Anderson",
+      "given": "Lewis R."
+    },
+    {
+      "raw": "Bukodi, Erzsebet",
+      "family": "Bukodi",
+      "given": "Erzsebet"
+    },
+    {
+      "raw": "Monden, Christiaan W. S.",
+      "family": "Monden",
+      "given": "Christiaan W. S."
+    }
+  ],
+  "authors_text": "Anderson, Lewis R.; Bukodi, Erzsebet; Monden, Christiaan W. S.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa060",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa060",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa060",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa060.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

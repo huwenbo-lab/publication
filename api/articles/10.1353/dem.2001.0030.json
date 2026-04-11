@@ -1,0 +1,30 @@
+{
+  "title": "Differences in the locational attainment of immigrant and native-born households with children in New York City",
+  "abstract": "Abstract In this paper we use a data set created especially for New York City to evaluate whether the locational attainment of households with children, as indicated by the context of the neighborhoods in which they live, varies by their immigrant status. In addition, we evaluate whether the relationship between immigrant status and neighborhood conditions varies by the householder’s race/ethnicity. Overall, when compared with native-born households with children, immigrant households with children live in neighborhoods of lower quality, characterized by higher teenage fertility rates and higher percentages of students in local schools scoring below grade level in math and of persons receiving AFDC, but lower rates of juvenile detention. Further analyses, however, revealed that race/ethnicity is far more potent than immigrant status per se in predicting where households with children live.",
+  "authors": [
+    {
+      "raw": "Rosenbaum, Emily",
+      "family": "Rosenbaum",
+      "given": "Emily"
+    },
+    {
+      "raw": "Friedman, Samantha",
+      "family": "Friedman",
+      "given": "Samantha"
+    }
+  ],
+  "authors_text": "Rosenbaum, Emily; Friedman, Samantha",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.1353/dem.2001.0030",
+  "doi_url": "https://doi.org/10.1353/dem.2001.0030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2001.0030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2001.0030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

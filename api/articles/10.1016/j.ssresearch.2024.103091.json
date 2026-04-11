@@ -1,0 +1,25 @@
+{
+  "title": "Field of study, political attitudes, and support for the radical right in Sweden and Europe",
+  "abstract": "This study uses three different surveys to investigate the links between various educational fields, radical right support, and political opinions. Logit regressions and KHB mediation analysis of 41,770 observations from the Swedish SOM survey (2011-2019) reveal that graduates from technical and agricultural fields are approximately twice as likely to support the radical right as graduates from sociocultural fields. Fields such as natural sciences, business, and health demonstrate medium to medium-high support. These differences are partially mediated by horizontal, but not vertical, labor market allocation. Replication using the European Social Survey (ESS) indicates that these patterns are generalizable to Western, but not Eastern, Europe. Additional analyses show that radical right support and refugee intake skepticism decrease with years spent in sociocultural, but not technical, fields in upper-secondary school. Moreover, panel data from the Swedish Level of Living Survey (LNU) show that progressive attitude shifts occur predominantly following education in sociocultural fields.",
+  "authors": [
+    {
+      "raw": "Valldor, Amanda Almstedt",
+      "family": "Valldor",
+      "given": "Amanda Almstedt"
+    }
+  ],
+  "authors_text": "Valldor, Amanda Almstedt",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103091",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103091",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103091",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103091.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

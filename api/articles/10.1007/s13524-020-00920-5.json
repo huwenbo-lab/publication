@@ -1,0 +1,35 @@
+{
+  "title": "Historical Trends in Children Living in Multigenerational Households in the United States: 1870-2018",
+  "abstract": "Over the last two decades, the share of U.S. children under age 18 who live in a multigenerational household (with a grandparent and parent) has increased dramatically. Yet we do not know whether this increase is a recent phenomenon or a return to earlier levels of coresidence. Using data from the decennial census from 1870 to 2010 and the 2018 American Community Survey, we examine historical trends in children's multigenerational living arrangements, differences by race/ethnicity and education, and factors that explain the observed trends. We find that in 2018, 10% of U.S. children lived in a multigenerational household, a return to levels last observed in 1950. The current increase in multigenerational households began in 1980, when only 5% of children lived in such a household. Few differences in the prevalence of multigenerational coresidence by race/ethnicity or education existed in the early part of the twentieth century; racial/ethnic and education differences in coresidence are a more recent phenomena. Decomposition analyses do little to explain the decline in coresidence between 1940 and 1980, suggesting that unmeasured factors explain the decrease. Declines in marriage and in the share of White children most strongly explained the increase in multigenerational coresidence between 1980 and 2018. For White children with highly educated parents, factors explaining the increase in coresidence differ from other groups. Our findings suggest that the links between race/ethnicity and socioeconomic status and multigenerational coresidence have changed over time, and today the link between parental education and coresidence varies within racial/ethnic groups.",
+  "authors": [
+    {
+      "raw": "Pilkauskas, Natasha V.",
+      "family": "Pilkauskas",
+      "given": "Natasha V."
+    },
+    {
+      "raw": "Amorim, Mariana",
+      "family": "Amorim",
+      "given": "Mariana"
+    },
+    {
+      "raw": "Dunifon, Rachel E.",
+      "family": "Dunifon",
+      "given": "Rachel E."
+    }
+  ],
+  "authors_text": "Pilkauskas, Natasha V.; Amorim, Mariana; Dunifon, Rachel E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00920-5",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00920-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00920-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00920-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

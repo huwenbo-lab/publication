@@ -1,0 +1,30 @@
+{
+  "title": "Neighborhood socioeconomic status, relative household income, and life satisfaction of Chinese mainland migrants in Hong Kong",
+  "abstract": "This paper examines the life satisfaction of Chinese mainland migrants compared to that of Hong Kong natives, using microdata from the 2011 Hong Kong Panel Study of Social Dynamics (HKPSSD) and aggregated neighborhood data from the 2011 Hong Kong Census. We find that Chinese mainland migrants have significantly lower life satisfaction than Hong Kong natives. As neighborhood socioeconomic status rises, life satisfaction increases, yet the positive effect is smaller for Chinese mainland migrants than for Hong Kong natives. Relative household income in the neighborhood is also positively related to life satisfaction, but the effect is larger for Chinese mainland migrants, suggesting that relative status affects life satisfaction much more for Chinese mainland migrants than for Hong Kong natives.",
+  "authors": [
+    {
+      "raw": "Zeng, Donglin",
+      "family": "Zeng",
+      "given": "Donglin"
+    },
+    {
+      "raw": "Zhang, Zhuoni",
+      "family": "Zhang",
+      "given": "Zhuoni"
+    }
+  ],
+  "authors_text": "Zeng, Donglin; Zhang, Zhuoni",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2022,
+  "doi": "10.1177/2057150x221087030",
+  "doi_url": "https://doi.org/10.1177/2057150x221087030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x221087030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x221087030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

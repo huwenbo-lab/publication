@@ -1,0 +1,25 @@
+{
+  "title": "Assessing Data Quality and Construct Comparabilityin Cross-National Surveys",
+  "abstract": "This paper provides empirically-based criteria for selecting items and countries to develop measures of an underlying construct of interest that are comparable in cross-national research. Using data from the 1994 International Social Survey Program and applying multiple correspondence analysis to a set of common items in each of the 24 participating countries, we show that both the quality of the data, as well as its underlying structure - and therefore meaning - vary considerably between countries. The approach we use for screening countries and items is especially useful in situations where the psychometric properties of the items have not been well established in previous research.",
+  "authors": [
+    {
+      "raw": "Blasius, J.",
+      "family": "Blasius",
+      "given": "J."
+    }
+  ],
+  "authors_text": "Blasius, J.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1093/esr/jci054",
+  "doi_url": "https://doi.org/10.1093/esr/jci054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

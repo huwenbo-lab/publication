@@ -1,0 +1,25 @@
+{
+  "title": "The Effects of College on Weight: Examining the Freshman 15 Myth and Other Effects of College Over the Life Cycle",
+  "abstract": "This study examines the effects of college on weight over much of the life cycle. I compare weights for college students with their weights before and after college and with the weights of noncollege peers using data from the National Longitudinal Survey of Youth (NLSY). I also examine the longer-term effects of college measured almost three decades later. I find that college freshmen gain substantially less than the 15 pounds rumored to be typical for freshmen. Using difference models, individual-specific fixed-effects models, and instrumental variables models to control for various sources of potential bias, I find that freshman year college attendance is estimated to cause only about a one-pound increase. Supplemental results show that those from lower socioeconomic backgrounds gain more weight during the freshman college year. Longer term, having a college education consistently decreases weight. These negative effects have faded over the last 20 years, and they diminish as respondents approach middle age. These trends are more prevalent for whites and Hispanics than for blacks.",
+  "authors": [
+    {
+      "raw": "Baum, Charles L., II",
+      "family": "Baum",
+      "given": "Charles L., II"
+    }
+  ],
+  "authors_text": "Baum, Charles L., II",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-016-0530-6",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0530-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0530-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0530-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

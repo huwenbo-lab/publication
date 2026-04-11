@@ -1,0 +1,35 @@
+{
+  "title": "When Did the Health Gradient Emerge? Social Class and Adult Mortality in Southern Sweden, 1813-2015",
+  "abstract": "Across today's developed world, there is a clear mortality gradient by socioeconomic status for all ages. It is often taken for granted that this gradient was as strong-or even stronger-in the past when social transfers were rudimentary and health care systems were less developed. Some studies based on cross-sectional data have supported this view, but others based on longitudinal data found that this was not the case. If there was no gradient in the past, when did it emerge? To answer this question, we examine social class differences in adult mortality for men and women in southern Sweden over a 200-year period, using unique individual-level register data. We find a systematic class gradient in adult mortality emerging at ages 30-59 only after 1950 for women and after 1970 for men, and in subsequent periods also observable for ages 60-89. Given that the mortality gradient emerged when Sweden transitioned into a modern welfare state with substantial social transfers and a universal health care system, this finding points to lifestyle and psychosocial factors as likely determinants.",
+  "authors": [
+    {
+      "raw": "Bengtsson, Tommy",
+      "family": "Bengtsson",
+      "given": "Tommy"
+    },
+    {
+      "raw": "Dribe, Martin",
+      "family": "Dribe",
+      "given": "Martin"
+    },
+    {
+      "raw": "Helgertz, Jonas",
+      "family": "Helgertz",
+      "given": "Jonas"
+    }
+  ],
+  "authors_text": "Bengtsson, Tommy; Dribe, Martin; Helgertz, Jonas",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00877-5",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00877-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00877-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00877-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

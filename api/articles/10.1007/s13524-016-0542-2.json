@@ -1,0 +1,35 @@
+{
+  "title": "Explaining the Immigrant Health Advantage: Self-selection and Protection in Health-Related Factors Among Five Major National-Origin Immigrant Groups in the United States",
+  "abstract": "Despite being newcomers, immigrants often exhibit better health relative to native-born populations in industrialized societies. We extend prior efforts to identify whether self-selection and/or protection explain this advantage. We examine migrant height and smoking levels just prior to immigration to test for self-selection; and we analyze smoking behavior since immigration, controlling for self-selection, to assess protection. We study individuals aged 20-49 from five major national origins: India, China, the Philippines, Mexico, and the Dominican Republic. To assess self-selection, we compare migrants, interviewed in the National Health and Interview Surveys (NHIS), with nonmigrant peers in sending nations, interviewed in the World Health Surveys. To test for protection, we contrast migrants' changes in smoking since immigration with two counterfactuals: (1) rates that immigrants would have exhibited had they adopted the behavior of U.S.-born non-Hispanic whites in the NHIS (full assimilation); and (2) rates that migrants would have had if they had adopted the rates of nonmigrants in sending countries (no-migration scenario). We find statistically significant and substantial self-selection, particularly among men from both higher-skilled (Indians and Filipinos in height, Chinese in smoking) and lower-skilled (Mexican) undocumented pools. We also find significant and substantial protection in smoking among immigrant groups with stronger relative social capital (Mexicans and Dominicans).",
+  "authors": [
+    {
+      "raw": "Riosmena, Fernando",
+      "family": "Riosmena",
+      "given": "Fernando"
+    },
+    {
+      "raw": "Kuhn, Randall",
+      "family": "Kuhn",
+      "given": "Randall"
+    },
+    {
+      "raw": "Jochem, Warren C.",
+      "family": "Jochem",
+      "given": "Warren C."
+    }
+  ],
+  "authors_text": "Riosmena, Fernando; Kuhn, Randall; Jochem, Warren C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-016-0542-2",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0542-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0542-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0542-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

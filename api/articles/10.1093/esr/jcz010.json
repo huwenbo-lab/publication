@@ -1,0 +1,35 @@
+{
+  "title": "Signals, Educational Decision-Making, and Inequality",
+  "abstract": "We propose a model of educational decision-making based on rational choice theory in which students use signals about academic ability to make inference about the costs and benefits of different educational options. Our model is simple, extends ideas from previous models, and has testable implications. We test our model using data on Danish monozygotic twins and find that (i) students who receive a positive signal about their academic ability have a higher likelihood of enrolling in and completing a college-bound track compared with those who do not; (ii) the effect of the signal is stronger for students from low socio-economic status (SES) backgrounds than for those from high-SES ones; and (iii) for low-SES students the effect is stronger on enrolment than on completion. Our results suggest that signals about academic ability affect educational decisions in general; they are more important for students who do not have a family 'push' to avoid downward social mobility; and they affect educational inequality by making low-SES students too optimistic about their likelihood of completing the college-bound track.",
+  "authors": [
+    {
+      "raw": "Holm, Anders",
+      "family": "Holm",
+      "given": "Anders"
+    },
+    {
+      "raw": "Hjorth-Trolle, Anders",
+      "family": "Hjorth-Trolle",
+      "given": "Anders"
+    },
+    {
+      "raw": "Jaeger, Mads Meier",
+      "family": "Jaeger",
+      "given": "Mads Meier"
+    }
+  ],
+  "authors_text": "Holm, Anders; Hjorth-Trolle, Anders; Jaeger, Mads Meier",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcz010",
+  "doi_url": "https://doi.org/10.1093/esr/jcz010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

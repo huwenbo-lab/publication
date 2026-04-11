@@ -1,0 +1,25 @@
+{
+  "title": "Changes in Census Data Will Affect Our Understanding of Infant Health",
+  "abstract": "Descriptions of the effect of the implementation of a new disclosure avoidance system (DAS), which relies on differential privacy, emphasize the impact of our understanding of contemporary social and health dynamics. However, focusing on overall population may obscure important changes in subpopulation indicators such as age-specific rates resulting from this implementation. The author provides a visualization that compares infant mortality rates calculated using 2009–2011 county-level average death counts and denominators derived from the traditional and proposed DASs. Death counts come from the National Center for Health Statistics and denominators come from the first U.S. Census Bureau demonstration products. These visualizations indicate that infant mortality rates produced using the proposed DAS are different from those produced using the traditional methods, with higher variation observed for nonmetropolitan counties and areas with smaller populations. These findings suggest that the proposed DAS will hinder our ability to understand contemporary health dynamics in the United States.",
+  "authors": [
+    {
+      "raw": "Santos-Lozada, Alexis R.",
+      "family": "Santos-Lozada",
+      "given": "Alexis R."
+    }
+  ],
+  "authors_text": "Santos-Lozada, Alexis R.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211023642",
+  "doi_url": "https://doi.org/10.1177/23780231211023642",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211023642",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211023642.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

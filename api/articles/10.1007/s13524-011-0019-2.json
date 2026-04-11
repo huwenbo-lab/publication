@@ -1,0 +1,35 @@
+{
+  "title": "Is There an Urban Advantage in Child Survival in Sub-Saharan Africa? Evidence From 18 Countries in the 1990s",
+  "abstract": "Abstract Evidence of higher child mortality of rural-to-urban migrants compared with urban nonmigrants is growing. However, less attention has been paid to comparing the situation of the same families before and after they migrate with the situation of urban-to-rural migrants. We use DHS data from 18 African countries to compare child mortality rates of six groups based on their mothers’ migration status: rural nonmigrants; urban nonmigrants; rural-to-urban migrants before and after they migrate; and urban-to-rural migrants before and after they migrate. The results show that rural-to-urban migrants had, on average, lower child mortality before they migrated than rural nonmigrants, and that their mortality levels dropped further after they arrived in urban areas. We found no systematic evidence of higher child mortality for rural-to-urban migrants compared with urban nonmigrants. Urban-to-rural migrants had higher mortality in the urban areas, and their move to rural areas appeared advantageous because they experienced lower or similar child mortality after living in rural areas. After we control for known demographic and socioeconomic correlates of under-5 mortality, the urban advantage is greatly reduced and sometimes reversed. The results suggest that it may not be necessarily the place of residence that matters for child survival but, rather, access to services and economic opportunities.",
+  "authors": [
+    {
+      "raw": "Bocquier, Philippe",
+      "family": "Bocquier",
+      "given": "Philippe"
+    },
+    {
+      "raw": "Madise, Nyovani Janet",
+      "family": "Madise",
+      "given": "Nyovani Janet"
+    },
+    {
+      "raw": "Zulu, Eliya Msiyaphazi",
+      "family": "Zulu",
+      "given": "Eliya Msiyaphazi"
+    }
+  ],
+  "authors_text": "Bocquier, Philippe; Madise, Nyovani Janet; Zulu, Eliya Msiyaphazi",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0019-2",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0019-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0019-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0019-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

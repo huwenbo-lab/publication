@@ -1,0 +1,35 @@
+{
+  "title": "Did Falling Wages and Employment Increase U.S. Imprisonment?",
+  "abstract": "This paper studies the effects of wages and employment on men's prison admission rates in the United States from 1983 to 2001. Research on the effects of the labor market on incarceration usually examines national- or state-level data, but our analysis studies prison admission among black and white men in specific age-education groups. We find a significant increase in educational inequality in incarceration; nearly all the growth in the risk of imprisonment was confined to non-college men. Regression analysis of prison admission rates shows the negative effects of wages and employment on black men's incarceration, and the negative effects of wages on white men's imprisonment. If 1980s' wage and employment levels had persisted through the late 1990s, the estimates suggest that prison admission rates would be 15 to 25 percent lower for all non-college men.",
+  "authors": [
+    {
+      "raw": "Western, B.",
+      "family": "Western",
+      "given": "B."
+    },
+    {
+      "raw": "Kleykamp, M.",
+      "family": "Kleykamp",
+      "given": "M."
+    },
+    {
+      "raw": "Rosenfeld, J.",
+      "family": "Rosenfeld",
+      "given": "J."
+    }
+  ],
+  "authors_text": "Western, B.; Kleykamp, M.; Rosenfeld, J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2006,
+  "doi": "10.1353/sof.2006.0114",
+  "doi_url": "https://doi.org/10.1353/sof.2006.0114",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2006.0114",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2006.0114.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

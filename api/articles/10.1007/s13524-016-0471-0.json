@@ -1,0 +1,35 @@
+{
+  "title": "The (Conditional) Resource Dilution Model: State- and Community-Level Modifications",
+  "abstract": "One of the most consistent patterns in the social sciences is the relationship between sibship size and educational outcomes: those with fewer siblings outperform those with many. The resource dilution (RD) model emphasizes the increasing division of parental resources within the nuclear family as the number of children grows, yet it fails to account for instances when the relationship between sibship size and education is often weak or even positive. To reconcile, we introduce a conditional resource dilution (CRD) model to acknowledge that nonparental investments might aid in children's development and condition the effect of siblings. We revisit the General Social Surveys (1972-2010) and find support for a CRD approach: the relationship between sibship size and educational attainment has declined during the first half of the twentieth century, and this relationship varies across religious groups. Findings suggest that state and community resources can offset the impact of resource dilution-a more sociological interpretation of sibship size patterns than that of the traditional RD model.",
+  "authors": [
+    {
+      "raw": "Gibbs, Benjamin G.",
+      "family": "Gibbs",
+      "given": "Benjamin G."
+    },
+    {
+      "raw": "Workman, Joseph",
+      "family": "Workman",
+      "given": "Joseph"
+    },
+    {
+      "raw": "Downey, Douglas B.",
+      "family": "Downey",
+      "given": "Douglas B."
+    }
+  ],
+  "authors_text": "Gibbs, Benjamin G.; Workman, Joseph; Downey, Douglas B.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0471-0",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0471-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0471-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0471-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Unpacking the Drivers of Racial Disparities in School Suspension and Expulsion",
+  "abstract": "School suspension and expulsion are important forms of punishment that disproportionately affect Black students, with long-term consequences for educational attainment and other indicators of wellbeing. Prior research identifies three mechanisms that help account for racial disparities in suspension and expulsion: between-school sorting, differences in student behaviors, and differences in the treatment and support of students with similar behaviors. We extend this literature by (1) comparing the contributions of these three mechanisms in a single study, (2) assessing behavior and school composition when children enter kindergarten and before most are exposed to school discipline, and (3) using both teacher and parent reports of student behaviors. Decomposition analyses reveal that differential treatment and support account for 46 percent of the Black/White gap in suspension/expulsion, while between-school sorting and differences in behavior account for 21 percent and 9 percent of the gap respectively. Results are similar for boys and girls and robust to the use of school fixed effects and measures of school composition and student behavior at ages 5 and 9. Theoretically, our findings highlight differential treatment/support after children enter school as an important but understudied mechanism in the early criminalization of Black students.",
+  "authors": [
+    {
+      "raw": "Owens, Jayanti",
+      "family": "Owens",
+      "given": "Jayanti"
+    },
+    {
+      "raw": "McLanahan, Sara S.",
+      "family": "McLanahan",
+      "given": "Sara S."
+    }
+  ],
+  "authors_text": "Owens, Jayanti; McLanahan, Sara S.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz095",
+  "doi_url": "https://doi.org/10.1093/sf/soz095",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz095",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz095.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

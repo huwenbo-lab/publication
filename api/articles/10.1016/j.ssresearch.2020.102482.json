@@ -1,0 +1,35 @@
+{
+  "title": "Is there evidence for statistical discrimination against ethnic minorities in hiring? Evidence from a cross-national field experiment",
+  "abstract": "While statistical discrimination theory is often proposed as an important explanation for ethnic discrimination in hiring, research that empirically scrutinizes its underlying assumptions is scant. To test these assumptions, we combine data from a cross-national field experiment with secondary data indicative of the average labor productivity of ethnic communities. We find little evidence that adding diagnostic personal information reduces discrimination against ethnic minorities. Furthermore, we do not find an association between language similarity or the socioeconomic resources of the ethnic community and hiring discrimination. However, our findings show that discrimination is related to the socioeconomic development of the country of ancestry. Finally, the impact of these indicators of group productivity is generally not moderated by the amount of diagnostic personal information. Taken together, these findings question several core assumptions of statistical discrimination theory.",
+  "authors": [
+    {
+      "raw": "Thijssen, Lex",
+      "family": "Thijssen",
+      "given": "Lex"
+    },
+    {
+      "raw": "Coenders, Marcel",
+      "family": "Coenders",
+      "given": "Marcel"
+    },
+    {
+      "raw": "Lancee, Bram",
+      "family": "Lancee",
+      "given": "Bram"
+    }
+  ],
+  "authors_text": "Thijssen, Lex; Coenders, Marcel; Lancee, Bram",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2020.102482",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102482",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102482",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102482.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

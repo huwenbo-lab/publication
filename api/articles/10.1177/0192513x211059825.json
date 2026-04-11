@@ -1,0 +1,30 @@
+{
+  "title": "Mate Selection Behavior of GED Recipients",
+  "abstract": "The General Educational Development (GED) degree is designed to be a credential equivalent to the high school diploma. However, growing evidence indicates that GED recipients have worse outcomes than high school graduates. Such findings raise the question: is the GED socially equivalent to the high school diploma? Although educational assortative mating patterns have long been used as a barometer of the social distance across educational groups, there has not been a study that has addressed this question by examining the marital sorting patterns of GED recipients. Using log-linear models, our study shows that the odds of intermarriage between GED recipients and high school graduates resemble those between GED recipients and those without a secondary degree. Racial/ethnic minorities had greater difficulty crossing the GED/high school graduate boundary when they married. Our findings detract from the purported view that the GED degree is equivalent to a traditional high school diploma.",
+  "authors": [
+    {
+      "raw": "Choi, Kate H.",
+      "family": "Choi",
+      "given": "Kate H."
+    },
+    {
+      "raw": "Wagner, Brandon G.",
+      "family": "Wagner",
+      "given": "Brandon G."
+    }
+  ],
+  "authors_text": "Choi, Kate H.; Wagner, Brandon G.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x211059825",
+  "doi_url": "https://doi.org/10.1177/0192513x211059825",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x211059825",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x211059825.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

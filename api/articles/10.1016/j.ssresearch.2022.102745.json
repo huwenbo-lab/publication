@@ -1,0 +1,25 @@
+{
+  "title": "The gender wealth gap in the United States: Trends and explanations",
+  "abstract": "It is difficult to study the gender wealth gap because wealth is usually measured at the household level, and men and women often live in the same household. I use person-level measures of wealth, attributing to each person the assets and debts owned in their name, to study the gender wealth gap in the United States among working age people. Using the Survey of Income and Program Participation, I find that the existence of the gender wealth gap is primarily explained by the gender income gap. However, although the gender income gap has narrowed, the gender wealth gap has widened from the mid-1990s to the mid-2010s. This widening occurred across the wealth distribution and among almost every subgroup by marital status, education, race, and age. This widening of the gender wealth gap cannot be explained by changes in socioeconomic characteristics but is consistent with the trend of increasing wealth inequality.",
+  "authors": [
+    {
+      "raw": "Lee, Angela Wang",
+      "family": "Lee",
+      "given": "Angela Wang"
+    }
+  ],
+  "authors_text": "Lee, Angela Wang",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2022.102745",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102745",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102745",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102745.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

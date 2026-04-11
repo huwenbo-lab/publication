@@ -1,0 +1,35 @@
+{
+  "title": "Unequal Trajectories: Racial and Class Differences in Residential Exposure to Industrial Hazard",
+  "abstract": "The unequal exposure to industrial hazards via differential residential attainment and/or differential sitings of toxic facilities is a long-standing environmental justice issue. This study examines individual trajectories of residential exposure to the risk of industrial hazard over nearly two decades. Using a latent class growth analysis on longitudinal geocoded data merged with the neighborhood-level pollution measures, we discover large racial differences in trajectories of pollution exposure. A majority of individuals are exposed to above-average pollution levels at some point during the study period, but blacks are more likely than whites to experience persistent exposure to high pollution. These differences are only partially explained by racial differences in suburban neighborhood attainment, socioeconomic status, and the frequency of inter-neighborhood moves. Immobile blacks also saw their exposure increase.",
+  "authors": [
+    {
+      "raw": "Pais, J.",
+      "family": "Pais",
+      "given": "J."
+    },
+    {
+      "raw": "Crowder, K.",
+      "family": "Crowder",
+      "given": "K."
+    },
+    {
+      "raw": "Downey, L.",
+      "family": "Downey",
+      "given": "L."
+    }
+  ],
+  "authors_text": "Pais, J.; Crowder, K.; Downey, L.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sot099",
+  "doi_url": "https://doi.org/10.1093/sf/sot099",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsot099",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sot099.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

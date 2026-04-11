@@ -1,0 +1,25 @@
+{
+  "title": "Measuring students' school context exposures: A trajectory-based approach",
+  "abstract": "Studies of school effects on children's outcomes usually use single time -point measures. I argue that this approach fails to account for (1) age-based variation in children's sensitivity to their surroundings; (2) differential effects stemming from differences in the length of young people's exposures; and (3) moves between contexts and endogenous changes over time within them. To evaluate the merits of this argument, I specify and test a longitudinal model of school effects on children's academic performance. Drawing on recent advances in finite mixture modeling, I identify a series of distinct school context trajectories that extend across a substantial portion of respondents' elementary and secondary school years. I find that these trajectories vary significantly with respect to shape, with some students experiencing significant changes in their environments over time. I then show that students' trajectories of exposure are related to their 8th grade achievement, even after controlling for point -in -time measures of school context. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Halpern-Manners, Andrew",
+      "family": "Halpern-Manners",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Halpern-Manners, Andrew",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.04.012",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.04.012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.04.012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.04.012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

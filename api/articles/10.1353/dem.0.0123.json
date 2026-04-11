@@ -1,0 +1,25 @@
+{
+  "title": "Incarcerating death: Mortality in U.S. state correctional facilities, 1985–1998",
+  "abstract": "Abstract Using data from the U.S. Bureau of Justice Statistics and Census Bureau, I estimate death rates of working-age prisoners and nonprisoners by sex and race. Incarceration was more detrimental to females in comparison to their male counterparts in the period covered by this study. White male prisoners had higher death rates than white males who were not in prison. Black male prisoners, however, consistently exhibited lower death rates than black male nonprisoners did. Additionally, the findings indicate that while the relative difference in mortality levels of white and black males was quite high outside of prison, it essentially disappeared in prison. Notably, removing deaths caused by firearms and motor vehicles in the nonprison population accounted for some of the mortality differential between black prisoners and nonprisoners. The death rates of the other groups analyzed suggest that prison is an unhealthy environment; yet, prison appears to be a healthier place than the typical environment of the nonincarcerated black male population. These findings suggest that firearms and motor vehicle accidents do not sufficiently explain the higher death rates of black males, and they indicate that a lack of basic healthcare may be implicated in the death rates of black males not incarcerated.",
+  "authors": [
+    {
+      "raw": "Patterson, Evelyn J.",
+      "family": "Patterson",
+      "given": "Evelyn J."
+    }
+  ],
+  "authors_text": "Patterson, Evelyn J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0123",
+  "doi_url": "https://doi.org/10.1353/dem.0.0123",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0123",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0123.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

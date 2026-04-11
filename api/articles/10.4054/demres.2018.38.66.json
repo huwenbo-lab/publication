@@ -1,0 +1,25 @@
+{
+  "title": "A cohort comparison of trends in first cohabitation duration in the United States",
+  "abstract": "OBJECTIVE This study investigates US first cohabitation duration between young adults born in the 1950s and young adults born in the 1980s and how socioeconomic resources contribute to cohabitation duration by cohort. METHODS Using data from the National Longitudinal Surveys of Youth 1979 and 1997 (NLSY79 and NLSY97), I employ life table estimates and competing-risks Cox proportional hazard models to study how cohabitation duration and transitions out of cohabitation have changed over time. RESULTS Young adult cohabitations are short-lived, regardless of cohort; however, NLSY97 cohabiting youth were slower to marry or dissolve than NLSY79 cohabitors. Socioeconomically advantaged NLSY79 youth experienced short-term cohabitation followed by marriage. In the NLSY97 cohort, results provide support for the delinking of marriage and cohabitation, regardless of socioeconomic status. CONTRIBUTION This study is the first longitudinal cohort study to explore young adult cohabitation duration in the United States. Additionally, this study empirically tests how socioeconomic resources contribute to remaining in cohabitation.",
+  "authors": [
+    {
+      "raw": "Mernitz, Sara E.",
+      "family": "Mernitz",
+      "given": "Sara E."
+    }
+  ],
+  "authors_text": "Mernitz, Sara E.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.66",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.66",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.66",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.66.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

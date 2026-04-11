@@ -1,0 +1,35 @@
+{
+  "title": "Stratification in college entry and completion",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Stephan, Jennifer L.",
+      "family": "Stephan",
+      "given": "Jennifer L."
+    },
+    {
+      "raw": "Rosenbaum, James E.",
+      "family": "Rosenbaum",
+      "given": "James E."
+    },
+    {
+      "raw": "Person, Ann E.",
+      "family": "Person",
+      "given": "Ann E."
+    }
+  ],
+  "authors_text": "Stephan, Jennifer L.; Rosenbaum, James E.; Person, Ann E.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2009,
+  "doi": "10.1016/j.ssresearch.2009.02.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2009.02.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2009.02.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2009.02.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Educational Assortative Mating and Earnings Inequality in the United States",
+  "abstract": "This article investigates how changes in educational assortative mating affected the growth in earnings inequality among households in the United States between the late 1970s and early 2000s. The authors find that these changes had a small, negative effect on inequality: there would have been more inequality in earnings in the early 2000s if educational assortative mating patterns had remained as they were in the 1970s. Given the educational distribution of men and women in the United States, educational assortative mating can have only a weak impact on inequality, and educational sorting among partners is a poor proxy for sorting on earnings.",
+  "authors": [
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    },
+    {
+      "raw": "Salazar, Leire",
+      "family": "Salazar",
+      "given": "Leire"
+    }
+  ],
+  "authors_text": "Breen, Richard; Salazar, Leire",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2011,
+  "doi": "10.1086/661778",
+  "doi_url": "https://doi.org/10.1086/661778",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F661778",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/661778.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

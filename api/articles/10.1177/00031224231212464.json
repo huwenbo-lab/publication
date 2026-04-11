@@ -1,0 +1,35 @@
+{
+  "title": "Is the Gender Wage Gap Really a Family Wage Gap in Disguise?",
+  "abstract": "Despite large literatures on gender and family wage gaps (e.g., the motherhood wage penalty, fatherhood wage premium, and the marriage premium) and widespread recognition that the two gaps are intertwined, the extent and pattern of their relationships are underexplored. Using data from the 2018 Survey of Income and Program Participation, we show that family wage gaps are strongly associated with the gender wage gap, as long assumed in the literature, but with important caveats. The gender-differentiated wage returns to parenthood contribute 29 percent of the gender wage gap. One third of this is associated with occupation, but very little with other worker and job attributes. The gender-differentiated returns to marriage contribute another 33 percent, two thirds of which is associated with worker and job attributes but very little with occupation. However, 36 percent of the gender wage gap is unrelated to these family wage gaps, and the gender wage gap among childless workers remains substantial. Moreover, for Black and Hispanic workers, the pattern of association is more complex and generally weaker than for White workers. These results caution against focusing solely on the wage gap between mothers and others and suggest new directions for research.",
+  "authors": [
+    {
+      "raw": "Cha, Youngjoo",
+      "family": "Cha",
+      "given": "Youngjoo"
+    },
+    {
+      "raw": "Weeden, Kim A.",
+      "family": "Weeden",
+      "given": "Kim A."
+    },
+    {
+      "raw": "Schnabel, Landon",
+      "family": "Schnabel",
+      "given": "Landon"
+    }
+  ],
+  "authors_text": "Cha, Youngjoo; Weeden, Kim A.; Schnabel, Landon",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231212464",
+  "doi_url": "https://doi.org/10.1177/00031224231212464",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231212464",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231212464.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

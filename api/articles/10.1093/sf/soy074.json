@@ -1,0 +1,30 @@
+{
+  "title": "Income Stratification among Occupational Classes in the United States",
+  "abstract": "Stratification and inequality are among the most central concepts in sociology, and although related, they are fundamentally distinct: inequality refers to the extent to which resources are distributed unevenly across individuals or between population subgroups, whereas stratification refers to the extent to which population subgroups occupy distinct hierarchical layers within an overall resource distribution. Despite the centrality of stratification in theories of class structure, prior empirical studies have focused exclusively on measures of inequality, which do not accurately capture the degree of class stratification and suffer from a variety of methodological limitations. In this paper, we employ a novel rank-based index of stratification to measure the degree to which occupational classes inhabit distinct, non-overlapping, and hierarchically arranged layers in the distribution of personal market income. The stratification index is nonparametric, both scale and translation invariant, and independent of the level of inequality. Based on this index, our results show that the US income distribution is highly stratified by occupational class and that the degree of class stratification increased substantially from 1980 to 2016. Moreover, we find that this trend is almost entirely due to growing stratification among aggregate occupational classes rather than among the disaggregate occupations nested within them. Finally, a set of counterfactual analyses indicate that the rise of occupational class stratification is driven by increases in the income returns to education, deunionization, and deindustrialization, although the relative importance of these factors varies by gender.",
+  "authors": [
+    {
+      "raw": "Zhou, Xiang",
+      "family": "Zhou",
+      "given": "Xiang"
+    },
+    {
+      "raw": "Wodtke, Geoffrey T.",
+      "family": "Wodtke",
+      "given": "Geoffrey T."
+    }
+  ],
+  "authors_text": "Zhou, Xiang; Wodtke, Geoffrey T.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy074",
+  "doi_url": "https://doi.org/10.1093/sf/soy074",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy074",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy074.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

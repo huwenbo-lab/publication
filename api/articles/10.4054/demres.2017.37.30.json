@@ -1,0 +1,30 @@
+{
+  "title": "Too early or too late: What have we learned from the 30-year two-child policy experiment in Yicheng, China?",
+  "abstract": "BACKGROUND In January 2016, China ended its 35-year-old one-child policy and replaced it with a nationwide two-child policy. However, it remains unclear whether a two-child policy can effectively increase the fertility level in China. OBJECTIVE We reviewed the 30-year (1985-2015) two-child policy experiment carried out in Yicheng, a county in the Shanxi province of China, to assess the impact of this policy on the crude birth rate, as compared with the one-child policy implemented in most other places in Shanxi. METHODS We adopted a synthetic control approach. Using this method, we constructed a synthetic county using counties in Shanxi that were subject to the one-child policy. The synthetic county had similar observed characteristics to Yicheng before the launch of Yicheng's two-child policy experiment in 1985. Therefore, birth rate differences between Yicheng and the synthetic county after 1985 could be attributed only to the two-child policy. RESULTS We did not find any short-term impacts of the two-child policy on the Yicheng birth rate prior to the 1990s. We estimated that the two-child policy, in the long run, would lead to a maximum of two more births per 1,000 people every year in Yicheng, compared with similar areas that had a one-child policy. CONCLUSION The two-child policy was not found to boost the birth rate in Yicheng and similar places. CONTRIBUTION The study identified the causal effect of a two-child policy, and was more methodologically reliable than related studies that primarily explored statistical correlations.",
+  "authors": [
+    {
+      "raw": "Qin, Yu",
+      "family": "Qin",
+      "given": "Yu"
+    },
+    {
+      "raw": "Wang, Fei",
+      "family": "Wang",
+      "given": "Fei"
+    }
+  ],
+  "authors_text": "Qin, Yu; Wang, Fei",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.30",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Pandemic Penalty: The Gendered Effects of COVID-19 on Scientific Productivity",
+  "abstract": "Academia serves as a valuable case for studying the effects of social forces on workplace productivity, using a concrete measure of output: scholarly papers. Many academics, especially women, have experienced unprecedented challenges to scholarly productivity during the coronavirus disease 2019 (COVID-19) pandemic. The authors analyze the gender composition of more than 450,000 authorships in the arXiv and bioRxiv scholarly preprint repositories from before and during the COVID-19 pandemic. This analysis reveals that the underrepresentation of women scientists in the last authorship position necessary for retention and promotion in the sciences is growing more inequitable. The authors find differences between the arXiv and bioRxiv repositories in how gender affects first, middle, and sole authorship submission rates before and during the pandemic. A review of existing research and theory outlines potential mechanisms underlying this widening gender gap in productivity during COVID-19. The authors aggregate recommendations for institutional change that could ameliorate challenges to women’s productivity during the pandemic and beyond.",
+  "authors": [
+    {
+      "raw": "King, Molly M.",
+      "family": "King",
+      "given": "Molly M."
+    },
+    {
+      "raw": "Frederickson, Megan E.",
+      "family": "Frederickson",
+      "given": "Megan E."
+    }
+  ],
+  "authors_text": "King, Molly M.; Frederickson, Megan E.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211006977",
+  "doi_url": "https://doi.org/10.1177/23780231211006977",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211006977",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211006977.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

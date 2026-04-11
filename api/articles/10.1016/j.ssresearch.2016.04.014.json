@@ -1,0 +1,35 @@
+{
+  "title": "Using crowdsourced online experiments to study context-dependency of behavior",
+  "abstract": "We use Mechanical Turk's diverse participant pool to conduct online bargaining games in India and the US. First, we assess internal validity of crowdsourced experimentation through variation of stakes ($0, $1, $4, and $10) in the Ultimatum and Dictator Game. For cross-country equivalence we adjust the stakes following differences in purchasing power. Our marginal totals correspond closely to laboratory findings. Monetary incentives induce more selfish behavior but, in line with most laboratory findings, the particular size of a positive stake appears irrelevant. Second, by transporting a homogeneous decision situation into various living conditions crowdsourced experimentation permits identification of context effects on elicited behavior. We explore context-dependency using session-level variation in participants' geographical location, regional affluence, and local social capital. Across virtual pools behavior varies in the range of stake effects. We argue that quasi experimental variation of the characteristics people bring to the experimental situation is the key potential of crowdsourced online designs. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Keuschnigg, Marc",
+      "family": "Keuschnigg",
+      "given": "Marc"
+    },
+    {
+      "raw": "Bader, Felix",
+      "family": "Bader",
+      "given": "Felix"
+    },
+    {
+      "raw": "Bracher, Johannes",
+      "family": "Bracher",
+      "given": "Johannes"
+    }
+  ],
+  "authors_text": "Keuschnigg, Marc; Bader, Felix; Bracher, Johannes",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.04.014",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.04.014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.04.014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.04.014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

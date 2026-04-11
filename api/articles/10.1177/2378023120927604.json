@@ -1,0 +1,25 @@
+{
+  "title": "Tournament Mobility in Mathematics Course-Taking Pathways",
+  "abstract": "This visualization represents the structure of mathematics course opportunities as seen in the progress through middle and high school for one cohort of students in Texas. Trajectories are consistent with a tournament mobility regime in which there are repeated opportunities to fall behind but almost none to catch up. Pathways are also characterized by staggered starts, with differences in when students begin the mathematics sequence that have consequences for ultimate attainment. The structure of mathematics opportunities provides many points where trajectories diverge, and these branching points disproportionately sort economically disadvantaged students into less advanced pathways.",
+  "authors": [
+    {
+      "raw": "Hanselman, Paul",
+      "family": "Hanselman",
+      "given": "Paul"
+    }
+  ],
+  "authors_text": "Hanselman, Paul",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120927604",
+  "doi_url": "https://doi.org/10.1177/2378023120927604",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120927604",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120927604.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

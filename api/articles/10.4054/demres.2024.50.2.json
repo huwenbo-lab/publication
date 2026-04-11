@@ -1,0 +1,30 @@
+{
+  "title": "How do environmental stressors influence migration? A meta-regression analysis of environmental migration literature",
+  "abstract": "BACKGROUND The amount of literature on environmental migration is increasing. However, existing studies exhibit contradictory results. A systematic synthesis of the environment- migration relationship is much needed. OBJECTIVE This study summarizes research findings, calculates the effect sizes of environmental stressors, identifies publication bias, and investigates heterogeneous environmental effects on migration. METHODS We collected 3,380 estimates from 128 studies published between 2000 and 2020 to explore the environment-migration relationship and performed weighted instrumental variable regression to unveil the heterogeneous environmental effects on out-and net migration. RESULTS The majority of environmental stressors were not important predictors of out-and net migration. Among the results showing environmental impacts on migration, 58% and 68% reported that environmental stressors increased out-and net migration, respectively, while 58% reported that environmental stressors decreased in-migration. The overall environmental impact on migration was small; however, disaster-related stressors showed a medium effect, and rapid-onset stressors had a stronger impact than slow-onset ones. Multivariate meta-regression analyses demonstrated that environmental stressors were more likely to trigger internal migration than international migration and that developed countries were less likely to experience out-migration. Rapid-onset environmental stressors did not increase out-migration but played an important role in decreasing net migration toward environmentally stressed areas. Meanwhile, we also found a publication bias toward studies showing a positive relationship between environmental stressors and migration in the previous environmental migration literature. CONCLUSIONS Environmental stressors may affect migration; however, the environmental effect depends on migration measurements, environmental stressors' forces and rapidity, and the context in which migration takes place. CONTRIBUTION This study contributes to migration studies by synthesizing and validating the environment-migration relationship and enhancing our understanding of how and under what circumstances environmental stressors may affect migration.",
+  "authors": [
+    {
+      "raw": "Zhou, Shuai",
+      "family": "Zhou",
+      "given": "Shuai"
+    },
+    {
+      "raw": "Chi, Guangqing",
+      "family": "Chi",
+      "given": "Guangqing"
+    }
+  ],
+  "authors_text": "Zhou, Shuai; Chi, Guangqing",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.2",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

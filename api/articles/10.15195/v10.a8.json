@@ -1,0 +1,35 @@
+{
+  "title": "Findings on Summer Learning Loss Often Fail to Replicate, Even in Recent Data",
+  "abstract": "It is widely believed that (1) children lose months of reading and math skills over summer vacation and that (2) inequality in skills grows much faster during summer than during school. Concerns have been raised about the replicability of evidence for these claims, but an impression may exist that nonreplicable findings are limited to older studies. After reviewing the 100-year history of nonreplicable results on summer learning, we compared three recent data sources (ECLS- K:2011, NWEA, and Renaissance) that tracked U.S. elementary students' skills through school years and summers in the 2010s. Most patterns did not generalize beyond a single test. Summer losses looked substantial on some tests but not on others. Score gaps—between schools and students of different income levels, ethnicities, and genders—grew on some tests but not on others. The total variance of scores grew on some tests but not on others. On tests where gaps and variance grew, they did not consistently grow faster during summer than during school. Future research should demonstrate that a summer learning pattern replicates before drawing broad conclusions about learning or inequality.",
+  "authors": [
+    {
+      "raw": "Workman, Joseph",
+      "family": "Workman",
+      "given": "Joseph"
+    },
+    {
+      "raw": "von Hippel, Paul",
+      "family": "von Hippel",
+      "given": "Paul"
+    },
+    {
+      "raw": "Merry, Joseph",
+      "family": "Merry",
+      "given": "Joseph"
+    }
+  ],
+  "authors_text": "Workman, Joseph; von Hippel, Paul; Merry, Joseph",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a8",
+  "doi_url": "https://doi.org/10.15195/v10.a8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

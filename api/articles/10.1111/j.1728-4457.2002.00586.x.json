@@ -1,0 +1,25 @@
+{
+  "title": "Demographic data on the victims of the September 11, 2001 terror attack on the World Trade Center, New York City",
+  "abstract": "The magnitude of the death toll resulting from the attack on the World Trade Center is without precedent in the history of terrorist acts. Because of the scale and destructiveness of the buildings' collapse, a final list of the victims required a lengthy process, more so than was the case at the other sites of terrorist violence on the same day—at the Pentagon, Virginia (193 killed, 68 of these on American Airlines Flight 77), and near Shanksville, Pennsylvania (45 killed in the crash of United Airlines Flight 93). After the passing of a year, the list of the victims in New York, while essentially complete, is still not officially closed. On August 19, 2002, the city's medical examiner's office issued a list containing 2,819 names. Reproduced below are some data, released by the city's office of vital statistics, on the demographic characteristics of 2,723 victims (59 of these on United Airlines Flight 175 and 89 on American Airlines Flight 11) for whom a death certificate had been issued—an exacting procedure—as of August 16,2002. The cause of death, in each instance, was entered as homicide. The age distribution reflects the character of the World Trade Center—a workplace—and the time of day—early for tourist visits. The youngest victims perished as passengers in the two airplanes flown into the twin towers.",
+  "authors": [
+    {
+      "raw": "[Anonymous]",
+      "family": "[Anonymous]",
+      "given": ""
+    }
+  ],
+  "authors_text": "[Anonymous]",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2002,
+  "doi": "10.1111/j.1728-4457.2002.00586.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2002.00586.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2002.00586.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2002.00586.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

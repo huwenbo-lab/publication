@@ -1,0 +1,45 @@
+{
+  "title": "Improving old-age mortality estimation with parental survival histories in surveys",
+  "abstract": "BACKGROUND In many low- and middle-income countries, the mortality of adults over 50 years of age poorly monitored because death registration systems are deficient. Nationally representative surveys currently focus on the survival of children or adults aged 15 to 49 years. OBJECTIVE We propose to measure adult survival beyond age 50 via parental survival histories, which survey respondents provide data on their parents' ages at the time of the survey, and if deceased, their age at death and date of death. We evaluate the magnitude possible selection bias in parental survival histories and quantify the sample sizes needed to estimate mortality at ages 50 to 79 with varying levels of precision. METHODS We created a population with known parental survival histories using the 2013 national census of Senegal augmented with microsimulations. Using a stratified two-stage sampling procedure, we then conducted household surveys of this artificial population. We compared reference mortality levels in the artificial population of adults aged 50 to 79 years with those inferred from parental survival histories. We also analyzed selection bi ases in simulated populations where mortality above age 50 is correlated with the number of adult children. RESULTS The inclusion of modules on parental survival in large-scale surveys, such as the Demographic and Health Surveys, could provide accurate and precise estimates of old-age mortality and capture time trends and age patterns. Estimates derived from parental survival histories are affected by an upward bias when mortality is positively correlated with fertility, and vice versa, but the bias is modest and can be partially corrected. CONTRIBUTION Parental survival histories are a promising method to fill important data gaps around mortality at older ages, although more research is needed on possible reporting errors.",
+  "authors": [
+    {
+      "raw": "Masquelier, Bruno",
+      "family": "Masquelier",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Menashe-Oren, Ashira",
+      "family": "Menashe-Oren",
+      "given": "Ashira"
+    },
+    {
+      "raw": "Fall, Atoumane",
+      "family": "Fall",
+      "given": "Atoumane"
+    },
+    {
+      "raw": "Schlueter, Benjamin-Samuel",
+      "family": "Schlueter",
+      "given": "Benjamin-Samuel"
+    },
+    {
+      "raw": "Helleringer, Stephane",
+      "family": "Helleringer",
+      "given": "Stephane"
+    }
+  ],
+  "authors_text": "Masquelier, Bruno; Menashe-Oren, Ashira; Fall, Atoumane; Schlueter, Benjamin-Samuel; Helleringer, Stephane",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.45",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.45",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.45",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.45.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

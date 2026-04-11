@@ -1,0 +1,25 @@
+{
+  "title": "Diverging Mobility Trajectories: Grandparent Effects on Educational Attainment in One- and Two-Parent Families in the United States",
+  "abstract": "In recent years, sociological research investigating grandparent effects in three-generation social mobility has proliferated, mostly focusing on the question of whether grandparents have a direct effect on their grandchildren's social attainment. This study hypothesizes that prior research has overlooked family structure as an important factor that moderates grandparents' direct effects. Capitalizing on a counterfactual causal framework and multigenerational data from the Panel Study of Income Dynamics, this study examines the direct effect of grandparents' years of education on grandchildren's years of educational attainment and heterogeneity in the effects associated with family structure. The results show that for both African Americans and whites, grandparent effects are the strongest for grandchildren who grew up in two-parent families, followed by those in single-parent families with divorced parents. The weakest effects were marked in single-parent families with unmarried parents. These findings suggest that the increasing diversity of family forms has led to diverging social mobility trajectories for families across generations.",
+  "authors": [
+    {
+      "raw": "Song, Xi",
+      "family": "Song",
+      "given": "Xi"
+    }
+  ],
+  "authors_text": "Song, Xi",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0515-5",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0515-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0515-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0515-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

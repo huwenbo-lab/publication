@@ -1,0 +1,25 @@
+{
+  "title": "Natural Hazards, Disasters, and Demographic Change: The Case of Severe Tornadoes in the United States, 1980-2010",
+  "abstract": "Natural hazards and disasters distress populations and inflict damage on the built environment, but existing studies yielded mixed results regarding their lasting demographic implications. I leverage variation across three decades of block group exposure to an exogenous and acute natural hazard-severe tornadoes-to focus conceptually on social vulnerability and to empirically assess local net demographic change. Using matching techniques and a difference-in-difference estimator, I find that severe tornadoes result in no net change in local population size but lead to compositional changes, whereby affected neighborhoods become more White and socioeconomically advantaged. Moderation models show that the effects are exacerbated for wealthier communities and that a federal disaster declaration does not mitigate the effects. I interpret the empirical findings as evidence of a displacement process by which economically disadvantaged residents are forcibly mobile, and economically advantaged and White locals rebuild rather than relocate. To make sense of demographic change after natural hazards, I advance an unequal replacement of social vulnerability framework that considers hazard attributes, geographic scale, and impacted local context. I conclude that the natural environment is consequential for the sociospatial organization of communities and that a disaster declaration has little impact on mitigating this driver of neighborhood inequality.",
+  "authors": [
+    {
+      "raw": "Raker, Ethan J.",
+      "family": "Raker",
+      "given": "Ethan J."
+    }
+  ],
+  "authors_text": "Raker, Ethan J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00862-y",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00862-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00862-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00862-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

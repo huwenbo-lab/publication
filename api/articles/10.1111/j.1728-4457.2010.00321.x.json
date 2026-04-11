@@ -1,0 +1,30 @@
+{
+  "title": "Counting Child Domestic Servants in Latin America",
+  "abstract": "Trends in the use of child domestic servants in six Latin American countries are detailed using IPUMS-International census samples for 1960 to 2000. Child domestics are among the most vulnerable of child workers and the most invisible. They may be treated well and allowed to attend school, or they may be secluded in their employers' homes, ill-treated, overworked, and unable to leave or report their difficulties to kin. Estimates and imputations are based on labor force and relationship-to-head-of-household information. We find that domestic service makes up a substantial fraction of girls' employment in some countries. We also analyze trends in live-in versus live-out status and school enrollment of child domestic servants. While all child workers are disadvantaged in enrollment relative to non-workers, domestics are sometimes better off than non-domestic workers. In some of the censuses examined, live-ins are more likely to go to school than live-out child domestics. In others, they are substantially worse off.",
+  "authors": [
+    {
+      "raw": "Levison, Deborah",
+      "family": "Levison",
+      "given": "Deborah"
+    },
+    {
+      "raw": "Langer, Anna",
+      "family": "Langer",
+      "given": "Anna"
+    }
+  ],
+  "authors_text": "Levison, Deborah; Langer, Anna",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2010,
+  "doi": "10.1111/j.1728-4457.2010.00321.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2010.00321.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2010.00321.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2010.00321.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

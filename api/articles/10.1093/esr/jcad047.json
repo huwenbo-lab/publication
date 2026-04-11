@@ -1,0 +1,35 @@
+{
+  "title": "Diverging pathways: the effects of initial legal status on immigrant socioeconomic and residential outcomes in France",
+  "abstract": "Drawing on a unique, large-sample survey from France, Trajectories and Origins (TeO), this article provides an empirical assessment of the effects of migrants' initial legal status on socioeconomic attainment focusing on three outcomes: household income, neighbourhood disadvantage, and concentration in immigrant neighbourhoods. Legal status effects are identified using a twofold strategy. First, our data comprise an exceptionally rich set of information on premigratory characteristics, which allows us to disentangle the effect of initial legal status from migratory selection processes. Furthermore, we implement an instrumental variable design to correct for the endogeneity of initial legal status. Findings show that some of the initial legal status effect is due to selection, whether measured by observable premigratory characteristics or other unobservable variables. Nonetheless, we also find robust evidence that refugees durably face socioeconomic disadvantage in terms of income and are more likely to live in immigrant-dense neighbourhoods. We discuss how these findings contribute both empirically and theoretically to the literature on the civic stratification of migrants' pathways: first, by highlighting that we should disentangle the long-term civic stratification mechanisms from sorting into legal status categories, and second, by stressing that the theory should be more specific about which legal status categories are decisive in creating hierarchies between migrants.",
+  "authors": [
+    {
+      "raw": "Lai, Tianjian",
+      "family": "Lai",
+      "given": "Tianjian"
+    },
+    {
+      "raw": "McAvay, Haley",
+      "family": "McAvay",
+      "given": "Haley"
+    },
+    {
+      "raw": "Safi, Mirna",
+      "family": "Safi",
+      "given": "Mirna"
+    }
+  ],
+  "authors_text": "Lai, Tianjian; McAvay, Haley; Safi, Mirna",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad047",
+  "doi_url": "https://doi.org/10.1093/esr/jcad047",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad047",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad047.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

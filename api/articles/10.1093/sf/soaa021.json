@@ -1,0 +1,30 @@
+{
+  "title": "Parental Separation during Childhood and Adult Children's Wealth",
+  "abstract": "This study examines the association between parental separations during childhood and economic wealth of adult children. We provide a new test of this relationship and address two unresolved debates in the literature concerning (1) the pathways linking parental separation and adult children's wealth and (2) the relevance of the timing of exposure. We use data from the Household, Income and Labour Dynamics in Australia (HILDA) Survey on 16,652 individuals and estimate mixed effects models after matching to predict adult children's wealth. We find that parental separation is associated with about 46 percent less net wealth for adult children. The negative association is limited to adult children who experienced parental divorce before age 15. The association does not differ between children who experienced parental divorce before age 6 and between age 6 and 14. We identify reduced education and earning capacities, unstable family structures among adult children and less future-oriented time preferences as likely mechanisms through which parental separation influences adult children's wealth.",
+  "authors": [
+    {
+      "raw": "Lersch, Philipp M.",
+      "family": "Lersch",
+      "given": "Philipp M."
+    },
+    {
+      "raw": "Baxter, Janeen",
+      "family": "Baxter",
+      "given": "Janeen"
+    }
+  ],
+  "authors_text": "Lersch, Philipp M.; Baxter, Janeen",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa021",
+  "doi_url": "https://doi.org/10.1093/sf/soaa021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

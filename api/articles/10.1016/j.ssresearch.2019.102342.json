@@ -1,0 +1,35 @@
+{
+  "title": "Degrees of inequality: The Great Recession and the college earnings premium in US metropolitan areas",
+  "abstract": "The Great Recession had devastating effects on the U.S. labor market as millions of workers lost their jobs while others faced declining earnings, erosion of job security, and loss of dignity at work. While workers of all education levels experienced rising unemployment and declining earnings, it is unclear if workers of all educational levels were equally affected. In this paper, we examine the impact of the Great Recession on variations in the college earnings premium-the ratio of earnings for workers with just four-year college degrees to those with just high school degrees-for 210 metropolitan statistical areas from 2007 to 2016. Using multilevel growth curve models, we find that the college earnings premium increased during the Great Recession and its aftermath and that metropolitan areas that experienced more severe disruptions from the Great Recession evidenced greater increases in the college earnings premium. This is mainly explained by much sharper declines in earnings of workers with high school degrees than those with college degrees.",
+  "authors": [
+    {
+      "raw": "Li, Angran",
+      "family": "Li",
+      "given": "Angran"
+    },
+    {
+      "raw": "Wallace, Michael",
+      "family": "Wallace",
+      "given": "Michael"
+    },
+    {
+      "raw": "Hyde, Allen",
+      "family": "Hyde",
+      "given": "Allen"
+    }
+  ],
+  "authors_text": "Li, Angran; Wallace, Michael; Hyde, Allen",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.102342",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102342",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102342",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102342.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

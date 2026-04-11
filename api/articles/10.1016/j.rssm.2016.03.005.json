@@ -1,0 +1,30 @@
+{
+  "title": "The structure of internal job mobility and organizational wage inequality",
+  "abstract": "The movement of people among jobs within an organization reflects a process of relational position-taking a contest among individuals for valued resources. The structure of this mobility offers clues regarding the relational dynamics associated with position-taking and how these processes might vary across low and high inequality organizations. We explore these issues using data on intra-organizational mobility networks from 7347 workers in 428 positions in 11 distribution centers from a national grocery store chain. Exponential random graph models are used to identify the local network features that characterize each organization's pattern of job mobility. This approach is then supplemented with meta-regression that examines the extent to which those network features are associated with organizational inequality (the wage gap between supervisors and non-supervisors). Organizational inequality is unrelated to the presence of purely structural mobility features (density, reciprocity, or transitivity), but instead is characterized by the confluence of mobility structure and positional hierarchy. The findings demonstrate that workers have fewer mobility pathways into high wage jobs in high inequality organizations than in low inequality organizations. (C) 2016 Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "McDonald, Steve",
+      "family": "McDonald",
+      "given": "Steve"
+    },
+    {
+      "raw": "Benton, Richard A.",
+      "family": "Benton",
+      "given": "Richard A."
+    }
+  ],
+  "authors_text": "McDonald, Steve; Benton, Richard A.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2017,
+  "doi": "10.1016/j.rssm.2016.03.005",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2016.03.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2016.03.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2016.03.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

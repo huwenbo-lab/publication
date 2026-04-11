@@ -1,0 +1,25 @@
+{
+  "title": "Mortality tempo versus removal of causes of mortality",
+  "abstract": "We propose an alternative way of dealing with mortality tempo. Bongaarts and Feeney have developed a model that assumes a fixed delay postponing each death. Our model, however, assumes that changes take place with the removal of a given cause of mortal",
+  "authors": [
+    {
+      "raw": "Le Bras, Hervé",
+      "family": "Le Bras",
+      "given": "Hervé"
+    }
+  ],
+  "authors_text": "Le Bras, Hervé",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2005,
+  "doi": "10.4054/demres.2005.13.25",
+  "doi_url": "https://doi.org/10.4054/demres.2005.13.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2005.13.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2005.13.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

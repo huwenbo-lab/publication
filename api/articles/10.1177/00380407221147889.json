@@ -1,0 +1,35 @@
+{
+  "title": "Does Cumulative Exposure to High-Poverty Schools Widen Test-Score Inequality?",
+  "abstract": "Although there is an abundance of research on the association of school poverty (or socioeconomic status) and test score level, there is very little rigorous longitudinal evidence on the cumulative effects of exposure to differing school contexts. Drawing from methods used first in epidemiology and then in neighborhood effects research, we use population-level longitudinal data from North Carolina to estimate a structural nested mean model that permits proper adjustment for time-varying confounding. Unlike panel data studies using student fixed effects, which often report close to null findings, we find evidence of modest but significant negative effects of school poverty composition on eighth-grade reading and math test scores in models that control for third-grade test scores and baseline treatment status.",
+  "authors": [
+    {
+      "raw": "Carbonaro, William",
+      "family": "Carbonaro",
+      "given": "William"
+    },
+    {
+      "raw": "Lauen, Douglas L. L.",
+      "family": "Lauen",
+      "given": "Douglas L. L."
+    },
+    {
+      "raw": "Levy, Brian L. L.",
+      "family": "Levy",
+      "given": "Brian L. L."
+    }
+  ],
+  "authors_text": "Carbonaro, William; Lauen, Douglas L. L.; Levy, Brian L. L.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2023,
+  "doi": "10.1177/00380407221147889",
+  "doi_url": "https://doi.org/10.1177/00380407221147889",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380407221147889",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380407221147889.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "How to study political activists: A petition survey approach",
+  "abstract": "A major challenge for social movement and political campaign studies is generating large, representative samples of political activists. This paper outlines a strategy of surveying those who participate in a common, baseline form of political action: signing petitions. Similar to protest surveys, signing a petition constitutes a more baseline low cost/low risk form of political activism. In 26 states in the U.S. petition lists are public record and, with modest effort, can be used to study a wide variety of issues, groups and campaigns. We outline the steps and costs involved in such a petition survey and how to improve response rate. To assess response bias, we compare demographic and political affiliation measures acquired from a marketing analytics company (Experian) for respondents and non-respondents to our survey of petition signers for two state-level initiative elections, finding only modest and interpretable response bias. The methods presented here have broader implications for survey research in general.",
+  "authors": [
+    {
+      "raw": "Durso, Rachel",
+      "family": "Durso",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Jenkins, J. Craig",
+      "family": "Jenkins",
+      "given": "J. Craig"
+    },
+    {
+      "raw": "Martin, Andrew",
+      "family": "Martin",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Stearmer, Matthew",
+      "family": "Stearmer",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Durso, Rachel; Jenkins, J. Craig; Martin, Andrew; Stearmer, Matthew",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.03.014",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.03.014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.03.014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.03.014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

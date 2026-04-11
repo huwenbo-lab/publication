@@ -1,0 +1,30 @@
+{
+  "title": "Who Cares? Caregiver Well-being in Europe",
+  "abstract": "This paper analyzes a multi-national sample comparing self-reported well-being of those who provide dependent care with that of noncaregivers. We pair individual-level data from the 2004 European Social Survey (ESS) for respondents in 22 nations (n = 41,000+) with country-level measures of attitudinal support for coresidential familial caregiving (2007 Eurobarometer), old age and family public transfers (OECD Social Expenditures Database, 2014), and economic development (GDP). Using multi-level modeling, we examine the association between country-level coresidential familial attitudes and public spending and individual-level caregiver well-being, comparing effects by gender. We find that—(i) caregiving is differentially associated with well-being for men and women; (ii) female caregivers report worse well-being than male caregivers in countries with greater attitudinal support for coresidential familial caregiving; (iii) caregivers, regardless of gender, report better well-being in countries with more generous old age transfers. These findings are important in the context of Europe’s population structure and the threats to public spending for dependent populations.",
+  "authors": [
+    {
+      "raw": "Ruppanner, L.",
+      "family": "Ruppanner",
+      "given": "L."
+    },
+    {
+      "raw": "Bostean, G.",
+      "family": "Bostean",
+      "given": "G."
+    }
+  ],
+  "authors_text": "Ruppanner, L.; Bostean, G.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1093/esr/jcu065",
+  "doi_url": "https://doi.org/10.1093/esr/jcu065",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcu065",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcu065.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

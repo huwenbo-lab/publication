@@ -1,0 +1,35 @@
+{
+  "title": "From Heterogeneity to Concentration: Latino Immigrant Neighborhoods and Collective Efficacy Perceptions in Los Angeles and Chicago",
+  "abstract": "Latino immigrant presence in urban neighborhoods has been linked with reduced neighborhood cohesion in social disorganization-based ethnic heterogeneity hypotheses and enhanced cohesion in immigration revitalization approaches. Using the 2000-2002 Los Angeles Family and Neighborhood Survey and the 1994-1995 Project on Human Development in Chicago Neighborhoods Community Survey, we explore the association between Latino immigrant concentration and both levels of, and agreement about, neighborhood collective efficacy. Findings from multilevel models with heteroskedastic variance indicate that Latino immigrant concentration exhibits a nonlinear association with collective efficacy. At low levels, increases in Latino immigrant concentration diminish collective efficacy, consistent with a heterogeneity hypothesis. The negative association between Latino immigrant concentration and collective efficacy declines in magnitude as immigrant concentration increases and, particularly in LA, becomes positive beyond a threshold, consistent with an immigration revitalization effect. We also find an inverse nonlinear pattern of association with the variance of collective efficacy. At low levels, increasing Latino immigrant concentration increases the variance of collective efficacy (reflecting more disagreement), but beyond a threshold, this association becomes negative (reflecting increasing agreement). This pattern is observed in both LA and Chicago. The prevalence of social interaction and reciprocated exchange within neighborhoods explains a modest proportion of the Latino immigrant concentration effect on mean levels of collective efficacy in Chicago, but does little to explain effects on the mean in LA or effects on the variance in either LA or Chicago. These findings offer insight into the complex role Latino immigrant presence plays in shaping neighborhood social climate.",
+  "authors": [
+    {
+      "raw": "Browning, Christopher R.",
+      "family": "Browning",
+      "given": "Christopher R."
+    },
+    {
+      "raw": "Dirlam, Jonathan",
+      "family": "Dirlam",
+      "given": "Jonathan"
+    },
+    {
+      "raw": "Boettner, Bethany",
+      "family": "Boettner",
+      "given": "Bethany"
+    }
+  ],
+  "authors_text": "Browning, Christopher R.; Dirlam, Jonathan; Boettner, Bethany",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sow064",
+  "doi_url": "https://doi.org/10.1093/sf/sow064",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow064",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow064.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

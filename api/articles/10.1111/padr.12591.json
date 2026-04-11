@@ -1,0 +1,40 @@
+{
+  "title": "Fertility in a Pandemic: Evidence from California",
+  "abstract": "The COVID-19 pandemic was accompanied by social and economic changes previously associated with fertility delay and reduction, sparking widespread discussion of a baby bust in the United States. We examine fertility trends using restricted vital statistics data from California, a diverse population of 40 million, contributing 12 percent of U.S. births. Using time series models that account for longer-run fertility trends, we observe modest, short-term reductions in births from mid-2020 through early 2021. Birth counts in subsequent months matched or even eased the pace of fertility decline since the 2008 recession and are unlikely a function of the pandemic alone. Responses to the pandemic were heterogeneous. Fertility declined markedly among the foreign-born population, largely driven by changes in net migration. Among the U.S.-born population, the short-term pandemic-attributable reductions were largest among older, highly educated people, suggesting mechanisms of fertility reduction disparately accessible to those with the most resources. We find no evidence of a strong population fertility response to the pandemic's accompanying employment shock, providing additional evidence of a growing divide between macroeconomic conditions and fertility patterns in the United States.",
+  "authors": [
+    {
+      "raw": "Nobles, Jenna",
+      "family": "Nobles",
+      "given": "Jenna"
+    },
+    {
+      "raw": "Gemmill, Alison",
+      "family": "Gemmill",
+      "given": "Alison"
+    },
+    {
+      "raw": "Hwang, Sungsik",
+      "family": "Hwang",
+      "given": "Sungsik"
+    },
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    }
+  ],
+  "authors_text": "Nobles, Jenna; Gemmill, Alison; Hwang, Sungsik; Torche, Florencia",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12591",
+  "doi_url": "https://doi.org/10.1111/padr.12591",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12591",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12591.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

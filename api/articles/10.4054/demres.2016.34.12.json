@@ -1,0 +1,45 @@
+{
+  "title": "State-level variation in the imprisonment-mortality relationship, 2001-2010",
+  "abstract": "BACKGROUND Most research on the imprisonment-mortality relationship has focused exclusively on non-Hispanic black males and non-Hispanic white males at the national level in the United States. OBJECTIVE To document variation in this relationship across states by race/ethnicity and sex. METHODS We estimate the crude and age-specific mortality rates of state prisoners and of the general population in 7-9 states. We also present the resulting standardized mortality ratios (SMRs). RESULTS The results provide support for four key conclusions. First, although there is substantial cross-state variability in the mortality rates of male and female state prisoners, there is far more cross-state variability in the mortality rates of males and females in the general population. Second, the mortality advantage of male prisoners over males in the general population was larger than the mortality advantage of female prisoners over females in the general population. Third, relative to same-race and same-sex peers in the general population, black males experienced the largest mortality advantage across all of the states considered, and this advantage was often quite substantial. Finally, Hispanic female state prisoners in New York were the one group at a significant mortality disadvantage relative to the general population, although because of the small number of Hispanic female state prisoners who died over this period ( 20), further research testing the robustness of this finding to different time periods and places is sorely needed. CONCLUSION Although mortality disparities among prisoners are smaller than those found in the general population, research should consider how conditions of confinement affect the mortality of prisoners.",
+  "authors": [
+    {
+      "raw": "Wildeman, Christopher",
+      "family": "Wildeman",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Noonan, Margaret E.",
+      "family": "Noonan",
+      "given": "Margaret E."
+    },
+    {
+      "raw": "Golinelli, Daniela",
+      "family": "Golinelli",
+      "given": "Daniela"
+    },
+    {
+      "raw": "Carson, E. Ann",
+      "family": "Carson",
+      "given": "E. Ann"
+    },
+    {
+      "raw": "Emanuel, Natalia",
+      "family": "Emanuel",
+      "given": "Natalia"
+    }
+  ],
+  "authors_text": "Wildeman, Christopher; Noonan, Margaret E.; Golinelli, Daniela; Carson, E. Ann; Emanuel, Natalia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.12",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

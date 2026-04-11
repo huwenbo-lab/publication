@@ -1,0 +1,30 @@
+{
+  "title": "Social distance and wage inequalities for immigrants in Switzerland",
+  "abstract": "This study investigates the impact of the social distance between immigrants and Swiss natives on wage inequalities. Social distance is assumed to be high when immigrants come from a different culture, a different education system and speak a different language. By combining these three aspects, this article goes beyond existing studies that only focus on cultural differences. The empirical findings indicate that, net of education, immigrants with a high or very high social distance from the receiving society are strongly disadvantaged in terms of their salaries. Additional analyses show that the impact of typical explanatory factors for labour market success such as education, citizenship and length of stay also vary by the degree of social distance between immigrants and their destination country. The analyses are based on data from the Swiss Labour Force Survey for the years 2010 and 2011, which allow for detailed analyses on individual immigrant groups due to oversampling.",
+  "authors": [
+    {
+      "raw": "Ebner, Christian",
+      "family": "Ebner",
+      "given": "Christian"
+    },
+    {
+      "raw": "Helbling, Marc",
+      "family": "Helbling",
+      "given": "Marc"
+    }
+  ],
+  "authors_text": "Ebner, Christian; Helbling, Marc",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2015,
+  "doi": "10.1177/0950017015594096",
+  "doi_url": "https://doi.org/10.1177/0950017015594096",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017015594096",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017015594096.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

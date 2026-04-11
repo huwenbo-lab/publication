@@ -1,0 +1,30 @@
+{
+  "title": "Income Inequality and Residential Segregation in “Egalitarian” Sweden: Lessons from a Least Likely Case",
+  "abstract": "Drawing on individual-level full-population data from Sweden, spanning four decades, we investigate the joint growth of income inequality and income segregation. We study Sweden as a 'least likely' case comparison with the United States, given Sweden's historically low levels of inequality and its comprehensive welfare state. Against the background of U.S.-based scholarship documenting a close link between inequality and segregation, our study provides an important insight into the universality of this relationship. Using entropy-based segregation measures, we analyze trends and patterns of income segregation between and within income groups along different sociodemographic dimensions—migration background and family type. Our findings reveal that growing income inequality in the last 30 years has been accompanied by a sharp uptake in income segregation, especially for the bottom quartile of the income distribution who are facing increasing isolation. Income segregation is most extensive for individuals with children in the household, among whom it has increased at a higher rate than those without children. Interestingly, income segregation is lower among non-Western minorities than among majority-group Swedes. We conclude that changes to the welfare state, liberalization of the housing market, and rapid demographic changes have led Sweden onto a path that is difficult to distinguish from that taken by the United States.",
+  "authors": [
+    {
+      "raw": "Mutgan, Selcan",
+      "family": "Mutgan",
+      "given": "Selcan"
+    },
+    {
+      "raw": "Mijs, Jonathan",
+      "family": "Mijs",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Mutgan, Selcan; Mijs, Jonathan",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a12",
+  "doi_url": "https://doi.org/10.15195/v10.a12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

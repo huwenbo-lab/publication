@@ -1,0 +1,30 @@
+{
+  "title": "A caution on sibling comparisons in studying effects of the rearing environment",
+  "abstract": "Recent studies use sibling fixed effects to estimate the influence of the family environment on children, a practice we call the 'discordant family design'. These studies suffer from a disconnect between the use of within-family variation, on the one hand, and relevant theories which mostly refer to variation between families on the other. In addition, reverse causality, within-family confounding, selection into identification, and measurement error complicate their interpretation further. We discuss three applied examples-the effects of parenting, family income, and neighbourhood context-and provide some general guidance. To avoid misinterpretation, researchers should have a strong grasp of the variance that enters into estimation, and not just the potential confounders a given strategy is designed to deal with.",
+  "authors": [
+    {
+      "raw": "Engzell, Per",
+      "family": "Engzell",
+      "given": "Per"
+    },
+    {
+      "raw": "Haellsten, Martin",
+      "family": "Haellsten",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Engzell, Per; Haellsten, Martin",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcae037",
+  "doi_url": "https://doi.org/10.1093/esr/jcae037",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae037",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae037.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

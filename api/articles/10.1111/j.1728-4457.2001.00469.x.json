@@ -1,0 +1,25 @@
+{
+  "title": "Is there a stabilizing selection around average fertility in modern human populations?",
+  "abstract": "Possibly the greatest challenge for an evolutionary explanation of demographic transition is the fact that fertility levels universally start to fall first among the well-to-do, well-educated, healthy classes, which can be explained only by some voluntary or at least adaptive action. The problem of how restraints on fertility could have evolved by natural selection has been tackled with group selection models as well as with stabilizing selection models. The latter model, which is critically discussed in this article, posits that some intermediate (rather than maximal) level of fertility is optimal for long-term reproductive success. Tests of stabilizing selection in human populations are rare, their results inconclusive. Here four sets of data are analyzed: they are samples drawn from the class of 1950 of the US Military Academy at West Point (cohorts 1923-29), retired US noncommissioned officers (cohorts 1913-37), and western German and eastern German physicians (cohorts 1930-35), all containing fertility data over two generations, and from European royalty (cohorts 1790-1939) containing fertility data over four generations. Deterministic as well as stochastic fitness measures are used. it is found that maximal, not average, fertility in the first generation leads to maximal long-term reproductive success. Also against prediction, no decreasing marginal fitness gains by increasing fertility can be observed. The findings leave little space for considering stabilizing selection as a plausible mechanism explaining the course of demographic transition but indicate instead that biological evolution today is as fast and vigorous as ever in human history. Even in large populations, all people living today may be the descendants of just some few percents-a much smaller proportion than generally believed-of the people living some generations ago.",
+  "authors": [
+    {
+      "raw": "Mueller, U",
+      "family": "Mueller",
+      "given": "U"
+    }
+  ],
+  "authors_text": "Mueller, U",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2001,
+  "doi": "10.1111/j.1728-4457.2001.00469.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2001.00469.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2001.00469.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2001.00469.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

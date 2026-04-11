@@ -1,0 +1,30 @@
+{
+  "title": "Like Father, Like Son? Intergenerational Educational Mobility in India",
+  "abstract": "Using the nationally representative India Human Development Survey (IHDS), we create a unique son-father matched data set that is representative of the entire adult male population (aged 20-65) in India. We use these data to document the evolution of intergenerational transmission of educational attainment in India over time, among different castes and states for the birth cohorts of 1940-1985. We find that educational persistence, as measured by the regression coefficient of father's education as a predictor of son's education, has declined over time. This implies that increases in average educational attainment are driven primarily by increases among children of less-educated fathers. However, we do not find such a declining trend in the correlation between educational attainment of sons and fathers, which is another commonly used measure of persistence. To understand the source of such a discrepancy between the two measures of educational persistence, we decompose the intergenerational correlation and find that although persistence has declined at the lower end of the fathers' educational distribution, it has increased at the top end of that distribution.",
+  "authors": [
+    {
+      "raw": "Azam, Mehtabul",
+      "family": "Azam",
+      "given": "Mehtabul"
+    },
+    {
+      "raw": "Bhatt, Vipul",
+      "family": "Bhatt",
+      "given": "Vipul"
+    }
+  ],
+  "authors_text": "Azam, Mehtabul; Bhatt, Vipul",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0428-8",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0428-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0428-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0428-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

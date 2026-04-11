@@ -1,0 +1,25 @@
+{
+  "title": "Mixed land use and neighborhood crime",
+  "abstract": "The concentration of certain land uses has been linked to crime rates; yet, it remains to be seen whether mixed land use, defined as heterogeneity among several land uses, independently affects neighborhood crime. The goal of the current study, therefore, is to build upon the extant literature by examining how mixed land use influences crime, net of specific land uses and sociodemographic characteristics. Using data on Los Angeles block groups, a Herfindahl index was constructed of eight specific land uses to capture mixed land use, and a series of negative binomial regression models were estimated to assess the main and moderating effects of mixed land use on neighborhood crime. Although mixed land use was found to exert a deleterious influence on two crime types, concentrated disadvantage moderated the effect of mixed land use on all crime types. The implications of these findings for criminology, urban studies, and policy are discussed.",
+  "authors": [
+    {
+      "raw": "Wo, James C.",
+      "family": "Wo",
+      "given": "James C."
+    }
+  ],
+  "authors_text": "Wo, James C.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.12.010",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.12.010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.12.010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.12.010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

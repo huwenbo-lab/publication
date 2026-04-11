@@ -1,0 +1,25 @@
+{
+  "title": "Population momentum for gradual demographic transitions: an alternative approach",
+  "abstract": "Abstract In this article, I derive a simple formula for approximating the ultimate size of a population that undergoes a gradual transition to replacement fertility. I model the fertility transition by specifying a linear frontier on the Lexis surface across which a change in fertility is instantaneous. Gradual transitions result from variations in the slope of this frontier. This framework can be used to reproduce and understand previous studies of population momentum and gradual transitions.",
+  "authors": [
+    {
+      "raw": "Goldstein, Joshua R.",
+      "family": "Goldstein",
+      "given": "Joshua R."
+    }
+  ],
+  "authors_text": "Goldstein, Joshua R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.1353/dem.2002.0004",
+  "doi_url": "https://doi.org/10.1353/dem.2002.0004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2002.0004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2002.0004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

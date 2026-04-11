@@ -1,0 +1,30 @@
+{
+  "title": "Paternity leave, family dynamics, and children's behavior in Singapore",
+  "abstract": "Objective Conduct the first empirical study to examine whether a father taking paternity leave is related to children's social-emotional development in Asia and the extent to which family dynamics mediate this relationship. Background The provision of paid paternity leave in Asia is relatively recent compared to many western societies. The impact of this policy on family dynamics and children's well-being in Asia, where patriarchal ideology is more prevalent and women's labor force participation is high, is understudied. This study investigates this relationship in Singapore where government-paid paternity leave was initiated in 2013. Method This study uses data from the Singapore Longitudinal Early Development Study which consists of 3895 children aged under 7. Multivariate regressions and propensity score matching analyses are conducted to assess the relationships between paternity leave-taking, family dynamics, and children's behavioral outcomes. The KHB method is used to test the mediation effects of family dynamics. Results A 2-week or longer paternity leave is significantly associated with lower family conflicts, mothers' parenting aggravation, higher marital satisfaction, fathers' involvement, and closer father-child relations. Paternity leave-taking, mediated through positive family dynamics, is significantly associated with lower behavior problems in children. Conclusion Relatively short paternity leave (2 weeks) can benefit both family dynamics and children's social-emotional outcomes. These results have implications for policies that aim to enhance work-family life balance and gender equality in society.",
+  "authors": [
+    {
+      "raw": "Yeung, Wei-Jun Jean",
+      "family": "Yeung",
+      "given": "Wei-Jun Jean"
+    },
+    {
+      "raw": "Li, Nanxun",
+      "family": "Li",
+      "given": "Nanxun"
+    }
+  ],
+  "authors_text": "Yeung, Wei-Jun Jean; Li, Nanxun",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2023,
+  "doi": "10.1111/jomf.12896",
+  "doi_url": "https://doi.org/10.1111/jomf.12896",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12896",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12896.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

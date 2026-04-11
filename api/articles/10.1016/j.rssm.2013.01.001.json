@@ -1,0 +1,25 @@
+{
+  "title": "Summarizing primary and secondary effects",
+  "abstract": "Current methods for decomposing class differentials in educational decisions into primary and secondary effects produce many parameters, rendering them ill-equipped for parsimonious comparisons across countries or birth cohorts. This paper develops a parametric method that provides an optimal summary of primary and secondary effects across discrete class origins. Under the testable assumption that the pattern of effects of class origins on academic ability is proportional to the pattern of effects of class origins on educational choice net of academic ability, the method returns a single summary measure. Applying the method to two cohorts born in the UK in 1958 and 1970 suggests that even with increasing overall inequality of educational opportunity the relative contribution of secondary effects to class differentials in A-level completion has changed little between the two cohorts. (C) 2013 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Karlson, Kristian Bernt",
+      "family": "Karlson",
+      "given": "Kristian Bernt"
+    }
+  ],
+  "authors_text": "Karlson, Kristian Bernt",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2013,
+  "doi": "10.1016/j.rssm.2013.01.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2013.01.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2013.01.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2013.01.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

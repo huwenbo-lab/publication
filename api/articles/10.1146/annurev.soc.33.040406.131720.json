@@ -1,0 +1,25 @@
+{
+  "title": "Statistical magic and/or statistical serendipity: an age of progress in the analysis of categorical data",
+  "abstract": "This essay describes in simple terms some of the major concepts of categorical data analysis (CDA) that have been and will continue to be useful in the analysis of sociological data, examples of which include data in the area of social stratification and mobility, and in many other areas that make use of survey data and/or panel studies data, and in empirical studies of latent types, latent variables, and latent structures. The exposition does not make use of any mathematical formulas, and the only arithmetic used is very simple multiplication, division, and addition. Simple numerical examples, constructed for expository purposes, are used as an aid in describing the concepts of categorical data analysis that are considered in the essay. These concepts include quasi-independence, quasi-symmetry, symmetric association, uniform association, and other related concepts useful in the analysis of mobility tables, and also other concepts that are useful in other areas of study.",
+  "authors": [
+    {
+      "raw": "Goodman, Leo A.",
+      "family": "Goodman",
+      "given": "Leo A."
+    }
+  ],
+  "authors_text": "Goodman, Leo A.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2007,
+  "doi": "10.1146/annurev.soc.33.040406.131720",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.33.040406.131720",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.33.040406.131720",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.33.040406.131720.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

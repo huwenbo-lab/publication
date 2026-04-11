@@ -1,0 +1,25 @@
+{
+  "title": "Does Community Context Have an Important Impact on Divorce Risk? A Fixed-Effects Study of Twenty Norwegian First-Marriage Cohorts",
+  "abstract": "The decision to divorce may be affected by the characteristics of the local community. Community characteristics may be barriers to divorce, or they may increase the attractiveness of divorcing (e.g., access to a good remarriage market), but our knowledge of such influences is sparse. This study examines two such community-level factors: socio-economic conditions and the local marriage market. In this study, discrete-time hazard models with community-level fixed effects are estimated using register-based data on Norwegian first marriages during the period from 1980 to 1999, with longitudinal information on both the community and couple levels (N = 283,493). The results show that there are important community-level influences on couples' divorce risk, but these change dramatically when fixed effects are introduced.",
+  "authors": [
+    {
+      "raw": "Lyngstad, Torkild Hovde",
+      "family": "Lyngstad",
+      "given": "Torkild Hovde"
+    }
+  ],
+  "authors_text": "Lyngstad, Torkild Hovde",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2011,
+  "doi": "10.1007/s10680-010-9226-6",
+  "doi_url": "https://doi.org/10.1007/s10680-010-9226-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-010-9226-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-010-9226-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

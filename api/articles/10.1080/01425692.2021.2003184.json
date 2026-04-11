@@ -1,0 +1,25 @@
+{
+  "title": "Data infrastructures and the governance of their accompanying narratives",
+  "abstract": "Data infrastructures are suffused with stories of their past, present, and future that govern their use. This article draws on research into 'OneSchool', the state schooling data infrastructure used to manage student data in Queensland, Australia. The political, social, and technical histories of OneSchool's development are shown to govern its current use. In interviews, users from across Queensland's education system shared stories of the ways OneSchool developed to both impede and create problematic truths about students, teachers and systems. The ways in which OneSchool became known as the single point of truth are used to illustrate how the narratives that accompany data infrastructures govern data, those who record the data, and those who are represented within the data. Identifying the governance of stories that travel with data infrastructures facilitates the development of protective and productive data behaviours for educational practitioners globally who are negotiating the discourse of digital educational governance.",
+  "authors": [
+    {
+      "raw": "Clutterbuck, Jennifer",
+      "family": "Clutterbuck",
+      "given": "Jennifer"
+    }
+  ],
+  "authors_text": "Clutterbuck, Jennifer",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2022,
+  "doi": "10.1080/01425692.2021.2003184",
+  "doi_url": "https://doi.org/10.1080/01425692.2021.2003184",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2021.2003184",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2021.2003184.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

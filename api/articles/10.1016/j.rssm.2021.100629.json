@@ -1,0 +1,30 @@
+{
+  "title": "Does ability grouping affect UK primary school pupils' enjoyment of Maths and English?",
+  "abstract": "Advocates of grouping pupils by measured ability for instructional purposes claim that ability-homogeneous classrooms increase the attainment of high-ability pupils without detriment to the attainment of pupils judged to be of lower ability. Opponents of ability grouping, in contrast, argue that high-ability pupils do at best only marginally better in ability-homogeneous classrooms than they would have done in mixed-ability settings, whereas low-ability pupils do significantly worse. One mechanism posited by the critics of ability grouping is that this practice causes psychological harm to those labelled low-ability, resulting in a self-fulfilling prophecy of low attainment. Most previous studies have measured this posited psychological impact of ability grouping in terms of pupils' academic self-concept, a term which refers to pupils' perceptions of how good they are in relation to particular subjects or to academic study generally. This paper explores the related but distinct concept of academic enjoyment, which refers to the extent to which pupils like the particular subjects they study, and like school generally, which has been shown to be positively correlated with academic engagement and achievement. While academic self-concept may change over time as pupils become aware of their level of academic performance, as indicated by test scores and/or their placement in particular ability groups, this need not be the case for change over time in pupils' enjoyment of their studies which could, in theory at least, remain stable or change in a uniform direction regardless of the ability group in which pupils are taught. In this paper we explore whether pupils' enjoyment of Maths, English, and school generally, changes in a differential manner between the ages of 7 and 11 depending on the ability group in which pupils were placed at age 7. We do so by drawing on data from the Millennium Cohort Study (MCS) which has followed a nationally representative sample of children in the UK born between 2000 and 2002. Compared to pupils in the high ability group, those in the low ability group were less likely to come to enjoy, continue to enjoy, or increase their enjoyment of Maths between the ages of 7 and 11, both before and after controlling for pupils' measured ability in Maths at age 7 and the key demographic variables of gender and social class background. Similar divergences with respect to enjoyment of English and school generally were evident before controlling for these additional factors, but were largely statistically insignificant after the inclusion of these controls. Overall our findings suggest that ability grouping in primary schools does more harm than good, at least in relation to pupils' enjoyment of Maths.",
+  "authors": [
+    {
+      "raw": "Boliver, Vikki",
+      "family": "Boliver",
+      "given": "Vikki"
+    },
+    {
+      "raw": "Capsada-Munsech, Queralt",
+      "family": "Capsada-Munsech",
+      "given": "Queralt"
+    }
+  ],
+  "authors_text": "Boliver, Vikki; Capsada-Munsech, Queralt",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100629",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100629",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100629",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100629.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

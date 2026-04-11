@@ -1,0 +1,35 @@
+{
+  "title": "Comparing Relative Effects of Education and Economic Resources on Infant Mortality in Developing Countries",
+  "abstract": "Research on the social determinants of health has often considered education and economic resources as separate indicators of socioeconomic status. From a policy perspective, however, it is important to understand the relative strength of the effect of these social factors on health outcomes, particularly in developing countries. It is also important to examine not only the impact of education and economic resources of individuals, but also whether community and country levels of these factors affect health outcomes. This analysis uses multilevel regression models to assess the relative effects of education and economic resources on infant mortality at the family, community, and country level using data from demographic and Health Surveys in 43 low-and lower-middle-income countries. We find strong effects for both per capita gross national income and completed secondary education at the country level, but a greater impact of education within families and communities.",
+  "authors": [
+    {
+      "raw": "Pamuk, Elsie R.",
+      "family": "Pamuk",
+      "given": "Elsie R."
+    },
+    {
+      "raw": "Fuchs, Regina",
+      "family": "Fuchs",
+      "given": "Regina"
+    },
+    {
+      "raw": "Lutz, Wolfgang",
+      "family": "Lutz",
+      "given": "Wolfgang"
+    }
+  ],
+  "authors_text": "Pamuk, Elsie R.; Fuchs, Regina; Lutz, Wolfgang",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2011,
+  "doi": "10.1111/j.1728-4457.2011.00451.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2011.00451.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2011.00451.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2011.00451.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

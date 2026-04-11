@@ -1,0 +1,30 @@
+{
+  "title": "The temporal stability of children's neighborhood experiences: A follow-up from birth to age 15",
+  "abstract": "BACKGROUND Despite increasing attention being paid to the temporal dynamics of childhood disadvantage, children's neighborhood characteristics are still frequently measured at a single point in time. Whether such cross-sectional measures serve as reliable proxies for children's long-run neighborhood conditions depends on the stability in children's neighborhood experiences over time. OBJECTIVE We investigate stability in children's neighborhood environment over time, focusing on two of the most commonly studied neighborhood socioeconomic conditions: The ethnic composition and mean income of the neighborhood. METHODS Drawing on data from the Dutch population registers, an entire cohort of children born in the Netherlands in 1999 (n=179,166) is followed from birth up until age 15. We use year-to-year correlations in the percentage of non-Western ethnic minorities and the mean logged income in the neighborhood to evaluate the temporal stability of children's neighborhood experiences. RESULTS Results indicate that children's neighborhood characteristics are more stable over time with regard to ethnic composition than with regard to the mean income. Children who had moved at least once had less stability in neighborhood characteristics than children who never moved. Finally, neighborhood experiences were found to be more stable over time for ethnic minority children, although differences were small with regard to mean income in the neighborhood. CONCLUSIONS We conclude that single point-in-time measurements of neighborhood characteristics are reasonable proxies for the long-run ethnic composition of children's neighborhood environment, but rather noisy proxies for the long-run income status of their neighborhood, particularly for those who moved.",
+  "authors": [
+    {
+      "raw": "Kleinepier, Tom",
+      "family": "Kleinepier",
+      "given": "Tom"
+    },
+    {
+      "raw": "van Ham, Maarten",
+      "family": "van Ham",
+      "given": "Maarten"
+    }
+  ],
+  "authors_text": "Kleinepier, Tom; van Ham, Maarten",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.59",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.59",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.59",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.59.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Educational Differences in U.S. Adult Mortality: A Cohort Perspective",
+  "abstract": "We use hierarchical cross-classified random-effects models to simultaneously measure age, period, and cohort patterns of mortality risk between 1986 and 2006 for non-Hispanic white and non-Hispanic black men and women with less than a high school education, a high school education, and more than a high school education. We examine all-cause mortality risk and mortality risk from heart disease, lung cancer, and unpreventable cancers. Findings reveal that temporal reductions in black and white men's and women's mortality rates were driven entirely by cohort changes in mortality. Findings also demonstrate that disparate cohort effects between education groups widened the education gap in all-cause mortality risk and mortality risk from heart disease and lung cancer across this time period. Educational disparities in mortality risk from unpreventable cancers, however, did not change. This research uncovers widening educational differences in adult mortality and demonstrates that a cohort perspective provides valuable insights for understanding recent temporal changes in U.S. mortality risk.",
+  "authors": [
+    {
+      "raw": "Masters, Ryan K.",
+      "family": "Masters",
+      "given": "Ryan K."
+    },
+    {
+      "raw": "Hummer, Robert A.",
+      "family": "Hummer",
+      "given": "Robert A."
+    },
+    {
+      "raw": "Powers, Daniel A.",
+      "family": "Powers",
+      "given": "Daniel A."
+    }
+  ],
+  "authors_text": "Masters, Ryan K.; Hummer, Robert A.; Powers, Daniel A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2012,
+  "doi": "10.1177/0003122412451019",
+  "doi_url": "https://doi.org/10.1177/0003122412451019",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122412451019",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122412451019.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

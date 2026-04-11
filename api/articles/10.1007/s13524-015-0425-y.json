@@ -1,0 +1,30 @@
+{
+  "title": "Change in the Stability of Marital and Cohabiting Unions Following the Birth of a Child",
+  "abstract": "The share of births to cohabiting couples has increased dramatically in recent decades. How we evaluate the implications of these increases depends critically on change in the stability of cohabiting families. This study examines change over time in the stability of U.S. couples who have a child together, drawing on data from the 1995 and 2006-2010 National Survey of Family Growth (NSFG). We parse out the extent to which change in the stability of cohabiting and married families reflects change in couples' behavior versus shifts in the characteristics of those who cohabit, carefully accounting for trajectories of cohabitation and marriage around the couple's first birth. Multivariate event history models provide evidence of a weakening association between cohabitation and instability given that marriage occurs at some point before or after the couple's first birth. The more recent data show statistically indistinguishable separation risks for couples who have a birth in marriage without ever cohabiting, those who cohabit and then have a birth in marriage, and those who have a birth in cohabitation and then marry. Cohabiting unions with children are significantly less stable when de-coupled from marriage, although the parents in this group also differ most from others on observed (and likely, unobserved) characteristics.",
+  "authors": [
+    {
+      "raw": "Musick, Kelly",
+      "family": "Musick",
+      "given": "Kelly"
+    },
+    {
+      "raw": "Michelmore, Katherine",
+      "family": "Michelmore",
+      "given": "Katherine"
+    }
+  ],
+  "authors_text": "Musick, Kelly; Michelmore, Katherine",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0425-y",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0425-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0425-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0425-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

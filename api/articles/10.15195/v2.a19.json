@@ -1,0 +1,40 @@
+{
+  "title": "The Population Level Impacts of Differential Fertility Behavior of Parents of Children with Autism",
+  "abstract": "Drawing on population level data of exceptional quality (including detailed diagnostic information on the autism status of sibling pairs of over 3 million different mothers), this study confirms that stoppage is the average fertility response to a child born with autism, thereby reducing observed concordance in sibling pairs and leading to potentially biased estimation of genetic contributions to autism etiology. Using a counterfactual framework and applying matching techniques we show, however, that this average effect is composed of very different responses to suspicion of autism depending on birth cohort, the character of the disorder (severe versus less severe), the gender of the child, poverty status, and parental education. This study also sheds light on when parents suspect autism. We find that parents' fertility behavior changes relative to matched controls very early after the birth of a child who will later be diagnosed with autism.",
+  "authors": [
+    {
+      "raw": "Makovi, Kinga",
+      "family": "Makovi",
+      "given": "Kinga"
+    },
+    {
+      "raw": "Winter, Alix",
+      "family": "Winter",
+      "given": "Alix"
+    },
+    {
+      "raw": "Liu, Ka-Yuet",
+      "family": "Liu",
+      "given": "Ka-Yuet"
+    },
+    {
+      "raw": "Bearman, Peter",
+      "family": "Bearman",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Makovi, Kinga; Winter, Alix; Liu, Ka-Yuet; Bearman, Peter",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2015,
+  "doi": "10.15195/v2.a19",
+  "doi_url": "https://doi.org/10.15195/v2.a19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv2.a19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v2.a19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

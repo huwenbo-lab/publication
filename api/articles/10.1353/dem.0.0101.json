@@ -1,0 +1,35 @@
+{
+  "title": "Social demographic change and autism",
+  "abstract": "Abstract Parental age at child’s birth—which has increased for U.S. children in the 1992–2000 birth cohorts—is strongly associated with an increased risk of autism. By turning a social demographic lens on the historical patterning of concordance among twin pairs, we identify a central mechanism for this association: de novo mutations, which are deletions, insertions, and duplications of DNA in the germ cells that are not present in the parents ’ DNA. Along the way, we show that a demographic eye on the rising prevalence of autism leads to three major discoveries. First, the estimated heritability of autism has been dramatically overstated. Second, heritability estimates can change over remarkably short periods of time because of increases in germ cell mutations. Third, social demographic change can yield genetic changes that, at the population level, combine to contribute to the increased prevalence of autism.",
+  "authors": [
+    {
+      "raw": "Liu, Kayuet",
+      "family": "Liu",
+      "given": "Kayuet"
+    },
+    {
+      "raw": "Zerubavel, Noam",
+      "family": "Zerubavel",
+      "given": "Noam"
+    },
+    {
+      "raw": "Bearman, Peter",
+      "family": "Bearman",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Liu, Kayuet; Zerubavel, Noam; Bearman, Peter",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0101",
+  "doi_url": "https://doi.org/10.1353/dem.0.0101",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0101",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0101.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

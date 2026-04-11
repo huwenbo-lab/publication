@@ -1,0 +1,25 @@
+{
+  "title": "How Is Fertility Behavior in Africa Different?",
+  "abstract": "Sub-Saharan Africa's fertility decline has lagged behind that of other regions. Using large-scale, individual-level data, I provide new evidence on how fertility in sub-Saharan Africa compares with that in East Asia, South Asia, and Latin America by examining differences in fertility outcomes by grade level across regions. Unlike prior research that compared aggregate fertility and education outcomes, I estimate fertility outcomes separately for each combination of region, area of residence, age group, and grade level. I find that differences in fertility between sub-Saharan Africa and other regions increase with education up to the end of primary school and then rapidly decrease. There is little consistent evidence of differences among women with secondary education or higher. Moreover, for grade levels where fertility is significantly higher in sub-Saharan Africa than in other regions, the differences are substantially smaller for surviving children than for children ever born. Using women's literacy as a proxy for school quality, I show that the results for literacy rates follow a similar pattern to the fertility outcomes. Overall, the results suggest that higher offspring mortality and lower quality of primary schooling contribute to higher fertility in sub-Saharan Africa compared with other regions.",
+  "authors": [
+    {
+      "raw": "Portner, Claus C.",
+      "family": "Portner",
+      "given": "Claus C."
+    }
+  ],
+  "authors_text": "Portner, Claus C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-12191344",
+  "doi_url": "https://doi.org/10.1215/00703370-12191344",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12191344",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12191344.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Development and International Migration: The Effect of Income on Regular and Irregular Migration Intentions to Europe",
+  "abstract": "In recent years, the development-migration debate has re-gained popularity in policy circles, especially after the so-called migration crisis in Europe and the following approval of the European Agenda on Migration. Much of the empirical literature supports the idea that the relationship between international migration and incomes at origin follows hump-shaped patterns. A growing number of studies find that increasing economic development and financial resources in developing countries would allow a greater number of individuals to afford the costs of emigrating. However, this evidence heavily relies on measures of regular migration only. Using nationally representative data from 12 Middle East and North Africa countries, this study adopts a multinomial logit model to frame migration intentions, distinguishing between regular and irregular routes. The main finding is that the level of household income is associated negatively with the demand for irregular migration to Europe. Predictive margins clearly show that higher household incomes increase the probability of planning only regular migration, while decreasing that of considering also irregular migration. The policy implications are not negligible: improving economic conditions in countries of origin may be effective at deflecting migrants from irregular to regular routes.",
+  "authors": [
+    {
+      "raw": "Restelli, Gabriele",
+      "family": "Restelli",
+      "given": "Gabriele"
+    }
+  ],
+  "authors_text": "Restelli, Gabriele",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2023,
+  "doi": "10.1111/padr.12525",
+  "doi_url": "https://doi.org/10.1111/padr.12525",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12525",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12525.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

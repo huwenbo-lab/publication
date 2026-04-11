@@ -1,0 +1,40 @@
+{
+  "title": "Can We Spin Straw Into Gold? An Evaluation of Immigrant Legal Status Imputation Approaches",
+  "abstract": "Researchers have developed logical, demographic, and statistical strategies for imputing immigrants' legal status, but these methods have never been empirically assessed. We used Monte Carlo simulations to test whether, and under what conditions, legal status imputation approaches yield unbiased estimates of the association of unauthorized status with health insurance coverage. We tested five methods under a range of missing data scenarios. Logical and demographic imputation methods yielded biased estimates across all missing data scenarios. Statistical imputation approaches yielded unbiased estimates only when unauthorized status was jointly observed with insurance coverage; when this condition was not met, these methods overestimated insurance coverage for unauthorized relative to legal immigrants. We next showed how bias can be reduced by incorporating prior information about unauthorized immigrants. Finally, we demonstrated the utility of the best-performing statistical method for increasing power. We used it to produce state/regional estimates of insurance coverage among unauthorized immigrants in the Current Population Survey, a data source that contains no direct measures of immigrants' legal status. We conclude that commonly employed legal status imputation approaches are likely to produce biased estimates, but data and statistical methods exist that could substantially reduce these biases.",
+  "authors": [
+    {
+      "raw": "Van Hook, Jennifer",
+      "family": "Van Hook",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Bachmeier, James D.",
+      "family": "Bachmeier",
+      "given": "James D."
+    },
+    {
+      "raw": "Coffman, Donna L.",
+      "family": "Coffman",
+      "given": "Donna L."
+    },
+    {
+      "raw": "Harel, Ofer",
+      "family": "Harel",
+      "given": "Ofer"
+    }
+  ],
+  "authors_text": "Van Hook, Jennifer; Bachmeier, James D.; Coffman, Donna L.; Harel, Ofer",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-014-0358-x",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0358-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0358-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0358-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

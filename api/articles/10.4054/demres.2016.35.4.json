@@ -1,0 +1,40 @@
+{
+  "title": "Sigma and beta convergence in regional mortality: A case study of the Netherlands",
+  "abstract": "BACKGROUND For allocation of health budgets it is important to know whether regional mortality differences tend to decline or to increase. Sigma convergence tests can measure whether the dispersion of the regional distribution of mortality has declined. Beta convergence tests can examine whether regions with a low level of life expectancy have experienced a stronger increase than regions with a high level. In demographic research, however, sigma and beta convergence have not been formally assessed simultaneously. OBJECTIVE We demonstrate the application of both sigma and beta convergence tests to the study of trends in regional mortality differences for the Netherlands. METHODS Using all-cause mortality and population data for 40 Dutch NUTS-3 regions, by year (1988-2009), age group, and sex, we assess both sigma and beta convergence, and its significance. RESULTS Beta convergence proved statistically significant. The regions with the lowest life expectancy in 1988 generally exhibited the highest increase from 1988 to 2009, and vice versa. However, dispersion measures displayed no statistically significant sigma convergence. CONCLUSION Whereas the absence of sigma convergence shows that regional mortality differences have not declined, beta convergence indicates that the disadvantage of regions with low life expectancy is not persistent. CONTRIBUTION We demonstrated the added value of simultaneously studying sigma convergence, beta convergence, and trajectories of regions in the tails of the distribution. Where absence of sigma convergence does not imply that disadvantaged regions did not improve, beta convergence does not always indicate complete convergence due to structural differences across regions.",
+  "authors": [
+    {
+      "raw": "Janssen, Fanny",
+      "family": "Janssen",
+      "given": "Fanny"
+    },
+    {
+      "raw": "van den Hende, Anthe",
+      "family": "van den Hende",
+      "given": "Anthe"
+    },
+    {
+      "raw": "de Beer, Joop",
+      "family": "de Beer",
+      "given": "Joop"
+    },
+    {
+      "raw": "van Wissen, Leo J. G.",
+      "family": "van Wissen",
+      "given": "Leo J. G."
+    }
+  ],
+  "authors_text": "Janssen, Fanny; van den Hende, Anthe; de Beer, Joop; van Wissen, Leo J. G.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.4",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

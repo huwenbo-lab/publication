@@ -1,0 +1,30 @@
+{
+  "title": "Once outside, always outside? The link between overeducation persistence and training systems throughout the employment career",
+  "abstract": "Overeducation is associated with adverse consequences, such as wage loss and lower job satisfaction. To determine the magnitude of these consequences, it is essential to investigate whether formal overeducation is persistent or temporary. We compare the persistence of overeducation between the less standardized academic training and the highly standardized vocational education training. Using screening theory, we formulate hypotheses that explain the persistence of overeducation. The German National Education Panel Studies provide retrospective biographical data on 4315 employees. To provide an unbiased effect of overeducation persistence, we consider the full employment career and use a dynamic random-effects model. In this model, we apply Mundlak corrections to account for unobserved characteristics between individuals. Moreover, we adjust for the initial condition, as it affects subsequent employment pathways. We use the first job after entering the labor market as the initial condition. Our results show that overeducation in Germany is persistent and not simply a temporary part of the allocation process. The selfsustaining effect of overeducation is stronger for academics than it is for vocationally educated employees.",
+  "authors": [
+    {
+      "raw": "Damelang, Andreas",
+      "family": "Damelang",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Ruf, Kevin",
+      "family": "Ruf",
+      "given": "Kevin"
+    }
+  ],
+  "authors_text": "Damelang, Andreas; Ruf, Kevin",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2022.102774",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102774",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102774",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102774.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

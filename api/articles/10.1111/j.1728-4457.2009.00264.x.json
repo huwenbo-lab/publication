@@ -1,0 +1,30 @@
+{
+  "title": "The Segmented Trend Line of Highest Life Expectancies",
+  "abstract": "The well-known Oeppen-Vaupel straight line of maximum female life expectancies showed that the highest life expectancy observed in a given year increased linearly from 1840 to 2000. Their analysis fueled major controversy, especially when used to extrapolate future improvements in life expectancy at the same pace. We improve on the empirical analysis by enriching the dataset, expanding the period to 1750-2005, and considering both maximum life expectancy at birth and lowest age-specific survival rates. It clearly appears that the original Oeppen-Vaupel straight line must be divided into several segments characterized by different slopes and that each segment corresponds to a major advance in the health transition. There is room to push life expectancy higher, but unless some new breakthrough increases the human life span, progress will very likely decelerate as mortality reduction affects individuals at older and older ages. The main key to the future lies not in knowing whether the observed straight line can be extrapolated but in anticipating the next major health improvement that will lead to an additional increase in life expectancy.",
+  "authors": [
+    {
+      "raw": "Vallin, Jacques",
+      "family": "Vallin",
+      "given": "Jacques"
+    },
+    {
+      "raw": "Mesle, France",
+      "family": "Mesle",
+      "given": "France"
+    }
+  ],
+  "authors_text": "Vallin, Jacques; Mesle, France",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2009,
+  "doi": "10.1111/j.1728-4457.2009.00264.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2009.00264.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2009.00264.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2009.00264.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

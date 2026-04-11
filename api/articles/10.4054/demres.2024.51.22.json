@@ -1,0 +1,50 @@
+{
+  "title": "The pitfalls and benefits of using administrative data for internal migration research: An evaluation of Australia's Person Level Integrated Data Asset (PLIDA)",
+  "abstract": "BACKGROUND To enhance its data capability, Australia recently set up a longitudinal administrative micro-dataset, the Person Level Integrated Data Asset (PLIDA). OBJECTIVE To ensure that users in both scholarly and applied settings understand how PLIDA can be reliably used, we assess its Combined Location Module, which provides place of residence by combining three administrative datasets since 2006. METHODS Using descriptive statistics and regression analysis, we compare the population coverage of PLIDA to the census, estimate the incidence of missing values at various spatial scales, quantify spatial mismatch between PLIDA and the census, and compare the intensity, selectivity, and spatial patterns of internal migration between the two datasets. RESULTS The PLIDA population is higher than the census population, but very remote populations and recently arrived and temporary migrants are under-represented. We uncover a high mismatch rate between PLIDA and the census for small spatial units, particularly among highly mobile groups. As a result, PLIDA overestimates the level of internal migration and slightly distorts migration age patterns at young ages. Migration patterns are broadly comparable at large spatial scales, except for rapidly growing peri-urban regions, inner cities with short-term residents, and regions with a seasonal or temporary workforce. CONCLUSION PLIDA can be used in some applied settings outside demography if the spatial scale of analysis is aggregated, the analysis is restricted to census respondents, or the analysis is limited to well-represented groups. However, in its current form PLIDA is not suitable for demographic applications such as internal migration estimates, and we discourage its use for population projections. CONTRIBUTIONS Researchers need to be aware of the pitfalls of administrative data to knowingly decide on appropriate use. We recommend researchers to keep abreast of developments by the Australia Bureau of Statistics, which is continuously improving PLIDA.",
+  "authors": [
+    {
+      "raw": "Bernard, Aude",
+      "family": "Bernard",
+      "given": "Aude"
+    },
+    {
+      "raw": "Wu, Jing",
+      "family": "Wu",
+      "given": "Jing"
+    },
+    {
+      "raw": "Wilson, Tom",
+      "family": "Wilson",
+      "given": "Tom"
+    },
+    {
+      "raw": "Argent, Neil",
+      "family": "Argent",
+      "given": "Neil"
+    },
+    {
+      "raw": "Zajac, Tomasz",
+      "family": "Zajac",
+      "given": "Tomasz"
+    },
+    {
+      "raw": "Kimpton, Anthony",
+      "family": "Kimpton",
+      "given": "Anthony"
+    }
+  ],
+  "authors_text": "Bernard, Aude; Wu, Jing; Wilson, Tom; Argent, Neil; Zajac, Tomasz; Kimpton, Anthony",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.22",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

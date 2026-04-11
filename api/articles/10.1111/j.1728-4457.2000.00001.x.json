@@ -1,0 +1,25 @@
+{
+  "title": "The US decennial census: Political questions, scientific answers",
+  "abstract": "The US decennial census was initiated in 1790 to facilitate nation-building tasks, especially that of reconfiguring political representation as the population grew and settled new territories. To this basic task of power distribution have been added other key governmental functions, such as the use of census data in guiding revenue sharing and in the enforcement of nondiscriminatory policies. Throughout its history the census has been the focus of partisan clashes. Following the identification of the differential undercount-a measure of how census coverage differs across demographic groups and geographic areas-the partisan battles intensified, and in recent decades have come to focus not just on how the census counts are used but how the census data are collected. It has been argued that census methodology could be designed to predetermine given partisan outcomes, and for the 2000 census this charge shifted from could be to is. The Census Bureau has taken extraordinary steps to demonstrate that no partisan considerations have affected the design or implementation of the census, and that its decisions are based solely on the best technical judgment available.",
+  "authors": [
+    {
+      "raw": "Prewitt, K",
+      "family": "Prewitt",
+      "given": "K"
+    }
+  ],
+  "authors_text": "Prewitt, K",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2000,
+  "doi": "10.1111/j.1728-4457.2000.00001.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2000.00001.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2000.00001.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2000.00001.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

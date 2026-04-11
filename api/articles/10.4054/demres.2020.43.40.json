@@ -1,0 +1,35 @@
+{
+  "title": "The geographical patterns of birth seasonality in Australia",
+  "abstract": "BACKGROUND Studies have shown how births exhibit seasonal patterns, with peaks and troughs in particular months and seasons. Most of this literature focuses on national-level patterns mainly in countries of the northern hemisphere. OBJECTIVE The aim of the paper is to describe key features of contemporary birth seasonality at a subnational scale across Australia. METHODS Data on births across the year by region for the 2001.2016 period were acquired from the Australian Bureau of Statistics. A Births Index was calculated to standardise for length of month and variations in birth numbers between regions. Choropleth maps and graphs were used to illustrate the geographical patterns. RESULTS Birth seasonality across Australia's regions is moderate but the patterns vary in a strongly clustered way. In northern and central latitudes of Australia, births are above-average early in the year (February to April), while in the southeast of the country they tend to be above-average in September and October. CONCLUSIONS The Australian results are consistent with physiological hypotheses that climate and environmental influences have a role in the seasonality of births. Hot and humid summers in northern Australia, and cold winters in the southernmost parts of the country, might be responsible for reducing the number of conceptions below their regional averages for the year. CONTRIBUTION We demonstrate how birth seasonality across the regions of Australia has a strong climatic pattern that is consistent with physiological hypotheses.",
+  "authors": [
+    {
+      "raw": "Wilson, Tom",
+      "family": "Wilson",
+      "given": "Tom"
+    },
+    {
+      "raw": "McDonald, Peter",
+      "family": "McDonald",
+      "given": "Peter"
+    },
+    {
+      "raw": "Temple, Jeromey",
+      "family": "Temple",
+      "given": "Jeromey"
+    }
+  ],
+  "authors_text": "Wilson, Tom; McDonald, Peter; Temple, Jeromey",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.40",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.40",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.40",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.40.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

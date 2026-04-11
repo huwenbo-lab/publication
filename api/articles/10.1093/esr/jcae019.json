@@ -1,0 +1,90 @@
+{
+  "title": "A new data infrastructure for family research and demographic analysis: the German Family Demography Panel Study (FReDA)",
+  "abstract": "This data brief introduces the German Family Demography Panel Study (FReDA; https://www.freda-panel.de/), a longitudinal, multi-actor database for family research. Major substantive fields addressed in the questionnaire include fertility-related attitudes and behaviours, reproductive health, work-family conflict, couples' division of labour, gender roles, intimate relationships, separation and divorce, parenting and intergenerational relations, and well-being. FReDA is based on two initially independent samples: the newly drawn FReDA-GGS sample (n_recruitment = 37,777 respondents, aged 18-49 years), constituting the German contribution to the Generations and Gender Surveys (GGS-II), and the FReDA-pairfam sample (n = 6,216 respondents who originally participated in the German Family Panel [pairfam]). Both samples are fully integrated, using one survey instrument consisting of the harmonized GGS-II and pairfam questionnaires. Mainly web-based interviews, complemented by paper-based interviews, are conducted biannually, with one wave being split across two subwaves. We provide a short description of FReDA's forerunners-the GGS and pairfam-and give an overview of FReDA's design and content, its baseline wave (collected in 2021) and data releases, as well as a brief outlook on FReDA's road ahead.",
+  "authors": [
+    {
+      "raw": "Hank, Karsten",
+      "family": "Hank",
+      "given": "Karsten"
+    },
+    {
+      "raw": "Gummer, Tobias",
+      "family": "Gummer",
+      "given": "Tobias"
+    },
+    {
+      "raw": "Bujard, Martin",
+      "family": "Bujard",
+      "given": "Martin"
+    },
+    {
+      "raw": "Neyer, Franz J.",
+      "family": "Neyer",
+      "given": "Franz J."
+    },
+    {
+      "raw": "Pollak, Reinhard",
+      "family": "Pollak",
+      "given": "Reinhard"
+    },
+    {
+      "raw": "Spiess, C. Katharina",
+      "family": "Spiess",
+      "given": "C. Katharina"
+    },
+    {
+      "raw": "Wolf, Christof",
+      "family": "Wolf",
+      "given": "Christof"
+    },
+    {
+      "raw": "Christmann, Pablo",
+      "family": "Christmann",
+      "given": "Pablo"
+    },
+    {
+      "raw": "Kunz, Tanja",
+      "family": "Kunz",
+      "given": "Tanja"
+    },
+    {
+      "raw": "Lueck, Detlev",
+      "family": "Lueck",
+      "given": "Detlev"
+    },
+    {
+      "raw": "Naderi, Robert",
+      "family": "Naderi",
+      "given": "Robert"
+    },
+    {
+      "raw": "Nutz, Theresa",
+      "family": "Nutz",
+      "given": "Theresa"
+    },
+    {
+      "raw": "Schmid, Lisa",
+      "family": "Schmid",
+      "given": "Lisa"
+    },
+    {
+      "raw": "Thoennissen, Carolin",
+      "family": "Thoennissen",
+      "given": "Carolin"
+    }
+  ],
+  "authors_text": "Hank, Karsten; Gummer, Tobias; Bujard, Martin; Neyer, Franz J.; Pollak, Reinhard; Spiess, C. Katharina; Wolf, Christof; Christmann, Pablo; Kunz, Tanja; Lueck, Detlev; Naderi, Robert; Nutz, Theresa; Schmid, Lisa; Thoennissen, Carolin",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcae019",
+  "doi_url": "https://doi.org/10.1093/esr/jcae019",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae019",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae019.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

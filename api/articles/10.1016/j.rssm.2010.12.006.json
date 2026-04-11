@@ -1,0 +1,25 @@
+{
+  "title": "The consequences of unobserved heterogeneity in a sequential logit model",
+  "abstract": "Cameron and Heckman (1998) established that a sequential logit model is more sensitive than many other models to the possible biasing influence of unobserved heterogeneity. This article proposes a method which allows researchers to find out how large this potential problem is for their data, their model, and their hypothesis of interest. This is done by proposing a set of scenarios for this unobserved heterogeneity, and showing how to estimate the effects of interest given these scenarios. The set of results from these scenarios give an indication of how sensitive the results are to assumptions regarding unobserved heterogeneity. This sensitivity analysis has been applied to a study of educational attainment in the Netherlands, and it showed that that the finding that the effect of father's education declined over transitions is quite sensitive to the assumptions made about unobserved heterogeneity, but that the finding that the effect of father's education declined over birth cohorts is more robust than is often feared. (C) 2010 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Buis, Maarten L.",
+      "family": "Buis",
+      "given": "Maarten L."
+    }
+  ],
+  "authors_text": "Buis, Maarten L.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2011,
+  "doi": "10.1016/j.rssm.2010.12.006",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2010.12.006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2010.12.006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2010.12.006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

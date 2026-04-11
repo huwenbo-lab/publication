@@ -1,0 +1,30 @@
+{
+  "title": "Structural stability, quantitative change: A latent class analysis approach towards gender role attitudes in Germany",
+  "abstract": "Since the 1960s, social science surveys have aimed to assess respondents' attitudes towards gender roles. In this paper, a model-based clustering approach towards gender role attitudes is proposed in contrast to commonly used dimensional methods. Working from a role theory perspective, we expect different profiles in the population when it comes to role expectations. Using data from the German General Social Survey in 1991 and 2012, we identify attitude patterns via multi-group latent class analysis, taking differences between Eastern and Western Germany into account. Five latent classes representing different combinations of role expectations towards couples and parents and varying levels of intensity are distinguished. Attitude change is assessed by comparing latent class prevalence over time, while statistically testing for measurement equivalence. The analysis reveals a regionally variable decrease in traditional role models: Eastern Germany exhibits a faster pace of 'de-traditionalization' and less potential for role conflicts regarding working mothers.",
+  "authors": [
+    {
+      "raw": "Barth, Alice",
+      "family": "Barth",
+      "given": "Alice"
+    },
+    {
+      "raw": "Truebner, Miriam",
+      "family": "Truebner",
+      "given": "Miriam"
+    }
+  ],
+  "authors_text": "Barth, Alice; Truebner, Miriam",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.02.008",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.02.008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.02.008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.02.008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

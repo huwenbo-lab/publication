@@ -1,0 +1,30 @@
+{
+  "title": "Health Convergence Between East and West Germany as Reflected in Long-Term Cause-Specific Mortality Trends: To What Extent was it Due to Reunification?",
+  "abstract": "The sizeable mortality gap between the German Democratic Republic (East Germany) and the pre-unified Federal Republic of Germany (West Germany) narrowed rapidly after the two states were unified. Despite extensive research, the mechanisms underlying the convergence process are still not fully understood. Significant changes to coding practices and the system of data collection introduced in East Germany shortly after reunification have further complicated the ability of researchers to interpret mortality trends. Our aim is to assess the role of German reunification in the convergence process in light of the evolution of long-term mortality trends by causes of death. Compared to previous studies, we rely on much more detailed mortality data, which we first adjust for notable distortions. We propose an upward correction of cancer mortality, as well as corrections that account for obvious changes in the items selected within the ICD chapter of circulatory diseases. We identify three distinct processes that took place in East Germany around the time of reunification: (1) a sustained reduction in mortality that started before reunification; (2) a temporary increase in mortality in 1990-1991 that was related to the abrupt social transition, as reflected by socially sensitive causes such as accidents, alcohol-related diseases, and acute myocardial infarction; and (3) a reunification-driven process of convergence that was mostly caused by the accelerated decline in mortality from cerebrovascular and chronic heart diseases. Mortality improvements observed in the GDR starting in the 1980s might be interpreted as the first signs of a cardiovascular revolution. Shifts in individual behaviour likely started before reunification, whereas the real progress in medical care occurred later with the implementation of the Western system of health care. We therefore conclude that German reunification per se did not initiate the convergence process, but rather reinforced and accelerated trends that were already apparent.",
+  "authors": [
+    {
+      "raw": "Grigoriev, Pavel",
+      "family": "Grigoriev",
+      "given": "Pavel"
+    },
+    {
+      "raw": "Pechholdová, Markéta",
+      "family": "Pechholdová",
+      "given": "Markéta"
+    }
+  ],
+  "authors_text": "Grigoriev, Pavel; Pechholdová, Markéta",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2017,
+  "doi": "10.1007/s10680-017-9455-z",
+  "doi_url": "https://doi.org/10.1007/s10680-017-9455-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-017-9455-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-017-9455-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

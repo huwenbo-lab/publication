@@ -1,0 +1,25 @@
+{
+  "title": "Childhood Income Volatility and Adult Outcomes",
+  "abstract": "AbstractUsing data linked across generations in the Panel Study of Income Dynamics, I estimate the relationship between exposure to volatile income during childhood and a set of socioeconomic outcomes in adulthood. The empirical framework is an augmented intergenerational income mobility model that includes controls for income volatility. I measure income volatility at the family level in two ways: (1) instability as measured by squared deviations around a family-specific mean; and (2) instability as percentage changes of 25 % or more. Volatility enters the model both separately and interacted with income level. I find that family income volatility during childhood has a modest negative association with educational attainment. Volatility has a smaller descriptive role in explaining intergenerational outcomes relative to permanent income. Across the income distribution, the negative association between volatility exposure and educational attainment is largest for young adults from moderate-income families.",
+  "authors": [
+    {
+      "raw": "Hardy, Bradley L.",
+      "family": "Hardy",
+      "given": "Bradley L."
+    }
+  ],
+  "authors_text": "Hardy, Bradley L.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0329-2",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0329-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0329-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0329-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

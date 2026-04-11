@@ -1,0 +1,35 @@
+{
+  "title": "The direct and indirect impact of international migration on the population ageing process: A formal analysis and its application to Poland",
+  "abstract": "BACKGROUND The significance of mortality and fertility changes to the process of population ageing has been widely recognised in demographic research for many countries. Despite growing territorial mobility, however, the impact of international migration on changes in a population's age structure has so far been explored in a less systematic way. OBJECTIVE Our objective is twofold: first, to examine in a formal way the impact of international mobility on a population's age structure, and second, to estimate this impact for Poland, which is currently experiencing a coincidence of low fertility and high emigration of young persons. METHODS We extend the age-specific growth rates model in order to allow for the direct impact of immigration and emigration on the size of age-specific groups, as well as the indirect effect expressed in additional (in case of inflow) or 'missing' (in case of outflow) births due to international mobility. RESULTS Despite the massive scale of emigration from Poland, its direct impact appears to be instantaneous and smaller than that of fertility or mortality. We show that if no emigration from Poland had occurred since 1980 (i.e., for almost three decades), in 2015 the proportion of old persons would have been 1.1 percentage points lower than it actually was. The indirect effect translates into a loss of approximately 10% of births most recently, which means that it has long-term and far-reaching consequences for the population of Poland. CONCLUSION We argue that it is the indirect effect that should be the main subject of analyses concerned with international migration in the context of population ageing.",
+  "authors": [
+    {
+      "raw": "Fihel, Agnieszka",
+      "family": "Fihel",
+      "given": "Agnieszka"
+    },
+    {
+      "raw": "Janicka, Anna",
+      "family": "Janicka",
+      "given": "Anna"
+    },
+    {
+      "raw": "Kloc-Nowak, Weronika",
+      "family": "Kloc-Nowak",
+      "given": "Weronika"
+    }
+  ],
+  "authors_text": "Fihel, Agnieszka; Janicka, Anna; Kloc-Nowak, Weronika",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.43",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.43",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.43",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.43.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

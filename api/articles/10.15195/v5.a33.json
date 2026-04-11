@@ -1,0 +1,30 @@
+{
+  "title": "Cultural Capital and Educational Inequality: A Counterfactual Analysis",
+  "abstract": "We use National Longitudinal Survey of Youth 1979 (NLSY79) data and a counterfactual approach to test the macro-level implications of cultural reproduction and cultural mobility theory. Our counterfactual analyses show that the observed socioeconomic gradient in children’s educational attainment in the NLSY79 data would be smaller if cultural capital was more equally distributed between children whose parents are of low socioeconomic status (SES) and those whose parents are of high SES. They also show that hypothetically increasing cultural capital among low-SES parents would lead to a larger reduction in the socioeconomic gradient in educational attainment than reducing it among high-SES parents. These findings are consistent with cultural mobility theory (which argues that low-SES children have a higher return to cultural capital than high-SES children) but not with cultural reproduction theory (which argues that low-SES children have a lower return to cultural capital). Our analysis contributes to existing research by demonstrating that the unequal distribution of cultural capital shapes educational inequality at the macro level.",
+  "authors": [
+    {
+      "raw": "Jæger, Mads",
+      "family": "Jæger",
+      "given": "Mads"
+    },
+    {
+      "raw": "Karlson, Kristian",
+      "family": "Karlson",
+      "given": "Kristian"
+    }
+  ],
+  "authors_text": "Jæger, Mads; Karlson, Kristian",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2018,
+  "doi": "10.15195/v5.a33",
+  "doi_url": "https://doi.org/10.15195/v5.a33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv5.a33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v5.a33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

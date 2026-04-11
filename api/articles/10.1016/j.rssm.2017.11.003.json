@@ -1,0 +1,30 @@
+{
+  "title": "Occupations and the wage structure: The role of occupational tasks in Britain",
+  "abstract": "Occupations are central to the stratification system, including the stratification of wages. One compelling explanation for how occupations relate to the wage structure is through their task content. We consider the relationships between occupational tasks and the wage structure directly using unconditional quantile regression methods, examining a broader range of occupational tasks than normally considered. We find that occupational tasks have varied implications for the wage structure in ways not always consistent with dominant technology-based explanations. We conclude that the task-based approach to conceptualising how occupations determine the wage structure is a promising avenue for future research and outline some recommendations on how to proceed.",
+  "authors": [
+    {
+      "raw": "Williams, Mark",
+      "family": "Williams",
+      "given": "Mark"
+    },
+    {
+      "raw": "Bol, Thijs",
+      "family": "Bol",
+      "given": "Thijs"
+    }
+  ],
+  "authors_text": "Williams, Mark; Bol, Thijs",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2018,
+  "doi": "10.1016/j.rssm.2017.11.003",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2017.11.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2017.11.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2017.11.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

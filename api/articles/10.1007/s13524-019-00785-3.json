@@ -1,0 +1,25 @@
+{
+  "title": "A General Age-Specific Mortality Model With an Example Indexed by Child Mortality or Both Child and Adult Mortality",
+  "abstract": "The majority of countries in Africa and nearly one-third of all countries require mortality models to infer the complete age schedules of mortality that are required to conduct population estimates, projections/forecasts, and other tasks in demography and epidemiology. Models that relate child mortality to mortality at other ages are important because almost all countries have measures of child mortality. A general, parameterizable component model (SVD-Comp) of mortality is defined using the singular value decomposition and calibrated to the relationship between child or child/adult mortality and mortality at other ages in the observed mortality schedules of the Human Mortality Database. Cross-validation is used to validate the model, and the predictive performance of the model is compared with that of the log-quadratic (Log-Quad) model, which is designed to do the same thing. Prediction and cross-validation tests indicate that the child mortality-calibrated SVD-Comp is able to accurately represent the observed mortality schedules in the Human Mortality Database, is robust to the selection of mortality schedules used for calibration, and performs better than the Log-Quad model. The child mortality-calibrated SVD-Comp can be used where and when child mortality is available but mortality at other ages is unknown.",
+  "authors": [
+    {
+      "raw": "Clark, Samuel J.",
+      "family": "Clark",
+      "given": "Samuel J."
+    }
+  ],
+  "authors_text": "Clark, Samuel J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00785-3",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00785-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00785-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00785-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

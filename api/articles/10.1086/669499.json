@@ -1,0 +1,30 @@
+{
+  "title": "Financialization and US Income Inequality, 1970-2008",
+  "abstract": "Focusing on U. S. nonfinance industries, we examine the connection between financialization and rising income inequality. We argue that the increasing reliance on earnings realized through financial channels decoupled the generation of surplus from production, strengthening owners' and elite workers' negotiating power relative to other workers. The result was an incremental exclusion of the general workforce from revenue-generating and compensation-setting processes. Using time-series cross-section data at the industry level, we find that increasing dependence on financial income, in the long run, is associated with reducing labor's share of income, increasing top executives' share of compensation, and increasing earnings dispersion among workers. Net of conventional explanations such as deunionization, globalization, technological change, and capital investment, the effects of financialization on all three dimensions of income inequality are substantial. Our counterfactual analysis suggests that financialization could account for more than half of the decline in labor's share of income, 9.6% of the growth in officers' share of compensation, and 10.2% of the growth in earnings dispersion between 1970 and 2008.",
+  "authors": [
+    {
+      "raw": "Lin, Ken-Hou",
+      "family": "Lin",
+      "given": "Ken-Hou"
+    },
+    {
+      "raw": "Tomaskovic-Devey, Donald",
+      "family": "Tomaskovic-Devey",
+      "given": "Donald"
+    }
+  ],
+  "authors_text": "Lin, Ken-Hou; Tomaskovic-Devey, Donald",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2013,
+  "doi": "10.1086/669499",
+  "doi_url": "https://doi.org/10.1086/669499",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F669499",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/669499.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

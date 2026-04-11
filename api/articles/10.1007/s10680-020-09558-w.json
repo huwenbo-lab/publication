@@ -1,0 +1,30 @@
+{
+  "title": "Geographic Proximity to Parents, Intergenerational Support Exchange, and Migration Within Germany",
+  "abstract": "AbstractPrevious research on internal migration has emphasised the importance of local ties to family members outside the household, and to parents in particular. Family members who live close to an individual’s place of residence represent a form of local social capital that could make migrating costlier, and therefore less likely. This idea has been empirically supported. Yet, how family ties bind remains largely unexplained. We assume that intergenerational support is a manifestation of local social capital, and that spatial proximity is needed for support to be exchanged. Thus, we used mediation analysis that includes explicit measures of support exchanges between parents and their adult–children born in 1971–1973, 1981–1983, and 1991–1993 to explain the binding effect of living close to parents. Logistic regression models of migrating a distance of more than 40 km were conducted using eight waves of the German pairfam data. Living close to one’s parents was indeed found to be negatively associated with the likelihood of migration, and part of this association could be explained through intergenerational support: the more the instrumental support an adult child exchanged with her/his parent, the less likely she/he was to migrate. Receiving emotional support from the parents was associated with an increase in migration propensity. Neither giving emotional help nor receiving help with childcare functioned as mediators. It thus appears that adult children are particularly likely to value the proximity of their parents when they are exchanging instrumental support, but that the emotional bond between adult children and their parents can often be maintained over longer distances.",
+  "authors": [
+    {
+      "raw": "Hünteler, Bettina",
+      "family": "Hünteler",
+      "given": "Bettina"
+    },
+    {
+      "raw": "Mulder, Clara H.",
+      "family": "Mulder",
+      "given": "Clara H."
+    }
+  ],
+  "authors_text": "Hünteler, Bettina; Mulder, Clara H.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2020,
+  "doi": "10.1007/s10680-020-09558-w",
+  "doi_url": "https://doi.org/10.1007/s10680-020-09558-w",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-020-09558-w",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-020-09558-w.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

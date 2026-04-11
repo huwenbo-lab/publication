@@ -1,0 +1,50 @@
+{
+  "title": "Homophily and Segregation in Cooperative Networks",
+  "abstract": "Social networks affect individuals' ability to solve conflicts between individual and collective interests. Indeed, the ability to seek out cooperative others is a key explanation for the high levels of cooperation observed in social life. In contrast to existing research on cooperation and networks, sorting in the real world is typically driven by homophily, or similarity on socially significant attributes like ethnicity or religion. Here the authors develop and test an argument about how homophily alters network dynamics and cooperation using a large web-based experiment and an agent-based model. They find that homophily promotes cooperation, net of key determinants of cooperation. Further, homophily drives the selection of new ties, increasing clustering in dynamic networks. The authors also demonstrate the consequences of in-group preferences for between-group segregation. Their results therefore shed light on how cooperation can evolve in networks and how this process contributes to network-level segregation.",
+  "authors": [
+    {
+      "raw": "Melamed, David",
+      "family": "Melamed",
+      "given": "David"
+    },
+    {
+      "raw": "Simpson, Brent",
+      "family": "Simpson",
+      "given": "Brent"
+    },
+    {
+      "raw": "Harrell, Ashley",
+      "family": "Harrell",
+      "given": "Ashley"
+    },
+    {
+      "raw": "Munn, Christopher W.",
+      "family": "Munn",
+      "given": "Christopher W."
+    },
+    {
+      "raw": "Abernathy, Jered Z.",
+      "family": "Abernathy",
+      "given": "Jered Z."
+    },
+    {
+      "raw": "Sweitzer, Matthew",
+      "family": "Sweitzer",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Melamed, David; Simpson, Brent; Harrell, Ashley; Munn, Christopher W.; Abernathy, Jered Z.; Sweitzer, Matthew",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2020,
+  "doi": "10.1086/708142",
+  "doi_url": "https://doi.org/10.1086/708142",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F708142",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/708142.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

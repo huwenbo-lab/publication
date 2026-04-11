@@ -1,0 +1,35 @@
+{
+  "title": "The Varying Effects of Neighborhood Disadvantage on College Graduation: Moderating and Mediating Mechanisms",
+  "abstract": "This study estimates the effect of neighborhood disadvantage on bachelor's degree attainment with data from a long-term follow-up of the Project on Human Development in Chicago Neighborhoods. We focus on heterogeneous effects by race and class as well as individual and neighborhood mechanisms that might explain observed patterns, including parents' educational expectations, collective efficacy, social relationships, and neighborhood violence. Using newly developed methods for estimating longitudinal treatment effects, we find that cumulative neighborhood disadvantage in adolescence is strongly associated with lower bachelor's attainment among high-income blacks and Latinos. We find no effect for whites and at most a modest effect among low- and middle-income blacks/Latinos. A sensitivity analysis suggests that the estimated effect for high-income blacks/Latinos is plausibly causal. These results support an advantage-leveling model of neighborhood effects and add important nuance for research considering how and for whom neighborhoods influence life chances.",
+  "authors": [
+    {
+      "raw": "Levy, Brian L.",
+      "family": "Levy",
+      "given": "Brian L."
+    },
+    {
+      "raw": "Owens, Ann",
+      "family": "Owens",
+      "given": "Ann"
+    },
+    {
+      "raw": "Sampson, Robert J.",
+      "family": "Sampson",
+      "given": "Robert J."
+    }
+  ],
+  "authors_text": "Levy, Brian L.; Owens, Ann; Sampson, Robert J.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2019,
+  "doi": "10.1177/0038040719850146",
+  "doi_url": "https://doi.org/10.1177/0038040719850146",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040719850146",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040719850146.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

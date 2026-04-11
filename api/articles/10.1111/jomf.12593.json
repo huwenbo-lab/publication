@@ -1,0 +1,30 @@
+{
+  "title": "Daily Food Insufficiency and Worry among Economically Disadvantaged Families with Young Children",
+  "abstract": "Objective: To examine how reports of food insecurity vary daily among low-income parents of young children. Background: The material and emotional components of food insecurity have negative consequences for children and can have negative implications for family life. Though the overall influence of food insecurity on parents and children is well-established, little is understood about possible instability in food insecurity. This paper examines to what degree instability related to the SNAP benefit cycle influences variability in families' daily food insecurity. Method: SNAP-recipient parents of a birth cohort in Durham, NC were recruited when children were 5-6 years old. One hundred and five participants completed a daily survey via SMS text message for 4 weeks (N = 2,661 person-days for analysis). Regression models with family fixed effects examined the relation between time since SNAP transfer and parents' daily food insecurity. Results: Parents' food insecurity was higher at the end of the SNAP month than at the beginning, with food insecurity accelerating and becoming more severe in the second half of the month. The increase was in both the food insufficiency and stress components of food insecurity. Conclusion: Food insecurity among SNAP recipients with young children is not static but varies day to day within the SNAP month.",
+  "authors": [
+    {
+      "raw": "Gassman-Pines, Anna",
+      "family": "Gassman-Pines",
+      "given": "Anna"
+    },
+    {
+      "raw": "Schenck-Fontaine, Anika",
+      "family": "Schenck-Fontaine",
+      "given": "Anika"
+    }
+  ],
+  "authors_text": "Gassman-Pines, Anna; Schenck-Fontaine, Anika",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12593",
+  "doi_url": "https://doi.org/10.1111/jomf.12593",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12593",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12593.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

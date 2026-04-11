@@ -1,0 +1,25 @@
+{
+  "title": "A Method for Estimating Size of Population Aged 90 and over with Application to the U.S. Census 2000 Data",
+  "abstract": "In many countries population estimates are unreliable at higher ages. In this article a method for producing an independent estimate of population aged 90+ from data on deaths and population estimates at lower ages is developed. The method builds on",
+  "authors": [
+    {
+      "raw": "Andreev, Kirill F.",
+      "family": "Andreev",
+      "given": "Kirill F."
+    }
+  ],
+  "authors_text": "Andreev, Kirill F.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2004,
+  "doi": "10.4054/demres.2004.11.9",
+  "doi_url": "https://doi.org/10.4054/demres.2004.11.9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2004.11.9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2004.11.9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

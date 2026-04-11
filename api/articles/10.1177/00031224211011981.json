@@ -1,0 +1,30 @@
+{
+  "title": "How Legacies of Geopolitical Trauma Shape Popular Nationalism Today",
+  "abstract": "Geopolitical competition and conflict play a central role in canonical accounts of the emergence of nation-states and national identities. Yet work in this tradition has paid little attention to variation in everyday, popular understandings of nationhood. We propose a macro-historical argument to explain cross-national variation in the types of popular nationalism expressed at the individual level. Our analysis builds on recent advances on the measurement of popular nationalism and a recently introduced geopolitical threat scale (Hiers, Soehl, and Wimmer 2017). With the use of latent class analysis and a series of regression models, we show that a turbulent geopolitical past decreases the prevalence of liberal nationalism (pride in institutions, inclusive boundaries) while increasing the prevalence of restrictive nationalism (less pride in institutions, exclusive boundaries) across 43 countries around the world. Additional analyses suggest the long-term development of institutions is a key mediating variable: states with a less traumatic geopolitical history tend to have more established liberal democratic institutions, which in turn foster liberal forms of popular nationalism.",
+  "authors": [
+    {
+      "raw": "Soehl, Thomas",
+      "family": "Soehl",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Karim, Sakeef M.",
+      "family": "Karim",
+      "given": "Sakeef M."
+    }
+  ],
+  "authors_text": "Soehl, Thomas; Karim, Sakeef M.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/00031224211011981",
+  "doi_url": "https://doi.org/10.1177/00031224211011981",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211011981",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211011981.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

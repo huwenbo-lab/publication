@@ -1,0 +1,40 @@
+{
+  "title": "The Demography of Mental Health Among Mature Adults in a Low-Income, High-HIV-Prevalence Context",
+  "abstract": "Very few studies have investigated mental health in sub-Saharan Africa (SSA). Using data from Malawi, this article provides a first picture of the demography of depression and anxiety (DA) among mature adults (aged 45 or older) in a low-income country with high HIV prevalence. DA are more frequent among women than men, and individuals affected by one are often affected by the other. DA are associated with adverse outcomes, such as poorer nutrition intake and reduced work efforts. DA also increase substantially with age, and mature adults can expect to spend a substantial fraction of their remaining lifetime-for instance, 52 % for a 55-year-old woman-affected by DA. The positive age gradients of DA are not due to cohort effects, and they are in sharp contrast to the age pattern of mental health that has been shown in high-income contexts, where older individuals often experience lower levels of DA. Although socioeconomic and risk- or uncertainty-related stressors are strongly associated with DA, they do not explain the positive age gradients and gender gap in DA. Stressors related to physical health, however, do. Hence, our analyses suggest that the general decline of physical health with age is the key driver of the rise of DA with age in this low-income SSA context.",
+  "authors": [
+    {
+      "raw": "Kohler, Iliana V.",
+      "family": "Kohler",
+      "given": "Iliana V."
+    },
+    {
+      "raw": "Payne, Collin F.",
+      "family": "Payne",
+      "given": "Collin F."
+    },
+    {
+      "raw": "Bandawe, Chiwoza",
+      "family": "Bandawe",
+      "given": "Chiwoza"
+    },
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    }
+  ],
+  "authors_text": "Kohler, Iliana V.; Payne, Collin F.; Bandawe, Chiwoza; Kohler, Hans-Peter",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0596-9",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0596-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0596-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0596-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

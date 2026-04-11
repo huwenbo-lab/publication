@@ -1,0 +1,25 @@
+{
+  "title": "Mind the gap: Exploring urban-rural differences in US inter-county migration decisions",
+  "abstract": "BACKGROUNDLabor and housing market conditions, alongside political climate, are recognized as pivotal drivers for domestic migration. However, limited research examines how urban/rural status of areas influences the interplay between these factors and migration decisions.OBJECTIVEThis paper investigates urban-rural differences in the effects of employment opportunities, housing affordability, and political climate on household migration tendencies across US counties during the 2009-2019 period.METHODSThis study merges the individual-level Panel Study of Income Dynamics with county -level census and election datasets. Fixed-effect logistic regression models are utilized to explore variation in the migration effects of key factors along the rural-urban continuum, focusing on homeowners and renters.RESULTSThe findings show a higher propensity for individuals from rural counties to migrate, with rural destinations being associated with a lower likelihood for homeowners to move in. Employment opportunities in suburban areas significantly drive migration. While there are distinct impacts of housing affordability on the migration tendencies of homeowners and renters, variations of this impact along the rural-urban continuum are modest. The influence of political climate is considerably less pronounced. A strong conservative-leaning political climate in rural counties is negatively associated with the likelihood of residents leaving and positively affects the likelihood of moving in. Notably, the results underscore economic factors as the primary determinants in migration decisions. CONTRIBUTIONThis research highlights the significance of urban-rural discrepancies in understanding the dynamics between locational attributes and migration tendencies. It provides valuable insights for policymakers and practitioners in developing tailored strategies that consider urban/rural contexts.",
+  "authors": [
+    {
+      "raw": "Xu, Anqi",
+      "family": "Xu",
+      "given": "Anqi"
+    }
+  ],
+  "authors_text": "Xu, Anqi",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.4",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Boom, Bust, Repeat: Financial Market Participation and Cycles of Speculation",
+  "abstract": "This article asks whether the experience of a boom-and-bust cycle renders economic actors more or less likely to engage in risky financial activities in the future. The financialization of U.S. households has occurred in the context of two successive mass-participatory asset bubbles: first in the stock market during the 1990s and later in the housing market during the 2000s. Behavioral economic theories predict that prior experience of market crashes should dampen speculative tendencies and prompt actors to behave more conservatively. By contrast, the authors build on the sociological literature about the financialization of daily life to develop an alternative hypothesis: that participation in financial markets increases actors' tendencies to engage in risky investment by socializing them to attend to novel market opportunities. The authors test these alternatives using panel data from the Panel Study of Income Dynamics and the National Longitudinal Survey of Youth 1979. Results from both control function and matched regression models reveal that those who participated more directly in the late 1990s stock market were more prone to invest aggressively in the mid-2000s housing market. These positive effects obtain irrespective of whether households gained or lost wealth during the bubble. The results provide new evidence about how financial capitalism is reshaping economic behavior.",
+  "authors": [
+    {
+      "raw": "Goldstein, Adam",
+      "family": "Goldstein",
+      "given": "Adam"
+    },
+    {
+      "raw": "Knight, Carly R.",
+      "family": "Knight",
+      "given": "Carly R."
+    }
+  ],
+  "authors_text": "Goldstein, Adam; Knight, Carly R.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1086/723953",
+  "doi_url": "https://doi.org/10.1086/723953",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F723953",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/723953.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

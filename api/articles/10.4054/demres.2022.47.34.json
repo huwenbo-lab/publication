@@ -1,0 +1,40 @@
+{
+  "title": "Educational selectivity of native and foreign-born internal migrants in Europe",
+  "abstract": "BACKGROUND It is well-established that internal migration is selective, particularly with respect to age, educational attainment, and nativity status. However, the interplay between education and immigrants' origin remains largely unknown. Thus, it is unclear how the educational selectivity of internal migration varies by nativity status.OBJECTIVE We establish the educational selectivity of internal migrants in 12 European countries, paying attention to variation between native and foreign-born populations born in and outside the European Union.METHOD We use microdata from the European Union Labour Force Survey (2015-2019) and run a series of multivariate binomial logistic regressions to estimate the likelihood of changing NUTS-2 region of residence by educational attainment.RESULTS Our results confirm a positive association between tertiary education and internal migration, except for in Slovenia, Greece, and the Czech Republic. On average, completing tertiary education increases the likelihood of migrating internally by close to 3 times, compared with less than 1.5 times for secondary education. In half the countries, secondary education displays either a negative or no association with internal migration. We find evidence of a strong positive selectivity of tertiary-educated foreign-born populations, who are on average twice as likely to migrate internally than the native-born with comparable education, except in Hungary, where immigrants are less likely to migrate internally.CONCLUSION By redistributing skills within a country, immigrants are integral to the effective functioning of labour markets. CONTRIBUTION This study provides new evidence on the educational selectivity of internal migration across Europe and shows that the gradient is typically stronger among the foreign-born.",
+  "authors": [
+    {
+      "raw": "Gonzalez-Leonardo, Miguel",
+      "family": "Gonzalez-Leonardo",
+      "given": "Miguel"
+    },
+    {
+      "raw": "Bernard, Aude",
+      "family": "Bernard",
+      "given": "Aude"
+    },
+    {
+      "raw": "Garcia-Roman, Joan",
+      "family": "Garcia-Roman",
+      "given": "Joan"
+    },
+    {
+      "raw": "Lopez-Gay, Antonio",
+      "family": "Lopez-Gay",
+      "given": "Antonio"
+    }
+  ],
+  "authors_text": "Gonzalez-Leonardo, Miguel; Bernard, Aude; Garcia-Roman, Joan; Lopez-Gay, Antonio",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.34",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.34",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.34",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.34.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "An evaluation of population projections by age",
+  "abstract": "Abstract A number of studies have evaluated the accuracy of projections of the size of the total population, but few have considered the accuracy of projections by age group. For many purposes, however, the relevant variable is the population of a particular age group, rather than the population as a whole. We investigated the precision and bias of a variety of age-group projections at the national and state levels in the United States and for counties in Florida. We also compared the accuracy of state and county projections that were derived from full-blown applications of the cohort-component method with the accuracy of projections that were derived from a simpler, less data-intensive version of the method. We found that age-group error patterns are different for national projections than for subnational projections; that errors are substantially larger for some age groups than for others; that differences in errors among age groups decline as the projection horizon becomes longer; and that differences in methodological complexity have no consistent impact on the precision and bias of age-group projections.",
+  "authors": [
+    {
+      "raw": "Smith, Stanley K.",
+      "family": "Smith",
+      "given": "Stanley K."
+    },
+    {
+      "raw": "Tayman, Jeff",
+      "family": "Tayman",
+      "given": "Jeff"
+    }
+  ],
+  "authors_text": "Smith, Stanley K.; Tayman, Jeff",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.1353/dem.2003.0041",
+  "doi_url": "https://doi.org/10.1353/dem.2003.0041",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2003.0041",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2003.0041.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

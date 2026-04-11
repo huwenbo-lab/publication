@@ -1,0 +1,35 @@
+{
+  "title": "Combining registration-system and survey data to estimate birth probabilities",
+  "abstract": "Abstract With the widespread availability of event-history data, demographers have increasingly eschewed registration-system data in favor of survey data. We propose instead using survey and registration-system data in combination, via a constrained maximum-likelihood framework for demographic hazard modeling. As an application, we combine panel survey data and birth registration data to estimate annual birth probabilities by parity. The general fertility rate obtained from registration-system data constrains the weighted sum of parity-specific birth probabilities. The variances about the parity-specific birth probabilities are halved when registration-system data are used to constrain the estimates. Other demographic applications are discussed.",
+  "authors": [
+    {
+      "raw": "Handcock, Mark S.",
+      "family": "Handcock",
+      "given": "Mark S."
+    },
+    {
+      "raw": "Huovilainen, Sami M.",
+      "family": "Huovilainen",
+      "given": "Sami M."
+    },
+    {
+      "raw": "Rendall, Michael S.",
+      "family": "Rendall",
+      "given": "Michael S."
+    }
+  ],
+  "authors_text": "Handcock, Mark S.; Huovilainen, Sami M.; Rendall, Michael S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648120",
+  "doi_url": "https://doi.org/10.2307/2648120",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648120",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648120.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

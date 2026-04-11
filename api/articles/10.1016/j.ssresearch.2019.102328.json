@@ -1,0 +1,30 @@
+{
+  "title": "Using cultural and structural indicators to explain measurement noninvariance in gender role attitudes with multilevel structural equation modeling",
+  "abstract": "The current study explores the reasons for noninvariance of the measurements of gender role attitudes across countries. While previous studies have shown that noninvariance is a problem for comparative research and pointed out methods to alleviate the risks of drawing invalid conclusions, none has so far tried to explain why measurements of gender role attitudes are nonequivalent. Therefore, we use multilevel structural equation modeling to exploring measurement invariance and explain its absence. We use data assessing peoples' views on the specialization of roles by gender and the consequences of female employment on family's well-being from the International Social Survey Programme. We can replicate the findings from prior research indicating that scalar measurement invariance across countries is absent. Furthermore, we use two country-level variables to explain the noninvariance of particular items. The cultural value embeddedness explains noninvariance to a considerable degree while the Gender Inequality Index from the United Nations Development Programme does not. Therefore, we conclude that issues of comparability of gender role attitudes are related mainly to cultural rather than structural differences between countries.",
+  "authors": [
+    {
+      "raw": "Seddig, Daniel",
+      "family": "Seddig",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Lomazzi, Vera",
+      "family": "Lomazzi",
+      "given": "Vera"
+    }
+  ],
+  "authors_text": "Seddig, Daniel; Lomazzi, Vera",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.102328",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102328",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102328",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102328.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

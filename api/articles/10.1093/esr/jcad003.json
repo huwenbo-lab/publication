@@ -1,0 +1,30 @@
+{
+  "title": "A 'potential motherhood' penalty? A longitudinal analysis of the wage gap based on potential fertility in Germany and the United Kingdom",
+  "abstract": "While labour market penalties related to motherhood are a widely studied topic, less is known about the implications of signalled potential fertility. We thus posed the question of whether potential fertility-operationalized as the likelihood that a childless woman will transition to motherhood depending on observed sociodemographic characteristics-is associated with a wage penalty and-if so-what the drivers of this wage gap are. We further tested theory-driven hypotheses about heterogeneity across institutional contexts (i.e. in Germany and the United Kingdom) and socio-economic classes. In so doing, we relied on SOEP, BHPS, and UKHLS panel data to construct a synthetic measure of potential fertility over the period from 1991 to 2017. We first explored the overall association between potential fertility and wages and found a wage gap to the disadvantage of potential mothers in both contexts, albeit with non-negligible heterogeneity across time and socio-economic classes. Subsequently, we selected the top and bottom quartiles of the distribution of potential fertility and performed a 2-fold decomposition of the wage differential between potential mothers and women who are less likely to transition to motherhood. The observed wage gap can mostly be explained by compositional differences in observed characteristics between the two groups of women, thereby leaving little room for explanations based on employer discrimination.",
+  "authors": [
+    {
+      "raw": "Zamberlan, Anna",
+      "family": "Zamberlan",
+      "given": "Anna"
+    },
+    {
+      "raw": "Barbieri, Paolo",
+      "family": "Barbieri",
+      "given": "Paolo"
+    }
+  ],
+  "authors_text": "Zamberlan, Anna; Barbieri, Paolo",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad003",
+  "doi_url": "https://doi.org/10.1093/esr/jcad003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

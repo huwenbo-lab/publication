@@ -1,0 +1,25 @@
+{
+  "title": "Educational assortative mating and economic inequality: A comparative analysis of three Latin American countries",
+  "abstract": "Abstract Educational assortative mating and economic inequality are likely to be endogenously determined, but very little research exists on their empirical association. Using census data and log-linear and log-multiplicative methods, I compare the patterns of educational assortative mating in Brazil, Chile, and Mexico, and explore the association between marital sorting and earnings inequality across countries. The analysis finds substantial variation in the strength of specific barriers to educational intermarriage between countries, and a close association between these barriers and the earnings gaps across educational categories within countries. This finding suggests an isomorphism between assortative mating and economic inequality. Furthermore, educational marital sorting is remarkably symmetric across gender in spite of the different resources that men and women bring to the union. This study highlights the limitations of using single aggregate measures of spousal educational resemblance (such as the correlation coefficient between spouses’ schooling) to capture variation in assortative mating and its relationship with socioeconomic inequality.",
+  "authors": [
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    }
+  ],
+  "authors_text": "Torche, Florencia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0109",
+  "doi_url": "https://doi.org/10.1353/dem.0.0109",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0109",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0109.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

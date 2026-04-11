@@ -1,0 +1,35 @@
+{
+  "title": "Migration and spatial assimilation among u.s. latinos: Classical versus segmented trajectories",
+  "abstract": "AbstractWe used merged data from the Latino National Political Survey, the Panel Study of Income Dynamics, and the U.S. census to examine patterns and determinants of interneighborhood residential mobility between 1990 and 1995 for 2,074 U.S. residents of Mexican, Puerto Rican, and Cuban ethnicity. In several respects, our findings confirm the central tenets of spatial assimilation theory: Latino residential mobility into neighborhoods that are inhabited by greater percentages of non-Hispanic whites (i.e., Anglos) increases with human and financial capital and English-language use. However, these results also point to variations in the residential mobility process among Latinos that are broadly consistent with the segmented assimilation perspective on ethnic and immigrant incorporation. Net of controls, Puerto Ricans are less likely than Mexicans to move to neighborhoods with relatively large Anglo populations, and the generational and socioeconomic differences that are anticipated by the classical assimilation model emerge more strongly for Mexicans than for Puerto Ricans or Cubans. Among Puerto Ricans and Cubans, darker skin color inhibits mobility into Anglo neighborhoods.",
+  "authors": [
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    },
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    },
+    {
+      "raw": "Chavez, Erick",
+      "family": "Chavez",
+      "given": "Erick"
+    }
+  ],
+  "authors_text": "South, Scott J.; Crowder, Kyle; Chavez, Erick",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0025",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0025",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0025",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0025.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

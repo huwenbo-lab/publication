@@ -1,0 +1,35 @@
+{
+  "title": "Social class and age-earnings trajectories in 14 European countries",
+  "abstract": "In this paper, we seek to contribute to ongoing discussions of the relationship between income and class in analyses of social inequality and mobility. We argue that while class has sometimes been taken as a proxy for long-term earnings levels, it is of greater importance, at least when treated in terms of the EGP schema or the European Socio-Economic Classification (ESEC), in capturing differences in age-earnings trajectories. Moving beyond previous single country studies, we examine how far the theory that underlies ESEC is reflected in men's age-earnings trajectories across 14 European countries, while also taking into account any effects of their educational qualifications. Modelling data from the 2017 EU-SILC survey, and focussing on men's full year/fulltime equivalent gross annual earnings, we find that although the age-earnings trajectories that are estimated for different classes do reveal some cross-national variation, there are major features, of a theoretically expected kind, that are evident in our pooled sample and that regularly recur in individual countries. Class differences in earnings are at their narrowest for men in the youngest age group that we distinguish but then widen across older age groups. This occurs primarily because the earnings of men in the professional and managerial salariat, and especially in the higher salariat, show a marked rise with age, while the earnings of men in other classes rise far less sharply or remain flat. We also find evidence that these diverging trajectories are primarily shaped by individuals' class positions independently of their level of educational qualification - however important the latter in determining the class positions that they hold. What can be regarded as the logic of different forms of employment relations lead to a large degree of cross-national commonality in the association that exists between class and earnings at different ages.",
+  "authors": [
+    {
+      "raw": "Westhoff, Leonie",
+      "family": "Westhoff",
+      "given": "Leonie"
+    },
+    {
+      "raw": "Bukodi, Erzsebet",
+      "family": "Bukodi",
+      "given": "Erzsebet"
+    },
+    {
+      "raw": "Goldthorpe, John H.",
+      "family": "Goldthorpe",
+      "given": "John H."
+    }
+  ],
+  "authors_text": "Westhoff, Leonie; Bukodi, Erzsebet; Goldthorpe, John H.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100726",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100726",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100726",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100726.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

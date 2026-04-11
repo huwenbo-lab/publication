@@ -1,0 +1,35 @@
+{
+  "title": "Relationship between vaccination and nutritional status in children: Analysis of recent Demographic and Health Surveys",
+  "abstract": "BACKGROUND A body of evidence suggests that vaccines support the development of the immune system and also improve overall health. OBJECTIVE To study the effect of the complete basic vaccination schedule (Bacille Calmette-Guerin, i.e., BCG; measles; polio 3; and Diphtheria, Tetanus toxoids, and Pertussis, i.e., DTP3) on nutritional status of children under 2 years of age. METHODS Recent DHS data from 16 countries conducted after 2013 were used. After a bivariate descriptive analysis, a logistic regression analysis was conducted to predict the likelihood of underweight, stunting, and wasting by immunization status. A combined odds ratio was computed and adjusted for background variables. RESULTS A significantly higher prevalence of underweight was found among children with incomplete vaccination schedules in seven countries. Similarly, wasting and stunting were frequently observed in under-vaccinated children in four countries. Moreover, logistic regression adjusted for background variables revealed a relation between incomplete vaccination and underweight in Angola, Chad, and Guatemala (95% CI lower bound > 1). Combining data of all countries, underweight (adjusted Odds Ratio, aOR 1.21, 95% CI 1.11-1.31), wasting (aOR 1.18, 95% CI 1.05-1.33), and stunting (aOR 1.07, 95% CI 1.00-1.14) were associated with poor vaccination status. The overall effect was consistent with both sexes except the results for wasting for females and stunting for males, though insignificant. CONTRIBUTION To our knowledge, this is the first paper assessing the relation between vaccination and nutritional status at a multi-country level with a huge dataset Our analysis suggests a poor nutritional status in children with an incomplete vaccination schedule.",
+  "authors": [
+    {
+      "raw": "Solis-Soto, Maria Teresa",
+      "family": "Solis-Soto",
+      "given": "Maria Teresa"
+    },
+    {
+      "raw": "Paudel, Deepak",
+      "family": "Paudel",
+      "given": "Deepak"
+    },
+    {
+      "raw": "Nicoli, Francesco",
+      "family": "Nicoli",
+      "given": "Francesco"
+    }
+  ],
+  "authors_text": "Solis-Soto, Maria Teresa; Paudel, Deepak; Nicoli, Francesco",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.1",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

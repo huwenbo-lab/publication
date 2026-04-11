@@ -1,0 +1,35 @@
+{
+  "title": "Educational Systems and Gender Differences in Reading: A Comparative Multilevel Analysis",
+  "abstract": "Girls have a substantial advantage over boys in terms of reading performance throughout all OECD countries. This paper investigates whether the structure of a country's educational system is related to this gender inequality in reading performance. We assess whether standardization of educational curricula and the age at which students are selected into educational tracks affect boys' and girls' reading performance differently. To test our hypotheses, we employ data from all six Programme for International Student Achievement waves enriched with contextual information on countries' educational systems (N = 1,425,356). Results show that in country-years with more standardized curricula overall reading performance is lower and the association between standardization and reading performance is more negative for boys than for girls. In counties with educational systems in which students are selected into educational tracks at later ages, gender differences in reading are larger because girls benefit more from late selection. These results indicate that educational policies at the country level are related not only to the reading performance of all students, but also to the underperformance of boys in reading.",
+  "authors": [
+    {
+      "raw": "van Hek, Margriet",
+      "family": "van Hek",
+      "given": "Margriet"
+    },
+    {
+      "raw": "Buchmann, Claudia",
+      "family": "Buchmann",
+      "given": "Claudia"
+    },
+    {
+      "raw": "Kraaykamp, Gerbert",
+      "family": "Kraaykamp",
+      "given": "Gerbert"
+    }
+  ],
+  "authors_text": "van Hek, Margriet; Buchmann, Claudia; Kraaykamp, Gerbert",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcy054",
+  "doi_url": "https://doi.org/10.1093/esr/jcy054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

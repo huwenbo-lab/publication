@@ -1,0 +1,55 @@
+{
+  "title": "The persistent southern disadvantage in US early life mortality, 1965-2014",
+  "abstract": "BACKGROUND Recent studies of US adult mortality demonstrate a growing disadvantage among southern states. Few studies have examined long-term trends and geographic patterns in US early life (ages 1 to 24) mortality, ages at which key risk factors and causes of death are quite different than among adults. OBJECTIVE This article examines trends and variations in early life mortality rates across US states and census divisions. We assess whether those variations have changed over a 50-year time period and which causes of death contribute to contemporary geographic disparities. METHODS We calculate all-cause and cause-specific death rates using death certificate data from the Multiple Cause of Death files, combining public-use files from 1965-2004 and restricted data with state geographic identifiers from 2005-2014. State population (denominator) data come from US decennial censuses or intercensal estimates. RESULTS Results demonstrate a persistent mortality disadvantage for young people (ages 1 to 24) living in southern states over the last 50 years, particularly those located in the East South Central and West South Central divisions. Motor vehicle accidents and homicide by firearm account for most of the contemporary southern disadvantage in US early life mortality. CONTRIBUTION Our results illustrate that US children and youth living in the southern United States have long suffered from higher levels of mortality than children and youth living in other parts of the country. Our findings also suggest the contemporary southern disadvantage in US early life mortality could potentially be reduced with state-level policies designed to prevent deaths involving motor vehicles and firearms.",
+  "authors": [
+    {
+      "raw": "Dollar, Nathan T.",
+      "family": "Dollar",
+      "given": "Nathan T."
+    },
+    {
+      "raw": "Gutin, Iliya",
+      "family": "Gutin",
+      "given": "Iliya"
+    },
+    {
+      "raw": "Lawrence, Elizabeth M.",
+      "family": "Lawrence",
+      "given": "Elizabeth M."
+    },
+    {
+      "raw": "Braudt, David B.",
+      "family": "Braudt",
+      "given": "David B."
+    },
+    {
+      "raw": "Fishman, Samuel H.",
+      "family": "Fishman",
+      "given": "Samuel H."
+    },
+    {
+      "raw": "Rogers, Richard G.",
+      "family": "Rogers",
+      "given": "Richard G."
+    },
+    {
+      "raw": "Hummer, Robert A.",
+      "family": "Hummer",
+      "given": "Robert A."
+    }
+  ],
+  "authors_text": "Dollar, Nathan T.; Gutin, Iliya; Lawrence, Elizabeth M.; Braudt, David B.; Fishman, Samuel H.; Rogers, Richard G.; Hummer, Robert A.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.11",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

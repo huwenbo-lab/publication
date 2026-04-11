@@ -1,0 +1,25 @@
+{
+  "title": "What's in an Occupation? Investigating Within-Occupation Variation and Gender Segregation Using Job Titles and Task Descriptions",
+  "abstract": "Occupations have long been central to the study of inequality and mobility. However, the occupational categories typical in most U.S. survey data conceal potentially important patterns within occupations. This project uses a novel data source that has not previously been released for analysis: the verbatim text responses provided by respondents to the General Social Survey from 1972 to 2018 when asked about their occupation. These text data allow for an investigation of variation within occupations, in terms of job titles and task descriptions, and the occupation-level factors associated with this variation. I construct an index of occupational similarity based on the average pairwise cosine similarity between job titles and between task descriptions within occupations. Findings indicate substantial variation in the level of similarity across occupations. Occupational prestige, education, and income are associated with less heterogeneity in terms of job titles but slightly more heterogeneity in terms of task descriptions. Gender diversity is associated with more internal heterogeneity in terms of both job titles and task descriptions. In addition, I use the case of gender segregation to demonstrate how occupational categories can conceal the depth and form of stratification.",
+  "authors": [
+    {
+      "raw": "Martin-Caughey, Ananda",
+      "family": "Martin-Caughey",
+      "given": "Ananda"
+    }
+  ],
+  "authors_text": "Martin-Caughey, Ananda",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/00031224211042053",
+  "doi_url": "https://doi.org/10.1177/00031224211042053",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211042053",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211042053.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

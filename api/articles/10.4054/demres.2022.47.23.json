@@ -1,0 +1,25 @@
+{
+  "title": "The bootstrap approach to the multistate life table method using Stata: Does accounting for complex survey designs matter?",
+  "abstract": "OBJECTIVE I aim to develop a Stata program that estimates multistate life table quantities and their confidence intervals while controlling for covariates of interest, as well as adjusting for complex survey designs. Using the Health and Retirement Study (HRS) (2000-2016), I use the new program to estimate US females' total, healthy, and unhealthy life expectancies and their intervals by race/ethnicity at age 52 (the youngest age in the sample), while adjusting for education. METHODS Using the nonparametric bootstrap technique (with replacement), the present study offers and validates an age-inhomogeneous first-order Markov chain multistate life table program. The current proposed Stata program is the maximum likelihood version of Lynch and Brown's Bayesian approach to the multistate life table method, which has been developed in R.3 I use the estimates from the Bayesian approach to validate the estimates from the unweighted bootstrap approach. I also account for the HRS complex survey design using the HRS baseline survey design indicators (clustering, strata, and sample weights). I utilize the estimates from the unweighted and weighted bootstrap models to evaluate the extent to which ignoring the HRS complex survey design alters the estimates. RESULTS The health expectancy estimates obtained from the unweighted bootstrap approach are consistent with estimates from the Bayesian approach, which ignores complex survey designs. This indicates that the bootstrap approach developed in the current paper is valid. Also, the results show that ignoring the HRS complex survey design does not meaningfully alter the estimates.",
+  "authors": [
+    {
+      "raw": "Mehri, Nader",
+      "family": "Mehri",
+      "given": "Nader"
+    }
+  ],
+  "authors_text": "Mehri, Nader",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.23",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

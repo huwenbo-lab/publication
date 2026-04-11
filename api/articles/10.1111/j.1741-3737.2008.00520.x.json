@@ -1,0 +1,30 @@
+{
+  "title": "Mental Illness as a Barrier to Marriage Among Unmarried Mothers",
+  "abstract": "This study explores how mental illness shapes transitions to marriage among unwed mothers using augmented data from the Fragile Families and Child Wellbeing study (N= 2,351). We estimate proportional hazard models to assess the effects of mental illness on the likelihood of marriage over a 5‐year period following a nonmarital birth. Diagnosed mental illness was obtained from the survey respondents’ prenatal medical records. We find that mothers with mental illness are about two thirds as likely as mothers without mental illness to marry, even after controlling for demographic characteristics, and that human capital, relationship quality, partner selection, and substance abuse appear to explain only a small proportion of the effect of mental illness on marriage.",
+  "authors": [
+    {
+      "raw": "Teitler, Julien O.",
+      "family": "Teitler",
+      "given": "Julien O."
+    },
+    {
+      "raw": "Reichman, Nancy E.",
+      "family": "Reichman",
+      "given": "Nancy E."
+    }
+  ],
+  "authors_text": "Teitler, Julien O.; Reichman, Nancy E.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2008,
+  "doi": "10.1111/j.1741-3737.2008.00520.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2008.00520.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2008.00520.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2008.00520.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

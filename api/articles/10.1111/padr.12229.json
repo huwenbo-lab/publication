@@ -1,0 +1,25 @@
+{
+  "title": "Learning to Fight: Afghan Child Health and In-utero Exposure to Conflict",
+  "abstract": "No extant study addresses the persistent detrimental effect of in-utero exposure to conflict on early child health in countries experiencing protracted conflict. I therefore estimate the impact of in-utero conflict exposure on weight-for-age and height-for-age z-scores (WAZ and HAZ) by applying instrumental variable regression to information on Afghan children aged 0-59 months merged with data on district-level fatalities during the intrauterine period. The instrumental variable is constructed exploiting distance from, and violence intensity at, two conflict hot spots along the Pakistani border. Although like previous research, I find an overall negative effect of violence on WAZ and HAZ, the effect on the former is stronger for children born in districts where long-term conflict is, on average, comparatively lower. I attribute these heterogeneous effects to the fact that households living in environments of constant conflict have developed more effective coping strategies.",
+  "authors": [
+    {
+      "raw": "Oskorouchi, Hamid Reza",
+      "family": "Oskorouchi",
+      "given": "Hamid Reza"
+    }
+  ],
+  "authors_text": "Oskorouchi, Hamid Reza",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2019,
+  "doi": "10.1111/padr.12229",
+  "doi_url": "https://doi.org/10.1111/padr.12229",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12229",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12229.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

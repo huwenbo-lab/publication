@@ -1,0 +1,30 @@
+{
+  "title": "New Methods and the Study of Vulnerable Groups: Using Machine Learning to Identify Immigrant-Oriented Nonprofit Organizations",
+  "abstract": "Many migrants are vulnerable due to noncitizenship, linguistic or cultural barriers, and inadequate safety-net infrastructures. Immigrant-oriented nonprofits can play an important role in improving immigrant well-being. However, progress on systematically evaluating the impact of nonprofits has been hampered by the difficulty in efficiently and accurately identifying immigrant-oriented nonprofits in large administrative data sets. We tackle this challenge by employing natural language processing (NLP) and machine learning (ML) techniques. Seven NLP algorithms are applied and trained in supervised ML models. The bidirectional encoder representations from transformers (BERT) technique offers the best performance, with an impressive accuracy of .89. Indeed, the model outperformed two nonmachine methods used in existing research, namely, identification of organizations via National Taxonomy of Exempt Entities codes or keyword searches of nonprofit names. We thus demonstrate the viability of computer-based identification of hard-to-identify nonprofits using organizational name data, a technique that may be applicable to other research requiring categorization based on short labels. We also highlight limitations and areas for improvement.",
+  "authors": [
+    {
+      "raw": "Ren, Cheng",
+      "family": "Ren",
+      "given": "Cheng"
+    },
+    {
+      "raw": "Bloemraad, Irene",
+      "family": "Bloemraad",
+      "given": "Irene"
+    }
+  ],
+  "authors_text": "Ren, Cheng; Bloemraad, Irene",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221076992",
+  "doi_url": "https://doi.org/10.1177/23780231221076992",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221076992",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221076992.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

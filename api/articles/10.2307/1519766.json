@@ -1,0 +1,35 @@
+{
+  "title": "The structure of founding teams: Homophily, strong ties, and isolation among US entrepreneur",
+  "abstract": "The mechanisms governing the composition of formal social groups (e.g., task groups, organizational founding teams) remain poorly understood, owing to (1) a lack of representative sampling from groups found in the general population, (2) a success bias among researchers that leads them to consider only those groups that actually emerge and survive, and (3) a restrictive focus on some theorized mechanisms of group composition (e.g., homophily) to the exclusion of others. These shortcomings are addressed by analyzing a unique, representative data set of organizational founding teams sampled from the U.S. population. Rather than simply considering the properties of those founding teams that are empirically observed, a novel quantitative methodology generates the distribution of all possible teams, based on combinations of individual and relational characteristics. This methodology permits the exploration of five mechanisms of group composition-those based on homophily. functionality, status expectations, network constraint, and ecological constraint. Findings suggest that homophily and network constraints based on strong ties have the most pronounced effect on group composition. Social isolation (i.e., exclusion from a group) is more likely to occur as a result of ecological constraints on the availability of similar alters in a locality than as a result of status-varying membership choices.",
+  "authors": [
+    {
+      "raw": "Ruef, M",
+      "family": "Ruef",
+      "given": "M"
+    },
+    {
+      "raw": "Aldrich, HE",
+      "family": "Aldrich",
+      "given": "HE"
+    },
+    {
+      "raw": "Carter, NM",
+      "family": "Carter",
+      "given": "NM"
+    }
+  ],
+  "authors_text": "Ruef, M; Aldrich, HE; Carter, NM",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2003,
+  "doi": "10.2307/1519766",
+  "doi_url": "https://doi.org/10.2307/1519766",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F1519766",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/1519766.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

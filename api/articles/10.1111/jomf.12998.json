@@ -1,0 +1,40 @@
+{
+  "title": "The long-term effects of formal child support",
+  "abstract": "Objective and BackgroundPrevious research shows the benefits of formal child support to children during their childhood; however, the long-term effect of child support receipt on outcomes as adults has not been studied. This inquiry examines whether adults who received formal child support as children have different labor market outcomes than those who did not.MethodWe conducted two sets of analyses with complementary strengths to examine young adults' earnings and employment status. Our primary method exploited experimental variation in child support receipt among welfare participants, as part of the Wisconsin Child Support Demonstration Evaluation; the secondary analyses used propensity score matching to construct statistically equivalent comparison groups drawn from a broader population included in Wisconsin Court Record Data.ResultsAcross both studies, we found the receipt of child support was associated with a substantive and statistically significant increase in adult earnings; results for employment status were mixed.ConclusionFindings suggest that formal child support may disrupt patterns of intergenerational disadvantage, reducing the economic vulnerability of children living with resident mothers, and then improving those children's earnings as adults. In addition to contributing to our understanding of the relationship between childhood economic status and adult outcomes, the findings provide critical new information to policymakers assessing family policy.",
+  "authors": [
+    {
+      "raw": "Kong, Jooyoung",
+      "family": "Kong",
+      "given": "Jooyoung"
+    },
+    {
+      "raw": "Riser, Quentin",
+      "family": "Riser",
+      "given": "Quentin"
+    },
+    {
+      "raw": "Cancian, Maria",
+      "family": "Cancian",
+      "given": "Maria"
+    },
+    {
+      "raw": "Meyer, Daniel R.",
+      "family": "Meyer",
+      "given": "Daniel R."
+    }
+  ],
+  "authors_text": "Kong, Jooyoung; Riser, Quentin; Cancian, Maria; Meyer, Daniel R.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12998",
+  "doi_url": "https://doi.org/10.1111/jomf.12998",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12998",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12998.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

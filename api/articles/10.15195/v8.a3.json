@@ -1,0 +1,25 @@
+{
+  "title": "Using Sequence Analysis to Quantify How Strongly Life Courses Are Linked",
+  "abstract": "Dyadic or, more generally, polyadic life course sequences can be more associated within dyads or polyads than between randomly assigned dyadic/polyadic member sequences, a phenomenon reflecting the life course principle of linked lives. In this article, I propose a method of U and V measures for quantifying and assessing linked life course trajectories in sequence data. Specifically, I compare the sequence distance between members of an observed dyad/polyad against a set of randomly generated dyads/polyads. TheU measure quantifies how much greater, in terms of a given distance measure, the members in a dyad/polyad resemble one another than do members of randomly generated dyads/polyads, and the V measure quantifies the degree of linked lives in terms of how much observed dyads/polyads outperform randomized dyads/polyads. I present a simulation study, an empirical study analyzing dyadic family formation sequence data from the Longitudinal Study of Generations, and a random seed sensitivity analysis in the online supplement. Through these analyses, I demonstrate the versatility and usefulness of the proposed method for quantifying linked lives analysis with sequence data. The method has broad applicability to sequence data in life course, business and organizational, and social network research.",
+  "authors": [
+    {
+      "raw": "Liao, Tim",
+      "family": "Liao",
+      "given": "Tim"
+    }
+  ],
+  "authors_text": "Liao, Tim",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2021,
+  "doi": "10.15195/v8.a3",
+  "doi_url": "https://doi.org/10.15195/v8.a3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv8.a3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v8.a3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

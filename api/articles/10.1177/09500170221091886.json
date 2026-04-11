@@ -1,0 +1,35 @@
+{
+  "title": "Predicting Child-Labour Risks by Norms in India",
+  "abstract": "This article aims to understand how social and gender norms affect child labour in India, which is mainly defined by a work-hours threshold. It develops a regression model using two datasets – the Indian Human Development Survey 2011/2012 and the World Value Survey India 2012 – to predict child-labour risks based on such norms. The gender and development approach provides a theoretical foundation for applying norms in association with social and gender relations. The results of the regression model have revealed that a norm supportive of women’s work and a benevolent attitude norm help reduce the risk of child labour. In contrast, seclusion norms show an opposite association with child labour. Child-labour practices are varied because agents accept or deny norms as part of the social structure. Our findings confirm that the transformation of restricted norms on gender could help reduce child labour in India.",
+  "authors": [
+    {
+      "raw": "Kim, Jihye",
+      "family": "Kim",
+      "given": "Jihye"
+    },
+    {
+      "raw": "Olsen, Wendy",
+      "family": "Olsen",
+      "given": "Wendy"
+    },
+    {
+      "raw": "Wiśniowski, Arkadiusz",
+      "family": "Wiśniowski",
+      "given": "Arkadiusz"
+    }
+  ],
+  "authors_text": "Kim, Jihye; Olsen, Wendy; Wiśniowski, Arkadiusz",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2022,
+  "doi": "10.1177/09500170221091886",
+  "doi_url": "https://doi.org/10.1177/09500170221091886",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170221091886",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170221091886.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

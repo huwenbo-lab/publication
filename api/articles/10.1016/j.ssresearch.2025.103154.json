@@ -1,0 +1,30 @@
+{
+  "title": "Occupations in space: Using individual mobility patterns to reveal the latent dimensions of the occupational structure",
+  "abstract": "Traditional perspectives on occupational structure often emphasize hierarchical and socio-economic dimensions, typically reducing it to a one-dimensional framework. As noted in much previous research, this simplification may overlook the complexity of critical social issues. We argue that occupational structure is inherently continuous and multidimensional. Building on previous research, we anticipate that it is governed by at least two primary dimensions closely linked to socio-economic status and gender. Our study analyzes 10,219,276 connections among 95 occupations recorded in the Swedish occupational registry from 2001 to 2013. Using multidimensional scaling (MDS), we explore the patterns of individual mobility to better capture the core features of occupational structure. Our findings challenge the adequacy of simplified models and suggest a more efficient alternative to detailed contemporary approaches like the micro class model and the multiple scales derived from occupational dictionaries. The analysis reveals a three-dimensional model of occupational structure, distinguishing three status orders and providing deeper insights into the varied contributions of different occupations. We find that one dimension strongly correlates with socio-economic status, while the connection to gender division is weaker.",
+  "authors": [
+    {
+      "raw": "Westerman, Johan",
+      "family": "Westerman",
+      "given": "Johan"
+    },
+    {
+      "raw": "Magnusson, Charlotta",
+      "family": "Magnusson",
+      "given": "Charlotta"
+    }
+  ],
+  "authors_text": "Westerman, Johan; Magnusson, Charlotta",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103154",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103154",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103154",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103154.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

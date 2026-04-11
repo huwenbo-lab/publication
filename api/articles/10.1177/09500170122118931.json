@@ -1,0 +1,30 @@
+{
+  "title": "Household Work in the UK: An Analysis of the British Household Panel Survey 1994",
+  "abstract": "This paper examines the organisation and performance of household work among dual earner couples of working age. Utilising data from the British Household Panel Survey (BHPS) 1994 the research employs linear modelling techniques in order to model the variables associated with both the time spent on household work and the sharing of household work between men and women living together. In particular, household circumstances and characteristics of partners are considered as independent variables. The findings show that the time men and women spend in paid employment, their partners' time in paid employment, economic power, attitudes, social class and presence of children emerge as variables significantly associated with the two measures of household work performance. The explained variation for time spent on household work is also much higher for women than men. The results show that women continue to carry a `dual burden' of paid and unpaid work which disadvantages them in terms of employment, income and welfare.",
+  "authors": [
+    {
+      "raw": "Bond, Sue",
+      "family": "Bond",
+      "given": "Sue"
+    },
+    {
+      "raw": "Sales, Jill",
+      "family": "Sales",
+      "given": "Jill"
+    }
+  ],
+  "authors_text": "Bond, Sue; Sales, Jill",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2001,
+  "doi": "10.1177/09500170122118931",
+  "doi_url": "https://doi.org/10.1177/09500170122118931",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170122118931",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170122118931.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

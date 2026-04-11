@@ -1,0 +1,25 @@
+{
+  "title": "Stability across Cohorts in Divorce Risk Factors",
+  "abstract": "Over the past quarter-century, many covariates of divorce have been identified. However, the extent to which the effects of these covariates remain constant across time is not known. In this article, I examine the stability of the effects of a wide range of divorce covariates using a pooled sample of data taken from five rounds of the National Survey of Family Growth. This sample includes consistent measures of important predictors of divorce, covers marriages formed over 35 years (1950–1984), and spans substantial historical variation in the overall risk of marital dissolution. For the most part, the effects of the major sociodemographic predictors of divorce do not vary by historical period. The one exception is race. These results suggest that the effects associated with historical period have been pervasive, simultaneously altering the risk of divorce for most marriages",
+  "authors": [
+    {
+      "raw": "Teachman, Jay D.",
+      "family": "Teachman",
+      "given": "Jay D."
+    }
+  ],
+  "authors_text": "Teachman, Jay D.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.2307/3088342",
+  "doi_url": "https://doi.org/10.2307/3088342",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088342",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088342.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

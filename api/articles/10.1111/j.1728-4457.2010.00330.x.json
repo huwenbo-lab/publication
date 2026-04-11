@@ -1,0 +1,40 @@
+{
+  "title": "Mapping the Timing, Pace, and Scale of the Fertility Transition in Brazil",
+  "abstract": "Between 1960 and 2000, fertility fell sharply in Brazil, but this transition was unevenly distributed in space and time. Using Bayesian spatial statistical methods and microdata from five censuses, we develop and apply a procedure for fitting logistic curves to the fertility transitions in more than 500 small regions of Brazil over this 40-year period. Doing so enables us to map the main features of the Brazilian fertility transition in considerable detail. We detect early declines in some regions of the country and document large differences between early and late transitions in regard to both the initial level of fertility and the speed of the transition. We also use our results to test hypotheses regarding changes in the level of development at the onset of the fertility transition and identify a temporary stall in the Brazilian transition that occurred in the late 1990s. A web site with project details is at http://schmert.net/BayesLogistic.",
+  "authors": [
+    {
+      "raw": "Potter, Joseph E.",
+      "family": "Potter",
+      "given": "Joseph E."
+    },
+    {
+      "raw": "Schmertmann, Carl P.",
+      "family": "Schmertmann",
+      "given": "Carl P."
+    },
+    {
+      "raw": "Assuncao, Renato M.",
+      "family": "Assuncao",
+      "given": "Renato M."
+    },
+    {
+      "raw": "Cavenaghi, Suzana M.",
+      "family": "Cavenaghi",
+      "given": "Suzana M."
+    }
+  ],
+  "authors_text": "Potter, Joseph E.; Schmertmann, Carl P.; Assuncao, Renato M.; Cavenaghi, Suzana M.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2010,
+  "doi": "10.1111/j.1728-4457.2010.00330.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2010.00330.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2010.00330.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2010.00330.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

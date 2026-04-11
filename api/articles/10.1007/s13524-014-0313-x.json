@@ -1,0 +1,35 @@
+{
+  "title": "Opportunities to Meet: Occupational Education and Marriage Formation in Young Adulthood",
+  "abstract": "AbstractExplanations for the positive association between education and marriage in the United States emphasize the economic and cultural attractiveness of having a college degree in the marriage market. However, educational attainment may also shape the opportunities that men and women have to meet other college-educated partners, particularly in contexts with significant educational stratification. We focus on work—and the social ties that it supports—and consider whether the educational composition of occupations is important for marriage formation during young adulthood. Employing discrete-time event-history methods using the NLSY-97, we find that occupational education is positively associated with transitioning to first marriage and with marrying a college-educated partner for women but not for men. Moreover, occupational education is positively associated with marriage over cohabitation as a first union for women. Our findings call attention to an unexplored, indirect link between education and marriage that, we argue, offers insight into why college-educated women in the United States enjoy better marriage prospects.",
+  "authors": [
+    {
+      "raw": "McClendon, David",
+      "family": "McClendon",
+      "given": "David"
+    },
+    {
+      "raw": "Kuo, Janet Chen-Lan",
+      "family": "Kuo",
+      "given": "Janet Chen-Lan"
+    },
+    {
+      "raw": "Raley, R. Kelly",
+      "family": "Raley",
+      "given": "R. Kelly"
+    }
+  ],
+  "authors_text": "McClendon, David; Kuo, Janet Chen-Lan; Raley, R. Kelly",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0313-x",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0313-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0313-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0313-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

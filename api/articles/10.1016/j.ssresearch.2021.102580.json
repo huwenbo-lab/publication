@@ -1,0 +1,35 @@
+{
+  "title": "Racial and gender pay disparities: The role of education",
+  "abstract": "We investigate whether white women, black women, and black men earn less than white men because of 1) lower educational attainment and/or 2) lower wage returns to the same levels and academic fields of attainment. Using the 1979-2012 waves of the American National Longitudinal Survey of Youth (NLSY79), we examine how educational attainment and academic fields of study impact pay. Regression decompositions show that differences in attainment and in academic fields explain 13 to 23 percent of the racial pay gaps, but none of the gender pay gaps. Random effects models test for race and gender differences in the wage returns to education. Men of both races receive higher wage returns relative to women, while black women receive lower returns relative to all groups for master's degrees. Our intersectional approach reveals that equalizing educational attainment would reduce racial pay gaps, whereas equalizing wage returns to education would reduce gender pay disparities. Moreover, black women's earnings are multiply disadvantaged, both by their lower attainment relative to white women, and their lower returns to education relative to all groups studied.",
+  "authors": [
+    {
+      "raw": "Budig, Michelle J.",
+      "family": "Budig",
+      "given": "Michelle J."
+    },
+    {
+      "raw": "Lim, Misun",
+      "family": "Lim",
+      "given": "Misun"
+    },
+    {
+      "raw": "Hodges, Melissa J.",
+      "family": "Hodges",
+      "given": "Melissa J."
+    }
+  ],
+  "authors_text": "Budig, Michelle J.; Lim, Misun; Hodges, Melissa J.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102580",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102580",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102580",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102580.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

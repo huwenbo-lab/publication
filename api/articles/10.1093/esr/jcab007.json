@@ -1,0 +1,35 @@
+{
+  "title": "Temporary Employment and Family Formation: An Income or Insecurity Effect?",
+  "abstract": "Recent studies show that temporary workers postpone family formation transitions, but it remains unclear whether this effect is due to the lower income or the stronger perceptions of job insecurity that go with a temporary contract. To address this question, we link data from a large-scale survey among Dutch employees to longitudinal population register data on marriage and first births. Logistic regression models estimate the effects of temporary employment on marriage and first birth, and mediation analyses assess to what extent these effects are explained by income and perceptions of job insecurity. Results show that temporarily employed women delay first birth. There is also some evidence that temporarily employed men postpone marriage and first birth. These effects are partly explained by income, which increases marriage and first birth rates among men and women alike. Perceptions of job insecurity generally had little effect on family formation, although higher marriage rates were found among women who experienced affective job insecurity. Overall, this shows that it is their low income rather than their feelings of insecurity about future employment that explains why temporary employees postpone family formation.",
+  "authors": [
+    {
+      "raw": "van Wijk, Daniel C.",
+      "family": "van Wijk",
+      "given": "Daniel C."
+    },
+    {
+      "raw": "de Valk, Helga A. G.",
+      "family": "de Valk",
+      "given": "Helga A. G."
+    },
+    {
+      "raw": "Liefbroer, Aart C.",
+      "family": "Liefbroer",
+      "given": "Aart C."
+    }
+  ],
+  "authors_text": "van Wijk, Daniel C.; de Valk, Helga A. G.; Liefbroer, Aart C.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcab007",
+  "doi_url": "https://doi.org/10.1093/esr/jcab007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "How Does Deprivation Affect Early-Age Mortality? Patterns of Socioeconomic Determinants of Neonatal and Posteonatal Mortality in Bolivia",
+  "abstract": "Three mechanisms related to household living standards might affect early-age mortality: the absolute level of deprivation, its level relative to the average of the community, and the inequality in the distribution of deprivation within communities. A large body of literature has explored the effect of the absolute level of deprivation, but little research has examined the association between relative deprivation and early-age mortality, and findings related to deprivation inequality are inconsistent. Using 2008 Bolivian Demographic and Health Survey data, this study explores patterns of association between the three factors and mortality occurring in the neonatal and postneonatal periods. Because household-level deprivation might capture some unmeasured characteristics at the community level, such as area-specific investments, this study decomposes household-level deprivation into its between- and within-community components. The results show that after possible confounders are controlled for, community-level absolute deprivation is a significant predictor of neonatal and postneonatal mortality. Relative deprivation and deprivation inequality are not associated with early-age mortality. These findings are specific to a context of widespread deprivation and low inequality within communities; the role of the distribution of deprivation might be more important in countries in which basic needs are met within a bigger proportion of the population. This study helps identify crucial sectors of development related to living standards and deprivation inequality in order to tackle neonatal and postneonatal mortality.",
+  "authors": [
+    {
+      "raw": "Temporin, Filippo",
+      "family": "Temporin",
+      "given": "Filippo"
+    }
+  ],
+  "authors_text": "Temporin, Filippo",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00907-2",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00907-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00907-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00907-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

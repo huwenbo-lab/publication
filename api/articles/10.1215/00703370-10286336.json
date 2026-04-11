@@ -1,0 +1,30 @@
+{
+  "title": "A Unified Model of Cohort Mortality",
+  "abstract": "We propose a dynamic production function of population health and mortality from birth onward. Our parsimonious model provides an excellent fit for the mortality and survival curves for primate and human populations since 1816. The model sheds light on the dynamics behind many phenomena documented in the literature. Simple extensions of the model can reproduce (1) the existence and evolution of mortality gradients across socioeconomic statuses documented in the literature, (2) non-monotonic dynamic effects of in utero shocks, (3) persistent or scarring effects of wars, and (4) mortality displacement after large temporary shocks, such as extreme weather.",
+  "authors": [
+    {
+      "raw": "Lleras-Muney, Adriana",
+      "family": "Lleras-Muney",
+      "given": "Adriana"
+    },
+    {
+      "raw": "Moreau, Flavien",
+      "family": "Moreau",
+      "given": "Flavien"
+    }
+  ],
+  "authors_text": "Lleras-Muney, Adriana; Moreau, Flavien",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10286336",
+  "doi_url": "https://doi.org/10.1215/00703370-10286336",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10286336",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10286336.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

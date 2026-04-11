@@ -1,0 +1,25 @@
+{
+  "title": "Wealth and Family Formation: Insights from First Cohabitation, Marriage, and Birth in Germany",
+  "abstract": "Abstract Existing research has demonstrated that wealthier individuals differ in family formation. Potential explanations draw on wealth’s use and symbolic value as well as the relative economic bar of family formation. This study examines the relationship between wealth and three family formation events in Germany: first cohabitation, marriage, and birth. Data from the German Socio-Economic Panel Study (2002–2017) are used with multi-state, competing-risk, discrete-time event history analysis. Results show that wealth, primarily driven by homeownership, significantly influences cohabitation, marriage, and birth. The impact of homeownership is particularly notable for marriage and birth and shows gender-specific associations for cohabitants. The findings highlight the substantial influence of wealth—most likely through its symbolic and use value—in shaping family formation while indicating limited support for a relative economic bar in Germany.",
+  "authors": [
+    {
+      "raw": "Lersch, Philipp M.",
+      "family": "Lersch",
+      "given": "Philipp M."
+    }
+  ],
+  "authors_text": "Lersch, Philipp M.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09738-6",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09738-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09738-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09738-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

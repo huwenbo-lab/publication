@@ -1,0 +1,40 @@
+{
+  "title": "Socioeconomic Background and Gene-Environment Interplay in Social Stratification across the Early Life Course",
+  "abstract": "To what extent are differences in education, occupational standing, and income attributable to genes, and do genetic influences differ by parents' socioeconomic standing? When in a children's life course does parents' socioeconomic standing matter for genetic influences, and for which of the outcomes, fixed at the different stages of the attainment process, do they matter most? We studied these research questions using Finnish register-based data on 6,529 pairs of twins born between 1975 and 1986. We applied genetically sensitive variance decompositions and took gene-environment interactions into account. Since zygosity was unknown, we compared same-sex and opposite-sex twins to estimate the proportion of genetic variation. Genetic influences were strongest in education and weakest in income, and always strongest among those with the most advantaged socioeconomic background, independent of the socioeconomic indicator used. We found that the shared environment influences were negligible for all outcomes. Parental social background measured early during childhood was associated with weaker interactions with genetic influences. Genetic influences on children's occupation were largely mediated through their education, whereas for genetic influences on income, mediation through education and occupational standing made little difference. Interestingly, we found that non-shared environment influences were greater among the advantaged families and that this pattern was consistent across outcomes. Stratification scholars should therefore emphasize the importance of the non-shared environment as one of the drivers of the intergenerational transmission of social inequalities.",
+  "authors": [
+    {
+      "raw": "Erola, Jani",
+      "family": "Erola",
+      "given": "Jani"
+    },
+    {
+      "raw": "Lehti, Hannu",
+      "family": "Lehti",
+      "given": "Hannu"
+    },
+    {
+      "raw": "Baier, Tina",
+      "family": "Baier",
+      "given": "Tina"
+    },
+    {
+      "raw": "Karhula, Aleksi",
+      "family": "Karhula",
+      "given": "Aleksi"
+    }
+  ],
+  "authors_text": "Erola, Jani; Lehti, Hannu; Baier, Tina; Karhula, Aleksi",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab026",
+  "doi_url": "https://doi.org/10.1093/esr/jcab026",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab026",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab026.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

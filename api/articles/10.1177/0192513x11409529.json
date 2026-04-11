@@ -1,0 +1,35 @@
+{
+  "title": "Explaining Fertility Norms in the Netherlands",
+  "abstract": "This study advances our understanding of fertility norms by examining whether fertility norms remain stable over time. In addition, this article also investigates whether these norms are influenced by (a) sociodemographic background characteristics; (b) fertility norms of close family members: partners, siblings, parents, and children; and (c) life course events. Two waves of the Netherlands Kinship Panel Study (NKPS) are used. This data set contains multi-actor data: family members are interviewed separately. First, analyses revealed that fertility norms are quite stable over time. Second, fertility norms appeared to be related to respondent’s educational level and religious socialization. Furthermore, life course transitions are an explanation for holding (in)tolerant fertility norms as well; for example, gaining a partner increases one’s pronatalism level, whereas losing a partner between the two waves causes a decrease in pro-childbearing views. Finally, fertility norms held by the kin network matter, but only to a limited degree.",
+  "authors": [
+    {
+      "raw": "Noordhuizen, Suzanne",
+      "family": "Noordhuizen",
+      "given": "Suzanne"
+    },
+    {
+      "raw": "de Graaf, Paul M.",
+      "family": "de Graaf",
+      "given": "Paul M."
+    },
+    {
+      "raw": "Sieben, Inge",
+      "family": "Sieben",
+      "given": "Inge"
+    }
+  ],
+  "authors_text": "Noordhuizen, Suzanne; de Graaf, Paul M.; Sieben, Inge",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2011,
+  "doi": "10.1177/0192513x11409529",
+  "doi_url": "https://doi.org/10.1177/0192513x11409529",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x11409529",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x11409529.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

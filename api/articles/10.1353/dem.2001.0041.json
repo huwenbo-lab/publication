@@ -1,0 +1,25 @@
+{
+  "title": "One step back in understanding racial differences in birth weight",
+  "abstract": "Abstract In recognition of the biological and social connections in demographic processes, demographers have integrated biological factors into their models of population variation. This new effort has tended to focus on the analysis of fertility and mortality. Edwin J.C.G. van den Oord and David C. Rowe’s article, “Racial Differences in Birth Health Risk: A Quantitative Genetic Approach,” published in the August 2000 issue of Demography, is part of this effort. These authors use race as a proxy for genetic variation, which subverts even the most positive attempts to understand the impact of genetic variation on demographic processes. The authors’ statistical results restate their anachronistic theory of race using latent variables that are not open to empirical testing. Although new data increase the opportunities for the examination of the relationship between biology and demographic processes researchers must be vigilant not to commit the errors of the past by misusing race as a variable.",
+  "authors": [
+    {
+      "raw": "Zuberi, Tukufu",
+      "family": "Zuberi",
+      "given": "Tukufu"
+    }
+  ],
+  "authors_text": "Zuberi, Tukufu",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.1353/dem.2001.0041",
+  "doi_url": "https://doi.org/10.1353/dem.2001.0041",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2001.0041",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2001.0041.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

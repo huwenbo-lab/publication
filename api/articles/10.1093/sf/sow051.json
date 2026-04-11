@@ -1,0 +1,30 @@
+{
+  "title": "Explaining the Dynamics between the Women's Movement and the Conservative Movement in the United States",
+  "abstract": "We examine the causes of movement and countermovement mobilization, focusing specifically on the effect that the national movements have on each other by responding directly to mobilization and indirectly through their policy successes. We discuss the mechanisms by which national movements respond to each other, and we examine the influence of political parties and social, political, and economic changes for women. We analyze these relationships using a Poisson Autoregressive (PAR(rho)) estimator, which is uniquely designed to model both the time dependence and the count distributions, on quarterly time series of feminist, anti-feminist, pro-choice, and anti-abortion events. Results show that movements and countermovements respond to each other and that anti-feminist movements mobilize in response to national policy change and societal change. The results suggest that many quantitative analyses of women's movements may be misspecified and that feminist mobilization does not always abate during conservative backlash.",
+  "authors": [
+    {
+      "raw": "Banaszak, Lee Ann",
+      "family": "Banaszak",
+      "given": "Lee Ann"
+    },
+    {
+      "raw": "Ondercin, Heather L.",
+      "family": "Ondercin",
+      "given": "Heather L."
+    }
+  ],
+  "authors_text": "Banaszak, Lee Ann; Ondercin, Heather L.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sow051",
+  "doi_url": "https://doi.org/10.1093/sf/sow051",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow051",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow051.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

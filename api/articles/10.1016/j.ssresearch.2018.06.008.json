@@ -1,0 +1,35 @@
+{
+  "title": "An application of diagonal reference models and time-varying covariates in social mobility research on mortality and fertility",
+  "abstract": "In social mobility research, the diagonal reference model (DRM) is argued to best isolate the effect of social mobility from origin and destination status effects. In demographic research, standard analyses of the duration until an event occurs rely heavily on the appropriate use of covariates that change over time. We apply these best-practice methods to the study of social mobility and demographic outcomes in Sweden using register data that covers the years 1996-2012. The mortality analysis includes 1,024,142 women and 747,532 men and the fertility analysis includes 191,142 women and 164,368 men. We identify the challenges inherent in this combination and present strategies with an application to how social mobility is related to both fertility and mortality. Our application is successful at incorporating all requirements related to these methods. Our findings suggest, however, that certain data characteristics, such as a relatively high share of missing data, can be problematic. We also find that controlling for origin and destination status generally provides acceptable estimates of the mobility association in the specific case of Sweden and the relationship between social mobility and both fertility and mortality.",
+  "authors": [
+    {
+      "raw": "Billingsley, Sunnee",
+      "family": "Billingsley",
+      "given": "Sunnee"
+    },
+    {
+      "raw": "Drefahl, Sven",
+      "family": "Drefahl",
+      "given": "Sven"
+    },
+    {
+      "raw": "Ghilagaber, Gebrenegus",
+      "family": "Ghilagaber",
+      "given": "Gebrenegus"
+    }
+  ],
+  "authors_text": "Billingsley, Sunnee; Drefahl, Sven; Ghilagaber, Gebrenegus",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.06.008",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.06.008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.06.008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.06.008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

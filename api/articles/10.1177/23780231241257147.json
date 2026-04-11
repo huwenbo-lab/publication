@@ -1,0 +1,45 @@
+{
+  "title": "Income Extraction via the Criminal Legal System: A Community-Level Perspective",
+  "abstract": "Legal financial obligations (LFOs) are financial penalties imposed by U.S. criminal courts that generate disproportionate negative effects for poor and minoritized individuals and communities. In this visualization, the authors use court administrative data for all criminal cases in Washington and Minnesota from 2010 to 2015 to measure community-level income extraction via LFOs in Seattle and Minneapolis-St. Paul. Unlike previous measures of LFOs at the community level, the authors calculate the proportion of income in a given census tract that is extracted in the form of LFOs. This operationalization makes it possible to ask, given a tract-year’s existing income per capita, what proportion of that income went toward LFOs from cases sentenced. The authors’ maps demonstrate that disadvantaged communities pay a higher share of their income in LFOs compared with more advantaged neighborhoods, perpetuating social control and poverty at the neighborhood level.",
+  "authors": [
+    {
+      "raw": "Shannon, Sarah K. S.",
+      "family": "Shannon",
+      "given": "Sarah K. S."
+    },
+    {
+      "raw": "Larson, Ryan",
+      "family": "Larson",
+      "given": "Ryan"
+    },
+    {
+      "raw": "Kennedy, Ian",
+      "family": "Kennedy",
+      "given": "Ian"
+    },
+    {
+      "raw": "O’Neill, Kate K.",
+      "family": "O’Neill",
+      "given": "Kate K."
+    },
+    {
+      "raw": "Harris, Alexes",
+      "family": "Harris",
+      "given": "Alexes"
+    }
+  ],
+  "authors_text": "Shannon, Sarah K. S.; Larson, Ryan; Kennedy, Ian; O’Neill, Kate K.; Harris, Alexes",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241257147",
+  "doi_url": "https://doi.org/10.1177/23780231241257147",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241257147",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241257147.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

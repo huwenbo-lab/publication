@@ -1,0 +1,40 @@
+{
+  "title": "Studying Youth' Group Identities, Intergroup Relations, and Friendship Networks: The Friendship and Identity in School Data",
+  "abstract": "This data brief introduces the Friendship and Identity in School (FIS) dataset. The FIS data are school-based longitudinal social network data, which have become increasingly important in recent years. Including information on 2,500 adolescents in nine secondary schools in the German federal state of North Rhine-Westphalia, the FIS data have four important key features that make them uniquely suited for studying the co-evolution of friendship networks and group identities or other time-varying individual characteristics. Specifically, the data include (i) fine-grained multidimensional measures of youth' ethnic, national, and religious identities, (ii) comparatively large social networks that span multiple classrooms, (iii) up to six waves over four and a half years, and (iv) an ethnoreligiously diverse sample. Besides friendship and identity, the data include other network dimensions such as romantic relations or dislike as well as repeated measurements of various individual attributes ranging from perceived discrimination over intergroup attitudes and religion to leisure time activities and students' perceptions of parents' identities and attitudes. In combination, the FIS data provide rich longitudinal information that allows researchers to study the development, change, and interplay of youth' group identities and friendship networks as well as broader questions concerning intergroup relations, network formation, and peer influence.",
+  "authors": [
+    {
+      "raw": "Leszczensky, Lars",
+      "family": "Leszczensky",
+      "given": "Lars"
+    },
+    {
+      "raw": "Pink, Sebastian",
+      "family": "Pink",
+      "given": "Sebastian"
+    },
+    {
+      "raw": "Kretschmer, David",
+      "family": "Kretschmer",
+      "given": "David"
+    },
+    {
+      "raw": "Kalter, Frank",
+      "family": "Kalter",
+      "given": "Frank"
+    }
+  ],
+  "authors_text": "Leszczensky, Lars; Pink, Sebastian; Kretschmer, David; Kalter, Frank",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab052",
+  "doi_url": "https://doi.org/10.1093/esr/jcab052",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab052",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab052.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

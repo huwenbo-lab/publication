@@ -1,0 +1,40 @@
+{
+  "title": "Gendered Exposure, Gendered Response: Exposure to Wartime Stressors and PTSD in Older Vietnamese War Survivors",
+  "abstract": "Growing numbers of women in militaries worldwide, coupled with vast segments of women within war-affected populations globally, raise questions about gender as it structures trauma exposure, posttraumatic stress disorder (PTSD), and other mental health consequences of war. In this study, we investigate the gendered associations between early-life wartime stress exposures and PTSD symptoms in older adulthood using data from the 2018 Vietnam Health and Aging Study, a unique data set documenting multiple dimensions of health and wartime stress exposures within a sample of older adults who occupied diverse roles during the American war in Vietnam. Our results indicate that the severity of recent PTSD symptoms is significantly and positively associated with the severity of wartime stress exposure among both men and women. Vietnamese men’s social positions, particularly their predominance in combat, exposed them to more numerous war-related stressors. However, Vietnamese women experience a greater PTSD penalty associated with some wartime stress exposures, likely due to the burden of protecting family in wartime and incorporation into military and paramilitary roles with lesser preparation, training, and support than men. We conclude that women who survive major wars, both as soldiers and civilians, bear a significant burden of armed conflict’s lasting toll upon mental health.",
+  "authors": [
+    {
+      "raw": "Young, Yvette",
+      "family": "Young",
+      "given": "Yvette"
+    },
+    {
+      "raw": "Kovnick, Miles O.",
+      "family": "Kovnick",
+      "given": "Miles O."
+    },
+    {
+      "raw": "Korinek, Kim",
+      "family": "Korinek",
+      "given": "Kim"
+    },
+    {
+      "raw": "Huu Minh, Nguyen",
+      "family": "Huu Minh",
+      "given": "Nguyen"
+    }
+  ],
+  "authors_text": "Young, Yvette; Kovnick, Miles O.; Korinek, Kim; Huu Minh, Nguyen",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2022,
+  "doi": "10.1177/08912432221113744",
+  "doi_url": "https://doi.org/10.1177/08912432221113744",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432221113744",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432221113744.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

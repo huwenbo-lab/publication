@@ -1,0 +1,40 @@
+{
+  "title": "Gender Bias in Academic Recruitment? Evidence from a Survey Experiment in the Nordic Region",
+  "abstract": "Gender disparities in top-level academic positions are persistent. However, whether bias in recruitment plays a role in producing these disparities remains unclear. This study examines the role of bias in academic recruitment by conducting a large-scale survey experiment among faculty in Economics, Law, Physics, Political Science, Psychology, and Sociology from universities in Iceland, Norway, and Sweden. The faculty respondents rated CVs of hypothetical candidates-who were randomly assigned either a male or a female name-for a permanent position as an Associate Professor in their discipline. The results show that, despite the underrepresentation of women in all fields, the female candidates were viewed as both more competent and more hireable compared to their male counterparts. Having children or a stronger CV do not change the overall result. Consequently, biased evaluations of equally qualified candidates to Associate Professor positions do not seem to be the key explanation of the persistent gender gap in academia in the Nordic region.",
+  "authors": [
+    {
+      "raw": "Carlsson, Magnus",
+      "family": "Carlsson",
+      "given": "Magnus"
+    },
+    {
+      "raw": "Finseraas, Henning",
+      "family": "Finseraas",
+      "given": "Henning"
+    },
+    {
+      "raw": "Midtboen, Arnfinn H.",
+      "family": "Midtboen",
+      "given": "Arnfinn H."
+    },
+    {
+      "raw": "Rafnsdottir, Guthbjorg Linda",
+      "family": "Rafnsdottir",
+      "given": "Guthbjorg Linda"
+    }
+  ],
+  "authors_text": "Carlsson, Magnus; Finseraas, Henning; Midtboen, Arnfinn H.; Rafnsdottir, Guthbjorg Linda",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa050",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa050",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa050",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa050.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

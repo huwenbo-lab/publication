@@ -1,0 +1,40 @@
+{
+  "title": "The between and within Effects of Social Security on Church Attendance in Europe 1980-1998: The Danger of Testing Hypotheses Cross-Nationally",
+  "abstract": "Tests of hypotheses explaining the variation in church attendance are dominated by the use of international comparative survey data covering many countries with only a limited number of samples within these countries. As a result, the main research focus is on between country effects and hardly on within country effects. The latter, however, comprises a more convincing test, because fewer assumptions about unobserved country-specific variables are required. Elaborating on various analytical models, we show that results from a between country research design may lead to inaccurate conclusions. To illustrate this point, we selected the Mannheim Eurobarometer Trend File, which includes as many European countries on as many points in time as possible. Step by step we disentangle the well-known strong negative overall between country correlation of social security with church attendance. We show that this correlation most likely is owing to unspecified country characteristics, as within countries, social security is sometimes positively related to church attendance and sometimes negatively, whereas on average there is no effect at all. Rather than increases in social security spending, rising gross domestic product seems to reduce church attendance. Our cautionary tale about the use of between country research designs applies to other fields of research as well.",
+  "authors": [
+    {
+      "raw": "te Grotenhuis, Manfred",
+      "family": "te Grotenhuis",
+      "given": "Manfred"
+    },
+    {
+      "raw": "Scholte, Marijn",
+      "family": "Scholte",
+      "given": "Marijn"
+    },
+    {
+      "raw": "de Graaf, Nan Dirk",
+      "family": "de Graaf",
+      "given": "Nan Dirk"
+    },
+    {
+      "raw": "Pelzer, Ben",
+      "family": "Pelzer",
+      "given": "Ben"
+    }
+  ],
+  "authors_text": "te Grotenhuis, Manfred; Scholte, Marijn; de Graaf, Nan Dirk; Pelzer, Ben",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcv069",
+  "doi_url": "https://doi.org/10.1093/esr/jcv069",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv069",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv069.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

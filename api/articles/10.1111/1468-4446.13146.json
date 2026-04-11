@@ -1,0 +1,30 @@
+{
+  "title": "The concept that went viral: Using machine learning to discover charisma in the wild",
+  "abstract": "The term charisma is recognized as sociology's most successful export to common speech. While sociologists habitually dismiss popular uses of the word, we address its vernacularity head on as a worthy object of study and as a potential resource for conceptual development. Using machine learning, we locate charisma within the wider discursive field out of which it arises (and continues to arise) across four corpora; namely: Weber's major writings; social scientific research (123,531 JSTOR articles); and social media (X) posts containing of charisma (n=77,161) and its 2023 variant, rizz (n=85,869). By capturing meaning structures that discursively suspend charisma across multiple dimensions, we discern three spectra that help to distinguish charisma's sociological and non-sociological uses. Spectrum one differentiates perspectives which see charisma as having either a structural or individual-level range of efficacy. Spectrum two differentiates indifferent/analytical perspectives on charisma from perspectives which see it as desirable but also morally conservative. Spectrum three differentiates between relational and individualized ontologies for charisma. We find that, rather than hewing closely to the Weberian formulation, social scientific uses exist in an intermediate position vis-& agrave;-vis these three spectra. Thus, scholars participate in what they otherwise criticize as charisma's vulgarization. The article concludes with recommendations for how to constructively interact with 'popular charisma.'",
+  "authors": [
+    {
+      "raw": "Joosse, Paul",
+      "family": "Joosse",
+      "given": "Paul"
+    },
+    {
+      "raw": "Lu, Yulin",
+      "family": "Lu",
+      "given": "Yulin"
+    }
+  ],
+  "authors_text": "Joosse, Paul; Lu, Yulin",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1111/1468-4446.13146",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13146",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13146",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13146.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

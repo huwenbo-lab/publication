@@ -1,0 +1,35 @@
+{
+  "title": "Individual Behaviors and Health Inequalities: Preterm Birth During the COVID-19 Pandemic in Mexico",
+  "abstract": "We evaluate the consequences of the COVID-19 pandemic for preterm birth in Mexico using microdata that include all births from 2014 to 2022. The country's hybrid public/private healthcare system allows us to examine how women's adaptive behaviors to the health crisis shaped their birth outcomes. The proportion of women giving birth in private hospitals increased dramatically after the onset of the pandemic in March 2020. This was likely a strategy to reduce their risk of infection in public hospitals, many of which were overcrowded. Time-series models suggest that preterm births increased among women who gave birth in public hospitals but decreased among women who gave birth in private settings. Difference-in-differences models based on a conception-cohort design with hospital fixed-effects indicate that the health benefits from receiving private rather than public care were concentrated among women with higher levels of education. The reduction in preterm births among more educated women was partially explained by their choice of higher quality services within the private sector and by changes in the demographic composition of patients who chose private care. Our analysis illustrates how protective behaviors subject to heterogeneous socioeconomic and structural constraints may lead to unequal health outcomes during health emergencies.",
+  "authors": [
+    {
+      "raw": "Caudillo, Monica L.",
+      "family": "Caudillo",
+      "given": "Monica L."
+    },
+    {
+      "raw": "Villarreal, Andres",
+      "family": "Villarreal",
+      "given": "Andres"
+    },
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    }
+  ],
+  "authors_text": "Caudillo, Monica L.; Villarreal, Andres; Torche, Florencia",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.12715",
+  "doi_url": "https://doi.org/10.1111/padr.12715",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12715",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12715.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

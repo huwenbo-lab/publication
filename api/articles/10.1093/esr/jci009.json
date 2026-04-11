@@ -1,0 +1,25 @@
+{
+  "title": "Unemployment and Marital Dissolution",
+  "abstract": "This article investigates whether unemployment within a dyad increases the probability of marital dissolution in Norway. An eight year panel data set of 40,472 couple-year observations is used to study the impact of unemployment on the probability of marital dissolution controlling for other variables. Two topics related to the impact of unemployment on divorce are addressed. First, the question of the impact of social stress as a mediating factor. Second, the question of gender differences with regards to the impact of unemployment. As expected the hypothesis that unemployment leads to an increased (non-monotonic) risk of marital dissolution was supported. While economic problems seem to be an important explanation for the impact of husbands’ unemployment, the impact of wife’s unemployment remained after controlling for other factors. The analysis also indicates that unemployment may catch unmeasured factors.",
+  "authors": [
+    {
+      "raw": "Hansen, Hans-Tore",
+      "family": "Hansen",
+      "given": "Hans-Tore"
+    }
+  ],
+  "authors_text": "Hansen, Hans-Tore",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1093/esr/jci009",
+  "doi_url": "https://doi.org/10.1093/esr/jci009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

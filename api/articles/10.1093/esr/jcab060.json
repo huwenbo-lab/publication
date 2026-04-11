@@ -1,0 +1,35 @@
+{
+  "title": "Are Men or Women More Unsettled by Fixed-Term Contracts? Gender Differences in Affective Job Insecurity and the Role of Household Context and Labour Market Positions",
+  "abstract": "This study investigates differences in the causal effect of fixed-term contracts on affective job insecurity by gender and household context in Germany. Research shows that workers in fixed-term employment are more unsettled about their job security than are permanent employees. We contribute to the literature on subjective job insecurity by explicitly modelling the causal effect of fixed-term employment and by examining how women and men differ in this effect. We argue that gender differences in the labour market positions and a gendered division of labour in the household account for gender differences in the subjective vulnerability to fixed-term employment. We apply linear fixed effect probability models based on the German Socio-Economic Panel (SOEP) with a sample of employees aged between 20 and 45 years. Results show that a fixed-term contract doubles the probability of big job worries compared to a permanent contract. Women are substantially more unsettled by fixed-term contracts than men across all household types. These gender differences cannot be explained by unfavourable labour market positions of women. Fixed-term employment thus seems to add to existing gender inequalities on the labour market.",
+  "authors": [
+    {
+      "raw": "Morgenroth, Nicolas",
+      "family": "Morgenroth",
+      "given": "Nicolas"
+    },
+    {
+      "raw": "Schels, Brigitte",
+      "family": "Schels",
+      "given": "Brigitte"
+    },
+    {
+      "raw": "Teichler, Nils",
+      "family": "Teichler",
+      "given": "Nils"
+    }
+  ],
+  "authors_text": "Morgenroth, Nicolas; Schels, Brigitte; Teichler, Nils",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab060",
+  "doi_url": "https://doi.org/10.1093/esr/jcab060",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab060",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab060.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

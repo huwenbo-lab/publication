@@ -1,0 +1,40 @@
+{
+  "title": "Subnational contribution to life expectancy and life span variation changes: Evidence from the United States",
+  "abstract": "BACKGROUND The US life expectancy has been stagnating in recent decades, and along with this, the time trends of life span variation have shown stagnation and even increases with respect to historical levels. OBJECTIVE We aim to disentangle contributions from subnational levels (US regions) to national changes in life expectancy and life span variation in 2010-2019 and 2019-2020. METHODS A decomposition of the change in the national life expectancy and life disparity into the contribution of changing mortality and population structure among subnational regions is presented. The US Census regions are the Midwest, Northeast, South, and West. RESULTS From 2010 to 2019, the South substantially contributed to the life span variation increase due to increasing mortality contributions. The old -age survival improvements across all regions further contributed to increasing life span variation at the national level. Different population growth patterns across regions, especially at older ages, are a further source of change in national life span variation and life expectancy. From 2019 to 2020, during the COVID-19 pandemic, an increase in life span variation and a decrease in life expectancy across all regions were observed. CONTRIBUTION We present continuous-time decompositions for changes in life expectancy and life span variation. When decomposing subnational contributions to national changes, we also demonstrate the role of the composition effect through subnational-national growth differences. This paper quantifies and highlights the specific contributions of regions and age groups to the national mortality increase in the United States between 2010 and 2019, as well as between 2019 and 2020.",
+  "authors": [
+    {
+      "raw": "Su, Wen",
+      "family": "Su",
+      "given": "Wen"
+    },
+    {
+      "raw": "van Raalte, Alyson",
+      "family": "van Raalte",
+      "given": "Alyson"
+    },
+    {
+      "raw": "Aburto, Jose Manuel",
+      "family": "Aburto",
+      "given": "Jose Manuel"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Su, Wen; van Raalte, Alyson; Aburto, Jose Manuel; Canudas-Romo, Vladimir",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.22",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

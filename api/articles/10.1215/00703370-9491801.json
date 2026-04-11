@@ -1,0 +1,40 @@
+{
+  "title": "Uncertainty About the Size of the Unauthorized Foreign-Born Population in the United States",
+  "abstract": "One of the most com mon meth ods for esti mat ing the U.S. unau tho rized for eign-born pop u la tion is the resid ual method. Over the last decade, resid ual esti mates have typ i cally fallen within a nar row range of 10.5 to 12 mil lion. Yet it remains unclear how sen si tive resid ual esti ma tes are to their under ly ing assump tions. We examine the extent to which esti ma tes may plau si bly vary owing to uncertainties in their underlying assumptions about coverage error, emigration, and mortality. Findings show that most of the range in resid ual esti ma tes derives from uncer tainty about emigration rates among legal permanent residents, naturalized citizens, and humanitarian entrants (LNH); esti ma tes are less sen si tive to assump tions about mor tal ity among the LNH for eign-born and cov er age error for the unau tho rized and LNH pop u la tions in U.S. Census Bureau sur veys. Nevertheless, uncer tainty in all three assump tions contrib utes to a range of esti ma tes, whereby there is a 50% chance that the unau tho rized for eign-born pop u la tion falls between 9.1 and 12.2 mil lion and a 95% chance that it falls between 7.0 and 15.7 mil lion.",
+  "authors": [
+    {
+      "raw": "Van Hook, Jennifer",
+      "family": "Van Hook",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Morse, Anne",
+      "family": "Morse",
+      "given": "Anne"
+    },
+    {
+      "raw": "Capps, Randy",
+      "family": "Capps",
+      "given": "Randy"
+    },
+    {
+      "raw": "Gelatt, Julia",
+      "family": "Gelatt",
+      "given": "Julia"
+    }
+  ],
+  "authors_text": "Van Hook, Jennifer; Morse, Anne; Capps, Randy; Gelatt, Julia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9491801",
+  "doi_url": "https://doi.org/10.1215/00703370-9491801",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9491801",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9491801.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

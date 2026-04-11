@@ -1,0 +1,35 @@
+{
+  "title": "Welfare deservingness opinions from heuristic to measurable concept: The CARIN deservingness principles scale",
+  "abstract": "A steadily growing number of studies investigate how popular support for social policies targeting particular groups is rooted in citizens' deservingness opinions. According to theory, people fall back on five criteria - Control, Attitude, Reciprocity, Identity and Need (CARIN) - to distinguish the deserving from the undeserving. Deservingness opinions are assumed to be important predictors of support for particular welfare arrangements. A striking feature of this emerging research, however, is that there is no agreed-upon strategy to measure deservingness. Most previous studies rely on proxy-variables rather than measuring the actual deservingness criteria. Deservingness functions as a heuristic rather than as a measured concept, which leads to conceptual confusion. To remedy this shortcoming, this contribution proposes and validates a new instrument -the CARIN deservingness principles scale- that captures the five basic deservingness principles. We analyse data from the Belgian National Election Study by means of structural equation modelling (SEM) to (1) test the dimensionality, validity and reliability of the scale, and (2) verify to what extent the five deservingness principles predict specific policy preferences (as a test of construct validity). Our analyses confirm that the five deservingness principles are distinct dimensions that are differently related to social structural variables and have divergent consequences for policy preferences. The finding of theoretically meaningful patterns of differentiated effects illustrates that the CARIN criteria represent distinct logics of social justice, and corroborates that our measurement instrument is capable of tapping into the essence of these criteria.",
+  "authors": [
+    {
+      "raw": "Meuleman, Bart",
+      "family": "Meuleman",
+      "given": "Bart"
+    },
+    {
+      "raw": "Roosma, Femke",
+      "family": "Roosma",
+      "given": "Femke"
+    },
+    {
+      "raw": "Abts, Koen",
+      "family": "Abts",
+      "given": "Koen"
+    }
+  ],
+  "authors_text": "Meuleman, Bart; Roosma, Femke; Abts, Koen",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102352",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102352",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102352",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102352.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

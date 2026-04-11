@@ -1,0 +1,35 @@
+{
+  "title": "Extent and Determinants of Panel Attrition in the European Community Household Panel",
+  "abstract": "The aim of the paper is to analyse the extent and determinants of panel attrition in the European Community Household Panel (ECHP). The fact that, after five waves, in some countries the response rate has declined to about 50%, leads to concerns about the representativeness of the remaining participants. We find the extent and determinants of panel attrition to reveal high variability across countries as well as for different waves within one country. Differences were also found when comparing attrition behaviour across different surveys running parallel in the same countries, as was the case for Germany and the United Kingdom (UK). Response rates are found to depend strongly on whether households moved during the sample period and whether the interviewer in the sample period changed. Compared to these two influences, all other characteristics are of minor importance. Despite these different attrition rates, neither is the analysis of income biased, nor is the ranking of national results disturbed.",
+  "authors": [
+    {
+      "raw": "Behr, Andreas",
+      "family": "Behr",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Bellgardt, Egon",
+      "family": "Bellgardt",
+      "given": "Egon"
+    },
+    {
+      "raw": "Rendtel, Ulrich",
+      "family": "Rendtel",
+      "given": "Ulrich"
+    }
+  ],
+  "authors_text": "Behr, Andreas; Bellgardt, Egon; Rendtel, Ulrich",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1093/esr/jci037",
+  "doi_url": "https://doi.org/10.1093/esr/jci037",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci037",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci037.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

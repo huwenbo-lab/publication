@@ -1,0 +1,25 @@
+{
+  "title": "Instrumental Variables in Sociology and the Social Sciences",
+  "abstract": "Instrumental variable (IV) methods provide a powerful but underutilized tool to address many common problems with observational sociological data. Key to their successful use is having IVs that are uncorrelated with an equation's disturbance and that are sufficiently strongly related to the problematic endogenous covariates. This review briefly defines IVs, summarizes their origins, and describes their use in multiple regression, simultaneous equation models, factor analysis, latent variable structural equation models, and limited dependent variable models. It defines and contrasts three methods of selecting IVs: auxiliary instrumental variable, model implied instrumental variable, and randomized instrumental variable. It provides overidentification tests and weak IV diagnostics as methods to evaluate the quality of IVs. I review the use of IVs in models that assume heterogeneous causal effects. Another section summarizes the use of IVs in contemporary sociological publications. The conclusion suggests ways to improve the use of IVs and suggests that there are many areas in which IVs could be profitably used in sociological research.",
+  "authors": [
+    {
+      "raw": "Bollen, Kenneth A.",
+      "family": "Bollen",
+      "given": "Kenneth A."
+    }
+  ],
+  "authors_text": "Bollen, Kenneth A.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2012,
+  "doi": "10.1146/annurev-soc-081309-150141",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-081309-150141",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-081309-150141",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-081309-150141.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

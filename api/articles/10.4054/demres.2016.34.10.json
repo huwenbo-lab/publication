@@ -1,0 +1,35 @@
+{
+  "title": "Childhood socioeconomic status, adult socioeconomic status, and old-age health trajectories: Connecting early, middle, and late life",
+  "abstract": "BACKGROUND The paper advances literature on earlier-life socioeconomic status (SES) and later-life health in a number of ways, including conceptualizing later-life health as a developmental process and relying on objective rather than retrospective reports of childhood and adult SES and health. METHODS Data are from the Utah Population Database (N= 75,019), which contains variables from Medicare claims, birth and death certificates, and genealogical records. The morbidity measure uses the Charlson Comorbidity Index. SES is based on converting occupation to Nam-Powers scores and then dividing these scores into quartiles plus farmers. Analyses are conducted in two steps. Group-based trajectory modeling estimates patterns of morbidity and survival and divides the sample into sex-specific groups ordered from least to most healthy. Multilevel ordered logistic regression incorporating Heckman selection predicts group trajectory membership by SES in adulthood conditioned upon childhood SES. RESULTS Higher SES in childhood is associated with membership in groups that have more favorable morbidity trajectories and survival probabilities. SES in adulthood has additive impact, especially for females. For example, if a female is characterized as being in the lowest SES quartile during childhood, her probability of having the most favorable health trajectory improves from 0.12 to 0.17 as her adult SES increases from the lowest to highest quartile. CONCLUSIONS Results suggest both childhood and adult SES independently impact upon old-age health trajectories.",
+  "authors": [
+    {
+      "raw": "Zimmer, Zachary",
+      "family": "Zimmer",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Hanson, Heidi A.",
+      "family": "Hanson",
+      "given": "Heidi A."
+    },
+    {
+      "raw": "Smith, Ken R.",
+      "family": "Smith",
+      "given": "Ken R."
+    }
+  ],
+  "authors_text": "Zimmer, Zachary; Hanson, Heidi A.; Smith, Ken R.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.10",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

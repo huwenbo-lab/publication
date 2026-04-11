@@ -1,0 +1,30 @@
+{
+  "title": "Parenting and Depression",
+  "abstract": "Few empirical studies have examined the association between parenthood and psychological well-being. Using NLSY79 data ( n = 6,297), we examined how various parental roles, or specific parent–child relationship types, were associated with depressive symptoms in adults. We hypothesized that less traditional and more complex parental roles would be associated with higher depressive symptoms. Ordinary least squares regression results revealed that having a stepchild was associated with higher depressive symptoms, regardless of the stepchild’s residential status. Additionally, certain combinations of parental roles were a risk factor for depressive symptoms, including having a biological child residing in the home and another biological child residing outside the home simultaneously, a biological child and a stepchild residing together (with or without a new biological child), and having more than two combined parental roles in general. Findings suggested certain parental roles are indeed associated with higher depressive symptoms, while others may be null relationships.",
+  "authors": [
+    {
+      "raw": "Pace, Garrett T.",
+      "family": "Pace",
+      "given": "Garrett T."
+    },
+    {
+      "raw": "Shafer, Kevin",
+      "family": "Shafer",
+      "given": "Kevin"
+    }
+  ],
+  "authors_text": "Pace, Garrett T.; Shafer, Kevin",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2013,
+  "doi": "10.1177/0192513x13506705",
+  "doi_url": "https://doi.org/10.1177/0192513x13506705",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x13506705",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x13506705.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

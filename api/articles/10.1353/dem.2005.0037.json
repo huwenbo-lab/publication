@@ -1,0 +1,40 @@
+{
+  "title": "Do conditional cash transfers influence migration? A study using experimental data from the Mexican progresa program",
+  "abstract": "AbstractPrior research on Mexican migration has shown that social networks and economic incentives play an important role in determining migration outcomes. We use experimental data from PROGRESA, Mexico’s primary poverty-reduction program, to evaluate the effects of conditional cash transfers on migration both domestically and to the United States. Our study complements a growing body of literature aimed at overcoming longstanding hurdles to the establishment of causal validity in empirical studies of migration. Analysis based on the data collected before and after the program’s onset shows that conditional transfers reduce U.S. migration but not domestic migration. The data also enable us to explore the role of existing family and community migration networks. The results show that migration networks strongly influence migration, but that the effect of conditional transfers on migration is apparently not mediated by existing migration network structures. Our results suggest that conditional transfers may be helpful in managing rural out-migration, particularly to the United States.",
+  "authors": [
+    {
+      "raw": "Stecklov, Guy",
+      "family": "Stecklov",
+      "given": "Guy"
+    },
+    {
+      "raw": "Winters, Paul",
+      "family": "Winters",
+      "given": "Paul"
+    },
+    {
+      "raw": "Stampini, Marco",
+      "family": "Stampini",
+      "given": "Marco"
+    },
+    {
+      "raw": "Davis, Benjamin",
+      "family": "Davis",
+      "given": "Benjamin"
+    }
+  ],
+  "authors_text": "Stecklov, Guy; Winters, Paul; Stampini, Marco; Davis, Benjamin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0037",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0037",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0037",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0037.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

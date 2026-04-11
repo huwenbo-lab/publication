@@ -1,0 +1,35 @@
+{
+  "title": "Educational and Type of Day Differences in Mothers' Time Availability for Child Care and Housework",
+  "abstract": "Objective The authors analyzed variation by education and type of day in the time availability association between U.S. mothers' paid work hours and housework and child care, types of work that vary by their urgency, affect, and symbolic meaning. Background Research shows a stronger negative association of women's work hours with housework than child care, and interprets this as evidence to show mothers prioritize child care over housework. The authors extend this work by determining if associations of work hours with partnered mothers' housework and child care differ by college education and type of day. Method The authors used ordinary least squares regression on weekend and weekday time diaries of partnered mothers aged 18-65 (N = 22,816) from the 2003-2018 American Time Use Survey ( ). Results Authors found negative associations of mothers' work hours with weekday housework and child care. They found a negative association of college degrees with weekday housework but a positive association with child care that attenuates at longer work hours. The negative work hour association, and the education gap in predicted child care time, persisted on weekends. Work hour and education associations with weekend housework were positive, and the education gap widened at longer work hours. Conclusion The time availability constraint of employment hours applies to child care and housework, even among mothers with college degrees. Education differences in unpaid work, particularly child care, are most evident on weekends.",
+  "authors": [
+    {
+      "raw": "Gupta, Sanjiv",
+      "family": "Gupta",
+      "given": "Sanjiv"
+    },
+    {
+      "raw": "Sayer, Liana C.",
+      "family": "Sayer",
+      "given": "Liana C."
+    },
+    {
+      "raw": "Pearlman, Jessica",
+      "family": "Pearlman",
+      "given": "Jessica"
+    }
+  ],
+  "authors_text": "Gupta, Sanjiv; Sayer, Liana C.; Pearlman, Jessica",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12754",
+  "doi_url": "https://doi.org/10.1111/jomf.12754",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12754",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12754.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

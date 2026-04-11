@@ -1,0 +1,25 @@
+{
+  "title": "Values and limitations of statistical models",
+  "abstract": "Methodological consequences of population heterogeneity for the sequential logit model in studies of education transitions are now well understood. There are two main mechanisms by which heterogeneity may cause biases to parameter estimates in sequential logit models: outcome incommensurability and population incommensurability. These methodological problems are intrinsic to the substantive research question and thus are not easily remediable with better statistical models. All statistical solutions require extra information in the form of additional data or additional assumptions. In some settings, the researcher may explicitly introduce a form of heterogeneity into the sequential logit model and then evaluate the model. In other settings, the researcher may wish to stay with the conventional sequential logit model and interpret the results descriptively. (C) 2011 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Xie, Yu",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2011,
+  "doi": "10.1016/j.rssm.2011.04.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2011.04.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2011.04.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2011.04.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

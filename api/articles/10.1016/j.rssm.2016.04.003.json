@@ -1,0 +1,30 @@
+{
+  "title": "How schools structure opportunity: The role of curriculum and placement in math attainment",
+  "abstract": "Most of the research on math attainment focuses on whether students begin the 9th grade in algebra 1, geometry, or algebra 2, and how that affects their subsequent progression through math sequences. While providing valuable insights, this focus on vertical differentiation among math courses fails to consider the horizontal differentiation existing at the same math level (e.g., remedial, general, and honors versions of the same course). This study uses statewide longitudinal administrative transcript data to examine the consequences of horizontal differentiation in algebra 1, the most common ninth grade math course. Analyses reveal that many students were placed into remedial or honors algebra 1 despite not having corresponding low or high eighth grade math standardized test scores. The consequences of placement into less rigorous math courses were very difficult to overcome, even accounting for eighth grade test scores and ninth grade achievement. In addition, school algebra 1 curriculum was associated with attainment beyond students' own course placement. These findings offer important insights into how school curricula structure opportunities, with implications for both theory and practice. (C) 2016 Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Tyson, Will",
+      "family": "Tyson",
+      "given": "Will"
+    },
+    {
+      "raw": "Roksa, Josipa",
+      "family": "Roksa",
+      "given": "Josipa"
+    }
+  ],
+  "authors_text": "Tyson, Will; Roksa, Josipa",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2016,
+  "doi": "10.1016/j.rssm.2016.04.003",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2016.04.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2016.04.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2016.04.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

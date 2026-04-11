@@ -1,0 +1,30 @@
+{
+  "title": "Gender Wage Inequality: The De-gendering of the Occupational Structure",
+  "abstract": "The gender segregation of occupations is an enduring feature of the labour market, and pay in female-dominated occupations remains lower than in male-dominated occupations. However, recent changes in the occupational structure have possibly altered the relationship between occupational segregation and the gender pay gap. Women's skills are increasingly in demand, and this is reducing the gender wage gap. We explore this premise using individual-and occupation-level Labour Force Survey and household panel data from Britain augmented with an innovative proxy indicator of productivity across occupations. The wage effects of occupational feminization are not as high as previously shown once this indicator is taken into account. Additionally, we find evidence that such wage effects are evolving into more complex processes, including differing impacts for graduates and non-graduates as well as for employees in graduate and non-graduate jobs. Claims that gender segregation is losing importance as a structuring factor in labour-market outcomes are therefore accurate. However, this applies mostly to women in jobs requiring high-level skills. Segregation continues to lower pay substantially for women in occupations requiring limited skills.",
+  "authors": [
+    {
+      "raw": "Brynin, Malcolm",
+      "family": "Brynin",
+      "given": "Malcolm"
+    },
+    {
+      "raw": "Perales, Francisco",
+      "family": "Perales",
+      "given": "Francisco"
+    }
+  ],
+  "authors_text": "Brynin, Malcolm; Perales, Francisco",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcv092",
+  "doi_url": "https://doi.org/10.1093/esr/jcv092",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv092",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv092.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

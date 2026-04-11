@@ -1,0 +1,40 @@
+{
+  "title": "Births in Low- and Middle-Income Countries during the COVID-19 Pandemic",
+  "abstract": "The impact of the COVID-19 pandemic on fertility in low- and middle-income countries (LMICs) remains a subject of much speculation. This article reports monthly birth registration data from 18 United Nations Population Fund (UNFPA) program countries, all predominantly LMICs, both before and after the onset of the COVID pandemic. Despite disruptions in family planning services in many of these countries during the early months of the pandemic, monthly birth data show no observable impact of COVID-19 on births in four countries (Bahrain, Bangladesh, Cuba, Georgia), a short-term decline then rebound in six countries (Brazil, Colombia, Kosovo, Serbia, Thailand, Ukraine), a relatively longer decline in six countries (Bolivia, Bhutan, Moldova, Mongolia, Oman, Qatar), and a brief increase before reverting to pre-COVID levels in two countries (Sao Tome and Principe, Peru). This is not unlike the heterogeneous effects reported from high-income countries. Nonetheless, the lack of birth registration data from the least developed countries, particularly those in Africa, reminds us of the urgent need to improve coverage and completeness of birth registration to monitor and understand future fertility dynamics.",
+  "authors": [
+    {
+      "raw": "Kim, Seoyoung",
+      "family": "Kim",
+      "given": "Seoyoung"
+    },
+    {
+      "raw": "Chirinda, Witness",
+      "family": "Chirinda",
+      "given": "Witness"
+    },
+    {
+      "raw": "Han, Mansuk Daniel",
+      "family": "Han",
+      "given": "Mansuk Daniel"
+    },
+    {
+      "raw": "Snow, Rachel",
+      "family": "Snow",
+      "given": "Rachel"
+    }
+  ],
+  "authors_text": "Kim, Seoyoung; Chirinda, Witness; Han, Mansuk Daniel; Snow, Rachel",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12629",
+  "doi_url": "https://doi.org/10.1111/padr.12629",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12629",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12629.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

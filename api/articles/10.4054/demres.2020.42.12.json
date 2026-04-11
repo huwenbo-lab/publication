@@ -1,0 +1,30 @@
+{
+  "title": "The role of education in explaining trends in self-rated health in the United States, 1972-2018",
+  "abstract": "BACKGROUND The percentage of older adults in the United States reporting being in good health has increased since the 1980s. OBJECTIVE This study tries to explain long-term trends in self-rated health in the United States. METHODS We used 47 years of repeated cross-sectional data from the National Health Interview Survey to estimate regression models that predict trends in self-rated health. RESULTS Our results show that the improvement in self-rated health of men as well as women aged 50-84 is largely explained by gains in educational attainment. Self-rated health has slightly improved among those with post-secondary education, while it did not improve among those without post-secondary education. CONTRIBUTION This study is one of the few to try to explain long-term trends in self-rated health. It does so for a much longer period of time than any previous study.",
+  "authors": [
+    {
+      "raw": "Schellekens, Jona",
+      "family": "Schellekens",
+      "given": "Jona"
+    },
+    {
+      "raw": "Ziv, Anat",
+      "family": "Ziv",
+      "given": "Anat"
+    }
+  ],
+  "authors_text": "Schellekens, Jona; Ziv, Anat",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.12",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

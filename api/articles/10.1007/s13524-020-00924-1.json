@@ -1,0 +1,30 @@
+{
+  "title": "The Levels and Trends in Deep and Extreme Poverty in the United States, 1993-2016",
+  "abstract": "Recently, there has been tremendous interest in deep and extreme poverty in the United States. We advance beyond prior research by using higher-quality data, improving measurement, and following leading standards in international income research. We estimate deep (less than 20% of medians) and extreme (less than 10% of medians) poverty in the United States from 1993 to 2016. Using the Current Population Survey, we match the income definition of the Luxembourg Income Study and adjust for underreporting using the Urban Institute's TRIM3 model. In 2016, we estimate that 5.2 to 7.2 million Americans (1.6% to 2.2%) were deeply poor and 2.6 to 3.7 million (0.8% to 1.2%) were extremely poor. Although deep and extreme poverty fluctuated over time, including declines from 1993 to 1995 and 2007 to 2010, we find significant increases from lows in 1995 to peaks in 2016 in both deep (increases of 48% to 93%) and extreme poverty (increases of 54% to 111%). We even find significant increases with thresholds anchored at 1993 medians. With homelessness added, deep poverty would be 7% to 8% higher and extreme poverty 19% to 23% higher in 2016, which suggests that our estimates are probably lower bounds. The rise of deep/extreme poverty is concentrated among childless households. Among households with children, the expansion of SNAP benefits has led to declines in deep/extreme poverty. Ultimately, we demonstrate that estimates of deep/extreme poverty depend critically on the quality of income measurement.",
+  "authors": [
+    {
+      "raw": "Brady, David",
+      "family": "Brady",
+      "given": "David"
+    },
+    {
+      "raw": "Parolin, Zachary",
+      "family": "Parolin",
+      "given": "Zachary"
+    }
+  ],
+  "authors_text": "Brady, David; Parolin, Zachary",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00924-1",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00924-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00924-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00924-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

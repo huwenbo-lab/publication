@@ -1,0 +1,35 @@
+{
+  "title": "Grandparent Effects on Educational Outcomes: A Systematic Review",
+  "abstract": "Are educational outcomes subject to a 'grandparent effect'? We comprehensively and critically review the growing literature on this question. Fifty-eight percent of 69 analyses report that grandparents' (G1) socioeconomic characteristics are associated with children’s (G3) educational outcomes, independently of the characteristics of parents (G2). This is not clearly patterned by study characteristics, except sample size. The median ratio of G2:G1 strength of association with outcomes is 4.1, implying that grandparents matter around a quarter as much as parents for education. On average, 30 percent of the bivariate G1–G3 association remains once G2 information is included. Grandparents appear to be especially important where G2 socioeconomic resources are low, supporting the compensation hypothesis. We further discuss whether particular grandparents matter, the role of assortative mating, and the hypothesis that G1–G3 associations should be stronger where there is (more) G1–G3 contact, for which repeated null findings are reported. We recommend that measures of social origin include information on grandparents.",
+  "authors": [
+    {
+      "raw": "Anderson, Lewis",
+      "family": "Anderson",
+      "given": "Lewis"
+    },
+    {
+      "raw": "Sheppard, Paula",
+      "family": "Sheppard",
+      "given": "Paula"
+    },
+    {
+      "raw": "Monden, Christiaan",
+      "family": "Monden",
+      "given": "Christiaan"
+    }
+  ],
+  "authors_text": "Anderson, Lewis; Sheppard, Paula; Monden, Christiaan",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2018,
+  "doi": "10.15195/v5.a6",
+  "doi_url": "https://doi.org/10.15195/v5.a6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv5.a6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v5.a6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

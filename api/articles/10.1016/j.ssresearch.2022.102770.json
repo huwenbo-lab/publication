@@ -1,0 +1,35 @@
+{
+  "title": "Advances in transparency and reproducibility in the social sciences",
+  "abstract": "Worries about a credibility crisis besieging science have ignited interest in research trans-parency and reproducibility as ways of restoring trust in published research. For quantitative social science, advances in transparency and reproducibility can be seen as a set of developments whose trajectory predates the recent alarm. We discuss several of these developments, including preregistration, data-sharing, formal infrastructure in the form of resources and policies, open access to research, and specificity regarding research contributions. We also discuss the spillovers of this predominantly quantitative effort towards transparency for qualitative research. We conclude by emphasizing the importance of mutual accountability for effective science, the essential role of openness for this accountability, and the importance of scholarly inclusiveness in figuring out the best ways for openness to be accomplished in practice.",
+  "authors": [
+    {
+      "raw": "Freese, Jeremy",
+      "family": "Freese",
+      "given": "Jeremy"
+    },
+    {
+      "raw": "Rauf, Tamkinat",
+      "family": "Rauf",
+      "given": "Tamkinat"
+    },
+    {
+      "raw": "Voelkel, Jan Gerrit",
+      "family": "Voelkel",
+      "given": "Jan Gerrit"
+    }
+  ],
+  "authors_text": "Freese, Jeremy; Rauf, Tamkinat; Voelkel, Jan Gerrit",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2022.102770",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102770",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102770",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102770.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

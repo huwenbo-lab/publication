@@ -1,0 +1,30 @@
+{
+  "title": "Changing gender relations, declining fertility? An analysis of childbearing trajectories in 19th-century Netherlands",
+  "abstract": "BACKGROUND A long-standing and still unresolved debate has developed on whether the historical fertility transition was caused by 'spacing' (increasing the time between births) or by stopping (terminating childbearing at younger ages). Moreover, there is little consensus about the relative importance of gender relations in effecting reproductive change. OBJECTIVE First, we wish to shed new light on the stopping versus spacing debate by applying a sequence analysis approach, allowing us to describe changes in complete childbearing trajectories. Second, we want to understand the association between gender relations, among other factors, and reproductive trajectories during the historical fertility decline. METHODS We use longitudinal data from GENLIAS, a dataset constructed from linked civil registers of the province of Zeeland, the Netherlands, covering the period 1811-1911. We employ cluster and sequence analysis to identify different types of childbearing trajectories and logistic regression to estimate their correlates. RESULTS We identified five often-experienced trajectories: two high-fertility traditional trajectories (differing in the length of the reproductive phase), a 'Stoppers' trajectory, a `Late Starters' trajectory, and an 'Almost Childless' trajectory. Our results show that stopping was the way through which couples controlled their fertility during the early phase of the historical fertility transition in Zeeland, the Netherlands. Although couples with more egalitarian relationships had a higher likelihood to follow a Stoppers trajectory rather than the highest-fertility trajectory, stopping was most clearly linked to birth cohort and social class. CONTRIBUTION Our paper extends the literature on the process of the historical fertility decline and its determinants via a detailed empirical examination of childbearing trajectories and the conditions under which these trajectories took place. With our sequence analysis approach we add both substantively and methodologically to long-standing debates.",
+  "authors": [
+    {
+      "raw": "Bras, Hilde",
+      "family": "Bras",
+      "given": "Hilde"
+    },
+    {
+      "raw": "Schumacher, Reto",
+      "family": "Schumacher",
+      "given": "Reto"
+    }
+  ],
+  "authors_text": "Bras, Hilde; Schumacher, Reto",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.30",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

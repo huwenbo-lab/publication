@@ -1,0 +1,35 @@
+{
+  "title": "School tracking and its role in social reproduction: reinforcing educational inheritance and the direct effects of social origin",
+  "abstract": "The degree of social reproduction varies considerably between industrialized countries, raising the question of which institutional regulations promote or restrict this process. Education is considered the main mediator of social reproduction. Because school tracking - the sorting of children according to ability and interest at different ages - is known to affect educational attainment and the degree of tracking varies strongly across countries, it may thus account for differences in social reproduction. However, empirical studies are scarce, and the total impact of tracking on social reproduction remains ambiguous. Using the European Social Survey (ESS) 2012 and 2014 from 24 countries, we demonstrate that school tracking is strongly associated with higher degrees of social reproduction. Decomposing the process of social reproduction into educational inheritance, educational returns and direct effects of social origin, we find that although all channels contribute to social reproduction, the impact of tracking seems to be exerted through educational inheritance and to a similar degree through direct effects of social origin, whereas educational returns do not seem to be affected. Even net of educational attainment, social origin thus has a stronger effect on social status in tracked systems. We ascribe this effect to differences in qualitative choices within educational tracks, such as fields of study.",
+  "authors": [
+    {
+      "raw": "Reichelt, Malte",
+      "family": "Reichelt",
+      "given": "Malte"
+    },
+    {
+      "raw": "Collischon, Matthias",
+      "family": "Collischon",
+      "given": "Matthias"
+    },
+    {
+      "raw": "Eberl, Andreas",
+      "family": "Eberl",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Reichelt, Malte; Collischon, Matthias; Eberl, Andreas",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2019,
+  "doi": "10.1111/1468-4446.12655",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12655",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12655",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12655.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

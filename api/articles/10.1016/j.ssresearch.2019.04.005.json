@@ -1,0 +1,40 @@
+{
+  "title": "The utility of a follow-up interview for respondents to a longitudinal survey with frequent measurement",
+  "abstract": "Social processes that change quickly are difficult to study, because they require frequent survey measurement. Weekly, daily, or even hourly measurement may be needed depending on the topic. With more frequent measurement comes the prospect of more complex patterns of missing data. The mechanisms creating the missing data may be varied, ranging from technical issues such as lack of an Internet connection to refusal to complete a requested survey. We examine one approach to mitigating the damage of these missing data - a follow-up or closeout interview that is completed after the frequent measurement. The Relationship Dynamics and Social Life (RDSL) study used this approach. The study asked women weekly about their attitudes and behaviors related to sexual relationships and pregnancy. The surveys were carried out for 130 weeks and concluded with a closeout interview. We explore the patterns of missing data in the RDSL study and then examine associations between the data collected in the closeout survey and key variables collected in the weekly survey. We then assess the extent to which data from the closeout survey are useful in repairing the damage caused by missing data.",
+  "authors": [
+    {
+      "raw": "Wagner, James",
+      "family": "Wagner",
+      "given": "James"
+    },
+    {
+      "raw": "Couper, Mick P.",
+      "family": "Couper",
+      "given": "Mick P."
+    },
+    {
+      "raw": "Axinn, William G.",
+      "family": "Axinn",
+      "given": "William G."
+    },
+    {
+      "raw": "Gatny, Heather",
+      "family": "Gatny",
+      "given": "Heather"
+    }
+  ],
+  "authors_text": "Wagner, James; Couper, Mick P.; Axinn, William G.; Gatny, Heather",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.04.005",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.04.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.04.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.04.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

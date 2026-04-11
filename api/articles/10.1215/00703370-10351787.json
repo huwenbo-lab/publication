@@ -1,0 +1,40 @@
+{
+  "title": "Less Is More? Repartnering and Completed Cohort Fertility in Finland",
+  "abstract": "An extensive literature theorizes the role of repartnering for cohort fertility and whether union dissolution can be an engine for fertility. A large share of higher order unions are nonmarital cohabitations, but most previous studies on completed cohort fertility have analyzed only marital unions, and none have incorporated nonmarital cohabitations using population-level data. To analyze the relationship between the number of unions and cohort fertility for men and women, we use Poisson regression with Finnish register data to enumerate every birth, marriage, and cohabitation among the 1969-1972 birth cohorts at ages 18-46. We show that dissolutions of first cohabitations are the main pathway to repartnering and that most higher order unions are cohabitations. Nonmarital repartnering is a strong predictor of low fertility. In contrast, remarriage is positively associated with cohort fertility. Because the bulk of first-union dissolutions and higher order unions are nonmarital, repartnering is not an efficient engine for fertility at the aggregate level. Marriage and cohabitation are far from indistinguishable in a country often described as a second demographic transition forerunner.",
+  "authors": [
+    {
+      "raw": "Andersson, Linus",
+      "family": "Andersson",
+      "given": "Linus"
+    },
+    {
+      "raw": "Jalovaara, Marika",
+      "family": "Jalovaara",
+      "given": "Marika"
+    },
+    {
+      "raw": "Uggla, Caroline",
+      "family": "Uggla",
+      "given": "Caroline"
+    },
+    {
+      "raw": "Saarela, Jan",
+      "family": "Saarela",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Andersson, Linus; Jalovaara, Marika; Uggla, Caroline; Saarela, Jan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10351787",
+  "doi_url": "https://doi.org/10.1215/00703370-10351787",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10351787",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10351787.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

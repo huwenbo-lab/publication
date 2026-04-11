@@ -1,0 +1,40 @@
+{
+  "title": "Social Status in Norway",
+  "abstract": "We estimate a status order for contemporary Norway using register data on married and cohabiting couples. By applying multi-dimensional scaling to contingency tables that cross-classify the occupation of spouses and cohabiting partners, we are able to extract a dimension that could reasonably be interpreted as reflecting social status in the classical Weberian sense. The general contour of the Norwegian status order and that of the United Kingdom are remarkably similar, as is the way in which social status relates to education, income and social class in the two countries. But social status is more equitably distributed in Norway than in the United Kingdom. Finally, as a demonstration of the empirical relevance of the class–status distinction, we show that these two dimensions of social stratification underpin different kinds of social attitudes in Norway.",
+  "authors": [
+    {
+      "raw": "Chan, T. W.",
+      "family": "Chan",
+      "given": "T. W."
+    },
+    {
+      "raw": "Birkelund, G. E.",
+      "family": "Birkelund",
+      "given": "G. E."
+    },
+    {
+      "raw": "Aas, A. K.",
+      "family": "Aas",
+      "given": "A. K."
+    },
+    {
+      "raw": "Wiborg, O.",
+      "family": "Wiborg",
+      "given": "O."
+    }
+  ],
+  "authors_text": "Chan, T. W.; Birkelund, G. E.; Aas, A. K.; Wiborg, O.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcq019",
+  "doi_url": "https://doi.org/10.1093/esr/jcq019",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcq019",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcq019.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

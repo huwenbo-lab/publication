@@ -1,0 +1,25 @@
+{
+  "title": "Religious Socialization and Interracial Dating",
+  "abstract": "This article examines the impact of religious socialization on Americans’ propensity to engage in interracial dating or romance. Drawing on national survey data, I fit logistic regression models to estimate the net effects of four measures of religious socialization on respondents’ likelihood of engaging in interracial romance. Findings reveal that strong bivariate associations between respondents’ level of religious salience and practice at age 12 and interracial romantic engagement become nonsignificant in the face of sociodemographic controls. However, respondents with Jewish fathers and mothers remain significantly more likely to have interracially dated than those with Protestant fathers and mothers. Moreover, region moderates the effect of childhood religious service attendance such that respondents who more frequently attended religious services at age 12 and reside in non-Western regions, and particularly within the South, are less likely to have interracially dated. Findings ultimately suggest that parents’ religious tradition and childhood religious practice, within certain regional contexts, affect Americans’ likelihood of dating interracially.",
+  "authors": [
+    {
+      "raw": "Perry, Samuel L.",
+      "family": "Perry",
+      "given": "Samuel L."
+    }
+  ],
+  "authors_text": "Perry, Samuel L.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2016,
+  "doi": "10.1177/0192513x14555766",
+  "doi_url": "https://doi.org/10.1177/0192513x14555766",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x14555766",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x14555766.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

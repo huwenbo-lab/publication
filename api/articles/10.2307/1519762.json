@@ -1,0 +1,25 @@
+{
+  "title": "A formalization and test of the religious economies model",
+  "abstract": "The religious economies argument maintains that religious pluralism promotes religious participation. Although this theory has been much debated by sociologists of religion, evaluation has been hindered by the lack of a formal model. This paper offers a formalization that builds on the product-differentiation framework from industrial-organization economics. The model suggests a new measure of religious competition and a new empirical test. One religious market may be regarded as more competitive than another religious market if the set of denominations present in the first contains the set of denominations present in the second. Given this partial order on the set of religious markets, the model predicts that more competitive markets will have higher religious participation. This prediction is examined for two data sets previously considered in the literature-New York towns in 1865 and U.S. counties in 1990. Although the analysis highlights an important theoretical ambiguity (regarding the strategic interdependence of denominational effort choices) and reports a negative empirical finding (that more competitive U.S. counties tend to have lower religious participation), the paper proceeds constructively, attempting to identify viable directions for future research within the religious economies paradigm.",
+  "authors": [
+    {
+      "raw": "Montgomery, JD",
+      "family": "Montgomery",
+      "given": "JD"
+    }
+  ],
+  "authors_text": "Montgomery, JD",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2003,
+  "doi": "10.2307/1519762",
+  "doi_url": "https://doi.org/10.2307/1519762",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F1519762",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/1519762.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Faith Factor. How Scholars’ Religiosity Biases Research Findings on Secularization",
+  "abstract": "Secularization is one of the most debated areas of research in current sociology of religion. Despite hundreds of empirical studies, researchers do not even agree on the very existence of secularization in different parts of the world. This article investigates whether some of the variability in findings may be attributed not to the social reality investigated but to bias in the form of researchers' own religiosity. Specifically, we test whether researchers' religiosity is correlated with two outcomes: their personal belief in the secularization thesis and the likelihood of supporting secularization in their published articles. To address this question, we constructed an international database of scholars working on secularization and conducted a survey measuring their religiosity and beliefs about religious decline. We then coded their publications according to whether they supported the secularization thesis and linked the two data sets. We find significant evidence of a \"(non-)religious bias.\" Either in their private attitudes or public writings, religious researchers find less evidence for the secularization thesis, whereas secular scholars find more. This result cannot be explained by differences in research methods, study quality, or the religious and geographic contexts under investigation.",
+  "authors": [
+    {
+      "raw": "Rainero, Valeria",
+      "family": "Rainero",
+      "given": "Valeria"
+    },
+    {
+      "raw": "Stolz, Jörg",
+      "family": "Stolz",
+      "given": "Jörg"
+    },
+    {
+      "raw": "Luijkx, Ruud",
+      "family": "Luijkx",
+      "given": "Ruud"
+    }
+  ],
+  "authors_text": "Rainero, Valeria; Stolz, Jörg; Luijkx, Ruud",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2026,
+  "doi": "10.15195/v13.a7",
+  "doi_url": "https://doi.org/10.15195/v13.a7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv13.a7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v13.a7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Differences in Gender Norms Between Countries: Are They Valid? The Issue of Measurement Invariance",
+  "abstract": "The values and attitudes towards gender roles are often investigated and compared from a cross-country perspective without the proper statistical treatment of the measurement invariance (MI) assessment. This implies that the conclusions based on composite scales of gender norms, gender role attitudes or gender egalitarianism, to name only a few, may be questionable. In this study, we address this lack by investigating the cross-country MI properties of the Gender Equality Scale (GES) based on World Value Survey data. We use multi-group confirmatory factor analysis with and without alignment to determine the configural, weak, strong and strict MI. The results show that the concept of gender equality is not comparable across all countries involved in the survey. In particular, it seems to differ between Western Europe and Central and Eastern Europe. We claim that only selected Central and Eastern European countries exhibit a configural MI but fail to show full weak MI and definitely fail to show full strong and full strict MI. However, under the aligned measurement framework, we succeeded in showing that for these countries, comparisons of the country rankings with respect to the GES are valid provided that a correction for non-invariance of certain factor loadings and/or intercepts is applied. Our study shows that the most egalitarian gender role attitudes measured by the GES are observed in the Czech Republic, Hungary, Lithuania and Croatia. They are significantly higher than the gender equality attitudes recorded in the lowest scoring countries Poland, Slovakia, Albania and Romania.",
+  "authors": [
+    {
+      "raw": "Weziak-Bialowolska, Dorota",
+      "family": "Weziak-Bialowolska",
+      "given": "Dorota"
+    }
+  ],
+  "authors_text": "Weziak-Bialowolska, Dorota",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2014,
+  "doi": "10.1007/s10680-014-9329-6",
+  "doi_url": "https://doi.org/10.1007/s10680-014-9329-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-014-9329-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-014-9329-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

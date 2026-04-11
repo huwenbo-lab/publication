@@ -1,0 +1,30 @@
+{
+  "title": "Separate, Unequal, and Uncorrelated: Why We Need to Consider Race-specific Homicide Rates in US Metropolitan Areas",
+  "abstract": "Sociologists recognize that American metropolitan areas continue to be highly segregated by race and that blacks continue to experience much higher homicide rates than whites across metropolitan areas. We show that the racial divide goes beyond separate and unequal to the point of being uncorrelated. Based on data from the Centers for Disease Control Underlying Cause of Death files 2008–2010 and the American Community Survey, this paper reports that homicide rates for whites and blacks are uncorrelated across US metropolitan areas. We show that under these conditions, the practice of analyzing overall homicide rates can substantially misrepresent both subgroups and that the correlations of other variables with overall homicide rates systematically exaggerate the average of the correlations with the two separate homicide rates. We therefore suggest that it is crucial to analyze rates of black and white homicide separately to accurately describe and understand causes and consequences of urban homicide.",
+  "authors": [
+    {
+      "raw": "Feld, Scott",
+      "family": "Feld",
+      "given": "Scott"
+    },
+    {
+      "raw": "Bauldry, Shawn",
+      "family": "Bauldry",
+      "given": "Shawn"
+    }
+  ],
+  "authors_text": "Feld, Scott; Bauldry, Shawn",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118773959",
+  "doi_url": "https://doi.org/10.1177/2378023118773959",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118773959",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118773959.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

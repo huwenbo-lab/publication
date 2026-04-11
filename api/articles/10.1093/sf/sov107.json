@@ -1,0 +1,30 @@
+{
+  "title": "Take One for the Team! Individual Heterogeneity and the Emergence of Latent Norms in a Volunteer's Dilemma",
+  "abstract": "The tension between individual and collective interests and the provision of sanctioning mechanisms have been identified as important building blocks of a theory of norm emergence. Correspondingly, most investigations focus on how social norms emerge through explicit bargaining and social exchange to overcome this tension, and how sanctions enforce norm compliance. However, sanctioning presupposes the existence of the behavior at which it is directed, and the question of how behavior worth sanctioning can emerge tacitly if communication is not possible has hitherto received little attention. Here, we argue that game theory offers an ideal framework for theorizing about emergent behavioral regularities and show how latent norms can emerge from actors' recurring encounters in similar social dilemmas. We conduct two experiments in which small groups of subjects interact repeatedly in a volunteer's dilemma. We vary the heterogeneity of group members in terms of their costs of cooperation and the way they encounter each other in subsequent interactions. Our results show that subjects in homogeneous groups take turns at cooperating, whereas in heterogeneous groups mostly the subjects with the lowest costs cooperate. The emergence of solitary cooperation is moderated by the way subjects encounter each other again and their other-regarding preferences.",
+  "authors": [
+    {
+      "raw": "Diekmann, Andreas",
+      "family": "Diekmann",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Przepiorka, Wojtek",
+      "family": "Przepiorka",
+      "given": "Wojtek"
+    }
+  ],
+  "authors_text": "Diekmann, Andreas; Przepiorka, Wojtek",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sov107",
+  "doi_url": "https://doi.org/10.1093/sf/sov107",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov107",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov107.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

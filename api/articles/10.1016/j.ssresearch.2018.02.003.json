@@ -1,0 +1,35 @@
+{
+  "title": "Mothers' work patterns and Children's cognitive achievement: Evidence from the India Human Development survey",
+  "abstract": "As female labor force participation increases globally, the relationship between maternal employment and children's development remains unclear. Using data from the India Human Development Survey (2005), we investigate the link between maternal employment and children's arithmetic and reading achievement. We develop a work pattern typology that goes beyond standard measures of employment and captures work intensity and its compatibility with child-rearing in a transitional economy. We find that the relationship between maternal employment and children's outcomes is not unidimensional. For example, children of self-employed mothers are not disadvantaged compared to those with stay-at-home mothers, but maternal employment in salaried jobs or wage work outside the home is negatively associated with cognitive skills in children. However, this negative association is reversed at higher levels of maternal education, suggesting greater access to resources and flexibility associated with better jobs mitigate the negative aspects of maternal employment posed by time constraints. Additionally, maternal employment is associated with maternal involvement in schoolwork and financial investment in academic activities, providing evidence that both time and resources devoted to children's education are significant.",
+  "authors": [
+    {
+      "raw": "Vikram, Kriti",
+      "family": "Vikram",
+      "given": "Kriti"
+    },
+    {
+      "raw": "Chen, Feinian",
+      "family": "Chen",
+      "given": "Feinian"
+    },
+    {
+      "raw": "Desai, Sonalde",
+      "family": "Desai",
+      "given": "Sonalde"
+    }
+  ],
+  "authors_text": "Vikram, Kriti; Chen, Feinian; Desai, Sonalde",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.02.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.02.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.02.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.02.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

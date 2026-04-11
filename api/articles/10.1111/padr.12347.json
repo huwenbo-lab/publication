@@ -1,0 +1,30 @@
+{
+  "title": "How Do Education and Family Planning Accelerate Fertility Decline?",
+  "abstract": "Education and family planning can both be influenced by policy and are thought to accelerate fertility decline. However, questions remain about the nature of these effects. Does the effect of education operate through increasing educational attainment of women or educational enrollment of children? At which educational level is the effect strongest? Does the effect of family planning operate through increasing contraceptive prevalence or reducing unmet need? Is education or family planning more important? We assessed the quantitative impact of education and family planning in high-fertility settings using a regression framework inspired by Granger causality. We found that women's attainment of lower secondary education is key to accelerating fertility decline and found an accelerating effect of contraceptive prevalence for modern methods. We found the impact of contraceptive prevalence to be substantially larger than that of education. These accelerating effects hold in sub-Saharan Africa, but with smaller effect sizes there than elsewhere.",
+  "authors": [
+    {
+      "raw": "Liu, Daphne H.",
+      "family": "Liu",
+      "given": "Daphne H."
+    },
+    {
+      "raw": "Raftery, Adrian E.",
+      "family": "Raftery",
+      "given": "Adrian E."
+    }
+  ],
+  "authors_text": "Liu, Daphne H.; Raftery, Adrian E.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2020,
+  "doi": "10.1111/padr.12347",
+  "doi_url": "https://doi.org/10.1111/padr.12347",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12347",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12347.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

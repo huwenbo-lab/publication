@@ -1,0 +1,35 @@
+{
+  "title": "Steeper at the top: cognitive ability and earnings in Finland and Norway",
+  "abstract": "We document a convex relationship between earnings rank and cognitive ability for men in Finland and Norway using administrative data on over 350,000 men in each country: the top earnings percentile score on average 1 standard deviation higher than median earners, while median earners score about 0.5 standard deviation higher than the bottom percentile of earners. Top earners also have substantially less variation in cognitive test scores. While some high-scoring men are observed to have very low earnings, the lowest cognitive scores are almost absent among the top earners. Overall, the joint distribution of earnings rank and ability is very similar in Finland and Norway. We find that the slope of the ability curve across earnings ranks is steepest in the upper tail, as is the slope of the earnings curve across cognitive ability. The steep slope of the ability curve across the top earnings percentiles differs markedly from the flat or declining slope recently reported for Sweden.",
+  "authors": [
+    {
+      "raw": "Bratsberg, Bernt",
+      "family": "Bratsberg",
+      "given": "Bernt"
+    },
+    {
+      "raw": "Rogeberg, Ole",
+      "family": "Rogeberg",
+      "given": "Ole"
+    },
+    {
+      "raw": "Tervio, Marko",
+      "family": "Tervio",
+      "given": "Marko"
+    }
+  ],
+  "authors_text": "Bratsberg, Bernt; Rogeberg, Ole; Tervio, Marko",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcae020",
+  "doi_url": "https://doi.org/10.1093/esr/jcae020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

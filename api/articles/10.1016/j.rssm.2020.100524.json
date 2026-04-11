@@ -1,0 +1,30 @@
+{
+  "title": "Inequality in learning opportunities during Covid-19: Evidence from library takeout",
+  "abstract": "Research shows that Covid-19 enhanced inequality in families' learning environments. We use register data from Denmark to analyze inequality in families' takeout of digital children's books from public libraries. Our register data, which include more than 55 million observations of families' daily library takeout, show that the socio-economic gradient in library takeout (by parents' education and income) that existed before the Covid-19 lockdown increased after the lockdown. We also find that the increase in the socioeconomic gradient during Covid-19 was weaker in immigrant than in native families, stronger in families with recent experience in taking out digital materials from the library, and stronger in families with children in the early stages of elementary school. Overall, our results suggest that Covid-19 increased inequality in learning opportunities because better off families were more successful at using libraries during the pandemic than worse off families.",
+  "authors": [
+    {
+      "raw": "Jaeger, Mads Meier",
+      "family": "Jaeger",
+      "given": "Mads Meier"
+    },
+    {
+      "raw": "Blaabaek, Ea Hoppe",
+      "family": "Blaabaek",
+      "given": "Ea Hoppe"
+    }
+  ],
+  "authors_text": "Jaeger, Mads Meier; Blaabaek, Ea Hoppe",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100524",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100524",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100524",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100524.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

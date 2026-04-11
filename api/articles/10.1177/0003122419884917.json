@@ -1,0 +1,25 @@
+{
+  "title": "The Moral Limits of Predictive Practices: The Case of Credit-Based Insurance Scores",
+  "abstract": "Corporations gather massive amounts of personal data to predict how individuals will behave so that they can profitably price goods and allocate resources. This article investigates the moral foundations of such increasingly prevalent market practices. I leverage the case of credit scores in car insurance pricing-an early and controversial use of algorithmic prediction in the U.S. consumer economy-to unpack the premise that predictive data are fair to use and to understand the conditions under which people are likely to challenge that moral logic. Policymaker resistance to credit-based insurance scores reveals that contention arises when predictions depend on mathematical distinctions that do not align with broader understandings of good and bad behavior, and when theories about why predictions work point to the market holding people accountable for actions that are not really their fault. Via a de-commensuration process, policymakers realign the market with their own notions of moral deservingness. This article thus demonstrates the importance of causal understanding and moral categorization for people accepting markets as fair. As data and analytics permeate markets of all sorts, as well as other domains of social life, these findings have implications for how social scientists understand the novel forms of stratification that result.",
+  "authors": [
+    {
+      "raw": "Kiviat, Barbara",
+      "family": "Kiviat",
+      "given": "Barbara"
+    }
+  ],
+  "authors_text": "Kiviat, Barbara",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419884917",
+  "doi_url": "https://doi.org/10.1177/0003122419884917",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419884917",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419884917.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Parents’ Union Dissolution and Adolescents’ School Performance: Comparing Methodological Approaches",
+  "abstract": "We use data from the National Longitudinal Study of Adolescent Health and the Adolescent Health and Academic Achievement Study to estimate how parents’ union dissolution influences changes in adolescents’ mathematics course work gains, overall grade point average, and course failure rates during a window of approximately 1 year (N =2,629). A primary purpose of this study is demonstrating the utility of propensity score matching techniques for studying topics such as ours that pose methodological challenges such as dealing with endogeneity and selection bias. We compare propensity score matching techniques to ordinary least squares (OLS) regression methods to show and discuss comparability of results obtained using these different procedures. Findings suggest that associations between parents’ union dissolution and achievement may be causal, regardless of method used.",
+  "authors": [
+    {
+      "raw": "Frisco, Michelle L.",
+      "family": "Frisco",
+      "given": "Michelle L."
+    },
+    {
+      "raw": "Muller, Chandra",
+      "family": "Muller",
+      "given": "Chandra"
+    },
+    {
+      "raw": "Frank, Kenneth",
+      "family": "Frank",
+      "given": "Kenneth"
+    }
+  ],
+  "authors_text": "Frisco, Michelle L.; Muller, Chandra; Frank, Kenneth",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2007,
+  "doi": "10.1111/j.1741-3737.2007.00402.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2007.00402.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2007.00402.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2007.00402.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

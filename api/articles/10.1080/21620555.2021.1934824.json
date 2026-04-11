@@ -1,0 +1,30 @@
+{
+  "title": "Linked through the life course: core family members' infection, COVID-19 illness severity, and the moderating role of age",
+  "abstract": "This study adopts a family life course perspective to explore the health implications of intrafamilial transmission of COVID-19, asking whether the positive diagnosis of specific core family members (i.e., spouse, parents, children) exacerbates COVID-19 patients' illness severity and whether this impact varies by patients' age or life-course stage. We draw on patient-level administrative data from the cities of Jinan and Shenzhen in China, where all COVID-19 patients were immediately hospitalized upon diagnosis. Using survival modeling, we found that having a spouse who is also infected with COVID-19 is predictive of significantly extended hospital stay, an effect that is stronger for older patients than for younger ones. Additionally, having an infected parent-although not child-is also associated with lengthened hospital stay, and younger patients experience significantly worse outcomes from parental-child tie infection. These results are congruent with the existing literature that expects negative consequences of family members' illness on one's own health. They also call for more theorizing on the evolving relationship between various forms of family connectedness and health over life-course processes.",
+  "authors": [
+    {
+      "raw": "Yan, Xuewen",
+      "family": "Yan",
+      "given": "Xuewen"
+    },
+    {
+      "raw": "Qu, Tianyao",
+      "family": "Qu",
+      "given": "Tianyao"
+    }
+  ],
+  "authors_text": "Yan, Xuewen; Qu, Tianyao",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1080/21620555.2021.1934824",
+  "doi_url": "https://doi.org/10.1080/21620555.2021.1934824",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2021.1934824",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2021.1934824.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

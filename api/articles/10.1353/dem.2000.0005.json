@@ -1,0 +1,30 @@
+{
+  "title": "The mechanisms mediating the effects of poverty on children’s intellectual development",
+  "abstract": "AbstractAlthough adverse consequences of poverty for children are documented widely, little is understood about the mechanisms through which the effects of poverty disadvantage young children. In this analysis we investigate multiple mechanisms through which poverty affects a child’s intellectual development. Using data from the NLSY and structural equation models, we have constructed five latent factors (cognitive stimulation, parenting style, physical environment, child’s ill health at birth, and ill health in childhood) and have allowed these factors, along with child care, to mediate the effects of poverty and other exogenous variables. We produce two main findings. First, the influence of family poverty on children’s intellectual development is mediated completely by the intervening mechanisms measured by our latent factors. Second, our analysis points to cognitive stimulation in the home, and (to a lesser extent) to parenting style, physical environment of the home, and poor child health at birth, as mediating factors that are affected by lack of income and that influence children’s intellectual development.",
+  "authors": [
+    {
+      "raw": "Guo, Guang",
+      "family": "Guo",
+      "given": "Guang"
+    },
+    {
+      "raw": "Harris, Kathleen Mullan",
+      "family": "Harris",
+      "given": "Kathleen Mullan"
+    }
+  ],
+  "authors_text": "Guo, Guang; Harris, Kathleen Mullan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.1353/dem.2000.0005",
+  "doi_url": "https://doi.org/10.1353/dem.2000.0005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2000.0005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2000.0005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

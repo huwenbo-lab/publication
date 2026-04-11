@@ -1,0 +1,25 @@
+{
+  "title": "The Next 2 Billion: Can the World Support 10 Billion People?",
+  "abstract": "The UN projects that world population will peak at 10.3 billion in 2084, a 2.1 billion increase from 2024. Can the world provide food, water, and other resources to 10.3 billion people? How will additional population exacerbate resource challenges and worsen climate change? This paper analyzes these questions by looking at the last 60 years and by simulating the future impact of population growth and rising incomes on food, water, energy, and CO2 emissions. Looking back, food production has increased faster than the population in all regions, and we have not experienced significant shortages in nonrenewable resources. The history of water and CO2 emissions is less encouraging, however, with declining water levels in many aquifers and global warming threatening to undermine progress in all areas. Looking forward, population growth will be concentrated in poor countries, while rich countries, with higher consumption levels and emissions, will experience population decline. Population growth is projected to significantly increase demand for food and water in coming decades but is projected to have only modest impacts on energy and CO2, with population decline in high-emission higher income countries more than offsetting the impact of population growth in low-emission lower-income countries.",
+  "authors": [
+    {
+      "raw": "Lam, David",
+      "family": "Lam",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Lam, David",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.12685",
+  "doi_url": "https://doi.org/10.1111/padr.12685",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12685",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12685.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

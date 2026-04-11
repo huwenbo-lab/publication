@@ -1,0 +1,30 @@
+{
+  "title": "Fight, flight or friction? The effect of population density on general trust in China",
+  "abstract": "Population density affects human behavior. A dense population has been shown to exacerbate impulses such as, fight (aggression stimulated by crowding) or flight (withdrawal from social life for escape). This paper explores the impact of population density on the level of generalized trust that lies in China, a topic understated by extant empirical studies so far. Drawing data from Chinese General Social Survey (2010-2013), we attempt to examine the density-trust link. China provides a context-specific case because: (1) the narrow radius of generalized trust (people's notion of most people is more in-group connoted than out-group connoted) derived from Confucian tradition decreases the probability of interacting with out-group members, suggesting that both fight and flight that rely on out-group interactions have little effect in this context, and (2) hukou (household registration) restrictions force rural-to-urban migrants into the secondary labor market, leading to social segregation producing distrust in cities. The results of hierarchical models on data from 17,331 individuals and panel models on data from four waves of 114 counties both revealed that (1) population density negatively predicts the level of generalized trust among urban residents and (2) it is friction, or occupational segregation by hukou restrictions, that mediates the density-trust relation, neither fight nor flight does.",
+  "authors": [
+    {
+      "raw": "Chen, Yunsong",
+      "family": "Chen",
+      "given": "Yunsong"
+    },
+    {
+      "raw": "Ju, Guodong",
+      "family": "Ju",
+      "given": "Guodong"
+    }
+  ],
+  "authors_text": "Chen, Yunsong; Ju, Guodong",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1080/21620555.2023.2213431",
+  "doi_url": "https://doi.org/10.1080/21620555.2023.2213431",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2023.2213431",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2023.2213431.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

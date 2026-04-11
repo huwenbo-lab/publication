@@ -1,0 +1,30 @@
+{
+  "title": "When Environmental Inequality Racialized: Historical Evidence from Providence, Rhode Island",
+  "abstract": "The authors use multiple logistic regression techniques to investigate whether individuals’ occupation, nativity, race, and ethnicity predict residential proximity to large-scale energy infrastructure in Providence, Rhode Island, in 1880 and 1930. Results indicate that in 1880, environmental risks associated with urban energy infrastructure fell most heavily on working-class immigrants; by 1930, those risks disproportionately affected the city’s small population of African American and Latinx residents. Across this 50-year span, environmental inequality racialized such that Providence’s gas lines effectively came to describe the city’s sharpening color line. The article concludes with a discussion of how a historical perspective can help clarify the dynamic relationship between environmental risk and urbanization in the (re)production of racial, ethnic, and economic inequality.",
+  "authors": [
+    {
+      "raw": "Frickel, Scott",
+      "family": "Frickel",
+      "given": "Scott"
+    },
+    {
+      "raw": "Tollefson, Jonathan",
+      "family": "Tollefson",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Frickel, Scott; Tollefson, Jonathan",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221127541",
+  "doi_url": "https://doi.org/10.1177/23780231221127541",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221127541",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221127541.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

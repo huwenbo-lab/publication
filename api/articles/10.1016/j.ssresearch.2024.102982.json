@@ -1,0 +1,35 @@
+{
+  "title": "The intergenerational transmission of risk and trust attitudes: Replicating and extending Dohmen, Falk, Huffman and Sunde 2012 using genetically informed twin data",
+  "abstract": "This replication revisits an influential contribution on the intergenerational transmission of risk and trust attitudes, which, based on data from the German Socioeconomic Panel (GSOEP), reveals a positive correlation between parents' and children's attitudes. The authors of the original study argue that socialization in the family is important in the transmission process. The replication is motivated by mounting evidence indicating that within-family transmission has a considerable genetic component, which calls into question socialization as the main transmission pathway. To consider genetic transmission in addition to social transmission, the replication relies on the German twin family panel TwinLife. The findings reveal that, first, most of the variation in children's risk and social trust attitudes is attributable to differences in the non-shared environment, followed by genetic differences, whereas differences in the shared family environment - the main candidate for social transmission - do not matter. Second, correlations between parents' and children's attitudes essentially involve genetic similarity. Third, family conditions do not moderate these relationships. Thus, the findings do not support the socialization assumption.",
+  "authors": [
+    {
+      "raw": "Spoerlein, Christoph",
+      "family": "Spoerlein",
+      "given": "Christoph"
+    },
+    {
+      "raw": "Kristen, Cornelia",
+      "family": "Kristen",
+      "given": "Cornelia"
+    },
+    {
+      "raw": "Schmidt, Regine",
+      "family": "Schmidt",
+      "given": "Regine"
+    }
+  ],
+  "authors_text": "Spoerlein, Christoph; Kristen, Cornelia; Schmidt, Regine",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.102982",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.102982",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.102982",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.102982.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

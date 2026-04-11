@@ -1,0 +1,30 @@
+{
+  "title": "Between rivalry and support: The impact of sibling composition on infant and child mortality in Taiwan, 1906-1945",
+  "abstract": "BACKGROUND Many studies have neglected family processes that take place in more complex households in non-Western societies, while the position in the sibling set of a given person in these societies may be an important factor for determining infant and child mortality risks. OBJECTIVE This article addresses the association of sibling composition with infant and child mortality between the ages of 0 and 5 in Taiwan in the period 1906-1945. Furthermore, the article takes into account regional differences that may affect the impact of the sibling composition on mortality risks. METHODS The Taiwan Historical Household Register Database (THHRD) is analysed by using univariate and Cox proportional hazard analyses. By doing so, the changing household composition over time is taken into account. RESULTS The presence of siblings close in age (younger or up to 5 years older) of either sex, and the presence of same-sex siblings in general, increased mortality risks for male and female infants and children. In addition, the presence of non-adopted and adopted sisters over the age of 5 decreased male infant mortality risks, while the presence of non-adopted brothers over the age of 5 decreased child mortality risks for girls. Limited regional differences in sibling effects are observed. CONTRIBUTION The presence and gender of siblings is not the only important factor in resource dilution in terms of how it influences mortality risks. The age and adoption status of siblings seems to be just as important in determining whether siblings compete for similar resources or are actually able to provide support.",
+  "authors": [
+    {
+      "raw": "Riswick, Tim",
+      "family": "Riswick",
+      "given": "Tim"
+    },
+    {
+      "raw": "Hsieh, Ying-Hui",
+      "family": "Hsieh",
+      "given": "Ying-Hui"
+    }
+  ],
+  "authors_text": "Riswick, Tim; Hsieh, Ying-Hui",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.21",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.21",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.21",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.21.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

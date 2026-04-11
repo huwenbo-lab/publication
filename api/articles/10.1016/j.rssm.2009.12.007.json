@@ -1,0 +1,30 @@
+{
+  "title": "Social inequality of reading literacy A longitudinal analysis with cross-sectional data of PIRLS 2001 and PISA 2000 utilizing the pair wise matching procedure",
+  "abstract": "In accordance to Boudon's structural-individualistic action model, it is the aim of this paper to investigate the casual effects of individual abilities, resources of the parental home, socially selective educational transitions as well as teaching and learning conditions in schools on the development of reading literacy and its dispersion in respect of social origin. It is assumed that the socially selective transition into the secondary school tracks contributes to the general deterioration of the mean reading literacy when controlling for social origin and individual achievement. The socially selective transition from primary to secondary school contributes to the increase of social inequality of reading literacy existing already since the start of the pupils' schooling. Since it is not possible to isolate these causes with comparative-static cross-sectional data like PIRLS or PISA empirically, we use a design of generating quasi-longitudinal data with three time references, namely reading literacy at the point of enrolment into elementary school, at the age of 9-10 years, and at the age of 15 years by the pair wise matching of synthetic twins with identical status criteria. The empirical analysis of the German data of PISA 2000 and PIRLS 2001 confirm the effects of the individual abilities depending on social origin, the social selectivity of transition into the secondary schools, the sorting and selection performances of the school system, the allocation of children into different learning contexts, and the schooling of both the individual development of reading competences and the social inequality of reading literacy. (C) 2010 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Schubert, Frank",
+      "family": "Schubert",
+      "given": "Frank"
+    },
+    {
+      "raw": "Becker, Rolf",
+      "family": "Becker",
+      "given": "Rolf"
+    }
+  ],
+  "authors_text": "Schubert, Frank; Becker, Rolf",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2010,
+  "doi": "10.1016/j.rssm.2009.12.007",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2009.12.007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2009.12.007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2009.12.007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

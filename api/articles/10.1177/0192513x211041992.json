@@ -1,0 +1,35 @@
+{
+  "title": "Loneliness Among Chinese Older Adults: The Role of Grandparenthood and Grandparental Childcare by Gender",
+  "abstract": "This study examines the influence of grandparenthood and grandparental childcare on loneliness among Chinese older adults. Using longitudinal data from a nationally representative sample of 9240 individuals from the China Health and Retirement Longitudinal Study (CHARLS), we applied logistic regression to examine the relationship between various grandparental statuses and loneliness with a focus on gender. The grandparental role is a protective factor for loneliness. Providing care to grandchildren was associated with a lower likelihood of feeling lonely for both genders. Among grandmothers, the benefit of providing childcare is less when it is occasional. Among grandfathers, the benefit is less when it is regular and intensive. Regarding transitions in grandparental status, gender differences were only observed among those who recently entered the caregiving role. Given the increasing reliance on grandparents for childcare in China, this engagement in active aging is beneficial for older adults in reducing loneliness.",
+  "authors": [
+    {
+      "raw": "Zhang, Jing",
+      "family": "Zhang",
+      "given": "Jing"
+    },
+    {
+      "raw": "Fokkema, Tineke",
+      "family": "Fokkema",
+      "given": "Tineke"
+    },
+    {
+      "raw": "Arpino, Bruno",
+      "family": "Arpino",
+      "given": "Bruno"
+    }
+  ],
+  "authors_text": "Zhang, Jing; Fokkema, Tineke; Arpino, Bruno",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2022,
+  "doi": "10.1177/0192513x211041992",
+  "doi_url": "https://doi.org/10.1177/0192513x211041992",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x211041992",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x211041992.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

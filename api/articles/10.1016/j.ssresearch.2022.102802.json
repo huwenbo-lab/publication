@@ -1,0 +1,30 @@
+{
+  "title": "Comparing logit & probit coefficients between nested models",
+  "abstract": "Social scientists are often interested in seeing how the estimated effects of variables change once other variables are controlled for. For example, a simple analysis may reveal that income differs by race - but why does it differ? To answer such a question, a researcher might estimate a model where race is the only independent variable, and then add variables such as education to subsequent models. If the original estimated effect of race declines, this may be because race affects education, which in turn affects income. What is not universally realized is that the interpretation of such nested models can be problematic when logit or probit techniques are employed with binary dependent variables. Naive comparisons of coefficients between models can indicate differences where none exist, hide differences that do exist, and even show differences in the opposite direction of what actually exists. We discuss why problems occur and illustrate their potential consequences. Proposed solutions, such as Linear Probability Models, Y-standardization, the Karlson/Holm/Breen method, and marginal effects, are explained and evaluated.",
+  "authors": [
+    {
+      "raw": "Williams, Richard",
+      "family": "Williams",
+      "given": "Richard"
+    },
+    {
+      "raw": "Jorgensen, Abigail",
+      "family": "Jorgensen",
+      "given": "Abigail"
+    }
+  ],
+  "authors_text": "Williams, Richard; Jorgensen, Abigail",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2022.102802",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102802",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102802",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102802.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Disparities in Subjective Wellbeing: Political Status, Urban-Rural Divide, and Cohort Dynamics in China",
+  "abstract": "This paper investigates disparities in subjective wellbeing in China by analyzing the Chinese General Social Survey (2003-2015). Our hierarchical age-period-cohort models reveal how Chinese Communist Party membership, the urban-rural divide, and cohort differences have jointly shaped levels of happiness. Interestingly, the significance of political status in shaping happiness varies profoundly across birth cohorts and locations of residence. In earlier cohorts (1910-1948), Communist Party members in rural areas have a considerable advantage over nonmembers, but this advantage gradually diminishes later, except the 1977-1985 cohort. The advantage of urban party membership keeps increasing up to the cohort born during 1957-1965 but declines rapidly after that. Findings suggest that in the planned economy, political status plays a central role in promoting subjective wellbeing especially in urban China; the transition to a market economy in post-Mao China has reduced political disparities among younger cohorts, mainly for urban residents.",
+  "authors": [
+    {
+      "raw": "Zhang, Tony Huiquan",
+      "family": "Zhang",
+      "given": "Tony Huiquan"
+    },
+    {
+      "raw": "Hu, Jing",
+      "family": "Hu",
+      "given": "Jing"
+    },
+    {
+      "raw": "Zhang, Xichao",
+      "family": "Zhang",
+      "given": "Xichao"
+    }
+  ],
+  "authors_text": "Zhang, Tony Huiquan; Hu, Jing; Zhang, Xichao",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1080/21620555.2019.1654369",
+  "doi_url": "https://doi.org/10.1080/21620555.2019.1654369",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2019.1654369",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2019.1654369.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

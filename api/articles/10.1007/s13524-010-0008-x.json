@@ -1,0 +1,35 @@
+{
+  "title": "Disability Among Native-born and Foreign-born Blacks in the United States",
+  "abstract": "Abstract Using the 5% Public Use Micro Data Sample (PUMS) from the 2000 U.S. census, we examine differences in disability among eight black subgroups distinguished by place of birth and Hispanic ethnicity. We found that all foreign-born subgroups reported lower levels of physical activity limitations and personal care limitations than native-born blacks. Immigrants from Africa reported lowest levels of disability, followed by non-Hispanic immigrants from the Caribbean. Sociodemographic characteristics and timing of immigration explained the differences between these two groups. The foreign-born health advantage was most evident among the least-educated except among immigrants from Europe/Canada, who also reported the highest levels of disability among the foreign-born. Hispanic identification was associated with poorer health among both native-born and foreign-born blacks.",
+  "authors": [
+    {
+      "raw": "Elo, Irma T.",
+      "family": "Elo",
+      "given": "Irma T."
+    },
+    {
+      "raw": "Mehta, Neil K.",
+      "family": "Mehta",
+      "given": "Neil K."
+    },
+    {
+      "raw": "Huang, Cheng",
+      "family": "Huang",
+      "given": "Cheng"
+    }
+  ],
+  "authors_text": "Elo, Irma T.; Mehta, Neil K.; Huang, Cheng",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-010-0008-x",
+  "doi_url": "https://doi.org/10.1007/s13524-010-0008-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-010-0008-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-010-0008-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

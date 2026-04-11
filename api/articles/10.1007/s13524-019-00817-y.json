@@ -1,0 +1,30 @@
+{
+  "title": "The Segregation of Opportunity: Social and Financial Resources in the Educational Contexts of Lower- and Higher-Income Children, 1990-2014",
+  "abstract": "This article provides a rich longitudinal portrait of the financial and social resources available in the school districts of high- and low-income students in the United States from 1990 to 2014. Combining multiple publicly available data sources for most school districts in the United States, we document levels and gaps in school district financial resources-total per-pupil expenditures-and social resources-local rates of adult educational attainment, family structure, and adult unemployment-available to the average public school student at a variety of income levels over time. In addition to using eligibility for the National School Lunch Program as a blunt measure of student income, we estimate resource inequalities between income deciles to analyze resource gaps between affluent and poor children. We then examine the relationship between income segregation and resource gaps between the school districts of high- and low-income children. In previous work, the social context of schooling has been a theoretical but unmeasured mechanism through which income segregation may operate to create unequal opportunities for children. Our results show large and, in some cases, growing social resource gaps in the districts of high- and low-income students nationally and provide evidence that these gaps are exacerbated by income segregation. Conversely, per-pupil funding became more compensatory between high- and low-income students' school districts over this period, especially in highly segregated states. However, there are early signs of reversal in this trend. The results provide evidence that school finance reforms have been somewhat effective in reducing the consequences of income segregation on funding inequities, while inequalities in the social context of schooling continue to grow.",
+  "authors": [
+    {
+      "raw": "Bischoff, Kendra",
+      "family": "Bischoff",
+      "given": "Kendra"
+    },
+    {
+      "raw": "Owens, Ann",
+      "family": "Owens",
+      "given": "Ann"
+    }
+  ],
+  "authors_text": "Bischoff, Kendra; Owens, Ann",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00817-y",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00817-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00817-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00817-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

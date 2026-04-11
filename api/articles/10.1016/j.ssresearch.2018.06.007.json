@@ -1,0 +1,40 @@
+{
+  "title": "Agency and social constraint among victims of domestic minor sex trafficking: A method for measuring free will",
+  "abstract": "Human agency has been a focus of philosophical and sociological concern from early debates about free will to recent themes in poststructuralism. Debates over the proper understanding of structure, agency, and constraint are hindered by the fact that few if any empirical measures of these concepts have been proposed. As sociologists have long recognized, the total results of the decisions of a group's members can be viewed as a distribution, and parameters can be fit to obtain a description of observed distributions. Here we propose the use of negative binomial curve to model population survival outcomes, and suggest that the parameters of such a curve represent reasonable surrogates for measures of agency, opportunity, and constraint when the decision process can be thought of as akin to a Bernoulli process. To provide an illustration of this approach, we discuss participation of legal minors in commercial sex (commonly referred to as victims of domestic minor sex trafficking (VDMST) or commercially sexually exploited children (CSEC)). In popular and advocacy-based accounts, considerable focus has been placed on the relative powerlessness of female VDMST. Using the proposed modeling technique, we test the extent to which male versus female VDMST appear to possess greater agency (or function under more limiting constraint) when deciding whether to remain in sex work or leave the life. Contrary to existing literature, our results indicate that male and female underage sex workers are experiencing similar levels of agency, and differ mainly in opportunity, and constraint. Other individual circumstances are shown to contribute to varying levels of agency and constraint among sex workers, including street work status, community trouble, drug use, and the availability of an alternative income.",
+  "authors": [
+    {
+      "raw": "Khan, Bilal",
+      "family": "Khan",
+      "given": "Bilal"
+    },
+    {
+      "raw": "Lee, Hsuan-Wei",
+      "family": "Lee",
+      "given": "Hsuan-Wei"
+    },
+    {
+      "raw": "Thrash, Courtney R.",
+      "family": "Thrash",
+      "given": "Courtney R."
+    },
+    {
+      "raw": "Dombrowski, Kirk",
+      "family": "Dombrowski",
+      "given": "Kirk"
+    }
+  ],
+  "authors_text": "Khan, Bilal; Lee, Hsuan-Wei; Thrash, Courtney R.; Dombrowski, Kirk",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.06.007",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.06.007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.06.007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.06.007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

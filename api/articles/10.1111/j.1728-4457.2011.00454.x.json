@@ -1,0 +1,30 @@
+{
+  "title": "Population Momentum Across the Demographic Transition",
+  "abstract": "Population momentum is the main driver of global population growth today, and this makes an appreciation of momentum critical to understanding contemporary worldwide growth dynamics. This article traces population momentum along with two recently defined measures of momentum decomposedstable and nonstable momentumacross the demographic transition. We use historical data and population projections from 16 countries to illustrate some previously ignored empirical regularities of the demographic transition in both the developed and the developing world. We also demonstrate the dynamic nature of stable and nonstable momentum, as changes in stable momentum lead to predictable changes in current and future nonstable momentum. These results suggest that momentum, which by definition is measured at a point in time, can also be considered as a process that unfolds over time.",
+  "authors": [
+    {
+      "raw": "Blue, Laura",
+      "family": "Blue",
+      "given": "Laura"
+    },
+    {
+      "raw": "Espenshade, Thomas J.",
+      "family": "Espenshade",
+      "given": "Thomas J."
+    }
+  ],
+  "authors_text": "Blue, Laura; Espenshade, Thomas J.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2011,
+  "doi": "10.1111/j.1728-4457.2011.00454.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2011.00454.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2011.00454.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2011.00454.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

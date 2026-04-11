@@ -1,0 +1,30 @@
+{
+  "title": "The Changing Impact of Family Size on Adolescents’ Schooling: Assessing the Exogenous Variation in Fertility Using Twins in Brazil",
+  "abstract": "Abstract Researchers have long been interested in the influence of family size on children’s educational outcomes. Simply put, theories have suggested that resources are diluted within families that have more children. Although the empirical literature on developed countries has generally confirmed the theoretical prediction that family size is negatively related to children’s education, studies focusing on developing societies have reported heterogeneity in this association. Recent studies addressing the endogeneity between family size and children’s education have also cast doubt on the homogeneity of the negative role of family size on children’s education. The goal of this study is to examine the causal effect of family size on children’s education in Brazil over a 30-year period marked by important social and demographic change, and across extremely different regions within the country. We implement a twin birth instrumental variable approach to the nationally representative 1977–2009 PNAD data. Our results suggest an effect of family size on education that is not uniform throughout a period of significant social, economic, and demographic change. Rather, the causal effect of family size on adolescents’ schooling resembles a gradient that ranges from positive to no effect, trending to negative.",
+  "authors": [
+    {
+      "raw": "Marteleto, Letícia J.",
+      "family": "Marteleto",
+      "given": "Letícia J."
+    },
+    {
+      "raw": "de Souza, Laetícia R.",
+      "family": "de Souza",
+      "given": "Laetícia R."
+    }
+  ],
+  "authors_text": "Marteleto, Letícia J.; de Souza, Laetícia R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0118-8",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0118-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0118-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0118-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

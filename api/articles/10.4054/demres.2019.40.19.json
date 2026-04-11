@@ -1,0 +1,45 @@
+{
+  "title": "Combining population projections with quasi-likelihood models: A new way to predict cancer incidence and cancer mortality in Austria up to 2030",
+  "abstract": "BACKGROUND The current demographic changes with a shift toward older ages contribute to more cancer cases in the next decades in Western countries. Thus, forecasting the demand for expected healthcare services and expenditures is relevant for planning purposes and resource allocation. OBJECTIVE In this study, we provide a new method to estimate future numbers of cancer cases (newly diagnosed cancers and cancer deaths) using Austrian data. METHODS We used 1983-2009 data to estimate cancer burden trends using quasi-Poisson regression models, which we then applied to official population projections up to 2030. Specific regression models were estimated for cancer incidence and mortality, disaggregated by sex and 16 tumor sites. RESULTS The absolute number of cancer cases increased continuously during the last decades in Austria. The trend will also continue in the near future, as the number of newly diagnosed cancers and cancer deaths will increase by +14% and +16% between 2009 and 2030. Age-standardized individual risk of being newly diagnosed with or die from cancer will be substantially lower in 2030 compared to 2009 (-14% and -16%, respectively). CONTRIBUTION Our novel method combining population projections with quasi-likelihood models found a falling individual risk for cancer burden in the Austrian population. However, the absolute number of new cancer cases and deaths will increase due to the aging of the population. These estimates should be considered when planning future healthcare demands.",
+  "authors": [
+    {
+      "raw": "Klotz, Johannes",
+      "family": "Klotz",
+      "given": "Johannes"
+    },
+    {
+      "raw": "Hackl, Monika",
+      "family": "Hackl",
+      "given": "Monika"
+    },
+    {
+      "raw": "Schwab, Markus",
+      "family": "Schwab",
+      "given": "Markus"
+    },
+    {
+      "raw": "Hanika, Alexander",
+      "family": "Hanika",
+      "given": "Alexander"
+    },
+    {
+      "raw": "Haluza, Daniela",
+      "family": "Haluza",
+      "given": "Daniela"
+    }
+  ],
+  "authors_text": "Klotz, Johannes; Hackl, Monika; Schwab, Markus; Hanika, Alexander; Haluza, Daniela",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.19",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

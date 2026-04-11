@@ -1,0 +1,35 @@
+{
+  "title": "Racial Discrimination in Housing: How Landlords Use Algorithms and Home Visits to Screen Tenants",
+  "abstract": "An extensive literature documents racial discrimination in housing, focusing on its prevalence and effect on non-White populations. This article studies how such discrimination operates, and the intermediaries who engage in it: landlords. A fundamental assumption of racial discrimination research is that gatekeepers such as landlords are confronted with a racially heterogeneous applicant pool. The reality of urban housing markets, however, is that historical patterns of residential segregation intersect with other structural barriers to drive selection into the applicant pool, such that landlords are more often selecting between same-race applicants. Using interviews and observations with 157 landlords in four cities, we ask: how do landlords construct their tenants' race within racially segmented housing markets, and how does this factor into their screening processes? We find that landlords distinguish between tenants based on the degree to which their behavior conforms to insidious cultural narratives at the intersection of race, gender, and class. Landlords with large portfolios rely on screening algorithms, whereas mom-and-pop landlords make decisions based on informal mechanisms such as gut feelings, home visits, and the presentation of children. Landlords may put aside certain racial prejudices when they have the right financial incentives, but only when the tenant also defies stereotypes. In this way, landlords' intersectional construction of race-even within a predominantly Black or Latino tenant pool-limits residential options for low-income, subsidized tenants of color, burdening their search process. These findings have implications for how we understand racial discrimination within racially homogenous social spheres. Examining landlords' screening practices offers insight into the role housing plays in how racism continues to shape life outcomes-both explicitly through overt racial bias, and increasingly more covertly, through algorithmic automation and digital technologies.",
+  "authors": [
+    {
+      "raw": "Rosen, Eva",
+      "family": "Rosen",
+      "given": "Eva"
+    },
+    {
+      "raw": "Garboden, Philip M. E.",
+      "family": "Garboden",
+      "given": "Philip M. E."
+    },
+    {
+      "raw": "Cossyleon, Jennifer E.",
+      "family": "Cossyleon",
+      "given": "Jennifer E."
+    }
+  ],
+  "authors_text": "Rosen, Eva; Garboden, Philip M. E.; Cossyleon, Jennifer E.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/00031224211029618",
+  "doi_url": "https://doi.org/10.1177/00031224211029618",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211029618",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211029618.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

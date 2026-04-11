@@ -1,0 +1,30 @@
+{
+  "title": "Diverging trends in female old-age mortality: The United States and the Netherlands versus France and Japan",
+  "abstract": "In the most advanced countries, child mortality and adult mortality under age 65 years have fallen so low that further improvement in life expectancy relies almost completely on the decline of mortality at older ages. This phenomenon is particularly pronounced among women, who are far ahead of men in survival rates. Thus, to project the future of life expectancy, this study focuses on trends in female life expectancy at ages 65 and older. Four countries are selected for this analysis: the United States, Netherlands, France, and Japan. It is particularly interesting to understand why American and Dutch trends in female old-age mortality have been diverging from those in France and Japan for two decades. It is shown here that most of the divergence derives from the fact that decline in cardiovascular mortality is more and more offset by increases in other causes of death in the United States and the Netherlands, while the other two countries are more successful in reducing mortality from all causes at increasingly older ages. This latter phenomenon could represent a new stage of the health transition.",
+  "authors": [
+    {
+      "raw": "Meslé, F",
+      "family": "Meslé",
+      "given": "F"
+    },
+    {
+      "raw": "Vallin, J",
+      "family": "Vallin",
+      "given": "J"
+    }
+  ],
+  "authors_text": "Meslé, F; Vallin, J",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2006,
+  "doi": "10.1111/j.1728-4457.2006.00108.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2006.00108.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2006.00108.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2006.00108.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

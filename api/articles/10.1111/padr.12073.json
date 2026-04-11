@@ -1,0 +1,25 @@
+{
+  "title": "Demographic Determinants of Population Aging in Europe since 1850",
+  "abstract": "On the basis of stable population models and counterfactual population projections, fertility decline has most often been identified as the primary driver of population aging. However, Samuel Preston and co-authors have argued that improvements in cohort survivorship are the most important factor in contemporary societies. I analyze the contributions of fertility, mortality, and net migration to population aging in 11 European countries from the nineteenth century to the present, extending the approach of Preston et al. to include explicit measures of fertility. I find that the overall direct effects of fertility change have been smaller than mortality change, which is responsible for almost all population aging since 1950. While most studies have emphasized the role of fertility transition, the post-World War II baby boom has had, and will continue to have, a major effect on the development of population aging.",
+  "authors": [
+    {
+      "raw": "Murphy, Michael",
+      "family": "Murphy",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Murphy, Michael",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2017,
+  "doi": "10.1111/padr.12073",
+  "doi_url": "https://doi.org/10.1111/padr.12073",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12073",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12073.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

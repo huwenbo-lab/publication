@@ -1,0 +1,30 @@
+{
+  "title": "Attrition in heterogeneous cohorts",
+  "abstract": "In a heterogeneous cohort, the change with age in the force of mortality or some other kind of hazard or intensity of attrition depends on how the hazard changes with age for the individuals in the cohort and on how the composition of the cohort change",
+  "authors": [
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    },
+    {
+      "raw": "Zhang, Zhen",
+      "family": "Zhang",
+      "given": "Zhen"
+    }
+  ],
+  "authors_text": "Vaupel, James W.; Zhang, Zhen",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.23.26",
+  "doi_url": "https://doi.org/10.4054/demres.2010.23.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.23.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.23.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

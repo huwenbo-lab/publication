@@ -1,0 +1,35 @@
+{
+  "title": "Secure but depressed? Welfare participation and mental health in Hong Kong",
+  "abstract": "Using the data from the Hong Kong Panel Study of Social Dynamics (HKPSSD), this study aims to answer the following questions: In a residual welfare state, does welfare participation improve or worsen recipients' mental health? How does the effect differ by gender and across age groups? We adopt the propensity scores matching method and the fixed-effects model to address the endogeneity issues. The results show that participation in the Comprehensive Social Security Assistance (CSSA) increases depression amongst recipients, and the effect differs by gender and age. Only men show higher levels of depression after receiving CSSA. The effect of CSSA participation on depression is greater for older people than for other age groups. The findings suggest that appropriate policies and services should be implemented to eliminate welfare stigma and address welfare recipients' mental health problems.",
+  "authors": [
+    {
+      "raw": "Liu, Mengyu",
+      "family": "Liu",
+      "given": "Mengyu"
+    },
+    {
+      "raw": "Chen, Juan",
+      "family": "Chen",
+      "given": "Juan"
+    },
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    }
+  ],
+  "authors_text": "Liu, Mengyu; Chen, Juan; Wu, Xiaogang",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1080/21620555.2025.2511948",
+  "doi_url": "https://doi.org/10.1080/21620555.2025.2511948",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2025.2511948",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2025.2511948.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

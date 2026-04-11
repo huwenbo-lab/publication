@@ -1,0 +1,40 @@
+{
+  "title": "Decomposition of Differentials in Health Expectancies From Multistate Life Tables: A Research Note",
+  "abstract": "Multistate mod el ing is a com monly used method to com pute healthy life expec tancy. However, there is cur rently no ana lyt i cal method to decom pose the com- ponents of differentials in summary measures calculated from multistate models. In this research note, we pro pose a deriv a tive-based method to decom pose the differ en tials in pop u la tion-based health expec tan cies esti mated via a mul ti state model into two main com po nents: the pro por tion resulting from differ ences in ini tial health struc ture and the pro por tion resulting from dif fer ences in health tran si tions. We illus trate the method using data on activ i ties of daily liv ing from the U.S. Health and Retirement Study to decom pose the sex differ en tial in dis abil ity-free life expec tancy (HLE) among older Amer i cans. Our results sug gest that the sex gap in HLE results pri mar ily from dif fer- ences in tran si tion rates between dis abil ity states rather than from the ini tial health dis tri bu tion of female and male pop u la tions. The meth ods intro duced here will enable researchers, including those working in fields other than health, to decompose the rel- ative contribution of initial population structure and transition probabilities to differ- ences in state -specific life expectancies from multistate models.",
+  "authors": [
+    {
+      "raw": "Shen, Tianyu",
+      "family": "Shen",
+      "given": "Tianyu"
+    },
+    {
+      "raw": "Riffe, Tim",
+      "family": "Riffe",
+      "given": "Tim"
+    },
+    {
+      "raw": "Payne, Collin F.",
+      "family": "Payne",
+      "given": "Collin F."
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Shen, Tianyu; Riffe, Tim; Payne, Collin F.; Canudas-Romo, Vladimir",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-11058373",
+  "doi_url": "https://doi.org/10.1215/00703370-11058373",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11058373",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11058373.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

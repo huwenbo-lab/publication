@@ -1,0 +1,25 @@
+{
+  "title": "Islam and the Transmission of Cultural Identity in Four European Countries",
+  "abstract": "Studies exploring the integration of European immigrants tend to find cultural gaps between Muslim children and their peers. While some scholars argue that parent-to-child transmission is a key mechanism underlying this pattern, others privilege extrafamilial explanations by pointing to differences in cultural values within Muslim households. In the present study, I argue that these mixed results stem from a tendency in the literature to analyze distinct components of personal culture in isolation from cognate dimensions. To address this shortcoming, I use multigroup latent class models to explore how a wide range of attitudes (tapping ethnocultural identity, gender norms, sexual liberalism, and perspectives on integration) are clustered together in disparate regions of the belief space, marking distinct cultural identities. Then, I fit a series of logistic regressions to map how these cultural identities are distributed among immigrant-origin samples in four European countries and transmitted across generational lines. Ultimately, I arrive at the following conclusion: while Muslim youth stand out from their peers vis-& agrave;-vis their cultural identity profiles, there is little evidence to suggest that this pattern is decisively shaped by parent-to-child transmission.",
+  "authors": [
+    {
+      "raw": "Karim, Sakeef M.",
+      "family": "Karim",
+      "given": "Sakeef M."
+    }
+  ],
+  "authors_text": "Karim, Sakeef M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae076",
+  "doi_url": "https://doi.org/10.1093/sf/soae076",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae076",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae076.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

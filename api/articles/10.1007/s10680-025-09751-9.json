@@ -1,0 +1,30 @@
+{
+  "title": "Silver Splits and Parent–Child Disconnectedness: Mental Health Consequences for European Older Adults",
+  "abstract": "Abstract Rising rates of “silver splits” in Europe resemble increases in gray divorce in the U.S. Partnership dissolutions may harm older adults’ mental health, especially for ‘disconnected’ parents who do not receive support from their children. However, researchers have relied primarily on multilevel modeling, neglecting unobserved characteristics that may select an individual into both divorce and parent–child disconnectedness. This brief report addresses this research gap by estimating fixed-effects linear regression models that control for time-invariant confounders. We used data from the Survey of Health, Ageing and Retirement in Europe (SHARE; 2004–2022, N = 2216 observations, 546 silver splits) to document changes in depressive symptoms pre- and post-dissolution and evaluate whether these patterns are moderated by parent–child disconnectedness. Consistent with previous research, we find that depressive symptoms increase steeply in the year of dissolution and remain high four years post-dissolution for parents who are disconnected from their adult child(ren). However, individuals who maintain a relationship with all their child(ren) show stable levels of depressive symptoms throughout the dissolution process, challenging the assumption that dissolution is uniformly distressing. Our results reveal that depressive symptoms trajectories during the period preceding and following a major life event differ across sociorelational contexts. Social programs and supports for divorced older adults should recognize this heterogeneity rather than assuming uniformly negative mental health outcomes.",
+  "authors": [
+    {
+      "raw": "Jessee, Lisa",
+      "family": "Jessee",
+      "given": "Lisa"
+    },
+    {
+      "raw": "Carr, Deborah",
+      "family": "Carr",
+      "given": "Deborah"
+    }
+  ],
+  "authors_text": "Jessee, Lisa; Carr, Deborah",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09751-9",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09751-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09751-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09751-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

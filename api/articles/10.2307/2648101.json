@@ -1,0 +1,40 @@
+{
+  "title": "The new immigrant survey pilot (NIS-P): Overview and new findings about U.S. Legal immigrants at admission",
+  "abstract": "AbstractThis paper provides an overview of the New Immigrant Survey Pilot (NIS-P), a panel survey of a nationally representative sample of new legal immigrants to the United States based on probability samples of administrative records of the U.S. Immigration and Naturalization Service (INS). The NIS-P links survey information about immigrants’ pre- and post-immigration labor market, schooling, and migratory experiences with data available from INS administrative records, including the visa type under which the immigrant was admitted. Results indicate that the procedures followed for locating, interviewing, and reinterviewing respondents yielded representative samples of new legal immigrants and high-quality data. On the basis of data obtained from the first round of the survey, we present new information never before available on the schooling and language skills of new immigrants and their earnings gains from immigration.",
+  "authors": [
+    {
+      "raw": "Jasso, Guillermina",
+      "family": "Jasso",
+      "given": "Guillermina"
+    },
+    {
+      "raw": "Massey, Douglas S.",
+      "family": "Massey",
+      "given": "Douglas S."
+    },
+    {
+      "raw": "Rosenzweig, Mark R.",
+      "family": "Rosenzweig",
+      "given": "Mark R."
+    },
+    {
+      "raw": "Smith, James P.",
+      "family": "Smith",
+      "given": "James P."
+    }
+  ],
+  "authors_text": "Jasso, Guillermina; Massey, Douglas S.; Rosenzweig, Mark R.; Smith, James P.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648101",
+  "doi_url": "https://doi.org/10.2307/2648101",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648101",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648101.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

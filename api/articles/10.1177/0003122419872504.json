@@ -1,0 +1,25 @@
+{
+  "title": "Hearing Gender: Voice-Based Gender Classification Processes and Transgender Health Inequality",
+  "abstract": "This study examines the link between self-rated health and two aspects of gender: an individual's gender identity, and whether strangers classify that person's voice as male or female. In a phone-based general health survey, interviewers classified the sex of transgender women (n = 722) and transgender men (n = 446) based on assumptions they made after hearing respondents' voices. The flawed design of the original survey produced inconsistent sex classification among transgender men and transgender women respondents; this study repurposes these discrepancies to look more closely at the implications of voice-based gender classification for the health of transgender men and women. Average marginal effects from logistic regression models show transgender men who are classified as women based on their voices are more likely to report poor self-rated health compared to transgender men who are classified as men. Conversely, transgender women who are classified as men are less likely to report poor self-rated health than are transgender women who are classified as women. Additionally, Black transgender men are more likely than any other group to be classified inconsistently with their gender identity, suggesting a link between race/ethnicity and gender perception.",
+  "authors": [
+    {
+      "raw": "Lagos, Danya",
+      "family": "Lagos",
+      "given": "Danya"
+    }
+  ],
+  "authors_text": "Lagos, Danya",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419872504",
+  "doi_url": "https://doi.org/10.1177/0003122419872504",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419872504",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419872504.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

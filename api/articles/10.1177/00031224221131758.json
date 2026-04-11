@@ -1,0 +1,30 @@
+{
+  "title": "Homicide and State History",
+  "abstract": "We argue that cross-national variability in homicide rates is strongly influenced by state history. Populations living within a state are habituated, over time, to settling conflicts through regularized, institutional channels rather than personal violence. Because these are gradual and long-term processes, present-day countries composed of citizens whose ancestors experienced a degree of state-ness in previous centuries should experience fewer homicides today. To test this proposition, we adopt an ancestry-adjusted measure of state history that extends back to 0 CE. Cross-country analyses show a sizeable and robust relationship between this index and lower homicide rates. The result holds when using various measures of state history and homicide rates, sets of controls, samples, and estimators. We also find indicative evidence that state history relates to present levels of other forms of personal violence. Tests of plausible mechanisms suggest state history is linked to homicide rates via the law-abidingness of citizens. We find less support for alternative channels such as economic development or current state capacity.",
+  "authors": [
+    {
+      "raw": "Gerring, John",
+      "family": "Gerring",
+      "given": "John"
+    },
+    {
+      "raw": "Knutsen, Carl Henrik",
+      "family": "Knutsen",
+      "given": "Carl Henrik"
+    }
+  ],
+  "authors_text": "Gerring, John; Knutsen, Carl Henrik",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1177/00031224221131758",
+  "doi_url": "https://doi.org/10.1177/00031224221131758",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224221131758",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224221131758.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

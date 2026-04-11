@@ -1,0 +1,30 @@
+{
+  "title": "Health Endowment at Birth and Variation in Intergenerational Economic Mobility: Evidence From US County Birth Cohorts",
+  "abstract": "New estimates of intergenerational economic mobility reveal substantial variation in the spatial distribution of opportunity in the United States. Efforts to explain this variation in economic mobility have conspicuously omitted health despite it being a key pathway for the transmission of economic position across generations. We begin to fill this gap in the literature by examining the relationship between health endowment at birth and intergenerational economic mobility across county birth cohorts in the United States, drawing on estimates from two population-level data sets. Exploiting variation across counties and over time, we find a negative relationship between the incidence of low-weight births and the level of economic mobility as measured in adulthood for the county birth cohorts in our sample. Our results build on a large and growing literature detailing the role of early childhood health in the transmission of economic status across generations and suggest that the incidence of low-weight births is negatively associated with intergenerational economic mobility.",
+  "authors": [
+    {
+      "raw": "Robertson, Cassandra",
+      "family": "Robertson",
+      "given": "Cassandra"
+    },
+    {
+      "raw": "O'Brien, Rourke",
+      "family": "O'Brien",
+      "given": "Rourke"
+    }
+  ],
+  "authors_text": "Robertson, Cassandra; O'Brien, Rourke",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-017-0646-3",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0646-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0646-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0646-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Revisiting the polygyny and intimate partner violence connection: The role of religion and wife's rank in Nigeria",
+  "abstract": "Objective The study examines the association between polygyny and intimate partner violence (IPV) by focusing on the Muslim-vs.-Christian context of polygyny and on co-wives' rank. Background Although prior research points to a higher incidence of IPV in polygynous unions, the association between polygyny and IPV are not well understood. In particular, the role of broader cultural and religious context of marriage and its connection with intra-marital dynamics have not been examined. Method The study uses pooled data on over 42,000 women from the 2008, 2013 and 2018 rounds of the Nigeria Demographic and Health Survey to examine the association of polygynous versus monogamous status of marriage, of Muslim versus Christian religious affiliation, and of co-wife rank within polygynous unions in both religions with women's reported experience of physical, emotional, and sexual IPV. Multivariate logit and propensity score models (PSM) are fitted, and the Rosenbaum bounds test is used to gauge the robustness of PSM results. Results Results show a clear disadvantage of polygynously married women, compared to monogamously married ones; IPV experience is more common among Christians than Muslims. Among women in polygynous marriages, senior wives are more likely to experience IPV than junior wives, but this difference is more pronounced among Christians. Results of a Rosenbaum bounds analysis indicate that unobserved selectivity does not present a challenge to causality between polygyny/wife rank and IPV, particularly when analyses are disaggregated by religion. Conclusion Findings reflect multi-dimensional gender inequalities embedded in the institution of polygynous marriage and their harmful consequences for women's health and well-being.",
+  "authors": [
+    {
+      "raw": "Owoo, Nkechi S.",
+      "family": "Owoo",
+      "given": "Nkechi S."
+    },
+    {
+      "raw": "Agadjanian, Victor",
+      "family": "Agadjanian",
+      "given": "Victor"
+    },
+    {
+      "raw": "M. Chama-Chiliba, Chitalu",
+      "family": "M. Chama-Chiliba",
+      "given": "Chitalu"
+    }
+  ],
+  "authors_text": "Owoo, Nkechi S.; Agadjanian, Victor; M. Chama-Chiliba, Chitalu",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12777",
+  "doi_url": "https://doi.org/10.1111/jomf.12777",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12777",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12777.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

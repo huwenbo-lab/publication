@@ -1,0 +1,30 @@
+{
+  "title": "Trade Unions, Bargaining Coverage and Low Pay: A Multilevel Test of Institutional Effects on Low-Pay Risk in Germany",
+  "abstract": "Employment relations scholars argue that industrial relations institutions reduce low pay among the workforce, while the insider-outsider literature claims that unions contribute to increase the low-pay risk among non-union members. This article tests these expectations by distinguishing, respectively, between the individual effect of being a union member or covered by collective agreements and the sectoral effect of strong trade unions or encompassing collective agreements. Findings from multilevel logistic regression analyses of the German Socio-Economic Panel reveal that unions and bargaining coverage have distinct effects at individual and sectoral level. The analysis of their cross-level interactions provides partial support to both the insider-outsider approach, since non-union members are more exposed to the risk of low pay in highly unionized sectors, and to the power resource perspectives, since the probability of being in low pay in sectors with encompassing collective agreements decreases also for those workers who are not covered by them.",
+  "authors": [
+    {
+      "raw": "Benassi, Chiara",
+      "family": "Benassi",
+      "given": "Chiara"
+    },
+    {
+      "raw": "Vlandas, Tim",
+      "family": "Vlandas",
+      "given": "Tim"
+    }
+  ],
+  "authors_text": "Benassi, Chiara; Vlandas, Tim",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2021,
+  "doi": "10.1177/09500170211024467",
+  "doi_url": "https://doi.org/10.1177/09500170211024467",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170211024467",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170211024467.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

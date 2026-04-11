@@ -1,0 +1,35 @@
+{
+  "title": "Youth poverty and transition to adulthood in Europe",
+  "abstract": "There is an increasing amount of research focussing on the transition to adulthood, a stage of the life cycle where young people face demanding life decisions, including completion of education, finding stable employment, and establishing their household and family. Whereas there is a well-developed literature on poverty among households in general, very little research has focused on poverty among young adults. Using the European Community Household Panel (ECHP) we provide a detailed description of youth poverty in Europe. Across the European Union youth poverty varies greatly, being higher in Southern European countries, as well as in the 'liberal' regimes of the UK and Ireland. However, there are also large variations in the extent of youth poverty within countries, between what we might term \"younger youth\" (aged 16-19) and \"older youth\" aged (25-29). In the UK, poverty rates among \"younger youth\" are much higher than among \"older youth\", suggesting that poverty among young people is closely associated with child poverty. In the Scandinavian countries, poverty peaks dramatically in the early twenties, indicating that in these countries, poverty is associated with leaving home.",
+  "authors": [
+    {
+      "raw": "Aassve, Arnstein",
+      "family": "Aassve",
+      "given": "Arnstein"
+    },
+    {
+      "raw": "Iacovou, Maria",
+      "family": "Iacovou",
+      "given": "Maria"
+    },
+    {
+      "raw": "Mencarini, Letizia",
+      "family": "Mencarini",
+      "given": "Letizia"
+    }
+  ],
+  "authors_text": "Aassve, Arnstein; Iacovou, Maria; Mencarini, Letizia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2006,
+  "doi": "10.4054/demres.2006.15.2",
+  "doi_url": "https://doi.org/10.4054/demres.2006.15.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2006.15.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2006.15.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

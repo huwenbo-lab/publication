@@ -1,0 +1,30 @@
+{
+  "title": "Aging and the rise in bottom income inequality in Korea*",
+  "abstract": "Korea is one of the world's fastest-aging societies, with poverty and low income prevalent among the elderly population. Unlike other advanced economies, where top income inequality has driven the rise in income inequality, fluctuations in income inequality in Korea in recent decades have been dominated by changes in the bottom half of the income distribution. Using data from the 1998-2016 Household Income and Expenditure Survey and the 2012-2019 Survey of Household Finances and Living Conditions, this study explores the extent to which population aging is associated with changes in the top (P90P50) and bottom (P50P10) income inequalities by applying recentered influence function decomposition technique. Our results indicate that population aging, or the compositional change in age distribution, is the largest contributor to the rise in bottom income inequality during the 21st century. Other factors, including the composition and rate effects of education, rate effect of age, and structural changes in labor markets, account for, at most, a small portion of the changes. The implications of these findings are discussed.",
+  "authors": [
+    {
+      "raw": "Kim, ChangHwan",
+      "family": "Kim",
+      "given": "ChangHwan"
+    },
+    {
+      "raw": "Kim, Andrew Taeho",
+      "family": "Kim",
+      "given": "Andrew Taeho"
+    }
+  ],
+  "authors_text": "Kim, ChangHwan; Kim, Andrew Taeho",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2023.100882",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100882",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100882",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100882.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

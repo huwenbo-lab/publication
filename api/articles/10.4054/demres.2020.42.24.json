@@ -1,0 +1,30 @@
+{
+  "title": "Lexis fields",
+  "abstract": "BACKGROUND Lexis surfaces are visualizations designed to show how a given value changes over age and time. Vector fields are two-dimensional representations of two variables: usually direction and speed (or force). OBJECTIVE We aim to increase the dimensionality of patterns shown on the Lexis surface by placing a vector field on the Lexis surface. RESULTS We show Lexis fields of the relationship between life expectancy and the standard deviation of remaining lifespan over age and time. These instruments enable information layering on standard Lexis surfaces that is not common practice. CONTRIBUTION Lexis fields extend the descriptive and analytic power of the Lexis surface, and these can be designed to display information at higher densities than standard Lexis surfaces.",
+  "authors": [
+    {
+      "raw": "Riffe, Tim",
+      "family": "Riffe",
+      "given": "Tim"
+    },
+    {
+      "raw": "Aburto, Jose Manuel",
+      "family": "Aburto",
+      "given": "Jose Manuel"
+    }
+  ],
+  "authors_text": "Riffe, Tim; Aburto, Jose Manuel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.24",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.24",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.24",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.24.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

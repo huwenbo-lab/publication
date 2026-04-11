@@ -1,0 +1,25 @@
+{
+  "title": "Inequality and socio-economic divides in parental transfers to young adults in the United States",
+  "abstract": "Parental transfers of money and co-residence to young-adult children can serve as means of status reproduction. Yet, the relationship between inequality and socio-economic gaps in these forms of parental support has not been studied. Inequality may widen socio-economic differentials in monetary and co-residential transfers, potentially hindering social mobility. I test the association between income inequality and socio-economic divides in parental support to children aged 22-35 in the United States (U.S.), a context where the economic dependence of young adults has increased over decades of high or rising inequality. I link state-level inequality data to longitudinal data on 39,626 parent-child dyads from the Health and Retirement Study (1992-2018). Using state fixed-effects models I investigate how changes in income inequality within states relate to changes in wealth, income, and educational gradients in parental transfers over time. Socio-economic differences in the occurrence and amount of money transfers widen with inequality, as the probability of monetary support decreases among lower-class and lower-educated parents, while the amounts transferred increase among upper-class and higher-educated parents. Moreover, in times of higher inequality, co-residence is more strongly concentrated among lower-class, lower-educated parents. Previous research indicates that receiving money improves labor and housing market outcomes, while co-residence may restrict economic opportunities among young adults from disadvantaged backgrounds. In light of this, my findings suggest that rising U.S. inequality may hinder social mobility by shifting the socio-economic distribution of intergenerational support.",
+  "authors": [
+    {
+      "raw": "Floridi, Ginevra",
+      "family": "Floridi",
+      "given": "Ginevra"
+    }
+  ],
+  "authors_text": "Floridi, Ginevra",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soae148",
+  "doi_url": "https://doi.org/10.1093/sf/soae148",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae148",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae148.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

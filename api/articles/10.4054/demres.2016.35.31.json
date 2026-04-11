@@ -1,0 +1,35 @@
+{
+  "title": "Gendered transitions to adulthood by college field of study in the United States",
+  "abstract": "BACKGROUND Field of study may influence the timing of transitions to the labor market, marriage, and parenthood among college graduates. Research to date has yet to study how field of study is associated with the interweaving of these transitions in the USA. OBJECTIVE The current study examines gendered influences of college field of study on transitions to a series of adult roles, including full-time work, marriage, and parenthood. METHODS We use Cox proportional hazards models and multinomial logistic regression to examine gendered associations between field of study and the three transitions among college graduates of the NLSY97 (National Longitudinal Survey of Youth) cohort. RESULTS Men majoring in STEM achieve early transitions to full-time work, marriage, and parenthood; women majoring in STEM show no significant advantage in finding full-time work and delayed marriage and childbearing; women in business have earlier transitions to full-time work and marriage than women in other fields, demonstrating an advantage similar to that of men in STEM. CONCLUSIONS The contrast between men and women in STEM shows that transition to adulthood remains gendered; the contrast between women in STEM and women in business illustrates that a prestigious career may not necessarily delay family formation. CONTRIBUTION The paper shows how stratification by field of study creates gendered demographic outcomes for college graduates. It also demonstrates that women's decisions regarding marriage and parenthood do not uniformly respond to the economic prospect of their work.",
+  "authors": [
+    {
+      "raw": "Han, Siqi",
+      "family": "Han",
+      "given": "Siqi"
+    },
+    {
+      "raw": "Tumin, Dmitry",
+      "family": "Tumin",
+      "given": "Dmitry"
+    },
+    {
+      "raw": "Qian, Zhenchao",
+      "family": "Qian",
+      "given": "Zhenchao"
+    }
+  ],
+  "authors_text": "Han, Siqi; Tumin, Dmitry; Qian, Zhenchao",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.31",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

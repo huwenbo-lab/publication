@@ -1,0 +1,25 @@
+{
+  "title": "How do relations store histories?",
+  "abstract": "The term intersectionality references the critical insight that race, class, gender, sexuality, ethnicity, nation, ability, and age operate not as unitary, mutually exclusive entities, but rather as reciprocally constructing phenomena. Despite this ...Read More",
+  "authors": [
+    {
+      "raw": "Tilly, C",
+      "family": "Tilly",
+      "given": "C"
+    }
+  ],
+  "authors_text": "Tilly, C",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2000,
+  "doi": "10.1146/annurev.soc.26.1.721",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.26.1.721",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.26.1.721",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.26.1.721.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

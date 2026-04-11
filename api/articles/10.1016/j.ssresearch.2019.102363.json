@@ -1,0 +1,30 @@
+{
+  "title": "Ethnicity, inequality, and perceived electoral fairness",
+  "abstract": "Establishing electoral legitimacy across the population is vital for democratic stability, yet in contrast to other measures of political support, perceived electoral fairness has received scant scholarly attention. Moreover, while research into other measures of political support has shown that they differ by both ethnicity and socio-economic status, no study examines both at once, potentially overlooking important interrelationships between the two variables. This paper combines data from the Ethnic Power Relations project and the World Value Survey to examine respondents' perceptions of electoral fairness according to their ethnic group's access to power, their individual socio-economic status, and the intersection of these two. It finds that one's ethnic group's political status does affect perceived fairness, but that the effect interacts strongly with one's socio-economic status. Poorer members of non-represented ethnic groups have significantly lower perceptions of fairness, while richer members' perceptions do not differ from those of represented groups. The results suggest a levelling effect of socio-economic status on ethnic inequalities.",
+  "authors": [
+    {
+      "raw": "Flesken, Anaid",
+      "family": "Flesken",
+      "given": "Anaid"
+    },
+    {
+      "raw": "Hartl, Jakob",
+      "family": "Hartl",
+      "given": "Jakob"
+    }
+  ],
+  "authors_text": "Flesken, Anaid; Hartl, Jakob",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102363",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102363",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102363",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102363.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

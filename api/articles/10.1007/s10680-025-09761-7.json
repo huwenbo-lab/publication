@@ -1,0 +1,40 @@
+{
+  "title": "Spatial Differences in Avoidable Mortality Across 581 European Districts, 2002–2019",
+  "abstract": "Abstract Despite ongoing efforts to reduce health disparities, substantial mortality differences persist across and within European countries. Avoidable mortality, i.e. deaths preventable through timely medical care or effective public health measures, provides a useful framework for assessing these inequalities. While previous studies largely focus on national differences, this study examines spatial differences and trends in avoidable mortality at the district level. We analysed official cause-of-death statistics for 581 districts across 10 European countries from 2002 to 2019, using age-standardised death rates (SDR) as the primary outcome. Spatiotemporal clusters were identified using emerging hotspot analysis. Our results show that SDRs for avoidable mortality declined across most districts for both sexes, yet marked disparities persist between men and women and between amenable and preventable mortality. Districts in Central and Eastern Europe consistently exhibited higher SDRs than those in Western and Southern Europe, while Germany occupies an intermediate position with particularly high rates for amenable mortality. Spatiotemporal hotspot analysis confirmed these patterns and showed that persistent high-mortality (hotspots) and low-mortality (coldspots) clusters persist, reflecting both substantial within-country inequalities and cohesive cross-border mortality patterns. These findings suggest that national boundaries are not always the most meaningful lines for explaining health outcomes. Instead, local socioeconomic and structural determinants of health play a central role. Persistent hotspots highlight areas where targeted interventions are urgently needed, while coldspots may offer lessons for best practices. Addressing these inequalities requires targeted, place-based, and transnational strategies to effectively reduce health inequalities in Europe.",
+  "authors": [
+    {
+      "raw": "Stroisch, Sophie",
+      "family": "Stroisch",
+      "given": "Sophie"
+    },
+    {
+      "raw": "Mühlichen, Michael",
+      "family": "Mühlichen",
+      "given": "Michael"
+    },
+    {
+      "raw": "Grigoriev, Pavel",
+      "family": "Grigoriev",
+      "given": "Pavel"
+    },
+    {
+      "raw": "Vogt, Tobias",
+      "family": "Vogt",
+      "given": "Tobias"
+    }
+  ],
+  "authors_text": "Stroisch, Sophie; Mühlichen, Michael; Grigoriev, Pavel; Vogt, Tobias",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09761-7",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09761-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09761-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09761-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

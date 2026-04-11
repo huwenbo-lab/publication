@@ -1,0 +1,40 @@
+{
+  "title": "Design and implementation of a high-quality probability sample of immigrants and ethnic minorities: Lessons learnt",
+  "abstract": "BACKGROUND Surveys of immigrants face challenges of coverage, representativeness, and response rates. Longitudinal studies of immigrants and ethnic minorities, which have potential to address pressing issues in demographic research, are rare or partial. In the absence of register data, the highest quality approach is argued to be probability sampling using household screening. OBJECTIVE To describe the design and implementation of a nationally representative probability sample of immigrants and ethnic minorities in the United Kingdom. METHODS We boosted a nationally representative sample by using small-area census data to identify areas that covered the majority of immigrant and target ethnic minority populations and oversampled addresses from those areas using varying sampling fractions. Households were screened for eligibility based on whether they included a target immigrant/ethnic minority member. If so, all adult members were interviewed. RESULTS We anticipated the main challenges would be: fewer eligible households than predicted in sampled areas due to geographical mobility; refusal of those screened to provide information on household eligibility; nonparticipation of eligible households. All these issues were found to some degree. We describe how we addressed them and with what success. CONCLUSIONS A careful design and robust fieldwork practices can enable a two-stage probability sampling to achieve good coverage and a much more representative sample of immigrants and ethnic minorities than with more ad hoc methods. The potential research payoffs are substantial. CONTRIBUTION We demonstrate the potential for careful two-stage sampling on the back of an existing study for creating a high-quality multi-purpose survey of immigrants.",
+  "authors": [
+    {
+      "raw": "Lynn, Peter",
+      "family": "Lynn",
+      "given": "Peter"
+    },
+    {
+      "raw": "Nandi, Alita",
+      "family": "Nandi",
+      "given": "Alita"
+    },
+    {
+      "raw": "Parutis, Violetta",
+      "family": "Parutis",
+      "given": "Violetta"
+    },
+    {
+      "raw": "Platt, Lucinda",
+      "family": "Platt",
+      "given": "Lucinda"
+    }
+  ],
+  "authors_text": "Lynn, Peter; Nandi, Alita; Parutis, Violetta; Platt, Lucinda",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.21",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.21",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.21",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.21.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

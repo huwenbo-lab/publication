@@ -1,0 +1,30 @@
+{
+  "title": "Social Capital in Action: Alignment of Parental Support in Adolescents' Transition to Postsecondary Education",
+  "abstract": "This article examines the effects of social capital in the transition to postsecondary education, in particular, transitions to selective colleges. Refining the theory of social capital with the concept of alignment between parents' and adolescents' goals and actions, we emphasize the complementarity of extra-group ties as social capital through which parents can effectively bridge resources and information to adolescents, enabling them to make informed choices about college. This study explores conditions that ease the transition to college, especially for students who are disadvantaged (e.g., children of immigrants). Using data from the National Education Longitudinal Study of 1988–94, a multinomial logistic regression analysis that differentiates among students who choose different pathways after high school graduation (a two-year college, a four-year college or no postsecondary enrollment). A Heckman selection model is used to predict the selectivity of four-year colleges attended by students. Results show that alignment of parents' and students' goals increases students' odds of attending a postsecondary institution in the year after high school graduation. The effect of parents' education on the selectivity of the college attended is also dependent on aligned ambition and aligned action between parents and adolescents. For example, active participation in postsecondary school guidance programs by parents is more beneficial to students whose parents have lower levels of educational attainment.",
+  "authors": [
+    {
+      "raw": "Kim, D. H.",
+      "family": "Kim",
+      "given": "D. H."
+    },
+    {
+      "raw": "Schneider, B.",
+      "family": "Schneider",
+      "given": "B."
+    }
+  ],
+  "authors_text": "Kim, D. H.; Schneider, B.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2005,
+  "doi": "10.1353/sof.2006.0012",
+  "doi_url": "https://doi.org/10.1353/sof.2006.0012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2006.0012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2006.0012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

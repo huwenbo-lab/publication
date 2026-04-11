@@ -1,0 +1,30 @@
+{
+  "title": "How Has Educational Expansion Shaped Social Mobility Trends in the United States?",
+  "abstract": "This contribution provides a long-term assessment of intergenerational social mobility trends in the United States across the 20th and early 21st centuries and assesses the determinants of those trends. In particular, we study how educational expansion has contributed to the observed changes in mobility opportunities for men across cohorts. Drawing on recently developed decomposition methods, we empirically identify the contribution of each of the multiple channels through which changing rates of educational participation shape mobility trends. We find that a modest but gradual increase in social class mobility can nearly exclusively be ascribed to an interaction known as the compositional effect, according to which the direct influence of social class backgrounds on social class destinations is lower among the growing number of individuals attaining higher levels of education. This dominant role of the compositional effect is also due to the fact that, despite pronounced changes in the distribution of education, class inequality in education has remained stable while class returns to education have shown no consistent trend. Our analyses also provide a cautionary tale about mistaking increasing levels of social class mobility for a general trend toward more fluidity in the United States. The impact of parental education on son's educational and class attainment has grown or remained stable, respectively. Here, the compositional effect pertaining to the direct association between parental education and son's class attainment counteracts a long-term trend of increasing inequality in educational attainment tied to parents' education.",
+  "authors": [
+    {
+      "raw": "Pfeffer, Fabian T.",
+      "family": "Pfeffer",
+      "given": "Fabian T."
+    },
+    {
+      "raw": "Hertel, Florian R.",
+      "family": "Hertel",
+      "given": "Florian R."
+    }
+  ],
+  "authors_text": "Pfeffer, Fabian T.; Hertel, Florian R.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sov045",
+  "doi_url": "https://doi.org/10.1093/sf/sov045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

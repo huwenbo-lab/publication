@@ -1,0 +1,40 @@
+{
+  "title": "Reforging the Wedding Ring",
+  "abstract": "We extend the \"Wedding Ringâ agent-based model of marriage formation to include some empirical information on the natural population change for the United Kingdom together with behavioural explanations that drive the observed nuptiality trends.",
+  "authors": [
+    {
+      "raw": "Bijak, Jakub",
+      "family": "Bijak",
+      "given": "Jakub"
+    },
+    {
+      "raw": "Hilton, Jason D.",
+      "family": "Hilton",
+      "given": "Jason D."
+    },
+    {
+      "raw": "Silverman, Eric",
+      "family": "Silverman",
+      "given": "Eric"
+    },
+    {
+      "raw": "Cao, Viet Dung",
+      "family": "Cao",
+      "given": "Viet Dung"
+    }
+  ],
+  "authors_text": "Bijak, Jakub; Hilton, Jason D.; Silverman, Eric; Cao, Viet Dung",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2013,
+  "doi": "10.4054/demres.2013.29.27",
+  "doi_url": "https://doi.org/10.4054/demres.2013.29.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2013.29.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2013.29.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

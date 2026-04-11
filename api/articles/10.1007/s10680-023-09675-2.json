@@ -1,0 +1,25 @@
+{
+  "title": "Can We Rely on Projections of the Immigrant Population? The Case of Norway",
+  "abstract": "AbstractDemographic forecasters must be realistic about how well they can predict future populations, and it is important that they include estimates of uncertainty in their forecasts. Here we focus on the future development of the immigrant population of Norway and their Norwegian-born children (“second generation”), grouped by three categories of country background: 1. West European countries plus the United States, Canada, Australia, and New Zealand; 2. Central and East European countries that are members of the European Union; 3. other countries. We show how to use a probabilistic forecast to assess the reliability of projections of the immigrant population and their children. We employ the method of random shares using data for immigrants and their children for 2000–2021. We model their age- and sex-specific shares relative to the whole population. Relational models are used for the age patterns in these shares, and time series models to extrapolate the parameters of the age patterns. We compute a probabilistic forecast for six population sub-groups with immigration background, and one for non-immigrants. The probabilistic forecast is calibrated against Statistics Norway’s official population projection. We find that a few population trends are quite certain: strong increases to 2060 in the size of the immigrant population (more specifically those who belong to country group 3) and of Norwegian-born children of immigrants. However, prediction intervals around the forecasts of immigrants and their children by one-year age groups are so wide that these forecasts are not reliable.",
+  "authors": [
+    {
+      "raw": "Keilman, Nico",
+      "family": "Keilman",
+      "given": "Nico"
+    }
+  ],
+  "authors_text": "Keilman, Nico",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2023,
+  "doi": "10.1007/s10680-023-09675-2",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09675-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09675-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09675-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

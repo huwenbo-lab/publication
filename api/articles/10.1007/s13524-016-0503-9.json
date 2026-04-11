@@ -1,0 +1,30 @@
+{
+  "title": "Determinants of Mexico-US Outward and Return Migration Flows: A State-Level Panel Data Analysis",
+  "abstract": "Using a unique panel data set of state-to-state outward and return migration flows between Mexico and the United States from 1995 to 2012, this study is the first to analyze Mexico-U.S. migration at the state level and explore simultaneously the effect of economic, environmental, and social factors in Mexico over two decades. Pairing origin and destination states and controlling for a rich structure of fixed effects, we find that income positively impacts migration outflows, especially for Mexican states of origin with a recent migration history and for low-educated migrant flows, suggesting the existence of credit constraints. We find evidence that drought causes more out-migration, while other climatic shocks have no effect. Violence is found to increase out-migration flows from border states and to decrease migration from other Mexican states, especially where violence is directed at migrants. Last, return flows are larger when income growth at destination is lower, consistent with the accumulation of savings as a primary motivation of migrants. Exploring the impact of the crisis, we find evidence of significant changes in the geography of migration flows. Traditional flows are drying up, and new migration corridors are rising, with implications on the composition of the Mexican population in the United States. Although the effect of income on flows in both directions is unchanged by the crisis, the negative effect of violence on out-migration tends to reverse at the end of the period. Overall, this study emphasizes the interest of analyzing disaggregated flows at the infra-country level.",
+  "authors": [
+    {
+      "raw": "Chort, Isabelle",
+      "family": "Chort",
+      "given": "Isabelle"
+    },
+    {
+      "raw": "de la Rupelle, Maelys",
+      "family": "de la Rupelle",
+      "given": "Maelys"
+    }
+  ],
+  "authors_text": "Chort, Isabelle; de la Rupelle, Maelys",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0503-9",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0503-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0503-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0503-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

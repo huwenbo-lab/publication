@@ -1,0 +1,30 @@
+{
+  "title": "Does parental involvement in school affect children's school performance?",
+  "abstract": "Parental involvement in school is often highlighted as being part of the transmission belt through which unequal parental homes influence children's school performance, passing on advantages and disadvantages. However, particularly genetically informed studies have cast doubt on the causality of these associations. This paper examines several pathways of how gene-environment correlation and interaction may contribute to only spurious correlation between parental involvement in school and child's school grades. Our analysis is based on the first two waves of the German Twin Family Panel (TwinLife). We relate child-reported parental school involvement when the twins were 10-12 years old (2056 twins born 2003/2004) to their math and German grades at the same age and two years later. There was little evidence that differences in childreported parental involvement in school contribute directly to differences in school grades. Associations found were mainly driven by environmental confounding. In contrast, concerns that observed associations could be due to genetic confounding were not confirmed. However, we found robust evidence for parental involvement moderating the effects of other facets of the environment shared by siblings on school grades. Although parental involvement did in most cases not have direct effects on school performance, our research adds another viewpoint on how parental involvement, SES and performance are related: The influence of certain facets of SES on school performance might vary by levels of parental involvement. Moreover, our results highlight the need to differentiate between dimensions of parental involvement and school subjects when studying the link between parenting behaviors and school performance.",
+  "authors": [
+    {
+      "raw": "Monkediek, Bastian",
+      "family": "Monkediek",
+      "given": "Bastian"
+    },
+    {
+      "raw": "Diewald, Martin",
+      "family": "Diewald",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Monkediek, Bastian; Diewald, Martin",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2026,
+  "doi": "10.1016/j.ssresearch.2025.103275",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103275",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103275",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103275.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

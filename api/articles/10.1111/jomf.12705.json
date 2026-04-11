@@ -1,0 +1,30 @@
+{
+  "title": "Gender and Changes in Household Wealth after the Dissolution of Marriage and Cohabitation in Germany",
+  "abstract": "Objective To document how changes in household wealth following the dissolution of marriage and cohabitation differ by gender in Germany. Background Marital property regimes usually prescribe that both partners receive a share of the couple's wealth following a divorce. The dissolution of cohabiting unions is not governed by marital property regimes in most countries, including Germany. Because men, on average, legally own a larger share of couple wealth than women, gender differences in household wealth might be more pronounced following the dissolution of cohabitation as compared to marriage. Method The analysis consists of individual fixed effects regression models using longitudinal data from the German socio-economic panel (N = 18,131 individuals) for the years 2002 to 2017. Results The dissolution of marriage is negatively related to the accumulation of wealth over time and effect sizes are similar for men and women. The dissolution of cohabiting unions is related to losses in wealth for women but not for men. Models accounting for various postdissolution factors suggest that an unequal division of household wealth produces these gender differences after the dissolution of cohabitation. Conclusion Whereas the dissolution of marriage lowers household wealth for men and women alike, there are gender differences in how the dissolution of cohabiting unions affects the accumulation of wealth. Union dissolution therefore has the potential to contribute to gender inequality in household wealth.",
+  "authors": [
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    },
+    {
+      "raw": "Lersch, Philipp M.",
+      "family": "Lersch",
+      "given": "Philipp M."
+    }
+  ],
+  "authors_text": "Boertien, Diederik; Lersch, Philipp M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12705",
+  "doi_url": "https://doi.org/10.1111/jomf.12705",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12705",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12705.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

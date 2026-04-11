@@ -1,0 +1,60 @@
+{
+  "title": "Multi-Morbidity at Death and the US Disadvantage in Mortality",
+  "abstract": "Abstract The US experiences significant excess mortality compared to peer countries. The literature indicates that a similar disadvantage affects morbidity and, more generally, the prevalence of risk factors for major diseases within the US population. In this study, we assess the impact of multi-morbidity at death on the mortality gap between the US and three other high-income countries with comparable data, namely France, Italy, and Spain. The study relies on an analysis of the multiple cause-of-death information available on all death certificates for 2017, used to classify morbid processes leading to death into three categories: simple, multi-morbid, and ill-defined. The results show disproportionately high rates of multi-morbid processes in the US compared with the other three countries. Multi-morbid processes contribute 51% of the US gap in life expectancy at birth with Italy, 73% with Spain, and 75% with France, with a particular concentration at ages 20–85 years. The prevalence of multi-morbid processes in the US is consistent with the hypothesis that multiple factors, rather than a single culprit, are at play in the disadvantage in mortality and it could explain, at least in part, the extraordinarily high cost of health care in this country.",
+  "authors": [
+    {
+      "raw": "Barbieri, Magali",
+      "family": "Barbieri",
+      "given": "Magali"
+    },
+    {
+      "raw": "Désesquelles, Aline",
+      "family": "Désesquelles",
+      "given": "Aline"
+    },
+    {
+      "raw": "Egidi, Viviana",
+      "family": "Egidi",
+      "given": "Viviana"
+    },
+    {
+      "raw": "Frova, Luisa",
+      "family": "Frova",
+      "given": "Luisa"
+    },
+    {
+      "raw": "Grippo, Francesco",
+      "family": "Grippo",
+      "given": "Francesco"
+    },
+    {
+      "raw": "Meslé, France",
+      "family": "Meslé",
+      "given": "France"
+    },
+    {
+      "raw": "Pappagallo, Marilena",
+      "family": "Pappagallo",
+      "given": "Marilena"
+    },
+    {
+      "raw": "Trias-Llimós, Sergi",
+      "family": "Trias-Llimós",
+      "given": "Sergi"
+    }
+  ],
+  "authors_text": "Barbieri, Magali; Désesquelles, Aline; Egidi, Viviana; Frova, Luisa; Grippo, Francesco; Meslé, France; Pappagallo, Marilena; Trias-Llimós, Sergi",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09749-3",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09749-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09749-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09749-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Marriage, Work, and Racial Inequalities in Poverty: Evidence From the United States",
+  "abstract": "This article explores recent racial and ethnic inequalities in poverty, estimating the share of racial poverty differentials that can be explained by variation in family structure and workforce participation. The authors use logistic regression to estimate the association between poverty and race, family structure, and workforce participation. They then decompose between-race differences in poverty risk to quantify how racial disparities in marriage and work explain observed inequalities in the log odds of poverty. They estimate that 47.7% to 48.9% of Black-White differences in poverty risk can be explained by between-group variance in these two factors, while only 4.3% to 4.5% of the Hispanic-White differential in poverty risk can be explained by these variables. The findings underscore the continued but varied association between racial disparities in poverty and labor and marriage markets. Clear racial differences in the origin of poverty suggest that policy interventions will not have uniformly effective impacts on poverty reduction.",
+  "authors": [
+    {
+      "raw": "Thiede, Brian C.",
+      "family": "Thiede",
+      "given": "Brian C."
+    },
+    {
+      "raw": "Kim, Hyojung",
+      "family": "Kim",
+      "given": "Hyojung"
+    },
+    {
+      "raw": "Slack, Tim",
+      "family": "Slack",
+      "given": "Tim"
+    }
+  ],
+  "authors_text": "Thiede, Brian C.; Kim, Hyojung; Slack, Tim",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2017,
+  "doi": "10.1111/jomf.12427",
+  "doi_url": "https://doi.org/10.1111/jomf.12427",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12427",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12427.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

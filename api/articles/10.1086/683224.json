@@ -1,0 +1,45 @@
+{
+  "title": "Peer Influence, Genetic Propensity, and Binge Drinking: A Natural Experiment and a Replication",
+  "abstract": "The authors draw data from the College Roommate Study (ROOM) and the National Longitudinal Study of Adolescent Health to investigate gene-environment interaction effects on youth binge drinking. In ROOM, the environmental influence was measured by the precollege drinking behavior of randomly assigned roommates. Random assignment safeguards against friend selection and removes the threat of gene-environment correlation that makes gene-environment interaction effects difficult to interpret. On average, being randomly assigned a drinking peer as opposed to a nondrinking peer increased college binge drinking by 0.5-1.0 episodes per month, or 20%-40% the average amount of binge drinking. However, this peer influence was found only among youths with a medium level of genetic propensity for alcohol use; those with either a low or high genetic propensity were not influenced by peer drinking. A replication of the findings is provided in data drawn from Add Health. The study shows that gene-environment interaction analysis can uncover social-contextual effects likely to be missed by traditional sociological approaches.",
+  "authors": [
+    {
+      "raw": "Guo, Guang",
+      "family": "Guo",
+      "given": "Guang"
+    },
+    {
+      "raw": "Li, Yi",
+      "family": "Li",
+      "given": "Yi"
+    },
+    {
+      "raw": "Wang, Hongyu",
+      "family": "Wang",
+      "given": "Hongyu"
+    },
+    {
+      "raw": "Cai, Tianji",
+      "family": "Cai",
+      "given": "Tianji"
+    },
+    {
+      "raw": "Duncan, Greg J.",
+      "family": "Duncan",
+      "given": "Greg J."
+    }
+  ],
+  "authors_text": "Guo, Guang; Li, Yi; Wang, Hongyu; Cai, Tianji; Duncan, Greg J.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2015,
+  "doi": "10.1086/683224",
+  "doi_url": "https://doi.org/10.1086/683224",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F683224",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/683224.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

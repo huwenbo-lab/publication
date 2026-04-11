@@ -1,0 +1,25 @@
+{
+  "title": "Race and Income in U.S. Suburbs: Are Diverse Suburbs Disadvantaged?",
+  "abstract": "Sociological narratives of communities of color often make two assumptions: that people of color are concentrated largely in cities and that communities of color are disadvantaged. However, the recent widespread suburbanization of people of color challenges both assumptions, destabilizing how we link race, place, and class. This visualization uses the 2019 American Community Survey to ask, How is racial diversity in suburbs associated with income? The findings suggest that, by and large, racially diverse suburbs are middle class when comparing their median household income with the national value ($63,000). The most multiracial suburbs host populations with the highest median incomes (mean ~ $85,000). Black and Latinx median household incomes surpass the national value in these diverse suburbs. Moreover, these findings are robust in regressions including metropolitan fixed effects. Given that most people of color live in suburbs, understanding suburban communities of color is critical for understanding the American geography of racial inequality.",
+  "authors": [
+    {
+      "raw": "Rastogi, Ankit",
+      "family": "Rastogi",
+      "given": "Ankit"
+    }
+  ],
+  "authors_text": "Rastogi, Ankit",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211033722",
+  "doi_url": "https://doi.org/10.1177/23780231211033722",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211033722",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211033722.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

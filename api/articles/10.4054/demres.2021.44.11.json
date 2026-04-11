@@ -1,0 +1,30 @@
+{
+  "title": "Socioeconomic development and young adults' propensity of living in one-person households: Compositional and contextual effects",
+  "abstract": "BACKGROUND The proportion of young adults living in one-person households (OPHs) has increased remarkably worldwide. Recent literature suggests that socioeconomic development established favorable conditions for individuals to live alone. Few studies have yet examined the complex relationship between contextual-level socioeconomic development, individual-level factors, and living in OPHs. METHODS We drew data from a subsample of young adults (aged between 20 and 35) from China 1% Population Sample Survey 2005 (n(i)= 582,139; n(j) = 345). Two-level random-intercept logistic regression models were employed to examine the relationship between prefecture-level socioeconomic development and living in OPHs. Two series of models, controlling for single and migrant statuses, and other sociodemographic variables, were estimated for male and female separately. RESULTS First, there are positive associations between singlehood/migration and living in OPHs. Being single or a migrant are the most important individual-level correlates of living alone. Second, we found a strong positive curvilinear correlation between prefecture-level development and living alone that are well explained by the concentration of internal migrants but not the proportion of singles in the developed regions. Third, after controlling for migrant status, we only found a weak positive contextual effect of development on living alone. Yet, there are cross-level interaction effects that the associations between prefecture-level development and living alone are strong for single and migrant adults. CONTRIBUTION Our findings highlight the relative importance of internal migration over singlehood in explaining the concentration of OPHs in developed areas, which has important implications on the geographical patterns of OPHs among young adults.",
+  "authors": [
+    {
+      "raw": "Cheung, Adam Ka-Lok",
+      "family": "Cheung",
+      "given": "Adam Ka-Lok"
+    },
+    {
+      "raw": "Yeung, Wei-Jun Jean",
+      "family": "Yeung",
+      "given": "Wei-Jun Jean"
+    }
+  ],
+  "authors_text": "Cheung, Adam Ka-Lok; Yeung, Wei-Jun Jean",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.11",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Celebrating funerals as weddings: a computational text study of Chinese foundations' COVID-19 sentiment responses",
+  "abstract": "Current literature has increasingly recognized the significance of cultural responses to disasters. While it largely focuses on the roles of the Chinese state or individuals, other actors' involvement in producing disaster narratives and emotions remains under-explored. This study examines civic organizations' meso-level participation in constructing the celebrating funerals as weddings (sangshixiban (sic)(sic)(sic)(sic)) COVID-19 rhetoric. Using machine learning and statistical analysis, it analyzes an original WeChat dataset of 193 Chinese foundations and their organizational data. We found that foundations displayed predominantly positive sentiments about the pandemic on social media, with grassroots entities exhibiting significantly more positivity than their affluent, government-backed counterparts. Grassroots ones also attributed more affirmative values to the party-state, healthcare workers, and women while avoiding contentious entities like Zhang Wenhong, World Health Organization (WHO), and the United States. Despite their important presence in material disaster relief, grassroots foundations largely upheld the state's discursive authority, sidestepping dissenting voices during the pandemic's early height.",
+  "authors": [
+    {
+      "raw": "Chen, Rui",
+      "family": "Chen",
+      "given": "Rui"
+    },
+    {
+      "raw": "Long, Yan",
+      "family": "Long",
+      "given": "Yan"
+    },
+    {
+      "raw": "Zheng, Wenjuan",
+      "family": "Zheng",
+      "given": "Wenjuan"
+    }
+  ],
+  "authors_text": "Chen, Rui; Long, Yan; Zheng, Wenjuan",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1080/21620555.2025.2568961",
+  "doi_url": "https://doi.org/10.1080/21620555.2025.2568961",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2025.2568961",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2025.2568961.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

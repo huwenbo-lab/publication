@@ -1,0 +1,25 @@
+{
+  "title": "Do state-funded Alternatives to Abortion programs reduce abortion rates? A longitudinal analysis",
+  "abstract": "During the era of federal protection of abortion rights in the U.S., many majority-conservative state governments sought to oppose abortion by implementing state-level strategies. I examine the impact of one such approach: tax-funded Alternatives to Abortion (A2A) programs, which ostensibly provide resources to support (/coerce) carrying a pregnancy to term. I use Meredith Worthen's Norm-Centered Stigma Theory (NCST), a sociological theory of deviance, to guide analysis of these programs, the sociopolitical environments in which they arise, and the potential effects of both on the reproductive decision making of state residents. I constructed a longitudinal panel dataset of state-level sociopolitical factors, including A2A programs, other abortion opposition policies, and annual abortion rates. Using hybrid linear regression, I estimated associations between states with and without programs as well as within states over time. Results show that A2A programs are significantly positively associated with abortion rates between states. Results regarding other abortion opposition policies (Targeted Regulations of Abortion Providers) were mixed, with some TRAP laws being associated with a significant, positive within-state effect while others were negatively or non-significantly associated. These findings suggest that, rather than reducing abortion, moralistic state efforts like A2A programs may backfire. Through the lens of NCST, such strategies may reinforce narrow, moralized reproductive norms, potentially increasing stigmas around non-normative pregnancies, making abortion more compelling. I discuss how the positive association between A2A programs and abortion rates reflects social contexts shaping reproductive decisions, implications for abortion stigmatization, and theoretical ramifications of policies that aim to affect abortion rates.",
+  "authors": [
+    {
+      "raw": "Schmidgall, Darci K.",
+      "family": "Schmidgall",
+      "given": "Darci K."
+    }
+  ],
+  "authors_text": "Schmidgall, Darci K.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2026,
+  "doi": "10.1016/j.ssresearch.2025.103259",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103259",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103259",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103259.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Gender, Spousal Caregiving, and Depression: Does Paid Work Matter?",
+  "abstract": "Studies have shown that spousal caregiving leads to psychological distress, but few have analyzed the moderating effect of paid work. Using the 2000 to 2012 Health and Retirement Study and two-stage least squares regression models, this study found that caregiving increased women's and men's depressive symptoms. Ordinary least squares models showed that caregiving had more adverse effects on women's mental health than on men's, but these differences were eliminated in two-stage least squares models that accounted for the bidirectional effects of depression and caregiving. The current study also found that for women, part-time work attenuated the depressive effect of spousal caregiving, whereas for men, part-time work exacerbated it. These gender differences persisted even for intensive spousal caregivers. The authors suggest that caregiving women who work part-time may benefit from work-related resources. Caregiving men who work part-time, however, may feel distressed, as their work-family experiences conflict with traditional gender norms.",
+  "authors": [
+    {
+      "raw": "Glauber, Rebecca",
+      "family": "Glauber",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Day, Melissa D.",
+      "family": "Day",
+      "given": "Melissa D."
+    }
+  ],
+  "authors_text": "Glauber, Rebecca; Day, Melissa D.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2018,
+  "doi": "10.1111/jomf.12446",
+  "doi_url": "https://doi.org/10.1111/jomf.12446",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12446",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12446.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

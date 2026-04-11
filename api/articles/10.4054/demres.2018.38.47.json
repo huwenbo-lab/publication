@@ -1,0 +1,30 @@
+{
+  "title": "Expected years ever married",
+  "abstract": "BACKGROUND In the second half of the 20th century, remarkable marriage changes were seen: a great proportion of never married population, high average age at first marriage, and large variance in first marriage timing. Although it is theoretically possible to separate these three elements, disentangling them analytically remains a challenge. OBJECTIVE This study's goal is to answer the following questions: Which of the three effects, non-marriage, delayed marriage, or expansion, has the most impact on nuptiality changes? How does the most influential factor differ by time periods, birth cohorts, and countries? METHODS To quantify nuptiality changes over time, we define the measure 'expected years ever married' (EYEM). We illustrate the use of EYEM, looking at time trends in 15 countries (six countries for cohort analysis) and decompose these trends into three components: scale (the changes in the proportion of never married - nonmarriage), location (the changes in timing of first marriage - delayed marriage), and variance (the changes in the standard deviation of first marriage age - expansion). We used population counts by sex, age, and marital status from national statistical offices and the United Nations database. RESULTS Results show that delayed marriage is the most influential factor on period EYEM's changes, while nonmarriage has recently begun to contribute to the change in North and West Europe and Canada. Period and cohort analysis complement each other. CONCLUSIONS This study introduces a new index of nuptiality and decomposes its change into the contribution of three components: scale, location, and variance. The decomposition steps presented here offer an open possibility for more elaborate parametric marriage models.",
+  "authors": [
+    {
+      "raw": "Mogi, Ryohei",
+      "family": "Mogi",
+      "given": "Ryohei"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Mogi, Ryohei; Canudas-Romo, Vladimir",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.47",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.47",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.47",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.47.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

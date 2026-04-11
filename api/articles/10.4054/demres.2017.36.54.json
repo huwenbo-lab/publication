@@ -1,0 +1,40 @@
+{
+  "title": "How many old people have ever lived?",
+  "abstract": "BACKGROUND Uninformed generalizations about how many elderly people have ever lived, based on a poor understanding of demography, are found in a surprising number of important publications. OBJECTIVE We extend the methodology applied to the controversial question how many people have ever been born? initiated by Fucks, Winkler, and Keyfitz, to the proportion of people who have ever reached a certain age y and are alive today (denoted as pi(y, T)). METHODS We first analyze the fraction pi(y, T) by using demographic data based on UN estimates. Second, we show the main mathematical properties of pi(y, T) by age and over time. Third, we complete our analysis by using alternative population models. RESULTS We estimate that the proportion who have ever been over 65 that are alive today (as of 2010) ranges between 5.5 and 9.5%. We extend the formal demographic literature by considering the fraction of interest in two frequently referred models: the stable and hyperbolic growth populations. CONCLUSIONS We show that statements claiming half of all people who have ever reached the age of 65 are alive today ranges would never be attainable, neither theoretically nor empirically, according to existing data. CONTRIBUTION We have produced for the first time a harmonized reconstruction of the human population by age throughout history. For a given contemporaneous time T, we demonstrate analytically and numerically that pi(y,T) is nonmonotonic in age y. For a given age y, we show that pi(y,T) may also be nonmonotonic with respect to T.",
+  "authors": [
+    {
+      "raw": "Sanchez-Romero, Miguel",
+      "family": "Sanchez-Romero",
+      "given": "Miguel"
+    },
+    {
+      "raw": "Ediev, Dalkhat",
+      "family": "Ediev",
+      "given": "Dalkhat"
+    },
+    {
+      "raw": "Feichtinger, Gustav",
+      "family": "Feichtinger",
+      "given": "Gustav"
+    },
+    {
+      "raw": "Prskawetz, Alexia",
+      "family": "Prskawetz",
+      "given": "Alexia"
+    }
+  ],
+  "authors_text": "Sanchez-Romero, Miguel; Ediev, Dalkhat; Feichtinger, Gustav; Prskawetz, Alexia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.54",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.54",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.54",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.54.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

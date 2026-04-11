@@ -1,0 +1,35 @@
+{
+  "title": "The stricter the better? The impact of early teacher grading standards on students' competences development and academic track enrollment",
+  "abstract": "Despite the growing attention on teachers' grading practices in educational research, less attention has been dedicated to understanding the consequences of teachers' grading standards, especially in early stages of their scholastic career, on later students' educational outcomes. This paper aims at filling this gap, analyzing the impact of teacher's severity in grading on students' competences development and academic track enrollment, and how it varies according to students' gender and socio-economic background. The analysis relies on Italian INVALSI-SNV data: information on 5th graders and their teachers are linked, and pupils are followed up to 8th and 10th grade, in which their competences and school track are recorded. Results show that being exposed to stricter grading in 5th grade leads to higher students' competences later, and to higher probability to enroll in the most prestigious academic track, with no notable heterogeneous effects across students with different sociodemographic characteristics.",
+  "authors": [
+    {
+      "raw": "Lievore, Ilaria",
+      "family": "Lievore",
+      "given": "Ilaria"
+    },
+    {
+      "raw": "Fedeli, Emanuele",
+      "family": "Fedeli",
+      "given": "Emanuele"
+    },
+    {
+      "raw": "Triventi, Moris",
+      "family": "Triventi",
+      "given": "Moris"
+    }
+  ],
+  "authors_text": "Lievore, Ilaria; Fedeli, Emanuele; Triventi, Moris",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103085",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103085",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103085",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103085.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Earnings Equality and Relationship Stability for Same-Sex and Heterosexual Couples",
+  "abstract": "This paper examines a topic of continuing interest for demographers and sociologists of the family: which factors promote relationship stability among couples. Two competing theories have been highly debated to explain how relative earnings relate to relationship quality and stability. The neoclassical economic theory posits that specialization of home and work duties leads to stability because partners fill complementary roles. Gender scholars propose an alternative explanation, suggesting that when couples violate the traditional male breadwinner model, they experience relationship strain and are more likely to experience a breakup. Using the new How Couples Meet and Stay Together (HCMST) dataset, this paper offers a unique perspective on the debate, by comparing same-sex couples to heterosexual couples. The paper presents three sets of analyses to determine how relative earnings relate to relationship stability. The first analysis employs discrete-time event history models to assess the likelihood of breakup for both heterosexual and same-sex cohabiting couples. Next, the paper presents results predicting self-reported relationship quality among married and cohabiting couples. The final analysis focuses on non-cohabiting couples from Wave I of the HCMST survey and examines the likelihood of entering cohabitation in subsequent survey waves. Results demonstrate that the economic or specialization model does not hold in same-sex relationships, suggesting that the effect of earnings equality is dependent upon gender norms in heterosexual relationships. When earnings power is disentangled from gender, as is the case of same-sex couples, equality in earnings promotes stability.",
+  "authors": [
+    {
+      "raw": "Weisshaar, K.",
+      "family": "Weisshaar",
+      "given": "K."
+    }
+  ],
+  "authors_text": "Weisshaar, K.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2014,
+  "doi": "10.1093/sf/sou065",
+  "doi_url": "https://doi.org/10.1093/sf/sou065",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou065",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou065.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

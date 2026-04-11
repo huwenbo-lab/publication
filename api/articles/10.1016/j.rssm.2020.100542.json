@@ -1,0 +1,35 @@
+{
+  "title": "The motherhood penalty and The fatherhood premium in employment during covid-19: evidence from The united states",
+  "abstract": "In this paper, we present evidence from the Current Population Survey examining the effects of the COVID-19 crisis on parental status and gender inequalities in employment in the United States. We show that the drop in the employment rate in post-outbreak months was largely driven by mass layoffs and not by workers quitting their jobs. Results from fixed-effects regression models show a strong fatherhood premium in the likelihood of being laid off for post-outbreak months compared to mothers, men without children, and women without children. We also found that the fatherhood premium was higher among lower-educated and mid-educated workers. These findings show that gaps in layoff rates exacerbated pre-existing forms of parental status and gender inequality in employment. Possible mechanisms are discussed, but more work is needed to explain why employers were less likely to lay off fathers following the outbreak, and the short- and long-term consequences of the COVID-19 pandemic in reinforcing parental status and gender inequality in employment in the United States.",
+  "authors": [
+    {
+      "raw": "Dias, Felipe A.",
+      "family": "Dias",
+      "given": "Felipe A."
+    },
+    {
+      "raw": "Chance, Joseph",
+      "family": "Chance",
+      "given": "Joseph"
+    },
+    {
+      "raw": "Buchanan, Arianna",
+      "family": "Buchanan",
+      "given": "Arianna"
+    }
+  ],
+  "authors_text": "Dias, Felipe A.; Chance, Joseph; Buchanan, Arianna",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100542",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100542",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100542",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100542.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

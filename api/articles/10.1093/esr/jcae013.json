@@ -1,0 +1,35 @@
+{
+  "title": "Intensity of educational expansion: a key factor in explaining educational inequality across regions and cohorts in Spain",
+  "abstract": "Previous sociological research has indirectly examined the association between educational expansion and inequality by analysing changes in inequality over cohorts during the expansion process. This study tests the impact of educational expansion in Spain by using the proportion of people with a specific level of education in a particular region cohort as a direct measure of expansion. More importantly, this study focuses on the intensity of the expansionary process (of one level of education) as a crucial dimension that influences inequality (in the attainment of the next level). We argue that an intense expansion may strengthen the motivation of advantaged families to increase their investments in their children's education but limit their capacity to undertake effective educational responses, particularly during the initial stages of the expansionary process. We use the socio-demographic survey conducted in Spain in 1991, which provides representative samples for different cohorts and regions in the country, and employ multilevel modelling to analyse the effect of the phase and intensity of the expansion on inequality. Our findings show a strong positive relationship between the intensity of expansion and the level of inequality that, nonetheless, is less strong at the initial stage of the expansionary process.",
+  "authors": [
+    {
+      "raw": "Manzano, Dulce",
+      "family": "Manzano",
+      "given": "Dulce"
+    },
+    {
+      "raw": "Cordero-Coma, Julia",
+      "family": "Cordero-Coma",
+      "given": "Julia"
+    },
+    {
+      "raw": "Valdes, Manuel T.",
+      "family": "Valdes",
+      "given": "Manuel T."
+    }
+  ],
+  "authors_text": "Manzano, Dulce; Cordero-Coma, Julia; Valdes, Manuel T.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcae013",
+  "doi_url": "https://doi.org/10.1093/esr/jcae013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

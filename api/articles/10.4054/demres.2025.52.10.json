@@ -1,0 +1,30 @@
+{
+  "title": "Infant mortality among US whites in the 19th century: New evidence from childhood sex ratios",
+  "abstract": "BACKGROUND Basic facts of infant mortality in the 19th-century United States are largely unknown due to a lack of data on births and infant deaths. Contradictory views have emerged from previous research. Estimates from life table exercises with US census data, published in the most recent (2006) Historical Statistics of the United States, suggest that infant mortality among US whites circa 1850-1880 was substantially worse than in much of contemporary Europe. However, a broader range of historical evidence indicates that US whites were among the healthiest 19th-century populations. METHODS We offer a new basis for estimating infant mortality: childhood sex ratios. Because of the female survival advantage in infancy, high rates of infant death tend to be reflected in female-skewed childhood sex ratios. We verify the empirical relationship between infant mortality and childhood sex ratios in historical populations with credible data on both and demonstrate that sex ratios can reveal broad patterns of infant mortality. RESULTS Turning to the US census for under-5 sex ratios, we find that white infant mortality circa 1850-1880 was in the range of 60-110 deaths per 1,000 - well under half the values presented in Historical Statistics of the United States and below contemporary European levels. By 1900, infant mortality in the United States had increased substantially, pointing to the challenges that modernization posed to population health. CONTRIBUTION We demonstrate a novel method of characterizing infant mortality, using childhood sex ratios. With census data often available where vital statistics are not, our method promises to shed new light on historical patterns of population health. Applied to the 19th-century United States, our method shows that infant mortality among the white population was much lower than previously suggested.",
+  "authors": [
+    {
+      "raw": "McDevitt-Irwin, Jesse",
+      "family": "McDevitt-Irwin",
+      "given": "Jesse"
+    },
+    {
+      "raw": "Irwin, James R.",
+      "family": "Irwin",
+      "given": "James R."
+    }
+  ],
+  "authors_text": "McDevitt-Irwin, Jesse; Irwin, James R.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.10",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

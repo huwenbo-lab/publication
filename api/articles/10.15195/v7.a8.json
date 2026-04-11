@@ -1,0 +1,25 @@
+{
+  "title": "The U.S. Occupational Structure: A Social Network Approach",
+  "abstract": "We propose a new approach to study the structure of occupational labor markets that relies on social network analysis techniques. Highly detailed transition matrices are constructed based on changes in individual workers' occupations over successive months of the Current Population Survey rotating panels. The resulting short-term transition matrices provide snapshots of all occupational movements in the U.S. labor market at different points in time and for different sociodemographic groups. We find a significant increase in occupational mobility and in the diversity of occupational destinations for working men over the past two decades. The occupational networks for black and Hispanic men exhibit a high overall density of ties resulting from a high probability of movement among a limited set of occupations. Upward status mobility also increased during the time period studied, although there are large differences by race and ethnicity and educational attainment. Finally, factional analysis is proposed as a novel way to explore labor market segmentation. Results reveal a highly segmented occupational network in which movement is concentrated within a limited number of occupations with markedly different levels of occupational status.",
+  "authors": [
+    {
+      "raw": "Villarreal, Andrés",
+      "family": "Villarreal",
+      "given": "Andrés"
+    }
+  ],
+  "authors_text": "Villarreal, Andrés",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2020,
+  "doi": "10.15195/v7.a8",
+  "doi_url": "https://doi.org/10.15195/v7.a8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv7.a8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v7.a8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

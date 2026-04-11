@@ -1,0 +1,30 @@
+{
+  "title": "The Long-Term Effects of Military Conscription on Mortality: Estimates From the Vietnam-Era Draft Lottery",
+  "abstract": "Abstract Research on the effects of Vietnam military service suggests that Vietnam veterans experienced significantly higher mortality than the civilian population at large. These results, however, may be biased by nonrandom selection into the military if unobserved background differences between veterans and nonveterans affect mortality directly. To generate unbiased estimates of exposure to conscription on mortality, the present study compares the observed proportion of draft-eligible male decedents born 1950–1952 to the (1) expected proportion of draft-eligible male decedents given Vietnam draft-eligibility cutoffs; and (2) observed proportion of draft-eligible decedent women. The results demonstrate no effect of draft exposure on mortality, including for cause-specific death rates. When we examine population subgroups—including splits by race, educational attainment, nativity, and marital status—we find weak evidence for an interaction between education and draft eligibility. This interaction works in the opposite direction of putative education-enhancing, mortality-reducing effects of conscription that have, in the past, led to concern about a potential exclusion restriction violation in instrumental variable (IV) regression models. We suggest that previous research, which has shown that Vietnam-era veterans experienced significantly higher mortality than nonveterans, might be biased by nonrandom selection into the military and should be further investigated.",
+  "authors": [
+    {
+      "raw": "Conley, Dalton",
+      "family": "Conley",
+      "given": "Dalton"
+    },
+    {
+      "raw": "Heerwig, Jennifer",
+      "family": "Heerwig",
+      "given": "Jennifer"
+    }
+  ],
+  "authors_text": "Conley, Dalton; Heerwig, Jennifer",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0103-2",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0103-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0103-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0103-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

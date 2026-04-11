@@ -1,0 +1,35 @@
+{
+  "title": "Still a Small World? University Course Enrollment Networks before and during the COVID-19 Pandemic",
+  "abstract": "In normal times, the network ties that connect students on a college campus are an asset; during a pandemic, they can become a liability. Using prepandemic data from Cornell University, Weeden and Cornwell (2020) showed how co-enrollment in classes creates a 'small world' network with high clustering, short path lengths, and multiple independent pathways connecting students. Using data from the fall of 2020, we assess how the structure of the co-enrollment network changed as Cornell, like many other institutions of higher education, adapted to the pandemic by adopting a hybrid instructional model. We find that under hybrid instruction, not only is a much smaller share of students in the face-to-face network, but the paths connecting student pairs in the network lengthened, the share of student pairs connected by three or fewer degrees of separation declined, clustering increased, and a greater share of co-enrollment ties occurred between students in the same field of study. The small world became both less connected and more fragmented.",
+  "authors": [
+    {
+      "raw": "Weeden, Kim",
+      "family": "Weeden",
+      "given": "Kim"
+    },
+    {
+      "raw": "Cornwell, Benjamin",
+      "family": "Cornwell",
+      "given": "Benjamin"
+    },
+    {
+      "raw": "Park, Barum",
+      "family": "Park",
+      "given": "Barum"
+    }
+  ],
+  "authors_text": "Weeden, Kim; Cornwell, Benjamin; Park, Barum",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2021,
+  "doi": "10.15195/v8.a4",
+  "doi_url": "https://doi.org/10.15195/v8.a4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv8.a4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v8.a4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

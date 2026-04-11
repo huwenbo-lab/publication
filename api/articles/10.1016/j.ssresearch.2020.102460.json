@@ -1,0 +1,30 @@
+{
+  "title": "Change in prevalence or preference? Trends in educational homogamy in six European countries in a time of educational expansion",
+  "abstract": "This paper analyzes trends in educational homogamy in six European countries (Sweden, the Czech Republic, Slovakia, Poland, Hungary, and Italy). We use vital statistics on all marriages contracted between 1990 and 2016. Absolute educational homogamy increases in all countries (very moderately in the Czech Republic and Italy), it changes its structure, and the absolute educational hypogamy of women increases. The trends over time and among countries in relative educational homogamy are tested using log-linear and log-multiplicative models. We expand a regression-type layer effect model (the Goodman-Hout model) into a four-way table. The results indicate differing assortative mating by educational categories. Relative homogamy decreases in tertiary education. In lower educational categories, relative homogamy increases. We present the hypothesis that a decrease in relative homogamy in tertiary education is a consequence of the rise of social homogamy. We conceptualize this homogamy balance as a complementary maintained homogamy. Because changes in relative educational homogamies are the same in all countries, the cross-country differences remain constant over time. We conceptualize this as a maintained flux. The European countries are not in convergence, even though the relative homogamies delineated by educational categories change.",
+  "authors": [
+    {
+      "raw": "Katrnak, Tomas",
+      "family": "Katrnak",
+      "given": "Tomas"
+    },
+    {
+      "raw": "Manea, Beatrice Chromkova",
+      "family": "Manea",
+      "given": "Beatrice Chromkova"
+    }
+  ],
+  "authors_text": "Katrnak, Tomas; Manea, Beatrice Chromkova",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2020.102460",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102460",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102460",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102460.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

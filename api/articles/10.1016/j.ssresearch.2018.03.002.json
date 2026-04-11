@@ -1,0 +1,25 @@
+{
+  "title": "The effect of neighborhood context on children's academic achievement in China: Exploring mediating mechanisms",
+  "abstract": "Along with the economic reforms, rapid urbanization, and the growth of a free land market, Chinese cities witness new forms of neighborhood poverty and increasing residential segregation by social class, migration status, and housing tenure. But little is known about the consequences of the growing social-spatial differentiation for children's educational achievement in China. Using national-scale survey data from the China Family Panel Studies in 2010, this study examines the relationship between neighborhood socioeconomic status (SES) and children's test scores in urban China, and explores the mechanisms through which neighborhood environment is associated with children's academic achievement. The results show that neighborhood SES is positively associated with children's verbal and math test scores after accounting for myriad individual and family characteristics. The relationship between neighborhood SES and test scores is partially explained by neighborhood educational institutions and collective socialization. Peer contagion, neighborhood social organization, or neighborhood physical environment do not explain this relationship.",
+  "authors": [
+    {
+      "raw": "Lei, Lei",
+      "family": "Lei",
+      "given": "Lei"
+    }
+  ],
+  "authors_text": "Lei, Lei",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.03.002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.03.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.03.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.03.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

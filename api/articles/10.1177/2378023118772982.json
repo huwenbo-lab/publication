@@ -1,0 +1,30 @@
+{
+  "title": "Visualizing Hierarchical Social Networks",
+  "abstract": "The authors propose a novel technique for the visualization of networks that contain a hierarchical structure: networks in which certain nodes and groups of nodes can be classified through a relation of precedence. Networks with a hierarchical structure frequently arise in sociology and various other disciplines, but the existing methods for visualizing such networks leave much to be desired. The method developed in this work builds on the tradition of visualization in social network analysis; it aims to simultaneously represent the positions of different nodes and the relationships between groups containing the nodes in the network. As such, the proposed visualization method facilitates theoretical and empirical analysis of social structures by algorithmically combining information from the underlying network with the information from the hierarchical structure of the network. The authors illustrate the proposed method with social networks examined through cohesive blocking and k-core decomposition.",
+  "authors": [
+    {
+      "raw": "Gemici, Kurtuluş",
+      "family": "Gemici",
+      "given": "Kurtuluş"
+    },
+    {
+      "raw": "Vashevko, Anthony",
+      "family": "Vashevko",
+      "given": "Anthony"
+    }
+  ],
+  "authors_text": "Gemici, Kurtuluş; Vashevko, Anthony",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118772982",
+  "doi_url": "https://doi.org/10.1177/2378023118772982",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118772982",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118772982.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Vocational education, general education, and on-the-job learning over the life cycle",
+  "abstract": "We investigate whether vocationally and generally educated individuals differ in their on-the-job learning and how this difference evolves over the career. To this end, we exploit the European Skills and Jobs Survey dataset and rely on instrumental variable estimation. While our descriptive results suggest that workers with a vocational degree experience on average more learning, this conclusion largely changes once endogeneity is taken into account. First, we find that, immediately after graduation, workers with a vocational education are less likely to further improve their skills in their jobs. Second, while this gap in on-the-job learning gradually fades over time, it takes almost a full career to catch up in terms of further on-the-job learning with those with a general degree. Finally, the effects are driven by individuals residing in dual system countries and those with a programme involving workplace learning. We argue that these results are likely explained by a combination of compensating (because vocationally educated obtained their specific skills already during education) and complementary (because general skills lay down a foundation for further learning) effects.",
+  "authors": [
+    {
+      "raw": "Tobback, Ilse",
+      "family": "Tobback",
+      "given": "Ilse"
+    },
+    {
+      "raw": "Verhaest, Dieter",
+      "family": "Verhaest",
+      "given": "Dieter"
+    },
+    {
+      "raw": "Baert, Stijn",
+      "family": "Baert",
+      "given": "Stijn"
+    },
+    {
+      "raw": "De Witte, Kristof",
+      "family": "De Witte",
+      "given": "Kristof"
+    }
+  ],
+  "authors_text": "Tobback, Ilse; Verhaest, Dieter; Baert, Stijn; De Witte, Kristof",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad015",
+  "doi_url": "https://doi.org/10.1093/esr/jcad015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

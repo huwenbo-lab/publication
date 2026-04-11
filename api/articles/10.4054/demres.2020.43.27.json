@@ -1,0 +1,40 @@
+{
+  "title": "Monitoring global digital gender inequality using the online populations of Facebook and Google",
+  "abstract": "BACKGROUND In recognition of the empowering potential of digital technologies, gender equality in internet access and digital skills is an important target in the United Nations (UN) Sustainable Development Goals (SDGs). Gender-disaggregated data on internet use are limited, particularly in less developed countries. OBJECTIVE We leverage anonymous, aggregate data on the online populations of Google and Facebook users available from their advertising platforms to fill existing data gaps and measure global digital gender inequality. METHODS We generate indicators of country-level gender gaps on Google and Facebook. Using these online indicators independently and in combination with offline development indicators, we build regression models to predict gender gaps in internet use and digital skills computed using available survey data from the International Telecommunications Union (ITU). RESULTS We find that women are significantly underrepresented in the online populations of Google and Facebook in South Asia and sub-Saharan Africa. These platform-specific gender gaps are a strong predictor that women lack internet access and basic digital skills in these populations. Comparing platforms, we find Facebook gender gap indicators perform better than Google indicators at predicting ITU internet use and low-level digital-skill gender gaps. Models using these online indicators outperform those using only offline development indicators. The best performing models, however, are those that combine Facebook and Google online indicators with a country's development indicators such as the Human Development Index. CONTRIBUTION Our work highlights how appropriate regression models built on novel, digital data from online populations can be used to complement traditional data sources to monitor global development indicators linked to digital gender inequality.",
+  "authors": [
+    {
+      "raw": "Kashyap, Ridhi",
+      "family": "Kashyap",
+      "given": "Ridhi"
+    },
+    {
+      "raw": "Fatehkia, Masoomali",
+      "family": "Fatehkia",
+      "given": "Masoomali"
+    },
+    {
+      "raw": "Al Tamime, Reham",
+      "family": "Al Tamime",
+      "given": "Reham"
+    },
+    {
+      "raw": "Weber, Ingmar",
+      "family": "Weber",
+      "given": "Ingmar"
+    }
+  ],
+  "authors_text": "Kashyap, Ridhi; Fatehkia, Masoomali; Al Tamime, Reham; Weber, Ingmar",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.27",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

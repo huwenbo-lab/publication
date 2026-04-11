@@ -1,0 +1,35 @@
+{
+  "title": "Hypermobility, Destination Effects, and Delinquency: Specifying the Link between Residential Mobility and Offending",
+  "abstract": "Residential mobility is often implicated as a risk factor for delinquency. While many scholars attribute this to causal processes spurred by moving, recent research suggests that much of the relationship is due to differences between mobile and non-mobile adolescents. However, studies in this area often operationalize mobility as a single move, limiting researchers to comparing outcomes between mobile and non-mobile adolescents. This approach is rather broad, considering heterogeneity in mobility frequency as well as variation in sending and receiving neighborhood characteristics. We propose a more nuanced framework to help anticipate how characteristics of mobility experiences may mitigate, exacerbate, or fail to influence adolescent behavior. Drawing on data from the National Longitudinal Study of Adolescent to Adult Health (Add Health) and the National Longitudinal Study of Youth 1997 (NLSY97), we demonstrate that hypermobility has detrimental behavioral consequences, increases in neighborhood disadvantage between sending and receiving neighborhoods are associated with reductions in self-reported offending, and long-distance moves reduce delinquency,but only among adolescents with prior behavioral problems. These results underscore the complex association between residential mobility and delinquency during adolescence.",
+  "authors": [
+    {
+      "raw": "Vogel, Matt",
+      "family": "Vogel",
+      "given": "Matt"
+    },
+    {
+      "raw": "Porter, Lauren C.",
+      "family": "Porter",
+      "given": "Lauren C."
+    },
+    {
+      "raw": "McCuddy, Timothy",
+      "family": "McCuddy",
+      "given": "Timothy"
+    }
+  ],
+  "authors_text": "Vogel, Matt; Porter, Lauren C.; McCuddy, Timothy",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sow097",
+  "doi_url": "https://doi.org/10.1093/sf/sow097",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow097",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow097.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

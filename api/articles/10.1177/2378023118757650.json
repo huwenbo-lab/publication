@@ -1,0 +1,30 @@
+{
+  "title": "Organizational Structure, Policy Learning, and Economic Performance: Evidence from the Chinese Commune",
+  "abstract": "Using original county-level panel data on Chinese communes over two decades, 1958 to 1979, this article builds upon existing theories about the influence of organizational size and structure on institutional performance. We found a consistent and robust interaction effect among the size of the commune (i.e., the coordination level) and its subunits, the brigade (i.e., the supervisory level) and production teams (i.e., the working level), on agricultural productivity. Future work on the relationship between organizational performance and size would likely benefit from including such interaction variables. We also provide evidence that to create a more productive institution, county-level officials learned from their most productive neighbors and adjusted the size of their communes accordingly. This work explains the role of organizational structure as a driver of economic performance and how policy diffusion occurred during China’s Maoist era—a period generally treated as a monolith rather than a period of institutional change.",
+  "authors": [
+    {
+      "raw": "Eisenman, Joshua",
+      "family": "Eisenman",
+      "given": "Joshua"
+    },
+    {
+      "raw": "Yang, Feng",
+      "family": "Yang",
+      "given": "Feng"
+    }
+  ],
+  "authors_text": "Eisenman, Joshua; Yang, Feng",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118757650",
+  "doi_url": "https://doi.org/10.1177/2378023118757650",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118757650",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118757650.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

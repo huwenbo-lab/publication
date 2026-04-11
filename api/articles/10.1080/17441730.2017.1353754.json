@@ -1,0 +1,25 @@
+{
+  "title": "Maternal work hours and adolescents’ body weight in South Korea",
+  "abstract": "This study examined whether previous findings linking maternal work hours to obesity among children generalised to Asian populations. Using a nationally representative sample of Korean middle school students and their parents (N = 1,873), ordinary least squares regression and logistic regression models assessed the association between maternal work hours and adolescents’ body mass index (BMI), overweight, and obesity. There were no significant associations between mothers’ weekly work hours and adolescents’ BMI (raw score, z-score, and percentile), overweight and obesity. These null associations were robust across different specifications for maternal employment, the proposed mediators, and outcome variables. Although longer maternal work hours were associated with adolescents’ longer unsupervised time, more sedentary behaviours (TV/Video/DVD viewing and electronic game playing), and less physical activity, this did not lead to an increase in the likelihood of being overweight and obese.",
+  "authors": [
+    {
+      "raw": "Cho, Youngmin",
+      "family": "Cho",
+      "given": "Youngmin"
+    }
+  ],
+  "authors_text": "Cho, Youngmin",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2017,
+  "doi": "10.1080/17441730.2017.1353754",
+  "doi_url": "https://doi.org/10.1080/17441730.2017.1353754",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2017.1353754",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2017.1353754.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

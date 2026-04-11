@@ -1,0 +1,35 @@
+{
+  "title": "I'd Like to Thank the Academy, Team Spillovers, and Network Centrality",
+  "abstract": "This article uses Academy Award nominations for acting to explore how artistic achievement is situated within a collaborative context. Assessment of individual effort is particularly difficult in film because quality is not transparent, but the project-based nature of the field allows us to observe individuals in multiple collaborative contexts. We address these issues with analyses of the top-10 credited roles from films released in theaters between 1936 and 2005. Controlling for an actor's personal history and the basic traits of a film, we explore two predictions. First, we find that status, as measured by asymmetric centrality in the network of screen credits, is an efficient measure of star power and mediates the relationship between experience and formal artistic consecration. Second, we find that actors are most likely to be consecrated when working with elite collaborators. We conclude by arguing that selection into privileged work teams provides cumulative advantage.",
+  "authors": [
+    {
+      "raw": "Rossman, Gabriel",
+      "family": "Rossman",
+      "given": "Gabriel"
+    },
+    {
+      "raw": "Esparza, Nicole",
+      "family": "Esparza",
+      "given": "Nicole"
+    },
+    {
+      "raw": "Bonacich, Phillip",
+      "family": "Bonacich",
+      "given": "Phillip"
+    }
+  ],
+  "authors_text": "Rossman, Gabriel; Esparza, Nicole; Bonacich, Phillip",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122409359164",
+  "doi_url": "https://doi.org/10.1177/0003122409359164",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122409359164",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122409359164.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

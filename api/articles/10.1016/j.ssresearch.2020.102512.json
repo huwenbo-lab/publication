@@ -1,0 +1,30 @@
+{
+  "title": "Undocumented immigration and terrorism: Is there a connection?*",
+  "abstract": "Unauthorized immigration, already a divisive and controversial subject in American society, was reframed as a grave national security threat after the terrorist attacks on Sept. 11, 2001. Yet, despite substantial public, political and policy attention to the issue of undocumented immigration and terrorism, there has been relatively little empirical assessment of the relationship between unauthorized immigration flows and terrorist activity. We attempt to fill this gap by combining newly developed estimates of the unauthorized population, a novel use of sentencing and prosecutorial data to measure terrorism-related activity, and multiple data sources on the criminological, socioeconomic, and demographic context from all 50 states from 1990 to 2014. We then leverage this unique dataset to examine the longitudinal, macro-level relationship between undocumented immigration and various measures of terrorism. Results from fixed effects negative binomial models suggest that increased undocumented immigration over this period is not associated with terrorist attacks, radicalization, or terrorism prosecutions.",
+  "authors": [
+    {
+      "raw": "Light, Michael T.",
+      "family": "Light",
+      "given": "Michael T."
+    },
+    {
+      "raw": "Thomas, Julia T.",
+      "family": "Thomas",
+      "given": "Julia T."
+    }
+  ],
+  "authors_text": "Light, Michael T.; Thomas, Julia T.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2020.102512",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102512",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102512",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102512.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

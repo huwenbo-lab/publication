@@ -1,0 +1,45 @@
+{
+  "title": "Using Twitter data for demographic research",
+  "abstract": "BACKGROUND Social media data is a promising source of social science data. However, deriving the demographic characteristics of users and dealing with the nonrandom, nonrepresentative populations from which they are drawn represent challenges for social scientists. OBJECTIVE Given the growing use of social media data in social science research, this paper asks two questions: 1) To what extent are findings obtained with social media data generalizable to broader populations, and 2) what is the best practice for estimating demographic information from Twitter data? METHODS Our analyses use information gathered from 979,992 geo-located Tweets sent by 22,356 unique users in South East England between 23 June and 4 July 2014. We estimate demographic characteristics of the Twitter users with the crowd-sourcing platform CrowdFlower and the image-recognition software Face++. To evaluate bias in the data, we run a series of log-linear models with offsets and calibrate the nonrepresentative sample of Twitter users with mid-year population estimates for South East England. RESULTS CrowdFlower proves to be more accurate than Face++ for the measurement of age, whereas both tools are highly reliable for measuring the sex of Twitter users. The calibration exercise allows bias correction in the age-, sex-, and location-specific population counts obtained from the Twitter population by augmenting Twitter data with mid-year population estimates. CONTRIBUTION The paper proposes best practices for estimating Twitter users' basic demographic characteristics and a calibration method to address the selection bias in the Twitter population, allowing researchers to generalize findings based on Twitter to the general population.",
+  "authors": [
+    {
+      "raw": "Yildiz, Dilek",
+      "family": "Yildiz",
+      "given": "Dilek"
+    },
+    {
+      "raw": "Munson, Jo",
+      "family": "Munson",
+      "given": "Jo"
+    },
+    {
+      "raw": "Vitali, Agnese",
+      "family": "Vitali",
+      "given": "Agnese"
+    },
+    {
+      "raw": "Tinati, Ramine",
+      "family": "Tinati",
+      "given": "Ramine"
+    },
+    {
+      "raw": "Holland, Jennifer A.",
+      "family": "Holland",
+      "given": "Jennifer A."
+    }
+  ],
+  "authors_text": "Yildiz, Dilek; Munson, Jo; Vitali, Agnese; Tinati, Ramine; Holland, Jennifer A.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.46",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.46",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.46",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.46.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Impact of the AIDS Pandemic on Health Services in Africa: Evidence from Demographic and Health Surveys",
+  "abstract": "Abstract We document the impact of the AIDS crisis on non-AIDS-related health services in 14 sub-Saharan African countries. Using multiple waves of Demographic and Health Surveys (DHS) for each country, we examine antenatal care, birth deliveries, and rates of immunization for children born between 1988 and 2005. We find deterioration in nearly all these dimensions of health care over this period. The most recent DHS survey for each country collected data on HIV prevalence, which allows us to examine the association between HIV burden and health care. We find that erosion of health services is the largest in regions that have developed the highest rates of HIV. Regions of countries that have light AIDS burdens have witnessed small or no declines in health care, using the measures noted above, while those regions shouldering the heaviest burdens have seen the largest erosion in non-HIV-related health services for pregnant women and children. Using semiparametric techniques, we can date the beginning of the divergence in the use of antenatal care and in children’s immunizations between high- and low-HIV regions to the mid-1990s.",
+  "authors": [
+    {
+      "raw": "Case, Anne",
+      "family": "Case",
+      "given": "Anne"
+    },
+    {
+      "raw": "Paxson, Christina",
+      "family": "Paxson",
+      "given": "Christina"
+    }
+  ],
+  "authors_text": "Case, Anne; Paxson, Christina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0026-3",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0026-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0026-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0026-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Global bilateral migration projections accounting for diasporas, transit and return flows, and poverty constraints",
+  "abstract": "BACKGROUND Anticipating changes in international migration patterns is useful for demographic studies and for designing policies that support the well-being of those involved. Existing forecasting methods do not account for a number of stylized facts that emerge from large-scale migration observations and theories: existing migrant communities - diasporas - act to lower migration costs and thereby provide a mechanism of self-amplification; return migration and transit migration are important components of global migration flows; and poverty constrains emigration. OBJECTIVE Here we present hindcasts and future projections of international migration that explicitly account for these nonlinear features. METHODS We develop a dynamic model that simulates migration flows by origin, destination, and place of birth. We calibrate the model using recently constructed global datasets of bilateral migration. RESULTS We show that the model reproduces past patterns and trends well based only on initial migrant stocks and changes in national incomes. We then project migration flows under future scenarios of global socioeconomic development. CONCLUSIONS Different assumptions about income levels and between-country inequality lead to markedly different migration trajectories, with migration flows either converging towards net zero if incomes in presently poor countries catch up with the rest of the world; or remaining high or even rising throughout the 21st century if economic development is slower and more unequal. Importantly, diasporas induce significant inertia and sizable return migration flows.",
+  "authors": [
+    {
+      "raw": "Rikani, Albano",
+      "family": "Rikani",
+      "given": "Albano"
+    },
+    {
+      "raw": "Schewe, Jacob",
+      "family": "Schewe",
+      "given": "Jacob"
+    }
+  ],
+  "authors_text": "Rikani, Albano; Schewe, Jacob",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.4",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

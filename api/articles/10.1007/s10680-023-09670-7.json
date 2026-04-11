@@ -1,0 +1,30 @@
+{
+  "title": "Union Status and Disability Pension",
+  "abstract": "AbstractA lot is known about the association between marital status and mortality, and some of these studies have included data on cohabitation. Studies on the association with health problems, rather than mortality, are often based on self-reported health outcomes, and results from these studies are mixed. As cohabitation is now widespread, more studies that include data on cohabitation are needed. We use Norwegian register data that include detailed information about union status and all cases of disability pensioning from 2005 to 2016. We employ Cox regression analysis and a within-family design in order to control for hard to measure childhood characteristics. Compared to the married, the cohabiting have a somewhat higher risk of receiving disability pension due to mental disorders, and for men also due to physical disorders. Receipt of disability pension is most common among the never married, especially for men. The association between union status and disability pensioning is stronger for mental than for physical disorders.",
+  "authors": [
+    {
+      "raw": "Christiansen, Solveig Glestad",
+      "family": "Christiansen",
+      "given": "Solveig Glestad"
+    },
+    {
+      "raw": "Kravdal, Øystein",
+      "family": "Kravdal",
+      "given": "Øystein"
+    }
+  ],
+  "authors_text": "Christiansen, Solveig Glestad; Kravdal, Øystein",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2023,
+  "doi": "10.1007/s10680-023-09670-7",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09670-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09670-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09670-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

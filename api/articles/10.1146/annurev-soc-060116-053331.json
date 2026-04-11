@@ -1,0 +1,35 @@
+{
+  "title": "Wealth Inequality and Accumulation",
+  "abstract": "Research on wealth inequality and accumulation and the data upon which it relies have expanded substantially in the twenty-first century. Although the field has experienced rapid growth, conceptual and methodological challenges remain. Webegin by discussing two major unresolved methodological concerns facing wealth research: how to address challenges to causal inference posed by wealth's cumulative nature and how to operationalize net worth given its highly skewed distribution. Next, we provide an overview of data sources available for wealth research. To underscore the need for continued empirical attention to net worth, we review trends in wealth levels and inequality and evaluate wealth's distinctiveness as an indicator of social stratification. We then review recent empirical evidence on the effects of wealth on other social outcomes, as well as research on the determinants of wealth. We close with a list of promising avenues for future research on wealth, its causes, and its consequences.",
+  "authors": [
+    {
+      "raw": "Killewald, Alexandra",
+      "family": "Killewald",
+      "given": "Alexandra"
+    },
+    {
+      "raw": "Pfeffer, Fabian T.",
+      "family": "Pfeffer",
+      "given": "Fabian T."
+    },
+    {
+      "raw": "Schachner, Jared N.",
+      "family": "Schachner",
+      "given": "Jared N."
+    }
+  ],
+  "authors_text": "Killewald, Alexandra; Pfeffer, Fabian T.; Schachner, Jared N.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2017,
+  "doi": "10.1146/annurev-soc-060116-053331",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-060116-053331",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-060116-053331",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-060116-053331.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

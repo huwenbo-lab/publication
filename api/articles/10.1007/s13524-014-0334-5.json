@@ -1,0 +1,30 @@
+{
+  "title": "When Does Time Matter? Maternal Employment, Children’s Time With Parents, and Child Development",
+  "abstract": "AbstractThis study tests the two assumptions underlying popularly held notions that maternal employment negatively affects children because it reduces time spent with parents: (1) that maternal employment reduces children’s time with parents, and (2) that time with parents affects child outcomes. We analyze children’s time-diary data from the Child Development Supplement of the Panel Study of Income Dynamics and use child fixed-effects and IV estimations to account for unobserved heterogeneity. We find that working mothers trade quantity of time for better “quality” of time. On average, maternal work has no effect on time in activities that positively influence children’s development, but it reduces time in types of activities that may be detrimental to children’s development. Stratification by mothers’ education reveals that although all children, regardless of mother’s education, benefit from spending educational and structured time with their mothers, mothers who are high school graduates have the greatest difficulty balancing work and childcare. We find some evidence that fathers compensate for maternal employment by increasing types of activities that can foster child development as well as types of activities that may be detrimental. Overall, we find that the effects of maternal employment are ambiguous because (1) employment does not necessarily reduce children’s time with parents, and (2) not all types of parental time benefit child development.",
+  "authors": [
+    {
+      "raw": "Hsin, Amy",
+      "family": "Hsin",
+      "given": "Amy"
+    },
+    {
+      "raw": "Felfe, Christina",
+      "family": "Felfe",
+      "given": "Christina"
+    }
+  ],
+  "authors_text": "Hsin, Amy; Felfe, Christina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0334-5",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0334-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0334-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0334-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

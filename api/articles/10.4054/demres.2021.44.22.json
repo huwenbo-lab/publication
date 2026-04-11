@@ -1,0 +1,25 @@
+{
+  "title": "A counterfactual choice approach to the study of partner selection",
+  "abstract": "BACKGROUND Research on assortative mating - how partner characteristics affect the likelihood of union formation - commonly uses the log-linear model, but this approach has been criticized for its complexity and limitations. OBJECTIVE The objective of this paper is to fully develop and illustrate a counterfactual model of assortative mating and to show how this model can be used to address specific limitations of the log-linear model. METHODS The model uses a sample of alternate counterfactual unions to estimate the odds of a true union using a conditional logit model. Recent data from the United States are used to illustrate the model. RESULTS Results show important biases can result from assumptions about the marriage market implicit in existing methods. Assuming that spouses are drawn from a national-level marriage market leads to underestimates of racial exogamy and educational heterogamy, while the exclusion of the unmarried population (the unmarried exclusion bias) leads to overestimates of these same parameters. The results also demonstrate that controls for birthplace and language endogamy substantially affect our understanding of racial exogamy in the United States, particularly for Asian and Latino populations. CONCLUSIONS The method gives the researcher greater control of the specification of the marriage market and greater flexibility in model specification than the more standard log-linear model. CONTRIBUTION This paper offers researchers a newly developed technique for analyzing assortative mating that promises to be more robust and flexible than prior tools. Further, it demonstrate best practices for using this new method.",
+  "authors": [
+    {
+      "raw": "Gullickson, Aaron",
+      "family": "Gullickson",
+      "given": "Aaron"
+    }
+  ],
+  "authors_text": "Gullickson, Aaron",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.22",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

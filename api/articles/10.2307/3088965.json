@@ -1,0 +1,35 @@
+{
+  "title": "Occupational stratification across the life course: Evidence from the Wisconsin Longitudinal Study",
+  "abstract": "Sociologists frequently study changes across cohorts in the consequences of family background, gender education, and cognitive ability for occupational outcomes. This study focuses, however, on how the consequences of these variables change within the course of individuals' lives. To appropriately estimate changes across the life course in the determinants of occupational standing, corrections are made for measurement errors in variables, and data on siblings are used to account for all aspects (measured and unmeasured) of family background. The analyses use data from the Wisconsin Longitudinal Study, which provides multiple measures of siblings' occupational standing at four points in their lives. Models of sibling resemblance show that the effects of family background on occupational standing operate entirely through their effects on education and cognitive ability. The effects of education decline across the life course, while the effects of ability remain small but persistent. In comparing men and women, substantial differences are found in career trajectories and in life course changes in occupational returns to schooling.",
+  "authors": [
+    {
+      "raw": "Warren, JR",
+      "family": "Warren",
+      "given": "JR"
+    },
+    {
+      "raw": "Hauser, RM",
+      "family": "Hauser",
+      "given": "RM"
+    },
+    {
+      "raw": "Sheridan, JT",
+      "family": "Sheridan",
+      "given": "JT"
+    }
+  ],
+  "authors_text": "Warren, JR; Hauser, RM; Sheridan, JT",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2002,
+  "doi": "10.2307/3088965",
+  "doi_url": "https://doi.org/10.2307/3088965",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088965",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088965.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

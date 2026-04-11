@@ -1,0 +1,25 @@
+{
+  "title": "Social infrastructure and the prevalence of deaths of despair: The role of concentrated disadvantage",
+  "abstract": "This study aims to understand the associations between social infrastructure and deaths of despair (DoD), with special attention to the role of concentrated disadvantage. I assembled a county-level dataset in the United States from various sources. A series of multilevel regression results indicate that (1) social infrastructure is associated with DoD; a higher density of public institutions (e.g., libraries) and religious organizations are associated with a lower prevalence of DoD; and (3) the associations between social infrastructure and DoD vary by concentrated disadvantage in that the protective effects of social infrastructure are observed only in less disadvantaged countries.",
+  "authors": [
+    {
+      "raw": "Kim, Seulki",
+      "family": "Kim",
+      "given": "Seulki"
+    }
+  ],
+  "authors_text": "Kim, Seulki",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2024.103128",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103128",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103128",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103128.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

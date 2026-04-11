@@ -1,0 +1,35 @@
+{
+  "title": "The Effect of the Texas Migrant Busing Program on the 2024 U.S. Presidential Election",
+  "abstract": "From 2022 to 2024, Texas transported more than 100,000 migrants from the U.S.–Mexico border to six cities led by Democratic mayors, creating a unique migration shock far from the border. We use county-level data to estimate the program’s effects on presidential elections. Comparing two elections prior to the program (2016–2020) with one after (2024), we find that the busing program increased Trump’s vote share by more than three percentage points in treated counties. These effects are robust to alternative analyses. To explore mechanisms further, we analyze individual-level data from AP VoteCast. The increase in Trump’s vote share in places receiving buses was driven by swing voters and elevated Republican turnout. Swing voters in busing destinations were moved to Trump by amplified concerns with crime, whereas Republican turnout was linked to heightened concerns over immigration. Our findings highlight the enduring power of minority threat and the growing role of subnational immigration policies.",
+  "authors": [
+    {
+      "raw": "Scarborough, William",
+      "family": "Scarborough",
+      "given": "William"
+    },
+    {
+      "raw": "Kwon, Ronald",
+      "family": "Kwon",
+      "given": "Ronald"
+    },
+    {
+      "raw": "Brady, David",
+      "family": "Brady",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Scarborough, William; Kwon, Ronald; Brady, David",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2026,
+  "doi": "10.15195/v13.a11",
+  "doi_url": "https://doi.org/10.15195/v13.a11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv13.a11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v13.a11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

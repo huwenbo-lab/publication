@@ -1,0 +1,30 @@
+{
+  "title": "The Rise of the Super-Rich: Power Resources, Taxes, Financial Markets, and the Dynamics of the Top 1 Percent, 1949 to 2008",
+  "abstract": "The income share of the super-rich in the United States has grown rapidly since the early 1980s after a period of postwar stability. What factors drove this change? In this study, we investigate the institutional, policy, and economic shifts that may explain rising income concentration. We use single-equation error correction models to estimate the long-and short-run effects of politics, policy, and economic factors on pretax top income shares between 1949 and 2008. We find that the rise of the super-rich is the result of rightward-shifts in Congress, the decline of labor unions, lower tax rates on high incomes, increased trade openness, and asset bubbles in stock and real estate markets.",
+  "authors": [
+    {
+      "raw": "Volscho, Thomas W.",
+      "family": "Volscho",
+      "given": "Thomas W."
+    },
+    {
+      "raw": "Kelly, Nathan J.",
+      "family": "Kelly",
+      "given": "Nathan J."
+    }
+  ],
+  "authors_text": "Volscho, Thomas W.; Kelly, Nathan J.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2012,
+  "doi": "10.1177/0003122412458508",
+  "doi_url": "https://doi.org/10.1177/0003122412458508",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122412458508",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122412458508.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

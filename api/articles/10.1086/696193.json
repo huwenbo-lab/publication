@@ -1,0 +1,30 @@
+{
+  "title": "Political Islam, Marriage, and Fertility: Evidence from a Natural Experiment",
+  "abstract": "The plethora of pathways leading to family formation decisions has made the causal assessment of the influence of politics and religion on marriage and fertility difficult. The authors exploit the unique opportunity offered by the emergence of a new political party in Turkey, and the electoral features of the country's majoritarian system, to estimate the effect of politics and religion on marriage and fertility. The AK Parti (Justice and Development Party), with an explicitly Islamist platform, won Turkish elections in 2002, taking both a pro-natalist and pro-family stance, with increasing welfare expenditures and an explicit neoliberal agenda on macroeconomic issues. The authors analyze the results of the 2004 local elections using a regression discontinuity design and show that fertility and marriage rates have been significantly higher in districts where the AK Parti won. They argue that increased local welfare provision is the main explanatory mechanism, also discussing other alternative and complementary mechanisms.",
+  "authors": [
+    {
+      "raw": "Aksoy, Ozan",
+      "family": "Aksoy",
+      "given": "Ozan"
+    },
+    {
+      "raw": "Billari, Francesco C.",
+      "family": "Billari",
+      "given": "Francesco C."
+    }
+  ],
+  "authors_text": "Aksoy, Ozan; Billari, Francesco C.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2018,
+  "doi": "10.1086/696193",
+  "doi_url": "https://doi.org/10.1086/696193",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F696193",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/696193.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

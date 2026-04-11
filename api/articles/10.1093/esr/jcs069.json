@@ -1,0 +1,30 @@
+{
+  "title": "Life Planning among Young Adults in 23 European Countries: The Effects of Individual and Country Security",
+  "abstract": "How do conditions of security, either on the individual or societal level, affect the propensity of young adults to plan? We begin with two basic sets of hypotheses. In the positive direction, when young adults have greater security, planning will be more possible and more necessary to narrow the field of options; when young adults have lower security, planning will be less possible and less necessary. In the negative direction, when young adults have lower security, planning will be more necessary to optimize whatever prospects might exist; when young adults have greater security, there will be less need to plan because options are ample. The article tests these hypotheses using two-level linear regression models with individuals aged 18–35 years in 23 European countries. Our results reveal opposing trends at the individual and country levels. Young adults with greater personal security are more likely to plan than those who have fewer personal resources. Yet, young adults who live in countries with less favourable societal conditions are actually more likely to plan than those who live in countries with more favourable conditions. We conclude with explanations for, and the implications of, these opposing tendencies.",
+  "authors": [
+    {
+      "raw": "Hellevik, T.",
+      "family": "Hellevik",
+      "given": "T."
+    },
+    {
+      "raw": "Settersten, R. A.",
+      "family": "Settersten",
+      "given": "R. A."
+    }
+  ],
+  "authors_text": "Hellevik, T.; Settersten, R. A.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2012,
+  "doi": "10.1093/esr/jcs069",
+  "doi_url": "https://doi.org/10.1093/esr/jcs069",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcs069",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcs069.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

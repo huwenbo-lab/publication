@@ -1,0 +1,35 @@
+{
+  "title": "Parental Separation and Children’s Education—Changes Over Time?",
+  "abstract": "The association between parental separation and children’s education has been widely studied, but mainly at a single time point and for marital dissolution only. We examine whether the (generally negative) association has changed across cohorts for several educational outcomes and whether the association differs by parental union type (marriage, cohabitation) and socioeconomic family background (parental education).We use Finnish total population register data. We focus on child cohorts born between 1987 and 2003 ( N = 967,242) and analyse grade point averages, secondary education and tertiary education using linear regression and linear probability models with standard errors clustered within families.The association between parental separation and educational achievement is negative and has remained similar across the birth cohorts. Differences according to parental union type and socioeconomic family background are rather small. The stability of the association over time suggests that the consequences of parental separation on children’s education have not changed over time, and they do not depend much on parental union type or family background.",
+  "authors": [
+    {
+      "raw": "Kailaheimo-Lönnqvist, Sanna",
+      "family": "Kailaheimo-Lönnqvist",
+      "given": "Sanna"
+    },
+    {
+      "raw": "Jalovaara, Marika",
+      "family": "Jalovaara",
+      "given": "Marika"
+    },
+    {
+      "raw": "Myrskylä, Mikko",
+      "family": "Myrskylä",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Kailaheimo-Lönnqvist, Sanna; Jalovaara, Marika; Myrskylä, Mikko",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-024-09721-7",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09721-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09721-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09721-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Neighborhoods and mortality in Sweden: Is deprivation best assessed nationally or regionally?",
+  "abstract": "`BACKGROUND The association between neighborhood deprivation and mortality is well established, but knowledge about whether deprivation is best assessed regionally or nationally is scarce. OBJECTIVE The present study aims to examine whether there is a difference in results when using national and county-specific neighborhood deprivation indices and whether the level of urbanization modifies the association between neighborhood deprivation and mortality. METHODS We collected data on the entire population aged above 50 residing in the 21 Swedish counties on January 1, 1990, and followed them for mortality due to all causes and for coronary heart disease. The association between neighborhood deprivation and mortality was assessed using Cox regression, assuming proportional hazards with attained age as an underlying variable, comparing the 25% most deprived neighborhoods with the 25% most affluent ones within each region, and using both the national and the county-specific indices. The potential interactions were also assessed. RESULTS The choice of a national or a county-specific index did not affect the estimates to a large extent. The effect of neighborhood deprivation on mortality in metropolitan regions (hazard ratio: 1.21 [1.20-1.22]) was somewhat higher than that in the more rural southern (HR: 1.16 [1.15-1.17]) and northern regions (HR: 1.11 [1.09-1.12]). CONCLUSION Our data indicates that the choice of a national or a county-specific deprivation index does not influence the results to a significant extent, but may be of importance in large metropolitan regions. Furthermore, the strength of the association between neighborhood deprivation and mortality is somewhat greater in metropolitan areas than in more rural southern and northern areas.",
+  "authors": [
+    {
+      "raw": "Astrom, Daniel Oudin",
+      "family": "Astrom",
+      "given": "Daniel Oudin"
+    },
+    {
+      "raw": "Franks, Paul W.",
+      "family": "Franks",
+      "given": "Paul W."
+    },
+    {
+      "raw": "Sundquist, Kristina",
+      "family": "Sundquist",
+      "given": "Kristina"
+    }
+  ],
+  "authors_text": "Astrom, Daniel Oudin; Franks, Paul W.; Sundquist, Kristina",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.18",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

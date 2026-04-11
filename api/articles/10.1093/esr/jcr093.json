@@ -1,0 +1,35 @@
+{
+  "title": "United in Precarious Employment? Employment Precarity of Young Couples in the Netherlands, 1992-2007",
+  "abstract": "The trend towards labour market flexibilization in advanced economies since the 1990s is associated with more employment insecurity. This study examines to what extent employment flexibility among young people in the Netherlands is related to employment flexibility or unemployment of the partner, between 1992 and 2007. In addition, we aim to explain this relationship. Multinomial logistic regression models are estimated using 16 cross-sections of the Dutch Labor Force Survey (1992–2007), including 87,204 young couples. The results show that there is a positive relationship between precarious employment of two partners and that this can be explained by the mechanism of assortative mating (i.e. people select partners that are alike with respect to characteristics like education, age and ethnicity, and, these characteristics relate at the individual level with employment situation) and through partner effects (i.e. partners can be considered as providers of skills, knowledge, and network resources that add up to one's own labour market resources to which one has access).",
+  "authors": [
+    {
+      "raw": "de Lange, M.",
+      "family": "de Lange",
+      "given": "M."
+    },
+    {
+      "raw": "Wolbers, M. H. J.",
+      "family": "Wolbers",
+      "given": "M. H. J."
+    },
+    {
+      "raw": "Ultee, W. C.",
+      "family": "Ultee",
+      "given": "W. C."
+    }
+  ],
+  "authors_text": "de Lange, M.; Wolbers, M. H. J.; Ultee, W. C.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2012,
+  "doi": "10.1093/esr/jcr093",
+  "doi_url": "https://doi.org/10.1093/esr/jcr093",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcr093",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcr093.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

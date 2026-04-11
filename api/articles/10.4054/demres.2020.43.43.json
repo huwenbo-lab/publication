@@ -1,0 +1,30 @@
+{
+  "title": "Child mortality levels and trends: A new compositional approach",
+  "abstract": "BACKGROUND Trend analysis of child mortality is vital to evaluate countries' progress towards achieving the Sustainable Development Goal on health (SDG 3). However, strictly speaking, child mortality data are probabilities, and thus subject to non-negativity and constant-sum constraints. OBJECTIVE Our objective is to assess the application of compositional data analysis for estimating levels and trends in child mortality. METHODS We compare two data transformations: logit, which is widely used in child mortality estimation, and isometric log-ratio (ILR), which is specifically designed for compositional data. We use publicly available household survey data on neonatal (NMR) and under-five (U5MR) mortality ratios in sub-Saharan Africa. RESULTS Although both data transformations yield similar estimates, only the ILR transformation is consistent with the compositional properties of child mortality data. However, the ILR suffers from one key drawback: it requires complete data series, with pairs of observations for both NMR and U5MR. As a result, ILR entails excluding a large amount of available data from the regression analysis. CONCLUSIONS Complete data is needed to be able to undertake a compositional trend analysis of child mortality. This gap in data can be closed by employing imputation strategies that replace missing values in the existing datasets, and by developing new methods for the indirect estimation of NMR from summary birth history data, as it is currently done for U5MR. CONTRIBUTION This paper extends the literature on child mortality estimation by examining the application of compositional data analysis to this field. It constitutes a first step towards building a Bayesian compositional regression approach for child mortality estimation.",
+  "authors": [
+    {
+      "raw": "Ezbakhe, Fatine",
+      "family": "Ezbakhe",
+      "given": "Fatine"
+    },
+    {
+      "raw": "Perez-Foguet, Agusti",
+      "family": "Perez-Foguet",
+      "given": "Agusti"
+    }
+  ],
+  "authors_text": "Ezbakhe, Fatine; Perez-Foguet, Agusti",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.43",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.43",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.43",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.43.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Gender Equality Through Computerisation",
+  "abstract": "Technological innovation leads to a wide variety of change in many aspects of social life, including employment. Innovations open, close and change opportunities. Are these changes different for men and women? Given the importance of job segregation by gender and the continuing differences between men and women in job prospects and pay, it is possible that technology might accentuate the gender inequalities which already exist (men have probably gained more than women from their traditionally closer attachment to productive technology). However, computerisation, which is less gender-specific, might be changing this. The analysis uses two European datasets, and standard wage equations, to test the idea that women gain relative to men from computerisation. The question whether the change reduces inequality amongst women is more complex, and is tested through the use of Lorenz curves and quantile regression.",
+  "authors": [
+    {
+      "raw": "Brynin, Malcolm",
+      "family": "Brynin",
+      "given": "Malcolm"
+    }
+  ],
+  "authors_text": "Brynin, Malcolm",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1093/esr/jci046",
+  "doi_url": "https://doi.org/10.1093/esr/jci046",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci046",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci046.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

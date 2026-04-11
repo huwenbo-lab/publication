@@ -1,0 +1,40 @@
+{
+  "title": "The air pollution disadvantage of immigrants in Germany: partly a matter of urbanity",
+  "abstract": "Several studies now document the disproportionate distribution of environmental pollution across different groups, but many are based on aggregated data or subjective pollution measures. In this study, we describe the air quality disadvantage of migrants in Germany using objective pollution data linked to nationally representative individual-level survey data. We intersect 1 x 1 km(2) grid geo-references from the German General Social Survey (ALLBUS) 2014, 2016, and 2018 with 2 x 2 km(2) estimates of annually averaged air pollution by the German Environment Agency for nitrogen dioxide, ozone, and particulate matter. Respondents with a migration background are exposed to higher levels of nitrogen dioxide and particulate matter than people of German descent. Urbanity of residence partly explains these differences, up to 81 per cent for particulate matter and about 30 per cent for other pollutants. A larger proportion of immigrants live in larger cities, which are more prone to high levels of air pollution. This is especially true for second-generation migrants. Income differences, on the other hand, do not explain the migrant disadvantage. In city fixed effects models, the patterns for migration background point unambiguously in the direction of environmental disadvantage for all pollutants except ozone. However, the within-municipality associations are weak.",
+  "authors": [
+    {
+      "raw": "Ehler, Ingmar",
+      "family": "Ehler",
+      "given": "Ingmar"
+    },
+    {
+      "raw": "Bader, Felix",
+      "family": "Bader",
+      "given": "Felix"
+    },
+    {
+      "raw": "Ruettenauer, Tobias",
+      "family": "Ruettenauer",
+      "given": "Tobias"
+    },
+    {
+      "raw": "Best, Henning",
+      "family": "Best",
+      "given": "Henning"
+    }
+  ],
+  "authors_text": "Ehler, Ingmar; Bader, Felix; Ruettenauer, Tobias; Best, Henning",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad046",
+  "doi_url": "https://doi.org/10.1093/esr/jcad046",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad046",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad046.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

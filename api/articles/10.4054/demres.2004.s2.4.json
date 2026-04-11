@@ -1,0 +1,40 @@
+{
+  "title": "Russian mortality beyond vital statistics",
+  "abstract": "Analyses of routine data have established that the extreme mortality fluctuations among young and middle-aged men are the most important single component of both temporal changes in Russian life expectancy at birth and in the gap between male and femal",
+  "authors": [
+    {
+      "raw": "Shkolnikov, Vladimir",
+      "family": "Shkolnikov",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Chervyakov, Valeriy V.",
+      "family": "Chervyakov",
+      "given": "Valeriy V."
+    },
+    {
+      "raw": "McKee, Martin",
+      "family": "McKee",
+      "given": "Martin"
+    },
+    {
+      "raw": "Leon, David A.",
+      "family": "Leon",
+      "given": "David A."
+    }
+  ],
+  "authors_text": "Shkolnikov, Vladimir; Chervyakov, Valeriy V.; McKee, Martin; Leon, David A.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2004,
+  "doi": "10.4054/demres.2004.s2.4",
+  "doi_url": "https://doi.org/10.4054/demres.2004.s2.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2004.s2.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2004.s2.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

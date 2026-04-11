@@ -1,0 +1,25 @@
+{
+  "title": "The Spanish flu and the health system: Considerations from the city of Parma, 1918",
+  "abstract": "BACKGROUND The gravity of the Spanish flu has been often associated with inadequate health systems. However, few studies have used health data effectively in their analysis of epidemics. OBJECTIVE To analyze the role of hospitals in an Italian town during the Spanish flu and its effect on the risk of dying at home.METHODS Individual-level information from the Permission of Burials was used to evaluate the impact of the epidemic on city hospitals. A logistic model was used to estimate the odds of a home death in order to elucidate possible sociodemographic mechanisms linked to hospital saturation issues.RESULTS During the epidemic the odds of dying at home increased by 29% overall, driven especially by an increase in home deaths among the poorest social groups. However, the well-off maintained the highest odds of dying at home throughout 1918.CONCLUSIONS Hospitals facilitated the spread of the epidemic in the city and contributed to its high mortality level. The increase in the odds of dying at home for the poorest was likely associated with hospital saturation, which conversely does not appear to have affected the well-off. In fact, this social group already had very high levels of home deaths in the pre-epidemic period.CONTRIBUTION Evaluating the role of hospitals during the Spanish flu allows better comprehension of the spread and evolution of the epidemic, especially regarding possible saturation issues and differential access to health resources.",
+  "authors": [
+    {
+      "raw": "Manfredini, Matteo",
+      "family": "Manfredini",
+      "given": "Matteo"
+    }
+  ],
+  "authors_text": "Manfredini, Matteo",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.32",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

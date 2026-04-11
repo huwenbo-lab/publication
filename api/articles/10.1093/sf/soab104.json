@@ -1,0 +1,30 @@
+{
+  "title": "Immigrant-Biased Technological Change: The Effect of New Technology Implementation on Native and Non-Western Immigrant Employment in the Netherlands",
+  "abstract": "This study examines how workplace technological innovation is associated with individual-level employment turnover. We advance the literature by studying how the impact of technology differs for Dutch native workers and workers with non-Western immigrant backgrounds. Furthermore, we examine the disparate impacts of organizational context, as indexed by the proportion of workers with non-Western immigrant backgrounds and workplace job volatility, as well as industry-level unionization. Using large-scale Dutch matched employer-employee longitudinal data for the period 2001-2014, we find technology implementation to decrease chances of job ending, but this innovation protection is smaller and sometimes absent for workers with non-Western immigrant backgrounds than for native Dutch workers. This pattern is most marked for first-generation immigrants and immigrants from non-Dutch-speaking countries. We also find evidence of organization-level ethnic competition effects among low and middle educated workers, but not for workers with tertiary degrees. Among lower educated workers technological displacement is exaggerated in workplaces that employ many workers with immigrant backgrounds, although unionization mutes this effect. Among middle educated workers technological displacement is exaggerated in high-turnover workplaces.",
+  "authors": [
+    {
+      "raw": "ten Berge, Jannes",
+      "family": "ten Berge",
+      "given": "Jannes"
+    },
+    {
+      "raw": "Tomaskovic-Devey, Donald",
+      "family": "Tomaskovic-Devey",
+      "given": "Donald"
+    }
+  ],
+  "authors_text": "ten Berge, Jannes; Tomaskovic-Devey, Donald",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab104",
+  "doi_url": "https://doi.org/10.1093/sf/soab104",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab104",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab104.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

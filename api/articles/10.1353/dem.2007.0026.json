@@ -1,0 +1,40 @@
+{
+  "title": "Chronic conditions and the decline in late-life disability",
+  "abstract": "AbstractUsing data from the 1997–2004 National Health Interview Survey (NHIS), we examine the role of chronic conditions in recent declines in late-life disability prevalence. Building upon prior studies, we decompose disability declines into changes in the prevalence of chronic conditions and in the risk of disability given a condition. In doing so, we extend Kitigawa’s (1955) classical decomposition technique to take advantage of the annual data points in the NHIS. Then we use respondents’ reports of conditions causing their disability to repartition these traditional decomposition components. We find a general pattern of increasing prevalence of chronic conditions accompanied by declines in the percentage reporting disability among those with a given condition. We also find declines in heart and circulatory conditions, vision impairments, and possibly arthritis and increases in obesity as reported causes of disability. Based on decomposition analyses, we conclude that heart and circulatory conditions as well as vision limitations played a major role in recent declines in late-life disability prevalence and that arthritis may also be a contributing factor. We discuss these findings in light of improvements in treatments and changes in the environments of older adults.",
+  "authors": [
+    {
+      "raw": "Freedman, Vicki A.",
+      "family": "Freedman",
+      "given": "Vicki A."
+    },
+    {
+      "raw": "Schoeni, Robert F.",
+      "family": "Schoeni",
+      "given": "Robert F."
+    },
+    {
+      "raw": "Martin, Linda G.",
+      "family": "Martin",
+      "given": "Linda G."
+    },
+    {
+      "raw": "Cornman, Jennifer C.",
+      "family": "Cornman",
+      "given": "Jennifer C."
+    }
+  ],
+  "authors_text": "Freedman, Vicki A.; Schoeni, Robert F.; Martin, Linda G.; Cornman, Jennifer C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0026",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0026",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0026",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0026.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

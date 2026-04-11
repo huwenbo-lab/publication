@@ -1,0 +1,45 @@
+{
+  "title": "Decomposing changes in subnational income inequality in the United States, 1980-2019",
+  "abstract": "The rapid growth of income inequality in the United States has unfolded unevenly across the country. Levels of, and changes in, income inequality within local economies have been spatially and temporally heterogeneous. While previous research has identified correlates of subnational inequality, it has given less attention to the contribution of compositional changes. Drawing on commuting zone (CZ)-level estimates produced from U.S. Census and American Community Survey data, we extend the literature on subnational income inequality by addressing four main objectives. First, we track changes in the prevalence of five sets of inequality risk factors. Second, we measure the associations between these factors and within-CZ income inequality in 1980 and 2019 and describe changes in these relationships over time. Third, we decompose changes in within-CZ income inequality (1980-2019) into components attributable to changes in composition and coefficients. Fourth, we compare the South to other regions to explore relevant patterns of socioeconomic change unique to the former. We find substantively large shifts in the prevalence of all five sets of risk factors and significant changes in the effects of many factors, especially the age and industrial structures of CZs. Coefficient effects explain the largest overall share of changing inequality between 1980 and 2019, but these overall effects mask considerable heterogeneity in the strength and direction of both composition and coefficient effects of individual blocks of variables. We also find significant regional variation in the size of coefficient effects and the relative contributions of composition and coefficient effects.",
+  "authors": [
+    {
+      "raw": "Thiede, Brian C.",
+      "family": "Thiede",
+      "given": "Brian C."
+    },
+    {
+      "raw": "Brown, David L.",
+      "family": "Brown",
+      "given": "David L."
+    },
+    {
+      "raw": "Jayasekera, Deshamithra H. W.",
+      "family": "Jayasekera",
+      "given": "Deshamithra H. W."
+    },
+    {
+      "raw": "Jensen, Leif",
+      "family": "Jensen",
+      "given": "Leif"
+    },
+    {
+      "raw": "Butler, Jaclyn L. W.",
+      "family": "Butler",
+      "given": "Jaclyn L. W."
+    }
+  ],
+  "authors_text": "Thiede, Brian C.; Brown, David L.; Jayasekera, Deshamithra H. W.; Jensen, Leif; Butler, Jaclyn L. W.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soae187",
+  "doi_url": "https://doi.org/10.1093/sf/soae187",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae187",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae187.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

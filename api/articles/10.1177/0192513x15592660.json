@@ -1,0 +1,40 @@
+{
+  "title": "Patterns of Vulnerabilities and Resources in U.S. Military Families",
+  "abstract": "The appropriate format for services supporting military families depends on how vulnerabilities and resources are distributed across and within those families. If different types of vulnerabilities cluster together, then programs supporting families should combine multiple services rather than targeting specific concerns. Yet scant data exist about how vulnerabilities and resources covary within military families. The current study addressed this issue through a latent class analysis of data on a wide range of domains obtained from a stratified random sample of 1,981 deployable, active component, married servicemembers and their spouses. Within married deployable servicemembers, results indicated that vulnerabilities and resources cluster together within individuals; servicemembers at high risk in one domain are likely to be high risk in multiple domains. This is less the case for spouses. One or both spouses are vulnerable in 39% of couples. These results support programs that provide vulnerable military families with more comprehensive services.",
+  "authors": [
+    {
+      "raw": "Trail, Thomas E.",
+      "family": "Trail",
+      "given": "Thomas E."
+    },
+    {
+      "raw": "Meadows, Sarah O.",
+      "family": "Meadows",
+      "given": "Sarah O."
+    },
+    {
+      "raw": "Miles, Jeremy N.",
+      "family": "Miles",
+      "given": "Jeremy N."
+    },
+    {
+      "raw": "Karney, Benjamin R.",
+      "family": "Karney",
+      "given": "Benjamin R."
+    }
+  ],
+  "authors_text": "Trail, Thomas E.; Meadows, Sarah O.; Miles, Jeremy N.; Karney, Benjamin R.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2015,
+  "doi": "10.1177/0192513x15592660",
+  "doi_url": "https://doi.org/10.1177/0192513x15592660",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x15592660",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x15592660.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

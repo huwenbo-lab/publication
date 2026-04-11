@@ -1,0 +1,30 @@
+{
+  "title": "Income inequality, cultural capital, and high school students' academic achievement in OECD countries: A moderated mediation analysis",
+  "abstract": "This study examines how social context, in this case, income inequality, shapes the role of cultural capital in educational success. First, we revisit the associations between (objectified) cultural capital and academic achievement, and cultural capital's role in mediating the relationship between family SES and academic achievement. More importantly, we explore how national-level income inequality moderates these two relationships. By analyzing a multilevel dataset of 32 OECD countries, a combination of PISA 2018 data and several national indexes, we find that: (1) cultural capital not only has a positive association with students' academic achievement but also acts as a significant mediator of the relationship between family SES and academic achievement in OECD countries; (2) both cultural capital's association with academic achievement and it's mediating role are stronger in more equal countries than in unequal ones. The findings shed new light on understanding how cultural capital shapes intergenerational education inequality across countries with different levels of inequality.",
+  "authors": [
+    {
+      "raw": "Wang, Jingjing",
+      "family": "Wang",
+      "given": "Jingjing"
+    },
+    {
+      "raw": "Wu, Yuxiao",
+      "family": "Wu",
+      "given": "Yuxiao"
+    }
+  ],
+  "authors_text": "Wang, Jingjing; Wu, Yuxiao",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1111/1468-4446.12997",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12997",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12997",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12997.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

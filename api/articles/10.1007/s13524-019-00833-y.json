@@ -1,0 +1,30 @@
+{
+  "title": "Many Kinds of Poverty: Three Dimensions of Economic Hardship, Their Combinations, and Children's Behavior Problems",
+  "abstract": "Income poverty, material deprivation, and subjective financial stress are three distinct dimensions of economic hardship. The majority of the theoretical and empirical literature on the effects of economic hardship on children has treated material deprivation and subjective financial stress as only mediators of the effects of income poverty, not considering the independent effects of each dimension or the effects of their combinations. Using nationally representative, longitudinal data from the Millennium Cohort Study on more than 18,000 families in the United Kingdom, we propose seven distinct experiences of economic hardship, based on the possible combinations of income poverty, material deprivation, and subjective financial stress. We use mixed- and fixed-effects linear regression models to identify whether these different economic hardship combinations are differentially associated with children's behavior problems between ages 3 and 7. We find that all economic hardship combinations, including those without income poverty, are associated with higher levels of children's behavior problems. The combination of material deprivation and subjective financial stress and the combination of all three dimensions of economic hardship are associated with the highest levels of behavior problems. Based on these findings, we argue that income poverty is an important but insufficient measure of economic hardship for children and that theory and research on the effects of economic hardship on children should consider the multidimensional nature of economic stressors for families.",
+  "authors": [
+    {
+      "raw": "Schenck-Fontaine, Anika",
+      "family": "Schenck-Fontaine",
+      "given": "Anika"
+    },
+    {
+      "raw": "Panico, Lidia",
+      "family": "Panico",
+      "given": "Lidia"
+    }
+  ],
+  "authors_text": "Schenck-Fontaine, Anika; Panico, Lidia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00833-y",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00833-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00833-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00833-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

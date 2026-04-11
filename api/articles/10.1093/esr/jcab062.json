@@ -1,0 +1,30 @@
+{
+  "title": "Does Higher Education Have Liberalizing or Inoculating Effects? A Panel Study of Anti-Immigrant Sentiment before, during, and after the European Migration Crisis",
+  "abstract": "Previous research has consistently shown a negative correlation between education and anti-immigrant sentiment. This association is most pronounced when distinguishing between adults with higher education and those without a tertiary degree. Yet it remains unclear whether educational attainment actually matters for attitudes, mainly due to a lack of longitudinal studies. This article investigates the so-called liberalizing effect of education on adults' attitudes towards immigrants by taking into account individual, regional, and period effects. Using 12 waves of the Norwegian Citizen Panel (2013-2020) combined with contextual data from Statistics Norway, we assess the effects of: (i) educational attainment at the individual level; (ii) the expansion of higher education at the regional level; and (iii) higher education during a time of social upheaval. Results from multilevel cross-classified, repeated measurement models show that within-individual and within-county changes in educational attainment have a small but liberalizing effect on attitudes. Furthermore, individuals with at least 3-4 years of university education do not react as strongly to the highly salient European migration crisis than those with lower levels of education. This finding suggests that higher education inhibits perceptions of threat that may manifest during 'big events' such as a dramatic increase in asylum seeking. We interpret these novel results as evidence of an inoculating effect, in that higher education protects individuals against whatever instinct exists to react strongly during such crises.",
+  "authors": [
+    {
+      "raw": "Velasquez, Paolo",
+      "family": "Velasquez",
+      "given": "Paolo"
+    },
+    {
+      "raw": "Eger, Maureen A.",
+      "family": "Eger",
+      "given": "Maureen A."
+    }
+  ],
+  "authors_text": "Velasquez, Paolo; Eger, Maureen A.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab062",
+  "doi_url": "https://doi.org/10.1093/esr/jcab062",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab062",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab062.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

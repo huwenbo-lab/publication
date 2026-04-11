@@ -1,0 +1,25 @@
+{
+  "title": "Educational differences in mortality associated with central obesity: Decomposing the contribution of risk and prevalence",
+  "abstract": "Thousands of preventable deaths are attributed to obesity in the United States. However, the harmfulness of obesity varies across the population; individuals' education determines access to healthful resources and exposure to competing risks, dampening/amplifying obesity-associated mortality risk. Using restricted U.S. National Health and Nutrition Examination Survey data (N 1/4 40,058; 1988-2015), this study estimates educational differences in mortality attributable to central obesity (waist-to-height ratio >= 0.5) - a dangerous form of abdominal adiposity. Over 30% of excess deaths are attributable to central obesity among college-educated adults, compared to 1-10% among their less-educated counterparts. This difference is larger for cardiometabolic-related mortality, as central obesity may explain 60-70% of excess deaths among college-educated adults. Decomposition analyses show differences are driven by greater obesity-associated risk among college-educated adults, rather than prevalence. Policies targeting health disparities should recognize central obesity as a key risk among highly-educated adults, but only one of many encountered by those with less education.",
+  "authors": [
+    {
+      "raw": "Gutin, Iliya",
+      "family": "Gutin",
+      "given": "Iliya"
+    }
+  ],
+  "authors_text": "Gutin, Iliya",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2020.102445",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102445",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102445",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102445.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

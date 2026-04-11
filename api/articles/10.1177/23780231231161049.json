@@ -1,0 +1,35 @@
+{
+  "title": "Analyzing Text and Images in Digital Communication: The Case of Securitization in American White Supremacist Online Discourse",
+  "abstract": "Sociological research on online discourse increasingly uses digital data consisting of messages combining multiple modes of media, with meaning arising from contents’ interaction across modes. Yet, techniques to study this interplay are underdeveloped relative to the toolkit for analyzing solely texts. The authors introduce an automated approach for relationally analyzing texts and images, focusing on how to examine the discursive meaning emerging from concepts’ connections across associated text and image modes. The authors validate this approach using a crowdsourced task and obtain results suggesting that applying social network metrics to semantic space can generate useful insights into how people understand discourse. To illustrate this approach, the authors examine the concept of “securitization” in online white supremacist discourse. The findings indicate that ideas of securitization link notions of personalistic leadership with imagery of space and place. This analysis demonstrates how the authors’ approach helps researchers understand multimodal material and meaning-making in digital discourse.",
+  "authors": [
+    {
+      "raw": "Karell, Daniel",
+      "family": "Karell",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Freedman, Michael",
+      "family": "Freedman",
+      "given": "Michael"
+    },
+    {
+      "raw": "Gidron, Noam",
+      "family": "Gidron",
+      "given": "Noam"
+    }
+  ],
+  "authors_text": "Karell, Daniel; Freedman, Michael; Gidron, Noam",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231161049",
+  "doi_url": "https://doi.org/10.1177/23780231231161049",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231161049",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231161049.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

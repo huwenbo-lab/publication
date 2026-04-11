@@ -1,0 +1,40 @@
+{
+  "title": "Racial and Ethnic Disparities in Excess All-Cause Mortality in the First Year of the COVID-19 Pandemic",
+  "abstract": "Research on the COVID-19 pan demic in the United States has con sis tently found disproportionately high mortality among ethnoracial minorities, but reports differ with respect to the mag ni tude of mor tal ity disparities and reach differ ent con clu sions regard ing which groups were most impacted. We sug gest that these var i a tions stem from differ ences in the tem po ral scope of the mor tal ity data used and dif fi cul ties inherent in mea sur ing race and eth nic ity. To cir cum vent these issues, we link Social Security Administration death records for 2010 through 2021 to decen nial cen sus and Amer i can Community Survey race and eth nic ity responses. We use these linked data to esti mate excess all cause mor tal ity for age, sex, race, and eth nic ityspe cific sub groups and exam ine ethnoracial var i a tion in excess mor tal ity across states and over the course of the pan demic's first year. Results show that nonHis panic Amer i can Indi ans and Alaska Natives expe ri enced the highest excess mor tal ity of any ethnoracial group in the first year of the pan demic, followed by His pan ics and nonHis panic Blacks. Spatiotemporal and agespe cific ethnoracial disparities sug gest that the socio eco nomic deter mi nants driv ing health disparities prior to the pan demic were ampli fied and expressed in new ways in the pan demic's first year to dis pro por tion ately con cen trate excess mor tal ity among racial and eth nic minor i ties.",
+  "authors": [
+    {
+      "raw": "Foster, Thomas B.",
+      "family": "Foster",
+      "given": "Thomas B."
+    },
+    {
+      "raw": "Fernandez, Leticia",
+      "family": "Fernandez",
+      "given": "Leticia"
+    },
+    {
+      "raw": "Porter, Sonya R.",
+      "family": "Porter",
+      "given": "Sonya R."
+    },
+    {
+      "raw": "Pharris-Ciurej, Nikolas",
+      "family": "Pharris-Ciurej",
+      "given": "Nikolas"
+    }
+  ],
+  "authors_text": "Foster, Thomas B.; Fernandez, Leticia; Porter, Sonya R.; Pharris-Ciurej, Nikolas",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11133943",
+  "doi_url": "https://doi.org/10.1215/00703370-11133943",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11133943",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11133943.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

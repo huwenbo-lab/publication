@@ -1,0 +1,30 @@
+{
+  "title": "The Intergenerational Impact of China's New Rural Pension Scheme",
+  "abstract": "We examine the heterogeneous and dynamic impact of China's New Rural Pension Scheme on intergenerational wealth dependence using a nationally representative longitudinal household survey covering the period 2011-13.We adopt an instrumental quantile regressiondiscontinuity design to address the endogeneity of partial compliance of the pension scheme and the observed individual heterogeneity.Overall, we find that the pension scheme smooths wealth dependence between generations in the short term, but strengthens the persistence of assets among the wealthiest households in the medium term.The mechanisms underlying these distributional effects are intergenerational transfers, time reallocation, and filial adjustments of the wealth portfolio.Complementary policy interventions, particularly for the poor across generations, would be needed to neutralize the distributional impact of the pension in terms of intergenerational wealth persistence.",
+  "authors": [
+    {
+      "raw": "You, Jing",
+      "family": "You",
+      "given": "Jing"
+    },
+    {
+      "raw": "Nino-Zarazua, Miguel",
+      "family": "Nino-Zarazua",
+      "given": "Miguel"
+    }
+  ],
+  "authors_text": "You, Jing; Nino-Zarazua, Miguel",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2019,
+  "doi": "10.1111/padr.12248",
+  "doi_url": "https://doi.org/10.1111/padr.12248",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12248",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12248.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

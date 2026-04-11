@@ -1,0 +1,35 @@
+{
+  "title": "Temporal Issues in Replication: The Stability of Centrality-Based Advantage",
+  "abstract": "The results of archival studies may depend on when researchers analyze data for at least two reasons: (1) databases change over time and (2) the sampling frame, in terms of the period covered, may reflect different environmental conditions. We examined these issues through the replication of Hochberg, Ljungqvist, and Lu’s (2007) research on the centrality of venture capital firms and their performance. We demonstrate (1) that one can reproduce the results in the original article if one uses data downloaded at roughly the same time as the original researchers did, (2) that these results remain fairly robust to even a decade of database updating, but (3) that the results depend sensitively on the sampling frame. Centrality only has a positive relationship to fund performance during boom periods.",
+  "authors": [
+    {
+      "raw": "Shi, Yuan",
+      "family": "Shi",
+      "given": "Yuan"
+    },
+    {
+      "raw": "Sorenson, Olav",
+      "family": "Sorenson",
+      "given": "Olav"
+    },
+    {
+      "raw": "Waguespack, David",
+      "family": "Waguespack",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Shi, Yuan; Sorenson, Olav; Waguespack, David",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2017,
+  "doi": "10.15195/v4.a5",
+  "doi_url": "https://doi.org/10.15195/v4.a5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv4.a5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v4.a5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

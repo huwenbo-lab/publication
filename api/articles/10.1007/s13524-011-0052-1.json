@@ -1,0 +1,55 @@
+{
+  "title": "Does More Schooling Reduce Hospitalization and Delay Mortality? New Evidence Based on Danish Twins",
+  "abstract": "AbstractSchooling generally is positively associated with better health-related outcomes—for example, less hospitalization and later mortality—but these associations do not measure whether schooling causes better health-related outcomes. Schooling may in part be a proxy for unobserved endowments—including family background and genetics—that both are correlated with schooling and have direct causal effects on these outcomes. This study addresses the schooling-health-gradient issue with twins methodology, using rich data from the Danish Twin Registry linked to population-based registries to minimize random and systematic measurement error biases. We find strong, significantly negative associations between schooling and hospitalization and mortality, but generally no causal effects of schooling.",
+  "authors": [
+    {
+      "raw": "Behrman, Jere R.",
+      "family": "Behrman",
+      "given": "Jere R."
+    },
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    },
+    {
+      "raw": "Jensen, Vibeke Myrup",
+      "family": "Jensen",
+      "given": "Vibeke Myrup"
+    },
+    {
+      "raw": "Pedersen, Dorthe",
+      "family": "Pedersen",
+      "given": "Dorthe"
+    },
+    {
+      "raw": "Petersen, Inge",
+      "family": "Petersen",
+      "given": "Inge"
+    },
+    {
+      "raw": "Bingley, Paul",
+      "family": "Bingley",
+      "given": "Paul"
+    },
+    {
+      "raw": "Christensen, Kaare",
+      "family": "Christensen",
+      "given": "Kaare"
+    }
+  ],
+  "authors_text": "Behrman, Jere R.; Kohler, Hans-Peter; Jensen, Vibeke Myrup; Pedersen, Dorthe; Petersen, Inge; Bingley, Paul; Christensen, Kaare",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0052-1",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0052-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0052-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0052-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

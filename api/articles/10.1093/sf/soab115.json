@@ -1,0 +1,35 @@
+{
+  "title": "The Dynamics of Immigration and Anti-Immigrant Sentiment in Japan: How and Why Changes in Immigrant Share Affect Attitudes toward Immigration in a Newly Diversifying Society",
+  "abstract": "Extensive research investigates how immigration shapes natives' anti-immigrant sentiment. However, several areas require further scrutiny. This paper explores how processes of immigration affect anti-immigrant sentiment in a new immigration destination country-Japan-drawing on longitudinal data to examine these processes over time and explicitly testing the mechanisms of perceived threat and intergroup contact posited to underpin this relationship. Through this analysis, the paper aims to: examine how generalizable the immigrant share/immigration attitudes theoretical framework is to non-Western societies; refine our understanding of the mechanisms underpinning this relationship; and more robustly test its causal assumptions. To pursue these aims, the study draws on two sets of nationally representative Japanese data, designed to generate complementary insights, including: four waves of longitudinal panel data (2008-2014) and a unique cross-sectional dataset containing measures of perceived threat and contact. Applying multilevel and fixed-effects panel data approaches, the findings demonstrate that as immigration increases in Japanese prefectures and municipalities, residents become increasingly averse toward immigration (although there is some evidence of non-linearity at the municipality level, with sentiment improving again in high immigrant share environments). This overall relationship appears largely driven by two competing processes. In higher immigrant share environments, perceived threat is higher, increasing anti-immigrant sentiment. However, concurrently, intergroup contact also increases in these environments, reducing anti-immigrant sentiment. Therefore, despite the overall negative relationship (driven primarily by perceived threat), rising contact exerts a countervailing positive effect as immigration increases. Taken together, this research demonstrates that theories of attitudinal-change with higher immigration, developed within Western-contexts, also appear salient for newer destination, non-Western societies.",
+  "authors": [
+    {
+      "raw": "Laurence, James",
+      "family": "Laurence",
+      "given": "James"
+    },
+    {
+      "raw": "Igarashi, Akira",
+      "family": "Igarashi",
+      "given": "Akira"
+    },
+    {
+      "raw": "Ishida, Kenji",
+      "family": "Ishida",
+      "given": "Kenji"
+    }
+  ],
+  "authors_text": "Laurence, James; Igarashi, Akira; Ishida, Kenji",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab115",
+  "doi_url": "https://doi.org/10.1093/sf/soab115",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab115",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab115.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

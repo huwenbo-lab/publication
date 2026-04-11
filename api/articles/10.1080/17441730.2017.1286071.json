@@ -1,0 +1,35 @@
+{
+  "title": "The effects of ageing and urbanisation on China’s future rural and urban populations",
+  "abstract": "This paper estimates China’s future population and labour force by developing a novel forecasting model for population. It combines information about age-specific parameters on fertility and mortality for both rural and urban areas using information about rural–urban migration and the transformation of rural areas into urban ones. This model takes into account the effects of urbanisation on changes in the age structure of the Chinese population; and provides separate projections on the rural and urban populations. Our findings show that (i) the shares of people aged 65 and over, in China’s rural and urban populations, will double between 2010 and 2030; this implies that the ageing problem in rural areas will continue to be more serious than in urban areas; (ii) the rural labour force will shrink by 45 per cent, between 2010 and 2030, while the urban labour force will grow by 34 per cent; and (iii) China’s urbanisation rate will increase to 71 per cent by 2030.",
+  "authors": [
+    {
+      "raw": "Chen, Quanrun",
+      "family": "Chen",
+      "given": "Quanrun"
+    },
+    {
+      "raw": "Dietzenbacher, Erik",
+      "family": "Dietzenbacher",
+      "given": "Erik"
+    },
+    {
+      "raw": "Los, Bart",
+      "family": "Los",
+      "given": "Bart"
+    }
+  ],
+  "authors_text": "Chen, Quanrun; Dietzenbacher, Erik; Los, Bart",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2017,
+  "doi": "10.1080/17441730.2017.1286071",
+  "doi_url": "https://doi.org/10.1080/17441730.2017.1286071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2017.1286071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2017.1286071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Re-Examining the Link Between Premarital Sex and Divorce",
+  "abstract": "Premarital sex predicts divorce, but we do not know why. Scholars have attributed the relationship to factors such as differences in beliefs and values, but these explanations have not been tested. It is further unclear how this relationship changes by number of sexual partners, or differs by gender. We re-examine this relationship with event history models using data from the National Longitudinal Study of Adolescent to Adult Health. Models include measures of adolescent beliefs and values, religious background, and personal characteristics, as well as approximate number of premarital sexual partners in young adulthood. We find the relationship between premarital sex and divorce is highly significant and robust even when accounting for early-life factors. Compared to people with no premarital partners other than eventual spouses, those with nine or more partners exhibit the highest divorce risk, followed by those with one to eight partners. There is no evidence of gender differences.",
+  "authors": [
+    {
+      "raw": "Smith, Jesse",
+      "family": "Smith",
+      "given": "Jesse"
+    },
+    {
+      "raw": "Wolfinger, Nicholas H. H.",
+      "family": "Wolfinger",
+      "given": "Nicholas H. H."
+    }
+  ],
+  "authors_text": "Smith, Jesse; Wolfinger, Nicholas H. H.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2024,
+  "doi": "10.1177/0192513x231155673",
+  "doi_url": "https://doi.org/10.1177/0192513x231155673",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x231155673",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x231155673.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

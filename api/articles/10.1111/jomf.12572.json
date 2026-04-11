@@ -1,0 +1,25 @@
+{
+  "title": "Health Status and Transitions in Cohabiting Relationships of American Young Adults",
+  "abstract": "Objective: This study examines whether individual health predicts cohabiters' union transitions to marriage in American young adults. Background: Associations between health and subsequent marital transitions are well documented, but less is known about how health influences transitions of cohabiting relationships. As cohabitation has become a common relationship experience, understanding how health may influence cohabiters' union transitions is an important component of how health shapes relationship exposures more broadly. Method: Data were taken from Waves III and IV of the National Longitudinal Study of Adolescent to Adult Health, including the supplemental collection of relationship partners conducted during Wave III. Competing-risk regressions for the transition of cohabiting unions to marriage were estimated in two samples: individuals and a smaller sample of cohabiting couples with information from both partners. Results: Healthier cohabiters are more likely to marry than are their less healthy counterparts, but only women's health is significantly associated with the transition to marriage. In the dyadic sample with information from both partners, the significant association between the female partner's health and the transition to marriage is robust to male partner characteristics, including health. Conclusion: Health is an important predictor of cohabitation transitions in early adulthood, but these transitions may only be sensitive to the female partner's health.",
+  "authors": [
+    {
+      "raw": "Wagner, Brandon",
+      "family": "Wagner",
+      "given": "Brandon"
+    }
+  ],
+  "authors_text": "Wagner, Brandon",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12572",
+  "doi_url": "https://doi.org/10.1111/jomf.12572",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12572",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12572.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

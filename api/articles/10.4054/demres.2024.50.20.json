@@ -1,0 +1,30 @@
+{
+  "title": "Differences in mortality before retirement: The role of living arrangements and marital status in Denmark",
+  "abstract": "BACKGROUND To make the pension system robust to population ageing, Denmark will increase the statutory retirement age in tandem with national life expectancy. By universally increasing this age, this pension indexation policy might amplify known inequalities in mortality, such as those between people in different living arrangements. OBJECTIVE We aim to quantify inequalities in mortality before retirement age by living arrangement over time and to estimate whether an increase in the retirement age could disproportionately affect disadvantaged groups. METHODS We estimate the probability of dying between ages 50 and 65/67/70 for several cohorts of Danes living in different household types, stratifying by socioeconomic status. To give a more complete picture, we also calculate equivalent age for each sub-group. RESULTS In Denmark considerable mortality inequalities exist depending on living arrangements, and they are becoming larger. Across all the dimensions of mortality we examine, single individuals cumulate a clear disadvantage. An increased retirement age would increase absolute and (for single individuals) relative differences in pre-retirement survival, adding to the widening trends across cohorts. CONCLUSIONS Relying on the national average to set the statutory retirement age risks maintaining these subpopulations' disadvantage. While early retirement schemes exist in Denmark, they mostly impact people based on their occupation. We highlight that other characteristics are strongly tied to mortality and should also be considered.",
+  "authors": [
+    {
+      "raw": "Vigezzi, Serena",
+      "family": "Vigezzi",
+      "given": "Serena"
+    },
+    {
+      "raw": "Strozza, Cosmo",
+      "family": "Strozza",
+      "given": "Cosmo"
+    }
+  ],
+  "authors_text": "Vigezzi, Serena; Strozza, Cosmo",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.20",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

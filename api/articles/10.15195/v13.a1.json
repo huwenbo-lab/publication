@@ -1,0 +1,40 @@
+{
+  "title": "How Do (Human) Child Welfare Workers Respond to Machine-Generated Risk Scores?",
+  "abstract": "Algorithmic risk scoring tools have been widely incorporated into governmental decision making, yet little is known about how human decision makers interact with machine-generated risk scores at the street level. We examined such human–machine interactions in the child welfare system, a high-stakes setting where caseworkers ascertain whether government interventions in family life are warranted. Using novel data—verbatim transcripts of caseworker discussions—we found that decision makers: (1) disregarded scores in the middle of the distribution while paying attention to extremely high or low risk scores and (2) rationalized divergences between human decisions and machine-generated scores by highlighting the algorithm’s overemphasis on historical data and specific risk factors and its lack of contextual knowledge. This meant that caseworkers were unlikely to modify their decisions so that they aligned with risk scores. However, we did not find evidence of principled resistance to algorithmic tools. Our findings advance research on such tools by specifying how human perceptions of the utility and limitations of novel technologies shape discretionary decision making by state officials; and they help to explain their uneven and potentially modest impact on the bureaucratic management of social vulnerability.",
+  "authors": [
+    {
+      "raw": "Eiermann, Martin",
+      "family": "Eiermann",
+      "given": "Martin"
+    },
+    {
+      "raw": "Fitzpatrick, Maria",
+      "family": "Fitzpatrick",
+      "given": "Maria"
+    },
+    {
+      "raw": "Sadowski, Katharine",
+      "family": "Sadowski",
+      "given": "Katharine"
+    },
+    {
+      "raw": "Wildeman, Christopher",
+      "family": "Wildeman",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Eiermann, Martin; Fitzpatrick, Maria; Sadowski, Katharine; Wildeman, Christopher",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2026,
+  "doi": "10.15195/v13.a1",
+  "doi_url": "https://doi.org/10.15195/v13.a1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv13.a1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v13.a1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

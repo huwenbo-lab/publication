@@ -1,0 +1,35 @@
+{
+  "title": "A Mixture-Function Mortality Model: Illustration of the Evolution of Premature Mortality",
+  "abstract": "AbstractPremature mortality is often a neglected component of overall deaths, and the most difficult to identify. However, it is important to estimate its prevalence. Following Pearson’s theory about mortality components, a definition of premature deaths and a parametric model to study its transformations are introduced. The model is a mixture of three distributions: a Half Normal for the first part of the death curve and two Skew Normals to fit the remaining pieces. One advantage of the model is the possibility of obtaining an explicit equation to compute life expectancy at birth and to break it down into mortality components. We estimated the mixture model for Sweden, France, East Germany and Czech Republic. In addition, to the well-known reduction in infant deaths, and compression and shifting trend of adult mortality, we were able to study the trend of the central part of the distribution of deaths in detail. In general, a right shift of the modal age at death for young adults is observed; in some cases, it is also accompanied by an increase in the number of deaths at these ages: in particular for France, in the last twenty years, premature mortality increases.",
+  "authors": [
+    {
+      "raw": "Zanotto, Lucia",
+      "family": "Zanotto",
+      "given": "Lucia"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Mazzuco, Stefano",
+      "family": "Mazzuco",
+      "given": "Stefano"
+    }
+  ],
+  "authors_text": "Zanotto, Lucia; Canudas-Romo, Vladimir; Mazzuco, Stefano",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2020,
+  "doi": "10.1007/s10680-019-09552-x",
+  "doi_url": "https://doi.org/10.1007/s10680-019-09552-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-019-09552-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-019-09552-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

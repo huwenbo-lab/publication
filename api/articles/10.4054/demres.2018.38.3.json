@@ -1,0 +1,25 @@
+{
+  "title": "High life expectancy and reversed socioeconomic gradients of elderly people in Mexico and Costa Rica",
+  "abstract": "BACKGROUND Some existing estimates suggest, controversially, that life expectancy at age 60 (LE60) of Latin American males is exceptionally high. Knowledge of adult mortality in Latin America is often based on unreliable statistics or indirect demographic methods. OBJECTIVES This study aims to gather direct estimates of mortality at older ages in two Latin American countries (Mexico and Costa Rica) using recent longitudinal surveys and to determine the socioeconomic status (SES) gradients for LE60. METHODS Data were collected from independent panels of approximately 7,000 older adults followed over more than a decade. the MHAS and CRELES surveys. The age-specific death rates were modeled with Gompertz regression, and thousands of life tables were simulated to estimate LE60 and its confidence interval. RESULTS LE60 estimates obtained from MHAS and CRELES are similar to those obtained from traditional statistics, confirming the exceptionally high LE60 of men in the two countries. The expected gradients of higher LE60 with higher SES are not present, especially among males, who even show reverse gradients (some exaggerated by data issues). CONCLUSIONS Vital statistics correctly estimate elderly mortality in Mexico and Costa Rica. The higher-than-expected LE60 among Latin American males in general, and particularly among low-SES individuals, seems to be real; their determinants should be thoroughly investigated. CONTRIBUTION This study shows with hard, reliable data, independent of traditional statistics, that elderly males in tropical Latin America enjoy an exceptionally high life expectancy and that SES gradients are absent or even reverse.",
+  "authors": [
+    {
+      "raw": "Rosero-Bixby, Luis",
+      "family": "Rosero-Bixby",
+      "given": "Luis"
+    }
+  ],
+  "authors_text": "Rosero-Bixby, Luis",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.3",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

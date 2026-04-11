@@ -1,0 +1,30 @@
+{
+  "title": "Assessing the impact of an increase in the minimum wage on household income and poverty",
+  "abstract": "Using repeated cross-section individual and household data and the propensity score difference- in-differences (DID) technique, this article investigates the impact of minimum wage hikes on family income and poverty. To do so, it focuses on the large increase in the minimum wage that occurred in Spain in January 2019 (21.6% in real terms). Our descriptive analysis show that minimum wage earners are more concentrated in households with lower incomes. i.e. in the bottom third of the family income distribution. Moreover, the estimate results provide evidence that the rise in the minimum wage contributed to a greater increase in the income level and to a higher probability of being out of monetary poverty of households with minimum wage earners compared to other households. Our results are robust to the use of different DID methods.",
+  "authors": [
+    {
+      "raw": "Arranz, Jose M.",
+      "family": "Arranz",
+      "given": "Jose M."
+    },
+    {
+      "raw": "Garcia-Serrano, Carlos",
+      "family": "Garcia-Serrano",
+      "given": "Carlos"
+    }
+  ],
+  "authors_text": "Arranz, Jose M.; Garcia-Serrano, Carlos",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103143",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103143",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103143",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103143.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

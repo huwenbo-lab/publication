@@ -1,0 +1,30 @@
+{
+  "title": "Another 'futile quest'? A simulation study of Yang and Land's Hierarchical Age-Period-Cohort model",
+  "abstract": "Whilst some argue that a solution to the age-period-cohort (APC) 'identification problem' is impossible, numerous methodological solutions have been proposed, including Yang and Land's Hierarchical-APC (HAPC) model: a multilevel model considering periods a",
+  "authors": [
+    {
+      "raw": "Bell, Andrew",
+      "family": "Bell",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Jones, Kelvyn",
+      "family": "Jones",
+      "given": "Kelvyn"
+    }
+  ],
+  "authors_text": "Bell, Andrew; Jones, Kelvyn",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2014,
+  "doi": "10.4054/demres.2014.30.11",
+  "doi_url": "https://doi.org/10.4054/demres.2014.30.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2014.30.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2014.30.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

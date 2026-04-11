@@ -1,0 +1,30 @@
+{
+  "title": "Gender Inequality in Leadership Positions of Teachers",
+  "abstract": "By integrating individual and contextual approaches, the present study examines gender differences in appointment to leadership positions in schools in three different educational sectors in Israel. Based on a sample of 10,733 Israeli high school teachers in two Jewish educational sectors and one Arab educational sector, we performed a set of multinomial logistic regressions. The main findings indicate that gender has an independent influence on the probability of entering various leadership positions in schools, even after controlling for personal characteristics and teaching fields. However, the patterns and the extent of gender inequality differ between the three sectors. The findings are interpreted in accordance with the glass ceiling and the queuing model approaches. We conclude that gender inequality is context bound and should be analyzed from this point of view.",
+  "authors": [
+    {
+      "raw": "Addi-Raccah, Audrey",
+      "family": "Addi-Raccah",
+      "given": "Audrey"
+    },
+    {
+      "raw": "Ayalon, Hanna",
+      "family": "Ayalon",
+      "given": "Hanna"
+    }
+  ],
+  "authors_text": "Addi-Raccah, Audrey; Ayalon, Hanna",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2002,
+  "doi": "10.1080/01425690220137693",
+  "doi_url": "https://doi.org/10.1080/01425690220137693",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425690220137693",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425690220137693.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

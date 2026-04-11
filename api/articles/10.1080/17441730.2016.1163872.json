@@ -1,0 +1,25 @@
+{
+  "title": "Health centre visits among the elderly with chronic ailments: Evidence from the Kanchanaburi Demographic Surveillance System, 2004, Thailand",
+  "abstract": "This study deployed statistical and spatial (GIS) analyses to test the effects of geographic, demographic and occupational factors in predicting health centre visits among the elderly (≥60 years) with chronic ailments in Kanchanaburi Province, western Thailand. Datasets from the Kanchanaburi Demographic Surveillance System (2004 baseline survey and a 2006 project follow-up) comprised five land-use landscape and occupational strata: urban/semi-urban (industrial), rice field, plantation crop, upland and mixed economy. Travel distance to the nearest health centre was calculated following transportation routes and the GPS coordinates of individual home locations, and the number of healthcare visits under the national free universal coverage (UC) scheme reported for the previous year was used as a dependent variable in regressions. Broadly, the study found that distance was not a significant predictor of the rate of elderly health centres visits for those with co-residing spouses and/or adult children (77% of sample), and for the elderly still working (48% of the sample) who were the least likely to access healthcare. Owning motorised vehicles did not encourage visits, which also varied by land-use and occupational strata.",
+  "authors": [
+    {
+      "raw": "Rittirong, Jongjit",
+      "family": "Rittirong",
+      "given": "Jongjit"
+    }
+  ],
+  "authors_text": "Rittirong, Jongjit",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2016,
+  "doi": "10.1080/17441730.2016.1163872",
+  "doi_url": "https://doi.org/10.1080/17441730.2016.1163872",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2016.1163872",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2016.1163872.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

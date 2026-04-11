@@ -1,0 +1,30 @@
+{
+  "title": "Comparing Cohort Survival in Good Health: A Research Note on Decomposing Sex Differentials in the United States",
+  "abstract": "We introduce a method for decomposing differences in healthy cross-sectional average length of life (HCAL). HCAL provides an alternative to the health expectancy (HE) indicator by including the health and mortality history of all cohorts present at a given time. While decompositions of HE differences account for contributions made by health and mortality, differences in HCAL are further disentangled into cohort-specific contributions. In this research note we illustrate the technique by analyzing the sex gap in health and mortality for the United States. We use the harmonized version of the Health and Retirement Survey data and define the health status in terms of activities of daily living. Our results suggest that the female advantage in cohort survival is partly compensated by women's lower cohort-specific health levels. At older ages, however, the sex differences in health are not large enough to compensate men's disadvantage in cohort survival.",
+  "authors": [
+    {
+      "raw": "Sauerberg, Markus",
+      "family": "Sauerberg",
+      "given": "Markus"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Sauerberg, Markus; Canudas-Romo, Vladimir",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10349971",
+  "doi_url": "https://doi.org/10.1215/00703370-10349971",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10349971",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10349971.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

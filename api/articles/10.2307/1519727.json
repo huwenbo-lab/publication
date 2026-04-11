@@ -1,0 +1,25 @@
+{
+  "title": "Culture and competition: Homophily and distancing explanations for cultural niches",
+  "abstract": "Why do different kinds of people like different kinds of culture? Two answers to this question are formally analyzed and empirically tested: the homophily model and the distancing model. Computer simulation demonstrates that these models are alternative explanations for the finding that different cultural tastes and practices are concentrated within different sociodemographic segments of society. Conflicting implications of the two models are identified. Although both models predict that cultural forms compete for people (i.e., people are a scarce resource on which cultural forms depend), the distancing model differs from the homophily model in that the distancing model predicts a dual ecology: Not only do cultural forms compete for people, but people compete for cultural forms. According to the distancing model, the larger the segment of society in which a cultural form is liked, the smaller is the proportion of people in that segment of society who like that cultural form. The homophily model predicts that people do not compete for cultural forms. Instead, it predicts a local bandwagon effect: The larger the segment of society in which a cultural form is liked, the larger is the proportion of people in that segment of society who like that cultural form. An empirical test using 1993 General Social Survey data supports the prediction of both models that cultural forms compete for people. The analysis also reveals a local bandwagon effect, yielding further empirical support for the homophily model and disconfirming the distancing model's prediction of a dual ecology.",
+  "authors": [
+    {
+      "raw": "Mark, NP",
+      "family": "Mark",
+      "given": "NP"
+    }
+  ],
+  "authors_text": "Mark, NP",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2003,
+  "doi": "10.2307/1519727",
+  "doi_url": "https://doi.org/10.2307/1519727",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F1519727",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/1519727.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

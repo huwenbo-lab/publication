@@ -1,0 +1,35 @@
+{
+  "title": "Cumulative Socio-economic Disadvantage and Secondary Education in Finland",
+  "abstract": "We analyse how the disadvantages that are associated with parental background, as measured using multiple indicators, are related to the probability of a child completing secondary school by the age of 22. We measure family background by the parents' relative income poverty, the social assistance that they received, and their unemployment when their children were young. We further study how negative associations between such disadvantages and the education of their children are related to the educational attainment of the parents themselves. We use high-quality register data clustered according to families and include information on both children and their parents. The data are analysed with sibling methods using random-effect linear probability models. The results show that in particular, the long-term social assistance that parents received and the cumulative disadvantage are connected to the probability that their children will not complete secondary school. The experiences of parental poverty combined with social assistance strongly indicate that children will not complete secondary school by the age of 22. However, there is more variation between socio-economically disadvantaged families than there is between better-off families, which suggests that non-socio-economic factors modify the association between parents' disadvantaged background and not completing secondary school.",
+  "authors": [
+    {
+      "raw": "Kallio, Johanna M.",
+      "family": "Kallio",
+      "given": "Johanna M."
+    },
+    {
+      "raw": "Kauppinen, Timo M.",
+      "family": "Kauppinen",
+      "given": "Timo M."
+    },
+    {
+      "raw": "Erola, Jani",
+      "family": "Erola",
+      "given": "Jani"
+    }
+  ],
+  "authors_text": "Kallio, Johanna M.; Kauppinen, Timo M.; Erola, Jani",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcw021",
+  "doi_url": "https://doi.org/10.1093/esr/jcw021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcw021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcw021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

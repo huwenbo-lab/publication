@@ -1,0 +1,30 @@
+{
+  "title": "Randomness in the Bedroom: There Is No Evidence for Fertility Control in Pre-Industrial England",
+  "abstract": "Overturning a generation of research, Cinnirella et al. Demography, 54, 413-436 (2017) found strong parity-dependent fertility control in pre-Industrial England 1540-1850. We show that their result is an unfortunate artifact of their statistical method, relying on mother fixed effects, which contradicts basic biological possibilities for fecundity. These impossible parity effects also appear with simulated fertility data that by design have no parity control. We conclude that estimating parity control using mother fixed effects is in no way feasible. We also show, using the Cambridge Group data that Cinnirella et al. used, that there is no sign of parity-dependent fertility control in English marriages before 1850.",
+  "authors": [
+    {
+      "raw": "Clark, Gregory",
+      "family": "Clark",
+      "given": "Gregory"
+    },
+    {
+      "raw": "Cummins, Neil",
+      "family": "Cummins",
+      "given": "Neil"
+    }
+  ],
+  "authors_text": "Clark, Gregory; Cummins, Neil",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00786-2",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00786-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00786-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00786-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

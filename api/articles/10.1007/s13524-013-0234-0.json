@@ -1,0 +1,40 @@
+{
+  "title": "Migration and Pacific Mortality: Estimating Migration Effects on Pacific Mortality Rates Using Bayesian Models",
+  "abstract": "Abstract Pacific people living in New Zealand have higher mortality rates than New Zealand residents of European/Other ethnicity. The aim of this paper is to see whether Pacific mortality rates vary by natality and duration of residence. We used linked census-mortality information for 25- to 74-year-olds in the 2001 census followed for up to three years. Hierarchical Bayesian modeling provided a means of handling sparse data. Posterior mortality rates were directly age-standardized. We found little evidence of mortality differences between the overseas-born and the New Zealand–born for all-cause, cancer, and cardiovascular disease (CVD) mortality. However, we found evidence for lower all-cause (and possibly cancer and CVD) mortality rates for Pacific migrants resident in New Zealand for less than 25 years relative to those resident for more than 25 years. This result may arise from a combination of processes operating over time, including health selection effects from variations in New Zealand’s immigration policy, the location of Pacific migrants within the social, political, and cultural environment of the host community, and health impacts of the host culture. We could not determine the relative importance of these processes, but identifying the (modifiable) drivers of the inferred long-term decline in health of the overseas-born Pacific population relative to more-recent Pacific migrants is important to Pacific communities and from a national health and policy perspective.",
+  "authors": [
+    {
+      "raw": "Richardson, Ken",
+      "family": "Richardson",
+      "given": "Ken"
+    },
+    {
+      "raw": "Jatrana, Santosh",
+      "family": "Jatrana",
+      "given": "Santosh"
+    },
+    {
+      "raw": "Tobias, Martin",
+      "family": "Tobias",
+      "given": "Martin"
+    },
+    {
+      "raw": "Blakely, Tony",
+      "family": "Blakely",
+      "given": "Tony"
+    }
+  ],
+  "authors_text": "Richardson, Ken; Jatrana, Santosh; Tobias, Martin; Blakely, Tony",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0234-0",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0234-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0234-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0234-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

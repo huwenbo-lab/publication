@@ -1,0 +1,30 @@
+{
+  "title": "Comparing Internet Experiences and Prosociality in Amazon Mechanical Turk and Population-Based Survey Samples",
+  "abstract": "Given the high cost of traditional survey administration (postal mail, phone) and the limits of convenience samples such as university students, online samples offer a much welcomed alternative. Amazon Mechanical Turk (AMT) has been especially popular among academics for conducting surveys and experiments. Prior research has shown that AMT samples are not representative of the general population along some dimensions, but evidence suggests that these differences may not undermine the validity of AMT research. The authors revisit this comparison by analyzing responses to identical survey questions administered to both a U.S. national sample and AMT participants at the same time. The authors compare the two samples on sociodemographic factors, online experiences, and prosociality. The authors show that the two samples are different not just demographically but also regarding their online behaviors and standard survey measures of prosocial behaviors and attitudes. The authors discuss the implications of these findings for data collected on AMT.",
+  "authors": [
+    {
+      "raw": "Hargittai, Eszter",
+      "family": "Hargittai",
+      "given": "Eszter"
+    },
+    {
+      "raw": "Shaw, Aaron",
+      "family": "Shaw",
+      "given": "Aaron"
+    }
+  ],
+  "authors_text": "Hargittai, Eszter; Shaw, Aaron",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023119889834",
+  "doi_url": "https://doi.org/10.1177/2378023119889834",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119889834",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119889834.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

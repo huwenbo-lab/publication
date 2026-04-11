@@ -1,0 +1,30 @@
+{
+  "title": "Does Schooling Decrease Socioeconomic Inequality in Early Achievement? A Differential Exposure Approach",
+  "abstract": "Does schooling affect socioeconomic inequality in educational achievement? Earlier studies based on seasonal comparisons suggest schooling can equalize social gaps in learning. Yet recent replication studies have given rise to skepticism about the validity of older findings. We shed new light on the debate by estimating the causal effect of 1st-grade schooling on achievement inequality by socioeconomic family background in Germany. We elaborate a differential exposure approach that estimates the effect of exposure to 1st-grade schooling by exploiting (conditionally) random variation in test dates and birth dates for children who entered school on the same calendar day. We use recent data from the German NEPS to test school-exposure effects for a series of learning domains. Findings clearly indicate that 1st-grade schooling increases children's learning in all domains. However, we do not find any evidence that these schooling effects differ by children's socioeconomic background. We conclude that, although all children gain from schooling, schooling has no consequences for social inequality in learning. We discuss the relevance of our findings for sociological knowledge on the role of schooling in the process of stratification and highlight how our approach complements seasonal comparison studies.",
+  "authors": [
+    {
+      "raw": "Passaretta, Giampiero",
+      "family": "Passaretta",
+      "given": "Giampiero"
+    },
+    {
+      "raw": "Skopek, Jan",
+      "family": "Skopek",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Passaretta, Giampiero; Skopek, Jan",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/00031224211049188",
+  "doi_url": "https://doi.org/10.1177/00031224211049188",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211049188",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211049188.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

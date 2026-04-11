@@ -1,0 +1,45 @@
+{
+  "title": "A Panel Study of Fertility Preferences and Contraceptive Dynamics in the Presence of Competing Pregnancy Risks in Uganda",
+  "abstract": "Although many studies have examined the influence of women's fertility preferences on subsequent fertility behavior and the role of contraceptive use intentions on unmet need, very few have explored their concurrent effects on contraceptive use dynamics. This study examines the independent concurrent effects of women's fertility preferences and contraceptive intentions on subsequent adoption and discontinuation, treating pregnancy as a competing risk factor that may alter contraceptive need. The data are derived from a 2018 follow-up survey of a 2014 national sample of 3,800 Ugandan female respondents of childbearing age. The survey included a contraceptive calendar that recorded pregnancy, birth, and contraceptive event episodes, including reasons for discontinuation. We use competing risk regression to estimate the effect of fertility preferences and contraceptive intentions on the cumulative incidence function of contraceptive behaviors, accounting for intervening pregnancy, female background covariates, loss to follow-up, and complex survey design. We find that women's contraceptive intentions significantly increase the rate of contraceptive adoption. After having adopted, women's contraceptive intentions have been realized and do not prolong use. The risk of discontinuation among women who adopted after baseline was significantly higher than for those using at baseline, irrespective of their initial intentions. The effectiveness of the type of contraceptive method chosen significantly lowered discontinuation risk. Fertility preferences were not significantly associated with either time to adoption or discontinuation. The pace of the fertility transition in this sub-Saharan African setting is likely being shaped by reproductive regulation through the intentional use of contraception that enables spacing births.",
+  "authors": [
+    {
+      "raw": "Sarnak, Dana O.",
+      "family": "Sarnak",
+      "given": "Dana O."
+    },
+    {
+      "raw": "Tsui, Amy",
+      "family": "Tsui",
+      "given": "Amy"
+    },
+    {
+      "raw": "Makumbi, Fredrick",
+      "family": "Makumbi",
+      "given": "Fredrick"
+    },
+    {
+      "raw": "Kibira, Simon Peter Sebina",
+      "family": "Kibira",
+      "given": "Simon Peter Sebina"
+    },
+    {
+      "raw": "Ahmed, Saifuddin",
+      "family": "Ahmed",
+      "given": "Saifuddin"
+    }
+  ],
+  "authors_text": "Sarnak, Dana O.; Tsui, Amy; Makumbi, Fredrick; Kibira, Simon Peter Sebina; Ahmed, Saifuddin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8937285",
+  "doi_url": "https://doi.org/10.1215/00703370-8937285",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8937285",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8937285.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

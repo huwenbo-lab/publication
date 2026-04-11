@@ -1,0 +1,25 @@
+{
+  "title": "Multiple paths in educational transitions: A multinomial transition model with unobserved heterogeneity",
+  "abstract": "In many countries educational branching points consist of more than two qualitatively different alternatives, and only some alternatives provide the opportunity of continuing into higher education. I develop a multinomial transition model for modeling the effects of family background characteristics and individual characteristics on these complex educational careers. The model controls for unobserved heterogeneity that may, if ignored, result in biased estimates. Compared to previous research, l explicitly include instrumental variables that ensure identification of the unobserved component. I apply the model to the Danish case and analyze data which covers the educational careers of a cohort of Danes born around 1954. I find that the model brings forward non-trivial heterogeneity in the influence of family background and ability on qualitatively different choice alternatives both within and across transitions. I also find that not controlling for unobserved heterogeneity leads to marked underestimation of the family background effect on both early and late transitions in the educational career. (C) 2011 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Karlson, Kristian Bernt",
+      "family": "Karlson",
+      "given": "Kristian Bernt"
+    }
+  ],
+  "authors_text": "Karlson, Kristian Bernt",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2011,
+  "doi": "10.1016/j.rssm.2011.02.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2011.02.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2011.02.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2011.02.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

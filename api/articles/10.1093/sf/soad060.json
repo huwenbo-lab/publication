@@ -1,0 +1,55 @@
+{
+  "title": "Racialization and Reproduction: Asian Immigrants and California's Twentieth-Century Eugenic Sterilization Program",
+  "abstract": "During the twentieth century, state health authorities in California recommended sterilization for over 20,000 individuals held in state institutions. Asian immigrants occupied a marginalized position in racial, gender, and class hierarchies in California at the height of its eugenic sterilization program. Scholars have documented the disproportionate sterilization of other racialized groups, but little research exists connecting the racist, gendered implementation of Asian immigration restriction to the racism and sexism inherent in eugenics. This study examines patterns of coercive sterilization in Asian immigrants in California, hypothesizing higher institutionalization and sterilization rates among Asian-born compared with other foreign- and US-born individuals. We used complete count census microdata from 1910 to 1940 and digitized sterilization recommendation forms from 1920 to 1945 to model relative institutionalization and sterilization rates of Asian-born, other foreign-born, and US-born populations, stratified by gender. Other foreign-born men and women had the highest institutionalization rates in all four census years. Sterilization rates were higher for Asian-born women compared with US-born [Incidence Rate Ratio (IRR) = 2.00 (95% CI: 1.61, 2.48)] and other foreign-born women (p < 0.001) across the entire study period. Sterilization rates for Asian-born men were not significantly higher than those of US-born men [IRR 0.95 (95% CI 0.83, 1.10). However, an inflection point model incorporating the year of sterilization found higher sterilization rates for Asian-born men than for US-born men prior to 1933 [IRR 1.31 (95% CI 1.09, 1.59)]. This original quantitative analysis contributes to the literature demonstrating the health impact of discrimination on Asian-Americans and the disproportionate sterilization of racial minorities under state eugenics programs.",
+  "authors": [
+    {
+      "raw": "Kaniecki, Marie",
+      "family": "Kaniecki",
+      "given": "Marie"
+    },
+    {
+      "raw": "Novak, Nicole L.",
+      "family": "Novak",
+      "given": "Nicole L."
+    },
+    {
+      "raw": "Gao, Sarah",
+      "family": "Gao",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Lira, Natalie",
+      "family": "Lira",
+      "given": "Natalie"
+    },
+    {
+      "raw": "Trevino, Toni Ann",
+      "family": "Trevino",
+      "given": "Toni Ann"
+    },
+    {
+      "raw": "O'Connor, Kate",
+      "family": "O'Connor",
+      "given": "Kate"
+    },
+    {
+      "raw": "Stern, Alexandra Minna",
+      "family": "Stern",
+      "given": "Alexandra Minna"
+    }
+  ],
+  "authors_text": "Kaniecki, Marie; Novak, Nicole L.; Gao, Sarah; Lira, Natalie; Trevino, Toni Ann; O'Connor, Kate; Stern, Alexandra Minna",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soad060",
+  "doi_url": "https://doi.org/10.1093/sf/soad060",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad060",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad060.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

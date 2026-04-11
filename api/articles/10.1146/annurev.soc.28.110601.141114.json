@@ -1,0 +1,35 @@
+{
+  "title": "Assessing neighborhood effects: Social processes and new directions in research",
+  "abstract": "This paper assesses and synthesizes the cumulative results of a new neighborhood-effects literature that examines social processes related to problem behaviors and health-related outcomes. Our review identified over 40 relevant studies published in peer-reviewed journals from the mid-1990s to 2001, the take-off point for an increasing level of interest in neighborhood effects. Moving beyond traditional characteristics such as concentrated poverty, we evaluate the salience of social-interactional and institutional mechanisms hypothesized to account for neighborhood-level variations in a variety of phenomena (e.g., delinquency, violence, depression, high-risk behavior), especially among adolescents. We highlight neighborhood ties, social control, mutual trust, institutional resources, disorder, and routine activity patterns. We also discuss a set of thorny methodological problems that plague the study of neighborhood effects, with special attention to selection bias. We conclude with promising strategies and directions for future research, including experimental designs, taking spatial and temporal dynamics seriously, systematic observational approaches, and benchmark data on neighborhood social processes.",
+  "authors": [
+    {
+      "raw": "Sampson, RJ",
+      "family": "Sampson",
+      "given": "RJ"
+    },
+    {
+      "raw": "Morenoff, JD",
+      "family": "Morenoff",
+      "given": "JD"
+    },
+    {
+      "raw": "Gannon-Rowley, T",
+      "family": "Gannon-Rowley",
+      "given": "T"
+    }
+  ],
+  "authors_text": "Sampson, RJ; Morenoff, JD; Gannon-Rowley, T",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2002,
+  "doi": "10.1146/annurev.soc.28.110601.141114",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.28.110601.141114",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.28.110601.141114",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.28.110601.141114.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Environmental Inequality and Residential Sorting in Germany: A Spatial Time-Series Analysis of the Demographic Consequences of Industrial Sites",
+  "abstract": "Previous research has shown that low-income house holds bear a higher exposure to environmental pollution than high-income households. Some scholars have argued that selec tive sit ing of indus trial facil i ties accounts for such envi ron men tal inequal ity, while oth ers have argued that those cit i zens who can afford to move out of pol luted regions do so, and the socio eco nom i cally dis ad van taged are sorted into polluted areas. Yet empirical evidence regarding the processes of environmental inequality is not con clu sive. We build on an orig i nal data set that includes annual georeferenced data of 6,570 highly pol lut ing indus trial facil i ties in Germany from 2008 to 2017 and validate the fluctuation in facilities with geographical land-use data. We then connect the facil i ties to income and demo graphic data for 4,455 munic i pal i ties and inves ti gate sociodemographic changes before and after the appear ance of new facil i ties. Spatial models are employed to measure local relative changes, and fixed-effects individual slopes esti ma tors are used to account for selec tion on eco nomic tra jec to ries. Results pro vide only lim ited sup port for the selec tive sit ing the sis but show that an area's aver age income decreases after the appear ance of new indus trial facil i ties, thereby resonating with the selective migration hypothesis. In contrast, facility closure does not attract, or reattract, more affluent households.",
+  "authors": [
+    {
+      "raw": "Ruttenauer, Tobias",
+      "family": "Ruttenauer",
+      "given": "Tobias"
+    },
+    {
+      "raw": "Best, Henning",
+      "family": "Best",
+      "given": "Henning"
+    }
+  ],
+  "authors_text": "Ruttenauer, Tobias; Best, Henning",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9563077",
+  "doi_url": "https://doi.org/10.1215/00703370-9563077",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9563077",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9563077.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

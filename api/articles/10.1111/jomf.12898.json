@@ -1,0 +1,35 @@
+{
+  "title": "Parent-adult child estrangement in the United States by gender, race/ethnicity, and sexuality",
+  "abstract": "Objective: To provide nationally representative estimates of parent-adult child estrangement. Background: Population-level research on parent-adult child estrangement is needed to understand the full range of family dynamics in the U.S. Methods: We estimate logistic regression models using data from the National Longitudinal Survey of Youth 1979 and accompanying Child and Young Adult supplement to determine estimates of estrangement (and subsequent unestrangement) from mothers (N = 8495) and fathers (N = 8119) by children's gender, race/ethnicity, and sexuality. We then estimate hazards of first estrangement from mothers (N = 7919) and fathers (N = 6410), adjusting for adult child's and parents' social and economic characteristics. Results: Six percent of respondents report a period of estrangement from mothers, with an average age of first maternal estrangement of 26 years old; 26% of respondents report estrangement from fathers, with an average age of first paternal estrangement of 23 years old. Results further show heterogeneity by gender, race/ethnicity, and sexuality; for example, daughters are less likely to be estranged from their mothers than are sons, Black adult children are less likely than White adult children to be estranged from their mothers but more likely to be estranged from fathers, and gay, lesbian, and bisexual adult children are more likely than heterosexuals to be estranged from fathers. The majority of estranged adult children become unestranged from mothers (81%) and fathers (69%) in subsequent waves. Conclusion: This study provides compelling new evidence on an overlooked aspect of intergenerational relationships, concluding with insight into the structural forces that may unequally contribute to estrangement patterns.",
+  "authors": [
+    {
+      "raw": "Reczek, Rin",
+      "family": "Reczek",
+      "given": "Rin"
+    },
+    {
+      "raw": "Stacey, Lawrence",
+      "family": "Stacey",
+      "given": "Lawrence"
+    },
+    {
+      "raw": "Thomeer, Mieke Beth",
+      "family": "Thomeer",
+      "given": "Mieke Beth"
+    }
+  ],
+  "authors_text": "Reczek, Rin; Stacey, Lawrence; Thomeer, Mieke Beth",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2023,
+  "doi": "10.1111/jomf.12898",
+  "doi_url": "https://doi.org/10.1111/jomf.12898",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12898",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12898.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

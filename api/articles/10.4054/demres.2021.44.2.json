@@ -1,0 +1,30 @@
+{
+  "title": "Born once, die once: Life table relationships for fertility",
+  "abstract": "BACKGROUND Everyone dies, and only once. This basic truth underlies all formal mortality research. Similarly, everyone is born, and only once. This basic truth has not been fully exploited to benefit formal fertility research. An advance has recently been made by Baudisch and Stott (2019), who conceive a population of unborn children awaiting the event of their own birth. This approach introduces a novel survivorship concept for birth. RESULTS Formalizing the idea of birth survival, here we define the underlying random variable and derive the central triplet of survival analysis functions - hazard, density, and survival. We demonstrate that using a born once, die once analogy results in a straightforward framework to capture age-specific patterns of birth, analogous to classical life table functions. Based on a single variable (age-specific birth counts), we construct a birth table and, from there, meaningful summary measures such as birth expectancy and associated measures of spread. CONTRIBUTION We advance a new framework to enrich the toolbox of fertility research. The relationships developed here serve to compare birth schedules across populations and reveal macrolevel patterns and constraints. The triplet of birth functions and the birth table set the stage to transfer methods from mortality to fertility research. They offer a starting point to study birth and death within the same framework and for the same focal individual. With analogous formal methods, studies of the intertwined relationships between birth and death become possible. This, we envision, will open an entirely unexplored line of research.",
+  "authors": [
+    {
+      "raw": "Baudisch, Annette",
+      "family": "Baudisch",
+      "given": "Annette"
+    },
+    {
+      "raw": "Alvarez, Jesus-Adrian",
+      "family": "Alvarez",
+      "given": "Jesus-Adrian"
+    }
+  ],
+  "authors_text": "Baudisch, Annette; Alvarez, Jesus-Adrian",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.2",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

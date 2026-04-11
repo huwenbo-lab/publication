@@ -1,0 +1,25 @@
+{
+  "title": "Trajectory of inequality of opportunity in child height growth: Evidence from the Young Lives study",
+  "abstract": "BACKGROUND Socioeconomic circumstances during infancy and in early childhood shape later developmental opportunities. Understanding whether inequality in children's health becomes stronger with age from the evidence of longitudinal data is an important first step in revealing the mechanism by which the intergenerational transmission of poverty takes place and evolves. OBJECTIVE This study investigates the 15-year trajectory of inequality in height growth associated with early-life circumstances among children in Vietnam, Peru, Ethiopia, and India. METHODS This study uses the datasets of the Young Lives study project, which is a large-scale cross-country longitudinal study on childhood poverty conducted in Vietnam, Peru, Ethiopia, and India since 2002. Machine learning approaches are employed to estimate the relationship between early-life circumstances and child height. RESULTS The inequality in height stemming from the difference in early-life circumstances persists even after children reach early adolescence. The proportion of inequality peaks when children are 5 years old. Our prediction using the random forest model shows that, if we were able to fully compensate for early-life socioeconomic disadvantages, we could increase the lower percentile of the height distribution and reduce the inequality in height at age 15 by half. CONCLUSIONS The results suggest that children from marginalised households should be supported at the earlier developmental stage. CONTRIBUTION This study shows the life-course evolution of inequalities in child growth, explores the dynamic link between early-life circumstances and later consequences, and identifies optimal timing in terms of when circumstances and events matter the most.",
+  "authors": [
+    {
+      "raw": "Aizawa, Toshiaki",
+      "family": "Aizawa",
+      "given": "Toshiaki"
+    }
+  ],
+  "authors_text": "Aizawa, Toshiaki",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.7",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

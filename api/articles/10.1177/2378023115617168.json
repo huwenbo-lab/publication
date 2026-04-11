@@ -1,0 +1,25 @@
+{
+  "title": "The Negative Relationship between Size and the Probability of Weekly Attendance in Churches in the United States",
+  "abstract": "Are people less likely to attend large churches? Using nationally representative data, I find a negative relationship between size and the probability of attendance for Conservative, Mainline, and black Protestants and for Catholics in parishes larger than 500 attenders. The addition of control variables does not change these patterns. These results support the theory that group cohesion lies at the heart of the size-participation relationship in churches. With the rapid growth of megachurches in the United States, a negative relationship between size and frequency of attendance could serve to accelerate aggregate declines in attendance. Methodologically, this article demonstrates how Bayesian hierarchical models can handle complex data structures and imputation procedures in a unified model.",
+  "authors": [
+    {
+      "raw": "Eagle, David",
+      "family": "Eagle",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Eagle, David",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2016,
+  "doi": "10.1177/2378023115617168",
+  "doi_url": "https://doi.org/10.1177/2378023115617168",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023115617168",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023115617168.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

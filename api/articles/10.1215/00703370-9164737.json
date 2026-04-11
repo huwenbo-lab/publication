@@ -1,0 +1,40 @@
+{
+  "title": "Employment Instability and Fertility in Europe: A Meta-Analysis",
+  "abstract": "The relationship between employment instability and fertility is a major topic in demographic research, with a proliferation of published papers on this matter, especially since the Great Recession. Employment instability, which most often manifests in unemployment or time-limited employment, is usually deemed to have a negative effect on fertility, although different fertility reactions are hypothesized by sociological theories, and micro-level evidence is fragmented and contradictory. We used metaanalytic techniques to synthesize European research findings, offer general conclusions about the effects of employment instability on fertility (in terms of direction and size), and rank different sources of employment instability. Our results suggest that employment instability has a nonnegligible negative effect on fertility. Men's unemployment is more detrimental for fertility than men's time-limited employment; conversely, a woman having a fixed-term contract is least likely to have a child. Next, the negative effect of employment instability on fertility has become stronger over time, and is more severe in Southern European countries, where social protection for families and the unemployed is least generous. Finally, meta-regression estimates demonstrate that failing to account for income and partner characteristics leads to an overestimation of the negative effect of employment instability on fertility. We advance the role of these two factors as potential mechanisms by which employment instability affects fertility. Overall, this meta-analysis provides the empirical foundation for new studies on the topic.",
+  "authors": [
+    {
+      "raw": "Alderotti, Giammarco",
+      "family": "Alderotti",
+      "given": "Giammarco"
+    },
+    {
+      "raw": "Vignoli, Daniele",
+      "family": "Vignoli",
+      "given": "Daniele"
+    },
+    {
+      "raw": "Baccini, Michela",
+      "family": "Baccini",
+      "given": "Michela"
+    },
+    {
+      "raw": "Matysiak, Anna",
+      "family": "Matysiak",
+      "given": "Anna"
+    }
+  ],
+  "authors_text": "Alderotti, Giammarco; Vignoli, Daniele; Baccini, Michela; Matysiak, Anna",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9164737",
+  "doi_url": "https://doi.org/10.1215/00703370-9164737",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9164737",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9164737.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

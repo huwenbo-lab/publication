@@ -1,0 +1,40 @@
+{
+  "title": "Family, Firms, and Fertility: A Study of Social Interaction Effects",
+  "abstract": "Research has indicated that fertility spreads through social networks and attributed this phenomenon to social interaction effects. It remains unclear, however, whether the findings of previous studies reflect the direct influence of network partners or contextual and selection factors, such as shared environment and common background characteristics. The present study uses instrumental variables to improve the identification of social interaction effects on fertility. Using data from the System of social statistical data sets (SSD) of Statistics Netherlands, we identify two networks-the network of colleagues at the workplace and the network of siblings in the family-to examine the influence of network partners on individual fertility decisions. Discrete-time event-history models with random effects provide evidence for social interaction effects, showing that colleagues' and siblings' fertility have direct consequences for an individual's fertility. Moreover, colleague effects are concentrated in female-female interactions, and women are more strongly influenced by their siblings, regardless of siblings' gender. These results are the first to demonstrate spillover effects across network boundaries, suggesting that fertility effects accumulate through social ties not only within but also across different domains of interaction.",
+  "authors": [
+    {
+      "raw": "Buyukkececi, Zafer",
+      "family": "Buyukkececi",
+      "given": "Zafer"
+    },
+    {
+      "raw": "Leopold, Thomas",
+      "family": "Leopold",
+      "given": "Thomas"
+    },
+    {
+      "raw": "van Gaalen, Ruben",
+      "family": "van Gaalen",
+      "given": "Ruben"
+    },
+    {
+      "raw": "Engelhardt, Henriette",
+      "family": "Engelhardt",
+      "given": "Henriette"
+    }
+  ],
+  "authors_text": "Buyukkececi, Zafer; Leopold, Thomas; van Gaalen, Ruben; Engelhardt, Henriette",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-019-00841-y",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00841-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00841-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00841-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

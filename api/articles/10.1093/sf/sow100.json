@@ -1,0 +1,25 @@
+{
+  "title": "Infrastructure, Social Practice, and Environmentalism: The Case of Bicycle-Commuting",
+  "abstract": "Automobile travel is a major contributor to US greenhouse gas emissions. Reducing car travel could slow climate change, but this goal is made difficult by the constellation of economic, political, cultural, and infrastructural forces that form a mutually reinforcing system of automobility. This complexity suggests the need for an approach that attends to both the reciprocal relationship between infrastructure and practice and the moderating influence of cultural factors, but policies to encourage sustainable practices rely on asocial conceptions of behavior. With longitudinal data on bicycle-commuting in sixty-two large US cities from 2000 to 2014, I use fixed-effects regression and structural equation modeling to perform two strong tests of whether the expansion of bikeway facilities induces more bicycling, and whether this effect depends on the strength of environmentalism in a city. I also use structural equation modeling to perform a preliminary test of the reverse causal effect-whether bicycle-commuting can spur bikeway creation, again allowing for a moderating effect of environmentalism. My results add to existing evidence that bikeways induce bicycling, and provide preliminary support for the reverse effect, but also indicate that both effects are moderated by local environmentalism. Implications for the persistence of auto-dominance are discussed.",
+  "authors": [
+    {
+      "raw": "Burk, Derek",
+      "family": "Burk",
+      "given": "Derek"
+    }
+  ],
+  "authors_text": "Burk, Derek",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sow100",
+  "doi_url": "https://doi.org/10.1093/sf/sow100",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow100",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow100.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

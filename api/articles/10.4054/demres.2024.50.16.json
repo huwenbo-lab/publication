@@ -1,0 +1,40 @@
+{
+  "title": "The big decline: Lowest-low fertility in Uruguay (2016-2021)",
+  "abstract": "BACKGROUND In recent years, fertility rates have declined substantially in most Latin American countries. Uruguay has been at the forefront of this regional process, as the country's total fertility rate plummeted from 2 children per woman in 2015 to 1.37 in 2021 (and continued to drop to 1.28 in 2022, according to preliminary data). OBJECTIVE We decompose fertility decline by age and birth order in Uruguay, and identify the probable mechanisms (e.g., postponement, stopping) behind this decline. METHODS Combining census data and vital statistics, we estimate period fertility rates by age and conditional period fertility rates by birth order and age. We also decompose the relative contribution of decline in each age and birth order to total decline in TFR. RESULTS Our findings suggest that the postponement of births, especially among adolescent and very young women, was the main driver of the big fertility decline. Additionally, the fall in higher-order births, mostly among middle-aged women, played a significant role in the overall decline. The findings also reveal an increase of nearly two years in age at first birth between 2016 and 2021. CONCLUSIONS This unprecedented decline in fertility appears to be leveling off. Moreover, we expect that some of the births by adolescents and young women that were avoided during the big fertility decline will take place at some point in the future, probably generating a slight rebound in the total fertility rate.",
+  "authors": [
+    {
+      "raw": "Cabella, Wanda",
+      "family": "Cabella",
+      "given": "Wanda"
+    },
+    {
+      "raw": "Soto, Mariana Fernandez",
+      "family": "Soto",
+      "given": "Mariana Fernandez"
+    },
+    {
+      "raw": "Pardo, Ignacio",
+      "family": "Pardo",
+      "given": "Ignacio"
+    },
+    {
+      "raw": "Pedetti, Gabriela",
+      "family": "Pedetti",
+      "given": "Gabriela"
+    }
+  ],
+  "authors_text": "Cabella, Wanda; Soto, Mariana Fernandez; Pardo, Ignacio; Pedetti, Gabriela",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.16",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

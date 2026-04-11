@@ -1,0 +1,35 @@
+{
+  "title": "Do Asian Americans Face Labor Market Discrimination? Accounting for the Cost of Living among Native-born Men and Women",
+  "abstract": "Being nonwhite, Asian Americans are an important case in understanding racial/ethnic inequality. Prior research has focused on native-born workers to reduce unobserved heterogeneity associated with immigrants. Native-born Asian American adults are concentrated, however, in areas with a high cost of living where wages tend to be higher. Regional location is thus said to inflate the wages of Asians. Given that many labor markets are national in scope with regional migration being common, current place of residence is unlikely to be a fully exogenous independent variable. We use two-stage least squares to estimate wage regression models in which the cost of living is endogenous because people with higher wages can afford to live in more expensive areas. The results fail to reject the hypothesis of no racial discrimination. Native-born Asian Americans seem to have overcome the disadvantage of being nonwhite in the labor market at least in regard to wages.",
+  "authors": [
+    {
+      "raw": "Wang, Sharron Xuanren",
+      "family": "Wang",
+      "given": "Sharron Xuanren"
+    },
+    {
+      "raw": "Takei, Isao",
+      "family": "Takei",
+      "given": "Isao"
+    },
+    {
+      "raw": "Sakamoto, Arthur",
+      "family": "Sakamoto",
+      "given": "Arthur"
+    }
+  ],
+  "authors_text": "Wang, Sharron Xuanren; Takei, Isao; Sakamoto, Arthur",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2017,
+  "doi": "10.1177/2378023117741724",
+  "doi_url": "https://doi.org/10.1177/2378023117741724",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023117741724",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023117741724.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Demand-and supply-side perspectives on parental support: Inequalities between and within families",
+  "abstract": "Current generations of adult children are believed to rely on their parents for more extended periods of their lives than in the past. Theories of parental transfers to adult children often rely on the logic of demand and supply to explain inequality of support within and between families. The current paper examines these notions using an improved research design for understanding variations in four support dimensions: practical, financial, informational, and grandparenting. Random and fixed-effects regression models were estimated on a sample of 16,603 children aged 18-50 nested in 7826 parents in the Netherlands. Findings reveal that support transfers to children strongly depend on parents' resources and time constraints, confirming the role of supply. Models for sibling differences within families show that parents allocate more support to children with personal problems and children who experienced adverse life events, in line with the notion of demand. Supply and demand-side factors play a weaker role for stepparents but similar roles for married and separated parents. Supply-side effects increase inequality in future generations, whereas demand-side effects reduce inequality by mitigating differences within families.",
+  "authors": [
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    }
+  ],
+  "authors_text": "Kalmijn, Matthijs",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103181",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103181",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103181",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103181.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

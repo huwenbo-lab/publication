@@ -1,0 +1,40 @@
+{
+  "title": "Who in the World Cares? Gender Gaps in Attitudes toward Support for Older Adults in 20 Nations",
+  "abstract": "Previous cross-national research suggests that women may be less likely to prefer family-based support to older adults and more likely to prefer government-based support compared to men. Guided by theories of gendered paid and unpaid labor, social network resources and strain, and global inequality, this paper investigates whether a gender gap in attitudes exists and, if so, whether it can be explained by characteristics of family, work, social networks and roles, and national context. Analyzing data from two cross-sectional International Social Survey Programme samples ( 2001, N = 23,360; 2012, N = 16,558) and aggregate nation- level data sources across 20 nations, the authors use multilevel modeling to predict four measures of attitudes toward family-based and/or government-based support. We find evidence of a small gender gap in attitudes. Overall, women are less likely to agree that children have a duty, more likely to say the government should definitely be responsible, and more likely to prefer that the government pay for care instead of the family/individual compared to men. Family resources, social support, occupational insecurity, and role strain are each associated with attitudes in the theorized directions, but only partially explain the gender gap in attitudes. Finally, attitudes toward older adult support vary predictably by national cultural, political, and economic measures, but the gender gap in attitudes varies cross-nationally and is likely limited to specific contexts. We discuss these findings in light of measurement options, gendered patterns of care cross-nationally, and global disparities in formal resources for caregiving.",
+  "authors": [
+    {
+      "raw": "Mair, Christine A.",
+      "family": "Mair",
+      "given": "Christine A."
+    },
+    {
+      "raw": "Chen, Feinian",
+      "family": "Chen",
+      "given": "Feinian"
+    },
+    {
+      "raw": "Liu, Guangya",
+      "family": "Liu",
+      "given": "Guangya"
+    },
+    {
+      "raw": "Brauer, Jonathan R.",
+      "family": "Brauer",
+      "given": "Jonathan R."
+    }
+  ],
+  "authors_text": "Mair, Christine A.; Chen, Feinian; Liu, Guangya; Brauer, Jonathan R.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sow049",
+  "doi_url": "https://doi.org/10.1093/sf/sow049",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow049",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow049.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Unmarried motherhood and infant health: The role of intimate partner violence in Colombia",
+  "abstract": "BACKGROUND Research has shown that growing family diversity, including motherhood among unmarried women, is associated with child well-being. However, little is known about whether and how intimate partner violence (IPV) shapes the relationship between family diversity and child outcomes. Colombia is an ideal case to study these relationships due to the country's high prevalence of unmarried motherhood and large fraction of women who report experiencing IPV. OBJECTIVE This study expands previous research by studying the association between the mother's partnership status and low birth weight, and examines the role of physical IPV during pregnancy in this Colombian context. METHOD The study draws on Colombian Demographic and Health Survey data (2000, 2005, 2010, 2015), and selects mothers with children aged 0-1 who were married, cohabiting, or separated at the time of the interview. Descriptive analysis shows trends across time in the partnership status of women with newborn children, and logistic regression models estimate whether the mother's partnership status was associated with low birth weight, and how experiencing IPV during pregnancy affected this relationship. RESULTS The results show that separated and cohabiting mothers reported higher levels of IPV during pregnancy than married mothers. The levels of IPV reported by cohabiting women decreased across the observation period to become more like those of married women. However, the difference in low birth weight between the infants of married and unmarried mothers can mostly be attributed to differences in maternal and child characteristics, as well as to disparities in healthcare utilization during pregnancy.",
+  "authors": [
+    {
+      "raw": "Molina, Stefania",
+      "family": "Molina",
+      "given": "Stefania"
+    }
+  ],
+  "authors_text": "Molina, Stefania",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.6",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

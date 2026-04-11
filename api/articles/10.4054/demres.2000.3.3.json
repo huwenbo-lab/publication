@@ -1,0 +1,25 @@
+{
+  "title": "A search for aggregate-level effects of education on fertility, using data from Zimbabwe",
+  "abstract": "The analysis was based on the 1994 Zimbabwe Demographic and Health Survey combined with aggregate data from the 1992 census. Discrete-time hazard models for first and higher-order births were estimated for 1990-94. The average length of education in the district and the proportion who are literate were found to have no impact on a woman's birth rate above and beyond that of her own education, when it was controlled for urbanization. This was the case for women who themselves had little or no education as well as for the better educated. So far, no significant influence of aggregate education on fertility has been well documented in the literature either. However, in this study, aggregate-level effects appeared in models for fertility desires and contraceptive use among married women with at least one child.",
+  "authors": [
+    {
+      "raw": "Kravdal, Øystein",
+      "family": "Kravdal",
+      "given": "Øystein"
+    }
+  ],
+  "authors_text": "Kravdal, Øystein",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2000,
+  "doi": "10.4054/demres.2000.3.3",
+  "doi_url": "https://doi.org/10.4054/demres.2000.3.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2000.3.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2000.3.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

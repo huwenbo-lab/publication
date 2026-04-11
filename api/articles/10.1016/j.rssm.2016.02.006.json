@@ -1,0 +1,30 @@
+{
+  "title": "Social status attainment and racial category selection in the contemporary United States",
+  "abstract": "Numerous studies have shown that individuals can change how they racially self-identify over time, potentially in response to changes in educational and occupational attainment. The value of that evidence is somewhat diminished, however, by reliance on survey questions about racial identity that are inconsistent over time. This study offers new evidence based on the 2008-2012 General Social Survey panel, which uses a consistent question about self-declared race throughout. Those data are used to estimate transition tables and fixed effects panel models, in which an individual's probability of choosing a racial category depends on social status indicators. We find that, on average, fluctuations in an individual's income, educational attainment and employment status are not significantly related to changes in racial self-identity in the contemporary United States. These results obtain for the total sample and for populations that historically have been more likely to change (Hispanics, Native Americans and individuals who identify as multi-racial). Implications for theory and policy are discussed. (C) 2016 Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "DeFina, Robert",
+      "family": "DeFina",
+      "given": "Robert"
+    },
+    {
+      "raw": "Hannon, Lance",
+      "family": "Hannon",
+      "given": "Lance"
+    }
+  ],
+  "authors_text": "DeFina, Robert; Hannon, Lance",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2016,
+  "doi": "10.1016/j.rssm.2016.02.006",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2016.02.006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2016.02.006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2016.02.006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Can a motherhood premium in public transfer income offset the Danish motherhood earnings penalty?",
+  "abstract": "Scholarship on motherhood's financial consequences has largely focused on the labour market, finding a motherhood earnings penalty across a wide range of countries. Yet, motherhood may also alter women's financial relationship to the state through transfers such as publicly funded paid parental leave and child allowances. We examine how motherhood affects the income women receive from both the labour market and the state and how these effects together determine motherhood's effect on the total income women receive. We draw on Danish register data and use a combination of coarsened exact matching and difference-in-differences models to estimate the effects of motherhood on labour income, public transfer income, and their sum. We find that motherhood leads to cumulative lost labour income of about 120,000 USD two decades after the first birth. However, these losses are substantially offset by a cumulative public transfer income premium of about 98,000 USD: net of transfers, mothers' cumulative lost personal income is only about 23,000 USD. Our results pave the way for future research that considers contextual variation in motherhood's effects on both labour and public transfer income.",
+  "authors": [
+    {
+      "raw": "Christensen, Therese Bay-Smidt",
+      "family": "Christensen",
+      "given": "Therese Bay-Smidt"
+    },
+    {
+      "raw": "Killewald, Alexandra",
+      "family": "Killewald",
+      "given": "Alexandra"
+    }
+  ],
+  "authors_text": "Christensen, Therese Bay-Smidt; Killewald, Alexandra",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf036",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf036",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf036",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf036.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

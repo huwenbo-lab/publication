@@ -1,0 +1,30 @@
+{
+  "title": "The Effect of School Quality on Black-White Health Differences: Evidence From Segregated Southern Schools",
+  "abstract": "Abstract This study assesses the effect of black-white differences in school quality on black-white differences in health in later life resulting from the racial convergence in school quality for cohorts born between 1910 and 1950 in southern states with segregated schools. Using data from the 1984–2007 National Health Interview Surveys linked to race-specific data on school quality, we find that reductions in the black-white gap in school quality led to modest reductions in the black-white gap in disability.",
+  "authors": [
+    {
+      "raw": "Frisvold, David",
+      "family": "Frisvold",
+      "given": "David"
+    },
+    {
+      "raw": "Golberstein, Ezra",
+      "family": "Golberstein",
+      "given": "Ezra"
+    }
+  ],
+  "authors_text": "Frisvold, David; Golberstein, Ezra",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0227-z",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0227-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0227-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0227-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

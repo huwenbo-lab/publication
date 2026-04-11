@@ -1,0 +1,30 @@
+{
+  "title": "Marital status and happiness during the COVID-19 pandemic",
+  "abstract": "Objective: This study examines the long-observed marital advantage in happiness during the COVID-19 pandemic.Background: The COVID-19 pandemic may have altered the marital advantage in happiness due to changes in social integration processes. However, this has not been explored in previous studies.Method: Data were from the COVID-19 substudy of the National Social Life, Health, and Aging Project (N = 2622). A series of regressions were estimated to understand marital status differences in pandemic happiness and changes in relationships with nonresident family and friends. Karlson-Holm-Breen mediation analysis was conducted to examine whether relationships with nonresident family and friends explained the marital association with pandemic happiness.Results: From pre-pandemic to pandemic, married respondents experienced a greater increase in unhappiness than unmarried counterparts, narrowing happiness gaps. However, unmarried individuals, including cohabiting, divorced, widowed, and never married individuals, continued to report higher levels of unhappiness during the pandemic than married peers. These differences primarily stemmed from pre-pandemic happiness. After controlling for pre-pandemic happiness, cohabiting, widowed, and never married older adults did not significantly differ from their married counterparts in reporting unhappiness during the pandemic. In contrast, divorced individuals remained consistently more unhappy than married individuals during the pandemic, mainly due to deteriorated relationship quality with nonresident family.Conclusion: During a global crisis, it is crucial for policymakers, healthcare providers, and researchers to develop innovative interventions to promote happiness and healthy aging among all older adults, paying special attention to those who are divorced.",
+  "authors": [
+    {
+      "raw": "Liu, Hui",
+      "family": "Liu",
+      "given": "Hui"
+    },
+    {
+      "raw": "Hsieh, Ning",
+      "family": "Hsieh",
+      "given": "Ning"
+    }
+  ],
+  "authors_text": "Liu, Hui; Hsieh, Ning",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12956",
+  "doi_url": "https://doi.org/10.1111/jomf.12956",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12956",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12956.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

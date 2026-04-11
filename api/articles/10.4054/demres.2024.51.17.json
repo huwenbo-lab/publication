@@ -1,0 +1,35 @@
+{
+  "title": "The role of sex and age in seasonal mortality - the case of Poland",
+  "abstract": "BACKGROUND Seasonality of mortality is a well-research topic. However, there are few cross-national studies on total populations that would allow a clear comparison of the results. This article replicates Rau and Doblhammer (2003) and adjusts their methods to Polish data nearly two decades later. OBJECTIVE The article addresses the following questions about the seasonality of deaths in Poland: How do men and women differ in terms of seasonal fluctuations in mortality? How does the seasonality of deaths change with age as well as between cohorts for the same age groups? Do the results follow the ones from the original study? METHODS A 5 percent sample drawn from Polish population ages 50+ who lived in the year 1988 was followed by 30 years. A logistic regression model was used to estimate the odds ratios of dying in different age, sex, and month/season. RESULTS Winter excess mortality for Poles ages 50+ was 9.6 percent of all deaths in the years 1988-2017. Clear seasonal fluctuations in mortality were recorded for both men and women and different age cohorts. The seasonality increased with age, affected elderly men more than elderly women, and decade of birth had an impact on mortality risk. CONTRIBUTION This study documents the seasonality of deaths in Poland by sex and age over the past three decades. It replicates the paper on the Danish population ages 50+ and reflects on differences and similarities between the results.",
+  "authors": [
+    {
+      "raw": "Cypryjanski, Jacek",
+      "family": "Cypryjanski",
+      "given": "Jacek"
+    },
+    {
+      "raw": "Ala-Karvia, Urszula Anna",
+      "family": "Ala-Karvia",
+      "given": "Urszula Anna"
+    },
+    {
+      "raw": "Putek-Szelag, Ewa",
+      "family": "Putek-Szelag",
+      "given": "Ewa"
+    }
+  ],
+  "authors_text": "Cypryjanski, Jacek; Ala-Karvia, Urszula Anna; Putek-Szelag, Ewa",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.17",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

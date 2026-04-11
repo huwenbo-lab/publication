@@ -1,0 +1,35 @@
+{
+  "title": "Following in the parents' footsteps? Using sibling data to analyse the intergenerational transmission of social (dis)advantage in Scotland",
+  "abstract": "This study provides new evidence about the extent to which individual occupational status is determined by family of origin (ascription) and by educational attainment (achievement). Using linked administrative data from the Scottish Longitudinal Study, we measure intergenerational mobility using sibling correlations and we assess the effect of siblings' education on their occupational status by examining between- and within-sibling differences. We show that about 36 per cent of siblings' variation in occupational status in Scotland is attributable to shared family factors. Our observed measures of family background explain about 40 per cent of the shared family effect, meaning that family-based advantages in the Scottish labour market largely arise from unmeasured factors. We also find that siblings' educational attainment accounts for 80 per cent of the variation between families in occupational status. While this may suggest that the Scottish labour market is highly meritocratic, previous research that showed a very strong family effect on educational attainment leads us to a different interpretation, namely that social inequalities in education are the main mechanism through which inequalities between families are reproduced (and perhaps legitimated) in the Scottish labour market.",
+  "authors": [
+    {
+      "raw": "Iannelli, Cristina",
+      "family": "Iannelli",
+      "given": "Cristina"
+    },
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    },
+    {
+      "raw": "Duta, Adriana",
+      "family": "Duta",
+      "given": "Adriana"
+    }
+  ],
+  "authors_text": "Iannelli, Cristina; Breen, Richard; Duta, Adriana",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad056",
+  "doi_url": "https://doi.org/10.1093/esr/jcad056",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad056",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad056.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

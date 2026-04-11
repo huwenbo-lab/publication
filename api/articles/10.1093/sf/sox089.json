@@ -1,0 +1,30 @@
+{
+  "title": "Going Greek: The Organization of Campus Life and Class-Based Graduation Gaps",
+  "abstract": "Social scientists have long recognized that college students from lower-income households have lower college completion rates than their more affluent peers who are attending the very same schools. Yet parsing the mechanisms through which relative socioeconomic disadvantage and privilege influence college completion has been difficult. This paper leverages a novel dataset comprising information from the Integrated Postsecondary Education Data System, the Education Trust Pell Partnership, and the U.S. News and World Report to investigate the potential influence of Greek letter societies (i.e., fraternities and sororities) on gaps in completion rates between Pell Grant recipients and non-Pell, non-Stafford loan recipients. We find that at selective four-year schools, which tend to enroll students from a wide variety of class backgrounds, the presence of Greek letter societies is associated with greater class-based graduation gaps. The association is evident, but less significant, at the nation's most selective universities. Results suggest that both stratification researchers and higher education administrators should seriously consider the extra-academic features of college life as important mediators of social inequality.",
+  "authors": [
+    {
+      "raw": "Hamilton, Laura T.",
+      "family": "Hamilton",
+      "given": "Laura T."
+    },
+    {
+      "raw": "Cheng, Simon",
+      "family": "Cheng",
+      "given": "Simon"
+    }
+  ],
+  "authors_text": "Hamilton, Laura T.; Cheng, Simon",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/sox089",
+  "doi_url": "https://doi.org/10.1093/sf/sox089",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox089",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox089.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

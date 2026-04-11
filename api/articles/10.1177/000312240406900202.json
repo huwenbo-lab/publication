@@ -1,0 +1,25 @@
+{
+  "title": "The political economy of imprisonment in affluent western democracies, 1960-1990",
+  "abstract": "Research showing an association between business cycles and imprisonment is suspect on both theoretical and empirical grounds. Most research on this topic uses an impoverished notion of business cycles and pays no attention to differences in the institutional contexts of economic policymaking. This article reexamines this issue using data from 15 affluent capitalist democracies observed over 30 years, from 1960 to 1990. Pooled regression techniques are used to test hypotheses regarding the effects of business cycles, political power and the structure of labor market institutions. Results from simple models show the expected associations between business cycles and imprisonment rates, but these associations disappear in models that include measures of politics and institutional structure. This suggests that the business cycle-imprisonment relationship is not causal but is instead an artifact of antecedent differences between neoliberal and corporatist societies.",
+  "authors": [
+    {
+      "raw": "Sutton, JR",
+      "family": "Sutton",
+      "given": "JR"
+    }
+  ],
+  "authors_text": "Sutton, JR",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2004,
+  "doi": "10.1177/000312240406900202",
+  "doi_url": "https://doi.org/10.1177/000312240406900202",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240406900202",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240406900202.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

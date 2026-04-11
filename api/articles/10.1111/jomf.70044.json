@@ -1,0 +1,25 @@
+{
+  "title": "Same-Sex Marriage Market Opportunity and Racial Exogamy: Testing the Availability Thesis",
+  "abstract": "Objective To examine the association between same-sex marriage market opportunity and racial exogamy among newly formed same-sex male and female marriages.Background Same-sex marriages, particularly those among men, are more likely to be interracial than different-sex marriages. The availability thesis attributes this to the limited opportunity to meet eligible same-race partners in the same-sex marriage market. Yet, empirical tests of this thesis remain scarce, partly due to challenges in capturing same-sex marriage markets in representative data.Method Adopting the American Community Survey (ACS) 2015-2023, we estimated logistic regression models to predict racial exogamy among newlywed same-sex couples in which at least one spouse is non-Hispanic White (N = 1087 male; N = 1253 female couples). Marriage market opportunity was measured using state-level Behavioral Risk Factor Surveillance System (BRFSS) data, defined as the percentage of White, unmarried gay and bisexual men (or lesbian and bisexual women) among all unmarried male (or female) adults.Results In models including individual and couple-level controls, greater marriage market opportunity was associated with lower odds of racial exogamy among women and men, providing initial support for the availability thesis. Yet, this association became statistically nonsignificant after adjusting for state-level contexts. Alternative opportunity measures concerning bisexual adults yielded similar results.Conclusion This study is among the first to use representative data to conceptualize and operationalize same-sex marriage markets and link them to racial intermarriage. The null finding raises questions about the applicability of the availability thesis to same-sex contexts and suggests that the distinctive features of same-sex partner search may weaken the impact of market opportunity.",
+  "authors": [
+    {
+      "raw": "Song, Haoming",
+      "family": "Song",
+      "given": "Haoming"
+    }
+  ],
+  "authors_text": "Song, Haoming",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70044",
+  "doi_url": "https://doi.org/10.1111/jomf.70044",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70044",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70044.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

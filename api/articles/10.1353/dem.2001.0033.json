@@ -1,0 +1,35 @@
+{
+  "title": "Social inequalities in disability-free life expectancy in the french male population, 1980–1991",
+  "abstract": "Abstract We calculate aggregate indicators of population health for occupational groups to gauge changes in health disparities during the 1980–1991 period. The study is based on the experiences of French adult men in three major occupational classes: managers, manual workers, and an intermediary occupational group. Life table models show that managers have longer life expectancy and dis-abilityfree life expectancy (DFLE) than manual workers, and a shorter life expectancy with disability. The concurrent increases in life expectancy and DFLE during the period maintained the occupational disparities in health; the years lived with disability, however, declined for all groups, as for the entire French population.",
+  "authors": [
+    {
+      "raw": "Cambois, Emmanuelle",
+      "family": "Cambois",
+      "given": "Emmanuelle"
+    },
+    {
+      "raw": "Robine, Jean-Marie",
+      "family": "Robine",
+      "given": "Jean-Marie"
+    },
+    {
+      "raw": "Hayward, Mark D.",
+      "family": "Hayward",
+      "given": "Mark D."
+    }
+  ],
+  "authors_text": "Cambois, Emmanuelle; Robine, Jean-Marie; Hayward, Mark D.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.1353/dem.2001.0033",
+  "doi_url": "https://doi.org/10.1353/dem.2001.0033",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2001.0033",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2001.0033.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Measuring and Modelling Level of Education in European Societies",
+  "abstract": "We present two methods to improve the comparative measurement of level of education. The first method derives optimal scale scores for all country-specific education categories distinguished in the European Social Survey Round 1-4 [ESS R1-R4]. This results in a novel continuous comparative education measure that we label ISLED: the International Standard Level of Education. The second method further improves measurement quality by modelling level of education as a true-score latent variable that is reflected in two observed indicators. In particular, we combine ISLED and a common-denominator harmonization based on the International Standard Classification of Education (ISCED), respectively, with an independently collected duration measure. Embedded in an extended intergenerational status attainment model, this allows us to compare the measurement quality of ISLED with that of two often used comparative education measures: duration and ESS's five-category harmonized qualification indicator. ISLED outperforms both by some margin, but still attenuates measurement by 5 per cent. Full disattenuation can, however, be achieved by means of latent variable modelling, as this brings about correction of all (random) measurement error. © The Author 2013.",
+  "authors": [
+    {
+      "raw": "Schroder, H.",
+      "family": "Schroder",
+      "given": "H."
+    },
+    {
+      "raw": "Ganzeboom, H. B. G.",
+      "family": "Ganzeboom",
+      "given": "H. B. G."
+    }
+  ],
+  "authors_text": "Schroder, H.; Ganzeboom, H. B. G.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1093/esr/jct026",
+  "doi_url": "https://doi.org/10.1093/esr/jct026",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjct026",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jct026.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

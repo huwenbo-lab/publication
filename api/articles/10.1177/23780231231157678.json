@@ -1,0 +1,45 @@
+{
+  "title": "Estimating Firm-, Occupation-, and Job-Level Gender Pay Gaps with U.S. Linked Employer-Employee Population Data, 2005 to 2015",
+  "abstract": "Merging 2005 to 2015 Internal Revenue Service, Social Security, and Census records, the authors calculate national average gender pay gaps for various population definitions and then decompose trends in the contribution of firm, occupation, and job segregation to these pay gaps, as well as the size of the average residual “within-job” pay gap. In general, observed segregation tends to explain about half of age, education, and hours of work adjusted gender pay gaps, but the other half remains within occupations in the same firm. Although between-firm pay gaps rose and within-job pay gaps declined through 2009, the authors find little decline in firm- or job-level gender pay gaps after 2009. The results indicate that to reduce gender pay gaps, public policy and employers should target gender disparities in hiring and job assignment as well as potential disparities in pay setting.",
+  "authors": [
+    {
+      "raw": "King, Joseph",
+      "family": "King",
+      "given": "Joseph"
+    },
+    {
+      "raw": "Mendoza, Matthew",
+      "family": "Mendoza",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Penner, Andrew",
+      "family": "Penner",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Rainey, Anthony",
+      "family": "Rainey",
+      "given": "Anthony"
+    },
+    {
+      "raw": "Tomaskovic-Devey, Donald",
+      "family": "Tomaskovic-Devey",
+      "given": "Donald"
+    }
+  ],
+  "authors_text": "King, Joseph; Mendoza, Matthew; Penner, Andrew; Rainey, Anthony; Tomaskovic-Devey, Donald",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231157678",
+  "doi_url": "https://doi.org/10.1177/23780231231157678",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231157678",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231157678.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

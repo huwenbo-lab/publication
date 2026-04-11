@@ -1,0 +1,30 @@
+{
+  "title": "The Opioid Epidemic and Nonmarital Childbearing in the United States, 2000-2016",
+  "abstract": "The United States has experienced a dramatic rise in opioid addiction and opioid overdose deaths in recent years. We investigate the effect of the opioid epidemic at the local level on nonmarital fertility using aggregate- and individual-level analyses. Opioid overdose death rates and prescriptions per capita are used as indicators of the intensity of the opioid epidemic. We estimate area fixed-effects models to test the effect of the opioid epidemic on nonmarital birth rates obtained from vital statistics for 20002016. We find an increase in nonmarital birth rates in communities that experienced a rise in opioid overdose deaths and higher prescription rates. Our analyses also show that the local effect of the opioid epidemic is not driven by a reduction in marriage rates and that marital birth rates are unaffected. Individual-level data from the ACS 20082016 are then used to further assess the potential causal mechanisms and to test heterogeneous effects by education and race/ethnicity. Our findings suggest that the opioid epidemic increased nonmarital birth rates through social disruptions primarily affecting unmarried women but not through changes in their economic condition.",
+  "authors": [
+    {
+      "raw": "Caudillo, Monica L.",
+      "family": "Caudillo",
+      "given": "Monica L."
+    },
+    {
+      "raw": "Villarreal, Andres",
+      "family": "Villarreal",
+      "given": "Andres"
+    }
+  ],
+  "authors_text": "Caudillo, Monica L.; Villarreal, Andres",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8937348",
+  "doi_url": "https://doi.org/10.1215/00703370-8937348",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8937348",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8937348.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

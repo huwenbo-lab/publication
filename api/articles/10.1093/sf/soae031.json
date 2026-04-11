@@ -1,0 +1,30 @@
+{
+  "title": "Re-considering Re-partnering: New Insights about Gender and Sexuality in the Study of Second Union Formation",
+  "abstract": "Past studies have established the existence of a persistent gender gap in re-partnering, wherein women are less likely to re-partner than men in the general population. Existing theories and explanations focus on women's and men's socio-demographic characteristics as mechanisms determining their opportunities, needs, and attractiveness in the re-partnering process. However, this work assumes that people are heterosexual and overlooks sexual minorities despite growing scholarly interest in union formation and dissolution among Lesbian, Gay, and Bisexual (LGB) people. We investigate whether and how the gender gap in re-partnering intersects with sexual identity to highlight the role of gender relations as a social force that shapes union formation outcomes among both the heterosexual and LGB population. We use retrospective data on cohabitation and marriage histories from the British Understanding Society survey (UKHLS) to estimate event history models. We confirm the existence of a gender gap favoring men among heterosexuals but find that lesbian women are more likely to re-partner than gay men. We do not observe a gender gap among bisexuals. Results are robust to accounting for compositional differences between groups using exact matching techniques. These findings suggest that the persistent gender gap found in past studies is not as universal as previously presumed and that sexual identity plays a vital role in re-partnering outcomes. Therefore, sociologists should explicitly incorporate the gender relational context into models and theories that explain gender differences in union formation outcomes.",
+  "authors": [
+    {
+      "raw": "Ophir, Ariane",
+      "family": "Ophir",
+      "given": "Ariane"
+    },
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    }
+  ],
+  "authors_text": "Ophir, Ariane; Boertien, Diederik",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae031",
+  "doi_url": "https://doi.org/10.1093/sf/soae031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Is the Motherhood Penalty Larger for Low-Wage Women? A Comment on Quantile Regression",
+  "abstract": "In this comment, we offer a nontechnical discussion of conventional (conditional) multivariate quantile regression, with an emphasis on the appropriate interpretation of results. We discuss its distinction from unconditional quantile regression, an analytic method that can be used to estimate varying associations between predictors and outcome at different points of the outcome distribution. We argue that the research question posed by Budig and Hodges (2010)-whether the motherhood penalty is larger for low-wage women-cannot be answered with the authors' conditional quantile regression models. Using more appropriate unconditional quantile regression models, we find, in contrast to Budig and Hodges's claims, that the motherhood penalty is not largest for low-wage women.",
+  "authors": [
+    {
+      "raw": "Killewald, Alexandra",
+      "family": "Killewald",
+      "given": "Alexandra"
+    },
+    {
+      "raw": "Bearak, Jonathan",
+      "family": "Bearak",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Killewald, Alexandra; Bearak, Jonathan",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122414524574",
+  "doi_url": "https://doi.org/10.1177/0003122414524574",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122414524574",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122414524574.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

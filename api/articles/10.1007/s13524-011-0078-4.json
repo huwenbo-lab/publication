@@ -1,0 +1,30 @@
+{
+  "title": "Utilization of Infertility Treatments: The Effects of Insurance Mandates",
+  "abstract": "Abstract Over the last several decades, both delay of childbearing and fertility problems have become increasingly common among women in developed countries. At the same time, technological changes have made many more options available to individuals experiencing fertility problems. However, these technologies are expensive, and only 25% of health insurance plans in the United States cover infertility treatment. As a result of these high costs, legislation has been passed in 15 states that mandates insurance coverage of infertility treatment in private insurance plans. In this article, we examine whether mandated insurance coverage for infertility treatment affects utilization. We allow utilization effects to differ by age and education, since previous research suggests that older, more-educated women should be more likely to be directly affected by the mandates than younger women and less-educated women, both because they are at higher risk of fertility problems and because they are more likely to have private health insurance, which is subject to the mandate. We find robust evidence that the mandates do have a significant effect on utilization for older, more-educated women that is larger than the effects found for other groups. These effects are largest for the use of ovulation-inducing drugs and artificial insemination.",
+  "authors": [
+    {
+      "raw": "Bitler, Marianne P.",
+      "family": "Bitler",
+      "given": "Marianne P."
+    },
+    {
+      "raw": "Schmidt, Lucie",
+      "family": "Schmidt",
+      "given": "Lucie"
+    }
+  ],
+  "authors_text": "Bitler, Marianne P.; Schmidt, Lucie",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0078-4",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0078-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0078-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0078-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

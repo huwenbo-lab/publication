@@ -1,0 +1,40 @@
+{
+  "title": "Mental Health in China: Social Change in Life Course Trajectories",
+  "abstract": "Knowledge about life course trajectories and intercohort changes in mental health is limited mainly to Western populations. To address this gap, our study analyzes mental health trajectories in China, drawing on data on depressive symptoms from the China Family Panel Studies over the period 2012-2020 (N = 31,700 individuals aged 16-70; N = 87,787 person-years). Employing hierarchical linear regression models, our findings reveal moderate increases in depressive symptoms over the life course and across cohorts. Subgroup analyses indicate that women, people with lower educational attainment, and people with rural hukou experienced more depressive symptoms and a more pronounced increase in depressive symptoms with age. These disparities narrowed across cohorts. We discuss these patterns in the context of Chinese cultural dynamics, including son preference, the impact of education and hukou on the accumulation of stress over the life course, family policy and equity policy transitions, and the changing stigma of mental health.",
+  "authors": [
+    {
+      "raw": "Ge, Tingshuai",
+      "family": "Ge",
+      "given": "Tingshuai"
+    },
+    {
+      "raw": "Van Leeuwen, Frans Johannes",
+      "family": "Van Leeuwen",
+      "given": "Frans Johannes"
+    },
+    {
+      "raw": "Jiang, Quanbao",
+      "family": "Jiang",
+      "given": "Quanbao"
+    },
+    {
+      "raw": "Leopold, Liliya",
+      "family": "Leopold",
+      "given": "Liliya"
+    }
+  ],
+  "authors_text": "Ge, Tingshuai; Van Leeuwen, Frans Johannes; Jiang, Quanbao; Leopold, Liliya",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.12684",
+  "doi_url": "https://doi.org/10.1111/padr.12684",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12684",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12684.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

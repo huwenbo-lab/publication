@@ -1,0 +1,30 @@
+{
+  "title": "Family size and support of older adults in urban and rural China: Current effects and future implications",
+  "abstract": "AbstractChange in China’s age structure is creating concerns about whether reductions in family size undermine traditional support mechanisms for older adults. Future generations may expect less support as the availability of children declines. In this article, the association between number of children and the receipt of instrumental and financial support is examined for rural and urban populations. Probabilities are modeled as bivariate probits. Coefficients are used to conduct simulations in which support is examined across hypothetical distributions of number of children. The results show that the number of children is an important determinant of support, but future reductions in support may not be as dramatic as anticipated.",
+  "authors": [
+    {
+      "raw": "Zimmer, Zachary",
+      "family": "Zimmer",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Kwong, Julia",
+      "family": "Kwong",
+      "given": "Julia"
+    }
+  ],
+  "authors_text": "Zimmer, Zachary; Kwong, Julia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.1353/dem.2003.0010",
+  "doi_url": "https://doi.org/10.1353/dem.2003.0010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2003.0010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2003.0010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

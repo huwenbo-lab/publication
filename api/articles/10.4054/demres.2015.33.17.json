@@ -1,0 +1,35 @@
+{
+  "title": "Neighborhood-health links: Differences between rural-to-urban migrants and natives in Shanghai",
+  "abstract": "BACKGROUND It is well known that migrant workers tend to have different perceptions of neighborhood environments than urban natives. However, less is known about how these differences in perception may be linked to the health of members of these two groups. OBJECTIVE We investigated differences in links between perceived neighborhood social and physical environments and three health outcomes, self-rated health, social stress, and chronic conditions, between rural-to-urban migrants (migrant workers) and Shanghai-born native urban residents in China. METHODS Data used in this study were based on a survey of 477 rural-to-urban migrants and 546 native urban residents aged 18-64, conducted in Shanghai in 2008. Logistic regression analyses were performed to model relationships for migrant workers and native residents. RESULTS We found that among migrant workers, more positive perceptions of neighborhood social environments (social cohesion and safety) were linked to better self-rated health and lower levels of perceived stress but were not linked to chronic disease conditions; there were also no links between perceptions of physical environments and any of the three health outcomes of this study among migrant workers. By contrast, among urban natives, more positive perceptions of neighborhood social environments were linked to lower odds of chronic disease conditions but were not linked to self-rated health and perceived stress; more positive perceptions of physical environments (amenities and air quality) were linked with lower odds of social stress and of chronic disease conditions. CONCLUSIONS Neighborhood social and physical environments affected the health of migrant workers and urban natives differently.",
+  "authors": [
+    {
+      "raw": "Gu, Danan",
+      "family": "Gu",
+      "given": "Danan"
+    },
+    {
+      "raw": "Zhu, Haiyan",
+      "family": "Zhu",
+      "given": "Haiyan"
+    },
+    {
+      "raw": "Wen, Ming",
+      "family": "Wen",
+      "given": "Ming"
+    }
+  ],
+  "authors_text": "Gu, Danan; Zhu, Haiyan; Wen, Ming",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.17",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

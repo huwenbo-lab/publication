@@ -1,0 +1,30 @@
+{
+  "title": "Knowledge Discovery: Methods from data mining and machine learning",
+  "abstract": "The interdisciplinary field of knowledge discovery and data mining emerged from a necessity of big data requiring new analytical methods beyond the traditional statistical approaches to discover new knowledge from the data mine. This emergent approach is a dialectic research process that is both deductive and inductive. The data mining approach automatically or semi-automatically considers a larger number of joint, interactive, and independent predictors to address causal heterogeneity and improve prediction. Instead of challenging the conventional model-building approach, it plays an important complementary role in improving model good-ness of fit, revealing valid and significant hidden patterns in data, identifying nonlinear and non -additive effects, providing insights into data developments, methods, and theory, and enriching scientific discovery. Machine learning builds models and algorithms by learning and improving from data when the explicit model structure is unclear and algorithms with good performance are difficult to attain. The most recent development is to incorporate this new paradigm of predictive modeling with the classical approach of parameter estimation regressions to produce improved models that combine explanation and prediction.",
+  "authors": [
+    {
+      "raw": "Shu, Xiaoling",
+      "family": "Shu",
+      "given": "Xiaoling"
+    },
+    {
+      "raw": "Ye, Yiwan",
+      "family": "Ye",
+      "given": "Yiwan"
+    }
+  ],
+  "authors_text": "Shu, Xiaoling; Ye, Yiwan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2022.102817",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102817",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102817",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102817.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

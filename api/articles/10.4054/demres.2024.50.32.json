@@ -1,0 +1,40 @@
+{
+  "title": "Gone and forgotten? Predictors of birth history omissions in India",
+  "abstract": "BACKGROUND Fertility histories are subject to measurement errors such as incorrect birth dates, incorrect birth orders, incorrect sex, and omissions. These errors can bias demographic estimates such as fertility rates and child mortality rates. OBJECTIVE We focus on births missing in fertility histories. We estimate the prevalence of such omissions and study their associated factors. METHODS We leverage a panel survey (the India Human Development Survey) where the same women were interviewed in two waves several years apart. We compare data across waves and identify omitted births. Omissions in the second wave are modeled as a function of several child, mother, household, and survey interviewer variables. Models are fit separately to omissions reported alive or dead in the first wave. RESULTS We conservatively estimate the prevalence of omissions at 4%. A large majority of omitted births are those of dead children, especially infants, with children in poorer households at greater risk of being omitted. For children alive in wave 1, female children are much more likely to be omitted in wave 2 compared to male children. Interviewers can detect respondent behaviors associated with omissions. CONCLUSIONS Omissions in fertility histories are non-ignorable. They do not randomly occur, and they affect some population subgroups and some interview contexts more than others. CONTRIBUTIONS We investigate the understudied but important phenomenon of omitted births in fertility histories. We bring attention to possible biases in demographic estimates. We shed light on the survey process and propose strategies for minimizing bias through improved survey design.",
+  "authors": [
+    {
+      "raw": "Sharma, Sharan",
+      "family": "Sharma",
+      "given": "Sharan"
+    },
+    {
+      "raw": "Desai, Sonalde",
+      "family": "Desai",
+      "given": "Sonalde"
+    },
+    {
+      "raw": "Barik, Debasis",
+      "family": "Barik",
+      "given": "Debasis"
+    },
+    {
+      "raw": "Sharma, O. P.",
+      "family": "Sharma",
+      "given": "O. P."
+    }
+  ],
+  "authors_text": "Sharma, Sharan; Desai, Sonalde; Barik, Debasis; Sharma, O. P.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.32",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Road Access, Fertility, and Child Health in Rural India",
+  "abstract": "Expansion in access to public infrastructure can have varied, microlevel impacts. In this paper, we use a discrete and quasi-random change in the access to paved roads through a large-scale rural road construction program in India to study how road access impacts fertility decisions and investments in child health. We find that increased access to paved roads at the district level decreases fertility, improves investments in children, and lowers infant mortality. We also provide evidence that highlights the mechanisms that drive this effect. First, we show that local roads improve access to health care facilities and raise immunization rates, which reduces infant mortality. Then, we demonstrate that last-mile road connectivity has contrasting effects on employment across gender. Overall, the evidence suggests that rural roads can help accelerate demographic transition through their effects on fertility and infant mortality.",
+  "authors": [
+    {
+      "raw": "Dasgupta, Aparajita",
+      "family": "Dasgupta",
+      "given": "Aparajita"
+    },
+    {
+      "raw": "Karandikar, Anahita",
+      "family": "Karandikar",
+      "given": "Anahita"
+    },
+    {
+      "raw": "Raghav, Devvrat",
+      "family": "Raghav",
+      "given": "Devvrat"
+    }
+  ],
+  "authors_text": "Dasgupta, Aparajita; Karandikar, Anahita; Raghav, Devvrat",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12604",
+  "doi_url": "https://doi.org/10.1111/padr.12604",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12604",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12604.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

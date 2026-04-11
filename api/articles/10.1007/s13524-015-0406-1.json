@@ -1,0 +1,40 @@
+{
+  "title": "A New Piece of the Puzzle: Sexual Orientation, Gender, and Physical Health Status",
+  "abstract": "Although research has long documented the relevance of gender for health, studies that simultaneously incorporate the relevance of disparate sexual orientation groups are sparse. We address these shortcomings by applying an intersectional perspective to evaluate how sexual orientation and gender intersect to pattern self-rated health status among U.S. adults. Our project aggregated probability samples from the Behavioral Risk Factor Surveillance System (BRFSS) across seven U.S. states between 2005 and 2010, resulting in an analytic sample of 10,128 sexual minority (gay, lesbian, and bisexual) and 405,145 heterosexual adults. Logistic regression models and corresponding predicted probabilities examined how poor self-rated health differed across sexual orientation-by-gender groups, before and after adjustment for established health risk factors. Results reveal distinct patterns among sexual minorities. Initially, bisexual men and women reported the highest-and gay and lesbian adults reported the lowest-rates of poor self-rated health, with heterosexuals in between. Distinct socioeconomic status profiles accounted for large portions of these differences. Furthermore, in baseline and fully adjusted regression models, only among heterosexuals did women report significantly different health from men. Importantly, the findings highlight elevated rates of poor health experienced by bisexual men and women, which are partially attributable to their heightened economic, behavioral, and social disadvantages relative to other groups.",
+  "authors": [
+    {
+      "raw": "Gorman, Bridget K.",
+      "family": "Gorman",
+      "given": "Bridget K."
+    },
+    {
+      "raw": "Denney, Justin T.",
+      "family": "Denney",
+      "given": "Justin T."
+    },
+    {
+      "raw": "Dowdy, Hilary",
+      "family": "Dowdy",
+      "given": "Hilary"
+    },
+    {
+      "raw": "Medeiros, Rose Anne",
+      "family": "Medeiros",
+      "given": "Rose Anne"
+    }
+  ],
+  "authors_text": "Gorman, Bridget K.; Denney, Justin T.; Dowdy, Hilary; Medeiros, Rose Anne",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0406-1",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0406-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0406-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0406-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

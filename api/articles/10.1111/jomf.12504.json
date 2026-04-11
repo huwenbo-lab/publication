@@ -1,0 +1,35 @@
+{
+  "title": "Loose Ties? Determinants of Father-Child Contact After Separation in Germany",
+  "abstract": "ObjectiveThis article examines the determinants of father-child contact in Germany after divorce and separation, with a special emphasis on the role of legal child support. BackgroundThe contact separated fathers have with their children is a policy-relevant issue that has been intensively addressed in previous research for the United States, the United Kingdom, and Canada. For continental Europe, there has been far less research on this topic. This article investigated how fathers' union status at childbirth, custody arrangements, and past and present partnership dynamics affect the level of contact they had with their first-born child from a prior union. MethodData were used from Wave 2 (2009-2010) to Wave 8 (2015-2016) of the German Family Panel pairfam (). With a final sample size of 285 fathers, population average logistic models were estimated that examined nonresident fathers' probability of having frequent contact versus having little or no contact with their first-born children. ResultsWhether a nonresident father shared legal custody with the mother was a decisive factor in whether he had regular contact with his minor child, particularly if he was not living with the mother of the child at the time of delivery. There were strong interaction effects between having joint legal custody and the time since the parental separation. Joint legal custody did not have an immediate impact on father-child contact around the time of separation, but as time elapsed, men without joint legal custody were more likely to lose contact with their children than men with joint legal custody. ConclusionJoint legal custody may provide an institutional arrangement for separated parents to exercise their responsibility for the well-being of their children and thus be conducive to regular father-child contact.",
+  "authors": [
+    {
+      "raw": "Koeppen, Katja",
+      "family": "Koeppen",
+      "given": "Katja"
+    },
+    {
+      "raw": "Kreyenfeld, Michaela",
+      "family": "Kreyenfeld",
+      "given": "Michaela"
+    },
+    {
+      "raw": "Trappe, Heike",
+      "family": "Trappe",
+      "given": "Heike"
+    }
+  ],
+  "authors_text": "Koeppen, Katja; Kreyenfeld, Michaela; Trappe, Heike",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2018,
+  "doi": "10.1111/jomf.12504",
+  "doi_url": "https://doi.org/10.1111/jomf.12504",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12504",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12504.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

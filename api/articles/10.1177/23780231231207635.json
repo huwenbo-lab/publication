@@ -1,0 +1,25 @@
+{
+  "title": "Documenting the Rise of Anxiety in the United States across Space and Time by Using Text Analysis of Online Review Data",
+  "abstract": "In this article, the author demonstrates how one can use large-scale and publicly available online review data to study the rise in anxiety in the United States. Using the anxiety keyword list from the dictionary compiled by Linguistic Inquiry and Word Count, the author analyzed the text of approximately 7 million online reviews submitted by Yelp reviewers across 13 U.S. states from 2006 to 2021. The overall pattern confirms existing discourse that anxiety has been constantly rising in Western societies since 2000. Beyond documenting the overall pattern, online review data enable the disaggregation of this pattern by geographies, price levels, and individuals, thereby providing a more comprehensive and detailed picture than previously documented in existing literature. Additional analysis shows that anxiety is increasing faster than other emotions, such as anger and sadness.",
+  "authors": [
+    {
+      "raw": "Kovács, Balázs",
+      "family": "Kovács",
+      "given": "Balázs"
+    }
+  ],
+  "authors_text": "Kovács, Balázs",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231207635",
+  "doi_url": "https://doi.org/10.1177/23780231231207635",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231207635",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231207635.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

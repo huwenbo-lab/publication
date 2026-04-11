@@ -1,0 +1,30 @@
+{
+  "title": "Risk tolerance and fertility: Evidence from a lottery question in Italy",
+  "abstract": "Objective This article offers a contribution to the fertility literature by considering the role of risk tolerance in the fertility decision-making process. Background Despite a long tradition in fertility research emphasizing the great uncertainty underlying the decision to have children, the role of risk tolerance has been overlooked. Elaborating on previous theoretical approaches including those that have considered children as a security or as a risky investment, whether and how risk tolerance is related to fertility outcomes has been analyzed. Method The analyses are based on longitudinal data from the Survey of Household Income and Wealth carried out by the Bank of Italy and rely on a lottery question to measure risk tolerance. Probit models for the probability of having the first and second child are estimated. Results Results indicate that the most risk-tolerant individuals have the lowest probability to have a (an additional) child. This is consistent with the theoretical approaches that conceptualize children as an insurance and an immanent value. These results are particularly evident for low-income individuals. Implications The findings point to the importance of considering risk tolerance in fertility research to gain a more complete understanding of heterogeneities in fertility behaviors.",
+  "authors": [
+    {
+      "raw": "Bellani, Daniela",
+      "family": "Bellani",
+      "given": "Daniela"
+    },
+    {
+      "raw": "Arpino, Bruno",
+      "family": "Arpino",
+      "given": "Bruno"
+    }
+  ],
+  "authors_text": "Bellani, Daniela; Arpino, Bruno",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12820",
+  "doi_url": "https://doi.org/10.1111/jomf.12820",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12820",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12820.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

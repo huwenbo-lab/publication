@@ -1,0 +1,30 @@
+{
+  "title": "Stratification and Mortality--A Comparison of Education, Class, Status, and Income",
+  "abstract": "In many analyses of social inequality in health, different dimensions of social stratification have been used more or less interchangeably as measures of the individual's general social standing. This procedure, however, has been questioned in previous studies, most of them comparing education, class, and/or income. In this article, the importance of education and income as well as two aspects of occupation—class and status—is examined. The results are based on register data and refer to all Swedish employees in the age range 35–59 years. There are clear gradients in total death risk for all socioeconomic factors except income from work among women. The size of the independent effects of education, class, status, and income differ between men and women. For both sexes, there are clear net associations between education and mortality. Class and income show independent effects on mortality only for men and status shows an independent effect only for women. While different stratification dimensions—education, social class, income, status—all can be used to show a ‘social gradient’ with mortality, each of them seems to have a specific effect in addition to the general effect related to the stratification of society for either men or women.",
+  "authors": [
+    {
+      "raw": "Torssander, J.",
+      "family": "Torssander",
+      "given": "J."
+    },
+    {
+      "raw": "Erikson, R.",
+      "family": "Erikson",
+      "given": "R."
+    }
+  ],
+  "authors_text": "Torssander, J.; Erikson, R.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2009,
+  "doi": "10.1093/esr/jcp034",
+  "doi_url": "https://doi.org/10.1093/esr/jcp034",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcp034",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcp034.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

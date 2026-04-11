@@ -1,0 +1,25 @@
+{
+  "title": "Religiosity and Muslim Women’s Employment in the United States",
+  "abstract": "Does Muslim women’s religiosity deter them from paid work outside the home? I extend this question to Muslims in the United States, where the Muslim community is both ethnically and socioeconomically diverse and where this question has not yet been answered. I pool data from the 2007 and 2011 Pew Research Center surveys of American Muslims, the only large, nationally representative samples of Muslims in the United States, and use logistic regression models to analyze the relationship between religiosity and Muslim women’s employment. I find that mosque attendance is positively associated with employment, whereas other measures of religiosity have no significant effect. Education, ethnicity, and childbearing, on the other hand, are strong, consistent predictors of Muslim women’s employment. These findings suggest that practicing Islam, in itself, does not deter American Muslim women’s engagement in paid work.",
+  "authors": [
+    {
+      "raw": "Abdelhadi, Eman",
+      "family": "Abdelhadi",
+      "given": "Eman"
+    }
+  ],
+  "authors_text": "Abdelhadi, Eman",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2017,
+  "doi": "10.1177/2378023117729969",
+  "doi_url": "https://doi.org/10.1177/2378023117729969",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023117729969",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023117729969.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

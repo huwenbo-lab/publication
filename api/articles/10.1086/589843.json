@@ -1,0 +1,25 @@
+{
+  "title": "Moving to inequality: Neighborhood effects and experiments meet social structure",
+  "abstract": "The Moving to Opportunity (MTO) housing experiment has proven to be an important intervention not just in the lives of the poor, but in social science theories of neighborhood effects. Competing causal claims have been the subject of considerable disagreement, culminating in the debate between Clampet-Lundquist and Massey and Ludwig et al. in this issue. This article assesses the debate by clarifying analytically distinct questions posed by neighborhood-level theories, reconceptualizing selection bias as a fundamental social process worthy of study in its own right rather than a statistical nuisance, and reconsidering the scientific method of experimentation, and hence causality, in the social world of the city. The author also analyzes MTO and independent survey data from Chicago to examine trajectories of residential attainment. Although MTO provides crucial leverage for estimating neighborhood effects on individuals, as proponents rightly claim, this study demonstrates the implications imposed by a stratified urban structure and how MTO simultaneously provides a new window on the social reproduction of concentrated inequality.",
+  "authors": [
+    {
+      "raw": "Sampson, Robert J.",
+      "family": "Sampson",
+      "given": "Robert J."
+    }
+  ],
+  "authors_text": "Sampson, Robert J.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2008,
+  "doi": "10.1086/589843",
+  "doi_url": "https://doi.org/10.1086/589843",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F589843",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/589843.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

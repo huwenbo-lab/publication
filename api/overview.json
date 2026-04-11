@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-04-11T17:57:20",
+  "site_base": "https://huwenbo-lab.github.io/publication",
+  "raw_base": "https://raw.githubusercontent.com/huwenbo-lab/publication/main",
+  "total_articles": 34222,
+  "articles_with_doi": 34146,
+  "total_journals": 25,
+  "year_range": {
+    "min": 2000,
+    "max": 2026
+  },
+  "resources": {
+    "articles_json": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/articles.json",
+    "lit_db_overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journals_index": "https://huwenbo-lab.github.io/publication/api/journals.json"
+  }
+}

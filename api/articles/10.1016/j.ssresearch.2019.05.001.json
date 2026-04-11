@@ -1,0 +1,30 @@
+{
+  "title": "Assessing the spatial scale of context effects: The example of neighbourhood's educational composition and its relevance for individual aspirations",
+  "abstract": "The neighbourhood environment has repeatedly proven to be a relevant context for central aspects of individual's lives, such as educational attainment. The conventional approach of measuring neighbourhood characteristics within disjunct geographical units fixed at a particular scale is less suitable for representing the characteristics of individual action spaces in everyday activities and for detecting scale-dependent relationships. We, therefore, adapted an ego-centred context approach by aggregating contextual characteristics within (approximately) circular areas around individual respondent's places of residence (ego-hoods). We also used an analytical framework that considers the quality of hierarchical context effects. This allowed us to derive conclusions about the spatial reference of micro-level mechanisms from the scale of context effects observed as a macro-micro relationship. We linked contextual indicators to individual-level data from the German Socio-Economic Panel. Comparing ego-hoods of different ranges, we confirmed the expectation of distance decay in the relevance of neighbours for individual educational aspirations.",
+  "authors": [
+    {
+      "raw": "Hartung, Andreas",
+      "family": "Hartung",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Hillmert, Steffen",
+      "family": "Hillmert",
+      "given": "Steffen"
+    }
+  ],
+  "authors_text": "Hartung, Andreas; Hillmert, Steffen",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.05.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.05.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.05.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.05.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Subsidized Housing and Household Hardship Among Low‐Income Single‐Mother Households",
+  "abstract": "We investigate associations of housing assistance with housing and food‐related hardship among low‐income single‐mother households using data from the National Survey of America’s Families (N = 5,396). Results from instrumental variables models suggest that receipt of unit‐based assistance, such as traditional public housing, is associated with a large decrease in rent burden and modest decreases in difficulty paying rent or utilities and residential crowding. Receipt of tenant‐based assistance, such as housing vouchers or certificates, is associated with a modest increase in housing stability but also with modest increases in rent burden and difficulty paying rent or utilities. We find no associations between either type of housing assistance and food related hardship.",
+  "authors": [
+    {
+      "raw": "Berger, Lawrence M.",
+      "family": "Berger",
+      "given": "Lawrence M."
+    },
+    {
+      "raw": "Heintze, Theresa",
+      "family": "Heintze",
+      "given": "Theresa"
+    },
+    {
+      "raw": "Naidich, Wendy B.",
+      "family": "Naidich",
+      "given": "Wendy B."
+    },
+    {
+      "raw": "Meyers, Marcia K.",
+      "family": "Meyers",
+      "given": "Marcia K."
+    }
+  ],
+  "authors_text": "Berger, Lawrence M.; Heintze, Theresa; Naidich, Wendy B.; Meyers, Marcia K.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2008,
+  "doi": "10.1111/j.1741-3737.2008.00537.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2008.00537.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2008.00537.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2008.00537.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

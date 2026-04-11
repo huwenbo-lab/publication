@@ -1,0 +1,35 @@
+{
+  "title": "The Consequences of Incarceration for Mortality in the United States",
+  "abstract": "Previous research has suggested that incarceration has negative implications for individuals' well-being, health, and mortality. Most of these studies, however, have not followed former prisoners over an extended period and into older adult ages, when the risk of health deterioration and mortality is the greatest. Contributing to this literature, this study is the first to employ the Panel Study of Income Dynamics (PSID) to estimate the long-run association between individual incarceration and mortality over nearly 40 years. We also supplement those analyses with data from the National Longitudinal Survey of Youth 1979 (NLSY79). We then use these estimates to investigate the implications of the U.S. incarceration regime and the post-1980 incarceration boom for the U.S. health and mortality disadvantage relative to industrialized peer countries (the United Kingdom).",
+  "authors": [
+    {
+      "raw": "Daza, Sebastian",
+      "family": "Daza",
+      "given": "Sebastian"
+    },
+    {
+      "raw": "Palloni, Alberto",
+      "family": "Palloni",
+      "given": "Alberto"
+    },
+    {
+      "raw": "Jones, Jerrett",
+      "family": "Jones",
+      "given": "Jerrett"
+    }
+  ],
+  "authors_text": "Daza, Sebastian; Palloni, Alberto; Jones, Jerrett",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00869-5",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00869-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00869-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00869-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

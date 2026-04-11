@@ -1,0 +1,40 @@
+{
+  "title": "The Educational Consequences of Teen Childbearing",
+  "abstract": "AbstractA huge literature shows that teen mothers face a variety of detriments across the life course, including truncated educational attainment. To what extent is this association causal? The estimated effects of teen motherhood on schooling vary widely, ranging from no discernible difference to 2.6 fewer years among teen mothers. The magnitude of educational consequences is therefore uncertain, despite voluminous policy and prevention efforts that rest on the assumption of a negative and presumably causal effect. This study adjudicates between two potential sources of inconsistency in the literature—methodological differences or cohort differences—by using a single, high-quality data source: namely, The National Longitudinal Study of Adolescent Health. We replicate analyses across four different statistical strategies: ordinary least squares regression; propensity score matching; and parametric and semiparametric maximum likelihood estimation. Results demonstrate educational consequences of teen childbearing, with estimated effects between 0.7 and 1.9 fewer years of schooling among teen mothers. We select our preferred estimate (0.7), derived from semiparametric maximum likelihood estimation, on the basis of weighing the strengths and limitations of each approach. Based on the range of estimated effects observed in our study, we speculate that variable statistical methods are the likely source of inconsistency in the past. We conclude by discussing implications for future research and policy, and recommend that future studies employ a similar multimethod approach to evaluate findings.",
+  "authors": [
+    {
+      "raw": "Kane, Jennifer B.",
+      "family": "Kane",
+      "given": "Jennifer B."
+    },
+    {
+      "raw": "Morgan, S. Philip",
+      "family": "Morgan",
+      "given": "S. Philip"
+    },
+    {
+      "raw": "Harris, Kathleen Mullan",
+      "family": "Harris",
+      "given": "Kathleen Mullan"
+    },
+    {
+      "raw": "Guilkey, David K.",
+      "family": "Guilkey",
+      "given": "David K."
+    }
+  ],
+  "authors_text": "Kane, Jennifer B.; Morgan, S. Philip; Harris, Kathleen Mullan; Guilkey, David K.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0238-9",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0238-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0238-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0238-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

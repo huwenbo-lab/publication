@@ -1,0 +1,35 @@
+{
+  "title": "Police Violence and Citizen Crime Reporting in the Black Community",
+  "abstract": "High-profile cases of police violencedisproportionately experienced by black menmay present a serious threat to public safety if they lower citizen crime reporting. Using an interrupted time series design, this study analyzes how one of Milwaukee's most publicized cases of police violence against an unarmed black man, the beating of Frank Jude, affected police-related 911 calls. Controlling for crime, prior call patterns, and several neighborhood characteristics, we find that residents of Milwaukee's neighborhoods, especially residents of black neighborhoods, were far less likely to report crime after Jude's beating was broadcast. The effect lasted for over a year and resulted in a total net loss of approximately 22,200 calls for service. Other local and national cases of police violence against unarmed black men also had a significant impact on citizen crime reporting in Milwaukee. Police misconduct can powerfully suppress one of the most basic forms of civic engagement: calling 911 for matters of personal and public safety.",
+  "authors": [
+    {
+      "raw": "Desmond, Matthew",
+      "family": "Desmond",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Papachristos, Andrew V.",
+      "family": "Papachristos",
+      "given": "Andrew V."
+    },
+    {
+      "raw": "Kirk, David S.",
+      "family": "Kirk",
+      "given": "David S."
+    }
+  ],
+  "authors_text": "Desmond, Matthew; Papachristos, Andrew V.; Kirk, David S.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1177/0003122416663494",
+  "doi_url": "https://doi.org/10.1177/0003122416663494",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122416663494",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122416663494.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

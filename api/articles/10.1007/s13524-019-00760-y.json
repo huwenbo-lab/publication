@@ -1,0 +1,30 @@
+{
+  "title": "Water, Sanitation, and Child Health: Evidence From Subnational Panel Data in 59 Countries",
+  "abstract": "Water, sanitation, and hygiene (WASH) investments are widely seen as essential for improving health in early childhood. However, the experimental literature on WASH interventions identifies inconsistent impacts on child health outcomes, with relatively robust impacts on diarrhea and other symptoms of infection but weak and varying impacts on child nutrition. In contrast, observational research exploiting cross-sectional variation in water and sanitation access is much more sanguine, finding strong associations with diarrhea prevalence, mortality, and stunting. In practice, both literatures suffer from significant methodological limitations. Experimental WASH evaluations are often subject to poor compliance, rural bias, and short duration of exposure, while cross-sectional observational evidence may be highly vulnerable to omitted variables bias. To overcome some of the limitations of both literatures, we construct a panel of 442 subnational regions in 59 countries with multiple Demographic Health Surveys. Using this large subnational panel, we implement difference-in-difference regressions that allow us to examine whether longer-term changes in water and sanitation at the subnational level predict improvements in child morbidity, mortality, and nutrition. We find results that are partially consistent with both literatures. Improved water access is statistically insignificantly associated with most outcomes, although water piped into the home predicts reductions in child stunting. Improvements in sanitation predict large reductions in diarrhea prevalence and child mortality but are not associated with changes in stunting or wasting. We estimate that sanitation improvements can account for just under 10 % of the decline in child mortality from 1990 to 2015.",
+  "authors": [
+    {
+      "raw": "Headey, Derek",
+      "family": "Headey",
+      "given": "Derek"
+    },
+    {
+      "raw": "Palloni, Giordano",
+      "family": "Palloni",
+      "given": "Giordano"
+    }
+  ],
+  "authors_text": "Headey, Derek; Palloni, Giordano",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00760-y",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00760-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00760-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00760-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

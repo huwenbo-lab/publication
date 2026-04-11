@@ -1,0 +1,35 @@
+{
+  "title": "Stratified support: shadow education and maths achievement in East Asia's six top-performing jurisdictions",
+  "abstract": "We examine how shadow education is associated with educational inequality and mathematics achievement in six top-performing East Asian jurisdictions: Chinese Taipei, Hong Kong, Japan, Macao, Singapore, and South Korea. Using multilevel logistic and linear modelling on 2022 PISA data, we analyse the prevalence, socioeconomic stratification, and differential effects of five tutoring modes: one-to-one, internet/computer-based, asynchronous video instruction, small-group, and large-group tutoring. Access to traditional tutoring remains highly SES-dependent, whereas internet- or computer-based tutoring are the most democratised. Asynchronous video instruction appears particularly effective in Singapore, potentially due to high-quality English-language digital resources. Group-based tutoring is positively associated with mathematics in South Korea and Chinese Taipei, while one-to-one tutoring is generally linked to lower outcomes, suggesting a remedial role. We conclude that the role of shadow education modalities differs by jurisdiction. We discuss how shadow education reproduces inequality and recommend that future studies assess students' use of AI for academic support.",
+  "authors": [
+    {
+      "raw": "Tlessov, Alisher",
+      "family": "Tlessov",
+      "given": "Alisher"
+    },
+    {
+      "raw": "Courtney, Matthew G. R.",
+      "family": "Courtney",
+      "given": "Matthew G. R."
+    },
+    {
+      "raw": "Leckie, George",
+      "family": "Leckie",
+      "given": "George"
+    }
+  ],
+  "authors_text": "Tlessov, Alisher; Courtney, Matthew G. R.; Leckie, George",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2025,
+  "doi": "10.1080/01425692.2025.2596164",
+  "doi_url": "https://doi.org/10.1080/01425692.2025.2596164",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2025.2596164",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2025.2596164.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

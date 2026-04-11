@@ -1,0 +1,25 @@
+{
+  "title": "Who Feels Prestigious? Gender Differences in Self-Rated Occupational Prestige",
+  "abstract": "This article examines gender differences in self-rated occupational prestige in Germany using two indicators: absolute self-ratings and a prestige deviation score that benchmarks self-ratings against societal prestige for the same occupation. Using nationally representative data from the Bundesinstitut für Berufsbildung/Bundesanstalt für Arbeitsschutz und Arbeitsmedizin Employment Survey 2018 linked to Microcensus-based occupation measures, the author estimates multilevel models with individuals nested in detailed occupations and conducts Oaxaca-Blinder decompositions. Men report modestly but consistently higher prestige than women. For absolute prestige, the gap is accounted for largely by structural factors. By contrast, for the prestige deviation score, the gap aligns with an unexplained component in the decomposition, suggesting interpretation processes beyond measured structure. Wages, at both the individual and occupational levels, explain the largest share of the gap, while autonomy and perceived career advancement also raise self-ratings. Agreeableness shows a small positive association. Occupational gender composition follows a U-shaped pattern, with higher prestige in male- and female-dominated fields than in mixed ones. The results suggest that pay structures explain most observable differences in prestige self-ratings, while remaining disparities align with gendered interpretation processes.",
+  "authors": [
+    {
+      "raw": "Krueger, Sabine",
+      "family": "Krueger",
+      "given": "Sabine"
+    }
+  ],
+  "authors_text": "Krueger, Sabine",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2026,
+  "doi": "10.1177/23780231251412640",
+  "doi_url": "https://doi.org/10.1177/23780231251412640",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251412640",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251412640.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Digital Roots or Digital Routes? Broadband Expansion and the Rural-Urban Migration in China",
+  "abstract": "This study investigates how broadband internet affects rural-urban migration in China using the Universal Broadband and Telecommunication Services pilot program launched in 2015 as a quasi-experimental setting. Analyzing China Household Finance Survey data (2013-2021) with difference-in-differences estimation, we find that improved internet access significantly increased rural-urban migration by 3.2-3.4 percentage points, representing a 17.5-18.6 percent rise over the baseline migration rates of 18.3 percent. Effects were strongest in villages with fewer initial migrants, closer to county centers, and with better road infrastructure. At the individual level, impacts were largest among women, younger individuals, the more educated, and those from higher income households. The mechanism appears to be increased access to economic information. Our findings suggest broadband creates digital routes that facilitate out-migration rather than digital roots that anchor residents to rural areas.",
+  "authors": [
+    {
+      "raw": "Ma, Shuang",
+      "family": "Ma",
+      "given": "Shuang"
+    },
+    {
+      "raw": "Mu, Ren",
+      "family": "Mu",
+      "given": "Ren"
+    }
+  ],
+  "authors_text": "Ma, Shuang; Mu, Ren",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70042",
+  "doi_url": "https://doi.org/10.1111/padr.70042",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70042",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70042.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The spatial structure of transnational human activity",
+  "abstract": "Starting from conflictive predictions of hitherto disconnected debates in the natural and social sciences, this article examines the spatial structure of transnational human activity (THA) worldwide (a) across eight types of mobility and communication and (b) in its development over time. It is shown that the spatial structure of THA is similar to that of animal displacements and local-scale human motion in that it can be approximated by Levy flights with heavy tails that obey power laws. Scaling exponent and power-law fit differ by type of THA, being highest in refuge-seeking and tourism and lowest in student exchange. Variance in the availability of resources and opportunities for satisfying associated needs appears to explain these differences. Over time (1960-2010), the Levy-flight pattern remains intact and remarkably stable, contradicting the popular notion that socio-technological trends lead to a death of distance. Humans have not become more global over time, they rather became more mobile in general, i.e. they move and communicate more at all distances. Hence, it would be more adequate to speak of mobilization than of globalization. Longitudinal change occurs only in some types of THA and predominantly at short distances, indicating regional rather than global shifts. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Deutschmann, Emanuel",
+      "family": "Deutschmann",
+      "given": "Emanuel"
+    }
+  ],
+  "authors_text": "Deutschmann, Emanuel",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.04.008",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.04.008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.04.008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.04.008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

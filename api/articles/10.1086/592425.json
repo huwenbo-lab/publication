@@ -1,0 +1,30 @@
+{
+  "title": "Less Crime, More Punishment",
+  "abstract": "Recasting Durkheim's community of saints thesis, the authors argue that the severity of punishment is predicted in part by the prevalence of the deviant behavior of which the deviant stands accused. Although there is some curvilinearity at low levels of prevalence, the relationship is generally negative. Thus, all else equal, where a particular crime is frequent, any punishment applied to it is likely to be mild; conversely, where a crime is infrequent, its punishment ought to be severe. Using hierarchical regression models, the authors support this hypothesis with 1988 homicide conviction and imprisonment decisions in 32 U. S. counties.",
+  "authors": [
+    {
+      "raw": "Cooney, Mark",
+      "family": "Cooney",
+      "given": "Mark"
+    },
+    {
+      "raw": "Burt, Callie Harbin",
+      "family": "Burt",
+      "given": "Callie Harbin"
+    }
+  ],
+  "authors_text": "Cooney, Mark; Burt, Callie Harbin",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2008,
+  "doi": "10.1086/592425",
+  "doi_url": "https://doi.org/10.1086/592425",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F592425",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/592425.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

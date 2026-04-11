@@ -1,0 +1,25 @@
+{
+  "title": "Household Composition and Maternal Depression",
+  "abstract": "The context in which women raise their children has changed significantly over the past 50 years. However, research on families has often neglected to account for the increasing diversity within household structures and its effects on mothers. Using logistic regression, this article examines the likelihood of depression among mothers and multigenerational coresidence, in the first year of the focal child’s life. This research uses data from the first three waves of the Fragile Families and Child Wellbeing Study, a national representative sample of 2,970 married, single, and cohabitating mothers. The results indicate that those living in a multigenerational household show a statistically significant difference in the likelihood of depression; however, the direction of the relationship is moderated by the duration of the coresidence and the mother’s race/ethnicity and marital status. This article also addresses implications for future research and public policy.",
+  "authors": [
+    {
+      "raw": "Piontak, Joy Rayanne",
+      "family": "Piontak",
+      "given": "Joy Rayanne"
+    }
+  ],
+  "authors_text": "Piontak, Joy Rayanne",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2014,
+  "doi": "10.1177/0192513x14531678",
+  "doi_url": "https://doi.org/10.1177/0192513x14531678",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x14531678",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x14531678.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

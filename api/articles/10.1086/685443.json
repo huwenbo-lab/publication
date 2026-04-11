@@ -1,0 +1,25 @@
+{
+  "title": "Does Educational Equality Increase Mobility? Exploiting Nineteenth-Century U.S. Compulsory Schooling Laws",
+  "abstract": "Existing evidence of educational effects on intergenerational mobility is associational. This study employs early compulsory schooling laws to approach a causal estimate of the relationship between education and mobility in the context of a large-scale policy change. Using IPUMS Linked Representative Samples (linked census data), regression discontinuity models exploit state differences in the timing of compulsory schooling laws to estimate an intent-to-treat effect on intergenerational occupational mobility among white males. Despite increasing equality of attendance, results reveal that compulsory laws initially reduced relative mobility for the first few cohorts affected by the laws. Among later cohorts, who were required to attend the maximum years of school, mobility was similar to prelaw levels. School funding and other data suggest that structural lag could explain this nonlinear relationship. It seems, therefore, that educational expansion inadvertently reduced mobility through institutional inertia rather than elite efforts to maintain advantage.",
+  "authors": [
+    {
+      "raw": "Rauscher, Emily",
+      "family": "Rauscher",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Rauscher, Emily",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2016,
+  "doi": "10.1086/685443",
+  "doi_url": "https://doi.org/10.1086/685443",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F685443",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/685443.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

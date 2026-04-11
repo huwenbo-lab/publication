@@ -1,0 +1,30 @@
+{
+  "title": "How Americans Assess Intimate Partner Violence: Evidence from a Survey Experiment",
+  "abstract": "Most Americans view intimate partner violence as wrong. Less is known, however, about how the general population evaluates threats from romantic partners. When do third parties support interventions such as police involvement, restraining orders, or prohibiting the abuser from owning a gun? Through a survey-based experiment, participants reacted to a separated dating relationship scenario in which three elements were manipulated: the race of the couple, the medium of communication between the perpetrator and the victim, and whether the male character referenced a gun. Using a structural equation model, the authors find that the inclusion of a gun dramatically increases concern, which in turn fosters support for interventions. However, participants’ race and gender and the race of the couple shape these effects. When the victims in the separated dating scenario are Black, participants were less likely to call for the abuser to be prohibited from owning a gun, even when they have expressed concern about the situation. This suggests that although a gun has a clear and strong effect, racial and gender effects are more complex.",
+  "authors": [
+    {
+      "raw": "Groggel, Anne",
+      "family": "Groggel",
+      "given": "Anne"
+    },
+    {
+      "raw": "Rojas, Fabio",
+      "family": "Rojas",
+      "given": "Fabio"
+    }
+  ],
+  "authors_text": "Groggel, Anne; Rojas, Fabio",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231221149627",
+  "doi_url": "https://doi.org/10.1177/23780231221149627",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221149627",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221149627.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

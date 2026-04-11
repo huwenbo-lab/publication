@@ -1,0 +1,25 @@
+{
+  "title": "Time and Money: An Empirical Explanation of Behaviour in the Context of Travel-Mode Choice with the German Microcensus",
+  "abstract": "Whereas variance in preferences is a central explanation for human behaviour in the social sciences, economists traditionally avoid using preferences to explain behaviour. Rather, change in behaviour or different kinds of behaviour are explained solely by differences in the economic restrictions imposed on an individual. Whereas restrictions have been analysed as monetary constraints in traditional economics, Gary Becker has broadened this term. In his work, he tried to integrate ‘time’—the non‐monetary restriction—into the economic constraints. In our paper we test empirically the effects of monetary and time restrictions on the travel‐mode choice of a representative sample of the German population. We do this by means of testing some hypotheses from Becker's work on microcensus data from Germany. These data include the following variables: travel‐mode choice, distance of travel, time of travel, as well as some additional socioeconomic characteristics. Results of introducing these additional socioeconomic variables will also raise the question whether it is really true that only monetary and time costs matter.",
+  "authors": [
+    {
+      "raw": "Davidov, E.",
+      "family": "Davidov",
+      "given": "E."
+    }
+  ],
+  "authors_text": "Davidov, E.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2003,
+  "doi": "10.1093/esr/19.3.267",
+  "doi_url": "https://doi.org/10.1093/esr/19.3.267",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2F19.3.267",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/19.3.267.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

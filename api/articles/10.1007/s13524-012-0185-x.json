@@ -1,0 +1,35 @@
+{
+  "title": "Including the Smoking Epidemic in Internationally Coherent Mortality Projections",
+  "abstract": "AbstractWe present a new mortality projection methodology that distinguishes smoking- and non-smoking-related mortality and takes into account mortality trends of the opposite sex and in other countries. We evaluate to what extent future projections of life expectancy at birth (e0) for the Netherlands up to 2040 are affected by the application of these components. All-cause mortality and non-smoking-related mortality for the years 1970–2006 are projected by the Lee-Carter and Li-Lee methodologies. Smoking-related mortality is projected according to assumptions on future smoking-attributable mortality. Projecting all-cause mortality in the Netherlands, using the Lee-Carter model, leads to high gains in e0 (4.1 for males; 4.4 for females) and divergence between the sexes. Coherent projections, which include the mortality experience of the other 21 sex- and country-specific populations, result in much higher gains for males (6.4) and females (5.7), and convergence. The separate projection of smoking and non-smoking-related mortality produces a steady increase in e0 for males (4.8) and a nonlinear trend for females, with lower gains in e0 in the short run, resulting in temporary sex convergence. The latter effect is also found in coherent projections. Our methodology provides more robust projections, especially thanks to the distinction between smoking- and non-smoking-related mortality.",
+  "authors": [
+    {
+      "raw": "Janssen, Fanny",
+      "family": "Janssen",
+      "given": "Fanny"
+    },
+    {
+      "raw": "van Wissen, Leo J. G.",
+      "family": "van Wissen",
+      "given": "Leo J. G."
+    },
+    {
+      "raw": "Kunst, Anton E.",
+      "family": "Kunst",
+      "given": "Anton E."
+    }
+  ],
+  "authors_text": "Janssen, Fanny; van Wissen, Leo J. G.; Kunst, Anton E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-012-0185-x",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0185-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0185-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0185-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

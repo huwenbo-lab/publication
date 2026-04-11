@@ -1,0 +1,30 @@
+{
+  "title": "Comparing Analytic Techniques to Classify Dyadic Relationships: An Example Using Siblings",
+  "abstract": "Several methods exist for typologizing dyadic relationships. The present study reviews the utility of methods for typologizing relationships, exploring the strengths and weaknesses of 3 different approaches, and applying them to the study of adolescent sibling relationships. The 3 methods examined are a priori methods, cluster analysis, and mixture models. Each approach was used to analyze the same data taken from a cross section of a longitudinal study of 384 families with adolescent children. Clustering appeared to favor a 2‐type solution whereas the mixture model approach supported 4 types. The 3 strategies are discussed in terms of their statistical rigor and utility in the study of close relationships.",
+  "authors": [
+    {
+      "raw": "Whiteman, Shawn D.",
+      "family": "Whiteman",
+      "given": "Shawn D."
+    },
+    {
+      "raw": "Loken, Eric",
+      "family": "Loken",
+      "given": "Eric"
+    }
+  ],
+  "authors_text": "Whiteman, Shawn D.; Loken, Eric",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2006,
+  "doi": "10.1111/j.1741-3737.2006.00333.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2006.00333.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2006.00333.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2006.00333.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

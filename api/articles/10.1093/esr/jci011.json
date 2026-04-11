@@ -1,0 +1,25 @@
+{
+  "title": "Task Specificity and the Gender Wage Gap",
+  "abstract": "Standard research on the wage gap tends to take, often implicitly, an individual human capital approach. As a result, the specificity of the tasks people are employed to perform is rarely incorporated in the analyses, and this is bound to yield mis-specified wage equations. Incorporating task-specificity factors in the wage models can advance our understanding of the mechanisms behind wage differences by sex. Decomposing the taskspecificity model poses, however, some methodological problems. These problems are addressed and solutions are proposed. The model is then tested using individual data drawn from the Spanish Survey on Wage Structure. The empirical analysis is performed using a condensed version of Goldthorpe’s class schema on the assumption that such schema captures crucial differences in task specificity. The paper ends with a discussion of the advantages of the task-specificity model over both standard human capital and cultural-feminist explanations of the gender wage gap, and calls for using direct measures of task specificity in future research.",
+  "authors": [
+    {
+      "raw": "Polavieja, Javier G.",
+      "family": "Polavieja",
+      "given": "Javier G."
+    }
+  ],
+  "authors_text": "Polavieja, Javier G.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1093/esr/jci011",
+  "doi_url": "https://doi.org/10.1093/esr/jci011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

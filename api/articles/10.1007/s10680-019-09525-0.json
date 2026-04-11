@@ -1,0 +1,30 @@
+{
+  "title": "How Does Birth Order and Number of Siblings Affect Fertility? A Within-Family Comparison Using Swedish Register Data",
+  "abstract": "This study examines how the sibling constellation in childhood is associated with later fertility behaviour of men and women in Sweden. Administrative register data are used to investigate how birth order affects completed fertility, how the number of siblings and birth order jointly affect completed fertility, and in both cases if there are gender differences in these relationships. Our data consist of all fully biologically related siblings in Sweden whose mothers were born between 1915 and 1935 (the younger generation is born primarily in the 1940s, 1950s and 1960s; N = 1,472,813). To study the direct effect of birth order on fertility, sibling comparison models are applied, while to analyse the joint effect of number of siblings and birth order, the sample was stratified by birth order. Results show that higher birth order has a negative effect on completed fertility for women; hence, earlier-born women show overall higher fertility than later-born women. Parity transitions indicate that later-born women are less likely to have two or more children, while no overall gradient for men can be found. The number of siblings is more positively associated with completed fertility for firstborn than for later-born individuals. We conclude that the position in the family of origin can be seen as an additional factor that influences fertility, although effect sizes are rather small.",
+  "authors": [
+    {
+      "raw": "Morosow, Kathrin",
+      "family": "Morosow",
+      "given": "Kathrin"
+    },
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Morosow, Kathrin; Kolk, Martin",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2019,
+  "doi": "10.1007/s10680-019-09525-0",
+  "doi_url": "https://doi.org/10.1007/s10680-019-09525-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-019-09525-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-019-09525-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Relationship Between the Formation Conditions and Durations of One-Person Households in the Seoul Metropolitan Region",
+  "abstract": "Rapid demographic changes have occurred in Korea, with the number of one-person households almost doubling between 2000 and 2010 in the Seoul metropolitan region. Developed countries experienced these changes previously through the so-called second demographic transition. The purpose of this article is to ascertain how both the socioeconomic attributes and the location characteristics of one-person households at the time of their formation affect the durations of these households under the rapidly changing Korean demography. The spatial distribution of the areal location quotient indexes for one-person households indicated that the concentration of these households is relatively higher in the inner cities of metropolitan areas and the outskirts of the Seoul metropolitan region. Meanwhile, the distribution patterns of the relative concentration levels for one-person households by age group exhibited obvious differences. In the survival analysis for the entire sample of this research, household attributes were the primary determinants. However, the results of the empirical analyses by age group indicated that location characteristics were significant as well, although the significance of the variables varied with the types of one-person households. The duration of households of one person under 40 years old was affected by their access to employment districts and the concentration level of one-person households in the area. In contrast, the duration of households of one person 65 years old and older was influenced by the distribution of affordable housing. The findings of this study provide a framework that is able to make sense of the changing characteristics of the one-person households of nations in transition from developing to developed countries.",
+  "authors": [
+    {
+      "raw": "Yi, Changhyo",
+      "family": "Yi",
+      "given": "Changhyo"
+    }
+  ],
+  "authors_text": "Yi, Changhyo",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0465-y",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0465-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0465-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0465-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

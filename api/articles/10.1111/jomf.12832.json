@@ -1,0 +1,40 @@
+{
+  "title": "State minimum wage increases delay marriage and reduce divorce among low-wage households",
+  "abstract": "Objective To estimate the effects of state-level changes in the minimum wage on marriage and divorce among low-wage earners. Background Proponents of raising the minimum wage highlight the potential benefits of increased earnings for low-income families, yet to date research on the effects of raising the minimum wage has focused almost exclusively on economic outcomes. No research has yet documented whether these changes actually affect marriage and divorce. Method Using the Current Population Survey and the American Community Survey, this project applied a quasi-experimental difference-in-difference method to exploit similarities between states that have, and have not, raised their minimum wage. Results Across data sources, among men and women earning low wages, a one-dollar increase in the state minimum wage predicts a 3%-6% decline in marriage entry and a 7%-15% decline in divorce one and 2 years later. Conclusion Both changes are likely to strengthen low-income families, and are substantially larger effects than those obtained by federal policies directly targeting interpersonal dynamics within low-income couples. Implications Government policies that reduce stress on couples and facilitate their access to resources may improve family outcomes, invisibly and without making additional demands on the time of couples who are already strained.",
+  "authors": [
+    {
+      "raw": "Karney, Benjamin R.",
+      "family": "Karney",
+      "given": "Benjamin R."
+    },
+    {
+      "raw": "Wenger, Jeffrey B.",
+      "family": "Wenger",
+      "given": "Jeffrey B."
+    },
+    {
+      "raw": "Zaber, Melanie A.",
+      "family": "Zaber",
+      "given": "Melanie A."
+    },
+    {
+      "raw": "Bradbury, Thomas N.",
+      "family": "Bradbury",
+      "given": "Thomas N."
+    }
+  ],
+  "authors_text": "Karney, Benjamin R.; Wenger, Jeffrey B.; Zaber, Melanie A.; Bradbury, Thomas N.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12832",
+  "doi_url": "https://doi.org/10.1111/jomf.12832",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12832",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12832.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

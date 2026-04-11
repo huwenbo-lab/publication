@@ -1,0 +1,40 @@
+{
+  "title": "Making a Place for Space: A Demographic Spatial Perspective on Living Arrangements Among the Elderly in Historical Europe",
+  "abstract": "Much of the previous scholarship on the historical living arrangements of the aged has taken place without the benefit of large-scale harmonised census microdata and did not embrace even rudimentary forms of spatial modelling. Drawing on the pooled cross-sectional census microdata from the North Atlantic Population and Mosaic projects, we derive measures of intergenerational co-residence among the elderly for 277 regional populations from Catalonia to the Urals during the demographic ancien régime and thereafter. To examine the historical geography of living arrangements among the elderly, the spatial patterns in our data are assessed using formal tools of Exploratory Spatial Data Analysis. To investigate the extent to which the observed regional patterns are attributable to underlying demographic, socio-economic, or environmental variability, we specified a series of the OLS regression models and applied the Local Indicators of Spatial Association to the models' residuals in order to identify the spatial clusters that cannot be explained by the chosen set of predictors. Our findings reveal considerable variability in the living arrangements of the elderly in historic Europe. This variability does not align very neatly with the geographic patterns predicted by earlier historical demographic literature and partly persists even after controlling for contextual factors. Our bottom-line results suggest that when seeking to untangle the dynamics of European family systems, greater spatial awareness is indispensable.",
+  "authors": [
+    {
+      "raw": "Szołtysek, Mikołaj",
+      "family": "Szołtysek",
+      "given": "Mikołaj"
+    },
+    {
+      "raw": "Ogórek, Bartosz",
+      "family": "Ogórek",
+      "given": "Bartosz"
+    },
+    {
+      "raw": "Poniat, Radosław",
+      "family": "Poniat",
+      "given": "Radosław"
+    },
+    {
+      "raw": "Gruber, Siegfried",
+      "family": "Gruber",
+      "given": "Siegfried"
+    }
+  ],
+  "authors_text": "Szołtysek, Mikołaj; Ogórek, Bartosz; Poniat, Radosław; Gruber, Siegfried",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2019,
+  "doi": "10.1007/s10680-019-09520-5",
+  "doi_url": "https://doi.org/10.1007/s10680-019-09520-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-019-09520-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-019-09520-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

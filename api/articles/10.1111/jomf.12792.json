@@ -1,0 +1,35 @@
+{
+  "title": "Fatherhood and wage inequality in Britain, Finland, and Germany",
+  "abstract": "Objective This study investigates whether and how fatherhood shapes the wage distribution in Britain, Finland, and Germany. Background Existing research debates whether fatherhood is associated with greater wages. However, it remains unclear whether the association between fatherhood and wages varies along the wage distribution as well as institutional contexts. To explore this, we compare three countries that differ in their wage bargaining institutions and family policies. Method We use unconditional quantile regression on longitudinal data from the 1995 to 2016 waves of the Finnish Linked Employer Employee data, German Socio-Economic Panel, and UK Longitudinal Household Study. To control for selection into fatherhood, we combine quantile regressions with fixed effects techniques. Results Results show little evidence of substantial fatherhood wage effects along men's wage distribution. In all countries, fathers' higher wages at the median and top of the wage distribution are mostly accounted for by selection, but fatherhood shifts the bottom part of the distribution to the left particularly in the UK. Conclusions The extent to which having a child affects men's wages across the wage distribution is similar across three diverse policy contexts. Yet, differences across the wage distribution are larger in the UK. We argue this may be linked to its higher level of inequality typical of liberal labour markets.",
+  "authors": [
+    {
+      "raw": "Icardi, Rossella",
+      "family": "Icardi",
+      "given": "Rossella"
+    },
+    {
+      "raw": "Hagglund, Anna Erika",
+      "family": "Hagglund",
+      "given": "Anna Erika"
+    },
+    {
+      "raw": "Fernandez-Salgado, Marina",
+      "family": "Fernandez-Salgado",
+      "given": "Marina"
+    }
+  ],
+  "authors_text": "Icardi, Rossella; Hagglund, Anna Erika; Fernandez-Salgado, Marina",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12792",
+  "doi_url": "https://doi.org/10.1111/jomf.12792",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12792",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12792.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

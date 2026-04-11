@@ -1,0 +1,25 @@
+{
+  "title": "Educational mobility and subjective well-being from an intergenerational perspective",
+  "abstract": "The well-being implications of intergenerational educational mobility have been extensively studied, yet the focus predominantly lies on primary movers-individuals who themselves move up or down the educational ladder. Less is known about the impact of adult children's educational mobility on their parents' subjective wellbeing. Moreover, the role of family structures and gender dynamics in shaping the well-being outcomes of such mobility has often been overlooked. The study employs the Diagonal Mobility Model to estimate the effects of net mobility on subjective well-being, independently of both parents' (origin) and their adult children's (destination) educational levels, using data from the 2010 China Family Panel Studies. The results show that the subjective well-being of both generations was influenced by origin and destination, with a more pronounced effect from their own education. Notably, downward mobility adversely affected individuals' and their parents' subjective well-being, a phenomenon observed exclusively among those in only-child families. Among these parents, mothers with an upwardly mobile daughter reported the highest life satisfaction. These findings point to a shift in the traditional gendered parent-child dynamics and underscore the adverse consequences of downward mobility that sway both generations in only-child families.",
+  "authors": [
+    {
+      "raw": "Wang, Yanwen",
+      "family": "Wang",
+      "given": "Yanwen"
+    }
+  ],
+  "authors_text": "Wang, Yanwen",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100917",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100917",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100917",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100917.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

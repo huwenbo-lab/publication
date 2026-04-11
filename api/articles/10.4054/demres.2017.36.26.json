@@ -1,0 +1,25 @@
+{
+  "title": "Generalised count distributions for modelling parity",
+  "abstract": "BACKGROUND Parametric count distributions customarily used in demography - the Poisson and negative binomial models - do not offer satisfactory descriptions of empirical distributions of completed cohort parity. One reason is that they cannot model variance-to-mean ratios below unity, i.e., underdispersion, which is typical of low-fertility parity distributions. Statisticians have recently revived two generalised count distributions that can model both over-and underdispersion, but they have not attracted demographers' attention to date. OBJECTIVE The objective of this paper is to assess the utility of these alternative general count distributions, namely the Conway-Maxwell-Poisson and gamma count models, for the modeling of distributions of completed parity. METHODS Simulations and maximum-likelihood estimation are used to assess their fit to empirical data from the Human Fertility Database (HFD). RESULTS The results show that the generalised count distributions offer a dramatically improved fit compared to customary Poisson and negative binomial models in the presence of underdispersion, without performance loss in the case of equidispersion or overdispersion. CONCLUSIONS This gain in accuracy suggests generalised count distributions should be used as a matter of course in studies of fertility that examine completed parity as an outcome. CONTRIBUTION This note performs a transfer of the state of the art in count data modelling and regression in the more technical statistical literature to the field of demography, allowing demographers to benefit from more accurate estimation in fertility research.",
+  "authors": [
+    {
+      "raw": "Barakat, Bilal",
+      "family": "Barakat",
+      "given": "Bilal"
+    }
+  ],
+  "authors_text": "Barakat, Bilal",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.26",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

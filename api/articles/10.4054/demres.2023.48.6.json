@@ -1,0 +1,25 @@
+{
+  "title": "The educational gradient in young singlehood: The role of gender and the gender climate",
+  "abstract": "BACKGROUND Universities are described as waiting halls for union formation. However, little is known about the size of the educational gradient in single living after leaving home. OBJECTIVE This paper examines the educational gradient in single living after leaving home in 30 European countries and the role of gender and the gender climate in each country for this gradient. METHODS I use data from the European Social Survey, supplemented with data from the OECD and European Values Study for the contextual measures. Predicted probabilities for single living are compared across educational groups, genders, and countries. Using random slope models with an interaction between education and the gender climate, I examine whether the educational gradient is larger in less gender-egalitarian countries. RESULTS The results show, on average, a positive educational gradient in single living after leaving home. However, there is substantial variation in its size. First, the gradient is larger among women. Second, there are cross-national differences in the size of the gradient and gender differences in the gradient. The cross-national variation depends on the gender climate in the country. Among women, the educational gradient is smaller in countries with a higher women's labor force participation. CONCLUSION The results show that stratification in single living after leaving home is especially prominent among women in less gender-egalitarian countries. CONTRIBUTION The article presents a comprehensive overview of the educational gradient in single living after leaving home by gender and country, demonstrating the importance of the gender climate.",
+  "authors": [
+    {
+      "raw": "van den Berg, Lonneke",
+      "family": "van den Berg",
+      "given": "Lonneke"
+    }
+  ],
+  "authors_text": "van den Berg, Lonneke",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.6",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

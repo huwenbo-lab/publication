@@ -1,0 +1,35 @@
+{
+  "title": "The Best Predictors of Survival: Do They Vary by Age, Sex, and Race?",
+  "abstract": "We consider a broad set of variables used by social scientists and clinicians to identify the leading predictors of five-year survival among American adults. We address a question not considered in earlier research: Do the strongest predictors of survival vary by age, sex or race/ethnicity? The analysis uses hazard models with 30 well-established predictors to examine five-year survival in the National Health and Nutrition Examination Survey. We find that the simple measure of self-assessed health and self-reported measures of functional ability and disability are the strongest predictors in all demographic groups, and are generally ranked considerably higher than biomarkers. Among the biomarkers, serum albumin is highly ranked in most demographic groups, whereas clinical measures of cardiovascular and metabolic function are consistently among the weakest predictors. Despite these similarities, there is substantial variation in the leading predictors across demographic groups, most notably by race and ethnicity",
+  "authors": [
+    {
+      "raw": "Goldman, Noreen",
+      "family": "Goldman",
+      "given": "Noreen"
+    },
+    {
+      "raw": "Glei, Dana A.",
+      "family": "Glei",
+      "given": "Dana A."
+    },
+    {
+      "raw": "Weinstein, Maxine",
+      "family": "Weinstein",
+      "given": "Maxine"
+    }
+  ],
+  "authors_text": "Goldman, Noreen; Glei, Dana A.; Weinstein, Maxine",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2017,
+  "doi": "10.1111/padr.12079",
+  "doi_url": "https://doi.org/10.1111/padr.12079",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12079",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12079.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

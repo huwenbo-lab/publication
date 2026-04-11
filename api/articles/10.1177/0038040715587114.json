@@ -1,0 +1,25 @@
+{
+  "title": "The Social Structure of Criminalized and Medicalized School Discipline",
+  "abstract": "In this article, the author examines how school- and district-level racial/ethnic and socioeconomic compositions influence schools' use of different types of criminalized and medicalized school discipline. Using a large data set containing information on over 60,000 schools in over 6,000 districts, the authors uses multilevel modeling and a group-mean modeling strategy to answer several important questions about school discipline. First, how do school- and district-level racial and ethnic compositions influence criminalized school discipline and medicalization? Second, how do levels of school and district economic disadvantage influence criminalized school discipline and medicalization? Third, how does district-level economic disadvantage moderate the relationship between school racial/ethnic composition and criminalized school discipline and medicalization? The results generally support hypotheses that schools and districts with relatively larger minority and poor populations are more likely to implement criminalized disciplinary policies, including suspensions and expulsion or police referrals or arrests, and less likely to medicalize students through behavioral plans put in place through laws such as Section 504 of the Rehabilitation Act and the Individuals with Disabilities Education Act. However, results from cross-level interaction models suggest that district-level economic disadvantage moderates the influence of school racial composition on criminalized school discipline and medicalization.",
+  "authors": [
+    {
+      "raw": "Ramey, David M.",
+      "family": "Ramey",
+      "given": "David M."
+    }
+  ],
+  "authors_text": "Ramey, David M.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2015,
+  "doi": "10.1177/0038040715587114",
+  "doi_url": "https://doi.org/10.1177/0038040715587114",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040715587114",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040715587114.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

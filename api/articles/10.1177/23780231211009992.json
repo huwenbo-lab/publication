@@ -1,0 +1,35 @@
+{
+  "title": "Degrees of Support: State Spending on Higher Education and Public Postsecondary Degrees across State Legislatures, 2005 and 2014",
+  "abstract": "U.S. state spending on higher education represents a sizable, but highly variable, portion of budget expenditures. Preliminary research supports a positive relationship between the percentage of state legislators who hold public degrees and state funding for higher education. In this study, the authors test whether this finding is consistent over time by using panel modeling to analyze the educational compositions of state legislatures in 2005 and 2014. Generalized least squares regression models with robust standard errors clustered by state- and year-specific intercepts indicate a significantly positive relationship between the proportion of publicly educated state legislators and state spending on higher education. This relationship is consistent across models with numerous robustness checks and political, economic, and structural controls. Given the smaller number of publicly educated legislators in 2014, the findings suggest that spending on higher education would have increased to a larger extent had the educational composition of the legislatures remained constant.",
+  "authors": [
+    {
+      "raw": "Shorette, Kristen",
+      "family": "Shorette",
+      "given": "Kristen"
+    },
+    {
+      "raw": "Thiele, Megan",
+      "family": "Thiele",
+      "given": "Megan"
+    },
+    {
+      "raw": "Bolzendahl, Catherine",
+      "family": "Bolzendahl",
+      "given": "Catherine"
+    }
+  ],
+  "authors_text": "Shorette, Kristen; Thiele, Megan; Bolzendahl, Catherine",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211009992",
+  "doi_url": "https://doi.org/10.1177/23780231211009992",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211009992",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211009992.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

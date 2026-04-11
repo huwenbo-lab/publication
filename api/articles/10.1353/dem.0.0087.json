@@ -1,0 +1,40 @@
+{
+  "title": "Multivariate analysis of parity progression–based measures of the total fertility rate and its components",
+  "abstract": "Abstract This article describes a methodology for applying a discrete-time survival model—the complementary log-log model—to estimate effects of socioeconomic variables on (1) the total fertility rate and its components and (2) trends in the total fertility rate and its components. For the methodology to be applicable, the total fertility rate (TFR) must be calculated from parity progression ratios (PPRs). The components of the TFR are PPRs, the total marital fertility rate (TMFR), and the TFR itself as measures of the quantum of fertility, and mean and median ages at first marriage and mean and median closed birth intervals by birth order as measures of the tempo or timing of fertility. The focus is on effects of predictor variables on these measures rather than on coefficients, which are often difficult to interpret in the complex models that are considered. The methodology is applicable to both period and cohort data. It is illustrated by application to data from the 1993, 1998, and 2003 Demographic and Health Surveys (DHS) in the Philippines.",
+  "authors": [
+    {
+      "raw": "Retherford, Robert",
+      "family": "Retherford",
+      "given": "Robert"
+    },
+    {
+      "raw": "Ogawa, Naohiro",
+      "family": "Ogawa",
+      "given": "Naohiro"
+    },
+    {
+      "raw": "Matsukura, Rikiya",
+      "family": "Matsukura",
+      "given": "Rikiya"
+    },
+    {
+      "raw": "Eini-Zinab, Hassan",
+      "family": "Eini-Zinab",
+      "given": "Hassan"
+    }
+  ],
+  "authors_text": "Retherford, Robert; Ogawa, Naohiro; Matsukura, Rikiya; Eini-Zinab, Hassan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0087",
+  "doi_url": "https://doi.org/10.1353/dem.0.0087",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0087",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0087.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

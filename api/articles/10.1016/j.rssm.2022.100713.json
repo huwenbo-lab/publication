@@ -1,0 +1,40 @@
+{
+  "title": "Intergenerational income mobility table revisited: A trajectory group perspective",
+  "abstract": "There is a long history of studying intergenerational mobility using mobility tables or transition matrices. This approach has two potential limitations: each generation is typically divided into several equally sized income groups based on percentile ranking to create ad-hoc social classes or into predetermined broad occupational groups, and inter- and intragenerational changes in social class are not jointly analyzed. To address these limitations, we construct intergenerational income mobility tables using an alternative, group-based trajectory approach to determine the number of socioeconomic groups and characterize the development of social status over the course of individuals' working lives. Using data from the Panel Study of Income Dynamics (1968-2017), we show intergenerational differences in income dynamics as each generation's life-cycle profile unfolds. Specifically, parents and offspring who, based on their average household incomes, belong to different income strata may have similar working life-course income trajectory patterns. As a result, by focusing exclusively on the average income levels, studies using income quintiles for mobility tables may underestimate intergenerational income associations.",
+  "authors": [
+    {
+      "raw": "Song, Xi",
+      "family": "Song",
+      "given": "Xi"
+    },
+    {
+      "raw": "Zang, Emma",
+      "family": "Zang",
+      "given": "Emma"
+    },
+    {
+      "raw": "Land, Kenneth C.",
+      "family": "Land",
+      "given": "Kenneth C."
+    },
+    {
+      "raw": "Zheng, Boyan",
+      "family": "Zheng",
+      "given": "Boyan"
+    }
+  ],
+  "authors_text": "Song, Xi; Zang, Emma; Land, Kenneth C.; Zheng, Boyan",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100713",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100713",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100713",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100713.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

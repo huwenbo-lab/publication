@@ -1,0 +1,40 @@
+{
+  "title": "Imprisonment and Labor Market Outcomes: Evidence from a Natural Experiment",
+  "abstract": "Because of racially disproportionate imprisonment rates, the literature on mass incarceration has focused on the labor market consequence of imprisonment and the implications of those effects for racial inequality. Yet, the effects of imprisonment itself, as distinct from conviction, are not well understood. The authors leverage a natural experiment based on the random assignment of judges to felony cases in Michigan to examine the causal effect of being sentenced to prison as compared to probation, stratifying by race and work history. The most widespread effect of imprisonment on employment occurs through incapacitation in prison, both for the initial prison sentence and through the heightened risk of subsequent imprisonment. Negative postrelease effects of imprisonment on employment, employment stability, and employment outside the secondary labor market are concentrated among whites with a presentence work history. Postrelease effects of imprisonment on employment among those with no work history are positive but fade over time.",
+  "authors": [
+    {
+      "raw": "Harding, David J.",
+      "family": "Harding",
+      "given": "David J."
+    },
+    {
+      "raw": "Morenoff, Jeffrey D.",
+      "family": "Morenoff",
+      "given": "Jeffrey D."
+    },
+    {
+      "raw": "Nguyen, Anh P.",
+      "family": "Nguyen",
+      "given": "Anh P."
+    },
+    {
+      "raw": "Bushway, Shawn D.",
+      "family": "Bushway",
+      "given": "Shawn D."
+    }
+  ],
+  "authors_text": "Harding, David J.; Morenoff, Jeffrey D.; Nguyen, Anh P.; Bushway, Shawn D.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2018,
+  "doi": "10.1086/697507",
+  "doi_url": "https://doi.org/10.1086/697507",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F697507",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/697507.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

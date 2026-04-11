@@ -1,0 +1,35 @@
+{
+  "title": "Is the Demographic Dividend an Education Dividend?",
+  "abstract": "AbstractThe effect of changes in age structure on economic growth has been widely studied in the demography and population economics literature. The beneficial effect of changes in age structure after a decrease in fertility has become known as the “demographic dividend.” In this article, we reassess the empirical evidence on the associations among economic growth, changes in age structure, labor force participation, and educational attainment. Using a global panel of countries, we find that after the effect of human capital dynamics is controlled for, no evidence exists that changes in age structure affect labor productivity. Our results imply that improvements in educational attainment are the key to explaining productivity and income growth and that a substantial portion of the demographic dividend is an education dividend.",
+  "authors": [
+    {
+      "raw": "Crespo Cuaresma, Jesús",
+      "family": "Crespo Cuaresma",
+      "given": "Jesús"
+    },
+    {
+      "raw": "Lutz, Wolfgang",
+      "family": "Lutz",
+      "given": "Wolfgang"
+    },
+    {
+      "raw": "Sanderson, Warren",
+      "family": "Sanderson",
+      "given": "Warren"
+    }
+  ],
+  "authors_text": "Crespo Cuaresma, Jesús; Lutz, Wolfgang; Sanderson, Warren",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0245-x",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0245-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0245-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0245-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

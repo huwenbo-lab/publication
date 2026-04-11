@@ -1,0 +1,30 @@
+{
+  "title": "Put to the test: For a new sociology of testing",
+  "abstract": "In an age defined by computational innovation, testing seems to have become ubiquitous, and tests are routinely deployed as a form of governance, a marketing device, an instrument for political intervention, and an everyday practice to evaluate the self. This essay argues that something more radical is happening here than simply attempts to move tests from the laboratory into social settings. The challenge that a new sociology of testing must address is that ubiquitous testing changes the relations between science, engineering, and sociology: Engineering is today in the very stuff of where society happens. It is not that the tests of 21st-century engineering occur within a social context but that it is the very fabric of the social that is being put to the test. To understand how testing and the social relate today, we must investigate how testing operates on social life, through the modification of its settings. One way to clarify the difference is to say that the new forms of testing can be captured neither within the logic of the field test nor of the controlled experiment. Whereas tests once happened inside social environments, today's tests directly and deliberately modify the social environment.",
+  "authors": [
+    {
+      "raw": "Marres, Noortje",
+      "family": "Marres",
+      "given": "Noortje"
+    },
+    {
+      "raw": "Stark, David",
+      "family": "Stark",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Marres, Noortje; Stark, David",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2020,
+  "doi": "10.1111/1468-4446.12746",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12746",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12746",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12746.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "On Nonstable and Stable Population Momentum",
+  "abstract": "AbstractThis article decomposes total population momentum into two constituent and multiplicative parts: “nonstable” momentum and “stable” momentum. Nonstable momentum depends on deviations between a population’s current age distribution and its implied stable age distribution. Stable momentum is a function of deviations between a population’s implied stable and stationary age distributions. In general, the factorization of total momentum into the product of nonstable and stable momentum is a very good approximation. The factorization is exact, however, when the current age distribution is stable or when observed fertility is already at replacement. We provide numerical illustrations by calculating nonstable, stable, and total momentum for 176 countries, the world, and its major regions. In short, the article brings together disparate strands of the population momentum literature and shows how the various kinds of momentum fit together into a single unifying framework.",
+  "authors": [
+    {
+      "raw": "Espenshade, Thomas J.",
+      "family": "Espenshade",
+      "given": "Thomas J."
+    },
+    {
+      "raw": "Olgiati, Analia S.",
+      "family": "Olgiati",
+      "given": "Analia S."
+    },
+    {
+      "raw": "Levin, Simon A.",
+      "family": "Levin",
+      "given": "Simon A."
+    }
+  ],
+  "authors_text": "Espenshade, Thomas J.; Olgiati, Analia S.; Levin, Simon A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0063-y",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0063-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0063-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0063-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

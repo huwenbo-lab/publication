@@ -1,0 +1,40 @@
+{
+  "title": "Religious affiliation and child mortality in Ireland: A country-wide analysis based on the 1911 Census",
+  "abstract": "BACKGROUND Previous studies have identified a link between religious affiliation and child mortality, yet the underlying factors that contributed to this association are not fully understood. OBJECTIVE This study investigates how religious affiliation impacted child mortality in early 20th century Ireland, controlling for socioeconomic status, literacy, and place of residence at both the individual and contextual level. METHODS We utilize the 1911 IPUMS Irish census, indirect techniques, and regression analysis to examine the role of religious affiliation in child mortality. We therefore perform various OLS regressions, controlling for demographic factors and socioeconomic conditions at both the individual and contextual level, as well as for the three major religious groups. RESULTS Our results indicate striking differences in child mortality rates among the three major religious denominations in Ireland in the early 20th century. Catholics recorded the highest child mortality rates, followed by Church of Ireland families, while Presbyterians experienced the best child mortality outcomes. These differences are explained in part by the varying socioeconomic characteristics of each religious group, but religious affiliation is also shown to have mattered. For reasons that are not altogether clear, Jewish communities had lower child mortality rates than the major religious denominations. CONCLUSIONS Our study highlights the complex interplay between religious affiliation, socioeconomic factors, and child mortality in Ireland in the early 1900s. Our findings reveal a significant association between religious affiliation and child mortality, which persists even after controlling for certain individual socioeconomic characteristics and contextual factors. CONTRIBUTION By utilising the 1911 Irish census data and indirect estimation techniques, the study provides a new perspective on child mortality and its relationship with diverse religious affiliations.",
+  "authors": [
+    {
+      "raw": "Pozzi, Lucia",
+      "family": "Pozzi",
+      "given": "Lucia"
+    },
+    {
+      "raw": "Scalone, Francesco",
+      "family": "Scalone",
+      "given": "Francesco"
+    },
+    {
+      "raw": "Raftakis, Michail",
+      "family": "Raftakis",
+      "given": "Michail"
+    },
+    {
+      "raw": "Kennedy, Liam",
+      "family": "Kennedy",
+      "given": "Liam"
+    }
+  ],
+  "authors_text": "Pozzi, Lucia; Scalone, Francesco; Raftakis, Michail; Kennedy, Liam",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.14",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

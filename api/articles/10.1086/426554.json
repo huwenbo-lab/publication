@@ -1,0 +1,30 @@
+{
+  "title": "Dynamic parties and social turnout: An agent-based model",
+  "abstract": "The authors develop an agent-based model of dynamic parties with social turnout built upon developments in different fields within social science. This model yields significant turnout, divergent platforms, and numerous results consistent with the rational calculus of voting model and the empirical literature on social turnout. In a simplified version of the model, the authors show how a local imitation structure inherently yields dynamics that encourage positive turnout. The model also generates new hypotheses about the importance of social networks and citizen-party interactions.",
+  "authors": [
+    {
+      "raw": "Fowler, JH",
+      "family": "Fowler",
+      "given": "JH"
+    },
+    {
+      "raw": "Smirnov, O",
+      "family": "Smirnov",
+      "given": "O"
+    }
+  ],
+  "authors_text": "Fowler, JH; Smirnov, O",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2005,
+  "doi": "10.1086/426554",
+  "doi_url": "https://doi.org/10.1086/426554",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F426554",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/426554.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

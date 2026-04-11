@@ -1,0 +1,30 @@
+{
+  "title": "Happiness: Before and After the Kids",
+  "abstract": "AbstractUnderstanding how having children influences parents’ subjective well-being (“happiness”) has great potential to explain fertility behavior. We study parental happiness trajectories before and after the birth of a child, using large British and German longitudinal data sets. We account for unobserved parental characteristics using fixed-effects models and study how sociodemographic factors modify the parental happiness trajectories. Consistent with existing work, we find that happiness increases in the years around the birth of a first child and then decreases to before-child levels. Moreover, happiness increases before birth, suggesting that the trajectories may capture not only the effect of the birth but also the broader process of childbearing, which may include partnership formation and quality. Sociodemographic factors strongly modify this pattern. Those who have children at older ages or who have more education have a particularly positive happiness response to a first birth; and although having the first two children increases happiness, having a third child does not. The results, which are similar in Britain and Germany, suggest that having up to two children increases happiness, and mostly for those who have postponed childbearing. This pattern is consistent with the fertility behavior that emerged during the second demographic transition and provides new insights into low and late fertility.",
+  "authors": [
+    {
+      "raw": "Myrskylä, Mikko",
+      "family": "Myrskylä",
+      "given": "Mikko"
+    },
+    {
+      "raw": "Margolis, Rachel",
+      "family": "Margolis",
+      "given": "Rachel"
+    }
+  ],
+  "authors_text": "Myrskylä, Mikko; Margolis, Rachel",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0321-x",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0321-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0321-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0321-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

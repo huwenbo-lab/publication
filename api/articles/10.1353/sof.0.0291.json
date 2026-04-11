@@ -1,0 +1,30 @@
+{
+  "title": "Hispanic Population Growth and Rural Income Inequality",
+  "abstract": "We analyze the relationship between Hispanic population growth and changes in U.S. rural income inequality from 1990 through 2000. Applying comparative approaches used for urban areas we disentangle Hispanic population growths contribution to inequality by comparing and statistically modeling changes in the family income Gini coefficient across four rural county types: established Hispanic, rapidly growing Hispanic, rapidly growing non-Hispanic, and slow-growth or declining counties. Results support perspectives that stress growing social heterogeneity for understanding the contribution of minority population growth to inequality, including changes in human capital and industrial restructuring. We find remarkably similar inequality growth across rapidly growing Hispanic and non-Hispanic counties. This suggests that growing rural inequality stems largely from economic expansion and population growth rather than changing Hispanic composition.",
+  "authors": [
+    {
+      "raw": "Parrado, E. A.",
+      "family": "Parrado",
+      "given": "E. A."
+    },
+    {
+      "raw": "Kandel, W. A.",
+      "family": "Kandel",
+      "given": "W. A."
+    }
+  ],
+  "authors_text": "Parrado, E. A.; Kandel, W. A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2010,
+  "doi": "10.1353/sof.0.0291",
+  "doi_url": "https://doi.org/10.1353/sof.0.0291",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0291",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0291.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

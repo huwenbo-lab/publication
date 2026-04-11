@@ -1,0 +1,30 @@
+{
+  "title": "The Structure of Deference: Modeling Occupational Status Using Affect Control Theory",
+  "abstract": "Current theories of occupational status conceptualize it as either a function of cultural esteem or the symbolic aspect of the class structure. Based on Weber's definition of status as rooted in either cultural or class conditions, we argue that a consistent operationalization of occupational status must account for both of these dimensions. Using quantitative measures of cultural sentiments for occupational identities, we use affect control theory to model the network deference relations across occupations. We calculate a measure of the extent to which one occupational actor deferring to another is incongruent with cultural expectations for all possible combinations of 304 occupational titles. Because high-status actors are less likely to defer to low-status actors, the degree to which these events violate cultural expectations provides an indicator of the relative status position of different occupations. We assess the construct validity of our new deference score measure using Harris Poll data. Deference scores are more predictive of status rankings from poll data than are occupational prestige scores. We establish criterion validity using five theoretically relevant workplace outcomes: subjective work attachment, job satisfaction, general happiness, the importance of meaningful work, and perceived respect at work.",
+  "authors": [
+    {
+      "raw": "Freeland, Robert E.",
+      "family": "Freeland",
+      "given": "Robert E."
+    },
+    {
+      "raw": "Hoey, Jesse",
+      "family": "Hoey",
+      "given": "Jesse"
+    }
+  ],
+  "authors_text": "Freeland, Robert E.; Hoey, Jesse",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1177/0003122418761857",
+  "doi_url": "https://doi.org/10.1177/0003122418761857",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122418761857",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122418761857.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

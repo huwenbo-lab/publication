@@ -1,0 +1,35 @@
+{
+  "title": "Union dissolution and migration",
+  "abstract": "BACKGROUND While there is a limited body of research regarding residential mobility and migration following union dissolution, there is a particular dearth of studies that go into detail about the factors that shape how union dissolution may result in long-distance migration. OBJECTIVE This research isolates and identifies the processes that influence inter-state migration in the period immediately following the dissolution of a marital union. METHODS Multilevel logit models of the probability of inter-state migration following the dissolution of marital unions are estimated using data drawn from the 1975 through 2011 US Panel Study of Income Dynamics (PSID). RESULTS The results provide support for a gendered model of family migration, indicate that separated parents are less likely to migrate than ex-partners without children, and suggest that the migration decisions of former partners may remain linked through their children even after the end of their union. CONCLUSIONS These results indicate that the migration of separated parents is constrained by the need for parents with joint or shared children to remain in close geographic proximity to each other. Since both the number of children living with separated parents and the number of those parents with joint or shared custody are increasing, it is likely that this plays some role in the long-term decline in US migration rates.",
+  "authors": [
+    {
+      "raw": "Cooke, Thomas J.",
+      "family": "Cooke",
+      "given": "Thomas J."
+    },
+    {
+      "raw": "Mulder, Clara H.",
+      "family": "Mulder",
+      "given": "Clara H."
+    },
+    {
+      "raw": "Thomas, Michael",
+      "family": "Thomas",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Cooke, Thomas J.; Mulder, Clara H.; Thomas, Michael",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.26",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

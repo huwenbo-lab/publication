@@ -1,0 +1,40 @@
+{
+  "title": "Differences in access to social capital across societies",
+  "abstract": "This paper explores country-level macro-structural conditions that are associated with social capital, measured as individuals' access to social resources. To explain differences in social capital across societies, we formulate hypotheses based on welfare state generosity, cultural orientations (collectivism vs. individualism), and income inequality. We test our hypotheses using data from the International Social Survey Programme (ISSP) 2017, which comprises a total sample size of 50,010 individuals living in 33 countries. We use the position generator survey instrument to build two composite measures of social capital: the diversity and the socio-economic status of social contacts. Multilevel regression models reveal that diversity of social contacts is generally greater among individuals in countries with generous welfare states, while access to contacts of a higher socio-economic status is generally better among individuals in countries with higher levels of individualism. A country's income inequality is not associated with the social capital of its citizens. However, the association between a person's socioeconomic status and the diversity of their social capital is moderated by income inequality. As such, our study serves to demonstrate that macro-social conditions at the country level do influence individual social capital and have different implications depending on the dimension considered.",
+  "authors": [
+    {
+      "raw": "Otero, Gabriel",
+      "family": "Otero",
+      "given": "Gabriel"
+    },
+    {
+      "raw": "Volker, Beate",
+      "family": "Volker",
+      "given": "Beate"
+    },
+    {
+      "raw": "Rozer, Jesper",
+      "family": "Rozer",
+      "given": "Jesper"
+    },
+    {
+      "raw": "Mollenhorst, Gerald",
+      "family": "Mollenhorst",
+      "given": "Gerald"
+    }
+  ],
+  "authors_text": "Otero, Gabriel; Volker, Beate; Rozer, Jesper; Mollenhorst, Gerald",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad035",
+  "doi_url": "https://doi.org/10.1093/esr/jcad035",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad035",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad035.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "How long do we live?",
+  "abstract": "Period life expectancy is calculated from age-specific death rates using life table methods that are among the oldest and most widely employed tools of demography. These methods are rarely questioned, much less criticized. Yet changing age patterns of adult mortality in countries With high life expectancy provide a basis for questioning the conventional use of life tables. This article argues that when the mean age at death is rising, period life expectancy at birth as conventionally calculated overestimates life expectancy. Estimates of this upward bias, ranging from 1.6 years for the United States and Sweden to 3.3 years for Japan for 1980-95, are presented. A similar bias in the opposite direction occurs when mean age at death is falling, These biases can also distort trends in life expectancy as conventionally calculated and may affect projected future trends in period life expectation, particularly in the short run.",
+  "authors": [
+    {
+      "raw": "Bongaarts, J",
+      "family": "Bongaarts",
+      "given": "J"
+    },
+    {
+      "raw": "Feeney, G",
+      "family": "Feeney",
+      "given": "G"
+    }
+  ],
+  "authors_text": "Bongaarts, J; Feeney, G",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2002,
+  "doi": "10.1111/j.1728-4457.2002.00013.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2002.00013.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2002.00013.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2002.00013.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Early education and care quality: Does it matter for maternal working hours?",
+  "abstract": "This study investigates whether mothers whose children enter early childhood education and care (ECEC) centers of higher quality are more likely to work longer hours. The empirical analysis links the Socio-Economic Panel (SOEP) Study with the K(2)iD-SOEP extension study, which collected ECEC quality information from childcare centers across Germany. Based on a sample of 556 mothers of 628 children with a mean age of 2.6 years at center entry, the authors applied change score models with entropy balancing to account for differences in a rich set of observable characteristics. The findings show that higher levels of quality with respect to child-teacher-ratio and partly also activities promoting child learning and offered services for parents are associated with greater increases in working hours for mothers since the year before using the ECEC center. No significant relationships emerged for group size and equipment.",
+  "authors": [
+    {
+      "raw": "Stahl, Juliane F.",
+      "family": "Stahl",
+      "given": "Juliane F."
+    },
+    {
+      "raw": "Schober, Pia S.",
+      "family": "Schober",
+      "given": "Pia S."
+    }
+  ],
+  "authors_text": "Stahl, Juliane F.; Schober, Pia S.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102378",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102378",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102378",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102378.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Global value chains and racial inequality in the US labor market, 1979-2017",
+  "abstract": "We examine how global value chains (GVCs) impact between and within-race US labor market inequalities. GVCs change the returns to occupations and human capital categories (economic effects), as well as the share of the population within these categories (compositional effects). US racism should interact with GVCs to produce racially disparate GVC effects. We employ variance function regression to examine between and within-race inequality simultaneously, and innovate on classical decompositions to quantify how much of the change in each can be attributed to racially disparate effects of GVCs. GVCs increase inequality within and between races. These effects are largest within races, where almost no racial differences are observed. Between races, racially disparate GVC effects were often inconsistent with contemporary theories of US racial inequality. Economic effects were always most beneficial for Asian Americans, and frequently more beneficial for African Americans and Latino/a workers than for Whites. Compositional effects were nearly always most beneficial for Asian Americans, and reduced between-race inequality in aggregate. Overall, then, GVCs increased between-race inequality because large occupational and skill income gaps persisted between races, because Asian American gains are net inequality increasing, and because absolute and/or relative (to White) gains by African American and Latino/a workers in some categories were too small to offset the absolute and/or relative gains of Asian Americans and Whites in others.",
+  "authors": [
+    {
+      "raw": "Gao, Manjing",
+      "family": "Gao",
+      "given": "Manjing"
+    },
+    {
+      "raw": "Mahutga, Matthew C.",
+      "family": "Mahutga",
+      "given": "Matthew C."
+    },
+    {
+      "raw": "Kwon, Ronald",
+      "family": "Kwon",
+      "given": "Ronald"
+    }
+  ],
+  "authors_text": "Gao, Manjing; Mahutga, Matthew C.; Kwon, Ronald",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101023",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

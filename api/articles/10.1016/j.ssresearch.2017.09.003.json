@@ -1,0 +1,25 @@
+{
+  "title": "Why does college education matter? Unveiling the contributions of selection factors",
+  "abstract": "This study investigates the contributions of pre-college selection factors that may partially lead to the college degree - health link by using longitudinal data from the National Longitudinal Survey of Youth (1979) cohort. Propensity score matching method finds that the effects of college degree on various health outcomes (self-rated health, physical component summary index, health limitations, CESD scale) are reduced by 51% on average (range: 37%-70%) in the matched sample. Among these observed factors, cognitive skill is the biggest confounder, followed by pre-college health and socioeconomic characteristics (marital aspiration, years of schooling, marriage, fertility, poverty status) and non cognitive skills (e.g., self-esteem). Rotter Internal-External Locus of Control scale is not significantly associated with all four health measures. The effects of most indicators of family background (parental education, family stability, family size, religious background) on the health of adult children are not direct but through offspring's early adulthood health and socioeconomic status. (C) 2017 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Zheng, Hui",
+      "family": "Zheng",
+      "given": "Hui"
+    }
+  ],
+  "authors_text": "Zheng, Hui",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2017.09.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.09.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.09.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.09.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Modeling and Forecasting Mortality With Economic Growth: A Multipopulation Approach",
+  "abstract": "Research on mortality modeling of multiple populations focuses mainly on extrapolating past mortality trends and summarizing these trends by one or more common latent factors. This article proposes a multipopulation stochastic mortality model that uses the explanatory power of economic growth. In particular, we extend the Li and Lee model (Li and Lee 2005) by including economic growth, represented by the real gross domestic product (GDP) per capita, to capture the common mortality trend for a group of populations with similar socioeconomic conditions. We find that our proposed model provides a better in-sample fit and an out-of-sample forecast performance. Moreover, it generates lower (higher) forecasted period life expectancy for countries with high (low) GDP per capita than the Li and Lee model.",
+  "authors": [
+    {
+      "raw": "Boonen, Tim J.",
+      "family": "Boonen",
+      "given": "Tim J."
+    },
+    {
+      "raw": "Li, Hong",
+      "family": "Li",
+      "given": "Hong"
+    }
+  ],
+  "authors_text": "Boonen, Tim J.; Li, Hong",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0610-2",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0610-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0610-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0610-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

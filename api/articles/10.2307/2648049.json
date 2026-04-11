@@ -1,0 +1,35 @@
+{
+  "title": "The meaning and measurement of race in the U.S. census: Glimpses into the future",
+  "abstract": "Abstract The 1996 Racial and Ethnic Targeted Test (RAETT) was a “mail-out mail-back” household survey with an experimental design of eight alternative questionnaire formats containing systematic variations in race, instructions, question order, and other aspects of the measurement. The eight different questionnaires were administered to random subsamples of six “targeted” populations: geographic areas with ethnic concentrations of whites, blacks, American Indians, Alaskan natives, Asian and Pacific Islanders, and Hispanics. The major conclusion is that allowing multiple responses to the “race” question in the 2000 census (and other variations in measurement that were considered in RAETT) had only a slight impact on the measured racial composition of the population. Another finding was a dramatic reduction in nonresponse to the combined race/Hispanic-origin question relative to all other questionnaire formats. We conclude that the concept of “origins” may be closer to the popular understanding of American diversity than is the antiquated concept of race.",
+  "authors": [
+    {
+      "raw": "Hirschman, Charles",
+      "family": "Hirschman",
+      "given": "Charles"
+    },
+    {
+      "raw": "Alba, Richard",
+      "family": "Alba",
+      "given": "Richard"
+    },
+    {
+      "raw": "Farley, Reynolds",
+      "family": "Farley",
+      "given": "Reynolds"
+    }
+  ],
+  "authors_text": "Hirschman, Charles; Alba, Richard; Farley, Reynolds",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648049",
+  "doi_url": "https://doi.org/10.2307/2648049",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648049",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648049.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

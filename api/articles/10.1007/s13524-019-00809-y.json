@@ -1,0 +1,75 @@
+{
+  "title": "Determinants of Influenza Mortality Trends: Age-Period-Cohort Analysis of Influenza Mortality in the United States, 1959-2016",
+  "abstract": "This study examines the roles of age, period, and cohort in influenza mortality trends over the years 1959-2016 in the United States. First, we use Lexis surfaces based on Serfling models to highlight influenza mortality patterns as well as to identify lingering effects of early-life exposure to specific influenza virus subtypes (e.g., H1N1, H3N2). Second, we use age-period-cohort (APC) methods to explore APC linear trends and identify changes in the slope of these trends (contrasts). Our analyses reveal a series of breakpoints where the magnitude and direction of birth cohort trends significantly change, mostly corresponding to years in which important antigenic drifts or shifts took place (i.e., 1947, 1957, 1968, and 1978). Whereas child, youth, and adult influenza mortality appear to be influenced by a combination of cohort- and period-specific factors, reflecting the interaction between the antigenic experience of the population and the evolution of the influenza virus itself, mortality patterns of the elderly appear to be molded by broader cohort factors. The latter would reflect the processes of physiological capital improvement in successive birth cohorts through secular changes in early-life conditions. Antigenic imprinting, cohort morbidity phenotype, and other mechanisms that can generate the observed cohort effects, including the baby boom, are discussed.",
+  "authors": [
+    {
+      "raw": "Acosta, Enrique",
+      "family": "Acosta",
+      "given": "Enrique"
+    },
+    {
+      "raw": "Hallman, Stacey A.",
+      "family": "Hallman",
+      "given": "Stacey A."
+    },
+    {
+      "raw": "Dillon, Lisa Y.",
+      "family": "Dillon",
+      "given": "Lisa Y."
+    },
+    {
+      "raw": "Ouellette, Nadine",
+      "family": "Ouellette",
+      "given": "Nadine"
+    },
+    {
+      "raw": "Bourbeau, Robert",
+      "family": "Bourbeau",
+      "given": "Robert"
+    },
+    {
+      "raw": "Herring, D. Ann",
+      "family": "Herring",
+      "given": "D. Ann"
+    },
+    {
+      "raw": "Inwood, Kris",
+      "family": "Inwood",
+      "given": "Kris"
+    },
+    {
+      "raw": "Earn, David J. D.",
+      "family": "Earn",
+      "given": "David J. D."
+    },
+    {
+      "raw": "Madrenas, Joaquin",
+      "family": "Madrenas",
+      "given": "Joaquin"
+    },
+    {
+      "raw": "Miller, Matthew S.",
+      "family": "Miller",
+      "given": "Matthew S."
+    },
+    {
+      "raw": "Gagnon, Alain",
+      "family": "Gagnon",
+      "given": "Alain"
+    }
+  ],
+  "authors_text": "Acosta, Enrique; Hallman, Stacey A.; Dillon, Lisa Y.; Ouellette, Nadine; Bourbeau, Robert; Herring, D. Ann; Inwood, Kris; Earn, David J. D.; Madrenas, Joaquin; Miller, Matthew S.; Gagnon, Alain",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00809-y",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00809-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00809-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00809-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

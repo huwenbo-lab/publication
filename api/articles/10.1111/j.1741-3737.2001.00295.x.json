@@ -1,0 +1,30 @@
+{
+  "title": "How American Children Spend Their Time",
+  "abstract": "The purpose of this article is to examine how American children under age 13 spend their time, sources of variation in time use, and associations with achievement and behavior. Data come from the 1997 Child Development Supplement to the Panel Study of Income Dynamics. The results suggest that parents' characteristics and decisions regarding marriage, family size, and employment affect the time children spend in educational, structured, and family activities, which may affect their school achievement. Learning activities such as reading for pleasure are associated with higher achievement, as is structured time spent playing sports and in social activities. Family time spent at meals and time spent sleeping are linked to fewer behavior problems, as measured by the child's score on the Behavior Problems Index. The results support common language and myth about the optimal use of time for child development.",
+  "authors": [
+    {
+      "raw": "Hofferth, Sandra L.",
+      "family": "Hofferth",
+      "given": "Sandra L."
+    },
+    {
+      "raw": "Sandberg, John F.",
+      "family": "Sandberg",
+      "given": "John F."
+    }
+  ],
+  "authors_text": "Hofferth, Sandra L.; Sandberg, John F.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2001,
+  "doi": "10.1111/j.1741-3737.2001.00295.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2001.00295.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2001.00295.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2001.00295.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

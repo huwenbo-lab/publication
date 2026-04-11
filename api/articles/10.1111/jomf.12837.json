@@ -1,0 +1,30 @@
+{
+  "title": "Structural racism, family structure, and Black-White inequality: The differential impact of the legacy of slavery on poverty among single mother and married parent households",
+  "abstract": "Objective To assess whether an indicator of structural racism-the legacy of slavery-impacts racial inequality in poverty among individuals within the same family structure. Background Family structure is a dominant explanation for racial inequality in poverty. This overemphasis on an individual-level variable results in relatively less attention to the role of structural factors. Yet, structural factors, like the legacy of slavery, may be key to understanding how race and family structure intersect in the context of poverty. Method The authors use data from the Luxembourg Income Study, the American Community Survey, and the Historical 1860 Census. Multilevel models link individual- and state-level data and separate models focus on counties. The authors assess whether a proxy of the legacy of slavery (i.e., the historical concentration of enslaved people in 1860) relates to Black-White inequality in poverty among single mother households and among married with children households in the US South. Results There is an impact of the legacy of slavery on Black-White inequality in poverty even within-family type, but the legacy of slavery appears to be more consequential for married with children households than single mother households. Among married parent households, the racial gap in poverty is more pronounced where the legacy of slavery is stronger. Conclusion Results suggest the link between family structure and racial inequality in poverty is overstated and more indirect, operating-at least partially-through structural racism. Implications This study challenges the perception of marriage as an anti-poverty mechanism. It also underscores the limitations of viewing family structure from an individual-level perspective when explaining racial inequality. Local manifestations of structural racism are part of how family structure matters for inequality in poverty.",
+  "authors": [
+    {
+      "raw": "Baker, Regina S.",
+      "family": "Baker",
+      "given": "Regina S."
+    },
+    {
+      "raw": "O'Connell, Heather A.",
+      "family": "O'Connell",
+      "given": "Heather A."
+    }
+  ],
+  "authors_text": "Baker, Regina S.; O'Connell, Heather A.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12837",
+  "doi_url": "https://doi.org/10.1111/jomf.12837",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12837",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12837.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

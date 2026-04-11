@@ -1,0 +1,25 @@
+{
+  "title": "Power Outages, Power Externalities, and Baby Booms",
+  "abstract": "AbstractDetermining whether power outages have significant fertility effects is an important policy question in developing countries, where blackouts are common and modern forms of family planning are scarce. Using birth records from Zanzibar, this study shows that a month-long blackout in 2008 caused a significant increase in the number of births 8 to 10 months later. The increase was similar across villages that had electricity, regardless of the level of electrification; villages with no electricity connections saw no changes in birth numbers. The large fertility increase in communities with very low levels of electricity suggests that the outage affected the fertility of households not connected to the grid through some spillover effect. Whether the baby boom is likely to translate to a permanent increase in the population remains unclear, but this article highlights an important hidden consequence of power instability in developing countries. It also suggests that electricity imposes significant externality effects on rural populations that have little exposure to it.",
+  "authors": [
+    {
+      "raw": "Burlando, Alfredo",
+      "family": "Burlando",
+      "given": "Alfredo"
+    }
+  ],
+  "authors_text": "Burlando, Alfredo",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0316-7",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0316-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0316-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0316-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

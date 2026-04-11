@@ -1,0 +1,40 @@
+{
+  "title": "The Long Shadow of Partisan Hostility: How Affective Polarization Hinders Democracies' Ability to Mitigate Climate Change",
+  "abstract": "Sociologists and others have studied whether democracies are becoming more ideologically polarized over climate change. However, research has yet to investigate if a newer form of division-affective polarization, or citizens' hostility toward opposing party members-shapes major polluters' carbon (CO2) emissions. Building on the Advocacy Coalition Framework, integrated with neo-institutional and stakeholder perspectives, we argue that high levels of affective polarization enable power plants to emit greenhouse gases at a higher rate than those operating in less polarized contexts. To test our argument, we analyze a novel dataset of over 20,000 power plants in 92 democratic countries. Controlling for conventional predictors of emissions, we find that power plants in democracies marked by high affective polarization emit CO2 at significantly higher rates. Also, in contexts of heightened interparty hostility, government-owned power stations emit more carbon, climate policies are less effective at curbing plants' emissions, and plants pollute more where strong political constraints susceptible to gridlock are in place. These results are robust across different modeling specifications, suggesting that partisan animosity likely creates institutional conditions that insulate power plants from stakeholder and regulatory pressure, thereby undermining democracies' ability to limit emissions from some of the world's largest carbon polluters.",
+  "authors": [
+    {
+      "raw": "Grant, Don",
+      "family": "Grant",
+      "given": "Don"
+    },
+    {
+      "raw": "Jorgenson, Andrew",
+      "family": "Jorgenson",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Longhofer, Wesley",
+      "family": "Longhofer",
+      "given": "Wesley"
+    },
+    {
+      "raw": "Vasi, Ion Bodgan (Bodi)",
+      "family": "Vasi",
+      "given": "Ion Bodgan (Bodi)"
+    }
+  ],
+  "authors_text": "Grant, Don; Jorgenson, Andrew; Longhofer, Wesley; Vasi, Ion Bodgan (Bodi)",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1177/00031224251396518",
+  "doi_url": "https://doi.org/10.1177/00031224251396518",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224251396518",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224251396518.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

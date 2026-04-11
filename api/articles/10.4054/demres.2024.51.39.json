@@ -1,0 +1,25 @@
+{
+  "title": "The formal demography of kinship VI: Demographic stochasticity and variance in the kinship network",
+  "abstract": "BACKGROUND Although the matrix model for kinship networks includes many demographic processes, it is deterministic. It provides values of age-stage distributions of kin, but no information on (co)variances. Because kin populations are small, demographic stochasticity is expected to create appreciable inter-individual variation. OBJECTIVE To develop a stochastic kinship model that includes demographic stochasticity and projects (co)variances of kin age distributions, and functions thereof. METHODS Kin populations are described by multitype branching processes. Means and covariances are projected using matrices that are generalizations of the deterministic model. The analysis requires only an age-specific mortality and fertility schedule. Both linear and nonlinear transformations of the kin age distribution are treated as outputs accompanying the state equations. RESULTS The stochastic model follows the same mathematical framework as the deterministic model, modified to treat initial conditions as mixture distributions. Variances in numbers of most kin are compatible with Poisson distributions. Variances for parents and ancestors are compatible with binomial distributions. Prediction intervals are provided, as are probabilities of having at least one or two kin of each type. Prevalences of conditions are treated either as fixed or random proportions. Dependency ratios and their variances are calculated for any desired group of kin types. An example compares Japan under 1947 rates (high mortality, high fertility) and 2019 rates (low mortality, low fertility). CONTRIBUTION Previous presentations of the kinship model have acknowledged the limitation to expected values. That limitation is now removed; both means and variances are easily calculated with minimal modification of code.",
+  "authors": [
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    }
+  ],
+  "authors_text": "Caswell, Hal",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.39",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.39",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.39",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.39.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

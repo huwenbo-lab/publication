@@ -1,0 +1,35 @@
+{
+  "title": "Re-partnering and single mothers' mental health and life satisfaction trajectories",
+  "abstract": "ObjectiveThis study examines single mothers' mental health and life satisfaction trajectories around re-partnering transitions, and the driving factors of these associations.BackgroundSingle mothers are a particularly disadvantaged group in terms of their mental health and life satisfaction. According to the resource model, re-partnering has a positive effect on these outcomes because it provides additional social, emotional, and financial resources. In contrast, the crisis model suggests that when a mother re-partners, her mental health and life satisfaction further decline because re-partnering can trigger conflicts in the family.MethodUsing long-term annual panel data from Germany and the United Kingdom, fixed-effects regressions reveal effects among 1101 single mothers from Germany and 549 from the UK.ResultsLife satisfaction was positively affected by re-partnering in Germany, mainly driven by income-related factors. The positive association in the UK was less strong. Patterns of mental health trajectories indicate clearer differences between the two countries: based on point estimates, we observed an increasing trajectory in Germany and a declining trajectory in the UK after the re-partnering transition. There were no significant mental health patterns observed in either country.ConclusionThe findings suggest varying associations between well-being and re-partnering. Positive trends for life satisfaction in Germany and partially in the UK highlight the importance of financial resources. However, less clear patterns were observed for mental health, revealing differences between countries and underscoring the role of family policies.",
+  "authors": [
+    {
+      "raw": "Dierker, Philipp",
+      "family": "Dierker",
+      "given": "Philipp"
+    },
+    {
+      "raw": "Kuehn, Mine",
+      "family": "Kuehn",
+      "given": "Mine"
+    },
+    {
+      "raw": "Myrskylae, Mikko",
+      "family": "Myrskylae",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Dierker, Philipp; Kuehn, Mine; Myrskylae, Mikko",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13015",
+  "doi_url": "https://doi.org/10.1111/jomf.13015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Race/Ethnic-Specific Variation in Adequacy of Prenatal Care Utilization",
+  "abstract": "This article examines the effects of various demographic and biomedical covariates on the level of prenatal care utilization (Kotelchuck's APNCU) received by U.S. resident women giving birth between the years 1989 and 1991 (N≈ 10 million). Results from multinomial logistic regression models for thirteen different race/ethnic groups show a strikingly consistent pattern of effects between covariates and the level of prenatal care obtained. Across race/ethnic groups, mothers that were young low-educated, unmarried, high-parity, and smoked were most at risk of receiving no or inadequate prenatal care. Those women who had experienced a previous preterm or small-for-gestational-age birth or prior infant loss were more likely to receive more extensive (“intensive”) care. Presence of a medical risk during pregnancy increased the odds of no/inadequate care and of intensive care. These results support the view that prenatal care intervention strategies can be expected to affect all race/ethnic populations in essentially the same way.",
+  "authors": [
+    {
+      "raw": "Echevarria, S.",
+      "family": "Echevarria",
+      "given": "S."
+    },
+    {
+      "raw": "Frisbie, W. P.",
+      "family": "Frisbie",
+      "given": "W. P."
+    }
+  ],
+  "authors_text": "Echevarria, S.; Frisbie, W. P.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2001,
+  "doi": "10.1353/sof.2001.0092",
+  "doi_url": "https://doi.org/10.1353/sof.2001.0092",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2001.0092",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2001.0092.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

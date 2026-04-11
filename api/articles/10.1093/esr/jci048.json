@@ -1,0 +1,25 @@
+{
+  "title": "Educational-Skill Matches and Labour Achievements among Graduates in Spain",
+  "abstract": "In this article, we analyse whether university graduates in Spain who have attained a satisfactory match between education and employment obtain better labour achievements than those who have not. In order to do so, we first establish a differentiation among divergent types of matching. We consider indicators for labour attainments to be salary, professional category, labour stability, skills acquired on-the-job and job satisfaction. The relation between these variables and the different types of matching is analysed by means of logistic regression models, in which individual characteristics and labour careers of the graduates have been introduced. We realize a retrospective, longitudinal survey in 2003 among graduates of 11 university degrees. The results confirmed the need to differentiate among divergent classes of matching, as the labour achievements associated with the education-employment match vary significantly according to the indicator considered. At the same time, the analyses reveal the intervention of structural and individual factors in the matching processes and in the related labour achievements; among these factors, we highlight the importance of the graduates’ labour careers.",
+  "authors": [
+    {
+      "raw": "Garcia-Espejo, I.",
+      "family": "Garcia-Espejo",
+      "given": "I."
+    }
+  ],
+  "authors_text": "Garcia-Espejo, I.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1093/esr/jci048",
+  "doi_url": "https://doi.org/10.1093/esr/jci048",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci048",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci048.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

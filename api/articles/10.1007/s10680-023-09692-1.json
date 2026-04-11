@@ -1,0 +1,50 @@
+{
+  "title": "Self-Perceived Infertility is Not Always Associated with Having Fewer Children: Evidence from German Panel Data",
+  "abstract": "Abstract Proximate determinants theory considers infertility rates a risk factor for lower fertility rates, but the assumption that people who perceive infertility will have fewer children has not been tested. This study investigates the association of self-perceived infertility with the number of children people have had after 11 years. Infertility implies reduced chances of conception (rather than sterility), but people do not always consistently perceive infertility over time. If people who think they are infertile at one time can later report no infertility, then does self-perceived infertility necessarily lead to having fewer children? We answer this question by analyzing 11 waves of the German family panel (pairfam) data using negative binomial growth curve models for eight core demographic subgroups created by combinations of gender (men/women), parity (0/1+children), and initial age groups (25–27 and 35–37). Those who repeatedly perceived themselves to be infertile (three times or more) had fewer children than those who perceived themselves to be infertile once or twice in only four of eight gender by initial parity by age groups. Only in four groups did people who perceived themselves to be infertile once or twice have fewer children than those who never perceived themselves to be infertile in both the unadjusted and adjusted models. Thus, self-perceived infertility does not necessarily result in fewer children. Rather, the association depends upon life course context and gender.",
+  "authors": [
+    {
+      "raw": "Greil, Arthur L.",
+      "family": "Greil",
+      "given": "Arthur L."
+    },
+    {
+      "raw": "Wallace, Desmond D.",
+      "family": "Wallace",
+      "given": "Desmond D."
+    },
+    {
+      "raw": "Passet-Wittig, Jasmin",
+      "family": "Passet-Wittig",
+      "given": "Jasmin"
+    },
+    {
+      "raw": "McQuillan, Julia",
+      "family": "McQuillan",
+      "given": "Julia"
+    },
+    {
+      "raw": "Bujard, Martin",
+      "family": "Bujard",
+      "given": "Martin"
+    },
+    {
+      "raw": "Lowry, Michele H.",
+      "family": "Lowry",
+      "given": "Michele H."
+    }
+  ],
+  "authors_text": "Greil, Arthur L.; Wallace, Desmond D.; Passet-Wittig, Jasmin; McQuillan, Julia; Bujard, Martin; Lowry, Michele H.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-023-09692-1",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09692-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09692-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09692-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Gender-oriented statistical discrimination: Aggregate fertility, economic sector, and earnings among young Chinese workers",
+  "abstract": "Previous studies usually attribute residual gender pay gap net of human capital, job characteristics, and family responsibilities to discrimination against women, without directly exploring the underlying discriminatory mechanisms that generate gender inequalities in the labor market. By applying and extending a previously developed statistical discrimination model to post-socialist urban China, we examine the association between period age-specific fertility rate (ASFR), as a proxy for the likelihood of women taking maternity leave, and the earnings of young working women and men, as well as its variation across economic sectors. Using data compiled from a random sample of the 2005 one-percent mini-census of the People's Republic of China, our analyses reveal gender-asymmetric associations between ASFR and earnings among young workers before their prime fertility age, where ASFR on average was negatively related to the earnings among young women, but not among young men. Moreover, such negative association was limited primarily to female workers in the private sector, negligible in state-owned and collective enterprises, and even reversed to positive among those working in government agencies and public institutions. Our findings suggest that employers in the private sector may use aggregate fertility to evaluate potential training and replacement costs and the productivity of female employees associated with maternity leave, thereby reinforcing and perpetuating stereotypes and discrimination against women in the workplace.",
+  "authors": [
+    {
+      "raw": "Wang, Jia",
+      "family": "Wang",
+      "given": "Jia"
+    },
+    {
+      "raw": "Wong, Raymond Sin-Kwok",
+      "family": "Wong",
+      "given": "Raymond Sin-Kwok"
+    }
+  ],
+  "authors_text": "Wang, Jia; Wong, Raymond Sin-Kwok",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100622",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100622",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100622",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100622.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

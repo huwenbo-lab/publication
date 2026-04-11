@@ -1,0 +1,40 @@
+{
+  "title": "Modeling fertility curves in Africa",
+  "abstract": "The modeling of fertility patterns is an essential method researchers use to understand world-wide population patterns. Various types of fertility models have been reported in the literature to capture the patterns specific to developed countries. Whil",
+  "authors": [
+    {
+      "raw": "Gayawan, Ezra",
+      "family": "Gayawan",
+      "given": "Ezra"
+    },
+    {
+      "raw": "Adebayo, Samson B.",
+      "family": "Adebayo",
+      "given": "Samson B."
+    },
+    {
+      "raw": "Ipinyomi, Reuben A.",
+      "family": "Ipinyomi",
+      "given": "Reuben A."
+    },
+    {
+      "raw": "Oyejola, Benjamin",
+      "family": "Oyejola",
+      "given": "Benjamin"
+    }
+  ],
+  "authors_text": "Gayawan, Ezra; Adebayo, Samson B.; Ipinyomi, Reuben A.; Oyejola, Benjamin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.22.10",
+  "doi_url": "https://doi.org/10.4054/demres.2010.22.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.22.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.22.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

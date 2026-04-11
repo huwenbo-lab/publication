@@ -1,0 +1,35 @@
+{
+  "title": "How enduring were the inequalities among European immigrant groups in the United States?",
+  "abstract": "AbstractA long-standing and unresolved issue in the study of racial and ethnic groups concerns the persistence of initial inequalities among groups. Recently it has surfaced again in the study of U.S. immigrant groups, in George Borjas’s (1994) claim that the human capital differences among early-twentieth-century immigrant groups are reflected in the relative socioeconomic achievements of their third generations. Reexamining this claim, we find that Borjas’s analysis hinges on a series of problematic decisions, such as his inclusion of non-European groups as well as his failure to take ethnically mixed ancestry into account and to compensate for the weak correspondence in eastern Europe between ethnic ancestry and the national frontiers of the early 1900s. We replicate a portion of his analysis, correcting for these problems. Our results reveal no correspondence between the literacy of the first generation and the educational attainment of the third among European groups. Borjas’s analysis seems to go farthest astray in including non-Europeans, especially Mexicans, because of the more systematic legal and social liabilities suffered by these groups.",
+  "authors": [
+    {
+      "raw": "Alba, Richard",
+      "family": "Alba",
+      "given": "Richard"
+    },
+    {
+      "raw": "Lutz, Amy",
+      "family": "Lutz",
+      "given": "Amy"
+    },
+    {
+      "raw": "Vesselinov, Elena",
+      "family": "Vesselinov",
+      "given": "Elena"
+    }
+  ],
+  "authors_text": "Alba, Richard; Lutz, Amy; Vesselinov, Elena",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.1353/dem.2001.0022",
+  "doi_url": "https://doi.org/10.1353/dem.2001.0022",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2001.0022",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2001.0022.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

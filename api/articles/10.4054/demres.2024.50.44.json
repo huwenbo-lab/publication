@@ -1,0 +1,35 @@
+{
+  "title": "The Average Uneven Mortality index: Building on the 'e-dagger' measure of lifespan inequality",
+  "abstract": "BACKGROUND In recent years, lifespan inequality has become an important indicator of population health. Uncovering the statistical properties of lifespan inequality measures can provide novel insights on the study of mortality. METHODS We introduce the 'Average Uneven Mortality' (AUM) index, a novel mortality indicator for the study of mortality patterns and lifespan inequality. We prove some new properties of interest, as well as relationships with the 'e-dagger' and entropy measures of lifespan inequality. RESULTS The use of the AUM index is illustrated through an application to observed period and cohort death rates from the Human Mortality Database. We explore the behavior of the index across age and over time, and we study its relationship with life expectancy. The AUM index at birth declined over time until the 1950s, when it reverted its trend; also, the index generally increases with age. CONTRIBUTION The AUM index is a normalized version of Vaupel and Canudas-Romo's e-dagger measure that can be meaningfully compared across countries and over time. Additionally, we derive an upper bound for both e-dagger and the life-table entropy measures, which are novel formal results. Finally, we develop novel routines to compute e-dagger and the standard deviation of lifetimes from death rates, which are often more precise than available software, particularly for calculations involving older ages.",
+  "authors": [
+    {
+      "raw": "Bonetti, Marco",
+      "family": "Bonetti",
+      "given": "Marco"
+    },
+    {
+      "raw": "Basellini, Ugofilippo",
+      "family": "Basellini",
+      "given": "Ugofilippo"
+    },
+    {
+      "raw": "Nigri, Andrea",
+      "family": "Nigri",
+      "given": "Andrea"
+    }
+  ],
+  "authors_text": "Bonetti, Marco; Basellini, Ugofilippo; Nigri, Andrea",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.44",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.44",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.44",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.44.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

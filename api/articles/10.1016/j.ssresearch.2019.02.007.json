@@ -1,0 +1,30 @@
+{
+  "title": "Neighborhood health, social structure and family violence",
+  "abstract": "Within a large field of family violence research, a slowly growing body of literature has examined community-level variables to explain variation in violence. Studies investigating the role of ecological factors have largely been informed by social disorganization theory. This represents considerable progress, but the community context also includes many ecological factors yet to be considered by studies examining family violence, and as such, successful neighborhood interventions have been limited. Furthermore, few community-level studies have explored whether serious family violence is geographically clustered. The current study used police calls for service data to examine how the health context of a community is associated with family violence. Accounting for spatial dependence, a higher prevalence of self-reported mental illness in a neighborhood related to family violence, although a higher prevalence of physical health difficulties was negatively associated with family violence. These results carry implications that can inform community-based efforts, particularly in economically disadvantaged neighborhood, aimed at reducing family violence.",
+  "authors": [
+    {
+      "raw": "Stansfield, Richard",
+      "family": "Stansfield",
+      "given": "Richard"
+    },
+    {
+      "raw": "Doherty, Erin",
+      "family": "Doherty",
+      "given": "Erin"
+    }
+  ],
+  "authors_text": "Stansfield, Richard; Doherty, Erin",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.02.007",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.02.007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.02.007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.02.007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

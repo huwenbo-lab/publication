@@ -1,0 +1,25 @@
+{
+  "title": "Military service in the Vietnam era and educational attainment",
+  "abstract": "Using longitudinal data from the National Longitudinal Study of Young Men for 1966-81, this study examined the effect of military service on the highest grade of schooling completed. Fixed-effects estimators were used to generate estimates of the effect of military service on the schooling trajectories of veterans and nonveterans that are independent of unmeasured household-specific and person-specific factors that may bias the relationship. The results indicate that veterans educational profiles differ from those of nonveterans. The veteran-nonveteran difference in schooling is substantial at the time veterans are discharged from the military (on average, a deficit of about one year) but diminishes thereafter (on average, to about a half year). The results also indicate that the effect'of veteran status varies according to draft status, schooling prior to military service, and age at entry into the military but not race.",
+  "authors": [
+    {
+      "raw": "Teachman, J",
+      "family": "Teachman",
+      "given": "J"
+    }
+  ],
+  "authors_text": "Teachman, J",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2005,
+  "doi": "10.1177/003804070507800103",
+  "doi_url": "https://doi.org/10.1177/003804070507800103",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070507800103",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070507800103.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

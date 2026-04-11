@@ -1,0 +1,25 @@
+{
+  "title": "Subnational Non-Hispanic White Natural Decrease in the United States",
+  "abstract": "This research is the first to examine the prevalence and dynamics of non-Hispanic white natural decrease in fine scale subregional units of the United States. In 2015, more non-Hispanic Whites died than were born in 65 percent of the US counties. This is the highest incidence of non-Hispanic white natural decrease ever reported. It results from a complex interaction among fertility, mortality, and migration over a protracted period. Spatial regression is used to identify three critical variables (over-65 population, child-women ratio, and women of childbearing age) that are the immediate demographic causes of this natural decrease. The timely, factual information in this paper provides a demographic context for analysis of the social, political, and policy implications of this emergent demographic phenomenon.",
+  "authors": [
+    {
+      "raw": "Johnson, Kenneth M.",
+      "family": "Johnson",
+      "given": "Kenneth M."
+    }
+  ],
+  "authors_text": "Johnson, Kenneth M.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2020,
+  "doi": "10.1111/padr.12323",
+  "doi_url": "https://doi.org/10.1111/padr.12323",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12323",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12323.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Child poverty across immigrant generations in the United States, 1993-2016: Evidence using the official and supplemental poverty measures",
+  "abstract": "BACKGROUND Recent increases in ethno-racial diversity in the United States are paralleled by growing representation of first-and second-generation immigrants, especially among children. Socioeconomic inequalities along the lines of immigrant generation, race, and ethnicity suggest such demographic changes may result in greater disparities among recent, more-diverse cohorts of children. OBJECTIVE Describe poverty rates among US children across five immigrant generation groups, using the US government's official poverty measure (OPM) and a supplemental poverty measure (SPM), which accounts for government transfers and costs of living. METHODS Using data from the Current Population Survey and historical SPM estimates from 1993-2016, we describe trends in child poverty, stratified by immigrant generation. We compare estimates of inter-generational differences and temporal changes based on the OPM and SPM, and we conduct stratified analyses for Hispanic and Asian children. RESULTS We find persistent differences in poverty rates between immigrant generations. First-generation non-citizens and second-generation children with two foreign-born parents have consistently higher poverty rates than other generations, between which there are minimal disparities. Differences between OPM- and SPM-based estimates suggest public supports and costs of living have differential welfare effects across groups. CONTRIBUTION We provide a historical record of child poverty differentials across immigrant generations, which have been understudied. Results demonstrate heterogeneity in the economic status of first- and second-generation children, which would be masked using other immigrant-generation typologies. Differences in OPM- and SPM-based measures raise questions about inter-generational disparities in public supports and costs of living, and stratified results highlight the intersection of race, ethnicity, and nativity as axes of inequality.",
+  "authors": [
+    {
+      "raw": "Thiede, Brian C.",
+      "family": "Thiede",
+      "given": "Brian C."
+    },
+    {
+      "raw": "Brooks, Matthew M.",
+      "family": "Brooks",
+      "given": "Matthew M."
+    }
+  ],
+  "authors_text": "Thiede, Brian C.; Brooks, Matthew M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.40",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.40",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.40",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.40.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

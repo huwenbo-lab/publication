@@ -1,0 +1,30 @@
+{
+  "title": "A “Mulatto Escape Hatch” in the United States? Examining Evidence of Racial and Social Mobility During the Jim Crow Era",
+  "abstract": "Racial distinctions in the United States have long been characterized as uniquely rigid and governed by strict rules of descent, particularly along the black-white boundary. This is often contrasted with countries, such as Brazil, that recognize \"mixed\" or intermediate racial categories and allow for more fluidity or ambiguity in racial classification. Recently released longitudinal data from the IPUMS Linked Representative Samples, and the brief inclusion of a \"mulatto\" category in the U.S. Census, allow us to subject this generally accepted wisdom to empirical test for the 1870-1920 period. We find substantial fluidity in black-mulatto classification between censuses-including notable \"downward\" racial mobility. Using person fixed-effects models, we also find evidence that among Southern men, the likelihood of being classified as mulatto was related to intercensal changes in occupational status. These findings have implications for studies of race and inequality in the United States, cross-national research on racial classification schemes in the Americas, and for how demographers collect and interpret racial data.",
+  "authors": [
+    {
+      "raw": "Saperstein, Aliya",
+      "family": "Saperstein",
+      "given": "Aliya"
+    },
+    {
+      "raw": "Gullickson, Aaron",
+      "family": "Gullickson",
+      "given": "Aaron"
+    }
+  ],
+  "authors_text": "Saperstein, Aliya; Gullickson, Aaron",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0210-8",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0210-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0210-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0210-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

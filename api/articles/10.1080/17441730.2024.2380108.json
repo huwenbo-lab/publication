@@ -1,0 +1,30 @@
+{
+  "title": "Demographic influences on China’s residential electricity demand: the role of ageing and single-person households",
+  "abstract": "This study examines the impact of the growing elderly population and single-person households on residential electricity demand in China. Using a dynamic panel model, this study investigates a balanced panel dataset encompassing 30 provinces in China from 2006 to 2016. The results indicate that households in China show limited responsiveness to changes in electricity prices and household income in the short and long run. Regarding demographic transitions, the results reveal that the presence of working-age individuals, elderly individuals, and single-person households contributes to an increase in electricity demand. Furthermore, the results highlight the significance of higher education in reducing electricity demand, suggesting the need for educational programmes that promote energy-saving behaviour and environment-friendly attitudes. These findings offer valuable insights for policy makers and stakeholders aiming to develop effective strategies for managing residential electricity demand in light of changing demographics.",
+  "authors": [
+    {
+      "raw": "Xie, Jia Yu",
+      "family": "Xie",
+      "given": "Jia Yu"
+    },
+    {
+      "raw": "Suh, Dong Hee",
+      "family": "Suh",
+      "given": "Dong Hee"
+    }
+  ],
+  "authors_text": "Xie, Jia Yu; Suh, Dong Hee",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2024,
+  "doi": "10.1080/17441730.2024.2380108",
+  "doi_url": "https://doi.org/10.1080/17441730.2024.2380108",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2024.2380108",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2024.2380108.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

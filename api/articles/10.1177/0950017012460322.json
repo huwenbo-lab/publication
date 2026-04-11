@@ -1,0 +1,25 @@
+{
+  "title": "The gender wage gap and its institutional context: a comparative analysis of European graduates",
+  "abstract": "This article examines whether there is a gender gap in monthly wages among recent graduates in 11 European countries, and which variables account for it. We extend previous works considering a broader range of variables including perceived skills, responsibility at work, family obligations and attitudes to family and work. Regression analyses applied to data from the ‘Research into Employment and professional FLEXibility’ (REFLEX) survey (2005) show that in all countries there is a significant ‘raw wage gap’, but with noticeable cross-country variation. Decomposition analyses show that the ‘residual wage gap’ (discrimination) is lower in Nordic countries and higher in the Czech Republic, with the United Kingdom, continental and southern European countries placed in between them. Employment characteristics and working hours are the most important factors accounting for the gender gap. Wage discrimination is lower in countries with high trade union density, centralized collective bargaining, family-friendly policies, and high level of women’s empowerment in society.",
+  "authors": [
+    {
+      "raw": "Triventi, Moris",
+      "family": "Triventi",
+      "given": "Moris"
+    }
+  ],
+  "authors_text": "Triventi, Moris",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2013,
+  "doi": "10.1177/0950017012460322",
+  "doi_url": "https://doi.org/10.1177/0950017012460322",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017012460322",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017012460322.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Can sports and music level the playing field? Adolescents' extracurricular activities and the reproduction of social inequalities in cognitive skills",
+  "abstract": "Extracurricular activities in adolescence are associated with adolescents' cognitive skills. While participation in extracurricular activities is stratified, it is unclear whether all adolescents benefit from such activities to the same extent. This study explores whether participation in extracurricular activities functions as an equalizer or reinforcer of inequalities by examining how different types of activities (music, sports, or both combined) are associated with cognitive skills in adolescents from families with less or more education. We use data from the German SOEP household panel study and employ propensity score techniques to address differential selection into activities. Our results show that participation in both activities combined is most strongly related to cognitive test scores, followed by music activities and sports. Further, the results show that adolescents with more educated parents show a stronger link between participation in both activities combined and cognitive test scores than adolescents from less educated families. The same pattern holds for sports, although estimates are less clear. In contrast, the link between participation in music and cognitive test scores shows no variation by parental background. Our findings indicate that the participation in extracurricular activities does not diminish the gap in cognitive skills between children from less and more educated families; in fact, involvement in both activities combined further widens this disparity. Hence, even if adolescents from different socioeconomic backgrounds participated in activities to the same extent, gaps in cognitive skills by parental education are not reduced, and extracurricular activities thus have the potential to reinforce social inequalities.",
+  "authors": [
+    {
+      "raw": "Bering, Henriette",
+      "family": "Bering",
+      "given": "Henriette"
+    },
+    {
+      "raw": "Schulz, Wiebke",
+      "family": "Schulz",
+      "given": "Wiebke"
+    }
+  ],
+  "authors_text": "Bering, Henriette; Schulz, Wiebke",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100895",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100895",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100895",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100895.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

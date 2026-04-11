@@ -1,0 +1,30 @@
+{
+  "title": "Global estimation of neonatal mortality using a Bayesian hierarchical splines regression model",
+  "abstract": "BACKGROUND In recent years, much of the focus in monitoring child mortality has been on assessing changes in the under-5 mortality rate (U5MR). However, as the U5MR decreases, the share of neonatal deaths (within the first month) tends to increase, warranting increased efforts in monitoring the neonatal mortality rate (NMR) in addition to the U5MR. OBJECTIVE Data on neonatal deaths comes from a range of sources across different countries, with the amount of data available and the quality of data varying widely. Our objective in estimating the NMR globally is to combine all data sources available to obtain accurate estimates, be able to project mortality levels, and have some indication of the uncertainty in the estimates and projections. METHODS We present a new model for estimating the NMR for countries worldwide, using a Bayesian hierarchical model framework. CONTRIBUTION Our modeling approach offers an intuitive way to share information across different countries and time points, and incorporates different sources of error into the estimates. It also improves on previous modeling approaches by allowing for trends observed in NMR to be more driven by the data available, rather than trends in covariates.",
+  "authors": [
+    {
+      "raw": "Alexander, Monica",
+      "family": "Alexander",
+      "given": "Monica"
+    },
+    {
+      "raw": "Alkema, Leontine",
+      "family": "Alkema",
+      "given": "Leontine"
+    }
+  ],
+  "authors_text": "Alexander, Monica; Alkema, Leontine",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.15",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

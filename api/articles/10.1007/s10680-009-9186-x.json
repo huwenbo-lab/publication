@@ -1,0 +1,30 @@
+{
+  "title": "Fertility, Human Capital, and Economic Growth over the Demographic Transition",
+  "abstract": "Do low fertility and population aging lead to economic decline if couples have fewer children, but invest more in each child? By addressing this question, this article extends previous work in which the authors show that population aging leads to an increased demand for wealth that can, under some conditions, lead to increased capital per worker and higher per capita consumption. This article is based on an overlapping generations (OLG) model which highlights the quantity-quality tradeoff and the links between human capital investment and economic growth. It incorporates new national level estimates of human capital investment produced by the National Transfer Accounts project. Simulation analysis is employed to show that, even in the absence of the capital dilution effect, low fertility leads to higher per capita consumption through human capital accumulation, given plausible model parameters.",
+  "authors": [
+    {
+      "raw": "Lee, Ronald",
+      "family": "Lee",
+      "given": "Ronald"
+    },
+    {
+      "raw": "Mason, Andrew",
+      "family": "Mason",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Lee, Ronald; Mason, Andrew",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2009,
+  "doi": "10.1007/s10680-009-9186-x",
+  "doi_url": "https://doi.org/10.1007/s10680-009-9186-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-009-9186-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-009-9186-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

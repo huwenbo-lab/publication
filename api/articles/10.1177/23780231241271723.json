@@ -1,0 +1,30 @@
+{
+  "title": "Her Lips Are Sealed: Effects of Negative Feedback on Women’s Participation in Online Political Discussions",
+  "abstract": "Research shows that women engage less in online political discussions than men, but it remains unclear under what conditions this gender difference intensifies. Using a unique survey experiment with a demographically representative sample of 1,032 individuals, the authors examine how negative feedback mechanisms, a critical aspect of the online environment, affect men’s and women’s intention to participate in these discussions. The authors focus on two feedback mechanisms: dislike and deletion. The findings suggest that dislike does not discourage women from participating in online political discussions. However, women show significantly lower participation intentions when their posts risk deletion. In contrast, men’s participation intentions are not deterred by either feedback mechanism. These findings suggest that context-specific feedback mechanisms are important in understanding the gender gap in online political participation, emphasizing women’s sensitivity to online environments where their contributions might be erased.",
+  "authors": [
+    {
+      "raw": "Chen, Zhaodi",
+      "family": "Chen",
+      "given": "Zhaodi"
+    },
+    {
+      "raw": "Han, Junghun",
+      "family": "Han",
+      "given": "Junghun"
+    }
+  ],
+  "authors_text": "Chen, Zhaodi; Han, Junghun",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241271723",
+  "doi_url": "https://doi.org/10.1177/23780231241271723",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241271723",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241271723.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

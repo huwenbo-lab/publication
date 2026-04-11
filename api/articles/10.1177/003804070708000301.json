@@ -1,0 +1,25 @@
+{
+  "title": "Contextual explanations of school choice",
+  "abstract": "Participation in school-choice programs has been increasing across the country since the early 1990s. While some have examined the role that families play in the school-choice process, research has largely ignored the role of social contexts in determining where a student attends school. This article improves on previous research by modeling the contextual effects of elementary schools and neighborhoods on high school enrollment outcomes using population-level geocoded administrative data on an entire cohort of eighth graders from one of the largest urban school districts in the United States. The results of hierarchical multinomial logistic models suggest that the contextual effects of percentage black, poverty, and neighborhood concentrated disadvantage reduce the likelihood of students attending private or elite public high schools. Students in schools with high average achievement are less likely to attend selective-enrollment magnet schools, perhaps because of a frog pond effect. Finally, the study found evidence of peer effects on attending non-neighborhood schools. Together, these findings suggest a new way of conceptualizing the causes of school choice at a time when such programs are becoming more prevalent.",
+  "authors": [
+    {
+      "raw": "Lauen, Douglas Lee",
+      "family": "Lauen",
+      "given": "Douglas Lee"
+    }
+  ],
+  "authors_text": "Lauen, Douglas Lee",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2007,
+  "doi": "10.1177/003804070708000301",
+  "doi_url": "https://doi.org/10.1177/003804070708000301",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070708000301",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070708000301.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

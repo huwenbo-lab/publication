@@ -1,0 +1,30 @@
+{
+  "title": "Gender-Fluid Geek Girls",
+  "abstract": "How do technically-skilled women negotiate the male-dominated environments of technology firms? This article draws upon interviews with female programmers, technical writers, and engineers of diverse racial backgrounds and sexual orientations employed in the San Francisco tech industry. Using intersectional analysis, this study finds that racially dominant (white and Asian) women, who identified as LGBTQ and presented as gender-fluid, reported a greater sense of belonging in their workplace. They are perceived as more competent by male colleagues and avoided microaggressions that were routine among conventionally feminine, heterosexual women. We argue that a spectrum of belonging operates in these occupational spaces dominated by men. Although white and Asian women successfully navigated workplace hostilities by distancing themselves from conventional heterosexual femininity, this strategy reinforces inequality regimes that privilege male workers. These findings provide significant theoretical insights about how race, sexuality, and gender interact to reproduce structural inequalities in the new economy.",
+  "authors": [
+    {
+      "raw": "Alfrey, Lauren",
+      "family": "Alfrey",
+      "given": "Lauren"
+    },
+    {
+      "raw": "Twine, France Winddance",
+      "family": "Twine",
+      "given": "France Winddance"
+    }
+  ],
+  "authors_text": "Alfrey, Lauren; Twine, France Winddance",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2016,
+  "doi": "10.1177/0891243216680590",
+  "doi_url": "https://doi.org/10.1177/0891243216680590",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243216680590",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243216680590.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

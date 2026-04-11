@@ -1,0 +1,30 @@
+{
+  "title": "Domestic Labor, Attitudes, and Women's Marital Satisfaction: A Longitudinal Study in Korea",
+  "abstract": "This study examines how gender and family attitudes moderate the relationship between domestic labor and marital satisfaction in Korea, where the heavy and unequal burden of domestic labor on women intersects with traditional familism and gender ideology. We analyze panel data from the Korean Longitudinal Survey of Women and Families (n = 11,488). Our individual fixed-effect regressions reveal that women's time spent on domestic labor is negatively associated with the marital satisfaction of younger wives (in their 20s and 30s) when they do not hold traditional family attitudes. However, younger women's satisfaction is positively associated with their husbands' share of domestic labor regardless of the women's gender-role attitudes. For older women (in their 40s or older), we find no evidence for either interaction effect. With the continued erosion of traditional familism in Korea, the burden of domestic labor may become more problematic for younger women's marriages.",
+  "authors": [
+    {
+      "raw": "Cheung, Adam Ka-Lok",
+      "family": "Cheung",
+      "given": "Adam Ka-Lok"
+    },
+    {
+      "raw": "Kim, Erin Hye-Won",
+      "family": "Kim",
+      "given": "Erin Hye-Won"
+    }
+  ],
+  "authors_text": "Cheung, Adam Ka-Lok; Kim, Erin Hye-Won",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2018,
+  "doi": "10.1177/0192513x18800813",
+  "doi_url": "https://doi.org/10.1177/0192513x18800813",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x18800813",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x18800813.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

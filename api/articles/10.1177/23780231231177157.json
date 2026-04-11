@@ -1,0 +1,45 @@
+{
+  "title": "The Political Ramifications of Judicial Institutions: Establishing a Link between Dobbs and Gender Disparities in the 2022 Midterms",
+  "abstract": "In the American system of government, courts are designed to operate within the legal sphere, with limited political interference. Is it possible, though, that a behavior that is at the heart of the political process can be influenced directly by a judicial decision? Focusing on voter registration big data for the universe of voters in North Carolina around the time of Dobbs v. Jackson Women’s Health Organization, the authors assess the roles of gender, political party affiliation, and age in voter registration. North Carolina is the only state whose voter registry has the necessary granularity over time and information needed. Women and Democrats were more likely to register to vote after information about the ruling was released, suggesting that Dobbs influenced their behavior. This effect on voter registration gender gap was unique to June 2022, unlike previous midterm election years (2014 and 2018). Interrupted time-series analyses lend further support to these findings.",
+  "authors": [
+    {
+      "raw": "Sommer, Udi",
+      "family": "Sommer",
+      "given": "Udi"
+    },
+    {
+      "raw": "Rappel-Kroyzer, Or",
+      "family": "Rappel-Kroyzer",
+      "given": "Or"
+    },
+    {
+      "raw": "Adamczyk, Amy",
+      "family": "Adamczyk",
+      "given": "Amy"
+    },
+    {
+      "raw": "Lerner, Lindsay",
+      "family": "Lerner",
+      "given": "Lindsay"
+    },
+    {
+      "raw": "Weiner, Anna",
+      "family": "Weiner",
+      "given": "Anna"
+    }
+  ],
+  "authors_text": "Sommer, Udi; Rappel-Kroyzer, Or; Adamczyk, Amy; Lerner, Lindsay; Weiner, Anna",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231177157",
+  "doi_url": "https://doi.org/10.1177/23780231231177157",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231177157",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231177157.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

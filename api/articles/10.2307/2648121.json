@@ -1,0 +1,35 @@
+{
+  "title": "A note on the measurement of accuracy for subnational demographic estimates",
+  "abstract": "AbstractMean absolute percentage error (MAPE), the measure most often used for evaluating subnational demographic estimates, is not always valid. We describe guidelines for determining when MAPE is valid. Applying them to case study data, we find that MAPE understates accuracy because it is unduly influenced by outliers. To overcome this problem, we calculate a transformed MAPE (MAPET) using a modified Box-Cox method. Because MAPE-T is not in the same scale as the untransformed absolute percentage errors, we provide a procedure for calculating MAPE-R, a measure in the same scale as the original observations. We argue that MAPE-R is a more appropriate summary measure of average absolute percentage error when the guidelines indicate that MAPE is not valid.",
+  "authors": [
+    {
+      "raw": "Swanson, David A.",
+      "family": "Swanson",
+      "given": "David A."
+    },
+    {
+      "raw": "Tayman, Jeff",
+      "family": "Tayman",
+      "given": "Jeff"
+    },
+    {
+      "raw": "Barr, Charles F.",
+      "family": "Barr",
+      "given": "Charles F."
+    }
+  ],
+  "authors_text": "Swanson, David A.; Tayman, Jeff; Barr, Charles F.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648121",
+  "doi_url": "https://doi.org/10.2307/2648121",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648121",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648121.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

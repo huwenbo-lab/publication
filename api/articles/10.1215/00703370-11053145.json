@@ -1,0 +1,45 @@
+{
+  "title": "Understanding Internal Migration: A Research Note Providing an Assessment of Migration Selection With Genetic Data",
+  "abstract": "Migration is selec tive, resulting in inequalities between migrants and nonmigrants. However, investigating migration selection is empirically challenging because com bined pre-and post-migra tion data are rarely avail able. We pro pose an alter na tive approach to assessing inter nal migra tion selec tion by inte grat ing genetic data, enabling an inves ti ga tion of migra tion selec tion with cross-sec tional data col-lected post-migra tion. Using data from the UK Biobank, we uti lized stan dard tools from sta tis ti cal genet ics to con duct a genome-wide asso ci a tion study (GWAS) for migra tion dis tance. We then cal cu lated genetic cor re la tions to com pare GWAS results for migra-tion with those for other char ac ter is tics. Given that indi vid ual genet ics are deter mined at con cep tion, these ana ly ses allow a unique explo ra tion of the asso ci a tion between pre-migration characteristics and migration. Results are generally consistent with the healthy migrant literature: genetics correlated with longer migration distance are associ-ated with higher socio eco nomic sta tus and bet ter health. We also extended the anal y sis to 53 traits and found novel cor re la tions between migra tion and sev eral phys i cal health, men tal health, per son al ity, and sociodemographic traits.",
+  "authors": [
+    {
+      "raw": "Furuya, Shiro",
+      "family": "Furuya",
+      "given": "Shiro"
+    },
+    {
+      "raw": "Liu, Jihua",
+      "family": "Liu",
+      "given": "Jihua"
+    },
+    {
+      "raw": "Sun, Zhongxuan",
+      "family": "Sun",
+      "given": "Zhongxuan"
+    },
+    {
+      "raw": "Lu, Qiongshi",
+      "family": "Lu",
+      "given": "Qiongshi"
+    },
+    {
+      "raw": "Fletcher, Jason M.",
+      "family": "Fletcher",
+      "given": "Jason M."
+    }
+  ],
+  "authors_text": "Furuya, Shiro; Liu, Jihua; Sun, Zhongxuan; Lu, Qiongshi; Fletcher, Jason M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-11053145",
+  "doi_url": "https://doi.org/10.1215/00703370-11053145",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11053145",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11053145.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

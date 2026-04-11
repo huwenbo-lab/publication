@@ -1,0 +1,25 @@
+{
+  "title": "Adult Mortality From Sibling Survival Data: A Reappraisal of Selection Biases",
+  "abstract": "Abstract Because of incomplete registration of deaths in most countries in sub-Saharan Africa, data on the survival of close relatives constitute the cornerstone of estimates of adult mortality. Since 1990, sibling histories have been widely collected in Demographic and Health Surveys and are increasingly being relied upon to estimate both general and maternal mortality. Until recently, the use of sibling histories was thought to lead to underestimates of mortality, but a more optimistic view in the literature emerged with the development by Gakidou and King (Demography 43:569–585, 2006) of corrections for selection biases. Based on microsimulations, this article shows that Gakidou and King’s weighting scheme has been incorrectly applied to survey data, leading to overestimates of mortality, especially for males. The evidence for an association between mortality and sibship size in adulthood is reviewed. Female mortality appears to decline slightly with the number of surviving sisters, although this could be an artifact of severe recall errors in larger sibships or familial clustering of deaths. Under most circumstances, corrections for selection biases should have only a modest effect on sibling estimates.",
+  "authors": [
+    {
+      "raw": "Masquelier, Bruno",
+      "family": "Masquelier",
+      "given": "Bruno"
+    }
+  ],
+  "authors_text": "Masquelier, Bruno",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0149-1",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0149-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0149-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0149-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

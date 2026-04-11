@@ -1,0 +1,45 @@
+{
+  "title": "Traditional versus Facebook-based surveys: Evaluation of biases in self-reported demographic and psychometric information",
+  "abstract": "BACKGROUND Social media in scientific research offers a unique digital observatory of human behaviours and hence great opportunities to conduct research at large scale, answering complex sociodemographic questions. We focus on the identification and assessment of biases in social-media-administered surveys. OBJECTIVE This study aims to shed light on population, self-selection, and behavioural biases, empirically comparing the consistency between self-reported information collected traditionally versus social-media-administered questionnaires, including demographic and psychometric attributes. METHODS We engaged a demographically representative cohort of young adults in Italy (approximately 4,000 participants) in taking a traditionally administered online survey and then, after one year, we invited them to use our ad hoc Facebook application (988 accepted) where they filled in part of the initial survey. We assess the statistically significant differences indicating population, self-selection, and behavioural biases due to the different context in which the questionnaire is administered. RESULTS Our findings suggest that surveys administered on Facebook do not exhibit major biases with respect to traditionally administered surveys in terms of neither demographics nor personality traits. Loyalty, authority, and social binding values were higher in the Facebook platform, probably due to the platform's intrinsic social character. CONCLUSION We conclude that Facebook apps are valid research tools for administering demographic and psychometric surveys, provided that the entailed biases are taken into consideration. CONTRIBUTION We contribute to the characterisation of Facebook apps as a valid scientific tool to administer demographic and psychometric surveys, and to the assessment of population, self-selection, and behavioural biases in the collected data.",
+  "authors": [
+    {
+      "raw": "Kalimeri, Kyriaki",
+      "family": "Kalimeri",
+      "given": "Kyriaki"
+    },
+    {
+      "raw": "Beiro, Mariano G.",
+      "family": "Beiro",
+      "given": "Mariano G."
+    },
+    {
+      "raw": "Bonanomi, Andrea",
+      "family": "Bonanomi",
+      "given": "Andrea"
+    },
+    {
+      "raw": "Rosina, Alessandro",
+      "family": "Rosina",
+      "given": "Alessandro"
+    },
+    {
+      "raw": "Cattuto, Ciro",
+      "family": "Cattuto",
+      "given": "Ciro"
+    }
+  ],
+  "authors_text": "Kalimeri, Kyriaki; Beiro, Mariano G.; Bonanomi, Andrea; Rosina, Alessandro; Cattuto, Ciro",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.5",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

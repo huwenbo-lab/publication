@@ -1,0 +1,40 @@
+{
+  "title": "Parental Incarceration and Child Well-being: Conceptual and Practical Concerns Regarding the Use of Propensity Scores",
+  "abstract": "The aim of the current investigation was to examine the appropriateness of propensity score methods for the study of incarceration effects on children by directing attention to a range of conceptual and practical concerns, including the exclusion of theoretically meaningful covariates, the comparability of treatment and control groups, and potential ambiguities resulting from researcher-driven analytic decisions. Using data from the Fragile Families and Child Wellbeing Study, we examined the effects of maternal and paternal incarceration on a range of child well-being outcomes, including internalizing and externalizing problem behaviors, Peabody Picture Vocabulary Test scores, and early juvenile delinquency. Our findings suggested that propensity scores and treatment effect estimates are highly sensitive to a number of decisions made by the researcher, including aspects where little consensus exists. In light of the conceptual underpinnings of propensity score analysis and existing data limitations, we suggest the potential utility of different identification methods and specialized data collection efforts.",
+  "authors": [
+    {
+      "raw": "Copp, Jennifer E.",
+      "family": "Copp",
+      "given": "Jennifer E."
+    },
+    {
+      "raw": "Giordano, Peggy C.",
+      "family": "Giordano",
+      "given": "Peggy C."
+    },
+    {
+      "raw": "Manning, Wendy D.",
+      "family": "Manning",
+      "given": "Wendy D."
+    },
+    {
+      "raw": "Longmore, Monica A.",
+      "family": "Longmore",
+      "given": "Monica A."
+    }
+  ],
+  "authors_text": "Copp, Jennifer E.; Giordano, Peggy C.; Manning, Wendy D.; Longmore, Monica A.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118779306",
+  "doi_url": "https://doi.org/10.1177/2378023118779306",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118779306",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118779306.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "CrimeScape: Analysis of socio-spatial associations of urban residential motor vehicle theft",
+  "abstract": "This paper focuses on advancing the traditional association rule mining (ARM) approach to capture the rich, multidimensional and multiscalar context that is anticipated to be associated with residential Motor Vehicle Theft (MVT) across urban environments. We tackle the challenge to materialize complex social and spatial components in the mining process and present a novel interactive visualization based on social network analysis of rules and associations to facilitate the analysis of mined rules. The spatial ARM (SARM) findings successfully identify many socio-spatial associations to MVT prevalence and establish their relative influence on crime outcome in a case study. Also, the analysis provides unique insights to understand the interactive relationships between neighborhood characteristics and environmental features to both high and low MVT and underscores the importance of spatial properties of spillover and neighborhood effects on urban residential MVT prevalence. This work follows the tradition of inductive and abductive learning and presents a promising analysis framework using data mining which can be applied to different applications in social sciences.",
+  "authors": [
+    {
+      "raw": "Dao, Thi Hong Diep",
+      "family": "Dao",
+      "given": "Thi Hong Diep"
+    },
+    {
+      "raw": "Thill, Jean-Claude",
+      "family": "Thill",
+      "given": "Jean-Claude"
+    }
+  ],
+  "authors_text": "Dao, Thi Hong Diep; Thill, Jean-Claude",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102618",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102618",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102618",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102618.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

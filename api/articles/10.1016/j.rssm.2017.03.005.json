@@ -1,0 +1,30 @@
+{
+  "title": "Fast lane or down the drain? Does the occupation held prior to unemployment shape the transition back to work?",
+  "abstract": "In this article, we analyse transitions from unemployment into re-employment from 1993 to 2010 among German men and women, and ask whether gender differences in unemployment trajectories can be explained by the fact that men and women work in different occupations prior to unemployment. In particular, we focus on whether the sex composition of the pre-unemployment occupation plays a crucial role in structuring unemployment trajectories, or whether other occupational characteristics, such as occupational closure, are more important. We test this framework by means of retrospective life histories drawn from the German National Educational Panel Study. This individual level data is linked to aggregated occupational information, which is constructed from the German Microcensus and the Sample of Integrated Labour Market Biographies. The results of the Cox proportional-hazard models indicate that occupational characteristics predict gender differences in unemployment trajectories. Working in a male-dominated occupation prior to unemployment influences the transition rate into employment positively. At the same time, our analyses reveal that the effects of occupational characteristics differ substantially between men and women.",
+  "authors": [
+    {
+      "raw": "Haegglund, Anna Erika",
+      "family": "Haegglund",
+      "given": "Anna Erika"
+    },
+    {
+      "raw": "Baechmann, Ann-Christin",
+      "family": "Baechmann",
+      "given": "Ann-Christin"
+    }
+  ],
+  "authors_text": "Haegglund, Anna Erika; Baechmann, Ann-Christin",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2017,
+  "doi": "10.1016/j.rssm.2017.03.005",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2017.03.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2017.03.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2017.03.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

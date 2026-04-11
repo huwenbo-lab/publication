@@ -1,0 +1,25 @@
+{
+  "title": "Why Do Advantaged People Feel Unhappy? Effects of Materialistic Values on Subjective Well-Being",
+  "abstract": "This article aims to explore the relationship between income and happiness. As shown by the Easterlin paradox, the relationship between income and happiness is not simple but indeed is rather complicated. The author used finite mixtures of regression models to analyze the data from the National Survey of Social Stratification and Social Mobility conducted in Japan and implemented computer simulations based on the results of the finite mixtures of regression models to examine how changes in social values influence the relationship between income and happiness. Analytical results revealed that people can be categorized into two latent classes: one dominated by materialistic values and the other eschewing materialistic values. Moreover, they clarified that materialistic values have ambivalent influences on individual happiness and average happiness in society. It is concluded that the diffusion of materialistic values might cause paradoxical relationships between income and happiness.",
+  "authors": [
+    {
+      "raw": "Sudo, Naoki",
+      "family": "Sudo",
+      "given": "Naoki"
+    }
+  ],
+  "authors_text": "Sudo, Naoki",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119853919",
+  "doi_url": "https://doi.org/10.1177/2378023119853919",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119853919",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119853919.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Labor Taxation and the Uneven Growth of Wage Inequality",
+  "abstract": "Wage inequality has risen in some rich countries but not others, and where it has risen, the divergence has been mainly between middle and high earners. I argue that taxation is an important factor driving this uneven growth of pretax wage inequality. In some countries, marginal tax rates on upper-middle incomes are high and stable, reducing the income that workers receive relative to the costs borne by employers. In others, marginal taxes on upper-middle incomes have been reduced, in some instances considerably, which incentivizes pretax income growth. I show that marginal tax rates are strongly correlated with pretax 90/10 and 90/50 wage ratios. The results are robust to alternative estimators that control for unobserved heterogeneity and other statistical issues. The findings suggest that, in an era of liberalized wage bargaining and decreased economic coordination, taxation may have taken on a greater role as an inequality-reducing institution.",
+  "authors": [
+    {
+      "raw": "Thompson, Daniel",
+      "family": "Thompson",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Thompson, Daniel",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab147",
+  "doi_url": "https://doi.org/10.1093/sf/soab147",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab147",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab147.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

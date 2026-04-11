@@ -1,0 +1,35 @@
+{
+  "title": "Historical Census Record Linkage",
+  "abstract": "For the past 80 years, social scientists have been linking historical censuses across time to study economic and geographic mobility. In recent decades, the quantity of historical census record linkage has exploded, owing largely to the advent of new machine-readable data created by genealogical organizations. Investigators are examining economic and geographic mobility across multiple generations and also engaging many new topics. Several analysts are exploring the effects of early-life socioeconomic conditions, environmental exposures, or natural disasters on family, health, and economic outcomes in later life. Other studies exploit natural experiments to gauge the impact of policy interventions such as social welfare programs and educational reforms. The new data sources have led to a proliferation of record linkage methodologies, and some widespread approaches inadvertently introduce errors that can lead to false inferences. A new generation of large-scale shared data infrastructure now in preparation will ameliorate weaknesses of current linkage methods.",
+  "authors": [
+    {
+      "raw": "Ruggles, Steven",
+      "family": "Ruggles",
+      "given": "Steven"
+    },
+    {
+      "raw": "Fitch, Catherine A.",
+      "family": "Fitch",
+      "given": "Catherine A."
+    },
+    {
+      "raw": "Roberts, Evan",
+      "family": "Roberts",
+      "given": "Evan"
+    }
+  ],
+  "authors_text": "Ruggles, Steven; Fitch, Catherine A.; Roberts, Evan",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2018,
+  "doi": "10.1146/annurev-soc-073117-041447",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-073117-041447",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-073117-041447",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-073117-041447.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

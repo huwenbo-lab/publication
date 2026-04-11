@@ -1,0 +1,35 @@
+{
+  "title": "Income Inequality and Class Divides in Parental Investments",
+  "abstract": "Historic increases in income inequality have coincided with widening class divides in parental investments of money and time in children. These widening class gaps are significant because parental investment is one pathway by which advantage is transmitted across generations. Using over three decades of micro-data from the Consumer Expenditure Survey and the American Heritage Time Use Survey linked to state-year measures of income inequality, we test the relationship between income inequality and class gaps in parental investment. We find robust evidence of wider class gaps in parental financial investments in childrenbut not parental time investments in childrenwhen state-level income inequality is higher. We explore mechanisms that may drive the relationship between rising income inequality and widening class gaps in parental financial investments in children. This relationship is partially explained by the increasing concentration of income at the top of the income distribution in state-years with higher inequality, which gives higher-earning households more money to spend on financial investments in children. In addition, we find evidence for contextual effects of higher income inequality that reshape parental preferences toward financial investment in children differentially by class.",
+  "authors": [
+    {
+      "raw": "Schneider, Daniel",
+      "family": "Schneider",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Hastings, Orestes P.",
+      "family": "Hastings",
+      "given": "Orestes P."
+    },
+    {
+      "raw": "LaBriola, Joe",
+      "family": "LaBriola",
+      "given": "Joe"
+    }
+  ],
+  "authors_text": "Schneider, Daniel; Hastings, Orestes P.; LaBriola, Joe",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1177/0003122418772034",
+  "doi_url": "https://doi.org/10.1177/0003122418772034",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122418772034",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122418772034.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

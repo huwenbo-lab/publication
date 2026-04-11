@@ -1,0 +1,45 @@
+{
+  "title": "A Whole Population Network and Its Application for the Social Sciences",
+  "abstract": "This data brief presents a whole population network file constructed from administrative data. The network incorporates 1.4 billion relationships between all 17 million inhabitants of the Netherlands in 2018. Relationships are identified between individuals who live in the same household, live close to each other, work for the same company, attend the same educational institution, or belong to the same extended family. The network file is available for analysis at Statistics Netherlands for research purposes. The data brief explains the network construction, the underlying data, data access, and discusses its applications for social research. The network has great potential for the social sciences due to its scale and comprehensive coverage of individuals. As a use case, we present a random walk approach to estimate segregation between people of different educational backgrounds. Further applications of whole population networks are also discussed.",
+  "authors": [
+    {
+      "raw": "van der Laan, Jan",
+      "family": "van der Laan",
+      "given": "Jan"
+    },
+    {
+      "raw": "de Jonge, Edwin",
+      "family": "de Jonge",
+      "given": "Edwin"
+    },
+    {
+      "raw": "Das, Marjolijn",
+      "family": "Das",
+      "given": "Marjolijn"
+    },
+    {
+      "raw": "Te Riele, Saskia",
+      "family": "Te Riele",
+      "given": "Saskia"
+    },
+    {
+      "raw": "Emery, Tom",
+      "family": "Emery",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "van der Laan, Jan; de Jonge, Edwin; Das, Marjolijn; Te Riele, Saskia; Emery, Tom",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac026",
+  "doi_url": "https://doi.org/10.1093/esr/jcac026",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac026",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac026.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

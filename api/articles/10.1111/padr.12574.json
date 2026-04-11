@@ -1,0 +1,35 @@
+{
+  "title": "Migration Policies and Immigrants' Language Acquisition in EU-15: Evidence from Twitter",
+  "abstract": "In response to the increasingly complex and heterogeneous immigrant communities settling in Europe, European countries have adopted various civic integration measures. Measures aiming to facilitate language acquisition are considered crucial for integration and cooperation between immigrants and natives. Simultaneously, the rapid expansion of social media usage is believed to change the factors affecting immigrants' language acquisition. However, only a few previous studies have analyzed whether this is the case. This article uses a novel longitudinal data source derived from Twitter to (1) analyze differences in the pace of immigrants' language acquisition depending on the migration policies of destination countries and (2) study how the relative sizes of the migrant groups in destination countries, and the linguistic and geographical distances between origin and destination countries, are associated with language acquisition. Results show that immigrants who live in countries with strict language acquisition requirements for immigrants and conservative citizenship policies have the highest median times until language acquisition. Based on Twitter data, we also find that language acquisition is associated with classic explanatory variables, such as the size of the immigrant group in the destination country and the linguistic and geographical distance between origin and destination country similar to the previous studies.",
+  "authors": [
+    {
+      "raw": "Gil-Clavel, Sofia",
+      "family": "Gil-Clavel",
+      "given": "Sofia"
+    },
+    {
+      "raw": "Grow, Andre",
+      "family": "Grow",
+      "given": "Andre"
+    },
+    {
+      "raw": "Bijlsma, Maarten J.",
+      "family": "Bijlsma",
+      "given": "Maarten J."
+    }
+  ],
+  "authors_text": "Gil-Clavel, Sofia; Grow, Andre; Bijlsma, Maarten J.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2023,
+  "doi": "10.1111/padr.12574",
+  "doi_url": "https://doi.org/10.1111/padr.12574",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12574",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12574.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

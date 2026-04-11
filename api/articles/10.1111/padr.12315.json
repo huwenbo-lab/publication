@@ -1,0 +1,40 @@
+{
+  "title": "Immigration Selection and the Educational Composition of the US Labor Force",
+  "abstract": "Immigration policy is often viewed as an important regulator of the flow of labor and human capital into the labor market. In the US context, this perspective underlies efforts to raise the educational levels of newly admitted US immigrants, which has been proposed through a variety of mechanisms. Yet it remains unclear whether and under what circumstances such changes would significantly raise the educational level of the US labor force. We use a microsimulation model to evaluate the effects of various policy proposals that would seek to admit more highly educated immigrants. Results suggest that adopting a Canadian-style admissions policy that explicitly selects immigrants based on educational attainment would lead to a better educated labor force, especially among immigrants and their descendants. Eliminating all unauthorized immigration or family reunification and diversity admission categories, however, would have minimal impact. Additionally, the effects of all policy scenarios on the educational composition of the entire labor force are likely to be modest and would be conditional on the continuation of intergenerational mobility and high levels of immigration.",
+  "authors": [
+    {
+      "raw": "Van Hook, Jennifer",
+      "family": "Van Hook",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Belanger, Alain",
+      "family": "Belanger",
+      "given": "Alain"
+    },
+    {
+      "raw": "Sabourin, Patrick",
+      "family": "Sabourin",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Morse, Anne",
+      "family": "Morse",
+      "given": "Anne"
+    }
+  ],
+  "authors_text": "Van Hook, Jennifer; Belanger, Alain; Sabourin, Patrick; Morse, Anne",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2020,
+  "doi": "10.1111/padr.12315",
+  "doi_url": "https://doi.org/10.1111/padr.12315",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12315",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12315.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

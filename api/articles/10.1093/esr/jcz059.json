@@ -1,0 +1,40 @@
+{
+  "title": "The Hidden Cost of Flexibility: A Factorial Survey Experiment on Job Promotion",
+  "abstract": "This article analyses the role of gender, parenthood, and work flexibility measures and the mediating role of stereotypes on the likelihood of achieving an internal promotion in Spain. We hypothesize that employers favour fathers over mothers and disfavour flexible workers (flexibility stigma) because they are perceived, respectively, as less competent and less committed. We also hypothesize that employers reflect their gender values in the selection process. These hypotheses are tested using data from a survey experiment in which 71 supervisors from private companies evaluate 426 short vignettes describing six different candidates for promotion into positions that require decision-making and team supervision skills. Several candidate characteristics are experimentally manipulated, while others such as skills and experience in the company are kept constant to minimize the risk of statistical discrimination. Contrary to our expectations, fathers are not preferred in promotion, as they are not perceived as being more competent than mothers. However, we find that flexibility leads to lower promotion scores, partly due to its association with a lack of commitment. Although the statutory right to reduce working hours for care reasons seems a major social achievement, this experiment shows that mothers may be indirectly penalized, as they are the main users of this policy.",
+  "authors": [
+    {
+      "raw": "Fernandez-Lozano, Irina",
+      "family": "Fernandez-Lozano",
+      "given": "Irina"
+    },
+    {
+      "raw": "Jose Gonzalez, M.",
+      "family": "Jose Gonzalez",
+      "given": "M."
+    },
+    {
+      "raw": "Jurado-Guerrero, Teresa",
+      "family": "Jurado-Guerrero",
+      "given": "Teresa"
+    },
+    {
+      "raw": "Martinez-Pastor, Juan-Ignacio",
+      "family": "Martinez-Pastor",
+      "given": "Juan-Ignacio"
+    }
+  ],
+  "authors_text": "Fernandez-Lozano, Irina; Jose Gonzalez, M.; Jurado-Guerrero, Teresa; Martinez-Pastor, Juan-Ignacio",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcz059",
+  "doi_url": "https://doi.org/10.1093/esr/jcz059",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz059",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz059.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

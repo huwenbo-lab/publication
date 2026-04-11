@@ -1,0 +1,50 @@
+{
+  "title": "Precarious Childhoods: Childhood Family Income Volatility and Mental Health in Early Adulthood",
+  "abstract": "The rise of income volatility in western countries has been extensively documented in the literature, but empirical research has just started to examine how childhood exposure to family income volatility affects subsequent wellbeing. This study takes advantage of several nation-wide, population registers from Sweden with linkages within and across generations to examine the intergenerational impact of childhood family income volatility on psychiatric disorders in early adulthood. In addition to the population-average effects, we also examine the heterogeneity in the impact of family income volatility for families at the top, bottom, and middle of the family income distribution. Our results suggest that after controlling for a set of family- and child-level characteristics, childhood family income volatility has a negative effect on mental wellbeing, and this finding is consistent across a range of psychiatric outcomes. Furthermore, we show that while children from low-income families exhibit the greatest likelihood of psychiatric disorder, children from families in the middle of the income distribution experience the greatest negative impact of income volatility.",
+  "authors": [
+    {
+      "raw": "Cheng, Siwei",
+      "family": "Cheng",
+      "given": "Siwei"
+    },
+    {
+      "raw": "Kosidou, Kyriaki",
+      "family": "Kosidou",
+      "given": "Kyriaki"
+    },
+    {
+      "raw": "Burstrom, Bo",
+      "family": "Burstrom",
+      "given": "Bo"
+    },
+    {
+      "raw": "Bjorkenstam, Charlotte",
+      "family": "Bjorkenstam",
+      "given": "Charlotte"
+    },
+    {
+      "raw": "Pebley, Anne R.",
+      "family": "Pebley",
+      "given": "Anne R."
+    },
+    {
+      "raw": "Bjorkenstam, Emma",
+      "family": "Bjorkenstam",
+      "given": "Emma"
+    }
+  ],
+  "authors_text": "Cheng, Siwei; Kosidou, Kyriaki; Burstrom, Bo; Bjorkenstam, Charlotte; Pebley, Anne R.; Bjorkenstam, Emma",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soaa020",
+  "doi_url": "https://doi.org/10.1093/sf/soaa020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

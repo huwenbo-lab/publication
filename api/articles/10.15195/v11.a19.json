@@ -1,0 +1,25 @@
+{
+  "title": "Colorism Revisited: The Effects of Skin Color on Educational and Labor Market Outcomes in the United States",
+  "abstract": "Studies of colorism—the idea that racial hierarchies coexist with gradational inequalities based on skin color—consistently find that darker skin correlates with lower socioeconomic outcomes. Despite the causal nature of this debate, evidence remains predominantly associational. This study revisits the colorism literature by proposing a causal model underlying these theories. It discusses conditions under which associations may reflect contemporary causal effects of skin color and evaluates strategies for identifying these effects. Using data from the AddHealth and NLSY97 surveys and applying two identification strategies, the study estimates the causal effects of skin color on college degree attainment, personal earnings, and family income among White, Black, and Hispanic populations in the United States. Results show that darker skin correlates with poorer educational and economic outcomes within racial groups. However, evidence of contemporary causal effects of skin color is partial, limited to college attainment of Whites and family income of Hispanics. For Blacks, results suggest a generalized penalty associated with being Black rather than gradation based on skin tone. Methodologically, the article advocates using sensitivity analyses to account for unobserved confounders in models for skin color effects and uses sibling fixed-effects as a secondary complementary strategy.",
+  "authors": [
+    {
+      "raw": "Bucca, Mauricio",
+      "family": "Bucca",
+      "given": "Mauricio"
+    }
+  ],
+  "authors_text": "Bucca, Mauricio",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2024,
+  "doi": "10.15195/v11.a19",
+  "doi_url": "https://doi.org/10.15195/v11.a19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv11.a19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v11.a19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

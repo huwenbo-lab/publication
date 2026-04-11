@@ -1,0 +1,40 @@
+{
+  "title": "Neighborhood Attainment over the Adult Life Course",
+  "abstract": "This study uses data from the Panel Study of Income Dynamics, in conjunction with neighborhood-level data from the U.S. decennial census and American Community Survey, to examine the trajectory of individuals' neighborhood characteristics from initial household formation into mid-to-late adulthood. Multilevel growth curve models reveal both different starting points and different life course trajectories for blacks and whites in neighborhood economic status and neighborhood racial composition. Among respondents who first established an independent household during the 1970s, improvement in neighborhood income over the adult life course was substantially greater for white than for black respondents; the racial difference in the percentage of neighbors who were non-Hispanic white narrowed slightly with age. Racial differences in the characteristics of neighborhoods inhabited during adolescence help explain racial differences in starting points and, to a lesser extent, subsequent trajectories of neighborhood attainment. Residing in an economically advantaged neighborhood during adolescence confers greater subsequent benefits in neighborhood economic status for white than for black respondents. We use these findings to begin developing a life course perspective on neighborhood attainment.",
+  "authors": [
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    },
+    {
+      "raw": "Huang, Ying",
+      "family": "Huang",
+      "given": "Ying"
+    },
+    {
+      "raw": "Spring, Amy",
+      "family": "Spring",
+      "given": "Amy"
+    },
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    }
+  ],
+  "authors_text": "South, Scott J.; Huang, Ying; Spring, Amy; Crowder, Kyle",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1177/0003122416673029",
+  "doi_url": "https://doi.org/10.1177/0003122416673029",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122416673029",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122416673029.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

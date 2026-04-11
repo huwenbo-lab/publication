@@ -1,0 +1,30 @@
+{
+  "title": "Last Name Selection in Audit Studies",
+  "abstract": "In this article, we build on Gaddis (2017a) by illuminating a key variable plausibly related to racial perceptions of last names—geography. We show that the probability that any individual belongs to a race is conditional not only on their last name but also on surrounding racial demographics. Specifically, we demonstrate that the probability of a name denoting a race varies considerably across contexts, and this is more of a problem for some names than others. This result has two important implications for audit study research: it suggests important limitations for (1) the generalizability of audit study findings and (2) for the interpretation of geography-based conditional effects. This means that researchers should be careful to select names that consistently signal racial groups regardless of local demographics. We provide a slim R package that can help researchers do this.",
+  "authors": [
+    {
+      "raw": "Crabtree, Charles",
+      "family": "Crabtree",
+      "given": "Charles"
+    },
+    {
+      "raw": "Chykina, Volha",
+      "family": "Chykina",
+      "given": "Volha"
+    }
+  ],
+  "authors_text": "Crabtree, Charles; Chykina, Volha",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2018,
+  "doi": "10.15195/v5.a2",
+  "doi_url": "https://doi.org/10.15195/v5.a2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv5.a2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v5.a2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

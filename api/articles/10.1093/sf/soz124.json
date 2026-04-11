@@ -1,0 +1,30 @@
+{
+  "title": "Social Norms about Father Involvement and Women's Fertility",
+  "abstract": "We argue that father involvement at the societal level influences women's fertility decisions. If father involvement becomes a social norm, it provides expectations about shared parenthood and father involvement in care for young children, making it easier to realize childbearing plans. We test our theoretical assumption using administrative register data from Norway covering 25 years of exposure to a social policy aiming at fathers becoming more involved in childcare and an equal division of labor within the family. Hazard model regression analyses including macro indicators of father involvement reveal that father engagement - in the sense that fathers are visible in the community being on parental leave - is positively associated with women becoming mothers and one-child mothers' transition to second birth, but the effect is strongest for the second birth. Simulation experiments show that in a scenario where no fathers take parental leave, only 63 percent of all women have a second child, while in the scenario where almost all fathers take leave, as many as 74 percent of all women will do so. In many low fertility countries, women often stop at one child. Our results suggest that in such societies that are concerned about low fertility, policies that encourage father involvement could be a valuable investment.",
+  "authors": [
+    {
+      "raw": "Lappegard, Trude",
+      "family": "Lappegard",
+      "given": "Trude"
+    },
+    {
+      "raw": "Kornstad, Tom",
+      "family": "Kornstad",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "Lappegard, Trude; Kornstad, Tom",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz124",
+  "doi_url": "https://doi.org/10.1093/sf/soz124",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz124",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz124.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

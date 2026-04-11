@@ -1,0 +1,30 @@
+{
+  "title": "Rural/Urban Population Age and Sex Composition in sub-Saharan Africa 1980-2015",
+  "abstract": "Population age structures act both to support and constrain key aspects of development, ranging from demographic dividends to civil violence. Despite recognition of the crucial role played by national age and sex structures, demographic perspectives on rural/urban differences and their implications have been neglected. This study explores how differential rural/urban natural increase, interacting with rural-to-urban migration, may generate substantial gaps in population age and sex structures across the two sectors in sub-Saharan Africa. We calculate sector-specific dependency and sex ratios using United Nations data from 45 sub-Saharan African countries from 1980 to 2015 to explore rural/urban age and sex structure gaps. Results indicate that these gaps are predictable by stage of demographic transition. Rural-to-urban migration of young adults proves particularly important for explaining the gaps between the sectors. Our results highlight the value of accounting for local population structure to better prepare for the consequences of demographic shifts in sub-Saharan Africa.",
+  "authors": [
+    {
+      "raw": "Menashe-Oren, Ashira",
+      "family": "Menashe-Oren",
+      "given": "Ashira"
+    },
+    {
+      "raw": "Stecklov, Guy",
+      "family": "Stecklov",
+      "given": "Guy"
+    }
+  ],
+  "authors_text": "Menashe-Oren, Ashira; Stecklov, Guy",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2018,
+  "doi": "10.1111/padr.12122",
+  "doi_url": "https://doi.org/10.1111/padr.12122",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12122",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12122.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

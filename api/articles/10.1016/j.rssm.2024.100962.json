@@ -1,0 +1,40 @@
+{
+  "title": "Labor market pathways to job quality mobility in the service sector: Evidence from the Great Resignation",
+  "abstract": "Since the mid-1970s, there has been a sharp rise in the prevalence of bad jobs in the U.S. labor market, characterized by stagnant wages, unstable work schedules, and limited fringe benefits. Scholarly, policy, and public debate persists, however, about whether these jobs can serve as steppingstones to intra-generational job quality mobility or are instead poverty traps. While scholarship increasingly recognizes the multi-dimensional nature of job quality, prior research on intra-generational job mobility overwhelmingly estimates only wage mobility and generally focuses on estimating the degree of mobility, to the exclusion of the contexts and mechanisms that foster such mobility. We draw on new panel data collected from 8600 hourly service sector workers between 2017 and 2022 to estimate short-run mobility into good jobs, defined as paying at least $15/ hour, having a stable work schedule, and offering paid sick leave, employer-sponsored health insurance, and retirement benefits. Overall, we find that mobility into such good jobs is low. However, we show that the rate of transition into good jobs is strongly conditioned by local labor market conditions: during the Great Resignation and in low state-month unemployment periods, nearly twice the share of workers transitioned to good jobs as in less favorable contexts, particularly workers who changed sector as opposed to staying at the same firm or taking new jobs in the service sector. Notably, during periods of labor market tightness, workers who stayed at the same employer had similar rates of mobility into good jobs as those who changed employers within the sector.",
+  "authors": [
+    {
+      "raw": "Woods, Tyler",
+      "family": "Woods",
+      "given": "Tyler"
+    },
+    {
+      "raw": "Nguyen, Dylan",
+      "family": "Nguyen",
+      "given": "Dylan"
+    },
+    {
+      "raw": "Schneider, Daniel",
+      "family": "Schneider",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Harknett, Kristen",
+      "family": "Harknett",
+      "given": "Kristen"
+    }
+  ],
+  "authors_text": "Woods, Tyler; Nguyen, Dylan; Schneider, Daniel; Harknett, Kristen",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100962",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100962",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100962",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100962.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

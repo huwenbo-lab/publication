@@ -1,0 +1,30 @@
+{
+  "title": "Research Note Showing That the Rural Mortality Penalty Varies by Region, Race, and Ethnicity in the United States, 1999-2016",
+  "abstract": "This research note presents a new perspective on the rural mortality penalty in the United States. While previous work has documented a growing rural mortality penalty, there has been a lack of attention to heterogeneity in trends at the intersection of region, race, and ethnicity. We use age-adjusted mortality rates from the Centers for Disease Control and Prevention to examine the rural mortality penalty by region, race, and ethnicity for 1999-2016 (N=44,792,050 deaths) and stratify by 2006 National Center for Health Statistics metropolitan-nonmetropolitan classifications. We find substantial variation at the intersection of region, race, and ethnicity, revealing heterogeneity in the rural penalty and-in some cases-a rural mortality advantage. For the Black/African American population, the rural mortality penalty is observed only in the South. On the other hand, for Hispanic/Latino populations, a small but persistent rural mortality penalty is present only in the South and the West. There is a rural mortality penalty in all regions for White and American Indian/Alaska Native populations. However, for the latter, there is substantial variation in the magnitude of the penalty by region of residence. This research documents heterogeneous patterns when the rural mortality penalty is analyzed by region, race, and ethnicity in the United States.",
+  "authors": [
+    {
+      "raw": "Rhubart, Danielle",
+      "family": "Rhubart",
+      "given": "Danielle"
+    },
+    {
+      "raw": "Santos, Alexis",
+      "family": "Santos",
+      "given": "Alexis"
+    }
+  ],
+  "authors_text": "Rhubart, Danielle; Santos, Alexis",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-11078239",
+  "doi_url": "https://doi.org/10.1215/00703370-11078239",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11078239",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11078239.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Gender in Twentieth-Century Children’s Books",
+  "abstract": "Gender representations reproduce and legitimate gender systems. To examine this aspect of the gendered social order, we analyze the representation of males and females in the titles and central characters of 5,618 children’s books published throughout the twentieth century in the United States. Compared to females, males are represented nearly twice as often in titles and 1.6 times as often as central characters. By no measure in any book series (i.e., Caldecott award winners, Little Golden Books, and books listed in the Children’s Catalog ) are females represented more frequently than males. We argue that these disparities are evidence of symbolic annihilation and have implications for children’s understandings of gender. Nevertheless, important differences in the extent of the disparity are evident by type of character (i.e., child or adult, human or animal), book series, and time period. Specifically, representations of child central characters are the most equitable and animals the most inequitable; Little Golden Books contain the most unequal representations; and the 1930s-1960s—the period between waves of feminist activism—exhibits greater disparities than earlier and later periods. Examining multiple types of books across a long time period shows that change toward gender equality is uneven, nonlinear, and tied to patterns of feminist activism and backlash throughout the century.",
+  "authors": [
+    {
+      "raw": "McCabe, Janice",
+      "family": "McCabe",
+      "given": "Janice"
+    },
+    {
+      "raw": "Fairchild, Emily",
+      "family": "Fairchild",
+      "given": "Emily"
+    },
+    {
+      "raw": "Grauerholz, Liz",
+      "family": "Grauerholz",
+      "given": "Liz"
+    },
+    {
+      "raw": "Pescosolido, Bernice A.",
+      "family": "Pescosolido",
+      "given": "Bernice A."
+    },
+    {
+      "raw": "Tope, Daniel",
+      "family": "Tope",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "McCabe, Janice; Fairchild, Emily; Grauerholz, Liz; Pescosolido, Bernice A.; Tope, Daniel",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2011,
+  "doi": "10.1177/0891243211398358",
+  "doi_url": "https://doi.org/10.1177/0891243211398358",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243211398358",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243211398358.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

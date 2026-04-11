@@ -1,0 +1,40 @@
+{
+  "title": "Deterioration in youth employment, social contexts, and marriage decline in Japan and South Korea",
+  "abstract": "Japan and South Korea are experiencing drastic declines in marriage rates. One of the main factors explaining these declines is deteriorating youth employment. This study examined the effects of youth employment on marriage timing and the moderating effects of social contexts in both countries using longitudinal data and discrete-time logit analysis. The results indicated that unmarried people, particularly men, who were not regular employees with low annual income delayed marriage; this association was moderated by educational background and family structure (parents living together, primogeniture). Comparing the two countries, Japan experiences a stronger influence on marriage from the traditional family system, and South Korea has a stronger influence from economic disadvantages. This reflects differences in the strength of the traditional family system and the degree of deterioration of youth employment in the two countries.",
+  "authors": [
+    {
+      "raw": "Matsuda, Shigeki",
+      "family": "Matsuda",
+      "given": "Shigeki"
+    },
+    {
+      "raw": "Sasaki, Takayuki",
+      "family": "Sasaki",
+      "given": "Takayuki"
+    },
+    {
+      "raw": "Shin, Jaeyoul",
+      "family": "Shin",
+      "given": "Jaeyoul"
+    },
+    {
+      "raw": "Bae, Jihey",
+      "family": "Bae",
+      "given": "Jihey"
+    }
+  ],
+  "authors_text": "Matsuda, Shigeki; Sasaki, Takayuki; Shin, Jaeyoul; Bae, Jihey",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2023,
+  "doi": "10.1080/17441730.2023.2211402",
+  "doi_url": "https://doi.org/10.1080/17441730.2023.2211402",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2023.2211402",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2023.2211402.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

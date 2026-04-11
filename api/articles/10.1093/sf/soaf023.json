@@ -1,0 +1,35 @@
+{
+  "title": "Are women with disabilities more at risk of intimate partner violence?",
+  "abstract": "Women with disabilities may face heightened risks of intimate partner violence (IPV) given the discrimination and barriers they face in society. While some country-specific studies explore the link between disability and IPV, cross-country research remains limited. Using internationally comparable data for women aged 15-49 from eleven countries (Cambodia, Haiti, Kenya, Mali, Mauritania, Pakistan, Rwanda, Senegal, South Africa, Timor-Leste, and Uganda), we assess whether women with disabilities consistently face higher IPV risks. Controlling for socioeconomic and demographic factors, women with disabilities have a 6-percentage-point higher risk of IPV compared to those without (P < .05) in the pooled sample. At the country level, this association is significant in five countries. The link between disability and IPV also varies by type, with stronger associations for severe physical IPV (seven countries) and weaker associations for sexual IPV (two countries). Logit decomposition analysis in the five countries where the disability gap in exposure to IPV is significant shows that observed differences in characteristics account for part of the gap. However, unobserved factors, such as stigma, also play a significant role in driving the disparity. Additionally, our results suggest that the lack of consistent findings across countries may result from data limitations, such as small sample sizes, measurement errors, and reporting biases. This underscores the importance of developing evidence-based approaches to better measure disability and IPV in household surveys.",
+  "authors": [
+    {
+      "raw": "Herve, Justine",
+      "family": "Herve",
+      "given": "Justine"
+    },
+    {
+      "raw": "Theiss, Katherine",
+      "family": "Theiss",
+      "given": "Katherine"
+    },
+    {
+      "raw": "Mitra, Sophie",
+      "family": "Mitra",
+      "given": "Sophie"
+    }
+  ],
+  "authors_text": "Herve, Justine; Theiss, Katherine; Mitra, Sophie",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf023",
+  "doi_url": "https://doi.org/10.1093/sf/soaf023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

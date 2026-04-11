@@ -1,0 +1,40 @@
+{
+  "title": "Response styles confound the age gradient of four health and well-being outcomes",
+  "abstract": "Objectives: Accurate representation of the association of health and well-being outcomes over age can inform us about how well the population is doing, where segments of the population may be in need, and allow hypothesis generation about correlates and causes of observed gradients. In this paper, we examine the possibility that response styles can impact associations between respondent age and four common, self-report variables: overall health; life satisfaction; pain intensity; and, fatigue level. Response styles (RSs) are defined as tendencies for people to use certain locations on response scales (e.g., extremes, middle) regardless of scale content. Although RSs have been shown in some circumstances to bias self-reports, often little attention is paid to this source of bias. Methods: A sample of 2000 Internet panelists completed an online questionnaire that included a set of heterogeneous items to compute measures of the following RSs: acquiescence, disacquiescence, midpoint responding, and extreme responding. Results: A total of 1839 participants formed the analytic sample and they had an average age of 54.4 (range: 21-89). RSs were associated with age and with the outcome variables. Moreover, the age pattern of the health and well-being variables was considerably altered when RSs were controlled. An alternative, item-response theory-based method of deriving measures of RSs confirmed many of the associations from the primary method of computing RS variables. Across the different self-report outcomes, disacquiescence had the greatest effect on the age patterns, and pain and fatigue were the outcomes most impacted by controlling for RSs. Discussion: In accord with prior research, we recommend greater consideration be given to RSs in aging research.",
+  "authors": [
+    {
+      "raw": "Stone, Arthur A.",
+      "family": "Stone",
+      "given": "Arthur A."
+    },
+    {
+      "raw": "Schneider, Stefan",
+      "family": "Schneider",
+      "given": "Stefan"
+    },
+    {
+      "raw": "Junghaenel, Doerte U.",
+      "family": "Junghaenel",
+      "given": "Doerte U."
+    },
+    {
+      "raw": "Broderick, Joan E.",
+      "family": "Broderick",
+      "given": "Joan E."
+    }
+  ],
+  "authors_text": "Stone, Arthur A.; Schneider, Stefan; Junghaenel, Doerte U.; Broderick, Joan E.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.12.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.12.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.12.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.12.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

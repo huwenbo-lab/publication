@@ -1,0 +1,35 @@
+{
+  "title": "Child Sex Composition, Parental Sex Preferences, and Marital Outcomes: Evidence From a Matrilineal Context",
+  "abstract": "Objective The authors study matrilineal settings in rural Malawi, a southeast African country, to assess if women experience better marital outcomes in the presence of daughters and if so whether daughter preference plays a role. Background A provocative finding in family sociology is that couples with sons experience better marital outcomes relative to those with daughters. Sociologists contend that these marital benefits are attributable to the gender system fostering greater closeness between fathers and sons, a preference for sons, or economic, cultural, and social incentives for fathers to invest more in unions that have produced sons. Extrapolating these arguments beyond son-inspired marital benefits in patriarchal settings suggests that the reverse process-daughter-inspired marital benefits-could prevail in matrilineal contexts. Method The authors analyze three rounds of the nationally representative Malawi Demographic and Health Survey. They estimate three series of parity-specific, multivariable logistic regression models to assess the associations between child sex composition and marital outcomes (two forms of relationship abuse and polygyny) and model each outcome among the full sample of women with one to four children and control for number of children, thus conveying the average effect of sex composition across parities. Results Women with daughters-particularly women with only daughters-in predominately matrilineal, rural communities in the central and southern regions of Malawi are more likely to be in monogamous versus polygynous unions and are less likely to have experienced emotionally abusive and controlling behaviors. We find little evidence that women and men explicitly prefer or pursue daughters. Conclusion The study shows that a matrilineal gender system can influence marital dynamics in the presence of daughters even without fostering an overwhelming preference for them.",
+  "authors": [
+    {
+      "raw": "Smith-Greenaway, Emily",
+      "family": "Smith-Greenaway",
+      "given": "Emily"
+    },
+    {
+      "raw": "Weitzman, Abigail",
+      "family": "Weitzman",
+      "given": "Abigail"
+    },
+    {
+      "raw": "Chilungo, Abdallaii",
+      "family": "Chilungo",
+      "given": "Abdallaii"
+    }
+  ],
+  "authors_text": "Smith-Greenaway, Emily; Weitzman, Abigail; Chilungo, Abdallaii",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12591",
+  "doi_url": "https://doi.org/10.1111/jomf.12591",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12591",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12591.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

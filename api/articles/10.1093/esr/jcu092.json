@@ -1,0 +1,35 @@
+{
+  "title": "Ethno-Religious Differences in Israeli Higher Education: Vertical and Horizontal Dimensions",
+  "abstract": "The worldwide expansion and diversification of higher education systems has sparked growing interest in the stratification of students according to higher education institution and field of study. This article focuses on Israel, where higher education has experienced significant expansion and diversification during the past two decades. Using generalized ordered logistic regression models, the study analyses vertical and horizontal ethno-religious inequality. The findings indicate that Ashkenazim, the privileged Jewish group, remain the most advantaged regarding enrollment in higher education, but their advantage over other veteran Jewish groups is mainly owing to areas of specialization in high school and achievement on the tests that serve as admission criteria to the higher education institutions. Among the enrollees, controlling for high school history reveals that the disadvantaged Jewish groups, Mizrachim and new immigrants, have higher odds than Ashkenazim of enrolling in lucrative programmes. Muslim, Druze, and Christian Arabs are disadvantaged regarding both the vertical (access) and horizontal (fields of study) dimensions, regardless of high school history and previous achievements.",
+  "authors": [
+    {
+      "raw": "Feniger, Yariv",
+      "family": "Feniger",
+      "given": "Yariv"
+    },
+    {
+      "raw": "Mcdossi, Oded",
+      "family": "Mcdossi",
+      "given": "Oded"
+    },
+    {
+      "raw": "Ayalon, Hanna",
+      "family": "Ayalon",
+      "given": "Hanna"
+    }
+  ],
+  "authors_text": "Feniger, Yariv; Mcdossi, Oded; Ayalon, Hanna",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcu092",
+  "doi_url": "https://doi.org/10.1093/esr/jcu092",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcu092",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcu092.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

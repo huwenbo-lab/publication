@@ -1,0 +1,25 @@
+{
+  "title": "Resource specificity in intergenerational inequality: The case of education, occupation, and income",
+  "abstract": "Socioeconomic status (SES) multidimensionality in the intergenerational transmission of inequality is examined by focusing on how multiple SES resources - education, occupation, and income - are transmitted over corresponding child outcomes. The degree to which transfers are generic or specific over resources is assessed and whether misspecification results in bias. Using high-quality Swedish administrative register data and estimating variance decompositions of sibling correlations, the findings suggest, first, that intergenerational inequality is subject to resource specificity, i.e., transmission is particular to given parental and child resource configurations. Second, within resource transmission implies that the same parental resource as the child outcome matter most in the transmission of advantage. In this sense, parental education is more important in the attainment of children's education, while family economic (dis)advantage matter more for children's economic status than other resources, etcetera. Third, resource transmission follows a SES proximity pattern, where parental education is least correlated with child income, and parental income is least correlated with children's education - with parental occupation in between. Finally, the bias due to ignoring multidimensionality is estimated to an upper bound of 31 percent - with considerable confounding bias found as well. In sum, resource specificity offers a perspective on how socioeconomic inequality is (re)produced over generations and highlights the methodological risks of underestimating intergenerational inequality.",
+  "authors": [
+    {
+      "raw": "Thaning, Max",
+      "family": "Thaning",
+      "given": "Max"
+    }
+  ],
+  "authors_text": "Thaning, Max",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100644",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100644",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100644",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100644.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

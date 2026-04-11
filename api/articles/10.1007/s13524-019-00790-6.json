@@ -1,0 +1,25 @@
+{
+  "title": "Beyond the Great Recession: Labor Market Polarization and Ongoing Fertility Decline in the United States",
+  "abstract": "In the years since the Great Recession, social scientists have anticipated that economic recovery in the United States, characterized by gains in employment and median household income, would augur a reversal of declining fertility trends. However, the expected post-recession rebound in fertility rates has yet to materialize. In this study, I propose an economic explanation for why fertility rates have continued to decline regardless of improvements in conventional economic indicators. I argue that ongoing structural changes in U.S. labor markets have prolonged the financial uncertainty that leads women and couples to delay or forgo childbearing. Combining statistical and survey data with restricted-use vital registration records, I examine how cyclical and structural changes in metropolitan-area labor markets were associated with changes in total fertility rates (TFRs) across racial/ethnic groups from the early 1990s to the present day, with a particular focus on the 2006-2014 period. The findings suggest that changes in industry composition-specifically, the loss of manufacturing and other goods-producing businesses-have a larger effect on TFRs than changes in the unemployment rate for all racial/ethnic groups. Because structural changes in labor markets are more likely to be sustained over time-in contrast to unemployment rates, which fluctuate with economic cycles-further reductions in unemployment are unlikely to reverse declining fertility trends.",
+  "authors": [
+    {
+      "raw": "Seltzer, Nathan",
+      "family": "Seltzer",
+      "given": "Nathan"
+    }
+  ],
+  "authors_text": "Seltzer, Nathan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00790-6",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00790-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00790-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00790-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

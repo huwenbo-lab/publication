@@ -1,0 +1,35 @@
+{
+  "title": "The value of educational degrees in turbulent economic times: Evidence from the Youth Development Study",
+  "abstract": "Rising costs of higher education have prompted debate about the value of college degrees. Using mixed effects panel models of data from the Youth Development Study (ages 31-37), we compare occupational outcomes (i.e., weekly hours worked, earnings, employment status, career attainment, and job security) between educational attainment categories within year, and within categories across years, from 2005 to 2011, capturing the period before, during, and in the aftermath of the Great Recession. Our findings demonstrate the long-term value of post-secondary degrees. Bachelor's and Associate's degree recipients, while experiencing setbacks at the height of recession, were significantly better off than those with some or no college attendance. Vocational-Technical degree holders followed a unique trajectory: pre-recession, they are mostly on par with Associate's and Bachelor's recipients, but they are hit particularly hard by the recession and then rebound somewhat afterwards. Our findings highlight the perils of starting but not finishing post-secondary educational programs. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Vuolo, Mike",
+      "family": "Vuolo",
+      "given": "Mike"
+    },
+    {
+      "raw": "Mortimer, Jeylan T.",
+      "family": "Mortimer",
+      "given": "Jeylan T."
+    },
+    {
+      "raw": "Staff, Jeremy",
+      "family": "Staff",
+      "given": "Jeremy"
+    }
+  ],
+  "authors_text": "Vuolo, Mike; Mortimer, Jeylan T.; Staff, Jeremy",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2015.12.014",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2015.12.014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2015.12.014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2015.12.014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

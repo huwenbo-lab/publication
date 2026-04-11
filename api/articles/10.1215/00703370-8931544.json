@@ -1,0 +1,25 @@
+{
+  "title": "Decomposition of Improvements in Infant Mortality in Asian Developing Countries Over Three Decades",
+  "abstract": "Low- and middle-income countries in Asia have seen substantial improvements in infant mortality over the last three decades. This study examines the factors contributing to the improvement in infant survival in their first year in six Asian countries: Bangladesh, India, Indonesia, Nepal, Pakistan, and the Philippines. I decompose the overall improvement in the infant survival rate in the respective countries from the 1990s to the 2010s into the part that can be explained by the improvements in circumstantial environments in which infants develop and the remaining part that is due to the structural change in the hazard functions. This decomposition is achieved by employing the random survival forest, allowing me to predict the counterfactual infant survival probability that infants in the 2010s would have under the circumstantial environments of the 1990s. The results show that large parts of the improvement are explained by the improvement in the environments in all the countries being analyzed. I find that the reduction in family size, increased use of antenatal care, longer pregnancy periods, and improved living standards were associated with the improvement of the infant mortality rate in all six countries.",
+  "authors": [
+    {
+      "raw": "Aizawa, Toshiaki",
+      "family": "Aizawa",
+      "given": "Toshiaki"
+    }
+  ],
+  "authors_text": "Aizawa, Toshiaki",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8931544",
+  "doi_url": "https://doi.org/10.1215/00703370-8931544",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8931544",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8931544.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

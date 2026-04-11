@@ -1,0 +1,45 @@
+{
+  "title": "Is Separate Still Unequal? New Evidence on School Segregation and Racial Academic Achievement Gaps",
+  "abstract": "U.S. public schools are racially and economically segregated. Prior research shows that the desegregation of Southern schools beginning in the 1960s led to significant benefits for Black students. Less clear, however, is whether segregation today has the same harmful effects as it did 50 years ago and through what mechanisms segregation continues to affect achievement. We estimate the effects of current-day school segregation on racial achievement gaps using 11 years of data from all U.S. public school districts. We find that racial segregation is strongly associated with the magnitude of achievement gaps in 3rd grade and the rate at which gaps grow from 3rd to 8th grade. The association of racial segregation with achievement-gap growth is completely accounted for by racial differences in school poverty. Thus, racial segregation is harmful because it concentrates minority students in high-poverty schools, which are, on average, less effective than lower-poverty schools. Exploratory analyses show that segregation-related between-school differences in teacher characteristics are associated with unequal learning rates and account for roughly 20 percent of the effect of Black-White racial differences in exposure to poverty. Further research is needed to identify mechanisms linking school segregation to achievement-gap growth.",
+  "authors": [
+    {
+      "raw": "Reardon, Sean F.",
+      "family": "Reardon",
+      "given": "Sean F."
+    },
+    {
+      "raw": "Weathers, Ericka S.",
+      "family": "Weathers",
+      "given": "Ericka S."
+    },
+    {
+      "raw": "Fahle, Erin M.",
+      "family": "Fahle",
+      "given": "Erin M."
+    },
+    {
+      "raw": "Jang, Heewon",
+      "family": "Jang",
+      "given": "Heewon"
+    },
+    {
+      "raw": "Kalogrides, Demetra",
+      "family": "Kalogrides",
+      "given": "Demetra"
+    }
+  ],
+  "authors_text": "Reardon, Sean F.; Weathers, Ericka S.; Fahle, Erin M.; Jang, Heewon; Kalogrides, Demetra",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1177/00031224241297263",
+  "doi_url": "https://doi.org/10.1177/00031224241297263",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224241297263",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224241297263.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

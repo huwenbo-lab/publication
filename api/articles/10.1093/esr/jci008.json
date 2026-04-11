@@ -1,0 +1,25 @@
+{
+  "title": "Explaining Cross-national Variation in Youth Unemployment",
+  "abstract": "There is wide variation in youth unemployment among OECD countries. This paper seeks to explain some of this variation on the basis of institutional and economic differences between countries. Economic differences are captured by the rate of adult unemployment, which proxies for the overall state of the labour market. Two institutional factors play a central part: the educational system’s role in signalling the suitability of a job seeker for a particular job, and the degree to which employers are prevented from dismissing workers. I show that, as might be expected, relative to the level of adult unemployment, youth unemployment is high in regulated labour markets in which employers are restricted in their freedom to dismiss unsuitable workers. Conversely, it tends to be low in liberal labour markets and also in countries in which the educational system sends very clear signals about job seekers’ abilities and skills. This latter can offset the tendency for higher youth unemployment in regulated labour markets. These arguments are supported by the results of regression analyses using data from 27 OECD countries from the late 1990s.",
+  "authors": [
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    }
+  ],
+  "authors_text": "Breen, Richard",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1093/esr/jci008",
+  "doi_url": "https://doi.org/10.1093/esr/jci008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

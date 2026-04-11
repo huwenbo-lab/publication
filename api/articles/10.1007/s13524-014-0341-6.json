@@ -1,0 +1,40 @@
+{
+  "title": "Sibling Similarity in Family Formation",
+  "abstract": "AbstractSibling studies have been widely used to analyze the impact of family background on socioeconomic and, to a lesser extent, demographic outcomes. We contribute to this literature with a novel research design that combines sibling comparisons and sequence analysis to analyze longitudinal family-formation trajectories of siblings and unrelated persons. This allows us to scrutinize in a more rigorous way whether sibling similarity exists in family-formation trajectories and whether siblings’ shared background characteristics, such as parental education and early childhood family structure, can account for similarity in family formation. We use Finnish register data from 1987 through 2007 to construct longitudinal family-formation trajectories in young adulthood for siblings and unrelated dyads (N = 14,257 dyads). Findings show that family formation is moderately but significantly more similar for siblings than for unrelated dyads, also after controlling for crucial parental background characteristics. Shared parental background characteristics add surprisingly little to account for sibling similarity in family formation. Instead, gender and the respondents’ own education are more decisive forces in the stratification of family formation. Yet, family internal dynamics seem to reinforce this stratification such that siblings have a higher probability to experience similar family-formation patterns. In particular, patterns that correspond with economic disadvantage are concentrated within families. This is in line with a growing body of research highlighting the importance of family structure in the reproduction of social inequality.",
+  "authors": [
+    {
+      "raw": "Raab, Marcel",
+      "family": "Raab",
+      "given": "Marcel"
+    },
+    {
+      "raw": "Fasang, Anette Eva",
+      "family": "Fasang",
+      "given": "Anette Eva"
+    },
+    {
+      "raw": "Karhula, Aleksi",
+      "family": "Karhula",
+      "given": "Aleksi"
+    },
+    {
+      "raw": "Erola, Jani",
+      "family": "Erola",
+      "given": "Jani"
+    }
+  ],
+  "authors_text": "Raab, Marcel; Fasang, Anette Eva; Karhula, Aleksi; Erola, Jani",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0341-6",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0341-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0341-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0341-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

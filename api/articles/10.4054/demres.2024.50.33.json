@@ -1,0 +1,35 @@
+{
+  "title": "Migration, daily commuting, or second residence? The role of location-specific capital and distance to workplace in regional mobility decisions",
+  "abstract": "BACKGROUND If a new job is located in a different region from the place of residence, individuals or households can choose between moving or commuting. However, so far mobility alternatives and their drivers remain under-researched from a comparative perspective. OBJECTIVE We investigate the determinants of the mobility choices of individuals who have taken a distant job (50 km or more), considering three options, (1) permanent migration, (2) daily commuting, (3) weekly commuting (i.e., a second residence), thereby focusing on the interplay between migration costs linked to different sources of location-specific capital (property ownership, working partner, school-age children) and transition costs linked to the distance travelled. METHODS We use longitudinal data from the German Socio-economic Panel (SOEP, 2001-2019) and estimate probit regression models with Heckman correction to account for sample selection. RESULTS We find that a large distance to the workplace favors the decision to migrate or to commute weekly, while a high endowment with location-specific capital favors daily or weekly commuting. Weekly commuting is particularly chosen when both migration and transition costs are very high. However, parents of school-age children are more inclined to commute daily, suggesting that they are often more willing to accept high transition costs than to be separated from their family during the week. CONTRIBUTION This study is one of the first to differentiate between daily and weekly commuting in a comparative analysis of mobility determinants. It complements previous findings by relying on a precise measure of spatial distance and examining real mobility behavior instead of self-reported mobility intentions.",
+  "authors": [
+    {
+      "raw": "Skora, Thomas",
+      "family": "Skora",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Petzold, Knut",
+      "family": "Petzold",
+      "given": "Knut"
+    },
+    {
+      "raw": "Rueger, Heiko",
+      "family": "Rueger",
+      "given": "Heiko"
+    }
+  ],
+  "authors_text": "Skora, Thomas; Petzold, Knut; Rueger, Heiko",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.33",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

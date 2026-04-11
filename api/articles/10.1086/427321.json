@@ -1,0 +1,35 @@
+{
+  "title": "The emperor's dilemma: A computational model of self-enforcing norms",
+  "abstract": "The authors demonstrate the uses of agent-based computational models in an application to a social enigma they call the emperor's dilemma, based on the Hans Christian Andersen fable. In this model, agents must decide whether to comply with and enforce a norm that is supported by a few fanatics and opposed by the vast majority. They find that cascades of self-reinforcing support for a highly unpopular norm cannot occur in a fully connected social network. However, if agents' horizons are limited to immediate neighbors, highly unpopular norms can emerge locally and then spread. One might expect these cascades to be more likely as the number of true believers increases, and bridge ties are created between otherwise distant actors. Surprisingly, the authors observed quite the opposite effects.",
+  "authors": [
+    {
+      "raw": "Centola, D",
+      "family": "Centola",
+      "given": "D"
+    },
+    {
+      "raw": "Willer, R",
+      "family": "Willer",
+      "given": "R"
+    },
+    {
+      "raw": "Macy, M",
+      "family": "Macy",
+      "given": "M"
+    }
+  ],
+  "authors_text": "Centola, D; Willer, R; Macy, M",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2005,
+  "doi": "10.1086/427321",
+  "doi_url": "https://doi.org/10.1086/427321",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F427321",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/427321.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

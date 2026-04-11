@@ -1,0 +1,30 @@
+{
+  "title": "Now-casting Romanian migration into the United Kingdom by using Google Search engine data",
+  "abstract": "BACKGROUND Short-term forecasts of international migration are often based on data that are incom-plete, biased, and reported with delays. There is also a scarcity of migration forecasts based on combined traditional and new forms of data. OBJECTIVE This research assessed an inclusive approach of supplementing official migration statis-tics, typically reported with a delay, with the so-called big data from Google searches to produce short-term forecasts (now-casts) of immigration flows from Romania to the United Kingdom. METHODS Google Trends data were used to create composite variables depicting the general interest of Romanians in migrating into the United Kingdom. These variables were then assessed as predictors and compared with benchmark results by using univariate time series mod-els. RESULTS The proposed Google Trends indices related to employment and education, which exhaust all possible keywords and eliminate language bias, match trends observed in the migration statistics. They are also capable of moderate reductions in prediction errors. CONCLUSIONS Google Trends data have some potential to indicate up-to-date current trends of interest in mobility, which may serve as useful predictors of sudden changes in migration. However, these data do not always improve the accuracy of forecasts. The usability of Google Trends is also limited to short-term migration forecasting and requires understanding of contexts surrounding origin and destination countries. CONTRIBUTION This work provides an example on combining Google Trends and official migration data to produce short-term forecasts, illustrated with flows from Romania to the UK. It also discusses caveats and suggests future work for using these data in migration forecasting.",
+  "authors": [
+    {
+      "raw": "Avramescu, Andreea",
+      "family": "Avramescu",
+      "given": "Andreea"
+    },
+    {
+      "raw": "Wisniowski, Arkadiusz",
+      "family": "Wisniowski",
+      "given": "Arkadiusz"
+    }
+  ],
+  "authors_text": "Avramescu, Andreea; Wisniowski, Arkadiusz",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.40",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.40",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.40",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.40.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

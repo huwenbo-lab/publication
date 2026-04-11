@@ -1,0 +1,35 @@
+{
+  "title": "Accounting for Divorce in Marital Research: An Application to Growth Mixture Modeling",
+  "abstract": "Objective The goal of this study was to understand the implications of omitting versus retaining individuals known to eventually divorce in the longitudinal modeling of marital quality trajectories. Background Change in marital quality has been the focus of basic and applied research as well as policy initiatives for the past several decades. Scholars have used group-based modeling techniques to better understand how enduring marriages develop over time. Previous studies, however, have not directly examined the implications of including versus excluding individuals who go on to divorce for shape or number of identified marital development trajectories. Method The present study used growth mixture modeling and the Marital Instability over the Life Course data set to examine patterns of marital happiness. Analyses were first conducted only on continuously married men (n = 269) and women (n = 438). Identical analytic procedures were then used with combined samples of those who were continuously married plus those who eventually divorced (n = 358 men; n = 588 women). Results The results indicated that retaining those who go on to divorce increased the number of classes reported and changed the composition of class membership and patterning of marital quality over time for both men and women. Conclusion The study concludes with a recommended three-step procedure for modeling marital change when samples include individuals who divorce following a baseline assessment.",
+  "authors": [
+    {
+      "raw": "Kanter, Jeremy B.",
+      "family": "Kanter",
+      "given": "Jeremy B."
+    },
+    {
+      "raw": "Proulx, Christine M.",
+      "family": "Proulx",
+      "given": "Christine M."
+    },
+    {
+      "raw": "Monk, J. Kale",
+      "family": "Monk",
+      "given": "J. Kale"
+    }
+  ],
+  "authors_text": "Kanter, Jeremy B.; Proulx, Christine M.; Monk, J. Kale",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12547",
+  "doi_url": "https://doi.org/10.1111/jomf.12547",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12547",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12547.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

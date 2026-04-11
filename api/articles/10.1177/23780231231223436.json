@@ -1,0 +1,35 @@
+{
+  "title": "Cleaning Up the Neighborhood: White Influx and Differential Requests for Services",
+  "abstract": "Visible signs of disorder serve as markers of difference across urban space. Sociological theory suggests that variation in collective social control efforts contributes to variation in physical disorder. However, how structural characteristics shape differences in informal social control remains underexplored because of limited data on disorder and social control. Using city service request data and a novel dataset drawing on Google Street View imagery and computer vision methods, the authors examine the neighborhood characteristics associated with propensities to request trash-related services across five large U.S. cities. The authors find that socioeconomically advantaged neighborhoods and those with fewer minority and foreign-born residents have higher propensities. However, an increase in White residents, but not necessarily an increase in high–socioeconomic status residents, is strongly associated with greater propensities. The authors argue that incoming White residents introduce unique dynamics of social control that are not necessarily collective, thereby affecting spatial inequality and power relations within their new neighborhoods.",
+  "authors": [
+    {
+      "raw": "Dahir, Nima",
+      "family": "Dahir",
+      "given": "Nima"
+    },
+    {
+      "raw": "Hwang, Jackelyn",
+      "family": "Hwang",
+      "given": "Jackelyn"
+    },
+    {
+      "raw": "Yu, Ang",
+      "family": "Yu",
+      "given": "Ang"
+    }
+  ],
+  "authors_text": "Dahir, Nima; Hwang, Jackelyn; Yu, Ang",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231231223436",
+  "doi_url": "https://doi.org/10.1177/23780231231223436",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231223436",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231223436.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

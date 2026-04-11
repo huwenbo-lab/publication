@@ -1,0 +1,30 @@
+{
+  "title": "Differences in Child Health Across Rural, Urban, and Slum Areas: Evidence From India",
+  "abstract": "The developing world is rapidly urbanizing, but an understanding of how child health differs across urban and rural areas is lacking. We examine the association between area of residence and child health in India, focusing on composition and selection effects. Simple height-for-age averages show that rural Indian children have the poorest health and urban children have the best, with slum children in between. With wealth or observed health environment held constant, the urban height-for-age advantage disappears, and slum children fare significantly worse than their rural counterparts. Hence, differences in composition across areas mask a substantial negative association between living in slums and height-for-age. This association is more negative for girls than boys. Furthermore, a large number of girls are missing in slums; we argue that this implies that the negative association between living in slums and health is even stronger than our estimate. The missing girls also help explain why slum girls appear to have a substantially lower mortality than rural girls, whereas slum boys have a higher mortality risk than rural boys. We estimate that slum conditions (such as overcrowding and open sewers), which the survey does not adequately capture, are associated with 20 % to 37 % of slum children's stunting risk.",
+  "authors": [
+    {
+      "raw": "Portner, Claus C.",
+      "family": "Portner",
+      "given": "Claus C."
+    },
+    {
+      "raw": "Su, Yu-hsuan",
+      "family": "Su",
+      "given": "Yu-hsuan"
+    }
+  ],
+  "authors_text": "Portner, Claus C.; Su, Yu-hsuan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-017-0634-7",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0634-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0634-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0634-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

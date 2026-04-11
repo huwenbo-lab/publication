@@ -1,0 +1,35 @@
+{
+  "title": "Lack of skills or formal qualifications? New evidence on cross-country differences in the labor market disadvantage of less-educated adults",
+  "abstract": "We use PIAAC data on the literacy and numeracy skills of 49,366 25-to-54-year-olds in 27 countries to shed new light on cross-national variation in the labor market disadvantage of less-educated adults (i.e., those who have not completed upper secondary education). Our empirical analysis focuses on the occupational status gap between less-educated adults and those with a degree at the upper secondary level and yields three main findings. First, individual-level differences in literacy and numeracy skills are an important source of cross-national variation in labor market inequalities by educational attainment, but substantial gaps in occupational status remain even after accounting for individuals' actual skills and further socio-demographics. Second, this remaining occupational status gap rises with a country's level of skills transparency (i.e., the extent to which formal qualifications are more informative about actual skills): labor market gaps increase as the skills gap between the two educational groups increases and as the within-group distribution of skills becomes more homogeneous. Third, country differences in skills transparency seem to be the primary mediating channel for the inequality-enhancing effect of tracking in secondary education found in previous research.",
+  "authors": [
+    {
+      "raw": "Heisig, Jan Paul",
+      "family": "Heisig",
+      "given": "Jan Paul"
+    },
+    {
+      "raw": "Gesthuizen, Maurice",
+      "family": "Gesthuizen",
+      "given": "Maurice"
+    },
+    {
+      "raw": "Solga, Heike",
+      "family": "Solga",
+      "given": "Heike"
+    }
+  ],
+  "authors_text": "Heisig, Jan Paul; Gesthuizen, Maurice; Solga, Heike",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.06.005",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.06.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.06.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.06.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

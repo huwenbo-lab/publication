@@ -1,0 +1,50 @@
+{
+  "title": "Organized Violence and Institutional Child Delivery: Micro-Level Evidence From Sub-Saharan Africa, 1989-2014",
+  "abstract": "The conditions under which a mother gives birth greatly affect the health risk of both the mother and the child. This article addresses how local exposure to organized violence affects whether women give birth in a health facility. We combine geocoded data on violent events from the Uppsala Conflict Data Program with georeferenced survey data on the use of maternal health care services from the Demographic and Health Surveys. Our sample covers 569,201 births by 390,574 mothers in 31 countries in sub-Saharan Africa. We use a mother fixed-effects analysis to estimate the effect of recent organized violence events within a radius of 50 km of the home of each mother on the likelihood that her child is born in a health facility. The results indicate that geographical and temporal proximity to organized violence significantly reduces the likelihood of institutional births. Although the level of maternal health care overall is lower in rural areas, the negative effect of violence appears to be stronger in urban areas. The study further underscores the importance of household and individual resilience, indicating that the effect of organized violence on institutional child delivery is greater among poor and less-educated mothers.",
+  "authors": [
+    {
+      "raw": "Ostby, Gudrun",
+      "family": "Ostby",
+      "given": "Gudrun"
+    },
+    {
+      "raw": "Urdal, Henrik",
+      "family": "Urdal",
+      "given": "Henrik"
+    },
+    {
+      "raw": "Tollefsen, Andreas Foro",
+      "family": "Tollefsen",
+      "given": "Andreas Foro"
+    },
+    {
+      "raw": "Kotsadam, Andreas",
+      "family": "Kotsadam",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Belbo, Ragnhild",
+      "family": "Belbo",
+      "given": "Ragnhild"
+    },
+    {
+      "raw": "Ormhaug, Christin",
+      "family": "Ormhaug",
+      "given": "Christin"
+    }
+  ],
+  "authors_text": "Ostby, Gudrun; Urdal, Henrik; Tollefsen, Andreas Foro; Kotsadam, Andreas; Belbo, Ragnhild; Ormhaug, Christin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0685-4",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0685-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0685-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0685-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

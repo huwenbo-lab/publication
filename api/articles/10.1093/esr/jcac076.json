@@ -1,0 +1,35 @@
+{
+  "title": "The plateauing of cognitive ability among top earners",
+  "abstract": "Are the best-paying jobs with the highest prestige done by individuals of great intelligence? Past studies find job success to increase with cognitive ability, but do not examine how, conversely, ability varies with job success. Stratification theories suggest that social background and cumulative advantage dominate cognitive ability as determinants of high occupational success. This leads us to hypothesize that among the relatively successful, average ability is concave in income and prestige. We draw on Swedish register data containing measures of cognitive ability and labour-market success for 59,000 men who took a compulsory military conscription test. Strikingly, we find that the relationship between ability and wage is strong overall, yet above euro60,000 per year ability plateaus at a modest level of +1 standard deviation. The top 1 per cent even score slightly worse on cognitive ability than those in the income strata right below them. We observe a similar but less pronounced plateauing of ability at high occupational prestige.",
+  "authors": [
+    {
+      "raw": "Keuschnigg, Marc",
+      "family": "Keuschnigg",
+      "given": "Marc"
+    },
+    {
+      "raw": "van de Rijt, Arnout",
+      "family": "van de Rijt",
+      "given": "Arnout"
+    },
+    {
+      "raw": "Bol, Thijs",
+      "family": "Bol",
+      "given": "Thijs"
+    }
+  ],
+  "authors_text": "Keuschnigg, Marc; van de Rijt, Arnout; Bol, Thijs",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac076",
+  "doi_url": "https://doi.org/10.1093/esr/jcac076",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac076",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac076.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

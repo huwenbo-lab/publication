@@ -1,0 +1,35 @@
+{
+  "title": "Opting out or left out? The gendered determinants of marriage in South Korea",
+  "abstract": "Objective This study examines the determinants of marriage decline in South Korea, a representative case of the demographic crisis sweeping East Asia.Background The major theories accounting for marriage and family trends are for the most part based on Western cases. A complementing focus on non-Western societies is likely to identify a more diverse range of processes governing marriage patterns in advanced capitalist societies.Method The study draws on the Korean Labor and Income Panel Study (KLIPS) to analyze a sample of 4201 unmarried individuals whose longitudinal data were organized into 55,989 person-year records. Discrete-time hazard models incorporating 23 waves of KLIPS data (1998-2020) identify the gendered determinants of marriage.Results Socioeconomic resources continue to positively impact men's marriage chances although income, relative to employment status and educational attainment, has become paramount for members of the younger 1980s cohort. Parental wealth, an important precondition for home purchases, also positively impacts the likelihood of marriage for men. Income and parental wealth have become important for women as well but unlike the documented educational crossover that has occurred elsewhere, high educational attainment remains negatively associated with marriage probability for Korean women.Conclusion This study clarifies the scope conditions for arguments about the shifting economic foundations of marriage, while foregrounding the enduring legacy of extended-family resources in strong familism societies. The results also lend empirical leverage to past studies highlighting the clear disincentives for marriage among highly educated women and provide a more comprehensive picture of why underprivileged men are being left out of Korea's marriage market.",
+  "authors": [
+    {
+      "raw": "Chang, Paul Y.",
+      "family": "Chang",
+      "given": "Paul Y."
+    },
+    {
+      "raw": "Oh, Jihye",
+      "family": "Oh",
+      "given": "Jihye"
+    },
+    {
+      "raw": "Kim, Young-Mi",
+      "family": "Kim",
+      "given": "Young-Mi"
+    }
+  ],
+  "authors_text": "Chang, Paul Y.; Oh, Jihye; Kim, Young-Mi",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12935",
+  "doi_url": "https://doi.org/10.1111/jomf.12935",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12935",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12935.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

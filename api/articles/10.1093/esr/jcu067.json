@@ -1,0 +1,30 @@
+{
+  "title": "Migrant Achievement Penalties in Western Europe: Do Educational Systems Matter?",
+  "abstract": "This article presents a comparative examination of the educational underachievement of second-generation immigrants in Western Europe near the end of compulsory schooling, based on the 2006–2009 waves of the Programme for International Student Assessment survey. We propose a new measure of migrant educational penalty—revealing the relative position of immigrant students within the achievement distribution of natives with the same socio-economic background—and show that, in most countries, children of immigrants are substantially disadvantaged. We find that the severity of such penalties varies across countries in a way that can neither be reduced to compositional issues, nor equated to educational inequalities driven by socio-economic status. Based on a simple theoretical model of individual student achievement, we detect features of educational systems that might be specifically relevant for the relative disadvantage of immigrant students. By means of recursive partitioning methods, we explore the extent to which these features can explain the cross-country variability in migrant penalties. Our findings suggest that an early inclusion in the educational system may be beneficial for children of immigrants, as countries with high preschool attendance rates or early start of compulsory schooling display mild penalties. Finally, we find that another important institutional aspect is the degree to which second-generation immigrants are marginalized in low-quality schools, in stratified as well as comprehensive educational systems.",
+  "authors": [
+    {
+      "raw": "Borgna, Camilla",
+      "family": "Borgna",
+      "given": "Camilla"
+    },
+    {
+      "raw": "Contini, Dalit",
+      "family": "Contini",
+      "given": "Dalit"
+    }
+  ],
+  "authors_text": "Borgna, Camilla; Contini, Dalit",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1093/esr/jcu067",
+  "doi_url": "https://doi.org/10.1093/esr/jcu067",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcu067",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcu067.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

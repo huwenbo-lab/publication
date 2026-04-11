@@ -1,0 +1,35 @@
+{
+  "title": "Internal Migration and Loneliness in Childhood: The Moderating Role of Family Structure and Cultural Individualism",
+  "abstract": "Abstract The negative impact of childhood internal migration on diverse life outcomes is well documented. The main hypothesis to explain this association is the severance of social ties. However, empirical evidence on the link between internal migration and loneliness in childhood is critically lacking. We address this gap by establishing the association between childhood loneliness and inter and intra-regional migration in Europe. Using retrospective life-history data from the Survey of Health, Ageing and Retirement in Europe in 26 countries, we run a series of country-fixed effect logistic regression for cohorts born before 1967. We find that the probability of often being lonely is 25–39 per cent higher among children who moved at least once, although having siblings exert a strong protective effect. The strength of the association between loneliness and internal migration dissipates with duration of residence, suggesting that children progressively adjust to new surroundings, particularly if they migrated before starting school. However, the mitigating role of duration of residence diminishes with the number of past moves. Despite the limitations of retrospective survey data, our results show a clear association between internal migration and loneliness, highlight the increased risks of chronic migration among children and lend support to the loss-of-social-networks theory, particularly in individualist societies where friendship plays a greater role in social networks and where children consistently report higher levels of loneliness.",
+  "authors": [
+    {
+      "raw": "Bernard, Aude",
+      "family": "Bernard",
+      "given": "Aude"
+    },
+    {
+      "raw": "McMullin, Patricia",
+      "family": "McMullin",
+      "given": "Patricia"
+    },
+    {
+      "raw": "Vidal, Sergi",
+      "family": "Vidal",
+      "given": "Sergi"
+    }
+  ],
+  "authors_text": "Bernard, Aude; McMullin, Patricia; Vidal, Sergi",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09741-x",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09741-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09741-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09741-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

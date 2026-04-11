@@ -1,0 +1,30 @@
+{
+  "title": "Nonresident Parent Wealth Among Children",
+  "abstract": "Wealth matters for children's well-being. However, most research has considered only the wealth held in children's resident households, even though more than one quarter of U.S. children have a parent living elsewhere. We provide the first national estimates of nonresident parent wealth among children who ever lived with both parents in a shared household. We use the Panel Study of Income Dynamics (1984-2021)-whose survey design enables us to produce unbiased estimates with respect to factors that condition access to nonresident parents-to describe the characteristics of nonresident parent wealth, children's potential access to it, and its contribution to educational attainment. We find that nonresident parent wealth varies substantially and that the rank-rank correlation between nonresident and resident parent wealth is roughly .3. Nonresident parent wealth is positively predictive of more frequent parent-child contact, more consistent and higher value child support payments, and children's bachelor's degree attainment, suggesting that it is related to multiple domains of parenting and child well-being. The findings demonstrate that accounting for the spread of resources across households, but within a family system, is critical to understanding broader patterns of inequality in American family life.",
+  "authors": [
+    {
+      "raw": "Hays, Jake",
+      "family": "Hays",
+      "given": "Jake"
+    },
+    {
+      "raw": "Fomby, Paula",
+      "family": "Fomby",
+      "given": "Paula"
+    }
+  ],
+  "authors_text": "Hays, Jake; Fomby, Paula",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11790542",
+  "doi_url": "https://doi.org/10.1215/00703370-11790542",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11790542",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11790542.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

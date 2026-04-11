@@ -1,0 +1,25 @@
+{
+  "title": "A Data-Driven Approach to the Fragile Families Challenge: Prediction through Principal-Components Analysis and Random Forests",
+  "abstract": "Sociological research typically involves exploring theoretical relationships, but the emergence of “big data” enables alternative approaches. This work shows the promise of data-driven machine-learning techniques involving feature engineering and predictive model optimization to address a sociological data challenge. The author’s group develops improved generalizable models to identify at-risk families. Principal-components analysis and decision tree modeling are used to predict six main dependent variables in the Fragile Families Challenge, successfully modeling one binary variable but no continuous dependent variables in the diagnostic data set. This indicates that some binary dependent variables are more predictable using a reduced set of uncorrelated independent variables, and continuous dependent variables demand more complexity.",
+  "authors": [
+    {
+      "raw": "Compton, Ryan",
+      "family": "Compton",
+      "given": "Ryan"
+    }
+  ],
+  "authors_text": "Compton, Ryan",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118818720",
+  "doi_url": "https://doi.org/10.1177/2378023118818720",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118818720",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118818720.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

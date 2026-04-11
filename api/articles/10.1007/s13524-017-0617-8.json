@@ -1,0 +1,45 @@
+{
+  "title": "Work Disability Among Native-born and Foreign-born Americans: On Origins, Health, and Social Safety Nets",
+  "abstract": "Public debates about both immigration policy and social safety net programs are increasingly contentious. However, little research has explored differences in health within America's diverse population of foreign-born workers, and the effect of these workers on public benefit programs is not well understood. We investigate differences in work disability by nativity and origins and describe the mix of health problems associated with receiving Social Security Disability Insurance benefits. Our analysis draws on two large national data sources-the American Community Survey and comprehensive administrative records from the Social Security Administration-to determine the prevalence and incidence of work disability between 2001 and 2010. In sharp contrast to prior research, we find that foreign-born adults are substantially less likely than native-born Americans to report work disability, to be insured for work disability benefits, and to apply for those benefits. Overall and across origins, the foreign-born also have a lower incidence of disability benefit award. Persons from Africa, Northern Europe, Canada, and parts of Asia have the lowest work disability benefit prevalence rates among the foreign-born; persons from Southern Europe, Western Europe, the former Soviet Union, and the Caribbean have the highest rates.",
+  "authors": [
+    {
+      "raw": "Engelman, Michal",
+      "family": "Engelman",
+      "given": "Michal"
+    },
+    {
+      "raw": "Kestenbaum, Bert M.",
+      "family": "Kestenbaum",
+      "given": "Bert M."
+    },
+    {
+      "raw": "Zuelsdorff, Megan L.",
+      "family": "Zuelsdorff",
+      "given": "Megan L."
+    },
+    {
+      "raw": "Mehta, Neil K.",
+      "family": "Mehta",
+      "given": "Neil K."
+    },
+    {
+      "raw": "Lauderdale, Diane S.",
+      "family": "Lauderdale",
+      "given": "Diane S."
+    }
+  ],
+  "authors_text": "Engelman, Michal; Kestenbaum, Bert M.; Zuelsdorff, Megan L.; Mehta, Neil K.; Lauderdale, Diane S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0617-8",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0617-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0617-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0617-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

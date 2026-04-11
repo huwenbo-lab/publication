@@ -1,0 +1,35 @@
+{
+  "title": "Adult mortality among second-generation immigrants in France: Results from a nationally representative record linkage study",
+  "abstract": "BACKGROUND France has a large population of second-generation immigrants (i.e., native-born children of immigrants) who are known to experience important socioeconomic disparities by country of origin. The extent to which they also experience disparities in mortality, however, has not been previously examined. METHODS We used a nationally representative sample of individuals 18 to 64 years old in 1999 with mortality follow-up via linked death records until 2010. We compared mortality levels for second-generation immigrants with their first-generation counterparts and with the reference (neither first- nor second-generation) population using mortality hazard ratios as well as probabilities of dying between age 18 and 65. We also adjusted hazard ratios using educational attainment reported at baseline. RESULTS We found a large amount of excess mortality among second-generation males of North African origin compared to the reference population with no migrant background. This excess mortality was not present among second-generation males of southern European origin, for whom we instead found a mortality advantage, nor among North African- origin males of the first-generation. This excess mortality remained large and significant after adjusting for educational attainment. CONTRIBUTION In these first estimates of mortality among second-generation immigrants in France, males of North African origin stood out as a subgroup experiencing a large amount of excess mortality. This finding adds a public health dimension to the various disadvantages already documented for this subgroup. Overall, our results highlight the importance of second-generation status as a significant and previously unknown source of health disparity in France.",
+  "authors": [
+    {
+      "raw": "Guillot, Michel",
+      "family": "Guillot",
+      "given": "Michel"
+    },
+    {
+      "raw": "Khlat, Myriam",
+      "family": "Khlat",
+      "given": "Myriam"
+    },
+    {
+      "raw": "Wallace, Matthew",
+      "family": "Wallace",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Guillot, Michel; Khlat, Myriam; Wallace, Matthew",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.54",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.54",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.54",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.54.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

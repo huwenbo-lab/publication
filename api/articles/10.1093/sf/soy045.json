@@ -1,0 +1,25 @@
+{
+  "title": "Moral Economies or Hidden Talents? A Longitudinal Analysis of Union Decline and Wage Inequality, 1973-2015",
+  "abstract": "The decline of labor unions in the United States has been central to the rise of wage inequality since the early 1970s. Recently, sociologists have noted that unionization influences inequality through both direct and indirect pathways, reconciled with the concept of the moral economy, broadly shared norms of fairness institutionalized in market rules and customs that can reduce inequality in pay. While the theory of the moral economy has been resonant in the stratification literature, few have held it to empirical scrutiny. The current study assesses how selection bias from unobserved worker-level heterogeneity influences the associations between unionization and wage attainment and dispersion. To do so, I merge data from the Current Population Survey to 33 waves of longitudinal data from the Panel Study of Income Dynamics. Using combinations of variance function regression models, fixed-effects regression models, and dynamic panel models, I find that the magnitudes of associations tend to be reduced by around half after accounting for unobserved heterogeneity. Yet, more critically, the pathways linking unions and wage inequality via the moral economy prove to be remarkably robust to all tests cast upon them. Results highlight the fundamental importance of labor power resources for the contemporary rise of inequality. They provide a micro-level foundation for theories linking unionization and stratification. They identify the importance of union decline for rising earnings volatility. And they provide implications for the fallout of economic well-being for workers following antiunion policy change. Additional theoretical and policy implications are discussed.",
+  "authors": [
+    {
+      "raw": "VanHeuvelen, Tom",
+      "family": "VanHeuvelen",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "VanHeuvelen, Tom",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy045",
+  "doi_url": "https://doi.org/10.1093/sf/soy045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

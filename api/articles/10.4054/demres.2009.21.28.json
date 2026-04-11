@@ -1,0 +1,30 @@
+{
+  "title": "Assortative matching among same-sex and different-sex couples in the United States, 1990-2000",
+  "abstract": "Same-sex couples are less likely to be homogamous than different-sex couples on a variety of characteristics including race/ethnicity, age, and education. This study confirms results from previous studies which used 1990 U.S. census data and extends previous analyses to examine changes from 1990 to 2000. We find that same-sex male cohabitors are generally the least likely to resemble one another, followed by same-sex female cohabitors, different-sex cohabitors, and different-sex married couples. Despite estimated growth in the numbers of same-sex couples in the population and the increasing acceptance of same-sex unions, we find little evidence of diminishing differences in the resemblance of same- and different-sex couples between 1990 and 2000, with the possible exception of educational homogamy.",
+  "authors": [
+    {
+      "raw": "Schwartz, Christine",
+      "family": "Schwartz",
+      "given": "Christine"
+    },
+    {
+      "raw": "Graf, Nikki",
+      "family": "Graf",
+      "given": "Nikki"
+    }
+  ],
+  "authors_text": "Schwartz, Christine; Graf, Nikki",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2009,
+  "doi": "10.4054/demres.2009.21.28",
+  "doi_url": "https://doi.org/10.4054/demres.2009.21.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2009.21.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2009.21.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

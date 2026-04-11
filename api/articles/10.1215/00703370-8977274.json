@@ -1,0 +1,35 @@
+{
+  "title": "The Impact of Center-Based Childcare Attendance on Early Child Development: Evidence From the French Elfe Cohort",
+  "abstract": "Proponents of early childhood education and care programs cite evidence that high-quality center-based childcare has positive impacts on child development, particularly for disadvantaged children. However, much of this evidence stems from randomized evaluations of small-scale intensive programs based in the United States and other Anglo/English-speaking countries. Evidence is more mixed with respect to widespread or universal center-based childcare provision. In addition, most evidence is based on childcare experiences of 3- to 5-year-old children; less is known about the impact of center-based care in earlier childhood. The French context is particularly suited to such interrogation because the majority of French children who attend center-based care do so in high-quality, state-funded, state-regulated centers, known as creches, and before age 3. We use data from a large, nationally representative French birth cohort, the Etude Longitudinale Francais depuis l'Enfance (Elfe), and an instrumental variables strategy that leverages exogenous variation in both birth quarter and local creche supply to estimate whether creche attendance at age 1 has an impact on language, motor skills, and child behavior at age 2. Results indicate that creche attendance has a positive impact on language skills, no impact on motor skills, and a negative impact on behavior. Moreover, the positive impact on language skills is particularly concentrated among disadvantaged children. This implies that facilitating increased creche access among disadvantaged families may hold potential for decreasing early socioeconomic disparities in language development and, given the importance of early development for later-life outcomes, thereby have an impact on long-term population inequalities.",
+  "authors": [
+    {
+      "raw": "Berger, Lawrence M.",
+      "family": "Berger",
+      "given": "Lawrence M."
+    },
+    {
+      "raw": "Panico, Lidia",
+      "family": "Panico",
+      "given": "Lidia"
+    },
+    {
+      "raw": "Solaz, Anne",
+      "family": "Solaz",
+      "given": "Anne"
+    }
+  ],
+  "authors_text": "Berger, Lawrence M.; Panico, Lidia; Solaz, Anne",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8977274",
+  "doi_url": "https://doi.org/10.1215/00703370-8977274",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8977274",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8977274.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

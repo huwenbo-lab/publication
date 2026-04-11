@@ -1,0 +1,25 @@
+{
+  "title": "Heatmaps for Patterns of Association in log-Linear Models",
+  "abstract": "Log-linear models offer a detailed characterization of the association between categorical variables, but the breadth of their outputs is difficult to grasp because of the large number of parameters these models entail. Revisiting seminal findings and data from sociological work on social mobility, the author illustrates the use of heatmaps as a visualization technique to convey the complex patterns of association captured by log-linear models. In particular, turning log odds ratios derived from a model’s predicted counts into heatmaps makes it possible to summarize large amounts of information and facilitates comparison across models’ outcomes.",
+  "authors": [
+    {
+      "raw": "Bucca, Mauricio",
+      "family": "Bucca",
+      "given": "Mauricio"
+    }
+  ],
+  "authors_text": "Bucca, Mauricio",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023119899219",
+  "doi_url": "https://doi.org/10.1177/2378023119899219",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119899219",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119899219.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

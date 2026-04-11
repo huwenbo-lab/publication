@@ -1,0 +1,25 @@
+{
+  "title": "Achievement and Ascription in Educational Attainment: Genetic and Environmental Influences on Adolescent Schooling",
+  "abstract": "The classic (“status attainment”) model of educational and occupational attainment suffers from three related shortcomings when used as a tool for comparative or policy-oriented research on social mobility: (1) ambiguity of model parameters as measures of opportunity for achievement vs. ascription; (2) vulnerability to incomplete specification of family background; and (3) confounding of environmental and genetic influences. These issues can be addressed in part by using a (“behavior genetic”) model that distinguishes variance components associated with genetic endowment, shared (or common) family environment, and unshared (or specific) environment. Size of the genetic component (heritability) measures opportunity for achievement; size of the shared environment component (environmentality) measures social ascription. A multivariate behavior genetic model of adolescent verbal IQ, grade point average and college plans is estimated using data for six types of adolescent sibling pairs living in the same household: MZ twins, DZ twins, full siblings, half siblings, cousins and non-related siblings. Results show large genetic components, relatively small shared environmental components, and large unshared environmental components for all three outcomes. Parameters of the behavior genetic model can be used to compare mobility regimes across social contexts and the model therefore provides an important tool for comparative social mobility research.",
+  "authors": [
+    {
+      "raw": "Nielsen, F.",
+      "family": "Nielsen",
+      "given": "F."
+    }
+  ],
+  "authors_text": "Nielsen, F.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2006,
+  "doi": "10.1353/sof.2006.0135",
+  "doi_url": "https://doi.org/10.1353/sof.2006.0135",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2006.0135",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2006.0135.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

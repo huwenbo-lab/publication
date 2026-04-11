@@ -1,0 +1,30 @@
+{
+  "title": "Who Receives Food Stamps During Adulthood? Analyzing Repeatable Events With Incomplete Event Histories",
+  "abstract": "AbstractUsing data from the Panel Study of Income Dynamics (PSID) from 1968 to 2005, we estimate the cumulative probability that young adults in the United States will receive food stamps during adulthood, and examine how that probability varies with an individual’s income and education at age 25 as well as by race and gender. We find that the probability of first food stamp receipt as an adult declines sharply with age, indicating that most adult recipients do so by age 40. Also, those receiving food stamps in early adulthood are likely to receive them again. For these reasons, and because food stamp receipt is a repeatable event, life table analyses that include individuals who are not observed until after they become exposed to the risk of food stamp receipt (whom we label “late entrants”) are likely to overstate cumulative participation during adulthood. For example, one often-cited study included individuals who enter their sample after age 20 (late entrants) and report that 50.8% of 20-year-olds are recipients by age 65. In contrast, when we exclude late entrants, we find that 39.2% of 20-year-olds and 29.7% of 25-year-olds receive benefits during adulthood.",
+  "authors": [
+    {
+      "raw": "Grieger, Lloyd D.",
+      "family": "Grieger",
+      "given": "Lloyd D."
+    },
+    {
+      "raw": "Danziger, Sheldon H.",
+      "family": "Danziger",
+      "given": "Sheldon H."
+    }
+  ],
+  "authors_text": "Grieger, Lloyd D.; Danziger, Sheldon H.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0056-x",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0056-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0056-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0056-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

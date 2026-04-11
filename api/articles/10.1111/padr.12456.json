@@ -1,0 +1,30 @@
+{
+  "title": "Trends and Patterns of Global Refugee Migration",
+  "abstract": "This paper studies long-term trends and patterns in global refugee migration. We explore the intensity, spread, and distance of refugee migration at a global, regional, and country level between 1951 and 2018. The analysis did not detect a long-term increase in the global intensity of refugee migration. Primarily depending on levels of conflict, refugee numbers have fluctuated at levels of between 0.1 and 0.3 percent of the world population. Apparent increases in numbers of the globally displaced are driven by the inclusion of populations and countries that were previously excluded from the data. While refugee populations continue to be concentrated in countries with low-to-medium income levels, the analysis reveals several geographic shifts in refugee migration. Refugees tend to come from a shrinking number of origin countries and move to an increasing variety of destination countries. This trend seems to reflect a concentration of recurrent conflict cycles in a relatively small number of countries and a parallel increase in the number of safe destinations. Although the vast majority of refugees remain near to origin countries, the average distance between origin and destination countries has increased over time, presumably linked to the greater ease of travel and migration-facilitating networks.",
+  "authors": [
+    {
+      "raw": "Fransen, Sonja",
+      "family": "Fransen",
+      "given": "Sonja"
+    },
+    {
+      "raw": "De Haas, Hein",
+      "family": "De Haas",
+      "given": "Hein"
+    }
+  ],
+  "authors_text": "Fransen, Sonja; De Haas, Hein",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2022,
+  "doi": "10.1111/padr.12456",
+  "doi_url": "https://doi.org/10.1111/padr.12456",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12456",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12456.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

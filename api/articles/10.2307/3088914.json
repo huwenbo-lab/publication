@@ -1,0 +1,30 @@
+{
+  "title": "The war at home: Antiwar protests and congressional voting, 1965 to 1973",
+  "abstract": "Time-series analysis is used to assess the relationship between antiwar protests and congressional voting on war-related roll calls during the Vietnam era. Using protest event data coded from The New York Times and counts of roll-call votes generated from congressional voting data, we test for three specific mechanisms: disruptive protest, signaling, and public opinion shift. Extreme forms of disruptive protest are hypothesized as having a direct positive effect on congressional voting. Lohmann's signaling model posits exactly the opposite relationship between protest and policy. Especially extreme protests are expected to have a negative effect on both the pace and pro-peace direction of congressional action. Conversely, large (and more moderate) protests are expected to have a positive effect on House and Senate voting. The final mechanism, public opinion shift, depicts the relationship as indirect, with protest encouraging public opinion change, which, in turn, encourages increasingly favorable congressional voting. The results are somewhat mixed with respect to all three mechanisms, but suggest an interesting general pattern. The most extreme or threatening forms of protest (e.g., those featuring violence by demonstrators and/or property damage) simultaneously increase pro-peace voting while depressing the overall pace of congressional action. The reverse is true for more persuasive forms of protest (e.g., large demonstrations), which appear to increase the pace of voting while depressing the likelihood of pro-peace outcomes.",
+  "authors": [
+    {
+      "raw": "McAdam, D",
+      "family": "McAdam",
+      "given": "D"
+    },
+    {
+      "raw": "Su, Y",
+      "family": "Su",
+      "given": "Y"
+    }
+  ],
+  "authors_text": "McAdam, D; Su, Y",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2002,
+  "doi": "10.2307/3088914",
+  "doi_url": "https://doi.org/10.2307/3088914",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088914",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088914.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

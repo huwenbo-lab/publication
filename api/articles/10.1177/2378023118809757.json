@@ -1,0 +1,30 @@
+{
+  "title": "Predicting Layoff among Fragile Families",
+  "abstract": "The loss of a job is the loss of a major social and economic role and is associated with long-term negative economic and psychological consequences for workers and families. Modeling the causal effects of a social process like layoff with observational data depends crucially on the degree to which the model accounts for the characteristics that predict loss. We report analyses predicting layoff in the Fragile Families data as part of the Fragile Families Challenge. Our model, grounded in empirical social science research on layoff, did not perform substantially worse than the best-performing model using data science techniques. This result is not fully unforeseen, given that layoff functions as a relatively exogenous shock. Future work using the results of the Challenge should attend to whether small improvements in prediction models, like those we observe across models of layoff, nevertheless significantly increase the validity of subsequent models for causal inference.",
+  "authors": [
+    {
+      "raw": "Ahearn, Caitlin E.",
+      "family": "Ahearn",
+      "given": "Caitlin E."
+    },
+    {
+      "raw": "Brand, Jennie E.",
+      "family": "Brand",
+      "given": "Jennie E."
+    }
+  ],
+  "authors_text": "Ahearn, Caitlin E.; Brand, Jennie E.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118809757",
+  "doi_url": "https://doi.org/10.1177/2378023118809757",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118809757",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118809757.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

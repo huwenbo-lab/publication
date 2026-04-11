@@ -1,0 +1,40 @@
+{
+  "title": "Early Adolescent Health Problems, School Performance, and Upper Secondary Educational Pathways: A Counterfactual-Based Mediation Analysis",
+  "abstract": "Early health problems predict lower educational attainment, but it remains unclear whether this is due to health problems weakening school performance or due to other mechanisms operating above and beyond school performance. We employed counterfactual-based mediation analysis on a register-based sample of Finnish adolescents born in 1988-1993 (n = 73,072) to longitudinally assess the direct (unexplained byschool performance, as measured by grade point average) and indirect (pure mediation and mediated interaction via school performance) effects of early adolescent somatic and mental health problems on the noncompletion of upper secondary education and track choice (vocational vs. general). Mental disorders were associated with the largest increases in both noncompletion and choosing the vocational track, but somatic conditions also showed small but robust associations. Weakened school performance mediated up to one-third of the differences in noncompletion and around half of the differences in track choice. When the same analyses were conducted within sibships, the total effects of health problems on educational pathways were weaker, but the contribution of school performance remained similar. In counterfactual simulations that assigned everyone an above-median school performance-that is, eradicating below-median school performance-about 20-40 percent of the effects of mental disorders on educational pathways remained. Our results suggest that while impaired school performance is an important component in health-related selection to education, it does not fully explain the shorter and less academically oriented educational careers of adolescents with health problems. These adolescents may benefit from additional educational support regardless of their formal school performance.",
+  "authors": [
+    {
+      "raw": "Mikkonen, Janne",
+      "family": "Mikkonen",
+      "given": "Janne"
+    },
+    {
+      "raw": "Remes, Hanna",
+      "family": "Remes",
+      "given": "Hanna"
+    },
+    {
+      "raw": "Moustgaard, Heta",
+      "family": "Moustgaard",
+      "given": "Heta"
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    }
+  ],
+  "authors_text": "Mikkonen, Janne; Remes, Hanna; Moustgaard, Heta; Martikainen, Pekka",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa048",
+  "doi_url": "https://doi.org/10.1093/sf/soaa048",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa048",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa048.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Banking for the Culture: Black-owned banks as cultural assets during the subprime lending boom",
+  "abstract": "Today, black-owned banks are important financial resources challenging economic exclusion. Nevertheless, they do not associate strongly with building black wealth. Some scholars argue this signals black-owned banks are ornamental, or ineffective responses to legacies of economic exclusion in black segregated neighborhoods. To engage these critiques, I draw on the dialectical theoretical frames of cultural assets and structural deficits to examine the effectiveness of blackowned banks during the subprime lending boom-a period when bank practices exploiting a history of economic exclusion in black segregated neighborhoods intensify. Specifically, I analyze administrative data from the Federal Deposit Insurance Corporation (FDIC) and the Home Mortgage Disclosure Act (HMDA) to assess whether black-owned banks associate with access to mortgage credit when the subprime lending boom peaks in 2006. Using propensity score matching with inverse probability weighting, I find black-owned banks do not associate with mortgage originations in 2006; but neighborhoods with black-owned banks receive fewer subprime mortgage loans, compared to matched ones without them. As such, black-owned banks appear to effectively shield black segregated neighborhoods from the time period's predation. Overall, findings imply black-owned banks support protective credit markets during periods of intensifying economic exclusion and exploitation.",
+  "authors": [
+    {
+      "raw": "Bento, Asia",
+      "family": "Bento",
+      "given": "Asia"
+    }
+  ],
+  "authors_text": "Bento, Asia",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103025",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103025",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103025",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103025.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

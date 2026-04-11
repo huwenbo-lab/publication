@@ -1,0 +1,35 @@
+{
+  "title": "Education and Employment Trajectories in NEPS-ADIAB: The Survey Data of the National Educational Panel Study Linked to Administrative Data of the Institute for Employment Research",
+  "abstract": "NEPS-ADIAB is a large-scale data product from Germany that provides a unique source for the empirical analysis of life course research questions. It is jointly administered by the Institute for Employment Research (IAB) and the Leibniz Institute for Educational Trajectories. NEPS-ADIAB includes survey data from the National Educational Panel Study (NEPS) and administrative data from the IAB, combined at the individual level using a record linkage procedure. While the NEPS data cover issues such as educational trajectories and decisions, competencies and skills, learning environments, attitudes, etc., the administrative data consist of detailed employment histories dating back to 1975, plus extensive information on establishments. The linkage of both data collections results in a considerable research potential. NEPS-ADIAB is particularly suitable for analyses of the nexus between educational and employment careers, short- and long-term returns to education, transitions from school to vocational training and working life, adult education and lifelong learning, as well as discontinuities in professional careers due to parenthood or unemployment. Contextual characteristics about establishments as well as geographic indicators can additionally be taken into account. The regularly updated and expanded NEPS-ADIAB data are accessible to the entire scientific community free of charge via on-site and remote access.",
+  "authors": [
+    {
+      "raw": "Bachbauer, Nadine",
+      "family": "Bachbauer",
+      "given": "Nadine"
+    },
+    {
+      "raw": "Wolf, Clara",
+      "family": "Wolf",
+      "given": "Clara"
+    },
+    {
+      "raw": "Fuss, Daniel",
+      "family": "Fuss",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Bachbauer, Nadine; Wolf, Clara; Fuss, Daniel",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab057",
+  "doi_url": "https://doi.org/10.1093/esr/jcab057",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab057",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab057.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "An approach to social mobility in African countries: Is there a transmission of education, occupation, or income from parents to children?",
+  "abstract": "The study of inequality of opportunity and its main drivers is a major task in the field of economics. This paper aims to estimate a comprehensive database of socio-economic variables for five African countries (Ethiopia, Ghana, Uganda, Malawi, and Nigeria) using imputation techniques, with the ultimate goal of approximating the degrees of intergenerational transmission and social mobility. To achieve this goal, the transition matrix methodology is used in three domains: education, occupation, and income. The results show that the domain with the highest levels of mobility, in general terms, is education, and the lowest, income. Key findings reveal significant variations in the levels of social mobility across these domains depending on the studied country, such as in income mobility with respect to parents: Ethiopia is at the top with a high percentage of individuals experiencing upward mobility, and Malawi at the bottom, with a high percentage of individuals experiencing downward mobility. Moreover, the mobility levels of individuals tend to be higher for mothers than for fathers, which implies a greater improvement when compared to the most vulnerable group, i.e., women. No very significant differences have been found in the levels of mobility between baron sons and women.",
+  "authors": [
+    {
+      "raw": "Suarez-Arbesu, Claudia",
+      "family": "Suarez-Arbesu",
+      "given": "Claudia"
+    },
+    {
+      "raw": "Vicente, Marfa Rosalfa",
+      "family": "Vicente",
+      "given": "Marfa Rosalfa"
+    },
+    {
+      "raw": "Lopez-Menendez, Ana Jesus",
+      "family": "Lopez-Menendez",
+      "given": "Ana Jesus"
+    }
+  ],
+  "authors_text": "Suarez-Arbesu, Claudia; Vicente, Marfa Rosalfa; Lopez-Menendez, Ana Jesus",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100893",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100893",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100893",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100893.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

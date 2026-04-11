@@ -1,0 +1,25 @@
+{
+  "title": "Schooling or Social Origin?: The Bias in the Effect of Educational Attainment on Social Orientations",
+  "abstract": "The strong relationship between educational attainment and social attitudes and behaviour is often explained as an effect of schooling. However, educational attainment also reflects social origins. In order to obtain a view of the unbiased effect of educational attainment on social orientations, conventional research employs regression models that control for known characteristics of the family of origin. However, these controls do not represent the complete effects of social origins. In this study, we use sibling models to control completely for the family bias. We use data on primary respondents and one of their siblings from the Family Surveys Dutch Population of 1992 and 1998 (1198 sibling pairs). The results show that the effects of schooling on orthodox religious beliefs, church attendance, political party preference, left-wing or right-wing political orientation, conventional and unconventional political participation, post-materialism, economic and cultural conservatism and traditional male/female attitudes are much lower – on average 78 per cent – than suggested by conventional models.",
+  "authors": [
+    {
+      "raw": "Sieben, I.",
+      "family": "Sieben",
+      "given": "I."
+    }
+  ],
+  "authors_text": "Sieben, I.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2004,
+  "doi": "10.1093/esr/jch011",
+  "doi_url": "https://doi.org/10.1093/esr/jch011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjch011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jch011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

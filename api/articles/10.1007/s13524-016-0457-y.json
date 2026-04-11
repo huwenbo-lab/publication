@@ -1,0 +1,25 @@
+{
+  "title": "A Note on the Dependence of Health on Age and Education",
+  "abstract": "When investigating relationships between education and health, one has to take age into account. Conditioning on age entails conditioning on surviving, which has been argued to lead to a potential selection bias. In this note, I argue that surviving should be considered as a necessary precondition for the relationships of interest and, therefore, not as a possible source of bias. I criticize models of health trajectories that do not condition on surviving.",
+  "authors": [
+    {
+      "raw": "Rohwer, Goetz",
+      "family": "Rohwer",
+      "given": "Goetz"
+    }
+  ],
+  "authors_text": "Rohwer, Goetz",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0457-y",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0457-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0457-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0457-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

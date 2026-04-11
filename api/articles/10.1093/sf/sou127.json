@@ -1,0 +1,25 @@
+{
+  "title": "Educational Expansion and Occupational Change: US Compulsory Schooling Laws and the Occupational Structure 1850-1930",
+  "abstract": "During the US Industrial Revolution, educational expansion may have created skilled jobs through innovation and skill upgrading or reduced skilled jobs by mechanizing production. Such arguments contradict classic sociological work that treats education as a sorting mechanism, allocating individuals to fixed occupations. I capitalize on state differences in the timing of compulsory school attendance laws to ask whether raising the minimum level of schooling: (1) increased school attendance rate; or (2) shifted state occupational distributions away from agricultural toward skilled and non-manual occupation categories. Using state-level panel data constructed from 1850-1930 censuses and state-year fixed effects models, I find that compulsory laws significantly increased school attendance rates, particularly among lower-class children, and shifted the categorical distribution toward skilled and non-manual occupations. Thus, rather than deskilling through mechanization, raising the minimum level of education seems to have created skilled jobs and raised the occupational distribution through skill-biased technological change. Results suggest that education was not merely a sorting mechanism, supporting the importance of education as an institution even around the turn of the century.",
+  "authors": [
+    {
+      "raw": "Rauscher, Emily",
+      "family": "Rauscher",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Rauscher, Emily",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sou127",
+  "doi_url": "https://doi.org/10.1093/sf/sou127",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou127",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou127.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

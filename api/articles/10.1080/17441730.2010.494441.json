@@ -1,0 +1,30 @@
+{
+  "title": "DETERMINANTS OF ADULT MORTALITY IN INDIA",
+  "abstract": "This study attempts to evaluate the factors affecting adult mortality with special emphasis on the lifestyle factors using the 1998–1999 National Family Health Survey (NFHS). The sample size, N, in this analysis is 330,267. It includes those aged 15–59 of which 2.6 per cent died during adulthood. In the Poisson regression model, the independent variables used are age, sex, place of residence, lifestyle factors of other members of the family, standard of living, literacy composition, caste, religion, mass media exposure, household type, fuel for cooking and region of residence. This analysis has been adjusted for the clustering of deaths at the family level. The findings suggest that there is a strong positive relationship between lifestyle factors and premature mortality, even after controlling for other background characteristics of the deceased person. Further, age, standard of living index (SLI), literacy composition, religion, household type and region of residence are some important determinants of adult mortality in India.",
+  "authors": [
+    {
+      "raw": "Saikia, Nandita",
+      "family": "Saikia",
+      "given": "Nandita"
+    },
+    {
+      "raw": "Ram, F.",
+      "family": "Ram",
+      "given": "F."
+    }
+  ],
+  "authors_text": "Saikia, Nandita; Ram, F.",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2010,
+  "doi": "10.1080/17441730.2010.494441",
+  "doi_url": "https://doi.org/10.1080/17441730.2010.494441",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2010.494441",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2010.494441.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

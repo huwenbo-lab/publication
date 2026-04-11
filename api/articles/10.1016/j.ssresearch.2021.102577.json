@@ -1,0 +1,35 @@
+{
+  "title": "Modelling ambivalent triads in family research",
+  "abstract": "This research focuses on ambivalence in family networks and presents a framework for investigating how triadic configurations, beyond specific dyads, may affect individual outcomes such as well-being. First, the paper introduces the ambivalent triad census, counting the frequencies of 18 non-isomorphic triads in which ties can be positive, negative, or ambivalent, in non-directed networks, and proposes the linear combinations of three theoretical mechanisms (ambivalent balance, diffusion of stress, divide and conquer) predicting how embeddedness in an ambivalent triad may affect individual well-being. Second, the ambivalent triad census is applied to 300 nondirected family networks, 150 stepfamilies and 150 first-time families, in which mothers reported about the relationships with and between family members. Results show that mothers embedded in triads exhibiting more ambivalent balance and less diffusion of stress score higher on social self-esteem. The study emphasizes the importance of studying ambivalence in higher-level relational structures, such as triads, in families.",
+  "authors": [
+    {
+      "raw": "de Bel, Vera",
+      "family": "de Bel",
+      "given": "Vera"
+    },
+    {
+      "raw": "Snijders, Tom A. B.",
+      "family": "Snijders",
+      "given": "Tom A. B."
+    },
+    {
+      "raw": "Widmer, Eric D.",
+      "family": "Widmer",
+      "given": "Eric D."
+    }
+  ],
+  "authors_text": "de Bel, Vera; Snijders, Tom A. B.; Widmer, Eric D.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102577",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102577",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102577",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102577.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

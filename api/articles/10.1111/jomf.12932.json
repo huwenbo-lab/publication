@@ -1,0 +1,30 @@
+{
+  "title": "Stability and change in predictors of marital dissolution in the US 1950-2017",
+  "abstract": "Objective: Our goal is to measure change over time in the predictors of marital dissolution in the United States.Background: The last comprehensive comparative analysis of predictors of marital dissolution is more than 20 years out of date. Rising inequality in the United States requires a fresh look at the predictors of marital dissolution. The Diverging Destinies hypothesis predicts greater inequality over time in the divorce rate between groups, whereas the Converging Destinies hypothesis predicts convergence in divorce rates.Method: We use a variety of event history models to examine the change over time in race, ethnicity, intermarriage, premarital cohabitation, education, teen marriages, and family of origin intactness as predictors of marital dissolution using data on first marriages from the National Survey of Family Growth covering seven decades of marital histories. We examine racial differences in the nonracial predictors of divorce.Results: In the post-Civil Rights era, Black women's and White women's marital dissolution rates converged. In the most recent marriage cohorts, marital dissolution rates for Black women have increased relative to White women and teen marriage is increasingly associated with divorce. Women without the BA degree appear to be increasingly at risk for divorce. We find that wives from racial minority groups have divorce rates that are less impacted by premarital cohabitation, low education, and teen marriage.Conclusion: The demographic profile of women at marriage has changed dramatically, while the predictors of divorce have changed modestly. Where there are changes in the predictors of divorce, we find more support for Diverging Destinies.",
+  "authors": [
+    {
+      "raw": "Rosenfeld, Michael J.",
+      "family": "Rosenfeld",
+      "given": "Michael J."
+    },
+    {
+      "raw": "Roesler, Katharina",
+      "family": "Roesler",
+      "given": "Katharina"
+    }
+  ],
+  "authors_text": "Rosenfeld, Michael J.; Roesler, Katharina",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12932",
+  "doi_url": "https://doi.org/10.1111/jomf.12932",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12932",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12932.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Poverty, Race, and Parental Involvement During the Transition to Elementary School",
+  "abstract": "Using multilevel models of data from the Early Childhood Longitudinal Study—Kindergarten Cohort ( N = 20,356), the authors find that parental involvement in education partially mediates the association between family poverty and children’s math and reading achievement in kindergarten, but differences exist across race. In Asian families, poor and nonpoor children have similar levels of achievement. Poverty is not related to Black children’s participation in organized activities, but these activities are not associated with Black children’s achievement. Home-learning activities predict reading achievement in Hispanic families only. The findings provide support for application of the family process model to educational outcomes during the transition to elementary school and underscore the need to examine developmental models across racial subsets of the population.",
+  "authors": [
+    {
+      "raw": "Cooper, Carey E.",
+      "family": "Cooper",
+      "given": "Carey E."
+    },
+    {
+      "raw": "Crosnoe, Robert",
+      "family": "Crosnoe",
+      "given": "Robert"
+    },
+    {
+      "raw": "Suizzo, Marie-Anne",
+      "family": "Suizzo",
+      "given": "Marie-Anne"
+    },
+    {
+      "raw": "Pituch, Keenan A.",
+      "family": "Pituch",
+      "given": "Keenan A."
+    }
+  ],
+  "authors_text": "Cooper, Carey E.; Crosnoe, Robert; Suizzo, Marie-Anne; Pituch, Keenan A.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2009,
+  "doi": "10.1177/0192513x09351515",
+  "doi_url": "https://doi.org/10.1177/0192513x09351515",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x09351515",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x09351515.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

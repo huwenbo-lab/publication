@@ -1,0 +1,25 @@
+{
+  "title": "Educational reproduction in Sweden: A replication of Skopek and Leopold 2020 using Swedish data",
+  "abstract": "BACKGROUND Intergenerational social mobility, or the inheritance of status characteristics, is well-studied in Sweden. However, it accounts for just one aspect of the process of intergenerational reproduction of social inequality. The role of socially stratified fertility in this process remains underexplored. OBJECTIVE I address the gap in knowledge by replicating the approach pioneered by Skopek and Leopold (2020) in the context of Germany in order to study the relative contributions of the mobility component vis-a-vis the fertility component in the educational reproduction of Swedish cohorts born between 1930 and 1950. METHOD The approach involves estimating several components of a stylized population renewal model using retrospective data and performing counterfactual simulations. I utilize data from the Swedish samples of the Generations and Gender Survey, the European Social Survey, and the Survey of Health, Ageing, and Retirement in Europe. RESULTS My findings for Sweden reveal a relatively strong degree of intergenerational transmission of educational attainment, increasing for men and decreasing for women, coupled with an overall weak but stable educational gradient in fertility. Educational reproduction in Sweden is thus mostly driven by the mobility component. CONTRIBUTION This is the first study to obtain prospective estimates of educational reproduction based on retrospective data and to explore the relative role of mobility vis-a-vis fertility in the process of intergenerational reproduction of social inequality in Sweden.",
+  "authors": [
+    {
+      "raw": "Wittemann, Vanessa",
+      "family": "Wittemann",
+      "given": "Vanessa"
+    }
+  ],
+  "authors_text": "Wittemann, Vanessa",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.25",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

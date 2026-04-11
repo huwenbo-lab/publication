@@ -1,0 +1,30 @@
+{
+  "title": "Do siblings’ fertility decisions influence each other?",
+  "abstract": "Abstract Individuals’ fertility decisions are shaped not only by their own characteristics and life course paths but also by social interaction with others. However, in practice, it is difficult to disentangle the role of social interaction from other factors, such as individual and family background variables. We measure social interaction through the cross-sibling influences on fertility. Continuous-time hazard models are estimated separately for women’s first and second births. In addition to individual socioeconomic variables, demographic variables, and an unobserved factor specific to each sibling pair, siblings’ birth events and their timing enter as time-varying covariates. We use data from longitudinal population-wide Norwegian administrative registers. The data cover more than 110,000 sibling pairs and include the siblings’ fertility, education, income, and marital histories. Our results indicate that cross-sibling influences are relatively strong for the respondents’ first births but weak for the second parity transition.",
+  "authors": [
+    {
+      "raw": "Lyngstad, Torkild Hovde",
+      "family": "Lyngstad",
+      "given": "Torkild Hovde"
+    },
+    {
+      "raw": "Prskawetz, Alexia",
+      "family": "Prskawetz",
+      "given": "Alexia"
+    }
+  ],
+  "authors_text": "Lyngstad, Torkild Hovde; Prskawetz, Alexia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1007/bf03213733",
+  "doi_url": "https://doi.org/10.1007/bf03213733",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fbf03213733",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/bf03213733.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

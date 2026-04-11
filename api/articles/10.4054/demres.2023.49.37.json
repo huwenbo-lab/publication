@@ -1,0 +1,25 @@
+{
+  "title": "Analyzing hyperstable population models",
+  "abstract": "OBJECTIVE Few methods are available for analyzing populations with changing rates. Here hyperstable models are presented and substantially extended to facilitate such analyses. METHODS Hyperstable models, where a known birth trajectory yields a consistent set of age-specific birth rates, are set out in both discrete and continuous form. Mathematical analysis is used to find new relationships between model functions for a range of birth trajectories. RESULTS Hyperstable population projection matrices can create bridges that project any given initial population to any given ending population. New, explicit relationships are found between period and cohort births for exponential, polynomial, and sinusoidal birth trajectories. In quadratic and cubic models, the number of cohort births equals the number of period births a generation later, with a modest adjustment. In sinusoidal models, cohort births equal the number of period births a generation later, modified by a factor related to cycle length. CONTRIBUTION Because of their adaptability, structure, and internal relationships, hyperstable birth models afford a valuable platform for analyzing populations with changing fertility. The new relationships found provide insight into dynamic models and period-cohort connections and offer useful applications to analysts.",
+  "authors": [
+    {
+      "raw": "Schoen, Robert",
+      "family": "Schoen",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Schoen, Robert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.37",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.37",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.37",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.37.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

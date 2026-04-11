@@ -1,0 +1,30 @@
+{
+  "title": "Socioeconomic factors in the age-graded effect of incarceration on depressive symptoms in early adulthood",
+  "abstract": "Based on insights from the stress process and life-course paradigms, this study investigates the effect of incarceration on depressive symptoms during early adulthood (ages 18-40). We employed fixed-effects dynamic panel models that adjust for confounding effects due to unob-served time-invariant variables and reverse causality using data from the National Longitudinal Study of Adolescent to Adult Health (N = 11, 811). Our analysis shows that the effect of incar-ceration on depressive symptoms is greater when incarceration occurs after individuals have established a stable adult status (ages 32-40) as compared to incarceration that occurs at earlier stages of adulthood (ages 18-24 and ages 25-31). The age-graded effect of incarceration on depressive symptoms is partially attributable to time-varying effects of incarceration on socio-economic factors, such as employment status and income. All these findings contribute to our understanding of the mental health consequences of incarceration.",
+  "authors": [
+    {
+      "raw": "Liu, Hexuan",
+      "family": "Liu",
+      "given": "Hexuan"
+    },
+    {
+      "raw": "Clark, Breanna",
+      "family": "Clark",
+      "given": "Breanna"
+    }
+  ],
+  "authors_text": "Liu, Hexuan; Clark, Breanna",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102871",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102871",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102871",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102871.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

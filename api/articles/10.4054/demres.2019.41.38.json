@@ -1,0 +1,25 @@
+{
+  "title": "Smooth constrained mortality forecasting",
+  "abstract": "BACKGROUND Mortality can be forecast by means of parametric models, principal component methods, and smoothing approaches. These methods either impose rigid modeling structures or produce implausible outcomes. OBJECTIVE We propose a novel approach for forecasting mortality that combines a well established smoothing model and prior demographic information. We constrain future smooth mortality patterns to lie within a range of valid age profiles and time trends, both computed from observed patterns. METHODS Within a P-spline framework, we enforce shape constraints through an asymmetric penalty approach on forecast mortality. Moreover, we properly integrate infant mortality in a smoothing framework so that the mortality forecast covers the whole age range. RESULTS The proposed model outperforms the plain smoothing approach as well as commonly used methodologies while retaining all the desirable properties that demographers expect from a forecasting method, e.g., smooth and plausible age profiles and time trends. We illustrate the proposed approach to mortality data for Danish females and US males. CONCLUSIONS The proposed methodology offers a new paradigm in forecasting mortality, and it is an ideal balance between pure statistical methodology and traditional demographic models. Prior knowledge about mortality development can be conveniently included in the approach, leading to large flexibility. The combination of powerful statistical methodology and prior demographic information makes the proposed model suitable for forecasting mortality in most demographic scenarios.",
+  "authors": [
+    {
+      "raw": "Camarda, Carlo G.",
+      "family": "Camarda",
+      "given": "Carlo G."
+    }
+  ],
+  "authors_text": "Camarda, Carlo G.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.38",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.38",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.38",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.38.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

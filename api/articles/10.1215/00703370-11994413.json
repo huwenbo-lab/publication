@@ -1,0 +1,30 @@
+{
+  "title": "Segregation, Choices, and Inequality in Educational Outcomes: Evidence From Revealed Choice Data",
+  "abstract": "Disparities in educational trajectories and outcomes of segregated social groups concern population scientists and policymakers worldwide. This study exam ines the role of decisionmaking processes in generating educational disparities across groups in a segregated society. We argue that the unequal opportunity structure asso ciated with segregation yields systematic disparities in decision making that underlie choices, resulting in suboptimal outcomes for disadvantaged social groups. We test this argument using unique administrative records on the college application choices of Jewish and Arab applicants to universities in Israel, a country characterized by pro nounced segregation, educational disparities, and labor market stratification. The data and settings allow us to isolate factors frequently used to explain disparities in univer sity application choices by discounting costs, geographic proximity, and information constraints. Results from conditional logit (choice) models reveal group variations in how academically equivalent applicants weigh program characteristics, leading to sig nificant disparities in the incidence of academic mismatch. These variations explain a substantial portion of the gap in university admissions between Jewish and Arab applicants. These findings demonstrate that stratified decision-making processes are an important link between segregation and inequality in life chances.",
+  "authors": [
+    {
+      "raw": "Gelbgiser, Dafna",
+      "family": "Gelbgiser",
+      "given": "Dafna"
+    },
+    {
+      "raw": "Alon, Sigal",
+      "family": "Alon",
+      "given": "Sigal"
+    }
+  ],
+  "authors_text": "Gelbgiser, Dafna; Alon, Sigal",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11994413",
+  "doi_url": "https://doi.org/10.1215/00703370-11994413",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11994413",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11994413.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

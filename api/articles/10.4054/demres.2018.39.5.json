@@ -1,0 +1,30 @@
+{
+  "title": "Urban-rural disparities in adult mortality in sub-Saharan Africa",
+  "abstract": "BACKGROUND Empirical evidence showing higher survivorship in urban areas of sub-Saharan Africa (SSA) supports a theory of rural disadvantage. Yet this evidence mostly builds on infant or child mortality. There is practically no empirical evidence comparing adult mortality levels across urban and rural sectors. OBJECTIVE This study explores adult mortality differences by urban-rural residence across SSA for men and women. It considers whether existing differences across sectors vary over the course of development. METHODS The indirect orphanhood method is applied to 90 Demographic and Health Survey (DHS) datasets from 30 countries between 1991 and 2014. Conditional probabilities of dying between ages 15 and 60 ((45)q(15)) are separately estimated for rural and urban populations. RESULTS Based on country averages over all time periods, the mean (45)q(15) is 0.274 and 0.265 among adult women and 0.307 and 0.292 among adult men in urban and rural populations, respectively. The average urban to rural probability of dying ratio from the most recent data between 2000 and 2010 is 1.08 for females and 1.11 for males in SSA as a whole, indicating an urban penalty. Multiple checks highlight the robustness of our findings to methodological limitations inherent in the method. Multivariate regression models suggest that as countries develop, excess adult mortality is likely to shift from the urban to the rural sector. CONTRIBUTION We provide evidence that, unlike child mortality, adult mortality remains higher in the urban sector for many countries and for SSA as a whole. This finding has policy implications regarding the spatial provision of health services. Urban poor should be given more attention.",
+  "authors": [
+    {
+      "raw": "Menashe-Oren, Ashira",
+      "family": "Menashe-Oren",
+      "given": "Ashira"
+    },
+    {
+      "raw": "Stecklov, Guy",
+      "family": "Stecklov",
+      "given": "Guy"
+    }
+  ],
+  "authors_text": "Menashe-Oren, Ashira; Stecklov, Guy",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.5",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

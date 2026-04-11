@@ -1,0 +1,50 @@
+{
+  "title": "Internal Migration and Development: Comparing Migration Intensities Around the World",
+  "abstract": "Migration is the principal demographic process shaping patterns of human settlement, and it serves an essential role in human development. While progress has been made in measuring international migration, internal migration statistics are as yet poorly developed in many countries. This article draws on a repository of data established under the IMAGE (Internal Migration Around the GlobE) project to address this deficit by constructing the first comprehensive league table of internal migration intensities for countries around the world. We review previous work, outline the major impediments to making reliable comparisons, and set out a methodology that combines a novel estimation procedure with a flexible spatial aggregation facility. We present the results in the form of league tables of aggregate crude migration intensities that capture all changes of address over one-year or five-year intervals for 96 countries, representing four-fifths of the global population. Explanation for the observed differences has been sought, inter alia, in historical, structural, cultural, and economic forces. We examine the links between development and migration intensity through simple correlations using a range of demographic, economic, and social variables. Results reveal clear associations between internal migration intensities and selected indicators of national development.",
+  "authors": [
+    {
+      "raw": "Bell, Martin",
+      "family": "Bell",
+      "given": "Martin"
+    },
+    {
+      "raw": "Charles-Edwards, Elin",
+      "family": "Charles-Edwards",
+      "given": "Elin"
+    },
+    {
+      "raw": "Ueffing, Philipp",
+      "family": "Ueffing",
+      "given": "Philipp"
+    },
+    {
+      "raw": "Stillwell, John",
+      "family": "Stillwell",
+      "given": "John"
+    },
+    {
+      "raw": "Kupiszewski, Marek",
+      "family": "Kupiszewski",
+      "given": "Marek"
+    },
+    {
+      "raw": "Kupiszewska, Dorota",
+      "family": "Kupiszewska",
+      "given": "Dorota"
+    }
+  ],
+  "authors_text": "Bell, Martin; Charles-Edwards, Elin; Ueffing, Philipp; Stillwell, John; Kupiszewski, Marek; Kupiszewska, Dorota",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2015,
+  "doi": "10.1111/j.1728-4457.2015.00025.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2015.00025.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2015.00025.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2015.00025.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

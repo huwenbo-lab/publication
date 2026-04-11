@@ -1,0 +1,35 @@
+{
+  "title": "Two-dimensional contour decomposition: Decomposing mortality differences into initial difference and trend components by age and cause of death",
+  "abstract": "BACKGROUND Conventional decomposition analysis identifies contributions from differences in covariates in total between-population difference, but does not address the question of the historical roots of the differences. To close this gap, the contour decomposition method was proposed. Since 2017, when it was published, this method has been successfully applied in several papers. Nevertheless, it has an important limitation: causes of death cannot be included in the analyses. OBJECTIVE Conventional decomposition analysis provides insight into the reasons for a difference in an aggregate index. It can be either the difference between two populations at a given time or a temporal change for one population. However, it does not consider the origin of this difference. Contour decomposition is the only method that does. We extend the contour decomposition method by adding one more dimension that can be used to estimate the contribution of an additional component; e.g., causes of death or educational structure. METHODS We use a step-wise replacement algorithm. CONTRIBUTION The proposed discrete method for decomposition is an extension of the earlier general algorithm of stepwise replacement and contour decomposition and permits a difference in an aggregate measure at a final time point to be split into cause-specific additive components that correspond to the initial differences in the event -rates of the measure and differences in trends in these underlying event -rates.",
+  "authors": [
+    {
+      "raw": "Jdanov, Dmitri",
+      "family": "Jdanov",
+      "given": "Dmitri"
+    },
+    {
+      "raw": "Jasilionis, Domantas",
+      "family": "Jasilionis",
+      "given": "Domantas"
+    },
+    {
+      "raw": "Shkolnikov, Vladimir",
+      "family": "Shkolnikov",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Jdanov, Dmitri; Jasilionis, Domantas; Shkolnikov, Vladimir",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.41",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

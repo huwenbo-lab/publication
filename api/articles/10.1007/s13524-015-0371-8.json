@@ -1,0 +1,25 @@
+{
+  "title": "Ethnic Variations in Immigrant Poverty Exit and Female Employment: The Missing Link",
+  "abstract": "Despite widespread interest in poverty among recent immigrants and female immigrant employment, research on the link between the two is limited. This study evaluates the effect of recently arrived immigrant women's employment on the exit from family poverty and considers the implications for ethnic differences in poverty exit. It uses the bivariate probit model and the Fairlie decomposition technique to analyze data from the Longitudinal Survey of Immigrants to Canada (LSIC), a nationally representative survey of immigrants arriving in Canada, 2000-2001. Results show that the employment of recently arrived immigrant women makes a notable contribution to lifting families out of poverty. Moreover, the wide ethnic variations in the probability of exit from poverty between European and non-European groups are partially explained by the lower employment rates among non-European women. The results suggest that the equal earner/female breadwinner model applies to low-income recent immigrant families in general, but the male breadwinner model explains the low probability of poverty exit among select non-European groups whose female employment rates are notably low.",
+  "authors": [
+    {
+      "raw": "Kaida, Lisa",
+      "family": "Kaida",
+      "given": "Lisa"
+    }
+  ],
+  "authors_text": "Kaida, Lisa",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0371-8",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0371-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0371-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0371-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

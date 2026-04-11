@@ -1,0 +1,35 @@
+{
+  "title": "Social Infrastructure Availability and Suicide Rates among Working-Age Adults in the United States",
+  "abstract": "Social infrastructure (SI) may buffer against suicide risk by improving social cohesion, social support, and information and resource sharing. The authors use an ecological approach to examine the relationship between county-level SI availability and suicide rates among working-age adults (25–64 years) in the United States, a population among which suicide rates are high, rising, and geographically unequal. Mortality data are from the National Vital Statistics System for 2016 to 2019. SI data are from the National Neighborhood Data Archive for 2013 to 2015 and capture the availability of typically free SI (e.g., libraries, community centers) and commercial SI (e.g., coffee shops, diners, entertainment venues). Results from negative binomial models show that suicide rates are significantly lower in counties with more SI availability, net of county demographic, socioeconomic, and health care factors. This relationship held for both typically free and commercial SI. Policy makers should consider strengthening existing and developing new SI as part of a broader strategy to reduce suicide rates in the United States.",
+  "authors": [
+    {
+      "raw": "Zhang, Xue",
+      "family": "Zhang",
+      "given": "Xue"
+    },
+    {
+      "raw": "Rhubart, Danielle C.",
+      "family": "Rhubart",
+      "given": "Danielle C."
+    },
+    {
+      "raw": "Monnat, Shannon M.",
+      "family": "Monnat",
+      "given": "Shannon M."
+    }
+  ],
+  "authors_text": "Zhang, Xue; Rhubart, Danielle C.; Monnat, Shannon M.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241241034",
+  "doi_url": "https://doi.org/10.1177/23780231241241034",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241241034",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241241034.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

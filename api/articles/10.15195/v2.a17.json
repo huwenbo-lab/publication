@@ -1,0 +1,35 @@
+{
+  "title": "Heterogeneous Causal Effects and Sample Selection Bias",
+  "abstract": "Richard Breen, Seongsoo Choi, Anders Holm Sociological Science, July 8, 2015 DOI 10.15195/v2.a17 Abstract The role of education in the process of socioeconomic attainment is a topic of long standing interest to sociologists and economists.",
+  "authors": [
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    },
+    {
+      "raw": "Choi, Seungsoo",
+      "family": "Choi",
+      "given": "Seungsoo"
+    },
+    {
+      "raw": "Holm, Anders",
+      "family": "Holm",
+      "given": "Anders"
+    }
+  ],
+  "authors_text": "Breen, Richard; Choi, Seungsoo; Holm, Anders",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2015,
+  "doi": "10.15195/v2.a17",
+  "doi_url": "https://doi.org/10.15195/v2.a17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv2.a17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v2.a17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

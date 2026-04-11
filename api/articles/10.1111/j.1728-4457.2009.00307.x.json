@@ -1,0 +1,30 @@
+{
+  "title": "Homicide Rates in a Cross-Section of Countries: Evidence and Interpretations",
+  "abstract": "This study uses a regression analysis to explore the cross-country variation in homicide rates for a large sample of countries. It starts by identifying seven significant regional variables, to which traditional socioeconomic, cultural, and institutional variables are added and tested. The importance of institutions, culture, and other factors affecting homicide rates is discussed. One unexpected finding is a curious relationship between the level of education and homicide rates: while an increase in male education tends to reduce homicide rates, an increase in female education tends to increase homicides. Several possible interpretations for this phenomenon are proposed. The study points to relatively unexplored areas of research in order to better understand homicide variation around the world.",
+  "authors": [
+    {
+      "raw": "Cole, Julio H.",
+      "family": "Cole",
+      "given": "Julio H."
+    },
+    {
+      "raw": "Marroquin Gramajo, Andres",
+      "family": "Marroquin Gramajo",
+      "given": "Andres"
+    }
+  ],
+  "authors_text": "Cole, Julio H.; Marroquin Gramajo, Andres",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2009,
+  "doi": "10.1111/j.1728-4457.2009.00307.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2009.00307.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2009.00307.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2009.00307.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

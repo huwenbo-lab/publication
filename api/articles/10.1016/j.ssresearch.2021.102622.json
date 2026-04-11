@@ -1,0 +1,40 @@
+{
+  "title": "Gender inequality in relational position-taking: An analysis of intra-organizational job mobility networks",
+  "abstract": "We conceptualize within-organization job mobility as a position-taking process, arguing that the structure and outcome of claims over positions are characteristics of organizational inequality regimes. Drawing on data from 10 distribution centers from a large U.S. firm, we examine gendered job mobility as the observed network of workers moving among jobs. Results from network analysis and meta-regression reveal that in the firm examined, workers tend to move between jobs with similar gender compositions, that mobility lattices tend to be more ladder-like for male-concentrated jobs but more circuitous for female-concentrated jobs, and that there is less upward mobility overall in organizations with higher levels of wage inequality. Both organization level inequalities and the relationship between positions within organizations condition mobility. While we do not observe discursive claims on positions, we argue that these are the underlying mechanisms driving gendered job mobility.",
+  "authors": [
+    {
+      "raw": "Wilcox, Annika",
+      "family": "Wilcox",
+      "given": "Annika"
+    },
+    {
+      "raw": "McDonald, Steve",
+      "family": "McDonald",
+      "given": "Steve"
+    },
+    {
+      "raw": "Benton, Richard A.",
+      "family": "Benton",
+      "given": "Richard A."
+    },
+    {
+      "raw": "Tomaskovic-Devey, Donald",
+      "family": "Tomaskovic-Devey",
+      "given": "Donald"
+    }
+  ],
+  "authors_text": "Wilcox, Annika; McDonald, Steve; Benton, Richard A.; Tomaskovic-Devey, Donald",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102622",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102622",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102622",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102622.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

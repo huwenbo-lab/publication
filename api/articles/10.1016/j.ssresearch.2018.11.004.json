@@ -1,0 +1,25 @@
+{
+  "title": "State government public goods spending and citizens' quality of life",
+  "abstract": "A growing literature across the social sciences uses individuals' self-assessments of their own well-being to evaluate the impact of public policy decisions on citizens' quality of life. To date, however, there has been no rigorous empirical investigation into how government spending specifically on public goods impacts well-being. Using individual-level data on respondents' self-reported happiness and detailed government spending data for the American states for 1976-2006, I find robust evidence that citizens report living happier lives when their state spends more (relative to the size of a state's economy) on providing public goods. As an important spuriousness check, I also show that this relationship does not hold for total government spending or for government spending on programs that are not (strictly speaking) public goods like education and welfare assistance to the poor. Moreover, the statistical relationship between public goods spending and happiness is substantively large and invariant across income, education, gender, and race/ethnicity lines - indicating that spending has broad benefits across society. These findings suggest that public goods spending can have important implications for the well-being of Americans and, more broadly, contribute to the growing literature on how government policy decisions concretely impact the quality of life that citizens experience.",
+  "authors": [
+    {
+      "raw": "Flavin, Patrick",
+      "family": "Flavin",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Flavin, Patrick",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.11.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.11.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.11.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.11.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

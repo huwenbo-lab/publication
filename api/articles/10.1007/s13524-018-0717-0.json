@@ -1,0 +1,35 @@
+{
+  "title": "Racial and Ethnic Disparities in the Lifetime Prevalence of Homelessness in the United States",
+  "abstract": "Homelessness in the United States is often examined using cross-sectional, point-in-time samples. Any experience of homelessness is a risk factor for adverse outcomes, so it is also useful to understand the incidence of homelessness over longer periods. We estimate the lifetime prevalence of homelessness among members of the Baby Boom cohort (n = 6,545) using the 2012 and 2014 waves of the Health and Retirement Study (HRS), a nationally representative survey of older Americans. Our analysis indicates that 6.2% of respondents had a period of homelessness at some point in their lives. We also identify dramatic disparities in lifetime incidence of homelessness by racial and ethnic subgroups. Rates of homelessness were higher for non-Hispanic blacks (16.8%) or Hispanics of any race (8.1%) than for non-Hispanic whites (4.8%; all differences significant with p < .05). The black-white gap, but not the Hispanic-white gap, remained significant after adjustment for covariates such as education, veteran status, and geographic region.",
+  "authors": [
+    {
+      "raw": "Fusaro, Vincent A.",
+      "family": "Fusaro",
+      "given": "Vincent A."
+    },
+    {
+      "raw": "Levy, Helen G.",
+      "family": "Levy",
+      "given": "Helen G."
+    },
+    {
+      "raw": "Shaefer, H. Luke",
+      "family": "Shaefer",
+      "given": "H. Luke"
+    }
+  ],
+  "authors_text": "Fusaro, Vincent A.; Levy, Helen G.; Shaefer, H. Luke",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0717-0",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0717-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0717-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0717-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

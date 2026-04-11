@@ -1,0 +1,35 @@
+{
+  "title": "Communities of Style: Artistic Transformation and Social Cohesion in Hollywood, 1930 to 1999",
+  "abstract": "How do social and stylistic relations in cultural fields coevolve under changing contextual conditions? Artistic communities cohere through collaborations and shared stylistic orientations among artists, but little is known about the structure and interplay of these relational processes. The authors contribute to previous studies by conducting a large-scale investigation of social and stylistic networks among Hollywood filmmakers. In particular, the authors examine how the interplay between artists’ collaborations and shared references changed throughout Hollywood’s history. Using data from the Internet Movie Database and applying relational hyperevent models, the authors analyze the coevolution of collaboration and reference networks among 15,553 Hollywood film professionals who participated in 6,800 films between 1930 and 1999. The authors complement prior sociological efforts through a longitudinal perspective on the structure of social and stylistic networks across three meaningful historical periods: before, during, and after Hollywood’s artistic transformation in the 1960s. The findings show that filmmakers are more likely to collaborate if they previously used the same references, but they are less likely to adopt the references of their previous collaborators. In addition, the results highlight that the structure of relational processes in cultural fields varies over time as the contextual conditions for tie formation change.",
+  "authors": [
+    {
+      "raw": "Burgdorf, Katharina",
+      "family": "Burgdorf",
+      "given": "Katharina"
+    },
+    {
+      "raw": "Wittek, Mark",
+      "family": "Wittek",
+      "given": "Mark"
+    },
+    {
+      "raw": "Lerner, Jürgen",
+      "family": "Lerner",
+      "given": "Jürgen"
+    }
+  ],
+  "authors_text": "Burgdorf, Katharina; Wittek, Mark; Lerner, Jürgen",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241257334",
+  "doi_url": "https://doi.org/10.1177/23780231241257334",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241257334",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241257334.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

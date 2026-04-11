@@ -1,0 +1,30 @@
+{
+  "title": "Spatial attraction in migrants' settlement patterns in the city of Catania",
+  "abstract": "BACKGROUND In broad terms, and apart from ethnic discriminatory rules enforced in some places and at some times, residential segregation may be ascribed both to economic inhomogeneities in the urban space (e.g., in the cost of rents, or in occupation opportunities) and to spatial attraction among individuals sharing the same group identity and culture. OBJECTIVE Traditional indices of spatial segregation do not distinguish between these two sources of clustering. Furthermore, they typically rely on census tracts, a scale that does not allow for fine-grained analysis. Also, the use of alternative zoning often leads to conflicting results. The aim of this paper is to measure spatial attraction among groups of foreign migrants in Catania (Italy) using individual household data. METHODS We apply a version of Ripley's K-function specially conceived for assessing spatial attraction while adjusting for the effects of spatial inhomogeneity. To avoid the risk of confounding the two sources of clustering, spatial inhomogeneity is estimated following a case-control approach. RESULTS Different parts of the city exhibit different suitabilities for migrants of different nationalities, with groups mainly involved in housekeeping and caregiving being more spread than the ones specialized in peddling and retailing. A significant spatial attraction has been found for Sri Lankan, Mauritians, Senegalese, and Chinese. Conversely, the settlement patterns of Tunisians and Moroccans comply with random allocation. These results seem consistent with the hypothesis of a relevant correlation between chain migration and spatial attraction.",
+  "authors": [
+    {
+      "raw": "Mazza, Angelo",
+      "family": "Mazza",
+      "given": "Angelo"
+    },
+    {
+      "raw": "Punzo, Antonio",
+      "family": "Punzo",
+      "given": "Antonio"
+    }
+  ],
+  "authors_text": "Mazza, Angelo; Punzo, Antonio",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.5",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

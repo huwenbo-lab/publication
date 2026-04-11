@@ -1,0 +1,30 @@
+{
+  "title": "Do Japanese and Italian Women Live Longer than Women in Scandinavia?",
+  "abstract": "Life expectancies at birth are routinely computed from period life tables. When mortality is falling, such period life expectancies will typically underestimate real life expectancies, that is, life expectancies for birth cohorts. Hence, it becomes problematic to compare period life expectancies between countries when they have different historical mortality developments. For instance, life expectancies for countries in which the longevity improved early (like Norway and Sweden) are difficult to compare with those in countries where it improved later (like Italy and Japan). To get a fair comparison between the countries, one should consider cohort data. Since cohort life expectancies can only be computed for cohorts that were born more than a hundred years ago, in this paper we suggest that for younger cohorts one may consider the expected number of years lost up to a given age. Contrary to the results based on period data, our cohort results then indicate that Italian women may expect to lose more years than women in Norway and Sweden, while there are no indications that Japanese women will lose fewer years than women in Scandinavia. The large differences seen for period data may just be an artefact due to the distortion that period life tables imply in times of changing mortality.",
+  "authors": [
+    {
+      "raw": "Borgan, Ørnulf",
+      "family": "Borgan",
+      "given": "Ørnulf"
+    },
+    {
+      "raw": "Keilman, Nico",
+      "family": "Keilman",
+      "given": "Nico"
+    }
+  ],
+  "authors_text": "Borgan, Ørnulf; Keilman, Nico",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9468-2",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9468-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9468-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9468-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

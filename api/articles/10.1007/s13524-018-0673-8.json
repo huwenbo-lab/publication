@@ -1,0 +1,30 @@
+{
+  "title": "Birth Intervals and Health in Adulthood: A Comparison of Siblings Using Swedish Register Data",
+  "abstract": "A growing body of research has examined whether birth intervals influence perinatal outcomes and child health as well as long-term educational and socioeconomic outcomes. To date, however, very little research has examined whether birth spacing influences long-term health. We use contemporary Swedish population register data to examine the relationship between birth-to-birth intervals and a variety of health outcomes in adulthood: for men, height, physical fitness, and the probability of falling into different body mass index categories; and for men and women, mortality. In models that do not adjust carefully for family background, we find that short and long birth intervals are clearly associated with height, physical fitness, being overweight or obese, and mortality. However, after carefully adjusting for family background using a within-family sibling comparison design, we find that birth spacing is generally not associated with long-term health, although we find that men born after very long birth intervals have a higher probability of being overweight or obese in early adulthood. Overall, we conclude that birth intervals have little independent effect on long-term health outcomes.",
+  "authors": [
+    {
+      "raw": "Barclay, Kieron J.",
+      "family": "Barclay",
+      "given": "Kieron J."
+    },
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Barclay, Kieron J.; Kolk, Martin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0673-8",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0673-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0673-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0673-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

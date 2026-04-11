@@ -1,0 +1,35 @@
+{
+  "title": "Health expectancies among older adults in China: Results from the 2010 and 2020 population censuses",
+  "abstract": "BACKGROUND Despite the rapid increase in the aging population in China, the health expectancies of older adults remain underexamined. OBJECTIVE Our aim is to investigate the health expectancies of older adults in China and examine changes between 2010 and 2020. METHODS Using data from the 2010 and 2020 Chinese population censuses, health expectancies were calculated for good, fair, poor, and disabled health states by period, sex, and residence. The Sullivan method was applied, and differences in health expectancies were decomposed into changes in mortality rates (mortality effects) and rates of different health states (health effects). RESULTS Between 2010 and 2020, the good health life expectancy at age 60 increased from 9.63 to 11.66 years, while disabled life expectancy rose from 0.76 to 0.97 years. Females experienced a notable rise in good health life expectancy, reaching 11.71 years at age 60 and surpassing males (11.61 years). However, females' disabled life expectancy remained higher than that of males (1.18 vs. 0.76 years). Urban-rural disparities widened, with urban residents enjoying 3.12 years longer good health life expectancy compared to rural residents and experiencing more rapid improvements. CONCLUSIONS China experienced a significant rise in healthy life expectancy between 2010 and 2020, characterized by narrowing sex disparities but widening urban-rural gaps. Both health and mortality effects contributed to these changes and disparities, albeit to varying degrees. CONTRIBUTION This study provides updated estimates of health expectancy in China for 2010 and 2020, highlighting sex and rural-urban differences. It finds that both declining mortality rates and improving health contributed to the changes during the past decade.",
+  "authors": [
+    {
+      "raw": "Guo, Yu",
+      "family": "Guo",
+      "given": "Yu"
+    },
+    {
+      "raw": "Mei, Li",
+      "family": "Mei",
+      "given": "Li"
+    },
+    {
+      "raw": "Jiang, Quanbao",
+      "family": "Jiang",
+      "given": "Quanbao"
+    }
+  ],
+  "authors_text": "Guo, Yu; Mei, Li; Jiang, Quanbao",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.11",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

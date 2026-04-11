@@ -1,0 +1,40 @@
+{
+  "title": "Employment and the Risk of Domestic Abuse Among Low‐Income Women",
+  "abstract": "This paper uses data from 2 randomized evaluations of welfare‐to‐work programs—the Minnesota Family Investment Program and the National Evaluation of Welfare‐to‐Work Strategies—to estimate the effect of employment on domestic abuse among low‐income single mothers. Unique to our analysis is the application of a 2‐stage least squares method, in which random assignment enables us to control for omitted characteristics that might otherwise confound the association between employment and domestic abuse. We find that increased maternal employment decreases subsequent reports of domestic abuse in both studies. In the Minnesota Family Investment Program—a program with an enhanced income disregard that allowed welfare mothers to keep a portion of their welfare income as earnings rose—an increase in household incomes appears to have contributed to reductions in reports of domestic abuse.",
+  "authors": [
+    {
+      "raw": "Gibson‐Davis, Christina M.",
+      "family": "Gibson‐Davis",
+      "given": "Christina M."
+    },
+    {
+      "raw": "Magnuson, Katherine",
+      "family": "Magnuson",
+      "given": "Katherine"
+    },
+    {
+      "raw": "Gennetian, Lisa A.",
+      "family": "Gennetian",
+      "given": "Lisa A."
+    },
+    {
+      "raw": "Duncan, Greg J.",
+      "family": "Duncan",
+      "given": "Greg J."
+    }
+  ],
+  "authors_text": "Gibson‐Davis, Christina M.; Magnuson, Katherine; Gennetian, Lisa A.; Duncan, Greg J.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2005,
+  "doi": "10.1111/j.1741-3737.2005.00207.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2005.00207.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2005.00207.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2005.00207.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

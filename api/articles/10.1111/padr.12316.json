@@ -1,0 +1,35 @@
+{
+  "title": "Forced Displacement, Migration, and Fertility in Burundi",
+  "abstract": "The civil war in Burundi (1993-2005) led to the forced displacement of a large part of the population. This study aims to explore how that displacement affected fertility behavior. Using a nationally representative, retrospective survey on birth and residential histories of 4,523 Burundian women, we examine the impact of conflict-induced displacement on fertility. These unique data enable us to distinguish between remaining-in-place, voluntary migration, and forced displacement, as well as to distinguish between periods spent on the move versus periods spent in residence in the new site. Adopting a semiparametric regression model, we analyze both the probability of the first pregnancy and the subsequent spacing of higher order pregnancies. We find that the risk of a first pregnancy was higher in the year in which a woman was forcibly displaced and lower in the year a woman migrated voluntarily. Residency in a new site increased the risk of pregnancy for both.",
+  "authors": [
+    {
+      "raw": "Verwimp, Philip",
+      "family": "Verwimp",
+      "given": "Philip"
+    },
+    {
+      "raw": "Osti, Davide",
+      "family": "Osti",
+      "given": "Davide"
+    },
+    {
+      "raw": "Ostby, Gudrun",
+      "family": "Ostby",
+      "given": "Gudrun"
+    }
+  ],
+  "authors_text": "Verwimp, Philip; Osti, Davide; Ostby, Gudrun",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2020,
+  "doi": "10.1111/padr.12316",
+  "doi_url": "https://doi.org/10.1111/padr.12316",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12316",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12316.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

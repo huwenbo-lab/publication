@@ -1,0 +1,30 @@
+{
+  "title": "Corporate demography and income inequality",
+  "abstract": "We examine the relationship between income inequality and corporate demography in regional labor markets and specify two mechanisms through which the number and diversity of employers in a labor market affect wage dispersion. Vertical differentiation, or variation in the ability of organizations of a particular kind to benefit from labor inputs, amplifies inequality through quality sorting, as the most productive employees in a particular domain pair with the most productive employers. Increasing horizontal differentiation-variation in the kinds of organizations-reduces inequality as individuals can more easily find firms interested in their distinctive attributes and talents. Our analysis of Danish census data provides support for each thesis. Increased numbers of organizations operating within an industry in a region, a proxy for vertical differentiation, increases wage dispersion in that industry-region. Variation in wages, however declines with increased horizontal differentiation among employers; this is measured by the diversity of industries offering employment within a region and the variance infirm sizes in an industry-region.",
+  "authors": [
+    {
+      "raw": "Sorensen, Jesper B.",
+      "family": "Sorensen",
+      "given": "Jesper B."
+    },
+    {
+      "raw": "Sorenson, Olav",
+      "family": "Sorenson",
+      "given": "Olav"
+    }
+  ],
+  "authors_text": "Sorensen, Jesper B.; Sorenson, Olav",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2007,
+  "doi": "10.1177/000312240707200506",
+  "doi_url": "https://doi.org/10.1177/000312240707200506",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240707200506",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240707200506.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

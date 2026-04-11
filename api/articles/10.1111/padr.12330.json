@@ -1,0 +1,25 @@
+{
+  "title": "Life Expectancy Is 350 Years Old",
+  "abstract": "Last year marked the 350th anniversary of the modern concept of life expectancy, which grew out of a correspondence between two brothers in 1669. Not only did life expectancy emerge as the first important nongambling application of the then new doctrine of chances, the correspondence also contained a probability-based distinction between the median value of a random variable and its expected value, and it set the stage for the first correct formulation of pensions and life annuities. After 350 years, life expectancy remains a gauge of long-term progress of a country, of subpopulations within a country, and as an international measure of development. On this round anniversary, it is worth remembering the original correspondence and its value today because of the importance of the concept of life expectancy itself and because of the mathematical structure that was used to define it.",
+  "authors": [
+    {
+      "raw": "Ciecka, James E.",
+      "family": "Ciecka",
+      "given": "James E."
+    }
+  ],
+  "authors_text": "Ciecka, James E.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2020,
+  "doi": "10.1111/padr.12330",
+  "doi_url": "https://doi.org/10.1111/padr.12330",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12330",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12330.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

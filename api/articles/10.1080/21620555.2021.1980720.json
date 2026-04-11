@@ -1,0 +1,35 @@
+{
+  "title": "Between reality and perception: the mediating effects of mass media on public opinion toward China",
+  "abstract": "There are many conflicting theories about the relationship between media reports and public opinion, but few of them are supported by empirical work on large data sets. We use sentiment results on over 260,000 China-related articles in The New York Times to show that events in international relations affect media sentiment which, in turn, affects public opinion. We find that sudden shifts in US-China relations are accompanied by changes in how The New York Times covers China and that the news reporting on China leads public opinion on China by 1 year. Our work illustrates how The New York Times, a prestigious mass media institution, propagates international relation signals to shape American views of the Chinese state and the Chinese people.",
+  "authors": [
+    {
+      "raw": "Huang, Junming",
+      "family": "Huang",
+      "given": "Junming"
+    },
+    {
+      "raw": "Cook, Gavin G.",
+      "family": "Cook",
+      "given": "Gavin G."
+    },
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Huang, Junming; Cook, Gavin G.; Xie, Yu",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1080/21620555.2021.1980720",
+  "doi_url": "https://doi.org/10.1080/21620555.2021.1980720",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2021.1980720",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2021.1980720.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

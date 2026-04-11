@@ -1,0 +1,35 @@
+{
+  "title": "Disentangling the complexity of family policies: SPIN data with an application to Lithuania and Sweden, 1995-2015",
+  "abstract": "BACKGROUND Family policies influence how men and women structure their time in the labour market and in the home. Analyses based on expenditure data, regime types, and single policies, however, cannot represent how policies support individuals' labour market attachment and care for children. Data from the Social Policy Indicator (SPIN) database offer a tool for measuring the extent to which the family policies of a country support both the earner-carer and the traditional-family models. This large-scale database offers harmonized data on social policies over time for a wide range of countries. It allows scholars to empirically push the frontiers of research on the intersection of gender equality, family and employment dynamics, and social policy. METHODS We describe how measures of earner-carer and traditional-family support were constructed using data from the SPIN database. We use the cases of Lithuania and Sweden to compare the policy developments over time and demonstrate how these developments are represented by SPIN data. CONTRIBUTION We present data from the SPIN database, which provides a useful tool for demographers and social scientists interested in the link between family policies and fertility. We describe the range of applications in demographic research so far as well as the advantages and limitations of the database. Using Lithuania and Sweden as an example, we also highlight how the data mirror convergence and divergence in family policy in comparative perspective.",
+  "authors": [
+    {
+      "raw": "Wesolowski, Katharina",
+      "family": "Wesolowski",
+      "given": "Katharina"
+    },
+    {
+      "raw": "Billingsley, Sunnee",
+      "family": "Billingsley",
+      "given": "Sunnee"
+    },
+    {
+      "raw": "Neyer, Gerda",
+      "family": "Neyer",
+      "given": "Gerda"
+    }
+  ],
+  "authors_text": "Wesolowski, Katharina; Billingsley, Sunnee; Neyer, Gerda",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.42",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.42",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.42",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.42.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Social Desirability Bias in Measures of Norm Violations and Compliance during the COVID-19 Pandemic: Results of an Experimental Survey in Europe",
+  "abstract": "Social desirability bias is a problem in surveys collecting data on norm violations and compliance. If confronted with sensitive questions, respondents systematically underreport norm violations and overreport norm compliance. This leads to biased survey estimates and poor data quality. To improve the measurement of norm violations and compliance, the item count technique (ICT) has been developed. The ICT anonymizes the question-and-answer process. In their experimental survey ( n = 2,510), the authors use the ICT to study norm violations and compliance during the coronavirus disease 2019 (COVID-19) pandemic in Europe. More specifically, they estimate the prevalence of vaccination certificate falsification and self-isolation with COVID-19 symptoms. Estimates obtained using standard direct questioning (DQ; n = 1,006) are compared with ICT estimates ( n = 1,504). As a result, the authors find no significant difference between estimates of vaccination certificate falsification (4.8 percent with DQ vs. 4.5 percent with the ICT). At the same time, they find a significant difference between estimates of self-isolation with COVID-19 symptoms (87.7 percent with DQ vs. 76.0 percent with the ICT). Conventional survey measures based on DQ thus likely overestimate the extent of norm compliance in a pandemic such as COVID-19.",
+  "authors": [
+    {
+      "raw": "Helbing, Alexander",
+      "family": "Helbing",
+      "given": "Alexander"
+    },
+    {
+      "raw": "Krumpal, Ivar",
+      "family": "Krumpal",
+      "given": "Ivar"
+    }
+  ],
+  "authors_text": "Helbing, Alexander; Krumpal, Ivar",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251328202",
+  "doi_url": "https://doi.org/10.1177/23780231251328202",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251328202",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251328202.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

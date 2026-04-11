@@ -1,0 +1,30 @@
+{
+  "title": "Kinship institutions and sex ratios in India",
+  "abstract": "Abstract This article explores the relationship between kinship institutions and sex ratios in India at the turn of the twentieth century. Because kinship rules vary by caste, language, religion, and region, we construct sex ratios by these categories at the district level by using data from the 1901 Census of India for Punjab (North), Bengal (East), and Madras (South). We find that the male-to-female sex ratio varied positively with caste rank, fell as one moved from the North to the East and then to the South, was higher for Hindus than for Muslims, and was higher for northern Indo-Aryan speakers than for the southern Dravidian-speaking people. We argue that these systematic patterns in the data are consistent with variations in the institution of family, kinship, and inheritance.",
+  "authors": [
+    {
+      "raw": "Chakraborty, Tanika",
+      "family": "Chakraborty",
+      "given": "Tanika"
+    },
+    {
+      "raw": "Kim, Sukkoo",
+      "family": "Kim",
+      "given": "Sukkoo"
+    }
+  ],
+  "authors_text": "Chakraborty, Tanika; Kim, Sukkoo",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1007/bf03213736",
+  "doi_url": "https://doi.org/10.1007/bf03213736",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fbf03213736",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/bf03213736.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

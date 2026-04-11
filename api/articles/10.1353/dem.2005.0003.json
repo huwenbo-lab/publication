@@ -1,0 +1,25 @@
+{
+  "title": "Long-range trends in adult mortality: Models and projection methods",
+  "abstract": "Abstract In the study reported here, I had two objectives: (1) to test a new version of the logistic model for the pattern of change over time in age-specific adult mortality rates and (2) to develop a new method for projecting future trends in adult mortality. A test of the goodness of fit of the logistic model for the force of mortality indicated that its slope parameter is nearly constant over time. This finding suggests a variant of the model that is called the shifting logistic model. A new projection method, based on the shifting mortality model, is proposed and compared with the widely used Lee-Carter procedure.",
+  "authors": [
+    {
+      "raw": "Bongaarts, John",
+      "family": "Bongaarts",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Bongaarts, John",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0003",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

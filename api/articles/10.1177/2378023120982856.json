@@ -1,0 +1,40 @@
+{
+  "title": "Work-Life Conflict During the COVID-19 Pandemic",
+  "abstract": "The coronavirus disease 2019 pandemic upended work, family, and social life. These massive changes may have created shifts in exposure to work-life conflict. Using a national survey that followed Canadian workers from September 2019 into April and June 2020, the authors find that work-life conflict decreased among those with no children at home. In contrast, for those with children at home, the patterns depended on age of youngest child. Among individuals with children younger than 6 or between 6 and 12, no decreases in work-life conflict were observed. In contrast, those with teenagers did not differ from the child-free. Although these patterns did not significantly differ by gender, they were amplified among individuals with high work-home integration. These findings suggest an overall pattern of reduced work-life conflict during the pandemic—but also that these shifts were circumscribed by age of youngest child at home and the degree of work-home integration.",
+  "authors": [
+    {
+      "raw": "Schieman, Scott",
+      "family": "Schieman",
+      "given": "Scott"
+    },
+    {
+      "raw": "Badawy, Philip J.",
+      "family": "Badawy",
+      "given": "Philip J."
+    },
+    {
+      "raw": "A. Milkie, Melissa",
+      "family": "A. Milkie",
+      "given": "Melissa"
+    },
+    {
+      "raw": "Bierman, Alex",
+      "family": "Bierman",
+      "given": "Alex"
+    }
+  ],
+  "authors_text": "Schieman, Scott; Badawy, Philip J.; A. Milkie, Melissa; Bierman, Alex",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/2378023120982856",
+  "doi_url": "https://doi.org/10.1177/2378023120982856",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120982856",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120982856.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

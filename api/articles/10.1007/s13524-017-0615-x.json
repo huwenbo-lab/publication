@@ -1,0 +1,30 @@
+{
+  "title": "Compulsory Schooling Laws and Migration Across European Countries",
+  "abstract": "Educational attainment is a key factor for understanding why some individuals migrate and others do not. Compulsory schooling laws, which determine an individual's minimum level of education, can potentially affect migration. We test whether and how increasing the length of compulsory schooling influences migration of affected cohorts across European countries, a context where labor mobility is essentially free. We construct a novel database that includes information for 31 European countries on compulsory education reforms passed between 1950 and 1990. Combining this data with information on recent migration flows by cohorts, we find that an additional year of compulsory education reduces the number of individuals from affected cohorts who migrate in a given year by 9 %. Our results rely on the exogeneity of compulsory schooling laws. A variety of empirical tests indicate that European legislators did not pass compulsory education reforms as a reaction to changes in emigration rates or educational attainment.",
+  "authors": [
+    {
+      "raw": "Fenoll, Ainhoa Aparicio",
+      "family": "Fenoll",
+      "given": "Ainhoa Aparicio"
+    },
+    {
+      "raw": "Kuehn, Zoe",
+      "family": "Kuehn",
+      "given": "Zoe"
+    }
+  ],
+  "authors_text": "Fenoll, Ainhoa Aparicio; Kuehn, Zoe",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0615-x",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0615-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0615-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0615-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

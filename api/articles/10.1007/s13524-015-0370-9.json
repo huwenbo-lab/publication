@@ -1,0 +1,40 @@
+{
+  "title": "Intrayear Household Income Dynamics and Adolescent School Behavior",
+  "abstract": "Economic life for most American households is quite dynamic. Such income instability is an understudied aspect of households' economic contexts that may have distinct consequences for children. We examine the empirical relationship between household income instability, as measured by intrayear income change, and adolescent school behavior outcomes using a nationally representative sample of households with adolescents from the Survey of Income and Program Participation 2004 panel. We find an unfavorable relationship between income instability and adolescent school behaviors after controlling for income level and a large set of child and family characteristics. Income instability is associated with a lower likelihood of adolescents being highly engaged in school across the income spectrum and predicts adolescent expulsions and suspensions, particularly among low-income, older, and racial minority adolescents.",
+  "authors": [
+    {
+      "raw": "Gennetian, Lisa A.",
+      "family": "Gennetian",
+      "given": "Lisa A."
+    },
+    {
+      "raw": "Wolf, Sharon",
+      "family": "Wolf",
+      "given": "Sharon"
+    },
+    {
+      "raw": "Hill, Heather D.",
+      "family": "Hill",
+      "given": "Heather D."
+    },
+    {
+      "raw": "Morris, Pamela A.",
+      "family": "Morris",
+      "given": "Pamela A."
+    }
+  ],
+  "authors_text": "Gennetian, Lisa A.; Wolf, Sharon; Hill, Heather D.; Morris, Pamela A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0370-9",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0370-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0370-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0370-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

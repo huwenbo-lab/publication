@@ -1,0 +1,40 @@
+{
+  "title": "Is single parenthood increasingly an experience of less-educated mothers? A European comparison over five decades",
+  "abstract": "BACKGROUND A central question in family research is whether parents' social disadvantages, such as being a single parent or having low education, are becoming more concentrated over time. OBJECTIVE We contribute to this literature by examining long-term trends in the gap in single parenthood between more educated and less-educated mothers since the 1970s to around 2015, placing special emphasis on children's age. METHODS To this end, we rely on a unique compilation of censuses as well as labour force surveys from eight European countries representing different institutional and cultural contexts: Austria, France, Germany, Ireland, Italy, Norway, Poland, and the United Kingdom. The data were analysed using logistic regression models. RESULTS Our results show that the gap in single motherhood between highly educated and less- educated women generally changed over the period: Single motherhood increased disproportionally among less-educated women. The gap widened most among mothers with young children (0 to 4 years) and somewhat less for mothers of children at age 5 to 9 years. For mothers with children aged 15+, the prevalence of single motherhood varied only moderately by the mothers' level of education. CONTRIBUTION These findings suggest that being a low-educated single mother and having responsibility for young children has become more tightly linked. This uncovers a double disadvantage in that low-educated single mothers who possess less resources also more frequently have younger-aged children in need of more time and other resources.",
+  "authors": [
+    {
+      "raw": "Berghammer, Caroline",
+      "family": "Berghammer",
+      "given": "Caroline"
+    },
+    {
+      "raw": "Matysiak, Anna",
+      "family": "Matysiak",
+      "given": "Anna"
+    },
+    {
+      "raw": "Lyngstad, Torkild Hovde",
+      "family": "Lyngstad",
+      "given": "Torkild Hovde"
+    },
+    {
+      "raw": "Rinesi, Francesca",
+      "family": "Rinesi",
+      "given": "Francesca"
+    }
+  ],
+  "authors_text": "Berghammer, Caroline; Matysiak, Anna; Lyngstad, Torkild Hovde; Rinesi, Francesca",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.34",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.34",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.34",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.34.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

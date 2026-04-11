@@ -1,0 +1,35 @@
+{
+  "title": "Internal and External Ethnic Assessments in Eastern Europe",
+  "abstract": "This paper examines how internal processes of ethnic identification influence external processes of ethnic classification. To do so, it uses survey data from Bulgaria, Hungary, Romania, and Russia, which contain information for ethnic majorities and selected ethnic minorities (Roma (Gypsies) in Bulgaria, Hungary, and Romania; Hungarians in Romania; and Ukrainians in Russia). Respondentsâ self-identification of ethnicity exemplifies internal identification, while interviewersâ assessments of ethnicity are used as examples of external classification. Logistic regressions, with interviewersâ classifications of ethnicity as the dependent variable, show how these classifiers use respondentsâ self-identification of ethnicity, as well as other social markers (parentsâ ethnicity, language, geographical concentration, economic status, household size, and education), to assess ethnicity. The results show that although interviewers are strongly influenced by respondentsâ self-identification, they also override it. Interviewers use negative social characteristics (e.g. poverty, low education) to classify respondents as Roma who did not self-identify as such. For the ethnic majority groups in each country, as well as Hungarians in Romania, and Ukrainians in Russia, these variables had the opposite effect or had little influence, though ancestry and language had a strong effect for all groups. Interviewers more often classified respondents as ethnic majorities when the latter claimed to be non-Roma ethnic minorities. The results illustrate how ethnic classification processes differ fundamentally for a racialized group, the Roma, for whom classifications are external and exclusionary, as opposed to other ethnic groups, for whom social classifications are optional and generally inclusive.",
+  "authors": [
+    {
+      "raw": "Ahmed, P.",
+      "family": "Ahmed",
+      "given": "P."
+    },
+    {
+      "raw": "Feliciano, C.",
+      "family": "Feliciano",
+      "given": "C."
+    },
+    {
+      "raw": "Emigh, R. J.",
+      "family": "Emigh",
+      "given": "R. J."
+    }
+  ],
+  "authors_text": "Ahmed, P.; Feliciano, C.; Emigh, R. J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2007,
+  "doi": "10.1353/sof.2007.0087",
+  "doi_url": "https://doi.org/10.1353/sof.2007.0087",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2007.0087",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2007.0087.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

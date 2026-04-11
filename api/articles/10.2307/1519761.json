@@ -1,0 +1,30 @@
+{
+  "title": "Religion and economic growth across countries",
+  "abstract": "Empirical research on the determinants of economic growth typically neglects the influence of religion. To fill this gap, this study uses international survey data on religiosity for a broad panel of countries to investigate the effects of church attendance and religious beliefs on economic growth. To isolate the direction of causation from religiosity, to economic performance, the estimation relies on instrumental variables suggested by an analysis in which church attendance and religious beliefs are the dependent variables. The instruments are variables for the presence of state religion and for regulation of the religion market, the composition of religious adherence, and an indicator of religious pluralism. Results show that economic growth responds positively to religious beliefs, notably beliefs in hell and heaven, but negatively to church attendance. That is, growth depends on the extent of believing relative to belonging. These results accord with a model in which religious beliefs influence individual traits that enhance economic performance. The beliefs are an output of the religion sector and church attendance is an input to this sector Hence, for given beliefs, higher church attendance signifies more resources used up by the religion sector",
+  "authors": [
+    {
+      "raw": "Barro, RJ",
+      "family": "Barro",
+      "given": "RJ"
+    },
+    {
+      "raw": "McCleary, RM",
+      "family": "McCleary",
+      "given": "RM"
+    }
+  ],
+  "authors_text": "Barro, RJ; McCleary, RM",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2003,
+  "doi": "10.2307/1519761",
+  "doi_url": "https://doi.org/10.2307/1519761",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F1519761",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/1519761.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

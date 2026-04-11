@@ -1,0 +1,40 @@
+{
+  "title": "European Regional Populations: Current Trends, Future Pathways, and Policy Options",
+  "abstract": "Abstract Europe is currently experiencing an ageing population and slowing population growth of both the total and working-age populations. These trends are likely to continue. Even though population ageing will affect all European regions, different regions will be affected in different ways. Even under favorable conditions, 35–40 % of all NUTS2 regions will face a labor force decline. If economic conditions are poor, some regions may continue to grow, but 55–70 % of the regions will see a labor force decline by 10 % or more. In most regions of Eastern Europe, the labor force may decrease by more than 30 %. To keep regions prosperous (maintaining competitiveness) and to avoid worse inequality (maintaining cohesion), policy-makers must find ways to cope with these challenges through new fiscal and social policies, though policies directly affecting demographic and migratory trends may also be needed.",
+  "authors": [
+    {
+      "raw": "Rees, Philip",
+      "family": "Rees",
+      "given": "Philip"
+    },
+    {
+      "raw": "van der Gaag, Nicole",
+      "family": "van der Gaag",
+      "given": "Nicole"
+    },
+    {
+      "raw": "de Beer, Joop",
+      "family": "de Beer",
+      "given": "Joop"
+    },
+    {
+      "raw": "Heins, Frank",
+      "family": "Heins",
+      "given": "Frank"
+    }
+  ],
+  "authors_text": "Rees, Philip; van der Gaag, Nicole; de Beer, Joop; Heins, Frank",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2012,
+  "doi": "10.1007/s10680-012-9268-z",
+  "doi_url": "https://doi.org/10.1007/s10680-012-9268-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-012-9268-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-012-9268-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

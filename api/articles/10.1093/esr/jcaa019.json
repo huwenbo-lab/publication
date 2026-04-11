@@ -1,0 +1,30 @@
+{
+  "title": "Educational Transitions and Educational Inequality: A Multiple Pathways Sequential Logit Model Analysis of Finnish Birth Cohorts 1960-1985",
+  "abstract": "We developed a multiple pathways sequential logit model for analysing social background inequality in completed education and applied it to analyse educational inequality in Finland (birth cohorts 1960-1985). Our model builds on the sequential logit model for educational transitions, originally presented by Robert D. Mare and later extended by Maarten Buis, which disaggregates inequality in completed education into the weighted sum of inequalities in the transitions leading to it. Although the educational transitions framework is popular among educational stratification researchers, its applications have almost exclusively focused on analysing inequalities in separate educational transitions. Buis presented a unifying model of inequalities in educational transitions and completed education, which gives a substantive interpretation to the weights that link them. We applied this to an educational system in which the same educational outcomes can be reached through multiple pathways. Our analysis of Finnish register data shows that intergenerational educational persistence increased, particularly among women. The main reasons are increased inequality in academic upper-secondary (gymnasium) completion and gymnasium expansion that increased the weight of this transition as well as of the transition to university. We discuss the integration of structural and allocative mechanisms in educational stratification research.",
+  "authors": [
+    {
+      "raw": "Harkonen, Juho",
+      "family": "Harkonen",
+      "given": "Juho"
+    },
+    {
+      "raw": "Sirnio, Outi",
+      "family": "Sirnio",
+      "given": "Outi"
+    }
+  ],
+  "authors_text": "Harkonen, Juho; Sirnio, Outi",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcaa019",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa019",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa019",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa019.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

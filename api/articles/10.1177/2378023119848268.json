@@ -1,0 +1,25 @@
+{
+  "title": "When (In)Consistency Matters: Racial Identification and Specification",
+  "abstract": "Sociologists who rely on survey research have begun exploring the implications of racial inconsistency for not only multiracial identification but also for other social outcomes. Using the National Longitudinal Study of Adolescent to Adult Health, the author explores the consequences of different specifications of race for modeling three outcomes: educational attainment, self-rated health, and interracial relationship history. The author uses the model-fit criteria of Akaike information criterion and Bayesian information criterion to compare five methods of classifying multiple, changed, and other-race respondents and of operationalizing heterogeneity among them. The results show substantial variation across outcomes in the specifications preferred and indications of a qualitative difference in the meaning of race for social contact versus for social stratification. The article concludes with recommendations for how quantitative researchers should measure race even when the categories primarily serve as covariates.",
+  "authors": [
+    {
+      "raw": "Shiao, Jiannbin Lee",
+      "family": "Shiao",
+      "given": "Jiannbin Lee"
+    }
+  ],
+  "authors_text": "Shiao, Jiannbin Lee",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119848268",
+  "doi_url": "https://doi.org/10.1177/2378023119848268",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119848268",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119848268.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

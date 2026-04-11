@@ -1,0 +1,40 @@
+{
+  "title": "Evaluating the Role of Parental Education and Adolescent Health Problems in Educational Attainment",
+  "abstract": "This article reconsiders the role of social origin in health selection by examining whether parental education moderates the association between early health and educational attainment and whether health problems mediate the intergenerational transmission of education. We used longitudinal register data on Finns born in 1986-1991 (n= 352,899). We measured the completion of secondary and tertiary education until age 27 and used data on hospital care and medication reimbursements to assess chronic somatic conditions, frequent infections, and mental disorders at ages 10-16. We employed linear probability models to estimate the associations between different types of health problems and educational outcomes and to examine moderation by parental education, both overall in the population and comparing siblings with and without health problems. Finally, we performed a mediation analysis with g-computation to simulate whether a hypothetical eradication of health problems would weaken the association between parental and offspring education. All types of health problems reduced the likelihood of secondary education, but mental disorders were associated with the largest reductions. Among those with secondary education, there was further evidence of selection to tertiary education. High parental education buffered against the negative impact of mental disorders on completing secondary education but exacerbated it in the case of tertiary education. The simulated eradication of health problems slightly reduced disparities by parental education in secondary education (up to 10%) but increased disparities in tertiary education (up to 2%). Adolescent health problems and parental education are strong but chiefly independent predictors of educational attainment.",
+  "authors": [
+    {
+      "raw": "Mikkonen, Janne",
+      "family": "Mikkonen",
+      "given": "Janne"
+    },
+    {
+      "raw": "Remes, Hanna",
+      "family": "Remes",
+      "given": "Hanna"
+    },
+    {
+      "raw": "Moustgaard, Heta",
+      "family": "Moustgaard",
+      "given": "Heta"
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    }
+  ],
+  "authors_text": "Mikkonen, Janne; Remes, Hanna; Moustgaard, Heta; Martikainen, Pekka",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00919-y",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00919-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00919-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00919-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

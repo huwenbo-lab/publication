@@ -1,0 +1,35 @@
+{
+  "title": "Using Mixture Regression to Identify Varying Effects: A Demonstration With Paternal Incarceration",
+  "abstract": "The most widely used techniques for identifying the varying effects of stressors involve testing moderator effects via interaction terms in regression or multiple‐group analysis in structural equation modeling. The authors present mixture regression as an alternative approach. In contrast to more widely used approaches, mixture regression identifies varying effects without reliance on tests of moderator variables, such as using interaction terms or multiple group analyses. In many instances, the use of mixture regression also more effectively tests higher order and multiple interactions. A mixture regression example is presented using 214 families from the Fragile Families and Child Wellbeing study, half of whom had experienced paternal incarceration. Whereas typical regression and moderator analyses fail to find an effect or varying effects, mixture regression identified 4 classes uniquely influenced by the incarceration.",
+  "authors": [
+    {
+      "raw": "Dyer, W. Justin",
+      "family": "Dyer",
+      "given": "W. Justin"
+    },
+    {
+      "raw": "Pleck, Joseph",
+      "family": "Pleck",
+      "given": "Joseph"
+    },
+    {
+      "raw": "McBride, Brent",
+      "family": "McBride",
+      "given": "Brent"
+    }
+  ],
+  "authors_text": "Dyer, W. Justin; Pleck, Joseph; McBride, Brent",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2012,
+  "doi": "10.1111/j.1741-3737.2012.01012.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2012.01012.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2012.01012.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2012.01012.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

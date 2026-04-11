@@ -1,0 +1,25 @@
+{
+  "title": "Preparing local area population forecasts using a bi-regional cohort-component model without the need for local migration data",
+  "abstract": "BACKGROUND Cohort-component models incorporating directional migration are conceptually robust demographic models which are widely employed to forecast the populations of large subnational regions. However, they are difficult to apply at the local area scale. Simpler models, such as the Hamilton-Perry model, have modest input data requirements and are much quicker, cheaper, and easier to implement, but they offer less output detail, suffer from some conceptual and practical limitations, and can be less accurate. OBJECTIVE The aim of this paper is to describe and evaluate the synthetic migration cohort-component model - an approach to implementing the bi-regional model for local area population forecasts without the need for any locally specific migration data. METHODS The new approach is evaluated by creating several sets of 'forecasts' for local areas of Australia over past periods. For comparison, forecasts from two types of Hamilton-Perry model are also evaluated. Error is measured primarily with an alternative Absolute Percentage Error measure for total population which takes into account how well or poorly the population age-sex structure is forecast. RESULTS In the evaluation for Australian local areas, the synthetic migration model generated more accurate forecasts that the two Hamilton-Perry models in terms of median, mean, and 90th percentile Absolute Percentage Errors. CONTRIBUTION The synthetic migration model combines the conceptual and practical advantages of the bi-regional cohort-component model with the light data requirements and ease of calculation of simpler cohort models. It allows the bi-regional model to be applied in circumstances where local area migration data are unavailable or unreliable.",
+  "authors": [
+    {
+      "raw": "Wilson, Tom",
+      "family": "Wilson",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "Wilson, Tom",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.32",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

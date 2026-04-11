@@ -1,0 +1,25 @@
+{
+  "title": "Status Inconsistency Revisited: An Improved Statistical Model",
+  "abstract": "Gerhard Lenski hypothesized that status inconsistency leads to mental stress, social isolation, and liberal political views. But intensive empirical research has failed to observe these consequences. The statistical methods used in the research controlled for the main effects of relative positions in hierarchies by including the additive terms. But they neglected another confounding source, the interaction effect caused by reasons other than status inconsistency, while there was empirical evidence for its existence. This paper proposes an improved statistical model that controls for this confounding source by including one more term, a multiplicative term, while using the absolute difference between relative positions in different hierarchies to measure the effect of status inconsistency. This model is applied to the GSS data, and the hypothesized consequences are observed. Statistical results show that status inconsistency between education and income undermined self-rated health, satisfaction with leisure life, trust in other individuals in society, social participation in various groups and organizations, confidence in political and economic institutions, and conservative political party identification.",
+  "authors": [
+    {
+      "raw": "Zhang, X.",
+      "family": "Zhang",
+      "given": "X."
+    }
+  ],
+  "authors_text": "Zhang, X.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2007,
+  "doi": "10.1093/esr/jcm048",
+  "doi_url": "https://doi.org/10.1093/esr/jcm048",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcm048",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcm048.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

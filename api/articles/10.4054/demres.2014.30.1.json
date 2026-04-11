@@ -1,0 +1,25 @@
+{
+  "title": "An application of MCMC simulation in mortality projection for populations with limited data",
+  "abstract": "IIn this paper, we investigate the use of Bayesian modeling and Markov chain Monte Carlo (MCMC) simulation, via the software WinBUGS, to project future mortality for populations with limited data. In particular, we adapt some extensions of the Lee-Carter m",
+  "authors": [
+    {
+      "raw": "Li, Jackie",
+      "family": "Li",
+      "given": "Jackie"
+    }
+  ],
+  "authors_text": "Li, Jackie",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2014,
+  "doi": "10.4054/demres.2014.30.1",
+  "doi_url": "https://doi.org/10.4054/demres.2014.30.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2014.30.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2014.30.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

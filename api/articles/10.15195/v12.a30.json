@@ -1,0 +1,30 @@
+{
+  "title": "The Intergenerational Reach of Maternal Adverse Childhood Experiences: Associations with Children’s Emotional Support and Cognitive Stimulation",
+  "abstract": "Adverse childhood experiences (ACEs)—such as abuse, neglect, and household dysfunction before age 18—pose substantial risks to individual health and well-being throughout life, but relatively less research has examined how ACEs are associated with parenting behaviors or children’s home environments. We use linked mother–child data from the National Longitudinal Survey of Youth 1979, a U.S. longitudinal cohort study, to investigate how maternal ACEs are associated with the emotional support and cognitive stimulation of children. Regression results demonstrate an inverse relationship between maternal ACE exposure and the degree of emotional support and cognitive stimulation in children’s home environments. Children born to mothers with four or more ACEs had, on average, 4.9 percentile-unit lower emotional support scores and 5.6 percentile-unit lower cognitive stimulation scores relative to mothers with no ACE exposure, net of maternal and child sociodemographic characteristics. Further results document the importance of emotional neglect and physical abuse, both of which were independently and negatively related to the emotional support and cognitive stimulation of children. Our article builds on a growing body of literature by documenting links between maternal ACE exposure and children’s home environments and by illuminating the lengthy intergenerational reach of parental ACEs.",
+  "authors": [
+    {
+      "raw": "Stacey, Lawrence",
+      "family": "Stacey",
+      "given": "Lawrence"
+    },
+    {
+      "raw": "Williams, Kristi",
+      "family": "Williams",
+      "given": "Kristi"
+    }
+  ],
+  "authors_text": "Stacey, Lawrence; Williams, Kristi",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a30",
+  "doi_url": "https://doi.org/10.15195/v12.a30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "More Evidence for Trends in the Intergenerational Transmission of Divorce: A Completed Cohort Approach Using Data From the General Social Survey",
+  "abstract": "Abstract Many studies have demonstrated that the children of divorce are disproportionately likely to end their own marriages. In previous work, I showed that the transmission of divorce between generations weakened substantially for General Social Survey (GSS) respondents interviewed between 1973 and 1996 (Wolfinger 1999); Li and Wu (2006, 2008) contended that my finding is a methodological artifact of the GSS’s lack of marriage duration data. This article presents a completed-cohort approach to studying divorce using the GSS. The results confirm a decline in the probability of divorce transmission that cannot be explained by the right-censoring bias alleged by Li and Wu. This finding contributes to an ongoing debate about trends in the negative consequences of parental divorce, as well as demonstrating a useful approach to right-censored phenomena when event history data are not available.",
+  "authors": [
+    {
+      "raw": "Wolfinger, Nicholas H.",
+      "family": "Wolfinger",
+      "given": "Nicholas H."
+    }
+  ],
+  "authors_text": "Wolfinger, Nicholas H.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0025-4",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0025-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0025-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0025-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

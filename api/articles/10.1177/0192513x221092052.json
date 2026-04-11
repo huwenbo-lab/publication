@@ -1,0 +1,40 @@
+{
+  "title": "The Remarriage Belief Inventory: A Validation Study in the Remarried Portuguese Population",
+  "abstract": "Dysfunctional beliefs from previous experiences and unrealistic expectations can lead to low remarital quality. This study assessed the factor structure of the Portuguese version of the Remarriage Belief Inventory (RMBI). Data were analyzed with 741 remarried individuals. Participants were recruited through a web-based survey (LimeSurvey software) between January 2019 and July 2020. Two independent researchers translated the RMBI, and retroversion was performed by an independent bilingual research. The Exploratory Factor Analysis (EFA) revealed seven dimensions (Adjustment, Finances, Priority, Partner, Success, Stepfamily, and Past) confirming the original seven-factor structure. Confirmatory Factor Analysis confirmed good fit of data (CFA) fit (chi(2) (130) = 363.588, chi(2)/df = 2.79, p = .000; CFI = .93; GFI = .95; RMSEA = .05). Results revealed good internal consistency (alpha = 0.72). The RMBI also revealed good psychometric properties for construct validity, with measures of dyadic adjustment, stress, and social support. Implications and future research were discussed.",
+  "authors": [
+    {
+      "raw": "Santos, Carina",
+      "family": "Santos",
+      "given": "Carina"
+    },
+    {
+      "raw": "Higginbotham, Brian J.",
+      "family": "Higginbotham",
+      "given": "Brian J."
+    },
+    {
+      "raw": "Costa, Maria Emilia",
+      "family": "Costa",
+      "given": "Maria Emilia"
+    },
+    {
+      "raw": "Martins, Mariana Veloso",
+      "family": "Martins",
+      "given": "Mariana Veloso"
+    }
+  ],
+  "authors_text": "Santos, Carina; Higginbotham, Brian J.; Costa, Maria Emilia; Martins, Mariana Veloso",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x221092052",
+  "doi_url": "https://doi.org/10.1177/0192513x221092052",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x221092052",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x221092052.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

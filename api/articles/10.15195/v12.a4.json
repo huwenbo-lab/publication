@@ -1,0 +1,40 @@
+{
+  "title": "The Genetics of Partnership Dissolution",
+  "abstract": "There is a genetic component to divorce risk, but little is known about which and how genetically influenced traits are involved. This study makes three major contributions to address these gaps. First, we link genetic data from the Norwegian Mother, Father, and Child Cohort Study (MoBa) to population register data and estimate the total influence of common genetic variants on partnership dissolution (N = 121, 408). Then, we identify heritable traits associated with partnership dissolution using event-history analysis and a broad set of polygenic indices. Finally, we assess whether associations are robust to controls for confounding in within-sibling models. Significant heritability estimates were found for both females (h2SNP = 0.09; SE = 0.01; p < 0.0001) and males (h2SNP = 0.03; SE = 0.01; p < 0.0001). Genetic dispositions for educational attainment and other sociodemographic factors decrease the probability of partnership dissolution, whereas dispositions for internalizing symptoms and risk behavior increase the likelihood of partnership dissolution. Integrating genetics and sociodemographic approaches can shed new light on the causes of partnership dynamics by helping us understand what drives the selection processes throughout the life course.",
+  "authors": [
+    {
+      "raw": "Jørgensen, Ruth",
+      "family": "Jørgensen",
+      "given": "Ruth"
+    },
+    {
+      "raw": "Cheesman, Rosa",
+      "family": "Cheesman",
+      "given": "Rosa"
+    },
+    {
+      "raw": "Andreassen, Ole",
+      "family": "Andreassen",
+      "given": "Ole"
+    },
+    {
+      "raw": "Lyngstad, Torkild",
+      "family": "Lyngstad",
+      "given": "Torkild"
+    }
+  ],
+  "authors_text": "Jørgensen, Ruth; Cheesman, Rosa; Andreassen, Ole; Lyngstad, Torkild",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a4",
+  "doi_url": "https://doi.org/10.15195/v12.a4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "On stochastic comparisons of population age structures and life expectancies",
+  "abstract": "Cohort measures, describing a lifetime random variable are easily and unambiguously obtained using standard tools. On the contrary, the lifetime random variable, and therefore life expectancy, for the period setting cannot be unambiguously defined with",
+  "authors": [
+    {
+      "raw": "Finkelstein, Maxim",
+      "family": "Finkelstein",
+      "given": "Maxim"
+    }
+  ],
+  "authors_text": "Finkelstein, Maxim",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2005,
+  "doi": "10.4054/demres.2005.13.6",
+  "doi_url": "https://doi.org/10.4054/demres.2005.13.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2005.13.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2005.13.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "How General Is Trust in Most People? Solving the Radius of Trust Problem",
+  "abstract": "Generalized trust has become a paramount topic throughout the social sciences, in its own right and as the key civic component of social capital. To date, cross-national research relies on the standard question: Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people? Yet the radius problem-that is, how wide a circle of others respondents imagine as most people-makes comparisons between individuals and countries problematic. Until now, much about the radius problem has been speculation, but data for 51 countries from the latest World Values Survey make it possible to estimate how wide the trust radius actually is. We do this by relating responses to the standard trust question to a new battery of items that measures in-group and out-group trust. In 41 out of 51 countries, most people in the standard question predominantly connotes out-groups. To this extent, it is a valid measure of general trust in others. Nevertheless, the radius of most people varies considerably across countries; it is substantially narrower in Confucian countries and wider in wealthy countries. Some country rankings on trust thus change dramatically when the standard question is replaced by a radius-adjusted trust score. In cross-country regressions, the radius of trust matters for civic attitudes and behaviors because the assumed civic nature of trust depends on a wide radius.",
+  "authors": [
+    {
+      "raw": "Delhey, Jan",
+      "family": "Delhey",
+      "given": "Jan"
+    },
+    {
+      "raw": "Newton, Kenneth",
+      "family": "Newton",
+      "given": "Kenneth"
+    },
+    {
+      "raw": "Welzel, Christian",
+      "family": "Welzel",
+      "given": "Christian"
+    }
+  ],
+  "authors_text": "Delhey, Jan; Newton, Kenneth; Welzel, Christian",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1177/0003122411420817",
+  "doi_url": "https://doi.org/10.1177/0003122411420817",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122411420817",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122411420817.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

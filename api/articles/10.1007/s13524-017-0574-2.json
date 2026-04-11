@@ -1,0 +1,25 @@
+{
+  "title": "Trends in Education-Specific Life Expectancy, Data Quality, and Shifting Education Distributions: A Note on Recent Research",
+  "abstract": "Several recent articles have reported conflicting conclusions about educational differences in life expectancy, and this is partly due to the use of unreliable data subject to a numerator-denominator bias previously reported as ranging from 20 % to 40 %. This article presents estimates of life expectancy and lifespan variation by education in the United States using more reliable data from the National Health Interview Survey. Contrary to prior conclusions in the literature, I find that life expectancy increased or stagnated since 1990 among all education-race-sex groups except for non-Hispanic white women with less than a high school education; there has been a robust increase in life expectancy among white high school graduates and a smaller increase among black female high school graduates; lifespan variation did not increase appreciably among high school graduates; and lifespan variation plays a very limited role in explaining educational gradients in mortality. I also discuss the key role that educational expansion may play in driving future changes in mortality gradients. Because of shifting education distributions, within an education-specific synthetic cohort, older age groups are less negatively selected than younger age groups. We could thus expect a greater concentration of mortality at younger ages among people with a high school education or less, which would be reflected in increasing lifespan variability for this group. Future studies of educational gradients in mortality should use more reliable data and should be mindful of the effects of shifting education distributions.",
+  "authors": [
+    {
+      "raw": "Hendi, Arun S.",
+      "family": "Hendi",
+      "given": "Arun S."
+    }
+  ],
+  "authors_text": "Hendi, Arun S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0574-2",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0574-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0574-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0574-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

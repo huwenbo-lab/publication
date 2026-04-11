@@ -1,0 +1,45 @@
+{
+  "title": "Life Expectancy Among US-born and Foreign-born Older Adults in the United States: Estimates From Linked Social Security and Medicare Data",
+  "abstract": "In recent decades, the geographic origins of America's foreign-born population have become increasingly diverse. The sending countries of the U.S. foreign-born vary substantially in levels of health and economic development, and immigrants have arrived with distinct distributions of socioeconomic status, visa type, year of immigration, and age at immigration. We use high-quality linked Social Security and Medicare records to estimate life tables for the older U.S. population over the full range of birth regions. In 2000-2009, the foreign-born had a 2.4-year advantage in life expectancy at age 65 relative to the U.S.-born, with Asian-born subgroups displaying exceptionally high longevity. Foreign-born individuals who migrated more recently had lower mortality compared with those who migrated earlier. Nonetheless, we also find remarkable similarities in life expectancy among many foreign-born subgroups that were born in very different geographic and socioeconomic contexts (e.g., Central America, western/eastern Europe, and Africa).",
+  "authors": [
+    {
+      "raw": "Mehta, Neil K.",
+      "family": "Mehta",
+      "given": "Neil K."
+    },
+    {
+      "raw": "Elo, Irma T.",
+      "family": "Elo",
+      "given": "Irma T."
+    },
+    {
+      "raw": "Engelman, Michal",
+      "family": "Engelman",
+      "given": "Michal"
+    },
+    {
+      "raw": "Lauderdale, Diane S.",
+      "family": "Lauderdale",
+      "given": "Diane S."
+    },
+    {
+      "raw": "Kestenbaum, Bert M.",
+      "family": "Kestenbaum",
+      "given": "Bert M."
+    }
+  ],
+  "authors_text": "Mehta, Neil K.; Elo, Irma T.; Engelman, Michal; Lauderdale, Diane S.; Kestenbaum, Bert M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0488-4",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0488-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0488-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0488-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Beyond the exodus of May-June 1940: Internal migration in France during the Second World War",
+  "abstract": "BACKGROUND Research on annual migration between regions of the same country is scarce because statistical sources are often lacking. Consequently, little is known about migration between French regions during the Second World War. OBJECTIVES Propose a new method to estimate the annual populations of each region and deduce the annual migration flows between regions of the same country. Use this method to present the chronology of inter-regional migration flows in France during the Second World War. METHODS Annual regional populations are estimated using census populations and death-by-cause statistics at the local level. Death-by-cause statistics can be used to dissociate symmetrical mortality, which trends in the same way in the national territory, from asymmetrical mortality, which trends differently. This makes it possible to deduce the trend in the mortality rate and populations at the local level. RESULTS Analysis of French migration reveals that (1) a large proportion of the population (up to 60%) was displaced from the north to the south in 1940 and 1941; (2) the demarcation line did not prevent population movements; (3) the demographic scars of war were still present in 1946 since not all the refugees from the northwest and northeast returned. CONTRIBUTIONS This new method for analyzing annual migration flows between regions could be replicated to study other specific historical events. This paper also proposes a quantitative historical analysis of migration in France during the Second World War and shows that some territories were emptied of more than half their population in a few months.",
+  "authors": [
+    {
+      "raw": "Bonnet, Florian",
+      "family": "Bonnet",
+      "given": "Florian"
+    }
+  ],
+  "authors_text": "Bonnet, Florian",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.18",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

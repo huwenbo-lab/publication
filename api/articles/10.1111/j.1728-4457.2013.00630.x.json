@@ -1,0 +1,25 @@
+{
+  "title": "Geographic Divergence in Mortality in the United States",
+  "abstract": "The United States trails other developed countries in adult mortality, a process that has become more pronounced over the past several decades. However, comparisons are complicated by substantial geographic variations in mortality within the United States. The second half of the twentieth century was characterized by a substantial divergence in adult mortality between the South and the rest of the United States. The article examines trends in US geographic variation in mortality between 1965 and 2004, in particular the aggregate divergence in mortality between the southern states and states with more favorable mortality experience. Relatively high smoking-attributable mortality in the South explains 50-100 percent of the divergence for men between 1965 and 1985 and up to 50 percent for women between 1985 and 2004. There is also a geographic correspondence between the contribution of smoking and other factors, suggesting that smoking may be one piece of a more complex health-related puzzle.",
+  "authors": [
+    {
+      "raw": "Fenelon, Andrew",
+      "family": "Fenelon",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Fenelon, Andrew",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2013,
+  "doi": "10.1111/j.1728-4457.2013.00630.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2013.00630.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2013.00630.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2013.00630.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

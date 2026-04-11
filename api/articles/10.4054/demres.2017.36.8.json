@@ -1,0 +1,40 @@
+{
+  "title": "Contribution of smoking-attributable mortality to life expectancy differences by marital status among Finnish men and women, 1971-2010",
+  "abstract": "BACKGROUND Smoking is known to vary by marital status, but little is known about its contribution to marital status differences in longevity. We examined the changing contribution of smoking to mortality differences between married and never married, divorced or widowed Finnish men and women aged 50 years and above in 1971-2010. DATA AND METHODS The data sets cover all persons permanently living in Finland in the census years 1970, 1975 through 2000 and 2005 with a five-year mortality follow-up. Smoking-attributable mortality was estimated using an indirect method that uses lung cancer mortality as an indicator for the impact of smoking on mortality from all other causes. RESULTS Life expectancy differences between the married and the other marital status groups increased rapidly over the 40-year study period because of the particularly rapid decline in mortality among married individuals. In 1971-1975 37-48% of life expectancy differences between married and divorced or widowed men were attributable to smoking, and this contribution declined to 11-18% by 2006-2010. Among women, in 1971-1975 up to 16% of life expectancy differences by marital status were due to smoking, and the contribution of smoking increased over time to 10-29% in 2006-2010. CONCLUSIONS In recent decades smoking has left large but decreasing imprints on marital status differences in longevity between married and previously married men, and small but increasing imprints on these differences among women. Over time the contribution of other factors, such as increasing material disadvantage or alcohol use, may have increased.",
+  "authors": [
+    {
+      "raw": "Peltonen, Riina",
+      "family": "Peltonen",
+      "given": "Riina"
+    },
+    {
+      "raw": "Ho, Jessica Y.",
+      "family": "Ho",
+      "given": "Jessica Y."
+    },
+    {
+      "raw": "Elo, Irma T.",
+      "family": "Elo",
+      "given": "Irma T."
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    }
+  ],
+  "authors_text": "Peltonen, Riina; Ho, Jessica Y.; Elo, Irma T.; Martikainen, Pekka",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.8",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

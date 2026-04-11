@@ -1,0 +1,30 @@
+{
+  "title": "Country-Specific Conditions for Work and Family Reconciliation: An Attempt at Quantification",
+  "abstract": "The country-specific conditions for work and family reconciliation (family policies, labour market structures and gender norms) are believed to influence tensions between paid employment and childbearing. So far there have been very few attempts to quantify these conditions into a single measure which would allow for comparisons across countries of the magnitude of the barriers that working parents encounter. Such a quantitative index could also facilitate a quantitative investigation of the association between the macro-level conditions for work and family reconciliation and fertility at the individual level. In this paper, we seek to fill this gap by proposing a quantitative index of country-specific conditions for work and family reconciliation, which may be used, for example, in a two-level regression framework. The index takes into account all three components of the conditions for work and family reconciliation. We also perform a series of uncertainty and sensitivity analyses which verify the robustness of our assumptions and which illustrate the range of the index volatility.",
+  "authors": [
+    {
+      "raw": "Matysiak, Anna",
+      "family": "Matysiak",
+      "given": "Anna"
+    },
+    {
+      "raw": "Węziak-Białowolska, Dorota",
+      "family": "Węziak-Białowolska",
+      "given": "Dorota"
+    }
+  ],
+  "authors_text": "Matysiak, Anna; Węziak-Białowolska, Dorota",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2016,
+  "doi": "10.1007/s10680-015-9366-9",
+  "doi_url": "https://doi.org/10.1007/s10680-015-9366-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-015-9366-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-015-9366-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

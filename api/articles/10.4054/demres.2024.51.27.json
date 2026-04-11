@@ -1,0 +1,40 @@
+{
+  "title": "The changing socioeconomic composition of the Finnish prison population",
+  "abstract": "BACKGROUND Although prison inmates are known to be disadvantaged in multiple ways, we know less about changes in the socioeconomic backgrounds of prisoners over time. We examine these changes in a period characterized by a decreasing prisoner rate, the introduction of community service, and strong macroeconomic fluctuations. OBJECTIVE We analyze changes in the socioeconomic backgrounds of individuals imprisoned between 1988-2019. We provide comparisons with community sanctions and the non- convicted general population, and examine the same developments in subgroups of the imprisoned. METHOD Using total population register data, we examine annual changes across different groups in the measures of employment, receipt of social assistance, income, and education. RESULTS Our results show that the employment rates of individuals sent to prison declined heavily during the economic depression of the 1990s and have sunk to much lower levels since. This development is partly explained by some short-term prisoners being diverted to community service. The results are largely similar to other measures of socioeconomic status and different subgroups; the declining educational level of recidivist offenders especially stands out. CONCLUSIONS The Finnish prison population has grown increasingly detached from the labor market and generally more disadvantaged over time. CONTRIBUTION We provide new evidence on changes in the socioeconomic composition of the Finnish prison population. These results are important for prison policy and rehabilitation efforts that seek to improve prisoners' employability.",
+  "authors": [
+    {
+      "raw": "Aaltonen, Mikko",
+      "family": "Aaltonen",
+      "given": "Mikko"
+    },
+    {
+      "raw": "Pitkanen, Joonas",
+      "family": "Pitkanen",
+      "given": "Joonas"
+    },
+    {
+      "raw": "Tyni, Sasu",
+      "family": "Tyni",
+      "given": "Sasu"
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    }
+  ],
+  "authors_text": "Aaltonen, Mikko; Pitkanen, Joonas; Tyni, Sasu; Martikainen, Pekka",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.27",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

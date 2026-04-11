@@ -1,0 +1,25 @@
+{
+  "title": "Simulating the Effects of Acculturation and Return Migration on the Maternal and Infant Health of Mexican Immigrants in the United States: A Research Note",
+  "abstract": "Abstract A significant body of research on minority health shows that although Latino immigrants experience unexpectedly favorable outcomes in maternal and infant health, this advantage deteriorates with increased time of residence in the United States. This study evaluates the underlying assumptions of two competing hypotheses that explain this paradox. The first hypothesis attributes this deterioration to possible negative effects of acculturation and behavioral adjustments made by immigrants while living in the United States, and the second hypothesis attributes this deterioration to the mechanism of selective return migration. Hypothetical probabilistic models are simulated for assessing the relationship between duration and birth outcomes based on the assumptions of these two hypotheses. The results are compared with the empirical research on the maternal and infant health of first-generation, Mexican-origin immigrant women in the United States. The analysis provides evidence that a curvilinear pattern of duration and birth outcomes can be explained by the joint effects of both acculturation and selective return migration in which the former affects health status over the longer durations, and the latter affects health status at shorter durations.",
+  "authors": [
+    {
+      "raw": "Ceballos, Miguel",
+      "family": "Ceballos",
+      "given": "Miguel"
+    }
+  ],
+  "authors_text": "Ceballos, Miguel",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0017-4",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0017-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0017-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0017-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

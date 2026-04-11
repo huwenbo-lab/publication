@@ -1,0 +1,30 @@
+{
+  "title": "The Wages of Mothers' Labor: AMeta-RegressionAnalysis",
+  "abstract": "Objective To estimate the motherhood wage penalty and explain its wide variation across the research literature. Background Determining the size and understanding the cause of the motherhood wage penalty has important policy implications. If there is no practically significant motherhood wage penalty, then many of the popular explanations for the gender wage gap must be reassessed. If there is a significant motherhood penalty, its cause can help direct policy. Method We conduct a systematic review and meta-regression analysis (MRA) of 49 studies and 1895 estimates of the motherhood wage penalty. Results Meta-regression identifies 23 research characteristics associated with the reported penalty, including: the ways in which that wages are measured, selective reporting, the econometric methods employed, and the omission of relevant worker qualities from the wage equation. After controlling for multiple paths of heterogeneity, selection, misspecification biases, unobserved productivity effects, and selective reporting, our MRA identifies a small, but robust, motherhood wage penalty, mainly driven by a few countries: USA, UK, Germany, and Norway. Conclusion We estimate that the motherhood wage penalty is about 4% +/- 2%, per child, for US mothers. Our findings are most consistent with a perceived productivity effect or with discrimination.",
+  "authors": [
+    {
+      "raw": "de Linde Leonard, Megan",
+      "family": "de Linde Leonard",
+      "given": "Megan"
+    },
+    {
+      "raw": "Stanley, T. D.",
+      "family": "Stanley",
+      "given": "T. D."
+    }
+  ],
+  "authors_text": "de Linde Leonard, Megan; Stanley, T. D.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12693",
+  "doi_url": "https://doi.org/10.1111/jomf.12693",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12693",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12693.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

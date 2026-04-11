@@ -1,0 +1,25 @@
+{
+  "title": "A visual tool to explore the composition of international migration flows in the EU countries, 1998-2015",
+  "abstract": "BACKGROUND Ternary plots can effectively display compositional data and help to understand its multidimensional patterns. However, they are currently greatly underused in demography. OBJECTIVE My goal is to develop an interactive web-based visualization of compositional data on international migration flows in order to compare its developments over time and across countries, and through this example demonstrate the utility of ternary diagrams. METHODS R Shiny framework is used to build a web application Immigration and emigration flows in the EU Member States from 1998 to 2015 are grouped into three conventional categories (nationals of a reporting country, [other] EU nationals, and non-EU nationals) and presented on ternary diagrams. RESULTS Compositional data on migration flows can be effectively visualized using ternary plots. An interactive web application has been developed that allows comparative exploratory analysis of immigration and emigration composition and size in the EU countries over time. The impact of the entry of new countries to the EU can be assessed by comparing data referring to the EU composition of 28 Member States with data referring to the EU composition of the reference period. CONCLUSION Ternary plots can facilitate compositional analysis of migration flows grouped into three categories. CONTRIBUTION I introduce ternary plots for an exploratory analysis of migration composition and provide an online tool to carry out illustrative exploration. Demographic analysis of compositional data can benefit from the wider use of such plots.",
+  "authors": [
+    {
+      "raw": "Nowok, Beata",
+      "family": "Nowok",
+      "given": "Beata"
+    }
+  ],
+  "authors_text": "Nowok, Beata",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.27",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

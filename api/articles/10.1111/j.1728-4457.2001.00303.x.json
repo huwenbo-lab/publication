@@ -1,0 +1,35 @@
+{
+  "title": "Measurement of biomarkers in surveys in developing countries: Opportunities and problems",
+  "abstract": "Reliable and comprehensive data on disease levels, patterns, and trends in populations are required to monitor global and local epidemics and to assess the effectiveness of public health approaches to disease and injury prevention and control. For most developing countries, little is reliably known about causes of mortality or about disease incidence, prevalence, and duration. Advances in technology offer the opportunity to collect biomarkers-biological and clinical data-in existing large-scale, national sample surveys. Such data on biomarkers could result in significantly better insight into public health problems and more rational and equitable policies leading to improved health. The combination of traditionally collected behavioral data with biological and clinical data affords many possibilities to better assess health problems and to develop the most cost-effective set of interventions. Careful assessment and discussion of the potential public health benefits, ethical issues, and logistical challenges should guide the application of technological advances in population-based surveys.",
+  "authors": [
+    {
+      "raw": "Boerma, JT",
+      "family": "Boerma",
+      "given": "JT"
+    },
+    {
+      "raw": "Holt, E",
+      "family": "Holt",
+      "given": "E"
+    },
+    {
+      "raw": "Black, R",
+      "family": "Black",
+      "given": "R"
+    }
+  ],
+  "authors_text": "Boerma, JT; Holt, E; Black, R",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2001,
+  "doi": "10.1111/j.1728-4457.2001.00303.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2001.00303.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2001.00303.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2001.00303.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Heterogeneous Impacts of Concentrated Poverty During Adolescence on College Outcomes",
+  "abstract": "This research analyzes how living in concentrated poverty during adolescence affects future college outcomes. Using Add Health data and propensity score methods to explore effect heterogeneity, I find that concentrated poverty has little direct impact on college matriculation. It does, however, strongly reduce the odds of graduating from college for adolescents least likely to reside in concentrated poverty. This indicates an advantage-leveling model in which individuals with prior advantages have the most to lose from neighborhood disadvantage during adolescence. I assess neighborhood socialization, school effects, and peer effects as potential explanations for the neighborhood effect. Supporting collective socialization theory, neighborhood economic opportunity and resource deprivation are key aspects of poverty-saturated neighborhoods that influence college graduation odds. Schools also play an important role in the relationship between neighborhoods and college outcomes. Main effects are likely to be causal as they are highly robust to unobserved confounding.",
+  "authors": [
+    {
+      "raw": "Levy, Brian L.",
+      "family": "Levy",
+      "given": "Brian L."
+    }
+  ],
+  "authors_text": "Levy, Brian L.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy116",
+  "doi_url": "https://doi.org/10.1093/sf/soy116",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy116",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy116.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

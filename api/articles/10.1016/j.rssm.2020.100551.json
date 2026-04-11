@@ -1,0 +1,25 @@
+{
+  "title": "Sociodemographic inequality in exposure to COVID-19-induced economic hardship in the United Kingdom",
+  "abstract": "The COVID-19 pandemic led to a lockdown in European countries in the first half of 2020, including stay-at-home orders and closure of non-essential businesses. To mitigate the detrimental effects on the financial stress of employees and households, the UK government implemented a furlough scheme that temporarily secured earnings up to 80 percent of regular pay. Other employees were at risk of reduced work hours or permanent job loss. Using data from the UK Household Longitudinal Study COVID-19 Supplement, this study examines the extent to which different earnings groups and sociodemographic groups (gender, race/ethnicity, class background) became exposed to economic hardship between March and May of 2020. Results indicate that lower earnings groups were more than twice as likely to experience economic hardship relative to top quintile earners. Furthermore, among pre-COVID employed individuals, men had a higher probability of being furloughed or dismissed from work, as well as whites in middle-income jobs. Analyses indicate that these gaps are to a large extent attributable to structural gender earnings inequalities within occupations and the fact that women and racial-ethnic minorities are employed in essential occupations.",
+  "authors": [
+    {
+      "raw": "Witteveen, Dirk",
+      "family": "Witteveen",
+      "given": "Dirk"
+    }
+  ],
+  "authors_text": "Witteveen, Dirk",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100551",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100551",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100551",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100551.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

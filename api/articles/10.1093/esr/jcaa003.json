@@ -1,0 +1,30 @@
+{
+  "title": "Endogenous Selection Bias and Cumulative Inequality over the Life Course: Evidence from Educational Inequality in Subjective Well-Being",
+  "abstract": "According to theories of cumulative (dis-)advantage, inequality increases over the life course. Labour market research has seized this argument to explain the increasing economic inequality as people age. However, evidence for cumulative (dis-)advantage in subjective well-being remains ambiguous, and a prominent study from the United States has reported contradictory results. Here, we reconcile research on inequality in subjective well-being with theories of cumulative (dis-)advantage. We argue that the age-specific endogenous selection of the (survey) population results in decreasing inequalities in subjective well-being means whereas individual-level changes show a pattern of cumulative (dis-)advantage. Using repeated cross-sectional data from the European Social Survey (N = 15,252) and employing hierarchical age-period-cohort models, we replicate the finding of decreasing inequality from the United States with the same research design for Germany. Using panel data from the German Socio-Economic Panel Study (persons = 47,683, person-years = 360,306) and employing growth curve models, we show that this pattern of decreasing inequality in subjective well-being means is accompanied by increasing inequality in intra-individual subjective well-being changes. This pattern arises because disadvantaged groups, such as the low educated and individuals with low subjective well-being show lower probabilities of continuing to participate in a survey and because both determinants reinforce each other. In addition to allowing individual changes and attrition processes to be examined, the employed multi-cohort panel data have further key advantages for examining inequality in subjective well-being over the life course: They require weaker assumptions to control for period and cohort effects and make it possible to control for interviewer effects that may influence the results.",
+  "authors": [
+    {
+      "raw": "Kratz, Fabian",
+      "family": "Kratz",
+      "given": "Fabian"
+    },
+    {
+      "raw": "Patzina, Alexander",
+      "family": "Patzina",
+      "given": "Alexander"
+    }
+  ],
+  "authors_text": "Kratz, Fabian; Patzina, Alexander",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcaa003",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

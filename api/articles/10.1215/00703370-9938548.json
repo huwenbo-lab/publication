@@ -1,0 +1,30 @@
+{
+  "title": "The New System of Mexican Migration: The Role of Entry Mode-Specific Human and Social Capital",
+  "abstract": "Between 2000 and 2020, undocumented migration declined, temporary labor migration rose, and legal permanent residents arrived at a steady pace-together creating a new system of Mexico-U.S. migration based on the circulation of legal temporary workers and permanent residents. Drawing on data from the U.S. Department of Homeland Security and the Mexican Migration Project, we specify multinomial event-history models to predict the likelihood of departure on first and later trips via four entry categories: no documents, noncompliant tourist visas, temporary work visas, and legal residence visas. The models reveal how the accumulation of entry mode-specific social and human capital powered a system of undocumented migration that emerged between 1965 and 1985, and how that system deteriorated from 1985 to 2000. After 2000, employers took advantage of new visa categories to recruit legal temporary workers, leading to the accumulation of migration-related human and social capital specific to that mode of entry and the emergence of a new system of Mexico-U.S. migration.",
+  "authors": [
+    {
+      "raw": "Wassink, Joshua",
+      "family": "Wassink",
+      "given": "Joshua"
+    },
+    {
+      "raw": "Massey, Douglas S.",
+      "family": "Massey",
+      "given": "Douglas S."
+    }
+  ],
+  "authors_text": "Wassink, Joshua; Massey, Douglas S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9938548",
+  "doi_url": "https://doi.org/10.1215/00703370-9938548",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9938548",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9938548.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

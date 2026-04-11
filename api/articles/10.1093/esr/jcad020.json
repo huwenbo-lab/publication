@@ -1,0 +1,40 @@
+{
+  "title": "Trust intermediary in a cryptomarket for illegal drugs",
+  "abstract": "Cooperation without third-party enforcement is particularly puzzling in illicit online markets given the anonymity of online exchanges in the 'dark web' and the asymmetry of information between buyers and sellers. Most of the literature investigates the effects of reputation systems on sales. Less is known about the role of (semi)institutionalized solutions to trust problems, such as the escrow service, which deposits payments for online purchases with the market platform and releases them only upon confirmation of the item delivery by a customer. We study the effect of such a trust intermediary on sales in a cryptomarket for illegal drugs. Using a large dataset of illegal online transactions, we estimate two sets of fixed effects models predicting the sellers' choice to offer the trust intermediary and examine the effects of such a choice on sales. Our results indicate that the trust intermediary reduces online drug sales. We explain this finding by showing suggestive evidence that escrow may crowd out traders' trust and reciprocity. Our findings have implications for theories of the role of institutions in online markets and offer policy recommendations for law enforcement agencies.",
+  "authors": [
+    {
+      "raw": "Andrei, Filippo",
+      "family": "Andrei",
+      "given": "Filippo"
+    },
+    {
+      "raw": "Barrera, Davide",
+      "family": "Barrera",
+      "given": "Davide"
+    },
+    {
+      "raw": "Krakowski, Krzysztof",
+      "family": "Krakowski",
+      "given": "Krzysztof"
+    },
+    {
+      "raw": "Sulis, Emilio",
+      "family": "Sulis",
+      "given": "Emilio"
+    }
+  ],
+  "authors_text": "Andrei, Filippo; Barrera, Davide; Krakowski, Krzysztof; Sulis, Emilio",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad020",
+  "doi_url": "https://doi.org/10.1093/esr/jcad020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

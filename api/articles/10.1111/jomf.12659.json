@@ -1,0 +1,30 @@
+{
+  "title": "Partner Incarceration and Women's Substance Use",
+  "abstract": "Objective This study examines whether the incarceration of women's partners is associated with their own drug, alcohol, and cigarette use. Background Partners of incarcerated men face a number of stressors, including deteriorating relationships and economic instability. These stressors may lead women to engage in coping strategies that can negatively impact health. Methods Data come from the Fragile Families and Child Wellbeing Study (N = 3,733), a cohort study of mostly low-income mothers in 20 large U.S. cities. Using lagged dependent variable models and propensity score matching, the authors estimate women's alcohol, drug, and cigarette use as a function of partner incarceration. The authors also examine mediators (relationship instability, economic instability, and diminished mental health) and moderators (race/ethnicity, residential status) of these associations. Results Partner incarceration was significantly associated with drug use only, and this association was concentrated among Black women. There was no evidence that this association operated through the studied mediators. Conclusion The findings suggest that the social contexts in which Black women live can make those who experience partner incarceration particularly vulnerable to drug use. Although the findings leave questions regarding the pathways through which partner incarceration is linked to drug use, they suggest that incarceration compounds the disadvantages Black women already face in a social system that stratifies access to social goods based on skin color and ethnic origin, which may contribute to health disparities more broadly.",
+  "authors": [
+    {
+      "raw": "Bruns, Angela",
+      "family": "Bruns",
+      "given": "Angela"
+    },
+    {
+      "raw": "Lee, Hedwig",
+      "family": "Lee",
+      "given": "Hedwig"
+    }
+  ],
+  "authors_text": "Bruns, Angela; Lee, Hedwig",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12659",
+  "doi_url": "https://doi.org/10.1111/jomf.12659",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12659",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12659.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

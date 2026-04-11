@@ -1,0 +1,35 @@
+{
+  "title": "An individual-based model of innovation diffusion mixing social value and individual benefit",
+  "abstract": "The authors propose an individual-based model of innovation diffusion and explore its main dynamical properties. In the model, individuals assign an a priori social value to an innovation which evolves during their interactions with the relative agreement influence model. This model offers the possibility of including a minority of extremists with extreme and very definite opinions. Individuals who give a high social value to the innovation tend to look for information that allows them to evaluate more precisely the individual benefit of adoption. If the social value they assign is low, they neither consider the information nor transmit it. The main finding is that innovations with high social value and low individual benefit have a greater chance of succeeding than innovations with low social value and high individual benefit. Moreover, in some cases, a minority of extremists can have a very important impact on the propagation by polarizing the social value.",
+  "authors": [
+    {
+      "raw": "Deffuant, G",
+      "family": "Deffuant",
+      "given": "G"
+    },
+    {
+      "raw": "Huet, S",
+      "family": "Huet",
+      "given": "S"
+    },
+    {
+      "raw": "Amblard, F",
+      "family": "Amblard",
+      "given": "F"
+    }
+  ],
+  "authors_text": "Deffuant, G; Huet, S; Amblard, F",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2005,
+  "doi": "10.1086/430220",
+  "doi_url": "https://doi.org/10.1086/430220",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F430220",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/430220.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Intergenerational Transmission of Union Instability in Early Adulthood",
+  "abstract": "Research on the intergenerational transmission of divorce should be expanded to incorporate disrupted nonmarital cohabitations. This study (a) examined the transmission of union instability from parents to offspring using data from the National Longitudinal Study of Adolescent to Adult Health, (b) replaced binary variables (divorced vs. nondivorced) typically used in this literature with count variables (number of disrupted unions), (c) relied on independent sources for data on parents' and offspring's union disruptions to minimize same-source bias, (d) assessed the mediating role of theoretically derived variables (many not previously considered in this literature), and (e) incorporated information on discord in intact parental unions. Parent and offspring union disruptions were positively linked, with each parental disruption associated with a 16% increase in the number of offspring disruptions, net of controls. The mediators collectively accounted for 44% of the estimated intergenerational effect. Parent discord in intact unions was associated with more offspring disruptions.",
+  "authors": [
+    {
+      "raw": "Amato, Paul R.",
+      "family": "Amato",
+      "given": "Paul R."
+    },
+    {
+      "raw": "Patterson, Sarah E.",
+      "family": "Patterson",
+      "given": "Sarah E."
+    }
+  ],
+  "authors_text": "Amato, Paul R.; Patterson, Sarah E.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2017,
+  "doi": "10.1111/jomf.12384",
+  "doi_url": "https://doi.org/10.1111/jomf.12384",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12384",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12384.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "A Research Note on Income Pooling in Partnerships: Incorporating Nonresident Children",
+  "abstract": "Income pooling is a common behavior among couples. However, cohabiting and married individuals in more complex families, namely those with stepchildren, are less likely to pool incomes. Similarly, income pooling might be unlikely when there are nonresident children, who could potentially draw resources outside the household, yet prior work has largely overlooked the role of nonresident children. We take advantage of a unique data set, the Family and Relationships Study, which allows us to not only identify shared and unshared children (i.e., stepchildren) within the household but also unshared children outside the household. Focusing on cohabiting and married individuals (N = 4,408), we find that those with resident unshared children are less likely to pool incomes but that nonresident children are unrelated to income pooling. The results confirm that household-level complexity is a key factor in couples' economic decision making.",
+  "authors": [
+    {
+      "raw": "Eickmeyer, Kasey J.",
+      "family": "Eickmeyer",
+      "given": "Kasey J."
+    },
+    {
+      "raw": "Guzzo, Karen Benjamin",
+      "family": "Guzzo",
+      "given": "Karen Benjamin"
+    },
+    {
+      "raw": "Manning, Wendy D.",
+      "family": "Manning",
+      "given": "Wendy D."
+    },
+    {
+      "raw": "Brown, Susan L.",
+      "family": "Brown",
+      "given": "Susan L."
+    }
+  ],
+  "authors_text": "Eickmeyer, Kasey J.; Guzzo, Karen Benjamin; Manning, Wendy D.; Brown, Susan L.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2019,
+  "doi": "10.1177/0192513x19868270",
+  "doi_url": "https://doi.org/10.1177/0192513x19868270",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x19868270",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x19868270.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Work-family conflict and depressive symptoms among dual-earner couples in Germany: A dyadic and longitudinal analysis",
+  "abstract": "This study contributes to the existing literature by testing the longitudinal effects of both types of work-family conflict (i.e., work-to-family conflict [WTFC] and family-to-work conflict [FTWC]) on depressive symptoms, using data from three waves of the German Family Panel (pairfam) survey collected over a four-year period. Using responses from 631 married or cohabiting heterosexual couples, the analyses are estimated using dyadic data analysis and auto-regressive and cross-lagged panel models. This analytical approach tests direct causation, reverse causation, and reciprocal relationships among WTFC, FTWC and depressive symptoms. The results suggest a reciprocal relationship with significant cross-lagged actor effects between WTFC (and FTWC) and depressive symptoms. However, there were no gender differences in the cross-lagged actor effects between men and women, and no significant partner effects. These results highlight the bidirectional nature of the relationship between work-family conflict and depressive symptoms, which has several implications for research and practice.",
+  "authors": [
+    {
+      "raw": "Yucel, Deniz",
+      "family": "Yucel",
+      "given": "Deniz"
+    },
+    {
+      "raw": "Borgmann, Lea-Sophie",
+      "family": "Borgmann",
+      "given": "Lea-Sophie"
+    }
+  ],
+  "authors_text": "Yucel, Deniz; Borgmann, Lea-Sophie",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102684",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102684",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102684",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102684.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

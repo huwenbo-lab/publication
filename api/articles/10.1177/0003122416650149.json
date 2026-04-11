@@ -1,0 +1,30 @@
+{
+  "title": "Trust Thy Crooked Neighbor: Multiplexity in Chicago Organized Crime Networks",
+  "abstract": "Bureaucratic and patrimonial theories of organized crime tend to miss the history and mobility of crime groups integrating into and organizing with legitimate society. The network property of multiplexitywhen more than one type of relationship exists between a pair of actorsoffers a theoretical and empirical inroad to analyzing overlapping relationships of seemingly disparate social spheres. Using the historical case of organized crime in Chicago and a unique relational database coded from more than 5,000 pages of archival documents, we map the web of multiplex relationships among bootleggers, politicians, union members, businessmen, families, and friends. We analyze the overlap of criminal, personal, and legitimate networks containing 1,030 individuals and 3,726 mutual dyads between them. Multiplexity is rare in these data: only 10 percent of the mutual dyads contain multiplex ties. However, results from bivariate exponential random graph models demonstrate that multiplexity is a relevant structural property binding the three networks together. Even among our sample of criminals, we find dependencies between the criminal and personal networks and the criminal and legitimate networks. Although not pervasive, multiplexity glued these worlds of organized crime together above and beyond the personalities of famous gangsters, ethnic homophily, and other endogenous network processes.",
+  "authors": [
+    {
+      "raw": "Smith, Chris M.",
+      "family": "Smith",
+      "given": "Chris M."
+    },
+    {
+      "raw": "Papachristos, Andrew V.",
+      "family": "Papachristos",
+      "given": "Andrew V."
+    }
+  ],
+  "authors_text": "Smith, Chris M.; Papachristos, Andrew V.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1177/0003122416650149",
+  "doi_url": "https://doi.org/10.1177/0003122416650149",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122416650149",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122416650149.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

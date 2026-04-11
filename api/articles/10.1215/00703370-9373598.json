@@ -1,0 +1,30 @@
+{
+  "title": "Occupational Inflexibility and Women's Employment During the Transition to Parenthood",
+  "abstract": "The typical U.S. workplace has adapted little to changes in the family and remains bound to norms of a workweek of 40 or more hours. How jobs are structured and remunerated within occupations shapes gender inequality in the labor market, and this may be particularly true at the critical juncture of parenthood. This study provides novel evidence showing how the inflexibility of occupational work hours shapes new mothers' employment. We use a fixed-effects approach and individual -level data from nationally representative panels of the Survey of Income and Program Participation (N=2,239 women) merged with occupational characteristics from the American Community Survey. We find that women in pre-birth occupations with higher shares working 40 or more hours per week and higher wage premiums to longer work hours are significantly less likely to be employed post-birth. These associations are small in magnitude and not statistically significant for men, and placebo regressions with childless women show no associations between occupational inflexibility and subsequent employment. Results illustrate how individual employment decisions are jointly constrained by the structure of the labor market and persistent gendered cultural norms about breadwinning and caregiving.",
+  "authors": [
+    {
+      "raw": "Ishizuka, Patrick",
+      "family": "Ishizuka",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Musick, Kelly",
+      "family": "Musick",
+      "given": "Kelly"
+    }
+  ],
+  "authors_text": "Ishizuka, Patrick; Musick, Kelly",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9373598",
+  "doi_url": "https://doi.org/10.1215/00703370-9373598",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9373598",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9373598.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

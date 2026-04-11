@@ -1,0 +1,30 @@
+{
+  "title": "Recency of Divorce, Depression, and Suicide Risk",
+  "abstract": "Previous individual-level research on the association between the status of divorce and suicide risk has been marked by two recurrent limitations: (a) it is not clear if the timing of divorce (recent vs. distal) affects risk of completed suicides and (b) it is not clear if the association between divorce and suicide completions will withstand controls for a series of risk and protective factors including psychiatric morbidity. The present study addresses these two gaps in the literature. Data are from the National Mortality Follow Back Survey and refer to 13,897 deaths including 1,169 suicides. A model is estimated that controls for major alternative predictors of suicide completions including psychiatric predictors (depression scale) and sociological risk and protective factors (job loss, job demotion, and religiosity). The results of a multivariate logistic regression analysis determined that, controlling for the psychiatric, social, and economic predictors of suicide completions, recent divorce increases the odds of death by suicide 1.6 times, compared with 1.3 times for distal divorce. The study provides the first systematic, U.S.-based results that show that the timing of divorce influences risk of completed suicides independent of depression.",
+  "authors": [
+    {
+      "raw": "Stack, Steven",
+      "family": "Stack",
+      "given": "Steven"
+    },
+    {
+      "raw": "Scourfield, Jonathan",
+      "family": "Scourfield",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Stack, Steven; Scourfield, Jonathan",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2013,
+  "doi": "10.1177/0192513x13494824",
+  "doi_url": "https://doi.org/10.1177/0192513x13494824",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x13494824",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x13494824.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

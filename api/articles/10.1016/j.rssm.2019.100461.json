@@ -1,0 +1,30 @@
+{
+  "title": "Ethnic and social class discrimination in education: Experimental evidence from Germany",
+  "abstract": "Even though social class is at least as predictive of educational achievement as ethnicity in virtually all developed countries, experimental research on discrimination in education has overwhelmingly focused on the latter. We investigate both ethnic discrimination and social class discrimination by elementary school teachers in Germany. We conceptualize discrimination as causal effects of signals and use directed acyclic graphs (DAGs) to disentangle ethnic from social class discrimination. In our experiment, we asked randomly sampled elementary school teachers who teach immigrants to evaluate an essay written by a fourth-grader. Employing a 2x2x3 factorial design, we varied essay quality, child's gender, and ethnic and socioeconomic background using names as stimuli. We do not find evidence for discrimination in grading. However, our findings for teachers' expectations of children's future performance suggest a discriminatory bias along the lines of both ethnicity and social class. The effect is conditional on essay quality-it only holds true for the better essay. We interpret our findings as evidence for models that highlight situational moderators such as the richness of information and ambiguity-e.g., statistical discrimination-but as evidence against simpler models of ingroup-favoritism or outgroup derogation, e.g., social identity theory or taste discrimination.",
+  "authors": [
+    {
+      "raw": "Wenz, Sebastian E.",
+      "family": "Wenz",
+      "given": "Sebastian E."
+    },
+    {
+      "raw": "Hoenig, Kerstin",
+      "family": "Hoenig",
+      "given": "Kerstin"
+    }
+  ],
+  "authors_text": "Wenz, Sebastian E.; Hoenig, Kerstin",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100461",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100461",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100461",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100461.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

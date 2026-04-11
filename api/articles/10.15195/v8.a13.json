@@ -1,0 +1,30 @@
+{
+  "title": "Direct and Indirect Effects of Grandparent Education on Grandchildren's Cognitive Development: The Role of Parental Cognitive Ability",
+  "abstract": "The social stratification literature is inconclusive about whether there is a direct effect of grandparent resources on grandchildren's educational outcomes net of parental characteristics. Some of this heterogeneity may be due to differences in omitted variable bias at the parental level. Our article accounts for a more extensive set of parent characteristics and explores the mediating role of parental cognitive ability in more detail. It further tackles methodological challenges (treatmentinduced mediator–outcome confounders, treatment–mediator interaction) in assessing any direct influences of grandparents by using a regression-with-residuals approach. Using the 1970 British Cohort Study, our results show that the direct effect of grandparent education on grandchildren's verbal and numerical ability is small and statistically nonsignificant. Parental cognitive ability alone can account for more than two-thirds (numerical ability) or half (verbal ability) of the overall grandparent effect. These findings stress the importance of cognitive ability for intergenerational social mobility processes.",
+  "authors": [
+    {
+      "raw": "Klein, Markus",
+      "family": "Klein",
+      "given": "Markus"
+    },
+    {
+      "raw": "Kühhirt, Michael",
+      "family": "Kühhirt",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Klein, Markus; Kühhirt, Michael",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2021,
+  "doi": "10.15195/v8.a13",
+  "doi_url": "https://doi.org/10.15195/v8.a13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv8.a13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v8.a13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

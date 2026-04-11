@@ -1,0 +1,35 @@
+{
+  "title": "Protest under fire? Explaining the policing of protest",
+  "abstract": "Hypotheses about police presence and police action at social movement protest events in New York State between 1968 and 1973 are tested with the aim of understanding the broad mechanisms of social control used by authorities during this cycle of mass protest. Contrary to the popular perception of overzealous police repression of protest in this period, results show that police did not attend the majority of protest events. Tests of dominant explanations of police presence using logistic regress, on analysis indicate that the best predictor of police presence at a protest event was how threatening the event was-police attended larger protest events and those that used confrontational tactics. Tests (using multinomial logistic regression) of explonations of police action, given police presence at an event, indicate that extreme forms of police action were also triggered by threatening characteristics of events. Events in which subordinate groups and social movement organizations participated were also more likely to draw police action. Novel contributions include the comparison of dominant explanations of protest policing and methods that move beyond the tradition of examining repression through police presence or absence.",
+  "authors": [
+    {
+      "raw": "Earl, J",
+      "family": "Earl",
+      "given": "J"
+    },
+    {
+      "raw": "Soule, SA",
+      "family": "Soule",
+      "given": "SA"
+    },
+    {
+      "raw": "McCarthy, JD",
+      "family": "McCarthy",
+      "given": "JD"
+    }
+  ],
+  "authors_text": "Earl, J; Soule, SA; McCarthy, JD",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2003,
+  "doi": "10.2307/1519740",
+  "doi_url": "https://doi.org/10.2307/1519740",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F1519740",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/1519740.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

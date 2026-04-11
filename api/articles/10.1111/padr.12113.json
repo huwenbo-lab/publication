@@ -1,0 +1,40 @@
+{
+  "title": "Full Generational Accounts: What Do We Give to the Next Generation?",
+  "abstract": "What do we give to the next generation? Do we transfer wealth and human capital to our children, or do we saddle them with debt and obligations to support us in our old age? Standard Generational Accounts (GA) calculate the net present value of public sector taxes and benefits. Full Generational Accounts (FGA) add to this the present value of expected private transfers received over a lifetime, including parental costs of childrearing, bequests, and inter vivos transfers. We introduce three versions of FGA. Using data from National Transfer Accounts (NTA), we calculate FGAs for the United States, where public transfers to children and the elderly are important, and for Taiwan, where the family plays a larger role in both. We decompose the FGA into public and private components, and into human capital investments (health, education), bequests, and other consumption. FGAs indicate substantial transfers to the generation born in 2010.",
+  "authors": [
+    {
+      "raw": "Lee, Ronald",
+      "family": "Lee",
+      "given": "Ronald"
+    },
+    {
+      "raw": "McCarthy, David",
+      "family": "McCarthy",
+      "given": "David"
+    },
+    {
+      "raw": "Sefton, James",
+      "family": "Sefton",
+      "given": "James"
+    },
+    {
+      "raw": "Sambt, Joze",
+      "family": "Sambt",
+      "given": "Joze"
+    }
+  ],
+  "authors_text": "Lee, Ronald; McCarthy, David; Sefton, James; Sambt, Joze",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2017,
+  "doi": "10.1111/padr.12113",
+  "doi_url": "https://doi.org/10.1111/padr.12113",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12113",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12113.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

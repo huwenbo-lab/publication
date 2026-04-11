@@ -1,0 +1,30 @@
+{
+  "title": "The empirical content of season-of-birth effects: An investigation with Turkish data",
+  "abstract": "BACKGROUND Our aim is to investigate the link between season of birth and socioeconomic background. OBJECTIVE Season of birth is often used as an instrumental variable in answering various research questions in demography and economics. We use Turkish data to point out the potential deficiencies of this approach. We show that these deficiencies can be amplified in developing-country settings due to measurement errors. METHODS We merge administrative birth records into the Turkish Labor Force survey and use OLS, IV-2SLS, and regression discontinuity approaches to answer the question we pose. RESULTS We find that, due to certain institutional, cultural, and geographical factors, around 20% of the Turkish population are reported to have been born in January. Moreover, January-born individuals have, on average, a worse socioeconomic background than individuals born in other months. CONCLUSIONS These findings suggest that the season-of-birth variable, which is used as an instrumental variable (IV) in many studies using Turkish data, is not random; thus, one should be careful in implementing IV estimation based on season-of-birth cutoffs. In particular, it cannot be used in regression discontinuity exercises relying on date cutoffs around January 1 (which important policy efforts such as the reform of compulsory education often do) unless handled with caution.",
+  "authors": [
+    {
+      "raw": "Torun, Huzeyfe",
+      "family": "Torun",
+      "given": "Huzeyfe"
+    },
+    {
+      "raw": "Tumen, Semih",
+      "family": "Tumen",
+      "given": "Semih"
+    }
+  ],
+  "authors_text": "Torun, Huzeyfe; Tumen, Semih",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.57",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.57",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.57",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.57.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

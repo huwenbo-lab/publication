@@ -1,0 +1,30 @@
+{
+  "title": "Age at Migration, Language Proficiency, and Socioeconomic Outcomes: Evidence From Australia",
+  "abstract": "This study estimates the causal effects of language proficiency on the economic and social integration of Australian immigrants. Identifying the effects of languages on socioeconomic outcomes is inherently difficult owing to the endogeneity of language skills. Using the phenomenon that younger children learn languages more easily than older children, we construct an instrumental variable for language proficiency. To achieve this, we consider the age at arrival of immigrants who came as children from Anglophone and non-Anglophone countries. We find a significant positive effect of English proficiency on wages and promotions among adults who immigrated to Australia as children. Higher levels of English proficiency are associated with increased risk-taking, more smoking, and more exercise for men, but have considerable health benefits for women. English language proficiency has a significant influence on partner choice and a number of social outcomes, as well as on children's outcomes, including their levels of academic achievement. The results are robust to alternative specifications, including accounting for between-sibling differences and alternative measures of English skills.",
+  "authors": [
+    {
+      "raw": "Guven, Cahit",
+      "family": "Guven",
+      "given": "Cahit"
+    },
+    {
+      "raw": "Islam, Asadul",
+      "family": "Islam",
+      "given": "Asadul"
+    }
+  ],
+  "authors_text": "Guven, Cahit; Islam, Asadul",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0373-6",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0373-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0373-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0373-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

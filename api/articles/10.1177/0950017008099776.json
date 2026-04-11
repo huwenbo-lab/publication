@@ -1,0 +1,30 @@
+{
+  "title": "Lack of sleep, work and the long hours culture: evidence from the UK Time Use Survey",
+  "abstract": "Sleep is functional for individual and societal well-being, with partial sleep deprivation associated with adverse health and safety consequences. Surprisingly, sleep is absent from work—life balance debates and has remained largely under-researched by sociologists. This article examines the relationship of insufficient sleep duration with occupational circumstances and family responsibilities, providing a contribution to the examination of the health consequences of working patterns in the UK. We analyse time use data from 2000, focusing on a sub-sample of workers aged 20—60 years ( n = 2882). Nested logistic regression modelling is used to identify the segments of the working population getting a short sleep duration that if sustained may have negative health outcomes. An inverse relationship between working hours and sleep duration is found, which is stronger for men than women. Shift work and social class are also significant predictors of short sleep for men.",
+  "authors": [
+    {
+      "raw": "Chatzitheochari, Stella",
+      "family": "Chatzitheochari",
+      "given": "Stella"
+    },
+    {
+      "raw": "Arber, Sara",
+      "family": "Arber",
+      "given": "Sara"
+    }
+  ],
+  "authors_text": "Chatzitheochari, Stella; Arber, Sara",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2009,
+  "doi": "10.1177/0950017008099776",
+  "doi_url": "https://doi.org/10.1177/0950017008099776",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017008099776",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017008099776.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

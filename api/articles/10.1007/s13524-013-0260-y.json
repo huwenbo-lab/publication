@@ -1,0 +1,25 @@
+{
+  "title": "The Impact of Migration and Remittances on Wealth Accumulation and Distribution in Rural Thailand",
+  "abstract": "AbstractThis article studies the impact of internal migration and remittance flows on wealth accumulation and distribution in 51 rural villages in Nang Rong, Thailand. Using data from 5,449 households, the study constructs indices of household productive and consumer assets with principal component analysis. The changes in these indices from 1994 to 2000 are modeled as a function of households’ prior migration and remittance behavior with ordinary least squares, matching, and instrumental variable methods. The findings show that rich households lose productive assets with migration, potentially because of a reduction in the labor force available to maintain local economic activities, while poor households gain productive assets. Regardless of wealth status, households do not gain or lose consumer assets with migration or remittances. These results suggest an equalizing effect of migration and remittances on wealth distribution in rural Thailand.",
+  "authors": [
+    {
+      "raw": "Garip, Filiz",
+      "family": "Garip",
+      "given": "Filiz"
+    }
+  ],
+  "authors_text": "Garip, Filiz",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0260-y",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0260-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0260-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0260-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

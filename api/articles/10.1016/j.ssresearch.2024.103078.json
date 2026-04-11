@@ -1,0 +1,35 @@
+{
+  "title": "Gender, credentials & success: An examination of educational attainment in top management teams",
+  "abstract": "In recent decades, women have made historic gains in educational attainment, now outpacing men in terms of college enrollment and degree completion. Yet, despite the ubiquity of policies and programs aimed at advancing women in work organizations, women's educational gains have not yet translated into greater representation in elite corporate roles. The current study seeks to address this puzzle by analyzing the conditions under which women's educational attainment and credentials enable them to overcome gendered barriers to entry into executive positions. Specifically, we analyze the conditions under which women's educational attainment and credentials facilitate entry into executive roles and provide access to network ties necessary for gaining entrance into male-dominated positions. To answer our research questions we analyze a unique, author-constructed dataset that includes all top executives of the S&P 500 over a 5-year period. We use ordered logistic regression to analyze both the educational attainment and educational networks of executives. Findings suggest that key differences between women and men executives' networks and credentials exist, which contribute to disparities in access to organizational leadership opportunities.",
+  "authors": [
+    {
+      "raw": "Ingersoll, Alicia R.",
+      "family": "Ingersoll",
+      "given": "Alicia R."
+    },
+    {
+      "raw": "Glass, Christy",
+      "family": "Glass",
+      "given": "Christy"
+    },
+    {
+      "raw": "Cook, Alison",
+      "family": "Cook",
+      "given": "Alison"
+    }
+  ],
+  "authors_text": "Ingersoll, Alicia R.; Glass, Christy; Cook, Alison",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103078",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103078",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103078",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103078.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

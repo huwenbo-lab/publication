@@ -1,0 +1,30 @@
+{
+  "title": "Cultural Schemas: What They Are, How to Find Them, and What to Do Once You've Caught One",
+  "abstract": "Cultural schemas are a central cognitive mechanism through which culture affects action. In this article, we develop a theoretical model of cultural schemas that is better able to support empirical work, including inferential, sensitizing, and operational uses. We propose a multilevel framework centered on a high-level definition of cultural schemas that is sufficiently broad to capture its major sociological applications but still sufficiently narrow to identify a set of cognitive phenomena with key functional properties in common: cultural schemas are socially shared representations deployable in automatic cognition. We use this conception to elaborate the main theoretical properties of cultural schemas, and to provide clear criteria that distinguish them from other cultural or cognitive elements. We then propose a series of concrete tests empirical scholarship can use to determine if these properties apply. We also demonstrate how this approach can identify potentially faulty theoretical inferences present in existing work. Moving to a lower level of analysis, we elaborate how cultural schemas can be algorithmically conceptualized in terms of their building blocks. This leads us to recommend improvements to methods for measuring cultural schemas. We conclude by outlining questions for a broader research program.",
+  "authors": [
+    {
+      "raw": "Boutyline, Andrei",
+      "family": "Boutyline",
+      "given": "Andrei"
+    },
+    {
+      "raw": "Soter, Laura K.",
+      "family": "Soter",
+      "given": "Laura K."
+    }
+  ],
+  "authors_text": "Boutyline, Andrei; Soter, Laura K.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/00031224211024525",
+  "doi_url": "https://doi.org/10.1177/00031224211024525",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211024525",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211024525.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

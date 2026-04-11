@@ -1,0 +1,35 @@
+{
+  "title": "The spatial extent of the effect of foreclosures on crime",
+  "abstract": "Although neighborhood stability has long been considered a substantial determinant of crime, foreclosures have not been the subject of concerted research among criminologists until recently. A number of recent studies have examined the linkage between home foreclosures and crime. Though generally finding a significant relationship, studies have used different approaches and units of analysis. This variation led us to examine the spatial extent to which foreclosures affect a relatively small surrounding area. In this paper, we consider the spatial extent of the foreclosure effect on crime by estimating fixed effect negative binomial models using geocoded UCR data for 2003-2008 and foreclosure data to predict crime counts using the number of foreclosures within various small area radii. Results show that, independently and jointly, foreclosures are a predictor of crime up to at least a distance of 2250 feet. Importantly, that effect declines with distance. We conclude with a discussion of the implications of those findings.",
+  "authors": [
+    {
+      "raw": "Payton, Seth B.",
+      "family": "Payton",
+      "given": "Seth B."
+    },
+    {
+      "raw": "Stucky, Thomas D.",
+      "family": "Stucky",
+      "given": "Thomas D."
+    },
+    {
+      "raw": "Ottensmann, John R.",
+      "family": "Ottensmann",
+      "given": "John R."
+    }
+  ],
+  "authors_text": "Payton, Seth B.; Stucky, Thomas D.; Ottensmann, John R.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2015,
+  "doi": "10.1016/j.ssresearch.2014.08.012",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2014.08.012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2014.08.012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2014.08.012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

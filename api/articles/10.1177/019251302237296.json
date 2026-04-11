@@ -1,0 +1,30 @@
+{
+  "title": "The Relationship Between Marriage and Psychological Well-being",
+  "abstract": "This study examined the relationship between marriage and psychological well-being using a sample from the National Survey of Families and Households panel data. Eight different marital status groups were identified and used to test two competing perspectives explaining the relationship between marriage and individual psychological well-being (protection vs. selection). Findings confirmed the strong effects of marital status on psychological well-being, supporting the protection perspective. The effect of the quality of marital (cohabiting) relationship on psychological well-being was significant, but the strong effect of marital status remained unchanged after controlling for relationship quality. Findings also indicated that the transition to cohabiting did not have the same beneficial effects as marriage for psychological well-being, suggesting that the protective effects of marriage are greater than those of cohabiting relationships. The selection effects of psychological well-being were found to be weak and inconsistent. The findings generally did not vary by gender.",
+  "authors": [
+    {
+      "raw": "KIM, HYOUN K.",
+      "family": "KIM",
+      "given": "HYOUN K."
+    },
+    {
+      "raw": "McKENRY, PATRICK C.",
+      "family": "McKENRY",
+      "given": "PATRICK C."
+    }
+  ],
+  "authors_text": "KIM, HYOUN K.; McKENRY, PATRICK C.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2002,
+  "doi": "10.1177/019251302237296",
+  "doi_url": "https://doi.org/10.1177/019251302237296",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F019251302237296",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/019251302237296.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

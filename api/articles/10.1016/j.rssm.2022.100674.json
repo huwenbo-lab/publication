@@ -1,0 +1,25 @@
+{
+  "title": "Good or bad (in)stability? A cross-cohort study of the relation between career stability and earnings mobility in Finland",
+  "abstract": "Although recent studies have found no signs of drastic destabilisation of employment and careers, it is possible that the returns of having a stable or unstable career have changed. This study looks at the link between early career stability and earnings mobility in Finland: 1) What are the size and direction of the relations between various indicators of career stability and earnings mobility in early working life, and 2) Have these relations changed across cohorts? It uses longitudinal register data of earnings and employment from the Finnish Centre for Pensions, covering cohorts born between 1940 and 1980 for the years 1963-2019 (5396 individuals and 72,578 observations). Growth curve models are applied where repeated observations between the ages 23 and 39 are nested within individuals. Earnings are regressed on three types of career stability indicators: cumulative time in non-employment, tenure with the current employer and the cumulative job changes. Results show overall negative associations of earnings with career breaks and positive associations with tenure and job transitions, but also some differences in these associations by gender and education levels. The link between the career stability indicators and earnings mobility is relatively similar across cohorts, with few exceptions. The positive relation with tenure has decreased and even turned negative for women. Moreover, economic crisis in the early 1990s might have presented a temporary shock to the relation between career breaks and job changes on the one hand, and earnings mobility on the other.",
+  "authors": [
+    {
+      "raw": "Riekhoff, Aart-Jan",
+      "family": "Riekhoff",
+      "given": "Aart-Jan"
+    }
+  ],
+  "authors_text": "Riekhoff, Aart-Jan",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100674",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100674",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100674",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100674.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

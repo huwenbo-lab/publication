@@ -1,0 +1,25 @@
+{
+  "title": "Book Review: Love, Inc.: Dating Apps, the Big White Wedding, and Chasing the Happily Neverafter by Laurie Essig",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Barton, Bernadette",
+      "family": "Barton",
+      "given": "Bernadette"
+    }
+  ],
+  "authors_text": "Barton, Bernadette",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2020,
+  "doi": "10.1177/0891243220902766",
+  "doi_url": "https://doi.org/10.1177/0891243220902766",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243220902766",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243220902766.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

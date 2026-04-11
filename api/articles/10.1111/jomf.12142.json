@@ -1,0 +1,40 @@
+{
+  "title": "Work Hours, Schedules, and Insufficient Sleep Among Mothers and Their Young Children",
+  "abstract": "Studies have linked parents' employment, work hours, and work schedules to their own sleep quality and quantity, but it is unclear whether these associations extend to children. The authors used data from the 5‐year in‐home survey of the Fragile Families and Child Wellbeing Study (N = 1,818) to examine the associations between maternal work hours and schedule and insufficient sleep among disadvantaged mothers and their young children. They found that mothers who worked more than 35 hours per week were more likely to experience insufficient sleep compared to mothers who worked fewer hours, whereas children were more likely to experience insufficient sleep when their mothers worked between 20 and 40 hours. Nonstandard work schedules were associated with an increased likelihood of insufficient sleep for mothers but not their children. The results highlight a potentially difficult balance between work and family for many disadvantaged working mothers in the United States.",
+  "authors": [
+    {
+      "raw": "Kalil, Ariel",
+      "family": "Kalil",
+      "given": "Ariel"
+    },
+    {
+      "raw": "Dunifon, Rachel",
+      "family": "Dunifon",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Crosby, Danielle",
+      "family": "Crosby",
+      "given": "Danielle"
+    },
+    {
+      "raw": "Houston Su, Jessica",
+      "family": "Houston Su",
+      "given": "Jessica"
+    }
+  ],
+  "authors_text": "Kalil, Ariel; Dunifon, Rachel; Crosby, Danielle; Houston Su, Jessica",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2014,
+  "doi": "10.1111/jomf.12142",
+  "doi_url": "https://doi.org/10.1111/jomf.12142",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12142",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12142.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

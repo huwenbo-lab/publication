@@ -1,0 +1,30 @@
+{
+  "title": "Makeham mortality models as mixtures: Advancing mortality estimations through competing risks frameworks",
+  "abstract": "BACKGROUND The Makeham term serves as a fundamental component in mortality modeling, offering a constant additive hazard that accounts for background mortality factors usually unrelated to the aging process. This term, widely employed in mortality analysis, provides a crucial mechanism for capturing mortality risks unrelated to age-related deterioration. OBJECTIVE The objective of this paper is to explore how Makeham models, which are widely used for studying mortality, can be understood and analyzed within the context of competing risks. The paper seeks to provide insights into the mathematical properties, interpretation, and applicability of Makeham models in modeling age-dependent and age-independent mortality risks. Additionally, the paper aims to demonstrate formally that competing-risk models can be represented as mixture models, thereby facilitating a deeper understanding of risk-specific mortality dynamics. CONTRIBUTION Expressing competing-risk models as mixtures aids identifying the overall and age- specific share of deaths according to each of the competing risks. In particular, Makeham mortality models, when represented as mixtures, provide, first, a semantically and computationally convenient platform to disentangle age-dependent from age-independent mortality, and second, a straightforward specification that can easily be extended to account for unobserved heterogeneity. By expressing Makeham models as a convex combination of probability distributions, we are able to estimate the age-profile of age-independent mortality, especially at the oldest ages, at which we intuitively assume that most deaths are age-dependent (senescent). We are also able to estimate the senescent mortality component, which is the one to focus on when studying the aging process and its characteristics.",
+  "authors": [
+    {
+      "raw": "Patricio, Silvio C.",
+      "family": "Patricio",
+      "given": "Silvio C."
+    },
+    {
+      "raw": "Missov, Trifon I.",
+      "family": "Missov",
+      "given": "Trifon I."
+    }
+  ],
+  "authors_text": "Patricio, Silvio C.; Missov, Trifon I.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.18",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

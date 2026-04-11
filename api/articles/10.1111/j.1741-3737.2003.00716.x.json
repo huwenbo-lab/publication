@@ -1,0 +1,30 @@
+{
+  "title": "Identifying the Effects of Income on Children's Development Using Experimental Data",
+  "abstract": "Prior research suggests that poverty can be detrimental to low‐income children's development. Is this relation capturing the effects of poverty or the effects of other characteristics of low‐income families associated with poverty? Can low‐income children benefit from increases in income? In this paper, an instrumental variables estimation strategy is used with data on nearly 900 children from a random assignment evaluation of a pilot welfare reform program in Minnesota in order to answer these questions and to identify the causal effects of income on children's development. There are some suggestions that increased income improves the development of low‐income children, at least with regard to their school engagement and positive social behavior. Results are discussed with regard to their implication for analysis, as well as research and policy.",
+  "authors": [
+    {
+      "raw": "Morris, Pamela A.",
+      "family": "Morris",
+      "given": "Pamela A."
+    },
+    {
+      "raw": "Gennetian, Lisa A.",
+      "family": "Gennetian",
+      "given": "Lisa A."
+    }
+  ],
+  "authors_text": "Morris, Pamela A.; Gennetian, Lisa A.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2003,
+  "doi": "10.1111/j.1741-3737.2003.00716.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2003.00716.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2003.00716.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2003.00716.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

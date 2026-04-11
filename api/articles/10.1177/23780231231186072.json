@@ -1,0 +1,25 @@
+{
+  "title": "Mental Health Effects of Income over the Adult Life Course",
+  "abstract": "While a gradient between income and depression is well documented, associational estimates are subject to bias due to measurement errors, reverse causation, and other sources of confounding. Causal studies are few and report small and divergent estimates, even in their direction. But prior research has important limitations for causal inference, such as relying on comparisons between individuals sensitive to each other’s relative income or capturing only a subset of pathways through which income affects well-being. This study leverages longitudinal and genomic data to assess how much some known biases affect the income-depression gradient and to what extent the gradient might be reflective of a causal effect. Findings from three U.S. samples—representing early midlife, late midlife, and older adulthood—are suggestive of a beneficial effect of income on mental health, especially in late midlife and beyond. The results have implications for interpreting the nature of socioeconomic disparities in mental health.",
+  "authors": [
+    {
+      "raw": "Rauf, Tamkinat",
+      "family": "Rauf",
+      "given": "Tamkinat"
+    }
+  ],
+  "authors_text": "Rauf, Tamkinat",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231186072",
+  "doi_url": "https://doi.org/10.1177/23780231231186072",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231186072",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231186072.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

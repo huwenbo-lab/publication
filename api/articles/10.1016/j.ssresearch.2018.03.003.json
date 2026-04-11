@@ -1,0 +1,25 @@
+{
+  "title": "Ecologically unequal exchange, recessions, and climate change: A longitudinal study",
+  "abstract": "This study investigates how the ecologically unequal exchange of carbon dioxide emissions varies with economic recessions. I propose a country-specific approach to examine (1) the relationship between carbon dioxide emissions in developing countries and the vertical flow of exports to the United States; and (2) the variations of the relationship before, during, and after two recent economic recessions in 2001 and 2008. Using data on 69 developing nations between 2000 and 2010, I estimate time-series cross-sectional regression models with two-way fixed effects. Results suggest that the vertical flow of exports to the United States is positively associated with carbon dioxide emissions in developing countries. The magnitude of this relationship increased in 2001, 2009, and 2010, and decreased in 2008, but remained stable in non-recession periods, suggesting that economic recessions in the United States are associated with variations of ecologically unequal exchange. Results highlight the impacts of U.S. recessions on carbon emissions in developing countries through the structure of international trade.",
+  "authors": [
+    {
+      "raw": "Huang, Xiaorui",
+      "family": "Huang",
+      "given": "Xiaorui"
+    }
+  ],
+  "authors_text": "Huang, Xiaorui",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.03.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.03.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.03.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.03.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

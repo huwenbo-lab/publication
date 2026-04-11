@@ -1,0 +1,25 @@
+{
+  "title": "Heavy Drinking and Suicide in Russia",
+  "abstract": "Russian levels of alcohol consumption and suicide are among the highest in the world. While observers have long suspected an association between the two, they were unable to investigate this hypothesis until recently due to past Soviet secrecy and thus a lack of data. This study took advantage of the newly available data during the post-Soviet era to examine the cross-sectional association between heavy drinking and suicide mortality in Russia. Aggregate mortality data for the Russian regions (n = 78) for the year 2000 were used to measure heavy drinking and suicide rates. Government data were used to control for the regional economic situation and strength of social institutions. Ordinary Least Squares regression was employed to estimate the effect of a proxy for heavy drinking on overall and sex-specific age-adjusted suicide rates. The results showed a positive and significant association between the two, and the association held for overall, male and female rates. These results not only confirmed an association between heavy drinking and suicide in Russia, but when compared to findings from previous studies of other countries they led to the hypothesis that a nation's beverage preference may be as important as its wet/dry drinking culture in its sensitivity of suicide rates to alcohol consumption.",
+  "authors": [
+    {
+      "raw": "Pridemore, W. A.",
+      "family": "Pridemore",
+      "given": "W. A."
+    }
+  ],
+  "authors_text": "Pridemore, W. A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2006,
+  "doi": "10.1353/sof.2006.0138",
+  "doi_url": "https://doi.org/10.1353/sof.2006.0138",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2006.0138",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2006.0138.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

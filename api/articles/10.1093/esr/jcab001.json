@@ -1,0 +1,30 @@
+{
+  "title": "Spreading Uncertainty, Shrinking Birth Rates: A Natural Experiment for Italy",
+  "abstract": "Many previous studies have documented the procyclicality of fertility to business cycles or labour market indicators in Western countries. However, part of the recent fertility decline witnessed since the Great Recession has been left unexplained by traditional measures. The present study advances the notion that birth postponement might have accelerated in response to rising uncertainty, which fuelled negative expectations and declining levels of confidence about the future. To provide empirical support for the causal effect of perceived uncertainty on birth rates, we focus on Italy's sovereign debt crisis of 2011-2012 as a natural experiment. Perceived uncertainty is measured using Google trends for the term `spread'-which acted as somewhat of a barometer for the crisis both in the media and everyday conversations-to capture the general public's degree of concern about the stability of Italian public finances. A regression discontinuity in time identifies the effect of perceived uncertainty on birth rates in Italy as a drop between 1.5% and 5%, depending on model specification.",
+  "authors": [
+    {
+      "raw": "Comolli, Chiara L.",
+      "family": "Comolli",
+      "given": "Chiara L."
+    },
+    {
+      "raw": "Vignoli, Daniele",
+      "family": "Vignoli",
+      "given": "Daniele"
+    }
+  ],
+  "authors_text": "Comolli, Chiara L.; Vignoli, Daniele",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcab001",
+  "doi_url": "https://doi.org/10.1093/esr/jcab001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

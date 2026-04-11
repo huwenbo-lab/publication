@@ -1,0 +1,30 @@
+{
+  "title": "Declining association with persistent gender asymmetric structure: patterns and trends in educational assortative marriage in Japan, 1950-1979",
+  "abstract": "This paper investigates the patterns and trends of educational assortative marriage in Japan. Using data from the Employment Status Survey and the Comprehensive Survey of Living Conditions of the People on Health and Welfare, we investigated the trends of association between husbands' and wives' educational attainment (481,144 couples) by applying log-linear, log-multiplicative layer effects, and regression-type models. The analysis revealed that, in general, educational assortative marriage has decreased continuously. In terms of the log-odds ratios, the association of educational attainment between spouses for women born between 1975 and 1979 decreased by about 25%, in comparison with that of women born between 1950 and 1954. The regression-type models showed that the pattern of association was asymmetric while patterns of change were symmetric with respect to sex. We discuss what caused the decline in educational assortative marriage with a persistent gender asymmetric structure.",
+  "authors": [
+    {
+      "raw": "Fujihara, Sho",
+      "family": "Fujihara",
+      "given": "Sho"
+    },
+    {
+      "raw": "Uchikoshi, Fumiya",
+      "family": "Uchikoshi",
+      "given": "Fumiya"
+    }
+  ],
+  "authors_text": "Fujihara, Sho; Uchikoshi, Fumiya",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2019,
+  "doi": "10.1016/j.rssm.2018.12.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2018.12.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2018.12.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2018.12.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

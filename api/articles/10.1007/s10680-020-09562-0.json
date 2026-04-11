@@ -1,0 +1,105 @@
+{
+  "title": "Educational Differences in Cohort Fertility Across Sub-national Regions in Europe",
+  "abstract": "AbstractEducational differences in female cohort fertility vary strongly across high-income countries and over time, but knowledge about how educational fertility differentials play out at the sub-national regional level is limited. Examining these sub-national regional patterns might improve our understanding of national patterns, as regionally varying contextual conditions may affect fertility. This study provides for the first time for a large number of European countries a comprehensive account of educational differences in the cohort fertility rate (CFR) at the sub-national regional level. We harmonise data from population registers, censuses, and large-sample surveys for 15 countries to measure women’s completed fertility by educational level and region of residence at the end of the reproductive lifespan. In order to explore associations between educational differences in CFRs and levels of economic development, we link our data to regional GDP per capita. Empirical Bayesian estimation is used to reduce uncertainty in the regional fertility estimates. We document an overall negative gradient between the CFR and level of education, and notable regional variation in the gradient. The steepness of the gradient is inversely related to the economic development level. It is steepest in the least developed regions and close to zero in the most developed regions. This tendency is observed within countries as well as across all regions of all countries. Our findings underline the variability of educational gradients in women’s fertility, suggest that higher levels of development may be associated with less negative gradients, and call for more in-depth sub-national-level fertility analyses by education.",
+  "authors": [
+    {
+      "raw": "Nisén, Jessica",
+      "family": "Nisén",
+      "given": "Jessica"
+    },
+    {
+      "raw": "Klüsener, Sebastian",
+      "family": "Klüsener",
+      "given": "Sebastian"
+    },
+    {
+      "raw": "Dahlberg, Johan",
+      "family": "Dahlberg",
+      "given": "Johan"
+    },
+    {
+      "raw": "Dommermuth, Lars",
+      "family": "Dommermuth",
+      "given": "Lars"
+    },
+    {
+      "raw": "Jasilioniene, Aiva",
+      "family": "Jasilioniene",
+      "given": "Aiva"
+    },
+    {
+      "raw": "Kreyenfeld, Michaela",
+      "family": "Kreyenfeld",
+      "given": "Michaela"
+    },
+    {
+      "raw": "Lappegård, Trude",
+      "family": "Lappegård",
+      "given": "Trude"
+    },
+    {
+      "raw": "Li, Peng",
+      "family": "Li",
+      "given": "Peng"
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    },
+    {
+      "raw": "Neels, Karel",
+      "family": "Neels",
+      "given": "Karel"
+    },
+    {
+      "raw": "Riederer, Bernhard",
+      "family": "Riederer",
+      "given": "Bernhard"
+    },
+    {
+      "raw": "te Riele, Saskia",
+      "family": "te Riele",
+      "given": "Saskia"
+    },
+    {
+      "raw": "Szabó, Laura",
+      "family": "Szabó",
+      "given": "Laura"
+    },
+    {
+      "raw": "Trimarchi, Alessandra",
+      "family": "Trimarchi",
+      "given": "Alessandra"
+    },
+    {
+      "raw": "Viciana, Francisco",
+      "family": "Viciana",
+      "given": "Francisco"
+    },
+    {
+      "raw": "Wilson, Ben",
+      "family": "Wilson",
+      "given": "Ben"
+    },
+    {
+      "raw": "Myrskylä, Mikko",
+      "family": "Myrskylä",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Nisén, Jessica; Klüsener, Sebastian; Dahlberg, Johan; Dommermuth, Lars; Jasilioniene, Aiva; Kreyenfeld, Michaela; Lappegård, Trude; Li, Peng; Martikainen, Pekka; Neels, Karel; Riederer, Bernhard; te Riele, Saskia; Szabó, Laura; Trimarchi, Alessandra; Viciana, Francisco; Wilson, Ben; Myrskylä, Mikko",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2020,
+  "doi": "10.1007/s10680-020-09562-0",
+  "doi_url": "https://doi.org/10.1007/s10680-020-09562-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-020-09562-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-020-09562-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

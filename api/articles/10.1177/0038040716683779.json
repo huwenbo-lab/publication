@@ -1,0 +1,35 @@
+{
+  "title": "Families, Schools, and Student Achievement Inequality: A Multilevel MIMIC Model Approach",
+  "abstract": "This article examines inequality in different dimensions of student academic achievement (math, science, and reading) by family background and school context in three East Asian (Taiwan, Japan, and South Korea) and three Western (United States, Germany, and the Czech Republic) nations. Building on Hauser (2009), we develop a novel multiple-indicator multiple-cause (MIMIC) model with a two-level hierarchical linear modeling specification, which allows us to explicitly test whether the several academic achievement constructs respond similarly to variation in family background and variation among schools and countries. The two-level MIMIC model is specified in detail and applied to 2012 Programme for International Student Assessment data. The analysis reveals new empirical insights, such as substantive differences within countries in performance inequality by subject, particularly among East Asian countries. While the data do not support the view of a virtuous relationship between excellence and equity in education, nor do they lend strong support to a vicious relationship either.",
+  "authors": [
+    {
+      "raw": "Tsai, Shu-Ling",
+      "family": "Tsai",
+      "given": "Shu-Ling"
+    },
+    {
+      "raw": "Smith, Michael L.",
+      "family": "Smith",
+      "given": "Michael L."
+    },
+    {
+      "raw": "Hauser, Robert M.",
+      "family": "Hauser",
+      "given": "Robert M."
+    }
+  ],
+  "authors_text": "Tsai, Shu-Ling; Smith, Michael L.; Hauser, Robert M.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2017,
+  "doi": "10.1177/0038040716683779",
+  "doi_url": "https://doi.org/10.1177/0038040716683779",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040716683779",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040716683779.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

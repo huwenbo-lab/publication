@@ -1,0 +1,40 @@
+{
+  "title": "Effect of Gender on French High School Students’ Dream Jobs and Professional Ambition",
+  "abstract": "In France, women and men often do not engage in the same occupations, with “feminine” occupations being on average paid less than “masculine” ones. It has been shown that this gender-based occupational segregation is not explained by a difference in professional ambition between female and male students at high school age. In contrast, studies have shown that in France, as well as in many other countries, students’ occupational aspirations are highly gendered. In this visualization, the authors replicate these findings about high school students’ professional ambition and aspirations with new data and indicators, introducing a distinction between their dream jobs and their expected jobs. This research confirms that the persistence of the gender-based occupational segregation has more to do with students’ gender stereotypes than with a difference in ambition between girls and boys.",
+  "authors": [
+    {
+      "raw": "Cordonier, Laurent",
+      "family": "Cordonier",
+      "given": "Laurent"
+    },
+    {
+      "raw": "Cafiero, Florian",
+      "family": "Cafiero",
+      "given": "Florian"
+    },
+    {
+      "raw": "Walzer, Nicolas",
+      "family": "Walzer",
+      "given": "Nicolas"
+    },
+    {
+      "raw": "Bronner, Gérald",
+      "family": "Bronner",
+      "given": "Gérald"
+    }
+  ],
+  "authors_text": "Cordonier, Laurent; Cafiero, Florian; Walzer, Nicolas; Bronner, Gérald",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231181898",
+  "doi_url": "https://doi.org/10.1177/23780231231181898",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231181898",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231181898.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Educational Inequality Regimes amid Algebra-for-All: The Provision and Allocation of Expanding Educational Opportunities",
+  "abstract": "Schools can approach the task of sorting students to privileged learning opportunities in different ways, potentially creating distinct and durable educational inequality regimes. We test this idea by exploring variation in socioeconomic inequalities in advanced mathematics course-taking across California middle schools during a statewide algebra-for-all initiative. This case provides unique insight into local stratification processes since the state pressured schools to boost advanced course enrollments but provided little guidance about how to do so. We distinguish two critical organizational processes: the provision of different types of opportunities and the allocation of students to opportunities. The former, we argue, creates the potential for inequality; the latter determines what level of inequality is realized. Using panel data for all public middle schools in the state over a decade, we demonstrate a curvilinear association between opportunities and inequality, with disparities highest when opportunities are most differentiated. However, allocations at most schools were less unequal than would be expected under a test-based meritocratic allocation regime. Further, we find substantial school-level variation which is systematically related to organizational characteristics and consistent over time. These patterns provide evidence for local educational inequality regimes.",
+  "authors": [
+    {
+      "raw": "Hanselman, Paul",
+      "family": "Hanselman",
+      "given": "Paul"
+    },
+    {
+      "raw": "Domina, Thurston",
+      "family": "Domina",
+      "given": "Thurston"
+    },
+    {
+      "raw": "Hwang, NaYoung",
+      "family": "Hwang",
+      "given": "NaYoung"
+    }
+  ],
+  "authors_text": "Hanselman, Paul; Domina, Thurston; Hwang, NaYoung",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab052",
+  "doi_url": "https://doi.org/10.1093/sf/soab052",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab052",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab052.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Long-Term Trends in Adult Mortality for U.S. Blacks and Whites: An Examination of Period- and Cohort-Based Changes",
+  "abstract": "AbstractBlack–white differences in U.S. adult mortality have narrowed over the past five decades, but whether this narrowing unfolded on a period or cohort basis is unclear. The distinction has important implications for understanding the socioeconomic, public health, lifestyle, and medical mechanisms responsible for this narrowing. We use data from 1959 to 2009 and age-period-cohort (APC) models to examine period- and cohort-based changes in adult mortality for U.S. blacks and whites. We do so for all-cause mortality among persons aged 15–74 as well as for several underlying causes of death more pertinent for specific age groups. We find clear patterns of cohort-based reductions in mortality for both black men and women and white men and women. Recent cohort-based reductions in heart disease, stroke, lung cancer, female breast cancer, and other cancer mortality have been substantial and, save for breast cancer, have been especially pronounced for blacks. Period-based changes have also occurred and are especially pronounced for some causes of death. Period-based reductions in blacks’ and whites’ heart disease and stroke mortality are particularly impressive, as are recent period-based reductions in young men’s and women’s mortality from infectious diseases and homicide. These recent period changes are more pronounced among blacks. The substantial cohort-based trends in chronic disease mortality and recent period-based reductions for some causes of death suggest a continuing slow closure of the black-white mortality gap. However, we also uncover troubling signs of recent cohort-based increases in heart disease mortality for both blacks and whites.",
+  "authors": [
+    {
+      "raw": "Masters, Ryan K.",
+      "family": "Masters",
+      "given": "Ryan K."
+    },
+    {
+      "raw": "Hummer, Robert A.",
+      "family": "Hummer",
+      "given": "Robert A."
+    },
+    {
+      "raw": "Powers, Daniel A.",
+      "family": "Powers",
+      "given": "Daniel A."
+    },
+    {
+      "raw": "Beck, Audrey",
+      "family": "Beck",
+      "given": "Audrey"
+    },
+    {
+      "raw": "Lin, Shih-Fan",
+      "family": "Lin",
+      "given": "Shih-Fan"
+    },
+    {
+      "raw": "Finch, Brian Karl",
+      "family": "Finch",
+      "given": "Brian Karl"
+    }
+  ],
+  "authors_text": "Masters, Ryan K.; Hummer, Robert A.; Powers, Daniel A.; Beck, Audrey; Lin, Shih-Fan; Finch, Brian Karl",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0343-4",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0343-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0343-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0343-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

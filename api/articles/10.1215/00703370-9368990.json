@@ -1,0 +1,30 @@
+{
+  "title": "Estimating Adult Death Rates From Sibling Histories: A Network Approach",
+  "abstract": "Hundreds of millions of people live in countries that do not have complete death registration systems, meaning that most deaths are not recorded and that critical quantities, such as life expectancy, cannot be directly measured. The sibling survival method is a leading approach to estimating adult mortality in the absence of death registration. The idea is to ask survey respondents to enumerate their siblings and to report about their survival status. In many countries and periods, sibling survival data are the only nationally representative source of information about adult mortality. Although a vast amount of sibling survival data has been collected, important methodological questions about the method remain unresolved. To help make progress on this issue, we propose reframing the sibling survival method as a network sampling problem. This approach enables a formal derivation of statistical estimators for sibling survival data. Our derivation clarifies the precise conditions that sibling history estimates rely on, leads to internal consistency checks that can help assess data and reporting quality, and reveals important quantities that could potentially be measured to relax assumptions in the future. We introduce the R package siblingsurvival, which implements the methods we describe.",
+  "authors": [
+    {
+      "raw": "Feehan, Dennis M.",
+      "family": "Feehan",
+      "given": "Dennis M."
+    },
+    {
+      "raw": "Borges, Gabriel M.",
+      "family": "Borges",
+      "given": "Gabriel M."
+    }
+  ],
+  "authors_text": "Feehan, Dennis M.; Borges, Gabriel M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9368990",
+  "doi_url": "https://doi.org/10.1215/00703370-9368990",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9368990",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9368990.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "The Dynamics of Intimate Partner Violence and the Risk of Pregnancy during the Transition to Adulthood",
+  "abstract": "Using a reproductive coercion framework, we investigate the role of intimate partner violence (IPV) in pregnancy during the transition to adulthood. We use two types of data from a population-based sample of 867 young women in a Michigan county: a 60-minute survey interview with 2.5 years of weekly follow-up surveys, and semi-structured interviews with a subsample of 40 pregnant women. The semi-structured interviews illustrate the violence women experienced. Discrete-time logit hazard models demonstrate that threats and physical assault are associated with higher pregnancy rates during ages 18 to 22. However, this holds only when the violence is recent; violence occurring more than a month earlier is not associated with higher pregnancy rates. These associations are independent of violent experiences with prior partners, which are also associated with higher pregnancy rates. Fixed-effects models show that during violent weeks, women perceive more pregnancy desire from their partners, have more sex, and use less contraception than during nonviolent weeks. Finally, mediation analyses and the semi-structured interviews are consistent with reproductive coercion: violent young men are more likely to want their girlfriends pregnant, and they use threats and physical assault to implement their preferences via sex and contraceptive non-use, which in turn increase pregnancy rates.",
+  "authors": [
+    {
+      "raw": "Barber, Jennifer S.",
+      "family": "Barber",
+      "given": "Jennifer S."
+    },
+    {
+      "raw": "Kusunoki, Yasamin",
+      "family": "Kusunoki",
+      "given": "Yasamin"
+    },
+    {
+      "raw": "Gatny, Heather H.",
+      "family": "Gatny",
+      "given": "Heather H."
+    },
+    {
+      "raw": "Budnick, Jamie",
+      "family": "Budnick",
+      "given": "Jamie"
+    }
+  ],
+  "authors_text": "Barber, Jennifer S.; Kusunoki, Yasamin; Gatny, Heather H.; Budnick, Jamie",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1177/0003122418795856",
+  "doi_url": "https://doi.org/10.1177/0003122418795856",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122418795856",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122418795856.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

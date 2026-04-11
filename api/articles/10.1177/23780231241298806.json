@@ -1,0 +1,25 @@
+{
+  "title": "Visualizing the Housing Cost Burden of Migrants and Natives across the Income Distribution",
+  "abstract": "A majority of German households are occupied by renters. There are indications of growing inequality through disproportional income increases among high-income households and disproportional rent increases among low-income households. On the basis of the German Socio-Economic Panel, the author examines rent-income ratios (RIRs) and differentiates between migrants and natives. How did RIRs develop between 1990 and 2020, and are there any differences across the distribution? There are three key findings. First, dynamics of RIRs suggest rising economic inequality among both migrants and natives. Second, although both groups grew more unequal over time, the inequality increase was stronger among migrants. Third, migrants generally faced steeper rent hikes than natives, which partly accounts for a higher rent burden among income-poor migrants. These descriptive findings point out avenues for systematic research of the increases in inequality related to rent and income dynamics and their ethnoracial stratification.",
+  "authors": [
+    {
+      "raw": "Witte, Nils",
+      "family": "Witte",
+      "given": "Nils"
+    }
+  ],
+  "authors_text": "Witte, Nils",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241298806",
+  "doi_url": "https://doi.org/10.1177/23780231241298806",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241298806",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241298806.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

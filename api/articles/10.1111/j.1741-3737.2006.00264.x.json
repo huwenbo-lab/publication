@@ -1,0 +1,30 @@
+{
+  "title": "Multiple Segment Factorial Vignette Designs",
+  "abstract": "The multiple segment factorial vignette design (MSFV) combines elements of experimental designs and probability sampling with the inductive, exploratory approach of qualitative research. MSFVs allow researchers to investigate topics that may be hard to study because of ethical or logistical concerns. Participants are presented with short stories about hypothetical characters. These stories comprise 2 – 5 segments in which randomly assigned dimensions are introduced sequentially. Researchers control the occurrence and timing of when dimensions are presented. Respondents are asked questions after each segment. MSFVs may include written, oral, and visual stimuli. These efficient designs elicit quantitative data about causal relations and qualitative data within complex, multidimensional contexts. We discuss how to develop MSFV and suggest ways to avoid problems.",
+  "authors": [
+    {
+      "raw": "Ganong, Lawrence H.",
+      "family": "Ganong",
+      "given": "Lawrence H."
+    },
+    {
+      "raw": "Coleman, Marilyn",
+      "family": "Coleman",
+      "given": "Marilyn"
+    }
+  ],
+  "authors_text": "Ganong, Lawrence H.; Coleman, Marilyn",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2006,
+  "doi": "10.1111/j.1741-3737.2006.00264.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2006.00264.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2006.00264.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2006.00264.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

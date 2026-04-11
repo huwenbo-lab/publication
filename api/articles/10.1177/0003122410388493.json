@@ -1,0 +1,35 @@
+{
+  "title": "Worldwide Trends in the Criminal Regulation of Sex, 1945 to 2005",
+  "abstract": "Between 1945 and 2005, nation-states around the world revised their criminal laws on sexual activities. This global reform wave-across countries and domains of sexual activity-followed from the reconstitution of world models of society around individuals rather than corporate bodies. During the post-World War II period, this process rearranged the global cultural and organizational underpinnings of sex, eroding world-level support for criminal laws aimed at protecting collective entities-especially the family and the nation-and strengthening world support for laws aimed at protecting individualized persons. To make our case, we use unique cross-national and longitudinal data on the criminal regulation of rape, adultery, sodomy, and child sexual abuse. The data reveal striking counter-directional trends in sex-law reforms, which simultaneously elaborated regulations protecting individuals and dissolved laws protecting collective entities. World-level negative-binomial regression analyses and country-level event-history analyses confirm our main propositions. The findings demonstrate a sweeping revolution in criminal-sex laws, rooted in the intensified global celebration of free-standing personhood.",
+  "authors": [
+    {
+      "raw": "Frank, David John",
+      "family": "Frank",
+      "given": "David John"
+    },
+    {
+      "raw": "Camp, Bayliss J.",
+      "family": "Camp",
+      "given": "Bayliss J."
+    },
+    {
+      "raw": "Boutcher, Steven A.",
+      "family": "Boutcher",
+      "given": "Steven A."
+    }
+  ],
+  "authors_text": "Frank, David John; Camp, Bayliss J.; Boutcher, Steven A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122410388493",
+  "doi_url": "https://doi.org/10.1177/0003122410388493",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410388493",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410388493.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

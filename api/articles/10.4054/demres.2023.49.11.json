@@ -1,0 +1,45 @@
+{
+  "title": "The dynamic role of household structure on under-5 mortality in southern and eastern sub-Saharan Africa",
+  "abstract": "BACKGROUND Children are born and grow up in households, where they receive essential care, including time, socio-psychological support, and economic resources. Children's immediate environment, captured by household structure, changes over time. OBJECTIVE We evaluate the role of dynamic household structure in the risk of child death in southern and eastern Africa.METHODS We use longitudinal data from 15 Health and Demographic Surveillance Systems between 1990 and 2016, covering almost 282,000 under-5 year olds. We analyse under-5 mortality using semi-parametric Cox models accounting for time-varying household structure (household size and household typology) and controlling for maternal characteristics.RESULTS We find that children in smaller households have a higher risk of death than those in large households. In particular, children in households where they are the sole child with two adults of opposite sexes have the lowest chances of survival, reflecting a first-child effect. By contrast, nuclear-type households with more than one child are the most protective, while children in extended households are more vulnerable.CONTRIBUTION Our findings suggest that the (in)stability of households is important in evaluating child survival, and that it is imperative to consider households as changing entities.",
+  "authors": [
+    {
+      "raw": "Menashe-Oren, Ashira",
+      "family": "Menashe-Oren",
+      "given": "Ashira"
+    },
+    {
+      "raw": "Bocquier, Philippe",
+      "family": "Bocquier",
+      "given": "Philippe"
+    },
+    {
+      "raw": "Ginsburg, Carren",
+      "family": "Ginsburg",
+      "given": "Carren"
+    },
+    {
+      "raw": "Compaore, Yacouba",
+      "family": "Compaore",
+      "given": "Yacouba"
+    },
+    {
+      "raw": "Collinson, Mark",
+      "family": "Collinson",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Menashe-Oren, Ashira; Bocquier, Philippe; Ginsburg, Carren; Compaore, Yacouba; Collinson, Mark",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.11",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Social class and earnings trajectories in the UK: New findings from a longitudinal analysis",
+  "abstract": "We identify and seek to address four questions arising from current analyses of the relation between social class positions and age-earnings trajectories that call for further research. First, how far are findings from earlier crosssectional analyses confirmed if individuals' earnings are treated longitudinally? Second, how far do differences show up in such trajectories within classes, thus suggesting heterogeneity in employment relations? Third, how far are individuals' educational levels associated with the shapes of their earnings trajectories independently of their class positions? And, fourth, how far does the class mobility of individuals over the course of their working lives lead to changes in their earnings trajectories? We address these questions on the basis of a rich British dataset relating to men and women aged 21-60, born between1941 and 1990, and by treating earnings trajectories in relation to class through multilevel growth curve modelling. In general, we find that earlier findings are robust and that the association between class position and age-earnings trajectories for the most part follows theoretical expectations insofar as classes are defined in terms of differences in employment relations.",
+  "authors": [
+    {
+      "raw": "Bukodi, Erzsebet",
+      "family": "Bukodi",
+      "given": "Erzsebet"
+    },
+    {
+      "raw": "Goldthorpe, John H.",
+      "family": "Goldthorpe",
+      "given": "John H."
+    },
+    {
+      "raw": "Westhoff, Leonie",
+      "family": "Westhoff",
+      "given": "Leonie"
+    }
+  ],
+  "authors_text": "Bukodi, Erzsebet; Goldthorpe, John H.; Westhoff, Leonie",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101089",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101089",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101089",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101089.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

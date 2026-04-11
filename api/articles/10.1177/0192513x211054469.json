@@ -1,0 +1,40 @@
+{
+  "title": "The Impact of Paternity Leave Compared to Unemployment on Child Care and Housework Distribution in Spain",
+  "abstract": "Paternity leave has been introduced in many countries as a way to foster father ' s co-responsibility in family obligations. This study aims \\to analyse, for the Spanish case, if (1) the positive effects of the paternity leave are not only limited to the short term, but are maintained at medium and long term; (2) if a similar effect applies in the case of unemployment periods. Based on a subsample of 3388 cases derived from the Spanish Fertility Survey 2018, we perform OLS regression analysis of father ' s involvement in childcare and housework. Our analysis shows that longer leaves are related to a greater involvement in care and housework activities, although only in the former, the effect is maintained in the long term. Regarding unemployed fathers, these individuals show more involvement in childcare during the first year, but the effect vanishes later and there is no significant relationship with housework.",
+  "authors": [
+    {
+      "raw": "Meil, Gerardo",
+      "family": "Meil",
+      "given": "Gerardo"
+    },
+    {
+      "raw": "Rogero-Garcia, Jesus",
+      "family": "Rogero-Garcia",
+      "given": "Jesus"
+    },
+    {
+      "raw": "Romero-Balsas, Pedro",
+      "family": "Romero-Balsas",
+      "given": "Pedro"
+    },
+    {
+      "raw": "Diaz-Gandasegui, Vicente",
+      "family": "Diaz-Gandasegui",
+      "given": "Vicente"
+    }
+  ],
+  "authors_text": "Meil, Gerardo; Rogero-Garcia, Jesus; Romero-Balsas, Pedro; Diaz-Gandasegui, Vicente",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x211054469",
+  "doi_url": "https://doi.org/10.1177/0192513x211054469",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x211054469",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x211054469.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Open science practices in demographic research: An appraisal",
+  "abstract": "BACKGROUND In the light of recent concerns about the reliability of scientific research, the open science movement has attracted considerable attention and interest from a variety of sources, including researchers, research institutions, the business sector, intergovernmental organisations, the media, and the public. However, the current extent of openness in demographic research remains unknown. METHODS All relevant publications in four leading journals of anglophone demography - Demography , Population and Development Review , Population Studies , and Demographic Research - over the last decade are analysed. Using a text-search algorithm, two quantitative metrics of open scientific knowledge are estimated: the share of publications that can be openly accessed, and the share of publications providing open software codes for reproducibility or replicability purposes. RESULTS Two contrasting patterns emerge from these indicators. Access to demographic research papers is increasingly available to everyone, with more than 90% of open-access publications in 2023. Conversely, the provision of open software codes has been and still remains considerably low, with only small signs of improvement over time. Over the last three years, on average 31% of articles in Demographic Research provided these materials and only about 12% in the other journals. CONTRIBUTION This reflection provides the first assessment of the adoption of some open science practices in demographic research and their evolution over the last decade. An urgent change is needed in the sharing of software codes (along with the data used, where possible) to contribute to the advancement of demographic research. Some recommendations for promoting this change are discussed.",
+  "authors": [
+    {
+      "raw": "Basellini, Ugofilippo",
+      "family": "Basellini",
+      "given": "Ugofilippo"
+    }
+  ],
+  "authors_text": "Basellini, Ugofilippo",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.43",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.43",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.43",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.43.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Unintended pregnancy and the changing demography of American women, 1987-2008",
+  "abstract": "BACKGROUND In 1987, the U.S. unintended pregnancy rate was 59 per 1,000 women aged 15-44; the rate fell to 54 in 2008. Over this period, American women experienced dramatic demographic shifts, including an aging population that was better educated and more racially and ethnically diverse. OBJECTIVE This study aims to explain trends in unintended pregnancy and understand what factors contributed most strongly to changes in rates over time, focusing on population composition and group-specific changes. METHODS We used the 1988 and 2006-10 waves of the National Survey of Family Growth and employed a decomposition approach, looking jointly at age, relationship status, and educational attainment. RESULTS When we decomposed by the demographic factors together, we found that changes in population composition contributed to an increase in the overall rate, but this was more than offset by group-specific rate declines, which had an impact nearly twice as great in the downward direction. Increases in the share of the population that was cohabiting and the share that was Hispanic were offset by declines in rates among married women. CONCLUSIONS Our findings suggest that a combination of compositional shifts and changes in group-specific rates drove unintended pregnancy, sometimes acting as counterbalancing forces and at other times operating in tandem.",
+  "authors": [
+    {
+      "raw": "Tapales, Athena",
+      "family": "Tapales",
+      "given": "Athena"
+    },
+    {
+      "raw": "Finer, Lawrence",
+      "family": "Finer",
+      "given": "Lawrence"
+    }
+  ],
+  "authors_text": "Tapales, Athena; Finer, Lawrence",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.45",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.45",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.45",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.45.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

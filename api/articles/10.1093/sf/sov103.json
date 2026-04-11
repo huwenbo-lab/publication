@@ -1,0 +1,35 @@
+{
+  "title": "Ethnic Inequality in Mexican Education",
+  "abstract": "Since the emergence of Mexico's secretariat for public education following the revolution (1910-1920), reducing indigenous inequality in educational mobility has been a state objective. Recently, findings have been mixed, with some finding that indigeneity no longer limits educational mobility and others showing evidence of persistent in equality net of socioeconomic background. We draw from modernization theory and the theory of Maximally Maintained Inequality (MMI) to assess six decades of education policy. Using the Mexican Family Life Survey (n = 88,547), we find that indigenous disadvantage in terms of educational mobility, which marked cohorts immediately after the revolution, shifts to near parity in more recent cohorts. Contrary to what MMI would predict, indigenous disadvantage declines for lower secondary transitions, despite nearly a third of eligible students failing to transition. Rather than a single, targeted policy period, we observe a somewhat monotonic decline in inequality by indigeneity across all levels of schooling, even if saturation has yet to be attained. Modernization theory, rather than MMI, is a more reasonable match for the observed pattern. Although not the case in earlier decades, for recent cohorts we conclude that socioeconomic inequality rather than ethnicity per se has become the main source of indigenous inequality in educational mobility.",
+  "authors": [
+    {
+      "raw": "Creighton, Mathew J.",
+      "family": "Creighton",
+      "given": "Mathew J."
+    },
+    {
+      "raw": "Post, David",
+      "family": "Post",
+      "given": "David"
+    },
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    }
+  ],
+  "authors_text": "Creighton, Mathew J.; Post, David; Park, Hyunjoon",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sov103",
+  "doi_url": "https://doi.org/10.1093/sf/sov103",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov103",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov103.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

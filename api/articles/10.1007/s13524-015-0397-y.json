@@ -1,0 +1,45 @@
+{
+  "title": "New Sources for Comparative Social Science: Historical Population Panel Data From East Asia",
+  "abstract": "Comparison and comparability lie at the heart of any comparative social science. Still, precise comparison is virtually impossible without using similar methods and similar data. In recent decades, social demographers, historians, and economic historians have compiled and made available a large number of micro-level data sets of historical populations for North America and Europe. Studies using these data have already made important contributions to many academic disciplines. In a similar spirit, we introduce five new micro-level historical panel data sets from East Asia, including the China Multi-Generational Panel Dataset-Liaoning (CMGPD-LN) 1749-1909, the China Multi-Generational Panel Dataset-Shuangcheng (CMGPD-SC) 1866-1913, the Japanese Ninbetsu-Aratame-Cho Population Register Database-Shimomoriya and Niita (NAC-SN) 1716-1870, the Korea Multi-Generational Panel Dataset-Tansung (KMGPD-TS) 1678-1888, and the Colonial Taiwan Household Registration Database (CTHRD) 1906-1945. These data sets in total contain more than 3.7 million linked observations of 610,000 individuals and are the first such Asian data to be made available online or by application. We discuss the key features and historical institutions that originally collected these data; the subsequent processes by which the data were reconstructed into individual-level panels; their particular data limitations and strengths; and their potential for comparative social scientific research.",
+  "authors": [
+    {
+      "raw": "Dong, Hao",
+      "family": "Dong",
+      "given": "Hao"
+    },
+    {
+      "raw": "Campbell, Cameron",
+      "family": "Campbell",
+      "given": "Cameron"
+    },
+    {
+      "raw": "Kurosu, Satomi",
+      "family": "Kurosu",
+      "given": "Satomi"
+    },
+    {
+      "raw": "Yang, Wenshan",
+      "family": "Yang",
+      "given": "Wenshan"
+    },
+    {
+      "raw": "Lee, James Z.",
+      "family": "Lee",
+      "given": "James Z."
+    }
+  ],
+  "authors_text": "Dong, Hao; Campbell, Cameron; Kurosu, Satomi; Yang, Wenshan; Lee, James Z.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0397-y",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0397-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0397-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0397-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

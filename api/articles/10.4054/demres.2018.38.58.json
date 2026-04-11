@@ -1,0 +1,40 @@
+{
+  "title": "Family structure and child development in Chile: A longitudinal analysis of household transitions involving fathers and grandparents",
+  "abstract": "BACKGROUND Adults support child development economically, socially, and emotionally. Household transitions may disrupt these support structures, impacting child development. OBJECTIVE We document the large portion of children in Chile that experience biological-father and grandparent household transitions, and test if these transitions are associated with child vocabulary and behavior and if income could be a mechanism behind our findings. METHODS We apply first-differences and lagged-dependent-variable analyses to a large, nationally representative, longitudinal survey of over 5,000 Chilean children. RESULTS We find that children whose mothers separated from their parents' homes within the two years between two survey rounds have worse age-normalized Peabody Picture Vocabulary Test scores than children in households without such transitions. Changes in income per capita do not explain these associations. When fathers enter households between the two survey rounds there is a gain in income per capita but no association between father entrance and child's vocabulary score. Similarly, there is no significant association between fathers separating from the household and child vocabulary, though father departure is associated with lower income per capita. We find no association between household transitions and Child Behavioral Checklist (CBCL) scores. CONCLUSIONS These findings provide evidence that Chilean grandparents promote language development when coresiding with their grandchildren and that Chilean fathers are an important source of household income. CONTRIBUTION Our study examines fathers and grandparents simultaneously. We are able to take the directionality (i.e., movement in or out of the home) of biological father transitions into account.",
+  "authors": [
+    {
+      "raw": "Reynolds, Sarah A.",
+      "family": "Reynolds",
+      "given": "Sarah A."
+    },
+    {
+      "raw": "Fernald, Lia C. H.",
+      "family": "Fernald",
+      "given": "Lia C. H."
+    },
+    {
+      "raw": "Deardorff, Julianna",
+      "family": "Deardorff",
+      "given": "Julianna"
+    },
+    {
+      "raw": "Behrman, Jere R.",
+      "family": "Behrman",
+      "given": "Jere R."
+    }
+  ],
+  "authors_text": "Reynolds, Sarah A.; Fernald, Lia C. H.; Deardorff, Julianna; Behrman, Jere R.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.58",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.58",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.58",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.58.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

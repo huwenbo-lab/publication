@@ -1,0 +1,30 @@
+{
+  "title": "Temporal-spatial patterns of one-person households in China, 1982-2005",
+  "abstract": "BACKGROUND The number of one-person households (OPH) in China has risen over the past few decades, but there are few examinations of the patterns and trends in this rapidly growing family type. The changing composition and regional heterogeneity of Chinese OPH have important implications for family and individual well-being, and for the country's resource allocation. OBJECTIVE We examine the temporal-spatial patterns of OPH in China between 1982 and 2005, and address three research questions: 1) To what extent have the prevalence and composition of OPH changed? 2) How have the geographical distributions of OPH in China changed? 3) What are the local demographic and socioeconomic contexts related to the changes in OPH? METHODS We analyse data from the 1% sample of the 1982 and 1990 censuses, and a sample of the inter-censual 1% Population Sample Survey in 2005. Descriptive analysis at the provincial level presents the trends of the changing distribution and composition of OPH. Fixed-effect models at the prefecture-level examine how three sets of factors (i.e., demographic trends, socioeconomic development and internal migration) are related to the changing prevalence of OPH over time. RESULTS OPH have become increasingly heterogeneous. They are, particularly for the non-widowed who live alone, increasingly clustered in developed areas. Results show that industrialisation and internal migration largely explain the changing spatial variation of OPH. Lengthened life expectancy and a decline in fertility help to explain the increase in widowed OPH, while industrialisation and migration are associated with the rise of non-widowed OPH.",
+  "authors": [
+    {
+      "raw": "Cheung, Adam Ka-Lok",
+      "family": "Cheung",
+      "given": "Adam Ka-Lok"
+    },
+    {
+      "raw": "Yeung, Wei-Jun Jean",
+      "family": "Yeung",
+      "given": "Wei-Jun Jean"
+    }
+  ],
+  "authors_text": "Cheung, Adam Ka-Lok; Yeung, Wei-Jun Jean",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.32.44",
+  "doi_url": "https://doi.org/10.4054/demres.2015.32.44",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.32.44",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.32.44.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

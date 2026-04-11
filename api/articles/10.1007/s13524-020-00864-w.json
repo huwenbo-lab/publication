@@ -1,0 +1,30 @@
+{
+  "title": "Ethnic Violence and Birth Outcomes: Evidence From Exposure to the 1992 Conflict in Kenya",
+  "abstract": "This study is an examination of the effect of intrauterine exposure to electoral violence on child birth weight, an outcome that has long-term effects on an individual's education, income, and health in later life. We consider the electoral violence that resulted from the introduction of multiparty democracy in Kenya as an exogenous source of shock, using a difference-in-differences method and a mother fixed-effects model. We find that prenatal exposure to the violence increased the probabilities of low birth weight and a child being of very small size at birth by 19 and 6 percentage points, respectively. Violence exposure in the first trimester of pregnancy decreased birth weight by 271 grams and increased the probabilities of low birth weight and very small size at birth by 18 and 4 percentage points, respectively. The results reaffirm the significance of the nine months in utero as one of the most critical periods in life that shapes future health, economic, and educational trajectories.",
+  "authors": [
+    {
+      "raw": "Guantai, Fredah",
+      "family": "Guantai",
+      "given": "Fredah"
+    },
+    {
+      "raw": "Kijima, Yoko",
+      "family": "Kijima",
+      "given": "Yoko"
+    }
+  ],
+  "authors_text": "Guantai, Fredah; Kijima, Yoko",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00864-w",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00864-w",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00864-w",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00864-w.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Physical disorder and crime revisited: New evidence from intensive longitudinal data",
+  "abstract": "Objectives: The purpose of this study is to investigate whether the often-debated association be-tween physical disorder and crime exists longitudinally and operates through a specific spatial process. Methods: We combine four administrative and official databases to analyze patterns of crime occurring each month in New Orleans, LA, between 2012 and 2018 at the block group level. We adopt a generalized additive model (GAM) framework to efficiently account for potential spatial, temporal, and spatiotemporal autocorrelation to investigate this association. Results: The resident-driven self-report measure of physical disorder (i.e., 311 calls) consistently predicts neighborhood criminal activities in New Orleans. The spatial effects of 311 calls in adjacent areas on drug violations, property crime, and violence in a focal neighborhood are also observed. In contrast, official reports of physical disorder, captured with code violation, is either weakly related to crime or lacking an empirical relationship. Conclusion: Overall, our findings suggest that the association between physical disorder and neighborhood crimes is robust over time. In addition, this association is conditioned by how physical disorder is operationalized, with dimensions such as residential report and official report of physical disorder playing a unique, and occasionally important role in understanding overall patterns of neighborhood criminal activity.",
+  "authors": [
+    {
+      "raw": "Chen, Xiaojin",
+      "family": "Chen",
+      "given": "Xiaojin"
+    },
+    {
+      "raw": "Rafail, Patrick",
+      "family": "Rafail",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Chen, Xiaojin; Rafail, Patrick",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102637",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102637",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102637",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102637.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

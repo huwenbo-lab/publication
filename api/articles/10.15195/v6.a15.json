@@ -1,0 +1,35 @@
+{
+  "title": "The Intergenerational Transmission of Family-Income Advantages in the United States",
+  "abstract": "Estimates of economic persistence and mobility in the United States, as measured by the intergenerational elasticity (IGE), cover a very wide range. Nevertheless, careful analyses of the evidence suggested until recently that as much as half, and possibly more, of economic advantages are passed on from parents to children. This 'dominant hypothesis' was seriously challenged by the first-ever study of family-income mobility based on tax data (Chetty et al. 2014), which provided estimates of family-income IGEs indicating that only one-third of economic advantages are transmitted across generations and claimed that previous highly influential IGE estimates were upward biased. Using a different tax-based data set, this article provides estimates of family-income IGEs that strongly support the dominant hypothesis. The article also carries out a one-to-one comparison between IGEs estimated with the two tax-based data sets and shows that Chetty et al.'s estimates were driven downward by a combination of attenuation, life-cycle, selection, and functional-form biases. Lastly, the article determines the exact relationship between parental income inequality, economic persistence, and inequality of opportunity for income. This leads to the conclusion that, in the United States, at least half of income inequality among parents is transformed into inequality of opportunity among their children.",
+  "authors": [
+    {
+      "raw": "Mitnik, Pablo",
+      "family": "Mitnik",
+      "given": "Pablo"
+    },
+    {
+      "raw": "Bryant, Victoria",
+      "family": "Bryant",
+      "given": "Victoria"
+    },
+    {
+      "raw": "Weber, Michael",
+      "family": "Weber",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Mitnik, Pablo; Bryant, Victoria; Weber, Michael",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2019,
+  "doi": "10.15195/v6.a15",
+  "doi_url": "https://doi.org/10.15195/v6.a15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv6.a15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v6.a15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

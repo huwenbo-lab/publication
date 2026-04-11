@@ -1,0 +1,40 @@
+{
+  "title": "Fight or flight? Crime as a driving force in business failure and business mobility",
+  "abstract": "A growing body of research has documented the consequences of neighborhood crime for a myriad of individual, household, and community outcomes. Given that neighborhood businesses figure into the link between neighborhood structure and crime as sources of employment or sites for neighbor interaction, the present study examines the extent to which neighborhood crime is associated with the survival, mobility, and destination locations of businesses in the subsequent year. Using business data from Reference USA (Infogroup, 2015) and crime data from the Southern California Crime Study (SCCS) we assess this question for neighborhoods across cities in the Southern California region. We find that in general, higher violent and property crime are significantly associated with both business failure and mobility, and that higher crime in a destination neighborhood reduces the likelihood that a business locates there. We also present findings specific to industries, and discuss the implications of our findings for future research.",
+  "authors": [
+    {
+      "raw": "Hipp, John R.",
+      "family": "Hipp",
+      "given": "John R."
+    },
+    {
+      "raw": "Williams, Seth A.",
+      "family": "Williams",
+      "given": "Seth A."
+    },
+    {
+      "raw": "Kim, Young-An",
+      "family": "Kim",
+      "given": "Young-An"
+    },
+    {
+      "raw": "Kim, Jae Hong",
+      "family": "Kim",
+      "given": "Jae Hong"
+    }
+  ],
+  "authors_text": "Hipp, John R.; Williams, Seth A.; Kim, Young-An; Kim, Jae Hong",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.04.010",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.04.010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.04.010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.04.010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

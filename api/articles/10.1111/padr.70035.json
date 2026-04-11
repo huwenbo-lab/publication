@@ -1,0 +1,40 @@
+{
+  "title": "Nutritional Inequality and Policy Targeting in South Asia",
+  "abstract": "How much intra-household inequality is there in nutritional outcomes, and what does this mean for policy targeting? Using Demographic and Health Survey data for the South Asia region, we show that two-thirds of undernourished individuals live in households with others who are not undernourished. Within-household inequality contributes almost as much to overall nutritional inequality as between-household inequality. While wealth is significantly correlated with undernourishment, only half of all undernourished individuals are found in the poorest 40 percent of households. Even in the wealthiest households, 10 percent of adults and 15 percent of children are undernourished. Adding additional covariates, such as birth order, adult education, and those related to household sanitation infrastructure, does little to improve the predictive power of individual nutritional status. As a result, accurately targeting undernourished individuals using household- or community-level observables is likely to be difficult. We find that straightforward outcomes such as age or access to sanitation infrastructure do as well as household wealth at targeting undernourishment; yet all the targeting methods we consider yield large inclusion and exclusion errors, raising questions as to whether nutrition interventions should be targeted.",
+  "authors": [
+    {
+      "raw": "Brown, Caitlin",
+      "family": "Brown",
+      "given": "Caitlin"
+    },
+    {
+      "raw": "Kandpal, Eeshani",
+      "family": "Kandpal",
+      "given": "Eeshani"
+    },
+    {
+      "raw": "Lee, Jean",
+      "family": "Lee",
+      "given": "Jean"
+    },
+    {
+      "raw": "Williams, Anaise",
+      "family": "Williams",
+      "given": "Anaise"
+    }
+  ],
+  "authors_text": "Brown, Caitlin; Kandpal, Eeshani; Lee, Jean; Williams, Anaise",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70035",
+  "doi_url": "https://doi.org/10.1111/padr.70035",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70035",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70035.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Women's autonomy, education and birth intervals in India",
+  "abstract": "Using data from the third National Family Health Survey (NFHS-3) on currently married fecund women who have had at least one birth during 2001–2002 and Cox-proportional hazard models, this study examines the less researched association between women's autonomy and birth-to-conception intervals in India. It also examines whether women's autonomy mediates or moderates the relationship between education and birth-to-conception interval. Our results indicate that after adjusting for demographic and socioeconomic factors, women's autonomy was a significant predictor of birth-to-conception intervals, with higher autonomy positively associated with larger birth-to-conception intervals. Education of women was also independently associated with longer birth-to-conception intervals. However, this study did not provide any support to the general perception that women's autonomy mediates the association between women's education and birth-to-conception interval. Women's autonomy rather than being a mediator acted as a moderator in this association. Policy measures to increase the spacing between births should emphasise not only improving the education of women but also their autonomy.",
+  "authors": [
+    {
+      "raw": "Jatrana, Santosh",
+      "family": "Jatrana",
+      "given": "Santosh"
+    },
+    {
+      "raw": "Pasupuleti, Samba Siva Rao",
+      "family": "Pasupuleti",
+      "given": "Samba Siva Rao"
+    }
+  ],
+  "authors_text": "Jatrana, Santosh; Pasupuleti, Samba Siva Rao",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2015,
+  "doi": "10.1080/17441730.2015.1050083",
+  "doi_url": "https://doi.org/10.1080/17441730.2015.1050083",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2015.1050083",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2015.1050083.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

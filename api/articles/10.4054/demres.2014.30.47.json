@@ -1,0 +1,35 @@
+{
+  "title": "Migration and marriage: Modeling the joint process",
+  "abstract": "Omitting inter-dependency between life course events can lead to a mistaken impression of the direct effects of certain features of each event on the other.",
+  "authors": [
+    {
+      "raw": "Jang, Bohyun",
+      "family": "Jang",
+      "given": "Bohyun"
+    },
+    {
+      "raw": "Casterline, John",
+      "family": "Casterline",
+      "given": "John"
+    },
+    {
+      "raw": "Snyder, Anastasia",
+      "family": "Snyder",
+      "given": "Anastasia"
+    }
+  ],
+  "authors_text": "Jang, Bohyun; Casterline, John; Snyder, Anastasia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2014,
+  "doi": "10.4054/demres.2014.30.47",
+  "doi_url": "https://doi.org/10.4054/demres.2014.30.47",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2014.30.47",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2014.30.47.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

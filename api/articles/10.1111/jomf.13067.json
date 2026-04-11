@@ -1,0 +1,30 @@
+{
+  "title": "Parental separation and children's genetic influences on education",
+  "abstract": "ObjectiveThis study focuses on the extent to which parental divorce and separation during childhood affect children's chances to realize genetic influences on educational attainment.BackgroundWhether the family context matters for genetic influences on children's educational attainment remains an open question. Previous research mainly considers parents' socio-economic standing and overlooks a key dimension of social stratification: childhood family structure.MethodThis study draws on the US Health and Retirement Study (HRS) to estimate the association between education polygenic scores and educational attainment of adults who experienced a parental separation before age 16 compared to adults who lived continuously with both parents.ResultsResults show that genetic effects are smaller for adults whose parents separated compared to adults whose parents remained coupled. Moreover, additional analysis directed at the mechanisms provided no evidence that the negative impact of parental separation was attributable to adverse socioeconomic conditions during childhood.ConclusionThe findings suggest that distinct inner-familial conditions linked to parental separation affect children's genetic influences on educational attainment.",
+  "authors": [
+    {
+      "raw": "Van Winkle, Zachary",
+      "family": "Van Winkle",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Baier, Tina",
+      "family": "Baier",
+      "given": "Tina"
+    }
+  ],
+  "authors_text": "Van Winkle, Zachary; Baier, Tina",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13067",
+  "doi_url": "https://doi.org/10.1111/jomf.13067",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13067",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13067.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

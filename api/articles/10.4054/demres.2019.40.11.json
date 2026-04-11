@@ -1,0 +1,30 @@
+{
+  "title": "The effects of household and community context on mortality among children under five in Sierra Leone: Evidence from the 2013 Demographic and Health Survey",
+  "abstract": "BACKGROUND Sierra Leone in sub-Saharan Africa had one of the highest under-five mortality rates in the world in 2016: 114 deaths per 1000 live births. Previous studies have mainly focused on examining individual risk factors of child mortality in the country, without examining micro and macro levels of risk factors simultaneously. OBJECTIVE This study examines the effect of household and community context on the risk of dying for children under five in Sierra Leone. METHODS We use data from the 2013 Sierra Leone Demographic and Health Survey (SL DHS) to estimate the probability of dying, and examine mortality determinants using discrete-time event history analysis in a multilevel framework. RESULTS We find that individual child characteristics and mother- and community-level factors simultaneously affect the risk of child mortality. The substantial clustering of communities with high risk of mortality identified in the Eastern region indicates that children residing in the region have a higher risk of mortality than those in other regions. Further, the results suggest the need for targeted area interventions. CONCLUSIONS We provide evidence suggesting that policymakers should focus on assisting mothers through family planning programmes to promote longer birth intervals, increased coverage of health services for mothers and children, and targeted interventions to reduce child mortality in the most affected regions of Sierra Leone. CONTRIBUTION We contribute recent evidence of determinants of child mortality in Sierra Leone from SL DHS 2013, including mother and community factors in a multilevel framework.",
+  "authors": [
+    {
+      "raw": "Liwin, Lilipramawanty Kewok",
+      "family": "Liwin",
+      "given": "Lilipramawanty Kewok"
+    },
+    {
+      "raw": "Houle, Brian",
+      "family": "Houle",
+      "given": "Brian"
+    }
+  ],
+  "authors_text": "Liwin, Lilipramawanty Kewok; Houle, Brian",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.11",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

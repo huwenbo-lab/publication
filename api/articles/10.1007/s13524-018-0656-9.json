@@ -1,0 +1,25 @@
+{
+  "title": "Subsidized Housing and the Transition to Adulthood",
+  "abstract": "Despite abundant evidence about the effect of children's socioeconomic circumstances on their transition to adulthood, we know much less about the effect of social policy programs aimed at poor families with children in facilitating how and when children become adults. This issue is particularly important for the U.S. federal subsidized housing program given its long history of placing subsidized units in some of the poorest and most racially segregated neighborhoods. Using counterfactual causal methods that adjust for the length of receipt of subsidized housing, I estimate the effect of subsidized housing on teenage parenthood, household formation, and educational attainment. I find that the subsidized housing program has either null or positive effects on the transition to adulthood and that these effects vary by both race and gender. These results underscore the importance of considering whether social programs have differential effects on the life chances of individuals based on both race and gender.",
+  "authors": [
+    {
+      "raw": "Kucheva, Yana",
+      "family": "Kucheva",
+      "given": "Yana"
+    }
+  ],
+  "authors_text": "Kucheva, Yana",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0656-9",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0656-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0656-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0656-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "(Dis)trust in Digital Insurance: How Datafied Practices Shift Uncertainties and Reconfigure Trust Relations",
+  "abstract": "Trust is both a prerequisite and a product of insurance, as insurance contracts are built on and create trust relations that enable a risk-averse perspective towards the future. At the same time, insurer-policyholder relationships are characterised by a persistent distrust, rooted in insurance economics and industry reputation. In this article, we discuss these dynamics through a Luhmannian understanding of (dis)trust as a complexity-reducing functional fiction resulting from social action. Beyond traditional insurance, we examine how trust relations are reconfigured by the introduction of digital technologies and data, developments that could enable new ways to calculate, price and manage risks. We critically assess the claim that these techniques make the future knowable and mitigate-or even eliminate-'the unreliable human factor', ultimately replacing trust relations with a principle of transparency. Drawing on sociology of insurance, critical data studies, and our own case-based research on digital insurance products marketed to individuals, we argue that these technologies do not eliminate uncertainties and vulnerabilities as expected in insurance discourse. Instead, they introduce new insecurities and complexities by increasing the trust relations required for insurance arrangements. Consequently, the principle of transparency offers a narrow, techno-solutionist substitute for trust, ignoring the affective aspects of insurer-policyholder relationships and potentially undermining the social contract and solidarity associated with insurance.",
+  "authors": [
+    {
+      "raw": "Tanninen, Maiju",
+      "family": "Tanninen",
+      "given": "Maiju"
+    },
+    {
+      "raw": "Meyers, Gert",
+      "family": "Meyers",
+      "given": "Gert"
+    }
+  ],
+  "authors_text": "Tanninen, Maiju; Meyers, Gert",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1111/1468-4446.13223",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13223",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13223",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13223.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

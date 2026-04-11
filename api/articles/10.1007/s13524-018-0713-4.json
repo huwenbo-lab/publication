@@ -1,0 +1,45 @@
+{
+  "title": "Individual Uncertainty About Longevity",
+  "abstract": "This article presents an assessment of individual uncertainty about longevity. A survey performed on 3,331 French people enables us to record several survival probabilities per individual. On this basis, we compute subjective life expectancies (SLE) and subjective uncertainty regarding longevity (SUL), the standard deviation of each individual's subjective distribution of her or his own longevity. It is large and equal to more than 10 years for men and women. Its magnitude is comparable to the variability of longevity observed in life tables for individuals under 60, but it is smaller for those older than 60, which suggests use of private information by older respondents. Our econometric analysis confirms that individuals use private information-mainly their parents' survival and longevity-to adjust their level of uncertainty. Finally, we find that SUL has a sizable impact, in addition to SLE, on risky behaviors: more uncertainty on longevity significantly decreases the probability of unhealthy lifestyles. Given that individual uncertainty about longevity affects prevention behavior, retirement decisions, and demand for long-term care insurance, these results have important implications for public policy concerning health care and retirement.",
+  "authors": [
+    {
+      "raw": "Dormont, Brigitte",
+      "family": "Dormont",
+      "given": "Brigitte"
+    },
+    {
+      "raw": "Samson, Anne-Laure",
+      "family": "Samson",
+      "given": "Anne-Laure"
+    },
+    {
+      "raw": "Fleurbaey, Marc",
+      "family": "Fleurbaey",
+      "given": "Marc"
+    },
+    {
+      "raw": "Luchini, Stephane",
+      "family": "Luchini",
+      "given": "Stephane"
+    },
+    {
+      "raw": "Schokkaert, Erik",
+      "family": "Schokkaert",
+      "given": "Erik"
+    }
+  ],
+  "authors_text": "Dormont, Brigitte; Samson, Anne-Laure; Fleurbaey, Marc; Luchini, Stephane; Schokkaert, Erik",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0713-4",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0713-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0713-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0713-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

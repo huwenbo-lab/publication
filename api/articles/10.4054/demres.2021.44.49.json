@@ -1,0 +1,25 @@
+{
+  "title": "Measuring the concentration of urban population in the negative exponential model using the Lorenz curve, Gini coefficient, Hoover dissimilarity index, and relative entropy",
+  "abstract": "BACKGROUND Stewart (1947) and Clark (1951) proposed that urban population density is a negative exponential function of the distance from a city's center. This model of the spatial distribution of urban population density has been influential in urban economics, transportation planning, and urban demography. Duncan (1957) suggested characterizing the inequality in the distribution of urban population density in this model by using standard economic measures of concentration or unevenness: the Lorenz curve, the Gini coefficient, and the Hoover dissimilarity index. Batty (1974) advocated measuring concentration using relative entropy. OBJECTIVE We execute Duncan's (1957) and Batty's (1974) suggestions using mathematical analysis, not simulations. METHODS We modify the negative exponential model to recognize that any city has a finite radius. RESULTS Mathematical analysis reveals that all four measures of concentration depend sensitively on the finite radius of the city in the negative exponential model. We give a numerical example of the sensitivity of the concentration measures to the boundary radius. CONTRIBUTION In empirical applications of the negative exponential model of urban population density, it is important to have clear, consistent standards for defining urban boundaries. Otherwise, differences between cities or over time within the same city in these four and perhaps other measures of concentration could be due at least in part to differences in defining the radius or other boundaries of the city.",
+  "authors": [
+    {
+      "raw": "Cohen, Joel E.",
+      "family": "Cohen",
+      "given": "Joel E."
+    }
+  ],
+  "authors_text": "Cohen, Joel E.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.49",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.49",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.49",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.49.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

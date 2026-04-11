@@ -1,0 +1,35 @@
+{
+  "title": "The Diffusion of Strikes: A Dyadic Analysis of Economic Sectors in the Netherlands, 1995-2007",
+  "abstract": "This study examines the extent to which strikes diffuse across sectors and to what extent this diffusion of strikes can be explained by similarities and interdependencies between sectors. For this purpose, the authors examine a unique temporally disaggregated and dyadic database on strikes in Dutch sectors during the 1995-2007 period. Based on a series of discrete-time event-history models, their study clearly supports the relevance of intersectoral interdependencies to understanding when strikes in one sector are followed by strikes in other sectors. Sector-to-sector labor mobility has a significant and positive impact on the diffusion of strikes across sectors.",
+  "authors": [
+    {
+      "raw": "Jansen, Giedo",
+      "family": "Jansen",
+      "given": "Giedo"
+    },
+    {
+      "raw": "Sluiter, Roderick",
+      "family": "Sluiter",
+      "given": "Roderick"
+    },
+    {
+      "raw": "Akkerman, Agnes",
+      "family": "Akkerman",
+      "given": "Agnes"
+    }
+  ],
+  "authors_text": "Jansen, Giedo; Sluiter, Roderick; Akkerman, Agnes",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2016,
+  "doi": "10.1086/685441",
+  "doi_url": "https://doi.org/10.1086/685441",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F685441",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/685441.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

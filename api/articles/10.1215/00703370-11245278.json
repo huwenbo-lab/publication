@@ -1,0 +1,30 @@
+{
+  "title": "Cause-of-Death Determinants of Lifespan Inequality",
+  "abstract": "We propose a novel decomposition approach that breaks down the levels and trends of lifespan inequality as the sum of cause-of-death contributions. The suggested method shows whether the levels and changes in lifespan inequality are attributable to the levels and changes in (1) the extent of inequality in the cause-specific age-at-death distribution (the Inequality component), (2) the total share of deaths attributable to each cause (the Proportion component), or (3) the cause-specific mean age at death (the Mean component). This so-called Inequality-Proportion-Mean (or IPM) method is applied to 10 low-mortality countries in Europe. Our findings suggest that the most prevalent causes of death (in our setting, circulatory system and neoplasms) do not necessarily contribute the most to overall levels of life-span inequality. In fact, perinatal and congenital causes are the strongest drivers of lifespan inequality declines. The contribution of the IPM components to changes in lifespan inequality varies considerably across causes, genders, and countries. Among the three components, the Mean one explains the least lifespan inequality dynamics, suggesting that shifts in cause-specific mean ages at death alone contributed little to changes in lifespan inequality.",
+  "authors": [
+    {
+      "raw": "Permanyer, Inaki",
+      "family": "Permanyer",
+      "given": "Inaki"
+    },
+    {
+      "raw": "Vigezzi, Serena",
+      "family": "Vigezzi",
+      "given": "Serena"
+    }
+  ],
+  "authors_text": "Permanyer, Inaki; Vigezzi, Serena",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11245278",
+  "doi_url": "https://doi.org/10.1215/00703370-11245278",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11245278",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11245278.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

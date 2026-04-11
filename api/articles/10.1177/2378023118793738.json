@@ -1,0 +1,25 @@
+{
+  "title": "Where Are All of the Women? Untangling the Effects of Representation, Participation, and Preferences on Gender Differences in Political Press Coverage",
+  "abstract": "The author examines why female politicians continue to be underrepresented in the press by measuring how structural inequalities, engagement in traditional and disruptive dialogue, and gender preferences influence the amount of press coverage U.S. House representatives receive. Drawing on a data set of Tweets, press releases, and news articles and transcripts related to the 114th House of Representatives’ investigations of the Iran deal and Planned Parenthood, the author uses negative binomial regression to test the effects of gender, engagement, and interactions of the two on the press coverage received by male and female House members. The results indicate that female House members’ underrepresentation in the media mirrors their underrepresentation in public office. These findings suggest that although political discourse and gender preferences may not be keeping women out of the media when covering gendered topics, getting more women in public office is likely to be a cumbersome challenge in itself.",
+  "authors": [
+    {
+      "raw": "Johnstonbaugh, Morgan",
+      "family": "Johnstonbaugh",
+      "given": "Morgan"
+    }
+  ],
+  "authors_text": "Johnstonbaugh, Morgan",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118793738",
+  "doi_url": "https://doi.org/10.1177/2378023118793738",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118793738",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118793738.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

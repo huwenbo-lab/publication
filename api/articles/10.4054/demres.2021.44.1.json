@@ -1,0 +1,40 @@
+{
+  "title": "Simulating family life courses: An application for Italy, Great Britain, Norway, and Sweden",
+  "abstract": "BACKGROUND Family patterns in Western countries have changed substantially across birth cohorts. The spread of unmarried cohabitation, the decline and postponement of marriage and fertility, and the rise in nonmarital births, partnership instability, and repartnering lead to an increasing diversity in family life courses. OBJECTIVE In this paper we demonstrate how to set up a tool to explore family life trajectories. This tool models the changing family patterns, taking into account the complex interrelationships between childbearing and partnership processes. METHODS We build a microsimulation model parameterised using retrospective partnership and childbearing data. The data cover women born since 1940 in Italy, Great Britain, and two Scandinavian countries (Norway and Sweden), three significantly different cultural and institutional contexts of partnering and childbearing in Europe. RESULTS We guide readers through the modelling of individual life events to obtain a set of aggregate estimates, providing information on the power, technical structure, and underlying assumptions of microsimulations. Validation of the simulated family life courses against their real-world equivalents shows that the simulations not only closely replicate observed childbearing and partnership processes, but also provide high quality predictions when compared to more recent fertility indicators. CONCLUSIONS Using observed population estimates to systematically validate the results both validates our model and increases confidence that microsimulations satisfactorily replicate the behaviour of the original population. CONTRIBUTION We create and validate a microsimulation model that can be used not only to explore mechanisms throughout the family life course but also to set up scenarios and predict future family patterns.",
+  "authors": [
+    {
+      "raw": "Winkler-Dworak, Maria",
+      "family": "Winkler-Dworak",
+      "given": "Maria"
+    },
+    {
+      "raw": "Beaujouan, Eva",
+      "family": "Beaujouan",
+      "given": "Eva"
+    },
+    {
+      "raw": "Di Giulio, Paola",
+      "family": "Di Giulio",
+      "given": "Paola"
+    },
+    {
+      "raw": "Spielauer, Martin",
+      "family": "Spielauer",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Winkler-Dworak, Maria; Beaujouan, Eva; Di Giulio, Paola; Spielauer, Martin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.1",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

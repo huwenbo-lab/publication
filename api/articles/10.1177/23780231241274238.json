@@ -1,0 +1,40 @@
+{
+  "title": "Glass Ceilings, Step Stools, and Sticky Floors: The Racialized Gendered Promotion Process",
+  "abstract": "Organizations play a central role in replicating societal inequalities. Despite theories of gendered and racialized organizations, evidence of unequal outcomes, and research on proposed mechanisms, we have few intersectional analyses demonstrating how the promotion process varies by race and gender across job levels in actual organizations. In this first-ever analysis of advancement in a U.S. firm by gender, race, and job, we run random effects logistic regression models on five years of novel longitudinal data from the software engineering workforce of a U.S.-based technology company. Results show intersectional performance-reward bias in patterns that help maintain the racialized gendered hierarchy so commonly observed in organizations: White men overrepresented at the top, women of color overrepresented at the bottom, and in the technology sector, men of Asian descent overrepresented in midlevel technical jobs and White women overrepresented in midlevel management positions. Findings suggest monitoring promotions by gender, race, and position to make visible biases that continue to impede workplace equity.",
+  "authors": [
+    {
+      "raw": "Corbett, Christianne",
+      "family": "Corbett",
+      "given": "Christianne"
+    },
+    {
+      "raw": "Wullert, Katherine E.",
+      "family": "Wullert",
+      "given": "Katherine E."
+    },
+    {
+      "raw": "Gilmartin, Shannon K.",
+      "family": "Gilmartin",
+      "given": "Shannon K."
+    },
+    {
+      "raw": "Simard, Caroline",
+      "family": "Simard",
+      "given": "Caroline"
+    }
+  ],
+  "authors_text": "Corbett, Christianne; Wullert, Katherine E.; Gilmartin, Shannon K.; Simard, Caroline",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241274238",
+  "doi_url": "https://doi.org/10.1177/23780231241274238",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241274238",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241274238.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Does Schooling Affect Socioeconomic Inequalities in Educational Attainment? Evidence from a Natural Experiment in Germany",
+  "abstract": "Critical theories of education and the dynamics of skill formation model predict that the education system reproduces socioeconomic inequalities in educational attainment. Previous empirical studies comparing changes in socioeconomic inequalities in academic performance over the summer to changes in these inequalities during the school year have argued, however, that schooling reduces inequalities in educational performance. The present study highlights the question of whether schooling affects socioeconomic inequalities in educational attainment by analyzing a natural experiment that induces exogenous variation in the length of schooling and allowed me to investigate the causal, long-term effects of the length of schooling on inequalities in educational attainment. Some German states moved the school start from spring to summer in 1966/1967 and introduced two short school years, each of which was three months shorter than a regular school year. I use variation in the short school years across cohorts and states to estimate the causal effects of the length of schooling on socioeconomic inequalities in educational attainment based on two German panel surveys. Less schooling due to the short school years did not affect inequalities in educational attainment. This finding runs counter to the results from the summer learning literature and to the predictions of the dynamics of skill formation model and critical theories of education. I conclude by discussing the implications of this finding for our understanding of socioeconomic inequalities in educational attainment.",
+  "authors": [
+    {
+      "raw": "Grätz, Michael",
+      "family": "Grätz",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Grätz, Michael",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a31",
+  "doi_url": "https://doi.org/10.15195/v10.a31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

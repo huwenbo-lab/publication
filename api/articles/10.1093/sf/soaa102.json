@@ -1,0 +1,30 @@
+{
+  "title": "A Time-Series Analysis of Contextual-Level Effects on Hate Crime in The Netherlands",
+  "abstract": "Nowadays, registered hate crimes are on the rise in many Western societies. What explains temporal variation in the incidence of hate crimes? Combining insights from the grievance model and the opportunity model, we study the role of three types of contextual factors: security (terrorism), media (news about terrorism and immigration), and political factors (speech by anti-immigration actors, hate speech prosecution, and high-profile anti-immigration victories). We apply time-series analysis to our original dataset of registered hate crimes in the Netherlands, 2015-2017 (N = 7,219). Findings indicate that terrorist attacks, (both print and online) news on refugees, immigration, and terrorism boost nonviolent hate crime. Similarly, news of the hate speech prosecution of Freedom Party leader Geert Wilders increases nonviolent crime as well. Tentative evidence points to a contagion effect of speech by anti-immigration actors. With regard to violent hate crime, only terrorist attacks had an effect. This effect was modest and only found in one of our models. Hence, the grievance and the opportunities model each partially explain nonviolent hate crime, although the security and media context seem most influential. Our findings help to identify the contextual factors contributing to a climate for hate and suggest that perceived threats play a key role.",
+  "authors": [
+    {
+      "raw": "Jacobs, Laura",
+      "family": "Jacobs",
+      "given": "Laura"
+    },
+    {
+      "raw": "van Spanje, Joost",
+      "family": "van Spanje",
+      "given": "Joost"
+    }
+  ],
+  "authors_text": "Jacobs, Laura; van Spanje, Joost",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa102",
+  "doi_url": "https://doi.org/10.1093/sf/soaa102",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa102",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa102.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

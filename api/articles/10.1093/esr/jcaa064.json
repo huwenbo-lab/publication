@@ -1,0 +1,30 @@
+{
+  "title": "Parenthood and the Gender Gap in Workplace Authority",
+  "abstract": "This article answers several related questions: does parenthood affect whether women hold positions of authority? Is there a parenthood effect on authority for men? Is the gender gap in authority explained by a more deleterious effect of parenthood on women's in comparison to men's representation in positions of authority? Past studies of the relationship between parenthood and workplace authority have been limited in their ability to assess a causal effect of parenthood because most have employed a static approach, measuring the presence of children and the type of job held concurrently, using cross-sectional data. Using retrospective life course data from four rounds of the Family Survey of the Dutch Population and distributed fixed-effects models, we study within-person changes in having supervisory authority among women and men in the years before, around, and after the birth of their first child. The findings show a moderate negative effect of motherhood on women's representation in authority, which is entirely explained by a reduction in the number of hours worked. Fatherhood has no effect on men's representation in authority. The gender gap in supervisory authority between women and men grows over time but is already very large years before the transition to first-time parenthood.",
+  "authors": [
+    {
+      "raw": "Stojmenovska, Dragana",
+      "family": "Stojmenovska",
+      "given": "Dragana"
+    },
+    {
+      "raw": "England, Paula",
+      "family": "England",
+      "given": "Paula"
+    }
+  ],
+  "authors_text": "Stojmenovska, Dragana; England, Paula",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa064",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa064",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa064",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa064.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

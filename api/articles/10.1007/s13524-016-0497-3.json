@@ -1,0 +1,35 @@
+{
+  "title": "Premigration School Quality, Time Spent in the United States, and the Math Achievement of Immigrant High School Students",
+  "abstract": "Using a nationally representative sample of 1,189 immigrant youth in American high schools, we examine whether the quality of education in their country of origin is related to post-migration math achievement in the 9th grade. To measure the quality of their education in the country of origin, we use country-specific average test scores from two international assessments: the Programme for International Student Assessment (PISA) and the Trends in International Mathematics and Science Study (TIMSS). We find that the average PISA or TIMSS scores for immigrant youth's country of origin are positively associated with their performance on the 9th grade post-migration math assessment. We also find that each year spent in the United States is positively associated with performance on the 9th grade post-migration math assessment, but this effect is strongest for immigrants from countries with low PISA/TIMSS scores.",
+  "authors": [
+    {
+      "raw": "Bozick, Robert",
+      "family": "Bozick",
+      "given": "Robert"
+    },
+    {
+      "raw": "Malchiodi, Alessandro",
+      "family": "Malchiodi",
+      "given": "Alessandro"
+    },
+    {
+      "raw": "Miller, Trey",
+      "family": "Miller",
+      "given": "Trey"
+    }
+  ],
+  "authors_text": "Bozick, Robert; Malchiodi, Alessandro; Miller, Trey",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0497-3",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0497-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0497-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0497-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

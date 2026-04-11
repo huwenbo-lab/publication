@@ -1,0 +1,35 @@
+{
+  "title": "Socio-emotional Skills and the Socioeconomic Achievement Gap",
+  "abstract": "Empirical evidence suggests children's socio-emotional skills-an important determinant of school achievement-vary according to socioeconomic family background. This study assesses the degree to which differences in socio-emotional skills contribute to the achievement gap between socioeconomically advantaged and disadvantaged children. We used data on 74 countries from the 2018 Programme for International Student Assessment, which contains an extensive set of psychological measures, including growth mindset, self-efficacy, and work mastery. We developed three conceptual scenarios to analyze the role of socio-emotional skills in learning inequality: simple accumulation, multiplicative accumulation, and compensatory accumulation. Our findings are in line with the simple accumulation scenario: Socioeconomically advantaged children have somewhat higher levels of socio-emotional skills than their disadvantaged peers, but the effect of these skills on academic performance is largely similar in both groups. Using a counterfactual decomposition method, we show that the measured socio-emotional skills explain no more than 8.8 percent of the socioeconomic achievement gap. Based on these findings, we argue that initiatives to promote social and emotional learning are unlikely to substantially reduce educational inequality.",
+  "authors": [
+    {
+      "raw": "Gruijters, Rob J.",
+      "family": "Gruijters",
+      "given": "Rob J."
+    },
+    {
+      "raw": "Raabe, Isabel J.",
+      "family": "Raabe",
+      "given": "Isabel J."
+    },
+    {
+      "raw": "Huebner, Nicolas",
+      "family": "Huebner",
+      "given": "Nicolas"
+    }
+  ],
+  "authors_text": "Gruijters, Rob J.; Raabe, Isabel J.; Huebner, Nicolas",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2024,
+  "doi": "10.1177/00380407231216424",
+  "doi_url": "https://doi.org/10.1177/00380407231216424",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380407231216424",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380407231216424.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

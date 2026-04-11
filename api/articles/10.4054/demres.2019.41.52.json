@@ -1,0 +1,40 @@
+{
+  "title": "Capturing trends in Canadian divorce in an era without vital statistics",
+  "abstract": "BACKGROUND Statistics Canada ceased publishing vital statistics on marriage and divorce in 2008, leaving a knowledge gap in these important demographic indicators. OBJECTIVE This paper makes the methodological contribution of examining how best to operationalize divorce with tax data, and the substantive contribution of presenting recent trends in divorce in Canada. METHODS We examine trends in divorce using both vital statistics and administrative tax data and compare them during the period for which they are available (through 2008). Then, using administrative tax data, we update trends in divorce through 2016. We examine overall, age-specific, and age-standardized trends in divorce. RESULTS We document gray divorce from the 1990s through 2008 and then flat divorce rates for older adults and a continued decline in divorce for younger adults through 2016. CONCLUSIONS Tax data show a recent decline in divorce trends in Canada. However, there are important limitations to estimating divorce with tax data. We discuss data gaps and make suggestions for more accurate measures of union dissolution. CONTRIBUTION Divorce is important for demographers to measure well, and this paper carefully examines recent trends and critically evaluates administrative data's ability to fill the void left by the termination of vital statistics.",
+  "authors": [
+    {
+      "raw": "Margolis, Rachel",
+      "family": "Margolis",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Choi, Youjin",
+      "family": "Choi",
+      "given": "Youjin"
+    },
+    {
+      "raw": "Hou, Feng",
+      "family": "Hou",
+      "given": "Feng"
+    },
+    {
+      "raw": "Haan, Michael",
+      "family": "Haan",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Margolis, Rachel; Choi, Youjin; Hou, Feng; Haan, Michael",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.52",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.52",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.52",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.52.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "The Effects of Adolescent Childbearing on Literacy and Numeracy in Bangladesh, Malawi, and Zambia",
+  "abstract": "Global investments in girls' education have been motivated, in part, by an expectation that more-educated women will have smaller and healthier families. However, in many low- and middle-income countries, the timing of school dropout and first birth coincide, resulting in a rapid transition from the role of student to the role of mother for adolescent girls. Despite growing interest in the effects of pregnancy on levels of school dropout, researchers have largely overlooked the potential effect of adolescent childbearing on literacy and numeracy. We hypothesize that becoming a mother soon after leaving school may cause the deterioration of skills gained in school. Using longitudinal data from Bangladesh, Malawi, and Zambia, we test our hypothesis by estimating fixed-effects linear regression models to address the endogeneity in the relationship between childbearing and academic skills. To our knowledge, this is the first study to examine the effects of adolescent childbearing on academic skills in low- and middle-income countries. Our results indicate that among those with low levels of grade attainment, first birth has a negative effect on English literacy and numeracy. Among those with higher levels of grade attainment, we find little evidence of effects of childbearing on academic skills. Childbearing also has little effect on local language literacy. Beyond the immediate loss of English literacy and numeracy, if these skills lead to better health and more economic productivity, then adolescent childbearing may have longer-term repercussions than previously understood. In addition to ongoing efforts to increase educational attainment and school quality in low- and middle-income countries, investments are needed to strengthen the academic skills of adolescent mothers to secure the demographic and economic promise of expanded education for girls and women.",
+  "authors": [
+    {
+      "raw": "Psaki, Stephanie R.",
+      "family": "Psaki",
+      "given": "Stephanie R."
+    },
+    {
+      "raw": "Soler-Hampejsek, Erica",
+      "family": "Soler-Hampejsek",
+      "given": "Erica"
+    },
+    {
+      "raw": "Saha, Jyotirmoy",
+      "family": "Saha",
+      "given": "Jyotirmoy"
+    },
+    {
+      "raw": "Mensch, Barbara S.",
+      "family": "Mensch",
+      "given": "Barbara S."
+    },
+    {
+      "raw": "Amin, Sajeda",
+      "family": "Amin",
+      "given": "Sajeda"
+    }
+  ],
+  "authors_text": "Psaki, Stephanie R.; Soler-Hampejsek, Erica; Saha, Jyotirmoy; Mensch, Barbara S.; Amin, Sajeda",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00816-z",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00816-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00816-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00816-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

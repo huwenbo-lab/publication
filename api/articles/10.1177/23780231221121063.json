@@ -1,0 +1,30 @@
+{
+  "title": "Gender, Race, and Intersectionality in Campaign Cash to the U.S. Congress, 1990 to 2014",
+  "abstract": "This data visualization presents trends and patterns in gender, race, and their intersection in campaign donations to U.S. congressional candidates by American corporate leaders during the 1990–2014 election cycles. On the basis of a new longitudinal database, this visualization shows consistent gender and racial disparities in corporate leaders’ propensity to donate and in their partisan preferences. Throughout the series, the authors find that women are less likely to contribute to congressional campaigns than men in U.S. corporate leadership. Conditional on contributing, women are overall more likely to donate to Democrats than men. In addition to a consistent gender gap in partisan preferences, we find that women of color are the most Democratic leaning, compared with their white counterparts. This latter finding implies a role for intersectionality in explaining the political behavior of these leaders.",
+  "authors": [
+    {
+      "raw": "Zhang, Yongjun",
+      "family": "Zhang",
+      "given": "Yongjun"
+    },
+    {
+      "raw": "Heerwig, Jennifer",
+      "family": "Heerwig",
+      "given": "Jennifer"
+    }
+  ],
+  "authors_text": "Zhang, Yongjun; Heerwig, Jennifer",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221121063",
+  "doi_url": "https://doi.org/10.1177/23780231221121063",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221121063",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221121063.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

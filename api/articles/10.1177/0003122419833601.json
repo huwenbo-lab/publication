@@ -1,0 +1,30 @@
+{
+  "title": "Scaling Down Inequality: Rating Scales, Gender Bias, and the Architecture of Evaluation",
+  "abstract": "Quantitative performance ratings are ubiquitous in modern organizations-from businesses to universities-yet there is substantial evidence of bias against women in such ratings. This study examines how gender inequalities in evaluations depend on the design of the tools used to judge merit. Exploiting a quasi-natural experiment at a large North American university, we found that the number of scale points used in faculty teaching evaluations-whether instructors were rated on a scale of 6 versus a scale of 10-significantly affected the size of the gender gap in evaluations in the most male-dominated fields. A survey experiment, which presented all participants with an identical lecture transcript but randomly varied instructor gender and the number of scale points, replicated this finding and suggested that the number of scale points affects the extent to which gender stereotypes of brilliance are expressed in quantitative ratings. These results highlight how seemingly minor technical aspects of performance ratings can have a major effect on the evaluation of men and women. Our findings thus contribute to a growing body of work on organizational practices that reduce workplace inequalities and the sociological literature on how rating systems-rather than being neutral instruments-shape the distribution of rewards in organizations.",
+  "authors": [
+    {
+      "raw": "Rivera, Lauren A.",
+      "family": "Rivera",
+      "given": "Lauren A."
+    },
+    {
+      "raw": "Tilcsik, Andras",
+      "family": "Tilcsik",
+      "given": "Andras"
+    }
+  ],
+  "authors_text": "Rivera, Lauren A.; Tilcsik, Andras",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419833601",
+  "doi_url": "https://doi.org/10.1177/0003122419833601",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419833601",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419833601.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

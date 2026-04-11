@@ -1,0 +1,30 @@
+{
+  "title": "In search of excellence: Fads, success stories, and adaptive emulation",
+  "abstract": "The faddishness of the business community is often noted and lamented but not well understood by standard models of innovation and diffusion. We combine arguments about organizational cognition and institutional mimicry to develop a model of adaptive emulation, where firms respond to perceived failure by imitating their most successful peers. Computational experiments show that this process generates empirically plausible cascades of adoption, even if innovations are entirely worthless. Faddish cycles are most robust across alternative treatments of managerial decision making where innovations have modest positive effects on outcomes. These results have broad implications for the faddishness of a business community increasingly marked by media-driven accounts of success, and for the properties of organizational practices that are hot one day and cold the next.",
+  "authors": [
+    {
+      "raw": "Strang, D",
+      "family": "Strang",
+      "given": "D"
+    },
+    {
+      "raw": "Macy, MW",
+      "family": "Macy",
+      "given": "MW"
+    }
+  ],
+  "authors_text": "Strang, D; Macy, MW",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2001,
+  "doi": "10.1086/323039",
+  "doi_url": "https://doi.org/10.1086/323039",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F323039",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/323039.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

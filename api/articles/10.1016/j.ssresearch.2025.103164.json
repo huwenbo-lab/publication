@@ -1,0 +1,30 @@
+{
+  "title": "Birth order and upper-secondary school track choice in Sweden: A mechanism for birth order inequality in educational attainment",
+  "abstract": "Using Swedish register data, this study investigates the association between birth order and upper-secondary school track choice. A large body of research has shown that ordinal position within the sibling group matters for development trajectories and attainment processes. Researchers have also long been interested in the effects of secondary school tracking, showing that it can reinforce the effect of social origins. Using data for over 2 million pupils transitioning from compulsory to non-compulsory upper-secondary school from 1996 to 2019, and sibling fixed- effects, we find that later birth order is negatively associated with the probability of enrolling in university-preparatory academic tracks, known for having higher expected earnings and professional opportunities. These findings persist net of earlier educational performance, gender, parental education, or migration background. Later-born children are more likely to complete vocational programs. These findings shed light on some of the potential mechanisms driving the higher educational attainment, earnings, and employment stability of first- and earlier-born children, as they tend to complete secondary school tracks that provide greater future opportunities. The influence of birth order on completed years of education at age 30 diminishes by half when adjusting for track choices (i.e., secondary effects) and loses statistical significance when GPA (i.e., primary effects) is introduced as an additional control. While an unequivocal explanation for the origins of divergent tracking choices eludes us, existing literature suggests variation in parenting practices, child investments, and the familial environment contribute to these aspirational differences.",
+  "authors": [
+    {
+      "raw": "Santacroce, Marco",
+      "family": "Santacroce",
+      "given": "Marco"
+    },
+    {
+      "raw": "Barclay, Kieron",
+      "family": "Barclay",
+      "given": "Kieron"
+    }
+  ],
+  "authors_text": "Santacroce, Marco; Barclay, Kieron",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103164",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103164",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103164",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103164.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

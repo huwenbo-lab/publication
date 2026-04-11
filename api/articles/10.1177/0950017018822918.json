@@ -1,0 +1,35 @@
+{
+  "title": "The Downward Spiral of Youth Unemployment: An Approach Considering Social Networks and Family Background",
+  "abstract": "Taking as a starting point the relationship between unemployment and the loss of social support put forward by social exclusion theory, this article aims to analyse how long-term unemployment affects young people’s support networks for job seeking. To do so, it uses the framework of social network analysis. Based on data produced by a personal network survey of 250 young individuals in the Metropolitan Area of Barcelona, the results highlight the particularly harmful effect of long-term unemployment on the support network of young individuals with a low family socioeconomic status background. Unemployment reduces the presence of resourceful contacts among these young workers, which is not the case for young people with a higher family socioeconomic status. Moreover, gender and educational level intervene in the relationship between unemployment and loss of social support. These findings refine the social exclusion theory shedding light on how social inequalities crosscut labour market trajectories.",
+  "authors": [
+    {
+      "raw": "Bolíbar, Mireia",
+      "family": "Bolíbar",
+      "given": "Mireia"
+    },
+    {
+      "raw": "Verd, Joan Miquel",
+      "family": "Verd",
+      "given": "Joan Miquel"
+    },
+    {
+      "raw": "Barranco, Oriol",
+      "family": "Barranco",
+      "given": "Oriol"
+    }
+  ],
+  "authors_text": "Bolíbar, Mireia; Verd, Joan Miquel; Barranco, Oriol",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2019,
+  "doi": "10.1177/0950017018822918",
+  "doi_url": "https://doi.org/10.1177/0950017018822918",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017018822918",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017018822918.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

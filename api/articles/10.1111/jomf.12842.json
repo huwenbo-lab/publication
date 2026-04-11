@@ -1,0 +1,35 @@
+{
+  "title": "Vicarious exposure to the criminal legal system among parents and siblings",
+  "abstract": "Objective This study documents life course patterns of vicarious exposure to the criminal legal system among parents and siblings in the United States. Background The criminal legal system shapes family outcomes in important ways. Still, life course patterns of vicarious exposure to the system-especially to lower-level contacts-among parents and siblings are not well documented. Method Using longitudinal data from the Panel Study of Income Dynamics, Kaplan-Meier survival curves, and Cox regression models, we estimate cumulative risks of vicarious exposure to arrest, probation, and incarceration among parents (n = 3885 parents; 185,444 person-years) and siblings (n = 1875; 44,766 person-years) and examine disparities by race-ethnicity, gender, and education, and at their intersections. Results Vicarious exposure to the system is common-but highly unequal-among parents and siblings. Racially minoritized parents and siblings had greater levels and earlier risks of exposure. For example, by age 50, an estimated one in five Black parents experienced having a child incarcerated, a risk about twice as high as White and 50% higher than Latinx parents. By age 26, an estimated 6 in 10 Black young people with brothers experienced having a brother arrested; more than 4 in 10 experienced a brother on probation; and more than 3 in 10 experienced brother incarceration. For many estimates, racialized inequities in risks of vicarious system exposure widened at higher levels of education. Conclusion These findings provide essential context for understanding the role of the criminal legal system in maintaining and exacerbating family inequality.",
+  "authors": [
+    {
+      "raw": "Boen, Courtney E.",
+      "family": "Boen",
+      "given": "Courtney E."
+    },
+    {
+      "raw": "Olson, Hannah",
+      "family": "Olson",
+      "given": "Hannah"
+    },
+    {
+      "raw": "Lee, Hedwig",
+      "family": "Lee",
+      "given": "Hedwig"
+    }
+  ],
+  "authors_text": "Boen, Courtney E.; Olson, Hannah; Lee, Hedwig",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12842",
+  "doi_url": "https://doi.org/10.1111/jomf.12842",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12842",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12842.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

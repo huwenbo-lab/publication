@@ -1,0 +1,35 @@
+{
+  "title": "Literary Fiction Indicates Early Modernization in China Prior to Western Influence",
+  "abstract": "Modernization refers to the shift from traditional values to individual autonomy and self-development, driven by economic development. Previously considered unique to Western culture, modernization has now emerged as a global phenomenon, with East Asia playing a leading role. This article explores the possibility that modernization might have occurred outside the Western world prior to Western influence. We pioneered a novel approach for understanding the evolution of Chinese values by creating a unique and comprehensive database of narrative fiction. This database includes all major Chinese narrative fiction from the Tang dynasty (7th century) to the present, encompassing 3,496 works from mainland China and 3,338 modern works from Singapore, Taiwan, and Hong Kong. It also provides a systematic comparison of ancient fictions and their modern adaptations (e.g., Journey to the West ). Our findings confirm that modernization has been underway in China since the late twentieth century. Surprisingly, a similar rise in modern values was detected as early as the seventeenth and eighteenth centuries, coinciding with significant economic development. This era saw an increasing expression of romantic love, open-mindedness, and reciprocal cooperation. However, this shift was not sustained, leading to a significant reassertion of traditional values from the late eighteenth century until the early twentieth century. These findings not only highlight the nuanced dynamics of early modernization beyond Western contexts but also demonstrate that values are dynamic, evolving constantly in response to economic development, thereby challenging the binary distinction between WEIRD (Western, Educated, Industrialized, Rich and Democratic) and non-WEIRD societies.",
+  "authors": [
+    {
+      "raw": "Zhong, Ying",
+      "family": "Zhong",
+      "given": "Ying"
+    },
+    {
+      "raw": "Thouzeau, Valentin",
+      "family": "Thouzeau",
+      "given": "Valentin"
+    },
+    {
+      "raw": "Baumard, Nicolas",
+      "family": "Baumard",
+      "given": "Nicolas"
+    }
+  ],
+  "authors_text": "Zhong, Ying; Thouzeau, Valentin; Baumard, Nicolas",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a10",
+  "doi_url": "https://doi.org/10.15195/v12.a10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

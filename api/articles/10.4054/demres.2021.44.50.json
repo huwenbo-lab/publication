@@ -1,0 +1,35 @@
+{
+  "title": "Time preferences and fertility: Evidence from Italy",
+  "abstract": "OBJECTIVE Time preferences, also referred to as impatience, is a personal characteristic that has been found to influence different types of decisions, from financial investments to schooling decisions. The present study is the first that empirically explores whether this trait represents a determinant of human reproductive behaviors. BACKGROUND Fertility decisions, as all life actions, imply a balancing of anticipated costs and benefits whose expectations are formed under uncertainty. Fertility research has addressed the backward reasonings (e.g., socioeconomic, psychological, biological factors) influencing fertility decisions. Yet, the role of forward factors, such as the preference for immediate but lower benefits versus future but higher benefits, in influencing fertility decisions has been overlooked. METHOD Data are from the Survey on Household Income and Wealth carried out by the Bank of Italy every two years on a sample of about 8,000 households. In particular, we make use of a question included in the 2004, 2008, 2010, and 2012 waves to examine whether, controlling for backward factors, impatience affects parity progressions. RESULTS Results from logistic regression models indicate an inverse U-shaped association between impatience and the transition to the first and second child during the observation period, meaning that for very impatient and very patient individuals the probability of having a first and second child is lower than for individuals within intermediate levels of impatience. CONCLUSION The empirical finding points to the importance of considering time discounting preferences (as well as other forward-looking factors) in fertility research to gain a more complete understanding of fertility behaviours.",
+  "authors": [
+    {
+      "raw": "Bellani, Daniela",
+      "family": "Bellani",
+      "given": "Daniela"
+    },
+    {
+      "raw": "Arpino, Bruno",
+      "family": "Arpino",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Vignoli, Daniele",
+      "family": "Vignoli",
+      "given": "Daniele"
+    }
+  ],
+  "authors_text": "Bellani, Daniela; Arpino, Bruno; Vignoli, Daniele",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.50",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.50",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.50",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.50.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

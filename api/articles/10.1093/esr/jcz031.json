@@ -1,0 +1,30 @@
+{
+  "title": "Labour Market Effects of General and Vocational Education over the Life-Cycle and across Time: Accounting for Age, Period, and Cohort Effects",
+  "abstract": "A recent literature argues that the labour market returns to vocational education vary over the life cycle. Graduates with an occupation-specific educational degree have a smooth transition into the labour market but experience difficulties later in their career when their specific skills become obsolete. This life course penalty to vocational education is expected to be particularly strong in periods of rapid technological change. Existing literature has mostly studied this topic from the perspective of age effects but focused less on cohort and period effects. Moreover, it is unclear to what extent lower returns to vocational education in the late career vary across time periods. Using Labour Force Survey data for the Netherlands (1996-2012) we find that having a more occupation-specific educational degree increases the likelihood of being employed in early life and lowers the average job status. This initial advantage of a higher employment probability declines with age, and the disadvantage in job status increases as workers grow older. We find that these life-cycle effects have not, or only marginally, changed over time.",
+  "authors": [
+    {
+      "raw": "Rozer, Jesper J.",
+      "family": "Rozer",
+      "given": "Jesper J."
+    },
+    {
+      "raw": "Bol, Thijs",
+      "family": "Bol",
+      "given": "Thijs"
+    }
+  ],
+  "authors_text": "Rozer, Jesper J.; Bol, Thijs",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcz031",
+  "doi_url": "https://doi.org/10.1093/esr/jcz031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Visualizing Income Inequality and Mobility Together",
+  "abstract": "Research and public conversations about income inequality and intergenerational mobility will benefit from a new approach that jointly visualizes these two measures. The new mobility table proposed addresses this concern by scaling each quintile by the spread of income it represents. Implications of this approach for future analyses of inequality and mobility are discussed.",
+  "authors": [
+    {
+      "raw": "Lawrence, Matthew",
+      "family": "Lawrence",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Lawrence, Matthew",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118805646",
+  "doi_url": "https://doi.org/10.1177/2378023118805646",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118805646",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118805646.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

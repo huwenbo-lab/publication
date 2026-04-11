@@ -1,0 +1,50 @@
+{
+  "title": "Measuring Attitudes About Intimate Partner Violence Against Women: The ATT-IPV Scale",
+  "abstract": "Abstract In lower-income settings, women more often than men justify intimate partner violence (IPV). Yet, the role of measurement invariance across gender is unstudied. We developed the ATT-IPV scale to measure attitudes about physical violence against wives in 1,055 married men and women ages 18–50 in My Hao district, Vietnam. Across 10 items about transgressions of the wife, women more often than men agreed that a man had good reason to hit his wife (3 % to 92 %; 0 % to 67 %). In random split-half samples, one-factor exploratory factor analysis (EFA) (N1 = 527) and confirmatory factor analysis (CFA) (N2 = 528) models for nine items with sufficient variability had significant loadings (0.575–0.883; 0.502–0.897) and good fit (RMSEA = 0.068, 0.048; CFI = 0.951, 0.978, TLI = 0.935, 0.970). Three items had significant uniform differential item functioning (DIF) by gender, and adjustment for DIF revealed that measurement noninvariance was partially masking men’s lower propensity than women to justify IPV. A CFA model for the six items without DIF had excellent fit (RMSEA = 0.019, CFI = 0.994, TLI = 0.991) and an attitudinal gender gap similar to the DIF-adjusted nine-item model, suggesting that the six-item scale reliably measures attitudes about IPV across gender. Researchers should validate the scale in urban Vietnam and elsewhere and decompose DIF-adjusted gender attitudinal gaps.",
+  "authors": [
+    {
+      "raw": "Yount, Kathryn M.",
+      "family": "Yount",
+      "given": "Kathryn M."
+    },
+    {
+      "raw": "VanderEnde, Kristin",
+      "family": "VanderEnde",
+      "given": "Kristin"
+    },
+    {
+      "raw": "Zureick-Brown, Sarah",
+      "family": "Zureick-Brown",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Anh, Hoang Tu",
+      "family": "Anh",
+      "given": "Hoang Tu"
+    },
+    {
+      "raw": "Schuler, Sidney Ruth",
+      "family": "Schuler",
+      "given": "Sidney Ruth"
+    },
+    {
+      "raw": "Minh, Tran Hung",
+      "family": "Minh",
+      "given": "Tran Hung"
+    }
+  ],
+  "authors_text": "Yount, Kathryn M.; VanderEnde, Kristin; Zureick-Brown, Sarah; Anh, Hoang Tu; Schuler, Sidney Ruth; Minh, Tran Hung",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0297-6",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0297-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0297-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0297-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

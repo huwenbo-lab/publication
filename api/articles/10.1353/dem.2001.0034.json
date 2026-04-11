@@ -1,0 +1,25 @@
+{
+  "title": "The misuse of biology in demographic research on racial/ethnic differences: A reply to van den oord and rowe",
+  "abstract": "Abstract In an article in the August 2000 issue of Demography titled “Racial Differences in Birth Health Risk: A Quantitative Genetic Approach,” van den Oord and Rowe attempted to study the genetic and environmental factors contributing to the black/white gap in infant birth weight. Their findings indicate that this difference may be explained by shared environmental influences rather than by fetal genes. Yet the authors insisted in their conclusions that a strong genetic component still must play a role in determining the racial gap in birth weight, if only through maternal effects. The incompatibility between the authors’ findings and their conclusions is due largely to a weakness in their conceptualization of the relationship between race and biology. Their insistence that racial groups represent discrete genetic entities, coupled with a failure to account for interactions between biological and environmental processes, illustrates the methodological and ethical problems that threaten future interdisciplinary research on racial/ethnic disparities in health.",
+  "authors": [
+    {
+      "raw": "Frank, Reanne",
+      "family": "Frank",
+      "given": "Reanne"
+    }
+  ],
+  "authors_text": "Frank, Reanne",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.1353/dem.2001.0034",
+  "doi_url": "https://doi.org/10.1353/dem.2001.0034",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2001.0034",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2001.0034.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

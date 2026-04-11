@@ -1,0 +1,35 @@
+{
+  "title": "Persistence of death in the United States: The remarkably different mortality patterns between America's Heartland and Dixieland",
+  "abstract": "BACKGROUND Geographic disparities in mortality have been analyzed by place in myriad ways. Although the people who live in a place continuously change, the health characteristics of those places tend to stay the same; they are persistent. Our work analyzes persistence of mortality across various geographic designations and uncovers the wide-ranging disparities in death across the United States. METHODS Using 48 years of county-level mortality data, we analyze trends over time and disparities across places using rural-urban distinctions and census-based region and division classifications. Trends in death rates, excess deaths, and rates of mortality improvement are provided. RESULTS Findings support the hypothesis that persistently high mortality places are disproportionately concentrated in the rural South, particularly the East South Central division of Kentucky, Tennessee, Mississippi, and Alabama. The disparity between this division and urban America is wide and getting wider, and the disparity between this area of the South and the Midwest is alarming. CONTRIBUTION Our research moves forward the literature on place-based mortality disparities in two important areas by testing the notion of persistence of poor health in place, and by identifying geographic disparities based on classifications not previously tested.",
+  "authors": [
+    {
+      "raw": "James, Wesley",
+      "family": "James",
+      "given": "Wesley"
+    },
+    {
+      "raw": "Cossman, Jeralynn",
+      "family": "Cossman",
+      "given": "Jeralynn"
+    },
+    {
+      "raw": "Wolf, Julia Kay",
+      "family": "Wolf",
+      "given": "Julia Kay"
+    }
+  ],
+  "authors_text": "James, Wesley; Cossman, Jeralynn; Wolf, Julia Kay",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.33",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

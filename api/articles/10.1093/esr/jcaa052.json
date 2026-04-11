@@ -1,0 +1,25 @@
+{
+  "title": "My Gain or Your Loss? Changes in within-Couple Relative Wealth and Partners' Life Satisfaction",
+  "abstract": "This article studies the relationship between partner's wealth share and their life satisfaction in different-sex couples using the German Socio-Economic Panel Study (2002, 2007, 2012, and 2017). Resource-based theories and gender ideology are two prominent approaches to explain the effects of within-couple relative resources on various outcomes. Recently, scholars have argued that not relative but absolute personal resources are the crucial factor (autonomy perspective). Testing these different approaches is challenging because relative wealth mathematically perfectly depends on both partners' absolute wealth, meaning the effects of relative and absolute wealth are hard to disentangle. To accurately test the theoretical approaches, this study analyses the relationship between relative wealth and life satisfaction under different conditions, such as whether relative wealth increases due to an increase in one's own absolute wealth or a decrease in one's partner's absolute wealth. Individual fixed effects regressions show no statistically significant relationships between relative wealth and life satisfaction for men. In contrast, for women the relationship between their relative wealth and life satisfaction is significantly positive, in line with resource-based theories and the autonomy perspective. Further analyses reveal that this relationship is driven rather by changes in women's own than in their partner's absolute wealth.",
+  "authors": [
+    {
+      "raw": "Tisch, Daria",
+      "family": "Tisch",
+      "given": "Daria"
+    }
+  ],
+  "authors_text": "Tisch, Daria",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa052",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa052",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa052",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa052.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

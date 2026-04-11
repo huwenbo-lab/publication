@@ -1,0 +1,25 @@
+{
+  "title": "Paradox Revisited: A Further Investigation of Racial/Ethnic Differences in Infant Mortality by Maternal Age",
+  "abstract": "Abstract I reexamine the epidemiological paradox of lower overall infant mortality rates in the Mexican-origin population relative to U.S.-born non-Hispanic whites using the 1995–2002 U.S. NCHS linked cohort birth-infant death files. A comparison of infant mortality rates among U.S.-born non-Hispanic white and Mexican-origin mothers by maternal age reveals an infant survival advantage at younger maternal ages when compared with non-Hispanic whites, which is consistent with the Hispanic infant mortality paradox. However, this is accompanied by higher infant mortality at older ages for Mexican-origin women, which is consistent with the weathering framework. These patterns vary by nativity of the mother and do not change when rates are adjusted for risk factors. The relative infant survival disadvantage among Mexican-origin infants born to older mothers may be attributed to differences in the socioeconomic attributes of U.S.-born non-Hispanic white and Mexican-origin women.",
+  "authors": [
+    {
+      "raw": "Powers, Daniel A.",
+      "family": "Powers",
+      "given": "Daniel A."
+    }
+  ],
+  "authors_text": "Powers, Daniel A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0152-6",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0152-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0152-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0152-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

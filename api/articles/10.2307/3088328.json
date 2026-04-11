@@ -1,0 +1,30 @@
+{
+  "title": "Insights from Longitudinal Data on the Earnings Growth of U.S. Foreign-Born Men",
+  "abstract": "Does the growth in earnings of foreign-born men exceed that of U.S. natives? We use longitudinal data on earnings from a Social Security Administration (SSA) database matched to the 1994 March Current Population Survey to shed new light on this important issue. We also examine the trend over time in the foreign-born men's earnings growth and illuminate the various ways that SSA data can be used to explore the earnings patterns of immigrants.",
+  "authors": [
+    {
+      "raw": "Duleep, Harriet Orcutt",
+      "family": "Duleep",
+      "given": "Harriet Orcutt"
+    },
+    {
+      "raw": "Dowhan, Daniel J.",
+      "family": "Dowhan",
+      "given": "Daniel J."
+    }
+  ],
+  "authors_text": "Duleep, Harriet Orcutt; Dowhan, Daniel J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.2307/3088328",
+  "doi_url": "https://doi.org/10.2307/3088328",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088328",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088328.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

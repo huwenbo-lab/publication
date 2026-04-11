@@ -1,0 +1,30 @@
+{
+  "title": "Subnational variations in births and marriages during the COVID-19 pandemic in South Korea",
+  "abstract": "BACKGROUND It has been postulated that the COVID-19 pandemic will contribute to fertility decline, especially in low-fertility contexts. Little is known how the consequences of the pandemic differed at the subnational level. OBJECTIVE We investigated whether fertility declined beyond the first wave in early 2020 at both the national and the subnational levels in South Korea. We also examined marital rates, given that delayed marriage is a strong driver of low fertility in many East Asian countries. METHODS Based on monthly birth and marriage registration data for the period from January 2016 to December 2021, we quantified monthly general fertility and marital rates before and after the pandemic across the 17 regions in Korea. We used paired t-tests and interrupted time-series analysis to compare before and after fertility or marital rates. RESULTS Our analysis suggests that, at least until 2021, fertility rates did not decline beyond the pattern explained by the already declining fertility in Korea. For marriages, we observed a clear post-pandemic decline across regions. Subnational variations in the impact of the pandemic were larger for fertility than for marriage. CONCLUSIONS Despite little evidence that the pandemic directly affected the number of births, the reduction in marriages is likely to have a significant impact on fertility in the coming years.",
+  "authors": [
+    {
+      "raw": "Jung, Myunggu",
+      "family": "Jung",
+      "given": "Myunggu"
+    },
+    {
+      "raw": "Lee, D. Susie",
+      "family": "Lee",
+      "given": "D. Susie"
+    }
+  ],
+  "authors_text": "Jung, Myunggu; Lee, D. Susie",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.30",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

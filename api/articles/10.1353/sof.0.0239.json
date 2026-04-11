@@ -1,0 +1,25 @@
+{
+  "title": "Specifying the Determinants of Neighborhood Satisfaction: A Robust Assessment in 24 Metropolitan Areas",
+  "abstract": "Using a sample of households nested in census tracts in 24 metropolitan areas over four time points, this study provides a robust test of the determinants of neighborhood satisfaction, taking into account the census tract context. Consistent with social disorganization theory, the presence of racial/ethnic heterogeneity and single-parent households consistently reduced neighborhood satisfaction. Those perceiving more social or physical disorder were considerably less satisfied with the neighborhood, and perceiving more crime showed an accelerating negative effect on satisfaction. Furthermore, the effect of perceiving crime was exacerbated in tracts with a distressed labor market or the presence of disengaged youth. There was consistent evidence that those with more economic investment (homeowners) or social investment (married residents and parents) in the neighborhood are more satisfied. On the other hand, longer-term residents did not report more satisfaction, nor did general residential stability in the tract increase satisfaction.",
+  "authors": [
+    {
+      "raw": "Hipp, J. R.",
+      "family": "Hipp",
+      "given": "J. R."
+    }
+  ],
+  "authors_text": "Hipp, J. R.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0239",
+  "doi_url": "https://doi.org/10.1353/sof.0.0239",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0239",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0239.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Explaining Gender Convergence in Housework Time: Evidence from a Cohort-Sequence Design",
+  "abstract": "This study connects two lines of research trend studies on social change in housework time and life-course studies on individual- and couple-level change in housework time. This novel approach allowed us to link the macro-level trend of gender convergence in housework time to the micro-level mechanisms underlying it. Using long-running panel data (SOEP), we implemented a cohort-sequence design that followed two birth cohorts (1960 and 1975) of West German men and women from age 25 until age 40. Regression and decomposition methods yielded four central findings. First, the gender gap in housework time narrowed by 40 percent from the 1960 cohort to the 1975 cohort. Second, women's cohort declines in housework time unfolded with age, as the steep life-course increase found in the 1960 cohort leveled off in the 1975 cohort. Men's increases in housework time were constant across the age range studied. Third, an extensive set of time-varying indicators for absolute and relative resources, union formation, fertility, and household conditions accounted for 77 percent of cohort changes in women's housework time but only for 12 percent of changes in men's housework time. In total, the covariates considered in our models explained 55 percent of gender convergence from the 1960 cohort to the 1975 cohort. Fourth, individual age trajectories underlying this trend remained mostly unexplained, notably women's shift from a steep rise to a flat line. We conclude that life-course factors driving change in housework time may still hold potential for further gender convergence.",
+  "authors": [
+    {
+      "raw": "Skopek, Jan",
+      "family": "Skopek",
+      "given": "Jan"
+    },
+    {
+      "raw": "Leopold, Thomas",
+      "family": "Leopold",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Skopek, Jan; Leopold, Thomas",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy119",
+  "doi_url": "https://doi.org/10.1093/sf/soy119",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy119",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy119.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

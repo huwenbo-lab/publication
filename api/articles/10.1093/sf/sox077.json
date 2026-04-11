@@ -1,0 +1,25 @@
+{
+  "title": "Occupational Devaluation Due to Feminization? Causal Mechanics, Effect Heterogeneity, and Evidence from the United States, 1960 to 2010",
+  "abstract": "Proponents of the devaluation hypothesis claim that occupations experiencing a significant inflow of female workers are devalued, both in status and in pay. We suggest that devaluation is an essentially cultural phenomenon that can be subject to change over time and that is not constant with varying contexts. Our theoretical model connects changing gender compositions in occupations with the formation of occupational gender stereotypes. In combination with a cultural bias that attributes less value to female work, these stereotypes can lead to devaluation. This is a novel view on the mechanics at play in the devaluation process. With US census data from 1960 to 2010, we show that devaluation was restricted to sometimes very specific contexts. A trend toward declining or disappearing devaluation is observed over the entire time span. Given potential cultural inertia and the stability of stereotypes, this result could, however, be an artifact of a deficient testing strategy that focuses solely on changes in occupational gender compositions without taking into account the normative power of the past.",
+  "authors": [
+    {
+      "raw": "Busch, Felix",
+      "family": "Busch",
+      "given": "Felix"
+    }
+  ],
+  "authors_text": "Busch, Felix",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/sox077",
+  "doi_url": "https://doi.org/10.1093/sf/sox077",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox077",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox077.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

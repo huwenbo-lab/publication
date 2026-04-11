@@ -1,0 +1,30 @@
+{
+  "title": "Unions and Nonunion Pay in the United States, 1977-2015",
+  "abstract": "We provide the most extensive investigation into the connection between union power and nonunion worker pay to date. Leveraging nearly four decades of Current Population Survey (CPS) data on millions of U.S. workers, we test whether private sector union density, measured at the occupation and occupation region levels, helps raise average wages among unorganized private sector workers. We find stable and substantively large positive effects of private sector union strength on nonunion private sector workers’ wages, especially for men. These results are robust to the inclusion of controls for the risk of automation, offshoring, the related rising demand for skill, overall employment levels, industry, and the strength of public sector unions. Disaggregating the results by occupation reveals positive and substantively large union spillover effects across a range of occupations, including those not transformed by automation, offshoring, or rising skill demands. These disaggregated results also indicate that occupational segregation limits the positive spillover effects from unions to nonunion women workers: in highly organized occupations, nonunion women benefit, but there are comparatively few women in these segments of the labor market.",
+  "authors": [
+    {
+      "raw": "Denice, Patrick",
+      "family": "Denice",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Rosenfeld, Jake",
+      "family": "Rosenfeld",
+      "given": "Jake"
+    }
+  ],
+  "authors_text": "Denice, Patrick; Rosenfeld, Jake",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2018,
+  "doi": "10.15195/v5.a23",
+  "doi_url": "https://doi.org/10.15195/v5.a23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv5.a23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v5.a23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

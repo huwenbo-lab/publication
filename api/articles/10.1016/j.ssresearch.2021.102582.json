@@ -1,0 +1,35 @@
+{
+  "title": "Does employer discrimination contribute to the subordinate labor market inclusion of individuals of a foreign background?",
+  "abstract": "Advanced labor markets are typically stratified by origin with a majority ethnic group occupying more desirable (high-skilled) positions and subordinated ethnic minorities occupying less desirable (low-skilled) positions. The aim of this paper is to investigate whether employer recruitment choices reinforce these patterns. This would be the case if employers were more reluctant to hire subordinate minority job applicants for high-skilled positions than for low-skilled occupations. We use experimental correspondence audit data derived from 6407 job applications sent to job openings in the Swedish labor market, where the 'foreignness' of the job applicants has been randomly assigned to otherwise equally merited job applications. We find that negative discrimination of job applicants with 'foreign' names is very similar in the high-skilled and lowskilled segments of the labor market. There is no significant relative ethnic difference in chances of callbacks by skill level. Because baseline callback rates are higher in high-skilled occupations, discrimination however translates into a significantly larger percentage unit callback difference between 'natives' and 'foreigners' in these occupations, in particular between male job applicants. That is, the number of (male) 'foreign' job seekers subject to ethnic discrimination in terms of actually being denied a job chance is higher in the highly skilled segment, but the effects on the relative scale do not suggest this to be driven by employers being particularly less welcoming of 'foreigners' in this segment.",
+  "authors": [
+    {
+      "raw": "Bursell, Moa",
+      "family": "Bursell",
+      "given": "Moa"
+    },
+    {
+      "raw": "Bygren, Magnus",
+      "family": "Bygren",
+      "given": "Magnus"
+    },
+    {
+      "raw": "Gahler, Michael",
+      "family": "Gahler",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Bursell, Moa; Bygren, Magnus; Gahler, Michael",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102582",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102582",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102582",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102582.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

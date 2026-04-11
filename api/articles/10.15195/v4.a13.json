@@ -1,0 +1,30 @@
+{
+  "title": "Obesity Is in the Eye of the Beholder: BMI and Socioeconomic Outcomes across Cohorts",
+  "abstract": "The biological and social costs of body mass cannot be conceptualized in the same way. Using semiparametric methods, we show that the association between body mass index (BMI) and socioeconomic outcomes such as wages, being married, and family income is distinctly shaped by gender, race, and cohort rather than being above a specific threshold of BMI. For white men, the correlation between BMI and outcomes is positive across the 'normal' range of BMI and turns negative near the cusp of the overweight range, a pattern that persists across cohorts. For white women, thinner is nearly always better, a pattern that also persists across cohorts. For black men in the 1979 cohort, the association between BMI and wages is positive across the normal and overweight ranges for wages and family income and inverted U–shaped for marriage. For black women in the 1979 cohort, thinner is better for wages and marriage. By the 1997 cohort, however, the negative association between body mass and outcomes dissipates for black Americans but not for white Americans. In the social world, 'too fat' is a subjective, contingent, and fluid judgment that differs depending on who is being judged, who does the judging, and the social domain.",
+  "authors": [
+    {
+      "raw": "Maralani, Vida",
+      "family": "Maralani",
+      "given": "Vida"
+    },
+    {
+      "raw": "McKee, Douglas",
+      "family": "McKee",
+      "given": "Douglas"
+    }
+  ],
+  "authors_text": "Maralani, Vida; McKee, Douglas",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2017,
+  "doi": "10.15195/v4.a13",
+  "doi_url": "https://doi.org/10.15195/v4.a13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv4.a13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v4.a13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

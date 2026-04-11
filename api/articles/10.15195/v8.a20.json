@@ -1,0 +1,25 @@
+{
+  "title": "Segregated in Social Space: The Spatial Structure of Acquaintanceship Networks",
+  "abstract": "With deepening cleavages on several social dimensions, social fragmentation has become a major concern across the social sciences. This article proposes a spatial approach to study the segregation pattern of acquaintanceship ties across multiple social dimensions simultaneously. A Bayesian unfolding model is developed and fitted to the 2006 General Social Survey. Results suggests that the segregation pattern of reported acquaintanceship ties reflect consolidated socioeconomic inequalities. Furthermore, among the 13 analyzed social groups, gay and lesbian people were the least segregated group in 2006, implying that individuals with very different network compositions had similar probabilities to know someone who is gay or lesbian. Lastly, contradicting previous findings that ideology and religiosity segregate acquaintanceship networks to an extent that rivals race, it is found that race stands out as the dominant dimension that shapes the distribution of these relationships.",
+  "authors": [
+    {
+      "raw": "Park, Barum",
+      "family": "Park",
+      "given": "Barum"
+    }
+  ],
+  "authors_text": "Park, Barum",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2021,
+  "doi": "10.15195/v8.a20",
+  "doi_url": "https://doi.org/10.15195/v8.a20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv8.a20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v8.a20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

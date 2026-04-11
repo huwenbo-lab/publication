@@ -1,0 +1,30 @@
+{
+  "title": "The Influence of Parental Education on First Marriages in China: The Role of Childhood Family Background",
+  "abstract": "China has implemented the universal two-child policy to promote fertility whereas the trends of later marriage and childbearing still prevail. The marriage timing of young adults has received considerable attention. However, studies tailored to the Chinese context remain limited. Using data from the China Labor-force Dynamic Survey 2016, we established bivariate and multinomial logistic regression discrete-time event-history models to examine the influence of parental educational attainment on their children's first marriages. Not only the effects of parental education on their children's likelihood of entry to first marriages and marriage postponement but also changes in these effects by sex, region, and across birth cohorts and the individual life course were analyzed. In general, there was a significantly positive relationship between parents' educational attainment and the likelihood of their children's entry into first marriages. However, it couldn't explain variations about the timing of first marriages or marriage postponement. Analyses of subsamples revealed considerable heterogeneity in the effects of parental educational attainment by sex and region. These findings reveal the influence of childhood family background factors on marriage behaviors and provide a basis for predicting future marriage and childbearing trends in China. This study provides meaningful inputs and a rationale for amending the minimum legal marriageable age and for promoting marriage and births within Chinese marriage law.",
+  "authors": [
+    {
+      "raw": "Lan, Manyu",
+      "family": "Lan",
+      "given": "Manyu"
+    },
+    {
+      "raw": "Kuang, Yaoqiu",
+      "family": "Kuang",
+      "given": "Yaoqiu"
+    }
+  ],
+  "authors_text": "Lan, Manyu; Kuang, Yaoqiu",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x221124265",
+  "doi_url": "https://doi.org/10.1177/0192513x221124265",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x221124265",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x221124265.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

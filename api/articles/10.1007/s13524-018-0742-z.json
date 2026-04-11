@@ -1,0 +1,35 @@
+{
+  "title": "The Impact of Forced Migration on Mortality: Evidence From German Pension Insurance Records",
+  "abstract": "We examine the long-run effects of forced migration for individuals who were displaced from Eastern Europe to Germany in the aftermath of World War II. Evidence suggests that displaced individuals were worse off economically, facing a considerably lower income and a higher unemployment risk than comparable nondisplaced Germans, even 20 years after being expelled. We extend this literature by investigating mortality outcomes. Using social security records that document the exact date of death and a proxy for pre-retirement lifetime earnings, we estimate a significantly and considerably higher mortality risk among forced migrants compared with nondisplaced West Germans. The adverse displacement effect persists throughout the earnings distribution except for the top quintile. Although forced migrants were generally worse off regarding mortality outcomes, those with successful labor market histories seem to have overcome the long-lasting negative consequences of flight and expulsion.",
+  "authors": [
+    {
+      "raw": "Bauer, Thomas K.",
+      "family": "Bauer",
+      "given": "Thomas K."
+    },
+    {
+      "raw": "Giesecke, Matthias",
+      "family": "Giesecke",
+      "given": "Matthias"
+    },
+    {
+      "raw": "Janisch, Laura M.",
+      "family": "Janisch",
+      "given": "Laura M."
+    }
+  ],
+  "authors_text": "Bauer, Thomas K.; Giesecke, Matthias; Janisch, Laura M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-018-0742-z",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0742-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0742-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0742-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

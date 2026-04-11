@@ -1,0 +1,35 @@
+{
+  "title": "What explains the rural-urban gap in infant mortality: Household or community characteristics?",
+  "abstract": "Abstract The rural-urban gap in infant mortality rates is explained by using a new decomposition method that permits identification of the contribution of unobserved heterogeneity at the household and the community level. Using Demographic and Health Survey data for six Francophone countries in Central and West sub-Saharan Africa, we find that differences in the distributions of factors that determine mortality-not differences in their effects-explain almost the entire gap. Higher infant mortality rates in rural areas mainly derive from the rural disadvantage in household characteristics, both observed and unobserved, which explain two-thirds of the gap. Among the observed characteristics, environmental factors-a safe source of drinking water, electricity, and quality of housing materials-are the most important contributors. Community characteristics explain less than onequarter of the gap, with about two-thirds of this coming from community unobserved heterogeneity and one-third from the existence of a health facility within the community. The effect of disadvantageous environmental conditions-such as limited electricity and water supply-derives both from a lack of community-level infrastructure and from the inability of some households to exploit it when available. Policy needs to operate at both the community and household levels to correct such deficiencies.",
+  "authors": [
+    {
+      "raw": "Van De Poel, Ellen",
+      "family": "Van De Poel",
+      "given": "Ellen"
+    },
+    {
+      "raw": "O'donnell, Owen",
+      "family": "O'donnell",
+      "given": "Owen"
+    },
+    {
+      "raw": "Van Doorslaer, Eddy",
+      "family": "Van Doorslaer",
+      "given": "Eddy"
+    }
+  ],
+  "authors_text": "Van De Poel, Ellen; O'donnell, Owen; Van Doorslaer, Eddy",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0074",
+  "doi_url": "https://doi.org/10.1353/dem.0.0074",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0074",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0074.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

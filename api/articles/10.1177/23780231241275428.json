@@ -1,0 +1,25 @@
+{
+  "title": "Household Income as a Determinant of Racial Residential Segregation in Metropolitan Areas: A Micro-level Analysis from 2000 to 2020",
+  "abstract": "In this study, I examine the role of household income in determining White-Black, White-Latino, and White-Asian residential segregation in the twenty-first century across 50 metropolitan areas over the decennial time points from 2000 to 2020. I use census and survey microdata and a reformulation of the separation index, a measure of the segregation dimension of evenness, to situate segregation as a group inequality that can be analyzed using group-specific household-level regression models and regression standardization analysis, where household income is the predictor of segregation-relevant neighborhood outcomes. I find that across groups, across communities, and over time, the role of household income in shaping segregation patterns varies widely. White-Black segregation is lowest between high-income households and is declining consistently for all income groups, even at mismatched incomes. White-Latino segregation patterns are more inconsistent, with segregation staying low and stable for high-income Latino households but rising somewhat for low- and middle-income households. Finally, White-Asian segregation is rising and has risen the fastest for high-income Asian households. These findings call for continuing investigation into the shifting and interlocking dynamics of race and income that shape segregation outcomes.",
+  "authors": [
+    {
+      "raw": "Crowell, Amber R.",
+      "family": "Crowell",
+      "given": "Amber R."
+    }
+  ],
+  "authors_text": "Crowell, Amber R.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241275428",
+  "doi_url": "https://doi.org/10.1177/23780231241275428",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241275428",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241275428.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

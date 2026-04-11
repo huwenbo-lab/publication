@@ -1,0 +1,25 @@
+{
+  "title": "Supply-Side Versus Demand-Side Unmet Need: Implications for Family Planning Programs: A Comment",
+  "abstract": "I review a study by Senderowicz and Maloney (2022), which proposes an approach to classifying women's reasons for not using contraception as either being driven by supply-side factors or by a lack of demand. Using Demographic and Health Survey (DHS) data from seven countries, the authors conclude that most unmet need can be attributed to demand-side reasons for non-use. I replicate the analysis and find errors in the authors' calculations. When corrected, the relative differences between demand-side and supply-side reasons are smaller, and the proportion of women reporting supply-side reasons is larger than demand-side reasons in two countries. In addition, the approach does not account for endogeneity between supply and demand, which cannot be disentangled using cross-sectional data like the DHS. Using longitudinal data, I find that more than four out of five women with demand-side unmet need use contraception after receiving an intervention that reduced supply-side barriers. I discuss the extent of inference gained by these indicators for informing programs, noting that women's true reasons for non-use may be poorly proxied with cross-sectional data, and prioritizing resources based on these reasons would fail to reach a nontrivial proportion of non-users who would have preferred to contracept if access were improved.",
+  "authors": [
+    {
+      "raw": "Karra, Mahesh",
+      "family": "Karra",
+      "given": "Mahesh"
+    }
+  ],
+  "authors_text": "Karra, Mahesh",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12701",
+  "doi_url": "https://doi.org/10.1111/padr.12701",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12701",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12701.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

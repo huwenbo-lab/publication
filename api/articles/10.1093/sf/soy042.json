@@ -1,0 +1,30 @@
+{
+  "title": "The Impact of Delinquent Friendship Networks and Neighborhood Context on Suicidal Ideation among South Korean Youths",
+  "abstract": "We examine the association between ties to delinquent friends and suicidal ideation among adolescents, and whether this association varies across neighborhoods. We analyze two waves of data from the Korean Youth Panel Survey, which comprise nationally representative samples of high school students in South Korea, a country with the highest suicide rate in the developed world. Results from hierarchical linear models show that, net of individual and contextual-level predictors, connections to delinquent peers significantly raise the odds of adolescent suicidality. We also find this relationship to be stronger in more affluent and better-quality neighborhoods. We draw on the concept of the black sheep effect to discuss the implications of these findings.",
+  "authors": [
+    {
+      "raw": "Kim, Harris Hyun-soo",
+      "family": "Kim",
+      "given": "Harris Hyun-soo"
+    },
+    {
+      "raw": "Chang, Paul Y.",
+      "family": "Chang",
+      "given": "Paul Y."
+    }
+  ],
+  "authors_text": "Kim, Harris Hyun-soo; Chang, Paul Y.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy042",
+  "doi_url": "https://doi.org/10.1093/sf/soy042",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy042",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy042.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

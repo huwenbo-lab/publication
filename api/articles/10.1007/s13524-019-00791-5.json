@@ -1,0 +1,30 @@
+{
+  "title": "The Effect of the Earned Income Tax Credit on Housing and Living Arrangements",
+  "abstract": "As rents have risen and wages have not kept pace, housing affordability in the United States has declined over the last 15 years, impacting the housing and living arrangements of low-income families. Housing subsidies improve the housing situations of low-income families, but less than one in four eligible families receive a voucher. In this article, we analyze whether one of the largest anti-poverty programs in the United States-the Earned Income Tax Credit (EITC)-affects the housing (eviction, homelessness, and affordability) and living arrangements (doubling up, number of people in the household, and crowding) of low-income families. Using the Current Population Survey, the American Community Survey/decennial census, and the Fragile Families and Child Wellbeing Study, we employ a parameterized difference-in-differences strategy to examine whether policy-induced expansions to the EITC affect the housing and living arrangements of single mothers. Results suggest that a $1,000 increase in the EITC improves housing by reducing housing cost burdens, but it has no effect on eviction or homelessness. Increases in the EITC also reduce doubling up (living with additional, nonnuclear family adults)-in particular, doubling up in someone else's home-and reduce three-generation/multigenerational coresidence, suggesting that mothers have a preference to live independently. We find weak evidence for a reduction in overall household size, yet the EITC does reduce household crowding. Although the EITC is not an explicit housing policy, expansions to the EITC are generally linked with improved housing outcomes for single mothers and their children.",
+  "authors": [
+    {
+      "raw": "Pilkauskas, Natasha",
+      "family": "Pilkauskas",
+      "given": "Natasha"
+    },
+    {
+      "raw": "Michelmore, Katherine",
+      "family": "Michelmore",
+      "given": "Katherine"
+    }
+  ],
+  "authors_text": "Pilkauskas, Natasha; Michelmore, Katherine",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00791-5",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00791-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00791-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00791-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

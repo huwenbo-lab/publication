@@ -1,0 +1,25 @@
+{
+  "title": "Perpetuation theory and the racial segregation of young adults",
+  "abstract": "Previous research confirms a strong empirical association between the racial composition of young adults' residential areas and the racial compositions of the residential areas and schools of their youth. Perpetuation theory predicts that part of this association is causal. The present study uses data from the National Education Longitudinal Study (NELS) and the U.S. Censuses of 1990 and 2000 to test for this effect with regression models, propensity-score-weighted models with robustness tests, and regression models that look at long-distance movers. The findings suggest that the association declines rapidly as the distance moved increases, but it remains robust even at long distances. It is also stronger for African Americans and more assimilated Latinos than for whites and less assimilated Latinos. These findings suggests that to some extent, young white, African American, and Latino adults are residentially segregated from each other because they grew up that way. Policies that promote integrating youth residentially and/or desegregating schools may contribute to residential integration over time. (C) 2015 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Goldsmith, Pat Rubio",
+      "family": "Goldsmith",
+      "given": "Pat Rubio"
+    }
+  ],
+  "authors_text": "Goldsmith, Pat Rubio",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2015.11.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2015.11.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2015.11.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2015.11.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

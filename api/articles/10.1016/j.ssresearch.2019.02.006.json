@@ -1,0 +1,30 @@
+{
+  "title": "Black/white differences in mortality among veteran and non-veteran males",
+  "abstract": "U.S. military veterans are a large and racially heterogeneous population. There are reasons to expect that racial disparities in mortality among veterans are smaller than those for non-veterans. For example, blacks are favorably selected into the military, receive relatively equitable treatment within the military, and after service accrue higher socioeconomic status and receive health and other benefits after service. Using the 1997-2009 National Health Interview Survey (N = 99,063) with Linked Mortality Files through the end of 2011 (13,691 deaths), we fit Cox proportional hazard models to estimate whether racial disparities in the risk of death are smaller for veterans than for non-veterans. We find that black/white disparities in mortality are smaller for veterans than for non-veterans, and that this is explained by the elevated socioeconomic resources of black veterans relative to black non-veterans. Leveraging birth cohort differences in military periods, we document that the smaller disparities are concentrated among All-Volunteer era veterans.",
+  "authors": [
+    {
+      "raw": "Sheehan, Connor M.",
+      "family": "Sheehan",
+      "given": "Connor M."
+    },
+    {
+      "raw": "Hayward, Mark D.",
+      "family": "Hayward",
+      "given": "Mark D."
+    }
+  ],
+  "authors_text": "Sheehan, Connor M.; Hayward, Mark D.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.02.006",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.02.006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.02.006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.02.006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

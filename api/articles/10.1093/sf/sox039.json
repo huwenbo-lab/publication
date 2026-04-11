@@ -1,0 +1,35 @@
+{
+  "title": "Gun Shops as Local Institutions: Federal Firearms Licensees, Social Disorganization, and Neighborhood Violent Crime",
+  "abstract": "Recently, scholars have argued that local social and economic institutions, such as bars and payday lenders, can influence neighborhood crime outcomes. Drawing on routine activities theory and social disorganization theory, such research has posited that such institutions can directly affect crime rates by providing potential targets or encouraging criminal behavior, and can indirectly affect crime rates by discouraging social control efforts. We draw on this literature, as well as the literature on reactions to firearm prevalence, to examine the effects of gun shops on local crime rates. Using data for the year 2000 drawn from the National Neighborhood Crime Study (NNCS), the Bureau of Alcohol, Tobacco, Firearms, and Explosives' Federal Firearms Licensees Database (FFLD), and the National Establishment Time-Series Longitudinal Business Database (NETS), we use hierarchical linear models to examine how the prevalence of gun shops at the tract and metro level contribute to tract-level rates of violent crime in eighty-nine large US cities. Our findings indicate that gun shop prevalence in urban areas is associated with increased rates of homicides and robberies, and that these effects are more pronounced in neighborhoods characterized by residential instability. We conclude with a discussion of policy considerations and avenues for future research on local institutions.",
+  "authors": [
+    {
+      "raw": "Steidley, Trent",
+      "family": "Steidley",
+      "given": "Trent"
+    },
+    {
+      "raw": "Ramey, David M.",
+      "family": "Ramey",
+      "given": "David M."
+    },
+    {
+      "raw": "Shrider, Emily A.",
+      "family": "Shrider",
+      "given": "Emily A."
+    }
+  ],
+  "authors_text": "Steidley, Trent; Ramey, David M.; Shrider, Emily A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox039",
+  "doi_url": "https://doi.org/10.1093/sf/sox039",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox039",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox039.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

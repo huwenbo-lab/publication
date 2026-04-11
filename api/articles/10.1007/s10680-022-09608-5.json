@@ -1,0 +1,30 @@
+{
+  "title": "Childlessness and Development in Sub-Saharan Africa: Is There Evidence for a U-shaped Pattern?",
+  "abstract": "AbstractIn high-income countries, women increasingly remain permanently childless. Little is known about the relationship between childlessness and socioeconomic development in non-Western societies and particularly sub-Saharan Africa. At lower levels of development, poverty-driven (i.e., involuntary) childlessness may decrease with increases in levels of development, while at higher levels of development opportunity-driven (i.e., voluntary and circumstantial) childlessness may rise with development. Thus, we expect a U-shaped relationship between childlessness and development overall. We examine this idea for sub-Saharan Africa. We further contribute by differentiating between female and male childlessness; and between involuntary, voluntary and circumstantial childlessness. Moreover, we construct new indicators of subnational historical development to assess both inter- and intra-country variation, and distinguish between three components (health, education and income) to investigate the drivers behind the hypothesized U-shaped relationship. Using 291 Demographic and Health Surveys between 1986 and 2018 from 38 countries and 384 regions, we find a U-shaped relationship between female childlessness and development, and a linear relationship for men. The U-shape for women results from negative associations of female involuntary childlessness with health and educational advancements, combined with positive correlations of voluntary and circumstantial childlessness with education and income improvements. While these positive associations are stronger among men than women, the negative relationships of involuntary childlessness with health and education observed for women are absent for men, resulting in an overall positive and linear relationship between development and childlessness among men. Our findings have implications for how we might expect childlessness rates to evolve with future levels of development.",
+  "authors": [
+    {
+      "raw": "Verkroost, Florianne C. J.",
+      "family": "Verkroost",
+      "given": "Florianne C. J."
+    },
+    {
+      "raw": "Monden, Christiaan W. S.",
+      "family": "Monden",
+      "given": "Christiaan W. S."
+    }
+  ],
+  "authors_text": "Verkroost, Florianne C. J.; Monden, Christiaan W. S.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09608-5",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09608-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09608-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09608-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

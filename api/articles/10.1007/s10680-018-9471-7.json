@@ -1,0 +1,30 @@
+{
+  "title": "Childlessness in Twentieth-Century Spain: A Cohort Analysis for Women Born 1920–1969",
+  "abstract": "Studies of childlessness in the twentieth century in developed countries have underscored the existence of diverging trends with higher levels among cohorts born at the beginning of the twentieth century, lower ones among the baby boom cohorts and finally higher ones for cohorts born after the Second World War. Spain also shows these basic trends, but the fit is not identical to that of other countries, with differences affecting the timing of trend changes and also the levels of childlessness observed in the final part of the period. This paper focuses on Spanish women born 1920 and 1969 and explores the factors characterizing traditional/old childlessness and how these differ from those holding more recently. Using microdata from Spanish Census of 2011, our approach makes use of logistic regression and regression-based decomposition techniques. Change over time, as measured by inter-cohort variations, reveals strikingly different patterns of behaviour characterized by a reversal of the traditional association of childlessness with marital status and educational attainment that takes place in a period of intense and pervasive social change.",
+  "authors": [
+    {
+      "raw": "Reher, David",
+      "family": "Reher",
+      "given": "David"
+    },
+    {
+      "raw": "Requena, Miguel",
+      "family": "Requena",
+      "given": "Miguel"
+    }
+  ],
+  "authors_text": "Reher, David; Requena, Miguel",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9471-7",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9471-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9471-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9471-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

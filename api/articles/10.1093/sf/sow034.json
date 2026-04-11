@@ -1,0 +1,30 @@
+{
+  "title": "Telecommuting and Earnings Trajectories Among American Women and Men 1989-2008",
+  "abstract": "While flexibility in the location of work hours has shown positive organizational effects on productivity and retention, less is known about the earnings effects of telecommuting. We analyze weekly hours spent working from home using the 1989-2008 panels of the National Longitudinal Study of Youth. We describe the demographic and occupational characteristics of the employees engaged in telecommuting, then track their earnings growth with fixed-effects models, focusing on gender and parental status. Results show substantial variation in the earnings effects of telecommuting based on the point in the hours distribution worked from home. Working from home rather than the office produces equal earnings growth in the first 40 hours worked, but taking work home or overtime telecommuting yields significantly smaller increases than overtime worked on-site. Yet, most observed telecommuting occurs precisely during this low-yield overtime portion of the hours distribution. Few gender or parental status differences emerged in these processes. These trends reflect potentially widespread negative consequences of the growing capacity of workers to perform their work from any location. Rather than enhancing true flexibility in when and where employees work, the capacity to work from home mostly extends the workday and encroaches into what was formerly home and family time.",
+  "authors": [
+    {
+      "raw": "Glass, Jennifer L.",
+      "family": "Glass",
+      "given": "Jennifer L."
+    },
+    {
+      "raw": "Noonan, Mary C.",
+      "family": "Noonan",
+      "given": "Mary C."
+    }
+  ],
+  "authors_text": "Glass, Jennifer L.; Noonan, Mary C.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sow034",
+  "doi_url": "https://doi.org/10.1093/sf/sow034",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow034",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow034.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "How skin color, class status, and gender intersect in the labor market: Evidence from a field experiment",
+  "abstract": "This article examines skin color discrimination in two Brazilian labor markets using a field experimental approach. Fictitious resumes including photographs of job candidates were randomly assigned one skin color category via photo manipulation and submitted to entry-level job openings. In addition to assessing the extent of skin color discrimination, this article adopts an intersectional framework to examine how the effect of skin color in employment is moderated by class status and varies by gender. I found mixed results about the role of skin color in predicting the employment outcomes at the initial stages of the hiring process. Results from logistic regression and Linear Probability Models show that skin color is a weak predictor of hiring outcomes (e.g. receiving a callback from employers) among male applicants and for female applicants with brown skin. However, I find strong evidence that having dark skin is causally associated with hiring outcomes among female applicants. I also found that having a higher-class status erases skin color differences, thus identifying a potential mechanism that mitigates the effects of skin color in hiring.",
+  "authors": [
+    {
+      "raw": "Dias, Felipe A.",
+      "family": "Dias",
+      "given": "Felipe A."
+    }
+  ],
+  "authors_text": "Dias, Felipe A.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100477",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100477",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100477",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100477.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

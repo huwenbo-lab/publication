@@ -1,0 +1,25 @@
+{
+  "title": "Radius of trust: Gradient-based conceptualization and measurement",
+  "abstract": "The radius of trust - the width of one's cooperation circle - has been widely cited by scholars from various disciplines as a key factor in the production and maintenance of public good. However, the vagueness in its conceptualization, measurement, and analysis obstructs efficient communication between empirical works, impeding the accumulation of scientific knowledge. This study develops a conceptualization of trust radius as the gradient in the level of trust in specific individuals across social ties of differing strengths. Along with this conceptualization, a new measurement scheme is constructed, which, relative to previous measures, is empirically easy-to-implement and theoretically valid in displaying individual-level variations in trust radius, highlighting trust radius' distinction from generalized trust and affinity with specific trust, and accommodating the differing tie strengths within one's trust network. Finally, this measurement scheme is well integrated in a multilevel modeling framework to study the determinants of trust radius, which is illustrated by two examples. (C) 2017 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Hu, Anning",
+      "family": "Hu",
+      "given": "Anning"
+    }
+  ],
+  "authors_text": "Hu, Anning",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2017.08.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.08.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.08.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.08.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

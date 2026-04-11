@@ -1,0 +1,35 @@
+{
+  "title": "Twinning Rates in Developed Countries: Trends and Explanations",
+  "abstract": "The twinning rate has increased dramatically over the last four decades in developed countries. Two main factors account for this increase: delayed childbearing, as older women tend to have twins more frequently than younger ones, and the expansion of medically assisted reproduction (MAR), which carries an increased probability of multiple births. Using civil registration data, we estimate the share of the increase in twinning rates attributable to the rise in the age at childbearing and to MAR. The effect of MAR is estimated to be about three times as important as the effect of delayed childbearing. Negative health outcomes associated with multiple births and the cost of MAR have raised concerns. We find that in one-quarter of developed countries with the relevant data, the twinning rate reached a plateau around the early 2000s and decreased thereafter. We examine the reasons for this reversal, in particular changes in MAR policies and practices.",
+  "authors": [
+    {
+      "raw": "Pison, Gilles",
+      "family": "Pison",
+      "given": "Gilles"
+    },
+    {
+      "raw": "Monden, Christiaan",
+      "family": "Monden",
+      "given": "Christiaan"
+    },
+    {
+      "raw": "Smits, Jeroen",
+      "family": "Smits",
+      "given": "Jeroen"
+    }
+  ],
+  "authors_text": "Pison, Gilles; Monden, Christiaan; Smits, Jeroen",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2015,
+  "doi": "10.1111/j.1728-4457.2015.00088.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2015.00088.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2015.00088.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2015.00088.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

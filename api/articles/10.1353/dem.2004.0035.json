@@ -1,0 +1,30 @@
+{
+  "title": "Coming to stay: An analysis of the U.S. Census question on immigrants’ year of arrival",
+  "abstract": "AbstractUsing the New Immigrant Survey Pilot, we compare answers to the census question on year of arrival in the United States with answers to questions about the dates and durations of earlier U.S. trips. We show that the year identified by the census does not correspond to the year of either the first or the last U.S. trip. Because many immigrants enter and leave the United States several times before becoming legal immigrants, the census question produces estimates of U.S. experience that are quite different from those produced by direct questions about trip durations.",
+  "authors": [
+    {
+      "raw": "Redstone, Ilana",
+      "family": "Redstone",
+      "given": "Ilana"
+    },
+    {
+      "raw": "Massey, Douglas S.",
+      "family": "Massey",
+      "given": "Douglas S."
+    }
+  ],
+  "authors_text": "Redstone, Ilana; Massey, Douglas S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0035",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0035",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0035",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0035.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

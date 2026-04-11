@@ -1,0 +1,50 @@
+{
+  "title": "Latent change modeling of Latino parent-child conflict and pathways to mental health",
+  "abstract": "Objective This secondary analysis of longitudinal data on Latino immigrant parents applied latent change modeling to investigate the association between within-family change in parent-child conflict and within-individual change in parent's psychological distress, and how within-individual change in parenting stress mediates that association over time. Background Immigrant parents face additional challenges when parenting their children. There is limited research regarding how parent-child conflict may influence parenting stress and parents' overall well-being, in particular in Latino immigrant families. Method Secondary analysis was conducted on data from a sample of 344 Latino immigrant parents who participated in a community-based parenting skills invention. In the original intervention study, they were assigned randomly to intervention or waitlist control groups and assessed at three points: baseline, 4 months (post-intervention), and a follow-up 10 months after the baseline assessment. Results Across 4 months, change in parent-child conflict was significantly associated with changes in parenting stress and psychological distress, whereas across 10 months, change in parent-child conflict was only associated with change in psychological distress. The indirect effects through parenting stress were non-significant. However, participating in the intervention had a protective indirect effect by reducing parenting stress across 4 months and reducing psychological distress across 10 months via change in parent-child conflict. Conclusion Changes in parent-child relations were related to changes in parents' individual well-being, with those associations varying across different time periods.",
+  "authors": [
+    {
+      "raw": "Kim, HaeDong",
+      "family": "Kim",
+      "given": "HaeDong"
+    },
+    {
+      "raw": "Epstein, Norman B.",
+      "family": "Epstein",
+      "given": "Norman B."
+    },
+    {
+      "raw": "Hancock, Gregory R.",
+      "family": "Hancock",
+      "given": "Gregory R."
+    },
+    {
+      "raw": "Hurtado, Ghaffar Ali",
+      "family": "Hurtado",
+      "given": "Ghaffar Ali"
+    },
+    {
+      "raw": "Svetaz, Maria Veronica",
+      "family": "Svetaz",
+      "given": "Maria Veronica"
+    },
+    {
+      "raw": "Allen, Michele",
+      "family": "Allen",
+      "given": "Michele"
+    }
+  ],
+  "authors_text": "Kim, HaeDong; Epstein, Norman B.; Hancock, Gregory R.; Hurtado, Ghaffar Ali; Svetaz, Maria Veronica; Allen, Michele",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2023,
+  "doi": "10.1111/jomf.12880",
+  "doi_url": "https://doi.org/10.1111/jomf.12880",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12880",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12880.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The effect of motherhood on the labour force participation of married women in China",
+  "abstract": "This paper explores the impact the number of child(ren) and the age of child(ren) on the participation in the labour force by married women in China. Using logistic regression models with the latest Chinese Family Panel Studies data, results show that: (1) the odds of LFP (Labour Force Participation) has decreased by 20.7 per cent for married women with one child and 37.7 per cent for women with two or more children compared with those without any child; (2) the impact of childbearing on LFP is stronger for women who are highly educated or aged 30–39; (3) the age of child(ren) is positively correlated with the mother's labour participation, with a bigger effect for women coming from rural areas (i.e. those with an agricultural hukou), for women aged below 30, and for highly educated women.",
+  "authors": [
+    {
+      "raw": "Liu, Shuomei",
+      "family": "Liu",
+      "given": "Shuomei"
+    },
+    {
+      "raw": "Marois, Guillaume",
+      "family": "Marois",
+      "given": "Guillaume"
+    }
+  ],
+  "authors_text": "Liu, Shuomei; Marois, Guillaume",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2023,
+  "doi": "10.1080/17441730.2023.2193518",
+  "doi_url": "https://doi.org/10.1080/17441730.2023.2193518",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2023.2193518",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2023.2193518.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

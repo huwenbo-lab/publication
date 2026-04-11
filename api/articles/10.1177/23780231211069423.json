@@ -1,0 +1,30 @@
+{
+  "title": "The Dice Are Loaded: Schools’ Social Class Composition and Athletic Contests",
+  "abstract": "Research shows that social class differences in high school sports participation are large and growing. However, focusing on sports participation may obfuscate large social class differences in sports performance among participants. The authors develop theoretical predictions on the basis of exclusion (middle-class youth perform sports better) and inclusion (working-class youth perform sports better). To test these predictions, the authors analyze the relationship between high schools’ social class composition and success in high school athletics using data on more than 200,000 contests in school fixed-effects models. The findings indicate that predominantly middle-class schools beat economically integrated and predominantly working-class schools by large margins, supporting exclusivity perspectives. Also, predominantly working-class schools win as much as economically integrated schools, providing evidence of inclusion, but inclusion is much weaker than exclusion. The authors conclude that sports performance among youth is highly stratified by social class.",
+  "authors": [
+    {
+      "raw": "Goldsmith, Pat Rubio",
+      "family": "Goldsmith",
+      "given": "Pat Rubio"
+    },
+    {
+      "raw": "Abel, Richard",
+      "family": "Abel",
+      "given": "Richard"
+    }
+  ],
+  "authors_text": "Goldsmith, Pat Rubio; Abel, Richard",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231211069423",
+  "doi_url": "https://doi.org/10.1177/23780231211069423",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211069423",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211069423.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

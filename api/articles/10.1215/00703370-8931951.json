@@ -1,0 +1,30 @@
+{
+  "title": "US Occupational Mobility of Children of Immigrants Based on Parents' Origin-Country Occupation",
+  "abstract": "This study provides a national-level assessment of occupational mobility and early-career attainment of children of immigrants based on parents' origin-country occupation. Exploiting unique aspects of the Educational Longitudinal Study, we examine how parent-child U.S. intergenerational occupational mobility patterns and child occupational attainment differ based on parental premigration occupational status (i.e., low- vs. high-skilled) and parental postmigration occupational mobility (i.e., upward, same, or downward). Our results suggest misestimation in intergenerational mobility research if parents' origin-country occupation is excluded. Including parents' origin-country occupation, we find that the children of immigrants are recovering from instances of parental occupational downgrading, building on parental advances, and advancing where parents could not. Furthermore, most children of immigrants do as well or better occupationally than children of non-Hispanic White natives. Strong educational investments help explain this advantage, particularly for children of high-skilled immigrants. However, results indicate that all children of immigrants would attain even more if they faced fewer postmigration barriers, especially children of low-skilled immigrants. These results advance immigrant selection and assimilation theories by demonstrating how pre- and postmigration factors influence occupational attainment of children of immigrants.",
+  "authors": [
+    {
+      "raw": "Potochnick, Stephanie",
+      "family": "Potochnick",
+      "given": "Stephanie"
+    },
+    {
+      "raw": "Hall, Matthew",
+      "family": "Hall",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Potochnick, Stephanie; Hall, Matthew",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8931951",
+  "doi_url": "https://doi.org/10.1215/00703370-8931951",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8931951",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8931951.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

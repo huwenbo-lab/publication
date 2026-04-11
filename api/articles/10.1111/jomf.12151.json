@@ -1,0 +1,45 @@
+{
+  "title": "The Analysis of Duocentric Social Networks: A Primer",
+  "abstract": "Marriages and other intimate partnerships are facilitated or constrained by the social networks within which they are embedded. To date, methods used to assess the social networks of couples have been limited to global ratings of social network characteristics or network data collected from each partner separately. In the current article, the authors offer new tools for expanding on the existing literature by describing methods of collecting and analyzing duocentric social networks, that is, the combined social networks of couples. They provide an overview of the key considerations for measuring duocentric networks, such as how and why to combine separate network interviews with partners into one shared duocentric network, the number of network members to assess, and the implications of different network operationalizations. They illustrate these considerations with analyses of social network data collected from 57 low-income married couples, presenting visualizations and quantitative measures of network composition and structure.",
+  "authors": [
+    {
+      "raw": "Kennedy, David P.",
+      "family": "Kennedy",
+      "given": "David P."
+    },
+    {
+      "raw": "Jackson, Grace L.",
+      "family": "Jackson",
+      "given": "Grace L."
+    },
+    {
+      "raw": "Green, Harold D.",
+      "family": "Green",
+      "given": "Harold D."
+    },
+    {
+      "raw": "Bradbury, Thomas N.",
+      "family": "Bradbury",
+      "given": "Thomas N."
+    },
+    {
+      "raw": "Karney, Benjamin R.",
+      "family": "Karney",
+      "given": "Benjamin R."
+    }
+  ],
+  "authors_text": "Kennedy, David P.; Jackson, Grace L.; Green, Harold D.; Bradbury, Thomas N.; Karney, Benjamin R.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12151",
+  "doi_url": "https://doi.org/10.1111/jomf.12151",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12151",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12151.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

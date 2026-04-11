@@ -1,0 +1,30 @@
+{
+  "title": "Overstating Value Change: Question Ordering in the Postmaterial Values Index",
+  "abstract": "In much of his research on intergenerational value change, Inglehart uses a four-item index to calculate levels of postmaterial and material value orientations. Latter waves of the World Values Surveys administer a 12-item values index in which the original four-item index is embedded. In some of his research, Inglehart compares values estimated from stand-alone and embedded indices. Using a split sample design, we administered two versions of the longer values index to national probability samples of Australian adults and detected question-ordering effects. Proportions of postmaterialists relative to materialists were inflated when the four-item index was embedded in the longer values index. Comparing estimates of postmaterial values from stand-alone indices with indices embedded in the longer values measure is an unreliable method of assessing change in value orientations, as it overestimates the magnitude of value change over time.",
+  "authors": [
+    {
+      "raw": "Tranter, B.",
+      "family": "Tranter",
+      "given": "B."
+    },
+    {
+      "raw": "Western, M.",
+      "family": "Western",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Tranter, B.; Western, M.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2009,
+  "doi": "10.1093/esr/jcp040",
+  "doi_url": "https://doi.org/10.1093/esr/jcp040",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcp040",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcp040.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

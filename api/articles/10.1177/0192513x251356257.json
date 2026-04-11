@@ -1,0 +1,35 @@
+{
+  "title": "Examining the Reciprocal Relationship Between Fathers' Perceived Parenting Competence and Coparenting Across Early Childhood",
+  "abstract": "Fathers' subjective evaluation of their parenting competences is regarded as essential to motivation and engagement in the parental role. Self-efficacy theory suggests that perceived competence in a specific area, such as parenting, is shaped by feedback from significant others, such as the coparent. This study examines the relationship between fathers' perceived parenting competence and coparenting quality (support and undermining) across early childhood. Using data from 1223 first-time fathers at child ages 10 months, 19 months, and 4 years, the study applies Random Intercept Cross-Lagged Panel Models (RI-CLPM) to account for stability across individuals. Results revealed minimal within-father cross-lagged effects, with one exception: perceived competence at 10 months predicted increased coparenting support at 19 months. Contrary to expectations, fathers' perceived competence remained stable over time and was less influenced by coparenting dynamics than hypothesized. This study contributes methodologically by utilizing RI-CLPM, providing clearer distinctions of between-person and within-person variance in parenting competence.",
+  "authors": [
+    {
+      "raw": "Klode, Anne",
+      "family": "Klode",
+      "given": "Anne"
+    },
+    {
+      "raw": "Fentz, Hanne Norr",
+      "family": "Fentz",
+      "given": "Hanne Norr"
+    },
+    {
+      "raw": "Trillingsgaard, Tea",
+      "family": "Trillingsgaard",
+      "given": "Tea"
+    }
+  ],
+  "authors_text": "Klode, Anne; Fentz, Hanne Norr; Trillingsgaard, Tea",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2025,
+  "doi": "10.1177/0192513x251356257",
+  "doi_url": "https://doi.org/10.1177/0192513x251356257",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x251356257",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x251356257.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

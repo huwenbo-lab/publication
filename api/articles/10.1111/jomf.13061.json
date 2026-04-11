@@ -1,0 +1,35 @@
+{
+  "title": "The gendered economic consequences of forming a single-parent household after separation",
+  "abstract": "ObjectiveTo document gender differences in income trajectories before and after forming a single-parent household following separation in Belgium between 2005 and 2018.BackgroundPrevious research has shown that the economic consequences of partnership dissolution are less severe for fathers than for mothers because of the greater likelihood for women to live with children after separation than men. However, it remains unclear how economic conditions change when men live with children after partnership dissolution.MethodCombining information from the Belgian National Register and the Tax-register over 14 years, we estimate time-distributed fixed effects (TDFE) models on a sample of 47,496 men and 151,389 women to investigate how the transition into a single-parent household after separation impacts equivalized household income, as well as other income measures, from 5 years before to 5 years after the event.ResultsOverall, there is an economic disadvantage related to becoming a single parent co-residing with children after separation for both men and women. Hence, single fathers are at risk of economic vulnerability, but, after transitioning into a single-parent household, men lose less in terms of partner income and are faster to recover in terms of couple and equivalized household income than women do.ConclusionMen experience important drops in income after becoming a single parent co-residing with children, but drops in income are greater for women.",
+  "authors": [
+    {
+      "raw": "Fadel, Luisa",
+      "family": "Fadel",
+      "given": "Luisa"
+    },
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    },
+    {
+      "raw": "Schnor, Christine",
+      "family": "Schnor",
+      "given": "Christine"
+    }
+  ],
+  "authors_text": "Fadel, Luisa; Boertien, Diederik; Schnor, Christine",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13061",
+  "doi_url": "https://doi.org/10.1111/jomf.13061",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13061",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13061.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

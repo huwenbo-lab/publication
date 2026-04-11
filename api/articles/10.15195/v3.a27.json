@@ -1,0 +1,30 @@
+{
+  "title": "Multicollinearity and Model Misspecification",
+  "abstract": "Multicollinearity in linear regression is typically thought of as a problem of large standard errors due to near-linear dependencies among independent variables. This problem can be solved by more informative data, possibly in the form of a larger sample. We argue that this understanding of multicollinearity is only partly correct. The near collinearity of independent variables can also increase the sensitivity of regression estimates to small errors in the model misspecification. We examine the classical assumption that independent variables are uncorrelated with the errors. With collinearity, small deviations from this assumption can lead to large changes in estimates. We present a Bayesian estimator that specifies a prior distribution for the covariance between the independent variables and the error term. This estimator can be used to calculate confidence intervals that reflect sampling error and uncertainty about the model specification. A Monte Carlo experiment indicates that the Bayesian estimator has good frequentist properties in the presence of specification errors. We illustrate the new method by estimating a model of the black–white gap in earnings.",
+  "authors": [
+    {
+      "raw": "Winship, Christopher",
+      "family": "Winship",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Western, Bruce",
+      "family": "Western",
+      "given": "Bruce"
+    }
+  ],
+  "authors_text": "Winship, Christopher; Western, Bruce",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2016,
+  "doi": "10.15195/v3.a27",
+  "doi_url": "https://doi.org/10.15195/v3.a27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv3.a27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v3.a27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

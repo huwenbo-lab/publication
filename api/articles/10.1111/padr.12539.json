@@ -1,0 +1,40 @@
+{
+  "title": "Understanding the Positive Effects of the COVID-19 Pandemic on Women's Fertility in Norway",
+  "abstract": "This study examines the effect of the COVID-19 pandemic on fertility in Norway at the individual level. Studies using data at the macrolevel have found a positive short-term effect of the pandemic on the fertility level in Norway, but women's fertility response to the pandemic may differ depending on their life situation. We use the first lockdown on March 12, 2020, as a marker of the pandemic and apply a regression discontinuity design to compare births of women that were conceived before the pandemic started with those conceived during the first eight months of the pandemic. The positive effect on women's fertility in Norway was mainly driven by women in life phases that have generally high fertility rates (women aged 28-35 years and women who already have children). These groups are likely to be in an economically and socially secure and stable situation in which the restrictions due to the pandemic had limited influence. Besides two exceptions, we do not find differences in the effect of the pandemic on childbearing by women's work situation. This is most likely related to the strong welfare state and the generous additional pandemic-related measures taken by the Norwegian government.",
+  "authors": [
+    {
+      "raw": "Lappegard, Trude",
+      "family": "Lappegard",
+      "given": "Trude"
+    },
+    {
+      "raw": "Kornstad, Tom",
+      "family": "Kornstad",
+      "given": "Tom"
+    },
+    {
+      "raw": "Dommermuth, Lars",
+      "family": "Dommermuth",
+      "given": "Lars"
+    },
+    {
+      "raw": "Kristensen, Axel Peter",
+      "family": "Kristensen",
+      "given": "Axel Peter"
+    }
+  ],
+  "authors_text": "Lappegard, Trude; Kornstad, Tom; Dommermuth, Lars; Kristensen, Axel Peter",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12539",
+  "doi_url": "https://doi.org/10.1111/padr.12539",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12539",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12539.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

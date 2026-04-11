@@ -1,0 +1,30 @@
+{
+  "title": "The Healthy Immigrant Effect: The role of educational selectivity in the good health of migrants",
+  "abstract": "BACKGROUND The Healthy Immigrant Effect (HIE) refers to the fact that recent migrants are in better health than the nonmigrant population in the host country. Central to explaining the HIE is the idea that migrants are positively selected in terms of their socioeconomic and health characteristics when compared to nonmigrants in their country of origin. However, due to a lack of reliable and comparable data, most existing studies rely on socioeconomic and health measures as collected in the host country after migration and do not actually measure selection. OBJECTIVE We directly test selection as an explanation of the HIE among migrants living in France. METHODS Using the French Trajectories and Origins (TeO) survey and Barro-Lee dataset, we construct a direct measure of migrants' educational selectivity. We then test its effect on health differences between migrants and nonmigrants using measures self-rated health, health limitations, and chronic illnesses, by fitting logistic regression and Karlson-Holm-Breen (KHB) decompositions. RESULTS After demonstrating that migrants in France experience an HIE, especially males, we also show that educational level as measured in the host country cannot account for the HIE. By contrast, we provide important evidence that educational selectivity constitutes a significant factor in explaining health disparities between migrant and nonmigrant populations. CONTRIBUTION Capitalizing on a novel measure of migrants' educational selectivity, we give credit to the oft-cited but rarely tested theory that the HIE is a consequence of migrants' positive selection.",
+  "authors": [
+    {
+      "raw": "Ichou, Mathieu",
+      "family": "Ichou",
+      "given": "Mathieu"
+    },
+    {
+      "raw": "Wallace, Matthew",
+      "family": "Wallace",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Ichou, Mathieu; Wallace, Matthew",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.4",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

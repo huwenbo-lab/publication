@@ -1,0 +1,75 @@
+{
+  "title": "Agreement of Self-Reported and Administrative Data on Employment Histories in a German Cohort Study: A Sequence Analysis",
+  "abstract": "Collecting life course data is increasingly common in social and epidemiological research, either through record linkage of administrative data or by collecting retrospective interview data. This paper uses data on employment histories collected through both strategies, compares the attained samples, and investigates levels of agreements of individual histories. We use data from the German Heinz Nixdorf Recall Study with information on employment histories collected retrospectively from 2011 until 2014 (N = 3059). Administrative data from the German Institute for Employment Research (IAB) were linked to the survey data. After comparing respondents who provide self-reported histories with the subsample of the ones for which administrative data were available, we investigate the agreement of individual employment histories from the two sources (between 1975 and 2010) using sequence analyses. Almost all participants provided survey data on employment histories (97% of the sample), linkage consent was given by 93%, and administrative data were available for 63% of the participants. People with survey data were more likely to be female, to have a higher education, and to work self-employed and in the tertiary sector. The agreement of individual employment histories is high and similar across time, with a median level of agreement of 89%. Slightly lower values exist for women and people working in the tertiary sector, both having more complex histories. No differences exist for health-related factors. In conclusion, it is likely that missing consent and failed record linkage lead to sample differences; yet, both strategies provide comparable and reliable life course data.",
+  "authors": [
+    {
+      "raw": "Wahrendorf, Morten",
+      "family": "Wahrendorf",
+      "given": "Morten"
+    },
+    {
+      "raw": "Marr, Anja",
+      "family": "Marr",
+      "given": "Anja"
+    },
+    {
+      "raw": "Antoni, Manfred",
+      "family": "Antoni",
+      "given": "Manfred"
+    },
+    {
+      "raw": "Pesch, Beate",
+      "family": "Pesch",
+      "given": "Beate"
+    },
+    {
+      "raw": "Jöckel, Karl-Heinz",
+      "family": "Jöckel",
+      "given": "Karl-Heinz"
+    },
+    {
+      "raw": "Lunau, Thorsten",
+      "family": "Lunau",
+      "given": "Thorsten"
+    },
+    {
+      "raw": "Moebus, Susanne",
+      "family": "Moebus",
+      "given": "Susanne"
+    },
+    {
+      "raw": "Arendt, Marina",
+      "family": "Arendt",
+      "given": "Marina"
+    },
+    {
+      "raw": "Brüning, Thomas",
+      "family": "Brüning",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Behrens, Thomas",
+      "family": "Behrens",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Dragano, Nico",
+      "family": "Dragano",
+      "given": "Nico"
+    }
+  ],
+  "authors_text": "Wahrendorf, Morten; Marr, Anja; Antoni, Manfred; Pesch, Beate; Jöckel, Karl-Heinz; Lunau, Thorsten; Moebus, Susanne; Arendt, Marina; Brüning, Thomas; Behrens, Thomas; Dragano, Nico",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9476-2",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9476-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9476-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9476-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

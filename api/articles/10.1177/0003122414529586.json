@@ -1,0 +1,40 @@
+{
+  "title": "Status Attainment of Siblings during Modernization",
+  "abstract": "The modernization thesis claims that intergenerational social mobility increased over time due to industrialization and other modernization processes. Here, we test whether this is indeed the case. We study approximately 360,000 brothers from 189,000 families covering more than 500 municipalities in the Netherlands and a 70-year period (1827 to 1897). We complement these sibling- and family-level data with municipal indicators for the degree of industrialization, mass communication, urbanization, educational expansion, geographic mobility, and mass transportation. We analyze these data by applying sibling models, that is, multilevel regression models where brothers are nested in families, which in turn are nested in communities. We find that the total-unmeasured-family effect on sons' status attainment decreases slightly and is higher than that found for contemporary societies. The measured influence of the family, operationalized by father's occupational status, decreased gradually in the Netherlands in the second half of the nineteenth century. A substantial part of this decrease was due to some, but not all, of the modernization processes adduced by the modernization thesis.",
+  "authors": [
+    {
+      "raw": "Knigge, Antonie",
+      "family": "Knigge",
+      "given": "Antonie"
+    },
+    {
+      "raw": "Maas, Ineke",
+      "family": "Maas",
+      "given": "Ineke"
+    },
+    {
+      "raw": "van Leeuwen, Marco H. D.",
+      "family": "van Leeuwen",
+      "given": "Marco H. D."
+    },
+    {
+      "raw": "Mandemakers, Kees",
+      "family": "Mandemakers",
+      "given": "Kees"
+    }
+  ],
+  "authors_text": "Knigge, Antonie; Maas, Ineke; van Leeuwen, Marco H. D.; Mandemakers, Kees",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122414529586",
+  "doi_url": "https://doi.org/10.1177/0003122414529586",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122414529586",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122414529586.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

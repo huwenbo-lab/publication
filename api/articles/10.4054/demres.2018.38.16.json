@@ -1,0 +1,40 @@
+{
+  "title": "A network approach to studying cause-of-death interrelations",
+  "abstract": "BACKGROUND Multiple causes of death describe complex death processes marked by the simultaneous presence of several diseases and conditions, primarily at older ages. OBJECTIVE We intend to explore the opportunity offered by the Social Network Analysis (SNA) in the study of multiple relationships in the causes of death. METHODS SNA allowed us to reconstruct the complex system of relationships linking the causes of death mentioned in the same death certificate for Italian men and women aged 65 years and over in 2011. The causes can be represented as actors of a network where the relational tie establishes a linkage between a cause mentioned together with another. The strength of this association is represented by the frequency of the joint mentioning in the same certificate controlling for the confounding effect due to the different prevalence of the causes. RESULTS The analysis clearly brought out that causes of death describe a very dense system of relationships. Considering only the strongest associations, the graphical analysis showed subgroups of causes, within which cross-references are very frequent while mentions external to the group are rare. Moreover, SNA concepts and instruments allowed us to identify causes playing important roles in death processes and mortality patterns. CONCLUSIONS SNA has proved to be very powerful in identifying the relationships between causes of death, on which health policies should take action to further reduce mortality risks of elderly persons.",
+  "authors": [
+    {
+      "raw": "Egidi, Viviana",
+      "family": "Egidi",
+      "given": "Viviana"
+    },
+    {
+      "raw": "Salvatore, Michele Antonio",
+      "family": "Salvatore",
+      "given": "Michele Antonio"
+    },
+    {
+      "raw": "Rivellini, Giulia",
+      "family": "Rivellini",
+      "given": "Giulia"
+    },
+    {
+      "raw": "D'Angelo, Silvia",
+      "family": "D'Angelo",
+      "given": "Silvia"
+    }
+  ],
+  "authors_text": "Egidi, Viviana; Salvatore, Michele Antonio; Rivellini, Giulia; D'Angelo, Silvia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.16",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

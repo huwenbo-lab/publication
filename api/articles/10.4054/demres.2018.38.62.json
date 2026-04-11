@@ -1,0 +1,30 @@
+{
+  "title": "The association between CVD-related biomarkers and mortality in the Health and Retirement Survey",
+  "abstract": "BACKGROUND It has become increasingly common in multiple purpose general population surveys to integrate different kinds of biomarker in the data collection process. OBJECTIVE In this article we test the predictive power of five different functional forms of CVDrelated biomarkers for all-cause and CVD mortality in the Health and Retirement Study (HRS). METHODS We use five different functional forms of biomarker: A risk factor index, risk factors separately, continuous biomarkers, risk groups comprising every possible combination of risk factors, and a cluster analytic approach to identify risk profiles in the sample. We use data from the Health and Retirement Study (HRS) with information on four collected biomarkers (glycated hemoglobin (hbA1c), high-density lipoprotein (HDL), total cholesterol, and C-reactive protein (CRP)) with an eight-year mortality follow-up period. RESULTS The results show that the additive index has comparatively high predictive power, relative to its simplicity. Risk profiles were identified in the data, with substantial differences in mortality risk between the profiles. The more complex functional forms improve prediction only moderately compared to the simple index, although we can identify groups with an elevated mortality risk that are not identified in more parsimonious approaches. CONCLUSIONS Depending on the specific research question, both a very simple modeling of biomarker information and more detailed examinations of specific complex risk profiles can be appropriate. CONTRIBUTION The study provides initial guidelines for the measurement of commonly used biomarkers, which can be a reference for other studies that use biomarkers as health indicators or for mortality prediction.",
+  "authors": [
+    {
+      "raw": "Kroeger, Hannes",
+      "family": "Kroeger",
+      "given": "Hannes"
+    },
+    {
+      "raw": "Hoffmann, Rasmus",
+      "family": "Hoffmann",
+      "given": "Rasmus"
+    }
+  ],
+  "authors_text": "Kroeger, Hannes; Hoffmann, Rasmus",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.62",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.62",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.62",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.62.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

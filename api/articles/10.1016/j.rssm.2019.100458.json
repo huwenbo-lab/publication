@@ -1,0 +1,35 @@
+{
+  "title": "Educational expansion, inequality and poverty reduction in Brazil: A simulation study",
+  "abstract": "Using retrospective simulations, we examine whether educational expansions in the past could have reduced earnings inequality and income poverty in Brazil. We use data from three censuses and 35 national household surveys (PNAD). The simulations indicate that there are important limitations to what educational policies can do: it would take many decades to reduce inequality and poverty and only a significant scale-up of tertiary education would lead to much lower levels of inequality and poverty. The growth required to have made that possible would have been impressive. Such a reduction could also only have occurred under optimistic assumptions about growth, job-skill matching, and non-declining returns to education. In short, education is not a panacea to poverty and inequality. These results are robust when tested with different data sources, in different decades, and using various measures of inequality and poverty. Our results provide a standard to gauge the effects of other policies in education-equivalent terms.",
+  "authors": [
+    {
+      "raw": "Medeiros, Marcelo",
+      "family": "Medeiros",
+      "given": "Marcelo"
+    },
+    {
+      "raw": "Barbosa, Rogerio J.",
+      "family": "Barbosa",
+      "given": "Rogerio J."
+    },
+    {
+      "raw": "Carvalhaes, Flavio",
+      "family": "Carvalhaes",
+      "given": "Flavio"
+    }
+  ],
+  "authors_text": "Medeiros, Marcelo; Barbosa, Rogerio J.; Carvalhaes, Flavio",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100458",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100458",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100458",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100458.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Dynamics between Regional Sex Ratios at Birth and Sex Ratios at Prime Marriageable Ages in China",
+  "abstract": "Following the homeostatic principle in demography and the notion of a sex ratio transition, I propose a self-corrective mechanism to describe the dynamics of regional sex ratios in China. The mechanism consists of two pathways: (1) internal migration redistributes men and women across regions in a way that reduces highly skewed regional sex ratios at prime marriageable ages (SRM); and (2) a competitive marriage market for men reduces parental incentives for son-biased sex selection, thus lowering sex ratios at birth (SRB). The mechanism suggests several hypotheses about the dynamics between regional SRBs and SRMs. I test these hypotheses using prefecture-level sex ratios in four Chinese population censuses from 1982 to 2010. I use regression analyses that control for prefectural demographic and socioeconomic characteristics. Results show that prefectures with higher SRBs in 1982 and 1990 experienced a greater decline in sex ratios of residents when the birth cohort reached marriageable ages in 2000 and 2010, respectively, resulting in a weak correlation between SRBs and subsequent SRMs in the same prefecture. Prefectural SRBs in 2000 and 2010 were negatively correlated with contemporary SRMs-a one-unit higher prefectural SRM was associated with an approximately 0.3-unit lower SRB in 2000 and 0.2-unit lower SRB in 2010. Changes in prefectural SRBs between 1990 and 2010 are negatively correlated with changes in SRMs during the same period. The empirical findings are consistent with the implications of the proposed self-corrective mechanism, suggesting that sex ratios may be subject to homeostatic forces within the population system.",
+  "authors": [
+    {
+      "raw": "Xiong, Wanru",
+      "family": "Xiong",
+      "given": "Wanru"
+    }
+  ],
+  "authors_text": "Xiong, Wanru",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2022,
+  "doi": "10.1111/padr.12476",
+  "doi_url": "https://doi.org/10.1111/padr.12476",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12476",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12476.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

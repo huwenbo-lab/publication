@@ -1,0 +1,30 @@
+{
+  "title": "Race and the Probability of Arrest",
+  "abstract": "Although blacks are arrested disproportionately for most types of violent crimes, disagreement persists as to the extent to which official arrest data are indicative of differential offending behavior or selection bias on the part of law enforcement personnel Using data from the National Incident-Based Reporting System (NIBRS), we assess the effect of an offenders race on the probability of arrest for 335,619 incidents of forcible rape, robbery, and assault in 17 states during 1999. The baseline model for these comparisons is the equiprobability hypothesis that relative to violation frequency as reported by crime victims, the likelihood of arrest for white and black offenders is roughly equal. Multivariate logistic regression results show that the odds of arrest for white offenders is approximately 22% higher for robbery, 13% higher for aggravated assault, and 9% higher for simple assault than they are for black offenders. An offenders race plays no noteworthy role in the likelihood of arrest for the crime of forcible rape. These findings suggest that the disproportionately high arrest rate for black citizens is most likely attributable to differential involvement in reported crime rather than to racially biased law enforcement practices.",
+  "authors": [
+    {
+      "raw": "D'Alessio, S. J.",
+      "family": "D'Alessio",
+      "given": "S. J."
+    },
+    {
+      "raw": "Stolzenberg, L.",
+      "family": "Stolzenberg",
+      "given": "L."
+    }
+  ],
+  "authors_text": "D'Alessio, S. J.; Stolzenberg, L.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2003,
+  "doi": "10.1353/sof.2003.0051",
+  "doi_url": "https://doi.org/10.1353/sof.2003.0051",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2003.0051",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2003.0051.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

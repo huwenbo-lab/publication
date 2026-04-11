@@ -1,0 +1,30 @@
+{
+  "title": "Intersectionality on the go: The diffusion of Black feminist knowledge across disciplinary and geographical borders",
+  "abstract": "Kimberle Crenshaw coined the term intersectionality in 1989 as a critique of feminist and critical race scholarship's neglect of-respectively-race and gender. Since then, the concept has been interpreted and reinterpreted to appeal to new disciplinary, geographical, and sociocultural audiences, generating heated debates over its appropriation and continued political significance. Drawing on all 3,807 publications in Scopus that contain the word intersectionality in the title, abstract, or keywords, we map the spread of intersectionality in academia through its citations. Network analysis reveals the contours of its diffusion among the 6,098 scholars in our data set, while automated text analysis, manual coding, and the close reading of publications reveal how the application and interpretation of intersectional thinking has evolved over time and space. We find that the diffusion network exhibits communities that are not well demarcated by either discipline or geography. Communities form around one or a few highly referenced scholars who introduce intersectionality to new audiences while reinterpreting it in a way that speaks to their research interests. By examining the microscopic interactions of publications and citations, our complex systems approach is able to identify the macroscopic patterns of a controversial concept's diffusion.",
+  "authors": [
+    {
+      "raw": "Keuchenius, Anna",
+      "family": "Keuchenius",
+      "given": "Anna"
+    },
+    {
+      "raw": "Mugge, Liza",
+      "family": "Mugge",
+      "given": "Liza"
+    }
+  ],
+  "authors_text": "Keuchenius, Anna; Mugge, Liza",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2021,
+  "doi": "10.1111/1468-4446.12816",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12816",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12816",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12816.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

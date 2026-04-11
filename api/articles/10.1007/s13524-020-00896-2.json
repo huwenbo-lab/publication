@@ -1,0 +1,30 @@
+{
+  "title": "Educational Reproduction in Germany: A Prospective Study Based on Retrospective Data",
+  "abstract": "This study examines educational reproduction of East and West German men and women born between 1930 and 1950. In a prospective design, we study the importance of mobility and fertility pathways of reproduction, considering not only the social reproduction of education as an attribute but also the demographic reproduction of individuals who carry this attribute. Using data from NEPS and SOEP, we introduce a method that estimates prospective models based on retrospective data commonly available in surveys. The analysis offers new estimates of the expected number of high- and low-educated children born to men and women of different levels of education. Findings show that the importance of the fertility pathway of educational reproduction was higher in West than in East Germany, higher for women than for men, and higher for earlier than for later cohorts. For West German women of earlier cohorts, the fertility pathway tempered educational reproduction among the high-educated and reinforced it among the low-educated. Population renewal models show that differential fertility slightly lowered educational attainment and slightly increased inequality in educational attainment in the offspring generation. Across cohorts, the fertility pathway declined in importance, a result of fertility convergence between education groups and educational expansion in postwar Germany. We conclude that prospective designs advance our understanding of educational reproduction. The method that we introduce substantially reduces the data requirements of prospective analysis, facilitating future prospective research on social stratification.",
+  "authors": [
+    {
+      "raw": "Skopek, Jan",
+      "family": "Skopek",
+      "given": "Jan"
+    },
+    {
+      "raw": "Leopold, Thomas",
+      "family": "Leopold",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Skopek, Jan; Leopold, Thomas",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00896-2",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00896-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00896-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00896-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

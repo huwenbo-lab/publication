@@ -1,0 +1,35 @@
+{
+  "title": "Unemployment persistence among second-generation immigrants",
+  "abstract": "Many immigrant groups disproportionately experience unemployment and this disadvantage often extends to their children-the second generation. This paper contributes to this stream of research by studying unemployment dynamics of the ancestral population and second-generation immigrants in Sweden. In particular, we ask: does unemployment persistence differ between ancestral Swedes and 10 second-generation immigrant groups? We answer this question using correlated dynamic random-effects logit models to study the effect of past on current unemployment-also known as genuine state dependence. We use Swedish register data to follow individuals over their early working careers. The results indicate that although past unemployment has a similar relative effect on current unemployment across the ancestry groups, past unemployment increases the probability of current unemployment (absolute effect) more among second-generation Middle-Eastern, Turkish, and Southern European immigrants. Because of higher baseline levels of unemployment, the labour market consequences of similar relative effects are more pronounced among the second generation as compared to ancestral Swedes. The paper concludes by elaborating on the reasons behind these contrasting results while highlighting the importance of examining heterogeneous effects on both the relative and absolute scales.",
+  "authors": [
+    {
+      "raw": "Aradhya, Siddartha",
+      "family": "Aradhya",
+      "given": "Siddartha"
+    },
+    {
+      "raw": "Grotti, Raffaele",
+      "family": "Grotti",
+      "given": "Raffaele"
+    },
+    {
+      "raw": "Harkonen, Juho",
+      "family": "Harkonen",
+      "given": "Juho"
+    }
+  ],
+  "authors_text": "Aradhya, Siddartha; Grotti, Raffaele; Harkonen, Juho",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac071",
+  "doi_url": "https://doi.org/10.1093/esr/jcac071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

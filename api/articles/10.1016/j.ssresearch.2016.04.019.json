@@ -1,0 +1,25 @@
+{
+  "title": "Fitting ERGMs on big networks",
+  "abstract": "The exponential random graph model (ERGM) has become a valuable tool for modeling social networks. In particular, ERGM provides great flexibility to account for both covariates effects on tie formations and endogenous network formation processes. However, there are both conceptual and computational issues for fitting ERGMs on big networks. This paper describes a framework and a series of methods (based on existent algorithms) to address these issues. It also outlines the advantages and disadvantages of the methods and the conditions to which they are most applicable. Selected methods are illustrated through examples. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "An, Weihua",
+      "family": "An",
+      "given": "Weihua"
+    }
+  ],
+  "authors_text": "An, Weihua",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.04.019",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.04.019",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.04.019",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.04.019.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

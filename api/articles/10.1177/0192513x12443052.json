@@ -1,0 +1,30 @@
+{
+  "title": "Child Health, Maternal Marital and Socioeconomic Factors, and Maternal Health",
+  "abstract": "Although maternal socioeconomic status and health predict in part children’s future health and socioeconomic prospects, it is possible that the intergenerational association flows in the other direction such that child health affects maternal outcomes. Previous research demonstrates that poor child health increases the risk of adverse maternal physical and mental health outcomes. The authors hypothesize that poor child health may also increase the risk of poor maternal health outcomes through an interaction between child health and factors associated with health outcomes, such as marital status, marital quality, and socioeconomic status. Using data on women in the National Longitudinal Study of Youth 1979 cohort ( N = 2,279), the authors find evidence that the effects of certain maternal marital quality and socioeconomic factors on maternal physical and mental health depend on child health status and vice versa.",
+  "authors": [
+    {
+      "raw": "Garbarski, Dana",
+      "family": "Garbarski",
+      "given": "Dana"
+    },
+    {
+      "raw": "Witt, Whitney P.",
+      "family": "Witt",
+      "given": "Whitney P."
+    }
+  ],
+  "authors_text": "Garbarski, Dana; Witt, Whitney P.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2012,
+  "doi": "10.1177/0192513x12443052",
+  "doi_url": "https://doi.org/10.1177/0192513x12443052",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x12443052",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x12443052.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

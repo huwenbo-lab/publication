@@ -1,0 +1,25 @@
+{
+  "title": "Body Weight, Marital Status, and Changes in Marital Status",
+  "abstract": "In this article, I use 20 years of data taken from the 1979 National Longitudinal Study of Youth to examine the relationship between body weight and both marital status and changes in marital status. I use a latent growth curve model that allows both fixed and random effects. The results show that living without a partner, either being divorced or never married, is associated with lower body weight. Cohabitors and married respondents tend to weigh more. Marital transitions also matter but only for divorce. Gender does not appear to moderate these results.",
+  "authors": [
+    {
+      "raw": "Teachman, Jay",
+      "family": "Teachman",
+      "given": "Jay"
+    }
+  ],
+  "authors_text": "Teachman, Jay",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2013,
+  "doi": "10.1177/0192513x13508404",
+  "doi_url": "https://doi.org/10.1177/0192513x13508404",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x13508404",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x13508404.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

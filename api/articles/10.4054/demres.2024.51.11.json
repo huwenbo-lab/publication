@@ -1,0 +1,50 @@
+{
+  "title": "A multidimensional global migration model for use in cohort-component population projections",
+  "abstract": "BACKGROUND International migration is influenced by economic and social factors that change over time. However, given the complexity of these relationships, global population scenarios to date include only stylized migration assumptions that do not account for changes in the drivers of migration. On the other hand, existing projection models of international migration do not resolve all demographic dimensions necessary to interact with the cohort-component models typically used for population projections. OBJECTIVE Here we present a global model of bilateral migration that resolves these dimensions while also accounting for important external, economic, and social factors. METHODS We include age, education, and gender dependencies into a recently developed model of migration by origin, destination, and country of birth. We calibrate the model on bilateral flow data, couple it to a widely used cohort-component population model, and project migration until 2050 under three alternative socioeconomic scenarios. CONCLUSIONS The extended model fits data better than the original migration model and is more sensitive to the choice of socioeconomic scenario, thus yielding a wider range of projections. Regional net migration flows projected by the model are substantially larger than in the stylized assumptions. The largest flows are projected in the most economically unequal scenario, while previously, the same scenario was assumed to have the smallest flows. CONTRIBUTION The results offer an opportunity to reconcile stylized migration assumptions with quantitative estimates of the roles of important migration drivers. The coupled migration- population modeling framework means that interactions between migration and other demographic processes can be captured, and the migration component can be evaluated in more detail than before.",
+  "authors": [
+    {
+      "raw": "Kluge, Lucas",
+      "family": "Kluge",
+      "given": "Lucas"
+    },
+    {
+      "raw": "Bucaro, Orlando Olaya",
+      "family": "Bucaro",
+      "given": "Orlando Olaya"
+    },
+    {
+      "raw": "Samir, K. C.",
+      "family": "Samir",
+      "given": "K. C."
+    },
+    {
+      "raw": "Yildiz, Dilek",
+      "family": "Yildiz",
+      "given": "Dilek"
+    },
+    {
+      "raw": "Abel, Guy",
+      "family": "Abel",
+      "given": "Guy"
+    },
+    {
+      "raw": "Schewe, Jacob",
+      "family": "Schewe",
+      "given": "Jacob"
+    }
+  ],
+  "authors_text": "Kluge, Lucas; Bucaro, Orlando Olaya; Samir, K. C.; Yildiz, Dilek; Abel, Guy; Schewe, Jacob",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.11",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

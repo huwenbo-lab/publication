@@ -1,0 +1,25 @@
+{
+  "title": "The Broken Compass: Parental Involvement with Children's Education By Keith Robinson and Angel L. Harris Harvard University Press. 2014. 322 pages. $45 hardcover",
+  "abstract": "Are parents really the panacea for educational inequalities? While policymakers certainly think so, this book challenges that assumption. Robinson and Harris begin by making the case that parental involvement is not inherently beneficial. Using data from two nationally representative samples—the National Educational Longitudinal Study (NELS) and the Child Development Supplement (CDS) of the Panel Study of Income Dynamics—the authors show that most forms of parental involvement have no relationship to subsequent student achievement. Furthermore, while some forms of parental involvement—like having high expectations for children—are positively correlated with subsequent achievement, others—including helping with homework—are negatively correlated. The authors then show that parental involvement is not “one size fits all.” Rather, the significance and the direction of the relationship between parental involvement and school achievement often varies with students' age, race/ethnicity, and socioeconomic status. Reading to children at home, for example, is generally associated with positive outcomes for students in grades 1–5 (with the exception of children of college graduates, who experience subsequent decreases in math test scores, as well as black students, who experience declines in reading and math), but negative outcomes for students in grades 6–12 (with the exception of children of high-income parents, who experience subsequent increases in math scores).",
+  "authors": [
+    {
+      "raw": "Calarco, Jessica McCrory",
+      "family": "Calarco",
+      "given": "Jessica McCrory"
+    }
+  ],
+  "authors_text": "Calarco, Jessica McCrory",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2014,
+  "doi": "10.1093/sf/sou126",
+  "doi_url": "https://doi.org/10.1093/sf/sou126",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou126",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou126.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

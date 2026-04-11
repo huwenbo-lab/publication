@@ -1,0 +1,35 @@
+{
+  "title": "Local Network Regressions",
+  "abstract": "The authors propose and illustrate an exploratory technique to shed light on the degree to which bivariate relations between individual-level variables themselves vary over a network. The authors discuss limitations and possible extensions.",
+  "authors": [
+    {
+      "raw": "McMahan, Peter",
+      "family": "McMahan",
+      "given": "Peter"
+    },
+    {
+      "raw": "Slez, Adam",
+      "family": "Slez",
+      "given": "Adam"
+    },
+    {
+      "raw": "Martin, John Levi",
+      "family": "Martin",
+      "given": "John Levi"
+    }
+  ],
+  "authors_text": "McMahan, Peter; Slez, Adam; Martin, John Levi",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119845758",
+  "doi_url": "https://doi.org/10.1177/2378023119845758",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119845758",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119845758.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

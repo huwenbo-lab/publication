@@ -1,0 +1,35 @@
+{
+  "title": "Sibling influence in field of study choices",
+  "abstract": "This study evaluates sibling similarities in field of study choices after secondary education in the Netherlands. Based on social learning theory, it was argued that younger siblings follow their older sibling's field of study choices. This is more likely to occur when siblings differ more in age, older siblings are higher educated or when siblings are of the same sex. Data from the fifth wave of the Children of Immigrants Longitudinal Survey in the Netherlands were used. We analyzed 4556 children in 2923 families using conditional logit models. Congruent with the social learning theory, younger siblings follow their older sibling's fields of study, especially when they are of the same sex. There is no evidence that sibling similarities are dependent on differences in age or edu-cation level of the older sibling. They are also present irrespective of parental influence and independent of the specific field chosen by the older sibling. Siblings are therefore - next to parents - an important aspect of the home environment that shapes field of study choices.",
+  "authors": [
+    {
+      "raw": "van der Vleuten, Maaike",
+      "family": "van der Vleuten",
+      "given": "Maaike"
+    },
+    {
+      "raw": "Weesie, Jeroen",
+      "family": "Weesie",
+      "given": "Jeroen"
+    },
+    {
+      "raw": "Maas, Ineke",
+      "family": "Maas",
+      "given": "Ineke"
+    }
+  ],
+  "authors_text": "van der Vleuten, Maaike; Weesie, Jeroen; Maas, Ineke",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100525",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100525",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100525",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100525.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

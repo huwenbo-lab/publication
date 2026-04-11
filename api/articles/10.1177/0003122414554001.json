@@ -1,0 +1,45 @@
+{
+  "title": "Network Ecology and Adolescent Social Structure",
+  "abstract": "Adolescent societieswhether arising from weak, short-term classroom friendships or from close, long-term friendshipsexhibit various levels of network clustering, segregation, and hierarchy. Some are rank-ordered caste systems and others are flat, cliquish worlds. Explaining the source of such structural variation remains a challenge, however, because global network features are generally treated as the agglomeration of micro-level tie-formation mechanisms, namely balance, homophily, and dominance. How do the same micro-mechanisms generate significant variation in global network structures? To answer this question we propose and test a network ecological theory that specifies the ways features of organizational environments moderate the expression of tie-formation processes, thereby generating variability in global network structures across settings. We develop this argument using longitudinal friendship data on schools (Add Health study) and classrooms (Classroom Engagement study), and by extending exponential random graph models to the study of multiple societies over time.",
+  "authors": [
+    {
+      "raw": "McFarland, Daniel A.",
+      "family": "McFarland",
+      "given": "Daniel A."
+    },
+    {
+      "raw": "Moody, James",
+      "family": "Moody",
+      "given": "James"
+    },
+    {
+      "raw": "Diehl, David",
+      "family": "Diehl",
+      "given": "David"
+    },
+    {
+      "raw": "Smith, Jeffrey A.",
+      "family": "Smith",
+      "given": "Jeffrey A."
+    },
+    {
+      "raw": "Thomas, Reuben J.",
+      "family": "Thomas",
+      "given": "Reuben J."
+    }
+  ],
+  "authors_text": "McFarland, Daniel A.; Moody, James; Diehl, David; Smith, Jeffrey A.; Thomas, Reuben J.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122414554001",
+  "doi_url": "https://doi.org/10.1177/0003122414554001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122414554001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122414554001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

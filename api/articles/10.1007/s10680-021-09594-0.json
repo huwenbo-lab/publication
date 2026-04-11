@@ -1,0 +1,35 @@
+{
+  "title": "Family Complexity and Parents’ Migration: The Role of Repartnering and Distance to Non-Resident Children",
+  "abstract": "AbstractRecent research suggests that the increasing complexity of family life could be a factor in declines in internal migration (long-distance moves within countries). As many separated parents continue to share childcare responsibilities or have visiting arrangements, their mobility is naturally constrained. However, the relationship between family complexity and individual migration behaviour has never been studied explicitly. We compare separated parents with parents in two-parent families in their likelihood of migrating within the Netherlands. We use detailed records of parents’ partnership status and children’s residential situation. An event-history analysis was performed using register-based population data (N = 442,412). We find that separated, single parents are more likely to migrate than those in two-parent families. The same is true for repartnered mothers, while repartnered fathers are about as likely to migrate as fathers in two-parent families. Separated parents’ migration behaviour depends on where their children live. Having non-resident children who live some distance away is associated with a much higher likelihood of migrating than having resident children or non-resident children who live nearby. Having both resident and non-resident children who live nearby—shared residence (i.e. joint physical custody) is likely common in this situation—is associated with a considerably lower likelihood of migrating than having resident children only. Based on our findings, one would expect family complexities stemming from parental separation to be associated with higher rather than lower levels of migration. However, potential future increases in the number of parents who share physical custody after separation might lead to lower migration levels.",
+  "authors": [
+    {
+      "raw": "van der Wiel, Roselinde",
+      "family": "van der Wiel",
+      "given": "Roselinde"
+    },
+    {
+      "raw": "Kooiman, Niels",
+      "family": "Kooiman",
+      "given": "Niels"
+    },
+    {
+      "raw": "Mulder, Clara H.",
+      "family": "Mulder",
+      "given": "Clara H."
+    }
+  ],
+  "authors_text": "van der Wiel, Roselinde; Kooiman, Niels; Mulder, Clara H.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2021,
+  "doi": "10.1007/s10680-021-09594-0",
+  "doi_url": "https://doi.org/10.1007/s10680-021-09594-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-021-09594-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-021-09594-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

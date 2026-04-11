@@ -1,0 +1,35 @@
+{
+  "title": "A Meta-Analysis of the Association between Income Inequality and Intergenerational Mobility",
+  "abstract": "We provide an overview of associations between income inequality and intergenerational mobility in the United States, Canada, and eight European countries. We analyze whether this correlation is observed across and within countries over time. We investigate Great Gatsby curves and perform metaregression analyses based on several papers on this topic. Results suggest that countries with high levels of inequality tend to have lower levels of mobility. Intergenerational income elasticities have stronger associations with the Gini coefficient compared to associations with the top 1 percent income share. Once models are controlled for methodological variables, country indicators, and paper indicators, correlations of mobility with the Gini coefficient lose significance but not with the top 1 percent income share. This result is an indication that recent increases in inequality at the top of the distribution might be negatively affecting mobility on a greater magnitude compared to variations across the income distribution.",
+  "authors": [
+    {
+      "raw": "Amaral, Ernesto F. L.",
+      "family": "Amaral",
+      "given": "Ernesto F. L."
+    },
+    {
+      "raw": "Yen, Shih-Keng",
+      "family": "Yen",
+      "given": "Shih-Keng"
+    },
+    {
+      "raw": "Wang-Goodman, Sharron Xuanren",
+      "family": "Wang-Goodman",
+      "given": "Sharron Xuanren"
+    }
+  ],
+  "authors_text": "Amaral, Ernesto F. L.; Yen, Shih-Keng; Wang-Goodman, Sharron Xuanren",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119881282",
+  "doi_url": "https://doi.org/10.1177/2378023119881282",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119881282",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119881282.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

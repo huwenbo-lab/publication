@@ -1,0 +1,30 @@
+{
+  "title": "Household Size and Housework Time in Latin America",
+  "abstract": "This study investigates the relationship between household size and time spent on housework in Latin American countries, with a particular emphasis on gender differences. Drawing on data from time-use surveys conducted since 2009, it examines how housework distribution varies by household composition and individual characteristics such as employment status, education, and age. Our analysis reveals that larger households require more total housework, but economies of scale reduce the per capita workload as each additional household member does not proportionally increase the overall burden. Gender continues to shape the division of housework: as household size grows, women's housework time increases until households reach three to four members, after which it stabilizes or slightly decreases due to task-sharing among female members. In contrast, men's housework time decreases between one- and two-member households and remains largely unchanged with further increases in household size.",
+  "authors": [
+    {
+      "raw": "Garcia Roman, Joan",
+      "family": "Garcia Roman",
+      "given": "Joan"
+    },
+    {
+      "raw": "Martinez Mendiola, Anna",
+      "family": "Martinez Mendiola",
+      "given": "Anna"
+    }
+  ],
+  "authors_text": "Garcia Roman, Joan; Martinez Mendiola, Anna",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2025,
+  "doi": "10.1177/0192513x251356254",
+  "doi_url": "https://doi.org/10.1177/0192513x251356254",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x251356254",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x251356254.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Support exchanges between adult children and their parents across life transitions",
+  "abstract": "Objective This study examined whether adult children's transitions to marriage, parenthood, and divorce were related to intergenerational support exchanges. Background Intergenerational support fluctuates over the life span, often in response to major transitions, but surprisingly little research has examined longitudinally how life transitions shape the bidirectional flow of intergenerational support. Method Using data from adult children who participated in Waves 2, 4, 6, and 8 of the German Family Panel (pairfam) study, we estimated fixed effect models to explore how marital and parenthood transitions of adult children predict support exchanges between adult children and their parents (n = 5245 adult children's report of support exchanges with their mother and n = 4604 with their father; total 14,359 and 12,147 observations). Results Getting married was associated with adult children receiving less emotional support from mothers, while providing less instrumental support to their parents. Becoming a mother was associated with receiving more instrumental support from parents and receiving less material/financial support among adult children closer to their parents. When adult children became a parent, emotional and instrumental provision to mothers decreased. Getting divorced was associated with adult children receiving more emotional and material support from parents, but findings varied based on child gender and closeness with parents. Conclusion Adult children's life transitions influence patterns of support exchanged with their parents differentially based on parent-child gender composition and intergenerational closeness.",
+  "authors": [
+    {
+      "raw": "Min, Joohong",
+      "family": "Min",
+      "given": "Joohong"
+    },
+    {
+      "raw": "Johnson, Matthew D.",
+      "family": "Johnson",
+      "given": "Matthew D."
+    },
+    {
+      "raw": "Anderson, Jared R.",
+      "family": "Anderson",
+      "given": "Jared R."
+    },
+    {
+      "raw": "Yurkiw, Jennifer",
+      "family": "Yurkiw",
+      "given": "Jennifer"
+    }
+  ],
+  "authors_text": "Min, Joohong; Johnson, Matthew D.; Anderson, Jared R.; Yurkiw, Jennifer",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12787",
+  "doi_url": "https://doi.org/10.1111/jomf.12787",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12787",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12787.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

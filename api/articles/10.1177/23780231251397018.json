@@ -1,0 +1,30 @@
+{
+  "title": "The Outsized Impact of Behavioral Causes of Death on Longevity in the United States: Comparing Total and per Death Years of Life Lost",
+  "abstract": "How significant are behavioral causes of death—suicide, homicide, accidental poisoning, and traffic accidents—in determining how long Americans live? By “determining,” the authors mean limiting or reducing, as they are looking at factors (causes of death) that reduce an individual’s length of life. This data visualization portrays the extent to which deaths from homicide, suicide, traffic accidents, and accidental poisoning disproportionately affect longevity (average lifespan) in the United States. The impact on longevity is about three times greater, on average, for deaths from behavioral causes than for deaths from cancer or heart disease. The outsized impact of behavioral causes of death underscores their strategic importance for improving longevity in the United States.",
+  "authors": [
+    {
+      "raw": "Firebaugh, Glenn",
+      "family": "Firebaugh",
+      "given": "Glenn"
+    },
+    {
+      "raw": "Light, Michael T.",
+      "family": "Light",
+      "given": "Michael T."
+    }
+  ],
+  "authors_text": "Firebaugh, Glenn; Light, Michael T.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251397018",
+  "doi_url": "https://doi.org/10.1177/23780231251397018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251397018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251397018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

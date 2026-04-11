@@ -1,0 +1,30 @@
+{
+  "title": "The Effects of Recognition of Foreign Education for Newly Arrived Immigrants",
+  "abstract": "We analyze the effects of formal recognition of foreign higher education on employment probabilities and earnings for newly arrived immigrants in Sweden. Prior research has found that immigrants have lower returns on education if it was acquired in the country of origin than if it was acquired in the host country. One reason for this is that foreign credentials work poorly as productivity signals and risk-averse employers avoid employees with credentials they do not fully understand. A formal recognition statement can help overcome this problem by providing credible information about the foreign education, thus reducing uncertainty. Data consists of immigrants who, within the first ten years of residence in Sweden, had their foreign degree formally recognized during 2007-2011. Using fixed effects regressions, we estimate the treatment effect of official recognition to be 4.4 percentage points higher probability of being employed, and 13.9 log points higher wage for those with employment. We also find considerable treatment effect heterogeneity across subcategories of immigrants from different regions of origin, with different reasons for immigration and who obtained recognition during different economic conditions. Our conclusions are that the mechanism of employer uncertainty is real, and that recognition does reduce it. But as the signal of foreign education becomes better, other mechanisms such as human capital transferability problems and quality differences, and the ability to use foreign human capital, become more salient, leading to heterogeneous effects.",
+  "authors": [
+    {
+      "raw": "Tibajev, Andrey",
+      "family": "Tibajev",
+      "given": "Andrey"
+    },
+    {
+      "raw": "Hellgren, Carina",
+      "family": "Hellgren",
+      "given": "Carina"
+    }
+  ],
+  "authors_text": "Tibajev, Andrey; Hellgren, Carina",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcz011",
+  "doi_url": "https://doi.org/10.1093/esr/jcz011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

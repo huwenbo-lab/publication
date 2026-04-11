@@ -1,0 +1,40 @@
+{
+  "title": "Online Conspiracy Groups: Micro-Bloggers, Bots, and Coronavirus Conspiracy Talk on Twitter",
+  "abstract": "Conspiracies are consequential and social, yet online conspiracy groups that consist of individuals (and bots) seeking to explain events or a system have been neglected in sociology. We extract conspiracy talk about the COVID-19 pandemic on Twitter and use the biterm topic model (BTM) to provide a descriptive baseline for the discursive and social structure of online conspiracy groups. We find that individuals enter these communities through a gateway conspiracy theory before proceeding to extreme theories, and humans adopt more diverse conspiracy theories than do bots. Event-history analyses show that individuals tweet new conspiracy theories, and tweet inconsistent theories simultaneously, when they face a threat posed by a rising COVID-19 case rate and receive attention from others via retweets. By contrast, bots are less responsive to rising case rates, but they are more consistent, as they mainly tweet about how COVID-19 was deliberately created by sinister agents. These findings suggest human beings are bricoleurs who use conspiracy theories to make sense of COVID-19, whereas bots are designed to create moral panic. Our findings suggest that conspiracy talk by individuals is defensive in nature, whereas bots engage in offense.",
+  "authors": [
+    {
+      "raw": "Greve, Henrich R.",
+      "family": "Greve",
+      "given": "Henrich R."
+    },
+    {
+      "raw": "Rao, Hayagreeva",
+      "family": "Rao",
+      "given": "Hayagreeva"
+    },
+    {
+      "raw": "Vicinanza, Paul",
+      "family": "Vicinanza",
+      "given": "Paul"
+    },
+    {
+      "raw": "Zhou, Echo Yan",
+      "family": "Zhou",
+      "given": "Echo Yan"
+    }
+  ],
+  "authors_text": "Greve, Henrich R.; Rao, Hayagreeva; Vicinanza, Paul; Zhou, Echo Yan",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1177/00031224221125937",
+  "doi_url": "https://doi.org/10.1177/00031224221125937",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224221125937",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224221125937.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

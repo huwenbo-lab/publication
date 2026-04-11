@@ -1,0 +1,25 @@
+{
+  "title": "Material Signals: A Historical Sociology of High-Frequency Trading",
+  "abstract": "Drawing on interviews with 194 market participants (including 54 practitioners of high-frequency trading or HFT), this article first identifies the main classes of signals (patterns of data) that influence how HFT algorithms buy and sell shares and interact with each other. Second, it investigates historically the processes that have led to three of the most important categories of these signals, finding that they arise from three features of U.S. share trading that are the result of episodes of meso-level conflict. Third, the article demonstrates the contingency of these features by briefly comparing HFT in share trading to HFT in futures, Treasurys, and foreign exchange. The article thus argues that how HFT algorithms act and interact is a specific, contingent product not just of the current but also of the past interaction of people, organizations, algorithms, and machines.",
+  "authors": [
+    {
+      "raw": "MacKenzie, Donald",
+      "family": "MacKenzie",
+      "given": "Donald"
+    }
+  ],
+  "authors_text": "MacKenzie, Donald",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2018,
+  "doi": "10.1086/697318",
+  "doi_url": "https://doi.org/10.1086/697318",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F697318",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/697318.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

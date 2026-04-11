@@ -1,0 +1,25 @@
+{
+  "title": "Discrimination in the Credential Society: An Audit Study of Race and College Selectivity in the Labor Market",
+  "abstract": "Racial inequality in economic outcomes, particularly among the college educated, persists throughout US society. Scholars debate whether this inequality stems from racial differences in human capital (e.g., college selectivity, GPA, college major) or employer discrimination against black job candidates. However, limited measures of human capital and the inherent difficulties in measuring discrimination using observational data make determining the cause of racial differences in labor-market outcomes a difficult endeavor. In this research, I examine employment opportunities for white and black graduates of elite top-ranked universities versus high-ranked but less selective institutions. Using an audit design, I create matched candidate pairs and apply for 1,008 jobs on a national job-search website. I also exploit existing birth-record data in selecting names to control for differences across social class within racialized names. The results show that although a credential from an elite university results in more employer responses for all candidates, black candidates from elite universities only do as well as white candidates from less selective universities. Moreover, race results in a double penalty: When employers respond to black candidates, it is for jobs with lower starting salaries and lower prestige than those of white peers. These racial differences suggest that a bachelor's degree, even one from an elite institution, cannot fully counteract the importance of race in the labor market. Thus, both discrimination and differences in human capital contribute to racial economic inequality.",
+  "authors": [
+    {
+      "raw": "Gaddis, S. Michael",
+      "family": "Gaddis",
+      "given": "S. Michael"
+    }
+  ],
+  "authors_text": "Gaddis, S. Michael",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sou111",
+  "doi_url": "https://doi.org/10.1093/sf/sou111",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou111",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou111.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

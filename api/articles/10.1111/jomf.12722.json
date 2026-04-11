@@ -1,0 +1,25 @@
+{
+  "title": "Who Reacts to Less Restrictive Divorce Laws?",
+  "abstract": "Objective To study how divorce behavior in Denmark changed following a July 2013 reform that removed previous restriction on immediate divorce by repealing mandatory 6-month separation periods for uncontested divorces, instead allowing for immediate administrative divorce. Background Most countries have mandatory separation periods that couples undergo before they can divorce. Separation allows couples a grace period, during which they may reconcile and stay together. Yet, the impact of separation periods on divorce risk remains understudied. Methods Using monthly time series data on divorce rates from 2007 to 2018 (T = 144), the research brief estimates the size and shape of the policy impact of the July 2013 reform. Using monthly administrative population data on all ever-married couples (N*T = 11,304,566), the study further calculates the average characteristics of married couples in Denmark who would have remained together absent the reform. Results After an initial spike in the divorce rate driven by couples divorcing earlier, the divorce rate settled at a 10% higher level compared to pre-reform. Couples who divorced because of the reform had been married for fewer years compared to other divorced couples, were ethnic Danish, and had high school degree as the highest educational level. Conclusion Mandatory separation periods have a dampening effect on divorce rates.",
+  "authors": [
+    {
+      "raw": "Fallesen, Peter",
+      "family": "Fallesen",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Fallesen, Peter",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12722",
+  "doi_url": "https://doi.org/10.1111/jomf.12722",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12722",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12722.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

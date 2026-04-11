@@ -1,0 +1,25 @@
+{
+  "title": "On the Relationship between Poverty Segregation and Homelessness in the American City and Suburb",
+  "abstract": "Although existing scholarship notes that homelessness thrives in concentrated poverty, models estimating the association between the intensity of residential poverty segregation and local homelessness rates across communities remain absent from the literature. To fill this gap, the author considers this relationship for 272 homelessness Continuums of Care covering urban and suburban spaces spanning 43 states and the District of Columbia. Models suggest that poverty segregation is positively associated with the expected homelessness rate of a Continuum of Care, a relationship that remains significant when controlling for a range of established drivers of the condition. The author discusses this finding within a framework qualifying residential poverty segregation as both a cause and a consequence of the local prevalence of economic disadvantage that predicts homelessness via its relationship with disadvantage and unique spatial effects.",
+  "authors": [
+    {
+      "raw": "Muniz, Paul",
+      "family": "Muniz",
+      "given": "Paul"
+    }
+  ],
+  "authors_text": "Muniz, Paul",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/2378023121996871",
+  "doi_url": "https://doi.org/10.1177/2378023121996871",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023121996871",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023121996871.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

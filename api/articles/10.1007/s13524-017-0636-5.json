@@ -1,0 +1,40 @@
+{
+  "title": "Sequential Neighborhood Effects: The Effect of Long-Term Exposure to Concentrated Disadvantage on Children's Reading and Math Test Scores",
+  "abstract": "Prior research has suggested that children living in a disadvantaged neighborhood have lower achievement test scores, but these studies typically have not estimated causal effects that account for neighborhood choice. Recent studies used propensity score methods to account for the endogeneity of neighborhood exposures, comparing disadvantaged and nondisadvantaged neighborhoods. We develop an alternative propensity function approach in which cumulative neighborhood effects are modeled as a continuous treatment variable. This approach offers several advantages. We use our approach to examine the cumulative effects of neighborhood disadvantage on reading and math test scores in Los Angeles. Our substantive results indicate that recency of exposure to disadvantaged neighborhoods may be more important than average exposure for children's test scores. We conclude that studies of child development should consider both average cumulative neighborhood exposure and the timing of this exposure.",
+  "authors": [
+    {
+      "raw": "Hicks, Andrew L.",
+      "family": "Hicks",
+      "given": "Andrew L."
+    },
+    {
+      "raw": "Handcock, Mark S.",
+      "family": "Handcock",
+      "given": "Mark S."
+    },
+    {
+      "raw": "Sastry, Narayan",
+      "family": "Sastry",
+      "given": "Narayan"
+    },
+    {
+      "raw": "Pebley, Anne R.",
+      "family": "Pebley",
+      "given": "Anne R."
+    }
+  ],
+  "authors_text": "Hicks, Andrew L.; Handcock, Mark S.; Sastry, Narayan; Pebley, Anne R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-017-0636-5",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0636-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0636-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0636-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

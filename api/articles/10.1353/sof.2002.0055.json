@@ -1,0 +1,25 @@
+{
+  "title": "Parenthood and Health: The Pivotal and Optimal Age at First Birth",
+  "abstract": "Abstract:This study relates the health of U.S. adults ages 18 through 95 to parenthood and age at first birth, using data from a 1995 telephone survey. Health measures include perceived health, energy and fitness, physical impairment, chronic conditions, and aches and pains. Results show a generally positive association between health and age at first birth that is linear for men and parabolic for women, with maximum health predicted for mothers who had a first birth around age 30.5. The correlation of parenthood with health depends on age at first birth, switching from negative to positive with delay beyond age 21.8. The increments in health associated with delay up to that age are greater for mothers than for fathers, but significant for both.",
+  "authors": [
+    {
+      "raw": "Mirowsky, J.",
+      "family": "Mirowsky",
+      "given": "J."
+    }
+  ],
+  "authors_text": "Mirowsky, J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2002,
+  "doi": "10.1353/sof.2002.0055",
+  "doi_url": "https://doi.org/10.1353/sof.2002.0055",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2002.0055",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2002.0055.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Decomposing Heterogeneity in Inequality of Educational Opportunities: Family Income and Academic Performance in Brazilian Higher Education",
+  "abstract": "Access to higher education depends on the interaction between social origins and academic performance: background resources boost academic skills; but even when controlling for performance, privileged students are more likely to make ambitious choices and further transitions. Recent literature has shown that inequality in educational choices is heterogeneous across countries. However, it is still not well understood how different institutional designs within countries may affect the workings of those effects and how they can strengthen or weaken the inequality of educational opportunities. Using high-quality register data from the Brazilian higher education system, our work contributes to this understanding by investigating how SES and performance interact and drive students' choice between three different tracks: not entering higher education, entering the private system, or entering the public system. We developed a strategy to encompass multinomial choices and decompose the inequalities into primary and secondary effects. Using the Shapley Value decomposition strategy, we correct an intrinsic asymmetry that biased previous results. Our findings suggest affluent students enjoy dual advantages: high exam performance amplifies access to public universities (indirect effect) and family resources offset subpar performance, ensuring private university access (direct effect). We found no signs of multiplicative advantages.",
+  "authors": [
+    {
+      "raw": "Senkevics, Adriano",
+      "family": "Senkevics",
+      "given": "Adriano"
+    },
+    {
+      "raw": "Barbosa, Rogério",
+      "family": "Barbosa",
+      "given": "Rogério"
+    },
+    {
+      "raw": "Carvalhaes, Flavio",
+      "family": "Carvalhaes",
+      "given": "Flavio"
+    },
+    {
+      "raw": "Costa Ribeiro, Carlos",
+      "family": "Costa Ribeiro",
+      "given": "Carlos"
+    }
+  ],
+  "authors_text": "Senkevics, Adriano; Barbosa, Rogério; Carvalhaes, Flavio; Costa Ribeiro, Carlos",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2024,
+  "doi": "10.15195/v11.a31",
+  "doi_url": "https://doi.org/10.15195/v11.a31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv11.a31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v11.a31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

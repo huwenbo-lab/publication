@@ -1,0 +1,30 @@
+{
+  "title": "Misery Needs Company: Contextualizing the Geographic and Temporal Link between Unemployment and Suicide",
+  "abstract": "Despite long-standing evidence linking higher unemployment rates to increased suicide rates, a puzzling trend emerged in the United States after the Great Recession: suicide rates continued to rise even as unemployment rates declined. Drawing on theories of social networks and reference groups, we advance the concept of sameness-in this case, the extent to which an individual's employment status aligns with the fate of others in one's community-to clarify how unemployment rates influence suicide. Constructing a multilevel dataset of U.S. suicide deaths from 2005 to 2017, we find that while unemployed individuals face a higher risk of suicide compared to the employed, this gap diminishes in communities with high local unemployment rates. Moreover, the sameness effect extends beyond geographic contexts to temporal ones, as national unemployment spikes reduce suicide risk among the unemployed and diminish the importance of local sameness. Together, these findings suggest a mechanism of situational awareness, whereby local and national economic contexts shape the meaning of unemployment, shifting its interpretation from personal failure to system failure and reducing its stigma. Our article offers a novel framework for examining the effects of cross-level interactions in suicide research, highlighting the crucial role of culture as deeply intertwined with social network mechanisms in shaping contextual influence.",
+  "authors": [
+    {
+      "raw": "Lee, Byungkyu",
+      "family": "Lee",
+      "given": "Byungkyu"
+    },
+    {
+      "raw": "Pescosolido, Bernice A.",
+      "family": "Pescosolido",
+      "given": "Bernice A."
+    }
+  ],
+  "authors_text": "Lee, Byungkyu; Pescosolido, Bernice A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1177/00031224241288179",
+  "doi_url": "https://doi.org/10.1177/00031224241288179",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224241288179",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224241288179.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

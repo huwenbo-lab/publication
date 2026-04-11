@@ -1,0 +1,30 @@
+{
+  "title": "Projection of US adult obesity trends based on individual BMI trajectories",
+  "abstract": "BACKGROUND Adult obesity has been increasing in the United States since the 1980s. Its future prevalence will be a key determinant for public health. For the cohorts now in young adulthood, the future prevalence of obesity will depend on current prevalence and future increase in weight. METHODS We pooled 92,615 body-mass index (BMI) measures from 26,337 adults interviewed and examined by the National Health and Nutrition Examination Survey (NHANES). We analyzed participants examined between ages 25 and 55 in the years 1998-2018. We applied a functional data analysis technique to probabilistically reconstruct individual BMI trajectories in order to investigate the future prevalence of obesity and severe obesity at age 55, and the mean time spent being obese and severely obese between ages 25 and 55. RESULTS We found that the prevalence of obesity at age 55 is expected to reach 58% (95% UI, 54%- 61%) for females born in 1984-1988 and 57% (95% UI, 53%-61%) for males born in the same cohort. The prevalence of severe obesity at age 55 will increase rapidly in both sexes. Time spent being obese will increase; e.g., for females from 10.7 years (95% UI, 10.4-10.9 years) in the 1964-1968 cohort to 14.7 years (95% UI, 14.2-15.3 years) in the 1984-1988 birth cohort. CONCLUSIONS Although obesity prevalence may level off in the coming decades, higher prevalence of severe obesity and longer durations of obesity are expected to increase the population burden of this disease. CONTRIBUTION Prior research has suggested that prevalence of obesity may level off in the United States. Using innovative functional data analysis methods to probabilistically forecast future obesity, we find that severe obesity and years lived obese will continue to increase. Even if the prevalence of obesity stabilizes, the overall burden of obesity may continue to increase.",
+  "authors": [
+    {
+      "raw": "Todd, Nicolas",
+      "family": "Todd",
+      "given": "Nicolas"
+    },
+    {
+      "raw": "Myrskyla, Mikko",
+      "family": "Myrskyla",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Todd, Nicolas; Myrskyla, Mikko",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.13",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

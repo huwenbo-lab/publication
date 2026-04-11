@@ -1,0 +1,30 @@
+{
+  "title": "High Fertility in City Suburbs: Compositional or Contextual Effects?",
+  "abstract": "Fertility rates are known to be higher in city suburbs. One interpretation is that the suburban ‘context’ influences the behaviour of individuals who reside there while an alternative is that the ‘composition’ of the suburban population explains the higher fertility levels. Furthermore, suburban in-migrants who intend to have children may have a significant influence on suburban fertility rates. Using Finnish longitudinal register data we show that fertility rates are higher in the suburbs and rural areas and lower in the cities. Fertility variation across these residential contexts decreases significantly after controlling for women’s demographic and socio-economic characteristics. However, it does not disappear entirely suggesting that the local context may have some influence on fertility. While movers to suburbs do display higher fertility levels than non-migrant residents, their overall impact is not great because they form a small share of the suburban population.RésuméLes taux de fécondité sont connus pour être plus élevés dans les banlieues que dans les villes. Cette caractéristique pourrait s’expliquer soit un effet du ‘contexte’ suburbain sur le comportement des individus, soit par le rôle de la ‘composition’ de la population. De plus, les migrants récemment arrivés en banlieue et qui souhaitent avoir des enfants pourraient exercer une influence significative sur les taux de fécondité dans ces zones. A l’aide de données longitudinales de registre finlandais, nous établissons que les taux de fécondité sont plus élevés dans les banlieues et les zones rurales que dans les villes. Les variations entre contextes résidentiels se réduisent significativement après prise en compte des caractéristiques démographiques et socio-économiques des femmes. Toutefois, ces variations ne disparaissent pas entièrement, ce qui laisse penser que le contexte local pourrait exercer une influence sur la fécondité. Alors que les nouveaux arrivants dans les banlieues ont une fécondité plus élevée que les habitants de longue date, leur rôle reste limité car ils ne constituent qu’une petite part de la population suburbaine.",
+  "authors": [
+    {
+      "raw": "Kulu, H.",
+      "family": "Kulu",
+      "given": "H."
+    },
+    {
+      "raw": "Boyle, P. J.",
+      "family": "Boyle",
+      "given": "P. J."
+    }
+  ],
+  "authors_text": "Kulu, H.; Boyle, P. J.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2008,
+  "doi": "10.1007/s10680-008-9163-9",
+  "doi_url": "https://doi.org/10.1007/s10680-008-9163-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-008-9163-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-008-9163-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

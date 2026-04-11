@@ -1,0 +1,35 @@
+{
+  "title": "Maximum Likelihood for Cross-lagged Panel Models with Fixed Effects",
+  "abstract": "Panel data make it possible both to control for unobserved confounders and allow for lagged, reciprocal causation. Trying to do both at the same time, however, leads to serious estimation difficulties. In the econometric literature, these problems have been solved by using lagged instrumental variables together with the generalized method of moments (GMM). Here we show that the same problems can be solved by maximum likelihood (ML) estimation implemented with standard software packages for structural equation modeling (SEM). Monte Carlo simulations show that the ML-SEM method is less biased and more efficient than the GMM method under a wide range of conditions. ML-SEM also makes it possible to test and relax many of the constraints that are typically embodied in dynamic panel models.",
+  "authors": [
+    {
+      "raw": "Allison, Paul D.",
+      "family": "Allison",
+      "given": "Paul D."
+    },
+    {
+      "raw": "Williams, Richard",
+      "family": "Williams",
+      "given": "Richard"
+    },
+    {
+      "raw": "Moral-Benito, Enrique",
+      "family": "Moral-Benito",
+      "given": "Enrique"
+    }
+  ],
+  "authors_text": "Allison, Paul D.; Williams, Richard; Moral-Benito, Enrique",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2017,
+  "doi": "10.1177/2378023117710578",
+  "doi_url": "https://doi.org/10.1177/2378023117710578",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023117710578",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023117710578.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

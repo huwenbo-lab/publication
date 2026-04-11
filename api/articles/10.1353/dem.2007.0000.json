@@ -1,0 +1,30 @@
+{
+  "title": "Should i stay or should i go? The impact of age norms on leaving home",
+  "abstract": "Abstract This article studies the association between social norms and the timing of leaving home. Although largely overlooked by most recent studies on leaving home, life-course theory suggests that age norms and age grading influence life-course decisions in general and leaving home in particular. We use Fishbein and Ajzen’s model of “reasoned behavior” to integrate this strand of research with the more individualistic view that dominates current thinking. Using data from a Dutch panel survey, we use a Cox regression model with a control for sample selection to estimate the association between perceived age norms and the timing of leaving home. We show that perceived opinions of parents are associated with the actual timing of leaving the parental home but that societal norms and friends’ norms concerning the timing of leaving home are not. In addition, the timing of leaving home is also associated with the perceived costs and benefits of leaving home and with the perceived housing market situation.",
+  "authors": [
+    {
+      "raw": "Billari, Francesco C.",
+      "family": "Billari",
+      "given": "Francesco C."
+    },
+    {
+      "raw": "Liefbroer, Aart C.",
+      "family": "Liefbroer",
+      "given": "Aart C."
+    }
+  ],
+  "authors_text": "Billari, Francesco C.; Liefbroer, Aart C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0000",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0000",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0000",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0000.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

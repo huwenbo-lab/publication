@@ -1,0 +1,35 @@
+{
+  "title": "Modeling municipal solid waste generation in Macau: A synthetic approach",
+  "abstract": "With the development of urbanization during the past few decades, municipal solid waste generated in urban areas has posed serious challenges to the local environment in many cities around the world, such as Macau. Residential and touristic activities are the two primary sources of solid waste in Macau; however, it is still unclear how to predict solid waste generation and which indicators of these two sources could be used to do so. Taking advantage of data published by government agencies in Macau from 2010 to 2021, our study explores the possibility of using publicly available data to predict the trend of monthly municipal solid waste generation in Macau. In particular, we adopt a machine learning strategy and compare six predictive models that implement both conventional and state-of-the-art machine learning methods. Our results indicate that the generalized additive model outperformed the rest of the models in predicting municipal solid waste generation in Macau and is more suitable when data present strong seasonality and potential domain shift. Consistent with the previous literature, both population-level and household-level factors contribute to municipal solid waste generation, including population density, income level, household energy consumption, and household size. In addition, our results confirm that tourism activities-especially tourists' spending on non-tradable goods and services-positively affect municipal solid waste generation.",
+  "authors": [
+    {
+      "raw": "Lan, Qing",
+      "family": "Lan",
+      "given": "Qing"
+    },
+    {
+      "raw": "Guo, Haonan",
+      "family": "Guo",
+      "given": "Haonan"
+    },
+    {
+      "raw": "Cai, Tianji",
+      "family": "Cai",
+      "given": "Tianji"
+    }
+  ],
+  "authors_text": "Lan, Qing; Guo, Haonan; Cai, Tianji",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1177/2057150x241312987",
+  "doi_url": "https://doi.org/10.1177/2057150x241312987",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x241312987",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x241312987.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Returns on education amongst men in England and Wales: The impact of residential segregation and ethno-religious background",
+  "abstract": "Individuals' occupational and educational attainment is influenced by their ethnicity, religion and colour in the UK and elsewhere. In this paper, we analyse the impact of ethnicity, religion and colour along with residential segregation(1) and socio-economic deprivation on returns to education for men in England and Wales. We analyse the 2001 UK census data by employing multi-level logistic regression models. It is found that non-White groups including Christian Black-African, UK born Sikh-Indians and South Asian Muslims are found to suffer an ethnic penalty compared to Christian White-British. While there is evidence to suggest that Muslim men may experience a greater penalty compared to some non-Whites other non-Muslim groups too face ethno-religious penalties, sometimes even more severely such as in the case of Christian Black-Africans. Socio-economic difficulties faced by ethnic minorities are also linked to spatial segregation only when associated with high levels of area deprivation. This suggests that what matters may not be segregation per se, but whether or not it is associated with deprivation. (C) 2012 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Khattab, Nabil",
+      "family": "Khattab",
+      "given": "Nabil"
+    },
+    {
+      "raw": "Johnston, Ron",
+      "family": "Johnston",
+      "given": "Ron"
+    },
+    {
+      "raw": "Sirkeci, Ibrahim",
+      "family": "Sirkeci",
+      "given": "Ibrahim"
+    },
+    {
+      "raw": "Modood, Tariq",
+      "family": "Modood",
+      "given": "Tariq"
+    }
+  ],
+  "authors_text": "Khattab, Nabil; Johnston, Ron; Sirkeci, Ibrahim; Modood, Tariq",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2012,
+  "doi": "10.1016/j.rssm.2012.03.002",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2012.03.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2012.03.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2012.03.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

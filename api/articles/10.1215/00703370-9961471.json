@@ -1,0 +1,55 @@
+{
+  "title": "Determinants of Disparities in Early COVID-19 Job Losses",
+  "abstract": "This study examines the sociodemographic divide in early labor market responses to the U.S. COVID-19 epidemic and associated policies, benchmarked against two previous recessions. Monthly Current Population Survey (CPS) data show greater declines in employment in April and May 2020 (relative to February) for Hispanic individuals, younger workers, and those with a high school diploma or some college. Between April and May, the demographic subgroups considered regained some employment. Reemployment in May was broadly proportional to the employment drop that occurred through April, except for Black individuals, who experienced a smaller rebound. Compared to the 2001 recession and the Great Recession, employment losses in the early COVID-19 recession were smaller for groups with low or high (vs. medium) education. We show that job loss was greater in occupations that require more interpersonal contact and that cannot be performed remotely, and that pre-COVID-19 sorting of workers into occupations and industries along demographic lines can explain a sizable portion of the demographic gaps in new unemployment. For example, while women suffered more job losses than men, their disproportionate pre-epidemic sorting into occupations compatible with remote work shielded them from even larger employment losses. However, substantial gaps in employment losses across groups cannot be explained by socioeconomic differences. We consider policy lessons and future research needs regarding the early labor market implications of the COVID-19 crisis.",
+  "authors": [
+    {
+      "raw": "Montenovo, Laura",
+      "family": "Montenovo",
+      "given": "Laura"
+    },
+    {
+      "raw": "Jiang, Xuan",
+      "family": "Jiang",
+      "given": "Xuan"
+    },
+    {
+      "raw": "Lozano-Rojas, Felipe",
+      "family": "Lozano-Rojas",
+      "given": "Felipe"
+    },
+    {
+      "raw": "Schmutte, Ian",
+      "family": "Schmutte",
+      "given": "Ian"
+    },
+    {
+      "raw": "Simon, Kosali",
+      "family": "Simon",
+      "given": "Kosali"
+    },
+    {
+      "raw": "Weinberg, Bruce A.",
+      "family": "Weinberg",
+      "given": "Bruce A."
+    },
+    {
+      "raw": "Wing, Coady",
+      "family": "Wing",
+      "given": "Coady"
+    }
+  ],
+  "authors_text": "Montenovo, Laura; Jiang, Xuan; Lozano-Rojas, Felipe; Schmutte, Ian; Simon, Kosali; Weinberg, Bruce A.; Wing, Coady",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9961471",
+  "doi_url": "https://doi.org/10.1215/00703370-9961471",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9961471",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9961471.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

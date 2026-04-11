@@ -1,0 +1,35 @@
+{
+  "title": "Gender, Relationship Breakdown, and Suicide Risk",
+  "abstract": "An association between divorce and suicide risk has been noted in numerous studies, but the gender profile of this risk has not been clearly established. This article reviews the evidence on gender differentials in suicide risk following the breakdown of an intimate relationship (including divorce and separation). Nineteen published articles that included individual-level data were identified. Twelve reported a greater risk of suicide in men following relationship breakdown, two indicated a greater risk in women, and a further five showed no clear gender differential. Although there are possible indications of increased risk for men, no definitive conclusion about gender differential can be drawn. Furthermore, research is required that directly compares men with women for suicide risk following relationship breakdown.",
+  "authors": [
+    {
+      "raw": "Evans, Rhiannon",
+      "family": "Evans",
+      "given": "Rhiannon"
+    },
+    {
+      "raw": "Scourfield, Jonathan",
+      "family": "Scourfield",
+      "given": "Jonathan"
+    },
+    {
+      "raw": "Moore, Graham",
+      "family": "Moore",
+      "given": "Graham"
+    }
+  ],
+  "authors_text": "Evans, Rhiannon; Scourfield, Jonathan; Moore, Graham",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2016,
+  "doi": "10.1177/0192513x14562608",
+  "doi_url": "https://doi.org/10.1177/0192513x14562608",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x14562608",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x14562608.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

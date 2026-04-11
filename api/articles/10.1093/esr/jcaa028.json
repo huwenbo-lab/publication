@@ -1,0 +1,30 @@
+{
+  "title": "'Primary' Factors in Intergenerational Class Mobility in Europe: Results from the Application of a Topological Model",
+  "abstract": "There is little consensus in past research regarding the sources of cross-national variation in relative rates of intergenerational class mobility. We argue for the importance of distinguishing between 'primary' factors that explain why inequalities in relative chances of mobility exist in the first place, and 'secondary' factors that explain variation in these chances. Our main aim is to identify primary factors. We follow Erikson and Goldthorpe in developing a topological model of the endogenous mobility regime which we then apply to class mobility tables for 30 European nations. The model claims that inequalities in relative class mobility chances derive from three kinds of effect: those of class hierarchy, class inheritance and status affinity. When applied to all nations together, the model accounts for the very large part of the total association between class origins and destinations. Clear differences, however, show up between the mobility regimes of men and of women: gender is a secondary factor. When the model is applied separately to nations in the high fluidity and low fluidity sets that we distinguish, we find that the effects of the primary factors identified by our model strengthen in a consistent way from the former set to the latter, although it seems likely that different secondary factors may operate in offsetting ways. Finally, when the model is applied to the groups of nations that we distinguish within the high and low fluidity sets, few differences in the strengths of the various effects show up, but those that do are highly concentrated in post-socialist nations and can be related to secondary factors of a specific kind associated with particular features of their transitions to some form of capitalist democracy.",
+  "authors": [
+    {
+      "raw": "Bukodi, Erzsebet",
+      "family": "Bukodi",
+      "given": "Erzsebet"
+    },
+    {
+      "raw": "Goldthorpe, John H.",
+      "family": "Goldthorpe",
+      "given": "John H."
+    }
+  ],
+  "authors_text": "Bukodi, Erzsebet; Goldthorpe, John H.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa028",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

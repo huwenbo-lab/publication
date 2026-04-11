@@ -1,0 +1,30 @@
+{
+  "title": "Dealing with categorical data in a multidimensional context: The multidimensional balanced worth",
+  "abstract": "This paper presents an evaluation protocol that permits evaluating the relative performance of a set of populations in a multidimensional context when outcomes are measured in terms of categorical variables. This problem appears in many different fields, such as Medicine, Social Sciences, or Engineering. The key ingredient for this evaluation is comparing the likelihood of achieving higher performance levels in the different dimensions. This way of addressing this family of problems derives from extending the balanced worth (Herrero and Villar, 2018) to a multidimensional setting. This evaluation protocol is illustrated by means of two empirical applications regarding life satisfaction in Europe and multidimensional poverty measurement in Spain.",
+  "authors": [
+    {
+      "raw": "Herrero, Carmen",
+      "family": "Herrero",
+      "given": "Carmen"
+    },
+    {
+      "raw": "Villar, Antonio",
+      "family": "Villar",
+      "given": "Antonio"
+    }
+  ],
+  "authors_text": "Herrero, Carmen; Villar, Antonio",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102561",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102561",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102561",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102561.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

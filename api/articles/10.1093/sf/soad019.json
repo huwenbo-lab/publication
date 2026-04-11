@@ -1,0 +1,25 @@
+{
+  "title": "School Shootings, Protests, and the Gun Culture in the United States",
+  "abstract": "Scholars document that attitudes toward guns and gun policy reflect deeply entrenched cultures that overlap with ideological affiliations and party politics. Does exposure to dramatic events such as school shootings and protests regarding gun control affect these patterns? I explore two aspects of the gun culture: attitudes favoring (or rejecting) stricter gun policies and the number of memberships in a key organization supporting the expansion of gun rights, the National Rifle Association (NRA). I first argue that school shootings are significant triggering events that become associated with attitudes favoring gun restrictions. A second argument holds that while triggering events such as school shootings reinvigorate the growth of a gun-rights organization, school shootings that are also accompanied by gun-control protests will decrease growth in that organization. To examine these ideas, I combine information from national exit poll data on respondents' attitudes toward gun policy with state-level information on the counts of recent school shootings, gun-policy protests, existing laws restricting gun use, and membership in the NRA. To minimize problems associated with observational data, the analysis of public opinion applies Coarsened Exact Matching techniques followed by analysis using mixed-level logit. The second analysis uses data on gun control protests, school shootings, and NRA memberships in states over time. Results show that conservatives (but not liberals) exposed to more school shootings favor more restrictive gun policies. The second, longitudinal analysis found that there is a significant interaction effect between increases in school shootings and gun control protests that diminishes NRA memberships significantly.",
+  "authors": [
+    {
+      "raw": "Olzak, Susan",
+      "family": "Olzak",
+      "given": "Susan"
+    }
+  ],
+  "authors_text": "Olzak, Susan",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soad019",
+  "doi_url": "https://doi.org/10.1093/sf/soad019",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad019",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad019.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Individual Troubles, Shared Troubles: The Multiplicative Effect of Individual and Country-Level Unemployment on Life Satisfaction in 95 Nations (1981-2009)",
+  "abstract": "Although the negative association between unemployment and life satisfaction is well documented, much theoretical and empirical controversy surrounds the question of how unemployment actually shapes life satisfaction. Previous studies suggest that unemployment may endanger subjective well-being through individual experiences, contextual influences, or a combination of both. Drawing on data from the World and European Values Surveys, National Accounts Official Country Data, Social Security Programs Throughout the World Reports, World Development Indicators, and World Income Inequality databases for 398,533 individuals in 95 nations (1981-2009), we use three-level hierarchical linear models to test four competing theory-based hypotheses-that unemployment shapes life satisfaction through individual, contextual, additive, or multiplicative effects. Our results support a multiplicative interaction between individual- and country-level unemployment. Unemployed individuals are less satisfied than other individuals, and when unemployment rates rise, their satisfaction drops even further below students, homemakers, and employed individuals; retirees, however, become more similar to the unemployed. We discuss these findings in light of previous theoretical models to argue for a model where individual unemployment is understood in the context of diverse labor force statuses and national unemployment rates. We conclude with policy suggestions aiming to address the negative consequences of unemployment through individualized and contextualized plans.",
+  "authors": [
+    {
+      "raw": "Calvo, Esteban",
+      "family": "Calvo",
+      "given": "Esteban"
+    },
+    {
+      "raw": "Mair, Christine A.",
+      "family": "Mair",
+      "given": "Christine A."
+    },
+    {
+      "raw": "Sarkisian, Natalia",
+      "family": "Sarkisian",
+      "given": "Natalia"
+    }
+  ],
+  "authors_text": "Calvo, Esteban; Mair, Christine A.; Sarkisian, Natalia",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sou109",
+  "doi_url": "https://doi.org/10.1093/sf/sou109",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou109",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou109.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

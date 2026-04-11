@@ -1,0 +1,40 @@
+{
+  "title": "Visualizing the Geographic and Demographic Distribution of COVID-19",
+  "abstract": "Whereas African Americans are disproportionately among the coronavirus disease 2019 (COVID-19) pandemic’s sick and dead, less is known about whether some racial/ethnic groups are more likely to be affected in Canada. In this data visualization, the authors address two issues limiting understanding of the spatial and demographic distribution of the COVID-19 pandemic in Canada: (1) COVID-19 infection and death counts are collected at a very high level of geographic aggregation, and (2) these counts are not tallied by sociodemographic group, including race/ethnicity. The authors use a bivariate choropleth map to illustrate the correlation between COVID-19 infections and the percentage of residents who are Black across census subdivisions. Canada is more similar to the United States than expected in this respect: areas with higher shares of Black Canadians also see more infections.",
+  "authors": [
+    {
+      "raw": "Denice, Patrick",
+      "family": "Denice",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Choi, Kate H.",
+      "family": "Choi",
+      "given": "Kate H."
+    },
+    {
+      "raw": "Haan, Michael",
+      "family": "Haan",
+      "given": "Michael"
+    },
+    {
+      "raw": "Zajacova, Anna",
+      "family": "Zajacova",
+      "given": "Anna"
+    }
+  ],
+  "authors_text": "Denice, Patrick; Choi, Kate H.; Haan, Michael; Zajacova, Anna",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120948715",
+  "doi_url": "https://doi.org/10.1177/2378023120948715",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120948715",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120948715.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

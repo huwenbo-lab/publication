@@ -1,0 +1,30 @@
+{
+  "title": "Working from home and bi-directional work-family conflict: Longitudinal evidence from Australian parents",
+  "abstract": "ObjectiveThis study investigates the effects of working from home (WFH) on both work-to-family conflict (WTFC) and family-to-work conflict (FTWC) among parents, and whether family demands and the COVID-19 pandemic moderate these effects.BackgroundThe COVID-19 pandemic saw a marked increase in the incidence of WFH in many countries, which many argue has been beneficial for families. Convincing evidence in support of this hypothesis, however, is scarce.MethodPanel data from 19 waves of the Household, Income and Labour Dynamics in Australia (HILDA) Survey (covering the period 2001 to 2021) are used to estimate fixed effects regression models of both FTWC and WTFC where the explanatory variable of interest is the share of usual weekly work hours worked from home. The sample is restricted to working parents aged between 18 and 64 years (9850 persons; 54,764 observations).ResultsFor both genders, the level of WTFC declines with the proportion of time worked from home. By contrast, the association between WFH and FTWC differs between mothers and fathers, with FTWC lower for mothers but higher for fathers (and especially for single fathers and those with young children) when working mostly from home. These associations remained largely unchanged during the pandemic.ConclusionWFH is particularly beneficial for mothers' reconciliation of work and family life but has ambivalent effects for fathers. This, in turn, may mean mothers will be more likely than fathers to have preferences for continuing WFH post pandemic.",
+  "authors": [
+    {
+      "raw": "Lass, Inga",
+      "family": "Lass",
+      "given": "Inga"
+    },
+    {
+      "raw": "Wooden, Mark",
+      "family": "Wooden",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Lass, Inga; Wooden, Mark",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13062",
+  "doi_url": "https://doi.org/10.1111/jomf.13062",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13062",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13062.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

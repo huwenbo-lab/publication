@@ -1,0 +1,50 @@
+{
+  "title": "Research Note: COVID-19 Is Not an Independent Cause of Death",
+  "abstract": "The COVID-19 pan demic has had over whelm ing global impacts with del e-te ri ous social, eco nomic, and health con se quences. To assess the COVID-19 death toll, research ers have esti mated declines in 2020 life expec tancy at birth (e0). When data are avail able only for COVID-19 deaths, but not for deaths from other causes, the risks of dying from COVID-19 are typ i cally assumed to be inde pen dent of those from other causes. In this research note, we explore the sound ness of this assump tion using data from the United States and Brazil, the countries with the larg est num ber of reported COVID-19 deaths. We use three meth ods: one esti ma tes the dif fer ence between 2019 and 2020 life tables and there fore does not require the assump tion of inde pen dence, and the other two assume inde pen dence to sim u late sce nar ios in which COVID-19 mor tal ity is added to 2019 death rates or is elim i nated from 2020 rates. Our results reveal that COVID-19 is not inde pen dent of other causes of death. The assump tion of inde pen dence can lead to either an over es ti mate (Brazil) or an under es ti mate (United States) of the decline in e0, depending on how the num ber of other reported causes of death changed in 2020.",
+  "authors": [
+    {
+      "raw": "Castro, Marcia C.",
+      "family": "Castro",
+      "given": "Marcia C."
+    },
+    {
+      "raw": "Gurzenda, Susie",
+      "family": "Gurzenda",
+      "given": "Susie"
+    },
+    {
+      "raw": "Turra, Cassio M.",
+      "family": "Turra",
+      "given": "Cassio M."
+    },
+    {
+      "raw": "Kim, Sun",
+      "family": "Kim",
+      "given": "Sun"
+    },
+    {
+      "raw": "Andrasfay, Theresa",
+      "family": "Andrasfay",
+      "given": "Theresa"
+    },
+    {
+      "raw": "Goldman, Noreen",
+      "family": "Goldman",
+      "given": "Noreen"
+    }
+  ],
+  "authors_text": "Castro, Marcia C.; Gurzenda, Susie; Turra, Cassio M.; Kim, Sun; Andrasfay, Theresa; Goldman, Noreen",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10575276",
+  "doi_url": "https://doi.org/10.1215/00703370-10575276",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10575276",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10575276.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Stratifying lifestyle and social class in urban China",
+  "abstract": "This study adopts Bourdieu's relational analytical strategy to investigate the relation between lifestyle and social stratification in the Chinese urban population. Multiple correspondence analysis and clustering illuminate a typology of four lifestyles: (1) disengagement from consumer culture, (2) self-restrained consumption of highbrow products, (3) preference for intellectualized and ephemeral leisure activities, and (4) economically and culturally well-established consumer-buyers. A multinomial logistics regression validates the association of lifestyle with cultural and economic capital. Capital structure seems less influential in China than in Western European societies, while generation emerges as a unique differentiator under rapid social transformation.",
+  "authors": [
+    {
+      "raw": "Tian, Langyi",
+      "family": "Tian",
+      "given": "Langyi"
+    },
+    {
+      "raw": "Boucher, Aurelien",
+      "family": "Boucher",
+      "given": "Aurelien"
+    }
+  ],
+  "authors_text": "Tian, Langyi; Boucher, Aurelien",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1080/21620555.2021.1872017",
+  "doi_url": "https://doi.org/10.1080/21620555.2021.1872017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2021.1872017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2021.1872017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

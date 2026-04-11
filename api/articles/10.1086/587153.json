@@ -1,0 +1,55 @@
+{
+  "title": "The social dynamics of mathematics coursetaking in high school",
+  "abstract": "This study examines how high school boys' and girls' academic effort, in the form of math coursetaking, is influenced by members of their social contexts. The authors argue that adolescents' social contexts are defined, in part, by clusters of students ( termed local positions) who take courses that differentiate them from others. Using course transcript data from the recent Adolescent Health and Academic Achievement Study, the authors employ a new network algorithm to identify local positions in 78 high schools in the National Longitudinal Study of Adolescent Health. Incorporating the local positions into multilevel models of math coursetaking, the authors find that girls are highly responsive to the social norms in their local positions, which contributes to homogeneity within and heterogeneity between local positions.",
+  "authors": [
+    {
+      "raw": "Frank, Kenneth A.",
+      "family": "Frank",
+      "given": "Kenneth A."
+    },
+    {
+      "raw": "Muller, Chandra",
+      "family": "Muller",
+      "given": "Chandra"
+    },
+    {
+      "raw": "Schiller, Kathryn S.",
+      "family": "Schiller",
+      "given": "Kathryn S."
+    },
+    {
+      "raw": "Riegle-Crumb, Catherine",
+      "family": "Riegle-Crumb",
+      "given": "Catherine"
+    },
+    {
+      "raw": "Mueller, Anna Strassmann",
+      "family": "Mueller",
+      "given": "Anna Strassmann"
+    },
+    {
+      "raw": "Crosnoe, Robert",
+      "family": "Crosnoe",
+      "given": "Robert"
+    },
+    {
+      "raw": "Pearson, Jennifer",
+      "family": "Pearson",
+      "given": "Jennifer"
+    }
+  ],
+  "authors_text": "Frank, Kenneth A.; Muller, Chandra; Schiller, Kathryn S.; Riegle-Crumb, Catherine; Mueller, Anna Strassmann; Crosnoe, Robert; Pearson, Jennifer",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2008,
+  "doi": "10.1086/587153",
+  "doi_url": "https://doi.org/10.1086/587153",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F587153",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/587153.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

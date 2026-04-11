@@ -1,0 +1,40 @@
+{
+  "title": "Marital Quality and Health Over 20 Years: A Growth Curve Analysis",
+  "abstract": "Although there is substantial evidence linking marital quality to physical health, few studies have been longitudinal. This study examined data from the Marital Instability Over the Life Course Study; 1,681 married individuals followed for 20 years were included in these analyses. In order to control for life course effects, participants were divided into 2 cohorts: early life and midlife. On the basis of latent growth curve analysis, the results indicated that initial values of marital happiness and marital problems were significantly associated with the initial value of physical health among both cohorts. In addition, the slope of marital happiness was significantly associated with the slope of physical health among the younger cohort, and the slope of marital problems was significantly associated with the slope of physical health among the midlife cohort. These results provide evidence of the significant association between positive and negative dimensions of marital quality and physical health over the life course.",
+  "authors": [
+    {
+      "raw": "Miller, Richard B.",
+      "family": "Miller",
+      "given": "Richard B."
+    },
+    {
+      "raw": "Hollist, Cody S.",
+      "family": "Hollist",
+      "given": "Cody S."
+    },
+    {
+      "raw": "Olsen, Joseph",
+      "family": "Olsen",
+      "given": "Joseph"
+    },
+    {
+      "raw": "Law, David",
+      "family": "Law",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Miller, Richard B.; Hollist, Cody S.; Olsen, Joseph; Law, David",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2013,
+  "doi": "10.1111/jomf.12025",
+  "doi_url": "https://doi.org/10.1111/jomf.12025",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12025",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12025.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

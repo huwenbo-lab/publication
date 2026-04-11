@@ -1,0 +1,35 @@
+{
+  "title": "The growing number of given names as a clue to the beginning of the demographic transition in Europe",
+  "abstract": "BACKGROUND Cultural factors are usually considered to have played a crucial role in the reduction in neonatal and infant mortality during the demographic transition; however, so far historical demographers have failed to produce precise measurements of their impact. This article introduces a new measure: the number of given names. We show the existence of a connection between the number of names given to a newborn and neonatal survival in 19th-century Europe. METHODS The article makes use of information from the CHILD database, focusing on six urban parishes in northeastern Italy, 1816-1865. We carried out a continuous-time event history analysis looking at neonatal transition to death. RESULTS We show that the habit of assigning to the newborn a growing number of names spreads over time. Among the children with a single name neonatal mortality remains high and constant throughout the fifty years analyzed, while it halves among the children with two names and it decreases three times among children with three or more names. The kind of information we use is available also for other world areas, and we provide some evidence for this trend in France. CONTRIBUTION We interpret this as evidence of the spread of greater attention to children. We argue that it is possible to use the number of given names as an indicator of the spread of new practices and of the timing of their initial emergence, and as a measure of the ability of cultural factors to shape neonatal and infant mortality.",
+  "authors": [
+    {
+      "raw": "Minello, Alessandra",
+      "family": "Minello",
+      "given": "Alessandra"
+    },
+    {
+      "raw": "Dalla-Zuanna, Gianpiero",
+      "family": "Dalla-Zuanna",
+      "given": "Gianpiero"
+    },
+    {
+      "raw": "Alfani, Guido",
+      "family": "Alfani",
+      "given": "Guido"
+    }
+  ],
+  "authors_text": "Minello, Alessandra; Dalla-Zuanna, Gianpiero; Alfani, Guido",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.6",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

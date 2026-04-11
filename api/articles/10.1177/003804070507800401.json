@@ -1,0 +1,35 @@
+{
+  "title": "The frog pond revisited: High school academic context, class rank, and elite college admission",
+  "abstract": "In this article, the authors test a frog-pond model of elite college admission proposed by Attewell, operationalizing high school academic context as the secondary school-average SAT score and number of Advanced Placement tests per high school senior. Data on more than 45,000 applications to three elite universities show that a high school's academic environment has a negative effect on college admission, controlling for individual students' scholastic ability. A given applicant's chances of being accepted are reduced if he or she comes from a high school with relatively more highly talented students, that is, if the applicant is a small frog in a big pond. Direct evidence on high school class rank produces similar findings. A school's reputation or prestige has a counterbalancing positive effect on college admission. Institutional gatekeepers are susceptible to context effects, but the influence of school variables is small relative to the characteristics of individual students. The authors tie the findings to prior work on meritocracy in college admission and to the role played by elite education in promoting opportunity or reproducing inequality, and they speculate on the applicability of frog-pond models in areas beyond elite college admission.",
+  "authors": [
+    {
+      "raw": "Espenshade, TJ",
+      "family": "Espenshade",
+      "given": "TJ"
+    },
+    {
+      "raw": "Hale, LE",
+      "family": "Hale",
+      "given": "LE"
+    },
+    {
+      "raw": "Chung, CY",
+      "family": "Chung",
+      "given": "CY"
+    }
+  ],
+  "authors_text": "Espenshade, TJ; Hale, LE; Chung, CY",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2005,
+  "doi": "10.1177/003804070507800401",
+  "doi_url": "https://doi.org/10.1177/003804070507800401",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070507800401",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070507800401.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

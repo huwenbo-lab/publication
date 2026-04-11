@@ -1,0 +1,25 @@
+{
+  "title": "Black-White Disparities in Life Expectancy: How Much Can the Standard SES Variables Explain?",
+  "abstract": "Abstract This article quantifies the extent to which socioeconomic and demographic characteristics can account for black-white disparities in life expectancy in the United States. Although many studies have investigated the linkages between race, socioeconomic status, and mortality, this article is the first to measure how much of the life expectancy gap remains after differences in mortality are purged of the compositional differences in socioeconomic characteristics between blacks and whites. The decomposition is facilitated by a reweighting technique that creates counterfactual estimation samples in which the distribution of income, education, employment and occupation, marital status, and other theoretically relevant variables among blacks is made to match the distribution of these variables among whites. For males, 80% of the black-white gap in life expectancy at age 1 can be accounted for by differences in socioeconomic and demographic characteristics. For females, 70% percent of the gap is accounted for. Labor force participation, occupation, and (among women only) marital status have almost no additional power to explain the black-white disparity in life expectancy after precise measures for income and education are controlled for.",
+  "authors": [
+    {
+      "raw": "Geruso, Michael",
+      "family": "Geruso",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Geruso, Michael",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-011-0089-1",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0089-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0089-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0089-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

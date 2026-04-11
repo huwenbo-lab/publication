@@ -1,0 +1,35 @@
+{
+  "title": "Incorporating Neighborhood Choice in a Model of Neighborhood Effects on Income",
+  "abstract": "Studies of neighborhood effects often attempt to identify causal effects of neighborhood characteristics on individual outcomes, such as income, education, employment, and health. However, selection looms large in this line of research, and it has been argued that estimates of neighborhood effects are biased because people nonrandomly select into neighborhoods based on their preferences, income, and the availability of alternative housing. We propose a two-step framework to disentangle selection processes in the relationship between neighborhood deprivation and earnings. We model neighborhood selection using a conditional logit model, from which we derive correction terms. Driven by the recognition that most households prefer certain types of neighborhoods rather than specific areas, we employ a principle components analysis to reduce these terms into eight correction components. We use these to adjust parameter estimates from a model of subsequent neighborhood effects on individual income for the unequal probability that a household chooses to live in a particular type of neighborhood. We apply this technique to administrative data from the Netherlands. After we adjust for the differential sorting of households into certain types of neighborhoods, the effect of neighborhood income on individual income diminishes but remains significant. These results further emphasize that researchers need to be attuned to the role of selection bias when assessing the role of neighborhood effects on individual outcomes. Perhaps more importantly, the persistent effect of neighborhood deprivation on subsequent earnings suggests that neighborhood effects reflect more than the shared characteristics of neighborhood residents: place of residence partially determines economic well-being.",
+  "authors": [
+    {
+      "raw": "van Ham, Maarten",
+      "family": "van Ham",
+      "given": "Maarten"
+    },
+    {
+      "raw": "Boschman, Sanne",
+      "family": "Boschman",
+      "given": "Sanne"
+    },
+    {
+      "raw": "Vogel, Matt",
+      "family": "Vogel",
+      "given": "Matt"
+    }
+  ],
+  "authors_text": "van Ham, Maarten; Boschman, Sanne; Vogel, Matt",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0672-9",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0672-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0672-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0672-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

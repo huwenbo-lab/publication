@@ -1,0 +1,35 @@
+{
+  "title": "Mortality convergence of twins and singletons in sub-Saharan Africa",
+  "abstract": "BACKGROUND While there is a substantial amount of literature documenting that twins have higher mortality than singletons, that literature does not address the questions of whether this disadvantage of twins eventually disappears and if so, at what age. OBJECTIVES This paper seeks to determine if there is convergence of mortality of twins and singletons and if so, to determine the age at which convergence takes place. We also examine how twin-singleton mortality differences have changed across successive cohorts. METHODS We use data on more than 3 million live births from 99 Demographic and Health Surveys carried out between 1990 and 2013 in 34 different countries in sub-Saharan Africa to examine age-specific mortality of twins and singletons, by month for the first year of life and by year up to age 25. RESULTS We find that mortality of twins is considerably higher than that of singletons in the first year of life, and especially in the first month. As children age, a narrowing of the mortality difference occurs, with convergence taking place by age 6. Over time, mortality of both twins and singletons has declined, but the disadvantage of twins has persisted. CONCLUSIONS The mortality disadvantage of twins compared to singletons eventually disappears as they age. CONTRIBUTION This study documents that in sub-Saharan Africa, there is convergence of mortality of twins and singletons and that this convergence takes place by the age of 6.",
+  "authors": [
+    {
+      "raw": "Pongou, Roland",
+      "family": "Pongou",
+      "given": "Roland"
+    },
+    {
+      "raw": "Shapiro, David",
+      "family": "Shapiro",
+      "given": "David"
+    },
+    {
+      "raw": "Tenikue, Michel",
+      "family": "Tenikue",
+      "given": "Michel"
+    }
+  ],
+  "authors_text": "Pongou, Roland; Shapiro, David; Tenikue, Michel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.36",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.36",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.36",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.36.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

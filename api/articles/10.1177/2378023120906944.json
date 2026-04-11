@@ -1,0 +1,50 @@
+{
+  "title": "Visualizing Age, Period, and Cohort Patterns of Substance Use in the U.S. Opioid Crisis",
+  "abstract": "Descriptions of the contemporary U.S. opioid crisis emphasize several “waves” of overdose deaths. However, a focus on trends in overdose deaths may obscure important sociological dynamics. The authors provide heatmap visualizations of estimated annual rates of past-year substance use, rather than overdose deaths, for prescription pain relievers and heroin. These visualizations are based on weighted analyses of self-reports, cross-classified by age and period, collected as part of the National Survey on Drug Use and Health from 2002 to 2017. Whereas descriptions of the U.S. opioid crisis tend to focus on period dynamics, these visualizations indicate that cohort patterns of drug use are also evident in addition to well-known age variation. A substantive focus on cohort patterns highlights the possibility that cohorts of people who use drugs may remain at risk for overdose in the years to come. These findings suggest that policies aimed only at restricting opioid availability may have limited effects.",
+  "authors": [
+    {
+      "raw": "Verdery, Ashton M.",
+      "family": "Verdery",
+      "given": "Ashton M."
+    },
+    {
+      "raw": "England, Kira",
+      "family": "England",
+      "given": "Kira"
+    },
+    {
+      "raw": "Chapman, Alexander",
+      "family": "Chapman",
+      "given": "Alexander"
+    },
+    {
+      "raw": "Luo, Liying",
+      "family": "Luo",
+      "given": "Liying"
+    },
+    {
+      "raw": "McLean, Katherine",
+      "family": "McLean",
+      "given": "Katherine"
+    },
+    {
+      "raw": "Monnat, Shannon",
+      "family": "Monnat",
+      "given": "Shannon"
+    }
+  ],
+  "authors_text": "Verdery, Ashton M.; England, Kira; Chapman, Alexander; Luo, Liying; McLean, Katherine; Monnat, Shannon",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120906944",
+  "doi_url": "https://doi.org/10.1177/2378023120906944",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120906944",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120906944.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

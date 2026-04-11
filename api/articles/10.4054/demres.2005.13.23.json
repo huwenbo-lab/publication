@@ -1,0 +1,35 @@
+{
+  "title": "Modelling regional variation of first-time births in Denmark 1980-1994 by an age-period-cohort model",
+  "abstract": "Despite the small size of Denmark, there have traditionally been rather consistent regional differences in fertility rates. We apply the statistical age-period-cohort model to include the effect of these three time-related factors thereby concisely ill",
+  "authors": [
+    {
+      "raw": "Thygesen, Lau Caspar",
+      "family": "Thygesen",
+      "given": "Lau Caspar"
+    },
+    {
+      "raw": "Knudsen, Lisbeth B.",
+      "family": "Knudsen",
+      "given": "Lisbeth B."
+    },
+    {
+      "raw": "Keiding, Niels",
+      "family": "Keiding",
+      "given": "Niels"
+    }
+  ],
+  "authors_text": "Thygesen, Lau Caspar; Knudsen, Lisbeth B.; Keiding, Niels",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2005,
+  "doi": "10.4054/demres.2005.13.23",
+  "doi_url": "https://doi.org/10.4054/demres.2005.13.23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2005.13.23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2005.13.23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

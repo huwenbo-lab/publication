@@ -1,0 +1,30 @@
+{
+  "title": "Extreme and Inconsistent: A Case-Oriented Regression Analysis of Health, Inequality, and Poverty",
+  "abstract": "A methodological paradox characterizes macro-comparative research: it routinely violates the assumptions underlying its dominant method, multiple regression analysis. Comparative researchers have substantive interest in cases, but cases are largely rendered invisible in regression analysis. Researchers seldom recognize the mismatch between the goals of macro-comparative research and the demands of regression methods, and sometimes they end up engaging in strenuous disputes over particular variable effects. A good example is the controversial relationship between income inequality and health. Here, the authors offer an innovative method that combines variable-oriented and case-oriented approaches by turning ordinary least squares regression models “inside out.” The authors estimate case-specific contributions to regression coefficient estimates. They reanalyze data on income inequality, poverty, and life expectancy across 20 affluent countries. Multiple model specifications are dependent primarily on two countries with values on the outcome that are extreme in magnitude and inconsistent with conventional theoretical expectations.",
+  "authors": [
+    {
+      "raw": "Rambotti, Simone",
+      "family": "Rambotti",
+      "given": "Simone"
+    },
+    {
+      "raw": "Breiger, Ronald L.",
+      "family": "Breiger",
+      "given": "Ronald L."
+    }
+  ],
+  "authors_text": "Rambotti, Simone; Breiger, Ronald L.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120906064",
+  "doi_url": "https://doi.org/10.1177/2378023120906064",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120906064",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120906064.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

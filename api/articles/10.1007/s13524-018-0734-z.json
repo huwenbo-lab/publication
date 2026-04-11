@@ -1,0 +1,30 @@
+{
+  "title": "Skin Color and Social Mobility: Evidence From Mexico",
+  "abstract": "In many Latin American countries, census data on race and skin color are scarce or nonexistent. In this study, we contribute to understanding how skin color affects intergenerational social mobility in Mexico. Using a novel data set, we provide evidence of profound social stratification by skin color, even after controlling for specific individual characteristics that previous work has not been able to include, such as individual cognitive and noncognitive abilities, parental education and wealth, and measures of stress and parenting style in the home of origin. Results indicate that people in the lightest skin color category have an average of 1.4 additional years of schooling and 53 % more in hourly earnings than their darkest-skinned counterparts. Social mobility is also related to skin color. Individuals in the darkest category are 20 percentile ranks lower in the current wealth distribution than those in the lightest category, conditional on parental wealth. In addition, results of a quantile regression indicate that the darkest group shows higher downward mobility.",
+  "authors": [
+    {
+      "raw": "Campos-Vazquez, Raymundo M.",
+      "family": "Campos-Vazquez",
+      "given": "Raymundo M."
+    },
+    {
+      "raw": "Medina-Cortina, Eduardo M.",
+      "family": "Medina-Cortina",
+      "given": "Eduardo M."
+    }
+  ],
+  "authors_text": "Campos-Vazquez, Raymundo M.; Medina-Cortina, Eduardo M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-018-0734-z",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0734-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0734-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0734-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

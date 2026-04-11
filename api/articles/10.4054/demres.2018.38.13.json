@@ -1,0 +1,25 @@
+{
+  "title": "Educational differences in period fertility: The case of South Korea, 1996-2010",
+  "abstract": "BACKGROUND Previous studies on education-specific fertility in South Korea suggest that fertility differentials across educational groups have been diminishing in recent years. OBJECTIVE This study aims to verify whether education-specific fertility differentials have diminished in South Korea, as suggested by previous studies. METHODS I use data from the 10% sample of South Korea's 2010 census to estimate the education-specific period total fertility rate (TFR) by using the own-children method. RESULTS I observe a steep rise in fertility for women with middle school or less (low education) education since the early 2000s. I find a large proportion of young foreign-born women concentrated in this low-education group. When I repeat the analysis considering only native-born Korean women this increasing pattern disappears: Native-born Korean women with low education had the lowest fertility level throughout the period of analysis (1996-2010). CONCLUSIONS Contrary to previous studies' finding that the education-specific fertility differential gap is narrowing in South Korea, I find that the period TFR for the low-education group shows a sharp increase in fertility level since 2005 due to the increase of foreign-born women, who are mostly young with a low level of education. After removing foreign-born women from the data set, the low-education group persistently had lower fertility than other groups.",
+  "authors": [
+    {
+      "raw": "Lee, Eunkoo",
+      "family": "Lee",
+      "given": "Eunkoo"
+    }
+  ],
+  "authors_text": "Lee, Eunkoo",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.13",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

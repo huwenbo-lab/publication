@@ -1,0 +1,30 @@
+{
+  "title": "Racial wage inequality: Job segregation and devaluation across US labor markets'",
+  "abstract": "Despite decades of research showing greater black-white inequality in local areas where the black population is relatively large, little is known about the mechanisms for this effect. Using a unique data set of individuals nested within jobs across labor markets, this article tests two possible mechanisms for the black concentration effect on wage inequality: job segregation and devaluation. Results show that black population size is associated with greater segregation of black workers into black-dominated jobs. On the other hand, no evidence is found that the penalty for working in a black-dominated job (the devaluation effect) increases as a function of black population size. The article concludes that discrimination against workers-especially exclusion from better-paying jobs-is an important mechanism for the effect of black population size on the racial wage gap.",
+  "authors": [
+    {
+      "raw": "Huffman, ML",
+      "family": "Huffman",
+      "given": "ML"
+    },
+    {
+      "raw": "Cohen, PN",
+      "family": "Cohen",
+      "given": "PN"
+    }
+  ],
+  "authors_text": "Huffman, ML; Cohen, PN",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2004,
+  "doi": "10.1086/378928",
+  "doi_url": "https://doi.org/10.1086/378928",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F378928",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/378928.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

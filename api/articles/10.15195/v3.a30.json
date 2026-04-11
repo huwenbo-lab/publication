@@ -1,0 +1,30 @@
+{
+  "title": "Income and Trustworthiness",
+  "abstract": "We employ a behavioral measure of trustworthiness obtained from a trust game carried out with a sample of the general British population, the individuals of which were extensively interviewed on earlier occasions. Our basic finding is that given past income, higher current income increases trustworthiness and, given current income, higher past income reduces trustworthiness. Past income determines the level of financial aspirations, and whether or not these aspirations are fulfilled by the level of current income affects trustworthiness.",
+  "authors": [
+    {
+      "raw": "Ermisch, John",
+      "family": "Ermisch",
+      "given": "John"
+    },
+    {
+      "raw": "Gambetta, Diego",
+      "family": "Gambetta",
+      "given": "Diego"
+    }
+  ],
+  "authors_text": "Ermisch, John; Gambetta, Diego",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2016,
+  "doi": "10.15195/v3.a30",
+  "doi_url": "https://doi.org/10.15195/v3.a30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv3.a30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v3.a30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

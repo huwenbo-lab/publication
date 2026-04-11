@@ -1,0 +1,25 @@
+{
+  "title": "Cultural transmission, disproportionate prior exposure, and the evolution of cooperation",
+  "abstract": "Why is human cooperation so prevalent? This paper identifies one potential reason for the prevalence of cooperation in human populations. People acquire social behaviors-cooperative or exploitative-from other people through cultural transmission. There is a previously unrecognized characteristic of cultural transmission-disproportionate prior exposure-that creates an evolutionary force toward cooperation: Individuals who have acquired a cooperative or exploitative behavior through cultural transmission tend disproportionately to have been targets of that behavior prior to acquiring it. Thus, individuals who have acquired cooperative behavior through cultural transmission have disproportionately benefited from the cooperative behavior of others, while individuals who have acquired exploitative behavior through cultural transmission have disproportionately been hurt by the exploitative behavior of others. Because the benefits of being a target of cooperative behavior tend to make a person more influential as a behavioral model (i.e., tend to increase that person's cultural fitness), the disproportionate prior exposure inherent in cultural transmission creates an evolutionary force toward cooperation. A simple formal analysis reveals an evolutionary force toward cooperation under a minimal set of conditions previously believed to make the evolution of cooperation impossible-one-shot prisoner's dilemmas with no option to exit played between strangers in a large, randomly mixing population. Attention to this evolutionary force is likely to advance our understanding of the prevalence of cooperation.",
+  "authors": [
+    {
+      "raw": "Mark, NP",
+      "family": "Mark",
+      "given": "NP"
+    }
+  ],
+  "authors_text": "Mark, NP",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2002,
+  "doi": "10.2307/3088960",
+  "doi_url": "https://doi.org/10.2307/3088960",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088960",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088960.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

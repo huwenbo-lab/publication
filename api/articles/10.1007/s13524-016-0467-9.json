@@ -1,0 +1,30 @@
+{
+  "title": "Household Crowding During Childhood and Long-Term Education Outcomes",
+  "abstract": "Household crowding, or having more household members than rooms in one's residence, could potentially affect a child's educational attainment directly through a number of mechanisms. We use U.S. longitudinal data from the Panel Study of Income Dynamics to derive new measures of childhood crowding and estimate negative associations between crowding during one's high school years and, respectively, high school graduation by age 19 and maximum education at age 25. These negative relationships persist in multivariate models in which we control for the influence of a variety of factors, including socioeconomic status and housing-cost burden. Given the importance of educational attainment for a range of midlife and later-life outcomes, this study suggests that household crowding during one's high school years is an engine of cumulative inequality over the life course.",
+  "authors": [
+    {
+      "raw": "Lopoo, Leonard M.",
+      "family": "Lopoo",
+      "given": "Leonard M."
+    },
+    {
+      "raw": "London, Andrew S.",
+      "family": "London",
+      "given": "Andrew S."
+    }
+  ],
+  "authors_text": "Lopoo, Leonard M.; London, Andrew S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0467-9",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0467-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0467-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0467-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

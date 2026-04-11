@@ -1,0 +1,35 @@
+{
+  "title": "Perceived group cohesion versus actual social structure: A study using social network analysis of egocentric Facebook networks",
+  "abstract": "Research on group cohesion often relies on individual perceptions, which may not reflect the actual social structure of groups. This study draws on social network theory to examine the relationship between observable structural group characteristics and individual perceptions of group cohesion. Leveraging Facebook data, we extracted and partitioned the social networks of 109 participants into groups using a modularity algorithm. We then surveyed perceptions of cohesion, and computed group density and size using social network analysis. Out of six linear mixed effects models specified, a random intercept and fixed slope model with group size as a predictor of perceived group cohesion emerged as best fitting. Whereas group density was not linked to perceived cohesion, size had a small negative effect on perceived cohesion, suggesting that people perceive smaller groups as more cohesive. We discuss the potential of social network analysis, visualization tools, and Facebook data for advancing research on groups.",
+  "authors": [
+    {
+      "raw": "Tulin, Marina",
+      "family": "Tulin",
+      "given": "Marina"
+    },
+    {
+      "raw": "Pollet, Thomas V.",
+      "family": "Pollet",
+      "given": "Thomas V."
+    },
+    {
+      "raw": "Lehmann-Willenbrock, Nale",
+      "family": "Lehmann-Willenbrock",
+      "given": "Nale"
+    }
+  ],
+  "authors_text": "Tulin, Marina; Pollet, Thomas V.; Lehmann-Willenbrock, Nale",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.04.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.04.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.04.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.04.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

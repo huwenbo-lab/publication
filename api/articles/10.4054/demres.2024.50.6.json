@@ -1,0 +1,30 @@
+{
+  "title": "The optimal transition to a stationary population for concentrated rates",
+  "abstract": "BACKGROUND Several countries nowadays and in the past face a birth rates below replacement level. To what extent should the fertility of this shrinking population be increased during a given planning period such that it approaches stationarity at the end as close as possible? Both immediate adaptation to the replacement level as well as delaying it to the end of the planning period are suboptimal. METHODS Distributed parameter optimal control theory provides an appropriate tool to ascertain the efficient intertemporal trade-off between costly birth control and zero population growth. RESULTS It turns out that the optimal adaptation rate of the net reproduction rate (NRR) balances between unacceptable adjustment costs for fertility and huge deviations of the terminal age composition from the desired stationary one. The optimal adaptation rate is monotonically increasing with a curvature that depends on the growth rates of the NRR, the fertile population, and the value of newborns. CONTRIBUTION The paper analytically characterizes the shape of the transition to a stationary population in an optimal way.",
+  "authors": [
+    {
+      "raw": "Feichtinger, Gustav",
+      "family": "Feichtinger",
+      "given": "Gustav"
+    },
+    {
+      "raw": "Wrzaczek, Stefan",
+      "family": "Wrzaczek",
+      "given": "Stefan"
+    }
+  ],
+  "authors_text": "Feichtinger, Gustav; Wrzaczek, Stefan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.6",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

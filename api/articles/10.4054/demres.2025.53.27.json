@@ -1,0 +1,40 @@
+{
+  "title": "Early unintended childbearing and unsecured debt in the United States",
+  "abstract": "BACKGROUND Unsecured debt is increasingly recognized as a unique financial stressor with serious implications for health and well-being. While research has documented its consequences, few studies have examined the life course factors that contribute to unsecured debt accumulation. One such factor is unintended childbearing, a major yet underexplored life event that can disrupt educational and economic trajectories. OBJECTIVE The objective of this study is to examine whether early unintended childbearing is associated with higher levels of unsecured debt in midlife (about ages 40-60) in the United States while accounting for socially patterned differences previously found to be associated with unintended childbearing and the risk of unsecured debt. METHODS This study uses data from the National Longitudinal Survey of Youth 1979, a nationally representative sample of people in the United States born between 1956 and 1964. We focus on women who experienced at least one childbirth (N = 2,435). We define early unintended childbirths as births occurring before age 25 that were reported as mistimed or unwanted, and we define unsecured debt as credit card debt or debt owed to other businesses between 2004 and 2020. To account for selection bias, we estimate both ordinary least squares (OLS) regression and propensity score matching (PSM) models. RESULTS Unintended childbearing is associated with increased levels of unsecured debt. After adjusting for key sociodemographic factors, women with an early unintended birth hold, on average, $2,746 more in unsecured debt than mothers with no unintended childbirth. PSM estimates confirm the robustness of this association, with treated individuals showing an average increase of $2,121. CONCLUSIONS For women in the United States, early unintended childbearing is associated with increased unsecured debt beyond background risk factors.",
+  "authors": [
+    {
+      "raw": "Ross, Clifford",
+      "family": "Ross",
+      "given": "Clifford"
+    },
+    {
+      "raw": "Thomeer, Mieke Beth",
+      "family": "Thomeer",
+      "given": "Mieke Beth"
+    },
+    {
+      "raw": "Wolfe, Joseph D.",
+      "family": "Wolfe",
+      "given": "Joseph D."
+    },
+    {
+      "raw": "Williams, Shantay",
+      "family": "Williams",
+      "given": "Shantay"
+    }
+  ],
+  "authors_text": "Ross, Clifford; Thomeer, Mieke Beth; Wolfe, Joseph D.; Williams, Shantay",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.27",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

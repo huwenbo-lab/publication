@@ -1,0 +1,35 @@
+{
+  "title": "How does exposure to a different school track influence learning progress? Explaining scissor effects by track in Germany",
+  "abstract": "German secondary education is known for its early, strict selection of students into different schooling tracks based on prior academic performance, based on the assumption that students learn more efficiently when the learning environment is tailored to their individual abilities and needs. While much previous research has shown that entry into tracks is socially selective, less is known whether there are effects of being exposed to a particular school track on educational success and which mechanisms are contributing to these effects. We investigate this question by comparing the learning progress in reading and mathematics of students in the upper and intermediate schooling track over five years of secondary schooling, based on large-scale German-wide longitudinal data (NEPS-SC3). Even when restricting our sample to a group of students with similar preconditions and controlling for skills at the beginning of secondary schooling, we find that the learning progress in the upper track is higher for both domains, suggesting scissor effects of track exposure. It is mainly the average performance level of the class, and to a lesser degree its social background composition, which mediates these effects. In contrast, migration background composition of the class and instructional quality perceived by students hardly contribute to explaining increasing learning gains in the upper track.",
+  "authors": [
+    {
+      "raw": "Traini, Claudia",
+      "family": "Traini",
+      "given": "Claudia"
+    },
+    {
+      "raw": "Kleinert, Corinna",
+      "family": "Kleinert",
+      "given": "Corinna"
+    },
+    {
+      "raw": "Bittmann, Felix",
+      "family": "Bittmann",
+      "given": "Felix"
+    }
+  ],
+  "authors_text": "Traini, Claudia; Kleinert, Corinna; Bittmann, Felix",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100625",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100625",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100625",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100625.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

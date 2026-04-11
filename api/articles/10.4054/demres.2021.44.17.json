@@ -1,0 +1,30 @@
+{
+  "title": "The distributional impact of Covid-19: Geographic variation in mortality in England",
+  "abstract": "BACKGROUND By their nature, the impact of epidemics on mortality varies geographically, suggesting that the geographical impact of an epidemic implies a social impact. OBJECTIVE To examine the association between two measures of the social composition of a local area and age- and sex-standardised Covid-19 and other mortality in the period 1 March to 31 July 2020. The measures are how deprived an area is and what proportion of its population is non-white. METHODS Using spatial autoregressive regression we analyse geographical variation in age- and sex-standardised Covid-19 mortality among English local authorities between 1 March and 31 July 2020 in relation to measures of social composition, and we compare it with mortality from non-Covid sources in the same period, and with all-causes mortality in 2018. RESULTS Areas with higher social deprivation have a higher Covid-19 mortality rate, but the association is much weaker than between social deprivation and mortality rates more generally. An area's proportion non-white has a strong positive association with Covid-19 mortality, in contrast to a negative association with 2020 non-Covid and with 2018 mortality. CONCLUSIONS Covid-19 mortality is related to the social composition of areas in different ways than current non-Covid mortality or past mortality. CONTRIBUTION The paper provides the first demonstration of the distinct distributional impact of mortality in relation to the Covid-19 vims by the social composition of areas in England.",
+  "authors": [
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    },
+    {
+      "raw": "Ermisch, John",
+      "family": "Ermisch",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Breen, Richard; Ermisch, John",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.17",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

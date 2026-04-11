@@ -1,0 +1,60 @@
+{
+  "title": "Frailty at death: An examination of multiple causes of death in four low mortality countries in 2017",
+  "abstract": "BACKGROUNDThe increasing prevalence of frailty in ageing populations represents a major social and public health challenge which warrants a better understanding of the contribution of frailty to the morbid process. OBJECTIVETo examine frailty-related mortality as reported on death certificates in France, Italy, Spain, and the United States in 2017.METHODSWe identify frailty at death for the population aged 50 years and over in France, Italy, Spain, and the United States. We estimate the proportions of deaths by sex, age group, and country using specific frailty-related ICD-codes on the death certificate, (1) as the underlying cause of death (UC), (2) elsewhere in Part I (sequence of diseases or conditions or events leading directly to death), and (3) anywhere in Part II (conditions that do not belong in Part I but whose presence contributed to death).RESULTSThe age-standardized proportion of deaths with frailty at ages 50 and over is highest in Italy (25.0%) followed by France (24.1%) and Spain (17.3%), and lowest in the United States (14.0%). Cross-country differences are smaller when frailty-related codes are either the underlying cause of the death or reported in Part II. Frailty-related mortality increases with age and is higher among females than males. Dementia is the most frequently reported frailty-related code.CONCLUSIONSNotable cross-country differences were found in the prevalence and type of frailty-related symptoms at death, even after adjusting for differential age distributions.CONTRIBUTIONStrong similarities between countries were found that warrant monitoring frailty at death in low-mortality countries to complement information on frailty prevalence in the living population.",
+  "authors": [
+    {
+      "raw": "Trias-Llimos, Sergi",
+      "family": "Trias-Llimos",
+      "given": "Sergi"
+    },
+    {
+      "raw": "Barbieri, Magali",
+      "family": "Barbieri",
+      "given": "Magali"
+    },
+    {
+      "raw": "Egidi, Viviana",
+      "family": "Egidi",
+      "given": "Viviana"
+    },
+    {
+      "raw": "Frova, Luisa",
+      "family": "Frova",
+      "given": "Luisa"
+    },
+    {
+      "raw": "Grippo, Francesco",
+      "family": "Grippo",
+      "given": "Francesco"
+    },
+    {
+      "raw": "Mesle, France",
+      "family": "Mesle",
+      "given": "France"
+    },
+    {
+      "raw": "Pappagallo, Marilena",
+      "family": "Pappagallo",
+      "given": "Marilena"
+    },
+    {
+      "raw": "Desesquelles, Aline",
+      "family": "Desesquelles",
+      "given": "Aline"
+    }
+  ],
+  "authors_text": "Trias-Llimos, Sergi; Barbieri, Magali; Egidi, Viviana; Frova, Luisa; Grippo, Francesco; Mesle, France; Pappagallo, Marilena; Desesquelles, Aline",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.2",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

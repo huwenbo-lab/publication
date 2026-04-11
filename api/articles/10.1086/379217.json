@@ -1,0 +1,25 @@
+{
+  "title": "Counterfactual models of neighborhood effects: The effect of neighborhood poverty on dropping out and teenage pregnancy",
+  "abstract": "This article investigates the causal effects of neighborhood on high school dropping out and teenage pregnancy within a counterfactual framework. It shows that when two groups of children, identical at age 10 on observed factors, experience different neighborhoods during adolescence, those in high-poverty neighborhoods are more likely to drop out of high school and have a teenage pregnancy than those in low-poverty neighborhoods. Causal inferences from such associations have been plagued by the possibility of selection bias. Using a new method for sensitivity analysis, these effects are shown to be robust to selection bias. Unobserved factors would have to be unreasonably strong to account for the associations between neighborhood and the outcomes.",
+  "authors": [
+    {
+      "raw": "Harding, DJ",
+      "family": "Harding",
+      "given": "DJ"
+    }
+  ],
+  "authors_text": "Harding, DJ",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2003,
+  "doi": "10.1086/379217",
+  "doi_url": "https://doi.org/10.1086/379217",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F379217",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/379217.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

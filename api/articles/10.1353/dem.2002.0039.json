@@ -1,0 +1,35 @@
+{
+  "title": "Fertility and development: evidence from Brazil",
+  "abstract": "AbstractUsing microdata from the Brazilian demographic censuses of 1960, 1970, 1980, and 1991, aggregated into 518 consistently defined spatial units called microregions, we estimated fertility and mortality and constructed indicators of development and living conditions in the rural and urban areas of the microregions in each census. We then estimated cross-sectional and fixed-effects models to answer questions about the degree to which changes in these indicators are associated with changes in fertility and whether the relationship between fertility and development shifts through time. We found strong and consistent relationships between the decline in fertility and measurable changes in social and economic circumstances.",
+  "authors": [
+    {
+      "raw": "Potter, Joseph E.",
+      "family": "Potter",
+      "given": "Joseph E."
+    },
+    {
+      "raw": "Schmertmann, Carl P.",
+      "family": "Schmertmann",
+      "given": "Carl P."
+    },
+    {
+      "raw": "Cavenaghi, Suzana M.",
+      "family": "Cavenaghi",
+      "given": "Suzana M."
+    }
+  ],
+  "authors_text": "Potter, Joseph E.; Schmertmann, Carl P.; Cavenaghi, Suzana M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.1353/dem.2002.0039",
+  "doi_url": "https://doi.org/10.1353/dem.2002.0039",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2002.0039",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2002.0039.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

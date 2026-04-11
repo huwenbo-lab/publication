@@ -1,0 +1,30 @@
+{
+  "title": "Sex differences in morbidity and mortality",
+  "abstract": "Abstract Women have worse self-rated health and more hospitalization episodes than men from early adolescence to late middle age, but are less likely to die at each age. We use 14 years ofdata from the u.s. National Health Interview Survey to examine this paradox. Our results indicate that the difference in self-assessed health between women and men can be entirely explained by differences in the distribution ofthe chronic conditions they face. This is not true, however, for hospital episodes and mortality. Men with several smoking-related conditions-including cardiovascular disease and certain lung disorders-are more likely to experience hospital episodes and to die than women who suffer from the same chronic conditions, implying that men may experience more-severe forms of these conditions. While some of the difference in mortality can be explained by differences in the distribution of chronic conditions, an equally large share can be attributed to the larger adverse effects of these conditions on male mortality. The greater effects ofsmoking-related conditions on men’s health may be due to their higher rates ofsmoking throughout their lives.",
+  "authors": [
+    {
+      "raw": "Case, Anne",
+      "family": "Case",
+      "given": "Anne"
+    },
+    {
+      "raw": "Paxson, Christina",
+      "family": "Paxson",
+      "given": "Christina"
+    }
+  ],
+  "authors_text": "Case, Anne; Paxson, Christina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0011",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

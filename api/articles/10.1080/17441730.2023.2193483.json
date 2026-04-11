@@ -1,0 +1,30 @@
+{
+  "title": "The COVID-19 pandemic and life expectancy among older adults in Asian countries",
+  "abstract": "Millions of lives in Asia were lost in the ongoing COVID-19 pandemic, causing a reduction of 1.66 years in life expectancy at birth (e0) in 2019–2021 and a reduction of 1.41 years in life expectancy at age 60 (e60). Using the World Population Prospects 2022, we decomposed mortality changes at older ages (ages 60+) that contributed to Asia’s reduction in e0 and e60. Overall, changes in mortality at older ages contributed to more than 70 per cent of reduction in e0 for all its subregions, except Eastern Asia (<37 per cent), and changes in mortality at oldest-old ages (80+) led to a reduction in e60 by 25 per cent. The sex difference in reduction of e60 varied across Asian countries, despite a similar pattern across subregions. These findings helped us understand the impacts of the COVID-19 pandemic on human mortality and the large variations across subregions and countries, which could have important policy implications.",
+  "authors": [
+    {
+      "raw": "Feng, Qiushi",
+      "family": "Feng",
+      "given": "Qiushi"
+    },
+    {
+      "raw": "Gu, Danan",
+      "family": "Gu",
+      "given": "Danan"
+    }
+  ],
+  "authors_text": "Feng, Qiushi; Gu, Danan",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2023,
+  "doi": "10.1080/17441730.2023.2193483",
+  "doi_url": "https://doi.org/10.1080/17441730.2023.2193483",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2023.2193483",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2023.2193483.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

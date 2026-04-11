@@ -1,0 +1,30 @@
+{
+  "title": "Does the coronavirus pandemic level the gender inequality curve? (It doesn't)",
+  "abstract": "Does the coronavirus pandemic level the gender inequality curve? Or does the economic downturn following the coronavirus pandemic enhance gender inequality? To answer these questions, we collected data on Israeli men and women who were employed in the first week of March prior to the lockdown of the economy, and again in the last week of April (after the economy was shut down, but before it was reopened). We find that the con-sequences of the economic downturn following the coronavirus for gender equality are harsh, with women's employment and income more severely affected than men's.",
+  "authors": [
+    {
+      "raw": "Kristal, Tali",
+      "family": "Kristal",
+      "given": "Tali"
+    },
+    {
+      "raw": "Yaish, Meir",
+      "family": "Yaish",
+      "given": "Meir"
+    }
+  ],
+  "authors_text": "Kristal, Tali; Yaish, Meir",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100520",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100520",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100520",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100520.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

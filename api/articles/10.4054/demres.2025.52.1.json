@@ -1,0 +1,35 @@
+{
+  "title": "A comprehensive database of estimates and forecasts of Spanish sex-age death rates by climate area, income level, and habitat size (2010-2050)",
+  "abstract": "BACKGROUND Analysing mortality is relevant for decision-making. Life tables have traditionally been based on age and sex, assuming homogeneous mortality rates within these groups. This omits other factors that could affect mortality risks. Advances in information technology and improved access to official microdata now enable the construction of life tables that incorporate additional variables, offering a more detailed analysis. OBJECTIVE This paper aims to expand the classical approach of using age and sex by integrating additional risk factors related to the area of residence. Specifically, the factors of climate, habitat size, and income are considered, using detailed georeferenced population data at the census level. Additionally, we aim to estimate future central death rates using various forecasting models. METHODS Utilising almost 2 billion microdata events from the Spanish population between 2010 and 2019, we begin by estimating new life tables that incorporate climate, habitat size, and income as risk factors. Then, after addressing random variations, erratic peaks, and the unexplained observed decline in mortality at extreme older ages, we use a triad of classical longevity models to project future mortality trends. All the generated data are offered in a public repository. CONTRIBUTION The database introduced in this paper can be used by social planners, demographers, and insurers, as well as being employed to validate existing findings and explore new research questions, particularly within the demographic and actuarial-economic fields.",
+  "authors": [
+    {
+      "raw": "Sifre-Armengol, Celia",
+      "family": "Sifre-Armengol",
+      "given": "Celia"
+    },
+    {
+      "raw": "Pavia, Jose M.",
+      "family": "Pavia",
+      "given": "Jose M."
+    },
+    {
+      "raw": "Lledo, Josep",
+      "family": "Lledo",
+      "given": "Josep"
+    }
+  ],
+  "authors_text": "Sifre-Armengol, Celia; Pavia, Jose M.; Lledo, Josep",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.1",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

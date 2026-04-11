@@ -1,0 +1,30 @@
+{
+  "title": "Unpacking Summary Measures of Ethnic Residential Segregation Using an Age Group and Age Cohort Perspective",
+  "abstract": "The residential segregation literature has underplayed the significance of age in shaping the ethnic compositions of neighbourhoods. This paper develops an age group and age cohort perspective as a way to unpack summary measures of residential segregation. Harmonised small area data for England and Wales (2001-2011) are used as a case study to explore the potential of this methodology for understanding better the role of age in the evolution of ethnic residential geographies. Our findings demonstrate the age-specificity of residential segregation, for both cross-sectional patterns and change over time. Levels of segregation vary among age groups and age cohorts and between ethnic groups, with a changing pattern of segregation as people age. Exploring change over a 10-year period, we observe that residential segregation decreases during young adulthood for all age cohorts, then increases during the late 20s and early 30s, and continues to increase until retirement. These trends are, for the most, consistent between ethnic groups. Our findings emphasise how residential segregation is a dynamic process with a significant life cycle component, with commonalities in residential decision-making between ethnic groups through the life course.",
+  "authors": [
+    {
+      "raw": "Sabater, Albert",
+      "family": "Sabater",
+      "given": "Albert"
+    },
+    {
+      "raw": "Catney, Gemma",
+      "family": "Catney",
+      "given": "Gemma"
+    }
+  ],
+  "authors_text": "Sabater, Albert; Catney, Gemma",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9475-3",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9475-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9475-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9475-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

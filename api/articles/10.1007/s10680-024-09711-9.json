@@ -1,0 +1,30 @@
+{
+  "title": "Cross-sectional Average Length of Life Entropy ($${\\mathcal{H}}_{\\text{CAL}}$$): International Comparisons and Decompositions",
+  "abstract": "Abstract Keyfitz and Leser’s life table entropy was proposed to serve as a relative inequality in mortality measure. Entropy considers the variation around the age at death relative to the length of lifespan in a population, allowing comparisons across time and populations. It is used widely in period and cohort applications. Here, we propose extending this measure and present an index that incorporates the history of survival of all cohorts present at a given time, namely the cross-sectional average length of life entropy, or CAL-entropy ( $${\\mathcal{H}}_{\\text{CAL}}$$ H CAL ). We decompose cross-population differences of CAL-entropy into the contribution of longevity and lifespan variation, and the change of those differences across time. Our illustrations show that populations are converging regarding lifespan inequality. Lifespan variation holds a noticeable share in the CAL-entropy gap among selected European populations. Longevity held once a pronounced share in CAL-entropy differences and their change, but its influence has receded over the years. The US demonstrates a unique trend where it performs worse across time compared to the selected European populations, and lifespan variation has played a major role in this process. This study signals the importance of lifespan variation in reducing inequality in mortality among developed and longevous populations.",
+  "authors": [
+    {
+      "raw": "Su, Wen",
+      "family": "Su",
+      "given": "Wen"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Su, Wen; Canudas-Romo, Vladimir",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-024-09711-9",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09711-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09711-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09711-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

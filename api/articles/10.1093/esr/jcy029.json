@@ -1,0 +1,30 @@
+{
+  "title": "Child and Adolescent Developmental Activities and Time Use in Spain: The Gendered Role of Parents' Work Schedules and Education Levels",
+  "abstract": "This study analyses how the daily activities of children and adolescents differ by parents' work schedules, using data from the '2009-10 Spanish Time Use Survey' (N = 913). Spain is an interesting institutional context for its widespread evening-work culture, combined with inflexible and gendered work-family arrangements. Results imply that parents' time availability, family resources, and gender roles significantly influence children's daily activities. Multivariate linear regression models reveal that parental evening work is detrimental for children's developmental time use, but in ways that differ remarkably across parent's gender and social background. On a given weekday, children with evening-work mothers spend 35 minutes less on educational and social activities with parents and 26 minutes more on unsupervised screen-based activities (TV, mobile devices, computers), compared to children with standard-work mothers. Yet, such effects are confined to evening-work mothers with lower levels of education. By contrast, children with highly educated mothers actively engage in educational activities, reducing screen-based time. Fathers' work schedules do not affect children's time use, while their education levels produce mixed results. Analyses for weekends show a clear 'compensatory' behaviour: on weekends, children whose mothers work evening hours during weekdays substantially increase their time spent in educational activities and parent-child socializing.",
+  "authors": [
+    {
+      "raw": "Gracia, Pablo",
+      "family": "Gracia",
+      "given": "Pablo"
+    },
+    {
+      "raw": "Garcia-Roman, Joan",
+      "family": "Garcia-Roman",
+      "given": "Joan"
+    }
+  ],
+  "authors_text": "Gracia, Pablo; Garcia-Roman, Joan",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy029",
+  "doi_url": "https://doi.org/10.1093/esr/jcy029",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy029",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy029.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

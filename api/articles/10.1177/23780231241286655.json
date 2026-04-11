@@ -1,0 +1,25 @@
+{
+  "title": "The (Un)Predictability of Early (Un)Employment: A Machine Learning Approach",
+  "abstract": "This article integrates scholarship on determinants of labor market transitions with the flexible modeling strategies available through machine learning. Leveraging population registers from Finland, this study analyzes how well we can predict (un)employment and for whom we can (not) predict. The study finds that the predictability of long-term (un)employment improves when using tree-based nonparametric models compared to logistic regression but that predictability varies substantially across outcome groups. None of the models predict very accurately for the unemployed net of baseline likelihood to be unemployed—a group that is well researched and often of interest when designing policies and interventions. Overall accuracy is driven by the employed while incorrectly predicting most of the unemployed. Additionally, the outcomes for individuals with low parental education are overall more difficult to predict than the outcomes for individuals with mid/high parental education, whereas predicting unemployment slightly improves among the low parental education group.",
+  "authors": [
+    {
+      "raw": "Kuikka, Sanni",
+      "family": "Kuikka",
+      "given": "Sanni"
+    }
+  ],
+  "authors_text": "Kuikka, Sanni",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241286655",
+  "doi_url": "https://doi.org/10.1177/23780231241286655",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241286655",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241286655.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Pathways to Corruption: Institutional Context and Citizen Participation in Bureaucratic Corruption",
+  "abstract": "Though bureaucratic corruption is widespread, social scientists have yet to develop a comprehensive model predicting ordinary people's engagement in corrupt exchanges with street-level bureaucrats. Our article fills this gap by specifying an individual-level causal model of bureaucratic corruption centered around three theoretically derived predictors: beliefs about acceptability of corruption, its perceived riskiness, and its utility to the offender. In doing so, we develop a theory of how institutional stability affects rates and causal pathways to bureaucratic corruption. Using the data from nationally representative surveys in Russia (N = 2,000) and Ukraine (N = 1,535), we test a path-diagramed structural equation model that accounts for endogeneity and the relationships among the theoretically derived predictors of corruption. The tests of our model in institutionally more stable Russia and less stable Ukraine, combined with OLS regression models on split samples from conflict areas within each country, show that when institutions have greater stability, (1) citizens are less likely to partake in bureaucratic corruption, and (2) the effects of theoretically derived predictors on corruption behavior are stronger. We are the first to incorporate into a theory of bureaucratic corruption a feedback loop whereby engagement in corruption reinforces perceptions of its spread, which in turn contributes to the belief that bribery is acceptable. Our findings explain the variation in corruption behavior among citizens of high-corruption societies, extend the institutional theory of social control, testify to the importance of contextualizing theories of crime, and reveal the need to tailor anti-corruption policies to specific institutional environments.",
+  "authors": [
+    {
+      "raw": "Zaloznaya, Marina",
+      "family": "Zaloznaya",
+      "given": "Marina"
+    },
+    {
+      "raw": "Claypool, Vicki Hesli",
+      "family": "Claypool",
+      "given": "Vicki Hesli"
+    },
+    {
+      "raw": "Reisinger, William M.",
+      "family": "Reisinger",
+      "given": "William M."
+    }
+  ],
+  "authors_text": "Zaloznaya, Marina; Claypool, Vicki Hesli; Reisinger, William M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy007",
+  "doi_url": "https://doi.org/10.1093/sf/soy007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

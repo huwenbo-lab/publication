@@ -1,0 +1,30 @@
+{
+  "title": "Rhetorics of Radicalism",
+  "abstract": "What rhetorics run throughout radical discourse, and why do some gain prominence over others? The scholarship on radicalism largely portrays radical discourse as opposition to powerful ideas and enemies, but radicals often evince great interest in personal and local concerns. To shed light on how radicals use and adopt rhetoric, we analyze an original corpus of more than 23,000 pages produced by Afghan radical groups between 1979 and 2001 using a novel computational abductive approach. We first identify how radicalism not only attacks dominant ideas, actors, and institutions using a rhetoric of subversion, but also how it can use a rhetoric of reversion to urge intimate transformations in morals and behavior. Next, we find evidence that radicals' networks of support affect the rhetorical mixture they espouse, due to social ties drawing radicals into encounters with backers' social domains. Our study advances a relational understanding of radical discourse, while also showing how a combination of computational and abductive methods can help theorize and analyze discourses of contention.",
+  "authors": [
+    {
+      "raw": "Karell, Daniel",
+      "family": "Karell",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Freedman, Michael",
+      "family": "Freedman",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Karell, Daniel; Freedman, Michael",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419859519",
+  "doi_url": "https://doi.org/10.1177/0003122419859519",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419859519",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419859519.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

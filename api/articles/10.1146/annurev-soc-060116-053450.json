@@ -1,0 +1,30 @@
+{
+  "title": "Replication in Social Science",
+  "abstract": "Across the medical and social sciences, new discussions about replication have led to transformations in research practice. Sociologists, however, have been largely absent from these discussions. The goals of this review are to introduce sociologists to these developments, synthesize insights from science studies about replication in general, and detail the specific issues regarding replication that occur in sociology. The first half of the article argues that a sociologically sophisticated understanding of replication must address both the ways that replication rules and conventions evolved within an epistemic culture and how those cultures are shaped by specific research challenges. The second half outlines the four main dimensions of replicability in quantitative sociology-verifiability, robustness, repeatability, and generalizability-and discusses the specific ambiguities of interpretation that can arise in each. We conclude by advocating some commonsense changes to promote replication while acknowledging the epistemic diversity of our field.",
+  "authors": [
+    {
+      "raw": "Freese, Jeremy",
+      "family": "Freese",
+      "given": "Jeremy"
+    },
+    {
+      "raw": "Peterson, David",
+      "family": "Peterson",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Freese, Jeremy; Peterson, David",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2017,
+  "doi": "10.1146/annurev-soc-060116-053450",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-060116-053450",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-060116-053450",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-060116-053450.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

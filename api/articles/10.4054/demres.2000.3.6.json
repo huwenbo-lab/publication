@@ -1,0 +1,25 @@
+{
+  "title": "Measuring the compression of mortality",
+  "abstract": "Compression of mortality is measured here in four ways: 1) by standard deviation of the age at death above the mode; 2) by standard deviation of the age at death in the highest quartile; 3) by the inter-quartile range; and 4) by the shortest age interval in which a given proportion of deaths take place. The two first-mentioned are directed at old ages, while the other two measure compression over the entire age range. The fourth alternative is recommended as the most suitable for general use and offers several variations, called the C-family of compression indicators. Applied to historical and modern populations, all four measures show convincingly that the secular transition from high to low mortality has been accompanied by general and massive compression of mortality. In recent decades, however, this development has come close to stagnation even when life expectancy continues to increase. This has happened at a level where compression is still so incomplete that the shortest age interval in which 90% of deaths occur, is 35 years. It seems unrealistic to expect human mortality ever to be compressed into so narrow an age interval that the survival curve would even approximately rectangular. It is considered useful to monitor changes in the compression of mortality because the indicators describe relevant aspects of the length of life and may acquire new significance as indicators of population heterogeneity.",
+  "authors": [
+    {
+      "raw": "Kannisto, Väinö",
+      "family": "Kannisto",
+      "given": "Väinö"
+    }
+  ],
+  "authors_text": "Kannisto, Väinö",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2000,
+  "doi": "10.4054/demres.2000.3.6",
+  "doi_url": "https://doi.org/10.4054/demres.2000.3.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2000.3.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2000.3.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

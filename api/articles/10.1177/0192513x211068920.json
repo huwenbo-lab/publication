@@ -1,0 +1,35 @@
+{
+  "title": "College Student Persistence: A Focus on Relationships With Parents",
+  "abstract": "The purpose of this study was to investigate persistence to degree in a nationally representative sample of college students. The sample included first-generation and/or underrepresented minority students who had ever been enrolled in a 4-year degree program, and specifically focused on relationships with parents to examine if relationship quality had any impact on persistence to degree using the National Longitudinal Survey of Youth (NLSY) 1997 dataset. We conducted logistic regression analyses to predict persistence. Predictors included first-generation status, ethnic minority status, sex, family income, family structure, geographic location of home, and relationship with parents. Our most significant finding was that the relationship students had with their parents was more predictive of non-persistence than first-generation status. These results are discussed in terms of their implications for family-based programming for students struggling to persist in college, and the necessity to involve the family in an intentional way throughout the college experience.",
+  "authors": [
+    {
+      "raw": "Bartle-Haring, Suzanne",
+      "family": "Bartle-Haring",
+      "given": "Suzanne"
+    },
+    {
+      "raw": "Bryant, Alessandra",
+      "family": "Bryant",
+      "given": "Alessandra"
+    },
+    {
+      "raw": "Gavazzi, Stephen M.",
+      "family": "Gavazzi",
+      "given": "Stephen M."
+    }
+  ],
+  "authors_text": "Bartle-Haring, Suzanne; Bryant, Alessandra; Gavazzi, Stephen M.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x211068920",
+  "doi_url": "https://doi.org/10.1177/0192513x211068920",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x211068920",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x211068920.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

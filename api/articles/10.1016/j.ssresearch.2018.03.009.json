@@ -1,0 +1,30 @@
+{
+  "title": "Diversity preferences among employees and ethnoracial workplace segregation",
+  "abstract": "Ethno-racial workplace segregation increases already existing ethno-racial inequality. While previous research has identified discriminatory employers as drivers of workplace segregation, this study addresses the role of the employees. Sociological and social psychological theory suggest that people prefer to surround themselves with people who positively confirm their social identity or who contribute with higher group status. Through web-based surveys, we measure employee attitudes and preferences concerning ethno-racial workplace diversity, to what extent they differ by ethnicity/race, and if they contain intersectional patterns. Thereafter, we use simulation models to analyze the consequences for workplace segregation that these preferences would have, if realized. The main survey results showed that all ethno-racial groups favored their own in-group as colleagues, especially European Americans. As a secondary choice, the respondents preferred the out-group with the highest labor market status. Intersectional patterns were identified, as minority women were preferred as colleagues over minority men. Our simulation model, based on the results of two surveys on stated vs. indirectly revealed preferences, showed that employee preferences were at best not diverse enough to desegregate workplaces. When based on the most common preferences (i.e. excluding a few outliers), the simulations even suggested that these preferences can cause segregation. We relate these findings to Schelling's model of segregation.",
+  "authors": [
+    {
+      "raw": "Bursell, Moa",
+      "family": "Bursell",
+      "given": "Moa"
+    },
+    {
+      "raw": "Jansson, Fredrik",
+      "family": "Jansson",
+      "given": "Fredrik"
+    }
+  ],
+  "authors_text": "Bursell, Moa; Jansson, Fredrik",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.03.009",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.03.009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.03.009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.03.009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

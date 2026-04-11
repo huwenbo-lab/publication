@@ -1,0 +1,30 @@
+{
+  "title": "Status Struggles: Network Centrality and Gender Segregation in Same- and Cross-Gender Aggression",
+  "abstract": "Literature on aggression often suggests that individual deficiencies, such as social incompetence, psychological difficulties, or troublesome home environments, are responsible for aggressive behavior. In this article, by contrast, we examine aggression from a social network perspective, arguing that social network centrality, our primary measure of peer status, increases the capacity for aggression and that competition to gain or maintain status motivates its use. We test these arguments using a unique longitudinal dataset that enables separate consideration of same- and cross-gender aggression. We find that aggression is generally not a maladjusted reaction typical of the socially marginal; instead, aggression is intrinsic to status and escalates with increases in peer status until the pinnacle of the social hierarchy is attained. Over time, individuals at the very bottom and those at the very top of a hierarchy become the least aggressive youth. We also find that aggression is influenced not so much by individual gender differences as by relationships with the other gender and patterns of gender segregation at school. When cross-gender interactions are plentiful, aggression is diminished. Yet these factors are also jointly implicated in peer status: in schools where cross-gender interactions are rare, cross-gender friendships create status distinctions that magnify the consequences of network centrality.",
+  "authors": [
+    {
+      "raw": "Faris, Robert",
+      "family": "Faris",
+      "given": "Robert"
+    },
+    {
+      "raw": "Felmlee, Diane",
+      "family": "Felmlee",
+      "given": "Diane"
+    }
+  ],
+  "authors_text": "Faris, Robert; Felmlee, Diane",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1177/0003122410396196",
+  "doi_url": "https://doi.org/10.1177/0003122410396196",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410396196",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410396196.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

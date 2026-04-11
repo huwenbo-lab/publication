@@ -1,0 +1,30 @@
+{
+  "title": "Was there compression of disability for older Americans from 1992 to 2003?",
+  "abstract": "Abstract Medical advances and the growth of the elderly population have focused interest on trends in the health of the elderly. Three theories have been advanced to describe these trends: compression of morbidity, expansion of morbidity, and dynamic equilibrium. We applied multistate life table methods to the Medicare Current Beneficiary Survey to estimate active and disabled life expectancy from 1992 to 2003, defining disability as having difficulty with instrumental activities of daily living or activities of daily living. We found increases in active life expectancy past age 65 and decreases in life expectancy with severe disability. These trends are consistent with elements of both the theory of compression of morbidity and the theory of dynamic equilibrium.",
+  "authors": [
+    {
+      "raw": "Cai, Liming",
+      "family": "Cai",
+      "given": "Liming"
+    },
+    {
+      "raw": "Lubitz, James",
+      "family": "Lubitz",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Cai, Liming; Lubitz, James",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0022",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0022",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0022",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0022.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

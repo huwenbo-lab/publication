@@ -1,0 +1,40 @@
+{
+  "title": "The effect of unemployment on couples separating in Germany and the UK",
+  "abstract": "Objective This article examines how unemployment affects the separation risk of heterosexual coresiding couples, depending on couples' household income and whether men or women become unemployed. Background Unemployment may decrease the separation risk as a drop in resources makes separation more costly-or it may increase the separation risk if unemployment creates stress and reduces the quality of couple relations. Moreover, unemployment may be more detrimental for couples if men rather than women, or low-earners rather than high-earners, become unemployed. Method This article adopts a couple perspective and assesses heterogeneous effects of unemployment on separation based on longitudinal data-large household panels from Germany and the UK using discrete-time event history models. Results For both countries, results show that the annual separation rate almost doubles after an unemployment spell: It increases from 0.9% to 1.6% per year. This effect does not vary when men or women lose their job. The separation risk after unemployment is somewhat higher for low-income couples than high-income couples in the UK, but overall differences are small. Conclusion Findings show that unemployment does not strengthen unions, but makes them more vulnerable-regardless of which partner becomes unemployed and regardless of a household's economic resources.",
+  "authors": [
+    {
+      "raw": "Di Nallo, Alessandro",
+      "family": "Di Nallo",
+      "given": "Alessandro"
+    },
+    {
+      "raw": "Lipps, Oliver",
+      "family": "Lipps",
+      "given": "Oliver"
+    },
+    {
+      "raw": "Oesch, Daniel",
+      "family": "Oesch",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Voorpostel, Marieke",
+      "family": "Voorpostel",
+      "given": "Marieke"
+    }
+  ],
+  "authors_text": "Di Nallo, Alessandro; Lipps, Oliver; Oesch, Daniel; Voorpostel, Marieke",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12803",
+  "doi_url": "https://doi.org/10.1111/jomf.12803",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12803",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12803.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

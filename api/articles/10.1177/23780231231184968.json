@@ -1,0 +1,25 @@
+{
+  "title": "Visualizing the Decline in Cultural Participation in Europe Post-crisis",
+  "abstract": "Whether cultural practices change gradually—at the timescale of generations—or can be lastingly affected by short-term exogenous shocks is a question that continues to inspire much debate in the social sciences. Previous work shows that trends in cultural participation, if they exist, tend to be slow and gradual, responding to cohort changes and impervious to period-specific events. Here I use data from the two Eurobarometer surveys fielded just before (2007) and in the immediate aftermath (2013) of the Great Recession-related eurozone crisis to visualize the impact of a once-in-a-generation period-specific shock for the four national cases most deeply affected: Portugal, Spain, Italy, and Greece. In all cases, with the possible exception of Spain, we can observe steep increases in rates of nonparticipation, impacting particularly the less educated, except for Greece, for which we can see general negative impacts of the crisis on participation across all levels of education. Overall, the results depicted in this visualization suggest that cultural participation practices can be affected by large exogenous shocks at timescales below gradual cohort change.",
+  "authors": [
+    {
+      "raw": "Lizardo, Omar",
+      "family": "Lizardo",
+      "given": "Omar"
+    }
+  ],
+  "authors_text": "Lizardo, Omar",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231184968",
+  "doi_url": "https://doi.org/10.1177/23780231231184968",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231184968",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231184968.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

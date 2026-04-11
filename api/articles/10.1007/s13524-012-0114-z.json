@@ -1,0 +1,30 @@
+{
+  "title": "Polygyny, Partnership Concurrency, and HIV Transmission in Sub-Saharan Africa",
+  "abstract": "AbstractWe study the relationship between polygyny and HIV infection using nationally representative survey data with linked serostatus information from 20 African countries. Our results indicate that junior wives in polygynous unions are more likely to be HIV positive than spouses of monogamous men, but also that HIV prevalence is lower in populations with more polygyny. With these results in mind, we investigate four explanations for the contrasting individual- and ecological-level associations. These relate to (1) the adverse selection of HIV-positive women into polygynous unions, (2) the sexual network structure characteristic of polygyny, (3) the relatively low coital frequency in conjugal dyads of polygynous marriages (coital dilution), and (4) the restricted access to sexual partners for younger men in populations where polygynous men presumably monopolize the women in their community (monopolizing polygynists). We find evidence for some of these mechanisms, and together they support the proposition that polygynous marriage systems impede the spread of HIV. We relate these results to the debate about partnership concurrency as a primary behavioral driver for the fast propagation of HIV in some parts of sub-Saharan Africa.",
+  "authors": [
+    {
+      "raw": "Reniers, Georges",
+      "family": "Reniers",
+      "given": "Georges"
+    },
+    {
+      "raw": "Tfaily, Rania",
+      "family": "Tfaily",
+      "given": "Rania"
+    }
+  ],
+  "authors_text": "Reniers, Georges; Tfaily, Rania",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0114-z",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0114-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0114-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0114-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

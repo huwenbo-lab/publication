@@ -1,0 +1,30 @@
+{
+  "title": "Estimating Social and Ethnic Inequality in School Surveys: Biases from Child Misreporting and Parent Nonresponse",
+  "abstract": "We study the biases that arise in estimates of social inequalities in children's cognitive ability test scores due to (i) children's misreporting of socio-economic origin and (ii) parents' nonresponse. Unlike most previous studies, we are able to draw on linked register data with high reliability and almost no missingness and thereby jointly consider the impact of measurement error and nonresponse. Using data on 14-year-olds (n = 18,716) from a new survey conducted in England, Germany, the Netherlands, and Sweden (Children of Immigrants Longitudinal Survey in Four European Countries), we find that child reports on parental occupation are well aligned with parents' reports in all countries, but reports on parental education less so. This leads to underestimation of socio-economic disparities when child reports of education are used, but not occupation. Selective nonresponse among parents turns out to be a real problem, resulting in similar underestimation. We also investigate conditional estimates of immigrant-non-immigrant disparities, which are surprisingly little affected by measurement error or nonresponse in socio-economic control variables. We conclude that school-based surveys on teenagers are well advised to include questions on parental occupation, while the costs for carrying out parental questionnaires may outweigh the gains.",
+  "authors": [
+    {
+      "raw": "Engzell, Per",
+      "family": "Engzell",
+      "given": "Per"
+    },
+    {
+      "raw": "Jonsson, Jan O.",
+      "family": "Jonsson",
+      "given": "Jan O."
+    }
+  ],
+  "authors_text": "Engzell, Per; Jonsson, Jan O.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcv005",
+  "doi_url": "https://doi.org/10.1093/esr/jcv005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

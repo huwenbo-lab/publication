@@ -1,0 +1,25 @@
+{
+  "title": "Heterogeneous Effects of Intergenerational Social Mobility: An Improved Method and New Evidence",
+  "abstract": "Intergenerational social mobility has immense implications for individuals' well-being, attitudes, and behaviors. However, previous methods may be unreliable for estimating heterogeneous mobility effects, especially in the presence of moderate- or large-scale intergenerational mobility. I propose an improved method, called the mobility contrast model (MCM). Using simulation evidence, I demonstrate that the MCM is more flexible and reliable for estimating and testing heterogeneous mobility effects, and the results are robust to the scale of intergenerational mobility. I revisit the debate about the effect of mobility on fertility and analyze data from the 1962 Occupational Changes in a Generation Study (OCG-1) and more recent data from the 1974 through 2018 General Social Survey (GSS) using previous models and the MCM. The MCM suggests a small association between fertility and occupational mobility in the GSS data but substantial and heterogeneous educational mobility effects on fertility in the OCG-1 and the GSS. Such effects are difficult to pinpoint using previous methods because mobility effects of different magnitudes and opposite directions among mobility groups may cancel each other out. The new method can be extended to investigate the effect of intergenerational mobility across multiple generations and other research areas, including immigrant assimilation and heterogamy.",
+  "authors": [
+    {
+      "raw": "Luo, Liying",
+      "family": "Luo",
+      "given": "Liying"
+    }
+  ],
+  "authors_text": "Luo, Liying",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1177/00031224211052028",
+  "doi_url": "https://doi.org/10.1177/00031224211052028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211052028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211052028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Tying the Extended Family KnotGrandparents' Influence on Educational Achievement",
+  "abstract": "In present-day western societies grandparents and grandchildren have longer years of shared lifetime than ever before. We investigate whether children with more grandparent resources have a higher probability of achieving the general secondary degree compared with children with fewer resources, or whether shared lifetime with grandparents increases the probability of achieving the general secondary degree. We use high-quality Finnish Census Panel data and apply sibling random and fixed-effects models that also control for all unobserved factors shared by siblings. Grandparents' education and socioeconomic status have only a limited ability to explain a grandchild's educational achievement. However, the sibling fixed-effects models reveal that every shared year between grandparents and grandchildren increases a grandchild's likelihood of completing general secondary education by 1 percentage point, on average. The effect of shared lifetime is conditional on grandparental type, family resources, and the size of the extended family. Maternal grandmothers have a positive effect on grandchildren's education in low-income families. Paternal grandmothers provide a link to the resources available through the extended family network, independent of their own resources. The same effects were not observed for grandfathers.",
+  "authors": [
+    {
+      "raw": "Lehti, Hannu",
+      "family": "Lehti",
+      "given": "Hannu"
+    },
+    {
+      "raw": "Erola, Jani",
+      "family": "Erola",
+      "given": "Jani"
+    },
+    {
+      "raw": "Tanskanen, Antti O.",
+      "family": "Tanskanen",
+      "given": "Antti O."
+    }
+  ],
+  "authors_text": "Lehti, Hannu; Erola, Jani; Tanskanen, Antti O.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcy044",
+  "doi_url": "https://doi.org/10.1093/esr/jcy044",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy044",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy044.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

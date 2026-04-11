@@ -1,0 +1,30 @@
+{
+  "title": "Son targeting fertility behavior: Some consequences and determinants",
+  "abstract": "Abstract This article draws out some implications of son targeting fertility behavior and studies its determinants. We demonstrate that such behavior has two notable implications at the aggregate level: (a) girls have a larger number of siblings (sibling effect), and (b) girls are born at relatively earlier parities within families (birth-order effect). Empirically testing for these effects, we find that both are present in many countries in South Asia, Southeast Asia, and North Africa but are absent in the countries of sub-Saharan Africa. Using maximum likelihood estimation, we study the effect of covariates on son targeting fertility behavior in India, a country that displays significant sibling and birth-order effects. We find that income and geographic location of families significantly affect son targeting behavior.",
+  "authors": [
+    {
+      "raw": "Basu, Deepankar",
+      "family": "Basu",
+      "given": "Deepankar"
+    },
+    {
+      "raw": "De Jong, Robert",
+      "family": "De Jong",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Basu, Deepankar; De Jong, Robert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0110",
+  "doi_url": "https://doi.org/10.1353/dem.0.0110",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0110",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0110.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

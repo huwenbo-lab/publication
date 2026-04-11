@@ -1,0 +1,35 @@
+{
+  "title": "Assessing the Significance of Cohort and Period Effects in Hierarchical Age-Period-Cohort Models: Applications to Verbal Test Scores and Voter Turnout in U.S. Presidential Elections",
+  "abstract": "In recently developed hierarchical age-period-cohort (HAPC) models, inferential questions arise: How can one assess or judge the significance of estimates of individual cohort and period effects in such models? And how does one assess the overall statistical significance of the cohort and/or the period effects? Beyond statistical significance is the question of substantive significance. This paper addresses these questions. In the context of empirical applications of linear and generalized linear mixed-model specifications of HAPC models using data on verbal test scores and voter turnout in U.S. presidential elections, respectively, we describe a two-step approach and a set of guidelines for assessing statistical significance. The guidelines include assessments of patterns of effects and statistical tests both for the effects of individual cohorts and time periods as well as for entire sets of cohorts and periods. The empirical applications show strong evidence that trends in verbal test scores are primarily cohort driven, while voter turnout is primarily a period phenomenon.",
+  "authors": [
+    {
+      "raw": "Frenk, S. M.",
+      "family": "Frenk",
+      "given": "S. M."
+    },
+    {
+      "raw": "Yang, Y. C.",
+      "family": "Yang",
+      "given": "Y. C."
+    },
+    {
+      "raw": "Land, K. C.",
+      "family": "Land",
+      "given": "K. C."
+    }
+  ],
+  "authors_text": "Frenk, S. M.; Yang, Y. C.; Land, K. C.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sot066",
+  "doi_url": "https://doi.org/10.1093/sf/sot066",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsot066",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sot066.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

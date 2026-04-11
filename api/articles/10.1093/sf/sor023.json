@@ -1,0 +1,30 @@
+{
+  "title": "Bringing You More Than the Weekend: Union Membership and Self-rated Health in the United States",
+  "abstract": "Previous research suggests that higher incomes, safe workplaces, job security and healthcare access all contribute to favorable health. Reflecting the interest of economic and political sociologists in power relations and institutions, union membership has been linked with many such influences on health. Nevertheless, the potential relationship between union membership and health has received little attention. Using logistic regression and propensity score matching, this study examines the association between union membership and self-rated health generally and among select subgroups of the workforce with the General Social Survey from 1973 to 2006. Initial bivariate analyses suggest that union membership is actually associated with worse health. This association disappears when controlling for demographics, then reverses and becomes significant when controlling for labor market characteristics. In well-specified models, union membership has a significant positive effect on favorable self-rated health. The effect roughly offsets the effects of five years of aging or being divorced (as opposed to married). In addition, propensity score matching analyses demonstrate that union membership has a beneficial, significant average treatment effect for the treated. We show that much of union membership's effect in the overall sample is due to the mechanism of higher incomes, but that among men, the less educated, and those with lower incomes, the union-health advantage is not explained fully by income. The effect of union membership also appears to be stable over time. We conclude by encouraging further research on how power relations and institutions shape health.",
+  "authors": [
+    {
+      "raw": "Reynolds, M. M.",
+      "family": "Reynolds",
+      "given": "M. M."
+    },
+    {
+      "raw": "Brady, D.",
+      "family": "Brady",
+      "given": "D."
+    }
+  ],
+  "authors_text": "Reynolds, M. M.; Brady, D.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2012,
+  "doi": "10.1093/sf/sor023",
+  "doi_url": "https://doi.org/10.1093/sf/sor023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsor023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sor023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

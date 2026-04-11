@@ -1,0 +1,25 @@
+{
+  "title": "Early Origins of the Gradient: The Relationship between Socioeconomic Status and Infant Mortality in the United States",
+  "abstract": "Although relationships between social conditions and health have been documented for centuries, the past few decades have witnessed the emergence of socioeconomic gradients in health and mortality in most developed countries. These gradients indicate that health improves, although decreasingly so, at higher levels of socioeconomic status. To minimize problems with reverse causality, I tested competing hypotheses for observed socioeconomic gradients for infant mortality outcomes. I found no support for the income-inequality hypothesis and negligible support for the occupational-grade hypothesis. The results indicate that absolute material conditions are the most important determinants of socioeconomic effects on the risk of infant mortality and that while poverty has the most pronounced effect on risk, income is decreasingly salutary across the majority of the mortality gradient.",
+  "authors": [
+    {
+      "raw": "Finch, Brian Karl",
+      "family": "Finch",
+      "given": "Brian Karl"
+    }
+  ],
+  "authors_text": "Finch, Brian Karl",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.2307/1515203",
+  "doi_url": "https://doi.org/10.2307/1515203",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F1515203",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/1515203.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

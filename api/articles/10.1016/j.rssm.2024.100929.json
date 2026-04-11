@@ -1,0 +1,30 @@
+{
+  "title": "Gender stratification, racial disparities, and student debt trajectories in the United States",
+  "abstract": "In the United States, post -secondary educational outcomes are stratified by gender, with women attending college and completing their degrees at higher rates. At the same time, student loan debt has become an ubiquitous part of the college process for many pursuing higher education, increasing the financial risks associated with the pursuit of higher education while lessening the financial rewards. Using data from the National Longitudinal Survey of Youth 1997 (NLSY97) of young adults who ever attended a post -secondary institution and growth curve models, we estimate gender disparities in student debt trajectories throughout young adulthood. Building on work on the racialization of the student debt landscape (Houle & Addo 2022), we also investigate the intersection of race and gender, and include both within race gender analyses and within gender racial analyses. Gender differences in student debt at baseline, or at the age of first college enrollment, are large and the gender debt gap grows at 1.2 % per year. We document evidence of a curvilinear relationship in student debt in young adulthood, with student debt accumulating at the beginning of the college enrollment period and the rate of increase declining over time as adults age. Women, who start the period with larger amounts of student debt, experience faster growth in their debt accumulation followed by lower declines relative to young adult men. These patterns are magnified among Black young adults, with the gender debt disparity between Black women and Black men growing 3.4 % annually. We find no association between gender and student debt trajectories among Latinx and White young adults. Within -gender models highlight the prevalence of the student debt crisis among Black women and Black men. Additional analyses suggest gender differences in debt trajectories are a function of postsecondary and young adult socioeconomic characteristics, reflecting broader societal inequalities that stem from structural elements related to post -secondary schooling and economic status. These patterns may inhibit wealth -building among women and Black adults in the United States.",
+  "authors": [
+    {
+      "raw": "Addo, Fenaba R.",
+      "family": "Addo",
+      "given": "Fenaba R."
+    },
+    {
+      "raw": "Zhang, Xing",
+      "family": "Zhang",
+      "given": "Xing"
+    }
+  ],
+  "authors_text": "Addo, Fenaba R.; Zhang, Xing",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100929",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100929",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100929",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100929.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

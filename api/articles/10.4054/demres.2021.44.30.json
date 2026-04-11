@@ -1,0 +1,40 @@
+{
+  "title": "Mexican mortality 1990-2016: Comparison of unadjusted and adjusted estimates",
+  "abstract": "BACKGROUND Vital statistics registration and census counts for Mexico may be incomplete, resulting in unreliable mortality indicators. OBJECTIVE We evaluate unadjusted mortality estimates for Mexico during 1990-2016 and compare them with other published estimates for Mexico and with the historical mortality patterns observed among the 41 Human Mortality Database (HMD) populations. Finally, we investigate the effect of various adjustments on estimated life expectancy. METHODS We apply the HMD methodology to the official vital statistics and census counts to construct unadjusted life table series for Mexico. Then we make adjustments by substituting revised estimates for child mortality and by fitting a log-quadratic model. RESULTS Adjusted estimates of mortality below age 5 derived by the UN Inter-agency Group for Child Mortality Estimation (IGME) are up to 48% higher than our unadjusted estimates. Even in 2015, the IGME-adjusted estimates of child mortality remain at least 10% higher than our unadjusted estimates. Our analysis suggests that there may also be underestimation of mortality at both prime adult ages and the oldest ages. The log-quadratic model produced the lowest estimates of life expectancy at birth (3.8-4.4 years lower than the unadjusted values in 1995). CONCLUSIONS Unadjusted estimates are likely to underestimate mortality in Mexico, even in recent years. Adjustments may improve the accuracy of the mortality estimates, but we cannot adjudicate which set of adjusted estimates is closest to reality. CONTRIBUTION This is the first time the HMD methodology has been applied to the Mexican data.",
+  "authors": [
+    {
+      "raw": "Glei, Dana A.",
+      "family": "Glei",
+      "given": "Dana A."
+    },
+    {
+      "raw": "Paz, Andres Barajas",
+      "family": "Paz",
+      "given": "Andres Barajas"
+    },
+    {
+      "raw": "Aburto, Jose Manuel",
+      "family": "Aburto",
+      "given": "Jose Manuel"
+    },
+    {
+      "raw": "Barbieri, Magali",
+      "family": "Barbieri",
+      "given": "Magali"
+    }
+  ],
+  "authors_text": "Glei, Dana A.; Paz, Andres Barajas; Aburto, Jose Manuel; Barbieri, Magali",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.30",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

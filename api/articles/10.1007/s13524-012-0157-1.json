@@ -1,0 +1,35 @@
+{
+  "title": "Causal Effects of Single-Sex Schools on College Entrance Exams and College Attendance: Random Assignment in Seoul High Schools",
+  "abstract": "Abstract Despite the voluminous literature on the potentials of single-sex schools, there is no consensus on the effects of single-sex schools because of student selection of school types. We exploit a unique feature of schooling in Seoul—the random assignment of students into single-sex versus coeducational high schools—to assess causal effects of single-sex schools on college entrance exam scores and college attendance. Our validation of the random assignment shows comparable socioeconomic backgrounds and prior academic achievement of students attending single-sex schools and coeducational schools, which increases the credibility of our causal estimates of single-sex school effects. The three-level hierarchical model shows that attending all-boys schools or all-girls schools, rather than coeducational schools, is significantly associated with higher average scores on Korean and English test scores. Applying the school district fixed-effects models, we find that single-sex schools produce a higher percentage of graduates who attended four-year colleges and a lower percentage of graduates who attended two-year junior colleges than do coeducational schools. The positive effects of single-sex schools remain substantial, even after we take into account various school-level variables, such as teacher quality, the student-teacher ratio, the proportion of students receiving lunch support, and whether the schools are public or private.",
+  "authors": [
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    },
+    {
+      "raw": "Behrman, Jere R.",
+      "family": "Behrman",
+      "given": "Jere R."
+    },
+    {
+      "raw": "Choi, Jaesung",
+      "family": "Choi",
+      "given": "Jaesung"
+    }
+  ],
+  "authors_text": "Park, Hyunjoon; Behrman, Jere R.; Choi, Jaesung",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0157-1",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0157-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0157-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0157-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

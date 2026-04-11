@@ -1,0 +1,30 @@
+{
+  "title": "Do Daughters Really Cause Divorce? Stress, Pregnancy, and Family Composition",
+  "abstract": "AbstractProvocative studies have reported that in the United States, marriages producing firstborn daughters are more likely to divorce than those producing firstborn sons. The findings have been interpreted as contemporary evidence of fathers’ son preference. Our study explores the potential role of another set of dynamics that may drive these patterns: namely, selection into live birth. Epidemiological evidence indicates that the characteristic female survival advantage may begin before birth. If stress accompanying unstable marriages has biological effects on fecundity, a female survival advantage could generate an association between stability and the sex composition of offspring. Combining regression and simulation techniques to analyze real-world data, we ask, How much of the observed association between sex of the firstborn child and risk of divorce could plausibly be accounted for by the joint effects of female survival advantage and reduced fecundity associated with unstable marriage? Using data from the National Longitudinal Survey of Youth (NLSY79), we find that relationship conflict predicts the sex of children born after conflict was measured; conflict also predicts subsequent divorce. Conservative specification of parameters linking pregnancy characteristics, selection into live birth, and divorce are sufficient to generate a selection-driven association between offspring sex and divorce, which is consequential in magnitude. Our findings illustrate the value of demographic accounting of processes which occur before birth—a period when many outcomes of central interest in the population sciences begin to take shape.",
+  "authors": [
+    {
+      "raw": "Hamoudi, Amar",
+      "family": "Hamoudi",
+      "given": "Amar"
+    },
+    {
+      "raw": "Nobles, Jenna",
+      "family": "Nobles",
+      "given": "Jenna"
+    }
+  ],
+  "authors_text": "Hamoudi, Amar; Nobles, Jenna",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0305-x",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0305-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0305-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0305-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Intergenerational accumulation of social disadvantages across generations in young adulthood",
+  "abstract": "We analyze the intergenerational transmission of social disadvantages in the context of the Finnish welfare state. Previous research on intergenerational transmission has typically concentrated on educational attainment, income and social class as separate factors. Researchers commonly measure parental standing using single indicators that are very general and do not address social disadvantage; rather, these single indicators only address socioeconomic status in general. Therefore, we measure both parental disadvantage and children's outcomes using three indicators: dropping out of school after completing compulsory education, unemployment, and receipt of social assistance. We assume that there are differences in how strongly different disadvantage indicators are intergenerationally inherited and how they accumulate across generations. We use high-quality register data from Finland (n = 157 135). Parental information was collected when each child was 15 years old, and the young adulthood outcomes were collected when the child was 22. We analyze data with sibling methods using random-effect linear regression models to study the importance of a disadvantaged background on adulthood outcomes. According to the results, all three social disadvantages are intergenerationally inherited in Finland. Accumulation of disadvantage, receipt of social assistance and dropping out of school after compulsory education are inherited more strongly than unemployment. The lack of economic resources in the family does not explain why other family disadvantages are transferred across generations. (C) 2017 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license",
+  "authors": [
+    {
+      "raw": "Vauhkonen, Teemu",
+      "family": "Vauhkonen",
+      "given": "Teemu"
+    },
+    {
+      "raw": "Kallio, Johanna",
+      "family": "Kallio",
+      "given": "Johanna"
+    },
+    {
+      "raw": "Kauppinen, Timo M.",
+      "family": "Kauppinen",
+      "given": "Timo M."
+    },
+    {
+      "raw": "Erola, Jani",
+      "family": "Erola",
+      "given": "Jani"
+    }
+  ],
+  "authors_text": "Vauhkonen, Teemu; Kallio, Johanna; Kauppinen, Timo M.; Erola, Jani",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2017,
+  "doi": "10.1016/j.rssm.2017.02.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2017.02.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2017.02.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2017.02.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

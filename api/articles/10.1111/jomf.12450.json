@@ -1,0 +1,30 @@
+{
+  "title": "Household Income, Women's Earnings, and Spending on Household Services, 1980-2010",
+  "abstract": "The authors investigated changes in household outsourcing, the practice of spending on services that replace household labor, from 1980 to 2010. During this time, women's labor force participation, increased and economic, household bargaining, and time availability theories predict increased spending during this period. To test these predictions, the authors used data on spending on housekeeping, day care, babysitting and nannies, gardening and lawn services, eating out and pre-prepared foods from the 1980-2010 Consumer Expenditure Surveys using 327,903 household-quarters from the interview survey and 86,877 household-weeks from the diary survey. The results indicate that changes in income predicted increases in housekeeping, child care, and gardening services. Changes in household characteristics predicted little change in food outsourcing, although food outsourcing did increase. Changes in women's earnings predicted little change in most outsourcing. The authors conclude the article with a discussion of the changing context for outsourcing.",
+  "authors": [
+    {
+      "raw": "Kornrich, Sabino",
+      "family": "Kornrich",
+      "given": "Sabino"
+    },
+    {
+      "raw": "Roberts, Allison",
+      "family": "Roberts",
+      "given": "Allison"
+    }
+  ],
+  "authors_text": "Kornrich, Sabino; Roberts, Allison",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2018,
+  "doi": "10.1111/jomf.12450",
+  "doi_url": "https://doi.org/10.1111/jomf.12450",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12450",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12450.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

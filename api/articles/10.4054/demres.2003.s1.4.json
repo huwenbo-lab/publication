@@ -1,0 +1,30 @@
+{
+  "title": "How do we know we need to control for selectivity?",
+  "abstract": "In the previous two decades there has been considerable progress in recognizing biases due to selectivity that are associated with the use of observational data to make causal inferences and in developing models to control for these biases statisticall",
+  "authors": [
+    {
+      "raw": "Watkins, Susan",
+      "family": "Watkins",
+      "given": "Susan"
+    },
+    {
+      "raw": "Warriner, Ina",
+      "family": "Warriner",
+      "given": "Ina"
+    }
+  ],
+  "authors_text": "Watkins, Susan; Warriner, Ina",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2003,
+  "doi": "10.4054/demres.2003.s1.4",
+  "doi_url": "https://doi.org/10.4054/demres.2003.s1.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2003.s1.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2003.s1.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

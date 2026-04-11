@@ -1,0 +1,30 @@
+{
+  "title": "Family Background, Private Tutoring, and Children's Educational Performance in Contemporary China",
+  "abstract": "The prevalence of private tutoring is often noted in the literature on education in East Asia. Empirical evidence concerning the causes and consequences of private tutoring, however, is sparse, especially for China. In this article, we draw upon data from the 2010 China Family Panel Studies to explore whether children's tutoring experiences are influenced by family background and whether private tutoring benefits children's educational performance. Our empirical analyses show that higher parental education, higher family income, and fewer siblings are all associated with a higher likelihood of private tutoring and higher levels of spending on it. Furthermore, private tutoring and spending on tutoring are predictive of higher verbal and math performances, although the difference in math performance between children who received private tutoring and those who did not is statistically insignificant after controlling for family background.",
+  "authors": [
+    {
+      "raw": "Zhang, Yueyun",
+      "family": "Zhang",
+      "given": "Yueyun"
+    },
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Zhang, Yueyun; Xie, Yu",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1080/21620555.2015.1096193",
+  "doi_url": "https://doi.org/10.1080/21620555.2015.1096193",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2015.1096193",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2015.1096193.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Understanding why employers discriminate, where and against whom: The potential of cross-national, factorial and multi-group field experiments",
+  "abstract": "While the field of (experimental) discrimination research is rapidly expanding and technology decreases the costs of designing and conducting field experiments, virtually all existing studies refer to a single country. Yet, cross-national comparison is a cornerstone of stratification and inequality research and comparative designs are necessary to understand the conditions under which employers are more prone to making biased decisions. Furthermore, previous studies often include only a handful of -typically the most marginalized- minority groups and restrict the experimental variation to ethnicity. We argue for a research design that reflects the geographical and demographic complexity of contemporary societies and is better suited to test the theoretical assumptions underlying discrimination. We discuss how external validity can be maximized in a comparative research design that is both factorial (simultaneously varying multiple treatments) and double-comparative (comparing multiple origin groups in multiple destination countries). Drawing on our first-hand experience with the GEMM study, a cross-nationally harmonized field experiment on ethnic discrimination in hiring, we show how this design can offer researchers new insight into the targets, drivers and scope conditions of employers' discriminatory behavior.",
+  "authors": [
+    {
+      "raw": "Di Stasio, Valentina",
+      "family": "Di Stasio",
+      "given": "Valentina"
+    },
+    {
+      "raw": "Lancee, Bram",
+      "family": "Lancee",
+      "given": "Bram"
+    }
+  ],
+  "authors_text": "Di Stasio, Valentina; Lancee, Bram",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100463",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100463",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100463",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100463.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

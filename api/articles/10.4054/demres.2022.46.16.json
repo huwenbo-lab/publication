@@ -1,0 +1,30 @@
+{
+  "title": "Do tenants suffer from status syndrome? Homeownership, norms, and suicide in Belgium",
+  "abstract": "BACKGROUND Death by suicide is particularly high for the middle-aged and for single and/or childless individuals. At the same time, the risk of suicide is higher for tenants than for homeowners. The literature linking housing tenure and suicide according to age, gender, and family configuration is scarce. OBJECTIVE This study examines the varying association between housing tenure and suicide risk according to sex, age (for adults), and household composition. METHODS We used data from Belgium's National Register linked to 2001 census data and death certificates. We conducted multinomial logit regression to estimate the mortality relative risk ratios by suicide and by other causes in the population aged 25 to 69 years in 2002, separately by sex. RESULTS We find that homeownership was negatively associated with suicide risk for both men and women, before and after controlling for age, housing quality, and demographic and socioeconomic characteristics. Interacting age and housing tenure, we find that renting is associated with a higher risk of suicide among adults in their 40s and 50s, but not among younger and older adults. Among marital and parental statuses, married men and single women with no children at home present a higher risk of suicide in mid-life when renting, compared to owning. CONCLUSIONS Homeownership is associated with a lower suicide risk for middle-aged populations, more specifically for married men, unpartnered women, and individuals living without children. CONTRIBUTION Our research provides a better understanding of the role of gender and family norms in the association between housing tenure and suicide mortality.",
+  "authors": [
+    {
+      "raw": "Damiens, Joan",
+      "family": "Damiens",
+      "given": "Joan"
+    },
+    {
+      "raw": "Schnor, Christine",
+      "family": "Schnor",
+      "given": "Christine"
+    }
+  ],
+  "authors_text": "Damiens, Joan; Schnor, Christine",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.16",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

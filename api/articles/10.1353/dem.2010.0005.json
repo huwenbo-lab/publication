@@ -1,0 +1,35 @@
+{
+  "title": "Biodemography: New approaches to understanding trends and differences in population health and mortality",
+  "abstract": "Abstract The incorporation of biological information in large population surveys has expanded demographic analysis to clarify the meaning of observed trends and differences in population health and mortality. Levels of measured biological risk in the population were reduced in recent years largely because of the expanded use of prescription drugs. The increased use of antihypertensives and, to a lesser extent, lipid-lowering drugs was a likely cause of significant mortality reduction. Blacks and persons with lower educational attainment experience higher levels of biological risk factors, more diseases, and more frailty; these differences are the sources of higher mortality for these groups. Hispanics are less likely to have a higher prevalence of risk factors and diseases than the non-Hispanic population, providing further understanding of the “Hispanic paradox.” Almost every examined indicator of biological risk, disease, and frailty is related to higher mortality, indicating how incorporation of this information provides a fuller understanding of the morbidity process.",
+  "authors": [
+    {
+      "raw": "Crimmins, Eileen",
+      "family": "Crimmins",
+      "given": "Eileen"
+    },
+    {
+      "raw": "Kim, Jung Ki",
+      "family": "Kim",
+      "given": "Jung Ki"
+    },
+    {
+      "raw": "Vasunilashorn, Sarinnapha",
+      "family": "Vasunilashorn",
+      "given": "Sarinnapha"
+    }
+  ],
+  "authors_text": "Crimmins, Eileen; Kim, Jung Ki; Vasunilashorn, Sarinnapha",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.2010.0005",
+  "doi_url": "https://doi.org/10.1353/dem.2010.0005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2010.0005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2010.0005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

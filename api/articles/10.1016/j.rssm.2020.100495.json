@@ -1,0 +1,35 @@
+{
+  "title": "Income during the early career: Do institutional characteristics of training occupations matter?",
+  "abstract": "This paper addresses the mechanisms leading to income differences during the early career, both between individuals and between occupations. It compares the level of standardization, vocational specificity, and vertical differentiation of vocational education and training (VET) programmes and examines how these differences affect VET diploma holders' incomes in their early careers. We go beyond previous research by developing refined theoretical concepts of vocational specificity, standardization, and differentiation and by measuring them with novel curriculum-based data. Theoretically, the paper assumes that training programmes' institutional characteristics determine income by influencing diploma holders' productivity as well as the signalling power of the degree. We test our hypotheses by combining institutional data from VET curricula with individual-level data from the Swiss Labour Force Survey and by applying multilevel regression analyses. The results show that the institutional dimensions, in particular vocational specificity, are multifaceted and consist of several subdimensions, which impact young workers' incomes to different degrees at various time points during their early careers.",
+  "authors": [
+    {
+      "raw": "Gronning, Miriam",
+      "family": "Gronning",
+      "given": "Miriam"
+    },
+    {
+      "raw": "Kriesi, Irene",
+      "family": "Kriesi",
+      "given": "Irene"
+    },
+    {
+      "raw": "Sacchi, Stefan",
+      "family": "Sacchi",
+      "given": "Stefan"
+    }
+  ],
+  "authors_text": "Gronning, Miriam; Kriesi, Irene; Sacchi, Stefan",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100495",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100495",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100495",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100495.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Evaluating the Mobilization Effect of Online Political Network Structures: A Comparison between the Black Lives Matter Network and Ideal Type Network Configurations",
+  "abstract": "Do online networks encourage political participation? Much research has theorized on how digital networks transmit mobilizing content, fewer studies examine the structure of online networks, and even fewer test how the structure of online networks affects participation for political behaviors with differing costs. From a structural network perspective, I highlight the puzzle: If according to recent literature, digital networks are loose with many weak ties, how can such a network configuration facilitate high-cost political behavior that requires multiple social reinforcements? I map the following relationships among 655 Twitter users who follow the Black Lives Matter Sacramento chapter and compare the structure of the digital network to three commonly observed ideal type networks. The results show that the digital network is structurally distinct from the ideal types, as it is characterized by an extremely dense cluster but also with many loosely connected components, which I describe as a cluster-connective network. Results from computer experiments further show that paradoxically, this cluster-connective configuration benefits participation for high-cost behavior but hinders participation for low-cost behavior. The results illustrate how a structural network perspective helps scholars move from the question of whether digital networks facilitate participation to the conditions under which digital networks encourage participation.",
+  "authors": [
+    {
+      "raw": "Hsiao, Yuan",
+      "family": "Hsiao",
+      "given": "Yuan"
+    }
+  ],
+  "authors_text": "Hsiao, Yuan",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa064",
+  "doi_url": "https://doi.org/10.1093/sf/soaa064",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa064",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa064.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

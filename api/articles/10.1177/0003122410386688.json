@@ -1,0 +1,30 @@
+{
+  "title": "Neighborhood Context and the Gender Gap in Adolescent Violent Crime",
+  "abstract": "Research consistently demonstrates that females engage in less criminal behavior than males across the life course, but research on the variability of the gender gap across contexts is sparse. To address this issue, we examine the gender gap in self-reported violent crime among adolescents across neighborhoods. Multilevel models using data from the Project of Human Development in Chicago Neighborhoods (PHDCN) indicate that the gender gap in violent crime decreases as levels of neighborhood disadvantage increase. Furthermore, the narrowing of the gender gap is explained by gender differences in peer influence on violent offending. Neighborhood disadvantage increases exposure to peer violence for both sexes, but peer violence has a stronger impact on violent offending for females than for males; this produces the reduction in the gender gap at higher levels of disadvantage. We also find that the gender difference in the relationship between peer violence and offending is explained, in part, by (1) the tendency for females to have more intimate friendships than do males and (2) the moderating effect of peer intimacy on the relationship between peer violence and self-reported violent behavior.",
+  "authors": [
+    {
+      "raw": "Zimmerman, Gregory M.",
+      "family": "Zimmerman",
+      "given": "Gregory M."
+    },
+    {
+      "raw": "Messner, Steven F.",
+      "family": "Messner",
+      "given": "Steven F."
+    }
+  ],
+  "authors_text": "Zimmerman, Gregory M.; Messner, Steven F.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122410386688",
+  "doi_url": "https://doi.org/10.1177/0003122410386688",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410386688",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410386688.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

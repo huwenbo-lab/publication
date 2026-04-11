@@ -1,0 +1,35 @@
+{
+  "title": "Longitudinal Links of Parenthood Regret and Parental Burnout at the Between-Person and Within-Person Levels",
+  "abstract": "ObjectiveThis study examines the longitudinal and reciprocal relationships between parenthood regret and parental burnout.BackgroundParenthood regret and parental burnout are increasingly recognized as common, yet distinct forms of negative parental experiences with potentially severe consequences for family wellbeing. Prior research has primarily studied these constructs separately, providing limited insight into how they mutually reinforce one another over time.MethodTwo longitudinal studies were conducted involving parents from Poland (Study 1; N = 1275, emerging adults, convenience sample, 12-month duration) and primarily the United Kingdom and United States (Study 2; N = 1545, diverse ages, convenience sample, 8-month duration). Parenthood regret and parental burnout were assessed using validated self-report measures administered at three intervals; data were analyzed using cross-lagged panel models (CLPM) and random-intercept cross-lagged panel models (RI-CLPM).ResultsFindings indicated reciprocal associations at the between-person level: parents experiencing higher parental burnout reported increased parenthood regret over time and vice versa. At the within-person level, however, only increases in parenthood regret consistently predicted subsequent increases in parental burnout; the reverse direction was not supported.ConclusionParenthood regret and parental burnout are reciprocally linked at the between-person level, while parenthood regret appears to play a particularly significant role at the within-person developmental level.ImplicationsResults underscore the need for interventions addressing parenthood regret concerns to reduce long-term burnout risks.",
+  "authors": [
+    {
+      "raw": "Piotrowski, Konrad",
+      "family": "Piotrowski",
+      "given": "Konrad"
+    },
+    {
+      "raw": "Mikolajczak, Moira",
+      "family": "Mikolajczak",
+      "given": "Moira"
+    },
+    {
+      "raw": "Roskam, Isabelle",
+      "family": "Roskam",
+      "given": "Isabelle"
+    }
+  ],
+  "authors_text": "Piotrowski, Konrad; Mikolajczak, Moira; Roskam, Isabelle",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13127",
+  "doi_url": "https://doi.org/10.1111/jomf.13127",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13127",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13127.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

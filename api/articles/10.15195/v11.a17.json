@@ -1,0 +1,30 @@
+{
+  "title": "The Effects of Social Mobility",
+  "abstract": "The question of how social mobility affects outcomes, such as political preferences, wellbeing, and fertility, has long been of interest to sociologists. But finding answers to this question has been plagued by, on the one hand, the non-identifiability of \"mobility effects\" as they are usually conceived in this literature, and, on the other, the fact that these \"effects\" are, in reality, partial associations which may or may not represent causal relationships. We advance a different approach, drawing on a causal framework that sees the destination categories as treatments whose effects may be heterogeneous across origin categories. Our view is that most substantive hypotheses have in mind a hypothetical within-person comparison, rather than a between-person comparison. This approach is not subject to many of the problematic issues that have beset earlier attempts to formulate a model of mobility effects, and it places the study of such effects on a more reliably causal footing. We show how our approach relates to previous attempts to model mobility effects and explain how it differs both conceptually and empirically. We illustrate our approach using political preference data from the United Kingdom.",
+  "authors": [
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    },
+    {
+      "raw": "Ermisch, John",
+      "family": "Ermisch",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Breen, Richard; Ermisch, John",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2024,
+  "doi": "10.15195/v11.a17",
+  "doi_url": "https://doi.org/10.15195/v11.a17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv11.a17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v11.a17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Gender, caste, and education in India: A cohort-wise study of drop-out from schools",
+  "abstract": "In this paper, we apply survival analysis to examine gender variations in retention at different levels of school education in India. The source of data is the 68th round of the National Sample Survey on Employment and Unemployment, undertaken in 2011-12. Analysis indicates that a high proportion of enrolled students generally complete primary levels. Thereafter, there is a sharp drop-out of both boys and girls. Cohort-wise analysis of survival functions reveals that gender disparity has fallen over time, but persists markedly in rural areas. Although socially backward classes like Muslims lag behind Hindu Forward Castes, girls within the Muslim community are in a relatively better position. Recent government measures to ensure inclusive educational system seem to have had an effect on reducing both drop-outs and the gender gap.",
+  "authors": [
+    {
+      "raw": "Goel, Shobhit",
+      "family": "Goel",
+      "given": "Shobhit"
+    },
+    {
+      "raw": "Husain, Zakir",
+      "family": "Husain",
+      "given": "Zakir"
+    }
+  ],
+  "authors_text": "Goel, Shobhit; Husain, Zakir",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2018,
+  "doi": "10.1016/j.rssm.2018.10.002",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2018.10.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2018.10.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2018.10.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

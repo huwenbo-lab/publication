@@ -1,0 +1,35 @@
+{
+  "title": "Patterns of nonresident father contact",
+  "abstract": "Abstract We used the National Longitudinal Survey of Youth 1979 cohort (NLSY79) from 1979 to 2002 and the Children of the National Longitudinal Survey of Youth (CNLSY) from 1986 to 2002 to describe the number, shape, and population frequencies of U.S. nonresident father contact trajectories over a 14-year period using growth mixture models. The resulting four-category classification indicated that nonresident father involvement is not adequately characterized by a single population with a monotonic pattern of declining contact over time. Contrary to expectations, about two-thirds of fathers were consistently either highly involved or rarely involved in their children’s lives. Only one group, constituting approximately 23% of fathers, exhibited a clear pattern of declining contact. In addition, a small group of fathers (8%) displayed a pattern of increasing contact. A variety ofvariables differentiated between these groups, including the child’s age at father-child separation, whether the child was born within marriage, the mother’s education, the mother’s age at birth, whether the father pays child support regularly, and the geographical distance between fathers and children.",
+  "authors": [
+    {
+      "raw": "Cheadle, Jacob E.",
+      "family": "Cheadle",
+      "given": "Jacob E."
+    },
+    {
+      "raw": "Amato, Paul R.",
+      "family": "Amato",
+      "given": "Paul R."
+    },
+    {
+      "raw": "King, Valarie",
+      "family": "King",
+      "given": "Valarie"
+    }
+  ],
+  "authors_text": "Cheadle, Jacob E.; Amato, Paul R.; King, Valarie",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0084",
+  "doi_url": "https://doi.org/10.1353/dem.0.0084",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0084",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0084.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

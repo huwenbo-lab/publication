@@ -1,0 +1,30 @@
+{
+  "title": "Decomposing change in life expectancy: A bouquet of formulas in honor of Nathan Keyfitz’s 90th birthday",
+  "abstract": "Abstract We extend Nathan Keyfitz’s research on continuous change in life expectancy over time by presenting and proving a new formula for decomposing such change. The formula separates change in life expectancy over time into two terms. The first term captures the general effect of reduction in death rates at all ages, and the second term captures the effect of heterogeneity in the pace of improvement in mortality at different ages. We extend the formula to decompose change in life expectancy into age-specific and cause-specific components, and apply the methods to analyze changes in life expectancy in Sweden and Japan.",
+  "authors": [
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    },
+    {
+      "raw": "Romo, Vladimir Canudas",
+      "family": "Romo",
+      "given": "Vladimir Canudas"
+    }
+  ],
+  "authors_text": "Vaupel, James W.; Romo, Vladimir Canudas",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.1353/dem.2003.0018",
+  "doi_url": "https://doi.org/10.1353/dem.2003.0018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2003.0018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2003.0018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

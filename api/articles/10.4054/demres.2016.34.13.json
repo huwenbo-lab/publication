@@ -1,0 +1,40 @@
+{
+  "title": "Distal determinants of fertility decline: Evidence from 640 Indian districts",
+  "abstract": "BACKGROUND Districts in India exhibit enormous variation in the level of socioeconomic development and are at different stages of fertility transition. Though a large and growing body of literature has examined the proximate determinant of fertility at the state and individual levels, there are limited studies on distal determinants of fertility change in the districts (micro-regions) of India. This is the first ever study to examine the association of fertility change with three key distal determinants, namely female literacy, under-five mortality, and poverty, over the last two decades in districts of India. OBJECTIVE To examine the association of female education, under-five mortality, and poverty in fertility reduction in the districts of India. METHODS Data from the census of India and large-scale population-based surveys are used. Difference-in-difference panel models are used to account for both initial conditions and contemporaneous changes in fertility reduction. RESULTS While one-third of the districts have reached below replacement level of fertility, under-five mortality and poverty level have reduced by half from the initial level and the female literacy level has almost doubled, suggesting a remarkable degree of convergence across all distal determinants but only limited evidence of convergence for fertility. The single largest predictor of fertility reductions in the districts of India was initial TFR (-0.83), followed by increase in female literacy (-0.76), the initial female literacy level (-0.43) and reduction in under-five mortality (-0.20). The effect of initial level of poverty on fertility reduction was 0.13, while that of reduction in poverty was -0.05. Given that the confidence intervals around both estimates are large, this suggests a rather limited role of poverty in fertility transition. CONCLUSIONS Reduction in under-five mortality and female education explain the majority of the large fertility declines observed over the study period, while the contribution of poverty to fertility declines is limited.",
+  "authors": [
+    {
+      "raw": "Mohanty, Sanjay K.",
+      "family": "Mohanty",
+      "given": "Sanjay K."
+    },
+    {
+      "raw": "Fink, Guenther",
+      "family": "Fink",
+      "given": "Guenther"
+    },
+    {
+      "raw": "Chauhan, Rajesh K.",
+      "family": "Chauhan",
+      "given": "Rajesh K."
+    },
+    {
+      "raw": "Canning, David",
+      "family": "Canning",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Mohanty, Sanjay K.; Fink, Guenther; Chauhan, Rajesh K.; Canning, David",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.13",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Metropolitan Structure and Neighborhood Attainment: Exploring Intermetropolitan Variation in Racial Residential Segregation",
+  "abstract": "AbstractUsing data from the 1981, 1991, and 2001 waves of the Panel Study of Income Dynamics and several decennial censuses, we examine how characteristics of metropolitan areas are associated with black and white households’ neighborhood racial composition. Results from hierarchical linear models show that about 20% to 40% of the variation in the percentage of households’ tract population that is non-Hispanic white or non-Hispanic black exists across metropolitan areas. Over time, white households’ exposure to non-Hispanic white neighbors has declined, and their exposure to non-Hispanic black neighbors has increased; the reverse trends are observed for blacks. These trends cannot be attributed to changes in the ecological structure of metropolitan areas. Blacks have fewer white neighbors in large metropolitan areas containing sizable minority populations, and blacks have more white neighbors in metropolitan areas with high government employment. Whites have more black neighbors in metropolitan areas with high levels of government employment and ample new housing; whites have fewer black neighbors in metropolitan areas with a high level of municipal fragmentation. The association between metropolitan-area percentage black and tract percentage black is weaker among whites than among blacks, suggesting that whites are especially motivated to self-segregate in metropolitan areas with large black populations.",
+  "authors": [
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    },
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    },
+    {
+      "raw": "Pais, Jeremy",
+      "family": "Pais",
+      "given": "Jeremy"
+    }
+  ],
+  "authors_text": "South, Scott J.; Crowder, Kyle; Pais, Jeremy",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0062-z",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0062-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0062-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0062-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

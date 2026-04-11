@@ -1,0 +1,30 @@
+{
+  "title": "Parenting and Youth Psychosocial Well- Being in South Korea using Fixed-Effects Models",
+  "abstract": "The present study analyzed the relationship between various parenting practices and an array of adolescent psychosocial outcomes in South Korea, while controlling for demographic, family, school, and neighborhood factors. Analyses were based on five waves of the nationally representative Korea Youth Panel Survey using 3,263 youth ( Person Years = 13,121). All parenting (warmth, monitoring, and hostility) and youth’s psychosocial (confidence, depressive symptoms, and aggressive behaviors) measures were reported by the youth. Within-person fixed-effects regression results indicated that parental warmth not only facilitated youth’s confidence, but also protected them against feelings of depression and aggression. Parental monitoring was a predictor of positive self-perception. As a parental measure with a preventive-orientation, monitoring exhibited a trend toward reducing aggressive behavior. On the other hand, hostile parenting was significantly associated with depressive symptoms and aggressive behaviors. Factors external to the family, such as school and neighborhoods were also associated with mental health outcomes among Korean youth.",
+  "authors": [
+    {
+      "raw": "Han, Yoonsun",
+      "family": "Han",
+      "given": "Yoonsun"
+    },
+    {
+      "raw": "Grogan-Kaylor, Andrew",
+      "family": "Grogan-Kaylor",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Han, Yoonsun; Grogan-Kaylor, Andrew",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2012,
+  "doi": "10.1177/0192513x12440091",
+  "doi_url": "https://doi.org/10.1177/0192513x12440091",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x12440091",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x12440091.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

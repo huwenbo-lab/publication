@@ -1,0 +1,35 @@
+{
+  "title": "Social stratification in downgrading during secondary school after ambitious track choices",
+  "abstract": "It is well established in the literature on social stratification in educational attainment that children with high socio-economic status choose more academically demanding educational tracks than their peers, particularly if their prior school performance was poor. Much less is known about whether they stay on demanding secondary school tracks after such ambitious track choices or whether they downgrade to lower tracks. This study makes two contributions to the literature on compensatory advantage (CA): First, we evaluate whether high parental education compensates for a low academic preparedness and thereby reduces the risk of downgrading from the academic track of secondary school in Germany. Second, we try to identify the underlying mechanisms: The CA could either be attributed to children catching up academically or to different reactions to poor performance on the academic track. We follow the educational trajectories of 2371 children who transferred to the academic track in 2010 using survival analysis. In line with CA, we find that among the children with low academic preparedness, those with high parental education are less likely to downgrade to a lower track. The differences in downgrading by academic preparedness and parental education can be partially attributed to the performance on the academic track. However, we do not find evidence for the proposed compensatory mechanisms. Neither the association between academic preparedness and performance on the academic track nor the association between performance on the academic track and the risk of downgrading is weaker for children with higher parental education. Instead, CA seems to result from the average advantages of having highly educated parents being more relevant for children at the edge of downgrading.",
+  "authors": [
+    {
+      "raw": "Drager, Jascha",
+      "family": "Drager",
+      "given": "Jascha"
+    },
+    {
+      "raw": "Rohlke, Leo",
+      "family": "Rohlke",
+      "given": "Leo"
+    },
+    {
+      "raw": "Dippel, Alina",
+      "family": "Dippel",
+      "given": "Alina"
+    }
+  ],
+  "authors_text": "Drager, Jascha; Rohlke, Leo; Dippel, Alina",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100710",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100710",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100710",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100710.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

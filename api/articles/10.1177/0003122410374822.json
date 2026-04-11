@@ -1,0 +1,40 @@
+{
+  "title": "Bringing the Polluters Back In: Environmental Inequality and the Organization of Chemical Production",
+  "abstract": "Environmental justice scholars have suggested that because chemical plants and other hazardous facilities emit more pollutants where they face the least resistance, disadvantaged communities face a special health risk. In trying to determine whether race or income has the bigger impact on a neighborhood's exposure to pollution, however, scholars tend to overlook the facilities themselves and the effect of their characteristics on emissions. In particular, how do the characteristics of facilities and their surrounding communities jointly shape pollution outcomes? We propose a new line of environmental justice research that focuses on facilities and how their features combine with communities' features to create dangerous emissions. Using novel fuzzy-set analysis techniques and the EPA's newly developed Risk-Screening Environmental Indicators, we test the influence of facility and community factors on chemical plants' health-threatening emissions. Contrary to the idea that community characteristics have singular, linear effects, findings show that facility and community factors combine in a variety of ways to produce risky emissions. We speculate that as chemical firms experiment with different ways of producing goods and externalizing pollution costs, new recipes of risk'' are likely to emerge. The question, then, will no longer be whether race or income matters most, but in which of these recipes do they matter and how.",
+  "authors": [
+    {
+      "raw": "Grant, Don",
+      "family": "Grant",
+      "given": "Don"
+    },
+    {
+      "raw": "Trautner, Mary Nell",
+      "family": "Trautner",
+      "given": "Mary Nell"
+    },
+    {
+      "raw": "Downey, Liam",
+      "family": "Downey",
+      "given": "Liam"
+    },
+    {
+      "raw": "Thiebaud, Lisa",
+      "family": "Thiebaud",
+      "given": "Lisa"
+    }
+  ],
+  "authors_text": "Grant, Don; Trautner, Mary Nell; Downey, Liam; Thiebaud, Lisa",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122410374822",
+  "doi_url": "https://doi.org/10.1177/0003122410374822",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410374822",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410374822.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

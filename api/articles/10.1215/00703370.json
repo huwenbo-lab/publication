@@ -1,0 +1,30 @@
+{
+  "title": "Dust to Feed, Dust to Gray: The Effect of in Utero Exposure to the Dust Bowl on Old-Age Longevity",
+  "abstract": "Intensive agri cul ture and deep plowing caused top soil ero sion and dust storms dur ing the 1930s, affect ing agri cul tural income and land val ues for years. Given the grow ing lit er a ture on the rel e vance of in utero and early-life expo sures, it is sur pris ing that stud ies focus ing on links between the Dust Bowl and later-life health have pro duced incon clu sive and mixed results. We reevaluate this lit er a ture and study the long -term effects of in utero and early-life expo sure to top soil ero sion caused by the 1930s Dust Bowl on old-age lon gev ity. Specifically, using Social Security Administration death records linked with the full-count 1940 cen sus, we con duct event studies with difference-in-differences designs to compare the longevity of individuals in highver sus low-top soil-ero sion counties before ver sus after 1930. We find intentto-treat reduc tions in lon gev ity of approx i ma tely 0.85 months for those born in highero sion counties after 1930. We show that these effects are not an arti fact of preexisting trends in lon gev ity. Additional ana ly ses sug gest that the effects are more pro nounced among chil dren raised in farm house holds, females, and those whose moth ers had lower edu ca tion. We also pro vide sug ges tive evi dence that reduc tions in adult hood income are a likely mech a nism for the effects we doc u ment.",
+  "authors": [
+    {
+      "raw": "Noghanibehambari, Hamid",
+      "family": "Noghanibehambari",
+      "given": "Hamid"
+    },
+    {
+      "raw": "Fletcher, Jason",
+      "family": "Fletcher",
+      "given": "Jason"
+    }
+  ],
+  "authors_text": "Noghanibehambari, Hamid; Fletcher, Jason",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370",
+  "doi_url": "https://doi.org/10.1215/00703370",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

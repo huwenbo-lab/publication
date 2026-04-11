@@ -1,0 +1,30 @@
+{
+  "title": "Childhood left-behind experiences and premarital cohabitation: Evidence from China",
+  "abstract": "BACKGROUND Premarital cohabitation has risen sharply in China, yet its structural childhood antecedents remain underexplored. Left-behind experiences due to parental migration provide a valuable research lens. OBJECTIVE We aim to investigate the association between childhood left-behind experiences and premarital cohabitation within the framework of life course theory and in the Chinese context, examining both the overall relationship and its variation by the timing of parental absence, parental migration type, and gender. METHODS We used data from wave 2010 and waves 2014-2022 of the China Family Panel Studies (CFPS), including 5,047 respondents born after 1978. We applied propensity score matching combined with logistic regression to address selection bias and estimate the effects. RESULTS Childhood left-behind experience is associated with higher odds of entering premarital cohabitation. The effect is strongest when parental absence occurs before age 3, remains positive for absences during ages 4-12, and is weaker when both periods are involved. By parental migration type, the differences across dual-parent, father-only, and mother-only absence are not pronounced. By contrast, gender heterogeneity is evident: left-behind men exhibit the highest odds of premarital cohabitation, substantially exceeding those of their female counterparts. CONTRIBUTION This study draws on institutionally shaped childhood experiences to offer a new lens for understanding entry into premarital cohabitation. In doing so, it advances the application of the life course perspective and underscores its relevance to transitional societies. By situating the Chinese case within global family scholarship, it also illustrates how institutional arrangements such as hukou and migration regimes generate distinct pathways into cohabitation.",
+  "authors": [
+    {
+      "raw": "Kou, Junhao",
+      "family": "Kou",
+      "given": "Junhao"
+    },
+    {
+      "raw": "Li, Yutong",
+      "family": "Li",
+      "given": "Yutong"
+    }
+  ],
+  "authors_text": "Kou, Junhao; Li, Yutong",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.30",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

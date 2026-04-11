@@ -1,0 +1,35 @@
+{
+  "title": "Examining the predictive value of fertility preferences among Ghanaian women",
+  "abstract": "Despite extensive research, doubts remain regarding the degree of correspondence between prior stated fertility preferences and subsequent fertility behavior. Preference instability is a factor that potentially undermines predictiveness. Furthermore, if other predictors of fertility substantially explain fertility, then knowledge of preferences may contribute little to explaining or predicting individual fertility behavior. In this study, we examined these aspects of the study of individual fertility preference-behavior consistency. Using a prospective multi-wave panel dataset, we modeled the monthly likelihood of conception, taking into account the dynamic nature of preferences, and controlling for changing reproductive life cycle factors and stable socioeconomic background predictors of fertility. We demonstrate from a sample of fecund married Ghanaian women that fertility preferences retain independent predictive power in the model predicting the likelihood of conception.",
+  "authors": [
+    {
+      "raw": "Kodzi, Ivy",
+      "family": "Kodzi",
+      "given": "Ivy"
+    },
+    {
+      "raw": "Johnson, David",
+      "family": "Johnson",
+      "given": "David"
+    },
+    {
+      "raw": "Casterline, John",
+      "family": "Casterline",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Kodzi, Ivy; Johnson, David; Casterline, John",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.22.30",
+  "doi_url": "https://doi.org/10.4054/demres.2010.22.30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.22.30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.22.30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Effect of Intergenerational Income Mobility: Reachability-Based Conceptualization and Copula-Based Measurement",
+  "abstract": "Studies examining the consequences of intergenerational income mobility for individuals often face challenges due to multicollinearity between origin, destination, and a mobility construct based on the origin-destination difference. This article introduces a novel conceptualization of mobility, termed “reachability mobility,” which is based on the “easiness” of achieving a particular origin-destination combination within a population. This approach contrasts with the traditional lattice-based conceptualization. Furthermore, this study proposes using copulas—a statistical tool that captures the dependence structure between incomes of two generations while remaining insensitive to their marginal distributions—to measure reachability mobility. When combined with a standard measure of mobility direction, this approach allows scholars to simultaneously estimate the effects of origin, destination, and mobility along with numerous other methodological advantages. An illustrative example is provided that investigates the effect of intergenerational income mobility on mental health status using data from the National Longitudinal Survey of Youth 1979.",
+  "authors": [
+    {
+      "raw": "Hu, Anning",
+      "family": "Hu",
+      "given": "Anning"
+    },
+    {
+      "raw": "Zhou, Zhipeng",
+      "family": "Zhou",
+      "given": "Zhipeng"
+    }
+  ],
+  "authors_text": "Hu, Anning; Zhou, Zhipeng",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241276332",
+  "doi_url": "https://doi.org/10.1177/23780231241276332",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241276332",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241276332.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Amid union decline: State-level unionization and overwork of American workers",
+  "abstract": "Over the last several decades, overwork has increased across most demographic groups in America. Concurrently, the power of organized labor, which has historically contributed to shaping societal perceptions of the standard workweek and work hours, has declined. Nevertheless, the possibility that these two phenomena are related is rarely explored. This study examines the association between union decline and the likelihood of overwork by analyzing data from the 1983-2019 Current Population Survey Outgoing Rotation Group. The results, based on two-way fixed-effects models that control for both year-and state-fixed effects along with individual and state-level covariates, reveal a robust negative association between state union density and the likelihood of overwork. The negative association varies by the level of unionization in a state. These findings underscore the role of labor unions in shaping behavioral norms in the labor market and shed new light on the rise of overwork. The implications of these findings are discussed.",
+  "authors": [
+    {
+      "raw": "Zhang, Yurong",
+      "family": "Zhang",
+      "given": "Yurong"
+    },
+    {
+      "raw": "Kim, ChangHwan",
+      "family": "Kim",
+      "given": "ChangHwan"
+    }
+  ],
+  "authors_text": "Zhang, Yurong; Kim, ChangHwan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103178",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103178",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103178",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103178.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

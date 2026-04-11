@@ -1,0 +1,35 @@
+{
+  "title": "A formal decomposition of declining youth crime in Denmark",
+  "abstract": "BACKGROUND Over the recent decades and across most developed democracies, youth crime has been in steady decline, and declining youth crime now constitutes an important contemporary demographic change. Yet underneath this change lingers the question of how we should best grasp declining youth crime. OBJECTIVE To decompose declining youth crime in Denmark into its extensive and intensive margins, and show results from birth cohort analyses. METHODS We apply Das Gupta's (1993) method for rate decomposition to Danish registry data that holds information on all criminal justice contacts of full birth cohorts. We show results among 15-17-year-old youth by year as well as follow birth cohorts by age. RESULTS The main driver of declining youth crime in Denmark is that fewer young people are experiencing contact with the criminal justice (extensive margin), and not lower rates of criminal recidivism among youth with criminal justice contact (intensive margin); a result which is found using both year and birth cohort analyses. CONTRIBUTION The knowledge provided in our descriptive findings. - that change at the extensive margin is the main driver of declining youth crime in Denmark - represents a first step towards understanding the important demographic change that youth crime has been in decline across developed democracies over the past decades.",
+  "authors": [
+    {
+      "raw": "Andersen, Lars H.",
+      "family": "Andersen",
+      "given": "Lars H."
+    },
+    {
+      "raw": "Anker, Anne Sofie Tegner",
+      "family": "Anker",
+      "given": "Anne Sofie Tegner"
+    },
+    {
+      "raw": "Andersen, Signe Hald",
+      "family": "Andersen",
+      "given": "Signe Hald"
+    }
+  ],
+  "authors_text": "Andersen, Lars H.; Anker, Anne Sofie Tegner; Andersen, Signe Hald",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.44",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.44",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.44",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.44.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

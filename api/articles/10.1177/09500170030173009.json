@@ -1,0 +1,25 @@
+{
+  "title": "Changing Communities at Work in Academia",
+  "abstract": "To determine the degree of diffuseness of a particular acoustic field, an oft-considered metric is the coherence between spaced pairs of measurement microphones. This is useful because the expected theoretical ‘sinc2’ trend for a diffuse field is well known from the literature. An issue with application to date, however, is that this has been used without recognising in any systematic way that a measured coherence estimate is a random sample, with its own natural variance and probability distribution. Instead, plots are typically shown with all the raw data and users are required to estimate the statistics by eye. Part of the challenge is that the variance and confidence intervals of coherence estimates are not straightforward functions, changing from vanishing variance when a pair of microphone signals are fully correlated to a wide and asymmetric distribution when they are independent (or close to). This paper aims to address this knowledge gap by exploring the probability density and cumulative distribution functions of coherence, which are needed to determine confidence intervals, such that sound field specifications and comparisons can be made more appropriately based on the derived confidence intervals. Moreover, it explores a ‘warped’ space in which the probability distribution of coherence is close to Gaussian. Implications for DFAN best practice are discussed.",
+  "authors": [
+    {
+      "raw": "Morris, Huw",
+      "family": "Morris",
+      "given": "Huw"
+    }
+  ],
+  "authors_text": "Morris, Huw",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2003,
+  "doi": "10.1177/09500170030173009",
+  "doi_url": "https://doi.org/10.1177/09500170030173009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170030173009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170030173009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

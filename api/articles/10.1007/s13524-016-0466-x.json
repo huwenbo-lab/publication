@@ -1,0 +1,30 @@
+{
+  "title": "Family Income and Child Cognitive and Noncognitive Development in Australia: Does Money Matter?",
+  "abstract": "This article investigates whether family income affects children's cognitive and noncognitive development by exploiting comprehensive information from the Longitudinal Study of Australian Children. We include variables that represent parental investment, parental stress, and neighborhood characteristics to examine if these factors mediate the effects of income. Using dynamic panel data, we find that family income is significantly associated with children's cognitive skills but not with noncognitive skills. Mother's education, parent's physical and mental health, parenting styles, child's own health, and presence of both biological parents are the most important factors for children's noncognitive development. For cognitive development, income as well as parents' education, child's birth weight, and number of books that children have at home are highly significant factors. We also find strong evidence to support the skill formation theory that children's previous cognitive and noncognitive outcomes are significantly related to their current outcomes.",
+  "authors": [
+    {
+      "raw": "Khanam, Rasheda",
+      "family": "Khanam",
+      "given": "Rasheda"
+    },
+    {
+      "raw": "Nghiem, Son",
+      "family": "Nghiem",
+      "given": "Son"
+    }
+  ],
+  "authors_text": "Khanam, Rasheda; Nghiem, Son",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0466-x",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0466-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0466-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0466-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

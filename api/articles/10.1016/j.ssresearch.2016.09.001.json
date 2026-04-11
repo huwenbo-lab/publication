@@ -1,0 +1,30 @@
+{
+  "title": "Understanding trends in concentrated poverty: 1980-2014",
+  "abstract": "Trends in concentrated neighborhood poverty in the United States have been volatile over the past several decades. Using data from the 1980 to 2000 decennial census and the 2010-2014 American Community Survey, we examine the association between concentrated poverty across metropolitan areas in the United States and key proximate factors, including overall changes in poverty, racial residential segregation, and income segregation. One of our unique contributions is assessing the relative contribution of each of these to long-term trends in such poverty using a decomposition analysis. We find that changes in the segregation of the poor explained the largest share of the change in concentrated poverty over most of the time period, with the exception of the 1990s, where the plunge in both black and white poverty rates had the largest role in explaining the considerable decline in concentrated poverty in that decade for both groups. The association between racial segregation and black concentrated poverty is positive but weaker, indicating that without declines in black segregation, concentrated poverty would have been higher. Overall, growing income segregation, along with weak economic performance in recent years, have put more poor people at risk for living in high-poverty communities. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Iceland, John",
+      "family": "Iceland",
+      "given": "John"
+    },
+    {
+      "raw": "Hernandez, Erik",
+      "family": "Hernandez",
+      "given": "Erik"
+    }
+  ],
+  "authors_text": "Iceland, John; Hernandez, Erik",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.09.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.09.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.09.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.09.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

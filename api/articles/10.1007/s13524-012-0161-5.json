@@ -1,0 +1,25 @@
+{
+  "title": "Why Is Infant Mortality Higher in Boys Than in Girls? A New Hypothesis Based on Preconception Environment and Evidence From a Large Sample of Twins",
+  "abstract": "AbstractInfant mortality is higher in boys than girls in most parts of the world. This has been explained by sex differences in genetic and biological makeup, with boys being biologically weaker and more susceptible to diseases and premature death. At the same time, recent studies have found that numerous preconception or prenatal environmental factors affect the probability of a baby being conceived male or female. I propose that these environmental factors also explain sex differences in mortality. I contribute a new methodology of distinguishing between child biology and preconception environment by comparing male-female differences in mortality across opposite-sex twins, same-sex twins, and all twins. Using a large sample of twins from sub-Saharan Africa, I find that both preconception environment and child biology increase the mortality of male infants, but the effect of biology is substantially smaller than the literature suggests. I also estimate the interacting effects of biology with some intrauterine and external environmental factors, including birth order within a twin pair, social status, and climate. I find that a twin is more likely to be male if he is the firstborn, born to an educated mother, or born in certain climatic conditions. Male firstborns are more likely to survive than female firstborns, but only during the neonatal period. Finally, mortality is not affected by the interactions between biology and climate or between biology and social status.",
+  "authors": [
+    {
+      "raw": "Pongou, Roland",
+      "family": "Pongou",
+      "given": "Roland"
+    }
+  ],
+  "authors_text": "Pongou, Roland",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0161-5",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0161-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0161-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0161-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

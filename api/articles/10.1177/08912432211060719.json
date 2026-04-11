@@ -1,0 +1,25 @@
+{
+  "title": "Book Review: Bodies Unbound: Gender-Specific Cancer and Biolegitimacy By Piper Sledge",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Hsieh, Ning",
+      "family": "Hsieh",
+      "given": "Ning"
+    }
+  ],
+  "authors_text": "Hsieh, Ning",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2021,
+  "doi": "10.1177/08912432211060719",
+  "doi_url": "https://doi.org/10.1177/08912432211060719",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432211060719",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432211060719.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

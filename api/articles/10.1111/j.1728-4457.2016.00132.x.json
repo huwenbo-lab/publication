@@ -1,0 +1,25 @@
+{
+  "title": "The Impact of Migration on Long-Term European Population Trends, 1850 to Present",
+  "abstract": "I estimate the impact of migration on population size in 11 European countries from the middle of the nineteenth century to the present. I derive estimates under the assumption of zero net migration from various points during this period using information from the Human Mortality Database. Disparate patterns are found among countries: net positive inflows for Switzerland and France, with the largest net outflows for Norway and Scotland. I develop methods to decompose population growth into estimates of net migration that include the contribution of descendants of migrants and natural increase. Migration has a substantial effect on population growth across these countries and tends to reduce disparities in growth rates. For most of the countries considered, population sizes would be smaller in 2000 if there had been no migration over the past 150 years, but more recent trends suggest a different future.",
+  "authors": [
+    {
+      "raw": "Murphy, Michael",
+      "family": "Murphy",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Murphy, Michael",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2016,
+  "doi": "10.1111/j.1728-4457.2016.00132.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2016.00132.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2016.00132.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2016.00132.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

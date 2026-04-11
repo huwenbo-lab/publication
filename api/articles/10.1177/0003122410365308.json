@@ -1,0 +1,30 @@
+{
+  "title": "Rival Unionism and Membership Growth in the United States, 1900 to 2005: A Special Case of Inter-organizational Competition",
+  "abstract": "This article uses time-series data from 1900 to 2005 to explore the effects of rivalry between labor unions as a special case of inter-organizational competition. Holding constant economic and political factors that typically account for changes in union density, we investigate how competition from rival labor federations and from independent unions affect both union density and a measure for the density of the dominant federation (AFL/AFL-CIO), adjusted for membership changes from mergers and splits. We measure competition by the number of unions and the size of rivals. While much existing literature measures state regulation with categorical coding for specific periods, we measure the effect of state enforcement directly with counts of pro-labor and pro-management unfair labor practice cases adjudicated by the National Labor Relations Board. We assess the effect of left-wing political culture using the popular vote for socialist and communist candidates in presidential elections. Both the number of members in rival unions and the total number of rival unions positively impact the rate of change in overall union density and in AFL density. The size of independent unions has a negative impact on AFL/AFL-CIO density but no effect on overall union density. Unfair labor practices cases adjudicated for employers negatively affect union density but positively affect AFL/AFL-CIO density, while cases adjudicated for unions negatively affect AFL/AFL-CIO density.",
+  "authors": [
+    {
+      "raw": "Stepan-Norris, Judith",
+      "family": "Stepan-Norris",
+      "given": "Judith"
+    },
+    {
+      "raw": "Southworth, Caleb",
+      "family": "Southworth",
+      "given": "Caleb"
+    }
+  ],
+  "authors_text": "Stepan-Norris, Judith; Southworth, Caleb",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122410365308",
+  "doi_url": "https://doi.org/10.1177/0003122410365308",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410365308",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410365308.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

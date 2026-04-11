@@ -1,0 +1,40 @@
+{
+  "title": "The Hardcore Brokers: Core-Periphery Structure and Political Representation in Denmark’s Corporate Elite Network",
+  "abstract": "Who represents the corporate elite in democratic governance? In his seminal work on the corporate “inner circle,” Useem (1986) studied three network-related mechanisms from corporate interlocks that together shaped the ideology and political organization of American and British corporate elites during the postwar era in crucial ways: corporate brokerage, elite social cohesion, and network centrality. Subsequent research has found similar dynamics at play across a variety of democratic capitalist societies. However, all existing studies on corporate elite representation in democratic governance rest on analyses of the top ranks at very large corporations. We cast a wider net. Analyzing new population data on all members of corporate boards in the Danish economy (∼200,000 directors in ∼120,000 boards), we locate ∼1,500 directors who operate as brokers between local corporate networks and measure their network coreness using k-core detection. We find a highly connected network core of ∼275 directors, half of whom are affiliated with smaller companies or subsidiaries and then document the power of director coreness in predicting government committee attendance, a key form of political representation in Denmark’s social-corporatist model of governance. We find a large political premium for directors in very large companies but show that within the network core the gap between directors of smaller and large companies is closed, suggesting that the network core levels the playing field in corporate access to the legislative process.",
+  "authors": [
+    {
+      "raw": "Henriksen, Lasse",
+      "family": "Henriksen",
+      "given": "Lasse"
+    },
+    {
+      "raw": "Lunding, Jacob",
+      "family": "Lunding",
+      "given": "Jacob"
+    },
+    {
+      "raw": "Ellersgaard:, Christoph",
+      "family": "Ellersgaard:",
+      "given": "Christoph"
+    },
+    {
+      "raw": "Larsen, Anton",
+      "family": "Larsen",
+      "given": "Anton"
+    }
+  ],
+  "authors_text": "Henriksen, Lasse; Lunding, Jacob; Ellersgaard:, Christoph; Larsen, Anton",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a31",
+  "doi_url": "https://doi.org/10.15195/v12.a31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

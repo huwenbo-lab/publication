@@ -1,0 +1,30 @@
+{
+  "title": "Does social insurance enrollment improve citizen assessment of local government performance? Evidence from China",
+  "abstract": "Although many studies claim that social policies are carrots that authoritarian leaders use to garner public support, the assumption that social benefits can boost public support of government has been rarely tested empirically, especially at the local levels. This article investigates the effects of social insurance enrollment on citizens' assessment of local government performance using data from the 2010 China Family Panel Study. We use propensity score matching to reduce selection bias and ordered probit regressions with fixed effects to examine these possible effects. We find that social insurance enrollment had a significant positive effect on rural citizens' assessment of government performance, but this effect did not exist for their urban and migrant peers. This discrepancy could be largely due to the groups' different expectations for government redistribution and their distinct experiences of China's social welfare reform. We conclude that the Chinese authoritarian government has achieved partial success in its attempt to use social policies to maintain popular support.",
+  "authors": [
+    {
+      "raw": "Huang, Xian",
+      "family": "Huang",
+      "given": "Xian"
+    },
+    {
+      "raw": "Gao, Qin",
+      "family": "Gao",
+      "given": "Qin"
+    }
+  ],
+  "authors_text": "Huang, Xian; Gao, Qin",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2017.11.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.11.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.11.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.11.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

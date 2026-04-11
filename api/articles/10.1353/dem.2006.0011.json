@@ -1,0 +1,30 @@
+{
+  "title": "Unhealthy assimilation: Why do immigrants converge to American health status levels?",
+  "abstract": "Abstract It is well documented that immigrants are in better health upon arrival in the United States than their American counterparts but that this health advantage erodes over time. We study the potential determinants of this “healthy immigrant effect,” with a particular focus on the tendency of immigrants to converge to unhealthy American BMI levels. Using data from the National Health Interview Survey, we find that average female and male immigrants enter the United States with BMIs that are approximately two and five percentage points lower than native-born women and men, respectively. Consistent with the declining health status of immigrants the longer they remain in the United States, we also find that female immigrants almost completely converge to American BMIs within 10 years of arrival, and men close a third of the gap within 15 years.",
+  "authors": [
+    {
+      "raw": "Antecol, Heather",
+      "family": "Antecol",
+      "given": "Heather"
+    },
+    {
+      "raw": "Bedard, Kelly",
+      "family": "Bedard",
+      "given": "Kelly"
+    }
+  ],
+  "authors_text": "Antecol, Heather; Bedard, Kelly",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2006,
+  "doi": "10.1353/dem.2006.0011",
+  "doi_url": "https://doi.org/10.1353/dem.2006.0011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2006.0011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2006.0011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

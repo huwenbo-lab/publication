@@ -1,0 +1,25 @@
+{
+  "title": "The political ecology of disaster: An analysis of factors influencing U.S. tornado fatalities and injuries, 1998–2000",
+  "abstract": "AbstractThis study examines casualties from tornadoes in the United States between the years 1998 and 2000. A political model of human ecology (POET) was used to explore how the environment, technology, and social inequality influence rates of fatalities and injuries in two models. Data were drawn from four sources: John Hart’s Severe Plot v2.0, National Weather Service (NWS) Warning Verification data, Storm Prediction Center (SPC) watch data, and tract-level census data. Negative binomial regression was used to analyze the causes of tornado fatalities and injuries. Independent variables (following POET) are classified in the following manner: population, organization, environment, and technology. Rural population, population density, and household size correspond to population; racial minorities and deprivation represent social organization; tornado area represents environment; and tornado watches and warnings, as well as mobile homes, correspond to technology. Findings suggest a strong relationship between the size of a tornado path and both fatalities and injuries, whereas other measures related to technology, population, and organization produce significant yet mixed results. Census tracts having larger populations of rural residents was, of the nonenvironmental factors, the most conclusive regarding its effects across the two models. The outcomes of analysis, although not entirely supportive of the model presented in this study, suggest to some degree that demographic and social factors play a role in vulnerability to tornadoes.",
+  "authors": [
+    {
+      "raw": "Donner, William R.",
+      "family": "Donner",
+      "given": "William R."
+    }
+  ],
+  "authors_text": "Donner, William R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0024",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

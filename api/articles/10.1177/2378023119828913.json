@@ -1,0 +1,30 @@
+{
+  "title": "Visualizing Police Exposure by Race, Gender, and Age in New York City",
+  "abstract": "This figure depicts the disparities in average police stops in New York City from 2004 to 2012, disaggregated by race, gender, and age. Composed of six bar charts, each graph in the figure provides data for a particular population at the intersection of race and gender, focusing on black, white, and Hispanic men and women. Each graph also has a comparative backdrop of the data on police stops for black males. All graphs take a similar parabolic shape, showing that across each race-gender group, pedestrian stops increase in adolescence and peek in young adulthood, then taper off across the adult life course. However, the heights of these parabolic representations are vastly different. There are clear disparities in police exposure based on race and gender, with black men and women being more likely than their peers to be policed and with black men being policed significantly more than their female counterparts.",
+  "authors": [
+    {
+      "raw": "Figures, Kalisha Dessources",
+      "family": "Figures",
+      "given": "Kalisha Dessources"
+    },
+    {
+      "raw": "Legewie, Joscha",
+      "family": "Legewie",
+      "given": "Joscha"
+    }
+  ],
+  "authors_text": "Figures, Kalisha Dessources; Legewie, Joscha",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119828913",
+  "doi_url": "https://doi.org/10.1177/2378023119828913",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119828913",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119828913.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

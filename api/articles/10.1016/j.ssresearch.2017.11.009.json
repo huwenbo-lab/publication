@@ -1,0 +1,25 @@
+{
+  "title": "Neighbours matter: A nation-wide small-area assessment of environmental inequality in Germany",
+  "abstract": "This study investigates the presence of environmental inequality in Germany and analyses its spatial pattern on a very fine grained level. Using the 2011 German census and pollution measures of the E-PRTR, the study relies on nearly 100,000 one squared km census cells over Germany. SLX and community-fixed SLX models incorporate spatial spillover-effects into the analysis to account for the spatial distribution of socio-demographic characteristics. Results reveal that the share of minorities within a census cell indeed positively correlates with the exposure to industrial pollution. Furthermore, spatial spillover effects are highly relevant: the characteristics of the neighbouring spatial units matter in predicting the amount of pollution. Especially within urban areas, clusters of high minority neighbourhoods are affected by high levels of environmental pollution. This highlights the importance of spatial clustering processes in environmental inequality research.",
+  "authors": [
+    {
+      "raw": "Ruettenauer, Tobias",
+      "family": "Ruettenauer",
+      "given": "Tobias"
+    }
+  ],
+  "authors_text": "Ruettenauer, Tobias",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2017.11.009",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.11.009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.11.009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.11.009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

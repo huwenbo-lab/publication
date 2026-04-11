@@ -1,0 +1,35 @@
+{
+  "title": "Longitudinal employment trajectories and health in middle life: Insights from linked administrative and survey data",
+  "abstract": "BACKGROUND The paper adopts a long-term perspective in analysing the association between health and employment histories, often characterized by substantial mobility over time across multiple statuses and contractual arrangements. The available evidence is largely based on static or short-run dynamic approaches and only compares across few employment statuses. OBJECTIVE We investigate how different longitudinal employment trajectories defined over multiple yearly labour market states are associated with self-reported health in middle life. METHODS We use a unique dataset linking the Italian component of the EU-SILC cross-sectional samples (2004-2012) with individuals' complete working histories from the National Social Security registers. We apply sequence and cluster analysis to reconstruct individual working histories between the ages of 15 and 45 and to identify typical trajectories. We then estimate the association between employment trajectory and self-reported health at age 45. RESULTS Trajectories characterized by intermittent working episodes and long periods of unemployment or inactivity are associated with worse health at age 45. Long-term exposure to blue-collar jobs (potentially physically demanding, more vulnerable to work accidents, and allowing for low levels of individual control) operates similarly to persisting/ intermittent joblessness in terms of health outcomes. CONTRIBUTION Unlike 'point-in-time' approaches, our sequence analysis application provides unique insights into the fact that the association between the configuration of complete trajectories as they unfold over time and health in middle life are significant and substantive over and above the time spent in specific labour market arrangements (e.g., unemployment) and type of occupation (e.g., blue collar).",
+  "authors": [
+    {
+      "raw": "Devillanova, Carlo",
+      "family": "Devillanova",
+      "given": "Carlo"
+    },
+    {
+      "raw": "Raitano, Michele",
+      "family": "Raitano",
+      "given": "Michele"
+    },
+    {
+      "raw": "Struffolino, Emanuela",
+      "family": "Struffolino",
+      "given": "Emanuela"
+    }
+  ],
+  "authors_text": "Devillanova, Carlo; Raitano, Michele; Struffolino, Emanuela",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.47",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.47",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.47",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.47.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

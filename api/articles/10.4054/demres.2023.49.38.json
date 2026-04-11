@@ -1,0 +1,35 @@
+{
+  "title": "Dynamics of the coefficient of variation of the age at death distribution",
+  "abstract": "BACKGROUND Indicators of lifespan inequality, such as the life table entropy or variance of age at death, provide a measure of inequality in the timing of death. A range of indicators of relative and absolute inequality exist, and their evolution over time and sensitivity to changes in age-specific mortality have been studied. However, the coefficient of variation, a relative indicator defined as the standard deviation divided by the mean of the age at death distribution, has yet to be studied, and the existence and form of the threshold age has not been determined.RESULTS As with other lifespan inequality indicators, changes in the coefficient of variation can be written as a weighted sum of changes in age-specific mortality rates, and a unique threshold age exists. The threshold for the coefficient of variation occurs later than that of its absolute counterpart, the standard deviation, a result verified for other pairs of relative and absolute indicators. Empirical applications show differing trajectories over time of the threshold age for different countries and different educational groups.CONCLUSION Change over time of the coefficient of variation can be expressed in a similar way to other indicators and provides a way to study the sensitivity of the indicator to changes in mortality. Although empirical applications show a similar trajectory for the threshold age of the coefficient of variation as for other indicators, the differences between them can be substantial.CONTRIBUTION We formally determine the threshold age for the coefficient of variation and contextualize the sensitivities and threshold ages of lifespan inequality indicators.",
+  "authors": [
+    {
+      "raw": "Martin, Jacob",
+      "family": "Martin",
+      "given": "Jacob"
+    },
+    {
+      "raw": "Manuel Aburto, Jose",
+      "family": "Manuel Aburto",
+      "given": "Jose"
+    },
+    {
+      "raw": "Permanyer, Inaki",
+      "family": "Permanyer",
+      "given": "Inaki"
+    }
+  ],
+  "authors_text": "Martin, Jacob; Manuel Aburto, Jose; Permanyer, Inaki",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.38",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.38",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.38",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.38.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

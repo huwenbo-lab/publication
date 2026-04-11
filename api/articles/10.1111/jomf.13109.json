@@ -1,0 +1,35 @@
+{
+  "title": "How Does Taking Parental Leave Affect the Wages of Highly Educated Parents?",
+  "abstract": "Objective The aim of this paper is to analyze (a) how highly educated women and men differ in their parental leave-taking behavior and (b) how parental leave-taking affects their subsequent wages. Background Labor market theories suggest that taking parental leave can have negative effects on career progress and wages. Consequently, the fact that women are much more likely than men to take parental leave is likely to contribute to long-term career-related gender inequalities. At the same time, some studies have shown that wage losses resulting from parental leave are greater for men than for women and are especially pronounced among highly qualified individuals. Method We analyzed data from a nationally representative panel study (7 waves from 2015 to 2021) with doctoral graduates in Germany from the cohort 2013/2014. We used fixed-effects regressions to estimate intra-individual changes in hourly wages due to parental leave-taking. Results Highly educated women took parental leave more often and for much longer periods than highly educated men did. Taking extended parental leave was associated with a reduction in hourly wages. However, this general finding was slightly insignificant for first-time parents. Against expectations, our analyses did not confirm higher wage penalties for men following a period of parental leave. Conclusion Our findings suggest that the gender-specific use of parental leave is an important factor in the gender pay gap.",
+  "authors": [
+    {
+      "raw": "Jaksztat, Steffen",
+      "family": "Jaksztat",
+      "given": "Steffen"
+    },
+    {
+      "raw": "Goldan, Lea",
+      "family": "Goldan",
+      "given": "Lea"
+    },
+    {
+      "raw": "Gross, Christiane",
+      "family": "Gross",
+      "given": "Christiane"
+    }
+  ],
+  "authors_text": "Jaksztat, Steffen; Goldan, Lea; Gross, Christiane",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13109",
+  "doi_url": "https://doi.org/10.1111/jomf.13109",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13109",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13109.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

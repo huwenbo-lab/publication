@@ -1,0 +1,40 @@
+{
+  "title": "Exposure to Childhood Poverty and Racial Differences in Economic Opportunity in Young Adulthood",
+  "abstract": "Young adults in the United States, especially young Black adults, experience high poverty rates relative to other age groups. Prior research has largely attributed racial disparities in young adult poverty to differential attainment of benchmarks related to education, employment, and family formation. This study investigates that mechanism alongside racial differences in childhood poverty exposure. Analyses of Panel Study of Income Dynamics data reveal that racial differences in childhood poverty are more consequential than differential attainment of education, employment, and family formation benchmarks in shaping racial differences in young adult poverty. Whereas benchmark attainment reduces an individual's likelihood of poverty, racial differences in benchmark attainment do not meaningfully explain Black-White poverty gaps for three reasons. First, childhood poverty is negatively associated with benchmark attainment, generating strong selection effects into the behavioral characteristics associated with lower poverty. Second, benchmark attainment does not equalize poverty rates among Black and White men. Third, Black children experience four times the poverty rate of White children, and childhood poverty has lingering negative consequences for young adult poverty. Although equalizing benchmark attainment would reduce Black-White gaps in young adult poverty, equalizing childhood poverty exposure would have twice the reduction effect.",
+  "authors": [
+    {
+      "raw": "Parolin, Zachary",
+      "family": "Parolin",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Matsudaira, Jordan",
+      "family": "Matsudaira",
+      "given": "Jordan"
+    },
+    {
+      "raw": "Waldfogel, Jane",
+      "family": "Waldfogel",
+      "given": "Jane"
+    },
+    {
+      "raw": "Wimer, Christopher",
+      "family": "Wimer",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Parolin, Zachary; Matsudaira, Jordan; Waldfogel, Jane; Wimer, Christopher",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10350740",
+  "doi_url": "https://doi.org/10.1215/00703370-10350740",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10350740",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10350740.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

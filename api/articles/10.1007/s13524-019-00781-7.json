@@ -1,0 +1,35 @@
+{
+  "title": "Cumulative Risks of Multiple Criminal Justice Outcomes in New York City",
+  "abstract": "Previous research has provided estimates of the cumulative risk of felony conviction and imprisonment in the United States. These experiences are, however, also the rarest; most of what happens in the criminal justice system occurs at the level of the misdemeanor rather than the felony. This article addresses our limited understanding of the scope of subfelony justice by providing estimates of the cumulative risk of several lower-level arrest outcomes for one jurisdiction: New York City. Because of excess life table events contributed by nonresidents of New York City, estimates are likely upwardly biased relative to the true values. Nonetheless, they allow us to (1) assess the cumulative risk of misdemeanor conviction and jail sentences and (2) determine to what extent those who enter the world of subfelony justice are distinct from those with felony or imprisonment records.",
+  "authors": [
+    {
+      "raw": "Hepburn, Peter",
+      "family": "Hepburn",
+      "given": "Peter"
+    },
+    {
+      "raw": "Kohler-Hausmann, Issa",
+      "family": "Kohler-Hausmann",
+      "given": "Issa"
+    },
+    {
+      "raw": "Medina, Angela Zorro",
+      "family": "Medina",
+      "given": "Angela Zorro"
+    }
+  ],
+  "authors_text": "Hepburn, Peter; Kohler-Hausmann, Issa; Medina, Angela Zorro",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00781-7",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00781-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00781-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00781-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

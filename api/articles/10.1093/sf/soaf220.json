@@ -1,0 +1,25 @@
+{
+  "title": "Financialization and unintended emission reductions: evidence from the OECD, 1995-2020",
+  "abstract": "Is there a relationship between financialization-the increasing centrality of the financial sector and financial activities in the national economy-and CO2 emissions? Prior empirical research suggests two possibilities. In the first, financialization facilitates economic growth and intensifies the Treadmill of Production, thereby increasing emissions. In the second, financialization enables renewable energy deployment and dampens emissions, consistent with Ecological Modernization theory. I leverage more recent sociological and economic literature on financialization to hypothesize a third possibility, in which financialization adversely affects economic growth, which translates to lower levels of emissions. To test this hypothesis, I estimate mediation models with lagged dependent variables and country and time fixed effects. I use multiple measures for financialization and a panel dataset of 34 high-income country members of the Organisation for Economic Co-operation and Development (OECD) for 1995-2020. There are two main findings. First, GDP per capita mediates the financialization-emissions relationship when financialization is measured as private sector credit and by the International Monetary Fund's Financial Development Index. Specifically, there is an inverted U-curve relationship between financialization and GDP per capita. The latter is, in turn, positively associated with CO2 emissions. Second, renewable energy deployment does not mediate the financialization-emissions relationship: there is no significant relationship between any measure of financialization and renewable energy deployment, although the latter is negatively associated with emissions. The findings suggest that financialization can lead to a reduction in CO2 emissions through its unintended destabilizing impact on the economy while having limited impacts on renewable energy deployment.",
+  "authors": [
+    {
+      "raw": "Phan, Viet",
+      "family": "Phan",
+      "given": "Viet"
+    }
+  ],
+  "authors_text": "Phan, Viet",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf220",
+  "doi_url": "https://doi.org/10.1093/sf/soaf220",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf220",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf220.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

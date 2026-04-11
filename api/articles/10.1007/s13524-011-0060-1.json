@@ -1,0 +1,25 @@
+{
+  "title": "Marital Shopping and Epidemic AIDS",
+  "abstract": "Abstract HIV risks decline sharply at age 30 for women in South Africa, long before coital frequencies or pregnancies decrease. I evaluate several prominent behavioral models of HIV, and find that these do not suggest sharply decreasing risks with age. I formulate a model of spousal search and find that “marital shopping” can generate epidemic HIV prevalence despite low transmission rates because search behavior interacts with dynamics of HIV infectiousness. The implied age-infection profile closely mimics that in South Africa, and the suggested behavior matches that reported by South Africans. Condom use in new relationships and transmission rate reductions are both found to be effective policies and, when used together, eliminate the potential of spousal search to spread HIV. In contrast, antiretroviral treatment is found to have only a minimal effect on the epidemic.",
+  "authors": [
+    {
+      "raw": "Magruder, Jeremy R.",
+      "family": "Magruder",
+      "given": "Jeremy R."
+    }
+  ],
+  "authors_text": "Magruder, Jeremy R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0060-1",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0060-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0060-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0060-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

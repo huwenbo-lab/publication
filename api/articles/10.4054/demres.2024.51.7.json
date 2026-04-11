@@ -1,0 +1,35 @@
+{
+  "title": "Socio-behavioral factors contributing to recent mortality trends in the United States",
+  "abstract": "METHODS We investigate the contribution of socio-behavioral factors to changes in US adult mortality over the period 1997-2019 using National Health Interview Surveys for the years 1997-2018 linked to death records through 2019. The variables studied include alcohol consumption, cigarette smoking, health insurance coverage, educational attainment, mental distress, obesity, and race/ethnicity. We evaluate the contribution of each socio-behavioral variable to mortality change by estimating the mortality risks associated with each variable in a hazards model and applying the risks to changes in the variable's distribution. RESULTS When all variables are included in the model, we find that reductions in cigarette smoking and increases in educational attainment are the largest contributors to recent mortality improvements, accounting between them for 66% of mortality improvements. The contribution of educational attainment nearly doubles when variables that may be considered downstream to it are omitted from the analysis. In a secondary analysis, we compare two subperiods to investigate whether the variables can account for a widely observed slowdown in the rate of mortality reduction that occurred within the period of study. Rising levels of psychological distress, combined with very high risks associated with distress, contributed substantially to the slowdown. However, most of the slowdown remains unaccounted for. CONTRIBUTION We develop and apply a rigorous method to identify the role of many socio-behavioral factors in recent mortality change in the United States. Results highlight the role of a behavioral change (declines in smoking) and a broad social advance (educational expansion).",
+  "authors": [
+    {
+      "raw": "Preston, Samuel",
+      "family": "Preston",
+      "given": "Samuel"
+    },
+    {
+      "raw": "Vierboom, Yana",
+      "family": "Vierboom",
+      "given": "Yana"
+    },
+    {
+      "raw": "Myrskyla, Mikko",
+      "family": "Myrskyla",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Preston, Samuel; Vierboom, Yana; Myrskyla, Mikko",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.7",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

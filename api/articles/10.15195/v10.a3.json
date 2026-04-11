@@ -1,0 +1,40 @@
+{
+  "title": "Using Machine Learning to Uncover the Semantics of Concepts: How Well Do Typicality Measures Extracted from a BERT Text Classifier Match Human Judgments of Genre Typicality?",
+  "abstract": "Social scientists have long been interested in understanding the extent to which the typicalities of an object in concepts relate to its valuations by social actors. Answering this question has proven to be challenging because precise measurement requires a feature-based description of objects. Yet, such descriptions are frequently unavailable. In this article, we introduce a method to measure typicality based on text data. Our approach involves training a deep-learning text classifier based on the BERT language representation and defining the typicality of an object in a concept in terms of the categorization probability produced by the trained classifier. Model training allows for the construction of a feature space adapted to the categorization task and of a mapping between feature combination and typicality that gives more weight to feature dimensions that matter more for categorization. We validate the approach by comparing the BERT-based typicality measure of book descriptions in literary genres with average human typicality ratings. The obtained correlation is higher than 0.85. Comparisons with other typicality measures used in prior research show that our BERT-based measure better reflects human typicality judgments.",
+  "authors": [
+    {
+      "raw": "Le Mens, Gaël",
+      "family": "Le Mens",
+      "given": "Gaël"
+    },
+    {
+      "raw": "Kovács, Balázs",
+      "family": "Kovács",
+      "given": "Balázs"
+    },
+    {
+      "raw": "Hannan, Michael",
+      "family": "Hannan",
+      "given": "Michael"
+    },
+    {
+      "raw": "Pros, Guillem",
+      "family": "Pros",
+      "given": "Guillem"
+    }
+  ],
+  "authors_text": "Le Mens, Gaël; Kovács, Balázs; Hannan, Michael; Pros, Guillem",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a3",
+  "doi_url": "https://doi.org/10.15195/v10.a3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Declining sex differences in mortality from lung cancer in high-income nations",
+  "abstract": "Abstract After decades of widening, the difference in mortality from lung cancer between men and women has begun to narrow in recent years. Recognizing that the increase in smoking among women relative to men is the proximate cause of the changing sex difference in rates of lung cancer, I analyzed two approaches to identify the more distant sources of the changes. A gender-equality argument suggests that the difference is related to the more general equalization of women’s and men’s work and family roles, which also encourages the adoption of harmful behaviors such as smoking by women. An alternative explanation suggests that the convergence in mortality from lung cancer among men and women is the byproduct of a lag in the adoption, diffusion, and abatement of smoking by women. Using mortality data on 21 nations from 1955 to 1996, an analysis of logged rates of men’s and women’s lung cancer mortality and the logged ratio of the rates demonstrated little relationship between the sex difference and gender equality. However, I found a strong and consistent relationship between the sex difference and the stage of diffusion of the use of cigarettes.",
+  "authors": [
+    {
+      "raw": "Pampel, Fred C.",
+      "family": "Pampel",
+      "given": "Fred C."
+    }
+  ],
+  "authors_text": "Pampel, Fred C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.1353/dem.2003.0007",
+  "doi_url": "https://doi.org/10.1353/dem.2003.0007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2003.0007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2003.0007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

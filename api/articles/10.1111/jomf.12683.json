@@ -1,0 +1,25 @@
+{
+  "title": "The Male Marriage Premium: Selection, Productivity, or Employer Preferences?",
+  "abstract": "Objective This paper empirically tests the three theories put forward to explain the male marriage premium. Background Married men continue to earn more than single across the Western world, despite significant changes to family life. Three theories are put forward to explain this phenomenon: (a) Marriage makes men more productive; (b) more productive men select into marriage; (c) employers prefer married men and therefore offer them higher wages. Method We use a multi-pronged strategy to test all three theories. First, we analyze a Swiss national panel survey using fixed-effects regressions with observations matched using entropy balancing, as well as fixed-effects individual slopes (FEIS) models to isolate the selection effect. Second, we use a factorial survey experiment of over 500 recruiters in Switzerland to study the preferences of employers. Results Pooled ordinary least squares regressions showed a marriage premium of 11%, which is reduced to approximately 3.5% when accounting for selection and 2.5-3% when introducing controls related to in-work productivity. The results of the survey experiment showed that employers assign wages 2% higher to married men, with large differences between occupations. They are also more likely to invite married men to a job interview. Conclusion While selection is found to be the largest contributor to the male marriage premium, it does not explain it fully. Both employer preferences and productivity changes also play a small role.",
+  "authors": [
+    {
+      "raw": "McDonald, Patrick",
+      "family": "McDonald",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "McDonald, Patrick",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12683",
+  "doi_url": "https://doi.org/10.1111/jomf.12683",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12683",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12683.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

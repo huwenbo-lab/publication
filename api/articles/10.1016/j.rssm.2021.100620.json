@@ -1,0 +1,30 @@
+{
+  "title": "Context in continuity: The enduring legacy of neighborhood disadvantage across generations",
+  "abstract": "Neighborhoods may contribute to the maintenance of inequality in well-being across generations. We use restricted geo-coded National Longitudinal Survey of Youth data (NLSY 1979 and NLSY Child and Young Adult) to estimate the association between multigenerational exposure to childhood neighborhood disadvantage and subsequent adult exposure. Invoking cousin fixed effects models that adjust for unobserved legacies of disadvantage that cascade across three generations, we find that families where both parents and their children are exposed to childhood neighborhood disadvantage are likely to pass on the legacy of neighborhood disadvantage to successive generations, net of observed and unobserved confounders. Second, we find a direct intergenerational neighborhood association, net of observed and unobserved confounders. Third, we find that unobserved confounders nested in the grandparent generation explain away the intragenerational neighborhood association. These findings reorient neighborhood theory to more seriously attend to the interdependence of neighborhoodlevel and individual-level antecedents of inequality across generations.",
+  "authors": [
+    {
+      "raw": "Alvarado, Steven Elias",
+      "family": "Alvarado",
+      "given": "Steven Elias"
+    },
+    {
+      "raw": "Cooperstock, Alexandra",
+      "family": "Cooperstock",
+      "given": "Alexandra"
+    }
+  ],
+  "authors_text": "Alvarado, Steven Elias; Cooperstock, Alexandra",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100620",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100620",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100620",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100620.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

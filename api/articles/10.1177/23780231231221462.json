@@ -1,0 +1,30 @@
+{
+  "title": "Patterns of Global Democracy Promotion: Centrality in DINGO Networks, 1981–2015",
+  "abstract": "Despite the long-recognized role of international organizational networks in spreading global norms, including democracy, democracy-promoting international nongovernmental organizations (DINGOs) remain understudied. This visualization addresses this gap by plotting nations’ degree centrality within various DINGO networks over time from 1981 to 2015, thereby quantifying, for the first time, the configuration of nonstate democracy promotion networks. The results indicate that all networks are extremely dense, and nations’ mean centrality increases over time. Although dispersion tends to decrease over time, particularly after 2000, relatively high dispersion persists for one network: civil liberties. Thus, although more nations are increasingly integrated within DINGO networks overall, this trend is not uniform. The authors suspect that this difference reflects nations’ growing disillusionment with an enterprise that condemns civil liberties only when geopolitics allow and the subsequently declining traction of civil liberties norms. The results suggest a pivotal yet potentially controversial role of DINGO networks and motivate further research exploring their effects.",
+  "authors": [
+    {
+      "raw": "Kim, Jessica",
+      "family": "Kim",
+      "given": "Jessica"
+    },
+    {
+      "raw": "Collins, Andrew",
+      "family": "Collins",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Kim, Jessica; Collins, Andrew",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231221462",
+  "doi_url": "https://doi.org/10.1177/23780231231221462",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231221462",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231221462.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

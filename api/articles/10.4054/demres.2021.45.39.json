@@ -1,0 +1,35 @@
+{
+  "title": "COVID-19 risk factors and mortality among Native Americans",
+  "abstract": "BACKGROUND Academic research on the disproportionate impact of COVID-19 among Native Americans has largely been restricted to particular indigenous groups or reservations. OBJECTIVE We estimate COVID-19 mortality for Native Americans relative to other racial/ethnic groups and explore how state-level mortality is associated with known risk factors. METHODS We use the standardized mortality ratio (SMR), adjusted for age, to estimate COVID-19 mortality by racial/ethnic groups for the United States and 16 selected states that account for three-quarters of the Native American population. The prevalence of risk factors is derived from the American Community Survey and the Behavioral Risk Factor Surveillance System. RESULTS The SMR for Native Americans greatly exceeds those for Black and Latino populations and varies enormously across states. There is a strong positive correlation across states between the share of Native Americans living on a reservation and the SMR. The SMR for Native Americans is highly correlated with the income-poverty ratio, the prevalence of multigenerational families, and health insurance (excluding the Indian Health Service). Risk factors associated with socioeconomic status and comorbidities are generally more prevalent for Native Americans living on homelands, a proxy for reservation status, than for those living elsewhere. CONCLUSIONS Most risk factors for COVID-19 are disproportionately high among Native Americans. Reservation life appears to increase the risk of COVID-19 mortality. CONTRIBUTION We assemble and analyze a broader set of COVID-19-related risk factors for Native Americans than previous studies, a critical step toward understanding the exceptionally high COVID-19 death rates in this population.",
+  "authors": [
+    {
+      "raw": "Leggat-Barr, Katherine",
+      "family": "Leggat-Barr",
+      "given": "Katherine"
+    },
+    {
+      "raw": "Uchikoshi, Fumiya",
+      "family": "Uchikoshi",
+      "given": "Fumiya"
+    },
+    {
+      "raw": "Goldman, Noreen",
+      "family": "Goldman",
+      "given": "Noreen"
+    }
+  ],
+  "authors_text": "Leggat-Barr, Katherine; Uchikoshi, Fumiya; Goldman, Noreen",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.39",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.39",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.39",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.39.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

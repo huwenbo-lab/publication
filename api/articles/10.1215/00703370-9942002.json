@@ -1,0 +1,50 @@
+{
+  "title": "Differences in All-Cause Mortality Among Transgender and Non-Transgender People Enrolled in Private Insurance",
+  "abstract": "Few studies have analyzed mortality rates among transgender (trans) populations in the United States and compared them to the rates of non-trans populations. Using private insurance data from 2011 to 2019, we estimated age-specific all-cause mortality rates among a subset of trans people enrolled in private insurance and compared them to a 10% randomly selected non-trans cohort. Overall, we found that trans people were nearly twice as likely to die over the period as their non-trans counterparts. When stratifying by gender, we found key disparities within trans populations, with people on the trans feminine to nonbinary spectrum being at the greatest risk of mortality compared to non-trans males and females. While we found that people on the trans masculine to nonbinary spectrum were at a similar risk of overall mortality compared to non-trans females, their overall mortality rate was statistically smaller than that of non-trans males. These findings provide evidence that some trans and non-trans populations experience substantially different mortality conditions across the life course and necessitate further study.",
+  "authors": [
+    {
+      "raw": "Hughes, Landon D.",
+      "family": "Hughes",
+      "given": "Landon D."
+    },
+    {
+      "raw": "King, Wesley M.",
+      "family": "King",
+      "given": "Wesley M."
+    },
+    {
+      "raw": "Gamarel, Kristi E.",
+      "family": "Gamarel",
+      "given": "Kristi E."
+    },
+    {
+      "raw": "Geronimus, Arline T.",
+      "family": "Geronimus",
+      "given": "Arline T."
+    },
+    {
+      "raw": "Panagiotou, Orestis A.",
+      "family": "Panagiotou",
+      "given": "Orestis A."
+    },
+    {
+      "raw": "Hughto, Jaclyn M. W.",
+      "family": "Hughto",
+      "given": "Jaclyn M. W."
+    }
+  ],
+  "authors_text": "Hughes, Landon D.; King, Wesley M.; Gamarel, Kristi E.; Geronimus, Arline T.; Panagiotou, Orestis A.; Hughto, Jaclyn M. W.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9942002",
+  "doi_url": "https://doi.org/10.1215/00703370-9942002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9942002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9942002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

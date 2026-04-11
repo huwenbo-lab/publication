@@ -1,0 +1,35 @@
+{
+  "title": "Welfare benefit cuts in early childhood and future educational outcomes: a natural experiment",
+  "abstract": "Understanding the long-term effect of early childhood poverty on a child's life prospects presents a methodological challenge due to the potential endogeneity of family income, making it difficult to establish a clear causal relationship. This study addresses this challenge by exploiting a natural experiment: a major reduction in child allowances and income support benefits for families with young children, which disproportionately affected large and low-income families. We examine the subsequent impact of this policy change on children's educational achievements. Using administrative population data, we compare the standardized test scores of Israeli fifth-grade students born in 2002-just before the reform, when social security allowances were more generous-to those born in 2004, immediately after the reform was implemented. OLS and Difference-in-Differences analyses reveal a significant negative effect on the test scores of pupils from low-income, large families born after the reform. In particular, fifth-and-last birth-order children in low-income families exhibited significantly lower scores compared to their counterparts born before the reform. No similar effect was observed among children of lower birth order or those from higher-income families born after the reform. These findings underscore the lasting effect of early childhood socioeconomic disparities on educational outcomes and highlight the critical role of social security policy changes in shaping long-term inequality among vulnerable social groups.",
+  "authors": [
+    {
+      "raw": "Shay, Dana",
+      "family": "Shay",
+      "given": "Dana"
+    },
+    {
+      "raw": "Adi-Japha, Esther",
+      "family": "Adi-Japha",
+      "given": "Esther"
+    },
+    {
+      "raw": "Shavit, Yossi",
+      "family": "Shavit",
+      "given": "Yossi"
+    }
+  ],
+  "authors_text": "Shay, Dana; Adi-Japha, Esther; Shavit, Yossi",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf042",
+  "doi_url": "https://doi.org/10.1093/sf/soaf042",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf042",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf042.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

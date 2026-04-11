@@ -1,0 +1,30 @@
+{
+  "title": "Family size and economic wellbeing following divorce: The United States in comparative perspective",
+  "abstract": "Studies have documented the negative association between divorce and women?s economic wellbeing in several countries. Less is known about whether the effects of divorce on women?s economic wellbeing, and their persistency, vary by family size. We present the first comprehensive assessment of how the short-term and medium-term economic consequences of divorce vary by family size. Using data from the US (PSID) and between-within random-effects models, we estimate changes in women?s gross household income up to six years following divorce, stratified by the number of children in the household in the year of divorce. We add a comparative perspective using a harmonized set of socio-economic panel surveys from Australia (HILDA), Germany (GSOEP), and the UK (BHPS). Our findings demonstrate that the household incomes of women with three or more children decrease most drastically in the US, Germany, and the UK. In these countries, divorce widens the economic gap between child-rich households and those with no or few children. While childless women?s incomes do not recover in the medium-term, incomes of mothers in Germany, the UK, and to a lesser extent the US partially recuperate. We demonstrate that differences in labor market attachment, and not remarriage, partially account for the family size differences we observe.",
+  "authors": [
+    {
+      "raw": "Van Winkle, Zachary",
+      "family": "Van Winkle",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Leopold, Thomas",
+      "family": "Leopold",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Van Winkle, Zachary; Leopold, Thomas",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102541",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102541",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102541",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102541.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

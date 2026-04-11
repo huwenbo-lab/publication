@@ -1,0 +1,40 @@
+{
+  "title": "COVID-19 and the decline in Asian American employment",
+  "abstract": "The unemployment rate has sharply increased as a result of the lockdown associated with the spread of COVID19. The negative effect of the lockdown is more conspicuous among the less-educated workers than the highly educated workers. Because Asian Americans are more likely to have a bachelor or higher degree than any other racial group, they are expected to be relatively immune to the drop in employment unless the detrimental impact of the lockdown is severer for Asian Americans. Exploiting the panel aspect of the Current Population Survey - Merged Outgoing Rotation Group, we examine the changes in At-work status before and after the lockdown and between the lockdown and months of the reopening. The empirical results uncover that Asian Americans are more negatively affected by the lockdown than any other racial group, net of education, immigration status, and other covariates. Surprisingly, the negative impact of the lockdown is entirely concentrated on less-educated Asian Americans. Regardless of gender, less-educated Asian Americans are substantially more likely to lose employment than equally educated Whites and are not more likely to regain employment during the reopening months. Other less-educated racial minorities do not experience more reduction in At-work status than Whites, net of covariates. Highly-educated Asian Americans' employment is equally affected by the lockdown with equally educated Whites.",
+  "authors": [
+    {
+      "raw": "Kim, Andrew Taeho",
+      "family": "Kim",
+      "given": "Andrew Taeho"
+    },
+    {
+      "raw": "Kim, ChangHwan",
+      "family": "Kim",
+      "given": "ChangHwan"
+    },
+    {
+      "raw": "Tuttle, Scott E.",
+      "family": "Tuttle",
+      "given": "Scott E."
+    },
+    {
+      "raw": "Zhang, Yurong",
+      "family": "Zhang",
+      "given": "Yurong"
+    }
+  ],
+  "authors_text": "Kim, Andrew Taeho; Kim, ChangHwan; Tuttle, Scott E.; Zhang, Yurong",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2020.100563",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100563",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100563",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100563.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

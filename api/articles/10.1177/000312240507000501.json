@@ -1,0 +1,30 @@
+{
+  "title": "Fatalities and the organization of child care in the United States, 1985-2003",
+  "abstract": "Nearly 8 million children of employed parents are in nonrelative child care, but little is known about safety risks. Drawing on the literature reporting mistakes in organizations and medical errors, the authors analyze fatalities in US. child care. Types of child care vary greatly in organizational features, from formally organized centers to informal care offered in providers' or children homes. This allows analysis of how the social organization of care affects risks. A unique national dataset is used to provide a lower bound on fatalities and to analyze fatality rates across types of care. Data come from three sources: (1) a systematic national media search for 1985-2003, (2) legal records of civil and criminal court cases involving fatalities and serious injuries in child care, and (3) ethnographic data from state records in seven states. Overall child care is quite safe, but there are striking differences in fatality rates across types of care. Center care is significantly safer than care offered in private homes and offers particular protection against fatalities from violence. Detailed narratives of how fatalities occur suggest that the organization of work is a crucial factor in risk differences.",
+  "authors": [
+    {
+      "raw": "Wrigley, J",
+      "family": "Wrigley",
+      "given": "J"
+    },
+    {
+      "raw": "Dreby, J",
+      "family": "Dreby",
+      "given": "J"
+    }
+  ],
+  "authors_text": "Wrigley, J; Dreby, J",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1177/000312240507000501",
+  "doi_url": "https://doi.org/10.1177/000312240507000501",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240507000501",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240507000501.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

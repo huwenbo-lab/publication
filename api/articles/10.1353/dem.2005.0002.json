@@ -1,0 +1,30 @@
+{
+  "title": "The role of public health improvements in health advances: The twentieth-century United States",
+  "abstract": "AbstractMortality rates in the United States fell more rapidly during the late nineteenth and early twentieth centuries than in any other period in American history. This decline coincided with an epidemiological transition and the disappearance of a mortality “penalty” associated with living in urban areas. There is little empirical evidence and much unresolved debate about what caused these improvements, however. In this article, we report the causal influence of clean water technologies— filtration and chlorination—on mortality in major cities during the early twentieth century. Plausibly exogenous variation in the timing and location of technology adoption was used to identify these effects, and the validity of this identifying assumption is examined in detail. We found that clean water was responsible for nearly half the total mortality reduction in major cities, three quarters of the infant mortality reduction, and nearly two thirds of the child mortality reduction. Rough calculations suggest that the social rate of return to these technologies was greater than 23 to 1, with a cost per person-year saved by clean water of about $500 in 2003 dollars. Implications for developing countries are briefly considered.",
+  "authors": [
+    {
+      "raw": "Cutler, David",
+      "family": "Cutler",
+      "given": "David"
+    },
+    {
+      "raw": "Miller, Grant",
+      "family": "Miller",
+      "given": "Grant"
+    }
+  ],
+  "authors_text": "Cutler, David; Miller, Grant",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0002",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

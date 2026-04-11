@@ -1,0 +1,25 @@
+{
+  "title": "Intra-individual variation of extreme response style in mixed-mode panel studies",
+  "abstract": "It is well known that the self-report survey method suffers from many idiosyncratic biases, such as varying response styles due to different survey modes used. Using latent state-trait theory it is argued that response styles will also vary intra-individually, depending on the particular survey situation. In this study we examine intra-individual variation in extreme response style behavior (ERS) using mixed-mode survey panel data as a quasi-experimental setting. Data from the Irish National Election Study panel are used, which consists of repeated face-to-face and mail-back surveys. Latent transition analysis is used to detect switches in ERS, distinguishing 'stable' and 'volatile' respondents in terms of their response style. Overall, ERS is inflated in the intermediate mail component of the panel, whereas preliminary analyses suggest that low education and ideological extremity are drivers of that change. Results are discussed with regards to measurement errors in mixed-mode and longitudinal surveys.",
+  "authors": [
+    {
+      "raw": "Aichholzer, Julian",
+      "family": "Aichholzer",
+      "given": "Julian"
+    }
+  ],
+  "authors_text": "Aichholzer, Julian",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2013,
+  "doi": "10.1016/j.ssresearch.2013.01.002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2013.01.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2013.01.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2013.01.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

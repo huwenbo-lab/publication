@@ -1,0 +1,35 @@
+{
+  "title": "Estimating 1a0 and 4a1 in a Life Table: A Model Approach Based on Newly Collected Data",
+  "abstract": "The aver age age of infant deaths, 1 a 0 , and the aver age num ber of years lived-in the age inter val-by those dying between ages 1 and 5, 4 a 1 , are impor tant quan ti ties allowing the con struc tion of any life table includ ing these ages. In many appli ca tions, the direct cal cu la tion of these param e ters is not pos si ble, so they are esti mated using the infant mor tal ity rate-or the death rate from 0 to 1-as a pre dic tor. Existing meth ods are gen eral approx i ma tions that do not con sider the full var i abil ity in the age pat terns of mor tal ity below the age of 5. However, at the same level of mor tal ity, under-five deaths can be more or less con cen trated dur ing the first weeks and months of life, thus resulting in very differ ent val ues of 1 a 0 and 4 a 1 . This arti cle pro poses an indi rect esti ma tion of these param e ters by using a recently devel oped model of under five mor tal ity and tak ing advan tage of a new, com pre hen sive data base by detailed age-which is used for val i da tion. The model adapts to a vari ety of inputs (e.g., rates, prob a bil i ties, or the pro por tion of deaths by sex or for both sexes com bined), pro vid ing more flex i bil ity for the users and increas ing the pre ci sion of the esti ma tes. This fresh perspective consolidates a new method that outperforms all previous approaches.",
+  "authors": [
+    {
+      "raw": "Romero-Prieto, Julio",
+      "family": "Romero-Prieto",
+      "given": "Julio"
+    },
+    {
+      "raw": "Verhulst, Andrea",
+      "family": "Verhulst",
+      "given": "Andrea"
+    },
+    {
+      "raw": "Guillot, Michel",
+      "family": "Guillot",
+      "given": "Michel"
+    }
+  ],
+  "authors_text": "Romero-Prieto, Julio; Verhulst, Andrea; Guillot, Michel",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11330227",
+  "doi_url": "https://doi.org/10.1215/00703370-11330227",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11330227",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11330227.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

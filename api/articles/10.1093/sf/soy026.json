@@ -1,0 +1,30 @@
+{
+  "title": "The Spatial and Temporal Dynamics of Neighborhood Informal Social Control and Crime",
+  "abstract": "Social disorganization theory is one of the most widely tested theories in criminology, yet few studies consider the temporal and spatial dynamics of neighborhood composition, neighborhood informal social control, and crime. To better understand these relationships, we use census data, police data, and three survey waves of data from a unique longitudinal dataset with over 4,000 respondents living across 148 neighborhoods in an Australian city undergoing rapid population growth. We employ cross-lagged reciprocal feedback models to test the central tenets of social disorganization theory and its contemporary advances for three crime types: violent crime, property crime, and drug crime. Further, we examine the reciprocal relationship between neighborhood composition, three components of informal social control (neighborhood social ties, expectations for informal social control, and the exercise of informal social control), and crime and whether socio-demographic changes in nearby neighborhoods shape these relationships over time. We find that changes in the socio-demographic composition in both focal and nearby areas influence neighborhood informal social control; however, in contrast to cross-sectional studies of social disorganization theory, our results reveal little support that neighborhood informal social control significantly decreases crime over time.",
+  "authors": [
+    {
+      "raw": "Wickes, Rebecca",
+      "family": "Wickes",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Hipp, John R.",
+      "family": "Hipp",
+      "given": "John R."
+    }
+  ],
+  "authors_text": "Wickes, Rebecca; Hipp, John R.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy026",
+  "doi_url": "https://doi.org/10.1093/sf/soy026",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy026",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy026.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

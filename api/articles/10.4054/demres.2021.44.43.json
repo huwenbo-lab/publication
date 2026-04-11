@@ -1,0 +1,30 @@
+{
+  "title": "US baby boomers' homeownership trajectories across the life course: A Sequence Analysis approach",
+  "abstract": "BACKGROUND Extensive homeownership research examines rates, transitions, and timing, over short and medium time spans. However, little is known about long-term homeownership patterns over the life course. OBJECTIVE We document population-level homeownership rates, transitions, and durations over a 26-year time span between ages 25.50 and categorize US baby boomers born between 1945.1964 into discrete trajectories, characterizing their homeownership experiences over the life course. Finally, we examine who is likely to experience each trajectory using key sociodemographic characteristics. METHODS Using an analytic sample of 4,246 individuals from the Panel Study of Income Dynamics (PSID), we first examine descriptive homeownership statistics over a long duration. Then, we use Sequence Analysis to categorize the population into homeownership clusters. Finally, we employ multinomial logistic regression to predict cluster membership. RESULTS After demonstrating that race and education stratify baby boomer homeownership experiences over the life course, we find that three homeownership trajectories characterize the population: consistent owners (47%), consistent nonowners (25%), and late owners (27%). We further find that race, education, and to a lesser degree gender meaningfully predict one's homeownership trajectory. Being Black is the only characteristic for which consistent nonownership is more likely than consistent ownership. Not attending college is the only other characteristic for which late ownership is not more likely than consistent nonownership. CONTRIBUTION Conceptualizing and measuring homeownership as a life course phenomenon over the long term, our study suggests considerable stability of homeownership with experiences shaped by key sociodemographic characteristics.",
+  "authors": [
+    {
+      "raw": "Shiffer-Sebba, Doron",
+      "family": "Shiffer-Sebba",
+      "given": "Doron"
+    },
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    }
+  ],
+  "authors_text": "Shiffer-Sebba, Doron; Park, Hyunjoon",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.43",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.43",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.43",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.43.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

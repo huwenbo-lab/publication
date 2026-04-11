@@ -1,0 +1,35 @@
+{
+  "title": "Insidious Nonetheless: How Small Effects and Hierarchical Norms Create and Maintain Gender Disparities in Organizations",
+  "abstract": "The term glass ceiling is applied to the well-established phenomenon in which women and people of color are consistently blocked from reaching the uppermost levels of the corporate hierarchy. Focusing on gender, we present an agent-based model that explores how empirically established mechanisms of interpersonal discrimination coevolve with social norms at both the organizational (meso) and societal (macro) levels to produce this glass ceiling effect for women. Our model extends the understanding of how the glass ceiling arises and why it can be resistant to change. We do so by synthesizing existing psychological and structural theories of discrimination into a mathematical model that quantifies explicitly how complex organizational systems can produce and maintain inequality. We discuss implications of our findings for both intervention and future empirical analyses and provide open-source code for those wishing to adapt or extend our work.",
+  "authors": [
+    {
+      "raw": "Du, Yuhao",
+      "family": "Du",
+      "given": "Yuhao"
+    },
+    {
+      "raw": "Nordell, Jessica",
+      "family": "Nordell",
+      "given": "Jessica"
+    },
+    {
+      "raw": "Joseph, Kenneth",
+      "family": "Joseph",
+      "given": "Kenneth"
+    }
+  ],
+  "authors_text": "Du, Yuhao; Nordell, Jessica; Joseph, Kenneth",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221117888",
+  "doi_url": "https://doi.org/10.1177/23780231221117888",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221117888",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221117888.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Optimizing the Lee-Carter Approach in the Presence of Structural Changes in Time and Age Patterns of Mortality Improvements",
+  "abstract": "Researchers using the Lee-Carter approach have often assumed that the time-varying index evolves linearly and that the parameters describing the age pattern of mortality decline are time-invariant. However, as several empirical studies suggest, the two assumptions do not seem to hold when the calibration window begins too early. This problem gives rise to the question of identifying the longest calibration window for which the two assumptions hold true. To address this question, we contribute a likelihood ratio-based sequential test to jointly test whether the two assumptions are satisfied. Consistent with the mortality structural changes observed in previous studies, our testing procedure indicates that the starting points of the optimal calibration windows for most populations fall between 1960 and 1990. Using an out-of-sample analysis, we demonstrate that in most cases, models that are estimated to the optimized calibration windows result in more accurate forecasts than models that are fitted to all available data or data beyond 1950. We further apply the proposed testing procedure to data over different age ranges. We find that the optimal calibration windows for age group 0-49 are generally shorter than those for age group 50-89, indicating that mortality at younger ages might have undergone (another) structural change in recent years.",
+  "authors": [
+    {
+      "raw": "Li, Hong",
+      "family": "Li",
+      "given": "Hong"
+    },
+    {
+      "raw": "Li, Johnny Siu-Hang",
+      "family": "Li",
+      "given": "Johnny Siu-Hang"
+    }
+  ],
+  "authors_text": "Li, Hong; Li, Johnny Siu-Hang",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0579-x",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0579-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0579-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0579-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

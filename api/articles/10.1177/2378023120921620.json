@@ -1,0 +1,30 @@
+{
+  "title": "Are Labor Market Institutions Countercyclical?",
+  "abstract": "The deregulatory perspective on labor market institutions argues that such institutions push up wage and employment costs while discouraging hiring and job seeking. In contrast, an institutionalist perspective argues that labor market institutions support deeper skill formation and better job searches. Building on this literature, the authors focus on temporal variation, emphasizing that some labor market institutions are likely countercyclical: they can potentially limit job losses in economic downturns. For 21 countries from 1985 to 2012, the authors examine the association of labor market institutions with overall employment outcomes as well as how these associations vary during financial crises. They find limited first-order associations of institutions with employment outcomes, procyclical associations for union density, and countercyclical associations for unemployment insurance and employment protection legislation. These findings suggest that labor market institutions could be a useful countercyclical tool in an era of recurrent financial crises.",
+  "authors": [
+    {
+      "raw": "Thompson, Daniel",
+      "family": "Thompson",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Grabowski, Lukasz",
+      "family": "Grabowski",
+      "given": "Lukasz"
+    }
+  ],
+  "authors_text": "Thompson, Daniel; Grabowski, Lukasz",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120921620",
+  "doi_url": "https://doi.org/10.1177/2378023120921620",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120921620",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120921620.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

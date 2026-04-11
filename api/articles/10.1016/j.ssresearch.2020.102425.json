@@ -1,0 +1,35 @@
+{
+  "title": "Can greater reliance on test scores ameliorate the association between family background and access to post-collegiate education? Survey evidence from the Beijing College Students Panel survey",
+  "abstract": "We evaluate whether greater reliance on test scores may reduce the extent of educational inequality by family origin as college graduates seek entrance to graduate school. In this article, we present a case study using survey data of colleges in Beijing, China, where students' performance in standardized graduate school entrance examination (the GSEE) is the primary determinant for the entrance to graduate school. Using multiple waves of the Beijing College Students Panel Survey (BCSPS), we fit a series of models to capture the correlations of family socioeconomic status (SES) with the probabilities of seeking entrance to post-collegiate education, registering for and taking the GSEE, and finally obtaining admission to graduate school. After balancing the differential probabilities of seeking graduate level education, we find that family SES is not significantly associated with the likelihood of taking the GSEE, but significantly predicts the probability of applying a foreign graduate program. Although family SES can be marginally correlated with the odds of being admitted by a domestic graduate program, the strength of such an association is significantly weaker than for overseas programs. It is also shown that, for the elite graduate programs, family origin is independent from both GSEE registration and subsequent admission. These findings suggest that the test-oriented evaluations could ameliorate the extent of inequality at the post-collegiate level.",
+  "authors": [
+    {
+      "raw": "Hu, Anning",
+      "family": "Hu",
+      "given": "Anning"
+    },
+    {
+      "raw": "Kao, Grace",
+      "family": "Kao",
+      "given": "Grace"
+    },
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    }
+  ],
+  "authors_text": "Hu, Anning; Kao, Grace; Wu, Xiaogang",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2020.102425",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102425",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102425",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102425.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

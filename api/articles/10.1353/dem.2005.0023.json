@@ -1,0 +1,35 @@
+{
+  "title": "The impact of family structure transitions on youth achievement: Evidence from the children of the NlSY79",
+  "abstract": "Abstract We investigated the sensitivity of measures of cognitive ability and socioemotional development to changes in parents’ marital status using data from the National Longitudinal Survey of Youth, 1979. We used several scores for each assessment, taken at different times relative to parents’ marital transitions, which allowed us to trace the effects starting up to five years before a parent’s change in marital status and continuing for up to six years afterward. It also allowed us to correct for the unobserved heterogeneity of the transition and nontransition samples by controlling for the child’s fixed effect in estimating the time path of his or her response to the transition. We found that children from families with both biological parents scored significantly better on the BPI and the PIAT-math and PIAT-reading assessments than did children from nonintact families. However, much of the difference disappeared when we controlled for background variables. Furthermore, when we controlled for child fixed effects, we did not find significant longitudinal variation in these scores over long periods that encompass the marital transition. This finding suggests that most of the variation is due to cross-sectional differences and is not a result of marital transitions per se.",
+  "authors": [
+    {
+      "raw": "Aughinbaugh, Alison",
+      "family": "Aughinbaugh",
+      "given": "Alison"
+    },
+    {
+      "raw": "Pierret, Charles R.",
+      "family": "Pierret",
+      "given": "Charles R."
+    },
+    {
+      "raw": "Rothstein, Donna S.",
+      "family": "Rothstein",
+      "given": "Donna S."
+    }
+  ],
+  "authors_text": "Aughinbaugh, Alison; Pierret, Charles R.; Rothstein, Donna S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0023",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

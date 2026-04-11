@@ -1,0 +1,25 @@
+{
+  "title": "Neighborhood change from the bottom Up: What are the determinants of social distance between new and prior residents?",
+  "abstract": "An important source of neighborhood change occurs when there is a turnover in the housing unit due to residential mobility and the new residents differ from the prior residents based on socio-demographic characteristics (what we term social distance). Nonetheless, research has typically not asked which characteristics explain transitions with higher social distance based on a number of demographic dimensions. We explore this question using American Housing Survey data from 1985 to 2007, and focus on instances in which the prior household moved out and is replaced by a new household. We focus on four key characteristics for explaining this social distance: the type of housing unit, the age of the housing unit, the length of residence of the exiting household, and the crime and social disorder in the neighborhood. We find that transitions in the oldest housing units and for the longest tenured residents result in the greatest amount of social distance between new and prior residents, implying that these transitions are particularly important for fostering neighborhood socio-demographic change. The results imply micro-mechanisms at the household level that might help explain net change at the neighborhood level.",
+  "authors": [
+    {
+      "raw": "Hipp, John R.",
+      "family": "Hipp",
+      "given": "John R."
+    }
+  ],
+  "authors_text": "Hipp, John R.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102372",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102372",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102372",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102372.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

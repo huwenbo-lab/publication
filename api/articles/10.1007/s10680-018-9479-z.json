@@ -1,0 +1,35 @@
+{
+  "title": "The Measurement of Ethnic Segregation in the Netherlands: Differences Between Administrative and Individualized Neighbourhoods",
+  "abstract": "The debate on residential segregation often focuses on the concentration of migrant groups in specific neighbourhoods and its presumed effects on, e.g. personal life chances and social inclusion. However, cross-regional and international comparisons of segregation are hampered by differences in the size and delineation of the spatial units that are used for its measurement: the Modifiable Areal Unit Problem. This paper therefore measures segregation for scalable 'individualized neighbourhoods', defined by a predefined number of closest neighbours instead of by administrative or statistical boundaries. This approach allows for measuring segregation levels and patterns across different spatial scales, ranging from the micro-scale (50 neighbours) to larger spatial areas (51,200 neighbours). Using population register data from the Netherlands, we study the segregation of four different migrant origin groups across individualized neighbourhoods at eleven spatial scales. Outcomes are compared to those found using administrative neighbourhoods. We are especially interested in how levels and patterns of segregation change with an increase in scale level. Our findings indicate that segregation levels and patterns are different across various spatial scales, and the most relevant spatial scale is also group-specific. Measuring segregation while using scalable individualized neighbourhoods seems an appropriate way to deal with both the multiscalar nature of segregation and the large within-district variety associated with it.",
+  "authors": [
+    {
+      "raw": "Sleutjes, Bart",
+      "family": "Sleutjes",
+      "given": "Bart"
+    },
+    {
+      "raw": "de Valk, Helga A. G.",
+      "family": "de Valk",
+      "given": "Helga A. G."
+    },
+    {
+      "raw": "Ooijevaar, Jeroen",
+      "family": "Ooijevaar",
+      "given": "Jeroen"
+    }
+  ],
+  "authors_text": "Sleutjes, Bart; de Valk, Helga A. G.; Ooijevaar, Jeroen",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9479-z",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9479-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9479-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9479-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

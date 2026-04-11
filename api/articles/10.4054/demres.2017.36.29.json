@@ -1,0 +1,30 @@
+{
+  "title": "Let's talk about love: An analysis of the religious and economic factors determining the choice of marital property regime in Italy",
+  "abstract": "BACKGROUND In sociological literature, expectations about marriages' duration are generally considered to be one of the main determinants in the pooling of economic resources between spouses. According to Catholic precepts, religious marriages are indissoluble, and Italy is characterized by a Catholic religious monopoly, with an anomalously high level of religious attendance for a developed country. OBJECTIVE It may therefore be surmised that religious marriages should be characterized by a high propensity for opting for a pooled patrimonial system. Is this hypothesis confirmed by data? METHODS We studied comprehensive data on all the marriages solemnized in Italy for the period 2007-2009. We then use multivariate logistic regressions to assess which factors are associated with a greater propensity for opting for the pooled patrimonial system. RESULTS We find that religious marriages are not characterized by a higher probability of wealth pooling with respect to civil marriages. CONTRIBUTION To our knowledge, this is the first work to analyze the relationship between the choice of a religious marriage and the choice of the marital patrimonial system. We conclude that religious marriages in Italy do not reflect genuine adherence to the Catholic principle of the indissolubility of marriage.",
+  "authors": [
+    {
+      "raw": "Ruiu, Gabriele",
+      "family": "Ruiu",
+      "given": "Gabriele"
+    },
+    {
+      "raw": "Breschi, Marco",
+      "family": "Breschi",
+      "given": "Marco"
+    }
+  ],
+  "authors_text": "Ruiu, Gabriele; Breschi, Marco",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.29",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

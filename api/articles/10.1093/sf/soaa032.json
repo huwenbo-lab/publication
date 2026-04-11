@@ -1,0 +1,25 @@
+{
+  "title": "Automation, Occupational Earnings Trends, and the Moderating Role of Organized Labor",
+  "abstract": "Routine-biased technological change has emerged as the dominant explanation for the differential earnings growth of occupations at greater risk of automation, such as machine operators or office clerks, relative to less routine occupations. In contrast, this paper finds that the declining earnings returns to an occupation's routine task intensity (RTI) can largely be attributed to the decline of organized labor. Using individual-level data on 3.3 million employed adults across the United States from 1983 to 2017, this paper finds that organized labor has two countervailing effects on occupations at greater risk of automation. First, higher union coverage within a state and industry inhibits the decline in earnings returns to an occupation's RTI. Second, higher union coverage hastens the decline in employment shares of occupations with higher RTI. The result is that occupations at greater risk of automation experience more favorable earnings growth where unions are more resilient, but at the cost of accelerated declines in their employment shares. Counterfactual analyses demonstrate that if union coverage in the United States had remained stable at 1983 levels, the earnings returns to an occupation's RTI might not have declined from 1983 to 2017, and the observed pattern of occupational earnings polarization in the 1990s might not have occurred. However, the mean RTI of occupations might have declined by an additional 21 percent from 1983 to 2017 relative to the observed decline. The findings suggestthat the social consequences of automation are conditional on the strength of organized labor.",
+  "authors": [
+    {
+      "raw": "Parolin, Zachary",
+      "family": "Parolin",
+      "given": "Zachary"
+    }
+  ],
+  "authors_text": "Parolin, Zachary",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa032",
+  "doi_url": "https://doi.org/10.1093/sf/soaa032",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa032",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa032.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Change and continuity in the fertility of unpartnered women in Latin America, 1980-2010",
+  "abstract": "BACKGROUND Over the last decades, the proportion of children born to unmarried mothers has been increasing in Latin America while unmarried cohabitation has become more common. One would expect the former to be a consequence of the latter and that the proportion of children born to unpartnered mothers remained stable or decreased. However, recent research has shown that the proportion of the total fertility rate (TFR) that is attributable to unpartnered women has, in fact, increased. OBJECTIVE This paper aims at understanding the increase in the share of the TFR attributable to unpartnered women in Latin America. METHODS We use census data and the own-children method to measure the evolution of fertility by conjugal union status. We use Poisson regression and a multivariate decomposition technique to examine the respective contributions of changes in the composition of the population and changes in the effects of the characteristics of the population on the changes in fertility. RESULTS In most countries the proportion of unpartnered women has increased. Their fertility has increased in some countries but decreased in others. In countries where it has decreased, it has done so at a slower pace than the fertility of partnered women, thus increasing the share of fertility that is attributable to unpartnered women. CONTRIBUTION Our study suggests that the main driver of the increasing share of fertility attributable to unpartnered women in Latin America is their increasing proportion of the population and that the increase (or slower reduction) of their fertility rates, compared to those of partnered women, is a contributing factor in some countries.",
+  "authors": [
+    {
+      "raw": "Laplante, Benoit",
+      "family": "Laplante",
+      "given": "Benoit"
+    },
+    {
+      "raw": "Castro-Martin, Teresa",
+      "family": "Castro-Martin",
+      "given": "Teresa"
+    },
+    {
+      "raw": "Cortina, Clara",
+      "family": "Cortina",
+      "given": "Clara"
+    }
+  ],
+  "authors_text": "Laplante, Benoit; Castro-Martin, Teresa; Cortina, Clara",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.51",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.51",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.51",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.51.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

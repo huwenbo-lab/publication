@@ -1,0 +1,30 @@
+{
+  "title": "Heterogeneity in Expected Longevities",
+  "abstract": "Abstract We develop a new methodology to compute differences in the expected longevity of individuals of a given cohort who are in different socioeconomic groups at a certain age. We address the two main problems associated with the standard use of life expectancy: (1) that people’s socioeconomic characteristics change, and (2) that mortality has decreased over time. Our methodology uncovers substantial heterogeneity in expected longevities, yet much less heterogeneity than what arises from the naive application of life expectancy formulae. We decompose the longevity differences into differences in health at age 50, differences in the evolution of health with age, and differences in mortality conditional on health. Remarkably, education, wealth, and income are health-protecting but have very little impact on two-year mortality rates conditional on health. Married people and nonsmokers, however, benefit directly in their immediate mortality. Finally, we document an increasing time trend of the socioeconomic gradient of longevity in the period 1992–2008, and we predict an increase in the socioeconomic gradient of mortality rates for the coming years.",
+  "authors": [
+    {
+      "raw": "Pijoan-Mas, Josep",
+      "family": "Pijoan-Mas",
+      "given": "Josep"
+    },
+    {
+      "raw": "Ríos-Rull, José-Víctor",
+      "family": "Ríos-Rull",
+      "given": "José-Víctor"
+    }
+  ],
+  "authors_text": "Pijoan-Mas, Josep; Ríos-Rull, José-Víctor",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0346-1",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0346-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0346-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0346-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

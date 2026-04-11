@@ -1,0 +1,30 @@
+{
+  "title": "Explaining the Female Black-White Obesity Gap: A Decomposition Analysis of Proximal Causes",
+  "abstract": "Abstract There exist remarkably large differences in body weights and obesity prevalence between black and white women in the United States; and crucially, these differences are a significant contributor to black-white inequalities in health. In this article, we investigate the most proximal explanations for the weight gap: namely, differences in diet and exercise. More specifically, we decompose black-white differences in body mass index and waist-to-height ratio into components reflecting black-white differences in energy intake and energy expenditure. The analysis indicates that overconsumption is much more important than a lack of exercise in explaining the weight gap, which suggests that diet interventions will have to play a fundamental role if the weight gap between black and white women is to decline.",
+  "authors": [
+    {
+      "raw": "Johnston, David W.",
+      "family": "Johnston",
+      "given": "David W."
+    },
+    {
+      "raw": "Lee, Wang-Sheng",
+      "family": "Lee",
+      "given": "Wang-Sheng"
+    }
+  ],
+  "authors_text": "Johnston, David W.; Lee, Wang-Sheng",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0064-x",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0064-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0064-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0064-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

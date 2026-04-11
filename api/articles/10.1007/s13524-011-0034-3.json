@@ -1,0 +1,30 @@
+{
+  "title": "The Impact of College Education on Fertility: Evidence for Heterogeneous Effects",
+  "abstract": "AbstractAs college-going among women has increased, more women are going to college from backgrounds that previously would have precluded their attendance and completion. This affords us the opportunity and motivation to look at the effects of college on fertility across a range of social backgrounds and levels of early achievement. Despite a substantial literature on the effects of education on women’s fertility, researchers have not assessed variation in effects by selection into college. With data on U.S. women from the National Longitudinal Survey of Youth 1979, we examine effects of timely college attendance and completion on women’s fertility by the propensity to attend and complete college using multilevel Poisson and discrete-time event-history models. Disaggregating the effects of college by propensity score strata, we find that the fertility-decreasing college effect is concentrated among women from comparatively disadvantaged social backgrounds and low levels of early achievement. The effects of college on fertility attenuate as we observe women from backgrounds that are more predictive of college attendance and completion.",
+  "authors": [
+    {
+      "raw": "Brand, Jennie E.",
+      "family": "Brand",
+      "given": "Jennie E."
+    },
+    {
+      "raw": "Davis, Dwight",
+      "family": "Davis",
+      "given": "Dwight"
+    }
+  ],
+  "authors_text": "Brand, Jennie E.; Davis, Dwight",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0034-3",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0034-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0034-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0034-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

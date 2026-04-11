@@ -1,0 +1,25 @@
+{
+  "title": "On a closed-form expression and its approximation to Gompertz life disparity",
+  "abstract": "BACKGROUND In the literature, there exists a closed form solution to the remaining life expectancy at age x when mortality is governed by the Gompertz law. This expression contains a spe-cial function that allows us to construct high-accuracy approximations, which are also helpful in assessing the elasticity of life expectancy with respect to the model parameters. However, to my knowledge, a similar formulation for life disparity does not exist, and as a consequence, it does not exist for life table entropy either. CONTRIBUTION Under the assumption that mortality is governed by the Gompertz law, I present and prove a closed form expression for life disparity at age x that is similar to that existing for life expectancy. Since the closed form expressions hold for both life expectancy and life disparity, an exact expression for the life table entropy is immediately derived. In addition, using known relationships on the exponential integral function, an approximate form for life disparity is also obtained.",
+  "authors": [
+    {
+      "raw": "Di Palo, Cinzia",
+      "family": "Di Palo",
+      "given": "Cinzia"
+    }
+  ],
+  "authors_text": "Di Palo, Cinzia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.1",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

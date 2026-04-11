@@ -1,0 +1,25 @@
+{
+  "title": "Differentiation by Disruption: Gatekeeper Perspectives on “AI-Aided Writing” in Three Academic Disciplines",
+  "abstract": "Will artificial intelligence (AI) change how scholars write? To find out, I examine normative barriers to the institutionalization of AI tools for text generation in history, political science, and economics. Concretely, I ask 139 editors and editorial board members at 40 top journals—gatekeepers—if they approve of AI-aided writing, defined as (1) a human provides ideas in brief notes; (2) instructs AI to write them up as paragraphs in a preferred style; and (3) edits, verifies, and signs the final text. Most (51 percent) respondents agree that such AI-aided writing is acceptable, but many disagree (33 percent) or remain uncertain (16 percent). Respondents base their approval or disapproval mainly on moral claims about what constitutes worthy authorship. Substantial differences among the three disciplines suggest that rather than converging, the emergence of AI-aided writing provokes reflections on the purpose of human writing and boundary work within the academy.",
+  "authors": [
+    {
+      "raw": "Ladegaard, Isak",
+      "family": "Ladegaard",
+      "given": "Isak"
+    }
+  ],
+  "authors_text": "Ladegaard, Isak",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251326981",
+  "doi_url": "https://doi.org/10.1177/23780231251326981",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251326981",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251326981.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

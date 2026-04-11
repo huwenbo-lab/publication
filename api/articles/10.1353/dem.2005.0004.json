@@ -1,0 +1,35 @@
+{
+  "title": "Health consequences of forest fires in Indonesia",
+  "abstract": "AbstractWe combined data from a population-based longitudinal survey with satellite measures of aerosol levels to assess the impact of smoke from forest fires that blanketed the Indonesian islands of Kalimantan and Sumatra in late 1997 on adult health. To account for unobserved differences between haze and nonhaze areas, we compared changes in the health of individual respondents. Between 1993 and 1997, individuals who were exposed to haze experienced greater increases in difficulty with activities of daily living than did their counterparts in nonhaze areas. The results for respiratory and general health, although more complicated to interpret, suggest that haze had a negative impact on these dimensions of health.",
+  "authors": [
+    {
+      "raw": "Frankenberg, Elizabeth",
+      "family": "Frankenberg",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "McKee, Douglas",
+      "family": "McKee",
+      "given": "Douglas"
+    },
+    {
+      "raw": "Thomas, Duncan",
+      "family": "Thomas",
+      "given": "Duncan"
+    }
+  ],
+  "authors_text": "Frankenberg, Elizabeth; McKee, Douglas; Thomas, Duncan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0004",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

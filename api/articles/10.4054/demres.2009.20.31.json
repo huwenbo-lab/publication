@@ -1,0 +1,30 @@
+{
+  "title": "Subjective expectations in the context of HIV/AIDS in Malawi",
+  "abstract": "In this paper we present a newly developed interactive elicitation methodology for collecting probabilistic expectations in a developing country context with low levels of literacy and numeracy, and we evaluate the feasibility and success of this method for a wide range of outcomes in rural Malawi. We find that respondents' answers about their subjective expectations take into account basic properties of probabilities, and vary meaningfully with observable characteristics and past experience. From a substantive point of view, the elicited expectations indicate that individuals are generally aware of differential risks. For example, individuals with lower incomes and less land rightly feel at greater risk of financial distress than people with higher socioeconomic status (SES), and people who are divorced or widowed rightly feel at greater risk of being infected with HIV than currently married individuals. Meanwhile many expectations-including the probability of being currently infected with HIV-are well-calibrated compared to actual probabilities, but mortality expectations are substantially overestimated compared to life table estimates. This overestimation may lead individuals to underestimate the benefits of adopting HIV risk-reduction strategies. The skewed distribution of expectations about condom use also suggests that a small group of innovators are the forerunners in the adoption of condoms within marriage for HIV prevention.",
+  "authors": [
+    {
+      "raw": "Delavande, Adeline",
+      "family": "Delavande",
+      "given": "Adeline"
+    },
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    }
+  ],
+  "authors_text": "Delavande, Adeline; Kohler, Hans-Peter",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2009,
+  "doi": "10.4054/demres.2009.20.31",
+  "doi_url": "https://doi.org/10.4054/demres.2009.20.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2009.20.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2009.20.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

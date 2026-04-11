@@ -1,0 +1,40 @@
+{
+  "title": "Coherent forecasts of mortality with compositional data analysis",
+  "abstract": "BACKGROUND Mortality trends for subpopulations, e.g., countries in a region or provinces in a country, tend to change similarly over time. However, when forecasting subpopulations independently, the forecast mortality trends often diverge. These divergent trends emerge from an inability of different forecast models to offer population-specific forecasts that are consistent with one another. Nondivergent forecasts between similar populations are often referred to as coherent. METHODS We propose a new forecasting method that addresses the coherence problem for subpopulations, based on Compositional Data Analysis (CoDa) of the life table distribution of deaths. We adapt existing coherent and noncoherent forecasting models to CoDa and compare their results. RESULTS We apply our coherent method to the female mortality of 15 Western European countries and show that our proposed strategy would have improved the forecast accuracy for many of the selected countries. The results also show that the CoDa adaptation of commonly used models allows the rates of mortality improvements (RMIs) to change over time. CONTRIBUTION This study opens a discussion about the use of age-specific mortality indicators other than death rates to forecast mortality. The results show that the use of life table deaths and CoDa leads to less biased forecasts than more commonly used forecasting models based on the extrapolation of death rates. To the authors' knowledge, the present study is the first attempt to forecast coherently the distribution of deaths of many populations.",
+  "authors": [
+    {
+      "raw": "Bergeron-Boucher, Marie-Pier",
+      "family": "Bergeron-Boucher",
+      "given": "Marie-Pier"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Oeppen, Jim",
+      "family": "Oeppen",
+      "given": "Jim"
+    },
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    }
+  ],
+  "authors_text": "Bergeron-Boucher, Marie-Pier; Canudas-Romo, Vladimir; Oeppen, Jim; Vaupel, James W.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.17",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

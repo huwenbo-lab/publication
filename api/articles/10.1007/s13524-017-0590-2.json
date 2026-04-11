@@ -1,0 +1,35 @@
+{
+  "title": "Fertility and Life Satisfaction in Rural Ethiopia",
+  "abstract": "Despite recent strong interest in the link between fertility and subjective well-being, the focus has centered on developed countries. For poorer countries, in contrast, the relationship remains rather elusive. Using a well-established panel survey-the Ethiopian Rural Household Survey (ERHS)-we investigate the empirical relationship between fertility and life satisfaction in rural Ethiopia, the largest landlocked country in Africa. Consistent with the fertility theories for developing countries and with the sociodemographic characteristics of rural Ethiopia, we hypothesize that this relationship varies by gender and across life stages, being more positive for men and for parents in old age. Indeed, our results suggest that older men benefit the most in terms of life satisfaction from having a large number of children, while the recent birth of a child is detrimental for the subjective well-being of women at reproductive ages. We address endogeneity issues by using lagged life satisfaction in ordinary least squares regressions, through fixed-effects estimation and the use of instrumental variables.",
+  "authors": [
+    {
+      "raw": "Conzo, Pierluigi",
+      "family": "Conzo",
+      "given": "Pierluigi"
+    },
+    {
+      "raw": "Fuochi, Giulia",
+      "family": "Fuochi",
+      "given": "Giulia"
+    },
+    {
+      "raw": "Mencarini, Letizia",
+      "family": "Mencarini",
+      "given": "Letizia"
+    }
+  ],
+  "authors_text": "Conzo, Pierluigi; Fuochi, Giulia; Mencarini, Letizia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0590-2",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0590-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0590-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0590-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

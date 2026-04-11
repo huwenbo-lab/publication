@@ -1,0 +1,35 @@
+{
+  "title": "Gaydar and the Fallacy of Decontextualized Measurement",
+  "abstract": "Recent media coverage of studies about 'gaydar,' the supposed ability to detect another's sexual orientation through visual cues, reveal problems in which the ideals of scientific precision strip the context from intrinsically social phenomena. This fallacy of objective measurement, as we term it, leads to nonsensical claims based on the predictive accuracy of statistical significance. We interrogate these gaydar studies' assumption that there is some sort of pure biological measure of perception of sexual orientation. Instead, we argue that the concept of gaydar inherently exists within a social context and that this should be recognized when studying it. We use this case as an example of a more general concern about illusory precision in the measurement of social phenomena and suggest statistical strategies to address common problems.",
+  "authors": [
+    {
+      "raw": "Gelman, Andrew",
+      "family": "Gelman",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Mattson, Greggor",
+      "family": "Mattson",
+      "given": "Greggor"
+    },
+    {
+      "raw": "Simpson, Daniel",
+      "family": "Simpson",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Gelman, Andrew; Mattson, Greggor; Simpson, Daniel",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2018,
+  "doi": "10.15195/v5.a12",
+  "doi_url": "https://doi.org/10.15195/v5.a12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv5.a12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v5.a12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

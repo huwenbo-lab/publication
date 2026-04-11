@@ -1,0 +1,35 @@
+{
+  "title": "Reproductive History and Later-Life Comorbidity Trajectories: A Medicare-Linked Cohort Study From the Utah Population Database",
+  "abstract": "Reproductive lives of men and women may provide significant insight into later-life morbidity and mortality. Sociological, biological, and evolutionary theories predict a relationship between reproductive history and later-life health; however, current research is lacking consensus on the direction of the relationship. Parity, early age at first birth and last birth, birth weight of offspring, having a child die as an infant, and having a preterm birth may have long-term effects on health for both men and women. In this study, the relationship between these measures of reproductive history and later-life health is examined using the Utah Population Database (a rich source of longitudinal data), and Medicare claims data from 1992-2009. Later-life health is measured using annual Charlson comorbidity index scores, a construct that summarizes most serious illnesses afflicting older individuals. Group-based trajectory modeling that accounts for nonrandom attrition due to death is used to identify the number and types of morbidity trajectories by sex and age for 52,924 individuals aged 65-84 in 1992. For females, early age at first birth, high parity, and having a preterm or high-birth-weight baby are associated with increased risks of comorbidity; later age at last birth is associated with a decreased risk of comorbidity. For males, early age at first birth and having a child with an abnormal birth weight leads to increased risk of comorbidity. The results suggest that both biological and social factors play important roles in the relationships between fertility and morbidity profiles at older ages.",
+  "authors": [
+    {
+      "raw": "Hanson, Heidi A.",
+      "family": "Hanson",
+      "given": "Heidi A."
+    },
+    {
+      "raw": "Smith, Ken R.",
+      "family": "Smith",
+      "given": "Ken R."
+    },
+    {
+      "raw": "Zimmer, Zachary",
+      "family": "Zimmer",
+      "given": "Zachary"
+    }
+  ],
+  "authors_text": "Hanson, Heidi A.; Smith, Ken R.; Zimmer, Zachary",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0439-5",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0439-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0439-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0439-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

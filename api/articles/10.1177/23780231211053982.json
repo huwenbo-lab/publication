@@ -1,0 +1,25 @@
+{
+  "title": "Trends in U.S. Residential Racial Segregation, 1990 to 2020",
+  "abstract": "This data visualization presents changes in U.S. residential racial segregation from 1990 to 2020, including the recently released 2020 census data. Using Theil’s information index H, the visualization shows both the multigroup index of segregation that involves all racial groups and also all possible pairwise indices of the four major racial groups: whites, Blacks, Hispanics, and Asians. Although multigroup segregation declined by about 12 percent to 16 percent in every decade, the results for some racial groups are more mixed. The segregation of Blacks from all other groups declined over the entire period, but the segregation of Hispanics and Asians from the white population increased, as did the segregation between Hispanics and Asians. For the most recent period, 2010 to 2020, all pairwise segregation indices declined by between 7 percent and 14 percent, except Asian-white segregation, which increased by about 3 percent. Despite these declines, Blacks in particular remain highly segregated from whites and Asians in many U.S. metropolitan areas.",
+  "authors": [
+    {
+      "raw": "Elbers, Benjamin",
+      "family": "Elbers",
+      "given": "Benjamin"
+    }
+  ],
+  "authors_text": "Elbers, Benjamin",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211053982",
+  "doi_url": "https://doi.org/10.1177/23780231211053982",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211053982",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211053982.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

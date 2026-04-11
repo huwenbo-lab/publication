@@ -1,0 +1,30 @@
+{
+  "title": "Research Note: A Novel Sullivan Method Projection Framework With Application to Long COVID",
+  "abstract": "Originally devel oped for esti mat ing healthy life expec tancy, the tra di tional Sullivan method con tin ues to be a pop u lar tool for obtaining pointin time esti ma tes of the pop u la tion impacts of a wide range of health and social con di tions. However, except in rare datainten sive cases, the method is sub ject to strin gent stationarity assump tions, which often do not align with real world con di tions and restrict its resulting esti ma tes and appli ca tions. In this research note, we pres ent an expan sion of the orig i nal method to apply within a pop u la tion pro jec tion frame work. The Sullivan method pro jec tion frame work pro duces esti ma tes that offer new insights about future trends in pop u la tion health and social arrange ments under var i ous demo graphic and epi de mi o logic sce nar ios, such as the per cent age of life years that pop u la tion mem bers can expect to spend with a con di tion of inter est in a time inter val under dif fer ent assump tions. We dem on strate the util ity of this frame work using the case of long COVID, illus trat ing both its oper a tion and poten tial to reveal insights about emergent population health challenges under various theoretically informed sce nar ios. The tra di tional Sullivan method pro vi des a sum mary mea sure of the present, while its incorporation into a projection framework enables preparation for a vari ety of poten tial futures.",
+  "authors": [
+    {
+      "raw": "Ryan-Claytor, Cayley",
+      "family": "Ryan-Claytor",
+      "given": "Cayley"
+    },
+    {
+      "raw": "Verdery, Ashton",
+      "family": "Verdery",
+      "given": "Ashton"
+    }
+  ],
+  "authors_text": "Ryan-Claytor, Cayley; Verdery, Ashton",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11226858",
+  "doi_url": "https://doi.org/10.1215/00703370-11226858",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11226858",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11226858.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

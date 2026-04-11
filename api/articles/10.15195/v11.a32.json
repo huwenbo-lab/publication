@@ -1,0 +1,30 @@
+{
+  "title": "Factorial Survey Experiments to Predict Real-World Behavior: A Cautionary Tale from Hiring Studies",
+  "abstract": "Factorial surveys (FSs) are increasingly used to predict real-world decisions. However, there is a paucity of research assessing whether these predictions are valid and, if so, under what conditions. In this preregistered study, we sent out N = 3, 002 applications to job vacancies in Germany and measured real-world responses. Eight weeks later, we presented nearly identical applicant profiles to the same employers as a part of an FS. To explore the conditions under which FSs provide valid behavioral predictions, we varied the topic sensitivity and tested whether behavioral predictions were more successful after filtering out respondents who gave socially desirable answers or did not exert sufficient effort when answering FS vignettes. Across conditions, the FS results did not correspond well with the real-world benchmark. We conclude that researchers must exercise caution when using FSs to study (hiring) behavior.",
+  "authors": [
+    {
+      "raw": "Forster, Andrea",
+      "family": "Forster",
+      "given": "Andrea"
+    },
+    {
+      "raw": "Neugebauer, Martin",
+      "family": "Neugebauer",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Forster, Andrea; Neugebauer, Martin",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2024,
+  "doi": "10.15195/v11.a32",
+  "doi_url": "https://doi.org/10.15195/v11.a32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv11.a32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v11.a32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

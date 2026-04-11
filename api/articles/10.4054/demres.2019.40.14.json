@@ -1,0 +1,35 @@
+{
+  "title": "'Will the one who keeps the children keep the house?' Residential mobility after divorce by parenthood status and custody arrangements in France",
+  "abstract": "BACKGROUND After divorce, at least one of the partners usually relocates and, according to past research, it is more often the woman Women's housing conditions are likely to worsen. Divorces where children are involved are frequent and shared custody arrangements are becoming more common in Europe. OBJECTIVE This paper analyses the extent to which residential mobility after divorce is linked to parental status and child custody arrangements in France, a topic that remains largely unstudied. We assess not only the probability of moving but also the distance of the move and changes in housing conditions. METHODS We apply logistic and linear regressions to different indicators from a recent administrative database, the French Permanent Demographic Sample, 2010-2013, which makes it possible to track divorced people and their households over time. RESULTS One year after divorce, women are more likely to move than men, although the gender gap is narrower for parents. While sole custody is associated with fewer moves than noncustody for both sexes, shared custody arrangements imply many more moves for mothers than for fathers. Parents more often move near their previous joint home than nonparents, especially those with shared custody. Housing conditions do not necessarily deteriorate after separation, but women are often disadvantaged compared with men. CONTRIBUTION This paper expands on the current literature in that it addresses changes in residency after separation by including the effects of parental status and child custody arrangements.",
+  "authors": [
+    {
+      "raw": "Ferrari, Giulia",
+      "family": "Ferrari",
+      "given": "Giulia"
+    },
+    {
+      "raw": "Bonnet, Carole",
+      "family": "Bonnet",
+      "given": "Carole"
+    },
+    {
+      "raw": "Solaz, Anne",
+      "family": "Solaz",
+      "given": "Anne"
+    }
+  ],
+  "authors_text": "Ferrari, Giulia; Bonnet, Carole; Solaz, Anne",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.14",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

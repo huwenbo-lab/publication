@@ -1,0 +1,40 @@
+{
+  "title": "Household structure vs. composition: Understanding gendered effects on educational progress in rural South Africa",
+  "abstract": "BACKGROUND Demographers have long been interested in the relationship between living arrangements and gendered outcomes for children in sub-Saharan Africa. Most research conflates household structure with composition and has revealed little about the pathways that link these components to gendered outcomes. OBJECTIVES We offer a conceptual approach that differentiates structure from composition with a focus on gendered processes that operate in the household in rural South Africa. METHODS We use data from the 2002 round of the Agincourt Health and Socio-Demographic Surveillance System. Our analytical sample includes 22,997 children aged 6-18 who were neither parents themselves nor lived with a partner or partner's family. We employ ordinary least squares regression models to examine the effects of structure and composition on educational progress of girls and boys. RESULTS Non-nuclear structures are associated with similar negative effects for both boys and girls compared to children growing up in nuclear households. However, the presence of other kin in the absence of one or both parents results in gendered effects favouring boys. CONCLUSION The absence of any gendered effects when using a household structure typology suggests that secular changes to attitudes about gender equity trump any specific gendered processes stemming from particular configurations. On the other hand, gendered effects that appear when one or both parents are absent show that traditional gender norms and/or resource constraints continue to favour boys. CONTRIBUTION We have shown the value of unpacking household structure to better understand how gender norms and gendered resource allocations are linked to an important outcome for children in sub-Saharan Africa.",
+  "authors": [
+    {
+      "raw": "Madhavan, Sangeetha",
+      "family": "Madhavan",
+      "given": "Sangeetha"
+    },
+    {
+      "raw": "Myroniuk, Tyler W.",
+      "family": "Myroniuk",
+      "given": "Tyler W."
+    },
+    {
+      "raw": "Kuhn, Randall",
+      "family": "Kuhn",
+      "given": "Randall"
+    },
+    {
+      "raw": "Collinson, Mark A.",
+      "family": "Collinson",
+      "given": "Mark A."
+    }
+  ],
+  "authors_text": "Madhavan, Sangeetha; Myroniuk, Tyler W.; Kuhn, Randall; Collinson, Mark A.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.59",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.59",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.59",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.59.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "National High-Stakes Testing, Gender, and School Stress in Europe: A Difference-in-Differences Analysis",
+  "abstract": "In this study, we ask if high-stakes testing affects school-related stress among students and if there are gender differences in these effects. Students' results on high-stakes tests can have long-term consequences for their future educational trajectories and life chances. For girls, who tend to have higher educational aspirations and tend to gain more from higher education, the stakes involved may be even higher. The use of high-stakes testing has increased across Europe, but little is known about their consequences for stress or wellbeing. We combine macro-level data on high-stakes testing with survey data on more than 300,000 students aged 11-15 years in 31 European countries from three waves (2002, 2006, and 2010) of the Health Behaviour in School-aged Children study. With variation in high-stakes testing across countries, years, and grade levels, we use a quasi-experimental difference-in-differences design for the identification of causal effects. We find that high-stakes testing increases the risk of moving from low to high levels of self-reported school stress by 4 percentage points, or by 12 per cent relative to baseline values. This effect is somewhat larger for girls, though not significantly so. The results are robust to a range of sensitivity analyses.",
+  "authors": [
+    {
+      "raw": "Hogberg, Bjorn",
+      "family": "Hogberg",
+      "given": "Bjorn"
+    },
+    {
+      "raw": "Horn, Daniel",
+      "family": "Horn",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Hogberg, Bjorn; Horn, Daniel",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcac009",
+  "doi_url": "https://doi.org/10.1093/esr/jcac009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

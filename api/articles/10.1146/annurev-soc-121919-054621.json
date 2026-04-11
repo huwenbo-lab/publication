@@ -1,0 +1,40 @@
+{
+  "title": "Computational Social Science and Sociology",
+  "abstract": "The integration of social science with computer science and engineering fields has produced a new area of study: computational social science. This field applies computational methods to novel sources of digital data such as social media, administrative records, and historical archives to develop theories of human behavior. We review the evolution of this field within sociology via bibliometric analysis and in-depth analysis of the following subfields where this new work is appearing most rapidly: (a) social network analysis and group formation; (b) collective behavior and political sociology; (c) the sociology of knowledge; (d) cultural sociology, social psychology, and emotions; (e) the production of culture; ( f) economic sociology and organizations; and (g) demography and population studies. Our review reveals that sociologists are not only at the center of cutting-edge research that addresses longstanding questions about human behavior but also developing new lines of inquiry about digital spaces as well. We conclude by discussing challenging new obstacles in the field, calling for increased attention to sociological theory, and identifying new areas where computational social science might be further integrated into mainstream sociology.",
+  "authors": [
+    {
+      "raw": "Edelmann, Achim",
+      "family": "Edelmann",
+      "given": "Achim"
+    },
+    {
+      "raw": "Wolff, Tom",
+      "family": "Wolff",
+      "given": "Tom"
+    },
+    {
+      "raw": "Montagne, Danielle",
+      "family": "Montagne",
+      "given": "Danielle"
+    },
+    {
+      "raw": "Bail, Christopher A.",
+      "family": "Bail",
+      "given": "Christopher A."
+    }
+  ],
+  "authors_text": "Edelmann, Achim; Wolff, Tom; Montagne, Danielle; Bail, Christopher A.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2020,
+  "doi": "10.1146/annurev-soc-121919-054621",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-121919-054621",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-121919-054621",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-121919-054621.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Gender Imbalance and the Re-Entry of Married Women Into the Labor Market in Urban China: A Marriage Market Perspective",
+  "abstract": "This study empirically analyzes the impact of gender imbalance on the labor force participation rate of urban married women, utilizing data from the 2012-2022 China Family Panel Studies (CFPS) and matched provincial-level gender imbalance data. A probit model is employed, with particular focus on households with unmarried sons. The results show that gender imbalances significantly encourage urban married women with unmarried sons to re-enter the labor market, enhancing their sons' competitiveness in the marriage market by helping to accumulate family wealth. In contrast, while the effect is also significant for households with unmarried daughters, its intensity is weaker. No significant effect is found in households without children or with daughters only. Further analysis indicates that as children age, the demand for caregiving within the household gradually decreases, while competition in the marriage market intensifies, thereby increasing married women's labor force participation. Additionally, gender imbalance triggers a significant wealth accumulation effect within families. In regions with more severe gender imbalances, urban married women with unmarried sons significantly increase the household savings rate (positive effect), while reducing overall household consumption levels (negative effect). Moderation tests reveal that the widespread use of the internet and advances in information technology, by facilitating flexible employment, enable women to balance family and work responsibilities, further boosting their participation in the labor market. Robustness checks, including multilevel modeling, adjusted age ranges for the sample, logit regressions, and double machine learning, all support the study's conclusions. This research highlights the profound influence of gender imbalance on household economic decisions and women's labor behaviors, enriching the theoretical frameworks of the marriage market and labor economics. It also provides valuable policy implications for addressing gender imbalances and promoting balanced socio-economic development.",
+  "authors": [
+    {
+      "raw": "Liang, Shi",
+      "family": "Liang",
+      "given": "Shi"
+    },
+    {
+      "raw": "Cai, Chengcheng",
+      "family": "Cai",
+      "given": "Chengcheng"
+    }
+  ],
+  "authors_text": "Liang, Shi; Cai, Chengcheng",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2025,
+  "doi": "10.1177/0192513x251330606",
+  "doi_url": "https://doi.org/10.1177/0192513x251330606",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x251330606",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x251330606.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

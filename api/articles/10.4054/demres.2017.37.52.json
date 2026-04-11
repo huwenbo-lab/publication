@@ -1,0 +1,35 @@
+{
+  "title": "The magnitude and timing of grandparental coresidence during childhood in the United States",
+  "abstract": "BACKGROUND The likelihood that a US child will live with a grandparent has increased over time. In 2015, nearly 12% of children lived with a grandparent. However, the likelihood that a child will ever live with a grandparent is not known. OBJECTIVE We calculate the cumulative and age-specific probabilities of coresidence with grandparents during childhood. We stratify our analyses by types of grandparent-grandchild living arrangements (grandfamilies and three-generation households) and by race and ethnicity. METHODS We use two data sets-the pooled 2010-2015 American Community Surveys (ACS) and the 1997 National Longitudinal Survey of Youth (NLSY-97) - and produce estimates using life tables techniques. RESULTS Results indicate that nearly 30% of US children ever coreside with grandparents. Both three-generation and grandfamily living arrangements are more prevalent among racial and ethnic minority groups, with three-generation coresidence particularly common among Asian children. Black children are nearly two times as likely to ever live in a grandfamily as compared to Hispanic and white children, respectively. Children are much more likely to experience grandparental coresidence during their first year of life than in any other year. CONCLUSION This paper suggests that the magnitude of grandparental coresidence is greater than previously known, particularly in early childhood. CONTRIBUTION This is the first study to calculate age-specific and cumulative probabilities of coresidence with grandparents during the whole childhood. Doing so allows us to better craft public policies and guide new research on family complexity.",
+  "authors": [
+    {
+      "raw": "Amorim, Mariana",
+      "family": "Amorim",
+      "given": "Mariana"
+    },
+    {
+      "raw": "Dunifon, Rachel",
+      "family": "Dunifon",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Pilkauskas, Natasha",
+      "family": "Pilkauskas",
+      "given": "Natasha"
+    }
+  ],
+  "authors_text": "Amorim, Mariana; Dunifon, Rachel; Pilkauskas, Natasha",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.52",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.52",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.52",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.52.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

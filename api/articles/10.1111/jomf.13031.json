@@ -1,0 +1,30 @@
+{
+  "title": "COVID-19 experiences and family resilience: A latent class analysis",
+  "abstract": "Objective: This study identifies subtypes of families with varying levels of economic and relational resilience during the pandemic and evaluates the factors associated with these subtypes in Singapore. Background: Despite mounting evidence on the detrimental impact of the pandemic on family well-being, we examine how resources at different levels may enhance family resilience. Method: A sample of 2818 households was extracted from two waves of the Singapore Longitudinal Early Development Study (SG-LEADS). Latent class analysis was conducted to classify subgroups of families. Multinomial logistic regression was applied to examine the association between the subgroup membership and multilevel factors including mother's self-efficacy, family socioeconomic status, quality of family time, mother's work-life conflict, partner cooperation, neighborhood environment, and government and community support. Results: We identified six distinct groups of families: economically and relationally fragile (4%), economically struggling but relationally improved (11%), economically struggling but relationally stable (14%), economically secure and relationally stable (28%), economically secure but relationally deteriorating (11%) and economically secure and relationally strengthened (31%). Families with higher socioeconomic status tend to show economic resilience. Families with mothers exhibiting higher self-efficacy and lower work-life conflict, coupled with quality family time, better neighborhood, greater government and community support, are more relationally resilient. Conclusion: The study provides a nuanced picture of family dynamics under a global crisis, highlighting the multilevel resources that are correlated with family resilience.",
+  "authors": [
+    {
+      "raw": "Chen, Xuejiao",
+      "family": "Chen",
+      "given": "Xuejiao"
+    },
+    {
+      "raw": "Yeung, Wei-Jun Jean",
+      "family": "Yeung",
+      "given": "Wei-Jun Jean"
+    }
+  ],
+  "authors_text": "Chen, Xuejiao; Yeung, Wei-Jun Jean",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13031",
+  "doi_url": "https://doi.org/10.1111/jomf.13031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

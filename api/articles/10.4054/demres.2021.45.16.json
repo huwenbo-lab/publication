@@ -1,0 +1,30 @@
+{
+  "title": "The formal demography of kinship III: Kinship dynamics with time-varying demographic rates",
+  "abstract": "BACKGROUND Kinship models, from the pioneering work of Goodman, Keyfitz, and Pullum to the recent matrix-oriented approach of Caswell, have assumed time-invariant demographic rates, and computed the kinship structures implied by those rates. In reality, however, demographic rates vary with time and it is of interest to compute the consequences of such variation for kinship structures. OBJECTIVE Our goal is to develop a matrix model for the dynamics of kinship networks subject to arbitrary temporal variation in survival, fertility, and population structure. METHODS We develop a linked set of equations for the dynamics of the age structure of each type of kin of a Focal individual. The matrices that describe survival and fertility are given as functions of time. The initial conditions required for the time-invariant model are replaced with a set of boundary conditions for initial time and initial age. RESULTS The time-varying model maintains the kinship network structure of the time-invariant model. In addition to the results provided by the time-invariant model, it provides kinship structures by period, cohort, and age. It applies equally to historical sequences of past demographic rates and to projections of future rates. As an illustration, we present an analysis of the kinship structure of Sweden from 1891 to 2120. CONTRIBUTION The time-varying kinship model makes it possible to analyze the consequences of chang-ing demographic rates, in the past or the future. It is easily computable, requires no simulations, and is readily extended to include additional, more distant relatives in the kinship network. The method can also be used to show the growth of families, lineages, and dynasties in populations across time and place and between social groups.",
+  "authors": [
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    },
+    {
+      "raw": "Song, Xi",
+      "family": "Song",
+      "given": "Xi"
+    }
+  ],
+  "authors_text": "Caswell, Hal; Song, Xi",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.16",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

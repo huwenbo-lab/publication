@@ -1,0 +1,40 @@
+{
+  "title": "The Effects of Conflict on Fertility: Evidence From the Genocide in Rwanda",
+  "abstract": "Our study analyzes the fertility effects of the 1994 genocide in Rwanda. We study the effects of violence on both the duration time to the first birth in the early post-genocide period and on the total number of post-genocide births per woman up to 15 years following the conflict. We use individual-level data from Demographic and Health Surveys, estimating survival and count data models. This article contributes to the literature on the demographic effects of violent conflict by testing two channels through which conflict influences fertility: (1) the type of violence exposure as measured by the death of a child or sibling, and (2) the conflict-induced change in local demographic conditions as captured by the change in the district-level sex ratio. Results indicate the genocide had heterogeneous effects on fertility, depending on the type of violence experienced by the woman, her age cohort, parity, and the time horizon (5, 10, and 15 years after the genocide). There is strong evidence of a child replacement effect. Having experienced the death of a child during the genocide increases both the hazard of having a child in the five years following the genocide and the total number of post-genocide births. Experiencing sibling death during the genocide significantly lowers post-genocide fertility in both the short-run and the long-run. Finally, a reduction in the local sex ratio negatively impacts the hazard of having a child in the five years following the genocide, especially for older women.",
+  "authors": [
+    {
+      "raw": "Kraehnert, Kati",
+      "family": "Kraehnert",
+      "given": "Kati"
+    },
+    {
+      "raw": "Brueck, Tilman",
+      "family": "Brueck",
+      "given": "Tilman"
+    },
+    {
+      "raw": "Di Maio, Michele",
+      "family": "Di Maio",
+      "given": "Michele"
+    },
+    {
+      "raw": "Nistico, Roberto",
+      "family": "Nistico",
+      "given": "Roberto"
+    }
+  ],
+  "authors_text": "Kraehnert, Kati; Brueck, Tilman; Di Maio, Michele; Nistico, Roberto",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00780-8",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00780-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00780-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00780-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

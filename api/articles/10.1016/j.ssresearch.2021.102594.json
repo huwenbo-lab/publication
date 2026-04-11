@@ -1,0 +1,30 @@
+{
+  "title": "Explaining wage differentials by field of study among higher education graduates: Evidence from a large-scale survey of adult skills*",
+  "abstract": "Why do some fields of study in higher education yield higher wage returns in the labor market than others? Human capital perspectives suggest that differences in skills are a major source of between-fields wage differentials. We assess this explanation using data from the Programme for the International Assessment of Adult Competencies (PIAAC). Our pooled analysis of 17,590 graduates from 29 countries indicates that differences in general cognitive (literacy and numeracy) skills matter relatively little, although numeracy skills do play a meaningful role in accounting for the high wages of STEM (science, technology, engineering, and mathematics) graduates. Specific skills, proxied by skill use on the job, explain a substantial portion of betweenfield wage differentials. Remarkably, we find that the sex composition of the field of study remains important after taking skills into account, particularly for explaining the wage advantage of STEM graduates. Comparative analyses grouping the 29 countries into four institutional clusters-Social-democratic, Conservative, Liberal, and Post-communist-show that these general patterns are broadly similar across different institutional contexts.",
+  "authors": [
+    {
+      "raw": "Bol, Thijs",
+      "family": "Bol",
+      "given": "Thijs"
+    },
+    {
+      "raw": "Heisig, Jan Paul",
+      "family": "Heisig",
+      "given": "Jan Paul"
+    }
+  ],
+  "authors_text": "Bol, Thijs; Heisig, Jan Paul",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102594",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102594",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102594",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102594.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

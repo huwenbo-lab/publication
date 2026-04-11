@@ -1,0 +1,30 @@
+{
+  "title": "Black-white wage inequality, employment rates, and incarceration",
+  "abstract": "The observed gap in average wages between black men and white men inadequately reflects the relative economic standing of blacks, who suffer from a high rate of joblessness. The authors estimate the black-white gap in hourly wages from 1980 to 1999 adjusting for the sample selection effect of labor inactivity. Among working- age men in 1999, accounting for labor inactivity - including prison and jail incarceration - leads to an increase of 7% - 20% in the blackwhite wage gap. Adjusting for sample selectivity among men ages 22 - 30 in 1999 increases the wage gap by as much as 58%. Increasing selection bias, which can be attributed to incarceration and conventional joblessness, explains about two- thirds of the rise in black relative wages among young men between 1985 and 1998. Apparent improvement in the economic position of young black men is thus largely an artifact of rising joblessness fueled by the growth in incarceration during the 1990s.",
+  "authors": [
+    {
+      "raw": "Western, B",
+      "family": "Western",
+      "given": "B"
+    },
+    {
+      "raw": "Pettit, B",
+      "family": "Pettit",
+      "given": "B"
+    }
+  ],
+  "authors_text": "Western, B; Pettit, B",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2005,
+  "doi": "10.1086/432780",
+  "doi_url": "https://doi.org/10.1086/432780",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F432780",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/432780.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

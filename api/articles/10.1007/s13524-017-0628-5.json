@@ -1,0 +1,25 @@
+{
+  "title": "Family Trajectories Across Time and Space: Increasing Complexity in Family Life Courses in Europe?",
+  "abstract": "Family life courses are thought to have become more complex in Europe. This study uses SHARELIFE data from 14 European countries to analyze the family life courses of individuals born in 1924-1956 from ages 15 to 50. A new methodological approach, combining complexity metrics developed in sequence analysis with cross-classified multilevel modeling, is used to simultaneously quantify the proportions of variance attributable to birth cohort and country differences. This approach allows the direct comparison of changing levels of family trajectory differentiation across birth cohorts with cross-national variation, which provides a benchmark against which temporal change may be evaluated. The results demonstrate that family trajectories have indeed become more differentiated but that change over time is minor compared with substantial cross-national variation. Further, cross-national differences in family trajectory differentiation correspond with differences in dominant family life course patterns. With regard to debates surrounding the second demographic transition thesis and the comparative life course literature, the results indicate that the degree of change over time tends to be overstated relative to large cross-national differences.",
+  "authors": [
+    {
+      "raw": "Van Winkle, Zachary",
+      "family": "Van Winkle",
+      "given": "Zachary"
+    }
+  ],
+  "authors_text": "Van Winkle, Zachary",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-017-0628-5",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0628-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0628-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0628-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

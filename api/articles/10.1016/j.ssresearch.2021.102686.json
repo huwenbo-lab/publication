@@ -1,0 +1,30 @@
+{
+  "title": "Industrial automation and intergenerational income mobility in the United States",
+  "abstract": "This article examines how the automation of jobs has shaped spatial patterns of intergenerational income mobility in the United States over the past three decades. Using data on the spread of industrial robots across 722 local labor markets, we find significantly lower rates of upward mobility in areas more exposed to automation. The erosion of mobility chances is rooted in childhood environments and is particularly evident among males growing up in low-income households. These findings reveal how recent technological advances have contributed to the unequal patterns of economic opportunity in the United States today.",
+  "authors": [
+    {
+      "raw": "Berger, Thor",
+      "family": "Berger",
+      "given": "Thor"
+    },
+    {
+      "raw": "Engzell, Per",
+      "family": "Engzell",
+      "given": "Per"
+    }
+  ],
+  "authors_text": "Berger, Thor; Engzell, Per",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102686",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102686",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102686",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102686.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

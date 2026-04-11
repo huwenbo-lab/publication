@@ -1,0 +1,30 @@
+{
+  "title": "Does grandparental help mediate the relationship between kin presence and fertility?",
+  "abstract": "BACKGROUND Previous research suggests that kin availability may be correlated with reproductive outcomes, but it is not clear that a causal relationship underlies these findings. Further, there is substantial variation in how kin availability is measured. OBJECTIVE We attempt to identify whether different measures of kin availability influence how kin affect reproductive outcomes and whether the effect of kin on reproductive outcomes is driven by the help that they provide. METHODS Using data from the Indonesia Family Life Survey (1993, 1997, 2000, 2007), we compare the survival of parents and parents-in-law, their co-residence, geographic proximity, contact frequency, and helping behavior in predicting fertility outcomes, and test a hypothesized causal pathway linking kin availability to reproduction via helping behavior. RESULTS We find different results if we operationalize parental availability as survival or co-residence, suggesting that these measures cannot be used interchangeably. Receiving help from parents or parents-in-law has a positive effect on progression to birth when women have fewer than three living children. Path analyses show that geographic proximity is associated with contact frequency, which in turn influences helping behavior. Kin help has a positive effect on progression to giving birth for all parental categories, but the effects are strongest for mothers-in-law. CONCLUSION In Indonesia, kin availability has a positive effect on fertility only when kin provide help, suggesting that there is a causal relationship between kin availability and fertility which is mediated via the provision of help.",
+  "authors": [
+    {
+      "raw": "Snopkowski, Kristin",
+      "family": "Snopkowski",
+      "given": "Kristin"
+    },
+    {
+      "raw": "Sear, Rebecca",
+      "family": "Sear",
+      "given": "Rebecca"
+    }
+  ],
+  "authors_text": "Snopkowski, Kristin; Sear, Rebecca",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.17",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

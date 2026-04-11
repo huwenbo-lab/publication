@@ -1,0 +1,30 @@
+{
+  "title": "Beyond Incarceration: Criminal Justice Contact and Mental Health",
+  "abstract": "A growing literature documents deleterious consequences of incarceration for mental health. Although salient, incarceration is only one form of criminal justice contact and, accordingly, focusing on incarceration may mask the extent to which the criminal justice system influences mental health. Using insights from the stress process paradigm, along with nationally representative data from the National Longitudinal Survey of Youth 1997, we examine criminal justice contact-defined as arrest, conviction, and incarceration-and mental health. First, fixed-effects models, which adjust for stable unobserved and time-varying observed characteristics, show that arrest is deleteriously associated with mental health, and arrest accounts for nearly half of the association between incarceration and poor mental health, although certain types of incarceration appear more consequential than others. Second, the associations are similar across race and ethnicity; this, combined with racial/ethnic disparities in contact, indicates that criminal justice interactions exacerbate minority health inequalities. Third, the associations between criminal justice contact, especially arrest and incarceration, and mental health are particularly large among respondents residing in contextually disadvantaged areas during adolescence. Taken together, the results suggest that the consequences of criminal justice contact for mental health have a far greater reach than previously considered.",
+  "authors": [
+    {
+      "raw": "Sugiea, Naomi F.",
+      "family": "Sugiea",
+      "given": "Naomi F."
+    },
+    {
+      "raw": "Turneya, Kristin",
+      "family": "Turneya",
+      "given": "Kristin"
+    }
+  ],
+  "authors_text": "Sugiea, Naomi F.; Turneya, Kristin",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1177/0003122417713188",
+  "doi_url": "https://doi.org/10.1177/0003122417713188",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122417713188",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122417713188.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

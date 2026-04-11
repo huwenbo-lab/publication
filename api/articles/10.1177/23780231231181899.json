@@ -1,0 +1,40 @@
+{
+  "title": "The Child Tax Credit, Educational Investments, and the American Dream: A Moderated Mediation Analysis",
+  "abstract": "In March 2021, the American Rescue Plan substantially increased the maximum per-child child tax credit (CTC). However, research has yet to explore educational investments associated with the CTC. Thus, the authors leverage a probability-based panel survey of CTC-eligible families across 49 states to examine how parents’ investments in tutoring and college savings relate to the degree to which parents believe that their children will have better lives than they did. Through mediation models, the authors find that even though families that used the CTC for tutoring and college savings perceived an impact, intentions were related only to increased optimism through actions for college savings. Moreover, through their moderation models, the authors find that the direct effects of using the CTC for college savings on increased optimism were significant only for lower income families and that converting savings plans into actions was substantially more common among families with previous savings experiences.",
+  "authors": [
+    {
+      "raw": "Jabbari, Jason",
+      "family": "Jabbari",
+      "given": "Jason"
+    },
+    {
+      "raw": "Anglum, Cameron",
+      "family": "Anglum",
+      "given": "Cameron"
+    },
+    {
+      "raw": "Roll, Stephen",
+      "family": "Roll",
+      "given": "Stephen"
+    },
+    {
+      "raw": "Hamilton, Leah",
+      "family": "Hamilton",
+      "given": "Leah"
+    }
+  ],
+  "authors_text": "Jabbari, Jason; Anglum, Cameron; Roll, Stephen; Hamilton, Leah",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231181899",
+  "doi_url": "https://doi.org/10.1177/23780231231181899",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231181899",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231181899.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

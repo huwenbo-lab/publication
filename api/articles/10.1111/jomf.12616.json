@@ -1,0 +1,25 @@
+{
+  "title": "Leaving Home, Entering Institutions: Implications for Home-Leaving in the Transition to Adulthood",
+  "abstract": "Objective This study examines the impact of incorporating institutional transitions (e.g., military, higher education, incarceration) into the definition of home-leaving for estimates of cumulative risks of first home-leaving in the transition to adulthood and racial/ethnic differences therein. Background The departure from the parental home is considered an important milestone in the transition to adulthood. However, to date, studies of the timing, prevalence, and nature of this key milestone have not generally incorporated the broader range of experiences with residential components that young adults increasingly face-such as military service and incarceration. Method Life table analysis of 6,501 individuals from the 1997 National Longitudinal Study of Youth is used to estimate overall and race/ethnicity-specific cumulative risks of first home-leaving using two measures of home-leaving: one that relies exclusively on household rosters and a second that incorporates information about departures for institutions beyond the family and household. Multinomial regression is then used to estimate young adults' likelihoods of first home-leaving for different types of arrangements and institutional settings. Results An institution-inclusive definition of home-leaving yields higher estimates of the risk of leaving the parental home by age 31 than a roster-based definition. The institution-inclusive measure also estimates greater racial/ethnic variation in the timing of first departure and provides insights into the racial/ethnic differences in the types of transitions experienced. Conclusion Variations in the definition of adult transitions can impact conclusions about the prevalence, timing, and racial/ethnic variation in key life events.",
+  "authors": [
+    {
+      "raw": "Yi, Youngmin",
+      "family": "Yi",
+      "given": "Youngmin"
+    }
+  ],
+  "authors_text": "Yi, Youngmin",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12616",
+  "doi_url": "https://doi.org/10.1111/jomf.12616",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12616",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12616.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

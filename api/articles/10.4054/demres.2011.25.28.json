@@ -1,0 +1,30 @@
+{
+  "title": "An inquiry into the uneven distribution of women’s HIV infection in rural Malawi",
+  "abstract": "Ecological comparisons in sub-Saharan Africa show that HIV prevalence is lower where men are generally circumcised than where they are not. Randomized controlled trials have found a 50-60% reduction in HIV acquisition for newly circumcised men. Yet in Malawi, HIV prevalence is highest in several districts in the Southern Region, where men are commonly circumcised. We draw upon a population-based sample of ever-married women to explore this unexpected finding. Our data show that in the southern district of Balaka, women with circumcised spouses have a lower probability of HIV infection compared to those with uncircumcised spouses. However, the strength of this effect is conditioned by specific marital histories: among women with circumcised spouses, those with multiple marriages and an absence of spousal co-residence have a higher probability of HIV infection than do those married once and those who have never lived apart from their spouses. The history of marital turnover and female-headed households among the ethnic groups of Balaka offer insight into the district's elevated HIV levels.",
+  "authors": [
+    {
+      "raw": "Poulin, Michelle",
+      "family": "Poulin",
+      "given": "Michelle"
+    },
+    {
+      "raw": "Muula, Adamson S.",
+      "family": "Muula",
+      "given": "Adamson S."
+    }
+  ],
+  "authors_text": "Poulin, Michelle; Muula, Adamson S.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2011,
+  "doi": "10.4054/demres.2011.25.28",
+  "doi_url": "https://doi.org/10.4054/demres.2011.25.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2011.25.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2011.25.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

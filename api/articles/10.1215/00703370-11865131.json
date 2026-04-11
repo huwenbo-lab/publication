@@ -1,0 +1,50 @@
+{
+  "title": "Does Schooling Improve Cognitive Abilities at Older Ages? Causal Evidence From Nonparametric Bounds",
+  "abstract": "We revisit much-investigated relationships between schooling and health, focusing on schooling impacts on cognitive abilities at older ages using the Harmonized Cognition Assessment Protocol in the Health and Retirement Study (HRS) and a bounding approach that requires relatively weak assumptions. Our estimated upper bounds on the population average effects indicate potentially large causal effects of increasing schooling from primary to secondary. Yet, these upper bounds are smaller than many estimates from studies of causal schooling impacts on cognition using compulsory schooling laws. We also cannot rule out small and null effects at this margin. However, we find evidence for positive causal effects on cognition of increasing school ing from secondary to tertiary. We replicate findings from the HRS using data on older adults from the Midlife in United States Development Study Cognitive Project. We further explore possible mechanisms behind the schooling effect (e.g., health, socio economic status, occupation, and spousal schooling), finding suggestive evidence of effects through such mechanisms.",
+  "authors": [
+    {
+      "raw": "Amin, Vikesh",
+      "family": "Amin",
+      "given": "Vikesh"
+    },
+    {
+      "raw": "Behrman, Jere R.",
+      "family": "Behrman",
+      "given": "Jere R."
+    },
+    {
+      "raw": "Fletcher, Jason M.",
+      "family": "Fletcher",
+      "given": "Jason M."
+    },
+    {
+      "raw": "Flores, Carlos A.",
+      "family": "Flores",
+      "given": "Carlos A."
+    },
+    {
+      "raw": "Flores-Lagunes, Alfonso",
+      "family": "Flores-Lagunes",
+      "given": "Alfonso"
+    },
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    }
+  ],
+  "authors_text": "Amin, Vikesh; Behrman, Jere R.; Fletcher, Jason M.; Flores, Carlos A.; Flores-Lagunes, Alfonso; Kohler, Hans-Peter",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11865131",
+  "doi_url": "https://doi.org/10.1215/00703370-11865131",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11865131",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11865131.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

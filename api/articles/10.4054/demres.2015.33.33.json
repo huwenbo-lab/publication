@@ -1,0 +1,30 @@
+{
+  "title": "Measuring intergenerational financial support: Analysis of two cross-national surveys",
+  "abstract": "BACKGROUND The last decade has seen considerable research into intergenerational financial transfers in Europe. This research has produced significant insights into the nature, causes, and consequences of such transfers, as well as evidence of cross-national variation. Yet the findings of this research field are almost exclusively based on data from the Survey of Health, Ageing, and Retirement in Europe (SHARE). The dependency on SHARE data and this specific methodological approach may limit the inferences made by researchers examining intergenerational transfers in Europe. OBJECTIVE This paper aims to explore whether instruments designed to measure intergenerational financial transfers are sensitive to various methodological parameters. Specifically, whether the prompts, reference period, and respondent identity affect the number and size of transfers that are reported. METHODS To achieve this we compare data from SHARE and the Generations and Gender Programme (GGP) using Propensity Score Matching to identify which survey reports the most transfers and whether these differences are stable across sub-groups. We also utilise specific features of SHARE and the GGP to examine whether variations in the reference period or asking the transfer giver or receiver affects the level of behaviour reported. RESULTS The results show that the instruments are highly sensitive to changes in wording, the reference period, and the identity of the respondent. This suggests that existing findings in the literature may be sensitive to the specific methodology used by SHARE. CONCLUSIONS Whilst SHARE is an excellent data source, we would encourage studies of intergenerational transfers to validate their findings with multiple data sources.",
+  "authors": [
+    {
+      "raw": "Emery, Tom",
+      "family": "Emery",
+      "given": "Tom"
+    },
+    {
+      "raw": "Mudrazija, Stipica",
+      "family": "Mudrazija",
+      "given": "Stipica"
+    }
+  ],
+  "authors_text": "Emery, Tom; Mudrazija, Stipica",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.33",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

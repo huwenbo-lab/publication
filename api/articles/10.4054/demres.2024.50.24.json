@@ -1,0 +1,30 @@
+{
+  "title": "How lifespan and life years lost equate to unity",
+  "abstract": "BACKGROUND Life expectancy at birth (e0), life years lost at death (e dagger), and lifetable entropy (H) are key indicators that capture average lifespan and lifespan variation. Expressions and relationships among these summary measures form the basis to analytically derive a range of formal demographic relationships, that build on each other and together help create new insights. Even though many elegant relationships are known, new ones are still to be discovered. RESULTS The sum of life expectancy and life years lost at death, scaled by the level and rate parameters a and b of the Gompertz mortality model, equals one. This plain relationship has mathematical beauty and connects key demographic measures. It directly implies further relationships, and allows connecting existing ones. It can be interpreted as a pace-shape decomposition of lifespan. CONTRIBUTION We contribute a useful relationship to complement analytical tools for studying life expectancy and lifespan variation. It can reveal macro -level regularities that may aid development of novel forecasting methods in the future. It could also support more comparative research across species by quantifying the relative impact of the environment on species' life histories. We also propose the ratio a/b as a potential metric to signal major trend changes in mortality improvements.",
+  "authors": [
+    {
+      "raw": "Baudisch, Annette",
+      "family": "Baudisch",
+      "given": "Annette"
+    },
+    {
+      "raw": "Aburto, Jose Manuel",
+      "family": "Aburto",
+      "given": "Jose Manuel"
+    }
+  ],
+  "authors_text": "Baudisch, Annette; Aburto, Jose Manuel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.24",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.24",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.24",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.24.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "ParentWork-to-FamilyConflict and Child Psychological Well-Being: Moderating Role of Grandparent Coresidence",
+  "abstract": "Objective This study examines how grandparental coresidence influences the daily crossover of parent work-to-family conflict (WTFC) to child psychological well-being. Background A small but growing literature reports high levels of daily fluctuations in WTFC and its health implications for individuals, but little is known about the intergenerational crossover of WTFC in the context of multigenerational living. Method Using propensity score methods, we matched 129 three-generation households with 133 two-generation households in Zhengzhou, China based on multiple characteristics, including family member demographics, family socioeconomic status, migration status, and potential need for parenting assistance. Participants completed a daily questionnaire for 15 consecutive days. Fixed effects models estimate the association between parent WTFC and child next-day negative affect on the two-generation and three-generation households, separately. Post-estimation Wald tests for the predicted marginal effects across subgroups were performed to test whether the coefficients for parental WTFC were significantly different across groups. Results We found substantial daily fluctuations in parent WTFC. After adjusting for parent daily mood, hostile parenting, parent/child physical symptoms, and parent/child previous night sleep deficiency, parent daily WTFC was positively associated with child next-day negative affect, but only among two-generation families. Conclusion Coresiding grandparent(s) could be an important source of social support that buffers the negative crossover of parent WTFC. Future studies are needed to identify mechanisms through which coresiding grandparent(s) help mitigate the intergenerational crossover of WTFC.",
+  "authors": [
+    {
+      "raw": "Mustillo, Sarah",
+      "family": "Mustillo",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Li, Miao",
+      "family": "Li",
+      "given": "Miao"
+    },
+    {
+      "raw": "Wang, Weidong",
+      "family": "Wang",
+      "given": "Weidong"
+    }
+  ],
+  "authors_text": "Mustillo, Sarah; Li, Miao; Wang, Weidong",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12703",
+  "doi_url": "https://doi.org/10.1111/jomf.12703",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12703",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12703.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

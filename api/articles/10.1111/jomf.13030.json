@@ -1,0 +1,40 @@
+{
+  "title": "Intergenerational associations of maternal depression with daughters' family formation",
+  "abstract": "ObjectiveThis work investigates the potential associations between maternal major depressive disorder (MDD) and daughters' family formation behaviors, specifically the timing of marriage and first birth.BackgroundFamily and life course research has established the importance of intergenerational ties and linked lives for children's health, education, social life, and transition to adulthood more broadly. However, mothers' MDD has remained a relatively understudied factor shaping young people's family formation behaviors.MethodThe analyses used a sample of 1127 linked mother-father-daughter triads from the Chitwan Valley Family Study (CVFS) in Nepal. Discrete-time event-history models at the month level were run to assess whether daughters' differential exposure to maternal MDD was prospectively associated with entry into marital unions and parenthood.ResultsAlthough there was no relationship between maternal lifetime MDD and daughters' family formation, results showed that being first exposed to maternal MDD during childhood, specifically between the ages of 0 and 10, increased the monthly odds of transitioning to parenthood by more than 80%. Additional findings showed that an increased pace of getting married was a primary determinant of accelerated childbearing.ConclusionDaughters' exposure to mothers' depression was associated with daughters' family formation transitions. The timing of exposure, however, was a particularly important driver of that association. We argue that the study of parents' mental ill-health provides untapped opportunity for future intergenerational research.",
+  "authors": [
+    {
+      "raw": "Banchoff, Emma M.",
+      "family": "Banchoff",
+      "given": "Emma M."
+    },
+    {
+      "raw": "Axinn, William G.",
+      "family": "Axinn",
+      "given": "William G."
+    },
+    {
+      "raw": "Ghimire, Dirgha J.",
+      "family": "Ghimire",
+      "given": "Dirgha J."
+    },
+    {
+      "raw": "Scott, Kate M.",
+      "family": "Scott",
+      "given": "Kate M."
+    }
+  ],
+  "authors_text": "Banchoff, Emma M.; Axinn, William G.; Ghimire, Dirgha J.; Scott, Kate M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13030",
+  "doi_url": "https://doi.org/10.1111/jomf.13030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

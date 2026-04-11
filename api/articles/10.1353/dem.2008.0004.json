@@ -1,0 +1,30 @@
+{
+  "title": "A practical approach to using Multiple-Race response data: A bridging method for publicuse microdata",
+  "abstract": "AbstractRevised federal policies require that multiple-race responses be allowed in all federal data collection efforts, but many researchers find the multitude of race categories and variables very dif cult to use. Important comparability issues also interfere with using multiple-race data in analyses of multiple data sets and/or several points in time. These difficulties have, in effect, discouraged the use of the new data on race. We present a practical method for incorporating multiple-race respondents into analyses that use public-use microdata. Our method is a modification of the regression method developed by the National Center for Health Statistics (NCHS), which uses multiple-race respondents’ specific combination of races, as well as other individual-level and contextual characteristics, to predict the respondents’ preferred single race. In this paper we (1) apply the NCHS-generated regression coefficients to public-use microdata with limited geographic information; and (2) provide a downloadable computer program with which researchers can apply this practical and preferable method for including multiple-race respondents in a wide variety of analyses.",
+  "authors": [
+    {
+      "raw": "Liebler, Carolyn A.",
+      "family": "Liebler",
+      "given": "Carolyn A."
+    },
+    {
+      "raw": "Halpern-Manners, Andrew",
+      "family": "Halpern-Manners",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Liebler, Carolyn A.; Halpern-Manners, Andrew",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.2008.0004",
+  "doi_url": "https://doi.org/10.1353/dem.2008.0004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2008.0004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2008.0004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

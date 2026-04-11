@@ -1,0 +1,30 @@
+{
+  "title": "The 1918 influenza epidemic's effects on sex differentials in mortality in the United States",
+  "abstract": "The 1918 influenza epidemic had a marked and fairly long-lasting effect on the sex differential in mortality in the United States. After 1918 women lost most of their mortality advantage over men and the female/male gap did not regain its pre-epidemic level until the 1930s. An analysis of causes of deaths shows a link with tuberculosis. We conjecture the existence of a selection effect, whereby many 1918 influenza deaths were among tuberculous persons, so that tuberculosis death rates dropped in later years, disproportionately among males. Age- and sex-specific data by cause of death corroborate this hypothesis.",
+  "authors": [
+    {
+      "raw": "Noymer, A",
+      "family": "Noymer",
+      "given": "A"
+    },
+    {
+      "raw": "Garenne, M",
+      "family": "Garenne",
+      "given": "M"
+    }
+  ],
+  "authors_text": "Noymer, A; Garenne, M",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2000,
+  "doi": "10.1111/j.1728-4457.2000.00565.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2000.00565.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2000.00565.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2000.00565.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

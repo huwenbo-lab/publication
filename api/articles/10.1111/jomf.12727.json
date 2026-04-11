@@ -1,0 +1,30 @@
+{
+  "title": "Who Gives Birth (First) in Female Same-Sex Couples in Sweden?",
+  "abstract": "Objective The aim of the study was to analyze factors predicting (a) the transition to parenthood for female same-sex couples in Sweden and (b) which partner is the birth mother for the first and (any) second child. Background Longitudinal studies in which couples become parents are rare for same-sex couples in any context, even though these families are increasing. Childbearing in lesbian couples is an interesting case for testing theories linked to family utility maximization and household bargaining, as these couples can often choose who will carry a child. Method Discrete-time event history and linear probability models are estimated on Swedish population register data (1995-2016) to analyze couples' transitions to first and second birth and the choice of birth mother. Results The higher the household income and partners' educational levels, the more likely couples are to become parents. However, within-couple income gaps are small, and income and education are unrelated to the choice of first-birth mother. Couples are more likely to have a second child and to switch birth mothers if both are highly educated or the first social mother is highly educated. Conclusion Factors predicting which couples become parents are similar in same-sex and different-sex couples. In same-sex couples, short-term within-couple specialization is of little relevance for who becomes the birth mother. Analyses of the transition to a second birth suggest that long-term planning matters for who becomes the first- and second-birth mother.",
+  "authors": [
+    {
+      "raw": "Boye, Katarina",
+      "family": "Boye",
+      "given": "Katarina"
+    },
+    {
+      "raw": "Evertsson, Marie",
+      "family": "Evertsson",
+      "given": "Marie"
+    }
+  ],
+  "authors_text": "Boye, Katarina; Evertsson, Marie",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12727",
+  "doi_url": "https://doi.org/10.1111/jomf.12727",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12727",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12727.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

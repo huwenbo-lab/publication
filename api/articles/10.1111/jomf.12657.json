@@ -1,0 +1,25 @@
+{
+  "title": "Occupational Sex Composition and Marriage: The Romantic Cost of Gender-Atypical Jobs",
+  "abstract": "The author considers the mechanisms by which occupational sex composition (the proportion of women and men in an occupation) might be associated with romantic transitions in the United States. Using data from the National Longitudinal Survey of Youth 1979 to 2014, the author estimates the odds of marriage during a period of 35 years as a function of occupational and personal characteristics. Men's odds of marriage are decreased by working in predominately female occupations (75%-100% female) when compared with working in predominately male occupations (0%-25% female) or integrated (26%-74% female) occupations. Also, working in a predominately female occupation increases the odds that men have never married by ages 30 and 40. Women's odds of marriage are unrelated to occupational sex composition. Although the author focuses on marriage, the results are robust to including cohabitation as a competing risk. The author uses data from the National Longitudinal Study of Adolescent to Adult Health 1994 to 2008 to replicate these findings in a more recent cohort with additional control variables. The romantic penalty for men's occupational gender atypicality demonstrates the continued devaluation of female activities and attributes and the resulting rigidity of expectations for men's gendered behavior, which may reinforce occupational segregation.",
+  "authors": [
+    {
+      "raw": "McClintock, Elizabeth Aura",
+      "family": "McClintock",
+      "given": "Elizabeth Aura"
+    }
+  ],
+  "authors_text": "McClintock, Elizabeth Aura",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12657",
+  "doi_url": "https://doi.org/10.1111/jomf.12657",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12657",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12657.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

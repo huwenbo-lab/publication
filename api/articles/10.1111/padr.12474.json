@@ -1,0 +1,30 @@
+{
+  "title": "Women's Low Employment Rates in India: Cultural and Structural Explanations",
+  "abstract": "Indian women's labor force participation rates have long demonstrated a U-shaped relationship with their education, rather than a more conventional positive linear relationship. The low rates of employment for moderately educated women are usually explained either as a result of the cultural stigma of women's employment in a patriarchal society or because of the lack of demand from white-collar and light manufacturing jobs for women with middle levels of education. Using especially well-suited data from two waves of the India Human Development Survey, we test these explanations by examining the education-employment relationship in districts with low cultural stigma (low observance of purdah) and high proportions of (salaried) employment considered suitable for women. We find little support for either the cultural or structural explanations: the education-employment relationship remains U-shaped in districts with low stigma or with more suitable salaried employment. Instead, we suggest a better explanation lies in the high levels of gender segregation where most white-collar jobs are reserved for men. We simulate what the education-employment relationship would look like if these white-collar occupations were female-dominated as they are in most places in the world and find a more conventional linear relationship.",
+  "authors": [
+    {
+      "raw": "Chatterjee, Esha",
+      "family": "Chatterjee",
+      "given": "Esha"
+    },
+    {
+      "raw": "Vanneman, Reeve D.",
+      "family": "Vanneman",
+      "given": "Reeve D."
+    }
+  ],
+  "authors_text": "Chatterjee, Esha; Vanneman, Reeve D.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2022,
+  "doi": "10.1111/padr.12474",
+  "doi_url": "https://doi.org/10.1111/padr.12474",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12474",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12474.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

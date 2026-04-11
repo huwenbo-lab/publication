@@ -1,0 +1,35 @@
+{
+  "title": "Personalized networks? How the Big Five personality traits influence the structure of egocentric networks",
+  "abstract": "In this paper, we expand previous research on the psychological foundations of social behavior by evaluating the role of the Big Five personality traits with regard to the formation of individual social networks. More precisely, we ask if personality traits significantly relate to individuals' social integration and position in their ego-network. While studies on both social capital formation and the impact of personality traits on social and political behavior have been flourishing in recent years, little is known about the main effects of personality traits, namely openness, agreeableness, conscientiousness, extraversion, and emotional stability, on the characteristics of social ties as well as the agency of egos in their networks. To test our research question, we rely on data from a Swiss population survey carried out in 2005 that combines detailed information on ties in egocentric networks and personality traits for about 1600 respondents. We show that neurotic persons have a tendency towards triad structures encompassing structural holes, whereas extroverted persons show a preference for networks with stronger ties. Moreover, our findings support the potential relationship between the three hitherto neglected personality traits agreeableness, openness to experience, conscientiousness with personal networks structures.",
+  "authors": [
+    {
+      "raw": "Rapp, Carolin",
+      "family": "Rapp",
+      "given": "Carolin"
+    },
+    {
+      "raw": "Ingold, Karin",
+      "family": "Ingold",
+      "given": "Karin"
+    },
+    {
+      "raw": "Freitag, Markus",
+      "family": "Freitag",
+      "given": "Markus"
+    }
+  ],
+  "authors_text": "Rapp, Carolin; Ingold, Karin; Freitag, Markus",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.09.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.09.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.09.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.09.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

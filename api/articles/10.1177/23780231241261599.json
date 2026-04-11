@@ -1,0 +1,30 @@
+{
+  "title": "Where Income Becomes Wealth: How Redistribution Moderates the Association between Income and Wealth",
+  "abstract": "The authors study the role of redistributive policy in comparative research on the determinants of wealth. The authors argue that public redistribution affects the level of net wealth by moderating the household-level association of income and wealth. Drawing on microdata for 14 countries from the Luxembourg Wealth Study, and spending and revenue data from the Organisation for Economic Co-operation and Development, the authors use ordinary least squares models with country fixed effects. The authors find a positive moderation effect of social spending and a negative moderation effect of income taxation. Higher and lower labor incomes translate into higher and lower levels of wealth where income taxation is lower or social spending is higher. The authors complement these findings with panel information from the United States, providing further evidence supporting the cross-national results. In summary, public redistribution partially accounts for differences in the association of income and wealth across countries. The authors urge future research on the correlation of income and wealth to take public redistribution into account.",
+  "authors": [
+    {
+      "raw": "Schechtl, Manuel",
+      "family": "Schechtl",
+      "given": "Manuel"
+    },
+    {
+      "raw": "Waitkus, Nora",
+      "family": "Waitkus",
+      "given": "Nora"
+    }
+  ],
+  "authors_text": "Schechtl, Manuel; Waitkus, Nora",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241261599",
+  "doi_url": "https://doi.org/10.1177/23780231241261599",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241261599",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241261599.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

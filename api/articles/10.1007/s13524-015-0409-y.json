@@ -1,0 +1,30 @@
+{
+  "title": "Two Sources of Error in Data on Migration From Mexico to the United States in Mexican Household-Based Surveys",
+  "abstract": "We examine the nature and degree of two sources of error in data on migration from Mexico to the United States in Mexican household-based surveys: (1) sampling error that results when whole households migrate and no one is left behind to report their migration; and (2) reporting errors that result when migrants are not identified by survey respondents. Using data from the first two waves of the Mexican Family Life Survey, which tracked Mexican migrants to the United States from 2002 to 2005, we find that one-half of migrants from Mexico to the United States are not counted as a result of these two sources of error. Misreporting is the larger source of error, accounting for more than one-third of all migrants. Those who are not counted, especially whole-household migrants, are a unique group. Their omission results in an underestimate of female migrants, child migrants, and migrants from the Mexican border region, and an overestimate of migrants from the periphery region.",
+  "authors": [
+    {
+      "raw": "Hamilton, Erin R.",
+      "family": "Hamilton",
+      "given": "Erin R."
+    },
+    {
+      "raw": "Savinar, Robin",
+      "family": "Savinar",
+      "given": "Robin"
+    }
+  ],
+  "authors_text": "Hamilton, Erin R.; Savinar, Robin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0409-y",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0409-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0409-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0409-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

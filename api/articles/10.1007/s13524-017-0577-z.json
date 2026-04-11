@@ -1,0 +1,40 @@
+{
+  "title": "The German East-West Mortality Difference: Two Crossovers Driven by Smoking",
+  "abstract": "Before the fall of the Berlin Wall, mortality was considerably higher in the former East Germany than in West Germany. The gap narrowed rapidly after German reunification. The convergence was particularly strong for women, to the point that Eastern women aged 50-69 now have lower mortality despite lower incomes and worse overall living conditions. Prior research has shown that lower smoking rates among East German female cohorts born in the 1940s and 1950s were a major contributor to this crossover. However, after 1990, smoking behavior changed dramatically, with higher smoking intensity observed among women in the eastern part of Germany. We forecast the impact of this changing smoking behavior on East-West mortality differences and find that the higher smoking rates among younger East German cohorts will reverse their contemporary mortality advantage. Mortality forecasting methods that do not account for smoking would, perhaps misleadingly, forecast a growing mortality advantage for East German women. Experience from other countries shows that smoking can be effectively reduced by strict anti-smoking policies. Instead, East Germany is becoming an example warning of the consequences of weakening anti-smoking policies and changing behavioral norms.",
+  "authors": [
+    {
+      "raw": "Vogt, Tobias",
+      "family": "Vogt",
+      "given": "Tobias"
+    },
+    {
+      "raw": "van Raalte, Alyson",
+      "family": "van Raalte",
+      "given": "Alyson"
+    },
+    {
+      "raw": "Grigoriev, Pavel",
+      "family": "Grigoriev",
+      "given": "Pavel"
+    },
+    {
+      "raw": "Myrskyla, Mikko",
+      "family": "Myrskyla",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Vogt, Tobias; van Raalte, Alyson; Grigoriev, Pavel; Myrskyla, Mikko",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0577-z",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0577-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0577-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0577-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

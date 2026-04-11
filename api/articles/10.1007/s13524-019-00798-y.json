@@ -1,0 +1,35 @@
+{
+  "title": "When and Where Birth Spacing Matters for Child Survival: An International Comparison Using the DHS",
+  "abstract": "A large body of research has found an association between short birth intervals and the risk of infant mortality in developing countries, but recent work on other perinatal outcomes from highly developed countries has called these claims into question, arguing that previous studies have failed to adequately control for unobserved heterogeneity. Our study addresses this issue by estimating within-family models on a sample of 4.5 million births from 77 countries at various levels of development. We show that after unobserved maternal heterogeneity is controlled for, intervals shorter than 36 months substantially increase the probability of infant death. However, the importance of birth intervals as a determinant of infant mortality varies inversely with maternal education and the strength of the relationship varies regionally. Finally, we demonstrate that the mortality-reducing effects of longer birth intervals are strong at low levels of development but decline steadily toward zero at higher levels of development. These findings offer a clear way to reconcile previous research showing that birth intervals are important for perinatal outcomes in low-income countries but are much less consequential in high-income settings.",
+  "authors": [
+    {
+      "raw": "Molitoris, Joseph",
+      "family": "Molitoris",
+      "given": "Joseph"
+    },
+    {
+      "raw": "Barclay, Kieron",
+      "family": "Barclay",
+      "given": "Kieron"
+    },
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Molitoris, Joseph; Barclay, Kieron; Kolk, Martin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00798-y",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00798-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00798-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00798-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

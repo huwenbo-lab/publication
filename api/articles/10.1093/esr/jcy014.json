@@ -1,0 +1,30 @@
+{
+  "title": "Double Disadvantage in School? Children of Immigrants and the Relative Age Effect: A Regression Discontinuity Design Based on the Month of Birth",
+  "abstract": "This article uses pupil's month of birth as a natural experiment to study how immigrant-native inequalities in retention rates are produced. We argue that, compared to native-born parents, immigrant parents face additional disadvantage when dealing with the age disadvantage of their children. We test this hypothesis using a regression discontinuity design with the French sample of the Programme for International Student Assessment. We find that pupils born before the cut-off date for entering primary school are 9 percentage points more likely to repeat a grade in primary school. In line with the double disadvantage hypothesis, the relative age effect is 10 percentage points higher for children with two immigrant parents, while we do not find a difference for children with one immigrant parent. However, the relative age effect is reduced to 4 percentage points when adjusting for the differential effect of parental resources, suggesting that part of the disadvantage is due to compositional differences in socio-economic background and part is immigrant-specific.",
+  "authors": [
+    {
+      "raw": "Dicks, Alexander",
+      "family": "Dicks",
+      "given": "Alexander"
+    },
+    {
+      "raw": "Lancee, Bram",
+      "family": "Lancee",
+      "given": "Bram"
+    }
+  ],
+  "authors_text": "Dicks, Alexander; Lancee, Bram",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy014",
+  "doi_url": "https://doi.org/10.1093/esr/jcy014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

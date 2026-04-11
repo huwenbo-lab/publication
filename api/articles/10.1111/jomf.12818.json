@@ -1,0 +1,35 @@
+{
+  "title": "Effects of extended paternity leave on family dynamics",
+  "abstract": "Objective Test if an extended paternity quota impacts couples' division of leave and paid work, and if these changes influence union stability, marriage propensity, and further childbearing. Background Influential empirical and theoretical works have linked unequal division of household and paid work to increasing divorce rates and falling fertility. This suggests that paternity quota reforms may affect family dynamics if they facilitate more time alone for a father and his young child. Methods We analyze an extension of the Norwegian parental leave father's quota from 6 to 10 weeks with a regression discontinuity design. Full population data of parents of children born in a 4-month window around the reform are drawn from Norwegian administrative registers (N = 9757). Results The reform significantly increased the amount of leave taken by fathers and reduced the amount of leave taken by mothers, while his and her subsequent earnings were unmoved. Neither union stability, fertility nor cohabiters' propensity to marry were affected by the change in leave uptake. Conclusion The reform succeeded in changing the division of paid parental leave between parents. However, these changes did not translate into changes in earnings, family stability, or parity progression. This suggests that policies that induce fathers to spend more time with their young child do not move the stalled gender revolution along.",
+  "authors": [
+    {
+      "raw": "Hart, Rannveig Kaldager",
+      "family": "Hart",
+      "given": "Rannveig Kaldager"
+    },
+    {
+      "raw": "Andersen, Synove Nygaard",
+      "family": "Andersen",
+      "given": "Synove Nygaard"
+    },
+    {
+      "raw": "Drange, Nina",
+      "family": "Drange",
+      "given": "Nina"
+    }
+  ],
+  "authors_text": "Hart, Rannveig Kaldager; Andersen, Synove Nygaard; Drange, Nina",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12818",
+  "doi_url": "https://doi.org/10.1111/jomf.12818",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12818",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12818.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Family and household sources of poverty for Black, Hispanic, and White newborns",
+  "abstract": "Objective To understand the importance of family and household structure, including cohabiting partners and nonkin adults, in explaining Black-White versus Hispanic-White newborn poverty disparities in the United States. Background The official poverty measure (OPM) has typically been used in scholarly studies of newborn and childhood poverty, but this measure excludes cohabitors' and nonkin household members' presence and income. Both are likely to have poverty-preventing roles when a birth is nonmarital. Method A household poverty measure inclusive of all household members is compared to the OPM, using data on households of White, Black, and Hispanic newborns from the 2005-2017 American Community Survey (N = 342,048). Regression decompositions are used to investigate the roles of mother's education and partner and other coresident adult presence and resources. Results Lower maternal educational attainment explains most of the Hispanic-White poverty disparity at birth. The prevalence and poverty-alleviating effectiveness of cohabitation and living with other adults, however, is greater for Hispanic than for Black unmarried mothers, and is greater for foreign-born than for US-born Hispanics. Conclusion Black mothers' lesser access to the resources of a partner or other adults in the year of the newborn's arrival is critical in producing a remarkably high Black-White newborn poverty disparity. Official poverty obscures the greater benefits of cohabitation and living with other adults for newborns of Hispanic mothers overall, and of foreign-born Hispanic mothers in particular.",
+  "authors": [
+    {
+      "raw": "Rendall, Michael S.",
+      "family": "Rendall",
+      "given": "Michael S."
+    },
+    {
+      "raw": "Weden, Margaret M.",
+      "family": "Weden",
+      "given": "Margaret M."
+    },
+    {
+      "raw": "Brown, Joey",
+      "family": "Brown",
+      "given": "Joey"
+    }
+  ],
+  "authors_text": "Rendall, Michael S.; Weden, Margaret M.; Brown, Joey",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12781",
+  "doi_url": "https://doi.org/10.1111/jomf.12781",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12781",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12781.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Do Peer Reviews Predict Impact? Evidence from the American Sociological Review, 1978 to 1982",
+  "abstract": "The authors investigate how well peer reviews of articles published in the journal American Sociological Review between 1978 and 1982 predict the articles’ citation impact in the following 32 years. The authors find no evidence of a relationship between review outcomes and citation impact at any time after publication, even when citations are normalized by subfield. Qualitative analysis of the review texts rules out the interpretation that reviewers focused on potential impact but failed to predict it. Instead, reviewers focused on the soundness of the manuscripts’ arguments. The authors discuss how organizational characteristics of review can decouple reviewers’ judgments from impact.",
+  "authors": [
+    {
+      "raw": "Teplitskiy, Misha",
+      "family": "Teplitskiy",
+      "given": "Misha"
+    },
+    {
+      "raw": "Bakanic, Von",
+      "family": "Bakanic",
+      "given": "Von"
+    }
+  ],
+  "authors_text": "Teplitskiy, Misha; Bakanic, Von",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2016,
+  "doi": "10.1177/2378023116640278",
+  "doi_url": "https://doi.org/10.1177/2378023116640278",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023116640278",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023116640278.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Emergence of diverse and specialized knowledge in a metropolitan tech cluster",
+  "abstract": "Specialized knowledge is increasingly central in modern information- and technology-oriented economies, yet we know surprisingly little about how this knowledge is organized. We trace the evolution of specialized knowledge at both the individual- and network-levels by analyzing email exchanges shared among members of a large tech professional community in New York City over seven years. We find a shift over time toward the emergence of an increasingly specialized ecology of knowledge and information. This division of knowledge is driven by the influx of new cohorts of participants with different knowledge and interests than those already there. Yet, even as individual contributors increasingly sort into specialized niches, the community as a whole remains robust in its ability to address topics of diverse concern. This study illustrates how new sources of data enable us to see with greater clarity the structures underpinning modern knowledge-based innovation clusters.",
+  "authors": [
+    {
+      "raw": "DellaPosta, Daniel",
+      "family": "DellaPosta",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Nee, Victor",
+      "family": "Nee",
+      "given": "Victor"
+    }
+  ],
+  "authors_text": "DellaPosta, Daniel; Nee, Victor",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102377",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102377",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102377",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102377.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

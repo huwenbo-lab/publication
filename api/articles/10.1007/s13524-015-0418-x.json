@@ -1,0 +1,35 @@
+{
+  "title": "Gender Wage Gap Accounting: The Role of Selection Bias",
+  "abstract": "Mulligan and Rubinstein (2008) (MR) argued that changing selection of working females on unobservable characteristics, from negative in the 1970s to positive in the 1990s, accounted for nearly the entire closing of the gender wage gap. We argue that their female wage equation estimates are inconsistent. Correcting this error substantially weakens the role of the rising selection bias (39 % versus 78 %) and strengthens the contribution of declining discrimination (42 % versus 7 %). Our findings resonate better with related literature. We also explain why our finding of positive selection in the 1970s provides additional support for MR's main hypothesis that an exogenous rise in the market value of unobservable characteristics contributed to the closing of the gender gap.",
+  "authors": [
+    {
+      "raw": "Bar, Michael",
+      "family": "Bar",
+      "given": "Michael"
+    },
+    {
+      "raw": "Kim, Seik",
+      "family": "Kim",
+      "given": "Seik"
+    },
+    {
+      "raw": "Leukhina, Oksana",
+      "family": "Leukhina",
+      "given": "Oksana"
+    }
+  ],
+  "authors_text": "Bar, Michael; Kim, Seik; Leukhina, Oksana",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0418-x",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0418-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0418-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0418-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

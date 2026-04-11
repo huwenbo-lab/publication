@@ -1,0 +1,30 @@
+{
+  "title": "Distinguishing tempo and ageing effects in migration",
+  "abstract": "BACKGROUND Despite emerging evidence of a delay of migration to older ages, few studies have considered its impact on overall migration levels. OBJECTIVE This paper argues that there are two possible implications of delayed migration on overall migration levels: (1) a tempo effect leading to a temporary underestimation of the level of migration in the observed period data and (2) a migration ageing effect leading to a reduction of higher-order moves because the exposure to migration is shifted to older ages when the probability of moving is lower. METHODS Combining hypothetical scenarios with empirical evidence from a range of countries in Europe, North America, Australia, and China, the paper demonstrates the relevance of tempo and ageing effects to migration analysis and proposes a framework for conceptualising these processes. RESULTS Our analysis suggests that both tempo and ageing effects are likely to occur if the general trend is towards later ages at migration. We show, however, that all-move data such as those collected in censuses is not suitable to analyse tempo effects because changes in migration behaviour are order specific. Drawing on retrospective survey data, we show that in 25 of 26 European countries considered in this paper, individuals who are late in leaving the parental home are less likely to progress to the second move and, as a result, report a lower number of migrations in adulthood than early movers. CONTRIBUTION The results underline the need to collect and analyse migration data by move order to understand migration trends while highlighting the paucity of such data.",
+  "authors": [
+    {
+      "raw": "Bernard, Aude",
+      "family": "Bernard",
+      "given": "Aude"
+    },
+    {
+      "raw": "Pelikh, Alina",
+      "family": "Pelikh",
+      "given": "Alina"
+    }
+  ],
+  "authors_text": "Bernard, Aude; Pelikh, Alina",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.44",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.44",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.44",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.44.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

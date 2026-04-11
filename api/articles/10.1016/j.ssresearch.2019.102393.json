@@ -1,0 +1,40 @@
+{
+  "title": "How dominance hierarchies emerge from conflict: A game theoretic model and experimental evidence",
+  "abstract": "We develop a game theoretic model of conflict and empirically test its predictions to study the emergence of social hierarchies in small groups. Previous research shows uncertainty about actors' ability may lead to more conflict; conflict demonstrates actors' ability and establishes relationships of dominance and submissiveness. Since we assume uncertainty regarding ability to be a crucial cause of conflict, we focus on the effects of different information conditions. We posit that actors know the distribution of abilities in their group and vary whether or not they know (1) their own ability and (2) their interaction partners' interaction histories. Our results from a laboratory experiment closely match qualitative model predictions. Most importantly, conflict produces information about actors' ability, which reduces subsequent conflict. In an exploratory analysis we investigate to what extent gender, social value orientation, risk preferences and a competitive personality account for the quantitative discrepancies between model predictions and subject behavior.",
+  "authors": [
+    {
+      "raw": "Przepiorka, Wojtek",
+      "family": "Przepiorka",
+      "given": "Wojtek"
+    },
+    {
+      "raw": "Rutten, Charlotte",
+      "family": "Rutten",
+      "given": "Charlotte"
+    },
+    {
+      "raw": "Buskens, Vincent",
+      "family": "Buskens",
+      "given": "Vincent"
+    },
+    {
+      "raw": "Szekely, Aron",
+      "family": "Szekely",
+      "given": "Aron"
+    }
+  ],
+  "authors_text": "Przepiorka, Wojtek; Rutten, Charlotte; Buskens, Vincent; Szekely, Aron",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102393",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102393",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102393",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102393.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

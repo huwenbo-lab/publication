@@ -1,0 +1,30 @@
+{
+  "title": "Trends and patterns of the healthy life expectancy of the elderly in China",
+  "abstract": "This study analyzes the healthy life expectancy (HLE) of older adults in China since the 1990s, utilizing data from China's sixth (2010) and seventh (2020) National Population Censuses and the Chinese Longitudinal Healthy Longevity Survey (CLHLS), conducted from 1998 to 2018. By applying the Sullivan method for estimating HLE, the study examines trends in HLE and assesses the impacts of mortality and morbidity rates on HLE through counterfactual analysis. It differentiates measurements of health status: the census uses self-reported ability of living independently, while CLHLS uses the activities of daily living (ADL) scale. The results from both data sources indicate an increase in HLE as a proportion of overall life expectancy for the elderly in China since the 1990s, which suggests a compression of morbidity. The CLHLS findings align with those based on the census data. Monitoring HLE is crucial for tracking the health status of the elderly in China and can offer valuable insights for policymakers and healthcare providers in enacting strategies that enhance the health and overall well-being of the senior population.",
+  "authors": [
+    {
+      "raw": "Dong, Junhan",
+      "family": "Dong",
+      "given": "Junhan"
+    },
+    {
+      "raw": "Li, Qiang",
+      "family": "Li",
+      "given": "Qiang"
+    }
+  ],
+  "authors_text": "Dong, Junhan; Li, Qiang",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1177/2057150x241259521",
+  "doi_url": "https://doi.org/10.1177/2057150x241259521",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x241259521",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x241259521.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

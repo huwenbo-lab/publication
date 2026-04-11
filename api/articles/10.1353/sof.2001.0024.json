@@ -1,0 +1,30 @@
+{
+  "title": "The System of Occupations: Modeling Occupations in Sociodemographic Space",
+  "abstract": "What accounts for changes in the social composition of occupations over time? We address this question by adapting an ecological theory of competition from McPherson (1983). This theory suggests that occupations compete for members in a niche space defined by the social composition of an occupations members. As one occupation successfully acquires and retains new people with different sociodemographic characteristics, other occupations experience shifts in their sociodemographic composition. Using the Current Population Survey Annual Demographic Files (1972–82), we test dynamic hypotheses about changes in the age and education composition of occupations. The data strongly support the theory. We then ask whether the same dynamics apply to the professions and occupations. The data suggest that professional closure limits the movement of professions in the education dimension.",
+  "authors": [
+    {
+      "raw": "Rotolo, T.",
+      "family": "Rotolo",
+      "given": "T."
+    },
+    {
+      "raw": "McPherson, J. M.",
+      "family": "McPherson",
+      "given": "J. M."
+    }
+  ],
+  "authors_text": "Rotolo, T.; McPherson, J. M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2001,
+  "doi": "10.1353/sof.2001.0024",
+  "doi_url": "https://doi.org/10.1353/sof.2001.0024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2001.0024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2001.0024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

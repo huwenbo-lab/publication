@@ -1,0 +1,25 @@
+{
+  "title": "Toward a low-carbon economy: A study of the economy's impact on China's CO2 emissions, 1997-2021",
+  "abstract": "Climate change has substantially impacted the environment and human society. Carbon dioxide (CO2) emissions are one of the primary causes of the climate crisis, and fossil fuel consumption for numerous economic activities has been a major factor leading to those emissions. On the one hand, the treadmill of production theory posits that economic growth inevitably leads to environmental damage. On the other hand, the ecological modernization theory argues that the association between the two will decouple over time. To evaluate these competing perspectives, this study investigates panel data from 30 provinces in China over a 25-year period, from 1997 to 2021. The country's CO2 emissions almost quadrupled during this period, currently accounting for one-third of global emissions, and its gross domestic product (GDP) increased by around 15 times. The Prais-Winsten regression results show that GDP is positively and significantly associated with increased CO2 emissions. However, the magnitude of the association varies, intensifying from 1997 to 2002 and then decoupling for the subsequent two decades, which supports the ecological modernization argument. The findings advance the environmental sociology literature and carry policy implications for China's sustainable development. The expanded deployment of renewable energy, more energy-efficient manufacturing, and the promotion of electric vehicles could fuel the transition toward a low-carbon economy.",
+  "authors": [
+    {
+      "raw": "Hao, Feng",
+      "family": "Hao",
+      "given": "Feng"
+    }
+  ],
+  "authors_text": "Hao, Feng",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1177/2057150x251387426",
+  "doi_url": "https://doi.org/10.1177/2057150x251387426",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x251387426",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x251387426.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

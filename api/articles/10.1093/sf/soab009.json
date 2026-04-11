@@ -1,0 +1,30 @@
+{
+  "title": "White Men Can't Jump, but Does It Even Matter? Exit Discrimination in the NBA",
+  "abstract": "Diffuse status characteristics, such as race and gender, affect individuals' professional opportunities and outcomes. Scholars suggest two possible explanations for these status disparities. First, uncertainty in measuring workers' performances forces employers to rely on status as a heuristic or proxy for quality. Second, a history of racism and sexism in the United States creates a deeper cultural devaluation of low-status individuals that permeates organizational structures such that status advantage would persist even after accounting for observed worker performance. However, researchers struggle to accurately and objectively measure worker performance, making it difficult to adjudicate between these two perspectives. We overcome this problem using the case of the National Basketball Association (NBA) in which detailed player statistics are widely available to the public and decision makers. We analyze whether there is a racial disparity in the odds of exiting the league using discrete-time event history analysis. Using data from 1980-2017, we demonstrate that after accounting for player performance, Black players have 30% higher odds of exiting the league in a given season. We find this disparity is mostly driven by White bench players allowing us to elucidate how Whiteness operates as a credential in the NBA by giving marginal White players benefits such as longer careers than comparable Black players. These findings demonstrate that racial disparities in workplaces may persist even once performance is captured and in cases like the NBA where we might expect racial disparities to be minimized.",
+  "authors": [
+    {
+      "raw": "Norris, Davon",
+      "family": "Norris",
+      "given": "Davon"
+    },
+    {
+      "raw": "Moss-Pech, Corey",
+      "family": "Moss-Pech",
+      "given": "Corey"
+    }
+  ],
+  "authors_text": "Norris, Davon; Moss-Pech, Corey",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab009",
+  "doi_url": "https://doi.org/10.1093/sf/soab009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

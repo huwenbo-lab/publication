@@ -1,0 +1,25 @@
+{
+  "title": "Supervised machine learning for exploratory analysis in family research",
+  "abstract": "ObjectiveThis article introduces supervised machine learning (ML) for conducting exploratory, discovery-oriented family research in a transparent and systematic way.BackgroundSupervised ML can examine large numbers of variable simultaneously, identify key predictors, and explore patterns among predictors-an approach that may help address concerns in family research about lack of theoretical specificity and prevalence of unguided exploratory analysis.MethodFollowing an overview of supervised ML, example analyses drew on the National Longitudinal Study of Adolescent Health (Add Health) dataset across Waves I-IV (N = 5114 adolescents, 50.53% female, Mage = 15.94, SD = 1.77 at Wave I). From 143 articles using Add Health data Waves I through IV, 62 adolescent family variables from eight domains (e.g., socioeconomics, parenting, health) were identified as predictors of young adult (ages 24-32) educational attainment. Following benchmark regression models, ML models were trained using Lasso regression, decision tree, random forest, and extreme gradient boosting; these were tested separately from training data and interpreted through SHapley Additive exPlanations.ResultsThe random forest model performed best (R2 = .382 for the model with all the predictors): 14 variables were identified to be the key predictors of educational attainment. Patterns among these predictors, including directionality, nonlinearity and interactions emerged.ConclusionsSupervised ML research can be used to inform further confirmatory analyses and advance theory.",
+  "authors": [
+    {
+      "raw": "Sun, Xiaoran",
+      "family": "Sun",
+      "given": "Xiaoran"
+    }
+  ],
+  "authors_text": "Sun, Xiaoran",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12973",
+  "doi_url": "https://doi.org/10.1111/jomf.12973",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12973",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12973.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

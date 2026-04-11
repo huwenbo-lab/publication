@@ -1,0 +1,35 @@
+{
+  "title": "Gossip and Reputation in Business Networks",
+  "abstract": "In this article we examine the determinants of gossip in purchasing and supply management, where gossip is defined as talking about your business partner (in a negative way) to a third party. Although gossip is often conceived as mere small talk, we argue and show that gossip can be analysed and is being used as a rational response in the management of business transactions. The hypotheses are tested using a dataset consisting of about 400 problematic purchase transactions of over 350 buying firms, collected in Germany. Consistent with our hypotheses, gossip is in general more likely when the problem is larger, when there are many common third parties available to buyer and supplier, and when the business network is dense. Also, gossip is less likely when buyer and supplier have been in business together for a longer time, and more likely when buyer and supplier expect to do future business. We discuss the implications of our findings in light of the literature on informal management mechanisms in business.",
+  "authors": [
+    {
+      "raw": "Rooks, G.",
+      "family": "Rooks",
+      "given": "G."
+    },
+    {
+      "raw": "Tazelaar, F.",
+      "family": "Tazelaar",
+      "given": "F."
+    },
+    {
+      "raw": "Snijders, C.",
+      "family": "Snijders",
+      "given": "C."
+    }
+  ],
+  "authors_text": "Rooks, G.; Tazelaar, F.; Snijders, C.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcp062",
+  "doi_url": "https://doi.org/10.1093/esr/jcp062",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcp062",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcp062.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

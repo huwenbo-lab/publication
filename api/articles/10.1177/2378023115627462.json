@@ -1,0 +1,25 @@
+{
+  "title": "Evaluating Distributional Differences in Income Inequality",
+  "abstract": "Income and wage inequality between gender and other social groups is commonly evaluated by the difference in average income or the decomposition of the total amount of inequality into between-group and within-group components using an inequality measure such as the Theil index. Either approach ignores the dispersional difference between social groups, often manifested in glass-ceiling and glass-floor effects. The author introduces a refined Theil decomposition that offers two ways of capturing such between-group distributional differences. An analysis of income data from 10 European countries illustrates the usefulness of the proposed evaluation and decomposition methods.",
+  "authors": [
+    {
+      "raw": "Liao, Tim Futing",
+      "family": "Liao",
+      "given": "Tim Futing"
+    }
+  ],
+  "authors_text": "Liao, Tim Futing",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2016,
+  "doi": "10.1177/2378023115627462",
+  "doi_url": "https://doi.org/10.1177/2378023115627462",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023115627462",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023115627462.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "School Starting Age, Fertility, and Family Formation: Evidence From the School Entry Cutoff Using Exact Date of Birth",
+  "abstract": "In the past 50 years, the age at first birth in Norway and other Euro pean countries has shifted, lead ing to concerns that individu als begin childbearing too late to reach their intended fam ily size. This arti cle ana lyzes the effect of school starting age on fertil ity and family formation by uti liz ing Norway's age-based school entry pol icy. Using individual-level reg is ter data and a regres sion dis conti nu ity design, we find that being born after the age cutoff for school start results in an increased age at first birth of 2.9 months for women and 4.0 months for men, whereas completed cohort fertil ity was unchanged. Similarly, being born after the cutoff increased the age at first marriage by 4.7 months for women and 2.4 months for men, with no effect on the overall probabil ity of hav ing a partner. Results show that age at completed edu cation and earnings devel op ment are important mechanisms in this fertil ity postpone ment. Additionally, we ana lyze detailed age- and parity-spe cific effects, pro viding important insights into how age at starting school affects fertil ity timing but not overall fertil ity.",
+  "authors": [
+    {
+      "raw": "Beck, Kathryn Christine",
+      "family": "Beck",
+      "given": "Kathryn Christine"
+    },
+    {
+      "raw": "Hart, Rannveig Kaldager",
+      "family": "Hart",
+      "given": "Rannveig Kaldager"
+    },
+    {
+      "raw": "Flato, Martin",
+      "family": "Flato",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Beck, Kathryn Christine; Hart, Rannveig Kaldager; Flato, Martin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/0070337011686231",
+  "doi_url": "https://doi.org/10.1215/0070337011686231",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F0070337011686231",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/0070337011686231.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The Silver Bullet? Assessing the Role of Education for Sustainability",
+  "abstract": "The United Nations 2030 agenda for sustainable development calls on nation states to invest in national development trajectories that promote both human and environmental well-being. Given the complexity of this plan, and the increasing severity of the climate crisis, understanding the relationship between nations' social and environmental outcomes is a critical task for social scientists. Raising national rates of educational attainment is a cornerstone national and international governance goal. This paper integrates Amartya Sen's conceptualization of education as the expansion of human capabilities, with the ecological modernization position that more educated societies may be less ecologically intensive, and tests the resultant hypothesis that gains in education may support global sustainability. Specifically, this study uses two-way fixed effects longitudinal modeling techniques to assess the relationship between national educational attainment and the carbon intensity of well-being (CIWB) for 76 nations between 1960 and 2010. The CIWB ratio is a well-established metric for sustainability within sociology. The findings indicate that gains in educational attainment played an important historical role in reducing the carbon intensity with which nation states produce well-being for its citizens. Less encouraging, from a global sustainability perspective, is the uneven distribution of these desirable effects across regions, and the diminishment of the education effect over time in all regions outside of advanced economies.",
+  "authors": [
+    {
+      "raw": "Kelly, Orla",
+      "family": "Kelly",
+      "given": "Orla"
+    }
+  ],
+  "authors_text": "Kelly, Orla",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz144",
+  "doi_url": "https://doi.org/10.1093/sf/soz144",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz144",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz144.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

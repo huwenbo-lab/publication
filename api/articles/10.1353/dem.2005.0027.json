@@ -1,0 +1,35 @@
+{
+  "title": "Aggregate age-at-marriage patterns from individual mate-search heuristics",
+  "abstract": "Abstract The distribution of age at first marriage shows well-known strong regularities across many countries and recent historical periods. We accounted for these patterns by developing agent-based models that simulate the aggregate behavior of individuals who are searching for marriage partners. Past models assumed fully rational agents with complete knowledge of the marriage market; our simulated agents used psychologically plausible simple heuristic mate search rules that adjust aspiration levels on the basis of a sequence of encounters with potential partners. Substantial individual variation must be included in the models to account for the demographically observed ageat-marriage patterns.",
+  "authors": [
+    {
+      "raw": "Todd, Peter M.",
+      "family": "Todd",
+      "given": "Peter M."
+    },
+    {
+      "raw": "Billari, Francesco C.",
+      "family": "Billari",
+      "given": "Francesco C."
+    },
+    {
+      "raw": "Simão, Jorge",
+      "family": "Simão",
+      "given": "Jorge"
+    }
+  ],
+  "authors_text": "Todd, Peter M.; Billari, Francesco C.; Simão, Jorge",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0027",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

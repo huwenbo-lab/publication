@@ -1,0 +1,30 @@
+{
+  "title": "Multistate cohort models with proportional transfer rates",
+  "abstract": "Abstract We present a new, broadly applicable approach to summarizing the behavior of a cohort as it moves through a variety of statuses (or states). The approach is based on the assumption that all rates of transfer maintain a constant ratio to one another over age. We present closed-form expressions for the size and state composition of the cohort at every age and provide expressions for other useful summary measures. The state trajectories, or life course schematics, depict all the possible size and state configurations that the cohort can exhibit over its life course under the specified pattern of transfer rates. The two living state case and hierarchical multistate models with any number of living states are analyzed in detail. Applying our approach to 1997 U.S. fertility data, we find that observed rates of parity progression are roughly proportional over age. Our proportional transfer rate approach provides trajectories by parity state and facilitates analyses of the implications of changes in parity rate levels and patterns. More women complete childbearing at parity 2 than at any other parity, and parity 2 would be the modal parity in models with total fertility rates (TFRS) of 1.40 to 2.61. Increases in parity progression rates to parities 4 and above have little effect on a cohort’s TFR, while changes in childlessness have a substantial impact.",
+  "authors": [
+    {
+      "raw": "Schoen, Robert",
+      "family": "Schoen",
+      "given": "Robert"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Schoen, Robert; Canudas-Romo, Vladimir",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2006,
+  "doi": "10.1353/dem.2006.0027",
+  "doi_url": "https://doi.org/10.1353/dem.2006.0027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2006.0027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2006.0027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Beyond Empathy: Familial Incarceration, Stress Proliferation, and Depressive Symptoms Among African Americans",
+  "abstract": "Women tend to be more vulnerable to the adverse psychological effects of network events (stressors that occur to loved ones). The cost-of-caring hypothesis is regarded as the primary mechanism for this vulnerability and posits that women's relatively high level of emotional involvement in the lives of network members causes women to experience greater empathetic reactions when loved ones encounter stressors. Drawing on the stress process model, gender theory, and research on the collateral consequences of incarceration, we theorize stress proliferation, the process by which an initial stressor induces secondary stressors, as an additional mechanism and empirically test our theoretical propositions using the case of African Americans with an incarcerated family member. Using data from the National Survey of American Life, we ask: are African American women more vulnerable to the depressive effects of familial incarceration compared to African American men? If so, to what extent might African American women's heightened vulnerability be explained by their greater susceptibility to stress proliferation? Results suggest that familial incarceration is associated with greater chronic strains, financial strain, and family conflict only among African American women. Further, the magnitude of the association between familial incarceration and depressive symptoms is significantly larger among African American women; however, after adjusting for stress proliferation variables, the gender difference in vulnerability attenuates and becomes statistically nonsignificant. We conclude that the emotional cost of caring may be compounded by social and economic costs of caregiving, heightening women's vulnerability to depression following disruptive network events.",
+  "authors": [
+    {
+      "raw": "Smith, Nicholas C.",
+      "family": "Smith",
+      "given": "Nicholas C."
+    },
+    {
+      "raw": "Coleman, Max E.",
+      "family": "Coleman",
+      "given": "Max E."
+    }
+  ],
+  "authors_text": "Smith, Nicholas C.; Coleman, Max E.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soad151",
+  "doi_url": "https://doi.org/10.1093/sf/soad151",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad151",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad151.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

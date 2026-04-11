@@ -1,0 +1,35 @@
+{
+  "title": "Medicaid Expansions and Fertility in the United States",
+  "abstract": "AbstractBeginning in the mid-1980s and extending through the early to mid-1990s, a substantial number of women and children in the United States gained eligibility for Medicaid through a series of income-based expansions. Using natality data from the National Center for Health Statistics, we estimate fertility responses to these eligibility expansions. We follow Currie and Gruber (2001) and measure changes in state Medicaid-eligibility policy by simulating the fraction of a standard population that would qualify for benefits in different states and different time periods. From 1985 to 1996, the fraction of women aged 15–44 who were eligible for Medicaid coverage for a pregnancy increased more than 20 percentage points. When we use a state and year fixed-effects model with a limited set of covariates, our estimates indicate that fertility increases in response to Medicaid expansions. However, after we include fixed effects for demographic characteristics, the estimated relationship diminishes substantially in size and is no longer statistically significant. We conclude that there is no robust relationship between Medicaid expansions and fertility.",
+  "authors": [
+    {
+      "raw": "DeLeire, Thomas",
+      "family": "DeLeire",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Lopoo, Leonard M.",
+      "family": "Lopoo",
+      "given": "Leonard M."
+    },
+    {
+      "raw": "Simon, Kosali I.",
+      "family": "Simon",
+      "given": "Kosali I."
+    }
+  ],
+  "authors_text": "DeLeire, Thomas; Lopoo, Leonard M.; Simon, Kosali I.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0031-6",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0031-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0031-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0031-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

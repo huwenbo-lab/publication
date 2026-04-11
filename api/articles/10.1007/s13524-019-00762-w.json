@@ -1,0 +1,35 @@
+{
+  "title": "Sexual Concurrency and Contraceptive Use Among Young Adult Women",
+  "abstract": "Leveraging 2.5 years of weekly data from the Relationship Dynamics and Social Life Study, we investigate the relationship between young women's sexual concurrency and their contraceptive behavior. Specifically, we (1) examine whether young women changed their contraceptive use when switching from one to multiple concurrent sexual partners in the same week; (2) explore the uniformity of contraceptive responses to concurrency across relationship context; and (3) compare the contraceptive behaviors of never-concurrent women with those of ever-concurrent women in weeks when they were not concurrent. Nearly one in five sexually active young women had sex with two or more people in the same week. When they were concurrent, these women's odds of using any contraception increased threefold, and their odds of using condoms increased fourfold. This pattern of contraceptive adjustments was the same across relationship characteristics, such as duration and exclusivity. Yet when they were not concurrent, ever-concurrent women were less likely to use any contraception and used condoms less consistently than women who were never concurrent. We discuss these findings in the context of ongoing debates about the role of sexual concurrency in STI transmission dynamics.",
+  "authors": [
+    {
+      "raw": "Weitzman, Abigail",
+      "family": "Weitzman",
+      "given": "Abigail"
+    },
+    {
+      "raw": "Barber, Jennifer",
+      "family": "Barber",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Kusunoki, Yasamin",
+      "family": "Kusunoki",
+      "given": "Yasamin"
+    }
+  ],
+  "authors_text": "Weitzman, Abigail; Barber, Jennifer; Kusunoki, Yasamin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00762-w",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00762-w",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00762-w",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00762-w.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Class, subjective status, and turnout in Europe",
+  "abstract": "Inspired by Weber's distinction between class and status, the paper explores the independent and joint role of social class and subjective social status in shaping electoral participation in contemporary European democracies. While social class has long been established as a predictor of political behaviour, less attention has been paid to the influence of subjective status, an individual's self-assessed position within the social hierarchy. Drawing on nineteen waves of data from the International Social Survey Program from 2002 to 2021 across twenty-five European countries, this paper examines how social class and subjective status independently and jointly influence electoral participation. The findings indicate that while social class remains a significant determinant of electoral participation, subjective status offers further insight. Individuals with higher subjective status are more likely to vote, regardless of their social class. Moreover, within social classes, particularly the working class, participation rates are stratified by subjective status, with a notable gap between individuals with high and low subjective status. By employing Linear Probability Models with Country-Year Fixed Effects, the study accounts for cross-national differences and provides a robust analysis of electoral participation in Europe. These results contribute to a deeper understanding of political inequality, suggesting that subjective aspects of social stratification should be considered alongside traditional class-based analyses to fully grasp the factors influencing political participation in European democracies.",
+  "authors": [
+    {
+      "raw": "Melli, Giacomo",
+      "family": "Melli",
+      "given": "Giacomo"
+    }
+  ],
+  "authors_text": "Melli, Giacomo",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101039",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101039",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101039",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101039.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

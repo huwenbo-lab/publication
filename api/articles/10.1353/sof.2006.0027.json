@@ -1,0 +1,25 @@
+{
+  "title": "Student Disengagement and the Socialization Styles of High Schools",
+  "abstract": "This paper advances a cross-contextual understanding of authoritative socialization, a concept developed by family researchers. Using data from the High School Effectiveness Study, I use multilevel modeling to test the effect of high school socialization style on student disengagement from 10th to 12th grades, controlling for both the sociodemographic context of schools and student characteristics. I find that school socialization style is differentially associated with student disengagement by 10th grade, and controlling for 10th grade disengagement, school styles have further effects on disengagement by 12th grade. As hypothesized, the pattern of effects replicates that found in studies of family socialization — authoritative schools have the lowest levels of disengagement and indifferent schools the highest, while authoritarian and permissive schools have moderate levels of disengagement.",
+  "authors": [
+    {
+      "raw": "Pellerin, L. A.",
+      "family": "Pellerin",
+      "given": "L. A."
+    }
+  ],
+  "authors_text": "Pellerin, L. A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2005,
+  "doi": "10.1353/sof.2006.0027",
+  "doi_url": "https://doi.org/10.1353/sof.2006.0027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2006.0027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2006.0027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Muslim-Non-Muslim Locational Attainment in Philadelphia: A New Fault Line in Residential Inequality?",
+  "abstract": "This study examines Muslim-non-Muslim disparities in locational attainment. We pool data from the 2004, 2006, and 2008 waves of the Public Health Management Corporation's Southeastern Pennsylvania Household Survey. These data contain respondents' religious identities and are geocoded at the census-tract level, allowing us to merge American Community Survey data and examine neighborhood-level outcomes to gauge respondents' locational attainment. Net of controls, our multivariate analyses reveal that among blacks and nonblacks, Muslims live in neighborhoods that have significantly lower shares of whites and greater representations of blacks. Among blacks, Muslims are significantly less likely than non-Muslims to reside in suburbs. The Muslim disadvantages for blacks and nonblacks in neighborhood poverty and neighborhood median income, however, become insignificant. Our results provide support for the tenets of the spatial assimilation and place stratification models and suggest that Muslim-non-Muslim disparities in locational attainment define a new fault line in residential stratification.",
+  "authors": [
+    {
+      "raw": "Friedman, Samantha",
+      "family": "Friedman",
+      "given": "Samantha"
+    },
+    {
+      "raw": "Yucel, Recai M.",
+      "family": "Yucel",
+      "given": "Recai M."
+    },
+    {
+      "raw": "Wynn, Colleen E.",
+      "family": "Wynn",
+      "given": "Colleen E."
+    },
+    {
+      "raw": "Gibbons, Joseph R.",
+      "family": "Gibbons",
+      "given": "Joseph R."
+    }
+  ],
+  "authors_text": "Friedman, Samantha; Yucel, Recai M.; Wynn, Colleen E.; Gibbons, Joseph R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00797-z",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00797-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00797-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00797-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

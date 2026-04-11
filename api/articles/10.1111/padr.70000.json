@@ -1,0 +1,35 @@
+{
+  "title": "Trends and Decomposition of Changes in Mortality in Low- and Middle-Income Countries, 1950-2019",
+  "abstract": "From 1950 to 2019, all countries experienced an increase in life expectancy at birth. However, the magnitude and pace of change varied. Lower income countries experienced relatively larger increases, leading to a convergence process. Nevertheless, disparities remained pronounced in comparison to wealthier countries. In accordance with the health transition model, countries typically observe a decline in mortality rates by first achieving greater gains in young and adult ages. In this study, we build on the existing literature on health transition to demonstrate that by 2019, 55 percent of the 118 low- and middle-income countries analyzed had reached a life expectancy at birth of at least 70 years. Notably, only two countries from sub-Saharan Africa met this threshold. Additionally, 54 percent of the countries transitioned into the cardiovascular revolution stage, where improvements in adult mortality significantly increased life expectancy at birth. Meanwhile, 49 percent advanced to the slowing the aging process stage, characterized by greater gains in life expectancy from ages 65 and older than those aged 30-60. However, when applying a more restrictive criterion focused on ages above 80, this proportion drops to 19 percent. The results demonstrate an ongoing process of divergence-convergence between high- and low-income countries and within middle- and low-income groups.",
+  "authors": [
+    {
+      "raw": "Castro, Marcia C.",
+      "family": "Castro",
+      "given": "Marcia C."
+    },
+    {
+      "raw": "Turra, Cassio M.",
+      "family": "Turra",
+      "given": "Cassio M."
+    },
+    {
+      "raw": "Ponmattam, Jamie",
+      "family": "Ponmattam",
+      "given": "Jamie"
+    }
+  ],
+  "authors_text": "Castro, Marcia C.; Turra, Cassio M.; Ponmattam, Jamie",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70000",
+  "doi_url": "https://doi.org/10.1111/padr.70000",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70000",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70000.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

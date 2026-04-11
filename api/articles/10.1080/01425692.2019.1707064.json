@@ -1,0 +1,25 @@
+{
+  "title": "The influence of neighbourhood crime on young people becoming not in education, employment or training",
+  "abstract": "The influence of living in a disadvantaged neighbourhood on young people's transitions from education to the labour market has not received much attention in past research. This study examines the extent to which social disorganisation, understood as the level of crime experienced in the neighbourhood, can influence young people's educational and employment outcomes. It draws on data collected from Next Steps, a longitudinal nationally representative cohort of English young people. Using logistic regression and propensity score matching techniques and controlling for family background, prior educational attainment, ethnicity and gender, victimisation and risk behaviour of the young person, the results suggest that living in a disadvantaged neighbourhood increases the probability of young people experiencing Not in Education, Employment or Training (NEET) status at ages 16-19. Sensitivity analysis shows that these results are robust to selection bias.",
+  "authors": [
+    {
+      "raw": "Karyda, Magdalini",
+      "family": "Karyda",
+      "given": "Magdalini"
+    }
+  ],
+  "authors_text": "Karyda, Magdalini",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2020,
+  "doi": "10.1080/01425692.2019.1707064",
+  "doi_url": "https://doi.org/10.1080/01425692.2019.1707064",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2019.1707064",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2019.1707064.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

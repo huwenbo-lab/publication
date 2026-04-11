@@ -1,0 +1,30 @@
+{
+  "title": "Trends and socioeconomic differentials in depression prevalence in China, 2010-2018",
+  "abstract": "Numerous studies have investigated the prevalence and social correlates of depression in China, but less is known about trends in depression prevalence and inequalities across time. Using nationally representative data from the China Family Panel Studies, we examine patterns of depressive symptoms over time from 2010 to 2018 among Chinese adults. We assess trends across time in depression disparities by educational attainment and household income using random-intercept logistic regression models. We find that the overall prevalence of depressive symptoms increased significantly in China over this period of time; increases in depression were significant for men and women, rural and urban residents, and the non-elderly. We also find that the rate of increase in depressive symptoms was more rapid among people with high levels of education and family income. Thus, though depression inequalities favor higher socioeconomic groups, this disparity is declining.",
+  "authors": [
+    {
+      "raw": "Luo, Weixiang",
+      "family": "Luo",
+      "given": "Weixiang"
+    },
+    {
+      "raw": "Zhao, Mengke",
+      "family": "Zhao",
+      "given": "Mengke"
+    }
+  ],
+  "authors_text": "Luo, Weixiang; Zhao, Mengke",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2021,
+  "doi": "10.1177/2057150x211043008",
+  "doi_url": "https://doi.org/10.1177/2057150x211043008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x211043008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x211043008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Social Mobility Over Three Generations in Finland: A Critique",
+  "abstract": "Erola and Moisio (2007) argue that in Finland the class positions of grandparents and grandchildren are almost independent of each other, once parents’ social class has been taken into account. We show that this conclusion of ‘almost conditional independence’ is not supported by the results reported in their article. We further show that the strong evidence against conditional independence is not due to the large N of the Finnish mobility table alone, as the same critique applies to much smaller subsamples drawn randomly from the data. We then demonstrate with some illustrative outflow mobility rates that the grandparents effect in social mobility in Finland is not only statistically significant, but is also of substantive importance. Finally, we discuss the two ‘lagged’ effects reported in Erola and Moisio (2007), and show that they fail to capture much of the net GC association.",
+  "authors": [
+    {
+      "raw": "Chan, T. W.",
+      "family": "Chan",
+      "given": "T. W."
+    },
+    {
+      "raw": "Boliver, V.",
+      "family": "Boliver",
+      "given": "V."
+    }
+  ],
+  "authors_text": "Chan, T. W.; Boliver, V.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1093/esr/jct012",
+  "doi_url": "https://doi.org/10.1093/esr/jct012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjct012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jct012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

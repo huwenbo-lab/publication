@@ -1,0 +1,30 @@
+{
+  "title": "Do Women Respond to Changes in Family Policy? A Quasi-Experimental Study of the Duration of Mothers' Employment Interruptions in Germany",
+  "abstract": "Based on a sequence of policy changes in Germany’s parental leave programme, the article uses an interrupted time-series design to provide empirical evidence on the relationship between mothers’ labour force behaviour and family policy. Using event history modelling techniques and 1984–2010 data from the German Socio-Economic Panel, the analysis shows that mothers have strongly responded to various changes to Germany’s parental leave programme, including both entitlement extensions and incentives to speed their return to work. As transition rates at which mothers return to employment generally fall while being covered by parental leave entitlements but peak when entitlements are exhausted, five consecutive entitlement extensions between 1986 and 1992 have empirically been accompanied by respective increases in the duration of employment interruptions following childbirth. This upward trend has partly been reversed by stronger monetary and procedural incentives for shorter leave-taking implemented in 2001, but more consistently so by the introduction of Germany’s new 12-month earnings-related parental leave benefit programme in 2007. Respective behavioural changes are observable among both East and West German mothers despite long-standing differences in gender culture and availability of public childcare.",
+  "authors": [
+    {
+      "raw": "Ziefle, A.",
+      "family": "Ziefle",
+      "given": "A."
+    },
+    {
+      "raw": "Gangl, M.",
+      "family": "Gangl",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Ziefle, A.; Gangl, M.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1093/esr/jcu056",
+  "doi_url": "https://doi.org/10.1093/esr/jcu056",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcu056",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcu056.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

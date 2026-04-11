@@ -1,0 +1,30 @@
+{
+  "title": "Dealing with selection bias in educational transition models: The bivariate probit selection model",
+  "abstract": "This paper proposes the bivariate probit selection model (BPSM) as an alternative to the traditional Mare model for analyzing educational transitions. The BPSM accounts for selection on unobserved variables by allowing for unobserved variables which affect the probability of making educational transitions to be correlated across transitions. We use simulated and real data to illustrate how the BPSM improves on the traditional Mare model in terms of correcting for selection bias and providing credible estimates of the effect of family background on educational success. We conclude that models which account for selection on unobserved variables and high-quality data are both required in order to estimate credible educational transition models. (C) 2011 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Holm, Anders",
+      "family": "Holm",
+      "given": "Anders"
+    },
+    {
+      "raw": "Jaeger, Mads Meier",
+      "family": "Jaeger",
+      "given": "Mads Meier"
+    }
+  ],
+  "authors_text": "Holm, Anders; Jaeger, Mads Meier",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2011,
+  "doi": "10.1016/j.rssm.2011.02.002",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2011.02.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2011.02.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2011.02.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

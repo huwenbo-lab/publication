@@ -1,0 +1,25 @@
+{
+  "title": "Parental Characteristics, Family Structure and Occupational Attainment in Britain",
+  "abstract": "This article uses multivariate logistic regression analyses of the 2005 General Household Survey to assess the impact of parents’ occupational and educational characteristics on occupational attainment in Britain, focusing specifically on the salariat. Differences in outcomes according to family structure are then examined, controlling for such parental characteristics. The results indicate that both parents’ characteristics are relevant, and that their effects interact. A smaller chance of a salariat occupation is evident for those who lived in a lone-mother family, lone-father family, or biological-mother stepfamily as a young teenager, reflecting different features of these family types, but consistently reflecting lower educational attainment. Both number of co-resident siblings and parental worklessness affect the odds of having a salariat occupation, this being relevant to family-type comparisons.",
+  "authors": [
+    {
+      "raw": "Lampard, Richard",
+      "family": "Lampard",
+      "given": "Richard"
+    }
+  ],
+  "authors_text": "Lampard, Richard",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2012,
+  "doi": "10.1177/0038038511435062",
+  "doi_url": "https://doi.org/10.1177/0038038511435062",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038511435062",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038511435062.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

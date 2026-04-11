@@ -1,0 +1,30 @@
+{
+  "title": "Does Parental Separation Lower Genetic Influences on Children's School Performance?",
+  "abstract": "Objective A behavioral genetics approach is used to test whether parental separation lowers the importance of genes for children's school performance. Background The Scarr-Rowe hypothesis, which states that the relative importance of genes on cognitive ability is higher for advantaged compared to disadvantaged children, has been expanded to educational outcomes. However, advantage/disadvantage is predominantly conceptualized as parental socioeconomic status and neglects other important factors. This study expands upon the literature to include family structure as an indicator for advantage/disadvantage. Method Data from TwinLife, a new population-register-based sample of twins and their families in Germany, and ACE variance decomposition models are used to estimate the heritability of cognitive ability (N-Pairs = 896), school grades (N-Pairs = 740), and academic self-concept (N-Pairs = 949) separately for single-parent and two-parent households. Results Findings show that the relative importance of genes on children's cognitive ability and academic self-concept is lower for children in single-parent households compared to two-parent households (32-47% and 23-50%, respectively), but differences are negligible for math grades (41-43%). ACE models adjusted for mothers' education and household income retrieve substantively similar results. Conclusion The quality of the family environment that is important for the realization of children's genetic potential is not just shaped by socioeconomic status, but also family structure.",
+  "authors": [
+    {
+      "raw": "Baier, Tina",
+      "family": "Baier",
+      "given": "Tina"
+    },
+    {
+      "raw": "Van Winkle, Zachary",
+      "family": "Van Winkle",
+      "given": "Zachary"
+    }
+  ],
+  "authors_text": "Baier, Tina; Van Winkle, Zachary",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12730",
+  "doi_url": "https://doi.org/10.1111/jomf.12730",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12730",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12730.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

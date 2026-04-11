@@ -1,0 +1,25 @@
+{
+  "title": "Does Cultural Capital Really Affect Academic Achievement? New Evidence from Combined Sibling and Panel Data",
+  "abstract": "This article provides new estimates of the causal effect of cultural capital on academic achievement. The author analyzes data from the National Longitudinal Survey of Youth-Children and Young Adults and uses a fixed effect design to address the problem of omitted variable bias, which has resulted in too optimistic results in previous research. After controlling for family and individual fixed effects, the author reports that (1) six indicators of cultural capital have mostly positive direct effects on children's reading and math test scores, (2) the effect of cultural capital is smaller than previously reported, and (3) the effect of cultural capital varies in high and low socioeconomic status (SES) environments. Results mostly support cultural reproduction theory (cultural capital more important in high SES environments) for cultural capital indicators capturing familiarity with legitimate culture and mostly support cultural mobility theory (cultural capital more important in low SES environments) for indicators capturing concerted cultivation..",
+  "authors": [
+    {
+      "raw": "Jaeger, Mads Meier",
+      "family": "Jaeger",
+      "given": "Mads Meier"
+    }
+  ],
+  "authors_text": "Jaeger, Mads Meier",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2011,
+  "doi": "10.1177/0038040711417010",
+  "doi_url": "https://doi.org/10.1177/0038040711417010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040711417010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040711417010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Changes over Time in COVID-19 Vaccination Inequalities in Eight Large U.S. Cities",
+  "abstract": "The authors estimate the associations between community socioeconomic composition and changes in coronavirus disease 2019 (COVID-19) vaccination levels in eight large cities at three time points. In March, communities with high socioeconomic status (SES) had significantly higher vaccination rates than low-SES communities. Between March and April, low-SES communities had significantly lower changes in percentage vaccinated than high-SES communities. Between April and May, this difference was not significant. Thus, the large vaccination gap between communities during restricted vaccine eligibility did not narrow when eligibility opened up. The link between COVID-19 vaccination and community disadvantage may lead to a bifurcated recovery whereby advantaged communities move on from the pandemic more quickly while disadvantaged communities continue to suffer.",
+  "authors": [
+    {
+      "raw": "Michael Gaddis, S.",
+      "family": "Michael Gaddis",
+      "given": "S."
+    },
+    {
+      "raw": "Carey, Colleen M.",
+      "family": "Carey",
+      "given": "Colleen M."
+    },
+    {
+      "raw": "DiRago, Nicholas V.",
+      "family": "DiRago",
+      "given": "Nicholas V."
+    }
+  ],
+  "authors_text": "Michael Gaddis, S.; Carey, Colleen M.; DiRago, Nicholas V.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231161045",
+  "doi_url": "https://doi.org/10.1177/23780231231161045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231161045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231161045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

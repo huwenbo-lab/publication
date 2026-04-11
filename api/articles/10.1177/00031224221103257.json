@@ -1,0 +1,35 @@
+{
+  "title": "What's Next? Artists' Music after Grammy Awards",
+  "abstract": "Do the cultural works artists produce after receiving major awards change in character? As awards lessen the constraints artists typically face, we argue that award winners receive more opportunities, gain more autonomy, and are more likely to pursue unique creative paths. Empirically, we analyze the consequences of winning a major Grammy award, a high-profile (often status-shifting) honor in the popular music industry. Using a neural learning approach, we examine the subsequent artistic differentiation of albums of award winners from albums of other artists. We analyze whether the music styles and sonic content of post-Grammy albums of winners change, and whether they become more or less similar to the combined corpus of albums of other artists. In panel regression estimates, we find that after winning a Grammy, artists tend to release albums that stand out more stylistically from other artists. Surprisingly, artists who were nominated but did not win a Grammy became more similar to other artists than they were before the nomination. The findings suggest symbolic awards can regularly induce change and affect the heterogeneity of cultural products.",
+  "authors": [
+    {
+      "raw": "Negro, Giacomo",
+      "family": "Negro",
+      "given": "Giacomo"
+    },
+    {
+      "raw": "Kovacs, Balazs",
+      "family": "Kovacs",
+      "given": "Balazs"
+    },
+    {
+      "raw": "Carroll, Glenn R.",
+      "family": "Carroll",
+      "given": "Glenn R."
+    }
+  ],
+  "authors_text": "Negro, Giacomo; Kovacs, Balazs; Carroll, Glenn R.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1177/00031224221103257",
+  "doi_url": "https://doi.org/10.1177/00031224221103257",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224221103257",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224221103257.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Political Holes in the Economy: The Business Network of Partisan Firms in Hungary",
+  "abstract": "This article redirects attention from the question of how business ties have an impact on politics to the question of how political ties have an impact on business. Specifically, do divisions within the field of politics become divisions in the field of business networks? To study co-evolution of political and economic fields, we conducted a historical network analysis of the relationship between firm-to-party ties and firm-to-firm ties in the Hungarian economy. We constructed a dataset of all senior managers and boards of directors of 1,696 corporations and the complete set of all political officeholders from 1987 to 2001. Findings from our field interviews and dyadic logistic regression models demonstrate that director interlocks depend, to a significant extent, on political affiliations. Although the political and economic fields have been institutionally separated, firms and parties have become organizationally entangled. Firms of either left or right political affiliation exhibit a preference for partnerships with firms in the same political camp and increasingly avoid ties with firms in the opposite camp. Our analysis reveals that political camps in the Hungarian economy occurred not as a direct legacy of state socialism but as the product of electoral party competition.",
+  "authors": [
+    {
+      "raw": "Stark, David",
+      "family": "Stark",
+      "given": "David"
+    },
+    {
+      "raw": "Vedres, Balazs",
+      "family": "Vedres",
+      "given": "Balazs"
+    }
+  ],
+  "authors_text": "Stark, David; Vedres, Balazs",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2012,
+  "doi": "10.1177/0003122412453921",
+  "doi_url": "https://doi.org/10.1177/0003122412453921",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122412453921",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122412453921.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

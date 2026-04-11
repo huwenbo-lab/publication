@@ -1,0 +1,25 @@
+{
+  "title": "Separating the Signal From the Noise: Evidence for Deceleration in Old-Age Death Rates",
+  "abstract": "Widespread population aging has made it critical to understand death rates at old ages. However, studying mortality at old ages is challenging because the data are sparse: numbers of survivors and deaths get smaller and smaller with age. I show how to address this challenge by using principled model selection techniques to empirically evaluate theoretical mortality models. I test nine models of old-age death rates by fitting them to 360 high-quality data sets on cohort mortality after age 80. Models that allow for the possibility of decelerating death rates tend to fit better than models that assume exponentially increasing death rates. No single model is capable of universally explaining observed old-age mortality patterns, but the log-quadratic model most consistently predicts well. Patterns of model fit differ by country and sex. I discuss possible mechanisms, including sample size, period effects, and regional or cultural factors that may be important keys to understanding patterns of old-age mortality. I introduce mortfit, a freely available R package that enables researchers to extend the analysis to other models, age ranges, and data sources.",
+  "authors": [
+    {
+      "raw": "Feehan, Dennis M.",
+      "family": "Feehan",
+      "given": "Dennis M."
+    }
+  ],
+  "authors_text": "Feehan, Dennis M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0728-x",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0728-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0728-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0728-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

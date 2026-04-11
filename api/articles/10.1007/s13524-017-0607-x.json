@@ -1,0 +1,30 @@
+{
+  "title": "Race, Remarital Status, and Infertility in 1910: More Evidence of Multiple Causes",
+  "abstract": "The dominant approach to studying historical race-related fertility differences has been to limit samples to first-married and younger women. We argue that studying historical race-related fertility differences in the context of remarriage is also important: remarriage and fertility patterns are both rooted in the biosocial conditions that produce racial disparities in health. We employ a multiple causes framework that attributes variation in fertility patterns to voluntary limitation and involuntary factors (infecundity/subfecundity). We use data from the 1910 Integrated Public Use Microdata Series and estimate zero-inflated negative binomial models that simultaneously distinguish those who are infecund (vs. fecund) and estimate the number of remarital births among the fecund. Our approach allows us to evaluate historical remarital (in)fertility differences, accounting for marital, socioeconomic, and geographic influences on fecundity and fertility, while empirically accounting for the influence of children missing from the household due to mortality and fostering/aging out. Consistent with past studies that emphasized poorer African American health as a major influence on involuntary infertility, we find that African American women were more likely than white women to be in the always-zero (infecund) group and to have fewer remarital births. Supplemental analyses nuance these findings but indicate that these results are robust. Overall, we find support for a multiple-causes perspective: while the findings are consistent with the adoption of deliberate fertility control among urban and higher-status women at higher parities, remarital fertility differences in 1910 also reflected greater infecundity/subfecundity among subgroups of women, especially African American women.",
+  "authors": [
+    {
+      "raw": "London, Andrew S.",
+      "family": "London",
+      "given": "Andrew S."
+    },
+    {
+      "raw": "Elman, Cheryl",
+      "family": "Elman",
+      "given": "Cheryl"
+    }
+  ],
+  "authors_text": "London, Andrew S.; Elman, Cheryl",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0607-x",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0607-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0607-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0607-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

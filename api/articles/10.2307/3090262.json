@@ -1,0 +1,30 @@
+{
+  "title": "Perceived quality and methodology in graduate department ratings: Sociology, political science, and economics",
+  "abstract": "Graduate department ratings help to shape the power and privilege of a graduate department at its home university, as well as with respect to other departments in its discipline. Ideally, such ratings would reflect the perceived quality of a department. Yet frequent critiques suggest that the ratings fall far short of this ideal. The authors analyzed subjective ratings in three related disciplines-sociology, political science, and economics-and from two rating sources: the National Research Council and U.S. News and World Report. They hypothesized three major components to the ratings: (1) perceived departmental quality, (2) systematic error owing to the method of data collection, and (3) random measurement error. Using structural equation modeling, they found that 20 percent to 30 percent of the variation in ratings derives from systematic error, most of the rest comes from perceived quality, and the smallest component is random measurement error. The authors also found that variables, such as citations per capita, departmental size, public/private status, and geographic location, influence ratings through their impact on perceived quality and/or the systematic errors that enter the ratings.",
+  "authors": [
+    {
+      "raw": "Paxton, P",
+      "family": "Paxton",
+      "given": "P"
+    },
+    {
+      "raw": "Bollen, KA",
+      "family": "Bollen",
+      "given": "KA"
+    }
+  ],
+  "authors_text": "Paxton, P; Bollen, KA",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2003,
+  "doi": "10.2307/3090262",
+  "doi_url": "https://doi.org/10.2307/3090262",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3090262",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3090262.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Gender Differences in Couples' Matrimonial Property Regime in Italy",
+  "abstract": "Objective This study investigates the characteristics of spouses in Italy who choose to pool their economic resources. Background If resource pooling is common among male-breadwinner couples, expectations regarding resource pooling are mixed for female-breadwinner couples or, more generally, for couples with wives who are economically advantaged when compared with their husbands. This study asks whether resource-pooling strategies differ between couples with economically advantaged husbands, couples with economically advantaged wives, and couples in which spouses have similar economic resources. Method The article uses an objective measure of pooling of wealth available for Italy at the time of marriage: the matrimonial property regime, indicating the choice between a shared or separate ownership of assets accumulated during marriage. Using data from the 2015 marriage register, the article models the probability that a couple chooses the community of property with a logistic regression model. Results Couples with husbands who were economically advantaged when compared with their wives (i.e., the husband was older, more educated, or employed with a nonemployed wife) were more likely to choose the community of property when compared with couples with similar resources (both spouses were employed, of similar age or educational attainment); conversely, couples with economically advantaged wives were more likely to choose the separation of property. Conclusion Economically advantaged women seem to be undoing gender by protecting their economic resources via the separation of property.",
+  "authors": [
+    {
+      "raw": "Fraboni, Romina",
+      "family": "Fraboni",
+      "given": "Romina"
+    },
+    {
+      "raw": "Vitali, Agnese",
+      "family": "Vitali",
+      "given": "Agnese"
+    }
+  ],
+  "authors_text": "Fraboni, Romina; Vitali, Agnese",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12574",
+  "doi_url": "https://doi.org/10.1111/jomf.12574",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12574",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12574.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

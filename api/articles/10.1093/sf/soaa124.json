@@ -1,0 +1,35 @@
+{
+  "title": "Racial Dynamics of Congregations and Communities: A Longitudinal Analysis of United Methodist Congregations, 1990-2010",
+  "abstract": "Alarge body of research documents the difficulty congregations have in creating and sustaining racially diverse memberships. However, little scholarship explores the overlapping consequences of racial change in congregations and neighborhoods over time. Since the number of all-white neighborhoods has fallen sharply in recent decades, we ask in this study: what are the consequences of racial change in congregations and neighborhoods on congregational attendance? We employ longitudinal data from over 20,000 United Methodist congregations between 1990 and 2010 paired with census tract data for the same time period. We use growth curve models to test three hypotheses derived from Organizational Ecology Theory. While Methodist churches have decreasing attendance, we find that racial diversity inside a church is associated with higher average attendance by year and across years. Outside a church, percent white in the neighborhood positively predicts attendance, at least in the short term. Both white and nonwhite Methodist churches have higher attendance when located in white neighborhoods; white churches in nonwhite neighborhoods fare the worst. Our conclusion discusses these patterns and highlights the complexities of accommodating racial differences in congregations amidst ongoing demographic changes outside their doors.",
+  "authors": [
+    {
+      "raw": "Dougherty, Kevin D.",
+      "family": "Dougherty",
+      "given": "Kevin D."
+    },
+    {
+      "raw": "Marti, Gerardo",
+      "family": "Marti",
+      "given": "Gerardo"
+    },
+    {
+      "raw": "Ferguson, Todd W.",
+      "family": "Ferguson",
+      "given": "Todd W."
+    }
+  ],
+  "authors_text": "Dougherty, Kevin D.; Marti, Gerardo; Ferguson, Todd W.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa124",
+  "doi_url": "https://doi.org/10.1093/sf/soaa124",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa124",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa124.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

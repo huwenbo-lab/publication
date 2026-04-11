@@ -1,0 +1,30 @@
+{
+  "title": "Attention-deficit/hyperactivity disorder severity, diagnosis, & later academic achievement in a national sample",
+  "abstract": "Although 11% (6.4 million) American children are diagnosed with attention deficit/hyperactivity disorder (ADHD), the role of ADHD severity in shaping the association between ADHD diagnosis and academic achievement is not understood. Using a nationally representative sample of 7830 U.S. kindergartners from the Early Childhood Longitudinal Study-Kindergarten Cohort, we use regression and propensity score matching to compare diagnosed (N = 350) and undiagnosed children who are cognitively, behaviorally, and demographically similar. Diagnosed children with less severe ADHD-related behaviors on average scored lower in reading (-030 SD) and math (-0.22 SD) than their undiagnosed peers - a difference two times larger than that between diagnosed and undiagnosed children with more severe ADHD-related behaviors. Pharmacological treatment did not attenuate most of this diagnostic labeling effect among children with less severe ADHD-related behaviors. Negative factors associated with an ADHD diagnosis may outweigh potential benefits for achievement among children with less severe ADHD-related behaviors, even those receiving treatment. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Owens, Jayanti",
+      "family": "Owens",
+      "given": "Jayanti"
+    },
+    {
+      "raw": "Jackson, Heide",
+      "family": "Jackson",
+      "given": "Heide"
+    }
+  ],
+  "authors_text": "Owens, Jayanti; Jackson, Heide",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.06.018",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.06.018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.06.018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.06.018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

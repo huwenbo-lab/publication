@@ -1,0 +1,25 @@
+{
+  "title": "Education and Physical Health Trajectories in Later Life: A Comparative Study",
+  "abstract": "The cumulative (dis)advantage hypothesis states that health disparities between education groups increase with age. The present study examined this hypothesis in a comparative analysis of the United States, the United Kingdom, the Netherlands, and Sweden. These countries offer sharp contrasts in the social conditions that may intensify or inhibit processes of cumulative (dis)advantage. Using harmonized panel data from the HRS, ELSA, and SHARE, the study applied Poisson multilevel regression models to trace changes in the number of chronic conditions and functional limitations of people aged 50-76 (N = 16,887 individuals; 71,154 observations). The four countries showed a clear gradient in levels of physical health and in the extent to which health trajectories were shaped by education. Across all ages and cohorts, health problems were most prevalent in the United States, less prevalent in the United Kingdom and the Netherlands, and least prevalent in Sweden. A similar cross-national gradient was found for the size of health gaps between education groups and for the extent to which these gaps widened with age. Gaps were largest in the United States, smaller in the United Kingdom and in the Netherlands, and smallest in Sweden.",
+  "authors": [
+    {
+      "raw": "Leopold, Liliya",
+      "family": "Leopold",
+      "given": "Liliya"
+    }
+  ],
+  "authors_text": "Leopold, Liliya",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0674-7",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0674-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0674-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0674-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

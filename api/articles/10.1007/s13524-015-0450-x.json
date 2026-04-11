@@ -1,0 +1,40 @@
+{
+  "title": "Hispanic-White Differences in Lifespan Variability in the United States",
+  "abstract": "This study is the first to investigate whether and, if so, why Hispanics and non-Hispanic whites in the United States differ in the variability of their lifespans. Although Hispanics enjoy higher life expectancy than whites, very little is known about how lifespan variability-and thus uncertainty about length of life-differs by race/ethnicity. We use 2010 U.S. National Vital Statistics System data to calculate lifespan variance at ages 10+ for Hispanics and whites, and then decompose the Hispanic-white variance difference into cause-specific spread, allocation, and timing effects. In addition to their higher life expectancy relative to whites, Hispanics also exhibit 7 % lower lifespan variability, with a larger gap among women than men. Differences in cause-specific incidence (allocation effects) explain nearly two-thirds of Hispanics' lower lifespan variability, mainly because of the higher mortality from suicide, accidental poisoning, and lung cancer among whites. Most of the remaining Hispanic-white variance difference is due to greater age dispersion (spread effects) in mortality from heart disease and residual causes among whites than Hispanics. Thus, the Hispanic paradox-that a socioeconomically disadvantaged population (Hispanics) enjoys a mortality advantage over a socioeconomically advantaged population (whites)-pertains to lifespan variability as well as to life expectancy. Efforts to reduce U.S. lifespan variability and simultaneously increase life expectancy, especially for whites, should target premature, young adult causes of death-in particular, suicide, accidental poisoning, and homicide. We conclude by discussing how the analysis of Hispanic-white differences in lifespan variability contributes to our understanding of the Hispanic paradox.",
+  "authors": [
+    {
+      "raw": "Lariscy, Joseph T.",
+      "family": "Lariscy",
+      "given": "Joseph T."
+    },
+    {
+      "raw": "Nau, Claudia",
+      "family": "Nau",
+      "given": "Claudia"
+    },
+    {
+      "raw": "Firebaugh, Glenn",
+      "family": "Firebaugh",
+      "given": "Glenn"
+    },
+    {
+      "raw": "Hummer, Robert A.",
+      "family": "Hummer",
+      "given": "Robert A."
+    }
+  ],
+  "authors_text": "Lariscy, Joseph T.; Nau, Claudia; Firebaugh, Glenn; Hummer, Robert A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-015-0450-x",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0450-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0450-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0450-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

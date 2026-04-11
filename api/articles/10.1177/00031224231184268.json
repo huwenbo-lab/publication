@@ -1,0 +1,35 @@
+{
+  "title": "The Corner, the Crew, and the Digital Street: Multiplex Networks of Gang Online-Offline Conflict Dynamics in the Digital Age",
+  "abstract": "Social media is increasingly intertwined into people's lives, spurring questions about the relationships between online behavior and offline actions. We advance knowledge in conflict dynamics by using a multiplex network framework that conceptualizes online and offline gang relationships as co-constitutive networks-online and offline relationships often overlap and entangle in complex ways that influence behavior in both the virtual and real worlds. We propose a mixed-methods abductive approach for digital data that uses qualitative analyses to challenge and corroborate quantitative analyses of online gang conflict. Synthesizing data from Facebook posts by alleged gang members, maps of gang territory, and police records of offline shooting events, we show that online gang conflicts are not random attacks but targeted network relationships, and such online relationships are dependent on offline geographic relationships and shooting history relationships between gangs. Our mixed-methods approach further shows via qualitative analyses that the statistical network associations are based on cultural-specific language surrounding gang names and symbols, neighborhood streets, and prominent gang members. Our approach underscores how mixed-methods and qualitative approaches are essential in unpacking big data and computational methods in understanding the multiplex nature of group conflict.",
+  "authors": [
+    {
+      "raw": "Hsiao, Yuan",
+      "family": "Hsiao",
+      "given": "Yuan"
+    },
+    {
+      "raw": "Leverso, John",
+      "family": "Leverso",
+      "given": "John"
+    },
+    {
+      "raw": "Papachristos, Andrew V.",
+      "family": "Papachristos",
+      "given": "Andrew V."
+    }
+  ],
+  "authors_text": "Hsiao, Yuan; Leverso, John; Papachristos, Andrew V.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231184268",
+  "doi_url": "https://doi.org/10.1177/00031224231184268",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231184268",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231184268.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

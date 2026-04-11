@@ -1,0 +1,25 @@
+{
+  "title": "Ethnic Identification and Its Consequences for Measuring Inequality in Mexico",
+  "abstract": "This article examines ethnic boundary crossing and its effects on estimates of ethnic disparities in children's outcomes in the context of Mexico, a country with the largest indigenous population in the Western hemisphere. The boundary that separates the indigenous and non-indigenous population is extremely fluid, as it is based on characteristics that can easily change within a generation, such as language use, cultural practices, and a subjective sense of belonging. Using data from the Mexican Census, I examine the ethnic classification of children of indigenous parents. I find that movement across the ethnic boundary depends on which of the two criteria currently recognized by the Mexican Census is used. Children of indigenous parents are much less likely to be classified as indigenous according to language proficiency, especially when their parents have higher levels of education. By contrast, when proxy self-identification is used as a criterion, children of indigenous parents are more likely to be classified as indigenous, and greater parental education results in higher odds that children will be classified as indigenous. The shift in children's indigenous classification with parental education strongly affects estimates of educational disparities between indigenous and non-indigenous children.",
+  "authors": [
+    {
+      "raw": "Villarreal, Andres",
+      "family": "Villarreal",
+      "given": "Andres"
+    }
+  ],
+  "authors_text": "Villarreal, Andres",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122414541960",
+  "doi_url": "https://doi.org/10.1177/0003122414541960",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122414541960",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122414541960.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

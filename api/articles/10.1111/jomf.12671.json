@@ -1,0 +1,30 @@
+{
+  "title": "Relationship-Based Selective Participation of Secondary Respondents in a German Multi-Actor Panel Study",
+  "abstract": "Objective This study investigates the extent to which participation of secondary respondents (SRs), here mothers, in a multi-actor study is cross-sectionally and longitudinally biased regarding relationship characteristics with the primary respondent (PR) of the same study. Background Family research emphasizes the importance of analyzing family relations over time and from the perspectives of several family members. Following the leverage-salience theory, selective (re-)participation of PRs and SRs might bias a sample toward certain relationship characteristics, in particular over time. Method For 8,579 PRs of the German Family Panel Study ( ), it is analyzed whether or not their mothers as SRs participated in Wave 2 and 4. A latent class analysis identifies relationship types based on the PR's evaluation of intergenerational solidarity and conflict. Their influence on the respondents' probability of (re-)participation is examined using simultaneously estimated linear probability models. Results Each of the four identified relationship types exhibited a particular but constant pattern of SR survey participation. This resulted in an overrepresentation of structurally and functionally closer relationships at each observation. This bias is mostly based on the PR's selectively given consent to interview her/his SR and to a smaller extent on the selective (re-)participation of the SR or PR themselves. Conclusion SR data are selective, but the degree of selectivity remains rather stable over time. We discuss these findings with respect to both data users and future data collectors.",
+  "authors": [
+    {
+      "raw": "Huenteler, Bettina",
+      "family": "Huenteler",
+      "given": "Bettina"
+    },
+    {
+      "raw": "Wetzel, Martin",
+      "family": "Wetzel",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Huenteler, Bettina; Wetzel, Martin",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12671",
+  "doi_url": "https://doi.org/10.1111/jomf.12671",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12671",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12671.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

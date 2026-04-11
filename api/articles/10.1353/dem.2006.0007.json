@@ -1,0 +1,30 @@
+{
+  "title": "Why are cohabiting relationships more violent than marriages?",
+  "abstract": "Abstract In response to increases in cohabitation in the United States, researchers have recently focused on differences between cohabiting and marital unions. One consistent finding is a higher rate of domestic violence among cohabiting couples as compared with married couples. A prominent explanation for this finding is that cohabitation is governed by a different set of institutionalized controls than marriage. This article explores an alternative explanation, namely, that differences in selection out of cohabitation and marriage, including selection of the least-violent cohabiting couples into marriage and the most-violent married couples into divorce, lead to higher observed rates of violence among cohabiting couples in cross-sectional samples. Our results suggest that researchers should be cautious when making comparisons between married and cohabiting couples in which the dependent variable of interest is related to selection into and out of relationship status.",
+  "authors": [
+    {
+      "raw": "Kenney, Catherine T.",
+      "family": "Kenney",
+      "given": "Catherine T."
+    },
+    {
+      "raw": "McLanahan, Sara S.",
+      "family": "McLanahan",
+      "given": "Sara S."
+    }
+  ],
+  "authors_text": "Kenney, Catherine T.; McLanahan, Sara S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2006,
+  "doi": "10.1353/dem.2006.0007",
+  "doi_url": "https://doi.org/10.1353/dem.2006.0007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2006.0007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2006.0007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

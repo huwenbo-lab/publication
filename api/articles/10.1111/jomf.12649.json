@@ -1,0 +1,35 @@
+{
+  "title": "Couples' Job Insecurity and Relationship Satisfaction in the Netherlands",
+  "abstract": "Objective The goal of this study is to estimate the effect of one's own and one's partner's job insecurity on relationship satisfaction, with attention to gender and educational differences in these effects. Second, we test whether the effects of individual job insecurity on individual relationship satisfaction depends on partner job insecurity. Background Research has established that job insecurity is negatively associated with relationship quality at the individual level, but little is known about how partner's job insecurity shapes individual perceptions of relationship quality. Although one's partner's job insecurity is expected to be negatively associated with relationship quality on average, it may be protective in cases in which individual job insecurity is also high. We expand spillover-crossover and family stress models to develop and test hypotheses about the independent and interactive effects of individual and partner job insecurity on relationship quality and further consider potential gender and educational differences in the independent effects of individual and partner job insecurity on individual perceptions of relationship quality. Method Dutch dyadic longitudinal panel data was used (Dutch Longitudinal Internet Studies for the Social Sciences panels 2008-2015) composed of 11,536 observations of 3,668 individuals. Random and fixed effects models were estimated to study differences between individuals (random effects) and changes over time within individuals (fixed effects). Results Men and women were less satisfied with their relationship when they felt more job insecurity, and women were less satisfied when their male partner experienced job insecurity. Men's relationship satisfaction was less strongly related to job insecurity when his partner experienced job insecurity as well. Relationship satisfaction of higher educated men suffered less from job insecurity than that of lower educated men. Conclusion Job insecurity was negatively associated with relationship satisfaction, and this association was dependent on gender and, among men, on partner's job insecurity and educational attainment. A dyadic and moderation perspective is important for understanding the relationship between employment and relationship quality.",
+  "authors": [
+    {
+      "raw": "Blom, Niels",
+      "family": "Blom",
+      "given": "Niels"
+    },
+    {
+      "raw": "Verbakel, Ellen",
+      "family": "Verbakel",
+      "given": "Ellen"
+    },
+    {
+      "raw": "Kraaykamp, Gerbert",
+      "family": "Kraaykamp",
+      "given": "Gerbert"
+    }
+  ],
+  "authors_text": "Blom, Niels; Verbakel, Ellen; Kraaykamp, Gerbert",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12649",
+  "doi_url": "https://doi.org/10.1111/jomf.12649",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12649",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12649.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Estimating the Racial Wealth Gap in Brazil",
+  "abstract": "Brazil is at the forefront of research and policies aimed at redressing racial inequality in Latin America. However, there is a paucity of scholarship on Brazilian racial inequality in wealth. The lack of research is largely a by-product of data limitations. In this study, we analyze the best publicly available data on various indicators of wealth, controlling for multiple factors. We find a tiered system with White households having the most wealth, followed by mixed-race households, and then Black/Brown households. We find that White Brazilian families have approximately 1.5 to 2 times the wealth of Black/Brown families, which is similar to the U.S. Black-White gap for comparable measures, with the notable exception of homeownership. Our findings provide novel insights into racial wealth inequality in Brazil that may inform the study of wealth in countries where data on wealth are limited and/or where traditional measures (e.g., homeownership) are not suitable indicators of wealth.",
+  "authors": [
+    {
+      "raw": "Sue, Christina A.",
+      "family": "Sue",
+      "given": "Christina A."
+    },
+    {
+      "raw": "Rivas, Salvador",
+      "family": "Rivas",
+      "given": "Salvador"
+    },
+    {
+      "raw": "Wainer, Jacques",
+      "family": "Wainer",
+      "given": "Jacques"
+    }
+  ],
+  "authors_text": "Sue, Christina A.; Rivas, Salvador; Wainer, Jacques",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241286561",
+  "doi_url": "https://doi.org/10.1177/23780231241286561",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241286561",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241286561.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

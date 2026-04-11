@@ -1,0 +1,40 @@
+{
+  "title": "The Effects of Marital Status, Fertility, and Bereavement on Adult Mortality in Polygamous and Monogamous Households: Evidence From the Utah Population Database",
+  "abstract": "Although the associations among marital status, fertility, bereavement, and adult mortality have been widely studied, much less is known about these associations in polygamous households, which remain prevalent across much of the world. We use data from the Utah Population Database on 110,890 women and 106,979 men born up to 1900, with mortality follow-up into the twentieth century. We examine how the number of wife deaths affects male mortality in polygamous marriages, how sister wife deaths affect female mortality in polygamous marriages relative to the death of a husband, and how marriage order affects the mortality of women in polygamous marriages. We also examine how the number of children ever born and child deaths affect the mortality of men and women as well as variation across monogamous and polygamous unions. Our analyses of women show that the death of a husband and the death of a sister wife have similar effects on mortality. Marriage order does not play a role in the mortality of women in polygamous marriages. For men, the death of one wife in a polygamous marriage increases mortality to a lesser extent than it does for men in monogamous marriages. For polygamous men, losing additional wives has a dose-response effect. Both child deaths and lower fertility are associated with higher mortality. We consistently find that the presence of other kin in the household-whether a second wife, a sister wife, or children-mitigates the negative effects of bereavement.",
+  "authors": [
+    {
+      "raw": "Barclay, Kieron J.",
+      "family": "Barclay",
+      "given": "Kieron J."
+    },
+    {
+      "raw": "Thoren, Robyn Donrovich",
+      "family": "Thoren",
+      "given": "Robyn Donrovich"
+    },
+    {
+      "raw": "Hanson, Heidi A.",
+      "family": "Hanson",
+      "given": "Heidi A."
+    },
+    {
+      "raw": "Smith, Ken R.",
+      "family": "Smith",
+      "given": "Ken R."
+    }
+  ],
+  "authors_text": "Barclay, Kieron J.; Thoren, Robyn Donrovich; Hanson, Heidi A.; Smith, Ken R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00918-z",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00918-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00918-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00918-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

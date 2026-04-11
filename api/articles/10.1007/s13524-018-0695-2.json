@@ -1,0 +1,30 @@
+{
+  "title": "Bayesian Estimation of Age-Specific Mortality and Life Expectancy for Small Areas With Defective Vital Records",
+  "abstract": "High sampling variability complicates estimation of demographic rates in small areas. In addition, many countries have imperfect vital registration systems, with coverage quality that varies significantly between regions. We develop a Bayesian regression model for small-area mortality schedules that simultaneously addresses the problems of small local samples and underreporting of deaths. We combine a relational model for mortality schedules with probabilistic prior information on death registration coverage derived from demographic estimation techniques, such as Death Distribution Methods, and from field audits by public health experts. We test the model on small-area data from Brazil. Incorporating external estimates of vital registration coverage though priors improves small-area mortality estimates by accounting for underregistration and automatically producing measures of uncertainty. Bayesian estimates show that when mortality levels in small areas are compared, noise often dominates signal. Differences in local point estimates of life expectancy are often small relative to uncertainty, even for relatively large areas in a populous country like Brazil.",
+  "authors": [
+    {
+      "raw": "Schmertmann, Carl P.",
+      "family": "Schmertmann",
+      "given": "Carl P."
+    },
+    {
+      "raw": "Gonzaga, Marcos R.",
+      "family": "Gonzaga",
+      "given": "Marcos R."
+    }
+  ],
+  "authors_text": "Schmertmann, Carl P.; Gonzaga, Marcos R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0695-2",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0695-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0695-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0695-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

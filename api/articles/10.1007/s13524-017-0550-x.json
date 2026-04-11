@@ -1,0 +1,30 @@
+{
+  "title": "The Long-Term Cognitive and Socioeconomic Consequences of Birth Intervals: A Within-Family Sibling Comparison Using Swedish Register Data",
+  "abstract": "We examine the relationship between birth-to-birth intervals and a variety of mid- and long-term cognitive and socioeconomic outcomes, including high school GPA, cognitive ability, educational attainment, earnings, unemployment status, and receiving government welfare support. Using contemporary Swedish population register data and a within-family sibling comparison design, we find that neither the birth interval preceding the index person nor the birth interval following the index person are associated with any substantively meaningful changes in mid- or long-term outcomes. This is true even for individuals born before or after birth-to-birth intervals of less than 12 months. We conclude that in a contemporary high-income welfare state, there appears to be no relationship between unusually short or long birth intervals and adverse long-term outcomes.",
+  "authors": [
+    {
+      "raw": "Barclay, Kieron J.",
+      "family": "Barclay",
+      "given": "Kieron J."
+    },
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Barclay, Kieron J.; Kolk, Martin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0550-x",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0550-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0550-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0550-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

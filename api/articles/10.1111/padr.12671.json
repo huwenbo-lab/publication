@@ -1,0 +1,30 @@
+{
+  "title": "New Data Sources for Demographic Research",
+  "abstract": "We are in the early stages of a new era of demographic research that offers exciting opportunities to quantify demographic phenomena at a scale and resolution once unimaginable. These scientific possibilities are opened up by new sources of data, such as the digital traces that arise from ubiquitous social computing, massive longitudinal datasets produced by the digitization of historical records, and information about previously inaccessible populations reached through innovations in classic modes of data collection. In this commentary, we describe five promising new sources of demographic data and their potential appeal. We identify cross-cutting challenges shared by these new data sources and argue that realizing their full potential will demand both innovative methodological developments and continued investment in high-quality, traditional surveys and censuses. Despite these considerable challenges, the future is bright: these new sources of data will lead demographers to develop new theories and revisit and sharpen old ones.",
+  "authors": [
+    {
+      "raw": "Breen, Casey F.",
+      "family": "Breen",
+      "given": "Casey F."
+    },
+    {
+      "raw": "Feehan, Dennis M.",
+      "family": "Feehan",
+      "given": "Dennis M."
+    }
+  ],
+  "authors_text": "Breen, Casey F.; Feehan, Dennis M.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.12671",
+  "doi_url": "https://doi.org/10.1111/padr.12671",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12671",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12671.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

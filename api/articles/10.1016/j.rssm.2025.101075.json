@@ -1,0 +1,25 @@
+{
+  "title": "Family formation and occupational status: Premium or penalties for women?",
+  "abstract": "This paper evaluates the effect of family formation on women's occupational status, which identifies their social mobility. This study extends research by studying the long-term impact of marriage and the anticipation effect before marriage. We estimate fixed-effects and fixed-effects individual slopes panel models to identify the impact of marriage and childbearing on occupational status using retrospective data from Egypt's Labor Market Panel Survey for 2018. After accounting for selection based on levels and growth of occupational status, this study found that women witness a marriage premium only in years 4 and 7 after marriage, contrary to the fixed-effects estimates. This result shows that the premium witnessed by married women in the other years is due to selection into marriage based on both status levels and growth. Hence, accounting for various type of selection and estimating a yearly heterogeneous impact of marriage are crucial in estimating the marriage premium. Two possible mechanisms that might result in changes in occupational status are examined. Changes in work experience or employment sector explain the occupational adjustment that happens during the years of marriage, which demonstrates the importance of building women's human capital and the role of providing public sector jobs that facilitates women's double-shift roles. The results do not point to an effect of child-birth parities on the occupational status, but rather a marriage premium.",
+  "authors": [
+    {
+      "raw": "Ehab, Maye",
+      "family": "Ehab",
+      "given": "Maye"
+    }
+  ],
+  "authors_text": "Ehab, Maye",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101075",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

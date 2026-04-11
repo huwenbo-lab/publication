@@ -1,0 +1,25 @@
+{
+  "title": "Birth Order Effects on Educational Attainment and Educational Transitions in West Germany",
+  "abstract": "Using sibling data from the German Life History Study and fixed-effects models, I find that birth order has a strong negative effect on educational attainment in West Germany—being born later translates to less education. The strength of the birth order effect is comparable to those of many commonly used family background indicators. This finding contrasts many sceptical accounts of birth order found in the sociological and psychological literatures. The results of this study also show the sensitivity of birth order estimates to model specification, pointing to a likely cause for conflicting results in the previous literature. Birth order effects are weaker for females and in larger families, but do not vary according to families’ socioeconomic characteristics. The effects are likewise strong at transition from compulsory school to Gymnasium, but not significant on the transition from Gymnasium to university. Overall, the results do not support theories emphasizing the dilution of socioeconomic resources, nor do they support theories on age-crossovers in birth order effects at around age 11. However, the dilution of other family resources such as parental time and attention is a possible candidate. The weaker birth order effects among females can reflect the traditionally gender unequal returns to education, in which intellectual and school performance advantages to lower birth order do not translate into better educational attainment among German women. Overall, these findings underline the importance of birth order in shaping socioeconomic achievement and, more generally, of the factors that affect the experiences and inequalities of children growing up in the same family.",
+  "authors": [
+    {
+      "raw": "Härkönen, Juho",
+      "family": "Härkönen",
+      "given": "Juho"
+    }
+  ],
+  "authors_text": "Härkönen, Juho",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1093/esr/jct027",
+  "doi_url": "https://doi.org/10.1093/esr/jct027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjct027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jct027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

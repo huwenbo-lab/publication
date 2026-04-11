@@ -1,0 +1,30 @@
+{
+  "title": "The role of social and cognitive factors in individual gambling: An empirical study on college students",
+  "abstract": "Most of the studies on the determinants of individual gambling behaviour rely on cognitive theories. In our study, we argue that, besides cognitive factors, several social factors might play an important role as well. We analyse data from an ad hoc webmail survey conducted on about 2000 undergraduate students enrolled in a large public university in the Northern Italy in the academic year 2012-13. Using a variety of statistical techniques (standard regression models, boosted regression trees and structural equations models), we show that social variables affect both participation in gambling in the past year and latent gambling propensity. In particular, controlling for several proxies for individual cognitive ability and understanding of probability, gambling propensity is positively affected by the degree of gambling in the social surrounding (parents, peers, neighbourhood) and the acceptability of gambling activities to the individual. Moreover, in our sample of college students the role of social factors appears to be larger than that of cognitive factors, and this is consistent across different types of models and specifications. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Sarti, Simone",
+      "family": "Sarti",
+      "given": "Simone"
+    },
+    {
+      "raw": "Triventi, Moris",
+      "family": "Triventi",
+      "given": "Moris"
+    }
+  ],
+  "authors_text": "Sarti, Simone; Triventi, Moris",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.08.009",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.08.009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.08.009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.08.009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

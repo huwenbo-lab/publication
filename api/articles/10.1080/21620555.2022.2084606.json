@@ -1,0 +1,25 @@
+{
+  "title": "Bowing to five pecks of rice: how online monetization programs shape artistic novelty",
+  "abstract": "Studies on creative industries have explored how producers' properties shape their decisions about pursuing artistic novelty in their products. But how do external shocks, such as new remuneration opportunities, affect artistic novelty? In this paper, I investigate how the launch of monetization programs on online music platforms shapes musical novelty. I examined an original dataset of 12,394 songs on a Chinese music platform that launched its monetization program in 2013. Using computational tools developed in Music Information Retrieval (MIR) to compare song similarity based on their acoustic properties, I employed a novel approach to measure and model the impact of the monetization program on the musical novelty of the songs. The results suggest that while many more songs were uploaded to the platform after the program launch, these new songs are generally less novel than those before. Moreover, the decrease is particularly significant among songs released by indie companies, Pop musicians, or veteran producers. These findings demonstrate that monetization programs will restrain artistic novelty, especially among producers who are more autonomously skillful, unspecialized, or experienced.",
+  "authors": [
+    {
+      "raw": "Nie, Ke",
+      "family": "Nie",
+      "given": "Ke"
+    }
+  ],
+  "authors_text": "Nie, Ke",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1080/21620555.2022.2084606",
+  "doi_url": "https://doi.org/10.1080/21620555.2022.2084606",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2022.2084606",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2022.2084606.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

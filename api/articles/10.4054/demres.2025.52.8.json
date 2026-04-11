@@ -1,0 +1,40 @@
+{
+  "title": "Studying multiple causes of death through verbal autopsies: The contribution of a similarity index",
+  "abstract": "BACKGROUND The analysis of multiple causes of death was developed in high-income countries to study complex morbid processes leading to death. In other countries, such studies are severely limited by the lack of death certificates. Some cause-of-death statistics are produced at the local level through verbal autopsies (VAs): the collecting of information on medical history and symptoms reported by the final caregiver. Algorithmic models have been developed to estimate probable causes of death in a standardized and cost-effective manner. We investigate their potential to identify multiple causes. OBJECTIVE Bayesian models provide probabilities for all possible causes for each death. If multiple causes are probable, it could indicate multimorbidity or an uncertain diagnosis. In this paper, we aim to distinguish between these two possibilities. METHODS The INDEPTH Network provides a dataset of 72,300 adult deaths from 22 Health and Demographic Surveillance System (HDSS) sites in Asia and Africa, disaggregated by age, sex, and probable causes of death as determined by the InterVA-4 model. Using the model's probability matrix, we estimated the degree of similarity between causes and identified those with significant dissimilarities as probable multimorbidities. We test our approach using detailed VA data from the Ouagadougou HDSS (1,714 deaths). RESULTS InterVA-4 assigns at least two probable causes to 11% of deaths, but only 2% are identified as having multiple causes. CONCLUSIONS This proportion is low, but our approach remains conservative, as we cannot identify multimorbidity for similar causes. CONTRIBUTION This study advocates for better knowledge of multiple causes of death in low- and middle- income countries by providing a first approach to their identification through VAs.",
+  "authors": [
+    {
+      "raw": "Sessego, Ariane",
+      "family": "Sessego",
+      "given": "Ariane"
+    },
+    {
+      "raw": "Duthe, Geraldine",
+      "family": "Duthe",
+      "given": "Geraldine"
+    },
+    {
+      "raw": "Lankoande, Bruno",
+      "family": "Lankoande",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Dianou, Kassoum",
+      "family": "Dianou",
+      "given": "Kassoum"
+    }
+  ],
+  "authors_text": "Sessego, Ariane; Duthe, Geraldine; Lankoande, Bruno; Dianou, Kassoum",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.8",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

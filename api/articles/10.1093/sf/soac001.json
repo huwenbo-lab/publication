@@ -1,0 +1,35 @@
+{
+  "title": "Too Much of a Good Thing? Testing the Curvilinear Relationship between Parental Involvement and Student Outcomes in Elementary School",
+  "abstract": "Most scholars, parents, and educators agree that parental involvement is beneficial for children's academic and developmental outcomes. However, a small but growing body of scholarship suggests that intensive parental involvement may potentially hinder children's development. In this study, we examine the more is less assumption in parental involvement research and formally test the argument of parental overinvolvement. Using nationally representative data from the Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999 (ECLS-K), we examine whether high levels of involvement are associated with unintended negative child development in elementary school. Analyses based on curvilinear mixed effects models show that elevated parental expectations, intensive participation in extracurricular activities, and increased parental school involvement are associated with diminishing returns to children's outcomes. The most meaningful parental overinvolvement pattern is found for internalizing problems. These patterns are generally consistent for children from all socioeconomic levels. We conclude with a discussion of the research and policy implications of these findings.",
+  "authors": [
+    {
+      "raw": "Li, Angran",
+      "family": "Li",
+      "given": "Angran"
+    },
+    {
+      "raw": "Cheng, Simon",
+      "family": "Cheng",
+      "given": "Simon"
+    },
+    {
+      "raw": "Vachon, Todd E.",
+      "family": "Vachon",
+      "given": "Todd E."
+    }
+  ],
+  "authors_text": "Li, Angran; Cheng, Simon; Vachon, Todd E.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac001",
+  "doi_url": "https://doi.org/10.1093/sf/soac001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

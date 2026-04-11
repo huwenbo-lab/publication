@@ -1,0 +1,30 @@
+{
+  "title": "Multilevel Modelling of Country Effects: A Cautionary Tale",
+  "abstract": "Country effects on outcomes for individuals are often analysed using multilevel (hierarchical) models applied to harmonized multi-country data sets such as ESS, EU-SILC, EVS, ISSP, and SHARE. We point out problems with the assessment of country effects that appear not to be widely appreciated, and develop our arguments using Monte Carlo simulation analysis of multilevel linear and logit models. With large sample sizes of individuals within each country but only a small number of countries, analysts can reliably estimate individual-level effects but estimates of parameters summarizing country effects are likely to be unreliable. Multilevel modelling methods are no panacea.",
+  "authors": [
+    {
+      "raw": "Bryan, Mark L.",
+      "family": "Bryan",
+      "given": "Mark L."
+    },
+    {
+      "raw": "Jenkins, Stephen P.",
+      "family": "Jenkins",
+      "given": "Stephen P."
+    }
+  ],
+  "authors_text": "Bryan, Mark L.; Jenkins, Stephen P.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcv059",
+  "doi_url": "https://doi.org/10.1093/esr/jcv059",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv059",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv059.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Union dissolution and children's educational achievement: separating effects of school and non-school environments*",
+  "abstract": "We study whether the educational disadvantage of children from households where parents have dissolved their union is due to selection or deteriorating non-school environments and whether exposure to school environments compensates or exacerbates such disadvantage. We apply a differential exposure approach (DEA) to Danish population data collecting public-school reading comprehension tests. The approach exploits variation in children's birth dates and test administration dates to decompose children's learning as the product of joint exposure to school and non-school environments. We find that children experiencing parental separation have 5-7 per cent lower test scores, with lower learning returns to non-school environments, and diminishing learning outcomes proportional to time spent in separated households. Critically, school appears to neither mitigate nor exacerbate these achievement gaps, suggesting that degrading of non-school environment post-separation primarily impacts children's learning.",
+  "authors": [
+    {
+      "raw": "Fallesen, Peter",
+      "family": "Fallesen",
+      "given": "Peter"
+    },
+    {
+      "raw": "Passaretta, Giampiero",
+      "family": "Passaretta",
+      "given": "Giampiero"
+    },
+    {
+      "raw": "Jensen, Simon Skovgaard",
+      "family": "Jensen",
+      "given": "Simon Skovgaard"
+    }
+  ],
+  "authors_text": "Fallesen, Peter; Passaretta, Giampiero; Jensen, Simon Skovgaard",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf026",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf026",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf026",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf026.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Impact of Complex Family Structure on Child Well-being: Evidence From Siblings",
+  "abstract": "Evidence from the United Kingdom Millennium Cohort on children at ages 3 and 5 with older siblings addresses the questions of whether those living with both biological parents and only full siblings have better emotional and behavior outcomes than other children, and whether nonfull siblings affect children's outcomes independently of parents' partnership status. Adjusting for measured family circumstances and resources in cross-sectional regressions accounted for much of the adverse association of family complexity with child outcomes. Controlling for unobserved family and child fixed effects did not, however, attenuate all estimates further. Fixed unobservable factors appeared to be masking underlying associations. Allowing for them intensified some, albeit modest, estimates. These revealed excess externalizing behavior problems for boys with single or stepparents but only full siblings. For girls with single mothers, the chances of internalizing problems were raised. Whether siblings were full or not made little difference to outcomes in general.",
+  "authors": [
+    {
+      "raw": "Mostafa, Tarek",
+      "family": "Mostafa",
+      "given": "Tarek"
+    },
+    {
+      "raw": "Gambaro, Ludovica",
+      "family": "Gambaro",
+      "given": "Ludovica"
+    },
+    {
+      "raw": "Joshi, Heather",
+      "family": "Joshi",
+      "given": "Heather"
+    }
+  ],
+  "authors_text": "Mostafa, Tarek; Gambaro, Ludovica; Joshi, Heather",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2018,
+  "doi": "10.1111/jomf.12456",
+  "doi_url": "https://doi.org/10.1111/jomf.12456",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12456",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12456.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Diverging patterns of fertility decline in Uruguay",
+  "abstract": "BACKGROUND The total fertility rate (TFR) in Uruguay fell from 2.5 to 1.9 children per woman between 1996 and 2011. However, no study to date has examined the decline of the TFR by observing changes in fertility patterns by birth order. OBJECTIVE The main aim of this study is to analyze recent changes in fertility level and timing of childbearing by birth order in Uruguay. METHODS We estimate unconditional and conditional age-and birth-order-specific fertility rates for 1996-2011 using data from vital statistics, population census, and national population estimates. Additionally, three period summary measures of birth-order-specific fertility quantum are calculated: TFR, PATFR and TFRp*. Timing changes by birth order are examined with MAB and TMAB, focusing on MAB1 and its standard deviation and comparing their evolutions in Uruguay with those of selected countries. RESULTS Fertility decline fits a parity-specific stopping model with a moderate increase in the mean ages of first, second, and third births. The distribution of conditional fertility rates for first and second births depicts an asymmetric bimodal shape linked to the increasing heterogeneity of the timing of childbearing. Compared to countries with similar fertility trends, heterogeneity in the age at first birth in Uruguay is remarkably high. CONCLUSIONS Previous studies suggest that heterogeneity in first and second birth timing is related to structural social inequalities, as women from lower social strata have not significantly changed the age at which they bear a first child, whereas women of middle to high social strata have started to postpone it. The new evidence reinforces the idea that postponement transition in Uruguay cannot be studied without considering this consolidation of social status polarization in fertility timing.",
+  "authors": [
+    {
+      "raw": "Nathan, Mathias",
+      "family": "Nathan",
+      "given": "Mathias"
+    },
+    {
+      "raw": "Pardo, Ignacio",
+      "family": "Pardo",
+      "given": "Ignacio"
+    },
+    {
+      "raw": "Cabella, Wanda",
+      "family": "Cabella",
+      "given": "Wanda"
+    }
+  ],
+  "authors_text": "Nathan, Mathias; Pardo, Ignacio; Cabella, Wanda",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.20",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

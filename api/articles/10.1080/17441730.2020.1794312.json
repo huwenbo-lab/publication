@@ -1,0 +1,30 @@
+{
+  "title": "The effect of delaying school start time on adolescents’ time use and health: evidence from a policy change in South Korea",
+  "abstract": "This paper examines how delaying school start time to 9 o’clock affected the time use and health of secondary-school students in South Korea. To identify the causal effects of delaying school start time, we used a difference-in-differences methodology with two nationally representative datasets to take advantage of a unique natural experiment in South Korea. We found that the policy led students to sleep 16.1 min more on weekdays and 7.6 min less a day over the weekend, increasing sleep satisfaction among the affected students. Furthermore, the policy contributed to increased growth and improved mental health. However, the effects of the policy were not uniform across subgroups. In terms of time use, students from the highest socioeconomic group increased their sleep duration most. In contrast, students from the middle and lowest socioeconomic categories increased their use of electronic devices and decreased their study time compared to students from the highest socioeconomic group. We provide evidence that these behavioural differences by socioeconomic group could be related to the degree of parental monitoring and available economic resources.",
+  "authors": [
+    {
+      "raw": "Yang, Dongkyu",
+      "family": "Yang",
+      "given": "Dongkyu"
+    },
+    {
+      "raw": "Choi, Jaesung",
+      "family": "Choi",
+      "given": "Jaesung"
+    }
+  ],
+  "authors_text": "Yang, Dongkyu; Choi, Jaesung",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2020,
+  "doi": "10.1080/17441730.2020.1794312",
+  "doi_url": "https://doi.org/10.1080/17441730.2020.1794312",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2020.1794312",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2020.1794312.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

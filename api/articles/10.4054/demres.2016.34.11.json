@@ -1,0 +1,35 @@
+{
+  "title": "Reliability of retrospective event histories within the German Generations and Gender Survey: The role of interviewer and survey design factors",
+  "abstract": "BACKGROUND In order to explain demographic phenomena, the Generations and Gender Survey covers a wide variety of demographic topics. Such a survey requires elaborate survey design and implementation. Previous research has shown problems with the complex parts of retrospective fertility data and retrospective partnership data in the German GGS. Until now, no satisfying explanations have been given for these distortions. OBJECTIVE In this paper we investigate if the distortions in the German GGS can be explained by questionnaire design factors or by survey implementation, with special regard to rational behaviour of the interviewers and interviewees. METHODS Using the fertility and partnership histories in the first wave of the German GGS of 2005, we checked for fatigue and learning effects, resulting in avoidance strategies concerning follow-up questions for respondents as well as for interviewers. Furthermore, we included extensive interviewer controls. RESULTS Results suggest that distortions in the German GGS are related to interviewers and interviewees. We found indicators of learning effects of respondents, which lead to a shortening of interviews and to more biased survey responses to screening questions in later sections of the survey. We also found strong hints that interviewers learned how to shorten interviews. CONCLUSIONS The analysis provides insights into the distortions of the retrospective parts of the German GGS and their causes. On the one hand, researchers may use this information to decide how to deal with the German GGS and especially the information on cohorts 1955 and older. On the other hand, our findings lead to several suggestions concerning the survey design and implementation of future large-scale demographic surveys.",
+  "authors": [
+    {
+      "raw": "Ruckdeschel, Kerstin",
+      "family": "Ruckdeschel",
+      "given": "Kerstin"
+    },
+    {
+      "raw": "Sauer, Lenore",
+      "family": "Sauer",
+      "given": "Lenore"
+    },
+    {
+      "raw": "Naderi, Robert",
+      "family": "Naderi",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Ruckdeschel, Kerstin; Sauer, Lenore; Naderi, Robert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.11",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

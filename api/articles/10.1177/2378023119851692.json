@@ -1,0 +1,30 @@
+{
+  "title": "Trends in U.S. Gender Attitudes, 1977 to 2018: Gender and Educational Disparities",
+  "abstract": "These figures display gender- and education-related gaps in U.S. gender attitudes from 1977 to 2018. The authors use data from the General Social Survey ( N = 57,224) to estimate the historical trajectory of U.S. attitudes about women in politics, familial roles, and working motherhood. Of all attitudes analyzed, Americans hold the most liberal attitudes toward women in politics, with no gender gap and little educational difference on this issue. Attitudes toward familial roles have the largest educational gap but a small gender difference. The gender gap in attitudes toward working motherhood has persisted over time, with women holding more egalitarian attitudes than men. The educational disparity on this issue disappeared during the mid-1990s “stalled gender revolution” but has widened since. Although the “stall” occurred among all gender and educational groups on all four gender attitude measures, the decline was starkest among the college educated regarding working motherhood.",
+  "authors": [
+    {
+      "raw": "Meagher, Kelsey D.",
+      "family": "Meagher",
+      "given": "Kelsey D."
+    },
+    {
+      "raw": "Shu, Xiaoling",
+      "family": "Shu",
+      "given": "Xiaoling"
+    }
+  ],
+  "authors_text": "Meagher, Kelsey D.; Shu, Xiaoling",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119851692",
+  "doi_url": "https://doi.org/10.1177/2378023119851692",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119851692",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119851692.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

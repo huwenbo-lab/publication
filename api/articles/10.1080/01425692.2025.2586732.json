@@ -1,0 +1,40 @@
+{
+  "title": "Re-authorising colonialism or re-authorising indigenous perspectives: the risks of generative AI in indigenous education contexts",
+  "abstract": "Australian teachers are required to incorporate Indigenous perspectives and contexts in a culturally responsive manner at a time when many lack confidence to do so. Generative AI platforms promise efficient access to knowledge forms that seem convincing, but that decontextualise knowledge, obscure provenance, reconstruct and fabricate results in ways that undermine teachers who seek to engage with Indigenous Knowledges and resources. We adapted the 'app walkthrough' method to interrogate two popular text-based GenAI platforms using prompts that teachers might use. We then drew on Indigenist Standpoint Pedagogy and existing standards for engaging Indigenous Knowledges to prompt and evaluate the platforms' outputs. Guiding our interaction was a three-tiered 'prompt-ography' with sophistication ranging from a simple information request to complex questioning. The results indicated serious risk: ignorance of protocols core to cultural knowledge and engagement. This risk, combined with 'doubling down' on errors, perpetuate colonial power dynamics and undo work to improve Indigenous education. From this analysis we ask: what do teachers need to know when engaging with GenAI platforms for these purposes, and what kinds of digital literacies and cultural competencies do they need when working with GenAI outputs?",
+  "authors": [
+    {
+      "raw": "Alterator, Scott",
+      "family": "Alterator",
+      "given": "Scott"
+    },
+    {
+      "raw": "Maddox, Alexia",
+      "family": "Maddox",
+      "given": "Alexia"
+    },
+    {
+      "raw": "Southerton, Clare",
+      "family": "Southerton",
+      "given": "Clare"
+    },
+    {
+      "raw": "Schutt, Stefan",
+      "family": "Schutt",
+      "given": "Stefan"
+    }
+  ],
+  "authors_text": "Alterator, Scott; Maddox, Alexia; Southerton, Clare; Schutt, Stefan",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2025,
+  "doi": "10.1080/01425692.2025.2586732",
+  "doi_url": "https://doi.org/10.1080/01425692.2025.2586732",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2025.2586732",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2025.2586732.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "It Is Surprisingly Difficult to Measure Income Segregation",
+  "abstract": "Recent stud ies have shown that U.S. Census- and Amer i can Community Survey (ACS)-based esti ma tes of income seg re ga tion are sub ject to upward finite sam- pling bias (Logan et al. 2018; Logan et al. 2020; Reardon et al. 2018). We iden tify two addi tional sources of bias that are larger and oppo site in sign to finite sam pling bias: mea sure ment error-induced atten u a tion bias and tem po ral pooling bias. The com bi na- tion of these three sources of bias make it unclear how income seg re ga tion has trended. We for mal ize the three types of bias, pro vid ing a method to cor rect them simul ta neously using pub lic data from the decen nial cen sus and ACS from 1990 to 2015-2019. We use these meth ods to pro duce bias -corrected esti ma tes of income seg re ga tion in the United States from 1990 to 2019. We find that (1) seg re ga tion is on the order of 50% greater than pre vi ously believed; (2) the increase from 2000 to the 2005-2009 period was much greater than indi cated by pre vi ous esti ma tes; and (3) seg re ga tion has declined since 2005-2009. Correcting these biases requires good esti ma tes of the reli abil ity of self -reported income and of the year-to-year vol a til ity in neigh bor hood mean incomes.",
+  "authors": [
+    {
+      "raw": "Leung-Gagne, Josh",
+      "family": "Leung-Gagne",
+      "given": "Josh"
+    },
+    {
+      "raw": "Reardon, Sean F.",
+      "family": "Reardon",
+      "given": "Sean F."
+    }
+  ],
+  "authors_text": "Leung-Gagne, Josh; Reardon, Sean F.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10932629",
+  "doi_url": "https://doi.org/10.1215/00703370-10932629",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10932629",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10932629.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Immigrant-based Disparities in Mental Health Care Utilization",
+  "abstract": "Studies of immigrant-based disparities in mental health care have been limited by small sample sizes and a lack of measures of different dimensions of acculturation. This study draws on the National Epidemiological Survey on Alcohol and Related Conditions to address these limitations. Results indicate first-generation immigrants have lower rates of utilization for both mood and anxiety disorders. Nativity-based disparities in treatment are particularly notable among people from African and Hispanic origins, while there is little evidence of disparities among people from European origins. Of three dimensions of acculturation, only the identity dimension has a positive association with mental health care utilization.",
+  "authors": [
+    {
+      "raw": "Bauldry, Shawn",
+      "family": "Bauldry",
+      "given": "Shawn"
+    },
+    {
+      "raw": "Szaflarski, Magdalena",
+      "family": "Szaflarski",
+      "given": "Magdalena"
+    }
+  ],
+  "authors_text": "Bauldry, Shawn; Szaflarski, Magdalena",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2017,
+  "doi": "10.1177/2378023116685718",
+  "doi_url": "https://doi.org/10.1177/2378023116685718",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023116685718",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023116685718.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

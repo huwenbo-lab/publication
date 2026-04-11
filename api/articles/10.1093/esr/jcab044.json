@@ -1,0 +1,40 @@
+{
+  "title": "Refugees' Transition from Welfare to Work: A Quasi-Experimental Approach of the Impact of the Neighbourhood Context",
+  "abstract": "This study analyses the impact of the neighbourhood context on the likelihood that refugees move from social assistance to paid employment. It makes use of Dutch policy that resulted in an exogenous placement of refugees in their first regular housing. This natural quasi-experiment allows us to estimate intent-to-treat effects of initial neighbourhood characteristics on the likelihood of transitioning from welfare to work. We consider the impact of the employment share and the median level of income among natives and co-ethnics, using Dutch longitudinal administrative data and discrete time event-history modelling. Our findings indicate that refugees are more likely to enter the labour market when the neighbourhood's employment share among natives is higher. A similar effect for employment among co-ethnics is not found. There is also no evidence that the placement of refugees in an area with a higher median income among co-ethnics or natives facilitates the transition from welfare to work.",
+  "authors": [
+    {
+      "raw": "Kristiansen, Marcus H.",
+      "family": "Kristiansen",
+      "given": "Marcus H."
+    },
+    {
+      "raw": "Maas, Ineke",
+      "family": "Maas",
+      "given": "Ineke"
+    },
+    {
+      "raw": "Boschman, Sanne",
+      "family": "Boschman",
+      "given": "Sanne"
+    },
+    {
+      "raw": "Vrooman, J. Cok",
+      "family": "Vrooman",
+      "given": "J. Cok"
+    }
+  ],
+  "authors_text": "Kristiansen, Marcus H.; Maas, Ineke; Boschman, Sanne; Vrooman, J. Cok",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab044",
+  "doi_url": "https://doi.org/10.1093/esr/jcab044",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab044",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab044.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Why Do Working-Class Kids Do Worse in School? An Empirical Test of Two Theories of Educational Disadvantage",
+  "abstract": "There are a large number of studies which show social class differentials in educational test scores and results from an early age. Cultural explanations based on working-class 'resistance' to learning activities or class differences in 'cultural capital' are often put forward to explain differentials in educational test scores. In this article we first discuss why these processes cannot account for the pattern of class differences, given the empirical patterns observed before setting out and then testing two alternative theories that purport to explain class differences in educational performance: the family investment model (FIM) and the family stress model (FSM). Empirical expectations from these theories are defined and then tested using data from four waves of the Millennium Cohort Study, a nationally representative sample of children from the United Kingdom. Structural equation models with mediation are used to quantify the direct and indirect effects of social class acting via cognitive ability and child psychological adjustment. Our models account for between 81 and 93 per cent of the effect of social class on teacher assessments of child educational performance. Approximately two-thirds of the effect of social class on educational performance at age 7 years are mediated by differential child cognitive ability and 15 per cent by psychological adjustment. The mechanisms in the FIM and FSM models strongly interact suggesting that a hybrid model may be more useful. Processes central to the FSM but acting through the child's cognitive ability are key in determining educational differentials across social class groups.",
+  "authors": [
+    {
+      "raw": "Layte, Richard",
+      "family": "Layte",
+      "given": "Richard"
+    }
+  ],
+  "authors_text": "Layte, Richard",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcx054",
+  "doi_url": "https://doi.org/10.1093/esr/jcx054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

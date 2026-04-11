@@ -1,0 +1,30 @@
+{
+  "title": "The Dynamics of Son Preference, Technology Diffusion, and Fertility Decline Underlying Distorted Sex Ratios at Birth: A Simulation Approach",
+  "abstract": "We present a micro-founded simulation model that formalizes the ready, willing, and able framework, originally used to explain historical fertility decline, to the practice of prenatal sex selection. The model generates sex ratio at birth (SRB) distortions from the bottom up and attempts to quantify plausible levels, trends, and interactions of son preference, technology diffusion, and fertility decline that underpin SRB trajectories at the macro level. Calibrating our model for South Korea, we show how even as the proportion with a preference for sons was declining, SRB distortions emerged due to rapid diffusion of prenatal sex determination technology combined with small but growing propensities to abort at low birth parities. Simulations reveal that relatively low levels of son preference (about 20 % to 30 % wanting one son) can result in skewed SRB levels if technology diffuses early and steadily, and if fertility falls rapidly to encourage sex-selective abortion at low parities. Model sensitivity analysis highlights how the shape of sex ratio trajectories is particularly sensitive to the timing and speed of prenatal sex-determination technology diffusion. The maximum SRB levels reached in a population are influenced by how the readiness to abort rises as a function of the fertility decline.",
+  "authors": [
+    {
+      "raw": "Kashyap, Ridhi",
+      "family": "Kashyap",
+      "given": "Ridhi"
+    },
+    {
+      "raw": "Villavicencio, Francisco",
+      "family": "Villavicencio",
+      "given": "Francisco"
+    }
+  ],
+  "authors_text": "Kashyap, Ridhi; Villavicencio, Francisco",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0500-z",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0500-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0500-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0500-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

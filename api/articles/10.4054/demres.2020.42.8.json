@@ -1,0 +1,25 @@
+{
+  "title": "Urban-rural differentials in Latin American infant mortality",
+  "abstract": "BACKGROUND Infant mortality in Latin America has declined dramatically over the past six decades. The health transition in the region began in the main cities and has tended to proceed more rapidly in countries with higher levels of urbanization. Although urban-rural mortality differentials have consistently favoured cities, these gaps vary significantly across countries, subpopulations, and geographical areas. OBJECTIVE I aim to analyse, first, urban-rural infant mortality trends in seven Latin American countries during the period 1980 to 2010 and, second, whether or not an urban penalty has emerged in the region. METHODS I estimate IMR by distinguishing urban-rural areas and cities according to their size. Yearly rates are produced using a semi-parametric regression model. The model summarizes and predicts IMR trends based on: (1) indirect estimation methods used on 19 censuses conducted in 1990, 2000, and 2010; (2) vital statistics data; and (3) official estimates. RESULTS A convergence of urban-rural IMR is found in most of the countries due to a period of accelerated improvements in lagging subpopulations. The subpopulation differential increases in relative terms only for Brazil and Colombia. CONCLUSION There is no evidence that an urban penalty exists in Latin American infant mortality. By analysing cities according to their size, it is possible to see that improvements have followed the urbanization process, with not only urban areas but the main cities retaining the greatest advantages in infant mortality decline. CONTRIBUTION I have demonstrated the benefits of analysing the urban-rural gap through a continuum approach (by grouping cities according to size) to track the path of urban advantages in Latin American infant mortality.",
+  "authors": [
+    {
+      "raw": "Garcia, Jenny",
+      "family": "Garcia",
+      "given": "Jenny"
+    }
+  ],
+  "authors_text": "Garcia, Jenny",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.8",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Couples’ Money Arrangements in Germany: Visualizing Cohort, Age Group, and Partnership Type Variations",
+  "abstract": "This visualization illustrates patterns of income pooling among German couples using longitudinal data from the German Family Panel (pairfam), examining variations across cohorts born in the 1970s, 1980s, and 1990s and among different partnership types. The findings reveal that marriage is much more strongly associated with income pooling than cohabitation or living-apart-together arrangements. A generational shift is evident: Younger cohorts are less likely to pool finances, even within marriage. The visualization suggests increasing financial independence in intimate relationships over cohorts, reflecting broader societal shifts toward individualism.",
+  "authors": [
+    {
+      "raw": "Raab, Marcel",
+      "family": "Raab",
+      "given": "Marcel"
+    },
+    {
+      "raw": "Schulz, Florian",
+      "family": "Schulz",
+      "given": "Florian"
+    }
+  ],
+  "authors_text": "Raab, Marcel; Schulz, Florian",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241301458",
+  "doi_url": "https://doi.org/10.1177/23780231241301458",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241301458",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241301458.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

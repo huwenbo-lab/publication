@@ -1,0 +1,40 @@
+{
+  "title": "Let's Stick Together: Peer Effects in Secondary School Choice and Variations by Student Socio-Economic Background",
+  "abstract": "Despite the vast body of research focusing on peer effects in education, the role of the immediate peer environment in school choice has been understudied to date. We study the extent to which students from the same primary school cluster in the same secondary school, and how this effect varies by a student's socio-economic background. We use register data from the Netherlands, covering six cohorts of students (2013-2019), that enable us to account for selection into primary schools and other endogeneity issues when identifying peer effects. The results indicate that students are more likely to choose a secondary school when students from their primary school cohort also choose this school, even after accounting for school popularity trends. We find evidence that students from socially disadvantaged backgrounds are more likely to cluster in the same secondary school as their primary school peers, yet these differences are small.",
+  "authors": [
+    {
+      "raw": "Zwier, Dieuwke",
+      "family": "Zwier",
+      "given": "Dieuwke"
+    },
+    {
+      "raw": "Geven, Sara",
+      "family": "Geven",
+      "given": "Sara"
+    },
+    {
+      "raw": "Bol, Thijs",
+      "family": "Bol",
+      "given": "Thijs"
+    },
+    {
+      "raw": "van de Werfhorst, Herman G.",
+      "family": "van de Werfhorst",
+      "given": "Herman G."
+    }
+  ],
+  "authors_text": "Zwier, Dieuwke; Geven, Sara; Bol, Thijs; van de Werfhorst, Herman G.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac033",
+  "doi_url": "https://doi.org/10.1093/esr/jcac033",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac033",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac033.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

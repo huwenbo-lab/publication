@@ -1,0 +1,25 @@
+{
+  "title": "Economic Inequality and Child Stunting in Bangladesh and Kenya: An Investigation of Six Hypotheses",
+  "abstract": "Consistent with the increasing focus on issues of equity in developing countries, I extend the literature analyzing the relationship between economic inequality and individual health to the developing world. Using survey data from Bangladesh and Kenya with economic status measured by a wealth index and with three different geographic definitions of community, I analyze six competing hypotheses for how economic inequality may be related to stunting among children younger than 5 years old. I find little support for the predominant hypothesis that economic inequality as measured by a Gini index is an important predictor of individual health. Instead, I find that the difference between a household's wealth and the mean household wealth in the community is the measure of economic inequality that is most closely related to stunting in these countries. In particular, a 1 standard deviation increase in household wealth relative to the community mean is associated with a 3032 percent decrease in the odds of stunting in Bangladesh and a 1621 percent decrease in the odds of stunting in Kenya.",
+  "authors": [
+    {
+      "raw": "Reinbold, Gary W.",
+      "family": "Reinbold",
+      "given": "Gary W."
+    }
+  ],
+  "authors_text": "Reinbold, Gary W.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2011,
+  "doi": "10.1111/j.1728-4457.2011.00453.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2011.00453.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2011.00453.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2011.00453.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

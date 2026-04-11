@@ -1,0 +1,35 @@
+{
+  "title": "Mobile phones, digital inequality, and fertility: Longitudinal evidence from Malawi",
+  "abstract": "BACKGROUND In this paper, we introduce the digital revolution as a potential ingredient of sub-Saharan Africa's fertility transition. OBJECTIVE We focus on the relationship between mobile phone ownership and childbearing in southern Malawi, showing that mobile phone acquisition is associated with reductions in ideal family size and lower overall parity among phone-owning women compared to their phone-less counterparts. METHODS We use nine waves of data from the Tsogolo la Thanzi (TLT) longitudinal study conducted in Balaka, Malawi, between 2009 and 2015. RESULTS Fixed-effects panel data models shows that mobile phone ownership is associated with smaller ideal family size and lower parity during the study period. Cox proportional hazard models suggest that mobile phones are not fundamentally associated with the timing of women's first steps in family formation but rather with fertility trajectories on a longer time-horizon through child spacing. Furthermore, complementary cross-sectional analyses from a later survey round suggest that mobile phone ownership is associated with fertility through role modeling, preference change, and access to information. CONCLUSIONS Mobile phone ownership is associated with fertility via role modeling, preference change, and access to information rather than through substitution effects. CONTRIBUTION Bridging the digital divide may hasten the fertility transition in sub-Saharan Africa.",
+  "authors": [
+    {
+      "raw": "Billari, Francesco C.",
+      "family": "Billari",
+      "given": "Francesco C."
+    },
+    {
+      "raw": "Rotondi, Valentina",
+      "family": "Rotondi",
+      "given": "Valentina"
+    },
+    {
+      "raw": "Trinitapoli, Jenny",
+      "family": "Trinitapoli",
+      "given": "Jenny"
+    }
+  ],
+  "authors_text": "Billari, Francesco C.; Rotondi, Valentina; Trinitapoli, Jenny",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.37",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.37",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.37",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.37.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

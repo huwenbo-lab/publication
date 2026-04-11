@@ -1,0 +1,30 @@
+{
+  "title": "Lifetime reproduction and the second demographic transition: Stochasticity and individual variation",
+  "abstract": "BACKGROUND In the last half of the previous century many developed countries went through a period of decreasing fertility rates, referred to as the second demographic transition. This transition is often measured using the Total Fertility Rate (TFR), which gives the mean number of children produced by a woman surviving through her reproductive years. The TFR ignores effects of mortality and, as a mean, provides no information on variability among individuals in lifetime reproduction. OBJECTIVE Our goal is to quantify the statistics (mean, variance, standard deviation, coefficient of variation, and skewness) during the second demographic transition. We compare these statistical properties as functions of age, time, and developmental indices. METHODS We used Markov chains with rewards to compute the moments of lifetime reproductive output (LRO) based on age-specific mortality and fertility rates for 40 developed countries, two hunter-gatherer populations and a group of North-American Hutterites. The analysis uses a Markov chain to model individual survival, and treats reproduction as a Bernoulli-distributed reward with probability equal to the age-specific fertility. RESULTS All statistical properties of lifetime reproduction changed during the transition. The mean and standard deviation of LRO declined, and the coefficient of variation and skewness increased. By 2000, these statistics were tightly correlated across countries, suggesting that the entire distribution of LRO shifted, not just the mean. CONCLUSIONS We find that developed countries adhere to a seemingly universal distribution in LRO, during and after the second demographic transition. This distribution becomes more apparent when development improves health circumstances and decreases mortality.",
+  "authors": [
+    {
+      "raw": "van Daalen, Silke",
+      "family": "van Daalen",
+      "given": "Silke"
+    },
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    }
+  ],
+  "authors_text": "van Daalen, Silke; Caswell, Hal",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.20",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

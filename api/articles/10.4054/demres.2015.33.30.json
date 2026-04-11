@@ -1,0 +1,45 @@
+{
+  "title": "Socio-economic determinants of divorce in Lithuania: Evidence from register-based census-linked data",
+  "abstract": "BACKGROUND Most existing evidence on the socio-economic predictors of divorce in developed countries comes from the USA and from Western and Northern Europe. This study contributes to the scarce literature about socio-economic determinants of divorce in Central and Eastern Europe by examining the case of Lithuania. OBJECTIVE The study explores how the levels of educational attainment and economic activity, as well as the interactions of these two variables, influence the risk of first divorce both in the entire population of Lithuania and in its urban and rural sub-populations. METHODS The study uses a census-linked dataset connecting all records from the 2001 census and all first divorce records between the census and December 2003. The impact of education and employment status on the risk of divorce was estimated by applying Poisson regression models. RESULTS Lower education is related to elevated risks of divorce only in large cities: in rural areas the relationship is inverted. For both urban and rural males, being out of the labor market destabilizes marriage and significantly increases the risk of marital disruption. This pattern was also found for males residing in large cities, regardless of their education. As expected, a lower divorce risk is observed among both urban and rural housewives and other inactive urban females. Unemployment and disability-related inactivity is associated with higher divorce probabilities among rural females. CONCLUSION The study finds evidence of individual socio-economic recourses having substantial differentiating effects on first divorce risk in Lithuania. The direction and size of these effects vary notably by sex and place of residence. This suggests that divorce determinants are complex in post-transitional societies in the region.",
+  "authors": [
+    {
+      "raw": "Maslauskaite, Ausra",
+      "family": "Maslauskaite",
+      "given": "Ausra"
+    },
+    {
+      "raw": "Jasilioniene, Aiva",
+      "family": "Jasilioniene",
+      "given": "Aiva"
+    },
+    {
+      "raw": "Jasilionis, Domantas",
+      "family": "Jasilionis",
+      "given": "Domantas"
+    },
+    {
+      "raw": "Stankuniene, Vlada",
+      "family": "Stankuniene",
+      "given": "Vlada"
+    },
+    {
+      "raw": "Shkolnikov, Vladimir M.",
+      "family": "Shkolnikov",
+      "given": "Vladimir M."
+    }
+  ],
+  "authors_text": "Maslauskaite, Ausra; Jasilioniene, Aiva; Jasilionis, Domantas; Stankuniene, Vlada; Shkolnikov, Vladimir M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.30",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

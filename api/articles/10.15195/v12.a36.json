@@ -1,0 +1,30 @@
+{
+  "title": "How Robust Are Country Rankings in Educational Mobility?",
+  "abstract": "We investigate the impact of analytical choices on country comparisons in intergenerational educational mobility using a multiverse approach. A literature survey gives rise to 2,880 plausible ways of measuring educational mobility, which we apply to European Social Survey data from 16 countries. Although some countries consistently appear at the top or bottom of the mobility rankings, most show substantial variation. Beyond our methodological contribution, we report two substantive findings. First, some countries often characterized as low-mobility emerge as matching or surpassing the egalitarian Nordic countries, reinforcing the view that wider mobility differences cannot be attributed solely to the education system but must be sought elsewhere, such as the labor market. Second, the choice of parameter—such as regression coefficients, correlations, or categorical measures—is the single most influential factor that shifts country rankings. As different parameters carry distinct theoretical meanings, researchers should treat parameter choice not merely as a robustness check but as an opportunity to test and refine competing theories.",
+  "authors": [
+    {
+      "raw": "Strömberg, Ely",
+      "family": "Strömberg",
+      "given": "Ely"
+    },
+    {
+      "raw": "Engzell, Per",
+      "family": "Engzell",
+      "given": "Per"
+    }
+  ],
+  "authors_text": "Strömberg, Ely; Engzell, Per",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a36",
+  "doi_url": "https://doi.org/10.15195/v12.a36",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a36",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a36.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

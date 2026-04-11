@@ -1,0 +1,35 @@
+{
+  "title": "Minority Population Concentration and Earnings: Evidence From Fixed-Effects Models",
+  "abstract": "onsistent with the hypothesis that heightened visibility and competition lead to greater economic discrimination against minorities, countless studies have observed a negative association between minority population concentration and minority socioeconomic attainment. But minorities who reside in areas with high minority concentration are likely to differ from minorities who reside in areas with few minorities on unobserved characteristics related to economic attainment. Thus, this association may be a product of differential skills, behaviors and networks acquired during childhood or of selective migration. Applying fixed-effects models to a quarter century of panel data from the National Longitudinal Survey of Youth, we find that for Blacks and Latinos the inverse association between minority population concentration and earnings is eliminated when unobserved person-specific characteristics are controlled. The findings suggest that the negative association between Black population size and Blacks' earnings is driven largely by the selection of high-earning Blacks into labor markets with relatively small Black populations. Most of the association between Latino population concentration and earnings is attributable to the level of Latino population concentration experienced during childhood.",
+  "authors": [
+    {
+      "raw": "Johnson, K.",
+      "family": "Johnson",
+      "given": "K."
+    },
+    {
+      "raw": "Pais, J.",
+      "family": "Pais",
+      "given": "J."
+    },
+    {
+      "raw": "South, S. J.",
+      "family": "South",
+      "given": "S. J."
+    }
+  ],
+  "authors_text": "Johnson, K.; Pais, J.; South, S. J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2012,
+  "doi": "10.1093/sf/sos094",
+  "doi_url": "https://doi.org/10.1093/sf/sos094",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsos094",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sos094.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

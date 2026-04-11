@@ -1,0 +1,40 @@
+{
+  "title": "Partner selection patterns in transition: The case of Turkish and Moroccan minorities in Belgium",
+  "abstract": "BACKGROUND The majority of Turkish and Moroccan minorities in Western Europe prefer transnational marriages over local co-ethnic and mixed marriages. Recent studies indicate partner selection patterns might be shifting after remaining unchanged for decades. However, it remains unclear to what extent changes observed in earlier studies have continued to carry on. OBJECTIVE This paper provides a comprehensive insight into the most recent partner selection trends of Turkish and Moroccan minorities in Belgium and assesses whether and to what degree known dynamics related to marriage age and educational attainment may change. METHODS The Belgian National Register data are analyzed, including all Turkish and Moroccan minority members who married between 2005 and 2015 (N = 91,916). After describing the prevalence of three partner types and their trends, multinomial logistic regressions estimate the effect of marriage age and educational attainment on partner choice. RESULTS The prevalence of transnational marriages declines for all minority members. Local co-ethnic marriages mostly absorb this decline, but a strong increase in mixed marriages is also observed. The influence of marriage age and educational attainment on partner choice has changed over the last 15 years. CONCLUSIONS Results reveal a strong decline in transnational marriages, reinforced by stricter immigration policies but initiated by other - possibly attitudinal - mechanisms. Dynamics regarding ethnic endogamy are subject to change as mixed marriages are also increasing among women and the lower educated.",
+  "authors": [
+    {
+      "raw": "Van Pottelberge, Amelie",
+      "family": "Van Pottelberge",
+      "given": "Amelie"
+    },
+    {
+      "raw": "Caestecker, Frank",
+      "family": "Caestecker",
+      "given": "Frank"
+    },
+    {
+      "raw": "Van de Putte, Bart",
+      "family": "Van de Putte",
+      "given": "Bart"
+    },
+    {
+      "raw": "Lievens, John",
+      "family": "Lievens",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Van Pottelberge, Amelie; Caestecker, Frank; Van de Putte, Bart; Lievens, John",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.34",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.34",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.34",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.34.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

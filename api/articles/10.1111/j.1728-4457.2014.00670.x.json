@@ -1,0 +1,25 @@
+{
+  "title": "Trends in Causes of Death in Low-Mortality Countries: Implications for Mortality Projections",
+  "abstract": "This study examines the potential role that information about trends in causes of death could have in improving projections of mortality in low-mortality countries. The article first summarizes overall trends in mortality by cause since the middle of the twentieth century. Special attention is given to the crucial impact of the smoking epidemic on mortality and on cause-of-death patterns. The article then discusses the implications for projections and reaches two conclusions. First, mortality projections can be improved by taking into account the distorting effects of smoking. Mortality attributable to smoking has risen in the past but has now leveled off or declined, thus boosting improvements in life expectancy. Second, making cause-specific projections is not likely to be helpful. Trends in specific medical causes of death have exhibited discontinuities in the past, and future trends are therefore difficult to predict.",
+  "authors": [
+    {
+      "raw": "Bongaarts, John",
+      "family": "Bongaarts",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Bongaarts, John",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2014,
+  "doi": "10.1111/j.1728-4457.2014.00670.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2014.00670.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2014.00670.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2014.00670.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

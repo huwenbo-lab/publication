@@ -1,0 +1,30 @@
+{
+  "title": "An intersectional examination of the opportunity gap in science: A critical quantitative approach to latent class analysis",
+  "abstract": "This study employs a critical quantitative lens to model intersectionality in quantitative analysis and examine how inequities are perpetuated in U.S. schools. Using the U.S. sample from nationally representative PISA 2015 data, Latent Class Analysis was used to identify intersectional student background groups based on indicators of race/ethnicity, social class, immigration background, language spoken at home, and measures of cultural capital associated with cultural reproduction theory. A regression auxiliary model combined with latent class regression was then used to determine if intersectional group membership moderated the relationship between a covariate, gender, and two distal outcomes: sense of belonging to school and opportunity to learn (OTL) inquiry-based science. Differences between intersectional background groups on the two distal outcomes were also examined. The findings from this study reinforced the use of LCA as a promising method for incorporating intersectionality frameworks in quantitative research designs. Six distinct intersectional background classes were identified and findings revealed evidence of a wealth gap between classes of similar affluency based on parent occupational status and education. In addition to this evidence of systemic inequality, significant gender disparities within classes were found for OTL and sense of belonging.",
+  "authors": [
+    {
+      "raw": "Wilson, Alison S. P.",
+      "family": "Wilson",
+      "given": "Alison S. P."
+    },
+    {
+      "raw": "Urick, Angela",
+      "family": "Urick",
+      "given": "Angela"
+    }
+  ],
+  "authors_text": "Wilson, Alison S. P.; Urick, Angela",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102645",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102645",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102645",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102645.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

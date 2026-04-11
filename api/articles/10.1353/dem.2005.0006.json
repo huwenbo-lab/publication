@@ -1,0 +1,25 @@
+{
+  "title": "Remarks on the analysis of causal relationships in population research",
+  "abstract": "Abstract The problem of determining cause and effect is one of the oldest in the social sciences, where laboratory experimentation is generally not possible. This article provides a perspective on the analysis of causal relationships in population research that draws upon recent discussions of this issue in the field of economics. Within economics, thinking about causal estimation has shifted dramatically in the past decade toward a more pessimistic reading of what is possible and a retreat in the ambitiousness of claims of causal determination. In this article, the framework that underlies this conclusion is presented, the central identification problem is discussed in detail, and examples from the field of population research are given. Some of the more important aspects of this framework are related to the problem of the variability of causal effects for different individuals; the relationships among structural forms, reduced forms, and knowledge of mechanisms; the problem of internal versus external validity and the related issue of extrapolation; and the importance of theory and outside evidence.",
+  "authors": [
+    {
+      "raw": "Moffitt, Robert",
+      "family": "Moffitt",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Moffitt, Robert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0006",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

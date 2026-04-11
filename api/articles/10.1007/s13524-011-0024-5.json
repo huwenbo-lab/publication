@@ -1,0 +1,50 @@
+{
+  "title": "Intergenerational Profiles of Socioeconomic (Dis)advantage and Obesity During the Transition to Adulthood",
+  "abstract": "Abstract Investigations of socioeconomic status (SES) and health during the transition to adulthood in the United States are complicated by the later and more varied transitions in residence, employment, schooling, and social roles compared with previous generations. Parental SES is an important influence during adolescence but cannot sufficiently capture the SES of the independent young adult. Typical, single SES indicators based on income or education likely misclassify the SES of young adults who have not yet completed their education or other training, or who have entered the labor force early with ultimately lower status attainment. We use a latent class analysis (LCA) framework to characterize five intergenerational SES groups, combining multidimensional SES information from two time points—that is, adolescent (parental) and young adult (self) SES data. Associations of these groups with obesity, a high-risk health outcome in young adults, revealed nuanced relationships not seen using traditional intergenerational SES measures. In males, for example, a middle-class upbringing in adolescence and continued material advantage into adulthood was associated with nearly as high obesity as a working poor upbringing and early, detrimental transitions. This intergenerational typology of early SES exposure facilitates understanding of SES and health during young adulthood.",
+  "authors": [
+    {
+      "raw": "Scharoun-Lee, Melissa",
+      "family": "Scharoun-Lee",
+      "given": "Melissa"
+    },
+    {
+      "raw": "Gordon-Larsen, Penny",
+      "family": "Gordon-Larsen",
+      "given": "Penny"
+    },
+    {
+      "raw": "Adair, Linda S.",
+      "family": "Adair",
+      "given": "Linda S."
+    },
+    {
+      "raw": "Popkin, Barry M.",
+      "family": "Popkin",
+      "given": "Barry M."
+    },
+    {
+      "raw": "Kaufman, Jay S.",
+      "family": "Kaufman",
+      "given": "Jay S."
+    },
+    {
+      "raw": "Suchindran, Chirayath M.",
+      "family": "Suchindran",
+      "given": "Chirayath M."
+    }
+  ],
+  "authors_text": "Scharoun-Lee, Melissa; Gordon-Larsen, Penny; Adair, Linda S.; Popkin, Barry M.; Kaufman, Jay S.; Suchindran, Chirayath M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0024-5",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0024-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0024-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0024-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

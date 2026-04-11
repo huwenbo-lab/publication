@@ -1,0 +1,30 @@
+{
+  "title": "Pioneer settlement of US immigrants: Characteristics of pioneer migrants and places",
+  "abstract": "BACKGROUND Research on immigrant dispersion to new U.S. destinations has not addressed the question of how place and individual characteristics influence pioneer settlement. While origin-group social networks influence immigrants' settlement choices upon U.S. arrival and secondary destination decisions within the USA, other factors must be important when immigrants move to places where they have no compatriots. OBJECTIVE By examining national origin differences in pioneer migration for ten Asian and Latin American national origin groups, our goal was to determine whether and how they differed in their pioneer settlement responses to economic, demographic, social, and pan-ethnic labor markets conditions. METHODS We used 1990 and 2000 confidential decennial census data because they have sufficient sample cases and geographic detail to study national origin differences. We estimated two types of model for each origin group: a zero-inflated Poisson model that identifies the place characteristics associated with higher pioneer settlement counts in the 1990s and a logistic regression model that identifies the individual characteristics of immigrants who settled pioneer places. RESULTS The major context correlates of pioneer settlement were 1990 population size, the panethnic presence of foreign-born from each group's origin region (Asia or Latin America), and the lack of a significant agricultural presence in the labor force. The logistic models indicated that pioneers were likely to be internal migrants rather than recent immigrants, fluent English speakers, and residents of relatively dispersed places prior to moving to pioneer labor markets. CONCLUSIONS The analyses showed the importance of secondary migration and prior dispersion from gateways for pioneer settlement. They also revealed considerable national origin heterogeneity in pioneer settlement dynamics and indicated that national origin differences merit further attention.",
+  "authors": [
+    {
+      "raw": "Gurak, Douglas T.",
+      "family": "Gurak",
+      "given": "Douglas T."
+    },
+    {
+      "raw": "Kritz, Mary M.",
+      "family": "Kritz",
+      "given": "Mary M."
+    }
+  ],
+  "authors_text": "Gurak, Douglas T.; Kritz, Mary M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.25",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

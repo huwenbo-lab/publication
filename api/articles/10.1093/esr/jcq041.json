@@ -1,0 +1,35 @@
+{
+  "title": "Exploring the Determinants of Civil Participation in 14 European Countries: One-Size-Fits None",
+  "abstract": "The article is concerned with understanding what influences individual participation in\\nvarious kinds of formal organizations and how such explanations differ across various\\nEuropean countries. To this end, we propose an indicator of individual participation\\ndistinguishing between individuals who participate in either social or private formal\\norganizations, or both. We seek to show the main patterns existing in EU countries on the\\nbasis of data from the European Social Survey cross-national surveys. The model used for\\nthe analysis is the Multinomial Logit (mLogit), which compares the probability of\\nmembership in the reference category with the probability of membership in other\\ncategories (Social, Private, and Full Engagement). The result is that EU countries can be\\ngrouped in at least three different clusters, and how participatory habits and factors\\ninfluencing participation are different among these clusters is revealed. Specifically,\\nsubstantial differences exist between the countries in the Northern cluster (Denmark,\\nSweden, and the Netherlands), which sets the upper bound, and the Mediterranean and\\nEastern group (Spain, Italy, Portugal, Greece, and Poland), which occupies the lower bound.\\nThe other countries are more difficult to classify as they have borderline scores ranging\\nbetween the two limits, although they are possibly closer to the Northern group. The\\nexistence of such strong structural differences impedes the application of one-size-fits-all\\npolicies and suggests the need for cooking ad hoc recipes that take on the independent\\nand legitimate role of interpreting social needs and for launching cooperation strategies at\\na territorial level.",
+  "authors": [
+    {
+      "raw": "Mascherini, M.",
+      "family": "Mascherini",
+      "given": "M."
+    },
+    {
+      "raw": "Vidoni, D.",
+      "family": "Vidoni",
+      "given": "D."
+    },
+    {
+      "raw": "Manca, A. R.",
+      "family": "Manca",
+      "given": "A. R."
+    }
+  ],
+  "authors_text": "Mascherini, M.; Vidoni, D.; Manca, A. R.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcq041",
+  "doi_url": "https://doi.org/10.1093/esr/jcq041",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcq041",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcq041.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

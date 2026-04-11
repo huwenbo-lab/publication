@@ -1,0 +1,40 @@
+{
+  "title": "Changes in Smoking Prevalence from Adolescence to Adulthood among Asian Americans: Evidence of Selective Acculturation across Gender",
+  "abstract": "It is well established that immigrant adolescents have lower smoking rates than their native-born counterparts. Although smoking rates among immigrants have been theorized to increase with U.S. acculturation, this hypothesis has seldom been tested using longitudinal data spanning multiple developmental stages. The authors address this limitation using data from the National Longitudinal Study of Adolescent to Adult Health to model age-based smoking trajectories by gender and nativity status among Asian Americans (ages 10–33 years), adjusting for a range of control covariates. Trajectory analyses indicate that the gap between immigrants and natives generally increases as individuals age, but this process varies by gender, with immigrant women exhibiting a significantly less steep smoking growth trajectory ( b = −.011, p < .001) compared with native-born men (and all other nativity-gender combinations), whereas immigrant men show no significant smoking trajectory slope difference compared with native men. In summary, results suggest a gendered acculturation process for smoking behavior among Asian Americans.",
+  "authors": [
+    {
+      "raw": "Ahmmad, Zobayer",
+      "family": "Ahmmad",
+      "given": "Zobayer"
+    },
+    {
+      "raw": "Korinek, Kim",
+      "family": "Korinek",
+      "given": "Kim"
+    },
+    {
+      "raw": "Wen, Ming",
+      "family": "Wen",
+      "given": "Ming"
+    },
+    {
+      "raw": "Adkins, Daniel E.",
+      "family": "Adkins",
+      "given": "Daniel E."
+    }
+  ],
+  "authors_text": "Ahmmad, Zobayer; Korinek, Kim; Wen, Ming; Adkins, Daniel E.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231221148154",
+  "doi_url": "https://doi.org/10.1177/23780231221148154",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221148154",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221148154.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

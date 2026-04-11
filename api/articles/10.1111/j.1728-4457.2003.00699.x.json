@@ -1,0 +1,35 @@
+{
+  "title": "Long-term population decline in Europe: The relative importance of tempo effects and generational length",
+  "abstract": "It has recently been suggested that an end to further increases in the mean age of childbearing in Europe (ending the negative tempo effect on fertility) would have a substantial effect on population dynamics in terms of slowing population aging and decline and weakening the negative momentum affecting population size over the coming decades. On the other hand, stable population theory suggests that under subreplacement fertility conditions, a longer mean length of generations implies slower shrinking, and thus a relatively larger population in the very long run. This note compares the relative importance of the two effects analytically and with data for the 15-country European Union. It also considers whether an increase in the mean age of childbearing will decrease the quantum of fertility. This question is highly relevant in the context of the effects of possible policies aiming to influence the tempo of fertility rather than the quantum directly. The results show that for the coming 200 years the effect of tempo changes clearly dominates, with the effect of a shorter mean length of generation only becoming visible thereafter. Even small tempo-quantum interactions can overwhelm the generation-length effect.",
+  "authors": [
+    {
+      "raw": "Goldstein, J",
+      "family": "Goldstein",
+      "given": "J"
+    },
+    {
+      "raw": "Lutz, W",
+      "family": "Lutz",
+      "given": "W"
+    },
+    {
+      "raw": "Scherbov, S",
+      "family": "Scherbov",
+      "given": "S"
+    }
+  ],
+  "authors_text": "Goldstein, J; Lutz, W; Scherbov, S",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2003,
+  "doi": "10.1111/j.1728-4457.2003.00699.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2003.00699.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2003.00699.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2003.00699.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

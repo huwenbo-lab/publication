@@ -1,0 +1,30 @@
+{
+  "title": "Spatial inequality in China’s secondary education: a demographic perspective",
+  "abstract": "China aims to improve its human capital and labour productivity to offset the challenges of a declining labour force resulting from low fertility and rapid aging. However, the spatial inequality in secondary education is less understood quantitatively. This study aims to quantify and understand the inequality in education at the sub-national level by integrating data from various sources. We found that China is yet to universalise upper secondary education mainly due to spatial inequality in the educational process, despite the declining size of younger cohorts lowering the demand. We found larger dropout ratios among vocational school students in less developed regions that might be due to concerns about educational quality and employment prospects. We concluded that the central government could increase the investment and devise policies, such as lowering hukou restriction, to increase enrolment and reduce dropouts in less developed areas. Also, data availability on age-specific enrolment, dropouts, and internal migration will allow a better estimation of spatial inequality.",
+  "authors": [
+    {
+      "raw": "Wu, Yingji",
+      "family": "Wu",
+      "given": "Yingji"
+    },
+    {
+      "raw": "KC, Samir",
+      "family": "KC",
+      "given": "Samir"
+    }
+  ],
+  "authors_text": "Wu, Yingji; KC, Samir",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2022,
+  "doi": "10.1080/17441730.2021.2016126",
+  "doi_url": "https://doi.org/10.1080/17441730.2021.2016126",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2021.2016126",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2021.2016126.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

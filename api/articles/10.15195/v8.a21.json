@@ -1,0 +1,30 @@
+{
+  "title": "The Rise of the Nones across the United States, 1973 to 2018: State-Level Trends of Religious Affiliation and Participation in the General Social Survey",
+  "abstract": "Although there has been a fast rise in the share of Americans reporting no religion, it is unclear whether this trend has affected different parts of the country equally. Against this backdrop, we apply dynamic multilevel regression and poststratification (Dynamic MRP) to General Social Survey data over the period 1973 to 2018 to estimate state-level religious trends. We validate our estimates against external benchmarks, finding that they perform well in terms of predictive accuracy. Substantively, we find steeper increases in the share of religious nones in states that had more nones to begin with. Moreover, whereas state-level increases in the share of religious nones are strongly linked to declines in occasional church attendance and moderate religious identification, the associations with trends in regular attendance and strong identification are much weaker. States have thus not only diverged in their share of religious nones but also experienced different degrees of religious polarization.",
+  "authors": [
+    {
+      "raw": "Wiertz, Dingeman",
+      "family": "Wiertz",
+      "given": "Dingeman"
+    },
+    {
+      "raw": "Lim, Chaeyoon",
+      "family": "Lim",
+      "given": "Chaeyoon"
+    }
+  ],
+  "authors_text": "Wiertz, Dingeman; Lim, Chaeyoon",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2021,
+  "doi": "10.15195/v8.a21",
+  "doi_url": "https://doi.org/10.15195/v8.a21",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv8.a21",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v8.a21.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

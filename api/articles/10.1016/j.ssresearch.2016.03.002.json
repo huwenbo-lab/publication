@@ -1,0 +1,35 @@
+{
+  "title": "Urban density and the metabolic reach of metropolitan areas: A panel analysis of per capita transportation emissions at the county-level",
+  "abstract": "We engage a tension in the urban environment literature that positions cities as both drivers of environmental destruction and loci of environmental protection. We argue that the traditional binary view of cities as either harmful or beneficial is too simplistic; we advance a more nuanced understanding of cities to study their internal and external metabolic effects in terms of carbon emissions from on-road transportation at the county level across the continental United States between 2002 and 2007. First, utilizing satellite imagery from the National Land Cover Database, we create a novel measure of population density by quantifying the number of people per square mile of impervious surface area. Second, we develop a measure of metropolitan adjacency from the rural classifications datasets published by the USDA. In spatial regression models, we find that while higher density reduces emissions, counties that are geographically isolated from metropolitan areas actually have lower per capita emissions, all else equal. We elaborate on the conceptual, methodological, and practical implications of our study in the conclusion. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Ergas, Christina",
+      "family": "Ergas",
+      "given": "Christina"
+    },
+    {
+      "raw": "Clement, Matthew",
+      "family": "Clement",
+      "given": "Matthew"
+    },
+    {
+      "raw": "McGee, Julius",
+      "family": "McGee",
+      "given": "Julius"
+    }
+  ],
+  "authors_text": "Ergas, Christina; Clement, Matthew; McGee, Julius",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.03.002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.03.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.03.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.03.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

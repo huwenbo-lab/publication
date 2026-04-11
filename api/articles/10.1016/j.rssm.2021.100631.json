@@ -1,0 +1,30 @@
+{
+  "title": "COVID-19-associated discrimination in Germany",
+  "abstract": "This study examines whether ethnic minorities in general and Asian minorities in particular have perceived an increase in discrimination during the COVID-19 pandemic, a phenomenon known as COVID-19-associated discrimination (CAD). Drawing on the CILS4COVID data, which were collected among 3,517 individuals in the initial phase of the pandemic (mainly between April and June 2020), we demonstrate that especially Asian minorities (n = 80) report instances of CAD. Furthermore, CAD is reported more by Asian respondents residing in administrative districts that have been particularly affected by the COVID-19 pandemic, i.e., that had high sevenday COVID-19 incidence rates. Higher levels of perceived CAD are also reported by respondents originating from the Americas (n = 61) and the former Soviet Union (n = 197), but only in administrative districts with high incidence rates. We conclude that CAD reported by these groups is likely due to these groups being perceived to pose a higher threat of infection transmission. CAD reported by Asian-origin respondents is not entirely due to the actual threat posed by COVID-19, but rather to a mix of perceived threat, overt discrimination and the attribution of various negative experiences suffered since the outbreak of the pandemic to CAD.",
+  "authors": [
+    {
+      "raw": "Dollmann, Jorg",
+      "family": "Dollmann",
+      "given": "Jorg"
+    },
+    {
+      "raw": "Kogan, Irena",
+      "family": "Kogan",
+      "given": "Irena"
+    }
+  ],
+  "authors_text": "Dollmann, Jorg; Kogan, Irena",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100631",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100631",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100631",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100631.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

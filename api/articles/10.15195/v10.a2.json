@@ -1,0 +1,30 @@
+{
+  "title": "Do Organizational Policies Narrow Gender Inequality? Novel Evidence from Longitudinal Employer–Employee Data",
+  "abstract": "Scholars have long proposed that gender inequalities in wages are narrowed by organizational policies to advance gender equality. Using cross-sectional data, scarce previous research has found an association between gender wage inequalities and these organizational policies, but it remains unclear whether this correlation represents a causal effect. We provide first evidence on this topic by using longitudinal linked employer–employee data covering almost 1,500 firms and nearly one million employee observations in Germany. We investigate whether and how organizational policies affect gender gaps using firm fixed-effects regressions. Our results show that organizational policies reduce the gender wage gap by around nine percent overall. Investigating channels, we show that this effect is entirely driven by advancing women already employed at a given firm, whereas we find no effect on firms' composition and wages of new hires. Furthermore, we show that our findings are not driven by potential sources of bias, such as reverse causality.",
+  "authors": [
+    {
+      "raw": "Zimmermann, Florian",
+      "family": "Zimmermann",
+      "given": "Florian"
+    },
+    {
+      "raw": "Collischon, Matthias",
+      "family": "Collischon",
+      "given": "Matthias"
+    }
+  ],
+  "authors_text": "Zimmermann, Florian; Collischon, Matthias",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a2",
+  "doi_url": "https://doi.org/10.15195/v10.a2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

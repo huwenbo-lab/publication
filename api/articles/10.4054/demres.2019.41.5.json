@@ -1,0 +1,25 @@
+{
+  "title": "Does the association between children and happiness vary by level of religiosity? The evidence from Israel",
+  "abstract": "BACKGROUND There is a widespread belief that parenthood makes people happier. However, research has shown mixed results on the association between happiness and fertility, finding evidence for both positive and negative consequences of having children. The relationship appears to be highly context-specific. This article investigates whether the relationship varies by level of religiosity. Mounting evidence suggests that there is a positive relationship been religiosity and fertility, suggesting that the religious will have a stronger positive relationship between number of children and happiness than those who are not religious. OBJECTIVE This study investigates whether the relationship between number of children and overall life satisfaction varies with the level of religiosity. METHODS Using a pooled file of the Israel Social Survey for 2002-2016, which includes more than 100,000 respondents, I estimated a linear regression model of overall life satisfaction as a function of the number of children and level of religiosity. RESULTS My results show that, contrary to expectations, religious Jews do not have a stronger positive relationship between number of children and overall life satisfaction. Among older respondents, Ultra-Orthodox Jews actually have a weaker relationship between number of children and overall life satisfaction than Jews who are not religious. CONTRIBUTION To the best of my knowledge, this is the first study to show that the religious do not necessarily have a stronger positive relationship between number of children and happiness than those who are not religious.",
+  "authors": [
+    {
+      "raw": "Schellekens, J. Jona",
+      "family": "Schellekens",
+      "given": "J. Jona"
+    }
+  ],
+  "authors_text": "Schellekens, J. Jona",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.5",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

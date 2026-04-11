@@ -1,0 +1,30 @@
+{
+  "title": "The rise of online dating and racial homogamy in marriage*",
+  "abstract": "The rise of online dating has the potential to transform marriage outcomes, as it may alter how individuals are matched with partners. To capture the population -level effects of the rise of online dating, we examine how changes in marital racial homogamy from 2008 to 2016 are associated with changes in online dating within local dating markets. We use data from Google Trends and the American Community Survey with fixed -effects regression models to control for differences across dating markets. Our results suggest that the rise of online dating has not substantially influenced trends in racial homogamy, either nationally or within metropolitan areas.",
+  "authors": [
+    {
+      "raw": "Kornrich, Sabino",
+      "family": "Kornrich",
+      "given": "Sabino"
+    },
+    {
+      "raw": "Robbins, Blaine",
+      "family": "Robbins",
+      "given": "Blaine"
+    }
+  ],
+  "authors_text": "Kornrich, Sabino; Robbins, Blaine",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2023.102976",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102976",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102976",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102976.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

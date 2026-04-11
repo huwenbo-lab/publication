@@ -1,0 +1,35 @@
+{
+  "title": "It Takes a Village (Perhaps a Nation): Families, States, and Educational Achievement",
+  "abstract": "Research in the United States has shown that children growing up in 2‐parent households do better in school than children from single‐parent households. We used the Trends in International Mathematics and Science Study (TIMSS) data to test whether this finding applied to other countries as well (N = 100,307). We found that it did, but that the educational gap was greater in the United States than in the other 13 countries considered. Results from 2‐level hierarchical linear models demonstrated that international differences in the educational gap were associated with several indicators of national policy and demographic contexts. No single policy appeared to have a large effect, but several policy combinations were associated with substantially reduced educational gaps between children from different family structures.",
+  "authors": [
+    {
+      "raw": "Heuveline, Patrick",
+      "family": "Heuveline",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Yang, Hongxing",
+      "family": "Yang",
+      "given": "Hongxing"
+    },
+    {
+      "raw": "Timberlake, Jeffrey M.",
+      "family": "Timberlake",
+      "given": "Jeffrey M."
+    }
+  ],
+  "authors_text": "Heuveline, Patrick; Yang, Hongxing; Timberlake, Jeffrey M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2010,
+  "doi": "10.1111/j.1741-3737.2010.00770.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2010.00770.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2010.00770.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2010.00770.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

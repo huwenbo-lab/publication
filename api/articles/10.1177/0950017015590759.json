@@ -1,0 +1,30 @@
+{
+  "title": "Safety at the workplace: accidents and illnesses",
+  "abstract": "The topic of work safety is a very relevant and multifaceted problem for workers, firms and policy makers. Differing from other narrow-scope studies, this article aims to enrich the understanding of workplace safety as a whole by applying econometric techniques on data from the Italian Labour Force Survey. Findings show poor working conditions are the most significant determinants of accidents and illnesses occurring at work, while having a fixed-term (temporary) contract is not significant. Other significant determinants of work safety are: not being new to the workforce; dissatisfaction with the current job; gender; and a latent proneness observed with occurrence of accident on the way to work. This article also highlights that work related accidents and illnesses are two deeply correlated phenomena and that there is a structural break after three years on the job.",
+  "authors": [
+    {
+      "raw": "Cioni, Martina",
+      "family": "Cioni",
+      "given": "Martina"
+    },
+    {
+      "raw": "Savioli, Marco",
+      "family": "Savioli",
+      "given": "Marco"
+    }
+  ],
+  "authors_text": "Cioni, Martina; Savioli, Marco",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2016,
+  "doi": "10.1177/0950017015590759",
+  "doi_url": "https://doi.org/10.1177/0950017015590759",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017015590759",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017015590759.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

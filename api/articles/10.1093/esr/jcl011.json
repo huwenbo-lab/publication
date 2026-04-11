@@ -1,0 +1,30 @@
+{
+  "title": "Stability and Change in the Educational Gradient of Divorce. A Comparison of Seventeen Countries",
+  "abstract": "In a series of papers, William J. Goode argued that the relationship between modernization and the class composition of divorce is inverse. Starting from his hypothesis, we examine the relationship between female education and the risk of divorce over time in 17 countries. We expect that the relationship differs across countries and across time, so that women with higher education have a higher risk of divorce in countries and at times when the social and economic costs of divorce are high, and that there is no relationship or a negative relationship where these costs are lower. Using discrete-time event-history techniques on data on first marriages from the Fertility and Family Surveys (FFS), we find that women with higher education had a higher risk of divorce in France, Greece, Italy, Poland, and Spain. We do not find a relationship between education and divorce in Estonia, Finland, West-Germany, Hungary, Latvia, Sweden, and Switzerland, nor, depending on the model specification, in Flanders and Norway. In Austria, Lithuania, and the United States, the educational gradient of divorce is negative. Furthermore, as predicted by our hypotheses, the educational gradient becomes increasingly negative in Flanders, Finland, France, Hungary, Italy, Lithuania, Poland, Sweden, and the United States. We explore this variation across time and countries in more detail with multilevel models and direct measures on the legal, social, and economic environment of the countries. We find that the de-institutionalization of marriage and unconventional family practices are associated with a negative educational gradient of divorce, while welfare state expenditure is associated with a more positive gradient.",
+  "authors": [
+    {
+      "raw": "Harkonen, J.",
+      "family": "Harkonen",
+      "given": "J."
+    },
+    {
+      "raw": "Dronkers, J.",
+      "family": "Dronkers",
+      "given": "J."
+    }
+  ],
+  "authors_text": "Harkonen, J.; Dronkers, J.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1093/esr/jcl011",
+  "doi_url": "https://doi.org/10.1093/esr/jcl011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcl011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcl011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

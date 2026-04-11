@@ -1,0 +1,35 @@
+{
+  "title": "High School Dropout and the Role of Career and Technical Education: A Survival Analysis of Surviving High School",
+  "abstract": "This article uses data from the National Longitudinal Survey of Youth 1997 to investigate high school dropout and its association with the high school curriculum. In particular, it examines how combinations of career and technical education (CTE) and core academic courses influence the likelihood of leaving school. Hazards models indicate a significant curvilinear association between the CTE-to-academic course-taking ratio and the risk of dropping out for youths who were aged 14 and younger when they entered the ninth grade (not old for grade). This finding suggests that a middle-range mix of exposure to CTE and an academic curriculum can strengthen a student's attachment to or motivation while in school. The same association was not found between course taking and the likelihood of dropping out for youths who were aged 15 or older when they entered high school, thus prompting further consideration of the situation of being old for grade in school settings that remain highly age graded in their organization.",
+  "authors": [
+    {
+      "raw": "Plank, Stephen B.",
+      "family": "Plank",
+      "given": "Stephen B."
+    },
+    {
+      "raw": "DeLuca, Stefanie",
+      "family": "DeLuca",
+      "given": "Stefanie"
+    },
+    {
+      "raw": "Estacion, Angela",
+      "family": "Estacion",
+      "given": "Angela"
+    }
+  ],
+  "authors_text": "Plank, Stephen B.; DeLuca, Stefanie; Estacion, Angela",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2008,
+  "doi": "10.1177/003804070808100402",
+  "doi_url": "https://doi.org/10.1177/003804070808100402",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070808100402",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070808100402.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

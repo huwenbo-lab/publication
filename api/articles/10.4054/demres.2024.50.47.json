@@ -1,0 +1,55 @@
+{
+  "title": "Using Respondent-Driven Sampling to measure abortion safety in restrictive contexts: Results from Kaya (Burkina Faso) and Nairobi (Kenya)",
+  "abstract": "BACKGROUND Due to restrictive laws and limited service provision, globally the majority of induced abortions are unsafe and remain largely undocumented, despite their negative impact on women's health. OBJECTIVE The purpose of this study is to test Respondent -Driven Sampling - used previously in HIV research - for abortion, and to measure abortion safety characteristics in the small town of Kaya and surrounding villages (Burkina Faso) and in the slums of Nairobi (Kenya). METHODS A preliminary qualitative study confirmed that women disclose to network members when seeking an abortion. Using RDS, we recruited 481 abortion-seekers from 12 seeds in Kaya (in max. 10 waves) and 551 abortion-seekers from 8 seeds in Nairobi (in max. 5 waves) in 2021. These respondents reported 487 (Kaya) and 595 (Nairobi) abortions in the previous 3 years. RESULTS Standard diagnostics showed that the safety characteristics of the abortions of the recruited women were independent of those of the seeds, but sample-wide convergence was reached at relatively high sample sizes (around 300 in Kaya and 400 in Nairobi). More advanced checks indicated convergence (or tendency towards convergence) across seeds, except for one indicator in one site. In Kaya, most women used plant-based methods (50%) and unidentified pills (Medical Abortion (MA) in appearance) (33%). In Nairobi, women used unidentified pills (likely MA) (38% of abortions), followed by plant-based (21%) and known harmful methods (19%); pharmacists were frequent providers (45%). In Kaya, abortions occurred in the first trimester (98%), but less so in Nairobi (70%). The level of reported likely infected complications was similar across sites (6.2% in Kaya versus 9.6% in Nairobi). CONCLUSIONS While the RDS misses non-networked abortion-seekers (an arguably small share of abortion-seekers in the sites), the different available quality checks yielded positive signals as to the possibility of using RDS to obtain data representative of networked abortions. The data revealed contrasting safety characteristics and abortion-seeker profiles across sites.",
+  "authors": [
+    {
+      "raw": "Zan, Moussa L.",
+      "family": "Zan",
+      "given": "Moussa L."
+    },
+    {
+      "raw": "Owolabi, Onikepe",
+      "family": "Owolabi",
+      "given": "Onikepe"
+    },
+    {
+      "raw": "Baguiya, Adama",
+      "family": "Baguiya",
+      "given": "Adama"
+    },
+    {
+      "raw": "Ouedraogo, Ramatou",
+      "family": "Ouedraogo",
+      "given": "Ramatou"
+    },
+    {
+      "raw": "Bangha, Martin",
+      "family": "Bangha",
+      "given": "Martin"
+    },
+    {
+      "raw": "Kim, Caron",
+      "family": "Kim",
+      "given": "Caron"
+    },
+    {
+      "raw": "Rossier, Clementine",
+      "family": "Rossier",
+      "given": "Clementine"
+    }
+  ],
+  "authors_text": "Zan, Moussa L.; Owolabi, Onikepe; Baguiya, Adama; Ouedraogo, Ramatou; Bangha, Martin; Kim, Caron; Rossier, Clementine",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.47",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.47",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.47",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.47.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

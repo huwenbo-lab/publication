@@ -1,0 +1,35 @@
+{
+  "title": "The impact of proportional changes in age-specific mortality on life expectancy when mortality is a log-linear function of age",
+  "abstract": "BACKGROUND Demographers and epidemiologists have investigated the dependence of life expectancy on proportional changes in the age-specific mortality. OBJECTIVE To develop an approach that allows estimation of change in life expectancy from proportional changes in age-specific mortality and to identify aspects of the death rate that influence the accuracy of the estimation. RESULTS We obtain an exact expression for the first derivative of the life expectancy with respect to the proportional change in age-specific mortality when the age-specific death rate is log-linear in age. We use the result to establish bounds for the change in life expectancy following a proportional change of the mortality. The result shows that the change in life expectancy is approximately linear in the logarithm of the proportional change of the mortality. In populations with low infant mortality, the slope of this linear relationship is essentially equal to minus the inverse of the slope of the log-linear age dependence of the death rate. CONTRIBUTION In a wide range of mortality scenarios, the relationship between change in life expectancy and the logarithm of the proportional change of the mortality allows accurate approximation of a difference in life expectancy from a ratio of death rates.",
+  "authors": [
+    {
+      "raw": "Vaeth, Michael",
+      "family": "Vaeth",
+      "given": "Michael"
+    },
+    {
+      "raw": "Skriver, Mette Vinther",
+      "family": "Skriver",
+      "given": "Mette Vinther"
+    },
+    {
+      "raw": "Stovring, Henrik",
+      "family": "Stovring",
+      "given": "Henrik"
+    }
+  ],
+  "authors_text": "Vaeth, Michael; Skriver, Mette Vinther; Stovring, Henrik",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.23",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

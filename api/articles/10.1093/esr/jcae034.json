@@ -1,0 +1,30 @@
+{
+  "title": "How neighbourhood effects vary by achievement level",
+  "abstract": "After long-standing calls for research into 'for whom' neighbourhood matters, the literature has recently gained traction, focussing on background characteristics such as gender, race, and socioeconomic background. However, there is still scarce and only indirect evidence on whether neighbourhood effects vary by children's academic ability. In this paper, we combine the Neighbourhood Choice Model with quantile regressions to investigate whether neighbourhood effects vary by children's academic proneness. Using Norwegian register data, we demonstrate heterogeneity in the effects of neighbourhood deprivation as a function of students' proneness to academic achievement. Students with the very lowest and highest academic potential are the least affected by neighbourhood disadvantage, while those with below average-but not at the lowest end-are most strongly affected. Moreover, while girls are less affected than boys, and children from less educated and affluent families are more affected by neighbourhood disadvantage than their more privileged peers, the effects of these observed moderators are considerably smaller than the heterogeneity observed as a function of academic proneness. Overall, our use of quantile regressions opens up new venues for understanding 'for whom' neighbourhoods matter, with individual-level academic vulnerability and strengths being an influential source of neighbourhood effects variation.",
+  "authors": [
+    {
+      "raw": "Borgen, Nicolai T.",
+      "family": "Borgen",
+      "given": "Nicolai T."
+    },
+    {
+      "raw": "Zachrisson, Henrik Daae",
+      "family": "Zachrisson",
+      "given": "Henrik Daae"
+    }
+  ],
+  "authors_text": "Borgen, Nicolai T.; Zachrisson, Henrik Daae",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcae034",
+  "doi_url": "https://doi.org/10.1093/esr/jcae034",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae034",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae034.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

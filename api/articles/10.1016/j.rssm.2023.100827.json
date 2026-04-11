@@ -1,0 +1,35 @@
+{
+  "title": "Using the decomposition of the mutual information index as an alternative approach to the study of educational inequality trends in Spain",
+  "abstract": "In this study, we investigate the relationship between social origin and educational attainment in Spain from 1946 to 1989, testing the theory of persistent inequalities and using two different methodological approaches: the margin-free versus the margin-dependent traditions. More specifically, we will compare the results of the traditional log-linear measures used most frequently in this field with those of the mutual information index, a measure that considers the marginal change in both educational expansion and occupational upgrading. Moreover, we apply the decomposition of this index, as proposed by Jann & Seiler, which allows us to simultaneously observe and distinguish between the internal component (margin-free: not accounting for changes in marginal distributions such as odds ratios) and the marginal component (non-margin free: including and measuring marginal effect). Previous research using margin-free models reveals educational inequalities in Spain to be constant, whereas our results show a marked decline in educational inequalities when the weights obtained by the marginal distribution are taken into account. We argue that this decomposition may enrich our view of educational inequalities without disregarding traditional margin-free measures.",
+  "authors": [
+    {
+      "raw": "Marques-Perales, Ildefonso",
+      "family": "Marques-Perales",
+      "given": "Ildefonso"
+    },
+    {
+      "raw": "Fachelli, Sandra",
+      "family": "Fachelli",
+      "given": "Sandra"
+    },
+    {
+      "raw": "Lopez-Roldan, Pedro",
+      "family": "Lopez-Roldan",
+      "given": "Pedro"
+    }
+  ],
+  "authors_text": "Marques-Perales, Ildefonso; Fachelli, Sandra; Lopez-Roldan, Pedro",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100827",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100827",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100827",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100827.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

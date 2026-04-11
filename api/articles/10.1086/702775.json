@@ -1,0 +1,30 @@
+{
+  "title": "Men's Income Trajectories and Physical and Mental Health at Midlife",
+  "abstract": "Using time-varying, prospectively measured income in a nationally representative sample of baby-boomer men (the National Longitudinal Survey of Youth, 1979), the authors identify eight group-based trajectories of income between ages 25 and 49 and use multinomial treatment models to describe the associations between group-based income trajectories and mental and physical health at midlife. The authors find remarkable rigidity in income trajectories: less than 25% of the sample experiences significant upward or downward mobility between ages 25 and 49, and most who move remain or move into poverty. Men's physical and mental health at age 50 is strongly associated with their income trajectories, and some upwardly mobile men achieve the same physical and mental health as the highest earning men after adjusting for selection. The worse physical and mental health of men on other income trajectories is largely attributable to their early life disadvantages, health behaviors, and cumulative work experiences.",
+  "authors": [
+    {
+      "raw": "Frech, Adrianne",
+      "family": "Frech",
+      "given": "Adrianne"
+    },
+    {
+      "raw": "Damaske, Sarah",
+      "family": "Damaske",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Frech, Adrianne; Damaske, Sarah",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2019,
+  "doi": "10.1086/702775",
+  "doi_url": "https://doi.org/10.1086/702775",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F702775",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/702775.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

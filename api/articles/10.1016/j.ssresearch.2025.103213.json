@@ -1,0 +1,35 @@
+{
+  "title": "The effects of clan culture on multidimensional poverty of older adults in China",
+  "abstract": "This paper explores the effect of clan culture on multidimensional poverty among older adults. To address potential endogeneity issues, this paper uses the minimum distance between each city and two well-known academies from the Song Dynasty as an instrumental variable for clan culture. The findings reveal that clan culture significantly reduces the incidence of multidimensional poverty among older adults. The primary mechanisms driving this effect include increased intergenerational support and strengthened kinship support. The results of sensitivity analyses indicate that these findings are robust. The impact of clan culture on poverty reduction is observed to be more pronounced among older adults in rural areas, men, younger cohorts, and ethnic minorities. Dose-response analysis indicates that the stronger the clan culture in a region is, the greater its impact on older adults. These findings suggest that clan culture, as an informal institution, plays a vital role in alleviating multidimensional poverty and enhancing the wellbeing of older adults.",
+  "authors": [
+    {
+      "raw": "Yu, Shuang",
+      "family": "Yu",
+      "given": "Shuang"
+    },
+    {
+      "raw": "Yang, Manfei",
+      "family": "Yang",
+      "given": "Manfei"
+    },
+    {
+      "raw": "Liang, Yinhe",
+      "family": "Liang",
+      "given": "Yinhe"
+    }
+  ],
+  "authors_text": "Yu, Shuang; Yang, Manfei; Liang, Yinhe",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103213",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103213",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103213",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103213.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

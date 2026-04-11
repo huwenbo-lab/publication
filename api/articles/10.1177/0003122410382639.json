@@ -1,0 +1,30 @@
+{
+  "title": "The Rise of the Nation-State across the World, 1816 to 2001",
+  "abstract": "Why did the nation-state proliferate across the world over the past 200 years, replacing empires, kingdoms, city-states, and the like? Using a new dataset with information on 145 of today's states from 1816 to the year they achieved nation-statehood, we test key aspects of modernization, world polity, and historical institutionalist theories. Event history analysis shows that a nation-state is more likely to emerge when a power shift allows nationalists to overthrow or absorb the established regime. Diffusion of the nation-state within an empire or among neighbors also tilts the balance of power in favor of nationalists. We find no evidence for the effects of industrialization, the advent of mass literacy, or increasingly direct rule, which are associated with the modernization theories of Gellner, Anderson, Tilly, and Hechter. Nor is the growing global hegemony of the nation-state model a good predictor of individual instances of nation-state formation, as Meyer's world polity theory would suggest. We conclude that the global rise of the nation-state is driven by proximate and contextual political factors situated at the local and regional levels, in line with historical institutionalist arguments, rather than by domestic or global structural forces that operate over the long duree.",
+  "authors": [
+    {
+      "raw": "Wimmer, Andreas",
+      "family": "Wimmer",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Feinstein, Yuval",
+      "family": "Feinstein",
+      "given": "Yuval"
+    }
+  ],
+  "authors_text": "Wimmer, Andreas; Feinstein, Yuval",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122410382639",
+  "doi_url": "https://doi.org/10.1177/0003122410382639",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410382639",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410382639.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

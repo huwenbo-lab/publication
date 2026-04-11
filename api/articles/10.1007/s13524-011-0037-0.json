@@ -1,0 +1,40 @@
+{
+  "title": "The Black Gender Gap in Educational Attainment: Historical Trends and Racial Comparisons",
+  "abstract": "Abstract It is often asserted that the gender gap in educational attainment is larger for blacks than whites, but historical trends comparing the black and white gender gap have received surprisingly little attention. Analysis of historical data from the U.S. census IPUMS samples shows that the gender gap in college completion has evolved differently for whites and blacks. Historically, the female advantage in educational attainment among blacks is linked to more favorable labor market opportunities and stronger incentives for employment for educated black women. Blacks, particularly black males, still lag far behind whites in their rates of college completion, but the striking educational gains of white women have caused the racial patterns of gender differences in college completion rates to grow more similar over time. While some have linked the disadvantaged position of black males to their high risk of incarceration, our estimates suggest that incarceration has a relatively small impact on the black gender gap and the racial gap in college completion rates for males in the United States.",
+  "authors": [
+    {
+      "raw": "McDaniel, Anne",
+      "family": "McDaniel",
+      "given": "Anne"
+    },
+    {
+      "raw": "DiPrete, Thomas A.",
+      "family": "DiPrete",
+      "given": "Thomas A."
+    },
+    {
+      "raw": "Buchmann, Claudia",
+      "family": "Buchmann",
+      "given": "Claudia"
+    },
+    {
+      "raw": "Shwed, Uri",
+      "family": "Shwed",
+      "given": "Uri"
+    }
+  ],
+  "authors_text": "McDaniel, Anne; DiPrete, Thomas A.; Buchmann, Claudia; Shwed, Uri",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0037-0",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0037-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0037-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0037-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Earnings and Income Penalties for Motherhood: Estimates for British Women Using the Individual Synthetic Control Method",
+  "abstract": "Using data from the British Household Panel Survey and focusing on women who became mothers between 1995 and 2005, we estimate the motherhood penalty for women's own earnings and for the total income of their household: that is, we consider the extent to which motherhood carries a penalty not only for a mother but also for her family. We adopt an approach that differs from those previously employed in research on motherhood penalties: we follow Hernan and Robins, setting up our data as a 'target trial', and we analyse it using the Individual Synthetic Control method, based on the Synthetic Control approach of Abadie, Diamond and Hainmueller. We find considerable variation in the effect of motherhood on British women's earnings, but the median penalty is a reduction in medium- and long-term earnings by about 45 per cent relative to what women would have earned if they had remained childless. Motherhood has no effect on average on the income of the woman's household, but has substantial negative effects for some households. Focusing on both individual and household penalties yields a more complete picture of the distributional consequences of motherhood than hitherto.",
+  "authors": [
+    {
+      "raw": "Vagni, Giacomo",
+      "family": "Vagni",
+      "given": "Giacomo"
+    },
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    }
+  ],
+  "authors_text": "Vagni, Giacomo; Breen, Richard",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcab014",
+  "doi_url": "https://doi.org/10.1093/esr/jcab014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

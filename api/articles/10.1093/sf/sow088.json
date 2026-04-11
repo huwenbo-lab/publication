@@ -1,0 +1,30 @@
+{
+  "title": "School Opportunity Hoarding? Racial Segregation and Access to High Growth Schools",
+  "abstract": "Persistent school segregation may allow advantaged groups to hoard educational opportunities and consign minority students to lower-quality educational experiences. Although minority students are concentrated in low-achieving schools, relatively little previous research directly links segregation to measures of school quality based on student achievement growth, which more plausibly reflect learning opportunities. Using a dataset of public elementary schools in California, this study provides the first analysis detailing the distribution of a growth-based measure of school quality using standard inequality indices, allowing disparities to be decomposed across geographic and organizational scales. We find mixed support for the school opportunity hoarding hypothesis. We find small White and Asian advantages in access to high-growth schools, but most of the inequality in exposure to school growth is within racial groups. Growth-based disparities both between and within groups tend to be on a more local scale than disparities in absolute achievement levels, focusing attention on within-district policies to mitigate school-based inequalities in opportunities to learn.",
+  "authors": [
+    {
+      "raw": "Hanselman, Paul",
+      "family": "Hanselman",
+      "given": "Paul"
+    },
+    {
+      "raw": "Fiel, Jeremy E.",
+      "family": "Fiel",
+      "given": "Jeremy E."
+    }
+  ],
+  "authors_text": "Hanselman, Paul; Fiel, Jeremy E.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sow088",
+  "doi_url": "https://doi.org/10.1093/sf/sow088",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow088",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow088.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

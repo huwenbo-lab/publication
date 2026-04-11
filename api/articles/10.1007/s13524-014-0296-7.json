@@ -1,0 +1,40 @@
+{
+  "title": "Do Racial Disparities in Private Transfers Help Explain the Racial Wealth Gap? New Evidence From Longitudinal Data",
+  "abstract": "Abstract How do private transfers differ by race and ethnicity, and do such differences explain the racial and ethnic disparity in wealth? Using the Panel Study of Income Dynamics, this study examines private transfers by race and ethnicity in the United States and explores a causal relationship between private transfers and wealth. Panel data and a family-level fixed-effect model are used to control for the endogeneity of private transfers. Private transfers in the form of financial support received and given from extended families and friends, as well as large gifts and inheritances, are examined. We find that African Americans and Hispanics (both immigrant and nonimmigrant) receive less in both types of private transfers than whites. Large gifts and inheritances, but not net financial support received, are related to wealth increases for African American and white families. Overall, we estimate that the African American shortfall in large gifts and inheritances accounts for 12 % of the white-black racial wealth gap.",
+  "authors": [
+    {
+      "raw": "McKernan, Signe-Mary",
+      "family": "McKernan",
+      "given": "Signe-Mary"
+    },
+    {
+      "raw": "Ratcliffe, Caroline",
+      "family": "Ratcliffe",
+      "given": "Caroline"
+    },
+    {
+      "raw": "Simms, Margaret",
+      "family": "Simms",
+      "given": "Margaret"
+    },
+    {
+      "raw": "Zhang, Sisi",
+      "family": "Zhang",
+      "given": "Sisi"
+    }
+  ],
+  "authors_text": "McKernan, Signe-Mary; Ratcliffe, Caroline; Simms, Margaret; Zhang, Sisi",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0296-7",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0296-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0296-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0296-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Comparing Marital Status and Divorce Status in Civilian and Military Populations",
+  "abstract": "Since military operations began in Afghanistan and Iraq, lengthy deployments have led to concerns about the vulnerability of military marriages. Yet evaluating military marriages requires some benchmark against which marital outcomes in the military may be compared. These analyses drew from personnel records from the entire male population of the active components of the U.S. military between 1998 and 2005, and from the Current Population Surveys from the same years, to compare the likelihood of being married or divorced between service members and civilians matched on age, racial/ethnic composition, employment status, and education. Results indicate that service members are significantly more likely to be married, but are not more likely to be divorced, than civilians with matched characteristics. These patterns have not changed substantially since the current conflicts began.",
+  "authors": [
+    {
+      "raw": "Karney, Benjamin R.",
+      "family": "Karney",
+      "given": "Benjamin R."
+    },
+    {
+      "raw": "Loughran, David S.",
+      "family": "Loughran",
+      "given": "David S."
+    },
+    {
+      "raw": "Pollard, Michael S.",
+      "family": "Pollard",
+      "given": "Michael S."
+    }
+  ],
+  "authors_text": "Karney, Benjamin R.; Loughran, David S.; Pollard, Michael S.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2012,
+  "doi": "10.1177/0192513x12439690",
+  "doi_url": "https://doi.org/10.1177/0192513x12439690",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x12439690",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x12439690.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

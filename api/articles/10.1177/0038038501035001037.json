@@ -1,0 +1,25 @@
+{
+  "title": "Books Reviewed",
+  "abstract": "ABRAMS, JEANNE E., A View from Abroad: The Story of John and Abigail Adams in Europe by Constance B. Schulz BIGART, ROBERT J., Providing for the People: Economic Change among the Salish and Kootenai Indians, 1875-1910 by Gustave Lester BOONSHOFT, MARK, Aristocratic Education and the Making of the American Republic by John Frederick Bell BRETTLE, ADRIAN, Colossal Ambitions: Confederate Planning for a Post-Civil War World by Brooks Swett GREENBERG, JOSHUA R., Bank Notes and Shinplasters: The Rage for Paper Money in the Early Republic by Danielle Skeehan HATTEM, MICHAEL D., Past and Prologue: Politics and Memory in the American Revolution by Jordan Pellerito LAMPERT, SARA E., Starring Women: Celebrity, Patriarchy, and American Theater, 1790-1850 by Emily Banta LANG, ANDREW F., A Contest of Civilizations: Exposing the Crisis of American Exceptionalism in the Civil War Era by Amanda Bellows TURNER, NICOLE MYERS, Soul Liberty: The Evolution of Black Religious Politics in Postemancipation Virginia by Thomas Strange WAITE, KEVIN, West of Slavery: The Southern Dream of a Transcontinental Empire by Sean Fraga WELCH, KIMBERLY M., Black Litigants in the Antebellum American South by Melissa Milewski WELLS, JAMIN, Shipwrecked: Coastal Disasters and the Making of the American Beach by Anthony J. Stanonis",
+  "authors": [
+    {
+      "raw": "ELLIOTT, ANTHONY",
+      "family": "ELLIOTT",
+      "given": "ANTHONY"
+    }
+  ],
+  "authors_text": "ELLIOTT, ANTHONY",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2001,
+  "doi": "10.1177/0038038501035001037",
+  "doi_url": "https://doi.org/10.1177/0038038501035001037",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038501035001037",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038501035001037.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

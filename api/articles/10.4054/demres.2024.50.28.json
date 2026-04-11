@@ -1,0 +1,40 @@
+{
+  "title": "Mortality modelling with arrival of additional year of mortality data: Calibration and forecasting",
+  "abstract": "BACKGROUND For commonly used mortality models, the existing estimates change with the recalibration of new data. This issue is also known as the lack of the new-data-invariant property. OBJECTIVE We adapt the Lee-Carter, age-period-cohort, Renshaw-Haberman, and Li-Lee models to achieve the new-data-invariant property. The resulting fitted or forecast mortality indexes are tractable and comparable when more recent data are modelled. METHODS Illustrated by mortality rates of the England and Wales populations, we explore the tradeoff between goodness of fit and the new-data-invariant property. Using the adapted model and vector autoregressive framework, we explore the interdependencies of subregional mortality dynamics in the United Kingdom. RESULTS To compare the goodness of fit, we consider the four adapted models and the Cairns- Blake-Dowd model, which are invariant to new data without adaptation. The Renshaw- Haberman model is demonstrated to be the best-performing model. The in-sample and backtesting results show that the proposed adaptation introduces only a small cost of reduced model fitting, which is robust across sensitivity analyses. CONCLUSIONS The adapted Renshaw-Haberman model is recommended to construct tractable mortality indexes. CONTRIBUTION From a methodological perspective, we adopt popular models to achieve a desirable newdata-invariant property. Our empirical results suggest that the adapted model can provide reliable forecast of mortality rates for use in demographic research.",
+  "authors": [
+    {
+      "raw": "Mok, Kam Kuen",
+      "family": "Mok",
+      "given": "Kam Kuen"
+    },
+    {
+      "raw": "Tan, Chong It",
+      "family": "Tan",
+      "given": "Chong It"
+    },
+    {
+      "raw": "Zhang, Jinhui",
+      "family": "Zhang",
+      "given": "Jinhui"
+    },
+    {
+      "raw": "Shi, Yanlin",
+      "family": "Shi",
+      "given": "Yanlin"
+    }
+  ],
+  "authors_text": "Mok, Kam Kuen; Tan, Chong It; Zhang, Jinhui; Shi, Yanlin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.28",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

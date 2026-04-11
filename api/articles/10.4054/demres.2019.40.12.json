@@ -1,0 +1,30 @@
+{
+  "title": "Ambient temperature and sexual activity: Evidence from time use surveys",
+  "abstract": "BACKGROUND Previous research has found that unusually hot temperatures reduce birth rates eight to ten months later. OBJECTIVE We examine one of the potential mechanisms behind this relationship: the connection between ambient temperature and sexual activity. METHODS We use individual-level data provided by three waves of the Hungarian Time Use Survey between 1986 and 2010 and daily weather data from the European Climate Assessment & Dataset project. RESULTS Hot temperatures do not have a significant effect on sexual activity on a given day. Studying the dynamics of the relationship, we found that temperature does not influence sexual activity on subsequent days either. CONCLUSIONS Since high temperatures seem to have no negative effect on sexual activity, the relationship between temperature and sexual activity might be a mechanism of minor importance in the relationship between temperature and birth rates. CONTRIBUTION Our paper is the first study of the relationship between ambient temperature and sexual activity that uses time use data.",
+  "authors": [
+    {
+      "raw": "Hajdu, Tamas",
+      "family": "Hajdu",
+      "given": "Tamas"
+    },
+    {
+      "raw": "Hajdu, Gabor",
+      "family": "Hajdu",
+      "given": "Gabor"
+    }
+  ],
+  "authors_text": "Hajdu, Tamas; Hajdu, Gabor",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.12",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Parental Leave Policies, Usage Consequences, and Changing Normative Beliefs: Evidence From a Survey Experiment",
+  "abstract": "In this study, we conceptualize and provide novel empirical evidence on norm-setting effects of family policies by investigating how priming with parental leave policy–related information may alter normative beliefs regarding the gender division of parental leave in Germany. We implemented a survey experiment in two waves of the representative German GESIS Panel in 2019 and 2020. Respondents received one of three short evidence-based information primers about (1) long-term income risks of maternal employment interruptions, (2) nonsignificant paternal wage penalties, or (3) increasing rates of paternal leave usage in Germany, or were allocated to the control group that received no further information before rating the division of parental leave in fictitious couples. We apply ordinary least squares regression models with lagged dependent variables to a sample of 5,362 vignette evaluations nested in 1,548 respondents. Remarkably, we find that the effects of all three priming conditions vary significantly depending on whether respondents are asked to judge situations for couples where women earn more or less than their partners. Our findings mostly point to stronger effects of priming with information on income risks compared with paternal leave usage trends and to more pronounced changes in normative beliefs among childless respondents.",
+  "authors": [
+    {
+      "raw": "Philipp, Marie-Fleur",
+      "family": "Philipp",
+      "given": "Marie-Fleur"
+    },
+    {
+      "raw": "Büchau, Silke",
+      "family": "Büchau",
+      "given": "Silke"
+    },
+    {
+      "raw": "Schober, Pia S.",
+      "family": "Schober",
+      "given": "Pia S."
+    },
+    {
+      "raw": "Spiess, C. Katharina",
+      "family": "Spiess",
+      "given": "C. Katharina"
+    }
+  ],
+  "authors_text": "Philipp, Marie-Fleur; Büchau, Silke; Schober, Pia S.; Spiess, C. Katharina",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2023,
+  "doi": "10.1177/08912432231176084",
+  "doi_url": "https://doi.org/10.1177/08912432231176084",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432231176084",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432231176084.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

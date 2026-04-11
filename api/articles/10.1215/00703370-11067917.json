@@ -1,0 +1,45 @@
+{
+  "title": "The Dangers of Drawing Cohort Profiles From Period Data: A Research Note",
+  "abstract": "Drawing cohort pro files and cohort fore casts from grids of age-period data is common practice in demography. In this research note, we (1) show how demo- graphic mea sures artificially fluc tu ate when cal cu lated from the diag o nals of age- period rates because of timing and cohort -size bias, (2) esti mate the magnitude of these biases, and (3) illus trate how pre diction intervals for cohort indi cators of mortal ity may become implau sible when drawn from Lee-Carter meth ods and age-period grids. These biases are surpris ingly large, even when the cohort pro files are cre ated from sin gle-age, sin gle-year period data. The dan ger is that we overinterpret devi ations from expected trends that were induced by our own data manip ulation.",
+  "authors": [
+    {
+      "raw": "van Raalte, Alyson A.",
+      "family": "van Raalte",
+      "given": "Alyson A."
+    },
+    {
+      "raw": "Basellini, Ugofilippo",
+      "family": "Basellini",
+      "given": "Ugofilippo"
+    },
+    {
+      "raw": "Camarda, Carlo Giovanni",
+      "family": "Camarda",
+      "given": "Carlo Giovanni"
+    },
+    {
+      "raw": "Nepomuceno, Marilia R.",
+      "family": "Nepomuceno",
+      "given": "Marilia R."
+    },
+    {
+      "raw": "Myrskylae, Mikko",
+      "family": "Myrskylae",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "van Raalte, Alyson A.; Basellini, Ugofilippo; Camarda, Carlo Giovanni; Nepomuceno, Marilia R.; Myrskylae, Mikko",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-11067917",
+  "doi_url": "https://doi.org/10.1215/00703370-11067917",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11067917",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11067917.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

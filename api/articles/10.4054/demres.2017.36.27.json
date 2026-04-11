@@ -1,0 +1,35 @@
+{
+  "title": "First signs of transition: The parallel decline of early baptism and early mortality in the province of Padua (northeast Italy), 1816-1870",
+  "abstract": "OBJECTIVE The aim of this article is to investigate the parallel decline of early baptism and early mortality at the beginning of the demographic transition in a European high-neonatal mortality context. METHODS We use an individual-nominative linked database of 33,000 births and 10,000 deaths for 11 parishes in the province of Padua (northeast Italy) from 1816 to 1870. We utilize life tables, logistic regressions, and two-level logistic regressions, including characteristics of the family. RESULTS Life tables and regression models show that during the winter, the association between early baptism and the risk of death is pronounced. The connection persists also during the summer, when the exposure to low temperature could not influence the risk of death, and a reverse effect could prevail. (Children in periculo mortis were immediately baptized.) Family behaviours influence both early baptism and early death. CONCLUSIONS The data shows clearly that those social groups and families and those areas experiencing the most intense decline in early baptism were also those in which mortality during the first three months of life declined more. However, it is not true that - as suggested by commentators at the time -the strong statistical connection between the two events was just a direct one, with cold exposure exacerbated by early baptism increasing the risk of dying from hypothermia or respiratory diseases. CONTRIBUTION We first show that in the province of Padua during the central part of the 19th century (1816-1870), there is a clear and strong statistical connection between the decline of early mortality and the decline of early baptism. Second, we try to disentangle the meaning of this connection.",
+  "authors": [
+    {
+      "raw": "Minello, Alessandra",
+      "family": "Minello",
+      "given": "Alessandra"
+    },
+    {
+      "raw": "Dalla-Zuanna, Gianpiero",
+      "family": "Dalla-Zuanna",
+      "given": "Gianpiero"
+    },
+    {
+      "raw": "Alfani, Guido",
+      "family": "Alfani",
+      "given": "Guido"
+    }
+  ],
+  "authors_text": "Minello, Alessandra; Dalla-Zuanna, Gianpiero; Alfani, Guido",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.27",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

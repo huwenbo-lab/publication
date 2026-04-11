@@ -1,0 +1,40 @@
+{
+  "title": "Choice homophily on social origin and race: Experimental evidence from a US university",
+  "abstract": "Choice homophily, a preference for associating with similar others, is robustly supported in past empirical data for basic demographic features like race. Here we argue that the lower salience of socioeconomic origin reduces the likelihood of such preferences being activated. However, testing for the existence of preferences for association on social origin is highly challenging, because such preferences are typically confounded with structural factors that sort similar individuals together. We address this using a field experiment at a large, diverse U.S. public university, where first-year students were randomly assigned to dorm rooms. This randomisation removes the confounding influence of structural sorting. We measure preferences by analysing whether a student's decision to leave their room depends on their roommates' social origin (measured by parental education) and race. We find strong evidence of choice homophily by race-students were less likely to leave when living with same-race roommates. However, we find no evidence of choice homophily with respect to social origin. Further analysis of a non-randomised sample of campus roommates reveals a tendency toward socioeconomic homogeneity in roommate pairings. This suggests that socioeconomic segregation on campus, and perhaps in broader society, is primarily driven by structural sorting rather than individual preference.",
+  "authors": [
+    {
+      "raw": "Song, Hyang-gi",
+      "family": "Song",
+      "given": "Hyang-gi"
+    },
+    {
+      "raw": "Foley, William",
+      "family": "Foley",
+      "given": "William"
+    },
+    {
+      "raw": "van de Rijt, Arnout",
+      "family": "van de Rijt",
+      "given": "Arnout"
+    },
+    {
+      "raw": "Gerxhani, Klarita",
+      "family": "Gerxhani",
+      "given": "Klarita"
+    }
+  ],
+  "authors_text": "Song, Hyang-gi; Foley, William; van de Rijt, Arnout; Gerxhani, Klarita",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101103",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101103",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101103",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101103.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

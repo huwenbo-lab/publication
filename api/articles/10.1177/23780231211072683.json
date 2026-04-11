@@ -1,0 +1,25 @@
+{
+  "title": "Do Parents Matter for Student Loan Repayment after Graduation?",
+  "abstract": "Previous studies suggest that a college degree is the great equalizer leveling the playing field. However, the rapidly growing educational debt of college graduates might restrict their life chances throughout adulthood, particularly for those raised in socioeconomically disadvantaged families. This study uses data from the National Survey of College Graduates to examine whether parents’ socioeconomic status is related to their children’s student loan repayment after graduation. Holding the amount borrowed for completing higher education constant, college graduates with less educated parents hold a larger amount of educational debt in adulthood compared with their counterparts with more educated parents. The association between family background and student loan repayment remains significant with the addition of controls for various covariates related to college graduates’ education, occupation, income, and other labor market outcomes. This study suggests that educational debt burdens imposed on individual college graduates limit the meritocratic power of higher education.",
+  "authors": [
+    {
+      "raw": "Oh, Byeongdon",
+      "family": "Oh",
+      "given": "Byeongdon"
+    }
+  ],
+  "authors_text": "Oh, Byeongdon",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231211072683",
+  "doi_url": "https://doi.org/10.1177/23780231211072683",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211072683",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211072683.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

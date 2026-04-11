@@ -1,0 +1,25 @@
+{
+  "title": "The academic caste system: Prestige hierarchies in PhD exchange networks",
+  "abstract": "The prestige of academic departments is commonly understood as rooted in the scholarly productivity of their faculty and graduates. I use the theories of Weber and Bourdieu to advance an alternative view of departmental prestige, which I show is an effect a department position within networks of association and social exchange-that is, it is a form of social capital. The social network created by the exchange of PhDs among departments is the most important network of this kind. Using data on the exchange of PhDs among sociology departments, I apply network analysis to investigate this alternative conception of departmental prestige and to demonstrate its superiority over the conventional view. Within sociology, centrality within interdepartmental hiring networks explains 84 percent of the variance in departmental prestige. Similar findings are reported for history and political science. This alternative understanding of academic prestige helps clarify anomalies - e.g., the variance in prestige unconnected to scholarly productivity, the strong association between department size and prestige, and the long-term stability of prestige rankings - encountered in research that is based on the more conventional view.",
+  "authors": [
+    {
+      "raw": "Burris, V",
+      "family": "Burris",
+      "given": "V"
+    }
+  ],
+  "authors_text": "Burris, V",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2004,
+  "doi": "10.1177/000312240406900205",
+  "doi_url": "https://doi.org/10.1177/000312240406900205",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240406900205",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240406900205.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

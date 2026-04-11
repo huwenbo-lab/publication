@@ -1,0 +1,45 @@
+{
+  "title": "Balancing Categorical Conventionality in Music",
+  "abstract": "Research on the relationship between categorical unconventionality and popularity has produced mixed results. While many accounts suggest that unconventionality is penalized, much sociological theorizing indicates that success comes from a delicate balancing act between conventional and unconventional offerings. Using data on the genre self-classifications of over 2 million musicians and bands across the United States, the authors find broad support for this balancing act. Yet the shape it takes is also conditioned on local contexts, across both high-order complexes of musical genres and geographic space. The authors highlight the local metropolitan area characteristics that shift the relationship between unconventionality and popularity. They also create a typology of cities based on how their unconventional offerings are rewarded and punished. An online visualization tool enables further investigation of these relationships. The authors close by proposing an agenda for how to study local heterogeneity in the relationship between unconventionality and popularity.",
+  "authors": [
+    {
+      "raw": "Silver, Daniel",
+      "family": "Silver",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Childress, Clayton",
+      "family": "Childress",
+      "given": "Clayton"
+    },
+    {
+      "raw": "Slez, Adam",
+      "family": "Slez",
+      "given": "Adam"
+    },
+    {
+      "raw": "Lee, Monica",
+      "family": "Lee",
+      "given": "Monica"
+    },
+    {
+      "raw": "Dias, Fabio",
+      "family": "Dias",
+      "given": "Fabio"
+    }
+  ],
+  "authors_text": "Silver, Daniel; Childress, Clayton; Slez, Adam; Lee, Monica; Dias, Fabio",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2022,
+  "doi": "10.1086/719937",
+  "doi_url": "https://doi.org/10.1086/719937",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F719937",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/719937.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

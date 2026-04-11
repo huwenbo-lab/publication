@@ -1,0 +1,25 @@
+{
+  "title": "Why birth cohorts commit crime at different rates",
+  "abstract": "Crime rates respond to age shifts in the population and to changes in current social conditions. A flexible generalization of the characteristic solution to the age-period-cohort problem shows that they also respond to differences in birth cohorts. I used age-arrest data for a representative panel of 16 states to estimate annual differences in cohort effects, then regressed them on 21 covariates spanning a wide range of social, economic, and environmental conditions. Cohort effects explained both the 1960-1990 crime increase and the post-1990 crime drop about as effectively as current conditions; the covariates explained about half of these effects. Cohort criminality was primarily affected by three conditions: relative cohort size; the prevalence of crime during childhood; and the capacity of families and neighborhoods to socialize children. Because all of these characteristics are trending in favorable directions, cohort effects - and crime rates - will probably continue to decline.",
+  "authors": [
+    {
+      "raw": "Spelman, William",
+      "family": "Spelman",
+      "given": "William"
+    }
+  ],
+  "authors_text": "Spelman, William",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102628",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102628",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102628",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102628.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

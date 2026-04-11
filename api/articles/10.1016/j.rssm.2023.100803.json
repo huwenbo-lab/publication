@@ -1,0 +1,30 @@
+{
+  "title": "Atypical work, financial assets, and asset poverty in Germany",
+  "abstract": "This study investigates how atypical employment (i.e., part-time, temporary work, mini-jobs) affects workers' ability to accumulate financial assets and exposes them to asset poverty in Germany. Asset poverty occurs when household financial resources (e.g., bank deposits and stock equity) are insufficient to live at the income poverty line for three months. Previously, studies on labour market processes and wealth inequalities have been chiefly disconnected. Still, a large share of assets is accumulated from labour earnings, and thus, individual employment experiences likely affect asset accumulation. We draw on data from the German Socio-Economic Panel (SOEP, 2002-2017) and apply fixed-effect growth curve models. Compared to standard employment, we find that spells in temporary work and mini-jobs lead to lower levels of net financial assets, while part-time work results in similar asset growth rates. Furthermore, unemployment and inactivity undermine financial asset accumulation more than atypical employment. This suggests that temporary positions are even more detrimental if interspersed by periods of no employment. We also find that the detrimental effect of atypical employment is larger for low educated than high-educated and that penalties of previous spells of mini-jobs are larger for men than women, but the contrary is true concerning temporary employment. Finally, asset poverty risk increases only for un-employment and inactivity, not atypical employment.",
+  "authors": [
+    {
+      "raw": "Colombarolli, Claudia",
+      "family": "Colombarolli",
+      "given": "Claudia"
+    },
+    {
+      "raw": "Lersch, Philipp M.",
+      "family": "Lersch",
+      "given": "Philipp M."
+    }
+  ],
+  "authors_text": "Colombarolli, Claudia; Lersch, Philipp M.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100803",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100803",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100803",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100803.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

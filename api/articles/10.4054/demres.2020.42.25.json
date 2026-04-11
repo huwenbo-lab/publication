@@ -1,0 +1,35 @@
+{
+  "title": "The onset of the old-age gender gap in survival",
+  "abstract": "BACKGROUND The male-female life expectancy gap is increasingly driven by mortality differences at older ages. However, the dynamics of the onset of the old age contribution to the sex gap in survival have not been analyzed yet. OBJECTIVE We investigate how much of the gender gap in life expectancy is attributable to older ages and when the old-age contribution to the gap started to increase in different countries. METHODS Using data from the Human Mortality Database, we computed age-specific contributions to the sex gap, investigated their rate of increase over time, and identified breakpoints. RESULTS We found a heterogenous picture in Eastern Europe, while in the other countries the contributions of those aged 65-80 are declining, while the contributions of those aged 80+ are increasing. The pace of increase accelerated after 1950. At the end of the observation some countries show signs of stagnation, but this is not related to the level of life expectancy. CONCLUSIONS The timing and pace of the increasingly old-age-driven sex difference in life expectancy differ among countries. The complexity of the patterns that emerged calls for country-specific, in-depth investigation. CONTRIBUTION We analyzed trends, temporal breakpoints, and differences among countries of the increasing contribution of older ages to the sex gap in life expectancy. This provides additional information about health transitions and offers new evidence for the development of policies targeting specific age groups and aimed at reducing the sex gap in survival.",
+  "authors": [
+    {
+      "raw": "Zarulli, Virginia",
+      "family": "Zarulli",
+      "given": "Virginia"
+    },
+    {
+      "raw": "Lindahl-Jacobsen, Rune",
+      "family": "Lindahl-Jacobsen",
+      "given": "Rune"
+    },
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    }
+  ],
+  "authors_text": "Zarulli, Virginia; Lindahl-Jacobsen, Rune; Vaupel, James W.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.25",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

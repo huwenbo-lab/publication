@@ -1,0 +1,40 @@
+{
+  "title": "Spatial modelling of rural infant mortality and occupation in 19th century Britain",
+  "abstract": "BACKGROUND Infant mortality in 19th century rural places has been largely neglected: to study it offers new insight into rural demography. OBJECTIVE This study examines infant mortality, and census occupations, between 1851 and 1911 across all the rural Registration Districts (RDs) of England and Wales. METHODS The decadal 1850s-1900s RD-level demographic data in the GB Historical GIS (GBHGIS) is analysed using latent trajectory analysis to identify clusters of RDs whose infant mortality rate (IMR) trajectories are most similar: these are mapped in ArcGIS. The recently published Integrated Census Microdata (I-CeM) resource is then used to study relationships between IMR and census-reported occupation. Geographically Weighted Regression is employed to explore spatial variation in the coefficient with which occupation affected IMR. RESULTS The study describes a previously unreported pattern of mortality variation, identifying seven groups of RDs with distinctive trajectories of infant mortality. A spatially varying link between IMR and female occupation rates in agriculture is noted. CONCLUSIONS Spatial variation in rural social structures had demographic consequences. The decline in female agricultural occupation may have removed a source of harm to infant lives in the arable economy of the south and east, but simultaneously a source of benefit in the upland, pastoral north and west. CONTRIBUTION Findings about the costs and benefits of female agricultural employment can help explain the different trajectories of infant mortality in different regions, suggesting that female occupation and the details of what work women did could be a strong influence, positive or negative, on infant mortality.",
+  "authors": [
+    {
+      "raw": "Atkinson, Paul",
+      "family": "Atkinson",
+      "given": "Paul"
+    },
+    {
+      "raw": "Francis, Brian",
+      "family": "Francis",
+      "given": "Brian"
+    },
+    {
+      "raw": "Gregory, Ian",
+      "family": "Gregory",
+      "given": "Ian"
+    },
+    {
+      "raw": "Porter, Catherine",
+      "family": "Porter",
+      "given": "Catherine"
+    }
+  ],
+  "authors_text": "Atkinson, Paul; Francis, Brian; Gregory, Ian; Porter, Catherine",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.44",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.44",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.44",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.44.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

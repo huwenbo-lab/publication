@@ -1,0 +1,25 @@
+{
+  "title": "A Novel Macro Perspective on Family Dynamics: The Contribution of Partnership Contexts of Births to Cohort Fertility Rates",
+  "abstract": "Partnering behavior is central to understanding fertility. Influential concepts, including singlehood, serial monogamy, and multiple-partner fertility, are frequently used to analyze partnering and childbearing dynamics. These concepts are evoked to understand individual and population-level patterns but are mainly analyzed at the individual level. We propose a measure for gauging the interplay between partnerships and childbearing at the population level, namely cohort fertility rates (CFR) as the sum of births under various partnership contexts. Surprisingly, demographers rarely measure and do not have a clear picture of the extent to which childbearing in different partnership contexts contributes to completed fertility. We analyze Finnish register data to decompose CFR into births across union status, union order, and reproductive partner order. Contrary to the discourse of partnering in the Nordics, births within first unions to first reproductive partners account for about two-thirds of CFR. Births in higher-order unions to first reproductive partners account for one-fifth. Single births and births with higher-order reproductive partners have a modest impact. This ranking holds across sex and educational level. We argue that the proposed measures offer a novel appraisal of population-level implications of partnerships and childbearing dynamics and provide an opportunity to understand cross-country variation in fertility patterns.",
+  "authors": [
+    {
+      "raw": "Andersson, Linus",
+      "family": "Andersson",
+      "given": "Linus"
+    }
+  ],
+  "authors_text": "Andersson, Linus",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2023,
+  "doi": "10.1111/padr.12579",
+  "doi_url": "https://doi.org/10.1111/padr.12579",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12579",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12579.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

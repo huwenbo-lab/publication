@@ -1,0 +1,30 @@
+{
+  "title": "Fertility decline, changes in age structure, and the potential for demographic dividends: A global analysis",
+  "abstract": "BACKGROUND The demographic dividend, a concept that is widely used in development cooperation, describes the economic growth potential based on shifts towards a large share of workingage population in the course of the demographic transition. However, a long-term global country-level assessment of the underlying changes in the working-age population and associated demographic factors is missing. OBJECTIVE The aim of this paper is to identify and describe past, present, and future global patterns in changes in the share of the working-age population and to detect the relevance of associated demographic factors. METHODS Using cluster and linear regression analyses, we identify patterns in trajectories of working-age populations and detect associated demographic factors. We perform these analyses for 148 countries, using data from the UN World Population Prospects 2022 (1950-2100). RESULTS Our results expose distinct trajectories of changes in the share of working-age population. We find noticeable differences between countries that are already further along the demographic transition and those still with relatively high levels of fertility. In addition to fertility, changes in the share of working-age population are associated with migration and population momentum. CONCLUSIONS A large proportion of countries that are still in the earlier stages of the demographic transition show changes in the share of working -age population that differ substantially from countries that experienced significant fertility decline in the past.",
+  "authors": [
+    {
+      "raw": "Dorflinger, Markus",
+      "family": "Dorflinger",
+      "given": "Markus"
+    },
+    {
+      "raw": "Loichinger, Elke",
+      "family": "Loichinger",
+      "given": "Elke"
+    }
+  ],
+  "authors_text": "Dorflinger, Markus; Loichinger, Elke",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.9",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

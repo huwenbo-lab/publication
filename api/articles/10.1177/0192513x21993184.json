@@ -1,0 +1,30 @@
+{
+  "title": "Challenging Heteronormativity: An Analysis of the Effect of Sexual Orientation on Earnings in Spain",
+  "abstract": "Using data from the Spanish Labor Force Survey between 2006 and 2018, we explore whether sexual orientation causes wage differences for partnered women and men in Spain. The study confirms that men in same-sex couples significantly earn less than men in opposite-sex couples, confirming our hypothesis for the hegemonic masculinity premium. Women in same-sex couples also outearn women in opposite-sex couples, but this effect disappears after controlling for differences in human capital characteristics. Despite the high degree of social acceptance of homosexuality in Spain, partnered gay men are not able to avoid the negative earnings effects of discrimination in the labor market.",
+  "authors": [
+    {
+      "raw": "Gonzalez, M. Jose",
+      "family": "Gonzalez",
+      "given": "M. Jose"
+    },
+    {
+      "raw": "Sonmez, Ibrahim",
+      "family": "Sonmez",
+      "given": "Ibrahim"
+    }
+  ],
+  "authors_text": "Gonzalez, M. Jose; Sonmez, Ibrahim",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2022,
+  "doi": "10.1177/0192513x21993184",
+  "doi_url": "https://doi.org/10.1177/0192513x21993184",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x21993184",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x21993184.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

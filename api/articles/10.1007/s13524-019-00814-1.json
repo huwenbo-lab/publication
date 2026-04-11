@@ -1,0 +1,35 @@
+{
+  "title": "New Destinations and the Early Childhood Education of Mexican-Origin Children",
+  "abstract": "This study examined differences in exposure to early childhood education among Mexican-origin children across Latino/a destinations. Early childhood educational enrollment patterns, which are highly sensitive to community resources and foundational components of long-term educational inequalities, can offer a valuable window into how destinations may be shaping incorporation among Mexican-origin families. Integrating data from the Early Childhood Longitudinal Study-Birth Cohort with county-level data from the decennial census, multilevel logistic regression models revealed that Mexican-origin, black, and white children had lower odds of enrollment in early childhood education programs if they lived in new Latino/a destinations versus established destinations. The negative association between new destinations and early childhood education enrollment persisted despite controls for household selectivity, state and local early childhood education contexts, Latino/a educational attainment, Latino-white residential segregation, and immigration enforcement agreements. Within the Mexican-origin subgroup, the enrollment gap between new and established destinations was widest among the least-acculturated families, as measured by parental nativity, duration of residence, citizenship status, and English proficiency. These findings highlight how both place and acculturation stratify outcomes within the large and growing Mexican-origin subset of the Latino/a population.",
+  "authors": [
+    {
+      "raw": "Ackert, Elizabeth",
+      "family": "Ackert",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Crosnoe, Robert",
+      "family": "Crosnoe",
+      "given": "Robert"
+    },
+    {
+      "raw": "Leventhal, Tama",
+      "family": "Leventhal",
+      "given": "Tama"
+    }
+  ],
+  "authors_text": "Ackert, Elizabeth; Crosnoe, Robert; Leventhal, Tama",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00814-1",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00814-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00814-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00814-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

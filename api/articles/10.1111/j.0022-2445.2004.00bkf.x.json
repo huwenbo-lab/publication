@@ -1,0 +1,25 @@
+{
+  "title": "Book Reviews",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Rea, Theresa",
+      "family": "Rea",
+      "given": "Theresa"
+    }
+  ],
+  "authors_text": "Rea, Theresa",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2004,
+  "doi": "10.1111/j.0022-2445.2004.00bkf.x",
+  "doi_url": "https://doi.org/10.1111/j.0022-2445.2004.00bkf.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.0022-2445.2004.00bkf.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.0022-2445.2004.00bkf.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

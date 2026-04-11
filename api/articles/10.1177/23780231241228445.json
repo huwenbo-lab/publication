@@ -1,0 +1,25 @@
+{
+  "title": "Social Isolation in America? A 20-Year Snapshot",
+  "abstract": "This visualization provides a snapshot of social isolation in America over a 20-year period. The author leverages data from the American Time Use Survey to estimate the percentage of Americans who report a complete lack of social contact during a single day. Contrary to prior claims, there was no clear evidence of increasing isolation during the 2000s and 2010s. There was, however, a marked increase in the percentage of Americans who were socially isolated during the coronavirus pandemic. Adopting a micro view of social isolation contributes to contemporary debates by highlighting social interactions rather than broad assessments of social integration such as social relationships or group participation. Although these latter concepts are important in their own ways, focusing on social interactions speaks to issues that are often considered synonymous with social integration such as the exchange of support, resources, and feelings of belongingness.",
+  "authors": [
+    {
+      "raw": "Roth, Adam R.",
+      "family": "Roth",
+      "given": "Adam R."
+    }
+  ],
+  "authors_text": "Roth, Adam R.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241228445",
+  "doi_url": "https://doi.org/10.1177/23780231241228445",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241228445",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241228445.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

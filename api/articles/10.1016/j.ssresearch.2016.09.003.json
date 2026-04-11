@@ -1,0 +1,30 @@
+{
+  "title": "Who kills whom? The micro-dynamics of civilian targeting in civil war",
+  "abstract": "Prior research on civilian targeting in civil war has focused on characteristics of either the government or rebel group that make them more or less likely to target civilians. However, no government or rebel group targets a population, but rather individuals within it. To date, no study has explored the issue of why particular civilians would be chosen by one actor versus the other. This study examines the divergent civilian-targeting strategies of governments and rebel groups. We argue that unique identification problems facing each political actor in civil war leads the parties to resort to social stereotypes based on data derived from known enemy subjects killed in combat. We specify and then test a model that accounts for time and space and the demographic characteristics of each victim utilizing a new dataset on the personal, political, and demographic characteristics of individual civilians targeted by the state and rebels in the civil war in Nepal (1996-2006). The findings demonstrate for the first time that governments (and rebels) tend to kill the same types of individuals in non-combat settings as they kill in combat exchanges, and the civilians targeted by each actor differ significantly in the extent that they share certain social traits. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Joshi, Madhav",
+      "family": "Joshi",
+      "given": "Madhav"
+    },
+    {
+      "raw": "Quinn, Jason Michael",
+      "family": "Quinn",
+      "given": "Jason Michael"
+    }
+  ],
+  "authors_text": "Joshi, Madhav; Quinn, Jason Michael",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.09.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.09.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.09.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.09.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

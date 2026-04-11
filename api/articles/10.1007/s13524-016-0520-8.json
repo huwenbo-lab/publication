@@ -1,0 +1,55 @@
+{
+  "title": "Child Marriage and Intimate Partner Violence in Rural Bangladesh: A Longitudinal Multilevel Analysis",
+  "abstract": "Child marriage (before age 18) is a risk factor for intimate partner violence (IPV) against women. Worldwide, Bangladesh has the highest prevalence of IPV and very early child marriage (before age 15). How the community prevalence of very early child marriage influences a woman's risk of IPV is unknown. Using panel data (2013-2014) from 3,355 women first married 4-12 years prior in 77 Bangladeshi villages, we tested the protective effect of a woman's later first marriage (at age 18 or older), the adverse effect of a higher village prevalence of very early child marriage, and whether any protective effect of a woman's later first marriage was diminished or reversed in villages where very early child marriage was more prevalent. Almost one-half (44.5 %) of women reported incident physical IPV, and 78.9 % had married before age 18. The village-level incidence of physical IPV ranged from 11.4 % to 75.0 %; the mean age at first marriage ranged from 14.8 to 18.0 years. The mean village-level prevalence of very early child marriage ranged from 3.9 % to 51.9 %. In main-effects models, marrying at 18 or later protected against physical IPV, and more prevalent very early child marriage before age 15 was a risk factor. The interaction of individual later marriage and the village prevalence of very early child marriage was positive; thus, the likely protective effect of marrying later was negated in villages where very early child marriage was prevalent. Collectively reducing very early child marriage may be needed to protect women from IPV.",
+  "authors": [
+    {
+      "raw": "Yount, Kathryn M.",
+      "family": "Yount",
+      "given": "Kathryn M."
+    },
+    {
+      "raw": "Crandall, AliceAnn",
+      "family": "Crandall",
+      "given": "AliceAnn"
+    },
+    {
+      "raw": "Cheong, Yuk Fai",
+      "family": "Cheong",
+      "given": "Yuk Fai"
+    },
+    {
+      "raw": "Osypuk, Theresa L.",
+      "family": "Osypuk",
+      "given": "Theresa L."
+    },
+    {
+      "raw": "Bates, Lisa M.",
+      "family": "Bates",
+      "given": "Lisa M."
+    },
+    {
+      "raw": "Naved, Ruchira T.",
+      "family": "Naved",
+      "given": "Ruchira T."
+    },
+    {
+      "raw": "Schuler, Sidney Ruth",
+      "family": "Schuler",
+      "given": "Sidney Ruth"
+    }
+  ],
+  "authors_text": "Yount, Kathryn M.; Crandall, AliceAnn; Cheong, Yuk Fai; Osypuk, Theresa L.; Bates, Lisa M.; Naved, Ruchira T.; Schuler, Sidney Ruth",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0520-8",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0520-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0520-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0520-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "A Framework for Explaining Black-White Inequality in Homeownership Sustainability",
+  "abstract": "To explain racially differential housing outcomes, previous studies have tended to concentrate on discriminatory processes within the mortgage market while ignoring homeowning families' broad socioeconomic challenges. This study proposes a conceptual framework for understanding Black-White inequality in homeownership sustainability, which emphasizes Black homeowners' socioeconomic challenges that are external to mortgage market evaluations, with a particular focus on the mediating role of liquid assets. Based on the Panel Study of Income Dynamics, the framework is put to an empirical test on the differential exit rates between Black and White homeowners in the United States during the recent housing crisis. The findings indicate that the racial gap in homeownership exit is eliminated after liquid wealth is controlled in the model alongside other covariates and that the inclusion of liquid wealth renders all mortgage-oriented variables nonsignificant with regard to their explanatory power for Black-White inequality in exit rates. Policy implications of the findings are also discussed.",
+  "authors": [
+    {
+      "raw": "Ren, Chunhui",
+      "family": "Ren",
+      "given": "Chunhui"
+    }
+  ],
+  "authors_text": "Ren, Chunhui",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00894-4",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00894-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00894-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00894-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

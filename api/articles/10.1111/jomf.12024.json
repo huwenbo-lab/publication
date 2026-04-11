@@ -1,0 +1,30 @@
+{
+  "title": "Gender and Socioeconomic Status Differences in First and Second Marriage Formation",
+  "abstract": "In this article, we address how first and second marriages are formed by asking whether SES has similar effects on first and second marriage entry. Like many studies of first marriage, we focus on gender, socioeconomic characteristics (education, income, and employment status), and gender differences in the effect of SES. To examine this question, we use the NLSY79 (n = 12,231 never‐married and 3,695 divorced persons), discrete‐time logistic regression, and heterogeneous choice models to test for statistically significant differences by gender and between first and second marriages. Our models show gender differences in first and second marriage entry, that the effect of SES on marriage entry differs between first and second marriage, and that the interaction between gender and SES has a unique association with marital entry for never‐ and previously married individuals. Our results have implications for understanding marriage formation, stratification across the life course, and the well‐being of divorced persons who remarry.",
+  "authors": [
+    {
+      "raw": "Shafer, Kevin",
+      "family": "Shafer",
+      "given": "Kevin"
+    },
+    {
+      "raw": "James, Spencer L.",
+      "family": "James",
+      "given": "Spencer L."
+    }
+  ],
+  "authors_text": "Shafer, Kevin; James, Spencer L.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2013,
+  "doi": "10.1111/jomf.12024",
+  "doi_url": "https://doi.org/10.1111/jomf.12024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

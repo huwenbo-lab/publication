@@ -1,0 +1,30 @@
+{
+  "title": "Variation in life expectancy during the twentieth century in the United States",
+  "abstract": "Abstract The National Center for Health Statistics (NCHS) reports life expectancy at birth (LE) for each year in the United States. Censal year estimates of LE use complete life tables. From 1900 through 1947, LEs for intercensal years were interpolated from decennial life tables and annual crude death rates. Since 1948, estimates have been computed from annual life tables. A substantial drop in variation in LE occurred in the 1940s. To evaluate these methods and examine variation without artifacts of different methods, we estimated a consistent series of both annual abridged life tables and LEs from official NCHS age-specific death rates and also LEs using the interpolation method for 1900–1998. Interpolated LEs are several times as variable as life table estimates, about 2 times as variable before 1940 and about 6.5 times as variable after 1950. Estimates of LE from annual life tables are better measures than those based on the mixed methods detailed in NCHS reports. Estimates from life tables show that the impact of the 1918 influenza pandemic on LE was much smaller than indicated by official statistics. We conclude that NCHS should report official estimates of intercensal LE for 1900–1948 computed from life tables in place of the existing LEs that were computed by interpolation.",
+  "authors": [
+    {
+      "raw": "Smith, David W.",
+      "family": "Smith",
+      "given": "David W."
+    },
+    {
+      "raw": "Bradshaw, Benjamin S.",
+      "family": "Bradshaw",
+      "given": "Benjamin S."
+    }
+  ],
+  "authors_text": "Smith, David W.; Bradshaw, Benjamin S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2006,
+  "doi": "10.1353/dem.2006.0039",
+  "doi_url": "https://doi.org/10.1353/dem.2006.0039",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2006.0039",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2006.0039.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

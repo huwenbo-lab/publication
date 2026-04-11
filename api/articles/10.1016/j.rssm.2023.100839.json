@@ -1,0 +1,30 @@
+{
+  "title": "Pre-existing company contacts and premature termination of apprenticeship training in Germany",
+  "abstract": "Using longitudinal data from Starting Cohort 4 of the German National Educational Panel Study (NEPS), we examined whether pre-existing strong ties and weak ties in the training company are associated with the risk of premature termination of apprenticeship training in Germany. This is highly relevant for the literature on social capital in the labor market since so far little is known about the role of social contacts for the turnover propensity of labor market entrants. By examining a potentially important factor for a successful labor market integration, our research also adds to both the school-to-work and the social stratification literature. Our empirical results are only partly consistent with our theoretically derived expectations. While contrary to our expectations, we found no association between strong ties and termination probability, weak ties were, as expected, associated with a lower probability of premature training termination among those apprentices who were trained in their desired occupation. Our main results, combined with several robustness checks, let us assume that this is due to better matched training situations.",
+  "authors": [
+    {
+      "raw": "Weissmann, Markus",
+      "family": "Weissmann",
+      "given": "Markus"
+    },
+    {
+      "raw": "Roth, Tobias",
+      "family": "Roth",
+      "given": "Tobias"
+    }
+  ],
+  "authors_text": "Weissmann, Markus; Roth, Tobias",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100839",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100839",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100839",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100839.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Spatial Measurement, Geography, and Urban Racial Inequality",
+  "abstract": "Although many models of urban racial inequality make predictions about the geographic distribution of social groups and social goods, these predictions are rarely tested spatially This is because (1) it can be extremely difficult to measure geographic distance using social science datasets and (2) when studying residential segregation, researchers generally measure the total extent of segregation in a region rather than the distribution of racial and ethnic groups within a region. This article overcomes these problems by introducing a geographic information system (GIS) variable construction technique that allows researchers to measure the distance between social groups and goods more precisely than is otherwise possible and by demonstrating the importance of using maps to examine the distribution of social groups and goods within metropolitan areas.",
+  "authors": [
+    {
+      "raw": "Downey, L.",
+      "family": "Downey",
+      "given": "L."
+    }
+  ],
+  "authors_text": "Downey, L.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2003,
+  "doi": "10.1353/sof.2003.0031",
+  "doi_url": "https://doi.org/10.1353/sof.2003.0031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2003.0031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2003.0031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Decomposing patterns of college marital sorting in 118 countries: Structural constraints versus assortative mating",
+  "abstract": "Two broad forces shape the patterns of marital sorting by education: structural constraints and assortative mating. However, we lack specific and comparative quantification of the extent of these two forces. In this paper, we measure the specific contributions of (i) assortative mating, (ii) the level of college education and (iii) the gender gap in education on marital sorting patterns and the corresponding polarization levels between college and non-college educated couples. Unlike previous studies, we adopt a large-cross-national approach including 118 countries and more than 258 observations spanning from 1960 up to 2011. Methodologically, we develop counterfactual modelling techniques to compare observed patterns of marital sorting with expected patterns derived from alternative structural and assortative mating conditions. Our findings indicate that changes in college marital sorting and increases in polarization between college- and non-college-educated populations are overwhelmingly driven by structural constraints, namely the expansion of college education. Instead, educational assortative mating plays a limited role - accounting only for 5% of the observed changes in marriage market polarization.",
+  "authors": [
+    {
+      "raw": "Permanyer, Inaki",
+      "family": "Permanyer",
+      "given": "Inaki"
+    },
+    {
+      "raw": "Esteve, Albert",
+      "family": "Esteve",
+      "given": "Albert"
+    },
+    {
+      "raw": "Garcia, Joan",
+      "family": "Garcia",
+      "given": "Joan"
+    }
+  ],
+  "authors_text": "Permanyer, Inaki; Esteve, Albert; Garcia, Joan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.06.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.06.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.06.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.06.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

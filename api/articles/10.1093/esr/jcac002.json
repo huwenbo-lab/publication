@@ -1,0 +1,50 @@
+{
+  "title": "Swiss Job Market Monitor: A Rich Source of Demand-Side Micro Data of the Labour Market",
+  "abstract": "The Swiss Job Market Monitor (SJMM) is a data collection of job ads for a national labour market from 1950 onwards. It is a prime example for demonstrating how to turn digital data into a high-quality social science data set. It is also exemplary for combining digital data with historically grown job ads data to provide a comparable time series covering the past 70 years. Paying close attention to sampling procedures, coverage, and key variables, the Data Brief shows how the SJMM profits from opportunities offered by computational social science and computational linguistics to navigate a wholly new set of challenges involved in creating such a data set. It closes with a discussion of new research opportunities this data set is opening for investigating the labour market as a core institution of modern society.",
+  "authors": [
+    {
+      "raw": "Buchmann, Marlis",
+      "family": "Buchmann",
+      "given": "Marlis"
+    },
+    {
+      "raw": "Buchs, Helen",
+      "family": "Buchs",
+      "given": "Helen"
+    },
+    {
+      "raw": "Busch, Felix",
+      "family": "Busch",
+      "given": "Felix"
+    },
+    {
+      "raw": "Clematide, Simon",
+      "family": "Clematide",
+      "given": "Simon"
+    },
+    {
+      "raw": "Gnehm, Ann-Sophie",
+      "family": "Gnehm",
+      "given": "Ann-Sophie"
+    },
+    {
+      "raw": "Mueller, Jan",
+      "family": "Mueller",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Buchmann, Marlis; Buchs, Helen; Busch, Felix; Clematide, Simon; Gnehm, Ann-Sophie; Mueller, Jan",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcac002",
+  "doi_url": "https://doi.org/10.1093/esr/jcac002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

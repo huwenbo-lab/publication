@@ -1,0 +1,25 @@
+{
+  "title": "China's New Demographic Reality: Learning from the 2010 Census",
+  "abstract": "China conducted its sixth modern census in 2010, recording a total of 1.34 billion people. This article presents an overview of the early census results. The data are of reasonable quality but contain some apparent defects where adjustments may be required. The census confirms that China has entered the era of demographic modernity and depicts the vast transformation of the country's rural-urban distribution. Life expectancy has risen by 3-4 years in the decade since the last census, while fertility remains well below replacementprobably as low as 1.5 births per womanand the sex ratio at birth is still significantly elevated. Low fertility and falling old-age mortality are leading to continued and rapid population aging. Several coastal provinces grew by as much as 40 percent in the last decade, while a number of inland provinces have recorded population decline. China has reached an overall urban proportion of 50 percent.",
+  "authors": [
+    {
+      "raw": "Cai, Yong",
+      "family": "Cai",
+      "given": "Yong"
+    }
+  ],
+  "authors_text": "Cai, Yong",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2013,
+  "doi": "10.1111/j.1728-4457.2013.00608.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2013.00608.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2013.00608.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2013.00608.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

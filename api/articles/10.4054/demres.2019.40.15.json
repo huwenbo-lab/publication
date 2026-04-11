@@ -1,0 +1,25 @@
+{
+  "title": "Lung cancer mortality in historical context: How stable are spatial patterns of smoking over time?",
+  "abstract": "BACKGROUND The lands of the Recovered Territories were acquired by Poland in 1945 and populated by almost 5 million Polish settlers mostly from central provinces in the country and from ex-Polish territories in the east. Transgenerational persistence of informal institutions provides a context for the study. OBJECTIVE Persistence of the spatial variation of age-adjusted lung cancer mortality and their causes were evaluated. The high smoking prevalence in the Recovered Territories was hypothesised to be related to the age of the local communities and persistence of informal institutions. METHODS A spatial scan statistic was used to detect clusters of elevated lung cancer mortality. A two stages least squares regression model with heteroscedasticity and autocorrelation consistent standard errors was fitted to identify determinants of a spatial clustering of lung cancer mortality. RESULTS A strong west-to-east trend of lung cancer mortality is consistent with spatial patterns of tobacco use in interwar, post-war, and current Poland. Age-adjusted lung cancer mortality was contrastingly high in 1980-1984 in Masuria, West Pomerania, and Silesia. Tobacco prevalence and unbalanced dietary patterns were found to be associated with a spatial clustering of lung cancer mortality in the country. CONCLUSIONS Migrant communities of the Recovered Territories were more likely to take up and continue smoking. This effect was enhanced by the young age of communities and population, as well as by high urbanisation and availability of employment outside agriculture in the Recovered Territories. The identified spatial pattern is consistent with elevated frequency of other socially condemned behaviours in the Recovered Territories, including crime, nonmarital births, and divorce. CONTRIBUTION Phantom borders reflecting different historical legacies can structure health-related behaviours. Spatial distribution of lung cancer mortality is persistent over time, particularly in women.",
+  "authors": [
+    {
+      "raw": "Czaderny, Krzysztof",
+      "family": "Czaderny",
+      "given": "Krzysztof"
+    }
+  ],
+  "authors_text": "Czaderny, Krzysztof",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.15",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

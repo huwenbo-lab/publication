@@ -1,0 +1,55 @@
+{
+  "title": "Household structure in Ghana: Exploring dynamics over three decades",
+  "abstract": "BACKGROUND The nuclear convergence hypothesis proposes that development and urbanisation lead to increasing proportions of nuclear families. We explore this hypothesis in Ghana by charting household living arrangements as captured in censuses and surveys. OBJECTIVE To classify household structure in Ghana and track trends to test whether households converge towards nucleation during processes of development and urbanisation. METHODS We employ two methods of classification-manual and data-driven (latent class analysis)-to create household structures using Ghana's censuses (1984-2021) and Demographic and Health Surveys (1993-2022). We explore trends over time and compare urban and rural areas to track nuclear convergence while documenting the differences and similarities between data sources and methods of classification. RESULTS We find that though the manual and data-driven approaches produce similar results, the latter is vulnerable to possible misclassification. From the manual approach, we identify seven different typologies of household structure in Ghana and find that, on average, a substantial proportion are core nuclear (couple with children only), other extended (nonmultigenerational), and single-member households. Overall, we find weak evidence for nuclear convergence. There has not been a significant shift in the average distribution of household types in Ghana, and in urban areas there is a growing proportion of multigenerational extended households, with region-based peculiarities. We also observe that the surveys provide more reliable evidence on trends than the censuses do. CONTRIBUTION There is no strong evidence to support nuclear convergence in Ghana. We make a methodological contribution, highlighting that the use of data-driven methods for household classification needs to be approached with caution.",
+  "authors": [
+    {
+      "raw": "Baafi, Josephine Akua Ackah",
+      "family": "Baafi",
+      "given": "Josephine Akua Ackah"
+    },
+    {
+      "raw": "Sear, Rebecca",
+      "family": "Sear",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "McLean, Estelle",
+      "family": "McLean",
+      "given": "Estelle"
+    },
+    {
+      "raw": "Awusabo-Asare, Kofi",
+      "family": "Awusabo-Asare",
+      "given": "Kofi"
+    },
+    {
+      "raw": "Hassan, Anushe",
+      "family": "Hassan",
+      "given": "Anushe"
+    },
+    {
+      "raw": "Achana, Fabian Sebastian",
+      "family": "Achana",
+      "given": "Fabian Sebastian"
+    },
+    {
+      "raw": "Walters, Sarah",
+      "family": "Walters",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Baafi, Josephine Akua Ackah; Sear, Rebecca; McLean, Estelle; Awusabo-Asare, Kofi; Hassan, Anushe; Achana, Fabian Sebastian; Walters, Sarah",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.30",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

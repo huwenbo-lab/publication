@@ -1,0 +1,35 @@
+{
+  "title": "To what extent were life expectancy gains in South Africa attributable to declines in HIV/AIDS mortality from 2006 to 2017? A life table analysis of age-specific mortality",
+  "abstract": "BACKGROUND In South Africa, life expectancy increased considerably after the government introduced its antiretroviral therapy (ART) program in 2004. The impact of the national ART program on life expectancy may be underestimated if child mortality is not accounted for in formal evaluations. OBJECTIVE We measured the extent to which life expectancy gains from 2006 to 2017 were attributable to declines in HIV/AIDS mortality, accounting for all age groups, including infants and children. METHODS To calculate life expectancies, we constructed period life tables using age-specific mortality rates estimated by Thembisa, a South Africa-based HIV epidemic model that integrates pediatric HIV data sources. We modeled counterfactual scenarios, a worst-case and best-case, to discern life expectancy gains related to HIV mortality versus other causes of mortality. We reported outcomes as life expectancy gains and life-years saved per person at varying ages. RESULTS In South Africa, life expectancy at birth was 65.1 years in 2017, compared to 54.0 years in 2006. Of these 11.1 life-years gained, we found that 8.9 life-years were attributable to HIV mortality reductions. In people under 49 years old, most gains were attributable to HIV reduction. Gains from HIV reduction and other causes became equivalent at about age 49. In people over 60, most gains were attributable to causes other than HIV/AIDS reduction. CONTRIBUTION This study demonstrated that most life expectancy gains were attributable to declines in HIV mortality following the national ART rollout in South Africa. This analysis tracked life expectancies across age groups, including children, and described their characteristics.",
+  "authors": [
+    {
+      "raw": "Doan Tran",
+      "family": "Doan Tran",
+      "given": ""
+    },
+    {
+      "raw": "Shin, Woosub",
+      "family": "Shin",
+      "given": "Woosub"
+    },
+    {
+      "raw": "Mehta, Neil",
+      "family": "Mehta",
+      "given": "Neil"
+    }
+  ],
+  "authors_text": "Doan Tran; Shin, Woosub; Mehta, Neil",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.18",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

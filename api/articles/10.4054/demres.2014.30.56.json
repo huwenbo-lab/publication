@@ -1,0 +1,25 @@
+{
+  "title": "Is the fraction of people ever born who are currently alive rising or falling?",
+  "abstract": "Some journalists and demographers have asked: How many people have ever been born? What is the fraction F(t) of those ever born up to calendar year t who are alive at t? The conditions under which F(t) rises or falls appear never to have been analyzed.",
+  "authors": [
+    {
+      "raw": "Cohen, Joel E.",
+      "family": "Cohen",
+      "given": "Joel E."
+    }
+  ],
+  "authors_text": "Cohen, Joel E.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2014,
+  "doi": "10.4054/demres.2014.30.56",
+  "doi_url": "https://doi.org/10.4054/demres.2014.30.56",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2014.30.56",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2014.30.56.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Classifying and mapping gender ideologies globally: Gender attitudes in 47 countries at the turn of the 21st century",
+  "abstract": "ObjectiveThis paper analyzed cross-national variations in two dimensions of gender attitudes in 47 countries at the turn of the 21st century: beliefs about vertical gender equality and horizontal gender differentiation.BackgroundWe argue that societies do not experience universal, unidirectional progress toward nontraditional gender attitudes. The distribution of global attitudes toward horizontal and vertical gender differentiation displays uneven patterns across nations.MethodUsing data from the World Values Surveys (N = 72,304) and employing machine learning, multilevel linear models, and multilevel multinomial models to analyze individual- and country-level influences.ResultsWe mapped gender ideologies globally by classifying individuals into four domains of ideological space-three varieties of egalitarianism: liberal egalitarian, egalitarian essentialist, and flexible traditionalist values, and one traditional ideology of traditional essentialist.ConclusionsThe liberal egalitarian gender ideology was widespread globally including in Muslim-majority countries, and country characteristics correlated with gender ideologies in divergent ways. Female labor force participation was associated with three nontraditional ideologies that are progressive at least on one dimension. Economic development was linked with liberal egalitarian and egalitarian essentialist attitudes, both supporting gender equality. Generous public-funded parental leave policies correlated with flexible traditionalist ideology that buttressed women's dual roles but not gender equality.ImplicationsThese results demonstrated an uneven societal transition in gender attitudes globally. Global gender ideologies charted three divergent trajectories toward multiple forms of non-traditionalism. Although people in social democratic welfare states, liberal and conservative welfare states, former socialist countries, and Muslim-majority countries occupied four distinct domains of gender ideology, different nation-states were not monoliths conforming to the prevailing ideologies of their societies.",
+  "authors": [
+    {
+      "raw": "Shu, Xiaoling",
+      "family": "Shu",
+      "given": "Xiaoling"
+    },
+    {
+      "raw": "Zhu, Bowen",
+      "family": "Zhu",
+      "given": "Bowen"
+    },
+    {
+      "raw": "Meagher, Kelsey D.",
+      "family": "Meagher",
+      "given": "Kelsey D."
+    }
+  ],
+  "authors_text": "Shu, Xiaoling; Zhu, Bowen; Meagher, Kelsey D.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13052",
+  "doi_url": "https://doi.org/10.1111/jomf.13052",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13052",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13052.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

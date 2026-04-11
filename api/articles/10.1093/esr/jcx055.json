@@ -1,0 +1,35 @@
+{
+  "title": "Social Customs and Trade Union Membership: A Multi-Level Analysis of Workplace Union Density Using Micro-Data",
+  "abstract": "In this article, we investigate the effect of social customs on one of the most important instances of collective action, namely, workers uniting in trade unions. Although many studies have used social custom theory to explain unionization, existing studies have not adequately analysed social customs at the workplace. Using workplace union density as a proxy for social custom, this analysis improves existing studies in a number of ways. First, multi-level analyses of a large panel data set from Denmark reveal that there is a significant positive effect of workplace union density on the probability that new employees join unions. Secondly, using nonparametric regression, we find that the functional form of the relationship between the two variables is accelerating. These results hold for various subsamples. The accelerating functional form indicates that large initial investments in unionization are required to create self-sustaining social customs for union membership. Thirdly, we test the acceleration using segmented regression analysis and find a significant acceleration around 45-65 per cent workplace union density. In the conclusion, we discuss the implications of our study for unionization strategies and for research on unionization.",
+  "authors": [
+    {
+      "raw": "Ibsen, Christian Lyhne",
+      "family": "Ibsen",
+      "given": "Christian Lyhne"
+    },
+    {
+      "raw": "Toubol, Jonas",
+      "family": "Toubol",
+      "given": "Jonas"
+    },
+    {
+      "raw": "Jensen, Daniel Sparwath",
+      "family": "Jensen",
+      "given": "Daniel Sparwath"
+    }
+  ],
+  "authors_text": "Ibsen, Christian Lyhne; Toubol, Jonas; Jensen, Daniel Sparwath",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcx055",
+  "doi_url": "https://doi.org/10.1093/esr/jcx055",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx055",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx055.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

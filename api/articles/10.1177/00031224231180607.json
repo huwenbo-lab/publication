@@ -1,0 +1,30 @@
+{
+  "title": "Understanding Patterns and Trends in Income Mobility through Multiverse Analysis",
+  "abstract": "Rising inequalities in rich countries have led to concerns that the economic ladder is getting harder to climb. Yet, research on trends in intergenerational income mobility finds conflicting results. To better understand this variation, we adopt a multiverse approach that estimates trends over 82,944 different definitions of income mobility, varying how and for whom income is measured. Our analysis draws on comprehensive register data for Swedish cohorts born 1958 to 1977 and their parents. We find that income mobility has declined, but for reasons neglected by previous research: improved gender equality in the labor market raises intergenerational persistence in women's earnings and the household incomes of both men and women. Dominant theories that focus on childhood investments have blinded researchers to this development. Methodologically, we show how multiverse analysis can be used with abduction-inference to the best explanation-to improve theory-building in social science.",
+  "authors": [
+    {
+      "raw": "Engzell, Per",
+      "family": "Engzell",
+      "given": "Per"
+    },
+    {
+      "raw": "Mood, Carina",
+      "family": "Mood",
+      "given": "Carina"
+    }
+  ],
+  "authors_text": "Engzell, Per; Mood, Carina",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231180607",
+  "doi_url": "https://doi.org/10.1177/00031224231180607",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231180607",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231180607.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

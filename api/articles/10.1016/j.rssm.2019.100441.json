@@ -1,0 +1,25 @@
+{
+  "title": "Discrimination in the hiring of older jobseekers: Combining a survey experiment with a natural experiment in Switzerland",
+  "abstract": "Older workers who lose their job are at great risk of experiencing long-term unemployment. This vulnerability can be due to negative selection into unemployment or to age discrimination by employers. We empirically test three explanations of why older jobseekers may struggle to get reemployed: employers promote internal careers; employers prefer younger workers for physically demanding jobs; employers perceive older workers as being too expensive. We test these hypotheses by analysing two experiments in Switzerland. In a factorial survey experiment, 500 recruiters indicated for fictional CVs with ages 35-55 the likelihood of an invitation to a job interview. In a natural experiment, 1200 workers were surveyed two years after their plant closed down, allowing us to compare age gaps in reemployment among workers displaced by the same exogenous event. Combining the two experimental methods allows us to increase internal and external validity. Both the factorial survey among recruiters and the survey among displaced workers show large age barriers in hiring. Unemployed workers aged 55 are much less likely to be considered for hiring than those aged 35 with the same productive attributes. This age penalty is larger for blue-collar workers and clerks than upper-level white-collar employees, throwing doubt on the internal career hypothesis. By contrast, results for earnings are consistent with the argument that older workers' reemployment chances are hampered by high wage costs.",
+  "authors": [
+    {
+      "raw": "Oesch, Daniel",
+      "family": "Oesch",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Oesch, Daniel",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100441",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100441",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100441",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100441.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

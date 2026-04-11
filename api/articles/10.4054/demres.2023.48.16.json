@@ -1,0 +1,30 @@
+{
+  "title": "How much time is left? International trends in parenthood expectancy",
+  "abstract": "BACKGROUND Many industrialized societies have experienced increases in life expectancy and in the mean age at first birth (MAFB). This has likely impacted the lifetime that parents share with their children; i.e., parenthood expectancy (PEX).OBJECTIVE With increasing life expectancy contributing positively to PEX and increasing MAFB leading to a reduction in the time spent as an ever-parent, our goal is to study how PEX for both men and women has been affected in different countries over time.METHODS Using harmonized fertility and mortality data for women and men in 37 countries, we provide PEX estimates from a period perspective. By means of counterfactual analyses, we study the extent to which each of the two components was responsible for the observed national trends in PEX.RESULTS PEX varies between 50-58 years for women and tends to be up to 10 years shorter for men. While for mothers the effects of increasing MAFB and life expectancy almost cancel each other out, PEX for men would have been more heavily affected by stagnation in survival conditions.CONCLUSIONS For most countries and both sexes, PEX has been increasing over the observational period. However, trends in PEX over time are strongly country-specific and depend on the onset of fertility postponement relative to gains in life expectancy.",
+  "authors": [
+    {
+      "raw": "Striessnig, Erich",
+      "family": "Striessnig",
+      "given": "Erich"
+    },
+    {
+      "raw": "Trimarchi, Alessandra",
+      "family": "Trimarchi",
+      "given": "Alessandra"
+    }
+  ],
+  "authors_text": "Striessnig, Erich; Trimarchi, Alessandra",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.16",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

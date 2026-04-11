@@ -1,0 +1,30 @@
+{
+  "title": "Gender Composition of Labor Queues and Gender Disparities in Hiring",
+  "abstract": "Sex segregation across jobs is widespread. While numerous studies have investigated how hiring contributes to this phenomenon, scholars disagree on how the gender composition of the set of candidates that firms consider (labor queues) is related to gender disparities in hiring. Theories of gendered organizations posit that organizations will tend to disadvantage females across all jobs, including jobs where females predominate. Other theories suggest that female disadvantage is more localized, and in particular that it is contingent on the sex-typing of the job. Tokenism theories posit that disparities are more acute when individuals are in the position of tokens among those being evaluated. Unique among papers in this area, we examine the relationship between the gender composition of labor queues and the degree of gender disparities in hiring using a sample of 441 firms in the high-tech sector. Importantly, our setting allows us to distinguish between the predictions of theories of sex-typing and the influence of the numeric representation of women and men among those being evaluated (tokenism theories). Our main findings strongly support Kanter's token theory: screeners disadvantage both males and females when screening for positions in which candidates of the opposite gender predominate.",
+  "authors": [
+    {
+      "raw": "Campero, Santiago",
+      "family": "Campero",
+      "given": "Santiago"
+    },
+    {
+      "raw": "Fernandez, Roberto M.",
+      "family": "Fernandez",
+      "given": "Roberto M."
+    }
+  ],
+  "authors_text": "Campero, Santiago; Fernandez, Roberto M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy097",
+  "doi_url": "https://doi.org/10.1093/sf/soy097",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy097",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy097.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Assessing Causality and Persistence in Associations Between Family Dinners and Adolescent Well‐Being",
+  "abstract": "Adolescents who share meals with their parents score better on a range of well‐being indicators. Using 3 waves of the National Longitudinal Survey of Adolescent Health (N = 17,977), the authors assessed the causal nature of these associations and the extent to which they persist into adulthood. They examined links between family dinners and adolescent mental health, substance use, and delinquency at Wave 1, accounting for detailed measures of the family environment to test whether family meals simply proxy for other family processes. As a more stringent test of causality, they estimated fixed‐effects models from Waves 1 and 2, and they used Wave 3 to explore persistence in the influence of family dinners. Associations between family dinners and adolescent well‐being remained significant, net of controls, and some held up to stricter tests of causality. Beyond indirect benefits via earlier well‐being, however, family dinners associations did not persist into adulthood.",
+  "authors": [
+    {
+      "raw": "Musick, Kelly",
+      "family": "Musick",
+      "given": "Kelly"
+    },
+    {
+      "raw": "Meier, Ann",
+      "family": "Meier",
+      "given": "Ann"
+    }
+  ],
+  "authors_text": "Musick, Kelly; Meier, Ann",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2012,
+  "doi": "10.1111/j.1741-3737.2012.00973.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2012.00973.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2012.00973.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2012.00973.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

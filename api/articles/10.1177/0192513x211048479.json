@@ -1,0 +1,35 @@
+{
+  "title": "Mothers' Well-Being in Families and Family Structure: Examining Constellations of Stressors Across Life Domains",
+  "abstract": "Identifying conditions under which parents thrive is a key concern of family research. Prior research often focused on mothers' well-being in single life domains, yet it is more likely to be shaped by stressors that stem directly from the parenting role and related stressors emerging from spillover processes into other domains. We therefore examine how stressors concerning mothers' subjective, relational, and financial well-being accumulate and combine within subgroups of mothers and whether the likelihood to belong to these multidimensional subgroups varies by family structure. Using representative German data (N = 11,242), latent class analysis revealed four distinct subgroups of maternal well-being with varying exposure to financial, psychological, and relational stressors. Regression models showed that particularly single mothers were at risk to belong to the most vulnerable group with exposure to multiple stressors. Findings are discussed in light of persisting disparities among post-separation families despite demographic trends toward growing family diversity.",
+  "authors": [
+    {
+      "raw": "Recksiedler, Claudia",
+      "family": "Recksiedler",
+      "given": "Claudia"
+    },
+    {
+      "raw": "Bernhardt, Janine",
+      "family": "Bernhardt",
+      "given": "Janine"
+    },
+    {
+      "raw": "Heintz-Martin, Valerie",
+      "family": "Heintz-Martin",
+      "given": "Valerie"
+    }
+  ],
+  "authors_text": "Recksiedler, Claudia; Bernhardt, Janine; Heintz-Martin, Valerie",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x211048479",
+  "doi_url": "https://doi.org/10.1177/0192513x211048479",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x211048479",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x211048479.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

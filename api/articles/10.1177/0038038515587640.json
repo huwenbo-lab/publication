@@ -1,0 +1,25 @@
+{
+  "title": "From General Patterns to Middle-range: A Proposal for a Top-down Theorizing Strategy",
+  "abstract": "While grounded theory involves many iterations between concept-building and concept-testing, the overall direction of analysis proceeds from loosely related concepts to tightly interrelated theoretical systems. Such a ‘bottom-up’ logic of analysis may lead to a number of problems, for example descriptiveness or missing out on large-scale general patterns. This paper proposes to alleviate these problems by adopting a ‘top-down’ methodological strategy. Such a strategy begins from highlighting the most general patterns in the data. With each step of analysis the patterns are gradually broken down into more specific models. Through this process the gap between the generality of concepts and the specificity of data is reduced, eventually resulting in a middle-range theory. The historical narrative of the construction of a Soviet Estonian personal computer, Juku, is used to demonstrate the strategy in practice.",
+  "authors": [
+    {
+      "raw": "Kanger, Laur",
+      "family": "Kanger",
+      "given": "Laur"
+    }
+  ],
+  "authors_text": "Kanger, Laur",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2015,
+  "doi": "10.1177/0038038515587640",
+  "doi_url": "https://doi.org/10.1177/0038038515587640",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038515587640",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038515587640.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

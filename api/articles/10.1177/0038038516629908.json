@@ -1,0 +1,30 @@
+{
+  "title": "The Genetic and the Sociological: Exploring the Possibility of Consilience",
+  "abstract": "We argue that consilience, or the unity of all knowledge, is an important goal for all researchers to pursue. The philosophical foundations of this position are explored, and then an empirical study is presented that illustrates what could be gained by melding behaviour genetic, sociological and other perspectives on politics. Twin data are analysed to examine the extent to which sociological factors can explain the variation in three dependent variables: left/liberal versus right/conservative political orientations; party identification; and interest in politics. The results indicate that large amounts of the variance in these variables are not explained by the sociological predictors, so the residual variance is tested for genetic influences, which yields fairly high heritability estimates. We conclude that analyses that are informed by both genetic and sociological insights are essential for understanding the phenomena examined, and explore the implications of this conclusion for conventional research paradigms and for consilience.",
+  "authors": [
+    {
+      "raw": "Bell, Edward",
+      "family": "Bell",
+      "given": "Edward"
+    },
+    {
+      "raw": "Kandler, Christian",
+      "family": "Kandler",
+      "given": "Christian"
+    }
+  ],
+  "authors_text": "Bell, Edward; Kandler, Christian",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2016,
+  "doi": "10.1177/0038038516629908",
+  "doi_url": "https://doi.org/10.1177/0038038516629908",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038516629908",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038516629908.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

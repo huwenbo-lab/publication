@@ -1,0 +1,40 @@
+{
+  "title": "Social Networks and Cognition",
+  "abstract": "Social network analysis, now often thought of simply as network science, has penetrated nearly every scientific and many scholarly fields and has become an indispensable resource. Yet, social networks are special by virtue of being specifically social, and our growing understanding of the brain is affecting our understanding of how social networks form, mature, and are exploited by their members. We discuss the expanding research on how the brain manages social information, how this information is heuristically processed, and how network cognitions are affected by situation and circumstance. In the process, we argue that the cognitive turn in social networks exemplifies the modern conception of the brain as fundamentally reprogrammable by experience and circumstance. Far from social networks being dependent upon the brain, we anticipate a modern view in which cognition and social networks coconstitute each other.",
+  "authors": [
+    {
+      "raw": "Smith, Edward Bishop",
+      "family": "Smith",
+      "given": "Edward Bishop"
+    },
+    {
+      "raw": "Brands, Raina A.",
+      "family": "Brands",
+      "given": "Raina A."
+    },
+    {
+      "raw": "Brashears, Matthew E.",
+      "family": "Brashears",
+      "given": "Matthew E."
+    },
+    {
+      "raw": "Kleinbaum, Adam M.",
+      "family": "Kleinbaum",
+      "given": "Adam M."
+    }
+  ],
+  "authors_text": "Smith, Edward Bishop; Brands, Raina A.; Brashears, Matthew E.; Kleinbaum, Adam M.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2020,
+  "doi": "10.1146/annurev-soc-121919-054736",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-121919-054736",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-121919-054736",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-121919-054736.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

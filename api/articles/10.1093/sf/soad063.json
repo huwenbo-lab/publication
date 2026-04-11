@@ -1,0 +1,35 @@
+{
+  "title": "Career Compromises and Dropout from Vocational Education and Training in Germany",
+  "abstract": "This study investigates the relevance of career compromises (i.e., the discrepancy between the expected and the actually attained training position) to the decision to drop out of vocational education and training (VET), focusing on compromises in terms of social status and gender type. We pay particular attention to upward and downward compromises. Using longitudinal data on 7205 apprentices from the German National Educational Panel Study (Starting Cohort 4), the results of discrete event history models show that both dimensions of compromise are crucial to the decision to drop out of a first VET position. In particular, downward gender-type discrepancies increase the probability that female apprentices will drop out. These findings draw attention to the role of pre-entry VET policies, such as career counseling, in minimizing the incidence of career compromises.",
+  "authors": [
+    {
+      "raw": "Beckmann, Janina",
+      "family": "Beckmann",
+      "given": "Janina"
+    },
+    {
+      "raw": "Wicht, Alexandra",
+      "family": "Wicht",
+      "given": "Alexandra"
+    },
+    {
+      "raw": "Siembab, Matthias",
+      "family": "Siembab",
+      "given": "Matthias"
+    }
+  ],
+  "authors_text": "Beckmann, Janina; Wicht, Alexandra; Siembab, Matthias",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soad063",
+  "doi_url": "https://doi.org/10.1093/sf/soad063",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad063",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad063.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

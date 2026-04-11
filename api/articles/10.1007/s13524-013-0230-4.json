@@ -1,0 +1,40 @@
+{
+  "title": "Life Shocks and Homelessness",
+  "abstract": "AbstractWe exploited an exogenous health shock—namely, the birth of a child with a severe health condition—to investigate the effect of a life shock on homelessness in large cities in the United States as well as the interactive effects of the shock with housing market characteristics. We considered a traditional measure of homelessness, two measures of housing instability thought to be precursors to homelessness, and a combined measure that approximates the broadened conceptualization of homelessness under the 2009 Homeless Emergency Assistance and Rapid Transition to Housing Act (2010). We found that the shock substantially increases the likelihood of family homelessness, particularly in cities with high housing costs. The findings are consistent with the economic theory of homelessness, which posits that homelessness results from a conjunction of adverse circumstances in which housing markets and individual characteristics collide.",
+  "authors": [
+    {
+      "raw": "Curtis, Marah A.",
+      "family": "Curtis",
+      "given": "Marah A."
+    },
+    {
+      "raw": "Corman, Hope",
+      "family": "Corman",
+      "given": "Hope"
+    },
+    {
+      "raw": "Noonan, Kelly",
+      "family": "Noonan",
+      "given": "Kelly"
+    },
+    {
+      "raw": "Reichman, Nancy E.",
+      "family": "Reichman",
+      "given": "Nancy E."
+    }
+  ],
+  "authors_text": "Curtis, Marah A.; Corman, Hope; Noonan, Kelly; Reichman, Nancy E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0230-4",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0230-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0230-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0230-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

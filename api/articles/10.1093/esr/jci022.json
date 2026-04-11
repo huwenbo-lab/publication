@@ -1,0 +1,30 @@
+{
+  "title": "Predicting Cross-National Levels of Social Trust: Global Pattern or Nordic Exceptionalism?",
+  "abstract": "This analysis of variations in the level of generalized social trust (defined here as the belief that others will not deliberately or knowingly do us harm, if they can avoid it, and will look after our interests, if this is possible) in 60 nations of the world shows that trust is an integral part of a tight syndrome of social, political and economic conditions. High trust countries are characterized by ethnic homogeneity, Protestant religious traditions, good government, wealth (gross domestic product per capita), and income equality. This combination is most marked in the high trust Nordic countries but the same general pattern is found in the remaining 55 countries, albeit in a weaker form. Rural societies have comparatively low levels of generalized trust but large-scale urban societies do not. Cause and effect relations are impossible to specify exactly but ethnic homogeneity and Protestant traditions seem to have a direct impact on trust, and an indirect one through their consequences for good government, wealth and income equality. The importance of ethnic homogeneity also suggests that the difference between particularized and generalized trust may be one of degree rather than kind.",
+  "authors": [
+    {
+      "raw": "Delhey, Jan",
+      "family": "Delhey",
+      "given": "Jan"
+    },
+    {
+      "raw": "Newton, Kenneth",
+      "family": "Newton",
+      "given": "Kenneth"
+    }
+  ],
+  "authors_text": "Delhey, Jan; Newton, Kenneth",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1093/esr/jci022",
+  "doi_url": "https://doi.org/10.1093/esr/jci022",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci022",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci022.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Geofaceting: Aligning small multiples for regions in a spatially meaningful way",
+  "abstract": "BACKGROUND Creating visualizations that include multiple dimensions of the data while preserving spatial structure and readability is challenging. Here we demonstrate the use of geofaceting to meet this challenge. OBJECTIVE Using data on young adult mortality in the 32 Mexican states from 1990 to 2015, we demonstrate how aligning small multiples for territorial units, often regions, according to their approximate geographical location - geofaceting - can be used to depict complex multi-dimensional phenomena. RESULTS Geofaceting reveals the macro-level spatial pattern while preserving the flexibility of choosing any visualization techniques for the small multiples. Creating geofaceted visualizations gives all the advantages of standard plots in which one can adequately display multiple dimensions of a dataset. CONCLUSIONS Compared to other ways of small multiples arrangement, geofaceting improves the speed of regions' identification and exposes the broad spatial pattern.",
+  "authors": [
+    {
+      "raw": "Kashnitsky, Ilya",
+      "family": "Kashnitsky",
+      "given": "Ilya"
+    },
+    {
+      "raw": "Aburto, Jose Manuel",
+      "family": "Aburto",
+      "given": "Jose Manuel"
+    }
+  ],
+  "authors_text": "Kashnitsky, Ilya; Aburto, Jose Manuel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.17",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

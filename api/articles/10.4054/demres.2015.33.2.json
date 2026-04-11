@@ -1,0 +1,35 @@
+{
+  "title": "Marriage and divorce of immigrants and descendants of immigrants in Sweden",
+  "abstract": "BACKGROUND Immigrants and their second-generation descendants make up more than a quarter of the current Swedish population. Their nuptiality patterns can be viewed as crucial indicators of their integration into Swedish society. OBJECTIVES This study provides data on levels of and patterns in marriage formation, divorce, and re-marriage of people in Sweden, by country of origin. METHODS The study is based on analyses of longitudinal register data that cover all residents born in 1951 and later who ever lived in Sweden during 1983-2007. Kaplan-Meier survivor functions demonstrate levels in nuptiality; multivariate event-history analyses demonstrate relative risks of marriage formation and divorce, by country group of origin. RESULTS We find evidence of variation among immigrant groups and between migrants and Swedish-born people in marriage and divorce patterns. A few groups of migrants have relatively high churning rates in family dynamics, with high levels of marriage formation, divorce, and re-marriage. CONCLUSIONS Many factors relate to the nuptiality behavior of immigrants in Sweden. Differences in family systems seem to have some influence on behavior in the contemporary Swedish context. Other factors relate to the migration process itself and to the selectivity of migrants to Sweden.",
+  "authors": [
+    {
+      "raw": "Andersson, Gunnar",
+      "family": "Andersson",
+      "given": "Gunnar"
+    },
+    {
+      "raw": "Obucina, Ognjen",
+      "family": "Obucina",
+      "given": "Ognjen"
+    },
+    {
+      "raw": "Scott, Kirk",
+      "family": "Scott",
+      "given": "Kirk"
+    }
+  ],
+  "authors_text": "Andersson, Gunnar; Obucina, Ognjen; Scott, Kirk",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.2",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

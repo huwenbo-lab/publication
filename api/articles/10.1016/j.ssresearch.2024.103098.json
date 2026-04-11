@@ -1,0 +1,35 @@
+{
+  "title": "All in the family? Understanding differences in the kin-centricity of older US adults' core discussion networks from classic age, period, and cohort table estimates",
+  "abstract": "Panel data have generated several insights about changes in kin relationships, yet few studies examine these shifts across multiple dimensions of time simultaneously. In this paper, we use data from the National Social Life, Health, and Aging Project (N = 5269) in classic lexis tables to examine age, period, and cohort differences in the kin-centricity of older adults' core discussion networks. We estimate population averages in discussion network size, range, kin composition, and kin co-residency across ages and periods. Results indicate that older adults' core discussion networks have become larger, more diverse, and less kin-centric over time. Comparisons of fit statistics across nested models indicate that period and age effects explain most of these changes. Our findings add nuance to concerns about a growing crisis of social isolation, suggesting that declines in core discussion network kin-centricity may be accompanied by the maintenance or addition of more alternative, non-kin close ties in later life.",
+  "authors": [
+    {
+      "raw": "Compernolle, Ellen L.",
+      "family": "Compernolle",
+      "given": "Ellen L."
+    },
+    {
+      "raw": "Goldman, Alyssa",
+      "family": "Goldman",
+      "given": "Alyssa"
+    },
+    {
+      "raw": "Hedberg, Eric C.",
+      "family": "Hedberg",
+      "given": "Eric C."
+    }
+  ],
+  "authors_text": "Compernolle, Ellen L.; Goldman, Alyssa; Hedberg, Eric C.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2024.103098",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103098",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103098",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103098.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

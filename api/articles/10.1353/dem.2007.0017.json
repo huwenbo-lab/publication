@@ -1,0 +1,45 @@
+{
+  "title": "Child care availability and first-birth timing in Norway",
+  "abstract": "Abstract Both sociological and economic theories posit that widely available, high-quality, and affordable child care should have pronatalist effects. Yet to date, the empirical evidence has not consistently supported this hypothesis. We argue that this previous empirical work has been plagued by the inability to control for endogenous placement of day care centers and the possibility that people migrate to take advantage of the availability of child care facilities. Using Norwegian register data and a statistically defensible fixed-effects model, we find strong positive effects of day care availability on the transition to motherhood.",
+  "authors": [
+    {
+      "raw": "Rindfuss, Ronald R.",
+      "family": "Rindfuss",
+      "given": "Ronald R."
+    },
+    {
+      "raw": "Guilkey, David",
+      "family": "Guilkey",
+      "given": "David"
+    },
+    {
+      "raw": "Morgan, S. Philip",
+      "family": "Morgan",
+      "given": "S. Philip"
+    },
+    {
+      "raw": "Kravdal, Øystein",
+      "family": "Kravdal",
+      "given": "Øystein"
+    },
+    {
+      "raw": "Guzzo, Karen Benjamin",
+      "family": "Guzzo",
+      "given": "Karen Benjamin"
+    }
+  ],
+  "authors_text": "Rindfuss, Ronald R.; Guilkey, David; Morgan, S. Philip; Kravdal, Øystein; Guzzo, Karen Benjamin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0017",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

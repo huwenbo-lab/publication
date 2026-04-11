@@ -1,0 +1,35 @@
+{
+  "title": "The Life Course, Cohort Dynamics, and International Differences in Aging Trajectories",
+  "abstract": "In recent years, population health research has focused on understanding the determinants of later-life health. Two strands of that work have focused on (1) international comparisons of later-life health and (2) assessing the early-life origins of disease and disability and the importance of life course processes. However, the less frequently examined intersection of these approaches remains an important frontier. The present study contributes to the integration of these approaches. We use the Health and Retirement Study family of data sets and a cohort dynamic approach to compare functional health trajectories across 12 high-income countries and to examine the role of life course processes and cohort dynamics in contributing to variation in those trajectories. We find substantial international variation in functional health trajectories and an important role of cohort dynamics in generating that variation, with younger cohorts often less healthy at comparable ages than the older cohorts they are replacing. We further find evidence of heterogeneous effects of life course processes on health trajectories. The results have important implications for future trends in morbidity and mortality as well as public policy.",
+  "authors": [
+    {
+      "raw": "Haas, Steven A.",
+      "family": "Haas",
+      "given": "Steven A."
+    },
+    {
+      "raw": "Oi, Katsuya",
+      "family": "Oi",
+      "given": "Katsuya"
+    },
+    {
+      "raw": "Zhou, Zhangjun",
+      "family": "Zhou",
+      "given": "Zhangjun"
+    }
+  ],
+  "authors_text": "Haas, Steven A.; Oi, Katsuya; Zhou, Zhangjun",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0624-9",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0624-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0624-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0624-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

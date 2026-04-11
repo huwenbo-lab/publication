@@ -1,0 +1,35 @@
+{
+  "title": "Building walls or opening borders? Global immigration policy attitudes across economic, cultural and human security contexts",
+  "abstract": "Using data from the World Values Survey for 51 countries, we conduct a multi-level analysis with mixed effects multinomial logistic regression models to explore the effects of economic context, cultural context, and national security events on immigration policy attitudes. Analyses of attitudes towards immigration to date have been limited in key respects: the scope has been mostly restricted to Western Europe and the Americas; limited attention has been paid to institutional and sociopolitical features of the macro-context; and national security events have been rarely taken into account. We propose a theoretical framework incorporating three overarching contextual domains. We find support for two of the three contextual domains. Contrary to our expectation, macro-level economic context shows no association immigration policy attitudes, and soda-cultural context evinces unexpected patterns. However, in the national security domain, recent terrorist events demonstrate a consistent association with anti-immigration policy attitudes.",
+  "authors": [
+    {
+      "raw": "Young, Yvette",
+      "family": "Young",
+      "given": "Yvette"
+    },
+    {
+      "raw": "Loebach, Peter",
+      "family": "Loebach",
+      "given": "Peter"
+    },
+    {
+      "raw": "Korinek, Kim",
+      "family": "Korinek",
+      "given": "Kim"
+    }
+  ],
+  "authors_text": "Young, Yvette; Loebach, Peter; Korinek, Kim",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.06.006",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.06.006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.06.006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.06.006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

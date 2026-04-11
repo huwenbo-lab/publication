@@ -1,0 +1,35 @@
+{
+  "title": "Contribution of the Rise in Cohabiting Parenthood to Family Instability: Cohort Change in Italy, Great Britain, and Scandinavia",
+  "abstract": "In this study, we investigate through microsimulation the link between cohabiting parenthood and family instability. We identify mechanisms through which increases in cohabiting parenthood may contribute to overall increases in separation among parents, linking micro-level processes to macro-level outcomes. Analyses are based on representative surveys in Italy, Great Britain, and Scandinavia (represented by Norway and Sweden), with full histories of women's unions and births. We first generate parameters for the risk of first and higher-order birth and union events by woman's birth cohort and country. The estimated parameters are used to generate country- and cohort-specific populations of women with stochastically predicted family life courses. We use the hypothetical populations to decompose changes in the percentage of mothers who separate/divorce across maternal birth cohorts (1940s to 1950s, 1950s to 1960s, 1960s to 1970s), identifying how much of the change can be attributed to shifts in union status at first birth and how much is due to change in separation rates for each union type. We find that when cohabiting births were uncommon, increases in parents' separation were driven primarily by increases in divorce among married parents. When cohabiting parenthood became more visible, it also became a larger component, but continued increases in parents' divorce also contributed to increasing parental separation. When cohabiting births became quite common, the higher separation rates of cohabiting parents began to play a greater role than married parents' divorce. When most couples had their first birth in cohabitation, those having children in marriage were increasingly selected from the most stable relationships, and their decreasing divorce rates offset the fact that increasing proportions of children were born in somewhat less stable cohabiting unions.",
+  "authors": [
+    {
+      "raw": "Thomson, Elizabeth",
+      "family": "Thomson",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Winkler-Dworak, Maria",
+      "family": "Winkler-Dworak",
+      "given": "Maria"
+    },
+    {
+      "raw": "Beaujouan, Eva",
+      "family": "Beaujouan",
+      "given": "Eva"
+    }
+  ],
+  "authors_text": "Thomson, Elizabeth; Winkler-Dworak, Maria; Beaujouan, Eva",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00823-0",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00823-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00823-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00823-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

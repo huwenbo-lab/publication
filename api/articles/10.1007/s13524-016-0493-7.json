@@ -1,0 +1,30 @@
+{
+  "title": "Geographic Variation in the Cumulative Risk of Imprisonment and Parental Imprisonment in the United States",
+  "abstract": "This article reports estimates of the cumulative risk of imprisonment and parental imprisonment for demographic groups in four regions and four states. Regional and state-level cumulative risks were markedly higher for African Americans and Latinos than for whites. African Americans faced the highest cumulative risks of imprisonment in the Midwest, Northeast, and two southern states. Latinos were most likely to serve time in state prison in the West, where their cumulative risk was comparable to that of African Americans. Latino children had a relatively high risk of having a parent imprisoned in the Northeast as well. Racial disparities in the cumulative risk of imprisonment and parental imprisonment did not increase linearly with increases in the cumulative risk for all groups.",
+  "authors": [
+    {
+      "raw": "Muller, Christopher",
+      "family": "Muller",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Wildeman, Christopher",
+      "family": "Wildeman",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Muller, Christopher; Wildeman, Christopher",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0493-7",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0493-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0493-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0493-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

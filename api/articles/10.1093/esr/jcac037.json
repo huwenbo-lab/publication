@@ -1,0 +1,35 @@
+{
+  "title": "A big (male) fish in a small pond? The gendered effect of relative ability on STEM aspirations under stereotype threat",
+  "abstract": "Despite gender similarity in math ability, studies show persistent gender differences in STEM aspirations among adolescents. Extending previous literature on student math ability, biased self-assessment, and gender stereotypes, this paper emphasizes on the important process of social comparison in producing gender disparities in STEM aspirations. In particular, we examine the crucial role of relative ability, or a student's ordinal ability rank within their peer group, and its interaction with the gender-math stereotypical environment. Using unique information on random classroom assignments from the China Educational Panel Survey (CEPS), we are able to exploit idiosyncratic variation in classmate composition to identify the effect of ability rank on student STEM aspirations and the moderating role of student exposure to gender-math stereotype. We show that after controlling for absolute cognitive ability, the effect of a student's ability rank on STEM aspirations differs by gender, with girls benefiting less relative to boys from a higher ability rank in class. Moreover, this gender difference in the effect of ability rank on STEM aspirations is larger among students who are exposed to a higher level of gender-math stereotype from classmates. We discuss the theoretical and empirical implications of our findings.",
+  "authors": [
+    {
+      "raw": "Kim, Jinho",
+      "family": "Kim",
+      "given": "Jinho"
+    },
+    {
+      "raw": "Liu, Ran",
+      "family": "Liu",
+      "given": "Ran"
+    },
+    {
+      "raw": "Zhao, Xiaohang",
+      "family": "Zhao",
+      "given": "Xiaohang"
+    }
+  ],
+  "authors_text": "Kim, Jinho; Liu, Ran; Zhao, Xiaohang",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac037",
+  "doi_url": "https://doi.org/10.1093/esr/jcac037",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac037",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac037.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

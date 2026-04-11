@@ -1,0 +1,25 @@
+{
+  "title": "Gender differences in the impact of job mobility on earnings: The role of occupational segregation",
+  "abstract": "In recent years, researchers have begun to explore the extent to which the impact of switching firms (inter-firm mobility) on wages varies between men and women. Using data from the NLSY79 from 1979 to 2012, this paper extends existing research by exploring how occupational segregation and individual level factors contribute to gender differences in the impact of voluntary inter-firm mobility on wages. The paper also examines how patterns vary depending on education level. Findings suggest that men without a college education receive greater wage gains from voluntary inter-firm mobility than similarly educated women although there is no overall gender difference for individuals with a bachelor's degree. The wage returns to voluntary inter-firm mobility for both men and women increase as a function of the male representation in the occupation. For individuals without a college education, the male premium to voluntary inter-firm mobility is largest in highly male dominated occupations. However, women with a bachelor's degree employed in highly male dominated occupations use voluntary inter-firm mobility to narrow the gender wage gap.",
+  "authors": [
+    {
+      "raw": "Pearlman, Jessica",
+      "family": "Pearlman",
+      "given": "Jessica"
+    }
+  ],
+  "authors_text": "Pearlman, Jessica",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.05.010",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.05.010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.05.010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.05.010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

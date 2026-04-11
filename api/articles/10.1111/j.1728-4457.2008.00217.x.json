@@ -1,0 +1,40 @@
+{
+  "title": "Has the HIV epidemic peaked?",
+  "abstract": "This study reviews the highly diverse regional and country patterns of HIV epidemics and discusses possible causes of the geographic variation in epidemic sizes. Past trends and projections of the epidemics are presented and the peak years of epidemics are estimated. The potential future impact of new prevention technologies is briefly assessed. A final section summarizes the future impact of the epidemic on key demographic variables. The main finding of this analysis is that the HIV epidemic reached a major turning point over the past decade. The peak years of HIV incidence rates are past for all regions, and the peaks of prevalence rates are mostly in the past except in Eastern Europe, where they are expected to peak in 2008. But owing in part to the life-prolonging effect of antiretroviral therapy and to sustained population growth, the absolute number of infected individuals is expected to keep growing slowly in sub-Saharan Africa and to remain near current levels worldwide, thus posing a continuing challenge to public health programs. No country is expected to see a decline in its population size between 2005 and 2050 that is attributable to high mortality related to AIDS.",
+  "authors": [
+    {
+      "raw": "Bongaarts, John",
+      "family": "Bongaarts",
+      "given": "John"
+    },
+    {
+      "raw": "Buettner, Thomas",
+      "family": "Buettner",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Heilig, Gerhard",
+      "family": "Heilig",
+      "given": "Gerhard"
+    },
+    {
+      "raw": "Pelletier, Francois",
+      "family": "Pelletier",
+      "given": "Francois"
+    }
+  ],
+  "authors_text": "Bongaarts, John; Buettner, Thomas; Heilig, Gerhard; Pelletier, Francois",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2008,
+  "doi": "10.1111/j.1728-4457.2008.00217.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2008.00217.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2008.00217.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2008.00217.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

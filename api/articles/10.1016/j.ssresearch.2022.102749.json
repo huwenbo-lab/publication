@@ -1,0 +1,35 @@
+{
+  "title": "Measuring the association between fathers' involvement and risky behaviours in adolescence",
+  "abstract": "Understanding the drivers of adolescent risky behaviour is important given the costs that such behaviours impose on society and young people themselves. Evidence shows that early parentchild relations shape children's development and behaviour, however we know relatively little about the potential causal pathways that lead to risky behaviour and the differential impact of fathers' and mothers' childcare involvement. This study tests whether paternal involvement in childcare at age 11 is associated with adolescent risky behaviour at age 14. Accounting for likely mediators, we run a Structural Equation model on three sweeps (2008-2015) of the UK's Millennium Cohort Study. Results show significant associations between father's involvement and reduction in adolescent risky behaviour. Father's involvement and father-adolescent closeness are shown to be stronger predictors of risky behaviours relative to mother's involvement and motheradolescent closeness. This has implications for delinquency prevention programs that should be (re)designed to encourage healthy father-child bonds in adolescence.",
+  "authors": [
+    {
+      "raw": "Vanchugova, Darya",
+      "family": "Vanchugova",
+      "given": "Darya"
+    },
+    {
+      "raw": "Norman, Helen",
+      "family": "Norman",
+      "given": "Helen"
+    },
+    {
+      "raw": "Elliot, Mark James",
+      "family": "Elliot",
+      "given": "Mark James"
+    }
+  ],
+  "authors_text": "Vanchugova, Darya; Norman, Helen; Elliot, Mark James",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2022.102749",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102749",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102749",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102749.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

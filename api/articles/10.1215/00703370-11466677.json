@@ -1,0 +1,35 @@
+{
+  "title": "Early-Life Disease Exposure and Its Heterogeneous Effects on Mortality Throughout Life: Sweden, 1905-2016",
+  "abstract": "Exposure to infec tious dis eases in early life has been linked to increased mor tal ity risk in later life in high-dis ease set tings, such as eigh teenth- and nineteenthcentury Europe. Less is known about the long-term effects of early-life disease exposure in milder disease environments. This study estimates heterogeneous effects from dis ease expo sure in infancy on later-life mor tal ity in twen ti eth-cen tury Sweden, by socio eco nomic sta tus at birth and sex. Using his tor i cal pop u la tion data for south ern Sweden, we study 11,515 indi vid u als who were born in 1905-1929 from age 1 until age 85. We mea sure expo sure to dis ease using the local post-early neo na tal mor tal ity rate in the first 12 months afterbirth and apply flexible parametric survival models. For females, we find a negative effect on life expectancy (scarring) at ages 1-85 following high disease exposure in infancy, particularly for those born to unskilled workers. For males, we find no negative effect on later-life survival, likely because stronger mortality selec tion in infancy out weighs scar ring. Thus, even as the inci dence of infec tious diseases declined at the start of the twen ti eth cen tury, early-life dis ease expo sure gen er ated long-lasting negative but heterogeneous population health effects.",
+  "authors": [
+    {
+      "raw": "Cormack, Louise",
+      "family": "Cormack",
+      "given": "Louise"
+    },
+    {
+      "raw": "Lazuka, Volha",
+      "family": "Lazuka",
+      "given": "Volha"
+    },
+    {
+      "raw": "Quaranta, Luciana",
+      "family": "Quaranta",
+      "given": "Luciana"
+    }
+  ],
+  "authors_text": "Cormack, Louise; Lazuka, Volha; Quaranta, Luciana",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11466677",
+  "doi_url": "https://doi.org/10.1215/00703370-11466677",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11466677",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11466677.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

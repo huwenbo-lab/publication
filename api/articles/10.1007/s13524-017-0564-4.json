@@ -1,0 +1,25 @@
+{
+  "title": "Childhood Family Structure and Intergenerational Income Mobility in the United States",
+  "abstract": "The declining prevalence of two-parent families helped increase income inequality over recent decades. Does family structure also condition how economic (dis)advantages pass from parents to children? If so, shifts in the organization of family life may contribute to enduring inequality between groups defined by childhood family structure. Using National Longitudinal Survey of Youth data, I combine parametric and nonparametric methods to reveal how family structure moderates intergenerational income mobility in the United States. I find that individuals raised outside stable two-parent homes are much more mobile than individuals from stable two-parent families. Mobility increases with the number of family transitions but does not vary with children's time spent coresiding with both parents or stepparents conditional on a transition. However, this mobility indicates insecurity, not opportunity. Difficulties maintaining middle-class incomes create downward mobility among people raised outside stable two-parent homes. Regardless of parental income, these people are relatively likely to become low-income adults, reflecting a new form of perverse equality. People raised outside stable two-parent families are also less likely to become high-income adults than people from stable two-parent homes. Mobility differences account for about one-quarter of family-structure inequalities in income at the bottom of the income distribution and more than one-third of these inequalities at the top.",
+  "authors": [
+    {
+      "raw": "Bloome, Deirdre",
+      "family": "Bloome",
+      "given": "Deirdre"
+    }
+  ],
+  "authors_text": "Bloome, Deirdre",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0564-4",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0564-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0564-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0564-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

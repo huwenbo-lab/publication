@@ -1,0 +1,25 @@
+{
+  "title": "The Effect of Same-Sex Marriage Laws on Different-Sex Marriage: Evidence From the Netherlands",
+  "abstract": "Abstract It has long been argued that the legalization of same-sex marriage would have a negative impact on marriage. In this article, I examine how different-sex marriage in the Netherlands was affected by the enactment of two laws: a 1998 law that provided all couples with an institution almost identical to marriage (a “registered partnership”) and a 2001 law that legalized same-sex marriage for the first time in the world. I first construct a synthetic control for the Netherlands using OECD data for the period 1988–2005 and find that neither law had significant effects on either the overall or different-sex marriage rate. I next construct a unique individual-level data set covering the period 1995–2005 by combining the Dutch Labor Force Survey and official municipal records. The estimates from a discrete-time hazard model with unobserved heterogeneity for the first-marriage decision confirm the findings in the aggregate analysis. The effects of the two laws are heterogeneous, with presumably more-liberal individuals (as defined by their residence or ethnicity) marrying less after passage of both laws and potentially more-conservative individuals marrying more after passage of each law.",
+  "authors": [
+    {
+      "raw": "Trandafir, Mircea",
+      "family": "Trandafir",
+      "given": "Mircea"
+    }
+  ],
+  "authors_text": "Trandafir, Mircea",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0248-7",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0248-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0248-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0248-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

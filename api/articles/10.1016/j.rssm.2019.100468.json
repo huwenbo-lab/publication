@@ -1,0 +1,30 @@
+{
+  "title": "Occupations, organizations, and the structure of wage inequality in the Netherlands",
+  "abstract": "Recent studies have identified both occupations and organizations as important structures underpinning wage inequality in the labor market. In this article we investigate how the two structures might work together in explaining inequality. More specifically, we study how organizations affect between- and within-occupation inequality. Using a combination of Dutch linked employer-employee register data and the Dutch labor force survey, we find that organizations are more important in explaining wage differentials between occupations than wage inequality between workers with the same occupation. While organizations are far away from solely driving heterogeneity in pay among workers in the same occupation, we find that the sorting of high-paying occupations in high-paying firms (and vice versa) is an important mechanism by which both structures affect inequality. Our findings emphasize the importance of moving away from an isolated study of occupations or organizations towards an analytical integration of both structures for understanding wage inequality.",
+  "authors": [
+    {
+      "raw": "Janietz, Christoph",
+      "family": "Janietz",
+      "given": "Christoph"
+    },
+    {
+      "raw": "Bol, Thijs",
+      "family": "Bol",
+      "given": "Thijs"
+    }
+  ],
+  "authors_text": "Janietz, Christoph; Bol, Thijs",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100468",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100468",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100468",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100468.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

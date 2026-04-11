@@ -1,0 +1,25 @@
+{
+  "title": "Collateral Consequences of Violence in Disadvantaged Neighborhoods",
+  "abstract": "Using data from Addhealth, this study investigates the role of neighborhood violence in mediating the effects of neighborhood disadvantage on high school graduation and teenage pregnancy. Results show that neighborhood violence is a strong predictor of both outcomes, net of individual, family, community, and school controls. Neighborhood violence accounts for almost half the conditional association between neighborhood disadvantage and high school graduation among males and almost all of the association among females. Violence also accounts for about one fifth of the conditional association between disadvantage and teenage pregnancy among adolescents of both genders. Violence is a critical social characteristic of disadvantaged neighborhoods, one that explains a sizable portion of the effects of growing up in such neighborhoods.",
+  "authors": [
+    {
+      "raw": "Harding, D. J.",
+      "family": "Harding",
+      "given": "D. J."
+    }
+  ],
+  "authors_text": "Harding, D. J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0281",
+  "doi_url": "https://doi.org/10.1353/sof.0.0281",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0281",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0281.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Fair inequality? Attitudes toward pay differentials: The United States in comparative perspective",
+  "abstract": "Are American attitudes toward economic inequality different from those in other countries? One tradition in sociology suggests American exceptionalism, while another argues for convergence across nations in social norms, such as attitudes toward inequality. This article uses International Social Survey Program (ISSP) microdata to compare attitudes in different countries toward what individuals in specific occupations do earn and what they should earn, and to distinguish value preferences for more egalitarian outcomes from other confounding attitudes and perceptions. The authors suggest a method for summarizing individual preferences for the leveling of earnings and use kernel density estimates to describe and compare the distribution of individual preferences over time and cross-nationally. They find that subjective estimates of inequality in pay diverge substantially from actual data, and that although Americans do not, on the average, have different preferences for aggregate (in)equality, there is evidence for: 1. Less awareness concerning the extent of inequality at the top of the income distribution in America 2. More polarization in attitudes among Americans 3. Similar preferences for leveling down at the top of the earnings distribution in the United States, but also 4. Less concern for reducing differentials at the bottom of the distribution.",
+  "authors": [
+    {
+      "raw": "Osberg, Lars",
+      "family": "Osberg",
+      "given": "Lars"
+    },
+    {
+      "raw": "Smeeding, Timothy",
+      "family": "Smeeding",
+      "given": "Timothy"
+    }
+  ],
+  "authors_text": "Osberg, Lars; Smeeding, Timothy",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1177/000312240607100305",
+  "doi_url": "https://doi.org/10.1177/000312240607100305",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240607100305",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240607100305.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

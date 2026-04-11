@@ -1,0 +1,30 @@
+{
+  "title": "Evaluating interviewer manipulation in the new round of the Generations and Gender Survey",
+  "abstract": "BACKGROUND Past research has criticized the quality of the Generations and Gender Survey retrospective fertility and partnership histories. For example, fatigue and learning effects were deemed responsible for distortions in the Generations and Gender Survey in Germany. OBJECTIVE We assess the quality of the Generations and Gender Survey for Belarus (GGS-BL) in 2017 to assess whether the new centralized fieldwork system and monitoring procedures are effective in preventing distortions in life history data. METHODS We conduct a range of analyses to find evidence of fatigue and learning effects on the part of both interviewers and respondents. Multilevel models, comparison of crucial indicators with other sources, and descriptive analysis of item-nonresponse are used. RESULTS In a preliminary analysis, we find no evidence of severe distortions. An in-depth analysis into interviewer and respondent effects reveals some small signs of possible manipulation. However, when assessing the impact of anomalous interviewers on the indicators more likely to be affected, we find no evidence of harm to data quality. CONCLUSION The new data collection procedure adopted by the Generations and Gender Survey seems to be effective in preventing detectable manipulation and fabrication. Furthermore, we dismiss the hypothesis that fatigue and learning effects are a source of bias in the collection of life history data. CONTRIBUTION This paper delivers three key messages: (1) the Generations and Gender Survey for Belarus is a reliable source for retrospective histories, (2) in-field checks are an effective tool to prevent fabrication, and (3) extensive use of inexperienced interviewers does not seem to harm data quality when adequate monitoring and monitoring is in place.",
+  "authors": [
+    {
+      "raw": "Paglino, Eugenio",
+      "family": "Paglino",
+      "given": "Eugenio"
+    },
+    {
+      "raw": "Emery, Tom",
+      "family": "Emery",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "Paglino, Eugenio; Emery, Tom",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.50",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.50",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.50",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.50.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

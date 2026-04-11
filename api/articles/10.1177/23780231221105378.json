@@ -1,0 +1,30 @@
+{
+  "title": "Do Same-Gender Peers in the Classroom Have Heterogeneous Impacts on Male and Female Students?",
+  "abstract": "The authors investigate if same-gender peers in the immediate learning context have heterogeneous associations with academic outcomes of male and female students. By applying within-student across-subjects models to data from 44 countries in the Trends in International Mathematics and Science Study, the authors examine “situational” within-classroom differences between immediate (peer) learning environments for the same student. The results show, first, that student outcomes are correlated primarily with traits of same-gender peers and, second, that different peer traits have diverse associations with student outcomes. Because of the empirical design, the authors are able to hold factors such as the socioeconomic composition of peers and friendships constant. These findings highlight the importance of gender in the peer influence process in the classroom as well as the diverse channels through which peer traits operate.",
+  "authors": [
+    {
+      "raw": "Smith, Emil",
+      "family": "Smith",
+      "given": "Emil"
+    },
+    {
+      "raw": "Andersen, Ida Gran",
+      "family": "Andersen",
+      "given": "Ida Gran"
+    }
+  ],
+  "authors_text": "Smith, Emil; Andersen, Ida Gran",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221105378",
+  "doi_url": "https://doi.org/10.1177/23780231221105378",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221105378",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221105378.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

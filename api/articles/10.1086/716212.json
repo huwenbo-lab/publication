@@ -1,0 +1,25 @@
+{
+  "title": "Shaking Things Up: Disruptive Events and Inequality",
+  "abstract": "This article develops a theory of how disruptive events could reduce racial and gender inequality in organizations. Despite pressure from regulators and advocates, racial and gender inequality in the workplace remains high. The article theorizes that because such inequality is often reinforced by organizational inertia, disruptive changes that shake up old hierarchies, break down routines, and shift culture could offer an opportunity for racial minority and women workers to advance. The author tests this theory by examining 37,343 mergers and acquisitions in the United States from 1971 to 2015. Using a difference-in-differences design, the author finds that although acquisitions lead to occupational reconfigurations that favor higher-skilled workers, they also improve the managerial representation of racial minorities and women and reduce racial and gender segregation in the acquired workplace. These findings suggest that certain radical organizational changes could significantly reduce racial and gender inequality.",
+  "authors": [
+    {
+      "raw": "Zhang, Letian",
+      "family": "Zhang",
+      "given": "Letian"
+    }
+  ],
+  "authors_text": "Zhang, Letian",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2021,
+  "doi": "10.1086/716212",
+  "doi_url": "https://doi.org/10.1086/716212",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F716212",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/716212.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

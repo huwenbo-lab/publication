@@ -1,0 +1,25 @@
+{
+  "title": "The impact of childhood neighborhood disadvantage on adult joblessness and income",
+  "abstract": "Research on residential inequality focuses heavily on adult economic outcomes as crucial components of the intergenerational transmission of poverty. Yet, empirical evidence on whether youth neighborhoods have a lasting impact on adult economic outcomes at the national level is scarce. Further, we know little about how youth neighborhood effects on adult economic outcomes manifest. This study uses 26 years (14 waves) of restricted panel data from the NLSY79 and the NLSY Children and Young Adults cohorts data that have never been used to analyze long-term neighborhood effects to examine whether youth neighborhood disadvantage impacts adult economic outcomes through sensitive years in childhood, teen socialization, duration effects, or cumulative effects. Sibling fixed effects models that net out unobserved effects of shared family characteristics suggest that youth neighborhood disadvantage increases joblessness and reduces income in adulthood. However, exposure across specific developmental stages of youth does not appear to act as a significant moderator while sustained exposure yields pernicious effects on adult economic outcomes. Moreover, these results are robust to alternative variable specifications and cousin fixed effects that net out potentially unobserved confounders, such as the inheritance of neighborhood disadvantage across three generations.",
+  "authors": [
+    {
+      "raw": "Alvarado, Steven Elias",
+      "family": "Alvarado",
+      "given": "Steven Elias"
+    }
+  ],
+  "authors_text": "Alvarado, Steven Elias",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2017.10.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.10.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.10.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.10.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

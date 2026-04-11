@@ -1,0 +1,25 @@
+{
+  "title": "The Control of Managerial Discretion: Evidence from Unionization's Impact on Employment Segregation",
+  "abstract": "Does limiting managers' discretion limit organizations' scope for discrimination? Social-psychological research argues that it limits opportunities to exercise cognitive biases. Organizational research has found that formal personnel practices that establish accountability for workplace diversity have increased women and minority representation in management. However, drawing causal inferences from such studies is complicated because adopting such policies may be endogenous to the firm's wish to hire and promote women and minorities. This study uses unionization elections to conduct a regression-discontinuity test from which stronger causal inferences can be made. It finds that while unionization is associated with more representative workplaces and more women and minorities in management, these effects disappear close to the discontinuity threshold. Most of the effects of unionization on workforce diversity may be attributable to the unobserved drivers of selection into unionization. This has similar implications for the causal effects of diversity policies adopted by managers.",
+  "authors": [
+    {
+      "raw": "Ferguson, John-Paul",
+      "family": "Ferguson",
+      "given": "John-Paul"
+    }
+  ],
+  "authors_text": "Ferguson, John-Paul",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2015,
+  "doi": "10.1086/683357",
+  "doi_url": "https://doi.org/10.1086/683357",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F683357",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/683357.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

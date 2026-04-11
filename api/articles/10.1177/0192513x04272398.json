@@ -1,0 +1,35 @@
+{
+  "title": "The Timing of First Marriage",
+  "abstract": "Using survey data from a nationally representative sample, this article explores how marriage timing varies across major religious denominations. Survival analysis indicates that net of statistical controls, Catholics, moderate Protestants, conservative Protestants, and Mormons marry significantly earlier than their unaffiliated counterparts. This holds true for women and men. However, no statistical differences emerge between Jews, liberal Protestants, and the unaffiliated. As surmised, auxiliary statistical tests reveal additional religious subcultural variations: (a) Jews tend to marry later than Catholics, conservative Protestants, and Mormons; (b) Catholics also marry later than conservative Protestants and Mormons; (c) no statistical difference surfaces between Mormons and conservative Protestants; and (d) differences between Catholics and liberal Protestants as well as between Jews and liberal Protestants are statistically negligible. These findings systematically support the denominational subcultural paradigm in the case of marriage timing.",
+  "authors": [
+    {
+      "raw": "Xu, Xiaohe",
+      "family": "Xu",
+      "given": "Xiaohe"
+    },
+    {
+      "raw": "Hudspeth, Clark D.",
+      "family": "Hudspeth",
+      "given": "Clark D."
+    },
+    {
+      "raw": "Bartkowski, John P.",
+      "family": "Bartkowski",
+      "given": "John P."
+    }
+  ],
+  "authors_text": "Xu, Xiaohe; Hudspeth, Clark D.; Bartkowski, John P.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2005,
+  "doi": "10.1177/0192513x04272398",
+  "doi_url": "https://doi.org/10.1177/0192513x04272398",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x04272398",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x04272398.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

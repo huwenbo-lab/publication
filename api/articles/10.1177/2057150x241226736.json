@@ -1,0 +1,45 @@
+{
+  "title": "The shackles of gender still exist: Chinese women authors' consciousness in boys' love fiction",
+  "abstract": "Boys' love (BL) fiction has flourished in China since the beginning of the twenty-first century. It primarily focuses on the romance between men, while most authors and readers of BL fiction are heterosexual women; thus it is paradoxically patriarchal and feminist. This study aims to explore two main questions: (1) What topics do Chinese BL fiction authors prefer? (2) How do the gender concepts of Chinese culture affect the topics and contents of BL fiction? Adopting machine learning methods--the Latent Dirichlet Allocation (LDA) topic model and word vector technology-this study presents the typical topics and specific contents of 72,548 original BL fiction pieces from synchronic and diachronic dimensions. The findings reveal that Chinese BL fiction extensively uses Chinese myths and history to create heterosexually structured fantasies. Furthermore, under the Chinese patriarchal culture, primarily the clan concept, BL authors attach great importance to marriage and reproduction issues. Such discourses eventually limit Chinese BL women authors' awakening of a feminist consciousness.",
+  "authors": [
+    {
+      "raw": "Ma, Wen",
+      "family": "Ma",
+      "given": "Wen"
+    },
+    {
+      "raw": "Chen, Zhuo",
+      "family": "Chen",
+      "given": "Zhuo"
+    },
+    {
+      "raw": "Li, Ying",
+      "family": "Li",
+      "given": "Ying"
+    },
+    {
+      "raw": "Ju, Guodong",
+      "family": "Ju",
+      "given": "Guodong"
+    },
+    {
+      "raw": "Chen, Yunsong",
+      "family": "Chen",
+      "given": "Yunsong"
+    }
+  ],
+  "authors_text": "Ma, Wen; Chen, Zhuo; Li, Ying; Ju, Guodong; Chen, Yunsong",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1177/2057150x241226736",
+  "doi_url": "https://doi.org/10.1177/2057150x241226736",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x241226736",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x241226736.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Broken Promises: Abstinence Pledging and Sexual and Reproductive Health",
+  "abstract": "Approximately 12% of girls and young women in the United States pledge abstinence. Yet most break their pledges, engaging in first intercourse before marriage. The extant literature reports few differences between pledge breakers and nonpledgers in sexually transmitted infections and nonmarital pregnancies. The present research maintains that previous studies may have obscured important differences in exposure risk and hypothesizes that female pledge breakers who have higher exposure risk are more likely to experience human papillomavirus (HPV) and nonmarital pregnancies. To test this hypothesis, this study uses the National Longitudinal Study of Adolescent to Adult Health, logistic regression, and event history modeling. The results show that, after accounting for differences in exposure risk, pledge breakers have higher risk of HPV and nonmarital pregnancy. As a set, the results are consistent with the argument that pledgers use condoms and contraceptives less consistently and highlight unintended consequences of abstinence promotion.",
+  "authors": [
+    {
+      "raw": "Paik, Anthony",
+      "family": "Paik",
+      "given": "Anthony"
+    },
+    {
+      "raw": "Sanchagrin, Kenneth J.",
+      "family": "Sanchagrin",
+      "given": "Kenneth J."
+    },
+    {
+      "raw": "Heimer, Karen",
+      "family": "Heimer",
+      "given": "Karen"
+    }
+  ],
+  "authors_text": "Paik, Anthony; Sanchagrin, Kenneth J.; Heimer, Karen",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2016,
+  "doi": "10.1111/jomf.12279",
+  "doi_url": "https://doi.org/10.1111/jomf.12279",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12279",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12279.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

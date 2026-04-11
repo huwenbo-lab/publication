@@ -1,0 +1,30 @@
+{
+  "title": "Unfair Tournaments",
+  "abstract": "This paper addresses the gender pay gap among Italian university graduates on entry to the labor market, and stresses the potential for gender stereotypes to impact subjective assessment of individual productivity. We build upon previous research about gender and wage inequality, introducing tournament theory as a framework for the gender pay gap analysis. We hypothesize that the effects of gender make occupational tournaments less fair in some arenas compared with others. As a consequence, men workers have higher probabilities of winning the wage competition, but this process is uneven. Our data show that in contexts where stereotypes are most likely to occur, tournaments appear to be less fair and the unexplained component of the gender pay gap is higher.",
+  "authors": [
+    {
+      "raw": "Castagnetti, Carolina",
+      "family": "Castagnetti",
+      "given": "Carolina"
+    },
+    {
+      "raw": "Rosti, Luisa",
+      "family": "Rosti",
+      "given": "Luisa"
+    }
+  ],
+  "authors_text": "Castagnetti, Carolina; Rosti, Luisa",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2013,
+  "doi": "10.1177/0891243213490231",
+  "doi_url": "https://doi.org/10.1177/0891243213490231",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243213490231",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243213490231.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Role of Gender Stereotypes in Hiring: A Field Experiment",
+  "abstract": "Using correspondence testing, we investigate if employers discriminate against women based on stereotypes or prejudices. We sent four (two pairs of fictitious man-woman) resumes to 1,372 job offers from a broad selection of occupations. In one pair, candidates had equivalent curriculum vitae (CVs) except for their sex and their qualifications (meeting standards or higher). In the second pair, candidates differed by sex and parenthood status (with or without children). We interpret the observed differences in favour of men as signalling gender bias in recruitment. This bias is reduced when women have higher qualifications and increases when they have children. We interpret employers' openness to modify their decisions when candidates' personal characteristics differ from the group norm, and the absence of discrimination among highly qualified non-mothers, as evidence that gender bias in recruitment is largely grounded in employers' stereotypes rather than in prejudices.",
+  "authors": [
+    {
+      "raw": "Jose Gonzalez, M.",
+      "family": "Jose Gonzalez",
+      "given": "M."
+    },
+    {
+      "raw": "Cortina, Clara",
+      "family": "Cortina",
+      "given": "Clara"
+    },
+    {
+      "raw": "Rodriguez, Jorge",
+      "family": "Rodriguez",
+      "given": "Jorge"
+    }
+  ],
+  "authors_text": "Jose Gonzalez, M.; Cortina, Clara; Rodriguez, Jorge",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcy055",
+  "doi_url": "https://doi.org/10.1093/esr/jcy055",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy055",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy055.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

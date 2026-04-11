@@ -1,0 +1,40 @@
+{
+  "title": "Demographics of the gay and lesbian population in the United States: Evidence from available systematic data sources",
+  "abstract": "Abstract This work provides an overview of standard social science data sources that now allow some systematic study of the gay and lesbian population in the United States. For each data source, we consider how sexual orientation can be defined, and we note the potential sample sizes. We give special attention to the important problem of measurement error, especially the extent to which individuals recorded as gay and lesbian are indeed recorded correctly. Our concern is that because gays and lesbians constitute a relatively small fraction of the population, modest measurement problems could lead to serious errors in inference. In examining gays and lesbians in multiple data sets we also achieve a second objective: We provide a set of statistics about this population that is relevant to several current policy debates.",
+  "authors": [
+    {
+      "raw": "Black, Dan",
+      "family": "Black",
+      "given": "Dan"
+    },
+    {
+      "raw": "Gates, Gary",
+      "family": "Gates",
+      "given": "Gary"
+    },
+    {
+      "raw": "Sanders, Seth",
+      "family": "Sanders",
+      "given": "Seth"
+    },
+    {
+      "raw": "Taylor, Lowell",
+      "family": "Taylor",
+      "given": "Lowell"
+    }
+  ],
+  "authors_text": "Black, Dan; Gates, Gary; Sanders, Seth; Taylor, Lowell",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648117",
+  "doi_url": "https://doi.org/10.2307/2648117",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648117",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648117.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

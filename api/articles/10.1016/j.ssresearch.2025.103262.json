@@ -1,0 +1,35 @@
+{
+  "title": "Doing diversity? Analyzing support for diversity policies with a conjoint experiment",
+  "abstract": "This study examines hiring managers' (i.e., employees with hiring responsibilities) support for hiring policies aimed at increasing diversity. Research has shown that some policies are more helpful in combating discrimination and increasing diversity than others, but we do not know whether those who apply the policies support them. This is surprising, because hiring managers' support for diversity policies is important for the successful implementation of policies. We discuss three motives underlying policy support: the desire for diversity, the goal of meritocratic hiring, and the maintenance of agency. Using data from an original conjoint experiment collected in the Netherlands (N = 512 individuals), we examine the extent to which hiring managers support diversity policies, whether they prefer other hiring policies, or if they favor the absence of regulations altogether. We find that, rather than policies that increase organizational diversity, hiring managers support policies that preserve their autonomy while maintaining established organizational policies. Marginal means analyses and multilevel regression models show that policy support aligns most strongly with the agency motive alongside concerns about fairness and merit-based selection. Hiring managers prefer an unstructured screening process and are reluctant to support hiring quota and the use of standardized or anonymous application forms. These preferences are particularly pronounced in smaller organizations and where little to no formalized hiring policies are in place. Our findings highlight the need for organizations to address hiring managers' complex motivational concerns, including desires for autonomy, fairness, and status quo maintenance, to ensure effective policy implementation.",
+  "authors": [
+    {
+      "raw": "Stuckradt, Katharina",
+      "family": "Stuckradt",
+      "given": "Katharina"
+    },
+    {
+      "raw": "Lancee, Bram",
+      "family": "Lancee",
+      "given": "Bram"
+    },
+    {
+      "raw": "Di Stasio, Valentina",
+      "family": "Di Stasio",
+      "given": "Valentina"
+    }
+  ],
+  "authors_text": "Stuckradt, Katharina; Lancee, Bram; Di Stasio, Valentina",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2026,
+  "doi": "10.1016/j.ssresearch.2025.103262",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103262",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103262",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103262.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

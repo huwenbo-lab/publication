@@ -1,0 +1,50 @@
+{
+  "title": "Who took care of what? The gender division of unpaid work during the first year of the COVID-19 pandemic in France",
+  "abstract": "BACKGROUND France was one of the first countries implementing lockdown measures to mitigate the spread of COVID-19. Since families spent more time at home, household and care workloads increased significantly. However, existing findings are mixed in terms of whether this situation contributed to a more gender-egalitarian division of unpaid work. OBJECTIVE This paper explores the division of domestic work within couples across two different COVID-19 lockdowns and compares them to the out-of-lockdown period in France. We use the theoretical lenses of time availability, relative resources, and 'doing gender' to make sense of these changes. METHODS Our longitudinal analyses rely on an original panel study we collected in France between April 2020 and April 2021. It includes a sample of 1,959 observations (of 809 individuals living in couples). We employ the different types of restrictions to mobility and social life imposed during the first year of the pandemic as a contextual background, within which we measure the main drivers of change in the division of unpaid work within couples. We use individual fixed effect regression models to estimate changes in men's share of unpaid work by time, changes in work conditions, partners' educational gaps, and types of domestic tasks. RESULTS The first lockdown contributed to a slight rebalancing of unpaid work within couples. However, our results show an impact of both absolute and relative time availability on men's share of unpaid work and that the overall rebalancing of unpaid work hides highly gendered patterns. Indeed, we find men doing more shopping and women doing more child care. This gendered division of labour is slightly more prevalent among couples in which the man is more educated than his partner. CONTRIBUTION Our findings suggest the reaffirmation of traditional gender roles even during the exceptional first year of the pandemic in France.",
+  "authors": [
+    {
+      "raw": "Pasqualini, Marta",
+      "family": "Pasqualini",
+      "given": "Marta"
+    },
+    {
+      "raw": "Dominguez-Folgueras, Marta",
+      "family": "Dominguez-Folgueras",
+      "given": "Marta"
+    },
+    {
+      "raw": "Ferragina, Emanuele",
+      "family": "Ferragina",
+      "given": "Emanuele"
+    },
+    {
+      "raw": "Godechot, Olivier",
+      "family": "Godechot",
+      "given": "Olivier"
+    },
+    {
+      "raw": "Recchi, Ettore",
+      "family": "Recchi",
+      "given": "Ettore"
+    },
+    {
+      "raw": "Safi, Mirna",
+      "family": "Safi",
+      "given": "Mirna"
+    }
+  ],
+  "authors_text": "Pasqualini, Marta; Dominguez-Folgueras, Marta; Ferragina, Emanuele; Godechot, Olivier; Recchi, Ettore; Safi, Mirna",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.34",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.34",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.34",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.34.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

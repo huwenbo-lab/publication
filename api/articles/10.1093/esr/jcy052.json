@@ -1,0 +1,30 @@
+{
+  "title": "Societal Change and Educational Trajectories of Women and Men Born between 1919 and 1986 in (West) Germany",
+  "abstract": "The aim of this study is to unravel the impact of societal change in West Germany on educational attainment and its attendant social disparities for cohorts born between 1919 and 1986. Therefore, we analyse whether modernization trends have modified access to, and success in, general, vocational, and higher education for consecutive birth cohorts. To explain how these processes have affected class differentials in educational attainment, we assume that the interplay of the changing occupational structure at the macro level and intergenerational status maintenance via investment in the education of offspring is-among other influences-the key mechanism for long-term educational expansion and for decreasing inequalities of opportunity in the educational system. The empirical bases of our investigation are clusters of time series for macro changes and retrospective individual data for 11 birth cohorts from the German Life History Study and the National Educational Panel Study for educational outcomes. We apply piecewise exponential event-history models to analyse the direct and indirect impacts of societal change on educational trajectories and social disparities in educational attainment. The results provide an understanding of historical variations in educational transitions and attainment associated with modernization in the social, political, economic, and cultural spheres.",
+  "authors": [
+    {
+      "raw": "Becker, Rolf",
+      "family": "Becker",
+      "given": "Rolf"
+    },
+    {
+      "raw": "Mayer, Karl Ulrich",
+      "family": "Mayer",
+      "given": "Karl Ulrich"
+    }
+  ],
+  "authors_text": "Becker, Rolf; Mayer, Karl Ulrich",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcy052",
+  "doi_url": "https://doi.org/10.1093/esr/jcy052",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy052",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy052.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

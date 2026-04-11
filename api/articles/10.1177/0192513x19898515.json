@@ -1,0 +1,35 @@
+{
+  "title": "Combination of Parent-Child Closeness and Parent Disapproval of Teen Sex Predicts Lower Rates of Sexual Risk for Offspring",
+  "abstract": "Effective parenting processes during offspring's adolescence can reduce sexual risk behavior for those offspring in emerging adulthood. Few studies consider how mothers' and fathers' parenting processes cluster together and predict emerging adults' risky sexual behavior. In this study, we used latent profile analysis (LPA) to identify patterns of teens' perceptions of their residential mothers' and fathers' closeness, disapproval of teen sex, monitoring/presence at home, and communication. Using data from waves one and three of the National Longitudinal Study of Adolescent to Adult Health (Add Health), we identified four parenting classes: high disapproval/high closeness (54%), high disapproval/low closeness (7%), low disapproval/high closeness (15%), and moderate disapproval/high closeness (24%). Emerging adults within the high disapproval/high closeness class had lower rates of sexual risk behavior than other classes. These findings show benefits of authoritative parenting styles and suggest parenting processes should be considered in combination, rather than as independent predictors of risk outcomes.",
+  "authors": [
+    {
+      "raw": "Grossman, Jennifer M.",
+      "family": "Grossman",
+      "given": "Jennifer M."
+    },
+    {
+      "raw": "Black, Anne C.",
+      "family": "Black",
+      "given": "Anne C."
+    },
+    {
+      "raw": "Richer, Amanda M.",
+      "family": "Richer",
+      "given": "Amanda M."
+    }
+  ],
+  "authors_text": "Grossman, Jennifer M.; Black, Anne C.; Richer, Amanda M.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2020,
+  "doi": "10.1177/0192513x19898515",
+  "doi_url": "https://doi.org/10.1177/0192513x19898515",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x19898515",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x19898515.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

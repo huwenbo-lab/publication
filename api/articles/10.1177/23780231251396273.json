@@ -1,0 +1,25 @@
+{
+  "title": "Gender, Field Context, and the Unequal Returns to Research Specialization among U.S. Social Scientists and Humanities Scholars",
+  "abstract": "Prior research suggests that women researchers face penalties for being less specialized, contributing to gender gaps in academia. However, how field characteristics shape these patterns remains underexplored. The author examines gender differences in research specialization and their impact on academic outcomes across different field contexts in social sciences and humanities. Using 1,120,175 publications by 39,135 social scientists and humanities scholars at U.S. universities (1950–2025) from OpenAlex, the author maps academic fields using word embeddings and analyzes specialization patterns by gender. The findings show that gender gaps in research specialization are deeply conditioned by field context. In male-dominated fields, women have significantly broader research interests than men, while this gap diminishes and reverses in more gender-balanced fields. Although broader publication trajectories help women increase publication output, this strategy carries steeper citation penalties for women than for men. The results suggest that academic fields act as sites of inequality production, channeling women toward research patterns that boost immediate productivity while undermining long-term scholarly influence. This calls for greater focus on meso-level analysis to understand how complex feedback loops create gendered pathways in academic careers.",
+  "authors": [
+    {
+      "raw": "Kim, Eehyun",
+      "family": "Kim",
+      "given": "Eehyun"
+    }
+  ],
+  "authors_text": "Kim, Eehyun",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251396273",
+  "doi_url": "https://doi.org/10.1177/23780231251396273",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251396273",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251396273.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Education of adult children and mortality of their elderly parents in Taiwan",
+  "abstract": "AbstractIn societies in which families are highly integrated, the education of family members may be linked to survival. Such may be the case in Taiwan, where there are large gaps in levels of education across generations and high levels of resource transfers between family members. This study employs 14 years of longitudinal data from Taiwan to examine the combined effects of the education of older adults and their adult children on the mortality outcomes of older adults. We use nested Gompertz hazard models to evaluate the importance of the education of an older adult and his or her highest-educated child after controlling for socioeconomic, demographic, and health characteristics at baseline. To gain further insight, we fit additional models based on the sample stratified by whether older adults report serious diseases at baseline. The results indicate that the educational levels of both older adults and children are associated with older adult mortality, but children’s education appears more important when we examine the mortality of only those older adults who already report a serious disease. This finding suggests that there may be different roles for education in the onset versus the progression of a health problem that may lead to death.",
+  "authors": [
+    {
+      "raw": "Zimmer, Zachary",
+      "family": "Zimmer",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Martin, Linda G.",
+      "family": "Martin",
+      "given": "Linda G."
+    },
+    {
+      "raw": "Ofstedal, Mary Beth",
+      "family": "Ofstedal",
+      "given": "Mary Beth"
+    },
+    {
+      "raw": "Chuang, Yi-Li",
+      "family": "Chuang",
+      "given": "Yi-Li"
+    }
+  ],
+  "authors_text": "Zimmer, Zachary; Martin, Linda G.; Ofstedal, Mary Beth; Chuang, Yi-Li",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0020",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

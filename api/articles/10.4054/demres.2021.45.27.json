@@ -1,0 +1,30 @@
+{
+  "title": "Trends and educational variation in the association between spouses' marital histories in South Korea, 1993-2017",
+  "abstract": "BACKGROUND Marriages between divorced and never-married individuals indicate a society's openness to divorce and have implications for children's well-being. Few studies have examined the association between spouses' marital histories, its educational variation, and the trends therein outside of the United States. OBJECTIVE Little is known about trends in assortative mating by marital history in more traditional societies, where stigma against divorce often remains. This study examined the changing patterns of assortative mating by marital history in South Korea across 25 single-year marriage cohorts, 1993-2017. METHODS Calculating the odds ratios from two-by-two marriage tables classifying spouses' marital histories and also applying individual-level logistic regression models to 7,451,399 marriages formed from 1993 to 2017, we investigated trends in the association between spouses' marital histories. We further explored heterogeneity in the strength of the association between spouses' marital histories and its trends over time by spouses' educational combinations. RESULTS The association between spouses' marital histories has declined over time across all educational groups. However, crossing boundaries of marital history is most difficult in marriages where the man and woman are both college-educated and is easiest in marriages where the man and woman are both non-college-educated. CONTRIBUTIONS We document the trends in marital history homogamy (which has not received much attention in the literature) in Korea, with distinctive contexts of divorce and remarriage. Presenting educational patterns in the association between spouses' marital histories is another contribution.",
+  "authors": [
+    {
+      "raw": "Lee, Sangsoo",
+      "family": "Lee",
+      "given": "Sangsoo"
+    },
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    }
+  ],
+  "authors_text": "Lee, Sangsoo; Park, Hyunjoon",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.27",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

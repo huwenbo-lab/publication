@@ -1,0 +1,25 @@
+{
+  "title": "The decline of patrilineal kin propinquity in the United States, 1790-1940",
+  "abstract": "BACKGROUND Historical change in the availability of kin beyond the household has long interested scholars, but there has been little comparable evidence on long-run change. While generally accepted that individuals lived near kin historically, no systematic measures have been available to assess historical kin propinquity at the national level. METHODS With the release of historical complete count United States census data from the Integrated Public Use Microdata Series (IPUMS), a robust estimate of patrilineal kin propinquity for the United States nationally from 1790 to 1940 is calculated. Defined as the probability of non-random isonymy within an enumeration district, the estimate of patrilineal kin propinquity relies on the sequential ordering of households in the census. RESULTS The United States experienced a long-run decline in patrilineal kin propinquity from nearly 50% of households in 1790 to 17% of households in 1940. The age patterns of kin propinquity show substantial variation across the life course, and regional differences demonstrate the impact of economic and demographic conditions. The decline in kin propinquity reflected urbanization and the decline of agriculture, declining kin availability, growing distance between potential kin links, and a change in preferences of living near kin. CONTRIBUTION This is the first study to produce a systematic estimate of patrilineal kin propinquity at the national level for the United States between 1790 and 1940. Researchers can use this meaningful measure of patrilineal kin propinquity to better explain its relationships with other demographic behaviors and outcomes such as fertility, mortality, and migration choices.",
+  "authors": [
+    {
+      "raw": "Nelson, Matt A.",
+      "family": "Nelson",
+      "given": "Matt A."
+    }
+  ],
+  "authors_text": "Nelson, Matt A.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.18",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

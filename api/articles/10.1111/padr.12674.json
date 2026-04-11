@@ -1,0 +1,25 @@
+{
+  "title": "Forecasting Population in an Uncertain World: Approaches, New Uses, and Troubling Limitations",
+  "abstract": "The long human lifespan enables long run forecasts of population size and age distribution. New methods include biodemographic research on upper limits to life expectancy and incorporation of early experiences affecting later life mortality such as smoking, obesity, and childhood health shocks. Some fertility forecasts incorporate education and quantum-tempo insights. Statistical time series and Bayesian methods generate probabilistic forecasts. Yet recent decades have brought surprising changes in the economy, natural environment, and vital rates. In these changing circumstances we need new methods and the increasing use of probabilistic models and Bayesian methods incorporating outside information. The increasing use of microsimulation combined with aggregate forecasting methods is a very promising development enabling more detailed and heterogeneous forecasts. Some new uses of stochastic forecasts are interesting in themselves. Probabilistic mortality forecasts are used in finance and insurance, and a new Longevity Swap industry has been built on them. Random sample paths used to generate stochastic population forecasts can stress-test public pension designs for fiscal stability and intergenerational equity. Population forecasting a few decades ago was a dull backwater of demographic research, but now it is increasingly important and is full of intellectual and technical challenges.",
+  "authors": [
+    {
+      "raw": "Lee, Ronald",
+      "family": "Lee",
+      "given": "Ronald"
+    }
+  ],
+  "authors_text": "Lee, Ronald",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.12674",
+  "doi_url": "https://doi.org/10.1111/padr.12674",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12674",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12674.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

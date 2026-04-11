@@ -1,0 +1,35 @@
+{
+  "title": "Peer effects on academic self-concept: a large randomized field experiment",
+  "abstract": "Social theories posit that peers affect students' academic self-concept (ASC). Most prominently, Big-Fish-Little-Pond, invidious comparison, and relative deprivation theories predict that exposure to academically stronger peers decreases students' ASC, and exposure to academically weaker peers increases students' ASC. These propositions have not yet been tested experimentally. We executed a large and pre-registered field experiment that randomized students to deskmates within 195 classrooms of 41 schools (N = 3,022). Our primary experimental analysis found no evidence of an effect of peer achievement on ASC in either direction. Exploratory analyses hinted at a subject-specific deskmate effect on ASC in verbal skills, and that sitting next to a lower-achieving boy increased girls' ASC (but not that sitting next to a higher-achieving boy decreased girls' ASC). Critically, however, none of these group-specific results held up to even modest corrections for multiple hypothesis testing. Contrary to theory, our randomized field experiment thus provides no evidence for an effect of peer achievement on students' ASC.",
+  "authors": [
+    {
+      "raw": "Keller, Tamas",
+      "family": "Keller",
+      "given": "Tamas"
+    },
+    {
+      "raw": "Kim, Jinho",
+      "family": "Kim",
+      "given": "Jinho"
+    },
+    {
+      "raw": "Elwert, Felix",
+      "family": "Elwert",
+      "given": "Felix"
+    }
+  ],
+  "authors_text": "Keller, Tamas; Kim, Jinho; Elwert, Felix",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad001",
+  "doi_url": "https://doi.org/10.1093/esr/jcad001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

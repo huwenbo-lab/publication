@@ -1,0 +1,95 @@
+{
+  "title": "Nowcasting Daily Population Displacement in Ukraine through Social Media Advertising Data",
+  "abstract": "In times of crisis, real-time data mapping population displacements are invaluable for targeted humanitarian response. The Russian invasion of Ukraine on February 24, 2022, forcibly displaced millions of people from their homes including nearly 6 million refugees flowing across the border in just a few weeks, but information was scarce regarding displaced and vulnerable populations who remained inside Ukraine. We leveraged social media data from Facebook's advertising platform in combination with preconflict population data to build a real-time monitoring system to estimate subnational population sizes every day disaggregated by age and sex. Using this approach, we estimated that 5.3 million people had been internally displaced away from their baseline administrative region in the first three weeks after the start of the conflict. Results revealed four distinct displacement patterns: large-scale evacuations, refugee staging areas, internal areas of refuge, and irregular dynamics. While the use of social media provided one of the only quantitative estimates of internal displacement in the conflict setting in virtual real time, we conclude by acknowledging risks and challenges of these new data streams for the future.",
+  "authors": [
+    {
+      "raw": "Leasure, Douglas R.",
+      "family": "Leasure",
+      "given": "Douglas R."
+    },
+    {
+      "raw": "Kashyap, Ridhi",
+      "family": "Kashyap",
+      "given": "Ridhi"
+    },
+    {
+      "raw": "Rampazzo, Francesco",
+      "family": "Rampazzo",
+      "given": "Francesco"
+    },
+    {
+      "raw": "Dooley, Claire A.",
+      "family": "Dooley",
+      "given": "Claire A."
+    },
+    {
+      "raw": "Elbers, Benjamin",
+      "family": "Elbers",
+      "given": "Benjamin"
+    },
+    {
+      "raw": "Bondarenko, Maksym",
+      "family": "Bondarenko",
+      "given": "Maksym"
+    },
+    {
+      "raw": "Verhagen, Mark",
+      "family": "Verhagen",
+      "given": "Mark"
+    },
+    {
+      "raw": "Frey, Arun",
+      "family": "Frey",
+      "given": "Arun"
+    },
+    {
+      "raw": "Yan, Jiani",
+      "family": "Yan",
+      "given": "Jiani"
+    },
+    {
+      "raw": "Akimova, Evelina T.",
+      "family": "Akimova",
+      "given": "Evelina T."
+    },
+    {
+      "raw": "Fatehkia, Masoomali",
+      "family": "Fatehkia",
+      "given": "Masoomali"
+    },
+    {
+      "raw": "Trigwell, Robert",
+      "family": "Trigwell",
+      "given": "Robert"
+    },
+    {
+      "raw": "Tatem, Andrew J.",
+      "family": "Tatem",
+      "given": "Andrew J."
+    },
+    {
+      "raw": "Weber, Ingmar",
+      "family": "Weber",
+      "given": "Ingmar"
+    },
+    {
+      "raw": "Mills, Melinda C.",
+      "family": "Mills",
+      "given": "Melinda C."
+    }
+  ],
+  "authors_text": "Leasure, Douglas R.; Kashyap, Ridhi; Rampazzo, Francesco; Dooley, Claire A.; Elbers, Benjamin; Bondarenko, Maksym; Verhagen, Mark; Frey, Arun; Yan, Jiani; Akimova, Evelina T.; Fatehkia, Masoomali; Trigwell, Robert; Tatem, Andrew J.; Weber, Ingmar; Mills, Melinda C.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2023,
+  "doi": "10.1111/padr.12558",
+  "doi_url": "https://doi.org/10.1111/padr.12558",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12558",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12558.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Income inequality and self-rated health status: Evidence from the european community household panel",
+  "abstract": "Abstract We examine the effect of income inequality on individualś self-rated health status in a pooled sample of 11 countries, using longitudinal data from the European Community Household Panel survey. Taking advantage of the longitudinal and cross-national nature of our data, and carefully modeling the self-reported health information, we avoid several of the pitfalls suffered by earlier studies on this topic. We calculate income inequality indices measured at two standard levels of geography (NUTS-0 and NUTS-1) and find consistent evidence that income inequality is negatively related to self-rated health status in the European Union for both men and women, particularly when measured at national level. However, despite its statistical significance, the magnitude of the impact of inequality on health is very small.",
+  "authors": [
+    {
+      "raw": "Hildebrand, Vincent",
+      "family": "Hildebrand",
+      "given": "Vincent"
+    },
+    {
+      "raw": "Van Kerm, Philippe",
+      "family": "Van Kerm",
+      "given": "Philippe"
+    }
+  ],
+  "authors_text": "Hildebrand, Vincent; Van Kerm, Philippe",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0071",
+  "doi_url": "https://doi.org/10.1353/dem.0.0071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

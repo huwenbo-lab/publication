@@ -1,0 +1,25 @@
+{
+  "title": "A Social Space Approach to Testing Complex Hypotheses: The Case of Hispanic Marriage Patterns in the United States",
+  "abstract": "Where do individuals identifying as Hispanic fit in the racial landscape of the United States? The answer offered by past work is complex: The empirical results do not lend themselves to simple interpretation as no single hypothesis fits the Hispanic case very well. Instead, Hispanic integration is described as mixtures of different archetypical hypotheses, like panethnic formation, white assimilation, and racialized assimilation. My goal is to develop a formal framework to help make sense of this complex picture. I extend past work by showing which combination of integration processes (panethnic formation, white assimilation, etc.) best characterizes Hispanic marriage patterns. I make two analytical contributions. First, I organize past Hispanic hypotheses, both archetypical and blended, into a single theoretical framework defined by the salience of race and Hispanic ethnicity. Second, I parametize this theoretical framework using latent social space models. In this way, I am able to specify a set of interconnected, complex hypotheses in a tractable manner. I follow past work and use marriage/cohabitation data to test the hypotheses. Using American Community Survey data (2010–2012), I find that Hispanic marriage/cohabitation patterns suggest high salience on both race and Hispanic ethnicity. Thus, categories like black-Mexican or white-Cuban represent relationally distinct social categories—distinct from both non-Hispanic racial categories (e.g., black or white) and Hispanic categories of a different racial identity.",
+  "authors": [
+    {
+      "raw": "Smith, Jeffrey A.",
+      "family": "Smith",
+      "given": "Jeffrey A."
+    }
+  ],
+  "authors_text": "Smith, Jeffrey A.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2017,
+  "doi": "10.1177/2378023117739176",
+  "doi_url": "https://doi.org/10.1177/2378023117739176",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023117739176",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023117739176.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Gender Typicality and Academic Achievement among American High School Students",
+  "abstract": "This study is the first to use nationally representative data to examine whether differences in gender-typical behaviors among adolescents are associated with high school academic performance and whether such associations vary by race or socioeconomic status. Using wave I data from the National Longitudinal Study of Adolescent Health and linked academic transcript data from the Adolescent Health and Academic Achievement study, we find that boys who report moderate levels of gender atypicality earn the highest grade point averages (GPAs), but few boys score in this range. As gender typicality increases, boys’ GPAs decline steeply. In contrast, girls who practice moderate levels of gender typicality earn slightly higher GPAs than other girls. These patterns generally hold across race and socioeconomic status groups.",
+  "authors": [
+    {
+      "raw": "Yavorsky, Jill",
+      "family": "Yavorsky",
+      "given": "Jill"
+    },
+    {
+      "raw": "Buchmann, Claudia",
+      "family": "Buchmann",
+      "given": "Claudia"
+    }
+  ],
+  "authors_text": "Yavorsky, Jill; Buchmann, Claudia",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2019,
+  "doi": "10.15195/v6.a25",
+  "doi_url": "https://doi.org/10.15195/v6.a25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv6.a25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v6.a25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

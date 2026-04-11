@@ -1,0 +1,35 @@
+{
+  "title": "The emergence of conventions in the repeated volunteer's dilemma: The role of social value orientation, payoff asymmetries and focal points",
+  "abstract": "Conventions are arbitrary rules of behavior that coordinate social interactions. Here we study the effects of individuals' social value orientations (SVO) and situational conditions on the emergence of conventions in the three-person volunteer's dilemma (VOD). The VOD is a step-level collective good game in which only one actor's action is required to produce a benefit for the group. It has been shown that if actors interact in the payoff-symmetric VOD repeatedly, a turn-taking convention emerges, resulting in an equal distribution of payoffs. If the VOD is asymmetric, with one strong actor having lower costs of volunteering, a solitary-volunteering convention emerges by which the strong actor volunteers earning less than others. In study 1 we test whether SVO promotes turn-taking and hampers solitary-volunteering. We find that groups with more prosocials engage less in turn-taking and no effect of SVO on the emergence of solitary volunteering. In study 2 we test whether making one actor focal is sufficient for solitary volunteering to emerge. We find instead that payoff asymmetry with one strong actor is a necessary precondition. We discuss explanations for our findings and propose directions for future research.",
+  "authors": [
+    {
+      "raw": "Przepiorka, Wojtek",
+      "family": "Przepiorka",
+      "given": "Wojtek"
+    },
+    {
+      "raw": "Bouman, Loes",
+      "family": "Bouman",
+      "given": "Loes"
+    },
+    {
+      "raw": "de Kwaadsteniet, Erik W.",
+      "family": "de Kwaadsteniet",
+      "given": "Erik W."
+    }
+  ],
+  "authors_text": "Przepiorka, Wojtek; Bouman, Loes; de Kwaadsteniet, Erik W.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2020.102488",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102488",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102488",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102488.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

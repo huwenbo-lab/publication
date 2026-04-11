@@ -1,0 +1,35 @@
+{
+  "title": "The decline in consanguineous marriage among Muslims in Israel: The role of education",
+  "abstract": "BACKGROUND There are two explanations for the inverse relationship between consanguinity and women's education. The female empowerment hypothesis posits that better-educated women will demand more freedom in choosing a marriage partner, whereas the role incompatibility hypothesis posits that school enrollment may prevent women from fulfilling spousal obligations. OBJECTIVE This article presents estimates of the relative contributions of school enrolment and educational attainment to the decline in consanguineous marriage. METHODS Our data comes from three rounds of the Palestinians in Israel Socio-Economic Survey. Using multinomial logistic regression analysis, we estimated discrete-time event history models to assess the effects of education on the probability of a consanguineous marriage. To test the two hypotheses we constructed two distinct education vectors for each woman from information on the number of years of schooling. The first charts yearly enrolment in education, whereas the second vector reflects actual attainment in each year. RESULTS Between 1975-1979 and 2005-2010, consanguineous marriage declined by almost 60%. The rise in the age of leaving school explains about a third of the decline. Educational attainment did not contribute to the decline. CONTRIBUTION To the best of our knowledge, this is the first study to present estimates of the relative contributions of school enrolment and educational attainment to the decline in consanguineous marriage.",
+  "authors": [
+    {
+      "raw": "Schellekens, Jona",
+      "family": "Schellekens",
+      "given": "Jona"
+    },
+    {
+      "raw": "Kenan, Guy",
+      "family": "Kenan",
+      "given": "Guy"
+    },
+    {
+      "raw": "Hleihel, Ahmad",
+      "family": "Hleihel",
+      "given": "Ahmad"
+    }
+  ],
+  "authors_text": "Schellekens, Jona; Kenan, Guy; Hleihel, Ahmad",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.61",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.61",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.61",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.61.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

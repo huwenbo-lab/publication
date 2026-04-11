@@ -1,0 +1,25 @@
+{
+  "title": "Editor’s Note",
+  "abstract": "Many years ago, during one of my bird identification and behavior classes, the instructor described how baby owls sometimes push a sibling out of the nest to gain a larger share of the food provided by the parents.Obviously disturbed by this practice of siblicide by the otherwise adorable owlets, a classmate asked, \"Don't we have the technology to solve that problem?\"It would seem so.But, as far as I know, baby owls still push brothers and sisters out of the nest.What does owl behavior have to do with demography or the scholarly exchange that follows?Let me explain.Although not as heart-wrenching as owl siblicide, problems such as selection bias, endogeneity, and unobserved heterogeneity beset demographic researchers.We have developed a versatile set of tools for confronting these problems: selection correction modeling, instrumental variables analysis, and fixed-effects analysis.Although not perfect, these tools are now frequently used to \"solve\" a challenging problem.Not too long ago, they were not so routinely used-or even used at all.In a very real sense, we have used our \"technology\" to develop solutions to these problems.Another demographic parallel to the lethal behavior of those pushy baby owls is the long-standing challenge of identifying unique age, period, and cohort effects (APC).As you will discover as you read the following exchange, demographers have tried many strategies to \"solve\" the APC problem.Recently, the \"intrinsic estimator\" approach has gained popularity among social scientists attempting to separate age, period, and cohort effects.In her article, Liying Luo makes a case against using the intrinsic estimator solution for APC analysis.In their commentary, Yang Yang and Ken Land defend the method against Luo's critique, while Robert O'Brien, Leonhard Held and Andrea Riebler, and Stephen Fienberg offer their own observations regarding the utility of the intrinsic estimator approach.",
+  "authors": [
+    {
+      "raw": "Tolnay, Stewart",
+      "family": "Tolnay",
+      "given": "Stewart"
+    }
+  ],
+  "authors_text": "Tolnay, Stewart",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0266-5",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0266-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0266-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0266-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

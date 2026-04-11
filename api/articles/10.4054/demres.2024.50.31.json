@@ -1,0 +1,40 @@
+{
+  "title": "A new look at contraceptive prevalence plateaus in sub-Saharan Africa: A probabilistic approach",
+  "abstract": "BACKGROUND Fertility decline in sub-Saharan Africa has been slower than in other regions, with the periods of extremely slow transitions frequently described as stalled. Lack of investment in family planning programs has been proposed as a key contributing factor. However, while there is a large literature on fertility transition stalls, similar phenomena in contraceptive prevalence trends have received less attention. OBJECTIVE We propose a probabilistic method for detecting plateaus in modern contraceptive prevalence (MCP) and in demand for family planning satisfied by modern methods (DS). METHODS We defined a contraceptive prevalence plateau in terms of level, rate, and probability conditions, each with associated thresholds for a plateau to be identified. We used probabilistic annual model -based estimates of family planning indicators and a simple smoothing approach to produce annual estimates of plateau probabilities under a variety of thresholds. RESULTS We applied our method to 48 countries in sub-Saharan Africa over the period 1980-2019 and found plateaus in MCP in ten countries (half in western Africa) and plateaus in DS in two (Niger and Nigeria). We found no indication of a temporal association between MCP plateaus and fertility transition stalls, although we observed that some fertility transition stalls occurred when MCP was low. CONTRIBUTION Our method provides an updated, robust way to identify plateaus in contraceptive prevalence. Moreover, it could feasibly be applied to probabilistic model-based estimates of other demographic indicators, such as total fertility.",
+  "authors": [
+    {
+      "raw": "Wheldon, Mark C.",
+      "family": "Wheldon",
+      "given": "Mark C."
+    },
+    {
+      "raw": "Kantorova, Vladimira",
+      "family": "Kantorova",
+      "given": "Vladimira"
+    },
+    {
+      "raw": "Molitoris, Joseph",
+      "family": "Molitoris",
+      "given": "Joseph"
+    },
+    {
+      "raw": "Dasgupta, Aisha N. Z.",
+      "family": "Dasgupta",
+      "given": "Aisha N. Z."
+    }
+  ],
+  "authors_text": "Wheldon, Mark C.; Kantorova, Vladimira; Molitoris, Joseph; Dasgupta, Aisha N. Z.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.31",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Influence of Partnership Status on Fertility Intentions of Childless Women and Men Across European Countries",
+  "abstract": "AbstractThe absence of a suitable partner is the most frequently given reason for unmet fertility intentions across European countries while having a partner is positively associated with the intention to have a child. However, once this relationship is framed within a life-course approach, existing evidence is mixed and inconclusive. The norm to have children within a stable relationship and norms regarding the timing of childbirth are acknowledged in many contemporary societies. Therefore, the presence of a partner might have a stronger effect on fertility intentions around the social deadline for fertility, which could explain the mixed findings in previous research. This article analyses how fertility intentions are influenced by partnership status and how this relationship varies by age and across countries. We use data from the first wave of the Generations and Gender Survey to analyse a sample of childless men and women aged 18–45 years from 12 European countries. We implement logistic regression models to investigate the influence of having a partner on fertility intentions during the life course. Previous studies found that the positive influence of having a partner either decreases across the life course or does not vary significantly. This study reveals that the positive association between partnership and fertility intentions increases from the age of 18, proving that whether someone is in a partnership becomes more influential at later stages in life. After a certain age threshold, which varies across countries and gender, this positive association either turns insignificant, remains positive, or reverses.",
+  "authors": [
+    {
+      "raw": "Sturm, Nadia",
+      "family": "Sturm",
+      "given": "Nadia"
+    },
+    {
+      "raw": "Koops, Judith C.",
+      "family": "Koops",
+      "given": "Judith C."
+    },
+    {
+      "raw": "Rutigliano, Roberta",
+      "family": "Rutigliano",
+      "given": "Roberta"
+    }
+  ],
+  "authors_text": "Sturm, Nadia; Koops, Judith C.; Rutigliano, Roberta",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2023,
+  "doi": "10.1007/s10680-023-09664-5",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09664-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09664-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09664-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

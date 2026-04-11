@@ -1,0 +1,30 @@
+{
+  "title": "Family Structure Transitions and Child Development: Instability, Selection, and Population Heterogeneity",
+  "abstract": "A growing literature documents the importance of family instability for child wellbeing. In this article, we use longitudinal data from the Fragile Families and Child Wellbeing Study to examine the impacts of family instability on children's cognitive and socioemotional development in early and middle childhood. We extend existing research in several ways: (1) by distinguishing between the number and types of family structure changes; (2) by accounting for time-varying as well as time-constant confounding; and (3) by assessing racial/ethnic and gender differences in family instability effects. Our results indicate that family instability has a causal effect on children's development, but the effect depends on the type of change, the outcome assessed, and the population examined. Generally speaking, transitions out of a two-parent family are more negative for children's development than transitions into a two-parent family. The effect of family instability is more pronounced for children's socioemotional development than for their cognitive achievement. For socioemotional development, transitions out of a two-parent family are more negative for white children, whereas transitions into a two-parent family are more negative for Hispanic children. These findings suggest that future research should pay more attention to the type of family structure transition and to population heterogeneity.",
+  "authors": [
+    {
+      "raw": "Lee, Dohoon",
+      "family": "Lee",
+      "given": "Dohoon"
+    },
+    {
+      "raw": "McLanahan, Sara",
+      "family": "McLanahan",
+      "given": "Sara"
+    }
+  ],
+  "authors_text": "Lee, Dohoon; McLanahan, Sara",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1177/0003122415592129",
+  "doi_url": "https://doi.org/10.1177/0003122415592129",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122415592129",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122415592129.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

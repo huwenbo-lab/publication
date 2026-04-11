@@ -1,0 +1,30 @@
+{
+  "title": "Visualizing Partisan Identification Switching in the General Social Survey Panel, 2016–2020",
+  "abstract": "This visualization captures shifts in partisan identification in the 2016–2020 General Social Survey Panel. Although most partisans remained stable in their identifications, a significant proportion of respondents either shifted to the opposing party or became independents. These patterns have important implications for our understanding of recent party realignment, trends in partisanship, and the care needed when using party identification as an independent variable.",
+  "authors": [
+    {
+      "raw": "Bock, Sean",
+      "family": "Bock",
+      "given": "Sean"
+    },
+    {
+      "raw": "Schnabel, Landon",
+      "family": "Schnabel",
+      "given": "Landon"
+    }
+  ],
+  "authors_text": "Bock, Sean; Schnabel, Landon",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211057322",
+  "doi_url": "https://doi.org/10.1177/23780231211057322",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211057322",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211057322.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

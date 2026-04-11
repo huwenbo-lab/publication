@@ -1,0 +1,30 @@
+{
+  "title": "You can go home again: Evidence from longitudinal data",
+  "abstract": "Abstract In this paper we analyze the economic and demographic factors that influence return migration, focusing on generation 1.5 immigrants. Using longitudinal data from the 1979 youth cohort of the National Longitudinal Surveys (NLSY79), we track residential histories of young immigrants to the United States and analyze the covariates associated with return migration to their home country. Overall, return migration appears to respond to economic incentives, as well as to cultural and linguistic ties to the United States and the home country. We find no role for welfare magnets in the decision to return, but we learn that welfare participation leads to lower probability of return migration. Finally, we see no evidence of a skill bias in return migration, where skill is measured by performance on the Armed Forces Qualifying Test.",
+  "authors": [
+    {
+      "raw": "Reagan, Patricia B.",
+      "family": "Reagan",
+      "given": "Patricia B."
+    },
+    {
+      "raw": "Olsen, Randall J.",
+      "family": "Olsen",
+      "given": "Randall J."
+    }
+  ],
+  "authors_text": "Reagan, Patricia B.; Olsen, Randall J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648046",
+  "doi_url": "https://doi.org/10.2307/2648046",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648046",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648046.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

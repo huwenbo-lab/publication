@@ -1,0 +1,370 @@
+{
+  "title": "Varieties of Economic Elites? Preliminary Results From the World Elite Database (WED)",
+  "abstract": "The strategies, decisions and beliefs of those who occupy prominent positions of economic power have influence on very large corporations and the markets they dominate, on vast amounts of economic resources, and on the rules of the game. However, the sociology of elites faces a dual challenge: divergent conceptualisations of what can be considered as a position of economic power and internationally incompatible sources of information hinder comparative analysis. The World Elite Database (WED) addresses this dual challenge, by generating, based on a consistent definition, standardised data for 16 countries. This research note introduces WED, its construction principles, and presents preliminary findings on how economic elites differ across countries.",
+  "authors": [
+    {
+      "raw": "Buehlmann, Felix",
+      "family": "Buehlmann",
+      "given": "Felix"
+    },
+    {
+      "raw": "Christesen, Caroline Ahler",
+      "family": "Christesen",
+      "given": "Caroline Ahler"
+    },
+    {
+      "raw": "Cousin, Bruno",
+      "family": "Cousin",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Denord, Francois",
+      "family": "Denord",
+      "given": "Francois"
+    },
+    {
+      "raw": "Ellersgaard, Christoph Houman",
+      "family": "Ellersgaard",
+      "given": "Christoph Houman"
+    },
+    {
+      "raw": "Lagneau-Ymonet, Paul",
+      "family": "Lagneau-Ymonet",
+      "given": "Paul"
+    },
+    {
+      "raw": "Larsen, Anton Grau",
+      "family": "Larsen",
+      "given": "Anton Grau"
+    },
+    {
+      "raw": "Savage, Mike",
+      "family": "Savage",
+      "given": "Mike"
+    },
+    {
+      "raw": "Thine, Sylvain",
+      "family": "Thine",
+      "given": "Sylvain"
+    },
+    {
+      "raw": "Young, Kevin",
+      "family": "Young",
+      "given": "Kevin"
+    },
+    {
+      "raw": "Araujo, Pedro",
+      "family": "Araujo",
+      "given": "Pedro"
+    },
+    {
+      "raw": "Arrigoni, Paola",
+      "family": "Arrigoni",
+      "given": "Paola"
+    },
+    {
+      "raw": "Atria, Jorge",
+      "family": "Atria",
+      "given": "Jorge"
+    },
+    {
+      "raw": "Benz, Pierre",
+      "family": "Benz",
+      "given": "Pierre"
+    },
+    {
+      "raw": "Behr, Johanna",
+      "family": "Behr",
+      "given": "Johanna"
+    },
+    {
+      "raw": "Botelho, Maria do Carmo",
+      "family": "Botelho",
+      "given": "Maria do Carmo"
+    },
+    {
+      "raw": "Butt, Asif",
+      "family": "Butt",
+      "given": "Asif"
+    },
+    {
+      "raw": "Casanova, Pedro",
+      "family": "Casanova",
+      "given": "Pedro"
+    },
+    {
+      "raw": "Clemente-Casinhas, Luis",
+      "family": "Clemente-Casinhas",
+      "given": "Luis"
+    },
+    {
+      "raw": "Castellani, Ana",
+      "family": "Castellani",
+      "given": "Ana"
+    },
+    {
+      "raw": "Cescon, Fabio",
+      "family": "Cescon",
+      "given": "Fabio"
+    },
+    {
+      "raw": "Dagnes, Joselle",
+      "family": "Dagnes",
+      "given": "Joselle"
+    },
+    {
+      "raw": "Debska, Hanna",
+      "family": "Debska",
+      "given": "Hanna"
+    },
+    {
+      "raw": "Delval, Anne-Sophie",
+      "family": "Delval",
+      "given": "Anne-Sophie"
+    },
+    {
+      "raw": "Dragun, Vitalina",
+      "family": "Dragun",
+      "given": "Vitalina"
+    },
+    {
+      "raw": "Egas, Andreia",
+      "family": "Egas",
+      "given": "Andreia"
+    },
+    {
+      "raw": "Emilsson, Kajsa",
+      "family": "Emilsson",
+      "given": "Kajsa"
+    },
+    {
+      "raw": "Fan, Xiaoguang",
+      "family": "Fan",
+      "given": "Xiaoguang"
+    },
+    {
+      "raw": "Fu, Fan",
+      "family": "Fu",
+      "given": "Fan"
+    },
+    {
+      "raw": "Gentile, Julia",
+      "family": "Gentile",
+      "given": "Julia"
+    },
+    {
+      "raw": "Gomes, Orlando",
+      "family": "Gomes",
+      "given": "Orlando"
+    },
+    {
+      "raw": "Gronwald, Victoria",
+      "family": "Gronwald",
+      "given": "Victoria"
+    },
+    {
+      "raw": "Heredia, Mariana",
+      "family": "Heredia",
+      "given": "Mariana"
+    },
+    {
+      "raw": "Hjellbrekke, Johannes",
+      "family": "Hjellbrekke",
+      "given": "Johannes"
+    },
+    {
+      "raw": "Honorio, Jorge",
+      "family": "Honorio",
+      "given": "Jorge"
+    },
+    {
+      "raw": "Huang, Jie",
+      "family": "Huang",
+      "given": "Jie"
+    },
+    {
+      "raw": "Inkley, Johnathan",
+      "family": "Inkley",
+      "given": "Johnathan"
+    },
+    {
+      "raw": "Johansson, Hakan",
+      "family": "Johansson",
+      "given": "Hakan"
+    },
+    {
+      "raw": "Koiranen, Ilkka",
+      "family": "Koiranen",
+      "given": "Ilkka"
+    },
+    {
+      "raw": "Koivula, Aki",
+      "family": "Koivula",
+      "given": "Aki"
+    },
+    {
+      "raw": "Kuusela, Hanna",
+      "family": "Kuusela",
+      "given": "Hanna"
+    },
+    {
+      "raw": "Levita, Gabriel",
+      "family": "Levita",
+      "given": "Gabriel"
+    },
+    {
+      "raw": "Ling, Chao",
+      "family": "Ling",
+      "given": "Chao"
+    },
+    {
+      "raw": "Lu, Peng",
+      "family": "Lu",
+      "given": "Peng"
+    },
+    {
+      "raw": "Lukas, Michael",
+      "family": "Lukas",
+      "given": "Michael"
+    },
+    {
+      "raw": "Lunding, Jacob",
+      "family": "Lunding",
+      "given": "Jacob"
+    },
+    {
+      "raw": "Mahmoudzadeh, Mina",
+      "family": "Mahmoudzadeh",
+      "given": "Mina"
+    },
+    {
+      "raw": "Mcquade, Sean",
+      "family": "Mcquade",
+      "given": "Sean"
+    },
+    {
+      "raw": "Mendez, Maria Luisa",
+      "family": "Mendez",
+      "given": "Maria Luisa"
+    },
+    {
+      "raw": "Nunes, Nuno",
+      "family": "Nunes",
+      "given": "Nuno"
+    },
+    {
+      "raw": "O'Brien, Shay",
+      "family": "O'Brien",
+      "given": "Shay"
+    },
+    {
+      "raw": "Otero, Gabriel",
+      "family": "Otero",
+      "given": "Gabriel"
+    },
+    {
+      "raw": "Pagnini, Marta",
+      "family": "Pagnini",
+      "given": "Marta"
+    },
+    {
+      "raw": "Pelfini, Alejandro",
+      "family": "Pelfini",
+      "given": "Alejandro"
+    },
+    {
+      "raw": "Pereira, Jessica",
+      "family": "Pereira",
+      "given": "Jessica"
+    },
+    {
+      "raw": "Roa, Catalina",
+      "family": "Roa",
+      "given": "Catalina"
+    },
+    {
+      "raw": "Rossier, Thierry",
+      "family": "Rossier",
+      "given": "Thierry"
+    },
+    {
+      "raw": "Saga, Marte Lund",
+      "family": "Saga",
+      "given": "Marte Lund"
+    },
+    {
+      "raw": "Santana, Dulce",
+      "family": "Santana",
+      "given": "Dulce"
+    },
+    {
+      "raw": "Schneickert, Christian",
+      "family": "Schneickert",
+      "given": "Christian"
+    },
+    {
+      "raw": "Schimpfoessl, Elisabeth",
+      "family": "Schimpfoessl",
+      "given": "Elisabeth"
+    },
+    {
+      "raw": "Schoenberger, Francois",
+      "family": "Schoenberger",
+      "given": "Francois"
+    },
+    {
+      "raw": "Solipa, Izaura",
+      "family": "Solipa",
+      "given": "Izaura"
+    },
+    {
+      "raw": "Trembaczowski, Lukasz",
+      "family": "Trembaczowski",
+      "given": "Lukasz"
+    },
+    {
+      "raw": "Toft, Maren",
+      "family": "Toft",
+      "given": "Maren"
+    },
+    {
+      "raw": "Vale, Sofia",
+      "family": "Vale",
+      "given": "Sofia"
+    },
+    {
+      "raw": "Vasconcelos, Pedro",
+      "family": "Vasconcelos",
+      "given": "Pedro"
+    },
+    {
+      "raw": "Velazco, Jorge Quesada",
+      "family": "Velazco",
+      "given": "Jorge Quesada"
+    },
+    {
+      "raw": "Warczok, Tomasz",
+      "family": "Warczok",
+      "given": "Tomasz"
+    },
+    {
+      "raw": "Yu, Xinguo",
+      "family": "Yu",
+      "given": "Xinguo"
+    }
+  ],
+  "authors_text": "Buehlmann, Felix; Christesen, Caroline Ahler; Cousin, Bruno; Denord, Francois; Ellersgaard, Christoph Houman; Lagneau-Ymonet, Paul; Larsen, Anton Grau; Savage, Mike; Thine, Sylvain; Young, Kevin; Araujo, Pedro; Arrigoni, Paola; Atria, Jorge; Benz, Pierre; Behr, Johanna; Botelho, Maria do Carmo; Butt, Asif; Casanova, Pedro; Clemente-Casinhas, Luis; Castellani, Ana; Cescon, Fabio; Dagnes, Joselle; Debska, Hanna; Delval, Anne-Sophie; Dragun, Vitalina; Egas, Andreia; Emilsson, Kajsa; Fan, Xiaoguang; Fu, Fan; Gentile, Julia; Gomes, Orlando; Gronwald, Victoria; Heredia, Mariana; Hjellbrekke, Johannes; Honorio, Jorge; Huang, Jie; Inkley, Johnathan; Johansson, Hakan; Koiranen, Ilkka; Koivula, Aki; Kuusela, Hanna; Levita, Gabriel; Ling, Chao; Lu, Peng; Lukas, Michael; Lunding, Jacob; Mahmoudzadeh, Mina; Mcquade, Sean; Mendez, Maria Luisa; Nunes, Nuno; O'Brien, Shay; Otero, Gabriel; Pagnini, Marta; Pelfini, Alejandro; Pereira, Jessica; Roa, Catalina; Rossier, Thierry; Saga, Marte Lund; Santana, Dulce; Schneickert, Christian; Schimpfoessl, Elisabeth; Schoenberger, Francois; Solipa, Izaura; Trembaczowski, Lukasz; Toft, Maren; Vale, Sofia; Vasconcelos, Pedro; Velazco, Jorge Quesada; Warczok, Tomasz; Yu, Xinguo",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1111/1468-4446.13203",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13203",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13203",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13203.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

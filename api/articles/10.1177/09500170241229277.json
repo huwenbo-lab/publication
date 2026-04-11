@@ -1,0 +1,25 @@
+{
+  "title": "Unions, technology and social class inequalities in the US, 1984–2019",
+  "abstract": "Earnings inequality in the US has risen in recent decades, with social class inequalities being a central component of this trend. While technological change and de-unionisation are considered key contributors to increased earnings dispersion, their specific influence on inequalities between employees’ social classes has received limited attention. This study theoretically and empirically investigates the relationship between technological change, de-unionisation and the earnings trajectories of occupational classes from 1984 to 2019. The empirical analysis uses industry-level time-series cross-section data and industry-level measures of union density, computer investments and class earnings. Descriptive analyses show earnings growth for non-manual classes and stagnant or declining earnings for manual ones. Results provide limited evidence that computerisation affected classes differently in the industries where introduced. In contrast, industry-level de-unionisation reinforced class inequalities in two ways. First, unionisation exhibited a stronger association with lower-class earnings. Second, manual workers were more prevalent in industries that experienced substantial declines in union density.",
+  "authors": [
+    {
+      "raw": "Minardi, Saverio",
+      "family": "Minardi",
+      "given": "Saverio"
+    }
+  ],
+  "authors_text": "Minardi, Saverio",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2024,
+  "doi": "10.1177/09500170241229277",
+  "doi_url": "https://doi.org/10.1177/09500170241229277",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170241229277",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170241229277.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

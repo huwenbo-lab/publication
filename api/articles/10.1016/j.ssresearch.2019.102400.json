@@ -1,0 +1,30 @@
+{
+  "title": "Childhood family structure and complexity in partnership life courses",
+  "abstract": "This study investigated the associations between childhood living arrangements and complex adult partnership trajectories. The authors defined first union dissolution as the event initiating a complex partnership life course, and measured the level of complexity using a weighted cumulative index of subsequent partnership episodes. The analyses were based on a representative sample of the German population born in 1971-73 from the German Family Panel and used multivariate hurdle models to estimate the probability of experiencing the initiation of a complex partnership trajectory, as well as the level of complexity. Results showed that respondents who did not grow up with both biological parents (i.e. those who experienced an alternative family structure) had both a greater likelihood of experiencing the dissolution of their own first union, and followed more complex subsequent partnership trajectories. These associations varied across types of (alternative) family structures experienced during childhood and according to the level of parental partnership (in)stability. This study contributes to our understanding of contemporary partnership complexity and its precursors using a long term life course theoretical and methodological frame. We acknowledge that continuities and disruptions in the development of adult (complex) partnership trajectories can be linked to a growing diversity of family structure in childhood. Thereby, we expand knowledge on intergenerational interdependencies of family instability and complexity beyond the reproduction of the event of union dissolution.",
+  "authors": [
+    {
+      "raw": "Hiekel, Nicole",
+      "family": "Hiekel",
+      "given": "Nicole"
+    },
+    {
+      "raw": "Vidal, Sergi",
+      "family": "Vidal",
+      "given": "Sergi"
+    }
+  ],
+  "authors_text": "Hiekel, Nicole; Vidal, Sergi",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102400",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102400",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102400",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102400.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

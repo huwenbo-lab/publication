@@ -1,0 +1,25 @@
+{
+  "title": "Trends in U.S. adult chronic disease mortality, 1960–1999: age, period, and cohort variations",
+  "abstract": "AbstractIn this paper, I examine temporal changes in U.S. adult mortality by chronic disease cause of death and by sex over a 40-year period in the second half of the twentieth century. I apply age-period-cohort (APC) analyses that combine conventional approaches and a new method of model estimation to simultaneously account for age, period, and cohort variations in mortality rates for four leading causes of deaths, including heart disease, stroke, lung cancer, and breast cancer. The results show that large reductions in mortality since the late 1960s continued well into the late 1990s and that these reductions were predominately contributed by cohort effects. Cohort effects are found to differ by specific causes of death examined, but they generally show substantial survival improvements. Implications of these results are discussed with regard to demographic theories of mortality reductions, differential cohort accumulation of health capital and lifetime exposures to socioeconomic and behavioral risk factors, and period changes in diagnostic techniques and medical treatment.",
+  "authors": [
+    {
+      "raw": "Yang, Yang",
+      "family": "Yang",
+      "given": "Yang"
+    }
+  ],
+  "authors_text": "Yang, Yang",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0000",
+  "doi_url": "https://doi.org/10.1353/dem.0.0000",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0000",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0000.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

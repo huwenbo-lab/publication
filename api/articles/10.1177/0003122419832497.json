@@ -1,0 +1,35 @@
+{
+  "title": "Measuring Automatic Cognition: Advancing Dual-Process Research in Sociology",
+  "abstract": "Dual-process models are increasingly popular in sociology as a framework for theorizing the role of automatic cognition in shaping social behavior. However, empirical studies using dual-process models often rely on ad hoc measures such as forced-choice surveys, observation, and interviews whose relationships to underlying cognitive processes are not fully established. In this article, we advance dual-process research in sociology by (1) proposing criteria for measuring automatic cognition, and (2) assessing the empirical performance of two popular measures of automatic cognition developed by psychologists. We compare the ability of the Brief Implicit Association Test (BIAT), the Affect Misattribution Procedure (AMP), and traditional forced-choice measures to predict process-pure estimates of automatic influences on individuals' behavior during a survey task. Results from three studies focusing on politics, morality, and racial attitudes suggest the AMP provides the most valid and consistent measure of automatic cognitive processes. We conclude by discussing the implications of our findings for sociological practice.",
+  "authors": [
+    {
+      "raw": "Miles, Andrew",
+      "family": "Miles",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Charron-Chenier, Raphael",
+      "family": "Charron-Chenier",
+      "given": "Raphael"
+    },
+    {
+      "raw": "Schleifer, Cyrus",
+      "family": "Schleifer",
+      "given": "Cyrus"
+    }
+  ],
+  "authors_text": "Miles, Andrew; Charron-Chenier, Raphael; Schleifer, Cyrus",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419832497",
+  "doi_url": "https://doi.org/10.1177/0003122419832497",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419832497",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419832497.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

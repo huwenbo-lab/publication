@@ -1,0 +1,30 @@
+{
+  "title": "Fertility Transitions and Schooling: From Micro- to Macro-Level Associations",
+  "abstract": "AbstractResearch on the schooling implications of fertility transitions often faces an aggregation problem: despite policy interest in macro-level outcomes, empirical studies usually focus on the micro-level effects of sibsize on schooling. This article proposes an aggregation framework for moving from micro- to macro-level associations between fertility and schooling. The proposed framework is an improvement over previous aggregation methods in that it considers concurrent changes in the effects of sibsize, socioeconomic context, and family structure. The framework is illustrated with data from six sub-Saharan countries. Possible extensions are discussed.",
+  "authors": [
+    {
+      "raw": "Eloundou-Enyegue, Parfait M.",
+      "family": "Eloundou-Enyegue",
+      "given": "Parfait M."
+    },
+    {
+      "raw": "Giroux, Sarah C.",
+      "family": "Giroux",
+      "given": "Sarah C."
+    }
+  ],
+  "authors_text": "Eloundou-Enyegue, Parfait M.; Giroux, Sarah C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0131-y",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0131-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0131-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0131-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

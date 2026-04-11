@@ -1,0 +1,35 @@
+{
+  "title": "Variation in the Relationship Between Education and Marriage: Marriage Market Mismatch?",
+  "abstract": "Educational expansion has led to greater diversity in the social backgrounds of college students. We ask how schooling interacts with this diversity to influence marriage formation among men and women. Relying on data from the 1979 National Longitudinal Survey of Youth (N = 3,208), we use a propensity score approach to group men and women into social strata and multilevel event history models to test differences in the effects of college attendance across strata. We find a statistically significant, positive trend in the effects of college attendance across strata, with the largest effects of college on first marriage among the more advantaged and the smallest—indeed, negative—effects among the least advantaged men and women. These findings appear consistent with a mismatch in the marriage market between individuals' education and their social backgrounds.",
+  "authors": [
+    {
+      "raw": "Musick, Kelly",
+      "family": "Musick",
+      "given": "Kelly"
+    },
+    {
+      "raw": "Brand, Jennie E.",
+      "family": "Brand",
+      "given": "Jennie E."
+    },
+    {
+      "raw": "Davis, Dwight",
+      "family": "Davis",
+      "given": "Dwight"
+    }
+  ],
+  "authors_text": "Musick, Kelly; Brand, Jennie E.; Davis, Dwight",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2012,
+  "doi": "10.1111/j.1741-3737.2011.00879.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2011.00879.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2011.00879.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2011.00879.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

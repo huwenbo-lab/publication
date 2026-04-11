@@ -1,0 +1,35 @@
+{
+  "title": "Black in blue networks: social network integration and racial disparities in police use of force",
+  "abstract": "Explanations for police behavior argue that us versus them group dynamics shape officer interactions with the public. Yet, studies on racial disparities in policing overlook the interpersonal networks central to scholarship on group boundaries. We integrate insights from the literature on networks, group identity, and intergroup relations to consider how social network size and racial composition affect racial disparities in police officer use of force, and how those social network effects are conditioned by officer race. We test our perspective by analyzing newly collected longitudinal network data on the friendship relations between officers in one large department and linking these data to administrative records on officer use of force. The number of friendship ties to other officers is associated with within-officer increases in use of excessive force against Black victims, but not against White victims. Ties to White officers are only associated with use of excessive force against Black victims and only among Black officers. These findings suggest that social network integration contributes to racial disparities in police use of force and carries broader implications for intra- and intergroup discrimination in organizations characterized by strong institutional attachments.",
+  "authors": [
+    {
+      "raw": "Duxbury, Scott W.",
+      "family": "Duxbury",
+      "given": "Scott W."
+    },
+    {
+      "raw": "Ouellet, Marie",
+      "family": "Ouellet",
+      "given": "Marie"
+    },
+    {
+      "raw": "Hashimi, Sadaf",
+      "family": "Hashimi",
+      "given": "Sadaf"
+    }
+  ],
+  "authors_text": "Duxbury, Scott W.; Ouellet, Marie; Hashimi, Sadaf",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf151",
+  "doi_url": "https://doi.org/10.1093/sf/soaf151",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf151",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf151.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

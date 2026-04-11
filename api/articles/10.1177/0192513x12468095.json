@@ -1,0 +1,35 @@
+{
+  "title": "Family Formation and Offspring Mortality in Sweden",
+  "abstract": "Using multigenerational population register data that cover the total Swedish population, we studied relative mortality of offspring whose parents had formed a new family with children. These primarily adult-age children are found to have lower death risks than those with divorced parents who did not form a new family, which highlights that the link between parental family formation and offspring health may be attributed not only to causal factors associated with family disruption but also to social selection in parents. The association differs notably according to whether sibling groups are determined according to the mother or the father. This finding is interpreted as reflecting varying environmental exposure, because most minor children who experience parental divorce remain with the mother. We approximate that parental social selection, which maliciously affects offspring health, raises the offspring mortality risk by 20%.",
+  "authors": [
+    {
+      "raw": "Saarela, Jan",
+      "family": "Saarela",
+      "given": "Jan"
+    },
+    {
+      "raw": "Finnäs, Fjalar",
+      "family": "Finnäs",
+      "given": "Fjalar"
+    },
+    {
+      "raw": "Rostila, Mikael",
+      "family": "Rostila",
+      "given": "Mikael"
+    }
+  ],
+  "authors_text": "Saarela, Jan; Finnäs, Fjalar; Rostila, Mikael",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2012,
+  "doi": "10.1177/0192513x12468095",
+  "doi_url": "https://doi.org/10.1177/0192513x12468095",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x12468095",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x12468095.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

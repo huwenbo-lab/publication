@@ -1,0 +1,25 @@
+{
+  "title": "Does Schooling Affect Women's Desired Fertility? Evidence From Malawi, Uganda, and Ethiopia",
+  "abstract": "Demographic scholarship suggests that schooling plays an important role in transforming fertility preferences in the early stages of fertility decline. However, there is limited evidence on the relationship between schooling and fertility preferences that addresses the endogeneity of schooling. I use the implementation of Universal Primary Education (UPE) policies in Malawi, Uganda, and Ethiopia in the mid-1990s to conduct a fuzzy regression discontinuity analysis of the effect of schooling on women's desired fertility. Findings indicate that increased schooling reduced women's ideal family size and very high desired fertility across all three countries. Additional analyses of potential pathways through which schooling could have affected desired fertility suggest some pathways-such as increasing partner's education-were common across contexts, whereas other pathways were country-specific. This analysis contributes to demographic understandings of the factors influencing individual-level fertility behaviors and thus aggregate-level fertility decline in sub-Saharan Africa.",
+  "authors": [
+    {
+      "raw": "Behrman, Julia Andrea",
+      "family": "Behrman",
+      "given": "Julia Andrea"
+    }
+  ],
+  "authors_text": "Behrman, Julia Andrea",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0392-3",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0392-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0392-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0392-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

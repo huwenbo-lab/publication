@@ -1,0 +1,30 @@
+{
+  "title": "Jumping together or not? Associations between siblings' relationship quality and fertility transitions",
+  "abstract": "Individuals' fertility behaviors are likely to be associated with their siblings' due to social influence mechanisms and uncertainties involved making fertility transitions. Such cross-sibling effects were shown to be stronger when siblings have similar demographic traits. While being a proxy for sibling relationship quality, no study has directly investigated the association between sibling closeness and their fertility transitions. Using waves of data from the Netherlands Kinship Panel Study, this study adopted a dynamic design where the outcome is whether siblings had children the same period between panel waves: jumping together or not and estimated multilevel binary and multinomial logistic models (N N dyad-waves 6314). We found that siblings with higher relationship quality were more inclined to have children simultaneously, compared to the other gories. In contrast to a sibling having a fertility transition alone, sibling conflict was positively linked to both not having children. In conclusion, sibling closeness is important for siblings' fertility alignment, including both having and not having children simultaneously.",
+  "authors": [
+    {
+      "raw": "Her, Yu-Chin",
+      "family": "Her",
+      "given": "Yu-Chin"
+    },
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    }
+  ],
+  "authors_text": "Her, Yu-Chin; Kalmijn, Matthijs",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103054",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Parenthood and poverty risk within couples: individual and household poverty risks by gender and education in four European countries",
+  "abstract": "This study examines how the presence of children is associated with poverty risk within different-sex couples across welfare state regimes, using no- and full-income pooling scenarios. It focuses on whether partners can achieve an adequate living standard without relying on family ties, and how the costs of children shape poverty risk within these scenarios. Using cross-sectional EU-SILC data (2016-2019) on 30,150 coresidential couples from Austria, France, Spain, and Sweden, I use linear probability models (LPM) to estimate household and individual poverty risks among partners with/out children, by education, gender and country. The results indicate that poverty risks vary by gender, income pooling scenario and country. While partners bear household poverty risks together, there is a pronounced gender gap in individual poverty risk across countries. Men, regardless of their education and fatherhood status, have a relatively low individual poverty risk, with little difference between income pooling scenarios. Conversely, women, especially low-educated mothers, have a higher individual than household poverty risk. Observed cross-country variations highlight that the relationship between motherhood and poverty risk is context-specific. Although education is often promoted as a shield against poverty, in some countries, such as Austria, highly educated mothers also face a high individual poverty risk.",
+  "authors": [
+    {
+      "raw": "Siegert, Christina",
+      "family": "Siegert",
+      "given": "Christina"
+    }
+  ],
+  "authors_text": "Siegert, Christina",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcae040",
+  "doi_url": "https://doi.org/10.1093/esr/jcae040",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae040",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae040.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

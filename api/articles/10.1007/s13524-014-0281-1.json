@@ -1,0 +1,35 @@
+{
+  "title": "Does Education Improve Cognitive Performance Four Decades After School Completion?",
+  "abstract": "Abstract We study the effect of secondary education on cognitive performance toward the end of working age. We exploit the exogenous variation in years of schooling arising from compulsory schooling reforms implemented in six European countries during the 1950s and 1960s. Using data of individuals, approximately age 60, from the Survey of Health, Ageing and Retirement in Europe (SHARE), we assess the causal effect of education on memory, fluency, numeracy, and orientation-to-date. Furthermore, we study education effects on cognitive decline. We find a positive impact of schooling on memory scores. One year of education increases the memory score approximately four decades later by about 0.2, which amounts to 10 % of a standard deviation. Furthermore, we find some evidence for a protective effect of schooling on cognitive decline in terms of verbal fluency.",
+  "authors": [
+    {
+      "raw": "Schneeweis, Nicole",
+      "family": "Schneeweis",
+      "given": "Nicole"
+    },
+    {
+      "raw": "Skirbekk, Vegard",
+      "family": "Skirbekk",
+      "given": "Vegard"
+    },
+    {
+      "raw": "Winter-Ebmer, Rudolf",
+      "family": "Winter-Ebmer",
+      "given": "Rudolf"
+    }
+  ],
+  "authors_text": "Schneeweis, Nicole; Skirbekk, Vegard; Winter-Ebmer, Rudolf",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0281-1",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0281-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0281-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0281-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

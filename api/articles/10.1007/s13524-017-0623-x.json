@@ -1,0 +1,45 @@
+{
+  "title": "The Methuselah Effect: The Pernicious Impact of Unreported Deaths on Old-Age Mortality Estimates",
+  "abstract": "We examine inferences about old-age mortality that arise when researchers use survey data matched to death records. We show that even small rates of failure to match respondents can lead to substantial bias in the measurement of mortality rates at older ages. This type of measurement error is consequential for three strands in the demographic literature: (1) the deceleration in mortality rates at old ages; (2) the black-white mortality crossover; and (3) the relatively low rate of old-age mortality among Hispanics, often called the Hispanic paradox. Using the National Longitudinal Survey of Older Men matched to death records in both the U.S. Vital Statistics system and the Social Security Death Index, we demonstrate that even small rates of missing mortality matching plausibly lead to an appearance of mortality deceleration when none exists and can generate a spurious black-white mortality crossover. We confirm these findings using data from the National Health Interview Survey matched to the U.S. Vital Statistics system, a data set known as the gold standard (Cowper et al. 2002) for estimating age-specific mortality. Moreover, with these data, we show that the Hispanic paradox is also plausibly explained by a similar undercount.",
+  "authors": [
+    {
+      "raw": "Black, Dan A.",
+      "family": "Black",
+      "given": "Dan A."
+    },
+    {
+      "raw": "Hsu, Yu-Chieh",
+      "family": "Hsu",
+      "given": "Yu-Chieh"
+    },
+    {
+      "raw": "Sanders, Seth G.",
+      "family": "Sanders",
+      "given": "Seth G."
+    },
+    {
+      "raw": "Schofield, Lynne Steuerle",
+      "family": "Schofield",
+      "given": "Lynne Steuerle"
+    },
+    {
+      "raw": "Taylor, Lowell J.",
+      "family": "Taylor",
+      "given": "Lowell J."
+    }
+  ],
+  "authors_text": "Black, Dan A.; Hsu, Yu-Chieh; Sanders, Seth G.; Schofield, Lynne Steuerle; Taylor, Lowell J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0623-x",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0623-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0623-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0623-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "The intrinsic estimator for age-period-cohort analysis: What it is and how to use it",
+  "abstract": "A new approach to the statistical estimation of age-period-cohort (APC) accounting models, called the intrinsic estimator (IE), recently has been developed. This article (1) further describes the IE algebraically, geometrically, and verbally, (2) reviews properties of the IE as a statistical estimator, (3) provides model validation evidence for the IE both from an empirical example and from a simulation exercise, (4) relates the coefficients of the IE to those of conventional constrained APC models using formal definitions of statistical estimability, hypothesis testing, and empirical applications that directly address a criticism that often has been lodged at general-purpose methods of APC analysis, and (5) introduces computer software for application of the IE that interested users can readily access. The authors conclude that the IE holds the potential for applications not only to APC analysis but also to similar problems of structural underidentification in sociology.",
+  "authors": [
+    {
+      "raw": "Yang, Yang",
+      "family": "Yang",
+      "given": "Yang"
+    },
+    {
+      "raw": "Schulhofer-Wohl, Sam",
+      "family": "Schulhofer-Wohl",
+      "given": "Sam"
+    },
+    {
+      "raw": "Fu, Wenjiang J.",
+      "family": "Fu",
+      "given": "Wenjiang J."
+    },
+    {
+      "raw": "Land, Kenneth C.",
+      "family": "Land",
+      "given": "Kenneth C."
+    }
+  ],
+  "authors_text": "Yang, Yang; Schulhofer-Wohl, Sam; Fu, Wenjiang J.; Land, Kenneth C.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2008,
+  "doi": "10.1086/587154",
+  "doi_url": "https://doi.org/10.1086/587154",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F587154",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/587154.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

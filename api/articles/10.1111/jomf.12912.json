@@ -1,0 +1,50 @@
+{
+  "title": "The role of family composition in students' learning growth during the COVID-19 pandemic",
+  "abstract": "Objective: This study investigates the role of family composition on children's development during the coronavirus disease 2019 (COVID-19) pandemic, net of family socioeconomic status (SES).Background: At the start of the COVID-19 pandemic in the first half of 2020, schools closed and children all around the world were sent home, providing a rare opportunity to study the association between family composition and children's educational performance.Method: This study uses an extraordinary large-scale dataset on learning growth in primary education combined with extensive family background information (Netherlands Cohort Study on Education [NCO]). Using a difference-in-differences design and school-fixed effects, the association between family composition and learning growth before and during the school closure was compared, while controlling for family SES.Results: We find that during the pandemic, the effect of family composition on learning growth increased. Children in single-parent families and children in large families suffered larger learning losses during the pandemic than children in two-parent families and small families. Firstborn children experienced slightly less learning loss during the pandemic.Conclusion: The results indicated that the effect of family composition increased during the first school closure, even after controlling for family SES.Implications: This study provides evidence of family composition effects net of family SES. This indicates that apart from family SES, family composition should be taken into account to identify students at risk of learning loss.",
+  "authors": [
+    {
+      "raw": "de Leeuw, Suzanne",
+      "family": "de Leeuw",
+      "given": "Suzanne"
+    },
+    {
+      "raw": "Haelermans, Carla",
+      "family": "Haelermans",
+      "given": "Carla"
+    },
+    {
+      "raw": "Jacobs, Madelon",
+      "family": "Jacobs",
+      "given": "Madelon"
+    },
+    {
+      "raw": "van Der Velden, Rolf",
+      "family": "van Der Velden",
+      "given": "Rolf"
+    },
+    {
+      "raw": "van Vugt, Lynn",
+      "family": "van Vugt",
+      "given": "Lynn"
+    },
+    {
+      "raw": "van Wetten, Sanne",
+      "family": "van Wetten",
+      "given": "Sanne"
+    }
+  ],
+  "authors_text": "de Leeuw, Suzanne; Haelermans, Carla; Jacobs, Madelon; van Der Velden, Rolf; van Vugt, Lynn; van Wetten, Sanne",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2023,
+  "doi": "10.1111/jomf.12912",
+  "doi_url": "https://doi.org/10.1111/jomf.12912",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12912",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12912.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

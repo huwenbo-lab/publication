@@ -1,0 +1,35 @@
+{
+  "title": "Pathways to Carbon Pollution: The Interactive Effects of Global, Political, and Organizational Factors on Power Plants’ CO2 Emissions",
+  "abstract": "Climate change is arguably the greatest threat to society as power plants, the single largest human source of heat-trapping pollution, continue to emit massive amounts of carbon into the atmosphere. Sociologists have identified several possible structural determinants of electricity-based CO2 emissions, including international trade and global normative regimes, national political–legal systems, and organizational size and age. But because they treat these factors as competing predictors, scholars have yet to examine how they might work together to explain why some power plants emit vastly more pollutants than others. Using a worldwide data set of utility facilities and fuzzy-set methods, we analyze the conjoint effects of global, political, and organizational conditions on fossil-fueled plants' CO2 emissions. Findings reveal that hyperpolluters' emission rates are a function of four distinct causal recipes, which we label coercive, quiescent, expropriative, and inertial configurations, and these same sets of conditions also increase plants' emission levels.",
+  "authors": [
+    {
+      "raw": "Grant, Don",
+      "family": "Grant",
+      "given": "Don"
+    },
+    {
+      "raw": "Jorgenson, Andrew",
+      "family": "Jorgenson",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Longhofer, Wesley",
+      "family": "Longhofer",
+      "given": "Wesley"
+    }
+  ],
+  "authors_text": "Grant, Don; Jorgenson, Andrew; Longhofer, Wesley",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2018,
+  "doi": "10.15195/v5.a4",
+  "doi_url": "https://doi.org/10.15195/v5.a4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv5.a4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v5.a4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

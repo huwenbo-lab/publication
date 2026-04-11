@@ -1,0 +1,25 @@
+{
+  "title": "Institution-Driven Inequalities in the Risk of Temporary Employment: Job or Skill Based? The Relative Deregulation of Temporary Employment and its Relation to Inequalities in the Risk of Temporary Employment",
+  "abstract": "This article aims to explain the observation that patterns in inequalities in the risk of temporary employment differ between institutional environments. Following up on previous research, it is proposed that the transaction costs associated with different job contents influence employers' decisions with regard to which employees to hire on a temporary contract, which is again conditional on the institutional environments. Using multilevel logistic regression to estimate cross-level interactions between the protection of permanent employment (EPLp) and temporary employment (EPLt) and skill and job variables from the European Social Survey, it is shown that the relative deregulation of temporary employment increases the strength of skill specificity and educational attainment as drivers of inequalities in type of contract. Additionally, analyses of the predicted probabilities of temporary employment for employees with different levels of skill specificity in varying EPLp/EPLt regimes show these effects to be non-trivial. These results argue in favour of using theories from an economic sociology when studying employer behaviour, and urge policymakers to mind the balance in EPLp and EPLt when aiming to facilitate labour market adjustment.",
+  "authors": [
+    {
+      "raw": "Olsthoorn, Martin",
+      "family": "Olsthoorn",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Olsthoorn, Martin",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcv089",
+  "doi_url": "https://doi.org/10.1093/esr/jcv089",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv089",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv089.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

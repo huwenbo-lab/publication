@@ -1,0 +1,30 @@
+{
+  "title": "Why do occupations dominated by women pay less? How ‘female-typical’ work tasks and working-time arrangements affect the gender wage gap among higher education graduates",
+  "abstract": "Even though women today constitute the majority of higher education graduates, they still earn considerably less than their male counterparts. Previous research demonstrates that occupational sex segregation is important for understanding the gender wage gap, since occupations dominated by women pay less; yet less is known about why this is the case. This article explores two possible mechanisms: the devaluation of ‘female-typical’ work tasks and working-time arrangements. Hypotheses are tested by applying OLS regression and Blinder-Oaxaca decomposition analyses to the log hourly wages of a representative sample of German higher education graduates from 2001. Results confirm that occupational overtime increases and occupational part-time work decreases wages, indicating that occupations dominated by women pay less due to their ‘female-typical’ working-time arrangements. However, inconsistent with the devaluation thesis, tasks like teaching/educating increase wages for women, too, which speaks against a general lower value of ‘female-typical’ tasks, at least among the highly qualified.",
+  "authors": [
+    {
+      "raw": "Leuze, Kathrin",
+      "family": "Leuze",
+      "given": "Kathrin"
+    },
+    {
+      "raw": "Strauß, Susanne",
+      "family": "Strauß",
+      "given": "Susanne"
+    }
+  ],
+  "authors_text": "Leuze, Kathrin; Strauß, Susanne",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2016,
+  "doi": "10.1177/0950017015624402",
+  "doi_url": "https://doi.org/10.1177/0950017015624402",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017015624402",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017015624402.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "A modified new method for estimating smoking-attributable mortality in high-income countries",
+  "abstract": "recently proposed an innovative regression-based method for estimating smoking-attributable mortality in developed countries based on observed lung cancer death rates. Their estimates for females, however, differ appreciably from some published estimates. This article presents a modified version of the Preston, Glei, and Wilmoth method that includes an age-period interaction term in its model. This modified version produces improved estimates of smoking-attributable mortality that are consistent with results from a modified version of the Peto-Lopez indirect method.",
+  "authors": [
+    {
+      "raw": "Rostron, Brian L.",
+      "family": "Rostron",
+      "given": "Brian L."
+    }
+  ],
+  "authors_text": "Rostron, Brian L.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.23.14",
+  "doi_url": "https://doi.org/10.4054/demres.2010.23.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.23.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.23.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

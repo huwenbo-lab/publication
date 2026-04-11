@@ -1,0 +1,25 @@
+{
+  "title": "Adolescent Mental Health Problems, Behaviour Penalties, and Distributional Variation in Educational Achievement",
+  "abstract": "Prior research shows that mental health problems are linked to worse student achievements in school, but few studies address whether the consequences of such problems vary by student achievement level and the role of teachers' grading practices in these processes. In this study, I examine the relationship between mental health problems and grade achievement at the end of compulsory education using a population-based Norwegian health survey, the Young-HUNT study, matched with administrative data. The results show a robust negative influence of attention problems and conduct problems on average grade achievement, and a positive role of internalizing problems, in fixed-effects models controlling for unobserved characteristics of school context. Further, conduct problems are more strongly related with student achievement in the lower end of the grade distribution, indicating that low-achieving students are disproportionally affected by mental health problems. I also compare grades assigned by classroom teachers with anonymously graded exams, and find that part of the negative association between externalizing problems and achievement reflect a 'behavioural penalty' due to teacher-bias in grading practices.",
+  "authors": [
+    {
+      "raw": "Evensen, Miriam",
+      "family": "Evensen",
+      "given": "Miriam"
+    }
+  ],
+  "authors_text": "Evensen, Miriam",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcz015",
+  "doi_url": "https://doi.org/10.1093/esr/jcz015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

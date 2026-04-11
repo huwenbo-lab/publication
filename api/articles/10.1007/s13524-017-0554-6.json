@@ -1,0 +1,30 @@
+{
+  "title": "Children's Development and Parental Input: Evidence From the UK Millennium Cohort Study",
+  "abstract": "In this study, we use the UK Millennium Cohort Study to estimate a dynamic factor model of child development. Our model follows the children from birth until 7 years of age and allows for both cognitive and noncognitive abilities in children. We find a significant self-productivity effect in both cognitive and noncognitive development, as well as some evidence of dynamic dependence across different abilities. The activities that parents carry out with children at home (parental investment) have a significant effect on children's development; we find substantial evidence of two distinct latent parental investment variables with differential effects across the two abilities.",
+  "authors": [
+    {
+      "raw": "Hernandez-Alava, Monica",
+      "family": "Hernandez-Alava",
+      "given": "Monica"
+    },
+    {
+      "raw": "Popli, Gurleen",
+      "family": "Popli",
+      "given": "Gurleen"
+    }
+  ],
+  "authors_text": "Hernandez-Alava, Monica; Popli, Gurleen",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0554-6",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0554-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0554-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0554-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

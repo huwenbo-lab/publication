@@ -1,0 +1,30 @@
+{
+  "title": "The Location of Displaced New Orleans Residents in the Year After Hurricane Katrina",
+  "abstract": "AbstractUsing individual data from the restricted version of the American Community Survey, we examined the displacement locations of pre–Hurricane Katrina adult residents of New Orleans in the year after the hurricane. More than one-half (53 %) of adults had returned to—or remained in—the New Orleans metropolitan area, with just under one-third of the total returning to the dwelling in which they resided prior to Hurricane Katrina. Among the remainder, Texas was the leading location of displaced residents, with almost 40 % of those living away from the metropolitan area (18 % of the total), followed by other locations in Louisiana (12 %), the South region of the United States other than Louisiana and Texas (12 %), and elsewhere in the United States (5 %). Black adults were considerably more likely than nonblack adults to be living elsewhere in Louisiana, in Texas, and elsewhere in the South. The observed race disparity was not accounted for by any of the demographic or socioeconomic covariates in the multinomial logistic regression models. Consistent with hypothesized effects, we found that following Hurricane Katrina, young adults (aged 25–39) were more likely to move further away from New Orleans and that adults born outside Louisiana were substantially more likely to have relocated away from the state.",
+  "authors": [
+    {
+      "raw": "Sastry, Narayan",
+      "family": "Sastry",
+      "given": "Narayan"
+    },
+    {
+      "raw": "Gregory, Jesse",
+      "family": "Gregory",
+      "given": "Jesse"
+    }
+  ],
+  "authors_text": "Sastry, Narayan; Gregory, Jesse",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0284-y",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0284-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0284-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0284-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

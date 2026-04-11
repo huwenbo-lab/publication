@@ -1,0 +1,25 @@
+{
+  "title": "The Geographic Context of Divorce: Do Neighborhoods Matter?",
+  "abstract": "Neighborhood effects on family formation processes have recently received considerable attention, but no study has yet examined the impact of neighborhood socioeconomic status on marital dissolution. This analysis merges data from 3,523 respondents to the Panel Study of Income Dynamics with census data describing the socioeconomic composition of local communities. Although a multiitem index of neighborhood socioeconomic disadvantage is positively and significantly related to the risk of divorce, this association can be explained entirely by the low incomes of husbands in distressed neighborhoods. Thus, there appears to be no direct causal influence of neighborhood socioeconomic status on marital instability. To the extent that neighborhood socioeconomic disadvantage increases the prevalence of single‐parent families, it apparently does so by increasing rates of out‐of‐wedlock childbearing rather than by disrupting existing marriages among couples with children.",
+  "authors": [
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    }
+  ],
+  "authors_text": "South, Scott J.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2001,
+  "doi": "10.1111/j.1741-3737.2001.00755.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2001.00755.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2001.00755.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2001.00755.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

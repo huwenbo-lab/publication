@@ -1,0 +1,30 @@
+{
+  "title": "Religion and Support for Adoption by Same-Sex Couples",
+  "abstract": "This article examines the relative impact of religious factors on Americans’ attitudes toward adoption by same-sex couples. Drawing upon national survey data, we fit logistic regression models and compute standardized logistic regression coefficients to estimate the relative net effects of religious tradition, practices, and beliefs about the Bible on support for same-sex adoption. Findings reveal that religious factors are among the strongest predictors of opposition to same-sex adoption, but that religious tradition has no significant effect on support for same-sex adoption once frequency of religious practice and beliefs about the Bible are held constant. Americans who more frequently engage in practices such as religious service attendance and sacred text reading are less supportive of same-sex adoption, and compared to biblical literalists, those who believe the Bible requires interpretation, contains human error, or is a book of history/legends are all more likely to support same-sex adoption. Findings suggest that religious affiliations matter less for predicting same-sex adoption attitudes than how Americans practice and hold their faith.",
+  "authors": [
+    {
+      "raw": "Whitehead, Andrew L.",
+      "family": "Whitehead",
+      "given": "Andrew L."
+    },
+    {
+      "raw": "Perry, Samuel L.",
+      "family": "Perry",
+      "given": "Samuel L."
+    }
+  ],
+  "authors_text": "Whitehead, Andrew L.; Perry, Samuel L.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2014,
+  "doi": "10.1177/0192513x14536564",
+  "doi_url": "https://doi.org/10.1177/0192513x14536564",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x14536564",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x14536564.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "“In Sickness and in Health”",
+  "abstract": "Using data from the 1994-95 (Canadian) National Population Health Survey (6,494 women, 5,368 men), we investigated the impact of cohabitation on a range of physical and mental health indicators, controlling for self-selection into cohabitation and other relevant factors. Uncontrolled results indicate that the physical and mental health of cohabitors tends to fall between that of the married and the divorced/separated, widowed, and single/never married. However, when other factors are controlled, health differences between cohabitors and the currently married become nonsignificant. Self-selection, into cohabitation and into marriage, initially appears to play a significant role in accounting for variations in health, but with controls added to the models, selection mostly becomes nonsignificant. We concluded that self-selection at most may explain a small proportion of the variation in health but that protection effects are more likely to explain the positive health advantages of marriage and cohabitation.",
+  "authors": [
+    {
+      "raw": "Wu, Zheng",
+      "family": "Wu",
+      "given": "Zheng"
+    },
+    {
+      "raw": "Penning, Margaret J.",
+      "family": "Penning",
+      "given": "Margaret J."
+    },
+    {
+      "raw": "Pollard, Michael S.",
+      "family": "Pollard",
+      "given": "Michael S."
+    },
+    {
+      "raw": "Hart, Randy",
+      "family": "Hart",
+      "given": "Randy"
+    }
+  ],
+  "authors_text": "Wu, Zheng; Penning, Margaret J.; Pollard, Michael S.; Hart, Randy",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2003,
+  "doi": "10.1177/0192513x03254519",
+  "doi_url": "https://doi.org/10.1177/0192513x03254519",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x03254519",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x03254519.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

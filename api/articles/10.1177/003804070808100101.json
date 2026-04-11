@@ -1,0 +1,25 @@
+{
+  "title": "Educational investment, family context, and children's math and reading growth from kindergarten through the third grade",
+  "abstract": "Drawing on longitudinal data from the Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999, this study used IRT modeling to operationalize a measure of parental educational investments based on Lareau's notion of concerted cultivation. It used multilevel piece-wise growth models regressing children's math and reading achievement from entry into kindergarten through the third grade on concerted cultivation and family context variables. The results indicate that educational investments are an important mediator of socioeconomic and racial/ethnic disparities, completely explaining the black-white reading gap at kindergarten entry and consistently explaining 20 percent to 60 percent and 30 percent to 50 percent of the black-white and Hispanic-white disparities in the growth parameters, respectively, and approximately 20 percent of the socioeconomic gradients. Notably, concerted cultivation played a more significant role in explaining racial/ethnic gaps in achievement than expected from Lareau's discussion, which suggests that after socioeconomic background is controlled, concerted cultivation should not be implicated in racial/ethnic disparities in learning.",
+  "authors": [
+    {
+      "raw": "Cheadle, Jacob E.",
+      "family": "Cheadle",
+      "given": "Jacob E."
+    }
+  ],
+  "authors_text": "Cheadle, Jacob E.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2008,
+  "doi": "10.1177/003804070808100101",
+  "doi_url": "https://doi.org/10.1177/003804070808100101",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070808100101",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070808100101.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

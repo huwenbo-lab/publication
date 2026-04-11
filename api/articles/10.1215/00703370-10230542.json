@@ -1,0 +1,35 @@
+{
+  "title": "Social Spending and Educational Gaps in Infant Health in the United States, 1998-2017",
+  "abstract": "Recent expan sions of child tax, food assis tance, and health insur ance pro- grams have made Amer i can fam i lies' need for a robust social safety net highly evi- dent, while research ers and policymakers con tinue to debate the best way to sup port families via the welfare state. How much do children-and which children-benefit from social spend ing? Using the State-by -State Spending on Kids Dataset, linked to National Vital Statistics System birth data from 1998 to 2017, we exam ine how state level child spending affects infant health across maternal education groups. We find that social spending has benefits for both low birth weight and pre term birth rates, espe cially among babies born to moth ers with less than a high school edu ca tion. The stronger benefits of social spending among lower educated families lead to meaningful declines in educational gaps in infant health as social spending increases. Our findings are consistent with the idea that a strong local welfare state benefits infant health and increases equal ity of oppor tu nity, and that spend ing on nonhealth pro grams is equally beneficial for infant health as investments in health programs.",
+  "authors": [
+    {
+      "raw": "Jackson, Margot I.",
+      "family": "Jackson",
+      "given": "Margot I."
+    },
+    {
+      "raw": "Rauscher, Emily",
+      "family": "Rauscher",
+      "given": "Emily"
+    },
+    {
+      "raw": "Burns, Ailish",
+      "family": "Burns",
+      "given": "Ailish"
+    }
+  ],
+  "authors_text": "Jackson, Margot I.; Rauscher, Emily; Burns, Ailish",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10230542",
+  "doi_url": "https://doi.org/10.1215/00703370-10230542",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10230542",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10230542.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

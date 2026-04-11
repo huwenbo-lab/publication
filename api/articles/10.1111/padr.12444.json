@@ -1,0 +1,35 @@
+{
+  "title": "Health Shocks, Recovery, and the First Thousand Days: The Effect of the Second World War on Height Growth in Japanese Children",
+  "abstract": "This article uses the health shock on Japanese civilians of the Second World War to understand the effects of health shocks at different developmental stages on children's long-run growth pattern and to test whether recovery is possible after an early-life health shock. We construct a prefecture-level dataset of mean heights of boys and girls aged 6-19 from 1929 to 2015. Linking the heights recorded at different ages for the same birth cohort, we measure a counterfactual causal effect of the health shocks during the Second World War on the cohort growth pattern of children. We find that the war effect was greatest for cohorts exposed to the war in late childhood and adolescence: these cohorts were 1.7-3.0 cm shorter at adulthood and had delayed pubertal growth and slower maturation than they would have had if the war had never occurred. However, there were no persistent health penalties for children exposed to the war in early life, suggesting that catch-up growth was possible as health conditions improved after the war. These findings challenge the thousand-days consensus that children cannot recover from nutritional shocks in early life and indicate that adolescence is a sensitive period for health shocks.",
+  "authors": [
+    {
+      "raw": "Schneider, Eric B.",
+      "family": "Schneider",
+      "given": "Eric B."
+    },
+    {
+      "raw": "Ogasawara, Kota",
+      "family": "Ogasawara",
+      "given": "Kota"
+    },
+    {
+      "raw": "Cole, Tim J.",
+      "family": "Cole",
+      "given": "Tim J."
+    }
+  ],
+  "authors_text": "Schneider, Eric B.; Ogasawara, Kota; Cole, Tim J.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2021,
+  "doi": "10.1111/padr.12444",
+  "doi_url": "https://doi.org/10.1111/padr.12444",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12444",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12444.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

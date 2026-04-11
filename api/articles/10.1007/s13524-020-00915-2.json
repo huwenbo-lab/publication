@@ -1,0 +1,35 @@
+{
+  "title": "What Factors Explain the Decline in Widowed Women's Poverty?",
+  "abstract": "Historically, women in widowhood in the United States have been vulnerable, with high rates of poverty. However, over the past several decades, their poverty rate has fallen considerably. In this article, we look at why this decline occurred and whether it will continue. Using data from the Health and Retirement Study linked to Social Security administrative earnings and benefit records, we address these questions by exploring three factors that could have contributed to this decline: (1) women's rising levels of education; (2) their increased attachment to the labor force; and (3) increasing marital selection, reflecting that whereas marriage used to be equally distributed, it is becoming less common among those with lower socioeconomic status. The project decomposes the share of the decline in poverty into contributions by each of these factors and also projects the role of these factors in the future. The results indicate that increases in education and work experience have driven most of the decline in widows' poverty to date, but that marital selection will likely play a large role in a continuing decline in the future. Still, even after these effects play out, poverty among widows will remain well above that of married women.",
+  "authors": [
+    {
+      "raw": "Munnell, Alicia H.",
+      "family": "Munnell",
+      "given": "Alicia H."
+    },
+    {
+      "raw": "Sanzenbacher, Geoffrey",
+      "family": "Sanzenbacher",
+      "given": "Geoffrey"
+    },
+    {
+      "raw": "Zulkarnain, Alice",
+      "family": "Zulkarnain",
+      "given": "Alice"
+    }
+  ],
+  "authors_text": "Munnell, Alicia H.; Sanzenbacher, Geoffrey; Zulkarnain, Alice",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00915-2",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00915-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00915-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00915-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

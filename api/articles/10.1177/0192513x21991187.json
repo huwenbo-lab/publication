@@ -1,0 +1,30 @@
+{
+  "title": "Family Visitation Patterns during Incarceration in Denmark",
+  "abstract": "While qualitative evidence has highlighted psychological benefits of visitation during incarceration, and quantitative evidence has linked visitation to better post-release outcomes for inmates, we know little about heterogeneity in visitation patterns and the factors shaping them. Using Danish administrative data on inmates incarcerated at least a year between 2004 and 2014 (N = 5,441), we first examine average frequency and duration of family visits across the first year of incarceration and then describe five distinct visitation patterns using latent class analysis. Finally, we investigate what predicts visitation patterns. The findings highlight that (a) there is substantial heterogeneity in the patterns of family visitation and (b) both individual-level and institution-level factors partially predict this heterogeneity. Parenthood, high pre-incarceration income, and long sentences were associated with high levels of visitation and being placed far from home and transferred between facilities were associated with a higher risk of receiving low or decreasing levels of visitation.",
+  "authors": [
+    {
+      "raw": "Anker, Anne Sofie Tegner",
+      "family": "Anker",
+      "given": "Anne Sofie Tegner"
+    },
+    {
+      "raw": "Wildeman, Christopher",
+      "family": "Wildeman",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Anker, Anne Sofie Tegner; Wildeman, Christopher",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2021,
+  "doi": "10.1177/0192513x21991187",
+  "doi_url": "https://doi.org/10.1177/0192513x21991187",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x21991187",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x21991187.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

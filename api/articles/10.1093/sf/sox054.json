@@ -1,0 +1,30 @@
+{
+  "title": "Natural Hazards and Local Development: The Successive Nature of Landscape Transformation in the United States",
+  "abstract": "The built environment that serves as the literal foundation for social life involves not just the material development of local landscapes but ongoing damage from natural hazards endemic to these landscapes, which are forecasted to increase over coming years. Prior research has investigated each of these dynamics independently but not their intersection. The present study begins to fill this gap by combining county-level data on land development with that on natural hazard damage to assess how these two dimensions of local landscape transformation unfold together over time. Results from spatial panel regression and structural equation models indicate that on average and net of past trends and time-invariant factors, natural hazard damages tend to accelerate local land development in ways that feed back and scale up successively over time, especially onto formerly undeveloped lands. Implications for future landscape transformation and research are discussed.",
+  "authors": [
+    {
+      "raw": "Elliott, James R.",
+      "family": "Elliott",
+      "given": "James R."
+    },
+    {
+      "raw": "Clement, Matthew Thomas",
+      "family": "Clement",
+      "given": "Matthew Thomas"
+    }
+  ],
+  "authors_text": "Elliott, James R.; Clement, Matthew Thomas",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox054",
+  "doi_url": "https://doi.org/10.1093/sf/sox054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

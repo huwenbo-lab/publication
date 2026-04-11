@@ -1,0 +1,30 @@
+{
+  "title": "A description of within-family resource exchange networks in a Malawian village",
+  "abstract": "In this paper we explore patterns of economic transfers between adults within household and family networks in a village in Malawi's Rumphi district, using data from the 2006 round of the Malawi Longitudinal Study of Families and Health. We fit Exponential-family Random Graph Models (ERGMs) to assess individual, relational, and higher-order network effects. The network effects of cyclic giving, reciprocity, and in-degree and out-degree distribution suggest a network with a tendency away from the formation of hierarchies or \"hubs.\" Effects of age, sex, working status, education, health status, and kinship relation are also considered.",
+  "authors": [
+    {
+      "raw": "Potter, Gail E.",
+      "family": "Potter",
+      "given": "Gail E."
+    },
+    {
+      "raw": "Handcock, Mark S.",
+      "family": "Handcock",
+      "given": "Mark S."
+    }
+  ],
+  "authors_text": "Potter, Gail E.; Handcock, Mark S.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.23.6",
+  "doi_url": "https://doi.org/10.4054/demres.2010.23.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.23.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.23.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

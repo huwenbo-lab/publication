@@ -1,0 +1,35 @@
+{
+  "title": "Nations of joiners: Explaining voluntary association membership in democratic societies",
+  "abstract": "Levels of voluntary association membership for 33 democratic countries are compared using data from surveys of nationally representative samples of adults from the 1990s. Four explanations of national differences in association involvement are identified and tested: economic development, religious composition, type of polity, and years of continuous democracy. The analyses consider total and working association memberships, both including and excluding unions and religious associations. Americans volunteer at rates above the average for all nations on each measure, but they are often matched and surpassed by those of several other countries, notably the Netherlands, Canada, and a number of Nordic nations, including Iceland, Sweden, and Norway. Hierarchical linear models show that voluntarism tends to be particularly high in nations that have: (1) multidenominational Christian or predominantly Protestant religious compositions, (2) prolonged and continuous experience with democratic institutions, (3) social democratic or liberal democratic political systems, and (4) high levels of economic development. With some exceptions for working memberships, these factors, both separately and in combination, are clearly, important predictors of cross-national variation in voluntary association membership.",
+  "authors": [
+    {
+      "raw": "Curtis, JE",
+      "family": "Curtis",
+      "given": "JE"
+    },
+    {
+      "raw": "Baer, DE",
+      "family": "Baer",
+      "given": "DE"
+    },
+    {
+      "raw": "Grabb, EG",
+      "family": "Grabb",
+      "given": "EG"
+    }
+  ],
+  "authors_text": "Curtis, JE; Baer, DE; Grabb, EG",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2001,
+  "doi": "10.2307/3088873",
+  "doi_url": "https://doi.org/10.2307/3088873",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088873",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088873.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

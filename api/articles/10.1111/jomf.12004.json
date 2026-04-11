@@ -1,0 +1,30 @@
+{
+  "title": "Effect of Husbands' Employment Status on Their Wives' Subjective Well‐being in Korea",
+  "abstract": "This study used data from the Korea Labor and Income Panel Survey (2001, 2003–2007) to estimate the effect of a husband's unemployment on his wife's subjective well‐being (SWB). Ordinal and pooled binary logistic regression models were estimated using 20,099 observations from a sample of 4,569 married women; a fixed‐effects logistic regression model was also estimated using 5,514 observations from a restricted sample of 1,070 wives who experienced at least 1 change in SWB over the follow‐up period. The findings indicated that a husband's unemployment was detrimental to his wife's SWB. This spillover effect appeared to be mediated in part through nonpecuniary factors (i.e., dissatisfaction with family and social relations). These findings suggest that, beyond income loss and the well‐being of unemployed individuals, the social cost of unemployment should consider the negative effects of unemployment on the family, in particular the spouse.",
+  "authors": [
+    {
+      "raw": "Kim, Myoung‐Hee",
+      "family": "Kim",
+      "given": "Myoung‐Hee"
+    },
+    {
+      "raw": "Do, Young Kyung",
+      "family": "Do",
+      "given": "Young Kyung"
+    }
+  ],
+  "authors_text": "Kim, Myoung‐Hee; Do, Young Kyung",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2013,
+  "doi": "10.1111/jomf.12004",
+  "doi_url": "https://doi.org/10.1111/jomf.12004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

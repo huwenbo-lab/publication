@@ -1,0 +1,30 @@
+{
+  "title": "The Inequity Z: Income Fairness Perceptions in Europe across the Income Distribution",
+  "abstract": "Using data from the European Social Survey, we examine income fairness evaluations of 17,605 respondents from 28 countries. Respondents evaluated the fairness of their own incomes as well as the fairness of the incomes of the top and bottom income deciles in their countries. Depicted on a single graph, these income fairness evaluations take on a Z-shaped form, which we call the “inequity Z”. The inequity Z reveals an extensive level of consensus within each country regarding the degree of unfairness of top and bottom incomes. With rising income, respondents consistently judge their own incomes to be less unfair. Across countries, the gap in fairness ratings between top and bottom incomes rises with income inequality. Perceived underreward of bottom incomes is more pronounced in countries where bottom incomes are objectively lower. Thus, this visualization suggests that, when people are confronted with information about actual income levels, perceived inequity increases with inequality.",
+  "authors": [
+    {
+      "raw": "Kalleitner, Fabian",
+      "family": "Kalleitner",
+      "given": "Fabian"
+    },
+    {
+      "raw": "Bohmann, Sandra",
+      "family": "Bohmann",
+      "given": "Sandra"
+    }
+  ],
+  "authors_text": "Kalleitner, Fabian; Bohmann, Sandra",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231167138",
+  "doi_url": "https://doi.org/10.1177/23780231231167138",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231167138",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231167138.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

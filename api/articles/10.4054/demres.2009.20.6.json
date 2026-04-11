@@ -1,0 +1,30 @@
+{
+  "title": "Overestimating HIV infection:",
+  "abstract": "In the absence of HIV testing, how do rural Malawians assess their HIV status? In this paper, we use a unique dataset that includes respondents' HIV status as well as their subjective likelihood of HIV infection. These data show that many rural Malawians overestimate their likelihood of current HIV infection. The discrepancy between actual and perceived status raises an important question: Why are so many wrong? We begin by identifying determinants of self-assessed HIV status, and then compare these assessments with HIV biomarker results. Finally, we ask what characteristics of individuals are associated with errors in self-assessments.",
+  "authors": [
+    {
+      "raw": "Anglewicz, Phil",
+      "family": "Anglewicz",
+      "given": "Phil"
+    },
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    }
+  ],
+  "authors_text": "Anglewicz, Phil; Kohler, Hans-Peter",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2009,
+  "doi": "10.4054/demres.2009.20.6",
+  "doi_url": "https://doi.org/10.4054/demres.2009.20.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2009.20.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2009.20.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

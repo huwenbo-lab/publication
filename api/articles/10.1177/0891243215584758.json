@@ -1,0 +1,30 @@
+{
+  "title": "New Categories Are Not Enough",
+  "abstract": "Recently, scholars and activists have turned their attention toward improving the measurement of sex and gender in survey research. The focus of this effort has been on including answer options beyond “male” and “female” to questions about the respondent’s gender. This is an important step toward both reflecting the diversity of gendered lives and better aligning survey measurement practice with contemporary gender theory. However, our systematic examination of questionnaires, manuals, and other technical materials from four of the largest and longest-running surveys in the United States indicates that there are a number of other issues with how gender is conceptualized and measured in social surveys that also deserve attention, including essentialist practices that treat sex and gender as synonymous, easily determined by others, obvious, and unchanging over the life course. We find that these understandings extend well beyond direct questions about the respondent’s gender, permeating the surveys. A hyper-gendered world of “males” and “females,” “brothers” and “sisters,” and “husbands” and “wives” shapes what we can see in survey data. If not altered, surveys will continue to reproduce statistical representations that erase important dimensions of variation and likely limit understanding of the processes that perpetuate social inequality.",
+  "authors": [
+    {
+      "raw": "Westbrook, Laurel",
+      "family": "Westbrook",
+      "given": "Laurel"
+    },
+    {
+      "raw": "Saperstein, Aliya",
+      "family": "Saperstein",
+      "given": "Aliya"
+    }
+  ],
+  "authors_text": "Westbrook, Laurel; Saperstein, Aliya",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2015,
+  "doi": "10.1177/0891243215584758",
+  "doi_url": "https://doi.org/10.1177/0891243215584758",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243215584758",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243215584758.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

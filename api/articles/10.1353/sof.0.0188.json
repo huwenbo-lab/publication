@@ -1,0 +1,35 @@
+{
+  "title": "Neighborhood Racial Isolation, Disorder and Obesity",
+  "abstract": "Recent research suggests that racial residential segregation may be detrimental to health. This study investigates the influence of neighborhood racial isolation on obesity and considers the role of neighborhood disorder as a mediator in this relationship. For the city of Philadelphia, we find that residence in a neighborhood with high black racial isolation is associated with a higher body mass index and higher odds of obesity among women, but not men, highlighting important sex differences in the influence of neighborhood structure on health. Furthermore, the influence of high racial isolation on women's weight status is mediated, in part, by the physically disordered nature of such neighborhoods. Disorder of a more social nature (as measured by incident crime) is not associated with weight status.",
+  "authors": [
+    {
+      "raw": "Chang, V. W.",
+      "family": "Chang",
+      "given": "V. W."
+    },
+    {
+      "raw": "Hillier, A. E.",
+      "family": "Hillier",
+      "given": "A. E."
+    },
+    {
+      "raw": "Mehta, N. K.",
+      "family": "Mehta",
+      "given": "N. K."
+    }
+  ],
+  "authors_text": "Chang, V. W.; Hillier, A. E.; Mehta, N. K.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0188",
+  "doi_url": "https://doi.org/10.1353/sof.0.0188",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0188",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0188.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

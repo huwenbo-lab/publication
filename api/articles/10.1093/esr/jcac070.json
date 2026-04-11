@@ -1,0 +1,35 @@
+{
+  "title": "Aleatoric governance: using lotteries to break the iron law of oligarchy",
+  "abstract": "Michels' iron law of oligarchy states that political organizations tend inexorably towards oligarchy, to the likely detriment of the organizations themselves and, by extension, to the detriment of society more broadly. We suggest focal randomization as a historically proven countermeasure: a lottery decides who wins promotion from a preselected pool of highly qualified candidates. We draw on a historical case to assess the efficacy of focal randomization in eroding power monopolization and elite closure in 18th-century Basel, Switzerland. To combat widespread nepotism, starting in 1688, the city implemented a series of partly randomized selection regimes that were routinely applied in executive appointments to the city's administration until 1798. Using data on all 2,587 appointments to the main governing body of the city between 1650 and 1798, we analyse how each selection regime affected elite closure. Our findings indicate that the targeted use of elements of chance in executive appointments eroded the elite's ability to monopolize access to the highest political positions. Before the introduction of focal randomization, candidates from Basel's elite were 4 times more likely to be appointed to top positions than candidates from non-elite families. After the introduction of focal randomization, the elites' advantages declined, and members of non-elite families tripled their chances of advancing to the highest office. However, our study also cautions that this effect depended on several design choices. Focal randomization is effective in settings in which a surplus of qualified candidates competes for a limited number of coveted positions.",
+  "authors": [
+    {
+      "raw": "Doehne, Malte",
+      "family": "Doehne",
+      "given": "Malte"
+    },
+    {
+      "raw": "Geweke, Jonas",
+      "family": "Geweke",
+      "given": "Jonas"
+    },
+    {
+      "raw": "Rost, Katja",
+      "family": "Rost",
+      "given": "Katja"
+    }
+  ],
+  "authors_text": "Doehne, Malte; Geweke, Jonas; Rost, Katja",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac070",
+  "doi_url": "https://doi.org/10.1093/esr/jcac070",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac070",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac070.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

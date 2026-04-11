@@ -1,0 +1,25 @@
+{
+  "title": "Qualitative Comparative Analysis: A Discussion of Interpretations",
+  "abstract": "The article discusses interpretations of ‘Qualitative Comparative Analysis' (QCA) proposed by Charles Ragin. The first section argues that QCA can be understood alternatively as a method of data description or as a method for the construction of deterministic functional models. It is shown that thinking in terms of models is required for generalizations. The second section discusses causal interpretations of such models. It is argued that one can use deterministic models without supposing a deterministic metaphysics. The third section briefly introduces stochastic functional models and shows how they can be used for QCA applications. In addition to showing that QCA can be well understood as a specific method of model construction, the article argues that deterministic and stochastic functional models are quite similar and, depending on the application context and the available data, both kinds of models could be useful.",
+  "authors": [
+    {
+      "raw": "Rohwer, G.",
+      "family": "Rohwer",
+      "given": "G."
+    }
+  ],
+  "authors_text": "Rohwer, G.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcq034",
+  "doi_url": "https://doi.org/10.1093/esr/jcq034",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcq034",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcq034.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

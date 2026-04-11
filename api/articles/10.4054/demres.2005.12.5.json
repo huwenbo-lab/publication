@@ -1,0 +1,25 @@
+{
+  "title": "Quadratic spline fits by nonlinear least squares",
+  "abstract": "This web program fits a Quadratic Spline model, as described in Schmertmann (2003; Demographic Research Volume 9, Article 5), to any empirical fertility schedule supplied by the user. The fit minimizes the sum of squared differences between the empiri",
+  "authors": [
+    {
+      "raw": "Schmertmann, Carl",
+      "family": "Schmertmann",
+      "given": "Carl"
+    }
+  ],
+  "authors_text": "Schmertmann, Carl",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2005,
+  "doi": "10.4054/demres.2005.12.5",
+  "doi_url": "https://doi.org/10.4054/demres.2005.12.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2005.12.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2005.12.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

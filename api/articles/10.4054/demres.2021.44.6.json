@@ -1,0 +1,25 @@
+{
+  "title": "Diverging gaps in childcare time by parental education in South Korea",
+  "abstract": "BACKGROUND Parental time is a key resource for children's development. Studies in the United States highlight diverging gaps in parental time for children between highly educated and low-educated parents. South Korea offers an interesting context in which to examine the trend. OBJECTIVE This study assesses whether differences in childcare time have diverged or converged between parents with higher and lower levels of education over the 15-year period. Utilizing the advantage of household survey, the total amount of childcare time spent by both fathers and mothers is examined, in addition to separate time for each parent. METHODS The Korean Time Use Surveys (KTUS), conducted in 1999, 2004, 2009, and 2014, provide time diary data for two consecutive days. OLS regression models are applied to 14,044 married mothers and fathers who have at least one child under school age in order to examine how educational differences in childcare time have changed across the four surveys. RESULTS The OLS results show that both mothers and fathers have spent increasingly more time for childcare between 1999 and 2014, regardless of educational levels. However, the rise of time use is more substantial among mothers and fathers with a university degree than their counterparts with high school or less education. The diverging trend is even more evident for the combined childcare time spent by both mothers and fathers. CONTRIBUTION The divergence in childcare time by parental education is consistent with emerging trends of growing educational gaps in family behavior in Korea, raising the concern for diverging destinies between advantaged and disadvantaged children.",
+  "authors": [
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    }
+  ],
+  "authors_text": "Park, Hyunjoon",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.6",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

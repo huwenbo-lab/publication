@@ -1,0 +1,30 @@
+{
+  "title": "The Effects of Communal Violence on Women's Marital Outcomes",
+  "abstract": "This study examines the effects of communal violence-violence inflicted on a particular group along ethnic or religious lines-on women's marital outcomes. Communal violence, with its accompanying psychological and physical trauma, can have important socioeconomic consequences. The 2002 Gujarat riots stand out as one of the most significant and abrupt occurrences of communal violence in postindependence India. The riots were marked by widespread violence against women, providing a setting to study the impacts of violence on women. Using individual-level survey data from India and a difference-in-differences approach, the study shows that women's age at marriage decreased and their probability of marrying before age 18 increased after the Hindu-Muslim riots in Gujarat in 2002. Event-study and synthetic control methods suggest that these effects were prominent two years after the riots and have increased over time. Women who married after the riots also had fewer years of education and poorer social and economic status, such as a lower probability of employment and lower autonomy in household decision-making.",
+  "authors": [
+    {
+      "raw": "Ghose, Devaki",
+      "family": "Ghose",
+      "given": "Devaki"
+    },
+    {
+      "raw": "Pandey, Divya",
+      "family": "Pandey",
+      "given": "Divya"
+    }
+  ],
+  "authors_text": "Ghose, Devaki; Pandey, Divya",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11995654",
+  "doi_url": "https://doi.org/10.1215/00703370-11995654",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11995654",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11995654.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

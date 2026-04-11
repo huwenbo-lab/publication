@@ -1,0 +1,55 @@
+{
+  "title": "Is the age difference between partners related to women's earnings?",
+  "abstract": "BACKGROUND Women earn less than men at most career stages. Explanations for a gender gap in wages include gender differences in the allocation of household and domestic work. At the family level, a marital age difference is an important shared characteristic that might play a role in determining a woman's career trajectory, and, therefore, her income. Since women tend to marry older men, we investigate whether women whose husbands are older have lower incomes than women whose husbands are the same age or younger. OBJECTIVE This study investigates whether the age gap between a woman and her partner was associated with her income in Denmark in 2010. METHODS We use data on Danish female twin pairs in 2010. Our design includes samples within twin pairs (n = 4,716) and pooled twin samples (n = 13,354) to account for differences in early household environments and uses unconditional quantile regression to model the association between the age gap and the woman's income. RESULTS We find a statistically significant association between the marital age gap and the woman's income. The form of this association appears to be complex and varies across the income and age gap distribution. However, the magnitude of the estimated effects is small in economic terms. CONCLUSIONS These results suggest that the marital age gap is unlikely to be an important determinant of a woman's income, at least in Denmark. CONTRIBUTION To our knowledge, this is the first study that explores the association between marital age differences and a woman's earnings using a twin design and high-quality register data.",
+  "authors": [
+    {
+      "raw": "Carollo, Angela",
+      "family": "Carollo",
+      "given": "Angela"
+    },
+    {
+      "raw": "Oksuzyan, Anna",
+      "family": "Oksuzyan",
+      "given": "Anna"
+    },
+    {
+      "raw": "Drefahl, Sven",
+      "family": "Drefahl",
+      "given": "Sven"
+    },
+    {
+      "raw": "Camarda, Carlo Giovanni",
+      "family": "Camarda",
+      "given": "Carlo Giovanni"
+    },
+    {
+      "raw": "Ahrenfeldt, Linda Juel",
+      "family": "Ahrenfeldt",
+      "given": "Linda Juel"
+    },
+    {
+      "raw": "Christensen, Kaare",
+      "family": "Christensen",
+      "given": "Kaare"
+    },
+    {
+      "raw": "van Raalte, Alyson",
+      "family": "van Raalte",
+      "given": "Alyson"
+    }
+  ],
+  "authors_text": "Carollo, Angela; Oksuzyan, Anna; Drefahl, Sven; Camarda, Carlo Giovanni; Ahrenfeldt, Linda Juel; Christensen, Kaare; van Raalte, Alyson",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.15",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

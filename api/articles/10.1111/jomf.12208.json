@@ -1,0 +1,35 @@
+{
+  "title": "Does Marriage Moderate Genetic Effects onDelinquency and Violence?",
+  "abstract": "Using data from the National Longitudinal Study of Adolescent to Adult Health (N=1,254), the authors investigated whether marriage can foster desistance from delinquency and violence by moderating genetic effects. In contrast to existing gene-environment research that typically focuses on one or a few genetic polymorphisms, they extended a recently developed mixed linear model to consider the collective influence of 580 single nucleotide polymorphisms in 64 genes related to aggression and risky behavior. The mixed linear model estimates the proportion of variance in the phenotype that is explained by the single nucleotide polymorphisms. The authors found that the proportion of variance in delinquency/violence explained was smaller among married individuals than unmarried individuals. Because selection, confounding, and heterogeneity may bias the estimate of the GenexMarriage interaction, they conducted a series of analyses to address these issues. The findings suggest that the GenexMarriage interaction results were not seriously affected by these issues.",
+  "authors": [
+    {
+      "raw": "Li, Yi",
+      "family": "Li",
+      "given": "Yi"
+    },
+    {
+      "raw": "Liu, Hexuan",
+      "family": "Liu",
+      "given": "Hexuan"
+    },
+    {
+      "raw": "Guo, Guang",
+      "family": "Guo",
+      "given": "Guang"
+    }
+  ],
+  "authors_text": "Li, Yi; Liu, Hexuan; Guo, Guang",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12208",
+  "doi_url": "https://doi.org/10.1111/jomf.12208",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12208",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12208.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

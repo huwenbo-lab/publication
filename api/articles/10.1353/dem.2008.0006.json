@@ -1,0 +1,35 @@
+{
+  "title": "The quantity-Quality trade-Off of children In a developing country: Identification using chinese twins",
+  "abstract": "AbstractTesting the trade-off between child quantity and quality within a family is complicated by the endogeneity of family size. Using data from the Chinese Population Census, we examine the effect of family size on child educational attainment in China. We find a negative correlation between family size and child outcome, even after we control for the birth order effect. We then instrument family size by the exogenous variation that is induced by a twin birth and find a negative effect of family size on children’s education. We also find that the effect of family size is more evident in rural China, where the public education system is poor. Given that our estimates of the effect of having twins on nontwins at least provide the lower bound of the true effect of family size, these findings suggest a quantity-quality trade-off for children in developing countries.",
+  "authors": [
+    {
+      "raw": "Li, Hongbin",
+      "family": "Li",
+      "given": "Hongbin"
+    },
+    {
+      "raw": "Zhang, Junsen",
+      "family": "Zhang",
+      "given": "Junsen"
+    },
+    {
+      "raw": "Zhu, Yi",
+      "family": "Zhu",
+      "given": "Yi"
+    }
+  ],
+  "authors_text": "Li, Hongbin; Zhang, Junsen; Zhu, Yi",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.2008.0006",
+  "doi_url": "https://doi.org/10.1353/dem.2008.0006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2008.0006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2008.0006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

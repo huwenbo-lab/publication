@@ -1,0 +1,40 @@
+{
+  "title": "Medically Assisted Reproduction and Partnership Stability",
+  "abstract": "Despite the increasing use of medically assisted reproduction (MAR) in modern societies, there is limited evidence on whether conceiving with MAR or remaining involuntarily childless after MAR is associated with partnership stability. While older age, the more advantaged socioeconomic position of women undergoing MAR and their strong fertility intentions could lead to higher partnership stability, the experience of infertility and undergoing MAR may have an opposite effect, especially if couples remain involuntarily childless. Using data on Finnish nulliparous couples from 1995-2017 (N = 149,884) and event-history models, we compare the risk of separation of couples who remained childless after MAR (N = 3871), who conceived through MAR (N = 14,474), who conceived naturally without MAR (N = 167,962) or with a prior history of MAR (N = 2273). Couples who remained childless after MAR had a higher risk of separation than couples who conceived with MAR or naturally. The higher risk of separation decreased over time since the discontinuation of treatments but persisted over the longer term. There were no differences in the risk of separation between couples who conceived with MAR or naturally. The results suggest that involuntary childlessness after MAR is associated with an increased risk of separation while undergoing MAR/experiencing infertility does not seem to play a role.",
+  "authors": [
+    {
+      "raw": "Pelikh, Alina",
+      "family": "Pelikh",
+      "given": "Alina"
+    },
+    {
+      "raw": "Remes, Hanna",
+      "family": "Remes",
+      "given": "Hanna"
+    },
+    {
+      "raw": "Metsa-Simola, Niina",
+      "family": "Metsa-Simola",
+      "given": "Niina"
+    },
+    {
+      "raw": "Goisis, Alice",
+      "family": "Goisis",
+      "given": "Alice"
+    }
+  ],
+  "authors_text": "Pelikh, Alina; Remes, Hanna; Metsa-Simola, Niina; Goisis, Alice",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12660",
+  "doi_url": "https://doi.org/10.1111/padr.12660",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12660",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12660.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

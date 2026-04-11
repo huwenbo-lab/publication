@@ -1,0 +1,35 @@
+{
+  "title": "COVID-19 Vaccine Hesitancy Is the New Terrain for Political Division among Americans",
+  "abstract": "Politically conservative Americans are less likely than those who identify as liberal to report a willingness to get a vaccine against coronavirus disease 2019. Using data from the Axios/Ipsos Coronavirus Survey from November 2020 to February 2021, the authors find that this partisan divide in vaccine hesitancy has increased over time. Recent scholarship has suggested that these differences can be attributed to personal characteristics, including varying levels of trust in institutions. The authors find that although the data supported this hypothesis in mid-November, by early February differences in demographics, concern about the pandemic, and institutional trust no longer explained the partisan gap. The authors explain the deepening divide by turning to recent evidence that political party affiliation has become a source of identity that shapes personal decision making.",
+  "authors": [
+    {
+      "raw": "Cowan, Sarah K.",
+      "family": "Cowan",
+      "given": "Sarah K."
+    },
+    {
+      "raw": "Mark, Nicholas",
+      "family": "Mark",
+      "given": "Nicholas"
+    },
+    {
+      "raw": "Reich, Jennifer A.",
+      "family": "Reich",
+      "given": "Jennifer A."
+    }
+  ],
+  "authors_text": "Cowan, Sarah K.; Mark, Nicholas; Reich, Jennifer A.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211023657",
+  "doi_url": "https://doi.org/10.1177/23780231211023657",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211023657",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211023657.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

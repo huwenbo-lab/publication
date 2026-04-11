@@ -1,0 +1,35 @@
+{
+  "title": "Age reporting among white Americans aged 85+: Results of a record linkage study",
+  "abstract": "Abstract This study investigates age reporting on the death certificates of older white Americans. We link a sample of death certificates for native-born whites aged 85+ in 1985 to Social Security Administration records and to records of the U.S. censuses of 1900, 1910, and 1920. When ages in these sources are compared, inconsistencies are found to be minimal, even beyond age 95. Results show little distortion and no systematic biases in the reported age distribution of deaths. To explore the effect of age misreporting on old-age mortality, we estimate “corrected” age-specific death rates by the extinct-generation method for the U.S. white cohort born in 1885. With few exceptions, corrected and uncorrected rates in single years differ by less than 3% and are not systematically biased. When we compare corrected rates with those for the same birth cohort in France, Japan, and Sweden, we find that white American mortality at older ages is exceptionally low.",
+  "authors": [
+    {
+      "raw": "Hill, Mark E.",
+      "family": "Hill",
+      "given": "Mark E."
+    },
+    {
+      "raw": "Preston, Samuel H.",
+      "family": "Preston",
+      "given": "Samuel H."
+    },
+    {
+      "raw": "Rosenwaike, Ira",
+      "family": "Rosenwaike",
+      "given": "Ira"
+    }
+  ],
+  "authors_text": "Hill, Mark E.; Preston, Samuel H.; Rosenwaike, Ira",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648119",
+  "doi_url": "https://doi.org/10.2307/2648119",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648119",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648119.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

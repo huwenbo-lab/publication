@@ -1,0 +1,35 @@
+{
+  "title": "The Unexpected Decline in Feelings of Depression among Adults Ages 50 and Older in 11 European Countries amid the COVID-19 Pandemic",
+  "abstract": "Findings on the mental health impact of the first wave of the coronavirus disease 2019 (COVID-19) pandemic in Europe are mixed and lack a comparative and longitudinal perspective. The authors used the Survey of Health, Ageing, and Retirement in Europe and fixed-effects regressions to estimate within-individual change in the probability to report feelings of depression between 2005 and 2017 and directly following the first wave of the COVID-19 pandemic in 11 European countries for adults ages 50 and older. The authors found an unprecedented decline in feelings of depression between 2017 and 2020 in all countries that was larger than any previous observed change. The probability to report feelings of depression decreased by 14.5 percentage points on average, ranging from 7 to 19 percentage points in Spain and Switzerland, respectively. Moreover, there were no systematic within-country differences by socioeconomic characteristics, chronic health conditions, virus exposure, or change in activities. These findings challenge conventional wisdom about the mental health impact of the COVID-19 pandemic.",
+  "authors": [
+    {
+      "raw": "Van Winkle, Zachary",
+      "family": "Van Winkle",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Ferragina, Emanuele",
+      "family": "Ferragina",
+      "given": "Emanuele"
+    },
+    {
+      "raw": "Recchi, Ettore",
+      "family": "Recchi",
+      "given": "Ettore"
+    }
+  ],
+  "authors_text": "Van Winkle, Zachary; Ferragina, Emanuele; Recchi, Ettore",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211032741",
+  "doi_url": "https://doi.org/10.1177/23780231211032741",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211032741",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211032741.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

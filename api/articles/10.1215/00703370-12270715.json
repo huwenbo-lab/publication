@@ -1,0 +1,50 @@
+{
+  "title": "The Contribution of Educational Expansion to Trends in Life Expectancy and Lifespan Variation in England and Wales, Finland, and Italy (Turin)",
+  "abstract": "Educational expansion has contributed considerably to increasing life expectancy, but its contribution to lifespan variation trends is unclear. We assessed the contributions of educational expansion and mortality changes by educational group to trends in life expectancy (e30) and lifespan variation (e30 dagger) at age 30 in England and Wales, Finland, and Italy (Turin) in 1975-2015. We applied decomposition analysis to education-specific mortality rates by age and sex derived from individually linked administrative mortality data by country, educational attainment (low, middle, and high), sex, age, and calendar year. Educational expansion contributed simultaneously to increasing e30 and decreasing e30 dagger for all age groups studied. The contribution of educa tional expansion to the trends in e30 and e30 dagger was higher in Finland, particularly for e30 dagger ; it was higher among males than among females in England and Wales and in Italy. Over time, the contribution of the educational expansion to trends in e30 and e30 dagger increased. Mortality changes among the loweducated contributed the most to increases in e30 but counterbalanced selected declines in e30 dagger. Educational expansion thus proved to be an important driver of both longer and more equal lifespans. Our finding suggests that educational expansion will also likely influence future mortality progress.",
+  "authors": [
+    {
+      "raw": "Zazueta-Borboa, Jesus-Daniel",
+      "family": "Zazueta-Borboa",
+      "given": "Jesus-Daniel"
+    },
+    {
+      "raw": "Basellini, Ugofilippo",
+      "family": "Basellini",
+      "given": "Ugofilippo"
+    },
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    },
+    {
+      "raw": "van Wissen, Leo",
+      "family": "van Wissen",
+      "given": "Leo"
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    },
+    {
+      "raw": "Janssen, Fanny",
+      "family": "Janssen",
+      "given": "Fanny"
+    }
+  ],
+  "authors_text": "Zazueta-Borboa, Jesus-Daniel; Basellini, Ugofilippo; Zagheni, Emilio; van Wissen, Leo; Martikainen, Pekka; Janssen, Fanny",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-12270715",
+  "doi_url": "https://doi.org/10.1215/00703370-12270715",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12270715",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12270715.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

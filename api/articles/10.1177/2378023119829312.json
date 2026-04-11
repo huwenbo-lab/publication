@@ -1,0 +1,30 @@
+{
+  "title": "Comparative Couple Stability: Same-sex and Male-female Unions in the United States",
+  "abstract": "Findings on comparative couple stability between same-sex and male-female unions vary, with some studies finding similar dissolution rates among same-sex and male-female unions and others finding higher rates of dissolution among same-sex unions. The authors extend previous research by examining the association between gender composition of couples and dissolution patterns, distinguishing between cohabitational and formal unions. Using data from the How Couples Meet and Stay Together survey, a nationally representative longitudinal survey of coupled individuals including an oversample of gay-, lesbian-, and bisexual-identified individuals, the authors conduct event-history analyses to estimate the hazard of dissolution of cohabiting and formalized unions. The findings suggest that dissolution rates are indistinguishable among cohabiting unions of all gender compositions and that formalized female-female unions may have a higher risk of union dissolution than the formalized unions of their male-male and male-female peers. The authors explore possible mechanisms underlying this observed risk differential.",
+  "authors": [
+    {
+      "raw": "Ketcham, Eric",
+      "family": "Ketcham",
+      "given": "Eric"
+    },
+    {
+      "raw": "Bennett, Neil G.",
+      "family": "Bennett",
+      "given": "Neil G."
+    }
+  ],
+  "authors_text": "Ketcham, Eric; Bennett, Neil G.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119829312",
+  "doi_url": "https://doi.org/10.1177/2378023119829312",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119829312",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119829312.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

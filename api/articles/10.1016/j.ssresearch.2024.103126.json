@@ -1,0 +1,30 @@
+{
+  "title": "Contextual variation in the effect of unemployment on subjective wellbeing in the United States",
+  "abstract": "Becoming unemployed is a disruptive event with negative consequences for psychological wellbeing. Yet, the harmful effect of unemployment might vary depending on the social context. The literature offers two opposing hypotheses about contextual variation: The economic strain approach suggests that becoming unemployed is more harmful during an economic downturn because of reduced employment opportunities and sources of support. In contrast, the social normativity approach suggests that unemployment is less harmful when unemployment is pervasive because of reduced stigma, shame, and guilt. We examine contextual variation in the effect of unemployment in the United States using longitudinal data and individual fixed effects models. We find a U-shaped pattern of contextual variation. The effect of unemployment on psychological wellbeing is smaller at very low and very high state unemployment rates and larger at moderate state unemployment rates. The decline in the harmful effect of unemployment as aggregate unemployment rises from moderate to high is consistent with the normativity hypothesis. While some variation exists across specifications, differences across aggregate levels of unemployment are significant in our preferred specifications. This pattern is similar across gender, suggesting that normative expectations about employment are relatively similar for men and women in the early 21st century. The impact of unemployment on subjective wellbeing depends on how prevalent and normative the experience of unemployment is in society.",
+  "authors": [
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    },
+    {
+      "raw": "Daviss, Claire",
+      "family": "Daviss",
+      "given": "Claire"
+    }
+  ],
+  "authors_text": "Torche, Florencia; Daviss, Claire",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2024.103126",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103126",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103126",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103126.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

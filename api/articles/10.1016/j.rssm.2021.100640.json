@@ -1,0 +1,30 @@
+{
+  "title": "Income inequality, emotional anxiety, and self-rated health in times of the coronavirus pandemic: Evidence from a cross-national survey",
+  "abstract": "Using a unique cross-national dataset, we explore the interplay between household income, coronavirus-induced anxiety, national context, and self-rated health (SRH) across dozens of countries among more than 13,500 older adults. Based on multilevel models, we find that the emotional anxiety due to COVID-19 negatively predicts SRH, net of country random effects. And holding constant coronavirus-related stress and background controls at both individual and contextual (country) levels, higher income is positively associated with better subjective health. We also report cross-level interactions. The income-health gradient is stronger in countries with higher numbers of coronavirus-related deaths and, to lesser extent, infected cases. That is, health benefits of higher income are more pronounced in countries hit harder by the pandemic. Our study shows that globally income inequality exacerbates the unequal health consequences of COVID-19 for older segments of the population especially vulnerable to the disease.",
+  "authors": [
+    {
+      "raw": "Kim, Harris Hyun-soo",
+      "family": "Kim",
+      "given": "Harris Hyun-soo"
+    },
+    {
+      "raw": "Kim, Hyun-jin Katelyn",
+      "family": "Kim",
+      "given": "Hyun-jin Katelyn"
+    }
+  ],
+  "authors_text": "Kim, Harris Hyun-soo; Kim, Hyun-jin Katelyn",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100640",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100640",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100640",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100640.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

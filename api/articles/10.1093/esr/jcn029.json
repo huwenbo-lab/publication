@@ -1,0 +1,35 @@
+{
+  "title": "Disentangling the Causal Relations of Perceived Group Threat and Outgroup Derogation: Cross-national Evidence from German and Russian Panel Surveys",
+  "abstract": "Despite the resurgence of interest in group threat theory for explaining negative interethnic relations, adequate empirical evidence on the causal ordering of perceived group threat and outgroup derogation is still missing. In the literature, three theoretical perspectives concerning this issue have been raised. The predominating view assumes that perceived group threat is a causal antecedent to outgroup derogation. Contrary to this perspective, a second theoretical model conceptualizes perceived group threat to be a consequence of prior levels of outgroup derogation. Alternatively, a third theoretical perspective suggests to consider the causal relations between perceived group threat and outgroup derogation to be reciprocal. In this article, we conduct a longitudinal test of these competing theoretical models drawing upon cross-national multiwave panel surveys from Germany and Russia. Using latent autoregressive cross-lagged models, we find that perceptions of threatened group interests are causally antecedent to German's dislike and negative behavioural intentions against foreigners as well as to Russian's ethnic distance towards minorities. The data provide no support for the two alternative models. Findings are discussed with regard to its meaning for group threat theory.",
+  "authors": [
+    {
+      "raw": "Schlueter, E.",
+      "family": "Schlueter",
+      "given": "E."
+    },
+    {
+      "raw": "Schmidt, P.",
+      "family": "Schmidt",
+      "given": "P."
+    },
+    {
+      "raw": "Wagner, U.",
+      "family": "Wagner",
+      "given": "U."
+    }
+  ],
+  "authors_text": "Schlueter, E.; Schmidt, P.; Wagner, U.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1093/esr/jcn029",
+  "doi_url": "https://doi.org/10.1093/esr/jcn029",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn029",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn029.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

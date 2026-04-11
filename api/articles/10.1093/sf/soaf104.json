@@ -1,0 +1,25 @@
+{
+  "title": "Understanding the package deal: disentangling parents' intertwined preferences for schools and neighborhoods",
+  "abstract": "The racial segregation of schools and neighborhoods are mutually reinforcing because school districts assign students to schools based on residential address and parents account for this link when deciding where to live. Parents cite a desire for the package deal of a good neighborhood with a good local school. Yet, in studying how race shapes parents' preferences, scholars typically examine these contexts in isolation. Using an original stated choice experiment, I propose and test two theoretical frameworks for how the package deal influences parents' joint preferences for schools and neighborhoods. I find that school and neighborhood preferences are interactive, meaning that neighborhood characteristics shape the effects of school characteristics on parents' decisions and school characteristics shape the effects of neighborhood characteristics, and the nature of this interaction varies by parent race. I find that White parents' preferences for Whiter schools and neighborhoods are magnified across contexts, such that White parents prefer racial isolation in both their schools and neighborhoods. Latino parents also prefer greater Latino representation in both neighborhoods and schools, but these preferences are only activated in majority Latino contexts. In contrast, Black parents prefer to avoid being a racial minority in both schools and neighborhoods but are satisfied when just one context is majority Black. These intertwined, interactive preferences mean that our understanding of how parents decide where to live and where to send their children to school must account for the relationship between these contexts.",
+  "authors": [
+    {
+      "raw": "Field, Elly",
+      "family": "Field",
+      "given": "Elly"
+    }
+  ],
+  "authors_text": "Field, Elly",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf104",
+  "doi_url": "https://doi.org/10.1093/sf/soaf104",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf104",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf104.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

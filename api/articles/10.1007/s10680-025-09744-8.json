@@ -1,0 +1,30 @@
+{
+  "title": "Swedish Fertility Developments Before, During and After the COVID-19 Pandemic",
+  "abstract": "Abstract Many affluent societies saw a temporary increase in their fertility rates in 2021, during the COVID-19 pandemic. This included a number of countries that had experienced fertility decline during the 2010s, like the Nordic. In the immediate aftermath of the pandemic (2022–2023), fertility rates resumed their previous downward trend. Most research on the pandemic-related fertility trends has relied on aggregate data. Although a few studies have examined group-specific trends, hardly any have covered the post-pandemic years—an important step for revealing whether any uptick in 2021 had a lasting impact on fertility structures. Our study attends to this objective, with a focus on parity and group-specific fertility trends in Sweden before, during and after the COVID-19 pandemic. We apply event-history techniques to Swedish register data to unveil annual trends of birth risks in 2010–2022, for all Swedish-born women of childbearing age. First- and second-birth risks in 2015–2022 are analysed further across socio-demographic factors. Our study reveals that the “pandemic pattern” of fertility increase in 2021 and drop in 2022 was visible among subgroups with better possibilities to prepone already intended births. For example, the fertility increase and subsequent drop was particularly evident for mothers with young children and women with higher education and incomes. The pandemic fertility pattern reflects temporary changes in the timing of childbearing, more specifically a preponement of births that occurred in 2021 with resulting shortfall in 2022. The continued fall in fertility rates in 2023 should be viewed in the light of the long-term fertility decline.",
+  "authors": [
+    {
+      "raw": "Ohlsson-Wijk, Sofi",
+      "family": "Ohlsson-Wijk",
+      "given": "Sofi"
+    },
+    {
+      "raw": "Andersson, Gunnar",
+      "family": "Andersson",
+      "given": "Gunnar"
+    }
+  ],
+  "authors_text": "Ohlsson-Wijk, Sofi; Andersson, Gunnar",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09744-8",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09744-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09744-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09744-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

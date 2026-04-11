@@ -1,0 +1,50 @@
+{
+  "title": "Understanding Geographic Disparities in Mortality",
+  "abstract": "A rich lit er a ture shows that early-life con di tions shape later-life out comes, includ ing health and migra tion events. However, ana ly ses of geo graphic disparities in mortality outcomes focus almost exclusively on contemporaneously measured geo-graphic place (e.g., state of res i dence at death), thereby poten tially con flat ing the role of early-life con di tions, migra tion pat terns, and effects of des ti na tions. We employ the newly avail able Mortality Disparities in Amer i can Communities data set, which links respon dents in the 2008 Amer i can Community Survey to offi cial death records, and esti mate con se quen tial differ ences based on the method of aggre ga tion we use: the unweighted mean abso lute devi a tion of the dif fer ence in life expec tancy at age 50 mea sured by state of birth ver sus state of res i dence is 0.58 years for men and 0.40 years for women. These differ ences are also spa tially clus tered, and we show that regional inequal ity in life expec tancy is higher based on life expec tan cies by state of birth, imply ing that inter state migra tion mitigates base line geo graphic inequal ity in mor tal ity out comes. Finally, we assess how state-spe cific fea tures of in-migra tion, out-migra tion, and nonmigration together shape mea sures of mor tal ity disparities by state (of res i dence), fur ther dem on strat ing the dif fi culty of clearly interpreting these widely used mea sures.",
+  "authors": [
+    {
+      "raw": "Fletcher, Jason M.",
+      "family": "Fletcher",
+      "given": "Jason M."
+    },
+    {
+      "raw": "Schwarz, Hans",
+      "family": "Schwarz",
+      "given": "Hans"
+    },
+    {
+      "raw": "Engelman, Michal",
+      "family": "Engelman",
+      "given": "Michal"
+    },
+    {
+      "raw": "Johnson, Norman J.",
+      "family": "Johnson",
+      "given": "Norman J."
+    },
+    {
+      "raw": "Hakes, Jahn",
+      "family": "Hakes",
+      "given": "Jahn"
+    },
+    {
+      "raw": "Palloni, Alberto",
+      "family": "Palloni",
+      "given": "Alberto"
+    }
+  ],
+  "authors_text": "Fletcher, Jason M.; Schwarz, Hans; Engelman, Michal; Johnson, Norman J.; Hakes, Jahn; Palloni, Alberto",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10609710",
+  "doi_url": "https://doi.org/10.1215/00703370-10609710",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10609710",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10609710.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

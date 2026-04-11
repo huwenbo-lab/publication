@@ -1,0 +1,55 @@
+{
+  "title": "Factors Shaping Workplace Segregation Between Natives and Immigrants",
+  "abstract": "AbstractResearch on segregation of immigrant groups is increasingly turning its attention from residential areas toward other important places, such as the workplace, where immigrants can meet and interact with members of the native population. This article examines workplace segregation of immigrants. We use longitudinal, georeferenced Swedish population register data, which enables us to observe all immigrants in Sweden for the period 1990–2005 on an annual basis. We compare estimates from ordinary least squares with fixed-effects regressions to quantify the extent of immigrants’ self-selection into specific workplaces, neighborhoods, and partnerships, which may bias more naïve ordinary least squares results. In line with previous research, we find lower levels of workplace segregation than residential segregation. The main finding is that low levels of residential segregation reduce workplace segregation, even after we take into account intermarriage with natives as well as unobserved characteristics of immigrants’ such as willingness and ability to integrate into the host society. Being intermarried with a native reduces workplace segregation for immigrant men but not for immigrant women.",
+  "authors": [
+    {
+      "raw": "Strömgren, Magnus",
+      "family": "Strömgren",
+      "given": "Magnus"
+    },
+    {
+      "raw": "Tammaru, Tiit",
+      "family": "Tammaru",
+      "given": "Tiit"
+    },
+    {
+      "raw": "Danzer, Alexander M.",
+      "family": "Danzer",
+      "given": "Alexander M."
+    },
+    {
+      "raw": "van Ham, Maarten",
+      "family": "van Ham",
+      "given": "Maarten"
+    },
+    {
+      "raw": "Marcińczak, Szymon",
+      "family": "Marcińczak",
+      "given": "Szymon"
+    },
+    {
+      "raw": "Stjernström, Olof",
+      "family": "Stjernström",
+      "given": "Olof"
+    },
+    {
+      "raw": "Lindgren, Urban",
+      "family": "Lindgren",
+      "given": "Urban"
+    }
+  ],
+  "authors_text": "Strömgren, Magnus; Tammaru, Tiit; Danzer, Alexander M.; van Ham, Maarten; Marcińczak, Szymon; Stjernström, Olof; Lindgren, Urban",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-013-0271-8",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0271-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0271-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0271-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

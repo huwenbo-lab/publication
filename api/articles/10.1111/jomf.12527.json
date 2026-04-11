@@ -1,0 +1,25 @@
+{
+  "title": "Gender Gap in Repartnering: The Role of Parental Status and Custodial Arrangements",
+  "abstract": "Objective: This study assesses whether parenthood influences repartnering for women and men and explores how repartnering is associated with parental status of the prospective partners. Background: Previous research has not demonstrated whether gender differences in repartnering are conditional on the presence of children. This study aims to better disentangle the specific gender differentials in repartnering probabilities conditional on parenthood and child custody status. Method: The analytical sample consists of 5,372 women and 3,375 men who reported at least one partnership dissolution in the British Understanding Society survey. Multilevel event history models with Markov Chain Monte Carlo simulations are used to estimate the probabilities of (a) finding a new partner and (b) finding a new childless partner or a new partner who has children. Results: The results suggest that mothers, and to a lesser extent fathers, are less likely to repartner than their childless counterparts. Among parents who have child custody, there emerges a distinct gender gap because mothers exhibit a significantly lower rate of repartnering than fathers. Finally, coresident single parents are relatively less likely to repartner with childless individuals, and single fathers more frequently form two-parent stepfamilies than do mothers. Conclusion: This suggests the presence of a gender divide in repartnering that is especially apparent when child custody is taken into account. The presence of children also reduces the possibility of forming unions with childless individuals.",
+  "authors": [
+    {
+      "raw": "Di Nallo, Alessandro",
+      "family": "Di Nallo",
+      "given": "Alessandro"
+    }
+  ],
+  "authors_text": "Di Nallo, Alessandro",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12527",
+  "doi_url": "https://doi.org/10.1111/jomf.12527",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12527",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12527.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

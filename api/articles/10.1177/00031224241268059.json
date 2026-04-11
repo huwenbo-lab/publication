@@ -1,0 +1,30 @@
+{
+  "title": "Estimating the Effect of a Universal Cash Transfer on Birth Outcomes",
+  "abstract": "Babies in the United States fare worse than their peers in other high-income countries, and their well-being is starkly unequal along socioeconomic and racialized lines. Newborn health predicts adult well-being, making these inequalities consequential. Policymakers and scholars seeking to improve newborn health and reduce inequality have recently looked to direct cash transfers as a viable intervention. We examine the only unconditional cash transfer in the United States, the Alaska Permanent Fund Dividend (PFD), to learn if giving pregnant people money improves their newborns' health. Alaska has paid its residents a significant dividend annually since 1982. The dividend's size varies yearly and is exogenous to Alaskans and the local economy, permitting us to make causal claims. After accounting for fertility selection, we find that receiving cash during pregnancy has no meaningful effect on newborn health. Current theory focuses on purchasing power and status mechanisms to delineate how money translates into health. It cannot illuminate this null finding. This case illustrates a weakness with current theory: it does not provide clear expectations for interventions. We propose four components that must be considered in tandem to predict whether proposed interventions will work.",
+  "authors": [
+    {
+      "raw": "Wyndham-Douds, Kiara",
+      "family": "Wyndham-Douds",
+      "given": "Kiara"
+    },
+    {
+      "raw": "Cowan, Sarah K.",
+      "family": "Cowan",
+      "given": "Sarah K."
+    }
+  ],
+  "authors_text": "Wyndham-Douds, Kiara; Cowan, Sarah K.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1177/00031224241268059",
+  "doi_url": "https://doi.org/10.1177/00031224241268059",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224241268059",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224241268059.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

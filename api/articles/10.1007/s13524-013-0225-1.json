@@ -1,0 +1,30 @@
+{
+  "title": "Does Parental Consent for Birth Control Affect Underage Pregnancy Rates? The Case of Texas",
+  "abstract": "AbstractPrevious work based on conjectural responses of minors predicted that the 2003 Texas requirement for parental consent for state-funded birth control to minors would lead to a large increase in underage pregnancies. We use state- and county-level data to test this prediction. The latter allow us to compare the impact of parental consent in counties with and without state-funded family planning clinics. We control for characteristics systematically correlated with the presence of state-funded clinics by combining difference-in-difference estimation with propensity score–weighted regressions. The evidence suggests that the parental consent mandate led to a large decrease in attendance at family planning clinics among teens but did not lead to an increase in underage pregnancies.",
+  "authors": [
+    {
+      "raw": "Girma, Sourafel",
+      "family": "Girma",
+      "given": "Sourafel"
+    },
+    {
+      "raw": "Paton, David",
+      "family": "Paton",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Girma, Sourafel; Paton, David",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0225-1",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0225-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0225-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0225-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

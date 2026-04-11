@@ -1,0 +1,30 @@
+{
+  "title": "Did Worship Attendance During Lockdown Promote COVID-19 Infection? Evidence from National Panel Data",
+  "abstract": "During late spring 2020, when states were issuing stay-at-home orders, the majority of congregations and Americans followed protocols and avoided in-person worship. Yet a vocal minority of Americans defied protocols and gathered in worship. The authors use national panel data collected in mid-May and August 2020 to assess whether Americans who attended worship more frequently during lockdown restrictions were more likely to report testing positive for coronavirus disease 2019 (COVID-19) three months later. Accounting for relevant correlates including mask use, general attendance at large gatherings, and knowing others who had tested positive, the likelihood that Americans tested positive for COVID-19 between May and August 2020 grew almost linearly as Americans attended in-person worship more frequently during lockdown. However, interactions indicate that this increase was limited primarily to those who were not regular attenders previously. The results suggest that worship attendance during lockdown substantially increased COVID-19 infections for the minority who attended possibly as a form of protest.",
+  "authors": [
+    {
+      "raw": "Perry, Samuel L.",
+      "family": "Perry",
+      "given": "Samuel L."
+    },
+    {
+      "raw": "Grubbs, Joshua B.",
+      "family": "Grubbs",
+      "given": "Joshua B."
+    }
+  ],
+  "authors_text": "Perry, Samuel L.; Grubbs, Joshua B.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221100376",
+  "doi_url": "https://doi.org/10.1177/23780231221100376",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221100376",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221100376.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

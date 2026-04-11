@@ -1,0 +1,30 @@
+{
+  "title": "Examining the Effects of a Universal Cash Transfer on Fertility",
+  "abstract": "Childbearing is at once deeply personal and shaped by social structure. It is also a site of profound inequality in the United States. Income inequality is an upstream cause of childbearing inequality, yet the evidence of the effect of income on reproduction is inconclusive. Previously, scholars primarily examined the introduction of means-tested relief to families with children. This limits analysis to families in poverty and provides insight only into the presence or absence of a policy. We analyze the Alaska Permanent Fund Dividend, which has provided all Alaskan residents with a substantial annual cash payment since 1982. The amount of the payment varies annually and is exogenous to individual Alaskans' behavior and the state's economy. We examine the effect of the cash transfers on fertility and abortion among a large and diverse population that has received varying amounts of money over time. We find the payments increase short-term fertility rates 1 and 2 years after disbursement, particularly among socioeconomically disadvantaged populations. Standardized to the 2010 household size distribution, two average payments relative to two minimum payments would result in a predicted fertility rate increase from 80.03 to 86.53 per 1,000 women age 15-44. The effect is largest for first births. The payments have no effect on the abortion rate. These results indicate the additional income removes economic constraints to reproductive health and autonomy and reduces reproductive inequality.",
+  "authors": [
+    {
+      "raw": "Cowan, Sarah K.",
+      "family": "Cowan",
+      "given": "Sarah K."
+    },
+    {
+      "raw": "Douds, Kiara Wyndham",
+      "family": "Douds",
+      "given": "Kiara Wyndham"
+    }
+  ],
+  "authors_text": "Cowan, Sarah K.; Douds, Kiara Wyndham",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soac013",
+  "doi_url": "https://doi.org/10.1093/sf/soac013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

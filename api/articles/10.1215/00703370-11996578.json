@@ -1,0 +1,40 @@
+{
+  "title": "Changing Demographic Rates Reshape Kinship Networks",
+  "abstract": "The number and age of kin determine the companionship and support individuals provide or receive. Over recent decades, fertility and mortality rates have changed considerably, with varying speeds across countries. We investigate the changes in kinship networks in response to time-varying demographic rates, with a focus on the speed of change. We start with stylized demographic trajectories to determine the separate effects of fertility and mortality. First, we find that differences in the number of living kin depend strongly on the speed of fertility decline. In a fast fertility transi-tion (as in China), a 65-year-old could have 20% fewer daughters than a 70-year-old in a specific year. However, in a slow transition (as in India), this difference is only 7%. Second, the speed of fertility decline has large effects on the mean and variability of the ages of kin. Third, a cohort perspective provides valuable insight into the changes in the number and age of kin. Fourth, we show how changes in the age pattern of mortality affect kinship for individuals at different ages. We use these conclusions to examine and understand kin dynamics based on empirical demographic data from four illustrative countries (Thailand, Indonesia, Ghana, and Nigeria).",
+  "authors": [
+    {
+      "raw": "Jiang, Sha",
+      "family": "Jiang",
+      "given": "Sha"
+    },
+    {
+      "raw": "Zuo, Wenyun",
+      "family": "Zuo",
+      "given": "Wenyun"
+    },
+    {
+      "raw": "Guo, Zhen",
+      "family": "Guo",
+      "given": "Zhen"
+    },
+    {
+      "raw": "Tuljapurkar, Shripad",
+      "family": "Tuljapurkar",
+      "given": "Shripad"
+    }
+  ],
+  "authors_text": "Jiang, Sha; Zuo, Wenyun; Guo, Zhen; Tuljapurkar, Shripad",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11996578",
+  "doi_url": "https://doi.org/10.1215/00703370-11996578",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11996578",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11996578.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

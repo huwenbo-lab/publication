@@ -1,0 +1,25 @@
+{
+  "title": "Mortality Deceleration and Mortality Selection: Three Unexpected Implications of a Simple Model",
+  "abstract": "AbstractUnobserved heterogeneity in mortality risk is pervasive and consequential. Mortality deceleration—the slowing of mortality’s rise with age—has been considered an important window into heterogeneity that otherwise might be impossible to explore. In this article, I argue that deceleration patterns may reveal surprisingly little about the heterogeneity that putatively produces them. I show that even in a very simple model—one that is composed of just two subpopulations with Gompertz mortality—(1) aggregate mortality can decelerate even while a majority of the cohort is frail; (2) multiple decelerations are possible; and (3) mortality selection can produce acceleration as well as deceleration. Simulations show that these patterns are plausible in model cohorts that in the aggregate resemble cohorts in the Human Mortality Database. I argue that these results challenge some conventional heuristics for understanding the relationship between selection and deceleration; undermine certain inferences from deceleration timing to patterns of social inequality; and imply that standard parametric models, assumed to plateau at most once, may sometimes badly misestimate deceleration timing—even by decades.",
+  "authors": [
+    {
+      "raw": "Wrigley-Field, Elizabeth",
+      "family": "Wrigley-Field",
+      "given": "Elizabeth"
+    }
+  ],
+  "authors_text": "Wrigley-Field, Elizabeth",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-013-0256-7",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0256-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0256-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0256-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

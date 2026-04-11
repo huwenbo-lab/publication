@@ -1,0 +1,25 @@
+{
+  "title": "A matter of norms: Family background, religion, and generational change in the diffusion of first union breakdown among French-speaking Quebeckers",
+  "abstract": "BACKGROUND Previous research conducted in societies where unmarried cohabitation remains limited suggests that having grown up with unmarried parents fosters marital instability. There is little research on this relationship in societies where unmarried cohabitation has become common. OBJECTIVE We take advantage of the concurrent diffusion of unmarried cohabitation and union breakdown among French-speaking Quebeckers to examine whether family background (having grown up with unmarried parents and parental separation) and religion (reporting a denomination and religious attendance) have been key factors (intermediate variables) in the diffusion of conjugal instability or have been different consequences of a process of normative change unfolding across cohorts. METHODS We use a subsample of 2,265 first unions from the 2011 Canadian General Social Survey. We estimate the hazard function and the effects of the independent variables on the hazard of breakdown using Royston. Parmar flexible hazards models. RESULTS Results show that having grown up with unmarried parents has no effect on the hazard of breakdown despite the increasing proportion of respondents having lived in this form of family, whereas religious attendance does have an effect despite its decreasing importance. Parental separation increases the hazard of marital disruption for men but not for women. CONTRIBUTION Among French-speaking Quebeckers, the diffusion of unmarried cohabitation and of union breakdown seem to be two aspects of a profound shift in norms regarding family life rather than being related to each other in a direct causal way.",
+  "authors": [
+    {
+      "raw": "Laplante, Benoit",
+      "family": "Laplante",
+      "given": "Benoit"
+    }
+  ],
+  "authors_text": "Laplante, Benoit",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.27",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "A Research Note on Community Resilience Estimates: New US Census Bureau Data With an Application to Excess Deaths From COVID-19",
+  "abstract": "In this research note, we describe the results of the first val i dation study of the U.S. Census Bureau's new Community Resilience Estimates (CRE), which uses Census microdata to develop a tract-level vulnerabil ity index for the United States. By employing admin is trative microdata to link Social Security Administration mortal ity records to CRE, we show that CRE quartiles pro vide more stable pre dictions of COVID-19 excess deaths than sin gle demo graphic cat e gorizations such as race or age, as well as other vulnerabil ity mea sures includ ing the U.S. Centers for Disease Control and Prevention's Social Vulnerability Index (SVI) and the Federal Emergency Management Agency's National Risk Index (NRI). We also use machine learn ing techniques to show that CRE pro vi des more pre dictive power of COVID-19 excess deaths than standard socio economic pre dictors of vul nerabil ity such as poverty and unemployment, as well as SVI and NRI. We find that a 10-percentage-point increase in a key CRE risk mea sure is asso ci ated with one additional death per neighborhood during the initial outbreak of COVID-19 in the United States. We con clude that, compared with alternative mea sures, CRE provi des a more accurate pre dic tor of community vulnerabil ity to a disas ter such as a pan demic.",
+  "authors": [
+    {
+      "raw": "Anders, John",
+      "family": "Anders",
+      "given": "John"
+    },
+    {
+      "raw": "Carpenter, Craig Wesley",
+      "family": "Carpenter",
+      "given": "Craig Wesley"
+    },
+    {
+      "raw": "Willyard, Katherine Ann",
+      "family": "Willyard",
+      "given": "Katherine Ann"
+    },
+    {
+      "raw": "Desalvo, Bethany",
+      "family": "Desalvo",
+      "given": "Bethany"
+    }
+  ],
+  "authors_text": "Anders, John; Carpenter, Craig Wesley; Willyard, Katherine Ann; Desalvo, Bethany",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11374710",
+  "doi_url": "https://doi.org/10.1215/00703370-11374710",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11374710",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11374710.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

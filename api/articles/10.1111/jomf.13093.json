@@ -1,0 +1,40 @@
+{
+  "title": "Parental burnout and mental health across COVID-19 parenting circumstances: A person-centered approach",
+  "abstract": "Objective: This study adopted a person-centered approach to exploring whether parental burnout, mental health, and their associations varied across different combinations of parenting circumstances (e.g., children's ages, employment, childcare). Background: Parental burnout is linked to parents' mental health, but only weakly linked with demographic characteristics, such as age or number of children. However, most research has examined single characteristics in isolation, overlooking how combined characteristics influence parents' balance of parenting risks and resources. The COVID-19 pandemic provided a novel context for understanding links between parenting circumstances, mental health, and parental burnout. Method: We collected two waves of data in 2020 from 522 parents with a child 12 years or younger. Parents self-reported their demographic characteristics (e.g., family structure, childcare, employment), mental health, and parental burnout symptoms. Results: Latent class analysis generated five classes that varied primarily across child age and parents' work status. Furloughed parents with young children had the highest burnout and mental health symptoms at both waves. For remote workers with young children and in-person workers with multi-aged children, T1 mental health predicted T2 parental burnout. For stay-at-home parents and remote workers with older children, T1 parental burnout predicted T2 mental health. Conclusion: Our results suggested that parental burnout, more than mental health, varied based on groups of parenting circumstances, and links between parental burnout and mental health may be context dependent.",
+  "authors": [
+    {
+      "raw": "Kerr, Margaret L.",
+      "family": "Kerr",
+      "given": "Margaret L."
+    },
+    {
+      "raw": "Botto, Ines",
+      "family": "Botto",
+      "given": "Ines"
+    },
+    {
+      "raw": "Gonzalez, Erika",
+      "family": "Gonzalez",
+      "given": "Erika"
+    },
+    {
+      "raw": "Aronson, Sydney",
+      "family": "Aronson",
+      "given": "Sydney"
+    }
+  ],
+  "authors_text": "Kerr, Margaret L.; Botto, Ines; Gonzalez, Erika; Aronson, Sydney",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13093",
+  "doi_url": "https://doi.org/10.1111/jomf.13093",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13093",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13093.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

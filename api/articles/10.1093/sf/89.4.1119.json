@@ -1,0 +1,30 @@
+{
+  "title": "Migration, Remittances and Educational Stratification among Blacks in Apartheid and Post-Apartheid South Africa",
+  "abstract": "This paper extends previous work on family structure and children's education by conceptualizing migration as a distinct form of family disruption that reduces parental input but brings substantial economic benefits through remittances. It examines the multiple and countervailing effects of migration on schooling in the context of substantial migration and limited educational opportunities for Blacks in South Africa. The receipt of remittances substantially increases Black children's school attendance, but has no such effect for Whites. The effect for Blacks is in part attributable to improved household economic conditions that increase household educational spending and reduce the demand for child labor. We also find a negative effect of parental absence due to migration, but it is largely cushioned by inflows of remittances. Sensitivity analyses using propensity score methods and contextual fixed-effect modeling suggest that the beneficial effect of remittances is relatively robust. We find further that remittances help ameliorate inter-familial socioeconomic inequality in schooling. Finally, we evaluate possible temporal changes and show that the positive and equalizing effects of remittances persisted during and after the apartheid regime. We conclude that labor migration and remittances, as institutionalized family strategies adopted by many Blacks, help reconfigure structural opportunities in the educational stratification process in South Africa.",
+  "authors": [
+    {
+      "raw": "Lu, Y.",
+      "family": "Lu",
+      "given": "Y."
+    },
+    {
+      "raw": "Treiman, D. J.",
+      "family": "Treiman",
+      "given": "D. J."
+    }
+  ],
+  "authors_text": "Lu, Y.; Treiman, D. J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2011,
+  "doi": "10.1093/sf/89.4.1119",
+  "doi_url": "https://doi.org/10.1093/sf/89.4.1119",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2F89.4.1119",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/89.4.1119.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

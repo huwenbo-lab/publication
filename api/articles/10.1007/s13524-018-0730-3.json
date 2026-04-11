@@ -1,0 +1,40 @@
+{
+  "title": "Maternal Age and Child Development",
+  "abstract": "Although the consequences of teen births for both mothers and children have been studied for decades, few studies have taken a broader look at the potential payoffsand drawbacksof being born to older mothers. A broader examination is important given the growing gap in maternal ages at birth for children born to mothers with low and high socioeconomic status. Drawing data from the Children of the NLSY79, our examination of this topic distinguishes between the value for children of being born to a mother who delayed her first birth and the value of the additional years between her first birth and the birth of the child whose achievements and behaviors at ages 10-13 are under study. We find that each year the mother delays a first birth is associated with a 0.02 to 0.04 standard deviation increase in school achievement and a similar-sized reduction in behavior problems. Coefficients are generally as large for additional years between the first and given birth. Results are fairly robust to the inclusion of cousin and sibling fixed effects, which attempt to address some omitted variable concerns. Our mediational analyses show that the primary pathway by which delaying first births benefits children is by enabling mothers to complete more years of schooling.",
+  "authors": [
+    {
+      "raw": "Duncan, Greg J.",
+      "family": "Duncan",
+      "given": "Greg J."
+    },
+    {
+      "raw": "Lee, Kenneth T. H.",
+      "family": "Lee",
+      "given": "Kenneth T. H."
+    },
+    {
+      "raw": "Rosales-Rueda, Maria",
+      "family": "Rosales-Rueda",
+      "given": "Maria"
+    },
+    {
+      "raw": "Kalil, Ariel",
+      "family": "Kalil",
+      "given": "Ariel"
+    }
+  ],
+  "authors_text": "Duncan, Greg J.; Lee, Kenneth T. H.; Rosales-Rueda, Maria; Kalil, Ariel",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0730-3",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0730-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0730-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0730-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

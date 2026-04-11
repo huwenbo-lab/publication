@@ -1,0 +1,45 @@
+{
+  "title": "Fitting In or Standing Out? The Tradeoffs of Structural and Cultural Embeddedness",
+  "abstract": "A recurring theme in sociological research is the tradeoff between fitting in and standing out. Prior work examining this tension tends to take either a structural or a cultural perspective. We fuse these two traditions to develop a theory of how structural and cultural embeddedness jointly relate to individual attainment within organizations. Given that organizational culture is hard to observe, we develop a novel approach to assessing individuals' cultural fit with their colleagues based on the language expressed in internal e-mail communications. Drawing on a unique dataset that includes a corpus of 10.24 million e-mail messages exchanged over five years among 601 employees in a high-technology firm, we find that network constraint impedes, whereas cultural fit promotes, individual attainment. More importantly, we find evidence of a tradeoff between the two forms of embeddedness: cultural fit benefits individuals with low network constraint (i.e., brokers), whereas network constraint promotes attainment for people with low cultural fit.",
+  "authors": [
+    {
+      "raw": "Goldberg, Amir",
+      "family": "Goldberg",
+      "given": "Amir"
+    },
+    {
+      "raw": "Srivastava, Sameer B.",
+      "family": "Srivastava",
+      "given": "Sameer B."
+    },
+    {
+      "raw": "Manian, V. Govind",
+      "family": "Manian",
+      "given": "V. Govind"
+    },
+    {
+      "raw": "Monroe, William",
+      "family": "Monroe",
+      "given": "William"
+    },
+    {
+      "raw": "Potts, Christopher",
+      "family": "Potts",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Goldberg, Amir; Srivastava, Sameer B.; Manian, V. Govind; Monroe, William; Potts, Christopher",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1177/0003122416671873",
+  "doi_url": "https://doi.org/10.1177/0003122416671873",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122416671873",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122416671873.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

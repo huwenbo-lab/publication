@@ -1,0 +1,35 @@
+{
+  "title": "Birth Order and College Major in Sweden",
+  "abstract": "Previous research on birth order has consistently shown that later-borns have lower educational attainment than first-borns; however, it is not known whether there are birth order patterns in college major. Given evidence that parents disproportionately invest in first-born children, there are likely to be birth order patterns attributable to differences in both opportunities and preferences, related to ability, human capital specialization through parent-child transfers of knowledge, and personality. Birth order patterns in college major specialization may shed light on these explanatory mechanisms and may also account for long-term birth order differences in educational and labour market outcomes. Using Swedish population register data and sibling fixed effects, we find large birth order differences in university applications. First-borns are more likely to apply to, and graduate from, medicine and engineering programs at university, while later-borns are more likely to study journalism and business programs, and to attend art school. We also find that these birth order patterns are stronger in high-socioeconomic status families and that differences in college major explain approximately half of the within-family birth order differences in long-term earnings. These results indicate that early life experiences and parental investment shape sibling differences in ability, preferences, and ambitions even within the shared environment of the family.",
+  "authors": [
+    {
+      "raw": "Barclay, Kieron",
+      "family": "Barclay",
+      "given": "Kieron"
+    },
+    {
+      "raw": "Hallsten, Martin",
+      "family": "Hallsten",
+      "given": "Martin"
+    },
+    {
+      "raw": "Myrskylae, Mikko",
+      "family": "Myrskylae",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Barclay, Kieron; Hallsten, Martin; Myrskylae, Mikko",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox069",
+  "doi_url": "https://doi.org/10.1093/sf/sox069",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox069",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox069.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Spatial concentration and the social distance of migrants: Evidence from Shanghai",
+  "abstract": "This paper examines whether the spatial concentration of migrants from the same province of origin (native-place in-group members) is associated with a greater degree of social distance from the native residents in Shanghai. Applying spatial clustering analysis to government population registration data, we first define spatial concentration as a high representation of native-place in-group members in a series of adjacent neighborhoods. Combining individual information with household survey data from the Shanghai Urban Neighborhood Survey, we link respondents with population registration data using information on the geographic location of each respondent and distinguish migrants living in spatially clustered communities from their counterparts living elsewhere. This study has two main findings. First, the spatial concentration of in-group members reinforces group identity. Second, migrants living in in-group-clustered communities tend to have a larger social distance from the native residents. We argue that this increased social distance can be explained by the residential segregation created by the spatial concentration of in-group members. We further classify in-group-concentrated communities into segregated and non-segregated communities. Compared with migrants living in non-segregated communities, only those living in segregated communities have a larger social distance from native residents. This finding is only applied to the sample of urban communities. We suspect that the spatial concentration of in-group members leads to greater preservation of the social norms and culture of migrants.",
+  "authors": [
+    {
+      "raw": "Zeng, Donglin",
+      "family": "Zeng",
+      "given": "Donglin"
+    },
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    },
+    {
+      "raw": "Chen, Wei",
+      "family": "Chen",
+      "given": "Wei"
+    }
+  ],
+  "authors_text": "Zeng, Donglin; Wu, Xiaogang; Chen, Wei",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1177/2057150x231152375",
+  "doi_url": "https://doi.org/10.1177/2057150x231152375",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x231152375",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x231152375.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

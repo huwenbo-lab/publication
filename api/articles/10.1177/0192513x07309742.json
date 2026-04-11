@@ -1,0 +1,25 @@
+{
+  "title": "The Living Arrangements of Children and Their Educational Well-Being",
+  "abstract": "The author uses data from the 1997 and 1999 rounds of the National Survey of America's Families to estimate a set of descriptive regression equations examining the relationship between a detailed measure of childhood living arrangements and the educational well-being of children measured as their engagement in school and participation in extracurricular activities. He considers three dimensions of family environment linked to childhood living arrangements that might generate differences in school engagement and participation in extracurricular activities. These dimensions of family environment are turbulence (degree of instability in children's social and physical environment), parenting context (parental activities experienced by children), and economic resources (family income relative to poverty). The author finds strong bivariate relationships between childhood living arrangements and the measures of educational well-being that are reduced and sometimes eliminated when differences in turbulence, parenting, and economic resources are controlled.",
+  "authors": [
+    {
+      "raw": "Teachman, Jay D.",
+      "family": "Teachman",
+      "given": "Jay D."
+    }
+  ],
+  "authors_text": "Teachman, Jay D.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2007,
+  "doi": "10.1177/0192513x07309742",
+  "doi_url": "https://doi.org/10.1177/0192513x07309742",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x07309742",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x07309742.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Review Symposium",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Tonkiss, Fran",
+      "family": "Tonkiss",
+      "given": "Fran"
+    },
+    {
+      "raw": "Byrne, David",
+      "family": "Byrne",
+      "given": "David"
+    },
+    {
+      "raw": "Edwards, Adam",
+      "family": "Edwards",
+      "given": "Adam"
+    },
+    {
+      "raw": "Allen, Chris",
+      "family": "Allen",
+      "given": "Chris"
+    }
+  ],
+  "authors_text": "Tonkiss, Fran; Byrne, David; Edwards, Adam; Allen, Chris",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2011,
+  "doi": "10.1177/0038038510394030",
+  "doi_url": "https://doi.org/10.1177/0038038510394030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038510394030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038510394030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The effect of the Great Recession on permanent childlessness in Italy",
+  "abstract": "BACKGROUND The Great Recession had a strong effect not only on the economy of developed countries but also on family dynamics. Many studies investigate how the crisis affected fertility behavior, but the link between economic shocks and childbearing is still debated. OBJECTIVE Most studies argue that fertility responds to recessions with only a temporary postponement of first births by young women. A paper by Comolli and Bernardi (2015), though, finds a permanent positive effect of the Great Recession in the United States on childlessness among women in their late thirties. In light of these results, we test whether a similar effect is found in a different context, i.e., Italy. METHODS We apply the difference-in-difference method to synthetic cohorts of Italian childless women in their late thirties to assess whether the crisis had a permanent impact on the cohorts' childlessness rates. We use the Istat 2004-2013 Italian Labor Force Survey (LFS). RESULTS During the Great Recession in Italy, contrary to the United States, childlessness among women around the age of 40 registered short-term negative fluctuations. Only mideducated women seem to have slightly postponed first births during the crisis. CONTRIBUTION This paper contributes to the debate on how economic shocks affect fertility, with the objective of assessing whether the recent Great Recession had a permanent effect on childlessness in Italy. The main conclusion is that, except for the group of women with average education, the crisis did not increase permanent childlessness among Italian women beyond its preexisting positive long-term trend.",
+  "authors": [
+    {
+      "raw": "Caltabiano, Marcantonio",
+      "family": "Caltabiano",
+      "given": "Marcantonio"
+    },
+    {
+      "raw": "Comolli, Chiara Ludovica",
+      "family": "Comolli",
+      "given": "Chiara Ludovica"
+    },
+    {
+      "raw": "Rosina, Alessandro",
+      "family": "Rosina",
+      "given": "Alessandro"
+    }
+  ],
+  "authors_text": "Caltabiano, Marcantonio; Comolli, Chiara Ludovica; Rosina, Alessandro",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.20",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

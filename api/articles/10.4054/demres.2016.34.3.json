@@ -1,0 +1,25 @@
+{
+  "title": "Counting Souls: Towards an historical demography of Africa",
+  "abstract": "BACKGROUND Little is known about even the relatively recent demographic history of Africa, because of the lack of data. Elsewhere, historical demographic trends have been reconstructed by applying family reconstitution to church records. Such data also exist throughout Africa from the late 19th century. For the Counting Souls Project, nearly one million records from the oldest Catholic parishes in East and Central Africa have been digitised. These data are currently being processed into a relational database. The aim of this paper is to describe their potential for demographic reconstruction in the region, and to outline how their provenance defines the analytical approach. RESULTS Empirically, religion is correlated with population patterns in contemporary Africa, and, historically, reproduction and family formation were central to Christian mission in the region. Measuring change using sources created by agents of change raises questions of epistemology, causation, and selection bias. This paper describes how these concerns are balanced by missionary determination to follow the intimate lives of their parishioners, to monitor their 'souls', and to measure their morality, fidelity, and faith. This intimate recording means that the African parish registers, together with related sources such as missionary diaries and letters and oral histories, describe qualitatively and quantitatively what happens to individual agency (reproductive decision-making) when the moral hegemony shifts (via evangelisation and colonisation), and how the two interact in a reciprocal process of change. CONCLUSION Reconstructing long-term demographic trends using parish registers in Africa is therefore more than simply generating rates and testing their reliability. It is a bigger description of how 'decision rules' are structured and re-structured, unpicking the cognitive seam between individual and culture by exploring dynamic micro-interactions between reproduction, honour, hope, and modernity over the long term. With such a mixed-methods approach, parish registers offer real potential for historical demography in Africa.",
+  "authors": [
+    {
+      "raw": "Walters, Sarah",
+      "family": "Walters",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Walters, Sarah",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.3",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

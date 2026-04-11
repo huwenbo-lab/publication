@@ -1,0 +1,35 @@
+{
+  "title": "On the validity of retrospective assessments of pregnancy intention",
+  "abstract": "Abstract Information on pregnancy intention is often gathered retrospectively (after the birth of a child). This article investigates whether the retrospective assessment of pregnancy intention leads to biased estimates of the extent or consequences of unintended fertility. Comparisons are made between pregnancy intentions ascertained during pregnancy and after birth using data from the National Longitudinal Survey of Youth. To address the bias caused by selective recognition or acknowledgment of pregnancy, we used the longitudinal feature of the data to determine actual pregnancy status at the time of interviews, which, in turn, was used as an instrumental variable for the retrospective (versus prospective) reporting of pregnancy intention. After correction for selective pregnancy recognition, we found no evidence that the retrospective assessment of pregnancy intention produces misleading estimates of either the number or the consequences of unintended births. This finding is supported by additional analyses of a small subsample of women for whom information on pregnancy intention was collected both during pregnancy and after birth.",
+  "authors": [
+    {
+      "raw": "Joyce, Ted",
+      "family": "Joyce",
+      "given": "Ted"
+    },
+    {
+      "raw": "Kaestner, Robert",
+      "family": "Kaestner",
+      "given": "Robert"
+    },
+    {
+      "raw": "Korenman, Sanders",
+      "family": "Korenman",
+      "given": "Sanders"
+    }
+  ],
+  "authors_text": "Joyce, Ted; Kaestner, Robert; Korenman, Sanders",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.1353/dem.2002.0006",
+  "doi_url": "https://doi.org/10.1353/dem.2002.0006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2002.0006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2002.0006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

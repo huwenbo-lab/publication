@@ -1,0 +1,35 @@
+{
+  "title": "Neighborhood Immigration, Violence, and City-Level Immigrant Political Opportunities",
+  "abstract": "Using a multilevel comparative framework, we propose that politically receptive city contexts facilitate the viability of marginalized neighborhoods. To illustrate this proposition, we examine the relationship between immigrant concentration and neighborhood violence. Drawing on political process and minority incorporation theories, we argue that favorable immigrant political opportunities will strengthen the often-found inverse relationship between immigration and crime at the neighborhood level. Unique data from the National Neighborhood Crime Study (Peterson and Krivo 2010a) provide demographic and violence information for Census tracts in a representative sample of 87 large cities. We append this dataset with city-level measures of immigrant political opportunities, such as the extent of minority political incorporation into elected offices and pro-immigrant legislation. Multilevel instrumental variable analyses reveal that the inverse relationship between immigrant concentration and neighborhood violent crime is generally enhanced in cities with favorable immigrant political opportunities. We speculate that this occurs because favorable political contexts bolster social organization by enhancing trust and public social control within immigrant neighborhoods. Our findings demonstrate that the fate of neighborhoods marginalized across ethnicity and nativity are shaped by the responsiveness of political actors and structures to their concerns.",
+  "authors": [
+    {
+      "raw": "Lyons, Christopher J.",
+      "family": "Lyons",
+      "given": "Christopher J."
+    },
+    {
+      "raw": "Velez, Maria B.",
+      "family": "Velez",
+      "given": "Maria B."
+    },
+    {
+      "raw": "Santoro, Wayne A.",
+      "family": "Santoro",
+      "given": "Wayne A."
+    }
+  ],
+  "authors_text": "Lyons, Christopher J.; Velez, Maria B.; Santoro, Wayne A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1177/0003122413491964",
+  "doi_url": "https://doi.org/10.1177/0003122413491964",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122413491964",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122413491964.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

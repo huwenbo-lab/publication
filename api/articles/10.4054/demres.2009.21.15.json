@@ -1,0 +1,45 @@
+{
+  "title": "The Likoma Network Study: Context, data collection and initial results",
+  "abstract": "The extent and structure of sexual networks have important consequences for the spread of sexually transmitted diseases such as HIV. However, very few datasets currently exist that allow a detailed investigation of sexual networks in sub-Saharan African settings where HIV epidemics have become generalized. In this paper, we describe the context and methods of the Likoma Network Study (LNS), one of the few studies that have collected extensive information on sexual networks in sub-Saharan Africa. We start by reviewing theoretical arguments and empirical studies emphasizing the importance of network structures in the epidemiology of HIV and other sexually transmitted infections (STI). The island setting of this study is described, and we argue that the choice of an island as a research site limited potential biases that may make the collection of sexual network data difficult. We then document our empirical strategy for the collection of sexual network data and the subsequent identification of sexual network partners. A description of the protocol for the collection of biomarker data (HIV infection) is provided. Finally, we present initial results relating to the socioeconomic context of the island, the size and composition of sexual networks, the quality of the sexual network data, the determinants of successful contact tracing during the LNS, and the prevalence of HIV in the study population.",
+  "authors": [
+    {
+      "raw": "Helleringer, Stephane",
+      "family": "Helleringer",
+      "given": "Stephane"
+    },
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    },
+    {
+      "raw": "Chimbiri, Agnes",
+      "family": "Chimbiri",
+      "given": "Agnes"
+    },
+    {
+      "raw": "Chatonda, Praise",
+      "family": "Chatonda",
+      "given": "Praise"
+    },
+    {
+      "raw": "Mkandawire, James",
+      "family": "Mkandawire",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Helleringer, Stephane; Kohler, Hans-Peter; Chimbiri, Agnes; Chatonda, Praise; Mkandawire, James",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2009,
+  "doi": "10.4054/demres.2009.21.15",
+  "doi_url": "https://doi.org/10.4054/demres.2009.21.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2009.21.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2009.21.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

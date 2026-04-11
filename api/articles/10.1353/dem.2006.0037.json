@@ -1,0 +1,30 @@
+{
+  "title": "Sex mortality differences in The United States: The role of cohort smoking patterns",
+  "abstract": "AbstractThis article demonstrates that over the period 1948–2003, sex differences in mortality in the age range 50–84 widened and then narrowed on a cohort basis rather than on a period basis. The cohort with the maximum excess of male mortality was born shortly after the turn of the century. Three separate data sources suggest that the turnaround in sex mortality differences is consistent with sex differences in cigarette smoking by cohort. An age-period-cohort model reveals a highly significant effect of smoking histories on men’s and women’s mortality. Combined with recent changes in smoking patterns, the model suggests that sex differences in mortality will narrow dramatically in coming decades.",
+  "authors": [
+    {
+      "raw": "Preston, Samuel H.",
+      "family": "Preston",
+      "given": "Samuel H."
+    },
+    {
+      "raw": "Wang, Haidong",
+      "family": "Wang",
+      "given": "Haidong"
+    }
+  ],
+  "authors_text": "Preston, Samuel H.; Wang, Haidong",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2006,
+  "doi": "10.1353/dem.2006.0037",
+  "doi_url": "https://doi.org/10.1353/dem.2006.0037",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2006.0037",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2006.0037.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

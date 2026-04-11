@@ -1,0 +1,35 @@
+{
+  "title": "Education and the Gender Gaps in Health and Mortality",
+  "abstract": "AbstractThe positive associations between education and health and survival are well established, but whether the strength of these associations depends on gender is not. Is the beneficial influence of education on survival and on self-rated health conditioned by gender in the same way, in opposite ways, or not at all? Because women are otherwise disadvantaged in socioeconomic resources that are inputs to health, their health and survival may depend more on education than will men’s. To test this hypothesis, we use data from the National Health Interview Survey-Linked Mortality Files (NHIS-LMF). We find that education’s beneficial influence on feeling healthy and on survival are conditional on gender, but in opposite ways. Education has a larger effect on women’s self-rated health than on men’s, but a larger effect on men’s mortality. To further examine the mortality results, we examine specific causes of death. We find that the conditional effect is largest for deaths from lung cancer, respiratory disease, stroke, homicide, suicide, and accidents. Because women report worse health but men’s mortality is higher, education closes the gender gap in both health and mortality.",
+  "authors": [
+    {
+      "raw": "Ross, Catherine E.",
+      "family": "Ross",
+      "given": "Catherine E."
+    },
+    {
+      "raw": "Masters, Ryan K.",
+      "family": "Masters",
+      "given": "Ryan K."
+    },
+    {
+      "raw": "Hummer, Robert A.",
+      "family": "Hummer",
+      "given": "Robert A."
+    }
+  ],
+  "authors_text": "Ross, Catherine E.; Masters, Ryan K.; Hummer, Robert A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0130-z",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0130-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0130-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0130-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

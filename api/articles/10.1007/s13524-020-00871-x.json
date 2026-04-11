@@ -1,0 +1,40 @@
+{
+  "title": "Live Births and Fertility Amid the Zika Epidemic in Brazil",
+  "abstract": "In late 2015, the Brazilian Ministry of Health and the Pan American Health Organization classified the increase in congenital malformations associated with the Zika virus (ZIKV) as a public health emergency. The risk of ZIKV-related congenital syndrome poses a threat to reproductive outcomes that could result in declining numbers of live births and potentially fertility. Using monthly microdata on live births from the Brazilian Information System on Live Births (SINASC), this study examines live births and fertility trends amid the ZIKV epidemic in Brazil. Findings suggest a decline in live births that is stratified across educational and geographic lines, beginning approximately nine months after the link between ZIKV and microcephaly was publicly announced. Although declines in total fertility rates were small, fertility trends estimated by age and maternal education suggest important differences in how Zika might have impacted Brazil's fertility structure. Further findings confirm the significant declines in live births in mid-2016 even when characteristics of the municipality are controlled for; these results highlight important nuances in the timing and magnitude of the decline. Combined, our findings illustrate the value of understanding how the risk of a health threat directed at fetuses has led to declines in live births and fertility.",
+  "authors": [
+    {
+      "raw": "Marteleto, Leticia J.",
+      "family": "Marteleto",
+      "given": "Leticia J."
+    },
+    {
+      "raw": "Guedes, Gilvan",
+      "family": "Guedes",
+      "given": "Gilvan"
+    },
+    {
+      "raw": "Coutinho, Raquel Z.",
+      "family": "Coutinho",
+      "given": "Raquel Z."
+    },
+    {
+      "raw": "Weitzman, Abigail",
+      "family": "Weitzman",
+      "given": "Abigail"
+    }
+  ],
+  "authors_text": "Marteleto, Leticia J.; Guedes, Gilvan; Coutinho, Raquel Z.; Weitzman, Abigail",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00871-x",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00871-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00871-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00871-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

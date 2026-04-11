@@ -1,0 +1,40 @@
+{
+  "title": "Do State Pensions Crowd out Private Transfers? A Semiparametric Analysis in Urban China",
+  "abstract": "This article investigates the relationship between state pension and intergenerational monetary transfers received by older parents in urban China. We used data from the Follow-up Sampling Survey of the Aged Population in Urban/Rural China (FUSSAPUR), a nationwide study of people age 60 and older from 20 provinces. Results indicate that the amount of pension was negatively correlated to the probability of receiving transfers, which are consistent with both altruism and exchange hypotheses. We apply a semiparametric method to identify the nonparametric responsiveness of transfers to recipients' pension while still taking into account how the (linear) covariates affect such responsiveness. We found crowding out was not an important feature of transfer behavior, but crowding in was. There was initially a negligible negative relationship between the amount of transfer received and pension for the elderly at low pension income level. The correlation became significantly positive for older parents at median and high pension income level. Our findings suggest a coexistence of transfer motives, where the exchange motive and its implication, crowding-in effect of pension, dominate.",
+  "authors": [
+    {
+      "raw": "Chen, Taichang",
+      "family": "Chen",
+      "given": "Taichang"
+    },
+    {
+      "raw": "Leeson, George W.",
+      "family": "Leeson",
+      "given": "George W."
+    },
+    {
+      "raw": "Han, Jun",
+      "family": "Han",
+      "given": "Jun"
+    },
+    {
+      "raw": "You, Shuai",
+      "family": "You",
+      "given": "Shuai"
+    }
+  ],
+  "authors_text": "Chen, Taichang; Leeson, George W.; Han, Jun; You, Shuai",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1080/21620555.2017.1298968",
+  "doi_url": "https://doi.org/10.1080/21620555.2017.1298968",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2017.1298968",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2017.1298968.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

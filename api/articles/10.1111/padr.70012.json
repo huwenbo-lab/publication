@@ -1,0 +1,50 @@
+{
+  "title": "Global Gender Gaps in the International Migration of Professionals on LinkedIn",
+  "abstract": "This paper examines gender differentials in the international migration of professionals, and how this varies by country, industry, age, and years of experience. We leverage data from LinkedIn, the largest professional networking website, to construct Immigrant and Emigrant Gender Gap Indexes (iGGI and eGGI). These indexes measure inflows and potential outflows. The findings indicate that, among LinkedIn users, the global population of immigrant professionals is at gender parity. The professional migrant population is majority-female in key destination countries like the United States, the United Kingdom, Australia, and France as well as emerging destinations like South Korea and Singapore. Our results show that the mobility of women migrants is driven by industries like finance, healthcare, and real estate. We find evidence of positive selection among women migrant professionals in key destination countries and industries. Our results indicate that men are more open to international relocation than women, suggesting that men express higher migration aspirations, but men and women have similar rates of observed mobility. The paper makes novel contributions to the literature on migration aspirations, behavior, and selectivity. Methodologically, we develop a new dataset and appropriate measures to complement existing sources to study professional migration across a wide range of countries.",
+  "authors": [
+    {
+      "raw": "Jacobs, Elizabeth",
+      "family": "Jacobs",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Theile, Tom",
+      "family": "Theile",
+      "given": "Tom"
+    },
+    {
+      "raw": "Perrotta, Daniela",
+      "family": "Perrotta",
+      "given": "Daniela"
+    },
+    {
+      "raw": "Zhao, Xinyi",
+      "family": "Zhao",
+      "given": "Xinyi"
+    },
+    {
+      "raw": "Anastasiadou, Athina",
+      "family": "Anastasiadou",
+      "given": "Athina"
+    },
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    }
+  ],
+  "authors_text": "Jacobs, Elizabeth; Theile, Tom; Perrotta, Daniela; Zhao, Xinyi; Anastasiadou, Athina; Zagheni, Emilio",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70012",
+  "doi_url": "https://doi.org/10.1111/padr.70012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

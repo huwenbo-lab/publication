@@ -1,0 +1,30 @@
+{
+  "title": "Mental and Physical Health Trajectories of Norwegian Parents and Children before and after Union Dissolution",
+  "abstract": "The aim was to examine the mental and physical health trajectories of mothers, fathers, and children before and after union dissolution. Register data covering the entire Norwegian population, and including information on consultations with general practitioners in 2006-2018, were used. Constant unobserved characteristics were controlled for with individual fixed effects. As judged by the number of consultations, mothers' and fathers' mental health deteriorates before the dissolution but improves immediately afterwards. In contrast, a worsening mental health among children before the dissolution is followed by an even more adverse development afterwards. There is only modest evidence of predissolution increases in noninfectious physical diseases, but more clearly rising numbers afterwards especially for mothers and daughters. Less adverse trends are seen for infections, although mothers experience a sharp temporary increase at the breakup time. On the whole, mothers' health is more adversely affected by dissolution than that of fathers. Daughters may have a disadvantage compared to sons, but results vary across model specifications. The results suggest that effects on children's health do not operate through parents' health. With respect to union type, the health changes before and after dissolution of a consensual union are not very different from those before and after marital separation.",
+  "authors": [
+    {
+      "raw": "Kravdal, Oystein",
+      "family": "Kravdal",
+      "given": "Oystein"
+    },
+    {
+      "raw": "Worn, Jonathan",
+      "family": "Worn",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Kravdal, Oystein; Worn, Jonathan",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2023,
+  "doi": "10.1111/padr.12530",
+  "doi_url": "https://doi.org/10.1111/padr.12530",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12530",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12530.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

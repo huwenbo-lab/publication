@@ -1,0 +1,50 @@
+{
+  "title": "Is the Effect of Parental Education on Offspring Biased or Moderated by Genotype?",
+  "abstract": "Parental education is the strongest measured predictor of offspring education, and thus many scholars see the parent-child correlation in educational attainment as an important measure of social mobility. But if social changes or policy interventions are going to have dynastic effects, we need to know what accounts for this intergenerational association, that is, whether it is primarily environmental or genetic in origin. Thus, to understand whether the estimated social influence of parental education on offspring education is biased owing to genetic inheritance (or moderated by it), we exploit the findings from a recent large genome-wide association study of educational attainment to construct a genetic score designed to predict educational attainment. Using data from two independent samples, we find that our genetic score significantly predicts years of schooling in both between-family and within-family analyses. We report three findings that should be of interest to scholars in the stratification and education fields. First, raw parent-child correlations in education may reflect one-sixth genetic transmission and five-sixths social inheritance. Second, conditional on a child's genetic score, a parental genetic score has no statistically significant relationship to the child's educational attainment. Third, the effects of offspring genotype do not seem to be moderated by measured sociodemographic variables at the parental level (but parent-child genetic interaction effects are significant). These results are consistent with the existence of two separate systems of ascription: genetic inheritance (a random lottery within families) and social inheritance (across-family ascription). We caution, however, that at the presently attainable levels of explanatory power, these results are preliminary and may change when better-powered genetic risk scores are developed.",
+  "authors": [
+    {
+      "raw": "Conley, Dalton",
+      "family": "Conley",
+      "given": "Dalton"
+    },
+    {
+      "raw": "Domingue, Benjamin",
+      "family": "Domingue",
+      "given": "Benjamin"
+    },
+    {
+      "raw": "Cesarini, David",
+      "family": "Cesarini",
+      "given": "David"
+    },
+    {
+      "raw": "Dawes, Christopher",
+      "family": "Dawes",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Rietveld, Cornelius",
+      "family": "Rietveld",
+      "given": "Cornelius"
+    },
+    {
+      "raw": "Boardman, Jason",
+      "family": "Boardman",
+      "given": "Jason"
+    }
+  ],
+  "authors_text": "Conley, Dalton; Domingue, Benjamin; Cesarini, David; Dawes, Christopher; Rietveld, Cornelius; Boardman, Jason",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2015,
+  "doi": "10.15195/v2.a6",
+  "doi_url": "https://doi.org/10.15195/v2.a6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv2.a6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v2.a6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

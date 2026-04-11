@@ -1,0 +1,25 @@
+{
+  "title": "The logic of relative frustration revisited: theoretical revision of Boudon's competition model and experimental evidence",
+  "abstract": "It is commonly believed that improvements in social opportunities can paradoxically lead to a larger share of frustrated individuals. This paradox has been studied in the field of analytical sociology through a competition model proposed by Raymond Boudon. So far, analyses of the model suggest that the paradox indeed occurs, especially when opportunities improve from a low to medium level and acting on these opportunities carries relatively low costs. However, these analyses are based on the premise that actors care about their absolute payoffs and not their relative payoffs. We extend this premise such that actors care both about their absolute and relative payoffs, by incorporating a form of inequity aversion that we call relative deprivation aversion (RDA). Through game-theoretic analyses, we show that the paradoxical relationship is strongly attenuated when incorporating RDA. Using data from several experiments, we show also empirically that there is no significant increase in relative deprivation under improving opportunities. We conclude that the paradox is theoretically and empirically not likely in the situations captured in Boudon's competition model. We discuss the implications this has for the paradox in general and provide suggestions for situations under which the paradox may be more likely.",
+  "authors": [
+    {
+      "raw": "Otten, Kasper",
+      "family": "Otten",
+      "given": "Kasper"
+    }
+  ],
+  "authors_text": "Otten, Kasper",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac065",
+  "doi_url": "https://doi.org/10.1093/esr/jcac065",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac065",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac065.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "School socioeconomic-background effects are generally small: a response to Sciffer, Perry, and McConney",
+  "abstract": "Recently in this journal, Sciffer, Perry, and McConney (2020) argued that school socioeconomic-background (SES) compositional effects are important for both research and policy. In response, this commentary argues that realistic school SES effects can only be identified in properly specified models. Otherwise, the estimated school effects are very likely to be spurious due to the correlation between school SES and important, but omitted, individual-level influences, most notably prior achievement. In properly specified models with reliable student-level measures, school SES effects are either small or very small. This commentary includes an empirical demonstration of moderate school SES effects becoming small or very small with appropriate controls.",
+  "authors": [
+    {
+      "raw": "Marks, Gary N.",
+      "family": "Marks",
+      "given": "Gary N."
+    }
+  ],
+  "authors_text": "Marks, Gary N.",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2021,
+  "doi": "10.1080/01425692.2021.1929842",
+  "doi_url": "https://doi.org/10.1080/01425692.2021.1929842",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2021.1929842",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2021.1929842.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

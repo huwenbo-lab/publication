@@ -1,0 +1,35 @@
+{
+  "title": "Who Is Placed into Special Education?",
+  "abstract": "The authors use nationally representative data from the Early Childhood Longitudinal Study, Kindergarten Class of 1998-1999 (ECLS-K) to identify variables measured in the fall of 1998 (when the sample's students were in kindergarten) that predict special education placement by the spring of 2004 (when most students were finishing fifth grade). Placement's strongest kindergarten predictor is a student's level of academic achievement. Also important is the student's frequency of classroom task engagement. There is a ''frog-pond'' contextual effect-attending an elementary school with high levels of overall student academic ability and behavior increases a student's likelihood of special education placement. This is the case even after statistically controlling for a wide range of individual-, family-, and school-level characteristics. Social class background displayed a weak or statistically nonsignificant relation with special education placement. However, girls are placed less frequently than boys. African American, Hispanic, and Asian students are placed less frequently than non-Hispanic whites. The under- or equal-placement rates for racial/ethnic minorities are partially explained by their concentration in high-minority schools.",
+  "authors": [
+    {
+      "raw": "Hibel, Jacob",
+      "family": "Hibel",
+      "given": "Jacob"
+    },
+    {
+      "raw": "Farkas, George",
+      "family": "Farkas",
+      "given": "George"
+    },
+    {
+      "raw": "Morgan, Paul L.",
+      "family": "Morgan",
+      "given": "Paul L."
+    }
+  ],
+  "authors_text": "Hibel, Jacob; Farkas, George; Morgan, Paul L.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2010,
+  "doi": "10.1177/0038040710383518",
+  "doi_url": "https://doi.org/10.1177/0038040710383518",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040710383518",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040710383518.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

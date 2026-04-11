@@ -1,0 +1,30 @@
+{
+  "title": "Postimmigration investments in Education: a Study of Immigrants in the Netherlands",
+  "abstract": "Abstract We use a unique data source to examine postimmigration investments in education among four immigrant groups in the Netherlands. We derive hypotheses from the Immigrant Human Capital Investment model (IHCI), which argues that immigrants’ investments are an outcome of settlement intentions, skill transferability, and opportunity costs. The multinomial and ordered logistic regression analyses show that educational investments are stronger among immigrants with higher premigration education, immigrants from former colonies, immigrants who migrated for family reasons, and immigrants who arrived in periods of high unemployment. These ndings generally support the IHCI model.",
+  "authors": [
+    {
+      "raw": "Van Tubergen, Frank",
+      "family": "Van Tubergen",
+      "given": "Frank"
+    },
+    {
+      "raw": "van De Werfhorst, Herman",
+      "family": "van De Werfhorst",
+      "given": "Herman"
+    }
+  ],
+  "authors_text": "Van Tubergen, Frank; van De Werfhorst, Herman",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0046",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0046",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0046",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0046.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

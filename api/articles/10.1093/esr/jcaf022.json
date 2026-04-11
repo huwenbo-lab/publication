@@ -1,0 +1,35 @@
+{
+  "title": "The gendered effects of COVID-19 on well-being: a household perspective",
+  "abstract": "We investigate the causal effect of COVID-19 incidence rates on changes in subjective well-being, with a special focus on gender differences. Specifically, we employ a household-level perspective and hypothesize that household composition (i.e. single and multiperson households), childcare duties or caregiving obligations for older adults, and household wealth (i.e. housing quality and financial resources) moderate the effect of COVID-19 incidence rates on men and women differently. Employing longitudinal household data from the Panel Labour Market and Social Security (PASS) and a difference-in-differences (DiD) approach, we find an overall negative effect. This effect is stronger for individuals with caregiving responsibilities. In contrast to our theoretical expectations, our results indicate stronger negative effects of COVID-19 incidence on well-being among individuals from households with high living standards and high financial resources. Strikingly, our findings indicate that the relevant changes in negative subjective well-being are concentrated among women with childcare duties and informal caregiving responsibilities.",
+  "authors": [
+    {
+      "raw": "Patzina, Alexander",
+      "family": "Patzina",
+      "given": "Alexander"
+    },
+    {
+      "raw": "Collischon, Matthias",
+      "family": "Collischon",
+      "given": "Matthias"
+    },
+    {
+      "raw": "Kroh, Jacqueline",
+      "family": "Kroh",
+      "given": "Jacqueline"
+    }
+  ],
+  "authors_text": "Patzina, Alexander; Collischon, Matthias; Kroh, Jacqueline",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf022",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf022",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf022",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf022.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

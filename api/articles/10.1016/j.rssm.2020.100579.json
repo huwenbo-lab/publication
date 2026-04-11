@@ -1,0 +1,30 @@
+{
+  "title": "An investigation of the causal effect of educational expectations on school performance. Behavioral consequences, time-stable confounding, or reciprocal causality?",
+  "abstract": "Educational expectations are core concepts in the sociology of education. In this study, we are interested in the potential behavioral consequences of expectations on school performance in early secondary education. The existing literature leads to contradictory hypotheses regarding the causal effect of expectations on achievement. On the one hand, expectations could act as cognitions steering individual behavior towards the attainment of a certain educational degree via preparatory commitment and effort. Such behavioral consequences should affect achievement in school. On the other hand, expectations could merely reflect students' perceptions of opportunities without exerting an effect on future achievement. This paper studies these claims by relying on German panel data of students in lower secondary education. In the first set of models, we find that after adjusting for student fixed effects, expectations are only marginally related to grades and competences. In further models, we assess the role of stable high and low aspirations in explaining educational achievement trajectories. After adjusting for past grades via inverse probability weighting, achievement at the end of lower secondary education is similar between students with stable high expectations and those with stable low expectations. Taking together the results of these different modelling approaches, our study suggests that expectations are not drivers of achievement-related behavior.",
+  "authors": [
+    {
+      "raw": "Dochow, Stephan",
+      "family": "Dochow",
+      "given": "Stephan"
+    },
+    {
+      "raw": "Neumeyer, Sebastian",
+      "family": "Neumeyer",
+      "given": "Sebastian"
+    }
+  ],
+  "authors_text": "Dochow, Stephan; Neumeyer, Sebastian",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2020.100579",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100579",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100579",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100579.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Marital Quality, Gender, and Markers of Inflammation in the MIDUS Cohort",
+  "abstract": "Marital quality is an important factor for understanding the relationship between marriage and health. Low‐quality relationships may not have the same health benefits as high‐quality relationships. To understand the association between marital quality and health, we examined associations between two indicators of marital quality (marital support and marital strain) and two biomarkers of inflammation (interleukin‐6 and C‐reactive protein) among men and women in long‐term marriages using data from the Survey of Midlife in the United States (N = 542). Lower levels of spousal support were associated with higher levels of inflammation among women but not men. Higher levels of spousal strain were weakly and inconsistently associated with higher levels of inflammation among women and men; the effects were diminished with the addition of psychosocial and behavioral covariates. These findings suggest marital quality is an important predictor of inflammation, especially among women.",
+  "authors": [
+    {
+      "raw": "Donoho, Carrie J.",
+      "family": "Donoho",
+      "given": "Carrie J."
+    },
+    {
+      "raw": "Crimmins, Eileen M.",
+      "family": "Crimmins",
+      "given": "Eileen M."
+    },
+    {
+      "raw": "Seeman, Teresa E.",
+      "family": "Seeman",
+      "given": "Teresa E."
+    }
+  ],
+  "authors_text": "Donoho, Carrie J.; Crimmins, Eileen M.; Seeman, Teresa E.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2013,
+  "doi": "10.1111/j.1741-3737.2012.01023.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2012.01023.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2012.01023.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2012.01023.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

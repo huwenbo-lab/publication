@@ -1,0 +1,25 @@
+{
+  "title": "Weak support for a U-shaped pattern between societal gender equality and fertility when comparing societies across time",
+  "abstract": "BACKGROUND A number of recent theories in demography suggest a U-shaped relationship between gender equality and fertility. Fertility is theorized to be high in societies with low levels of gender equality, as well as in societies with high gender equality, with lower fertility in a transition phase. OBJECTIVE This study estimates the relationship between gender equality (as operationalized through female political empowerment) and fertility within societies over time, using yearly information on gender equality and fertility for 35 countries. RESULTS When examining societies across time there is no evidence of a U-shaped relationship between gender equality and fertility. In cross-sectional analyses across countries for recent periods, such a U-shaped relationship can be observed. For within-society analyses a negative relationship is clear at lower levels of gender equality, while no pattern can be observed in societies with high gender equality. CONTRIBUTION Theories that fertility would increase following increasing gender equality are not supported for changes over time within countries. Implications and robustness of the findings are discussed.",
+  "authors": [
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Kolk, Martin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.2",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

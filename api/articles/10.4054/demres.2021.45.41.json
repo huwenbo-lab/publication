@@ -1,0 +1,45 @@
+{
+  "title": "A survey of baby booms and busts in 20th century Spain",
+  "abstract": "BACKGROUND This paper presents a new source of microdata on women's reproductive life in 20th century Spain, the Baby Boom and Bust Survey (BBBS). While certain countries have other sources of microdata such as censuses or specific fertility surveys that have been useful in shedding light on aspects of reproduction, few provide the longitudinal, integrated, and nuanced perspective afforded by this survey. The Baby Boom and Bust Survey includes women's reproductive histories for the period prior to the baby boom, the baby boom itself, and the early stages of the baby bust. OBJECTIVE The purpose of this paper is to describe this data source, its content, its methodological underpinnings, and the way the fieldwork was carried out. METHODS The survey was administered to a total of 1,021 women above 60 years of age residing in Spain in 2012. A random sample was used and access to informants was secured via the Padron Continuo (the continuously updated local population register of Spain). The distribution by characteristics closely fits the sample frame. CONTRIBUTION The survey microdata are now fully accessible to researchers at the Harvard Dataverse repository. The data gathered by the survey will enable researchers to study the causes and mechanisms of the baby boom and the reproductive histories of several generations of Spanish women in the recent past, including their contraceptive use.",
+  "authors": [
+    {
+      "raw": "Reher, David",
+      "family": "Reher",
+      "given": "David"
+    },
+    {
+      "raw": "Requena, Miguel",
+      "family": "Requena",
+      "given": "Miguel"
+    },
+    {
+      "raw": "Sanchez-Dominguez, Maria",
+      "family": "Sanchez-Dominguez",
+      "given": "Maria"
+    },
+    {
+      "raw": "Sanz-Gimeno, Alberto",
+      "family": "Sanz-Gimeno",
+      "given": "Alberto"
+    },
+    {
+      "raw": "Pombo, Nieves",
+      "family": "Pombo",
+      "given": "Nieves"
+    }
+  ],
+  "authors_text": "Reher, David; Requena, Miguel; Sanchez-Dominguez, Maria; Sanz-Gimeno, Alberto; Pombo, Nieves",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.41",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

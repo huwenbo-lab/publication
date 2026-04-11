@@ -1,0 +1,35 @@
+{
+  "title": "Perceived Social Exclusion and Loneliness: Two Distinct but Related Phenomena",
+  "abstract": "Perceived social exclusion refers to the subjective feeling of not being part of the macrolevel society. Loneliness arises if existing social relationships at the micro level are either quantitatively or qualitatively perceived as deficient. Here, we conceptualize and empirically demonstrate that both experiences are distinct but related constructs and investigate how they interact over time. The data set consists of 6,002 community-dwelling adults 40 to 85 years of age living in Germany assessed at two time points in 2014 and in 2017. Structural equation modeling analyses revealed that perceived social exclusion and loneliness are highly correlated. They share risks factors (i.e., socioeconomic factors, opportunities for social participation, and social network characteristics) but display different patterns of associations. In addition, loneliness may over time induce feelings of social exclusion but not vice versa. Overall, our findings underline that people get strong cues about their worth in society from their social relationships.",
+  "authors": [
+    {
+      "raw": "Huxhold, Oliver",
+      "family": "Huxhold",
+      "given": "Oliver"
+    },
+    {
+      "raw": "Suanet, Bianca",
+      "family": "Suanet",
+      "given": "Bianca"
+    },
+    {
+      "raw": "Wetzel, Martin",
+      "family": "Wetzel",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Huxhold, Oliver; Suanet, Bianca; Wetzel, Martin",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2022,
+  "doi": "10.15195/v9.a17",
+  "doi_url": "https://doi.org/10.15195/v9.a17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv9.a17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v9.a17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

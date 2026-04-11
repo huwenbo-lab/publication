@@ -1,0 +1,35 @@
+{
+  "title": "How accurately do mothers recall prenatal visits and gestational age? A validation of Uruguayan survey data",
+  "abstract": "BACKGROUND Many household surveys collect mothers' retrospective reports of reproductive, maternal, and child health. However, few empirical exercises assess survey measurement error in these data, based on comparisons with administrative records. OBJECTIVE We provide evidence on the accuracy of maternal recall regarding weeks of gestation, premature births, and the timing and number of prenatal visits. METHODS We compare the survey maternal recall and the vital statistics administrative records based on the 2013 Nutrition, Child Development and Health Survey (ENDIS) for Uruguay (2,963 children aged 0-3). We estimate measurement error and its determinants by using a set of probit models. RESULTS Mothers tend to overestimate gestational weeks and the incidence of prematurity by 0.1 weeks and 2.4 percentage points, respectively. Differences are larger regarding the timeliness and sufficiency of prenatal visits (respectively, 17.0 and 14.4 pp). Discrepancies are associated with lower educational levels, the length of the recall period (child's age) and birth order. CONCLUSIONS In general, our findings validate the use of survey data, although the identification of premature births and prenatal care sufficiency presents differences that could lead to errors in the evaluation of compliance with, for example, the United Nations' Sustainable Development Goals. Since recall accuracy is negatively associated with maternal schooling, discrepancies could be larger in relatively less developed countries. CONTRIBUTION The main contribution of this paper lies in the assessment of measurement error levels arising from maternal reports of gestational age and prenatal visits for a relatively short recall period in a Latin American country. Although previous studies estimate measurement errors using administrative records linked to maternal recall data, this is the only study that is based on a nationally representative survey.",
+  "authors": [
+    {
+      "raw": "Colace, Maira",
+      "family": "Colace",
+      "given": "Maira"
+    },
+    {
+      "raw": "Perazzo, Ivone",
+      "family": "Perazzo",
+      "given": "Ivone"
+    },
+    {
+      "raw": "Vigorito, Andrea",
+      "family": "Vigorito",
+      "given": "Andrea"
+    }
+  ],
+  "authors_text": "Colace, Maira; Perazzo, Ivone; Vigorito, Andrea",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.51",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.51",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.51",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.51.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

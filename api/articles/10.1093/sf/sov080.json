@@ -1,0 +1,30 @@
+{
+  "title": "Genetics of Educational Attainment and the Persistence of Privilege at the Turn of the 21st Century",
+  "abstract": "We use structural equations methodology with data on 1,576 pairs of variously related young adult siblings (MZ twins, DZ twins, full siblings, half siblings, cousins, and nonrelated siblings) to distinguish the roles of genetic and environmental influences on educational attainment. Using quantitative genetic (ACE) models, we find that the role of genes in educational attainment is relatively weaker (23 percent of the variance) and the role of the shared family environment stronger (41 percent of the variance for twins and 30 percent of the variance for non-twin siblings) than is typically found for cognitive outcomes in young adults. The pattern of high shared environmentality, especially for twins, is not accounted for by the strong degree of assortative mating in the data (parental correlation r = .629), nor by direct effects of educational attainment of the siblings on each other. The low heritability-high environmentality pattern indicates a high level of inequality of opportunity for educational attainment in American society at the turn of the twenty-first century, perhaps linked to a greater role of family financial resources in attainment. Comparative evidence suggests that inequality of opportunity has increased in the United States over past decades, and is higher there today than in other industrial societies.",
+  "authors": [
+    {
+      "raw": "Nielsen, Francois",
+      "family": "Nielsen",
+      "given": "Francois"
+    },
+    {
+      "raw": "Roos, J. Micah",
+      "family": "Roos",
+      "given": "J. Micah"
+    }
+  ],
+  "authors_text": "Nielsen, Francois; Roos, J. Micah",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sov080",
+  "doi_url": "https://doi.org/10.1093/sf/sov080",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov080",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov080.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

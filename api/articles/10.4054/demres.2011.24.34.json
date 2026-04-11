@@ -1,0 +1,30 @@
+{
+  "title": "A Dynamic Extension of the Period Life Table",
+  "abstract": "The standard period life table is based entirely on the death probabilities of the given period. Popular (not expert) usage of life expectancies from a period table typically ignores the fact that the expectancies make no allowance for future declines",
+  "authors": [
+    {
+      "raw": "Denton, Frank T.",
+      "family": "Denton",
+      "given": "Frank T."
+    },
+    {
+      "raw": "Spencer, Byron G.",
+      "family": "Spencer",
+      "given": "Byron G."
+    }
+  ],
+  "authors_text": "Denton, Frank T.; Spencer, Byron G.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2011,
+  "doi": "10.4054/demres.2011.24.34",
+  "doi_url": "https://doi.org/10.4054/demres.2011.24.34",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2011.24.34",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2011.24.34.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

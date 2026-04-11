@@ -1,0 +1,25 @@
+{
+  "title": "The later the better? A novel approach to estimating the effect of school starting age on ADHD and academic skills",
+  "abstract": "School entry is an important life transition where early disadvantages may have consequences for children's educational trajectory. This paper provides important evidence on the production of disadvantages by the education system using a novel approach to school starting age (SSA) which is not biased by parental resources or prior dis-advantages. By using due date from the Medical Birth Registry of Norway (MBRN) as an instrumental variable for SSA, and register data covering the entire Norwegian population, I show that a one-year increase in SSA led to a 59 per cent lower risk of being diagnosed with ADHD and significantly higher national test scores in 5th and 9th grade. Additionally, this study finds that 10.1 per cent of births are shifted from the week before the school entry cut-off to the week after. Parents with higher educational attainment are significantly more likely to shift births across the cut-off, providing a cautionary note to studies attempting to estimate causal effects of SSA using month or date of birth. Overall, this study provides important evidence one way in which inequalities are produced by the education system and how socioeconomically advantaged parents may act to mitigate these risks.",
+  "authors": [
+    {
+      "raw": "Beck, Kathryn Christine",
+      "family": "Beck",
+      "given": "Kathryn Christine"
+    }
+  ],
+  "authors_text": "Beck, Kathryn Christine",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf004",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

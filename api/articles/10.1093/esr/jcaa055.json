@@ -1,0 +1,30 @@
+{
+  "title": "Explaining Ethnic Violence: On the Relevance of Geographic, Social, Economic, and Political Factors in Hate Crimes on Refugees",
+  "abstract": "Many Western societies experience recurring patterns of violence against ethnic minorities, immigrants, refugees, and other asylum seekers, making it important to better understand which conditions increase (or decrease) the likelihood of hate crimes. In this article, we test the relevance of different geographic, social, economic, and political conditions for attacks on refugees. To this end, we conduct an event-history analysis for Germany between 2014 and 2017, when Germany experienced a sharp rise and subsequent decline in assaults on refugees with up to 142 personal and miscellaneous (such as assaults and insults) and 11 arson attacks on refugee homes and refugees per week. We analyse these incidents at the district level and derive hypotheses from theoretical considerations on geographic proximity, social similarity, political opportunity structures, competition for resources, opportunities of contact with foreigners, and differences between East and West Germany. Irrespective of the type of attack, the results of Cox regression models support our theoretical reasoning on diffusion processes, geographical proximity, and the contact hypothesis. There is no support for the model-adopter similarity and competition-for-resources hypothesis. The type of violence matters with regard to the importance of political opportunity structures and differences between East and West Germany. Our findings show the importance of differentiating between different types of violence and accounting for the context-dependency of ethnic violence for future research.",
+  "authors": [
+    {
+      "raw": "Liebe, Ulf",
+      "family": "Liebe",
+      "given": "Ulf"
+    },
+    {
+      "raw": "Schwitter, Nicole",
+      "family": "Schwitter",
+      "given": "Nicole"
+    }
+  ],
+  "authors_text": "Liebe, Ulf; Schwitter, Nicole",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa055",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa055",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa055",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa055.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

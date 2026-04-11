@@ -1,0 +1,30 @@
+{
+  "title": "The Demographic Causes of European Sub-National Population Declines",
+  "abstract": "Abstract Population decline is now established at the continental scale in Europe, occurring in abundance across sub-national areas and outweighing population growth. This represents an unfamiliar pathway of demographic change and is set to present unique challenges to the functioning of societies and economies. The nature of these challenges will be influenced by the demographic cause of population decline. Typically, low fertility is cited as the primary instigator, though it remains unclear of the ways in which unique interactions between fertility, mortality and migration have shaped contemporary population decline outcomes. This study empirically analyses the demographic causes of population decline in 732 sub-national areas extending across 33 European countries. Drawing on data derived from national statistics from 2000–2018, we employ a novel methodological approach consisting of decomposition, multivariate functional principal component analysis, and k-medoid clustering to identify the dominant demographic processes underpinning European depopulation. Our analysis reveals five unique signatures, encoding nuanced contributions from fertility, mortality and migration changes. Population decline is found to be a multi-causal process, with natural deficits and negative rates of net-migration both operating depopulations in most instances. We conclude that natural deficits are ubiquitous in causing sub-national population declines with net-migration patterns responsible for determining annual rates of population loss. We model the relationship between these signatures and wider demographic, socio-economic and geo-spatial attributes, finding that a distinct combination of contextual factors are associated with different demographic causes of population decline.",
+  "authors": [
+    {
+      "raw": "Newsham, Niall",
+      "family": "Newsham",
+      "given": "Niall"
+    },
+    {
+      "raw": "Rowe, Francisco",
+      "family": "Rowe",
+      "given": "Francisco"
+    }
+  ],
+  "authors_text": "Newsham, Niall; Rowe, Francisco",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09730-0",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09730-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09730-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09730-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

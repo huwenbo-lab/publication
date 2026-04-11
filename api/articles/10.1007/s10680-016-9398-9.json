@@ -1,0 +1,35 @@
+{
+  "title": "Influence of Heterogamy by Religion on Risk of Marital Dissolution: A Cohort Study of 20,000 Couples",
+  "abstract": "Heterogamous marriages, in which partners have dissimilar attributes (e.g. by socio-economic status or ethnicity), are often at elevated risk of dissolution. We investigated the influences of heterogamy by religion and area of residence on risk of marital dissolution in Northern Ireland, a country with a history of conflict and residential segregation along Catholic-Protestant lines. We expected Catholic-Protestant marriages to have elevated risks of dissolution, especially in areas with high concentrations of a single religious group where opposition to intermarriage was expected to be high. We estimated risks of marital dissolution from 2001 to 2011 for 19,791 couples drawn from the Northern Ireland Longitudinal Study (a record linkage study), adjusting for a range of compositional and contextual factors using multilevel logistic regression. Dissolution risk decreased with increasing age and higher socio-economic status. Catholic-Protestant marriages were rare (5.9 % of the sample) and were at increased risk of dissolution relative to homogamous marriages. We found no association between local population composition and dissolution risk for Catholic-Protestant couples, indicating that partner and household characteristics may have a greater influence on dissolution risk than the wider community.",
+  "authors": [
+    {
+      "raw": "Wright, David M.",
+      "family": "Wright",
+      "given": "David M."
+    },
+    {
+      "raw": "Rosato, Michael",
+      "family": "Rosato",
+      "given": "Michael"
+    },
+    {
+      "raw": "O’Reilly, Dermot",
+      "family": "O’Reilly",
+      "given": "Dermot"
+    }
+  ],
+  "authors_text": "Wright, David M.; Rosato, Michael; O’Reilly, Dermot",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2016,
+  "doi": "10.1007/s10680-016-9398-9",
+  "doi_url": "https://doi.org/10.1007/s10680-016-9398-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-016-9398-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-016-9398-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

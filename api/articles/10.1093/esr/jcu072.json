@@ -1,0 +1,30 @@
+{
+  "title": "Socio-economic Gradients in Children's Cognitive Skills: Are Cross-Country Comparisons Robust to Who Reports Family Background?",
+  "abstract": "The international surveys of pupil achievement—Programme for International Student Assessment (PISA), Trends in International Mathematics and Science Study, and Progress in International Reading Literacy Study (PIRLS)—have been widely used to compare socio-economic gradients in children’s cognitive abilities across countries. Socio-economic status is typically measured drawing on children’s reports of family or home characteristics rather than information provided by their parents. There is a well-established literature based on other survey sources on the measurement error that may result from child reports. But there has been little work on the implications for the estimation of socio-economic gradients in test scores in the international surveys, and especially their variation across countries. In this article, we use the PISA and PIRLS data sets to investigate the consistency of parent and child reports of three common socio-economic indicators (father’s occupation, parental education, and the number of books in the family home) across a selection of OECD countries. Our results suggest that children’s reports of their father’s occupation provide a reliable basis on which to base comparisons across countries in socio-economic gradients in reading test scores. The same is not true, however, for children’s reports of the number of books in the home—a measure commonly used—while results for parental education are rather mixed.",
+  "authors": [
+    {
+      "raw": "Jerrim, J.",
+      "family": "Jerrim",
+      "given": "J."
+    },
+    {
+      "raw": "Micklewright, J.",
+      "family": "Micklewright",
+      "given": "J."
+    }
+  ],
+  "authors_text": "Jerrim, J.; Micklewright, J.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1093/esr/jcu072",
+  "doi_url": "https://doi.org/10.1093/esr/jcu072",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcu072",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcu072.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Forecasting sex differences in mortality in high income nations",
+  "abstract": "To address the question of whether sex differences in mortality will in the future rise, fall, or stay the same, this study uses relative smoking prevalence among males and females to forecast future changes in relative smoking-attributed mortality. Data on 21 high income nations from 1975 to 2000 and a lag between smoking prevalence and mortality allow forecasts up to 2020. Averaged across nations, the results for logged male/female ratios in smoking mortality reveal equalization of the sex differential. However, continued divergence in non-smoking mortality rates would counter convergence in smoking mortality rates and lead to future increases in the female advantage overall, particularly in nations at late stages of the cigarette epidemic (such as the United States and the United Kingdom).",
+  "authors": [
+    {
+      "raw": "Pampel, Fred",
+      "family": "Pampel",
+      "given": "Fred"
+    }
+  ],
+  "authors_text": "Pampel, Fred",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2005,
+  "doi": "10.4054/demres.2005.13.18",
+  "doi_url": "https://doi.org/10.4054/demres.2005.13.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2005.13.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2005.13.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

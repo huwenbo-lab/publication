@@ -1,0 +1,35 @@
+{
+  "title": "A synthetic measure of mortality using skeletal data from ancient cemeteries: The d index",
+  "abstract": "BACKGROUND Due to the scarcity of written sources in ancient historical periods, and thanks to the development of increasingly sophisticated methods of excavation, recognition, publication, and interpretation, archaeology has played an important role in the understanding of demographic mechanisms. It is in this context that the last decade has seen important developments in paleodemography, the use of skeletons to reconstruct the demographic dynamics of the past. OBJECTIVES In this study we show how skeletal data can be used to determine mortality regimes, enlarging the demographic meaning of the d index proposed by Bocquet-Appel in 2002. We apply the d index to Italian cemeteries dating from the 1st to the 15th century AD. CONTRIBUTION Our study contributes to the development of paleodemography, a particularly valuable method that uses large osteological samples to understand mortality trends in ancient historical periods. In this study we extend and develop the d index, introduced by Bocquet-Appel in 2002, and demonstrate its usefulness in a range of plausible demographic scenarios. By applying this method to the study of mortality in Italy from the 1st to the 15th centuries AD, we show its reliability in tracing mortality trends in periods of both normal mortality and mortality crisis.",
+  "authors": [
+    {
+      "raw": "Barbiera, Irene",
+      "family": "Barbiera",
+      "given": "Irene"
+    },
+    {
+      "raw": "Castiglioni, Maria",
+      "family": "Castiglioni",
+      "given": "Maria"
+    },
+    {
+      "raw": "Dalla Zuanna, Gianpiero",
+      "family": "Dalla Zuanna",
+      "given": "Gianpiero"
+    }
+  ],
+  "authors_text": "Barbiera, Irene; Castiglioni, Maria; Dalla Zuanna, Gianpiero",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.65",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.65",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.65",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.65.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

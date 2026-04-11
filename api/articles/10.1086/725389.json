@@ -1,0 +1,40 @@
+{
+  "title": "Racial Disparity in Leadership: Evidence of Valuative Bias in the Promotions of National Football League Coaches",
+  "abstract": "The authors propose that racial disparity in organizational leadership representation will persist until valuative bias favoring white men ceases to influence advancement from the lower-level positions where most careers begin. They consider how racial disparity results from the organizational matching of individuals to positions with different advancement prospects (i.e., allocative bias) and by the provision of differential rewards within those positions (i.e., valuative bias). Analyzing career history data for over 1,300 National Football League coaches from 1985 to 2015, the authors find that white assistant coaches were promoted at higher rates than Black coaches-holding constant many factors including unit and individual performance-both before and after a league-wide intervention explicitly implemented to close the racial gap in leadership representation. They further demonstrate that this white promotion advantage is specific to the position typically occupied before promotion to head coach. Simulations demonstrate how racial disparity persists even absent bias in positional allocations; eliminating valuative bias at early career stages is, thus, necessary to achieve racial parity in leadership representation.",
+  "authors": [
+    {
+      "raw": "Rider, Christopher I. I.",
+      "family": "Rider",
+      "given": "Christopher I. I."
+    },
+    {
+      "raw": "Wade, James B. B.",
+      "family": "Wade",
+      "given": "James B. B."
+    },
+    {
+      "raw": "Swaminathan, Anand",
+      "family": "Swaminathan",
+      "given": "Anand"
+    },
+    {
+      "raw": "Schwab, Andreas",
+      "family": "Schwab",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Rider, Christopher I. I.; Wade, James B. B.; Swaminathan, Anand; Schwab, Andreas",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1086/725389",
+  "doi_url": "https://doi.org/10.1086/725389",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F725389",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/725389.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

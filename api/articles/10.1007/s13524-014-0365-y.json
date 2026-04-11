@@ -1,0 +1,45 @@
+{
+  "title": "Rural-to-Urban Migration and Changes in Health Among Young Adults in Thailand",
+  "abstract": "We investigate the impacts of rural-to-urban migration on the health of young adult migrants. A key methodological challenge involves the potentially confounding effects of selection on the relationship between migration and health. Our study addresses this challenge in two ways. To control for potential effects of prior health status on post-migration health outcomes, we employ a longitudinal approach. To control for static unobserved characteristics that can affect migration propensity as well as health outcomes, we use fixed-effects analyses. Data were collected in 2005 and 2007 for a cohort of young adults in rural Kanchanaburi province, western Thailand. The migrant sample includes individuals who subsequently moved to urban destinations where they were reinterviewed in 2007. Return migrants were interviewed in rural Kanchanaburi in both years but moved to an urban area and returned in the meantime. A rural comparison group comprises respondents who remained in the origin villages. An urban comparison sample includes longer-term residents of the urban destination communities. Physical and mental health measures are based on the SF-36 health survey. Findings support the healthy migrant hypothesis. Migrants are physically healthier than their nonmigrant counterparts both before and after moving to the city. We did not find an effect of migration on physical health. Rural-to-urban migrants who stayed at destination experienced a significant improvement in mental health status. Fixed-effects analyses indicate that rural-to-urban migration positively affects mental health. Return migrants do not fare as well as migrants who stayed at destination on both physical and mental health status-evidence of selective return migration.",
+  "authors": [
+    {
+      "raw": "Nauman, Elizabeth",
+      "family": "Nauman",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "VanLandingham, Mark",
+      "family": "VanLandingham",
+      "given": "Mark"
+    },
+    {
+      "raw": "Anglewicz, Philip",
+      "family": "Anglewicz",
+      "given": "Philip"
+    },
+    {
+      "raw": "Patthavanit, Umaporn",
+      "family": "Patthavanit",
+      "given": "Umaporn"
+    },
+    {
+      "raw": "Punpuing, Sureeporn",
+      "family": "Punpuing",
+      "given": "Sureeporn"
+    }
+  ],
+  "authors_text": "Nauman, Elizabeth; VanLandingham, Mark; Anglewicz, Philip; Patthavanit, Umaporn; Punpuing, Sureeporn",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-014-0365-y",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0365-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0365-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0365-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

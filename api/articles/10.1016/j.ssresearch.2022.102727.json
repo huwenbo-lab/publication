@@ -1,0 +1,30 @@
+{
+  "title": "Gender overeducation gap in the digital age: Can spatial flexibility through working from home close the gap?",
+  "abstract": "This study analyses the gender overeducation gap, meaning differences between partnered men and women in the degree of holding a job with lower requirements compared to one's own ed-ucation, and how working from home (WfH) affects overeducation. Contextualising educa-tion-job mismatches in the digital age, we update an old topic of labour market research considering new options of spatial flexibility via WfH. Using a unique German dataset of the core employed population in 2018 (i.e., individuals that are at least 15 years old and report paid work for at least 10 h per week), our results show a gender overeducation gap, with women at a higher risk of overeducation than men. By applying a latent variable approach with simultaneous re-gressions to account for potential selection into jobs allowing WfH, we find that the WfH option carries a lower overeducation risk. Moreover, the findings suggest a gender-specific benefit of WfH: women show higher overeducation risks among employees without the WfH option, but the gender overeducation gap is closed among those with the WfH option.",
+  "authors": [
+    {
+      "raw": "Santiago-Vela, Ana",
+      "family": "Santiago-Vela",
+      "given": "Ana"
+    },
+    {
+      "raw": "Mergener, Alexandra",
+      "family": "Mergener",
+      "given": "Alexandra"
+    }
+  ],
+  "authors_text": "Santiago-Vela, Ana; Mergener, Alexandra",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2022.102727",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102727",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102727",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102727.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

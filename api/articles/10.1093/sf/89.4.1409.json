@@ -1,0 +1,25 @@
+{
+  "title": "Standards for Standardized Logistic Regression Coefficients",
+  "abstract": "Standardized coefficients in logistic regression analysis have the same utility as standardized coefficients in linear regression analysis. Although there has been no consensus on the best way to construct standardized logistic regression coefficients, there is now sufficient evidence to suggest a single best approach to the construction of a standardized logistic regression coefficient that can be used in the same way across a broad range of problems as the standardized linear regression coefficient and also to suggest the adequacy of other approaches for limited purposes. This article reviews the state of knowledge regarding the use of standardized coefficients in general and standardized logistic regression coefficients in particular, and makes specific recommendations on how to best use (and avoid abusing) standardized logistic regression coefficients.",
+  "authors": [
+    {
+      "raw": "Menard, S.",
+      "family": "Menard",
+      "given": "S."
+    }
+  ],
+  "authors_text": "Menard, S.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2011,
+  "doi": "10.1093/sf/89.4.1409",
+  "doi_url": "https://doi.org/10.1093/sf/89.4.1409",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2F89.4.1409",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/89.4.1409.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Interviewer effects on patterns of nonresponse: Evaluating the impact on the reasons for contraceptive nonuse in the Indonesia and the Philippines DHS",
+  "abstract": "BACKGROUND Much social science research is reliant on generating data through questionnaires and interviews. Understanding the processes by which this data is generated is therefore vital for ensuring validity of scientific results. Interviewers, as a primary means of collecting responses, are one mode through which the generation of data can be affected. METHODS This paper uses the reason for contraceptive non-use module of the Indonesian DHS to examine the effect of differential effects of interviewers on response patterns. A cross-classified multilevel model is used to examine the effect of question order on the probability of providing a positive response. RESULTS The probability of providing a response declines across the module, an effect which is robust to the introduction of controls. We are able to partition the effect of this decline into respondent and interviewer effects by cross-classified residuals in the multilevel model. We find that although significant, the substantive effect of interviewers on the response profile is small and the majority of variation is accounted for by interviewee-level variation. CONCLUSIONS While data collection via interviewers seems to be a reliable mechanism within the DHS, care should be taken to minimise respondent burden to ensure valid responses. CONTRIBUTION This submission confirms the high quality of DHS interviewing practices, while finding evidence of some systematic effects of data collection on responses.",
+  "authors": [
+    {
+      "raw": "Amos, Mark",
+      "family": "Amos",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Amos, Mark",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.14",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

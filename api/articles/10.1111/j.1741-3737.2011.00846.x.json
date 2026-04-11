@@ -1,0 +1,30 @@
+{
+  "title": "Gene-Environment Interplay, Family Relationships, and Child Adjustment",
+  "abstract": "This paper reviews behavioral genetic research from the past decade that has moved beyond simply studying the independent influences of genes and environments. The studies considered in this review have instead focused on understanding gene - environment interplay, including genotype - environment correlation ( rGE) and genotype × environment interaction (G × E). Studies have suggested that rGE is an important pathway through which family relationships are associated with child adjustment. Also important are direct causal influences of family relationships on child adjustment, independent of genetic confounds. Other studies have indicated that genetic and environmental influences on child adjustment are moderated by different levels of family relationships in G × E interactions. Genetically informed studies that have examined family relations have been critical to advancing our understanding of gene - environment interplay.",
+  "authors": [
+    {
+      "raw": "Horwitz, Briana N.",
+      "family": "Horwitz",
+      "given": "Briana N."
+    },
+    {
+      "raw": "Neiderhiser, Jenae M.",
+      "family": "Neiderhiser",
+      "given": "Jenae M."
+    }
+  ],
+  "authors_text": "Horwitz, Briana N.; Neiderhiser, Jenae M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2011,
+  "doi": "10.1111/j.1741-3737.2011.00846.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2011.00846.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2011.00846.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2011.00846.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

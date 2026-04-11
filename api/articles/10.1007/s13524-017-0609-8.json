@@ -1,0 +1,35 @@
+{
+  "title": "Circadian Rhythms, Sleep, and Cognitive Skills: Evidence From an Unsleeping Giant",
+  "abstract": "This study analyzes the effects of sleep duration on cognitive skills and depression symptoms of older workers in urban China. Cognitive skills and mental health have been associated with sleep duration and are known to be strongly related to economic behavior and performance. However, causal evidence is lacking, and little is known about sleep deprivation in developing countries. We exploit the relationship between circadian rhythms and bedtime to identify the effects of sleep using sunset time as an instrument. Using the Chinese Health and Retirement Longitudinal Study, we show that a later sunset time significantly reduces sleep duration and that sleep duration increases cognitive skills and eases depression symptoms of workers aged 45 years and older. The results are driven by employed individuals living in urban areas, who are more likely to be constrained by rigid work schedules. We find no evidence of significant effects on the self-employed, non-employed, or farmers.",
+  "authors": [
+    {
+      "raw": "Giuntella, Osea",
+      "family": "Giuntella",
+      "given": "Osea"
+    },
+    {
+      "raw": "Han, Wei",
+      "family": "Han",
+      "given": "Wei"
+    },
+    {
+      "raw": "Mazzonna, Fabrizio",
+      "family": "Mazzonna",
+      "given": "Fabrizio"
+    }
+  ],
+  "authors_text": "Giuntella, Osea; Han, Wei; Mazzonna, Fabrizio",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0609-8",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0609-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0609-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0609-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

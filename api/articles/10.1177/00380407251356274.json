@@ -1,0 +1,40 @@
+{
+  "title": "Study Programs, Public Rankings, and College Enrollment Intentions: Results from a Survey Experiment on Study Program Content, Flexibility, and Support",
+  "abstract": "Current research on college enrollment intentions predominantly focuses on the effects of individual and university characteristics, neglecting how specific study program features affect enrollment intentions. We examine three key elements in a study program: content, flexibility, and support. These elements shape individuals' beliefs about costs, benefits, and their success probability, thus affecting enrollment intentions. Understanding these influences helps address disparities in access to higher education because an individual's social background shapes information processing and thus, belief formation. Using data from a factorial survey experiment conducted with German high school students in their final year of school, we apply random-intercept regression models to investigate the causal (socially stratified) effect of study program features on enrollment intentions. Our results reveal significant effects of the investigated dimensions on enrollment intentions, suggesting that adjusting program content, flexibility, and support services enhances those intentions. However, the limited effect variation across social backgrounds implies that these adjustments will not reduce the social origin gap in higher education transitions.",
+  "authors": [
+    {
+      "raw": "Toussaint, Carina",
+      "family": "Toussaint",
+      "given": "Carina"
+    },
+    {
+      "raw": "Patzina, Alexander",
+      "family": "Patzina",
+      "given": "Alexander"
+    },
+    {
+      "raw": "Dietrich, Hans",
+      "family": "Dietrich",
+      "given": "Hans"
+    },
+    {
+      "raw": "Wolbring, Tobias",
+      "family": "Wolbring",
+      "given": "Tobias"
+    }
+  ],
+  "authors_text": "Toussaint, Carina; Patzina, Alexander; Dietrich, Hans; Wolbring, Tobias",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2026,
+  "doi": "10.1177/00380407251356274",
+  "doi_url": "https://doi.org/10.1177/00380407251356274",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380407251356274",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380407251356274.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

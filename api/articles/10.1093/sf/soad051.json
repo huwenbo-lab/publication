@@ -1,0 +1,25 @@
+{
+  "title": "Within, Between, and Beyond: A New Approach to Examining World Income Inequality",
+  "abstract": "World income inequality is comprised of uneven development between states and unequal distribution within states. Recent work shows that the between-country component still accounts for a majority of the total, but that attention is shifting to the within-country portion, which is growing in both absolute and relative terms. What is less appreciated, though, is that the way income is distributed within countries also plays an indirect role in how income differences are recognized between them. When a nation's income distribution is highly unequal, its mean income is substantially larger than the income of its average person, thereby masking a depreciation in living standards for those residing in the middle. The practical effect of this distortion is that poor, unequal countries seem wealthier than they really are when using mean incomes to represent country averages, as is typically done. I address this shortcoming in prior work by estimating between-country inequality using median incomes. My analysis covers the 1990-2017 period for 123 countries that represent over 90 percent of the world's population. According to Theil's T, I find that (a) inequality in median incomes is almost 15 percent higher than inequality in mean incomes, and that (b) median incomes are converging about 7.5 percent more slowly than mean incomes. This translates to a higher level of world income inequality, which is likewise converging at a slower rate. Overall, I find that the direct and indirect effects of national inequality are now responsible for about half of the world's income inequality.",
+  "authors": [
+    {
+      "raw": "Clark, Rob",
+      "family": "Clark",
+      "given": "Rob"
+    }
+  ],
+  "authors_text": "Clark, Rob",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soad051",
+  "doi_url": "https://doi.org/10.1093/sf/soad051",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad051",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad051.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

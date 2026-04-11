@@ -1,0 +1,25 @@
+{
+  "title": "Understanding subjective inequality in China",
+  "abstract": "Rising income inequality is a critical global problem that has rapidly accelerated over the past two decades. Yet most people in China are misinformed about inequality because of the government's control over media via propaganda and censorship. This paper examines how rising inequality is perceived, publicized, and interpreted in contemporary China, where reporting on inequality is actively framed and consumed in the interests of political stability. Combining automated text analysis of millions of news articles and social media data and metric methods for survey questions on individuals' attitudes, beliefs, and opinions, I test the formation of public misperception of inequality through two interlocking processes. First, during the production of news, Chinese media suppresses and selectively covers some topics related to inequality. Specifically, media outlets under tighter government control tend to cover more news on Chinese political, rural-urban, and historical inequality, and they focus less on educational and economic inequality and western politics. Second, Chinese media also affects individuals' perceptions about inequality during the consumption of news. Users of state-owned media tend to underestimate the level of inequality compared with users of marketized or social media. These findings call attention to the political roots of the gap between real and perceived inequality.",
+  "authors": [
+    {
+      "raw": "Song, Xi",
+      "family": "Song",
+      "given": "Xi"
+    }
+  ],
+  "authors_text": "Song, Xi",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac047",
+  "doi_url": "https://doi.org/10.1093/esr/jcac047",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac047",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac047.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

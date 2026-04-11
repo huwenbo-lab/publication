@@ -1,0 +1,60 @@
+{
+  "title": "Humans in the Loop: Incorporating Expert and Crowd-Sourced Knowledge for Predictions Using Survey Data",
+  "abstract": "Survey data sets are often wider than they are long. This high ratio of variables to observations raises concerns about overfitting during prediction, making informed variable selection important. Recent applications in computer science have sought to incorporate human knowledge into machine-learning methods to address these problems. The authors implement such a “human-in-the-loop” approach in the Fragile Families Challenge. The authors use surveys to elicit knowledge from experts and laypeople about the importance of different variables to different outcomes. This strategy offers the option to subset the data before prediction or to incorporate human knowledge as scores in prediction models, or both together. The authors find that human intervention is not obviously helpful. Human-informed subsetting reduces predictive performance, and considered alone, approaches incorporating scores perform marginally worse than approaches that do not. However, incorporating human knowledge may still improve predictive performance, and future research should consider new ways of doing so.",
+  "authors": [
+    {
+      "raw": "Filippova, Anna",
+      "family": "Filippova",
+      "given": "Anna"
+    },
+    {
+      "raw": "Gilroy, Connor",
+      "family": "Gilroy",
+      "given": "Connor"
+    },
+    {
+      "raw": "Kashyap, Ridhi",
+      "family": "Kashyap",
+      "given": "Ridhi"
+    },
+    {
+      "raw": "Kirchner, Antje",
+      "family": "Kirchner",
+      "given": "Antje"
+    },
+    {
+      "raw": "Morgan, Allison C.",
+      "family": "Morgan",
+      "given": "Allison C."
+    },
+    {
+      "raw": "Polimis, Kivan",
+      "family": "Polimis",
+      "given": "Kivan"
+    },
+    {
+      "raw": "Usmani, Adaner",
+      "family": "Usmani",
+      "given": "Adaner"
+    },
+    {
+      "raw": "Wang, Tong",
+      "family": "Wang",
+      "given": "Tong"
+    }
+  ],
+  "authors_text": "Filippova, Anna; Gilroy, Connor; Kashyap, Ridhi; Kirchner, Antje; Morgan, Allison C.; Polimis, Kivan; Usmani, Adaner; Wang, Tong",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118820157",
+  "doi_url": "https://doi.org/10.1177/2378023118820157",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118820157",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118820157.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

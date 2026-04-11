@@ -1,0 +1,30 @@
+{
+  "title": "Transit trade-offs: Public transportation difficulty, schedule variation, and school preferences",
+  "abstract": "This study exploits schedule variation in the public transportation system to assess whether changes in commute difficulty alter the likelihood that a student will choose a particular school. Specifically, we use choice forms and public transportation route estimates from eighth graders in Baltimore City Public Schools (2014-15 through 2019-20) to show that students living in a specific residential block were less likely to list a given school as one of their high school options in years when the commute took longer or required a bus transfer. In addition, we show that in years where selective enrollment schools were easier to access from a particular residential block more students who lived there enrolled in them. These findings have important implications for how we think about structural barriers to educational opportunity in the era of choice. They also highlight the connections between urban infrastructure and the education system and remind us that who has access to which schools depends on how hard it is to get there.",
+  "authors": [
+    {
+      "raw": "Burdick-Will, Julia",
+      "family": "Burdick-Will",
+      "given": "Julia"
+    },
+    {
+      "raw": "Stein, Marc L.",
+      "family": "Stein",
+      "given": "Marc L."
+    }
+  ],
+  "authors_text": "Burdick-Will, Julia; Stein, Marc L.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103160",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103160",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103160",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103160.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

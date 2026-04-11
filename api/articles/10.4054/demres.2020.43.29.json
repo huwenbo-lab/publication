@@ -1,0 +1,25 @@
+{
+  "title": "The effect of spousal separation and reunification on fertility: Chinese internal and international migration",
+  "abstract": "BACKGROUND In a modern society with massive long-distance migration due to rapid development of transportation infrastructure, spousal separation has a substantial and cumulative effect on marital fertility (Menken 1979) due to not only lower intercourse frequency, but also factors affecting fertility in both the destination and origin locations. OBJECTIVE This paper investigates the effect of spousal separation on marital fertility for Chinese internal migrants and international migrants to the US. METHODS Using data from the Chinese International Migration Project, I jointly model the first, second and third births, and spousal separation applying event-history techniques and controlling for unobserved heterogeneity. Time-varying information on both partners' occupations is incorporated to capture the changes in their socioeconomic status. RESULTS The results show that the first two births are disrupted by spousal separation. Reunification does not lead to higher fertility but rather implies lower fertility. Moreover, there is a tendency for couples who are separated due to the migration of one partner to also have higher fertility levels. CONCLUSIONS Concerns regarding the dramatic rise in migrant births after family reunification are not empirically grounded. Couple separation is related to a traditional division of labour. Furthermore, the correlation between migration and fertility mainly comes from the selectivity of household income. CONTRIBUTION This paper sheds light on the effects of migration-related changes in couples' living arrangements on fertility, analysed by birth order in under-researched contexts: China-US migration and internal migration from Fujian province. Both migration types have dramatically increased in China in recent decades.",
+  "authors": [
+    {
+      "raw": "Nie, Wanli",
+      "family": "Nie",
+      "given": "Wanli"
+    }
+  ],
+  "authors_text": "Nie, Wanli",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.29",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

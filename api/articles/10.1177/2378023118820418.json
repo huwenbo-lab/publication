@@ -1,0 +1,55 @@
+{
+  "title": "Winning Models for Grade Point Average, Grit, and Layoff in the Fragile Families Challenge",
+  "abstract": "In this article, the authors discuss and analyze their approach to the Fragile Families Challenge. The data consisted of more than 12,000 features (covariates) about the children and their parents, schools, and overall environments from birth to age 9. The authors’ modular and collaborative approach parallelized prediction tasks and relied primarily on existing data science techniques, including (1) data preprocessing: elimination of low variance features, imputation of missing data, and construction of composite features; (2) feature selection through univariate mutual information and extraction of nonzero least absolute shrinkage and selection operator coefficients; (3) three machine learning models: random forest, elastic net, and gradient-boosted trees; and finally (4) prediction aggregation according to performance. The top-performing submissions produced winning out-of-sample predictions for three outcomes: grade point average, grit, and layoff. However, predictions were at most 20 percent better than a baseline that predicted the mean value of the training data for each outcome.",
+  "authors": [
+    {
+      "raw": "Rigobon, Daniel E.",
+      "family": "Rigobon",
+      "given": "Daniel E."
+    },
+    {
+      "raw": "Jahani, Eaman",
+      "family": "Jahani",
+      "given": "Eaman"
+    },
+    {
+      "raw": "Suhara, Yoshihiko",
+      "family": "Suhara",
+      "given": "Yoshihiko"
+    },
+    {
+      "raw": "AlGhoneim, Khaled",
+      "family": "AlGhoneim",
+      "given": "Khaled"
+    },
+    {
+      "raw": "Alghunaim, Abdulaziz",
+      "family": "Alghunaim",
+      "given": "Abdulaziz"
+    },
+    {
+      "raw": "Pentland, Alex “Sandy”",
+      "family": "Pentland",
+      "given": "Alex “Sandy”"
+    },
+    {
+      "raw": "Almaatouq, Abdullah",
+      "family": "Almaatouq",
+      "given": "Abdullah"
+    }
+  ],
+  "authors_text": "Rigobon, Daniel E.; Jahani, Eaman; Suhara, Yoshihiko; AlGhoneim, Khaled; Alghunaim, Abdulaziz; Pentland, Alex “Sandy”; Almaatouq, Abdullah",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118820418",
+  "doi_url": "https://doi.org/10.1177/2378023118820418",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118820418",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118820418.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

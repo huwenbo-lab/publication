@@ -1,0 +1,30 @@
+{
+  "title": "Discovery and diffusion of knowledge in an endogenous social network",
+  "abstract": "The authors explore the evolution of the structure and performance of a social network in a population of individuals who search for local optima in diverse and dynamic environments. Individuals choose whether to innovate or imitate, and in the latter case, from whom to learn. The probabilities of these possible actions respond to an individual's past experiences using reinforcement learning. Among some of the authors' more interesting findings is that a population's performance is not monotonically increasing in either the reliability of the communication network or the productivity of innovation.",
+  "authors": [
+    {
+      "raw": "Chang, MH",
+      "family": "Chang",
+      "given": "MH"
+    },
+    {
+      "raw": "Harrington, JE Jr",
+      "family": "Harrington",
+      "given": "JE Jr"
+    }
+  ],
+  "authors_text": "Chang, MH; Harrington, JE Jr",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2005,
+  "doi": "10.1086/426555",
+  "doi_url": "https://doi.org/10.1086/426555",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F426555",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/426555.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

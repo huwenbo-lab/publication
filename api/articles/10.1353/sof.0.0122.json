@@ -1,0 +1,30 @@
+{
+  "title": "Transforming Symbolic Law into Organizational Action: Hate Crime Policy and Law Enforcement Practice",
+  "abstract": "For decades sociologists, criminologists, political scientists and socio-legal scholars alike have focused on the symbolic and instrumental dimensions of law in examinations of the effects of social reform and policy implementation. Following in this tradition, we focus on the relationship between hate crime policy and hate crime reporting to identify the conditions under which a symbolic law is accompanied by instrumental effects at the initial phase of the law enforcement process —the official recording of a hate crime event. Using data on California police and sheriff's agencies we estimate hierarchical Poisson models to determine how agency-level enforcement efforts, chiefly the creation of a formal policy on hate crime, affect official hate crime reporting. We also examine how community and agency attributes influence the effects of policy on the reporting of hate crime. We find that agency characteristics, in this case measures of the integration of the local agency within the community, shape the degree to which agency policies affect the official reporting of hate crime. Our findings reveal that while symbolic law is not intrinsically incapable of producing changes in enforcement patterns, such effects are contingent upon agency and community processes. Thus, we conclude by conceptualizing the varied enforcement contexts within which a body of symbolic law is rendered instrumental.",
+  "authors": [
+    {
+      "raw": "Grattet, R.",
+      "family": "Grattet",
+      "given": "R."
+    },
+    {
+      "raw": "Jenness, V.",
+      "family": "Jenness",
+      "given": "V."
+    }
+  ],
+  "authors_text": "Grattet, R.; Jenness, V.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2008,
+  "doi": "10.1353/sof.0.0122",
+  "doi_url": "https://doi.org/10.1353/sof.0.0122",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0122",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0122.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Counteracting Nature of Contextual Influences: Peer Effects and Offsetting Mechanisms in Schools",
+  "abstract": "There is currently a mismatch between the theoretical expectations of peer effects held by many scholars and the quantitative empirical literature. This paper contributes to the understanding of peer effects by highlighting the oft-overlooked conceptual distinction between social influences and a well-defined causal effect; peers may influence one another via several potentially contradicting mechanisms that result in small overall causal peer effects on educational outcomes. We exploit the idiosyncratic variation in gender composition across cohorts within schools to study offsetting mechanisms. Using population-wide Norwegian register and survey data, we find two distinct ways in which the share of girls in lower secondary schools (grades 8-10) affects academic outcomes. First, more girl peers improve the learning environment at school. Simultaneously, however, more girl peers reduce the students' motivation for schoolwork. Such results suggest that peer effects stem from a complex process where various mechanisms are at odds with one another, and where the influence of peers on academic outcomes is a composite of different mechanisms. Overall, we find that more girl peers lower students' school grades and reduce students' likelihood of attending an academic track in upper secondary school (which qualifies for higher education). Supplementary analyses suggest that the achievement level of girls is the main reason for the gender peer effects found in our study.",
+  "authors": [
+    {
+      "raw": "Borgen, Nicolai T.",
+      "family": "Borgen",
+      "given": "Nicolai T."
+    },
+    {
+      "raw": "Borgen, Solveig T.",
+      "family": "Borgen",
+      "given": "Solveig T."
+    },
+    {
+      "raw": "Birkelund, Gunn Elisabeth",
+      "family": "Birkelund",
+      "given": "Gunn Elisabeth"
+    }
+  ],
+  "authors_text": "Borgen, Nicolai T.; Borgen, Solveig T.; Birkelund, Gunn Elisabeth",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soac023",
+  "doi_url": "https://doi.org/10.1093/sf/soac023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

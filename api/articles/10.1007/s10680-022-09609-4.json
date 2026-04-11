@@ -1,0 +1,30 @@
+{
+  "title": "Does the Mortality of Individuals with Severe Disabilities Contribute to the Persistent East–West Mortality Gap Among German Men?",
+  "abstract": "AbstractAfter three decades since reunification male life expectancy in East Germany still lags behind that of West Germany. Unlike most of the prior studies focusing on the role of socioeconomic factors, this study aims at assessing the contribution of the population with severe disabilities to the persistent East–West male mortality gap. Our analysis is mainly based on the German Pension Fund data. It is restricted to men aged 30–59 receiving disability pension (DP). We estimate mortality indicators and compare trends among populations with or without DP. We use decomposition method to quantify the effects of changes in mortality and compositional changed in the prevalence of receiving DP on the East–West mortality difference. The analysis covers the period 1995–2013. The German Socioeconomic Panel data and Cox proportional hazard models are used to evaluate the regional differences in the risk of receiving DP. Our results suggest that both the higher prevalence of receiving DP in the East and the higher mortality level among men not receiving DP in the East explain the East–West gap. The mortality difference among those receiving DP is negligible and does not contribute much to it. The observed higher prevalence in receiving DP in the East is very likely to reflect the reality as we found no regional differences in the risk of transitioning to receiving DP. The disadvantageous position of the East can be explained by the post-reunification crisis which particularly hit young men in the 1990s, selective migration from East to West after reunification, and the higher proportion of the healthier foreign population living in the West.",
+  "authors": [
+    {
+      "raw": "Grigoriev, Olga",
+      "family": "Grigoriev",
+      "given": "Olga"
+    },
+    {
+      "raw": "Doblhammer, Gabriele",
+      "family": "Doblhammer",
+      "given": "Gabriele"
+    }
+  ],
+  "authors_text": "Grigoriev, Olga; Doblhammer, Gabriele",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09609-4",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09609-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09609-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09609-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

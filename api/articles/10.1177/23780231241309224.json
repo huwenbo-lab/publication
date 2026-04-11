@@ -1,0 +1,40 @@
+{
+  "title": "Within-Day Diversity Change, Neighborhood Social Cohesion, and Fear of Crime",
+  "abstract": "Research on neighborhood social organization and crime typically conceptualizes neighborhood change on the order of decades, even though the local social contexts that individuals experience change daily through mobility for work, errands and recreation. In this study, the authors analyze data from the Seattle Neighborhoods and Crime Survey linked to the Census Transportation Planning Products to investigate whether within-day changes in neighborhood diversity are associated with an individual’s social cohesion and fear of crime. The authors find that individuals living in neighborhoods where diversity increases during the daytime tend to report more social cohesion and relatively less fear of crime. Importantly, these relationships are observed only among white respondents, with implications for whether processes of racialization in diverse neighborhood contexts account for this tendency. Results from this study highlight how the “mobility turn” within theories about neighborhood effects would benefit from considering how the contexts themselves change throughout the day.",
+  "authors": [
+    {
+      "raw": "Hess, Chris",
+      "family": "Hess",
+      "given": "Chris"
+    },
+    {
+      "raw": "Yi, Youngmin",
+      "family": "Yi",
+      "given": "Youngmin"
+    },
+    {
+      "raw": "Sharp, Gregory",
+      "family": "Sharp",
+      "given": "Gregory"
+    },
+    {
+      "raw": "Hall, Matt",
+      "family": "Hall",
+      "given": "Matt"
+    }
+  ],
+  "authors_text": "Hess, Chris; Yi, Youngmin; Sharp, Gregory; Hall, Matt",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231241309224",
+  "doi_url": "https://doi.org/10.1177/23780231241309224",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241309224",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241309224.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

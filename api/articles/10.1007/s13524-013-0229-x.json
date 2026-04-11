@@ -1,0 +1,25 @@
+{
+  "title": "The Educational Gradient in Marriage: A Comparison of 25 European Countries",
+  "abstract": "AbstractPrevious research has suggested that a new marriage gradient has emerged in the United States, with marriage becoming increasingly the privilege of the better-educated. This article examines whether this is true for Europe and explores differences in the marriage gradient among 25 European countries, using multilevel models. The focus is on the chances of living in a marital (or cohabiting) union during midlife (ages 40–49). Multilevel analyses show that the direction and strength of the gradient depend on the societal context. In countries where gender roles are traditional, better-educated women are less likely to be married than less-educated women; in gender-egalitarian countries, better-educated women are more likely to be married. For men, the educational effect on marriage is absent in traditional countries but becomes positive as gender roles become more equal. Inequality in a society also modifies the gradient: if the degree of economic inequality between educational groups in a society is strong, better-educated men are more likely to be married than less-educated men. In general, the results suggest that there may be an accumulation of social and economic disadvantages for the less well educated in more-developed countries.",
+  "authors": [
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    }
+  ],
+  "authors_text": "Kalmijn, Matthijs",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0229-x",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0229-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0229-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0229-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

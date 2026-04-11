@@ -1,0 +1,30 @@
+{
+  "title": "Nonresponse of Secondary Respondents in Multi-Actor Surveys: Determinants, Consequences, and Possible Remedies",
+  "abstract": "Multi-actor survey data are highly valuable for answering questions about family relations, but the collection of such data is complicated by nonresponse among secondary (nonresident) respondents. Little is known, however, about the degree to which nonresponse of secondary respondents is selective and about the degree to which selective nonresponse biases substantive findings. Using a large representative survey, we analyze nonresponse of nonresident adult children of primary respondents. Nonresponse appears strongly related to characteristics of the parent—child relationship and to characteristics of both parents and children. Consequences are examined for three dependent variables: children’s attitudes, children’s support giving to parents, and children’s well-being. Heckman models, which correct for sample selection bias, show that selective response hardly biases the substantive estimates.",
+  "authors": [
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    },
+    {
+      "raw": "Liefbroer, Aart C.",
+      "family": "Liefbroer",
+      "given": "Aart C."
+    }
+  ],
+  "authors_text": "Kalmijn, Matthijs; Liefbroer, Aart C.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2010,
+  "doi": "10.1177/0192513x10390184",
+  "doi_url": "https://doi.org/10.1177/0192513x10390184",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x10390184",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x10390184.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

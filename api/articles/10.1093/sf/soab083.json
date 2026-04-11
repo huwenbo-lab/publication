@@ -1,0 +1,30 @@
+{
+  "title": "Meritocracy at Work?: Merit-Based Reward Systems and Gender Wage Inequality",
+  "abstract": "It is widely believed that meritocratic employment practices reduce gender inequality by limiting managers' reliance on nonmerit factors, such as biases. An emerging stream of research, however, questions the belief, arguing that meritocratic practices often fail to reduce inequality and may paradoxically increase it. Despite these opposing predictions, we still lack convincing empirical findings to adjudicate between them. Typically relying on data from a single organization or industry, most previous studies suffer from limited generalizability and cannot properly account for the large variation in the implementation of merit-based reward systems across organizations, let alone identify the origins of the variation. We attempt to overcome the limitations by constructing large-scale linked employer-employee data and by investigating the impact of merit-based systems on different components of compensation. Analyzing our panel data on 400 large Japanese companies and 400,000 employees of these companies over 12 years, we found evidence in support of the meritocracy paradox. The gender gap in bonus pay was greater, not smaller, in workplaces with a merit-based system compared to workplaces without it. But this paradoxical expansion of the gender gap was observed only in bonus pay but not in total compensation. We further found that a transition to merit-based systems has varying impacts on different employee groups; it widened the gender pay gap for young workers but reduced the gap for managers. Our research contributes to understanding gender inequality in times of shifting employment relations and the rise of meritocracy.",
+  "authors": [
+    {
+      "raw": "Mun, Eunmi",
+      "family": "Mun",
+      "given": "Eunmi"
+    },
+    {
+      "raw": "Kodama, Naomi",
+      "family": "Kodama",
+      "given": "Naomi"
+    }
+  ],
+  "authors_text": "Mun, Eunmi; Kodama, Naomi",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab083",
+  "doi_url": "https://doi.org/10.1093/sf/soab083",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab083",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab083.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Household Wealth in China",
+  "abstract": "With new nationwide longitudinal survey data now available from the China Family Panel Studies (CFPS), we study the level, distribution, and composition of household wealth in contemporary China. We found that the wealth Gini coefficient of China was 0.73 in 2012. The richest 1 percent owned more than one-third of the total national household wealth, while the poorest 25 percent owned less than 2 percent. Housing assets, which accounted for over 70 percent, were the largest component of household wealth. Finally, the urban-rural divide and regional disparities played important roles in household wealth distribution, and institutional factors significantly affected household wealth holdings, wealth growth rate, and wealth mobility.",
+  "authors": [
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    },
+    {
+      "raw": "Jin, Yongai",
+      "family": "Jin",
+      "given": "Yongai"
+    }
+  ],
+  "authors_text": "Xie, Yu; Jin, Yongai",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1080/21620555.2015.1032158",
+  "doi_url": "https://doi.org/10.1080/21620555.2015.1032158",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2015.1032158",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2015.1032158.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

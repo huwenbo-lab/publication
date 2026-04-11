@@ -1,0 +1,25 @@
+{
+  "title": "What Makes a Quality College? Reexamining the Equalizing Potential of Higher Education in the United States",
+  "abstract": "Substantial stratification research examines the equalizing potential of American higher education. Much of this research focuses on college quality, proxied empirically by admissions selectivity or test-score excellence. However, the author argues that these proxies create a limited understanding of college quality: one misaligned with colleges' equalizing potential. Extending the school quality literature and building on stratification and neoinstitutional theories, the author proposes a new approach to assessing college quality that centers on equity. She implements this approach using unique population data combined with fixed effects regression and entropy balancing techniques. This new approach reveals that heterogeneity in quality can exist even within the same college, depending on student background, suggesting that college quality is not uniform. She further finds that certain college-level characteristics explain within- and between-college variation. The author concludes by arguing that the US system of higher education accountability should incorporate equity more strongly into evaluations of college quality and success.",
+  "authors": [
+    {
+      "raw": "Eller, Christina Ciocca",
+      "family": "Eller",
+      "given": "Christina Ciocca"
+    }
+  ],
+  "authors_text": "Eller, Christina Ciocca",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1086/727891",
+  "doi_url": "https://doi.org/10.1086/727891",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F727891",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/727891.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

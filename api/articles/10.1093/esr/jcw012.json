@@ -1,0 +1,30 @@
+{
+  "title": "Better Test Scores with a Same-Gender Teacher?",
+  "abstract": "Recent statistics show for math and science subjects that test score differences between boys and girls have decreased or reversed over the past 20 years. This decrease or reversal occurred simultaneously with the steady increase in the proportion of female teachers in primary and secondary education. It is frequently hypothesized that the feminization of education contributed to the reversal of gender achievement gaps. This study examines if having a same-gender teacher influences the mathematics performance of primary school children. For this purpose, unique Dutch school-registration data are used on 2,586 Dutch primary school students who are followed from grades 3 to 5, and an innovative within-class between-student gender approach is used to identify the effect. The main empirical finding is that there is no teacher gender effect, in the sense that teacher gender does not affect the difference in achieved math test scores between boys and girls.",
+  "authors": [
+    {
+      "raw": "Coenen, Johan",
+      "family": "Coenen",
+      "given": "Johan"
+    },
+    {
+      "raw": "Van Klaveren, Chris",
+      "family": "Van Klaveren",
+      "given": "Chris"
+    }
+  ],
+  "authors_text": "Coenen, Johan; Van Klaveren, Chris",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcw012",
+  "doi_url": "https://doi.org/10.1093/esr/jcw012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcw012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcw012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Gender Inequalities and Motherhood Penalties across French and German Local Labor Markets",
+  "abstract": "This data visualization examines the relationship between motherhood earnings penalties and gender earnings gaps across local labor markets in France and Germany. Drawing on harmonized administrative data, the authors document a strong positive association: regions with larger motherhood penalties tend to exhibit wider gender earnings gaps. This pattern holds across all Nomenclature of Territorial Units for Statistics second-division regions, where a 1 percent increase in the motherhood penalty corresponds to a 0.3 percent higher gender earnings gap. The relationship is even stronger within countries, with the average association rising to 0.7 percent. These findings suggest that regional differences in gender earnings inequality are strongly associated with the magnitude of motherhood penalties.",
+  "authors": [
+    {
+      "raw": "Wagner, Sander",
+      "family": "Wagner",
+      "given": "Sander"
+    },
+    {
+      "raw": "Filser, Andreas",
+      "family": "Filser",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Achard, Pascal",
+      "family": "Achard",
+      "given": "Pascal"
+    },
+    {
+      "raw": "Amend, Inga Marie",
+      "family": "Amend",
+      "given": "Inga Marie"
+    }
+  ],
+  "authors_text": "Wagner, Sander; Filser, Andreas; Achard, Pascal; Amend, Inga Marie",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251374110",
+  "doi_url": "https://doi.org/10.1177/23780231251374110",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251374110",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251374110.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

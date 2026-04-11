@@ -1,0 +1,30 @@
+{
+  "title": "Population aging caused by a rise in the sex ratio at birth",
+  "abstract": "BACKGROUND In the last several decades, notwithstanding its historical and biological stability, the sex ratio at birth (SRB) has risen in various parts of the world. The resultant demographic consequences are well documented and typically include 'missing girls/women' and the 'marriage squeeze.' However, the underlying mechanism and impact of the SRB on demographic dynamics have not been explored in depth. OBJECTIVE In this study, we investigate the impact of a rise in the SRB on the size, structure, and growth of a population, with a focus on population aging. METHODS We develop a simple methodological framework derived from classical stable population models to analyze how a rise in the SRB reduces population size and ages a population. RESULTS Cohorts born with a higher SRB are smaller than those born with a lower SRB. The smaller size of these cohorts leads to a reduction in the total population size, thereby increasing the proportion of cohorts of older persons born during periods with a lower SRB that are the same size as earlier cohorts. As cohorts continue to be born during the period with the higher SRB, their proportion in the population increases and the process of population aging accelerates. CONTRIBUTIONS This study shows that, in addition to fertility and mortality, the SRB can be a driving factor in population dynamics, especially when it rises well above normal biological levels.",
+  "authors": [
+    {
+      "raw": "Zhang, Zhen",
+      "family": "Zhang",
+      "given": "Zhen"
+    },
+    {
+      "raw": "Li, Qiang",
+      "family": "Li",
+      "given": "Qiang"
+    }
+  ],
+  "authors_text": "Zhang, Zhen; Li, Qiang",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.32",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

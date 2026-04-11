@@ -1,0 +1,30 @@
+{
+  "title": "Dynamic Family Size Preferences During the COVID-19 Mortality Crisis: A Research Note",
+  "abstract": "In this research note, we examine how family size preferences evolved for women with and without children in response to changing COVID-19 mortality exposure during the first two years of the COVID-19 pandemic. We leverage spatiotemporal variation in COVID-19 deaths occurring during panel surveys in 2020 and 2021 with a population-based sample of 2,520 women, aged 18-34, across 94 municipalities in Pernambuco, Brazil. We use individual fixed-effects regressions to examine whether changes in municipality-level COVID-19 death rates are associated with changes in women's desired family size, net of their own or their family's COVID-19 infection status and other time-varying sociodemographic factors. We find that women with and without children at baseline responded differently to changing municipality-level COVID-19 deaths: while women without children did not change their desired family size, women with children saw a small but significant increase in their desired family size in response to rising COVID-19 mortality. These innovative findings suggest that women with children responded to widespread COVID-19-related loss within their communities by wanting to build and consoli-date their families. We advance knowledge about varying contextual influences on fertility preferences during epidemics in a middle-income country with early and below-replacement fertility.",
+  "authors": [
+    {
+      "raw": "Marteleto, Leticia J.",
+      "family": "Marteleto",
+      "given": "Leticia J."
+    },
+    {
+      "raw": "Kumar, Sneha",
+      "family": "Kumar",
+      "given": "Sneha"
+    }
+  ],
+  "authors_text": "Marteleto, Leticia J.; Kumar, Sneha",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-12178940",
+  "doi_url": "https://doi.org/10.1215/00703370-12178940",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12178940",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12178940.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

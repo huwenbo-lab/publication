@@ -1,0 +1,45 @@
+{
+  "title": "Focus, Fiddle, and Friends: Experiences that Transform Knowledge for the Implementation of Innovations",
+  "abstract": "Although knowledge has been linked to productivity within and between organizations, little is known about how knowledge flows into schools and then diffuses from teacher to teacher within schools. Here, the authors hypothesize that the value of different sources of knowledge depends on a teacher's current level of implementation. The authors test their theory using longitudinal network data from 470 teachers in 13 schools. From models of change (i.e., first differences) in teachers' use of computers over a one-year period, the authors infer that the more a teacher at the lowest initial levels of implementing an innovation is exposed to professional development focused on student learning, the more she increases her level of implementation (focus); the more a teacher at an intermediate initial level of implementation has opportunities to experiment and explore, the more she sustains her level of implementation (fiddle); and the more a teacher at a high initial level of implementation accesses the knowledge of others, the more she increases her level of implementation (friends). Concerning the potential for selection bias, the authors quantify how large the impacts (Frank 2000) of confounding variables must be to invalidate their inferences. In the discussion, the authors emphasize the changing nature of knowledge through the diffusion process.",
+  "authors": [
+    {
+      "raw": "Frank, Kenneth A.",
+      "family": "Frank",
+      "given": "Kenneth A."
+    },
+    {
+      "raw": "Zhao, Yong",
+      "family": "Zhao",
+      "given": "Yong"
+    },
+    {
+      "raw": "Penuel, William R.",
+      "family": "Penuel",
+      "given": "William R."
+    },
+    {
+      "raw": "Ellefson, Nicole",
+      "family": "Ellefson",
+      "given": "Nicole"
+    },
+    {
+      "raw": "Porter, Susan",
+      "family": "Porter",
+      "given": "Susan"
+    }
+  ],
+  "authors_text": "Frank, Kenneth A.; Zhao, Yong; Penuel, William R.; Ellefson, Nicole; Porter, Susan",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2011,
+  "doi": "10.1177/0038040711401812",
+  "doi_url": "https://doi.org/10.1177/0038040711401812",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040711401812",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040711401812.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

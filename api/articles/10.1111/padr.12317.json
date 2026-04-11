@@ -1,0 +1,25 @@
+{
+  "title": "Poverty, Inequality, and Fertility: The Contribution of Demographic Change to Global Poverty Reduction",
+  "abstract": "Global poverty has fallen dramatically over the past decades. In many developing countries, this transformation was accompanied by rapid improvements in demographic outcomes, such as falling child mortality and fertility. Yet, recent theorizing and empirical research into the causes of global poverty reduction has mostly omitted demographic factors. This paper aims to fill this gap by testing for effects of demographic variables on poverty. Using time series data for 140 countries, we document a strong effect of lagged fertility on country-specific poverty rates. This effect is robust across several specifications and data sets. It appears to be stronger in countries with larger fertility differentials, in the early transition stages. The proposed mechanism behind this result is a Kuznets curve-type expansion of fertility inequality at the onset of the demographic transition. We conclude by calling for a stronger inclusion of demographic variables in the distribution-sensitive analysis of global poverty.",
+  "authors": [
+    {
+      "raw": "Wietzke, Frank-Borge",
+      "family": "Wietzke",
+      "given": "Frank-Borge"
+    }
+  ],
+  "authors_text": "Wietzke, Frank-Borge",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2020,
+  "doi": "10.1111/padr.12317",
+  "doi_url": "https://doi.org/10.1111/padr.12317",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12317",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12317.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Childhood emotional and behavioral problems and educational attainment",
+  "abstract": "Do childhood emotional and behavioral problems diminish the probability of graduating from high school and attending college? If so, are their effects primarily attributable to the persistence of those problems over time, to continuities in social environments, or to the cumulative effects of early academic failures? We provide answers to these questions using data from the Children of the National Longitudinal Surveys of Youth data set (1986-2000). Internalizing and externalizing problems at ages 6-8 significantly and strongly diminish the probability of receiving a high school degree. Among youth who receive a high school degree, externalizing problems also diminish the probability of subsequent college enrollment. In the case of high school degree receipt, the educatioral disadvantages associated with child emotional and behavioral problems result from the association of those problems with academic failures in middle and high school. In contrast, the association of childhood behavior problems with college enrollment appears to reflect the persisting effects of early behavioral and academic predispositions. Our results add to a growing body of research that demonstrates that social selection processes contribute to socioeconomic disparities. They also suggest new directions for research concerned with socially-structured, transactional, person-environment interactions.",
+  "authors": [
+    {
+      "raw": "McLeod, JD",
+      "family": "McLeod",
+      "given": "JD"
+    },
+    {
+      "raw": "Kaiser, K",
+      "family": "Kaiser",
+      "given": "K"
+    }
+  ],
+  "authors_text": "McLeod, JD; Kaiser, K",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2004,
+  "doi": "10.1177/000312240406900502",
+  "doi_url": "https://doi.org/10.1177/000312240406900502",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240406900502",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240406900502.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

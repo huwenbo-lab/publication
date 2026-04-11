@@ -1,0 +1,30 @@
+{
+  "title": "The geography of early childhood mortality in England and Wales, 1881-1911",
+  "abstract": "BACKGROUND Considerable regional variation existed in 19th-century infant mortality (IMR) in England and Wales. OBJECTIVE This study estimates early childhood mortality (ECMR) for over 2,000 registration subdistricts (RSDs) of England and Wales and analyses spatial and temporal variations in IMR and ECMR between 1881 and 1911. METHODS The combination of mortality statistics from the Registrar General and individual-level census data from the Integrated Census Microdata (I-CeM) project is used to estimate spatial models of the relationship between early childhood death rates and a range of district-specific contextual variables. RESULTS All regions of England and Wales experienced noticeable decline in early childhood mortality, but the spatial patterns were remarkably persistent, with high mortality in London and in the mining and textile centres. The earlier decline of childhood than infant mortality produced a widening gap between them, and in early phases this development was concentrated along the East-Midlands coastal area from Suffolk to North Yorkshire, and in mid-Wales. This gap continued to widen, and in 1911 IMR was at least twice as high as ECMR in most parts of England and Wales. CONCLUSION The changing spatial pattern of ECMR was influenced by a set of factors over and above those that influenced IMR, and these were related more to the disease environment than to social and economic influences. CONTRIBUTION These new estimates of early childhood mortality, at a finer spatial scale than previously possible, highlight the vast spatial variation in mortality in England and Wales. It is likely that these regional differences also manifest in variation in other demographic outcomes.",
+  "authors": [
+    {
+      "raw": "Jaadla, Hannaliis",
+      "family": "Jaadla",
+      "given": "Hannaliis"
+    },
+    {
+      "raw": "Reid, Alice",
+      "family": "Reid",
+      "given": "Alice"
+    }
+  ],
+  "authors_text": "Jaadla, Hannaliis; Reid, Alice",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.58",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.58",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.58",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.58.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

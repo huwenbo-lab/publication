@@ -1,0 +1,35 @@
+{
+  "title": "Development of Immigrant Couple Relations in Germany",
+  "abstract": "Objective: This study investigates whether relationship satisfaction, conflict frequency, and self-disclosure follow distinct developmental trajectories for immigrant couples when compared with native-born couples and explores the factors that explain developmental diversity for immigrant couples. Background: Despite nearly a quarter of a billion people worldwide living in a country other than their birth country, no longitudinal research has examined immigrant couple intimate relations. Stress-focused theoretical perspectives provide motivation for the current study. Method: Five annual waves of survey data from the German Family Panel (pairfam) study were analyzed. Propensity score matching was used to select a sample of immigrant (n = 614) and native-born (n = 2,097) couples matched on a number of potentially confounding demographic (e.g., marital status) and values-based (e.g., traditional gender-role attitudes) variables. Results: Latent growth curve analyses revealed few differences between immigrant and native-born couple trajectories and, where differences arose, the trajectories converged by Wave 5. Within immigrant couples, having both partners as immigrants emerged as a protective factor, whereas citizenship status in the receiving country and length of time since immigrating were not consistently associated with the relationship outcomes. Associations among couple supportiveness, traditional gender roles, and Big Five personality variables with the immigrant couple trajectories were consistent with findings in the relationship science literature. Conclusion: Although being an immigrant entails navigating additional challenges in daily life as a result of one's minority status, these results bear testament to the remarkable resilience of immigrant couples.",
+  "authors": [
+    {
+      "raw": "Johnson, Matthew D.",
+      "family": "Johnson",
+      "given": "Matthew D."
+    },
+    {
+      "raw": "Neyer, Franz J.",
+      "family": "Neyer",
+      "given": "Franz J."
+    },
+    {
+      "raw": "Anderson, Jared R.",
+      "family": "Anderson",
+      "given": "Jared R."
+    }
+  ],
+  "authors_text": "Johnson, Matthew D.; Neyer, Franz J.; Anderson, Jared R.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12580",
+  "doi_url": "https://doi.org/10.1111/jomf.12580",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12580",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12580.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

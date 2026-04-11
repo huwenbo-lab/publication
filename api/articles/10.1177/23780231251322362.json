@@ -1,0 +1,25 @@
+{
+  "title": "Neighborhood Poverty by Nativity in the Top 100 Metropolitan Areas (1970–2020)",
+  "abstract": "This visualization examines neighborhood poverty distributions for foreign-born and U.S.-born populations in the United States from 1970 to 2020. Although prior studies have often relied on binary thresholds such as 40 percent to define “high poverty” census tracts, the author highlights how immigrant-native inequality manifests across the full spectrum of tract poverty rates. In doing so, the author illuminates that inequality is most pronounced in tracts with poverty rates between 10 percent and 40 percent, where immigrants are overrepresented. However, inequality has decreased in recent decades as both groups have seen their distributions flatten. These temporal patterns may reflect demographic shifts in the composition of immigrants, as well as broader shifts in the spatial distribution of poverty. By visualizing the complete distribution of tract poverty rates, the author challenges conventional approaches to measuring neighborhood inequality and provides a richer understanding of residential contexts and immigrant incorporation.",
+  "authors": [
+    {
+      "raw": "Fernandez, Aaron Berman",
+      "family": "Fernandez",
+      "given": "Aaron Berman"
+    }
+  ],
+  "authors_text": "Fernandez, Aaron Berman",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251322362",
+  "doi_url": "https://doi.org/10.1177/23780231251322362",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251322362",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251322362.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

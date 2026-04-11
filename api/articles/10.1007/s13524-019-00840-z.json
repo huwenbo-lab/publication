@@ -1,0 +1,30 @@
+{
+  "title": "Using an Online Sample to Estimate the Size of an Offline Population",
+  "abstract": "Online data sources offer tremendous promise to demography and other social sciences, but researchers worry that the group of people who are represented in online data sets can be different from the general population. We show that by sampling and anonymously interviewing people who are online, researchers can learn about both people who are online and people who are offline. Our approach is based on the insight that people everywhere are connected through in-person social networks, such as kin, friendship, and contact networks. We illustrate how this insight can be used to derive an estimator for tracking the digital divide in access to the Internet, an increasingly important dimension of population inequality in the modern world. We conducted a large-scale empirical test of our approach, using an online sample to estimate Internet adoption in five countries (n approximate to 15,000). Our test embedded a randomized experiment whose results can help design future studies. Our approach could be adapted to many other settings, offering one way to overcome some of the major challenges facing demographers in the information age.",
+  "authors": [
+    {
+      "raw": "Feehan, Dennis M.",
+      "family": "Feehan",
+      "given": "Dennis M."
+    },
+    {
+      "raw": "Cobb, Curtiss",
+      "family": "Cobb",
+      "given": "Curtiss"
+    }
+  ],
+  "authors_text": "Feehan, Dennis M.; Cobb, Curtiss",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00840-z",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00840-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00840-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00840-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

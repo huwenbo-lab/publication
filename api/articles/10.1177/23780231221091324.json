@@ -1,0 +1,35 @@
+{
+  "title": "U.S. State Policy Contexts and Physical Health among Midlife Adults",
+  "abstract": "The authors examine how state policy contexts may have contributed to unfavorable adult health in recent decades, using merged individual-level data from the 1993–2016 Behavioral Risk Factor Surveillance System ( n = 2,166,835) and 15 state-level policy domains measured annually on a conservative-to-liberal continuum. The authors examine associations between policy domains and health among adults 45 to 64 years old and assess how much of the associations are accounted for by adults’ socioeconomic, behavioral and lifestyle, and family factors. A more liberal version of the civil rights domain was associated with better health. It was disproportionately important for less educated adults and women, and its association with adult health was partly accounted for by educational attainment, employment, and income. Environment, gun safety, and marijuana policy domains were, to a lesser degree, predictors of health in some model specifications. In sum, health improvements require a greater focus on macro-level factors that shape the conditions in which people live.",
+  "authors": [
+    {
+      "raw": "Kemp, Blakelee R.",
+      "family": "Kemp",
+      "given": "Blakelee R."
+    },
+    {
+      "raw": "Grumbach, Jacob M.",
+      "family": "Grumbach",
+      "given": "Jacob M."
+    },
+    {
+      "raw": "Montez, Jennifer Karas",
+      "family": "Montez",
+      "given": "Jennifer Karas"
+    }
+  ],
+  "authors_text": "Kemp, Blakelee R.; Grumbach, Jacob M.; Montez, Jennifer Karas",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221091324",
+  "doi_url": "https://doi.org/10.1177/23780231221091324",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221091324",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221091324.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

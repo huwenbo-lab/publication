@@ -1,0 +1,30 @@
+{
+  "title": "Retirement Makes You Old? Causal Effect of Retirement on Biological Age",
+  "abstract": "Retirement is a crit i cal life event for older peo ple. Health schol ars have scru ti nized the health effects of retire ment, but its con se quences on age-related diseases and mor tal ity are unclear. We extend this body of research by inte grat ing measurements of biological age, representing the physiological decline preceding disease onset. Using data from the UK Biobank and a fuzzy regres sion dis con ti nu ity design, we esti mated the effects of retire ment on two bio marker-based bio log i cal age mea sures. Results showed that retire ment sig nificantly increases bio log i cal age for those induced to retire by the State Pension eli gi bil ity by 0.871-2.503 years, depending on sex and spe cific bio log i cal age mea sure ment. Given the emerg ing sci en tific dis cus sion about direct interventions to biological age to achieve additional improvements in population health, the pos i tive effect of retire ment on bio log i cal age has impor tant impli ca tions for an increase in the State Pension eli gi bil ity age and its poten tial con se quences on pop u la tion health, pub lic health care pol icy, and older peo ple's labor force par tic i pa tion. Overall, this study pro vi des novel empir i cal evi dence con trib ut ing to the ques tion of what social fac tors make peo ple old.",
+  "authors": [
+    {
+      "raw": "Furuya, Shiro",
+      "family": "Furuya",
+      "given": "Shiro"
+    },
+    {
+      "raw": "Fletcher, Jason M.",
+      "family": "Fletcher",
+      "given": "Jason M."
+    }
+  ],
+  "authors_text": "Furuya, Shiro; Fletcher, Jason M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11380637",
+  "doi_url": "https://doi.org/10.1215/00703370-11380637",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11380637",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11380637.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "What Makes Popular Culture Popular? Product Features and Optimal Differentiation in Music",
+  "abstract": "In this article, we propose a new explanation for why certain cultural products outperform their peers to achieve widespread success. We argue that products' position in feature space significantly predicts their popular success. Using tools from computer science, we construct a novel dataset allowing us to examine whether the musical features of nearly 27,000 songs from Billboard's Hot 100 charts predict their levels of success in this cultural market. We find that, in addition to artist familiarity, genre affiliation, and institutional support, a song's perceived proximity to its peers influences its position on the charts. Contrary to the claim that all popular music sounds the same, we find that songs sounding too much like previous and contemporaneous productions-those that are highly typical-are less likely to succeed. Songs exhibiting some degree of optimal differentiation are more likely to rise to the top of the charts. These findings offer a new perspective on success in cultural markets by specifying how content organizes product competition and audience consumption behavior.",
+  "authors": [
+    {
+      "raw": "Askin, Noah",
+      "family": "Askin",
+      "given": "Noah"
+    },
+    {
+      "raw": "Mauskapf, Michael",
+      "family": "Mauskapf",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Askin, Noah; Mauskapf, Michael",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1177/0003122417728662",
+  "doi_url": "https://doi.org/10.1177/0003122417728662",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122417728662",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122417728662.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

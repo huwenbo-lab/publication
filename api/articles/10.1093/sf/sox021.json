@@ -1,0 +1,30 @@
+{
+  "title": "Associational Participation and Network Expansion: Microcredit Self-Help Groups and Poor Women's Social Ties in Rural India",
+  "abstract": "Group-based microcredit has become a globally adopted anti-poverty intervention. An important institutional variant of this is the self-help group (SHG) model, where non-commercialized lending is done through neighborhood-based savings and lending associations. We examine the effect of women's participation in SHGs in India on their social networks and social capital. We use household survey data, including rich social network information from seventy-five villages in rural Karnataka. In a context where women's interactions are largely restricted to their kinship networks and heavily constrained by rural life and patriarchal norms, participation in SHGs provides opportunities for socially isolated women to form new relationships. Descriptive analyses show that SHG participants, despite being more socioeconomically disadvantaged than non-participants, have significantly more incoming ties from nonkin than both non-participant women and men. After using propensity score matching to model selection into microcredit associations, we find consistent evidence that SHG participants have significantly more ties from nonkin and that these ties originate from other participants. We conclude that relationships formed within SHGs extend beyond the group and constitute important social capital, as women form friendships, give each other advice, and exchange vital basic needs resources.",
+  "authors": [
+    {
+      "raw": "Davidson, Thomas",
+      "family": "Davidson",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Sanyal, Paromita",
+      "family": "Sanyal",
+      "given": "Paromita"
+    }
+  ],
+  "authors_text": "Davidson, Thomas; Sanyal, Paromita",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox021",
+  "doi_url": "https://doi.org/10.1093/sf/sox021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

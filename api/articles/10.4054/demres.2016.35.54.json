@@ -1,0 +1,30 @@
+{
+  "title": "Fertility expectations and residential mobility in Britain",
+  "abstract": "BACKGROUND It is plausible that people take into account anticipated changes in family size in choosing where to live. But estimation of the impact of anticipated events on current transitions in an event history framework is challenging because expectations must be measured in some way and, like indicators of past childbearing, expected future childbearing may be endogenous with respect to housing decisions. OBJECTIVE The objective of the study is to estimate how expected changes in family size affect residential movement in Great Britain in a way which addresses these challenges. METHODS We use longitudinal data from a mature 18-wave panel survey, the British Household Panel Survey, which incorporates a direct measure of fertility expectations. The statistical methods allow for the potential endogeneity of expectations in our estimation and testing framework. RESULTS We produce evidence consistent with the idea that past childbearing mainly affects residential mobility through expectations of future childbearing, not directly through the number of children in the household. But there is heterogeneity in response. In particular, fertility expectations have a much greater effect on mobility among women who face lower costs of mobility, such as private tenants. CONCLUSIONS Our estimates indicate that expecting to have a(nother) child in the future increases the probability of moving by about 0.036 on average, relative to an average mobility rate of 0.14 per annum in our sample. CONTRIBUTION Our contribution is to incorporate anticipation of future events into an empirical model of residential mobility. We also shed light on how childbearing affects mobility.",
+  "authors": [
+    {
+      "raw": "Ermisch, John",
+      "family": "Ermisch",
+      "given": "John"
+    },
+    {
+      "raw": "Steele, Fiona",
+      "family": "Steele",
+      "given": "Fiona"
+    }
+  ],
+  "authors_text": "Ermisch, John; Steele, Fiona",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.54",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.54",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.54",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.54.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

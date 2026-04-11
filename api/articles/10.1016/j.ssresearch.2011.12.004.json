@@ -1,0 +1,30 @@
+{
+  "title": "Modeling the impact of supra-structural network nodes: The case of anonymous syringe sharing and HIV among people who inject drugs",
+  "abstract": "Networks are well understood as crucial to the diffusion of HIV among injection drug users (IDUs), but quasi-anonymous risk nodes - such as shooting galleries - resist measurement and incorporation into empirical analyses of disease diffusion. Drawing on network data from 767 IDUs in Bushwick, Brooklyn, we illustrate the use of calibrated agent-based models (CABMs) to account for network structure, injection practices, and quasi-anonymous transmission in shooting galleries. Results confirm the importance of network structure and actor heterogeneity to the magnitude and speed of HIV transmission. Models further demonstrate that quasi-anonymous injections in shooting galleries increase the speed of HIV diffusion across the whole network and have the greatest impact on HIV seroconversion levels for IDUs at the network periphery. Shooting galleries are shown to be transmission hubs that operate independently of traceable structural ties, linking otherwise unconnected network components. CABMs potentially increase understandings of HIV diffusion dynamics by infusing computer simulations with empirical data.",
+  "authors": [
+    {
+      "raw": "Richardson, Lindsey",
+      "family": "Richardson",
+      "given": "Lindsey"
+    },
+    {
+      "raw": "Grund, Thomas",
+      "family": "Grund",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Richardson, Lindsey; Grund, Thomas",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2012,
+  "doi": "10.1016/j.ssresearch.2011.12.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2011.12.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2011.12.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2011.12.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

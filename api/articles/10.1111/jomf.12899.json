@@ -1,0 +1,35 @@
+{
+  "title": "One parent, two parents, one sex, two sexes: Public attitudes toward single and same-sex parents",
+  "abstract": "Objective: The aim of this study is to compare public opinion regarding single and same-sex parents. Background: Comparing attitudes about the effectiveness of single-parents to same-sex parents shows how much importance the public places on the number of parents compared to the sex of the parents; however, surprisingly little research examines attitudes about single and same-sex parenting ability. Method: We use data from the 2012 General Social Survey Family-and-Changing-Gender-Roles module (N similar to 1200) to compare perceptions of the effectiveness of single parents (vs. two parents) and same-sex parents (vs. a mother and a father). We construct a measure that captures whether individuals hold more positive attitudes about single parents or same-sex parents. We then rely on multivariate models to examine the impact of sociodemographic characteristics on these perceptions, and explore the influence of attitudes regarding gender, sexuality, and childcare policy. Results: Approximately half of the respondents provided similarly positive or negative responses regarding the effectiveness of single and same-sex parents; of the remaining half, slightly more provided higher ratings to single parents. Several sociodemographic factors-gender, age, marital status, region, and sexual minority status-significantly shape attitudes about same-sex and single parents in similar directions-although, in some cases, these factors also predict differences in these attitudes. For example, compared to men, women are more positive about both single parents and same-sex parents, but they still rate single parents higher. In contrast, other sociodemographic factors-notably, race/ethnicity and education-predict attitudes about same-sex and single parents, as well as the difference between these two parental types. Some of these patterns occur via respondents' religiosity. Of the attitudinal factors, attitudes regarding gender, sexuality, and childcare policy are linked to views regarding single parents and same-sex parents; however, only sexuality attitudes significantly and consistently differentiate views regarding single parents and same-sex parents. Conclusion: Views of single parents and same-sex parents often are not consistent with each other. Public assessments and comparisons of same-sex and single parents are shaped by sociodemographic and attitudinal factors, notably, attitudes regarding sexuality.",
+  "authors": [
+    {
+      "raw": "Cheng, Simon",
+      "family": "Cheng",
+      "given": "Simon"
+    },
+    {
+      "raw": "Kelley, Kristin",
+      "family": "Kelley",
+      "given": "Kristin"
+    },
+    {
+      "raw": "Powell, Brian",
+      "family": "Powell",
+      "given": "Brian"
+    }
+  ],
+  "authors_text": "Cheng, Simon; Kelley, Kristin; Powell, Brian",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2023,
+  "doi": "10.1111/jomf.12899",
+  "doi_url": "https://doi.org/10.1111/jomf.12899",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12899",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12899.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

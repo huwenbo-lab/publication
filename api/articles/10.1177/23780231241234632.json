@@ -1,0 +1,35 @@
+{
+  "title": "Predation and the Disproportionate Risk of Driver’s License Suspensions in Economically and Racially Marginalized Communities",
+  "abstract": "Millions of people have their driver’s licenses suspended each year when they do not pay traffic fines or appear in court, with significant and compounding consequences for their lives. The increased use of fines and fees has been likened to a predatory system that exploits the most vulnerable groups to fill state and local budget gaps. States have begun limiting suspensions for unpaid traffic tickets out of economic and racial equity concerns, but many still sanction drivers for failing to appear in court or comply with other regulations. Merging the full universe of New York Department of Motor Vehicles suspension records in 2017 with the American Community Survey at the zip code level, we find that Black, Hispanic, and economically disadvantaged communities were disproportionately impacted by both nonpayment and noncompliance suspensions. Predictive models suggest that reforms ending suspensions for both the failure to appear in traffic court and the failure to pay traffic tickets could substantially reduce these disparities.",
+  "authors": [
+    {
+      "raw": "Waller, Maureen R.",
+      "family": "Waller",
+      "given": "Maureen R."
+    },
+    {
+      "raw": "Rich, Peter",
+      "family": "Rich",
+      "given": "Peter"
+    },
+    {
+      "raw": "Robbins, Nathan L.",
+      "family": "Robbins",
+      "given": "Nathan L."
+    }
+  ],
+  "authors_text": "Waller, Maureen R.; Rich, Peter; Robbins, Nathan L.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241234632",
+  "doi_url": "https://doi.org/10.1177/23780231241234632",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241234632",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241234632.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

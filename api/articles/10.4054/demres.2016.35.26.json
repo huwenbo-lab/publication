@@ -1,0 +1,40 @@
+{
+  "title": "Prospects for the comparative study of international migration using quasi-longitudinal micro-data",
+  "abstract": "BACKGROUND Longitudinal micro-level data on international migration behavior is notoriously difficult to collect, but data collection efforts have become more frequent in recent years. However, comparative research on the patterns and processes of international migration remains quite rare, especially that which compares across regions. OBJECTIVE We highlight the promises and difficulties of comparative international migration research, by offering a detailed comparison of two prominent data collection efforts. METHODS We systematically review existing sources of longitudinal and quasi-longitudinal individual-level and household-level data on international migration. We then compare two widely used data sources: the Mexican Migration Project (MMP) and the Migration between Africa and Europe project (MAFE). RESULTS Data collection efforts are increasingly diverse, yet public accessibility to data remains limited. Also, comparability of data collected across settings can be complicated. In our MMP-MAFE analysis we show some ways in which comparability can be achieved. CONCLUSIONS A primary roadblock to international comparative research is that, with some exceptions, the public accessibility of data remains low. Even when data is public and surveys are modeled after one another, comparability is not easy due to necessary trade-offs in adapting surveys to local settings and to developments in the field.",
+  "authors": [
+    {
+      "raw": "Liu, Mao-Mei",
+      "family": "Liu",
+      "given": "Mao-Mei"
+    },
+    {
+      "raw": "Creighton, Mathew J.",
+      "family": "Creighton",
+      "given": "Mathew J."
+    },
+    {
+      "raw": "Riosmena, Fernando",
+      "family": "Riosmena",
+      "given": "Fernando"
+    },
+    {
+      "raw": "Baizan, Pau",
+      "family": "Baizan",
+      "given": "Pau"
+    }
+  ],
+  "authors_text": "Liu, Mao-Mei; Creighton, Mathew J.; Riosmena, Fernando; Baizan, Pau",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.26",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

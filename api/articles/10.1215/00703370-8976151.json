@@ -1,0 +1,30 @@
+{
+  "title": "Evaluating the Use of a Two-Step Gender Identity Measure in the 2018 General Social Survey",
+  "abstract": "In 2018, the General Social Survey (GSS) asked some respondents for their sex assigned at birth and current gender identity, in addition to the on-go-ing prac-tice of having survey interviewers code respondent sex. Between 0.44% and 0.93% of the respondents who were surveyed identified as transgender, identified with a gender that does not conventionally correspond to the sex they were assigned at birth, or identified the sex they were assigned at birth inconsistently with the interviewer's assessment of respondent sex. These re-sults corroborate previous estimates of the transgender population size in the United States. Furthermore, the implementation of these new questions mirrors the successful inclusion of other small populations represented in the GSS, such as lesbian, gay, and bisexual people, as well as Muslims, Buddhists, and Hindus. Data on transgender and gendernonconforming populations can be pooled together over time to assess these populations' attitudes, beliefs, behaviors, and social inequality patterns. We identified inconsistencies between interviewercoded sex, selfreported sex, and gender identity. As with the coding of race in the GSS, interviewer-coded assessments can mismatch respondents' self-reported identification. Our findings underscore the importance of continuing to ask respondents to selfreport gender identity separately from sex assigned at birth in the GSS and other surveys.",
+  "authors": [
+    {
+      "raw": "Lagos, Danya",
+      "family": "Lagos",
+      "given": "Danya"
+    },
+    {
+      "raw": "Compton, D'Lane",
+      "family": "Compton",
+      "given": "D'Lane"
+    }
+  ],
+  "authors_text": "Lagos, Danya; Compton, D'Lane",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8976151",
+  "doi_url": "https://doi.org/10.1215/00703370-8976151",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8976151",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8976151.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

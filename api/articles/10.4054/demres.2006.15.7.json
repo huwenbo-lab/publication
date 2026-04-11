@@ -1,0 +1,25 @@
+{
+  "title": "A general temporal data model and the structured population event history register",
+  "abstract": "At this time there are 37 demographic surveillance system sites active in sub-Saharan Africa, Asia and Central America, and this number is growing continuously. These sites and other longitudinal population and health research projects generate large quantities of complex temporal data in order to describe, explain and investigate the event histories of individuals and the populations they constitute. This article presents possible solutions to some of the key data management challenges associated with those data. The fundamental components of a temporal system are identified and both they and their relationships to each other are given simple, standardized definitions. Further, a metadata framework is proposed to endow this abstract generalization with specific meaning and to bind the definitions of the data to the data themselves. The result is a temporal data model that is generalized, conceptually tractable, and inherently contains a full description of the primary data it organizes. Individual databases utilizing this temporal data model can be customized to suit the needs of their operators without modifying the underlying design of the database or sacrificing the potential to transparently share compatible subsets of their data with other similar databases. A practical working relational database design based on this general temporal data model is presented and demonstrated. This work has arisen out of experience with demographic surveillance in the developing world, and although the challenges and their solutions are more general, the discussion is organized around applications in demographic surveillance. An appendix contains detailed examples and working prototype databases that implement the examples discussed in the text.",
+  "authors": [
+    {
+      "raw": "Clark, Samuel J.",
+      "family": "Clark",
+      "given": "Samuel J."
+    }
+  ],
+  "authors_text": "Clark, Samuel J.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2006,
+  "doi": "10.4054/demres.2006.15.7",
+  "doi_url": "https://doi.org/10.4054/demres.2006.15.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2006.15.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2006.15.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

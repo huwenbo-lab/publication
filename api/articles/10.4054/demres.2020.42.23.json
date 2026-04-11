@@ -1,0 +1,35 @@
+{
+  "title": "Visualizing fertility trends for 45 countries using composite lattice plots",
+  "abstract": "BACKGROUND The Human Fertility Database (HFD) and Human Fertility Collection (HFC) provide disaggregated data on age-specific fertility rates for 45 countries. These sources offer the opportunity to learn about the development of different pathways of transition to low fertility both within and between countries. OBJECTIVE The aim of this paper is to use composite fertility lattice plots, which combine information from different visualization techniques of the Lexis surface, namely level plots and contour plots, to explore changes in age-specific fertility rates (ASFRs) and the implied (period-based) cumulative cohort fertility rates (cumulative pseudo cohort fertility rates, CPCFRs) across countries and geographic regions. METHODS Through key examples we introduce a new refinement of the Lexis surface, combining level plots, which use colour/shade to indicate ASFRs, and contour lines to indicate fertility milestones for given cohorts (CPCFRs). We have also developed a web-based app to allow researchers to produce their own fertility Lexis surfaces. RESULTS Results show that once countries have fallen below a replacement fertility level, they tend to not return to it. Exceptions are Norway and the United States, which saw rising fertility rates for cohorts born after the 1950s and late 1960s respectively. The age-specific fertility trends, as well as broader political and socioeconomic conditions, are very different in these countries, suggesting different paths by which replacement fertility rates might be achieved. CONTRIBUTION Complex data visualizations show, in an intuitive way, how ASFRs are related to successive cohorts' fertility milestones (CPCFRs). Combining this information enables us to explore differences between countries and can make an important contribution to comparative fertility research.",
+  "authors": [
+    {
+      "raw": "Pattaro, Serena",
+      "family": "Pattaro",
+      "given": "Serena"
+    },
+    {
+      "raw": "Vanderbloemen, Laura",
+      "family": "Vanderbloemen",
+      "given": "Laura"
+    },
+    {
+      "raw": "Minton, Jonathan",
+      "family": "Minton",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Pattaro, Serena; Vanderbloemen, Laura; Minton, Jonathan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.23",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

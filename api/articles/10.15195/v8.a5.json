@@ -1,0 +1,30 @@
+{
+  "title": "A Model-Based Method for Detecting Persistent Cultural Change Using Panel Data",
+  "abstract": "Recent work argues that changes in people's responses to the same question over time should be thought of as reflecting a fixed baseline subject to temporary local influences, rather than durable changes in response to new information. Distinguishing between these two individual-level process-a settled dispositions model and an active updating model-is important because these individual-level processes underlie different theories of population-level social change. This article introduces an alternative method for adjudicating between these two models based on structural equation modeling. This model provides a close fit to the theoretical models outlined in previous work. Applying this method to more than 500 questions in the General Social Survey's three-wave panels, we find even stronger evidence than previous work that most survey responses reflect settled dispositions developed prior to adulthood.",
+  "authors": [
+    {
+      "raw": "Vaisey, Stephen",
+      "family": "Vaisey",
+      "given": "Stephen"
+    },
+    {
+      "raw": "Kiley, Kevin",
+      "family": "Kiley",
+      "given": "Kevin"
+    }
+  ],
+  "authors_text": "Vaisey, Stephen; Kiley, Kevin",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2021,
+  "doi": "10.15195/v8.a5",
+  "doi_url": "https://doi.org/10.15195/v8.a5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv8.a5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v8.a5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Racial Context, Black Immigration and the U.S. Black/White Health Disparity",
+  "abstract": "The United States' black/white health gap is an important consequence of racial inequality. The gap is large, shows little signs of declining, and explanations have been limited by lack of theory and data. A new direction that offers potential for theoretical development is a focus on black immigrants, a group that shares the same racial status as U.S.-born blacks but experiences significantly better health. Using new data on the 2000–2002 National Health Interview Surveys, we disaggregate black immigrants by region of birth and develop a thesis that emphasizes the interplay of selectivity and racial context of origin for understanding health disparities among black Americans, namely that majority white contexts have deleterious health effects. The results indicate that grouping together foreign-born blacks conceals important health differentials among this population. Compared to U.S.-born blacks, black immigrants from minority white (Africa, South America) and racially mixed (West Indies) regions have superior health, while those from majority white (Europe) regions fare no better. A similar gradient exists among black immigrants, with Africans faring the best, followed by South Americans, then West Indians, with European blacks having the poorest health. Though these findings are not the definitive test of our theory, they are suggestive. They point us to understanding the mechanisms in the United States — racial context — that worsen the health and well being of black Americans, foreign- and native-born alike.",
+  "authors": [
+    {
+      "raw": "Read, J. G.",
+      "family": "Read",
+      "given": "J. G."
+    },
+    {
+      "raw": "Emerson, M. O.",
+      "family": "Emerson",
+      "given": "M. O."
+    }
+  ],
+  "authors_text": "Read, J. G.; Emerson, M. O.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2005,
+  "doi": "10.1353/sof.2005.0120",
+  "doi_url": "https://doi.org/10.1353/sof.2005.0120",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2005.0120",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2005.0120.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

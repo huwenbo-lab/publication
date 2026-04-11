@@ -1,0 +1,35 @@
+{
+  "title": "Income Advantages of Poorly Qualified Immigrant Minorities: Why School Dropouts of Turkish Origin Earn More in Germany",
+  "abstract": "We investigate an often overlooked implication of the signalling model of statistical discrimination: if immigrant minorities' educational qualifications carry less signalling power, poorly qualified minority members should experience positive statistical discrimination. We argue that the lower signalling power stems from disadvantages associated with insufficient language skills and lack of supportive parental resources, which prevent minority students from achieving those educational qualifications that would reflect their high motivation and ambition. Yet, if education counts less, so does its lack. Using data from the German Microcensus, we compare log hourly personal income of 1.5th and 2nd generation Spa taussiedler and persons of Turkish origin with that of native Germans. Using (semi-parametric) generalized additive models, we find solid support for our claim that poorly qualified persons of Turkish origin experience income advantages; they frequently work in jobs for which they are under-qualified. Once different frequencies of over- and under-education are taken into account, no ethnic differences in educational returns remain. Our results extend to other comparable immigrant groups in Germany.",
+  "authors": [
+    {
+      "raw": "Schaeffer, Merlin",
+      "family": "Schaeffer",
+      "given": "Merlin"
+    },
+    {
+      "raw": "Hoehne, Jutta",
+      "family": "Hoehne",
+      "given": "Jutta"
+    },
+    {
+      "raw": "Teney, Celine",
+      "family": "Teney",
+      "given": "Celine"
+    }
+  ],
+  "authors_text": "Schaeffer, Merlin; Hoehne, Jutta; Teney, Celine",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcv091",
+  "doi_url": "https://doi.org/10.1093/esr/jcv091",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv091",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv091.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

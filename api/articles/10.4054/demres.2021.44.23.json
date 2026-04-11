@@ -1,0 +1,30 @@
+{
+  "title": "The paradox of change: Religion and fertility decline in South Korea",
+  "abstract": "BACKGROUND The scholarship on the association of religion and fertility has paid relatively little attention to East Asia, a region that has experienced rapid fertility declines. South Korea is an important setting to study this association as its fertility decreased dramatically and its population includes sizable shares of Buddhists, Catholics, and Protestants, as well as a large nonreligious segment. OBJECTIVE We analyze patterns of religious differentials in fertility and their changes between the era of near-replacement fertility and that of lowest-low fertility by relating these changing patterns to massive and rapid socioeconomic and cultural shifts in South Korean society. METHODS Using the pooled data from the 1985, 2005, and 2015 census samples, which cover the period of falling fertility first to near replacement and then to far below replacement levels, we fit zero-inflated Poisson models to test for differences in the number of children ever born between women with a religious affiliation and those without one as well as across religious affiliations. RESULTS Controlling for age and education, Catholics and Protestants had fewer children than did women with no religious affiliation in the mid-1980s, which was the transitional phase of fertility change. But in the posttransitional stage, two and three decades later, Catholic and Protestant women had more children than did the nonaffiliated. In comparison, Buddhist women, who had a similar number of children to that of the nonaffiliated until the mid-2000s, had more children than the nonaffiliated in the mid-2010s. CONTRIBUTIONS The findings shed light on the dynamic nature of the association between religious affiliation and reproduction in contexts of rapid and radical societal transformation by illustrating how evolving cultural meanings of religion may impact fertility outcomes.",
+  "authors": [
+    {
+      "raw": "Yoo, Sam Hyun",
+      "family": "Yoo",
+      "given": "Sam Hyun"
+    },
+    {
+      "raw": "Agadjanian, Victor",
+      "family": "Agadjanian",
+      "given": "Victor"
+    }
+  ],
+  "authors_text": "Yoo, Sam Hyun; Agadjanian, Victor",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.23",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

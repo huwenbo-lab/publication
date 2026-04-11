@@ -1,0 +1,35 @@
+{
+  "title": "Are schools the great equalizer? Cognitive inequality during the summer months and the school year",
+  "abstract": "How does schooling affect inequality in cognitive skills? Reproductionist theorists have argued that schooling plays an important role in reproducing and even exacerbating existing disparities. But seasonal comparison research has shown that gaps in reading and math skills grow primarily during summer vacation, suggesting that non-school factors (e.g., family and neighborhood) are the main source of inequality. Using the Early Childhood Longitudinal Study-Kindergarten Cohort of 1998-99, this article improves upon past seasonal estimates of school and non-school effects on cognitive skill gains. Like past research, this study considers how socioeconomic and racial/ethnic gaps in skills change when school is in session versus when it is not. This study goes beyond past research, however, by examining the considerable inequality in learning that is not associated with socioeconomic status and race. This unexplained inequality is more than 90 percent of the total inequality in learning rates, and it is much smaller during school than during summer. The results suggest, therefore, that schools serve as important equalizers: nearly every gap grows faster during summer than during school. The black/white gap, however, represents a conspicuous exception.",
+  "authors": [
+    {
+      "raw": "Downey, DB",
+      "family": "Downey",
+      "given": "DB"
+    },
+    {
+      "raw": "von Hippel, PT",
+      "family": "von Hippel",
+      "given": "PT"
+    },
+    {
+      "raw": "Broh, BA",
+      "family": "Broh",
+      "given": "BA"
+    }
+  ],
+  "authors_text": "Downey, DB; von Hippel, PT; Broh, BA",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2004,
+  "doi": "10.1177/000312240406900501",
+  "doi_url": "https://doi.org/10.1177/000312240406900501",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240406900501",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240406900501.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

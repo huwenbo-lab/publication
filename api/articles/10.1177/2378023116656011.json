@@ -1,0 +1,35 @@
+{
+  "title": "College Education and Sense of Control",
+  "abstract": "Although researchers routinely find a positive association between education and sense of control, it is unclear whether this association represents a causal connection or rather reflects correlations with unobserved factors related to family background and genetics. Using data on monozygotic twin pairs ( n = 231) from the National Longitudinal Study of Adolescent to Adult Health, the authors employ a twin-pair fixed-effects design that accounts for all unobserved shared factors between twin pairs. The results show that possessing a college degree was associated with a 0.79 standard deviation increase in sense of control relative to those with a high school degree or less. By providing the most conservative test of this causal pathway to date, the authors provide empirical support to theoretical arguments positing that educational effects on health are realized in part through increasing individual sense of control.",
+  "authors": [
+    {
+      "raw": "McFarland, Michael J.",
+      "family": "McFarland",
+      "given": "Michael J."
+    },
+    {
+      "raw": "Wagner, Brandon",
+      "family": "Wagner",
+      "given": "Brandon"
+    },
+    {
+      "raw": "Marklin, Scarlett",
+      "family": "Marklin",
+      "given": "Scarlett"
+    }
+  ],
+  "authors_text": "McFarland, Michael J.; Wagner, Brandon; Marklin, Scarlett",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2016,
+  "doi": "10.1177/2378023116656011",
+  "doi_url": "https://doi.org/10.1177/2378023116656011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023116656011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023116656011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

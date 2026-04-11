@@ -1,0 +1,40 @@
+{
+  "title": "Spatial Variation in the Quality of American Community Survey Estimates",
+  "abstract": "Social science research, public and private sector decisions, and allocations of federal resources often rely on data from the American Community Survey (ACS). However, this critical data source has high uncertainty in some of its most frequently used estimates. Using 2006-2010 ACS median household income estimates at the census tract scale as a test case, we explore spatial and nonspatial patterns in ACS estimate quality. We find that spatial patterns of uncertainty in the northern United States differ from those in the southern United States, and they are also different in suburbs than in urban cores. In both cases, uncertainty is lower in the former than the latter. In addition, uncertainty is higher in areas with lower incomes. We use a series of multivariate spatial regression models to describe the patterns of association between uncertainty in estimates and economic, demographic, and geographic factors, controlling for the number of responses. We find that these demographic and geographic patterns in estimate quality persist even after we account for the number of responses. Our results indicate that data quality varies across places, making cross-sectional analysis both within and across regions less reliable. Finally, we present advice for data users and potential solutions to the challenges identified.",
+  "authors": [
+    {
+      "raw": "Folch, David C.",
+      "family": "Folch",
+      "given": "David C."
+    },
+    {
+      "raw": "Arribas-Bel, Daniel",
+      "family": "Arribas-Bel",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Koschinsky, Julia",
+      "family": "Koschinsky",
+      "given": "Julia"
+    },
+    {
+      "raw": "Spielman, Seth E.",
+      "family": "Spielman",
+      "given": "Seth E."
+    }
+  ],
+  "authors_text": "Folch, David C.; Arribas-Bel, Daniel; Koschinsky, Julia; Spielman, Seth E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0499-1",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0499-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0499-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0499-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

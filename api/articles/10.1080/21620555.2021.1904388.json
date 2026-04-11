@@ -1,0 +1,35 @@
+{
+  "title": "Family background and curricular tracking among Taiwanese high school students",
+  "abstract": "Prior research studying the relationship between family background and curricular tracking estimates conditional logistic regressions without considering the sample selection, and finds small or non-robust effects. Given that sample selection bias may underestimate of the effects of family background on later schooling, we analyze Taiwan Education Panel Survey (TEPS) and compare models with and without adjusting the selection bias. We find that the effects of family background on curricular tracking become stronger in the Heckman two-stage probit model for selection bias than in the simple logistic regression. These results imply family background may play a more important role in students' curricular choice than documented in the literature.",
+  "authors": [
+    {
+      "raw": "Li, Jui-Chung Allen",
+      "family": "Li",
+      "given": "Jui-Chung Allen"
+    },
+    {
+      "raw": "Chang, Yi-Chun",
+      "family": "Chang",
+      "given": "Yi-Chun"
+    },
+    {
+      "raw": "Tsao, Jing-Yu",
+      "family": "Tsao",
+      "given": "Jing-Yu"
+    }
+  ],
+  "authors_text": "Li, Jui-Chung Allen; Chang, Yi-Chun; Tsao, Jing-Yu",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1080/21620555.2021.1904388",
+  "doi_url": "https://doi.org/10.1080/21620555.2021.1904388",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2021.1904388",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2021.1904388.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

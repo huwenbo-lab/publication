@@ -1,0 +1,30 @@
+{
+  "title": "The ‘Gender Face’ of Job Insecurity in France: An Individual- and Organizational-Level Analysis",
+  "abstract": "Admittedly, women have a more precarious situation on the job market than men, which would suggest that they feel more insecure. However, literature on subjective job insecurity (JI) is contradictory about the effect of gender on JI. This could be explained by both individual characteristics and labour market gendered segregation – the companies in which women and men work do not have the same characteristics, particularly in terms of strategy and workforce management. Previous literature on JI rarely addresses this phenomenon. We propose to better understand the ‘gender face’ of subjective JI combining individual and organizational characteristics. We utilize data from the 2017 REPONSE survey and generalized linear models, notably multi-level models. Our findings reveal that, although women hold more precarious jobs, they work in more protective organizations. Consequently, while women report an average lower level of JI, this difference disappears when controlling for individual and organizational variables.",
+  "authors": [
+    {
+      "raw": "Coron, Clotilde",
+      "family": "Coron",
+      "given": "Clotilde"
+    },
+    {
+      "raw": "Schmidt, Géraldine",
+      "family": "Schmidt",
+      "given": "Géraldine"
+    }
+  ],
+  "authors_text": "Coron, Clotilde; Schmidt, Géraldine",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2021,
+  "doi": "10.1177/0950017021995673",
+  "doi_url": "https://doi.org/10.1177/0950017021995673",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017021995673",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017021995673.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

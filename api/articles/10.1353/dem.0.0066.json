@@ -1,0 +1,30 @@
+{
+  "title": "Investigating the mechanism of marital mortality reduction: The transition to widowhood and quality of health care",
+  "abstract": "Abstract While it is well known that the widowed suffer increased mortality risks, the mechanism of this survival disadvantage is still under investigation. In this article, we examine the quality of health care as a possible link between widowhood and mortality using a unique data set of 475,313 elderly couples who were followed up for up to nine years. We address whether the transition to widowhood affects the quality of care that individuals receive and explore the extent to which these changes mediate the elevated mortality hazard for the widowed. We analyze six established measures of quality of health care in a fixed-effect framework to account for unobserved heterogeneity. Caregiving and acute bereavement during the transition to widowhood appear to distract individuals from taking care of their own health care needs in the short run. However, being widowed does not have long-term detrimental effects on individuals’ ability to sustain contact with the formal medical system. Moreover, the short-run disruption does not mediate the widowhood effect on mortality. Nevertheless, long after spousal death, men suffer from a decline in the quality of informal care, coordination between formal and informal care, and the ability to advocate and communicate in formal medical settings. These findings illustrate women’s centrality in the household production of health and identify important points of intervention in optimizing men’s adjustment to widowhood.",
+  "authors": [
+    {
+      "raw": "Jin, Lei",
+      "family": "Jin",
+      "given": "Lei"
+    },
+    {
+      "raw": "Chrisatakis, Nicholas A.",
+      "family": "Chrisatakis",
+      "given": "Nicholas A."
+    }
+  ],
+  "authors_text": "Jin, Lei; Chrisatakis, Nicholas A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0066",
+  "doi_url": "https://doi.org/10.1353/dem.0.0066",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0066",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0066.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

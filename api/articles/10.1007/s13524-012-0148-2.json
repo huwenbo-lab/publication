@@ -1,0 +1,40 @@
+{
+  "title": "Maternal Education, Birth Weight, and Infant Mortality in the United States",
+  "abstract": "Abstract This research determines whether the observed decline in infant mortality with socioeconomic level, operationalized as maternal education (dichotomized as college or more, versus high school or less), is due to its “indirect” effect (operating through birth weight) and/or to its “direct” effect (independent of birth weight). The data used are the 2001 U.S. national African American, Mexican American, and European American birth cohorts by sex. The analysis explores the birth outcomes of infants undergoing normal and compromised fetal development separately by using covariate density defined mixture of logistic regressions (CDDmlr). Among normal births, mean birth weight increases significantly (by 27–108 g) with higher maternal education. Mortality declines significantly (by a factor of 0.40–0.96) through the direct effect of education. The indirect effect of education among normal births is small but significant in three cohorts. Furthermore, the indirect effect of maternal education tends to increase mortality despite improved birth weight. Among compromised births, education has small and inconsistent effects on birth weight and infant mortality. Overall, our results are consistent with the view that the decrease in infant death by socioeconomic level is not mediated by improved birth weight. Interventions targeting birth weight may not result in lower infant mortality.",
+  "authors": [
+    {
+      "raw": "Gage, Timothy B.",
+      "family": "Gage",
+      "given": "Timothy B."
+    },
+    {
+      "raw": "Fang, Fu",
+      "family": "Fang",
+      "given": "Fu"
+    },
+    {
+      "raw": "O’Neill, Erin",
+      "family": "O’Neill",
+      "given": "Erin"
+    },
+    {
+      "raw": "DiRienzo, Greg",
+      "family": "DiRienzo",
+      "given": "Greg"
+    }
+  ],
+  "authors_text": "Gage, Timothy B.; Fang, Fu; O’Neill, Erin; DiRienzo, Greg",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0148-2",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0148-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0148-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0148-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

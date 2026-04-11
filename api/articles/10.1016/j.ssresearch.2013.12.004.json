@@ -1,0 +1,40 @@
+{
+  "title": "Online questionnaire development: Using film to engage participants and then gather attitudes towards the sharing of genomic data",
+  "abstract": "How can a researcher engage a participant in a survey, when the subject matter may be perceived as 'challenging' or even be totally unfamiliar to the participant? The Genomethics study addressed this via the creation and delivery of a novel online questionnaire containing 10 integrated films. The films documented various ethical dilemmas raised by genomic technologies and the survey ascertained attitudes towards these. Participants were recruited into the research using social media, traditional media and email invitation. The film-survey strategy was successful: 11,336 initial hits on the survey website led to 6944 completed surveys. Participants included from those who knew nothing of the subject matter through to experts in the field of genomics (61% compliance rate), 72% of participants answered every single question. This paper summarises the survey design process and validation methods applied. The recruitment strategy and results from the survey are presented elsewhere.",
+  "authors": [
+    {
+      "raw": "Middleton, A.",
+      "family": "Middleton",
+      "given": "A."
+    },
+    {
+      "raw": "Bragin, E.",
+      "family": "Bragin",
+      "given": "E."
+    },
+    {
+      "raw": "Morley, K.I.",
+      "family": "Morley",
+      "given": "K.I."
+    },
+    {
+      "raw": "Parker, M",
+      "family": "Parker",
+      "given": "M"
+    }
+  ],
+  "authors_text": "Middleton, A.; Bragin, E.; Morley, K.I.; Parker, M",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2014,
+  "doi": "10.1016/j.ssresearch.2013.12.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2013.12.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2013.12.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2013.12.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

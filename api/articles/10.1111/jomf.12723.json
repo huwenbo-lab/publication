@@ -1,0 +1,30 @@
+{
+  "title": "Explaining the Decline in Young Adult Sexual Activity in the United States",
+  "abstract": "Objective The main goal of this study is to identify the causes of the decline in sexual activity among young adults in the United States. Background The frequency with which young adults have sexual intercourse has declined over recent decades, but the sources of this trend are not well understood. Trends in economic insecurity, relationship formation, parental coresidence, use of electronic media, psychological distress, and alcohol consumption have all been suggested as possible causes. Method Logistic regression models of recent sexual activity were estimated using longitudinal data from the Transition to Adulthood Supplement of the Panel Study of Income Dynamics for respondents ages 18 to 23 (n = 3,213) spanning 2007 to 2017. Mediation analysis was performed to identify the explanatory factors that account for the decline in sexual activity. Fixed-effect logistic regression models were estimated for a subset of respondents (n = 655) to help identify causal effects. Results Of the possible explanations considered, the decline in the formation of romantic relationships and decreasing alcohol consumption are the most important, but declining earnings and increasing use of computer games also play important roles. Overall, the measured explanations explain three-quarters of the decline in young adult sexual activity. Within individuals, forming a romantic relationship, going to college, and alcohol consumption likely have causal effects on the probability of engaging in sexual intercourse. Conclusion Trends in the formation of romantic relationships, alcohol consumption, computer gaming, and earnings explain a substantial portion of the decline in young adult sexual activity.",
+  "authors": [
+    {
+      "raw": "Lei, Lei",
+      "family": "Lei",
+      "given": "Lei"
+    },
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    }
+  ],
+  "authors_text": "Lei, Lei; South, Scott J.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12723",
+  "doi_url": "https://doi.org/10.1111/jomf.12723",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12723",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12723.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

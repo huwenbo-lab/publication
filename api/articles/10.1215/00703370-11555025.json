@@ -1,0 +1,25 @@
+{
+  "title": "The Distribution of Carceral Harm: County-Level Jail Incarceration and Mortality by Race, Sex, and Age",
+  "abstract": "Jail incarceration remains an overlooked yet crucial component of the U.S. carceral system. Although a growing literature has examined the mortality costs asso ciated with residing in areas with high levels of incarceration, far less is known about how local jails shape this burden at the intersection of race, sex, and age. In this study, I examine the relationship between county-level jail incarceration and age-specific mortality for nonHispanic Black and White men and women, uniquely leveraging race specific jail rates to account for the unequal racial distribution of jail exposures. This study finds evidence of positive associations between mortality and jail incarceration: this association peaks in late adulthood (ages 50-64), when increases in jail rates are associated with roughly 3% increases in mortality across all race-sex groups. However, patterns vary at the intersection of race, sex, and age. In particular, I find more marked and consistent penalties among women than among men. Additionally, a distinctly divergent age pattern emerges among Black men, who face insignificant but negative associations at younger ages but steep penalties at older ages-significantly larger among those aged 65 or older relative to their White male and Black female counter parts. Evidence further suggests that the use of raceneutral incarceration measures in prior work may mask the degree of harm associated with carceral contexts, because the jail rate for the total population underestimates the association between jail rates and mortality across nearly all race-age-sex combinations. These findings highlight the need for future ecological research to differentiate between jail and prison incarcer ation, consider the demographic distribution of incarceration's harms, and incorporate racialized measures of exposure so that we may better capture the magnitude of harm associated with America's carceral state.",
+  "authors": [
+    {
+      "raw": "Luck, Anneliese N.",
+      "family": "Luck",
+      "given": "Anneliese N."
+    }
+  ],
+  "authors_text": "Luck, Anneliese N.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11555025",
+  "doi_url": "https://doi.org/10.1215/00703370-11555025",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11555025",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11555025.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Advances and innovations in methods for collecting egocentric network data",
+  "abstract": "This article reviews recent methodological research that bears on the collection of egocentric network data. It begins with background on setting egocentric network boundaries and principal types of instruments that obtain information about such networks. It then discusses innovations in data collection and studies of data quality. The bulk of these address questions about name generator instruments that obtain information about the alters and relationships in a subject's network. Among topics receiving substantial attention in recent research are mitigation of respondent burden, interviewer effects, survey mode, and the performance of name generators in longitudinal studies. Potentially fruitful innovations supplement conventional question-and-answer surveys with visual elements that promise to better engage respondents and reduce the demands that name generator-based data collection poses. We close by highlighting both accomplishments of this body of research and some open issues.",
+  "authors": [
+    {
+      "raw": "Marsden, Peter, V",
+      "family": "Marsden",
+      "given": "Peter, V"
+    },
+    {
+      "raw": "Hollstein, Betina",
+      "family": "Hollstein",
+      "given": "Betina"
+    }
+  ],
+  "authors_text": "Marsden, Peter, V; Hollstein, Betina",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2022.102816",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102816",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102816",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102816.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

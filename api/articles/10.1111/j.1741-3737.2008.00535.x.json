@@ -1,0 +1,30 @@
+{
+  "title": "Marriage and Socioeconomic Change in Contemporary Indonesia",
+  "abstract": "This study investigates the relationship between economic trends and entry into marriage in a rapidly developing setting. We examine Indonesian marriage in the 1990s, a decade of substantial economic growth followed by a sudden financial collapse in 1998. We use discrete‐time hazard models to analyze information on 4,078 women and 4,496 men from the Indonesia Family Life Survey. Although previous research has shown that marriages may be postponed after economic downturn, we find no evidence of such delays at the national level following the 1998 financial crisis. In contrast, we use regional wage rate data to show that entry into marriage is inversely related to economic growth throughout the decade for all women and for men from lower socioeconomic strata.",
+  "authors": [
+    {
+      "raw": "Nobles, Jenna",
+      "family": "Nobles",
+      "given": "Jenna"
+    },
+    {
+      "raw": "Buttenheim, Alison",
+      "family": "Buttenheim",
+      "given": "Alison"
+    }
+  ],
+  "authors_text": "Nobles, Jenna; Buttenheim, Alison",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2008,
+  "doi": "10.1111/j.1741-3737.2008.00535.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2008.00535.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2008.00535.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2008.00535.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

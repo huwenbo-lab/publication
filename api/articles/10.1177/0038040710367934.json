@@ -1,0 +1,30 @@
+{
+  "title": "School Sector and Student Achievement in the Era of Standards Based Reforms",
+  "abstract": "The authors examine whether standards based accountability reforms of the past two decades have closed the achievement gap among public and private high school students. They analyzed data from the Education Longitudinal Study (ELS) to examine sector differences in high school achievement in the era of standards based reforms. The authors found that students in Catholic and private secular schools enjoy greater math gains from 10th to 12th grade than comparable public school students. However, they found that these advantages are largely concentrated among more advanced math skills. Moreover, private school students took more academic math courses than public school students, even after controlling for family background and prior achievement. These differences in course taking accounted for most of the public-private difference in achievement gains.",
+  "authors": [
+    {
+      "raw": "Carbonaro, William",
+      "family": "Carbonaro",
+      "given": "William"
+    },
+    {
+      "raw": "Covay, Elizabeth",
+      "family": "Covay",
+      "given": "Elizabeth"
+    }
+  ],
+  "authors_text": "Carbonaro, William; Covay, Elizabeth",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2010,
+  "doi": "10.1177/0038040710367934",
+  "doi_url": "https://doi.org/10.1177/0038040710367934",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040710367934",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040710367934.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

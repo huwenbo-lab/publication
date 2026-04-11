@@ -1,0 +1,30 @@
+{
+  "title": "The surge in living alone among young and middle-aged adults: A decomposition analysis of the rise in one-person households in Germany, 1991 to 2021",
+  "abstract": "BACKGROUND Worldwide, the number of people living in a one-person household (OPH) is rising, and young and middle-aged adults play an essential role in this trend. Germany has one of Europe's highest rates of OPHs. Due to the country's unique sociohistorical background, this paper looks at a 30-year period to examine how the increase in OPHs among 20-54-year-old men and women has developed since German reunification. METHODS We use data from the German Microcensus from 1991 to 2021 to calculate the annual share of individuals living in an OPH. Following an algebraic decomposition approach proposed by Evelyn Kitagawa and adapted by Glenn Firebaugh, we split the sample into 13 5-year birth cohorts to examine the effects of within-cohort change and cohort replacement in the rising share of OPHs. RESULTS After German reunification, the increase in OPHs was first driven by within-cohort change, most likely caused by different mechanisms in East and West Germany. Since the mid to late 2000s, cohort replacement has become the main force behind the increase in OPHs. West German women deviate from this in showing only a moderate rise in OPHs almost entirely driven by cohort replacement throughout the 30 years analysed here. CONTRIBUTION Considering East-West and gender differences extends our knowledge of how structural factors add to the increase in OPHs. Living alone is not merely the result of individual choices but also of sociohistorical circumstances. Future research must consider that a growing number of adults will have experienced an episode of living alone at least once in their lifetime.",
+  "authors": [
+    {
+      "raw": "Oehrlein, Anne-Sophie",
+      "family": "Oehrlein",
+      "given": "Anne-Sophie"
+    },
+    {
+      "raw": "Wolf, Christof",
+      "family": "Wolf",
+      "given": "Christof"
+    }
+  ],
+  "authors_text": "Oehrlein, Anne-Sophie; Wolf, Christof",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.32",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

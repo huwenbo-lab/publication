@@ -1,0 +1,30 @@
+{
+  "title": "A Numbers Game: Quantification of Work, Auto-Gamification, and Worker Productivity",
+  "abstract": "Technological advances and the big-data revolution have facilitated fine-grained, high-frequency, low-cost measurement of individuals' work. Yet we understand little about the influences of suchquantification of workon workers' behavior and performance. This article investigates how and when quantification of work affects worker productivity. We argue that quantification affects worker productivity viaauto-gamification, or workers' inadvertent transformation of work into an independent, individual-level game. We further argue that quantification is likely to raise productivity in a context of simple work, where auto-gamification is motivating because quantified metrics adequately measure the work being performed. When work is complex, by contrast, quantification reduces productivity because quantified metrics cannot adequately measure the multifaceted work being performed, causing auto-gamification to be demotivating. To substantiate our argument, we study implementation of an RFID measurement technology that quantifies individual workers' output in real time at a garment factory in India. Qualitative evidence uncovers the auto-gamification mechanism and three conditions that enable it; a natural experiment tests the consequences of quantification of work for worker productivity. This article contributes to the study of quantification, work games, technology, and organizations, and we explore the policy implications of further quantification of work.",
+  "authors": [
+    {
+      "raw": "Ranganathan, Aruna",
+      "family": "Ranganathan",
+      "given": "Aruna"
+    },
+    {
+      "raw": "Benson, Alan",
+      "family": "Benson",
+      "given": "Alan"
+    }
+  ],
+  "authors_text": "Ranganathan, Aruna; Benson, Alan",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1177/0003122420936665",
+  "doi_url": "https://doi.org/10.1177/0003122420936665",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122420936665",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122420936665.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

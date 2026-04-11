@@ -1,0 +1,50 @@
+{
+  "title": "Sample selection bias in adult mortality estimates from mobile phone surveys: Evidence from 25 low- and middle-income countries",
+  "abstract": "BACKGROUND Mobile phone surveys are gaining traction in low- and middle-income countries, but mobile phone ownership (MPO) is not universal, potentially introducing sample selection bias in ensuing estimates. OBJECTIVE To evaluate MPO-associated sample selection bias in adult mortality estimates from sibling survival histories (SSH) administered to women of reproductive age. METHODS Using data from 25 Demographic and Health Surveys, we (1) used logistic regression to assess the association between MPO and sociodemographic background characteristics; (2) used SSH to compare the probability of dying in adulthood ( 45 q 15 ) in a general population sample of women of reproductive age and a subsample of women who own a mobile phone, (3) and evaluated the use of post-stratification weighting to correct bias in adult mortality estimates derived from the subsample of mobile phone owners. RESULTS MPO correlated with sociodemographic characteristics in a predictable fashion. Summary indices of adult mortality ( 45 q 15 ) using data on siblings from respondents who owned a mobile phone aligned with the general population estimate in 20 out of 25 countries. Significant bias was identified in Papua New Guinea, Burundi, Rwanda, Haiti, and Zimbabwe, with the estimate being typically lower when based on reports of mobile phone owners. Where it existed, bias was most pronounced at either end of the age spectrum (15-24 and 45-59). Post-stratification weighting alleviated this bias to levels that were no longer statistically significant, but the correction was not always in the desired direction. CONCLUSIONS MPO-associated selection bias in adult mortality estimates from SSH is generally modest. Post-stratification weighting on respondents' background characteristics does not always produce a correction in the expected direction and is to be used with caution.",
+  "authors": [
+    {
+      "raw": "Ahmed, Sahar",
+      "family": "Ahmed",
+      "given": "Sahar"
+    },
+    {
+      "raw": "Romero-Prieto, Julio",
+      "family": "Romero-Prieto",
+      "given": "Julio"
+    },
+    {
+      "raw": "Sanchez-Paez, David A.",
+      "family": "Sanchez-Paez",
+      "given": "David A."
+    },
+    {
+      "raw": "Masquelier, Bruno",
+      "family": "Masquelier",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Pullum, Thomas",
+      "family": "Pullum",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Reniers, Georges",
+      "family": "Reniers",
+      "given": "Georges"
+    }
+  ],
+  "authors_text": "Ahmed, Sahar; Romero-Prieto, Julio; Sanchez-Paez, David A.; Masquelier, Bruno; Pullum, Thomas; Reniers, Georges",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.37",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.37",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.37",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.37.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

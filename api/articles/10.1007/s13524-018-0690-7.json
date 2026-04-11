@@ -1,0 +1,35 @@
+{
+  "title": "Maybe Next Month? Temperature Shocks and Dynamic Adjustments in Birth Rates",
+  "abstract": "We estimate the effects of temperature shocks on birth rates in the United States between 1931 and 2010. We find that days with a mean temperature above 80A degrees F cause a large decline in birth rates 8 to 10 months later. Unlike prior studies, we demonstrate that the initial decline is followed by a partial rebound in births over the next few months, implying that populations mitigate some of the fertility cost by shifting conception month. This shift helps explain the observed peak in late-summer births in the United States. We also present new evidence that hot weather most likely harms fertility via reproductive health as opposed to sexual activity. Historical evidence suggests that air conditioning could be used to substantially offset the fertility costs of high temperatures.",
+  "authors": [
+    {
+      "raw": "Barreca, Alan",
+      "family": "Barreca",
+      "given": "Alan"
+    },
+    {
+      "raw": "Deschenes, Olivier",
+      "family": "Deschenes",
+      "given": "Olivier"
+    },
+    {
+      "raw": "Guldi, Melanie",
+      "family": "Guldi",
+      "given": "Melanie"
+    }
+  ],
+  "authors_text": "Barreca, Alan; Deschenes, Olivier; Guldi, Melanie",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0690-7",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0690-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0690-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0690-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

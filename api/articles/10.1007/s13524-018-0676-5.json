@@ -1,0 +1,30 @@
+{
+  "title": "Children and the Elderly: Wealth Inequality Among America's Dependents",
+  "abstract": "Life cycle theory predicts that elderly households have higher levels of wealth than households with children, but these wealth gaps are likely dynamic, responding to changes in labor market conditions, patterns of debt accumulation, and the overall economic context. Using Survey of Consumer Finances data from 1989 through 2013, we compare wealth levels between and within the two groups that make up America's dependents: the elderly and child households (households with a resident child aged 18 or younger). Over the observed period, the absolute wealth gap between elderly and child households in the United States increased substantially, and diverging trends in wealth accumulation exacerbated preexisting between-group disparities. Widening gaps were particularly pronounced among the least-wealthy elderly and child households. Differential demographic change in marital status and racial composition by subgroup do not explain the widening gap. We also find increasing wealth inequality within child households and the rise of a parental 1 %. During a time of overall economic growth, the elderly have been able to maintain or increase their wealth, whereas many of the least-wealthy child households saw precipitous declines. Our findings suggest that many child households may lack sufficient assets to promote the successful flourishing of the next generation.",
+  "authors": [
+    {
+      "raw": "Gibson-Davis, Christina M.",
+      "family": "Gibson-Davis",
+      "given": "Christina M."
+    },
+    {
+      "raw": "Percheski, Christine",
+      "family": "Percheski",
+      "given": "Christine"
+    }
+  ],
+  "authors_text": "Gibson-Davis, Christina M.; Percheski, Christine",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0676-5",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0676-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0676-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0676-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

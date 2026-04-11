@@ -1,0 +1,30 @@
+{
+  "title": "Comparing the social and spatial mobility across UK regions-Evidence from the 1958 and 1970 birth cohorts",
+  "abstract": "Recent years have seen emerging research into regional disparities in social mobility across Britain, with both scholars and government policies recognizing that life opportunities are closely linked to where people grow up. This study presents updated evidence that the problem of social mobility in the UK is related to regional geography. Using data from the 1958 National Child Development Study (NCDS) and the 1970 British Cohort Study (BCS), our analysis finds considerable differences in rates of occupational mobility, in both absolute and relative terms, across different regions of the UK. Building on research that shows the critical role of spatial mobility in understanding patterns of social mobility, we find that internal migration can potentially 'make up' for regional disparities in social mobility. This suggests social and spatial mobility interact and influence the measurement of social mobility across regions, which can make spatial disparities appear less significant. We also provide evidence of the South East acting as a regional 'escalator' providing better opportunities, but that this primarily serves migrants to the region rather than those who stay in the region throughout their careers.",
+  "authors": [
+    {
+      "raw": "Yu, Yang",
+      "family": "Yu",
+      "given": "Yang"
+    },
+    {
+      "raw": "Athey, Thomas",
+      "family": "Athey",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Yu, Yang; Athey, Thomas",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100767",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100767",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100767",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100767.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

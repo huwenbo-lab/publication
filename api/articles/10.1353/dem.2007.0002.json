@@ -1,0 +1,30 @@
+{
+  "title": "Orphans and schooling in Africa: A longitudinal analysis",
+  "abstract": "Abstract AIDS deaths could have a major impact on economic development by affecting the human capital accumulation of the next generation. We estimate the impact of parent death on primary school participation using an unusual five-year panel data set of over 20,000 Kenyan children. There is a substantial decrease in school participation following a parent death and a smaller drop before the death (presumably due to pre-death morbidity). Estimated impacts are smaller in specifications without individual fixed effects, suggesting that estimates based on cross-sectional data are biased toward zero. Effects are largest for children whose mothers died and, in a novel finding, for those with low baseline academic performance.",
+  "authors": [
+    {
+      "raw": "Evans, David K.",
+      "family": "Evans",
+      "given": "David K."
+    },
+    {
+      "raw": "Miguel, Edward",
+      "family": "Miguel",
+      "given": "Edward"
+    }
+  ],
+  "authors_text": "Evans, David K.; Miguel, Edward",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0002",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

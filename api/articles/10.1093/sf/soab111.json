@@ -1,0 +1,35 @@
+{
+  "title": "Yes, You Can! Effects of Transparent Admission Standards on High School Track Choice: A Randomized Field Experiment",
+  "abstract": "High school track choice determines college access in many countries. We hypothesize that some qualified students avoid the college-bound track in high school simply because they overestimate admission requirements. To test this hypothesis, we conducted a randomized field experiment that communicated the admission standards of local secondary schools on the academic track to students in Hungary before the application deadline. We targeted the subset of students (seeds) who occupied the most central position in the classroom-social networks, aiming to detect both direct effects on the track choice of targeted seeds and spillover effects on their untreated peers. We found neither a direct effect nor a spillover effect on students' applications or admissions on average. Further analyses, however, revealed theoretically plausible heterogeneity in the direct causal effect of the intervention on the track choice of targeted seeds. Providing information about admission standards increased applications and admissions to secondary schools on the academic track among seeds who had a pre-existing interest in the academic track but were unsure of their chances of admission. This demonstrates that publicizing admissions standards can set students on a more ambitious educational trajectory. We discuss the implications for theory and policy.",
+  "authors": [
+    {
+      "raw": "Keller, Tamas",
+      "family": "Keller",
+      "given": "Tamas"
+    },
+    {
+      "raw": "Takacs, Karoly",
+      "family": "Takacs",
+      "given": "Karoly"
+    },
+    {
+      "raw": "Elwert, Felix",
+      "family": "Elwert",
+      "given": "Felix"
+    }
+  ],
+  "authors_text": "Keller, Tamas; Takacs, Karoly; Elwert, Felix",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab111",
+  "doi_url": "https://doi.org/10.1093/sf/soab111",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab111",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab111.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

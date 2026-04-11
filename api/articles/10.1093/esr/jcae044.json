@@ -1,0 +1,35 @@
+{
+  "title": "Discrimination in track recommendation but not in grading: experimental evidence among primary school teachers in Hungary",
+  "abstract": "This study examines discrimination in teacher assessments and track recommendations against Roma minority students in Hungary. We conducted a pre-registered randomized experiment among 413 primary school teachers. Participating teachers evaluated six mathematics or literacy and grammar tests with fictitious, randomized student names and recommended a high school track. Our results show mixed evidence for discrimination against Roma students: teachers do not discriminate in test evaluations but do so in high school track recommendations, though this latter effect is small. We find that contextual factors play a substantial role in discrimination in track recommendations: teachers who receive tests with fewer Roma than non-Roma names discriminate against Roma students, whereas teachers who receive tests with more Roma names do not. In the latter case, non-Roma students receive similarly low track recommendations as Roma students in both experimental conditions. The results are consistent with stereotype-based theories of discrimination.",
+  "authors": [
+    {
+      "raw": "Kisfalusi, Dorottya",
+      "family": "Kisfalusi",
+      "given": "Dorottya"
+    },
+    {
+      "raw": "Hermann, Zoltan",
+      "family": "Hermann",
+      "given": "Zoltan"
+    },
+    {
+      "raw": "Keller, Tamas",
+      "family": "Keller",
+      "given": "Tamas"
+    }
+  ],
+  "authors_text": "Kisfalusi, Dorottya; Hermann, Zoltan; Keller, Tamas",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcae044",
+  "doi_url": "https://doi.org/10.1093/esr/jcae044",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae044",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae044.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

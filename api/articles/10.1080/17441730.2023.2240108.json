@@ -1,0 +1,40 @@
+{
+  "title": "A pioneering study on measuring poverty in the hydrocarbon-rich state of Brunei Darussalam",
+  "abstract": "Poverty exists not only in low and middle-income countries but also in high-income countries. Brunei, a rich country heavily reliant on hydrocarbon in Southeast Asia, is not an exception. Though poverty is not a topic that is politically taboo in Brunei, there are no statistics on poverty in Brunei. Yet, having such statistics would aid the government to achieve the target of zero poverty in 2035. Therefore, this technical paper provides a pioneering estimation of poverty rates in Brunei, utilising published data from ‘Household Expenditure Surveys’ and focusing on the basic need approach. It calculates monthly household poverty rates based on the World Bank’s poverty lines and OECD median income approach. It produces poverty rates based on expenditure and income. The research employs two models: a proportional model and a refined model. The results show declining rates of poverty, regardless of the poverty lines and models.",
+  "authors": [
+    {
+      "raw": "Arifin, Evi Nurvidya",
+      "family": "Arifin",
+      "given": "Evi Nurvidya"
+    },
+    {
+      "raw": "Ananta, Aris",
+      "family": "Ananta",
+      "given": "Aris"
+    },
+    {
+      "raw": "Musa, Siti Fatimahwati Pehin Dato",
+      "family": "Musa",
+      "given": "Siti Fatimahwati Pehin Dato"
+    },
+    {
+      "raw": "Hoon, Chang-Yau",
+      "family": "Hoon",
+      "given": "Chang-Yau"
+    }
+  ],
+  "authors_text": "Arifin, Evi Nurvidya; Ananta, Aris; Musa, Siti Fatimahwati Pehin Dato; Hoon, Chang-Yau",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2023,
+  "doi": "10.1080/17441730.2023.2240108",
+  "doi_url": "https://doi.org/10.1080/17441730.2023.2240108",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2023.2240108",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2023.2240108.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

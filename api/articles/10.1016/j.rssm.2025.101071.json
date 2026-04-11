@@ -1,0 +1,30 @@
+{
+  "title": "Social network effects on educational inequality: The role of similarity bias in social influence",
+  "abstract": "How do social networks affect educational inequality? Previous theory suggests that inequality is reinforced by a lack of social influence between social groups, while intergroup social influence could diminish inequality. According to this view, friendships between students with different socioeconomic status (SES) might decrease educational inequality due to cross-SES social influence. An underlying assumption is that social influence occurs ubiquitously across all friendships. We challenge this assumption and suggest that friends with the same SES exert stronger influence on each other than friends with a dissimilar SES-a phenomenon known as similarity bias. We test whether similarity bias based on SES is relevant for social influence on educational aspirations using multilevel Stochastic Actor-Oriented Models on longitudinal data of 236 friendship networks in Germany and Sweden. Pointing towards similarity bias, our results show that social influence on educational aspirations is significantly stronger among same-SES friends than among cross-SES friends. Counterfactual simulations based on the SAOMs suggest that the absence of similarity bias would lead to decreases in the socioeconomic aspiration gap by up to 9 percent. We conclude that similarity bias can stabilize educational inequality even in socioeconomically mixed social settings.",
+  "authors": [
+    {
+      "raw": "Hovestadt, Till",
+      "family": "Hovestadt",
+      "given": "Till"
+    },
+    {
+      "raw": "Lorenz, Georg",
+      "family": "Lorenz",
+      "given": "Georg"
+    }
+  ],
+  "authors_text": "Hovestadt, Till; Lorenz, Georg",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101071",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "A diminishing population whose every cohort more than replaces itself",
+  "abstract": "We observe that a dynamic population model can have period fertility that is always below replacement and cohort fertility that is always above replacement. We ask whether such a paradoxical population will get larger or smaller, and show that it must",
+  "authors": [
+    {
+      "raw": "Schoen, Robert",
+      "family": "Schoen",
+      "given": "Robert"
+    },
+    {
+      "raw": "Jonsson, Stefan H.",
+      "family": "Jonsson",
+      "given": "Stefan H."
+    }
+  ],
+  "authors_text": "Schoen, Robert; Jonsson, Stefan H.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2003,
+  "doi": "10.4054/demres.2003.9.6",
+  "doi_url": "https://doi.org/10.4054/demres.2003.9.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2003.9.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2003.9.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

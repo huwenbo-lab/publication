@@ -1,0 +1,25 @@
+{
+  "title": "A New Research Agenda for Social Inequalities in Mortality: Challenges and Open Questions",
+  "abstract": "Research on mortality inequalities has proliferated in demography in recent decades, documenting disparities between nations and within them across multiple social dimensions. Yet, this literature remains largely descriptive and atheoretical. In this paper, I identify three open questions in need of theoretical development. First, I identify a general shift from gender (and race) based mortality inequalities to class-based inequalities across low-mortality countries. I argue that this shift may be better understood by focusing on the structural determinants of population health, in addition to explanations grounded in individual behavior and risk factors. Second, a growing body of literature has called for moving beyond group differences in life expectancy and adopting the concept of lifespan inequality. However, the drivers of lifespan inequality are not well understood. I argue that a comprehensive framework is needed for clarifying the interplay of nature, nurture, and chance in shaping variability in individual lifespans. Third, I draw attention to the causal role that mortality inequalities may play in driving social change. I argue that differential exposure to death in one's network of social relations may give rise to different modes of thinking, feeling, and acting, and in turn lead to group differences in preferences, actions, and outcomes.",
+  "authors": [
+    {
+      "raw": "Sasson, Isaac",
+      "family": "Sasson",
+      "given": "Isaac"
+    }
+  ],
+  "authors_text": "Sasson, Isaac",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.12717",
+  "doi_url": "https://doi.org/10.1111/padr.12717",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12717",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12717.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Estimating multiregional survivorship probabilities for sparse data: An application to immigrant populations in Australia, 1981-2011",
+  "abstract": "BACKGROUND Over 28% of the Australian population is born overseas. Understanding where immigrants have settled, and the relative attractiveness of these places in relation to others, is important for understanding the contributions of immigration to society and subnational population growth. However, subsequent demographic analyses of immigration to Australia is complicated because (1) the population is highly urbanised with over 80% living along the coast on an area roughly 3% of the country's land mass and (2) the diversity of immigration streams results in many immigrant populations with small population numbers. OBJECTIVE The objective of this research is to develop methods for overcoming irregularities in sparse data on age-specific mortality and internal migration to estimate small area multiregional life tables. These life tables are useful for studying the duration of time spent, expressed in years lived, by populations living in specific geographic areas. METHODS Multiregional life tables are calculated for different immigrant groups from 1981 to 2011 in Australia. To overcome sparse data, indirect estimation techniques are used to smooth, impose and infer age-specific probabilities of mortality and internal migration. RESULTS We find that the country or region of birthplace is an important factor in determining both settlement and subsequent internal migration. CONCLUSIONS Overcoming sparse data on mortality and internal migration allow for the study of the relative attractiveness of places over time for different immigrant populations in Australia. This information provides useful evidence for assessing the effectiveness of policies designed to encourage regional and rural settlement.",
+  "authors": [
+    {
+      "raw": "Baffour, Bernard",
+      "family": "Baffour",
+      "given": "Bernard"
+    },
+    {
+      "raw": "Raymer, James",
+      "family": "Raymer",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Baffour, Bernard; Raymer, James",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.18",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

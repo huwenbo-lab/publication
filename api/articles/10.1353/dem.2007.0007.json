@@ -1,0 +1,35 @@
+{
+  "title": "Child gender and father involvement in fragile families",
+  "abstract": "Abstract In this article, we use data from the first two waves of the Fragile Families and Child Wellbeing Study to examine the effects of child gender on father involvement and to determine if gender effects differ by parents’ marital status. We examine several indicators of father involvement, including whether the father acknowledges “ownership” of the child, whether the parents live together when the child is one year old, and whether the father provides financial support when the child is one year old. We find some evidence that child gender is associated with unmarried father involvement around the time of the child’s birth: sons born to unmarried parents are more likely than daughters to receive the father’s surname, especially if the mother has no other children. However, one year after birth, we find very little evidence that child gender is related to parents’ living arrangements or the amount of time or money fathers invest in their children. In contrast, and consistent with previous research, fathers who are married when their child is born are more likely to live with a son than with a daughter one year after birth. This pattern supports an interpretation of child gender effects based on parental beliefs about the importance of fathers for the long-term development of sons.",
+  "authors": [
+    {
+      "raw": "Lundberg, Shelly",
+      "family": "Lundberg",
+      "given": "Shelly"
+    },
+    {
+      "raw": "McLanahan, Sara",
+      "family": "McLanahan",
+      "given": "Sara"
+    },
+    {
+      "raw": "Rose, Elaina",
+      "family": "Rose",
+      "given": "Elaina"
+    }
+  ],
+  "authors_text": "Lundberg, Shelly; McLanahan, Sara; Rose, Elaina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0007",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Hurricane Flooding and Environmental Inequality: Do Disadvantaged Neighborhoods Have Lower Elevations?",
+  "abstract": "Most research on environmental inequality studies whether poor and minority neighborhoods are more exposed to environmental hazards in the form of pollution and waste. However, natural disasters, such as hurricanes, and their aftermaths are also important forms of environmental hazards and may disproportionally affect disadvantaged neighborhoods. Using data from Google Maps API and the American Community Survey, this study shows that poor neighborhoods in the Houston area tend to have lower elevations and thus may be more vulnerable to flooding. Further analyses show that this association persists even after controlling for latitude, longitude, and population density. Additionally, other types of neighborhood disadvantage, such as poverty and high concentration of racial-ethnic minorities and noncitizens, are also associated with lower elevations. Moreover, these patterns are common among most of the 20 largest metropolitan areas in the United States. These findings reveal a new dimension of environmental inequality and the consequences of spatially concentrated disadvantages.",
+  "authors": [
+    {
+      "raw": "Lu, Yuqi",
+      "family": "Lu",
+      "given": "Yuqi"
+    }
+  ],
+  "authors_text": "Lu, Yuqi",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2017,
+  "doi": "10.1177/2378023117740700",
+  "doi_url": "https://doi.org/10.1177/2378023117740700",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023117740700",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023117740700.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

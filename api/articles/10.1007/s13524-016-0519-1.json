@@ -1,0 +1,30 @@
+{
+  "title": "Incarceration and Household Asset Ownership",
+  "abstract": "A considerable literature documents the deleterious economic consequences of incarceration. However, little is known about the consequences of incarceration for household assets-a distinct indicator of economic well-being that may be especially valuable to the survival of low-income families-or about the spillover economic consequences of incarceration for families. In this article, we use longitudinal data from the Fragile Families and Child Wellbeing Study to examine how incarceration is associated with asset ownership among formerly incarcerated men and their romantic partners. Results, which pay careful attention to the social forces that select individuals into incarceration, show that incarceration is negatively associated with ownership of a bank account, vehicle, and home among men and that these consequences for asset ownership extend to the romantic partners of these men. These associations are concentrated among men who previously held assets. Results also show that post-incarceration changes in romantic relationships are an important pathway by which even short-term incarceration depletes assets.",
+  "authors": [
+    {
+      "raw": "Turney, Kristin",
+      "family": "Turney",
+      "given": "Kristin"
+    },
+    {
+      "raw": "Schneider, Daniel",
+      "family": "Schneider",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Turney, Kristin; Schneider, Daniel",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0519-1",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0519-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0519-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0519-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Generational and Sociodemographic Differences in the Impact of Educational Expectations on Bachelor’s Degree Completion: The Monitoring the Future Study",
+  "abstract": "Previous work has documented the rise of educational expectations among U.S. adolescents and the change in its ability to predict future educational attainment. However, studies have yet to examine these longitudinal changes across generational birth cohorts defined by ever-shifting social norms, cultural contexts, and social policies. Using Monitoring the Future Study panel data, we conducted cohort-stratified modified Poisson regression models to estimate the probability of bachelor’s degree completion by educational expectations overall and by gender, race and ethnicity, and parental educational attainment. We found that despite high educational expectations, non-Hispanic Black, Hispanic, and first-generation students had a low likelihood of bachelor’s degree completion. These relationships persisted across generational cohorts. These findings suggest that social and economic resources remain salient factors that structure educational opportunities for students from minoritized racial and ethnic backgrounds and first-generation students.",
+  "authors": [
+    {
+      "raw": "Buszkiewicz, James H.",
+      "family": "Buszkiewicz",
+      "given": "James H."
+    },
+    {
+      "raw": "Henderson, Andrea K.",
+      "family": "Henderson",
+      "given": "Andrea K."
+    },
+    {
+      "raw": "Xie, Yanmei",
+      "family": "Xie",
+      "given": "Yanmei"
+    },
+    {
+      "raw": "Patrick, Megan E.",
+      "family": "Patrick",
+      "given": "Megan E."
+    },
+    {
+      "raw": "Fleischer, Nancy L.",
+      "family": "Fleischer",
+      "given": "Nancy L."
+    }
+  ],
+  "authors_text": "Buszkiewicz, James H.; Henderson, Andrea K.; Xie, Yanmei; Patrick, Megan E.; Fleischer, Nancy L.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241275394",
+  "doi_url": "https://doi.org/10.1177/23780231241275394",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241275394",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241275394.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Are High-Immigrant Neighborhoods Disadvantaged in Seeking Local Government Services? Evidence from Baltimore City, Maryland",
+  "abstract": "To modernize public service delivery, U.S. communities increasingly rely on 311 systems for residents to request government services. Research on 311 systems is relatively new, and there is mixed evidence on whether 311 can help bridge the gap between disadvantaged communities and governments. This study draws from research on immigration, race/ethnicity, and differential engagement to explore the link between immigrant concentration and 311 usage. We use longitudinal data on 311 requests in Baltimore City, Maryland (2014-2019) and spatial panel regression analysis to show that neighborhood racial/ethnic structure and the national policy environment can significantly influence whether immigrant concentration is a barrier for 311 service-seeking. Specifically, we find that immigrant concentration reduces 311 requests in high-immigrant neighborhoods with Latino or Black concentration, but not in high-immigrant neighborhoods with White/Asian concentration. We also find that in Latino high-immigrant neighborhoods, the relationship between immigrant concentration and 311 requests appears mainly after 2017, when the federal government adopted hostile immigration policies. By establishing and contextualizing the relationship between immigrant concentration and 311 usage, the study contributes to a deeper understanding of civic participation and the connection between immigrant communities and government.",
+  "authors": [
+    {
+      "raw": "Xie, Min",
+      "family": "Xie",
+      "given": "Min"
+    },
+    {
+      "raw": "Mcdowall, David",
+      "family": "Mcdowall",
+      "given": "David"
+    },
+    {
+      "raw": "Houlihan, Sean",
+      "family": "Houlihan",
+      "given": "Sean"
+    }
+  ],
+  "authors_text": "Xie, Min; Mcdowall, David; Houlihan, Sean",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae030",
+  "doi_url": "https://doi.org/10.1093/sf/soae030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Local Ethnic Composition and Natives' and Immigrants' Geographic Mobility in France, 1982-1999",
+  "abstract": "This article provides empirical results on patterns of native and immigrant geographic mobility in France. Using longitudinal data, we measure mobility from one French municipality (commune) to another over time and estimate the effect of the initial municipality's ethnic composition on the probability of moving out. These data allow us to use panel techniques to correct for biases related to selection based on geographic and individual unobservables. Our findings tend to discredit the hypothesis of a white flight pattern in residential mobility dynamics in France. Some evidence does show ethnic avoidance mechanisms in natives' relocating. We also find a strong negative and highly robust effect of co-ethnics' presence on immigrants' geographic mobility.",
+  "authors": [
+    {
+      "raw": "Rathelot, Roland",
+      "family": "Rathelot",
+      "given": "Roland"
+    },
+    {
+      "raw": "Safi, Mirna",
+      "family": "Safi",
+      "given": "Mirna"
+    }
+  ],
+  "authors_text": "Rathelot, Roland; Safi, Mirna",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122413514750",
+  "doi_url": "https://doi.org/10.1177/0003122413514750",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122413514750",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122413514750.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

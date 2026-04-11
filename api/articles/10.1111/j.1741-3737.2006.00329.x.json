@@ -1,0 +1,25 @@
+{
+  "title": "Effects of Diverse Forms of Family Structure on Female and Male Homicide",
+  "abstract": "Utilizing 2000 data on 1,618 counties and seemingly unrelated regression, I assess whether family structure effects on homicide vary across family structure measures and gender. There is evidence of robust, multidimensional family structure effects across constructs reflecting the presence of two‐parent families: mother/father absence, shortages of employed men, and nonmarital/teen childbearing. Findings indicate mainly gender similarity in family structural sources of homicide, but subtle gender differences include stronger effects on male homicide patterns and female‐specific mediating effects of the care burden on homicide. Further exploration of diverse family constructs is warranted, but, methodologically, father absence is adequate as a control for family structure. Public policies and social programs aimed at strengthening families could lessen violence among both women and men.",
+  "authors": [
+    {
+      "raw": "Schwartz, Jennifer",
+      "family": "Schwartz",
+      "given": "Jennifer"
+    }
+  ],
+  "authors_text": "Schwartz, Jennifer",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2006,
+  "doi": "10.1111/j.1741-3737.2006.00329.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2006.00329.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2006.00329.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2006.00329.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

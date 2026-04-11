@@ -1,0 +1,30 @@
+{
+  "title": "The transition to adulthood in Europe at the intersection of gender and parental socioeconomic status",
+  "abstract": "BACKGROUND In Europe, the transition to adulthood has been steadily prolonged. Comparative studies have not addressed in detail the role of parental socioeconomic status (SES) and gender in the postponement of events linked to the transition to adulthood. OBJECTIVE Our aim is to evaluate whether the timing and the risk of experiencing home-leaving, labour market entry, first coresidential union, and first birth vary by gender and parental SES, while also considering variation across successive birth cohorts and country groups. METHODS We rely on data from two rounds (2006, 2018) of the European Social Survey, including key retrospective questions on the timing of events for individuals born in the 1950s- 1990s and living in 31 European countries. Non-parametric techniques and discrete-time event history models are used to model each event separately. Analyses are stratified by country group. RESULTS Results indicate that across Europe, high parental SES is positively associated with delayed labour market entry, union formation, and childbearing; the association with leaving the parental home is positive in Western and Northern Europe and negative or null in Eastern and Southern Europe. Women are more likely to experience all transitions before men, except for the first job, and this gap persists among younger generations. Gender differences are, however, substantially reduced among individuals with high-SES parents. CONTRIBUTION The paper contributes to the comparative literature on the transition to adulthood by focusing substantively on the intersection between gender and parental background and on the timing of events.",
+  "authors": [
+    {
+      "raw": "Ferraretto, Valeria",
+      "family": "Ferraretto",
+      "given": "Valeria"
+    },
+    {
+      "raw": "Vitali, Agnese",
+      "family": "Vitali",
+      "given": "Agnese"
+    }
+  ],
+  "authors_text": "Ferraretto, Valeria; Vitali, Agnese",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.23",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.23",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.23",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.23.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

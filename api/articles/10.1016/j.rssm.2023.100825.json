@@ -1,0 +1,30 @@
+{
+  "title": "Is older age more unequal than we think? Estimates from the Survey of Income and Program Participation linked to administrative records",
+  "abstract": "Despite increased scholarly and policy interest in income inequality, our knowledge of inequality in later life is relatively limited. One challenge to studying inequality in older age groups is that income sources that are important in later life, including pensions and retirement accounts, may be poorly captured by household income surveys. In this study, we investigate income inequality among the older population in the United States, focusing on how measurement error affects retirement income estimates and its impact on summary measures of inequality. We use a rich dataset that links respondents in the Survey of Income and Program Participation with restricted-use administrative records from the Social Security Administration and Internal Revenue Service. We find systematic, nonclassical measurement error in survey-reported retirement income, particularly from pen-sions and retirement accounts. Due to these patterns of measurement error, income inequality estimates are considerably higher using administrative records instead of survey-reported data. Additional analyses show the effects of measurement error when estimating between-and within-group inequality across racial-ethnic and education groups. The downward bias associated with measuring income inequality among older Americans could worsen in the future given the shift from defined-benefit to defined-contribution retirement plans.",
+  "authors": [
+    {
+      "raw": "Thompson, Daniel K.",
+      "family": "Thompson",
+      "given": "Daniel K."
+    },
+    {
+      "raw": "Tamborini, Christopher R.",
+      "family": "Tamborini",
+      "given": "Christopher R."
+    }
+  ],
+  "authors_text": "Thompson, Daniel K.; Tamborini, Christopher R.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100825",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100825",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100825",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100825.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

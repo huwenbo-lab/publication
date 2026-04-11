@@ -1,0 +1,45 @@
+{
+  "title": "Social capital and international migration: A test using information on family networks",
+  "abstract": "This article uses a multistate hazard model to test the network hypothesis of social capital theory. The effects of family network ties on individual migration are estimated while controlling for measured and unmeasured conditions that influence migration risks for all family members. Results suggest that social network effects are robust to the introduction of controls for human capital, common household characteristics, and unobserved conditions. Estimates also confirm the ancillary hypothesis, which states that diffuse social capital distributed among community and household members strongly influences the likelihood of out-migration, thus validating social capital theory in general and the network hypothesis in particular.",
+  "authors": [
+    {
+      "raw": "Palloni, A",
+      "family": "Palloni",
+      "given": "A"
+    },
+    {
+      "raw": "Massey, DS",
+      "family": "Massey",
+      "given": "DS"
+    },
+    {
+      "raw": "Ceballos, M",
+      "family": "Ceballos",
+      "given": "M"
+    },
+    {
+      "raw": "Espinosa, K",
+      "family": "Espinosa",
+      "given": "K"
+    },
+    {
+      "raw": "Spittel, M",
+      "family": "Spittel",
+      "given": "M"
+    }
+  ],
+  "authors_text": "Palloni, A; Massey, DS; Ceballos, M; Espinosa, K; Spittel, M",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2001,
+  "doi": "10.1086/320817",
+  "doi_url": "https://doi.org/10.1086/320817",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F320817",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/320817.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

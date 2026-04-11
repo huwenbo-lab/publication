@@ -1,0 +1,30 @@
+{
+  "title": "The Impact of the Flint Water Crisis on Fertility",
+  "abstract": "Flint switched its public water source in April 2014, increasing exposure to lead and other contaminants. We compare the change in the fertility rate and in health at birth in Flint before and after the water switch to the changes in other cities in Michigan. We find that Flint fertility rates decreased by 12 % and that overall health at birth decreased. This effect on health at birth is a function of two countervailing mechanisms: (1) negative selection of less healthy embryos and fetuses not surviving (raising the average health of survivors), and (2) those who survived being scarred (decreasing average health). We untangle this to find a net of selection scarring effect of 5.4 % decrease in birth weight. Because of long-term effects of in utero exposure, these effects are likely lower bounds on the overall effects of this exposure.",
+  "authors": [
+    {
+      "raw": "Grossman, Daniel S.",
+      "family": "Grossman",
+      "given": "Daniel S."
+    },
+    {
+      "raw": "Slusky, David J. G.",
+      "family": "Slusky",
+      "given": "David J. G."
+    }
+  ],
+  "authors_text": "Grossman, Daniel S.; Slusky, David J. G.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00831-0",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00831-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00831-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00831-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

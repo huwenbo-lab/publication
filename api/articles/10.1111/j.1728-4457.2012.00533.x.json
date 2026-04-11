@@ -1,0 +1,35 @@
+{
+  "title": "The Family Context of Cohabitation and Single Motherhood in Latin America",
+  "abstract": "The dramatic shift from marriage to cohabitation during the last four decades in most Latin American countries, even among the upper social strata, begs the question as to the living arrangements of cohabiting couples and single mothers. The new Family Interrelationships Variables in the IPUMS samples of Latin American censuses facilitated the construction of an enlarged LIPRO typology. LIPRO classifies individuals with respect to the types of households in which they are living. The results indicate that cohabiting women and single mothers aged 25 to 29 are frequently found in their parental households or in other extended or composite households. However, there are large variations depending on country and education. For instance, cohabitation is mainly in nuclear households, as in Europe, in Puerto Rico, Costa Rica, Brazil, and Argentina. It occurs mainly in the context of extended households in Peru, Bolivia, Colombia, Venezuela, Panama, and Cuba. Mexico and Chile occupy intermediate positions. In all instances co-residence of cohabiting couples with other kin drops significantly upon the transition to parenthood, at which point there are no longer any differences between cohabiting and married couples. Single mothers, however, continue to co-reside in extended or composite households to a larger extent, and this holds particularly for the better-educated among them. This analysis illustrates that cohabitation of the traditional type and of the Second Demographic Transition type are found alongside each other, with one being more important than the other depending on country and on educational level or social class within each country.",
+  "authors": [
+    {
+      "raw": "Esteve, Albert",
+      "family": "Esteve",
+      "given": "Albert"
+    },
+    {
+      "raw": "Garcia-Roman, Joan",
+      "family": "Garcia-Roman",
+      "given": "Joan"
+    },
+    {
+      "raw": "Lesthaeghe, Ron",
+      "family": "Lesthaeghe",
+      "given": "Ron"
+    }
+  ],
+  "authors_text": "Esteve, Albert; Garcia-Roman, Joan; Lesthaeghe, Ron",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2012,
+  "doi": "10.1111/j.1728-4457.2012.00533.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2012.00533.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2012.00533.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2012.00533.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

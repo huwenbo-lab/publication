@@ -1,0 +1,35 @@
+{
+  "title": "Segregated Neighborhoods, Segregated Schools: Do Charters Break a Stubborn Link?",
+  "abstract": "Residential and school segregation have historically mirrored each other, with school segregation seen as simply reflecting residential patterns given neighborhood-based school assignment policy. We argue that the relationship is circular, such that school options also influence residential outcomes. We hypothesize that the expansion of charter schools could simultaneously lead to an increase in school segregation and a decrease in residential segregation. We examine what happens when neighborhood and school options are decoupled via public school choice in the form of charter schools using data from the census and the Common Core of Data on a national sample of more than 1,500 metropolitan districts. We find that Black-White school segregation increased and residential segregation declined in response to increases in the charter enrollment share from 2000 to 2010. In districts with charter schools, the average increase in the charter enrollment share corresponded to a 12% increase in school segregation and 2% decline in residential segregation. We find no relationship between charter school expansion and school segregation between White and Hispanic students, perhaps because Hispanic students attend more racially diverse charters than White or Black students. White-Hispanic residential segregation declined as charter enrollment increased. Our results demonstrate that educational policy is consequential for both school and neighborhood population processes. When these two contexts are decoupled via public school choice, school and neighborhood segregation patterns move in opposite directions, rather than mirroring each other. Our findings also provide a cautionary lesson for unfettered expansion of choice without integration imperatives.",
+  "authors": [
+    {
+      "raw": "Rich, Peter",
+      "family": "Rich",
+      "given": "Peter"
+    },
+    {
+      "raw": "Candipan, Jennifer",
+      "family": "Candipan",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Owens, Ann",
+      "family": "Owens",
+      "given": "Ann"
+    }
+  ],
+  "authors_text": "Rich, Peter; Candipan, Jennifer; Owens, Ann",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9000820",
+  "doi_url": "https://doi.org/10.1215/00703370-9000820",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9000820",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9000820.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

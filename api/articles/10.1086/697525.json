@@ -1,0 +1,30 @@
+{
+  "title": "The Conversion of Cultural Tastes into Social Network Ties",
+  "abstract": "In recent years, sociologists have focused less on cultural tastes as effects of social structure and more on their causal efficacy in the creation and maintenance of social ties. Progress on this agenda has been hindered, however, by limitations in theory, methods, and available data. This article attempts to advance all three fronts. First, it clarifies, integrates, and expands upon prior work to develop a more comprehensive theoretical framework for examining the conversion of cultural tastes into social relationships. Second, it introduces a powerful network modeling tool, stochastic actor-based modeling, that is uniquely capable of implementing this framework. Third, it illustrates the utility of these advances using an original, longitudinal data set based on the behavior of a cohort of college students on Facebook. Findings from this application suggest several general substantive propositions about capital conversion, providing a starting point for future research.",
+  "authors": [
+    {
+      "raw": "Lewis, Kevin",
+      "family": "Lewis",
+      "given": "Kevin"
+    },
+    {
+      "raw": "Kaufman, Jason",
+      "family": "Kaufman",
+      "given": "Jason"
+    }
+  ],
+  "authors_text": "Lewis, Kevin; Kaufman, Jason",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2018,
+  "doi": "10.1086/697525",
+  "doi_url": "https://doi.org/10.1086/697525",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F697525",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/697525.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

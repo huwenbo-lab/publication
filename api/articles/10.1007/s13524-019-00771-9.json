@@ -1,0 +1,30 @@
+{
+  "title": "Causal Impact of Having a College Degree on Women's Fertility: Evidence From Regression Kink Designs",
+  "abstract": "An important factor speculated to affect fertility level is education. Theoretical predictions regarding whether education increases or decreases fertility are ambiguous. This study analyzes the causal impact of higher education on fertility using census data administered by Statistics Korea. To account for the endogeneity of education, this study exploits the Korean higher education reform initiated in 1993 that boosted women's likelihood of graduating from college. Based on regression kink designs, we find that having a college degree reduces the likelihood of childbirths by 23 percentage points and the total number of childbirths by 1.3. Analyses of possible mechanisms show that labor market-related factors are a significant channel driving the negative effects; female college graduates are more likely to be wage earners and more likely to have high-wage occupations.",
+  "authors": [
+    {
+      "raw": "Sohn, Hosung",
+      "family": "Sohn",
+      "given": "Hosung"
+    },
+    {
+      "raw": "Lee, Suk-Won",
+      "family": "Lee",
+      "given": "Suk-Won"
+    }
+  ],
+  "authors_text": "Sohn, Hosung; Lee, Suk-Won",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00771-9",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00771-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00771-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00771-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Poverty and the Dynamics of Social Networks: An Analysis of German Panel Data",
+  "abstract": "How do social relationships develop when people fall into poverty or suffer from poverty over a long period of time? While literature regarding poverty and social relationships exists, respective dynamics and causality questions remain unanswered. We use longitudinal German Socio-Economic Panel (GSOEP) data from 1992 to 2013 and analyse contact frequency, the size of social networks, as well as their composition (friends; family members; employed persons). Our results support central findings from cross-sectional studies with a longitudinal research design: contacts frequencies and the resource potential of a network decline; however, contacts to family members and the number of close friends remain unaffected. Additionally, we show that poverty negatively impacts social relationship patterns with a delay and in a non-linear fashion. Pure poverty consequences on social network patterns are rather small, but they are nevertheless existent, even when controlling for other life events (e.g. illness or unemployment) that are quite strongly related to social network issues.",
+  "authors": [
+    {
+      "raw": "Boehnke, Petra",
+      "family": "Boehnke",
+      "given": "Petra"
+    },
+    {
+      "raw": "Link, Sebastian",
+      "family": "Link",
+      "given": "Sebastian"
+    }
+  ],
+  "authors_text": "Boehnke, Petra; Link, Sebastian",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcx063",
+  "doi_url": "https://doi.org/10.1093/esr/jcx063",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx063",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx063.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

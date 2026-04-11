@@ -1,0 +1,40 @@
+{
+  "title": "How teachers form educational expectations for students: A comparative factorial survey experiment in three institutional contexts",
+  "abstract": "While schools are thought to use meritocratic criteria when evaluating students, research indicates that teachers hold lower expectations for students from disadvantaged backgrounds. However, it is unclear what the unique impact is of specific student traits on teacher expectations, as different traits are often correlated to one another in real life. Moreover, research has neglected the role of the institutional context, yet tracking procedures, financial barriers to education, and institutionalized cultural beliefs may influence how teachers form expectations. We conducted a factorial survey experiment in three contexts that vary with respect to these institutional characteristics (The United States, New York City; Norway, Oslo; the Netherlands, Amsterdam). We asked elementary school teachers to express expectations for hypothetical students whose characteristics were experimentally manipulated. Teachers in the different contexts used the same student traits when forming expectations, yet varied in the importance they attached to these traits. In Amsterdam - where teachers track students on the basis of their performance and tracking bears significant consequences for educational careers - we found a large impact of student performance. In Oslo - where institutions show an explicit commitment to equality of educational opportunity - teachers based their expectations less on student effort, and seemed to make more inferences about student performance by a student's socio-economic background. New York teachers seemed to make few inferences about student performance based on their socio-economic background.",
+  "authors": [
+    {
+      "raw": "Geven, Sara",
+      "family": "Geven",
+      "given": "Sara"
+    },
+    {
+      "raw": "Wiborg, Oyvind N.",
+      "family": "Wiborg",
+      "given": "Oyvind N."
+    },
+    {
+      "raw": "Fish, Rachel E.",
+      "family": "Fish",
+      "given": "Rachel E."
+    },
+    {
+      "raw": "van de Werfhorst, Herman G.",
+      "family": "van de Werfhorst",
+      "given": "Herman G."
+    }
+  ],
+  "authors_text": "Geven, Sara; Wiborg, Oyvind N.; Fish, Rachel E.; van de Werfhorst, Herman G.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102599",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102599",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102599",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102599.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

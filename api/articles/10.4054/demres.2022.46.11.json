@@ -1,0 +1,40 @@
+{
+  "title": "Divergent trends in lifespan variation during mortality crises",
+  "abstract": "BACKGROUND Lifespan variation has been attracting attention as a measure of population health and mortality. Several studies have highlighted its strong inverse relationship with life expectancy during periods of steady mortality decline, but this association weakens, and even reverses, when mortality does not improve equally over age. To date no study has comprehensively explored the behaviour of lifespan variation when mortality increases significantly. OBJECTIVE We investigate lifespan variation trends around various mortality crises, focusing on age-specific contributions and sex differences. METHODS Drawing data from the Human Mortality Database and Mesle and Vallin's Ukrainian lifetables, we analyse five European epidemics and famines across three centuries. We use six measures of lifespan variation and adopt the linear integral method of decomposition. RESULTS During these crises, relative lifespan variation increases, while absolute variation declines, and subsequently both quickly revert to pre-crisis levels. We show that mortality at older ages leads to a temporary increase in absolute - but not relative - variation. The lifespan variation of females is less affected than that of males, because of differences in the impact of infant and child mortality. CONCLUSIONS Even when infant mortality is high, mortality at older ages can influence lifespan variation. Our results also underscore the sex differences in the vulnerability of young individuals in periods of extreme mortality. CONTRIBUTION By underlining different trends of lifespan variation by sex and indicator, we offer new insight into the consequences of mortality crises. Contrary to what is often asserted, we show that the choice of lifespan variation indicator is not always inconsequential.",
+  "authors": [
+    {
+      "raw": "Vigezzi, Serena",
+      "family": "Vigezzi",
+      "given": "Serena"
+    },
+    {
+      "raw": "Aburto, Jose-Manuel",
+      "family": "Aburto",
+      "given": "Jose-Manuel"
+    },
+    {
+      "raw": "Permanyer, Inaki",
+      "family": "Permanyer",
+      "given": "Inaki"
+    },
+    {
+      "raw": "Zarulli, Virginia",
+      "family": "Zarulli",
+      "given": "Virginia"
+    }
+  ],
+  "authors_text": "Vigezzi, Serena; Aburto, Jose-Manuel; Permanyer, Inaki; Zarulli, Virginia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.11",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

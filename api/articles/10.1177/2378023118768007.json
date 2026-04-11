@@ -1,0 +1,35 @@
+{
+  "title": "Social Skill Dimensions and Career Dynamics",
+  "abstract": "All work is social, yet little is known about social skill dimensions or how social skill experiences accumulate across careers. Using occupational data (O*NET) on social tasks, the authors identify social skills’ latent dimensions. They find four main types: emotion, communication, coordination, and sales. O*NET provides skill importance scores for each occupation, which the authors link to individual careers (Panel Study of Income Dynamics). The authors then analyze cumulative skill exposure among three cohorts of workers using multitrajectory modeling. They find substantial variability in social skill experience across early-, middle-, and late-career workers. White, female, and highly educated workers are the most likely to accumulate social skill experience, net of total years of experience. Group differences in cumulative exposure to social skill are rooted in early-career experiences. This study enhances the understanding of social skill exposure across careers and has important implications for future research on social stratification and economic inequality.",
+  "authors": [
+    {
+      "raw": "Wyant, Amanda",
+      "family": "Wyant",
+      "given": "Amanda"
+    },
+    {
+      "raw": "Manzoni, Anna",
+      "family": "Manzoni",
+      "given": "Anna"
+    },
+    {
+      "raw": "McDonald, Steve",
+      "family": "McDonald",
+      "given": "Steve"
+    }
+  ],
+  "authors_text": "Wyant, Amanda; Manzoni, Anna; McDonald, Steve",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118768007",
+  "doi_url": "https://doi.org/10.1177/2378023118768007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118768007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118768007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

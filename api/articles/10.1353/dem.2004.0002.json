@@ -1,0 +1,40 @@
+{
+  "title": "Distinguishing the geographic levels and social dimensions of U.S. metropolitan segregation, 1960–2000",
+  "abstract": "Abstract In this article, we assess trends in residential segregation in the United States from 1960 to 2000 along several dimensions of race and ethnicity, class, and life cycle and present a method for attributing segregation to nested geographic levels. We measured segregation for metropolitan America using the Theil index, which is additively decomposed into contributions of regional, metropolitan, center city–suburban, place, and tract segregation. This procedure distinguishes whether groups live apart because members cluster in different neighborhoods, communities, metropolitan areas, or regions. Substantively, we found that the segregation of blacks decreased considerably after 1960 largely because neighborhoods became more integrated, but the foreign born became more segregated largely because they concentrated in particular metropolitan areas. Class segregation increased between 1970 and 1990 mainly because the affluent increasingly clustered in specific metropolitan areas and in specific municipalities within metropolitan areas. The unmarried increasingly congregated in center cities. The main purpose of this article is to describe and illustrate this multilevel approach to studying segregation.",
+  "authors": [
+    {
+      "raw": "Fischer, Claude S.",
+      "family": "Fischer",
+      "given": "Claude S."
+    },
+    {
+      "raw": "Stockmayer, Gretchen",
+      "family": "Stockmayer",
+      "given": "Gretchen"
+    },
+    {
+      "raw": "Stiles, Jon",
+      "family": "Stiles",
+      "given": "Jon"
+    },
+    {
+      "raw": "Hout, Michael",
+      "family": "Hout",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Fischer, Claude S.; Stockmayer, Gretchen; Stiles, Jon; Hout, Michael",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0002",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Book Review: Men in the Middle: Searching for Masculinity in the 1950s",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "De Oca, Jeffrey Montez",
+      "family": "De Oca",
+      "given": "Jeffrey Montez"
+    }
+  ],
+  "authors_text": "De Oca, Jeffrey Montez",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2006,
+  "doi": "10.1177/0891243206286471",
+  "doi_url": "https://doi.org/10.1177/0891243206286471",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243206286471",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243206286471.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

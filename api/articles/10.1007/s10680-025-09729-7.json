@@ -1,0 +1,30 @@
+{
+  "title": "Multiregional Population Forecasting: A Unifying Probabilistic Approach for Modelling the Components of Change",
+  "abstract": "Abstract In this article, we extend the multiregional cohort-component population projection model developed by Andrei Rogers and colleagues in the 1960s and 1970s to be fully probabilistic. The projections are based on forecasts of age-, sex- and region-specific fertility, mortality, interregional migration, immigration and emigration. The approach is unified by forecasting each demographic component of change by using a combination of log-linear models with bilinear terms. This research contributes to the literature by providing a flexible statistical modelling framework capable of incorporating the high dimensionality of the demographic components over time. The models also account for correlations across age, sex, regions and time. The result is a consistent and robust modelling platform for forecasting subnational populations with measures of uncertainty. We apply the model to forecast population for eight states and territories in Australia.",
+  "authors": [
+    {
+      "raw": "Wiśniowski, Arkadiusz",
+      "family": "Wiśniowski",
+      "given": "Arkadiusz"
+    },
+    {
+      "raw": "Raymer, James",
+      "family": "Raymer",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Wiśniowski, Arkadiusz; Raymer, James",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09729-7",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09729-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09729-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09729-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

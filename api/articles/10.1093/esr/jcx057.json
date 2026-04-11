@@ -1,0 +1,35 @@
+{
+  "title": "A Decomposition of Local Labour-Market Conditions and Their Relevance for Inequalities in Transitions to Vocational Training",
+  "abstract": "We investigate to what extent individual transitions to vocational training in Germany have been affected by local labour-market conditions. A statistical decomposition approach is developed and applied, allowing for a systematic differentiation between long-term change, short-term fluctuations, and structural regional differences in labour-market conditions. To study individual-level consequences for transitions to vocational training, regionalized labour-market data are merged with longitudinal data from the National Educational Panel Study, and multivariate transition-rate models are fitted. The results indicate that structural differences between regions have had significant effects on the transition behaviour of school leavers, whereas temporary crises have been of only minor relevance. Moreover, different groups have been affected to different degrees by varying labour-market conditions. We also highlight the usefulness of our decomposition approach for a broader set of applications.",
+  "authors": [
+    {
+      "raw": "Hillmert, Steffen",
+      "family": "Hillmert",
+      "given": "Steffen"
+    },
+    {
+      "raw": "Hartung, Andreas",
+      "family": "Hartung",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Wessling, Katarina",
+      "family": "Wessling",
+      "given": "Katarina"
+    }
+  ],
+  "authors_text": "Hillmert, Steffen; Hartung, Andreas; Wessling, Katarina",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcx057",
+  "doi_url": "https://doi.org/10.1093/esr/jcx057",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx057",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx057.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

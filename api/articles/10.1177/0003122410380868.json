@@ -1,0 +1,30 @@
+{
+  "title": "Racial Segregation and the American Foreclosure Crisis",
+  "abstract": "The rise in subprime lending and the ensuing wave of foreclosures was partly a result of market forces that have been well-identified in the literature, but it was also a highly racialized process. We argue that residential segregation created a unique niche of minority clients who were differentially marketed risky subprime loans that were in great demand for use in mortgage-backed securities that could be sold on secondary markets. We test this argument by regressing foreclosure actions in the top 100 U.S. metropolitan areas on measures of black, Hispanic, and Asian segregation while controlling for a variety of housing market conditions, including average creditworthiness, the extent of coverage under the Community Reinvestment Act, the degree of zoning regulation, and the overall rate of subprime lending. We find that black residential dissimilarity and spatial isolation are powerful predictors of foreclosures across U.S. metropolitan areas. To isolate subprime lending as the causal mechanism through which segregation influences foreclosures, we estimate a two-stage least squares model that confirms the causal effect of black segregation on the number and rate of foreclosures across metropolitan areas. We thus conclude that segregation was an important contributing cause of the foreclosure crisis, along with overbuilding, risky lending practices, lax regulation, and the bursting of the housing price bubble.",
+  "authors": [
+    {
+      "raw": "Rugh, Jacob S.",
+      "family": "Rugh",
+      "given": "Jacob S."
+    },
+    {
+      "raw": "Massey, Douglas S.",
+      "family": "Massey",
+      "given": "Douglas S."
+    }
+  ],
+  "authors_text": "Rugh, Jacob S.; Massey, Douglas S.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122410380868",
+  "doi_url": "https://doi.org/10.1177/0003122410380868",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410380868",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410380868.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The Impact of Economic Resources on Premarital Childbearing and Subsequent Marriage among Young American Women",
+  "abstract": "This paper extends previous work on premarital childbearing by modeling both the entry rates and the exit rates of unwed motherhood among young American women. In particular, I investigate the impact of economic resources on the likelihood of experiencing a premarital birth and then of subsequent marriage. Using a multiple-destination, multiple-spell hazard regression model and a microsimulation analysis, I analyze the accumulating effects of various economic variables. The results show that the economic resources are indeed important both for premarital childbearing and for subsequent marriage. However, the simulations show that large changes in these economic variables do not necessarily translate into large changes in nonmarital childbearing.",
+  "authors": [
+    {
+      "raw": "Aassve, Arnstein",
+      "family": "Aassve",
+      "given": "Arnstein"
+    }
+  ],
+  "authors_text": "Aassve, Arnstein",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.2307/3180814",
+  "doi_url": "https://doi.org/10.2307/3180814",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3180814",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3180814.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

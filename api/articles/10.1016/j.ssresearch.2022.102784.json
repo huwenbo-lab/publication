@@ -1,0 +1,25 @@
+{
+  "title": "Text mining for social science - The state and the future of computational text analysis in sociology",
+  "abstract": "The emergence of big data and computational tools has introduced new possibilities for using large-scale textual sources in sociological research. Recent work in sociology of culture, science, and economic sociology has shown how computational text analysis can be used in theory building and testing. This review starts with an introduction of the history of computer-assisted text analysis in sociology and then proceeds to discuss five families of computational methods used in contemporary research. Using exemplary studies, it shows how dictionary methods, semantic and network analysis tools, language models, unsupervised, and supervised machine learning can assist sociologists with different analytical tasks. After presenting recent methodological developments, this review summarizes several important implications of using large datasets and computational methods to infer complex meaning in texts. Finally, it calls researchers from different methodological traditions to adopt text mining tools while remaining mindful of lessons learned from working with conventional data and methods.",
+  "authors": [
+    {
+      "raw": "Macanovic, Ana",
+      "family": "Macanovic",
+      "given": "Ana"
+    }
+  ],
+  "authors_text": "Macanovic, Ana",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2022.102784",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102784",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102784",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102784.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Housework and Gender Inequality in European Countries",
+  "abstract": "The article focuses on the impact of religion and technological developments on the sharing of domestic work in European countries. Religious beliefs and practices have a significant impact on gender roles, as those who are more religious are more likely to support traditional gender work division. Some religions are more likely to encourage traditional family patterns, with the Christian Orthodox tradition having the most conservative views on gender roles, while Protestants are the most liberal. On the other hand, technological development has a direct impact on housework, by reducing the total amount of time dedicated to the domestic chores and by increasing the women's involvement in the formal labour market. Previous studies have provided explanations based either on relative resources theory, gender ideology or by combining them with some countries characteristics such as welfare regime or gender equality, when predicting a partner's contribution to chores. Using multi-level regression models, we will test the effect of country's level of technological development and of religious orientation on housework division in 24 European countries. The analysis reveals the importance of country's technological development, religious culture, and individual religious beliefs.",
+  "authors": [
+    {
+      "raw": "Voicu, M.",
+      "family": "Voicu",
+      "given": "M."
+    },
+    {
+      "raw": "Voicu, B.",
+      "family": "Voicu",
+      "given": "B."
+    },
+    {
+      "raw": "Strapcova, K.",
+      "family": "Strapcova",
+      "given": "K."
+    }
+  ],
+  "authors_text": "Voicu, M.; Voicu, B.; Strapcova, K.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1093/esr/jcn054",
+  "doi_url": "https://doi.org/10.1093/esr/jcn054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Trends in the Association between a College Education and Political Tolerance, 1976–2016",
+  "abstract": "In this data visualization, we use data from the General Social Survey to explore long-running trends in the association between a college education and political tolerance toward five groups. For tolerance toward militarists, anti-religionists, communists, and gay men, we show that the tolerance gap between college-educated and non–college educated individuals has narrowed, and this is largely attributable to increased tolerance among the non–college educated. We also find that the tolerance gap toward racists has narrowed; however, this is the result of decreased tolerance among college graduates.",
+  "authors": [
+    {
+      "raw": "Campbell, Colin",
+      "family": "Campbell",
+      "given": "Colin"
+    },
+    {
+      "raw": "Johnson, Jerry",
+      "family": "Johnson",
+      "given": "Jerry"
+    }
+  ],
+  "authors_text": "Campbell, Colin; Johnson, Jerry",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118805858",
+  "doi_url": "https://doi.org/10.1177/2378023118805858",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118805858",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118805858.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

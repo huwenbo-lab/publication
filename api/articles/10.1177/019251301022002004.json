@@ -1,0 +1,30 @@
+{
+  "title": "Low-Income Families in Their New Neighborhoods",
+  "abstract": "This article investigates short-term changes in neighborhood conditions for families moving from Chicago public housing as part of the Moving to Opportunity (MTO) demonstration program. MTO features a controlled experimental design and thus may be better suited, in the long run, than recent survey-based studies to elucidate the effects of neighborhood conditions on family and children's well-being. We focus on five key aspects of family well-being: neighborhood conditions, feelings of safety, experiences with crime, opportunities and risks for teenagers, and access to services. All mover families experienced significant improvements on each measure, yet those that were required to move to low-poverty neighborhoods experienced the greatest improvements. The only drawback to these low-poverty moves appears to be the relative isolation of the destination, particularly concerning access to public transportation; however, more intensive housing counseling might help families choose neighborhoods with better access to transportation and closer to other services.",
+  "authors": [
+    {
+      "raw": "ROSENBAUM, EMILY",
+      "family": "ROSENBAUM",
+      "given": "EMILY"
+    },
+    {
+      "raw": "HARRIS, LAURA E.",
+      "family": "HARRIS",
+      "given": "LAURA E."
+    }
+  ],
+  "authors_text": "ROSENBAUM, EMILY; HARRIS, LAURA E.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2001,
+  "doi": "10.1177/019251301022002004",
+  "doi_url": "https://doi.org/10.1177/019251301022002004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F019251301022002004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/019251301022002004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

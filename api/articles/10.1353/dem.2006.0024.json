@@ -1,0 +1,30 @@
+{
+  "title": "Death by survey: Estimating adult mortality without selection bias from sibling survival data",
+  "abstract": "Abstract The widely used methods for estimating adult mortality rates from sample survey responses about the survival of siblings, parents, spouses, and others depend crucially on an assumption that, as we demonstrate, does not hold in real data. We show that when this assumption is violated so that the mortality rate varies with sib ship size, mortality estimates can be massively biased. By using insights from work on the statistical analysis of selection bias, survey weighting, and extrapolation problems, we propose a new and relatively simple method of recovering the mortality rate with both greatly reduced potential for bias and increased clarity about the source of necessary assumptions.",
+  "authors": [
+    {
+      "raw": "Gakidou, Emmanuela",
+      "family": "Gakidou",
+      "given": "Emmanuela"
+    },
+    {
+      "raw": "King, Gary",
+      "family": "King",
+      "given": "Gary"
+    }
+  ],
+  "authors_text": "Gakidou, Emmanuela; King, Gary",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2006,
+  "doi": "10.1353/dem.2006.0024",
+  "doi_url": "https://doi.org/10.1353/dem.2006.0024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2006.0024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2006.0024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

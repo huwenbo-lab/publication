@@ -1,0 +1,30 @@
+{
+  "title": "Unequal Marriage Markets: Sex Ratios and First Marriage among Black and White Women",
+  "abstract": "Using the marital events data from the American Community Survey for the first time, we examine the association between the quantity and characteristics of unmarried men and first marriage for Black and White women ages 20 to 45. We incorporate both unmarried sex ratios and the economic status of unmarried men within each racial group using multilevel logistic models. We find higher marriage odds in markets with more (same-race) unmarried men, holding constant women’s own characteristics. In addition, local men’s education and employment rates also predict higher odds of White women’s first marriage. The findings imply that if White and Black women experienced similar unmarried sex ratios in their local markets, the gap in first marriage rates would be much smaller. We conclude that marriage promotion policies may be ineffective in part because they are targeting women who face structural barriers to marriage in their local marriage markets.",
+  "authors": [
+    {
+      "raw": "Cohen, Philip N.",
+      "family": "Cohen",
+      "given": "Philip N."
+    },
+    {
+      "raw": "Pepin, Joanna R.",
+      "family": "Pepin",
+      "given": "Joanna R."
+    }
+  ],
+  "authors_text": "Cohen, Philip N.; Pepin, Joanna R.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118791084",
+  "doi_url": "https://doi.org/10.1177/2378023118791084",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118791084",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118791084.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

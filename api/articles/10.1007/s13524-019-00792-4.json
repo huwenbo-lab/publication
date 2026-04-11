@@ -1,0 +1,40 @@
+{
+  "title": "Mind the Happiness Gap: The Relationship Between Cohabitation, Marriage, and Subjective Well-being in the United Kingdom, Australia, Germany, and Norway",
+  "abstract": "Many studies have found that married people have higher subjective well-being than those who are not married. Yet the increase in cohabitation raises questions as to whether only marriage has beneficial effects. In this study, we examine differences in subjective well-being between cohabiting and married men and women in midlife, comparing the United Kingdom, Australia, Germany, and Norway. We apply propensity score-weighted regression analyses to examine selection processes into marriage and differential treatment bias. We find no differences between cohabitation and marriage for men in the United Kingdom and Norway, and women in Germany. However, we do find significant differences for men in Australia and women in Norway. The differences disappear after we control for selection in Australia, but they unexpectedly persist for Norwegian women, disappearing only when we account for relationship satisfaction. For German men and British and Australian women, those with a lower propensity to marry would benefit from marriage. Controls eliminate differences for German men, although not for U.K. women, but relationship satisfaction reduces differences. Overall, our study indicates that especially after selection and relationship satisfaction are taken into account, differences between marriage and cohabitation disappear in all countries. Marriage does not lead to higher subjective well-being; instead, cohabitation is a symptom of economic and emotional strain.",
+  "authors": [
+    {
+      "raw": "Perelli-Harris, Brienna",
+      "family": "Perelli-Harris",
+      "given": "Brienna"
+    },
+    {
+      "raw": "Hoherz, Stefanie",
+      "family": "Hoherz",
+      "given": "Stefanie"
+    },
+    {
+      "raw": "Lappegard, Trude",
+      "family": "Lappegard",
+      "given": "Trude"
+    },
+    {
+      "raw": "Evans, Ann",
+      "family": "Evans",
+      "given": "Ann"
+    }
+  ],
+  "authors_text": "Perelli-Harris, Brienna; Hoherz, Stefanie; Lappegard, Trude; Evans, Ann",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00792-4",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00792-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00792-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00792-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

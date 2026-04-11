@@ -1,0 +1,30 @@
+{
+  "title": "Gender preferences and fertility: Investigating the case of Turkish immigrants in Germany",
+  "abstract": "BACKGROUND A plethora of emergent literature is investigating the prevalence of gender preferences among immigrant communities in Western industrialized countries. Such research not only sheds light on fertility preferences of immigrants but also unearths immigrant assimilation versus persistence processes. Germany has a long history of immigration but has maintained an ethnic assimilationist regime. Turkish immigrants form the largest immigrant community in Germany. We investigate the extent to which Turkish immigrants in Germany mirror the fertility preferences of the native population. OBJECTIVE We analyse whether the gender of the first and, subsequently, gender of the first and second child affect transition to second and third births, respectively, for non-immigrant and immigrant (Turkish) women in Germany. We further assess whether the significance of gender as a determinant of fertility progression varies across subsequent generations of immigrants. DATA AND METHODS We use Waves 1 and 2 of both the main German Generations and Gender Survey and the supplementary German-Turkish Generations and Gender Survey. We apply Kaplan-Meier survival analysis and Cox regression models to the non-immigrant (native) and immigrant (Turkish) sample in order to examine transitions to second and third births by gender of the first and first two children and immigration status. RESULTS We have two main results. First, Turkish immigrants in Germany exhibit son preference at the second and third birth parity. Second, son preference declines across subsequent generations of Turkish immigrants in Germany. CONCLUSION/CONTRIBUTION Although our results suggest that fertility preferences of Turkish immigrants in Germany converge with those of the native population over subsequent generations, we cannot conclusively deduce this given the unique nature of our data.",
+  "authors": [
+    {
+      "raw": "Ezdi, Sehar",
+      "family": "Ezdi",
+      "given": "Sehar"
+    },
+    {
+      "raw": "Bas, Ahmet Melik",
+      "family": "Bas",
+      "given": "Ahmet Melik"
+    }
+  ],
+  "authors_text": "Ezdi, Sehar; Bas, Ahmet Melik",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.3",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Tools for analysing fuzzy clusters of sequences data",
+  "abstract": "BACKGROUND Sequence analysis is a set of tools increasingly used in demography and other social sciences to analyse longitudinal categorical data. Typically, single (e.g., education trajectories) or multiple parallel temporal processes (e.g., work and family) are analysed by using crisp clustering algorithms that reduce complexity by partitioning cases into exhaustive and mutually exclusive groups. Crisp partitions can be problematic when clusters are not clearly separated, as is often the case in social-science applications. An effective alternative strategy is fuzzy clustering, allowing cases to belong to different clusters with a different degree of membership. OBJECTIVE We extend the scarce literature on fuzzy clustering of sequences to the analysis of multiple trajectories jointly unfolding over time. We illustrate how to properly apply fuzzy algorithms in this case. We propose some criteria (the fuzzy silhouette coefficients) to support the choice of the number of clusters to extract, and we introduce the gradient index plot to enhance the substantive interpretation of (multichannel) fuzzy-clustering results. METHODS We first describe the general features of fuzzy clustering applied to sequence data. We then use an illustrative example of multidomain sequence analysis applied to family and work trajectories to present the fuzzy silhouette coefficient and the gradient index plot. CONTRIBUTION These research materials provide practitioners with analytical and graphical tools that facilitate the use of fuzzy-clustering algorithms to address research questions concerning the link between the unfolding of multiple trajectories in sequence analysis, for demographic research and beyond.",
+  "authors": [
+    {
+      "raw": "Piccarreta, Raffaella",
+      "family": "Piccarreta",
+      "given": "Raffaella"
+    },
+    {
+      "raw": "Struffolino, Emanuela",
+      "family": "Struffolino",
+      "given": "Emanuela"
+    }
+  ],
+  "authors_text": "Piccarreta, Raffaella; Struffolino, Emanuela",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.16",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

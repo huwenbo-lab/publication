@@ -1,0 +1,50 @@
+{
+  "title": "Spatial heterogeneity in son preference across India's 640 districts: An application of small-area estimation",
+  "abstract": "BACKGROUND Son preference is culturally rooted across generations in India. While the social and economic implications of son preference are widely acknowledged, there is little evidence on spatial heterogeneity, especially at the district level.OBJECTIVE To derive estimates of son preference for the 640 districts of India and examine spatial heterogeneity in son preference across the districts of India.METHODS We apply model-based Small-Area Estimation (SAE) techniques, linking data from the 2015-2016 Indian National Family Health Survey and the 2011 Indian Population and Housing Census to generate district-level estimates of son preference.RESULTS The diagnostic measures confirm that the model-based estimates are robust enough to provide reliable estimates of son preference at the district level. Son preference is highest in the districts across northern and central Indian states, followed by districts in Gujarat and Maharashtra, and lowest in the southern districts in Telangana, Andhra Pradesh, Kerala, and Tamil Nadu. CONCLUSIONS There is considerable heterogeneity in son preference across Indian districts, often masked by state-level average estimates. Our findings warrant urgent policy interventions targeting specific districts in India to tackle the ongoing son-preference attitudes and practices.",
+  "authors": [
+    {
+      "raw": "Singh, Abhishek",
+      "family": "Singh",
+      "given": "Abhishek"
+    },
+    {
+      "raw": "Singh, Ashish",
+      "family": "Singh",
+      "given": "Ashish"
+    },
+    {
+      "raw": "Upadhyay, Ashish Kumar",
+      "family": "Upadhyay",
+      "given": "Ashish Kumar"
+    },
+    {
+      "raw": "Johnson, Fiifi Amoako",
+      "family": "Johnson",
+      "given": "Fiifi Amoako"
+    },
+    {
+      "raw": "Kumar, Kaushalendra",
+      "family": "Kumar",
+      "given": "Kaushalendra"
+    },
+    {
+      "raw": "Padmadas, Sabu S.",
+      "family": "Padmadas",
+      "given": "Sabu S."
+    }
+  ],
+  "authors_text": "Singh, Abhishek; Singh, Ashish; Upadhyay, Ashish Kumar; Johnson, Fiifi Amoako; Kumar, Kaushalendra; Padmadas, Sabu S.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.26",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

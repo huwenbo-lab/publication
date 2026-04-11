@@ -1,0 +1,25 @@
+{
+  "title": "Life Years Lost to Police Encounters in the United States",
+  "abstract": "How much life in the United States is lost to encounters with the police? The author builds on a demographic life table model by Edwards, Lee, and Esposito to estimate, for race- and gender-specific populations, how many years of life are lost in two categories of police encounters: (1) encounters involving officer use of force and (2) all deaths involving police encounters. Average life years lost by individuals who are killed ranges from 39 years (white men) to 52 years (Native women). The loss of years per 100,000 people over their collective lifetimes is largest for Black men, with 5,696 years of life lost to all encounters with police, of which 3,772 years are lost to police use of force. This implies a loss of roughly 16,000 years of life for recent cohorts of Black men. These results provide context for current debates surrounding the cost and necessity of protests.",
+  "authors": [
+    {
+      "raw": "Wrigley-Field, Elizabeth",
+      "family": "Wrigley-Field",
+      "given": "Elizabeth"
+    }
+  ],
+  "authors_text": "Wrigley-Field, Elizabeth",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120948718",
+  "doi_url": "https://doi.org/10.1177/2378023120948718",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120948718",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120948718.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

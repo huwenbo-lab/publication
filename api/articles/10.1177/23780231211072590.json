@@ -1,0 +1,25 @@
+{
+  "title": "Visualizing Intergenerational Immigrant Assimilation at Work",
+  "abstract": "The extent to which successive immigrant generations experience economic progress is a fundamental yardstick of assimilation and future ethnic stratification in the increasingly diverse societies of the rich West. In this regard, measuring how immigrants and local-born adult descendants of immigrants are distributed across different labor market segments provides clues about their relative assimilation into the mainstream economy. Drawing on linked employer-employee administrative data from Norway, the author uses heat plots to visualize differences in ethnic and socioeconomic characteristics of workplace contexts by immigrant background. The visualization reveals a striking overall pattern of intergenerational assimilation, whereby immigrant descendants are employed in workplaces that are more like those of nonmigrant natives in terms of immigrant concentration and, in particular, coworkers’ salaries, education, and occupational task profiles compared with the immigrant generation. However, less-successful members of the second generation found in workplaces with less prestigious job characteristics still experience disproportionate levels of ethnic workplace segregation.",
+  "authors": [
+    {
+      "raw": "Hermansen, Are Skeie",
+      "family": "Hermansen",
+      "given": "Are Skeie"
+    }
+  ],
+  "authors_text": "Hermansen, Are Skeie",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231211072590",
+  "doi_url": "https://doi.org/10.1177/23780231211072590",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211072590",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211072590.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

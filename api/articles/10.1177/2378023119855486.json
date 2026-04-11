@@ -1,0 +1,25 @@
+{
+  "title": "Visualizing Individual Outcomes of Social Mobility Using Heatmaps",
+  "abstract": "Research on the consequences of social mobility usually draws on information about categorical origin and destination variables as well as an outcome variable. The author shows an example of a heatmap created in Stata to visualize the relationship between social mobility and poor self-rated health in Germany and discusses the advantages of this heatmap approach to other visualization approaches.",
+  "authors": [
+    {
+      "raw": "Präg, Patrick",
+      "family": "Präg",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Präg, Patrick",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119855486",
+  "doi_url": "https://doi.org/10.1177/2378023119855486",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119855486",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119855486.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

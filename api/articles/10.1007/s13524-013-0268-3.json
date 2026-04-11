@@ -1,0 +1,45 @@
+{
+  "title": "Reporting Errors in Siblings’ Survival Histories and Their Impact on Adult Mortality Estimates: Results From a Record Linkage Study in Senegal",
+  "abstract": "Abstract Estimates of adult mortality in countries with limited vital registration (e.g., sub-Saharan Africa) are often derived from information about the survival of a respondent’s siblings. We evaluated the completeness and accuracy of such data through a record linkage study conducted in Bandafassi, located in southeastern Senegal. We linked at the individual level retrospective siblings’ survival histories (SSH) reported by female respondents (n = 268) to prospective mortality data and genealogies collected through a health and demographic surveillance system (HDSS). Respondents often reported inaccurate lists of siblings. Additions to these lists were uncommon, but omissions were frequent: respondents omitted 3.8 % of their live sisters, 9.1 % of their deceased sisters, and 16.6 % of their sisters who had migrated out of the DSS area. Respondents underestimated the age at death of the siblings they reported during the interview, particularly among siblings who had died at older ages (≥45 years). Restricting SSH data to person-years and events having occurred during a recent reference period reduced list errors but not age and date errors. Overall, SSH data led to a 20 % underestimate of 45q15 relative to HDSS data. Our study suggests new quality improvement strategies for SSH data and demonstrates the potential use of HDSS data for the validation of “unconventional” demographic techniques.",
+  "authors": [
+    {
+      "raw": "Helleringer, Stéphane",
+      "family": "Helleringer",
+      "given": "Stéphane"
+    },
+    {
+      "raw": "Pison, Gilles",
+      "family": "Pison",
+      "given": "Gilles"
+    },
+    {
+      "raw": "Kanté, Almamy M.",
+      "family": "Kanté",
+      "given": "Almamy M."
+    },
+    {
+      "raw": "Duthé, Géraldine",
+      "family": "Duthé",
+      "given": "Géraldine"
+    },
+    {
+      "raw": "Andro, Armelle",
+      "family": "Andro",
+      "given": "Armelle"
+    }
+  ],
+  "authors_text": "Helleringer, Stéphane; Pison, Gilles; Kanté, Almamy M.; Duthé, Géraldine; Andro, Armelle",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-013-0268-3",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0268-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0268-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0268-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Do the consequences of parental separation for children's educational success vary by parental education? The role of educational thresholds",
+  "abstract": "BACKGROUND Research shows that children's social background influences the extent to which they experience educational disadvantages when their parents separate. However, while some studies find larger separation penalties for children from lower social backgrounds than for children from higher backgrounds, other studies find the opposite. The present study builds on this research by examining heterogeneous parental separation effects by parental education for lower (mid-secondary) and higher (higher-secondary) educational thresholds.METHODS Analyses are based on a sample of children (and their siblings) born in the 1970s and 1960s (N = 6,855 children), drawn from the German Life History Study. A series of linear probability models are estimated; additional analyses include sibling-fixed-effects models.RESULTS No separation disadvantages for children from higher status backgrounds were found, for either outcome. Children from lower educational backgrounds had fewer chances of completing mid-secondary education; this was true to a lesser extent for higher-secondary education. Sibling fixed effects show the same pattern but also indicate that results may be partly due to unobserved family characteristics.CONTRIBUTION The findings of this study support the compensation perspective. In a context of high educational inequality and high socioeconomic disparities between children who experience parental separation and those who do not, children from lower educational backgrounds face the risk of not reaching mid-secondary and to a lesser extent higher -secondary education if their parents separate. Looking only at higher educational outcomes perhaps obscures unequal family separation consequences that may contribute to persistent educational inequalities.",
+  "authors": [
+    {
+      "raw": "Schulz, Wiebke",
+      "family": "Schulz",
+      "given": "Wiebke"
+    }
+  ],
+  "authors_text": "Schulz, Wiebke",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.28",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

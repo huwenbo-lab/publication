@@ -1,0 +1,25 @@
+{
+  "title": "Parental Investment After the Birth of a Sibling: The Effect of Family Size in Low-Fertility China",
+  "abstract": "A large body of research has examined the relationship between family size and child well-being in developing countries, but most of this literature has focused on the consequences of high fertility. The impact of family size in a low-fertility developing country context remains unknown, even though more developing countries are expected to reach below-replacement fertility levels. Set in China between 2010 and 2016, this study examines whether an increase in family size reduces parental investment received by the firstborn child. Using data from the China Family Panel Studies (CFPS), this study improves on previous research by using direct measures of parental investment, including monetary and nonmonetary investment, and distinguishing household-level from child-specific resources. It also exploits the longitudinal nature of the CFPS to mediate the bias arising from the joint determination of family size and parental investment. Results show that having a younger sibling significantly reduces the average household expenditure per capita. It also directly reduces parental investment received by the firstborn child, with two exceptions: (1) for firstborn boys, having a younger sister does not pose any competition; and (2) for firstborn children whose mothers have completed primary education or more, having a younger brother does not reduce parental educational aspirations for them. Findings from this study provide the first glimpse into how children fare as China transitions to a universal two-child policy regime but have wider implications beyond the Chinese context.",
+  "authors": [
+    {
+      "raw": "Chen, Shuang",
+      "family": "Chen",
+      "given": "Shuang"
+    }
+  ],
+  "authors_text": "Chen, Shuang",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00931-2",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00931-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00931-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00931-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

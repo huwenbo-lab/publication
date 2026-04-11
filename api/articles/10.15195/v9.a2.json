@@ -1,0 +1,25 @@
+{
+  "title": "Education and Social Fluidity: A Reweighting Approach",
+  "abstract": "Although sociologists have devoted considerable attention to studying the role of education in intergenerational social class mobility using log-linear models for contingency tables, indings in this literature are not free from rescaling or non-collapsibility bias caused by adjusting for education in these models. Drawing on the methodological literature on inverse probability reweighting, I present a straightforward standardization approach free from this bias. The approach reweighs in an initial step the mobility table cell frequencies to create a pseudo-population in which social class origins and education are independent of each other, after which one can apply any loglinear model to the reweighted mobility table. In contrast to the Karlson-Holm-Breen method, the approach yields coefficients that are comparable across different studies because they are unaffected by education's predictive power of class destinations. Moreover, the approach is easily applied to models for various types of mobility patterns such as those in the core model of fluidity; it yields a single summary measure of overall mediation; and it can incorporate several mediating variables, allowing researchers to control for additional merit proxies such as cognitive skills or potential confounders such as age. I illustrate the utility of the approach in four empirical examples.",
+  "authors": [
+    {
+      "raw": "Karlson, Kristian",
+      "family": "Karlson",
+      "given": "Kristian"
+    }
+  ],
+  "authors_text": "Karlson, Kristian",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2022,
+  "doi": "10.15195/v9.a2",
+  "doi_url": "https://doi.org/10.15195/v9.a2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv9.a2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v9.a2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

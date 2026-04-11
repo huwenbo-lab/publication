@@ -1,0 +1,25 @@
+{
+  "title": "Gender Peer Effects on Educational Achievement in Swedish Compulsory Schools: A Study of Contemporaneous and Cumulative Effects",
+  "abstract": "This article presents evidence on linear, nonlinear, and cumulative gender peer effects on test scores. The study utilizes exceptional Swedish data containing the history of the gender composition of students' classrooms from first to ninth grades. The analysis builds on school fixed effects with the added advantage of observing within-school variation in gender composition across actual classrooms. In contrast to what is often suggested in the literature, results show that gender composition does not uniformly affect boys and girls. More female-dominated classrooms slightly increase girls' and decrease boys' test scores, but these effects mainly concern students in classrooms with very skewed gender distributions. Moreover, effect sizes are very small, suggesting that classroom gender composition should not be a primary policy concern except when imbalances are large and cumulatively sustained. Findings also underscore the importance of accounting for nonlinearities and cumulative effects in research on gender peer effects.",
+  "authors": [
+    {
+      "raw": "Lenard, Tunde",
+      "family": "Lenard",
+      "given": "Tunde"
+    }
+  ],
+  "authors_text": "Lenard, Tunde",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2025,
+  "doi": "10.1177/00380407251391761",
+  "doi_url": "https://doi.org/10.1177/00380407251391761",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380407251391761",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380407251391761.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

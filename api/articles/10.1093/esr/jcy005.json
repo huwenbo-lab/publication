@@ -1,0 +1,30 @@
+{
+  "title": "Normative Change and Culture of Hate: An Experiment in Online Environments",
+  "abstract": "We present an online experiment in which we investigate the impact of perceived social acceptability on online hate speech, and measure the causal effect of specific interventions. We compare two types of interventions: counter-speaking (informal verbal sanctions) and censoring (deleting hateful content). The interventions are based on the belief that individuals infer acceptability from the context, using previous actions as a source of normative information. The interventions are based on the two conceptualizations found in the literature: (i) what do others normally do, i.e. descriptive norms; and (ii) what happened to those who violated the norm, i.e. injunctive norms. Participants were significantly less likely to engage in hate speech when prior hate content had been moderately censored. Our results suggest that norm adherence in online conversations might, in fact, be motivated by descriptive norms rather than injunctive norms. With this work we present some of the first experimental evidence investigating the social determinants of hate speech in online communities. The results could advance the understanding of the micro-mechanisms that regulate hate speech. Also, such findings can guide future interventions in online communities that help prevent the spread of hate.",
+  "authors": [
+    {
+      "raw": "Alvarez-Benjumea, Amalia",
+      "family": "Alvarez-Benjumea",
+      "given": "Amalia"
+    },
+    {
+      "raw": "Winter, Fabian",
+      "family": "Winter",
+      "given": "Fabian"
+    }
+  ],
+  "authors_text": "Alvarez-Benjumea, Amalia; Winter, Fabian",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy005",
+  "doi_url": "https://doi.org/10.1093/esr/jcy005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

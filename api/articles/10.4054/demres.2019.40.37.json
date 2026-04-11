@@ -1,0 +1,35 @@
+{
+  "title": "The living arrangements of Moroccans in Spain: Generation and time",
+  "abstract": "BACKGROUND Southern Europe experienced large-scale migration in the recent decades. Compared to regions with a longer migration history, the assimilation and socialization processes of family formation and age of childbearing for young adults of migrant background is underexplored. Spain, in particular, is now home to a burgeoning second generation of which little is known. OBJECTIVE This study explores the family living arrangements of Moroccans in Spain by migrant generation and time, using census microdata from the Integrated Public-Use Microdata Series International (IPUMS-i) and the Spanish Statistical Office (INE). We examine the living arrangements as an estimate for family processes for young adults of Moroccan origin between ages 20 to 34 separately by sex. METHODS Taking a cross-national perspective, we examine the level of coresidence with parent(s), spouse, and child(ren) for young adults aged 20 to 34 in three groups - Moroccans in Spain, nonmigrants in Morocco, and nonmigrants in Spain - using binomial logistic regression. RESULTS Results show that 1.5 and second generation Moroccan women transition into adulthood at younger ages than their Spanish counterparts, except for the ones who are highly educated. The differences in living arrangements between Moroccans in Spain and the nonmigrant Spanish population widened between 2001 to 2011, possibly due to the fact that coresidence with kin is subject to the influence of migrant stock flow. CONTRIBUTION We incorporated a region-of-origin approach in combination with classical assimilation and socialization theories to study migrant family processes in Spain by using living arrangement as a proxy.",
+  "authors": [
+    {
+      "raw": "Liu, Chia",
+      "family": "Liu",
+      "given": "Chia"
+    },
+    {
+      "raw": "Esteve, Albert",
+      "family": "Esteve",
+      "given": "Albert"
+    },
+    {
+      "raw": "Trevino, Rocio",
+      "family": "Trevino",
+      "given": "Rocio"
+    }
+  ],
+  "authors_text": "Liu, Chia; Esteve, Albert; Trevino, Rocio",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.37",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.37",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.37",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.37.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

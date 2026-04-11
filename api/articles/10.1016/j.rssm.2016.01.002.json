@@ -1,0 +1,30 @@
+{
+  "title": "Shadow education and educational inequality in South Korea: Examining effect heterogeneity of shadow education on middle school seniors' achievement test scores",
+  "abstract": "We examine the heterogeneous effects of private supplementary education, often called shadow education, on math test scores by propensity to use shadow education among middle school seniors in Korea. Our approach moves beyond existing studies that mostly assumed a uniform effect of shadow education across students of different characteristics. By applying two different propensity models stratification-multilevel and smoothing-differencing methods, we find that the effect of intense shadow education significantly varies by the likelihood of using shadow education. Specifically, the positive effect of intense math shadow education is much stronger for students who have a lower propensity to use shadow education than their counterparts with a higher propensity. Considering that students who are least likely to use shadow education tend to have disadvantaged social backgrounds, we discuss implications for educational inequality of our findings that show the largest benefits of shadow education for most disadvantaged students. (C) 2016 Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Choi, Yool",
+      "family": "Choi",
+      "given": "Yool"
+    },
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    }
+  ],
+  "authors_text": "Choi, Yool; Park, Hyunjoon",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2016,
+  "doi": "10.1016/j.rssm.2016.01.002",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2016.01.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2016.01.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2016.01.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

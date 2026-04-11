@@ -1,0 +1,35 @@
+{
+  "title": "Hiring the ideal remote worker: the gendered implications of the rise of remote work",
+  "abstract": "The COVID-19 pandemic precipitated the widespread adoption of remote and hybrid work arrangements. How will this change affect parental status gaps in hiring? We experimentally test hiring decision-makers' beliefs about companies' preferences (i.e., third-order beliefs) and their personal preferences (i.e., first-order beliefs) when evaluating mothers, childless women, fathers, and childless men applying to in-person, remote, and hybrid jobs. Participants believed companies would prefer childless women over mothers in all three job types and expected no significant penalties for fathers versus childless men. However, participants' own preferences varied across jobs: they preferred childless women over mothers applying for in-person jobs, but they held no significant preference for childless women or mothers in remote or hybrid jobs. In additional analyses of digital trace data, we show that the salience of parental status differs by job candidate gender and job type. Overall, our findings suggest meaningful variation in parental status hiring gaps across gender and core job features, with potential implications for gender inequality.",
+  "authors": [
+    {
+      "raw": "Daviss, Claire",
+      "family": "Daviss",
+      "given": "Claire"
+    },
+    {
+      "raw": "Williams-Baron, Emma",
+      "family": "Williams-Baron",
+      "given": "Emma"
+    },
+    {
+      "raw": "Macke, Erin",
+      "family": "Macke",
+      "given": "Erin"
+    }
+  ],
+  "authors_text": "Daviss, Claire; Williams-Baron, Emma; Macke, Erin",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf141",
+  "doi_url": "https://doi.org/10.1093/sf/soaf141",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf141",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf141.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

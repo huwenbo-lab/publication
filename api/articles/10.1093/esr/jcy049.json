@@ -1,0 +1,35 @@
+{
+  "title": "Contextual Effects on Populist Radical Right Support: Consensual Neighbourhood Effects and the Dutch PVV",
+  "abstract": "This study examines contextual effects on support for the Partij voor de Vrijheid (PVV), a Dutch populist radical right-wing party. It examines the two most frequently researched contextual effects, that of the local ethnic composition and of local economic conditions. Furthermore, it investigates the effect of the local normative context, through which people are hypothesised to be influenced by their neighbours' political views. Analysing survey data from The Netherlands Longitudinal Lifecourse Study using multilevel logistic regression, no effects are found for the local ethnic composition and local economic conditions after controlling for individual characteristics. In addition, PVV support is much lower in districts with higher shares of highly educated residents, which is in line with theories on consensual neighbourhood effects. This effect is found to be non-linear and only turns negative when around 25 per cent of the population of a district is highly educated. Additional analyses show that contact with neighbours, which is often assumed to explain this effect, is not a prerequisite for the effect to occur.",
+  "authors": [
+    {
+      "raw": "van Wijk, Daniel",
+      "family": "van Wijk",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Bolt, Gideon",
+      "family": "Bolt",
+      "given": "Gideon"
+    },
+    {
+      "raw": "Johnston, Ron",
+      "family": "Johnston",
+      "given": "Ron"
+    }
+  ],
+  "authors_text": "van Wijk, Daniel; Bolt, Gideon; Johnston, Ron",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcy049",
+  "doi_url": "https://doi.org/10.1093/esr/jcy049",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy049",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy049.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

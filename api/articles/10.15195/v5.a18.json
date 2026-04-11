@@ -1,0 +1,25 @@
+{
+  "title": "Network Evolution and Social Situations",
+  "abstract": "Studying the evolution of friendship networks has a long tradition in sociology. Multiple micromechanisms underlying friendship formation have been discovered, the most pervasive being reciprocity, transitivity, and homophily. Although each mechanism is studied in depth on its own, their relation to one another is rarely analyzed, and a theoretical framework that integrates research on all of them does not exist. This article introduces a friendship evolution model, which proposes that each micromechanism is related to interactions in different social situations. Based on this model, decreasing returns to embedding in multiple mechanisms are hypothesized. Complete social network data of adolescents and statistical network models are used to test these hypotheses. Results show a consistently negative interaction in line with the formulated model. The consequences of this negative relation between the network evolution mechanisms are explored in a simulation study, which suggests that this is a strong determinant of network-level integration and segregation.",
+  "authors": [
+    {
+      "raw": "Block, Per",
+      "family": "Block",
+      "given": "Per"
+    }
+  ],
+  "authors_text": "Block, Per",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2018,
+  "doi": "10.15195/v5.a18",
+  "doi_url": "https://doi.org/10.15195/v5.a18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv5.a18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v5.a18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

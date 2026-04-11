@@ -1,0 +1,45 @@
+{
+  "title": "Why education matters",
+  "abstract": "In this article, the authors assess why educational attainment is associated with many diverse social outcomes. Their multivariate models incorporate linear (years of schooling) and nonlinear (credentials) measures of schooling, socioeconomic status (origin and destination), and cognitive ability. The outcome variables include attitudes toward civil liberties and gender equality, social and cultural capital, and civic knowledge. The results indicate only modest evidence of credential effects. The mediating impacts of both cognitive ability and socioeconomic status (original and destination) are often substantial but even together do not account for all apparent educational effects..",
+  "authors": [
+    {
+      "raw": "Kingston, PW",
+      "family": "Kingston",
+      "given": "PW"
+    },
+    {
+      "raw": "Hubbard, R",
+      "family": "Hubbard",
+      "given": "R"
+    },
+    {
+      "raw": "Lapp, B",
+      "family": "Lapp",
+      "given": "B"
+    },
+    {
+      "raw": "Schroeder, P",
+      "family": "Schroeder",
+      "given": "P"
+    },
+    {
+      "raw": "Wilson, J",
+      "family": "Wilson",
+      "given": "J"
+    }
+  ],
+  "authors_text": "Kingston, PW; Hubbard, R; Lapp, B; Schroeder, P; Wilson, J",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2003,
+  "doi": "10.2307/3090261",
+  "doi_url": "https://doi.org/10.2307/3090261",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3090261",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3090261.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

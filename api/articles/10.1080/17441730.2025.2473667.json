@@ -1,0 +1,35 @@
+{
+  "title": "A gender gap in happiness: documenting a puzzle from Indian survey data",
+  "abstract": "Happiness studies from around the world find that women report greater happiness than men. Few studies investigate this gap in India, wherethere are important gender disparities in social, educational, economic, and health outcomes. We use WHO SAGE 2007-08 data to document gaps in self-reported happiness between men and women in middle and later adulthood. We find that women are 5 percentage points more likely to report being \"very happy\" or \"happy\" compared to men (0.60 vs. 0.55, p<0.01). We use descriptive figures and regression models to show that the gender gap in reported happiness increases after adjusting for differences in education, self-reported physical health, and paid employment. The fact these covariates correlate with happiness in the expected ways increases the credibility of the data and sharpens the puzzle. This study contributes the most comprehensive documentation to date of the gender gap in reported happiness in India. Considering the widespread and persistent nature of discrimination against women, these results should be interpreted with care. We consider what information future surveys would need to collect to better understand the reasons for these results.",
+  "authors": [
+    {
+      "raw": "Coffey, Diane",
+      "family": "Coffey",
+      "given": "Diane"
+    },
+    {
+      "raw": "Wang, Yiwen",
+      "family": "Wang",
+      "given": "Yiwen"
+    },
+    {
+      "raw": "Gupta, Aashish",
+      "family": "Gupta",
+      "given": "Aashish"
+    }
+  ],
+  "authors_text": "Coffey, Diane; Wang, Yiwen; Gupta, Aashish",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2025,
+  "doi": "10.1080/17441730.2025.2473667",
+  "doi_url": "https://doi.org/10.1080/17441730.2025.2473667",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2025.2473667",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2025.2473667.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

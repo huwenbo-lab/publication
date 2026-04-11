@@ -1,0 +1,30 @@
+{
+  "title": "Exploring the fertility trend in Egypt",
+  "abstract": "BACKGROUND The unusual fertility increase experienced by several Arab countries in the recent years is particularly visible in Egypt, where fertility declined very slowly after 2000 and started to increase again between 2008 and 2014. OBJECTIVE We first check the quality and measurement accuracy of Demographic and Health Surveys (DHS). The analysis confirms the trend since 2000. We descriptively look for possible underlying causes. METHODS We use quality criteria to check DHS data and control for tempo effect. We also perform a proximate determinants analysis to study the mechanisms affecting fertility, particularly marriage and contraceptive use patterns. RESULTS The trend in fertility, which has been at a level slightly below 3.5 children per woman since 2000, is due to an increase in parity one-to-three children and a steady decline in parity four-and-more children. While changes in contraception use had the largest and a growing suppressing effect before 2000, after the turn of the century there was no change in the impact of either marriage or contraception on fertility. CONCLUSIONS We find that well-educated women between 20 and 29 years lack labour market opportunities. They may have preponed their fertility. Fertility could start declining again once the labour market situation for women has improved. On the other hand, the family model of three children is still widespread in the country. CONTRIBUTION The article studies the fertility increase in Egypt. It contributes to the literature on exceptions to the demographic transition, such as stalls in fertility decline, particularly in the context of Arab countries.",
+  "authors": [
+    {
+      "raw": "Al Zalak, Zakarya",
+      "family": "Al Zalak",
+      "given": "Zakarya"
+    },
+    {
+      "raw": "Goujon, Anne",
+      "family": "Goujon",
+      "given": "Anne"
+    }
+  ],
+  "authors_text": "Al Zalak, Zakarya; Goujon, Anne",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.32",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

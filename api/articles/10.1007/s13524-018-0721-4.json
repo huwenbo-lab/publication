@@ -1,0 +1,40 @@
+{
+  "title": "Has Income Segregation Really Increased? Bias and Bias Correction in Sample-Based Segregation Estimates",
+  "abstract": "Several recent studies have concluded that residential segregation by income in the United States has increased in the decades since 1970, including a significant increase after 2000. Income segregation measures, however, are biased upward when based on sample data. This is a potential concern because the sampling rate of the American Community Survey (ACS)from which post-2000 income segregation estimates are constructedwas lower than that of the earlier decennial censuses. Thus, the apparent increase in income segregation post-2000 may simply reflect larger upward bias in the estimates from the ACS, and the estimated trend may therefore be inaccurate. In this study, we first derive formulas describing the approximate sampling bias in two measures of segregation. Next, using Monte Carlo simulations, we show that the bias-corrected estimators eliminate virtually all of the bias in segregation estimates in most cases of practical interest, although the correction fails to eliminate bias in some cases when the population is unevenly distributed among geographic units and the average within-unit samples are very small. We then use the bias-corrected estimators to produce unbiased estimates of the trends in income segregation over the last four decades in large U.S. metropolitan areas. Using these corrected estimates, we replicate the central analyses in four prior studies on income segregation. We find that the primary conclusions from these studies remain unchanged, although the true increase in income segregation among families after 2000 was only half as large as that reported in earlier work. Despite this revision, our replications confirm that income segregation has increased sharply in recent decades among families with children and that income inequality is a strong and consistent predictor of income segregation.",
+  "authors": [
+    {
+      "raw": "Reardon, Sean F.",
+      "family": "Reardon",
+      "given": "Sean F."
+    },
+    {
+      "raw": "Bischoff, Kendra",
+      "family": "Bischoff",
+      "given": "Kendra"
+    },
+    {
+      "raw": "Owens, Ann",
+      "family": "Owens",
+      "given": "Ann"
+    },
+    {
+      "raw": "Townsend, Joseph B.",
+      "family": "Townsend",
+      "given": "Joseph B."
+    }
+  ],
+  "authors_text": "Reardon, Sean F.; Bischoff, Kendra; Owens, Ann; Townsend, Joseph B.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0721-4",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0721-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0721-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0721-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

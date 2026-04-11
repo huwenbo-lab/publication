@@ -1,0 +1,35 @@
+{
+  "title": "Misery Does Not Love Company: Network Selection Mechanisms and Depression Homophily",
+  "abstract": "Conventional wisdom holds that friends protect against depression through the social support they provide; however, depression likely has a role in structuring friendship networks. In particular, we investigate friend selection mechanisms responsible for similarity in depression among friends (i.e., homophily). Preference is one explanation, yet several correlates of depression make homophilous selection among depressed individuals unlikely. We propose two alternative mechanisms-avoidance and withdrawal-that can produce depression homophily in the absence of preference. These alternative mechanisms create homophily indirectly by limiting friendship partners available to depressed individuals. We test the preference, avoidance, and withdrawal mechanisms using data from the National Longitudinal Study of Adolescent Health and a dynamic network model. Results provide support for the withdrawal mechanism. These findings help explain how depression affects friend selection and have broader implications for understanding selection mechanisms responsible for network patterns such as homophily.",
+  "authors": [
+    {
+      "raw": "Schaefer, David R.",
+      "family": "Schaefer",
+      "given": "David R."
+    },
+    {
+      "raw": "Kornienko, Olga",
+      "family": "Kornienko",
+      "given": "Olga"
+    },
+    {
+      "raw": "Fox, Andrew M.",
+      "family": "Fox",
+      "given": "Andrew M."
+    }
+  ],
+  "authors_text": "Schaefer, David R.; Kornienko, Olga; Fox, Andrew M.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1177/0003122411420813",
+  "doi_url": "https://doi.org/10.1177/0003122411420813",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122411420813",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122411420813.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

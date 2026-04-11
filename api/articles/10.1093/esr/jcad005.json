@@ -1,0 +1,35 @@
+{
+  "title": "Intergenerational effects of parental unemployment on infant health: evidence from Swedish register data",
+  "abstract": "Parental unemployment can have detrimental effects on life chances of the children, and thereby reinforce inequalities across generations. Despite a substantial literature documenting that the health of infants at birth can have large and long-lasting consequences, research on intergenerational unemployment effects on infant health is scant. This study fills the gap using high-quality register data from Sweden, including 1.5 million siblings born between 1996 and 2017. To account for selection into unemployment, we employ sibling comparison designs that exploit variation in siblings' exposure to parental unemployment, thereby accounting for stable but unmeasured confounding at the level of families. We find small and not consistently significant effects of maternal unemployment, and no effects of paternal unemployment. Our results also suggest that pre-existing social disadvantages-low education, migration background, and dual parental unemployment-are not associated with more adverse intergenerational unemployment effects. The discussion of our findings situates these results in the context of a relatively generous and egalitarian welfare state.",
+  "authors": [
+    {
+      "raw": "Hoegberg, Bjoern",
+      "family": "Hoegberg",
+      "given": "Bjoern"
+    },
+    {
+      "raw": "Baranowska-Rataj, Anna",
+      "family": "Baranowska-Rataj",
+      "given": "Anna"
+    },
+    {
+      "raw": "Vossemer, Jonas",
+      "family": "Vossemer",
+      "given": "Jonas"
+    }
+  ],
+  "authors_text": "Hoegberg, Bjoern; Baranowska-Rataj, Anna; Vossemer, Jonas",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad005",
+  "doi_url": "https://doi.org/10.1093/esr/jcad005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

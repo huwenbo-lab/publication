@@ -1,0 +1,30 @@
+{
+  "title": "Occupations and the Structure of Wage Inequality in the United States, 1980s to 2000s",
+  "abstract": "Occupations are central to the stratification systems of industrial countries, but they have played little role in empirical attempts to explain the well-documented increase in wage inequality that occurred in the United States in the 1980s and 1990s. We address this deficiency by assessing occupation-level effects on wage inequality using data from the Current Population Survey for 1983 through 2008. We model the mean and variance of wages for each occupation, controlling for education and demographic factors at the individual level to test three competing explanations for the increase in wage inequality: (1) the growth of between-occupation polarization, (2) changes in education and labor force composition, and (3) residual inequality unaccounted for by occupations and demographic characteristics. After correcting for a problem with imputed data that biased Kim and Sakamoto's (2008) results, we find that between-occupation changes explain 66 percent of the increase in wage inequality from 1992 to 2008, although 23 percent of this is due to the switch to the 2000 occupation codes in 2003. Sensitivity analysis reveals that 18 percent of the increase in inequality from 1983 to 2002 is due to changes in just three occupations: managers ''not elsewhere classified,'' secretaries, and computer systems analysts.",
+  "authors": [
+    {
+      "raw": "Mouw, Ted",
+      "family": "Mouw",
+      "given": "Ted"
+    },
+    {
+      "raw": "Kalleberg, Arne L.",
+      "family": "Kalleberg",
+      "given": "Arne L."
+    }
+  ],
+  "authors_text": "Mouw, Ted; Kalleberg, Arne L.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122410363564",
+  "doi_url": "https://doi.org/10.1177/0003122410363564",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410363564",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410363564.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

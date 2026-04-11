@@ -1,0 +1,25 @@
+{
+  "title": "Measuring a neighborhood affluence-deprivation continuum in urban settings: Descriptive findings from four US cities",
+  "abstract": "BACKGROUND In the United States (US), the area-based measure of neighborhood socioeconomic characteristics used in health research varies considerably from one study to another. However, it is unclear whether different area-based measures capture the same or different dimension of neighborhood context. OBJECTIVE The purpose of this study is to examine the relationships between single measures (i.e., area-based median household income and median family income) and composite measures (i.e., area-based measures derived from a combination of multiple variables) of neighborhood socioeconomic characteristics. METHODS Area-based socioeconomic data at the census tract level were obtained from the 200509 American Community Survey (ACS) for St. Louis, Missouri; Chicago, Illinois; San Diego, California; and Los Angeles, California. Single measures of neighborhood socioeconomic characteristics were simply taken from the ACS data, and composite measures were derived from the computational methods described in previous studies. Separate correlation statistics were then conducted for four US cities. RESULTS Despite the differences in how selected area-based measures of neighborhood socioeconomic characteristics were derived from the ACS data, they were highly correlated (either negatively or positively) with one another. In other words, selected area-based measures capture the same dimension of neighborhood context. CONCLUSIONS A neighborhood affluence-deprivation continuum in US cities may be captured by an area-based median household (or family) income. Nevertheless, to ensure the generalizability and transportability of results from four US cities, further comparisons of area-based measures (not limited to those considered in this study) are needed in different US cities.",
+  "authors": [
+    {
+      "raw": "Oka, Masayoshi",
+      "family": "Oka",
+      "given": "Masayoshi"
+    }
+  ],
+  "authors_text": "Oka, Masayoshi",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.32.54",
+  "doi_url": "https://doi.org/10.4054/demres.2015.32.54",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.32.54",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.32.54.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

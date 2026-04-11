@@ -1,0 +1,30 @@
+{
+  "title": "Book Review: Claude Rosental, Catherine Porter (translator), The Demonstration Society",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Asatryan, Georgi",
+      "family": "Asatryan",
+      "given": "Georgi"
+    },
+    {
+      "raw": "Kalpakian, Jack",
+      "family": "Kalpakian",
+      "given": "Jack"
+    }
+  ],
+  "authors_text": "Asatryan, Georgi; Kalpakian, Jack",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2022,
+  "doi": "10.1177/00380385221091130",
+  "doi_url": "https://doi.org/10.1177/00380385221091130",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380385221091130",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380385221091130.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

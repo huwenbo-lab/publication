@@ -1,0 +1,30 @@
+{
+  "title": "Daytime Locations in Spatial Mismatch: Job Accessibility and Employment at Reentry From Prison",
+  "abstract": "Individuals recently released from prison confront many barriers to employment. One potential obstacle is spatial mismatch-the concentration of low-skilled, nonwhite job-seekers within central cities and the prevalence of relevant job opportunities in outlying areas. Prior research has found mixed results about the importance of residential place for reentry outcomes. In this article, we propose that residential location matters for finding work, but this largely static measure does not capture the range of geographic contexts that individuals inhabit throughout the day. We combine novel, real-time GPS information on daytime locations and self-reported employment collected from smartphones with sophisticated measures of job accessibility to test the relative importance of spatial mismatch based on residence and daytime locations. Our findings suggest that the ability of low-skilled, poor, and urban individuals to compensate for their residential deficits by traveling to job-rich areas is an overlooked and salient consideration in spatial mismatch perspectives.",
+  "authors": [
+    {
+      "raw": "Sugie, Naomi F.",
+      "family": "Sugie",
+      "given": "Naomi F."
+    },
+    {
+      "raw": "Lens, Michael C.",
+      "family": "Lens",
+      "given": "Michael C."
+    }
+  ],
+  "authors_text": "Sugie, Naomi F.; Lens, Michael C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0549-3",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0549-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0549-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0549-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

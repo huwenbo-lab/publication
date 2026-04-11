@@ -1,0 +1,35 @@
+{
+  "title": "The Social Pipeline: How Friend Influence and Peer Exposure Widen the STEM Gender Gap",
+  "abstract": "Individuals' favorite subjects in school can predetermine their educational and occupational careers. If girls develop weaker preferences for science, technology, engineering, and math (STEM), it can contribute to macrolevel gender inequalities in income and status. Relying on large-scale panel data on adolescents from Sweden (218 classrooms, 4,998 students), we observe a widening gender gap in preferring STEM subjects within a year (girls, 19 to 15 percent; boys, 21 to 20 percent). By applying newly developed random-coefficient multilevel stochastic actor-oriented models on social network data (27,428 friendships), we investigate how social context contributes to those changes. We find strong evidence that students adjust their preferences to those of their friends (friend influence). Moreover, girls tend to retain their STEM preferences when other girls in their classroom also like STEM (peer exposure). We conclude that these mechanisms amplify preexisting preferences and thereby contribute to the observed dramatic widening of the STEM gender gap.",
+  "authors": [
+    {
+      "raw": "Raabe, Isabel J.",
+      "family": "Raabe",
+      "given": "Isabel J."
+    },
+    {
+      "raw": "Boda, Zsofia",
+      "family": "Boda",
+      "given": "Zsofia"
+    },
+    {
+      "raw": "Stadtfeld, Christoph",
+      "family": "Stadtfeld",
+      "given": "Christoph"
+    }
+  ],
+  "authors_text": "Raabe, Isabel J.; Boda, Zsofia; Stadtfeld, Christoph",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2019,
+  "doi": "10.1177/0038040718824095",
+  "doi_url": "https://doi.org/10.1177/0038040718824095",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040718824095",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040718824095.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

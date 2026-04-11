@@ -1,0 +1,50 @@
+{
+  "title": "Predictors of Relationship Satisfaction Across the Transition to Parenthood: Results from the Norwegian Mother, Father, and Child Cohort Study (MoBa)",
+  "abstract": "The purpose of the study was to describe trajectories of relationship satisfaction across the transition to parenthood, and identify predictors of these trajectories. This study is based on the Norwegian Mother, Father, and Child Cohort Study (MoBa). Mothers (N = 43,517) reported on their relationship satisfaction at five timepoints from 17 weeks gestation to 5 years postpartum, as well as sociodemographic, psychological, and behavioral covariates. Latent Trajectory Modeling revealed 5 trajectories of relationship satisfaction: stable very high (18.05%), stable high (43.47%); stable moderate (17.21%); high falling (3.38%); and low falling (4.02%). Predictors of group membership were identified using multinomial logistic regression. Significant predictors included unplanned pregnancy, maternal social support, maternal history of depression, maternal history of abuse, postnatal depression, financial stress, sexual satisfaction, and child negative emotionality. These results may help identify families at risk of declining relationship satisfaction, and aid in targeting interventions aimed at improving satisfaction during this vulnerable transition.",
+  "authors": [
+    {
+      "raw": "Kingsbury, Mila",
+      "family": "Kingsbury",
+      "given": "Mila"
+    },
+    {
+      "raw": "Clayborne, Zahra",
+      "family": "Clayborne",
+      "given": "Zahra"
+    },
+    {
+      "raw": "Nilsen, Wendy",
+      "family": "Nilsen",
+      "given": "Wendy"
+    },
+    {
+      "raw": "Torvik, Fartein Ask",
+      "family": "Torvik",
+      "given": "Fartein Ask"
+    },
+    {
+      "raw": "Gustavson, Kristin",
+      "family": "Gustavson",
+      "given": "Kristin"
+    },
+    {
+      "raw": "Colman, Ian",
+      "family": "Colman",
+      "given": "Ian"
+    }
+  ],
+  "authors_text": "Kingsbury, Mila; Clayborne, Zahra; Nilsen, Wendy; Torvik, Fartein Ask; Gustavson, Kristin; Colman, Ian",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2023,
+  "doi": "10.1177/0192513x221113850",
+  "doi_url": "https://doi.org/10.1177/0192513x221113850",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x221113850",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x221113850.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

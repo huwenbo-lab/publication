@@ -1,0 +1,30 @@
+{
+  "title": "Motherhood Penalties and Fatherhood Premiums: Effects of Parenthood on Earnings Growth Within and Across Firms",
+  "abstract": "Despite much interest in how parenthood contributes to the gender pay gap, prior research has rarely explored firms' roles in shaping the parenthood pay penalty or premium. The handful of studies that investigated parenthood's effects within and across firms generally compared parents and their childless peers at a given time and failed to account for unobserved heterogeneity between the two groups. Such comparisons also cannot inform how having children may alter individuals' earnings trajectories within and across firms. Using 26 rounds of the National Longitudinal Survey of Youth 1979 and fixed-effects models, we examine how being a mother or father is linked to earnings growth within and across firms. We find that women's pay decreases as they become mothers and that the across-employer motherhood penalty is larger than the within-employer penalty. By contrast, fatherhood is associated with a pay premium, and the within-employer fatherhood premium is considerably greater than the across-employer one. We argue that these results are consistent with the discrimination explanation of the motherhood penalty and fatherhood premium. Because employers are likely to trust women who become mothers while working for them more than new recruits who are mothers, their negative bias against mothers would be more salient when evaluating the latter, which could result in a larger between-organizational motherhood penalty. Conversely, employers' likely greater trust in existing workers who become fathers than fathers they hire from elsewhere may amplify their positive bias favoring fathers in assessing the former, which could explain the greater within-firm fatherhood premium.",
+  "authors": [
+    {
+      "raw": "Yu, Wei-Hsin",
+      "family": "Yu",
+      "given": "Wei-Hsin"
+    },
+    {
+      "raw": "Hara, Yuko",
+      "family": "Hara",
+      "given": "Yuko"
+    }
+  ],
+  "authors_text": "Yu, Wei-Hsin; Hara, Yuko",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8917608",
+  "doi_url": "https://doi.org/10.1215/00703370-8917608",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8917608",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8917608.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

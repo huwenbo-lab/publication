@@ -1,0 +1,30 @@
+{
+  "title": "Women's education, infant and child mortality, and fertility decline in rural and urban sub-Saharan Africa",
+  "abstract": "BACKGROUND This paper provides estimates of the contributions of increased women's education and reduced infant and child mortality to fertility declines in urban and rural areas of countries in Sub-Saharan Africa, using individual-level data. OBJECTIVE The principal question that the paper addresses is: How much have increased women's schooling and reduced mortality contributed to fertility declines in urban and rural places in each of 30 countries in sub-Saharan Africa? A secondary question is: What have been the changes in women's schooling and mortality in urban and rural areas in these countries? METHODS Data from the first and last Demographic and Health Surveys for each country is used, along with a decomposition technique that allows us to quantify how much of the observed fertility decline is attributable to increased education and how much is due to reduced mortality. RESULTS In urban places, on average, increased women's schooling accounts for 54% of observed fertility decline while reduced mortality contributes 30%. In rural areas with fertility decline, increased women's education accounts for an average of 30% of the decline while reduced mortality accounts for an average of 35%. Results vary substantially by country and place of residence. CONCLUSIONS Accelerating increases in women's schooling and decreases in infant and child mortality have the potential to accelerate fertility decline in sub-Saharan Africa. CONTRIBUTION The paper uses individual-level data to provide quantitative estimates of the importance of increased women's schooling and reduced mortality in contributing to fertility decline in sub-Saharan Africa.",
+  "authors": [
+    {
+      "raw": "Shapiro, David",
+      "family": "Shapiro",
+      "given": "David"
+    },
+    {
+      "raw": "Tenikue, Michel",
+      "family": "Tenikue",
+      "given": "Michel"
+    }
+  ],
+  "authors_text": "Shapiro, David; Tenikue, Michel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.21",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.21",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.21",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.21.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

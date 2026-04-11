@@ -1,0 +1,50 @@
+{
+  "title": "Social Environment, Genes, and Aggression: Evidence Supporting the Differential Susceptibility Perspective",
+  "abstract": "Although gene by environment studies are typically based on the assumption that some individuals possess genetic variants that enhance their vulnerability to environmental adversity, the differential susceptibility perspective posits that these individuals are simply more susceptible to environmental influence than others. An important implication of this perspective is that individuals most vulnerable to adverse social environments are the same ones who reap the most benefit from environmental support. Using longitudinal data from a sample of several hundred African Americans, we found that relatively common variants of the dopamine receptor gene and the serotonin transporter gene interact with social conditions to predict aggression in a manner consonant with the differential susceptibility perspective. When social conditions were adverse, individuals with these genetic variants manifested more aggression than other genotypes, whereas when the environment was favorable they demonstrated less aggression than other genotypes. Furthermore, we found that these genetic variants interact with environmental conditions to foster schemas and emotions consistent with the differential susceptibility perspective and that a latent construct formed by these schemas and emotions mediates the gene by environment interaction on aggression.",
+  "authors": [
+    {
+      "raw": "Simons, Ronald L.",
+      "family": "Simons",
+      "given": "Ronald L."
+    },
+    {
+      "raw": "Lei, Man Kit",
+      "family": "Lei",
+      "given": "Man Kit"
+    },
+    {
+      "raw": "Beach, Steven R. H.",
+      "family": "Beach",
+      "given": "Steven R. H."
+    },
+    {
+      "raw": "Brody, Gene H.",
+      "family": "Brody",
+      "given": "Gene H."
+    },
+    {
+      "raw": "Philibert, Robert A.",
+      "family": "Philibert",
+      "given": "Robert A."
+    },
+    {
+      "raw": "Gibbons, Frederick X.",
+      "family": "Gibbons",
+      "given": "Frederick X."
+    }
+  ],
+  "authors_text": "Simons, Ronald L.; Lei, Man Kit; Beach, Steven R. H.; Brody, Gene H.; Philibert, Robert A.; Gibbons, Frederick X.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1177/0003122411427580",
+  "doi_url": "https://doi.org/10.1177/0003122411427580",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122411427580",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122411427580.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

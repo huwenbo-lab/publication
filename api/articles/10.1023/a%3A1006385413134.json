@@ -1,0 +1,30 @@
+{
+  "title": "Predictive Intervals for Age-Specific Fertility",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Keilman, Nico",
+      "family": "Keilman",
+      "given": "Nico"
+    },
+    {
+      "raw": "Pham, Dinh Quang",
+      "family": "Pham",
+      "given": "Dinh Quang"
+    }
+  ],
+  "authors_text": "Keilman, Nico; Pham, Dinh Quang",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2000,
+  "doi": "10.1023/a:1006385413134",
+  "doi_url": "https://doi.org/10.1023/a:1006385413134",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1023%2Fa%3A1006385413134",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1023/a%3A1006385413134.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

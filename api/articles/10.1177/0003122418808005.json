@@ -1,0 +1,30 @@
+{
+  "title": "The Paradox of Persistence: Explaining the Black-White Gap in Bachelor's Degree Completion",
+  "abstract": "Bachelor's degree (BA) completion is lower among black students than among white students. In this study, we use data from the Education Longitudinal Study of 2002 and the Integrated Postsecondary Education Data System, together with regression-based analytical techniques, to identify the primary sources of the BA completion gap. We find that black students' lower academic and socioeconomic resources are the biggest drivers of the gap. However, we also find that black students are more likely to enroll in four-year colleges than are white students, given pre-college resources. We describe this dynamic as paradoxical persistence because it challenges Boudon's well-known assertion that the secondary effect of educational decision-making should reinforce the primary effect of resource discrepancies. Instead, our results indicate that black students' paradoxical persistence widens the race gap in BA completion while also narrowing the race gap in BA attainment, or the proportion of high school graduates to receive a BA. This narrowing effect on the BA attainment gap is as large or larger than the narrowing effect of black students' overmatch to high-quality colleges, facilitated in part by affirmative action. Paradoxical persistence refocuses attention on black students' individual agency as an important source of existing educational gains.",
+  "authors": [
+    {
+      "raw": "Eller, Christina Ciocca",
+      "family": "Eller",
+      "given": "Christina Ciocca"
+    },
+    {
+      "raw": "DiPrete, Thomas A.",
+      "family": "DiPrete",
+      "given": "Thomas A."
+    }
+  ],
+  "authors_text": "Eller, Christina Ciocca; DiPrete, Thomas A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1177/0003122418808005",
+  "doi_url": "https://doi.org/10.1177/0003122418808005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122418808005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122418808005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

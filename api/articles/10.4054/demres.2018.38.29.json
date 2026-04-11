@@ -1,0 +1,35 @@
+{
+  "title": "Gompertz, Makeham, and Siler models explain Taylor's law in human mortality data",
+  "abstract": "BACKGROUND Taylor's law (TL) states a linear relationship on logarithmic scales between the variance and the mean of a nonnegative quantity. TL has been observed in spatiotemporal contexts for the population density of hundreds of species including humans. TL also describes temporal variation in human mortality in developed countries, but no explanation has been proposed. OBJECTIVE To understand why and to what extent TL describes temporal variation in human mortality, we examine whether the mortality models of Gompertz, Makeham, and Siler are consistent with TL. We also examine how strongly TL differs between observed and modeled mortality, between women and men, and among countries. METHOD We analyze how well each mortality model explains TL fitted to observed occurrence-exposure death rates by comparing three features: the log-log linearity of the temporal variance as a function of the temporal mean, the age profile, and the slope of TL. We support some empirical findings from the Human Mortality Database with mathematical proofs. RESULTS TL describes modeled mortality better than observed mortality and describes Gompertz mortality best. The age profile of TL is closest between observed and Siler mortality. The slope of TL is closest between observed and Makeham mortality. The Gompertz model predicts TL with a slope of exactly 2 if the modal age at death increases linearly with time and the parameter that specifies the growth rate of mortality with age is constant in time. Observed mortality obeys TL with a slope generally less than 2. An explanation is that, when the parameters of the Gompertz model are estimated from observed mortality year by year, both the modal age at death and the growth rate of mortality with age change over time. CONCLUSIONS TL describes human mortality well in developed countries because their mortality schedules are approximated well by classical mortality models, which we have shown to obey TL. CONTRIBUTION We provide the first theoretical linkage between three classical demographic models of mortality and TL.",
+  "authors": [
+    {
+      "raw": "Cohen, Joel E.",
+      "family": "Cohen",
+      "given": "Joel E."
+    },
+    {
+      "raw": "Bohk-Ewald, Christina",
+      "family": "Bohk-Ewald",
+      "given": "Christina"
+    },
+    {
+      "raw": "Rau, Roland",
+      "family": "Rau",
+      "given": "Roland"
+    }
+  ],
+  "authors_text": "Cohen, Joel E.; Bohk-Ewald, Christina; Rau, Roland",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.29",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Improving age measurement in low- and middle-income countries through computer vision: A test in Senegal",
+  "abstract": "BACKGROUND Age misreporting is pervasive in most low-and middle-income countries (LMIC). It may bias estimates of key demographic indicators, such as those required to track progress towards sustainable development goals. Existing methods to improve age data are often ineffective, cannot be adopted on a large scale, and/or do not permit estimating age over the entire life course. OBJECTIVE We tested a computer vision approach, which produces an age estimate by analyzing a photograph of an individual's face. METHODS We constituted a small training dataset in a population of Senegal covered by a health and demographic surveillance system (HDSS) since 1962. We collected facial images of 353 women aged 18 and above, whose age could be ascertained precisely using HDSS data. We developed automatic age estimation (AAE) systems through machine learning and cross-validation. RESULTS AAE was highly accurate in distinguishing women of reproductive age from women aged 50 and older (area under the curve > 0.95). It allowed estimating age in completed years, with a level of precision comparable to those obtained in European or East Asian populations with training datasets of similar sizes (mean absolute error = 4.62 years). CONCLUSION Computer vision might help improve age ascertainment in demographic datasets collected in LMICs. Further improving the accuracy of this approach will require constituting larger and more complete training datasets in additional LMIC populations. CONTRIBUTION Our work highlights the potential benefits of widely used computer science tools for improving demographic measurement in LMIC settings with deficient data.",
+  "authors": [
+    {
+      "raw": "Helleringer, Stephane",
+      "family": "Helleringer",
+      "given": "Stephane"
+    },
+    {
+      "raw": "You, Chong",
+      "family": "You",
+      "given": "Chong"
+    },
+    {
+      "raw": "Fleury, Laurence",
+      "family": "Fleury",
+      "given": "Laurence"
+    },
+    {
+      "raw": "Douillot, Laetitia",
+      "family": "Douillot",
+      "given": "Laetitia"
+    },
+    {
+      "raw": "Diouf, Insa",
+      "family": "Diouf",
+      "given": "Insa"
+    },
+    {
+      "raw": "Ndiaye, Cheikh Tidiane",
+      "family": "Ndiaye",
+      "given": "Cheikh Tidiane"
+    },
+    {
+      "raw": "Delaunay, Valerie",
+      "family": "Delaunay",
+      "given": "Valerie"
+    },
+    {
+      "raw": "Vidal, Rene",
+      "family": "Vidal",
+      "given": "Rene"
+    }
+  ],
+  "authors_text": "Helleringer, Stephane; You, Chong; Fleury, Laurence; Douillot, Laetitia; Diouf, Insa; Ndiaye, Cheikh Tidiane; Delaunay, Valerie; Vidal, Rene",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.9",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

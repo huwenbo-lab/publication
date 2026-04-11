@@ -1,0 +1,30 @@
+{
+  "title": "Gender Segregation in Training and Social Mobility of Women in West Germany",
+  "abstract": "Despite declining gender differences in educational attainment and a trend towards increasing social fluidity in Germany, men and women differ substantially with regard to typical occupational class destinations. While under-represented in the upper service class and the skilled working class, women are over-represented in non-manual routine class positions. In this article, we examine the influence of social origin and education on gender-specific class distributions, using data from the German Life History Study for cohorts born in 1949–1951, 1954–1956, 1964, and 1971. Our findings from log-linear and logistic regression analysis indicate that men and women benefit to a similar extent from their social origins with regard to educational attainment and class destinations. However, we find that gender segregation in vocational training occupations and fields of study is a crucial factor in explaining the gendered distribution of social class destinations. Due to being channelled into typical ‘female’ training occupations—like service, social, and health occupations—women are often placed in comparatively unfavourable class positions.",
+  "authors": [
+    {
+      "raw": "Gundert, S.",
+      "family": "Gundert",
+      "given": "S."
+    },
+    {
+      "raw": "Mayer, K. U.",
+      "family": "Mayer",
+      "given": "K. U."
+    }
+  ],
+  "authors_text": "Gundert, S.; Mayer, K. U.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcq048",
+  "doi_url": "https://doi.org/10.1093/esr/jcq048",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcq048",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcq048.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

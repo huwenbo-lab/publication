@@ -1,0 +1,35 @@
+{
+  "title": "Working Hours and Fertility: The Impact of Nonstandard Work Schedules on Childbearing in France",
+  "abstract": "The relationship between nonstandard work schedules (NSWS) and fertility assumes prominence in developed countries that have witnessed a concerning decline in fertility and an increase in NSWS. Our study investigates the effect of different types of NSWS on women's fertility in France. We use the Conditions de Travail (CT) panel dataset covering 4178 women of childbearing age in 2013, 2016, and 2019. Using fixed effect models, we find that working a nonstandard schedule decreases the propensity of a woman to have a new child. In addition, the result is primarily attributable to the first child compared to the second child. When assessing the different types of NSWS, we find that the negative effect of NSWS is stronger for the night schedule than the weekend, evening, and morning work. Finally, the implications of these findings are discussed related to work-life policies.",
+  "authors": [
+    {
+      "raw": "Lambert, Anne",
+      "family": "Lambert",
+      "given": "Anne"
+    },
+    {
+      "raw": "Segu, Mariona",
+      "family": "Segu",
+      "given": "Mariona"
+    },
+    {
+      "raw": "Tiwari, Chhavi",
+      "family": "Tiwari",
+      "given": "Chhavi"
+    }
+  ],
+  "authors_text": "Lambert, Anne; Segu, Mariona; Tiwari, Chhavi",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2024,
+  "doi": "10.1177/0192513x221150975",
+  "doi_url": "https://doi.org/10.1177/0192513x221150975",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x221150975",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x221150975.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

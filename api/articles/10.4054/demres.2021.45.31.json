@@ -1,0 +1,40 @@
+{
+  "title": "Retraditionalisation? Work patterns of families with children during the pandemic in Italy",
+  "abstract": "BACKGROUND During the COVID-19 pandemic, employment declined and real incomes fell worldwide. The burden of childcare on families increased and, in many countries, women's employment fell more than men's. From a couple-level perspective, changing employment patterns could lead to a retraditionalisation of gender roles between partners, especially for families with dependent children. METHOD We focus on couples with children under 16 and use quarterly large-scale micro data (the Italian Labour Force Survey) to examine, through descriptive statistics and multinomial logistic regressions, the changes and composition of couples' work patterns between 2019 and 2020. RESULTS During the pandemic, three types of couples declined (dual-worker couples; 'pure' male-breadwinner couples, where only men work; and 'modified' male-breadwinner couples, where women work fewer hours than men) and three increased ('pure' female-breadwinner couples, where only women work; 'modified' female-breadwinner couples, where women work more hours than men; and not-working couples). Changes were most pronounced in the second quarter of 2020, to a lesser extent, in the fourth quarter, and among the least educated.",
+  "authors": [
+    {
+      "raw": "Brini, Elisa",
+      "family": "Brini",
+      "given": "Elisa"
+    },
+    {
+      "raw": "Lenko, Mariya",
+      "family": "Lenko",
+      "given": "Mariya"
+    },
+    {
+      "raw": "Scherer, Stefani",
+      "family": "Scherer",
+      "given": "Stefani"
+    },
+    {
+      "raw": "Vitali, Agnese",
+      "family": "Vitali",
+      "given": "Agnese"
+    }
+  ],
+  "authors_text": "Brini, Elisa; Lenko, Mariya; Scherer, Stefani; Vitali, Agnese",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.31",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

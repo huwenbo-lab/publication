@@ -1,0 +1,30 @@
+{
+  "title": "It's Not Only “Who You Know” that Matters",
+  "abstract": "Previous research has shown that personal contacts are powerful intermediaries in transmitting job lead information for both job seekers and employers and therefore could contribute to various forms of gender inequality by, for example, providing higher-quality job leads to men than to women. The authors use a unique data set that includes information on the quality and source of individual job leads to explore whether the overall quality of job lead information depends solely on various attributes of recipients' contacts or whether job lead quality is also conditional on gender. These data are based on a diverse sample of professional, technical, and managerial workers from California. Findings indicate that the overall quality of the respondent's job leads is a product of their gender and that of the person providing the lead. In addition, net of a variety of factors, women and men with young children at home receive significantly lower-quality job leads.",
+  "authors": [
+    {
+      "raw": "HUFFMAN, MATT L.",
+      "family": "HUFFMAN",
+      "given": "MATT L."
+    },
+    {
+      "raw": "TORRES, LISA",
+      "family": "TORRES",
+      "given": "LISA"
+    }
+  ],
+  "authors_text": "HUFFMAN, MATT L.; TORRES, LISA",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2002,
+  "doi": "10.1177/089124302237889",
+  "doi_url": "https://doi.org/10.1177/089124302237889",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F089124302237889",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/089124302237889.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

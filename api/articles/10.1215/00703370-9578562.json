@@ -1,0 +1,45 @@
+{
+  "title": "A Framework for Estimating Migrant Stocks Using Digital Traces and Survey Data: An Application in the United Kingdom",
+  "abstract": "An accu rate esti ma tion of inter na tional migra tion is ham pered by a lack of timely and com pre hen sive data, and by the use of differ ent defi ni tions and mea sures of migra tion in dif fer ent countries. In an effort to address this sit u a tion, we com ple ment tra di tional data sources for the United Kingdom with social media data: our aim is to under stand whether infor ma tion from dig i tal traces can help mea sure inter na tional migra tion. The Bayes ian frame work pro posed is used to com bine data from the Labour Force Survey (LFS) and the Facebook Advertising Platform to study the num ber of Euro pean migrants in the United Kingdom, with the aim of pro duc ing more accu rate esti ma tes of the num bers of Euro pean migrants. The over arch ing model is divided into a Theory-Based Model of migra tion and a Measurement Error Model. We review the qual ity of the LFS and Facebook data, pay ing par tic u lar atten tion to the biases of these sources. The results indi cate vis i ble yet uncer tain differ ences between model esti ma tes using the Bayes ian frame work and indi vid ual sources. Sensitivity anal y sis tech niques are used to eval u ate the qual ity of the model. The advan tages and lim i ta tions of this approach, which can be applied in other con texts, are discussed. We can not nec es sarily trust any indi vid ual source, but com bin ing them through mod el ing offers valu able insights.",
+  "authors": [
+    {
+      "raw": "Rampazzo, Francesco",
+      "family": "Rampazzo",
+      "given": "Francesco"
+    },
+    {
+      "raw": "Bijak, Jakub",
+      "family": "Bijak",
+      "given": "Jakub"
+    },
+    {
+      "raw": "Vitali, Agnese",
+      "family": "Vitali",
+      "given": "Agnese"
+    },
+    {
+      "raw": "Weber, Ingmar",
+      "family": "Weber",
+      "given": "Ingmar"
+    },
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    }
+  ],
+  "authors_text": "Rampazzo, Francesco; Bijak, Jakub; Vitali, Agnese; Weber, Ingmar; Zagheni, Emilio",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9578562",
+  "doi_url": "https://doi.org/10.1215/00703370-9578562",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9578562",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9578562.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Visualizing the Baby Boom",
+  "abstract": "I provide a tiled visualization of average monthly birth rates between 1938 and 1991 for the United States and England and Wales. Ideas about demographic “generations” such as Baby Boomers, Generation X, and Millennials are in widespread use in popular discussions of social change, often quite fancifully. The visualization makes apparent the sheer scale of the U.S. Baby Boom in comparison to other alleged generations.",
+  "authors": [
+    {
+      "raw": "Healy, Kieran",
+      "family": "Healy",
+      "given": "Kieran"
+    }
+  ],
+  "authors_text": "Healy, Kieran",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118777324",
+  "doi_url": "https://doi.org/10.1177/2378023118777324",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118777324",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118777324.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "A Bayesian analysis of the spatial concentration of individual wealth in the US North during the nineteenth century",
+  "abstract": "Kin effects can be difficult to distinguish from those of spatial proximity, since kin tend to live close to each other. Thus, past research showing correlations between the wealth of relatives may be showing the effects of proximity and shared locations,",
+  "authors": [
+    {
+      "raw": "Kasakoff, Alice",
+      "family": "Kasakoff",
+      "given": "Alice"
+    },
+    {
+      "raw": "Lawson, Andrew",
+      "family": "Lawson",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Van Meter, Emily",
+      "family": "Van Meter",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Kasakoff, Alice; Lawson, Andrew; Van Meter, Emily",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2014,
+  "doi": "10.4054/demres.2014.30.36",
+  "doi_url": "https://doi.org/10.4054/demres.2014.30.36",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2014.30.36",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2014.30.36.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

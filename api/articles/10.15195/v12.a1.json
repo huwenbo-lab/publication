@@ -1,0 +1,35 @@
+{
+  "title": "The Risk Creates the Reward: Reputational Returns to Legal and Quality Risks in Online Illegal Drug Trade",
+  "abstract": "Although buyers in unregulated markets depend heavily on reputational information in the absence of state oversight, few studies examine how the riskiness of a good may condition reputational effects on prices. We capitalize on novel data on 10,465 illegal drug exchanges on one online 'darknet' illegal drug market and computational text analysis to evaluate how distinct types of legal and quality risks moderate reputational effects on illegal drug prices. Our results suggest that quality risk considerations are especially acute, where the effect of numeric sales ratings and the sentiment expressed in sales review text are both increased for non-prescription drugs and attenuated for prescription drugs. In contrast, we find limited evidence that legal risks moderate reputational effects on illegal drug prices. These results underscore the importance of quality risks in illegal purchasing decisions, identify quality risk as a determinant of reputational premiums for illegal drug prices, and shed light on how the riskiness of a specific good can guide economic action in unregulated trade settings.",
+  "authors": [
+    {
+      "raw": "Holtkamp, William",
+      "family": "Holtkamp",
+      "given": "William"
+    },
+    {
+      "raw": "Duxbury, Scott",
+      "family": "Duxbury",
+      "given": "Scott"
+    },
+    {
+      "raw": "Haynie, Dana",
+      "family": "Haynie",
+      "given": "Dana"
+    }
+  ],
+  "authors_text": "Holtkamp, William; Duxbury, Scott; Haynie, Dana",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a1",
+  "doi_url": "https://doi.org/10.15195/v12.a1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "A Nuclear Complex? A Network Visualization of Japan’s Nuclear Industry and Regulatory Elite, 2006 to 2012",
+  "abstract": "After the meltdown of the Fukushima Daiichi facility on March 11, 2011, in Japan, attempts by civil society actors to reroute the energy priorities of the country inevitably confronted obstacles in what scholars, activists, and journalists alike termed a nuclear complex. The authors’ original network data identify a dense field of overlapping executives and officials in Japan who forge long-term ties among the nuclear energy industry, the state, the leading business federation in Japan, nuclear scientists, and the national media. The authors use the Fruchterman-Reingold algorithm to present a large- n network visualization of these organizations and their ties in a manner that spatially distributes similar pairs of organizations proximate to one another.",
+  "authors": [
+    {
+      "raw": "Dreiling, Michael C.",
+      "family": "Dreiling",
+      "given": "Michael C."
+    },
+    {
+      "raw": "Nakamura, Tomoyasu",
+      "family": "Nakamura",
+      "given": "Tomoyasu"
+    }
+  ],
+  "authors_text": "Dreiling, Michael C.; Nakamura, Tomoyasu",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118769546",
+  "doi_url": "https://doi.org/10.1177/2378023118769546",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118769546",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118769546.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

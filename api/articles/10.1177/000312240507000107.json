@@ -1,0 +1,30 @@
+{
+  "title": "A comparative study of inequality and corruption",
+  "abstract": "This article argues that income inequality increases the level of corruption through material and normative mechanisms. The wealthy have both greater motivation and more opportunity to engage in corruption, whereas the poor are more vulnerable to extortion and less able to monitor and hold the rich and powerful accountable as inequality increases. Inequality also adversely affects social norms about corruption and people's beliefs about the legitimacy of rules and institutions, thereby making it easier for them to tolerate corruption as acceptable behavior. This comparative analysis of 129 countries using two-stage least squares methods with a variety of instrumental variables supports the authors' hypotheses using different measures of corruption (the World Bank's Control of Corruption Index and the Transparency International's Corruption Perceptions Index). The explanatory power of inequality is at least as important as conventionally accepted causes of corruption such as economic development. The authors also found a significant interaction effect between inequality and democracy, as well as evidence that inequality affects norms and perceptions about corruption using the World Values Surveys data. Because corruption also contributes to income inequality, societies often fall into vicious circles of inequality and corruption.",
+  "authors": [
+    {
+      "raw": "You, JS",
+      "family": "You",
+      "given": "JS"
+    },
+    {
+      "raw": "Khagram, S",
+      "family": "Khagram",
+      "given": "S"
+    }
+  ],
+  "authors_text": "You, JS; Khagram, S",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1177/000312240507000107",
+  "doi_url": "https://doi.org/10.1177/000312240507000107",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240507000107",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240507000107.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

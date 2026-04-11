@@ -1,0 +1,25 @@
+{
+  "title": "The Effect of Maternal Stress on Birth Outcomes: Exploiting a Natural Experiment",
+  "abstract": "Abstract A growing body of research highlights that in utero conditions are consequential for individual outcomes throughout the life cycle, but research assessing causal processes is scarce. This article examines the effect of one such condition—prenatal maternal stress—on birth weight, an early outcome shown to affect cognitive, educational, and socioeconomic attainment later in life. Exploiting a major earthquake as a source of acute stress and using a difference-in-difference methodology, I find that maternal exposure to stress results in a significant decline in birth weight and an increase in the proportion of low birth weight. This effect is focused on the first trimester of gestation, and it is mediated by reduced gestational age rather than by factors affecting the intrauterine growth of term infants. The findings highlight the relevance of understanding the early emergence of unequal outcomes and of investing in maternal well-being since the onset of pregnancy.",
+  "authors": [
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    }
+  ],
+  "authors_text": "Torche, Florencia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0054-z",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0054-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0054-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0054-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

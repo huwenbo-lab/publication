@@ -1,0 +1,50 @@
+{
+  "title": "The contribution of smoking-attributable mortality to differences in mortality and life expectancy among US African-American and white adults, 2000-2019",
+  "abstract": "BACKGROUND The role of smoking in racial disparities in mortality and life expectancy in the United States has been examined previously, but up-to-date estimates are generally unavailable, even though smoking prevalence has declined in recent decades. OBJECTIVE We estimate the contribution of smoking-attributable mortality to observed differences in mortality and life expectancy for US African-American and white adults from 2000-2019. METHODS The indirect Preston-Glei-Wilmoth method was used with national vital statistics and population data and nationally representative never-smoker lung cancer death rates to estimate the smoking-attributable fraction (SAF) of deaths in the United States by sex-race group from 2000-2019. Mortality rates without smoking-attributable mortality were used to estimate life expectancy at age 50 (e(50)) by group during the period. RESULTS African-American men had the highest estimated SAF during the period, beginning at 26.4% (95% CI:25.0%-27.8%) in 2000 and ending at 12.1% (95% CI:11.4%-12.8%) in 2019. The proportion of the difference in e(50) for white and African-American men that was due to smoking decreased from 27.7% to 14.8%. For African-American and white women, the estimated differences in e(50) without smoking-attributable mortality were similar to observed differences. CONCLUSIONS Smoking continues to contribute to racial disparities in mortality and life expectancy among men in the United States. CONTRIBUTION We present updated estimates of the contribution of smoking to mortality differences in the United States using nationally representative data sources.",
+  "authors": [
+    {
+      "raw": "Rostron, Brian L.",
+      "family": "Rostron",
+      "given": "Brian L."
+    },
+    {
+      "raw": "Lynn, Brittny C. Davis",
+      "family": "Lynn",
+      "given": "Brittny C. Davis"
+    },
+    {
+      "raw": "Chang, Cindy M.",
+      "family": "Chang",
+      "given": "Cindy M."
+    },
+    {
+      "raw": "Ren, Chunfeng",
+      "family": "Ren",
+      "given": "Chunfeng"
+    },
+    {
+      "raw": "Salazar, Esther",
+      "family": "Salazar",
+      "given": "Esther"
+    },
+    {
+      "raw": "Ambrose, Bridget K.",
+      "family": "Ambrose",
+      "given": "Bridget K."
+    }
+  ],
+  "authors_text": "Rostron, Brian L.; Lynn, Brittny C. Davis; Chang, Cindy M.; Ren, Chunfeng; Salazar, Esther; Ambrose, Bridget K.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.31",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

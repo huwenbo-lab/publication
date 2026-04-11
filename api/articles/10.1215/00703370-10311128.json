@@ -1,0 +1,30 @@
+{
+  "title": "The Unequal Impact of the COVID-19 Pandemic on Infant Health",
+  "abstract": "The COVID-19 pandemic has taken a large toll on population health and well-being. We examine the consequences of prenatal exposure for infant health, through which the pandemic may have lasting intergenerational effects. We examine multiple pathways by which the pandemic shaped birth outcomes and socioeconomic disparities in these consequences. Analysis of more than 3.5 million birth records in California with universal information on COVID infection among persons giving birth at the time of delivery reveals deep inequalities in infection by education, race/ethnicity, and place-based socioeconomic disadvantage. COVID infection during pregnancy, in turn, predicts a large increase in the probability of preterm birth, by approximately one third. At the population level, a surprising reduction in preterm births during the first months of the pandemic was followed by an increase in preterm births during the surge in COVID infections in the winter of 2021. Whereas the early-pandemic reduction in preterm births benefited primarily highly educated mothers, the increase in preterm births during the winter infection surge was entirely concentrated among mothers with low levels of schooling. The COVID-19 pandemic is expected to exacerbate U.S. inequality in multiple ways. Our findings highlight a particularly enduring pathway: the long-term legacy of prenatal exposure to an unequal pandemic environment.",
+  "authors": [
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    },
+    {
+      "raw": "Nobles, Jenna",
+      "family": "Nobles",
+      "given": "Jenna"
+    }
+  ],
+  "authors_text": "Torche, Florencia; Nobles, Jenna",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10311128",
+  "doi_url": "https://doi.org/10.1215/00703370-10311128",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10311128",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10311128.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

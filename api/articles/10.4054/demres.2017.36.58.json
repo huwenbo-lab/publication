@@ -1,0 +1,30 @@
+{
+  "title": "The socioeconomic determinants of repartnering after divorce or separation in Belgium",
+  "abstract": "BACKGROUND The increasing prevalence of higher-order unions is one of the major changes in family life in recent decades. OBJECTIVE By using register data, we aim to give a unique view on how income components amount and composition - influence the likelihood of repartnering after divorce or separation in Belgium. METHODS We analyse a sample of 46,648 broken marriages and 67,053 separated cohabitations from the Belgian Data Warehouse Labour Market and Social Protection database, using discrete-time event history models. RESULTS The chances of men repartnering increase in higher income quintiles. Women in lower income quintiles are more likely to repartner, while women in higher income groups are less likely to repartner. These patterns have been found to hold regardless of the type of previous union. Furthermore, divorcees are more likely to repartner than former cohabiters are. The type of previous relationship hardly influences the impact of the amount of income on repartnering dynamics. As for the composition of income, being divorced decreases repartnering chances in cases of irregular labour, irrespective of gender. Women who are in work are more likely to repartner if they are divorced rather than separated, while men receiving unemployment benefits and integration income are more likely to repartner if they are divorced. CONCLUSIONS Repartnering is evolving to a two-tier system, with a wide discrepancy between lowest and highest income groups. Type of previous relationship makes hardly any difference to the impact of the amount of income on repartnering dynamics, but partially drives the impact of the composition of income.",
+  "authors": [
+    {
+      "raw": "Pasteels, Inge",
+      "family": "Pasteels",
+      "given": "Inge"
+    },
+    {
+      "raw": "Mortelmans, Dimitri",
+      "family": "Mortelmans",
+      "given": "Dimitri"
+    }
+  ],
+  "authors_text": "Pasteels, Inge; Mortelmans, Dimitri",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.58",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.58",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.58",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.58.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

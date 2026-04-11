@@ -1,0 +1,40 @@
+{
+  "title": "Stereotype Threat and Gender: Math Performance in Chinese College Students",
+  "abstract": "A series of studies in China, designed to evaluate the generality of the phenomenon of stereotype threat as a factor in the under-representation of Chinese women in science, technology, engineering, and mathematics fields, failed to demonstrate either threat effects or the typical math-gender gap. Our exploration of the math-gender gap in the United States led us to a description of the types of questions on the SAT-M and GRE-M and gender differences in responses to these question types. We found that the math test we had been using in our studies with Chinese college students did not contain the types of questions that favored men. We constructed a new math test containing these types of questions and replicated our stereotype threat experiment using Chinese physics majors. Once again we found no evidence of stereotype threat and no gender differences. We first discuss these results in terms of political, societal, and educational differences between China and the United States that could preclude gender differences in math performance and the disruptive effects of stereotype threat, then focus on limits to the generality and potency of the phenomenon of stereotype threat itself.",
+  "authors": [
+    {
+      "raw": "Tsui, Ming",
+      "family": "Tsui",
+      "given": "Ming"
+    },
+    {
+      "raw": "Xu, Xiao-ying",
+      "family": "Xu",
+      "given": "Xiao-ying"
+    },
+    {
+      "raw": "Venator, Edmond",
+      "family": "Venator",
+      "given": "Edmond"
+    },
+    {
+      "raw": "Wang, Yan",
+      "family": "Wang",
+      "given": "Yan"
+    }
+  ],
+  "authors_text": "Tsui, Ming; Xu, Xiao-ying; Venator, Edmond; Wang, Yan",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1080/21620555.2016.1166339",
+  "doi_url": "https://doi.org/10.1080/21620555.2016.1166339",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2016.1166339",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2016.1166339.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

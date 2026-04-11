@@ -1,0 +1,35 @@
+{
+  "title": "Gender and Parenthood Differences in Job Mobility and Pay Progression in the UK",
+  "abstract": "Understanding disparities in the rates at which men and women's wages grow over the life course is critical to explaining the gender pay gap. Using panel data from 2009 to 2019 for the United Kingdom, we examine how differences in the rates and types of job mobility of men and women-with and without children-influence the evolution of wages. We contrast the rates and wage returns associated with different types of job moves, including moving employer for family reason, moving for wage or career-related reasons, and changing jobs but remaining with the same employer. We find important gender and parenthood differences in the types of mobility experience, with mothers most likely to switch employers for family-related reasons and least likely to move for wage or career reasons, or to change jobs with the same employer. While job changes with the same employer and career related employer changes had large positive wage returns, changing employers for family-related reasons was associated with significant wage losses. We show that differences in job mobility between mothers and other workers are largest for young employees (under 30), the period over which wages also grow most rapidly in response to career related external, or internal, job moves. These mobility differences play an important role in explaining the rapid growth in the motherhood wage gap in the years after birth.",
+  "authors": [
+    {
+      "raw": "Avram, Silvia",
+      "family": "Avram",
+      "given": "Silvia"
+    },
+    {
+      "raw": "Harkness, Susan",
+      "family": "Harkness",
+      "given": "Susan"
+    },
+    {
+      "raw": "Popova, Daria",
+      "family": "Popova",
+      "given": "Daria"
+    }
+  ],
+  "authors_text": "Avram, Silvia; Harkness, Susan; Popova, Daria",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae068",
+  "doi_url": "https://doi.org/10.1093/sf/soae068",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae068",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae068.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

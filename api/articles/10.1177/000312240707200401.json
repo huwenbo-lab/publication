@@ -1,0 +1,30 @@
+{
+  "title": "Diversity, opportunity, and the shifting meritocracy in higher education",
+  "abstract": "This article uses four data sets to assess changes in the relative weights of test- and performance-based merit criteria on college enrollment during the 1980s and 1990s and considers their significance for affirmative action. Our results support the shifting meritocracy hypothesis, revealed by selective postsecondary institutions' increased reliance on test scores to screen students. This shift has made it dificult for institutions to achieve diversity without giving minorities a boost through race-sensitive preferences. Statistical simulations that equalize, hold constant, or exclude test scores or class rank from the admission decision illustrate that reliance on performance-based criteria is highly compatible with achieving institutional diversity and does not lower graduation rates. Evidence from a natural experiment in Texas after the implementation of the top 10 percent law supports this conclusion. The apparent tension between merit and diversity exists only when merit is narrowly defined by test scores.",
+  "authors": [
+    {
+      "raw": "Alon, Sigal",
+      "family": "Alon",
+      "given": "Sigal"
+    },
+    {
+      "raw": "Tienda, Marta",
+      "family": "Tienda",
+      "given": "Marta"
+    }
+  ],
+  "authors_text": "Alon, Sigal; Tienda, Marta",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2007,
+  "doi": "10.1177/000312240707200401",
+  "doi_url": "https://doi.org/10.1177/000312240707200401",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240707200401",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240707200401.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

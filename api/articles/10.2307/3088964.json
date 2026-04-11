@@ -1,0 +1,35 @@
+{
+  "title": "Resource distributions and market partitioning: Dutch daily newspapers, 1968 to 1994",
+  "abstract": "Resource-partitioning theory explains how, in heavily concentrated populations, specialist organizations arise and proliferate. The theory also addresses the process of market concentration itself, although far less attention has been devoted to the theoretical claims in this area. In this analysis, the theory is used to explain generalist concentration through the distribution of environmental (market) resources. It is argued that the higher the homogeneity and concentration of relevant environmental resources, the higher the concentration of large generalist organizations competing on the basis of scale. Using data on the Dutch daily newspaper industry from 1968 to 1994, statistical analyses show that concentration among generalist (national) newspapers occurs more fully in province-level markets where the readership base consists of relatively homogeneous sets of individuals in terms of age, religion, politics, and education. At the same time, these concentrated markets prove to be fertile areas for the operation of specialist papers, at least when resources are not fully homogenized. The analysis thus provides a more complete model of the resource-partitioning process among organizations in a population.",
+  "authors": [
+    {
+      "raw": "Boone, C",
+      "family": "Boone",
+      "given": "C"
+    },
+    {
+      "raw": "Carroll, GR",
+      "family": "Carroll",
+      "given": "GR"
+    },
+    {
+      "raw": "van Witteloostuijn, A",
+      "family": "van Witteloostuijn",
+      "given": "A"
+    }
+  ],
+  "authors_text": "Boone, C; Carroll, GR; van Witteloostuijn, A",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2002,
+  "doi": "10.2307/3088964",
+  "doi_url": "https://doi.org/10.2307/3088964",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088964",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088964.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

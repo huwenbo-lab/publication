@@ -1,0 +1,25 @@
+{
+  "title": "Occupational sex segregation and the earnings of occupations: What causes the link among college-educated workers?",
+  "abstract": "Abstract A significant proportion of the earnings gap between men and women is attributable to occupational sex segregation and the concentration of women in relatively low-paying occupations, but we do not yet know why women continue to be employed disproportionately in lesser-paying occupations. I attempt to explain the sex gap in the relationship between average occupational earnings and occupational attainment by modeling occupational placement among a nationally representative sample of college-educated new labor force entrants. I test empirical predictions derived from supply- and demand-side theories of occupational sex segregation using a conditional logit model, strong controls for human capital investments, and a set of occupational characteristic measures that extends beyond those used in previous research. The results of this analysis show that sex differences in college major explain 11–17% of the sex gap in the likelihood of employment in relatively high-paying occupations. However, even among recent labor force entrants who have very similar human capital investments, i.e., college graduates with the same majors, women and men enter different types of occupations. The sex differences in the distribution of workers across occupational characteristics, coupled with the differential remuneration of the influential characteristics explains an additional 41% of the sex gap in the attainment of relatively lucrative occupational placement.",
+  "authors": [
+    {
+      "raw": "Shauman, Kimberlee A.",
+      "family": "Shauman",
+      "given": "Kimberlee A."
+    }
+  ],
+  "authors_text": "Shauman, Kimberlee A.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2006,
+  "doi": "10.1016/j.ssresearch.2004.12.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2004.12.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2004.12.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2004.12.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

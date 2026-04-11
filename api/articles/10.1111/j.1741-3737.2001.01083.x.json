@@ -1,0 +1,40 @@
+{
+  "title": "Role Balance Among White Married Couples",
+  "abstract": "We generate models predicting wives' and husbands' feelings of overall balance across roles. Drawing on fine‐grained data about marital lifestyles and time use, we find few predictors that are the same for both partners. Both report greater role balance when their level of parental attachment to children is higher and when their marital satisfaction is greater, but gendered time use gives rise to important differences. Wives report greater balance when they have more paid work hours but have fewer of these hours on weekends. Wives' balance is also greater when they feel less financial strain, have less leisure time alone with their children, more couple leisure alone with their husbands, and more social network involvement. Husbands' contribute to wives' balance when they report more relationship maintenance in the marriage and more leisure with their children at those times when wives are not present. Husbands' own role balance increases as their income rises, but it decreases as their work hours rise. Husbands' balance also rises with more nuclear family leisure, and it lessens as their leisure alone increases. Our discussion highlights the ways that gendered marital roles lead to these different correlates of balance.",
+  "authors": [
+    {
+      "raw": "Marks, Stephen R.",
+      "family": "Marks",
+      "given": "Stephen R."
+    },
+    {
+      "raw": "Huston, Ted L.",
+      "family": "Huston",
+      "given": "Ted L."
+    },
+    {
+      "raw": "Johnson, Elizabeth M.",
+      "family": "Johnson",
+      "given": "Elizabeth M."
+    },
+    {
+      "raw": "MacDermid, Shelley M.",
+      "family": "MacDermid",
+      "given": "Shelley M."
+    }
+  ],
+  "authors_text": "Marks, Stephen R.; Huston, Ted L.; Johnson, Elizabeth M.; MacDermid, Shelley M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2001,
+  "doi": "10.1111/j.1741-3737.2001.01083.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2001.01083.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2001.01083.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2001.01083.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

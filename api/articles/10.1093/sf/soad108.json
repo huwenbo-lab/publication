@@ -1,0 +1,30 @@
+{
+  "title": "Policy Effects on Mixed-Citizenship, Same-Sex Unions: A Triple-Difference Analysis",
+  "abstract": "After the U.S. Supreme Court struck down the Defense of Marriage Act (DOMA) in 2013, same-sex partners of U.S. citizens became eligible for spousal visas. Since then, the United States has seen a rapid rise in same-sex, mixed-citizenship couples. However, this effect varies greatly depending on the lesbian, gay, and bisexual (LGB) policy context of the noncitizen's country of origin. Using waves 2008-2019 of the American Community Survey, this study employs a triple-difference design to examine how the policy environment of the origin country moderates the effect of the end of DOMA on incidence of mixed-citizenship, same-sex couples in the United States. Quasi-Poisson models with two-way fixed effects show that, after 2013, individuals in mixed-citizenship, same-sex couples coming from countries with progressive LGB policies saw a more than 60% increase in incidence relative to those in different-sex or same-citizenship couples. Meanwhile, those from countries with regressive laws experienced no significant increase. These results are corroborated by analyses of individual policies. We argue that the country-of-origin policy context affects and is affected by local norms and attitudes as well as individuals' material circumstances. This nexus of factors leaves a lasting impact on immigrants that shapes migration decisions, union formation, and responses to policy shifts.",
+  "authors": [
+    {
+      "raw": "Hoffmann, Nathan, I",
+      "family": "Hoffmann",
+      "given": "Nathan, I"
+    },
+    {
+      "raw": "Velasco, Kristopher",
+      "family": "Velasco",
+      "given": "Kristopher"
+    }
+  ],
+  "authors_text": "Hoffmann, Nathan, I; Velasco, Kristopher",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soad108",
+  "doi_url": "https://doi.org/10.1093/sf/soad108",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad108",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad108.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

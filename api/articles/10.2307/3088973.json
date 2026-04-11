@@ -1,0 +1,30 @@
+{
+  "title": "Cohort effects on suicide rates: International variations",
+  "abstract": "Recently, the long observed pattern of a monotonic increase in suicide with age has shifted, often dramatically, because more recent birth cohorts have exhibited much higher suicide rates at younger ages than earlier cohorts have. These changes, however did not occur in all countries. We examine cohort variations in suicide rates in 14 modern, western societies using an extension of the age-period-cohort characteristic model that incorporates hierarchical linear modeling. Results support a general Durkheimian perspective. Birth cohorts experiencing relatively less social integration and regulation, as measured by higher rates of nonmarital births and larger relative cohort size, have higher suicide rates than other cohorts. Societies that provide alternative sources of social integration and regulation, as through collectivist institutions or through greater support for families and children, moderate this tendency. On the other hand, when societies experience rapid social change, the relationship between decreased social integration and regulation and increased suicide rates is stronger especially for males. These results have implications for stemming the increased suicide rates for youth observed in many contemporary societies.",
+  "authors": [
+    {
+      "raw": "Stockard, J",
+      "family": "Stockard",
+      "given": "J"
+    },
+    {
+      "raw": "O'Brien, RM",
+      "family": "O'Brien",
+      "given": "RM"
+    }
+  ],
+  "authors_text": "Stockard, J; O'Brien, RM",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2002,
+  "doi": "10.2307/3088973",
+  "doi_url": "https://doi.org/10.2307/3088973",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088973",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088973.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Cumulative Childhood Adversity, Educational Attainment, and Active Life Expectancy Among U.S. Adults",
+  "abstract": "AbstractStudies of the early-life origins of adult physical functioning and mortality have found that childhood health and socioeconomic context are important predictors, often irrespective of adult experiences. However, these studies have generally assessed functioning and mortality as distinct processes and used cross-sectional prevalence estimates that neglect the interplay of disability incidence, recovery, and mortality. Here, we examine whether early-life disadvantages both shorten lives and increase the number and fraction of years lived with functional impairment. We also examine the degree to which educational attainment mediates and moderates the health consequences of early-life disadvantages. Using the 1998–2008 Health and Retirement Study, we examine these questions for non-Hispanic whites and blacks aged 50–100 years using multistate life tables. Within levels of educational attainment, adults from disadvantaged childhoods lived fewer total and active years, and spent a greater portion of life impaired compared with adults from advantaged childhoods. Higher levels of education did not ameliorate the health consequences of disadvantaged childhoods. However, because education had a larger impact on health than did childhood socioeconomic context, adults from disadvantaged childhoods who achieved high education levels often had total and active life expectancies that were similar to or better than those of adults from advantaged childhoods who achieved low education levels.",
+  "authors": [
+    {
+      "raw": "Montez, Jennifer Karas",
+      "family": "Montez",
+      "given": "Jennifer Karas"
+    },
+    {
+      "raw": "Hayward, Mark D.",
+      "family": "Hayward",
+      "given": "Mark D."
+    }
+  ],
+  "authors_text": "Montez, Jennifer Karas; Hayward, Mark D.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0261-x",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0261-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0261-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0261-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Wage Differences between Atypical and Standard Workers in European Countries: Moving beyond Average Effects",
+  "abstract": "This article provides a detailed picture of wage differences between atypical and standard workers across the wage distribution. It compares two distinct types of atypical employment, part-time and temporary employment, and examines seven European countries. Using 2016 EU-SILC data, the article presents quantile regression estimates of wage gaps associated with atypical employment across the wage distribution. The results show that wage patterns associated with different types of atypical employment are diverse and complex. Temporary employment is associated with significant wage penalties that decrease but largely remain significant towards the upper end of the wage distribution. In contrast, wage differences between part-time and full-time workers are smaller and range from part-time penalties at lower deciles of the wage distribution to non-significant differences or premiums at the top. These results suggest that different mechanisms may drive wage differences associated with different types of atypical employment. In particular, the article highlights the role of occupation in affecting atypical workers' labour market position and, consequently, wages relative to standard workers. Overall, the significant heterogeneity in atypical employment and its wage consequences calls into question the usefulness of the concept as a unifying category for research.",
+  "authors": [
+    {
+      "raw": "Westhoff, Leonie",
+      "family": "Westhoff",
+      "given": "Leonie"
+    }
+  ],
+  "authors_text": "Westhoff, Leonie",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcac015",
+  "doi_url": "https://doi.org/10.1093/esr/jcac015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

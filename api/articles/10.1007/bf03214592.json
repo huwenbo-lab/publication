@@ -1,0 +1,35 @@
+{
+  "title": "Welfare reform and interstate migration of poor families",
+  "abstract": "Abstract The thesis of this study is that as a result of increased inequalities in welfare rules, the 1996 welfare reform act not only enhanced incentives for poor families to move but also (and perhaps more important) created disincentives for them to stay in “race to the bottom” states. In testing this thesis, we evaluated the mediating and moderating roles of state economic development and family structure. We merged data from three main sources: the 1996–1999 panel of the Survey of Income and Program Participation, the Urban Institute’s Welfare Rules Database, and state economic data from the Bureau of Labor Statistics. Modeling both destination (pull) and departure (push) effects of welfare policy measures and selected covariates in a nested discrete-time event-history migration analysis, we found robust support for the thesis that stringency in state welfare-eligibility and behavior-related rules stimulated interstate out-migration of poor families in the United States. However, poor families were not drawn to states with relatively more-lenient welfare rules, although stringency in state welfare dollar benefits inhibited in-migration and state unemployment patterns may have conditioned the migration effects of welfare-reform rules on the choice of destination. Single mothers were not more directly affected by welfare-eligibility and behavior-related rules than were poor married couples.",
+  "authors": [
+    {
+      "raw": "De Jong, Gordon F.",
+      "family": "De Jong",
+      "given": "Gordon F."
+    },
+    {
+      "raw": "Graefe, Deborah Roempke",
+      "family": "Graefe",
+      "given": "Deborah Roempke"
+    },
+    {
+      "raw": "St. Pierre, Tanja",
+      "family": "St. Pierre",
+      "given": "Tanja"
+    }
+  ],
+  "authors_text": "De Jong, Gordon F.; Graefe, Deborah Roempke; St. Pierre, Tanja",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1007/bf03214592",
+  "doi_url": "https://doi.org/10.1007/bf03214592",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fbf03214592",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/bf03214592.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

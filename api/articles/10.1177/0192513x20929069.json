@@ -1,0 +1,30 @@
+{
+  "title": "Attitudes toward Working Mothers and Work-Oriented Fathers in the US",
+  "abstract": "While there is a wealth of research on gender ideology, most research focuses on attitudes toward women and women's roles. This study aims to address the gap in our understanding of attitudes toward working fathers. Using the 2016 General Social Survey (GSS), we find more negative attitudes toward work-oriented fathers than working mothers. Results from multinomial logistic regression show that men, older individuals, Hispanics, and those who attend religious services more frequently are more likely to agree that both working mothers and work-oriented fathers are harmful to families. On the other hand, those whose mothers were employed when they were 16 years old and those who have a college or graduate degree are less likely to agree that only working mothers are harmful.",
+  "authors": [
+    {
+      "raw": "Kaufman, Gayle",
+      "family": "Kaufman",
+      "given": "Gayle"
+    },
+    {
+      "raw": "Bair, Molly",
+      "family": "Bair",
+      "given": "Molly"
+    }
+  ],
+  "authors_text": "Kaufman, Gayle; Bair, Molly",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2021,
+  "doi": "10.1177/0192513x20929069",
+  "doi_url": "https://doi.org/10.1177/0192513x20929069",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x20929069",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x20929069.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Spatiotemporal Changes in the Slavery-Inequality Relationship: The Diffusion of the Legacy of Slavery",
+  "abstract": "Despite the persistence of relationships between historical racist violence and con tem po rary Black-White inequal ity, research indi cates, in broad strokes, that the slav ery-inequal ity rela tion ship in the United States has changed over time. Identifying the tim ing of such change across states can offer insights into the under ly ing pro cesses that gen er ate Black-White inequal ity. In this study, we use inte grated nested Laplace approximation models to simultaneously account for spatial and temporal features of panel data for Southern counties dur ing the period span ning 1900 to 2018, in com bi na tion with data on the con cen tra tion of enslaved peo ple from the 1860 cen sus. Results provide the first evidence on the timing of changes in the slavery-economic inequality relationship and how changes differ across states. We find a region-wide decline in the mag ni tude of the slav ery-inequal ity rela tion ship by 1930, with declines tra vers ing the South in a north east erlytosouth west erly pat tern over the study period. Different paces in declines in the rela tion ship across states sug gest the expan sion of insti tu tion al ized racism first in places with the longest-standing overt systems of slavery. Results provide guidance for further identifying intervening mechanisms-most centrally, the maturity of racial hier ar chies and the asso ci ated diffu sion of racial oppres sion across insti tu tions, and how they affect the leg acy of slav ery in the United States.",
+  "authors": [
+    {
+      "raw": "O'Connell, Heather A.",
+      "family": "O'Connell",
+      "given": "Heather A."
+    },
+    {
+      "raw": "Curtis, Katherine J.",
+      "family": "Curtis",
+      "given": "Katherine J."
+    },
+    {
+      "raw": "Mikulas, Alex",
+      "family": "Mikulas",
+      "given": "Alex"
+    },
+    {
+      "raw": "DeWaard, Jack",
+      "family": "DeWaard",
+      "given": "Jack"
+    },
+    {
+      "raw": "Lee, Junho",
+      "family": "Lee",
+      "given": "Junho"
+    }
+  ],
+  "authors_text": "O'Connell, Heather A.; Curtis, Katherine J.; Mikulas, Alex; DeWaard, Jack; Lee, Junho",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11369749",
+  "doi_url": "https://doi.org/10.1215/00703370-11369749",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11369749",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11369749.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

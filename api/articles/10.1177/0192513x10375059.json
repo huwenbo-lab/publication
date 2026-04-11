@@ -1,0 +1,30 @@
+{
+  "title": "Crime, Race, and the Transition to Marriage",
+  "abstract": "Although it has been suggested that engaging in criminal behavior diminishes young adults’ marriageability, few studies have examined the effect of criminal offending on marital timing. This analysis uses longitudinal data from 1,641 respondents to the National Youth Survey to examine this relationship. Discrete-time event-history models show that, among young men, criminal behavior is inversely associated with the risk of marriage, net of established determinants of marital timing. However, rather than reflecting criminal offenders’ reduced value as marriage partners, much of this association is because of offenders’ lesser desire to marry. No association between criminal behavior and marital timing is observed for young women, and racial differences in criminal offending cannot account for the pronounced racial difference in marital timing.",
+  "authors": [
+    {
+      "raw": "King, Ryan D.",
+      "family": "King",
+      "given": "Ryan D."
+    },
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    }
+  ],
+  "authors_text": "King, Ryan D.; South, Scott J.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2010,
+  "doi": "10.1177/0192513x10375059",
+  "doi_url": "https://doi.org/10.1177/0192513x10375059",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x10375059",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x10375059.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

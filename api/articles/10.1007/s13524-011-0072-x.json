@@ -1,0 +1,25 @@
+{
+  "title": "Migration, Marital Change, and HIV Infection in Malawi",
+  "abstract": "Abstract Research on the relationship between migration and HIV infection in sub-Saharan Africa often suggests that migrants are at higher risk of HIV infection because they are more likely to engage in HIV risk behaviors than nonmigrants, and they tend to move to areas with a relatively higher HIV prevalence. Although migration may be a risk factor for HIV infection, I instead focus on the possibility that the HIV positive are more likely to migrate. Using a longitudinal data set of permanent rural residents and migrants from Malawi, I find that migrants originating from rural areas are indeed more likely than nonmigrants to be HIV positive and to have engaged in HIV risk behaviors. The increased HIV risk among migrants may be due to the selection of HIV-positive individuals into migration; I find that HIV-positive individuals are more likely to migrate than those who are HIV negative. The explanation for this phenomenon appears to be marital instability, which occurs more frequently among HIV-positive individuals and leads to migration after marital change.",
+  "authors": [
+    {
+      "raw": "Anglewicz, Philip",
+      "family": "Anglewicz",
+      "given": "Philip"
+    }
+  ],
+  "authors_text": "Anglewicz, Philip",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0072-x",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0072-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0072-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0072-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

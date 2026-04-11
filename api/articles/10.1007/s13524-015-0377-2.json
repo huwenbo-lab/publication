@@ -1,0 +1,30 @@
+{
+  "title": "Birth Order and Mortality: A Population-Based Cohort Study",
+  "abstract": "This study uses Swedish population register data to investigate the relationship between birth order and mortality at ages 30 to 69 for Swedish cohorts born between 1938 and 1960, using a within-family comparison. The main analyses are conducted with discrete-time survival analysis using a within-family comparison, and the estimates are adjusted for age, mother's age at the time of birth, and cohort. Focusing on sibships ranging in size from two to six, we find that mortality risk in adulthood increases with later birth order. The results show that the relative effect of birth order is greater among women than among men. This pattern is consistent for all the major causes of death but is particularly pronounced for mortality attributable to cancers of the respiratory system and to external causes. Further analyses in which we adjust for adult socioeconomic status and adult educational attainment suggest that social pathways only mediate the relationship between birth order and mortality risk in adulthood to a limited degree.",
+  "authors": [
+    {
+      "raw": "Barclay, Kieron",
+      "family": "Barclay",
+      "given": "Kieron"
+    },
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Barclay, Kieron; Kolk, Martin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0377-2",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0377-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0377-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0377-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

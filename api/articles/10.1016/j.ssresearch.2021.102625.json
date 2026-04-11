@@ -1,0 +1,30 @@
+{
+  "title": "Do academic ability and social background influence each other in shaping educational attainment? The case of the transition to secondary education in Germany",
+  "abstract": "Studies examining the interplay between children's academic ability and parental background are rare, and their findings are mixed and inconclusive. This paper addresses possible reinforcing or compensating relationships between child characteristics and parental social background in their influence on the transition to upper secondary education, the most important transition in the German school system. We use the German TwinLife data for genetically informed analyses and include comprehensive information on parental background as well as child cognitive ability and personality. We find no evidence for a significant influence of reinforcing or compensatory interactions in addition to the strong additive effects of child and parental characteristics. The ACE decomposition with covariates shows an almost equal influence of genetic variation and shared environments. However, indicators of child academic ability and parental background contribute only a little to explaining both contributions. Interestingly, the influence of child characteristics on enrollment in upper secondary school works mainly through environmental rather than genetic effects.",
+  "authors": [
+    {
+      "raw": "Monkediek, Bastian",
+      "family": "Monkediek",
+      "given": "Bastian"
+    },
+    {
+      "raw": "Diewald, Martin",
+      "family": "Diewald",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Monkediek, Bastian; Diewald, Martin",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102625",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102625",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102625",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102625.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

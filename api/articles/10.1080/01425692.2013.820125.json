@@ -1,0 +1,25 @@
+{
+  "title": "School socioeconomic compositional effect on shadow education participation: evidence from Japan",
+  "abstract": "While shadow education, organized learning activities outside formal school, has grown greatly around the world, the relationship between formal schooling and shadow education has not been well investigated. This study is therefore intended to empirically test whether formal education's structure (i.e. tracking) affects students' shadow education participation by utilizing a nationally representative dataset consisting of 10th-grade students in Japan. Results of multilevel logistic regression analyses show school socioeconomic compositional and cross-level interaction effects on shadow education participation: students in high-socioeconomic status (SES) schools are more likely to seek shadow education lessons than those in schools of lower SES; and higher SES students tend to take shadow education lessons, especially when in high-SES schools. Additionally, the study finds that the school composition effect becomes relatively weak when extra lessons are free of charge, highlighting the importance of family economic capital to obtain additional learning opportunities.",
+  "authors": [
+    {
+      "raw": "Matsuoka, Ryoji",
+      "family": "Matsuoka",
+      "given": "Ryoji"
+    }
+  ],
+  "authors_text": "Matsuoka, Ryoji",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2015,
+  "doi": "10.1080/01425692.2013.820125",
+  "doi_url": "https://doi.org/10.1080/01425692.2013.820125",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2013.820125",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2013.820125.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

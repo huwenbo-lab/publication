@@ -1,0 +1,35 @@
+{
+  "title": "Descriptive dimensions of US occupations with data from the O*NET",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Hadden, Wilbur C.",
+      "family": "Hadden",
+      "given": "Wilbur C."
+    },
+    {
+      "raw": "Kravets, Nataliya",
+      "family": "Kravets",
+      "given": "Nataliya"
+    },
+    {
+      "raw": "Muntaner, Carles",
+      "family": "Muntaner",
+      "given": "Carles"
+    }
+  ],
+  "authors_text": "Hadden, Wilbur C.; Kravets, Nataliya; Muntaner, Carles",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2004,
+  "doi": "10.1016/s0049-089x(03)00039-5",
+  "doi_url": "https://doi.org/10.1016/s0049-089x(03)00039-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fs0049-089x%2803%2900039-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/s0049-089x%2803%2900039-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

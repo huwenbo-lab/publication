@@ -1,0 +1,30 @@
+{
+  "title": "Does cram school participation bring about negative emotions? Causal inference based on Chinese Education Panel Survey (CEPS) data",
+  "abstract": "This study focuses on the causal relationship between teenagers' participation in cram schools and their emotional well-being. Our analysis is based on Chinese Education Panel Survey data (CEPS 2013-2015). We construct instrumental variables and introduce lagged variables to mitigate possible endogeneity problems. The major findings are as follows. First, the participation of socioeconomically disadvantaged teenagers in cram schools significantly exacerbates their negative emotions. Teenagers of advantaged family socioeconomic status (SES) show better ability in emotion regulation and in avoiding specific negative emotions. Second, we explore class heterogeneity in emotion regulation. Specifically, we propose a preliminary theoretical framework based on a typology of parenting styles. We conjecture that parents of different social classes may respond differently to their children's negative emotions. And for children who attend cram schools, there might be intergroup disparities in their own emotion-regulation ability by their class origins. Empirically, we carry out a counterfactual analysis to further illustrate the association between class difference in emotion regulation and that in the depressive effect of cram school participation, providing supporting evidence for our theoretical framework. In sum, our study is helpful to further our understanding of the implications of emotional health inequality which may derive from the shadow education system.",
+  "authors": [
+    {
+      "raw": "Li, Shiyuan",
+      "family": "Li",
+      "given": "Shiyuan"
+    },
+    {
+      "raw": "Liu, Aiyu",
+      "family": "Liu",
+      "given": "Aiyu"
+    }
+  ],
+  "authors_text": "Li, Shiyuan; Liu, Aiyu",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1177/2057150x231165145",
+  "doi_url": "https://doi.org/10.1177/2057150x231165145",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x231165145",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x231165145.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

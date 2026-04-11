@@ -1,0 +1,25 @@
+{
+  "title": "How Far From Meritocracy? A Cross-National Longitudinal Analysis of European Countries",
+  "abstract": "This figure describes the distance from meritocracy in 36 European countries between 2002 and 2017. Following Krauze and Slomczynski, the author defines meritocratic allocation of individuals by education to occupational status groups as a situation when more educated persons do not have jobs with lower status than less educated persons. Using data from the European Social Survey rounds 1 to 8, for each country-round, the author identifies the theoretical meritocratic joint distribution of education and occupational status, as well as the theoretical distribution under statistical independence, and measures the distance of empirical distributions to these two ideal situations. The author finds that the distance to meritocracy varies substantially across European countries, with some countries being closer to allocation under independence than to meritocratic allocation. In terms of cross-country differences, the distance to meritocracy is smaller in postcommunist countries than in Western Europe, with some convergence observable over time.",
+  "authors": [
+    {
+      "raw": "Kołczyńska, Marta",
+      "family": "Kołczyńska",
+      "given": "Marta"
+    }
+  ],
+  "authors_text": "Kołczyńska, Marta",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119858825",
+  "doi_url": "https://doi.org/10.1177/2378023119858825",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119858825",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119858825.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

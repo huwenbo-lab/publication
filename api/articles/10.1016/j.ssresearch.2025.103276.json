@@ -1,0 +1,30 @@
+{
+  "title": "Public housing and neighborhood composition in Hong Kong, 1981-2016",
+  "abstract": "Public housing is recognized for changing the neighborhood socioeconomic landscape. In this study, we investigate the impact of public housing projects on the neighborhood socioeconomic composition in Hong Kong, an affluent city characterized by economic inequality and social divide. By employing a two-way fixed effects model on data that combines neighborhood census and administrative records, we identify that the share and count of low-income households increased with additional public housing projects in the neighborhoods. Conversely, we observe crowding out effects on high-income households due to public housing projects. Such associations are stronger in neighborhoods with higher initial economic status. Moreover, the effect on neighborhood composition is only evident for new public housing projects, whereas renewed public housing projects had little impact. The study contributes to a more comprehensive understanding of the effects of public housing on neighborhoods and offers insights into designing public housing policies in a comparative perspective.",
+  "authors": [
+    {
+      "raw": "Zhang, Yi",
+      "family": "Zhang",
+      "given": "Yi"
+    },
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    }
+  ],
+  "authors_text": "Zhang, Yi; Wu, Xiaogang",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2026,
+  "doi": "10.1016/j.ssresearch.2025.103276",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103276",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103276",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103276.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

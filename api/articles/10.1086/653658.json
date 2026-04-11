@@ -1,0 +1,30 @@
+{
+  "title": "Beyond and Below Racial Homophily: ERG Models of a Friendship Network Documented on Facebook",
+  "abstract": "A notable feature of U. S. social networks is their high degree of racial homogeneity, which is often attributed to racial homophily-the preference for associating with individuals of the same racial background. The authors unpack racial homogeneity using a theoretical framework that distinguishes between various tie formation mechanisms and their effects on the racial composition of networks, exponential random graph modeling that can disentangle these mechanisms empirically, and a rich new data set based on the Facebook pages of a cohort of college students. They first show that racial homogeneity results not only from racial homophily proper but also from homophily among coethnics of the same racial background and from balancing mechanisms such as the tendency to reciprocate friendships or to befriend the friends of friends, which both amplify the homogeneity effects of homophily. Then, they put the importance of racial homophily further into perspective by comparing its effects to those of other mechanisms of tie formation. Balancing, propinquity based on coresidence, and homophily regarding nonracial categories (e. g., students from elite backgrounds or those from particular states) all influence the tie formation process more than does racial homophily.",
+  "authors": [
+    {
+      "raw": "Wimmer, Andreas",
+      "family": "Wimmer",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Lewis, Kevin",
+      "family": "Lewis",
+      "given": "Kevin"
+    }
+  ],
+  "authors_text": "Wimmer, Andreas; Lewis, Kevin",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2010,
+  "doi": "10.1086/653658",
+  "doi_url": "https://doi.org/10.1086/653658",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F653658",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/653658.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Ethnic Classroom Composition and Minority Language Use among Classmates: Do Peers Matter for Students' Language Achievement?",
+  "abstract": "This article examines the relationship between ethnic classroom composition and students' language-related achievement. We investigate whether minority language use among classmates accounts for effects of ethnic composition on minority students' German reading comprehension and their proficiency in the minority languages Russian and Turkish. We employ multilevel models using cross-sectional data from a sample of ninth-grade students participating in the German National Educational Panel Study. Our findings indicate that students' minority language background rather than their ethnic origin accounts for ethnic composition effects. We find a negative relationship between the ethno-lingual classroom composition and students' German reading comprehension, but the association is small and limited to minority students. Moreover, the ethno-lingual classroom composition is positively correlated with minority language proficiency, specifically among Turkish-speaking students. These associations are substantially reduced after controlling for students' minority language use with their classmates, indicating that a higher proportion of minority language students in a classroom provides additional opportunities for acquiring or maintaining higher levels of proficiency in the minority language. Overall, the ethnic classroom composition does not appear to substantially reinforce existing inequalities between minority and majority students.",
+  "authors": [
+    {
+      "raw": "Seuring, Julian",
+      "family": "Seuring",
+      "given": "Julian"
+    },
+    {
+      "raw": "Rjosk, Camilla",
+      "family": "Rjosk",
+      "given": "Camilla"
+    },
+    {
+      "raw": "Stanat, Petra",
+      "family": "Stanat",
+      "given": "Petra"
+    }
+  ],
+  "authors_text": "Seuring, Julian; Rjosk, Camilla; Stanat, Petra",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcaa022",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa022",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa022",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa022.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

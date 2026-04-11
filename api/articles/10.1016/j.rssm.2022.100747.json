@@ -1,0 +1,35 @@
+{
+  "title": "Escaping from low-wage employment: The role of co-worker networks",
+  "abstract": "Low-wage jobs are often regarded as dead ends in the labour market careers of young people. Previous research focused on disentangling to what degree the association between a low-wage job at the start of working life and limited chances of transitioning to better-paid employment is causal or spurious. Less attention has been paid to the factors that may facilitate the upward wage mobility of low-wage workers. We focus on such mechanisms, and we scrutinize the impact of social ties to higher-educated co-workers. Due to knowledge spillovers, job referrals, as well as firm-level productivity gains, having higher-educated co-workers may improve an in-dividual's chances of transitioning to a better-paid job. We use linked employer-employee data from longitudinal Swedish registers and panel data models that incorporate measures of low-wage workers' social ties to higher -educated co-workers. Our results confirm that having social ties to higher-educated co-workers increases indi-vidual chances of transitioning to better-paid employment.",
+  "authors": [
+    {
+      "raw": "Baranowska-Rataj, Anna",
+      "family": "Baranowska-Rataj",
+      "given": "Anna"
+    },
+    {
+      "raw": "Eriksson, Rikard",
+      "family": "Eriksson",
+      "given": "Rikard"
+    },
+    {
+      "raw": "Elekes, Zoltan",
+      "family": "Elekes",
+      "given": "Zoltan"
+    }
+  ],
+  "authors_text": "Baranowska-Rataj, Anna; Eriksson, Rikard; Elekes, Zoltan",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2022.100747",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100747",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100747",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100747.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

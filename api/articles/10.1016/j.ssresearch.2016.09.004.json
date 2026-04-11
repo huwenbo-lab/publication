@@ -1,0 +1,30 @@
+{
+  "title": "Non-intact families and diverging educational destinies: A decomposition analysis for Germany, Italy, the United Kingdom and the United States",
+  "abstract": "We examine whether the presence of non-intact families in society is related to increased inequality in educational attainment according to social background, as suggested by the 'diverging destinies' thesis. We analyze four countries, Germany, Italy, the United Kingdom, and the United States, that differ in the prevalence of non-intact families and in the strength of the negative association between growing up in a non-intact family and children's educational attainment. We use a Blinder-Oaxaca decomposition approach to calculate a 'counterfactual' estimate of differences in educational attainment between socioeconomically advantaged and disadvantaged children in the hypothetical absence of non-intact families. Contrary to the diverging destinies thesis, we find little differences between actual and 'counterfactual' levels of inequality in educational attainment in all four countries. Whereas growing-up in a non-intact family affects the individual chances of educational attainment, the overall contribution of non-intact families to aggregate levels of social background inequality appears minimal. (C) 2017 The Authors. Published by Elsevier Inc.",
+  "authors": [
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    },
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    }
+  ],
+  "authors_text": "Bernardi, Fabrizio; Boertien, Diederik",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.09.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.09.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.09.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.09.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

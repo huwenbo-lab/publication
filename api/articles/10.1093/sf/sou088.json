@@ -1,0 +1,25 @@
+{
+  "title": "Ethnic Diversity, Economic and Cultural Contexts, and Social Trust: Cross-Sectional and Longitudinal Evidence from European Regions, 2002-2010",
+  "abstract": "A growing literature investigates the relationship between ethnic diversity and social trust. Comparative research in the European context employing country-level indicators has predominantly produced inconclusive results. This study examines the relationship between immigration-related diversity and social trust at the sub-national level of European regions. The regional perspective allows the capture of relevant variations in ethnic context while it still generates comparable results for a broader European context. Using survey data from the European Social Survey 2002-2010 merged with immigration figures from the European Labour Force Survey, this study builds upon previous research by testing the relationships between various diversity indicators and social trust in cross-sectional and longitudinal perspective. In addition, it investigates the role of economic and cultural contexts as moderators. The results show that across European regions, different aspects of immigration-related diversity are negatively related to social trust. In longitudinal perspective, an increase in immigration is related to a decrease in social trust. Tests of the conditional hypotheses reveal that regional economic growth and ethnic polarization as a cultural context moderate the relationship. Immigration growth is particularly strongly associated with a decrease in social trust in contexts of economic decline and high ethnic polarization. However, there is some evidence that in contexts of low polarization the relationship is actually positive.",
+  "authors": [
+    {
+      "raw": "Ziller, Conrad",
+      "family": "Ziller",
+      "given": "Conrad"
+    }
+  ],
+  "authors_text": "Ziller, Conrad",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sou088",
+  "doi_url": "https://doi.org/10.1093/sf/sou088",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou088",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou088.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

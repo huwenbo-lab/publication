@@ -1,0 +1,35 @@
+{
+  "title": "Does intergenerational educational mobility vary by sexual identity? A comparative analysis of five OECD countries",
+  "abstract": "Lesbian, gay and bisexual people are disadvantaged in terms of health and socio-economic status compared with heterosexual people, yet findings pertaining to educational outcomes vary depending on the specific identity and gender considered. This study delves into these unexplained findings by applying a social-stratification lens, thereby providing an account of how intergenerational educational mobility varies by sexual identity. To accomplish this, we use representative data from five OECD countries and a regression-based empirical specification relying on coarsened exact matching. We find that gay and lesbian people have higher educational attainment than heterosexual people in all five countries and that these higher levels of education stem from greater rates of upward educational mobility among gay/lesbian people. There were, however, few differences between heterosexual and bisexual people. Variation across countries emerged when analyses were stratified by gender, with higher rates of upward mobility observed for gay men in Australia, Chile, the United Kingdom, and the United States and lesbian women in Australia and Germany. Overall, our results align with previous claims that education can be a strategy for gay/lesbian people to avoid actual or anticipated discrimination. However, variation in these patterns across groups suggests that other mechanisms may also be at play.",
+  "authors": [
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    },
+    {
+      "raw": "Perales, Francisco",
+      "family": "Perales",
+      "given": "Francisco"
+    },
+    {
+      "raw": "Pessin, Lea",
+      "family": "Pessin",
+      "given": "Lea"
+    }
+  ],
+  "authors_text": "Boertien, Diederik; Perales, Francisco; Pessin, Lea",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad062",
+  "doi_url": "https://doi.org/10.1093/esr/jcad062",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad062",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad062.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

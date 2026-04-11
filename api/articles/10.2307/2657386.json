@@ -1,0 +1,30 @@
+{
+  "title": "Events, instruments, and reporting errors",
+  "abstract": "Social scientists frequently lack methods for assessing the accuracy of survey responses about events and behaviors. And often they do not have a genera framework for understanding or systematically analyzing the characteristics of experience, if any, that influence errors in reports about those events. In this validation study, structural features or characteristics of exchanging child support payments are examined to predict errors in reports about those events. The analysis compares court records about child support payments with answers from two telephone surveys that use parallel samples of divorced parents. Results show that indicators for the complexity, clarity, and affective intensity of the events predict reporting errors.",
+  "authors": [
+    {
+      "raw": "Dykema, J",
+      "family": "Dykema",
+      "given": "J"
+    },
+    {
+      "raw": "Schaeffer, NC",
+      "family": "Schaeffer",
+      "given": "NC"
+    }
+  ],
+  "authors_text": "Dykema, J; Schaeffer, NC",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2000,
+  "doi": "10.2307/2657386",
+  "doi_url": "https://doi.org/10.2307/2657386",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2657386",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2657386.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

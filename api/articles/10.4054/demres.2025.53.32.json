@@ -1,0 +1,50 @@
+{
+  "title": "Gender disparities in death registration during the COVID-19 pandemic in an urban African setting",
+  "abstract": "BACKGROUND In many low-and middle-income countries (LMICs), the completeness of death registration is lower among women, hampering accurate monitoring of health and mortality, gender equality, and rights. OBJECTIVE We quantify the gender gap in death registration and examine its determinants in Guinea-Bissau, a data-scarce West African context during 2020-2023, a period of potentially high mortality. METHODS We collected survey data from 477 urban households where deaths had occurred among regular members since January 2020. We describe the characteristics and circumstances of these deaths. We then use logistic regressions to evaluate which factors are related to the likelihood of death registration. We apply Fairlie decomposition techniques to assess how much compositional factors explain the observed gender gap in death registration. Finally, we analyse reported reasons for (non-)registration. RESULTS Of 610 reported deaths, only 24% were registered; no infant deaths were registered. Among adult deaths (ages 15+), registration rates were higher for men (44.7%) than for women (22.1%). Gender differences in education among adult decedents explained more than 60% of the gap. Post-mortem financial transfers motivated registering male deaths, whereas non-registration was linked to low perceived benefits and limited awareness of the registration process, regardless of gender. CONCLUSIONS The observed under-registration of female deaths has implications for accurately representing and understanding gender-specific mortality and health trends. Low completeness can increase vulnerabilities for surviving relatives lacking death certificates, which are often needed to claim rights. Addressing knowledge barriers and introducing gender-sensitive incentives could help improve coverage and reduce gender disparities. CONTRIBUTION Findings offer insights into a neglected dimension of gender inequality: its correlates and drivers in LMICs.",
+  "authors": [
+    {
+      "raw": "Torrisi, Orsola",
+      "family": "Torrisi",
+      "given": "Orsola"
+    },
+    {
+      "raw": "Damerow, Sabine Margarete",
+      "family": "Damerow",
+      "given": "Sabine Margarete"
+    },
+    {
+      "raw": "Fisker, Ane",
+      "family": "Fisker",
+      "given": "Ane"
+    },
+    {
+      "raw": "Fernandes, Didier Abdel",
+      "family": "Fernandes",
+      "given": "Didier Abdel"
+    },
+    {
+      "raw": "Rodrigues, Amabelia",
+      "family": "Rodrigues",
+      "given": "Amabelia"
+    },
+    {
+      "raw": "Helleringer, Stephane",
+      "family": "Helleringer",
+      "given": "Stephane"
+    }
+  ],
+  "authors_text": "Torrisi, Orsola; Damerow, Sabine Margarete; Fisker, Ane; Fernandes, Didier Abdel; Rodrigues, Amabelia; Helleringer, Stephane",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.32",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Slowdowns of fertility decline: When should we call it a 'fertility stall'?",
+  "abstract": "BACKGROUND The phenomenon of fertility stalls in Africa has recently received much attention in the literature yet hasn't lead to clear-cut conclusions. OBJECTIVE We test the robustness of past findings by comparing alternative definitions and by extending the sample to most recent years. We further propose the concept of a conditional fertility stall, identifying countries that have a relatively high level of fertility despite a relatively high level of socioeconomic development. METHODS We use aggregate and survey data from various sources, describe variation in fertility across countries, and relate differences using regression techniques to socioeconomic covariates. We use predicted residuals to identify deviations from expected levels and define these as conditional fertility stalls. RESULTS The fertility in some countries, such as Nigeria and Uganda, is too high given their level of GDP per capita, female education, and child mortality. Here noneconomic conditions seem to hold back the transition. Other countries, such as Nepal and Bangladesh, have a continuation of the transition that seems to require further economic development: In these countries, fertility is just at or even below the level that the prevailing economic conditions predict. CONCLUSION Our concept shows that long-lasting unconditional fertility stalls are rare and that a slowdown of the fertility transition can in many cases be explained by a stagnation in socioeconomic development. Policy recommendations should take this distinction between unconditional and conditional fertility stalls into consideration. CONTRIBUTION We expand the literature on the conceptualisation and the measurement of fertility stalls.",
+  "authors": [
+    {
+      "raw": "Grimm, Michael",
+      "family": "Grimm",
+      "given": "Michael"
+    },
+    {
+      "raw": "Gunther, Isabel",
+      "family": "Gunther",
+      "given": "Isabel"
+    },
+    {
+      "raw": "Harttgen, Kenneth",
+      "family": "Harttgen",
+      "given": "Kenneth"
+    },
+    {
+      "raw": "Klasen, Stephan",
+      "family": "Klasen",
+      "given": "Stephan"
+    }
+  ],
+  "authors_text": "Grimm, Michael; Gunther, Isabel; Harttgen, Kenneth; Klasen, Stephan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.26",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

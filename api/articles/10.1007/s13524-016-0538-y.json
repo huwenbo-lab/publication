@@ -1,0 +1,45 @@
+{
+  "title": "Place and Child Health: The Interaction of Population Density and Sanitation in Developing Countries",
+  "abstract": "A long literature in demography has debated the importance of place for health, especially children's health. In this study, we assess whether the importance of dense settlement for infant mortality and child height is moderated by exposure to local sanitation behavior. Is open defecation (i.e., without a toilet or latrine) worse for infant mortality and child height where population density is greater? Is poor sanitation is an important mechanism by which population density influences child health outcomes? We present two complementary analyses using newly assembled data sets, which represent two points in a trade-off between external and internal validity. First, we concentrate on external validity by studying infant mortality and child height in a large, international child-level data set of 172 Demographic and Health Surveys, matched to census population density data for 1,800 subnational regions. Second, we concentrate on internal validity by studying child height in Bangladeshi districts, using a new data set constructed with GIS techniques that allows us to control for fixed effects at a high level of geographic resolution. We find a statistically robust and quantitatively comparable interaction between sanitation and population density with both approaches: open defecation externalities are more important for child health outcomes where people live more closely together.",
+  "authors": [
+    {
+      "raw": "Hathi, Payal",
+      "family": "Hathi",
+      "given": "Payal"
+    },
+    {
+      "raw": "Haque, Sabrina",
+      "family": "Haque",
+      "given": "Sabrina"
+    },
+    {
+      "raw": "Pant, Lovey",
+      "family": "Pant",
+      "given": "Lovey"
+    },
+    {
+      "raw": "Coffey, Diane",
+      "family": "Coffey",
+      "given": "Diane"
+    },
+    {
+      "raw": "Spears, Dean",
+      "family": "Spears",
+      "given": "Dean"
+    }
+  ],
+  "authors_text": "Hathi, Payal; Haque, Sabrina; Pant, Lovey; Coffey, Diane; Spears, Dean",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-016-0538-y",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0538-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0538-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0538-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

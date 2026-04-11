@@ -1,0 +1,25 @@
+{
+  "title": "Crime and Inequality in Academic Achievement Across School Districts in the United States",
+  "abstract": "This study investigates the effect of violent crime on school district-level achievement in English language arts (ELA) and mathematics. The research design exploits variation in achievement and violent crime across 813 school districts in the United States and seven birth cohorts of children born between 1996 and 2002. The identification strategy leverages exogenous shocks to crime rates arising from the availability of federal funds to hire police officers in the local police departments where the school districts operate. Results show that children who entered the school system when the violent crime rate in their school districts was lower score higher in ELA by the end of eighth grade, relative to children attending schools in the same district but who entered the school system when the violent crime rate was higher. A 10% decline in the violent crime rate experienced at ages 0-6 raises eighth-grade ELA achievement in the district by 0.03 standard deviations. Models that estimate effects by race and gender show larger impacts among Black children and boys. The district-wide effect on mathematics achievement is smaller and statistically nonsignificant. These findings extend our understanding of the geography of educational opportunity in the United States and reinforce the idea that understanding inequalities in academic achievement requires evidence on what happens inside as well as outside schools.",
+  "authors": [
+    {
+      "raw": "Torrats-Espinosa, Gerard",
+      "family": "Torrats-Espinosa",
+      "given": "Gerard"
+    }
+  ],
+  "authors_text": "Torrats-Espinosa, Gerard",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-019-00850-x",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00850-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00850-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00850-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Educational Reproduction in Great Britain: A Prospective Approach",
+  "abstract": "We examine the extent to which the educational attainments of a generation are reproduced in Great Britain. We address a very specific question-what was the effect, among people born around the middle of the 20th century, of having acquired a University degree on the probability of having a child who also acquires a degree? We consider the two central processes involved: the effect of having a degree on whether a person had a child and, conditional on having at least one child, the effect of having a degree on whether at least one child acquired a degree. We find a strong and persistent negative effect of having a degree on the chances of having a child, but, among those who had a child, the possession of a degree had a large positive effect on the probability of that child also acquiring a degree. These two effects largely cancel out, and thus having a degree had a very small effect on the chances of having a child who also had a degree. One major advantage of adopting the prospective approach used here is that it helps to better answer questions concerning the intergenerational effects of changes in education.",
+  "authors": [
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    },
+    {
+      "raw": "Ermisch, John",
+      "family": "Ermisch",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Breen, Richard; Ermisch, John",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcx061",
+  "doi_url": "https://doi.org/10.1093/esr/jcx061",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx061",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx061.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

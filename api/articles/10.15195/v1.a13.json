@@ -1,0 +1,30 @@
+{
+  "title": "Asymmetries in Experiential and Vicarious Feedback: Lessons from the Hiring and Firing of Baseball Managers",
+  "abstract": "We examine experiential and vicarious feedback in the hiring and firing of baseball managers. Realized outcomes play a large role in both decisions; the probability that a manager will be fired is a function of the team's win-loss record, and a manager is quicker to be rehired if his teams had won more in the past. There are substantial asymmetries, however, in the fine structure of the two feedback functions. The rate at which managers are fired is powerfully shaped by recent outcomes, falls with success and rises with failure, and adjusts for history-based expectations. By contrast, hiring reflects a longer-term perspective that emphasizes outcomes over the manager's career as well as the most recent campaign, rewards success but does not penalize failure, and exhibits no adjustment for historical expectations. We explain these asymmetries in terms of the disparate displays of rationality that organizations enact in response to their own outcomes versus those of others. Experiential feedback is conditioned by a logic of accountability, vicarious feedback by a logic of emulation.",
+  "authors": [
+    {
+      "raw": "Strang, David",
+      "family": "Strang",
+      "given": "David"
+    },
+    {
+      "raw": "Patterson, Kelly",
+      "family": "Patterson",
+      "given": "Kelly"
+    }
+  ],
+  "authors_text": "Strang, David; Patterson, Kelly",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2014,
+  "doi": "10.15195/v1.a13",
+  "doi_url": "https://doi.org/10.15195/v1.a13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv1.a13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v1.a13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

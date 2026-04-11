@@ -1,0 +1,35 @@
+{
+  "title": "An Experimental Approach to Assessing Young Women's Childbearing Preferences: A Research Note on the United States",
+  "abstract": "Although the mean U.S. ideal family size has remained relatively stable in recent years, reflecting a widespread preference for two-child families, we know very little about the strength of this preference among young adults. To examine the relative strength of preferences for family size relative to other attributes of family life, in this research note we conduct a forced-choice online conjoint survey experiment using a nationally representative sample of 1,785 U.S. women aged 18-35. We find that when family size is included as one of six attributes in a family scenario, the probability of preferring scenarios with two children is not significantly different from the probability of preferring scenarios with zero-, one-, or three-child families, net of other attributes; four-child scenarios are significantly less preferred than two-child scenarios. Evaluation of the relative magnitude of different attribute effect sizes shows that a preference for two-child scenarios is comparatively less important than preference for many of the other attributes. Our findings suggest that even if the mean ideal family size remains at or above two children in standard survey research, preferences for two-child fami-lies are surprisingly weak in hypothetical scenarios that account for competing family demands.",
+  "authors": [
+    {
+      "raw": "Behrman, Julia",
+      "family": "Behrman",
+      "given": "Julia"
+    },
+    {
+      "raw": "Marshall, Emily A.",
+      "family": "Marshall",
+      "given": "Emily A."
+    },
+    {
+      "raw": "Keusch, Florian",
+      "family": "Keusch",
+      "given": "Florian"
+    }
+  ],
+  "authors_text": "Behrman, Julia; Marshall, Emily A.; Keusch, Florian",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11962185",
+  "doi_url": "https://doi.org/10.1215/00703370-11962185",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11962185",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11962185.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

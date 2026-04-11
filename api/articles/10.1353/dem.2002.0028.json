@@ -1,0 +1,30 @@
+{
+  "title": "Mortality rates of elderly Asian American populations based on medicare and social security data",
+  "abstract": "Abstract We present sex- and age-specific death probabilities for the elderly of six Asian American subgroups— Chinese, Filipino, Indian, Japanese, Korean, and Vietnamese—based on data from Social Security Administration files. We determined ethnicity by combining race, place of birth, surname, and given name. The data source and ethnic determination are the same for deaths and the population at risk, avoiding the problem of noncomparability present when data for the numerator come from vital records and data for the denominator come from census records. We found that death rates for elderly Asian Americans are lower than those for whites, and that socioeconomic differences between subgroups do not translate into like differences in mortality.",
+  "authors": [
+    {
+      "raw": "Lauderdale, Diane S.",
+      "family": "Lauderdale",
+      "given": "Diane S."
+    },
+    {
+      "raw": "Kestenbaum, Bert",
+      "family": "Kestenbaum",
+      "given": "Bert"
+    }
+  ],
+  "authors_text": "Lauderdale, Diane S.; Kestenbaum, Bert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.1353/dem.2002.0028",
+  "doi_url": "https://doi.org/10.1353/dem.2002.0028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2002.0028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2002.0028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

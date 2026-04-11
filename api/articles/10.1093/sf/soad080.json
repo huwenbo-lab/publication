@@ -1,0 +1,30 @@
+{
+  "title": "Does Online Dating Challenge Gendered Divisions of Household Labor?",
+  "abstract": "Online dating has modified how people find and select partners. In addition to outcomes already observed (e.g., exogamy), we argue that by subverting normative dating scripts, online courtship practices may set the course for partnerships that display more egalitarian divisions of routine household labor. This may be particularly true for the married and for lower-educated women, who generally report the least egalitarian allocation of domestic work. Furthermore, we posit that the relationship between meeting context and household labor will be partially explained by the selectivity of those who search for partners online but also by mechanisms specific to online dating that allow for greater relationship quality. We use 2008-2019 German Family Panel (pairfam) data in random-effects regression models to predict sharing of routine housework among women in marital and cohabiting opposite-sex unions (N = 3305). We find that meeting online is associated with greater sharing of housework for married women with lower-education, and that the link is robust even after accounting for observed selection into online dating via entropy balancing weights. Contrary to expectations, partnership quality has no mediating effect. Much of the positive association remains unexplained, suggesting that the different ways men and women negotiate power in the dating phase in digital versus non-digital partner markets may indeed play a role in how gender is enacted later on.",
+  "authors": [
+    {
+      "raw": "Potarca, Gina",
+      "family": "Potarca",
+      "given": "Gina"
+    },
+    {
+      "raw": "Hook, Jennifer",
+      "family": "Hook",
+      "given": "Jennifer"
+    }
+  ],
+  "authors_text": "Potarca, Gina; Hook, Jennifer",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soad080",
+  "doi_url": "https://doi.org/10.1093/sf/soad080",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad080",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad080.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

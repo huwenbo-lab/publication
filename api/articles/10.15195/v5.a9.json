@@ -1,0 +1,35 @@
+{
+  "title": "The Sources of Life Chances: Does Education, Class Category, Occupation, or Short-Term Earnings Predict 20-Year Long-Term Earnings?",
+  "abstract": "In sociological studies of economic stratification and intergenerational mobility, occupation has long been presumed to reflect lifetime earnings better than do short-term earnings. However, few studies have actually tested this critical assumption. In this study, we investigate the cross-sectional determinants of 20-year accumulated earnings using data that match respondents in the Survey of Income and Program Participation to their longitudinal earnings records based on administrative tax information from 1990 to 2009. Fit statistics of regression models are estimated to assess the predictive power of various proxy variables, including occupation, education, and short-term earnings, on cumulative earnings over the 20-year time period. Contrary to the popular assumption in sociology, our results find that cross-sectional earnings have greater predictive power on long-term earnings than occupation-based class classifications, including three-digit detailed occupations for both men and women. The model based on educational attainment, including field of study, has slightly better fit than models based on one-digit occupation or the Erikson, Goldthorpe, and Portocarero class scheme. We discuss the theoretical implications of these findings for the sociology of stratification and intergenerational mobility.",
+  "authors": [
+    {
+      "raw": "Kim, ChangHwan",
+      "family": "Kim",
+      "given": "ChangHwan"
+    },
+    {
+      "raw": "Tamborini, Christopher",
+      "family": "Tamborini",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Sakamoto, Arthur",
+      "family": "Sakamoto",
+      "given": "Arthur"
+    }
+  ],
+  "authors_text": "Kim, ChangHwan; Tamborini, Christopher; Sakamoto, Arthur",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2018,
+  "doi": "10.15195/v5.a9",
+  "doi_url": "https://doi.org/10.15195/v5.a9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv5.a9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v5.a9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

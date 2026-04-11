@@ -1,0 +1,30 @@
+{
+  "title": "The New Psychology of Love",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Campbell, Kelly",
+      "family": "Campbell",
+      "given": "Kelly"
+    },
+    {
+      "raw": "Cabrera, Susana",
+      "family": "Cabrera",
+      "given": "Susana"
+    }
+  ],
+  "authors_text": "Campbell, Kelly; Cabrera, Susana",
+  "journal": "Journal of Family Theory & Review",
+  "journal_slug": "Journal_of_Family_Theory_and_Review",
+  "year": 2020,
+  "doi": "10.1111/jftr.12356",
+  "doi_url": "https://doi.org/10.1111/jftr.12356",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjftr.12356",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jftr.12356.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Theory_and_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Theory_and_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

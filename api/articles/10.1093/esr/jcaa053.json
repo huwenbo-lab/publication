@@ -1,0 +1,30 @@
+{
+  "title": "Ethnic Insults in YouTube Comments: Social Contagion and Selection Effects During the German Refugee Crisis",
+  "abstract": "In this article, we investigate the extent to which ethnic insults propagate through comment networks in YouTube videos from four German political talk shows with the largest audience reach. We argue that comments using ethnic insults signal social norms and embolden others to emulate offensive behaviour, therefore potentially contributing the contagiousness of insulting commenting. Moreover, periods of highly salient intergroup conflict (i.e. sexual assaults and terrorist attacks), may further reduce inhibitions to publicly post insulting content further multiplying the spread of this behaviour. To evaluate our claims, we construct a repeated cross-sectional dataset from the comment networks in YouTube videos as well as a pseudo-panel of highly active users which is used to gauge the impact of social selection. Results indicate that the use of ethnic insults in online comment sections appears socially contagious. Specifically, we find that a larger presence of ethnic insults in preceding comments increases the prevalence of insulting comments by 2 percentage points which increases to 7 percentage points in the aftermath of violent incidents. However, findings based on the pseudo-user panel do show that using ethnic insults is socially contagious thus suggesting that the patterns found for the full sample are largely a function of social selection processes.",
+  "authors": [
+    {
+      "raw": "Spoerlein, Christoph",
+      "family": "Spoerlein",
+      "given": "Christoph"
+    },
+    {
+      "raw": "Schlueter, Elmar",
+      "family": "Schlueter",
+      "given": "Elmar"
+    }
+  ],
+  "authors_text": "Spoerlein, Christoph; Schlueter, Elmar",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa053",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa053",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa053",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa053.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

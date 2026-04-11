@@ -1,0 +1,30 @@
+{
+  "title": "Gender and educational inequalities in disability-free life expectancy among older adults living in Italian regions",
+  "abstract": "BACKGROUND Italy's life expectancy at age 65 is one of the highest in Europe, but its disability-free life expectancy (DFLE) is not so high. To understand this diverging pattern of longevity and health it is essential to consider indicators accounting for both mortality and morbidity, and to analyse the gender, social, and geographical inequities characterising them.OBJECTIVE The aim is to quantify the gender, social, and geographical inequalities in DFLE among Italian older adults and analyse the age-specific contribution of mortality and morbidity to those inequalities.METHODS This study draws on census-linked mortality data and disability prevalence for the years 2012-2014. DFLE at age 65 in Italian regions is computed by gender and educational attainment using the Sullivan method. Age-specific mortality-morbidity contributions to the gender and educational gaps in DFLE are calculated using the stepwise decomposition method.RESULTS Although at the national level older women and men share similar DFLE, these estimates hide important geographical and social inequalities. Women's health disadvantage completely outweighs their life expectancy advantage, resulting in lower DFLE. Educational inequalities in health are far more dramatic than those in mortality and the disadvantage in DFLE accumulates over education and region of residence.CONCLUSIONS In Italy notable differences in DFLE are found between genders and between educational groups, suggesting the need for better health policies aimed at reducing inequalities. CONTRIBUTION This study provides novel empirical findings on gender, educational, and geographical inequalities in DFLE for Italian older adults and explains how age-specific mortality and morbidity contribute to shaping these inequalities.",
+  "authors": [
+    {
+      "raw": "Moretti, Margherita",
+      "family": "Moretti",
+      "given": "Margherita"
+    },
+    {
+      "raw": "Strozza, Cosmo",
+      "family": "Strozza",
+      "given": "Cosmo"
+    }
+  ],
+  "authors_text": "Moretti, Margherita; Strozza, Cosmo",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.29",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

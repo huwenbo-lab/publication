@@ -1,0 +1,35 @@
+{
+  "title": "A Large-Scale Test of Gender Bias in the Media",
+  "abstract": "A large body of studies demonstrates that women continue to receive less media coverage than men do. Some attribute this difference to gender bias in media reporting—a systematic inclination toward male subjects. We propose that in order to establish the presence of media bias, one has to demonstrate that the news coverage of men is disproportional even after accounting for occupational inequalities and differences in public interest. We examine the coverage of more than 20,000 successful women and men from various social and occupational domains in more than 2,000 news sources as well as web searches for these individuals as a behavioral measure of interest. We find that when compared with similar-aged men from the same occupational strata, women enjoy greater public interest yet receive less media coverage.",
+  "authors": [
+    {
+      "raw": "Shor, Eran",
+      "family": "Shor",
+      "given": "Eran"
+    },
+    {
+      "raw": "van de Rijt, Arnout",
+      "family": "van de Rijt",
+      "given": "Arnout"
+    },
+    {
+      "raw": "Fotouhi, Babak",
+      "family": "Fotouhi",
+      "given": "Babak"
+    }
+  ],
+  "authors_text": "Shor, Eran; van de Rijt, Arnout; Fotouhi, Babak",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2019,
+  "doi": "10.15195/v6.a20",
+  "doi_url": "https://doi.org/10.15195/v6.a20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv6.a20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v6.a20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Transition to Fatherhood and the Health of Men",
+  "abstract": "Objective This study examines the impact of fatherhood on diverse health behaviors and outcomes among a representative sample of Millennial men in the United States. Background Much research explores the consequences of parenthood for women, but less is known about health outcomes and trajectories of men who become fathers. Theoretical approaches suggest both health-enhancing changes driven by social control and a new father identity, and health-decreasing changes driven by the costs and burdens of fatherhood. Method The NLSY97 longitudinal survey and a battery of novel fixed effects models are used to identify the consequences of paternity on diverse health outcomes, controlling for selectivity based on unobserved characteristics and unobserved trajectories of men who become fathers and accounting for heterogeneity of effects. Results Becoming a father induces weight gain and a decline in self-reported health, but reduces alcohol consumption. Effects on weight and alcohol use varied across strata defined by race and education, but changes in self-reported health were consistent across sub-groups. Conclusion The transition to fatherhood induces changes in health outcomes and behaviors that are both positive and negative. These consequences are not transitory. Rather, they persist over men's early adulthood. Implications Fatherhood induces health-related changes that endure over the first years after becoming a father, and which may contribute to morbidity and mortality in late adulthood.",
+  "authors": [
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    },
+    {
+      "raw": "Rauf, Tamkinat",
+      "family": "Rauf",
+      "given": "Tamkinat"
+    }
+  ],
+  "authors_text": "Torche, Florencia; Rauf, Tamkinat",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12732",
+  "doi_url": "https://doi.org/10.1111/jomf.12732",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12732",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12732.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

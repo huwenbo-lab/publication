@@ -1,0 +1,25 @@
+{
+  "title": "Persistent Inequality in Educational Attainment and its Institutional Context",
+  "abstract": "Research has repeatedly shown that educational opportunities are distributed unevenly in all countries. Therefore, the question is not whether family background and educational outcomes are related but to what degree they are related. This latter question then invites a comparative perspective. That is, does social inequality in education differ across time and countries? If yes, which institutional characteristics can explain differences in educational inequality? Educational inequality is conceptualized as the association between individuals’ and their parents’ highest educational level attained. Intergenerational educational mobility processes are analysed for 20 industrialized nations by means of log-linear and log-multiplicative models. The results show that the degree of educational mobility has remained stable across the second half of the 20th century in virtually all countries. However, nations differ widely in the extent to which parents’ education influences their children's educational attainment. The degree of educational inequality is associated with the institutional structure of national education systems. Rigid systems with dead-end educational pathways appear to be a hindrance to the equalization of educational opportunities, especially if the sorting of students occurs early in the educational career. This association is not mediated by other institutional characteristics included in this analysis that do not exert notable influences on educational mobility.",
+  "authors": [
+    {
+      "raw": "Pfeffer, F. T.",
+      "family": "Pfeffer",
+      "given": "F. T."
+    }
+  ],
+  "authors_text": "Pfeffer, F. T.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1093/esr/jcn026",
+  "doi_url": "https://doi.org/10.1093/esr/jcn026",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn026",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn026.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

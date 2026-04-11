@@ -1,0 +1,30 @@
+{
+  "title": "The doubly disadvantaged: The motherhood penalty for internal migrants in China",
+  "abstract": "Objective: This study examines hourly earnings differentials among internal migrants in urban China according to motherhood status and child coresidence. It also contemplates the potential mediation of family support and flexible work arrangements.Background: Existing research has primarily studied the general population of working mothers, most of whom co-reside with their children and enjoy access to childcare support from local institutions. Our knowledge remains limited regarding international and internal migrant mothers, a large and vulnerable group that often suffers institutional segregation. Moreover, some migrant mothers leave children behind, while others do not; this fact helps us transcend the dichotomous mother/non-mother distinction to better understand the nuances between theoretical explanations of motherhood status (being a mother) and childcare obligation effects that are otherwise intertwined in the general population.Method: This study analyzed a representative sample of 41,996 internal married migrant women in China in 2015. Propensity score weighting methods were used to account for potential selection based on a rich set of confounders. Structural equation models were applied for mediation analysis.Results: Internal migrant mothers in China are disadvantaged in hourly earnings, particularly those who live with their children. Living with the spouse or parents (-in-law) does not mediate the motherhood penalty, but working part-time and self-employment do.Conclusion: This study reveals an additional disadvantage for migrant mothers apart from the well-known difficulties that confront Chinese internal migrants because of institutional segregation. These doubly disadvantaged mothers deserve public attention and policy interventions to attain a family-friendly employment environment.",
+  "authors": [
+    {
+      "raw": "Kong, Siyang",
+      "family": "Kong",
+      "given": "Siyang"
+    },
+    {
+      "raw": "Dong, Hao",
+      "family": "Dong",
+      "given": "Hao"
+    }
+  ],
+  "authors_text": "Kong, Siyang; Dong, Hao",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12940",
+  "doi_url": "https://doi.org/10.1111/jomf.12940",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12940",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12940.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

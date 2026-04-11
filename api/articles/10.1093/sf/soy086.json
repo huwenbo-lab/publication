@@ -1,0 +1,35 @@
+{
+  "title": "Job Mobility among Unauthorized Immigrant Workers",
+  "abstract": "This study evaluates how authorization status shapes job transitions among Mexican and Central American immigrants in the United States. Specifically, using data from the Survey of Income and Program Participation, we impute legal status and track employment histories for authorized and unauthorized workers, as well as native-born counterparts, in the less skilled labor market. We distinguish job moves based on changes in occupations and employers; and by linking workers jobs to expected wages in their occupations, we are able to determine whether job transitions result in occupational upgrades or downgrades. Results reveal that unauthorized immigrants have lower adjusted rates of job mobility, consistent with arguments that their lack of work authorization traps their employment. Moreover, when unauthorized migrants do change jobs, their transitions are characterized by a process of occupational churning in which they cycle between similarly positioned jobs and have low rates of upward mobility, both within and across firms. We also test the possibility that the wage returns to job mobility are conditioned by legal status. Finally, we find that the penalties to job mobility associated with unauthorized status are more severe for women than men, potentially because of their high levels of segregation in socially isolating jobs.",
+  "authors": [
+    {
+      "raw": "Hall, Matthew",
+      "family": "Hall",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Greenman, Emily",
+      "family": "Greenman",
+      "given": "Emily"
+    },
+    {
+      "raw": "Yi, Youngmin",
+      "family": "Yi",
+      "given": "Youngmin"
+    }
+  ],
+  "authors_text": "Hall, Matthew; Greenman, Emily; Yi, Youngmin",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy086",
+  "doi_url": "https://doi.org/10.1093/sf/soy086",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy086",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy086.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

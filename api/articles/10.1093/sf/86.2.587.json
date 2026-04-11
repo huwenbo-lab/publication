@@ -1,0 +1,35 @@
+{
+  "title": "Measuring Latinos: Racial vs. Ethnic Classification and Self-Understandings",
+  "abstract": "The measurement of Hispanics in the 2000 U.S. Census significantly skews the racial identification of the Hispanic population in America. The literature on racial and ethnic identification, however, lacks serious engagement with the social psychology of self-identification. We draw on social identity theory to demonstrate how the process of individual self-categorization reinforces a society structured along racial and ethnic lines. This understanding of the psychological processes through which individuals categorize themselves and others leads to the conclusion that academic distinctions between “race” and “ethnicity” do not adequately reflect the social categories employed by Americans responding to the current U.S. government format for racial self-identification. Using a nationally representative sample, we demonstrate that a significant portion of self-reported Hispanics treat that identity as a race, most often by choosing “other” when asked for their racial classification. Ultimately, we advocate including “Hispanic” as one of the choices in what is currently called the “race question” This approach more accurately captures the lived experience of those who claim an Hispanic identity.",
+  "authors": [
+    {
+      "raw": "Hitlin, S.",
+      "family": "Hitlin",
+      "given": "S."
+    },
+    {
+      "raw": "Brown, J. S.",
+      "family": "Brown",
+      "given": "J. S."
+    },
+    {
+      "raw": "Elder, G. H.",
+      "family": "Elder",
+      "given": "G. H."
+    }
+  ],
+  "authors_text": "Hitlin, S.; Brown, J. S.; Elder, G. H.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2007,
+  "doi": "10.1093/sf/86.2.587",
+  "doi_url": "https://doi.org/10.1093/sf/86.2.587",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2F86.2.587",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/86.2.587.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

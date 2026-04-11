@@ -1,0 +1,50 @@
+{
+  "title": "New Approaches to Human Mobility: Using Mobile Phones for Demographic Research",
+  "abstract": "AbstractThis article explores new methods for gathering and analyzing spatially rich demographic data using mobile phones. It describes a pilot study (the Human Mobility Project) in which volunteers around the world were successfully recruited to share GPS and cellular tower information on their trajectories and respond to dynamic, location-based surveys using an open-source Android application. The pilot study illustrates the great potential of mobile phone methodology for moving spatial measures beyond residential census units and investigating a range of important social phenomena, including the heterogeneity of activity spaces, the dynamic nature of spatial segregation, and the contextual dependence of subjective well-being.",
+  "authors": [
+    {
+      "raw": "Palmer, John R. B.",
+      "family": "Palmer",
+      "given": "John R. B."
+    },
+    {
+      "raw": "Espenshade, Thomas J.",
+      "family": "Espenshade",
+      "given": "Thomas J."
+    },
+    {
+      "raw": "Bartumeus, Frederic",
+      "family": "Bartumeus",
+      "given": "Frederic"
+    },
+    {
+      "raw": "Chung, Chang Y.",
+      "family": "Chung",
+      "given": "Chang Y."
+    },
+    {
+      "raw": "Ozgencil, Necati Ercan",
+      "family": "Ozgencil",
+      "given": "Necati Ercan"
+    },
+    {
+      "raw": "Li, Kathleen",
+      "family": "Li",
+      "given": "Kathleen"
+    }
+  ],
+  "authors_text": "Palmer, John R. B.; Espenshade, Thomas J.; Bartumeus, Frederic; Chung, Chang Y.; Ozgencil, Necati Ercan; Li, Kathleen",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0175-z",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0175-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0175-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0175-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Complex Contagion in Social Networks: Causal Evidence from a Country-Scale Field Experiment",
+  "abstract": "Complex contagion rests on the idea that individuals are more likely to adopt a behavior if they experience social reinforcement from multiple sources. We develop a test for complex contagion, conceptualized as social reinforcement, and then use it to examine whether empirical data from a country-scale randomized controlled viral marketing field experiment show evidence of complex contagion. The experiment uses a peer encouragement design in which individuals were randomly exposed to either one or two friends who were encouraged to share a coupon for a mobile data product. Using three different analytical methods to address the empirical challenges of causal identification, we provide strong support for complex contagion: the contagion process cannot be understood as independent cascades but rather as a process in which signals from multiple sources amplify each other through synergistic interdependence. We also find social network embeddedness is an important structural moderator that shapes the effectiveness of social reinforcement.",
+  "authors": [
+    {
+      "raw": "Lee, Jaemin",
+      "family": "Lee",
+      "given": "Jaemin"
+    },
+    {
+      "raw": "Lazer, David",
+      "family": "Lazer",
+      "given": "David"
+    },
+    {
+      "raw": "Riedl, Christoph",
+      "family": "Riedl",
+      "given": "Christoph"
+    }
+  ],
+  "authors_text": "Lee, Jaemin; Lazer, David; Riedl, Christoph",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a28",
+  "doi_url": "https://doi.org/10.15195/v12.a28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

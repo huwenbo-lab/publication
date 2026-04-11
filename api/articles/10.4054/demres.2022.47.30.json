@@ -1,0 +1,30 @@
+{
+  "title": "Does race response shift impact racial inequality?",
+  "abstract": "BACKGROUND Previous research posits that racial reclassification, or response shift, may confound measures of racial earnings inequality. However, this claim has not been systematically tested. OBJECTIVE We measure racial response shift in Brazil and examine its impact on white-to-nonwhite earnings inequality between survey waves over ten years at nine-month intervals. METHODS We use individual-level linked data from the 2002-2012 Monthly Employment Survey, involving Brazil's six largest metropolitan areas (n = 400,046). We describe the level and pattern of racial reclassification across time and by income rank. We then decompose racial inequality into two components (income and population ratios) to examine the impact of racial response shift on estimates of racial inequality and to construct analytic counterfactuals. RESULTS Results reveal that 16% of our sample shifted their racial responses between survey waves. Nonetheless, we show that this level of response shift had no substantial impact on estimates of income inequality. We explain the counterintuitive results by demonstrating how bidirectional racial classification flows - lightening and darkening - countervail each other due to their similar income profiles and racial reclassification rates. CONTRIBUTION We offer a first empirical analysis of how racial response shift impacts estimates of racial earnings inequality using individual-level linked data from a large-sample survey.",
+  "authors": [
+    {
+      "raw": "Muniz, Jeronimo O.",
+      "family": "Muniz",
+      "given": "Jeronimo O."
+    },
+    {
+      "raw": "Bailey, Stanley R.",
+      "family": "Bailey",
+      "given": "Stanley R."
+    }
+  ],
+  "authors_text": "Muniz, Jeronimo O.; Bailey, Stanley R.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.30",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

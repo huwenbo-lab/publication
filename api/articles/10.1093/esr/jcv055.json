@@ -1,0 +1,25 @@
+{
+  "title": "Career Progression from Temporary Employment: How Bridge and Trap Functions Differ by Task Complexity",
+  "abstract": "Temporary employment contracts can serve as a bridge into permanent employment or become a trap that leads into unemployment. This article argues that the function of temporary employment varies with the degree of task complexity and affects the probability of receiving tenure or transitioning to unemployment. Analysing retrospective survey data for Germany (ALWA) using Fine and Gray models for competing risks, I show that a bridge into permanent employment most likely arises for medium-skill work. By contrast, the risk of a transition to unemployment is generally equal, but increases for employees performing low-and medium-skill tasks if local labour demand falls. Only high-skill jobs seem to be unaffected by the employment environment. The results indicate that debates concerning the function and consequences of temporary work must consider occupational characteristics. The selective distribution of transition probabilities and unemployment risks generates inequalities and increases the risk of labour market segmentation as employment polarization shifts employees towards low-and high-skill tasks.",
+  "authors": [
+    {
+      "raw": "Reichelt, Malte",
+      "family": "Reichelt",
+      "given": "Malte"
+    }
+  ],
+  "authors_text": "Reichelt, Malte",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcv055",
+  "doi_url": "https://doi.org/10.1093/esr/jcv055",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv055",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv055.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

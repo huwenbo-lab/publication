@@ -1,0 +1,25 @@
+{
+  "title": "The Political Economy of Optimal Taxation",
+  "abstract": "The question of how to design socially optimal tax policies is located at the epicenter of today’s inequality debate. However, the field of optimal policy design is dominated by a distinctive brand of economic analysis which suffers from a blinkered theoretical lens and weak empirical foundations. This article offers an alternative framework for studying optimal policy design that replaces the dominant economic model’s emphasis on individual utility with a sociological emphasis on unequal life chances. Cross-national data are mobilized to study the architecture of contemporary tax systems across different institutional contexts. The dual taxation of labor and capital income coupled with the preferential treatment of socially concentrated wealth accumulation is shown to have generated sharp tax regressivity at the top of the resource distribution in all countries under consideration, from the (neo)liberal Anglosphere to social-democratic Scandinavia. Rationales for and possible designs of a progressive wealth tax, for which there is renewed international interest, are then explored in detail. A tractable formal model of optimal policy design is presented in which the net welfare effect of a tax policy reform emerges as a weighted sum of how the reform impacts aggregate life chances, inequality in life chances, and the ambient ecosphere. Under common normative and analytical assumptions, a socially optimal annual wealth tax levied on society’s most affluent——defined above a high exemption threshold——is shown to be positive and, in empirically realistic scenarios, lies upward of 10 percent. The corresponding top income tax rate exceeds 65 percent and can, on “limitarian” grounds, approach the confiscatory rate.",
+  "authors": [
+    {
+      "raw": "Nosrati, Elias",
+      "family": "Nosrati",
+      "given": "Elias"
+    }
+  ],
+  "authors_text": "Nosrati, Elias",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a26",
+  "doi_url": "https://doi.org/10.15195/v12.a26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

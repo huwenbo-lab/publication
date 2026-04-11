@@ -1,0 +1,30 @@
+{
+  "title": "A tale of tails: Nonlinear effects of ability rank on adolescent psychological well-being",
+  "abstract": "Previous literature has documented the effect of cognitive ability on adolescent psychological well-being. This study extends this line of research by revealing the nonlinear effect of a student's ability rank within the peer group on adolescent depression. Using a nationally representative longitudinal survey of U.S. adolescents, we leverage a quasi-experimental research design to show that controlling for absolute ability, students with lower ability ranks are more likely to develop depressive symptoms. Moreover, this effect is nonlinear and more pronounced at the top and bottom of the ability distribution. We further examine two mediation mechanisms: social comparison and social relations. Results show that social comparison partly mediate the ability rank effect on depression at the top and bottom of the ability distribution; social relations, particularly care from teachers, partly mediate the rank effect at the top of the ability distribution. Findings may help design targeted initiatives to address adolescent depression.",
+  "authors": [
+    {
+      "raw": "Kim, Jinho",
+      "family": "Kim",
+      "given": "Jinho"
+    },
+    {
+      "raw": "Liu, Ran",
+      "family": "Liu",
+      "given": "Ran"
+    }
+  ],
+  "authors_text": "Kim, Jinho; Liu, Ran",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102856",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102856",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102856",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102856.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

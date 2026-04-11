@@ -1,0 +1,35 @@
+{
+  "title": "Socio-economic change and intergenerational class mobility: A dynamic analysis of the experiences of West Germans born between 1929 and 1971",
+  "abstract": "Augmenting the conceptual and methodological approaches that are common in current mobility research, we are proposing a dynamic approach to the analysis of intergenerational mobility. A multilevel model is developed that embeds differences and changes in individual resources, such as respondents' class origin, educational attainment, and labor force experience, in the time-varying macro context of a changing cohort size, socioeconomic modernization, and business cycles. The empirical analysis combines longitudinal career data from two German life history studies with time series data from official statistics and identifies the mechanisms behind the dynamics of intergenerational mobility processes by means of event history analysis. For the 1945-2008 period, the hypotheses of our theoretical model are supported empirically for daughters and sons born between 1929 and 1971. Their educational distribution is a particularly important factor for their vertical social mobility. Career duration also affects intergenerational mobility. Processes of intergenerational mobility are significantly shaped by time-dependent processes of socio-economic modernization and labor market conditions, which are affected by business cycle fluctuations that act as both push and pull factors on social class positions at labor market entry (cohort effect) and at all later career stages (period effect). Cohort size, which is assumed to increase competition in the career process, reduces upward mobility. Finally, when controlling for all these timedependent mechanisms of social mobility, significant effects of social origin on offspring's class positions in their life course remain. In particular, upward mobility and class reproduction dominate descents across cohorts and periods.",
+  "authors": [
+    {
+      "raw": "Becker, Rolf",
+      "family": "Becker",
+      "given": "Rolf"
+    },
+    {
+      "raw": "Blossfeld, Hans-Peter",
+      "family": "Blossfeld",
+      "given": "Hans-Peter"
+    },
+    {
+      "raw": "Mayer, Karl Ulrich",
+      "family": "Mayer",
+      "given": "Karl Ulrich"
+    }
+  ],
+  "authors_text": "Becker, Rolf; Blossfeld, Hans-Peter; Mayer, Karl Ulrich",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100956",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100956",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100956",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100956.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

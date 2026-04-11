@@ -1,0 +1,35 @@
+{
+  "title": "Does downward social mobility make people more hostile towards immigrants?",
+  "abstract": "This study explores the relationships between intergenerational social class mobility and attitudes towards immigration. We interpret a failure to keep up with parental social class (i.e., downward mobility) as an indicator that individual?s status achievements lag behind expectations and contribute to subjective feelings of loss and decline. An innovative feature of this study is that we investigate both whether individual?s mobility experience ? micro level ? and also whether opportunity structures ? mobility on a macro level ? are linked with attitudes towards immigration. In contexts with high downward-mobility, opportunities for moving up are limited and hence perceived economic decline and loss might lead to more hostility towards immigrants. We use the Eu-ropean Social Survey data (2002?2010) and conduct analyses on 30 countries using diagonal reference models that allow the effects of individual mobility trajectory to be disentangled from origin status and destination status. Our results show that the working classes hold stronger anti-immigration attitudes and parental class continues to exert an effect on attitudes in adulthood even after accounting for individual?s own social class position. Being downwardly mobile from parental class does not appear to be associated with more hostility towards immigrants, except in a few European countries like Italy, Poland, and Greece. Our random-effects meta -regression models show, however, that people living in contexts of high downward mobility are more hostile towards immigrants compared to people in contexts with high upward mobility.",
+  "authors": [
+    {
+      "raw": "Paskov, Marii",
+      "family": "Paskov",
+      "given": "Marii"
+    },
+    {
+      "raw": "Prag, Patrick",
+      "family": "Prag",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Richards, Lindsay",
+      "family": "Richards",
+      "given": "Lindsay"
+    }
+  ],
+  "authors_text": "Paskov, Marii; Prag, Patrick; Richards, Lindsay",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2020.100543",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100543",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100543",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100543.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

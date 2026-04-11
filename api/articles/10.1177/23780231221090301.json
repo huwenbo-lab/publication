@@ -1,0 +1,40 @@
+{
+  "title": "Sociospatial Disparities in “Third Place” Availability in the United States",
+  "abstract": "Tertiary to home and work, “third places” serve as opportunity structures that transmit information and facilitate social capital and upward mobility. However, third places may be inequitably distributed, thereby exacerbating disparities in social capital and mobility. The authors use tract-level data from the National Neighborhood Data Archive to examine the distribution of third places across the United States. There were significant disparities in the availability of third places. Higher poverty rates were associated with fewer third places. Tracts with the smallest shares of Black and Hispanic populations had comparatively more third places. However, this racial disadvantage was not linear, suggesting potential buffering effects in places with the largest shares of Black and Hispanic populations. There was also a rural disadvantage, except in the most isolated rural tracts. This study demonstrates the value of conceptualizing and measuring third places to understand sociospatial disparities in the availability of these understudied opportunity structures.",
+  "authors": [
+    {
+      "raw": "Rhubart, Danielle",
+      "family": "Rhubart",
+      "given": "Danielle"
+    },
+    {
+      "raw": "Sun, Yue",
+      "family": "Sun",
+      "given": "Yue"
+    },
+    {
+      "raw": "Pendergrast, Claire",
+      "family": "Pendergrast",
+      "given": "Claire"
+    },
+    {
+      "raw": "Monnat, Shannon",
+      "family": "Monnat",
+      "given": "Shannon"
+    }
+  ],
+  "authors_text": "Rhubart, Danielle; Sun, Yue; Pendergrast, Claire; Monnat, Shannon",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221090301",
+  "doi_url": "https://doi.org/10.1177/23780231221090301",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221090301",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221090301.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

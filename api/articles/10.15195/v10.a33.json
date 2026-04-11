@@ -1,0 +1,25 @@
+{
+  "title": "’13 Reasons Why’ Probably Increased Emergency Room Visits for Self-Harm among Teenage Girls",
+  "abstract": "I present evidence that the release of Netflix’s '13 Reasons Why'—a fictional series about the aftermath of a teenage girl's suicide—caused a temporary spike in emergency room (ER) visits for self-harm among teenage girls in the United States. I conduct an interrupted time series analysis using monthly counts of ER visits obtained from a large, nationally representative survey. I estimate that the show caused an increase of 1,297 self-harm visits (95 percent CI: 634 to 1,965) the month it was released, a 14 percent (6.5 percent, 23 percent) spike relative to the predicted counterfactual. The effect persisted for two months, and ER visits for intentional cutting—the method of suicide portrayed in the series—were unusually high following the show’s release. The findings indicate that fictional portrayals of suicide can influence real-life self-harm behavior, providing support for contagion-based explanations of suicide. Methodologically, the study showcases how to make credible causal claims when effect estimates are likely biased.",
+  "authors": [
+    {
+      "raw": "Felton, Chris",
+      "family": "Felton",
+      "given": "Chris"
+    }
+  ],
+  "authors_text": "Felton, Chris",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a33",
+  "doi_url": "https://doi.org/10.15195/v10.a33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

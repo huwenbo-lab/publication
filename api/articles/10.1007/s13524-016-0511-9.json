@@ -1,0 +1,35 @@
+{
+  "title": "Fathers' Imprisonment and Mothers' Multiple-Partner Fertility",
+  "abstract": "We consider the intersection between two striking U.S. trends: dramatic increases in the imprisonment of fathers and increases in the proportion of mothers who have children with more than one partner (multiple-partner fertility, or MPF). Using matched longitudinal administrative data that provide unusually comprehensive and accurate information about the occurrence and timing of imprisonment, fertility, and MPF for the population of the state of Wisconsin, we consider the relationship between paternal imprisonment and MPF among unwed mothers. Employing discrete-time event history analysis with multinomial logistic regression, we model the occurrence and timing of the mother's second birth, distinguishing between a birth with the same father and a birth with a different father, and distinguishing between current imprisonment and a history of imprisonment. We find that current imprisonment is associated with an increased likelihood of MPF and a decreased likelihood of fertility with the same father (compared with no additional birth) and that a history of imprisonment is associated with increased MPF in some models but not in our preferred model. To control for unobserved heterogeneity among mothers and assess the evidence of a causal effect of fathers' imprisonment, we also employ the case-time-control method, a fixed-effects method for the analysis of nonrepeated events. Results suggest that fathers' current imprisonment may increase mothers' MPF. Policy implications are discussed.",
+  "authors": [
+    {
+      "raw": "Cancian, Maria",
+      "family": "Cancian",
+      "given": "Maria"
+    },
+    {
+      "raw": "Chung, Yiyoon",
+      "family": "Chung",
+      "given": "Yiyoon"
+    },
+    {
+      "raw": "Meyer, Daniel R.",
+      "family": "Meyer",
+      "given": "Daniel R."
+    }
+  ],
+  "authors_text": "Cancian, Maria; Chung, Yiyoon; Meyer, Daniel R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0511-9",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0511-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0511-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0511-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

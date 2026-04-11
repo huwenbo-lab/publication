@@ -1,0 +1,45 @@
+{
+  "title": "Beyond Absenteeism: Father Incarceration and Child Development",
+  "abstract": "AbstractHigh rates of incarceration among American men, coupled with high rates of fatherhood among men in prison, have motivated recent research on the effects of parental imprisonment on children’s development. We use data from the Fragile Families and Child Wellbeing Study to examine the relationship between paternal incarceration and developmental outcomes for approximately 3,000 urban children. We estimate cross-sectional and longitudinal regression models that control not only for fathers’ basic demographic characteristics and a rich set of potential confounders, but also for several measures of pre-incarceration child development and family fixed effects. We find significant increases in aggressive behaviors and some evidence of increased attention problems among children whose fathers are incarcerated. The estimated effects of paternal incarceration are stronger than those of other forms of father absence, suggesting that children with incarcerated fathers may require specialized support from caretakers, teachers, and social service providers. The estimated effects are stronger for children who lived with their fathers prior to incarceration but are also significant for children of nonresident fathers, suggesting that incarceration places children at risk through family hardships including and beyond parent-child separation.",
+  "authors": [
+    {
+      "raw": "Geller, Amanda",
+      "family": "Geller",
+      "given": "Amanda"
+    },
+    {
+      "raw": "Cooper, Carey E.",
+      "family": "Cooper",
+      "given": "Carey E."
+    },
+    {
+      "raw": "Garfinkel, Irwin",
+      "family": "Garfinkel",
+      "given": "Irwin"
+    },
+    {
+      "raw": "Schwartz-Soicher, Ofira",
+      "family": "Schwartz-Soicher",
+      "given": "Ofira"
+    },
+    {
+      "raw": "Mincy, Ronald B.",
+      "family": "Mincy",
+      "given": "Ronald B."
+    }
+  ],
+  "authors_text": "Geller, Amanda; Cooper, Carey E.; Garfinkel, Irwin; Schwartz-Soicher, Ofira; Mincy, Ronald B.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0081-9",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0081-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0081-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0081-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

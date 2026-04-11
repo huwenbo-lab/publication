@@ -1,0 +1,35 @@
+{
+  "title": "Delayed first births and completed fertility across the 1940-1969 birth cohorts",
+  "abstract": "BACKGROUND The rise in the age at first birth has been universal in low-fertility countries in the last decades. Mothers who have their first child later tend to have fewer children, and in the absence of fertility catch-up at older ages, delayed fertility contributes to cohort fertility decline. OBJECTIVE We aim to study how changes in completed cohort fertility (quantum) relate to delayed age at first birth (tempo) across birth cohorts. METHODS We use birth histories collected in surveys or censuses in ten high-income countries. We rely on a decomposition analysis that quantifies how much the changes in age at first birth, mothers' completed fertility conditional on age at first birth, and childlessness contribute to the total change in cohort fertility over the 1940-1969 birth cohorts. RESULTS In many countries and cohorts, the fertility intensity of mothers increased more at later ages than at earlier ages, reflecting the catching up of those who had delayed childbearing. However, in most countries studied, the increased fertility intensity of mothers at older ages was not sufficient to offset the depressing effect of delayed first births on cohort fertility rates.CONCLUSIONS Increased childlessness and delayed childbearing are important components of the fertility decline. The chances of a full fertility recovery in the future are minimal, given the inertia of mothers' completed fertility conditional on age at first birth across successive birth cohorts. CONTRIBUTION This paper adapts a method of decomposition of completed cohort fertility that specifically includes the timing of first birth. Such an approach enhances the understanding of changes in cohort fertility across countries during periods of fertility delay.",
+  "authors": [
+    {
+      "raw": "Beaujouan, Eva",
+      "family": "Beaujouan",
+      "given": "Eva"
+    },
+    {
+      "raw": "Zeman, Krystof",
+      "family": "Zeman",
+      "given": "Krystof"
+    },
+    {
+      "raw": "Nathan, Mathias",
+      "family": "Nathan",
+      "given": "Mathias"
+    }
+  ],
+  "authors_text": "Beaujouan, Eva; Zeman, Krystof; Nathan, Mathias",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.15",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

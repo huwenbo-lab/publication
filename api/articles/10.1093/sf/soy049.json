@@ -1,0 +1,35 @@
+{
+  "title": "Inequality and Ethnic Conflict in Sub-Saharan Africa",
+  "abstract": "Theories of ethnic conflict predict that between-group inequality should be associated with a greater likelihood of violent conflict, but empirical results have been mixed. One reason might be that different types of inequalities have opposing effects on the likelihood of conflict. In this article, we posit that educational inequalities are likely to incentivize collective action by inducing grievances, while economic and demographic inequalities may actually dis-incentivize collective action by limiting opportunities for disadvantaged groups to engage in rebellion. We test these hypotheses on a new ethnic dyad database, incorporating 1,548 dyads formed by 290 ethnic groups living in 29 Sub-Saharan African countries. The analysis reveals that educational inequalities are indeed positively associated with conflict incidence, while this is not the case for economic and demographic inequalities. The association between educational inequality and conflict is stronger if the groups are wealthier. A higher joint educational level of the groups is associated with less conflict, particularly under more autocratic regimes. These findings demonstrate that to better understand the relationship between inequality and conflict, it is important to disaggregate the effects of inequalities according to the underlying mechanisms and the political context with which they are associated.",
+  "authors": [
+    {
+      "raw": "Alcorta, Ludovico",
+      "family": "Alcorta",
+      "given": "Ludovico"
+    },
+    {
+      "raw": "Smits, Jeroen",
+      "family": "Smits",
+      "given": "Jeroen"
+    },
+    {
+      "raw": "Swedlund, Haley J.",
+      "family": "Swedlund",
+      "given": "Haley J."
+    }
+  ],
+  "authors_text": "Alcorta, Ludovico; Smits, Jeroen; Swedlund, Haley J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy049",
+  "doi_url": "https://doi.org/10.1093/sf/soy049",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy049",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy049.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

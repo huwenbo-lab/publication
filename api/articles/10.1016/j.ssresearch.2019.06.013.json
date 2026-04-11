@@ -1,0 +1,40 @@
+{
+  "title": "Investigating the impact of the economic crisis on children's wellbeing in four European countries",
+  "abstract": "This paper analyses the impact of the economic crisis on children's wellbeing from a comparative European perspective using a multidimensional and fuzzy methodology. Comparisons of children's wellbeing based solely on monetary resources are likely to give a partial picture, because wellbeing can be related to different capabilities and the economic crisis impacted them differently. The use of several indicators captures the multidimensional and interrelated nature of wellbeing as experienced by children and can give a comprehensive view of the threats of future generations. A propensity score method is used to compare children's capabilities distributions and to assess the impact of the economic crisis on the net change between 2009 and 2014 using EU-SILC data for four European countries. Results show that the economic crisis had a wide range of consequences for children's wellbeing: a disparity is observed across the four countries in preserving the same level of wellbeing after the economic crisis.",
+  "authors": [
+    {
+      "raw": "D'Agostino, Antonella",
+      "family": "D'Agostino",
+      "given": "Antonella"
+    },
+    {
+      "raw": "Gagliardi, Francesca",
+      "family": "Gagliardi",
+      "given": "Francesca"
+    },
+    {
+      "raw": "Giusti, Caterina",
+      "family": "Giusti",
+      "given": "Caterina"
+    },
+    {
+      "raw": "Potsi, Antoanneta",
+      "family": "Potsi",
+      "given": "Antoanneta"
+    }
+  ],
+  "authors_text": "D'Agostino, Antonella; Gagliardi, Francesca; Giusti, Caterina; Potsi, Antoanneta",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.06.013",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.06.013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.06.013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.06.013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

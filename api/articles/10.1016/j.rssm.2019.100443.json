@@ -1,0 +1,30 @@
+{
+  "title": "Uses of artificial and composite treatments in experimental methods: Reconsidering the problem of validity and its implications for stratification research",
+  "abstract": "This paper promotes the incorporation of the expanding uses of experimental methods in stratification research and beyond. Social science experiments are usually criticized for their lack of external validity, especially their limited generalizability to real-life settings. We offer a critique of this concern by reaffirming the classical insight of experimental methodology that external validity should not be a key concern and focusing on some under-appreciated scientific payoffs to experimental control. We illustrate the opportunities for productive use of artificial and composite treatments in tandem to obtain three measures of inequality preference: generalized egalitarianism (derived from an incentivized behavioral game), acceptable merit-based economic differential (from a vignette experiment), and motivational value of income differentials (from a standard attitudinal item). This approach enables us to examine their roles in determining the perceived fairness of living standard given one's effort-an outcome of much interest in subjective stratification research. The empirical results are based on a mobile phone survey of over 62,000 urban respondents, covering more than 330 of the largest cities in China. Using fixed-effects to control for locational unobservables, we show that perceived fairness is positively associated with tolerance of merit-based pay differential and, surprisingly, strict generalized egalitarian preference, but not with belief in income differentials as motivator for effort. Since the seemingly equivalent measures have very different predictive relationships with an individual's perceived fairness, the results offer a cautionary tale of invalid interpretations that overlook the subtle nonequivalence among valid measurement strategies with differing degrees of realism.",
+  "authors": [
+    {
+      "raw": "Chen, Jacqueline Chen",
+      "family": "Chen",
+      "given": "Jacqueline Chen"
+    },
+    {
+      "raw": "Tam, Tony",
+      "family": "Tam",
+      "given": "Tony"
+    }
+  ],
+  "authors_text": "Chen, Jacqueline Chen; Tam, Tony",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100443",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100443",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100443",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100443.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

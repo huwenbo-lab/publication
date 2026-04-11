@@ -1,0 +1,35 @@
+{
+  "title": "Climate Change and Migration: New Insights from a Dynamic Model of Out-Migration and Return Migration",
+  "abstract": "In popular accounts, stories of environmental refugees convey a bleak picture of the impacts of climate change on migration. Scholarly research is less conclusive, with studies finding varying effects. This article uses an agent-based model (ABM) of land use, social networks, and household dynamics to examine how extreme floods and droughts affect migration in Northeast Thailand. The ABM explicitly models the dynamic and interactive pathways through which climate-migration relationships might operate, including coupled out and return streams. Results suggest minimal effects on out-migration but marked negative effects on return. Social networks play a pivotal role in producing these patterns. In all, the portrait of climate change and migration painted by focusing only on environmental refugees is too simple. Climate change operates on already established migration processes that are part and parcel of the life course, embedded in dynamic social networks, and incorporated in larger interactive systems where out-migration and return migration are integrally connected.",
+  "authors": [
+    {
+      "raw": "Entwisle, Barbara",
+      "family": "Entwisle",
+      "given": "Barbara"
+    },
+    {
+      "raw": "Williams, Nathalie",
+      "family": "Williams",
+      "given": "Nathalie"
+    },
+    {
+      "raw": "Verdery, Ashton",
+      "family": "Verdery",
+      "given": "Ashton"
+    }
+  ],
+  "authors_text": "Entwisle, Barbara; Williams, Nathalie; Verdery, Ashton",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2020,
+  "doi": "10.1086/709463",
+  "doi_url": "https://doi.org/10.1086/709463",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F709463",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/709463.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

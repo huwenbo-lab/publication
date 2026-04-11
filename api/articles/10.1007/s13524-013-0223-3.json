@@ -1,0 +1,30 @@
+{
+  "title": "Perturbation Analysis of Indices of Lifespan Variability",
+  "abstract": "AbstractA number of indices exist to calculate lifespan variation, each with different underlying properties. Here, we present new formulae for the response of seven of these indices to changes in the underlying mortality schedule (life disparity, Gini coefficient, standard deviation, variance, Theil’s index, mean logarithmic deviation, and interquartile range). We derive each of these indices from an absorbing Markov chain formulation of the life table, and use matrix calculus to obtain the sensitivity and the elasticity (i.e., the proportional sensitivity) to changes in age-specific mortality. Using empirical French and Russian male data, we compare the underlying sensitivities to mortality change under different mortality regimes to determine the conditions under which the indices might differ in their conclusions about the magnitude of lifespan variation. Finally, we demonstrate how the sensitivities can be used to decompose temporal changes in the indices into contributions of age-specific mortality changes. The result is an easily computable method for calculating the properties of this important class of longevity indices.",
+  "authors": [
+    {
+      "raw": "van Raalte, Alyson A.",
+      "family": "van Raalte",
+      "given": "Alyson A."
+    },
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    }
+  ],
+  "authors_text": "van Raalte, Alyson A.; Caswell, Hal",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0223-3",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0223-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0223-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0223-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

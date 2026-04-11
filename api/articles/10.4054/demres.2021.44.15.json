@@ -1,0 +1,30 @@
+{
+  "title": "How do populations aggregate?",
+  "abstract": "BACKGROUND Understanding the relationship between populations at different scales plays an important role in many demographic analyses. OBJECTIVE We show that when a population can be partitioned into subgroups, the death rate for the entire population can be written as the weighted harmonic mean of the death rates in each subgroup, where the weights are given by the numbers of deaths in each subgroup. This decomposition can be generalized to other types of occurrence-exposure rates. Using different weights, the death rate for the entire population can also be expressed as an arithmetic mean of the death rates in each subgroup. CONCLUSIONS We use these relationships as a starting point for investigating how demographers can correctly aggregate rates across non-overlapping subgroups. Our analysis reveals conceptual links between classic demographic models and length-biased sampling. To illustrate how the harmonic mean can suggest new interpretations of demographic relationships, we present as an application a new expression for the frailty of the dying, given a standard demographic frailty model.",
+  "authors": [
+    {
+      "raw": "Feehan, Dennis M.",
+      "family": "Feehan",
+      "given": "Dennis M."
+    },
+    {
+      "raw": "Wrigley-Field, Elizabeth",
+      "family": "Wrigley-Field",
+      "given": "Elizabeth"
+    }
+  ],
+  "authors_text": "Feehan, Dennis M.; Wrigley-Field, Elizabeth",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.15",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.15",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.15",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.15.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "A register-based account of period trends in union prevalence, entries, and exits by educational level for men and women in Finland",
+  "abstract": "BACKGROUND The decline in marriage and increases in cohabiting unions during childbearing ages represent a major change in family structures and family dynamics. Yet no comprehensive description has covered period trends in the prevalence of marital and nonmarital unions or partnership entry and exit rates across educational levels. OBJECTIVE We describe period trends in the proportion of individuals in union and the flow of union formation and dissolution at ages 18-49 across educational levels for men and women in 1989-2019 in Finland. METHODS We use register data with full histories of coresidential unions regardless of marital status. We calculate the age-specific yearly prevalence of marriages, cohabitations, and all coresidential unions, and rates of union formation and separation. RESULTS The prevalence of marriage declined across educational groups. Increases in the prevalence of nonmarital cohabitation are slightly smaller than declines in marriage; as a result, the total union prevalence declined, especially among low-educated men and women. Union formation rates have declined since around 2010, and separation rates have increased notably, especially among the lower educated and in age groups below 35. CONCLUSIONS The increase in nonmarital cohabitation has not fully covered the decline in the stock of marriages. The increases in union instability are notable. All observed trends and educational gradients are remarkably similar among men and women.",
+  "authors": [
+    {
+      "raw": "Jalovaara, Marika",
+      "family": "Jalovaara",
+      "given": "Marika"
+    },
+    {
+      "raw": "Andersson, Linus",
+      "family": "Andersson",
+      "given": "Linus"
+    }
+  ],
+  "authors_text": "Jalovaara, Marika; Andersson, Linus",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.14",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Gender and Socioeconomic Inequalities in Health at Older Ages Across Different European Welfare Clusters: Evidence from SHARE Data, 2004-2015",
+  "abstract": "This study takes a comparative approach to assess whether the association between socioeconomic status (SES) and health in later life differs by gender in a sample of individuals aged 50 and above living in nine European countries (Austria, Belgium, Denmark, France, Germany, Italy, Spain, Sweden, and Switzerland). We apply linear hybrid (between-within) regression models using panel data (50,459 observations from 13,955 respondents) from five waves of the Survey of Health, Ageing and Retirement in Europe (SHARE) between the years 2004-2015. SES measures included education, income, and wealth. A 40- item Frailty Index (FI) of accumulated deficits, an important indicator of health in older populations, was used as dependent variable. Considering between-effects estimates, our results show that the positive impact of education and wealth on health is stronger for women living in countries where the welfare arrangements are less decommodifying and defamilializing. No such interaction is found for income and for fixed-effects estimates. This study could advance the understanding of gender inequalities in health. Also, such findings can guide future policies devoted at reducing gender and socioeconomic inequalities in health in later life.",
+  "authors": [
+    {
+      "raw": "Uccheddu, Damiano",
+      "family": "Uccheddu",
+      "given": "Damiano"
+    },
+    {
+      "raw": "Gauthier, Anne H.",
+      "family": "Gauthier",
+      "given": "Anne H."
+    },
+    {
+      "raw": "Steverink, Nardi",
+      "family": "Steverink",
+      "given": "Nardi"
+    },
+    {
+      "raw": "Emery, Tom",
+      "family": "Emery",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "Uccheddu, Damiano; Gauthier, Anne H.; Steverink, Nardi; Emery, Tom",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcz007",
+  "doi_url": "https://doi.org/10.1093/esr/jcz007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

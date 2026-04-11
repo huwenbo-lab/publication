@@ -1,0 +1,30 @@
+{
+  "title": "Quantifying Intrinsic and Extrinsic Contributions to Human Longevity: Application of a Two-Process Vitality Model to the Human Mortality Database",
+  "abstract": "The rise in human life expectancy has involved declines in intrinsic and extrinsic mortality processes associated, respectively, with senescence and environmental challenges. To better understand the factors driving this rise, we apply a two-process vitality model to data from the Human Mortality Database. Model parameters yield intrinsic and extrinsic cumulative survival curves from which we derive intrinsic and extrinsic expected life spans (ELS). Intrinsic ELS, a measure of longevity acted on by intrinsic, physiological factors, changed slowly over two centuries and then entered a second phase of increasing longevity ostensibly brought on by improvements in old-age death reduction technologies and cumulative health behaviors throughout life. The model partitions the majority of the increase in life expectancy before 1950 to increasing extrinsic ELS driven by reductions in environmental, event-based health challenges in both childhood and adulthood. In the post-1950 era, the extrinsic ELS of females appears to be converging to the intrinsic ELS, whereas the extrinsic ELS of males is approximately 20 years lower than the intrinsic ELS.",
+  "authors": [
+    {
+      "raw": "Sharrow, David J.",
+      "family": "Sharrow",
+      "given": "David J."
+    },
+    {
+      "raw": "Anderson, James J.",
+      "family": "Anderson",
+      "given": "James J."
+    }
+  ],
+  "authors_text": "Sharrow, David J.; Anderson, James J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0524-4",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0524-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0524-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0524-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

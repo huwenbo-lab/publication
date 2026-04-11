@@ -1,0 +1,50 @@
+{
+  "title": "The Community Determinants of Death: Comparing the Macro-Level Predictors of Overdose, Homicide, and Suicide Deaths, 2000 to 2015",
+  "abstract": "A growing body of research has begun to identify the social and ecological predictors of community overdose rates. However, questions remain about these relationships, and it is unclear whether the predictors of community overdose concentrations mirror those of other fatal social problems, such as homicide and suicide. Drawing on three leading ecological theories of overdose concentrations, the present study provides a longitudinal macro-level analysis of the community “determinants of death” for overdose (overall and by substance type), homicide, and suicide. Specifically, the authors use Centers for Disease Control and Prevention restricted-access mortality data, combined with measures of community social, economic, legal, and health indicators for the period from 2000 to 2015. Findings from time-series models reveal that county concentrations of overdose are linked to multiple theoretically driven factors—including opioid prescription rates, population decline, county health problems, and manufacturing employment—with several key similarities in the determinants of death across overdose, homicide, and suicide.",
+  "authors": [
+    {
+      "raw": "Feldmeyer, Ben",
+      "family": "Feldmeyer",
+      "given": "Ben"
+    },
+    {
+      "raw": "Cullen, Francis T.",
+      "family": "Cullen",
+      "given": "Francis T."
+    },
+    {
+      "raw": "Sun, Diana",
+      "family": "Sun",
+      "given": "Diana"
+    },
+    {
+      "raw": "Kulig, Teresa C.",
+      "family": "Kulig",
+      "given": "Teresa C."
+    },
+    {
+      "raw": "Chouhy, Cecilia",
+      "family": "Chouhy",
+      "given": "Cecilia"
+    },
+    {
+      "raw": "Zidar, Michael",
+      "family": "Zidar",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Feldmeyer, Ben; Cullen, Francis T.; Sun, Diana; Kulig, Teresa C.; Chouhy, Cecilia; Zidar, Michael",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221100392",
+  "doi_url": "https://doi.org/10.1177/23780231221100392",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221100392",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221100392.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

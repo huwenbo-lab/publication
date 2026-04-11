@@ -1,0 +1,30 @@
+{
+  "title": "The Society of Algorithms",
+  "abstract": "The pairing of massive data sets with processes-or algorithms-written in computer code to sort through, organize, extract, or mine them has made inroads in almost every major social institution. This article proposes a reading of the scholarly literature concerned with the social implications of this transformation. First, we discuss the rise of a new occupational class, which we call the coding elite. This group has consolidated power through their technical control over the digital means of production and by extracting labor from a newly marginalized or unpaid workforce, the cybertariat. Second, we show that the implementation of techniques of mathematical optimization across domains as varied as education, medicine, credit and finance, and criminal justice has intensified the dominance of actuarial logics of decision-making, potentially transforming pathways to social reproduction and mobility but also generating a pushback by those so governed. Third, we explore how the same pervasive algorithmic intermediation in digital communication is transforming the way people interact, associate, and think. We conclude by cautioning against the wildest promises of artificial intelligence but acknowledging the increasingly tight coupling between algorithmic processes, social structures, and subjectivities.",
+  "authors": [
+    {
+      "raw": "Burrell, Jenna",
+      "family": "Burrell",
+      "given": "Jenna"
+    },
+    {
+      "raw": "Fourcade, Marion",
+      "family": "Fourcade",
+      "given": "Marion"
+    }
+  ],
+  "authors_text": "Burrell, Jenna; Fourcade, Marion",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2021,
+  "doi": "10.1146/annurev-soc-090820-020800",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-090820-020800",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-090820-020800",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-090820-020800.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

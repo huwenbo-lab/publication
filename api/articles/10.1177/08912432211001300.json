@@ -1,0 +1,40 @@
+{
+  "title": "The Gendered Consequences of a Weak Infrastructure of Care: School Reopening Plans and Parents’ Employment During the COVID-19 Pandemic",
+  "abstract": "The COVID-19 pandemic has upended in-person public education across the United States, a critical infrastructure of care that parents—especially mothers—depend on to work. To understand the nature and magnitude of school closures across states, we collected detailed primary data—the Elementary School Operating Status database (ESOS)—to measure the percentage of school districts offering in-person, remote, and hybrid instruction models for elementary schools by state in September 2020. We link these data to the Current Population Survey to evaluate the association between school reopening and parents’ labor force participation rates, comparing 2020 labor force participation rates to those observed prepandemic in 2019. We find that, across states, the maternal labor force participation rate fell to a greater extent than that of fathers. In 2019, mothers’ rate of labor force participation was about 18 percentage points lower than fathers’. By 2020, this gap grew by 5 percentage points in states where schools offered primarily remote instruction. We show that schools are a vital source of care for young children, and that without in-person instruction, mothers have been sidelined from the labor force. The longer these conditions remain in place, the more difficult it may be for mothers to fully recover from prolonged spells of nonemployment, resulting in reduced occupational opportunities and lifetime earnings.",
+  "authors": [
+    {
+      "raw": "Collins, Caitlyn",
+      "family": "Collins",
+      "given": "Caitlyn"
+    },
+    {
+      "raw": "Ruppanner, Leah",
+      "family": "Ruppanner",
+      "given": "Leah"
+    },
+    {
+      "raw": "Christin Landivar, Liana",
+      "family": "Christin Landivar",
+      "given": "Liana"
+    },
+    {
+      "raw": "Scarborough, William J.",
+      "family": "Scarborough",
+      "given": "William J."
+    }
+  ],
+  "authors_text": "Collins, Caitlyn; Ruppanner, Leah; Christin Landivar, Liana; Scarborough, William J.",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2021,
+  "doi": "10.1177/08912432211001300",
+  "doi_url": "https://doi.org/10.1177/08912432211001300",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432211001300",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432211001300.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Understanding Heterogeneity in the Effects of Parental Separation on Educational Attainment in Britain: Do Children from Lower Educational Backgrounds Have Less to Lose?",
+  "abstract": "We use the British Cohort Study 1970 to show that the proportion of children achieving a tertiary education degree is 8 percentage points lower for the offspring of separated parents than for children from intact families. Moreover, the children of highly educated parents experience a two times larger 'separation penalty' than the children of less educated parents. We find a similar pattern of heterogeneity in effects for the likelihood of participation in academic education (A-Levels) beyond school leaving age but not for school grades at age 16. We test three different explanations for heterogeneity in the parental separation penalty: changes in family relations, changes in income, and negative selection into separation based on unobserved characteristics. We address the potential endogeneity of parental separation by including pre-separation observable characteristics, individual fixed effects models, and a placebo test. Our key finding is that changes in family income, but not those in family relations or selection, explain a large part of heterogeneity in the effects of parental separation. Children with more highly educated parents face a larger decline in family income if parents separate and, in addition, declines in family income of equal amounts entail more negative consequences for their educational attainment.",
+  "authors": [
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    },
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    }
+  ],
+  "authors_text": "Bernardi, Fabrizio; Boertien, Diederik",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcw036",
+  "doi_url": "https://doi.org/10.1093/esr/jcw036",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcw036",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcw036.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

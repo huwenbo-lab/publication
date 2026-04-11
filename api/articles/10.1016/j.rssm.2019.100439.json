@@ -1,0 +1,35 @@
+{
+  "title": "The heterogeneous effects of parental unemployment on siblings' educational outcomes",
+  "abstract": "The literature on the intergenerational effects of unemployment has shown that unemployment has short-term negative effects on children's schooling ambitions, performance and high school dropout rates. The long-term effects on children's educational outcomes, however, are mixed. One potentially important limitation of previous studies has been that they have ignored the heterogeneous effects of parental unemployment on children's education. We study the effects of parental unemployment on children's grade point average, enrollment into general secondary and tertiary education by comparing the effects according to the children's age of exposure and the parental level of education. We use high quality Finnish longitudinal register data and sibling fixed-effect models to obtain causal effects. We find that parental unemployment has negative effects on both children's educational enrollment and performance at the educational transitional periods when children are an adolescent but parental unemployment is not detrimental in early childhood. For general secondary but not for tertiary enrollment, children's poorer school performance due to parental unemployment explains the effect entirely. Parental unemployment is not affecting children general secondary enrollment or school performance among higher educated parents. However, children with a higher educated parent exposed to unemployment are less likely to enroll in tertiary education. The reduced amount of parental economic resources due to unemployment cannot explain any of these effects. This calls for other forms of support for children at crucial periods when educational decisions are made.",
+  "authors": [
+    {
+      "raw": "Lehti, Hannu",
+      "family": "Lehti",
+      "given": "Hannu"
+    },
+    {
+      "raw": "Erola, Jani",
+      "family": "Erola",
+      "given": "Jani"
+    },
+    {
+      "raw": "Karhula, Aleksi",
+      "family": "Karhula",
+      "given": "Aleksi"
+    }
+  ],
+  "authors_text": "Lehti, Hannu; Erola, Jani; Karhula, Aleksi",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2019,
+  "doi": "10.1016/j.rssm.2019.100439",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100439",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100439",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100439.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

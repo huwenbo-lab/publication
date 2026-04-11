@@ -1,0 +1,35 @@
+{
+  "title": "Triple Disadvantage: Neighborhood Networks of Everyday Urban Mobility and Violence in US Cities",
+  "abstract": "This article develops and assesses the concept of triple neighborhood disadvantage. We argue that a neighborhood's well-being depends not only on its own socioeconomic conditions but also on the conditions of neighborhoods its residents visit and are visited by, connections that form through networks of everyday urban mobility. We construct measures of mobility-based disadvantage using geocoded patterns of movement estimated from hundreds of millions of tweets sent by nearly 400,000 Twitter users over 18 months. Analyzing nearly 32,000 neighborhoods and 9,700 homicides in 37 of the largest U.S. cities, we show that neighborhood triple disadvantage independently predicts homicides, adjusting for traditional neighborhood correlates of violence, spatial proximity to disadvantage, prior homicides, and city fixed effects. Not only is triple disadvantage a stronger predictor than traditional measures, it accounts for a sizable portion of the association between residential neighborhood disadvantage and homicides. In turn, potential mechanisms such as neighborhood drug activity, interpersonal friction, and gun crime prevalence account for much of the association between triple disadvantage and homicides. These findings implicate structural mobility patterns as an important source of triple (dis)advantage for neighborhoods and have implications for a broad range of phenomena beyond crime, including community capacity, gentrification, transmission in a pandemic, and racial inequality.",
+  "authors": [
+    {
+      "raw": "Levy, Brian L.",
+      "family": "Levy",
+      "given": "Brian L."
+    },
+    {
+      "raw": "Phillips, Nolan E.",
+      "family": "Phillips",
+      "given": "Nolan E."
+    },
+    {
+      "raw": "Sampson, Robert J.",
+      "family": "Sampson",
+      "given": "Robert J."
+    }
+  ],
+  "authors_text": "Levy, Brian L.; Phillips, Nolan E.; Sampson, Robert J.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1177/0003122420972323",
+  "doi_url": "https://doi.org/10.1177/0003122420972323",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122420972323",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122420972323.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

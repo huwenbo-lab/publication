@@ -1,0 +1,40 @@
+{
+  "title": "Mixed marriages between immigrants and natives in Spain: The gendered effect of marriage market constraints",
+  "abstract": "BACKGROUND Spain has become an important immigrant destination relatively recently. Marriages between natives and immigrants are among the most important agents of social and cultural change in contemporary Spanish society. OBJECTIVE This study's aim is to analyse the propensity to enter mixed-nativity marriages among both natives and immigrants in Spain, focusing on the roles played by both individual and marriage market characteristics. METHODS The study combines data from the National Immigrant Survey (2007) and the Marriages Register (2008). Multivariate analysis is based on multinomial logistic regression, with an event history approach for immigrants and cross-sectional approach for natives. RESULTS Immigrant groups, and particularly immigrant men, differ considerably in their propensity to intermarry. Education is positively associated with exogamy among immigrant men but is not an important predictor of intermarriage among immigrant women. By contrast, the marriage market structure is more important for immigrant women than men. The analysis for natives shows only limited support for the exchange hypothesis. Educational exchange can be observed in the mixed marriages of native women with some immigrant groups but is observed much less often for native men. Age difference within the couple is more frequently consistent with some sort of exchange between immigrant and native partners. CONCLUSIONS Our results suggest that there is not one marriage market but several for different groups and that the patterns of native/immigrant marriage in Spain are strongly gendered. CONTRIBUTION This is the first study on intermarriage in Spain to look at both natives and immigrants.",
+  "authors": [
+    {
+      "raw": "Gonzalez-Ferrer, Amparo",
+      "family": "Gonzalez-Ferrer",
+      "given": "Amparo"
+    },
+    {
+      "raw": "Obucina, Ognjen",
+      "family": "Obucina",
+      "given": "Ognjen"
+    },
+    {
+      "raw": "Cortina, Clara",
+      "family": "Cortina",
+      "given": "Clara"
+    },
+    {
+      "raw": "Castro-Martin, Teresa",
+      "family": "Castro-Martin",
+      "given": "Teresa"
+    }
+  ],
+  "authors_text": "Gonzalez-Ferrer, Amparo; Obucina, Ognjen; Cortina, Clara; Castro-Martin, Teresa",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.1",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

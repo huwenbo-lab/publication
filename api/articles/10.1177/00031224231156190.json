@@ -1,0 +1,40 @@
+{
+  "title": "Born for a Storm: Hard-Right Social Media and Civil Unrest",
+  "abstract": "Does activity on hard-right social media lead to hard-right civil unrest? If so, why? We created a spatial panel dataset comprising hard-right social media use and incidents of unrest across the United States from January 2020 through January 2021. Using spatial regression analyses with core-based statistical area (CBSA) and month fixed effects, we find that greater CBSA-level hard-right social media activity in a given month is associated with an increase in subsequent unrest. The results of robustness checks, placebo tests, alternative analytical approaches, and sensitivity analyses support this finding. To examine why hard-right social media activity predicts unrest, we draw on an original dataset of users' shared content and status in the online community. Analyses of these data suggest that hard-right social media shift users' perceptions of norms, increasing the likelihood they will participate in contentious events they once considered taboo. Our study sheds new light on social media's offline effects, as well as the consequences of increasingly common hard-right platforms.",
+  "authors": [
+    {
+      "raw": "Karell, Daniel",
+      "family": "Karell",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Linke, Andrew",
+      "family": "Linke",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Holland, Edward",
+      "family": "Holland",
+      "given": "Edward"
+    },
+    {
+      "raw": "Hendrickson, Edward",
+      "family": "Hendrickson",
+      "given": "Edward"
+    }
+  ],
+  "authors_text": "Karell, Daniel; Linke, Andrew; Holland, Edward; Hendrickson, Edward",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231156190",
+  "doi_url": "https://doi.org/10.1177/00031224231156190",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231156190",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231156190.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

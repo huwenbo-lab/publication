@@ -1,0 +1,35 @@
+{
+  "title": "Raising the Stakes: Inequality and Testing in the Russian Education System",
+  "abstract": "Sociologists have argued that high-stakes tests open the door to high levels of educational inequality at transition points: in a high-stakes testing regime, parents and students are able to focus all energy and resources on test preparation, thus enhancing pre-existing inequalities in academic performance. But arguments about a special role for high-stakes tests are often prosecuted without explicit comparisons to other types of tests and assessments, usually because information on other tests is not available. In this article, we analyze a unique dataset on a contemporary cohort of Russian students, forwhom we have PISA and TIMSS scores, low-stakes test scores, and high-stakes test scores. We compare the role each test plays in mediating socioeconomic background inequalities at the important transitions in the Russian educational system: the transition to upper secondary education and the transition to university. We find evidence in favor of a special role for the high-stakes test at the transition to university, but we also find evidence that gives cause to question the standard assumption that high-stakes tests should be a primary focus for those concerned about inequality of educational opportunity.",
+  "authors": [
+    {
+      "raw": "Jackson, Michelle",
+      "family": "Jackson",
+      "given": "Michelle"
+    },
+    {
+      "raw": "Khavenson, Tatiana",
+      "family": "Khavenson",
+      "given": "Tatiana"
+    },
+    {
+      "raw": "Chirkina, Tatiana",
+      "family": "Chirkina",
+      "given": "Tatiana"
+    }
+  ],
+  "authors_text": "Jackson, Michelle; Khavenson, Tatiana; Chirkina, Tatiana",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz113",
+  "doi_url": "https://doi.org/10.1093/sf/soz113",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz113",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz113.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

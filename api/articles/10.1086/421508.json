@@ -1,0 +1,40 @@
+{
+  "title": "Network dynamics and field evolution: The growth of interorganizational collaboration in the life sciences",
+  "abstract": "A recursive analysis of network and institutional evolution is offered to account for the decentralized structure of the commercial field of the life sciences. Four alternative logics of attachment - accumulative advantage, homophily, follow-the-trend, and multiconnectivity - are tested to explain the structure and dynamics of interorganizational collaboration in biotechnology. Using multiple novel methods, the authors demonstrate how different rules for affiliation shape network evolution. Commercialization strategies pursued by early corporate entrants are supplanted by universities, research institutes, venture capital, and small firms. As organizations increase their collaborative activities and diversify their ties to others, cohesive subnetworks form, characterized by multiple, independent pathways. These structural components, in turn, condition the choices and opportunities available to members of a field, thereby reinforcing an attachment logic based on differential connections to diverse partners.",
+  "authors": [
+    {
+      "raw": "Powell, WW",
+      "family": "Powell",
+      "given": "WW"
+    },
+    {
+      "raw": "White, DR",
+      "family": "White",
+      "given": "DR"
+    },
+    {
+      "raw": "Koput, KW",
+      "family": "Koput",
+      "given": "KW"
+    },
+    {
+      "raw": "Owen-Smith, J",
+      "family": "Owen-Smith",
+      "given": "J"
+    }
+  ],
+  "authors_text": "Powell, WW; White, DR; Koput, KW; Owen-Smith, J",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2005,
+  "doi": "10.1086/421508",
+  "doi_url": "https://doi.org/10.1086/421508",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F421508",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/421508.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

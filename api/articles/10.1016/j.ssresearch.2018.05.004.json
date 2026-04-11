@@ -1,0 +1,35 @@
+{
+  "title": "Examining macroeconomic determinants of trust in parliament: A dynamic multilevel framework",
+  "abstract": "The extensive literature on political trust has long suggested a link between macroeconomic conditions and public trust in political institutions. However, empirical evidence regarding this relationship remains ambiguous. Conflicting results appear to be related to differences in research design: while cross-sectional studies tend not to find evidence of a link between macroeconomic variables and trust in political institutions, most longitudinal studies do. In this paper, using recent advances in multilevel methodology, we examine both cross-sectional and longitudinal effects of macroeconomic variables on trust in national parliament within a single dynamic multilevel framework. By analyzing all seven waves of the European Social Survey (2002-2014), we demonstrate that declining macroeconomic performance has a negative within country effect on trust in national parliament. At the same time, we find limited evidence in support of this association at the between-country level. This discrepancy suggests the presence of confounding factors that are unaccounted for in cross-sectional designs. We therefore argue for the importance of examining within-country effects as they provide a more stringent test of causality.",
+  "authors": [
+    {
+      "raw": "Ruelens, Anna",
+      "family": "Ruelens",
+      "given": "Anna"
+    },
+    {
+      "raw": "Meuleman, Bart",
+      "family": "Meuleman",
+      "given": "Bart"
+    },
+    {
+      "raw": "Nicaise, Ides",
+      "family": "Nicaise",
+      "given": "Ides"
+    }
+  ],
+  "authors_text": "Ruelens, Anna; Meuleman, Bart; Nicaise, Ides",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.05.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.05.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.05.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.05.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

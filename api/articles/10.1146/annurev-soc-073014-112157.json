@@ -1,0 +1,30 @@
+{
+  "title": "Genealogical Microdata and Their Significance for Social Science",
+  "abstract": "Despite long-standing recognition of the importance of family background in shaping life outcomes, only recently have empirical studies in demography, stratification, and other areas begun to consider the influence of kin other than parents. These new studies reflect the increasing availability of genealogical microdata that provide information about ancestors and kin over three or more generations. These data sets, including family genealogies, linked vital registration records, population registers, longitudinal surveys, and other sources, are valuable resources for social research on family, population, and stratification in a multigenerational perspective. This article reviews relevant recent studies, introduces and presents examples of the most important sources of genealogical microdata, identifies key methodological issues in the construction and analysis of genealogical data, and suggests directions for future research.",
+  "authors": [
+    {
+      "raw": "Song, Xi",
+      "family": "Song",
+      "given": "Xi"
+    },
+    {
+      "raw": "Campbell, Cameron D.",
+      "family": "Campbell",
+      "given": "Cameron D."
+    }
+  ],
+  "authors_text": "Song, Xi; Campbell, Cameron D.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2017,
+  "doi": "10.1146/annurev-soc-073014-112157",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-073014-112157",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-073014-112157",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-073014-112157.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

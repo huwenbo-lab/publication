@@ -1,0 +1,30 @@
+{
+  "title": "Social inequalities in green exposure in small- and medium-sized US cities: A mobility-based approach",
+  "abstract": "Background: Green space exposure has been considered essential for people's physical and mental health. Researchers have investigated uneven exposure to green space based on individuals' home locations, which may exacerbate health disparities. A mobility-based approach enables a more accurate assessment of green exposure in daily activity patterns. In addition, social inequalities may vary by geographical context and should be examined to address environmental justice concerns. Objective: Study objectives are twofold: to address methodological challenges in exposure assessment studies through mobility-based assessment of green exposure; and to explore whether mobility-based approach can better assess green exposure inequality than home-based measurement. Methods: We selected 25 small- and medium-sized U.S. cities as study sites, from which streetview images were collected along 50,823 walk-based commute trajectories. We applied a semantic segmentation technique to street-view images to estimate individual home- and mobilitybased green exposure levels. Results: Results revealed that mobility-based green exposure significantly differs from home-based green exposure. Globally, wealthier individuals and non-minority groups experience significantly greater exposure to green space through both home- and mobility-based approaches compared to their counterparts. Locally, we found more nuanced pictures of green space inequalities when compared at the county level, suggesting locally varying relationships. Significance: This study suggests empirical evidence on how mobility-based measurements could help us assess inequality problems in exposure to urban green elements. Impact: Creating urban green corridors that comply with locally varying contexts can contribute to achieving equitable provision of green infrastructure for low-income and racially disadvantaged populations who have undesirable green exposure in their residential locations.",
+  "authors": [
+    {
+      "raw": "Jang, Kee Moon",
+      "family": "Jang",
+      "given": "Kee Moon"
+    },
+    {
+      "raw": "Kim, Junghwan",
+      "family": "Kim",
+      "given": "Junghwan"
+    }
+  ],
+  "authors_text": "Jang, Kee Moon; Kim, Junghwan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103142",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103142",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103142",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103142.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

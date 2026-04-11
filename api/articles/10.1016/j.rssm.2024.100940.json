@@ -1,0 +1,35 @@
+{
+  "title": "Heritability of class and status: Implications for sociological theory and research",
+  "abstract": "Most individual-level outcomes of interest to sociologists are indirectly influenced by genetics, including socioeconomic outcomes like education, income, wealth, and occupational status. Despite this knowledge, an integration of sociological theories of class and status with the research literature on genetic heritability is largely lacking, and no previous studies have investigated the role of genetics specifically for class attainment - a central concept in sociology. To amend this, we estimate how much variation in such positions can be attributed to genetic and environmental factors in roughly 5000 Norwegian twin pairs. The results suggest that the variability in class and status attainment is influenced by genetics to a non-negligible degree, while shared environmental factors play a modest role as well. This is in line with previous findings using genetically informed designs to study other socioeconomic outcomes. Our study suggests that in addition to social environments, variation in class and status attainment can partly be explained by genetics.",
+  "authors": [
+    {
+      "raw": "Van Hootegem, Arno",
+      "family": "Van Hootegem",
+      "given": "Arno"
+    },
+    {
+      "raw": "Rogne, Adrian Farner",
+      "family": "Rogne",
+      "given": "Adrian Farner"
+    },
+    {
+      "raw": "Lyngstad, Torkild Hovde",
+      "family": "Lyngstad",
+      "given": "Torkild Hovde"
+    }
+  ],
+  "authors_text": "Van Hootegem, Arno; Rogne, Adrian Farner; Lyngstad, Torkild Hovde",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100940",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100940",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100940",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100940.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

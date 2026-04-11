@@ -1,0 +1,30 @@
+{
+  "title": "Is Deindustrialization Causing High Unemployment in Affluent Countries? Evidence from 16 OECD Countries, 1970-2003",
+  "abstract": "This study assesses the possibility that deindustrialization has been contributing to the persistently high unemployment rates experienced by most affluent countries since the mid-1970s. Combining insights from Lilien's (1982) “sectoral shift” thesis and the literature on deindustrialization, the authors assert that the decades-long contraction of the manufacturing sector has been a significant source of high unemployment in affluent countries. This assertion is tested against the literature's existing explanations for unemployment using data from 16 Organization for Economic Cooperation and Development countries over a recent 34-year period. Two-way, fixed-effects regression models suggest that deindustrialization has not only contributed to unemployment in these countries, but that it has been one of the more important causes of this phenomenon. These findings are robust across various model specifications and estimating strategies. The study concludes by suggesting further ways to investigate this important topic.",
+  "authors": [
+    {
+      "raw": "Kollmeyer, C.",
+      "family": "Kollmeyer",
+      "given": "C."
+    },
+    {
+      "raw": "Pichler, F.",
+      "family": "Pichler",
+      "given": "F."
+    }
+  ],
+  "authors_text": "Kollmeyer, C.; Pichler, F.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sos184",
+  "doi_url": "https://doi.org/10.1093/sf/sos184",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsos184",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sos184.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

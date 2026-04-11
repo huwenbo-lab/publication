@@ -1,0 +1,30 @@
+{
+  "title": "Multiracial Children's Experiences of Family Instability",
+  "abstract": "Objective This study compares multiracial and monoracial children's exposures to family instability, attending to variation by parents' marital status at birth. Background Previous research has revealed considerable racial/ethnic heterogeneity in children's exposure to family instability. Adding to this diversity is the rising share of multiracial and multiethnic children. Yet, multiracial and multiethnic children's experiences of family instability remain largely unexamined. Methods Data come from the 2006-2019 National Survey of Family Growth, a nationally representative repeated cross-section of U.S. adults of reproductive age. The analytic sample included 15,369 children born in first marriages and 8,612 children born in first cohabitations to non-Hispanic White, non-Hispanic Black, and Hispanic parents. Multistate life tables, negative binomial regression, and multinomial logistic regression were used to compare the number of family transitions and family trajectories of multiracial and monoracial children through age 12. Results Differences in exposures to family instability between multiracial and monoracial children varied by parents' marital status at birth. Multiracial children born to cohabiting parents generally experienced more childhood family instability than their monoracial counterparts. Conversely, the family experiences of multiracial children born in first marriages typically fell between those of their monoracial counterparts. Conclusion Given that higher shares of multiracial children are born within the context of cohabitation relative to their monoracial peers, these findings suggest that multiracial children may be particularly vulnerable to experiencing family instability.",
+  "authors": [
+    {
+      "raw": "Choi, Kate H.",
+      "family": "Choi",
+      "given": "Kate H."
+    },
+    {
+      "raw": "Goldberg, Rachel E.",
+      "family": "Goldberg",
+      "given": "Rachel E."
+    }
+  ],
+  "authors_text": "Choi, Kate H.; Goldberg, Rachel E.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12763",
+  "doi_url": "https://doi.org/10.1111/jomf.12763",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12763",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12763.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

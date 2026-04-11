@@ -1,0 +1,40 @@
+{
+  "title": "Local Policing and the Educational Outcomes of Undocumented College Students",
+  "abstract": "A growing literature examines the impact of immigration and law enforcement on undocumented immigrants and their communities, but these studies are limited by the lack of reliable data on documentation status and their focus on federal immigration enforcement. Leveraging administrative student data from the City University of New York (CUNY) that reliably identify about 13,000 undocumented students among more than 350,000 first-year students, this article examines whether local policing practices that do not ostensibly target undocumented immigrants can affect the educational outcomes of undocumented young adults. Focusing on police stops around university campuses under the New York City Police Department's Stop, Question, and Frisk program, our findings show a substantial negative effect of police stops around campus on course credits for undocumented men but no impact on GPA or on the likelihood of receiving zero credits in the following term (stop-out). The negative effect is larger for Black and South Asian undocumented young men, groups that experience heightened surveillance by the local police. In contrast, campus police stops have little effect on documented students or undocumented women. The results illustrate how local policing practices, even in so-called sanctuary cities, can have chilling effects on undocumented groups with important implications for the links between the criminal justice system, immigration, and social inequality.",
+  "authors": [
+    {
+      "raw": "Legewie, Joscha",
+      "family": "Legewie",
+      "given": "Joscha"
+    },
+    {
+      "raw": "Hsin, Amy",
+      "family": "Hsin",
+      "given": "Amy"
+    },
+    {
+      "raw": "Harder, Niklas",
+      "family": "Harder",
+      "given": "Niklas"
+    },
+    {
+      "raw": "Martén, Linna",
+      "family": "Martén",
+      "given": "Linna"
+    }
+  ],
+  "authors_text": "Legewie, Joscha; Hsin, Amy; Harder, Niklas; Martén, Linna",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2022,
+  "doi": "10.15195/v9.a16",
+  "doi_url": "https://doi.org/10.15195/v9.a16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv9.a16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v9.a16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

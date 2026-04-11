@@ -1,0 +1,25 @@
+{
+  "title": "The Right to Work and American Inequality",
+  "abstract": "Labor historians describe Right to Work (RTW) as among the most consequential pushbacks against the early twentieth-century ascent of labor unions. Yet research on the economic consequences of RTW remains mixed, with nearly all research centered empirically and theoretically on the time surrounding RTW passage. In the current study, I use 41 waves of longitudinal data from the Panel Study of Income Dynamics between 1968 and 2019 to empirically and theoretically extend the mechanisms that link RTW and economic outcomes. First, following the vast majority of research on RTW, I show the demobilizing effects for labor following RTW passage: mean wages decline, wage inequality increases, and the union premium is halved in the middle and lower portion of the wage distribution. Second, I move theoretical focus beyond the time surrounding law enactment, arguing for a second-order effect whereby RTW institutionalizes a logic of polarized economic distributions and low labor power. To test this mechanism, I develop a novel strategy of comparison across respondents who are differentially mobile across state boundaries. I find individuals who cross RTW contexts experience a unique decline in mean wages and increase in wage variance, but this distinct trend can be explained by state-level institutional variation across RTW and non-RTW states. Thus, RTW is not only consequential in the periods around its passage, but also in establishing a long-standing, high-inequality regime. Results reveal multiple mechanisms by which RTW contributes to the long-run processes of union decline and broadly shared inequality growth.",
+  "authors": [
+    {
+      "raw": "VanHeuvelen, Tom",
+      "family": "VanHeuvelen",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "VanHeuvelen, Tom",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231197630",
+  "doi_url": "https://doi.org/10.1177/00031224231197630",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231197630",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231197630.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

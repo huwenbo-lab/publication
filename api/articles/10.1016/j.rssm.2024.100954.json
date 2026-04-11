@@ -1,0 +1,35 @@
+{
+  "title": "The changing educational and social class gradients in union dissolution: Evidence from a latecomer of the Second Demographic Transition",
+  "abstract": "Most studies on the changing socioeconomic gradient of divorce have operationalized individuals' socioeconomic status (SES) through education, often neglecting social class differences. Education may proxy cultural and cognitive skills, whereas social class could more accurately capture economic means. Additionally, existing research has predominantly focused on women and marital dissolutions. This study addresses these oversights by analyzing the educational and social class gradients of both marriage and cohabitation dissolutions among men and women in Italy-a latecomer to the Second Demographic Transition. We used non-proportional hazard models to estimate survival curves and union dissolution probabilities stratified by education, social class, and cohort. Our findings reveal a vanishing socioeconomic gradient of marital dissolution among women and a reversal from positive to negative among men across cohorts. These results challenge the conventional view that men's higher SES always stabilizes unions and support Goode's hypothesis on the reversal of the socioeconomic gradient of divorce for both genders. No clear SES gradient was found for cohabiting unions. Overall, the study demonstrates the significant predictive power of social class for marital dissolutions, even when controlling for education, emphasizing the need to consider both measures of SES to comprehensively account for different underlying mechanisms.",
+  "authors": [
+    {
+      "raw": "Bastianelli, Elena",
+      "family": "Bastianelli",
+      "given": "Elena"
+    },
+    {
+      "raw": "Guetto, Raffaele",
+      "family": "Guetto",
+      "given": "Raffaele"
+    },
+    {
+      "raw": "Vignoli, Daniele",
+      "family": "Vignoli",
+      "given": "Daniele"
+    }
+  ],
+  "authors_text": "Bastianelli, Elena; Guetto, Raffaele; Vignoli, Daniele",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100954",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100954",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100954",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100954.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

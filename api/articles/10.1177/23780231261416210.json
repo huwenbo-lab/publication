@@ -1,0 +1,30 @@
+{
+  "title": "Self-Rated Health among Adults in India: Examining the Role of Religiosity",
+  "abstract": "Prior national studies on religiosity and self-rated health in India have focused solely on older adults using a single data source. Additionally, religion is multidimensional; yet prior research has used limited measures of religiosity. There is a need to expand these measures and examine the general adult population using nationally representative data. The authors investigate the association between five dimensions of religiosity—religious attendance, prayer, scripture reading, religious media consumption, and religious salience—and self-rated health among adults in India. Data were drawn from the Pew Research Center’s 2019–2020 India Survey ( n = 27,574), a nationally representative sample of adults 18 years and older. Logistic regression was conducted to assess independent associations between religiosity measures and poor self-rated health, adjusting for covariates. In adjusted models, higher levels of religious attendance and religious media consumption were associated with lower odds of poor self-rated health. Prayer and religious salience were associated with higher odds of poor self-rated health. Scripture reading had a null association. Religious attendance and religious media consumption may be protective social determinants of health for adults in India. Religiosity may be highly valued for those coping with poor health, especially in the forms of religious salience and prayer.",
+  "authors": [
+    {
+      "raw": "Sandhu, Harleen",
+      "family": "Sandhu",
+      "given": "Harleen"
+    },
+    {
+      "raw": "Stroope, Samuel",
+      "family": "Stroope",
+      "given": "Samuel"
+    }
+  ],
+  "authors_text": "Sandhu, Harleen; Stroope, Samuel",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2026,
+  "doi": "10.1177/23780231261416210",
+  "doi_url": "https://doi.org/10.1177/23780231261416210",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231261416210",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231261416210.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

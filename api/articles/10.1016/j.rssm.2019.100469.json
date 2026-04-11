@@ -1,0 +1,30 @@
+{
+  "title": "Measurement error in occupation and the impact on intergenerational mobility",
+  "abstract": "We examine the potential effect of measurement error in occupation on intergenerational mobility tables. If the classification schemes used to measure intergenerational mobility are subject to measurement error, our understanding of the ability for individuals to overcome disadvantageous backgrounds may not be accurate. A review of the literature suggests that three-digit occupations are mis-reported between 42 and 58 percent of the time. We show that this error in occupation translates to errors in class, using two common classification systems. We also find that relying on proxy reports of occupation adds to the measurement error, though the error proxy reporting introduces is relatively small given the magnitude of occupation errors. To minimize the impact of occupation measurement error, we recommend two paths forward. First, use fewer classes. More of the error in occupation is washed away when fewer classes are used in the mobility tables. Second, mobility tables are more accurate when parents report their own occupation and children report their own occupation as well. Proxy reports like those used in the General Social Survey increase the error in occupation.",
+  "authors": [
+    {
+      "raw": "Houseworth, Christina",
+      "family": "Houseworth",
+      "given": "Christina"
+    },
+    {
+      "raw": "Fisher, Jonathan",
+      "family": "Fisher",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Houseworth, Christina; Fisher, Jonathan",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100469",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100469",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100469",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100469.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

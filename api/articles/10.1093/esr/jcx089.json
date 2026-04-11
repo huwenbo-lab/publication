@@ -1,0 +1,25 @@
+{
+  "title": "Understanding Material Deprivation for 25 EU Countries: Risk and Level Perspectives, and Distinctiveness of Zeros",
+  "abstract": "Existing deprivation scales identify a majority of the population in each European Union (EU) country with zero deprivation. In this article, I hypothesize and test whether scoring zero on amaterial deprivation scale is a qualitatively different phenomenon to scoring at least one by applying and comparing multiple count models. I then examine how neglecting the distinctiveness of zeros, as the case in conventional models, influences our understanding of deprivation risk (deprived vs. non-deprived) and deprivation level (high vs. low deprivation), specifically regarding their relationship to social class. Consistently across 25 EU countries, the findings show that those with zero deprivation have significantly distinct profiles to those who have at least one deprivation. These results are robust to different weighting and index specifications. I then demonstrate how neglecting the distinctiveness of zeros results in significant underestimation of the strong social class gradient in risk of deprivation, and significant overestimation of the rather weak social class gradient in level of deprivation. Moreover, accounting for the distinctiveness of zeros reveals the conceptual difference between the risk and the level of deprivation given their different determinants, while conventional models identify the same determinants for both. These latter findings are also broadly consistent across 25 EU countries, with some exceptions in countries with very low level of zeros, such as Hungary, Bulgaria, and Romania. Relevant scales with a zero threshold can be used to study deprivation or to measure poverty in the EU yet either with some reconsiderations of conceptual and data problems or using a consistent poverty approach.",
+  "authors": [
+    {
+      "raw": "Beduk, Selcuk",
+      "family": "Beduk",
+      "given": "Selcuk"
+    }
+  ],
+  "authors_text": "Beduk, Selcuk",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcx089",
+  "doi_url": "https://doi.org/10.1093/esr/jcx089",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx089",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx089.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

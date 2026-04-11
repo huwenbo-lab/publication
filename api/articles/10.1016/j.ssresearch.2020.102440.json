@@ -1,0 +1,25 @@
+{
+  "title": "Educational assortative mating and time use in the home",
+  "abstract": "This study examines the association between individuals' educational assortative mating and time spent on child care and housework. Focus is put on hypogamous couples, or couples in which wives have more education than their husbands. Relative resources and gender revolution frameworks are considered as contexts to explain why hypogamous couples may share their time differently than other couples. A series of ordinary least squares regressions with population and sampling weights are employed using American Time Use Survey data from 2003 to 2018. Three, separate analyses using relative education, gender, and all educational pairings as the independent variables of interest are presented with child care and housework as the dependent variables. The current findings show that men in hypogamous marriages perform about 10 min more of child care per day on average than their peers in hypergamous and homogamous marriages, and that this comes primarily from basic care activities. This accounts for approximately 43% of the difference between men and women in the average amount of time spent on child care. No clear pattern of significance is apparent comparing individuals' time spent on housework by relative education, suggesting that housework and child care have evolved differently in the context of gendered domestic responsibilities. Men in hypogamous marriages are more egalitarian in their sharing of child care. However, this is only true for couples in which men have at least a high school diploma and women are highly educated.",
+  "authors": [
+    {
+      "raw": "Miller, Rhiannon N.",
+      "family": "Miller",
+      "given": "Rhiannon N."
+    }
+  ],
+  "authors_text": "Miller, Rhiannon N.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2020.102440",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102440",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102440",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102440.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Gender and migration from Albania",
+  "abstract": "AbstractThis article examines the dynamics and causes of the shift in the gender composition of migration, and more particularly, in women’s access to migration opportunities and decision-making. Our analysis focuses on Albania, a natural laboratory for studying international migration where out-migration was essentially nonexistent from the end of World War II to the end of the 1980s. Interest in the Albanian case is heightened because of the complex layers of inequality existing at the time when migration began: relatively low levels of inequality within the labor market and educational system—a product of the Communist era—while household relations remained heavily steeped in tradition and patriarchy. We use micro-level data from the Albania 2005 Living Standards Measurement Study, including migration histories for family members since migration began. Based on discrete-time hazard models, the analysis shows a dramatic increase in male migration and a gradual and uneven expansion of the female proportion of this international migration. Female migration, which is shown to be strongly associated with education, wealth, and social capital, appears responsive to economic incentives and constraints. Using information on the dependency of female migration to the household demographic structure as well as the sensitivity of female migration to household-level shocks, we show how household-level constraints and incentives affect male and female migration differently. Throughout this period, however, women’s migration behavior appears more directly aligned with household-level factors, and there is little evidence to suggest that increased female migration signals rising behavioral independence among Albanian women.",
+  "authors": [
+    {
+      "raw": "Stecklov, Guy",
+      "family": "Stecklov",
+      "given": "Guy"
+    },
+    {
+      "raw": "Carletto, Calogero",
+      "family": "Carletto",
+      "given": "Calogero"
+    },
+    {
+      "raw": "Azzarri, Carlo",
+      "family": "Azzarri",
+      "given": "Carlo"
+    },
+    {
+      "raw": "Davis, Benjamin",
+      "family": "Davis",
+      "given": "Benjamin"
+    }
+  ],
+  "authors_text": "Stecklov, Guy; Carletto, Calogero; Azzarri, Carlo; Davis, Benjamin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1007/bf03213734",
+  "doi_url": "https://doi.org/10.1007/bf03213734",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fbf03213734",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/bf03213734.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

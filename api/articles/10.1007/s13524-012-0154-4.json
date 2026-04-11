@@ -1,0 +1,30 @@
+{
+  "title": "Probabilistic Forecasting Using Stochastic Diffusion Models, With Applications to Cohort Processes of Marriage and Fertility",
+  "abstract": "Abstract In this article, we show how stochastic diffusion models can be used to forecast demographic cohort processes using the Hernes, Gompertz, and logistic models. Such models have been used deterministically in the past, but both behavioral theory and forecast utility are improved by introducing randomness and uncertainty into the standard differential equations governing population processes. Our approach is to add time-series stochasticity to linearized versions of each process. We derive both Monte Carlo and analytic methods for estimating forecast uncertainty. We apply our methods to several examples of marriage and fertility, extending them to simultaneous forecasting of multiple cohorts and to processes restricted by factors such as declining fecundity.",
+  "authors": [
+    {
+      "raw": "Myrskylä, Mikko",
+      "family": "Myrskylä",
+      "given": "Mikko"
+    },
+    {
+      "raw": "Goldstein, Joshua R.",
+      "family": "Goldstein",
+      "given": "Joshua R."
+    }
+  ],
+  "authors_text": "Myrskylä, Mikko; Goldstein, Joshua R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0154-4",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0154-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0154-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0154-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

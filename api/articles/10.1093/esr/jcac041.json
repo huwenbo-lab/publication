@@ -1,0 +1,25 @@
+{
+  "title": "Signals, educational decision-making, and inequality: a comment on the formal model by Holm, Hjorth-Trolle, and JÆger",
+  "abstract": "In this comment, I explore the assumptions and the implications of the formal (mathematical) model proposed by Holm, Hjorth-Trolle, and J AE ger (HHJ) in their article in European Sociological Review, 35(4) (2019). The model links educational decision-making to social background inequality and academic ability and is said to conform to the key propositions of the Relative-Risk-Aversion theory and the Compensatory-Advantage-Model. Its most original component is that it allows for the error in estimating one's ability, which, once known, impacts on the decision to (dis)continue education. The error is said to have a differential impact on students of different social backgrounds, whereby social inequality in educational decisions is effectively maintained. The model also deserves attention and praise as one of the few attempts in our field to reason formally and provide a mathematical formulation of theoretical arguments. However, I scrutinize the model and show that (i) some of its assumptions may not be defensible; that (ii) the most interesting and original hypothesis proposed by HHJ does not follow from the model; and that (iii) the empirical implications of the model are wrongly interpreted in terms of probability differences. I then show which particular assumption is required for HHJ's most original hypothesis to hold. The assumption is non-intuitive, and I conclude that the hypothesis, as formulated by HHJ, does not have a sound theoretical basis.",
+  "authors": [
+    {
+      "raw": "Yastrebov, Gordey",
+      "family": "Yastrebov",
+      "given": "Gordey"
+    }
+  ],
+  "authors_text": "Yastrebov, Gordey",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac041",
+  "doi_url": "https://doi.org/10.1093/esr/jcac041",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac041",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac041.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

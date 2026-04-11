@@ -1,0 +1,30 @@
+{
+  "title": "Recent Trends in US Childbearing Intentions",
+  "abstract": "The U.S. period total fertility rate has declined steadily since the Great Recession, reaching 1.73 children in 2018, the lowest level since the 1970s. This pattern could mean that current childbearing cohorts will end up with fewer children than previous cohorts, or this same pattern could be an artifact of a tempo distortion if individuals are simply postponing births they plan to eventually have. In this research note, we use data on current parity and future intended births from the 2006-2017 National Survey of Family Growth to shed light on this issue. We find that total intended parity declined (from 2.26 in 2006-2010 to 2.16 children in 2013-2017), and the proportion intending to remain childless increased slightly. Decomposition indicates that the decline was not due to changes in population composition but rather changes in the subgroups' rates themselves. The decline in intended parity is particularly notable at young ages and among those who are Hispanic. These results indicate that although tempo distortion is likely an important contributor to the decline in TFR, it is not the sole explanation: U.S. individuals are intending to have fewer children than their immediate predecessors, which may translate into a decline in cohort completed parity. However, the change in intended parity is modest, and average intended parity remains above two children.",
+  "authors": [
+    {
+      "raw": "Hartnett, Caroline Sten",
+      "family": "Hartnett",
+      "given": "Caroline Sten"
+    },
+    {
+      "raw": "Gemmill, Alison",
+      "family": "Gemmill",
+      "given": "Alison"
+    }
+  ],
+  "authors_text": "Hartnett, Caroline Sten; Gemmill, Alison",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00929-w",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00929-w",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00929-w",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00929-w.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

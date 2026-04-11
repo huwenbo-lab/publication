@@ -1,0 +1,25 @@
+{
+  "title": "Neighborhood Racial and Economic Composition Predicts Incidence of Various Emergency Service Responses",
+  "abstract": "Sociological research has investigated neighborhood inequality across various consequential events. Crime and violence continue to be dominant phenomena examined. Less sociological attention has been given to other types of adverse incidents involving emergency services responses. In this article, the author draws on a unique data set on medical emergencies, fires, traffic collisions, gas leaks, carbon monoxide leaks, and hazardous incidents from more than 600 local first-responder agencies across the United States to examine neighborhood inequalities in prevalence. The author finds that across nearly all outcomes, neighborhood proportion Black is a dominant predictor of incidence that persists net of a battery of controls. The author additionally finds socioeconomic disparities across a few of these outcomes, including medical emergencies, fires, and traffic collisions. The author concludes by broadly encouraging more sociological research on these understudied events.",
+  "authors": [
+    {
+      "raw": "Vachuska, Karl",
+      "family": "Vachuska",
+      "given": "Karl"
+    }
+  ],
+  "authors_text": "Vachuska, Karl",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231157679",
+  "doi_url": "https://doi.org/10.1177/23780231231157679",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231157679",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231157679.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

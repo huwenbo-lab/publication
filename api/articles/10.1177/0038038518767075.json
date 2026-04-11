@@ -1,0 +1,30 @@
+{
+  "title": "Empathy Rituals: Small Conversations about Emotional Distress on Twitter",
+  "abstract": "There is growing research interest in the sharing of emotions through social media. Usually centred on ‘newsworthy’ events and collective ‘flows’ of emotion, this work is often computationally driven. This article presents an interaction-led analysis of small data from Twitter to illustrate how this kind of intensive focus can ‘thicken’ claims about emotions, and particularly empathy. Drawing on Goffman’s work on ritual, we introduce and then apply the idea of ‘empathy rituals’ to exchanges about emotional distress on Twitter, a platform primarily researched using big data approaches. While the potential of Goffman’s work has been explored in some depth in relation to digital performances, its emotional dimension has been less fully examined. Through a focus on Twitter conversations, we show how reading small data can inform computational social science claims about emotions and add to sociological understanding of emotion in (digital) publics.",
+  "authors": [
+    {
+      "raw": "Brownlie, Julie",
+      "family": "Brownlie",
+      "given": "Julie"
+    },
+    {
+      "raw": "Shaw, Frances",
+      "family": "Shaw",
+      "given": "Frances"
+    }
+  ],
+  "authors_text": "Brownlie, Julie; Shaw, Frances",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2018,
+  "doi": "10.1177/0038038518767075",
+  "doi_url": "https://doi.org/10.1177/0038038518767075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038518767075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038518767075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

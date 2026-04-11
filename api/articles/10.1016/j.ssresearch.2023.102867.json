@@ -1,0 +1,25 @@
+{
+  "title": "Drive less but exposed more? Exploring social injustice in vehicular air pollution exposure",
+  "abstract": "Despite growing understanding of racial and class injustice in vehicular air pollution exposure, less is known about the relationship between people's exposure to vehicular air pollution and their contribution to it. Taking Los Angeles as a case study, this study examines the injustice in vehicular PM2.5 exposure by developing an indicator that measures local populations' vehicular PM2.5 exposure adjusted by their vehicle trip distances. This study applies random forest regression models to assess how travel behavior, demographic, and socioeconomic characteristics affect this indicator. The results indicate that census tracts of the periphery whose residents drive longer distances are exposed to less vehicular PM2.5 pollution than tracts in the city center whose residents drive shorter distances. Ethnic minority and low-income tracts emit little vehicular PM2.5 and are particularly exposed to it, while White and high-income tracts generate more vehicular PM2.5 pollution but are less exposed.",
+  "authors": [
+    {
+      "raw": "Lu, Yougeng",
+      "family": "Lu",
+      "given": "Yougeng"
+    }
+  ],
+  "authors_text": "Lu, Yougeng",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102867",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102867",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102867",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102867.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

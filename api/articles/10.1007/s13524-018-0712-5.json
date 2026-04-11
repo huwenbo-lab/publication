@@ -1,0 +1,25 @@
+{
+  "title": "Trends in the Motherhood Wage Penalty and Fatherhood Wage Premium for Low, Middle, and High Earners",
+  "abstract": "Many studies have shown that women pay a wage penalty for motherhood, whereas men earn a wage premium for fatherhood. A few recent studies have used quantile regression to explore differences in the penalties across the wage distribution. The current study builds on this research and explores trends in the parenthood penalties and premiums from 1980 to 2014 for those at the bottom, middle, and top of the wage distribution. Analyses of data from the Current Population Survey show that the motherhood wage penalty decreased, whereas the fatherhood wage premium increased. Unconditional quantile regression models reveal that low-, middle-, and high-earning women paid similar motherhood wage penalties in the 1980s. The motherhood wage penalty began to decrease in the 1990s, but more so for high-earning women than for low-earning women. By the early 2010s, the motherhood wage penalty for high-earning women was eliminated, whereas low-earning women continued to pay a penalty. The fatherhood wage premium began to increase in the late 1990s, although again, more so for high-earning men than for low-earning men. By the early 2010s, high-earning men received a much larger fatherhood wage premium than low- or middle-earning men.",
+  "authors": [
+    {
+      "raw": "Glauber, Rebecca",
+      "family": "Glauber",
+      "given": "Rebecca"
+    }
+  ],
+  "authors_text": "Glauber, Rebecca",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0712-5",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0712-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0712-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0712-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

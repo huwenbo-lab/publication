@@ -1,0 +1,30 @@
+{
+  "title": "Gender Segregation in Education: Evidence From Higher Secondary Stream Choice in India",
+  "abstract": "This paper investigates gender-based segregation across different fields of study at the senior secondary level of schooling in a large developing country. We use a nationally representative longitudinal data set from India to analyze the extent and determinants of gender gap in higher secondary stream choice. Using fixed-effects regressions that control for unobserved heterogeneity at the regional and household levels, we find that girls are about 20 percentage points less likely than boys to study in science (STEM) and commerce streams as compared with humanities. This gender disparity is unlikely to be driven by gender-specific differences in cognitive ability, given that the gap remains large and significant even after we control for individuals' past test scores. We establish the robustness of these estimates through various sensitivity analyses: including sibling fixed effects, considering intrahousehold relationships among individuals, and addressing sample selection issues. Disaggregating the effect on separate streams, we find that girls are most underrepresented in the study of science. Our findings indicate that gender inequality in economic outcomes, such as occupational segregation and gender pay gaps, is determined by gendered trajectories set much earlier in the life course, especially at the school level.",
+  "authors": [
+    {
+      "raw": "Sahoo, Soham",
+      "family": "Sahoo",
+      "given": "Soham"
+    },
+    {
+      "raw": "Klasen, Stephan",
+      "family": "Klasen",
+      "given": "Stephan"
+    }
+  ],
+  "authors_text": "Sahoo, Soham; Klasen, Stephan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9101042",
+  "doi_url": "https://doi.org/10.1215/00703370-9101042",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9101042",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9101042.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Variance Effects in the Bongaarts-Feeney Formula",
+  "abstract": "Bongaarts and Feeney have recently proposed an adjusted total fertility rate to disentangle tempo effects from changes in the quantum of fertility. We propose an extension to the Bongaarts and Feeney formula that includes variance effects: that is, changes in the variance of the fertility schedule over time. If these variance effects are ignored, the mean age at birth and the adjusted total fertility rate are biased. We provide approximations for these biases, and we extend the TFR adjustment to fertility schedules with changing variance. We apply our method to the Swedish baby boom and bust, and show that variance effects are important for evaluating the relative contributions of tempo and quantum effects to the fertility change from 1985 to 1995.",
+  "authors": [
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    },
+    {
+      "raw": "Philipov, Dimiter",
+      "family": "Philipov",
+      "given": "Dimiter"
+    }
+  ],
+  "authors_text": "Kohler, Hans-Peter; Philipov, Dimiter",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.2307/3088284",
+  "doi_url": "https://doi.org/10.2307/3088284",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088284",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088284.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Beauty pays, but not under all circumstances: Evidence on gendered hiring discrimination from a novel experimental treatment using deepfakes",
+  "abstract": "Using deepfaked job application videos as a novel experimental treatment, this study analyses the effects of physical attractiveness for men and women on their hypothetical hiring chances. Based on status construction theory, we argue that whether gendered expectations through physical attractiveness translate into better hiring chances depends on the social context. To test this theoretical claim, we conducted a 2x2x2 factorial survey experiment among respondents with personnel responsibilities (N = 493). Using deep-learning techniques, we swap the faces of fictitious male and female candidates in application videos, thus varying gender and physical attractiveness while holding everything else constant. Additionally, we manipulate the occupational context with job advertisements for a male-typed and a female-typed job. Results show that attractive applicants score higher in competence ratings and are more likely to be invited for a job interview than less attractive candidates. However, only men consistently profit from their looks, while women benefit from a beauty premium in the female-typed, but not in the male-typed job. These results strongly support the idea that physical attractiveness works as a status characteristic, triggers gendered expectations, and leads to beauty-based treatment differences. This study suggests that the use of deepfakes is a promising avenue to move inequality research forward.",
+  "authors": [
+    {
+      "raw": "Kuehn, Juliane",
+      "family": "Kuehn",
+      "given": "Juliane"
+    },
+    {
+      "raw": "Wolbring, Tobias",
+      "family": "Wolbring",
+      "given": "Tobias"
+    }
+  ],
+  "authors_text": "Kuehn, Juliane; Wolbring, Tobias",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100992",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100992",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100992",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100992.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

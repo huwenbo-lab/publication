@@ -1,0 +1,35 @@
+{
+  "title": "Social-class differences in spacing and stopping during the historical fertility transition: Insights from cure models",
+  "abstract": "BACKGROUND There is a long-standing debate about the role of spacing and stopping in the fertility transition, fueled by a lack of methods to appropriately model spacing and stopping. Traditional event-history analysis cannot distinguish between the two processes in analyzing the determinants of birth risks, and attempts to separately model spacing and stopping have been criticized from a methodological point of view. OBJECTIVE Our aim is to assess the role of spacing and stopping in the historic fertility transition generally, and the role of social-class differences in the fertility decline more specifically. METHODS We use cure models, which are extensions of traditional survival analysis, to distinguish the impact of stopping and spacing on fertility. The models are applied to individual-level data for a region in southern Sweden between 1813 and 1967. RESULTS Both spacing and stopping played a role in the fertility transition, but stopping emerged earlier for all parities after the first and had a greater effect on the reduction in fertility. Higher social classes were forerunners in the fertility transition but we do not find that spacing and stopping operated in different ways by social class. CONCLUSIONS Our findings indicate that stopping had an earlier and more substantial impact on the fertility transition than spacing. However, the patterns of the two behaviors were very similar between social classes.",
+  "authors": [
+    {
+      "raw": "Redivo, Edoardo",
+      "family": "Redivo",
+      "given": "Edoardo"
+    },
+    {
+      "raw": "Dribe, Martin",
+      "family": "Dribe",
+      "given": "Martin"
+    },
+    {
+      "raw": "Scalone, Francesco",
+      "family": "Scalone",
+      "given": "Francesco"
+    }
+  ],
+  "authors_text": "Redivo, Edoardo; Dribe, Martin; Scalone, Francesco",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.40",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.40",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.40",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.40.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

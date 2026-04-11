@@ -1,0 +1,75 @@
+{
+  "title": "Sequence analysis: Its past, present, and future",
+  "abstract": "This article marks the occasion of Social Science Research's 50th anniversary by reflecting on the progress of sequence analysis (SA) since its introduction into the social sciences four decades ago, with focuses on the developments of SA thus far in the social sciences and on its potential future directions.The application of SA in the social sciences, especially in life course research, has mushroomed in the last decade and a half. Using a life course analogy, we examined the birth of SA in the social sciences and its childhood (the first wave), its adolescence and young adulthood (the second wave), and its future mature adulthood in the paper.The paper provides a summary of (1) the important SA research and the historical contexts in which SA was developed by Andrew Abbott, (2) a thorough review of the many methodological developments in visualization, complexity measures, dissimilarity measures, group analysis of dissimilarities, cluster analysis of dissimilarities, multidomain/multichannel SA, dyadic/polyadic SA, Markov chain SA, sequence life course analysis, sequence network analysis, SA in other social science research, and software for SA, and (3) reflections on some future directions of SA including how SA can benefit and inform theory-making in the social sciences, the methods currently being developed, and some remaining challenges facing SA for which we do not yet have any solutions. It is our hope that the reader will take up the challenges and help us improve and grow SA into maturity.",
+  "authors": [
+    {
+      "raw": "Liao, Tim F.",
+      "family": "Liao",
+      "given": "Tim F."
+    },
+    {
+      "raw": "Bolano, Danilo",
+      "family": "Bolano",
+      "given": "Danilo"
+    },
+    {
+      "raw": "Brzinsky-Fay, Christian",
+      "family": "Brzinsky-Fay",
+      "given": "Christian"
+    },
+    {
+      "raw": "Cornwell, Benjamin",
+      "family": "Cornwell",
+      "given": "Benjamin"
+    },
+    {
+      "raw": "Fasang, Anette Eva",
+      "family": "Fasang",
+      "given": "Anette Eva"
+    },
+    {
+      "raw": "Helske, Satu",
+      "family": "Helske",
+      "given": "Satu"
+    },
+    {
+      "raw": "Piccarreta, Raffaella",
+      "family": "Piccarreta",
+      "given": "Raffaella"
+    },
+    {
+      "raw": "Raab, Marcel",
+      "family": "Raab",
+      "given": "Marcel"
+    },
+    {
+      "raw": "Ritschard, Gilbert",
+      "family": "Ritschard",
+      "given": "Gilbert"
+    },
+    {
+      "raw": "Struffolino, Emanuela",
+      "family": "Struffolino",
+      "given": "Emanuela"
+    },
+    {
+      "raw": "Studer, Matthias",
+      "family": "Studer",
+      "given": "Matthias"
+    }
+  ],
+  "authors_text": "Liao, Tim F.; Bolano, Danilo; Brzinsky-Fay, Christian; Cornwell, Benjamin; Fasang, Anette Eva; Helske, Satu; Piccarreta, Raffaella; Raab, Marcel; Ritschard, Gilbert; Struffolino, Emanuela; Studer, Matthias",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2022.102772",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102772",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102772",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102772.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "UN Population Division's Methodology in Preparing Base Population for Projections: Case study for India",
+  "abstract": "Preparation of the base population plays a substantial role in the accuracy of projections. This paper reviews analytical strategies involved in the preparation of the UN World Population Prospects to reconcile existing discrepancies between data sources and derive robust estimates of population counts, distribution, and demographic changes. The case study of India is used to illustrate the challenges and benefits of using a cohort-component population projection approach in reconstructing its population between 1950 and 2010, including the preparation of bias-free population counts and distributions by age and sex; estimation of consistent fertility and mortality trends; and integration of all demographic components for obtaining a reliable base population for projections.",
+  "authors": [
+    {
+      "raw": "Gerland, Patrick",
+      "family": "Gerland",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Gerland, Patrick",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2014,
+  "doi": "10.1080/17441730.2014.947059",
+  "doi_url": "https://doi.org/10.1080/17441730.2014.947059",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2014.947059",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2014.947059.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

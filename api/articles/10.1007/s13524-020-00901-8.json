@@ -1,0 +1,25 @@
+{
+  "title": "Household Composition and Gender Differences in Parental Time Investments",
+  "abstract": "Recent research has documented the relatively poor performance of boys, especially those from single-mother households, on a number of outcomes. Differences in noncognitive skills are often cited as a main contributing factor. However, we still know little about the underlying mechanisms driving differences in noncognitive skills and other outcomes. This article provides empirical evidence that parental time investments, defined as the amount of time that parents spend participating in activities with their child, change differentially by child gender following a transition from a two-parent to single-mother household. Boys experience larger investment reductions following the change in household structure, which may help facilitate previously documented gender gaps in noncognitive skills for those in single-mother households. Boys lose an estimated additional 3.8 hours per week in fathers' time investments, nearly 30% of average weekly paternal investments across the sample. The difference is increasing with age, concentrated in leisure and entertainment activities, with little to no evidence that mothers increase investments in boys relative to girls after such transitions.",
+  "authors": [
+    {
+      "raw": "Bibler, Andrew J.",
+      "family": "Bibler",
+      "given": "Andrew J."
+    }
+  ],
+  "authors_text": "Bibler, Andrew J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00901-8",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00901-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00901-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00901-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

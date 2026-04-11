@@ -1,0 +1,25 @@
+{
+  "title": "Do the Married Really Live Longer? The Role of Cohabitation and Socioeconomic Status",
+  "abstract": "Numerous studies have shown that married women and men experience the lowest mortality. Legal marital status, however, does not necessarily reflect today's social reality because individuals are classified as never married, widowed, or divorced even when they are living with a partner. Denmark is one of the forerunners of developments in coresidential partnerships and one of only a few countries where administrative sources provide individual‐level information on cohabitation for the whole population. Using register information from Statistics Denmark on 3,888,072 men and women ages 18–65, the author investigated mortality differences by living arrangement with hazard regression models. Overall, premature mortality was found to be lowest for married persons, followed by cohabiting persons. Adjusting for socioeconomic status reduced excess mortality of nonmarried individuals. Moreover, a mortality‐crossover effect emerged in which cohabiters with above‐average socioeconomic status had a lower risk of dying than married people. This finding was particularly pronounced for men.",
+  "authors": [
+    {
+      "raw": "Drefahl, Sven",
+      "family": "Drefahl",
+      "given": "Sven"
+    }
+  ],
+  "authors_text": "Drefahl, Sven",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2012,
+  "doi": "10.1111/j.1741-3737.2012.00968.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2012.00968.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2012.00968.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2012.00968.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

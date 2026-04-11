@@ -1,0 +1,25 @@
+{
+  "title": "Sociodemographic variation in family structures and geographic proximity between adult children and parents in Europe",
+  "abstract": "BACKGROUND Family structures shape caregiving dynamics and are considered key drivers of inequality. While research often focuses on partners and children, recent studies highlight the role of grandparents and parents of adult children in shaping informal labor demands. However, sociodemographic differences in multigenerational structures remain understudied. Most research focuses on multigenerational coresidence, despite evidence that geographic proximity alone is often sufficient to enable multigenerational support. OBJECTIVE This study explores age variation in multigenerational family structures, defined by the intersection of partnership status, parenthood, and adults' geographic proximity to their parents. It examines differences across gender, socioeconomic background, migration status, and welfare regimes in Europe between 2020 and 2022. METHODS Using the 10th wave of the European Social Survey, the age prevalence of family structures across groups is investigated through multinomial logistic regression. RESULTS Analysis reveals variation in the age distribution of multigenerational structures across all groups. At younger ages, lower socioeconomic background (SES) individuals are more likely to live in multigenerational structures, while higher SES individuals tend to delay parenthood and migrate, increasing their likelihood of parenting without nearby parents at older ages. Migrants face the greatest risk of parenthood without parents nearby. Welfare regime differences align with the fertility and social support patterns of each regime. CONTRIBUTION This study emphasizes the importance of considering relationships beyond the household when analyzing family structures and their implications. It highlights sociodemographic variations in multigenerational structures, which can influence the informal labor demands associated with different nuclear family arrangements and contribute to inequalities.",
+  "authors": [
+    {
+      "raw": "Minardi, Saverio",
+      "family": "Minardi",
+      "given": "Saverio"
+    }
+  ],
+  "authors_text": "Minardi, Saverio",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.25",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

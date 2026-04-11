@@ -1,0 +1,30 @@
+{
+  "title": "Dispelling the Myths",
+  "abstract": "We use 1995 data from the Survey of Income and Program Participation to examine how race and class are related to self-care among children 5 to 13 years old. We find that contrary to popular belief, self-care is less common among minority and lower-class children. We also find that factors such as income and neighborhood safety are related to self-care and can attenuate the relationships observed between race, class, and self-care. Our analyses also indicate that variations in self-care by race, class, income level, and neighborhood safety are dependent on the age of the child, with a major transition in self-care occurring between the ages of 8 and 10.",
+  "authors": [
+    {
+      "raw": "CASPER, LYNNE M.",
+      "family": "CASPER",
+      "given": "LYNNE M."
+    },
+    {
+      "raw": "SMITH, KRISTIN E.",
+      "family": "SMITH",
+      "given": "KRISTIN E."
+    }
+  ],
+  "authors_text": "CASPER, LYNNE M.; SMITH, KRISTIN E.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2002,
+  "doi": "10.1177/0192513x02023006002",
+  "doi_url": "https://doi.org/10.1177/0192513x02023006002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x02023006002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x02023006002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

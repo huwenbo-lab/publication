@@ -1,0 +1,30 @@
+{
+  "title": "Significance of life table estimates for small populations: Simulation-based study of estimation errors",
+  "abstract": "We study bias, standard errors, and distributions of characteristics of life tables for small populations. Theoretical considerations and simulations show that statistical efficiency of different methods is, above all, affected by the population size.",
+  "authors": [
+    {
+      "raw": "Scherbov, Sergei",
+      "family": "Scherbov",
+      "given": "Sergei"
+    },
+    {
+      "raw": "Ediev, Dalkhat",
+      "family": "Ediev",
+      "given": "Dalkhat"
+    }
+  ],
+  "authors_text": "Scherbov, Sergei; Ediev, Dalkhat",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2011,
+  "doi": "10.4054/demres.2011.24.22",
+  "doi_url": "https://doi.org/10.4054/demres.2011.24.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2011.24.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2011.24.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

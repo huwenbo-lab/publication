@@ -1,0 +1,30 @@
+{
+  "title": "Investigating Family Shared Realities With Factor Mixture Modeling",
+  "abstract": "The authors introduce factor mixture modeling (FMM) and its implications for assessing varying degrees of shared reality in families. FMM extends the typical factor analytic model that uses a set of observed indicators to identify an unobservable factor and its structure. FMM examines the possibility a sample is a mixture of classes, each with unique factor structures. To demonstrate, varying factor structures of father involvement are identified using father, mother, and child reports as observed indicators. Three classes were identified and relate to varying degrees of shared reality regarding the father. Predictors and outcomes of these classes are modeled. The class in which the child's view most overlapped with his or her parents' view was predicted by higher child agreeableness and higher levels of maternal depressive symptoms. As hypothesized, membership in this class predicted lower levels of parental conflict and fewer parental attempts to involve their children in their conflicts.",
+  "authors": [
+    {
+      "raw": "Dyer, W. Justin",
+      "family": "Dyer",
+      "given": "W. Justin"
+    },
+    {
+      "raw": "Day, Randal D.",
+      "family": "Day",
+      "given": "Randal D."
+    }
+  ],
+  "authors_text": "Dyer, W. Justin; Day, Randal D.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12158",
+  "doi_url": "https://doi.org/10.1111/jomf.12158",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12158",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12158.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

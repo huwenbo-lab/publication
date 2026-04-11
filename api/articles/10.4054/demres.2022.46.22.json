@@ -1,0 +1,60 @@
+{
+  "title": "Estimating mortality from census data: A record-linkage study of the Nouna Health and Demographic Surveillance System in Burkina Faso",
+  "abstract": "BACKGROUND In low-and middle-income countries, mortality levels are commonly derived from retrospective reports on deceased relatives collected in sample surveys and censuses. These data sources are potentially affected by recall errors. OBJECTIVE Using high-quality data collected by the Nouna Health and Demographic Surveillance System (HDSS) in Burkina Faso, we evaluate the reliability of mortality estimates based on the 2006 national census. METHODS We extracted from the census database all records referring to the population under surveillance in the HDSS. Life tables were estimated from recent household deaths reported in the census and compared to those obtained from the prospective mortality data. To evaluate age errors and assess their impact on mortality, we linked census and HDSS records at the individual level for the surviving population and the deceased. Indirect estimates of mortality were also calculated based on the reported survival of children and parents. RESULTS Life expectancies at birth derived from recent household deaths pointed to a lower mortality than monitored in the HDSS, with a difference of 4 years for men and 8 years for women. Underreporting of deaths among the population aged 60 and above accounted for more than half of these differences. Age errors were small for the surviving population and larger for the deceased, but their effects on mortality estimates were modest. Indirect estimates of child mortality were consistent with the HDSS data, but orphanhood-based estimates were implausibly low. CONCLUSION Additional elicitation questions should be asked during the census interviews to improve the collection of data on recent household deaths.",
+  "authors": [
+    {
+      "raw": "Lankoande, Yempabou Bruno",
+      "family": "Lankoande",
+      "given": "Yempabou Bruno"
+    },
+    {
+      "raw": "Masquelier, Bruno",
+      "family": "Masquelier",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Zabre, Pascal",
+      "family": "Zabre",
+      "given": "Pascal"
+    },
+    {
+      "raw": "Bangre, Helene",
+      "family": "Bangre",
+      "given": "Helene"
+    },
+    {
+      "raw": "Duthe, Geraldine",
+      "family": "Duthe",
+      "given": "Geraldine"
+    },
+    {
+      "raw": "Soura, Abdramane B.",
+      "family": "Soura",
+      "given": "Abdramane B."
+    },
+    {
+      "raw": "Pison, Gilles",
+      "family": "Pison",
+      "given": "Gilles"
+    },
+    {
+      "raw": "Ali, Sie",
+      "family": "Ali",
+      "given": "Sie"
+    }
+  ],
+  "authors_text": "Lankoande, Yempabou Bruno; Masquelier, Bruno; Zabre, Pascal; Bangre, Helene; Duthe, Geraldine; Soura, Abdramane B.; Pison, Gilles; Ali, Sie",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.22",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

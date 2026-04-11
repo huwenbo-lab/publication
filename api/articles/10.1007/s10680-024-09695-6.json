@@ -1,0 +1,35 @@
+{
+  "title": "Economic Cycles and Entry into Parenthood: Is the Association Changing and Does it Affect Macro-Level Trends? Micro-Level Hazard and Simulation Models of Belgian Fertility Trends, 1960–2010",
+  "abstract": "Abstract The association between economic cycles—typically measured in terms of GDP growth or swings in unemployment—and macro-level fertility trends has received ample attention in the literature. Compared to studies that consider macro-level fertility, individual-based models can address the association between economic cycles and specific stages of family formation (e.g. entry into parenthood) more precisely while allowing for structural factors that contribute to fertility postponement. Using population-wide longitudinal microdata from the Belgian censuses we combine discrete-time hazard models of entry into parenthood for the period 1960 to 2010 with microsimulation models to assess whether economic cycles in tandem with educational expansion can account for year-to-year variation in the proportion of women entering parenthood and variation in the pace of fertility postponement at the macro-level. Results indicate that educational expansion has been a structural driver of fertility postponement, whereas the procyclical effect of economic cycles accounts for accelerations and decelerations of fertility postponement throughout the period considered. Microsimulation of macro-level fertility trends indicates that individual-based models predict the annual proportion of women entering parenthood and the mean age at first birth with average errors of prediction below 1 per cent and 3 months, respectively, while also showing strong correlations between first differences of observed and simulated time-series. Because the extended observation window encompasses several severe recessions, we test whether the association between economic cycles and entry into parenthood has changed over time and how this affected macro-level trends, discussing several mechanisms that may account for such temporal variation.",
+  "authors": [
+    {
+      "raw": "Neels, Karel",
+      "family": "Neels",
+      "given": "Karel"
+    },
+    {
+      "raw": "Marynissen, Leen",
+      "family": "Marynissen",
+      "given": "Leen"
+    },
+    {
+      "raw": "Wood, Jonas",
+      "family": "Wood",
+      "given": "Jonas"
+    }
+  ],
+  "authors_text": "Neels, Karel; Marynissen, Leen; Wood, Jonas",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-024-09695-6",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09695-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09695-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09695-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

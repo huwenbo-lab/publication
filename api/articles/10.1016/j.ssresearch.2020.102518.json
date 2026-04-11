@@ -1,0 +1,25 @@
+{
+  "title": "Race, ethnicity and nativity and the prestige of colleges attended",
+  "abstract": "Although much literature examines racial/ethnic variation in college attendance, comparable research on the prestige of colleges attended is quite limited. Of particular interest are the colleges attended by Asian and Hispanic Americans, two populations with varied education outcomes across ethnicity and nativity. The analysis draws on a diverse sample from the National Longitudinal Study of Adolescent to Adult Health to estimate OLS and Heckman selection models of prestige of the bachelor's institution attended among current college enrollees (Wave III) and graduates (Wave IV). Across all model specifications Chinese Americans tend to enroll and graduate from more prestigious colleges than Whites and most other racial/ethnic-nativity groups in the analysis. In contrast, economic disadvantage accounts for Mexican Americans' enrollment at less prestigious colleges than Whites. These findings suggest the important role of college prestige in stratification, especially for specific Asian American populations.",
+  "authors": [
+    {
+      "raw": "Fishman, Samuel H.",
+      "family": "Fishman",
+      "given": "Samuel H."
+    }
+  ],
+  "authors_text": "Fishman, Samuel H.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2020.102518",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102518",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102518",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102518.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Micro- and Macro-Environment Population and the Consequences for Crime Rates",
+  "abstract": "Few studies have explored Louis Wirth's propositions regarding the independent effects of population size and density, due to the conceptual difficulty in distinguishing between them. We directly address this conundrum by conceptualizing these as micro-population density and macro-population density. We propose two novel measures for these constructs: population density exposure to capture micro-density, and a measure of population within a twenty-mile radius to capture macro-density. We combine the theoretical insights of Wirth with routine activities theory to posit and find strong nonlinear effects of micro-density on crime rates, as well as the moderating effect of macro-density. We find strong evidence of macro social processes for population size, including that (1) its strongest effect occurred for crimes generally between strangers (robberies and motor vehicle thefts); (2) there was virtually no effect for homicides, a type of crime that often occurs among non-strangers. For micro-density, our findings include (1) strong curvilinear effects for the three types of property crime; (2) diminishing positive effects for robbery and homicide; and (3) a strikingly different pattern for aggravated assault. The effects for micro-density are stronger than for macro-density, a finding unexplored in the extant literature. We discuss the implications of these results within the context of Wirth's theoretical framework as well as routine activities theory and suggest ways to extend these findings.",
+  "authors": [
+    {
+      "raw": "Hipp, J. R.",
+      "family": "Hipp",
+      "given": "J. R."
+    },
+    {
+      "raw": "Roussell, A.",
+      "family": "Roussell",
+      "given": "A."
+    }
+  ],
+  "authors_text": "Hipp, J. R.; Roussell, A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sot091",
+  "doi_url": "https://doi.org/10.1093/sf/sot091",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsot091",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sot091.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

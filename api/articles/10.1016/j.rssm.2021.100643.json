@@ -1,0 +1,30 @@
+{
+  "title": "Does the impact of the family increase or decrease over the life course? Sibling similarities in occupational status across different career points",
+  "abstract": "In this study, we examine how the influence of the family on occupational success fluctuates when studying different points across individuals' lives (i.e., from career entry to midlife). Resource theories propose that individuals with more parental resources will continue to profit as they get to later life-stages, increasing their advantage over others. In contrast, signaling theories predict that parental resources will lose their importance when children advance in their career, since employers will increasingly select on actual worker productivity, not social background. To shed some light on these theories, we use data from the German Socioeconomic Panel Survey (SOEP). Multilevel SEM sibling models are applied in which individuals (N = 12,443) are nested in families (N = 7,766). These models assess the extent to which siblings are similar with respect to occupational status as opposed to individuals to which they are not related, enabling the estimation of a broad measure of family and community effects. We divide this broad measure into direct impact and indirect impact via education. Our results indicate that the indirect family impact increases after the child's career entry up to the ages 30 and 35, stabilizing thereafter. The direct effect shows a similar yet more stable pattern, as the effect as well as the variations with age are much smaller. Finally, the proportion of family-level variance explained by measured family indicators increases over the life-course.",
+  "authors": [
+    {
+      "raw": "Hornstra, Maaike",
+      "family": "Hornstra",
+      "given": "Maaike"
+    },
+    {
+      "raw": "Maas, Ineke",
+      "family": "Maas",
+      "given": "Ineke"
+    }
+  ],
+  "authors_text": "Hornstra, Maaike; Maas, Ineke",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100643",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100643",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100643",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100643.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

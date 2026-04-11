@@ -1,0 +1,30 @@
+{
+  "title": "Organizational environments and bonus payments: Rent destruction or rent sharing?",
+  "abstract": "This paper investigates the impact that firms have on the amount of bonus payments employees receive from their employer. Bonus payments are an important component of a firm's pay regime and, like with wages, are subject to an interactional process of claims-making. Depending on the organizational environment, claims can be enforced more or less successfully by certain groups. Hence, we expect different effects depending on the organizational environment of a firm as well as interactions between individual attributes. We use four samples (1995, 2001, 2006, and 2010) of the German Structure of Earnings Survey (GSES), a large dataset linking employers to employees, employing unconditional quantile regression and detailed decomposition to trace the influence of three firm characteristics (mean human capital, stability, coverage by collective agreement) on bonus payments and the change of this relations between 1995 and 2010. We find that all three firm characteristics have considerable impact on bonuses and that the effects vary substantially along the bonus distribution. Over time, powerful employees seem to increase their share of the firm's revenue (rent sharing), while less powerful employees are less likely to secure their relatively small bonuses (rent destruction). (C) 2016 Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Schweiker, Michael",
+      "family": "Schweiker",
+      "given": "Michael"
+    },
+    {
+      "raw": "Gross, Martin",
+      "family": "Gross",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Schweiker, Michael; Gross, Martin",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2017,
+  "doi": "10.1016/j.rssm.2016.04.005",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2016.04.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2016.04.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2016.04.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

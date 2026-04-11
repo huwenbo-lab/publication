@@ -1,0 +1,25 @@
+{
+  "title": "On the impossibility of inferring cohort fertility measures from period fertility measures",
+  "abstract": "A particularly important struggle faced by demographic analysts is, how to arrive at statements about family formation processes from a cohort perspective from data that are essentially collected on an annual basis. The present paper is concerned with this struggle, mostly restricted to the case of fertility. The central question investigated here is: given observed period data, what can we conclude about the completed family size of real women? I review several existing methods to infer cohort fertility from period fertility measures. The conclusion is that, for each method, its justifiability can be verified only empirically: by looking at cohort fertility directly. To illustrate how this can be done, the paper analyses fertility data from a cohort perspective for two countries, Italy and the Netherlands.",
+  "authors": [
+    {
+      "raw": "van Imhoff, Evert",
+      "family": "van Imhoff",
+      "given": "Evert"
+    }
+  ],
+  "authors_text": "van Imhoff, Evert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2001,
+  "doi": "10.4054/demres.2001.5.2",
+  "doi_url": "https://doi.org/10.4054/demres.2001.5.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2001.5.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2001.5.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

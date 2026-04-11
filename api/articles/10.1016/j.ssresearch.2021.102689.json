@@ -1,0 +1,30 @@
+{
+  "title": "Bridging the gap between multilevel modeling and economic methods",
+  "abstract": "Many datasets used in the social sciences have a hierarchical structure, where lower units of aggregation are 'nested' in higher units. In many disciplines, such data are analyzed using multilevel modeling (MLM, also known as hierarchical linear modeling). However, MLM as a framework is relatively unknown in economics. Instead, economists use a range of separate econometric methods, including cluster-robust standard errors, fixed effects models, models with cross-level interactions, and estimated dependent variable models. Relying on an extensive literature review, this paper describes this methodological divide and provides a detailed comparison between MLM and 'economic methods' in their abilities to deal with three methodological challenges inherent in multilevel data - clustering, omitted variables, and coefficients' heterogeneity across groups. We unfold the comparative advantages of these two methodological approaches and provide practical recommendations about which of them should be used, why, and in what settings.",
+  "authors": [
+    {
+      "raw": "Oshchepkov, Aleksey",
+      "family": "Oshchepkov",
+      "given": "Aleksey"
+    },
+    {
+      "raw": "Shirokanova, Anna",
+      "family": "Shirokanova",
+      "given": "Anna"
+    }
+  ],
+  "authors_text": "Oshchepkov, Aleksey; Shirokanova, Anna",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102689",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102689",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102689",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102689.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

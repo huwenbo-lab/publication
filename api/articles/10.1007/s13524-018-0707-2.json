@@ -1,0 +1,35 @@
+{
+  "title": "Cigarette Smoking and All-Cause and Cause-Specific Adult Mortality in the United States",
+  "abstract": "This study illuminates the association between cigarette smoking and adult mortality in the contemporary United States. Recent studies have estimated smoking-attributable mortality using indirect approaches or with sample data that are not nationally representative and that lack key confounders. We use the 1990-2011 National Health Interview Survey Linked Mortality Files to estimate relative risks of all-cause and cause-specific mortality for current and former smokers compared with never smokers. We examine causes of death established as attributable to smoking as well as additional causes that appear to be linked to smoking but have not yet been declared by the U.S. Surgeon General to be caused by smoking. Mortality risk is substantially elevated among smokers for established causes and moderately elevated for additional causes. We also decompose the mortality disadvantage among smokers by cause of death and estimate the number of smoking-attributable deaths for the U.S. adult population ages 35+, net of sociodemographic and behavioral confounders. The elevated risks translate to 481,887 excess deaths per year among current and former smokers compared with never smokers, 14% to 15% of which are due to the additional causes. The additional causes of death contribute to the health burden of smoking and should be considered in future studies of smoking-attributable mortality. This study demonstrates that smoking-attributable mortality must remain a top population health priority in the United States and makes several contributions to further underscore the human costs of this tragedy that has ravaged American society for more than a century.",
+  "authors": [
+    {
+      "raw": "Lariscy, Joseph T.",
+      "family": "Lariscy",
+      "given": "Joseph T."
+    },
+    {
+      "raw": "Hummer, Robert A.",
+      "family": "Hummer",
+      "given": "Robert A."
+    },
+    {
+      "raw": "Rogers, Richard G.",
+      "family": "Rogers",
+      "given": "Richard G."
+    }
+  ],
+  "authors_text": "Lariscy, Joseph T.; Hummer, Robert A.; Rogers, Richard G.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0707-2",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0707-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0707-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0707-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

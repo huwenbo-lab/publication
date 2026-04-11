@@ -1,0 +1,25 @@
+{
+  "title": "Surveying the political divide: Public opinion in the era of partisan meaning-making",
+  "abstract": "A large body of scholarship explores the various ways in which public opinion has become partitioned along party lines in the United States. This research broadly shows that Democrats and Republicans have grown more likely to disagree about many social and political issues, as evinced by increasing partisan differences in responses to attitude questions on surveys over time. This paper argues that this work may be grounded in an assumption that no longer holds water: that survey items measure the same constructs equivalently when administered to Democrats and Republicans. Rather, due to recent changes in the nature of partisan identity, members of the two parties have developed distinct processes of meaning-making, such that they can be prompted with the same survey questions, yet understand them in dissimilar ways that inhibit the comparability of their responses. This paper evaluates this hypothesis using measurement invariance tests of a wide range of scales administered on surveys conducted between 1992 and 2021. Results show that many attitude questions collected on recent surveys do not measure the same constructs equivalently among Democrats and Republicans. These findings suggest that estimates of the changing gap in social and political attitudes between the parties may be biased by partisan meaning-making, which differentially affects the measurement qualities of survey items in each group. More broadly, they imply a growing cultural divide between the parties, demarcated by a diminishing set of shared meanings about the world.",
+  "authors": [
+    {
+      "raw": "Nelson, Micah H.",
+      "family": "Nelson",
+      "given": "Micah H."
+    }
+  ],
+  "authors_text": "Nelson, Micah H.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103237",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103237",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103237",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103237.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

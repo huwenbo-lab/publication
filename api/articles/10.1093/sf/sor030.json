@@ -1,0 +1,30 @@
+{
+  "title": "Family Events and the Timing of Intergenerational Transfers",
+  "abstract": "This research investigates how family events in adult children's lives influence the timing of their parents' financial transfers. We draw on retrospective data collected by the German Socio-Economic Panel Study and use event history models to study the effects of marriage, divorce and childbirth on the receipt of large gifts from parents. We find increased chances of receiving real estate at marriage and in subsequent years, at childbirth, but not in the event of divorce. Large gifts of money are received in the years of marriage and divorce, but not at childbirth. Our findings indicate that parental gifts are triggered by adult children's economic need, but also point to a plurality of transfer motives and meanings for parents, adult children and their relationships.",
+  "authors": [
+    {
+      "raw": "Leopold, T.",
+      "family": "Leopold",
+      "given": "T."
+    },
+    {
+      "raw": "Schneider, T.",
+      "family": "Schneider",
+      "given": "T."
+    }
+  ],
+  "authors_text": "Leopold, T.; Schneider, T.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2011,
+  "doi": "10.1093/sf/sor030",
+  "doi_url": "https://doi.org/10.1093/sf/sor030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsor030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sor030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

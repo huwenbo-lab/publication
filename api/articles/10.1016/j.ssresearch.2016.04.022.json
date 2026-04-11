@@ -1,0 +1,35 @@
+{
+  "title": "Thumbs up for privacy?: Differences in online self-disclosure behavior across national cultures",
+  "abstract": "This study investigates relationships between national-level culture and online self-disclosure behavior. We operationalize culture through the GLOBE dimensions, a set of nine variables measuring cultural practices and another nine measuring values. Our observations of self-disclosure come from the privacy settings of approximately 200,000 randomly sampled Facebook users who designated a geographical network in 2009. We model privacy awareness as a function of one or more GLOBE variables with demographic covariates, evaluating the relative influence of each factor. In the top-performing models, we find that the majority of the cultural dimensions are significantly related to privacy awareness behavior. We also find that the hypothesized directions of several of these relationships, based largely on cultural attitudes towards threat mitigation, are confirmed. (C) 2016 Published by Elsevier Inc.",
+  "authors": [
+    {
+      "raw": "Reed, Philip J.",
+      "family": "Reed",
+      "given": "Philip J."
+    },
+    {
+      "raw": "Spiro, Emma S.",
+      "family": "Spiro",
+      "given": "Emma S."
+    },
+    {
+      "raw": "Butts, Carter T.",
+      "family": "Butts",
+      "given": "Carter T."
+    }
+  ],
+  "authors_text": "Reed, Philip J.; Spiro, Emma S.; Butts, Carter T.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.04.022",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.04.022",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.04.022",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.04.022.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

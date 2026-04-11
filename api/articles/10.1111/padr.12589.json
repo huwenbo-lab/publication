@@ -1,0 +1,35 @@
+{
+  "title": "Maternal Free Time: A Missing Element in Fertility Studies",
+  "abstract": "Studies on mothers' time allocation and fertility have predominantly accentuated the importance of paid work for fertility decisions and, in consequence, of policies that allow combining paid work and family life. In this view, work time is typically seen as the time taken away from the family and vice versa. This paradigm does not recognize that mothers may need time for rest and leisure, and that rest and leisure time should be separate from both professional and family time. This study investigates whether the amount of free time available to mothers and maternal leisure behaviors, level of tiredness, and satisfaction with the amount of leisure time are associated with second birth transitions. We use the data from the Household, Income and Labour Dynamics in Australia (HILDA) survey, waves 1-20, and model time to second birth using event history models. We find that a mother's free time, tiredness, leisure activities, and satisfaction with leisure are significantly associated with second birth risk. A mother's education is an important moderator in some of these associations. This study brings attention to the complexity of mothers' personal lives and emphasizes the need to look at them from a fine-grained perspective.",
+  "authors": [
+    {
+      "raw": "Jarosz, Ewa",
+      "family": "Jarosz",
+      "given": "Ewa"
+    },
+    {
+      "raw": "Matysiak, Anna",
+      "family": "Matysiak",
+      "given": "Anna"
+    },
+    {
+      "raw": "Osiewalska, Beata",
+      "family": "Osiewalska",
+      "given": "Beata"
+    }
+  ],
+  "authors_text": "Jarosz, Ewa; Matysiak, Anna; Osiewalska, Beata",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2023,
+  "doi": "10.1111/padr.12589",
+  "doi_url": "https://doi.org/10.1111/padr.12589",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12589",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12589.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Clocking In: The Organization of Work Time and Health in the United States",
+  "abstract": "This article assesses the health implications of emerging patterns in the organization of work time. Using data from the National Longitudinal Survey of Youth 1979, we examine general mental and physical health (SF-12 scores), psychological distress (CESD score), clinical levels of obesity, and the presence of medical conditions, at age 40. Overall, we find that health varies more across work hours than across types of shifts, and part-time workers report worse physical and emotional health than full-time workers. However, controlling for individual, family and job characteristics explains the poorer health observed among part-time workers. Those who are satisfied with their jobs, have more education, or have an employed spouse, report better health, while women and those with a prior health limitation report worse health. After taking these factors into account, we find a curvilinear relationship between work hours and health, with those working between 40 and 59 hours per week reporting worse mental and physical health than those working 40 hours per week. We also find that obesity differs from current health problems in its relationship to work time. Those who work part-time or fixed-hour schedules are less likely to be obese, suggesting that long-term health risks operating through obesity, such as cardiovascular disease and diabetes, are affected by time availability.",
+  "authors": [
+    {
+      "raw": "Kleiner, S.",
+      "family": "Kleiner",
+      "given": "S."
+    },
+    {
+      "raw": "Pavalko, E. K.",
+      "family": "Pavalko",
+      "given": "E. K."
+    }
+  ],
+  "authors_text": "Kleiner, S.; Pavalko, E. K.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2010,
+  "doi": "10.1353/sof.0.0301",
+  "doi_url": "https://doi.org/10.1353/sof.0.0301",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0301",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0301.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

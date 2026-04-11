@@ -1,0 +1,25 @@
+{
+  "title": "On sociologically derived mathematics",
+  "abstract": "Motivated by empirical studies of labor mobility, in 1970 Sy Spilerman approached me with a question about when a given stochastic matrix, P , can be reached from the identity matrix, I , in a prescribed period of time via the Kolmogorov forward and backward differential equations. A complete answer to this question for time-homogeneous Markov chains was provided in 1976-summarized herein-and a diversity of timeinhomogeneous cases have been studied since then and are reviewed in the present paper. Of particular interest for the future would be solutions for this reachability/embedding problem for mixtures of Markov chains. Also for the future would be studies of partial identifiability of mixtures of Markov chains when their observed transitions do not satisfy reachability/embedding conditions.",
+  "authors": [
+    {
+      "raw": "Singer, Burton H.",
+      "family": "Singer",
+      "given": "Burton H."
+    }
+  ],
+  "authors_text": "Singer, Burton H.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2024.103124",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103124",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103124",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103124.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

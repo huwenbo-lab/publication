@@ -1,0 +1,30 @@
+{
+  "title": "Educational Assortative Mating as a Determinant of Changing Household Income Inequality: A 21-Country Study",
+  "abstract": "Despite the intuitive notion that educational homogamy matters for the distribution of economic resources across households, existing research finds that changes in educational homogamy have had little impact on inequality between households. In this article, we document whether this conclusion generalizes to 21 countries and aim to understand the reasons why. We use data from the Luxembourg Income Studies to simulate the impact of both observed and hypothetical changes in educational homogamy on inequality. If educational homogamy had remained stable over time, the estimated difference between observed and simulated inequality would have been below 1 per cent in most countries. Extreme hypothetical changes from maximum hypergamy and hypogamy to maximum educational homogamy were simulated to increase inequality between 7 and 41 per cent, depending on the country. Hence, even though changes in educational homogamy have the potential to affect inequality, actual changes observed in this study were not strong enough to have a major impact. Additional analysis revealed that the potential impact of educational homogamy was systematically lower in countries with high levels of female labor force participation. Future changes in educational homogamy might therefore have an even smaller impact on inequality as ever more countries attain high levels of female employment.",
+  "authors": [
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    },
+    {
+      "raw": "Permanyer, Inaki",
+      "family": "Permanyer",
+      "given": "Inaki"
+    }
+  ],
+  "authors_text": "Boertien, Diederik; Permanyer, Inaki",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcz013",
+  "doi_url": "https://doi.org/10.1093/esr/jcz013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "A Gendered and Racialized Educational Hierarchy: Disparities in Elementary School Teachers' Perceptions of Student Behavior",
+  "abstract": "This paper uses an intersectional framework to account for the degree to which race, when intersecting gender, relates to teachers' evaluations of US elementary school children over time. Drawing on longitudinal data from the 2011 Early Childhood Longitudinal Study-Kindergarten cohort, we employ growth curve modeling to study descriptive trends in teacher perceptions of student behavior from kindergarten through fifth grade. We find that educators' perceptions of White, Asian American, and Latinx girls increase over time, while their perceptions of Black girls remain flat. Meanwhile, a different longitudinal trend emerges among boys. Although teachers' views of Black boys decrease over time, their views of other boys increase to the levels of Black girls, or higher, by the end of fifth grade. This analysis reveals how teachers' perceptions coalesce into an emerging hierarchy that-by the end of fifth grade-most sharply contrasts the behavior of Asian American girls and Black boys. Our intersectional approach and the theoretical framework informing it underscore the limits to considering how educators distinguish students by gender or race alone. Together, gender and race more fully account for differences in how educators perceive student behavior over time.",
+  "authors": [
+    {
+      "raw": "Pyne, Jaymes",
+      "family": "Pyne",
+      "given": "Jaymes"
+    },
+    {
+      "raw": "Musto, Michela",
+      "family": "Musto",
+      "given": "Michela"
+    }
+  ],
+  "authors_text": "Pyne, Jaymes; Musto, Michela",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac095",
+  "doi_url": "https://doi.org/10.1093/sf/soac095",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac095",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac095.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

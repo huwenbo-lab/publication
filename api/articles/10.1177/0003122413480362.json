@@ -1,0 +1,40 @@
+{
+  "title": "Only 15 Minutes? The Social Stratification of Fame in Printed Media",
+  "abstract": "Contemporary scholarship has conceptualized modern fame as an open system in which people continually move in and out of celebrity status. This model stands in stark contrast to the traditional notion in the sociology of stratification that depicts stable hierarchies sustained through classic forces such as social structure and cumulative advantage. We investigate the mobility of fame using a unique data source containing daily records of references to person names in a large corpus of English-language media sources. These data reveal that only at the bottom of the public attention hierarchy do names exhibit fast turnover; at upper tiers, stable coverage persists around a fixed level and rank for decades. Fame exhibits strong continuity even in entertainment, on television, and on blogs, where it has been thought to be most ephemeral. We conclude that once a person's name is decoupled from the initial event that lent it momentary attention, self-reinforcing processes, career structures, and commemorative practices perpetuate fame.",
+  "authors": [
+    {
+      "raw": "van de Rijt, Arnout",
+      "family": "van de Rijt",
+      "given": "Arnout"
+    },
+    {
+      "raw": "Shor, Eran",
+      "family": "Shor",
+      "given": "Eran"
+    },
+    {
+      "raw": "Ward, Charles",
+      "family": "Ward",
+      "given": "Charles"
+    },
+    {
+      "raw": "Skiena, Steven",
+      "family": "Skiena",
+      "given": "Steven"
+    }
+  ],
+  "authors_text": "van de Rijt, Arnout; Shor, Eran; Ward, Charles; Skiena, Steven",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1177/0003122413480362",
+  "doi_url": "https://doi.org/10.1177/0003122413480362",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122413480362",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122413480362.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

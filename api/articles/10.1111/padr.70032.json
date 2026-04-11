@@ -1,0 +1,25 @@
+{
+  "title": "Educational Expansion Regimes and Wealth Inequality in Sub-Saharan Africa",
+  "abstract": "Between 1990 and 2019, primary school enrollment in Sub-Saharan Africa (SSA) surged from 62 million to 187 million students. Despite this growth, SSA remains one of the most unequal continents, challenging the notion that educational expansion reduces wealth inequality. This paper investigates the correlation between educational expansion and household wealth inequality in SSA by conceptualizing educational expansion as distinct regimes with varying educational compositions and rates of expansion, rather than a sequential increase in the proportion of educated populations. Utilizing Demographic and Health Surveys from 15 SSA countries, this paper decomposes changes in household wealth inequality across four expansion regimes spanning the 1990s and 2010s. Contrary to predictions that educational expansion and wealth inequality would follow an inverted U-shaped curve as proposed by the Kuznets hypothesis, evidence reveals considerable cross-country variation. Decomposition analysis demonstrates that the level of inequality varies by the overall educational composition and the relative pace of expansion between primary and secondary education. These findings highlight the importance of categorizing educational expansion as distinct regimes by revealing how seemingly similar educational expansions have vastly different associations with wealth inequality.",
+  "authors": [
+    {
+      "raw": "Oh, Jeong Hyun",
+      "family": "Oh",
+      "given": "Jeong Hyun"
+    }
+  ],
+  "authors_text": "Oh, Jeong Hyun",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70032",
+  "doi_url": "https://doi.org/10.1111/padr.70032",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70032",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70032.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

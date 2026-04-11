@@ -1,0 +1,30 @@
+{
+  "title": "Religious Decline as a Population Dynamic: Generational Replacement and Religious Attendance in Europe",
+  "abstract": "Nothing puzzles sociologists of religion more than the reasons and the patterns behind religious change. In the literature on secularization processes, it is broadly accepted that ongoing modernization has undermined many of the pillars of institutional religions, leading to widespread religious decline. While a considerable body of research investigates the why(s) of this decline, the main focus of this paper is on the how. Drawing on CARPE, a harmonized dataset concerning church attendance with almost 2 million observations spanning over 40 years in 39 European countries, this article disentangles the contributions of period change and cohort replacement to the general religious decline. It shows that this decline reflects a real population dynamic based on generational replacement. It is not historical events or developments affecting everyone that undermine religion: new and less religious cohorts are replacing old and more religious ones. Like many other population dynamics, this process is described by an S-shaped curve and applies-with different speeds and levels-to almost all the European countries considered herein. These findings suggest that the effects of the processes of modernization on the mechanisms of religious socialization should be scrutinized more carefully when studying the reasons behind religious decline.",
+  "authors": [
+    {
+      "raw": "Molteni, Francesco",
+      "family": "Molteni",
+      "given": "Francesco"
+    },
+    {
+      "raw": "Biolcati, Ferruccio",
+      "family": "Biolcati",
+      "given": "Ferruccio"
+    }
+  ],
+  "authors_text": "Molteni, Francesco; Biolcati, Ferruccio",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac099",
+  "doi_url": "https://doi.org/10.1093/sf/soac099",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac099",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac099.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

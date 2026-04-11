@@ -1,0 +1,25 @@
+{
+  "title": "The effect of informal caregiving on social capital investments",
+  "abstract": "Social capital is a resource derived from a person's social network and is important for various outcomes. Social capital declines over time and requires investments to avoid further declines or to increase the stock. However, certain life events can negatively affect social capital. This paper analyzes how informal caregiving, defined as unpaid assistance to persons who cannot perform the usual activities of daily living without help, affects social capital investments. Drawing on the German Socio-Economic Panel (GSOEP) with data for 15 years, I apply fixed-effects (FE) regressions to estimate the effect of changing caregiving status (extensive margin) and the effect of an additional hour of caregiving (intensive margin) on social capital investments. The results show that caregiving negatively affects investments in social capital for weak and strong ties unrelated to the care task. Furthermore, caregiving increases investments in strong ties that are care related.",
+  "authors": [
+    {
+      "raw": "Eberl, Andreas",
+      "family": "Eberl",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Eberl, Andreas",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.06.010",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.06.010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.06.010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.06.010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Unhealthy and uninsured: Exploring racial differences in health and health insurance coverage using a life table approach",
+  "abstract": "Abstract Millions of people in the United States do not have health insurance, and wide racial and ethnic disparities exist in coverage. Current research provides a limited description of this problem, focusing on the number or proportion of individuals without insurance at a single time point or for a short period. Moreover, the literature provides no sense of the joint risk of being uninsured and in need of medical care. In this article, we use a life table approach to calculate health- and insurance-specific life expectancies for whites and blacks, thereby providing estimates of the duration of exposure to different insurance and health states over a typical lifetime. We find that, on average, Americans can expect to spend well over a decade without health insurance during a typical lifetime and that 40% of these years are spent in less-healthy categories. Findings also reveal a significant racial gap: despite their shorter overall life expectancy, blacks have a longer uninsured life expectancy than whites, and this racial gap consists entirely of less-healthy years. Racial disparities in insurance coverage are thus likely more severe than indicated by previous research.",
+  "authors": [
+    {
+      "raw": "Kirby, James B.",
+      "family": "Kirby",
+      "given": "James B."
+    },
+    {
+      "raw": "Kaneda, Toshiko",
+      "family": "Kaneda",
+      "given": "Toshiko"
+    }
+  ],
+  "authors_text": "Kirby, James B.; Kaneda, Toshiko",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1007/bf03213738",
+  "doi_url": "https://doi.org/10.1007/bf03213738",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fbf03213738",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/bf03213738.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

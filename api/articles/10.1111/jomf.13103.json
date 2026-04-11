@@ -1,0 +1,50 @@
+{
+  "title": "What is your type? Latent classes of newly married couples' gender ideologies",
+  "abstract": "ObjectiveThis study aims to understand how married couples agree or disagree on gender ideologies, as well as what sociodemographic characteristics are related to these pairings.BackgroundPast studies have explored the multidimensional nature of gender ideologies within individuals; however, this multidimensionality at the couple level is less understood. Although some research suggests couples will largely agree on gender ideologies, other theories imply that women in different-sex couples will be more gender progressive than their partners.MethodUsing data from 1290 different-sex couples married mostly in 2014 who participated in a nationally representative study in the United States, the authors identified latent classes of partners' gender ideologies using several measures. The authors then examined how latent class membership varied by sociodemographic characteristics using multinomial regression.ResultsResults showed five underlying latent classes: Moderate (30%), Strongly Egalitarian (20%), Nuanced Traditional (20%), Mixed (18%), and Neutral (12%). About 82% of couples in the sample consisted of two partners who shared similar views. Results showed high levels of non-extreme stances. About 42% of couples belonged in either a Neutral class-neither agreeing nor disagreeing with the gender ideology measures-or a Moderate class. Several sociodemographic characteristics significantly predicted class membership.ConclusionFindings provide support for assortative mating-people tend to agree with their spouse on gender ideologies. Further, the findings show that although some individuals stuck in the middle between traditionalism and egalitarianism adopt moderate views, others seemingly adopt what the authors title firm equivocation.",
+  "authors": [
+    {
+      "raw": "Gibby, Ashley Larsen",
+      "family": "Gibby",
+      "given": "Ashley Larsen"
+    },
+    {
+      "raw": "Smith, Jane Lankes",
+      "family": "Smith",
+      "given": "Jane Lankes"
+    },
+    {
+      "raw": "Yorgason, Jeremy B.",
+      "family": "Yorgason",
+      "given": "Jeremy B."
+    },
+    {
+      "raw": "Bardsley, Aubrey",
+      "family": "Bardsley",
+      "given": "Aubrey"
+    },
+    {
+      "raw": "Holmes, Erin Kramer",
+      "family": "Holmes",
+      "given": "Erin Kramer"
+    },
+    {
+      "raw": "James, Spencer L.",
+      "family": "James",
+      "given": "Spencer L."
+    }
+  ],
+  "authors_text": "Gibby, Ashley Larsen; Smith, Jane Lankes; Yorgason, Jeremy B.; Bardsley, Aubrey; Holmes, Erin Kramer; James, Spencer L.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13103",
+  "doi_url": "https://doi.org/10.1111/jomf.13103",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13103",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13103.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

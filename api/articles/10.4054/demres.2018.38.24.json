@@ -1,0 +1,35 @@
+{
+  "title": "A longitudinal examination of US teen childbearing and smoking risk",
+  "abstract": "BACKGROUND Teenage motherhood and smoking have important health implications for youth in the United States and globally, but the link between teen childbearing and subsequent smoking is inadequately understood. The selection of disadvantaged young women into early childbearing and smoking may explain higher smoking levels among teen mothers, but teen motherhood may also shape subsequent smoking through compromised maternal depression or socioeconomic status, and race/ethnicity may condition these processes. OBJECTIVE This study examines the relationship between US teen childbearing and subsequent daily smoking, accounting for prior smoking and selection processes related to social disadvantage. Analyses investigate whether socioeconomic status and depression in young adulthood explained any relationship between teen childbearing and daily smoking, as well as examining racial/ethnic heterogeneity in these processes. METHODS Multivariate binary logistic regression analyses employ the National Longitudinal Study of Adolescent to Adult Health (Add Health; N = 7,529). RESULTS The highest daily smoking prevalence occurred among non-Hispanic White teen mothers, with lower prevalence among Hispanic and non-Hispanic Black teen mothers. Compared to other women, teenage mothers are 2.5 times as likely to smoke daily in young adulthood. Their greater likelihood of daily smoking is due in part to selection and is also mediated by socioeconomic status in ways that differ by race/ethnicity. CONCLUSIONS The findings suggest that preventing teen pregnancy or ameliorating its socioeconomic consequences may decrease daily smoking in this vulnerable population. Reducing teen smoking, especially during pregnancy, could improve teen, maternal, and infant health and thereby increase US health and longevity. CONTRIBUTION This study provides new, nationally representative information about selection, mediation, and heterogeneity processes in the relationship between teen childbearing and subsequent smoking.",
+  "authors": [
+    {
+      "raw": "Mollborn, Stefanie",
+      "family": "Mollborn",
+      "given": "Stefanie"
+    },
+    {
+      "raw": "Woo, Juhee",
+      "family": "Woo",
+      "given": "Juhee"
+    },
+    {
+      "raw": "Rogers, Richard G.",
+      "family": "Rogers",
+      "given": "Richard G."
+    }
+  ],
+  "authors_text": "Mollborn, Stefanie; Woo, Juhee; Rogers, Richard G.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.24",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.24",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.24",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.24.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

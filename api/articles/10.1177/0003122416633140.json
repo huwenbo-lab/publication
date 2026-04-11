@@ -1,0 +1,30 @@
+{
+  "title": "Immigration and Welfare Support in Germany",
+  "abstract": "In recent years, several international-comparative studies have analyzed the relationship between migration and native populations' decreasing support for redistributive policies. However, these studies use cross-sectional designs and aggregate the number of foreign-born residents at the national level. Both aspects are theoretically and methodologically problematic. We address these shortcomings by investigating cross-sectional as well as longitudinal effects in the case of Germany, using a combination of individual- and regional-level data for several time points from 1994 to 2010. Our results suggest that native-born populations become more reluctant to support welfare programs when the proportion of foreigners at the regional level increases. This effect is particularly strong in the initial phase of immigration, and it is further moderated by the economic context: the higher the unemployment rate, the more negative is the effect of foreigners on natives' attitude toward providing welfare.",
+  "authors": [
+    {
+      "raw": "Schmidt-Catran, Alexander W.",
+      "family": "Schmidt-Catran",
+      "given": "Alexander W."
+    },
+    {
+      "raw": "Spies, Dennis C.",
+      "family": "Spies",
+      "given": "Dennis C."
+    }
+  ],
+  "authors_text": "Schmidt-Catran, Alexander W.; Spies, Dennis C.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1177/0003122416633140",
+  "doi_url": "https://doi.org/10.1177/0003122416633140",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122416633140",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122416633140.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

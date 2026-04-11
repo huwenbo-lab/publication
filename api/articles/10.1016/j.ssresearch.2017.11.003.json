@@ -1,0 +1,35 @@
+{
+  "title": "Imagining class: A study into material social class position, subjective identification, and voting behavior across Europe",
+  "abstract": "The traditional approach to class voting has largely ignored the question whether material class positions coincide with subjective class identification. Following Sosnaud et al. (2013), this study evaluates party preferences when Europeans' material and subjective social class do not coincide. Seminal studies on voting behavior have suggested that members of lower classes are more likely to vote for the economic left and cultural right and that higher classes demonstrate the opposite pattern. Yet, these studies have on the one hand overlooked the possibility that there is a mismatch between the material class people can be classified in and the class they think they are part of, and on the other hand the consequences of this discordant class identification on voting behavior. Analyzing the 2009 wave of the European Elections Study, we find that the majority of the Europeans discordantly identify with the middle class, whereas only a minority of the lower and higher classes concordantly identify with their material social class. Further, material class only seems to predict economic voting behavior when it coincides with subjective class; for instance, individuals who have an inflated class identification are more likely to vote for the economic left, even when they materially can be classified as middle or high class. We conclude this paper with a discussion on scholarly debates concerning class and politics.",
+  "authors": [
+    {
+      "raw": "D'Hooge, Lorenzo",
+      "family": "D'Hooge",
+      "given": "Lorenzo"
+    },
+    {
+      "raw": "Achterberg, Peter",
+      "family": "Achterberg",
+      "given": "Peter"
+    },
+    {
+      "raw": "Reeskens, Tim",
+      "family": "Reeskens",
+      "given": "Tim"
+    }
+  ],
+  "authors_text": "D'Hooge, Lorenzo; Achterberg, Peter; Reeskens, Tim",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2017.11.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.11.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.11.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.11.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

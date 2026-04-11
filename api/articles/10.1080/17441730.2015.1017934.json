@@ -1,0 +1,25 @@
+{
+  "title": "Professor Graeme Hugo",
+  "abstract": "Professor Graeme Hugo died on 19 January 2015 following a short battle with lymphoma. The world has lost an eminent scholar, who was voted by his peers as the 34th ranked demographer of all time in...",
+  "authors": [
+    {
+      "raw": "Jones, Gavin",
+      "family": "Jones",
+      "given": "Gavin"
+    }
+  ],
+  "authors_text": "Jones, Gavin",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2015,
+  "doi": "10.1080/17441730.2015.1017934",
+  "doi_url": "https://doi.org/10.1080/17441730.2015.1017934",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2015.1017934",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2015.1017934.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

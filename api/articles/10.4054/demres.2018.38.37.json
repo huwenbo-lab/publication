@@ -1,0 +1,40 @@
+{
+  "title": "The positive impact of women's employment on divorce: Context, selection, or anticipation?",
+  "abstract": "BACKGROUND Empirical findings regarding the impact of women's employment on divorce are mixed. One explanation is that the effects are moderated by the country context. Another is that previous studies have failed to account for unobserved factors that introduce bias into the estimated effects. Studies also rarely consider possible anticipatory employment behavior on the part of women who are thinking of divorce. OBJECTIVE The aim of this study is to deepen our understanding of the nexus between women's employment and divorce in a comparative perspective. METHOD We adopt an analytical strategy that allows us to account for selection and anticipation mechanisms. Namely, we estimate marital disruption and employment jointly, and monitor the timing of divorce after employment entry. This approach is implemented using micro-level data for Germany, Hungary, Italy, and Poland. RESULT We find that women's employment facilitates marital disruption in Italy and Poland, but not in Germany and Hungary. We also show that selection effects play out differently in different contexts. Finally, we notice traces of anticipatory behavior in Italy. CONTRIBUTION We conclude that women's employment is less likely to be linked to divorce in countries with easier access to divorce and in countries with more generous financial support for families and single mothers, which in turn makes women less reliant on the market. With this study we hope to encourage future researchers to consider the potentially distorting effects of selection and anticipation strategies in (comparative) divorce research.",
+  "authors": [
+    {
+      "raw": "Vignoli, Daniele",
+      "family": "Vignoli",
+      "given": "Daniele"
+    },
+    {
+      "raw": "Matysiak, Anna",
+      "family": "Matysiak",
+      "given": "Anna"
+    },
+    {
+      "raw": "Styrc, Marta",
+      "family": "Styrc",
+      "given": "Marta"
+    },
+    {
+      "raw": "Tocchioni, Valentina",
+      "family": "Tocchioni",
+      "given": "Valentina"
+    }
+  ],
+  "authors_text": "Vignoli, Daniele; Matysiak, Anna; Styrc, Marta; Tocchioni, Valentina",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.37",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.37",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.37",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.37.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

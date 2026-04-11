@@ -1,0 +1,30 @@
+{
+  "title": "Immigration, ethnicity and voluntary association membership in Canada: Individual and contextual effects",
+  "abstract": "Using multilevel models fitted to data collected by Statistics Canada and the Canadian Census, this paper assesses the individual and contextual influences of immigration and ethnicity on voluntary association membership. Our analysis is unique in two ways: (1) we explore the effects of both immigrant status and ethnicity at the individual level, and (2) we assess the role of both the immigrant population and the visible minority population at the community level. Our results demonstrate that the probability of holding an association membership increases as the time since immigration passes. We also find ethnic differences in the probability of membership, though these differences have little to do with visible minority group status. On the other hand, the contextual effects of immigration and visible minorities stand in contrast to these individual-level effects. More specifically, the probability of membership tends to be largest in communities with many immigrants but smallest in communities with many visible minorities. Consistent with Putnam's constrict thesis, these contextual effects operate in a similar manner for immigrants and native born citizens. We conclude with a discussion of the policy implications of these findings. (C) 2010 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Andersen, Robert",
+      "family": "Andersen",
+      "given": "Robert"
+    },
+    {
+      "raw": "Milligan, Scott",
+      "family": "Milligan",
+      "given": "Scott"
+    }
+  ],
+  "authors_text": "Andersen, Robert; Milligan, Scott",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2011,
+  "doi": "10.1016/j.rssm.2010.11.003",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2010.11.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2010.11.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2010.11.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

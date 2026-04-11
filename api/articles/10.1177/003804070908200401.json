@@ -1,0 +1,30 @@
+{
+  "title": "High School Classmates and College Success",
+  "abstract": "This article uses administrative data from the University of Texas at Austin to examine whether the number of classmates from the same high school at college entry influences college achievement, measured by grade point average (GPA) and persistence. For each freshman cohort from 1993 through 2003, the authors calculated the number and ethnic makeup of college freshmen from each Texas high school. Empirical specifications included high school fixed effects to control for unobservable differences across schools that influence both college enrollment behavior and academic performance. Using an instrumental variables-fixed-effects estimation strategy, they also evaluated whether marginal increases in the number of high school classmates influence college grades. The results show that students who arrive on campus with a larger number of high school classmates outperform their counterparts from smaller high school cohorts. The average effects of larger high school cohorts on college achievement are small, but a marginal increase in the number of same-race classmates raises the GPA by 0.1 point. The results provide suggestive evidence that minority academic benefits from larger high school cohorts are greater for minority compared with white students.",
+  "authors": [
+    {
+      "raw": "Fletcher, Jason M.",
+      "family": "Fletcher",
+      "given": "Jason M."
+    },
+    {
+      "raw": "Tienda, Marta",
+      "family": "Tienda",
+      "given": "Marta"
+    }
+  ],
+  "authors_text": "Fletcher, Jason M.; Tienda, Marta",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2009,
+  "doi": "10.1177/003804070908200401",
+  "doi_url": "https://doi.org/10.1177/003804070908200401",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F003804070908200401",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/003804070908200401.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

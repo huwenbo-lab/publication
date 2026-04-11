@@ -1,0 +1,35 @@
+{
+  "title": "Trust and Fertility Dynamics",
+  "abstract": "We argue that the divergence in fertility trends in advanced societies is influenced by the interaction of long-standing differences in generalized trust with the increase in women's educational attainment. Our argument builds on the idea that trust enhances individuals' and couples' willingness to outsource childcare to outside their extended family. This becomes critically important as women's increased education leads to greater demand for combining work and family life. We test our hypothesis using data from the World Values Survey and European Values Study on 36 industrialized countries between the years 1981 and 2009. Multilevel statistical analyses reveal that the interaction between national-level generalized trust and cohort-level women's education is positively associated with completed fertility. As education among women expands, high levels of generalized trust moderate fertility decline.",
+  "authors": [
+    {
+      "raw": "Aassve, Arnstein",
+      "family": "Aassve",
+      "given": "Arnstein"
+    },
+    {
+      "raw": "Billari, Francesco C.",
+      "family": "Billari",
+      "given": "Francesco C."
+    },
+    {
+      "raw": "Pessin, Lea",
+      "family": "Pessin",
+      "given": "Lea"
+    }
+  ],
+  "authors_text": "Aassve, Arnstein; Billari, Francesco C.; Pessin, Lea",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sow080",
+  "doi_url": "https://doi.org/10.1093/sf/sow080",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow080",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow080.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

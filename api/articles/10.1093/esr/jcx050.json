@@ -1,0 +1,35 @@
+{
+  "title": "The Effect of Volunteer Work on Employability: A Study with Danish Survey and Administrative Register Data",
+  "abstract": "In addition to benefiting others, volunteer work is argued to supply volunteers themselves with skills, reputation, and social connections that increase overall employability. We test this hypothesized causal link between volunteer work and employability with a high-quality 2012 Danish survey sample of 1,867 individuals of working age. The survey data are linked to administrative registers containing individual-level data on unemployment. A combination of detailed controls, lagged dependent variables, and instrumental variable regression is used to determine cause and effect. Our findings show that performing volunteer work does not statistically significantly affect the risk or rate of unemployment for the typical individual on the labour market.",
+  "authors": [
+    {
+      "raw": "Petrovski, Erik",
+      "family": "Petrovski",
+      "given": "Erik"
+    },
+    {
+      "raw": "Dencker-Larsen, Sofie",
+      "family": "Dencker-Larsen",
+      "given": "Sofie"
+    },
+    {
+      "raw": "Holm, Anders",
+      "family": "Holm",
+      "given": "Anders"
+    }
+  ],
+  "authors_text": "Petrovski, Erik; Dencker-Larsen, Sofie; Holm, Anders",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcx050",
+  "doi_url": "https://doi.org/10.1093/esr/jcx050",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx050",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx050.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

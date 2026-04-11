@@ -1,0 +1,30 @@
+{
+  "title": "Strength matters: Tie strength as a causal driver of networks' information benefits",
+  "abstract": "Studies of social networks have often taken the existence of a social tie as a proxy for the transmission of information. However, other studies of social networks in the labor market propose that the likelihood of information transmission might depend on strength of the tie; and that tie strength is a potentially important source of the tie's value. After all, even if job seekers have social ties to those who have valuable job information, the seekers will gain little information benefit when the ties do not actually transmit the information. This paper clarifies the conditions under which social ties might provide information benefits. We use a survey vignette experiment and ask MBA students about their likelihood of relaying job information via strong ties (to friends) or weak ties (to acquaintances), holding constant the structural locations spanned by the tie and job seekers' fit with the job. The results support the claim that strength of tie has a causal effect on the chances of information transmission: potential referrers are more likely to relay job information to their friends than to acquaintances. The larger implication of these findings is that whatever benefits there might be to using weak ties to reach distant non-redundant information during job search, these benefits need to be considered against the likely fact that people connected via weak ties are less likely to actually share information about job opportunities than are people to whom the job seeker is strongly tied. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Kim, Minjae",
+      "family": "Kim",
+      "given": "Minjae"
+    },
+    {
+      "raw": "Fernandez, Roberto M.",
+      "family": "Fernandez",
+      "given": "Roberto M."
+    }
+  ],
+  "authors_text": "Kim, Minjae; Fernandez, Roberto M.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.11.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.11.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.11.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.11.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

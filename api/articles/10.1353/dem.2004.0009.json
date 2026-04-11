@@ -1,0 +1,30 @@
+{
+  "title": "Hypersegregation in the twenty-first century",
+  "abstract": "Abstract We used metropolitan-level data from the 2000 U.S. census to analyze the hypersegregation of four groups from whites: blacks, Hispanics, Asians, and Native Americans. While blacks were hypersegregated in 29 metropolitan areas and Hispanics were hypersegregated in 2, Asians and Native Americans were not hypersegregated in any. There were declines in the number of metropolitan areas with black hypersegregation, although levels of segregation experienced by blacks remained significantly higher than those of the other groups, even after a number of factors were controlled. Indeed, although socioeconomic differences among the groups explain some of the difference in residential patterns more generally, they have little association with hypersegregation in particular, indicating the overarching salience of race in shaping residential patterns in these highly divided metropolitan areas.",
+  "authors": [
+    {
+      "raw": "Wilkes, Rima",
+      "family": "Wilkes",
+      "given": "Rima"
+    },
+    {
+      "raw": "Iceland, John",
+      "family": "Iceland",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Wilkes, Rima; Iceland, John",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0009",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

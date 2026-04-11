@@ -1,0 +1,35 @@
+{
+  "title": "Does race matter in residential segregation? Exploring the preferences of white Americans",
+  "abstract": "Employing an alternative methodology and new data, the authors address the debate concerning the underlying causes of racial residential segregation. Are white Americans avoiding racially mixed neighborhoods because they do not want to live with nonwhites? And if so, is this the case independent of factors with which race is associated, such as crime levels or housing values? An over-the-telephone factorial experiment addresses these issues, measuring variables that shape white Americans' choice of purchasing a home. Based on a national, random-digit-dial survey of 1,663 white Americans, the effects of African American, Asian, and Hispanic neighborhood composition on whites' likelihood of buying a house are explored, aswell as the other variables for which race may serve as a proxy. Results indicate that Asian and Hispanic neighborhood composition do not matter to whites. Black neighborhood composition, however does matter. and matters even more for white Ainericans with children tinder age 18. The effect of black composition is net of the variables that whites offer as the primary reasons they do not want to live with blacks, The implications of these findings for segregation trends and for future research are considered.",
+  "authors": [
+    {
+      "raw": "Emerson, MO",
+      "family": "Emerson",
+      "given": "MO"
+    },
+    {
+      "raw": "Yancey, G",
+      "family": "Yancey",
+      "given": "G"
+    },
+    {
+      "raw": "Chai, KJ",
+      "family": "Chai",
+      "given": "KJ"
+    }
+  ],
+  "authors_text": "Emerson, MO; Yancey, G; Chai, KJ",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2001,
+  "doi": "10.2307/3088879",
+  "doi_url": "https://doi.org/10.2307/3088879",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088879",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088879.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

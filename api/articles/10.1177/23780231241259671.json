@@ -1,0 +1,25 @@
+{
+  "title": "Ethical Dilemmas and Collaborative Resolutions in Machine Learning Research for Health Care",
+  "abstract": "Drawing on ethnographic, interview, and textual data with researchers creating machine learning solutions for health care, the author explains how researchers justify their projects while grappling with uncertainties about the benefits and harms of machine learning. Researchers differentiate between a hypothesized world of machine learning and a “real” world of clinical practice. Each world relates to distinct frameworks for describing, evaluating, and reconciling uncertainties. In the hypothesized world, impacts are hypothetical. They can be operationalized, controlled, and computed as bias and fairness. In the real world, impacts address patient outcomes in clinical settings. Real impacts are chaotic and uncontrolled and relate to complex issues of equity. To address real-world uncertainties, researchers collaborate closely with clinicians, who explain real-world implications, and participate in data generation projects to improve clinical datasets. Through these collaborations, researchers expand ethical discussions, while delegating moral responsibility to clinicians and medical infrastructure. This preserves the legitimacy of machine learning as a pure, technical domain, while allowing engagement with health care impacts. This article contributes an explanation of the interplay between technical and moral boundaries in shaping ethical dilemmas and responsibilities, and explains the significance of collaboration in artificial intelligence projects for ethical engagement.",
+  "authors": [
+    {
+      "raw": "Zilberstein, Shira",
+      "family": "Zilberstein",
+      "given": "Shira"
+    }
+  ],
+  "authors_text": "Zilberstein, Shira",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241259671",
+  "doi_url": "https://doi.org/10.1177/23780231241259671",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241259671",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241259671.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

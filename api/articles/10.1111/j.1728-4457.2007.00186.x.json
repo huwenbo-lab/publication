@@ -1,0 +1,30 @@
+{
+  "title": "Impacts of demographic trends on US household size and structure",
+  "abstract": "We use a household projection model to construct future scenarios for the United States designed to reflect a wide but plausible range of outcomes, including a new set of scenarios for union formation and dissolution rates based on past trends, experience in other countries, and current theory. The period covered is from 2000 to 2100. We find that the percentage of people living in households headed by the elderly may climb from 11 percent in 2000 to 20-31 percent in 2050 and 20-39 percent in 2100, while the average size of households could plausibly be as low as 2.0 or as high as 3.1 by the second half of the century. We assess the sensitivity of household size and structure to various demographic events, and show that outcomes are most sensitive to changes in fertility rates and rates of union formation and dissolution. They are less sensitive to the timing of marriage and childbearing and to changes in life expectancy.",
+  "authors": [
+    {
+      "raw": "Jiang, Leiwen",
+      "family": "Jiang",
+      "given": "Leiwen"
+    },
+    {
+      "raw": "O'Neill, Brian C.",
+      "family": "O'Neill",
+      "given": "Brian C."
+    }
+  ],
+  "authors_text": "Jiang, Leiwen; O'Neill, Brian C.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2007,
+  "doi": "10.1111/j.1728-4457.2007.00186.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2007.00186.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2007.00186.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2007.00186.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

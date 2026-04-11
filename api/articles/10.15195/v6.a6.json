@@ -1,0 +1,30 @@
+{
+  "title": "The Social Stratification of Environmental and Genetic Influences on Education: New Evidence Using a Register-Based Twin Sample",
+  "abstract": "The relative importance of genes and shared environmental influences on stratification outcomes has recently received much attention in the literature. We focus on education and the gene-environmental interplay. Specifically, we investigate whether—as proposed by the Scarr-Rowe hypothesis—genetic influences are more important in advantaged families. We argue that the social stratification of family environments affects children's chances to actualize their genetic potential. We hypothesize that advantaged families provide more child-specific inputs, which enhance genetic expression, whereas the rearing environments of children in disadvantaged families are less adapted to children's individual abilities, leading to a suppression of genetic potential. We test this relationship in Germany, which represents an interesting case due to its highly selective schooling system characterized by early tracking and the broad coverage of part-time schools. We use novel data from the TwinLife panel, a population-register–based sample of twins and their families. Results of ACE-variance decompositions support the Scarr-Rowe hypothesis: Shared environmental influences on education matter only in disadvantaged families, whereas genetic influences are more important in advantaged families. Our findings support the growing literature on the importance of the gene-environmental interplay and emphasize the role of the family environment as a trigger of differential genetic expression.",
+  "authors": [
+    {
+      "raw": "Baier, Tina",
+      "family": "Baier",
+      "given": "Tina"
+    },
+    {
+      "raw": "Lang, Volker",
+      "family": "Lang",
+      "given": "Volker"
+    }
+  ],
+  "authors_text": "Baier, Tina; Lang, Volker",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2019,
+  "doi": "10.15195/v6.a6",
+  "doi_url": "https://doi.org/10.15195/v6.a6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv6.a6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v6.a6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "What's in a Relationship? An Examination of Social Capital, Race and Class in Mentoring Relationships",
+  "abstract": "After 25 years of intense scrutiny, social capital remains an important yet highly debated concept in social science research. This research uses data from youth and mentors in several chapters of Big Brothers/Big Sisters to assess the importance of different mentoring relationship characteristics in creating positive outcomes among youths. The literature on social capital suggests that key characteristics are: (1. the amount of time spent between individuals, (2. racial similarity, (3. level of trust, (4. social class difference, and (5. intergenerational closure. I examine the effects of these social capital measures on academic and deviant behavioral outcomes and run models using propensity score weights to address selection bias. The results indicate that both the amount of time spent in a relationship and the level of trust consistently have positive effects for youths. Counter to what some theory suggests, race-matching and closure between parent and mentor have limited effects, and social class difference between individuals has no significant effect on any of the examined outcomes. These findings have important implications for future work on social capital and adolescent relationships in general.",
+  "authors": [
+    {
+      "raw": "Gaddis, S. M.",
+      "family": "Gaddis",
+      "given": "S. M."
+    }
+  ],
+  "authors_text": "Gaddis, S. M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2012,
+  "doi": "10.1093/sf/sos003",
+  "doi_url": "https://doi.org/10.1093/sf/sos003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsos003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sos003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

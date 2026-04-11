@@ -1,0 +1,30 @@
+{
+  "title": "Panel Conditioning in Longitudinal Studies: Evidence From Labor Force Items in the Current Population Survey",
+  "abstract": "AbstractDoes participating in a longitudinal survey affect respondents’ answers to subsequent questions about their labor force characteristics? In this article, we investigate the magnitude of panel conditioning or time-in-survey biases for key labor force questions in the monthly Current Population Survey (CPS). Using linked CPS records for household heads first interviewed between January 2007 and June 2010, our analyses are based on strategic within-person comparisons across survey months and between-person comparisons across CPS rotation groups. We find considerable evidence for panel conditioning effects in the CPS. Panel conditioning downwardly biases the CPS-based unemployment rate, mainly by leading people to remove themselves from its denominator. Across surveys, CPS respondents (claim to) leave the labor force in greater numbers than otherwise equivalent respondents who are participating in the CPS for the first time. The results cannot be attributed to panel attrition or mode effects. We discuss implications for CPS-based research and policy as well as for survey methodology more broadly.",
+  "authors": [
+    {
+      "raw": "Halpern-Manners, Andrew",
+      "family": "Halpern-Manners",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Warren, John Robert",
+      "family": "Warren",
+      "given": "John Robert"
+    }
+  ],
+  "authors_text": "Halpern-Manners, Andrew; Warren, John Robert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0124-x",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0124-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0124-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0124-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

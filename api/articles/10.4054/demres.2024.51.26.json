@@ -1,0 +1,25 @@
+{
+  "title": "Higher incomes are increasingly associated with higher fertility: Evidence from the Netherlands, 2008-2022",
+  "abstract": "BACKGROUND The relationship between income and fertility appears to be changing across rich societies at the national and regional levels. However, less is known about how the individual- level relationship between income and fertility has changed over time. OBJECTIVE To examine how the relationship between income and fertility changed between 2008 and 2022 in the Netherlands, and how this trend differs by gender and parity. METHODS Using register data on the full population, I link income quintiles in year t-2 to births in year t. Separate logistic regression models are estimated for each gender and year. RESULTS Over the 2008-2022 period, income became increasingly positively associated with fertility. Although income effects are stronger for men than for women, the intensifying of the income effect over time is evident for both genders. These results are driven by first births. For higher-order births, income effects are much weaker and did not change over the study period. CONCLUSIONS Earning a high income constitutes an increasingly strong prerequisite for the transition to parenthood in the Netherlands. This likely contributes to the postponement of parenthood and the decline of fertility and suggests that low-income groups may increasingly be unable to fulfill their fertility desires. CONTRIBUTION This study adds to a small number of studies that have shown that the individual-level relationship between income and fertility has become more positive over the past decades in rich societies, and it shows that this trend is driven by first rather than higher-order births.",
+  "authors": [
+    {
+      "raw": "van Wijk, Daniel",
+      "family": "van Wijk",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "van Wijk, Daniel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.26",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

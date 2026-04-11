@@ -1,0 +1,35 @@
+{
+  "title": "The Role of Artificial Intelligence and Digital Solutions in Transforming Educational and Employment Access for Individuals With Disabilities",
+  "abstract": "While education is essential for employability, people with disabilities often face barriers such as inadequate accommodations and limited access to adaptive technologies, hindering their equitable labor market participation. This research addresses these challenges by analyzing the roles of artificial intelligence (AI) and digitalization in the relationship between educational attainment and employability among people with disabilities in 33 high-income countries from 2010 to 2022. Using a moderated moderation model, the study evaluates how AI and digitalization jointly influence the relationship between education levels and employment outcomes. The analysis employs the Hayes PROCESS macro with bootstrapped confidence intervals to ensure robustness and accuracy in estimating interaction effects. The findings demonstrate that education significantly enhances employment prospects for individuals with disabilities, with stronger effects observed at intermediate and advanced education levels. AI serves as a critical moderator, amplifying the positive impact of education by creating adaptive learning environments and fostering essential technical and transversal skills. Digitalization complements this role by providing the infrastructure necessary to integrate AI into education systems, broadening access to resources, and enabling flexible learning opportunities. The study further identifies a moderated moderation effect, where the combined influence of AI and digitalization significantly strengthens the effect of education on employability for disabled people. These results highlight the transformative potential of AI and digitalization in improving education quality and fostering labor market inclusion for persons with disabilities in an increasingly digitalized world.",
+  "authors": [
+    {
+      "raw": "Omri, Anis",
+      "family": "Omri",
+      "given": "Anis"
+    },
+    {
+      "raw": "Slimani, Sana",
+      "family": "Slimani",
+      "given": "Sana"
+    },
+    {
+      "raw": "Afi, Hatem",
+      "family": "Afi",
+      "given": "Hatem"
+    }
+  ],
+  "authors_text": "Omri, Anis; Slimani, Sana; Afi, Hatem",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1111/1468-4446.13225",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13225",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13225",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13225.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

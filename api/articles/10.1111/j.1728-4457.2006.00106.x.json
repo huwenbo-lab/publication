@@ -1,0 +1,35 @@
+{
+  "title": "Long-term trends in life expectancy and active life expectancy in the United States",
+  "abstract": "Changes in life expectancy and in active life expectancy may have effects on the fiscal integrity of both the Social Security and Medicare programs. Analysis of the fiscal stability of these programs shows that the most serious problem may be the growth of Medicare expenditures projected to surpass, in about 2024, Social Security costs. This is aggravated by the associated rapid growth of the Medicaid program. To understand how the growth of Medicare, Medicaid, and Social Security might be correlated we present estimates of changes in life expectancy and active life expectancy from 1935 to 1999 and then project those values to 2080. How the correlation of life expectancy and active life expectancy changes over time, and by age, may provide insights into how increased health care expenditures, if effective in changing health in the elderly, could modify the age structure of the labor force and the availability of human capital.",
+  "authors": [
+    {
+      "raw": "Manton, KG",
+      "family": "Manton",
+      "given": "KG"
+    },
+    {
+      "raw": "Gu, XL",
+      "family": "Gu",
+      "given": "XL"
+    },
+    {
+      "raw": "Lamb, VL",
+      "family": "Lamb",
+      "given": "VL"
+    }
+  ],
+  "authors_text": "Manton, KG; Gu, XL; Lamb, VL",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2006,
+  "doi": "10.1111/j.1728-4457.2006.00106.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2006.00106.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2006.00106.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2006.00106.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

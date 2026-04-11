@@ -1,0 +1,50 @@
+{
+  "title": "Disparities in vulnerability to complications from COVID-19 arising from disparities in preexisting conditions in the United States",
+  "abstract": "The COVID-19 pandemic has magnified U.S. health disparities. Though disparities in COVID-19 hospitalization by race-ethnicity are large, disparities by income and education have not been studied. Using an index based on preexisting health conditions and age, we estimate disparities in vulnerability to hospitalization from COVID-19 by income, education, and race-ethnicity for U.S. adults. The index uses estimates of health condition and age effects on hospitalization for respiratory distress prior to the pandemic validated on COVID-19 hospitalizations. We find vulnerability arising from preexisting conditions is nearly three times higher for bottom versus top income quartile adults and 60 % higher for those with a high-school degree relative to a college degree. Though non-Hispanic Blacks are more vulnerable than non-Hispanic Whites at comparable ages, among all adults the groups are equally vulnerable because non-Hispanic Blacks are younger. Hispanics are the least vulnerable. Results suggest that income and education disparities in hospitalization are likely large and should be examined directly to further understand the unequal impact of the pandemic.",
+  "authors": [
+    {
+      "raw": "Wiemers, Emily E.",
+      "family": "Wiemers",
+      "given": "Emily E."
+    },
+    {
+      "raw": "Abrahams, Scott",
+      "family": "Abrahams",
+      "given": "Scott"
+    },
+    {
+      "raw": "AlFakhri, Marwa",
+      "family": "AlFakhri",
+      "given": "Marwa"
+    },
+    {
+      "raw": "Hotz, V. Joseph",
+      "family": "Hotz",
+      "given": "V. Joseph"
+    },
+    {
+      "raw": "Schoeni, Robert F.",
+      "family": "Schoeni",
+      "given": "Robert F."
+    },
+    {
+      "raw": "Seltzer, Judith A.",
+      "family": "Seltzer",
+      "given": "Judith A."
+    }
+  ],
+  "authors_text": "Wiemers, Emily E.; Abrahams, Scott; AlFakhri, Marwa; Hotz, V. Joseph; Schoeni, Robert F.; Seltzer, Judith A.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100553",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100553",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100553",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100553.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

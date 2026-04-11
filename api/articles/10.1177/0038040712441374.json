@@ -1,0 +1,25 @@
+{
+  "title": "School Enrollment Changes and Student Achievement Growth: A Case Study in Educational Disruption and Continuity",
+  "abstract": "Students in the United States change schools often, and frequent changes are associated with poor outcomes along numerous dimensions. These moves occur for many reasons, including both promotional transitions between educational levels and nonpromotional moves. Promotional student mobility is less likely than nonpromotional mobility to suffer from confounding due to unobserved factors. Using panel data from students enrolled in grades 3 to 8 in the Metropolitan Nashville Public Schools during the implementation of a major change in school attendance policies, this article investigates the potential influence of four types of school changes-including promotional student mobility-on test score growth in reading and mathematics. All types of changes are associated with lower achievement growth during the year the enrollment change occurred, representing approximately 6 percent of expected annual growth, or 10 days of instruction. This incremental deficit is particularly concerning for disadvantaged students since they change schools more frequently. The results suggest that being new to a school does influence student achievement net of other factors; they also imply that important social ties are ruptured when students change schools.",
+  "authors": [
+    {
+      "raw": "Grigg, Jeffrey",
+      "family": "Grigg",
+      "given": "Jeffrey"
+    }
+  ],
+  "authors_text": "Grigg, Jeffrey",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2012,
+  "doi": "10.1177/0038040712441374",
+  "doi_url": "https://doi.org/10.1177/0038040712441374",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040712441374",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040712441374.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Using multiple cause of death information to eliminate garbage codes",
+  "abstract": "BACKGROUND International comparisons of mortality largely depend on the quality of data. With more than 20% of deaths annually assigned to ill-defined cardiovascular conditions, the mortality level due to well-defined causes of death is under-registered in Poland. OBJECTIVE We aim to reclassify cardiovascular garbage codes (GCs) into well-defined causes based on multiple causes of death (MCoD) data and to approximate mortality levels due to welldefined causes of death in Poland. We examine the usefulness of the MCoD approach for correcting low-quality data on causes of death. METHODS Based on the unique MCoD dataset for Poland, death counts due to cardiovascular GCs were reassigned to well-defined underlying causes in two steps: (1) manually for death records that included MCoD information constituting a logical chain of conditions leading to death and (2) with coarsened exact matching for the remaining death records. Age-specific and age-standardised death rates for large groups of causes were calculated before and after redistribution and compared to those of other Eastern European countries with relatively good data quality. RESULTS Of deaths originally assigned to cardiovascular GCs, 86,856 were reclassified, mostly to well-defined cardiovascular diseases, cancers, endocrine, nutritional and metabolic diseases, and respiratory diseases. The age-standardised death rate due to well-defined ischaemic heart diseases increased by 43%, and the rate due to cerebrovascular diseases by 22%. Cardiovascular mortality structure by large groups of causes became similar to the structure registered in other Eastern European countries characterised by a low prevalence of GCs. CONCLUSION Coarsened exact matching performs relatively well when abundant MCoD information is available and enhances the comparability of cause-of-death data between countries.",
+  "authors": [
+    {
+      "raw": "Fihel, Agnieszka",
+      "family": "Fihel",
+      "given": "Agnieszka"
+    },
+    {
+      "raw": "Muszynska-Spielauer, Magdalena M.",
+      "family": "Muszynska-Spielauer",
+      "given": "Magdalena M."
+    }
+  ],
+  "authors_text": "Fihel, Agnieszka; Muszynska-Spielauer, Magdalena M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.11",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

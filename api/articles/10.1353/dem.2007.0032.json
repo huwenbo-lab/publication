@@ -1,0 +1,25 @@
+{
+  "title": "Race and the spatial segregation of jobless men in urban America",
+  "abstract": "AbstractChanges in U.S. metropolitan areas over the past 30 years are thought to have concentrated jobless men in low-income, predominantly minority neighborhoods clustered near the center of the city. Using tract-level data from the Neighborhood Change Database for 1970–2000, I examine how the residential segregation of jobless from employed men has changed over the past three decades. I find that jobless men in U.S. metropolitan areas have become less uniformly distributed throughout the metropolis and more isolated, concentrated, and clustered since 1970; but they have also become less centralized. Racial and ethnic group differences in the spatial segregation of jobless men are large. Jobless black men occupy a uniquely disadvantaged ecological position in the metropolis: in comparison with other jobless men, they are much less uniformly distributed throughout the metropolis and much more isolated from employed men, they are concentrated in a smaller amount of physical space, and their neighborhoods are more clustered and are located closer to the center of the city. The dimensions of segregation strongly overlap for black jobless men, producing a multidimensional layering of segregation not encountered by other jobless men. Multivariate models reveal that the uniquely disadvantaged ecological position of jobless black men is less a reflection of different patterns of regional concentration and metropolitan settlement or of differences in group-status characteristics than it is an inevitable consequence of extreme levels of racial residential segregation in the United States.",
+  "authors": [
+    {
+      "raw": "Wagmiller, Robert L.",
+      "family": "Wagmiller",
+      "given": "Robert L."
+    }
+  ],
+  "authors_text": "Wagmiller, Robert L.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0032",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0032",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0032",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0032.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

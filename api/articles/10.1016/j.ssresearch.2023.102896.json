@@ -1,0 +1,35 @@
+{
+  "title": "How college-student academic undermatch affects students: Quasi-experimental evidence on multifaceted student outcomes",
+  "abstract": "Undermatching is a phenomenon in which students attend institutions that are less selective than the ones they could enroll given their academic credentials. Recent research suggests that undermatching may harm student development during college. However, there have been few comprehensive analyses of the causal relationship of undermatching and multifaceted college experience. Using college student longitudinal data from Beijing, China, we provide new quasiexperimental evidence on the effects of academic undermatch. This study extends the existing literature by focusing on a wide variety of student outcomes during college years, including learning motivation, behavior and academic performance, psychological attitudes and mental health, interpersonal relationships and involvement, and college satisfaction. Employing the exogenous admissions reform as the instrumental variable for undermatching, we find that undermatching predicts better academic performance and self-evaluation, but worse social relationships and college satisfaction. The results suggest that, although undermatched students are usually higher academic achievers than their college peers, they lack group identity and are not socially involved in college life.",
+  "authors": [
+    {
+      "raw": "Li, Xin",
+      "family": "Li",
+      "given": "Xin"
+    },
+    {
+      "raw": "Ye, Xiaoyang",
+      "family": "Ye",
+      "given": "Xiaoyang"
+    },
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    }
+  ],
+  "authors_text": "Li, Xin; Ye, Xiaoyang; Wu, Xiaogang",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102896",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102896",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102896",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102896.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

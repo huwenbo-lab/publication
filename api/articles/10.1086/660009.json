@@ -1,0 +1,30 @@
+{
+  "title": "The Legacy of Disadvantage: Multigenerational Neighborhood Effects on Cognitive Ability",
+  "abstract": "This study examines how the neighborhood environments experienced over multiple generations of a family influence children's cognitive ability. Building on recent research showing strong continuity in neighborhood environments across generations of family members, the authors argue for a revised perspective on neighborhood effects that considers the ways in which the neighborhood environment in one generation may have a lingering impact on the next generation. To analyze multigenerational effects, the authors use newly developed methods designed to estimate unbiased treatment effects when treatments and confounders vary over time. The results confirm a powerful link between neighborhoods and cognitive ability that extends across generations. A family's exposure to neighborhood poverty across two consecutive generations reduces child cognitive ability by more than half a standard deviation. A formal sensitivity analysis suggests that results are robust to unobserved selection bias.",
+  "authors": [
+    {
+      "raw": "Sharkey, Patrick",
+      "family": "Sharkey",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Elwert, Felix",
+      "family": "Elwert",
+      "given": "Felix"
+    }
+  ],
+  "authors_text": "Sharkey, Patrick; Elwert, Felix",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2011,
+  "doi": "10.1086/660009",
+  "doi_url": "https://doi.org/10.1086/660009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F660009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/660009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

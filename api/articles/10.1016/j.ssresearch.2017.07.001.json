@@ -1,0 +1,25 @@
+{
+  "title": "Occupy the government: Analyzing presidential and congressional discursive response to movement repression",
+  "abstract": "I examine the role of Occupy Wall Street in shifting presidential and congressional discourse on economic fairness and inequality. Using data from 4646 presidential speeches and 1256 congressional records from 2009 to 2015, I test different mechanisms, including repression, media coverage, public opinion, and presidential agenda-setting by applying a novel combination of web scraping, natural language processing, and time series models. I suggest that movement success can be measured in its ability to shape discursive opportunity structures, and I argue that the role of the president should be at the forefront of social movements research. Ultimately, I demonstrate (1) that the repression of Occupy protesters not only predicts media coverage but also increases discursive opportunities through President Obama and Congress, (2) that media coverage of Occupy predicts presidential discourse, (3) that the president's rhetorical shift increases congressional response, and (4) that this change persists after the movement faltered. (C) 2017 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Mausolr, Joshua Gary",
+      "family": "Mausolr",
+      "given": "Joshua Gary"
+    }
+  ],
+  "authors_text": "Mausolr, Joshua Gary",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2017.07.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.07.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.07.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.07.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

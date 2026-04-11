@@ -1,0 +1,35 @@
+{
+  "title": "Assessing the Causal Link between the COVID-19 Pandemic and Racial Discrimination",
+  "abstract": "In this article, we report the results of a randomized controlled experiment that examines how exposure to information about a global pandemic from Asia affects white Americans’ prosocial behavior towards white, black, and Asian Americans. We find that when exposed to a new disease threat from Asia, (1) white Americans donate significantly less money to Asian American recipients than to white or black American recipients, (2) liberals and conservatives are equally likely to discriminate, and (3) a significant spike in media attention about violence against Asians inhibited this discriminatory behavior—at least temporarily. Our experiment allows us to rule out alternative explanations for the unequal treatment of Asian Americans, providing evidence of a causal link between the COVID-19 pandemic and racial discrimination. The study contributes to knowledge about the spillover effects of external threats on race relations and has implications for public health and science communication.",
+  "authors": [
+    {
+      "raw": "Zhao, Jun",
+      "family": "Zhao",
+      "given": "Jun"
+    },
+    {
+      "raw": "Tinkler, Justine E.",
+      "family": "Tinkler",
+      "given": "Justine E."
+    },
+    {
+      "raw": "Clayton, Kristen A.",
+      "family": "Clayton",
+      "given": "Kristen A."
+    }
+  ],
+  "authors_text": "Zhao, Jun; Tinkler, Justine E.; Clayton, Kristen A.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221095343",
+  "doi_url": "https://doi.org/10.1177/23780231221095343",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221095343",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221095343.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

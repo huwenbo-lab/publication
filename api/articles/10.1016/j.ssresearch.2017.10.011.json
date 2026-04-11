@@ -1,0 +1,25 @@
+{
+  "title": "Trigger events and poverty transitions among young adults in Finland after leaving the parental home",
+  "abstract": "Studies have shown that leaving the parental home is associated with an increase in the risk of poverty. However, less is known about poverty dynamics after leaving the nest. Based on Finnish population register data, this research answers the question of how employment and demographic events affect poverty entries and exits among 18- to 24-year-olds in Finland. The follow-up of individuals starts when young adults move away from the parental home. In addition to descriptive methods, discrete-time event-history models are estimated. This study illustrates that changes in employment are typical and are, therefore, often associated with poverty transitions among young adults. Although demographic events are less common, when experienced, they often lead to poverty transitions. This study found that the effects of demographic events vary by gender. This study also illustrates that a move back to the parental home is more likely for some poor population subgroups than for others.",
+  "authors": [
+    {
+      "raw": "Ilmakunnas, Ilari",
+      "family": "Ilmakunnas",
+      "given": "Ilari"
+    }
+  ],
+  "authors_text": "Ilmakunnas, Ilari",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2017.10.011",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.10.011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.10.011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.10.011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

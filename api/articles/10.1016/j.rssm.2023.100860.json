@@ -1,0 +1,30 @@
+{
+  "title": "Segplot: A new method for visualizing patterns of multi-group segregation",
+  "abstract": "Social science research on between-group segregation relies heavily on mathematical indices of exposure and unevenness, which tell us very little about the underlying patterns of segregation. We present a new visual method for analyzing two-group and multi-group segregation patterns, which we call a segplot. Segplots provide an intuitive illustration of segregation between schools, neighborhoods, occupations, or other units, adding to the depth and communicability of scholarly research. The visualization shows the entire segregation pattern, as well as the relevant reference distribution used in many measures of segregation. Segplots are particularly useful when comparing patterns of segregation over time, between locations, or between different types of units. For more complex, high-dimensional segregation patterns, we also present an algorithm that can be used to compress the pattern to obtain a visually clearer result. We provide illustrative applications to typical problems in segregation research, demonstrating how segplots can be used to complement and enrich a traditional mathematical analysis of between-group segregation.",
+  "authors": [
+    {
+      "raw": "Elbers, Benjamin",
+      "family": "Elbers",
+      "given": "Benjamin"
+    },
+    {
+      "raw": "Gruijters, Rob J.",
+      "family": "Gruijters",
+      "given": "Rob J."
+    }
+  ],
+  "authors_text": "Elbers, Benjamin; Gruijters, Rob J.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2023.100860",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100860",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100860",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100860.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Masked by the mean: immigrants in school and differential effects on student achievements",
+  "abstract": "Immigrant inflows to Europe have changed student compositions in and across schools. Despite the strong intuition that peers matter for student outcomes, a comprehensive literature finds nil or moderate effects of immigrant peers. This study explores three reasons for this mismatch. First, it uses quantile regressions to reveal whether estimates on the average of the outcome mask differential effects across the outcome distribution. Second, it estimates the effect of attending schools with different immigrant shares, which is a composite of peer effects and the effects of school traits. Third, it compares the effects on teacher-assigned grades and objective standardized tests to explore whether the effects of immigrant share are influenced by teachers' grading practices. The results show that high achievers in schools with higher immigrant shares get better grades from their teachers, likely because they are assessed relative to peers with lower academic and socioeconomic levels. However, they show no sign of improved test scores. In contrast, low achievers obtain better test scores when having immigrant peers and this academic improvement is not explained by the general academic and socioeconomic level among peers. The findings demonstrate that effects on the mean outcome mask differential effects across outcome distributions.",
+  "authors": [
+    {
+      "raw": "Borgen, Solveig T.",
+      "family": "Borgen",
+      "given": "Solveig T."
+    }
+  ],
+  "authors_text": "Borgen, Solveig T.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac035",
+  "doi_url": "https://doi.org/10.1093/esr/jcac035",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac035",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac035.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Are we looking at crises through polarized lenses? Predicting public assessments of the official early responses to the COVID-19 pandemic in eight countries",
+  "abstract": "Understanding public appraisal of the governments' responses to the COVID-19 pandemic has extensive implications for the political management of crises that require a substantial amount of civil collaboration. Using open data from a comparative online survey in eight countries (Australia, Germany, Italy, Mexico, Spain, Sweden, the United Kingdom, and the United States), we have run mixed multilevel fixed-effects models for the pooled data and linear regression models for each country to investigate which factors are associated with respondents' evaluations (i.e. assessments of the effectiveness) of their governments' responses to the pandemic. Results show that political orientations, including left-right ideology and interventionist values, are strongly associated with evaluations. Their associations with government evaluations are remarkably similar in all eight countries, indicating that the pattern of influence persists across different contexts. In some countries, personal experiences with the crisis and socio-demographic characteristics also condition the evaluation of governments' responses. Our results show that political ideology serves as a shortcut for the assessment of urgent and controversial measures by governments. This has implications for the ability of governments to elicit citizens' cooperation with the policies confronting the crisis and can impact the effectiveness of government responses to protect people from harm.",
+  "authors": [
+    {
+      "raw": "Lobera, Josep",
+      "family": "Lobera",
+      "given": "Josep"
+    },
+    {
+      "raw": "Santana, Andres",
+      "family": "Santana",
+      "given": "Andres"
+    },
+    {
+      "raw": "Gross, Catherine",
+      "family": "Gross",
+      "given": "Catherine"
+    }
+  ],
+  "authors_text": "Lobera, Josep; Santana, Andres; Gross, Catherine",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad016",
+  "doi_url": "https://doi.org/10.1093/esr/jcad016",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad016",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad016.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

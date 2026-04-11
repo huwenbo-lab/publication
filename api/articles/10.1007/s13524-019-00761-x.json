@@ -1,0 +1,25 @@
+{
+  "title": "Health Measurement and Health Inequality Over the Life Course: A Comparison of Self-rated Health, SF-12, and Grip Strength",
+  "abstract": "The cumulative (dis)advantage hypothesis predicts education differences in health to increase with age. All previous tests of this hypothesis were based on self-reported health measures. Recent research has suggested that self-reported health measures may not adequately capture differences in key analytical constructs, including education, age, cohort, and gender. In this study, I tested the cumulative (dis)advantage hypothesis using a self-reported subjective measure (self-rated health), a self-reported semi-objective measure (PCS based on SF-12), and an objective measure (grip strength) of general physical health. Hierarchical linear models applied to five waves of panel data (SOEP, 2006-2014, N = 3,635 individuals aged 25 to 83, comprising N = 9,869 person-years) showed large differences between health measures. Among men, education differences in both self-reported measures of health widened substantially with age, consistent with the cumulative (dis)advantage hypothesis. For grip strength, education differences were small and changed little with age, inconsistent with the hypothesis. Among women, education differences in both self-reported measures of health remained stable over the life course, but they widened substantially when measured by grip strength. I conclude that evidence on the cumulative (dis)advantage hypothesis is sensitive to the choice of a health measure.",
+  "authors": [
+    {
+      "raw": "Leopold, Liliya",
+      "family": "Leopold",
+      "given": "Liliya"
+    }
+  ],
+  "authors_text": "Leopold, Liliya",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00761-x",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00761-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00761-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00761-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

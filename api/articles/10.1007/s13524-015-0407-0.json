@@ -1,0 +1,35 @@
+{
+  "title": "Education and Lifetime Earnings in the United States",
+  "abstract": "Differences in lifetime earnings by educational attainment have been of great research and policy interest. Although a large literature examines earnings differences by educational attainment, research on lifetime earnings-which refers to total accumulated earnings from entry into the labor market until retirement-remains limited because of the paucity of adequate data. Using data that match respondents in the Survey of Income and Program Participation to their longitudinal tax earnings as recorded by the Social Security Administration, we estimate the 50-year work career effects of education on lifetime earnings for men and women. By overcoming the purely synthetic cohort approach, our results provide a more realistic appraisal of actual patterns of lifetime earnings. Detailed estimates are provided for gross lifetime earnings by education; net lifetime earnings after controlling for covariates associated with the probability of obtaining a bachelor's degree; and the net present 50-year lifetime value of education at age 20. In addition, we provide estimates that include individuals with zero earnings and disability. We also assess the adequacy of the purely synthetic cohort approach, which uses age differences in earnings observed in cross-sectional surveys to approximate lifetime earnings. Overall, our results confirm the persistent positive effects of higher education on earnings over different stages of the work career and over a lifetime, but also reveal notably smaller net effects on lifetime earnings compared with previously reported estimates. We discuss the implications of these and other findings.",
+  "authors": [
+    {
+      "raw": "Tamborini, Christopher R.",
+      "family": "Tamborini",
+      "given": "Christopher R."
+    },
+    {
+      "raw": "Kim, ChangHwan",
+      "family": "Kim",
+      "given": "ChangHwan"
+    },
+    {
+      "raw": "Sakamoto, Arthur",
+      "family": "Sakamoto",
+      "given": "Arthur"
+    }
+  ],
+  "authors_text": "Tamborini, Christopher R.; Kim, ChangHwan; Sakamoto, Arthur",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0407-0",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0407-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0407-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0407-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

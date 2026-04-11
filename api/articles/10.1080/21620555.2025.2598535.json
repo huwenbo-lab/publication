@@ -1,0 +1,30 @@
+{
+  "title": "Control in crisis: the dynamic of formal and informal social control in the transmission of COVID-19 in Hong Kong",
+  "abstract": "Scholars in sociology and criminology emphasize the importance of both formal and informal control in maintaining social order. However, limited research has explored the dynamic interaction between these two forms of control. This study addresses this gap by investigating whether formal control created a supportive framework that enhances the effectiveness of neighborhood informal social control in curbing the local transmission of disease during the early phase of the COVID-19 epidemic in Hong Kong. The outcome variable is block-level aggregation of COVID-19 cases reported between January 23 and November 22, 2020, in Hong Kong. Neighborhood-level informal social control is measured using two variables derived from the Hong Kong Panel Study of Social Dynamics, while formal control is operationalized through government-imposed social distancing policies. Poisson regression models are used to assess the association between block-level COVID-19 cases and neighborhood informal social control at various levels of formal control. The findings reveal that informal social control significantly reduced virus transmission, but only in the presence of strong formal control. The results offer valuable insights into how forms of control work in the crisis.",
+  "authors": [
+    {
+      "raw": "Zeng, Donglin",
+      "family": "Zeng",
+      "given": "Donglin"
+    },
+    {
+      "raw": "Ma, Gaoming",
+      "family": "Ma",
+      "given": "Gaoming"
+    }
+  ],
+  "authors_text": "Zeng, Donglin; Ma, Gaoming",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1080/21620555.2025.2598535",
+  "doi_url": "https://doi.org/10.1080/21620555.2025.2598535",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2025.2598535",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2025.2598535.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

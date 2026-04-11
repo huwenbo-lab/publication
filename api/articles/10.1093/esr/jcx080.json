@@ -1,0 +1,30 @@
+{
+  "title": "Is it Easier to Be Unemployed When the Experience Is More Widely Shared? Effects of Unemployment on Self-rated Health in 25 European Countries with Diverging Macroeconomic Conditions",
+  "abstract": "The economic crisis in Europe since 2008 has led to high unemployment levels in several countries. Previous research suggests that becoming unemployed is a health risk, but is job loss and unemployment easier to cope with when unemployment is widespread? Using EU-SILC panel data (2010-2013), this study examines short-term effects of unemployment on self-rated health (SRH) in 25 European countries with diverging macroeconomic conditions. Ordinary least squares regressions show that the unemployed are in worse health than the employed throughout Europe. The association is reduced considerably, but remains significant in several countries when time-invariant personal characteristics are accounted for using individual-level fixed-effects models. Propensity score kernel matching shows that both being and becoming unemployed are associated with slightly worse SRH. There is a weak tendency towards less health effects of unemployment in countries where the experience is widely shared. In particular, countries with a very low unemployment rate stand out with larger health effects. The results overall suggest that a changed composition of the unemployed population is an important explanation for the weaker unemployment-health association in high-unemployment countries.",
+  "authors": [
+    {
+      "raw": "Heggebo, Kristian",
+      "family": "Heggebo",
+      "given": "Kristian"
+    },
+    {
+      "raw": "Elstad, Jon Ivar",
+      "family": "Elstad",
+      "given": "Jon Ivar"
+    }
+  ],
+  "authors_text": "Heggebo, Kristian; Elstad, Jon Ivar",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcx080",
+  "doi_url": "https://doi.org/10.1093/esr/jcx080",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx080",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx080.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

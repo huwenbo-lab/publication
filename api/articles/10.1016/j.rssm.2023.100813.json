@@ -1,0 +1,25 @@
+{
+  "title": "The association between parental separation at the school level and student outcomes in four European Countries",
+  "abstract": "This paper re-examines the role of the school share of separated families with new data, new countries, and a broader set of outcomes. Past studies in the US have shown that the share of students from separated families has a negative effect on students' test scores. Using data on 16,468 students and their parents in 471 secondary schools in England, Germany, the Netherlands and Sweden, multilevel models were estimated to assess the effects of the demographic composition of schools on student outcomes while simultaneously exploring the role of school disadvantages and school-level social capital. Findings showed that students had lower reading test scores, displayed poorer behavior in school, and had more problem behaviors outside of school, when a larger share of the students in school came from separated families. The associations were to some extent explained by associated school disadvantages but social capital at the school level did not explain the associations. The adverse effects of the school context on behavior inside and outside of school were stronger for girls than for boys but the effects on reading were similar. There were also country differences, the most noteworthy being that context effects as well as gender differences therein were absent in Sweden.",
+  "authors": [
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    }
+  ],
+  "authors_text": "Kalmijn, Matthijs",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100813",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100813",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100813",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100813.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

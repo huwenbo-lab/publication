@@ -1,0 +1,25 @@
+{
+  "title": "Demographic change and the 2016 presidential election",
+  "abstract": "The election of Donald Trump raised many questions about the impact of immigration on American politics. This article asks whether backlash to demographic change in counties undergoing rapid growth in foreign-born, Hispanic, and/or Asian populations may have played a role in his election. I use techniques accounting for selection into treatment to examine the relationship between demographic changes at the county level and voting patterns in the 2016 presidential election. Analyzing individual-level survey data and controlling for voting patterns in 2012, I find that people living in counties with a rapid percentage point increase in the Hispanic population since 2000 were more likely to vote for Trump in the general and primary elections. For non-Hispanic Whites in the general election, Hispanic growth is predictive of Trump voting among those with lower levels of education and higher family incomes, as well as those living in counties with smaller Hispanic populations in 2000 (new destinations). There is also evidence of backlash to Hispanic growth among Asian voters. When analyzing county-level election results, I again find an uptick in Trump voting in high Hispanic growth counties for the general election, but these results do not replicate for the swing states, or for the primaries. This provides reason to be cautious about claims that backlash against local demographic trends won Trump the election, though data limitations prevent me from analyzing all key locations individually. Regardless, this study provides clear evidence of an impact of local demographic change on contemporary U.S. politics.",
+  "authors": [
+    {
+      "raw": "Maggio, Christopher",
+      "family": "Maggio",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Maggio, Christopher",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2020.102459",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102459",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102459",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102459.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

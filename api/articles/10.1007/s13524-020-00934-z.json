@@ -1,0 +1,35 @@
+{
+  "title": "Young Adults' Migration to Cities in Sweden: Do Siblings Pave the Way?",
+  "abstract": "Young adult internal migration forms a large share of the influx of people into large cities in the developed world. We investigate the role of the residential locations of siblings for young adults' migration to large cities, using the case of Sweden and its four largest cities: Stockholm, Gothenburg, Malmo/Lund, and Uppsala. We use register data for the full Swedish-born population of young adults aged 18-28 living in Sweden in the years 2007-2013 and multinomial logistic regression analyses of migrating to each of the four cities or migrating elsewhere versus not migrating. Our point of departure is the paving-the-way hypothesis, which posits that young adults who have a sibling living at a migration destination are particularly likely to move to that destination, more so than to other destinations. Additional hypotheses are related to having more than one sibling in the city and to the gender of siblings living at the destination. We find support for the paving-the-way hypothesis and an additional effect for having more than one sibling in the city. Having a sibling of the same gender in a city matters more for moving there than having a sibling of the opposite gender.",
+  "authors": [
+    {
+      "raw": "Mulder, Clara H.",
+      "family": "Mulder",
+      "given": "Clara H."
+    },
+    {
+      "raw": "Lundholm, Emma",
+      "family": "Lundholm",
+      "given": "Emma"
+    },
+    {
+      "raw": "Malmberg, Gunnar",
+      "family": "Malmberg",
+      "given": "Gunnar"
+    }
+  ],
+  "authors_text": "Mulder, Clara H.; Lundholm, Emma; Malmberg, Gunnar",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00934-z",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00934-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00934-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00934-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

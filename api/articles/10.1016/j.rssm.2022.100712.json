@@ -1,0 +1,30 @@
+{
+  "title": "The fundamental role of tax systems in the relationship between workfare and inequality in the lower half of the income distribution",
+  "abstract": "In recent decades, many affluent democracies moved from traditional welfare states to workfare systems. Meanwhile, income inequality developed differently across countries, even when they made apparently similar shifts from welfare to workfare. It is a matter of debate why welfare state change had such heterogeneous consequences across countries. This article proposes that different incentives to take up low-wage work set by tax reforms in the wake of welfare-to-workfare transitions alter consequences on inequality in the lower half of the income distribution. To support this argument, we contrast the trends between the U.S. and Germany. The German and U.S. tax systems were used in very different ways to incentivize low-wage work. The U.S. provided strong incentives to take up low-wage, high-hour work through refundable tax credits. They act as in-work subsidies and represent an enormous public income support program. In contrast, in Germany, payroll taxes were reduced for marginal employment. These jobs were intended to serve as a stepping stone to full employment. Germany aimed to reduce barriers to labor market entry, but did not increase subsidies for those working higher hours in low-wage jobs. We hypothesize that the German path led to increased income inequality within the lower half of the income distribution, whereas the large U.S. tax-based subsidies in the U.S. significantly counteracted it. Decompositions of unconditional quantile regressions based on the SOEP and the CPS-ASEC for 1992 and 2014 strongly support these assumptions. Households with no labor market integration lost ground with the workfare reforms in both countries, increasing inequality in the lower half. However, U.S. households that conformed to the new workfare system by taking low-wage jobs received additional after-tax income through tax cuts and credits. This additional income of the beneficiary households increased the percentile values between the 10th and 30th percentiles by about 6 per cent, thus reducing income inequality in the lower half. Germany, on the contrary, lacked such compensatory subsidies for compliant households. Thus, increased takeup of low-wage work was associated with an increase in income inequality in the lower half. We conclude that tax systems are important in understanding why the shift towards workfare was associated with heterogeneous trends in income inequality across countries.",
+  "authors": [
+    {
+      "raw": "Binder, Barbara",
+      "family": "Binder",
+      "given": "Barbara"
+    },
+    {
+      "raw": "Haupt, Andreas",
+      "family": "Haupt",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Binder, Barbara; Haupt, Andreas",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100712",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100712",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100712",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100712.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Using simulation to develop testable functionalist explanations: a case study of church survival",
+  "abstract": "AbstractMany arguments for and against functionalism have revolved around logical and methodological issues, discouraging attempts to develop testable functionalist theories. This paper takes a different approach, arguing that the problem with sociological functionalism is not its logic of explanation but the absence of appropriatetechniquesfor formalizing functionalist theories. The solution presented – agent‐based simulation – is illustrated by a case study: a functionalist account of church survival. The case study suggests that there is nothing wrong with the logic of functionalism properly formalized, illustrates how simulation can enable testing of functionalist explanations and suggests why existing sociological methods have not proved fruitful for this task. In the light of new techniques like simulation, the current neglect of functionalism may no longer be justified.",
+  "authors": [
+    {
+      "raw": "Chattoe, Edmund",
+      "family": "Chattoe",
+      "given": "Edmund"
+    }
+  ],
+  "authors_text": "Chattoe, Edmund",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2006,
+  "doi": "10.1111/j.1468-4446.2006.00116.x",
+  "doi_url": "https://doi.org/10.1111/j.1468-4446.2006.00116.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1468-4446.2006.00116.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1468-4446.2006.00116.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

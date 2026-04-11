@@ -1,0 +1,30 @@
+{
+  "title": "Negative and Positive Interethnic Contact and the Association of Ethnic Neighbourhood Composition with Trust, Cohesion, and Prejudice",
+  "abstract": "This study extends the literature on the relationship between ethnic neighbourhood composition and cohesion, trust, and prejudice, by considering the influence of both positive and negative interethnic contact. We employ multilevel structural equation modelling, with individuals nested in neighbourhoods, using a unique dataset collected in England in 2017 amongst 1,520 White British and 1,474 Asian British respondents. Our results show that negative interethnic contact, unlike positive interethnic contact, is not related to ethnic neighbourhood composition. Specifically, White British people who live in neighbourhoods with relatively many Asian British people have, as expected, more positive but, encouragingly, not more negative interethnic contact. For Asian people, living in neighbourhoods with relatively many White people is unrelated to both their positive and negative interethnic contact. Furthermore, White and Asian people who have more positive interethnic contact score higher on perceived cohesion, general trust, and outgroup trust and lower on prejudice. The opposite holds true for White and Asian people who have more negative interethnic contact.",
+  "authors": [
+    {
+      "raw": "Kros, Mathijs",
+      "family": "Kros",
+      "given": "Mathijs"
+    },
+    {
+      "raw": "Hewstone, Miles",
+      "family": "Hewstone",
+      "given": "Miles"
+    }
+  ],
+  "authors_text": "Kros, Mathijs; Hewstone, Miles",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcaa032",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa032",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa032",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa032.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

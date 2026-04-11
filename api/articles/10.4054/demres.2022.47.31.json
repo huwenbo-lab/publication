@@ -1,0 +1,30 @@
+{
+  "title": "Adolescent fertility and high school completion in Chile: Exploring gender differences",
+  "abstract": "OBJECTIVE This study has two objectives: first, to estimate the effect of adolescent fertility on high school completion for Chilean adolescents, considering selectivity due to socioeconomic background and prior academic achievement, and, second, to explore the gender differences that exist in this effect. METHODS We use propensity score weighting and regression adjustment to estimate the average treatment effect on the treated groups. We employ a rich dataset built on several administrative sources, covering a cohort of students attending publicly funded schools from 2011 to 2018. RESULTS Considering the samples of men and women separately, we find that a teenage girl who experiences adolescent fertility is 13% less likely to complete high school, whereas the corresponding probability for a teenage boy is only 3%. As compared to boys, girls who experience adolescent fertility also have higher probabilities of delayed high school graduation and dropping out of school. CONCLUSIONS Our analyses indicate that the detrimental effect of adolescent fertility on high school completion is larger for girls than boys in Chile, after taking into consideration the selectivity due to socioeconomic origin and prior academic performance. CONTRIBUTION This is the first study in Chile, and probably the first in Latin America, that directly estimates the difference in the effect of adolescent fertility on educational outcomes for young men and women, considering issues of endogeneity due to treatment selection. Our results point to continuing gender inequity because adolescent mothers suffer more negative effects of fertility than adolescent fathers.",
+  "authors": [
+    {
+      "raw": "Salinas, Viviana",
+      "family": "Salinas",
+      "given": "Viviana"
+    },
+    {
+      "raw": "Jorquera-Samter, Valentina",
+      "family": "Jorquera-Samter",
+      "given": "Valentina"
+    }
+  ],
+  "authors_text": "Salinas, Viviana; Jorquera-Samter, Valentina",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.31",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

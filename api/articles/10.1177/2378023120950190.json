@@ -1,0 +1,45 @@
+{
+  "title": "Staying Informed and Bridging “Social Distance”: Smartphone News Use and Mobile Messaging Behaviors of Flemish Adults during the First Weeks of the COVID-19 Pandemic",
+  "abstract": "The authors explore patterns of smartphone use during the first weeks following the outbreak of the coronavirus disease 2019 pandemic in Belgium, focusing on citizens’ use of smartphones to consume news and to communicate and interact with others. Unique smartphone tracking data from 2,778 Flemish adults reveal that at the height of the outbreak, people used their smartphone on average 45 minutes (28 percent) more than before the outbreak. The number of smartphone pickups remained fairly stable over this period. This means that on average, users did not turn to their smartphones more frequently but used them longer to access news (54 percent increase), social media apps (72 percent increase), messaging apps (64 percent increase), and the voice call feature (44 percent increase). These smartphone use patterns suggest that smartphones are key instruments that help citizens stay informed, in sync, and in touch with society during times of crisis.",
+  "authors": [
+    {
+      "raw": "Ohme, Jakob",
+      "family": "Ohme",
+      "given": "Jakob"
+    },
+    {
+      "raw": "Vanden Abeele, Mariek M. P.",
+      "family": "Vanden Abeele",
+      "given": "Mariek M. P."
+    },
+    {
+      "raw": "Van Gaeveren, Kyle",
+      "family": "Van Gaeveren",
+      "given": "Kyle"
+    },
+    {
+      "raw": "Durnez, Wouter",
+      "family": "Durnez",
+      "given": "Wouter"
+    },
+    {
+      "raw": "De Marez, Lieven",
+      "family": "De Marez",
+      "given": "Lieven"
+    }
+  ],
+  "authors_text": "Ohme, Jakob; Vanden Abeele, Mariek M. P.; Van Gaeveren, Kyle; Durnez, Wouter; De Marez, Lieven",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120950190",
+  "doi_url": "https://doi.org/10.1177/2378023120950190",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120950190",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120950190.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

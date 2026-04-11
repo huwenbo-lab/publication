@@ -1,0 +1,25 @@
+{
+  "title": "A system of model fertility schedules with graphically intuitive parameters",
+  "abstract": "I propose and examine a new family of models for age-specific fertility schedules, in which three index ages determine the schedule's shape. The new system is based on constrained quadratic splines. It has easily interpretable parameters, is flexible e",
+  "authors": [
+    {
+      "raw": "Schmertmann, Carl",
+      "family": "Schmertmann",
+      "given": "Carl"
+    }
+  ],
+  "authors_text": "Schmertmann, Carl",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2003,
+  "doi": "10.4054/demres.2003.9.5",
+  "doi_url": "https://doi.org/10.4054/demres.2003.9.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2003.9.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2003.9.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

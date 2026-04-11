@@ -1,0 +1,35 @@
+{
+  "title": "Assortative mating, residential choice, and ethnic segregation",
+  "abstract": "This paper presents a study of the relationship between assortative mating and ethnic segregation in Stockholm, Sweden. We examine how segregation influences couple formation, where newly cohabiting couples choose to live, and how union formation and mobility jointly influence residential segregation. 1990-2012 Swedish population registers allow us to identify the onset of cohabiting relationships and residential mobility for newly cohabiting couples. Estimates based on two-sex models of assortative mating and discrete choice models of residential mobility reveal that non-Western ethnic groups are largely confined to non-Western partners and to neighborhoods with disproportionately high representations of non-Western groups. Simulations based on our empirical models indicate that assortative mating and residential mobility both contribute to segregation. Tendencies to partner with singles who live nearby and who share the same ethnicity and nativity increase segregation. The results demonstrate how residential segregation and homogamous patterns of union formation are mutually constitutive and suggest that more attention should be paid to family demography when studying segregation.",
+  "authors": [
+    {
+      "raw": "Jarvis, Benjamin F.",
+      "family": "Jarvis",
+      "given": "Benjamin F."
+    },
+    {
+      "raw": "Mare, Robert D.",
+      "family": "Mare",
+      "given": "Robert D."
+    },
+    {
+      "raw": "Nordvik, Monica K.",
+      "family": "Nordvik",
+      "given": "Monica K."
+    }
+  ],
+  "authors_text": "Jarvis, Benjamin F.; Mare, Robert D.; Nordvik, Monica K.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100809",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100809",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100809",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100809.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

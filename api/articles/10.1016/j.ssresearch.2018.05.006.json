@@ -1,0 +1,35 @@
+{
+  "title": "Occupational status benefits of studying abroad and the role of occupational specificity - A propensity score matching approach",
+  "abstract": "Occupational status benefits of student mobility remain uncertain, despite increasing interest in the implications of international student mobility for the reproduction of societal inequality. Since mobile young people are a selective group in terms of socio-economic and achievement-oriented factors, we apply propensity score techniques to test whether German higher education graduates who did or did not study abroad differ in occupational status (based on the Socio-Economic Index of Occupational Status) three years after graduation. Analyses are based on multi-cohort representative data of the German population (Working and Learning in a Changing World). Results confirm a positively biased effect of mobility on early career occupational status driven by compositional differences. Subgroup analyses show that even when accounting for this bias, occupational status returns to mobility are positive for those graduating in occupationally unspecific fields of study. There are no returns for those graduating in occupationally specific fields of study. Findings also suggest that the effect of studying abroad is not homogeneous across the study population. Individuals less likely to study abroad are at the same time more likely to reap the occupational benefits from this experience.",
+  "authors": [
+    {
+      "raw": "Waibel, Stine",
+      "family": "Waibel",
+      "given": "Stine"
+    },
+    {
+      "raw": "Petzold, Knut",
+      "family": "Petzold",
+      "given": "Knut"
+    },
+    {
+      "raw": "Rueger, Heiko",
+      "family": "Rueger",
+      "given": "Heiko"
+    }
+  ],
+  "authors_text": "Waibel, Stine; Petzold, Knut; Rueger, Heiko",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.05.006",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.05.006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.05.006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.05.006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

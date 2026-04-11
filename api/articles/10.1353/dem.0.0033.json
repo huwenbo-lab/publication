@@ -1,0 +1,35 @@
+{
+  "title": "A decomposition method based on a model of continuous change",
+  "abstract": "Abstract A demographic measure is often expressed as a deterministic or stochastic function of multiple variables (covariates), and a general problem (the decomposition problem) is to assess contributions of individual covariates to a difference in the demographic measure (dependent variable) between two populations. We propose a method of decomposition analysis based on an assumption that covariates change continuously along an actual or hypothetical dimension. This assumption leads to a general model that logically justifies the additivity of covariate effects and the elimination of interaction terms, even if the dependent variable itself is a nonadditive function. A comparison with earlier methods illustrates other practical advantages of the method: in addition to an absence of residuals or interaction terms, the method can easily handle a large number of covariates and does not require a logically meaningful ordering of covariates. Two empirical examples show that the method can be applied flexibly to a wide variety of decomposition problems. This study also suggests that when data are available at multiple time points over a long interval, it is more accurate to compute an aggregated decomposition based on multiple subintervals than to compute a single decomposition for the entire study period.",
+  "authors": [
+    {
+      "raw": "Horiuchi, Shiro",
+      "family": "Horiuchi",
+      "given": "Shiro"
+    },
+    {
+      "raw": "Wilmoth, John R.",
+      "family": "Wilmoth",
+      "given": "John R."
+    },
+    {
+      "raw": "Pletcher, Scott D.",
+      "family": "Pletcher",
+      "given": "Scott D."
+    }
+  ],
+  "authors_text": "Horiuchi, Shiro; Wilmoth, John R.; Pletcher, Scott D.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0033",
+  "doi_url": "https://doi.org/10.1353/dem.0.0033",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0033",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0033.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

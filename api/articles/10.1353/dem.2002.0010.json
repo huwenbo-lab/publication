@@ -1,0 +1,40 @@
+{
+  "title": "The effects of kin on child mortality in rural gambia",
+  "abstract": "AbstractWe analyzed data that were collected continuously between 1950 and 1974 from a rural area of the Gambia to determine the effects of kin on child mortality. Multilevel event-history models were used to demonstrate that having a living mother, maternal grandmother, or elder sisters had a significant positive effect on the survival probabilities of children, whereas having a living father, paternal grandmother, grandfather, or elder brothers had no effect. The mother’s remarriage to a new husband had a detrimental effect on child survival, but there was little difference in the mortality rates of children who were born to monogamous or polygynous fathers. The implications of these results for understanding the evolution of human life-history are discussed.",
+  "authors": [
+    {
+      "raw": "Sear, Rebecca",
+      "family": "Sear",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Steele, Fiona",
+      "family": "Steele",
+      "given": "Fiona"
+    },
+    {
+      "raw": "McGregor, Ian A.",
+      "family": "McGregor",
+      "given": "Ian A."
+    },
+    {
+      "raw": "Mace, Ruth",
+      "family": "Mace",
+      "given": "Ruth"
+    }
+  ],
+  "authors_text": "Sear, Rebecca; Steele, Fiona; McGregor, Ian A.; Mace, Ruth",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.1353/dem.2002.0010",
+  "doi_url": "https://doi.org/10.1353/dem.2002.0010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2002.0010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2002.0010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

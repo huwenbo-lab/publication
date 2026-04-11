@@ -1,0 +1,25 @@
+{
+  "title": "The Demographic Intersection of Age, Race, and Immigrant Composition in the United States",
+  "abstract": "This visualization illustrates the proportion of U.S. residents at every age between 0 and 80 years who are foreign born and native born. The author uses a robust cross-sectional sample from the 2022 American Community Survey and groups individuals into nine distinct racial and ethnic (i.e., ethnoracial) groups. Following demographic expectations, age-specific immigrant shares of the total population are largest in midlife. However, across different ethnoracial groups the pattern varies greatly. Among Hispanic White individuals, a presumed immigrant-dominant group, there is no age at which the majority of members are foreign born. Alternatively, among non-Hispanic Asians and Pacific Islanders, Hispanics from other races, and multiracial Hispanics, there is a clear divide between majority foreign-born and majority native-born age groups. These results show the strengths of disaggregating the Hispanic population and the need to consider the intersection of age, race, and immigration when formulating social policy.",
+  "authors": [
+    {
+      "raw": "Brooks, Matthew M.",
+      "family": "Brooks",
+      "given": "Matthew M."
+    }
+  ],
+  "authors_text": "Brooks, Matthew M.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241259653",
+  "doi_url": "https://doi.org/10.1177/23780231241259653",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241259653",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241259653.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

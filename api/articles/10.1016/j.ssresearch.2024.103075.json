@@ -1,0 +1,40 @@
+{
+  "title": "Tracking and social inequalities in school belonging - A difference-in-differences approach",
+  "abstract": "Drawing on ten studies from PIRLS, PISA and TIMSS, we study social inequalities in school belonging in the context of early tracking. We investigate whether a) there are social inequalities in school belonging b) early tracking has an effect on levels of school belonging c) tracking exacerbates social inequalities with respect to school belonging. We constructed a large database which covers a wide range of countries and representative student populations in both primary and secondary schools. We exploit that no country tracks their students in primary school and use a difference-in-differences approach to study the effect of tracking. Our findings show a positive association between students' socioeconomic status and school belonging but no effect for tracking. Likewise, we found no evidence that tracking exacerbates social inequalities in school belonging. Multiverse analysis underlines the general robustness of these findings.",
+  "authors": [
+    {
+      "raw": "Brinkmann, Maximilian",
+      "family": "Brinkmann",
+      "given": "Maximilian"
+    },
+    {
+      "raw": "Huth-Stoeckle, Nora",
+      "family": "Huth-Stoeckle",
+      "given": "Nora"
+    },
+    {
+      "raw": "Schunck, Reinhard",
+      "family": "Schunck",
+      "given": "Reinhard"
+    },
+    {
+      "raw": "Teltemann, Janna",
+      "family": "Teltemann",
+      "given": "Janna"
+    }
+  ],
+  "authors_text": "Brinkmann, Maximilian; Huth-Stoeckle, Nora; Schunck, Reinhard; Teltemann, Janna",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103075",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

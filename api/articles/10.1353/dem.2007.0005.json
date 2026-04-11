@@ -1,0 +1,35 @@
+{
+  "title": "Income dynamics in couples and the dissolution of marriage and cohabitation",
+  "abstract": "Abstract Several studies have shown that a wife’s strong (socio)economic position is associated with an increase in the risk of divorce. Less is known about such effects for cohabiting relationships. Using a unique and large-scale sample of administrative records from The Netherlands, we analyze the link between couples’ income dynamics and union dissolution for married and cohabiting unions over a 10-year period. We find negative effects of household income on separation and positive effects of the woman’s relative income, in line with earlier studies. The shape of the effect of the woman’s relative income, however, depends on the type of union. Movements away from income equality toward a maledominant pattern tend to increase the dissolution risk for cohabiting couples, whereas they reduce the dissolution risk for married couples. Movements away from income equality toward a female-dominant pattern (reverse specialization) increase the dissolution risks for both marriage and cohabitation. The findings suggest that equality is more protective for cohabitation, whereas specialization is more protective for marriage, although only when it fits a traditional pattern. Finally, we find that the stabilizing effects of income equality are more pronounced early in the marriage and that income equality also reduces the dissolution risk for same-sex couples.",
+  "authors": [
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    },
+    {
+      "raw": "Loeve, Anneke",
+      "family": "Loeve",
+      "given": "Anneke"
+    },
+    {
+      "raw": "Manting, Dorien",
+      "family": "Manting",
+      "given": "Dorien"
+    }
+  ],
+  "authors_text": "Kalmijn, Matthijs; Loeve, Anneke; Manting, Dorien",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0005",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

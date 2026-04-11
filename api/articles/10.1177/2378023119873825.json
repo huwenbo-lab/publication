@@ -1,0 +1,30 @@
+{
+  "title": "Sacred Alters: The Effects of Ego Network Structure on Religious and Political Beliefs",
+  "abstract": "Does who we know impact how strongly we believe? The claim seems reasonable, but research linking social network composition to political beliefs has produced conflicting results. We argue that methodological differences in measuring close ties can explain these inconsistencies and that work on the sacred umbrella provides a useful framework for moving forward. The sacred umbrella argues that when people close to you share your religious beliefs, you are shielded from doubt and uncertainty; perhaps the same mechanism also operates for political views. Using General Social Survey data, we find that religious or political discussion network heterogeneity predicts the strength of beliefs associated with one’s religion or political party, respectively. A religiously or politically homogenous network appears to strengthen certain values associated with the belief system.",
+  "authors": [
+    {
+      "raw": "Facciani, Matthew",
+      "family": "Facciani",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Brashears, Matthew E.",
+      "family": "Brashears",
+      "given": "Matthew E."
+    }
+  ],
+  "authors_text": "Facciani, Matthew; Brashears, Matthew E.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119873825",
+  "doi_url": "https://doi.org/10.1177/2378023119873825",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119873825",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119873825.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

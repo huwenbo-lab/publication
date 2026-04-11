@@ -1,0 +1,30 @@
+{
+  "title": "Who responds to fertility-boosting incentives? Evidence from pro-natal policies in Australia",
+  "abstract": "BACKGROUND In the wake of aging societies, pro-natalist policies have been used around the world to promote childbearing in developed countries. Very little research investigates the causal effect of the Australian government's baby bonus policy as a once-off, non-means tested incentive scheme on the observed individual fertility. OBJECTIVE We investigate the role of immigration in raising fertility beyond what could be achieved by the Australian-born population. The impact of this policy is heavily reliant on the effectiveness of monetary incentives in boosting fertility, yet it is not clear who drives this effect. METHODS We utilize triple difference-in-difference (DDD) strategy to evaluate the relationship between childbearing and introduction of the baby bonus in a quasi-experimental setting. We evaluate the quasi-experimental setting by using propensity score matching. RESULTS Our findings highlight the role of immigrant women in driving the success of the policy. Moreover, the impact is found to be highest among immigrant women with low levels of human capital, which diminishes with age. CONCLUSION The results imply that the role of immigrants, especially that of a young workforce, in aging societies may be greater than has been previously attributed.",
+  "authors": [
+    {
+      "raw": "Bonner, Suzanne",
+      "family": "Bonner",
+      "given": "Suzanne"
+    },
+    {
+      "raw": "Sarkar, Dipanwita",
+      "family": "Sarkar",
+      "given": "Dipanwita"
+    }
+  ],
+  "authors_text": "Bonner, Suzanne; Sarkar, Dipanwita",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.18",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

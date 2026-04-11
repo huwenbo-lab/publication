@@ -1,0 +1,40 @@
+{
+  "title": "Modeling the micro-macro link: Understanding macro-level outcomes using randomization tests on micro-level data",
+  "abstract": "Analytical sociology explains macro-level outcomes by referring to micro-level behaviors, and its hypotheses thus take macro-level entities (e.g. groups) as their units of analysis. The statistical analysis of these macro-level units is problematic, since macro units are often few in number, leading to low statistical power. Additionally, micro-level processes take place within macro units, but tests on macro-level units cannot adequately deal with these processes. Consequently, much analytical sociology focuses on testing micro-level predictions. We propose a better alternative; a method to test macro hypotheses on micro data, using randomization tests. The advantages of our method are (i) increased statistical power, (ii) possibilities to control for micro covariates, and (iii) the possibility to test macro hypotheses without macro units. We provide a heuristic description of our method and illustrate it with data from a published study. Data and R scripts for this paper are available in the Open Science Framework (https://osf.io/scfx3/).",
+  "authors": [
+    {
+      "raw": "Dijkstra, Jacob",
+      "family": "Dijkstra",
+      "given": "Jacob"
+    },
+    {
+      "raw": "Bouman, Loes",
+      "family": "Bouman",
+      "given": "Loes"
+    },
+    {
+      "raw": "Bakker, Dieko M.",
+      "family": "Bakker",
+      "given": "Dieko M."
+    },
+    {
+      "raw": "van Assen, Marcel A. L. M.",
+      "family": "van Assen",
+      "given": "Marcel A. L. M."
+    }
+  ],
+  "authors_text": "Dijkstra, Jacob; Bouman, Loes; Bakker, Dieko M.; van Assen, Marcel A. L. M.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.08.013",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.08.013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.08.013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.08.013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

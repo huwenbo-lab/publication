@@ -1,0 +1,35 @@
+{
+  "title": "Does Time with Dad in Childhood Pay Off in Adolescence?",
+  "abstract": "Objective We aim to understand the association between father involvement in middle childhood and adolescent behaviors and whether the relationship differs by father residence. Background Internalizing and externalizing behaviors in adolescence can trigger a cascade of negative outcomes later in life, including lower educational attainment, criminal justice involvement, and future psychological distress. Evidence, largely focusing on nonresidential fathers and older cohort, suggests that father involvement-particularly closeness and engagement-may reduce adolescents' internalizing and externalizing behaviors. Method We use data six waves of the Fragile Families and Child Wellbeing Study, a birth cohort survey representative of births in large U.S. cities between 1998 and 2000, to estimate OLS regression models examining (a) whether father involvement in middle childhood is associated with fewer problem behaviors at Age 15, (b) if the salience of father involvement differs depending on whether the father was present in the home (i.e., was married to or living with his child's mother) in middle childhood, and (c) whether father involvement matters differently based on the child's sex. Results We find protective associations between father involvement and adolescent behavioral outcomes that persist even among children who were not living with their fathers. In models stratified by the child's sex, father involvement matters for both boys and girls. In all models, father presence alone, apart from active involvement, is not significantly associated with behavioral outcomes. Conclusion Father involvement protects against negative adolescent behaviors even among children with nonresidential fathers and for both boys and girls. Implications These results suggest that policies that promote greater father involvement and father-child bonds, rather than other options such as promoting marriage, may be more effective in reducing behavioral problems among adolescents.",
+  "authors": [
+    {
+      "raw": "Gold, Sarah",
+      "family": "Gold",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Edin, Kathryn J.",
+      "family": "Edin",
+      "given": "Kathryn J."
+    },
+    {
+      "raw": "Nelson, Timothy J.",
+      "family": "Nelson",
+      "given": "Timothy J."
+    }
+  ],
+  "authors_text": "Gold, Sarah; Edin, Kathryn J.; Nelson, Timothy J.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12676",
+  "doi_url": "https://doi.org/10.1111/jomf.12676",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12676",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12676.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

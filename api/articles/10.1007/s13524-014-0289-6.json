@@ -1,0 +1,35 @@
+{
+  "title": "Skewed Sex Ratios and Criminal Victimization in India",
+  "abstract": "Abstract Although substantial research has explored the causes of India’s excessively masculine population sex ratio, few studies have examined the consequences of this surplus of males. We merge individual-level data from the 2004–2005 India Human Development Survey with data from the 2001 India population census to examine the association between the district-level male-to-female sex ratio at ages 15 to 39 and self-reports of victimization by theft, breaking and entering, and assault. Multilevel logistic regression analyses reveal positive and statistically significant albeit substantively modest effects of the district-level sex ratio on all three victimization risks. We also find that higher male-to-female sex ratios are associated with the perception that young unmarried women in the local community are frequently harassed. Household-level indicators of family structure, socioeconomic status, and caste, as well as areal indicators of women’s empowerment and collective efficacy, also emerge as significant predictors of self-reported criminal victimization and the perceived harassment of young women. The implications of these findings for India’s growing sex ratio imbalance are discussed.",
+  "authors": [
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    },
+    {
+      "raw": "Trent, Katherine",
+      "family": "Trent",
+      "given": "Katherine"
+    },
+    {
+      "raw": "Bose, Sunita",
+      "family": "Bose",
+      "given": "Sunita"
+    }
+  ],
+  "authors_text": "South, Scott J.; Trent, Katherine; Bose, Sunita",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0289-6",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0289-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0289-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0289-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

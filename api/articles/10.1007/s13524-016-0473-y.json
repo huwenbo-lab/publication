@@ -1,0 +1,30 @@
+{
+  "title": "The Influence of Parental Education on Timing and Type of Union Formation: Changes Over the Life Course and Over Time in the Netherlands",
+  "abstract": "Family background shapes young adults' decisions in their transition to adulthood, and the outcomes of these decisions lay the foundation for their subsequent life course. This study examines the influence of parental education on their children's union formation. We examine the timing of entry into a first union (a married or a cohabiting union), the choice between marriage and cohabitation, and the timing of first marriage. Data from eight nationally representative surveys conducted in the Netherlands are pooled (N = 39,777), with respondents being born between 1930 and 1990, to examine not only the effect of parental education on union formation but also whether this effect changes over birth cohorts, periods, and the life course, and varies by gender. Results from discrete-time hazard analyses show little change in the effect of parental education across cohorts and periods but strong life-course effects. Gender differences in the effect of parental education are relatively small.",
+  "authors": [
+    {
+      "raw": "Mooyaart, Jarl E.",
+      "family": "Mooyaart",
+      "given": "Jarl E."
+    },
+    {
+      "raw": "Liefbroer, Aart C.",
+      "family": "Liefbroer",
+      "given": "Aart C."
+    }
+  ],
+  "authors_text": "Mooyaart, Jarl E.; Liefbroer, Aart C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0473-y",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0473-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0473-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0473-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

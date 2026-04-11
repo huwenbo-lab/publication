@@ -1,0 +1,25 @@
+{
+  "title": "Books Reviewed",
+  "abstract": "A Treatise upon the Diseases of Infancy and Childhood. By J. Lewis Smith, M. D. Philadelphia: Henry C. Lea, 1869. The intention of the author has been to present a description of the diseases of infancy and childhood in a sufficiently succinct manner to meet the requirements of practitioners and medical students. He has incorporated into the treatise all recently ascertained facts in this branch of medical practice, and recommended such modes of treatment as are suggested by our present knowledge of the nature of the diseases of early life. He bases his opinions largely upon his own observa­ tion, which has been sufficiently ample to justify this course; still the opinions of others are duly respected. We have examined the work with very great pleasure, and believe that it will prove a favorite text book in its department. It is most admirably arranged, is sufficiently comprehensive, every where bears the evidences of careful observation and mature thought, while the sound reasoning and good common sense of the author lend to it a force which is convincing. We have not space to speak in detail of any of the new views which have been presented, but assure our readers that the reasoning is sound, and the conclusions based upon adequate observation. We have no work upon the diseases of infancy and childhood which can compare with it, and we most heartily approve it as a text book for the student and as a guide to the physician.",
+  "authors": [
+    {
+      "raw": "WILLIAMS, KEVIN",
+      "family": "WILLIAMS",
+      "given": "KEVIN"
+    }
+  ],
+  "authors_text": "WILLIAMS, KEVIN",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2000,
+  "doi": "10.1177/0038038500034002013",
+  "doi_url": "https://doi.org/10.1177/0038038500034002013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038500034002013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038500034002013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

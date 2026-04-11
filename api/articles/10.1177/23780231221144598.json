@@ -1,0 +1,35 @@
+{
+  "title": "A Seat at the Table: A New Data Set of Social Movement Organization Representation before Congress during the Twentieth Century",
+  "abstract": "The authors ask descriptive questions concerning the relationship between social movement organizations (SMOs) and the state. Which movement’s SMOs are consulted the most by the state? Do only a few “spokes-organizations” speak for the whole of movements? Has the state increasingly consulted SMOs over time? Do the movements consulted most by the state advise only a few state venues? The authors present and describe a new publicly available data set covering 2,593 SMOs testifying at any of the 87,249 public congressional hearings held during the twentieth century. Testimony is highly concentrated across movements, with just four movements giving 64 percent of the testimony before Congress. A very few “spokes-organizations” testify far more often than typical SMOs. The SMO congressional testimony diversified over the twentieth century from primarily “old” movements such as Labor to include “new” movements such as the Environmental movement. The movements that testified most often did so before a broader range of congressional committees.",
+  "authors": [
+    {
+      "raw": "Seguin, Charles",
+      "family": "Seguin",
+      "given": "Charles"
+    },
+    {
+      "raw": "Maher, Thomas V.",
+      "family": "Maher",
+      "given": "Thomas V."
+    },
+    {
+      "raw": "Zhang, Yongjun",
+      "family": "Zhang",
+      "given": "Yongjun"
+    }
+  ],
+  "authors_text": "Seguin, Charles; Maher, Thomas V.; Zhang, Yongjun",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231221144598",
+  "doi_url": "https://doi.org/10.1177/23780231221144598",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221144598",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221144598.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

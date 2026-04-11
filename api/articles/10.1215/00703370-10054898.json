@@ -1,0 +1,35 @@
+{
+  "title": "Socially Connected Neighborhoods and the Spread of Sexually Transmitted Infections",
+  "abstract": "Sexually trans-mit-ted infec-tions (STIs) in the United States have been increas-ing at record levels and exhibit unequal spa-tial pat-tern-ing across urban pop-u-la-tions and neigh-bor-hoods. Research on the effects of res-i-den-tial and nearby neigh-bor-hoods on STI pro-lif-er-a-tion has largely ignored the role of socially connected con-texts, even though neigh-bor-hoods are rou-tinely linked by indi-vid-u-als' move-ments across space for work and other social activ-i-ties. We show-case how com-mut-ing and pub-lic tran-sit net-works con-trib-ute to the social spill-over of STIs in Chicago. Examining data on all-employee-employer loca-tion links recorded yearly by the Census Bureau for more than a decade, we assess net-work spill-over effects of local com-mu-nity STI rates on interconnected com-mu-ni-ties. Spatial and net-work autoregressive mod-els show that expo-sure to STIs in geo-graph-i-cally prox-i-mate and socially prox-i-mate com-mu-ni-ties con-trib-utes to increases in local STI levels, even net of socio-eco-nomic and demographic fac-tors and prior STIs. These find-ings sug-gest that geo-graph-i-cally prox-i-mate and socially connected com-mu-ni-ties influ-ence one another's infec-tion rates through social spill-over effects.",
+  "authors": [
+    {
+      "raw": "Newmyer, Lauren",
+      "family": "Newmyer",
+      "given": "Lauren"
+    },
+    {
+      "raw": "Evans, Megan",
+      "family": "Evans",
+      "given": "Megan"
+    },
+    {
+      "raw": "Graif, Corina",
+      "family": "Graif",
+      "given": "Corina"
+    }
+  ],
+  "authors_text": "Newmyer, Lauren; Evans, Megan; Graif, Corina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10054898",
+  "doi_url": "https://doi.org/10.1215/00703370-10054898",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10054898",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10054898.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

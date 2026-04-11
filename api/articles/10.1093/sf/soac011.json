@@ -1,0 +1,30 @@
+{
+  "title": "Social Consequences of Homeownership: Evidence from the Home Ownership Scheme in Hong Kong",
+  "abstract": "Homeownership is expected to provide a wide range of social benefits. However, the empirical evidence for causation is weak, and knowledge beyond Western countries is even more limited. This article investigates how homeownership affects life satisfaction and subjective class identification in Hong Kong. The Home Ownership Scheme, a large-scale subsidized homeownership program based on a random draw, represents a quasi-experimental setting to identify the causal impact of homeownership. Based on the analyses of data from four waves of the Hong Kong Panel Study of Social Dynamics (HKPSSD) and instrumental variable estimation, we show that homeownership significantly improves life satisfaction among Hong Kong adults, and that those who own a home deem themselves as belonging to a higher social class. This study contributes to the understanding of homeownership effects by providing causal evidence from a Chinese society and sheds light on the effectiveness of housing policies that aim to promote homeownership in Hong Kong and beyond.",
+  "authors": [
+    {
+      "raw": "Miao, Jia",
+      "family": "Miao",
+      "given": "Jia"
+    },
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    }
+  ],
+  "authors_text": "Miao, Jia; Wu, Xiaogang",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soac011",
+  "doi_url": "https://doi.org/10.1093/sf/soac011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

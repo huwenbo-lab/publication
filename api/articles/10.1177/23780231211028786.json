@@ -1,0 +1,30 @@
+{
+  "title": "Horseshoe Patterns: Visualizing Partisan Media Trust in Germany",
+  "abstract": "A trusted media is crucial for a politically informed citizenry, yet media trust has become fragile in many Western countries. An underexplored aspect is the link between media (dis)trust and populism. The authors visualize media trust across news outlets and partisanship in Germany, for both mainstream and “alternative” news sources. For each source, average trust is grouped by partisanship and sorted from left to right, allowing within-source comparisons. The authors find an intriguing horseshoe pattern for mainstream media sources, for which voters of both populist left-wing and right-wing parties express lower levels of trust. The underlying distribution of individual responses reveals that voters of the right-wing populist party are especially likely to “not at all” trust the mainstream outlets that otherwise enjoy high levels of trust. The media trust gap between populist and centrist voters disappears for alternative sources, for which trust is generally low.",
+  "authors": [
+    {
+      "raw": "Clemm von Hohenberg, Bernhard",
+      "family": "Clemm von Hohenberg",
+      "given": "Bernhard"
+    },
+    {
+      "raw": "Bauer, Paul C.",
+      "family": "Bauer",
+      "given": "Paul C."
+    }
+  ],
+  "authors_text": "Clemm von Hohenberg, Bernhard; Bauer, Paul C.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211028786",
+  "doi_url": "https://doi.org/10.1177/23780231211028786",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211028786",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211028786.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

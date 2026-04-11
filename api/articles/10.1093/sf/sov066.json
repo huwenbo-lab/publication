@@ -1,0 +1,30 @@
+{
+  "title": "The Demography of Grandparenthood: An International Profile",
+  "abstract": "This comparative study addressed three open questions about the demography of grandparenthood in contemporary societies: First, at what age do people become grandparents? Second, how is grandparenthood sequenced with other transitions in later life? Third, how long is the grandparent life stage? To answer these questions, we analyzed retrospective data from the United States (NSFH) and 24 European countries (GGS, ESS, DEAS). Using survival methods, we estimated (1) age at grandparenthood; (2) demographic overlap with parenting, worker, and filial roles; and (3) expected length of the grandparent life stage. Three central findings emerged from the analysis: First, the timing of grandparenthood varies strongly across countries. Cross-national differences in the median age at grandparenthood are larger than in age at parenthood, age at retirement, and life expectancy. Compared to the United States (49 years among women, 52 years among men), grandparenthood in Eastern Europe occurs up to three years earlier in life; in Western Europe, up to eight years later. Second, cross-national variation in the life-course context of grandparenthood is less pronounced. In all countries, grandparenthood overlaps rarely with active parenting but frequently with worker and filial roles. Third, the length of the grandparent life stage is more strongly influenced by the timing of fertility than by the timing of mortality. The longest years of life shared with grandchildren (35 years) are expected among grandmothers in East Germany and the United States; the shortest (21 years) among grandfathers in West Germany and Spain.",
+  "authors": [
+    {
+      "raw": "Leopold, Thomas",
+      "family": "Leopold",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Skopek, Jan",
+      "family": "Skopek",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Leopold, Thomas; Skopek, Jan",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sov066",
+  "doi_url": "https://doi.org/10.1093/sf/sov066",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov066",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov066.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

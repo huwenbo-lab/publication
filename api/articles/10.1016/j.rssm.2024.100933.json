@@ -1,0 +1,25 @@
+{
+  "title": "Adding experiments to the classical survey-interview mix: A three-method design for supporting micro-to-macro explanations in sociology",
+  "abstract": "The aim of this programmatic article is to spell out a three-method design for supporting micro-to-macro explanations based on social mechanisms. In this design, the experimental method is called on to strengthen the explanatory basis of the common survey-interview mix, against the background of growing interest in causal inference and experimentation across the social sciences. The proposal is articulated through the specific problem of the contribution of discrimination (micro process) to the generation of inequalities in mental health (macro outcome) between culturally stigmatized and non-stigmatized groups (macro predictor). The article motivates the research problem and the three-method design, offering a detailed discussion of the limitations of survey-based measures of perceived discrimination. Drawing on the literature on mixed methods, the relationships between the survey, the interview-based study and the field experiment are analyzed in terms of triangulation, development, and complementarity. The broader applicability of the proposed three-method design is illustrated with examples from the distinct fields of civic engagement and labor market inequalities.",
+  "authors": [
+    {
+      "raw": "Aranguren, Martin",
+      "family": "Aranguren",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Aranguren, Martin",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100933",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100933",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100933",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100933.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The Effect of Family Member Migration on Education and Work Among Nonmigrant Youth in Mexico",
+  "abstract": "AbstractWhile academic and policy circles have given much attention to the assimilatory experiences of Mexican immigrants in the United States, less is known about those who stay behind—an especially unfortunate oversight given the increasing number of Mexican youth with migrant family members. Of the studies on this topic, most have sought to identify the effect that migration has on youths’ migratory and educational aspirations, often using qualitative methods in individual sending communities. The present article supplements this research in two ways: (1) in addition to assessing educational outcomes, the scope of the analysis is expanded to include nonmigrants’ interaction with another homeland institution of upward mobility: the labor market; and (2) using a large demographic data set, statistical techniques are employed to adjust for unobserved selectivity into the migrant family-member population, thus accounting for a potentially serious source of bias. The results suggest that youth in migrant-sending families are less likely to complete the educational transitions leading up to postsecondary school and have a lower probability of participating in the local economy. The results also indicate that unobserved factors play a “nonignorable” role in sorting youth into migrant and nonmigrant families.",
+  "authors": [
+    {
+      "raw": "Halpern-Manners, Andrew",
+      "family": "Halpern-Manners",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Halpern-Manners, Andrew",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-010-0010-3",
+  "doi_url": "https://doi.org/10.1007/s13524-010-0010-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-010-0010-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-010-0010-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

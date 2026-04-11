@@ -1,0 +1,25 @@
+{
+  "title": "Be true to your school: School profiling and school sorting by socio-economic status",
+  "abstract": "Many national education systems have schools that adopt distinctive elements like alternative pedagogical concepts or specialty themes. This school profiling is suggested to drive school segregation by socio-economic status (SES). Since most existing research has focused on U.S. charter schools and lacks large-scale student-level data, the connection between profiling and SES-based school sorting remains unclear. This study addresses this gap by focusing on the case of the Netherlands, a country known for its high school autonomy and freedom of school choice. I use population-wide register data from over 110,000 students (aged 11-12), linked to novel data on school profiling. The findings reveal social stratification in access to schools with distinctive profiles, with higher-SES students having access to a more diverse pool of schools. Furthermore, conditional logit models show evidence of self-sorting by SES for some profiles: for instance, schools with progressive learning concepts are less popular among lower-SES students, while higher-SES students are comparatively less likely to choose labor market-themed schools. These SES disparities, however, are modest and not always in the expected direction. Overall, findings underscore the role of access disparities in shaping SES-based sorting, next to differential preferences for schooling.",
+  "authors": [
+    {
+      "raw": "Zwier, Dieuwke",
+      "family": "Zwier",
+      "given": "Dieuwke"
+    }
+  ],
+  "authors_text": "Zwier, Dieuwke",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103239",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103239",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103239",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103239.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

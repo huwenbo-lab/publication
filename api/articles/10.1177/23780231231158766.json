@@ -1,0 +1,55 @@
+{
+  "title": "Increased Age Heaping in Mobile Phone Surveys Conducted in Low-Income and Middle-Income Countries",
+  "abstract": "Since the beginning of the coronavirus disease 2019 pandemic, the number of surveys conducted remotely by mobile phone in low-income and middle-income countries has increased rapidly. This shift has helped sustain data collection despite restrictions on mobility and interactions. It might also allow collecting data more frequently on important demographic and socioeconomic topics. However, conducting interviews by mobile phone might affect the accuracy of reported data, for example, if respondents have difficulties understanding questions asked remotely, or data collectors have less time to probe and cross-check answers. In this visualization, the authors explore time trends in age heaping, a strong signal of reporting errors, in six African countries. They show that mobile phone surveys have generated noisier data on age than recent household surveys and censuses, thus possibly affecting researchers’ understanding of demographic processes and confounding multivariate analyses of socioeconomic outcomes.",
+  "authors": [
+    {
+      "raw": "Helleringer, Stéphane",
+      "family": "Helleringer",
+      "given": "Stéphane"
+    },
+    {
+      "raw": "Lau, Samantha W.",
+      "family": "Lau",
+      "given": "Samantha W."
+    },
+    {
+      "raw": "Luhar, Shammi",
+      "family": "Luhar",
+      "given": "Shammi"
+    },
+    {
+      "raw": "Banda, Jethro",
+      "family": "Banda",
+      "given": "Jethro"
+    },
+    {
+      "raw": "Lankoande, Bruno",
+      "family": "Lankoande",
+      "given": "Bruno"
+    },
+    {
+      "raw": "Tlhajoane, Malebogo",
+      "family": "Tlhajoane",
+      "given": "Malebogo"
+    },
+    {
+      "raw": "Reniers, Georges",
+      "family": "Reniers",
+      "given": "Georges"
+    }
+  ],
+  "authors_text": "Helleringer, Stéphane; Lau, Samantha W.; Luhar, Shammi; Banda, Jethro; Lankoande, Bruno; Tlhajoane, Malebogo; Reniers, Georges",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231158766",
+  "doi_url": "https://doi.org/10.1177/23780231231158766",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231158766",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231158766.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

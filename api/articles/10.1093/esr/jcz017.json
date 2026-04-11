@@ -1,0 +1,35 @@
+{
+  "title": "Income Mobility and Moving to a Better Neighbourhood: An Enquiry into Ethnic Differences in Finland",
+  "abstract": "The spatial concentration of immigrants in disadvantaged neighbourhoods may hinder their opportunities for social and economic integration. It is therefore important that immigrants can translate their available economic resources into mobility to less disadvantaged neighbourhoods. This study adds to existing research on the relationship between socioeconomic and spatial integration by focusing on the effects of income mobility on residential mobility. We analyse intra-urban residential mobility from low-income neighbourhoods into non-low-income neighbourhoods among immigrants and native-born residents in three urban regions in Finland. We use longitudinal register data for the 2004-2014 period for the full population, allowing a dynamic analysis of changes in income and neighbourhood of residence. Based on fixed-effects multinomial logit modelling of residential outcomes, we found that upward income mobility is connected to exit from low-income areas, but the effect is stronger among the native-born Finns than among those with an immigrant background. This stronger effect for natives is in contrast to findings of previous European studies, suggesting that these might have been influenced by unobserved individual-level heterogeneity. Our findings imply that both policies improving labour market opportunities of immigrants and policies reducing constraints for spatial integration are needed if the aim is to decrease ethnic residential segregation.",
+  "authors": [
+    {
+      "raw": "Vaalavuo, Maria",
+      "family": "Vaalavuo",
+      "given": "Maria"
+    },
+    {
+      "raw": "van Ham, Maarten",
+      "family": "van Ham",
+      "given": "Maarten"
+    },
+    {
+      "raw": "Kauppinen, Timo M.",
+      "family": "Kauppinen",
+      "given": "Timo M."
+    }
+  ],
+  "authors_text": "Vaalavuo, Maria; van Ham, Maarten; Kauppinen, Timo M.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcz017",
+  "doi_url": "https://doi.org/10.1093/esr/jcz017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

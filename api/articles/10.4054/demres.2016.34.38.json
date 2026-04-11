@@ -1,0 +1,35 @@
+{
+  "title": "Convergence in male and female life expectancy: Direction, age pattern, and causes",
+  "abstract": "BACKGROUND The cornerstone of mortality- and life-expectancy forecasting in developed nations, the Lee-Carter model relies on assumptions of there being a dominant singular value that captures most of the variance within a matrix of age-specific mortality rates over time and that the time trend captured by this lead singular value is constant. We revisit the model's predictive ability and trends in mortality decline among developed nations since the end of the Cold War. OBJECTIVE To understand the predictive power of the Lee-Carter model with mortality trends since 1990. METHODS Mortality data were obtained from the Human Mortality Database. Forecasts were made using R with random walk forecasts using the package forecast. RESULTS While Lee-Carter forecasts of life expectancy for combined sexes were accurate, sex-specific forecasts tended to somewhat overestimate for females and significantly underestimate for males. Further investigation of the trend for males shows that the first singular value continues to capture the majority of the variation in mortality since 1990, with progress along this dimension moving at a constant rate. CONCLUSIONS Lee-Carter forecasts have significantly underestimated gains in male life expectancy without major changes to the model's assumptions. We believe this represents more rapid progress in tackling male mortality in the G7 countries without major changes to the age pattern of these gains. Curiously, this has not affected combined-sex forecasts, potentially being offset by slight overestimation of female mortality progress. CONTRIBUTION We show that the Lee-Carter model has made inaccurate forecasts of mortality rates unrelated to violations of its underlying assumptions.",
+  "authors": [
+    {
+      "raw": "Seligman, Benjamin",
+      "family": "Seligman",
+      "given": "Benjamin"
+    },
+    {
+      "raw": "Greenberg, Gabi",
+      "family": "Greenberg",
+      "given": "Gabi"
+    },
+    {
+      "raw": "Tuljapurkar, Shripad",
+      "family": "Tuljapurkar",
+      "given": "Shripad"
+    }
+  ],
+  "authors_text": "Seligman, Benjamin; Greenberg, Gabi; Tuljapurkar, Shripad",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.38",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.38",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.38",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.38.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

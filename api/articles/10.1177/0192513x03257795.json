@@ -1,0 +1,30 @@
+{
+  "title": "Interactive Effects of Gender Ideology and Age at First Marriage on Women’s Marital Disruption",
+  "abstract": "A sample of ever-married women from the NLSY79 is analyzed to examine the effects of age at first marriage and gender ideology on the likelihood of experiencing marital disruption. The authors hypothesize that age at first marriage will have no effect on the likelihood of experiencing marital disruption for non-traditional women, but that there will be a strong negative effect for traditional women. The authors use the log-rate model for piecewise-constant rates to estimate the log odds of respondents’ hazard for experiencing a marital disruption separately for each of the three gender ideologygroups.Findingssuggest that ageat first marriage affects women’s likelihood of marital disruption contingent upon gender ideology. It is suggested that gender ideology is a lens through which women view the world and make decisions and that within each ideology category the factors that affect likelihood of divorce may differ as a result.",
+  "authors": [
+    {
+      "raw": "Davis, Shannon N.",
+      "family": "Davis",
+      "given": "Shannon N."
+    },
+    {
+      "raw": "Greenstein, Theodore N.",
+      "family": "Greenstein",
+      "given": "Theodore N."
+    }
+  ],
+  "authors_text": "Davis, Shannon N.; Greenstein, Theodore N.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2004,
+  "doi": "10.1177/0192513x03257795",
+  "doi_url": "https://doi.org/10.1177/0192513x03257795",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x03257795",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x03257795.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

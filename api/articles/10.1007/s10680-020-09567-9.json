@@ -1,0 +1,25 @@
+{
+  "title": "Use of Counterfactual Population Projections for Assessing the Demographic Determinants of Population Ageing",
+  "abstract": "AbstractCounterfactual population projections have been used to estimate the contributions of fertility and mortality to population ageing, a method recently designated as the gold standard for this purpose. We analyse projections with base years between 1850 and 1950 for 11 European countries with long-run demographic data series to estimate the robustness of this approach. We link this approach with stable population theory to derive quantitative indicators of the role of fertility and mortality; consider ways of incorporating net migration; and examine the effect of using alternative indicators of population ageing. A number of substantive and technical weaknesses in the counterfactual projection approach are identified: (1) the conclusions are very sensitive to the choice of base year. Specifically, the level of base year fertility has a major influence on whether fertility or mortality is considered the main driver of population ageing. (2) The method is not transitive: results for two adjacent intervals are unrelated to results for the combined period. Therefore, overall results cannot be usefully allocated between different sub-intervals. (3) Different ageing indices tend to produce similar qualitative conclusions, but quantitative results may differ markedly. (4) Comparisons of alternative models should be with a fixed fertility and mortality projection model rather than with the baseline values as usually done. (5) The standard counterfactual projections approach concatenates the effects of initial age structure and subsequent fertility and mortality rates: methods to separate these components are derived.",
+  "authors": [
+    {
+      "raw": "Murphy, Michael",
+      "family": "Murphy",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Murphy, Michael",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2020,
+  "doi": "10.1007/s10680-020-09567-9",
+  "doi_url": "https://doi.org/10.1007/s10680-020-09567-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-020-09567-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-020-09567-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

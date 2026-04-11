@@ -1,0 +1,25 @@
+{
+  "title": "A Simulation Approach for the Spatial Testing of Migration Theories",
+  "abstract": "Abstract Migration research has long been divided between studies of drivers, which focus on the factors shaping migration flows, and studies of patterns, which describe how these flows are organised across space. Theories of migration typically identify and operationalise drivers, but are often less explicit about patterns. As a result, migration theories are usually evaluated using goodness-of-fit measures that assess explanatory power but pay limited attention to spatial accuracy. This article addresses this limitation by introducing a simulation-based procedure to evaluate the spatial accuracy of migration theories. Starting from an observed system of origin–destination migration flows, the procedure generates synthetic systems that reflect the spatial outcomes implied by a given theory. These synthetic migration systems are then compared to the observed case to assess spatial accuracy. The procedure is applied to intra-European migration flows from 2002 to 2021 and illustrated using two long-standing migration theories: the gravity model and migration systems theory. Both theories achieve high explanatory power under conventional goodness-of-fit metrics, and migration systems theory performs better overall. However, the empirical analysis shows that both theories fail to reproduce important spatial features of the European context, including the high level of reciprocity of flows and the observed migration profiles of Eastern and Northern European countries. These findings highlight how strong statistical fit does not imply accurate spatial representation. Evaluating migration theories through their implied spatial outcomes provides new insights into their limitations and offers a complementary and integrative tool for migration research.",
+  "authors": [
+    {
+      "raw": "Morellini, Micol Matilde",
+      "family": "Morellini",
+      "given": "Micol Matilde"
+    }
+  ],
+  "authors_text": "Morellini, Micol Matilde",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2026,
+  "doi": "10.1007/s10680-026-09770-0",
+  "doi_url": "https://doi.org/10.1007/s10680-026-09770-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-026-09770-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-026-09770-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

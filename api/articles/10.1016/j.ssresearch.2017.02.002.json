@@ -1,0 +1,30 @@
+{
+  "title": "Decoupling reconsidered: Does world society integration influence the relationship between the environment and economic development?",
+  "abstract": "This study advances scholarship on environment and development by examining whether nations more embedded in the pro-environmental world society are more or less likely to experience a relative decoupling between economic development and carbon emissions over time. The authors calculate a network centrality measure using national-level membership data on environmental international nongovernmental organizations (INGOs), and then employ the measure to create four subsamples of nations that are relatively more or less integrated in the environmental world society. The authors use interactions between measures of economic development and time in two-way fixed effects models to estimate the potentially changing effects of development on carbon emissions for the four subsamples of nations from 1970 to 2009. Results indicate that nations that are the most embedded in the environmental world society experienced a moderate decrease through time in the effect of development on carbon emissions, while the effect of development on emissions increased through time in the most peripheral nations. (C) 2017 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Longhofer, Wesley",
+      "family": "Longhofer",
+      "given": "Wesley"
+    },
+    {
+      "raw": "Jorgenson, Andrew",
+      "family": "Jorgenson",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Longhofer, Wesley; Jorgenson, Andrew",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2017.02.002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.02.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.02.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.02.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

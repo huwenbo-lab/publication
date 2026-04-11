@@ -1,0 +1,40 @@
+{
+  "title": "Disease Incidence and Mortality Among Older Americans and Europeans",
+  "abstract": "Recent research has shown a widening gap in life expectancy at age 50 between the United States and Europe as well as large differences in the prevalence of diseases at older ages. Little is known about the processes determining international differences in the prevalence of chronic diseases. Higher prevalence of disease could result from either higher incidence or longer disease-specific survival. This article uses comparable longitudinal data from 2004 and 2006 for populations aged 50 to 79 from the United States and from a selected group of European countries to examine age-specific differences in prevalence and incidence of heart disease, stroke, lung disease, diabetes, hypertension, and cancer as well as mortality associated with each disease. Not surprisingly, we find that Americans have higher disease prevalence. For heart disease, diabetes, and cancer, incidence is lower in Europe when we control for sociodemographic and health behavior differences in risk, and these differences explain much of the prevalence gap at older ages. On the other hand, incidence is higher in Europe for lung disease and not different between Europe and the United States for hypertension and stroke. Our findings do not suggest a survival advantage conditional on disease in Europe compared with the United States. Therefore, the origin of the higher disease prevalence at older ages in the United States is to be found in higher prevalence earlier in the life course and, for some conditions, higher incidence between ages 50 and 79.",
+  "authors": [
+    {
+      "raw": "Sole-Auro, Aida",
+      "family": "Sole-Auro",
+      "given": "Aida"
+    },
+    {
+      "raw": "Michaud, Pierre-Carl",
+      "family": "Michaud",
+      "given": "Pierre-Carl"
+    },
+    {
+      "raw": "Hurd, Michael",
+      "family": "Hurd",
+      "given": "Michael"
+    },
+    {
+      "raw": "Crimmins, Eileen",
+      "family": "Crimmins",
+      "given": "Eileen"
+    }
+  ],
+  "authors_text": "Sole-Auro, Aida; Michaud, Pierre-Carl; Hurd, Michael; Crimmins, Eileen",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0372-7",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0372-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0372-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0372-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

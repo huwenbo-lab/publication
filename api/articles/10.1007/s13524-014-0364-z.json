@@ -1,0 +1,35 @@
+{
+  "title": "The Impact of Married Individuals Learning HIV Status in Malawi: Divorce, Number of Sexual Partners, and Condom Use With Spouses",
+  "abstract": "This article assesses how married individuals' knowledge of HIV status gained through HIV testing and counseling (HTC) affects divorce, the number of sexual partners, and the use of condoms within marriage. This study improves upon previous studies on this topic because the randomized incentives affecting the propensity to be tested for HIV permit control for selective testing. Instrumental variable probit and linear models are estimated, using a randomized experiment administered as part of the Malawi Longitudinal Study of Families and Health (MLSFH). The results indicate that knowledge of HIV status (1) does not affect chances of divorce for either HIV-negative or HIV-positive respondents; (2) reduces the number of reported sexual partners among HIV-positive respondents; and (3) increases reported condom use with spouses for both HIV-negative and HIV-positive respondents. These results imply that individuals actively respond to information about their HIV status that they learn during HTC, invoking protective behavior against future risk of HIV/AIDS for themselves and their actual and potential sexual partners. Some limitations of this study are a small sample size for those who are HIV-positive and dependence on self-reported sexual behaviors.",
+  "authors": [
+    {
+      "raw": "Fedor, Theresa M.",
+      "family": "Fedor",
+      "given": "Theresa M."
+    },
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    },
+    {
+      "raw": "Behrman, Jere R.",
+      "family": "Behrman",
+      "given": "Jere R."
+    }
+  ],
+  "authors_text": "Fedor, Theresa M.; Kohler, Hans-Peter; Behrman, Jere R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-014-0364-z",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0364-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0364-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0364-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

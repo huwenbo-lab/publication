@@ -1,0 +1,40 @@
+{
+  "title": "State-level changes in US racial and ethnic diversity, 1980 to 2015: A universal trend?",
+  "abstract": "BACKGROUND Few studies have examined long-term changes in ethnoracial diversity for US states despite the potential social, economic, and political ramifications of such changes at the state level. OBJECTIVE We describe shifts in diversity magnitude and structure from 1980 through 2015 to determine if states are following a universal upward path. METHODS Decennial census data for 1980. 2010 and American Community Survey data for 2015 are used to compute entropy index (E) and Simpson index (S) measures of diversity magnitude based on five panethnic populations. A typology characterizes the racial/ethnic structure of states. RESULTS While initial diversity level and subsequent pace of change vary widely, every state has increased in diversity magnitude since 1980. A dramatic decline in the number of predominantly white states has been accompanied by the rise of states with multigroup structures that include Hispanics. These diverse states are concentrated along the coasts and across the southern tier of the country. Differences in panethnic population growth (especially rapid Hispanic and Asian growth coupled with white stability) drive the diversification trend. CONCLUSIONS The diversity hierarchy among states has remained relatively stable over the past 35 years in the face of universal gains in diversity magnitude and the increasing heterogeneity of racial/ethnic structures. CONTRIBUTION We document ethnoracial diversity patterns at an understudied geographic scale, the state level, where diversity may have important consequences across a range of institutional domains.",
+  "authors": [
+    {
+      "raw": "Lee, Barrett A.",
+      "family": "Lee",
+      "given": "Barrett A."
+    },
+    {
+      "raw": "Martin, Michael J. R.",
+      "family": "Martin",
+      "given": "Michael J. R."
+    },
+    {
+      "raw": "Matthews, Stephen A.",
+      "family": "Matthews",
+      "given": "Stephen A."
+    },
+    {
+      "raw": "Farrell, Chad R.",
+      "family": "Farrell",
+      "given": "Chad R."
+    }
+  ],
+  "authors_text": "Lee, Barrett A.; Martin, Michael J. R.; Matthews, Stephen A.; Farrell, Chad R.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.33",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

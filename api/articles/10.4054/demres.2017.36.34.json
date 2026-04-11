@@ -1,0 +1,25 @@
+{
+  "title": "Best-practice life expectancy: An extreme value approach",
+  "abstract": "BACKGROUND Whereas the rise in human life expectancy has been extensively studied, the evolution of maximum life expectancies, i.e., the rise in best-practice life expectancy in a group of populations, has not been examined to the same extent. The linear rise in best-practice life expectancy has been reported previously by various authors. Though remarkable, this is simply an empirical observation. OBJECTIVE We examine best-practice life expectancy more formally by using extreme value theory. METHODS Extreme value distributions are fit to the time series (1900 to 2012) of maximum life expectancies at birth and age 65, for both sexes, using data from the Human Mortality Database and the United Nations. CONCLUSIONS Generalized extreme value distributions offer a theoretically justified way to model bestpractice life expectancies. Using this framework one can straightforwardly obtain probability estimates of best-practice life expectancy levels or make projections about future maximum life expectancy. COMMENTS Our findings may be useful for policymakers and insurance/ pension analysts who would like to obtain estimates and probabilities of future maximum life expectancies.",
+  "authors": [
+    {
+      "raw": "Medford, Anthony",
+      "family": "Medford",
+      "given": "Anthony"
+    }
+  ],
+  "authors_text": "Medford, Anthony",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.34",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.34",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.34",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.34.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

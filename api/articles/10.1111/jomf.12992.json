@@ -1,0 +1,35 @@
+{
+  "title": "Parental identity and socialization mediate parental racial discrimination's impact on child adjustment",
+  "abstract": "ObjectiveThe study explored the mediating role of Chinese American parents' ethnic-racial identity (ERI) in linking their discrimination experiences, ethnic-racial socialization (ERS), and their children's mental health, testing whether neighborhood racial diversity and perceived Chinese density moderated these mediation paths.BackgroundDuring COVID-19, Chinese American families faced increased discrimination, impacting their mental well-being. However, few studies have examined how parents' discrimination experiences influence their ERI, ERS practice, and ultimately their children's mental health difficulties.MethodData from 294 Chinese immigrant parents (Mage = 44.28, 79% female) were collected in two waves, 2020 and 2021. Path analysis tested if parental discrimination affects their ERI and ERS, and children's mental health. Multigroup analysis assessed if mediation models varied for families living in communities with low versus high racial diversity or Chinese density.ResultsParental racism-related stress at T1 had significant indirect effects on parental ERS practices (higher use of maintenance of heritage culture and lower use of avoidance of outgroups practice) at T2 via parental ERI (greater private regard) at T2. Parental racial discrimination (perceived sinophobia in the media and racism-related stress) at T1 had significant indirect effects on children's mental health difficulties at T2 via parental ERS practices (use of maintenance of heritage culture and avoidance of outgroups practices) at T2. The neighborhood racial diversity moderated the mediation model.ConclusionThese findings advance the understanding of both individual (i.e., parental ERI) and contextual factors (i.e., neighborhood racial diversity) in the complex associations between parents' discrimination experiences and children's mental health difficulties.",
+  "authors": [
+    {
+      "raw": "Zhu, Qianyu",
+      "family": "Zhu",
+      "given": "Qianyu"
+    },
+    {
+      "raw": "Wang, Cixin",
+      "family": "Wang",
+      "given": "Cixin"
+    },
+    {
+      "raw": "Cheah, Charissa S. L.",
+      "family": "Cheah",
+      "given": "Charissa S. L."
+    }
+  ],
+  "authors_text": "Zhu, Qianyu; Wang, Cixin; Cheah, Charissa S. L.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12992",
+  "doi_url": "https://doi.org/10.1111/jomf.12992",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12992",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12992.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

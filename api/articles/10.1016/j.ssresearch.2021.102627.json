@@ -1,0 +1,40 @@
+{
+  "title": "Do high childcare costs and low access to Head Start and childcare subsidies limit mothers' employment? A state-level analysis",
+  "abstract": "Access to affordable childcare is crucial to mothers' employment. Yet, childcare costs and access to Head Start, childcare subsidies, and state-funded preschool vary dramatically across U.S. states. Using data from the 2016 American Community Survey five-year estimates, we apply hierarchical logistic regression models to show mothers are more likely to work in states with inexpensive childcare, higher Head Start enrollment and childcare subsidy participation, and increased availability of state-funded preschool. Childcare subsidy access is associated with higher maternal employment amongst those with lower levels of educational attainment, whereas state-funded preschool is associated with higher employment primarily among the college educated. Additionally, our analysis revealed that Head Start has a stronger association with maternal employment in states where childcare costs are high, reducing the negative relationship of employment with expensive childcare. As national discussions continue to center on the importance of childcare, our research adds evidence that public programs support maternal employment through reducing out-of-pocket childcare costs.",
+  "authors": [
+    {
+      "raw": "Landivar, Liana Christin",
+      "family": "Landivar",
+      "given": "Liana Christin"
+    },
+    {
+      "raw": "Scarborough, William J.",
+      "family": "Scarborough",
+      "given": "William J."
+    },
+    {
+      "raw": "Collins, Caitlyn",
+      "family": "Collins",
+      "given": "Caitlyn"
+    },
+    {
+      "raw": "Ruppanner, Leah",
+      "family": "Ruppanner",
+      "given": "Leah"
+    }
+  ],
+  "authors_text": "Landivar, Liana Christin; Scarborough, William J.; Collins, Caitlyn; Ruppanner, Leah",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102627",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102627",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102627",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102627.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

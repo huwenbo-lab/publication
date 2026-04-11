@@ -1,0 +1,25 @@
+{
+  "title": "Tied Together: Adolescent Friendship Networks, Immigrant Status, and Health Outcomes",
+  "abstract": "This study examines the social integration of adolescent immigrants by directly analyzing the composition of their friendship networks. Using statistical network analysis, I first consider whether adolescents are more likely to befriend peers who share their immigrant generation status in a large, diverse sample of 7th through 12th graders from the National Longitudinal Study of Adolescent to Adult Health (n = 67,586). Next, I test whether having a higher proportion of same-generation friends can protect immigrant youth from experiencing negative health outcomes and adopting risky behaviors. Results indicate that adolescents are more likely to form friendships with peers who share their immigrant generation status and that this tendency is particularly strong for first-generation immigrants. Furthermore, immigrant youth with greater proportions of same-generation friends are less likely to report several negative health behaviors and outcomes. My findings suggest that same-generation friendships can serve as a protective mechanism for immigrant youth, which may help explain the existence of an immigrant health paradox.",
+  "authors": [
+    {
+      "raw": "McMillan, Cassie",
+      "family": "McMillan",
+      "given": "Cassie"
+    }
+  ],
+  "authors_text": "McMillan, Cassie",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00770-w",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00770-w",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00770-w",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00770-w.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

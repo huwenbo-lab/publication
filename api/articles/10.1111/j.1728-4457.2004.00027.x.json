@@ -1,0 +1,30 @@
+{
+  "title": "A comparison of US and Canadian mortality in 1998",
+  "abstract": "On average, Americans die earlier than Canadians. An estimate based on comparing the number of actual US deaths with the number that would have obtained had Canadian age- and sex-specific death rates applied to the US population shows an excess number of US deaths in 1998 amounting approximately to 253,000. Excess US deaths were especially numerous among older women, middle-aged men, and nonwhites. Circulatory diseases were the major cause of excess deaths. Prevalences of two of the major risk factors for circulatory deaths-smoking and hypertension-were higher in Canada than in the US. But obesity was higher in the US, suggesting a likely important role that obesity plays in higher mortality in the US relative to Canada. Comparisons of the level, age pattern, and causes of US and Canadian mortality, however, raise more questions than currently available data can answer.",
+  "authors": [
+    {
+      "raw": "Torrey, BB",
+      "family": "Torrey",
+      "given": "BB"
+    },
+    {
+      "raw": "Haub, C",
+      "family": "Haub",
+      "given": "C"
+    }
+  ],
+  "authors_text": "Torrey, BB; Haub, C",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2004,
+  "doi": "10.1111/j.1728-4457.2004.00027.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2004.00027.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2004.00027.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2004.00027.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

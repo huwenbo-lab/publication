@@ -1,0 +1,35 @@
+{
+  "title": "Stratification of poverty risk: The importance of social class in four European countries",
+  "abstract": "Social class structures life chances and exposure to socioeconomic risk, but the extent to which this is still the case is subject to debate. While some assert a relevant middle-class squeeze and consequent polarisation, others argue for the disappearance of social class and a 'democratisation' of social and economic risk for all segments of postmodern society. We focused on relative poverty to interrogate the extent to which occupational class still matters and whether traditionally 'safe' middle-class occupations have lost their capacity for sheltering people from socioeconomic risk. The class-based stratification of poverty risk suggests pronounced structural inequalities between social groups, given its consequences in terms of deprived living standards and the reproduction of disadvantage. We used the longitudinal component of EU-SILC data (2004-2015) to analyse four European countries: Italy, Spain, France and the United Kingdom. We developed logistic models of poverty risk and compared class-specific average marginal effects obtained under a seemingly unrelated estimation framework. We documented persistence of class-based stratification of poverty risk with some indication of polarisation. Over time, upperclass occupations preserved their secure position, middle-class occupations showed a slight increase in poverty risk and working-classes showed the greatest increase in poverty risk. Contextual heterogeneity exists mainly in the levels while patterns are relatively similar. The particularly high-risk exposure of less advantaged classes in Southern Europe can be attributed to the prevalence of single earner households.",
+  "authors": [
+    {
+      "raw": "Gioachin, Filippo",
+      "family": "Gioachin",
+      "given": "Filippo"
+    },
+    {
+      "raw": "Marx, Ive",
+      "family": "Marx",
+      "given": "Ive"
+    },
+    {
+      "raw": "Scherer, Stefani",
+      "family": "Scherer",
+      "given": "Stefani"
+    }
+  ],
+  "authors_text": "Gioachin, Filippo; Marx, Ive; Scherer, Stefani",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2022.102814",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102814",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102814",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102814.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

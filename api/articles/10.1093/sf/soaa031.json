@@ -1,0 +1,35 @@
+{
+  "title": "Beyond the Core: Who Has Larger Social Networks?",
+  "abstract": "The sociological literature on social networks overwhelmingly considers the number of core social contacts. Social networks, however, reach far beyond this small number of social ties. We know little about individual variation in the size of such extended social networks. In this study, we move beyond core networks and explain individual variation in the extended social network size among youth. We use survey data of Dutch adolescents (N = 5,921) and use two state-of-the-art measurements to compute extended network sizes: network scale-up methods through Bayesian modeling and the observed number of contacts on Facebook. Among both measurements, we find that extended networks are larger among ethnic majority members, girls, and those who often engage in social foci. This highlights a crucial role for preferences and opportunity in the genesis of extended networks. Additionally, we find that differences between both network sizes (scale-up and Facebook) are smaller for girls and higher educated. We discuss the implications of these findings and suggest directions for future research.",
+  "authors": [
+    {
+      "raw": "Hofstra, Bas",
+      "family": "Hofstra",
+      "given": "Bas"
+    },
+    {
+      "raw": "Corten, Rense",
+      "family": "Corten",
+      "given": "Rense"
+    },
+    {
+      "raw": "van Tubergen, Frank",
+      "family": "van Tubergen",
+      "given": "Frank"
+    }
+  ],
+  "authors_text": "Hofstra, Bas; Corten, Rense; van Tubergen, Frank",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa031",
+  "doi_url": "https://doi.org/10.1093/sf/soaa031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

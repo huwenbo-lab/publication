@@ -1,0 +1,35 @@
+{
+  "title": "Fighting Back? The Contradictory Effects of Anti-DEI Laws on DEI Centers and Student-of-Color Groups at U.S. Colleges and Universities",
+  "abstract": "A growing number of states have passed laws that ban or restrict diversity, equity, and inclusion (DEI) initiatives in higher education; however, little is known about how such laws affect the prevalence of DEI centers and student-of-color groups, which are often housed within DEI centers. Through logistic regression analyses of longitudinal data on DEI centers and student-of-color organizations across 1,756 U.S. colleges and universities, the authors find that anti-DEI laws are associated with schools losing DEI offices between 2020 and 2024. Yet schools in states with anti-DEI laws were more likely to gain Black, Latinx, and Native American groups and less likely to lose existing Black and Latinx student groups. Additionally, anti-DEI laws were not associated with gains or losses in Asian or Asian American student groups. Our study thus suggests that students are organizing to create new inclusive spaces in response to anti-DEI legislation.",
+  "authors": [
+    {
+      "raw": "Schachle-Gordon, Jessica L.",
+      "family": "Schachle-Gordon",
+      "given": "Jessica L."
+    },
+    {
+      "raw": "Coley, Jonathan S.",
+      "family": "Coley",
+      "given": "Jonathan S."
+    },
+    {
+      "raw": "Tetteh, Daniel",
+      "family": "Tetteh",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Schachle-Gordon, Jessica L.; Coley, Jonathan S.; Tetteh, Daniel",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251325642",
+  "doi_url": "https://doi.org/10.1177/23780231251325642",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251325642",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251325642.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

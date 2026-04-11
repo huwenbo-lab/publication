@@ -1,0 +1,30 @@
+{
+  "title": "Does Herding Undermine the Trust Enhancing Effect of Reputation? An Empirical Investigation with Online-Auction Data",
+  "abstract": "In today's online markets, the reputation mechanism undergoes its most successful propagation in human history. Online reputation systems substitute informal sanctioning mechanisms at work in close-knit groups and enable complete strangers to trade with each other across large geographic distances. The organizational features of online markets support actors in solving three problems that hamper mutually beneficial market exchange: the value, competition, and cooperation problems. However, due to the plethora of trading opportunities available online, actors face a problem of excess, i.e., the difficulty of choosing a trading partner. Imitation of other actors' choices of trading partners (i.e., herding) can solve the problem of excess but at the same time lead to the neglect of information about these trading partners' trustworthiness. Using a large set of online-auction data (N approximate to 88 k), we investigate whether herding as a strategy for solving the problem of excess undermines the reputation mechanism in solving the cooperation problem. Our analysis shows that although buyers follow others in their decisions of which offers to consider, they do not follow others at any price and refer to sellers' reputations to establish seller trustworthiness. Our results corroborate that reputation systems are viable organizational features that promote mutually beneficial exchanges in anonymous online markets.",
+  "authors": [
+    {
+      "raw": "Przepiorka, Wojtek",
+      "family": "Przepiorka",
+      "given": "Wojtek"
+    },
+    {
+      "raw": "Aksoy, Ozan",
+      "family": "Aksoy",
+      "given": "Ozan"
+    }
+  ],
+  "authors_text": "Przepiorka, Wojtek; Aksoy, Ozan",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa057",
+  "doi_url": "https://doi.org/10.1093/sf/soaa057",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa057",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa057.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

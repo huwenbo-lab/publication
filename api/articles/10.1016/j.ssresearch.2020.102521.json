@@ -1,0 +1,40 @@
+{
+  "title": "The association between childhood socioeconomic status and adult health behavior: The role of locus of control",
+  "abstract": "The socioeconomic environment in childhood is a powerful determinant for health behavior in adulthood, subsequently influencing health outcomes. However, the underlying mechanisms are insufficiently understood. This study assesses locus of control (LOC) as a mediator linking childhood socioeconomic status (SES) with health behavior (smoking, regular alcohol consumption, unhealthy diet and low physical activity). Drawing on a representative sample from Germany (SOEP), we investigated these relations using structural equations modelling. Results show that externally oriented LOC explains up to 6% of the relationship between childhood SES and health behavior in adulthood, independently from adult SES. Stratification indicates that these results hold in women but not in men, in younger and middle-aged individuals but not in older ones. Hence, control beliefs play a modest yet significant role in shaping the socioeconomic gradient in health behavior and might have far-reaching consequences on how morbidity and mortality arise and persist across generations.",
+  "authors": [
+    {
+      "raw": "Pedron, Sara",
+      "family": "Pedron",
+      "given": "Sara"
+    },
+    {
+      "raw": "Schmaderer, Katharina",
+      "family": "Schmaderer",
+      "given": "Katharina"
+    },
+    {
+      "raw": "Murawski, Monika",
+      "family": "Murawski",
+      "given": "Monika"
+    },
+    {
+      "raw": "Schwettmann, Lars",
+      "family": "Schwettmann",
+      "given": "Lars"
+    }
+  ],
+  "authors_text": "Pedron, Sara; Schmaderer, Katharina; Murawski, Monika; Schwettmann, Lars",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2020.102521",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102521",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102521",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102521.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

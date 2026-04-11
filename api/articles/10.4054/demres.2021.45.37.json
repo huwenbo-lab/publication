@@ -1,0 +1,30 @@
+{
+  "title": "Food insecurity among homeless and precariously housed children in the United States: Lessons from the past",
+  "abstract": "BACKGROUND Little is known at the national level about child food insecurity (CFI) among homeless and precariously housed US families, given sample and measurement limitations of existing studies. OBJECTIVES Drawing on 1990s data, we document the monthly prevalence of CFI for these families, compare it to the prevalence for domiciled families, and examine sources of CFI variation within homeless and precariously housed families suggested by our conceptual model. METHODS The 1996 National Survey of Homeless Assistance Providers and Clients (NSHAPC) contains a small subset of CFI measures identical to those in the food security module of the 1996 Current Population Survey (CPS), facilitating homeless-domiciled comparisons. We employ multiple logistic regression to evaluate potential correlates of CFI among the NSHAPC families. RESULTS Monthly prevalence of CFI in the NSHAPC families far exceeds that of their poor but domiciled CPS counterparts. Within the NSHAPC sample, CFI is a partial function of family composition, parental vulnerabilities, food stamp (SNAP) allotment, and access to nutrition-relevant organizations such as schools and health care settings. The NSHAPC data also hint at the uneven distribution of services and programs across communities. CONTRIBUTION Our research employs older data to provide a nationally representative picture of the magnitude and correlates of CFI among homeless and precariously housed American families. We offer a conceptual model for understanding how family risk and protective factors, parents' use of external resources, and the local institutional context are associated with CFI. This framework may apply to domiciled households experiencing material hardship as well.",
+  "authors": [
+    {
+      "raw": "Lee, Barrett A.",
+      "family": "Lee",
+      "given": "Barrett A."
+    },
+    {
+      "raw": "Lippert, Adam M.",
+      "family": "Lippert",
+      "given": "Adam M."
+    }
+  ],
+  "authors_text": "Lee, Barrett A.; Lippert, Adam M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.37",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.37",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.37",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.37.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

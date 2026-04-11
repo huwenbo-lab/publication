@@ -1,0 +1,25 @@
+{
+  "title": "Disease and Dowry: Community Context, Gender, and Adult Health in India",
+  "abstract": "Despite growing research on health and residential contexts, relatively little is understood about gendered contexts that are differentially important for women's and men's physical health in low- and middle-income countries. This study advances the prior knowledge by examining whether the local frequency of a salient and gendered practice in India-dowry-is associated with gender differences in physical health (acute illness, illness length, and chronic illness). Analyses are conducted using multilevel logistic and negative binomial regression models and national data on men and women across India (NaEuro...=aEuro...102,763). Results show that as dowry frequency increases in communities, not only do women have a greater likelihood of poor health across all three health outcomes, but men also have a greater likelihood of acute illness and illness length. Men, however, have a lower likelihood of chronic illness as the frequency of dowry increases in communities. In the case of all three health outcomes, results showed consistently wider health gaps between men and women in communities with a higher frequency of dowry.",
+  "authors": [
+    {
+      "raw": "Stroope, Samuel",
+      "family": "Stroope",
+      "given": "Samuel"
+    }
+  ],
+  "authors_text": "Stroope, Samuel",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sov010",
+  "doi_url": "https://doi.org/10.1093/sf/sov010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

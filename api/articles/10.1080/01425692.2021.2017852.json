@@ -1,0 +1,35 @@
+{
+  "title": "Who counts as socioeconomically disadvantaged for the purposes of widening access to higher education?",
+  "abstract": "This paper evaluates a range of measures commonly used to target and measure the success of efforts to widen access to higher education. We demonstrate empirically that the area-level widening access metrics advocated by England's Office for Students, POLAR and TUNDRA, are unfit for purpose because they yield unacceptably high rates of false positives (individuals identified as socioeconomically disadvantaged when they are not). We argue that these and other demonstrably flawed area-level and school-level metrics should be replaced by officially verified individual-level indicators of socioeconomic disadvantage which yield few false positives, most notably receipt of free school meals. Unless and until this change is made, widen access efforts will be inefficient at best and counterproductive at worst, and associated statistics will give a misleading picture of how much progress is being made on widening access.",
+  "authors": [
+    {
+      "raw": "Boliver, Vikki",
+      "family": "Boliver",
+      "given": "Vikki"
+    },
+    {
+      "raw": "Gorard, Stephen",
+      "family": "Gorard",
+      "given": "Stephen"
+    },
+    {
+      "raw": "Siddiqui, Nadia",
+      "family": "Siddiqui",
+      "given": "Nadia"
+    }
+  ],
+  "authors_text": "Boliver, Vikki; Gorard, Stephen; Siddiqui, Nadia",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2022,
+  "doi": "10.1080/01425692.2021.2017852",
+  "doi_url": "https://doi.org/10.1080/01425692.2021.2017852",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2021.2017852",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2021.2017852.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

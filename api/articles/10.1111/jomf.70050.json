@@ -1,0 +1,35 @@
+{
+  "title": "Parental Divorce and Children's Partnership Dynamics",
+  "abstract": "Objective This study investigates the consequences of parental divorce on offspring's likelihood of entering and dissolving marital or cohabiting partnerships, assessing whether intergenerational associations are driven by causal processes, selection factors, or both.Background Children of divorced parents tend to enter partnerships earlier, are less likely to marry, and are more likely to dissolve their partnership. While environmental explanations often presume a causal impact of parental divorce, intergenerational transmission may also arise from selection factors, such as shared traits within families. Ignoring such confounding could overestimate intergenerational associations.Method Using longitudinal Norwegian population register data, this study triangulates two research designs. First, the adoption design compares relationship outcomes of adopted children (N = 2152) to a matched sample of Norwegian-born peers (N = 2152). Second, the children-of-twins design (N = 28,535) contrasts outcomes among offspring of monozygotic and dizygotic twins, leveraging variation in divorce status between and within twin pairs.Results Parental divorce has minimal influence on offspring's partnership formation but increases their risk of partnership dissolution. Both designs reveal selectivity in who experiences dissolution. The Children-of-Twin analysis provides evidence for a causal intergenerational transmission of partnership dissolution, while results from the adoption analysis do not provide clear support for a significant causal effect.Conclusion Parental divorce affects offspring's family behavior through both environmental and genetic pathways, contributing to the intergenerational transmission of divorce. Future research should specify and test the diverse causal mechanisms linking parental divorce to family dynamics.",
+  "authors": [
+    {
+      "raw": "Jorgensen, Ruth Eva",
+      "family": "Jorgensen",
+      "given": "Ruth Eva"
+    },
+    {
+      "raw": "Van Hootegem, Arno",
+      "family": "Van Hootegem",
+      "given": "Arno"
+    },
+    {
+      "raw": "Lyngstad, Torkild H.",
+      "family": "Lyngstad",
+      "given": "Torkild H."
+    }
+  ],
+  "authors_text": "Jorgensen, Ruth Eva; Van Hootegem, Arno; Lyngstad, Torkild H.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70050",
+  "doi_url": "https://doi.org/10.1111/jomf.70050",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70050",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70050.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

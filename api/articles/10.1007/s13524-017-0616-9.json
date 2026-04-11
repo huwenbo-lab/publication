@@ -1,0 +1,25 @@
+{
+  "title": "Sample Errors Call Into Question Conclusions Regarding Same-Sex Married Parents: A Comment on Family Structure and Child Health: Does the Sex Composition of Parents Matter?",
+  "abstract": "Because of classification errors reported by the National Center for Health Statistics, an estimated 42 % of the same-sex married partners in the sample for this study are misclassified different-sex married partners, thus calling into question findings regarding same-sex married parents. Including biological parentage as a control variable suppresses same-sex/different-sex differences, thus obscuring the data error. Parentage is not appropriate as a control because it correlates nearly perfectly (+.97, gamma) with the same-sex/different-sex distinction and is invariant for the category of joint biological parents.",
+  "authors": [
+    {
+      "raw": "Sullins, D. Paul",
+      "family": "Sullins",
+      "given": "D. Paul"
+    }
+  ],
+  "authors_text": "Sullins, D. Paul",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0616-9",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0616-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0616-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0616-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

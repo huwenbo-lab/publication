@@ -1,0 +1,30 @@
+{
+  "title": "Educational experiences and American young adults' childbearing goals: A research note",
+  "abstract": "ObjectiveThis research note describes the relationship between young adults' educational experiences and childbearing goals in the United States.BackgroundIn the United States, education is associated with later childbearing and fewer children, but the relationship between education and fertility desires and intentions is less well-understood. This article contributes to the research literature by illustrating variation in prospective fertility goals by education, focusing on the early life course in order to understand young adults' goals before they have been shaped by parenting and extensive workforce experiences.MethodThis analysis uses data from the National Surveys of Family Growth (1995-2019), a nationally representative survey, to study fertility desires and intentions among childless US men and women ages 19-24. Predicted probabilities demonstrating differences in fertility goals by educational experiences, from three sets of multivariable analyses (logistic regression predicting fertility desires and intentions, separately, and negative binomial regression predicting intended parity), are shown.ResultsMen and women with a bachelor's degree and those enrolled in college do not have lower fertility goals than those without a degree and not enrolled; if anything, more educated individuals are slightly more likely to desire (for men only) and intend children and to have slightly larger intended family size.ConclusionsEducation gaps in fertility in the United States are not attributable to differences in early-life fertility goals.",
+  "authors": [
+    {
+      "raw": "Guzzo, Karen Benjamin",
+      "family": "Guzzo",
+      "given": "Karen Benjamin"
+    },
+    {
+      "raw": "Hayford, Sarah R.",
+      "family": "Hayford",
+      "given": "Sarah R."
+    }
+  ],
+  "authors_text": "Guzzo, Karen Benjamin; Hayford, Sarah R.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12953",
+  "doi_url": "https://doi.org/10.1111/jomf.12953",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12953",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12953.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

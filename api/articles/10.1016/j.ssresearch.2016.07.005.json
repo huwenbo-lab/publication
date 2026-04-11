@@ -1,0 +1,30 @@
+{
+  "title": "Gender, race & the veteran wage gap",
+  "abstract": "This paper analyzes earnings outcomes of Iraq/Afghanistan-era veterans. We utilize the 2009-2013 American Community Survey and a worker-matching methodology to decompose wage differences between veteran and non-veteran workers. Among fully employed, 25-40 year-olds, veteran workers make 3% less than non-veteran workers. While male veterans make 9% less than non-veterans, female and black veterans experience a wage premium (2% and 7% respectively). Decomposition of the earnings gap identifies some of its sources. Relatively higher rates of disability and lower rates of educational attainment serve to increase the overall wage penalty against veterans. However, veterans work less in low-paying occupations than non-veterans, serving to reduce the wage penalty. Finally, among male and white subgroups, non-veterans earn more in the top quintile due largely to having higher educational attainment and greater representation in higher-paying occupations, such as management. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Vick, Brandon",
+      "family": "Vick",
+      "given": "Brandon"
+    },
+    {
+      "raw": "Fontanella, Gabrielle",
+      "family": "Fontanella",
+      "given": "Gabrielle"
+    }
+  ],
+  "authors_text": "Vick, Brandon; Fontanella, Gabrielle",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.07.005",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.07.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.07.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.07.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

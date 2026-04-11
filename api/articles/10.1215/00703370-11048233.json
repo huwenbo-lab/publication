@@ -1,0 +1,55 @@
+{
+  "title": "The Impact of Childhood Mortality on Fertility in Rural Tanzania: Evidence From the Ifakara and Rufiji Health and Demographic Surveillance Systems",
+  "abstract": "This man u script examines the relationship between child mortality and subsequent fertility using longitudinal data on births and child hood deaths occur-ring among 15,291 Tanzanian mothers between 2000 and 2015. Generalized haz-ard regression analyses assess the effect of child loss on the hazard of conception, adjusting for child-level, mother-level, and con textual covariates. Results show that time to conception is most reduced if an index child dies during the subsequent birth interval, representing the combined effect of bio logical and volitional replacement. Deaths occurring during prior birth intervals were associated with accelerated time to conception during future intervals, consistent with hypothesized insurance effects of anticipating future child loss, but this effect is smaller than replacement effects. The analysis reveals that residence in areas of relatively high child mortality is associated with hastened parity progression, again consistent with the insurance hypothesis. Investigation of high--order inter actions suggests that insurance effects tend to be greater in low -mortality communities, replacement effects tend to be stronger in high- mortality community contexts, and wealthier families tend to exhibit a weaker insur-ance response but a stronger replacement response to child hood mortality relative to poorer families.",
+  "authors": [
+    {
+      "raw": "Baynes, Colin",
+      "family": "Baynes",
+      "given": "Colin"
+    },
+    {
+      "raw": "Kante, Almamy Malick",
+      "family": "Kante",
+      "given": "Almamy Malick"
+    },
+    {
+      "raw": "Mrema, Sigilbert",
+      "family": "Mrema",
+      "given": "Sigilbert"
+    },
+    {
+      "raw": "Masanja, Honorati",
+      "family": "Masanja",
+      "given": "Honorati"
+    },
+    {
+      "raw": "Weiner, Bryan J.",
+      "family": "Weiner",
+      "given": "Bryan J."
+    },
+    {
+      "raw": "Sherr, Kenneth",
+      "family": "Sherr",
+      "given": "Kenneth"
+    },
+    {
+      "raw": "Phillips, James F.",
+      "family": "Phillips",
+      "given": "James F."
+    }
+  ],
+  "authors_text": "Baynes, Colin; Kante, Almamy Malick; Mrema, Sigilbert; Masanja, Honorati; Weiner, Bryan J.; Sherr, Kenneth; Phillips, James F.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-11048233",
+  "doi_url": "https://doi.org/10.1215/00703370-11048233",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11048233",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11048233.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

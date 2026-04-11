@@ -1,0 +1,40 @@
+{
+  "title": "Utility of Hospital Emergency Department Data for Studying Intimate Partner Violence",
+  "abstract": "The authors examine 12 months of emergency department visit data (N= 2,521) from the National Electronic Injury Surveillance System All Injury Program and explore its utility for measuring and studying intimate partner violence. Given the dearth of national data on intimate partner violence–related injury and its potential value for public health surveillance and prevention, the data set appears promising for estimating national rates of emergency department visits. Missing perpetrator‐patient relationship data limit estimation of intimate partner–related hospital visits for injury and pain, which precludes national rate estimation at this time, but the data are still useful for describing documented intimate partner violence cases and may be helpful in designing prevention strategies.",
+  "authors": [
+    {
+      "raw": "Saltzman, Linda E.",
+      "family": "Saltzman",
+      "given": "Linda E."
+    },
+    {
+      "raw": "Mahendra, Reshma R.",
+      "family": "Mahendra",
+      "given": "Reshma R."
+    },
+    {
+      "raw": "Ikeda, Robin M.",
+      "family": "Ikeda",
+      "given": "Robin M."
+    },
+    {
+      "raw": "Ingram, Eben M.",
+      "family": "Ingram",
+      "given": "Eben M."
+    }
+  ],
+  "authors_text": "Saltzman, Linda E.; Mahendra, Reshma R.; Ikeda, Robin M.; Ingram, Eben M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2005,
+  "doi": "10.1111/j.1741-3737.2005.00187.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2005.00187.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2005.00187.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2005.00187.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Diffusion of Childbearing Within Cohabitation",
+  "abstract": "The article analyzes the diffusion of childbearing within cohabitation in Norway, using municipality data over a 24-year period (1988-2011). Research has found substantial spatial heterogeneity in this phenomenon but also substantial spatial correlation, and the prevalence of childbearing within cohabitation has increased significantly over time. We consider several theoretical perspectives and implement a spatial panel model that allows accounting for autocorrelation not only on the dependent variable but also on key explanatory variables, and hence identifies the key determinants of diffusion of childbearing within cohabitation across space and over time. We find only partial support for the second demographic transition as a theory able to explain the diffusion of childbearing within cohabitation. Our results show that at least in the first phase of the diffusion (1988-1997), economic difficulties as measured by increased unemployment among men contributed to the diffusion of childbearing within cohabitation. However, the most important driver for childbearing within cohabitation is expansion in education for women.",
+  "authors": [
+    {
+      "raw": "Vitali, Agnese",
+      "family": "Vitali",
+      "given": "Agnese"
+    },
+    {
+      "raw": "Aassve, Arnstein",
+      "family": "Aassve",
+      "given": "Arnstein"
+    },
+    {
+      "raw": "Lappegard, Trude",
+      "family": "Lappegard",
+      "given": "Trude"
+    }
+  ],
+  "authors_text": "Vitali, Agnese; Aassve, Arnstein; Lappegard, Trude",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0380-7",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0380-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0380-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0380-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Estimating the percentage of men who are childfree using the National Survey of Family Growth: A comment on Bozick (2023)",
+  "abstract": "Objective: This comment aims to clarify trends in the percentage of men in the United States who are childfree (i.e., do not have and do not want children). Background: Bozick (2023, Journal of Marriage and Family, 85(1), 293-304) used data from the National Survey of Family Growth (NSFG) to examine trends in the percentage of men who are childfree during the first two decades of the 2000s, concluding that there was a considerable increase. However, these percentages were computed incorrectly. Method: Data from the NSFG are reanalyzed, ensuring comparable sample universes by age, correctly applying sampling weights, and including data from 2002. Results: Following a small decline between 2006 and 2015 (10.7%-12.1%), the percent of men who were childfree between 2015 and 2019 (14.2%-15.7%) returned to the levels observed in 2002 (14.3%). Conclusions: Bozick's (2023, Journal of Marriage and Family, 85(1), 293-304) original conclusion that the percentage of men who are childfree has grown considerably is inconsistent with these revised analyses. Implications: Childfree men, and childfree adults in general, are a large and understudied demographic group that warrants greater attention, but researchers should exercise caution when studying trends in childfree prevalence.",
+  "authors": [
+    {
+      "raw": "Neal, Zachary P.",
+      "family": "Neal",
+      "given": "Zachary P."
+    },
+    {
+      "raw": "Neal, Jennifer Watling",
+      "family": "Neal",
+      "given": "Jennifer Watling"
+    }
+  ],
+  "authors_text": "Neal, Zachary P.; Neal, Jennifer Watling",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13092",
+  "doi_url": "https://doi.org/10.1111/jomf.13092",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13092",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13092.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

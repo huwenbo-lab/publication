@@ -1,0 +1,30 @@
+{
+  "title": "Working Life Expectancy at Age 50 in the United States and the Impact of the Great Recession",
+  "abstract": "A key concern about population aging is the decline in the size of the economically active population. Working longer is a potential remedy. However, little is known about the length of working life and how it relates to macroeconomic conditions. We use the U.S. Health and Retirement Study for 1992-2011 and multistate life tables to analyze working life expectancy at age 50 and study the impact of the Great Recession in 2007-2009. Despite declines of one to two years following the recession, in 2008-2011, American men aged 50 still spent 13 years, or two-fifths of their remaining life, working; American women of the same age spent 11 years, or one-third of their remaining life, in employment. Although educational differences in working life expectancy have been stable since the mid-1990s, racial differences started changing after the onset of the Great Recession. Our results show that although Americans generally work longer than people in other countries, considerable subpopulation heterogeneity exists. We also find that the time trends are fluctuating, which may prove troublesome as the population ages. Policies targeting the weakest performing groups may be needed to increase the total population trends.",
+  "authors": [
+    {
+      "raw": "Dudel, Christian",
+      "family": "Dudel",
+      "given": "Christian"
+    },
+    {
+      "raw": "Myrskylae, Mikko",
+      "family": "Myrskylae",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Dudel, Christian; Myrskylae, Mikko",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0619-6",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0619-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0619-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0619-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Period measures of life course complexity",
+  "abstract": "BACKGROUND Life course complexity has so far been analyzed from a cohort perspective, but period measures could allow the holistic analysis of the impact of temporary circumstances on it. OBJECTIVE We measure life course complexity from a period perspective and decompose the results according to age and transition type. METHODS Complexity is measured as the number of distinct states visited (NDS) and the average number of visits to each visited state (ANV). Measures are based on sequences taken from different cohorts from a similar age onward, until a common period of interest. Period complexity is the sum of the cohort-specific differences in complexity reached at the beginning and at the end of the period of interest, summed through years of age. RESULTS Analyzing life courses of Dutch women born 1977-2000, we find decreases in NDS and increases in ANV from both perspectives. Changes are explained by a decrease in transitions to being married and an increase in returns to the parental home and living alone. CONCLUSIONS A woman who would experience the complexity of the years 2017-2018 throughout her life course would visit fewer distinct states and return more often to the same states than any average woman born between 1977-1978 and 1987-1988 actually did. This means that life courses might continue to become less linear in the future and that some of the parts that constitute them might continue to become more often omitted. CONTRIBUTION Our approach allows us to analyze holistically the influence of temporary circumstances on life course complexity, which might prove useful in assessing the impact of the ongoing COVID-19 pandemic on the transition to adulthood.",
+  "authors": [
+    {
+      "raw": "Boissonneault, Michael",
+      "family": "Boissonneault",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Boissonneault, Michael",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.47",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.47",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.47",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.47.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

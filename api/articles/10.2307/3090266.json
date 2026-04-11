@@ -1,0 +1,30 @@
+{
+  "title": "Age and college completion: A life history analysis of women aged 15-44",
+  "abstract": "A substantial proportion of students who are enrolled in U.S. colleges and universities are over age 25. A key question is whether older students are as likely to obtain degrees as are younger students. The authors examine the odds of obtaining a bachelor's degree by the age of the enrolled student. The effects of background attributes and adult role events are also examined using data on women aged 15-44 from the 1995 National Survey of Family Growth. Women over age 25 are at a disadvantage in completing their degrees, but this effect is due largely to the fact older students are more likely to be enrolled part time and to face competing demands for their time and attention. When part-time enrollment is taken into account, the negative effect of age on the completion of degrees is explained. The implications of these results for future research and for policies and practices regarding adult college students are discussed.",
+  "authors": [
+    {
+      "raw": "Jacobs, JA",
+      "family": "Jacobs",
+      "given": "JA"
+    },
+    {
+      "raw": "King, RB",
+      "family": "King",
+      "given": "RB"
+    }
+  ],
+  "authors_text": "Jacobs, JA; King, RB",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2002,
+  "doi": "10.2307/3090266",
+  "doi_url": "https://doi.org/10.2307/3090266",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3090266",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3090266.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

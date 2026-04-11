@@ -1,0 +1,30 @@
+{
+  "title": "Immigrants, English Ability and the Digital Divide",
+  "abstract": "Immigrants, English Ability and the Digital DivideThis study examines the extent and causes of inequalities in information technology (IT) ownership and use between natives and immigrants in the U.S., focusing on the role of English ability.The results indicate that, during the period 1997-2003, immigrants were significantly less likely to have access to or use a computer and the Internet.Moreover, the gap in IT usage widened during that period.Immigrants (and natives) who live in Spanishspeaking households are less likely than individuals living in English-speaking households to have access to or use IT.Estimates using a measure of predicted English ability show that English ability is positively associated with IT access and use.The results suggest that much of the immigrant-native gap in IT usage is attributable to differences in English ability.",
+  "authors": [
+    {
+      "raw": "Ono, H.",
+      "family": "Ono",
+      "given": "H."
+    },
+    {
+      "raw": "Zavodny, M.",
+      "family": "Zavodny",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Ono, H.; Zavodny, M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2008,
+  "doi": "10.1353/sof.0.0052",
+  "doi_url": "https://doi.org/10.1353/sof.0.0052",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0052",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0052.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

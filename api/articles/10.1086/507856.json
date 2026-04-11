@@ -1,0 +1,30 @@
+{
+  "title": "Neighborhood choice and neighborhood change",
+  "abstract": "This article examines the relationships between the residential choices of individuals and aggregate segregation patterns. Analyses based on computational models show that high levels of segregation occur only when individuals' preferences follow a threshold function. If individuals make finer-grained distinctions among neighborhoods that vary in racial composition, preferences alone do not lead to segregation. Vignette data indicate that individuals respond in a continuous way to variations in the racial makeup of neighborhoods rather than to a threshold. Race preferences alone may be insufficient to account for the high levels of segregation observed in American cities.",
+  "authors": [
+    {
+      "raw": "Bruch, Elizabeth E.",
+      "family": "Bruch",
+      "given": "Elizabeth E."
+    },
+    {
+      "raw": "Mare, Robert D.",
+      "family": "Mare",
+      "given": "Robert D."
+    }
+  ],
+  "authors_text": "Bruch, Elizabeth E.; Mare, Robert D.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2006,
+  "doi": "10.1086/507856",
+  "doi_url": "https://doi.org/10.1086/507856",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F507856",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/507856.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

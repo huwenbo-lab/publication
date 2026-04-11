@@ -1,0 +1,25 @@
+{
+  "title": "Cohort Measures of Internal Migration: Understanding Long-Term Trends",
+  "abstract": "Internal migration intensities fluctuate over time, but both migration levels and trends show great diversity. The dynamics underpinning these trends remain poorly understood because they are analyzed almost exclusively by applying period measures to cross-sectional data. This article proposes 10 cohort measures that can be applied to both prospective and retrospective data to systematically examine long-term trends. To demonstrate their benefits, the proposed measures are applied to retrospective survey data for England that provide residential histories from birth to age 50 for cohorts born between 1918 and 1957. The analysis reveals stable lifetime migration for men but increased lifetime migration for women associated with earlier ages at moving in adulthood and a compression of intervals between consecutive moves. The proposed cohort measures provide a more comprehensive picture of migration behavior and should be used to complement period measures in exploring long-term trends. Increasing availability of retrospective and longitudinal survey data means that researchers can now apply the proposed measures to a wide range of countries.",
+  "authors": [
+    {
+      "raw": "Bernard, Aude",
+      "family": "Bernard",
+      "given": "Aude"
+    }
+  ],
+  "authors_text": "Bernard, Aude",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0626-7",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0626-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0626-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0626-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

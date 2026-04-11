@@ -1,0 +1,35 @@
+{
+  "title": "National Population Growth Rate, Its Components, and Subnational Contributions: A Research Note",
+  "abstract": "A population's current growth rate is determined jointly by changes in fertility, mortality, and migration. This overall growth rate is also the average of age-specific growth rates, which can be decomposed into the result of historical changes in fertility, mortality, and migration. However, doing so requires more than 100 years of historical data, meaning that such analyses are possible only in a select few populations. In this research note, we propose an adapted version of the variable-r model to measure contributions to the population growth rate for countries with shorter demographic series. In addition, we extend this model to explore the contribution of subnational changes to the national population growth rate. Our results demonstrate that the age-specific growth rates obtained from short historical series, say 25 years, closely match those of the longer series. These abbreviated age-specific growth rates closely resemble the growth rate at birth of their respective cohorts, which is the major determinant of population growth, except at older ages where mortality becomes the main explanatory element. Exploring subnational populations, we find considerable heterogeneity in the age profile of the components of growth and find that the most populous regions tend to have an outsized impact on national-level growth.",
+  "authors": [
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Shen, Tianyu",
+      "family": "Shen",
+      "given": "Tianyu"
+    },
+    {
+      "raw": "Payne, Collin F.",
+      "family": "Payne",
+      "given": "Collin F."
+    }
+  ],
+  "authors_text": "Canudas-Romo, Vladimir; Shen, Tianyu; Payne, Collin F.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11372369",
+  "doi_url": "https://doi.org/10.1215/00703370-11372369",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11372369",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11372369.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

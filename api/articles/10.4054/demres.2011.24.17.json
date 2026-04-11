@@ -1,0 +1,35 @@
+{
+  "title": "An editorial on plagiarism",
+  "abstract": "In January this year, we were confronted with a case of plagiarism. One paper that had been submitted last year by a certain person turned out to be written by three other persons. It was presented by the three true authors at a conference in 2010, whe",
+  "authors": [
+    {
+      "raw": "Keilman, Nico",
+      "family": "Keilman",
+      "given": "Nico"
+    },
+    {
+      "raw": "Hinde, Andrew",
+      "family": "Hinde",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Goldstein, Joshua R.",
+      "family": "Goldstein",
+      "given": "Joshua R."
+    }
+  ],
+  "authors_text": "Keilman, Nico; Hinde, Andrew; Goldstein, Joshua R.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2011,
+  "doi": "10.4054/demres.2011.24.17",
+  "doi_url": "https://doi.org/10.4054/demres.2011.24.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2011.24.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2011.24.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

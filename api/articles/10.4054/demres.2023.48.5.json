@@ -1,0 +1,30 @@
+{
+  "title": "Segmented assimilation and mobility among men in the early 20th century",
+  "abstract": "BACKGROUND Segmented assimilation theory asserts that children born to immigrants experience divergent paths of incorporation. While some exhibit substantial gains in well-being, others may fare worse than US-origin whites or their own parents. It is certainly true that contemporary immigrants find themselves living in a different context than those who arrived in the United States during the early 20th century. However, it remains an empirical question whether the incorporation process has suddenly become segmented.METHODS We select five of the top European sending regions to ask whether socioeconomic outcomes varied between immigrant-origin populations between 1910 and 1930. We use the Integrated Public Use Microdata Series Multigenerational Longitudinal Panel to link men over a 20-year period. Logistic regression is used to predict probabilities of school enrollment in 1910 among US-and immigrant-origin youths. We then rely on a series of OLS specifications to predict the socioeconomic standing of these men in 1930 as well as differences in father-son status. We also compare relative rates of occupational mobility across country of origin.RESULTS We find evidence of intergenerational mobility as well as convergence in economic success. Though some immigrant-origin groups fare better than others (e.g., the Irish and those from the United Kingdom versus Italians and Germans), our results largely align with classical theories of assimilation. To the extent that segmented assimilation occurs, it emerges in the especially low levels of attainment among German-origin youths.CONTRIBUTIONS Our findings raise important questions about studies that investigate segmented assimilation among immigrant-origin youths. We argue that more work is needed to determine whether downward assimilation is a sign of permanent disadvantage or a short-term consequence from which youths can recover.",
+  "authors": [
+    {
+      "raw": "Diaz, Christina",
+      "family": "Diaz",
+      "given": "Christina"
+    },
+    {
+      "raw": "Lee, Jennifer Hyunkyung",
+      "family": "Lee",
+      "given": "Jennifer Hyunkyung"
+    }
+  ],
+  "authors_text": "Diaz, Christina; Lee, Jennifer Hyunkyung",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.5",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Diverging Family Behaviors: Socioeconomic Gradients in China's First Marriage Age Across Cohorts",
+  "abstract": "This study explores cohort changes in first marriage timing in China, focusing on how evolving socioeconomic disparities shape marriage behavior. Using event history analyses and lognormal models, the research draws on 105,209 person-year records from 12 waves of the Chinese General Social Survey (2003-2021), covering individuals aged 18-80. Findings support the Cohort Accretion Hypothesis, showing that more educated and urban adults are delaying marriage, widening the marriage age gap compared to their lower socioeconomic status (SES) counterparts. However, the marriage age gap between individuals with secondary and primary education is narrowing. Women with less education and rural hukou, representing the lower end of the socioeconomic spectrum, show an increasing tendency to marry earlier. The shift from romance-oriented to more pragmatic, secular marriages highlights the polarization of marriage preferences, where capstone marriages challenge traditional cornerstone marriages, illustrating the Maslowian Preference Drift Phenomenon across educational and urban-rural groups in China.",
+  "authors": [
+    {
+      "raw": "Liu, Shuangshuang",
+      "family": "Liu",
+      "given": "Shuangshuang"
+    },
+    {
+      "raw": "Bracke, Piet",
+      "family": "Bracke",
+      "given": "Piet"
+    },
+    {
+      "raw": "Delaruelle, Katrijn",
+      "family": "Delaruelle",
+      "given": "Katrijn"
+    }
+  ],
+  "authors_text": "Liu, Shuangshuang; Bracke, Piet; Delaruelle, Katrijn",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2025,
+  "doi": "10.1177/0192513x251389211",
+  "doi_url": "https://doi.org/10.1177/0192513x251389211",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x251389211",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x251389211.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

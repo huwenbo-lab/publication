@@ -1,0 +1,35 @@
+{
+  "title": "The fall and rise of parental financial investments during the COVID-19 pandemic",
+  "abstract": "ObjectiveThis research note investigates changes in American parents' financial investments in children during the COVID-19 pandemic, as well as whether and how changes in parents' spending varied based on parental education.BackgroundParents purchase goods, experiences, and services that shape children's human capital and life chances. Socioeconomic differences in parental expenditures on children represent an important pathway for perpetuating inequality across generations. The COVID-19 pandemic disrupted children's lives in ways that may have changed these levels of investment.MethodThe 2015-2022 Consumer Expenditure Survey (CEX) is used to describe spending on five key categories of investments in children's human capital (educational spending, extracurricular activities and lessons, computers and tablets, formal childcare, informal childcare) overall and by parental education. Mediation analysis assesses the extent school closures explain these changes.ResultsChildcare and extracurricular expenditures initially decreased significantly and then gradually recovered to pre-pandemic levels by the end of 2021. Cutbacks were primarily among more educated families. However, spending on schooling increased in 2021 and computer and tablet purchases spiked in 2020, particularly among more educated families. Mediation analysis suggests that when expenditures were most affected by the pandemic (in 2020), school closures explained 50%-70% of those changes.ConclusionThis note provides evidence that during the pandemic socioeconomic inequalities in child-related spending decreased in some categories of spending (e.g., childcare and extracurriculars) and increased in others (e.g., computers and tablets). Many changes appeared short-term, but changes in education point to possible longer-term shifts in parents' preferences about children's educational environments.",
+  "authors": [
+    {
+      "raw": "Hastings, Orestes P.",
+      "family": "Hastings",
+      "given": "Orestes P."
+    },
+    {
+      "raw": "Amorim, Mariana",
+      "family": "Amorim",
+      "given": "Mariana"
+    },
+    {
+      "raw": "Kornrich, Sabino",
+      "family": "Kornrich",
+      "given": "Sabino"
+    }
+  ],
+  "authors_text": "Hastings, Orestes P.; Amorim, Mariana; Kornrich, Sabino",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13046",
+  "doi_url": "https://doi.org/10.1111/jomf.13046",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13046",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13046.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

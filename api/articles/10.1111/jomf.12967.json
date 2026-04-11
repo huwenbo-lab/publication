@@ -1,0 +1,30 @@
+{
+  "title": "How couples meet and assortative mating in Canada",
+  "abstract": "ObjectiveThis study examines, for the first time in Canada, the relationship between how different-sex couples meet and assortative mating on education, race, nativity, and age.BackgroundExtending research on how the likelihood of heterogamy differed between offline and online dating, this study disentangles the implications of institutional and third-person influences from those of online dating for configuring the patterns of heterogamy and gender asymmetry in assortative mating.MethodData from a 2018 national survey are analyzed using (multinomial) logit models.ResultsEducational heterogamy and nativity heterogamy are higher, but age heterogamy appears lower, in online than offline dating. Next, specific channels of offline dating-formal institutions, social ties, and other channels-are distinguished and compared with online dating. Online dating tends to entail higher educational and nativity heterogamy (vs. meeting through formal institutions), higher racial and nativity heterogamy but lower age heterogamy (vs. meeting through social ties), and higher educational heterogamy (vs. meeting through other offline channels). Further considering gender asymmetry shows that online dating is associated with higher educational hypergyny (more-educated man, less-educated woman) than meeting through other offline channels; higher nativity hypogyny (immigrant man, native-born woman) than meeting offline (overall, formal institutions, social ties); and lower age hypergyny (older man, younger woman) than meeting offline through social ties.ConclusionThe findings help untangle the roles of institutional, social, and digital forces in shaping assortative mating. They illustrate the importance of leveraging theoretically informed comparisons to understand how online and offline dating configures assortative mating and its gender-asymmetric patterns.",
+  "authors": [
+    {
+      "raw": "Qian, Yue",
+      "family": "Qian",
+      "given": "Yue"
+    },
+    {
+      "raw": "Hu, Yang",
+      "family": "Hu",
+      "given": "Yang"
+    }
+  ],
+  "authors_text": "Qian, Yue; Hu, Yang",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.12967",
+  "doi_url": "https://doi.org/10.1111/jomf.12967",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12967",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12967.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

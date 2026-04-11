@@ -1,0 +1,45 @@
+{
+  "title": "Influence of Place of Birth on Adult Mortality: The Case of Spain",
+  "abstract": "AbstractWe use a unique data set from Spain and we estimate life expectancy at age 50 for males and females by place of residence and place of birth. We show that, consistent with expectations regarding the influence of early conditions on adult health and mortality, the effects of place of birth on adult mortality are very strong, irrespective of place of residence. Furthermore, we find that mortality levels observed in a place are strongly influenced by the composition of migrants by place of birth. This is reflected in a new measure of heritability of early childhood conditions that attains a value in the range 0.42–0.43, implying that as much as 43 percent of the variance in Spain’s life expectancy at age 50 is explained by place of birth. Finally, we find evidence of the healthy migrant effect, that is, positive health selection of migrants, at a regional level.",
+  "authors": [
+    {
+      "raw": "Aldea, Néstor",
+      "family": "Aldea",
+      "given": "Néstor"
+    },
+    {
+      "raw": "Ordanovich, Dariya",
+      "family": "Ordanovich",
+      "given": "Dariya"
+    },
+    {
+      "raw": "Palloni, Alberto",
+      "family": "Palloni",
+      "given": "Alberto"
+    },
+    {
+      "raw": "Ramiro, Diego",
+      "family": "Ramiro",
+      "given": "Diego"
+    },
+    {
+      "raw": "Viciana, Francisco",
+      "family": "Viciana",
+      "given": "Francisco"
+    }
+  ],
+  "authors_text": "Aldea, Néstor; Ordanovich, Dariya; Palloni, Alberto; Ramiro, Diego; Viciana, Francisco",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2023,
+  "doi": "10.1007/s10680-023-09679-y",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09679-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09679-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09679-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

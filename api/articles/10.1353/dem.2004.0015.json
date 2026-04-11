@@ -1,0 +1,25 @@
+{
+  "title": "Continuous and robust measures of the overweight epidemic: 1971–2000",
+  "abstract": "Abstract This article considers alternate measures of the overweight epidemic that are more robust to measurement error, continuous in the body-mass index (BMI) at the overweight threshold, and sensitive to changes in the BMI distribution. The measures suggest that prevalence rates may understate the severity of the overweight problem. Since 1971, the prevalence of overweight has increased by 37%, while the distribution-sensitive measure has increased by 173%. Furthermore, although Hispanics have the highest prevalence of overweight, the distribution-sensitive measures reveal that overweight Hispanics exceed the overweight threshold by the smallest proportion (21%), whereas overweight non-Hispanic blacks exceed the threshold by 33%, on average.",
+  "authors": [
+    {
+      "raw": "Jolliffe, Dean",
+      "family": "Jolliffe",
+      "given": "Dean"
+    }
+  ],
+  "authors_text": "Jolliffe, Dean",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0015",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

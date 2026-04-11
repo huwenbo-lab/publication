@@ -1,0 +1,45 @@
+{
+  "title": "Sensitivity Analysis of Excess Mortality due to the COVID-19 Pandemic",
+  "abstract": "Estimating excess mortality is challenging. The metric depends on the expected mortality level, which can differ based on given choices, such as the method and the time series length used to estimate the baseline. However, these choices are often arbitrary, and are not subject to any sensitivity analysis. We bring to light the importance of carefully choosing the inputs and methods used to estimate excess mortality. Drawing on data from 26 countries, we investigate how sensitive excess mortality is to the choice of the mortality index, the number of years included in the reference period, the method, and the time unit of the death series. We employ two mortality indices, three reference periods, two data time units, and four methods for estimating the baseline. We show that excess mortality estimates can vary substantially when these factors are changed, and that the largest variations stem from the choice of the mortality index and the method. We also find that the magnitude of the variation in excess mortality is country-specific, resulting in cross-country rankings changes. Finally, based on our findings, we provide guidelines for estimating excess mortality.",
+  "authors": [
+    {
+      "raw": "Nepomuceno, Marilia R.",
+      "family": "Nepomuceno",
+      "given": "Marilia R."
+    },
+    {
+      "raw": "Klimkin, Ilya",
+      "family": "Klimkin",
+      "given": "Ilya"
+    },
+    {
+      "raw": "Jdanov, Dmitry A.",
+      "family": "Jdanov",
+      "given": "Dmitry A."
+    },
+    {
+      "raw": "Alustiza-Galarza, Ainhoa",
+      "family": "Alustiza-Galarza",
+      "given": "Ainhoa"
+    },
+    {
+      "raw": "Shkolnikov, Vladimir M.",
+      "family": "Shkolnikov",
+      "given": "Vladimir M."
+    }
+  ],
+  "authors_text": "Nepomuceno, Marilia R.; Klimkin, Ilya; Jdanov, Dmitry A.; Alustiza-Galarza, Ainhoa; Shkolnikov, Vladimir M.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2022,
+  "doi": "10.1111/padr.12475",
+  "doi_url": "https://doi.org/10.1111/padr.12475",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12475",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12475.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

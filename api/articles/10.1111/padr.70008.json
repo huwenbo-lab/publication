@@ -1,0 +1,35 @@
+{
+  "title": "Trends in Completed Fertility by Educational Field: Swedish Men and Women Born 1946-1975",
+  "abstract": "Previous research on fertility by field of education has revealed stronger fertility variation than by the more frequently studied metric of educational level. However, this line of research has not focused on both men and women and changes across cohorts. Our study is the first to analyze cohort trends in fertility by field of education for both sexes and includes the cohorts of educational expansion and the development towards the dual-earner-dual carer family model. We focus on native Swedes born 1946-1975. Swedish register data are used to depict educational orientation, educational level, and the number of children at age 45. The ranking of educational fields by childlessness and completed fertility is remarkably similar for men and women and stable across cohorts. Distinguishing the fields by level gives a largely analogous picture, but detailing educational fields reveals some different developments by sex and cohort. The similarity in patterns between men and women suggests that field-based attributes and conditions in resulting occupations may matter more than gender conformity for fertility outcomes.",
+  "authors": [
+    {
+      "raw": "Gortfelder, Mark",
+      "family": "Gortfelder",
+      "given": "Mark"
+    },
+    {
+      "raw": "Andersson, Gunnar",
+      "family": "Andersson",
+      "given": "Gunnar"
+    },
+    {
+      "raw": "Neyer, Gerda",
+      "family": "Neyer",
+      "given": "Gerda"
+    }
+  ],
+  "authors_text": "Gortfelder, Mark; Andersson, Gunnar; Neyer, Gerda",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70008",
+  "doi_url": "https://doi.org/10.1111/padr.70008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

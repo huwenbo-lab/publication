@@ -1,0 +1,25 @@
+{
+  "title": "Bayesian Forecasting of Mortality Rates for Small Areas Using Spatiotemporal Models",
+  "abstract": "Estimation and pre dic tion of sub na tional mor tal ity rates for small areas are essen tial plan ning tools for study ing health inequalities. Standard meth ods do not per form well when data are noisy, a typ i cal behav ior of sub na tional datasets. Thus, reli able estimates are difficult to obtain. I present a Bayesian hierarchical model framework for prediction of mortality rates at a small or subnational level. By combining ideas from demography and epidemiology, the classical mortality modeling framework is extended to include an additional spatial component capturing regional heterogeneity. Information is pooled across neighboring regions and smoothed over time and age. To make predictions more robust and address the issue of model selection, a Bayes ian ver sion of stacking is considered using leavefuture out validation. I apply this method to forecast mortality rates for 96 regions in Bavaria, Germany, disaggregated by age and sex. Uncertainty surrounding the fore casts is pro vided in terms of pre dic tion inter vals. Using posterior predictive checks, I show that the models capture the essential features and are suit able to fore cast the data at hand. On held out data, my pre dic tions out perform those of standard models lacking a regional component.",
+  "authors": [
+    {
+      "raw": "Goes, Julius",
+      "family": "Goes",
+      "given": "Julius"
+    }
+  ],
+  "authors_text": "Goes, Julius",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11212716",
+  "doi_url": "https://doi.org/10.1215/00703370-11212716",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11212716",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11212716.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

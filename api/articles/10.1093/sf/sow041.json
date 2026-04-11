@@ -1,0 +1,25 @@
+{
+  "title": "Neighborhood Violent Crime and Academic Growth in Chicago: Lasting Effects of Early Exposure",
+  "abstract": "A large body of research documents the importance of early experiences for later academic, social, and economic success. Exposure to an unsafe neighborhood is no exception. Living in a violent neighborhood can influence the stress levels, protective behaviors, and community interactions of both parents and children in ways that generate cumulative educational disadvantage. Using nine years (2002-2011) of detailed crime data from the Chicago Police Department and longitudinal administrative data from the Chicago Public Schools, I estimate the influence of early exposure to neighborhood violence on growth in standardized test scores over time. Student fixed effects are included to remove any bias due to constant differences between students. The results show that children from more violent neighborhoods fall farther behind their peers from safer neighborhoods as they progress through school. These effects are comparable in size to the independent association with socioeconomic disadvantage and an annual measure of more recent neighborhood violence exposure.",
+  "authors": [
+    {
+      "raw": "Burdick-Will, Julia",
+      "family": "Burdick-Will",
+      "given": "Julia"
+    }
+  ],
+  "authors_text": "Burdick-Will, Julia",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sow041",
+  "doi_url": "https://doi.org/10.1093/sf/sow041",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow041",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow041.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

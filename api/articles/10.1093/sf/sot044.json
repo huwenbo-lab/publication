@@ -1,0 +1,30 @@
+{
+  "title": "Causal Effects of Parental Leave on Adolescents' Household Work",
+  "abstract": "We exploit two Norwegian parental leave reforms to investigate their effects on adolescents' household work. The main reform increased the parental leave time by 7 weeks, 4 of which were reserved for the father, while the second reform raised only the general parental leave time by 3 weeks. We find a robust and substantial effect of the main reform implying that adolescent girls born immediately after the reform are less likely to do household work. By analyzing the two parental leave reforms together, we show that the father quota drives the results.",
+  "authors": [
+    {
+      "raw": "Kotsadam, A.",
+      "family": "Kotsadam",
+      "given": "A."
+    },
+    {
+      "raw": "Finseraas, H.",
+      "family": "Finseraas",
+      "given": "H."
+    }
+  ],
+  "authors_text": "Kotsadam, A.; Finseraas, H.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sot044",
+  "doi_url": "https://doi.org/10.1093/sf/sot044",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsot044",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sot044.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

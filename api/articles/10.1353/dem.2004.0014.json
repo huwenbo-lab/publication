@@ -1,0 +1,30 @@
+{
+  "title": "Welfare reform and female headship",
+  "abstract": "AbstractWhile much of the focus of recent welfare reforms has been on moving recipients from welfare to work, many reforms were also directed at decisions regarding living arrangements, pregnancy, marriage, and cohabitation. This article assesses the impact of welfare reform waivers and Temporary Assistance for Needy Families (TANF) programs on women’s decisions to become unmarried heads of families, controlling for confounding influences from local economic and social conditions. We pooled data from the 1990, 1992, 1993, and 1996 panels of the Survey of Income and Program Participation, which span the period when many states began to adopt welfare waivers and to implement TANF, and estimated logit models of the incidence of female headship and state-stratified, Cox proportional hazard models of the rates of entry into and exit from headship. We found little consistent evidence that waivers affected female headship of families.",
+  "authors": [
+    {
+      "raw": "Fitzgerald, John M.",
+      "family": "Fitzgerald",
+      "given": "John M."
+    },
+    {
+      "raw": "Ribar, David C.",
+      "family": "Ribar",
+      "given": "David C."
+    }
+  ],
+  "authors_text": "Fitzgerald, John M.; Ribar, David C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0014",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

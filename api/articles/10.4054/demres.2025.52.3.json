@@ -1,0 +1,40 @@
+{
+  "title": "Jointly estimating subnational mortality for multiple populations",
+  "abstract": "BACKGROUND Understanding patterns in mortality across subpopulations is essential for local health policy decision-making. One of the key challenges of subnational mortality rate estimation is the presence of small populations and zero or near zero death counts. When studying differences between subpopulations, this challenge is compounded as the small populations are further divided along socioeconomic or demographic lines. OBJECTIVE We aim to develop a model to estimate subnational age-specific mortality rates that accounts for the dependencies in mortality experiences across subpopulations. METHODS We develop a Bayesian hierarchical principal components-based model that shows correlations across subpopulations. RESULTS We test this approach in a simulation study and also use the model to estimate age- and sex-specific mortality rates for counties in the United States. The model performs well in validation exercises and the US estimates suggest substantial variation in mortality trends over time across geographic lines. CONTRIBUTION Our proposed model jointly estimates age-specific mortality rates for multiple subpopulations at the subnational level. By sharing information across subpopulations, our model improves on previous approaches that treat subpopulations as independent. Additionally, we demonstrate that ancillary correlation parameters are a useful tool for studying the convergence and divergence of mortality patterns over time.",
+  "authors": [
+    {
+      "raw": "Dharamshi, Ameer",
+      "family": "Dharamshi",
+      "given": "Ameer"
+    },
+    {
+      "raw": "Alexander, Monica",
+      "family": "Alexander",
+      "given": "Monica"
+    },
+    {
+      "raw": "Winant, Celeste",
+      "family": "Winant",
+      "given": "Celeste"
+    },
+    {
+      "raw": "Barbieri, Magali",
+      "family": "Barbieri",
+      "given": "Magali"
+    }
+  ],
+  "authors_text": "Dharamshi, Ameer; Alexander, Monica; Winant, Celeste; Barbieri, Magali",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.3",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

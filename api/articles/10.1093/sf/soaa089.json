@@ -1,0 +1,35 @@
+{
+  "title": "Serial Eviction Filing: Civil Courts, Property Management, and the Threat of Displacement",
+  "abstract": "Drawing on over 8 million eviction court records from twenty-eight states, this study shows the role that eviction filings play in extracting monetary sanctions from tenants. In so doing, it documents an unanticipated feature of housing insecurity: serial eviction filings. Serial eviction filings occur when a property manager files to evict the same household repeatedly from the same address. Almost half of all eviction filings in our sample are associated with serial filings. Combining multivariate analysis with in-depth interviews conducted with thirty-three property managers and ten attorneys and court officials, we document the dynamics and consequences of serial eviction filings. When legal environments expedite the eviction process, property managers use the housing court to collect rent and late fees, passing costs on to tenants. Serial eviction filings exacerbate tenants' housing cost burden and compromise their ability to find future housing. Using tract-level rent and filing fees, we estimate that each eviction filing translates into approximately $180 in fines and fees for the typical renter household, raising their monthly housing cost by 20%. The study challenges existing views of eviction as a discrete event concentrated among poor renters. Rather, it may be better conceived of as a routinized, drawn-out process affecting a broader segment of the rental market and entailing consequences beyond displacement.",
+  "authors": [
+    {
+      "raw": "Leung, Lillian",
+      "family": "Leung",
+      "given": "Lillian"
+    },
+    {
+      "raw": "Hepburn, Peter",
+      "family": "Hepburn",
+      "given": "Peter"
+    },
+    {
+      "raw": "Desmond, Matthew",
+      "family": "Desmond",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Leung, Lillian; Hepburn, Peter; Desmond, Matthew",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa089",
+  "doi_url": "https://doi.org/10.1093/sf/soaa089",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa089",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa089.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

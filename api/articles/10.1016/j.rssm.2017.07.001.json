@@ -1,0 +1,35 @@
+{
+  "title": "Do individuals with high social background graduate from more rewarding fields of study? Changing patterns before and after the 'Bologna process'",
+  "abstract": "In this article we investigate whether, in Italy, social background is related to graduation from more rewarding fields of study and if horizontal inequalities in higher education changed before and after the 'Bologna process'. We analyse fields of study (FoS) as a categorical variable, as well as a quantitative variable measuring the expected returns in terms of probability of entering the upper classes (net of unemployment risks). We use five cross-sectional waves of the Italian Graduates Employment Survey (1998-2011) with more than 115,000 cases. Applying multinomial and fractional logistic regression models, we found that individuals from socio-economically advantaged backgrounds graduate from subjects that guarantee higher chances to enter the upper classes. Horizontal inequalities related to FoS of graduation grew over time, in line with the effectively maintained inequality thesis. A more pronounced increase in class-based inequalities occurred after the implementation of the 'Bologna process'. Unlike what was found in the US, a large part of the social background differentials are not due to high school record before entering higher education.",
+  "authors": [
+    {
+      "raw": "Triventi, Moris",
+      "family": "Triventi",
+      "given": "Moris"
+    },
+    {
+      "raw": "Vergolini, Loris",
+      "family": "Vergolini",
+      "given": "Loris"
+    },
+    {
+      "raw": "Zanini, Nadir",
+      "family": "Zanini",
+      "given": "Nadir"
+    }
+  ],
+  "authors_text": "Triventi, Moris; Vergolini, Loris; Zanini, Nadir",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2017,
+  "doi": "10.1016/j.rssm.2017.07.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2017.07.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2017.07.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2017.07.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

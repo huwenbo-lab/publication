@@ -1,0 +1,30 @@
+{
+  "title": "One Sentiment, Multiple Interpretations: Contrasting Official and Popular Anti-Americanism in China",
+  "abstract": "This study contrasts official and popular expressions of anti-Americanism in China by comparing narratives from People’s Daily and Zhihu between 2011 and 2022. Using computational and qualitative methods, we examined sentiment trends, topics, and opinions in official and popular discourses. We find that although both discourses have become increasingly negative toward the United States, they diverge significantly in specific expressions: official discourse mirrors Western liberal critiques of American social problems but attributes these issues to American democracy, whereas popular discourse blends left- and right-wing populism and blames liberal elites and capitalism for the American decline. These findings highlight both the limits of state control over public opinion and the pluralistic nature of nationalist expressions. The study also situates Chinese anti-Americanism within a global zeitgeist, discussing how populism transcends borders and shapes local political discourse in unexpected contexts.",
+  "authors": [
+    {
+      "raw": "Zhang, Yinxian",
+      "family": "Zhang",
+      "given": "Yinxian"
+    },
+    {
+      "raw": "Zhou, Di",
+      "family": "Zhou",
+      "given": "Di"
+    }
+  ],
+  "authors_text": "Zhang, Yinxian; Zhou, Di",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a22",
+  "doi_url": "https://doi.org/10.15195/v12.a22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

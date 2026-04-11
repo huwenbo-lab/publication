@@ -1,0 +1,35 @@
+{
+  "title": "Disentangling between- and within-person variation in relationship science",
+  "abstract": "ObjectiveThis article provides an overview of the Cross-Lagged Panel Model (CLPM), Random-Intercept Cross-Lagged Panel Model (RI-CLPM), and Latent Curve Model with Structured Residuals (LCM-SR), highlighting the major issues of the CLPM for relationship science, and discusses dyadic extensions of those three models.BackgroundUnderstanding interdependencies among people and constructs is a central interest in relationship science. Addressing such research questions requires complex designs ideally using data collected at multiple measurement occasions of multiple constructs from at least two persons (e.g., both partners of a couple). The Cross-Lagged Panel Model (CLPM) has been widely used to analyze such data, however, particularly during the last decade, it has been pointed out that the CLPM confounds between- and within-person variation. As a consequence, alternative models such as the Random-Intercept Cross-Lagged Panel Model (RI-CLPM) and the Latent Curve Model with Structured Residuals (LCM-SR) were proposed that aim to disentangle between- and within-person variation and, hence, allow conclusions regarding within-person dynamics.MethodAs an illustrative example, we apply dyadic extensions of the CLPM, RI-CLPM, and LCM-SR to investigate the dynamic interplay between depression and relationship satisfaction in a sample of 1699 mixed-gender couples surveyed in the German Family Panel.ResultsWhile the CLPM indicated a reciprocal relationship between depression and satisfaction, the RI-CLPM and LCM-SR indicated a unidirectional association flowing from depression to satisfaction.ConclusionWe discuss how findings like this can foster theory-building and, ultimately, strengthen relationship science.",
+  "authors": [
+    {
+      "raw": "Mund, Marcus",
+      "family": "Mund",
+      "given": "Marcus"
+    },
+    {
+      "raw": "Park, Yoobin",
+      "family": "Park",
+      "given": "Yoobin"
+    },
+    {
+      "raw": "Nestler, Steffen",
+      "family": "Nestler",
+      "given": "Steffen"
+    }
+  ],
+  "authors_text": "Mund, Marcus; Park, Yoobin; Nestler, Steffen",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12999",
+  "doi_url": "https://doi.org/10.1111/jomf.12999",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12999",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12999.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

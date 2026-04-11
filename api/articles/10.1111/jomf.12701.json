@@ -1,0 +1,45 @@
+{
+  "title": "Too Early for Early Education? Effects on Parenting for Mothers and Fathers",
+  "abstract": "Objective To estimate the effect of children's age of entry into early childhood education and care (ECEC) on parenting quality of mothers and fathers in a context of universal access to subsidized ECEC following a 1 year paid parental leave. Background Children entering non-parental care settings in early childhood may have negative consequences for parenting quality. Yet, current evidence supporting this claim is predominantly from the United States, is focused almost exclusively on mothers, and is predominantly based on statistical approaches that are vulnerable to unobserved selection bias. Method Data are from a Norwegian longitudinal study, including ratings of observed mother-child (n = 901) and father-child (n = 621) interactions, and children's age of entry into ECEC. Multivariate regression models and instrumental variable models were used to estimate the causal effect of age of entry on parenting quality. Results There was no support for the hypothesis that an earlier age of entry into ECEC negatively affects parenting quality, for either fathers or mothers. This was true for the sample as a whole, and for different sociodemographic subgroups. Conclusion In a Norwegian context in which families have universal access to subsidized ECEC from the time their child is 1 year of age, and most children enter ECEC in their second year, there is no evidence that an earlier age of entry in ECEC harms parenting quality.",
+  "authors": [
+    {
+      "raw": "Zachrisson, Henrik D.",
+      "family": "Zachrisson",
+      "given": "Henrik D."
+    },
+    {
+      "raw": "Owen, Margaret T.",
+      "family": "Owen",
+      "given": "Margaret T."
+    },
+    {
+      "raw": "Nordahl, Kristin B.",
+      "family": "Nordahl",
+      "given": "Kristin B."
+    },
+    {
+      "raw": "Ribeiro, Luisa",
+      "family": "Ribeiro",
+      "given": "Luisa"
+    },
+    {
+      "raw": "Dearing, Eric",
+      "family": "Dearing",
+      "given": "Eric"
+    }
+  ],
+  "authors_text": "Zachrisson, Henrik D.; Owen, Margaret T.; Nordahl, Kristin B.; Ribeiro, Luisa; Dearing, Eric",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12701",
+  "doi_url": "https://doi.org/10.1111/jomf.12701",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12701",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12701.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

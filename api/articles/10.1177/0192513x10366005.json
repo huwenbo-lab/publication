@@ -1,0 +1,25 @@
+{
+  "title": "The Increasing Protection of Marriage on Infant Low Birth Weight Across Two Generations of African American Women",
+  "abstract": "This study used data from the Panel Study of Income Dynamics (PSID) on two generations of African American women who gave birth from 1967 to 2005 to describe changing relationships between marital status and low birth weight (LBW) across the generations. An increasing protection of marriage on infant LBW across the two generations was found after adjusting for socioeconomic and demographic confounding factors via (a) logistic regression using generalized estimating equations, (b) propensity score analyses taking into account the differential distribution of confounders across the generations, and (c) sensitivity analyses that adjusted for childhood health of the mother prior to marriage. Intergenerational findings also suggest that marriage across generations was most protective against infant LBW; the lowest risk for LBW was found among women who were both married when they gave birth to their infants and had mothers who were married at the time they themselves were born.",
+  "authors": [
+    {
+      "raw": "Barrington, Debbie S.",
+      "family": "Barrington",
+      "given": "Debbie S."
+    }
+  ],
+  "authors_text": "Barrington, Debbie S.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2010,
+  "doi": "10.1177/0192513x10366005",
+  "doi_url": "https://doi.org/10.1177/0192513x10366005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x10366005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x10366005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

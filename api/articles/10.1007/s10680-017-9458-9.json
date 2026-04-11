@@ -1,0 +1,40 @@
+{
+  "title": "The Length of Working Life in Spain: Levels, Recent Trends, and the Impact of the Financial Crisis",
+  "abstract": "While there has been considerable debate about extending the length of working life, relatively little is known about this issue. We use data from the Spanish Continuous Working Life Sample for 2004-2013 to calculate period working life tables, which in turn allows us to assess the impact of the financial crisis on working life expectancy in Spain. Before the recession hit, working life expectancy in Spain was around 38 years for males and 33 years for females. The recession had a tremendous impact on the Spanish labor market, but the effects differed considerably by gender and occupational category. Men working in skilled non-manual jobs were less affected, while men working in unskilled manual jobs lost close to 14 years of working life expectancy. Women were less affected than men. With working life expectancy decreasing, the average proportion of lifetime spent in unemployment and outside the labor market increased markedly, whereas the average number of years spent in retirement changed only a little. When we decompose losses in working life expectancy by age group, we find that economic fluctuations affect both older and younger workers. This result suggests that policies that focus on retirement ages only are incomplete. We also compare our findings to the results obtained by Sullivans method, which is based on prevalence rates rather than the incidence-based working life table approach. We find that the use of Sullivans approach does not accurately reflect the levels of and the trends in working life expectancy.",
+  "authors": [
+    {
+      "raw": "Dudel, Christian",
+      "family": "Dudel",
+      "given": "Christian"
+    },
+    {
+      "raw": "López Gómez, María Andrée",
+      "family": "López Gómez",
+      "given": "María Andrée"
+    },
+    {
+      "raw": "Benavides, Fernando G.",
+      "family": "Benavides",
+      "given": "Fernando G."
+    },
+    {
+      "raw": "Myrskylä, Mikko",
+      "family": "Myrskylä",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Dudel, Christian; López Gómez, María Andrée; Benavides, Fernando G.; Myrskylä, Mikko",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-017-9458-9",
+  "doi_url": "https://doi.org/10.1007/s10680-017-9458-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-017-9458-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-017-9458-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

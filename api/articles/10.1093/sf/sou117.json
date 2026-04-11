@@ -1,0 +1,40 @@
+{
+  "title": "Work-Family Context and the Longevity Disadvantage of US Women",
+  "abstract": "Female life expectancy is currently shorter in the United States than in most high-income countries. This study examines work-family context as a potential explanation. While work-family context changed similarly across high-income countries during the past half century, the United States has not implemented institutional supports, such as universally available childcare and family leave, to help Americans contend with these changes. We compare the United States to Finland-a country with similar trends in work-family life but generous institutional supports-and test two hypotheses to explain US women's longevity disadvantage: (1) US women may be less likely than Finnish women to combine employment with childrearing; and (2) US women's longevity may benefit less than Finnish women's longevity from combining employment with childrearing. We used data from women aged 30-60aEuro...years during 1988-2006 in the US National Health Interview Survey Linked Mortality File and harmonized it with data from Finnish national registers. We found stronger support for hypothesis 1, especially among low-educated women. Contrary to hypothesis 2, combining employment and childrearing was not less beneficial for US women's longevity. In a simulation exercise, more than 75 percent of US women's longevity disadvantage was eliminated by raising their employment levels to Finnish levels and reducing mortality rates of non-married/non-employed US women to Finnish rates.",
+  "authors": [
+    {
+      "raw": "Montez, Jennifer Karas",
+      "family": "Montez",
+      "given": "Jennifer Karas"
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    },
+    {
+      "raw": "Remes, Hanna",
+      "family": "Remes",
+      "given": "Hanna"
+    },
+    {
+      "raw": "Avendano, Mauricio",
+      "family": "Avendano",
+      "given": "Mauricio"
+    }
+  ],
+  "authors_text": "Montez, Jennifer Karas; Martikainen, Pekka; Remes, Hanna; Avendano, Mauricio",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sou117",
+  "doi_url": "https://doi.org/10.1093/sf/sou117",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou117",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou117.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

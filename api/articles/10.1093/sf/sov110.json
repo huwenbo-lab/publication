@@ -1,0 +1,30 @@
+{
+  "title": "The Dynamics of Prosocial Leadership: Power and Influence in Collective Action Groups",
+  "abstract": "This paper bridges insights from theories of collective action, power, and influence to address the conditions under which group leaders solve collective action problems. We show how leaders' behaviors impact the success of collective action groups as a whole via both power and influence processes. In a laboratory experiment, groups first completed a baseline measure of cooperation in a public good dilemma without punishment. In a second phase, the capacity to punish was introduced. One condition, the peer-sanctioning condition, was equivalent to the prevailing solution in the experimental literature on collective action, where the ability to punish others is distributed equally among all group members. In the other two conditions, only a single group leader could punish; we varied whether the person assigned to lead was other-regarding (prosocial) or self-regarding (proself). The results support our prediction that prosocial leaders increase their contributions to the group after ascending to leadership, while proself leaders reduce their contributions. Further, as expected, rank-and-file group members are influenced by leaders' contribution behaviors; as a result, prosocial-led groups as a whole were substantially more productive than proself-led groups. Indeed, as predicted, prosocial leaders were even more effective in maintaining large group contributions than the standard peer-sanctioning system. These findings suggest that putting power and influence in the right hands solves collective action problems and promotes collective welfare.",
+  "authors": [
+    {
+      "raw": "Harrell, Ashley",
+      "family": "Harrell",
+      "given": "Ashley"
+    },
+    {
+      "raw": "Simpson, Brent",
+      "family": "Simpson",
+      "given": "Brent"
+    }
+  ],
+  "authors_text": "Harrell, Ashley; Simpson, Brent",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sov110",
+  "doi_url": "https://doi.org/10.1093/sf/sov110",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov110",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov110.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

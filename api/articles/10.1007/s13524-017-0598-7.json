@@ -1,0 +1,25 @@
+{
+  "title": "Risk of Developing Dementia at Older Ages in the United States",
+  "abstract": "Dementia is increasingly recognized as a major source of disease burden in the United States, yet little research has evaluated the lifecycle implications of dementia. To address this research gap, this article uses the Aging, Demographics, and Memory Study (ADAMS) to provide the first nationally representative, longitudinal estimates of the probability that a dementia-free person will develop dementia later in life. For the 1920 birth cohort, the average dementia-free 70-year-old male had an estimated 26.9 % (SE = 3.2 %) probability of developing dementia, and the average dementia-free 70-year-old female had an estimated 34.7 % (SE = 3.7 %) probability. These estimates of risk of dementia are higher for younger, lower-mortality cohorts and are substantially higher than those found in local epidemiological studies in the United States, suggesting a widespread need to prepare for a life stage with dementia.",
+  "authors": [
+    {
+      "raw": "Fishman, Ezra",
+      "family": "Fishman",
+      "given": "Ezra"
+    }
+  ],
+  "authors_text": "Fishman, Ezra",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0598-7",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0598-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0598-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0598-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

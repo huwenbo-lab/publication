@@ -1,0 +1,35 @@
+{
+  "title": "Visualizing Variation in Majority-Black Suburbs in the United States",
+  "abstract": "The aim of this visualization is to highlight sociodemographic variation among Black suburbs and spur further research on them. The authors provide a sociodemographic portrait of Black suburbs, defined as those that are more than 50 percent Black, to highlight their prevalence and variety. The 100 largest metropolitan statistical areas in 2018 contained 413 Black suburbs, representing 5 percent of all suburbs. The authors examine distributions of Black suburbs on two characteristics, median household income and housing age, to make two points. First, Black suburbs feature substantial sociodemographic variation in terms of both income and housing age. Second, this variation is not primarily a function of suburbs’ Black population share. Contrary to common assumptions, Black suburbs are not all older suburbs populated by the socioeconomically disadvantaged but include newer, middle-class, and affluent places as well.",
+  "authors": [
+    {
+      "raw": "Douds, Kiara Wyndham",
+      "family": "Douds",
+      "given": "Kiara Wyndham"
+    },
+    {
+      "raw": "Lewis-McCoy, R. L’Heureux",
+      "family": "Lewis-McCoy",
+      "given": "R. L’Heureux"
+    },
+    {
+      "raw": "Johnson, Kimberley",
+      "family": "Johnson",
+      "given": "Kimberley"
+    }
+  ],
+  "authors_text": "Douds, Kiara Wyndham; Lewis-McCoy, R. L’Heureux; Johnson, Kimberley",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211065521",
+  "doi_url": "https://doi.org/10.1177/23780231211065521",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211065521",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211065521.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

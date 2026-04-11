@@ -1,0 +1,30 @@
+{
+  "title": "Contested Boundaries: Explaining Where Ethnoracial Diversity Provokes Neighborhood Conflict",
+  "abstract": "Concerns about neighborhood erosion and conflict in ethnically diverse settings occupy scholars, policy makers, and pundits alike; but the empirical evidence is inconclusive. This article proposes the contested boundaries hypothesis as a refined contextual explanation focused on poorly defined boundaries between ethnic and racial groups. The authors argue that neighborhood conflict is more likely to occur at fuzzy boundaries defined as interstitial or transitional areas sandwiched between two homogeneous communities. Edge detection algorithms from computer vision and image processing allow them to identify these boundaries. Data from 4.7 million time-and geo-coded 311 service requests from New York City support their argument: complaints about neighbors making noise, drinking in public, or blocking the driveway are more frequent at fuzzy boundaries rather than crisp, polarized borders. By focusing on the broader sociospatial structure, the contested boundaries hypothesis overcomes the aspatial treatment of neighborhoods as isolated areas in research on ethnic diversity.",
+  "authors": [
+    {
+      "raw": "Legewie, Joscha",
+      "family": "Legewie",
+      "given": "Joscha"
+    },
+    {
+      "raw": "Schaeffer, Merlin",
+      "family": "Schaeffer",
+      "given": "Merlin"
+    }
+  ],
+  "authors_text": "Legewie, Joscha; Schaeffer, Merlin",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2016,
+  "doi": "10.1086/686942",
+  "doi_url": "https://doi.org/10.1086/686942",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F686942",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/686942.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

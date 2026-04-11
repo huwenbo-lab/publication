@@ -1,0 +1,35 @@
+{
+  "title": "Revisiting marital health protection: Intraindividual health dynamics around transition to legal marriage",
+  "abstract": "Objective This study analyzes the dynamics of health associated with the transition to first marriage and remaining in marriage up to 24 years in order to estimate the protective effect of heterosexual marriage (compared to being never married, including the unpartnered, partnered, and cohabiting) on physical, mental, and self-rated health. Background Past research produced inconclusive results on marital health protection. This study advances the debate by overcoming theoretical and methodological shortcomings of previous research. The authors use new statistical methods, which go beyond controlling for self-selection into marriage on health levels and also account for selection on health trajectories. Method The authors used German Socio-Economic Panel (SOEP) data (1992-2018, stratified random sample; N = 27,205 observations for physical and mental health, N = 110,440 observations for self-rated health). This study relied on fixed effects models with individual slopes, which controlled for individual premarital health trends, as well as fixed effects models with group slopes (FEGS), which modeled self-selection into marriage on premarital health trajectories. Results Compared to health trajectories of the never married, self-rated health and physical health declined temporarily upon the transition into marriage, but improved in the long run; however, the cumulative protective effect was statistically significant only among men and only for self-rated health. Mental health improved around the transition into first marriage, but the effect was short-lived. Men with more sustainable premarital health had a higher chance of marrying. Conclusion This study does not support the strong theoretical claims of marital protection and suggests that marriage exerts a mix of protective and adverse effects on health.",
+  "authors": [
+    {
+      "raw": "Mikucka, Malgorzata",
+      "family": "Mikucka",
+      "given": "Malgorzata"
+    },
+    {
+      "raw": "Becker, Oliver Arranz",
+      "family": "Becker",
+      "given": "Oliver Arranz"
+    },
+    {
+      "raw": "Wolf, Christof",
+      "family": "Wolf",
+      "given": "Christof"
+    }
+  ],
+  "authors_text": "Mikucka, Malgorzata; Becker, Oliver Arranz; Wolf, Christof",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12784",
+  "doi_url": "https://doi.org/10.1111/jomf.12784",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12784",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12784.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

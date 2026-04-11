@@ -1,0 +1,40 @@
+{
+  "title": "Homecoming After Brexit: Evidence on Academic Migration From Bibliometric Data",
+  "abstract": "This study assesses the initial effects of the 2016 Brexit referendum on the mobility of academic scholars to and from the United Kingdom (UK). We leverage bib- liometric data from millions of Scopus publications to infer changes in the countries of residence of published researchers by the changes in their institutional affiliations over time. We focus on a selected sample of active and internationally mobile researchers whose movements are traceable for every year between 2013 and 2019 and measure the changes in their migration patterns. Although we do not observe a brain drain following Brexit, we find evidence that scholars' mobility patterns changed after Brexit. Among the active researchers in our sample, their probability of leaving the UK increased by approximately 86% if their academic origin (country of first publication) was an EU country. For scholars with a UK academic origin, their post-Brexit probability of leaving the UK decreased by approximately 14%, and their probability of moving (back) to the UK increased by roughly 65%. Our analysis points to a compositional change in the academic origins of the researchers entering and leaving the UK as one of the first impacts of Brexit on the UK and EU academic workforce.",
+  "authors": [
+    {
+      "raw": "Sanlituerk, Ebru",
+      "family": "Sanlituerk",
+      "given": "Ebru"
+    },
+    {
+      "raw": "Aref, Samin",
+      "family": "Aref",
+      "given": "Samin"
+    },
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    },
+    {
+      "raw": "Billari, Francesco C.",
+      "family": "Billari",
+      "given": "Francesco C."
+    }
+  ],
+  "authors_text": "Sanlituerk, Ebru; Aref, Samin; Zagheni, Emilio; Billari, Francesco C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11679804",
+  "doi_url": "https://doi.org/10.1215/00703370-11679804",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11679804",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11679804.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

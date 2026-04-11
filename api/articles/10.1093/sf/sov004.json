@@ -1,0 +1,40 @@
+{
+  "title": "Streams of Thought: Knowledge Flows and Intellectual Cohesion in a Multidisciplinary Era",
+  "abstract": "How has the recent shift toward multidisciplinary research affected intellectual cohesion in academia? We answer this question through an examination of collaborations and knowledge flows among researchers. We examine the relevant case of Stanford University during a period of intense investment in multidisciplinary research, using a novel measure of knowledge flows in the short-cycled movement of published references from one researcher to another. We describe intellectual cohesion and its trajectory among 1,007 faculty members between 1997 and 2006, and then examine the social-structural antecedents of dyadic knowledge flows that help explain macro-level patterns. Results show that university collaborations have grown denser and more integrated across faculty members and their institutional divisions. However, this integration is led by star researchers and is accompanied by a greater centralization of knowledge flows around these individuals. Results illustrate important shifts in the nature of academic research, and contribute to a dynamic view of intellectual cohesion.",
+  "authors": [
+    {
+      "raw": "Rawlings, Craig M.",
+      "family": "Rawlings",
+      "given": "Craig M."
+    },
+    {
+      "raw": "McFarland, Daniel A.",
+      "family": "McFarland",
+      "given": "Daniel A."
+    },
+    {
+      "raw": "Dahlander, Linus",
+      "family": "Dahlander",
+      "given": "Linus"
+    },
+    {
+      "raw": "Wang, Dan",
+      "family": "Wang",
+      "given": "Dan"
+    }
+  ],
+  "authors_text": "Rawlings, Craig M.; McFarland, Daniel A.; Dahlander, Linus; Wang, Dan",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sov004",
+  "doi_url": "https://doi.org/10.1093/sf/sov004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

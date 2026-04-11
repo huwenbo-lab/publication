@@ -1,0 +1,30 @@
+{
+  "title": "Order matters: The effect of premarital pregnancy on second childbearing in Japan",
+  "abstract": "BACKGROUND Although nonmarital childbearing is uncommon in Japan, in contrast to the trends observed in other countries, the number of premarital pregnancies has increased. While prior studies have examined the determinants of premarital pregnancy, little is known about its consequence on individuals' subsequent childbearing. OBJECTIVE The aim of this study is to investigate the effect of premarital pregnancy on a second childbirth in Japan. METHOD We use Japanese General Social Survey Life Course Study data, which covers women ages 28-42 in 2007. We use discrete time logistic regressions to estimate the individual risk of experiencing a second childbirth. Additionally, because being pregnant before marriage occurs selectively depending on individual demographic characteristics, we attempt to balance the propensity to experience premarital pregnancy by using propensity score matching. RESULTS The results reveal that experiencing premarital pregnancy causes a higher likelihood of second childbirth at earlier and later ages, defined as month at risk starting from one year after the first birth. CONCLUSION Our results support the life course change hypothesis. This predicts that premarital pregnancy, which is highly likely to be unintended, increases the risk of bearing a second child, possibly by relatively reducing both women's attachment to paid employment and the opportunity cost of having a second child. CONTRIBUTION Premarital pregnancy may affect women's subsequent life course through the influence of the strong linkage between marriage and fertility and the Japanese work culture. The results could be applicable to other East Asian countries.",
+  "authors": [
+    {
+      "raw": "Uchikoshi, Fumiya",
+      "family": "Uchikoshi",
+      "given": "Fumiya"
+    },
+    {
+      "raw": "Mogi, Ryohei",
+      "family": "Mogi",
+      "given": "Ryohei"
+    }
+  ],
+  "authors_text": "Uchikoshi, Fumiya; Mogi, Ryohei",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.48",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.48",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.48",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.48.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

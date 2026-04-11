@@ -1,0 +1,30 @@
+{
+  "title": "Modeling Disability-Free Life Expectancy With Duration Dependence: A Research Note on the Bias in the Mar kov Assumption",
+  "abstract": "Demographic stud ies on healthy life expec tancy often rely on the Mar kov assump tion, which fails to con sider the dura tion of expo sure to risk. To address this lim i ta tion, mod els like the dura tion-depen dent mul ti state life table (DDMSLT) have been devel oped. However, these mod els can not be directly applied to left-cen sored survey data, as they require knowl edge of the time spent in the ini tial state, which is rarely known because of sur vey design. This research note pres ents a flex i ble approach for uti liz ing this type of sur vey data within the DDMSLT frame work to esti mate mul ti state life expectancies. The approach involves partially dropping left-censored observations and trun cat ing the dura tion length after which dura tion depen dence is assumed to be mini mal. Utilizing the U.S. Health and Retirement Study, we apply this approach to com pute dis abil ity-free/healthy life expec tancy (HLE) among older adults in the United States and com pare dura tion-depen dent mod els to the typ i cal mul ti state model with the Mar kov assump tion. Findings sug gest that while dura tion depen dence is pres ent in tran si tion prob a bil i ties, its effect on HLE is aver aged out. As a result, the bias in this case is minimal, and the Markov assumption provides a plausible and parsimonious esti mate of HLE.",
+  "authors": [
+    {
+      "raw": "Shen, Tianyu",
+      "family": "Shen",
+      "given": "Tianyu"
+    },
+    {
+      "raw": "O'Donnell, James",
+      "family": "O'Donnell",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Shen, Tianyu; O'Donnell, James",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11696463",
+  "doi_url": "https://doi.org/10.1215/00703370-11696463",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11696463",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11696463.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

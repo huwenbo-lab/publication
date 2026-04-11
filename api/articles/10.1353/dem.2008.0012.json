@@ -1,0 +1,30 @@
+{
+  "title": "Neighborhood selection and the social reproduction of concentrated racial inequality",
+  "abstract": "Abstract In this paper, we consider neighborhood selection as a social process central to the reproduction of racial inequality in neighborhood attainment. We formulate a multilevel model that decomposes multiple sources of stability and change in longitudinal trajectories of achieved neighborhood income among nearly 4,000 Chicago families followed for up to seven years wherever they moved in the United States. Even after we adjust for a comprehensive set of fixed and time-varying covariates, racial inequality in neighborhood attainment is replicated by movers and stayers alike. We also study the emergent consequences of mobility pathways for neighborhood-level structure. The temporal sorting by individuals of different racial and ethnic groups combines to yield a structural pattern of flows between neighborhoods that generates virtually nonoverlapping income distributions and little exchange between minority and white areas. Selection and racially shaped hierarchies are thus mutually constituted and account for an apparent equilibrium of neighborhood inequality.",
+  "authors": [
+    {
+      "raw": "Sampson, Robert J.",
+      "family": "Sampson",
+      "given": "Robert J."
+    },
+    {
+      "raw": "Sharkey, Patrick",
+      "family": "Sharkey",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Sampson, Robert J.; Sharkey, Patrick",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.2008.0012",
+  "doi_url": "https://doi.org/10.1353/dem.2008.0012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2008.0012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2008.0012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

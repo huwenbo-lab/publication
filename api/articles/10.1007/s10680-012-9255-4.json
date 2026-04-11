@@ -1,0 +1,30 @@
+{
+  "title": "Secularization, Union Formation Practices, and Marital Stability: Evidence from Italy",
+  "abstract": "Descriptive statistics indicate that civil marriages and marriages preceded by premarital cohabitation are more unstable, i.e., more frequently followed by divorce. However, the literature has shown that selectivity plays an important role in the relationship between premarital cohabitation and union dissolution. We do not have evidence to date regarding the selectivity in the effect of civil marriage. The Italian case appears particularly interesting given the recent diffusion of premarital cohabitation and civil marriage. Using micro-level data from a national-level representative survey conducted in 2003, we develop a multiprocess model that allows unobserved heterogeneity to be correlated across the three decisions (premarital cohabitation, civil marriage, and divorce). Our results show that selectivity is the main factor that explains the higher divorce rates among those who experience premarital cohabitation and a civil marriage. Net of selectivity, the causal effect on union dissolution disappears.",
+  "authors": [
+    {
+      "raw": "Impicciatore, Roberto",
+      "family": "Impicciatore",
+      "given": "Roberto"
+    },
+    {
+      "raw": "Billari, Francesco C.",
+      "family": "Billari",
+      "given": "Francesco C."
+    }
+  ],
+  "authors_text": "Impicciatore, Roberto; Billari, Francesco C.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2012,
+  "doi": "10.1007/s10680-012-9255-4",
+  "doi_url": "https://doi.org/10.1007/s10680-012-9255-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-012-9255-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-012-9255-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

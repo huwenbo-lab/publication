@@ -1,0 +1,35 @@
+{
+  "title": "The increasing risk of poverty across the American life course",
+  "abstract": "Abstract This article extends the emerging body of life course research on poverty by empirically identifying the incidence, chronicity, and age pattern of American poverty and how these dimensions have changed during the period 1968-2000. Using the Panel Study of Income Dynamics, we construct a series of life tables that estimate the risk of poverty for adults during their 20s, 30s, 40s, 50s, 60s, and 70s, and compare these estimates for Americans in the 1970s, 1980s, and 1990s. Our empirical results suggest that the risk of acute poverty increased substantially, particularly in the 1990s. This observed increase was especially pronounced for individuals in their 20s, 30s, and 40s; for all age groups with respect to extreme poverty; and for white males. On the other hand, the risk of chronic poverty declined during the 1990s (as measured by the percentage of the poor who experienced five or more years of poverty within a 10-year interval). The results in this article tell a very different story than the Census Bureau's yearly cross-sectional rates, which have shown little overall change in the U.S. poverty rate during this 30-year period. In contrast, a life course approach reveals a rising economic risk of acute poverty for individuals, one that is consistent with recent observations and research suggesting that a growing number of Americans will eventually find themselves in an economically precarious position.",
+  "authors": [
+    {
+      "raw": "Sandoval, Daniel A.",
+      "family": "Sandoval",
+      "given": "Daniel A."
+    },
+    {
+      "raw": "Rank, Mark R.",
+      "family": "Rank",
+      "given": "Mark R."
+    },
+    {
+      "raw": "Hirschl, Thomas A.",
+      "family": "Hirschl",
+      "given": "Thomas A."
+    }
+  ],
+  "authors_text": "Sandoval, Daniel A.; Rank, Mark R.; Hirschl, Thomas A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0082",
+  "doi_url": "https://doi.org/10.1353/dem.0.0082",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0082",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0082.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

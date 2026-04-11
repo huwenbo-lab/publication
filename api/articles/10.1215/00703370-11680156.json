@@ -1,0 +1,40 @@
+{
+  "title": "Revisiting the J-Shape: Human Development and Fertility in the United States",
+  "abstract": "Economic and social development are closely linked with fertility. Several studies have shown that the relationship follows an inverse J-shape: the association is negative at low and intermediate levels of development and reverses to become positive at high development levels. However, more recent research building on subnational and U.S. data found only mixed evidence for the inverse J-shape. In this article, we draw on subnational data on development and fertility in the U.S. states between 1969 and 2018 to examine the relationship between development and fertility. Using a longitudi- nal approach and addressing several criticisms of the fertility reversal hypothesis, our results support the inverse J-shaped pattern under most model specifications. However, this pattern might have vanished since the 2007-2008 financial crisis. Our findings provide insights into the mechanisms that link development and fertility, showing that gender equality and economic uncertainty mediate the relationship between develop- ment and fertility.",
+  "authors": [
+    {
+      "raw": "Schubert, Henrik-Alexander",
+      "family": "Schubert",
+      "given": "Henrik-Alexander"
+    },
+    {
+      "raw": "Dudel, Christian",
+      "family": "Dudel",
+      "given": "Christian"
+    },
+    {
+      "raw": "Kolobova, Marina",
+      "family": "Kolobova",
+      "given": "Marina"
+    },
+    {
+      "raw": "Myrskylae, Mikko",
+      "family": "Myrskylae",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Schubert, Henrik-Alexander; Dudel, Christian; Kolobova, Marina; Myrskylae, Mikko",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11680156",
+  "doi_url": "https://doi.org/10.1215/00703370-11680156",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11680156",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11680156.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

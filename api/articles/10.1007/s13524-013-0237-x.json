@@ -1,0 +1,25 @@
+{
+  "title": "Growing Up Together: Cohort Composition and Child Investment",
+  "abstract": "Abstract In sub-Saharan Africa, 60 % of child deaths are preventable by investments in child health as simple as immunizations, bed nets, or water purification. This article investigates how a household’s decisions regarding such investments are affected by the size and gender composition of a child’s cohort. I focus on a previously overlooked type of investment: nonrival, child-specific goods (club goods). I empirically estimate the response of immunization status to cohort characteristics. I carefully address the problem of endogenous fertility, which is common in cohort studies. Because most rural Senegalese households are composed of multiple nuclear families, a child’s cohort is composed of both siblings and nonsibling children. Estimating within households, I instrument cohort characteristics with those of the nonsibling (exogenous) portion. I find that children with larger (or more predominantly male) cohorts of vaccine-eligible age are significantly more likely to receive immunization. These findings suggest that children with larger cohorts may be better off in terms of club investments; this is a significant finding for child health given that many illness prevention methods are of a club good nature.",
+  "authors": [
+    {
+      "raw": "Jones, Kelly M.",
+      "family": "Jones",
+      "given": "Kelly M."
+    }
+  ],
+  "authors_text": "Jones, Kelly M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0237-x",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0237-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0237-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0237-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

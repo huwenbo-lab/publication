@@ -1,0 +1,25 @@
+{
+  "title": "Military Service during the Vietnam Era: Were There Consequences for Subsequent Civilian Earnings?",
+  "abstract": "Using longitudinal data gathered in the National Longitudinal Study of Young Men spanning the years from 1966 to 1981, I examine the relationship between military service and subsequent income earned in the civilian labor market. Through the use of fixed-effects estimators, I am able to generate estimates of the effects that are independent of unmeasured family-specific and person-specific factors that might bias the relationship. The use of longitudinal data also allows for the construction and comparison of earning trajectories for veterans and nonveterans. The results indicate that veterans have earning profiles that differ from those of nonveterans. In particular, after leaving military service, veterans who were drafted earn less than nonveterans, but this difference erodes over time because veterans have a steeper earning profile. Within less than ten years of discharge there is no statistically significant difference between the earnings of veterans and those of nonveterans.",
+  "authors": [
+    {
+      "raw": "Teachman, J.",
+      "family": "Teachman",
+      "given": "J."
+    }
+  ],
+  "authors_text": "Teachman, J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2004,
+  "doi": "10.1353/sof.2005.0021",
+  "doi_url": "https://doi.org/10.1353/sof.2005.0021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2005.0021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2005.0021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

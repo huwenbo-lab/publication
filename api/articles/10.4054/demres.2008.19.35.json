@@ -1,0 +1,35 @@
+{
+  "title": "An integrated approach to cause-of-death analysis: cause-deleted life tables and decompositions of life expectancy",
+  "abstract": "This article integrates two methods that analyze the implications of various causes of death for life expectancy. One of the methods attributes changes in life expectancy to various causes of death; the other method examines the effect of removing deaths from a particular cause on life expectancy. This integration is accomplished by new formulas that make clearer the interactions among causes of death in determining life expectancy. We apply our approach to changes in life expectancy in the United States between 1970 and 2000. We demonstrate, and explain analytically, the paradox that cancer is responsible for more years of life lost in 2000 than in 1970 despite the fact that declines in cancer mortality contributed to advances in life expectancy between 1970 and 2000.",
+  "authors": [
+    {
+      "raw": "Beltran-Sanchez, Hiram",
+      "family": "Beltran-Sanchez",
+      "given": "Hiram"
+    },
+    {
+      "raw": "Preston, Samuel",
+      "family": "Preston",
+      "given": "Samuel"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Beltran-Sanchez, Hiram; Preston, Samuel; Canudas-Romo, Vladimir",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2008,
+  "doi": "10.4054/demres.2008.19.35",
+  "doi_url": "https://doi.org/10.4054/demres.2008.19.35",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2008.19.35",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2008.19.35.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

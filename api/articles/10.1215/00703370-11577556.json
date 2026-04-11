@@ -1,0 +1,40 @@
+{
+  "title": "Do Migrants Exhibit More Grit? A Research Note",
+  "abstract": "Strong expectations exist for the selectivity of migration along key demo graphic characteristics, such as age, sex, and education, which are often linked to social and economic drivers. Scholars acknowledge, however, that migratory behav ior is also likely to be selective on characteristics that are less readily observable. This research note expands the list by examining grit-in other words, a measure of perseverance in the face of adversity. We test for a relationship between South African rural-urban migration, net of other standard covariates, and an established composite psychosocial measure of grit. We draw on two waves of survey data orig inating from a demographic surveillance platform but with respondents followed irrespective of their subsequent geographic mobility. Simple bivariate regressions suggest that grit is strongly associated with migration. Using multivariate models, we continue to detect a statistically significant association of migration with grit in the presence of controls. When the model is further refined to stratify by sex and separate geographic destinations, a sex differential emerges, with grit being more predictive for females. We conclude by suggesting that such findings should encourage broader inquiries that consider grit and other psychological character istics, particularly investigations that might help further illuminate differentials by the experience of gender.",
+  "authors": [
+    {
+      "raw": "White, Michael J.",
+      "family": "White",
+      "given": "Michael J."
+    },
+    {
+      "raw": "Myroniuk, Tyler W.",
+      "family": "Myroniuk",
+      "given": "Tyler W."
+    },
+    {
+      "raw": "Ginsburg, Carren",
+      "family": "Ginsburg",
+      "given": "Carren"
+    },
+    {
+      "raw": "Pheiffer, Chantel",
+      "family": "Pheiffer",
+      "given": "Chantel"
+    }
+  ],
+  "authors_text": "White, Michael J.; Myroniuk, Tyler W.; Ginsburg, Carren; Pheiffer, Chantel",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11577556",
+  "doi_url": "https://doi.org/10.1215/00703370-11577556",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11577556",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11577556.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Unions, democracy, and Trump: Deconstructing the COVID-19 vaccination crisis of 2021",
+  "abstract": "The COVID-19 pandemic has posed significant challenges for U.S. workers, especially those in essential occupations. As most public health experts view vaccination as the only certain path to defeating the virus, this study examines how union membership, political participation, and support for Trump have affected adult vaccination rates. The analyses also explore how these interrelated factors intersect to either exacerbate or reduce the ongoing public health crisis. Using vaccination data from 3112 U.S. counties in July of 2021, this study finds strong support for claims that localities with high levels of support for Trump have lower percentages of adults vaccinated, while areas with higher union coverage and higher voter turnout are associated with higher rates of vaccination. Moreover, the results show that the positive effects of union density are enhanced in counties with higher rates of voter turnout and support for Trump, revealing a complex relationship between unions, democracy and partisan politics. The results suggest that workplace and political democracy can effectively facilitate individual and collective responses to large-scale collective action problems such as the COVID-19 pandemic.",
+  "authors": [
+    {
+      "raw": "Vachon, Todd E.",
+      "family": "Vachon",
+      "given": "Todd E."
+    },
+    {
+      "raw": "Wallace, Michael",
+      "family": "Wallace",
+      "given": "Michael"
+    },
+    {
+      "raw": "Li, Angran",
+      "family": "Li",
+      "given": "Angran"
+    }
+  ],
+  "authors_text": "Vachon, Todd E.; Wallace, Michael; Li, Angran",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102918",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102918",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102918",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102918.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

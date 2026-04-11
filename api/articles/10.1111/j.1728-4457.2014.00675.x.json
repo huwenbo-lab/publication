@@ -1,0 +1,25 @@
+{
+  "title": "Effects of Childhood Mortality and Morbidity on the Fertility Transition in sub-Saharan Africa",
+  "abstract": "Child mortality rates have fallen substantially in developing countries since 1960. The expected fertility decline has followed only weakly in sub-Saharan Africa compared to other recent and historic demographic transitions. Disease and anthropometric data suggest that morbidity remains prevalent in Africa despite child survival improvements. The uniquely high infectious disease burden among children in Africa reduces population health and diminishes the returns to human capital investment, thwarting the quantity-quality tradeoff for children that typically accompanies the mortality transition. Individual-level data from the Demographic and Health Surveys are used to show that persistent morbidity has weakened the positive relationship between child mortality and total fertility rates throughout the region, slowing Africa's demographic transition.",
+  "authors": [
+    {
+      "raw": "Aksan, Anna-Maria",
+      "family": "Aksan",
+      "given": "Anna-Maria"
+    }
+  ],
+  "authors_text": "Aksan, Anna-Maria",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2014,
+  "doi": "10.1111/j.1728-4457.2014.00675.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2014.00675.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2014.00675.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2014.00675.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

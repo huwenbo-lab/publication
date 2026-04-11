@@ -1,0 +1,30 @@
+{
+  "title": "Inconsistencies in age profiles of HIV prevalence",
+  "abstract": "A two-sex compartmental model of the dynamics of HIV infection was developed and applied to the case of Zambia. Parameters include age specific rates of fertility, mortality, entry into sexual life, number of partners and age of partners. They were all",
+  "authors": [
+    {
+      "raw": "Leclerc, Pauline M.",
+      "family": "Leclerc",
+      "given": "Pauline M."
+    },
+    {
+      "raw": "Garenne, Michel",
+      "family": "Garenne",
+      "given": "Michel"
+    }
+  ],
+  "authors_text": "Leclerc, Pauline M.; Garenne, Michel",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2007,
+  "doi": "10.4054/demres.2007.16.5",
+  "doi_url": "https://doi.org/10.4054/demres.2007.16.5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2007.16.5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2007.16.5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

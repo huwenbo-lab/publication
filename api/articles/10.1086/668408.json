@@ -1,0 +1,30 @@
+{
+  "title": "Exposure to Classroom Poverty and Test Score Achievement: Contextual Effects or Selection?",
+  "abstract": "It is widely believed that impoverished contexts harm children. Disentangling the effects of family background from the effects of other social contexts, however, is complex, making causal claims difficult to verify. This study examines the effect of exposure to classroom poverty on student test achievement using data on a cohort of children followed from third through eighth grade. Cross-sectional methods reveal a substantial negative association between exposure to high-poverty classrooms and test scores; this association grows with grade level, becoming especially large for middle school students. Growth models, however, produce much smaller effects of classroom poverty exposure on academic achievement. Even smaller effects emerge from student fixed-effects models that control for time-invariant unobservables and from marginal structural models that adjust for observable time-dependent confounding. These findings suggest that causal claims about the effects of classroom poverty exposure on achievement may be unwarranted.",
+  "authors": [
+    {
+      "raw": "Lauen, Douglas Lee",
+      "family": "Lauen",
+      "given": "Douglas Lee"
+    },
+    {
+      "raw": "Gaddis, S. Michael",
+      "family": "Gaddis",
+      "given": "S. Michael"
+    }
+  ],
+  "authors_text": "Lauen, Douglas Lee; Gaddis, S. Michael",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2013,
+  "doi": "10.1086/668408",
+  "doi_url": "https://doi.org/10.1086/668408",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F668408",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/668408.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "How Gender Segregation in Higher Education Contributes to Gender Segregation in the US Labor Market",
+  "abstract": "What is the rela tion ship between gen der seg re ga tion in higher edu ca tion and gen der seg re ga tion in the labor mar ket? Using Fossett's (2017) difference-of-means method for calculating segregation indices and data from the American Community Survey, we show that approx i ma tely 36% of occu pa tional seg re ga tion among col lege-educated workers is associated with gender segregation across 173 fields of study, and roughly 64% reflects gender segregation within fields. A decomposition analysis shows that fields contribute to occupational segregation mainly through endowment effects (men's and women's uneven distribution across fields) than through the coefficient effects (gender differences in the likelihood of entering a male-dominated occupation from the same field). Endowment effects are highest in fields strongly linked to the labor market, suggesting that educational segregation among fields in which graduates tend to enter a lim ited set of occu pa tions is par tic u larly con se quen tial for occu pa tional segregation. Within-field occupational segregation is higher among heavily male -dominated fields than other fields, but it does not vary systematically by fields' STEM status or field-occupation linkage strength. Assuming the relationship between field seg re ga tion and occu pa tional seg re ga tion is at least partly causal, these results imply that integrating higher education (e.g., by increasing women's representation in STEM majors) will reduce but not eliminate gender segregation in labor markets.",
+  "authors": [
+    {
+      "raw": "Zheng, Haowen",
+      "family": "Zheng",
+      "given": "Haowen"
+    },
+    {
+      "raw": "Weeden, Kim A.",
+      "family": "Weeden",
+      "given": "Kim A."
+    }
+  ],
+  "authors_text": "Zheng, Haowen; Weeden, Kim A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10653728",
+  "doi_url": "https://doi.org/10.1215/00703370-10653728",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10653728",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10653728.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

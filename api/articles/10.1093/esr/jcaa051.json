@@ -1,0 +1,30 @@
+{
+  "title": "Do Economic Hardship and Pressure Really Influence Parenting?",
+  "abstract": "Poverty and its effect on parenting in the context of the family stress model have a long tradition in research, but results are rather mixed. Following this theoretical approach, we analyse whether poverty and financial pressure are associated with disrupted parenting. We draw on data from the German Family Panel pairfam and implement both between and within approaches to test whether parenting behaviours are associated with economic hardship and pressure. While basic between-group regressions confirm the link between economic hardship and parenting as predicted by the family stress model, we do not find a significant association of poverty and parenting when including additional confounders or using fixed-effects models. We conclude that rather than the financial situation itself unobserved heterogeneity causes differences in parenting behaviours between better and worse off families, at least in Germany.",
+  "authors": [
+    {
+      "raw": "Schmiedeberg, Claudia",
+      "family": "Schmiedeberg",
+      "given": "Claudia"
+    },
+    {
+      "raw": "Bozoyan, Christiane",
+      "family": "Bozoyan",
+      "given": "Christiane"
+    }
+  ],
+  "authors_text": "Schmiedeberg, Claudia; Bozoyan, Christiane",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa051",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa051",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa051",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa051.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

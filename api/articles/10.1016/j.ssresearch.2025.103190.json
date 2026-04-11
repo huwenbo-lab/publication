@@ -1,0 +1,35 @@
+{
+  "title": "The keys to the house - How wealth transfers stratify homeownership opportunities",
+  "abstract": "This study investigates how actual and anticipated intergenerational wealth transfers - i.e., inter vivos gifts and inheritances - contribute to inequalities in the transition to homeownership by parental social class. Utilizing discrete-time survival analysis on data from the German Socioeconomic Panel Study (N = 13,018), we find that individuals whose parents were manual workers or service workers are less likely to become homeowners than those whose parents belonged to other social classes. Receiving inheritances or inter vivos gifts substantially increases the probability of homeownership, with the effect being most pronounced in the transfer year and diminishing rapidly thereafter. Anticipated future transfers also increase homeownership probability before transfer receipt. Together, anticipated and received transfers account for 15-54 % of the differences in homeownership transition rates by parental social class. Ignoring expected transfers leads to a significant underestimation of the role that wealth plays in shaping the relationship between parental class and homeownership. However, for most class contrasts, other mediators- such as respondents' social class, income, and family status- explain a larger share of the differences than wealth transfers.",
+  "authors": [
+    {
+      "raw": "Draeger, Jascha",
+      "family": "Draeger",
+      "given": "Jascha"
+    },
+    {
+      "raw": "Mueller, Nora",
+      "family": "Mueller",
+      "given": "Nora"
+    },
+    {
+      "raw": "Pforr, Klaus",
+      "family": "Pforr",
+      "given": "Klaus"
+    }
+  ],
+  "authors_text": "Draeger, Jascha; Mueller, Nora; Pforr, Klaus",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103190",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103190",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103190",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103190.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "A Micro-Scale Approach to Ethnic Minority Concentration in the Residential Environment and Voting for the Radical Right in The Netherlands",
+  "abstract": "Existing empirical research on the link between ethnic minority concentration in residential environments and voting for the radical right is inconclusive, mainly due to major differences between studies in the spatial scale at which minority concentration is measured. We examined whether the presence of non-western ethnic minorities in the residential environment, measured at four spatial scales, is related to individuals' intention to vote for the Dutch Party for Freedom (Dutch acronym PVV). We combined individual level survey data and register data, and we used multi-level structural equation models to examine possible mediation by anti-immigrant attitudes and political dissatisfaction. The models show different effects at different scales. At the micro scale (100 by 100 meter grids) we find a curvilinear effect: individuals with 30-50 per cent non-western minorities in their direct living environment are most likely to report to vote for the PVV. At higher spatial scales (up to municipal level) we find that the higher the proportion of non-western minorities, the more likely individuals are to report to vote for the PVV. These effects can however not be explained by anti-immigrant attitudes or political dissatisfaction. We even find that at the micro scale the presence of non-western minorities is related to less anti-immigrant attitudes.",
+  "authors": [
+    {
+      "raw": "Janssen, Heleen J.",
+      "family": "Janssen",
+      "given": "Heleen J."
+    },
+    {
+      "raw": "van Ham, Maarten",
+      "family": "van Ham",
+      "given": "Maarten"
+    },
+    {
+      "raw": "Kleinepier, Tom",
+      "family": "Kleinepier",
+      "given": "Tom"
+    },
+    {
+      "raw": "Nieuwenhuis, Jaap",
+      "family": "Nieuwenhuis",
+      "given": "Jaap"
+    }
+  ],
+  "authors_text": "Janssen, Heleen J.; van Ham, Maarten; Kleinepier, Tom; Nieuwenhuis, Jaap",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcz018",
+  "doi_url": "https://doi.org/10.1093/esr/jcz018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

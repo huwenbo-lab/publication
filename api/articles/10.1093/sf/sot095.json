@@ -1,0 +1,25 @@
+{
+  "title": "Convergence in National Income Distributions",
+  "abstract": "Previous studies have drawn attention to cross-national convergence across a wide range of topics. In this study, I test for convergence in a new empirical setting, examining the degree to which national income distributions have become more similar to one another over time. Using the Standardized World Income Inequality Database, I construct a set of samples that vary in longitudinal and cross-sectional coverage during the 1965–2005 period. The results show that national income distributions have converged substantially since the 1970s. Moreover, the rise in inequality among Eastern European nations during the early 1990s accounts for only about 30 percent of all convergence during the sample period. Additional analyses suggest that globalization may be playing an important role in homogenizing inequality levels. Finally, a decomposition of the convergence trend shows that income distributions are drawing closer together both between and within world regions. Overall, convergence is the product of (a) inequality levels rising among egalitarian societies; and (b) inequality levels declining in stratified nations, indicating a trend toward moderate levels of inequality from both directions.",
+  "authors": [
+    {
+      "raw": "Clark, Rob",
+      "family": "Clark",
+      "given": "Rob"
+    }
+  ],
+  "authors_text": "Clark, Rob",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sot095",
+  "doi_url": "https://doi.org/10.1093/sf/sot095",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsot095",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sot095.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

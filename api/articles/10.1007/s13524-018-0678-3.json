@@ -1,0 +1,25 @@
+{
+  "title": "School Progress Among Children of Same-Sex Couples",
+  "abstract": "This study uses logit regressions on a pooled sample of children from the 2012, 2013, and 2014 American Community Survey to perform a nationally representative analysis of school progress for a large sample of 4,430 children who reside with same-sex couples. Odds ratios from regressions that compare children between different-sex married couples and same-sex couples fail to show significant differences in normal school progress between households across a variety of sample compositions. Likewise, marginal effects from regressions that compare children with similar family dynamics between different-sex married couples and same-sex couples fail to predict significantly higher probabilities of grade retention for children of same-sex couples. Significantly lower grade retention rates are sometimes predicted for children of same-sex couples than for different-sex married couples, but these differences are sensitive to sample exclusions and do not indicate causal benefits to same-sex parenting.",
+  "authors": [
+    {
+      "raw": "Watkins, Caleb S.",
+      "family": "Watkins",
+      "given": "Caleb S."
+    }
+  ],
+  "authors_text": "Watkins, Caleb S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0678-3",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0678-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0678-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0678-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

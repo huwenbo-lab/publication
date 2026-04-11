@@ -1,0 +1,30 @@
+{
+  "title": "Familial Deaths and First Birth",
+  "abstract": "Motivated by the rise in premature mortality among working-age adults, we examine the association between adult familial deaths and the transition to motherhood. Although many deaths can be disruptive, deaths that occur sooner than expected and to certain family members (e.g., mothers) may prompt changes in resources, time available for parenting, or psychological understandings in ways that change fertility behavior. Data come from the National Longitudinal Survey of Youth 1997 (N = 4,008 women aged 15-34). Using fixed effects to address selection, we compare the associations between recent off-time deaths (mother, father, or sibling deaths) and on-time deaths (grandparent deaths) on fertility. Women had higher odds of first birth when they recently experienced a sibling or maternal death compared to when they had not recently experienced that type of death. Effects of maternal and sibling deaths were statistically larger than the null effect found for grandparent death. The strong effect of sibling and maternal death on hastening first birth suggest that mortality may influence a psychological reevaluation of values vis-a-vis parenting and/or decrease psychological well-being in ways that change sexual practices.",
+  "authors": [
+    {
+      "raw": "Rackin, Heather M.",
+      "family": "Rackin",
+      "given": "Heather M."
+    },
+    {
+      "raw": "Gibson-Davis, Christina M.",
+      "family": "Gibson-Davis",
+      "given": "Christina M."
+    }
+  ],
+  "authors_text": "Rackin, Heather M.; Gibson-Davis, Christina M.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2022,
+  "doi": "10.1111/padr.12522",
+  "doi_url": "https://doi.org/10.1111/padr.12522",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12522",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12522.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

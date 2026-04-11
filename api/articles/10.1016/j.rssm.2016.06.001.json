@@ -1,0 +1,30 @@
+{
+  "title": "Does gender equality increase economic inequality? Evidence from five countries",
+  "abstract": "Men and women have become increasingly similar in their education, employment and earnings over recent decades. It has been argued that these changes have implications for economic inequality, not least because couples tend to be formed by persons with similar traits. Given the family's role in pooling and redistributing resources, increased equality within households may lead to the accumulation of either favorable or unfavorable situations. This has been expected to increase inequality between households. We investigate the extent to which the increased similarity in partners' employment participation and earnings can account for changes in income inequality. We use LIS data for Denmark, Germany, Italy, the UK and the US from the mid-19805 to the mid-2000s and employ decomposition techniques of the Theil index. We enrich the existing literature by providing internationally comparative evidence for a long time period up to more recent dates, and propose an innovative method to account for effects of employment and earnings similarity independently from changes in the overall earnings distribution. In contrast to the expectations, we show that an increased similarity among partners does not augment inequality to a relevant degree, and that the inflow of women in employment contributed to reducing inequality among households rather than augmenting it. Observed increases in inequality are instead driven by the increased polarization between high- and low-income families and by changes in the income dispersion within family types, suggesting that important social stratifiers are at work other than gender. Despite key institutional differences, this holds true for all five countries. (C) 2016 Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Grotti, Raffaele",
+      "family": "Grotti",
+      "given": "Raffaele"
+    },
+    {
+      "raw": "Scherer, Stefani",
+      "family": "Scherer",
+      "given": "Stefani"
+    }
+  ],
+  "authors_text": "Grotti, Raffaele; Scherer, Stefani",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2016,
+  "doi": "10.1016/j.rssm.2016.06.001",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2016.06.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2016.06.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2016.06.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

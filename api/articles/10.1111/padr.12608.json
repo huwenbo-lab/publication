@@ -1,0 +1,45 @@
+{
+  "title": "The Missing Millions: Uncovering the Burden of Covid-19 Cases and Deaths in the African Region",
+  "abstract": "Early in 2020, experts warned of the devastating toll that COVID-19 would have on African countries. By the close of 2021, however, Africa remained one of the least affected regions in the world, leading commentators to speculate about a so-called Africa paradox. This review evaluates current research and data to establish the burden of COVID-19 infections and mortality in the African region. Despite claims that African countries were spared from COVID-19 infection, there is now considerable serological evidence confirming that people in African countries ultimately experienced levels of SARS-CoV2 infection comparable to or more than people in other global regions. Additionally, multiple measures demonstrate substantial impacts of COVID-19 on mortality in specific African countries where mortality and/or seroprevalence data are available. The gaps between recorded cases and seroprevalence are large and increased over the course of the pandemic. Researchers also observe significant gaps between recorded COVID-19 deaths and other measures of mortality, attributable to weak civil and vital registration systems, limited health care resources, and higher mortality at younger ages. Our findings reinforce the need for more equitable global distribution of health care resources and expanded disease and mortality surveillance across the continent.",
+  "authors": [
+    {
+      "raw": "McKay, Tara",
+      "family": "McKay",
+      "given": "Tara"
+    },
+    {
+      "raw": "Robinson, Rachel Sullivan",
+      "family": "Robinson",
+      "given": "Rachel Sullivan"
+    },
+    {
+      "raw": "Musungu, Serena",
+      "family": "Musungu",
+      "given": "Serena"
+    },
+    {
+      "raw": "Padi-Adjirackor, Nana Addo",
+      "family": "Padi-Adjirackor",
+      "given": "Nana Addo"
+    },
+    {
+      "raw": "Angotti, Nicole",
+      "family": "Angotti",
+      "given": "Nicole"
+    }
+  ],
+  "authors_text": "McKay, Tara; Robinson, Rachel Sullivan; Musungu, Serena; Padi-Adjirackor, Nana Addo; Angotti, Nicole",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12608",
+  "doi_url": "https://doi.org/10.1111/padr.12608",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12608",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12608.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

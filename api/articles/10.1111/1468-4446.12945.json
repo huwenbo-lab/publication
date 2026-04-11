@@ -1,0 +1,40 @@
+{
+  "title": "Who you know: The classed structure of social capital",
+  "abstract": "This article focuses on the social structuring of social capital, understood as resources embedded in social networks. The analysis integrates key theoretical-methodological insights from two distinct approaches concerned with social capital and inequality: the position-generator approach associated with Nan Lin and the spatial approach associated with Pierre Bourdieu. Empirically, we exploit the possibilities of survey data containing detailed information about the social ties of a representative sample of the Norwegian adult population (N = 4007). By means of Multiple Correspondence Analysis (MCA), we construct a space of social ties, a spatial representation of systematic similarities and differences between individuals' social ties to a set of 33 occupational positions. In this space, social capital is structured according to two primary dimensions: (i) the level of social ties, in terms of individuals' number of contacts; and (ii), the quality of social ties, in terms of a division between being connected to others in high-status positions and others in low-status positions. By means of Ascending Hierarchical Cluster analysis, five clusters are identified within the space of social ties: a homogenous working-class cluster, a well-connected working-class cluster, a cluster of high-status ties, a homogenous high-status cluster and a low-volume cluster. Moreover, the analysis clearly indicates that the structure of social capital is connected to respondents' class positions, their volumes of cultural and economic capital and their class origin. The analysis thus draws attention to the role of social capital in processes of social closure, regarding both resource monopolization and class formation.",
+  "authors": [
+    {
+      "raw": "Alecu, Andreea",
+      "family": "Alecu",
+      "given": "Andreea"
+    },
+    {
+      "raw": "Helland, Havard",
+      "family": "Helland",
+      "given": "Havard"
+    },
+    {
+      "raw": "Hjellbrekke, Johs.",
+      "family": "Hjellbrekke",
+      "given": "Johs."
+    },
+    {
+      "raw": "Jarness, Vegard",
+      "family": "Jarness",
+      "given": "Vegard"
+    }
+  ],
+  "authors_text": "Alecu, Andreea; Helland, Havard; Hjellbrekke, Johs.; Jarness, Vegard",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2022,
+  "doi": "10.1111/1468-4446.12945",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12945",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12945",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12945.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

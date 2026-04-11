@@ -1,0 +1,30 @@
+{
+  "title": "A Bayesian model for age at death with cohort effects",
+  "abstract": "BACKGROUNDOngoing mortality trends affect the distribution of age at death, typically described byparametric models. Cohort effects can markedly perturb the distribution and reduce thefit of such models, and this needs to be specifically taken into account.OBJECTIVEThis study examines the integration of cohort effects in a three-component parametricmodel for the age-at-death distribution, applying it to data with significant cohort effects.METHODSWe employed a mixture model with a half-normal and two skew-normal components,adapted to a Bayesian framework to include multiplicative cohort effects. The model wasapplied to data from five Italian regions, with cohort effects estimated for the 1915-1925cohorts.RESULTSIncorporating cohort effects significantly improved the model's fit. A notable finding ofthe comprehensive model is the shift in Italy from premature to middle-age mortalitycomponents over time. Our results also demonstrate the tendency for mortality structuresto spatially homogenize over time in Italy.CONCLUSIONSThe study underscores the importance of including cohort effects in mortality models inorder to provide a more detailed picture of mortality trends.CONTRIBUTIONThis work introduces a novel application of a Bayesian mixture model with cohorteffects, offering enhanced tools for demographic analysis and new insights into the evolution of mortality components in Italy. This approach is general but fully formalizedand hence it can be readily used for demographic studies in other regions as well.",
+  "authors": [
+    {
+      "raw": "Dimai, Matteo",
+      "family": "Dimai",
+      "given": "Matteo"
+    },
+    {
+      "raw": "Brabec, Marek",
+      "family": "Brabec",
+      "given": "Marek"
+    }
+  ],
+  "authors_text": "Dimai, Matteo; Brabec, Marek",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.33",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Marital Status, Hypertension, Coronary Heart Disease, Diabetes, and Death Among African American Women and Men: Incidence and Prevalence in the Atherosclerosis Risk in Communities (ARIC) Study Participants",
+  "abstract": "Heart disease is the leading cause of death in the United States, and African Americans disproportionately experience more cardiovascular disease, including coronary heart disease (CHD), hypertension, and diabetes. The literature documents a complex relationship between marital status and health, which varies by gender. We prospectively examine the relationship between African American men’s and women’s marital status and their risk of developing cardiovascular diseases and dying using the Atherosclerosis Risk in Communities (ARIC) data. After multivariable adjustment for individual characteristics and health status, we found that marital status was not associated with hypertension or new cases of CHD, but remaining single throughout the study period was associated with an increased risk of developing diabetes for women and an increased likelihood of death for men. Culturally appropriate interventions for African Americans are needed to decrease racial disparities in cardiovascular diseases and mortality.",
+  "authors": [
+    {
+      "raw": "Schwandt, Hilary M.",
+      "family": "Schwandt",
+      "given": "Hilary M."
+    },
+    {
+      "raw": "Coresh, Josef",
+      "family": "Coresh",
+      "given": "Josef"
+    },
+    {
+      "raw": "Hindin, Michelle J.",
+      "family": "Hindin",
+      "given": "Michelle J."
+    }
+  ],
+  "authors_text": "Schwandt, Hilary M.; Coresh, Josef; Hindin, Michelle J.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2010,
+  "doi": "10.1177/0192513x10365487",
+  "doi_url": "https://doi.org/10.1177/0192513x10365487",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x10365487",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x10365487.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

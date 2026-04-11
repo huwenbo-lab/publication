@@ -1,0 +1,40 @@
+{
+  "title": "Factors incorporated into future survival estimation among Europeans",
+  "abstract": "BACKGROUND Subjective survival probabilities are affected by individual-specific judgment and vary by factors known to differentiate actual mortality. OBJECTIVE The aim of this study is to evaluate whether sociodemographic characteristics, physical and mental health, and lifestyle are incorporated into subjective survival probabilities of Europeans aged 50 or higher. METHODS We use data from Wave 6 of the Survey of Health, Ageing and Retirement in Europe (SHARE) and period life tables from the Human Mortality Database (HMD). For the statistical analysis we employ multinomial logistic regression models. RESULTS Our results show that common factors drive the self-reported subjective survival probabilities. Certain factors affecting actual mortality are considered when forming subjective survival probabilities: income, education, poor physical and mental health, activities of daily living (ADLs), smoking, physical activity, diet, quality of life, and number of children. Other factors are not considered in a manner consistent with actual mortality patterns: age, gender, marital status, and body weight. The findings regarding cognitive function are inconclusive; whereas some aspects seem to be integrated in subjective survival probabilities (e.g., memory or self-writing skills), others are not (e.g., numeracy or orientation in time). CONTRIBUTION The contribution of this study is the grouping of sociodemographic, health, and lifestyle characteristics according to the subjective survival probabilities' direction and consistency with general population mortality and actual mortality patterns. Hence, we assess which traits are incorporated in the formation of subjective survival probabilities among Europeans aged 50 or higher.",
+  "authors": [
+    {
+      "raw": "Papachristos, Apostolos",
+      "family": "Papachristos",
+      "given": "Apostolos"
+    },
+    {
+      "raw": "Verropoulou, Georgia",
+      "family": "Verropoulou",
+      "given": "Georgia"
+    },
+    {
+      "raw": "Ploubidis, George B.",
+      "family": "Ploubidis",
+      "given": "George B."
+    },
+    {
+      "raw": "Tsimbos, Cleon",
+      "family": "Tsimbos",
+      "given": "Cleon"
+    }
+  ],
+  "authors_text": "Papachristos, Apostolos; Verropoulou, Georgia; Ploubidis, George B.; Tsimbos, Cleon",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.2",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

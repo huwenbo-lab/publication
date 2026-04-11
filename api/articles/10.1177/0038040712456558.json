@@ -1,0 +1,25 @@
+{
+  "title": "The Rise and Fall of Worldwide Education Inequality from 1870 to 2010: Measurement and Trends",
+  "abstract": "This research documents long-run trends in between-country education inequality and proposes a method for doing so that accounts for the ways in which most education variables differ from continuous variables such as income. Historical, national-level estimates of primary schooling enrollment rates and years of completed primary, secondary, and total schooling are used to identify several problems that arise when formal measures of inequality are used to estimate intercountry education convergence, including violation of the welfare, scale invariance, and anonymity principles. An alternate measurement strategy shows that the intercountry trend in the dispersion of education has followed an approximately normal curve over the past 140 years, but with considerable variation across measures of education. These results are in contradiction to previous education inequality studies, which have reported either monotonically rising or falling intercountry inequality.",
+  "authors": [
+    {
+      "raw": "Dorius, Shawn F.",
+      "family": "Dorius",
+      "given": "Shawn F."
+    }
+  ],
+  "authors_text": "Dorius, Shawn F.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2013,
+  "doi": "10.1177/0038040712456558",
+  "doi_url": "https://doi.org/10.1177/0038040712456558",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040712456558",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040712456558.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

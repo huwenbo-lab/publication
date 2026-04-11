@@ -1,0 +1,30 @@
+{
+  "title": "Multipartnered fertility among American men",
+  "abstract": "Abstract Using the 2002 (Cycle 6) National Survey of Family Growth (NSFG), which was the first NSFG to interview men, we document the prevalence and correlates of sequential parenthood with different partners (multipartnered fertility) among a representative sample of American men. Nearly 8% of American men aged 15–44 report having had children with more than one partner, with sharp differences by age, race/ethnicity, and income—over one-third of poor black men aged 35–44 report having had children with two or more mothers, and 16% report children with three or more mothers. Fathers of two or more children by multiple partners appear to be more disadvantaged than fathers with two or more children by the same partner. Multipartnered fertility is strongly related to prior birth characteristics; men not in a coresidential union at the preceding birth are more likely to have their next birth with a new partner, and controlling for prior-birth characteristics accounts for the elevated risk of Hispanics and blacks in baseline models. Results also suggest that multipartnered fertility is becoming more prevalent as younger cohorts transition to a new-partner birth more quickly and at a higher rate than older cohorts.",
+  "authors": [
+    {
+      "raw": "Guzzo, Karen Benjamin",
+      "family": "Guzzo",
+      "given": "Karen Benjamin"
+    },
+    {
+      "raw": "Furstenberg, Frank F.",
+      "family": "Furstenberg",
+      "given": "Frank F."
+    }
+  ],
+  "authors_text": "Guzzo, Karen Benjamin; Furstenberg, Frank F.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0027",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Evolution of Occupational Segregation in the United States, 1940-2010: Gains and Losses of Gender-Race/Ethnicity Groups",
+  "abstract": "The aim of this article is twofold: (1) to descriptively explore the evolution of occupational segregation of women and men of different racial/ethnic groups in the United States during 1940-2010, and (2) to assess the consequences of segregation for each group. For that purpose, in this article, we propose a simple index that measures the monetary loss or gain of a group derived from its overrepresentation in some occupations and underrepresentation in others. This index has a clear economic interpretation. It represents the per capita advantage (if the index is positive) or disadvantage (if the index is negative) of the group, derived from its segregation, as a proportion of the average wage of the economy. Our index is a helpful tool not only for academics but also for institutions concerned with inequalities among demographic groups because it makes it possible to rank them according to their segregational nature.",
+  "authors": [
+    {
+      "raw": "del Rio, Coral",
+      "family": "del Rio",
+      "given": "Coral"
+    },
+    {
+      "raw": "Alonso-Villar, Olga",
+      "family": "Alonso-Villar",
+      "given": "Olga"
+    }
+  ],
+  "authors_text": "del Rio, Coral; Alonso-Villar, Olga",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0390-5",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0390-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0390-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0390-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

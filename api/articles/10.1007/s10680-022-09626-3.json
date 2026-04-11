@@ -1,0 +1,35 @@
+{
+  "title": "Social Investment Policies and Childbearing Across 20 Countries: Longitudinal and Micro-Level Analyses",
+  "abstract": "AbstractThis study analyses the influence of family policies on women’s first and second births in 20 countries over the period 1995 to 2007. Welfare states have shifted towards social investment policies, yet family policy–fertility research has not explicitly considered this development. We distinguish between social investment-oriented and passive support that families may receive upon the birth of a child and consider changes in policies over time. These indicators are merged with fertility histories provided by harmonized individual-level data, and we use time-conditioned, fixed effects linear probability models. We find higher social investment-oriented support to be correlated with increased first birth probabilities, in contrast to passive family support. First birth probabilities particularly declined with higher passive family support for women over age 30, which points to a potential increase in childlessness. Social investment-oriented support is positively related to first and second births particularly for lower-educated women and has no relationship to childbirth for highly educated women, countering the Matthew-effect assumptions about social investment policies. Passive support is negatively related to second births for post-secondary educated women and those who are studying. Family policies that support women’s employment and labour market attachment are positively linked to family expansion and these policies minimize educational differences in childbearing.",
+  "authors": [
+    {
+      "raw": "Billingsley, Sunnee",
+      "family": "Billingsley",
+      "given": "Sunnee"
+    },
+    {
+      "raw": "Neyer, Gerda",
+      "family": "Neyer",
+      "given": "Gerda"
+    },
+    {
+      "raw": "Wesolowski, Katharina",
+      "family": "Wesolowski",
+      "given": "Katharina"
+    }
+  ],
+  "authors_text": "Billingsley, Sunnee; Neyer, Gerda; Wesolowski, Katharina",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09626-3",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09626-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09626-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09626-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

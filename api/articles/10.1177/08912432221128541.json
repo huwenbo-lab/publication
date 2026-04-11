@@ -1,0 +1,25 @@
+{
+  "title": "Breadwinning, Occupational Sex Composition, and Stress: Examining Psychological Distress and Heavy Drinking at the Intersection of Gender and Race",
+  "abstract": "Research on couples’ earnings arrangements has focused on men’s and women’s (non)conformance to the male-breadwinner/female-homemaker model. By doing so, research has ignored the following: Breadwinning can be a source of stress for men; the male-breadwinner/female-homemaker model does not apply to all racial groups; and the proportion of women in an occupation may moderate the stress process associated with divergent earnings arrangements. To address factors overlooked, I applied mixed-effects models to the 1999–2017 Panel Study of Income Dynamics data to examine the internalizing (psychological distress) and externalizing (heavy drinking) responses to stress among married, non-Hispanic white and Black men and women. Greater relative earnings reduce Black women’s psychological distress and heavy drinking, but increase Black men’s heavy drinking. Among white men, greater relative earnings reduce psychological distress and demonstrate a curvilinear relationship with heavy drinking, whereas no significant pattern emerges for white women. Occupational sex composition moderates these relationships. Among Black women, greater relative earnings lower psychological distress the most for those in women-concentrated occupations, and moving from economic dependency to equal breadwinning decreases heavy drinking the most for white men in men-concentrated occupations. Findings showcase the value of an intersectional approach to capture the diverse meanings associated with earnings arrangements.",
+  "authors": [
+    {
+      "raw": "Fan, Wen",
+      "family": "Fan",
+      "given": "Wen"
+    }
+  ],
+  "authors_text": "Fan, Wen",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2022,
+  "doi": "10.1177/08912432221128541",
+  "doi_url": "https://doi.org/10.1177/08912432221128541",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432221128541",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432221128541.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

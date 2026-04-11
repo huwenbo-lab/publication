@@ -1,0 +1,35 @@
+{
+  "title": "Residential Mobility Across Local Areas in the United States and the Geographic Distribution of the Healthy Population",
+  "abstract": "Abstract Determining whether population dynamics provide competing explanations to place effects for observed geographic patterns of population health is critical for understanding health inequality. We focus on the working-age population—the period of adulthood when health disparities are greatest—and analyze detailed data on residential mobility collected for the first time in the 2000 U.S. census. Residential mobility over a five-year period is frequent and selective, with some variation by race and gender. Even so, we found little evidence that mobility biases cross-sectional snapshots of local population health. Areas undergoing large or rapid population growth or decline may be exceptions. Overall, place of residence is an important health indicator; yet, the frequency of residential mobility raises questions of interpretation from etiological or policy perspectives, complicating simple understandings that residential exposures alone explain the association between place and health. Psychosocial stressors related to contingencies of social identity associated with being black, urban, or poor in the United States may also have adverse health impacts that track with structural location even with movement across residential areas.",
+  "authors": [
+    {
+      "raw": "Geronimus, Arline T.",
+      "family": "Geronimus",
+      "given": "Arline T."
+    },
+    {
+      "raw": "Bound, John",
+      "family": "Bound",
+      "given": "John"
+    },
+    {
+      "raw": "Ro, Annie",
+      "family": "Ro",
+      "given": "Annie"
+    }
+  ],
+  "authors_text": "Geronimus, Arline T.; Bound, John; Ro, Annie",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0299-4",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0299-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0299-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0299-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

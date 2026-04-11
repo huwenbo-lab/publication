@@ -1,0 +1,30 @@
+{
+  "title": "Survey Experiments in Sociology",
+  "abstract": "Survey experiments are an underutilized but powerful tool for sociologists interested in studying causal research questions. Survey experiments can yield insights into the breadth of causal relationships, by studying treatment effects in population samples or across subgroups, and can yield a deeper understanding of causal processes that are not readily observed with other social science methodologies. In this article, we begin by considering the conditions under which survey experiments are a uniquely useful method and highlight emblematic examples of recent sociological research. We then discuss some of the challenges and limitations of survey experiments as a research method before offering a brief practical guide to sociologists interested in conducting survey experiments. We conclude with reflections on the future of survey experimental research in sociology.",
+  "authors": [
+    {
+      "raw": "Schachter, Ariela",
+      "family": "Schachter",
+      "given": "Ariela"
+    },
+    {
+      "raw": "Weisshaar, Katherine",
+      "family": "Weisshaar",
+      "given": "Katherine"
+    }
+  ],
+  "authors_text": "Schachter, Ariela; Weisshaar, Katherine",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2025,
+  "doi": "10.1146/annurev-soc-083024-070113",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-083024-070113",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-083024-070113",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-083024-070113.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

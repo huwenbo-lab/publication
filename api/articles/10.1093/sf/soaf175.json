@@ -1,0 +1,30 @@
+{
+  "title": "Transmorphic organizations: racial segregation and discrimination against LGBTQ students at Christian colleges and universities",
+  "abstract": "Do organizations that previously discriminated against one marginalized group go on to discriminate against other marginalized groups? If so, why and under what conditions? We address this question by developing a theory of transmorphic organizations, which suggests that organizations' likelihood of discriminating against different groups over time will be contingent on their associated moral schemas and organizational identities. We test this theory by analyzing a unique, comprehensive dataset of discriminatory policies at 526 Christian colleges and universities in the United States, a set of organizations that has routinely been exempted from federal non-discrimination policies. Through logistic regression analyses, we uncover an association between schools' historical policies on race and contemporary policies on lesbian, gay, bisexual, transgender, and queer (LGBTQ) students among certain types of Christian colleges and universities. Specifically, evangelical Protestant colleges and universities that discriminated against Black students typically formally discriminate against LGBTQ students, whereas mainline Protestant and Catholic colleges and universities that discriminated against Black students rarely formally discriminate against LGBTQ students. We attribute this divergence to the increasingly conservative, individualist moral schemas of evangelical Protestants in general and the relatively exclusive organizational identities of evangelical Protestant colleges and universities. Our study's findings hold implications for organizational theories of inequality and contribute to ongoing research on religion, race, LGBTQ rights, and higher education.",
+  "authors": [
+    {
+      "raw": "Coley, Jonathan S.",
+      "family": "Coley",
+      "given": "Jonathan S."
+    },
+    {
+      "raw": "Gomez, Gabby",
+      "family": "Gomez",
+      "given": "Gabby"
+    }
+  ],
+  "authors_text": "Coley, Jonathan S.; Gomez, Gabby",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf175",
+  "doi_url": "https://doi.org/10.1093/sf/soaf175",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf175",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf175.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

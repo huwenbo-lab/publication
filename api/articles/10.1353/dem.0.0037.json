@@ -1,0 +1,35 @@
+{
+  "title": "Predicting adult health and mortality from adolescent facial characteristics in yearbook photographs",
+  "abstract": "Abstract Several important longitudinal studies in the social sciences have omitted biomarkers that are routinely recorded today, including height and weight. To account for this shortcoming in the Wisconsin Longitudinal Study (WLS), an 11-point scale was developed to code high school senior class yearbook photographs of WLS participants for relative body mass (RBM). Our analyses show that although imperfect, the RBM scale is reliable (α = .91) and meets several criteria of validity as a measure of body mass. Measured at ages 17–18, the standardized relative body mass index (SRBMI) was moderately correlated (r = .31) with body mass index (BMI) at ages 53–54 and with maximum BMI reported between ages 16 and 30 (r = .48). Overweight adolescents (≥ 90th percentile of SRBMI) were about three times more likely than healthy-weight adolescents (10th–80th percentile of SRBMI) to be obese in adulthood and, as a likely consequence, significantly more likely to report health problems such as chest pain and diabetes. Overweight adolescents also suffered a twofold risk of premature death from all nonaccidental causes as well as a fourfold risk of heart disease mortality. The RBM scale has removed a serious obstacle to obesity research and lifelong analyses of health in the WLS. We suggest that other longitudinal studies may also be able to obtain photos of participants at younger ages and thus gain a prospectively useful substitute for direct measures of body mass.",
+  "authors": [
+    {
+      "raw": "Reither, Eric N.",
+      "family": "Reither",
+      "given": "Eric N."
+    },
+    {
+      "raw": "Hauser, Robert M.",
+      "family": "Hauser",
+      "given": "Robert M."
+    },
+    {
+      "raw": "Swallen, Karen C.",
+      "family": "Swallen",
+      "given": "Karen C."
+    }
+  ],
+  "authors_text": "Reither, Eric N.; Hauser, Robert M.; Swallen, Karen C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0037",
+  "doi_url": "https://doi.org/10.1353/dem.0.0037",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0037",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0037.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

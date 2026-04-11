@@ -1,0 +1,25 @@
+{
+  "title": "The Outsider's Advantage: Distrust as a Deterrent to Exploitation",
+  "abstract": "Trust creates vulnerability to exploitation. This article approaches this paradox by comparing the exploitability of categorical trust within social groups to the deterrent effect of categorical distrust between rival groups. The empirical setting is a 2008 stockbrokerage fraud perpetrated on an ethnically diverse population of investors in Kenya's Nairobi Securities Exchange. As expected, investors prefer brokerages operated by coethnics and avoid brokerages operated by ethnic rivals, but clients coethnic with the corrupt brokerage are not protected from victimization in the fraud. Instead, the brokerage's rival-group clients receive this protection. Both patterns are primarily seen in high-conflict areas rather than being true across all settings. Mechanism tests suggest that monitoring stimulated by rivals' distrust drives this result, but deepening relational embedding with the brokerage attenuates it. A concluding discussion positions these findings in the larger social capital literature and considers whether social homogeneity might be a causal factor in opportunism.",
+  "authors": [
+    {
+      "raw": "Yenkey, Christopher B.",
+      "family": "Yenkey",
+      "given": "Christopher B."
+    }
+  ],
+  "authors_text": "Yenkey, Christopher B.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2018,
+  "doi": "10.1086/700694",
+  "doi_url": "https://doi.org/10.1086/700694",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F700694",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/700694.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

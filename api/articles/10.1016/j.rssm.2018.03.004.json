@@ -1,0 +1,35 @@
+{
+  "title": "The intergenerational transmission of educational attainment among non-residential fathers and their children",
+  "abstract": "Research on the intergenerational transmission of educational attainment tends to assume that children are raised in traditional two-parent families. However, due to the rising prevalence of divorce, non-residential fatherhood is increasingly common in Western societies. This study investigates the differences in intergenerational transmission between residential and non-residential fathers because non-residential fatherhood might disrupt mechanisms that are assumed to be crucial for intergenerational transmission, such as regular contact between parents and children. In addition, we examine three factors that might explain why some non-residential fathers are better able to transmit their educational attainment than others: (1) the number of years a father lived with the child prior to divorce (exposure), (2) the age of the child at the time of divorce (timing) and (3) the year in which non-residential fatherhood started (cohort differences). The hypotheses are based on Coleman's concept of 'within-family social capital'. Our study focuses on the Dutch context and we use the Netherlands Kinship Panel Study (NKPS) (birth cohorts 1960-1985) as well as register data from the System of Social statistical Datasets (SSD) (birth cohort 1995) of Statistics Netherlands. The results of the NKPS indicate that the association between the educational attainment of fathers and children is weaker for non-residential fathers than for residential fathers. However, the difference between residential and non-residential fathers is almost absent in the more recent cohorts of the SSD. We ascribe those cohort differences to an increase in shared custody arrangements since the late 1990s.",
+  "authors": [
+    {
+      "raw": "de Leeuw, Suzanne G.",
+      "family": "de Leeuw",
+      "given": "Suzanne G."
+    },
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    },
+    {
+      "raw": "van Gaalen, Ruben",
+      "family": "van Gaalen",
+      "given": "Ruben"
+    }
+  ],
+  "authors_text": "de Leeuw, Suzanne G.; Kalmijn, Matthijs; van Gaalen, Ruben",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2018,
+  "doi": "10.1016/j.rssm.2018.03.004",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2018.03.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2018.03.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2018.03.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

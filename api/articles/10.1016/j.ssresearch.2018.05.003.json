@@ -1,0 +1,30 @@
+{
+  "title": "Predicting bias homicide across victim groups: A county-level analysis",
+  "abstract": "Outside several notable exceptions, few studies have examined variations in bias crime occurrences across American communities, and how community-level factors may differentially shape violent and non-violent bias crimes across victim groups. Drawing from ecological theories of crime, this study asks, (1) what are the structural predictors of the likelihood of bias homicide occurrences? and (2) how do structural predictors differ across bias victim groups? To answer these questions, data on bias homicide are derived from the United States Extremist Crime Database (ECDB) for the years 1990 through 2014 and paired with socio-structural variables from the United States Census Bureau. Results are discussed relative to the goals of understanding where fatal bias crimes are more likely to occur as a means of informing law enforcement and policymakers interested in preventing and responding to this specific form of crime.",
+  "authors": [
+    {
+      "raw": "Allison, Kayla",
+      "family": "Allison",
+      "given": "Kayla"
+    },
+    {
+      "raw": "Harris, Casey T.",
+      "family": "Harris",
+      "given": "Casey T."
+    }
+  ],
+  "authors_text": "Allison, Kayla; Harris, Casey T.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.05.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.05.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.05.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.05.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

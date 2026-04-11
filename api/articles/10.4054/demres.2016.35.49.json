@@ -1,0 +1,30 @@
+{
+  "title": "Why does fertility remain high among certain UK-born ethnic minority women?",
+  "abstract": "BACKGROUND Previous research has shown high total fertility among certain UK-born ethnic minorities, but the reasons behind their high fertility have remained far from clear. Some researchers attribute their elevated fertility levels to cultural factors, whereas others argue that high fertility is the consequence of their poor education and labour market prospects. OBJECTIVE This study investigates fertility among the descendants of immigrants in the UK and examines the determinants of high fertility among certain ethnic minority groups. METHODS We use data from the Understanding Society study and apply multivariate event history analysis. RESULTS The analysis shows, first, that relatively high second-, third-, and fourth-birth rates are responsible for the elevated total fertility among certain UK-born minorities, especially women of Pakistani and Bangladeshi origin. There is little variation in the first-birth rates among natives and immigrant descendants. Second, although fertility differences between ethnic minorities and native British women slightly decrease once religiosity and number of siblings are controlled for, significant differences persist. We conclude that cultural factors account for some elevated fertility among ethnic groups in the UK, whereas the role of education and employment seem to be only minor.",
+  "authors": [
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    },
+    {
+      "raw": "Hannemann, Tina",
+      "family": "Hannemann",
+      "given": "Tina"
+    }
+  ],
+  "authors_text": "Kulu, Hill; Hannemann, Tina",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.49",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.49",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.49",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.49.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

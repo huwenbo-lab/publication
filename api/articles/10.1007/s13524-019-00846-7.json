@@ -1,0 +1,30 @@
+{
+  "title": "The Marital Implications of Bereavement: Child Death and Intimate Partner Violence in West and Central Africa",
+  "abstract": "In high-mortality contexts, research examining the effects of child mortality has focused almost exclusively on couples' fertility responses while overlooking other potential family consequences. Using nationally representative survey data from 13 West and Central African countries, we estimate multilevel discrete-time hazard models to determine how women's risk of intimate partner violence (IPV) varies with the death of children. We assess heterogeneity in this association across two surrounding circumstances: children's age at death and regional prevalence of child bereavement. Findings indicate that the risk of IPV initiation rises with the death of children under age 5-for whom women are most intensely responsible-but not with the death of older children. The effect of young child bereavement is most pronounced in regions where it is least prevalent among mothers-a finding not explained by concomitant regional variation in gender inequality, family norms, and infrastructural development. These findings highlight the importance of child mortality for family outcomes beyond fertility in the African context and demonstrate the prominent role of the broader mortality context in shaping these implications.",
+  "authors": [
+    {
+      "raw": "Weitzman, Abigail",
+      "family": "Weitzman",
+      "given": "Abigail"
+    },
+    {
+      "raw": "Smith-Greenaway, Emily",
+      "family": "Smith-Greenaway",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Weitzman, Abigail; Smith-Greenaway, Emily",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-019-00846-7",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00846-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00846-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00846-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

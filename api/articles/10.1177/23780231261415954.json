@@ -1,0 +1,30 @@
+{
+  "title": "Unequal Pathways: Family Background and Youth Computing Aspirations",
+  "abstract": "Young children are generally enthusiastic about digital technology, yet participation in early computer science pathways remains unequal. Because U.S. children often learn computing outside of school, field-specific knowledge within families may play a greater role than socioeconomic status (SES) in reproducing inequality. The authors evaluate support for the social reproduction and occupational inheritance models by examining middle school students’ interest in computing occupations. Although children’s interest in computing varies by SES, the domain-specific resources of parents who work in science, technology, engineering, and mathematics, such as digital skills and home learning practices, appear to have a stronger association with interest. These findings underscore the importance of familial transmission in the reproduction of occupational inequality and inform efforts to address stratification in digital learning.",
+  "authors": [
+    {
+      "raw": "Ashlock, Jennifer M.",
+      "family": "Ashlock",
+      "given": "Jennifer M."
+    },
+    {
+      "raw": "Tufekci, Zeynep",
+      "family": "Tufekci",
+      "given": "Zeynep"
+    }
+  ],
+  "authors_text": "Ashlock, Jennifer M.; Tufekci, Zeynep",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2026,
+  "doi": "10.1177/23780231261415954",
+  "doi_url": "https://doi.org/10.1177/23780231261415954",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231261415954",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231261415954.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

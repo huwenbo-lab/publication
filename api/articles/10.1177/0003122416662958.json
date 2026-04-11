@@ -1,0 +1,30 @@
+{
+  "title": "Going Back in Time? Gender Differences in Trends and Sources of the Racial Pay Gap, 1970 to 2010",
+  "abstract": "Using IPUMS data for five decennial years between 1970 and 2010, we delineate and compare the trends and sources of the racial pay gap among men and women in the U.S. labor force. Decomposition of the pay gap into components underscores the significance of the intersection between gender and race; we find meaningful gender differences in the composition of the gap and in the gross and the net earnings gapsboth are much larger among men than among women. Despite these differences, the over-time trend is strikingly similar for both genders. Racial gaps sharply declined between 1970 and 1980 and continued to decline, but at a slower rate, until 2000. However, at the turn of the millennium, the trend reversed for both gender groups. The growth of the racial pay gap at the turn of the millennium is attributable to the increase in overall income inequality, stagnation in occupational segregation, and an increase in the unexplained portion of the gap, a portion we attribute to economic discrimination.",
+  "authors": [
+    {
+      "raw": "Mandel, Hadas",
+      "family": "Mandel",
+      "given": "Hadas"
+    },
+    {
+      "raw": "Semyonov, Moshe",
+      "family": "Semyonov",
+      "given": "Moshe"
+    }
+  ],
+  "authors_text": "Mandel, Hadas; Semyonov, Moshe",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1177/0003122416662958",
+  "doi_url": "https://doi.org/10.1177/0003122416662958",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122416662958",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122416662958.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

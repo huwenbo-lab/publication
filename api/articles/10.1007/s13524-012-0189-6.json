@@ -1,0 +1,25 @@
+{
+  "title": "International Migration, Sex Ratios, and the Socioeconomic Outcomes of Nonmigrant Mexican Women",
+  "abstract": "AbstractThis article assesses whether international migration from Mexico affects the marital, fertility, schooling, and employment outcomes of the Mexican women who remain behind by exploiting variation over time as well as across Mexican states in the demographic imbalance between men and women. I construct a gauge of the relative supply of men for women of different age groups based on state-level male and female population counts and the empirically observed propensity of men of specific ages to marry women of specific ages. Using Mexican census data from 1960 through 2000, I estimate a series of models in which the dependent variable is the intercensus change in an average outcome for Mexican women measured by state and for specific age groups, and the key explanatory variable is the change in the relative supply of men to women in that state/age group. I find that the declining relative supply of males positively and significantly affects the proportion of women who have never been married as well as the proportion of women who have never had a child. In addition, states experiencing the largest declines in the relative supply of men also experience relatively large increases in female educational attainment and female employment rates. However, I find little evidence that women who do marry match to men who are younger or less educated than themselves.",
+  "authors": [
+    {
+      "raw": "Raphael, Steven",
+      "family": "Raphael",
+      "given": "Steven"
+    }
+  ],
+  "authors_text": "Raphael, Steven",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-012-0189-6",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0189-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0189-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0189-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

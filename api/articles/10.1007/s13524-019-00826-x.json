@@ -1,0 +1,30 @@
+{
+  "title": "Gradual Change, Homeostasis, and Punctuated Equilibrium: Reconsidering Patterns of Health in Later Life",
+  "abstract": "Longitudinal methods aggregate individual health histories to produce inferences about aging populations, but to what extent do these summaries reflect the experiences of older adults? We describe the assumption of gradual change built into several influential statistical models and draw on widely used, nationally representative survey data to empirically compare the conclusions drawn from mixed-regression methods (growth curve models and latent class growth analysis) designed to capture trajectories with key descriptive statistics and methods (multistate life tables and sequence analysis) that depict discrete states and transitions. We show that individual-level data record stasis irregularly punctuated by relatively sudden change in health status or mortality. Although change is prevalent in the sample, for individuals it occurs rarely, at irregular times and intervals, and in a nonlinear and multidirectional fashion. We conclude by discussing the implications of this punctuated equilibrium pattern for understanding health changes in individuals and the dynamics of inequality in aging populations.",
+  "authors": [
+    {
+      "raw": "Engelman, Michal",
+      "family": "Engelman",
+      "given": "Michal"
+    },
+    {
+      "raw": "Jackson, Heide",
+      "family": "Jackson",
+      "given": "Heide"
+    }
+  ],
+  "authors_text": "Engelman, Michal; Jackson, Heide",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00826-x",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00826-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00826-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00826-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

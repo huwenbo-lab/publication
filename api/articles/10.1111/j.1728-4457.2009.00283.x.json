@@ -1,0 +1,30 @@
+{
+  "title": "Population Dynamics in Italy in the Middle Ages: New Insights from Archaeological Findings",
+  "abstract": "Studies of settlements in Italy indicate that during the Early Middle Ages (6th-9th centuries) the Italian population was stagnant, whereas a slow but persistent growth followed during the High Middle Ages (10th-13th). However, the components of the dynamics of the Italian population in the long period between the Justinian Plague (around 565 in Italy) and the Black Death (1348) are largely unknown. In this article, data from anthropometric analysis of the skeletons in 154 Italian cemeteries that date between the 1st century BCE and the 13th century are used to gain new insights on mortality of adults and nutrition. Adult mortality was higher during the Early Middle Ages than during the Roman Empire and the High Middle Ages, suggesting that the stagnation of population was determined by higher mortality. During the Early Middle Ages, however, nutritional levels were higher, as suggested by taller statures, more widespread meat consumption, and longer periods of breastfeeding. We discuss some possible research lines to resolve this apparent contradiction.",
+  "authors": [
+    {
+      "raw": "Barbiera, Irene",
+      "family": "Barbiera",
+      "given": "Irene"
+    },
+    {
+      "raw": "Dalla-Zuanna, Gianpiero",
+      "family": "Dalla-Zuanna",
+      "given": "Gianpiero"
+    }
+  ],
+  "authors_text": "Barbiera, Irene; Dalla-Zuanna, Gianpiero",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2009,
+  "doi": "10.1111/j.1728-4457.2009.00283.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2009.00283.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2009.00283.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2009.00283.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

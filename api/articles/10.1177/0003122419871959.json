@@ -1,0 +1,50 @@
+{
+  "title": "Family Complexity into Adulthood: The Central Role of Mothers in Shaping Intergenerational Ties",
+  "abstract": "As a result of the divorce revolution, more children grow up in complex families. Yet, we know little about how family complexity affects relationships when children are adults and parents are ageing. In this article, we use unique survey data to test fundamental ideas about intergenerational ties: the role of biology, partnerships (marriage and cohabitation), residence, and selection. The survey used a register-based oversample of Dutch adults who grew up in nonstandard families, collected data among adult children and their parent figures, and used a double multi-actor design in which adult children reported on their parents and parents reported on their children. Using random- and fixed-effects models, we confirm most hypotheses but the results are highly gendered. For fathers, we find evidence for a partnership premium and no disadvantage of being a stepparent once the length of residence is adjusted. For mothers, the partnership premium is weaker but the effect of biology is strong: stepmother-stepchild ties are much weaker, even after taking residence patterns into account. Biological mothers are the primary kinkeepers, and for fathers of any type, their relationship to children depends on their partnership to the biological mother. Within-family comparisons suggest that selection into divorce and remarriage do not explain these disadvantages.",
+  "authors": [
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    },
+    {
+      "raw": "de Leeuw, Suzanne G.",
+      "family": "de Leeuw",
+      "given": "Suzanne G."
+    },
+    {
+      "raw": "Hornstra, Maaike",
+      "family": "Hornstra",
+      "given": "Maaike"
+    },
+    {
+      "raw": "Ivanova, Katya",
+      "family": "Ivanova",
+      "given": "Katya"
+    },
+    {
+      "raw": "van Gaalen, Ruben",
+      "family": "van Gaalen",
+      "given": "Ruben"
+    },
+    {
+      "raw": "van Houdt, Kirsten",
+      "family": "van Houdt",
+      "given": "Kirsten"
+    }
+  ],
+  "authors_text": "Kalmijn, Matthijs; de Leeuw, Suzanne G.; Hornstra, Maaike; Ivanova, Katya; van Gaalen, Ruben; van Houdt, Kirsten",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419871959",
+  "doi_url": "https://doi.org/10.1177/0003122419871959",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419871959",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419871959.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

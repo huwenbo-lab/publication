@@ -1,0 +1,30 @@
+{
+  "title": "Growing and Learning When Consumption Is Seasonal: Long-Term Evidence From Tanzania",
+  "abstract": "This article shows that the seasonality of food consumption during childhood, conditional on average consumption, affects long-run human capital development. We develop a model that distinguishes differences in average consumption levels, seasonal fluctuations, and idiosyncratic shocks, and estimate the model using panel data from early 1990s Tanzania. We then test whether the mean and seasonality of a child's consumption profile affect height and educational attainment in 2010. Results show that the negative effects of greater seasonality are 30 % to 60 % of the magnitudes of the positive effects of greater average consumption. Put differently, children expected to have identical human capital based on annualized consumption measures will have substantially different outcomes if one child's consumption is more seasonal. We discuss implications for measurement and policy.",
+  "authors": [
+    {
+      "raw": "Christian, Paul",
+      "family": "Christian",
+      "given": "Paul"
+    },
+    {
+      "raw": "Dillon, Brian",
+      "family": "Dillon",
+      "given": "Brian"
+    }
+  ],
+  "authors_text": "Christian, Paul; Dillon, Brian",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0669-4",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0669-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0669-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0669-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

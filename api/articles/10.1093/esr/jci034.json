@@ -1,0 +1,25 @@
+{
+  "title": "On the Conceptualisation and Measurement of Horizontal and Vertical Occupational Gender Segregation",
+  "abstract": "In a series of papers, Blackburn et al. claim to solve the conceptual and measurement issues associated with vertical gender segregation by occupation. In this paper it is argued that the authors misinterpret the conventional index measures of segregation, which leads them to a misspecification of their vertical and horizontal components of segregation which are alleged to be orthogonal. As a consequence, the two components are conflated, so that neither component of segregation is correctly calculated. There are also conceptual and measurement difficulties with the cross-national empirical work of Charles ( The absence of hierarchical employment data by occupation from the typical Labour Force Survey precludes the estimation of country wide vertical segregation. Data from sources such as the Australian Workplace Industrial Relations Survey will enable the calculation of vertical gender segregation, in addition to the generation of insights about the factors contributing to vertical gender segregation. Case studies too will enable a greater understanding of the extent and causes of vertical gender segregation.",
+  "authors": [
+    {
+      "raw": "Watts, Martin J.",
+      "family": "Watts",
+      "given": "Martin J."
+    }
+  ],
+  "authors_text": "Watts, Martin J.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1093/esr/jci034",
+  "doi_url": "https://doi.org/10.1093/esr/jci034",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci034",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci034.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

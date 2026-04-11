@@ -1,0 +1,35 @@
+{
+  "title": "The effect of pregnancy intention on child development",
+  "abstract": "Abstract In this paper, we use data from the National Longitudinal Survey of Youth to investigate the empirical link between unintended pregnancy and child health and development. An important contribution of our study is the use of information on siblings to control for unmeasured factors that may confound estimates of the effect of pregnancy intentions on infant and child outcomes. Results from our study indicate that unwanted pregnancy is associated with prenatal and postpartum maternal behaviors that adversely affect infant and child health, but that unwanted pregnancy has little association with birth weight and child cognitive outcomes. Estimates of the association between unwanted pregnancy and maternal behaviors were greatly reduced after controls for unmeasured family background were included in the model. Our results also indicate that there are no significant differences in maternal behaviors or child outcomes between mistimed and wanted pregnancies.",
+  "authors": [
+    {
+      "raw": "Joyce, Theodore J.",
+      "family": "Joyce",
+      "given": "Theodore J."
+    },
+    {
+      "raw": "Kaestner, Robert",
+      "family": "Kaestner",
+      "given": "Robert"
+    },
+    {
+      "raw": "Korenman, Sanders",
+      "family": "Korenman",
+      "given": "Sanders"
+    }
+  ],
+  "authors_text": "Joyce, Theodore J.; Kaestner, Robert; Korenman, Sanders",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648098",
+  "doi_url": "https://doi.org/10.2307/2648098",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648098",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648098.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

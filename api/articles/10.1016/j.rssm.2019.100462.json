@@ -1,0 +1,35 @@
+{
+  "title": "Can signaling assimilation mitigate hiring discrimination? Evidence from a survey experiment",
+  "abstract": "Using a survey experiment, we test whether discrimination against job candidates with a second-generation migration background varies by signaling either assimilation into the host society or attachment to the country of origin. In our study, Swiss HR managers evaluate descriptions of fictitious CVs in which we vary the origin, language proficiency, and extracurricular activity of the jobseekers with and without a cultural context. The findings reveal that candidates with Polish- or Turkish-sounding names are evaluated worse than candidates with Swiss- or Spanish-sounding names. The effect of signaling attachment to the native and host country culture depends on the perceived distance of the cultural background. A candidate with a Spanish-sounding name who speaks the native language and acts as a chairperson in a Spanish cultural association is granted a better evaluation by employers. Regarding the Polish applicants, neither signaling attachment to the country of origin nor assimilation to the Swiss background makes a significant difference. In contrast, regarding applicants with Turkish-sounding names, signaling assimilation improves employers' evaluation of their profile, whereas signaling attachment to the Turkish culture either by an extra curricula activity or indicating proficiency in both the Swiss and Turkish languages leads to significantly worse evaluations. We conclude that especially for individuals stemming from origins that are perceived as culturally distant, signaling attachment to the culture of origin may result in a higher occurrence of discrimination, even when the signal indicates higher human- or social-capital of the jobseeker.",
+  "authors": [
+    {
+      "raw": "Fossati, Flavia",
+      "family": "Fossati",
+      "given": "Flavia"
+    },
+    {
+      "raw": "Liechti, Fabienne",
+      "family": "Liechti",
+      "given": "Fabienne"
+    },
+    {
+      "raw": "Auer, Daniel",
+      "family": "Auer",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Fossati, Flavia; Liechti, Fabienne; Auer, Daniel",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100462",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100462",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100462",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100462.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

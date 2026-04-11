@@ -1,0 +1,30 @@
+{
+  "title": "Spousal Alternatives and Marital Relations",
+  "abstract": "This analysis merges marital history data for respondents in the National Survey of Families and Households with census data describing the sex composition of their local marriage markets to examine the impact of the availability of spousal alternatives on subjective measures of marital relations. The authors find significant bivariate associations between the sex composition of the local marriage market and husbands' and wives' marital happiness, perceived likelihood of divorce, and anticipated change in happiness if divorced. However, the effects of the sex composition of the local marriage market on these measures of marital quality are not significant after adjusting for racial differences. Racial differences in these subjective measures of marital quality cannot be explained by racial differences in mate availability, socioeconomic status, and other dimensions of sociodemographic background.",
+  "authors": [
+    {
+      "raw": "Trent, Katherine",
+      "family": "Trent",
+      "given": "Katherine"
+    },
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    }
+  ],
+  "authors_text": "Trent, Katherine; South, Scott J.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2003,
+  "doi": "10.1177/0192513x03252779",
+  "doi_url": "https://doi.org/10.1177/0192513x03252779",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x03252779",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x03252779.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

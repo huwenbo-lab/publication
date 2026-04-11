@@ -1,0 +1,40 @@
+{
+  "title": "Stereotypical Gender Associations in Language Have Decreased Over Time",
+  "abstract": "Using a corpus of millions of digitized books, we document the presence and trajectory over time of stereotypical gender associations in the written English language from 1800 to 2000. We employ the novel methodology of word embeddings to quantify male gender bias: the tendency to associate a domain with the male gender. We measure male gender bias in four stereotypically gendered domains: career, family, science, and arts. We found that stereotypical gender associations in language have decreased over time but still remain, with career and science terms demonstrating positive male gender bias and family and arts terms demonstrating negative male gender bias. We also seek evidence of changing associations corresponding to the second shift and find partial support. Traditional gender ideology is latent within the text of published English-language books, yet the magnitude of traditionally gendered associations appears to be decreasing over time.",
+  "authors": [
+    {
+      "raw": "Jones, Jason",
+      "family": "Jones",
+      "given": "Jason"
+    },
+    {
+      "raw": "Amin, Mohammad",
+      "family": "Amin",
+      "given": "Mohammad"
+    },
+    {
+      "raw": "Kim, Jessica",
+      "family": "Kim",
+      "given": "Jessica"
+    },
+    {
+      "raw": "Skiena, Steven",
+      "family": "Skiena",
+      "given": "Steven"
+    }
+  ],
+  "authors_text": "Jones, Jason; Amin, Mohammad; Kim, Jessica; Skiena, Steven",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2020,
+  "doi": "10.15195/v7.a1",
+  "doi_url": "https://doi.org/10.15195/v7.a1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv7.a1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v7.a1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

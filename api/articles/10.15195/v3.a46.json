@@ -1,0 +1,30 @@
+{
+  "title": "Deporting the American Dream: Immigration Enforcement and Latino Foreclosures",
+  "abstract": "Over the past decade, Latinos have been buffeted by two major forces: a record number of immigrant deportations and the housing foreclosure crisis. Yet, prior work has not assessed the link between the two. We hypothesize that deportations exacerbate rates of foreclosure among Latinos by removing income earners from owner-occupied households. We employ a quasi-experimental approach that leverages variation in county applications for 287(g) immigration enforcement agreements with Immigration and Customs Enforcement and data on foreclosure filings from 2005–2012. These models uncover a substantial association of enforcement with Hispanic foreclosure rates. The association is stronger in counties with more immigrant detentions and a larger share of undocumented persons in owner-occupied homes. The results imply that local immigration enforcement plays an important role in understanding why Latinos experienced foreclosures most often. The reduced home ownership and wealth that result illustrate how legal status and deportation perpetuate the racial stratification of Latinos.",
+  "authors": [
+    {
+      "raw": "Rugh, Jacob",
+      "family": "Rugh",
+      "given": "Jacob"
+    },
+    {
+      "raw": "Hall, Matthew",
+      "family": "Hall",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Rugh, Jacob; Hall, Matthew",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2016,
+  "doi": "10.15195/v3.a46",
+  "doi_url": "https://doi.org/10.15195/v3.a46",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv3.a46",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v3.a46.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

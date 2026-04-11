@@ -1,0 +1,30 @@
+{
+  "title": "Partnership Patterns in the United States and across Europe: The Role of Education and Country Context",
+  "abstract": "Patterns of partnership formation and dissolution are changing dramatically across the Western world. Some scholars have argued that women's trajectories of union formation and dissolution are diverging by education, with the higher educated postponing but eventually marrying and the lower educated more likely to cohabit or divorce if they do marry. At the same time, the variation in partnership behavior has also increased across countries, suggesting that country context plays an important role. Here, we use latent class growth models to compare the educational gradient of partnership trajectories in the United States and 14 countries in Europe and investigate the role of education and country context. Our results indicate a consistent positive educational gradient for partnership patterns showing the postponement of marriage, regardless of whether marriage was preceded by cohabitation, but a less consistent gradient for patterns reflecting long-term cohabitation and union dissolution. Although the US results show evidence of an educational divergence in marriage and union dissolution, the evidence from the other countries is weak. In addition, country context explains more of the variation in class membership than education, with context becoming more important over time. The divergence in behaviors across country contexts suggests that social, cultural, political, and economic developments are essential for understanding changes in partnership formation and dissolution.",
+  "authors": [
+    {
+      "raw": "Perelli-Harris, Brienna",
+      "family": "Perelli-Harris",
+      "given": "Brienna"
+    },
+    {
+      "raw": "Lyons-Amos, Mark",
+      "family": "Lyons-Amos",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Perelli-Harris, Brienna; Lyons-Amos, Mark",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sow054",
+  "doi_url": "https://doi.org/10.1093/sf/sow054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

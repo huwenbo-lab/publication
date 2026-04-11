@@ -1,0 +1,25 @@
+{
+  "title": "Shedding new light on happiness inequality via unconditional quantile regression: The case of Japan under the Covid-19 crisis",
+  "abstract": "In analyzing happiness inequality, recent research uses the standard deviation (SD) at the aggregate level and/or the recentered influence function (RIF) with one outcome measure, mostly the variance or the Gini coefficient. While this approach is useful to examine the overall dispersion of happiness among the target population, it does not fully explain the linkage between specific quantiles of happiness distribution and individual-level attributes. This article proposes an application of unconditional quantile regression (UQR), with a case study using the nationally representative data collected by the Japanese government during the Covid-19 pandemic. The analysis first reveals, while the average score of life satisfaction (LS) has surged from 2020 to 2021 and then remained stable until 2022, SD of LS has declined over the year. This indicates the downward trend of happiness inequality. The one-outcome RIF model also shows the consistent variation of LS between 2020 and 2022 without a sign of intensified inequality. However, UQR detects the exacerbated between-group heterogeneities across LS quantiles in accordance with age, gender, education, employment, income, and family relations. It is therefore imperative to apply the microlevel UQR analysis alongside one-outcome RIF and the macrolevel SD approach to better understand happiness inequality.",
+  "authors": [
+    {
+      "raw": "Araki, Satoshi",
+      "family": "Araki",
+      "given": "Satoshi"
+    }
+  ],
+  "authors_text": "Araki, Satoshi",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100782",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100782",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100782",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100782.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

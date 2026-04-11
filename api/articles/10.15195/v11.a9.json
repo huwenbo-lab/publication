@@ -1,0 +1,35 @@
+{
+  "title": "Bridging the Digital Divide Narrows the Participation Gap: Evidence from a Quasi-Natural Experiment",
+  "abstract": "Socio-economic inequality in access to the internet has decreased in affluent societies. We investigate how gaining access to the internet affected the civic and political participation of relatively disadvantaged late adopters by studying a quasi-natural experiment related to the American National Election Studies. In 2012, when about 80% of the U.S. population was already connected to the internet, the ANES face-to-face study was for the first time supplemented with a sample of online respondents. Our design exploits the fact that the firm (KnowledgePanel) that conducted the web survey and provided the prerecruited respondents had equipped offline sample households with free laptop computers and internet access. The findings show that gaining internet access promotes late adopters' civic participation and turnout, whereas there is no evidence for effects on the likelihood of political activism. These findings indicate that the closing of the digital divide alleviated participatory inequality.",
+  "authors": [
+    {
+      "raw": "Frey, Vincenz",
+      "family": "Frey",
+      "given": "Vincenz"
+    },
+    {
+      "raw": "Baldassarri, Delia",
+      "family": "Baldassarri",
+      "given": "Delia"
+    },
+    {
+      "raw": "Billari, Francesco",
+      "family": "Billari",
+      "given": "Francesco"
+    }
+  ],
+  "authors_text": "Frey, Vincenz; Baldassarri, Delia; Billari, Francesco",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2024,
+  "doi": "10.15195/v11.a9",
+  "doi_url": "https://doi.org/10.15195/v11.a9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv11.a9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v11.a9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

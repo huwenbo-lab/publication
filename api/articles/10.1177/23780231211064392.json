@@ -1,0 +1,30 @@
+{
+  "title": "Gender Inequality in STEM Employment and Earnings at Career Entry: Evidence from Millennial Birth Cohorts",
+  "abstract": "Although science, technology, engineering, and mathematics (STEM) majors remain male dominated, women’s greater enrollment in STEM is one of the greatest transformations to occur in U.S. higher education in the past half century. But to what extent have women’s gains in STEM enrollment translated to greater parity in labor market outcomes? Although the challenges women face in STEM have been well documented, questions about the influence of gender for STEM employment and earnings differences remain. In the present research, the authors use data from recent birth cohorts in the American Community Survey between 2009 and 2018 (starting with the first year college majors were available in the survey) and a reweighting technique from labor economics to track the evolution of gender inequalities in STEM employment and earnings inequality among STEM work at the onset of labor market entry. Even among a sample expected to produce highly conservative gender differences, sizable gender inequalities in STEM employment are observed. The authors show that despite women’s gains in STEM education among recent cohorts, women with STEM degrees face employment prospects in STEM work that more closely resemble those of men without STEM degrees than men with STEM degrees. Moreover, although modest gender earnings gaps eventually emerge for those without STEM degrees, large gaps occur at the outset of employment for STEM workers. Thus, although STEM education provides important opportunities for women’s earning potential, it may be less effective in itself to address significant gender inequalities among STEM employment.",
+  "authors": [
+    {
+      "raw": "VanHeuvelen, Tom",
+      "family": "VanHeuvelen",
+      "given": "Tom"
+    },
+    {
+      "raw": "Quadlin, Natasha",
+      "family": "Quadlin",
+      "given": "Natasha"
+    }
+  ],
+  "authors_text": "VanHeuvelen, Tom; Quadlin, Natasha",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211064392",
+  "doi_url": "https://doi.org/10.1177/23780231211064392",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211064392",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211064392.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

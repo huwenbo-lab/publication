@@ -1,0 +1,30 @@
+{
+  "title": "How Selective Migration Shapes Environmental Inequality in Germany: Evidence from Micro-level Panel Data",
+  "abstract": "Socio-economically disadvantaged and ethnic minorities are affected by a disproportionately high exposure to environmental pollution. Yet, it is unclear if selective migration causes this disproportionate exposure experienced by low-income and minority households. The study uses longitudinal data from the German Socio-Economic Panel to investigate the process of selective migration and its connection to the perceived exposure to air pollution in Germany. Consistent with the selective migration argument, movers experience a decrease in exposure according to their income, while stationary households do not experience a reductive effect due to income. Furthermore, the moving returns differ by minority status. While native German households experience less exposure to pollution when moving to a new place of residence, minority households do not. Additional analyses show that this minority effect cannot be explained by socio-economic differences, but completely vanishes in the second immigrant generation.",
+  "authors": [
+    {
+      "raw": "Best, Henning",
+      "family": "Best",
+      "given": "Henning"
+    },
+    {
+      "raw": "Ruettenauer, Tobias",
+      "family": "Ruettenauer",
+      "given": "Tobias"
+    }
+  ],
+  "authors_text": "Best, Henning; Ruettenauer, Tobias",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcx082",
+  "doi_url": "https://doi.org/10.1093/esr/jcx082",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx082",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx082.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

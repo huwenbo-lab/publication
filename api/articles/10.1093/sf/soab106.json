@@ -1,0 +1,30 @@
+{
+  "title": "The Impact of Taking Family Leaves Across Finnish Fathers' Wage Distribution",
+  "abstract": "Evidence is mixed as to whether less- or more-advantaged fathers suffer penalties for taking paid family leave and the reasons for this. Perhaps selection into taking leave differs among fathers, or taking leave increases some fathers' commitment to family over paid work, or taking it sends a negative signal to employers about future work-family priorities. We contribute to the literature by distinguishing between the initial paternity leave taken by the majority of fathers, and subsequent solo paternal leave taken by fewer fathers that indicates and signals greater family commitment. We also develop competing hypotheses about why low- or high-wage fathers may be penalized more for taking family leave. These are tested analyzing 2001 to 2014 waves of Finnish administrative panel data using unconditional quantile regression with various fixed-effects models. Net of selection, no fathers incur a sustained wage penalty for taking paternity leave, although distributed fixed-effects models reveal the highest-wage fathers receive a temporary penalty that we attribute to signaling. All fathers who also take solo paternal leave have decreasing post-leave wage trajectories. Only lower-wage fathers accrue significant penalties, however, suggesting that taking the leave shifts their priorities more toward family. We conclude the repercussions of taking shorter or longer family leaves and their sources differ across fathers' wage distribution.",
+  "authors": [
+    {
+      "raw": "Morosow, Kathrin",
+      "family": "Morosow",
+      "given": "Kathrin"
+    },
+    {
+      "raw": "Cooke, Lynn Prince",
+      "family": "Cooke",
+      "given": "Lynn Prince"
+    }
+  ],
+  "authors_text": "Morosow, Kathrin; Cooke, Lynn Prince",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab106",
+  "doi_url": "https://doi.org/10.1093/sf/soab106",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab106",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab106.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

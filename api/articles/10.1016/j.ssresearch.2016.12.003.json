@@ -1,0 +1,65 @@
+{
+  "title": "Using item response theory to optimize measurement of chronic stress in pregnancy",
+  "abstract": "Objective: Utilize Rasch analysis to develop an optimized self-reported measure of stress in pregnancy and examine the association with patient demographics and biologic measures of stress. Study design: Measured self-reported stress in pregnant women using 12 existing scales. Collected blood for biologic measures of stress (Epstein Barr Virus [EBV], C-Reactive Protein [CRP], Corticotropin Reactive Hormone [pCRH], and Adenocorticotropin Hormone [ACTH]). Used multidimensional scaling and Rasch analysis to produce an item reduced self-report measure. Results: Enrolled 112 women. Survey items reduced to two factors: perceived stressors and buffers of stress. Women with a domestic partner had lower perceived stress (p = 0.003). Caucasian women reported higher buffers of stress (p = 0.045), as did women with private insurance (p < 0.001), a planned pregnancy (p < 0.01), and a domestic partner (p < 0.001). Women with higher buffers of stress had lower levels of pCRH (adjusted p = 0.01). Conclusion: Item reduced, optimized measures of stress were associated with significant differences in patient demographics and biologic measures of stress. (C) 2016 Published by Elsevier Inc.",
+  "authors": [
+    {
+      "raw": "Borders, Ann E. B.",
+      "family": "Borders",
+      "given": "Ann E. B."
+    },
+    {
+      "raw": "Lai, Jin-Shei",
+      "family": "Lai",
+      "given": "Jin-Shei"
+    },
+    {
+      "raw": "Wolfe, Kaitlin",
+      "family": "Wolfe",
+      "given": "Kaitlin"
+    },
+    {
+      "raw": "Qadir, Sameen",
+      "family": "Qadir",
+      "given": "Sameen"
+    },
+    {
+      "raw": "Peng, Jie",
+      "family": "Peng",
+      "given": "Jie"
+    },
+    {
+      "raw": "Kim, Kwang-Youn",
+      "family": "Kim",
+      "given": "Kwang-Youn"
+    },
+    {
+      "raw": "Keenan-Devlin, Lauren",
+      "family": "Keenan-Devlin",
+      "given": "Lauren"
+    },
+    {
+      "raw": "Holl, Jane",
+      "family": "Holl",
+      "given": "Jane"
+    },
+    {
+      "raw": "Grobman, William",
+      "family": "Grobman",
+      "given": "William"
+    }
+  ],
+  "authors_text": "Borders, Ann E. B.; Lai, Jin-Shei; Wolfe, Kaitlin; Qadir, Sameen; Peng, Jie; Kim, Kwang-Youn; Keenan-Devlin, Lauren; Holl, Jane; Grobman, William",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.12.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.12.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.12.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.12.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

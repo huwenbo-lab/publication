@@ -1,0 +1,25 @@
+{
+  "title": "Do Carbon Prices Limit Economic Growth?",
+  "abstract": "The most common counterargument to taxing carbon emissions is that the policy has a negative impact on economic growth. The author tests the validity of this argument by visualizing the enactment of carbon prices on gross domestic product per capita from 1979 to 2018 and presenting a formal fixed-effects regression analysis of panel data. No connection is found between carbon price implementation and diminished economic growth. This outcome is primarily due to policy design and the general nature of economic growth. The author concludes that this counterargument to enacting carbon prices exists only because of misunderstandings of economic growth and ideology.",
+  "authors": [
+    {
+      "raw": "Driscoll, Daniel",
+      "family": "Driscoll",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Driscoll, Daniel",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023119898326",
+  "doi_url": "https://doi.org/10.1177/2378023119898326",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119898326",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119898326.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

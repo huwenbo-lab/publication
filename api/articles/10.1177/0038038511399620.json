@@ -1,0 +1,25 @@
+{
+  "title": "Challenging Code: A Sociological Reading of the KDE Free Software Project",
+  "abstract": "Free, Libre and Open Source Software (FLOSS) challenges the norms and relations of the capitalist software industry that is at the core of network society. Many people involved in FLOSS see themselves as activists in a new social movement. The article discusses the KDE (Kool Desktop Environment) project as a FLOSS case study. KDE is one of several projects intended to bring ease of use of a graphical user interface (GUI) to various free operating systems. (The operating system is the underlying software on top of which sit applications we use directly such as web browsers or word processors.) The article considers the KDE project from three broad perspectives — ‘cosmological’, technical, and organizational — in order to examine the expressed world-view and technical organization of the project through an established sociological approach to activism and social movements.",
+  "authors": [
+    {
+      "raw": "Alleyne, Brian",
+      "family": "Alleyne",
+      "given": "Brian"
+    }
+  ],
+  "authors_text": "Alleyne, Brian",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2011,
+  "doi": "10.1177/0038038511399620",
+  "doi_url": "https://doi.org/10.1177/0038038511399620",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038511399620",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038511399620.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

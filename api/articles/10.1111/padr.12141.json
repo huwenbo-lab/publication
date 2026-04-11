@@ -1,0 +1,30 @@
+{
+  "title": "Education and Health: Redrawing the Preston Curve",
+  "abstract": "We revisit a highly influential 1975 article by Preston on the changing relationship between income and life expectancy which has become a standard reference in the field. It also was used as basis for overly simplistic (and according to our analysis misleading) statements that income growth is the key driver of growth in life expectancy. Here we explore the alternative hypothesis that improvements in educational attainment can better explain the observed increases in life expectancy. The fact that human capital is also a key driver of economic growth in addition to health could result in a largely spurious empirical association between income and life expectancy. Our article confirms this alternative hypothesis both in descriptive visual and in multivariate statistical analysis using national-level time series data for 1970-2015 and shows the same with respect to child mortality. This result has far-reaching consequences for policy priorities for improving global health.",
+  "authors": [
+    {
+      "raw": "Lutz, Wolfgang",
+      "family": "Lutz",
+      "given": "Wolfgang"
+    },
+    {
+      "raw": "Kebede, Endale",
+      "family": "Kebede",
+      "given": "Endale"
+    }
+  ],
+  "authors_text": "Lutz, Wolfgang; Kebede, Endale",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2018,
+  "doi": "10.1111/padr.12141",
+  "doi_url": "https://doi.org/10.1111/padr.12141",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12141",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12141.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

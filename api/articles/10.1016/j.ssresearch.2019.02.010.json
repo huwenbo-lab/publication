@@ -1,0 +1,35 @@
+{
+  "title": "When neighborhoods matter: Developmental timing and youth reading achievement and problem behaviors",
+  "abstract": "Consistent evidence links neighborhood socioeconomic status with children's development outcomes. However, it is less clear precisely whether or when neighborhoods are most strongly associated with children's socioemotional functioning and achievement. Couched in bioecological and developmental theory, this study tests two models of neighborhood effects: childhood and adolescent exposure. We used the Project on Human Development in Chicago Neighborhoods, a longitudinal, multi-cohort study of children in Chicago in the 1990s and 2000s. We examined two cohorts of children, early childhood and adolescence, to compare the relative associations between neighborhood socioeconomic advantage and disadvantage, as measured by U.S. Census data. We conducted multilevel latent growth models (MLGMs), investigating children's initial status and growth in reading, internalizing and externalizing behaviors across the three developmental periods by neighborhood characteristics, controlling for a rich set of childand family-level covariates. Results provided some support for the childhood and adolescent exposure models, but not precisely as hypothesized.",
+  "authors": [
+    {
+      "raw": "Anderson, Sara",
+      "family": "Anderson",
+      "given": "Sara"
+    },
+    {
+      "raw": "Johnston, William",
+      "family": "Johnston",
+      "given": "William"
+    },
+    {
+      "raw": "Leventhal, Tama",
+      "family": "Leventhal",
+      "given": "Tama"
+    }
+  ],
+  "authors_text": "Anderson, Sara; Johnston, William; Leventhal, Tama",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.02.010",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.02.010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.02.010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.02.010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

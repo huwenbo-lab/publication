@@ -1,0 +1,30 @@
+{
+  "title": "Preference effects on friendship choice: Evidence from an online field experiment",
+  "abstract": "Observed friendship choices are constrained by social structures and thus problematic indicators for underlying personal preferences. In this paper, we report on a study demonstrating the causal effects of preference in friendship choice based on an online field experiment. Specifically, we tested two important forces that govern friendship choices: preference for shared group identity (operationalized as the desire to befriend others sharing the same place-of-origin identity) and preference for high status (operationalized as the desire to befriend others from high-status institutions). Using an online field experiment in one of the largest social network service websites in China, we investigated the causal preference effects of these two forces free from structural constraints. The results of our study confirm the preference effects on friendship choice in both of the two dimensions we tested. (C) 2017 Published by Elsevier Inc.",
+  "authors": [
+    {
+      "raw": "Yu, Siyu",
+      "family": "Yu",
+      "given": "Siyu"
+    },
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Yu, Siyu; Xie, Yu",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2017.01.006",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.01.006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.01.006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.01.006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

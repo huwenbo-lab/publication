@@ -1,0 +1,25 @@
+{
+  "title": "How does the age gap between partners affect their survival?",
+  "abstract": "AbstractI use hazard regression methods to examine how the age difference between spouses affects their survival. In many countries, the age difference between spouses at marriage has remained relatively stable for several decades. In Denmark, men are, on average, about three years older than the women they marry. Previous studies of the age gap between spouses with respect to mortality found that having a younger spouse is beneficial, while having an older spouse is detrimental for one’s own survival. Most of the observed effects could not be explained satisfactorily until now, mainly because of methodological drawbacks and insufficiency of the data. The most common explanations refer to selection effects, caregiving in later life, and some positive psychological and sociological effects of having a younger spouse. The present study extends earlier work by using longitudinal Danish register data that include the entire history of key demographic events of the whole population from 1990 onward. Controlling for confounding factors such as education and wealth, results suggest that having a younger spouse is beneficial for men but detrimental for women, while having an older spouse is detrimental for both sexes.",
+  "authors": [
+    {
+      "raw": "Drefahl, Sven",
+      "family": "Drefahl",
+      "given": "Sven"
+    }
+  ],
+  "authors_text": "Drefahl, Sven",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0106",
+  "doi_url": "https://doi.org/10.1353/dem.0.0106",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0106",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0106.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

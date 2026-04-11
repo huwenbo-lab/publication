@@ -1,0 +1,30 @@
+{
+  "title": "Hazard Versus Linear Probability Difference-in-Differences Estimators for Demographic Processes",
+  "abstract": "This study examines the properties of the linear probability difference-in-dif fer ences esti ma tor when the data are in fact gen er ated by a sin gle-dec re ment, con tin u ous-time haz ard pro cess. We focus on the text book case of two groups and two peri ods in which the con trol and treat ment groups are observed before and after treat-ment. We pro vide for mal der i va tions and illus trate mat ters con cretely by reexamining economic studies that have relied on the linear probability difference-in-differences esti ma tor when attempting to obtain esti ma tes of the causal effect of uni lat eral and no-fault divorce. In par tic u lar, we show that the increas ing then decreas ing pat tern of effects found by Wolfers (2006) can be gen er ated by a time-invari ant effect of treat ment in a pro por tional haz ard set ting. We con clude that often implicit assump-tions about how the data are gen er ated are an impor tant and nec es sary com po nent of causal iden ti ca tion.",
+  "authors": [
+    {
+      "raw": "Wu, Lawrence L.",
+      "family": "Wu",
+      "given": "Lawrence L."
+    },
+    {
+      "raw": "Wen, Fangqi",
+      "family": "Wen",
+      "given": "Fangqi"
+    }
+  ],
+  "authors_text": "Wu, Lawrence L.; Wen, Fangqi",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10207604",
+  "doi_url": "https://doi.org/10.1215/00703370-10207604",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10207604",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10207604.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Does Educational Mismatch Affect Emigration Behaviour?",
+  "abstract": "AbstractThis paper uses linked Swiss administrative and survey data to examine the relationship between educational mismatch in the labour market and emigration decisions, carrying out the analysis for both Swiss native and previous immigrant workers. In turn, migrants’ decisions separate returning home from onward migration to a third country. We find that undereducation is positively associated with the probability of emigration and return to the country of origin. In contrast, the reverse relationship is found between overeducation and emigration, especially among non-European immigrant workers. According to the predictions of the traditional model of migration, based on self-selection, migrants returning home are positively selected relative to migrants emigrating to other countries. We also find that immigrants from a country outside the EU27/EFTA have little incentive to return home and generally accept jobs for which they are mismatched in Switzerland. These results highlight the relevance to understand emigration behaviours in relation to the type of migrant that is most integrated, and productive, in the Swiss market, hence enabling better migration and domestic labour market policy design.",
+  "authors": [
+    {
+      "raw": "Wanner, Philippe",
+      "family": "Wanner",
+      "given": "Philippe"
+    },
+    {
+      "raw": "Pecoraro, Marco",
+      "family": "Pecoraro",
+      "given": "Marco"
+    },
+    {
+      "raw": "Tani, Massimiliano",
+      "family": "Tani",
+      "given": "Massimiliano"
+    }
+  ],
+  "authors_text": "Wanner, Philippe; Pecoraro, Marco; Tani, Massimiliano",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2021,
+  "doi": "10.1007/s10680-021-09595-z",
+  "doi_url": "https://doi.org/10.1007/s10680-021-09595-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-021-09595-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-021-09595-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

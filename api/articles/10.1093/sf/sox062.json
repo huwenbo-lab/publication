@@ -1,0 +1,30 @@
+{
+  "title": "Micro-Educational Reproduction",
+  "abstract": "This study analyzes the persistence of educational inequality in advanced industrialized societies with expanding and differentiated education systems. Using Denmark as a case, we investigate changes in immobility patterns for cohorts born 1960-1981 and develop a new micro-educational classification capturing both hierarchical and horizontal forms of educational differentiation. To investigate the association between parents' and children's educational status, we apply log linear models and control for four types of educational immobility: gradational (by returns to education), aggregated (5 macro-educational levels), horizontal (19 fields of study), and disaggregated (62 micro-educations). Our findings show that while macro-educational immobility has decreased across the period, micro-educational immobility at the university and university college levels remains high and stable, in particular for sons. We also find great variation in immobility for specific micro-educations within the university level. Studies of educational immobility would therefore benefit from paying attention to micro-educational classifications, because they capture patterns of multidimensional, disaggregated forms of reproduction. In addition, the micro-educational approach far better explains the immobility of sons than it explains that of daughters, revealing important gender differences in the immobility patterns for sons and daughters.",
+  "authors": [
+    {
+      "raw": "Andrade, Stefan B.",
+      "family": "Andrade",
+      "given": "Stefan B."
+    },
+    {
+      "raw": "Thomsen, Jens-Peter",
+      "family": "Thomsen",
+      "given": "Jens-Peter"
+    }
+  ],
+  "authors_text": "Andrade, Stefan B.; Thomsen, Jens-Peter",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox062",
+  "doi_url": "https://doi.org/10.1093/sf/sox062",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox062",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox062.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

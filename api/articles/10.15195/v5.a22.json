@@ -1,0 +1,60 @@
+{
+  "title": "Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Health",
+  "abstract": "Genetic variants identified in genome-wide association studies of educational attainment have been linked with a range of positive life course development outcomes. However, it remains unclear whether school environments may moderate these genetic associations. We analyze data from two biosocial surveys that contain both genetic data and follow students from secondary school through mid- to late life. We test if the magnitudes of the associations with educational and occupational attainments varied across the secondary schools that participants attended or with characteristics of those schools. Although we find little evidence that genetic associations with educational and occupational attainment varied across schools or with school characteristics, genetic associations with any postsecondary education and college completion were moderated by school-level socioeconomic status. Along similar lines, we observe substantial between-school variation in the average level of educational attainment students achieved for a fixed genotype. These findings emphasize the importance of social context in the interpretation of genetic associations. Specifically, our results suggest that though existing measures of individual genetic endowment have a linear relationship with years of schooling that is relatively consistent across school environments, school context is crucial in connecting an individual's genotype to his or her likelihood of crossing meaningful educational thresholds.",
+  "authors": [
+    {
+      "raw": "Trejo, Sam",
+      "family": "Trejo",
+      "given": "Sam"
+    },
+    {
+      "raw": "Belsky, Daniel",
+      "family": "Belsky",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Boardman, Jason",
+      "family": "Boardman",
+      "given": "Jason"
+    },
+    {
+      "raw": "Freese, Jeremy",
+      "family": "Freese",
+      "given": "Jeremy"
+    },
+    {
+      "raw": "Harris, Kathleen",
+      "family": "Harris",
+      "given": "Kathleen"
+    },
+    {
+      "raw": "Herd, Pam",
+      "family": "Herd",
+      "given": "Pam"
+    },
+    {
+      "raw": "Sicinski, Kamil",
+      "family": "Sicinski",
+      "given": "Kamil"
+    },
+    {
+      "raw": "Domingue, Benjamin",
+      "family": "Domingue",
+      "given": "Benjamin"
+    }
+  ],
+  "authors_text": "Trejo, Sam; Belsky, Daniel; Boardman, Jason; Freese, Jeremy; Harris, Kathleen; Herd, Pam; Sicinski, Kamil; Domingue, Benjamin",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2018,
+  "doi": "10.15195/v5.a22",
+  "doi_url": "https://doi.org/10.15195/v5.a22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv5.a22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v5.a22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

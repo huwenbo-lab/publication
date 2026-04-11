@@ -1,0 +1,30 @@
+{
+  "title": "Mortality and Macroeconomic Conditions: What Can We Learn From France?",
+  "abstract": "This study uses aggregate panel data on French departements to investigate the relationship between macroeconomic conditions and mortality from 1982 to 2014. We find no consistent relationship between macroeconomic conditions and all-cause mortality in France. The results are robust across different specifications, over time, and across different geographic levels. However, we find that heterogeneity across age groups and mortality causes matters. Furthermore, in areas with a low average educational level, a large population, and a high share of migrants, mortality is significantly countercyclical. Similar to the case in the United States, the relationship between the unemployment rate and mortality seems to have moved from slightly procyclical to slightly countercyclical over the period of analysis.",
+  "authors": [
+    {
+      "raw": "Bruning, Max",
+      "family": "Bruning",
+      "given": "Max"
+    },
+    {
+      "raw": "Thuilliez, Josselin",
+      "family": "Thuilliez",
+      "given": "Josselin"
+    }
+  ],
+  "authors_text": "Bruning, Max; Thuilliez, Josselin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00811-4",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00811-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00811-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00811-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

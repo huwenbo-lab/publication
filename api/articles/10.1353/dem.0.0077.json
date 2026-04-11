@@ -1,0 +1,30 @@
+{
+  "title": "Mortality attributable to obesity among middle-aged adults in the United States",
+  "abstract": "Abstract Obesity is considered a major cause of premature mortality and a potential threat to the longstanding secular decline in mortality in the United States. We measure relative and attributable risks associated with obesity among middle-aged adults using data from the Health and Retirement Study (1992–2004). Although class II/III obesity (BMI _ 35.0 kg/m2) increases mortality by 40% in females and 62% in males compared with normal BMI (BMI = 18.5-24.9), class I obesity (BMI = 30.0-34.9) and being overweight (BMI = 25.0-29.9) are not associated with excess mortality. With respect to attributable mortality, class II/III obesity (BMI _ 35.0) is responsible for approximately 4% of deaths among females and 3% of deaths among males. Obesity is often compared with cigarette smoking as a major source of avoidable mortality. Smoking-attributable mortality is much larger in this cohort: about 36% in females and 50% in males. Results are robust to confounding by preexisting diseases, multiple dimensions of socioeconomic status (SES), smoking, and other correlates. These findings challenge the viewpoint that obesity will stem the long-term secular decline in U.S. mortality.",
+  "authors": [
+    {
+      "raw": "Mehta, Neil K.",
+      "family": "Mehta",
+      "given": "Neil K."
+    },
+    {
+      "raw": "Chang, Virginia W.",
+      "family": "Chang",
+      "given": "Virginia W."
+    }
+  ],
+  "authors_text": "Mehta, Neil K.; Chang, Virginia W.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0077",
+  "doi_url": "https://doi.org/10.1353/dem.0.0077",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0077",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0077.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

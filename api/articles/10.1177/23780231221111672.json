@@ -1,0 +1,40 @@
+{
+  "title": "Net Worth Poverty and Child Development",
+  "abstract": "The authors investigate whether net worth poverty (NWP) reduces children’s well-being. NWP—having wealth (assets minus debts) less than one fourth of the federal poverty line—is both theoretically and empirically distinct from income poverty (IP) and is the modal form of poverty among children. Data come from the Panel Study of Income Dynamics and its Child Development Supplement on children ages 3 to 17 years observed between 2002 and 2019. The authors use linear mixed-effects models to investigate the associations among NWP, IP, and four cognitive and behavioral outcomes. NWP reduces children’s cognitive scores and was associated with increases in both problem behavior scores. Negative associations for NWP are similar in magnitude to those found for IP. Much of the NWP effect operates through asset deprivation rather than high debt. The results illustrate the potential risks many children, previously overlooked in studies of IP, face because of wealth deprivation.",
+  "authors": [
+    {
+      "raw": "Gibson-Davis, Christina",
+      "family": "Gibson-Davis",
+      "given": "Christina"
+    },
+    {
+      "raw": "Keister, Lisa A.",
+      "family": "Keister",
+      "given": "Lisa A."
+    },
+    {
+      "raw": "Gennetian, Lisa A.",
+      "family": "Gennetian",
+      "given": "Lisa A."
+    },
+    {
+      "raw": "Lowell, Warren",
+      "family": "Lowell",
+      "given": "Warren"
+    }
+  ],
+  "authors_text": "Gibson-Davis, Christina; Keister, Lisa A.; Gennetian, Lisa A.; Lowell, Warren",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221111672",
+  "doi_url": "https://doi.org/10.1177/23780231221111672",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221111672",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221111672.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

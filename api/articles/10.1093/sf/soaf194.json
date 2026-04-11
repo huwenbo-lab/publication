@@ -1,0 +1,25 @@
+{
+  "title": "Two-layer panopticon: how the Chinese government uses digital surveillance to prevent collective action",
+  "abstract": "Authoritarian regimes increasingly use digital surveillance to suppress collective action. Existing accounts emphasize how dictators use mass surveillance of citizens to gather information and deter mobilization, but overlook their continued reliance on human agents, whose shirking often undermines repression. We propose a two-layer Panopticon framework for digital surveillance. Dictators can directly surveil citizens. They can also surveil the frontline agents responsible for implementing repression, reducing shirking and improving prevention. We test this framework in China using an original dataset of 51,611 government procurement contracts that captures digital workplace surveillance of agents alongside mass surveillance of citizens. We find that each layer independently reduces protest and that their interaction produces modestly reinforcing effects. Causal mediation analysis reveals an asymmetric mechanism: about one-third of the protest-reducing effect of citizen surveillance operates through increased oversight of agents, while agent-facing surveillance reduces protest directly. These results remain robust across dynamic panel models, instrumental variables, and alternative protest data. This article bridges and extends research on state repression, principal-agent problems in bureaucracy, and digital authoritarianism, offering new theoretical and empirical insights into how digital technologies strengthen the practice of authoritarian rule.",
+  "authors": [
+    {
+      "raw": "Zhang, Han",
+      "family": "Zhang",
+      "given": "Han"
+    }
+  ],
+  "authors_text": "Zhang, Han",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf194",
+  "doi_url": "https://doi.org/10.1093/sf/soaf194",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf194",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf194.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Capital Flight: Examining Teachers' Socioeconomic Status and Early Career Retention",
+  "abstract": "This article investigates the understudied relationship between teacher socioeconomic status (SES) and retention. Drawing on Bourdieu's theory of social reproduction and longitudinal data from 378 mathematics teachers, we use logistic regression to examine whether teacher SES, conceptualized and measured in terms of their economic, social, and cultural capital, is associated with their school, district, and professional retention at five years. We find teacher SES to be significantly related to retention at five years, and this is independent of teacher race. Practically, the study suggests that incorporating teacher SES into teacher recruitment and selection efforts, as has been done with teacher race, might be a valuable next step for schools and districts in which teacher retention has been a long-standing, serious issue.",
+  "authors": [
+    {
+      "raw": "Brantlinger, Andrew",
+      "family": "Brantlinger",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Grant, Ashley Anne",
+      "family": "Grant",
+      "given": "Ashley Anne"
+    }
+  ],
+  "authors_text": "Brantlinger, Andrew; Grant, Ashley Anne",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2024,
+  "doi": "10.1177/00380407241242768",
+  "doi_url": "https://doi.org/10.1177/00380407241242768",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380407241242768",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380407241242768.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "The Swedish Kinship Universe: A Demographic Account of the Number of Children, Parents, Siblings, Grandchildren, Grandparents, Aunts/Uncles, Nieces/Nephews, and Cousins Using National Population Registers",
+  "abstract": "Given that sur pris ingly lit tle is known about the demog ra phy of human kin ship, we pro vide a demo graphic account of the kin ship net works of indi vid u als in Sweden in 2017 across sex and cohort between ages 0 and 102. We used adminis-trative register data of the full population of Sweden to provide the first kinship enumeration for a complete pop u la tion based on empirical data. We created ego -focused kin ship net works of children, parents, sib lings, grandchildren, grand parents, aunts and uncles, nieces and nephews, and cousins. We show the aver age number of kin of different types, the distribution of the number of kin, and changes in dis per sion over time. A large share of all kin of an individual are horizontal kin, such as cous ins. We observe the highest number of kin-on aver age, roughly 20-around age 35. We show differ-ences between matrilineal and patrilineal kin and differences in the kin ship structure arising from fertility with more than one child bearing partner, such as half-siblings. The results demonstrate substantial variability in kinship within a population. We discuss our findings in the context of other methods to estimate kinship.",
+  "authors": [
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    },
+    {
+      "raw": "Andersson, Linus",
+      "family": "Andersson",
+      "given": "Linus"
+    },
+    {
+      "raw": "Pettersson, Emma",
+      "family": "Pettersson",
+      "given": "Emma"
+    },
+    {
+      "raw": "Drefahl, Sven",
+      "family": "Drefahl",
+      "given": "Sven"
+    }
+  ],
+  "authors_text": "Kolk, Martin; Andersson, Linus; Pettersson, Emma; Drefahl, Sven",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10955240",
+  "doi_url": "https://doi.org/10.1215/00703370-10955240",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10955240",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10955240.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

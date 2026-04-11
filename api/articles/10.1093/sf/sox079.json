@@ -1,0 +1,40 @@
+{
+  "title": "Pathways of Health and Human Capital from Adolescence into Young Adulthood",
+  "abstract": "Social inequalities in health and human capital are core concerns of sociologists, but little research examines the developmental stage when such inequalities are likely to emerge-the transition to adulthood. With new data and innovative statistical methods, we conceptually develop, and empirically operationalize, pathways of physical health and human capital accumulation from adolescence into young adulthood, using an autoregressive cross-lagged structural equation model. Results reveal that pathways of health and human capital accumulate at differential rates across the transition to adulthood; evidence of cross-lagged effects lends support for both social causation and health selection hypotheses. We then apply this model to assess the presence of social inequality in metabolic syndrome-the leading risk factor of cardiovascular disease in the United States. Findings document social stratification of cardiovascular health that is robust to both observed and unobserved social and health selection mechanisms. We speculate that this social stratification will only increase as this cohort ages.",
+  "authors": [
+    {
+      "raw": "Kane, Jennifer B.",
+      "family": "Kane",
+      "given": "Jennifer B."
+    },
+    {
+      "raw": "Harris, Kathleen Mullan",
+      "family": "Harris",
+      "given": "Kathleen Mullan"
+    },
+    {
+      "raw": "Morgan, S. Philip",
+      "family": "Morgan",
+      "given": "S. Philip"
+    },
+    {
+      "raw": "Guilkey, David K.",
+      "family": "Guilkey",
+      "given": "David K."
+    }
+  ],
+  "authors_text": "Kane, Jennifer B.; Harris, Kathleen Mullan; Morgan, S. Philip; Guilkey, David K.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/sox079",
+  "doi_url": "https://doi.org/10.1093/sf/sox079",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox079",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox079.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

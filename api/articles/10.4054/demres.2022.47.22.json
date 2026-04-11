@@ -1,0 +1,40 @@
+{
+  "title": "Investigating the application of generalized additive models to discrete-time event history analysis for birth events",
+  "abstract": "BACKGROUND Discrete-time event history analysis (EHA) is the standard approach taken when modelling fertility histories collected in surveys, where the date of birth is often recorded imprecisely. This method is commonly used to investigate the factors associated with the time to a first or subsequent conception or birth. Although there is an emerging trend towards the smooth incorporation of continuous covariates in the broader literature, this is yet to be formally embraced in the context of birth events.OBJECTIVE We investigate the formal application of smooth methods implemented via generalized additive models (GAMs) to the analysis of fertility histories. We also determine whether and where GAMs offer a practical improvement over existing approaches. METHODS We fit parity-specific logistic GAMs to data from the UK Household Longitudinal Study, learning about the effects of age, period, time since last birth, educational qualification, and country of birth. First, we select the most parsimonious GAMs that fit the data sufficiently well. Then we compare them with corresponding models that use the existing methods of categorical, polynomial, and piecewise linear spline representations in terms of fit, complexity, and substantive insights gained.RESULTS We find that smooth terms can offer considerable improvements in precision and efficiency, particularly for highly non-linear effects and interactions between continuous variables. Their flexibility enables the detection of important features that are missed or estimated imprecisely by comparator methods. CONTRIBUTION Our findings suggest that GAMs are a useful addition to the demographer's toolkit. They are highly relevant for motivating future methodological developments in EHA, both for birth events and more generally.",
+  "authors": [
+    {
+      "raw": "Ellison, Joanne",
+      "family": "Ellison",
+      "given": "Joanne"
+    },
+    {
+      "raw": "Berrington, Ann",
+      "family": "Berrington",
+      "given": "Ann"
+    },
+    {
+      "raw": "Dodd, Erengul",
+      "family": "Dodd",
+      "given": "Erengul"
+    },
+    {
+      "raw": "Forster, Jonathan J.",
+      "family": "Forster",
+      "given": "Jonathan J."
+    }
+  ],
+  "authors_text": "Ellison, Joanne; Berrington, Ann; Dodd, Erengul; Forster, Jonathan J.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.22",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

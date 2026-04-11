@@ -1,0 +1,35 @@
+{
+  "title": "Residential Segregation and 'Ethnic Flight' vs. 'Ethnic Avoidance' in Sweden",
+  "abstract": "Residential segregation along ethnic categories has been associated with social disadvantages of minority group members. It is considered a driving factor in the reproduction of social inequalities and a pressing issue in many societies. While most research focuses on neighbourhood segregation in the United States, less is known about the origins of ethnic enclaves in European cities. We use complete data of residential moves within Stockholm municipality between 1990 and 2003 to test whether `ethnic flight' or ` ethnic avoidance' drives segregation dynamics. On the macro level, we analyse the binary infrastructure of natives' and immigrants' movement flows between 128 neighbourhoods with exponential random graph models, which account for systemic dependencies in the structure of the housing market. On the micro level, we analyse individual-level panel data to account for differences between native and immigrant in-and out-movers. Our results show strong support for ` ethnic avoidance' on both levels-native Swedes avoid moving into neighbourhoods where ethnic minorities live. This is even more pronounced when controlling for socio-economic factors. At the same time, there is only little support for ` ethnic flight' on the micro level-native Swedes are only marginally more likely to move out of neighbourhoods where many immigrants live.",
+  "authors": [
+    {
+      "raw": "Mueller, Tim S.",
+      "family": "Mueller",
+      "given": "Tim S."
+    },
+    {
+      "raw": "Grund, Thomas U.",
+      "family": "Grund",
+      "given": "Thomas U."
+    },
+    {
+      "raw": "Koskinen, Johan H.",
+      "family": "Koskinen",
+      "given": "Johan H."
+    }
+  ],
+  "authors_text": "Mueller, Tim S.; Grund, Thomas U.; Koskinen, Johan H.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy010",
+  "doi_url": "https://doi.org/10.1093/esr/jcy010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

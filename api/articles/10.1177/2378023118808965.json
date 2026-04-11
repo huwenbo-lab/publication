@@ -1,0 +1,30 @@
+{
+  "title": "The Effect of Eviction on Maternal Criminal Justice Involvement",
+  "abstract": "Millions of individuals in the United States experience eviction each year, with low-income women being particularly at risk. As a result, scholarship has increasingly sought to understand what the implications of eviction are for families. In this article, we build on this work by presenting the first estimates of the impact of eviction on criminal justice involvement for mothers in the U.S. context and examining three pathways that may help to explain these associations. Using longitudinal data from the Fragile Families and Child Wellbeing Study, adjusted estimates suggest that mothers who have been evicted have more than two times higher odds of experiencing criminal justice involvement. When we differentiate by eviction timing, we find that both recent and less recent evictions are associated with criminal justice involvement. Last, we find that eviction indirectly affects criminal justice involvement through future financial hardship and substance use.",
+  "authors": [
+    {
+      "raw": "Gottlieb, Aaron",
+      "family": "Gottlieb",
+      "given": "Aaron"
+    },
+    {
+      "raw": "Moose, Jessica W.",
+      "family": "Moose",
+      "given": "Jessica W."
+    }
+  ],
+  "authors_text": "Gottlieb, Aaron; Moose, Jessica W.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118808965",
+  "doi_url": "https://doi.org/10.1177/2378023118808965",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118808965",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118808965.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

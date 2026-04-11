@@ -1,0 +1,40 @@
+{
+  "title": "Millionaire Migration and Taxation of the Elite: Evidence from Administrative Data",
+  "abstract": "A growing number of U.S. states have adopted millionaire taxes on top income-earners. This increases the progressivity of state tax systems, but it raises concerns about tax flight: elites migrating from high-tax to low-tax states, draining state revenues, and undermining redistributive social policies. Are top income-earners transitory millionaires searching for lower-tax places to live? Or are they embedded elites who are reluctant to migrate away from places where they have been highly successful? This question is central to understanding the social consequences of progressive taxation. We draw on administrative tax returns for all million-dollar income-earners in the United States over 13 years, tracking the states from which millionaires file their taxes. Our dataset contains 45 million tax records and provides census-scale panel data on top income-earners. We advance two core analyses: (1) state-to-state migration of millionaires over the long-term, and (2) a sharply-focused discontinuity analysis of millionaire population along state borders. We find that millionaire tax flight is occurring, but only at the margins of statistical and socioeconomic significance.",
+  "authors": [
+    {
+      "raw": "Young, Cristobal",
+      "family": "Young",
+      "given": "Cristobal"
+    },
+    {
+      "raw": "Varner, Charles",
+      "family": "Varner",
+      "given": "Charles"
+    },
+    {
+      "raw": "Lurie, Ithai Z.",
+      "family": "Lurie",
+      "given": "Ithai Z."
+    },
+    {
+      "raw": "Prisinzano, Richard",
+      "family": "Prisinzano",
+      "given": "Richard"
+    }
+  ],
+  "authors_text": "Young, Cristobal; Varner, Charles; Lurie, Ithai Z.; Prisinzano, Richard",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1177/0003122416639625",
+  "doi_url": "https://doi.org/10.1177/0003122416639625",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122416639625",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122416639625.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

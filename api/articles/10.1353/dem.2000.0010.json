@@ -1,0 +1,25 @@
+{
+  "title": "Marital protection and marital selection: Evidence from a historical-prospective sample of American men",
+  "abstract": "Abstract Whether marriage causes people to live longer or whether healthier people select into marriage is an open question. In this study I followed a sample of men from age 18 to first marriage and ultimately to death. Health in early adulthood was represented by height and weight around age 20. The probability of ever marrying and the conditional probability of marriage in a given time period were lower for smaller men and greater for larger men. Marriage significantly lowered mortality risk even after controlling for health in early adulthood. Thus I found support both for selection into marriage and for protective effects of marriage.",
+  "authors": [
+    {
+      "raw": "Murray, John E.",
+      "family": "Murray",
+      "given": "John E."
+    }
+  ],
+  "authors_text": "Murray, John E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.1353/dem.2000.0010",
+  "doi_url": "https://doi.org/10.1353/dem.2000.0010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2000.0010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2000.0010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

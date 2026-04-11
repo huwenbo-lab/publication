@@ -1,0 +1,35 @@
+{
+  "title": "What Explains the Decline in First Marriage in the United States? Evidence from the Panel Study of Income Dynamics, 1969 to 2013",
+  "abstract": "Rates of entry into first marriage have declined sharply in the United States during the past half century, and there is evidence of broad gaps in marriage entry by race and education. Although a large literature explores the influences on marriage for single cohorts, there is little research that tests explanations for this decline across multiple cohorts. The authors use individual and contextual measures of employment and incarceration to predict transitions to first marriage in the Panel Study of Income Dynamics (1969-2013). They test two prominent theories of why marriage rates have declined: the decreased availability of marriageable men and the increased economic standing of women. They find that men's reduced economic prospects and increased risk of incarceration contributed to the decline in first marriage rates during the past 45years in the United States, although these basic measures of economic and carceral conditions cannot explain the entire decline.",
+  "authors": [
+    {
+      "raw": "Schneider, Daniel",
+      "family": "Schneider",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Harknett, Kristen",
+      "family": "Harknett",
+      "given": "Kristen"
+    },
+    {
+      "raw": "Stimpson, Matthew",
+      "family": "Stimpson",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Schneider, Daniel; Harknett, Kristen; Stimpson, Matthew",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2018,
+  "doi": "10.1111/jomf.12481",
+  "doi_url": "https://doi.org/10.1111/jomf.12481",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12481",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12481.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Women's employment and fertility in a global perspective (1960-2015)",
+  "abstract": "BACKGROUND Scant research explores the association between women's employment and fertility on a truly global scale due to limited cross-national comparative standardized information across contexts. METHODS This paper compiles a unique dataset that combines nationally representative country-level data on women's wage employment from the International Labor Organization with fertility and reproductive health measures from the United Nations and additional information from UNESCO, OECD, and the World Bank. This dataset is used to explore the linear association between women's employment and fertility/reproductive health around the world between 1960 and 2015. RESULTS Women's wage employment is negatively correlated with total fertility rates and unmet need for family planning and positively correlated with modern contraceptive use in every major world region. Nonetheless, evidence suggests that these findings hold for nonagricultural employment only. CONTRIBUTION Our analysis documents the linear association between women's employment and fertility on a global scale and widens the discussion to include reproductive health outcomes as well. Better understanding of these empirical associations on a global scale is important for understanding the mechanisms behind global fertility change.",
+  "authors": [
+    {
+      "raw": "Behrman, Julia",
+      "family": "Behrman",
+      "given": "Julia"
+    },
+    {
+      "raw": "Gonalons-Pons, Pilar",
+      "family": "Gonalons-Pons",
+      "given": "Pilar"
+    }
+  ],
+  "authors_text": "Behrman, Julia; Gonalons-Pons, Pilar",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.25",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

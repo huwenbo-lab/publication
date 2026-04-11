@@ -1,0 +1,30 @@
+{
+  "title": "The European Union Statistics on Income and Living Conditions after 15 Years",
+  "abstract": "This data brief describes the European Union Statistics on Income and Living Conditions (EU-SILC). Detailed data on income and taxes are collected, as well as information on material deprivation, labour, housing, childcare, health, access to and use of services, and education. Although primarily a social policy instrument that addresses the information needs of policymakers and is used for social monitoring at the European level, EU-SILC is also closely geared to the needs of researchers and provides an excellent database for evidence-based research on a wide variety of aspects of income, income poverty, material poverty, health, and well-being in Europe. EU-SILC is composed of national probability sample surveys and is conducted annually. The target population comprises private households. Observation units are households and all current household members. EU-SILC provides cross-sectional and longitudinal data. The data are composed of a fixed core module, and annually changing ad-hoc modules. Launched in 2003 and revised with effect from 2021, EU-SILC is currently implemented in all EU Member States and in 11 non-EU countries. During the revision process, many suggestions from the research community were incorporated.",
+  "authors": [
+    {
+      "raw": "Wirth, Heike",
+      "family": "Wirth",
+      "given": "Heike"
+    },
+    {
+      "raw": "Pforr, Klaus",
+      "family": "Pforr",
+      "given": "Klaus"
+    }
+  ],
+  "authors_text": "Wirth, Heike; Pforr, Klaus",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcac024",
+  "doi_url": "https://doi.org/10.1093/esr/jcac024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

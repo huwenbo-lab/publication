@@ -1,0 +1,35 @@
+{
+  "title": "The Impact of Educational Homogamy on Isolated Illiteracy Levels",
+  "abstract": "Abstract In this article, we explore the impacts that education expansion and increased levels in educational homogamy have had on couples’ isolated illiteracy rates, defined as the proportion of illiterates in union that are married to an illiterate partner. First, we develop the methodology to decompose isolated illiteracy rates into two main components: one related to level of homogamy among illiterates, and the other related to the educational distribution of the spouses. Second, we use harmonized international census microdata from IPUMS and DHS data for 73 countries and 217 samples to investigate which of the two components is more important in shaping the level of isolated illiteracy. Our results indicate that the expansion of literacy has been more powerful than the increases in the tendency toward homogamy in its impact on isolated illiteracy rates. As the percentage of illiterates decreases over time, an increasingly large proportion of them marry literate individuals, showing that opportunities for intermarriage among illiterates expand despite the strengthening of homogamy.",
+  "authors": [
+    {
+      "raw": "Permanyer, Iñaki",
+      "family": "Permanyer",
+      "given": "Iñaki"
+    },
+    {
+      "raw": "García, Joan",
+      "family": "García",
+      "given": "Joan"
+    },
+    {
+      "raw": "Esteve, Albert",
+      "family": "Esteve",
+      "given": "Albert"
+    }
+  ],
+  "authors_text": "Permanyer, Iñaki; García, Joan; Esteve, Albert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0228-y",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0228-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0228-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0228-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

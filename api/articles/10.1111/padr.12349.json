@@ -1,0 +1,30 @@
+{
+  "title": "The Rise and Prominence of Skip-Generation Households in Lower- and Middle-Income Countries",
+  "abstract": "Investigations into changes in household formations across lower- and middle-income countries (LMICs) rarely consider skip-generation households. Yet, demographic, social, and economic forces increasingly encourage skip-generation household formations. We examinetrendsandchanges in the prevalenceof skip-generation households from 1990 to 2016, examining households, adults aged 60+, and children under 15, across 49 countries using household roster data from Demographic and Health Surveys. Analysis takes place in stages, first describing trends in skip-generation households across countries and next providing explanatory analyses using multilevel modeling to assess whether, and the degree to which, country-level characteristics like AIDS mortality and female labor force participation explain trends in the probability that a household is, or that an individual resides in, a skip-generation household. Results indicate extensive increases in skip-generation households in many LMICs, although there is also variation. The increases and variations are not well-explained by the country-level characteristics in our models, suggesting other underlying reasons for the rise and prominence of skip-generation households across LMICs.",
+  "authors": [
+    {
+      "raw": "Zimmer, Zachary",
+      "family": "Zimmer",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Treleaven, Emily",
+      "family": "Treleaven",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Zimmer, Zachary; Treleaven, Emily",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2020,
+  "doi": "10.1111/padr.12349",
+  "doi_url": "https://doi.org/10.1111/padr.12349",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12349",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12349.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

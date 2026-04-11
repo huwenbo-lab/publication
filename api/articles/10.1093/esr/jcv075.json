@@ -1,0 +1,40 @@
+{
+  "title": "Formal and Informal Social Capital in Germany: The Role of Institutions and Ethnic Diversity",
+  "abstract": "Evidence for the often-posited negative relation between ethnic diversity and various measures of social capital is burdened by difficulties measuring the levels of aggregation at which the indicators operate, the common use of cross-sectional data, and by the common omission of macro-level variables that plausibly confound the relation between ethnic diversity and social capital. To overcome these problems, this article studies social capital in Germany. Germany has a sizeable immigrant population and a considerable within-country variation in the extent to which government institutions and the labour market function. Districts also have different democratic histories. To explore to what extent social capital can be explained by ethnic diversity and institutional characteristics of districts in Germany, we combine data from the German Socioeconomic Panel, with relevant macro-level characteristics at the level of districts ('Kreise'). We use three-level multilevel regression analyses to study the 2003 data, and individual fixed effects panel regressions to study the consequences of changes between 2003 and 2008. Our findings indicate that ethnic diversity in districts has a negative effect on political participation. We find no evidence that ethnic diversity is related to other forms of social capital.",
+  "authors": [
+    {
+      "raw": "Levels, Mark",
+      "family": "Levels",
+      "given": "Mark"
+    },
+    {
+      "raw": "Scheepers, Peer",
+      "family": "Scheepers",
+      "given": "Peer"
+    },
+    {
+      "raw": "Huijts, Tim",
+      "family": "Huijts",
+      "given": "Tim"
+    },
+    {
+      "raw": "Kraaykamp, Gerbert",
+      "family": "Kraaykamp",
+      "given": "Gerbert"
+    }
+  ],
+  "authors_text": "Levels, Mark; Scheepers, Peer; Huijts, Tim; Kraaykamp, Gerbert",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcv075",
+  "doi_url": "https://doi.org/10.1093/esr/jcv075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

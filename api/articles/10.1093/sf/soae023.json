@@ -1,0 +1,30 @@
+{
+  "title": "Month of Birth and Cognitive Effort: A Laboratory Study of the Relative Age Effect among Fifth Graders",
+  "abstract": "All around the world, school-entry cohorts are organized on an annual calendar so that the age of students in the same cohort differs by up to one year. It is a well-established finding that this age gap entails a consequential (dis)advantage for academic performance referred to as the relative age effect (RAE). This study contributes to a recent strand of research that has turned to investigate the RAE on non-academic outcomes such as personality traits. An experimental setup is used to estimate the causal effect of monthly age on cognitive effort in a sample of 798 fifth-grade students enrolled in the Spanish educational system, characterized by strict enrolment rules. Participants performed three different real-effort tasks under three different incentive conditions: no rewards; material rewards; and material and status rewards. We observe that older students outwork their youngest peers by two-fifths of a standard deviation, but only when material rewards for performance are in place. Despite the previously reported higher taste for competition among the older students within a school-entry cohort, we do not find that the RAE on cognitive effort increases after inducing competition for peer recognition. Finally, the study also provides suggestive evidence of a larger RAE among boys and students from lower social strata. Implications for sociological research on educational inequality are discussed. To conclude, we outline policy recommendations such as implementing evaluation tools that nudge teachers toward being mindful of relative age differences.",
+  "authors": [
+    {
+      "raw": "Radl, Jonas",
+      "family": "Radl",
+      "given": "Jonas"
+    },
+    {
+      "raw": "Valdes, Manuel T.",
+      "family": "Valdes",
+      "given": "Manuel T."
+    }
+  ],
+  "authors_text": "Radl, Jonas; Valdes, Manuel T.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae023",
+  "doi_url": "https://doi.org/10.1093/sf/soae023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

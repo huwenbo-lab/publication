@@ -1,0 +1,30 @@
+{
+  "title": "Trends in Mortality Decrease and Economic Growth",
+  "abstract": "AbstractThe vast literature on extrapolative stochastic mortality models focuses mainly on the extrapolation of past mortality trends and summarizes the trends by one or more latent factors. However, the interpretation of these trends is typically not very clear. On the other hand, explanation methods are trying to link mortality dynamics with observable factors. This serves as an intermediate step between the two methods. We perform a comprehensive analysis on the relationship between the latent trend in mortality dynamics and the trend in economic growth represented by gross domestic product (GDP). Subsequently, the Lee-Carter framework is extended through the introduction of GDP as an additional factor next to the latent factor, which provides a better fit and better interpretable forecasts.",
+  "authors": [
+    {
+      "raw": "Niu, Geng",
+      "family": "Niu",
+      "given": "Geng"
+    },
+    {
+      "raw": "Melenberg, Bertrand",
+      "family": "Melenberg",
+      "given": "Bertrand"
+    }
+  ],
+  "authors_text": "Niu, Geng; Melenberg, Bertrand",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0328-3",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0328-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0328-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0328-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

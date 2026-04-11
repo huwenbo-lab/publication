@@ -1,0 +1,45 @@
+{
+  "title": "Timing Matters: How Social Influence Affects Adoption Pre- and Post-Product Release",
+  "abstract": "Social influence is typically studied after a product is released. Yet, audience expectations and discussions begin before a product’s release. This observation suggests a need to understand adoption processes over a product’s life cycle. To explore pre- and postrelease social influence processes, this article uses survey data from Americans exposed to word of mouth for 309 Hollywood movies released over two and a half years. The data suggest pre- and postrelease social influences operate differently. Prerelease social influence displays a critical transition point with relation to adoption: before a critical value, any level of social influence is negligibly related to adoption, but after the critical value, the relationship between social influence and adoption is large and substantive. In contrast, postrelease social influence exhibits a positive linear relationship with adoption. Prerelease social influence is argued to require more exposures than postrelease social influence because of differences in the diagnosticity and accessibility of the information. To complement the survey data, computational models are used to test alternative hypotheses. Evidence from the computational models supports the proposed model of social influence.",
+  "authors": [
+    {
+      "raw": "Soderstrom, Sara",
+      "family": "Soderstrom",
+      "given": "Sara"
+    },
+    {
+      "raw": "Uzzi, Brian",
+      "family": "Uzzi",
+      "given": "Brian"
+    },
+    {
+      "raw": "Rucker, Derek",
+      "family": "Rucker",
+      "given": "Derek"
+    },
+    {
+      "raw": "Fowler, James",
+      "family": "Fowler",
+      "given": "James"
+    },
+    {
+      "raw": "Diermeier, Daniel",
+      "family": "Diermeier",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Soderstrom, Sara; Uzzi, Brian; Rucker, Derek; Fowler, James; Diermeier, Daniel",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2016,
+  "doi": "10.15195/v3.a40",
+  "doi_url": "https://doi.org/10.15195/v3.a40",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv3.a40",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v3.a40.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

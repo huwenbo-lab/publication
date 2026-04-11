@@ -1,0 +1,25 @@
+{
+  "title": "Mortality Advantage Reversed: The Causes of Death Driving All-Cause Mortality Differentials Between Immigrants, the Descendants of Immigrants and Ancestral Natives in Sweden, 1997–2016",
+  "abstract": "AbstractA small but growing body of studies have documented the alarming mortality situation of adult descendants of migrants in a number of European countries. Nearly all of them have focused on all-cause mortality to reveal these important health inequalities. This paper takes advantage of the Swedish population registers to study all-cause and cause-specific mortality among men and women aged 15–44 in Sweden from 1997 to 2016 to a level of granularity unparalleled elsewhere. It adopts a multi-generation, multi-origin and multi-cause-of-death approach. Using extended, competing-risks survival models, it aims to show (1) how the all-cause mortality of immigrants arriving as adults (the G1), immigrants arriving as children (the G1.5) and children of immigrants born in Sweden to at least one immigrant parent (the G2) differs versus ancestral Swedes and (2) what causes-of-deaths drive these differentials. For all-cause mortality, most G1 (not Finns or Sub-Saharan Africans) have a mortality advantage. This contrasts with a near systematic reversal in the mortality of the G1.5 and G2 (notably among men), which is driven by excess accident and injury, suicide, substance use and other external cause mortality. Given that external causes-of-death are preventable and avoidable, the findings raise questions about integration processes, the levels of inequality immigrant populations are exposed to in Sweden and ultimately, whether the legacy of immigration has been positive. Strengths of the study include the use of quality data and advanced methods, the granularity of the estimates, and the provision of evidence that highlights the precarious mortality situation of the seldom-studied G1.5.",
+  "authors": [
+    {
+      "raw": "Wallace, Matthew",
+      "family": "Wallace",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Wallace, Matthew",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09637-0",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09637-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09637-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09637-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

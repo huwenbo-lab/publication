@@ -1,0 +1,35 @@
+{
+  "title": "Political regimes, income and health: Evidence from sub-national comparative method",
+  "abstract": "This paper investigates the effect of political regimes on healthcare outcomes with a novel approach. Instead of focusing on cross-country comparisons, like most studies do, we utilize the within-country variation of political regimes across individual regions. We use the case of the Russian Federation, where large sub-national differences exist in both health outcomes and political regimes in different provinces. General differences in sub-national politics in Russia have been subject of investigation of a large literature our paper adds to. The paper shows that the effect of political regimes on health is heterogeneous and depends on the type of health problems more salient for the region. More pluralist and competitive regimes are able to produce better results than the less competitive ones in rich regions, while in poor regions political pluralism and competition have an adverse impact on health.",
+  "authors": [
+    {
+      "raw": "Rosenberg, Dina",
+      "family": "Rosenberg",
+      "given": "Dina"
+    },
+    {
+      "raw": "Kozlov, Vladimir",
+      "family": "Kozlov",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Libman, Alexander",
+      "family": "Libman",
+      "given": "Alexander"
+    }
+  ],
+  "authors_text": "Rosenberg, Dina; Kozlov, Vladimir; Libman, Alexander",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.02.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.02.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.02.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.02.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The association between maternal employment and child survival in India, 1998–99 and 2005–06",
+  "abstract": "While many studies contend that a mother's economic activity may generate positive outcomes for both mother and children, empirical results from less developed countries actually indicate higher mortality rates among children of working mothers. This article examines the association between maternal employment and child survival using India's National Family Health Survey. Using propensity score matching, the study compares working with matched nonworking mothers in child's risk of death. To address the heterogeneous nature of working mothers, the employment-survival relationship is analysed across various occupational categories. A supplementary analysis examines gaps between children of working and nonworking mothers in nutritional status and low birth weight (LBW). Our results show that high risk of mortality and low nutritional status are more pronounced among children of mothers working in low-status occupations. The results indicate insignificant differences in LBW, a finding that favours the explanation that the mortality disadvantage of children of working mothers emerges primarily after birth most likely because of inadequate childcare. The article discusses these findings in relation to various potential mechanisms mediating the negative association between maternal employment and child survival.",
+  "authors": [
+    {
+      "raw": "Saabneh, Ameed",
+      "family": "Saabneh",
+      "given": "Ameed"
+    }
+  ],
+  "authors_text": "Saabneh, Ameed",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2016,
+  "doi": "10.1080/17441730.2016.1239412",
+  "doi_url": "https://doi.org/10.1080/17441730.2016.1239412",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2016.1239412",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2016.1239412.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

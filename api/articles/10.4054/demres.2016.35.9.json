@@ -1,0 +1,50 @@
+{
+  "title": "The Contextual Database of the Generations and Gender Programme: Concept, content, and research examples",
+  "abstract": "BACKGROUND Differences in demographic behaviours across countries and subnational regions have stimulated interest in studying the relationships between individual characteristics and the contexts in which individuals are embedded. Analytical approaches that include contextual indicators in statistical analyses of demographic behaviour need well-documented comparative data at the national and the subnational regional level. The Contextual Database (CDB) of the Generations and Gender Programme (GGP; http://www.ggp-i.org/data/ggp-contextual-database) supports such analyses by providing comparative data on demographic and socio-economic contexts in up to 60 countries in Europe, North America, Asia, and Oceania. OBJECTIVE This paper presents conceptual considerations and an overview of the content and the functionality of the CDB. Research examples illustrate how data from this database can increase the analytical potential of demographic analyses. CONCLUSIONS The CDB is a state-of-the-art research tool that provides well-documented comparative data at the national and the subnational regional level. Although it is conceptually linked to the Generations and Gender Survey (GGS), it can also be used to analyse data from other surveys, to study macro developments, and for teaching and lecturing. The CDB has a number of valuable features. First, it has a large number of indicators specifically geared towards demographic analyses, which provide extensive temporal and geographic coverage. Second, its dynamic web environment provides a high degree of transparency on data sources, as it offers meta-data for each individual entry. Finally, the CDB supports geocoding schemes that are used by the GGS and other surveys to denote region and country of residence.",
+  "authors": [
+    {
+      "raw": "Caporali, Arianna",
+      "family": "Caporali",
+      "given": "Arianna"
+    },
+    {
+      "raw": "Kluesener, Sebastian",
+      "family": "Kluesener",
+      "given": "Sebastian"
+    },
+    {
+      "raw": "Neyer, Gerda",
+      "family": "Neyer",
+      "given": "Gerda"
+    },
+    {
+      "raw": "Krapf, Sandra",
+      "family": "Krapf",
+      "given": "Sandra"
+    },
+    {
+      "raw": "Grigorieva, Olga",
+      "family": "Grigorieva",
+      "given": "Olga"
+    },
+    {
+      "raw": "Kostova, Dora",
+      "family": "Kostova",
+      "given": "Dora"
+    }
+  ],
+  "authors_text": "Caporali, Arianna; Kluesener, Sebastian; Neyer, Gerda; Krapf, Sandra; Grigorieva, Olga; Kostova, Dora",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.9",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

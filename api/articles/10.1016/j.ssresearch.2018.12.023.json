@@ -1,0 +1,35 @@
+{
+  "title": "Forecasting homicide in the red stick: Risk terrain modeling and the spatial influence of urban blight on lethal violence in Baton Rouge, Louisiana",
+  "abstract": "Incorporating features of the built environment, risk terrain modeling (RTM), is used to predict future criminal events in micro-units (i.e., city blocks). The current study examines the application of RTM to forecast homicide in the capital city of Baton Rouge, Louisiana while including a novel environmental risk factor, blighted properties. Based upon the extant literature and knowledge of the city, eighteen environmental risk factors are expected to spatially influence homicide. Results indicate that places most at risk of experiencing a homicide are located in areas where blighted properties are concentrated and in close proximity to convenience stores. RTM successfully identities and evaluates environmental risk factors that spatially influence lethal violence. Additionally, RTM is able to accurately forecast future acts of homicide. The results underscore how crime prevention through environmental design (CPTED) and blight remediation could be utilized as straightforward and prudent strategies to reduce lethal violence.",
+  "authors": [
+    {
+      "raw": "Valasik, Matthew",
+      "family": "Valasik",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Brault, Elizabeth E.",
+      "family": "Brault",
+      "given": "Elizabeth E."
+    },
+    {
+      "raw": "Martinez, Stephen M.",
+      "family": "Martinez",
+      "given": "Stephen M."
+    }
+  ],
+  "authors_text": "Valasik, Matthew; Brault, Elizabeth E.; Martinez, Stephen M.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.12.023",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.12.023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.12.023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.12.023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Desperate Housework",
+  "abstract": "This article investigates cross-national patterns in the gender division of housework in coresident couples. By using Generations and Gender Survey (GGS) data, we assess four key hypotheses proposed in the literature: namely, the relative resources approach (the partner who earns less does more housework), the time availability perspective (the partner who spends less time doing paid work does more housework), the economic dependency model (the partner who contributes proportionally less to the household income does more housework), and the gender ideology perspective (the beliefs on gender roles influence housework sharing in a couple), thereby verifying the presence of gender display. Our results reaffirm the significance of gender ideology, though with important differences across countries. Time availability and relative resources matter in the most egalitarian countries, whereas economic dependency matters in countries where partners contribute more unevenly to the household income.",
+  "authors": [
+    {
+      "raw": "Aassve, Arnstein",
+      "family": "Aassve",
+      "given": "Arnstein"
+    },
+    {
+      "raw": "Fuochi, Giulia",
+      "family": "Fuochi",
+      "given": "Giulia"
+    },
+    {
+      "raw": "Mencarini, Letizia",
+      "family": "Mencarini",
+      "given": "Letizia"
+    }
+  ],
+  "authors_text": "Aassve, Arnstein; Fuochi, Giulia; Mencarini, Letizia",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2014,
+  "doi": "10.1177/0192513x14522248",
+  "doi_url": "https://doi.org/10.1177/0192513x14522248",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x14522248",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x14522248.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

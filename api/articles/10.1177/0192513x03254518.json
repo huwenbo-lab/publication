@@ -1,0 +1,35 @@
+{
+  "title": "The Importance of Family Structure and Family Income on Family's Educational Expenditure and Children's College Attendance",
+  "abstract": "Using the 1991-1998 Survey of Family Income and Expenditure, we analyzed the determinants of college attendance rates and educational expenditure among families with children in Taiwan, paying particular attention to the effects of family structure and family income. The findings indicate that higher family income is consistently associated with higher college attendance rates and spending on education. Children in single-parent families have lower college attendance rates than children in two-parent families. Furthermore, single-parent families spend less on education. When family income is taken into account, single-mother families are not significantly different from two-parent families on the outcome variables. Single-father families, however, are estimated to have significantly lower college attendance rates and educational expenditure after controlling for family income. These results suggest that improving the economic security of single-parent families will increase their children's attainment in single-mother families but will not eliminate the attainment gap between children in single-father and two-parent families.",
+  "authors": [
+    {
+      "raw": "Han, Wen-Jui",
+      "family": "Han",
+      "given": "Wen-Jui"
+    },
+    {
+      "raw": "Huang, Chien-Chung",
+      "family": "Huang",
+      "given": "Chien-Chung"
+    },
+    {
+      "raw": "Garfinkel, Irwin",
+      "family": "Garfinkel",
+      "given": "Irwin"
+    }
+  ],
+  "authors_text": "Han, Wen-Jui; Huang, Chien-Chung; Garfinkel, Irwin",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2003,
+  "doi": "10.1177/0192513x03254518",
+  "doi_url": "https://doi.org/10.1177/0192513x03254518",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x03254518",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x03254518.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

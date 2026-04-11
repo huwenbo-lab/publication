@@ -1,0 +1,25 @@
+{
+  "title": "Turning protest into power: how the Women's March worked",
+  "abstract": "How does protests' size shape their electoral impact? Recent years have seen frequent, loosely coordinated public days of protest with historically unprecedented participation. Yet scholars and activists debate whether even massive protest size translates into electoral outcomes. Resolving this debate is difficult because protest participation is influenced by underlying political conditions, and thus any correlation between protest size and electoral results may be due to unobservable omitted variables. In this article, I conduct a rigorous test of the electoral impact of protest participation in a case that also allows for further insight into the mechanisms for protest's impact: the 2017 Women's March. I test the impact of the Women's March on 2018 county-level election results using detailed geo-coded data on local marches' location and participation. To address omitted variable bias, I employ an instrumental variables analysis, instrumenting march size with precipitation and temperature data. I find that the number of Women's March participants had a significant positive effect on the 2018 Democratic party vote share. To understand why, I further test the impact of instrumented march participation on two other variables: the creation of Indivisible groups and donations to Democratic politicians. This analysis shows that larger Women's Marches led to higher levels of sustained organizing and political donations. Rapidly organized, social media-based days of protest can impact elections through activating participants for future political action.",
+  "authors": [
+    {
+      "raw": "Pinckney, Jonathan",
+      "family": "Pinckney",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Pinckney, Jonathan",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf083",
+  "doi_url": "https://doi.org/10.1093/sf/soaf083",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf083",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf083.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

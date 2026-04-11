@@ -1,0 +1,25 @@
+{
+  "title": "Nonstandard Work Schedules and Marital Instability",
+  "abstract": "Based on subsample of 3,476 married couples drawn from two waves of the National Survey of Families and Household, this study examines the extent to which working evening, night, or rotating schedules and weekends affects the likelihood of marriages ending in separation or divorce within approximately 5 years. Logistic regression analysis revealed that this relationship depends on the presence of children and is specific to the type of nonstandard schedule, the gender of the spouse, and the duration of marriage. Among men with children, married less than 5 years at Wave 1, working fixed nights made separation or divorce some six times more likely relative to working days. Among women with children, married more than 5 years at Wave 1, working fixed nights increased the odds by three times, and might have had an effect during the earlier years of marriage as well (although not statistically significant). These findings are evident when controlling for the number of hours worked as well as for demographic variables, and when considering, in addition, the husband's and wife's gender ideologies and the extent to which couples spent time alone together. The question of whether spouses in troubled marriages are more likely to move into night or rotating shifts was explored, but this did not seem to be the case.",
+  "authors": [
+    {
+      "raw": "Presser, Harriet B.",
+      "family": "Presser",
+      "given": "Harriet B."
+    }
+  ],
+  "authors_text": "Presser, Harriet B.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2000,
+  "doi": "10.1111/j.1741-3737.2000.00093.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2000.00093.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2000.00093.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2000.00093.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

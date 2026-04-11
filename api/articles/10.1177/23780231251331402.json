@@ -1,0 +1,35 @@
+{
+  "title": "Tracing Income Inequality Trends in Germany from 2010 to 2022: Dynamics across Industries, Occupations, and Firms",
+  "abstract": "This data visualization illustrates trends in income inequality within and across different contexts in Germany from 2010 to 2022. The authors examine four key contexts in which income inequalities predominantly arise: (1) the national level, (2) the industry level, (3) the occupational level, and (4) the firm level. Using large-scale official data on employee incomes in Germany, the authors compute contextual income inequalities and assess the impact of part-time work by calculating inequalities on the basis of both gross monthly and gross hourly incomes. The findings reveal considerable variation in income inequality across these contexts, with inequality consistently highest at the national level and progressively lower at the industry, occupation, and firm levels. Despite these differences, overall inequality trends remained relatively stable across contexts and income measures. These results have implications for the broader sociological framework on inequality, as they suggest that in Germany, within-firm inequality is not the primary driver of macro-level income inequality. Consequently, efforts to reduce overall income inequality should extend beyond the firm level and also address income disparities at the occupational and industry levels.",
+  "authors": [
+    {
+      "raw": "Valet, Peter",
+      "family": "Valet",
+      "given": "Peter"
+    },
+    {
+      "raw": "Böger, Patricia",
+      "family": "Böger",
+      "given": "Patricia"
+    },
+    {
+      "raw": "Lübker, Jonas",
+      "family": "Lübker",
+      "given": "Jonas"
+    }
+  ],
+  "authors_text": "Valet, Peter; Böger, Patricia; Lübker, Jonas",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251331402",
+  "doi_url": "https://doi.org/10.1177/23780231251331402",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251331402",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251331402.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

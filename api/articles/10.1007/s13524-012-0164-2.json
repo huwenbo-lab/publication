@@ -1,0 +1,25 @@
+{
+  "title": "The Predictive Validity of Subjective Mortality Expectations: Evidence From the Health and Retirement Study",
+  "abstract": "Abstract Several recent studies suggest that individual subjective survival forecasts are powerful predictors of both mortality and behavior. Using 15 years of longitudinal data from the Health and Retirement Study, I present an alternative view. Across a wide range of ages, predictions of in-sample mortality rates based on subjective forecasts are substantially less accurate than predictions based on population life tables. Subjective forecasts also fail to capture fundamental properties of senescence, including increases in yearly mortality rates with age. To shed light on the mechanisms underlying these biases, I develop and estimate a latent-factor model of how individuals form subjective forecasts. The estimates of this model’s parameters imply that these forecasts incorporate several important sources of measurement error that arguably swamp the useful information they convey.",
+  "authors": [
+    {
+      "raw": "Elder, Todd E.",
+      "family": "Elder",
+      "given": "Todd E."
+    }
+  ],
+  "authors_text": "Elder, Todd E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0164-2",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0164-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0164-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0164-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

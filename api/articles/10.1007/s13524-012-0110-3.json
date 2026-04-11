@@ -1,0 +1,30 @@
+{
+  "title": "Interstate Migration Has Fallen Less Than You Think: Consequences of Hot Deck Imputation in the Current Population Survey",
+  "abstract": "Abstract We show that much of the recent reported decrease in interstate migration is a statistical artifact. Before 2006, the Census Bureau’s imputation procedure for dealing with missing data in the Current Population Survey inflated the estimated interstate migration rate. An undocumented change in the procedure corrected the problem starting in 2006, thus reducing the estimated migration rate. The change in imputation procedures explains 90% of the reported decrease in interstate migration between 2005 and 2006, and 42% of the decrease between 2000 (the recent high-water mark) and 2010. After we remove the effect of the change in procedures, we find that the annual interstate migration rate follows a smooth downward trend from 1996 to 2010. Contrary to popular belief, the 2007–2009 recession is not associated with any additional decrease in interstate migration relative to trend.",
+  "authors": [
+    {
+      "raw": "Kaplan, Greg",
+      "family": "Kaplan",
+      "given": "Greg"
+    },
+    {
+      "raw": "Schulhofer-Wohl, Sam",
+      "family": "Schulhofer-Wohl",
+      "given": "Sam"
+    }
+  ],
+  "authors_text": "Kaplan, Greg; Schulhofer-Wohl, Sam",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0110-3",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0110-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0110-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0110-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

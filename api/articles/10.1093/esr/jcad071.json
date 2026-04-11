@@ -1,0 +1,40 @@
+{
+  "title": "Heterogeneity in parental time with children: trends by gender and education between 1961 and 2012 across 20 countries",
+  "abstract": "This article investigates the level and dynamics of heterogeneity in parental childcare time using data from the Multinational Time Use Study across 20 countries over five decades. Applying the Gini coefficient as the main summary measure of the dispersion in the distribution at the country level, we show that heterogeneity in paternal time has been higher than that in maternal time throughout the last half-century. The gap has narrowed over the last decade, mainly due to a reduction in paternal time heterogeneity. This pattern is observed not only across countries over time but also within those countries for which we have repeated observations. We also show relevant socio-economic variations. Heterogeneity among low-educated mothers started to be systematically above that of high-educated mothers in the 1970s. In the group of fathers, heterogeneity has always been higher for the low-educated and it has been on the rise in the last decade. Results of a counterfactual analysis suggest that the main driver of the trends in paternal timne heterogeneity is the reduction in the share of fathers who do not provide any childcare, especially among the low-educated.",
+  "authors": [
+    {
+      "raw": "Balbo, Nicoletta",
+      "family": "Balbo",
+      "given": "Nicoletta"
+    },
+    {
+      "raw": "Casarico, Alessandra",
+      "family": "Casarico",
+      "given": "Alessandra"
+    },
+    {
+      "raw": "Sommacal, Alessandro",
+      "family": "Sommacal",
+      "given": "Alessandro"
+    },
+    {
+      "raw": "Altintas, Evrim",
+      "family": "Altintas",
+      "given": "Evrim"
+    }
+  ],
+  "authors_text": "Balbo, Nicoletta; Casarico, Alessandra; Sommacal, Alessandro; Altintas, Evrim",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad071",
+  "doi_url": "https://doi.org/10.1093/esr/jcad071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

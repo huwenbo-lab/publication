@@ -1,0 +1,35 @@
+{
+  "title": "Employment Patterns of Less-Skilled Workers: Links to Children’s Behavior and Academic Progress",
+  "abstract": "Abstract Using data from five waves of the Women’s Employment Survey (WES; 1997–2003), we examine the links between low-income mothers’ employment patterns and the emotional behavior and academic progress of their children. We find robust and substantively important linkages between several different dimensions of mothers’ employment experiences and child outcomes. The pattern of results is similar across empirical approaches—including ordinary least squares and child fixed-effect models, with and without an extensive set of controls. Children exhibit fewer behavior problems when mothers work and experience job stability (relative to children whose mothers do not work). In contrast, maternal work accompanied by job instability is associated with significantly higher child behavior problems (relative to employment in a stable job). Children whose mothers work full-time and/or have fluctuating work schedules also exhibit significantly higher levels of behavior problems. However, full-time work has negative consequences for children only when it is in jobs that do not require cognitive skills. Such negative consequences are completely offset when this work experience is in jobs that require the cognitive skills that lead to higher wage growth prospects. Finally, fluctuating work schedules and full-time work in non-cognitively demanding jobs are each strongly associated with the probability that the child will repeat a grade or be placed in special education.",
+  "authors": [
+    {
+      "raw": "Johnson, Rucker C.",
+      "family": "Johnson",
+      "given": "Rucker C."
+    },
+    {
+      "raw": "Kalil, Ariel",
+      "family": "Kalil",
+      "given": "Ariel"
+    },
+    {
+      "raw": "Dunifon, Rachel E.",
+      "family": "Dunifon",
+      "given": "Rachel E."
+    }
+  ],
+  "authors_text": "Johnson, Rucker C.; Kalil, Ariel; Dunifon, Rachel E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-011-0086-4",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0086-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0086-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0086-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

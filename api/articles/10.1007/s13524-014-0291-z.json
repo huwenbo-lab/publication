@@ -1,0 +1,30 @@
+{
+  "title": "Positive, Negative, or Null? The Effects of Maternal Incarceration on Children’s Behavioral Problems",
+  "abstract": "AbstractWe use data from the Fragile Families and Child Wellbeing Study to consider the effects of maternal incarceration on 21 caregiver- and teacher-reported behavioral problems among 9-year-old children. The results suggest three primary conclusions. First, children of incarcerated mothers are a disadvantaged group that exhibit high levels of caregiver- and teacher-reported behavioral problems. Second, after we adjust for selection, the effects of maternal incarceration on children’s behavioral problems are consistently null (for 19 of 21 outcomes) and rarely positive (1 of 21) or negative (1 of 21), suggesting that the poor outcomes of these children are driven by disadvantages preceding maternal incarceration rather than incarceration. These effects, however, vary across race/ethnicity, with maternal incarceration diminishing caregiver-reported behavioral problems among non-Hispanic whites. Finally, in models considering both maternal and paternal incarceration, paternal incarceration is associated with more behavioral problems, which is consistent with previous research and suggests that the null effects of maternal incarceration are not artifacts of our sample or analytic decisions.",
+  "authors": [
+    {
+      "raw": "Wildeman, Christopher",
+      "family": "Wildeman",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Turney, Kristin",
+      "family": "Turney",
+      "given": "Kristin"
+    }
+  ],
+  "authors_text": "Wildeman, Christopher; Turney, Kristin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0291-z",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0291-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0291-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0291-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

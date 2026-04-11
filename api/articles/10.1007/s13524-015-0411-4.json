@@ -1,0 +1,25 @@
+{
+  "title": "Childhood Risk of Parental Absence in Tanzania",
+  "abstract": "Although parents might not live with their children for a variety of reasons, existing accounts of parental absence often examine one cause in isolation. Using detailed longitudinal demographic surveillance data from Rufiji, Tanzania, this article examines parental absence due to death, migration, child relocation, union dissolution, and union formation from 2001-2011. Employing survival analysis, the article quantifies children's risk of absence by cause and investigates sociodemographic variation in this risk. Of children born into two-parent households, 25 % experience maternal absence by age 10, and 40 % experience paternal absence by the same age. Roughly one-quarter of children are born into single-mother families with an absent father at birth, and nearly 70 % of these children experience maternal absence as well by age 10. Despite the emphasis on orphanhood in the research and policy communities, parental death is the least common cause of absence. Furthermore, although demographic and socioeconomic characteristics are strong predictors of absence, variation in these relationships across causes underscores the distinctiveness and similarity of different reasons for absence.",
+  "authors": [
+    {
+      "raw": "Gaydosh, Lauren",
+      "family": "Gaydosh",
+      "given": "Lauren"
+    }
+  ],
+  "authors_text": "Gaydosh, Lauren",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0411-4",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0411-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0411-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0411-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

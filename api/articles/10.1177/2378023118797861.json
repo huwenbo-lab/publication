@@ -1,0 +1,30 @@
+{
+  "title": "Neighborhood Structure, Community Social Organization, and Residential Mobility",
+  "abstract": "This article expands on classic models of residential mobility by investigating how neighborhood features influence mobility thoughts and actual mobility, with a particular focus on the role of neighborhood disorder and several indicators of community social organization. Using longitudinal data from the Los Angeles Family and Neighborhood Survey, the authors find that actual mobility is more susceptible to neighborhood structural conditions than are mobility thoughts. Specifically, neighborhood physical disorder and residential turnover affect the likelihood of moving, and disorder operates through the extent that residents are socially isolated and fearful in their neighborhoods. Mobility thoughts are directly affected by resident perceptions of social cohesion, but a lack of local kinship ties and social engagement within the neighborhood increases the chances of moving. For both mobility outcomes, being satisfied with one’s neighborhood is a strong deterrent to thinking about moving as well as relocating to a new neighborhood.",
+  "authors": [
+    {
+      "raw": "Sharp, Gregory",
+      "family": "Sharp",
+      "given": "Gregory"
+    },
+    {
+      "raw": "Warner, Cody",
+      "family": "Warner",
+      "given": "Cody"
+    }
+  ],
+  "authors_text": "Sharp, Gregory; Warner, Cody",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118797861",
+  "doi_url": "https://doi.org/10.1177/2378023118797861",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118797861",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118797861.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

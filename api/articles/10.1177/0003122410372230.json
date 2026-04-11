@@ -1,0 +1,30 @@
+{
+  "title": "The Global Rise of Democracy: A Network Account",
+  "abstract": "We examine the influence of an interstate network created by intergovernmental organizations (IGOs) on the global diffusion of democracy. We propose that IGOs facilitate democracy's diffusion by transmitting information between member states and by interpreting that information according to prevailing norms in the world society, where democracy is viewed as the legitimate form of government. We employ a network autocorrelation model to track changes in democracy among all of the world's countries from 1815 to 2000. We find that democracy does diffuse through the IGO network and that the influence of democratic countries is stronger than that of undemocratic countries. Evidence indicates that the IGO network serves as a basis for normative diffusion. This is an important contribution to sociological accounts of globalization, which tend to emphasize diffusion divorced from network structure or diffusion dependent on the coercive influence of a small set of international organizations.",
+  "authors": [
+    {
+      "raw": "Torfason, Magnus Thor",
+      "family": "Torfason",
+      "given": "Magnus Thor"
+    },
+    {
+      "raw": "Ingram, Paul",
+      "family": "Ingram",
+      "given": "Paul"
+    }
+  ],
+  "authors_text": "Torfason, Magnus Thor; Ingram, Paul",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122410372230",
+  "doi_url": "https://doi.org/10.1177/0003122410372230",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410372230",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410372230.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

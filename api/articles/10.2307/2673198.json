@@ -1,0 +1,30 @@
+{
+  "title": "The distribution of dropout and turnover rates among urban and suburban high schools",
+  "abstract": "Although school dropout remains an important policy issue and has generated considerable research, little of this research has examined dropout as a measure of school performance. Even less attention has been paid to student turnover, another, related measure of how well schools are keeping students enrolled. This study examined the distributions of both dropout and turnover rates among a large sample of U.S. high schools and tested a series of models to explain these differences, using data from the NELS High School Effectiveness Study and nonlinear multilevel modeling. The results revealed substantial variability in school dropout and turnover rates among the high schools. Moreover, consistent with other work in this area, much of the variation in school dropout and turnover rates could be attributed to differences in the background characteristics of the students. Yet student composition, school resources, and school processes-factors hat policy makers and educators control-also influenced dropout and turnover rates.",
+  "authors": [
+    {
+      "raw": "Rumberger, RW",
+      "family": "Rumberger",
+      "given": "RW"
+    },
+    {
+      "raw": "Thomas, SL",
+      "family": "Thomas",
+      "given": "SL"
+    }
+  ],
+  "authors_text": "Rumberger, RW; Thomas, SL",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2000,
+  "doi": "10.2307/2673198",
+  "doi_url": "https://doi.org/10.2307/2673198",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2673198",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2673198.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

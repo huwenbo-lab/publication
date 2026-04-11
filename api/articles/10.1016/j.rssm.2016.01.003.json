@@ -1,0 +1,35 @@
+{
+  "title": "Parental education, class and income over early life course and children's achievement",
+  "abstract": "Very few studies on intergenerational achievement consider the high correlation between separate measures of parental socioeconomic position and possible life course variation in their significance for children. We analyse how socioeconomic characteristics of mothers and fathers over children's life course explain children's occupational outcomes in adulthood. Using Finnish register data, we matched the occupational position (ISEI) of 29,282 children with information on parents' education, occupational class and income when children are 0-4, 5-9, 10-14, 15-19, 20-24 and 25-29 years old. We fitted three-level random effects linear regression models and decompose family-level variance of siblings' ISEI by each measure of parental status. We show that parental education explains family variation in siblings' occupation most and income explains it least. Status characteristics of fathers together explain approximately half of children's outcomes, and those of mothers explain slightly less. These explanations vary only a little during children's life course. We also find that independent, non-overlapping effects of observed parental indicators vary over time. Mothers' education explains independently most in infancy, whereas that of fathers in early adulthood. The influence of class alone is minor and time constant, but the effect of income alone is negligible over the entire follow-up. The independent effects are overall relatively small. The largest proportion of children's outcomes explained by these parental measures is shared and cannot be decomposed into independent effects. We conclude that bias due to ignoring life course variation in studies on intergenerational attainment is likely to be small. (C) 2016 The Authors. Published by Elsevier Ltd.",
+  "authors": [
+    {
+      "raw": "Erola, Jani",
+      "family": "Erola",
+      "given": "Jani"
+    },
+    {
+      "raw": "Jalonen, Sanni",
+      "family": "Jalonen",
+      "given": "Sanni"
+    },
+    {
+      "raw": "Lehti, Hannu",
+      "family": "Lehti",
+      "given": "Hannu"
+    }
+  ],
+  "authors_text": "Erola, Jani; Jalonen, Sanni; Lehti, Hannu",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2016,
+  "doi": "10.1016/j.rssm.2016.01.003",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2016.01.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2016.01.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2016.01.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

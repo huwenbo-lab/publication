@@ -1,0 +1,50 @@
+{
+  "title": "Relationship Factors in the Longitudinal Spillover of Stress Between Parents and Children During COVID-19",
+  "abstract": "This study took a family systems perspective and tested spillover theory to examine the transmission of stress from parents to children during COVID-19. Using a longitudinal design with a 1-year interval, we tested the association between parent perceived stress and perceived child stress, and the sequential mediating effects of poor family functioning and parent-child closeness. The data comprised 134 parents residing in the US who were assessed from the initial first peak of COVID-19 infections in 2020 to 2021, 1 year later. Results indicated that when controlling for covariates, there was a significant association between parent perceived stress and perceived child stress. What is more, poor family functioning and parent-child closeness fully mediated the former link in sequence. These findings highlighted the need for improving family relationship quality when providing interventions that target families suffering in stressful contexts.",
+  "authors": [
+    {
+      "raw": "Hu, Yuyang",
+      "family": "Hu",
+      "given": "Yuyang"
+    },
+    {
+      "raw": "Russell, Beth S.",
+      "family": "Russell",
+      "given": "Beth S."
+    },
+    {
+      "raw": "Wu, Rui",
+      "family": "Wu",
+      "given": "Rui"
+    },
+    {
+      "raw": "Adamsons, Kari",
+      "family": "Adamsons",
+      "given": "Kari"
+    },
+    {
+      "raw": "Horton, Abagail L.",
+      "family": "Horton",
+      "given": "Abagail L."
+    },
+    {
+      "raw": "Tambling, Rachel R.",
+      "family": "Tambling",
+      "given": "Rachel R."
+    }
+  ],
+  "authors_text": "Hu, Yuyang; Russell, Beth S.; Wu, Rui; Adamsons, Kari; Horton, Abagail L.; Tambling, Rachel R.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2024,
+  "doi": "10.1177/0192513x241236559",
+  "doi_url": "https://doi.org/10.1177/0192513x241236559",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x241236559",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x241236559.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

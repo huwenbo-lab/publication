@@ -1,0 +1,30 @@
+{
+  "title": "Gender-oriented statistical discrimination theory: Empirical evidence from the Hong Kong labor market",
+  "abstract": "This paper proposes a simple search model to shed light on the role of aggregate fertility as a form of statistical discrimination against young working women in the labor market. Our proposed theory assumes that workers generate identical production value that does not differ by gender. When matched with a firm, the worker and the firm bargain over wage rates. Since female pregnant workers receive wages during maternity leave and generate no production value, a matched pair with a female worker generates lower expected profit to the firm. Rent-sharing ensures a male worker to be paid more than a female worker even with the absence of overt discrimination, thus resulting in statistical discrimination against female workers. Using the 5% random subsamples of census and by-census data in Hong Kong in 1996, 2001, and 2006, the study provides unequivocal evidence that age-specific fertility rates exert negative impact on female wages, after controlling for other observable characteristics. More importantly, the negative effects of fertility on women's earnings are notably greater in female dominated occupations, whereas similarly situated men are unaffected. Since fertility rates tend to be increasing with age during the early stage of women's work careers, our theory partially explains why the gender gap rises with age. (C) 2014 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Yip, Chi Man",
+      "family": "Yip",
+      "given": "Chi Man"
+    },
+    {
+      "raw": "Wong, Raymond Sin-Kwok",
+      "family": "Wong",
+      "given": "Raymond Sin-Kwok"
+    }
+  ],
+  "authors_text": "Yip, Chi Man; Wong, Raymond Sin-Kwok",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2014,
+  "doi": "10.1016/j.rssm.2013.11.004",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2013.11.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2013.11.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2013.11.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

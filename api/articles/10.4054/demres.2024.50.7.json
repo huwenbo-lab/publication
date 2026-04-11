@@ -1,0 +1,30 @@
+{
+  "title": "Immigrant mortality advantage in the United States during the first year of the COVID-19 pandemic",
+  "abstract": "OBJECTIVES To investigate the mortality impact of the COVID-19 pandemic on US-born and foreign-born populations by race and Hispanic origin in the United States in 2020. METHODS Death records from the National Center for Health Statistics and population data from CDC WONDER were used to estimate (1) age-standardized all-cause and cause-specific mortality at ages 25+, 25-64, and 65+ in 2017-2019 and 2020 by nativity, race, Hispanic origin, and sex; (2) changes in mortality between these two periods; and (3) the cause-specific contributions to these changes. RESULTS Mortality increased in 2020 relative to 2017-2019 for all racial and Hispanic-origin groups. Adjusting for age, mortality increases were larger at ages 25+ among foreign-born males (390 deaths for 100,000 residents) and females (189) than among US-born males (223) and females (144). The large mortality rise among foreign-born Hispanic men (593) contributed to the narrowing of their mortality advantage relative to White men, from 426 to 134. An increase in mortality among both foreign-born and US-born Black males and females increased the Black-White mortality disparities by 318 for males and by 180 for females. Although COVID-19 mortality was the main driver of the increase among foreign-born residents, circulatory diseases and malignant neoplasms also contributed. CONTRIBUTION We show that the COVID-19 pandemic had a greater impact on foreign-born populations than on their US-born counterparts. These findings highlight the need to address the underlying inequalities and unique challenges faced by foreign-born populations.",
+  "authors": [
+    {
+      "raw": "Paglino, Eugenio",
+      "family": "Paglino",
+      "given": "Eugenio"
+    },
+    {
+      "raw": "Elo, Irma T.",
+      "family": "Elo",
+      "given": "Irma T."
+    }
+  ],
+  "authors_text": "Paglino, Eugenio; Elo, Irma T.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.7",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

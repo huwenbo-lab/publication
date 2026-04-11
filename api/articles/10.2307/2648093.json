@@ -1,0 +1,25 @@
+{
+  "title": "The residency decision of elderly indonesians: A nested logit analysis",
+  "abstract": "Abstract This paper is the first study of which the author is aware that examines elderly Indonesians’ residency decisions. The 1993 Indonesian Family Life Survey provides detailed data on the living children of a sample of elderly individuals. This allows a nested logit to be estimated, which pays due respect to the role of children’s characteristics in determining the residency outcome. The estimated earnings potentials of the parents and their children are included as explanatory variables but are not found to be important determinants of coresidency.",
+  "authors": [
+    {
+      "raw": "Cameron, Lisa",
+      "family": "Cameron",
+      "given": "Lisa"
+    }
+  ],
+  "authors_text": "Cameron, Lisa",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648093",
+  "doi_url": "https://doi.org/10.2307/2648093",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648093",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648093.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

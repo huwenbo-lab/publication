@@ -1,0 +1,50 @@
+{
+  "title": "Social Class and Digital Divide: Analyzing Digital Inequalities on Census and Digital Behavioral Data",
+  "abstract": "The authors analyze the relationship between social class and the various levels of digital inequality, such as Internet access, inequality in digital skills, and online behavior. Two unique databases from Hungary are used. First, digital activity and digital skills are studied on a 10 percent random sample from the 2022 Hungarian census. Second, to analyze online behavior, a donation-based digital behavioral dataset is used, which is linked with a representative survey of the Hungarian Internet user population. There has been a notable decline in research activity regarding the first level of the digital divide, but these results indicate that the access level of the digital divide persists in Hungary, particularly among unskilled workers. In addition to the anticipated finding that individuals belonging to higher social classes are more likely to engage in digital activities and possess advanced digital skills, the analyses revealed that social class also influences social media use. Although a considerable proportion of the unskilled workforce lacks Internet access, those who are connected demonstrate the highest levels of digital engagement, posting the most often and spending the most time on Facebook. However, on average, the upper classes write longer posts and comments.",
+  "authors": [
+    {
+      "raw": "Számel, Kata",
+      "family": "Számel",
+      "given": "Kata"
+    },
+    {
+      "raw": "Huszár, Ákos",
+      "family": "Huszár",
+      "given": "Ákos"
+    },
+    {
+      "raw": "Horváth, Michelle",
+      "family": "Horváth",
+      "given": "Michelle"
+    },
+    {
+      "raw": "Rudas, Szilvia",
+      "family": "Rudas",
+      "given": "Szilvia"
+    },
+    {
+      "raw": "Rakovics, Zsófia",
+      "family": "Rakovics",
+      "given": "Zsófia"
+    },
+    {
+      "raw": "Koltai, Júlia",
+      "family": "Koltai",
+      "given": "Júlia"
+    }
+  ],
+  "authors_text": "Számel, Kata; Huszár, Ákos; Horváth, Michelle; Rudas, Szilvia; Rakovics, Zsófia; Koltai, Júlia",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251357646",
+  "doi_url": "https://doi.org/10.1177/23780231251357646",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251357646",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251357646.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

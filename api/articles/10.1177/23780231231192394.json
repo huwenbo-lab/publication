@@ -1,0 +1,30 @@
+{
+  "title": "How (Not) to Use Risk Ratios in Sociological Research",
+  "abstract": "A small but growing literature uses the risk ratio as an association or effect measure. Unlike odds ratios, risk ratios are unaffected by rescaling or noncollapsibility bias and are straightforward to interpret. However, the risk ratio has one unattractive property that researchers need to be aware of: it is not symmetric with respect to the outcome definition. The ratio between two groups’ probability of success does not equal the inverse of the ratio between the two groups’ probability of failure. Choosing the category of a binary outcome to use as the “success” category can significantly affect substantive conclusions, particularly in research comparing risk ratios with highly different base rates of the “success” outcome. The authors give examples from discrimination and social mobility studies that illustrate this point and present rules of thumb for the use of the risk ratio depending on the base rate of the outcome.",
+  "authors": [
+    {
+      "raw": "Karlson, Kristian Bernt",
+      "family": "Karlson",
+      "given": "Kristian Bernt"
+    },
+    {
+      "raw": "Quillian, Lincoln",
+      "family": "Quillian",
+      "given": "Lincoln"
+    }
+  ],
+  "authors_text": "Karlson, Kristian Bernt; Quillian, Lincoln",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231192394",
+  "doi_url": "https://doi.org/10.1177/23780231231192394",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231192394",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231192394.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

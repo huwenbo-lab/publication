@@ -1,0 +1,30 @@
+{
+  "title": "Measuring Residential Segregation With the ACS: How the Margin of Error Affects the Dissimilarity Index",
+  "abstract": "The American Community Survey (ACS) provides valuable, timely population estimates but with increased levels of sampling error. Although the margin of error is included with aggregate estimates, it has not been incorporated into segregation indexes. With the increasing levels of diversity in small and large places throughout the United States comes a need to track accurately and study changes in racial and ethnic segregation between censuses. The 2005-2009 ACS is used to calculate three dissimilarity indexes (D) for all core-based statistical areas (CBSAs) in the United States. We introduce a simulation method for computing segregation indexes and examine them with particular regard to the size of the CBSAs. Additionally, a subset of CBSAs is used to explore how ACS indexes differ from those computed using the 2000 and 2010 censuses. Findings suggest that the precision and accuracy of D from the ACS is influenced by a number of factors, including the number of tracts and minority population size. For smaller areas, point estimates systematically overstate actual levels of segregation, and large confidence intervals lead to limited statistical power.",
+  "authors": [
+    {
+      "raw": "Napierala, Jeffrey",
+      "family": "Napierala",
+      "given": "Jeffrey"
+    },
+    {
+      "raw": "Denton, Nancy",
+      "family": "Denton",
+      "given": "Nancy"
+    }
+  ],
+  "authors_text": "Napierala, Jeffrey; Denton, Nancy",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-016-0545-z",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0545-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0545-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0545-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

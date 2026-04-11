@@ -1,0 +1,30 @@
+{
+  "title": "Dividing and Ruling the World? A Statistical Test of the Effects of Colonialism on Postcolonial Civil Violence",
+  "abstract": "To test claims that postcolonial civil violence is a common legacy of colonialism, we create a dataset on the colonial heritage of 160 countries and explore whether a history of colonialism is related to indicators of inter-communal conflict, political rebellion and civil war in the years 1960–1999. The analysis provides evidence against sweeping claims that colonialism is a universal cause of civil violence but finds that some forms of colonialism increase the risk of some forms of civil violence. Specifically, the findings support claims that inter-communal violence is a common legacy of colonialism—especially of British colonialism and colonialism by minor colonial powers—but suggest that a history of colonialism has only a limited impact on political rebellion and civil war.",
+  "authors": [
+    {
+      "raw": "Lange, M.",
+      "family": "Lange",
+      "given": "M."
+    },
+    {
+      "raw": "Dawson, A.",
+      "family": "Dawson",
+      "given": "A."
+    }
+  ],
+  "authors_text": "Lange, M.; Dawson, A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0255",
+  "doi_url": "https://doi.org/10.1353/sof.0.0255",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0255",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0255.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

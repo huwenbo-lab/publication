@@ -1,0 +1,35 @@
+{
+  "title": "Scholarly culture: How books in adolescence enhance adult literacy, numeracy and technology skills in 31 societies",
+  "abstract": "A growing body of evidence supports the contention of scholarly culture theory that immersing children in book-oriented environments benefits their later educational achievement, attainment and occupational standing. These findings have been interpreted as suggesting that book-oriented socialization, indicated by home library size, equips youth with life-long tastes, skills and knowledge. However, to date, this has not been directly assessed. Here, we document advantageous effects of scholarly culture for adult literacy, adult numeracy, and adult technological problem solving. Growing up with home libraries boosts adult skills in these areas beyond the benefits accrued from parental education or own educational or occupational attainment. The effects are loglinear, with greatest returns to the growth in smaller libraries. Our evidence comes from regressions with balanced repeated replicate weights estimated on data from 31 societies which participated in the Programme for the International Assessment of Adult Competencies (PIAAC) between 2011 and 2015.",
+  "authors": [
+    {
+      "raw": "Sikora, Joanna",
+      "family": "Sikora",
+      "given": "Joanna"
+    },
+    {
+      "raw": "Evans, M. D. R.",
+      "family": "Evans",
+      "given": "M. D. R."
+    },
+    {
+      "raw": "Kelley, Jonathan",
+      "family": "Kelley",
+      "given": "Jonathan"
+    }
+  ],
+  "authors_text": "Sikora, Joanna; Evans, M. D. R.; Kelley, Jonathan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.10.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.10.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.10.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.10.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Does age-adjusted measurement of contraceptive use better explain the relationship between fertility and contraception?",
+  "abstract": "BACKGROUND The typical contraceptive-fertility relationship has not held in some countries witnessing rapid increases in contraceptive uptake. With increasingly more diverse population age structures among developing countries, one explanation may be the different measurement approaches of total fertility rate (TFR), an age-adjusted measure, and contraceptive prevalence rate (CPR), an unadjusted measure. OBJECTIVE To examine whether the association between contraception and fertility has changed over time in less developed settings and whether the relationship is better explained with an age-adjusted measure of contraceptive use. METHODS Using data from 259 Demographic and Health Surveys, we examine associations between CPR and TFR in two 15-year periods. We then develop age-adjusted CPR and explore the relationship between TFR and unadjusted versus age-adjusted CPR, using linear regression analyses with country-level fixed effects. RESULTS A TFR decrease of 1 was associated with a CPR increase of 15.4 percentage points during 1985-2000 and of 17.2 percentage points during 2001-2016. On average, across 259 surveys, age-adjusted CPR was higher than unadjusted CPR by about 3% with significant regional variation. Regression model fit reveals that age-adjusted CPR better explains the CPR-TFR relationship. CONTRIBUTION Age-adjusted CPR addresses varying age structures and age patterns of contraceptive use across populations, facilitating cross-country and cross-temporal comparisons of contraceptive use. Updated demographic shorthand for the CPR-TFR relationship is that a TFR decrease of 1 is associated with a CPR increase of 17 percentage points overall and a 20 percentage point increase in sub-Saharan Africa.",
+  "authors": [
+    {
+      "raw": "Choi, Yoonjoung",
+      "family": "Choi",
+      "given": "Yoonjoung"
+    },
+    {
+      "raw": "Fabic, Madeleine Short",
+      "family": "Fabic",
+      "given": "Madeleine Short"
+    },
+    {
+      "raw": "Adetunji, Jacob",
+      "family": "Adetunji",
+      "given": "Jacob"
+    }
+  ],
+  "authors_text": "Choi, Yoonjoung; Fabic, Madeleine Short; Adetunji, Jacob",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.45",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.45",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.45",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.45.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

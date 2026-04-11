@@ -1,0 +1,30 @@
+{
+  "title": "Coronavirus and care: How the coronavirus crisis affected fathers' involvement in Germany",
+  "abstract": "BACKGROUND Some have hypothesized that the coronavirus crisis may result in a retraditionalization of behaviour. This paper examines this hypothesis by analyzing how the time fathers and mothers spent with their children changed during the first lockdown in the case of Germany. METHODS Data for this investigation come from the German Socio-Economic Panel. The outcome variable is the time spent on childcare tasks. We investigate how this time changed between 2019 and spring 2020 and how these patterns differed by gender, education, and employment situation. As a method, we employ linear panel regressions where the dependent variable is the change in childcare time between the two survey years. RESULTS We find that fathers and mothers expanded the time they spent on childcare to similar degrees between 2019 and spring 2020, which marks the period of the first lockdown. However, we also observe large differences by level of education. We find that men with low and medium levels of education spent more time with their children than they did before the onset of the crisis. CONTRIBUTION Our study provides novel evidence on the effect of the coronavirus crisis on fathers' involvement in childcare. Contrary to expectations based on previous research, we find that fathers expanded the time they were spending with their children during the first lockdown. While we also find that women continue to perform the bulk of childcare tasks, our results cast a positive light on the potential of paternal involvement in contemporary societies.",
+  "authors": [
+    {
+      "raw": "Kreyenfeld, Michaela",
+      "family": "Kreyenfeld",
+      "given": "Michaela"
+    },
+    {
+      "raw": "Zinn, Sabine",
+      "family": "Zinn",
+      "given": "Sabine"
+    }
+  ],
+  "authors_text": "Kreyenfeld, Michaela; Zinn, Sabine",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.4",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

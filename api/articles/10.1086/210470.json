@@ -1,0 +1,25 @@
+{
+  "title": "Multinomial logit latent-class regression models: An analysis of the predictors of gender-role attitudes among Japanese women",
+  "abstract": "This article describes the method and application of multinomial logit latent-class regression models in sociological research. This group of models is the categorical analogue of latent-variable regression for continuous latent variables such as those employed in LISREL or LISCOMP; therefore, though never yet employed in sociological research, the potential usefulness of these models in such research is very high. These models are regression extensions of loglinear latent-class models with group variables. An application focuses on predictors of three latent classes of gender-role attitudes among Japanese women. These classes are labeled traditional gender-role supporters, prowork gender-equality supporters, and antiwork gender-equality supporters. The analysis illustrates the usefulness of the method by identifying the characteristics of each class compared with the others. Other possible applications of the models are also discussed.",
+  "authors": [
+    {
+      "raw": "Yamaguchi, K",
+      "family": "Yamaguchi",
+      "given": "K"
+    }
+  ],
+  "authors_text": "Yamaguchi, K",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2000,
+  "doi": "10.1086/210470",
+  "doi_url": "https://doi.org/10.1086/210470",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F210470",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/210470.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Poverty and Social Rights Among the Working Age Population in Post-Industrial Democracies",
+  "abstract": "This article explores the determinants of relative market income poverty and poverty reduction among the working age population in 22 advanced industrial democracies. The article revisits Moller et al. (2003) but goes beyond the earlier study in four major ways. First, we are able to measure welfare state effort with social rights rather than expenditure. This allows us to separate the effect of policy from need, which jointly shape expenditure. Second, we bring the analysis up to date, covering some 10-15 more years, which allows us to compare our findings to those of the earlier study and to compare the periods before and after 2000. Specifically, we discuss the declining effectiveness of the welfare state in reducing poverty and the declining importance of partisan incumbency. Third, we pool data from three sources, the Luxembourg Income Study (LIS), the Organization for Economic Cooperation and Development (OECD), and Eurostat Statistics on Income and Living Conditions (SILC), to almost triple the number of observations for analysis compared to past analyses. Fourth, we use newer estimation techniques that deal better with serial correlation. We show that the primary determinants of market income poverty are volume of work as a result of economic and demographic factors, as well as remuneration of work at the bottom of the income distribution driven by labor market institutions. We then show that the main determinants of poverty reduction are social rights; controlling for social rights, need variables are important for explaining poverty reduction as well.",
+  "authors": [
+    {
+      "raw": "Alper, Kaitlin",
+      "family": "Alper",
+      "given": "Kaitlin"
+    },
+    {
+      "raw": "Huber, Evelyne",
+      "family": "Huber",
+      "given": "Evelyne"
+    },
+    {
+      "raw": "Stephens, John D.",
+      "family": "Stephens",
+      "given": "John D."
+    }
+  ],
+  "authors_text": "Alper, Kaitlin; Huber, Evelyne; Stephens, John D.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa073",
+  "doi_url": "https://doi.org/10.1093/sf/soaa073",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa073",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa073.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

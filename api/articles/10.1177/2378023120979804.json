@@ -1,0 +1,30 @@
+{
+  "title": "A Growing Educational Divide in the COVID-19 Economy Is Especially Pronounced among Parents",
+  "abstract": "Economic disruption related to coronavirus disease 2019 (COVID-19) continued through the summer of 2020, affecting the lives of millions of Americans. In this visualization, the authors use recent data from the Current Population Survey to examine Americans’ cumulative risk for labor force detachment during the pandemic. The individuals in the analysis were interviewed eight times: in April, May, June, and July of 2019 and 2020. The authors document respondents’ employment experiences during the 2020 pandemic, using the 2019 data points as a baseline for comparison. Increasing detachment from the labor force varies by basic demographic characteristics (gender and parental status), but a more important divide in the COVID-19 economy is education, an already fundamental determinant of Americans’ life chances. The educational divide is especially pronounced among parents, with important repercussions for inequalities among children.",
+  "authors": [
+    {
+      "raw": "Kesler, Christel",
+      "family": "Kesler",
+      "given": "Christel"
+    },
+    {
+      "raw": "Bash, Sarah",
+      "family": "Bash",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Kesler, Christel; Bash, Sarah",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/2378023120979804",
+  "doi_url": "https://doi.org/10.1177/2378023120979804",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120979804",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120979804.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

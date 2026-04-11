@@ -1,0 +1,30 @@
+{
+  "title": "Parental union dissolution and the gender revolution",
+  "abstract": "This study investigates two concurrent trends across Europe and North America: the increasing instability of parental unions and men's rising contributions to household work. Because children have almost universally resided with their mothers and it is difficult for non-residential fathers to maintain any levels of care work, union dissolutions have potentially slowed societal increases in gender equality. A new family form-50/50 living arrangements-has begun to challenge our understanding of the consequences of union dissolution. Since 50/50 residence requires fathers to take full care responsibility for the child half of the time-something few partnered fathers do-it may even push parents into a more egalitarian division of care work. We have studied care work using Swedish administrative data on parents' leave from work to care for a sick child. We have created a panel of leave-sharing for children aged 2-11, and use an event-study design to estimate the causal effect of dissolution on the sharing of sick-child leave. The results show that in parental unions dissolving today, the dissolution leads to an increase in fathers' share of sick-child leave. Whereas union dissolutions have for decades been slowing the gender revolution in Sweden, they are now accelerating it.",
+  "authors": [
+    {
+      "raw": "Eriksson, Helen",
+      "family": "Eriksson",
+      "given": "Helen"
+    },
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Eriksson, Helen; Kolk, Martin",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae079",
+  "doi_url": "https://doi.org/10.1093/sf/soae079",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae079",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae079.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

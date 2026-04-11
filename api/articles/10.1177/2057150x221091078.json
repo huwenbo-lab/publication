@@ -1,0 +1,35 @@
+{
+  "title": "The barriers of identity: Population diversity, social trust, and crime",
+  "abstract": "Based on the 2014 China Labor-force Dynamics Survey data, this paper constructs a population diversity index to test the impact of population diversity on crime rates. The results suggest that population diversity is one of the causes of increasing urban crime. After considering the endogeneity problem and testing the robustness from different perspectives, the conclusion remains unchanged. The results of mediation tests indicate that social trust is an important mediator variable, that is, population diversity leads to an increase of crime rate when the level of social trust is low. Moreover, the results also show that the impact of population diversity on crime is much weaker when property rights protections are more complete, people have more confidence in the court system, and the government spends more on education and social security. This shows that better institutions can, to some extent, replace the role of non-market forces, thereby curbing the negative impact of population diversity on crime rates. It also suggests that public expenditure can reduce the likelihood of crime by increasing the opportunity cost of crime. This paper provides empirical evidence valuable to government crime control policies in China. Governments at all levels should pay full attention to the adverse effects of cultural differences in governance and promote mutual cultural recognition and integration of different groups.",
+  "authors": [
+    {
+      "raw": "Jin, Jiang",
+      "family": "Jin",
+      "given": "Jiang"
+    },
+    {
+      "raw": "Shi, Yangjing",
+      "family": "Shi",
+      "given": "Yangjing"
+    },
+    {
+      "raw": "Zhu, Libo",
+      "family": "Zhu",
+      "given": "Libo"
+    }
+  ],
+  "authors_text": "Jin, Jiang; Shi, Yangjing; Zhu, Libo",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2022,
+  "doi": "10.1177/2057150x221091078",
+  "doi_url": "https://doi.org/10.1177/2057150x221091078",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x221091078",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x221091078.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

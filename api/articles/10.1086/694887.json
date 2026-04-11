@@ -1,0 +1,30 @@
+{
+  "title": "For Law and Markets: Employment Discrimination Lawsuits, Market Performance, and Managerial Diversity",
+  "abstract": "Drawing on institutional theories of corporate response to the law, the authors investigate if and how employment discrimination litigation promotes gender and race equality among targeted firms. Using data on 171 high-profile sex and race discrimination lawsuits settled against publicly traded companies between 1997 and 2007, the authors estimate the impact of lawsuit resolutions on subsequent changes in managerial sex and race composition. Results show that the impact of lawsuit resolutions depends on the conditions surrounding the resolution. Lawsuit resolutions that produce a drop in stock prices for defendants, attract national media coverage, and mandate organizational policy changes improve white women's, black women's, and black men's access to management, while those that involve costly monetary payouts have no or negative effects. These findings demonstrate how market and legal pressures interact to affect workplace practices and managerial diversity.",
+  "authors": [
+    {
+      "raw": "Hirsh, Elizabeth",
+      "family": "Hirsh",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Cha, Youngjoo",
+      "family": "Cha",
+      "given": "Youngjoo"
+    }
+  ],
+  "authors_text": "Hirsh, Elizabeth; Cha, Youngjoo",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2018,
+  "doi": "10.1086/694887",
+  "doi_url": "https://doi.org/10.1086/694887",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F694887",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/694887.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

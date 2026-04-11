@@ -1,0 +1,40 @@
+{
+  "title": "Household and Living Arrangement Projections at the Subnational Level: An Extended Cohort-Component Approach",
+  "abstract": "Abstract This article presents the core methodological ideas and empirical assessments of an extended cohort-component approach (known as the “ProFamy model”), and applications to simultaneously project household composition, living arrangements, and population sizes–gender structures at the subnational level in the United States. Comparisons of projections from 1990 to 2000 using this approach with census counts in 2000 for each of the 50 states and Washington, DC show that 68.0 %, 17.0 %, 11.2 %, and 3.8 % of the absolute percentage errors are <3.0 %, 3.0 % to 4.99 %, 5.0 % to 9.99 %, and ≥10.0 %, respectively. Another analysis compares average forecast errors between the extended cohort-component approach and the still widely used classic headship-rate method, by projecting number-of-bedrooms–specific housing demands from 1990 to 2000 and then comparing those projections with census counts in 2000 for each of the 50 states and Washington, DC. The results demonstrate that, compared with the extended cohort-component approach, the headship-rate method produces substantially more serious forecast errors because it cannot project households by size while the extended cohort-component approach projects detailed household sizes. We also present illustrative household and living arrangement projections for the five decades from 2000 to 2050, with medium-, small-, and large-family scenarios for each of the 50 states; Washington, DC; six counties of southern California; and the Minneapolis–St. Paul metropolitan area. Among many interesting numerical outcomes of household and living arrangement projections with medium, low, and high bounds, the aging of American households over the next few decades across all states/areas is particularly striking. Finally, the limitations of the present study and potential future lines of research are discussed.",
+  "authors": [
+    {
+      "raw": "Zeng, Yi",
+      "family": "Zeng",
+      "given": "Yi"
+    },
+    {
+      "raw": "Land, Kenneth C.",
+      "family": "Land",
+      "given": "Kenneth C."
+    },
+    {
+      "raw": "Wang, Zhenglian",
+      "family": "Wang",
+      "given": "Zhenglian"
+    },
+    {
+      "raw": "Gu, Danan",
+      "family": "Gu",
+      "given": "Danan"
+    }
+  ],
+  "authors_text": "Zeng, Yi; Land, Kenneth C.; Wang, Zhenglian; Gu, Danan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0171-3",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0171-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0171-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0171-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

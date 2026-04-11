@@ -1,0 +1,30 @@
+{
+  "title": "Overwork and the use of paid leave and flexible work policies in US workplaces",
+  "abstract": "Employees in today ' s workplace express strong desire for policies allowing for temporal flexibility (e.g., paid time off, schedule change, working from home), yet these policies are underutilized even when employees have them. We argue that an occupational norm that emphasizes long work hours is a key to understanding this puzzle. Using individual -level data from the Leave Module of the 2011 American Time Use Survey (supplemented with the 2017 - 2018 version), matched with occupation -level data constructed from O*NET and the American Community Surveys, we show that individuals working in occupations with higher prevalence of overwork (defined by working 50 or more hours per week) are less likely to use paid leave. For flexible work policies, the same pattern is found for childless men, fathers, and childless women, but mothers are more likely to use them in occupations with higher prevalence of overwork. Our decomposition analysis shows that widespread overwork in professional and managerial occupations offsets much of what makes them amenable to the use of leave and flexible work policies, relative to other occupations. These findings suggest that even when policies are available, the success of flexible work policies largely depends on how organizations tackle the overwork norm.",
+  "authors": [
+    {
+      "raw": "Cha, Youngjoo",
+      "family": "Cha",
+      "given": "Youngjoo"
+    },
+    {
+      "raw": "Grady, Rebecca K.",
+      "family": "Grady",
+      "given": "Rebecca K."
+    }
+  ],
+  "authors_text": "Cha, Youngjoo; Grady, Rebecca K.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103006",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Do Female Occupations Pay Less but Offer More Benefits?",
+  "abstract": "Workers in predominantly female occupations have, on average, lower wages compared to workers in predominantly male occupations. Compensating differentials theory suggests that these wage differences occur because women select into occupations with lower pay but more fringe benefits. Alternatively, devaluation theory suggests that these wage differences occur because work performed by women is not valued as highly as work performed by men. One theory assumes that workers choose between wages and benefits. The other assumes that workers face constraints that restrict their wages and benefits. To examine whether female occupations pay less but offer more benefits, I used individual-level data from the Medical Expenditures Panel Survey and occupation-level data from the American Community Survey and from the Occupational Information Network. Contrary to compensating differentials theory, results from multivariate regression analysis provide little evidence that benefits explain wage differences between male and female occupations. Instead, consistent with devaluation theory, workers in female occupations are less likely to be offered employer health insurance coverage and are less likely to have retirement plans compared with workers in male occupations.",
+  "authors": [
+    {
+      "raw": "Hodges, Leslie",
+      "family": "Hodges",
+      "given": "Leslie"
+    }
+  ],
+  "authors_text": "Hodges, Leslie",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2020,
+  "doi": "10.1177/0891243220913527",
+  "doi_url": "https://doi.org/10.1177/0891243220913527",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243220913527",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243220913527.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

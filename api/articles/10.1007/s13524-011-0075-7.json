@@ -1,0 +1,40 @@
+{
+  "title": "Modeling Disability Trajectories and Mortality of the Oldest-Old in China",
+  "abstract": "Abstract This article uses a group-based modeling approach to jointly estimate disability and mortality trajectories over time based on data from the population aged 80 and older in China, and explores relations of demographic, socioeconomic, and early-life characteristics to membership in gender-specific trajectory groups. A three-group model best fits the data for both males and females. For most groups, predicted numbers of limitations in activities of daily living (ADLs) increase with age, but the pace is gradual in some cases and rapid in others. For each gender, the estimated mortality probability trajectories for the three groups follow a hierarchy that is related to the predicted ADL counts at age 80. Only a few characteristics predict trajectory-group membership. Prior nonagricultural occupation is associated with less favorable disability trajectories for both genders. For females, rural residence, a greater number of children ever born, and having a father who did not work in agriculture are associated with more favorable trajectories. For a small group of males who received education, disability is moderate but changes little with age. Findings may reflect heterogeneity of survival among the least advantaged, as well as a possible expansion of morbidity among a small advantaged group.",
+  "authors": [
+    {
+      "raw": "Zimmer, Zachary",
+      "family": "Zimmer",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Martin, Linda G.",
+      "family": "Martin",
+      "given": "Linda G."
+    },
+    {
+      "raw": "Nagin, Daniel S.",
+      "family": "Nagin",
+      "given": "Daniel S."
+    },
+    {
+      "raw": "Jones, Bobby L.",
+      "family": "Jones",
+      "given": "Bobby L."
+    }
+  ],
+  "authors_text": "Zimmer, Zachary; Martin, Linda G.; Nagin, Daniel S.; Jones, Bobby L.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-011-0075-7",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0075-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0075-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0075-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

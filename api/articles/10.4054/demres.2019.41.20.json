@@ -1,0 +1,30 @@
+{
+  "title": "How marriages based on bride capture differ: Evidence from Kyrgyzstan",
+  "abstract": "BACKGROUND A significant proportion of women in the Kyrgyz Republic marry via ala kachuu, generally translated as bride capture or kidnapping. Many regard this practice as harmless elopement or a tradition; others perceive it as a form of forced marriage. OBJECTIVE This paper contributes to the understanding of ala kachuu by exploring the extent to which couples in these marriages differ from those in arranged or love marriages. METHODS We use the 2013 wave of the Life in Kyrgyzstan survey to compute profile similarity indices for the personality of couples. We then regress marriage type on the profile similarity index, controlling for sociodemographic variables. RESULTS Couples in marriages resulting from bride capture are far less assortatively matched on personality traits than other couples, especially those who have only recently married. CONCLUSIONS This greater dissimilarity is consistent with ala kachuu being forced marriage rather than merely staged or ritualized elopement. CONTRIBUTION This paper provides a novel source of evidence on the possible nonconsensual nature of bride capture in Kyrgyzstan, adding further weight to those arguing that it is forced.",
+  "authors": [
+    {
+      "raw": "Steiner, Susan",
+      "family": "Steiner",
+      "given": "Susan"
+    },
+    {
+      "raw": "Becker, Charles M.",
+      "family": "Becker",
+      "given": "Charles M."
+    }
+  ],
+  "authors_text": "Steiner, Susan; Becker, Charles M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.20",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

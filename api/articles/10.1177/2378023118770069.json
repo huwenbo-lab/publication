@@ -1,0 +1,30 @@
+{
+  "title": "Disparate Impact? Race, Sex, and Credit Reports in Hiring",
+  "abstract": "Half of U.S. employers consider credit history when deciding whom to hire. The practice has become a contentious policy issue, with multiple jurisdictions limiting the use of credit reports in employment. Yet to date, there has been no test of how the introduction of credit history influences the way employers make decisions. Recent qualitative research finds that employers evaluate credit reports in contingent and person-specific ways, which opens the door to bias according to applicant characteristics, such as race and sex. To test for potential disparate impact in employment outcomes from the use of credit reports, we conduct a survey experiment with 1,050 hiring professionals. We find that including a bad credit report in an applicant’s file reduces respondents’ likelihood of hiring female (vs. male) applicants and reduces the recommended starting salary offered to black (vs. white) applicants. We discuss the implications of this study for research and public policy.",
+  "authors": [
+    {
+      "raw": "O’Brien, Rourke L.",
+      "family": "O’Brien",
+      "given": "Rourke L."
+    },
+    {
+      "raw": "Kiviat, Barbara",
+      "family": "Kiviat",
+      "given": "Barbara"
+    }
+  ],
+  "authors_text": "O’Brien, Rourke L.; Kiviat, Barbara",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118770069",
+  "doi_url": "https://doi.org/10.1177/2378023118770069",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118770069",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118770069.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

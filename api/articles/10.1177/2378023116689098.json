@@ -1,0 +1,30 @@
+{
+  "title": "Does Renewable Energy Development Decouple Economic Growth from CO2 Emissions?",
+  "abstract": "We assess how renewable electricity production interacts with GDP per capita to influence CO2 emissions per capita, analyzing cross-national data from 1960 to 2012. We find an interaction effect between the quantity of renewables and GDP per capita, where, counterintuitively, economic growth is more closely tied to emissions in nations with a large share of their electricity from renewable sources and growth of renewable electricity has a smaller suppressive effect on emissions in more affluent nations. Additional analyses suggest that this relationship emerges because renewable energy sources tend to suppress nuclear energy in affluent nations, thereby unintentionally perpetuating reliance on fossil fuels.",
+  "authors": [
+    {
+      "raw": "York, Richard",
+      "family": "York",
+      "given": "Richard"
+    },
+    {
+      "raw": "McGee, Julius Alexander",
+      "family": "McGee",
+      "given": "Julius Alexander"
+    }
+  ],
+  "authors_text": "York, Richard; McGee, Julius Alexander",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2017,
+  "doi": "10.1177/2378023116689098",
+  "doi_url": "https://doi.org/10.1177/2378023116689098",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023116689098",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023116689098.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

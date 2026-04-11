@@ -1,0 +1,30 @@
+{
+  "title": "Neonatal mortality in the developing world",
+  "abstract": "This paper examines age patterns and trends of early and late neonatal mortality in developing countries, using birth history data from the Demographic and Health Surveys (DHS). Data quality was assessed both by examination of internal consistency and",
+  "authors": [
+    {
+      "raw": "Hill, Kenneth",
+      "family": "Hill",
+      "given": "Kenneth"
+    },
+    {
+      "raw": "Choi, Yoonjoung",
+      "family": "Choi",
+      "given": "Yoonjoung"
+    }
+  ],
+  "authors_text": "Hill, Kenneth; Choi, Yoonjoung",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2006,
+  "doi": "10.4054/demres.2006.14.18",
+  "doi_url": "https://doi.org/10.4054/demres.2006.14.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2006.14.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2006.14.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Neighborhood Diversity, Neighborhood Affluence: An Analysis of the Neighborhood Destination Choices of Mixed-Race Couples With Children",
+  "abstract": "Past research has indicated that mixed-race couples with children appear to possess a heightened preference for neighborhoods that are racially and ethnically diverse and relatively affluent so as to reside in areas that are requisitely accepting of, and safe for, their children. However, neighborhoods with higher racial and ethnic diversity tend to be lower in socioeconomic status, implying that some residentially mobile mixed-race couples with children encounter trade-offs between neighborhood diversity and neighborhood affluence in their residential search processes. To investigate this, we apply discrete-choice models to longitudinal data from the Panel Study of Income Dynamics linked to neighborhood-level data from multiple population censuses to compare the neighborhood choices of mixed-race couples with children to those of monoracial couples with children, while assessing how these choices are simultaneously driven by neighborhood diversity and neighborhood affluence. We observe that mixed-race couples with children tend to be more likely to choose higher-diversity neighborhoods than white couples with children, even when neighborhood affluence is allowed to determine the residential choices for these couples. Some higher-income mixed-race couples with children seemingly translate their resources into neighborhoods that are both diverse and affluent.",
+  "authors": [
+    {
+      "raw": "Gabriel, Ryan",
+      "family": "Gabriel",
+      "given": "Ryan"
+    },
+    {
+      "raw": "Spring, Amy",
+      "family": "Spring",
+      "given": "Amy"
+    }
+  ],
+  "authors_text": "Gabriel, Ryan; Spring, Amy",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00779-1",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00779-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00779-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00779-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Probabilistic projection of subnational total fertility rates",
+  "abstract": "BACKGROUND We consider the problem of probabilistic projection of the total fertility rate (TFR) for subnational regions. OBJECTIVE We seek a method that is consistent with the UN's recently adopted Bayesian method for probabilistic TFR projections for all countries and works well for all countries. METHODS We assess various possible methods using subnational TFR data for 47 countries. RESULTS We find that the method that performs best in terms of out-of-sample predictive performance and also in terms of reproducing the within-country correlation in TFR is a method that scales each national trajectory from the national predictive posterior distribution by a region-specific scale factor that is allowed to vary slowly over time. CONCLUSIONS Probabilistic projections of TFR for subnational units are best produced by scaling the national projection by a slowly time-varying region-specific scale factor. This supports the hypothesis of Watkins (1990, 1991) that within-country TFR converges over time in response to country-specific factors, and thus extends the Watkins hypothesis to the last 50 years and to a much wider range of countries around the world. CONTRIBUTION We have developed a new method for probabilistic projection of subnational TFR that works well and outperforms other methods. This also sheds light on the extent to which within-country TFR converges over time.",
+  "authors": [
+    {
+      "raw": "Sevcikova, Hana",
+      "family": "Sevcikova",
+      "given": "Hana"
+    },
+    {
+      "raw": "Raftery, Adrian E.",
+      "family": "Raftery",
+      "given": "Adrian E."
+    },
+    {
+      "raw": "Gerland, Patrick",
+      "family": "Gerland",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Sevcikova, Hana; Raftery, Adrian E.; Gerland, Patrick",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.60",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.60",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.60",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.60.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

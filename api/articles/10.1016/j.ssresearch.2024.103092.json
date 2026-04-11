@@ -1,0 +1,30 @@
+{
+  "title": "The STEM leaky pipeline at labor market entry in Spain: The role of job competition and social origin",
+  "abstract": "The underrepresentation of women in STEM (Science, Technology, Engineering, and Mathematics) majors is well documented. Using high-quality Spanish data, this study examines whether female STEM graduates are less likely to pursue STEM careers than their male counterparts and considers the moderating role of labor market conditions and social origin. We find a pronounced gender effect in initial and subsequent job placement (4-5 years after graduation). Notably, female STEM graduates are less likely to work in STEM occupations, even if they started their careers in STEM. Exploiting the significant impact of the Great Recession on the Spanish labor market, our study reveals a significantly larger gender effect among individuals who graduated during the crisis compared to those who graduated during the subsequent economic recovery. Thus, job competition influences the magnitude of the gender effect. Finally, our intersectional analysis of gender and social origin suggests that the gender difference is larger among STEM graduates from low-SES backgrounds.",
+  "authors": [
+    {
+      "raw": "Valdes, Manuel T.",
+      "family": "Valdes",
+      "given": "Manuel T."
+    },
+    {
+      "raw": "Solga, Heike",
+      "family": "Solga",
+      "given": "Heike"
+    }
+  ],
+  "authors_text": "Valdes, Manuel T.; Solga, Heike",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103092",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103092",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103092",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103092.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

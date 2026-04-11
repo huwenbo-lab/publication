@@ -1,0 +1,30 @@
+{
+  "title": "Power and position in the world city system",
+  "abstract": "Globalization has renewed interest in the place and role of cities in the international system. Recent literature proposes that the fate of cities (and their residents) has become increasingly tied to their position in international flows of investment and trade. Data on the branch locations of the world's 500 largest multinational enterprises in 2000 are subjected to two broad types of network analytic techniques in order to analyze the world city system. First, 3,692 cities are analyzed in terms of three measures of point centrality. Second, blockmodeling techniques are employed to generalize further about the positions and roles played by cities in the system. These techniques are used to trace out the structure of the world city system, locate cities in the context of a global urban hierarchy, and explore the degree to which this diverges from a simple one-to-one matching of cities onto nation-states in the world system.",
+  "authors": [
+    {
+      "raw": "Alderson, AS",
+      "family": "Alderson",
+      "given": "AS"
+    },
+    {
+      "raw": "Beckfield, J",
+      "family": "Beckfield",
+      "given": "J"
+    }
+  ],
+  "authors_text": "Alderson, AS; Beckfield, J",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2004,
+  "doi": "10.1086/378930",
+  "doi_url": "https://doi.org/10.1086/378930",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F378930",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/378930.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

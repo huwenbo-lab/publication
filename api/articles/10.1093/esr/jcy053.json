@@ -1,0 +1,30 @@
+{
+  "title": "Why You Should Always Include a Random Slope for the Lower-Level Variable Involved in a Cross-Level Interaction",
+  "abstract": "Mixed-effects multilevel models are often used to investigate cross-level interactions, a specific type of context effect that may be understood as an upper-level variable moderating the association between a lower-level predictor and the outcome. We argue that multilevel models involving cross-level interactions should always include random slopes on the lower-level components of those interactions. Failure to do so will usually result in severely anti-conservative statistical inference. We illustrate the problem with extensive Monte Carlo simulations and examine its practical relevance by studying 30 prototypical cross-level interactions with European Social Survey data for 28 countries. In these empirical applications, introducing a random slope term reduces the absolute t-ratio of the cross-level interaction term by 31 per cent or more in three quarters of cases, with an average reduction of 42 per cent. Many practitioners seem to be unaware of these issues. Roughly half of the cross-level interaction estimates published in the European Sociological Review between 2011 and 2016 are based on models that omit the crucial random slope term. Detailed analysis of the associated test statistics suggests that many of the estimates would not reach conventional thresholds for statistical significance in correctly specified models that include the random slope. This raises the question how much robust evidence of cross-level interactions sociology has actually produced over the past decades.",
+  "authors": [
+    {
+      "raw": "Heisig, Jan Paul",
+      "family": "Heisig",
+      "given": "Jan Paul"
+    },
+    {
+      "raw": "Schaeffer, Merlin",
+      "family": "Schaeffer",
+      "given": "Merlin"
+    }
+  ],
+  "authors_text": "Heisig, Jan Paul; Schaeffer, Merlin",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcy053",
+  "doi_url": "https://doi.org/10.1093/esr/jcy053",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy053",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy053.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "How social and economic conditions impact socioeconomic mobility. The case of Spain",
+  "abstract": "We rely on Permanent Income to define a socioeconomic stratification system based on a latent trait measurement model using objective and widely available socioeconomic variables as reflective indicators, with an official panel of households spanning 2006-2020 in Spain. We obtain an objective and transparent stratification of Spanish society for these 15 years, and track social mobility at the household level between consecutive years that included economic expansion, a major recession, economic recovery and a major pandemic.We have quantified social mobility (greater in the extreme strata) in each of the periods of growth, crisis and economic recovery. Crisis derived from COVID-19 has been more drastic and has affected more the consumption of households under 65 years of age or with few members. In Spain, measures adopted against the effects of the COVID crisis have generated less inequality than those adopted during the Big Recession of 2008.",
+  "authors": [
+    {
+      "raw": "Luque-Martinez, Teodoro",
+      "family": "Luque-Martinez",
+      "given": "Teodoro"
+    },
+    {
+      "raw": "Kamakura, Wagner A.",
+      "family": "Kamakura",
+      "given": "Wagner A."
+    },
+    {
+      "raw": "Del Barrio-Garcia, Salvador",
+      "family": "Del Barrio-Garcia",
+      "given": "Salvador"
+    }
+  ],
+  "authors_text": "Luque-Martinez, Teodoro; Kamakura, Wagner A.; Del Barrio-Garcia, Salvador",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100931",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100931",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100931",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100931.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

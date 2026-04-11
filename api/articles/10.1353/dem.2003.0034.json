@@ -1,0 +1,30 @@
+{
+  "title": "The academic trajectories of immigrant youths: Analysis within and across cohorts",
+  "abstract": "Abstract Two nationally representative cohorts—from the National Educational Longitudinal Study (NELS) and High School and Beyond (HSB)—were used to examine the effects of generation and duration of residence on students’ performance on standardized tests over a two-year period. In multivariate models, generational status predicts variation in students’ performance on baseline (sophomore) tests, with effects stronger for the later age cohort (NELS) than for the earlier age cohort (HSB). With regard to the trajectory of achievement, generational status has a greatly reduced role for both cohorts. The best predictors of the trajectory of achievement are not those that are based on nativity per se, but those that reflect the social environment experienced in the United States (i.e., ethnicity and family’s socioeconomic status).",
+  "authors": [
+    {
+      "raw": "Glick, Jennifer E.",
+      "family": "Glick",
+      "given": "Jennifer E."
+    },
+    {
+      "raw": "White, Michael J.",
+      "family": "White",
+      "given": "Michael J."
+    }
+  ],
+  "authors_text": "Glick, Jennifer E.; White, Michael J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.1353/dem.2003.0034",
+  "doi_url": "https://doi.org/10.1353/dem.2003.0034",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2003.0034",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2003.0034.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

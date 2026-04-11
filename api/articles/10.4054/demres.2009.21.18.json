@@ -1,0 +1,25 @@
+{
+  "title": "Results and observations from the reconstruction of continuous time series of mortality by cause of death",
+  "abstract": "Though many countries have been collecting cause-of-death information from death certificates for more than a century, these valuable data sources remain underexplored. This is certainly due in part to the frequent revisions of the International Classi",
+  "authors": [
+    {
+      "raw": "Pechholdová, Markéta",
+      "family": "Pechholdová",
+      "given": "Markéta"
+    }
+  ],
+  "authors_text": "Pechholdová, Markéta",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2009,
+  "doi": "10.4054/demres.2009.21.18",
+  "doi_url": "https://doi.org/10.4054/demres.2009.21.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2009.21.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2009.21.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

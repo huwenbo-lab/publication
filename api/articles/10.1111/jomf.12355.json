@@ -1,0 +1,35 @@
+{
+  "title": "Family Structure, Residential Mobility, and Environmental Inequality",
+  "abstract": "This study combines micro-level data on families with children from the Panel Study of Income Dynamics with neighborhood-level census and industrial hazard data to examine the association between family structure and residential proximity to neighborhood pollution. Results indicate the existence of significant family structure differences in household proximity to industrial pollution in U.S. metropolitan areas between 1990 and 1999, with single mother and single-father families experiencing neighborhood pollution levels that are on average 46% and 26% greater, respectively, than those experienced by two-parent families. Moreover, the pollution gap between single mother and two-parent families persists with controls for household and neighborhood race, ethnic, socioeconomic, and sociodemographic characteristics. Examination of underlying migration patterns reveals that single-mother, single-father, and two-parent families are equally likely to move in response to pollution but that mobile single-parent families move into neighborhoods with significantly higher pollution levels than do mobile two parent families.",
+  "authors": [
+    {
+      "raw": "Downey, Liam",
+      "family": "Downey",
+      "given": "Liam"
+    },
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    },
+    {
+      "raw": "Kemp, Robert J.",
+      "family": "Kemp",
+      "given": "Robert J."
+    }
+  ],
+  "authors_text": "Downey, Liam; Crowder, Kyle; Kemp, Robert J.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2017,
+  "doi": "10.1111/jomf.12355",
+  "doi_url": "https://doi.org/10.1111/jomf.12355",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12355",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12355.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

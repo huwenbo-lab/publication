@@ -1,0 +1,30 @@
+{
+  "title": "The Historical Nature of Cities: A Study of Urbanization and Hazardous Waste Accumulation",
+  "abstract": "Endemic uncertainties surrounding urban industrial waste raise important theoretical and methodological challenges for understanding the historical nature of cities. Our study advances a synthetic framework for engaging these challenges by extending theories of modern risk society and classic urban ecology to investigate the accumulation of industrial hazards over time and space. Data for our study come from a unique longitudinal dataset containing geospatial and organizational information on more than 2,800 hazardous manufacturing sites operating between 1956 and 2006 in Portland, Oregon. We pair these site data with historical data from the U.S. population census and the Oregon Department of Environmental Quality (DEQ) to examine the historical accumulation of hazardous parcels in relation to changing patterns of industrial land use, neighborhood composition, new residential development, and environmental regulation. Results indicate that historical accumulation of hazardous sites is scaling up in ways that exhibit little regard for shifting neighborhood demographics or existing regulatory policies as sites merge into larger, more contiguous industrialized areas of historically generated hazards, creating the environmental conditions of urban risk society.",
+  "authors": [
+    {
+      "raw": "Elliott, James R.",
+      "family": "Elliott",
+      "given": "James R."
+    },
+    {
+      "raw": "Frickel, Scott",
+      "family": "Frickel",
+      "given": "Scott"
+    }
+  ],
+  "authors_text": "Elliott, James R.; Frickel, Scott",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1177/0003122413493285",
+  "doi_url": "https://doi.org/10.1177/0003122413493285",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122413493285",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122413493285.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Gender and the Stability of Same-Sex and Different-Sex Relationships Among Young Adults",
+  "abstract": "Most research on the stability of adult relationships has focused on coresidential (cohabiting or married) unions and estimates rates of dissolution for the period of coresidence. Studies examining how the stability of coresidential unions differs by sex composition have typically found that same-sex female couples have higher rates of dissolution than same-sex male couples and different-sex couples. We argue that the more elevated rates of dissolution for same-sex female couples are a by-product of the focus on coresidential unions. We use data from the National Longitudinal Study of Adolescent to Adult Health to compare rates of dissolution based on the total duration of romantic and sexual relationships for same-sex male couples, same-sex female couples, and different-sex couples. Results from hazard models that track the stability of young adult relationships from the time they are formed demonstrate that male couples have substantially higher dissolution rates than female couples and different-sex couples. Results based on models restricted to the period of coresidence corroborate the counterintuitive finding from earlier studies that female couples have the highest rates of dissolving coresidential unions. This study underlines the importance of comparisons between these couple types for a better understanding of the role that institutions and gender play in the stability of contemporary relationships.",
+  "authors": [
+    {
+      "raw": "Joyner, Kara",
+      "family": "Joyner",
+      "given": "Kara"
+    },
+    {
+      "raw": "Manning, Wendy",
+      "family": "Manning",
+      "given": "Wendy"
+    },
+    {
+      "raw": "Bogle, Ryan",
+      "family": "Bogle",
+      "given": "Ryan"
+    }
+  ],
+  "authors_text": "Joyner, Kara; Manning, Wendy; Bogle, Ryan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0633-8",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0633-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0633-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0633-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

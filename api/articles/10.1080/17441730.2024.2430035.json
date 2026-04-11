@@ -1,0 +1,35 @@
+{
+  "title": "Rural/urban fertility differentials and the role of female education in declining birth rates: comparative analysis in Asia, Africa, and Latin America",
+  "abstract": "ABSTRACT Fertility has been declining in all regions of lower- and middle-income countries, except in the rural areas of a few sub-Saharan African countries. The study of differentials in these fertility declines draws on two independent bodies of literature, one demonstrating the impact of women’s education on reproductive choices and outcomes and the other focusing on rural/urban fertility differentials. Our research addresses both dimensions together and studies their interactions. Using Demographic and Health Survey (DHS) data, we estimate number of live children born per woman over a five-year period, processing over three million individual data points from all available DHS surveys. We find consistently strong associations between education and fertility, which in most countries are stronger than those between fertility and place of residence (rural/urban). However, individual-level education differentials do not fully explain the rural/urban fertility differentials. The resulting patterns can be directly used in multi-dimensional population projections by age, sex, level of education, and urban/rural residence, as is currently being attempted for the SSP (Shared Socioeconomic Pathways) scenarios widely used in the global climate change research community. These results suggest that further research on the diffusion process is needed to better understand the additional effect of place of residence.",
+  "authors": [
+    {
+      "raw": "Adhikari, Saroja",
+      "family": "Adhikari",
+      "given": "Saroja"
+    },
+    {
+      "raw": "Lutz, Wolfgang",
+      "family": "Lutz",
+      "given": "Wolfgang"
+    },
+    {
+      "raw": "KC, Samir",
+      "family": "KC",
+      "given": "Samir"
+    }
+  ],
+  "authors_text": "Adhikari, Saroja; Lutz, Wolfgang; KC, Samir",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2024,
+  "doi": "10.1080/17441730.2024.2430035",
+  "doi_url": "https://doi.org/10.1080/17441730.2024.2430035",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2024.2430035",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2024.2430035.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Estimating time-varying sex-age-specific o/e rates of marital status transitions in family household projection or simulation",
+  "abstract": "This article presents a procedure for estimating time-varying sex-age-specific occurrence/exposure (o/e) rates of marital status transitions to ensure that the projected life course propensities of marriage/union formation and dissolution are achieved",
+  "authors": [
+    {
+      "raw": "Zeng, Yi",
+      "family": "Zeng",
+      "given": "Yi"
+    },
+    {
+      "raw": "Stallard, Eric",
+      "family": "Stallard",
+      "given": "Eric"
+    },
+    {
+      "raw": "Wang, Zhenglian",
+      "family": "Wang",
+      "given": "Zhenglian"
+    }
+  ],
+  "authors_text": "Zeng, Yi; Stallard, Eric; Wang, Zhenglian",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2004,
+  "doi": "10.4054/demres.2004.11.10",
+  "doi_url": "https://doi.org/10.4054/demres.2004.11.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2004.11.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2004.11.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

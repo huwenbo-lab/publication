@@ -1,0 +1,30 @@
+{
+  "title": "The Structure of Protest Cycles: Inspiration and Bridging in South Korea's Democracy Movement",
+  "abstract": "Although the concept of protest cycles has received much attention in the collective action literature, its empirical operationalization remains relatively crude compared to the rich theoretical discussion. Reimagining social movements as populations of interlinked protests, we demonstrate the advantages of analyzing protest event networks with a novel dataset related to South Korea's democracy movement. In our conceptualization, protest events play the role of network nodes and links were identified based on protesters citing prior events as sources of inspiration for mobilizing. Appropriating strategies for network analysis, we assess the types of events that were more likely to be cited as sources of inspiration and bridge otherwise disconnected events. Our analysis shows that protests that raised systemic versus local issues and events that were repressed by the state were more likely to occupy central positions in the democracy movement. By identifying the characteristics of events that contribute to movement inspiration and bridging, our novel approach to analyzing protest events sheds new light on dominant themes in social movement research.",
+  "authors": [
+    {
+      "raw": "Chang, Paul Y.",
+      "family": "Chang",
+      "given": "Paul Y."
+    },
+    {
+      "raw": "Lee, Kangsan",
+      "family": "Lee",
+      "given": "Kangsan"
+    }
+  ],
+  "authors_text": "Chang, Paul Y.; Lee, Kangsan",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa130",
+  "doi_url": "https://doi.org/10.1093/sf/soaa130",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa130",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa130.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Estimating multistate transition rates from population distributions",
+  "abstract": "The ability to estimate transition rates (or probabilities) from population distributions has many potential applications in demography. Iterative Proportional Fitting (IPF) has been used for such estimation, but lacks a meaningful behavioral, or demo",
+  "authors": [
+    {
+      "raw": "Schoen, Robert",
+      "family": "Schoen",
+      "given": "Robert"
+    },
+    {
+      "raw": "Jonsson, Stefan H.",
+      "family": "Jonsson",
+      "given": "Stefan H."
+    }
+  ],
+  "authors_text": "Schoen, Robert; Jonsson, Stefan H.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2003,
+  "doi": "10.4054/demres.2003.9.1",
+  "doi_url": "https://doi.org/10.4054/demres.2003.9.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2003.9.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2003.9.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

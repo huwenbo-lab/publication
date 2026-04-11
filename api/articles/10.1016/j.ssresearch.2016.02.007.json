@@ -1,0 +1,35 @@
+{
+  "title": "To thine own self be true? Clarifying the effects of identity discrepancies on psychological distress and emotions",
+  "abstract": "After many years of research across disciplines, it remains unclear whether people are more motivated to seek appraisals that accurately match self-views (self-verification) or are as favorable as possible (self-enhancement). Within sociology, mixed findings in identity theory have fueled the debate. A problem here is that a commonly employed statistical approach does not take into account the direction of a discrepancy between how we see ourselves and how we think others see us in terms of a gliien identity, yet doing so is critical for determining which self-motive is at play. We offer a test of three competing models of identity processes, including a new mixed motivations model where self verification and self-enhancement operate simultaneously. We compare the models using the conventional statistical approach versus response surface analysis. The latter method allows us to determine whether identity discrepancies involving over-evaluation are as distressing as those involving under-evaluation. We use nationally representative data and compare results across four different identities and multiple outcomes. The two statistical approaches lead to the same conclusions more often than not and mostly support identity theory and its assumption that people seek self-verification. However, response surface tests reveal patterns that are mistaken as evidence of self-verification by conventional procedures, especially for the spouse identity. We also find that identity discrepancies have different effects on distress and self-conscious emotions (guilt and shame). Our findings have implications not only for research on self and identity across disciplines, but also for many other areas of research that incorporate these concepts and/or use difference scores as explanatory variables. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Kalkhoff, Will",
+      "family": "Kalkhoff",
+      "given": "Will"
+    },
+    {
+      "raw": "Marcussen, Kristen",
+      "family": "Marcussen",
+      "given": "Kristen"
+    },
+    {
+      "raw": "Serpe, Richard T.",
+      "family": "Serpe",
+      "given": "Richard T."
+    }
+  ],
+  "authors_text": "Kalkhoff, Will; Marcussen, Kristen; Serpe, Richard T.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.02.007",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.02.007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.02.007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.02.007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Time Period, Generational, and Age Differences in Tolerance for Controversial Beliefs and Lifestyles in the United States, 1972-2012",
+  "abstract": "Americans have become increasingly tolerant of controversial outgroups in results from the nationally representative General Social Survey (1972-2012, N = 35,048). Specifically, adults in the 2010s (versus the 1970s and 1980s) were more likely to agree that Communists, homosexuals, the anti-religious, militarists, and those believing Blacks are genetically inferior should be allowed to give a public speech, teach at a college, or have a book in a local library. Cross-classification hierarchical linear modeling (HLM) analyses separating the effects of time period, cohort/generation, and age show that these trends were driven by both a linear time period effect and a curvilinear cohort effect, with those born in the late 1940s (Boomers) the most tolerant when age and time period were controlled. Tolerance of homosexuals increased the most, and tolerance of racists the least. The increase in tolerance is positively correlated with higher levels of education and individualistic attitudes, including rejecting traditional social rules, but is negatively correlated with changes in empathy.",
+  "authors": [
+    {
+      "raw": "Twenge, Jean M.",
+      "family": "Twenge",
+      "given": "Jean M."
+    },
+    {
+      "raw": "Carter, Nathan T.",
+      "family": "Carter",
+      "given": "Nathan T."
+    },
+    {
+      "raw": "Campbell, W. Keith",
+      "family": "Campbell",
+      "given": "W. Keith"
+    }
+  ],
+  "authors_text": "Twenge, Jean M.; Carter, Nathan T.; Campbell, W. Keith",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sov050",
+  "doi_url": "https://doi.org/10.1093/sf/sov050",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov050",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov050.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Governing Natural Disasters: State Capacity, Democracy, and Human Vulnerability",
+  "abstract": "From the perspective of historical institutionalism, I argue that state capacity, democracy, and their interaction shape the distribution of human vulnerability in natural disasters. The ruling elite, irrespective of whether it is democratic, has the incentive to develop state capacity to prevent damage caused by natural disasters, which is considered a threat to its rule and revenue. To win elections in a democracy, the elite may increase public spending for disaster mitigation in favor of voters' demands. Democracy also empowers civil society and stimulates social spending, which benefits vulnerable citizens. Thus, a strong state capacity effectively reduces human vulnerability, especially in a democracy. I used panel data from 150 countries between 1995 and 2009 to demonstrate the relationship among state capacity, democracy, and the impact of disasters. After controlling for the density and magnitude continuity of natural-disaster hazards, the empirical results I obtained from the multilevel models indicate that democracy reduces the disaster mortality rate, and a strong state capacity mitigates the effect of a disaster on a population, especially in a democracy. I also found that state capacity and democracy are more effective in preventing human losses caused by predictable disasters such as floods and storms, rather than earthquakes.",
+  "authors": [
+    {
+      "raw": "Lin, Thung-Hong",
+      "family": "Lin",
+      "given": "Thung-Hong"
+    }
+  ],
+  "authors_text": "Lin, Thung-Hong",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sou104",
+  "doi_url": "https://doi.org/10.1093/sf/sou104",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou104",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou104.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

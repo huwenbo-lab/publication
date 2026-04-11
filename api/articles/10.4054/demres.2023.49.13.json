@@ -1,0 +1,25 @@
+{
+  "title": "The contributions of stochastic demography and social inequality to lifespan variability",
+  "abstract": "BACKGROUND Individual lifespans differ. Some of those differences are due to heterogeneity, some to stochasticity. Some of the heterogeneity is due to socioeconomic, physiological, or environmental differences; some to unobserved latent factors. All of these are, from time to time, called inequality.OBJECTIVE This paper aims to clarify the relations between heterogeneity, stochasticity, inequality of opportunity, and inequality of outcome in a wider context than has yet been attempted.METHODS A population is divided into groups differing in their demographic rates. Markov chain or life table methods provide the moments of longevity for each group. A mixing distribu-tion describes the relative abundance of groups. The variance in longevity is partitioned into within-group and between-group components. The approach applies to longevity, healthy longevity, lifetime reproductive output, and other outcomes.CONCLUSIONS Important socioeconomic factors make only a small contribution to the variance in longevity, most of which is due to individual stochasticity. Some exceptions, in laboratory studies of insect populations and interspecies comparisons in biodemography, are explored.CONTRIBUTION Recognizing the role of stochasticity clarifies the source and the implications of this im-portant source of variance.",
+  "authors": [
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    }
+  ],
+  "authors_text": "Caswell, Hal",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.13",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

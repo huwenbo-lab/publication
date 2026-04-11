@@ -1,0 +1,40 @@
+{
+  "title": "Income Level and Volatility by Children's Race and Hispanic Ethnicity",
+  "abstract": "Objective: This study documents how income dynamics during childhood differ across racial/ethnic groups and among Hispanics by nativity, citizenship, and the English-language proficiency of households. Background: Income volatility has emerged as a distinct form of economic disadvantage that can impact family life and child well-being. Yet little is understood about how income volatility is stratified by race and ethnicity. Method: Using longitudinal data on children from the 2004 (n = 7,651) and 2008 (n = 12,183) panels of the Survey of Income and Program Participation, this study examined income level and volatility among Hispanic, non-Hispanic White, and non-Hispanic Black children. Results: When compared with peers, Hispanic children were more likely to be low income, but experience slightly less income volatility. Income volatility among low-income Hispanic children was similar regardless of the nativity or citizenship status of adults in the household, although it differed by household linguistic isolation. Receipt of social assistance offered less income stabilization for low-income Hispanic children than for peers; however, household earnings, particularly from residential male adults (most of whom were fathers), had a stabilizing influence on income. Conclusion: Income volatility is higher among low-income families than among higher income families, irrespective of racial/ethnic status. At the lowest income levels, Hispanic children were statistically more likely than children of other racial/ethnic groups to experience slightly more stable income. Implications: Understanding how different experiences of income volatility by children's race/ethnicity might influence family life and children's development can inform policy and program practice.",
+  "authors": [
+    {
+      "raw": "Gennetian, Lisa A.",
+      "family": "Gennetian",
+      "given": "Lisa A."
+    },
+    {
+      "raw": "Rodrigues, Christopher",
+      "family": "Rodrigues",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Hill, Heather D.",
+      "family": "Hill",
+      "given": "Heather D."
+    },
+    {
+      "raw": "Morris, Pamela A.",
+      "family": "Morris",
+      "given": "Pamela A."
+    }
+  ],
+  "authors_text": "Gennetian, Lisa A.; Rodrigues, Christopher; Hill, Heather D.; Morris, Pamela A.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12529",
+  "doi_url": "https://doi.org/10.1111/jomf.12529",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12529",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12529.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

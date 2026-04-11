@@ -1,0 +1,25 @@
+{
+  "title": "Marriage (Still) Matters: The Contribution of Demographic Change to Trends in Childlessness in the United States",
+  "abstract": "Childlessness in the United States nearly doubled between 1980 and 2000. Other dramatic changes in the U.S. population also took place over this period-notably, women's average educational attainment increased, and the proportion marrying declined-but the impact of these changes on childlessness has not been formally examined. In this article, I use data from the Current Population Survey Fertility Supplements (1995, 1998, 2004, 2008) and logistic regression and regression-based decomposition techniques to assess the contribution of changes in educational attainment, marriage behavior, and racial/ethnic composition on population levels of childlessness in the United States. Results show that increases in the proportion of women unmarried by age 40 contributed most to the increase in childlessness in the late twentieth century, although these increases were offset somewhat by increased childbearing among unmarried women. The rising proportion of women with a college degree also explained a substantial amount of the increase in childless women.",
+  "authors": [
+    {
+      "raw": "Hayford, Sarah R.",
+      "family": "Hayford",
+      "given": "Sarah R."
+    }
+  ],
+  "authors_text": "Hayford, Sarah R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0215-3",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0215-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0215-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0215-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "A Second Look at the Process of Occupational Feminization and Pay Reduction in Occupations",
+  "abstract": "Using the IPUMS-USA data for the years 1960-2015, this study examines trends in the effect of occupational feminization on occupational pay in the U.S. labor market and explores some of the mechanisms underlying these trends. The findings show that the (negative) association between occupational feminization and occupational pay level has declined, becoming insignificent in 2015. This trend, however, is reversed after education is controlled for at the individual as well as the occupational level. The two opposite trends are discussed in light of the twofold effect of education: (1) the entry of women into occupations requiring high education, and (2) the growing returns to education and to occupations with higher educational requirements. These two processes have concealed the deterioration in occupational pay following feminization. The findings underscore the significance of structural forms of gender inequality in general, and occupational devaluation in particular.",
+  "authors": [
+    {
+      "raw": "Mandel, Hadas",
+      "family": "Mandel",
+      "given": "Hadas"
+    }
+  ],
+  "authors_text": "Mandel, Hadas",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0657-8",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0657-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0657-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0657-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

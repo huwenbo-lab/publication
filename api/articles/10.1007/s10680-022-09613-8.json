@@ -1,0 +1,35 @@
+{
+  "title": "Who Opts Out? The Customisation of Marriage in the German Matrimonial Property Regime",
+  "abstract": "AbstractThis study examines the prevalence of marital contracts across marriage cohorts (1990–2019) in Germany. We further investigate the characteristics of spouses who signed a marital contract. Using cross-sectional data from the German Family Panel (pairfam, 2018/19), we employ complementary log–log and multinomial logistic regression models to predict the prevalence and the type of marital contracts. The results show that 5% of all married couples opt out of the default matrimonial property regime by signing a contract in Germany. Differentiating between contract types, most couples either specify a separation of property (40%) or modify the default community of accrued gains (31%). We find an increase in the prevalence of marital contracts across marriage cohorts. The decision to opt out of the default is strongly positively associated with self-employment that often requires the customisation of asset ownership structures within marriage. Married individuals with prior divorce experiences are more likely to opt for the separation of property, indicating that the awareness of the economic consequences of divorce promotes the individualisation of marriage. Our results are in line with the cross-national trend towards customised marriages, although the trend in Germany is less pronounced than in other countries.",
+  "authors": [
+    {
+      "raw": "Nutz, Theresa",
+      "family": "Nutz",
+      "given": "Theresa"
+    },
+    {
+      "raw": "Nelles, Anika",
+      "family": "Nelles",
+      "given": "Anika"
+    },
+    {
+      "raw": "Lersch, Philipp M.",
+      "family": "Lersch",
+      "given": "Philipp M."
+    }
+  ],
+  "authors_text": "Nutz, Theresa; Nelles, Anika; Lersch, Philipp M.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09613-8",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09613-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09613-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09613-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

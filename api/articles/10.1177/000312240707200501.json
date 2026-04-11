@@ -1,0 +1,25 @@
+{
+  "title": "Block, tract, and levels of aggregation: Neighborhood structure and crime and disorder as a case in point",
+  "abstract": "This article highlights the importance of considering the proper level of aggregation when estimating neighborhood effects. Using a unique nonrural subsample from a large national survey (the American Housing Survey) at three time points that allows placing respondents in blocks and census tracts, this study tests the appropriate level of aggregation of the structural characteristics hypothesized to affect block-level perceptions of crime and disorder I find that structural characteristics differ in their effects based on the level of aggregation employed. While the effects of racial/ethnic heterogeneity are fairly robust to the geographical level of aggregation, the stronger effects, when measured at the level of the surrounding census tract, suggest more dispersed networks are important for perceived crime and disorder. In contrast, economic resources only show a localized effect when aggregating to the block-level and differ based on the outcome; higher average income reduces disorder but increases crime, most likely by increasing the number of attractive targets. Additionally, the presence of broken households has a localized effect for social disorder but a more diffuse effect for perceived crime. These findings suggest the need for neighborhood studies of crime rates, as well as the broader neighborhood effects literature, to consider the mechanisms involved when aggregating various structural characteristics.",
+  "authors": [
+    {
+      "raw": "Hipp, John R.",
+      "family": "Hipp",
+      "given": "John R."
+    }
+  ],
+  "authors_text": "Hipp, John R.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2007,
+  "doi": "10.1177/000312240707200501",
+  "doi_url": "https://doi.org/10.1177/000312240707200501",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240707200501",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240707200501.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

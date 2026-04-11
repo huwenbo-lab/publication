@@ -1,0 +1,30 @@
+{
+  "title": "US Presidential Elections and the Spatial Pattern of the American Second Demographic Transition",
+  "abstract": "This research note is a sequel to an earlier article in this journal (Lesthaeghe and Neidert 2006) in which we documented a strong and robust spatial correlation between the 2000 and 2004 presidential election results on the one hand and the extent to which states and counties had evolved on the second demographic transition (SDT) dimension. At that time the critique was voiced that this was an exceptional result valid for the Bush elections only, given the prominence of the culture war issues during these election campaigns. This correlation was predicted to shrink substantially if economic issues instead of cultural and life style ones were dominant campaign topics. The 2008 Obama-McCain contest provides a good test for this proposition, since the elections took place at a time when economic issues had risen to great prominence in the debate. In this note we show that the spatial association between the vote for McCain and the county-or state-level values on the SDT dimension remained as strong and as robust as before. Moreover, controls for competing explanations again failed to weaken or eliminate the correlation with the SDT dimension. Instead, anomalies in the correlations in 2004 for several Southern and Appalachian states disappeared in 2008.",
+  "authors": [
+    {
+      "raw": "Lesthaeghe, Ron",
+      "family": "Lesthaeghe",
+      "given": "Ron"
+    },
+    {
+      "raw": "Neidert, Lisa",
+      "family": "Neidert",
+      "given": "Lisa"
+    }
+  ],
+  "authors_text": "Lesthaeghe, Ron; Neidert, Lisa",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2009,
+  "doi": "10.1111/j.1728-4457.2009.00284.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2009.00284.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2009.00284.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2009.00284.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

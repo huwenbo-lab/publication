@@ -1,0 +1,35 @@
+{
+  "title": "Men's and Women's Gender-Role Attitudes across the Transition to Parenthood: Accounting for Child's Gender",
+  "abstract": "Gender-role attitudes capture individuals' degree of support for traditional divisions of paid and domestic work and have been linked to the production and reproduction of gender inequality in different social spheres. Previous research has established that life-course transitions are related to within-individual over-time change in gender-role attitudes. Most importantly, becoming a parent is associated with shifts toward more traditional viewpoints. Theories of attitude change suggest that the gender of children should influence the pattern of gender-attitude shifts that accompany parenthood, but very few studies have investigated this. We add to this literature using Australian panel data from the Household, Income, and Labour Dynamics in Australia Survey (n = 29,918 observations) stretching over 15 years and fixed-effects panel regression models. We find that men's and women's gender-role attitudes become more traditional when they become parents, with evidence that this process is more pronounced among men, parents of daughters and, most of all, male parents of daughters.",
+  "authors": [
+    {
+      "raw": "Perales, Francisco",
+      "family": "Perales",
+      "given": "Francisco"
+    },
+    {
+      "raw": "Jarallah, Yara",
+      "family": "Jarallah",
+      "given": "Yara"
+    },
+    {
+      "raw": "Baxter, Janeen",
+      "family": "Baxter",
+      "given": "Janeen"
+    }
+  ],
+  "authors_text": "Perales, Francisco; Jarallah, Yara; Baxter, Janeen",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy015",
+  "doi_url": "https://doi.org/10.1093/sf/soy015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The Rise of One-Person Households",
+  "abstract": "In this visualization, the author shows the trend in the proportion of households that comprise only one person in 75 countries, representing 73 percent of the world’s population, using national data collected between 1960 and 2019. At the time of the latest observations for each country, the percentage of households that include only one person ranges from 2.6 (Cambodia) to 38 (Switzerland). Europe and the United States have the highest solo living rates, along with two African countries (South Africa and Botswana, both severely affected by the HIV/AIDS epidemic), Israel, Jamaica, and Puerto Rico. In all, 53 of the 75 countries exhibit increases in one-person households, including all European countries. Those with (generally much smaller) declines are disproportionately in Africa and Asia, including China and India.",
+  "authors": [
+    {
+      "raw": "Cohen, Philip N.",
+      "family": "Cohen",
+      "given": "Philip N."
+    }
+  ],
+  "authors_text": "Cohen, Philip N.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211062315",
+  "doi_url": "https://doi.org/10.1177/23780231211062315",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211062315",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211062315.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

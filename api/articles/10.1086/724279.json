@@ -1,0 +1,40 @@
+{
+  "title": "Are Neighborhood Effects Explained by Differences in School Quality?",
+  "abstract": "It is widely hypothesized that neighborhood effects on academic achievement are explained by differences in the quality of schools attended by resident children. The authors evaluate this hypothesis using data from the Early Childhood Longitudinal Study and a diverse set of measures to capture a school's effectiveness, resources, and climate. They implement a novel decomposition that separates the overall effect of neighborhood poverty into components due to mediation versus interaction via these different factors. Results indicate that living in a disadvantaged neighborhood reduces academic achievement. But the authors find little evidence that neighborhood effects are mediated by or interact with any of their measures for school quality. The authors discuss the implications of these findings for theory, research, and policy, addressing the link between concentrated poverty and educational inequality.",
+  "authors": [
+    {
+      "raw": "Wodtke, Geoffrey T.",
+      "family": "Wodtke",
+      "given": "Geoffrey T."
+    },
+    {
+      "raw": "Yildirim, Ugur",
+      "family": "Yildirim",
+      "given": "Ugur"
+    },
+    {
+      "raw": "Harding, David J.",
+      "family": "Harding",
+      "given": "David J."
+    },
+    {
+      "raw": "Elwert, Felix",
+      "family": "Elwert",
+      "given": "Felix"
+    }
+  ],
+  "authors_text": "Wodtke, Geoffrey T.; Yildirim, Ugur; Harding, David J.; Elwert, Felix",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1086/724279",
+  "doi_url": "https://doi.org/10.1086/724279",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F724279",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/724279.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

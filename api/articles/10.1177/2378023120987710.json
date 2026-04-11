@@ -1,0 +1,30 @@
+{
+  "title": "Who Stays Physically Active during COVID-19? Inequality and Exercise Patterns in the United States",
+  "abstract": "Exercising is crucial to keeping up physical and mental health during the coronavirus disease 2019 (COVID-19) pandemic. In this visualization, the authors consider how existing social inequalities may create unequal physical exercise patterns during COVID-19 in the United States. Analyzing data from a nationally representative Internet panel of the University of Southern California Center for Economic and Social Research Understanding Coronavirus in America project (March to December), the authors find that although all Americans have become physically more active since the outbreak, the pandemic has also exacerbated the inequality in physical exercise. Specifically, the authors show that the gaps in physical exercise have widened substantially between men and women, whites and nonwhites, the rich and the poor, and the educated and the less educated. Policy interventions addressing the widening inequality in physical activity can help minimize the disproportionate mental health impact of the pandemic on disadvantaged populations.",
+  "authors": [
+    {
+      "raw": "Sher, Chloe",
+      "family": "Sher",
+      "given": "Chloe"
+    },
+    {
+      "raw": "Wu, Cary",
+      "family": "Wu",
+      "given": "Cary"
+    }
+  ],
+  "authors_text": "Sher, Chloe; Wu, Cary",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/2378023120987710",
+  "doi_url": "https://doi.org/10.1177/2378023120987710",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120987710",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120987710.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

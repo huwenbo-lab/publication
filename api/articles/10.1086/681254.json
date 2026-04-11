@@ -1,0 +1,35 @@
+{
+  "title": "Why Do Liberals Drink Lattes?",
+  "abstract": "Popular accounts of lifestyle politics and culture wars suggest that political and ideological divisions extend also to leisure activities, consumption, aesthetic taste, and personal morality. Drawing on a total of 22,572 pairwise correlations from the General Social Survey (1972-2010), the authors provide comprehensive empirical support for the anecdotal accounts. Moreover, most ideological differences in lifestyle cannot be explained by demographic covariates alone. The authors propose a surprisingly simple solution to the puzzle of lifestyle politics. Computational experiments show how the self-reinforcing dynamics of homophily and influence dramatically amplify even very small elective affinities between lifestyle and ideology, producing a stereotypical world of latte liberals and bird-hunting conservatives much like the one in which we live.",
+  "authors": [
+    {
+      "raw": "DellaPosta, Daniel",
+      "family": "DellaPosta",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Shi, Yongren",
+      "family": "Shi",
+      "given": "Yongren"
+    },
+    {
+      "raw": "Macy, Michael",
+      "family": "Macy",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "DellaPosta, Daniel; Shi, Yongren; Macy, Michael",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2015,
+  "doi": "10.1086/681254",
+  "doi_url": "https://doi.org/10.1086/681254",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F681254",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/681254.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

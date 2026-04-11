@@ -1,0 +1,30 @@
+{
+  "title": "Does Population Diversity Matter for Economic Development in the Very Long Term? Historic Migration, Diversity and County Wealth in the US",
+  "abstract": "Does population diversity matter for economic development in the long run? Is there a different impact of diversity across time? This paper traces the short-, medium- and long-term economic impact of population diversity resulting from the big migration waves of the late nineteenth and early twentieth centuries to the United States (US). Using census data from 1880, 1900 and 1910, the settlement pattern of migrants across the counties of the 48 US continental states is tracked in order to construct measures of population fractionalization and polarization at county level. Factors which may have influenced both the individual settlement decision at the time of migration and county-level economic development in recent years are controlled for. The results of the analysis show that high levels of population fractionalization have a strong and positive influence on economic development in the short, medium and long run. High levels of polarization, by contrast, undermine development. Despite a stronger effect on income levels in the first 30 years, we find these relationships to be extremely long lasting: counties with a more heterogeneous population composition over 130 years ago are significantly richer today, whereas counties that were strongly polarized at the time of the migration waves have endured persistent negative economic effects.",
+  "authors": [
+    {
+      "raw": "Rodríguez-Pose, Andrés",
+      "family": "Rodríguez-Pose",
+      "given": "Andrés"
+    },
+    {
+      "raw": "von Berlepsch, Viola",
+      "family": "von Berlepsch",
+      "given": "Viola"
+    }
+  ],
+  "authors_text": "Rodríguez-Pose, Andrés; von Berlepsch, Viola",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9507-z",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9507-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9507-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9507-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Gender-Based Occupational Segregation and Sex Differences in Sensory, Motor, and Spatial Aptitudes",
+  "abstract": "Research on sex differences in humans documents gender differences in sensory, motor, and spatial aptitudes. These aptitudes, as captured by Dictionary of Occupational Titles (DOT) codes, predict the occupational choices of men and women in the directions indicated by this research. We simulate that eliminating selection on these skills reduces the Duncan index of gender-based occupational segregation by 20 % to 23 % in 1970 and 2012, respectively. Eliminating selection on DOT variables capturing other accounts of this segregation has a smaller impact.",
+  "authors": [
+    {
+      "raw": "Baker, Michael",
+      "family": "Baker",
+      "given": "Michael"
+    },
+    {
+      "raw": "Cornelson, Kirsten",
+      "family": "Cornelson",
+      "given": "Kirsten"
+    }
+  ],
+  "authors_text": "Baker, Michael; Cornelson, Kirsten",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0706-3",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0706-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0706-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0706-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

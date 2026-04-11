@@ -1,0 +1,30 @@
+{
+  "title": "Heterogeneity in Post-materialist Value Priorities. Evidence from a Latent Class Discrete Choice Approach",
+  "abstract": "Protagonists of values theory such as Inglehart-among others-have argued that values should be conceived of as relative priorities rather than absolute preferences. As such they insist on using ranking techniques of measurement which generates choice data. In this study, we aim at validating the measurement of Inglehart's (post-)materialism by means of a latent class discrete choice model. We argue that from a statistical point of view this is the appropriate way of dealing with ranking data. Furthermore, the analyses revealed a heterogeneity in (post-)materialist value priorities that has previously been left unobserved. Consistent with Inglehart's research a post-materialist class is discerned irrespective of the number of latent classes that is selected. However, as far as materialism is concerned three different types of materialist concerns can be distinguished. The validity of the empirical typology is further demonstrated by linking it to key covariates and political attitudes.",
+  "authors": [
+    {
+      "raw": "Moors, G.",
+      "family": "Moors",
+      "given": "G."
+    },
+    {
+      "raw": "Vermunt, J.",
+      "family": "Vermunt",
+      "given": "J."
+    }
+  ],
+  "authors_text": "Moors, G.; Vermunt, J.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2007,
+  "doi": "10.1093/esr/jcm027",
+  "doi_url": "https://doi.org/10.1093/esr/jcm027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcm027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcm027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

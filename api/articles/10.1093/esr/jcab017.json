@@ -1,0 +1,60 @@
+{
+  "title": "The Polish Panel Survey, POLPAN",
+  "abstract": "The Polish Panel Survey POLPAN provides data infrastructure to analyze the dynamics of social inequality from a life-course perspective. Historical events shape the study's research design. In 19871988, 5,817 randomly sampled men and women aged 21-65 are interviewed in what is still state socialist Poland. Soon after, their lives are upended by the profound transformations that the anti-communist revolutions in Eastern Europe triggered. To understand how people transition to the emerging social structure, close to half of the respondents are re-interviewed in 1993. This sample serves as a panel that we follow every 5 years, most recently in 2018. Since 1998, POLPAN waves feature renewal samples of the youngest cohort that become part of the panel. Participants are interviewed face-to-face on a wide range of topics, including educational and occupational careers, psychological functioning, physical and mental health, political behaviours, and social attitudes. These topics address POLPAN's overarching research problem, how does social position influence individual biographies and social networks, and how do individual choices that peoples' biographies and networks reflect, in turn influence their later social standing. A multi-dimensional approach to data quality informs POLPAN methodology and the decision to publicly share the project's products, including datasets and analytic tools.",
+  "authors": [
+    {
+      "raw": "Tomescu-Dubrow, Irina",
+      "family": "Tomescu-Dubrow",
+      "given": "Irina"
+    },
+    {
+      "raw": "Slomczynski, Kazimierz M.",
+      "family": "Slomczynski",
+      "given": "Kazimierz M."
+    },
+    {
+      "raw": "Sawinski, Zbigniew",
+      "family": "Sawinski",
+      "given": "Zbigniew"
+    },
+    {
+      "raw": "Kiersztyn, Anna",
+      "family": "Kiersztyn",
+      "given": "Anna"
+    },
+    {
+      "raw": "Janicka, Krystyna",
+      "family": "Janicka",
+      "given": "Krystyna"
+    },
+    {
+      "raw": "Zyczynska-Ciolek, Danuta",
+      "family": "Zyczynska-Ciolek",
+      "given": "Danuta"
+    },
+    {
+      "raw": "Wysmulek, Ilona",
+      "family": "Wysmulek",
+      "given": "Ilona"
+    },
+    {
+      "raw": "Kotnarowski, Michal",
+      "family": "Kotnarowski",
+      "given": "Michal"
+    }
+  ],
+  "authors_text": "Tomescu-Dubrow, Irina; Slomczynski, Kazimierz M.; Sawinski, Zbigniew; Kiersztyn, Anna; Janicka, Krystyna; Zyczynska-Ciolek, Danuta; Wysmulek, Ilona; Kotnarowski, Michal",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcab017",
+  "doi_url": "https://doi.org/10.1093/esr/jcab017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

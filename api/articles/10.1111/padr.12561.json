@@ -1,0 +1,40 @@
+{
+  "title": "Fertility Intentions During the Covid-19 Pandemic: An Analysis of Individual- and Municipality-Level Determinants",
+  "abstract": "Recognizing the prolonged, uneven, and evolving nature of the Covid-19 pandemic, this study provides one of the first dynamic, multilevel perspectives of women's fertility intentions in response to the pandemic and its multifaceted impacts. We examine how evolving individual- and community-level Covid-19 risk mechanisms and socioeconomic and life-course conditions are associated with continuity and change in women's fertility intentions. We combine individual-level panel data from a population-based sample of women aged 18-34 in Pernambuco, Brazil in 2020 and 2021 with corresponding administrative data from 94 municipalities. We use multinomial logit regressions to model continuity and change in fertility intentions across waves. We then estimate fixed effect models to highlight the time-varying determinants of changing fertility intentions while accounting for unobserved, time-invariant individual factors. We find that high and/or increasing individual and community-level Covid-19 exposure is associated with a greater likelihood of abandoning initial childbearing plans and a greater likelihood to maintain intentions to forego versus to intend having additional children. We advance the literature by highlighting how individual-level Covid-19 infection risk perceptions matter for fertility intentions, net of community-level exposure, and the necessity of dynamic perspectives for understanding how fertility intentions have changed (or not) in response to the pandemic.",
+  "authors": [
+    {
+      "raw": "Marteleto, Leticia J.",
+      "family": "Marteleto",
+      "given": "Leticia J."
+    },
+    {
+      "raw": "Kumar, Sneha",
+      "family": "Kumar",
+      "given": "Sneha"
+    },
+    {
+      "raw": "Dondero, Molly",
+      "family": "Dondero",
+      "given": "Molly"
+    },
+    {
+      "raw": "Sereno, Luiz Gustavo Fernandes",
+      "family": "Sereno",
+      "given": "Luiz Gustavo Fernandes"
+    }
+  ],
+  "authors_text": "Marteleto, Leticia J.; Kumar, Sneha; Dondero, Molly; Sereno, Luiz Gustavo Fernandes",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12561",
+  "doi_url": "https://doi.org/10.1111/padr.12561",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12561",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12561.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

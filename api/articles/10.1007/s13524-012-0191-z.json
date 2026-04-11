@@ -1,0 +1,35 @@
+{
+  "title": "Parametric and Nonparametric Analysis of Life Courses: An Application to Family Formation Patterns",
+  "abstract": "Abstract We discuss a unified approach to the description and explanation of life course patterns represented as sequences of states observed in discrete time. In particular, we study life course data collected as part of the Dutch Fertility and Family Surveys (FFS) to learn about the family formation behavior of 1,897 women born between 1953 and 1962. Retrospective monthly data were available on each 18- to 30-year-old woman living either with or without children as single, married, or cohabiting. We first study via a nonparametric approach which factors explain the pairwise dissimilarities observed between life courses. Permutation distribution inference allows for the study of the statistical significance of the effect of a set of covariates of interest. We then develop a parametric model for the sequence-generating process that can be used to describe state transitions and durations conditional on covariates and conditional on having observed an initial segment of the trajectory. Fitting ofthe proposed model and the corresponding model selection process are based on the observed data likelihood. We discuss the application of the methods to the FFS.",
+  "authors": [
+    {
+      "raw": "Bonetti, Marco",
+      "family": "Bonetti",
+      "given": "Marco"
+    },
+    {
+      "raw": "Piccarreta, Raffaella",
+      "family": "Piccarreta",
+      "given": "Raffaella"
+    },
+    {
+      "raw": "Salford, Gaia",
+      "family": "Salford",
+      "given": "Gaia"
+    }
+  ],
+  "authors_text": "Bonetti, Marco; Piccarreta, Raffaella; Salford, Gaia",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-012-0191-z",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0191-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0191-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0191-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

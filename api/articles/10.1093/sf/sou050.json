@@ -1,0 +1,45 @@
+{
+  "title": "Personality and the Reproduction of Social Class",
+  "abstract": "A burgeoning literature in psychology and economics examines how personality characteristics predict indicators of attained status. We build on this research by suggesting that connections between personality and attained status are also socially contingent: Valued personality characteristics are stronger predictors of attainments at lower levels of parent education (the resource substitution hypothesis), but such characteristics are less likely among the children of less educated parents (the structural amplification hypothesis). We examine these possibilities by drawing on the Mini-IPIP (a standardized instrument assessing personality), the National Longitudinal Study of Adolescent Health, and a statistical framework to test for moderated mediation. Results reveal that (1) personality characteristics have notable associations with educational attainment, hourly wages, and self-direction at work; (2) personality often has stronger associations with status attainments at lower levels of parent education; and (3) personality is a weak mediator of associations between parent education and attained status. That is, the children of less educated parents may benefit more from valued personality characteristics, but they are slightly less likely to possess such characteristics. These results are discussed in terms of new avenues for research into diverse forms of capital and status attainment.",
+  "authors": [
+    {
+      "raw": "Shanahan, M. J.",
+      "family": "Shanahan",
+      "given": "M. J."
+    },
+    {
+      "raw": "Bauldry, S.",
+      "family": "Bauldry",
+      "given": "S."
+    },
+    {
+      "raw": "Roberts, B. W.",
+      "family": "Roberts",
+      "given": "B. W."
+    },
+    {
+      "raw": "Macmillan, R.",
+      "family": "Macmillan",
+      "given": "R."
+    },
+    {
+      "raw": "Russo, R.",
+      "family": "Russo",
+      "given": "R."
+    }
+  ],
+  "authors_text": "Shanahan, M. J.; Bauldry, S.; Roberts, B. W.; Macmillan, R.; Russo, R.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2014,
+  "doi": "10.1093/sf/sou050",
+  "doi_url": "https://doi.org/10.1093/sf/sou050",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou050",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou050.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

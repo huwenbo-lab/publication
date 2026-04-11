@@ -1,0 +1,30 @@
+{
+  "title": "Family Formation and Employment Changes Among Descendants of Immigrants in France: A Multiprocess Analysis",
+  "abstract": "Abstract This paper investigates the association between family formation and the labour market trajectories of immigrants’ descendants over the life course. Using rich data from the Trajectories and Origins survey from France, we apply multilevel event history models to analyse the transitions in and out of employment for both men and women by parity. We account for unobserved co-determinants of childbearing and employment by applying a simultaneous-equations modelling. Our analysis shows that women’s professional careers are negatively associated with childbirth. There are differences across descendant groups. The female descendants of Turkish immigrants are more likely to exit employment and less likely to re-enter employment following childbirth than women from other groups. The negative impact of childbearing on employment is slightly overestimated among women due to unobserved selection effects. Among men, the descendants of European immigrants are less likely to exit employment after having a child than other descendant groups. The study demonstrates the negative effect of childbearing on women’s employment, which is pronounced for some minority groups suggesting the need for further policies to help women reconcile work with family life.",
+  "authors": [
+    {
+      "raw": "Delaporte, Isaure",
+      "family": "Delaporte",
+      "given": "Isaure"
+    },
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    }
+  ],
+  "authors_text": "Delaporte, Isaure; Kulu, Hill",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-024-09709-3",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09709-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09709-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09709-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

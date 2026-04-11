@@ -1,0 +1,30 @@
+{
+  "title": "Family Systems and Parents' Financial Support for Education in Early Adulthood",
+  "abstract": "Young adults raised outside of two-parent families receive less financial support from their families for education compared with peers who always lived with both parents. We consider how parents' union status over time shapes contributions for young adult children's education. Our approach emphasizes the dynamic relationship between family structure and family economic resources. Marginal structural models with inverse probability weights estimate the association of parents' union status history with eventual financial transfers while not overcontrolling for the effects of union status operating indirectly through time-varying characteristics, such as coresident family composition and economic circumstances. The analytic sample includes parents of a recent cohort of young adults (Panel Study of Income Dynamics, 1983-2013, N = 2,754). Compared with parents who lived continuously with a child's other parent, unpartnered parents' transfers to children were 44 % to 90 % smaller, and repartnered parents' transfers were one- to two-thirds smaller, depending on how long the parent was unpartnered or repartnered. Through its influence on subsequent coresident family composition and family economic resources, parents' union status has indirect as well as direct associations with financial transfers to adult children for education.",
+  "authors": [
+    {
+      "raw": "Fomby, Paula",
+      "family": "Fomby",
+      "given": "Paula"
+    },
+    {
+      "raw": "Kravitz-Wirtz, Nicole",
+      "family": "Kravitz-Wirtz",
+      "given": "Nicole"
+    }
+  ],
+  "authors_text": "Fomby, Paula; Kravitz-Wirtz, Nicole",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00807-0",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00807-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00807-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00807-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

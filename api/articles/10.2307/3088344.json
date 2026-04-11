@@ -1,0 +1,35 @@
+{
+  "title": "The Effects of Early Maternal Employment on Child Cognitive Development",
+  "abstract": "We investigated the effects of early maternal employment on children's cognitive outcomes, using data from the National Longitudinal Survey of Youth on 1,872 children who can be followed from birth to age 7 or 8. We found some persistent adverse effects of first-year maternal employment and some positive effects of second- and third-year maternal employment on cognitive outcomes for non-Hispanic white children, but not for African American or Hispanic children. These effects are present even after we controlled for a range of individual and family characteristics that affect child development, including those that are likely to be correlated with maternal employment, such as breast-feeding and the use of nonmaternal child care. Controlling for family fixed effects reduces the effects of early maternal employment on some cognitive outcomes but not on others.",
+  "authors": [
+    {
+      "raw": "Waldfogel, Jane",
+      "family": "Waldfogel",
+      "given": "Jane"
+    },
+    {
+      "raw": "Han, Wen-Jui",
+      "family": "Han",
+      "given": "Wen-Jui"
+    },
+    {
+      "raw": "Brooks-Gunn, Jeanne",
+      "family": "Brooks-Gunn",
+      "given": "Jeanne"
+    }
+  ],
+  "authors_text": "Waldfogel, Jane; Han, Wen-Jui; Brooks-Gunn, Jeanne",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.2307/3088344",
+  "doi_url": "https://doi.org/10.2307/3088344",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088344",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088344.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

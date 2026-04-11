@@ -1,0 +1,40 @@
+{
+  "title": "Divorced Fathers’ Proximity and Children’s Long-Run Outcomes: Evidence From Norwegian Registry Data",
+  "abstract": "Abstract This study examines the link between divorced nonresident fathers’ proximity and children’s long-run outcomes, using high-quality data from Norwegian population registers. We follow (from birth to young adulthood) each of 15,992 children born into married households in Norway in the years 1975–1979 whose parents divorced during his or her childhood. We observe the proximity of the child to his or her father in each year following the divorce and link proximity to educational and economic outcomes for the child in young adulthood, controlling for a wide range of observable characteristics of the parents and the child. Our results show that closer proximity to the father following a divorce has, on average, a modest negative association with offspring’s outcomes in young adulthood. The negative associations are stronger among children of highly educated fathers. Complementary Norwegian survey data show that highly educated fathers report more post-divorce conflict with their ex-wives as well as more contact with their children (measured in terms of the number of nights that the child spends at the father’s house). Consequently, the father’s relocation to a more distant location following the divorce may shelter the child from disruptions in the structure of the child’s life as they split time between households and/or from post-divorce interparental conflict.",
+  "authors": [
+    {
+      "raw": "Kalil, Ariel",
+      "family": "Kalil",
+      "given": "Ariel"
+    },
+    {
+      "raw": "Mogstad, Magne",
+      "family": "Mogstad",
+      "given": "Magne"
+    },
+    {
+      "raw": "Rege, Mari",
+      "family": "Rege",
+      "given": "Mari"
+    },
+    {
+      "raw": "Votruba, Mark",
+      "family": "Votruba",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Kalil, Ariel; Mogstad, Magne; Rege, Mari; Votruba, Mark",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0046-z",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0046-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0046-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0046-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

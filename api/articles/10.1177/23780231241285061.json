@@ -1,0 +1,35 @@
+{
+  "title": "Political Context and State-Level Health Behavior Disparities",
+  "abstract": "Geographical residence predicts health and well-being. Population health, life expectancy, and mortality are partially the outcome of the characteristics of one’s social policy context. Yet how do such links occur? We extend focus from health outcomes to health behaviors and from a policy context to a broader political context. Using 20 waves of the Centers for Disease Control and Prevention Behavioral Risk Factor Surveillance System between 1993 and 2021 in combination with the Correlates of State Policy Project, we find that right-leaning political contexts—both policies and public attitudes—are predictive of riskier health behaviors. Counterfactual simulations show that these associations are due less to states becoming more different over time but rather, with political contexts increasing in their predictiveness over time. Results from this study broaden the pathways linking local politics to health and identify a key antecedent, health behaviors, that helps explain political context’s influence on health.",
+  "authors": [
+    {
+      "raw": "VanHeuvelen, Jane S.",
+      "family": "VanHeuvelen",
+      "given": "Jane S."
+    },
+    {
+      "raw": "Wang, Yi",
+      "family": "Wang",
+      "given": "Yi"
+    },
+    {
+      "raw": "VanHeuvelen, Tom",
+      "family": "VanHeuvelen",
+      "given": "Tom"
+    }
+  ],
+  "authors_text": "VanHeuvelen, Jane S.; Wang, Yi; VanHeuvelen, Tom",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241285061",
+  "doi_url": "https://doi.org/10.1177/23780231241285061",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241285061",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241285061.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

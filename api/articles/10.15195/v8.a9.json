@@ -1,0 +1,35 @@
+{
+  "title": "Neighborhood Isolation during the COVID-19 Pandemic",
+  "abstract": "The COVID-19 pandemic has disrupted Americans’ daily mobility, which could contribute to greater social stratification. Relying on SafeGraph cell phone movement data from 2019 and 2020, we use two indices proposed by Phillips and colleagues (2019) to measure mobility inequality between census tracts in the 25 largest U.S. cities. These measures capture the importance of hubs and neighborhood isolation in a network. In the earliest phases of the pandemic, neighborhood isolation rapidly increased, and the importance of downtown central business districts declined. Mobility hubs generally regained their importance, whereas neighborhood isolation remained elevated and increased again during the latter half of 2020. Linear regression models with city and week fixed effects find that new COVID-19 cases are positively associated with neighborhood isolation changes a week later. Additionally, places with larger populations, more public transportation use, and greater racial and ethnic segregation had larger increases in neighborhood isolation during 2020.",
+  "authors": [
+    {
+      "raw": "Marlow, Thomas",
+      "family": "Marlow",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Makovi, Kinga",
+      "family": "Makovi",
+      "given": "Kinga"
+    },
+    {
+      "raw": "Abrahao, Bruno",
+      "family": "Abrahao",
+      "given": "Bruno"
+    }
+  ],
+  "authors_text": "Marlow, Thomas; Makovi, Kinga; Abrahao, Bruno",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2021,
+  "doi": "10.15195/v8.a9",
+  "doi_url": "https://doi.org/10.15195/v8.a9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv8.a9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v8.a9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

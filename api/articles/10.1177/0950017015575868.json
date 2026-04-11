@@ -1,0 +1,35 @@
+{
+  "title": "Exploring the private pension gender gap and occupation in later working life",
+  "abstract": "This article investigates the gender gap in private pension (PP) membership and wealth across different occupations among a cohort of employees using data from the English Longitudinal Study of Ageing. Using a Heckman selection model to correct for selection bias the results show that gender has a stronger effect than occupation on PP membership and that it is female employees’ lower rate of PP membership that has the greatest impact on their ability to accumulate PP wealth, rather than their ability to save once a member. The size of the gender gap in PP wealth is also conditioned by occupation. Analysis of the interaction of these two variables provides new insights into the heterogeneity of women’s private pension experience and the emergence of a ‘privileged pole’ among professional women.",
+  "authors": [
+    {
+      "raw": "Gardiner, Jean",
+      "family": "Gardiner",
+      "given": "Jean"
+    },
+    {
+      "raw": "Robinson, Andrew M",
+      "family": "Robinson",
+      "given": "Andrew M"
+    },
+    {
+      "raw": "Fakhfakh, Fathi",
+      "family": "Fakhfakh",
+      "given": "Fathi"
+    }
+  ],
+  "authors_text": "Gardiner, Jean; Robinson, Andrew M; Fakhfakh, Fathi",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2016,
+  "doi": "10.1177/0950017015575868",
+  "doi_url": "https://doi.org/10.1177/0950017015575868",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017015575868",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017015575868.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

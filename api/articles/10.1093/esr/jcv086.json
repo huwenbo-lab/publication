@@ -1,0 +1,35 @@
+{
+  "title": "The Impact of Accession to the European Union on Homicide Rates in Eastern Europe",
+  "abstract": "The present study builds on previous work by Andresen by examining the effects of entry into the European Union (EU) on the levels of homicide in the 10 Eastern European countries that joined the EU in 2004 and 2007. Andresen's research has indicated that accession to the EU led to increased levels of violent crime across municipalities in Lithuania over the 2001-2006 period. We go beyond prior work by using pooled cross-sectional time-series data that cover approximately 20 years for these 10 Eastern European nations. The results from fixed-effects regression analyses at the national level are generally consistent with Andresen's research, indicating that entry into the EU is positively associated with levels of homicide. In addition, we find that economic growth has a negative effect on homicide rates, whereas the divorce rate and income inequality have positive effects on homicide rates. These findings reaffirm for the sample of Eastern European countries results reported for other cross-national samples. However, our analyses also reveal that these structural covariates do not account for the observed relationship between EU entry and homicide rates. We conclude with a discussion of the some of the mechanisms that might be responsible for the EU effect.",
+  "authors": [
+    {
+      "raw": "Piatkowska, Sylwia J.",
+      "family": "Piatkowska",
+      "given": "Sylwia J."
+    },
+    {
+      "raw": "Messner, Steven F.",
+      "family": "Messner",
+      "given": "Steven F."
+    },
+    {
+      "raw": "Raffalovich, Lawrence E.",
+      "family": "Raffalovich",
+      "given": "Lawrence E."
+    }
+  ],
+  "authors_text": "Piatkowska, Sylwia J.; Messner, Steven F.; Raffalovich, Lawrence E.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcv086",
+  "doi_url": "https://doi.org/10.1093/esr/jcv086",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv086",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv086.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

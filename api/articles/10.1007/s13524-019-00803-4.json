@@ -1,0 +1,45 @@
+{
+  "title": "Predicting the Effect of Adding a Citizenship Question to the 2020 Census",
+  "abstract": "The addition of a citizenship question to the 2020 census could affect the self-response rate, a key driver of the cost and quality of a census. We find that citizenship question response patterns in the American Community Survey (ACS) suggest that it is a sensitive question when asked about administrative record noncitizens but not when asked about administrative record citizens. ACS respondents who were administrative record noncitizens in 2017 frequently choose to skip the question or answer that the person is a citizen. We predict the effect on self-response to the entire survey by comparing mail response rates in the 2010 ACS, which included a citizenship question, with those of the 2010 census, which did not have a citizenship question, among households in both surveys. We compare the actual ACS-census difference in response rates for households that may contain noncitizens (more sensitive to the question) with the difference for households containing only U.S. citizens. We estimate that the addition of a citizenship question will have an 8.0 percentage point larger effect on self-response rates in households that may have noncitizens relative to those with only U.S. citizens. Assuming that the citizenship question does not affect unit self-response in all-citizen households and applying the 8.0 percentage point drop to the 28.1% of housing units potentially having at least one noncitizen would predict an overall 2.2 percentage point drop in self-response in the 2020 census, increasing costs and reducing the quality of the population count.",
+  "authors": [
+    {
+      "raw": "Brown, J. David",
+      "family": "Brown",
+      "given": "J. David"
+    },
+    {
+      "raw": "Heggeness, Misty L.",
+      "family": "Heggeness",
+      "given": "Misty L."
+    },
+    {
+      "raw": "Dorinski, Suzanne M.",
+      "family": "Dorinski",
+      "given": "Suzanne M."
+    },
+    {
+      "raw": "Warren, Lawrence",
+      "family": "Warren",
+      "given": "Lawrence"
+    },
+    {
+      "raw": "Yi, Moises",
+      "family": "Yi",
+      "given": "Moises"
+    }
+  ],
+  "authors_text": "Brown, J. David; Heggeness, Misty L.; Dorinski, Suzanne M.; Warren, Lawrence; Yi, Moises",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00803-4",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00803-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00803-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00803-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Social diversity and social cohesion in Britain",
+  "abstract": "We use data from a large-scale and nationally representative survey to examine whether there is in Britain a trade-off between social diversity and social cohesion. Using six separate measures of social cohesion (generalised trust, volunteering, giving to charity, inter-ethnic friendship, and two neighbourhood cohesion scales) and four measures of social diversity (ethnic fractionalisation, religious fractionalisation, percentage Muslim, and percentage foreign-born), we show that, net of individual covariates, there is a negative association between social diversity and most measures of social cohesion. But these associations largely disappear when neighbourhood deprivation is taken into account. These results are robust to alternative definitions of neighbourhood. We also investigate the possibility that the diversity--cohesion trade-off is found in more segregated neighbourhoods. But we find very little evidence to support that claim. Overall, it is material deprivation, not diversity, that undermines social cohesion.",
+  "authors": [
+    {
+      "raw": "Chan, Tak Wing",
+      "family": "Chan",
+      "given": "Tak Wing"
+    },
+    {
+      "raw": "Kawalerowicz, Juta",
+      "family": "Kawalerowicz",
+      "given": "Juta"
+    }
+  ],
+  "authors_text": "Chan, Tak Wing; Kawalerowicz, Juta",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1111/1468-4446.13094",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13094",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13094",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13094.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

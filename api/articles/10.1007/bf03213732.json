@@ -1,0 +1,30 @@
+{
+  "title": "Divorce as risky behavior",
+  "abstract": "AbstractGiven that divorce often represents a high-stakes income gamble, we ask how individual levels of risk tolerance affect the decision to divorce. We extend the orthodox divorce model by assuming that individuals are risk averse, that marriage is risky, and that divorce is even riskier. The model predicts that conditional on the expected gains to marriage and divorce, the probability of divorce increases with relative risk tolerance because risk averse individuals require compensation for the additional risk that is inherent in divorce. To implement the model empirically, we use data for first-married women and men from the 1979 National Longitudinal Survey of Youth to estimate a probit model of divorce in which a measure of risk tolerance is among the covariates. The estimates reveal that a 1-point increase in risk tolerance raises the predicted probability of divorce by 4.3% for a representative man and by 11.4% for a representative woman. These findings are consistent with the notion that divorce entails a greater income gamble for women than for men.",
+  "authors": [
+    {
+      "raw": "Light, Audrey",
+      "family": "Light",
+      "given": "Audrey"
+    },
+    {
+      "raw": "Ahn, Taehyun",
+      "family": "Ahn",
+      "given": "Taehyun"
+    }
+  ],
+  "authors_text": "Light, Audrey; Ahn, Taehyun",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1007/bf03213732",
+  "doi_url": "https://doi.org/10.1007/bf03213732",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fbf03213732",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/bf03213732.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

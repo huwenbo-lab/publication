@@ -1,0 +1,30 @@
+{
+  "title": "Girls' self-efficacy in the context of neighborhood gender stratification",
+  "abstract": "Scholars have linked neighborhood characteristics to self-efficacy, but few have considered how gender factors into this association. We integrate literature on neighborhoods, gender stratification, and self-efficacy to examine the association between women's relative resources among neighborhood residents and adolescents' self-efficacy. We hypothesize that girls report more self efficacy when they reside in neighborhoods where women have more socioeconomic resources relative to men. We test this hypothesis using data from the Project on Human Development in Chicago Neighborhoods and the 1990 Census. Results from multilevel regression models with gender-interacted effects indicate the neighborhood level of women's relative resources was not associated with boys' self-efficacy. However, girls reported higher self-efficacy when women's relative resources in their neighborhoods were greater. This association persisted after including potential individual- and neighborhood-level confounding variables. Our study underscores the importance of attending to gendered processes when understanding how neighborhoods impact youth.",
+  "authors": [
+    {
+      "raw": "Soller, Brian",
+      "family": "Soller",
+      "given": "Brian"
+    },
+    {
+      "raw": "Jackson, Aubrey L.",
+      "family": "Jackson",
+      "given": "Aubrey L."
+    }
+  ],
+  "authors_text": "Soller, Brian; Jackson, Aubrey L.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.01.005",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.01.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.01.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.01.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

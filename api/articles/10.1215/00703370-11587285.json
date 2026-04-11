@@ -1,0 +1,45 @@
+{
+  "title": "The Fertility Transition in Sub-Saharan Africa: The Role of Structural Change",
+  "abstract": "Despite recent economic growth and reductions in child mortality in many African countries, the region has experienced a slow fertility transition. In this study, we explore whether the slow structural economic change on the continent can explain this discrepancy. We construct a unique panel dataset combining Demographic and Health Surveys and nighttime light intensity data (an indicator of industrialization) from 57 coun tries at the subnational region level over three decades to analyze the drivers of fertility transitions across low- and middle-income countries. Our results confirm that household wealth, reduced child mortality, and female primary education are crucial for fertility declines. However, our analysis also highlights the importance of indicators of structural economic change, including the share of labor in nonagricultural occupations, industriali zation, the share of women with higher education, and the formalization of the economy. Our simulations suggest that if highfertility countries in subSaharan Africa underwent structural economic transformations comparable to those of other low and middleincome countries with low fertility rates, their fertility levels could fall by 1 to 1.6 children.",
+  "authors": [
+    {
+      "raw": "Buttner, Nicolas",
+      "family": "Buttner",
+      "given": "Nicolas"
+    },
+    {
+      "raw": "Grimm, Michael",
+      "family": "Grimm",
+      "given": "Michael"
+    },
+    {
+      "raw": "Gunther, Isabel",
+      "family": "Gunther",
+      "given": "Isabel"
+    },
+    {
+      "raw": "Harttgen, Kenneth",
+      "family": "Harttgen",
+      "given": "Kenneth"
+    },
+    {
+      "raw": "Klasen, Stephan",
+      "family": "Klasen",
+      "given": "Stephan"
+    }
+  ],
+  "authors_text": "Buttner, Nicolas; Grimm, Michael; Gunther, Isabel; Harttgen, Kenneth; Klasen, Stephan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11587285",
+  "doi_url": "https://doi.org/10.1215/00703370-11587285",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11587285",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11587285.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

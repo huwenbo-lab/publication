@@ -1,0 +1,40 @@
+{
+  "title": "U.S. Children “Learning Online” during COVID-19 without the Internet or a Computer: Visualizing the Gradient by Race/Ethnicity and Parental Educational Attainment",
+  "abstract": "The coronavirus disease 2019 pandemic has caused unprecedented disruptions to education in the United States, with a large proportion of schooling moving to online formats, which has the potential to exacerbate existing racial/ethnic and socioeconomic disparities in learning. The authors visualize access to online learning technologies using data from the Household Pulse Survey from the early fall 2020 school period (August 19 to October 26). The authors find that 10.1 percent of children participating in online learning nationally did not have adequate access to the Internet and a computer. Rates of inadequate access varied nearly 20-fold across the gradient of parental race/ethnicity and education, from 1.9 percent for children of Asian parents with graduate degrees to 35.5 percent among children of Black parents with less than a high school education. These findings indicate alarming gaps in potential learning among U.S. children. Renewed investments in equitable access to distance-learning resources will be necessary to prevent widening racial/ethnic and class learning disparities.",
+  "authors": [
+    {
+      "raw": "Friedman, Joseph",
+      "family": "Friedman",
+      "given": "Joseph"
+    },
+    {
+      "raw": "York, Hunter",
+      "family": "York",
+      "given": "Hunter"
+    },
+    {
+      "raw": "Mokdad, Ali H.",
+      "family": "Mokdad",
+      "given": "Ali H."
+    },
+    {
+      "raw": "Gakidou, Emmanuela",
+      "family": "Gakidou",
+      "given": "Emmanuela"
+    }
+  ],
+  "authors_text": "Friedman, Joseph; York, Hunter; Mokdad, Ali H.; Gakidou, Emmanuela",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/2378023121992607",
+  "doi_url": "https://doi.org/10.1177/2378023121992607",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023121992607",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023121992607.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

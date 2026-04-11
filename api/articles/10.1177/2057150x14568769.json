@@ -1,0 +1,30 @@
+{
+  "title": "Diverging fortunes: The evolution of gender wage gaps for singles, couples, and parents in China, 1989–2009",
+  "abstract": "Since the 1980s, social scientists working in China have raised questions about whether market transition could harm the relative position of women in the workplace. However, little work has been done to investigate this possibility with longitudinal data that includes both urban and rural populations and covers recent years, or linked gender gaps in income explicitly to the retreat of the State sector. Moreover, most research has not considered the real possibility that trends in gender disparities might diverge depending on the family status of women, though studies in China, as elsewhere, suggest the existence of both employment and wage penalties for motherhood. Guided by feminist theories which emphasize that gender inequality should be examined at the intersections of different social institutions, we consider whether gender wage gap trends differ for single people, compared to married people and parents. Further, given the role posited for market transition in shaping emerging gender gaps, we ask whether changes in gaps can be linked to the shift away from socialist institutions to privatized workplaces. We use multi-province panel data spanning the years 1989 to 2009 to estimate generalized estimating equation (GEE) models of earnings that account for multiple observations within the same individual and correct for potential bias associated with selection into the work force for women. The results show clear evidence of deterioration in income for women relative to men, and also suggest a link between the retreat of the State sector and a wider gender gap. However, the trend diverges by family status. Single women rival, and even outpace, single men in wages by the late 2000s, while mothers are increasingly disadvantaged in income.",
+  "authors": [
+    {
+      "raw": "Zhang, Yuping",
+      "family": "Zhang",
+      "given": "Yuping"
+    },
+    {
+      "raw": "Hannum, Emily",
+      "family": "Hannum",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Zhang, Yuping; Hannum, Emily",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2015,
+  "doi": "10.1177/2057150x14568769",
+  "doi_url": "https://doi.org/10.1177/2057150x14568769",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x14568769",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x14568769.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

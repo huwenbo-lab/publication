@@ -1,0 +1,40 @@
+{
+  "title": "Demography's Changing Intellectual Landscape: A Bibliometric Analysis of the Leading Anglophone Journals, 1950-2020",
+  "abstract": "Much of what we know about the intel lec tual land scape of anglo phone demog ra phy comes from two sources: sub jec tive nar ra tives authored by lead ers in the field, whose reviews and obser va tions are derived from their research expe ri ence and field-spe cific knowl edge; and pro fes sional his to ries cov er ing the field's foun da tional con tro ver sies, which tend to focus on indi vid u als, insti tu tions, and influ ence. Here we use bib lio graphic infor ma tion from all arti cles published in the three lead ing jour nals of anglophone demography-Demography, Population Studies, and Population and Development Review-to sur vey the chang ing con tours of anglo phone demog ra phy's key research areas over the past 70 years. We char ac ter ize the field of demog ra phy by apply ing a two-pronged, data-grounded approach from the soci ol ogy of sci ence. The first uses nat u ral lan guage processing that lets the sub stance of the field emerge from the con tents of pub li ca tion records and applies social net work ana ly ses to iden tify groups of papers that talk about the same thing. The sec ond uses bibliometric tools to cap ture the con ver sa tions of demog ra phy with other dis ci plines. Our goals are to (1) iden tify the pri mary top ics of demog ra phy since the dis ci pline first gained prom i nence as an orga nized field; (2) assess changes in the field's intel lec tual cohe sion and the top-i cal areas that have grown or shrunk; and (3) exam ine how demog ra phers place their work in rela tion ship to other dis ci plines, the vis i bil ity and influ ence of demo graphic research in the broader sci en tific lit er a ture, and the cross-dis ci plin ary trans la tional reach of demo graphic research. Results pro vide a dynamic view of the field's sci en tific devel op ment in the sec ond half of the twen ti eth cen tury and the first two decades of the twenty-first cen tury.",
+  "authors": [
+    {
+      "raw": "Merli, M. Giovanna",
+      "family": "Merli",
+      "given": "M. Giovanna"
+    },
+    {
+      "raw": "Moody, James",
+      "family": "Moody",
+      "given": "James"
+    },
+    {
+      "raw": "Verdery, Ashton",
+      "family": "Verdery",
+      "given": "Ashton"
+    },
+    {
+      "raw": "Yacoub, Mark",
+      "family": "Yacoub",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Merli, M. Giovanna; Moody, James; Verdery, Ashton; Yacoub, Mark",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10714127",
+  "doi_url": "https://doi.org/10.1215/00703370-10714127",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10714127",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10714127.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

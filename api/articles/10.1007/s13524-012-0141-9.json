@@ -1,0 +1,25 @@
+{
+  "title": "Malthusian Dynamics in a Diverging Europe: Northern Italy, 1650–1881",
+  "abstract": "Abstract Recent empirical research questions the validity of using Malthusian theory in preindustrial England. Using real wage and vital rate data for the years 1650–1881, I provide empirical estimates for a different region: Northern Italy. The empirical methodology is theoretically underpinned by a simple Malthusian model, in which population, real wages, and vital rates are determined endogenously. My findings strongly support the existence of a Malthusian economy wherein population growth decreased living standards, which in turn influenced vital rates. However, these results also demonstrate how the system is best characterized as one of weak homeostasis. Furthermore, there is no evidence of Boserupian effects given that increases in population failed to spur any sustained technological progress.",
+  "authors": [
+    {
+      "raw": "Fernihough, Alan",
+      "family": "Fernihough",
+      "given": "Alan"
+    }
+  ],
+  "authors_text": "Fernihough, Alan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0141-9",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0141-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0141-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0141-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

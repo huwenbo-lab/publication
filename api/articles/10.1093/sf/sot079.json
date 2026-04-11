@@ -1,0 +1,35 @@
+{
+  "title": "Do Social Connections Create Trust? An Examination Using New Longitudinal Data",
+  "abstract": "The origins of generalized trust remain unclear despite its importance to social, political, and economic functioning. Social capital theory and previous cross-sectional research suggest that informal social ties may be a source of trust. Using the 2006–2008 General Social Survey panel, we assess the relationship between changes in informal social ties and changes in trust. As the first US longitudinal analysis to address this question, our fixed-effects analysis is not biased by time-invariant factors, such as personality, or other sources of unobserved heterogeneity. We further control for changes in religious attendance, television viewing, family structure, health status, and educational attainment. Our fixed-effects results, as well as results from an auxiliary cross-lagged analysis, yield support for the proposition that informal social ties enhance trust.",
+  "authors": [
+    {
+      "raw": "Glanville, J. L.",
+      "family": "Glanville",
+      "given": "J. L."
+    },
+    {
+      "raw": "Andersson, M. A.",
+      "family": "Andersson",
+      "given": "M. A."
+    },
+    {
+      "raw": "Paxton, P.",
+      "family": "Paxton",
+      "given": "P."
+    }
+  ],
+  "authors_text": "Glanville, J. L.; Andersson, M. A.; Paxton, P.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sot079",
+  "doi_url": "https://doi.org/10.1093/sf/sot079",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsot079",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sot079.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

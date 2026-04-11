@@ -1,0 +1,25 @@
+{
+  "title": "A Simple method for estimating age-specific rates from sequential cross sections",
+  "abstract": "Abstract I develop and demonstrate a simple formula for estimating age-specific event rates for a period from “before” and “after” cross sections. The general approach applies to a wide range of estimation problems in demography, the social sciences, and epidemiology. The method arises from the formal mathematics of unstable populations and is similar in spirit to “variable-r” methods. Unlike those methods, however, the new technique does not require specialized computer programming or iterative calculations, and event rates can be calculated directly from cross-sectional data in simple spreadsheets. The article includes a formal mathematical exposition of the method, simulation tests, and several examples.",
+  "authors": [
+    {
+      "raw": "Schmertmann, Carl P.",
+      "family": "Schmertmann",
+      "given": "Carl P."
+    }
+  ],
+  "authors_text": "Schmertmann, Carl P.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.1353/dem.2002.0018",
+  "doi_url": "https://doi.org/10.1353/dem.2002.0018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2002.0018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2002.0018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

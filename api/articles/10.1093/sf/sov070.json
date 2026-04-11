@@ -1,0 +1,30 @@
+{
+  "title": "The Latin Americanization Thesis: An Expectation States Approach",
+  "abstract": "The Latin Americanization thesis posits that the racial hierarchy in the United States is now composed of Whites, Honorary Whites, and Collective Blacks, with skin tone being the primary determinant of one's placement within this tripartite system of social status. Extant research mostly examines this approach at the macro level; relatively little is known about the thesis at the micro level. By examining goal-oriented task groups, our experiment tests whether Whites exhibit transitive levels of influence, a behavioral indicator of social status, in a manner consistent with this three-tier system. Furthermore, with applications of graph-theoretic models from status characteristics and status cue theories, we assess the social psychological mechanisms buttressing the proposed racial hierarchy by comparing propositions from four theories put forth by scholars of race/ethnicity (we translate their propositions into graphs and mathematical calculations). In so doing, we pose the question: In our experimental setting, which matters more, skin tone or ethnic background, or do both have equal effects on behavior? Our results support the purported racial hierarchy of the Latin Americanization thesis. On average, Whites were influenced the most by White confederates; Whites were influenced less by their light-skinned Latino/a confederates, and even less by dark-skinned Latino/a confederates. Model fit statistics for the propositions translated into graphs and values demonstrate that ethnic distinctions and skin tone are independent stratifiers in the form of status characteristics. This finding supports the notion that skin tone and ethnic background have the equivalent capacity to invoke processes to create the tripartite system of racial/ethnic inequality.",
+  "authors": [
+    {
+      "raw": "Biagas, David E., Jr.",
+      "family": "Biagas",
+      "given": "David E., Jr."
+    },
+    {
+      "raw": "Bianchi, Alison J.",
+      "family": "Bianchi",
+      "given": "Alison J."
+    }
+  ],
+  "authors_text": "Biagas, David E., Jr.; Bianchi, Alison J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sov070",
+  "doi_url": "https://doi.org/10.1093/sf/sov070",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov070",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov070.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

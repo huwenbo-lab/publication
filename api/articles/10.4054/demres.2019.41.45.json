@@ -1,0 +1,25 @@
+{
+  "title": "Is a positive association between female employment and fertility still spurious in developed countries?",
+  "abstract": "BACKGROUND The cross-sectional association between female employment and fertility across developed countries turned from negative to positive during the mid-1980s. The conventional view is that the observed positive association is spurious owing to country-specific heterogeneity. OBJECTIVE We revisit the validity of this view using recent data up to 2017 from 24 countries belonging to the Organisation for Economic Co-operation and Development (OECD). METHODS Based on the data downloaded from the OECD database, we estimate the time-series association between the female labor force participation rate (FLFP) and total fertility rate (TFR) by fixed-effects regression models, which can control for country-specific heterogeneity. RESULTS The more recent the data set used, the more likely it is that the time-series correlation will be positive between FLFP and TFR, even after controlling for country-specific heterogeneity. We also observe that public spending on families, especially in the form of benefits in kind, starts increasing once FLFP becomes sufficiently high. CONCLUSIONS A positive correlation between female employment and fertility in developed countries is no longer attributable to country-specific heterogeneity. The results are supportive of the view that higher female employment can make socioinstitutional contexts more favorable for childbearing, leading to a positive association between FLFP and TFR. CONTRIBUTIONS This study underscored the need for further investigation of the association between female employment and fertility, which is likely to have changed in recent decades.",
+  "authors": [
+    {
+      "raw": "Oshio, Takashi",
+      "family": "Oshio",
+      "given": "Takashi"
+    }
+  ],
+  "authors_text": "Oshio, Takashi",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.45",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.45",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.45",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.45.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

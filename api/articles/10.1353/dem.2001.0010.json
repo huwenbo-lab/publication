@@ -1,0 +1,30 @@
+{
+  "title": "A sensitivity analysis of the bongaarts-feeney method for adjusting bias in observed period total fertility rates",
+  "abstract": "Abstract Our sensitivity analysis shows that the adjusted TFR(t) using the formula of Bongaarts and Feeney (1998), which assumes an invariant shape for the fertility schedule, usually does not differ significantly from an adjusted TFR(t) that allows the shape of the fertility schedule to change at a constant annual rate. Because annual changes in the shape of the fertility schedules often are approximately constant except in abnormal conditions, the Bongaarts-Feeney (B-F) method is generally robust for producing reasonable estimates of the adjusted TFR(t). The adjusted TFR(t) neither represents any real cohort experiences from the past nor forecasts any future trend. It merely provides an improved reading of the period fertility measure, which reduces the tempo distortion.",
+  "authors": [
+    {
+      "raw": "Yi, Zeng",
+      "family": "Yi",
+      "given": "Zeng"
+    },
+    {
+      "raw": "Land, Kenneth C.",
+      "family": "Land",
+      "given": "Kenneth C."
+    }
+  ],
+  "authors_text": "Yi, Zeng; Land, Kenneth C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.1353/dem.2001.0010",
+  "doi_url": "https://doi.org/10.1353/dem.2001.0010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2001.0010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2001.0010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

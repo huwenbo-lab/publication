@@ -1,0 +1,35 @@
+{
+  "title": "Unjust Income Inequality Prevails Across 29 Countries",
+  "abstract": "The aim of this visualization is to describe justice evaluations of income inequality from a cross-country perspective for more than 72,000 respondents in 29 countries. The analyses were based on data from two large, cross-country survey programs. The International Social Survey Programme (ISSP) asked for an evaluation of the overall income distribution, and the European Social Survey (ESS) asked for justice evaluations of both bottom and top incomes. The authors find that injustice of the income distribution prevails in all studied countries except Denmark and that injustice of bottom incomes prevails in all countries. Moreover, in the countries included in both the ISSP and ESS, the share of respondents evaluating the overall income distribution as just always falls between the share evaluating bottom and top incomes as just. These results suggest that depending on the country context, different parts of the distribution (top and bottom incomes) influence its overall evaluation.",
+  "authors": [
+    {
+      "raw": "Moya, Cristóbal",
+      "family": "Moya",
+      "given": "Cristóbal"
+    },
+    {
+      "raw": "Adriaans, Jule",
+      "family": "Adriaans",
+      "given": "Jule"
+    },
+    {
+      "raw": "Sauer, Carsten",
+      "family": "Sauer",
+      "given": "Carsten"
+    }
+  ],
+  "authors_text": "Moya, Cristóbal; Adriaans, Jule; Sauer, Carsten",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231171581",
+  "doi_url": "https://doi.org/10.1177/23780231231171581",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231171581",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231171581.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Social Division of Care Work Time Over Half a Century",
+  "abstract": "This study introduces a demographic framework to analyze the social divi sion of care work time, defined as the sum of paid and unpaid care work time provided to children and adults in a population. Combining data from the American Heritage Time Use Survey (AHTUS) and the Current Population Survey Annual Social and Economic Supplement (CPSASEC), we focus on routine interactive care and analyze how the volume and social division of this care work has evolved in the United States over a half century (1965-2018). Results reveal relative stability in the division of care work across domains (paid vs. unpaid and child vs. adult) but substantial change across social groups (by gender and race). The share of total care work provided by paid care givers remained stable, challenging expectations about defamilialization, whereas the share of total care work going to adults increased overtime. Gender and race inequality in total care work time experienced notable declines. Analyses show that these changes are driven by men's increased involvement in unpaid childcare and nonWhite women's declined involvement in some paid care jobs, respectively. Our framework provides new tools to examine how demographic, social, and economic changes impact the social organization of care work time.",
+  "authors": [
+    {
+      "raw": "Gonalons-Pons, Pilar",
+      "family": "Gonalons-Pons",
+      "given": "Pilar"
+    },
+    {
+      "raw": "Ansari-Thomas, Zohra",
+      "family": "Ansari-Thomas",
+      "given": "Zohra"
+    }
+  ],
+  "authors_text": "Gonalons-Pons, Pilar; Ansari-Thomas, Zohra",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11879571",
+  "doi_url": "https://doi.org/10.1215/00703370-11879571",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11879571",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11879571.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

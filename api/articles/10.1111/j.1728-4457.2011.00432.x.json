@@ -1,0 +1,25 @@
+{
+  "title": "Changes in World Inequality in Length of Life: 1970-2000",
+  "abstract": "Previous research has revealed much global convergence over the past several decades in life expectancy at birth and in infant mortality, which are closely linked. But trends in the variance of length of life, and in the variance of length of adult life in particular, are less well understood. I examine life-span inequality in a comprehensive panel of 180 countries observed in 1970 and 2000. Convergence in infant mortality has unambiguously reduced world inequality in total length of life starting from birth, but world inequality in length of adult life has remained largely unchanged. Underlying both of these observations is a growing share of total inequality attributable to between-country variation. Especially among developed countries, the absolute level of between-country inequality has risen over time. The sources of widening inequality in length of life between countries remain unclear, but signs point away from changes in income, leaving patterns of knowledge diffusion as a likely candidate.",
+  "authors": [
+    {
+      "raw": "Edwards, Ryan D.",
+      "family": "Edwards",
+      "given": "Ryan D."
+    }
+  ],
+  "authors_text": "Edwards, Ryan D.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2011,
+  "doi": "10.1111/j.1728-4457.2011.00432.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2011.00432.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2011.00432.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2011.00432.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

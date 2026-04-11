@@ -1,0 +1,30 @@
+{
+  "title": "Why Does the Spatial Agglomeration of Firms Benefit Workers? Examining the Role of Organizational Diversity in U.S. Industries and Labor Markets",
+  "abstract": "Several recent studies across the social sciences show that the spatial agglomeration of employment in a local labor market benefits both firms and workers in terms of better firm performance and higher wages. Drawing from the organizational ecology perspective, we argue that workers receive higher wages in large industrial clusters and urban labor markets because of the greater degree of organizational diversity relative to smaller local industries and labor markets. Using data from the 1990 PUMS-L, we employ a three-level hierarchical linear model in order to test hypotheses regarding organizational diversity and the effects of industrial and urban agglomeration on wages. We find that workers benefit from both forms of agglomeration due to greater establishment size and industrial diversity in large industrial clusters and urban labor markets. We also find that urban agglomeration has a larger substantive effect on wages than industrial agglomeration in reduced models, but the industrial agglomeration effect is more robust across models. These findings support the organizational ecology perspective, which suggests that workers earn higher wages in local industry clusters and urban labor markets because greater organizational diversity leads to more optimal matching between workers and employers. However, the wage premium associated with urban labor markets is also due to other factors, such as greater levels of human capital and higher rates of union density.",
+  "authors": [
+    {
+      "raw": "Fullerton, A. S.",
+      "family": "Fullerton",
+      "given": "A. S."
+    },
+    {
+      "raw": "Villemez, W. J.",
+      "family": "Villemez",
+      "given": "W. J."
+    }
+  ],
+  "authors_text": "Fullerton, A. S.; Villemez, W. J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2011,
+  "doi": "10.1093/sf/89.4.1145",
+  "doi_url": "https://doi.org/10.1093/sf/89.4.1145",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2F89.4.1145",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/89.4.1145.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

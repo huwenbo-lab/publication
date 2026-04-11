@@ -1,0 +1,25 @@
+{
+  "title": "Studying Travel Networks Using Establishment Covisit Networks in Online Review Data",
+  "abstract": "Whenever someone posts an online review of a restaurant, museum, or barbershop, they also leave a trace of where they traveled. The author visualizes travel patterns in 11 North American metropolitan areas using geolocated review data. The data are based on approximately 7 million online Yelp.com reviews posted by 2 million reviewers between 2005 and 2020. First, the author demonstrates how individual travel patterns can be mapped using the review data and discusses the potential applications of such individual-level data. The author then turns to aggregate-level maps, creating establishment covisit networks in which two establishments are linked if multiple reviewers visit both. Maps of establishment covisits reveal various intriguing patterns related to consumption and geography, such as the connections between neighborhoods and the centralization and segregation within a metropolitan area. Establishment covisit maps can also inform researchers about the diffusion of ideas and practices, trends in crime, and gentrification.",
+  "authors": [
+    {
+      "raw": "Kovács, Balázs",
+      "family": "Kovács",
+      "given": "Balázs"
+    }
+  ],
+  "authors_text": "Kovács, Balázs",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241228917",
+  "doi_url": "https://doi.org/10.1177/23780231241228917",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241228917",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241228917.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

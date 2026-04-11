@@ -1,0 +1,35 @@
+{
+  "title": "Self-rated health at the intersection of sexual identity and union status",
+  "abstract": "There is a well-established relationship between union status and health within the general population, and growing evidence of an association between sexual identity and well-being. Yet, what is unknown is whether union status stratifies health outcomes across sexual identity categories. In order to elucidate this question, we analyzed nationally representative population-based data from the National Health Interview Surveys 2013 -2014 (N = 53,135) to examine variation in self-rated health by sexual partnership status (i.e., by sexual identity across union status). We further test the role of socioeconomic status and gender in these associations. Results from logistic regression models show that union status stratifies self-rated health across gay, lesbian, and heterosexual populations, albeit in different ways for men and women. Socioeconomic status does not play a major role in accounting for these differences. Findings highlight the need for specific interventions with lesbian women, who appear to experience the most strident disadvantage across union status categories. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Reczek, Corinne",
+      "family": "Reczek",
+      "given": "Corinne"
+    },
+    {
+      "raw": "Liu, Hui",
+      "family": "Liu",
+      "given": "Hui"
+    },
+    {
+      "raw": "Spiker, Russell",
+      "family": "Spiker",
+      "given": "Russell"
+    }
+  ],
+  "authors_text": "Reczek, Corinne; Liu, Hui; Spiker, Russell",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.09.013",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.09.013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.09.013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.09.013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

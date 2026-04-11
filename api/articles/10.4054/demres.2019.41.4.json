@@ -1,0 +1,40 @@
+{
+  "title": "The threshold age of the lifetable entropy",
+  "abstract": "BACKGROUND Indicators of relative variation of lifespans are markers of inequality at the population level and of uncertainty at the time of death at the individual level. In particular, the lifetable entropy (H ) over bar represents the elasticity of life expectancy to a change in mortality. However, it is unknown how this measure changes over time and whether a threshold age exists, as it does for other lifespan variation indicators. RESULTS The time derivative of ( H ) over bar can be decomposed into changes in life disparity e(dagger) and life expectancy at birth e(o). Likewise, changes over time in (H) over bar are a weighted average of age-specific rates of mortality improvements. These weights reflect the sensitivity of (H) over bar and show how mortality improvements can increase (or decrease) the relative inequality of lifespans. Further, we prove that in the assumption that mortality is reduced at all ages,( H) over bar, as well as e(dagger), has a threshold age below which saving lives reduces entropy, whereas improvements above that age increase entropy. CONTRIBUTION We give a formal expression for changes of ( H) over bar over time and provide a formal proof of the existence of a unique threshold age that separates reductions and increases in lifespan variation as a result age-specific mortality improvements.",
+  "authors": [
+    {
+      "raw": "Aburto, Jose Manuel",
+      "family": "Aburto",
+      "given": "Jose Manuel"
+    },
+    {
+      "raw": "Alvarez, JesUs-Adrian",
+      "family": "Alvarez",
+      "given": "JesUs-Adrian"
+    },
+    {
+      "raw": "Villavicencio, Francisco",
+      "family": "Villavicencio",
+      "given": "Francisco"
+    },
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    }
+  ],
+  "authors_text": "Aburto, Jose Manuel; Alvarez, JesUs-Adrian; Villavicencio, Francisco; Vaupel, James W.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.4",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

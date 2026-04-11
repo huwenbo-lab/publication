@@ -1,0 +1,35 @@
+{
+  "title": "Moving Out: Transition to Nonresidence Among Resident Fathers in the United States, 1968–1997",
+  "abstract": "This article provides the first individual‐level estimates of the change over time in the probability of nonresidence for initially resident fathers in the United States. Drawing on the 1968–1997 waves of the Panel Study of Income Dynamics, we used discrete‐time event history models to compute the probabilities of nonresidence for six 5‐year periods. Our sample consists of men (N = 1,388) who are coresident with their biological children at the time of birth. We found that the observed probability of nonresidence doubled over the three decades of the study period, but not linearly. The risk increased substantially in the 1980s and then stabilized in the 1990s. Our multivariate models show that the stabilization was due to changes over time in characteristics such as income; had these remained constant, the likelihood of nonresidence would have increased throughout the study period. Both fathers’ and mothers’ incomes reduce the likelihood of paternal nonresidence, as do mothers’ employment hours.",
+  "authors": [
+    {
+      "raw": "Gupta, Sanjiv",
+      "family": "Gupta",
+      "given": "Sanjiv"
+    },
+    {
+      "raw": "Smock, Pamela J.",
+      "family": "Smock",
+      "given": "Pamela J."
+    },
+    {
+      "raw": "Manning, Wendy D.",
+      "family": "Manning",
+      "given": "Wendy D."
+    }
+  ],
+  "authors_text": "Gupta, Sanjiv; Smock, Pamela J.; Manning, Wendy D.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2004,
+  "doi": "10.1111/j.0022-2445.2004.00042.x",
+  "doi_url": "https://doi.org/10.1111/j.0022-2445.2004.00042.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.0022-2445.2004.00042.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.0022-2445.2004.00042.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

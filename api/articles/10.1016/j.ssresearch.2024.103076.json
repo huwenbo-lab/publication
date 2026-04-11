@@ -1,0 +1,25 @@
+{
+  "title": "The causal effect of skin color bias in online dating",
+  "abstract": "Despite the expansive literature on U.S. ethnoracial relations, issues such as reliance on observational data and inconsistent measures of skin color limit the research on skin color stratification and cross-ethnoracial relationships. These issues hinder researchers' capacity to disentangle the causal effect of colorism in perpetuating discrepancies within intergroup relationships, specifically within the context of online dating, a popular form of modern dating. In May-June 2021, I fielded a survey experiment that features online dating profiles of Black daters in which skin tone is the treatment. While the multivariate analyses show no statistically significant differences between light- and medium-toned daters, profiles featuring dark-skinned daters consistently receive a penalty in comparison to profiles of light- and medium-skinned people. The results suggest that colorism can have a direct impact on how dark-skinned Black people navigate their romantic lives, independent of other influential factors (e.g., socioeconomic status, social networks, etc.).",
+  "authors": [
+    {
+      "raw": "Santana, Emilce",
+      "family": "Santana",
+      "given": "Emilce"
+    }
+  ],
+  "authors_text": "Santana, Emilce",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103076",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103076",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103076",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103076.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

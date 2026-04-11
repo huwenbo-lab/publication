@@ -1,0 +1,40 @@
+{
+  "title": "Refinements of a methodology for detecting married couples in the medicare data",
+  "abstract": "This article is a commentary on the methodology used by Kestenbaum in detecting married couples in the US. First the authors considered Kestenbaums efforts in conducting parallel analyses on this subject using the data sets of the Social Security Administration and his ability to confirm the main points of the argument. Likewise the authors acknowledge Kestenbaums insight that the cross-reference file can be used to link classes of husbands and wives beyond the higher-earning spouse who predeceases the lower-earning spouse which the authors in their original article presented as prototypical. Finally Kestenbaum s projections of total efficacy in couple rate detection are emphasized. The authors pointed out that his estimates of overall detection efficacy are higher compared to their original estimates through 9 years of follow-up. Nevertheless they stand by their original contention that the methods discussed in Iwashyna et al. (1998) offer a powerful tool in obtaining very large samples of linked married couples.",
+  "authors": [
+    {
+      "raw": "Iwashyna, Theodore J.",
+      "family": "Iwashyna",
+      "given": "Theodore J."
+    },
+    {
+      "raw": "Zhang, James X.",
+      "family": "Zhang",
+      "given": "James X."
+    },
+    {
+      "raw": "Lauderdale, Diane S.",
+      "family": "Lauderdale",
+      "given": "Diane S."
+    },
+    {
+      "raw": "Christakis, Nicholas A.",
+      "family": "Christakis",
+      "given": "Nicholas A."
+    }
+  ],
+  "authors_text": "Iwashyna, Theodore J.; Zhang, James X.; Lauderdale, Diane S.; Christakis, Nicholas A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648127",
+  "doi_url": "https://doi.org/10.2307/2648127",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648127",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648127.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

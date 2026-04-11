@@ -1,0 +1,35 @@
+{
+  "title": "Estimating abortion incidence using the network scale-up method",
+  "abstract": "BACKGROUND A major challenge in abortion research is accurately measuring the incidence of induced abortion, particularly in restrictive settings. This study tests the network scale-up method (NSUM) to measure abortion incidence, which uses respondent social network data to estimates the size of hidden populations. METHODS Using NSUM modules added to the Ethiopia and Uganda 2018 Performance Monitoring for Action (PMA) community-based surveys, we compute NSUM abortion incidence ratios, and adjust these ratios to account for transmission bias. We conduct internal validity checks to assess the NSUM performance. RESULTS The unadjusted NSUM abortion ratios were likely underestimates (Uganda: 15.3 per 100 births, Ethiopia: 3.6 per 100 births). However, the transmission bias-adjusted NSUM abortion ratios grossly overestimated abortion (Uganda: 151.4 per 100 births, Ethiopia: 73.9 per 100 births), which was likely due to selection bias, question wording, and the use of lifetime abortions to measure transmission bias. Internal validity checks revealed problems with the NSUM application in Ethiopia. Unadjusted NSUM estimates of intrauterine device/implant use performed well compared to established external estimates, but adjusting for transmission bias again resulted in overestimation. CONCLUSION The NSUM resulted in overestimates of abortion incidence in Ethiopia and Uganda. We discuss several modifications that may improve future applications of the NSUM for measuring abortion. CONTRIBUTION This is the first test of the NSUM to estimate national abortion incidence. Our findings highlight the critical need to assess the validity of abortion estimates, a key feature of the NSUM that is lacking in most other indirect abortion measurement methods.",
+  "authors": [
+    {
+      "raw": "Sully, Elizabeth",
+      "family": "Sully",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Giorgio, Margaret",
+      "family": "Giorgio",
+      "given": "Margaret"
+    },
+    {
+      "raw": "Anjur-Dietrich, Selena",
+      "family": "Anjur-Dietrich",
+      "given": "Selena"
+    }
+  ],
+  "authors_text": "Sully, Elizabeth; Giorgio, Margaret; Anjur-Dietrich, Selena",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.56",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.56",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.56",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.56.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Parents and Peers: Parental Neighbourhood- and School-Level Variation in Individual Neighbourhood Outcomes Later in Life",
+  "abstract": "Growing up in a disadvantaged parental neighbourhood is related to long-term exposure to similar neighbourhoods as adults. However, there are multiple socio-spatial contexts besides the residential neighbourhood to which individuals are exposed over the life course, such as households, schools, and places of work and leisure, which also influence their outcomes. For children and adolescents, the school environment is especially important. We argue that leaving these contexts out of consideration in models of neighbourhood effects could lead to a misspecification of the relevance of the residential environment in determining individual outcomes. This study examines the joint influence of the parental background, the parental neighbourhood, and a compositional measure of the childhood school environment, on individual neighbourhood trajectories later in life. We use Dutch longitudinal register data to study a complete cohort of adolescents from 1999 to 2012. We fit cross-classified multilevel models to partition the variance of schools and parental neighbourhoods over time. We find that parental neighbourhood quality strongly determines children's residential outcomes later in life. The variation in individual neighbourhood outcomes at the school level is explained by the ethnicity, parental income, and personal income of the research population, suggesting grouping of children from particular backgrounds into specific school environments.",
+  "authors": [
+    {
+      "raw": "de Vuijst, Elise",
+      "family": "de Vuijst",
+      "given": "Elise"
+    },
+    {
+      "raw": "van Ham, Maarten",
+      "family": "van Ham",
+      "given": "Maarten"
+    }
+  ],
+  "authors_text": "de Vuijst, Elise; van Ham, Maarten",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcy041",
+  "doi_url": "https://doi.org/10.1093/esr/jcy041",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy041",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy041.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

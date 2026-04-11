@@ -1,0 +1,30 @@
+{
+  "title": "Gender in the Markets for Expertise",
+  "abstract": "Stratification in professional careers arises in part from interpersonal dynamics in client-expert dyads. To reduce perceived uncertainty in judgments of the quality of experts, clients may rely on ascriptive characteristics of experts and on pairwise, relational factors to assess the advice they receive. Two such characteristics, expert gender and client-expert gender concordance, may lead to differences in clients' trust in expert advice. To explore these issues, we investigate the incidence of patient-initiated second opinions (SOs) in medicine. In an examination of millions of medical claims in Massachusetts, we find that male patients are much more likely than female patients to obtain an SO if the first specialist they consult is female. Moreover, when the first specialist a patient consults is gender non-concordant and the patient seeks an SO, male patients are substantially more likely to switch to a same-gender specialist in the SO visit. Because patients who lack confidence in the advice of the first-seen specialist infrequently return to this specialist for medical services, female specialists generate lower billings. Analyses of medical spending in follow-up visits suggest that gendered patterns in questioning the advice of medical experts have the potential to contribute substantially to the gender pay gap in medicine.",
+  "authors": [
+    {
+      "raw": "de Vaan, Mathijs",
+      "family": "de Vaan",
+      "given": "Mathijs"
+    },
+    {
+      "raw": "Stuart, Toby",
+      "family": "Stuart",
+      "given": "Toby"
+    }
+  ],
+  "authors_text": "de Vaan, Mathijs; Stuart, Toby",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1177/00031224221087374",
+  "doi_url": "https://doi.org/10.1177/00031224221087374",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224221087374",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224221087374.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

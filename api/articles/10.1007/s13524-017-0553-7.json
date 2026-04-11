@@ -1,0 +1,30 @@
+{
+  "title": "Infant Mortality Rate as a Measure of a Country's Health: A Robust Method to Improve Reliability and Comparability",
+  "abstract": "Researchers and policymakers often rely on the infant mortality rate as an indicator of a country's health. Despite arguments about its relevance, uniform measurement of infant mortality is necessary to guarantee its use as a valid measure of population health. Using important socioeconomic indicators, we develop a novel method to adjust country-specific reported infant mortality figures. We conclude that an augmented measure of mortality that includes both infant and late fetal deaths should be considered when assessing levels of social welfare in a country. In addition, mortality statistics that exhibit a substantially high ratio of late fetal to early neonatal deaths should be more closely scrutinized.",
+  "authors": [
+    {
+      "raw": "Gonzalez, Robert M.",
+      "family": "Gonzalez",
+      "given": "Robert M."
+    },
+    {
+      "raw": "Gilleskie, Donna",
+      "family": "Gilleskie",
+      "given": "Donna"
+    }
+  ],
+  "authors_text": "Gonzalez, Robert M.; Gilleskie, Donna",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0553-7",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0553-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0553-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0553-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

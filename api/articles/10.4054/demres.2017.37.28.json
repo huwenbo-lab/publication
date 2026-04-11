@@ -1,0 +1,25 @@
+{
+  "title": "The timing of abortions, births, and union dissolutions in Finland",
+  "abstract": "BACKGROUND People make fertility decisions within the wider context of their lives. Previous studies have shown that there are factors that drive both relationship transitions and childbearing decisions. However, there is a lack of research on whether these factors also drive abortion decisions and decisions to end a romantic relationship, and whether their effect depends on being in a cohabitating or marital union. OBJECTIVE To study whether the factors that influence relationship transitions and childbearing decisions are also associated with abortion decision-making. METHOD I analysed nationally representative register data of Finnish women born in 1965-1969 (N=17,666) using multi-level multi-process event history models. RESULTS Women's unobserved characteristics affected union dissolution, abortion, and childbearing decisions: Women with a tendency towards unstable relationships were more likely to have an abortion and less likely to give birth. The observed likelihood of abortion was lower for married than cohabiting women in the early years of a relationship, but became similar over time. CONCLUSIONS Characteristics such as personality and religiosity may partly explain these results. In line with previous research on other union characteristics, the likelihood of abortion in long-term cohabitation becomes similar to marriage over time. CONTRIBUTION This study is the first to jointly estimate these three decision-making processes using reliable longitudinal data.",
+  "authors": [
+    {
+      "raw": "Vaisanen, Heini",
+      "family": "Vaisanen",
+      "given": "Heini"
+    }
+  ],
+  "authors_text": "Vaisanen, Heini",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.28",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

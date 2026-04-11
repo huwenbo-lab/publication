@@ -1,0 +1,25 @@
+{
+  "title": "Tracing the Gender Confidence Gap in Computing: A Cross-National Meta-Analysis of Gender Differences in Self-Assessed Technological Ability*",
+  "abstract": "The gender composition of information and communication technology (ICT) fields remain un-even across countries. One explanation is that gender stereotypes lead women to believe that they do not have the same aptitude for ICT fields as men, resulting in a deficit in women's self-assessed tech ability. Yet, studies on ICT confidence document wide variation in both the direction and magnitude of gender differences. This study asks whether there is, in fact, a gendered confidence gap in technological ability. Methods of meta-analysis evaluate gender differences in tech con-fidence based on the results of 120 effect sizes from 115 studies conducted in 22 countries from 1990 to 2019. While men report higher levels of self-assessed tech abilities compared to women, the gap is narrowing over time. Further, significant cross-national variation undermines essen-tialist explanations that imply universal sex differences. Rather, results are consistent with theorizing that emphasizes variations in cultural gender beliefs and opportunities.",
+  "authors": [
+    {
+      "raw": "Christensen, MacKenzie A.",
+      "family": "Christensen",
+      "given": "MacKenzie A."
+    }
+  ],
+  "authors_text": "Christensen, MacKenzie A.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102853",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102853",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102853",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102853.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

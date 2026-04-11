@@ -1,0 +1,40 @@
+{
+  "title": "The Total Effect of Social Origins on Educational Attainment: Meta-anal y sis of Sibling Correlations From 18 Countries",
+  "abstract": "The sibling correlation (SC), which estimates the total effect of family back ground (i.e., social origins), can be interpreted as measuring a society's inequality of opportunity. Its sensitivity to observed and unobserved factors makes the SC an all encompassing measure and an attractive choice for comparative research. We gather and summarize all available estimates of SCs in educational attainment (M = .46, SD = .09) and employ meta-regression to explore variability in these estimates. First, we find significantly lower SCs in Sweden, Norway, Finland, and Denmark than in the United States, with U.S. correlations roughly .10 (i.e., 25%) higher. Most other (primarily European) countries in our study are estimated to fall in between these countries and the United States. Second, we find a novel Great Gatsby Curve-type positive association between income inequality in childhood and the SC, both crossnationally and within countries overtime. This finding supports theoretical accounts of the Great Gatsby Curve that emphasize the role of educational inequality as a link between economic inequality and social immobility. It implies that greater equality of educational opportunity likely requires reduced economic inequality. Additionally, correlations between sisters are mod estly higher, on average, than those between brothers or all siblings, and we find no overall differences between cohorts.",
+  "authors": [
+    {
+      "raw": "Anderson, Lewis R.",
+      "family": "Anderson",
+      "given": "Lewis R."
+    },
+    {
+      "raw": "Prag, Patrick",
+      "family": "Prag",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Akimova, Evelina T.",
+      "family": "Akimova",
+      "given": "Evelina T."
+    },
+    {
+      "raw": "Monden, Christiaan",
+      "family": "Monden",
+      "given": "Christiaan"
+    }
+  ],
+  "authors_text": "Anderson, Lewis R.; Prag, Patrick; Akimova, Evelina T.; Monden, Christiaan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11579806",
+  "doi_url": "https://doi.org/10.1215/00703370-11579806",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11579806",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11579806.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

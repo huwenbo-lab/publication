@@ -1,0 +1,35 @@
+{
+  "title": "Measuring Geographic Migration Patterns Using Matriculas Consulares",
+  "abstract": "In this article, we show how to use administrative data from the Matricula Consular de Alta Seguridad (MCAS) identification card program to measure the joint distribution of sending and receiving locations for migrants from Mexico to the United States. Whereas other data sources cover only a small fraction of source or destination locations or include only very coarse geographic information, the MCAS data provide complete geographic coverage of both countries, detailed information on migrants' sources and destinations, and a very large sample size. We first confirm the quality and representativeness of the MCAS data by comparing them with well-known household surveys in Mexico and the United States, finding strong agreement on the migrant location distributions available across data sets. We then document substantial differences in the mix of destinations for migrants from different places within the same source state, demonstrating the importance of detailed substate geographical information. We conclude with an example of how these detailed data can be used to study the effects of destination-specific conditions on migration patterns. We find that an Arizona law reducing employment opportunities for unauthorized migrants decreased emigration from and increased return migration to Mexican source regions with strong initial ties to Arizona.",
+  "authors": [
+    {
+      "raw": "Caballero, Maria Esther",
+      "family": "Caballero",
+      "given": "Maria Esther"
+    },
+    {
+      "raw": "Cadena, Brian C.",
+      "family": "Cadena",
+      "given": "Brian C."
+    },
+    {
+      "raw": "Kovak, Brian K.",
+      "family": "Kovak",
+      "given": "Brian K."
+    }
+  ],
+  "authors_text": "Caballero, Maria Esther; Cadena, Brian C.; Kovak, Brian K.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0675-6",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0675-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0675-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0675-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

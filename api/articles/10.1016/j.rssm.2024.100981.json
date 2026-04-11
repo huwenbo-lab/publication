@@ -1,0 +1,30 @@
+{
+  "title": "Municipal police and the economic mobility gap between black and white males in the US",
+  "abstract": "Estimates of intergenerational economic mobility for a recent U.S. birth cohort published by Opportunity Insights reveal a striking empirical puzzle: while there is a substantial gap in the upward mobility outcomes achieved by low-income Black and White males there is no such racial mobility gap for females. This study examines municipal police force size as a potential driver of these disparate mobility patterns. Although a larger police force may enhance mobility outcomes for all low-income children through reducing exposure to crime, for Black males prior work suggests this will be offset by the disparate negative impact of increased contact with the criminal justice system. Analyzing a sample of 200 major U.S. cities, linear models find a positive association between the number of police officers per capita and the size of the racial mobility gap for males, but not for females. We go on to show more police personnel in the late 1990s is associated with an increased gap in the likelihood of incarceration for Black males relative to White males. Taken together, our findings point to the heterogeneous impacts of policing for different race-sex groups as one potential explanation for why we observe a racial mobility gap between Black and White males and why this gap is larger in some cities and smaller in others.",
+  "authors": [
+    {
+      "raw": "Schechtl, Manuel",
+      "family": "Schechtl",
+      "given": "Manuel"
+    },
+    {
+      "raw": "O'Brien, Rourke",
+      "family": "O'Brien",
+      "given": "Rourke"
+    }
+  ],
+  "authors_text": "Schechtl, Manuel; O'Brien, Rourke",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100981",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100981",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100981",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100981.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

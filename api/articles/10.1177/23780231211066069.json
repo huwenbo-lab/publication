@@ -1,0 +1,30 @@
+{
+  "title": "What Makes a Tax Policy Popular? Predicting Referendum Votes from Policy Text",
+  "abstract": "What kinds of taxation are most politically sustainable in a democracy? The authors answer this question by applying natural language processing and machine learning techniques to a large, new corpus of digitized documents describing municipal tax policies of heterogeneous design that have been directly subjected to popular referendum in the state of California. The authors find that tax policies of different description vary systematically in their popularity with voters. In particular, official textual summaries of tax policy differ along two social dimensions that are associated with voters’ willingness to approve the tax. The authors interpret these dimensions as risk pooling and community orientation and show that measuring these dimensions can modestly improve the ability to predict the popularity of a tax, relative to a conventional regression specification that omits information about qualitative policy design. The authors discuss implications for the study of the sociology of taxation.",
+  "authors": [
+    {
+      "raw": "Martin, Isaac William",
+      "family": "Martin",
+      "given": "Isaac William"
+    },
+    {
+      "raw": "Harper, Heather",
+      "family": "Harper",
+      "given": "Heather"
+    }
+  ],
+  "authors_text": "Martin, Isaac William; Harper, Heather",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211066069",
+  "doi_url": "https://doi.org/10.1177/23780231211066069",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211066069",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211066069.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

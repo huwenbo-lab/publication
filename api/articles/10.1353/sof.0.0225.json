@@ -1,0 +1,30 @@
+{
+  "title": "Globalization, Development and International Migration: A Cross-National Analysis of Less-Developed Countries, 1970-2000",
+  "abstract": "It is widely argued that globalization and economic development are associated with international migration. However, these relationships have not been tested empirically. We use a cross-national empirical analysis to assess the impact of global and national factors on international migration from less-developed countries. An interdisciplinary analytical framework is developed. We then use several modeling techniques to analyze panel data on a set of less-developed countries from 1970 to 2000. Three central findings emerge from these analyses. First, foreign direct investment has a significant, differential effect across sectors of the economy: FDI in the primary sector increases the level of net emigration, while FDI in the secondary sector has a deterrent effect. Second, economic development has a significant, nonlinear effect on net emigration levels, the so-called \"migration hump.\" Finally, we find a strong cumulative causation effect of migration, meaning that migration has a strong internal momentum after it has been initiated. The implications of the findings are discussed in the context of contemporary migration theory.",
+  "authors": [
+    {
+      "raw": "Sanderson, M. R.",
+      "family": "Sanderson",
+      "given": "M. R."
+    },
+    {
+      "raw": "Kentor, J. D.",
+      "family": "Kentor",
+      "given": "J. D."
+    }
+  ],
+  "authors_text": "Sanderson, M. R.; Kentor, J. D.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0225",
+  "doi_url": "https://doi.org/10.1353/sof.0.0225",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0225",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0225.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Soccer Scores, Short-Term Mood and Fertility",
+  "abstract": "AbstractPrevious research has shown that seemingly irrelevant events such as unexpected outcomes in sporting events can affect mood and have relevant consequences for episodes of crime and violence, investing behavior and political preferences. In this article, we test whether mood shocks associated with unexpected results in soccer matches in Spain affect fertility. We use data on betting odds and actual scores to define mood shocks and link them to births by month and province in Spain, between 2001 and 2015. We find that unexpected losses of local teams lead to a small decrease in the number of births nine months thereafter. The effect is larger for more unexpected losses, in those provinces with the largest amount of support for the local team and robust to a number of placebo tests. We argue that these results are consistent with the gain–loss asymmetry predicted by prospect theory.",
+  "authors": [
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    },
+    {
+      "raw": "Cozzani, Marco",
+      "family": "Cozzani",
+      "given": "Marco"
+    }
+  ],
+  "authors_text": "Bernardi, Fabrizio; Cozzani, Marco",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2021,
+  "doi": "10.1007/s10680-021-09576-2",
+  "doi_url": "https://doi.org/10.1007/s10680-021-09576-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-021-09576-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-021-09576-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Ready for parenthood? Dual earners' relative labour market positions and entry into parenthood in Belgium",
+  "abstract": "BACKGROUND Rising symmetry in public gender roles as a result of women's rising educational and labour market participation could make both partners' labour market positions equally relevant with respect to family formation. It is, however, unclear whether and to what extent this evolution has materialised. To date, few studies have examined couple dynamics in the employment-fertility link, and especially the gendered nature of this link remains understudied. OBJECTIVE This study examines the effect of dual earners' relative income, job stability, time availability, and employment-sector-specific flexibility in terms of work regimes on the transition to parenthood in Belgium. METHODS Using longitudinal microdata from the Belgian Administrative Socio-Demographic Panel, we estimate discrete-time hazard models of conception leading to a first birth. RESULTS Controlling for employment characteristics at the household level, we find higher first birth hazards when the female partner has higher time availability or access to flexible work regimes, suggesting a persistent gendered precondition to parenthood. By contrast, the gender distribution of income does not affect the transition to parenthood. CONTRIBUTION This study adds to the literature by simultaneously considering a broad array of partners' employment characteristics in an institutional setting that strongly focuses on facilitating the work-family combination. Our findings suggest that there is a shift away from a traditionally gendered fulfilment of labour market preconditions to parenthood in dual earner couples, but not unambiguously towards gender-neutral patterns. Particularly, the time availability and access to flexible work regimes of the female partner rather than the male partner seem to be of importance in the couples' transition to parenthood.",
+  "authors": [
+    {
+      "raw": "Marynissen, Leen",
+      "family": "Marynissen",
+      "given": "Leen"
+    },
+    {
+      "raw": "Neels, Karel",
+      "family": "Neels",
+      "given": "Karel"
+    },
+    {
+      "raw": "Wood, Jonas",
+      "family": "Wood",
+      "given": "Jonas"
+    },
+    {
+      "raw": "Van de Velde, Sarah",
+      "family": "Van de Velde",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Marynissen, Leen; Neels, Karel; Wood, Jonas; Van de Velde, Sarah",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.33",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

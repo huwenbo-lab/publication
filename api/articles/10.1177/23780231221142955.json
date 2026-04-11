@@ -1,0 +1,45 @@
+{
+  "title": "Perceptions of School Quality and Student Learning During the Pandemic: Exploring the Role of Students, Families, Schools, and Neighborhoods",
+  "abstract": "Given the inequitable distribution of resources across school, neighborhood, and home contexts in the United States, lower resourced students may have had fewer opportunities to learn during the coronavirus disease 2019 pandemic, which may have caused previous disadvantages to accumulate during the pandemic. Nevertheless, research has yet to comprehensively explore how school, neighborhood, and home contexts— together—relate to perceptions of school quality and, ultimately, learning outcomes during the pandemic. To fill this gap, the authors leverage a unique multiwave survey of households across 47 states. Using multinomial modeling, the authors find that previous disadvantages were not always accumulated during the pandemic and that in some cases, perceptions of school quality and student learning improved for students who had struggled before the pandemic. The results also suggest stratification across race/ethnicity, parental education levels, school types, learning modes, and a range of learning resources.",
+  "authors": [
+    {
+      "raw": "Jabbari, Jason",
+      "family": "Jabbari",
+      "given": "Jason"
+    },
+    {
+      "raw": "Chun, Yung",
+      "family": "Chun",
+      "given": "Yung"
+    },
+    {
+      "raw": "Johnson, Odis",
+      "family": "Johnson",
+      "given": "Odis"
+    },
+    {
+      "raw": "Grinstein-Weiss, Michal",
+      "family": "Grinstein-Weiss",
+      "given": "Michal"
+    },
+    {
+      "raw": "McDermott, Laura",
+      "family": "McDermott",
+      "given": "Laura"
+    }
+  ],
+  "authors_text": "Jabbari, Jason; Chun, Yung; Johnson, Odis; Grinstein-Weiss, Michal; McDermott, Laura",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221142955",
+  "doi_url": "https://doi.org/10.1177/23780231221142955",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221142955",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221142955.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

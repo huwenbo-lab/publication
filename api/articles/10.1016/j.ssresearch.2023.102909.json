@@ -1,0 +1,25 @@
+{
+  "title": "The role of states in US immigration: A study of population dynamics and subnational immigration laws",
+  "abstract": "Legislative action on issues of immigration emerged prominently across and within US states throughout the 2000s. The emerging literature on this topic demonstrates the political motivations driving anti-immigrant laws that negatively impact the mobility of Hispanic/Latino and Foreign-born populations across US states. Considerable research identifies the political mechanisms driving restrictive state-level immigration policies. Despite the growth of this scholarly work, the impact of these laws within states requires further study. This paper broadens the approach to the study of restrictive state-level omnibus immigration laws (OILs) using a rich dataset to uncover the effects of these laws on compositional change for undocumented, foreign born, and Hispanic/Latino populations from 2005 to 2017. Using a quasi-experimental design, I show that by passing omnibus immigration laws, states shape demographic patterns of Foreign born populations. Specifically, I find that states that pass omnibus immigration laws experience a decrease in undocumented and Foreign-born populations relative to states that did not pass similar laws. Effects are estimated each year after the passage of OILs, providing additional insight into the temporal impact of omnibus immigration laws on the settlement patterns of these groups. I conclude by discussing the theoretical implications of the multiple interior immigration law and policies, specifically at the state level, and their salience in shaping population dynamics across the United States.",
+  "authors": [
+    {
+      "raw": "Anadon, Isabel J.",
+      "family": "Anadon",
+      "given": "Isabel J."
+    }
+  ],
+  "authors_text": "Anadon, Isabel J.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102909",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102909",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102909",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102909.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

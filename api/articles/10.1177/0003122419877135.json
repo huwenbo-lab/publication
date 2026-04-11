@@ -1,0 +1,35 @@
+{
+  "title": "The Geometry of Culture: Analyzing the Meanings of Class through Word Embeddings",
+  "abstract": "We argue word embedding models are a useful tool for the study of culture using a historical analysis of shared understandings of social class as an empirical case. Word embeddings represent semantic relations between words as relationships between vectors in a high-dimensional space, specifying a relational model of meaning consistent with contemporary theories of culture. Dimensions induced by word differences (rich - poor) in these spaces correspond to dimensions of cultural meaning, and the projection of words onto these dimensions reflects widely shared associations, which we validate with surveys. Analyzing text from millions of books published over 100 years, we show that the markers of class continuously shifted amidst the economic transformations of the twentieth century, yet the basic cultural dimensions of class remained remarkably stable. The notable exception is education, which became tightly linked to affluence independent of its association with cultivated taste.",
+  "authors": [
+    {
+      "raw": "Kozlowski, Austin C.",
+      "family": "Kozlowski",
+      "given": "Austin C."
+    },
+    {
+      "raw": "Taddy, Matt",
+      "family": "Taddy",
+      "given": "Matt"
+    },
+    {
+      "raw": "Evans, James A.",
+      "family": "Evans",
+      "given": "James A."
+    }
+  ],
+  "authors_text": "Kozlowski, Austin C.; Taddy, Matt; Evans, James A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419877135",
+  "doi_url": "https://doi.org/10.1177/0003122419877135",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419877135",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419877135.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

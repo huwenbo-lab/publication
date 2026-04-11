@@ -1,0 +1,30 @@
+{
+  "title": "An elasticity analysis of the effectiveness of pronatalist measures in Taiwan",
+  "abstract": "The total fertility rate (TFR) of Taiwan has remained below the replacement level 2.1 for past thirty years. Currently, 16 of its 22 counties and cities have TFRs below 1.3, with TFRs in middle and southern Taiwan even below 1. In the recent decade, various pronatalist policies have been adopted in Taiwan to cope with the low fertility issue. However, little is known about the effectiveness of these policies. In order to identify the group(s) of women that should be targeted to increase the TFR effectively, we have constructed a stochastic model to perform an elasticity analysis. The results show that changes in marriage rates among women aged 25–29 years would have the largest impact on the TFR, with an elasticity value of 0.32. This means that every 1 per cent increase in the marriage rate of women aged 25–29 may increase the TFR by about 0.32 per cent (i.e. an increase of about 2.6 children per 1000 women). The TFR is also very sensitive in responding to changes in the marriage rate and parity-1 fertility rate of 30–34-year-old women, with elasticities of 0.19 and 0.16 respectively. The divorce rate has a small but negative impact on the TFR. Also, the possible contribution of third- and higher-order births is insignificant. These findings suggest that policies aimed at increasing the marriage rate among women in their late twenties and early thirties, and supporting first births of women in their early thirties, are likely to raise Taiwan’s fertility rate effectively.",
+  "authors": [
+    {
+      "raw": "Yip, Paul Siu Fai",
+      "family": "Yip",
+      "given": "Paul Siu Fai"
+    },
+    {
+      "raw": "Chen, Mengni",
+      "family": "Chen",
+      "given": "Mengni"
+    }
+  ],
+  "authors_text": "Yip, Paul Siu Fai; Chen, Mengni",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2016,
+  "doi": "10.1080/17441730.2016.1221207",
+  "doi_url": "https://doi.org/10.1080/17441730.2016.1221207",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2016.1221207",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2016.1221207.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

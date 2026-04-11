@@ -1,0 +1,25 @@
+{
+  "title": "Uncrossing the U.S. Black-White Mortality Crossover: The Role of Cohort Forces in Life Course Mortality Risk",
+  "abstract": "AbstractIn this article, I examine the black-white crossover in U.S. adult all-cause mortality, emphasizing how cohort effects condition age-specific estimates of mortality risk. I employ hierarchical age-period-cohort methods on the National Health Interview Survey-Linked Mortality Files between 1986 and 2006 to show that the black-white mortality crossover can be uncrossed by factoring out period and cohort effects of mortality risk. That is, when controlling for variations in cohort and period patterns of U.S. adult mortality, the estimated age effects of non-Hispanic black and non-Hispanic white U.S. adult mortality risk do not cross at any age. This is the case for both men and women. Further, results show that nearly all the recent temporal change in U.S. adult mortality risk was cohort driven. The findings support the contention that the non-Hispanic black and non-Hispanic white U.S. adult populations experienced disparate cohort patterns of mortality risk and that these different experiences are driving the convergence and crossover of mortality risk at older ages.",
+  "authors": [
+    {
+      "raw": "Masters, Ryan K.",
+      "family": "Masters",
+      "given": "Ryan K."
+    }
+  ],
+  "authors_text": "Masters, Ryan K.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0107-y",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0107-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0107-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0107-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

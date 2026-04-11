@@ -1,0 +1,30 @@
+{
+  "title": "Ethnic Diversity and Social Trust: Evidence from the Micro-Context",
+  "abstract": "We argue that residential exposure to ethnic diversity reduces social trust. Previous within-country analyses of the relationship between contextual ethnic diversity and trust have been conducted at higher levels of aggregation, thus ignoring substantial variation in actual exposure to ethnic diversity. In contrast, we analyze how ethnic diversity of the immediate micro-contextwhere interethnic exposure is inevitableaffects trust. We do this using Danish survey data linked with register-based data, which enables us to obtain precise measures of the ethnic diversity of each individual's residential surroundings. We focus on contextual diversity within a radius of 80 meters of a given individual, but we also compare the effect in the micro-context to the impact of diversity in more aggregate contexts. Our results show that ethnic diversity in the micro-context affects trust negatively, whereas the effect vanishes in larger contextual units. This supports the conjecture that interethnic exposure underlies the negative relationship between ethnic diversity in residential contexts and social trust.",
+  "authors": [
+    {
+      "raw": "Dinesen, Peter Thisted",
+      "family": "Dinesen",
+      "given": "Peter Thisted"
+    },
+    {
+      "raw": "Sonderskov, Kim Mannemar",
+      "family": "Sonderskov",
+      "given": "Kim Mannemar"
+    }
+  ],
+  "authors_text": "Dinesen, Peter Thisted; Sonderskov, Kim Mannemar",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1177/0003122415577989",
+  "doi_url": "https://doi.org/10.1177/0003122415577989",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122415577989",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122415577989.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

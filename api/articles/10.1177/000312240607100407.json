@@ -1,0 +1,40 @@
+{
+  "title": "Neighborhood social processes, physical conditions, and disaster-related mortality: The case of the 1995 Chicago heat wave",
+  "abstract": "The authors draw on Klinenberg (2002) ethnography and recent neighborhood theory to explain community-level variation in mortality during the July 1995 Chicago heat wave. They examine the impact of neighborhood structural disadvantage on heat wave mortality and consider three possible intervening mechanisms: social network interaction, collective efficacy, and commercial conditions. Combining Census and mortality data with the 1995 Project on Human Development in Chicago Neighborhoods Community Survey and Systematic Social Observation, the authors estimate hierarchical Poisson models of death rates both during the 1995 heat wave and comparable, temporally proximate July weeks (1990-94, 1996). They find that neighborhood affluence was negatively associated with heat wave mortality. Consistent with Klinenberg ethnographic study of the Chicago heat wave, commercial decline was positively associated with heat wave mortality and explains the affluence effect. Where commercial decline was low, neighborhoods were largely protected from heat-related mortality. Although social network interaction and collective efficacy did not influence heat wave mortality, collective efficacy was negatively associated with mortality during comparable July weeks (when no heat wave occurred). Unequal distribution of community-based resources had important implications for geographic differences in survival rates during the Chicago heat wave, and may be relevant for other disasters.",
+  "authors": [
+    {
+      "raw": "Browning, Christopher R.",
+      "family": "Browning",
+      "given": "Christopher R."
+    },
+    {
+      "raw": "Wallace, Danielle",
+      "family": "Wallace",
+      "given": "Danielle"
+    },
+    {
+      "raw": "Feinberg, Seth L.",
+      "family": "Feinberg",
+      "given": "Seth L."
+    },
+    {
+      "raw": "Cagney, Kathleen A.",
+      "family": "Cagney",
+      "given": "Kathleen A."
+    }
+  ],
+  "authors_text": "Browning, Christopher R.; Wallace, Danielle; Feinberg, Seth L.; Cagney, Kathleen A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1177/000312240607100407",
+  "doi_url": "https://doi.org/10.1177/000312240607100407",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240607100407",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240607100407.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The limits to cumulative causation revisited: Urban-origin Mexico- US migration in an era of increased immigration restrictions",
+  "abstract": "BACKGROUND Cumulative causation - the self-reproduction of migration through community social ties - is a phenomenon central to the continuation of Mexico-US migration, particularly for flows originating in rural areas. A debate has emerged over whether this self-reproducing process also occurs in large urban areas. OBJECTIVE I aim to determine whether cumulative causation explains US-bound migration from metropolitan areas in Mexico. METHODS Data comes from the Mexican Migration Project (MMP), which covers 154 origin communities in Mexico (30 of which are in metropolitan areas) and spans the period 1970-2015. Event-history models are used to estimate the association between community ties and taking a first and last US trip in rural areas, small cities, and metropolitan areas. RESULTS The findings support the contention that the migration process from metropolitan areas in Mexico is self-reproducing. Differences in the strength of community ties for predicting international repeat migration between rural and metropolitan areas have declined in recent decades. CONTRIBUTION Previous studies that found no evidence in support of the self-reproduction of migration in metropolitan areas were limited by either the small number of communities assessed or inadequate measurement of community ties. Using a larger sample of communities and better measurement, this study shows that social ties in large cities can play a role similar to that played by rural ties in facilitating and perpetuating international migration. The results suggest that metropolitan migrants from more recently surveyed localities use community ties to reduce the costs and risks of migration.",
+  "authors": [
+    {
+      "raw": "Paredes-Orozco, Guillermo",
+      "family": "Paredes-Orozco",
+      "given": "Guillermo"
+    }
+  ],
+  "authors_text": "Paredes-Orozco, Guillermo",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.28",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

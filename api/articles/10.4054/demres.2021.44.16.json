@@ -1,0 +1,25 @@
+{
+  "title": "Age and COVID-19 mortality: A comparison of Gompertz doubling time across countries and causes of death",
+  "abstract": "BACKGROUND Demographers have emphasized the importance of age in explaining the spread of COVID-19 and its impact on mortality. However, the relationship between COVID-19 mortality and age should be contextualized in relation to other causes of death. OBJECTIVE To compare the age pattern of COVID-19 mortality with other causes of death and across countries, and to use these regularities to impute age-specific death counts in countries with limited data. METHODS The COVID-19 mortality doubling time in a Gompertz context was compared with 65 major causes of death using US vital statistics. COVID-19 fatality doubling time was similarly compared across 27 countries and used for estimating death counts by age in Israel as a case in point. RESULTS First, COVID-19 mortality increases exponentially with age at a Gompertz rate near the median of aging-related causes of death, as well as pneumonia and influenza. Second, COVID-19 mortality levels are 2.8 to 8.2 times higher than pneumonia and influenza across the adult age range. Third, the relationship between both COVID-19 mortality and fatality and age varies considerably across countries. CONCLUSIONS The increase in COVID-19 mortality with age resembles the population rate of aging. Country differences in the age pattern of COVID-19 mortality and fatality may point to differences in underlying population health, standards of clinical care, or data quality. CONTRIBUTION This study underscores the need to contextualize the age pattern of COVID-19 mortality in relation to other causes of death. Furthermore, it demonstrates how to estimate agespecific COVID-19 deaths in countries with limited data availability.",
+  "authors": [
+    {
+      "raw": "Sasson, Isaac",
+      "family": "Sasson",
+      "given": "Isaac"
+    }
+  ],
+  "authors_text": "Sasson, Isaac",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.16",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

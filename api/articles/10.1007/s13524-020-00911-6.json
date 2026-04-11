@@ -1,0 +1,45 @@
+{
+  "title": "Biases in Survey Estimates of Neonatal Mortality: Results From a Validation Study in Urban Areas of Guinea-Bissau",
+  "abstract": "Neonatal deaths (occurring within 28 days of birth) account for close to one-half of all deaths among children under age 5 worldwide. In most low- and middle-income countries, data on neonatal deaths come primarily from household surveys. We conducted a validation study of survey data on neonatal mortality in Guinea-Bissau (West Africa). We used records from an urban health and demographic surveillance system (HDSS) that monitors child survival prospectively as our reference data set. We selected a stratified sample of 599 women aged 15-49 among residents of the HDSS and collected the birth histories of 422 participants. We cross-tabulated survey and HDSS data. We used a mathematical model to investigate biases in survey estimates of neonatal mortality. Reporting errors in survey data might lead to estimates of the neonatal mortality rate that are too high, which may limit our ability to track progress toward global health objectives.",
+  "authors": [
+    {
+      "raw": "Helleringer, Stephane",
+      "family": "Helleringer",
+      "given": "Stephane"
+    },
+    {
+      "raw": "Liu, Li",
+      "family": "Liu",
+      "given": "Li"
+    },
+    {
+      "raw": "Chu, Yue",
+      "family": "Chu",
+      "given": "Yue"
+    },
+    {
+      "raw": "Rodrigues, Amabelia",
+      "family": "Rodrigues",
+      "given": "Amabelia"
+    },
+    {
+      "raw": "Fisker, Ane Barent",
+      "family": "Fisker",
+      "given": "Ane Barent"
+    }
+  ],
+  "authors_text": "Helleringer, Stephane; Liu, Li; Chu, Yue; Rodrigues, Amabelia; Fisker, Ane Barent",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00911-6",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00911-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00911-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00911-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

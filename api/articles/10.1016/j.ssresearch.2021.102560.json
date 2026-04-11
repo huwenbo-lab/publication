@@ -1,0 +1,35 @@
+{
+  "title": "Peer effects of friend and extracurricular activity networks on students' academic performance",
+  "abstract": "Relationships with peers are critical for many aspects of adolescent development, including academic outcomes. Incorporating social control, social learning, and social capital theories, we investigated connections between two types of peer networks, close friends and extracurricular activity (ECA) members, and students' own academic performance. Social learning and bonding social capital perspectives posit that close friends should have a symmetrical effect, either beneficial or harmful, because they exert strong influences on adolescents. By contrast, social control and bridging/linking social capital perspectives suggest that ECA member influences should be asymmetrical as they amplify benefits from higher-performing ECA peers and minimize harmful influences from lower-performing ones. We used Add Health data to test our hypotheses. We found that the average friend GPA was positively associated (in the same direction) with student GPA, while ECA member GPAs were, as hypothesized, asymmetrically linked to student GPA. We discussed implications for educators and future research.",
+  "authors": [
+    {
+      "raw": "Fujiyama, Hideki",
+      "family": "Fujiyama",
+      "given": "Hideki"
+    },
+    {
+      "raw": "Kamo, Yoshinori",
+      "family": "Kamo",
+      "given": "Yoshinori"
+    },
+    {
+      "raw": "Schafer, Mark",
+      "family": "Schafer",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Fujiyama, Hideki; Kamo, Yoshinori; Schafer, Mark",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102560",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102560",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102560",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102560.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

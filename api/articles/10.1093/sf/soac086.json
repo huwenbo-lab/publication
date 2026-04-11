@@ -1,0 +1,30 @@
+{
+  "title": "The Geography of Gentrification and Residential Mobility",
+  "abstract": "Gentrification research often starts with the hypothesis that gentrification causes displacement of a neighborhood's original residents, particularly low-income and vulnerable residents. Recent research based on large-scale quantitative data suggests that the displacement effects of gentrification for low-income residents evident from case studies and qualitative data are modest at the macroscale. We use geocoded microdata from the American Community Survey to investigate the association between gentrification and residential mobility in the 2010s, the time period following the Great Recession. Our large national sample allows us to consider heterogeneity in the association between gentrification and residential mobility, investigating differential association by distinct clusters of metropolitan areas. We find a modest positive significant association between moderate and intense gentrification and residential mobility in our full national sample. The national estimates, however, mask considerable heterogeneity in the association between gentrification and residential mobility in different types of metropolitan areas. College Town and Retirement Destination metros see the largest positive association between gentrification and residential mobility, while Large Coastal and Large Southern/Midwestern metros experience a more modest positive association. We find weak or no significant association in Inland Empire/Texas Border metros. We heed a call for more investigation of heterogeneity in neighborhood processes across different contexts.",
+  "authors": [
+    {
+      "raw": "Lee, Hyojung",
+      "family": "Lee",
+      "given": "Hyojung"
+    },
+    {
+      "raw": "Perkins, Kristin L.",
+      "family": "Perkins",
+      "given": "Kristin L."
+    }
+  ],
+  "authors_text": "Lee, Hyojung; Perkins, Kristin L.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac086",
+  "doi_url": "https://doi.org/10.1093/sf/soac086",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac086",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac086.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Health Insurance and the Aging: Evidence From the Seguro Popular Program in Mexico",
+  "abstract": "Aimed at covering the large fraction of workers in the informal sector without access to a social security program, the Mexican public health insurance program Seguro Popular began in 2002 and now reaches more than 50 million individuals. We estimate impacts of Seguro Popular for the population aged 50 and older on a set of indicators related to health care including utilization, diagnostic/preventive tests, and treatment conditional on being ill. Using the longitudinal Mexican Health and Aging Study over the period 2001-2012, we conduct before and after difference-in-difference matching impact estimators. Our results suggest large and important effects of the Program on utilization and diagnostic tests. We find overall smaller effects on the probability of being in treatment for individuals with chronic diseases, but these effects are concentrated in rural areas with relatively more health services versus rural areas with lower levels of health services. These results suggest that, to the extent that health services become more available in rural areas lacking services, effects of health insurance may increase.",
+  "authors": [
+    {
+      "raw": "Parker, Susan W.",
+      "family": "Parker",
+      "given": "Susan W."
+    },
+    {
+      "raw": "Saenz, Joseph",
+      "family": "Saenz",
+      "given": "Joseph"
+    },
+    {
+      "raw": "Wong, Rebeca",
+      "family": "Wong",
+      "given": "Rebeca"
+    }
+  ],
+  "authors_text": "Parker, Susan W.; Saenz, Joseph; Wong, Rebeca",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-017-0645-4",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0645-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0645-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0645-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

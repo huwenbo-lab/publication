@@ -1,0 +1,30 @@
+{
+  "title": "Incorporating subjective survival information in mortality and change in health status predictions: A Bayesian approach",
+  "abstract": "BACKGROUND Subjective survival probabilities incorporate individuals' view about own future survival and they are associated with actual mortality patterns. OBJECTIVE The objective of this study is twofold. First, we apply a Bayesian methodology to incorporate the respondents' views about future survival, and second, we investigate whether subjective survival information is useful for predicting actual mortality and self-reported change in health. METHODS To achieve the above-mentioned objective, we adopt a two-step process. In the first step, we use a Bayesian linear regression model, under default priors, on the logit transformation of the subjective mortality probabilities to estimate the posterior distribution of the regression coefficients of the available explanatory variables. In the second step, we fit Bayesian logistic regression models on actual mortality and self-reported change in health, using a variety of priors derived from the posterior distributions of the first step Bayesian model. Data from the Health and Retirement Study (HRS) Waves 13 and 14 are used in this paper. CONCLUSIONS We conclude that the additional information incorporated via the subjective mortality probabilities is useful for predicting actual mortality but less useful for predicting selfreported change in health.",
+  "authors": [
+    {
+      "raw": "Papachristos, Apostolos",
+      "family": "Papachristos",
+      "given": "Apostolos"
+    },
+    {
+      "raw": "Fouskakis, Dimitris",
+      "family": "Fouskakis",
+      "given": "Dimitris"
+    }
+  ],
+  "authors_text": "Papachristos, Apostolos; Fouskakis, Dimitris",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.36",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.36",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.36",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.36.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "World Society Corridors: Partnership Patterns in the Spread of Human Rights",
+  "abstract": "Considerable sociological work shows that the human rights regime is rapidly expanding through isomorphic processes. We provide new insight into human rights diffusion through an analysis of the Universal Periodic Review (UPR), a global forum in which all states receive human rights recommendations from their peers. We convert the roughly 50,000 recommendations from the first two cycles of the UPR into a relational dataset of states making and receiving recommendations, inductively modeling this process of human rights diffusion through latent class regression. Building on research in the new institutionalism, we find that asymmetric relationships between states make it less likely for human rights recommendations to be accepted, with accepted recommendations tending to be more general and easier to implement. We argue that these partnership patterns provide evidence for normative corridors that give world society its shape. By drawing together world society approaches with relational sociology, we develop new insights into the structuration of human rights and normative change more broadly.",
+  "authors": [
+    {
+      "raw": "Sendroiu, Ioana",
+      "family": "Sendroiu",
+      "given": "Ioana"
+    },
+    {
+      "raw": "Levi, Ron",
+      "family": "Levi",
+      "given": "Ron"
+    }
+  ],
+  "authors_text": "Sendroiu, Ioana; Levi, Ron",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soad020",
+  "doi_url": "https://doi.org/10.1093/sf/soad020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

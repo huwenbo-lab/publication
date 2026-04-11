@@ -1,0 +1,25 @@
+{
+  "title": "The diffusion of cohabitation and children's risks of family dissolution in Canada",
+  "abstract": "BACKGROUND Because cohabiting unions are, on average, less stable than marriages, the diffusion of childbearing within cohabitation could lead to an overall increase in family instability. The possibility that cohabiting families become increasingly stable throughout the diffusion process is, however, seldom studied. OBJECTIVE Taking the point of view of Canadian children, we investigated the differential effect of the diffusion of childbearing within cohabitation on married and cohabiting parents' risks of separation. We were especially attentive to the functional form of relationships and to the specific role of selection and causal mechanisms. METHODS We used Cox regressions to estimate children's hazards of parental separation up to age 6 according to the prevalence of childbearing within cohabitation in their province and cohort. The analysis is conducted by merging individual survey data on Canadian children born from 1989 to 2004 (NLSCY; n=24,175) with contextual data from various sources. RESULTS As childbearing within cohabitation increased in Canadian provinces, cohabiting families remained less stable than married ones, but the stability levels of both converged. The stability gap was only partially explained by the selection of more separation-prone parents into cohabitation; the remaining gap could be associated with the normative context in which family formation occurs. CONTRIBUTION Comparing several geographic units and cohorts within the same model allowed us to describe the association between the diffusion process and separation using continuous functions, not only for the hazard ratio but also for its numerator (decreasing separation risks among cohabiting families) and denominator (increasing risks among married families).",
+  "authors": [
+    {
+      "raw": "Pelletier, David",
+      "family": "Pelletier",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Pelletier, David",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.45",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.45",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.45",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.45.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

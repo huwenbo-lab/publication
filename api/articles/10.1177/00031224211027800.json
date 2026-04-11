@@ -1,0 +1,30 @@
+{
+  "title": "The Wealth Inequality of Nations",
+  "abstract": "Comparative research on income inequality has produced several frameworks to study the institutional determinants of income stratification. In contrast, no such framework and much less empirical evidence exist to explain cross-national differences in wealth inequality. This situation is particularly lamentable as cross-national patterns of inequality in wealth diverge sharply from those in income. We seek to pave the way for new explanations of cross-national differences in wealth inequality by tracing them to the influence of different wealth components. Drawing on the literatures on financialization and housing, we argue that housing equity should be the central building block of the comparative analysis of wealth inequality. Using harmonized data on 15 countries included in the Luxembourg Wealth Study (LWS), we demonstrate a lack of association between national levels of income and wealth inequality and concentration. Using decomposition approaches, we then estimate the degree to which national levels of wealth inequality and concentration relate to cross-national differences in wealth portfolios and the distribution of specific asset components. Considering the role of housing equity, financial assets, non-housing real assets, and non-housing debt, we show that cross-national variation in wealth inequality and concentration is centrally determined by the distribution of housing equity.",
+  "authors": [
+    {
+      "raw": "Pfeffer, Fabian T.",
+      "family": "Pfeffer",
+      "given": "Fabian T."
+    },
+    {
+      "raw": "Waitkus, Nora",
+      "family": "Waitkus",
+      "given": "Nora"
+    }
+  ],
+  "authors_text": "Pfeffer, Fabian T.; Waitkus, Nora",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/00031224211027800",
+  "doi_url": "https://doi.org/10.1177/00031224211027800",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211027800",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211027800.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

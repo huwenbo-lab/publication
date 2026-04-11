@@ -1,0 +1,25 @@
+{
+  "title": "Cohort and Life-Course Patterns in the Relationship between Education and Health: A Hierarchical Approach",
+  "abstract": "Recent medical sociological research has examined whether the relationship between education and health is dynamic across age, whereas recent demographic research has examined whether the relationship varies across cohorts. In this study, I examine how cohort structures the influence of education on life-course health trajectories. At the cohort level, changes in education and in the distribution of health and mortality make cohort differences in education's effect probable. At the life-course level, the effect of education may vary across age because the mediators of the education-health relationship may vary in their relevance to health across the life course. Using basic regression analyses and random-effects models of two national data sets, I find that the effect of education strengthens across age, that this pattern is becoming stronger across cohorts, and that these patterns are suppressed when either effect is ignored.",
+  "authors": [
+    {
+      "raw": "Lynch, Scott M.",
+      "family": "Lynch",
+      "given": "Scott M."
+    }
+  ],
+  "authors_text": "Lynch, Scott M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.2307/3180803",
+  "doi_url": "https://doi.org/10.2307/3180803",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3180803",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3180803.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

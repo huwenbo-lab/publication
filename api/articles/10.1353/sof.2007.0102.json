@@ -1,0 +1,35 @@
+{
+  "title": "Income Inequality, Global Economy and the State",
+  "abstract": "We investigate interrelationship among income inequality, global economy and the role of the state using an unbalanced panel data set with 311 observations on 60 countries, dated from 1970 to 1994. The analysis proceeds in two stages. First, we test for effects on income inequality of variables characterizing the situation of a society in the world system: world system position (core, semi-periphery, periphery), foreign trade structure, export commodity concentration, export partner concentration and size of the state (measured as government expenditure or revenue). Second, we analyze the role of the interaction between foreign direct investment and government size in the inverted-U shaped relationship of income inequality with foreign investment. We find that most traditional measures of trade dependence have inconsistent or weak positive effects on inequality, while export commodity concentration has a negative effect. We also find that the effects of foreign direct investment on inequality is positive at low to intermediate levels of government size, but that this effect is substantially attenuated or negative in societies with a larger public sector. We conclude that distributional outcomes are dependent upon how the state reacts to growing globalization-related pressures.",
+  "authors": [
+    {
+      "raw": "Lee, C.-S.",
+      "family": "Lee",
+      "given": "C.-S."
+    },
+    {
+      "raw": "Nielsen, F.",
+      "family": "Nielsen",
+      "given": "F."
+    },
+    {
+      "raw": "Alderson, A. S.",
+      "family": "Alderson",
+      "given": "A. S."
+    }
+  ],
+  "authors_text": "Lee, C.-S.; Nielsen, F.; Alderson, A. S.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2007,
+  "doi": "10.1353/sof.2007.0102",
+  "doi_url": "https://doi.org/10.1353/sof.2007.0102",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2007.0102",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2007.0102.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

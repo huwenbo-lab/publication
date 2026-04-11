@@ -1,0 +1,25 @@
+{
+  "title": "A fixed-effects multilevel analysis of how community family structure affects individual mortality in Norway",
+  "abstract": "AbstractBy using register data for the entire Norwegian population aged 50–89 in the period 1980–1999, during which there were about 720,000 deaths, I estimate how the proportions of persons who were divorced or never married in the municipality affected all-cause mortality, net of individual marital status. The data include individual histories of changes in marital status and places of residence, providing a rare opportunity to enter municipality fixed effects into the model, thereby capturing the time-invariant unobserved factors at that level. The positive health externality of marriage that is suggested in the literature is supported by some of the estimates for women. Other estimates—especially those for men—point in the opposite direction. One possible interpretation of these findings is that social cohesion is perhaps not as beneficial for people’s health as often claimed, at least not for both sexes. Alternatively, the results may reflect that marriage perhaps undermines rather than strengthens social cohesion, or that other mechanisms are involved—for example, those that are related to people’s perceptions of their health relative to the health of others. Estimates from models without such municipality fixed effects are markedly different, but these also shed doubt on the notion that a high proportion of unmarried persons generally increases individual mortality.",
+  "authors": [
+    {
+      "raw": "Kravdal, Øystein",
+      "family": "Kravdal",
+      "given": "Øystein"
+    }
+  ],
+  "authors_text": "Kravdal, Øystein",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0029",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0029",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0029",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0029.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

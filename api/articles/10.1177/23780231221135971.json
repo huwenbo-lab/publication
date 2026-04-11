@@ -1,0 +1,25 @@
+{
+  "title": "Climate-Related Disasters and Children’s Health: Evidence from Hurricane Harvey",
+  "abstract": "Children have been theorized as vulnerable to the health consequences of climate change, but data limitations have hampered prior studies of climate-related disasters in the United States. In this article, the author exploits the interruption of a health survey in Houston by Hurricane Harvey, linked to local flooding data ( n = 1,123, ages 5–17 years). Multivariable models on a matched sample show that Harvey led to worse parent-reported health among children six to nine months later, particularly in flooded communities. Further evidence suggests that household life disruption and home damage were key mechanisms and that severe exposure correlated with larger health declines among immigrants, including Hispanic and Asian or other-race children and those younger than 10 years. Integrating these findings with life-course theory and climate science, the author argues that through disasters, climate change should be conceptualized as a risk factor for heath and intragenerational disparities within cohorts and for intergenerational inequalities as newer cohorts experience more extreme weather.",
+  "authors": [
+    {
+      "raw": "Raker, Ethan J.",
+      "family": "Raker",
+      "given": "Ethan J."
+    }
+  ],
+  "authors_text": "Raker, Ethan J.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221135971",
+  "doi_url": "https://doi.org/10.1177/23780231221135971",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221135971",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221135971.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

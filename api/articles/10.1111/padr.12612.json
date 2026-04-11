@@ -1,0 +1,35 @@
+{
+  "title": "Climatic Variability and Internal Migration in Asia: Evidence from Big Microdata",
+  "abstract": "The effects of climate change on human migration have received widespread attention, driven in part by concerns about potential large-scale population displacements. Recent studies demonstrate that climate-migration linkages are often complex, and climatic variability may increase, decrease, or have null effects on migration. However, the use of noncomparable analytic strategies across studies makes it difficult to disentangle substantive variation in climate effects across populations and places from methodological artifacts. We address this gap by using harmonized census and survey microdata from six Asian countries (n = 54,987,838) to measure climate effects on interprovincial migration, overall and among subpopulations defined by age, sex, education, and country of residence. We also evaluate whether climate effects differ according to the distance and type of move. Exposure to precipitation deficits leads to substantively large reductions in out-migration, and, surprisingly, these overall effects do not vary meaningfully by age, sex, or educational attainment. However, there are significant differences in the strength and direction of temperature and precipitation effects by country and within countries. Multinomial models show that precipitation deficits reduce internal migration to both adjacent and nonadjacent provinces. Finally, consistent with expectations that climate effects operate through economic mechanisms, spells of low precipitation reduce the probability of work-related moves in the countries where the reason for migration is measured. Our findings provide further evidence that adverse environmental conditions can reduce migration, underlining the need for policymakers to consider how to support both displaced and trapped populations.",
+  "authors": [
+    {
+      "raw": "Thiede, Brian C.",
+      "family": "Thiede",
+      "given": "Brian C."
+    },
+    {
+      "raw": "Robinson, Abbie",
+      "family": "Robinson",
+      "given": "Abbie"
+    },
+    {
+      "raw": "Gray, Clark",
+      "family": "Gray",
+      "given": "Clark"
+    }
+  ],
+  "authors_text": "Thiede, Brian C.; Robinson, Abbie; Gray, Clark",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12612",
+  "doi_url": "https://doi.org/10.1111/padr.12612",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12612",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12612.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

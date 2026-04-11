@@ -1,0 +1,30 @@
+{
+  "title": "Why does women's education stabilize marriages? The role of marital attraction and barriers to divorce",
+  "abstract": "BACKGROUND Despite widespread attention paid to the negative correlation between female education and divorce, we lack an explanation for it. In this study we use social exchange theory to assess two broad groups of explanations. According to the 'marital attraction' explanation, educated women's marriages have higher marital quality and marital satisfaction. According to the 'barriers to divorce' explanation, educated women's marriages include factors that raise the cost of divorcing. Many previous studies have referred to variants of the former explanation, whereas the latter has been less prominent. Our objective is to investigate the explanatory power of these two explanations. METHODS We use discrete-time event history models to document the educational gradient of divorce from first marriages using the British Household Panel Survey (N = 1,263) for the years 1996-2009. We subsequently perform a mediation analysis to explain the educational gradient in divorce and a path analysis to distinguish which factors shape marital attraction and barriers to divorce. RESULTS Female education is positively related to marital stability, but this association is only partly explained by educational differences in marital satisfaction and variables that shape attractions. Variables interpreted as affecting barriers to divorce, such as home ownership and having divorced parents, provide an at least equally important explanation of the educational gradient in divorce. CONTRIBUTION This paper shows that the negative female educational gradient of divorce is shaped not only by educational differences in marital attraction, but also by differences in barriers to divorce.",
+  "authors": [
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    },
+    {
+      "raw": "Harkonen, Juho",
+      "family": "Harkonen",
+      "given": "Juho"
+    }
+  ],
+  "authors_text": "Boertien, Diederik; Harkonen, Juho",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.41",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Citizenship Advantage in Psychological Well-being: An Examination of the Hukou System in China",
+  "abstract": "Given that Chinese migrants with rural hukou status are not considered full citizens in their urban destinations, rural-urban hukou conversion signifies full citizenship attainment in urban China. We assess causal effects of three major types of urban hukou attainment-merit-, policy-, and family-based hukou conversion-on migrants' psychological well-being in middle- and later-life. We further examine how hukou matters-how periods and hukou destinations alter the values of specific urban hukou and their psychological health implications for individuals. We use the China Health and Retirement Longitudinal Study (2015 data) and life history data (for 2014) for analysis. To assess the extent to which the salmon effect contributes to estimation bias for migrants, we compare results from a sample with current migrants and one with current and returned migrants. To address for selection into hukou conversion, we adopt inverse probability-weighted regression adjustment methods. We show that the salmon bias significantly dampened causal estimates. Merit- and policy-based hukou conversion has protective effects on psychological well-being. Policy-based converters have better psychological health than other types of converters. Hukou conversion in the pre-1978 period conveys greater psychological benefits than that in the post-1998 period, when economic and social values of urban hukou have decreased. Hukou converters in the cities with the most resources enjoy better psychological well-being than their counterparts in other cities. Our study joins the emerging literature in investigating how citizenship conveys advantage in health and well-being. We discuss these results in the global context as well as the context of China's decades of evolution of hukou policy and the urbanization process.",
+  "authors": [
+    {
+      "raw": "Song, Qian",
+      "family": "Song",
+      "given": "Qian"
+    },
+    {
+      "raw": "Smith, James P.",
+      "family": "Smith",
+      "given": "James P."
+    }
+  ],
+  "authors_text": "Song, Qian; Smith, James P.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8913024",
+  "doi_url": "https://doi.org/10.1215/00703370-8913024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8913024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8913024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

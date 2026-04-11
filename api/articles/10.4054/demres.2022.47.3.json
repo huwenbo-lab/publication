@@ -1,0 +1,30 @@
+{
+  "title": "Extramarital fertility in low- and middle-income countries",
+  "abstract": "BACKGROUND In most societies, childbearing is largely confined to women in formal marital unions, but in a subset of contemporary low-fertility Western societies, extramarital fertility has become common. However, extramarital fertility is often ignored in fertility research in contemporary low-and middle-income countries (LMICs). OBJECTIVE To document recent levels, trends, and differentials in extramarital fertility (both premarital and postmarital) in LMICs. METHODS We employ Schoumaker's (2013) Stata program tfr2 to calculate two fertility measures from Demographic and Health Surveys in 63 countries: (1) the standard total fertility rate (TFR), which is based on all births in the three years before the survey date, and (2) the marital total fertility rate (MTFR), which is based on all births within marital unions in the three years before the survey date. The percentage of fertility that is extramarital (PEM) is estimated as 100 x (TFR-MTFR)/TFR. RESULTS The unweighted average PEM for the most recent surveys in the 63 DHS countries equals 11.3%, with 7.9% premarital and 3.4% postmarital. By far the highest percentage premarital is found in southern Africa (43%) and the lowest in Asia/North Africa (0.9%). Postmarital fertility is most common in sub-Saharan Africa and Latin America. CONCLUSIONS Childbearing outside of marriage is an important feature of contemporary reproductive regimes in sub-Saharan Africa and Latin America. By contrast, less than 2% of births are extramarital in most Asian and North African societies.",
+  "authors": [
+    {
+      "raw": "Bongaarts, John",
+      "family": "Bongaarts",
+      "given": "John"
+    },
+    {
+      "raw": "Casterline, John",
+      "family": "Casterline",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Bongaarts, John; Casterline, John",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.3",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

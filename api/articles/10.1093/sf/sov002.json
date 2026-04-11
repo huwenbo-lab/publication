@@ -1,0 +1,25 @@
+{
+  "title": "Learning from Performance: Banks, Collateralized Debt Obligations, and the Credit Crisis",
+  "abstract": "This article investigates how firms in competitive markets use external examples to assess the value of novel practices, focusing on the substantively important case of collateralized debt obligation (CDO) underwriting among US investment and commercial banks, 1996-2007. Diffusion researchers have struggled to adjudicate between competing mechanisms of social contagion, including imitation and learning. I use event-history methods to examine how banks responded to the activities and results of other CDO underwriters. I show that banks learned superstitiously from the share price performance of other CDO underwriters; as the popularity of CDO underwriting increased, banks became even more attentive to confirmatory evidence on this dimension. These findings suggest important refinements to theories of social contagion, especially neoinstitutional theory. By focusing on ordinary organizational processes in an extraordinary context, I uncover an alternative explanation for the rise of complex securitization, with implications for current understandings of the credit crisis.",
+  "authors": [
+    {
+      "raw": "Pernell-Gallagher, Kim",
+      "family": "Pernell-Gallagher",
+      "given": "Kim"
+    }
+  ],
+  "authors_text": "Pernell-Gallagher, Kim",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sov002",
+  "doi_url": "https://doi.org/10.1093/sf/sov002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

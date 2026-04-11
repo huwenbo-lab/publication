@@ -1,0 +1,25 @@
+{
+  "title": "Causal Inference in Sociological Research",
+  "abstract": "Originating in econometrics and statistics, the counterfactual model provides a natural framework for clarifying the requirements for valid causal inference in the social sciences. This article presents the basic potential outcomes model and discusses the main approaches to identification in social science research. It then addresses approaches to the statistical estimation of treatment effects either under unconfoundedness or in the presence of unmeasured heterogeneity. As an update to Winship & Morgan's (1999) earlier review, the article summarizes the more recent literature that is characterized by a broader range of estimands of interest, a renewed interest in exploiting experimental and quasi-experimental designs, and important progress in the areas of semi- and nonparametric estimation of treatment effects, difference-in-differences estimation, and instrumental variable estimation. The review concludes by highlighting implications of the recent econometric and statistical literature for sociological research practice. Avoiding causal language when causality is the real subject of our investigation either renders the research irrelevant or permits it to be undisciplined by the rules of scientific inference .... Rather we should draw causal inferences where they seem appropriate but also provide the reader with the best and most honest estimate of the uncertainty of that inference. (King et al. 1994, p. 76)",
+  "authors": [
+    {
+      "raw": "Gangl, Markus",
+      "family": "Gangl",
+      "given": "Markus"
+    }
+  ],
+  "authors_text": "Gangl, Markus",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2010,
+  "doi": "10.1146/annurev.soc.012809.102702",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.012809.102702",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.012809.102702",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.012809.102702.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

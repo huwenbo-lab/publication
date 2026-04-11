@@ -1,0 +1,25 @@
+{
+  "title": "Counterfactuals, causal effect heterogeneity, and the catholic school effect on learning",
+  "abstract": "School-effects research in sociology cannot be separated from concerns about causality. Purely descriptive modeling justifications are untenable. Focusing on the Catholic school effect on learning, this article demonstrates an approach that places regression modeling strategies within a specific and well-developed framework for thinking about causality. While regression models should properly remain the workhorse methodology for school-effects research, regression estimates should more often be subject to exacting interpretations and presented alongside alternative estimates of more specific parameters of interest. In this demonstration, propensity-score matching estimates of the Catholic school effect for the Catholic schooled are provided to supplement the estimates obtained by regression models. Although subject to their own set of weaknesses, the matching estimates suggest that the Catholic school effect is the strongest among those Catholic school students who, according to their observed characteristics, are least likely to attend Catholic schools. Four alternative explanations are offered for this finding, each of which should be pursued in further research.",
+  "authors": [
+    {
+      "raw": "Morgan, SL",
+      "family": "Morgan",
+      "given": "SL"
+    }
+  ],
+  "authors_text": "Morgan, SL",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2001,
+  "doi": "10.2307/2673139",
+  "doi_url": "https://doi.org/10.2307/2673139",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2673139",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2673139.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Climate change and health transitions: Evidence from Antananarivo, Madagascar",
+  "abstract": "BACKGROUND Global climate change poses grave risks to population health, especially in low- and middle-income countries (LMICs). It both threatens the sustainability of nascent epidemiological transitions and raises prospects for counter transitions driven by indirect climate impacts on mortality, such as those from reemerging infectious diseases and by direct impacts of extreme climatic events. OBJECTIVE We investigate how the relationship between climate and mortality has changed as Antananarivo, Madagascar, progressed through the stages of the epidemiological transition, focusing on enteric infection mortality in children under 5. METHODS Using death registration, precipitation, and temperature time series data spanning over four decades, we model the climate-cause-specific mortality relationships during each stage of the epidemiological transition using generalized additive models. CONCLUSIONS While we find that childhood enteric infection mortality has become less sensitive to low rainfall and higher temperatures, it has become more sensitive to heavy rainfall. Mortality from other causes has also become less sensitive to high temperatures but has become slightly more sensitive to heavy rainfall while significantly more sensitive to low temperatures.",
+  "authors": [
+    {
+      "raw": "Klein, Jordan D.",
+      "family": "Klein",
+      "given": "Jordan D."
+    },
+    {
+      "raw": "Rasoanomenjanahary, Anjarasoa",
+      "family": "Rasoanomenjanahary",
+      "given": "Anjarasoa"
+    }
+  ],
+  "authors_text": "Klein, Jordan D.; Rasoanomenjanahary, Anjarasoa",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.6",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

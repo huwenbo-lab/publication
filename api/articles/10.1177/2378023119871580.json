@@ -1,0 +1,40 @@
+{
+  "title": "Introduction to the Special Collection on the Fragile Families Challenge",
+  "abstract": "The Fragile Families Challenge is a scientific mass collaboration designed to measure and understand the predictability of life trajectories. Participants in the Challenge created predictive models of six life outcomes using data from the Fragile Families and Child Wellbeing Study, a high-quality birth cohort study. This Special Collection includes 12 articles describing participants’ approaches to predicting these six outcomes as well as 3 articles describing methodological and procedural insights from running the Challenge. This introduction will help readers interpret the individual articles and help researchers interested in running future projects similar to the Fragile Families Challenge.",
+  "authors": [
+    {
+      "raw": "Salganik, Matthew J.",
+      "family": "Salganik",
+      "given": "Matthew J."
+    },
+    {
+      "raw": "Lundberg, Ian",
+      "family": "Lundberg",
+      "given": "Ian"
+    },
+    {
+      "raw": "Kindel, Alexander T.",
+      "family": "Kindel",
+      "given": "Alexander T."
+    },
+    {
+      "raw": "McLanahan, Sara",
+      "family": "McLanahan",
+      "given": "Sara"
+    }
+  ],
+  "authors_text": "Salganik, Matthew J.; Lundberg, Ian; Kindel, Alexander T.; McLanahan, Sara",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119871580",
+  "doi_url": "https://doi.org/10.1177/2378023119871580",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119871580",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119871580.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

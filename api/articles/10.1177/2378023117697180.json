@@ -1,0 +1,30 @@
+{
+  "title": "Directional Asymmetry in Sociological Analyses",
+  "abstract": "The authors present a straightforward method for assessing symmetry and asymmetry in the effect of an independent variable, on the basis of its direction of change, on a dependent variable in statistical models and provide two different empirical illustrations: (1) the effect of economic change on electricity production in nations and (2) the effect of change in income on wealth accumulation among individuals. In so doing, the authors also demonstrate specific ways to illustrate and interpret asymmetrical effects. Finally, the authors note a variety of theoretical reasons to expect asymmetry and suggest areas in which it may be observed.",
+  "authors": [
+    {
+      "raw": "York, Richard",
+      "family": "York",
+      "given": "Richard"
+    },
+    {
+      "raw": "Light, Ryan",
+      "family": "Light",
+      "given": "Ryan"
+    }
+  ],
+  "authors_text": "York, Richard; Light, Ryan",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2017,
+  "doi": "10.1177/2378023117697180",
+  "doi_url": "https://doi.org/10.1177/2378023117697180",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023117697180",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023117697180.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

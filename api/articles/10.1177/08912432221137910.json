@@ -1,0 +1,30 @@
+{
+  "title": "Gender Bias in Stem Hiring: Implicit In-Group Gender Favoritism Among Men Managers",
+  "abstract": "Women’s underrepresentation in science, technology, engineering, and mathematics (STEM) is related to the hierarchical social structure of gender relations in these fields. However, interventions to increase women’s participation have focused primarily on women’s interests rather than on STEM managers’ hiring practices. In this research, we examine STEM hiring practices, explore the implicit bias in criteria used by STEM managers, and suggest possible corrective solutions. Using an experimental design with 213 men and women STEM managers, we show that when evaluating a female candidate, women and men STEM managers apply differential selection criteria, with men demonstrating implicit in-group gender favoritism in their hiring decisions. Specifically, the ability to work long hours was a more important criterion for male managers when evaluating a female candidate, forming an implicit gender bias, whereas female managers gave greater importance to problem-solving ability, a more gender-equal criterion. Adding a personal note to the curriculum vitae stating that the candidate had hired a full-time nanny was useful in decreasing the importance of the ability to work long hours criterion for men managers. We suggest individual and institutional interventions to reduce this bias, as a path to increasing women’s participation in STEM.",
+  "authors": [
+    {
+      "raw": "Friedmann, Enav",
+      "family": "Friedmann",
+      "given": "Enav"
+    },
+    {
+      "raw": "Efrat-Treister, Dorit",
+      "family": "Efrat-Treister",
+      "given": "Dorit"
+    }
+  ],
+  "authors_text": "Friedmann, Enav; Efrat-Treister, Dorit",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2022,
+  "doi": "10.1177/08912432221137910",
+  "doi_url": "https://doi.org/10.1177/08912432221137910",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432221137910",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432221137910.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

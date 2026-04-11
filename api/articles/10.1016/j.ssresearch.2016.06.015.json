@@ -1,0 +1,40 @@
+{
+  "title": "Reducing children's behavior problems through social capital: A causal assessment",
+  "abstract": "Behavior problems among young children have serious detrimental effects on short and long-term educational outcomes. An especially promising prevention strategy may be one that focuses on strengthening the relationships among families in schools, or social capital. However, empirical research on social capital has been constrained by conceptual and causal ambiguity. This study attempts to construct a more focused conceptualization of social capital and aims to determine the causal effects of social capital on children's behavior. Using data from a cluster randomized trial of 52 elementary schools, we apply several multilevel models to assess the causal relationship, including intent to treat and treatment on the treated analyses. Taken together, these analyses provide stronger evidence than previous studies that social capital improves children's behavioral outcomes and that these improvements are not simply a result of selection into social relations but result from the social relations themselves. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Turley, Ruth N. Lopez",
+      "family": "Turley",
+      "given": "Ruth N. Lopez"
+    },
+    {
+      "raw": "Gamoran, Adam",
+      "family": "Gamoran",
+      "given": "Adam"
+    },
+    {
+      "raw": "McCarty, Alyn Turner",
+      "family": "McCarty",
+      "given": "Alyn Turner"
+    },
+    {
+      "raw": "Fish, Rachel",
+      "family": "Fish",
+      "given": "Rachel"
+    }
+  ],
+  "authors_text": "Turley, Ruth N. Lopez; Gamoran, Adam; McCarty, Alyn Turner; Fish, Rachel",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.06.015",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.06.015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.06.015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.06.015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

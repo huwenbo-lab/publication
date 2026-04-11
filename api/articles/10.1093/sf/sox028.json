@@ -1,0 +1,40 @@
+{
+  "title": "The Weight of Inequality: Socioeconomic Status and Adolescent Body Mass in Brazil",
+  "abstract": "The high rate of obesity among adolescents is a global public health problem that has recently expanded to affect middle-and low-income countries. Brazil, which is undergoing a relatively rapid nutrition transition and has inadequate health systems, is currently experiencing the consequences of increasing rates of overweight and obesity concomitantly with the consequences of generations of malnourishment. Given this scenario, Brazil is an ideal context for examining the relationship between family socioeconomic status (SES) and adolescent body mass, as well as how this relationship varies across very different regions within the same country and across the body mass index (BMI) continuum. Guided by a framework that integrates nutrition transition and fundamental cause theories, we use unique nationally representative data with measured height and weight for all household members to conduct quantile regression models. The results suggest that family socioeconomic conditions are important theoretical factors associated with adolescent BMI, but that the way in which family SES impinges on adolescent BMI varies across regions characterized by different locations in the nutrition transition and varying levels of economic development. We also find that family socioeconomic disadvantages operate very differently according to BMI status. The results show that the socioeconomic gradient of adolescent BMI varies by stages of the nutrition transition and economic development and across BMI percentiles.",
+  "authors": [
+    {
+      "raw": "Marteleto, Leticia J.",
+      "family": "Marteleto",
+      "given": "Leticia J."
+    },
+    {
+      "raw": "Gama, Luiz C. D.",
+      "family": "Gama",
+      "given": "Luiz C. D."
+    },
+    {
+      "raw": "Dondero, Molly",
+      "family": "Dondero",
+      "given": "Molly"
+    },
+    {
+      "raw": "Brown, Letisha E. C.",
+      "family": "Brown",
+      "given": "Letisha E. C."
+    }
+  ],
+  "authors_text": "Marteleto, Leticia J.; Gama, Luiz C. D.; Dondero, Molly; Brown, Letisha E. C.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox028",
+  "doi_url": "https://doi.org/10.1093/sf/sox028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Cohort changes in the association between parental divorce and children's education: A long-term perspective on the institutionalization hypothesis",
+  "abstract": "The institutionalization hypothesis argues that in contexts where divorce is more common, its consequences will be less severe. An implication of this hypothesis is that the association between parental divorce and child outcomes will decline over time, parallel to the historical rise in divorce. Building on a handful of earlier tests of this idea, the current analysis provides a long-term cohort perspective with sufficient statistical power to detect possible trends. Data from 18 national surveys in the Netherlands were harmonized and pooled in order to obtain a large sample with sufficient numbers of children with divorced parents from a wide span of birth cohorts (N-total = 87,541, N-divorced = 5,728). Using educational attainment as a dependent variable, and applying a set of relevant controls for key family background variables, there was no evidence that the association between parental divorce and education changed between 1930 and 1991. Multi-level models showed that there was no association between the prevalence of divorce and the magnitude of the parental divorce effect. The refutation of the institutionalization hypothesis for divorce is interpreted in terms of how the selection into divorce has changed, in combination with problems emerging in modern postdivorce relationships.",
+  "authors": [
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    }
+  ],
+  "authors_text": "Kalmijn, Matthijs",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad011",
+  "doi_url": "https://doi.org/10.1093/esr/jcad011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

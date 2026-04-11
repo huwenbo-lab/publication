@@ -1,0 +1,30 @@
+{
+  "title": "Inequality in life spans and a new perspective on mortality convergence across industrialized countries",
+  "abstract": "The second half of the twentieth century witnessed substantial convergence in life expectancy around the world. We examine differences in the age pattern of mortality in industrialized countries over time to show that inequality in adult life spans, which we measure with the standard deviation of life table ages at death above age 10 years, S-10, is increasingly responsible for the remaining divergence in mortality. We report striking differences in level and trend of S-10 across industrialized countries since 1960, which cannot be explained by aggregate socioeconomic inequality or differential external-cause mortality. Rather, S-10 reflects both within- and between-group inequalities in life spans and conveys new information about their combined magnitudes and trends. These findings suggest that the challenge for health policies in this century is to reduce inequality, not just lengthen life.",
+  "authors": [
+    {
+      "raw": "Edwards, RD",
+      "family": "Edwards",
+      "given": "RD"
+    },
+    {
+      "raw": "Tuljapurkar, S",
+      "family": "Tuljapurkar",
+      "given": "S"
+    }
+  ],
+  "authors_text": "Edwards, RD; Tuljapurkar, S",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2005,
+  "doi": "10.1111/j.1728-4457.2005.00092.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2005.00092.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2005.00092.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2005.00092.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

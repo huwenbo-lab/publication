@@ -1,0 +1,40 @@
+{
+  "title": "Low birth weight, social factors, and developmental outcomes among children in the United States",
+  "abstract": "Abstract We used six waves of the National Longitudinal Survey of Youth-Child Data (1986–1996) to assess the relative impact of adverse birth outcomes vis-à-vis social risk factors on children’s developmental outcomes. Using the Peabody Individual Achievement Tests of Mathematics and Reading Recognition as our outcome variables, we also evaluated the dynamic nature of biological and social risk factors from ages 6 to 14. We found the following: (1) birth weight is significantly related to developmental outcomes, net of important social and economic controls; (2) the effect associated with adverse birth outcomes is significantly more pronounced at very low birth weights (< 1,500 grams) than at moderately low birth weights (1,500–2,499 grams); (3) whereas the relative effect of very low-birth-weight status is large, the effect of moderately low weight status, when compared with race/ethnicity and mother’s education, is small; and (4) the observed differentials between moderately low-birth-weight and normal-birth-weight children are substantially smaller among older children in comparison with younger children.",
+  "authors": [
+    {
+      "raw": "Boardman, Jason D.",
+      "family": "Boardman",
+      "given": "Jason D."
+    },
+    {
+      "raw": "Powers, Daniel A.",
+      "family": "Powers",
+      "given": "Daniel A."
+    },
+    {
+      "raw": "Padilla, Yolanda C.",
+      "family": "Padilla",
+      "given": "Yolanda C."
+    },
+    {
+      "raw": "Hummer, Robert A.",
+      "family": "Hummer",
+      "given": "Robert A."
+    }
+  ],
+  "authors_text": "Boardman, Jason D.; Powers, Daniel A.; Padilla, Yolanda C.; Hummer, Robert A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2002,
+  "doi": "10.1353/dem.2002.0015",
+  "doi_url": "https://doi.org/10.1353/dem.2002.0015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2002.0015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2002.0015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

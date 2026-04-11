@@ -1,0 +1,35 @@
+{
+  "title": "Discrimination driven by variation in social and economic conservatism: evidence from a nationwide field experiment",
+  "abstract": "We examine how contextual variation in aggregated political attitudes shapes ethnic discrimination. Using a field experiment with national coverage we identify ethnic discrimination in the Swiss housing market (N = 7,533 queries for viewings from fictitious persons who vary by name to signal ethnic origin). We use referendums and popular initiatives to identify the aggregated political attitudes at the municipality level in two dimensions: social conservatism and economic conservatism. We show that although aggregated levels of discrimination are low, discrimination varies spatially - higher levels of discrimination are found in municipalities that are both socially and economically conservative. Municipalities that are economically conservative, but socially liberal also tend to exhibit ethnic discrimination. By contrast, we find no evidence of ethnic discrimination in municipalities that are socially conservative, but economically liberal. Considering how the literature highlights social conservatism when discussing the role of political ideology on attitudes and ethnic discrimination, this result highlights how differentiating different forms of conservatism helps better understand the relationship between ideology and behaviour - in this case ethnic discrimination.",
+  "authors": [
+    {
+      "raw": "Lacroix, Julie",
+      "family": "Lacroix",
+      "given": "Julie"
+    },
+    {
+      "raw": "Ruedin, Didier",
+      "family": "Ruedin",
+      "given": "Didier"
+    },
+    {
+      "raw": "Zschirnt, Eva",
+      "family": "Zschirnt",
+      "given": "Eva"
+    }
+  ],
+  "authors_text": "Lacroix, Julie; Ruedin, Didier; Zschirnt, Eva",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac051",
+  "doi_url": "https://doi.org/10.1093/esr/jcac051",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac051",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac051.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

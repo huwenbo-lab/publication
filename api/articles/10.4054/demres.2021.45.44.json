@@ -1,0 +1,35 @@
+{
+  "title": "Migration and demographic disparities in macro-regions of the European Union, a view to 2060",
+  "abstract": "BACKGROUND Migration has become one of the most salient policy areas in the European Union. In response, the European Commission established a research team with the task of investigating a range of possible demographic futures. OBJECTIVE This paper explores the demographic effects of migration on eastern, southern, and western EU regions, using different scenarios to see the extent population size, working-age population, education composition, and total age dependency can be influenced. METHODS We use a deterministic cohort-component projection model that (a) incorporates improving levels of educational attainment in the population and (b) explicit consideration of migration between EU member states (MS) and migration between EU MS and the rest of the world. Eight stylised what-if scenarios are developed around a medium assumption projection. RESULTS Although migration can have a large effect on total and working-age population size, the EU population will continue to age and see a rise in age dependency regardless. Despite depopulation occurring in many eastern MS, the region is and should remain in a better position than the south and on par with the west in terms of age dependency. CONCLUSIONS While both the south and east provide large demographic subsidies of working-age people to the EU's west, the south is less prepared to cope with the losses due to an already older population, lower labour force participation, and lower education levels. CONTRIBUTION We report demographic consequences of contrasting migration scenarios for the EU-28 (now EU+UK) based on multidimensional projections by age, sex, and educational attainment.",
+  "authors": [
+    {
+      "raw": "Potancokova, Michaela",
+      "family": "Potancokova",
+      "given": "Michaela"
+    },
+    {
+      "raw": "Stonawski, Marcin",
+      "family": "Stonawski",
+      "given": "Marcin"
+    },
+    {
+      "raw": "Gailey, Nicholas",
+      "family": "Gailey",
+      "given": "Nicholas"
+    }
+  ],
+  "authors_text": "Potancokova, Michaela; Stonawski, Marcin; Gailey, Nicholas",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.44",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.44",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.44",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.44.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

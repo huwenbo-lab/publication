@@ -1,0 +1,25 @@
+{
+  "title": "Today's decisions, Tomorrow's outcomes: Does self-control explain the educational smoking gradient?",
+  "abstract": "People with more education tend to have relatively healthy lifestyles. Among other things, they smoke less than those with less education. This link between education and smoking (known as the educational gradient) is frequently interpreted as causal: many researchers argue that education develops skills, habits, and preferences that discourage smoking and other unhealthy behaviors. However, an alternative possibility is that these skills, habits, and preferences develop early in life and determine the likelihood of both attaining a high level of education and avoiding smoking. I test the latter possibility using data from the Longitudinal Study of Adolescent to Adult Health (Add Health). In particular, I assess the degree to which indicators of self-control in adolescence explain the association between educational attainment and smoking in adulthood. Results from a series of regression-based tests indicate that self-control is a significant predictor of both outcomes, even when controlling for a host of other risk factors. However, it does not appear to explain the educational gradient.",
+  "authors": [
+    {
+      "raw": "Holmes, Christopher J.",
+      "family": "Holmes",
+      "given": "Christopher J."
+    }
+  ],
+  "authors_text": "Holmes, Christopher J.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2017.10.009",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.10.009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.10.009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.10.009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

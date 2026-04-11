@@ -1,0 +1,45 @@
+{
+  "title": "Father Involvement and Socioeconomic Disparities in Child Academic Outcomes",
+  "abstract": "Objective This article explores whether father involvement can reduce socioeconomic disparities in child academic outcomes. Background An emerging body of literature points to the benefits to children of involvement by low-socioeconomic status (SES) fathers. Research has not systematically investigated whether differences in father involvement can account for SES-based disparities in child outcomes. Method This study used data from 12,030 unique children from the 1998 Early Childhood Longitudinal Study. Using multiple regression models and novel simulation analyses, it investigated whether accounting for SES-based differences in either the amount or effect of involvement by biological fathers explains gaps in reading scores, math scores, and rates of grade retention between low-SES and high-SES children. Results Father residence, resident father school involvement, and a comprehensive index of nonresident father involvement were associated with better child academic outcomes. Associations between residence and nonresident father involvement and child outcomes were consistent for fathers in all SES quintiles. School involvement by low-SES resident fathers was more beneficial than involvement by the highest SES fathers. Simulation analyses indicated that increasing the amount of involvement by low-SES fathers to that of high-SES fathers would result in minimal decreases in SES disparities in reading and math scores, but more sizeable decreases in rates of grade retention. Conclusion Increasing some types of father involvement may help to narrow academic gaps between low- and high-SES children.",
+  "authors": [
+    {
+      "raw": "Miller, Daniel P.",
+      "family": "Miller",
+      "given": "Daniel P."
+    },
+    {
+      "raw": "Thomas, Margaret M. C.",
+      "family": "Thomas",
+      "given": "Margaret M. C."
+    },
+    {
+      "raw": "Waller, Maureen R.",
+      "family": "Waller",
+      "given": "Maureen R."
+    },
+    {
+      "raw": "Nepomnyaschy, Lenna",
+      "family": "Nepomnyaschy",
+      "given": "Lenna"
+    },
+    {
+      "raw": "Emory, Allison D.",
+      "family": "Emory",
+      "given": "Allison D."
+    }
+  ],
+  "authors_text": "Miller, Daniel P.; Thomas, Margaret M. C.; Waller, Maureen R.; Nepomnyaschy, Lenna; Emory, Allison D.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12666",
+  "doi_url": "https://doi.org/10.1111/jomf.12666",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12666",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12666.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Liking and hyperlinking: Community detection in online child sexual exploitation networks",
+  "abstract": "The online sexual exploitation of children is facilitated by websites that form virtual communities, via hyperlinks, to distribute images, videos, and other material. However, how these communities form, are structured, and evolve over time is unknown. Collected using a custom-designed webcrawler, we begin from known child sexual exploitation (CE) seed websites and follow hyperlinks to connected, related, websites. Using a repeated measure design we analyze 10 networks of 300 + websites each - over 4.8 million unique webpages in total, over a period of 60 weeks. Community detection techniques reveal that CE-related networks were dominated by two large communities hosting varied material not necessarily matching the seed website. Community stability, over 60 weeks, varied across networks. Reciprocity in hyperlinking between community members was substantially higher than within the full network, however, websites were not more likely to connect to homogeneous-content websites. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Westlake, Bryce G.",
+      "family": "Westlake",
+      "given": "Bryce G."
+    },
+    {
+      "raw": "Bouchard, Martin",
+      "family": "Bouchard",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Westlake, Bryce G.; Bouchard, Martin",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.04.010",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.04.010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.04.010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.04.010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Does the Gender of Offspring Affect Parental Political Orientation?",
+  "abstract": "Recently, offspring sex has been widely used as a natural experiment and argued to induce changes in political orientation among parents. However, prior results have been contradictory: in the UK, researchers found that having daughters led to parents favoring left-wing political parties and to holding more liberal views on family/gender roles, whereas in the United States scholars found that daughters were associated with more Republican (rightist) party identification and more conservative views on teen sexuality. We propose and examine three plausible explanations to account for these puzzling results using data from the General Social Survey and the European Social Survey; contextual (period/country) differences, heterogeneous treatment effects, and publication bias. In an analysis of thirty-six countries, we obtain null effects of the sex of the first child on party identification as well as on political ideology while ruling out country heterogeneity. Further, we observe no evidence of other heterogeneous treatment effects based on the analysis of Bayesian Additive Regression Tree models. As a corrective to the source of publication bias, we here add comprehensive null findings to the polarized canon of significant results.",
+  "authors": [
+    {
+      "raw": "Lee, Byungkyu",
+      "family": "Lee",
+      "given": "Byungkyu"
+    },
+    {
+      "raw": "Conley, Dalton",
+      "family": "Conley",
+      "given": "Dalton"
+    }
+  ],
+  "authors_text": "Lee, Byungkyu; Conley, Dalton",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sov098",
+  "doi_url": "https://doi.org/10.1093/sf/sov098",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov098",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov098.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

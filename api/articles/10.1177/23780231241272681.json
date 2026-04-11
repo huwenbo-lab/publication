@@ -1,0 +1,35 @@
+{
+  "title": "To the Extreme: Exploring the Rise of a Deviant Culture in a Misogynist Digital Community",
+  "abstract": "Recent instances of lethal mass violence have been linked to digital communities dedicated to misogynist and sexist ideologies. These forums often begin with discussions of more conventional or mainstream ideas, raising the question about the process through which these communities transform from relatively benign to extremist. This article presents a study of the Reddit incel community, active from mid-2016 to its ban in late 2017, which evolved from a self-help forum to a hub for extremist ideologies. We use computational grounded theory to deduce empirical patterns in forum composition, psychological states reflected in language use, and semantic content before refining and testing an interactional process that explains this change: a shift away from drawing on real-world experiences in discussion toward a greater reliance on cognitively simple symbols of group membership. This shift, in turn, leads to more discussions centered on deviant ideology. The results confirm that understanding the dynamics of conversation—specifically, how ideas are interpreted, reinforced, and amplified in recurrent, person-to-person interactions—is crucial for understanding cultural change in digital communities. Implications for sociology of groups, culture, and interactions in digital spaces are discussed.",
+  "authors": [
+    {
+      "raw": "Shi, Yongren",
+      "family": "Shi",
+      "given": "Yongren"
+    },
+    {
+      "raw": "Kiley, Kevin",
+      "family": "Kiley",
+      "given": "Kevin"
+    },
+    {
+      "raw": "DiPietro, Stephanie M.",
+      "family": "DiPietro",
+      "given": "Stephanie M."
+    }
+  ],
+  "authors_text": "Shi, Yongren; Kiley, Kevin; DiPietro, Stephanie M.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241272681",
+  "doi_url": "https://doi.org/10.1177/23780231241272681",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241272681",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241272681.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

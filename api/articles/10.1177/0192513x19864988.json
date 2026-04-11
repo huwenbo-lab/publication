@@ -1,0 +1,35 @@
+{
+  "title": "More Money, Less Housework? Relative Resources and Housework in the Czech Republic",
+  "abstract": "The article explores the association between housework, earnings, and education. In contrast to the majority of existing studies from Western countries, this article tests the bargaining theory in the Czech Republic. Given the high female labor force participation coupled with a tendency for women to drop out of the labor market for several years after childbirth, the country provides an interesting context to test the theory. Using data from the first wave of the Czech Household Panel, we apply multilevel mixed-effect regressions and analyze the index expressing the relative division of housework between the male and female partners. We demonstrate that in this institutional context, economic factors such as the woman's education and her absolute or relative earning have little explanatory power for the way housework is shared. Furthermore, we show that the man's education is a better predictor of the division of housework than the woman's education.",
+  "authors": [
+    {
+      "raw": "Hamplova, Dana",
+      "family": "Hamplova",
+      "given": "Dana"
+    },
+    {
+      "raw": "Chaloupkova, Jana Klimova",
+      "family": "Chaloupkova",
+      "given": "Jana Klimova"
+    },
+    {
+      "raw": "Topinkova, Renata",
+      "family": "Topinkova",
+      "given": "Renata"
+    }
+  ],
+  "authors_text": "Hamplova, Dana; Chaloupkova, Jana Klimova; Topinkova, Renata",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2019,
+  "doi": "10.1177/0192513x19864988",
+  "doi_url": "https://doi.org/10.1177/0192513x19864988",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x19864988",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x19864988.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

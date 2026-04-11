@@ -1,0 +1,25 @@
+{
+  "title": "Does Consumer Demand Reproduce Inequality? High-Income Consumers, Vertical Differentiation, and the Wage Structure",
+  "abstract": "This article considers the effects on the wage structure of the U.S. economy's growing reliance on demand from high-income consumers. Relative to the mass consumers that defined the post-World War II U.S. economy, high-income consumers are willing to pay for high-quality and high-status products. These spending patterns split producers into up-market and down-market segments and stoke winner-take-all dynamics among up-market producers. Economic dependence on high-income consumers could thus lead to a new form of industrial segmentation, based on vertical differentiation by product quality or status. To test these predictions, data from consumer expenditure and wage surveys are linked using input-output tables and used to fit variance function regressions. Results show that industries more dependent on high-income consumers have greater wage inequality. This analysis identifies a new structural source of wage inequality not considered in previous research: the increasingly unequal composition of consumer demand reproduces wage inequality.",
+  "authors": [
+    {
+      "raw": "Wilmers, Nathan",
+      "family": "Wilmers",
+      "given": "Nathan"
+    }
+  ],
+  "authors_text": "Wilmers, Nathan",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2017,
+  "doi": "10.1086/692063",
+  "doi_url": "https://doi.org/10.1086/692063",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F692063",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/692063.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

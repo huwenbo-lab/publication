@@ -1,0 +1,30 @@
+{
+  "title": "Who Gets Deported? Immigrant Removal Rates by National Origin and Period, 1998 to 2021",
+  "abstract": "Most removal proceedings in U.S. immigration courts result in removal, but research has yet to consider how removal rates vary by nationality and period. Using Executive Office of Immigration Review data, the authors examine the removal rates for the 30 most common national-origin groups in removal proceedings. Honduran, Mexican, Guatemalan, and Brazilian nationals have been ordered removed at rates considerably higher than the population average, while Chinese, Albanian, Egyptian, and Ethiopian nationals experience notably low rates of removal. Additionally, the authors find a general decline in removal rates between 1998 and 2021, with a notable jump in removal rates during the Trump administration. Disaggregating removal rates by nationality and period has important implications for understanding disparities in access to legal resources and immigration enforcement practices.",
+  "authors": [
+    {
+      "raw": "Farrell-Bryan, Dylan",
+      "family": "Farrell-Bryan",
+      "given": "Dylan"
+    },
+    {
+      "raw": "Peacock, Ian",
+      "family": "Peacock",
+      "given": "Ian"
+    }
+  ],
+  "authors_text": "Farrell-Bryan, Dylan; Peacock, Ian",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221091224",
+  "doi_url": "https://doi.org/10.1177/23780231221091224",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221091224",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221091224.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

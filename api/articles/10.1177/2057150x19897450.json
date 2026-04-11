@@ -1,0 +1,35 @@
+{
+  "title": "Telecommunication ties and gender ideologies in the age of globalization: International telephone networks and gender attitudes in 47 countries",
+  "abstract": "Scholars have posed different hypotheses on the impact of global telecommunications on value orientations. We analyze and characterize the global telecommunication network and test a series of hypotheses on the relationship between gender values and three types of telephone connections: ties with the global society, ties with Western nations, and ties within groups of nations sharing similar cultural, religious, political, or geographical traits. We use multilevel models and data on two levels, between-country telecommunications network data from TeleGeography, and individual-level data (N = 70,225) on people living in 47 countries from the World Value Survey, waves III and IV. Countries with high degrees of communication insulation, measured as a high percentage of within-group ties of all global telephone links, hold less egalitarian attitudes toward gender equality. This negative effect of group insulation depresses the egalitarian effects of younger birth cohort, college education, and higher income. Embeddedness in a localized information diffusion network and isolated from global communication is associated with less egalitarian attitude toward gender equality. But neither global ties nor ties with Western countries are linked with gender attitudes.",
+  "authors": [
+    {
+      "raw": "Shu, Xiaoling",
+      "family": "Shu",
+      "given": "Xiaoling"
+    },
+    {
+      "raw": "Barnett, George",
+      "family": "Barnett",
+      "given": "George"
+    },
+    {
+      "raw": "Faris, Robert",
+      "family": "Faris",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Shu, Xiaoling; Barnett, George; Faris, Robert",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2020,
+  "doi": "10.1177/2057150x19897450",
+  "doi_url": "https://doi.org/10.1177/2057150x19897450",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x19897450",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x19897450.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

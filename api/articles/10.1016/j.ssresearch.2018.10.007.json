@@ -1,0 +1,30 @@
+{
+  "title": "The probability of poverty for mothers after childbirth and divorce in Europe: The role of social stratification and tax-benefit policies",
+  "abstract": "This paper looks at the effects of tax-benefit systems and social stratification determinants on the probability of poverty among mothers after childbirth and divorce/separation. The analysis was carried out for twelve EU countries, which represent a variety of welfare regimes providing different degrees of defamilialisation. We applied the stress-testing methodology using micro-simulation techniques as proposed by Atkinson (2009) and carried out a regression analysis of the simulated results. We show that the degree of income replacement provided by the welfare state is higher for childbirth than for divorce. Countries with low post-childbirth poverty include those with an explicit pro-natalist orientation and socio-democratic regimes. High post-childbirth poverty rates are found in pro-traditional and South European conservative countries, and especially in the liberal regimes. The same is true for the post-divorce poverty rates. Moreover, our findings confirm that the mother's occupational class has a statistically significant effect for predicting poverty in the case of both events, with a stronger social gradient in case of divorce. Cross-country variation in the social gradient for post-childbirth poverty was insignificant. For post-divorce poverty we find weaker social class effects in the highly defamilialised welfare systems (Scandinavian countries and France) and stronger social class effects in the UK and the post-socialist countries.",
+  "authors": [
+    {
+      "raw": "Popova, Dania",
+      "family": "Popova",
+      "given": "Dania"
+    },
+    {
+      "raw": "Navicke, Jekaterina",
+      "family": "Navicke",
+      "given": "Jekaterina"
+    }
+  ],
+  "authors_text": "Popova, Dania; Navicke, Jekaterina",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.10.007",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.10.007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.10.007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.10.007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Quantifying the robustness of causal inferences: Sensitivity analysis for pragmatic social science",
+  "abstract": "Social scientists seeking to inform policy or public action must carefully consider how to identify effects and express inferences because actions based on invalid inferences may not yield the intended results. Recognizing the complexities and uncertainties of social science, we seek to inform inevitable debates about causal inferences by quantifying the conditions necessary to change an inference. Specifically, we review existing sensitivity analyses within the omitted variables and potential outcomes frameworks. We then present the Impact Threshold for a Confounding Variable (ITCV) based on omitted variables in the linear model and the Robustness of Inference to Replacement (RIR) based on the potential outcomes framework. We extend each approach to include benchmarks and to fully account for sampling variability represented by standard errors as well as bias. We exhort social scientists wishing to inform policy and practice to quantify the robustness of their inferences after utilizing the best available data and methods to draw an initial causal inference.",
+  "authors": [
+    {
+      "raw": "Frank, Kenneth A.",
+      "family": "Frank",
+      "given": "Kenneth A."
+    },
+    {
+      "raw": "Lin, Qinyun",
+      "family": "Lin",
+      "given": "Qinyun"
+    },
+    {
+      "raw": "Xu, Ran",
+      "family": "Xu",
+      "given": "Ran"
+    },
+    {
+      "raw": "Maroulis, Spiro",
+      "family": "Maroulis",
+      "given": "Spiro"
+    },
+    {
+      "raw": "Mueller, Anna",
+      "family": "Mueller",
+      "given": "Anna"
+    }
+  ],
+  "authors_text": "Frank, Kenneth A.; Lin, Qinyun; Xu, Ran; Maroulis, Spiro; Mueller, Anna",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2022.102815",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102815",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102815",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102815.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

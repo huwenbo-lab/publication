@@ -1,0 +1,40 @@
+{
+  "title": "Visualizing Bring-backs",
+  "abstract": "The figure plots the number of articles that have attempted to “bring” something “back in” in the social sciences by publication year and number of citations. Andrew Abbott, taking a (pessimistic) sociology of knowledge perspective, identified this tendency—beginning with Homans’s classic article “Bringing Men Back in”—as emblematic of the tendency to rediscover old ideas in sociology. The plot shows that “bring-backs” did not become a common yearly occurrence until the mid to late 1990s but are now relatively frequent. The most successful bring-backs have been relatively abstract things such as the “state” and “society” and more recently, “culture,” “knowledge,” and “values.”",
+  "authors": [
+    {
+      "raw": "Lizardo, Omar",
+      "family": "Lizardo",
+      "given": "Omar"
+    },
+    {
+      "raw": "Stoltz, Dustin S.",
+      "family": "Stoltz",
+      "given": "Dustin S."
+    },
+    {
+      "raw": "Taylor, Marshall A.",
+      "family": "Taylor",
+      "given": "Marshall A."
+    },
+    {
+      "raw": "Wood, Michael Lee",
+      "family": "Wood",
+      "given": "Michael Lee"
+    }
+  ],
+  "authors_text": "Lizardo, Omar; Stoltz, Dustin S.; Taylor, Marshall A.; Wood, Michael Lee",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118805362",
+  "doi_url": "https://doi.org/10.1177/2378023118805362",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118805362",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118805362.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

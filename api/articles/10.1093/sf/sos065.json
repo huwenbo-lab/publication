@@ -1,0 +1,25 @@
+{
+  "title": "Homophily Through Nonreciprocity: Results of an Experiment",
+  "abstract": "This study outlines a new explanation for homophily in social networks that is neither intended nor imposed by constraints on partner choices. Rather, homophily is an endogenous product of the emergent exchange process, in which actors seek high-value partners who reciprocate their gestures. Whereas all actors initially direct exchange toward higher value partners, the gestures of lower value actors are more likely to go unreciprocated. This imbalance drives lower value actors to seek new partners, who end up being others who are also lower value. The consequence is homophily on value despite no such preference. I draw upon social exchange theory to articulate how this process unfolds in a newly forming network. A laboratory experiment tests hypotheses about how exchange patterns change over time. Findings reveal that shifts in participants' behavior over time were consistent with a concern for reciprocity, resulting in increasing levels of homophily in the network.",
+  "authors": [
+    {
+      "raw": "Schaefer, D. R.",
+      "family": "Schaefer",
+      "given": "D. R."
+    }
+  ],
+  "authors_text": "Schaefer, D. R.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2012,
+  "doi": "10.1093/sf/sos065",
+  "doi_url": "https://doi.org/10.1093/sf/sos065",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsos065",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sos065.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

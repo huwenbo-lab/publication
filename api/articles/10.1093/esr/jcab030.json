@@ -1,0 +1,30 @@
+{
+  "title": "Marriage, the Risk of Overeducation, and Selection into Both: Evidence from Germany",
+  "abstract": "Two competing theories of social support and role specialization have been invoked to explain how marital status affects labour market outcomes. Whereas evidence of beneficial labour market outcomes among married men and employed married women favours a social support perspective, evidence of married women's reduced labour market participation corresponds to a role specialization perspective. We make two contributions to this literature. First, we apply both theories to first jobs in positions for which the employee is overeducated (educational attainment exceeding job requirements). Second, we employ preference theory to show how selection into marriage shapes its association with being in a position of overeducation. To account for potential selection, we model the probability of being married and the risk of starting a career in overeducation simultaneously based on retrospective data from the German National Educational Panel Study. In line with the theory of role specialization, married women seem to be more likely to start in overeducation than unmarried women. However, adjusting for selection into marriage yields lower risks of overeducation for married women and men in comparison to their unmarried counterparts. This supports the social support perspective on overqualification and highlights how selection into marriage shapes its association with labour market outcomes.",
+  "authors": [
+    {
+      "raw": "Hamjediers, Maik",
+      "family": "Hamjediers",
+      "given": "Maik"
+    },
+    {
+      "raw": "Schmelzer, Paul",
+      "family": "Schmelzer",
+      "given": "Paul"
+    }
+  ],
+  "authors_text": "Hamjediers, Maik; Schmelzer, Paul",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab030",
+  "doi_url": "https://doi.org/10.1093/esr/jcab030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

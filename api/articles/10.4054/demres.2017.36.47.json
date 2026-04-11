@@ -1,0 +1,30 @@
+{
+  "title": "The compositional effects of education and employment on Greek male and female fertility rates during 2000-2014",
+  "abstract": "BACKGROUND As many of the advanced countries that were hit hard by the recent economic recession also have persistently low fertility rates, researchers are increasingly interested in examining how the education. employment gradient shapes fertility outcomes. OBJECTIVE Our aim in this paper is to enrich the discussion about variation in crisis-driven fertility patterns by focusing on male fertility, and by comparing the fertility behavioral patterns and the compositional factors of male and female fertility under Great Recession conditions. METHODS We estimate the education-and employment-specific fertility rates of men and women for the 2000-2014 period in Greece. Using a mixed standardization and decomposition method, we estimate the influence of changes in educational levels and employment status on total male and female fertility, which we call the compositional effect; and of changes in fertility behavior, which we call the fertility effect. RESULTS During the recent economic recession, the decline in fertility has been far from uniform across genders, educational levels, and employment statuses. Moreover, it appears that the changes in male and female fertility rates have been driven by different underlying forces. We find that among men, negative shifts in employability were exclusively responsible for the decline in fertility rates; whereas among women, changes in the TFR were steadily conditioned by the pure fertility effect. CONCLUSIONS Our findings suggest that the compositional effect on the period total fertility rate might be more important than fertility behavior per se, especially during time periods when economic variables clearly contribute to fertility outcomes.",
+  "authors": [
+    {
+      "raw": "Bagavos, Christos",
+      "family": "Bagavos",
+      "given": "Christos"
+    },
+    {
+      "raw": "Tragiki, Alexandra",
+      "family": "Tragiki",
+      "given": "Alexandra"
+    }
+  ],
+  "authors_text": "Bagavos, Christos; Tragiki, Alexandra",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.47",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.47",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.47",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.47.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

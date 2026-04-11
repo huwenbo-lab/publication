@@ -1,0 +1,30 @@
+{
+  "title": "Timing Effects on Divorce: 20th Century Experience in the United States",
+  "abstract": "Period divorce measures can misrepresent the underlying behavior of birth cohorts as changes in cohort timing produce changes in period probabilities of divorce. Building on methods used to adjust period fertility and marriage measures, we adjust U.S. period divorce rates for timing effects, calculating a timing index for every year between 1910 and 2000. The adjusted probability of divorce, PMED*, increases nearly linearly from 1910 through 1990, remaining at about that level through 2000. Period measures greatly exaggerate divorce risks from the early 1970s to the mid‐1980s, but understate them at other times. Adjusted values for recent years do not suggest a decline in the likelihood of divorce, with year 2000 values indicating a divorce probability of 0.43 – 0.46.",
+  "authors": [
+    {
+      "raw": "Schoen, Robert",
+      "family": "Schoen",
+      "given": "Robert"
+    },
+    {
+      "raw": "Canudas‐Romo, Vladimir",
+      "family": "Canudas‐Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Schoen, Robert; Canudas‐Romo, Vladimir",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2006,
+  "doi": "10.1111/j.1741-3737.2006.00287.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2006.00287.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2006.00287.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2006.00287.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Decomposing delayed first marriage and birth across cohorts: The role of increased employment instability among men in Japan",
+  "abstract": "BACKGROUND Increased employment instability over recent decades has been argued to contribute to delayed family formation. Although previous research has shown negative associations between employment instability-such as unemployment, nonstandard employment, or unstable employment trajectories-and entry into marriage and childbirth, direct evidence on how increased employment instability to delayed marriage and childbirth across cohorts remains limited. OBJECTIVE This study examines the extent to which cross-cohort changes in employment status and work experience account for delays in first marriage and first birth among men in Japan born between 1945 and 1984. METHODS Discrete-time hazard models are applied to nationally representative retrospective survey data from Japan. Additionally, age-specific survival rates are calculated based on these estimates. RESULTS The hazard model results indicate that compositional changes in employment-related factors account for 26% of the decline in first marriage rates and 27% of the decline in first birth rates between the earliest and latest cohorts. Counterfactual simulations further reveal that these factors account for 31% of the increase in the proportion of individuals who never married and 45% of the increase in the proportion of childless at age 30. CONCLUSIONS Increased employment instability has contributed to the delay in first marriage and first birth, supporting theoretical claims that structural changes in the economy and labor market have driven shifts in family formation behavior.",
+  "authors": [
+    {
+      "raw": "Mugiyama, Ryota",
+      "family": "Mugiyama",
+      "given": "Ryota"
+    }
+  ],
+  "authors_text": "Mugiyama, Ryota",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.21",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.21",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.21",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.21.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

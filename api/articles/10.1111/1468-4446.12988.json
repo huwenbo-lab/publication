@@ -1,0 +1,30 @@
+{
+  "title": "In sight, in mind: Spatial proximity to protest sites and changes in peoples' political attitudes",
+  "abstract": "Occupying public spaces can be an effective tactic for conveying a semantic message of protest and gaining wider support; however, it may also severely disrupt the everyday lives of non-participants and causes a backfire. Therefore, it remains unclear whether and how the occupy movements have shifted political attitudes among the general public. Bringing a social-spatial perspective to the case of the Occupy Central Movement (OCM) in Hong Kong, this study investigates how the attitudinal impact of occupation has varied according to people's spatial proximity to the protest sites. Using two waves of individual-level panel data collected right before and after the OCM and detailed geo-information on the respondents' home addresses and the occupied areas, we apply a difference-in-differences (DIDs) design to identify the causal link between space and attitudes. In addition, propensity score matching (PSM) methods are used to ensure the comparability of nearby and faraway residents. The results show that after the OCM, residents living near the occupied areas not only maintained their support for the pro-democracy camp but also became more liberal as compared to faraway residents. This phenomenon can be explained by the on-site effect, which suggests that the direct exposure to protestors' solidarity and the repressive actions of authorities arouse bystanders' sympathy for the protestors and support for their political cause. Such influence appears to be long-lasting and can be evidenced by the local election results after the protest.",
+  "authors": [
+    {
+      "raw": "Xu, Duoduo",
+      "family": "Xu",
+      "given": "Duoduo"
+    },
+    {
+      "raw": "Guo, Jiao",
+      "family": "Guo",
+      "given": "Jiao"
+    }
+  ],
+  "authors_text": "Xu, Duoduo; Guo, Jiao",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1111/1468-4446.12988",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12988",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12988",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12988.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

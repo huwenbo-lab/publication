@@ -1,0 +1,40 @@
+{
+  "title": "A Guide to Global Population Projections",
+  "abstract": "Interdisciplinary studies that draw on long-term, global population projections often make limited use of projection results, due at least in part to the historically opaque nature of the projection process. We present a guide to such projections aimed",
+  "authors": [
+    {
+      "raw": "O'Neill, Brian C.",
+      "family": "O'Neill",
+      "given": "Brian C."
+    },
+    {
+      "raw": "Balk, Deborah",
+      "family": "Balk",
+      "given": "Deborah"
+    },
+    {
+      "raw": "Brickman, Melanie",
+      "family": "Brickman",
+      "given": "Melanie"
+    },
+    {
+      "raw": "Ezra, Markos",
+      "family": "Ezra",
+      "given": "Markos"
+    }
+  ],
+  "authors_text": "O'Neill, Brian C.; Balk, Deborah; Brickman, Melanie; Ezra, Markos",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2001,
+  "doi": "10.4054/demres.2001.4.8",
+  "doi_url": "https://doi.org/10.4054/demres.2001.4.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2001.4.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2001.4.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

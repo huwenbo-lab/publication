@@ -1,0 +1,25 @@
+{
+  "title": "Spousal Mobility and Earnings",
+  "abstract": "Abstract An important finding in the literature on migration has been that the earnings of married women typically decrease with a move, while the earnings of married men often increase with a move, suggesting that married women are more likely to act as the “trailing spouse.” This article considers a related but largely unexplored question: what is the effect of having an occupation that is associated with frequent migration on the migration decisions of a household and on the earnings of the spouse? Further, how do these effects differ between men and women? The Public Use Microdata Sample from the 2000 U.S. decennial census is used to calculate migration rates by occupation and education. The analysis estimates the effects of these occupational mobility measures on the migration of couples and the earnings of married individuals. I find that migration rates in both the husband’s and wife’s occupations affect the household migration decision, but mobility in the husband’s occupation matters considerably more. For couples in which the husband has a college degree (regardless of the wife’s educational level), a husband’s mobility has a large, significant negative effect on his wife’s earnings, whereas a wife’s mobility has no effect on her husband’s earnings. This negative effect does not exist for college-educated wives married to non-college-educated husbands.",
+  "authors": [
+    {
+      "raw": "McKinnish, Terra",
+      "family": "McKinnish",
+      "given": "Terra"
+    }
+  ],
+  "authors_text": "McKinnish, Terra",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0028",
+  "doi_url": "https://doi.org/10.1353/dem.0.0028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

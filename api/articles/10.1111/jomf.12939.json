@@ -1,0 +1,30 @@
+{
+  "title": "Geographic relocation in response to parents' health shocks: Who moves and how close?",
+  "abstract": "Objective: This article examines how parent-child geographic proximity changes around the onset of parental health shocks in the United States. Differences in the likelihood of moving closer across social groups are also investigated.Background: Adult children often care for older parents with health problems, but this requires relatively close proximity. As families are becoming smaller and many adult children live away from their parents, it is unclear how responsive families will be to older adults' health problems.Method: We estimate a series of fixed effects and event study models on data from the Health and Retirement Study (2004-2018) to assess changes in parent-child proximity after parents' first onset of cognitive impairment and functional limitations.Results: We find robust evidence that parents and children tend to stay close or move closer to each other in response to parent's health declines. Moves occur immediately and in subsequent waves after the onset of health shocks. Reductions in parent-child distance are consistently larger among mother-daughter dyads, dyads without spouses or multiple children, and non-Hispanic white families.Conclusion: The geographic availability of adult children to provide care is responsive to parents' needs. After the onset of a serious health condition, most older adults have a spouse or child living close enough to provide care. Parents' and children's lives are dynamically linked, and either or both may relocate to facilitate care.",
+  "authors": [
+    {
+      "raw": "Reyes, Adriana M.",
+      "family": "Reyes",
+      "given": "Adriana M."
+    },
+    {
+      "raw": "Shang, Yongxin",
+      "family": "Shang",
+      "given": "Yongxin"
+    }
+  ],
+  "authors_text": "Reyes, Adriana M.; Shang, Yongxin",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12939",
+  "doi_url": "https://doi.org/10.1111/jomf.12939",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12939",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12939.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

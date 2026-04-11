@@ -1,0 +1,25 @@
+{
+  "title": "Support for Beauty-Status Exchange Remains Illusory",
+  "abstract": "In my article, Beauty and Status: The Illusion of Exchange in Partner Selection? (McClintock 2014), I used descriptive statistics, three forms of regression, and six measures of socioeconomic status to examine the trophy wife stereotype that women exchange their beauty for men's status. According to the stereotype, such women would partner with comparatively less-attractive men who are comparatively high in socioeconomic status. I found little support for beauty-status exchange, and this limited support lacked robustness. Gullickson critiques my analysis on two grounds, arguing against the difference-based regression models, and proposing a new specification of interaction effects in the log-linear models. However, the difference models conceptualize exchange as defined in the relevant literature, and Gullickson's modified difference models only replicate my conventional regression models, providing no new evidence for or against beauty-status exchange. Likewise, Gullickson's proposed log-linear specifications are not only non-hierarchical, they also fail to improve model fit or to support exchange when using alternative measures of status. Indeed, Gullickson focuses on the only measure of status that yields any support for beauty-status exchange. Altogether, Gullickson's case for beauty-status exchange overlooks the preponderance of contrary evidence and prioritizes statistical significance, attainable only under narrow model specifications, over robustness and model fit.",
+  "authors": [
+    {
+      "raw": "McClintock, Elizabeth Aura",
+      "family": "McClintock",
+      "given": "Elizabeth Aura"
+    }
+  ],
+  "authors_text": "McClintock, Elizabeth Aura",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1177/0003122417725175",
+  "doi_url": "https://doi.org/10.1177/0003122417725175",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122417725175",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122417725175.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "How Long Will You Be a Widow? Determinants, Trends, and Income Gradient in Widowhood Duration",
+  "abstract": "Understanding widowhood duration is essential for individuals and effec tive widow support policies, yet widowhood duration remains an understudied topic. In this article, we provide a quantitative estimation of the impact of three primary determinants of expected widowhood duration at age 60 in a unified framework: (1) the degree of overlap between male and female mortality distributions, (2) the spousal age gap, and (3) the dependence of spousal mortality. Using French life tables from 1962 to 2070 and simulations based on the Gompertz law and a bivariate Gaussian copula, we assess each determinant's relative influence. Our findings show that ignoring spou sal mortality dependence overestimates widowhood duration by three years, whereas disregarding the spousal age gap underestimates it by one year. In France, expected widowhood duration at age 60 in 2020 was 10.4 years for females and 5.8 years for males. Despite converging gender life expectancies, our projections suggest that wid owhood duration will remain high until 2070, at 9.2 years for females and 6.2 years for males. Notably, we identify a negative gradient in widowhood duration along the standardofliving distribution.",
+  "authors": [
+    {
+      "raw": "Treguier, Julie",
+      "family": "Treguier",
+      "given": "Julie"
+    },
+    {
+      "raw": "Bonnet, Carole",
+      "family": "Bonnet",
+      "given": "Carole"
+    },
+    {
+      "raw": "Blanchet, Didier",
+      "family": "Blanchet",
+      "given": "Didier"
+    }
+  ],
+  "authors_text": "Treguier, Julie; Bonnet, Carole; Blanchet, Didier",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11846477",
+  "doi_url": "https://doi.org/10.1215/00703370-11846477",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11846477",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11846477.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

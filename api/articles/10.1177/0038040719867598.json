@@ -1,0 +1,30 @@
+{
+  "title": "Is Daily Parental Help with Homework Helpful? Reanalyzing National Data Using a Propensity Score-Based Approach",
+  "abstract": "Previous analyses of large national datasets have tended to report a negative relationship between parental homework help and student achievement. Yet these studies have not examined heterogeneity in this relationship based on the propensity for a parent to provide homework help. By using a propensity score-based approach, this study investigates the relationship between daily parental homework help in first grade and student achievement in third grade with nationally representative data from the Early Childhood Longitudinal Study-Kindergarten Class. Results indicated that low prior achievement, socioeconomic disadvantage, and minority status were associated with a high propensity to provide daily homework help. Daily parental homework help was also associated with improved achievement for children whose parents had a high propensity to provide daily homework help. These patterns suggest that complex factors induce daily parental homework help and that these factors are related to heterogeneity in the relationship between daily parental homework help and achievement.",
+  "authors": [
+    {
+      "raw": "Li, Angran",
+      "family": "Li",
+      "given": "Angran"
+    },
+    {
+      "raw": "Hamlin, Daniel",
+      "family": "Hamlin",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Li, Angran; Hamlin, Daniel",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2019,
+  "doi": "10.1177/0038040719867598",
+  "doi_url": "https://doi.org/10.1177/0038040719867598",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040719867598",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040719867598.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Going beyond the mean in analyzing immigrant health disparities",
+  "abstract": "BACKGROUND On arrival, immigrants are on average healthier than Italian natives, but their health ad-vantage tends to dissipate over time. This constitutes a relevant public health issue for the hosting societies, as it implies higher health care costs, lower labor market participation among immigrants, and lower tax revenues. OBJECTIVE This study is the first to take a beyond the mean perspective in analyzing health differ-ences between Italians and short-say immigrants, as well as between short-and long-stay immigrants. It highlights whether health differences are concentrated in specific parts of the distributions and which observed or unobserved factors contribute to these differ-ences. METHODS We use unconditional quantile regressions combined with Oaxaca-Blinder decomposi-tions on data from the Italian Health Condition Survey. RESULTS We find that the health advantage of short-stay immigrants over both Italians and long-stay immigrants is concentrated in the lower part of the health distributions. In both cases, this is mainly due to unobserved factors. Observed economic characteristics are actually associated with better health for long-stay immigrants compared to short-stay immigrants. Our results reveal the need of monitoring immigrants' health, particularly of those with poorer initial health conditions.",
+  "authors": [
+    {
+      "raw": "Berloffa, Gabriella",
+      "family": "Berloffa",
+      "given": "Gabriella"
+    },
+    {
+      "raw": "Paolini, Francesca",
+      "family": "Paolini",
+      "given": "Francesca"
+    }
+  ],
+  "authors_text": "Berloffa, Gabriella; Paolini, Francesca",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.7",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

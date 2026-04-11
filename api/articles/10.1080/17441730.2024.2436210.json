@@ -1,0 +1,35 @@
+{
+  "title": "Explaining the role of proximate and indirect determinants on fertility decline in Timor-Leste",
+  "abstract": "ABSTRACT Timor-Leste’s rapid population growth since independence in 2002 has been driven by a high total fertility rate, declining mortality rates, and refugee repatriation. Understanding fertility dynamics is necessary for empowering women’s reproductive decision-making. This study investigates the ongoing fertility transition in Timor-Leste by applying Bongaarts’ Proximate Determinants of Fertility to Demographic and Health Survey data. Marriage had the greatest fertility effect on total fecundity rate. Postpartum insusceptibility contributed most to the change in total fertility rate between 2009-10 and 2016. A binary logistic regression model was developed to analyse the effect of selected Indirect Determinants on age at first cohabitation, a proxy measure for the Index of Marriage. This demonstrated that educational attainment, affluence, and access to media significantly affected age at first cohabitation. These findings could be integrated into aligning policy with the intricate local social, cultural, and political context in Timor-Leste in reproductive decision-making.",
+  "authors": [
+    {
+      "raw": "Hogan, Christopher",
+      "family": "Hogan",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Dasvarma, Gouranga Lal",
+      "family": "Dasvarma",
+      "given": "Gouranga Lal"
+    },
+    {
+      "raw": "Saikia, Udoy",
+      "family": "Saikia",
+      "given": "Udoy"
+    }
+  ],
+  "authors_text": "Hogan, Christopher; Dasvarma, Gouranga Lal; Saikia, Udoy",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2024,
+  "doi": "10.1080/17441730.2024.2436210",
+  "doi_url": "https://doi.org/10.1080/17441730.2024.2436210",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2024.2436210",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2024.2436210.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

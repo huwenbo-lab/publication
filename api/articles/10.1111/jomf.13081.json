@@ -1,0 +1,30 @@
+{
+  "title": "Splitting the penalty by taking turns? Same-sex mothers' earnings losses in Norway",
+  "abstract": "ObjectiveThis study describes the childbearing trajectories and earnings of mothers in female same-sex couples (FSSC) in Norway and, through comparisons with mothers in different-sex couples (DSC), explores three factors behind mothers' earnings losses.BackgroundMothers in FSSC experience smaller earnings penalties following parenthood than mothers in DSC. We investigate three potential reasons for this: the number of pregnancies/births the mother goes through, number of children in the family, and the partner's sex.MethodThe study utilized Norwegian register data, 1999-2021, including 1050 women in FSSC and 168,649 in DSC. An event study was used to estimate labor earnings changes after a first and second child, separately for mothers in DSC and FSSC, and for partners in FSSC who gave birth once, twice, or never, isolating the impact of each factor.ResultsChildbirth/pregnancy was the most important factor. Birth mothers experienced large earnings losses after each pregnancy, with no differences between FSSC and DSC. Likely due to strict regulations, high costs, and low availability of fertility treatments, FSSC had fewer children and (only) 50% switched birth parent for a second child.Conclusion(Birth) mothers' larger earnings losses stem primarily from time away from the labor market in connection with each pregnancy/birth. Mothers in FSSC on average go through fewer pregnancies, possibly explaining their overall smaller earnings penalties in the first 5 years of parenthood.",
+  "authors": [
+    {
+      "raw": "Moberg, Ylva",
+      "family": "Moberg",
+      "given": "Ylva"
+    },
+    {
+      "raw": "van Der Vleuten, Maaike",
+      "family": "van Der Vleuten",
+      "given": "Maaike"
+    }
+  ],
+  "authors_text": "Moberg, Ylva; van Der Vleuten, Maaike",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13081",
+  "doi_url": "https://doi.org/10.1111/jomf.13081",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13081",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13081.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Direct and Indirect Effects of Unilateral Divorce Law on Marital Stability",
+  "abstract": "AbstractPrevious research examining the impact of unilateral divorce law (UDL) on the prevalence of divorce has provided mixed results. Studies based on cross-sectional cross-country/cross-state survey data have received criticism for disregarding unobserved heterogeneity across countries, as have studies using country-level panel data for failing to account for possible mediating mechanisms at the micro level. We seek to overcome both shortcomings by using individual-level event-history data from 11 European countries (SHARELIFE) and controlling for unobserved heterogeneity over countries and cohorts. We find that UDL in total increased the incidence of marital breakdown by about 20 %. This finding, however, neglects potential selection effects into marriage. Accordingly, the estimated effect of unilateral divorce laws becomes much larger when we control for age at marriage, which is used as indicator for match quality. Moreover, we find that UDL particularly affects marital stability in the presence of children.",
+  "authors": [
+    {
+      "raw": "Kneip, Thorsten",
+      "family": "Kneip",
+      "given": "Thorsten"
+    },
+    {
+      "raw": "Bauer, Gerrit",
+      "family": "Bauer",
+      "given": "Gerrit"
+    },
+    {
+      "raw": "Reinhold, Steffen",
+      "family": "Reinhold",
+      "given": "Steffen"
+    }
+  ],
+  "authors_text": "Kneip, Thorsten; Bauer, Gerrit; Reinhold, Steffen",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0337-2",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0337-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0337-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0337-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

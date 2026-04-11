@@ -1,0 +1,25 @@
+{
+  "title": "The Impact of Parental Death in Childhood on Sons' and Daughters' Status Attainment in Young Adulthood in the Netherlands, 1850-1952",
+  "abstract": "Previous research on the impact of parental loss on labor market outcomes in adulthood has often suffered from low sample sizes. To generate further insights into the long-term consequences of parental death, I use the Historical Sample of the Netherlands (HSN). The HSN contains occupational information on life courses of a sample of more than 8,000 males and almost 7,000 females born between 1850 and 1922, a period of important labor market transformations. Roughly 20 % of the sample population experienced parental death before age 16. Linear regression models show that maternal loss is significantly associated with lower occupational position in adulthood for both men and women, which points to the crucial importance of maternal care in childhood for socioeconomic outcomes in later life. This interpretation is supported by the finding that a stepmother's entry into the family is positively related with sons' occupational position later in life. In contrast to expectations, the loss of economic resources related to the father's death is generally not associated with lower status attainment in adulthood for men or for women. The results indicate, however, that the negative consequences of paternal death on men's socioeconomic outcomes decreased over time, illustrating the complex interaction between individual life courses and surrounding labor market transformations.",
+  "authors": [
+    {
+      "raw": "Rosenbaum-Feldbrugge, Matthias",
+      "family": "Rosenbaum-Feldbrugge",
+      "given": "Matthias"
+    }
+  ],
+  "authors_text": "Rosenbaum-Feldbrugge, Matthias",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00808-z",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00808-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00808-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00808-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

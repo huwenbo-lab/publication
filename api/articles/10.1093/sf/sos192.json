@@ -1,0 +1,35 @@
+{
+  "title": "Childhood (Mis)fortune, Educational Attainment, and Adult Health: Contingent Benefits of a College Degree?",
+  "abstract": "College-educated adults are healthier than other people in the United States, but selection bias complicates our understanding of how education influences health. This article focuses on the possibility that the health benefits of college may vary according to childhood (mis)fortune and people's propensity to attain a college degree in the first place. Several perspectives from life course sociology offer competing hypotheses as to whether the most or the least advantaged see the greatest return of a college education. The authors use a national survey of middle-age American adults to assess risk of two cardiovascular health problems and mortality. Results from propensity score and hierarchical regression analysis indicate that the protective effect of college attainment is indeed heterogeneous. Further, the greatest returns are among those least likely to experience this life course transition (i.e., compensatory leveling). Explanations for this selection effect are offered, along with several directions for future research on the health benefits of completing college.",
+  "authors": [
+    {
+      "raw": "Schafer, M. H.",
+      "family": "Schafer",
+      "given": "M. H."
+    },
+    {
+      "raw": "Wilkinson, L. R.",
+      "family": "Wilkinson",
+      "given": "L. R."
+    },
+    {
+      "raw": "Ferraro, K. F.",
+      "family": "Ferraro",
+      "given": "K. F."
+    }
+  ],
+  "authors_text": "Schafer, M. H.; Wilkinson, L. R.; Ferraro, K. F.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sos192",
+  "doi_url": "https://doi.org/10.1093/sf/sos192",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsos192",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sos192.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

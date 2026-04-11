@@ -1,0 +1,30 @@
+{
+  "title": "What Can We Learn from the Functional Clustering of Mortality Data? An Application to the Human Mortality Database",
+  "abstract": "AbstractThis study analyzed whether there are different patterns of mortality decline among low-mortality countries by identifying the role played by all the mortality components. We implemented a cluster analysis using a functional data analysis (FDA) approach, which allowed us to consider age-specific mortality rather than summary measures, as it analyses curves rather than scalar data. Combined with a functional principal component analysis, it can identify what part of the curves is responsible for assigning one country to a specific cluster. FDA clustering was applied to the data from 32 countries in the Human Mortality Database from 1960 to 2018 to provide a comprehensive understanding of their patterns of mortality. The results show that the evolution of developed countries followed the same pattern of stages (with different timings): (1) a reduction of infant mortality, (2) an increase of premature mortality and (3) a shift and compression of deaths. Some countries were following this scheme and recovering the gap with precursors; others did not show signs of recovery. Eastern European countries were still at Stage (2), and it was not clear if and when they will enter Stage 3. All the country differences related to the different timings with which countries underwent the stages, as identified by the clusters.",
+  "authors": [
+    {
+      "raw": "Léger, Ainhoa-Elena",
+      "family": "Léger",
+      "given": "Ainhoa-Elena"
+    },
+    {
+      "raw": "Mazzuco, Stefano",
+      "family": "Mazzuco",
+      "given": "Stefano"
+    }
+  ],
+  "authors_text": "Léger, Ainhoa-Elena; Mazzuco, Stefano",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2021,
+  "doi": "10.1007/s10680-021-09588-y",
+  "doi_url": "https://doi.org/10.1007/s10680-021-09588-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-021-09588-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-021-09588-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

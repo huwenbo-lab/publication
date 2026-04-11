@@ -1,0 +1,35 @@
+{
+  "title": "Researcher reasoning meets computational capacity: Machine learning for social science",
+  "abstract": "Computational power and big data have created new opportunities to explore and understand the social world. A special synergy is possible when social scientists combine human attention to certain aspects of the problem with the power of algorithms to automate other aspects of the problem. We review selected exemplary applications where machine learning amplifies researcher coding, summarizes complex data, relaxes statistical assumptions, and targets researcher attention to further social science research. We aim to reduce perceived barriers to machine learning by summarizing several fundamental building blocks and their grounding in classical statistics. We present a few guiding principles and promising approaches where we see particular potential for machine learning to transform social science inquiry. We conclude that machine learning tools are increasingly accessible, worthy of attention, and ready to yield new discoveries for social research.",
+  "authors": [
+    {
+      "raw": "Lundberg, Ian",
+      "family": "Lundberg",
+      "given": "Ian"
+    },
+    {
+      "raw": "Brand, Jennie E.",
+      "family": "Brand",
+      "given": "Jennie E."
+    },
+    {
+      "raw": "Jeon, Nanum",
+      "family": "Jeon",
+      "given": "Nanum"
+    }
+  ],
+  "authors_text": "Lundberg, Ian; Brand, Jennie E.; Jeon, Nanum",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2022.102807",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102807",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102807",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102807.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

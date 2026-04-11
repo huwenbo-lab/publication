@@ -1,0 +1,30 @@
+{
+  "title": "Does sibling composition in childhood contribute to adult fertility behaviors?",
+  "abstract": "Objective This work addresses whether adolescent sibling composition-the presence of full-, half-, and step-siblings-is associated with adult childbearing behaviors. Background Recent research suggests that family complexity is transmitted across generations, with individuals with half-siblings (i.e., parental multipartner fertility [MPF]) having an increased risk of MPF themselves. Yet this work may confound parental composition and sibling composition, as complex sibling ties occur more often among those living outside of a family with both biological parents. Method Using data from Rounds 1-18 of the National Longitudinal Survey of Youth, 1997 Cohort, the authors test, for men and women separately, whether parental composition and sibling composition in adolescence are independently associated with the marital status of first births (N = 8768) and MPF (N = 5574). Results Having half-siblings, but not full- or step-siblings, increases women's odds of a nonmarital first birth over no birth and a marital birth, even when accounting for parental composition. Having half-siblings also increases women's risk of MPF, though this link is attenuated with controls for first birth characteristics. These associations are not present for men. Parental composition is independently linked to fertility. Conclusion For women, accounting for sibling composition appears to capture aspects of family that are not identified with parental composition.",
+  "authors": [
+    {
+      "raw": "Hays, Jake J.",
+      "family": "Hays",
+      "given": "Jake J."
+    },
+    {
+      "raw": "Guzzo, Karen Benjamin",
+      "family": "Guzzo",
+      "given": "Karen Benjamin"
+    }
+  ],
+  "authors_text": "Hays, Jake J.; Guzzo, Karen Benjamin",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12788",
+  "doi_url": "https://doi.org/10.1111/jomf.12788",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12788",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12788.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

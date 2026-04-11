@@ -1,0 +1,30 @@
+{
+  "title": "A set-analytic approach to intersectionality",
+  "abstract": "In this paper, we propose a set -analytic approach to the study of intersectionality. Our approach builds on the intersectional view that combinations of attributes, such as black females, should be understood as qualitatively distinct states, not reducible to their component attributes. We show that interaction -based, quantitative approaches are not only inconsistent with the core assumptions of intersectionality but also may underestimate the presence of penalties linked to multi -category memberships. In contrast, we show that truth table analysis, a core feature of Qualitative Comparative Analysis, directly implements several of the core methodological concerns of the intersectionality perspective. The truth table approach offers two important advantages. (1) It provides a foundation for the comparison of logically 'adjacent' configurations-combinations of case characteristics that differ by only a single attribute. (2) It can accommodate case attributes that vary by level or degree in a set -theoretic, intersectional framework.",
+  "authors": [
+    {
+      "raw": "Ragin, Charles C.",
+      "family": "Ragin",
+      "given": "Charles C."
+    },
+    {
+      "raw": "Fiss, Peer C.",
+      "family": "Fiss",
+      "given": "Peer C."
+    }
+  ],
+  "authors_text": "Ragin, Charles C.; Fiss, Peer C.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

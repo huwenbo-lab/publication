@@ -1,0 +1,25 @@
+{
+  "title": "The Effects of In Utero Exposure to Influenza on Birth and Infant Outcomes in the US",
+  "abstract": "THIS IS THE first study to use US-wide data to explore how influenza exposure affects fetal development, showing how differing exposure to influenza epidemics drives variations in birth weight, gestational age, and neonatal and infant mortality. It builds on previous work that suggests that in utero exposure to seasonal influenza might be responsible for some of the seasonal patterns in birth/infant health outcomes, and estimates the effect of influenza during different months of gestation. The measure of influenza exposure employed is the monthly, county-level influenza-attributable mortality rate per 100,000 population. Although this is changing, most of the published literature has focused on the impact of third trimester exposure (Omer et al. 2011; Steinhoff et al. 2012; Richards et al. 2013; Currie and Schwandt 2013). These results, which cover all gestation months, thus add robustness to current socio-medical knowledge. An additional contribution of this study is its large sample size (over 28 million observations), which gives sufficient statistical power to study rare events such as infant deaths. Finally, the countyand time fixed effects approach goes beyond correlations to attempt to isolate the causal relationships between influenza exposure and birth/infant outcomes. The study sample consists of all single births from 1989–1991 and 1995–2004 that took place in counties in the contiguous US with more than 250,000 inhabitants. These data, which include information on gestational age, are combined with a measure of influenza exposure (monthly, countylevel influenza mortality rates) during each month of gestation. I assign the same exposure to all conceptions that take place at the same time in the same county, which reduces the likelihood that the estimates will suffer from maternal selection into exposure. To examine the impact on infant health outcomes of in utero exposure to influenza during critical periods of gestation, I regress individual-level health outcomes on monthly, county-level influenza mortality rates. The",
+  "authors": [
+    {
+      "raw": "Dorelien, Audrey",
+      "family": "Dorelien",
+      "given": "Audrey"
+    }
+  ],
+  "authors_text": "Dorelien, Audrey",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2019,
+  "doi": "10.1111/padr.12232",
+  "doi_url": "https://doi.org/10.1111/padr.12232",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12232",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12232.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

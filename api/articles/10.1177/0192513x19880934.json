@@ -1,0 +1,35 @@
+{
+  "title": "What Comes after Caring? The Impact of Family Care on Women's Employment",
+  "abstract": "Previous research has shown that women providing family care tend to decrease paid work. We take the opposite perspective and examine how current and previous family care tasks influence women's likelihood to (re-)enter employment or to increase working hours. Family care is defined as caring for an ill, disabled or frail elderly partner, parent, or other family member. Using German Socio-Economic Panel data, we apply Cox shared frailty regression modeling to analyze transitions (1) into paid work and (2) from part-time to full-time work among women aged 25-59. The results indicate that in the German policy context, part-time working women providing extensive family care have a lower propensity to increase working hours. When family care ends, the likelihood that part-time working women change to full-time does not increase. Homemaking women's likelihood of entering the workforce is not influenced by either current or previous family care tasks.",
+  "authors": [
+    {
+      "raw": "Ehrlich, Ulrike",
+      "family": "Ehrlich",
+      "given": "Ulrike"
+    },
+    {
+      "raw": "Moehring, Katja",
+      "family": "Moehring",
+      "given": "Katja"
+    },
+    {
+      "raw": "Drobnic, Sonja",
+      "family": "Drobnic",
+      "given": "Sonja"
+    }
+  ],
+  "authors_text": "Ehrlich, Ulrike; Moehring, Katja; Drobnic, Sonja",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2020,
+  "doi": "10.1177/0192513x19880934",
+  "doi_url": "https://doi.org/10.1177/0192513x19880934",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x19880934",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x19880934.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

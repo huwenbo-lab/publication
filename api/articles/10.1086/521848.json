@@ -1,0 +1,30 @@
+{
+  "title": "Complex contagions and the weakness of long ties",
+  "abstract": "The strength of weak ties is that they tend to be long - they connect socially distant locations, allowing information to diffuse rapidly. The authors test whether this strength of weak ties generalizes from simple to complex contagions. Complex contagions require social affirmation from multiple sources. Examples include the spread of high-risk social movements, avant garde fashions, and unproven technologies. Results show that as adoption thresholds increase, long ties can impede diffusion. Complex contagions depend primarily on the width of the bridges across a network, not just their length. Wide bridges are a characteristic feature of many spatial networks, which may account in part for the widely observed tendency for social movements to diffuse spatially.",
+  "authors": [
+    {
+      "raw": "Centola, Damon",
+      "family": "Centola",
+      "given": "Damon"
+    },
+    {
+      "raw": "Macy, Michael",
+      "family": "Macy",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Centola, Damon; Macy, Michael",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2007,
+  "doi": "10.1086/521848",
+  "doi_url": "https://doi.org/10.1086/521848",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F521848",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/521848.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

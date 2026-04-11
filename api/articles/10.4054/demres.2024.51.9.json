@@ -1,0 +1,35 @@
+{
+  "title": "Data errors in mortality estimation: Formal demographic analysis of under-registration, under-enumeration, and age misreporting",
+  "abstract": "BACKGROUND Omissions and misreported ages in both death and exposure data cause bias in mortality and life expectancy estimates. Most discussions of data errors have focused on a single type of error only, and most rely on empirical examples rather than formal analysis. OBJECTIVE We wish to analyze data errors and their interactions in a single, coherent framework in which all three of the major data problems - death under-registration, census under- enumeration, and age misreporting - coexist and interact. METHODS We build a framework for decomposing the biases caused by various data errors in mortality rates and life expectancy calculations. In addition to purely mathematical analysis, we apply the calculations to mortality and population data from Brazil, a country with intermediate data quality. CONCLUSIONS Analytical and empirical calculations show that biases caused by data errors vary considerably across ages; that age misreporting has very small effects on life expectancy calculations at old ages; and that enumeration and registration errors are likely to cause much larger biases than age misreporting. CONTRIBUTION Combining an explicit analytical structure with empirical examples allows improved understanding of the consequences of data errors for mortality estimates in a wide variety of settings. It also provides insights for further study.",
+  "authors": [
+    {
+      "raw": "Schmertmann, Carl P.",
+      "family": "Schmertmann",
+      "given": "Carl P."
+    },
+    {
+      "raw": "Queiroz, Bernardo L.",
+      "family": "Queiroz",
+      "given": "Bernardo L."
+    },
+    {
+      "raw": "Gonzaga, Marcos R.",
+      "family": "Gonzaga",
+      "given": "Marcos R."
+    }
+  ],
+  "authors_text": "Schmertmann, Carl P.; Queiroz, Bernardo L.; Gonzaga, Marcos R.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.9",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

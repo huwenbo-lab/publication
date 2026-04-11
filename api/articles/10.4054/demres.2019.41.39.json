@@ -1,0 +1,45 @@
+{
+  "title": "Separation, divorce, and housing tenure: A cross-country comparison",
+  "abstract": "BACKGROUND Housing tenure after divorce is an important factor in individuals' well-being. Although previous studies have examined tenure changes following divorce, only a few studies have compared patterns across countries. OBJECTIVE We study the destination tenure type of separated individuals (homeownership, social renting, private renting, other) in Australia, Germany, the United Kingdom, and the Netherlands and investigate differences by education and parenthood status. We compare the results of partnered and separated individuals. METHODS Applying Poisson regression to longitudinal data from four countries, we study individuals' likelihood of moving and moving to different tenure types by partnership status. RESULTS Separated individuals are more likely to experience a residential change than those in a relationship in all countries. Following separation, moving to renting is more common than moving to homeownership. In the countries where the data allow distinguishing private renting from social renting, private renting is the most common outcome. The second most common destination is homeownership in Australia, and social renting in Germany and the United Kingdom. We find interesting tendencies by education and parenthood status. Low-educated individuals tend to move to social renting after separation, whereas the highly educated tend to move to homeownership. Separated parents are more likely to move to social and private renting than those who are childless (except in the United Kingdom, where childless separated people tend to move to private renting). CONTRIBUTION The findings highlight striking similarities in individuals' post-separation residential mobility and housing across countries, despite significant differences in welfare systems and housing markets.",
+  "authors": [
+    {
+      "raw": "Mikolai, Julia",
+      "family": "Mikolai",
+      "given": "Julia"
+    },
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    },
+    {
+      "raw": "Vidal, Sergi",
+      "family": "Vidal",
+      "given": "Sergi"
+    },
+    {
+      "raw": "van der Wiel, Roselinde",
+      "family": "van der Wiel",
+      "given": "Roselinde"
+    },
+    {
+      "raw": "Mulder, Clara H.",
+      "family": "Mulder",
+      "given": "Clara H."
+    }
+  ],
+  "authors_text": "Mikolai, Julia; Kulu, Hill; Vidal, Sergi; van der Wiel, Roselinde; Mulder, Clara H.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.39",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.39",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.39",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.39.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "A U-turn in inequality in college attainment by parental education in the US?",
+  "abstract": "We study the evolution of intergenerational inequality of college attainment in the United States over the 20th century. For this purpose, we expand the Breen-Goldthorpe model of educational investment behaviour and show formally that a rise in the costs of college education and in inequality in economic resources by social origins lead to an increase in inequality in educational attainment. In our empirical analysis we use five different national representative surveys and focus on the chances of college attainment by parental college education for birth cohorts from 1900 to 1987. Our results confirm that relative inequality in college attainment, measured in terms of odds ratios, declined over most of the 20th century with equalization levelling off beginning with birth cohorts in the 1960s. At the same time, the absolute differences in the percentage of graduates among children of college-educated parents and children of non-graduates have remained remarkably stable across the century. Based on our formal model, we finally explore future scenarios for the trends in college attainment inequality. Given high resource inequality and rising costs for college education, our models point to a decline in college attainment of individuals with non-graduate backgrounds and consequently to a rise of relative inequality in college attainment by parental education. While not yet discernible, such a development might lead to a possible U-shape trend for recent and current birth cohorts in the near future.",
+  "authors": [
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    },
+    {
+      "raw": "Hertel, Florian R.",
+      "family": "Hertel",
+      "given": "Florian R."
+    },
+    {
+      "raw": "Yastrebov, Gordey",
+      "family": "Yastrebov",
+      "given": "Gordey"
+    }
+  ],
+  "authors_text": "Bernardi, Fabrizio; Hertel, Florian R.; Yastrebov, Gordey",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2018,
+  "doi": "10.1016/j.rssm.2018.09.003",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2018.09.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2018.09.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2018.09.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

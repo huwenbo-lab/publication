@@ -1,0 +1,30 @@
+{
+  "title": "Age-Specific Correlates of Child Growth",
+  "abstract": "Growth faltering describes a widespread phenomenon that height- and weight-for-age of children in developing countries collapse rapidly in the first two years of life. We study age-specific correlates of child nutrition using Demographic and Health Surveys from 56 developing countries to shed light on the potential drivers of growth faltering. Applying nonparametric techniques and exploiting within-mother variation, we find that maternal and household factors predict best the observed shifts and bends in child nutrition age curves. The documented interaction between age and maternal characteristics further underlines the need not only to provide nutritional support during the first years of life but also to improve maternal conditions.",
+  "authors": [
+    {
+      "raw": "Rieger, Matthias",
+      "family": "Rieger",
+      "given": "Matthias"
+    },
+    {
+      "raw": "Trommlerova, Sofia Karina",
+      "family": "Trommlerova",
+      "given": "Sofia Karina"
+    }
+  ],
+  "authors_text": "Rieger, Matthias; Trommlerova, Sofia Karina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-015-0449-3",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0449-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0449-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0449-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

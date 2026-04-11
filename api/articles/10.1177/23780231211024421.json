@@ -1,0 +1,30 @@
+{
+  "title": "Has the Credibility of the Social Sciences Been Credibly Destroyed? Reanalyzing the “Many Analysts, One Data Set” Project",
+  "abstract": "In 2018, Silberzahn, Uhlmann, Nosek, and colleagues published an article in which 29 teams analyzed the same research question with the same data: Are soccer referees more likely to give red cards to players with dark skin tone than light skin tone? The results obtained by the teams differed extensively. Many concluded from this widely noted exercise that the social sciences are not rigorous enough to provide definitive answers. In this article, we investigate why results diverged so much. We argue that the main reason was an unclear research question: Teams differed in their interpretation of the research question and therefore used diverse research designs and model specifications. We show by reanalyzing the data that with a clear research question, a precise definition of the parameter of interest, and theory-guided causal reasoning, results vary only within a narrow range. The broad conclusion of our reanalysis is that social science research needs to be more precise in its “estimands” to become credible.",
+  "authors": [
+    {
+      "raw": "Auspurg, Katrin",
+      "family": "Auspurg",
+      "given": "Katrin"
+    },
+    {
+      "raw": "Brüderl, Josef",
+      "family": "Brüderl",
+      "given": "Josef"
+    }
+  ],
+  "authors_text": "Auspurg, Katrin; Brüderl, Josef",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211024421",
+  "doi_url": "https://doi.org/10.1177/23780231211024421",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211024421",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211024421.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

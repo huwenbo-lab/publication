@@ -1,0 +1,30 @@
+{
+  "title": "The Temporal Structure of Scientific Consensus Formation",
+  "abstract": "This article engages with problems that are usually opaque: What trajectories do scientific debates assume, when does a scientific community consider a proposition to be a fact, and how can we know that? We develop a strategy for evaluating the state of scientific contestation on issues. The analysis builds from Latour's black box imagery, which we observe in scientific citation networks. We show that as consensus forms, the importance of internal divisions to the overall network structure declines. We consider substantive cases that are now considered facts, such as the carcinogenicity of smoking and the non-carcinogenicity of coffee. We then employ the same analysis to currently contested cases: the suspected carcinogenicity of cellular phones, and the relationship between vaccines and autism. Extracting meaning from the internal structure of scientific knowledge carves a niche for renewed sociological commentary on science, revealing a typology of trajectories that scientific propositions may experience en route to consensus.",
+  "authors": [
+    {
+      "raw": "Shwed, Uri",
+      "family": "Shwed",
+      "given": "Uri"
+    },
+    {
+      "raw": "Bearman, Peter S.",
+      "family": "Bearman",
+      "given": "Peter S."
+    }
+  ],
+  "authors_text": "Shwed, Uri; Bearman, Peter S.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122410388488",
+  "doi_url": "https://doi.org/10.1177/0003122410388488",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410388488",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410388488.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

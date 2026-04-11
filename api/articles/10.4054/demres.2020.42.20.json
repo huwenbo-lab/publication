@@ -1,0 +1,40 @@
+{
+  "title": "Evaluating links between dynamic urban landscapes and under-five child mortality in Accra, Ghana",
+  "abstract": "OBJECTIVE The primary objectives of this study are to examine intra-urban spatial variation in the rates of under-five-years-old child mortality (5q0) in Accra in 2000 and 2010, as well as between those two dates, and to evaluate potential connections between the physical characteristics of urban neighborhoods and their levels of child mortality. METHODS Decennial census data of Ghana are used to estimate rates of 5q0 in 2000 and in 2010 and to note changes between 2000 and 2010 for the neighborhoods of Accra. Remote sensing data and methods are then used to derive urban land-cover and land-use change (LCLUC) information for the same neighborhoods and during the same time period. Population and housing demographic characteristics are derived and summarized at the neighborhood level to serve as potential covariates of the measures of urban change. Regression analyses are utilized to evaluate the relationships between child mortality and neighborhood environmental factors. RESULTS Results indicate spatial variability in rates of 5q0 in Accra for the year 2000. Such variations are minimal in 2010 due to the dramatic decline in child mortality between 2000 and 2010. Under-five child mortality was 20% in 2000 and 12% in 2010. Nontraditional toilet types and water supply sources are associated with high rates of 5q0. CONCLUSIONS Less reliance on public and informal toilets as well as improving housing drinking water quality have the potential to reduce under-five child mortality in Ghana. CONTRIBUTION By analyzing an extensive list of exploratory variables derived by combining remote sensing and demographic data, this paper increases our understanding of the factors associated with under-five child mortality.",
+  "authors": [
+    {
+      "raw": "Toure, Sory",
+      "family": "Toure",
+      "given": "Sory"
+    },
+    {
+      "raw": "Weeks, John",
+      "family": "Weeks",
+      "given": "John"
+    },
+    {
+      "raw": "Lopez-Carr, David",
+      "family": "Lopez-Carr",
+      "given": "David"
+    },
+    {
+      "raw": "Stow, Douglas",
+      "family": "Stow",
+      "given": "Douglas"
+    }
+  ],
+  "authors_text": "Toure, Sory; Weeks, John; Lopez-Carr, David; Stow, Douglas",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.20",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

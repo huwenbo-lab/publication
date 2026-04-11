@@ -1,0 +1,25 @@
+{
+  "title": "The Census Bureau on prospects for US population growth in the twenty-first century",
+  "abstract": "The U.S. Census Bureau periodically releases projections of the US resident population, detailed by age, sex, race, and Hispanic origin. The most recent of these, issued 13 January 2000, for the first time extend to the year 2100 and also include information on the foreign‐bom population. (Earlier projections were carried up to 2080.) The extensive tabulations presenting the new set, and detailed explanation of the methodology and the assumptions underlying the projections, are accessible at the Census Bureau's web site: http://www.census.gov. A brief summary of some of the main results of these projections is reproduced below from United States Department of Commerce News, Washington, DC 20230. (The Census Bureau is an agency of the Department of Commerce.)Uncertainties as to future trends in fertility, mortality, and net migration over a period of some 100 years are very great, as is illustrated by the massive difference in the projected size of the population for 2100 in the three variants produced. The “middle” projected population figure of 571 million (which represents a growth of some 109 percent over its current level) is bracketed by “lowest” and “highest” alternative projections of 283 million and 1.18 billion, respectively. With somewhat lesser force, the point also applies to the 50‐year time span considered in the well‐known country‐by‐country projections of the United Nations. These projections are also detailed in three variants: low, middle, and high. The UN projections (last revised in 1998) envisage less rapid growth in the United States during the first part of the twenty‐first century than do the Census Bureau's. The projected population figures for 2050 in the three variants (low, middle, and high) are as follows (in millions): U.S. Census Bureau 313.5 403.7 552.8 United Nations 292.8 349.3 419.0 Since the initial age and sex distributions from which the two sets of population projections start are essentially identical, these differences reflect assumptions by the Census Bureau with respect to the three factors affecting population dynamics in the next 50 years. In the middle series, each of these assumptions is more growth‐producing in the Census Bureau's set than in that of the United Nations. Thus, in the middle of the twenty‐first century the Census Bureau anticipates male and female life expectancies of 81.2 and 86.7 years; the corresponding figures according to the UN are 78.8 and 84.4 years. Net immigration to the United States per 1000 population at midcentury is assumed to be 2.2 by the United Nations and somewhat above 2.4 according to the Census Bureau. The factor most affecting the difference between the projected population sizes, however, is the differing assumptions with respect to fertility. The middle UN series anticipates a midcentury US total fertility rate of 1.9 children per woman; the Census Bureau's assumption is slightly above 2.2.A notable feature of the Census Bureau's projection methodology in comparison to that of the UN is the recognition of differences in mortality and fertility, and also in immigration, with respect to race and Hispanic origin. Thus, at midcentury the white non‐Hispanic population is assumed to have a total fertility rate of 2.03; the corresponding figure for the population of Hispanic origin is 2.56. (Fertility in other population subgroups is expected to lie between these values, although closer to the fertility of non‐Hispanic whites.) And Hispanic immigration, currently the major component within total immigration, is assumed to remain significant throughout the next five decades (although by midcentury it is expected to be far exceeded by immigration of non‐Hispanic Asians). As a result, the structure of the US population by race and Hispanic origin is expected to shift markedly. To the extent that fertility and mortality differentials persist, such a shift also affects the mean fertility and mortality figures of the total population.",
+  "authors": [
+    {
+      "raw": "[Anonymous]",
+      "family": "[Anonymous]",
+      "given": ""
+    }
+  ],
+  "authors_text": "[Anonymous]",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2000,
+  "doi": "10.1111/j.1728-4457.2000.00197.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2000.00197.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2000.00197.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2000.00197.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

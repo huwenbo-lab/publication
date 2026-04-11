@@ -1,0 +1,30 @@
+{
+  "title": "The small world of Germany and the durability of national networks",
+  "abstract": "The globalization of financial markets and the concomitant restructuring decisions of firms challenge the historical legacy of national systems of governance. German corporate ownership patterns and restructuring events in the 1990's are examined here in this light. The results show that ownership links among German firms constitute a small world that has consequences for understanding mergers and acquisitions. Ownership links form closely-knit clusters of firms that are nonetheless highly connected across the network as a whole. Restructuring events fall squarely in the center of this structure. Despite increasing global competition, the German small world tends to replicate itself To illustrate this robustness, potential disruptions to the observed German network are simulated. This simulation shows that the properties of the small world remain intact even when ownership ties are changed. These findings suggest that a more global economy in Germany need not lead to the dissolution of the ownership structure, bur rather may be associated with a deepening of network ties.",
+  "authors": [
+    {
+      "raw": "Kogut, B",
+      "family": "Kogut",
+      "given": "B"
+    },
+    {
+      "raw": "Walker, G",
+      "family": "Walker",
+      "given": "G"
+    }
+  ],
+  "authors_text": "Kogut, B; Walker, G",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2001,
+  "doi": "10.2307/3088882",
+  "doi_url": "https://doi.org/10.2307/3088882",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088882",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088882.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Influenza mortality in French regions after the Hong Kong flu pandemic",
+  "abstract": "BACKGROUNDInfluenza mortality has dramatically decreased in France since the 1950s. Annual death rates peaked during two pandemics: the Asian flu (1956-1957) and the Hong Kong flu (1969-1970).OBJECTIVEThis study's objective is to evaluate whether the second pandemic created a structural change in the dynamics of influenza mortality in France.METHODSWe employ a new database on influenza mortality since 1950 at the subnational level (90 geographic areas) to estimate statistical models to find out whether a structural change happened and to explain the differences in mortality rates across geographic areas. Influenza mortality increased between 1950 and 1969 and decreased from 1970 onward.CONCLUSIONSThe Hong Kong flu is identified as the event of a structural break. After the break, geographical differences are less explained by regional characteristics such as income, density, or aging ratio. The Hong Kong flu was found to be associated with a major change in influenza mortality in France. Change in health practices and policies induced a decline in mortality that started in 1970, just after the pandemic. The health benefits are notably important for senior citizens and for the poorest regions.",
+  "authors": [
+    {
+      "raw": "Bonnet, Florian",
+      "family": "Bonnet",
+      "given": "Florian"
+    },
+    {
+      "raw": "d'Albis, Hippolyte",
+      "family": "d'Albis",
+      "given": "Hippolyte"
+    },
+    {
+      "raw": "Thuilliez, Josselin",
+      "family": "Thuilliez",
+      "given": "Josselin"
+    }
+  ],
+  "authors_text": "Bonnet, Florian; d'Albis, Hippolyte; Thuilliez, Josselin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.19",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

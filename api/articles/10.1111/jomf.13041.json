@@ -1,0 +1,35 @@
+{
+  "title": "Between-firm sorting and parenthood wage gaps in the US service sector",
+  "abstract": "ObjectiveWe assess how the distribution of parents across firms contributes to parenthood wage gaps in a low-wage US labor market and examine the role of understudied compensating differentials relevant to precarious work.BackgroundIn the United States, parenthood drives a wedge in wages, as mothers often earn less than women without children, whereas fathers typically earn more than men without children. Firms bear influence over setting wages and sorting workers, yet firms are largely omitted from research on parental wage gaps in the United States.MethodWe draw on novel employer-employee matched data on 74,086 hourly service-sector workers to decompose parental wage gaps into their within- and between-firm components. We leverage uniquely rich data on compensating differentials to test if they sort parents across firms.ResultsWe found that mothers are overrepresented in lower-wage firms, accounting for 68% of mothers' wage gap. In contrast, fathers' wage gap accrued within firms. We found limited evidence that compensating differentials, even schedule quality, produce parental wage gaps.ConclusionWe show for the first time that in a major US industry, mothers are segregated in low-paying firms compared to women without children, while fathers are paid more than men without children in the same firms. Our findings largely do not tell a story of parents voluntarily choosing between wages and job quality, instead calling for more research on firm practices.",
+  "authors": [
+    {
+      "raw": "O'Herron, Charlotte",
+      "family": "O'Herron",
+      "given": "Charlotte"
+    },
+    {
+      "raw": "Schneider, Daniel",
+      "family": "Schneider",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Harnett, Kristen",
+      "family": "Harnett",
+      "given": "Kristen"
+    }
+  ],
+  "authors_text": "O'Herron, Charlotte; Schneider, Daniel; Harnett, Kristen",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13041",
+  "doi_url": "https://doi.org/10.1111/jomf.13041",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13041",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13041.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

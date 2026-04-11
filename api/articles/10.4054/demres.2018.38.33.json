@@ -1,0 +1,35 @@
+{
+  "title": "Can a cash transfer to families change fertility behaviour?",
+  "abstract": "OBJECTIVE This paper assesses the much-disputed relationship between family policy and fertility, and cash transfers and fertility in particular. METHODS We take advantage of a cash-for-care (CFC) policy introduced in Norway in 1998, and compare the subsequent fertility behaviour of eligible and ineligible mothers over a four-year period. We estimate linear models assessing both the occurrence and timing of second births, relying on a rich set of covariates and a sensitivity analysis to ensure the robustness of our results. RESULTS Contrary to theoretical expectations, the results show that CFC-eligible mothers had a slower progression to second births and lower short-term fertility. The patterns differ between different groups of mothers, and the decline in subsequent childbearing is only statistically significant among mothers with upper secondary (but not higher) education and part-time or full-time employment. We find no increase in short-term fertility in any group of mothers, and suggest that this pattern may be driven by an interaction between the CFC benefit and the already established Norwegian parental leave scheme. CONTRIBUTION The paper demonstrates how policy changes may indeed be associated with changes in fertility behaviour, and that this association may run in theoretically unexpected directions when a given policy is implemented in a wider policy framework. Moreover, it demonstrates how eligible parents may differ in their response to policies depending on the policy's income effect and the parents' opportunity costs of childbearing.",
+  "authors": [
+    {
+      "raw": "Andersen, Synove N.",
+      "family": "Andersen",
+      "given": "Synove N."
+    },
+    {
+      "raw": "Drange, Nina",
+      "family": "Drange",
+      "given": "Nina"
+    },
+    {
+      "raw": "lappegard, Trude",
+      "family": "lappegard",
+      "given": "Trude"
+    }
+  ],
+  "authors_text": "Andersen, Synove N.; Drange, Nina; lappegard, Trude",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.33",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

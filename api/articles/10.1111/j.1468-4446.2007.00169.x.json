@@ -1,0 +1,30 @@
+{
+  "title": "An investigation into causal links between victimization and offending in adolescents",
+  "abstract": "AbstractThere is a considerable body of evidence from earlier research to show that offending is associated with an increased risk of victimization, and being a victim with an increased risk of offending. There have been few earlier studies of the link. These have generally set out to test specific explanations, for example, the idea that the same lifestyles or routine activities may be associated with both victimization and offending. In a current study of a cohort of 4,300 adolescents in Edinburgh we have found a correlation of 0.421 between crime victimization and self‐reported offending at the age of 15 when offending peaks. Variables chosen to test three broad types of theory – life‐style and routine activities, weak social bonds, aspects of personality – are shown to be related both to victimization and to offending in adolescence. The present analysis uses latent class growth mixture models to track the dynamic relationships over time between adolescent victimization and offending both before and after controlling for these explanatory variables. In the short term, offending is strongly related to a later rise in victimization, but in the longer term to a fall that tends to cancel out the earlier rise. These findings remain the same after controlling for the ten explanatory variables. Victimization is associated with a later rise in offending in the longer term. The theoretical perspectives suggested by earlier researchers are fairly successful in explaining this linkage running from victimization to offending. Future research should focus on the role of peer influence in linking victimization and offending, and should push forward the analysis into the adult years. The implications for criminal justice policy could be far‐reaching.",
+  "authors": [
+    {
+      "raw": "Smith, David J.",
+      "family": "Smith",
+      "given": "David J."
+    },
+    {
+      "raw": "Ecob, Russell",
+      "family": "Ecob",
+      "given": "Russell"
+    }
+  ],
+  "authors_text": "Smith, David J.; Ecob, Russell",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2007,
+  "doi": "10.1111/j.1468-4446.2007.00169.x",
+  "doi_url": "https://doi.org/10.1111/j.1468-4446.2007.00169.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1468-4446.2007.00169.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1468-4446.2007.00169.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

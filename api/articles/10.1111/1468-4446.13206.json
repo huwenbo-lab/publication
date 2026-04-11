@@ -1,0 +1,40 @@
+{
+  "title": "That's Not Fair! Navigating the Duality of Fairness in Insurance",
+  "abstract": "Insurance serves as a social good, providing financial protection against disasters whilst operating within a profit-driven market. This dual role highlights the complex intersection of social and commercial interests, raising a fairness puzzle often portrayed as a trade-off between solidarity and actuarial fairness. Insurance organisations adhere to actuarial fairness by setting insurance premiums proportional to each individual's risk. As extreme weather drives greater losses in high-risk areas, actuarial fairness often results in unaffordable premiums for many. To address this, societies may adopt principles of solidarity fairness to subsidise their premiums. However, this approach threats diminishing personal responsibility to contain risk, as individuals may rely on subsidised protection rather than taking proactive measures. This study draws on a longitudinal qualitative study of a government-legislated insurance organisation to develop a process framework that reconceptualises fairness in insurance as a duality of solidarity and actuarial fairness. It offers insights into designing insurance systems that are socially equitable and financially sustainable.",
+  "authors": [
+    {
+      "raw": "Chalkias, Konstantinos",
+      "family": "Chalkias",
+      "given": "Konstantinos"
+    },
+    {
+      "raw": "Jarzabkowski, Paula",
+      "family": "Jarzabkowski",
+      "given": "Paula"
+    },
+    {
+      "raw": "Kavas, Mustafa",
+      "family": "Kavas",
+      "given": "Mustafa"
+    },
+    {
+      "raw": "Krull, Elisabeth",
+      "family": "Krull",
+      "given": "Elisabeth"
+    }
+  ],
+  "authors_text": "Chalkias, Konstantinos; Jarzabkowski, Paula; Kavas, Mustafa; Krull, Elisabeth",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1111/1468-4446.13206",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13206",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13206",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13206.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Income change and sympathy for right-wing populist parties in the Netherlands: The role of gender and income inequality within households",
+  "abstract": "The global rise of right-wing populist [RWP] parties presents a major political concern. RWP parties' voters tend to be citizens who have either experienced or fear economic deprivation. Income change constitutes a viable measure of this deprivation. However, previous contributions examining effects of income change on support for RWP parties have yielded diverging conclusions. This paper challenges previous findings by incorporating considerations of gender and within-household inequality. We hypothesise a negative relationship between, on the one hand, personal and household income change and, on the other hand, sympathy towards RWP parties. Furthermore, we expect to find a stronger association between personal income change and RWP sympathy among men. Moreover, we expect the relationship between household income change and RWP sympathy to differ between genders. Finally, we hypothesise that this gender disparity can be interpreted by considering who contributes most to the household income. All these hypotheses are grounded in gender socialisation and economic dominance theories. Analysing Dutch LISS longitudinal data spanning from 2007 to 2021 (N = 7,801, n = 43,954) through fixed-effects multilevel linear regression models enables us to address various competing explanations. It appears that only for men, personal income change is negatively linked with sympathies towards RWP parties. However, considering who is the highest earner within households reveals that women are also affected by their personal income change if they earn the highest income. For both men and women, household income change is negatively linked with sympathies towards RWP parties. These results lend partial support to both the socialisation and economic dominance theories. The implications of these findings are discussed.",
+  "authors": [
+    {
+      "raw": "Roll, Yoav",
+      "family": "Roll",
+      "given": "Yoav"
+    },
+    {
+      "raw": "De Graaf, Nan Dirk",
+      "family": "De Graaf",
+      "given": "Nan Dirk"
+    }
+  ],
+  "authors_text": "Roll, Yoav; De Graaf, Nan Dirk",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2024,
+  "doi": "10.1111/1468-4446.13122",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13122",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13122",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13122.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "International Migration and City Growth in the Global South: An Analysis of IPUMS Data for Seven Countries, 1992-2013",
+  "abstract": "Evidence on the demographic components of city growth in the global South is scarce, and the role played by international migration is neglected. We analyze the importance of recent international migration in cities, compare it with that of internal movements, and evaluate the growth contribution across national contexts and the urban hierarchy. Combining individual-level census data and geographic master files of metropolitan areas with indirect demographic estimation techniques, we cover 377 cities in seven countries. It is found that, in almost one third of cities, population change and replacement has been mainly determined by migration. The international component was larger than the internal one in more than half of cities. Whereas internal migration tends to decrease with rising city size, international movements tend to increase. Positive net international migration substitutes for the net losses from domestic movements in large cities, but complements the gains in intermediate-sized cities.",
+  "authors": [
+    {
+      "raw": "Lerch, Mathias",
+      "family": "Lerch",
+      "given": "Mathias"
+    }
+  ],
+  "authors_text": "Lerch, Mathias",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2020,
+  "doi": "10.1111/padr.12344",
+  "doi_url": "https://doi.org/10.1111/padr.12344",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12344",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12344.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

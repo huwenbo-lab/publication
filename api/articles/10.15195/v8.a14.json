@@ -1,0 +1,45 @@
+{
+  "title": "Estimating Homophily in Social Networks Using Dyadic Predictions",
+  "abstract": "Predictions of node categories are commonly used to estimate homophily and other relational properties in networks. However, little is known about the validity of using predictions for this task. We show that estimating homophily in a network is a problem of predicting categories of dyads (edges) in the graph. Homophily estimates are unbiased when predictions of dyad categories are unbiased. Node-level prediction models, such as the use of names to classify ethnicity or gender, do not generally produce unbiased predictions of dyad categories and therefore produce biased homophily estimates. Bias comes from three sources: sampling bias, correlation between model errors and node degree, and correlation between node-level model errors along dyads. We examine three methods for estimating homophily: predicting node categories, predicting dyad categories, and a hybrid “ego–alter” approach. This analysis indicates that only the dyadic prediction approach is unbiased, whereas the node-level approach produces both high bias and high overall error. We find that node-level classification performance is not a reliable indicator of accuracy for homophily. Although this article focuses on a particular version of homophily, results generalize to heterophilous cases and other dyadic measures. We conclude with suggestions for research design. Code for this article is available at https://github.com/georgeberry/autocorr.",
+  "authors": [
+    {
+      "raw": "Berry, George",
+      "family": "Berry",
+      "given": "George"
+    },
+    {
+      "raw": "Sirianni, Antonio",
+      "family": "Sirianni",
+      "given": "Antonio"
+    },
+    {
+      "raw": "Weber, Ingmar",
+      "family": "Weber",
+      "given": "Ingmar"
+    },
+    {
+      "raw": "An, Jisun",
+      "family": "An",
+      "given": "Jisun"
+    },
+    {
+      "raw": "Macy, Michael",
+      "family": "Macy",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Berry, George; Sirianni, Antonio; Weber, Ingmar; An, Jisun; Macy, Michael",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2021,
+  "doi": "10.15195/v8.a14",
+  "doi_url": "https://doi.org/10.15195/v8.a14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv8.a14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v8.a14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Successes and Struggles with Computational Reproducibility: Lessons from the Fragile Families Challenge",
+  "abstract": "Reproducibility is fundamental to science, and an important component of reproducibility is computational reproducibility: the ability of a researcher to recreate the results of a published study using the original author’s raw data and code. Although most people agree that computational reproducibility is important, it is still difficult to achieve in practice. In this article, the authors describe their approach to enabling computational reproducibility for the 12 articles in this special issue of Socius about the Fragile Families Challenge. The approach draws on two tools commonly used by professional software engineers but not widely used by academic researchers: software containers (e.g., Docker) and cloud computing (e.g., Amazon Web Services). These tools made it possible to standardize the computing environment around each submission, which will ease computational reproducibility both today and in the future. Drawing on their successes and struggles, the authors conclude with recommendations to researchers and journals.",
+  "authors": [
+    {
+      "raw": "Liu, David M.",
+      "family": "Liu",
+      "given": "David M."
+    },
+    {
+      "raw": "Salganik, Matthew J.",
+      "family": "Salganik",
+      "given": "Matthew J."
+    }
+  ],
+  "authors_text": "Liu, David M.; Salganik, Matthew J.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119849803",
+  "doi_url": "https://doi.org/10.1177/2378023119849803",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119849803",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119849803.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

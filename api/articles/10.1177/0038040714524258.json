@@ -1,0 +1,25 @@
+{
+  "title": "Compensatory Advantage as a Mechanism of Educational Inequality: A Regression Discontinuity Based on Month of Birth",
+  "abstract": "Compensatory advantage is a mechanism of social stratification that complements cumulative advantage and path dependence. In this article, I first discuss the theoretical foundations of the compensatory advantage and path dependence mechanisms and the methodological challenges that complicate identification of their effects. Next, I present a practical demonstration of the use of the compensatory advantage theoretical framework, with a regression discontinuity design estimating the probability of being continuously promoted throughout primary education in France. Results indicate that students born just before the cutoff date for primary school entry, who are consequently the youngest in the class when starting school, face a larger risk of grade repetition. In line with theoretical predictions of the compensatory advantage model, the risk is much smaller for students born to highly educated parents compared to students whose parents have lower educational attainment.",
+  "authors": [
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    }
+  ],
+  "authors_text": "Bernardi, Fabrizio",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2014,
+  "doi": "10.1177/0038040714524258",
+  "doi_url": "https://doi.org/10.1177/0038040714524258",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040714524258",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040714524258.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

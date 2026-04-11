@@ -1,0 +1,35 @@
+{
+  "title": "Education and the Inequalities of Place",
+  "abstract": "Students living in inner city and rural areas of the United States exhibit lower educational achievement and a higher likelihood of dropping out of high school than do their suburban counterparts. Educational research and policy has tended to neglect these inequalities or, at best, focus on one type but not the other. In this article, we integrate literatures on spatial stratification and educational outcomes, and offer a framework in which resources influential for achievement/attainment are viewed as embedded within, and varying across, inner city, rural and suburban places. We draw from the National Educational Longitudinal Survey and the Common Core of Data, and employ hierarchical linear and hierarchical logistic modeling techniques to test our arguments. Results reveal inner city and rural disadvantages in both family and school resources. These resource inequalities translate into important educational investments at both family and school levels, and help explain deficits in attainment and standardized achievement. We conclude by discussing the implications of our approach and findings for analyses of educational stratification specifically and spatial patterning of inequality more generally.",
+  "authors": [
+    {
+      "raw": "Roscigno, V. J.",
+      "family": "Roscigno",
+      "given": "V. J."
+    },
+    {
+      "raw": "Tomaskovic-Devey, D.",
+      "family": "Tomaskovic-Devey",
+      "given": "D."
+    },
+    {
+      "raw": "Crowley, M.",
+      "family": "Crowley",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Roscigno, V. J.; Tomaskovic-Devey, D.; Crowley, M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2006,
+  "doi": "10.1353/sof.2006.0108",
+  "doi_url": "https://doi.org/10.1353/sof.2006.0108",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2006.0108",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2006.0108.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

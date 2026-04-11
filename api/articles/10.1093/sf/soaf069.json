@@ -1,0 +1,35 @@
+{
+  "title": "The changing spatial pattern of metropolitan racial segregation, 1900-2020: the rise of macro-segregation",
+  "abstract": "This paper tracks 120 years of Black-white segregation in US metropolitan areas. We draw on comprehensive Census data at consistent small-scale geographies to study segregation trajectories in 219 metropolitan areas since 1900. We update past research to show that total segregation in metropolitan areas peaked around 1960 and has now fallen below its 1930 level. Our major focus is on the spatial components of segregation. We show that two types of macro-segregation-increasing racial disparities between cities and their surrounding areas and rising segregation between communities within suburbia-became substantial only after 1950 and have remained at a similar level since 1960. At that time, micro-segregation (separation between neighborhoods in cities and in suburbia) had begun to fall. Multivariate analyses over time show how suburban fragmentation, socioeconomic differences between Black and white workers, and changes in the size of the Black population were associated with these trends in each component of segregation. The durability of segregation today is largely due to macro-segregation, which by 2020 accounts for nearly half of total metropolitan segregation.",
+  "authors": [
+    {
+      "raw": "Carlson, H. Jacob",
+      "family": "Carlson",
+      "given": "H. Jacob"
+    },
+    {
+      "raw": "Logan, John R.",
+      "family": "Logan",
+      "given": "John R."
+    },
+    {
+      "raw": "Won, Jongho",
+      "family": "Won",
+      "given": "Jongho"
+    }
+  ],
+  "authors_text": "Carlson, H. Jacob; Logan, John R.; Won, Jongho",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf069",
+  "doi_url": "https://doi.org/10.1093/sf/soaf069",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf069",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf069.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

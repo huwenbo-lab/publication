@@ -1,0 +1,30 @@
+{
+  "title": "The Impact of HIV Testing on Subjective Expectations and Risky Behavior in Malawi",
+  "abstract": "Abstract We investigate the causal impact of learning HIV status on HIV/AIDS-related expectations and sexual behavior in the medium run. Our analyses document several unexpected results about the effect of learning one’s own, or one’s spouse’s, HIV status. For example, receiving an HIV-negative test result implies higher subjective expectations about being HIV-positive after two years, and individuals tend to have larger prediction errors about their HIV status after learning their HIV status. If individuals in HIV-negative couples also learn the status of their spouse, these effects disappear. In terms of behavioral outcomes, our analyses document that HIV-positive individuals who learned their status reported having fewer partners and using condoms more often than those who did not learn their status. Among married respondents in HIV-negative couples, learning only one’s own status increases risky behavior, while learning both statuses decreases risky behavior. In addition, individuals in sero-discordant couples who learned both statuses are more likely to report some condom use. Overall, our analyses suggest that ensuring that each spouse learns the HIV status of the other, either through couple’s testing or through spousal communication, may be beneficial in high-prevalence environments.",
+  "authors": [
+    {
+      "raw": "Delavande, Adeline",
+      "family": "Delavande",
+      "given": "Adeline"
+    },
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    }
+  ],
+  "authors_text": "Delavande, Adeline; Kohler, Hans-Peter",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0119-7",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0119-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0119-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0119-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

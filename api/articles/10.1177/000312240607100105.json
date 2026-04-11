@@ -1,0 +1,35 @@
+{
+  "title": "Deterring delinquents: A rational choice model of theft and violence",
+  "abstract": "This article examines criminal behavior from a rational choice perspective, the set of behavioral principles underlying our legal institution. The authors use a subjective utility approach and specify experiential learning models of the formation of risk perceptions and rational choice models of theft and violence. They estimate the models using panel data on high risk youth from the Denver Youth Survey. Using random effects Tobit models of perceived risk and negative binomial models of counts of criminal acts, the authors find support for a rational choice model. Perceived risk follows a Bayesian updating model in which current risk perceptions are a function of prior risk perceptions phis new information based on experience with crime and arrest and observations of peers. Theft and violence are a function of the perceived risk of arrest, subjective psychic rewards (including excitement and social status), and perceived opportunities.",
+  "authors": [
+    {
+      "raw": "Matsueda, RL",
+      "family": "Matsueda",
+      "given": "RL"
+    },
+    {
+      "raw": "Kreager, DA",
+      "family": "Kreager",
+      "given": "DA"
+    },
+    {
+      "raw": "Huizinga, D",
+      "family": "Huizinga",
+      "given": "D"
+    }
+  ],
+  "authors_text": "Matsueda, RL; Kreager, DA; Huizinga, D",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1177/000312240607100105",
+  "doi_url": "https://doi.org/10.1177/000312240607100105",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240607100105",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240607100105.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

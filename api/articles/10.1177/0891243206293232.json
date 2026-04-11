@@ -1,0 +1,25 @@
+{
+  "title": "Gender, Self-Employment, and Earnings",
+  "abstract": "Using data from the 1979 to 1998 waves of the National Longitudinal Survey of Youth, the author explores how gender, family, and class alter the impact of self-employment on earnings. Fixed-effect regression results show that while self-employment positively influences men’s earnings, not all women similarly benefit. Professionals receive the same self-employment earnings premium, regardless of gender. However, self-employment in nonprofessional occupations negatively affects women’s earnings, with wives and mothers incurring the greatest penalties. The high concentration of nonprofessional self-employed women in child care accounts for much of these penalties. Results are robust despite inclusion of controls for human capital and labor supply, job characteristics, occupational and industrial gender segregation, and demographic characteristics. The compensating differentials argument, that women with greater family responsibilities trade earnings for the family-friendly aspects of self-employment, is discussed in light of these findings. While this argument may explain women’s returns to nonprofessional self-employment, it is less persuasive for interpreting women’s returns to professional self-employment.",
+  "authors": [
+    {
+      "raw": "Budig, Michelle J.",
+      "family": "Budig",
+      "given": "Michelle J."
+    }
+  ],
+  "authors_text": "Budig, Michelle J.",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2006,
+  "doi": "10.1177/0891243206293232",
+  "doi_url": "https://doi.org/10.1177/0891243206293232",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243206293232",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243206293232.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

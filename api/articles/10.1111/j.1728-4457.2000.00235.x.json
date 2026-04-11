@@ -1,0 +1,25 @@
+{
+  "title": "Relative cohort size: Source of a unifying theory of global fertility transition?",
+  "abstract": "Using United Nations estimates of age structure and vital rates for 184 countries at five-year intervals from 1950 through 1995, this article demonstrates how changes in relative cohort size appear to have affected patterns of fertility across countries since 1950-not just in developed countries, but perhaps even more importantly in developing countries as they pass through the demographic transition.The increase in relative cohort size (defined as the proportion of males aged 15-24 relative to males aged 25-59), which occurs as a result of declining mortality rates among infants, children, and young adults during the demographic transition, appears to act as the mechanism that determines when the fertility portion of the transition begins. As hypothesized by Richard Easterlin, the increasing proportion of young adults generates a downward pressure on young men's relative wages (or on the size of landholdings passed on from parent to child), which in turn causes young adults to accept a tradeoff between family size and material wellbeing, setting in motion a cascade or snowball effect in which total fertility rates tumble as social norms regarding acceptable family sizes begin to change.",
+  "authors": [
+    {
+      "raw": "Macunovich, DJ",
+      "family": "Macunovich",
+      "given": "DJ"
+    }
+  ],
+  "authors_text": "Macunovich, DJ",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2000,
+  "doi": "10.1111/j.1728-4457.2000.00235.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2000.00235.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2000.00235.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2000.00235.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

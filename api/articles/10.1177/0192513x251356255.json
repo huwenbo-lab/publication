@@ -1,0 +1,25 @@
+{
+  "title": "The Effect of Unilateral Divorce Laws on Marriage Outcomes",
+  "abstract": "This study examines the impact of unilateral divorce laws on marriage outcomes using microdata from the 1960-1980 U.S. decennial censuses. We exploit the staggered state-level adoption of the laws and apply a difference-in-differences design that accounts for heterogeneous adoption timing to estimate their effects on marriage patterns. The findings provide evidence that the introduction of unilateral divorce laws lowers the likelihood of being married in certain age groups, but the effect is not uniform across age and gender. College-educated men are less likely to marry while college-educated women experience no significant change. The results indicate that the impact of unilateral divorce laws differs among racial groups. The effects are more pronounced for White individuals, whereas non-White individuals are barely affected across all age groups. These findings highlight the effects of unilateral divorce laws on marriage probabilities across demographic strata, emphasizing the importance of considering educational attainment and other population characteristics.",
+  "authors": [
+    {
+      "raw": "Ahn, Kunwon",
+      "family": "Ahn",
+      "given": "Kunwon"
+    }
+  ],
+  "authors_text": "Ahn, Kunwon",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2025,
+  "doi": "10.1177/0192513x251356255",
+  "doi_url": "https://doi.org/10.1177/0192513x251356255",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x251356255",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x251356255.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

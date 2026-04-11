@@ -1,0 +1,25 @@
+{
+  "title": "The Contribution of National Income Inequality to Regional Economic Divergence",
+  "abstract": "After more than a century of convergence, the economic fortunes of rich and poor regions of the United States have diverged dramatically over the last 40 years. Roughly a third of the US population now lives in metropolitan areas that are substantially richer or poorer than the nation as a whole, almost three times the proportion that did in 1980. In this paper I use counterfactual simulations based on Census microdata to understand the dynamics of regional divergence. I first show that regional divergence has primarily resulted from the richest people and places pulling away from the rest of the country. I then estimate the relative contributions to regional divergence of two major socioeconomic trends of recent decades: the sorting of people across metro areas by income level and the national rise in income inequality. I show that the national rise in income inequality is sufficient on its own to account for more than half of the observed divergence across regions, while income sorting on its own accounts for less than a quarter. The major driver of regional economic divergence is national-level income dispersion that has exacerbated preexisting spatial inequalities.",
+  "authors": [
+    {
+      "raw": "Manduca, Robert A.",
+      "family": "Manduca",
+      "given": "Robert A."
+    }
+  ],
+  "authors_text": "Manduca, Robert A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soz013",
+  "doi_url": "https://doi.org/10.1093/sf/soz013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

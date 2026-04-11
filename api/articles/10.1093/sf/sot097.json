@@ -1,0 +1,30 @@
+{
+  "title": "Intensifying the Countryside: A Sociological Study of Cropland Lost to the Built Environment in the United States, 2001–2006",
+  "abstract": "This study illuminates the systemic drivers of land-use intensification with the example of cropland lost in the construction of the built environment. The analysis integrates county-level variables from US government sources with data from the National Land Cover Database, which tracks permutations of specific land-use transitions over time. In a fixed-effects analysis, the area of cropland lost to the built environment is regressed on different measures of population and economic growth. Results indicate that natural increase and net migration differentially affect the loss of cropland at the local level across the continental United States, challenging the traditional focus in environmental sociology on overall population growth. This study also advances the concept of aristocratic conservation as a process by which increasing residential affluence slows down the intensification of land. The results of the analysis are discussed in terms of what land-use intensification means for environmental sustainability and town-country relations.",
+  "authors": [
+    {
+      "raw": "Clement, Matthew Thomas",
+      "family": "Clement",
+      "given": "Matthew Thomas"
+    },
+    {
+      "raw": "Podowski, Elizabeth",
+      "family": "Podowski",
+      "given": "Elizabeth"
+    }
+  ],
+  "authors_text": "Clement, Matthew Thomas; Podowski, Elizabeth",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sot097",
+  "doi_url": "https://doi.org/10.1093/sf/sot097",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsot097",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sot097.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

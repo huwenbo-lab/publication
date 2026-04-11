@@ -1,0 +1,35 @@
+{
+  "title": "Tapped Out? Racial Disparities in Extrahousehold Kin Resources and the Loss of Homeownership",
+  "abstract": "Research shows that extrahousehold kin economic resources contribute to the racial gap in transitions into homeownership, but the extent to which these resources matter for racial disparities in exits from homeownership is less understood. Using longitudinal data from the Panel Study of Income Dynamics, 1984-2017, we examine the role of extrahousehold kin wealth and poverty in shaping racial inequalities in the risk of exiting homeownership. Our nonlinear decomposition results indicate that racial differences in family network resources explain a nontrivial portion of the racial gap in homeownership exit, but there is little evidence that the effects of kin resources on exit are moderated by race. Among both Black and White owners, having wealthier noncoresident kin does not lessen the negative impacts of adverse economic or health shocks on the probability of losing homeownership. Our findings have implications for policies and programs designed to buttress the ability of minority households, especially those in financial distress, to sustain the wealth-building state of homeownership.",
+  "authors": [
+    {
+      "raw": "Sharp, Gregory",
+      "family": "Sharp",
+      "given": "Gregory"
+    },
+    {
+      "raw": "Whitehead, Ellen",
+      "family": "Whitehead",
+      "given": "Ellen"
+    },
+    {
+      "raw": "Hall, Matthew",
+      "family": "Hall",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Sharp, Gregory; Whitehead, Ellen; Hall, Matthew",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00913-4",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00913-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00913-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00913-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

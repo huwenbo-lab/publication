@@ -1,0 +1,25 @@
+{
+  "title": "Do Not Go Gentle Into That Good Night: The Effect of Retirement on Subsequent Mortality of U.S. Supreme Court Justices, 1801–2006",
+  "abstract": "AbstractMortality hazard and length of time until death are widely used as health outcome measures and are themselves of fundamental demographic interest. Considerable research has asked whether labor force retirement reduces subsequent health and its mortality measures. Previous studies have reported positive, negative, and null effects of retirement on subsequent longevity and mortality hazard, but inconsistent findings are difficult to resolve because (1) nearly all data confound retirement with unemployment of older workers, and often, (2) endogeneity bias is rarely addressed analytically. To avoid these problems, albeit at loss of generalizability to the entire labor force, I examine data from an exceptional subgroup that is of interest in its own right: U.S. Supreme Court justices of 1801–2006. Using discrete-time event history methods, I estimate retirement effects on mortality hazard and years-left-alive. Some substantive and methodological considerations suggest models that specify endogenous effects estimated by instrumental variables (IV) probit, IV Tobit, and IV regression methods. Other considerations suggest estimation by endogenous switching (ES) probit and ES regression. Estimates by all these methods are consistent with the hypothesis that, on average, retirement decreases health, as indicated by elevated mortality hazard and diminished years-left-alive. These findings may apply to other occupational groups characterized by high levels of work autonomy, job satisfaction, and financial security.",
+  "authors": [
+    {
+      "raw": "Stolzenberg, Ross M.",
+      "family": "Stolzenberg",
+      "given": "Ross M."
+    }
+  ],
+  "authors_text": "Stolzenberg, Ross M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0065-9",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0065-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0065-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0065-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

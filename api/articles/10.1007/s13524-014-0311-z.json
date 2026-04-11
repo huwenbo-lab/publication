@@ -1,0 +1,30 @@
+{
+  "title": "Body Weight, Eating Patterns, and Physical Activity: The Role of Education",
+  "abstract": "Abstract In this article, we empirically study the role of education attainment on individual body mass index (BMI), eating patterns, and physical activity. We allow for endogeneity of schooling choices for females and males in a mean and quantile instrumental variables framework. We find that completion of lower secondary education has a significant positive impact on reduction of individual BMI, containment of calorie consumption, and promotion of physical activity. Interestingly, these effects are heterogeneous across genders and distributions. In particular, for BMI and calorie expenditure, the effect of education is significant for females and is more pronounced for women with high body mass and low physical activity. On the other hand, the effect of education on eating patterns is significant mainly for males, being more beneficial for men with elevated calorie consumption. We also show that education attainment is likely to foster productive and allocative efficiency of individuals in the context of BMI formation. Given that the literature suggests that education fosters development of cognition, self-control, and a variety of skills and abilities, in our context it is thus likely to promote lifetime preferences and means of individuals, which in turn enable them to achieve better health outcomes. Education also provides exposure to physical education and to school subjects enhancing individual deliberative skills, which are important factors shaping calorie expenditure and intake. Finally, we show that in the presence of strong socioeconomic inequalities in BMI, education is likely to have a pronounced impact on healthy BMI for the disadvantaged groups, represented in our framework by females.",
+  "authors": [
+    {
+      "raw": "Atella, Vincenzo",
+      "family": "Atella",
+      "given": "Vincenzo"
+    },
+    {
+      "raw": "Kopinska, Joanna",
+      "family": "Kopinska",
+      "given": "Joanna"
+    }
+  ],
+  "authors_text": "Atella, Vincenzo; Kopinska, Joanna",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0311-z",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0311-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0311-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0311-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

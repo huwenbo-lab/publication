@@ -1,0 +1,35 @@
+{
+  "title": "Measuring fertility through mobile. phone based household surveys: Methods, data quality, and lessons learned from PMA2020 surveys",
+  "abstract": "BACKGROUND PMA2020 is a survey platform with resident enumerators using mobile phones. Instead of collecting full birth history, total fertility rates (TFR) have been measured with a limited number of questions on recent births. Employing new approaches provides opportunities to test and advance survey methods. OBJECTIVE This study aims to assess the quality of fertility data in PMA2020 surveys, focusing on bias introduced from the questionnaire and completeness and distribution of birth month and year, and to estimate TFR adjusted for identified data quality issues. METHODS To assess underestimation from the questionnaire, we simulated births that would be counted using the PMA2020 questionnaires compared to births identified from full birth history. We analyzed the latest Demographic and Health Surveys in ten countries where PMA2020 surveys have been implemented. We assessed the level of reporting completeness for birth month and year and heaping of birth month, analyzing 39 PMA2020 surveys. Finally, TFR were calculated and adjusted for biases introduced from the questionnaire and heaping in birth month. RESULTS Simple questions introduced minor bias from undercounting multiple births, which was expected and correctable. Meanwhile, incomplete reporting of birth month was relatively high, and the default value of January in data collection software systematically moved births with missing months out of the reference period. On average across the 39 surveys, TFR increased by 1.6% and 2.4%, adjusted for undercounted multiple births and heaping on January, respectively. CONTRIBUTION This study emphasizes the importance of enumerator training and provides critical insight in software programming in surveys using mobile technologies.",
+  "authors": [
+    {
+      "raw": "Choi, Yoonjoung",
+      "family": "Choi",
+      "given": "Yoonjoung"
+    },
+    {
+      "raw": "Li, Qingfeng",
+      "family": "Li",
+      "given": "Qingfeng"
+    },
+    {
+      "raw": "Zachary, Blake",
+      "family": "Zachary",
+      "given": "Blake"
+    }
+  ],
+  "authors_text": "Choi, Yoonjoung; Li, Qingfeng; Zachary, Blake",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.55",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.55",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.55",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.55.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

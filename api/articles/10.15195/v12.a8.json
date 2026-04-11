@@ -1,0 +1,25 @@
+{
+  "title": "Commuting and Gender Differences in Job Opportunities",
+  "abstract": "Women tend to commute shorter distances and earn lower wages. The theory suggests that more mobile workers are likely to command higher wages, in part because they have access to more job opportunities. We show how information on employment concentration and commuting patterns can be linked to build an index of labor market opportunities, using linked administrative and household survey data from the UK. Although labor markets are porous, commonly used measures of employment concentration require well-defined geographical boundaries. We overcome this problem by combining employment concentration indices calculated using areas of different sizes and using the individual commuting costs as weights. We show that women have higher commuting costs and, as a result, their labor markets are smaller and their job opportunities are more limited.",
+  "authors": [
+    {
+      "raw": "Avram, Silvia",
+      "family": "Avram",
+      "given": "Silvia"
+    }
+  ],
+  "authors_text": "Avram, Silvia",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a8",
+  "doi_url": "https://doi.org/10.15195/v12.a8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

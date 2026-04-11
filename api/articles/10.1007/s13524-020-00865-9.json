@@ -1,0 +1,25 @@
+{
+  "title": "Dynamic Multistate Models With Constant Cross-Product Ratios: Applications to Poverty Status",
+  "abstract": "Cross-product ratios (alpha s), which are structurally analogous to odds ratios, are statistically sound and demographically meaningful measures. Assuming constant cross-product ratios in the elements of a matrix of multistate transition probabilities provides a new basis both for calculating probabilities from minimal data and for modeling populations with changing demographic rates. Constant-alpha estimation parallels log linear modeling, in which the alpha s are the fixed interactions, and the main effects are calculated from relevant data. Procedures are presented showing how an N state model's matrix of transition probabilities can be found from the constant alpha s and (1) the state composition of adjacent populations, (2) (N - 1) known probabilities, (3) (N - 1) known transfer rates, or (4) (2N - 1) known numbers of transfers. The scope and flexibility of constant-alpha models makes them applicable to a broad range of demographic subjects, including marital/union status, political affiliation, residential status, and labor force status. Here, an application is provided to the important but understudied topic of poverty status. Census data, separately for men and women, provide age-specific numbers of persons in three poverty statuses for the years 2009 and 2014. Using an estimated transition matrix that furnishes a set of cross-product ratios, the constant-alpha approach allows the calculation of male and female poverty status life tables for the 2009-2014 period. The results describe the time spent in each poverty state and the transitions between states over the entire life course.",
+  "authors": [
+    {
+      "raw": "Schoen, Robert",
+      "family": "Schoen",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Schoen, Robert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00865-9",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00865-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00865-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00865-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

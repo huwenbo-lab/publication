@@ -1,0 +1,30 @@
+{
+  "title": "The Additive Advantage of Having Educated Grandfathers for Children's Education: Evidence from a Cross-National Sample in Europe",
+  "abstract": "Until recently, research on intergenerational processes of social mobility has focused on two generational processes and paid little attention to the role of the grand-parental generation. An increasing number of studies have started to address this shortfall, but they report inconsistent findings. This may be due to design and measurement differences across studies and to substantive heterogeneity in the association. We use data from the Survey of Health, Ageing, and Retirement in Europe (SHARE) to explore these two issues. First, as we have information on all four grandparents, and both parents, we were able to evaluate the different ways to model grand-parental associations. We found that including information on both grandfathers provided the best fit, once controlling for parental education. Second, we investigated the moderating effects of parental education, family size, and the grandparents' being alive during the grandchild's early life and school years. Having higher educated grandfathers is associated with higher educational outcomes for grandchildren, net of parental education and wealth. Moreover, having two highly educated grandfathers shows a stronger association than just one. We found no evidence for the interactions we tested making it unclear what the mechanisms underlying the association are. Future work to identify the mechanisms may be able to shed light on the actual role that grandparents play.",
+  "authors": [
+    {
+      "raw": "Sheppard, Paula",
+      "family": "Sheppard",
+      "given": "Paula"
+    },
+    {
+      "raw": "Monden, Christiaan",
+      "family": "Monden",
+      "given": "Christiaan"
+    }
+  ],
+  "authors_text": "Sheppard, Paula; Monden, Christiaan",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy026",
+  "doi_url": "https://doi.org/10.1093/esr/jcy026",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy026",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy026.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

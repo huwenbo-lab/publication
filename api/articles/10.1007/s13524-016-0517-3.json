@@ -1,0 +1,35 @@
+{
+  "title": "The Contributions of Places to Metropolitan Ethnoracial Diversity and Segregation: Decomposing Change Across Space and Time",
+  "abstract": "Although the trend toward greater ethnoracial diversity in the United States has been documented at a variety of geographic scales, most research tracks diversity one scale at a time. Our study bridges scales, asking how the diversity and segregation patterns of metropolitan areas are influenced by shifts in the racial/ethnic composition of their constituent places. Drawing on 1980-2010 decennial census data, we use a new visual tool to compare the distributions of place diversity for 50 U.S. metro areas over three decades. We also undertake a decomposition analysis of segregation within these areas to evaluate hypotheses about the roles of different types of places in ethnoracial change. The decomposition indicates that although principal cities continue to shape the overall diversity of metro areas, their relative impact has declined since 1980. Inner suburbs have experienced substantial increases in diversity during the same period. Places with large white majorities now contribute more to overall metropolitan diversity than in the past. In contrast, majority black and majority Hispanic places contribute less to metropolitan diversity than in the past. The complexity of the patterns we observe is underscored through an inspection of two featured metropolises: Chicago and Dallas.",
+  "authors": [
+    {
+      "raw": "Fowler, Christopher S.",
+      "family": "Fowler",
+      "given": "Christopher S."
+    },
+    {
+      "raw": "Lee, Barrett A.",
+      "family": "Lee",
+      "given": "Barrett A."
+    },
+    {
+      "raw": "Matthews, Stephen A.",
+      "family": "Matthews",
+      "given": "Stephen A."
+    }
+  ],
+  "authors_text": "Fowler, Christopher S.; Lee, Barrett A.; Matthews, Stephen A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0517-3",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0517-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0517-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0517-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

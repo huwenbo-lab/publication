@@ -1,0 +1,30 @@
+{
+  "title": "Analyzing educational careers: A multinomial transition model",
+  "abstract": "The logit model of educational transitions has become standard in research in educational stratification. One limitation of the model, however is the assumption that individuals progress through the educational system in a unilinear sequential mode. Many school systems contain parallel branches of study that are most fruitfully seen as qualitatively different alternative pathways with different probabilities of school continuation attached to them. This study tests a multinomial model of educational careers, that takes previous paths and grade-point averages into account. Applied to a large Swedish longitudinal data set the model rests whether conclusions about class stratification in educational attainment based on a logit model are borne out. Results show that the pathway a student has taken through the school system influences the probability of making subsequent educational transitions. This result is robust to unmeasured heterogeneity modeled using a latent class approach. Furthermore, the traditional logit model tends to deflate class-origin effects at early transition points while inflating them at the transition to higher education. The results give some support to the hypothesis that origin effects are strongest at more indirecr and unusual pathways.",
+  "authors": [
+    {
+      "raw": "Breen, R",
+      "family": "Breen",
+      "given": "R"
+    },
+    {
+      "raw": "Jonsson, JO",
+      "family": "Jonsson",
+      "given": "JO"
+    }
+  ],
+  "authors_text": "Breen, R; Jonsson, JO",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2000,
+  "doi": "10.2307/2657545",
+  "doi_url": "https://doi.org/10.2307/2657545",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2657545",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2657545.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

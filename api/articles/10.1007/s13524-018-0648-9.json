@@ -1,0 +1,25 @@
+{
+  "title": "Gender and the Residential Mobility and Neighborhood Attainment of Black-White Couples",
+  "abstract": "Including black-white couples in the study of residential stratification accentuates gendered power disparities within couples that favor men over women, which allows for the analysis of whether the race of male partners in black-white couples is associated with the racial and ethnic composition of their neighborhoods. I investigate this by combining longitudinal data between 1985 and 2015 from the Panel Study of Income Dynamics linked to neighborhood- and metropolitan-level data compiled from four censuses. Using these data, I assess the mobility of black male-white female and white male-black female couples out of and into neighborhoods defined respectively by their levels of whites, blacks, and ethnoracial diversity. My results show that the race of the male partner in black-white couples tends to align with the racial and ethnic composition of the neighborhoods where these couples reside. This finding highlights that the racial hierarchy within the United States affects the residential mobility and attainment of black-white couples, but its influence is conditioned by the race and gender composition of these couples.",
+  "authors": [
+    {
+      "raw": "Gabriel, Ryan",
+      "family": "Gabriel",
+      "given": "Ryan"
+    }
+  ],
+  "authors_text": "Gabriel, Ryan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0648-9",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0648-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0648-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0648-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

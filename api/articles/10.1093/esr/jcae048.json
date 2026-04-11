@@ -1,0 +1,25 @@
+{
+  "title": "Cross-national variation in the skills trap: illuminating the heterogeneous economic returns to high cognitive skills",
+  "abstract": "Research argues possessing high skills is crucial for economic success. While such arguments are often evidenced by the average skills effect, we know little about its heterogeneity. From a comparative perspective, this article examines the heterogeneous effects of cognitive skills on earnings using the standardized dataset for Britain, the Czech Republic, France, Korea, Norway, and the United States. Propensity score (PS) matching analysis first shows skills generally contribute to higher earnings. However, the effect size varies across PS strata, including the negative selection trend with low-PS groups (i.e. individuals who are least likely to acquire high skills) gaining more from such traits (Norway); U-shaped patterns with mid-PS being penalized (Britain and USA); homogeneous effects (Czech Republic); and their mixtures (France and Korea). Subpopulation PS models further reveal these heterogeneities comprise unequal returns across gender and parental education in a way that either intensifies or mitigates existing social inequalities. The results suggest (i) the 'skills trap' operates in structurally devaluing high skills among certain groups of people whilst rewarding others; and (ii) this trap works variously across societies in accordance with their socio-economic and educational systems. Methodologically, these findings also underscore the importance of investigating effect heterogeneity across both composite PS and its components.",
+  "authors": [
+    {
+      "raw": "Araki, Satoshi",
+      "family": "Araki",
+      "given": "Satoshi"
+    }
+  ],
+  "authors_text": "Araki, Satoshi",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcae048",
+  "doi_url": "https://doi.org/10.1093/esr/jcae048",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae048",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae048.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

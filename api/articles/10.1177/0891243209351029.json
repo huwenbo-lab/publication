@@ -1,0 +1,25 @@
+{
+  "title": "Where Credit Is Due",
+  "abstract": "Gender & Society is the leading specialty journal in the sociology of gender, as indicated by its high ranking in the ISI Web of Knowledge Journal Citation Reports. The ISI system, however, does not track citations appearing in books, and thus a significant potential source of references for Gender & Society is missed. This article reports the results of an analysis of highly cited articles that compares their visibility in Google Scholar to that documented in the ISI data system. Google Scholar captures more than twice as many references to these Gender & Society articles than does the ISI Web of Knowledge. The analysis shows that the incremental coverage is greater for Gender & Society than for several other prominent sociology journals. The absolute and relative standing of Gender & Society would improve if a more comprehensive system of tracking citations were employed.",
+  "authors": [
+    {
+      "raw": "Jacobs, Jerry A.",
+      "family": "Jacobs",
+      "given": "Jerry A."
+    }
+  ],
+  "authors_text": "Jacobs, Jerry A.",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2009,
+  "doi": "10.1177/0891243209351029",
+  "doi_url": "https://doi.org/10.1177/0891243209351029",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243209351029",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243209351029.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

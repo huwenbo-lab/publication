@@ -1,0 +1,35 @@
+{
+  "title": "Social Capital and Homicide",
+  "abstract": "Despite recent theoretical attention to and its impact on a range of public problems, including crime, few studies have evaluated the relationship between crime rates and levels of social capital across populations. That research gap is due, in part, to the absence of macro-level empirical indicators of social capital. In this article, we measure social capital as a latent construct with aggregated voting and organizational membership data, and survey data on social trust, and examine its relationship with homicide rates for a nationally representative sample of geographic areas. Structural equation models show that the construct of social capital has a significant direct effect on homicide rates, net of other structural covariates, and controlling for the reciprocal influence of homicide on social capital. Although social capital mediates little of the effect on homicide of levels of economic deprivation, it explains more than two-thirds of the effect of Southern regional location. The results indicate that depleted social capital contributes to high levels of homicide, and provide a promising basis for future research on the mechanisms linking social capital to crime at the macro level.",
+  "authors": [
+    {
+      "raw": "Rosenfeld, R.",
+      "family": "Rosenfeld",
+      "given": "R."
+    },
+    {
+      "raw": "Baumer, E. P.",
+      "family": "Baumer",
+      "given": "E. P."
+    },
+    {
+      "raw": "Messner, S. F.",
+      "family": "Messner",
+      "given": "S. F."
+    }
+  ],
+  "authors_text": "Rosenfeld, R.; Baumer, E. P.; Messner, S. F.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2001,
+  "doi": "10.1353/sof.2001.0086",
+  "doi_url": "https://doi.org/10.1353/sof.2001.0086",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2001.0086",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2001.0086.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

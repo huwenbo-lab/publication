@@ -1,0 +1,35 @@
+{
+  "title": "The COVID-19 pandemic and fertility responses: TFR simulation analysis using parity progressions in South Korea",
+  "abstract": "BACKGROUND The COVID-19 pandemic has had a notable impact on marriage and fertility intentions. Existing research has found that the impact of the pandemic on childbearing intentions and outcomes has varied across countries. Yet it remains unclear what the post-COVID-19 fertility rate would be if the changes in childbearing intentions observed during the pandemic translated into corresponding behavioral changes. OBJECTIVES This study centered on the experience of South Korea, where an unprecedented decline in the total fertility rate (TFR) was recorded. We aim to examine changes in individuals' marriage and childbearing intentions during the COVID-19 pandemic, and the implications of these changes for fertility rates. METHODS We used a combination of population census, vital statistics, and online survey data to examine shifts in marriage and fertility intentions among women of childbearing age during the COVID-19 pandemic. Simulation analysis was employed to explore various scenarios of intention changes regarding marriage and childbearing by parity. It was assumed that childbearing followed a sequential progression: from never married to high parities. RESULTS We found that during the COVID-19 pandemic, Korean women experienced a downward shift in their marriage and childbearing intentions on average. If these intention changes translate into corresponding behaviors, the TFR is estimated to fall to 0.754, using the TFR value from the base year of 2019. CONCLUSIONS The results suggest that the TFR in South Korea is likely to decrease further if the intention changes translate into corresponding behavioral changes.",
+  "authors": [
+    {
+      "raw": "Choi, Seulki",
+      "family": "Choi",
+      "given": "Seulki"
+    },
+    {
+      "raw": "Kwan, Daeun",
+      "family": "Kwan",
+      "given": "Daeun"
+    },
+    {
+      "raw": "Kye, Bongoh",
+      "family": "Kye",
+      "given": "Bongoh"
+    }
+  ],
+  "authors_text": "Choi, Seulki; Kwan, Daeun; Kye, Bongoh",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.32",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

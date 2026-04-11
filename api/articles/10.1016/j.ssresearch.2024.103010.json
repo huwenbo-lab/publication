@@ -1,0 +1,30 @@
+{
+  "title": "The development of racial wealth gaps in early adulthood",
+  "abstract": "While much research has documented stark racial gaps in total net worth, few studies have examined the development of racial gaps across different types of assets using longitudinal data. Drawing on data from the National Longitudinal Survey of Youth (1997), we study the emergence of Black-White and Hispanic-White wealth gaps across different types of assets and debt among a recent cohort of young adults. We find that the gaps in net worth, financial assets, home equity, and debt all increase over time. The racial gaps in financial assets widen at a rate that exceeds the corresponding gaps in other components of net worth. Indeed, a decomposition analysis reveals that financial assets contribute more than home equity to exacerbating net worth disparities. Our findings underscore the unique role that financial assets play in expanding racial wealth gaps in young adulthood.",
+  "authors": [
+    {
+      "raw": "Adames, Alexander",
+      "family": "Adames",
+      "given": "Alexander"
+    },
+    {
+      "raw": "Bryer, Ellen",
+      "family": "Bryer",
+      "given": "Ellen"
+    }
+  ],
+  "authors_text": "Adames, Alexander; Bryer, Ellen",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103010",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103010",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103010",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103010.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

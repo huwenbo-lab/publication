@@ -1,0 +1,25 @@
+{
+  "title": "Network fields, cultural identities and labor rights communities: Big data analytics with topic model and community detection",
+  "abstract": "The Weibo platform is a social space for interaction and expression. This requires scholars to examine, in a simultaneous fashion, communication patterns and the communicated content among Weibo users. Based on theories of ‘network and culture’ and relational sociology, this article contends that network fields and the communicated cultural meanings are mutually constituted. A latent Dirichlet allocation (LDA) topic model and social network analysis techniques were used to examine 51,288 Weibo posts published by users concerned for workers revealing the relationship between community structures and communities’ focal topics. Specifically, the result of LDA topic modeling shows that the focal topics regarding labor issues could be categorized into four groups: workers’ culture (art and entertainment) and welfare; predicaments and problems; strikes (rights defending actions) and labor organizations; and institutions and labor rights. Analysis of interaction patterns among users resulted in the identification of five major online communities which, based on the primary communicated topics within communities, were labeled as the Labor Homeland Community; Labor Culture Community; Labor Rights Protection Community; Labor Interest Concerned Community; and Labor Institution Concerned Community. The results also showed two new trends in relation to labor issues: first, workers’ culture and their integration into urban life have garnered increasing online attention with the growth of new generation workers; and second, the Weibo platform provides an interaction channel for labor researchers and labor non-governmental organizations, and such interaction facilitates the latter to critically reflect the current conditions or plights of workers from an institutional/structural perspective. This article concludes with a discussion about the significance of utilizing big data analytics to study online culture and social mentality.",
+  "authors": [
+    {
+      "raw": "Huang, Ronggui",
+      "family": "Huang",
+      "given": "Ronggui"
+    }
+  ],
+  "authors_text": "Huang, Ronggui",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2019,
+  "doi": "10.1177/2057150x18820500",
+  "doi_url": "https://doi.org/10.1177/2057150x18820500",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x18820500",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x18820500.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

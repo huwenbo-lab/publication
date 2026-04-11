@@ -1,0 +1,30 @@
+{
+  "title": "Social Networks and Health: New Developments in Diffusion, Online and Offline",
+  "abstract": "The relationship between social networks and health encompasses everything from the flow of pathogens and information to the diffusion of beliefs and behaviors. This review addresses the vast and multidisciplinary literature that studies social networks as a structural determinant of health. In particular, we report on the current state of knowledge on how social contagion dynamics influence individual and collective health outcomes. We pay specific attention to research that leverages large-scale online data and social network experiments to empirically identify three broad classes of contagion processes: pathogenic diffusion, informational and belief diffusion, and behavioral diffusion. We conclude by identifying the need for more research on (a) how multiple contagions interact within the same social network, (b) how online social networks impact offline health, and (c) the effectiveness of social network interventions for improving population health.",
+  "authors": [
+    {
+      "raw": "Zhang, Jingwen",
+      "family": "Zhang",
+      "given": "Jingwen"
+    },
+    {
+      "raw": "Centola, Damon",
+      "family": "Centola",
+      "given": "Damon"
+    }
+  ],
+  "authors_text": "Zhang, Jingwen; Centola, Damon",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2019,
+  "doi": "10.1146/annurev-soc-073117-041421",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-073117-041421",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-073117-041421",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-073117-041421.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

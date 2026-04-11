@@ -1,0 +1,40 @@
+{
+  "title": "Parental Leave and Fertility: Individual-Level Responses in the Tempo and Quantum of Second and Third Births",
+  "abstract": "AbstractPrevious studies have documented varying fertility responses to changes in parental leave provisions. We contribute to this literature by investigating the effects on the transition to second and third births of a policy reform that introduced generous earnings-dependent parental leave benefit in Estonia in 2004. Our study employs a mixture cure model, a model with some useful properties that has been seldom applied in fertility research. The advantage of the cure model over conventional event history models is the ability to distinguish the effect of the covariates on the propensity to have a next child from their effect on the tempo of childbearing. The results show that the transition to next birth accelerated as parents responded to so-called speed premium, a feature that allowed them to avoid a reduction in benefits caused by a reduction of earned income between births, through the closer spacing of births. Furthermore, the findings suggest that the introduction of generous earning-related parental leave was associated with a substantial increase in the progression to both second and third births.",
+  "authors": [
+    {
+      "raw": "Puur, Allan",
+      "family": "Puur",
+      "given": "Allan"
+    },
+    {
+      "raw": "Abdullayev, Sanan",
+      "family": "Abdullayev",
+      "given": "Sanan"
+    },
+    {
+      "raw": "Klesment, Martin",
+      "family": "Klesment",
+      "given": "Martin"
+    },
+    {
+      "raw": "Gortfelder, Mark",
+      "family": "Gortfelder",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Puur, Allan; Abdullayev, Sanan; Klesment, Martin; Gortfelder, Mark",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2023,
+  "doi": "10.1007/s10680-023-09669-0",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09669-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09669-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09669-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

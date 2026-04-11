@@ -1,0 +1,35 @@
+{
+  "title": "Labour Market, Job Opportunities, and Transitions to Self-Employment: Evidence from Switzerland from the Mid-1960s to the Late 1980s",
+  "abstract": "In recent years, self-employment has risen in several Western countries including Switzerland. The controversial discussion of this rise is attributable to shortcomings of empirical research, namely, to the lack of systematically considering, both at the macro-and the micro-level, the push and pull factors that may account for entry into self-employment. Little is known about how macroeconomic forces together with individual-level push and pull factors shape transitions into self-employment. Even less is known about how these factors play out in occupationally segmented labour markets. This paper thus examines how the overall climate for setting up a business, individual job opportunities, and structural characteristics of labour-market positions affect transitions to self-employment in the occupationally segmented Swiss labour market. Based on two data sets, we run event history models. The Swiss Life History Study provides information on transitions into self-employment. With the Swiss Job Monitor, we construct indicators of the time-variant aggregate-and individual-level opportunities and incentives for setting up a business. Results indicate that moves into self-employment are affected both by macroeconomic conditions, individual job opportunities, and structural characteristics of the labour market position, whereby pull factors dominate at the macro level and the interplay of push and pull factors at the individual level.",
+  "authors": [
+    {
+      "raw": "Buchmann, M.",
+      "family": "Buchmann",
+      "given": "M."
+    },
+    {
+      "raw": "Kriesi, I.",
+      "family": "Kriesi",
+      "given": "I."
+    },
+    {
+      "raw": "Sacchi, S.",
+      "family": "Sacchi",
+      "given": "S."
+    }
+  ],
+  "authors_text": "Buchmann, M.; Kriesi, I.; Sacchi, S.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1093/esr/jcn074",
+  "doi_url": "https://doi.org/10.1093/esr/jcn074",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn074",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn074.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

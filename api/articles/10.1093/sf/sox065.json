@@ -1,0 +1,40 @@
+{
+  "title": "Tracking Health Inequalities from High School to Midlife",
+  "abstract": "Educational gradients in health status, morbidity, and mortality are well established, but which aspects of schooling produce those gradients is only partially understood. We draw on newly available data from the midlife follow-up of the High School and Beyond sophomore cohort to analyze the relationship between students' level of coursework in high school and their long-term health outcomes. We additionally evaluate the mediating roles of skill development, postsecondary attendance and degree attainment, and occupational characteristics. We find that students who took a medium- to high-level course of study in high school have better self-reported health and physical functioning in midlife, even net of family background, adolescent health, baseline skills, and school characteristics. The association partially operates through pathways into postsecondary education. Our findings have implications for both educational policy and research on the educational gradient in health.",
+  "authors": [
+    {
+      "raw": "Carroll, Jamie M.",
+      "family": "Carroll",
+      "given": "Jamie M."
+    },
+    {
+      "raw": "Muller, Chandra",
+      "family": "Muller",
+      "given": "Chandra"
+    },
+    {
+      "raw": "Grodsky, Eric",
+      "family": "Grodsky",
+      "given": "Eric"
+    },
+    {
+      "raw": "Warren, John Robert",
+      "family": "Warren",
+      "given": "John Robert"
+    }
+  ],
+  "authors_text": "Carroll, Jamie M.; Muller, Chandra; Grodsky, Eric; Warren, John Robert",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox065",
+  "doi_url": "https://doi.org/10.1093/sf/sox065",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox065",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox065.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

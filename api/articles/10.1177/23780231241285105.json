@@ -1,0 +1,40 @@
+{
+  "title": "Historical Patterns and Trends in Racial/Ethnic Disproportionality in School Discipline in the United States",
+  "abstract": "This visualization represents the historical patterns and trends in racial/ethnic differences in punitive school discipline over the last five decades in K–12 public schools in the United States. Overall, out-of-school suspension rates show an inverted-U trend with significant increases between 1970 and 2010 followed by decreases in the last decade. On the other hand, corporal punishment rates (and associated racial/ethnic disparities) show a consistent negative trend since the early 1980s following statewide bans in the use of corporal punishment in schools since the 1970s. However, racial/ethnic disproportionality in school discipline remains persistent across the board; indeed, increasing until the very last few years for Black and American Indian/Alaskan Native students compared to White students.",
+  "authors": [
+    {
+      "raw": "Gopalan, Maithreyi",
+      "family": "Gopalan",
+      "given": "Maithreyi"
+    },
+    {
+      "raw": "Asson, Sarah",
+      "family": "Asson",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Cattell, Michael",
+      "family": "Cattell",
+      "given": "Michael"
+    },
+    {
+      "raw": "Frankenberg, Erica",
+      "family": "Frankenberg",
+      "given": "Erica"
+    }
+  ],
+  "authors_text": "Gopalan, Maithreyi; Asson, Sarah; Cattell, Michael; Frankenberg, Erica",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241285105",
+  "doi_url": "https://doi.org/10.1177/23780231241285105",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241285105",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241285105.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

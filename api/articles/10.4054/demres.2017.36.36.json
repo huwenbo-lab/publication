@@ -1,0 +1,35 @@
+{
+  "title": "Unequal lands: Soil type, nutrition, and child mortality in southern Sweden, 1850-1914",
+  "abstract": "BACKGROUND Child mortality differed greatly within rural regions in Europe before and during the mortality transition. Little is known about the role of nutrition in such geographic differences, and about the factors affecting the nutritional status and hence the disease outcomes. OBJECTIVE Focusing on nutrition, we analyse the effects of soil type, used as an indicator of the farm-level agricultural productivity and hence of nutritional status, on mortality of children aged 1-15 living in five rural parishes in southern Sweden, 1850-1914. METHODS Using longitudinal demographic data combined with unique geographic microdata on residential histories, the effect of soil type on mortality risks are analysed considering as outcome all-cause mortality and mortality from nonairborne and airborne infectious diseases. RESULTS Soil type primarily affected the mortality of farmers' children, but not labourers' children. Particularly, farmers' children residing in areas with very high proportions of clayey till (75-100% coverage) experienced lower risks of dying compared to children residing in areas with other soil types such as clay and sandy soils. CONCLUSIONS Certain soil types seem to have influenced agricultural productivity, which in turn affected the nutrition of farmers' children and thus their likelihood of dying. The results",
+  "authors": [
+    {
+      "raw": "Hedefalk, Finn",
+      "family": "Hedefalk",
+      "given": "Finn"
+    },
+    {
+      "raw": "Quaranta, Luciana",
+      "family": "Quaranta",
+      "given": "Luciana"
+    },
+    {
+      "raw": "Bengtsson, Tommy",
+      "family": "Bengtsson",
+      "given": "Tommy"
+    }
+  ],
+  "authors_text": "Hedefalk, Finn; Quaranta, Luciana; Bengtsson, Tommy",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.36",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.36",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.36",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.36.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

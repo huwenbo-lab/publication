@@ -1,0 +1,30 @@
+{
+  "title": "Children Living With Uninsured Family Members: Differences by Family Structure",
+  "abstract": "Despite increased access to insurance through the Patient Protection and Affordable Care Act of 2010, uninsurance rates are expected to remain relatively high. Having uninsured family members may expose children to financial hardships. Eligibility rules governing both private and public health insurance are based on outdated expectations about family structure. Using 2009-2011 data from the National Health Interview Survey (N = 65,038), the authors investigated family structure differences in family-level insurance coverage of households with children. Children living with married biological parents were the least likely to have uninsured family members and most likely to have all family members covered by private insurance. Controlling for demographic characteristics and income, children in single-mother families had the same risk of having an uninsured family member as children in married-parent families. Children with cohabiting biological parents had higher rates of family uninsurance than children with married biological parents, even accounting for other characteristics.",
+  "authors": [
+    {
+      "raw": "Bzostek, Sharon",
+      "family": "Bzostek",
+      "given": "Sharon"
+    },
+    {
+      "raw": "Percheski, Christine",
+      "family": "Percheski",
+      "given": "Christine"
+    }
+  ],
+  "authors_text": "Bzostek, Sharon; Percheski, Christine",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2016,
+  "doi": "10.1111/jomf.12309",
+  "doi_url": "https://doi.org/10.1111/jomf.12309",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12309",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12309.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

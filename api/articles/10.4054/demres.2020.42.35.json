@@ -1,0 +1,30 @@
+{
+  "title": "The power of the government: China's Family Planning Leading Group and the fertility decline of the 1970s",
+  "abstract": "BACKGROUND China introduced its world-famous One-Child Policy in 1979. However, its fertility appears to have declined even faster in the early 1970s than it did after 1979. The fertility rate declined by three children, from 5.7 in 1969 to 2.7 in 1978. OBJECTIVE What accounts for such a rapid decline in fertility rate during the 1970s? In this study, we highlight the importance of the Family Planning Leading Group (FPLG) in understanding China's fertility decline since the early 1970s. METHODS From 1969 to 1975, provinces gradually established agencies of the FPLG to implement family planning policies. We construct a difference-in-difference (DID) model to estimate the policy effect by exploiting the provincial variation in establishment years. We also develop a measure of policy exposure based on the province and the mother's birth cohort that is applicable to many publicly available household-level data. CONCLUSIONS Our DID model explains about half of China's total fertility rate decline from 5.7 in 1969 to 2.7 in 1978. Additionally, despite its simple construction, our proposed policy measure aptly explains China's rapid decline in family sizes. CONTRIBUTION We provide simple and practical approaches that characterize the causal effect of China's family planning policies during the early 1970s. Our approaches can be easily implemented on province-year panel data and typical household surveys.",
+  "authors": [
+    {
+      "raw": "Chen, Yi",
+      "family": "Chen",
+      "given": "Yi"
+    },
+    {
+      "raw": "Huang, Yingfei",
+      "family": "Huang",
+      "given": "Yingfei"
+    }
+  ],
+  "authors_text": "Chen, Yi; Huang, Yingfei",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.35",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.35",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.35",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.35.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

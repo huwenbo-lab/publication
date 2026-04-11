@@ -1,0 +1,30 @@
+{
+  "title": "Reinforcing at the Top or Compensating at the Bottom? Family Background and Academic Performance in Germany, Norway, and the United States",
+  "abstract": "Research on educational mobility usually studies socioeconomic differences at the mean of children's academic performance but fails to consider the variation in the shape of socioeconomic differences across the outcome distribution. Theories of social mobility as well as theories about the resource allocation within families predict such variation. We use quantile regression models to estimate variation in socioeconomic differences across the distribution of academic performance using different indicators of family background (parental education, occupation, earnings, and wealth). We apply this approach to data on Germany, Norway, and the United States, three countries that represent different welfare and education regimes that may affect the intergenerational transmission of educational advantage. We find stronger socioeconomic differences at the bottom than at the middle and the smallest differences at the top of the performance distribution. These findings are virtually identical across all four indicators of family background. We also find no cross-national differences in the shape of socioeconomic differences in academic performance.",
+  "authors": [
+    {
+      "raw": "Gratz, Michael",
+      "family": "Gratz",
+      "given": "Michael"
+    },
+    {
+      "raw": "Wiborg, Oyvind N.",
+      "family": "Wiborg",
+      "given": "Oyvind N."
+    }
+  ],
+  "authors_text": "Gratz, Michael; Wiborg, Oyvind N.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcz069",
+  "doi_url": "https://doi.org/10.1093/esr/jcz069",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz069",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz069.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Why Do Families Differ? Children's Care for an Unmarried Mother",
+  "abstract": "An adult child's provision of care to an unmarried elderly mother varies both within and between families. Within-family differences address the variation in different children's behavior within in a family. Between-family differences refer to the propensities that members of a family-the children of one mother-share and that differentiate them from other families. Previous research suggests five hypotheses affecting either within-family or between-family differences. Data from multiple waves of the Asset and Health Dynamics Among the Oldest Old (AHEAD) cohort of the Health and Retirement Study (HRS; 16,719 observations on 5,607 mother-child dyads in 1,925 families) are used to estimate a multilevel model with a binary outcome. Results indicate substantial differences between families. Mother's characteristics, family composition, and family history account for about half the between-family differences.",
+  "authors": [
+    {
+      "raw": "Henretta, John C.",
+      "family": "Henretta",
+      "given": "John C."
+    },
+    {
+      "raw": "Soldo, Beth J.",
+      "family": "Soldo",
+      "given": "Beth J."
+    },
+    {
+      "raw": "Van Voorhis, Matthew F.",
+      "family": "Van Voorhis",
+      "given": "Matthew F."
+    }
+  ],
+  "authors_text": "Henretta, John C.; Soldo, Beth J.; Van Voorhis, Matthew F.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2011,
+  "doi": "10.1111/j.1741-3737.2010.00813.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2010.00813.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2010.00813.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2010.00813.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

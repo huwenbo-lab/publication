@@ -1,0 +1,30 @@
+{
+  "title": "The impact of austerity on children: Uncovering effect heterogeneity by political, economic, and family factors in low-and middle-income countries",
+  "abstract": "Which children are most vulnerable when their government imposes austerity? Research tends to focus on either the political-economic level or the family level. Using a sample of nearly two million children in 67 countries, this study synthesizes theories from family sociology and political science to examine the heterogeneous effects on child poverty of economic shocks following the implementation of an International Monetary Fund (IMF) program. To discover effect heterogeneity, we apply machine learning to policy evaluation. We find that children's average probability of falling into poverty increases by 14 percentage points. We find substantial effect heterogeneity, with family wealth and governments' education spending as the two most important moderators. In contrast to studies that emphasize the vulnerability of low-income families, we find that middle-class children face an equally high risk of poverty. Our results show that synthesizing family and political factors yield deeper knowledge of how economic shocks affect children.",
+  "authors": [
+    {
+      "raw": "Daoud, Adel",
+      "family": "Daoud",
+      "given": "Adel"
+    },
+    {
+      "raw": "Johansson, Fredrik D.",
+      "family": "Johansson",
+      "given": "Fredrik D."
+    }
+  ],
+  "authors_text": "Daoud, Adel; Johansson, Fredrik D.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2023.102973",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102973",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102973",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102973.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

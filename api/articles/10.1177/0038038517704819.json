@@ -1,0 +1,30 @@
+{
+  "title": "Mapping the Social Class Structure: From Occupational Mobility to Social Class Categories Using Network Analysis",
+  "abstract": "This article develops a new explorative method for deriving social class categories from patterns of occupational mobility. In line with Max Weber, our research is based on the notion that, if class boundaries do not inhibit social mobility then the class categories are of little value. Thus, unlike dominant, theoretically defined class schemes, this article derives social class categories from observed patterns in a mobility network covering intra-generational mobility. The network is based on a mobility table of 109 occupational categories tied together by 1,590,834 job shifts on the Danish labour market 2001–2007. The number of categories are reduced from 109 to 34 by applying a new clustering algorithm specifically designed for the study of mobility tables (MONECA). These intra-generational social class categories are related to the central discussions of gender, income, education and political action by providing empirical evidence of strong patterns of intra-generational class divisions along these lines.",
+  "authors": [
+    {
+      "raw": "Toubøl, Jonas",
+      "family": "Toubøl",
+      "given": "Jonas"
+    },
+    {
+      "raw": "Larsen, Anton Grau",
+      "family": "Larsen",
+      "given": "Anton Grau"
+    }
+  ],
+  "authors_text": "Toubøl, Jonas; Larsen, Anton Grau",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2017,
+  "doi": "10.1177/0038038517704819",
+  "doi_url": "https://doi.org/10.1177/0038038517704819",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038517704819",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038517704819.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

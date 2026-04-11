@@ -1,0 +1,35 @@
+{
+  "title": "State-Level Trends in Lifespan Variability in the United States, 1960-2019: A Research Note",
+  "abstract": "State-level disparities in life expec tancy are wide, per sis tent, and poten tially grow ing in the United States. However, the extent to which dif fer-ences in lifespan var i abil ity by state have changed over time is unclear. This research note describes trends in lifespan var i abil ity for the United States over-all and by state from 1960 to 2019 using period life table data from the United States Mortality Database. Lifespan dis par ity at birth (e0 dagger) decreased over time in the United States over all from 14.0 years in 1960-1964 to 12.2 in 2015-2019. Lifespan var i abil ity decreased in all states, but states differed in the level and pace with which these changes occurred. Southern states and the District of Colum bia exhibited con-sis tently higher (i.e., less equi ta ble) levels of lifespan var i abil ity than the nation over-all. Conversely, lifespan var i abil ity was lower among sev eral states in the Northeast (e.g., Connecticut and Mas sa chu setts), Upper Midwest (e.g., Iowa, Minnesota, and Wisconsin), and West (e.g., California, Oregon, Utah, and Washington). We observe a particularly worrisome trend of increasing lifespan var i abil ity for the United States over all and for most states from 2010-2014 to 2015-2019. Monitoring state-level trends in lifespan var i abil ity has the poten tial to inform pol i cies designed to ame lio rate population health disparities.",
+  "authors": [
+    {
+      "raw": "Brown, Dustin C.",
+      "family": "Brown",
+      "given": "Dustin C."
+    },
+    {
+      "raw": "Lariscy, Joseph T.",
+      "family": "Lariscy",
+      "given": "Joseph T."
+    },
+    {
+      "raw": "Walker, Benjamin H.",
+      "family": "Walker",
+      "given": "Benjamin H."
+    }
+  ],
+  "authors_text": "Brown, Dustin C.; Lariscy, Joseph T.; Walker, Benjamin H.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10423884",
+  "doi_url": "https://doi.org/10.1215/00703370-10423884",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10423884",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10423884.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

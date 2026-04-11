@@ -1,0 +1,35 @@
+{
+  "title": "Publishing and Parenting in Academic Science: A Study of Different National Contexts",
+  "abstract": "In the first cross-national, mixed-methods study on gender, family, and science, the authors examined the relationship between research productivity and family life for male and female physicists and biologists in four countries: India, Taiwan, the United States, and the United Kingdom. Drawing on surveys of 5,756 respondents and follow-up interviews with 369 participants, the authors found that the relationship between family responsibilities and publishing operates differently for men and women. Additionally, this relationship is conditioned by the national context in which the scientists work. The interviews indicate that family responsibilities constrain women’s publication productivity according to context. Cross-contextual differences are partially explained by the macro-level gender norms transmitted to academic scientists and how women navigate their scientific research productivity and family responsibilities. The findings have implications for the broader literature on the dialectical relationship between macro-level gender norms and responses by scientists in India, Taiwan, the United States, and the United Kingdom.",
+  "authors": [
+    {
+      "raw": "Di, Di",
+      "family": "Di",
+      "given": "Di"
+    },
+    {
+      "raw": "Thomson, Robert A.",
+      "family": "Thomson",
+      "given": "Robert A."
+    },
+    {
+      "raw": "Howard Ecklund, Elaine",
+      "family": "Howard Ecklund",
+      "given": "Elaine"
+    }
+  ],
+  "authors_text": "Di, Di; Thomson, Robert A.; Howard Ecklund, Elaine",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211025186",
+  "doi_url": "https://doi.org/10.1177/23780231211025186",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211025186",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211025186.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

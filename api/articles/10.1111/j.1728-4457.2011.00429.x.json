@@ -1,0 +1,30 @@
+{
+  "title": "Secular Declines in the Association Between Obesity and Mortality in the United States",
+  "abstract": "Recent research suggests that rising obesity will restrain future gains in US life expectancy and that obesity is an important contributor to the current shortfall in US longevity compared to other high-income countries. Estimates of the contribution of obesity to current and future national-level mortality patterns are sensitive to estimates of the magnitude of the association between obesity and mortality at the individual level. We assessed secular trends in the obesity/mortality association among cohorts of middle-aged adults between 1948 and 2006 using three long-running US data sources: the Framingham Heart Study, the National Health and Nutrition Examination Survey, and the National Health Interview Survey. We find substantial declines over time in the magnitude of the association between obesity and overall mortality and, in certain instances, cardiovascular-specific mortality. We conclude that estimates of the contribution of obesity to current national-level mortality patterns should take into account recent reductions in the magnitude of the obesity and mortality association.",
+  "authors": [
+    {
+      "raw": "Mehta, Neil K.",
+      "family": "Mehta",
+      "given": "Neil K."
+    },
+    {
+      "raw": "Chang, Virginia W.",
+      "family": "Chang",
+      "given": "Virginia W."
+    }
+  ],
+  "authors_text": "Mehta, Neil K.; Chang, Virginia W.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2011,
+  "doi": "10.1111/j.1728-4457.2011.00429.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2011.00429.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2011.00429.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2011.00429.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

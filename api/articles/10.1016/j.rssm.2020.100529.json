@@ -1,0 +1,25 @@
+{
+  "title": "Career trajectories and cumulative wages: The case of temporary employment",
+  "abstract": "Using data from the German Socio-Economic Panel (SOEP, 1994-2017), we investigate how 10-year career sequences, which can be grouped into distinct career patterns, relate to cumulative labor market income. We utilize propensity score matching to compare standard career sequences, consisting of continuous full-time permanent work, to stepping stone career sequences, characterized by initial periods of temporary employment and subsequent permanent employment. We thus investigate if temporary workers are compensated for initial wage penalties in their later career. This life course approach reveals a more holistic picture about the consequences of temporary employment than previous studies, which mostly focus on the effect of single transitions and on wages at single time points. The results show that among labor market entrants the standard permanent employment career is the most prevalent one but that stepping stone careers are also common. Nonetheless, individuals who start their career in temporary employment and then transition to permanent jobs face long-term cumulative wage disadvantages of -51,461.2 Euro (-14.07 %) compared to individuals with standard permanent careers. Furthermore, over the 10 years we study, we find an increasing cumulative wage gap even after the transitions to permanent jobs take place. This last finding suggests that compared to individuals with standard careers, former temporary workers do not experience a compensating higher wage growth in their later careers.",
+  "authors": [
+    {
+      "raw": "Fauser, Sophia",
+      "family": "Fauser",
+      "given": "Sophia"
+    }
+  ],
+  "authors_text": "Fauser, Sophia",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100529",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100529",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100529",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100529.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

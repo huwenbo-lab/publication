@@ -1,0 +1,30 @@
+{
+  "title": "The Causal Effects of Rural-to-Urban Migration on Children's Well-being in China",
+  "abstract": "China's rural-to-urban migration has affected 12.6 million school-age rural children who have migrated with their parents and another 22 million who have been left behind by their migrant parents. Not enough is known, either theoretically or empirically, about the causal impact of migration on the well-being of this large number of Chinese children affected by migration. Propensity score matching methods are applied to estimate the effects of migration in children 10-15 years old from a 2010 national survey (N = 2,417). Children's migration has significant positive effects on their objective well-being but no negative effects on their subjective well-being. There is little difference between the left-behind and non-migrant children across multiple life domains. The Rosenbaum bounds tests indicate that the causal effects of child migration are sensitive to hidden bias for certain outcomes, but not for others.",
+  "authors": [
+    {
+      "raw": "Xu, Hongwei",
+      "family": "Xu",
+      "given": "Hongwei"
+    },
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Xu, Hongwei; Xie, Yu",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcv009",
+  "doi_url": "https://doi.org/10.1093/esr/jcv009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

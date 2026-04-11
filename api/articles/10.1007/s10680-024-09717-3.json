@@ -1,0 +1,35 @@
+{
+  "title": "Residential Mobility in Childhood and Union Dissolution Later in Life",
+  "abstract": "The limited existing literature studying the effects of childhood residential mobility suggests that it influences a range of life outcomes, at least in young adulthood. Little is known about how the frequency of moving in childhood is related to later-life demographic behaviour in Europe. Drawing on residential and partnership histories from the Survey of Health, Ageing and Retirement in Europe (SHARE), this paper examines whether moving in childhood relates to union dissolution in adulthood. It empirically addresses two theoretical explanations underlying the potential association: First, according to the confounding hypothesis, effects of childhood residential mobility differ by family background and resources. Second, the family stress model suggests that the accumulated stress and conflicts associated with frequent residential mobility disrupt the family and child's social ties, resulting in worse relationship skills in later life (mediation hypothesis). Applying discrete-time event history analysis to individuals born between 1945 and 1965 in Sweden, Denmark, and Finland, we find a significant association between childhood moves (prior to age 17) and adult union dissolution. The effect's strength varies based on the number of childhood moves, demonstrating a clear gradient. Notably, adults with three or more childhood moves exhibit a 55% higher likelihood of union dissolution compared to non-movers. These associations persist even after accounting for childhood background factors, while family stress mediates the link partially. Our findings shed light on the role of spatial mobility in shaping demographic outcomes and underscore its potential contribution to the accumulation and reproduction of life disadvantages.",
+  "authors": [
+    {
+      "raw": "Pertzikovitz, Alon",
+      "family": "Pertzikovitz",
+      "given": "Alon"
+    },
+    {
+      "raw": "Vidal, Sergi",
+      "family": "Vidal",
+      "given": "Sergi"
+    },
+    {
+      "raw": "de Valk, Helga A. G.",
+      "family": "de Valk",
+      "given": "Helga A. G."
+    }
+  ],
+  "authors_text": "Pertzikovitz, Alon; Vidal, Sergi; de Valk, Helga A. G.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-024-09717-3",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09717-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09717-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09717-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

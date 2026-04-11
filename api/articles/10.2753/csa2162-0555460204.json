@@ -1,0 +1,30 @@
+{
+  "title": "Comparing, Confounding, or Clarifying? Alternative Measures of Statistical Group Comparisons in Binary Regression Models",
+  "abstract": "Interpreting results from nonlinear models can be complex and cumbersome, especially when it comes to group comparisons. Focusing on predicted probabilities and marginal effects, this study proposes a three-dimensional systemic approach (i.e., prediction vs. effect, difference vs. ratio, and local vs. global) to making group comparisons in binary regression models. Using data from the 2002 General Social Survey and 2003 China General Social Survey, this study also illustrates how to apply various alternative group comparison measures to investigate group differences both with and without secondary (i.e., explicit) interaction terms in the structural model. Results suggest that using multiple group comparison measures can more effectively uncover nuances in group differences through triangulation.",
+  "authors": [
+    {
+      "raw": "Xu, Jun",
+      "family": "Xu",
+      "given": "Jun"
+    },
+    {
+      "raw": "Fullerton, Andrew S.",
+      "family": "Fullerton",
+      "given": "Andrew S."
+    }
+  ],
+  "authors_text": "Xu, Jun; Fullerton, Andrew S.",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2013,
+  "doi": "10.2753/csa2162-0555460204",
+  "doi_url": "https://doi.org/10.2753/csa2162-0555460204",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2753%2Fcsa2162-0555460204",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2753/csa2162-0555460204.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

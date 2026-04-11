@@ -1,0 +1,40 @@
+{
+  "title": "Two Methods for Studying the Developmental Significance of Family Structure Trajectories",
+  "abstract": "Objective The objective of this research note is to use both sequence analysis (SA) and repeated-measures latent class analysis (LCA) to identify children's family structure trajectories from birth through age 15 and compare how the two sets of trajectories predict alcohol use across the transition from adolescence into young adulthood. Background Contemporary family scholars have studied the influence of changes in family structure, often referred to as family structure instability, on child and adolescent development. Typically, this research has focused on either the number or type of transitions children have experienced, but statistical advances are increasing the viability of more complex person-centered approaches to this issue, such as SA and LCA. The choice to use one approach or the other, however, is often discipline specific and relies on different assumptions and estimation techniques that may produce different results. Method The authors used data from the National Longitudinal Study of Youth-Child and Youth Cohort (N = 11,515) to identify clusters (using SA) and classes (using repeated-measures LCA) that represented children's family structure trajectories from birth through age 15. Using two multiple-group random slope models, the authors predicted alcohol use across adolescence and young adulthood (ages 16-24) among the clusters (Model 1) and classes (Model 2). Results The SA identified five clusters, but the LCA further differentiated the sample with more detail on timing and identified eight classes. The sensitivity to timing in the LCA solution was substantively relevant to alcohol use across the transition to young adulthood. Conclusion Overall, the SA is perhaps more suited to research questions requiring exclusive group membership in large, comparative analyses, and the LCA more appropriate when the research questions include timing or focus on transitioning into or out of single-parent and stepfamily homes.",
+  "authors": [
+    {
+      "raw": "Johnston, Carol A.",
+      "family": "Johnston",
+      "given": "Carol A."
+    },
+    {
+      "raw": "Crosnoe, Robert",
+      "family": "Crosnoe",
+      "given": "Robert"
+    },
+    {
+      "raw": "Mernitz, Sara E.",
+      "family": "Mernitz",
+      "given": "Sara E."
+    },
+    {
+      "raw": "Pollitt, Amanda M.",
+      "family": "Pollitt",
+      "given": "Amanda M."
+    }
+  ],
+  "authors_text": "Johnston, Carol A.; Crosnoe, Robert; Mernitz, Sara E.; Pollitt, Amanda M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12639",
+  "doi_url": "https://doi.org/10.1111/jomf.12639",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12639",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12639.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

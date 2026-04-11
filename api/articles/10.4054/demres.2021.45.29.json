@@ -1,0 +1,25 @@
+{
+  "title": "English fertility heads south: Understanding the recent decline",
+  "abstract": "BACKGROUND Fertility in England fell substantially during the past decade. The total fertility rate reached its historically lowest level in 2020. OBJECTIVE To improve our understanding of the decline in English fertility by using data on individual women during 2009-2020 from Understanding Society, which is a panel survey of the members of approximately 40,000 households. METHODS Estimation of a model of age and parity-specific birth rates on individual data, including year-effects, and cross-validation of it with external sources from registration data. Translation of the parameter estimates into more easily interpreted concepts such as period parity progression ratios and the total fertility rate (along with the standard errors for each). RESULTS The decline in first-birth rates appears to be primarily responsible for the decline in the TFR during the past decade, and women with an education below degree level experienced a larger fertility decline. ONCLUSIONS If recent period fertility patterns are sustained, England is embarking on a regime of a high level of childlessness not seen since that among women born in the early 1920s. CONTRIBUTION Individual-level panel data is used to estimate a model of parity-specific birth rates, which is cross-validated against registration data and used to provide insights into what lies behind the recent decline in English fertility.",
+  "authors": [
+    {
+      "raw": "Ermisch, John",
+      "family": "Ermisch",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Ermisch, John",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.29",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

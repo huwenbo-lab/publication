@@ -1,0 +1,30 @@
+{
+  "title": "We, Not Just I, Must Trust Doctors: Network Medical Trust and Health Care Utilization",
+  "abstract": "Previous research has demonstrated associations between social network characteristics and health care utilization. However, understanding the role of network- and individual-level factors together remains limited. We use the Person to Person Health Interview Study (2018–2020) to show network-level and individual-level predictors of two health care utilization measures: having a regular doctor (preventive care) and seeking medical services after an acute health care problem (reactive care). We explore preventive care among the full sample (N = 2,524) and reactive care among the subsample that reported a physical or mental health problem in the past year (n = 885). We measure medical trust as an individual-level characteristic (personal trust in physicians) and a network-level characteristic (average trust in physicians among social ties). Results show that higher medical trust in doctors within one’s network positively predicts both having a regular doctor and utilizing medical services after a health care problem, even after adjusting for known predictors of utilization. Our findings provide support that a network’s pro-medical culture matters beyond individual medical trust for health care utilization.",
+  "authors": [
+    {
+      "raw": "Ravaei, Tania",
+      "family": "Ravaei",
+      "given": "Tania"
+    },
+    {
+      "raw": "Bolton, Megan",
+      "family": "Bolton",
+      "given": "Megan"
+    }
+  ],
+  "authors_text": "Ravaei, Tania; Bolton, Megan",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251349865",
+  "doi_url": "https://doi.org/10.1177/23780231251349865",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251349865",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251349865.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

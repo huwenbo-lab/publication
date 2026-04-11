@@ -1,0 +1,30 @@
+{
+  "title": "A Research Note on the Prevalence of Housing Eviction Among Children Born in US Cities",
+  "abstract": "A growing body of research suggests that housing eviction is more common than previously recognized and may play an important role in the reproduction of poverty. The proportion of children affected by housing eviction, however, remains largely unknown. We estimate that one in seven children born in large U.S. cities in 1998-2000 experienced at least one eviction for nonpayment of rent or mortgage between birth and age 15. Rates of eviction were substantial across all cities and demographic groups studied, but children from disadvantaged backgrounds were most likely to experience eviction. Among those born into deep poverty, we estimate that approximately one in four were evicted by age 15. Given prior evidence that forced moves have negative consequences for children, we conclude that the high prevalence and social stratification of housing eviction are sufficient to play an important role in the reproduction of poverty and warrant greater policy attention.",
+  "authors": [
+    {
+      "raw": "Lundberg, Ian",
+      "family": "Lundberg",
+      "given": "Ian"
+    },
+    {
+      "raw": "Donnelly, Louis",
+      "family": "Donnelly",
+      "given": "Louis"
+    }
+  ],
+  "authors_text": "Lundberg, Ian; Donnelly, Louis",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-018-0735-y",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0735-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0735-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0735-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

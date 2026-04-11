@@ -1,0 +1,35 @@
+{
+  "title": "Variations in male height during the epidemiological transition in Italy: A cointegration approach",
+  "abstract": "BACKGROUNDThe historical demography literature has a longstanding interest in establishing a connection between human body development and the living conditions experienced during infancy and childhood. Empirical research on such matters increasingly relies on survival indicators rather than classical economic measures of living standards, as the former are more directly linked to nutritional quality, material well-being levels, and technological development. OBJECTIVEWe explore the relationship between epidemiological conditions and male adult height variation in Italy to understand if and to what extent progress in survival impacted human body evolution during the epidemiological transition.METHODSBy exploiting the national military archive data from the Italian National Institute of Statistics and the Human Mortality Database, we focus on conscript cohorts born between 1872 and 1980 to connect average male height at the recruitment age with the prevailing infant and general survival conditions in the calendar year of conscripts' birth. We adopt an econometric approach based on cointegration analysis to study both the long-and the short-run relationships between the time series of interest.RESULTSError correction model estimates find a positive link between epidemiological condition development and the secular increase in male height in Italy.CONTRIBUTION In the long run, as the probability of survival at the first birthday and life expectancy at 5 years increase, so does average male height. In the short term, however, we find an estimated inverse relationship between survival and stature, which we interpret as a counterintuitive mechanism of negative selection in the survival of the most fragile individuals both among infants and the general population.",
+  "authors": [
+    {
+      "raw": "Tosi, Francesca",
+      "family": "Tosi",
+      "given": "Francesca"
+    },
+    {
+      "raw": "Scalone, Francesco",
+      "family": "Scalone",
+      "given": "Francesco"
+    },
+    {
+      "raw": "Rettaroli, Rosella",
+      "family": "Rettaroli",
+      "given": "Rosella"
+    }
+  ],
+  "authors_text": "Tosi, Francesca; Scalone, Francesco; Rettaroli, Rosella",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.7",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

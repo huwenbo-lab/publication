@@ -1,0 +1,30 @@
+{
+  "title": "A Model of Destination-Language Acquisition: Application to Male Immigrants in Canada",
+  "abstract": "We develop a model using human capital theory and an immigrant adjustment process to generate hypotheses on the acquisition of destination-language skills among immigrants. The model is tested for adult male immigrants in the 1991 Census of Canada. Use of English or French is greater, the younger the age at migration, the longer the duration of residence, the higher the educational attainment, the farther the country of origin from Canada, and the linguistically closer the mother tongue to English or French, and among those who are not refugees, those from a former British, French, or American colony, and those who live in an area where fewer people speak the respondent mother tongue. The explanatory variables based on birthplace have behavioral interpretations and possess almost as much explanatory power as the birthplace dummy variables.",
+  "authors": [
+    {
+      "raw": "Chiswick, Barry R.",
+      "family": "Chiswick",
+      "given": "Barry R."
+    },
+    {
+      "raw": "Miller, Paul W.",
+      "family": "Miller",
+      "given": "Paul W."
+    }
+  ],
+  "authors_text": "Chiswick, Barry R.; Miller, Paul W.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.2307/3088354",
+  "doi_url": "https://doi.org/10.2307/3088354",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088354",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088354.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

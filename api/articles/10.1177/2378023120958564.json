@@ -1,0 +1,25 @@
+{
+  "title": "Visualizing the Regionalized Structure of Mobility between Countries Worldwide",
+  "abstract": "Despite the sociological relevance of human mobility between nation-states, our knowledge about its planet-scale structure is still limited. Here, geographic mapping, algorithm-based community detection, network visualization, and conventional line plots are combined to display the network structure of 2.3 billion estimated trips between countries worldwide in 2016, together with information about the (non)evolution of this structure over time. The graph reveals that transnational mobility is highly regionalized: 80 percent of all human movements between countries occur within world regions. Despite strong increases in the absolute amount of transnational mobility, this share remains extremely stable between 2011 and 2016. The community detection algorithm reveals six mobility clusters that clearly correspond to world regions: Africa, Asia and Oceania, the Americas, Eurasia, Europe, and the Middle East. This stable, regionalized structure suggests that a fully globalized “world society” is unlikely to emerge, as social ties remain parochial, even in the transnational sphere.",
+  "authors": [
+    {
+      "raw": "Deutschmann, Emanuel",
+      "family": "Deutschmann",
+      "given": "Emanuel"
+    }
+  ],
+  "authors_text": "Deutschmann, Emanuel",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120958564",
+  "doi_url": "https://doi.org/10.1177/2378023120958564",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120958564",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120958564.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

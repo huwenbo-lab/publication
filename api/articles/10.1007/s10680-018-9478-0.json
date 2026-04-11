@@ -1,0 +1,40 @@
+{
+  "title": "Residential Segregation of European and Non-European Migrants in Sweden: 1990–2012",
+  "abstract": "In this paper, we analyse how a migrant population that is both expanding and changing in composition has affected the composition of Swedish neighbourhoods at different scales. The analysis is based on Swedish geocoded individual-level register data for the years 1990, 1997, 2005, and 2012. This allows us to compute and analyse the demographic composition of neighbourhoods that range in size from encompassing the nearest 100 individuals to the nearest 409,600 individuals. First, the results confirm earlier findings that migrants, especially those from non-European countries, face high levels of segregation in Sweden. Second, large increases in the non-European populations in combination with high levels of segregation have increased the proportion of non-European migrants living in neighbourhoods that already have high proportions of non-European migrants. Third, in contrast to what has been the established image of segregation trends in Sweden, and in an apparent contrast to the finding that non-European migrants increasingly live in migrant-dense neighbourhoods, our results show that segregation, when defined as an uneven distribution of different populations across residential contexts, is not increasing. On the contrary, for both European migrants from 1990 and non-European migrants from 1997, there is a downward trend in unevenness as measured by the dissimilarity index at all scale levels. However, if segregation is measured as differences in the neighbourhood concentration of migrants, segregation has increased.",
+  "authors": [
+    {
+      "raw": "Malmberg, Bo",
+      "family": "Malmberg",
+      "given": "Bo"
+    },
+    {
+      "raw": "Andersson, Eva K.",
+      "family": "Andersson",
+      "given": "Eva K."
+    },
+    {
+      "raw": "Nielsen, Michael M.",
+      "family": "Nielsen",
+      "given": "Michael M."
+    },
+    {
+      "raw": "Haandrikman, Karen",
+      "family": "Haandrikman",
+      "given": "Karen"
+    }
+  ],
+  "authors_text": "Malmberg, Bo; Andersson, Eva K.; Nielsen, Michael M.; Haandrikman, Karen",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9478-0",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9478-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9478-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9478-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

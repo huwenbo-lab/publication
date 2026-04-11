@@ -1,0 +1,30 @@
+{
+  "title": "Citizenship Reporting in the American Community Survey",
+  "abstract": "For applications that use citizenship as an indicator of legal status, we recommend that self-reported data on citizenship be accepted at face value for all groups except those with less than five years of U.S. residence and Mexican men.",
+  "authors": [
+    {
+      "raw": "Van Hook, Jennifer",
+      "family": "Van Hook",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Bachmeier, James",
+      "family": "Bachmeier",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Van Hook, Jennifer; Bachmeier, James",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2013,
+  "doi": "10.4054/demres.2013.29.1",
+  "doi_url": "https://doi.org/10.4054/demres.2013.29.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2013.29.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2013.29.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

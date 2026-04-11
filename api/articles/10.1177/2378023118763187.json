@@ -1,0 +1,35 @@
+{
+  "title": "Peer Attitudes and the Development of Prejudice in Adolescence",
+  "abstract": "According to a number of psychological and sociological theories, individuals are susceptible to social influence from their immediate social environment, especially during adolescence. An important social context is the network of one’s peers. However, data limitations, specifically a lack of longitudinal data with information about respondents’ social networks, have limited previous analyses of the relationship between peers and prejudice over time. In this article, we rely on a five-wave panel of adolescents, aged either 13 or 16 in wave 1 (N = 1,009). We examine the effects of this social context on prejudice by focusing on nominated friends’ attitudes, attitudes of prestigious peers, and respondents’ own positions in their networks. Results indicate that the level of prejudice among peers affects individual prejudice over time. Results also show that both prestigious and nonprestigious peers affect prejudice. Finally, adolescents’ own positions in their networks matter: Network centrality is inversely related to prejudice.",
+  "authors": [
+    {
+      "raw": "Hjerm, Mikael",
+      "family": "Hjerm",
+      "given": "Mikael"
+    },
+    {
+      "raw": "Eger, Maureen A.",
+      "family": "Eger",
+      "given": "Maureen A."
+    },
+    {
+      "raw": "Danell, Rickard",
+      "family": "Danell",
+      "given": "Rickard"
+    }
+  ],
+  "authors_text": "Hjerm, Mikael; Eger, Maureen A.; Danell, Rickard",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118763187",
+  "doi_url": "https://doi.org/10.1177/2378023118763187",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118763187",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118763187.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

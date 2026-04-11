@@ -1,0 +1,30 @@
+{
+  "title": "Collaboration and creativity: The small world problem",
+  "abstract": "Small world networks have received disproportionate notice in diverse fields because of their suspected effect on system dynamics. The authors analyzed the small world network of the creative artists who made Broadway musicals from 1945 to 1989. Using original arguments, new statistical methods, and tests of construct validity, they found that the varying small world properties of the systemic-level network of these artists affected their creativity in terms of the financial and artistic performance of the musicals they produced. The small world network effect was parabolic; performance increased up to a threshold, after which point the positive effects reversed.",
+  "authors": [
+    {
+      "raw": "Uzzi, B",
+      "family": "Uzzi",
+      "given": "B"
+    },
+    {
+      "raw": "Spiro, J",
+      "family": "Spiro",
+      "given": "J"
+    }
+  ],
+  "authors_text": "Uzzi, B; Spiro, J",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2005,
+  "doi": "10.1086/432782",
+  "doi_url": "https://doi.org/10.1086/432782",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F432782",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/432782.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Median voter dynamics in a laboratory experiment on voting over redistribution",
+  "abstract": "This paper reports results from a laboratory experiment that investigates the prevalence of median voter dynamics in the Meltzer-Richard redistribution mechanism. I focus on the model's microfoundations and analyze how individuals translate material incentives into proposed tax rates and how these individual proposals get aggregated into a collective group choice under two different voting rules; majority rule and voting by veto. My experimental results show that material incentives do not fully determine individual proposals. In addition, personal characteristics and justice attitudes constitute additional facets of individual motivations. Median voter dynamics are prevalent under both voting rules at least when looking at aggregate behavior. Both decision rules thus lead to an un-biased aggregation of voters' preferences. Moreover, the experimental results show only minor behavioral differences between decisions employing majority rule and collective choices using voting by veto.",
+  "authors": [
+    {
+      "raw": "Sauermann, Jan",
+      "family": "Sauermann",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Sauermann, Jan",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102869",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102869",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102869",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102869.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

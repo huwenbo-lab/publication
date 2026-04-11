@@ -1,0 +1,30 @@
+{
+  "title": "Income Inequality and Access to Housing in Europe",
+  "abstract": "This article analyzes the relationship between income inequality and access to housing for low-income homeowners and renters ‘at market rent’ across Europe. We develop three arguments that explain how inequality affects housing affordability, quality, and quantity—together these dimensions indicate ‘access to housing’. First, it is the absolute level of resources, not their relative distribution, that affects access to housing. Second, inequality leads to rising aspirations and status competition, which in turn influence the dimensions indicating access to housing. Third, the impact of inequality is mediated by housing market dynamics. Multilevel models for 28 countries indicate that: (i) higher income inequality increases the likelihood of affordability problems for low-income renters ‘at market rent’; (ii) there is a positive relation between inequality and crowding; and (iii) higher income inequality is associated with lower housing quality. Although income inequality restricts access to housing for low-income households, this relationship is complex and not mediated by national house price trends.",
+  "authors": [
+    {
+      "raw": "Dewilde, Caroline",
+      "family": "Dewilde",
+      "given": "Caroline"
+    },
+    {
+      "raw": "Lancee, Bram",
+      "family": "Lancee",
+      "given": "Bram"
+    }
+  ],
+  "authors_text": "Dewilde, Caroline; Lancee, Bram",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1093/esr/jct009",
+  "doi_url": "https://doi.org/10.1093/esr/jct009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjct009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jct009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Attitudes toward work and parenthood following family-building transitions in Sweden: Identifying differences by gender and education",
+  "abstract": "OBJECTIVES This paper examines how family-building transitions (union formation and first birth) affect the attitudes of Swedes toward work and parenthood. The literature finds that these life course transitions have a traditionalizing effect on gender roles. Is this also the case in Sweden, one of the most gender-equal countries in the world? METHODS Our study uses the longitudinal Young Adult Panel Study database. We run first-difference OLS regressions on the relationship between family-building transitions and work and parenthood attitudes, distinguishing men from women, and those with more education from those with less. RESULTS We find that family transitions do slightly traditionalize attitudes toward work and parenthood, but differences by gender and education are very small. DISCUSSION AND CONTRIBUTION The overall pattern is one of striking similarity between men and women, suggesting that the gender revolution is well advanced in Sweden; traditional gender differences remain primarily among those with less education.",
+  "authors": [
+    {
+      "raw": "Bernhardt, Eva",
+      "family": "Bernhardt",
+      "given": "Eva"
+    },
+    {
+      "raw": "Goldscheider, Frances",
+      "family": "Goldscheider",
+      "given": "Frances"
+    },
+    {
+      "raw": "Switek, Malgorzata",
+      "family": "Switek",
+      "given": "Malgorzata"
+    }
+  ],
+  "authors_text": "Bernhardt, Eva; Goldscheider, Frances; Switek, Malgorzata",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.30",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Family arrangements and children's educational outcomes: Heterogeneous penalties in upper-secondary school",
+  "abstract": "BACKGROUND This paper studies whether new family patterns fostered inequality of educational opportunities in upper-secondary education in Italy. OBJECTIVE To analyse the association between children's educational outcomes and a wide range of family arrangements, including the time of exposure to marriage (never married, married before or after the birth). Empirical analyses also consider whether these demographic characteristics of the origin family more strongly affect children from more or less well-off families, and whether these effects change when different educational outcomes are considered. METHODS Analyses are based on the Italian Labour Force Survey (2005-2014) and apply Linear Probability Models on a sample of 123,045 children aged 15 and 16. RESULTS Children living in single-parent households or with two cohabiting biological parents have worse educational outcomes compared to children of two married biological parents. Children of highly educated parents are more penalized if access to the most prestigious academic track is considered, whereas the penalty is stronger among children of low-educated parents if the risk of not being enrolled in upper-secondary schools that give access to university is analysed. Finally, the analysis of the exposure to marriage suggests that social selectivity may drive the negative effects of cohabitation. CONTRIBUTION Results provide limited support to the argument that new family patterns increase social inequalities. Living in 'nonstandard' family arrangements does worsen children's educational outcomes, but substantial heterogeneity in their effects has been found, depending on the combination between social background and the educational outcome considered.",
+  "authors": [
+    {
+      "raw": "Guetto, Raffaele",
+      "family": "Guetto",
+      "given": "Raffaele"
+    },
+    {
+      "raw": "Panichella, Nazareno",
+      "family": "Panichella",
+      "given": "Nazareno"
+    }
+  ],
+  "authors_text": "Guetto, Raffaele; Panichella, Nazareno",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.35",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.35",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.35",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.35.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

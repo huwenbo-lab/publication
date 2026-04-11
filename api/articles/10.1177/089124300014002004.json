@@ -1,0 +1,30 @@
+{
+  "title": "THE GLASS CEILING HYPOTHESIS",
+  "abstract": "The general-case glass ceiling hypothesis states that not only is it more difficult for women than for men to be promoted up levels of authority hierarchies within workplaces but also that the obstacles women face relative to men become greater as they move up the hierarchy. Gender-based discrimination in promotions is not simply present across levels of hierarchy but is more intense at higher levels. Empirically, this implies that the relative rates of women being promoted to higher levels compared to men should decline with the level of the hierarchy. This article explores this hypothesis with data from three countries: the United States, Australia, and Sweden. The basic conclusion is that while there is strong evidence for a general gender gap in authority—the odds of women having authority are less than those of men—there is no evidence for systematic glass ceiling effects in the United States and only weak evidence for such effects in the other two countries.",
+  "authors": [
+    {
+      "raw": "BAXTER, JANEEN",
+      "family": "BAXTER",
+      "given": "JANEEN"
+    },
+    {
+      "raw": "WRIGHT, ERIK OLIN",
+      "family": "WRIGHT",
+      "given": "ERIK OLIN"
+    }
+  ],
+  "authors_text": "BAXTER, JANEEN; WRIGHT, ERIK OLIN",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2000,
+  "doi": "10.1177/089124300014002004",
+  "doi_url": "https://doi.org/10.1177/089124300014002004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F089124300014002004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/089124300014002004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

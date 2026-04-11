@@ -1,0 +1,35 @@
+{
+  "title": "Taylor's power law in human mortality",
+  "abstract": "BACKGROUND AND OBJECTIVE Taylor's law (TL) typically describes a linear relationship between the logarithm of the variance and the logarithm of the mean of population densities. It has been verified for many non-human species in ecology, and recently, for Norway's human population. In this article, we test TL for human mortality. METHOD We use death counts and exposures by single age (0 to 100) and calendar year (1960 to 2009) for countries of the Human Mortality Database to compute death rates as well as their rates of change in time. For both mortality measures, we test temporal forms of TL: In cross-age-scenarios, we analyze temporal variance to mean relationships at different ages in a certain country, and in cross-country-scenarios, we analyze temporal variance to mean relationships in different countries at a certain age. RESULTS The results reveal almost log-linear variance to mean relationships in both scenarios; exceptions are the cross-country-scenarios for the death rates, which appear to be clustered together, due to similar mortality levels among the countries. CONCLUSIONS TL appears to describe a regular pattern in human mortality. We suggest that it might be used (1) in mortality forecasting (to evaluate the quality of forecasts and to justify linear mortality assumptions) and (2) to reveal minimum mortality at some ages.",
+  "authors": [
+    {
+      "raw": "Bohk, Christina",
+      "family": "Bohk",
+      "given": "Christina"
+    },
+    {
+      "raw": "Rau, Roland",
+      "family": "Rau",
+      "given": "Roland"
+    },
+    {
+      "raw": "Cohen, Joel E.",
+      "family": "Cohen",
+      "given": "Joel E."
+    }
+  ],
+  "authors_text": "Bohk, Christina; Rau, Roland; Cohen, Joel E.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.21",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.21",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.21",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.21.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Retrospective information on health status and its application for population health measures",
+  "abstract": "Abstract Healthy life expectancies are almost always calculated by using health data from cross-sectional surveys. This type of calculation is done partly because data from longitudinal surveys are not always available, and when they are available, they are collected at intervals that are longer than one year. In such cases, collecting health information retrospectively for the years skipped by the survey is useful. The main purpose of this paper is to show how retrospective health information can be used to estimate life expectancies in different health states. Healthy life expectancies are estimated with and without using data on retrospective health information, and the corresponding estimates are compared. The two sets of estimates are similar. We conclude that retrospectively assessed health information based on a one-year recall period can be used to estimate years of life in various health states and that estimates based on such information will closely approximate estimates based on concurrent health information.",
+  "authors": [
+    {
+      "raw": "Molla, Michael T.",
+      "family": "Molla",
+      "given": "Michael T."
+    },
+    {
+      "raw": "Lubitz, James",
+      "family": "Lubitz",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Molla, Michael T.; Lubitz, James",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.2008.0008",
+  "doi_url": "https://doi.org/10.1353/dem.2008.0008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2008.0008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2008.0008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

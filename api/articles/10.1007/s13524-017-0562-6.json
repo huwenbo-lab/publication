@@ -1,0 +1,40 @@
+{
+  "title": "An Assessment and Extension of the Mechanism-Based Approach to the Identification of Age-Period-Cohort Models",
+  "abstract": "Many methods have been proposed to solve the age-period-cohort (APC) linear identification problem, but most are not theoretically informed and may lead to biased estimators of APC effects. One exception is the mechanism-based approach recently proposed and based on Pearl's front-door criterion; this approach ensures consistent APC effect estimators in the presence of a complete set of intermediate variables between one of age, period, cohort, and the outcome of interest, as long as the assumed parametric models for all the relevant causal pathways are correct. Through a simulation study mimicking APC data on cardiovascular mortality, we demonstrate possible pitfalls that users of the mechanism-based approach may encounter under realistic conditions: namely, when (1) the set of available intermediate variables is incomplete, (2) intermediate variables are affected by two or more of the APC variables (while this feature is not acknowledged in the analysis), and (3) unaccounted confounding is present between intermediate variables and the outcome. Furthermore, we show how the mechanism-based approach can be extended beyond the originally proposed linear and probit regression models to incorporate all generalized linear models, as well as nonlinearities in the predictors, using Monte Carlo simulation. Based on the observed biases resulting from departures from underlying assumptions, we formulate guidelines for the application of the mechanism-based approach (extended or not).",
+  "authors": [
+    {
+      "raw": "Bijlsma, Maarten J.",
+      "family": "Bijlsma",
+      "given": "Maarten J."
+    },
+    {
+      "raw": "Daniel, Rhian M.",
+      "family": "Daniel",
+      "given": "Rhian M."
+    },
+    {
+      "raw": "Janssen, Fanny",
+      "family": "Janssen",
+      "given": "Fanny"
+    },
+    {
+      "raw": "De Stavola, Bianca L.",
+      "family": "De Stavola",
+      "given": "Bianca L."
+    }
+  ],
+  "authors_text": "Bijlsma, Maarten J.; Daniel, Rhian M.; Janssen, Fanny; De Stavola, Bianca L.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0562-6",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0562-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0562-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0562-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

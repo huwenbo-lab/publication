@@ -1,0 +1,30 @@
+{
+  "title": "The Political Context and Infant Health in the United States",
+  "abstract": "Most social determinants of health are shaped by political decisions. However, beyond specific policies, there is limited empirical investigation into the consequences of the changing political context on population health in the United States. We examine a salient political factor-the party of the president and governor-as a determinant of infant health between 1971 and 2018 using a battery of fixed-effects models. We focus on infant health because it has far-reaching implications for future population health and inequality. Our analysis yields three findings: (1) Democratic presidents have a beneficial effect on infant health outcomes, with stronger effects for Black infants compared to White infants. (2) The president's party effect materializes after two years of a Democratic transition, and remains elevated until the end of the party's tenure in office. (3) Specific measurable social policies appear to play a minor role in explaining the beneficial effect of Democratic administrations. Our findings suggest the party in power is an important determinant of infant health, particularly among vulnerable populations, and they invite a deeper examination of mechanisms.",
+  "authors": [
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    },
+    {
+      "raw": "Rauf, Tamkinat",
+      "family": "Rauf",
+      "given": "Tamkinat"
+    }
+  ],
+  "authors_text": "Torche, Florencia; Rauf, Tamkinat",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/00031224211000710",
+  "doi_url": "https://doi.org/10.1177/00031224211000710",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211000710",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211000710.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

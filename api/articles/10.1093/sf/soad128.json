@@ -1,0 +1,30 @@
+{
+  "title": "Hispanic Men's Earnings Mobility Across Immigrant Generations: Estimates Using Tax Records",
+  "abstract": "Whether immigrants and their descendants are catching up socioeconomically with the rest of society is a fundamental question in the study of immigrant assimilation. In this paper, we examine the progress that Hispanic immigrant men make catching up with the earnings of later-generation Whites across generations. We rely on data from multiple years of the Current Population Survey linked with individuals' tax earnings. This unique dataset allows us to overcome some important limitations of previous studies that employ a synthetic generation approach in which individuals born approximately one generation earlier are used as proxies for actual parents. Our matching strategy also enables us to identify the exact third generation and evaluate the contribution of ethnic attrition to estimates of intergenerational mobility. Second-generation Hispanic men are found to experience lower mobility than later-generation Whites for most values of parental earnings. However, their lower mobility can be explained by their immigrant parents' lower education levels. In contrast, third-generation Hispanic men experience lower mobility even after accounting for parental education and ethnic attrition. This finding is consistent with a stalling or reversal in the socioeconomic progress of Hispanics beyond the second generation.",
+  "authors": [
+    {
+      "raw": "Villarreal, Andres",
+      "family": "Villarreal",
+      "given": "Andres"
+    },
+    {
+      "raw": "Tamborini, Christopher R.",
+      "family": "Tamborini",
+      "given": "Christopher R."
+    }
+  ],
+  "authors_text": "Villarreal, Andres; Tamborini, Christopher R.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soad128",
+  "doi_url": "https://doi.org/10.1093/sf/soad128",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad128",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad128.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Machine Translation: Mining Text for Social Theory",
+  "abstract": "More of the social world lives within electronic text than ever before, from collective activity on the web, social media, and instant messaging to online transactions, government intelligence, and digitized libraries. This supply of text has elicited demand for natural language processing and machine learning tools to filter, search, and translate text into valuable data. We survey some of the most exciting computational approaches to text analysis, highlighting both supervised methods that extend old theories to new data and unsupervised techniques that discover hidden regularities worth theorizing. Wethen review recent research that uses these tools to develop social insight by exploring (a) collective attention and reasoning through the content of communication; (b) social relationships through the process of communication; and (c) social states, roles, and moves identified through heterogeneous signals within communication. Wehighlight social questions for which these advances could offer powerful new insight.",
+  "authors": [
+    {
+      "raw": "Evans, James A.",
+      "family": "Evans",
+      "given": "James A."
+    },
+    {
+      "raw": "Aceves, Pedro",
+      "family": "Aceves",
+      "given": "Pedro"
+    }
+  ],
+  "authors_text": "Evans, James A.; Aceves, Pedro",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2016,
+  "doi": "10.1146/annurev-soc-081715-074206",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-081715-074206",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-081715-074206",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-081715-074206.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

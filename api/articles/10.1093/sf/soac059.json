@@ -1,0 +1,45 @@
+{
+  "title": "Paws on the Street: Neighborhood-Level Concentration of Households with Dogs and Urban Crime",
+  "abstract": "The formative work of Jane Jacobs underscores the combination of eyes on the street and trust between residents in deterring crime. Nevertheless, little research has assessed the effects of residential street monitoring on crime due partly to a lack of data measuring this process. We argue that neighborhood-level rates of households with dogs captures part of the residential street monitoring process core to Jacobs' hypotheses and test whether this measure is inversely associated with property and violent crime rates. Data from a large-scale marketing survey of Columbus, OH, USA residents (2013; n = 43,078) are used to measure census block group-level (n = 595) rates of households with dogs. Data from the Adolescent Health and Development in Context study are used to measure neighborhood-level rates of trust. Consistent with Jacobs' hypotheses, results indicate that neighborhood concentration of households with dogs is inversely associated with robbery, homicide, and, to a less consistent degree, aggravated assault rates within neighborhoods high in trust. In contrast, results for property crime suggest that the inverse association of dog concentration is independent of levels of neighborhood trust. These associations are observed net of controls for neighborhood sociodemographic characteristics, temporally lagged crime, and spatial lags of trust and dog concentration. This study offers suggestive evidence of crime deterrent benefits of local street monitoring and dog presence and calls attention to the contribution of pets to other facets of neighborhood social organization.",
+  "authors": [
+    {
+      "raw": "Pinchak, Nicolo P.",
+      "family": "Pinchak",
+      "given": "Nicolo P."
+    },
+    {
+      "raw": "Browning, Christopher R.",
+      "family": "Browning",
+      "given": "Christopher R."
+    },
+    {
+      "raw": "Boettner, Bethany",
+      "family": "Boettner",
+      "given": "Bethany"
+    },
+    {
+      "raw": "Calder, Catherine A.",
+      "family": "Calder",
+      "given": "Catherine A."
+    },
+    {
+      "raw": "Tarrence, Jake",
+      "family": "Tarrence",
+      "given": "Jake"
+    }
+  ],
+  "authors_text": "Pinchak, Nicolo P.; Browning, Christopher R.; Boettner, Bethany; Calder, Catherine A.; Tarrence, Jake",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac059",
+  "doi_url": "https://doi.org/10.1093/sf/soac059",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac059",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac059.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

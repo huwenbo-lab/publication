@@ -1,0 +1,35 @@
+{
+  "title": "Socioeconomic inequalities in access to online learning and its association with early childhood development during the COVID-19 pandemic in Yunnan Province, China",
+  "abstract": "While online learning was widely adopted by schools during the COVID-19 pandemic globally, little is known about its effects on preschool children's development in China. Using a unique dataset collected in Yunnan Province, China in 2020, with a sample of 11,990 children aged 3-5 years from 285 kindergartens, we provide the first comprehensive assessment of socioeconomic inequalities in access to online learning and its association with early childhood development (ECD). The study demonstrates significant inequalities in access to online learning. Particularly, preschoolers with rural household residential registration (Hukou), lower maternal schooling, and lower family income are less likely to have access to online learning than their counterparts. Regression results based on the Generalized Linear Model (GLM) and the Instrumental Variable (IV) method show that access to online learning is positively associated with a child's ECD score. The empirical evidence of the unequal access to online learning and its possible consequence in ECD during the pandemic has policy implications that the ever-widening developmental gap for those lacking access to online learning needs to be addressed accordingly when the pandemic is over.",
+  "authors": [
+    {
+      "raw": "Xu, Rongrong",
+      "family": "Xu",
+      "given": "Rongrong"
+    },
+    {
+      "raw": "Song, Yingquan",
+      "family": "Song",
+      "given": "Yingquan"
+    },
+    {
+      "raw": "Lu, Chunling",
+      "family": "Lu",
+      "given": "Chunling"
+    }
+  ],
+  "authors_text": "Xu, Rongrong; Song, Yingquan; Lu, Chunling",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1080/21620555.2024.2349060",
+  "doi_url": "https://doi.org/10.1080/21620555.2024.2349060",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2024.2349060",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2024.2349060.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

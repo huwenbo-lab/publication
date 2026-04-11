@@ -1,0 +1,30 @@
+{
+  "title": "Are All Politics National? County-Level Social Contexts and Inequality Remediation Attitudes, 2006 to 2012",
+  "abstract": "Despite growing economic inequality in recent decades, public support for government intervention to address it has been stable. A substantial literature has documented the individual-level demographic, social, and political characteristics that are associated with the extent to which individuals favor government intervention to reduce inequality. However, less work has examined how the local social environments that individuals are embedded in shape attitudes regarding inequality remediation. Using data from the General Social Survey (2006–2012) and other data sources, the authors examine whether local economic and social characteristics are associated with individuals’ support for government intervention to address income inequality in the United States during the Great Recession. Specifically, the authors link restricted General Social Survey data with place-level identifiers to county-level data on local income inequality, racial segregation, and partisan leanings. Broadly, the authors find that although individual-level conditions and year fixed effects are strongly correlated with perceptions about inequality remediation, most local-level characteristics were not strongly nor significantly associated with individual attitudes regarding government intervention to address inequality. These findings suggest that individuals formulate policy stances regarding inequality on the basis of national messaging rather than on observations within their own communities.",
+  "authors": [
+    {
+      "raw": "Lindner, Andrew M.",
+      "family": "Lindner",
+      "given": "Andrew M."
+    },
+    {
+      "raw": "Houle, Jason N.",
+      "family": "Houle",
+      "given": "Jason N."
+    }
+  ],
+  "authors_text": "Lindner, Andrew M.; Houle, Jason N.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211009990",
+  "doi_url": "https://doi.org/10.1177/23780231211009990",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211009990",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211009990.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

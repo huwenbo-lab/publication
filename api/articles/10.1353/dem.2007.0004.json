@@ -1,0 +1,30 @@
+{
+  "title": "Gender differences in the link between childhood socioeconomic conditions and heart attack risk in adulthood",
+  "abstract": "Abstract A growing body of evidence shows that childhood socioeconomic status (SES) is predictive of disease risk in later life, with those from the most disadvantaged backgrounds more likely to experience poor adult-health outcomes. Most of these studies, however, are based on middle-aged male populations and pay insufficient attention to the pathways between childhood risks and specific adult disorders. This article examines gender differences in the link between childhood SES and heart attack risk trajectories and the mechanisms by which early environments affect future disease risk. By using methods that model both latent and path-specific influences, we identify heterogeneity in early life conditions and human, social, and health capital in adulthood that contribute to diverse heart attack risk trajectories between and among men and women as they age into their 60s and 70s. We find that key risk factors for heart attack operate differently for men and women. For men, childhood SES does not differentiate those at low, increasing, and high risk for heart attack. In contrast, women who grew up without a father and/or under adverse economic conditions are the most likely to experience elevated risk for heart attack, even after we adjust for the unequal distribution of working and living conditions, social relationships, access to health care, and adult lifestyle behaviors that influence health outcomes.",
+  "authors": [
+    {
+      "raw": "Hamil-Luker, Jenifer",
+      "family": "Hamil-Luker",
+      "given": "Jenifer"
+    },
+    {
+      "raw": "O’Rand, Angela M.",
+      "family": "O’Rand",
+      "given": "Angela M."
+    }
+  ],
+  "authors_text": "Hamil-Luker, Jenifer; O’Rand, Angela M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0004",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

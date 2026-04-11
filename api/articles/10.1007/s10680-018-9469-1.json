@@ -1,0 +1,30 @@
+{
+  "title": "Parity and Mortality: An Examination of Different Explanatory Mechanisms Using Data on Biological and Adoptive Parents",
+  "abstract": "A growing literature has demonstrated a relationship between parity and mortality, but the explanation for that relationship remains unclear. This study aims to pick apart physiological and social explanations for the parity-mortality relationship by examining the mortality of parents who adopt children, but who have no biological children, in comparison with the mortality of parents with biological children. Using Swedish register data, we study post-reproductive mortality amongst women and men from cohorts born between 1915 and 1960, over ages 45-97. Our results show the relative risks of mortality for adoptive parents are always lower than those of parents with biological children. Mortality amongst adoptive parents is lower for those who adopt more than one child, while for parents with biological children we observe a U-shaped relationship, where parity-two parents have the lowest mortality. Our discussion considers the relative importance of physiological and social depletion effects, and selection processes.",
+  "authors": [
+    {
+      "raw": "Barclay, Kieron",
+      "family": "Barclay",
+      "given": "Kieron"
+    },
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Barclay, Kieron; Kolk, Martin",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9469-1",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9469-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9469-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9469-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

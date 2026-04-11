@@ -1,0 +1,25 @@
+{
+  "title": "Economic insecurity and the distribution of income volatility in the United States",
+  "abstract": "We examine inequalities in the distribution of income volatility in two ways using data from the Panel Study of Income Dynamics (PSID) in order to improve our understanding of economic insecurity. First, we use a variance function regression to jointly quantify the relationship between changes in average levels of volatility as they relate to changes in the distribution of volatility. The results indicate that inequalities in the distribution of volatility rise much faster than the overall level of volatility. Therefore, what are often perceived to be rising levels of volatility for everyone are better understood as rising levels of volatility for households at the top of the volatility distribution. Second, we use a linear probability model to better understand changes in who experiences high income volatility over time. Rising inequalities in the distribution of volatility turn out to be the result of a rising probability of experiencing high volatility among households that would not typically be classified as economically insecure.",
+  "authors": [
+    {
+      "raw": "Latner, Jonathan P.",
+      "family": "Latner",
+      "given": "Jonathan P."
+    }
+  ],
+  "authors_text": "Latner, Jonathan P.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.09.005",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.09.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.09.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.09.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Contextualizing the Global Burden of COVID-19 Pandemic: A Historical and Geographical Exploration of Excess Mortality in France, 1901-2021",
+  "abstract": "In light of the unprecedented global impact of COVID-19, comparing its demographic and spatial dimensions with past longevity crises is crucial for identifying core drivers and providing guidance for tailored health policies. This study offers the first analysis of this type, placing the recent pandemic in a historical and geographical context spanning the past 120 years and comparing its impact in 90 French regions with that of the 1911 and 2003 heatwaves and the Spanish and Hong Kong flu. Using a robust statistical model, we computed a standard excess mortality measure enabling comparison across both space and time and with the estimated effects of COVID-19 in European regions. Our results reveal that the COVID-19 burden was, on average, 90 percent lower than the Spanish Flu and 75 percent lower than the 1911 heatwave, but four times higher than the 2003 heatwave. We also reveal that the heterogeneity of the COVID-19 burden across French regions is high compared to the Spanish and the Hong Kong flu but in line with the 2003 heatwave. COVID-19's substantial spatial heterogeneity and clear spatial clusters could be the result of stringent containment measures that prevented the pandemic from spreading across the French territory, contrary to past pandemics.",
+  "authors": [
+    {
+      "raw": "Bonnet, Florian",
+      "family": "Bonnet",
+      "given": "Florian"
+    },
+    {
+      "raw": "Camarda, Carlo-Giovanni",
+      "family": "Camarda",
+      "given": "Carlo-Giovanni"
+    }
+  ],
+  "authors_text": "Bonnet, Florian; Camarda, Carlo-Giovanni",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70007",
+  "doi_url": "https://doi.org/10.1111/padr.70007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

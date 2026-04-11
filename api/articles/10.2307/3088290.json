@@ -1,0 +1,30 @@
+{
+  "title": "Reconsidering Mortality Compression and Deceleration: An Alternative Model of Mortality Rates",
+  "abstract": "In this research we develop a model of mortality rates that parameterizes mortality deceleration and compression, permits hypothesis tests for change in these parameters over time, and allows for formal gender comparisons. Our model fits mortality data well across all adult ages 20–105 for 1968–1992 U.S. white data, and the results offer some confirmation of findings of mortality research using conventional methods. We find that the age at which mortality deceleration begins is increasing over time, that decompression of mortality is occurring, and that these trends vary substantially across genders, although male and female mortality patterns appear to be converging to some extent.",
+  "authors": [
+    {
+      "raw": "Lynch, Scott M.",
+      "family": "Lynch",
+      "given": "Scott M."
+    },
+    {
+      "raw": "Brown, J. Scott",
+      "family": "Brown",
+      "given": "J. Scott"
+    }
+  ],
+  "authors_text": "Lynch, Scott M.; Brown, J. Scott",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2001,
+  "doi": "10.2307/3088290",
+  "doi_url": "https://doi.org/10.2307/3088290",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088290",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088290.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

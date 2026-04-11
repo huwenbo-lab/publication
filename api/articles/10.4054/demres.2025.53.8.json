@@ -1,0 +1,25 @@
+{
+  "title": "Education, religion, and male fertility in sub-Saharan Africa: A descriptive analysis",
+  "abstract": "BACKGROUND Male fertility remains under-studied in sub-Saharan Africa, particularly in terms of how education, religion, and relationship status influence fertility patterns. While female fertility is well documented, male fertility trends are less understood. OBJECTIVE This study investigates how education, religious affiliation, and relationship status shape changes in the mean number of children for men across birth cohorts in sub-Saharan Africa. METHODS The study uses a Poisson regression to find the relationship between various parameters of interest and the mean number of children ever born for males using Demographic and Health Surveys (DHS) data for 36 sub-Saharan African countries. RESULTS The mean number of children changed significantly across cohorts, with men in polygamous relationships having more children than others. However, education and religion have varying effects on male fertility across countries, with relationship status playing a much stronger role. CONCLUSION Relationship status and birth cohort play a more significant role in determining the number of children men have than the interaction between education and religion. CONTRIBUTION This study expands on male fertility research by highlighting the interplay of education, religion, and relationship status on a country-specific level, emphasising the need for targeted policies.",
+  "authors": [
+    {
+      "raw": "Durowaa-Boateng, Afua",
+      "family": "Durowaa-Boateng",
+      "given": "Afua"
+    }
+  ],
+  "authors_text": "Durowaa-Boateng, Afua",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.8",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

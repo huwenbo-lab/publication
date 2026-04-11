@@ -1,0 +1,30 @@
+{
+  "title": "Preference for Boys, Family Size, and Educational Attainment in India",
+  "abstract": "Using data from nationally representative household surveys, we test whether Indian parents make trade-offs between the number of children and investments in education. To address the endogeneity due to the joint determination of quantity and quality of children, we instrument family size with the gender of the first child, which is plausibly random. Given a strong son preference in India, parents tend to have more children if the firstborn is a girl. Our instrumental variable results show that children from larger families have lower educational attainment and are less likely to be enrolled in school, with larger effects for rural, poorer, and low-caste families as well as for families with illiterate mothers.",
+  "authors": [
+    {
+      "raw": "Kugler, Adriana D.",
+      "family": "Kugler",
+      "given": "Adriana D."
+    },
+    {
+      "raw": "Kumar, Santosh",
+      "family": "Kumar",
+      "given": "Santosh"
+    }
+  ],
+  "authors_text": "Kugler, Adriana D.; Kumar, Santosh",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0575-1",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0575-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0575-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0575-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Fertility responses to individual and contextual unemployment: Differences by socioeconomic background",
+  "abstract": "BACKGROUND Although research on the consequences of economic recession has long linked unemployment with childbearing, it rarely distinguishes the effects of individuals' own unemployment and their surroundings' unemployment levels on their likelihood of having children. Even fewer studies compare how these effects vary for different groups of individuals. OBJECTIVE In this study we specifically ask whether fertility timings in the United States are more sensitive to the unemployment rates of individuals' immediate surroundings or to their own unemployment. Moreover, we investigate whether young adults with different educational levels and parental resources may adjust their childbearing timing differently in response to their own employment status and local unemployment rates. METHODS Using 17 rounds of data from the National Longitudinal Survey of Youth 1997, we fit discrete-time event history models predicting men's and women's pace of childbearing. RESULTS The analysis indicates that relatively disadvantaged young adults, such as those with low education or parents with low education, tend to delay childbirth in response to high local unemployment rates but are less likely than the more advantaged to defer childbearing when facing their own unemployment. CONCLUSIONS We argue that the disadvantaged are relatively sensitive to the local unemployment rate but relatively insensitive to their own unemployment compared to those with fewer disadvantages, because the former suffer more from unemployment in times of economic turmoil, while having lower prospects of economic improvement once having become unemployed. CONTRIBUTION Results from this study elucidate how rising unemployment rates shape fertility patterns and indicate the need to consider the effect of parental socioeconomic status on men's childbearing transitions. Furthermore, our findings help reconcile the debate on how well disadvantaged women's childbearing timing corresponds to their varying economic conditions.",
+  "authors": [
+    {
+      "raw": "Yu, Wei-hsin",
+      "family": "Yu",
+      "given": "Wei-hsin"
+    },
+    {
+      "raw": "Sun, Shengwei",
+      "family": "Sun",
+      "given": "Shengwei"
+    }
+  ],
+  "authors_text": "Yu, Wei-hsin; Sun, Shengwei",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.35",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.35",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.35",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.35.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

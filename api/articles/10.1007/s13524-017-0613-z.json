@@ -1,0 +1,30 @@
+{
+  "title": "Children of Migrants: The Cumulative Impact of Parental Migration on Children's Education and Health Outcomes in China",
+  "abstract": "Since the end of 1990s, approximately 160 million Chinese rural workers migrated to cities for work. Because of restrictions on migrant access to local health and education systems, many rural children are left behind in home villages to grow up without parental care. This article examines how exposure to cumulative parental migration affects children's health and education outcomes. Using the Rural-Urban Migration Survey in China (RUMiC) data, we measure the share of children's lifetime during which parents were away from home. We instrument this measure of parental absence with weather changes in their home villages when parents were aged 16-25, when they were most likely to initiate migration. Results show a sizable adverse effect of exposure to parental migration on the health and education outcomes of children: in particular, boys. We also find that the use of the contemporaneous measure for parental migration in previous studies is likely to underestimate the effect of exposure to parental migration on children's outcomes.",
+  "authors": [
+    {
+      "raw": "Meng, Xin",
+      "family": "Meng",
+      "given": "Xin"
+    },
+    {
+      "raw": "Yamauchi, Chikako",
+      "family": "Yamauchi",
+      "given": "Chikako"
+    }
+  ],
+  "authors_text": "Meng, Xin; Yamauchi, Chikako",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0613-z",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0613-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0613-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0613-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Emerging health disparities among college graduates: Understanding the health consequences of education-occupation mismatch",
+  "abstract": "This study examines the health consequences and underlying pathways of education-occupation mismatch. Using a longitudinal sample of college graduates from the Panel Studies of Income Dynamics (1984-2019) and employing longitudinal hybrid models, we found that contemporary vertical mismatch (between education level and educational requirements of occupation) was associated with poorer psychological well-being and bio-behaviors (obesity and smoking), but not physical health. In contrast, horizontal mismatch (between field of study and field required for occupation) did not show clear health consequences. Sequence analysis was employed to uncover the mismatch trajectories and revealed that persistent vertical mismatch over one's career had a greater impact on psychological distress and smoking than episodic mismatch experiences. Furthermore, the linkage between vertical mismatch and health outcomes was likely shaped by psychosocial processes rather than reduced material well-being. These findings imply that education-occupation vertical (mis)match produces health disparities between occupationally matched and mismatched college graduates.",
+  "authors": [
+    {
+      "raw": "Zheng, Hui",
+      "family": "Zheng",
+      "given": "Hui"
+    },
+    {
+      "raw": "Lu, Yao",
+      "family": "Lu",
+      "given": "Yao"
+    },
+    {
+      "raw": "Yao, Man",
+      "family": "Yao",
+      "given": "Man"
+    }
+  ],
+  "authors_text": "Zheng, Hui; Lu, Yao; Yao, Man",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103015",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Periods of high uncertainty: How fertility intentions in Russia changed during 2022-2023",
+  "abstract": "BACKGROUND We study the change in fertility intentions in Russia during the period of socioeconomic shocks in 2022-2023 resulting from the Russia-Ukraine armed conflict. OBJECTIVE Our objective is to identify factors that influence decision-making in a low fertility context during a crisis, including both objective characteristics and subjective assessment of the current situation. METHODS This paper is based on unique survey results, conducted in May 2023 (N = 7,967). The sample includes Russian citizens aged 18-44 and represents Russia's population by gender, age, and place of residence. The analysis is based on binary choice models (probit) and machine learning techniques (honest trees), which were applied to assess the heterogeneity of the sample. RESULTS The most important factors, which accounted for 76% of the explained variance, were linked to a subjective assessment of the situation and the respondent's emotional state: the attitude to the political direction of the country, and feelings of happiness, anxiety, or fear. Traditional objective characteristics such as respondents' age, marital status, and parenthood status play a less important role. We also found that women's fertility decisions are more associated with positive emotions such as happiness and peacefulness in comparison to men. We observed that subjective factors related to politics, conflict, and emotions amplify each other's effects. CONCLUSIONS In times of uncertainty, trust in state policy plays an important role in smoothing the population's reaction to shocks. CONTRIBUTION We provide a novel quantitative investigation into the role of subjective perceptions in shaping reproductive intentions during a period of high uncertainty in a low-fertility-rate country through econometric and ML tools, expand the group of factors which measure subjective perceptions including different emotions, attitudes to the country's political course, and government maternity capital programs, and show how they accelerate each other.",
+  "authors": [
+    {
+      "raw": "Vakulenko, Elena",
+      "family": "Vakulenko",
+      "given": "Elena"
+    },
+    {
+      "raw": "Gorskiy, Dmitriy",
+      "family": "Gorskiy",
+      "given": "Dmitriy"
+    },
+    {
+      "raw": "Kondrateva, Valeria",
+      "family": "Kondrateva",
+      "given": "Valeria"
+    },
+    {
+      "raw": "Trofimenko, Ilya",
+      "family": "Trofimenko",
+      "given": "Ilya"
+    }
+  ],
+  "authors_text": "Vakulenko, Elena; Gorskiy, Dmitriy; Kondrateva, Valeria; Trofimenko, Ilya",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.29",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Summertime, and the livin' is easy: Winter and summer pseudoseasonal life expectancy in the United States",
+  "abstract": "BACKGROUND In temperate climates, mortality is seasonal with a winter-dominant pattern, due in part to specific causes of death, including pneumonia, influenza, and cold-induced thrombosis. Cardiac causes, which are the leading cause of death in the United States, are winter-seasonal, although the pathways are incompletely understood. Interactions between circulating respiratory viruses (e.g., influenza) and cardiac conditions have been suggested as a cause of winter-dominant mortality patterns. OBJECTIVE In this paper we aim to quantify the total mortality burden of winter in the United States. METHODS We calculate 'pseudoseasonal' life expectancy, dividing the year into two six-month spans, one encompassing winter, the other summer. RESULTS During the summer when cold weather is absent and the circulation of respiratory viruses is significantly reduced, life expectancy is about one year longer. We also quantify the seasonal mortality difference in terms of seasonal 'equivalent ages' (defined herein) and proportional hazards. CONTRIBUTION We quantify the effects of winter mortality. The population-level mortality reduction of a perfect influenza vaccine (which can only reduce a portion of winter-attributable mortality) would be much more modest than is often recognized.",
+  "authors": [
+    {
+      "raw": "Ho, Tina",
+      "family": "Ho",
+      "given": "Tina"
+    },
+    {
+      "raw": "Noymer, Andrew",
+      "family": "Noymer",
+      "given": "Andrew"
+    }
+  ],
+  "authors_text": "Ho, Tina; Noymer, Andrew",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.45",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.45",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.45",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.45.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

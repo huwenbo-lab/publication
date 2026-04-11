@@ -1,0 +1,40 @@
+{
+  "title": "Multigenerational socioeconomic attainments and mortality among older men: An adjacent generations approach",
+  "abstract": "BACKGROUND Recent work in stratification and demography argues for the importance of multiple familial generations in status attainment and other transmission processes. Health disparities research in this area generally assumes that the rewards of attainment are paid forward across generations, meaning grandparent and parent achievements give children a health advantage. However, an emerging literature suggests that mortality risk in old age may be more closely related to the attainments of parents and adult children. OBJECTIVE We develop a new approach to understanding family attainments and mortality in later life and test the multigenerational structure of health disparities suggested by the long arm, personal attainment, and social foreground perspectives. METHODS The analysis uses nearly complete mortality data from the National Longitudinal Survey of Older Men, a representative sample of US men aged 45 to 59 in 1966. RESULTS We find that older men with parents who farmed had a median age of death that was 1.3 years higher than those who had parents with manual occupations, and men with adult children who had 16 or more years of schooling had a median age of death almost 2 years higher than those with children with 12 or fewer years of schooling. CONCLUSIONS We find evidence of a three-generation model in which parent occupation, personal wealth, and adult child attainments are independently associated with older men's mortality. CONTRIBUTION These findings highlight the relevance of adjacent generations for health and mortality in later life and the importance of historical context for accurately measuring socioeconomic attainments in different generations and cohorts.",
+  "authors": [
+    {
+      "raw": "Wolfe, Joseph",
+      "family": "Wolfe",
+      "given": "Joseph"
+    },
+    {
+      "raw": "Bauldry, Shawn",
+      "family": "Bauldry",
+      "given": "Shawn"
+    },
+    {
+      "raw": "Hardy, Melissa",
+      "family": "Hardy",
+      "given": "Melissa"
+    },
+    {
+      "raw": "Pavalko, Eliza K.",
+      "family": "Pavalko",
+      "given": "Eliza K."
+    }
+  ],
+  "authors_text": "Wolfe, Joseph; Bauldry, Shawn; Hardy, Melissa; Pavalko, Eliza K.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.26",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

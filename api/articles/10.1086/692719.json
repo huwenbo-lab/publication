@@ -1,0 +1,45 @@
+{
+  "title": "Illuminating a Dark Side of the American Dream: Assessing the Prevalence and Predictors of Mortgage Fraud across US Counties",
+  "abstract": "Using novel county-level data, the authors document that nearly 25% of residential mortgage loans originated between 2003 and 2005 in America contained one or more indications of mortgage fraud but also that rates were highly variable across counties. Multivariate regression models reveal that rates of mortgage fraud were higher in areas with greater loan volumes, a larger share of loans originated by independent mortgage companies, elevated rates of preexisting property crime, and higher levels of black-white racial segregation; it was less prevalent where government-sponsored enterprises purchased a larger share of the loans sold in secondary mortgage markets. The findings are most consistent with classic and contemporary anomie theories and perspectives that highlight the geographic targeting of selected housing markets with loan products and tactics that provided fertile ground for mortgage fraud. The authors discuss the implications of these patterns for developing a more comprehensive understanding of contemporary spatial inequalities.",
+  "authors": [
+    {
+      "raw": "Baumer, Eric P.",
+      "family": "Baumer",
+      "given": "Eric P."
+    },
+    {
+      "raw": "Ranson, J. W. Andrew",
+      "family": "Ranson",
+      "given": "J. W. Andrew"
+    },
+    {
+      "raw": "Arnio, Ashley N.",
+      "family": "Arnio",
+      "given": "Ashley N."
+    },
+    {
+      "raw": "Fulmer, Ann",
+      "family": "Fulmer",
+      "given": "Ann"
+    },
+    {
+      "raw": "De Zilwa, Shane",
+      "family": "De Zilwa",
+      "given": "Shane"
+    }
+  ],
+  "authors_text": "Baumer, Eric P.; Ranson, J. W. Andrew; Arnio, Ashley N.; Fulmer, Ann; De Zilwa, Shane",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2017,
+  "doi": "10.1086/692719",
+  "doi_url": "https://doi.org/10.1086/692719",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F692719",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/692719.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

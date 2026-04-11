@@ -1,0 +1,35 @@
+{
+  "title": "The Weight of the Genetic and Environmental Dimensions in the Inter-Generational Transmission of Educational Success",
+  "abstract": "The standard sociological approach to the study of social stratification and mobility fails to take due account of the role played by the genetic confounders which, as emerges from other fields of research, condition the processes by which inequalities are transmitted and structured. For over a century, behavioural genetics has shown that a significant proportion of cognitive abilities and personality characteristics that play important roles in the status attainment process are traits largely structured on genetic bases. We shall therefore argue that theories and methods deriving from behavioural genetics can enhance our understanding of the processes by which inequalities are shaped and transmitted, and that more sophisticated models should be developed to measure social gradients controlling for distal non-observable causal antecedents, like genes and every environmental characteristic that we are not able to observe. In this article, using Italian family data taken from the sample survey Multiscopo Istat ‘Aspetti della Vita Quotidiana’, we decompose the variance of educational attainment into a genetic and an environmental component. We obtain a heritability estimate of 0.50 for females and 0.52 for males, meaning that about 50 per cent of the differences observed in educational attainment are statistically ‘explained’ by differences in genotypes. This result induces us to state that the traditional sociological theories used to explain individual differences in educational achievement may not be the best ones, and that it is crucial to consider both genetic and environmental influences when studying social behaviours.",
+  "authors": [
+    {
+      "raw": "Lucchini, M.",
+      "family": "Lucchini",
+      "given": "M."
+    },
+    {
+      "raw": "Della Bella, S.",
+      "family": "Della Bella",
+      "given": "S."
+    },
+    {
+      "raw": "Pisati, M.",
+      "family": "Pisati",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Lucchini, M.; Della Bella, S.; Pisati, M.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1093/esr/jcr067",
+  "doi_url": "https://doi.org/10.1093/esr/jcr067",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcr067",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcr067.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The increasing mortality advantage of the married",
+  "abstract": "BACKGROUND In several European countries the excess mortality of nonmarried people relative to the married has increased. In this study we describe in detail the increasing mortality advantage of the married in Norway and investigate the extent to which changes in educational composition of marital-status groups can account for this increasing mortality gap. METHODS Using register data for the entire population of Norway, we estimated discrete-time hazard models for mortality at age 50-89 in years 1975-2008. We also estimated one-year death probabilities by age, period, marital status, education, and spouse's education. These were used to calculate period-specific age-standardized death probabilities for marital-status categories and hypothetical versions of these, assuming constant death probabilities in each educational group in each marital-status category or constant educational distributions. Hypothetical and observed versions were then compared. RESULTS The mortality of nonmarried people relative to married people increased sharply over the years 1975-2008. During the first part of this period, mortality was constant or even increasing among the never-married, who at the end of the period could be considered as lagging 30 years behind the married. Educational patterns have changed markedly, but this explains only up to 5% of the increasing mortality disadvantage of the never-married. Educational changes have contributed more to the growing disadvantage of the widowed, while the picture is more mixed for the divorced. CONTRIBUTION We demonstrate that there has been a large widening in the marital-status differences in mortality in Norway since the 1970s and that little of this difference can be attributed to changes in educational distributions.",
+  "authors": [
+    {
+      "raw": "Kravdal, Oystein",
+      "family": "Kravdal",
+      "given": "Oystein"
+    },
+    {
+      "raw": "Grundy, Emily",
+      "family": "Grundy",
+      "given": "Emily"
+    },
+    {
+      "raw": "Keenan, Katherine",
+      "family": "Keenan",
+      "given": "Katherine"
+    }
+  ],
+  "authors_text": "Kravdal, Oystein; Grundy, Emily; Keenan, Katherine",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.20",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

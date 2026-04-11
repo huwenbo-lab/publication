@@ -1,0 +1,25 @@
+{
+  "title": "Education as a Factor in Intergenerational Mobility in Soviet Society",
+  "abstract": "By ideological design, class inheritance was to have been eliminated in the USSR. We hypothesize that education had a potent effect on destination rank in Soviet society in its final years. We examine the effects of occupation and education of respondents' parents and of having parents in the nomenclatura using data on 5079 young adults in Estonia, Latvia, Belarus, Russia's Sverdlovsk region, and Ukraine's Kharkiv region. We code occupations using a slight modification of Erikson and Goldthorpe's (1992) scheme. We estimate conditional multinomial logistic regression models to assess the net impacts of parental background and of own education and gender on destination in 1991, shortly before the USSR collapsed. We find relatively high intergenerational mobility in Belarus, Russia, and Ukraine's industrial centres, and to a lesser extent in Estonia and Latvia. Destination is affected very strongly by education and somewhat less strongly by gender. Net of own education and gender, parental background had surprisingly weak effects. Father's education and direct inheritance had modest effects, with inheritance generally greatest in Estonia and Latvia. Parents in the nomenclatura had insignificant effects. Soviet society in its final years was quite open, though arguably not meritocratic, with limited social reproduction, occurring primarily in Estonia and Latvia.",
+  "authors": [
+    {
+      "raw": "Titma, M.",
+      "family": "Titma",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Titma, M.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2003,
+  "doi": "10.1093/esr/19.3.281",
+  "doi_url": "https://doi.org/10.1093/esr/19.3.281",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2F19.3.281",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/19.3.281.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

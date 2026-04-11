@@ -1,0 +1,30 @@
+{
+  "title": "Oldest Old Mortality in China",
+  "abstract": "We find that the Kannisto model, a two-parameter logistic formula, fits Han Chinese death rates at oldest-old ages better than the Gompertz and four other models. Chinese death rates appear to be roughly similar to Swedish and Japanese rates after age",
+  "authors": [
+    {
+      "raw": "Zeng, Yi",
+      "family": "Zeng",
+      "given": "Yi"
+    },
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    }
+  ],
+  "authors_text": "Zeng, Yi; Vaupel, James W.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2003,
+  "doi": "10.4054/demres.2003.8.7",
+  "doi_url": "https://doi.org/10.4054/demres.2003.8.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2003.8.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2003.8.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

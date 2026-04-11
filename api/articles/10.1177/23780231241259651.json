@@ -1,0 +1,25 @@
+{
+  "title": "Start Generating: Harnessing Generative Artificial Intelligence for Sociological Research",
+  "abstract": "How can generative artificial intelligence (GAI) be used for sociological research? The author explores applications to the study of text and images across multiple domains, including computational, qualitative, and experimental research. Drawing upon recent research and stylized experiments with DALL·E and GPT-4, the author illustrates the potential applications of text-to-text, image-to-text, and text-to-image models for sociological research. Across these areas, GAI can make advanced computational methods more efficient, flexible, and accessible. The author also emphasizes several challenges raised by these technologies, including interpretability, transparency, reliability, reproducibility, ethics, and privacy, as well as the implications of bias and bias mitigation efforts and the trade-offs between proprietary models and open-source alternatives. When used with care, these technologies can help advance many different areas of sociological methodology, complementing and enhancing our existing toolkits.",
+  "authors": [
+    {
+      "raw": "Davidson, Thomas",
+      "family": "Davidson",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Davidson, Thomas",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241259651",
+  "doi_url": "https://doi.org/10.1177/23780231241259651",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241259651",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241259651.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

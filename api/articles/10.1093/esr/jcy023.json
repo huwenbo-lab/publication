@@ -1,0 +1,30 @@
+{
+  "title": "The Effect of Retirement on Male Mortality. Quasi-experimental Evidence from Norway",
+  "abstract": "On average, people who retire earlier die sooner, partly because poor health is an important reason for early retirement. Several theories also predict that retirement is detrimental to health and increases mortality, and that retirement should affect people in different occupations differently. Yet, there is apparently no consensus about the causal relationship between retirement and mortality. We treat a Norwegian pension reform that lowered retirement eligibility age by 3 years in 1973 as a natural experiment. The reform affected virtually the entire elderly working population. We estimate the long-term effect of retirement age and the short-term effect of retirement eligibility using instrumental variables and difference-in-differences methods. The results show that neither earlier retirement nor retirement eligibility affect male mortality substantially. Analyses by educational level and occupational groups show no occupational or educational differences in the effect of retirement on mortality. We also argue that the 1973 reform serves as a critical case, a situation where we should be able to identify an effect if there were one. In other words, this study provides strong evidence that retirement does not have a causal effect on male mortality.",
+  "authors": [
+    {
+      "raw": "Rogne, Adrian Farner",
+      "family": "Rogne",
+      "given": "Adrian Farner"
+    },
+    {
+      "raw": "Syse, Astri",
+      "family": "Syse",
+      "given": "Astri"
+    }
+  ],
+  "authors_text": "Rogne, Adrian Farner; Syse, Astri",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy023",
+  "doi_url": "https://doi.org/10.1093/esr/jcy023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

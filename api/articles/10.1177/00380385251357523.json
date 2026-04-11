@@ -1,0 +1,30 @@
+{
+  "title": "The Promises and Perils of AI for Sociology",
+  "abstract": "This article argues that in an age of artificial intelligence (AI), sociologists have not adequately thought about the challenges posed to their work and pedagogy. Drawing on examples from Hong Kong, we foreground the challenges that AI poses to sociological education, student success and working conditions, amid the marketization of higher education and broad shifts in funding toward STEM disciplines. We then suggest four tactical strategies for sociology to respond and live with AI: (1) incorporating computational training into sociological education; (2) incorporating AI into instrument design for sociological research; (3) incorporating AI into models of inference; and (4) incorporating AI into classroom and campus design. We contend that, in doing so, we may rethink the repertoires of professional sociology with new frontiers for AI applications and modalities of student education.",
+  "authors": [
+    {
+      "raw": "Au, Anson",
+      "family": "Au",
+      "given": "Anson"
+    },
+    {
+      "raw": "Fong, Eric",
+      "family": "Fong",
+      "given": "Eric"
+    }
+  ],
+  "authors_text": "Au, Anson; Fong, Eric",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2025,
+  "doi": "10.1177/00380385251357523",
+  "doi_url": "https://doi.org/10.1177/00380385251357523",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380385251357523",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380385251357523.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

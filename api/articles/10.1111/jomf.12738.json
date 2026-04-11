@@ -1,0 +1,35 @@
+{
+  "title": "Cash-for-Care Use and Union Dissolution in Finland",
+  "abstract": "Objective This study examines how the receipt of the cash-for-care (CFC) benefit affects short- and long-term risks of union dissolution. Background Several theories predict that couples' gendered division of labor decreases their risk of separation, either due to increased partnership satisfaction or because it establishes economic dependency. Family policies such as the Finnish CFC benefit, which is paid if a young child does not attend public daycare, may encourage such a gendered division of labor, at least temporarily. Method Using Finnish register data, this study analyzes the first childbearing unions of 38,093 couples between 1987 and 2009. Discrete-time event history analyses and fixed effects models for nonrepeated events are applied. Results The results suggest a lower separation risk while the benefit is received as compared to couples who do not use it, but no effect in the long-term. Fixed effects models that control for selection into CFC indicate postponement of separation until after take-up. Higher-income mothers show a stronger postponement effect, possibly due to greater income following leave. Conclusion CFC use, which signals a temporary gendered division of labor and losses in mothers' earnings, predicts a lower separation risk during receipt of the benefit, but not beyond. Implications Policies that affect the division of paid and unpaid labor at best only temporarily reduce dissolution risks.",
+  "authors": [
+    {
+      "raw": "Morosow, Kathrin",
+      "family": "Morosow",
+      "given": "Kathrin"
+    },
+    {
+      "raw": "Jalovaara, Marika",
+      "family": "Jalovaara",
+      "given": "Marika"
+    },
+    {
+      "raw": "Harkonen, Juho",
+      "family": "Harkonen",
+      "given": "Juho"
+    }
+  ],
+  "authors_text": "Morosow, Kathrin; Jalovaara, Marika; Harkonen, Juho",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12738",
+  "doi_url": "https://doi.org/10.1111/jomf.12738",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12738",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12738.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

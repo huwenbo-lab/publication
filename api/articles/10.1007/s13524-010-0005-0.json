@@ -1,0 +1,30 @@
+{
+  "title": "Does Multiracial Matter? A Study of Racial Disparities in Self-Rated Health",
+  "abstract": "AbstractHow do self-identified multiracial adults fit into documented patterns of racial health disparities? We assess whether the health status of adults who view themselves as multiracial is distinctive from that of adults who maintain a single-race identity, by using a seven-year (2001–2007) pooled sample of the Behavioral Risk Factor Surveillance System (BRFSS). We explore racial differences in self-rated health between whites and several single and multiracial adults with binary logistic regression analyses and investigate whether placing these groups into a self-reported “best race” category alters patterns of health disparities. We propose four hypotheses that predict how the self-rated health status of specific multiracial groups compares with their respective component single-race counterparts, and we find substantial complexity in that no one explanatory model applies to all multiracial combinations. We also find that placing multiracial groups into a single “best race” category likely obscures the pattern of health disparities for selected groups because some multiracial adults (e.g., American Indians) tend to identify with single-race groups whose health experience they do not share.",
+  "authors": [
+    {
+      "raw": "Bratter, Jenifer L.",
+      "family": "Bratter",
+      "given": "Jenifer L."
+    },
+    {
+      "raw": "Gorman, Bridget K.",
+      "family": "Gorman",
+      "given": "Bridget K."
+    }
+  ],
+  "authors_text": "Bratter, Jenifer L.; Gorman, Bridget K.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-010-0005-0",
+  "doi_url": "https://doi.org/10.1007/s13524-010-0005-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-010-0005-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-010-0005-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

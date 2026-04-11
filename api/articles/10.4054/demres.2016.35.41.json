@@ -1,0 +1,30 @@
+{
+  "title": "Who brings home the bacon? The influence of context on partners' contributions to the household income",
+  "abstract": "BACKGROUND Female-breadwinner families represent a relatively new phenomenon in Europe. Little is known about the determinants of this couple type, which sensibly diverts from the traditional economic superiority of men within the household. OBJECTIVE This paper studies the contextual correlates of partners' contribution to the household income, distinguishing between female-breadwinner, male-breadwinner, and equal-income couples. In particular, it focuses on the role of male unemployment rate and the prevalence of gender-egalitarian attitudes as possible explanations for the emergence of female-breadwinner and equal-income couples across European regions and countries. METHOD Using data from the fifth round ( 2010/2011) of the European Social Survey, integrated with data from the Eurostat database, we model the categorical variable identifying the couple type ( male-breadwinner, female-breadwinner, or equal-income couple) by using a multilevel multinomial logistic regression model where individuals are nested within regions and countries. RESULTS The prevalence of female-breadwinner, male-breadwinner, and equal-income couples varies considerably across European countries as well as within countries. The prevalence of female-breadwinner couples is positively associated with male unemployment, while it is not influenced by the diffusion of gender-egalitarian attitudes. However, the diffusion of gender-egalitarian attitudes matters for explaining the variation in the prevalence of equal-income couples across Europe. CONTRIBUTION We add to the literature on partners' contributions to household income by analysing the spatial distribution and the contextual correlates of female-breadwinner, male-breadwinner, and equal-income couples across European countries and regions.",
+  "authors": [
+    {
+      "raw": "Vitali, Agnese",
+      "family": "Vitali",
+      "given": "Agnese"
+    },
+    {
+      "raw": "Arpino, Bruno",
+      "family": "Arpino",
+      "given": "Bruno"
+    }
+  ],
+  "authors_text": "Vitali, Agnese; Arpino, Bruno",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.41",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

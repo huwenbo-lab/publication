@@ -1,0 +1,40 @@
+{
+  "title": "Steep Increase in Best-Practice Cohort Life Expectancy",
+  "abstract": "We analyze trends in best-practice life expectancy among female cohorts born from 1870 to 1950. Cohorts experience declining rather than constant death rates, and cohort life expectancy usually exceeds period life expectancy. Unobserved mortality rates in non-extinct cohorts are estimated using the Lee-Carter model for mortality in 1960-2008. Best-practice cohort and period life expectancies increased nearly linearly. Across cohorts born from 1870 to 1920 the annual increase in cohort length of life was 0.43 years. Across calendar years from 1870 to 2008, the annual increase was 0.28 years. Cohort life expectancy increased from 53.7 years in the 1870 cohort to 83.8 years in the 1950 cohort. The corresponding cohort/period longevity gap increased from 1.2 to 10.3 years. Among younger cohorts, survival to advanced ages is substantially higher than could have been anticipated by period mortality regimes when these cohorts were young or middle-aged. A large proportion of the additional expected years of life are being lived at ages 65 and older. This substantially changes the balance between the stages of the life cycle.",
+  "authors": [
+    {
+      "raw": "Shkolnikov, Vladimir M.",
+      "family": "Shkolnikov",
+      "given": "Vladimir M."
+    },
+    {
+      "raw": "Jdanov, Dmitri A.",
+      "family": "Jdanov",
+      "given": "Dmitri A."
+    },
+    {
+      "raw": "Andreev, Evgeny M.",
+      "family": "Andreev",
+      "given": "Evgeny M."
+    },
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    }
+  ],
+  "authors_text": "Shkolnikov, Vladimir M.; Jdanov, Dmitri A.; Andreev, Evgeny M.; Vaupel, James W.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2011,
+  "doi": "10.1111/j.1728-4457.2011.00428.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2011.00428.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2011.00428.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2011.00428.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

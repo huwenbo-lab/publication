@@ -1,0 +1,35 @@
+{
+  "title": "Integrating Space With Place in Health Research: A Multilevel Spatial Investigation Using Child Mortality in 1880 Newark, New Jersey",
+  "abstract": "AbstractResearch on neighborhoods and health increasingly acknowledges the need to conceptualize, measure, and model spatial features of social and physical environments. When ignoring underlying spatial dynamics, we run the risk of biased statistical inference and misleading results. In this article, we propose an integrated multilevel spatial approach for Poisson models of discrete responses. In an empirical example of child mortality in 1880 Newark, New Jersey, we compare this multilevel spatial approach with the more typical aspatial multilevel approach. Results indicate that spatially defined egocentric neighborhoods, or distance-based measures, outperform administrative areal units, such as census units. In addition, although results do not vary by specific definitions of egocentric neighborhoods, they are sensitive to geographic scale and modeling strategy. Overall, our findings confirm that adopting a spatial multilevel approach enhances our ability to disentangle the effect of space from that of place, pointing to the need for more careful spatial thinking in population research on neighborhoods and health.",
+  "authors": [
+    {
+      "raw": "Xu, Hongwei",
+      "family": "Xu",
+      "given": "Hongwei"
+    },
+    {
+      "raw": "Logan, John R.",
+      "family": "Logan",
+      "given": "John R."
+    },
+    {
+      "raw": "Short, Susan E.",
+      "family": "Short",
+      "given": "Susan E."
+    }
+  ],
+  "authors_text": "Xu, Hongwei; Logan, John R.; Short, Susan E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0292-y",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0292-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0292-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0292-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

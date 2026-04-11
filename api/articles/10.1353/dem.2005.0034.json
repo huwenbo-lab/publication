@@ -1,0 +1,35 @@
+{
+  "title": "Did fertility go up after the oklahoma city bombing? An analysis of births in metropolitan counties in Oklahoma, 1990–1999",
+  "abstract": "Abstract Political and sociocultural events (e.g., Brown v. Board of Education in 1954 and the German reunification in 1989) and natural disasters (e.g., Hurricane Hugo in 1989) can affect fertility. In our research, we addressed the question of whether the Oklahoma City bombing in April 1995, a man-made disaster, influenced fertility patterns in Oklahoma. We defined three theoretical orientations—replacement theory, community influence theory, and terror management theory—that motivate a general expectation of birth increases, with different predictions emerging from time and geographic considerations. We used two different empirical methodologies. First, we fitted dummy-variable regression models to monthly birth data from 1990 to 1999 in metropolitan counties. We used birth counts to frame the problem and general fertility rates to address the problem formally. These analyses were organized within two design structures: a control-group interrupted time-series design and a difference-in-differences design. In these analyses, Oklahoma County showed an interpretable, consistent, and significant increase in births. Second, we used graphical smoothing models to display these effects visually. In combination, these methods provide compelling support for a fertility response to the Oklahoma City bombing. Certain parts of each theory helped us organize and understand the pattern of results.",
+  "authors": [
+    {
+      "raw": "Rodgers, Joseph Lee",
+      "family": "Rodgers",
+      "given": "Joseph Lee"
+    },
+    {
+      "raw": "John, Craig A. St.",
+      "family": "John",
+      "given": "Craig A. St."
+    },
+    {
+      "raw": "Coleman, Ronnie",
+      "family": "Coleman",
+      "given": "Ronnie"
+    }
+  ],
+  "authors_text": "Rodgers, Joseph Lee; John, Craig A. St.; Coleman, Ronnie",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0034",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0034",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0034",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0034.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

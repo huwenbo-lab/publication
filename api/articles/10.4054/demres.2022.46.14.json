@@ -1,0 +1,25 @@
+{
+  "title": "Household transitions between ages 5 and 15 and educational outcomes: Fathers and grandparents in Peru",
+  "abstract": "BACKGROUND Latin America has high rates of single motherhood and intergenerational coresidence, resulting in children experiencing changes in household composition - particularly with respect to fathers and grandparents. In other contexts, such changes have been shown to influence educational outcomes. OBJECTIVE To test if the presence of grandparents and fathers in the household are differentially associated with educational outcomes during schooling years in Peru. METHODS Young Lives longitudinal data consist of around 2,000 children who were followed from age 1 to age 15 between 2002 and 2017. Using value-added and child fixed effects models, I examine if the number of changes in household structure involving fathers and grandparents, the type of change (exit or entrance), and the identity of the household members are associated with cognitive outcomes. Persistence was tested as well as heterogeneous associations by child's age at transition and disadvantage. RESULTS More than half the children experienced a change in household composition between ages 5 and 15. Father separation was associated with worse cognitive scores and lower likelihood of being on-grade. This was strongest if separation occurred when children were older. Grandparent presence in the household was not as strongly correlated with child outcomes, but results suggest that children have better cognitive performance after grandparent separation from the household. Associations between household composition and child outcomes were stronger if children were disadvantaged. CONTRIBUTION This research provides evidence that fathers and grandparents are both important contributors to child educational outcomes in a context where three-generational households are common.",
+  "authors": [
+    {
+      "raw": "Reynolds, Sarah A.",
+      "family": "Reynolds",
+      "given": "Sarah A."
+    }
+  ],
+  "authors_text": "Reynolds, Sarah A.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.14",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

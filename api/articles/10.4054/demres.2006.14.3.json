@@ -1,0 +1,30 @@
+{
+  "title": "Two proofs of a recent formula by Griffith Feeney",
+  "abstract": "This reflexion provides two mathematical proofs for Equation (1) in Feeney (",
+  "authors": [
+    {
+      "raw": "Gampe, Jutta",
+      "family": "Gampe",
+      "given": "Jutta"
+    },
+    {
+      "raw": "Yashin, Anatoli",
+      "family": "Yashin",
+      "given": "Anatoli"
+    }
+  ],
+  "authors_text": "Gampe, Jutta; Yashin, Anatoli",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2006,
+  "doi": "10.4054/demres.2006.14.3",
+  "doi_url": "https://doi.org/10.4054/demres.2006.14.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2006.14.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2006.14.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

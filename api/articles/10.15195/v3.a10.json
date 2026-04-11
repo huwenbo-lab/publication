@@ -1,0 +1,30 @@
+{
+  "title": "Can Incarceration Really Strip People of Racial Privilege?",
+  "abstract": "We replicate and reexamine Saperstein and Penner’s prominent 2010 study which asks whether incarceration changes the probability that an individual will be seen as black or white (regardless of the individual’s phenotype). Our reexamination shows that only a small part of their empirical analysis is suitable for addressing this question (the fixed-effects estimates), and that these results are extremely fragile. Using data from the National Longitudinal Survey of Youth, we find that being interviewed in jail/prison does not increase the survey respondent’s likelihood of being classified as black, and avoiding incarceration during the survey period does not increase a person’s chances of being seen as white. We conclude that the empirical component of Saperstein and Penner’s work needs to be reconsidered and new methods for testing their thesis should be investigated. The data are provided for other researchers to explore.",
+  "authors": [
+    {
+      "raw": "Hannon, Lance",
+      "family": "Hannon",
+      "given": "Lance"
+    },
+    {
+      "raw": "DeFina, Robert",
+      "family": "DeFina",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Hannon, Lance; DeFina, Robert",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2016,
+  "doi": "10.15195/v3.a10",
+  "doi_url": "https://doi.org/10.15195/v3.a10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv3.a10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v3.a10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

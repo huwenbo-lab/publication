@@ -1,0 +1,25 @@
+{
+  "title": "Describing the Dutch Social Networks and Fertility Study and how to process it",
+  "abstract": "BACKGROUND The social networks of people play a prominent role in theories on fertility. Investigating how networks shape behaviour is hard, because of the difficulty in measuring (large) networks among representative samples. Therefore, comprehensive studies of the variation in the structure and composition of networks and their impact on fertility outcomes are lacking. OBJECTIVE I aim to, first, describe the Dutch Social Networks and Fertility Study, and, second, describe the R-package FertNet that processes data from this study and transforms it into an easy-to-use format for researchers. METHODS The data used are from the Longitudinal Internet Social Survey (LISS) panel, a representative panel of Dutch households. The focus is on the Social Networks and Fertility Study that includes a subsample of women between the ages of 18-40. Specific survey software was designed to capture each respondent's personal network comprising 25 individuals with whom they had a relationship. In total, 758 women reported on over 18,750 relationships. For each person with whom the respondent had a relationship, several questions were asked about fertility-related topics. Uniquely, the connections between these people were also assessed. The R-package FertNet corrects data issues and transforms unstructured network data into alter-attribute and alter-tie datasets that can be handled by a diversity of network analytical approaches. CONTRIBUTION The Social Networks and Fertility Study is a unique resource that allows for a comprehensive investigation of how networks shape fertility behaviour. It provides better estimates of network characteristics than earlier literature based on smaller networks. The R-package FertNet assists researchers in their analyses.",
+  "authors": [
+    {
+      "raw": "Stulp, Gert",
+      "family": "Stulp",
+      "given": "Gert"
+    }
+  ],
+  "authors_text": "Stulp, Gert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.19",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

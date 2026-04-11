@@ -1,0 +1,30 @@
+{
+  "title": "Cohabitation and U.S. Adult Mortality: An Examination by Gender and Race",
+  "abstract": "This study is the first to explore the relationship between cohabitation and U.S. adult mortality using a nationally representative sample. Using data from the National Health Interview Survey‐Longitudinal Mortality Follow‐up files 1997–2004 (N = 193,851), the authors found that divorced, widowed, and never‐married White men had higher mortality rates than cohabiting White men, and never‐married Black men had higher mortality rates than cohabiting Black men. In contrast, the mortality rates of nonmarried White and Black women were not different from those of their cohabiting counterparts. The results also revealed that mortality rates of married White men and women were lower than their cohabiting counterparts and that these mortality differences tended to decrease with age. The authors found no significant mortality differences when they compared married Black men or women to their cohabiting counterparts. The identified mortality differences were partially—but not fully—explained by income, psychological, or health behavior differences across groups.",
+  "authors": [
+    {
+      "raw": "Liu, Hui",
+      "family": "Liu",
+      "given": "Hui"
+    },
+    {
+      "raw": "Reczek, Corinne",
+      "family": "Reczek",
+      "given": "Corinne"
+    }
+  ],
+  "authors_text": "Liu, Hui; Reczek, Corinne",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2012,
+  "doi": "10.1111/j.1741-3737.2012.00983.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2012.00983.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2012.00983.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2012.00983.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

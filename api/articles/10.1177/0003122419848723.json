@@ -1,0 +1,25 @@
+{
+  "title": "Structural Sexism and Health in the United States: A New Perspective on Health Inequality and the Gender System",
+  "abstract": "In this article, I build a new line of health inequality research that parallels the emerging structural racism literature. I develop theory and measurement for the concept of structural sexism and examine its relationship to health outcomes. Consistent with contemporary theories of gender as a multilevel social system, I conceptualize and measure structural sexism as systematic gender inequality at the macro level (U.S. state), meso level (marital dyad), and micro level (individual). I use U.S. state-level administrative data linked to geocoded data from the NLSY79, as well as measures of inter-spousal inequality and individual views on women's roles as predictors of physical health outcomes in random-effects models for men and women. Results show that among women, exposure to more sexism at the macro and meso levels is associated with more chronic conditions, worse self-rated health, and worse physical functioning. Among men, macro-level structural sexism is also associated with worse health. However, greater meso-level structural sexism is associated with better health among men. At the micro level, internalized sexism is not related to physical health among either women or men. I close by outlining how future research on gender inequality and health can be furthered using a structural sexism perspective.",
+  "authors": [
+    {
+      "raw": "Homan, Patricia",
+      "family": "Homan",
+      "given": "Patricia"
+    }
+  ],
+  "authors_text": "Homan, Patricia",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419848723",
+  "doi_url": "https://doi.org/10.1177/0003122419848723",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419848723",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419848723.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

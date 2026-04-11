@@ -1,0 +1,35 @@
+{
+  "title": "Harried and Unhealthy? Parenthood, Time Pressure, and Mental Health",
+  "abstract": "Objective: This study investigates the effects of first and second births on time pressure and mental health and how these vary with time since birth and parental responsibilities. It also examines whether time pressure mediates the relationship between parenthood and mental health. Background: Childbirth is a major life course transition that adds a new role to parents' role set and contributes to role strain, of which time pressure is one manifestation. Longitudinal analyses can help determine whether the impact of children on parental time pressure endures or eases over time and whether any changes affect parents' mental health. Method: This study uses 16 years of panel data from the Household, Income and Labour Dynamics in Australia Survey (n = 20,009 individuals). The data are modeled using fixed effects panel regression models. Results: First and second births increase time pressure to a similar extent. Their estimated effects are larger for women than men and persist over time, but there is limited evidence of moderation by parental responsibilities. Maternal mental health improves after a first child, whereas second children are associated with declines in paternal mental health. These effects are long lasting. Mediation analyses suggest that in the absence of time pressure maternal mental health would improve significantly. Conclusion: Children have a stronger effect on mothers' than fathers' experiences of time pressure. These differences are not moderated by changes in parental responsibilities or work time following births. The increased time pressure associated with second births explains mothers' worse mental health.",
+  "authors": [
+    {
+      "raw": "Ruppanner, Leah",
+      "family": "Ruppanner",
+      "given": "Leah"
+    },
+    {
+      "raw": "Perales, Francisco",
+      "family": "Perales",
+      "given": "Francisco"
+    },
+    {
+      "raw": "Baxter, Janeen",
+      "family": "Baxter",
+      "given": "Janeen"
+    }
+  ],
+  "authors_text": "Ruppanner, Leah; Perales, Francisco; Baxter, Janeen",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12531",
+  "doi_url": "https://doi.org/10.1111/jomf.12531",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12531",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12531.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

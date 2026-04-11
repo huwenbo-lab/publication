@@ -1,0 +1,25 @@
+{
+  "title": "Comment on “The Effect of Same-Sex Marriage Laws on Different-Sex Marriage: Evidence From the Netherlands”",
+  "abstract": "Abstract In the recent Demography article titled “The Effect of Same-Sex Marriage Laws on Different-Sex Marriage: Evidence From the Netherlands,” Trandafir attempted to answer the question, Are rates of opposite sex marriage affected by legal recognition of same-sex marriages? The results of his approach to statistical inference—looking for evidence of a difference in rates of opposite-sex marriage—provide an absence of evidence of such effects. However, the validity of his conclusion of no causal relationship between same-sex marriage laws and rates of opposite-sex marriage is threatened by the fact that Trandafir did not also look for equivalence in rates of opposite-sex marriage in order to provide evidence of an absence of such an effect. Equivalence tests in combination with difference tests are introduced and presented in this article as a more valid inferential approach to the substantive question Trandafir attempted to answer.",
+  "authors": [
+    {
+      "raw": "Dinno, Alexis",
+      "family": "Dinno",
+      "given": "Alexis"
+    }
+  ],
+  "authors_text": "Dinno, Alexis",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0338-1",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0338-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0338-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0338-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

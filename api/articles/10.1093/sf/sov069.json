@@ -1,0 +1,25 @@
+{
+  "title": "Housing Policy and Urban Inequality: Did the Transformation of Assisted Housing Reduce Poverty Concentration?",
+  "abstract": "Poverty concentration reflects long-standing inequalities between neighborhoods in the United States. As the poverty concentration paradigm gained traction among policymakers and social scientists, assisted housing policy was overhauled. New assisted housing programs introduced since 1970 have dramatically reduced the geographic concentration of assisted housing units, changing the residential location of many low-income residents. Was this intervention in the housing market enough to reduce poverty concentration? Using national longitudinal data, I find that the deconcentration of assisted housing from 1977 to 2008 only modestly reduced poverty concentration in the 100 largest metropolitan areas. The results are driven by the deconcentration of assisted housing after 2000, when policies had a greater focus on dispersal of assisted housing to low-poverty neighborhoods. My results suggest that even a substantial shift in housing policy cannot make great strides in deconcentrating poverty given the existing landscape of durable urban inequality. Assisted housing policy exists alongside many other structural forces that cluster poor residents in neighborhoods, and these factors may limit its ability to reduce poverty concentration. Moreover, new housing programs rely on the private market to determine the location of assisted units, and the enduring place hierarchy among neighborhoods may influence both where assisted housing is located and its effect on the residential choices of non-assisted residents in ways that undermine poverty deconcentration.",
+  "authors": [
+    {
+      "raw": "Owens, Ann",
+      "family": "Owens",
+      "given": "Ann"
+    }
+  ],
+  "authors_text": "Owens, Ann",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sov069",
+  "doi_url": "https://doi.org/10.1093/sf/sov069",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov069",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov069.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Causal analysis in population research: An economist's perspective",
+  "abstract": "MORE THAN MANY other social science disciplines, population studies has a long history of noncausal descriptive analysis. The estimation of aggregate vital rates, the construction and estimation of life tables, and the description of population dynamics are just three examples. The long attention paid to these kinds of topics has led to sophistication in technique and constitutes a major contribution to social science knowledge. In recent years, however, population studies has developed an interest in many other issues that have an explicit causal dimension. This essay provides an interpretation of the issues, though not one that all economists will necessarily agree with. There is by no means a settled and accepted set of principles for addressing causal questions in economics or even for the proper relative role of causal and noncausal research, for there are significant differences within the discipline in viewpoint, both philosophically and at the practical level.",
+  "authors": [
+    {
+      "raw": "Moffitt, R",
+      "family": "Moffitt",
+      "given": "R"
+    }
+  ],
+  "authors_text": "Moffitt, R",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2003,
+  "doi": "10.1111/j.1728-4457.2003.00448.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2003.00448.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2003.00448.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2003.00448.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

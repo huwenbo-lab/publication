@@ -1,0 +1,35 @@
+{
+  "title": "Exacerbating inequality over the life-course: examining race differences in the reciprocal effects between incarceration and income",
+  "abstract": "Relative to Whites, Blacks face lower odds of gaining employment with notable wages while also facing longer terms of incarceration when sent to jail or prison for criminal offenses. Although a variety of factors contribute to these patterns, the time a Black individual spends incarcerated could decrease future earnings, whereas lower earnings could increase the time spent incarcerated. Nevertheless, prior research has yet to consider-or evaluate-the reciprocal association between income and incarceration, limiting our ability to discern how involvement in the criminal justice system contributes to the racial gap in income between Black and Whites. Using the National Longitudinal Survey of Youth 1997, the current study evaluated the influence of time spent incarcerated and income on future time spent incarcerated and income of Blacks and Whites. A lagged Latent Curve Model with Structured Residuals was estimated to examine the between- and within-individual reciprocal effects of months incarcerated and income. The findings suggested that a 1 month increase in time spent incarcerated for Blacks resulted in a 300-600 dollar decrease in income during the subsequent measurement period, an effect that was not observed for Whites. It appears that time spent incarcerated reduces future earnings for justice-involved Blacks. Overall, findings suggest that the criminal justice system contributes to the income gap that exists more generally between Blacks and Whites in the United States.",
+  "authors": [
+    {
+      "raw": "Silver, Ian A.",
+      "family": "Silver",
+      "given": "Ian A."
+    },
+    {
+      "raw": "D'Amato, Christopher",
+      "family": "D'Amato",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Wooldredge, John",
+      "family": "Wooldredge",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Silver, Ian A.; D'Amato, Christopher; Wooldredge, John",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soad113",
+  "doi_url": "https://doi.org/10.1093/sf/soad113",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad113",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad113.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

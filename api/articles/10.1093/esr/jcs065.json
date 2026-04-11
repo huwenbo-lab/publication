@@ -1,0 +1,25 @@
+{
+  "title": "Are There Catholic School Effects in Ontario, Canada?",
+  "abstract": "Spearheaded by James Coleman three decades ago, two generations of American social scientists have investigated whether students in Catholic schools achieve more than students in public schools, net of their demographics, prior achievement, and school resources. Though this research tradition has not reached a consensus in the United States, it provides a viable framework for analyzing school sector effects in other nations. I search for Catholic school effects in Ontario, Canada, arguing that the province’s funding and governance arrangements and student populations make Catholic and public schools more readily comparable than they are in the United States. Data come from a variety of regression, multi-level and propensity score matching models for Grade 3 reading, writing, and math achievement for more than 55,000 elementary students, which represent over one-half of the provincial cohort of English language students. This article finds modest total Catholic school effects and estimates net effects to range from zero to 12 per cent of a standard deviation, controlling for demographics and kindergarten school readiness. These effects are deemed small by several empirical benchmarks and inconsistent with Coleman’s thesis.",
+  "authors": [
+    {
+      "raw": "Davies, S.",
+      "family": "Davies",
+      "given": "S."
+    }
+  ],
+  "authors_text": "Davies, S.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2012,
+  "doi": "10.1093/esr/jcs065",
+  "doi_url": "https://doi.org/10.1093/esr/jcs065",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcs065",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcs065.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

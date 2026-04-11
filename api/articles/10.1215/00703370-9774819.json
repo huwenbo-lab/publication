@@ -1,0 +1,35 @@
+{
+  "title": "Death by Robots? Automation and Working-Age Mortality in the United States",
+  "abstract": "The decline of manufacturing employment is frequently invoked as a key cause of worsening U.S. population health trends, including rising mortality due to deaths of despair. Increasing automation-the use of industrial robots to perform tasks previously done by human workers-is one structural force driving the decline of manufacturing jobs and wages. In this study, we examine the impact of automation on age- and sex-specific mortality. Using exogenous variation in automation to support causal inference, we find that increases in automation over the period 1993-2007 led to substantive increases in all-cause mortality for both men and women aged 45-54. Disaggregating by cause, we find evidence that automation is associated with increases in drug overdose deaths, suicide, homicide, and cardiovascular mortality, although patterns differ by age and sex. We further examine heterogeneity in effects by safety net program generosity, labor market policies, and the supply of prescription opioids.",
+  "authors": [
+    {
+      "raw": "O'Brien, Rourke",
+      "family": "O'Brien",
+      "given": "Rourke"
+    },
+    {
+      "raw": "Bair, Elizabeth F.",
+      "family": "Bair",
+      "given": "Elizabeth F."
+    },
+    {
+      "raw": "Venkataramani, Atheendar S.",
+      "family": "Venkataramani",
+      "given": "Atheendar S."
+    }
+  ],
+  "authors_text": "O'Brien, Rourke; Bair, Elizabeth F.; Venkataramani, Atheendar S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9774819",
+  "doi_url": "https://doi.org/10.1215/00703370-9774819",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9774819",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9774819.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

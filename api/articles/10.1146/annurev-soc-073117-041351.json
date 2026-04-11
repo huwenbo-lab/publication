@@ -1,0 +1,30 @@
+{
+  "title": "Aging Populations, Mortality, and Life Expectancy",
+  "abstract": "Life expectancy has long been seen as an indicator of the quality of life as well as the health of a population. Recent trends in US life expectancy show growing inequality in life expectancy for some socioeconomic and geographic groupings but diminishing inequality by race and gender. For example, while African Americans had gains in life expectancy, non-Hispanic white women with low levels of education experienced drops. Overall, the United States continues to fall behind other countries in terms of life expectancy. One reason is our growing mortality in midlife from so-called deaths of despair. Public health programs cannot eliminate these adverse trends if they are not also accompanied by social policies supporting economic opportunity for US families.",
+  "authors": [
+    {
+      "raw": "Crimmins, Eileen M.",
+      "family": "Crimmins",
+      "given": "Eileen M."
+    },
+    {
+      "raw": "Zhang, Yuan S.",
+      "family": "Zhang",
+      "given": "Yuan S."
+    }
+  ],
+  "authors_text": "Crimmins, Eileen M.; Zhang, Yuan S.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2019,
+  "doi": "10.1146/annurev-soc-073117-041351",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-073117-041351",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-073117-041351",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-073117-041351.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

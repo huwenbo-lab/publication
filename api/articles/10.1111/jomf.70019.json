@@ -1,0 +1,35 @@
+{
+  "title": "The Role of Family Complexity in Mental and Physical Health in Mid-Adulthood",
+  "abstract": "Objective This study examines the association between accumulated family complexity and mental and physical health in mid-adulthood, with a focus on gender differences.Background While research on family and health often centers on the health effects of specific family transitions, the life course health development model emphasizes the cumulative influence of life experiences on health. Complex family trajectories, particularly those including episodes of singlehood or single parenthood, may have lasting implications for mental and physical health.Method Using data from the UK Household Longitudinal Study, differently weighted sequence complexity indices were applied to capture the number and the unpredictability of transitions in partnership and parenthood trajectories from ages 18 to 55 and health at age 55 (survey years 2009-2022) among men (N = 2638) and women (N = 3407).Results Accumulated family complexity is negatively associated with both women's and men's mental and physical health, but findings differ based on the specification of family complexity. Women's physical health appears to be particularly affected by the accumulation of family complexity following a separation involving children, whereas men's mental and physical health seem to be more affected by accumulated family complexity after any separation.Conclusion By uncovering substantial gender differences in patterns of associations between accumulated family complexity and health, this study highlights the importance of accounting for gender-specific dynamics in studies of family complexity. Our finding that long-term health disadvantages are associated with family complexity suggests that entire life course trajectories should be considered and quantified when examining long-term health outcomes.",
+  "authors": [
+    {
+      "raw": "Dierker, Philipp",
+      "family": "Dierker",
+      "given": "Philipp"
+    },
+    {
+      "raw": "Kuhn, Mine",
+      "family": "Kuhn",
+      "given": "Mine"
+    },
+    {
+      "raw": "Van Winkle, Zachary",
+      "family": "Van Winkle",
+      "given": "Zachary"
+    }
+  ],
+  "authors_text": "Dierker, Philipp; Kuhn, Mine; Van Winkle, Zachary",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70019",
+  "doi_url": "https://doi.org/10.1111/jomf.70019",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70019",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70019.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Life Expectancy Reversals in Low-Mortality Populations",
+  "abstract": "Behind the steady march of progress toward longer life expectancy in many low-mortality countries, there have been setbacks even before the Covid-19 pandemic. In this paper, we use an exploratory approach to describe the temporal structure, age patterns, and geographic aspects of life expectancy reversals. We find that drops in life expectancy are often followed by larger than average improvements, which tells us that most reversals are transitory with little long-term influence. The age structure of mortality decline when life expectancy falls is tilted toward older ages, a pattern that is quite different from the general pattern of mortality improvement. Geographic analysis shows that mortality reversals are correlated across neighboring countries like Italy and France, or Canada and the United States. These findings are consistent with contagious disease and weather being important causes of life expectancy reversals. We conclude with a discussion of implications for formal modeling and forecasting of mortality to accommodate these patterns that violate some standard assumptions.",
+  "authors": [
+    {
+      "raw": "Goldstein, Joshua R.",
+      "family": "Goldstein",
+      "given": "Joshua R."
+    },
+    {
+      "raw": "Lee, Ronald D.",
+      "family": "Lee",
+      "given": "Ronald D."
+    }
+  ],
+  "authors_text": "Goldstein, Joshua R.; Lee, Ronald D.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12619",
+  "doi_url": "https://doi.org/10.1111/padr.12619",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12619",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12619.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

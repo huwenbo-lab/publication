@@ -1,0 +1,25 @@
+{
+  "title": "Immigrant Revitalization and Neighborhood Violent Crime in Established and New Destination Cities",
+  "abstract": "Recently, scholars examining the link between immigration and crime have proposed an “immigrant revitalization perspective,” wherein larger immigrant populations are associated with reduced violent crime in aggregate areas. However, research supporting this claim typically draws on findings from research on heavily Latino neighborhoods in “established destination cities” and rarely takes into account the massive dispersal of immigrants across the country at the end of the twentieth century. Using a representative sample of neighborhoods in large US cities, this project analyzes violent crime rates for 8,628 census tracts, divided by racial and ethnic composition, nested within 84 cities, classified by immigration history or “destination” status. Findings suggest that the immigrant revitalization process may be heavily contingent on neighborhood- and city-level context. Specifically, neighborhoods with relatively small and recent immigrant populations may rely on receptive contexts provided by established destinations to revitalization neighborhoods and contribute to lower violent crime rates.",
+  "authors": [
+    {
+      "raw": "Ramey, David M.",
+      "family": "Ramey",
+      "given": "David M."
+    }
+  ],
+  "authors_text": "Ramey, David M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sot085",
+  "doi_url": "https://doi.org/10.1093/sf/sot085",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsot085",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sot085.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

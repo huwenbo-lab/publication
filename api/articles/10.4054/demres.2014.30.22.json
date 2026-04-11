@@ -1,0 +1,30 @@
+{
+  "title": "Social networks and fertility",
+  "abstract": "The fields of demography, sociology, and socio-psychology have been increasingly drawing on social network theories, which posit that individual fertility decision-making depends in part on the fertility behavior of other members of the population, and on",
+  "authors": [
+    {
+      "raw": "Bernardi, Laura",
+      "family": "Bernardi",
+      "given": "Laura"
+    },
+    {
+      "raw": "Klärner, Andreas",
+      "family": "Klärner",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Bernardi, Laura; Klärner, Andreas",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2014,
+  "doi": "10.4054/demres.2014.30.22",
+  "doi_url": "https://doi.org/10.4054/demres.2014.30.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2014.30.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2014.30.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

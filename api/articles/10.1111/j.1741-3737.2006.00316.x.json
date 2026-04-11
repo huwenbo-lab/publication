@@ -1,0 +1,40 @@
+{
+  "title": "Nonmarital Fertility and the Effects of Divorce Rates on Youth Suicide Rates",
+  "abstract": "Using pooled, time‐series data for a sample of 15 developed nations, we assess the effect of divorce rates on gender‐specific suicide rates for youths aged 15 – 19 with models of relative cohort size, lagged nonmarital fertility, and an interaction term for divorce rates and nonmarital fertility. The results reveal that, for young men, relative cohort size is positively related to suicide rates, and divorce rates interact with lagged nonmarital fertility. The interaction effect indicates that increases in divorces are especially consequential for suicide cohorts of male youths who were born in periods of high nonmarital fertility. For female youths, only divorce rates exert a significant effect on suicide rates, and it is a positive, main effect.",
+  "authors": [
+    {
+      "raw": "Messner, Steven F.",
+      "family": "Messner",
+      "given": "Steven F."
+    },
+    {
+      "raw": "Bjarnason, Thoroddur",
+      "family": "Bjarnason",
+      "given": "Thoroddur"
+    },
+    {
+      "raw": "Raffalovich, Lawrence E.",
+      "family": "Raffalovich",
+      "given": "Lawrence E."
+    },
+    {
+      "raw": "Robinson, Bryan K.",
+      "family": "Robinson",
+      "given": "Bryan K."
+    }
+  ],
+  "authors_text": "Messner, Steven F.; Bjarnason, Thoroddur; Raffalovich, Lawrence E.; Robinson, Bryan K.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2006,
+  "doi": "10.1111/j.1741-3737.2006.00316.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2006.00316.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2006.00316.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2006.00316.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

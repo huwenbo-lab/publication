@@ -1,0 +1,50 @@
+{
+  "title": "How New Ideas Diffuse in Science",
+  "abstract": "What conditions enable novel intellectual contributions to diffuse and become integrated into later scientific work? Prior work tends to focus on whole cultural products, such as patents and articles, and emphasizes external social factors as important. This article focuses on concepts as reflections of ideas, and we identify the combined influence that social factors and internal intellectual structures have on ideational diffusion. To develop this perspective, we use computational techniques to identify nearly 60,000 new ideas introduced over two decades (1993 to 2016) in the Web of Science and follow their diffusion across 38 million later publications. We find new ideas diffuse more widely when they socially and intellectually resonate. New ideas become core concepts of science when they reach expansive networks of unrelated authors, achieve consistent intellectual usage, are associated with other prominent ideas, and fit with extant research traditions. These ecological conditions play an increasingly decisive role later in an idea's career, after their relations with the environment are established. This work advances the systematic study of scientific ideas by moving beyond products to focus on the content of ideas themselves and applies a relational perspective that takes seriously the contingency of their success.",
+  "authors": [
+    {
+      "raw": "Cheng, Mengjie",
+      "family": "Cheng",
+      "given": "Mengjie"
+    },
+    {
+      "raw": "Smith, Daniel Scott",
+      "family": "Smith",
+      "given": "Daniel Scott"
+    },
+    {
+      "raw": "Ren, Xiang",
+      "family": "Ren",
+      "given": "Xiang"
+    },
+    {
+      "raw": "Cao, Hancheng",
+      "family": "Cao",
+      "given": "Hancheng"
+    },
+    {
+      "raw": "Smith, Sanne",
+      "family": "Smith",
+      "given": "Sanne"
+    },
+    {
+      "raw": "McFarland, Daniel A.",
+      "family": "McFarland",
+      "given": "Daniel A."
+    }
+  ],
+  "authors_text": "Cheng, Mengjie; Smith, Daniel Scott; Ren, Xiang; Cao, Hancheng; Smith, Sanne; McFarland, Daniel A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224231166955",
+  "doi_url": "https://doi.org/10.1177/00031224231166955",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224231166955",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224231166955.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

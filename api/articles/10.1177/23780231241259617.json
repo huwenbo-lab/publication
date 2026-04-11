@@ -1,0 +1,25 @@
+{
+  "title": "When Being a Data Annotator Was Not Yet a Job: The Laboratory Origins of Dispersible Labor in Computer Vision Research",
+  "abstract": "Drawing on a comparative case study of four landmark image datasets that led up to the creation of a new job—data annotators—I examine the laboratory origins of dispersible labor in the development of artificial intelligence (AI) technology. The rise of large-scale datasets cannot be attributed solely to gig platforms that supply already dispersed labor. To transform data annotation from an in-laboratory, expert task to a microtask that can be performed by data annotators without scientific expertise, scientists introduced into and consolidated through the scientific literature and laboratory life of AI research new organizational repertoires of bureaucratic, centralized, algorithmic, and corporate control that each made data annotator’s work more dispersible. By bringing back the organization and control of scientific labor as a missing link between the technical and social dimensions of AI, this study has implications for research on hidden labor, algorithmic biases, and the future of knowledge work.",
+  "authors": [
+    {
+      "raw": "Li, Zhuofan",
+      "family": "Li",
+      "given": "Zhuofan"
+    }
+  ],
+  "authors_text": "Li, Zhuofan",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241259617",
+  "doi_url": "https://doi.org/10.1177/23780231241259617",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241259617",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241259617.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

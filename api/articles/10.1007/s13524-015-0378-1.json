@@ -1,0 +1,25 @@
+{
+  "title": "Conjuring the Ghosts of Missing Children: A Monte Carlo Simulation of Reproductive Restraint in Tokugawa Japan",
+  "abstract": "This article quantifies the frequency of infanticide and abortion in one region of Japan by comparing observed fertility in a sample of 4.9 million person-years (1660-1872) with a Monte Carlo simulation of how many conceptions and births that population should have experienced. The simulation uses empirical values for the determinants of fertility from Eastern Japan itself as well as the best available studies of comparable populations. This procedure reveals that in several decades of the eighteenth century, at least 40 % of pregnancies must have ended in either an induced abortion or an infanticide. In addition, the simulation results imply a rapid decline in the incidence of infanticide and abortion during the nineteenth century, when in a reverse fertility transition, this premodern family-planning regime gave way to a new age of large families.",
+  "authors": [
+    {
+      "raw": "Drixler, Fabian F.",
+      "family": "Drixler",
+      "given": "Fabian F."
+    }
+  ],
+  "authors_text": "Drixler, Fabian F.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0378-1",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0378-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0378-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0378-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "For the times they are a changin' - The respect for religious precepts through the analysis of the seasonality of marriages. Italy, 1862-2012",
+  "abstract": "BACKGROUND It is well known that the Catholic Church's prohibition of celebrating weddings during Lent operated as a significant deterrent in this period. We analysed the effect of the Lent restriction on marriage seasonality in the period from the unification of the Italian Kingdom to the present. This period is characterized by a deep modernization of the Italian economy, which has upset marriage seasonality. OBJECTIVE This paper aims to answer the following question: has the process of 'modernization' led to the disappearance of the inhibitory effect of Lent on the celebration of weddings? METHODS We disentangled the effect of economic transformation on marriage seasonality from that attributable to Lent prescriptions by de-trending the time series of seasonal indicators. Subsequently, we analyse the respect for Lent by exploiting the year-to-year variability in the Lenten days of April. In particular, we analyse the strength of the relation between the latter and fluctuations in the de-trended indicator of seasonality in various sub-periods. RESULTS In all Italian regions, religious prescriptions were strongly respected in the aftermath of unification. Southern regions were less compliant than northern ones. We show that even if the effect of Lent on marriage seasonality is less strong than 100 years ago, it is still able to produce discouraging effects on marriage. CONCLUSIONS In economic literature religious beliefs are increasingly accepted as determinants of economic development. We propose a simple methodology for constructing an indicator of religiosity that may be a useful tool for this emerging line of research in economic development. We also furnish an implementation of our methodology using Italian data.",
+  "authors": [
+    {
+      "raw": "Ruiu, Gabriele",
+      "family": "Ruiu",
+      "given": "Gabriele"
+    },
+    {
+      "raw": "Breschi, Marco",
+      "family": "Breschi",
+      "given": "Marco"
+    }
+  ],
+  "authors_text": "Ruiu, Gabriele; Breschi, Marco",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.7",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

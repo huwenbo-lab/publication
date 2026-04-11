@@ -1,0 +1,30 @@
+{
+  "title": "Who can work when, and why do we have to care? Education, care demands, and the gendered division of work schedules in France and Germany",
+  "abstract": "ObjectiveThis article investigates how education and the presence and age of children shape gendered work schedule arrangements among couples in France and Germany.BackgroundDespite the prevalence of nonstandard work schedules, schools and daycare facilities typically operate during standard work hours. Nevertheless, little is known on the gendered division of work schedules. Both France and Germany have shifted toward labor market deregulation, favoring the concentration of nonstandard schedules in lower-class jobs. However, France provides full-day public education and care. In Germany, public childcare is less comprehensive, and daycare and school hours are considerably shorter.MethodThe study uses sequence and cluster analysis on time-use data (N = 11,268 days) to identify typical work schedules. Multinomial logistic regressions assess how education and the presence and age of children are associated with men's and women's types of days.ResultsIn both countries, less-educated men were more likely to work shifts, whereas less-educated women were more likely to not be employed. However, standard work schedules prevailed among better-educated French men and women, whereas partial workdays and non-workdays predominated among German women.ConclusionIn both labor market contexts, less-educated partnered women rather than men seem to opt out of employment due to scheduling conflicts between work and care. However, more work-facilitating family policies allow for more gender-equal schedules among better-educated men and women in France.",
+  "authors": [
+    {
+      "raw": "Deuflhard, Carolin",
+      "family": "Deuflhard",
+      "given": "Carolin"
+    },
+    {
+      "raw": "Ganault, Jeanne",
+      "family": "Ganault",
+      "given": "Jeanne"
+    }
+  ],
+  "authors_text": "Deuflhard, Carolin; Ganault, Jeanne",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13085",
+  "doi_url": "https://doi.org/10.1111/jomf.13085",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13085",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13085.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

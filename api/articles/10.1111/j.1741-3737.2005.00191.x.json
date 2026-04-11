@@ -1,0 +1,25 @@
+{
+  "title": "Working With Missing Values",
+  "abstract": "Less than optimum strategies for missing values can produce biased estimates, distorted statistical power, and invalid conclusions. After reviewing traditional approaches (listwise, pairwise, and mean substitution), selected alternatives are covered including single imputation, multiple imputation, and full information maximum likelihood estimation. The effects of missing values are illustrated for a linear model, and a series of recommendations is provided. When missing values cannot be avoided, multiple imputation and full information methods offer substantial improvements over traditional approaches. Selected results using SPSS, NORM, Stata (mvis/micombine), and Mplusare included as is a table of available software and an appendix with examples of programs for Stata and Mplus.",
+  "authors": [
+    {
+      "raw": "Acock, Alan C.",
+      "family": "Acock",
+      "given": "Alan C."
+    }
+  ],
+  "authors_text": "Acock, Alan C.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2005,
+  "doi": "10.1111/j.1741-3737.2005.00191.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2005.00191.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2005.00191.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2005.00191.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

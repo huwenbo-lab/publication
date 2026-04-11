@@ -1,0 +1,30 @@
+{
+  "title": "Have we put an end to social promotion? Changes in school progress among children aged 6 to 17 from 1972 to 2005",
+  "abstract": "Abstract We examine trends over time in the proportion of children below the modal grade for their age (BMG), a proxy for grade retention, and in the effects of its demographic and socioeconomic correlates. We estimate a logistic regression model with partial constraints predicting BMG using the annual October school enrollment supplements of the Current Population Survey. This model identifies systematic variation in the effects of social background across age and time from 1972 to 2005. While the effects of socioeconomic background variables on progress through school have become increasingly powerful as children grow older, that typical pattern has been attenuated across the past three decades by a steady secular decline in the influence of those variables across all ages. A great deal of concern has been expressed about rising levels of economic and social inequality in the United States since the middle 1970s, and about the potential intergenerational effects of such inequality. However, there has been an opposite trend in the effects of social origins on being BMG. A trend is not a law, and there is reason to be concerned about the recent deceleration of the secular decline in effects of social background on being BMG.",
+  "authors": [
+    {
+      "raw": "Frederick, Carl B.",
+      "family": "Frederick",
+      "given": "Carl B."
+    },
+    {
+      "raw": "Hauser, Robert M.",
+      "family": "Hauser",
+      "given": "Robert M."
+    }
+  ],
+  "authors_text": "Frederick, Carl B.; Hauser, Robert M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0015",
+  "doi_url": "https://doi.org/10.1353/dem.0.0015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

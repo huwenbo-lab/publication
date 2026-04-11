@@ -1,0 +1,35 @@
+{
+  "title": "Do Internal Migration Experiences Facilitate Migration Intentions and Behavior?",
+  "abstract": "Growing evidence suggests that internal migration experience shapes future internal migration behavior. However, it remains unclear what stage of the decision-making process past internal migration facilitates and whether the impact depends on the distance moved. To advance understanding of the role of past migration, we explicitly and dynamically link migration experiences to the formation and realization of future internal migration intentions by blending the aspiration-ability framework with the learned behavior hypothesis. We empirically test our proposition by fitting a series of logistic regression models to longitudinal microdata from the Household, Income and Labour Dynamics in Australia (HILDA) Survey, which has been conducted annually since 2001. We use a two-step approach by first modeling internal migration intentions and then modeling the realization of these intentions, distinguishing between residential moves, onward interregional migration, and return interregional migration. We find that migration experience is positively associated with both the formation and realization of migration intentions and that the effect of past migration increases with the distance moved and the number of past migrations. These findings suggest that migration experiences accumulate over the life course to predispose individuals toward subsequent migration. Finally, we show that the effect of past migration is not the result of a lack of social capital among repeat migrants-a finding that reinforces the importance of conceptualizing internal migration as a life course trajectory rather than a series of discrete events.",
+  "authors": [
+    {
+      "raw": "Bernard, Aude",
+      "family": "Bernard",
+      "given": "Aude"
+    },
+    {
+      "raw": "Kalemba, Sunganani",
+      "family": "Kalemba",
+      "given": "Sunganani"
+    },
+    {
+      "raw": "Nguyen, Toan",
+      "family": "Nguyen",
+      "given": "Toan"
+    }
+  ],
+  "authors_text": "Bernard, Aude; Kalemba, Sunganani; Nguyen, Toan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9986021",
+  "doi_url": "https://doi.org/10.1215/00703370-9986021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9986021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9986021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

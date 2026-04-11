@@ -1,0 +1,30 @@
+{
+  "title": "The Diffusion of Ethnic Violence in Germany: The Role of Social Similarity",
+  "abstract": "In this paper we develop and test an encompassing theoretical framework for the explanation of the geographical and temporal spread of extreme right violence. This framework combines internal precipitating factors related to ethnic competition, social disintegration, and political opportunity structures, which make certain localities more prone to exhibit ethnic violence, with diffusion variables that determine the degree to which ethnic violence diffuses across time and across localities. We employ an event history analysis of instances of racist violence in 444 German counties for the time period 1990-1995. In line with previous research we demonstrate that political opportunities, ethnic competition and social disorganization, media coverage, and the severity of previous violence are significant explanatory factors for the evolution of xenophobic violence. In contrast to previous research we find that geographical distance does not affect the diffusion of ethnic violence when controlling for social similarity which exerts a significant influence on diffusion. Results make a strong case for empirically neglected homophily arguments.",
+  "authors": [
+    {
+      "raw": "Braun, R.",
+      "family": "Braun",
+      "given": "R."
+    },
+    {
+      "raw": "Koopmans, R.",
+      "family": "Koopmans",
+      "given": "R."
+    }
+  ],
+  "authors_text": "Braun, R.; Koopmans, R.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2009,
+  "doi": "10.1093/esr/jcp056",
+  "doi_url": "https://doi.org/10.1093/esr/jcp056",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcp056",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcp056.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

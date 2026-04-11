@@ -1,0 +1,30 @@
+{
+  "title": "Between-sibling inequality in inheritances: Intergenerational support and patrilineality in South Korea",
+  "abstract": "Objective: This study examines sibling inequality in inheritances and investigates the associations between inheritance share, intergenerational support, and patrilineality, as well as the potential interplay between support and patrilineality.Background: While Western studies take an exchange perspective linking inheritance division to intergenerational support, the picture in Asia is complicated by patrilineal norms, which are connected to both inheritance and support.Method: Utilizing the Korean Longitudinal Study of Ageing, this study employs family fixed effects regression to estimate the relationships between actual inheritance division, comprehensive measures of intergenerational support (financial, instrumental, associational, and structural), and patrilineality (gender and birth order).Results: First-born sons receive the lion's share of inheritances, followed by first-born daughters and later-born sons, who receive a lesser share, while later-born daughters receive the least. Meeting the parent frequently and caring for them before death were also associated with a larger share, and these effects were mostly uniform by birth order and gender.Conclusion: Patrilineal traditions continue to dominate inheritance division in contemporary Korea, with first-born sons claiming the largest share regardless of their contributions to intergenerational support. Physical contact and caregiving increase a child's likelihood of receiving a larger share, but ultimately do not change the patrilineal order in inheritance allocations.",
+  "authors": [
+    {
+      "raw": "Kim, Dahye",
+      "family": "Kim",
+      "given": "Dahye"
+    },
+    {
+      "raw": "Lim-Soh, Jeremy",
+      "family": "Lim-Soh",
+      "given": "Jeremy"
+    }
+  ],
+  "authors_text": "Kim, Dahye; Lim-Soh, Jeremy",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12944",
+  "doi_url": "https://doi.org/10.1111/jomf.12944",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12944",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12944.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Family socioeconomic status and sibling correlations in upper secondary education. An empirical analysis of educational inequalities in Italy",
+  "abstract": "The study examines the educational inequalities in upper secondary education in Italy, with a focus on the vertical dimension of school enrolment and the horizontal dimension of track and curriculum choice. To measure the importance of family background, we use the estimation of sibling correlations, which has seldom been used in the analysis of track choice in upper secondary education. Using data from the Italian Labor Force Survey 2005-2020 (ILFS), which includes detailed information on household characteristics such as the gender composition of siblings and parental education and occupational status, we find that around half of the variation in the probability of attending upper secondary school in Italy is related to the family of origin. We also show that comparing sibling correlations on binary outcomes should be complemented by additional statistics, such as variances at the individual and family levels and proportions of enrolled sibling pairs. For upper secondary school enrolment, advantaged families have a relatively lower sibling correlation due to minor variations at both individual and family levels. However, in terms of track choice, the sibling correlation is relatively higher for enrolment in the academic track compared to the technical and vocational tracks. Additionally, with respect to the attendance of science/technical curricula within each track, the results indicate a lower sibling correlation for the academic track than for the other two tracks, which suggests that individual characteristics have a greater impact than family background when these outcomes are considered.",
+  "authors": [
+    {
+      "raw": "Zhelenkova, Antonina",
+      "family": "Zhelenkova",
+      "given": "Antonina"
+    },
+    {
+      "raw": "Panichella, Nazareno",
+      "family": "Panichella",
+      "given": "Nazareno"
+    }
+  ],
+  "authors_text": "Zhelenkova, Antonina; Panichella, Nazareno",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1111/1468-4446.13045",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Revivorship and life lost to mortality",
+  "abstract": "BACKGROUND Some formal demographic models describe mortality improvement in terms of averted deaths. In such models individuals who would have died in an earlier regime are instead revived and returned to the population to face the same age-specific mortality risks as the rest of the population. A closely related literature has examined inequality in terms of the number of years of potential life that are lost to deaths. OBJECTIVE The paper combines several results from formal demography to illustrate the potential gains in life lived from a sequence of revivals, in which everyone is revived 0, 1, 2,... times. CONTRIBUTION Mathematical analysis yields two new results: A generalization of Vaupel and CanudasRomo's e(dagger) index to second and higher-order revivals, and an analytical expression that relates gains from revivals to the covariance of remaining life expectancy and cumulative mortality.",
+  "authors": [
+    {
+      "raw": "Schmertmann, Carl",
+      "family": "Schmertmann",
+      "given": "Carl"
+    }
+  ],
+  "authors_text": "Schmertmann, Carl",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.17",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

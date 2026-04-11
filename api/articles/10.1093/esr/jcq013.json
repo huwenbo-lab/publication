@@ -1,0 +1,30 @@
+{
+  "title": "Parenting Style and Youth Outcomes in the UK",
+  "abstract": "We apply latent class analysis to data on parent–teenager interaction that was collected in the Youth Panel of the British Household Panel Survey. The three parenting styles that we identify—authoritative, authoritarian, and permissive—correspond quite closely to those proposed by child development psychologists. Multivariate analysis shows that parenting style in contemporary UK is structured primarily by family structure and not by social class. There are consistent and strong associations between parenting style and a wide range of youth outcomes, including subjective well-being and self-esteem, health and risky behaviour, and school results and enrolment.",
+  "authors": [
+    {
+      "raw": "Chan, T. W.",
+      "family": "Chan",
+      "given": "T. W."
+    },
+    {
+      "raw": "Koo, A.",
+      "family": "Koo",
+      "given": "A."
+    }
+  ],
+  "authors_text": "Chan, T. W.; Koo, A.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcq013",
+  "doi_url": "https://doi.org/10.1093/esr/jcq013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcq013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcq013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

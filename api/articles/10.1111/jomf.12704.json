@@ -1,0 +1,35 @@
+{
+  "title": "Women's Marital Experiences Following Premarital Fertility inSub-SaharanAfrica",
+  "abstract": "Objective The aim of the study was to offer a descriptive overview of the stability and quality of marriages formed by women following premarital fertility in contemporary sub-Saharan Africa. Background Premarital sex and fertility rates are high in many sub-Saharan African countries, yet we know little about how premarital childbirth, or even premarital conception, corresponds with women's subsequent marital outcomes. For instance, it is unknown whether premarital fertility is associated with forming unions that are less stable, polygynous, or more violent. Method We analyze Demographic and Health Survey data for 25 sub-Saharan African countries to describe women's marital experiences following a premarital pregnancy or premarital birth (relative to marital pregnancy and birth). We estimate country-specific, two-stage Heckman probit models to understand whether, conditional on having married, premarital pregnancy or premarital birth is associated with union instability, and among women currently married, polygyny and intimate partner violence. Results In most countries, unions following a premarital pregnancy or premarital birth were less stable relative to unions in which pregnancy occurred only after marriage. Premarital births were also associated with a higher likelihood of entering a polygynous union, especially in West and Central African countries, as well as a greater likelihood of being in a physically violent union, particularly in East and Southern African countries. Conclusion The associations between premarital fertility and women's subsequent marital experiences raise questions about the broader health and life course implications for the women and children involved.",
+  "authors": [
+    {
+      "raw": "Smith-Greenaway, Emily",
+      "family": "Smith-Greenaway",
+      "given": "Emily"
+    },
+    {
+      "raw": "Koski, Alissa",
+      "family": "Koski",
+      "given": "Alissa"
+    },
+    {
+      "raw": "Clark, Shelley",
+      "family": "Clark",
+      "given": "Shelley"
+    }
+  ],
+  "authors_text": "Smith-Greenaway, Emily; Koski, Alissa; Clark, Shelley",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12704",
+  "doi_url": "https://doi.org/10.1111/jomf.12704",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12704",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12704.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

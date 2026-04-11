@@ -1,0 +1,25 @@
+{
+  "title": "Better Homes and Families: Housing Markets and Young Couple Stability in Sweden",
+  "abstract": "I model the relationship between aspects of the housing market influenced by housing policy and couple stability for cohabiting couples in Sweden. Using data on 3,851 cohabiting couples obtained from the Swedish Family Survey of 1992, I examine the effects of housing market characteristics on couple outcomes. I focus on three housing variables, including the affordability of housing, the availability of detached housing, and the profitability of ownership. I link these variables to the transitions from cohabitation to marriage or separation in Sweden. Policy relevant aspects of the housing market are shown to have significant effects on the stability of couples in Sweden. Greater affordability increases couple stability. Intriguingly, greater availability of detached housing significantly weakens couple stability.",
+  "authors": [
+    {
+      "raw": "Lauster, Nathanael T.",
+      "family": "Lauster",
+      "given": "Nathanael T."
+    }
+  ],
+  "authors_text": "Lauster, Nathanael T.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2008,
+  "doi": "10.1111/j.1741-3737.2008.00534.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2008.00534.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2008.00534.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2008.00534.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

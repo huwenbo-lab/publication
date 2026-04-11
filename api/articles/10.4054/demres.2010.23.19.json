@@ -1,0 +1,25 @@
+{
+  "title": "Reproductive value, the stable stage distribution, and the sensitivity of the population growth rate to changes in vital rates",
+  "abstract": "The population growth rate, or intrinsic rate of increase, is the rate of growth that will be achieved by a population with fixed vital rates.The sensitivity of population growth rate to changes in the vital rates can be written in terms of the stable stage or age distribution and the reproductive value distribution.If the vital rate measures the rate of production of one type of individual by another, then the sensitivity of growth rate is proportional to the reproductive value of the destination type and the abundance in the stable stage distribution of the source type.This formal relationship exists in three forms: one for age-classified populations, a second that applies to stage-or age-classified populations, and a third that uses matrix calculus.Each uses a different set of formal demographic techniques; together they provide a relationship that beautifully spans different types of demographic models.",
+  "authors": [
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    }
+  ],
+  "authors_text": "Caswell, Hal",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2010,
+  "doi": "10.4054/demres.2010.23.19",
+  "doi_url": "https://doi.org/10.4054/demres.2010.23.19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2010.23.19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2010.23.19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

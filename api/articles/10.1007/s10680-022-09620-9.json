@@ -1,0 +1,25 @@
+{
+  "title": "Why do Socioeconomic Differences in Women’s Living Standards Converge After Union Dissolution?",
+  "abstract": "AbstractUnion dissolution is a critical event for women’s living standards. Previous work has found that women in high-income unions lose more from union dissolution than women in low-income unions. This study proposes two mechanisms to explain this “convergence” in living standards. The compensation mechanism concerns the ability to compensate the loss of partner earnings with alternative sources of income, whereas the partner independence mechanism concerns how much women stand to lose from dissolution in the first place. To test these mechanisms, the author drew on a unique administrative dataset from the Netherlands, covering women who experienced dissolution within ten years after union formation (N = 57,960). A decomposition analysis showed that convergence was not driven by compensation: women from all income groups decreased their household size and re-partnered, women from low-income unions increased transfer income, and women from high-income unions increased personal earnings and decreased tax payments. Instead, convergence was driven by partner independence: women from lower-income unions depended relatively less on their partners because they relied more on transfer income prior to dissolution. These results demonstrate how partners’ interdependence moderates the consequences of life events. The welfare state plays a crucial role in this process.",
+  "authors": [
+    {
+      "raw": "Hogendoorn, Bram",
+      "family": "Hogendoorn",
+      "given": "Bram"
+    }
+  ],
+  "authors_text": "Hogendoorn, Bram",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09620-9",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09620-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09620-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09620-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

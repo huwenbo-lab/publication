@@ -1,0 +1,30 @@
+{
+  "title": "Lifetime Socioeconomic Status, Historical Context, and Genetic Inheritance in Shaping Body Mass in Middle and Late Adulthood",
+  "abstract": "This study demonstrates that body mass in middle and late adulthood is a consequence of the complex interplay among individuals' genes, lifetime socioeconomic experiences, and the historical context in which they live. Drawing on approximately 9,000 genetic samples from the Health and Retirement Study, we first investigate how socioeconomic status (SES) over the life course moderates the impact of 32 established obesity-related genetic variants on body mass index (BMI) in middle and late adulthood. We then consider differences across birth cohorts in the genetic influence on BMI, and cohort variations in the moderating effects of life-course SES on the genetic influence. Our analyses suggest that persistently low SES over the life course or downward mobility (e.g., high SES in childhood but low SES in adulthood) amplify the genetic influence on BMI, and persistently high SES or upward mobility (e.g., low SES in childhood but high SES in adulthood) compensate for such influence. For more recent birth cohorts, the genetic influence on BMI becomes stronger, but the moderating effects of lifetime SES on the genetic influence are weaker compared to earlier cohorts. We discuss these findings in light of social changes during the obesity epidemic in the United States.",
+  "authors": [
+    {
+      "raw": "Liu, Hexuan",
+      "family": "Liu",
+      "given": "Hexuan"
+    },
+    {
+      "raw": "Guo, Guang",
+      "family": "Guo",
+      "given": "Guang"
+    }
+  ],
+  "authors_text": "Liu, Hexuan; Guo, Guang",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1177/0003122415590627",
+  "doi_url": "https://doi.org/10.1177/0003122415590627",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122415590627",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122415590627.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

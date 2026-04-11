@@ -1,0 +1,25 @@
+{
+  "title": "Retirement timing and grandparenthood in Sweden: Evidence from population-based register data",
+  "abstract": "OBJECTIVES This study addresses the importance of grandparenthood in relation to retirement timing in Sweden. It extends previous research by assessing a number of grandparental characteristics, such as being a grandparent, a grandparent's age and gender, number of years since the transition to grandparenthood, number of grandchildren, number of grandchild sets, and age of the youngest grandchild, while simultaneously controlling for other central predictors of retirement timing. METHOD The study uses survival analysis on Swedish population register data for cohorts born between 1935 and 1945 over the 1993. 2012 period. RESULTS The results indicate that grandparents have a higher retirement risk than non-grandparents, even after controlling for age and other central predictors of retirement. The results also show that those who have been grandparents for more than two years have a higher risk of retirement; however, there is variation with respect to the age of the grandparent. In addition, grandparents with multiple grandchildren and grandchild sets exhibit an increased risk of retirement. The study does not find strong differences between grandmothers' and grandfathers' retirement timing. CONCLUSION The study finds that grandparents at different life stages have an elevated risk of retirement compared with non-grandparents, but there is also variation among grandparents, and the more complex the family situation, the higher the risk of retirement. CONTRIBUTION The inclusion of grandparenthood enriches the understanding of the complexity of the retirement decision and indicates that this decision is more closely linked to intergenerational family structures than the literature has previously shown.",
+  "authors": [
+    {
+      "raw": "Kridahl, Linda",
+      "family": "Kridahl",
+      "given": "Linda"
+    }
+  ],
+  "authors_text": "Kridahl, Linda",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.31",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

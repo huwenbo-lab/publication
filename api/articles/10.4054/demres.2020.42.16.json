@@ -1,0 +1,25 @@
+{
+  "title": "Patterns of spatial proximity and the timing and spacing of bearing children",
+  "abstract": "BACKGROUND People's demographic decision-making is embedded in regional cultural contexts that include regional patterns of family organization called family systems. Although previous research has shown that family systems explain regional variation in fertility, it has focused mainly on historical or developing societies. Processes of modernization have led to substantial changes in family structures and values and to an overhaul of the traditional family formation system in most developed countries. Therefore, questions arise regarding whether family systems also influence fertility in contemporary developed societies. OBJECTIVE The paper addresses the research question by examining the association between regional patterns of spatial proximity between kin and (1) the age at first birth, (2) the length of the interbirth interval between the first and second child, and (3) the length of the interbirth interval between the second and third child. In this context, the paper controls for changes in the associations occurring with age. DATA AND METHODS The paper derives regional indicators of spatial proximity between kin for 54 regions in nine European countries using the first two waves of the Survey of Health, Ageing and Retirement in Europe (SHARE) (N = 38,484). The paper studies the association between these regional indicators and fertility using individual-level data from the Generations and Gender Survey (GGS) (N = 58,689). The analysis relies on a set of discrete-time hazard models. RESULTS AND CONCLUSIONS The results support the idea that regional patterns of family organization help to explain fertility in contemporary developed societies. However, the results are more complex than expected because the association between spatial proximity and fertility is time-varying. For example, on average, closer proximity to kin increases the likelihood of having a second child during the first three years after the first child is born. Future research needs to replicate the results and investigate the underlying mechanisms more closely to better understand how and when patterns of family organization impact fertility.",
+  "authors": [
+    {
+      "raw": "Moenkediek, Bastian",
+      "family": "Moenkediek",
+      "given": "Bastian"
+    }
+  ],
+  "authors_text": "Moenkediek, Bastian",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.16",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

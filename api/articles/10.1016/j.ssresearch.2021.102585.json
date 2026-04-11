@@ -1,0 +1,30 @@
+{
+  "title": "Gender and race differences in pathways out of in-work poverty in the US",
+  "abstract": "Research on in-work poverty has focused on the probability of being employed while living in an impoverished household, but no studies have investigated pathways of labor market attachment and economic vulnerability following in-work poverty. We use the Panel Study of Income Dynamics (PSID) to establish a typology of employment pathways out of in-work poverty and to estimate differences by gender and race. By using the Sequence Analysis Multistate Model procedure, we identify five distinct pathways characterized by varying degrees of labor market attachment, economic vulnerability, and volatility. White men are most likely exit in-work poverty into stable employment outside of poverty, while Black men and women often experience recurrent spells of in-work poverty. Gender and race differences persist even after controlling for labor market and family demographic characteristics. Our results indicate that workrelated anti-poverty strategies must be coupled with adequately high wages and employment protection legislation to effectively raise working households out of poverty.",
+  "authors": [
+    {
+      "raw": "Struffolino, Emanuela",
+      "family": "Struffolino",
+      "given": "Emanuela"
+    },
+    {
+      "raw": "Van Winkle, Zachary",
+      "family": "Van Winkle",
+      "given": "Zachary"
+    }
+  ],
+  "authors_text": "Struffolino, Emanuela; Van Winkle, Zachary",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102585",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102585",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102585",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102585.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

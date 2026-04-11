@@ -1,0 +1,35 @@
+{
+  "title": "Costa Rican mortality 1950-2013: An evaluation of data quality and trends compared with other countries",
+  "abstract": "BACKGROUND Mortality estimates from various sources suggest that Costa Ricans experience record-high life expectancy at birth in Latin America and higher longevity than the populations of many high-income countries, although there is some uncertainty as to the reliability of those estimates. OBJECTIVE We construct a life table series for Costa Rica to assess the quality of national demographic statistics for the period 1950-2013 and to determine whether reliable mortality estimates can be directly calculated from this data. METHODS We apply the methods from the Human Mortality Database (HMD) to national statistics to construct the Costa Rica life table series without adjusting for data quality. We also validate our results through internal consistency by evaluating the plausibility of the mortality patterns and its change over time and through external consistency by comparing our results with those from other sources. RESULTS Our mortality estimates for Costa Rica tend to be lower than others, especially for the period before 1970. They also produce a suspicious age pattern of mortality, with low adult and old-age mortality relative to the infant and child mortality, casting doubt on the quality of national demographic data. CONCLUSIONS Other organizations have produced mortality estimates for Costa Rica that are higher than our unadjusted estimates, but it is difficult to evaluate the accuracy of the available estimates. CONTRIBUTION This analysis provides a more thorough evaluation of data quality issues regarding Costa Rica mortality than previously available. Unadjusted life tables by sex for 1950-2013 are included as supplemental material, together with the raw data upon which those life tables are based and with links to the detailed methods protocol implemented.",
+  "authors": [
+    {
+      "raw": "Glei, Dana A.",
+      "family": "Glei",
+      "given": "Dana A."
+    },
+    {
+      "raw": "Barbieri, Magali",
+      "family": "Barbieri",
+      "given": "Magali"
+    },
+    {
+      "raw": "Santamaria-Ulloa, Carolina",
+      "family": "Santamaria-Ulloa",
+      "given": "Carolina"
+    }
+  ],
+  "authors_text": "Glei, Dana A.; Barbieri, Magali; Santamaria-Ulloa, Carolina",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.29",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

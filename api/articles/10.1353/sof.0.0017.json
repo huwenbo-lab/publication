@@ -1,0 +1,30 @@
+{
+  "title": "Structural and Individual Covariates of English Language Proficiency",
+  "abstract": "This study evaluates the empirical merits of a multilevel model of English language proficiency among immigrants. The model represents a synthesis of Blau's theory of intergroup relations and the human capital model. Hypotheses derived from the model were tested using multilevel ordinal logistic analysis with individual and aggregate data from the 2000 U.S. Census for members of 20 non-English language groups. The results lent strong support to predictions derived from Blau's theory. As expected, immigrants' English proficiency was affected negatively by group size and segregation, and positively by linguistic heterogeneity and inequality between fluent and poor English speakers of foreign origin. In addition, individual factors also exerted significant effects on English fluency as predicted by the human capital model.",
+  "authors": [
+    {
+      "raw": "Hwang, S.-S.",
+      "family": "Hwang",
+      "given": "S.-S."
+    },
+    {
+      "raw": "Xi, J.",
+      "family": "Xi",
+      "given": "J."
+    }
+  ],
+  "authors_text": "Hwang, S.-S.; Xi, J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2008,
+  "doi": "10.1353/sof.0.0017",
+  "doi_url": "https://doi.org/10.1353/sof.0.0017",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0017",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0017.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

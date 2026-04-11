@@ -1,0 +1,35 @@
+{
+  "title": "Workplace Compensation Practices and the Rise in Benefit Inequality",
+  "abstract": "This article aims to explain why inequality in fringe benefits has grown faster than wage inequality over the past four decades. We depart from previous income inequality research by studying benefits in addition to wages, but also by focusing on workplaces as the main drivers of benefit determination. We advance the argument that benefits determination is more organizationally embedded than wages mainly because workplaces have greater ability and incentive to alter benefits. Consequently, workplace compensation practices, including type of employment relations, are more important for benefits than for wages. Longitudinal linked employer-job administrative data on wages and voluntary benefits costs from the Employer Costs for Employee Compensation (ECEC) allow us to test these arguments, as well as examine why benefit inequality has dramatically increased. Results from variance decomposition reveal that between- and within-establishment inequality is higher in benefits than in wages, indicating that workplaces affect benefits more than wages. Regression results show that, as expected, establishment-level pay-settings affect benefits more than wages, and the decline in labor unions along with the liberalization of employment practices partly account for why benefit inequality increased at more than twice the rate of wage inequality.",
+  "authors": [
+    {
+      "raw": "Kristal, Tali",
+      "family": "Kristal",
+      "given": "Tali"
+    },
+    {
+      "raw": "Cohen, Yinon",
+      "family": "Cohen",
+      "given": "Yinon"
+    },
+    {
+      "raw": "Navot, Edo",
+      "family": "Navot",
+      "given": "Edo"
+    }
+  ],
+  "authors_text": "Kristal, Tali; Cohen, Yinon; Navot, Edo",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1177/0003122420912505",
+  "doi_url": "https://doi.org/10.1177/0003122420912505",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122420912505",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122420912505.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

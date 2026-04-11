@@ -1,0 +1,35 @@
+{
+  "title": "Gini coefficient as a life table function",
+  "abstract": "This paper presents a toolkit for measuring and analyzing inter-individual inequality in length of life by Gini coefficient. Gini coefficient and four other inequality measures are defined on the length-of-life distribution. Properties of these measure",
+  "authors": [
+    {
+      "raw": "Shkolnikov, Vladimir",
+      "family": "Shkolnikov",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Andreev, Evgeny M.",
+      "family": "Andreev",
+      "given": "Evgeny M."
+    },
+    {
+      "raw": "Begun, Alexander",
+      "family": "Begun",
+      "given": "Alexander"
+    }
+  ],
+  "authors_text": "Shkolnikov, Vladimir; Andreev, Evgeny M.; Begun, Alexander",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2003,
+  "doi": "10.4054/demres.2003.8.11",
+  "doi_url": "https://doi.org/10.4054/demres.2003.8.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2003.8.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2003.8.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

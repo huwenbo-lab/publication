@@ -1,0 +1,30 @@
+{
+  "title": "Choice Set Formation in Residential Mobility and Its Implications for Segregation Dynamics",
+  "abstract": "We develop and estimate a statistical model of neighborhood choice that draws on insights from cognitive science and decision theory as well as qualitative studies of housing search. The model allows for a sequential decision process and the possibility that people consider a small and selective subset of all potential destinations. When combined with data from the Los Angeles Family and Neighborhood Survey, our model reveals that affordability constraints and households' tendency toward short-distance moves lead blacks and Hispanics to have racially stratified choice sets in which their own group is disproportionately represented. We use an agent-based model to assess how racially stratified choice sets contribute to segregation outcomes. Our results show that cognitive decision strategies can amplify patterns of segregation and inequality.",
+  "authors": [
+    {
+      "raw": "Bruch, Elizabeth",
+      "family": "Bruch",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Swait, Joffre",
+      "family": "Swait",
+      "given": "Joffre"
+    }
+  ],
+  "authors_text": "Bruch, Elizabeth; Swait, Joffre",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00810-5",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00810-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00810-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00810-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

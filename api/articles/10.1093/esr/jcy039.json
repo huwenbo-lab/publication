@@ -1,0 +1,45 @@
+{
+  "title": "Why Are Employers Put Off by Long Spells of Unemployment?",
+  "abstract": "Recent evidence from large-scale field experiments has shown that employers use job candidates' unemployment duration as a sorting criterion. In the present study, we investigate what underlies this pattern. To this end, we conduct a survey experiment in which employers make hiring decisions concerning fictitious job candidates who have experienced spells of unemployment of different length. In addition, candidates are rated on several statements that are central to four signals often associated with unemployment: (i) a signal of trainability, (ii) a signal of other fixed skills, (iii) a signal of skill loss, and (iv) a signal of negative evaluation by other employers. We use these ratings to estimate a multiple mediation model, in which the effect of the duration of unemployment on hiring intentions is mediated by the four signals. Our findings indicate that longer unemployment spells are mainly perceived by employers as a signal of lower motivation and, as a result, the long-term unemployed (LTU) have lower chances to be hired or even be invited to a job interview. Understanding the reasons why employers are reluctant to hire the LTU is crucial to devise proper activation measures to facilitate their re-employment. Our study is a contribution in this direction.",
+  "authors": [
+    {
+      "raw": "Van Belle, Eva",
+      "family": "Van Belle",
+      "given": "Eva"
+    },
+    {
+      "raw": "Di Stasio, Valentina",
+      "family": "Di Stasio",
+      "given": "Valentina"
+    },
+    {
+      "raw": "Caers, Ralf",
+      "family": "Caers",
+      "given": "Ralf"
+    },
+    {
+      "raw": "De Couck, Marijke",
+      "family": "De Couck",
+      "given": "Marijke"
+    },
+    {
+      "raw": "Baert, Stijn",
+      "family": "Baert",
+      "given": "Stijn"
+    }
+  ],
+  "authors_text": "Van Belle, Eva; Di Stasio, Valentina; Caers, Ralf; De Couck, Marijke; Baert, Stijn",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy039",
+  "doi_url": "https://doi.org/10.1093/esr/jcy039",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy039",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy039.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

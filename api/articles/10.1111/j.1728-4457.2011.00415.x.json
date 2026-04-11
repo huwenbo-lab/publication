@@ -1,0 +1,25 @@
+{
+  "title": "Understanding Global Demographic Convergence since 1950",
+  "abstract": "Is the world converging to a single demographic regime? Or are groups of countries following distinct paths through the process of demographic transition? The answers to these questions are pivotal to our understanding of the nature and mechanisms of population change. They are also key elements for deriving the assumptions that should underlie population projections. There has been considerable interest in global demographic convergence during the last decade, with most work drawing on statistical methods that are widely used in economics. This article takes a different approach to most of the existing literature, examining the fertility and mortality trajectories over time that various appropriately defined world regions have followed. The data suggest that five distinct regional histories can be traced in mortality, and three in fertility, and that global convergence has moved more rapidly and unambiguously in fertility than in mortality.",
+  "authors": [
+    {
+      "raw": "Wilson, Chris",
+      "family": "Wilson",
+      "given": "Chris"
+    }
+  ],
+  "authors_text": "Wilson, Chris",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2011,
+  "doi": "10.1111/j.1728-4457.2011.00415.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2011.00415.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2011.00415.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2011.00415.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "The effects of wealth, occupation, and immigration on epidemic mortality from selected infectious diseases and epidemics in Holyoke township, Massachusetts, 1850-1912",
+  "abstract": "BACKGROUND Previous research suggests individual-level socioeconomic circumstances and resources may be especially salient influences on mortality within the broader context of social, economic, and environmental factors affecting urban 19th century mortality. OBJECTIVE We sought to test individual-level socioeconomic effects on mortality from infectious and often epidemic diseases in the context of an emerging New England industrial mill town. METHOD We analyze mortality data from comprehensive death records and a sample of death records linked to census data, for an emergent industrial New England town, to analyze infectious mortality and model socioeconomic effects using Poisson rate regression. RESULTS Despite our expectations that individual resources might be especially salient in the harsh mortality setting of a crowded, rapidly growing, emergent, industrial mill town with high levels of impoverishment, infectious mortality was not significantly lowered by individual socio-economic status or resources.",
+  "authors": [
+    {
+      "raw": "Leonard, Susan Hautaniemi",
+      "family": "Leonard",
+      "given": "Susan Hautaniemi"
+    },
+    {
+      "raw": "Robinson, Christopher",
+      "family": "Robinson",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Swedlund, Alan C.",
+      "family": "Swedlund",
+      "given": "Alan C."
+    },
+    {
+      "raw": "Anderton, Douglas L.",
+      "family": "Anderton",
+      "given": "Douglas L."
+    }
+  ],
+  "authors_text": "Leonard, Susan Hautaniemi; Robinson, Christopher; Swedlund, Alan C.; Anderton, Douglas L.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.36",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.36",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.36",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.36.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Modeling the fertility impact of the proximate determinants: Time for a tune-up",
+  "abstract": "BACKGROUND Many analyses of the determinants of fertility make a distinction between proximate and background determinants. The former include behavioral factors such as the use of contraception or abortion through which the background determinants (e.g., social and economic variables) affect fertility. These relationships were first recognized by Davis and Blake (1956), who defined a large set of intermediate fertility variables. In the late 1970s Bongaarts (1978) identified a smaller set of proximate determinants and developed a relatively simple model to quantify their fertility effects. OBJECTIVE This paper fine-tunes the Bongaarts proximate determinants model in light of new evidence, research, and data that have become available over the past three decades. Reproductive behavior has changed substantially and certain original simplifying assumptions have become less accurate over time. In addition, new research allows some features of the model to be improved. METHOD Six adjustments to the model are proposed and implemented. The revised model is compared with the original version and with a revision proposed by Stover (1998). RESULT Revised estimates of the indexes of the proximate determinants and total fecundity are provided for the most recent DHS surveys in 36 developing countries. The revised model provides a better fit than do earlier models. CONCLUSION The proximate determinants model, as originally conceived, remains conceptually sound. However, theoretical and empirical evidence accumulated over the past three decades suggests a number of ways to fine-tune the model to make it more robust and accurate in contemporary populations. The resulting revised model provides an improved assessment of the roles of the proximate determinants in national and subnational populations.",
+  "authors": [
+    {
+      "raw": "Bongaarts, John",
+      "family": "Bongaarts",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Bongaarts, John",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.19",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

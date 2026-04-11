@@ -1,0 +1,30 @@
+{
+  "title": "Decomposing sibling correlations: a new measure of group-specific intergenerational persistence in socioeconomic outcomes",
+  "abstract": "We introduce a novel approach for decomposing sibling correlations in socioeconomic attainment into group-specific components. These groups are defined at the family level, based on factors such as parental income, marital status, race, or the gender composition of siblings. Unlike existing studies that compare sibling correlations across different groups, our method accounts for differences in average outcomes between groups in the overall outcome distribution. This approach results in a group-specific measure of persistence in the overall outcome distribution, contrasting with the 'within-group' measure commonly used in the literature. Additionally, we propose a straightforward 'counterfactual' framework to identify which groups have a greater impact on trends or country differences in sibling correlations. We present three examples that demonstrate the utility of our method.",
+  "authors": [
+    {
+      "raw": "Karlson, Kristian Bernt",
+      "family": "Karlson",
+      "given": "Kristian Bernt"
+    },
+    {
+      "raw": "In, Jung",
+      "family": "In",
+      "given": "Jung"
+    }
+  ],
+  "authors_text": "Karlson, Kristian Bernt; In, Jung",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcae035",
+  "doi_url": "https://doi.org/10.1093/esr/jcae035",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae035",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae035.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

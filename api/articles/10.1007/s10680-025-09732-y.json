@@ -1,0 +1,30 @@
+{
+  "title": "Joint Physical Custody in Europe: A Comparative Exploration",
+  "abstract": "Joint physical custody (JPC)-where children alternate between parental households after a separation-has been found to be on a rise in a diversity of European countries. However, variations in sampling, data and operationalization consistently complicate the comparative mapping of JPC prevalence and its correlates. In this respect, the 2021 EU-SILC ad hoc module on Living arrangements and conditions of children in separated and blended families provides a unique opportunity to study JPC prevalence across Europe. The current study aims to validate and expand on existing research by employing the module's second release, concerning children in households across 21 countries. Our descriptive overview of shared versus sole and main residence supports and adds to the previously noted diversity of JPC in Europe. We further note a similar father- to mother-residence ratio in countries with high and low incidence of JPC, warranting consideration of how social and legal norms regulate the granting of custody to mothers versus fathers in various country settings. Subsequently, we analyse the association of child-, parent-/household- and country-level characteristics with JPC using a three-level linear mixed model. The results underline the importance of a multi-level approach to understanding the correlates of JPC and prompt the elaboration of country comparisons using the EU-SILC module.",
+  "authors": [
+    {
+      "raw": "Claessens, Elke",
+      "family": "Claessens",
+      "given": "Elke"
+    },
+    {
+      "raw": "Mortelmans, Dimitri",
+      "family": "Mortelmans",
+      "given": "Dimitri"
+    }
+  ],
+  "authors_text": "Claessens, Elke; Mortelmans, Dimitri",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09732-y",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09732-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09732-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09732-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

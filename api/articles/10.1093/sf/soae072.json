@@ -1,0 +1,35 @@
+{
+  "title": "Cross-National Social and Environmental Influences on Life Satisfaction",
+  "abstract": "Scholars and policymakers are increasingly interested in subjective well-being as a development indicator. However, sociological research on this topic is quite limited, as is research that considers the effects of the biophysical environment on subjective well-being. In this study, we address these gaps in the literature by examining social and environmental influences on life satisfaction, a core component of subjective well-being. We employed multi-level regression analysis using data from over 97,000 individuals living across ninety-six countries. The results demonstrated significant effects of several individual-level variables on life satisfaction, in particular respondents' satisfaction with their local air and water quality and the efforts being made to preserve the environment in their country, as well as numerous social variables, such as income, gender, and employment status. Among the country-level variables, national gross domestic product per capita was positively associated with higher individual life satisfaction. Income inequality had a negative effect on life satisfaction, while wealth inequality, on the other hand, had a positive effect, a surprising finding we contemplate in some detail. The carbon intensity of a nation's economy as well as the proportion of a nation's land in protected areas only influenced life satisfaction when not controlling for the other variables. We conclude by discussing the implications of this research for sustainable development, including the promise of life satisfaction and other measures of subjective well-being as sustainable development indicators.",
+  "authors": [
+    {
+      "raw": "Suchyta, Mark",
+      "family": "Suchyta",
+      "given": "Mark"
+    },
+    {
+      "raw": "Dietz, Thomas",
+      "family": "Dietz",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Frank, Kenneth A.",
+      "family": "Frank",
+      "given": "Kenneth A."
+    }
+  ],
+  "authors_text": "Suchyta, Mark; Dietz, Thomas; Frank, Kenneth A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae072",
+  "doi_url": "https://doi.org/10.1093/sf/soae072",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae072",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae072.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Parental educational similarity and inequality implications for infant health in Chile: Evidence from administrative records, 1990-2015",
+  "abstract": "This study expands existing scholarship on the relationship between parental educational similarity and infant health using rich administrative data from Chile covering births that occurred between 1990 and 2015. We test the relationship between parental educational similarity (homogamy) or dissimilarity (heterogamy) and two measures of infant health, namely low birth weight (LBW) and preterm birth (PB). We show that parental educational homogamy is associated with a reduced probability of low birth weight and preterm birth - particularly at the high end of the educational distribution - and the observed association is only partly driven by selection into homogamous couples, as demonstrated by complementary quasi-experimental analyses conducted on a subsample of matched step-siblings from same mothers but different fathers. We further show that couples where women outrank men in educational attainment (hypogamy) exhibit worse birth outcomes relative to their homogamous and hypergamous counterparts. Municipality-level analyses merging external information on fe-male labor force participation (FLFP) prior to childbirth reveal that the association between hypogamy and children's outcomes is increasingly negative as FLFP increases, highlighting a strong work-life balance tension for educated women who are actively engaged in the labor force. Insights from this study contribute to a better understanding of the inequality debate surrounding the intergenerational transmission of advantage and disadvantage - a topical issue in a country that has recently joined the rank of the world's wealthiest nations yet maintains extreme levels of socioeconomic inequality.",
+  "authors": [
+    {
+      "raw": "Abufhele, Alejandra",
+      "family": "Abufhele",
+      "given": "Alejandra"
+    },
+    {
+      "raw": "Pesando, Luca Maria",
+      "family": "Pesando",
+      "given": "Luca Maria"
+    },
+    {
+      "raw": "Casro, T. Andres F.",
+      "family": "Casro",
+      "given": "T. Andres F."
+    }
+  ],
+  "authors_text": "Abufhele, Alejandra; Pesando, Luca Maria; Casro, T. Andres F.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100736",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100736",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100736",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100736.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

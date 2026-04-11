@@ -1,0 +1,40 @@
+{
+  "title": "The Role of Internalizing and Externalizing Problems in Adolescence for Adult Educational Attainment: Evidence from Sibling Comparisons using Data from the Young HUNT Study",
+  "abstract": "To what extent are adolescent mental health problems negatively related to educational attainment? If so, do these relationships primarily reflect childhood socio-economic circumstances that lower both mental health and educational attainment or do individuals' mental health vulnerabilities impede educational potential regardless of social origin? Using a population-based Norwegian health survey linked to administrative registry data, this study investigates the impact of adolescents' internalizing and externalizing problems on educational attainment in adulthood (N = 8,113). Our results show consistent negative relationships between externalizing problems and educational outcomes, but for internalizing problems we find no associations net of other mental health problems. The observed associations for externalizing problems are robust to adjustment for sibling fixed effects, which indicates that the associations between mental health problems and educational attainment are generally not confounded by stable family-level characteristics shared by siblings. This finding lends most support to a 'social selection' explanation of the link between mental health problems and educational disparities-where individual variation in adolescent mental health leads to divergent educational trajectories irrespective of children's family background. We conclude that within-family variation in health is an important contributor to educational inequalities and socio-economic life chances.",
+  "authors": [
+    {
+      "raw": "Evensen, Miriam",
+      "family": "Evensen",
+      "given": "Miriam"
+    },
+    {
+      "raw": "Lyngstad, Torkild Hovde",
+      "family": "Lyngstad",
+      "given": "Torkild Hovde"
+    },
+    {
+      "raw": "Melkevik, Ole",
+      "family": "Melkevik",
+      "given": "Ole"
+    },
+    {
+      "raw": "Mykletun, Arnstein",
+      "family": "Mykletun",
+      "given": "Arnstein"
+    }
+  ],
+  "authors_text": "Evensen, Miriam; Lyngstad, Torkild Hovde; Melkevik, Ole; Mykletun, Arnstein",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcw001",
+  "doi_url": "https://doi.org/10.1093/esr/jcw001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcw001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcw001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

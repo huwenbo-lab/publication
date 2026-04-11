@@ -1,0 +1,40 @@
+{
+  "title": "The Handbook of Social Sciences in Health and Medicine",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "Matteo, Rebecca A.",
+      "family": "Matteo",
+      "given": "Rebecca A."
+    },
+    {
+      "raw": "Albrecht, Gary L.",
+      "family": "Albrecht",
+      "given": "Gary L."
+    },
+    {
+      "raw": "Fitzpatrick, Ray",
+      "family": "Fitzpatrick",
+      "given": "Ray"
+    },
+    {
+      "raw": "Scrimshaw, Susan C.",
+      "family": "Scrimshaw",
+      "given": "Susan C."
+    }
+  ],
+  "authors_text": "Matteo, Rebecca A.; Albrecht, Gary L.; Fitzpatrick, Ray; Scrimshaw, Susan C.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2000,
+  "doi": "10.2307/2675523",
+  "doi_url": "https://doi.org/10.2307/2675523",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2675523",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2675523.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

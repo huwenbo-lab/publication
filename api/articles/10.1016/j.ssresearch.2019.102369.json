@@ -1,0 +1,25 @@
+{
+  "title": "The cross-country and cross-time measurement invariance of positive and negative affect scales: Evidence from European Social Survey",
+  "abstract": "Survey-based measures of subjective well-being are increasingly often analyzed cross-culturally. However, international comparison of these measures requires measurement invariance. Therefore, the major goal of this study is to investigate the cross-country and cross-time comparability of the 4-item positive and 7-item negative affect scales used in European Social Survey Round 3 (2006) and Round 6 (2012). This study applies both the traditional exact and the more recent Bayesian approximate approach to assess whether the affect scales are measurement invariant. The approximate approach detected several non-invariant items that are problematic for cross-national comparison and should be dropped from the scales. Consequently, measurement invariance was established in all countries over the two rounds for the reduced scales, allowing researchers to meaningfully compare their latent mean scores and the relationships with other theoretical constructs of interest. Thus, the study highlights the advantages of using multiple indicators and the necessity of measurement invariance testing in subjective well-being research.",
+  "authors": [
+    {
+      "raw": "Raudenska, Petra",
+      "family": "Raudenska",
+      "given": "Petra"
+    }
+  ],
+  "authors_text": "Raudenska, Petra",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102369",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102369",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102369",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102369.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

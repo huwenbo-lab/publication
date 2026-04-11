@@ -1,0 +1,25 @@
+{
+  "title": "Time cannot heal all wounds: Wealth trajectories of divorcees and the married",
+  "abstract": "Objective To explore disparities in wealth trajectories between divorcees and continuously married individuals including moderation effects of remarriage and gender. Background Amid concerns of long-term economic consequences of divorce, research illustrated that ever-divorced individuals hold less wealth than the married preretirement. However, it remains unclear whether this is a direct result of immediate, lasting divorce-related wealth penalties or whether divorce also leads to long-term wealth accumulation disparities. Method Using personal-level, longitudinal wealth data from the Socio-Economic Panel Study, I applied propensity score and exact matching with random-effects growth models to compare wealth trajectories of divorcees and the married. The matching allowed (1) married controls to be assigned a theoretical divorce date for ease of comparability to the treatment group (i.e., divorcees) and (2) the account of a wide range of baseline differences. Results Wealth differences between ever-divorce and continuously married individuals stem from lasting disadvantage-particularly for housing wealth-generated immediately around divorce rather than a scarring of divorcees' wealth accumulation. Remarriage but particularly gender is relevant moderators. Whereas remarriage moderates net wealth trajectories through housing wealth, gender moderates trajectories through financial wealth. Conclusion Divorce importantly contributes to wealth stratification. Mitigation of divorce-related wealth penalties for both men and women needs to focus on immediate, but lasting costs of divorce particularly regarding homeownership.",
+  "authors": [
+    {
+      "raw": "Kapelle, Nicole",
+      "family": "Kapelle",
+      "given": "Nicole"
+    }
+  ],
+  "authors_text": "Kapelle, Nicole",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12824",
+  "doi_url": "https://doi.org/10.1111/jomf.12824",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12824",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12824.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Intergenerational mobility, intergenerational effects, sibling correlations, and equality of opportunity: A comparison of four approaches",
+  "abstract": "This paper presents and discusses four different approaches to the study of how individuals' income and education during adulthood are related to their family background. The most well-known approach, intergenerational mobility, describes how parents' and offspring's income or education are related to each other. The intergenerational-effect literature addresses the question how an intervention that changes parental income or education causally affects their children's outcome. The sibling-correlation approach estimates the share of total inequality that is attributed to factors shared by siblings. This share is generally substantially higher than what is revealed by intergenerational mobility estimates. Finally, the equality-of-opportunity approach is looking for a set of factors, in the family background and otherwise, that are important for children's outcomes and that children cannot be held accountable for. We argue that all four approaches are most informative and that recent research has provided insightful results. However, by comparing results from the different approaches, it is possible to paint a more nuanced picture of the role of family background. Thus, we recommend that scholars working in the four subfields pay more attention to each other's research.",
+  "authors": [
+    {
+      "raw": "Bjorklund, Anders",
+      "family": "Bjorklund",
+      "given": "Anders"
+    },
+    {
+      "raw": "Jantti, Markus",
+      "family": "Jantti",
+      "given": "Markus"
+    }
+  ],
+  "authors_text": "Bjorklund, Anders; Jantti, Markus",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100455",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100455",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100455",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100455.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

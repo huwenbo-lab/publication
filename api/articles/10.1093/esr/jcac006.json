@@ -1,0 +1,30 @@
+{
+  "title": "What Drives Anti-Immigrant Sentiments Online? A Novel Approach Using Twitter",
+  "abstract": "Most studies use survey data to study people's prejudiced views. In a digitally connected world, research is needed on out-group sentiments expressed online. In this study, we show how one can elaborate on existing sociological theories (i.e. group threat theory, contact theory) to test whether anti-immigrant sentiments expressed on Twitter are related to sociological conditions. We introduce and illustrate a new method of collecting data on online sentiments, creating a panel of 28,000 Twitter users in 39 regions in the United Kingdom. We apply automated text analysis to quantify anti-immigrant sentiments of 500,000 tweets over a 1-year period. In line with group threat theory, we find that people tweet more negatively about immigrants in periods following more salient coverage of immigration in the news. We find this association both for national news coverage, and for the salience of immigration in the personalized set of outlets people follow on Twitter. In support of contact theory, we find evidence to suggest that Twitter users living in areas with more non-western immigrants, and those who follow a more ethnically diverse group of people, tweet less negatively about immigrants.",
+  "authors": [
+    {
+      "raw": "Menshikova, Anastasia",
+      "family": "Menshikova",
+      "given": "Anastasia"
+    },
+    {
+      "raw": "van Tubergen, Frank",
+      "family": "van Tubergen",
+      "given": "Frank"
+    }
+  ],
+  "authors_text": "Menshikova, Anastasia; van Tubergen, Frank",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcac006",
+  "doi_url": "https://doi.org/10.1093/esr/jcac006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Birth Spacing and Health and Socioeconomic Outcomes Across the Life Course: Evidence From the Utah Population Database",
+  "abstract": "The relationship between birth interval length and child outcomes has received increased attention in recent years, but few studies have examined offspring outcomes across the life course in North America. We use data from the Utah Population Database to examine the relationship between birth intervals and short- and long-term outcomes: preterm birth, low birth weight (LBW), infant mortality, college degree attainment, occupational status, and adult mortality. Using linear regression, linear probability models, and survival analysis, we compare results from models with and without sibling comparisons. Children born after a birth interval of 9-12 months have a higher probability of LBW, preterm birth, and infant mortality both with and without sibling comparisons; longer intervals are associated with a lower probability of these outcomes. Short intervals before the birth of the next youngest sibling are also associated with LBW, preterm birth, and infant mortality both with and without sibling comparisons. This pattern raises concerns that the sibling comparison models do not fully adjust for within-family factors predicting both spacing and perinatal outcomes. In sibling comparison analyses considering long-term outcomes, not even the very shortest birth intervals are negatively associated with educational or occupational outcomes or with long-term mortality. These findings suggest that extremely short birth intervals may increase the probability of poor perinatal outcomes but that any such disadvantages disappear over the extended life course.",
+  "authors": [
+    {
+      "raw": "Barclay, Kieron",
+      "family": "Barclay",
+      "given": "Kieron"
+    },
+    {
+      "raw": "Smith, Ken R.",
+      "family": "Smith",
+      "given": "Ken R."
+    }
+  ],
+  "authors_text": "Barclay, Kieron; Smith, Ken R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10015020",
+  "doi_url": "https://doi.org/10.1215/00703370-10015020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10015020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10015020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Close, But No Cigar: The Bimodal Rewards to Prize-Seeking",
+  "abstract": "This article examines the economic effects of prizes with implications for the diversity of market positions, especially in cultural fields. Many prizes have three notable features that together yield an emergent reward structure: (1) consumers treat prizes as judgment devices when making purchase decisions, (2) prizes introduce sharp discontinuities between winners and also-rans, and (3) appealing to prize juries requires costly sacrifices of mass audience appeal. When all three conditions obtain, winning a prize is valuable, but seeking it is costly, so trying and failing yields the worst outcome-a logic we characterize as a Tullock lottery. We test the model with analyses of Oscar nominations and Hollywood films from 1985 through 2009. We create an innovative measure of prize-seeking, or Oscar appeal, on the basis of similarity to recent nominees in terms of such things as genre, plot keywords, and release date. We then show that Oscar appeal has no effect on profitability. However, this zero-order relationship conceals that returns to strong Oscar appeals are bimodal, with super-normal returns for nominees and large losses for snubs. We then argue that the effect of judgment devices on fields depends on how they structure and refract information.",
+  "authors": [
+    {
+      "raw": "Rossman, Gabriel",
+      "family": "Rossman",
+      "given": "Gabriel"
+    },
+    {
+      "raw": "Schilke, Oliver",
+      "family": "Schilke",
+      "given": "Oliver"
+    }
+  ],
+  "authors_text": "Rossman, Gabriel; Schilke, Oliver",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122413516342",
+  "doi_url": "https://doi.org/10.1177/0003122413516342",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122413516342",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122413516342.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

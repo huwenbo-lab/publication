@@ -1,0 +1,40 @@
+{
+  "title": "Trends in Income Insecurity Among US Children, 1984-2010",
+  "abstract": "Has income insecurity increased among U.S. children with the emergence of an employment-based safety net and the polarization of labor markets and family structure? We study the trend in insecurity from 1984-2010 by analyzing fluctuations in children's monthly family incomes in the Survey of Income and Program Participation. Going beyond earlier research on income volatility, we examine income insecurity more directly by analyzing income gains and losses separately and by relating them to changes in family composition and employment. The analysis provides new evidence of increased income insecurity by showing that large income losses increased more than large income gains for low-income children. Nearly one-half the increase in extreme income losses is related to trends in single parenthood and parental employment. Large income losses proliferated with the increased incidence of very low incomes (less than $150 per month). Extreme income losses and very low monthly incomes became more common particularly for U.S. children of nonworking single parents from the mid-1990s.",
+  "authors": [
+    {
+      "raw": "Western, Bruce",
+      "family": "Western",
+      "given": "Bruce"
+    },
+    {
+      "raw": "Bloome, Deirdre",
+      "family": "Bloome",
+      "given": "Deirdre"
+    },
+    {
+      "raw": "Sosnaud, Benjamin",
+      "family": "Sosnaud",
+      "given": "Benjamin"
+    },
+    {
+      "raw": "Tach, Laura M.",
+      "family": "Tach",
+      "given": "Laura M."
+    }
+  ],
+  "authors_text": "Western, Bruce; Bloome, Deirdre; Sosnaud, Benjamin; Tach, Laura M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0463-0",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0463-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0463-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0463-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

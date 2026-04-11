@@ -1,0 +1,30 @@
+{
+  "title": "Managing the Boundaries of Taste: Culture, Valuation, and Computational Social Science",
+  "abstract": "The proliferation of cultural objects, such as music, books, film, and websites, has created a new problem: How do consumers determine the value of cultural objects in an age of information glut? Crowd-sourcing-paralleling word-of-mouth recommendations-has taken center stage, yet expert opinion has also assumed renewed importance. Prior work on the valuation of artworks and other cultural artifacts identifies ways critics establish and maintain classificatory boundaries, such as genre. We extend this research by offering a theoretical approach emphasizing the dynamics of critics' valuation and classification. Empirically, this analysis turns to Pitchfork.com, an influential music review website, to examine the relationship between classification and valuation. Using topic models of fourteen years of Pitchfork.com album reviews (n = 14,495), we model the dynamics of valuation through genre and additional factors predictive of positive reviews and cultural consecration. We use gold-record awards to study the relationship between valuation processes and commercial outcomes. Conclusions highlight the role of professional critics, alongside crowd-sourcing and other forms of criticism, in the dynamic process of valuation and encourage the continued exploration of fruitful ways to connect computational and more canonical ways of conducting sociological research.",
+  "authors": [
+    {
+      "raw": "Light, Ryan",
+      "family": "Light",
+      "given": "Ryan"
+    },
+    {
+      "raw": "Odden, Colin",
+      "family": "Odden",
+      "given": "Colin"
+    }
+  ],
+  "authors_text": "Light, Ryan; Odden, Colin",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox055",
+  "doi_url": "https://doi.org/10.1093/sf/sox055",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox055",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox055.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

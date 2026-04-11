@@ -1,0 +1,30 @@
+{
+  "title": "Feminicide as a determinant of Mexican female life expectancy in the 21st century",
+  "abstract": "BACKGROUND Violence in Latin America has intensified in recent decades, with Mexico facing rising homicide rates linked to drug-related conflict. While demographic studies have assessed its impact on mortality, the gender-specific effects are underexplored. In this context, women experience heightened vulnerability due to systemic gender inequality. Feminicide, the most extreme form of gender-based violence, is underreported and underanalyzed, despite its growing impact on female mortality. OBJECTIVE We develop an operational definition of feminicide to properly quantify the effect of gender-based violence on women's survivorship in Mexico. We also seek to estimate the potential gains in life expectancy if feminicides were eliminated, revealing how structural violence shapes female mortality associated with recent events related to the so-called War on Drugs. METHODS We use state-level mortality data from INEGI, demographic estimates from CONAPO, and violence records from CONAVIM to define and measure the impact of feminicides on female life expectancy in Mexico. Focusing on women aged 15-64, we include major homicides and home-based deaths where intentionality is assumed. We calculate cause-deleted life tables and multiple decrement life tables for the period 2000-2019 to verify the distribution of deaths and to estimate the potential gain in life expectancy if feminicides were eradicated. RESULTS Feminicide significantly impacts female survival, with deaths concentrated in women aged 20-39, contributing to stagnation in life expectancy. In a counterfactual scenario where gender-based violence is eliminated and all other causes of death remain, women's life expectancy at birth increases by up to 5 years. CONCLUSIONS Homicide violence affects both men and women, but gender-based killings have put Mexican women in everyday danger. Public policy can potentially reduce this type of violence and its impact on life expectancy.",
+  "authors": [
+    {
+      "raw": "Diaz-Juarez, Itzel",
+      "family": "Diaz-Juarez",
+      "given": "Itzel"
+    },
+    {
+      "raw": "Garcia-Guerrero, Victor M.",
+      "family": "Garcia-Guerrero",
+      "given": "Victor M."
+    }
+  ],
+  "authors_text": "Diaz-Juarez, Itzel; Garcia-Guerrero, Victor M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.24",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.24",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.24",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.24.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

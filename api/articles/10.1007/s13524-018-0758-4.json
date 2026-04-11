@@ -1,0 +1,25 @@
+{
+  "title": "Early-Life Assets in Oldest-Old Age: Evidence From Primary Care Reform in Early Twentieth Century Sweden",
+  "abstract": "Do early-life effects of investments in public health persist to the oldest-old ages? This article answers this question by using the primary care reform in rural Sweden that between 1890 and 1917 led to the establishment of local health districts, together with openings of hospitals and recruitments of medical personnel, as a natural experiment in early-life environmental conditions. The initiatives undertaken within these districts targeted control of infectious diseases, including various isolation and disinfection measures. This study applies a difference-in-differences method combined with propensity score matching to register-based individual-level data for Sweden from 1968 to 2012 and to multisource, purposely collected data on the reform implementation. Providing pioneering evidence for such a distal relationship (ages 78-95), this study finds that treatment through primary care in the year of birth leads to a significant reduction in all-cause mortality (4 % to 6%) and mortality from cardiovascular diseases (5 % to 6 %) and to an increase in average incomes (2 % to 3 %). The effects are universal and somewhat stronger among individuals from poor socioeconomic backgrounds and at higher baseline levels of disease burden.",
+  "authors": [
+    {
+      "raw": "Lazuka, Volha",
+      "family": "Lazuka",
+      "given": "Volha"
+    }
+  ],
+  "authors_text": "Lazuka, Volha",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-018-0758-4",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0758-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0758-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0758-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Brazil's Missing Infants: Zika Risk Changes Reproductive Behavior",
+  "abstract": "Zika virus epidemics have potential large-scale population effects. Controlled studies of mice and nonhuman primates indicate that Zika affects fecundity, raising concerns about miscarriage in human populations. In regions of Brazil, Zika risk peaked months before residents learned about the epidemic and its relation to congenital anomalies. This spatiotemporal variation supports analysis of both biological effects of Zika infection on fertility and the effects of learning about Zika risk on reproductive behavior. Causal inference techniques used with vital statistics indicate that the epidemic caused reductions in birth cohort size of approximately one-quarter 18 months after Zika infection risk peaked but 10 months after public health messages advocated childbearing delay. The evidence is consistent with small but not statistically detectable biological reductions in fecundity, as well as large strategic changes in reproductive behavior to temporally align childbearing with reduced risk to infant health. The behavioral effects are larger for more-educated and older women, which may reflect facilitated access to information and to family planning services within high-risk, mosquito-infested urban locations as well as perceptions about the opportunity costs of risks to pregnancy and infant survival.",
+  "authors": [
+    {
+      "raw": "Rangel, Marcos A.",
+      "family": "Rangel",
+      "given": "Marcos A."
+    },
+    {
+      "raw": "Nobles, Jenna",
+      "family": "Nobles",
+      "given": "Jenna"
+    },
+    {
+      "raw": "Hamoudi, Amar",
+      "family": "Hamoudi",
+      "given": "Amar"
+    }
+  ],
+  "authors_text": "Rangel, Marcos A.; Nobles, Jenna; Hamoudi, Amar",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00900-9",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00900-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00900-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00900-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

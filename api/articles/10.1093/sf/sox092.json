@@ -1,0 +1,35 @@
+{
+  "title": "Does a Criminal Past Predict Worker Performance? Evidence from One of America's Largest Employers",
+  "abstract": "This paper is one of the first systematic assessments of ex-felons' workplace performance. Using FOIA-requested data from the Department of Defense, we follow 1.3 million ex-offender and non-offender enlistees in the US military from 2002 to 2009. Those with a felony background show no difference in attrition rates due to poor performance compared to those without criminal records. Moreover, exfelons are promoted more quickly and to higher ranks than other enlistees. At the same time, we find that ex-felons are slightly more likely to commit a legal offense in the military system (5 percent of non-felons compared to 6.6 percent of ex-felons). We also find a higher rate of work-related deaths among the ex-felon sample; closer evaluation of limited data suggests this may be driven by ex-felons being assigned more often to combat positions. Overall, our study shows that the military's criminal history screening process can result in successful employment outcomes for exfelons, at least in terms of job mobility and reliability, to the mutual benefit of employer and employee. An important question arising from this analysis is whether the military's whole person review can apply successfully to the civilian sector.",
+  "authors": [
+    {
+      "raw": "Lundquist, Jennifer Hickes",
+      "family": "Lundquist",
+      "given": "Jennifer Hickes"
+    },
+    {
+      "raw": "Pager, Devah",
+      "family": "Pager",
+      "given": "Devah"
+    },
+    {
+      "raw": "Strader, Eiko",
+      "family": "Strader",
+      "given": "Eiko"
+    }
+  ],
+  "authors_text": "Lundquist, Jennifer Hickes; Pager, Devah; Strader, Eiko",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/sox092",
+  "doi_url": "https://doi.org/10.1093/sf/sox092",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox092",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox092.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

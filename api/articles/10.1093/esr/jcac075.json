@@ -1,0 +1,25 @@
+{
+  "title": "Ready or not, here I come: the significance of information about educational success for educational decisions",
+  "abstract": "This study analyses the effect of the Educational Readiness Assessment (ERA)-a scheme that categorizes students in Denmark as either 'ready' or 'not ready' for upper secondary education-on educational decision-making. Because the ERA uses a grade-specific cut-off to determine readiness, it can be used in a fuzzy regression discontinuity design to estimate the causal effect of the ERA on educational decision-making. Inspired by the theory of Relative Risk Aversion (RRA), the study argues that non-service-class students respond to a negative signal by postponing the decision (not) to continue to upper secondary education, while service-class students proceed regardless of receiving a negative signal. Empirical results are mostly consistent with RRA. The policy implications of the results are that students do respond to information regarding the likelihood of educational success, but respond differently depending on their social class position.",
+  "authors": [
+    {
+      "raw": "Larsen, Kira Solveig",
+      "family": "Larsen",
+      "given": "Kira Solveig"
+    }
+  ],
+  "authors_text": "Larsen, Kira Solveig",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac075",
+  "doi_url": "https://doi.org/10.1093/esr/jcac075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

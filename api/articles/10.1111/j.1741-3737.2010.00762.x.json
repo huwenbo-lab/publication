@@ -1,0 +1,30 @@
+{
+  "title": "Homogamy and Intermarriage of Japanese and Japanese Americans With Whites Surrounding World War II",
+  "abstract": "Although some sociologists have suggested that Japanese Americans quickly assimilated into mainstream America, scholars of Japanese America have highlighted the heightened exclusion that the group experienced. This study tracked historical shifts in the exclusion level of Japanese and Japanese Americans in the United States surrounding World War II with homogamy and intermarriage with Whites for the prewar (1930–1940) and resettlement (1946–1966) marriage cohorts. The authors applied log‐linear models to census microsamples (N = 1,590,416) to estimate the odds ratios of homogamy versus intermarriage. The unadjusted odds ratios of Japanese Americans declined between cohorts and appeared to be consistent with the assimilation hypothesis. Once compositional influences and educational pairing patterns were adjusted, however, the odds ratios increased and supported the heightened exclusion hypothesis.",
+  "authors": [
+    {
+      "raw": "Ono, Hiromi",
+      "family": "Ono",
+      "given": "Hiromi"
+    },
+    {
+      "raw": "Berg, Justin",
+      "family": "Berg",
+      "given": "Justin"
+    }
+  ],
+  "authors_text": "Ono, Hiromi; Berg, Justin",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2010,
+  "doi": "10.1111/j.1741-3737.2010.00762.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2010.00762.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2010.00762.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2010.00762.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

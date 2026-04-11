@@ -1,0 +1,25 @@
+{
+  "title": "Technological change, training, and within-firm wage inequality in Germany",
+  "abstract": "Technological change increases the demand for higher skills and fosters wage inequality. Studies on technological change often emphasize the importance of training to adapt workers' skills to technology use and mitigate inequality. However, we know little about firms' training activities and their consequences for inequality in the context of technological change. This article investigates, first, whether firms' decisions to invest in information technology (IT) are associated with skill bias in firms' training activities, whether this is conditional on the job tasks of workers, and, whether the relationship between IT investments and training activities affects the wage gap within firms. Using linked employer-employee data containing detailed information about investments and training, I show that firms' IT investments have a large positive effect on the training participation of high-skilled workers. In contrast, the positive effect on low-skilled workers is smaller, short lasting and conditional on workers job tasks. Additional investigations show that the training of high-skilled workers mediates approximately 5 per cent of the effect of IT investments on wage inequality within firms. In the conclusions, I highlight the broader implications of these findings for the effects of technological change for inequality in training opportunities.",
+  "authors": [
+    {
+      "raw": "Mueller, Christoph",
+      "family": "Mueller",
+      "given": "Christoph"
+    }
+  ],
+  "authors_text": "Mueller, Christoph",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad051",
+  "doi_url": "https://doi.org/10.1093/esr/jcad051",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad051",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad051.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

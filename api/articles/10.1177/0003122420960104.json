@@ -1,0 +1,35 @@
+{
+  "title": "Does Use of Emotion Increase Donations and Volunteers for Nonprofits?",
+  "abstract": "Nonprofits offer services to disadvantaged populations, mobilize collective action, and advocate for civil rights. Conducting this work requires significant resources, raising the question: how do nonprofits succeed in increasing donations and volunteers amid widespread competition for these resources? Much research treats nonprofits as cold, rational entities, focusing on overhead, the price of donations, and efficiency in programming. We argue that nonprofits attract donors and volunteers by connecting to their emotions. We use newly available administrative IRS 990 e-filer data to analyze 90,000 nonprofit missions from 2012 to 2016. Computational text analysis measures the positive or negative affect of each nonprofit's mission statement. We then link the positive and negative sentiment expressed by nonprofits to their donations and volunteers. We differentiate between the institutional fields of nonprofits-for example, arts, education, social welfare-distinguishing nonprofits focused on social bonding from those focused on social problems. We find that expressed positive emotion is often associated with higher donations and volunteers, especially in bonding fields. But for some types of nonprofits, combining positive sentiment with negative sentiment in a mission statement is most effective in producing volunteers. Auxiliary analyses using experimental and longitudinal designs provide converging evidence that emotional language enhances charitable behavior. Understanding the role of emotion can help nonprofit organizations attract and engage volunteers and donors.",
+  "authors": [
+    {
+      "raw": "Paxton, Pamela",
+      "family": "Paxton",
+      "given": "Pamela"
+    },
+    {
+      "raw": "Velasco, Kristopher",
+      "family": "Velasco",
+      "given": "Kristopher"
+    },
+    {
+      "raw": "Ressler, Robert W.",
+      "family": "Ressler",
+      "given": "Robert W."
+    }
+  ],
+  "authors_text": "Paxton, Pamela; Velasco, Kristopher; Ressler, Robert W.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1177/0003122420960104",
+  "doi_url": "https://doi.org/10.1177/0003122420960104",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122420960104",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122420960104.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

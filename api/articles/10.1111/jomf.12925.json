@@ -1,0 +1,35 @@
+{
+  "title": "Unplanned costs and benefits: Gender and spousal spillover effects of retirement on health",
+  "abstract": "ObjectiveOur study assesses how women and men's health indicators are shaped by their spouse's retirement.BackgroundThe retirement process can reshape the health of a retiree, but these effects can also extend onto the health of spouses. Although past research has largely focused on how men's retirement might negatively shape their wife's health outcomes, it is possible that wives' retirement has detrimental effects on their husband's health as well.MethodUsing data from the Health and Retirement Study (HRS), we employ a fuzzy regression discontinuity design to identify the causal effects of spousal retirement on indicators of physical and mental health in married older adults.ResultsOur results suggested that men, not women, experience the most negative spousal spillover effects of retirement on their health outcomes. We found the most support for spillover effects on spouses' physical health outcomes. Additionally, men who are not working when their spouse retires experienced the most negative health effects.ConclusionWomen and men's health is differentially affected by spousal retirement, where men might be the most negatively affected by their spouses' transition in the US context. These results contradict conventional wisdom that undergirds numerous untested assumptions underlying prior research on this significant life transition.",
+  "authors": [
+    {
+      "raw": "Newmyer, Lauren",
+      "family": "Newmyer",
+      "given": "Lauren"
+    },
+    {
+      "raw": "Lowrey, Kendal L.",
+      "family": "Lowrey",
+      "given": "Kendal L."
+    },
+    {
+      "raw": "Levchenko, Yuliana",
+      "family": "Levchenko",
+      "given": "Yuliana"
+    }
+  ],
+  "authors_text": "Newmyer, Lauren; Lowrey, Kendal L.; Levchenko, Yuliana",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2023,
+  "doi": "10.1111/jomf.12925",
+  "doi_url": "https://doi.org/10.1111/jomf.12925",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12925",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12925.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

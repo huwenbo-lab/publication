@@ -1,0 +1,45 @@
+{
+  "title": "On the association between weather variability and total and cause-specific mortality before and during industrialization in Sweden",
+  "abstract": "BACKGROUND While there is ample evidence for health risks associated with heat and other extreme weather events today, little is known about the impact of weather patterns on population health in preindustrial societies. OBJECTIVE To investigate the impact of weather patterns on population health in Sweden before and during industrialization. METHODS We obtained records of monthly mortality and of monthly mean temperatures and precipitation for Skelleftea parish, northern Sweden, for the period 1800-1950. The associations between monthly total mortality, as well as monthly mortality due to infectious and cardiovascular diseases, and monthly mean temperature and cumulative precipitation were modelled using a time series approach for three separate periods, 1800-1859, 1860-1909, and 1910-1950. RESULTS We found higher temperatures and higher amounts of precipitation to be associated with lower mortality both in the medium term (same month and two-months lag) and in the long run (lag of six months up to a year). Similar patterns were found for mortality due to infectious and cardiovascular diseases. Furthermore, the effect of temperature and precipitation decreased over time. CONCLUSIONS Higher temperature and precipitation amounts were associated with reduced death counts with a lag of up to 12 months. The decreased effect over time may be due to improvements in nutritional status, decreased infant deaths, and other changes in society that occurred in the course of the demographic and epidemiological transition. CONTRIBUTION The study contributes to a better understanding of the complex relationship between weather and mortality and, in particular, historical weather-related mortality.",
+  "authors": [
+    {
+      "raw": "Astrom, Daniel Oudin",
+      "family": "Astrom",
+      "given": "Daniel Oudin"
+    },
+    {
+      "raw": "Edvinsson, Soren",
+      "family": "Edvinsson",
+      "given": "Soren"
+    },
+    {
+      "raw": "Hondula, Daniel",
+      "family": "Hondula",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Rocklov, Joacim",
+      "family": "Rocklov",
+      "given": "Joacim"
+    },
+    {
+      "raw": "Schumann, Barbara",
+      "family": "Schumann",
+      "given": "Barbara"
+    }
+  ],
+  "authors_text": "Astrom, Daniel Oudin; Edvinsson, Soren; Hondula, Daniel; Rocklov, Joacim; Schumann, Barbara",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.33",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

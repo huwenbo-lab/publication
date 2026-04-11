@@ -1,0 +1,50 @@
+{
+  "title": "The question of the human mortality plateau: Contrasting insights by longevity pioneers",
+  "abstract": "BACKGROUND The debate about limits to the human life span is often based on outcomes from mor-tality at the oldest ages among longevity pioneers. To this day, scholars disagree on the existence of a late-life plateau in human mortality. Amid various statistical analy-sis frameworks, the parametric proportional hazards model is a simple and valuable ap-proach to test the presence of a plateau by assuming different baseline hazard functions on individual-level data.OBJECTIVE We replicate and propose some improvements to the methods of Barbi et al. (2018) to explore whether death rates reach a plateau at later ages in the French population as it does for Italians in the original study.METHODS We use a large set of exceptionally reliable data covering the most recently extinct birth cohorts, 1883-1901, where all 3,789 members who were born and died in France, were followed from age 105 onward. Individual life trajectories are modeled by a proportional hazards model with fixed covariates (gender, birth cohort) and a Gompertz baseline haz-ard function.RESULTS In contrast with Barbi et al. (2018)'s results, our Gompertz slope parameter estimate is statistically different from zero across all model specifications, suggesting death rates continue to increase beyond 105 years old in the French population. In addition, we find no significant birth cohort effect but a significant male disadvantage in mortality after age 105.CONCLUSIONS Using the best data currently available, we did not find any evidence of a mortality plateau in French individuals aged 105 and older.CONTRIBUTION The evidence for the existence of an extreme-age mortality plateau in recent Italian co-horts does not extend to recent French cohorts. Caution in generalizations is advised, and we encourage further studies on long-lived populations with high-quality data.",
+  "authors": [
+    {
+      "raw": "Dang, Linh Hoang Khanh",
+      "family": "Dang",
+      "given": "Linh Hoang Khanh"
+    },
+    {
+      "raw": "Camarda, Carlo Giovanni",
+      "family": "Camarda",
+      "given": "Carlo Giovanni"
+    },
+    {
+      "raw": "Ouellette, Nadine",
+      "family": "Ouellette",
+      "given": "Nadine"
+    },
+    {
+      "raw": "Mesle, France",
+      "family": "Mesle",
+      "given": "France"
+    },
+    {
+      "raw": "Robine, Jean-Marie",
+      "family": "Robine",
+      "given": "Jean-Marie"
+    },
+    {
+      "raw": "Vallin, Jacques",
+      "family": "Vallin",
+      "given": "Jacques"
+    }
+  ],
+  "authors_text": "Dang, Linh Hoang Khanh; Camarda, Carlo Giovanni; Ouellette, Nadine; Mesle, France; Robine, Jean-Marie; Vallin, Jacques",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.11",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

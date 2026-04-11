@@ -1,0 +1,30 @@
+{
+  "title": "Effects of the President’s Party on Infant Health Across Racial & Ethnic Groups in the United States",
+  "abstract": "This visualization extends previous research reporting a positive effect of prenatal exposure of Democratic presidencies on the health outcomes of Black and White infants in the United States between 1971 and 2018. Using detailed information on race and ethnicity and new data for 2019 to 2024, the authors disaggregate birth outcome rates for Black, White, Hispanic, and Asian babies during a 36-year period between 1989 and 2024. They address three questions: (1) Do the earlier findings extend to this historical period? (2) Is there heterogeneity in effects across racial/ethnic minority groups? and (3) Do the findings for Whites and Blacks mask heterogenous effects by race and Hispanic ethnicity? The results indicate that presidential party effects persist in the recent period and extend to all four major racial and ethnic groups in the United States. All groups experienced better infant health outcomes under Democratic administrations, with the largest effects among non-Hispanic Black infants.",
+  "authors": [
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    },
+    {
+      "raw": "Rauf, Tamkinat",
+      "family": "Rauf",
+      "given": "Tamkinat"
+    }
+  ],
+  "authors_text": "Torche, Florencia; Rauf, Tamkinat",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251400112",
+  "doi_url": "https://doi.org/10.1177/23780231251400112",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251400112",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251400112.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

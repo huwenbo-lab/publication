@@ -1,0 +1,35 @@
+{
+  "title": "Higher education and high-wage gender inequality*",
+  "abstract": "Over the past 60 years, we have witnessed a relocation of gender wage inequality. Whereas the largest wage gaps were once concentrated among lower-paid, lower-educated workers, today these wage gaps sit among the highest-paid, highly-educated workers. Given this reordering of gender wage inequality and the centrality of college graduates to total inequality trends, in this article, we assess the contribution of higher education mechanisms to top-end gender inequality. Specifically, we use Census and ACS data along with unique decomposition models to assess the extent to which two mechanisms rooted in higher education-bachelor's-level fields of study and the attainment of advanced degrees-can account for the gender wage gap across the wage distribution. Results from these decomposition models show that while these explanatory mechanisms fare well among bottom and middle wages, their explanatory power breaks down among the highest-paid college workers. We conclude that women's attainment of different education (via fields of study) or more education (via advanced degrees) would do little to close the gender wage gaps that are contributing most to contemporary wage inequality trends. We suggest some directions for future research, and we also take seriously the role of discriminatory pay-setting at the top of the wage distribution.",
+  "authors": [
+    {
+      "raw": "Quadlin, Natasha",
+      "family": "Quadlin",
+      "given": "Natasha"
+    },
+    {
+      "raw": "VanHeuvelen, Tom",
+      "family": "VanHeuvelen",
+      "given": "Tom"
+    },
+    {
+      "raw": "Ahearn, Caitlin E.",
+      "family": "Ahearn",
+      "given": "Caitlin E."
+    }
+  ],
+  "authors_text": "Quadlin, Natasha; VanHeuvelen, Tom; Ahearn, Caitlin E.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102873",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102873",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102873",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102873.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

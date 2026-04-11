@@ -1,0 +1,30 @@
+{
+  "title": "Exploring the role of legal status and neighborhood social capital on immigrant economic integration in Los Angeles",
+  "abstract": "BACKGROUND Existing research has emphasized immigration policy and social capital as two crucial elements of reception that influence immigrant labor market outcomes. While much attention has been paid to these two factors in isolation, a limited body of empirical work has examined how they intersect, specifically how social capital influences the economic integration of immigrants legally precluded from the formal labor market. OBJECTIVE Our goal is to examine the extent to which immigrant legal status conditions economic integration in the United States and whether neighborhood social capital moderates this relationship. METHODS This study relies on a large probability sample of individuals residing in Los Angeles County that directly ascertains the legal status of immigrants. We employ inverse probability of treatment-weighted linear regressions to compare the labor market outcomes of undocumented immigrants to those of immigrants with varying forms of legal status and to examine how neighborhood social capital moderates the link between legal status and economic attainment. CONCLUSIONS We find two distinct modes of economic incorporation: one of steady work and higher wages among immigrants with citizenship status, and one of lower earnings and greater reliance on self-employment among immigrants in the country without documentation. Our results suggest that neighborhood social capital does not improve the labor market prospects of undocumented immigrants and in some cases may penalize them. CONTRIBUTION By extending research on immigrant economic integration, this study highlights the labor market penalties experienced by undocumented immigrants, the limitations of neighborhood social capital in facilitating their integration into the American economy, and the potential value of self-employment.",
+  "authors": [
+    {
+      "raw": "Muchow, Ashley",
+      "family": "Muchow",
+      "given": "Ashley"
+    },
+    {
+      "raw": "Bozick, Robert",
+      "family": "Bozick",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Muchow, Ashley; Bozick, Robert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.1",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

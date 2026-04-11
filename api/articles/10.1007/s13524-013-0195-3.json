@@ -1,0 +1,30 @@
+{
+  "title": "Remittances in the Republic of Georgia: Correlates, Economic Impact, and Social Capital Formation",
+  "abstract": "AbstractThe economic impact of remittances on migrant-sending countries has been a subject of debate in the scholarly literature on migration. We consider the topic using a household-level approach. We use a new survey, “Georgia on the Move,” to examine migrant-level, household-level, and contextual variables associated with the probability that a household in the Republic of Georgia receives remittances. We then apply propensity score matching to estimate how remittances affect particular types of household expenditures, savings, labor supply, health, and other measures of well-being. Separate analysis of the subsample of households with a migrant currently abroad distinguishes the effects of remittances from the effects of migration as such. In Georgia, remittances improve household economic well-being without, for the most part, producing the negative consequences often suggested in the literature. We find evidence for an important aspect that has not been widely discussed in prior studies: remittances foster the formation of social capital by increasing the amount of money that households give as gifts to other households.",
+  "authors": [
+    {
+      "raw": "Gerber, Theodore P.",
+      "family": "Gerber",
+      "given": "Theodore P."
+    },
+    {
+      "raw": "Torosyan, Karine",
+      "family": "Torosyan",
+      "given": "Karine"
+    }
+  ],
+  "authors_text": "Gerber, Theodore P.; Torosyan, Karine",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0195-3",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0195-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0195-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0195-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

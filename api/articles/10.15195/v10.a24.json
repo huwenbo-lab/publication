@@ -1,0 +1,30 @@
+{
+  "title": "The Inequality of Lifetime Pensions",
+  "abstract": "At older ages, most people are supported by pension systems that provide payments based on prior contributions. An important, but neglected, aspect of inequality in how much people receive in pensions is the number of years they live to receive their pension. We examine inequality in lifetime-accumulated pensions and show the importance of mortality for understanding inequalities in pension payments, and contrast it to inequalities in working-age earnings and yearly pension payments among older adults. In contrast to most previous research on old-age inequality comparing different social groups, we focused on total-population-level inequality. Using Swedish register data covering the retired population born from 1918-1939, we found that lifetime pensions are much more unequal than pre-retirement earnings and yearly pensions. Our findings also show that mortality explains more than 50 percent of the inequality of lifetime pensions within cohorts, and plays an important role in explaining changes in inequality across cohorts (192 percent among men and 44 percent among women). Pension policies can affect lifetime pension inequality, but such effects are limited in magnitude unless they directly affect the number of years of receiving pensions.",
+  "authors": [
+    {
+      "raw": "Shi, Jiaxin",
+      "family": "Shi",
+      "given": "Jiaxin"
+    },
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Shi, Jiaxin; Kolk, Martin",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a24",
+  "doi_url": "https://doi.org/10.15195/v10.a24",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a24",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a24.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

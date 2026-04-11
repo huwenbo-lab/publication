@@ -1,0 +1,30 @@
+{
+  "title": "The Changing Age Distribution of the United States",
+  "abstract": "The age distribution of a population is a product of a century of demographic history. This paper describes how the history of births, deaths, and migrations has fashioned the US age distribution in 2018. It also shows how that history, combined with contemporary processes, was actively producing changes in the age distribution between 2013 and 2018. Changes in survivorship, migration, and births all contributed to population aging during this period, with a declining growth rate of births the leading contributor. Using a novel approach, the paper demonstrates how the inertia reflected in changing age distributions sheds light on the future population of the United States. Massive growth in the population above age 70 will occur by 2033 if recent age patterns of age-specific mortality and migration are maintained.",
+  "authors": [
+    {
+      "raw": "Preston, Samuel H.",
+      "family": "Preston",
+      "given": "Samuel H."
+    },
+    {
+      "raw": "Vierboom, Yana C.",
+      "family": "Vierboom",
+      "given": "Yana C."
+    }
+  ],
+  "authors_text": "Preston, Samuel H.; Vierboom, Yana C.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2021,
+  "doi": "10.1111/padr.12386",
+  "doi_url": "https://doi.org/10.1111/padr.12386",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12386",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12386.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

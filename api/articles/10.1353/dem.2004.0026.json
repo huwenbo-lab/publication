@@ -1,0 +1,35 @@
+{
+  "title": "Effects of child health on parents’ relationship status",
+  "abstract": "Abstract We used data from the Fragile Families and Child Wellbeing Study to estimate the effect of a child’s poor health on the presence of the father. We investigated whether parents lived in the same household 12–18 months after the child’s birth and whether their relationships changed along a continuum (married, cohabiting, romantically involved, friends, or not involved) during the same period. We found that within this short period, having a child with poor health decreased the probability that the parents lived together by 10 percentage points. It also increased the probability that their relationship status moved in the direction of less involvement by 6 percentage points. These results indicate that children’s health and family structure jointly shape children’s long-term health and economic trajectories.",
+  "authors": [
+    {
+      "raw": "Reichman, Nancy E.",
+      "family": "Reichman",
+      "given": "Nancy E."
+    },
+    {
+      "raw": "Corman, Hope",
+      "family": "Corman",
+      "given": "Hope"
+    },
+    {
+      "raw": "Noonan, Kelly",
+      "family": "Noonan",
+      "given": "Kelly"
+    }
+  ],
+  "authors_text": "Reichman, Nancy E.; Corman, Hope; Noonan, Kelly",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0026",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0026",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0026",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0026.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

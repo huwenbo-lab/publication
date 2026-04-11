@@ -1,0 +1,30 @@
+{
+  "title": "Black neighbors, higher crime? The role of racial stereotypes in evaluations of neighborhood crime",
+  "abstract": "This article investigates the relationship between neighborhood racial composition and perceptions residents have of their neighborhood's level of crime. The study uses questions about perceptions of neighborhood crime from surveys in Chicago, Seattle, and Baltimore, matched with census data and police department crime statistics. The percentage young black men in a neighborhood is positively associated with perceptions of the neighborhood crime level, even after controlling for two measures of crime rates and other neighborhood characteristics. This supports the view that stereotypes are influencing perceptions of neighborhood crime levels. Variation in effects by race of the perceiver and implications for racial segregation are discussed.",
+  "authors": [
+    {
+      "raw": "Quillian, L",
+      "family": "Quillian",
+      "given": "L"
+    },
+    {
+      "raw": "Pager, D",
+      "family": "Pager",
+      "given": "D"
+    }
+  ],
+  "authors_text": "Quillian, L; Pager, D",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2001,
+  "doi": "10.1086/338938",
+  "doi_url": "https://doi.org/10.1086/338938",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F338938",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/338938.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

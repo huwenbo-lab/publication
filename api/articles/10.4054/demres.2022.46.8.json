@@ -1,0 +1,30 @@
+{
+  "title": "Metropolitan racial residential segregation in the United States: A microlevel and cross-context analysis of Black, Latino, and Asian segregation",
+  "abstract": "OBJECTIVE We seek to establish the direct quantitative link between micro-and macrolevels of segregation for White-Latino, White-Asian, and White-Black metropolitan segregation using new methods for segregation analysis and test prevailing frameworks in segregation research that emphasize spatial assimilation and place stratification dynamics. METHODS We reformulate a popular segregation measure as a difference of group means and estimate regression models of household locational attainments that are operationalized as the microlevel components that comprise the segregation index. We perform regression standardization and decomposition analysis to identify the extent to which segregation is determined by group differences on resources and group differences on rates of return on those resources, comparing these effects across low-and high-segregation contexts. These analyses are possible by using restricted-use microdata, and we specifically use the 2010 census and the 2008-2012 American Community Survey five-year sample. RESULTS We find that spatial assimilation dynamics are stronger for Latino and Asian segregation than for Black segregation, but that place stratification dynamics prevail for all groups. Additionally, we find that Black segregation aligns more with a segmented assimilation pattern rather than classical spatial assimilation. Finally, we document that place stratification dynamics are stronger, and spatial assimilation dynamics weaker, in high-segregation contexts. CONTRIBUTION We demonstrate new techniques for understanding and measuring segregation as a group inequality, which can be analyzed at the microlevel while aligning with conventions in both inequality and demographic research. This approach creates opportunities to link the micro-and macrolevel dimensions of segregation and explore new questions about the complexity of segregation dynamics.",
+  "authors": [
+    {
+      "raw": "Crowell, Amber",
+      "family": "Crowell",
+      "given": "Amber"
+    },
+    {
+      "raw": "Fossett, Mark",
+      "family": "Fossett",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Crowell, Amber; Fossett, Mark",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.8",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

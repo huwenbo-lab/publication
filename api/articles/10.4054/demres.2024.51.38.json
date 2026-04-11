@@ -1,0 +1,80 @@
+{
+  "title": "Excess mortality associated with HIV: Survey estimates from the PHIA project",
+  "abstract": "BACKGROUND Incomplete vital statistics systems in resource-limited countries hinder accurate HIV epidemic assessments. Population-based survey data combined with HIV infection biomarkers may partially address this gap, providing excess mortality estimates in households where people living with HIV (PLWH) reside. OBJECTIVE Examine household-level excess HIV mortality in households with PLWH using population-based survey data, including mortality reported by heads of households, and HIV biomarkers. METHODS We compared mortality between households with and without PLWH using publicly available data from 11 Population-based HIV Impact Assessments conducted between 2015 and 2019 in Cameroon, C & ocirc;te d'Ivoire, Eswatini, Kenya, Malawi, Namibia, Rwanda, Tanzania, Uganda, Zambia, and Zimbabwe. Eligible, consenting household members provided blood for HIV testing. Household-level regression models estimated deaths per 1,000 person-years (PY) for the three-year period before the survey; death rate ratios were calculated. Quasi-Poisson distribution accounted for household death over-dispersion. RESULTS Country-specific deaths rates per 1,000 PY were significantly higher among rural versus urban households for five countries. For example, in Cameroon, the rates were 9.3 (95% confidence interval [CI]: 8.7-9.9) versus 6.5 (95% CI: 5.9-7.1). In six countries, death rates were significantly higher (1.3-1.7-fold) among households with PLWH versus those without. Death rate ratios were significantly higher among rural (1.4-1.8-fold) and urban households (1.6-2.3-fold) with PLWH versus those without in four and three countries, respectively. CONCLUSIONS General population household survey findings in multiple countries in Africa indicate that households where PLWH resided experienced excess mortality relative to other households. CONTRIBUTION The novel approach we use to describe HIV-related household-level mortality offers an additional method to measure progress toward zero AIDS-related deaths.",
+  "authors": [
+    {
+      "raw": "Farley, Shannon M.",
+      "family": "Farley",
+      "given": "Shannon M."
+    },
+    {
+      "raw": "Reid, Giles",
+      "family": "Reid",
+      "given": "Giles"
+    },
+    {
+      "raw": "Yuengling, Kay",
+      "family": "Yuengling",
+      "given": "Kay"
+    },
+    {
+      "raw": "Wright, Connor",
+      "family": "Wright",
+      "given": "Connor"
+    },
+    {
+      "raw": "Chisumpa, Vesper H.",
+      "family": "Chisumpa",
+      "given": "Vesper H."
+    },
+    {
+      "raw": "Bello, George",
+      "family": "Bello",
+      "given": "George"
+    },
+    {
+      "raw": "Juma, James M.",
+      "family": "Juma",
+      "given": "James M."
+    },
+    {
+      "raw": "Greenleaf, Abigail R.",
+      "family": "Greenleaf",
+      "given": "Abigail R."
+    },
+    {
+      "raw": "Mccracken, Stephen",
+      "family": "Mccracken",
+      "given": "Stephen"
+    },
+    {
+      "raw": "Stupp, Paul",
+      "family": "Stupp",
+      "given": "Paul"
+    },
+    {
+      "raw": "Helleringer, Stephane",
+      "family": "Helleringer",
+      "given": "Stephane"
+    },
+    {
+      "raw": "Justman, Jessica",
+      "family": "Justman",
+      "given": "Jessica"
+    }
+  ],
+  "authors_text": "Farley, Shannon M.; Reid, Giles; Yuengling, Kay; Wright, Connor; Chisumpa, Vesper H.; Bello, George; Juma, James M.; Greenleaf, Abigail R.; Mccracken, Stephen; Stupp, Paul; Helleringer, Stephane; Justman, Jessica",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.38",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.38",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.38",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.38.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

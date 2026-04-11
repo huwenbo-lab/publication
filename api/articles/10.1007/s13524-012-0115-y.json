@@ -1,0 +1,30 @@
+{
+  "title": "The Effects of Childhood SNAP Use and Neighborhood Conditions on Adult Body Mass Index",
+  "abstract": "Abstract The disproportionate number of individuals who are obese or overweight in the low-income U.S. population has raised interest in the influence of neighborhood conditions and public assistance programs on weight and health. Generally, neighborhood effects and program participation effects have been explored in separate studies. We unite these two areas of inquiry, using the 1968–2005 Panel Study of Income Dynamics (PSID) to examine the long-term effects of childhood Supplemental Nutrition Assistance Program (SNAP) participation, neighborhood conditions, and the interaction of these two, on adult body mass index (BMI). Using sibling fixed-effects models to account for selection bias, we find that relative to children in other low-income families, children in SNAP-recipient households have higher average adult BMI values. However, the effects of childhood SNAP usage are sensitive to both residential neighborhood and age at receipt. For those growing up in advantaged neighborhoods, projected adult BMI is higher for children in SNAP-recipient households than for children in low-income, nonrecipient households. In contrast, for those growing up in less-advantaged areas, adult BMI differences between children in SNAP-recipient and those in low-income, nonrecipient households are small. SNAP usage during preschool years (0 to 4) has no impact on adult BMI scores. However, at later childhood ages, the time elapsed receiving SNAP income increases adult BMI values relative to a condition of low-income nonreceipt.",
+  "authors": [
+    {
+      "raw": "Vartanian, Thomas P.",
+      "family": "Vartanian",
+      "given": "Thomas P."
+    },
+    {
+      "raw": "Houser, Linda",
+      "family": "Houser",
+      "given": "Linda"
+    }
+  ],
+  "authors_text": "Vartanian, Thomas P.; Houser, Linda",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0115-y",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0115-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0115-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0115-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

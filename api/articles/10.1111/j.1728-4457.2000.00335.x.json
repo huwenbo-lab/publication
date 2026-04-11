@@ -1,0 +1,30 @@
+{
+  "title": "Crime, gender, and society in India:: Insights from homicide data",
+  "abstract": "This study presents an analysis of inter-district variations in murder rates in India in 1981. Three significant patterns emerge. First, murder rates in India bear no significant relation with urbanization or poverty. Second, there is a negative association between literacy and criminal violence. Third, murder rates in India are highly correlated with the female-male ratio in the population: districts with higher female-male ratios have lower murder rates. Alternative hypotheses about the causal relationships underlying this connection between sex ratios and murder rates are scrutinized. One plausible explanation is that low female-male ratios and high murder rates are joint symptoms of a patriarchal environment. This study also suggests that gender relations, in general, have a crucial bearing on criminal violence.",
+  "authors": [
+    {
+      "raw": "Drèze, J",
+      "family": "Drèze",
+      "given": "J"
+    },
+    {
+      "raw": "Khera, R",
+      "family": "Khera",
+      "given": "R"
+    }
+  ],
+  "authors_text": "Drèze, J; Khera, R",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2000,
+  "doi": "10.1111/j.1728-4457.2000.00335.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2000.00335.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2000.00335.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2000.00335.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

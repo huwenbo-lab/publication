@@ -1,0 +1,40 @@
+{
+  "title": "SES Gradients Among Mexicans in the United States and in Mexico: A New Twist to the Hispanic Paradox?",
+  "abstract": "Recent empirical findings have suggested the existence of a twist in the Hispanic paradox, in which Mexican and other Hispanic foreign-born migrants living in the United States experience shallower socioeconomic status (SES) health disparities than those in the U.S. population. In this article, we seek to replicate this finding and test conjectures that could explain this new observed phenomenon using objective indicators of adult health by educational attainment in several groups: (1) Mexican-born individuals living in Mexico and in the United States, (2) U.S.-born Mexican Americans, and (3) non-Hispanic American whites. Our analytical strategy improves upon previous research on three fronts. First, we derive four hypotheses from a general framework that has also been used to explain the standard Hispanic paradox. Second, we study biomarkers rather than self-reported health and related conditions. Third, we use a binational data platform that includes both Mexicans living in Mexico (Mexican National Health and Nutrition Survey 2006) and Mexican migrants to the United States (NHANES 1999-2010). We find steep education gradients among Mexicans living in Mexico's urban areas in five of six biomarkers of metabolic syndrome (MetS) and in the overall MetS score. Mexican migrants living in the United States experience similar patterns to Mexicans living in Mexico in glucose and obesity biomarkers. These results are inconsistent with previous findings, suggesting that Mexican migrants in the United States experience significantly attenuated health gradients relative to the non-Hispanic white U.S. population. Our empirical evidence also contradicts the idea that SES-health gradients in Mexico are shallower than those in the United States and could be invoked to explain shallower gradients among Mexicans living in the United States.",
+  "authors": [
+    {
+      "raw": "Beltran-Sanchez, Hiram",
+      "family": "Beltran-Sanchez",
+      "given": "Hiram"
+    },
+    {
+      "raw": "Palloni, Alberto",
+      "family": "Palloni",
+      "given": "Alberto"
+    },
+    {
+      "raw": "Riosmena, Fernando",
+      "family": "Riosmena",
+      "given": "Fernando"
+    },
+    {
+      "raw": "Wong, Rebeca",
+      "family": "Wong",
+      "given": "Rebeca"
+    }
+  ],
+  "authors_text": "Beltran-Sanchez, Hiram; Palloni, Alberto; Riosmena, Fernando; Wong, Rebeca",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0508-4",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0508-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0508-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0508-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

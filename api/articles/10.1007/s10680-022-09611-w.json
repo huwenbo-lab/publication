@@ -1,0 +1,30 @@
+{
+  "title": "Family Size and Parental Wealth: The Role of Family Transfers in Europe",
+  "abstract": "AbstractAs baby boomers enter retirement, an increasing portion of the population in Europe will rely on wealth as a source of financial security. We address two research questions: what is the association between family size, i.e. the number of children, and wealth for adults who are preparing for or have entered retirement and does the generosity of family transfers moderate that association? Data from the Survey of Health, Ageing, and Retirement in Europe (SHARE) are used to estimate the relationship between family size and the total household net worth of men and women between ages 50–65, born 1939–1967 from 14 European countries. We use logistic and linear regression modelling to investigate the probability of zero or negative wealth and net worth percentile rank. We find that adults with four or more children are more likely to be in debt and have less wealth than childless adults. In contrast, adults with two and three children have more wealth. We provide evidence that the generosity of family transfers ameliorates the negative association between larger family sizes and wealth, but may exacerbate wealth inequality by benefiting two and three child families most.",
+  "authors": [
+    {
+      "raw": "Van Winkle, Zachary",
+      "family": "Van Winkle",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Monden, Christiaan",
+      "family": "Monden",
+      "given": "Christiaan"
+    }
+  ],
+  "authors_text": "Van Winkle, Zachary; Monden, Christiaan",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09611-w",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09611-w",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09611-w",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09611-w.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

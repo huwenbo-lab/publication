@@ -1,0 +1,35 @@
+{
+  "title": "Coresidence With Husband’s Parents, Labor Supply, and Duration to First Birth",
+  "abstract": "Abstract This article investigates the time to first birth, treating coresidence with husband’s parents and labor supply as endogenous and using representative data on Taiwanese married women born during 1933–1968. We use a full-information maximum likelihood estimator for a duration model with endogenous binary variables. Results controlling for endogeneity suggest that both coresidence and working are associated with a delay in childbearing, reversing the effect of coresidence on the timing of first birth but not that of working. Women in earlier cohorts tend to choose coresidency and not working, and an increasing number of women from later cohorts choose to do both or to work only.",
+  "authors": [
+    {
+      "raw": "Chu, C. Y. Cyrus",
+      "family": "Chu",
+      "given": "C. Y. Cyrus"
+    },
+    {
+      "raw": "Kim, Seik",
+      "family": "Kim",
+      "given": "Seik"
+    },
+    {
+      "raw": "Tsay, Wen-Jen",
+      "family": "Tsay",
+      "given": "Wen-Jen"
+    }
+  ],
+  "authors_text": "Chu, C. Y. Cyrus; Kim, Seik; Tsay, Wen-Jen",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-013-0244-y",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0244-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0244-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0244-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

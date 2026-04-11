@@ -1,0 +1,25 @@
+{
+  "title": "Loneliness in Europe: Personal and Societal Individualism-Collectivism and Their Connection to Social Isolation",
+  "abstract": "This article explains perceived loneliness among people in Europe by accounting for cultural factors as well as social isolation. Culturally, it measures the impact of both personal and societal individualism-collectivism on loneliness. It accounts for social isolation by looking at the separate effects of living alone, emotional isolation, and relational isolation. Using a 2014 European Social Survey sample comprising 36,760 individuals in 21 countries, the study predicts loneliness using multilevel logistic regression modeling using both maximum likelihood and Bayesian estimation procedures. Results indicate that societal individualism may strongly reduce loneliness, even after taking into account that social isolation partially mediates this relationship. Further, the effects of living alone and relational isolation depend upon whether one is personally an individualist or collectivist. Living alone and relational isolation greatly increase loneliness, and such negative effects are somewhat reduced for individualists. However, individualists are not protected from the negative impacts of emotional isolation at all, and the above moderation effects do not hold for the most severe forms of loneliness. Based on this analysis, the best case for reduced loneliness for individualists and collectivists alike is that they maintain a strong degree of multiple forms of social integration and live in an individualist society.",
+  "authors": [
+    {
+      "raw": "Swader, Christopher S.",
+      "family": "Swader",
+      "given": "Christopher S."
+    }
+  ],
+  "authors_text": "Swader, Christopher S.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy088",
+  "doi_url": "https://doi.org/10.1093/sf/soy088",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy088",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy088.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

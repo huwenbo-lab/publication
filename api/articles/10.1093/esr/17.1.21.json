@@ -1,0 +1,25 @@
+{
+  "title": "Causal Inference from Series of Events",
+  "abstract": "Recent years have witnessed an increased interest, both in statistics and in the social sciences, in time-dependent models as a vehicle for the causal interpretation of series of events. The Humean and empiricist tradition in the philosophy of science uses the constant temporal order of cause and effect as a decisive delimitation of causal processes from mere coincidences. To mimic the philosophical distinction, series of events are modelled as dynamic stochastic processes and the precedence of cause over effect is expressed through conditional expectations given the history of the process and the history of the causes. A main technical tool in this development is the concept of conditional independence. In this article we examine some difficulties in the application of the approach within empirical social research. Specifically, the role of probabilistic concepts of causality and of conditional independence, the nature of events that reasonably qualify as causes or effects, and the time order used in empirical research are considered.",
+  "authors": [
+    {
+      "raw": "Potter, U.",
+      "family": "Potter",
+      "given": "U."
+    }
+  ],
+  "authors_text": "Potter, U.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2001,
+  "doi": "10.1093/esr/17.1.21",
+  "doi_url": "https://doi.org/10.1093/esr/17.1.21",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2F17.1.21",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/17.1.21.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

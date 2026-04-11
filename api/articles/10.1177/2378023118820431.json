@@ -1,0 +1,25 @@
+{
+  "title": "Friend Request Pending: A Comparative Assessment of Engineering- and Social Science–Inspired Approaches to Analyzing Complex Birth Cohort Survey Data",
+  "abstract": "The Fragile Families Challenge is a mass collaboration social science data challenge whose aim is to learn how various early childhood variables predict the long-term outcomes of children. The author describes a two-step approach to the Fragile Families Challenge. In step 1, a variety of fully automated approaches are used to predict child academic achievement. In total 124 models are fit, which involve most possible combinations of eight model types, two imputation strategies, two standardization approaches, and two automatic variable selection techniques using two different thresholds. Then, in step 2, an attempt is made to improve on the results from step 1 with manual variable selection on the basis of a detailed review of the codebooks. A total of 3,694 variables believed to be predictive of academic achievement, using a comprehensive review of student success literature to guide the decision-making process, were manually selected. The best models from step 1 were reestimated using the manually selected variables. The results show that manual variable selection improved the majority of the top 10 models in step 1 but did not improve the best of the top 10. The results indicate that variable selection inspired by social science methodologies can, in most cases, significantly improve models trained completely automatically.",
+  "authors": [
+    {
+      "raw": "Roberts, Claudia V.",
+      "family": "Roberts",
+      "given": "Claudia V."
+    }
+  ],
+  "authors_text": "Roberts, Claudia V.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118820431",
+  "doi_url": "https://doi.org/10.1177/2378023118820431",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118820431",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118820431.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

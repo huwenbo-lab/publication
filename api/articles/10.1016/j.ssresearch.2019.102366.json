@@ -1,0 +1,35 @@
+{
+  "title": "Reputations in mixed-role markets: A theory and an experimental test",
+  "abstract": "The traditional understanding of reputation systems is that they secure trust between strangers by publicly calling out cheaters. In modern, online markets, it is increasingly common for providers of a good to also act as consumers, and vice versa. We argue that in such mixed-role markets, reputation systems serve a second important function: They allow providers who lend out their possessions (such as their house, car or tools) to earn reputational credits that can be spent on future borrowing, especially when lending lacks monetary compensation. In an experiment that introduces a new game, the Lending Game, we show that, consistent with our argument, information on past lending leads subjects to lend to those who have themselves lent before, increasing overall lending. However, when lending is financially compensated, this mechanism of reciprocal lending ceases to operate.",
+  "authors": [
+    {
+      "raw": "Kas, Judith",
+      "family": "Kas",
+      "given": "Judith"
+    },
+    {
+      "raw": "Corten, Rense",
+      "family": "Corten",
+      "given": "Rense"
+    },
+    {
+      "raw": "van de Rijt, Arnout",
+      "family": "van de Rijt",
+      "given": "Arnout"
+    }
+  ],
+  "authors_text": "Kas, Judith; Corten, Rense; van de Rijt, Arnout",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2019.102366",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.102366",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.102366",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.102366.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

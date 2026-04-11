@@ -1,0 +1,35 @@
+{
+  "title": "Ripples of Fear: The Diffusion of a Bank Panic",
+  "abstract": "Community reactions against organizations can be driven by negative information spread through a diffusion process that is distinct from the diffusion of organizational practices. Bank panics offer a classic example of selective diffusion of negative information. Bank panics involve widespread bank runs, although a low proportion of banks experience a run. We develop theory on how organizational similarity, community similarity, and network proximity create selective diffusion paths for resistance against organizations. Using data from the largest customer-driven bank panic in the United States, we find significant effects of organizational and community similarity on the diffusion of bank runs. Runs on banks are more likely to diffuse across communities with similar ethnicities, national origins, religion, and wealth, and across banks that are structurally equivalent or have the same organizational form. We also find stronger influence from runs that are spatially proximate and in the same state.",
+  "authors": [
+    {
+      "raw": "Greve, Henrich R.",
+      "family": "Greve",
+      "given": "Henrich R."
+    },
+    {
+      "raw": "Kim, Ji-Yub (Jay)",
+      "family": "Kim",
+      "given": "Ji-Yub (Jay)"
+    },
+    {
+      "raw": "Teh, Daphne",
+      "family": "Teh",
+      "given": "Daphne"
+    }
+  ],
+  "authors_text": "Greve, Henrich R.; Kim, Ji-Yub (Jay); Teh, Daphne",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1177/0003122416629611",
+  "doi_url": "https://doi.org/10.1177/0003122416629611",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122416629611",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122416629611.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

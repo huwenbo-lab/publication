@@ -1,0 +1,35 @@
+{
+  "title": "Shifting Tides: The Evolution of Racial Inequality in Higher Education from the 1980s through the 2010s",
+  "abstract": "Amid the proliferation of state-level bans on race-based affirmative action in higher education, the U.S. Supreme Court’s decision on June 29, 2023, dismantled race-conscious college admission policies, intensifying concerns about the persistence and potential increase of racial inequality in higher education. The authors analyze four restricted-use national survey datasets to investigate racial disparities in college attendance outcomes from the 1980s through the 2010s. Although college entrance rates increased for all racial groups, Black and Hispanic youth became increasingly less likely than their White peers to attend four-year selective colleges. In the 2010s cohort, Black and Hispanic youth were 8 and 7 percentage points, respectively, less likely than their White counterparts to secure admission to four-year selective colleges, even after controlling for parents’ income, education, and other family background variables. The findings underscore the urgent need for proactive policy interventions to address the widening racial inequality in attending selective postsecondary institutions.",
+  "authors": [
+    {
+      "raw": "Oh, Byeongdon",
+      "family": "Oh",
+      "given": "Byeongdon"
+    },
+    {
+      "raw": "Tilbrook, Ned",
+      "family": "Tilbrook",
+      "given": "Ned"
+    },
+    {
+      "raw": "Shifrer, Dara",
+      "family": "Shifrer",
+      "given": "Dara"
+    }
+  ],
+  "authors_text": "Oh, Byeongdon; Tilbrook, Ned; Shifrer, Dara",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231231225578",
+  "doi_url": "https://doi.org/10.1177/23780231231225578",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231225578",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231225578.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

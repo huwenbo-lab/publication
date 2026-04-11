@@ -1,0 +1,25 @@
+{
+  "title": "The unequal consequences of family structures for infant health",
+  "abstract": "Rapid changes in American families have reshaped inequalities in child well-being. This paper examines the unequal consequences of family structures for infant health, focusing on birthweight. Existing studies mainly address the average association between marriage (versus singlehood) and birthweight. I extend the literature by 1) explicitly considering cohabitation and 2) exploring the heterogeneous associations based on mother's likelihood of union formation at conception. Pooling nationally representative data from the National Survey of Family Growth 2011-17, I analyze a sample of recent births (N = 4,376) born to mothers aged between 20 and 49 years. Propensity score methods are used to address selections. Results show that 1) compared to single mothers, married mothers reap birthweight benefits, while cohabiting mothers do not; 2) married mothers with a higher likelihood to marry at conception (i.e., more advantaged) reap even larger birthweight benefits than their low-likelihood counterparts (i.e., less advantaged). Overall, the findings reveal important and nuanced roles of family structure in the reproduction of intergenerational inequality through infant health.",
+  "authors": [
+    {
+      "raw": "Song, Haoming",
+      "family": "Song",
+      "given": "Haoming"
+    }
+  ],
+  "authors_text": "Song, Haoming",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102604",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102604",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102604",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102604.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Measuring Cohabitation and Family Structure in the United States: Assessing the Impact of New Data From the Current Population Survey",
+  "abstract": "Abstract In 2007, the Current Population Survey (CPS) introduced a measure that identifies all cohabiting partners in a household, regardless of whether they describe themselves as “unmarried partners” in the relationship to householder question. The CPS now also links children to their biological, step-, and adoptive parents. Using these new variables, we analyze the prevalence of cohabitation as well as the demographic and socioeconomic characteristics of different-sex cohabiting couples during the years 2007–2009. Estimates of cohabitation produced using only unmarried partnerships miss 18 % of all cohabiting unions and 12 % of children residing with cohabiting parents. Although differences between unmarried partners and most newly identified cohabitors are small, newly identified cohabitors are older, on average, and are less likely to be raising shared biological or adopted children. These new measures also allow us to identify a small number of young, disadvantaged couples who primarily reside in households of other family members, most commonly with parents. We conclude with an examination of the complex living arrangements and poverty status of American children, demonstrating the broader value of these new measures for research on American family and household structure.",
+  "authors": [
+    {
+      "raw": "Kennedy, Sheela",
+      "family": "Kennedy",
+      "given": "Sheela"
+    },
+    {
+      "raw": "Fitch, Catherine A.",
+      "family": "Fitch",
+      "given": "Catherine A."
+    }
+  ],
+  "authors_text": "Kennedy, Sheela; Fitch, Catherine A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0126-8",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0126-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0126-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0126-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

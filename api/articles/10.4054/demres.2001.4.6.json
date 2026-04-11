@@ -1,0 +1,25 @@
+{
+  "title": "Toward a General Model for Populations with Changing Rates",
+  "abstract": "Formal demography has yet to move beyond assuming that demographic rates are constant over time, an assumption that is both unrealistic and constraining. To generalize the fixed rate stable model to the changing rate dynamic model, this paper explores",
+  "authors": [
+    {
+      "raw": "Schoen, Robert",
+      "family": "Schoen",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Schoen, Robert",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2001,
+  "doi": "10.4054/demres.2001.4.6",
+  "doi_url": "https://doi.org/10.4054/demres.2001.4.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2001.4.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2001.4.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

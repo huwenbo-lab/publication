@@ -1,0 +1,40 @@
+{
+  "title": "Guanxi Culture, Corruption and Patronage: A Longitudinal Prefecture-Level Analysis in Contemporary China",
+  "abstract": "Corruption and guanxi are believed to be engaged in a close relationship in China. Yet, quantitative evidence is scarce, primarily due to data limitations especially difficulties in measuring local corruption and guanxi culture. This study extracts corruption-related court judgments from the China Judgments Online website and uses an online search index to quantify local instrumental guanxi culture. Based on panel data assembled from 70,186 court judgments from 2016 to 2020 among 266 Chinese cities, this study reveals that, all else being equal, the higher the regional guanxi culture, the more verdicts of corruption cases, but the lower involved corruption amount. This strongly suggests that instrumental guanxi culture not only facilitates corruption but also serves as patronage for corruption by influencing the local judiciary, forming an intangible resistance to China’s ongoing anti-corruption campaigns.",
+  "authors": [
+    {
+      "raw": "Fu, Zhihui",
+      "family": "Fu",
+      "given": "Zhihui"
+    },
+    {
+      "raw": "Tian, Qing",
+      "family": "Tian",
+      "given": "Qing"
+    },
+    {
+      "raw": "Wang, Senhu",
+      "family": "Wang",
+      "given": "Senhu"
+    },
+    {
+      "raw": "Zhou, Hang",
+      "family": "Zhou",
+      "given": "Hang"
+    }
+  ],
+  "authors_text": "Fu, Zhihui; Tian, Qing; Wang, Senhu; Zhou, Hang",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2025,
+  "doi": "10.1177/00380385251320472",
+  "doi_url": "https://doi.org/10.1177/00380385251320472",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380385251320472",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380385251320472.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

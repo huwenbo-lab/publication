@@ -1,0 +1,25 @@
+{
+  "title": "Scar effects of unemployment on generalised social trust: The joint impact of individual and contextual unemployment across Europe",
+  "abstract": "How does unemployment affect generalised social trust? A growing body of work has analysed the scar effects of unemployment on trust. However, this literature has not yet addressed the moderating role of contextual unemployment. In this article, we extend a theoretical framework positing that individual and contextual unemployment depress generalised social trust and formulate competing hypotheses on their interaction. We test these hypotheses relying on Rounds 4-9 (2008-2018) of the European Social Survey, for up to 29 countries and 227 regions. Results from three-level multilevel models indicate that individual and contextual unemployment are associated with lower trust, although at the macro-level this holds only for cross-sectional un-employment. At the macro-micro level, we find that lower cross-sectional unemployment rates powerfully exacerbate the individual association, while the latter becomes not significant at higher cross-sectional rates. These findings highlight that individual and contextual unemploy-ment are central to illuminate social trust patterns.",
+  "authors": [
+    {
+      "raw": "Azzollini, Leo",
+      "family": "Azzollini",
+      "given": "Leo"
+    }
+  ],
+  "authors_text": "Azzollini, Leo",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2022.102787",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102787",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102787",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102787.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

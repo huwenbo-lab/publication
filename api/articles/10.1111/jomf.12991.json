@@ -1,0 +1,30 @@
+{
+  "title": "The asymmetric effects of improving and declining marital satisfaction on cognitive function",
+  "abstract": "Objective: This study examines the association between marital satisfaction and cognitive function, while distinguishing between the effects of improving and declining marital satisfaction. Moreover, potential differences in these asymmetric effects of marital satisfaction between middle-aged and older adults are explored. Background: Marital satisfaction is known to promote cognitive function. However, previous studies have assumed that the effects of improving and declining marital satisfaction are symmetrical. Method: Using seven waves of data from the Korean Longitudinal Study of Aging 2006-2018 (N = 7407), we employ a novel asymmetric fixed effects model to estimate the effects of improving and declining marital satisfaction separately. Stratified analyses were conducted by age group and gender. Results: The association between declining marital satisfaction and cognitive function (b = -0.292, p < .001) was stronger than the association between improving marital satisfaction and cognitive function (b = 0.102, p < .001). These asymmetric effects were predominantly driven by older adults. The effect of declining marital satisfaction on cognitive function was significantly greater for older adults than middle-aged adults (-0.395 vs. -0.148). We did not find gender differences. Conclusion: Findings suggest that the negative impact of declining marital satisfaction on cognitive function outweighs the positive effects of improving marital satisfaction, especially among older adults. Reducing marital dissatisfaction and fostering healthy marital relationships are crucial strategies to promote the cognitive well-being of older adults.",
+  "authors": [
+    {
+      "raw": "Kim, Jinho",
+      "family": "Kim",
+      "given": "Jinho"
+    },
+    {
+      "raw": "Hwang, Sungsik",
+      "family": "Hwang",
+      "given": "Sungsik"
+    }
+  ],
+  "authors_text": "Kim, Jinho; Hwang, Sungsik",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12991",
+  "doi_url": "https://doi.org/10.1111/jomf.12991",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12991",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12991.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

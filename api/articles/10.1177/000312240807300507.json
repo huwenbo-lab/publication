@@ -1,0 +1,35 @@
+{
+  "title": "Immigrant Children's Educational Achievement in Western Countries: Origin, Destination, and Community Effects on Mathematical Performance",
+  "abstract": "This article explores the extent to which macro-level characteristics of destination countries, origin countries, and immigrant communities help explain differences in immigrant children educational achievement. Using data from the 2003 PISA survey, we analyze the mathematical performance of 7,403 pupils from 35 different origin countries in 13 Western countries of destination. While compositional differences offer some explanatory power, they cannot fully explain cross-national and cross-group variance. Contextual attributes of host countries, origin countries, and communities are also meaningful. In this regard, strict immigration laws explain immigrant children better educational performance in traditional immigrant-receiving countries. Results further suggest that origin countries' level of economic development can negatively affect immigrant children educational performance, and that immigrant children from more politically stable countries perform better at school. Finally, socioeconomic differences between immigrant communities and a native population, and relative community size, both shape immigrant children scholastic achievement.",
+  "authors": [
+    {
+      "raw": "Levels, Mark",
+      "family": "Levels",
+      "given": "Mark"
+    },
+    {
+      "raw": "Dronkers, Jaap",
+      "family": "Dronkers",
+      "given": "Jaap"
+    },
+    {
+      "raw": "Kraaykamp, Gerbert",
+      "family": "Kraaykamp",
+      "given": "Gerbert"
+    }
+  ],
+  "authors_text": "Levels, Mark; Dronkers, Jaap; Kraaykamp, Gerbert",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1177/000312240807300507",
+  "doi_url": "https://doi.org/10.1177/000312240807300507",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240807300507",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240807300507.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

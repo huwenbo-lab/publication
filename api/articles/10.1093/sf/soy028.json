@@ -1,0 +1,30 @@
+{
+  "title": "Retirement Trajectories and Income Redistribution Through the Pension System in Finland",
+  "abstract": "In this article, we investigate the redistributive outcomes of the Finnish pension system. We hypothesize that a pension system does not straightforwardly diminish, maintain, or increase income differences after retirement, but it can have different outcomes for different groups. Our focus is on differences in changes in income between groups that vary in their timing and type of retirement. We make use of longitudinal register-based data from the Finnish Centre for Pensions and analyze income and retirement trajectories of Finnish employees born in 1948 from the age of 57 to 66 (N = 44,449). Our aim is to find out in what way trajectories of income from earnings and pensions are related to different types of retirement trajectories, while controlling for gender, sector of employment, and length of working life. Eight distinct retirement trajectories are identified using sequence analysis. The results of our multilevel regression models indicate that the pension system sustains inequalities related to gender and employment sector. Early old-age retirement and part-time retirement are associated with higher earnings and more generous pension entitlements, indicating cumulative advantage. Lower earnings are associated with higher risk of early exit through unemployment and disability pensions, while the pension system guarantees a minimum income level in retirement, resulting in status leveling. Those who retire later are relatively well off in work, but worse off in retirement, suggesting a status-leveling outcome. By disentangling these outcomes of the pension system, it is possible to learn social policy lessons for other national institutional contexts as well.",
+  "authors": [
+    {
+      "raw": "Riekhoff, Aart-Jan",
+      "family": "Riekhoff",
+      "given": "Aart-Jan"
+    },
+    {
+      "raw": "Jarnefelt, Noora",
+      "family": "Jarnefelt",
+      "given": "Noora"
+    }
+  ],
+  "authors_text": "Riekhoff, Aart-Jan; Jarnefelt, Noora",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy028",
+  "doi_url": "https://doi.org/10.1093/sf/soy028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

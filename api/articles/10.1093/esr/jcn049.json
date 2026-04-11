@@ -1,0 +1,35 @@
+{
+  "title": "Dynamics of Interethnic Contact: A Panel Study of Immigrants in the Netherlands",
+  "abstract": "In contrast to previous research on interethnic contact, which is static in nature, this article provides a dynamic analysis. The aim is to explain individuals' changes in interethnic contact over time by considering relevant time-constant and time-varying characteristics. We investigate the effects of these characteristics measured at time one (t 1 ) on the change in interethnic contact between t 1 and time two (t 2 ), thereby providing better estimates of causal relationships. A theory of preferences, opportunities, and third parties is used for identifying potential predictors of interethnic contact. The hypotheses are tested with panel data collected among Turkish, Moroccan, Surinamese, and Antillean immigrants in the Netherlands. The findings show that static research provides good estimates for time-constant characteristics, but it tends to overestimate the role of time-varying characteristics. Moreover, while education, language proficiency, low concentration of immigrants in the neighbourhood, and a native partner clearly lead to the development of more interethnic contact over time, there is indication that these characteristics might just as well be consequences of such contact.",
+  "authors": [
+    {
+      "raw": "Martinovic, B.",
+      "family": "Martinovic",
+      "given": "B."
+    },
+    {
+      "raw": "van Tubergen, F.",
+      "family": "van Tubergen",
+      "given": "F."
+    },
+    {
+      "raw": "Maas, I.",
+      "family": "Maas",
+      "given": "I."
+    }
+  ],
+  "authors_text": "Martinovic, B.; van Tubergen, F.; Maas, I.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1093/esr/jcn049",
+  "doi_url": "https://doi.org/10.1093/esr/jcn049",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn049",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn049.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

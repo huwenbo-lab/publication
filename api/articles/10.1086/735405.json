@@ -1,0 +1,40 @@
+{
+  "title": "Locally Ensconced and Globally Integrated: How Network Cohesion and Range Relate to a Language-Based Model of Organizational Identification",
+  "abstract": "Shifting attachments to organizations are a constant in the modern era. What accounts for variation in the strength of organizational identification? Whereas prior work has emphasized organization-level properties and individual differences, this article instead highlights the role of network-structural positions. Distilling insights from prior work on networks and identity, the authors propose that organizational identification strength is positively related to network cohesion-having contacts who are mutually interconnected. Departing from prevailing accounts, they further propose that identification strength also varies via network range-having contacts who inhabit a broad range of network communities. Using the tools of computational linguistics to develop a language-based measure of identification, they find support for the theory using pooled data of internal communications from three organizations.",
+  "authors": [
+    {
+      "raw": "Yang, Lara",
+      "family": "Yang",
+      "given": "Lara"
+    },
+    {
+      "raw": "Anshuman, Sarayu",
+      "family": "Anshuman",
+      "given": "Sarayu"
+    },
+    {
+      "raw": "Goldberg, Amir",
+      "family": "Goldberg",
+      "given": "Amir"
+    },
+    {
+      "raw": "Srivastava, Sameer B.",
+      "family": "Srivastava",
+      "given": "Sameer B."
+    }
+  ],
+  "authors_text": "Yang, Lara; Anshuman, Sarayu; Goldberg, Amir; Srivastava, Sameer B.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1086/735405",
+  "doi_url": "https://doi.org/10.1086/735405",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F735405",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/735405.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

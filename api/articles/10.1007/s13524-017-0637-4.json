@@ -1,0 +1,30 @@
+{
+  "title": "Can Increased Educational Attainment Among Lower-Educated Mothers Reduce Inequalities in Children's Skill Development?",
+  "abstract": "A rich tradition of stratification research has established a robust link between mothers' education and the skills in children that forecast children's own mobility. Yet, this research has failed to consider that many U.S. women are now completing their education after having children. Such a trend raises questions about whether increases in mothers' educational attainment can improve their children's skill development and whether these gains are enough to reduce inequalities in skills compared with children whose mothers completed the same degree before they were born. To answer these questions, we draw on a nationally representative sample of mothers and children participating in the National Longitudinal Surveys (NLSY79 and CNLY), random- and fixed-effects techniques, and repeated measures of children's cognitive and noncognitive skills. Contrary to existing research and theory, our results reveal that educational attainment obtained after children's births is not associated with an improvement in children's skills. Such findings offer substantial refinement to a long-standing model of intergenerational mobility by suggesting that the intergenerational returns to mother's education are weaker when education is acquired after children are born. Results also highlight the limits of two-generation policy approaches to reducing inequality in future generations.",
+  "authors": [
+    {
+      "raw": "Augustine, Jennifer March",
+      "family": "Augustine",
+      "given": "Jennifer March"
+    },
+    {
+      "raw": "Negraia, Daniela V.",
+      "family": "Negraia",
+      "given": "Daniela V."
+    }
+  ],
+  "authors_text": "Augustine, Jennifer March; Negraia, Daniela V.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-017-0637-4",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0637-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0637-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0637-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

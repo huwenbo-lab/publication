@@ -1,0 +1,30 @@
+{
+  "title": "Trends in Self-reported Spontaneous Abortions: 1970–2000",
+  "abstract": "AbstractLittle is known about how the miscarriage rate has changed over the past few decades in the United States. Data from Cycles IV to VI of the National Survey of Family Growth (NSFG) were used to examine trends from 1970 to 2000. After accounting for abortion availability and the characteristics of pregnant women, the rate of reported miscarriages increased by about 1.0% per year. This upward trend is strongest in the first seven weeks and absent after 12 weeks of pregnancy. African American and Hispanic women report lower rates of early miscarriage than do whites. The probability of reporting a miscarriage rises by about 5% per year of completed schooling. The upward trend, especially in early miscarriages, suggests awareness of pregnancy rather than prenatal care to be a key factor in explaining the evolution of self-reported miscarriages. Any beneficial effects of prenatal care on early miscarriage are obscured by this factor. Differences in adoption of early-awareness technology, such as home pregnancy tests, should be taken into account when analyzing results from self-reports or clinical trials relying on awareness of pregnancy in its early weeks.",
+  "authors": [
+    {
+      "raw": "Lang, Kevin",
+      "family": "Lang",
+      "given": "Kevin"
+    },
+    {
+      "raw": "Nuevo-Chiquero, Ana",
+      "family": "Nuevo-Chiquero",
+      "given": "Ana"
+    }
+  ],
+  "authors_text": "Lang, Kevin; Nuevo-Chiquero, Ana",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0113-0",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0113-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0113-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0113-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

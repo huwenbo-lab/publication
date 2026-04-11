@@ -1,0 +1,40 @@
+{
+  "title": "The increasing racial disparity in infant mortality: Respiratory distress syndrome and other causes",
+  "abstract": "Abstract Although substantial declines in infant mortality rates have occurred across racial/ethnic groups, there has been a marked increase in relative black-white disparity in the risk of infant death over the past two decades. The objective of our analysis was to gain insight into the reasons for this growing inequality on the basis of data from linked cohort files for 1989–1990 and 1995–1998. We found a nationwide reversal from a survival advantage to a survival disadvantage for blacks with respect to respiratory distress syndrome over this period. The results are consistent with the view that the potential for a widening of the relative racial gap in infant mortality is high when innovations in health care occur in a continuing context of social inequality. As expected, the results for other causes of infant mortality, although similar, are less striking. Models of absolute change demonstrate that among low-weight births, absolute declines in mortality were greater for white infants than for black infants.",
+  "authors": [
+    {
+      "raw": "Frisbie, W. Parker",
+      "family": "Frisbie",
+      "given": "W. Parker"
+    },
+    {
+      "raw": "Song, Seung-eun",
+      "family": "Song",
+      "given": "Seung-eun"
+    },
+    {
+      "raw": "Powers, Daniel A.",
+      "family": "Powers",
+      "given": "Daniel A."
+    },
+    {
+      "raw": "Street, Julie A.",
+      "family": "Street",
+      "given": "Julie A."
+    }
+  ],
+  "authors_text": "Frisbie, W. Parker; Song, Seung-eun; Powers, Daniel A.; Street, Julie A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0030",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

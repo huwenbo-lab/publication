@@ -1,0 +1,35 @@
+{
+  "title": "COVID-19 fatality in Germany: Demographic determinants of variation in case-fatality rates across and within German federal states during the first and second waves",
+  "abstract": "BACKGROUND Germany experienced one of the lowest COVID-19 case-fatality rates (CFRs) in Western Europe in the first pandemic wave, and further CFR decreases in the spring and summer of 2020. However, Germany's CFR increased markedly during the second wave, becoming one of the highest in Western Europe. Furthermore, CFRs varied considerably across German federal states. The drivers of this CFR time trend and the state differences remain unclear. OBJECTIVE We aim to identify the contribution to the CFR differences across and within German states of (1) the population age structure, (2) the age structure of confirmed infection rates, and (3) the age-specific fatality. METHODS We use data documenting COVID-19 cases and deaths from the COVerAGE-DB, applying demographic decomposition methods proposed by Kitagawa and Horiuchi. RESULTS The CFR decrease between spring and autumn 2020 in Germany resulted from a shift toward younger ages in confirmed infection rates and decreasing age-specific fatality. The CFR increase that followed was predominantly driven by a shift toward older ages in the age composition of confirmed infection rates. Although most of the CFR variation across German states resulted from differences in the population age distribution, differences in the age structure of detected infection rates contributed substantially to this variation. CONCLUSIONS Differences in German CFRs depended mainly on the age structure of the population and the confirmed infection rates. Age-specific fatality played a noteworthy role only in CFR changes over time. CONTRIBUTION We provide previously undocumented information for Germany on the factors modulating differences in the COVID-19 fatality across states and over time.",
+  "authors": [
+    {
+      "raw": "Morwinsky, Saskia",
+      "family": "Morwinsky",
+      "given": "Saskia"
+    },
+    {
+      "raw": "Nitsche, Natalie",
+      "family": "Nitsche",
+      "given": "Natalie"
+    },
+    {
+      "raw": "Acosta, Enrique",
+      "family": "Acosta",
+      "given": "Enrique"
+    }
+  ],
+  "authors_text": "Morwinsky, Saskia; Nitsche, Natalie; Acosta, Enrique",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.45",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.45",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.45",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.45.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

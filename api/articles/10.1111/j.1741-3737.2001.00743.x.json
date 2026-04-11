@@ -1,0 +1,35 @@
+{
+  "title": "Changing Partners: Toward a Macrostructural‐Opportunity Theory of Marital Dissolution",
+  "abstract": "We merge marital history data for respondents in the National Survey of Families and Households with census data describing the sex composition of their local marriage markets and occupations to examine the impact of the availability of spousal alternatives on marital dissolution. Proportional hazards regression models that adjust for left truncation reveal that the risk of divorce is highest in geographically defined marriage markets where either husbands or wives encounter numerous alternatives to their current partner. Couples are also more likely to divorce when the wife works in an occupation having relatively many men and few women, but husbands' occupational sex ratio has no effect on the risk of marital dissolution. The destabilizing effects of the availability of spousal alternatives in the local marriage market and in wives' occupations are equally strong among couples with many and few other risk factors for divorce. Our findings suggest that spouses' structural opportunities to form alternative opposite‐sex relationships are an important factor in explaining why some couples divorce.",
+  "authors": [
+    {
+      "raw": "South, Scott J.",
+      "family": "South",
+      "given": "Scott J."
+    },
+    {
+      "raw": "Trent, Katherine",
+      "family": "Trent",
+      "given": "Katherine"
+    },
+    {
+      "raw": "Shen, Yang",
+      "family": "Shen",
+      "given": "Yang"
+    }
+  ],
+  "authors_text": "South, Scott J.; Trent, Katherine; Shen, Yang",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2001,
+  "doi": "10.1111/j.1741-3737.2001.00743.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2001.00743.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2001.00743.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2001.00743.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

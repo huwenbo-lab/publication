@@ -1,0 +1,25 @@
+{
+  "title": "Nonparametric Methods for Modeling Nonlinearity in Regression Analysis",
+  "abstract": "The linear model and related generalized linear model (GLM) are important tools for sociologists. If the relationships between y (or in the case of the GLM, the linear predictor eta) and the xs are linear, these methods provide elegant summaries of the data. However, these methods fail to adequately model underlying relationships if they are characterized by complex nonlinear patterns. In such cases, nonparametric regression, which allows the functional form between y and x to be determined by the data themselves, is more suitable. There are many types of nonparametric simple regression. I focus on locally weighted scatter-plot smoothing (lowess or loess) and smoothing splines because they are the most widely used. I also describe additive and generalized additive models (GAM), which allow modeling of categorical dependent variables, and I explain how these methods can handle both parametric and nonparametric (i.e., lowess and smoothing splines) effects for many predictors. Finally, I briefly introduce the more recent development of the vector generalized additive model (VGAM), which further extends the GAM to handle multivariate dependent variables, and the generalized additive mixed model (GAMM), which allows specification of smooth functions within the mixed model framework.",
+  "authors": [
+    {
+      "raw": "Andersen, Robert",
+      "family": "Andersen",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Andersen, Robert",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2009,
+  "doi": "10.1146/annurev.soc.34.040507.134631",
+  "doi_url": "https://doi.org/10.1146/annurev.soc.34.040507.134631",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev.soc.34.040507.134631",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev.soc.34.040507.134631.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

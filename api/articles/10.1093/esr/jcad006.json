@@ -1,0 +1,30 @@
+{
+  "title": "Young adults' labour market transitions and intergenerational support in Germany",
+  "abstract": "Research has shown that parents provide considerable support to their children; however, we know little about the influence of young adults' employment experiences on the support they receive from their parents. We draw on data from the German Family Panel pairfam for birth cohorts 1981-1983 and 1991-1993 and use a first difference panel estimator with asymmetric effects to examine the extent to which young adults' employment transitions affect material, emotional, and instrumental support from parents. We find stark differences across types of support: parental material support changes in response to transitions in and out of employment, especially when to and from education. Other types of support seem less contingent on labour market transitions. Instrumental support only increases for transitions from education to employment and from employment to NEET. The latter effect is mainly driven by women entering parental leave. We do not find strong evidence of differences between transitions to standard and non-standard work. The association between employment transitions and intergenerational material support flows suggests that families act as safety nets, raising concerns about those whose families are unable to help.",
+  "authors": [
+    {
+      "raw": "Manzoni, Anna",
+      "family": "Manzoni",
+      "given": "Anna"
+    },
+    {
+      "raw": "Gebel, Michael",
+      "family": "Gebel",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Manzoni, Anna; Gebel, Michael",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad006",
+  "doi_url": "https://doi.org/10.1093/esr/jcad006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

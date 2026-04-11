@@ -1,0 +1,45 @@
+{
+  "title": "Old habits die hard? School guidance interventions and the persistence of inequalities",
+  "abstract": "Social disparities in track choices are a well-known mechanism for the intergenerational reproduction of inequality. School guidance may help reducing such disparities by narrowing information gaps and by reducing the family influence on students' decision making. We investigate the potential equalizing role of guidance programmes by analysing an intervention carried out in Italy, where students are tracked at age 14 and teacher recommendations are non-binding. The intervention took place in 2018 in the city of Turin and involved 40% of all eighth-grade students, shortly before their transition from comprehensive to tracked education. The students attended four two-hour sessions designed to provide them with information about the educational system and related job market opportunities, and to raise their awareness of their aptitudes and inclinations. We expected the programme to be of particular benefit to low socio-economic status (SES) and migrant students and thus to reduce social gaps in track choices. We adopted a mixed-method research design: with quantitative analyses based on a combination of propensity-score and differences-in-differences techniques, we compared the out-comes of comparable students from the 2017 and 2018 cohorts who were or were not exposed to the intervention in order to assess its impact on inequality; additionally, we use qualitative non-participatory observation to unveil the actual content and implementation of the programme and the behaviour of the key actors. We find that while the programme contributed to reducing indecision, it did not have any major effect on social in-equalities in either intentions or choices. Results from the qualitative analysis help us shed light on the mechanisms at play behind this lack of effect. In particular, the heavy emphasis placed on current achievement records, dropout risks, and (short-term) labour-market outcomes may counteract the equalizing potential of the programme, by diverting low-SES kids away from academic tracks.",
+  "authors": [
+    {
+      "raw": "Borgna, Camilla",
+      "family": "Borgna",
+      "given": "Camilla"
+    },
+    {
+      "raw": "Contini, Dalit",
+      "family": "Contini",
+      "given": "Dalit"
+    },
+    {
+      "raw": "Pintor, Stella Pinna",
+      "family": "Pintor",
+      "given": "Stella Pinna"
+    },
+    {
+      "raw": "Ricucci, Roberta",
+      "family": "Ricucci",
+      "given": "Roberta"
+    },
+    {
+      "raw": "Vigna, Nathalie",
+      "family": "Vigna",
+      "given": "Nathalie"
+    }
+  ],
+  "authors_text": "Borgna, Camilla; Contini, Dalit; Pintor, Stella Pinna; Ricucci, Roberta; Vigna, Nathalie",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100728",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100728",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100728",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100728.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

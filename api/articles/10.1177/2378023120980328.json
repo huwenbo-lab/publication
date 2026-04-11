@@ -1,0 +1,35 @@
+{
+  "title": "Decline in Marriage Associated with the COVID-19 Pandemic in the United States",
+  "abstract": "In the social upheaval arising from the coronavirus disease 2019 (COVID-19) pandemic, we do not yet know how union formation, particularly marriage, has been affected. Using administration records—marriage certificates and applications—gathered from settings representing a variety of COVID-19 experiences in the United States, the authors compare counts of recorded marriages in 2020 against those from the same period in 2019. There is a dramatic decrease in year-to-date cumulative marriages in 2020 compared with 2019 in each case. Similar patterns are observed for the Seattle metropolitan area when analyzing the cumulative number of marriage applications, a leading indicator of marriages in the near future. Year-to-date declines in marriage are unlikely to be due solely to closure of government agencies that administer marriage certification or reporting delays. Together, these findings suggest that marriage has declined during the COVID-19 outbreak and may continue to do so, at least in the short term.",
+  "authors": [
+    {
+      "raw": "Wagner, Brandon G.",
+      "family": "Wagner",
+      "given": "Brandon G."
+    },
+    {
+      "raw": "Choi, Kate H.",
+      "family": "Choi",
+      "given": "Kate H."
+    },
+    {
+      "raw": "Cohen, Philip N.",
+      "family": "Cohen",
+      "given": "Philip N."
+    }
+  ],
+  "authors_text": "Wagner, Brandon G.; Choi, Kate H.; Cohen, Philip N.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120980328",
+  "doi_url": "https://doi.org/10.1177/2378023120980328",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120980328",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120980328.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Using Data to Advance Educational Research, Policy, and Practice: Design, Content, and Research Potential of the Netherlands Cohort Study on Education",
+  "abstract": "In many countries, the quality of (large-scale quantitative) educational research is threatened by data challenges. In this article, we present an innovative data research project from the Netherlands in which many of the challenges that come forward in previous literature are addressed. The Netherlands Cohort Study on Education [in Dutch abbreviated as NCO (Nationaal Cohortonderzoek Onderwijs)] uses longitudinal register data on track placement of cohorts of pupils in primary and secondary education from Statistics Netherlands, which will be combined with school admin data on pupils' performance and data from the major (inter)national surveys. NCO maps pupils' pathways and performances through primary and secondary education and their trajectory into tertiary education. NCO so far covers more than 10 complete cohorts and is complemented with the newest data every year. These registers are made available at Statistics Netherlands. A major contribution of NCO is that data from school administrative systems and additional research projects are linked with administrative register data, thereby creating a unique data set that enriches not only research, but also policy and practice. This data brief elaborates on the possibilities of this database by exploring and following one of the cohorts over time.",
+  "authors": [
+    {
+      "raw": "Haelermans, Carla",
+      "family": "Haelermans",
+      "given": "Carla"
+    },
+    {
+      "raw": "Huijgen, Timo",
+      "family": "Huijgen",
+      "given": "Timo"
+    },
+    {
+      "raw": "Jacobs, Madelon",
+      "family": "Jacobs",
+      "given": "Madelon"
+    },
+    {
+      "raw": "Levels, Mark",
+      "family": "Levels",
+      "given": "Mark"
+    },
+    {
+      "raw": "van der Velden, Rolf",
+      "family": "van der Velden",
+      "given": "Rolf"
+    },
+    {
+      "raw": "van Vugt, Lynn",
+      "family": "van Vugt",
+      "given": "Lynn"
+    },
+    {
+      "raw": "van Wetten, Sanne",
+      "family": "van Wetten",
+      "given": "Sanne"
+    }
+  ],
+  "authors_text": "Haelermans, Carla; Huijgen, Timo; Jacobs, Madelon; Levels, Mark; van der Velden, Rolf; van Vugt, Lynn; van Wetten, Sanne",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcaa027",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

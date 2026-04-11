@@ -1,0 +1,45 @@
+{
+  "title": "Visualizing COVID Restrictions: Activity Patterns Before, During, and After COVID-19 Lockdowns in Uttar Pradesh, India",
+  "abstract": "Globally, restrictions implemented to limit the spread of COVID-19 have highlighted deeply rooted social divisions, raising concerns about differential impacts on members of different groups. Inequalities among households of different castes are ubiquitous in certain regions of India. Drawing on a novel data set of 8,564 households in Uttar Pradesh, the authors use radar plots to examine differences between castes in rates of activity for several typical behaviors before, during, and upon lifting strict lockdown restrictions. The visualization reveals that members of all castes experienced comparable reductions in activity rates during lockdown and recovery rates following it. Nonetheless, members of less privileged castes procure water outside the household more often than their more privileged peers, highlighting an avenue of improvement for future public health efforts.",
+  "authors": [
+    {
+      "raw": "Varela, Gabriel",
+      "family": "Varela",
+      "given": "Gabriel"
+    },
+    {
+      "raw": "Swanson, Kendal",
+      "family": "Swanson",
+      "given": "Kendal"
+    },
+    {
+      "raw": "Pasquale, Dana K.",
+      "family": "Pasquale",
+      "given": "Dana K."
+    },
+    {
+      "raw": "Mohanan, Manoj",
+      "family": "Mohanan",
+      "given": "Manoj"
+    },
+    {
+      "raw": "Moody, James W.",
+      "family": "Moody",
+      "given": "James W."
+    }
+  ],
+  "authors_text": "Varela, Gabriel; Swanson, Kendal; Pasquale, Dana K.; Mohanan, Manoj; Moody, James W.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221117962",
+  "doi_url": "https://doi.org/10.1177/23780231221117962",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221117962",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221117962.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

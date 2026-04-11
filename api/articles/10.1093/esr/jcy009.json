@@ -1,0 +1,30 @@
+{
+  "title": "The Weight Wage Penalty: A Mechanism Approach to Discrimination",
+  "abstract": "The wage weight penalty is a well-established finding in the literature, but not much is known about the mechanisms that bring this phenomenon about. This article aims to provide answers to the question of why overweight and obese people earn less. Using the data of the German Socio-Economic Panel, we conduct three theory-driven litmus tests for mechanisms that explain the weight wage gap: human capital differences, discrimination due to asymmetric information, or taste-based discrimination. Due to conflicting predictions from the three theories, interaction effects between weight and structural conditions serve as the key identification strategy. Results show that for men, productivityrelated variables (e. g. education, work experience, occupation, and physical health) almost completely explain the weight-specific variance in wages. In contrast, for women, neither performance nor a lack of information can solve the puzzle of weight-based differences in wages. We therefore conclude that-at least in Germany-overweight and obese women suffer from taste-based discrimination, whereas overweight and obese men earn less due to human capital differences.",
+  "authors": [
+    {
+      "raw": "Bozoyan, Christiane",
+      "family": "Bozoyan",
+      "given": "Christiane"
+    },
+    {
+      "raw": "Wolbring, Tobias",
+      "family": "Wolbring",
+      "given": "Tobias"
+    }
+  ],
+  "authors_text": "Bozoyan, Christiane; Wolbring, Tobias",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy009",
+  "doi_url": "https://doi.org/10.1093/esr/jcy009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

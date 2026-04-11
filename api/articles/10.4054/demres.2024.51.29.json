@@ -1,0 +1,40 @@
+{
+  "title": "The impact of the COVID-19 pandemic on mortality in Uruguay from 2020 to 2022",
+  "abstract": "BACKGROUND In 2020, as the SARS-CoV-2 virus spread globally, many countries around the world experienced substantial increases in mortality, including in Latin America. In that year, many non-pharmaceutical measures were implemented in Uruguay. The first COVID-19 vaccines were administered in February 2021. Uruguay has various characteristics that were pointed out as risk factors in the course of the pandemic, mainly an old population, high urbanization levels, and socioeconomic inequalities. METHODS We estimate the annual and monthly excess deaths and P-scores for 2020, 2021, and 2022. We also compute the sex-specific life expectancy gap between each one of those years and 2019, and we decompose the observed changes into the contributions from COVID-19 at different ages. RESULTS In contrast to what was observed in neighboring countries, Uruguay experienced a life- expectancy increase in 2020 as compared to 2019. However, life expectancy declined substantially in the country in 2021 and 2022. While most of the decline in 2021 is attributable to COVID-19, the cause-of-death profile of the losses in 2022 is more complex. Although both sexes were affected, women experienced a larger life- expectancy loss in 2022. CONTRIBUTION Previous studies about COVID-19 mortality in Latin America mention the particular case of Uruguay as a country that was barely affected by the pandemic in 2020. In fact, there were fewer deaths than expected that year. Here we extend the analysis until the end of 2022, showing that unlike the first pandemic year, there was a substantial mortality increase in Uruguay in 2021 and 2022.",
+  "authors": [
+    {
+      "raw": "Torres, Catalina",
+      "family": "Torres",
+      "given": "Catalina"
+    },
+    {
+      "raw": "Rosas, Victoria Prieto",
+      "family": "Rosas",
+      "given": "Victoria Prieto"
+    },
+    {
+      "raw": "De Armas, Gonzalo",
+      "family": "De Armas",
+      "given": "Gonzalo"
+    },
+    {
+      "raw": "Paredes, Mariana",
+      "family": "Paredes",
+      "given": "Mariana"
+    }
+  ],
+  "authors_text": "Torres, Catalina; Rosas, Victoria Prieto; De Armas, Gonzalo; Paredes, Mariana",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.29",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

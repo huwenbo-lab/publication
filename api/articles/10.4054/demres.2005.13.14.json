@@ -1,0 +1,35 @@
+{
+  "title": "Official population statistics and the Human Mortality Database estimates of populations aged 80+ in Germany and nine other European countries",
+  "abstract": "A systematic comparison of the Human Mortality Database and official estimates of populations aged 80+ is presented. We consider statistical series for East and West Germany and also for Denmark, England and Wales, France, Finland, Hungary, the Netherl",
+  "authors": [
+    {
+      "raw": "Jdanov, Dmitri A.",
+      "family": "Jdanov",
+      "given": "Dmitri A."
+    },
+    {
+      "raw": "Scholz, Rembrandt D.",
+      "family": "Scholz",
+      "given": "Rembrandt D."
+    },
+    {
+      "raw": "Shkolnikov, Vladimir",
+      "family": "Shkolnikov",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Jdanov, Dmitri A.; Scholz, Rembrandt D.; Shkolnikov, Vladimir",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2005,
+  "doi": "10.4054/demres.2005.13.14",
+  "doi_url": "https://doi.org/10.4054/demres.2005.13.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2005.13.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2005.13.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

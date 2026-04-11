@@ -1,0 +1,25 @@
+{
+  "title": "Proximate Sources of Change in Trajectories of First Marriage in the United States, 1960-2010",
+  "abstract": "This study examines proximate sources of change in first-marriage trajectories in the United States between 1960 and 2010. This was a period of tremendous social change: divorce became more common, people started marrying later or not marrying at all, innovations in medicine and changes in social and behavioral factors led to reduced mortality, inequality grew stronger and was reflected by more intense assortative mating, and the country underwent a massive educational expansion. Each of these factors influenced the formation and dissolution of first marriages over this period. This article extends the multiple-decrement life table to incorporate heterogeneity and assortative mating, which allows the quantification of how changes in the incidence of marriage, divorce, and mortality, along with changes in educational attainment and assortative mating, have shaped trends in first-marriage trajectories. The model is used to prove that stronger educational assortative mating leads to longer average durations of first marriage. Using data from multiple sources and this model, this study shows that although the incidence of divorce was the primary determinant of changes in first-marriage trajectories between 1960 and 1980, it has played a relatively smaller role in driving change in marital trajectories between 1980 and 2010. Instead, factors such as later age at first marriage, educational expansion, declining mortality, narrowing sex differences in mortality, and more intense educational assortative mating have been the major drivers of changes in first-marriage trajectories since 1980.",
+  "authors": [
+    {
+      "raw": "Hendi, Arun S.",
+      "family": "Hendi",
+      "given": "Arun S."
+    }
+  ],
+  "authors_text": "Hendi, Arun S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00769-3",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00769-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00769-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00769-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

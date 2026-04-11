@@ -1,0 +1,35 @@
+{
+  "title": "The Great Recession and Fertility in Europe: A Sub-national Analysis",
+  "abstract": "AbstractThis study investigates how the changes in labour market conditions and economic growth were associated with fertility before and during theGreat Recessionin Europe in 2002–2014. In contrast to previous studies, which largely concentrated at the country level, we use data for 251 European regions in 28 European Union (EU) member states prior to the withdrawal of the United Kingdom in January 2020. We apply three-level growth-curve model which allows for a great deal of flexibility in modelling temporal change while controlling for variation in economic conditions across regions and countries. Our findings show that fertility decline was strongly related to unemployment increase; this relationship was significant at different reproductive ages. Deteriorating economic conditions were associated with a stronger decline in fertility during the economic recession as compared with the pre-recession period. This evidence suggests the salience of factors such as broader perception of uncertainty that we could not capture in our models and which rose to prominence during the Great Recession. Furthermore, strongest fertility declines were observed in Southern Europe, Ireland and parts of Central and Eastern Europe, i.e. countries and regions where labour market conditions deteriorated most during the recession period. In Western Europe, and especially in the Nordic countries, fertility rates were not closely associated with the recession indicators.",
+  "authors": [
+    {
+      "raw": "Matysiak, Anna",
+      "family": "Matysiak",
+      "given": "Anna"
+    },
+    {
+      "raw": "Sobotka, Tomáš",
+      "family": "Sobotka",
+      "given": "Tomáš"
+    },
+    {
+      "raw": "Vignoli, Daniele",
+      "family": "Vignoli",
+      "given": "Daniele"
+    }
+  ],
+  "authors_text": "Matysiak, Anna; Sobotka, Tomáš; Vignoli, Daniele",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2020,
+  "doi": "10.1007/s10680-020-09556-y",
+  "doi_url": "https://doi.org/10.1007/s10680-020-09556-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-020-09556-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-020-09556-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

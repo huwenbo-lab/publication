@@ -1,0 +1,35 @@
+{
+  "title": "Dimensions of social capital and rates of criminal homicide",
+  "abstract": "Robert Putnam comprehensively analyzes the multidimensional nature of social capital and makes a persuasive argument for its relevance to various community social problems, including violent crime. However systematic empirical evaluations of the links between the multiple dimensions of social capital and violence are limited by the lack of adequate measures. Using data from the Social Capital Benchmark Survey, the authors model the relationships between several dimensions of social capital and homicide rates for 40 US. geographic areas. Their findings show that many forms of social capital highlighted in the literature as having beneficial consequences for communities are not related to homicide rates. Two dimensions of social capital, social trust and social activism, do exhibit significant associations with homicide rates, net of other influences. However, in the latter case, the relationship is positive, and in both cases, simultaneous equation models suggest that these dimensions of social capital are consequences as well as causes of homicide. The results underscore the importance of examining the different dimensions ofsocial capital and assessing their reciprocal relationships with homicide and other social outcomes.",
+  "authors": [
+    {
+      "raw": "Messner, SF",
+      "family": "Messner",
+      "given": "SF"
+    },
+    {
+      "raw": "Baumer, EP",
+      "family": "Baumer",
+      "given": "EP"
+    },
+    {
+      "raw": "Rosenfeld, R",
+      "family": "Rosenfeld",
+      "given": "R"
+    }
+  ],
+  "authors_text": "Messner, SF; Baumer, EP; Rosenfeld, R",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2004,
+  "doi": "10.1177/000312240406900607",
+  "doi_url": "https://doi.org/10.1177/000312240406900607",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240406900607",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240406900607.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

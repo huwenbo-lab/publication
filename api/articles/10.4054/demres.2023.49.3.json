@@ -1,0 +1,40 @@
+{
+  "title": "The quality of fertility data in the web-based Generations and Gender Survey",
+  "abstract": "BACKGROUNDThe Generations and Gender Survey (GGS) enables investigating family-related events from a life course perspective. After its first round of face-to-face implementation, various factors resulted in the second round being implemented on the web. Despite its advantages, implementing a web-based GGS has its drawbacks - for instance, possible misreporting, and especially underreporting, of life history variables due to the lack of on-site guidance.OBJECTIVETo assess the quality of GGS second-round data collected through the web by verifying the accuracy of fertility histories.METHODSWe compare the GGS data with population-based estimates from open access sources, the Human Fertility Database (HFD) and the United Nations Population Division (UN), using three cohort indicators and one period fertility indicator that are frequently used as summary measures. We restrict the analysis to the female fertility history data of countries where the second round of the GGS was implemented via the web and the data processing has been completed: Estonia, Norway, Finland, Denmark, and Sweden.RESULTSFor the four indicators, the GGS estimates are consistent with the population-based estimates. With a few exceptions, HFD and UN estimates fall within the GGS confidence intervals (CIs).CONCLUSIONOverall, we found similarities that demonstrate the high quality of the data. Our assessment finds no systematic deviation for the cohort indicators and small scale underreporting for the period indicator (nevertheless, also usually within the CIs).CONTRIBUTIONThe high level of similarity is encouraging for the use of GGS second-round data and the implementation of web-based methods of data collection.",
+  "authors": [
+    {
+      "raw": "Leocadio, Victor",
+      "family": "Leocadio",
+      "given": "Victor"
+    },
+    {
+      "raw": "Gauthier, Anne H.",
+      "family": "Gauthier",
+      "given": "Anne H."
+    },
+    {
+      "raw": "Mynarska, Monika",
+      "family": "Mynarska",
+      "given": "Monika"
+    },
+    {
+      "raw": "Costa, Rafael",
+      "family": "Costa",
+      "given": "Rafael"
+    }
+  ],
+  "authors_text": "Leocadio, Victor; Gauthier, Anne H.; Mynarska, Monika; Costa, Rafael",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.3",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

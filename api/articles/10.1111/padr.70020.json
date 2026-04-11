@@ -1,0 +1,30 @@
+{
+  "title": "Intergenerational Educational Mobility During the Twentieth Century",
+  "abstract": "Intergenerational educational mobility, capturing the extent to which children's education is associated with their parents' education, has become a major global policy discussion. Studying its long-term patterns across countries remains difficult, especially in low- and middle-income countries (LMICs), due to limited early twentieth-century data. Analyzing about 53.7 million observations from 92 countries, using mainly IPUMS census data, we find that recent cohorts exhibit increasing educational mobility across various world regions, with post-Soviet countries as exceptions. This increase is more prominent for daughters, resulting in a narrowed gender-based mobility gap in many LMICs, while reversing this pattern in high-income countries (HICs), with daughters being more mobile in recent decades. Nevertheless, mobility remains higher in HICs than in LMICs. Moreover, we identify a significant association between the expansion of schooling and intergenerational mobility. This expansion is associated with a more substantial rise in intergenerational mobility for daughters, especially in relation to their mothers' education compared to that of their fathers. Our results demonstrate strong external and internal validity through a series of robustness checks, including data triangulation across multiple sources.",
+  "authors": [
+    {
+      "raw": "Hossain, Mobarak",
+      "family": "Hossain",
+      "given": "Mobarak"
+    },
+    {
+      "raw": "Beretta, Martina",
+      "family": "Beretta",
+      "given": "Martina"
+    }
+  ],
+  "authors_text": "Hossain, Mobarak; Beretta, Martina",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70020",
+  "doi_url": "https://doi.org/10.1111/padr.70020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

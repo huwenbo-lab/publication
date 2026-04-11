@@ -1,0 +1,40 @@
+{
+  "title": "Neighbourhood Concentration and Representation of Non-European Migrants: New Results from Norway",
+  "abstract": "In a previous study, Andersson et al. (A comparative study of segregation patterns in Belgium, Denmark, the Netherlands and Sweden: neighbourhood concentration and representation of non-European migrants. Eur J Popul 34:1-25, 2018) compared the patterns of residential segregation between non-European immigrants and the rest of the population in four European countries, using the k-nearest neighbours approach to compute comparable measures of segregation. This approach relies on detailed geo-coded data and can be used to assess segregation levels at different neighbourhood scales. This paper updates these findings with results from Norway. Using similar data and methods, we document both similarities and striking differences between the segregation patterns in Norway and Belgium, Denmark, the Netherlands and Sweden. While the segregation patterns in Norway at larger scales are roughly comparable to those found in Denmark, but with higher concentrations of non-European immigrants in the most immigrant-dense large-scale neighbourhoods, the micro-level segregation is much lower in Norway than in the other countries. While an important finding by Andersson et al. (2018) was that segregation levels at the micro-scale of 200 nearest neighbours fell within a narrow band, with a dissimilarity index between 0.475 and 0.512 in the four countries under study, segregation levels at this scale are clearly lower in Norway, with a dissimilarity index of 0.429. We discuss possible explanations for these patterns.",
+  "authors": [
+    {
+      "raw": "Rogne, Adrian F.",
+      "family": "Rogne",
+      "given": "Adrian F."
+    },
+    {
+      "raw": "Andersson, Eva K.",
+      "family": "Andersson",
+      "given": "Eva K."
+    },
+    {
+      "raw": "Malmberg, Bo",
+      "family": "Malmberg",
+      "given": "Bo"
+    },
+    {
+      "raw": "Lyngstad, Torkild H.",
+      "family": "Lyngstad",
+      "given": "Torkild H."
+    }
+  ],
+  "authors_text": "Rogne, Adrian F.; Andersson, Eva K.; Malmberg, Bo; Lyngstad, Torkild H.",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2019,
+  "doi": "10.1007/s10680-019-09522-3",
+  "doi_url": "https://doi.org/10.1007/s10680-019-09522-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-019-09522-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-019-09522-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

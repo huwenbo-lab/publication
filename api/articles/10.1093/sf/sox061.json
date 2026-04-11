@@ -1,0 +1,30 @@
+{
+  "title": "Income Inequality and Household Labor",
+  "abstract": "Income inequality has increased dramatically in the United States since the mid-1970s. This remarkable change in the distribution of household income has spurred a great deal of research on the social and economic consequences of exposure to high inequality. However, the empirical record on the effects of income inequality is mixed. In this paper, we suggest that previous research has generally overlooked a simple but important pathway through which inequality might manifest in daily life: inequality shapes the ability of women to outsource domestic labor by hiring others to perform it. One important venue where such dynamics might then manifest is in time spent on housework, and in particular in the time divide in housework between women of high and low socio-economic status. We combine micro-data from the 2003-2013 American Time Use Survey with area-level data on income inequality to show that the class divide in housework time between women with a college degree and from high-earning households and women of lower socio-economic status is wider in more unequal places. We further assess whether this gap can be explained by domestic outsourcing by combining micro-data from the 2003-2013 Consumer Expenditure Survey with area-level data on income inequality and show that the gap in spending for household services between households of high and low socio-economic status also increases in contexts of higher inequality.",
+  "authors": [
+    {
+      "raw": "Schneider, Daniel",
+      "family": "Schneider",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Hastings, Orestes P.",
+      "family": "Hastings",
+      "given": "Orestes P."
+    }
+  ],
+  "authors_text": "Schneider, Daniel; Hastings, Orestes P.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox061",
+  "doi_url": "https://doi.org/10.1093/sf/sox061",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox061",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox061.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

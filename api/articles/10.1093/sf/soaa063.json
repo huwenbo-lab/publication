@@ -1,0 +1,35 @@
+{
+  "title": "Consequences of Group Style for Differential Participation",
+  "abstract": "This article proposes a theory of how interaction in groups influences differential participation in political activism and interrogates this theory through an empirical analysis of online Facebook group interaction. We study the refugee solidarity movement in a mixed methods design employing online ethnography, survey, and big social media data. Instead of conceptualizing the group as a social network or social movement organization (SMO), we argue that the group's culture emerges as patterns of interaction that have implications for what kind of activities in which group members participate. Based on observations from our online ethnography, we suggest that group interaction influences differential individual participation through processes of (1) encoding different habits and (2) attuning the activist to different aspects of situations. We support our theoretical propositions with six statistical tests of the relationship between the group-level variable of contentious group style and the individual-level variable of participation in political protest. The dependent variable, political protest, and a comprehensive set of controls stem from an original survey of the Danish refugee solidarity movement with 2,283 respondents. We link the survey data with big social media data used to estimate the focal explanatory variable, contentious group style, generated from content analysis of online interaction in 119 Facebook groups quantified with supervised machine learning. The results show that group style has a consistently positive relationship with the individual's degree of participation independent of networks, SMO framing, and individual attributes.",
+  "authors": [
+    {
+      "raw": "Carlsen, Hjalmar Bang",
+      "family": "Carlsen",
+      "given": "Hjalmar Bang"
+    },
+    {
+      "raw": "Toubol, Jonas",
+      "family": "Toubol",
+      "given": "Jonas"
+    },
+    {
+      "raw": "Ralund, Snorre",
+      "family": "Ralund",
+      "given": "Snorre"
+    }
+  ],
+  "authors_text": "Carlsen, Hjalmar Bang; Toubol, Jonas; Ralund, Snorre",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa063",
+  "doi_url": "https://doi.org/10.1093/sf/soaa063",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa063",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa063.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Effect of Minimum Wage Rates on High School Completion",
+  "abstract": "Does increasing the minimum wage reduce the high school completion rate? Previous research has suffered from (1. narrow time horizons, (2. potentially inadequate measures of states' high school completion rates, and (3. potentially inadequate measures of minimum wage rates. Overcoming each of these limitations, we analyze the impact of changes in state and federal minimum wage rates on state high school completion rates for the graduating classes of 1982 through 2005. Our state-level analyses, which consist of a series of state and year fixed-effects models with controls for state-year time-varying covariates, provide no support for the argument that increasing the minimum wage reduces rates of high school completion.",
+  "authors": [
+    {
+      "raw": "Warren, J. R.",
+      "family": "Warren",
+      "given": "J. R."
+    },
+    {
+      "raw": "Hamrock, C.",
+      "family": "Hamrock",
+      "given": "C."
+    }
+  ],
+  "authors_text": "Warren, J. R.; Hamrock, C.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2010,
+  "doi": "10.1353/sof.0.0316",
+  "doi_url": "https://doi.org/10.1353/sof.0.0316",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0316",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0316.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

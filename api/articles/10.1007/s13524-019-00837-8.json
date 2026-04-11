@@ -1,0 +1,30 @@
+{
+  "title": "Relative Sizes of Age Cohorts and Labor Force Participation of Older Workers",
+  "abstract": "We study the effects of the size of older cohorts on labor force participation and wages of older workers in the United States. We use panel data on states, treating the age structure of the population as endogenous, owing to migration. When older cohorts (50-59 or 60-69) are large relative to a young cohort (aged 16-24), the evidence fits the relative supply hypothesis. However, when older cohorts are large relative to 25- to 49-year-olds, the evidence points to a relative demand shift. Thus, we need a more nuanced view than simply whether the older cohort is large relative to the population: the cohort that they are large relative to matters.",
+  "authors": [
+    {
+      "raw": "Neumark, David",
+      "family": "Neumark",
+      "given": "David"
+    },
+    {
+      "raw": "Yen, Maysen",
+      "family": "Yen",
+      "given": "Maysen"
+    }
+  ],
+  "authors_text": "Neumark, David; Yen, Maysen",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-019-00837-8",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00837-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00837-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00837-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

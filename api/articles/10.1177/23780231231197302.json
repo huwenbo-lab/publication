@@ -1,0 +1,25 @@
+{
+  "title": "Visualizing Social Change with Ryder Plots: The Rise and Fall of Verbal Ability in the United States",
+  "abstract": "Sociologists and demographers often use Lexis diagrams to visualize temporal data. However, the traditional Lexis plot arranges the data in a matrix of right triangles, with age on the vertical axis and period on the horizontal axis. This representation of the data subordinates cohort to an off-diagonal of unequal length. Not only does this violate the proportionality principle of effective statistical graphics, but it implicitly treats cohort as a residual or epiphenomenal dimension and makes it difficult to compare variation within and across cohorts. As an alternative, the author introduces the Ryder plot, a novel graphical tool that displays cohort, age, and period data as a grid of equilateral triangles, thereby providing an unbiased representation of all three dimensions and facilitating the analysis of intra- and intercohort variability. The author uses Ryder plots to chart the rise and fall of verbal ability in the United States, revealing two epochs of social change across three centuries of cohorts.",
+  "authors": [
+    {
+      "raw": "Fosse, Ethan",
+      "family": "Fosse",
+      "given": "Ethan"
+    }
+  ],
+  "authors_text": "Fosse, Ethan",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231197302",
+  "doi_url": "https://doi.org/10.1177/23780231231197302",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231197302",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231197302.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

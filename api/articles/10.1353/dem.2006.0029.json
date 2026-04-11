@@ -1,0 +1,30 @@
+{
+  "title": "Age at first sexual intercourse, genes, and social context: Evidence from twins and the dopamine D4 receptor gene",
+  "abstract": "AbstractWe carried out two distinct types of genetic analysis with data from the National Longitudinal Study of Adolescent Health. The first was a non-DNA twin analysis using monozygotic (identical) and same-sex dizygotic (fraternal) twins. The second analysis investigates the association between age at first sexual intercourse and the 48-bp repeat polymorphism in the dopamine receptor D4 gene (DRD4). The twin analysis shows that MZ twins correlate their timing of first sex to a much greater extent than do the same-sex DZ twins. Our analysis of the polymorphisms in DRD4 indicates that those with an any-3R genotype experienced a risk of first sexual intercourse 23% (p=.016), 233% (p=.0001), 28% (p=.012), and 69% (p=.006) higher than those with an other/other (or any-4R) genotype in the all-ethnicities (n=2,552), Asian, white, and Hispanic samples, respectively. The risk of first sex does not differ between the two genotypes in the African American sample. These results were obtained after adjusting the standard socioeconomic covariates, including gender, parental education, family structure, and community poverty in the regression model. Evidence from both twin and genetic-variant analyses points to a role of genes in the timing of first sexual intercourse.",
+  "authors": [
+    {
+      "raw": "Guo, Guang",
+      "family": "Guo",
+      "given": "Guang"
+    },
+    {
+      "raw": "Tong, Yuying",
+      "family": "Tong",
+      "given": "Yuying"
+    }
+  ],
+  "authors_text": "Guo, Guang; Tong, Yuying",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2006,
+  "doi": "10.1353/dem.2006.0029",
+  "doi_url": "https://doi.org/10.1353/dem.2006.0029",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2006.0029",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2006.0029.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

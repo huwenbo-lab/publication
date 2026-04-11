@@ -1,0 +1,40 @@
+{
+  "title": "Is College Really “the” Equalizer? New Evidence Addressing Unobserved Selection",
+  "abstract": "Influential research shows that college graduates achieve similar labor market outcomes regardless of socioeconomic origin, leading to the view that a college degree is a “great equalizer.” Still, other evidence suggests that family background continues to shape labor market outcomes long after graduation, implying that college’s equalizing effect may largely reflect the characteristics of those who pursue higher education. However, the role of unobserved selection into college has rarely been examined. After formally illustrating how this unobserved selection can bias estimates of the college effect, we present new analyses that correct for this bias using an instrumental-variable approach on white male respondents in the 1979 cohort of the National Longitudinal Survey of Youth. The selection-corrected results suggest that intergenerational mobility is similar among college graduates and nongraduates. Although college yields substantial returns for all, these returns do not differ by family background. We conclude that for higher education to serve as a true equalizer, it must become both less selective and more accessible to students from disadvantaged backgrounds.",
+  "authors": [
+    {
+      "raw": "Zheng, Haowen",
+      "family": "Zheng",
+      "given": "Haowen"
+    },
+    {
+      "raw": "Andersen, Robert",
+      "family": "Andersen",
+      "given": "Robert"
+    },
+    {
+      "raw": "Holm, Anders",
+      "family": "Holm",
+      "given": "Anders"
+    },
+    {
+      "raw": "Karlson, Kristian",
+      "family": "Karlson",
+      "given": "Kristian"
+    }
+  ],
+  "authors_text": "Zheng, Haowen; Andersen, Robert; Holm, Anders; Karlson, Kristian",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2026,
+  "doi": "10.15195/v13.a10",
+  "doi_url": "https://doi.org/10.15195/v13.a10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv13.a10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v13.a10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

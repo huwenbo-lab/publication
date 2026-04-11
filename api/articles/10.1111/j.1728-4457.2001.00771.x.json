@@ -1,0 +1,25 @@
+{
+  "title": "The impact of HIV/AIDS on adult mortality in Zimbabwe",
+  "abstract": "IN THE COUNTRIES Most severely affected by HIV/AIDS, deficiencies in national statistics make it difficult to gauge the demographic impact of the epidemic. This report analyzes national data on the level and trend of adult mortality in Zimbabwe over the past two decades. It assesses data quality and presents estimates of the rise in adult mortality risks. Although the estimates are far from perfect, comparative analysis of data from numerous sources provides persuasive evidence of the impact of the epidemic. The UNAIDS ''Durban Report'' (UNAIDS 2000) shows 25 percent of adults in Zimbabwe living with HIV/AIDS, making it one of the countries most affected by the epidemic. Evidence of the social and economic consequences of the epidemic is extensive and indicates serious impacts on the macroeconomy, on households and school enrollment, and on agriculture and business (African Development Forum 2000).",
+  "authors": [
+    {
+      "raw": "Feeney, G",
+      "family": "Feeney",
+      "given": "G"
+    }
+  ],
+  "authors_text": "Feeney, G",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2001,
+  "doi": "10.1111/j.1728-4457.2001.00771.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2001.00771.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2001.00771.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2001.00771.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

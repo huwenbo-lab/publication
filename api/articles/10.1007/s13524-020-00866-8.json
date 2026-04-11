@@ -1,0 +1,30 @@
+{
+  "title": "Skill-Based Contextual Sorting: How Parental Cognition and Residential Mobility Produce Unequal Environments for Children",
+  "abstract": "Highly skilled parents deploy distinct strategies to cultivate their children's development, but little is known about how parental cognitive skills interact with metropolitan opportunity structures and residential mobility to shape a major domain of inequality in children's lives: the neighborhood. We integrate multiple literatures to develop hypotheses on parental skill-based sorting by neighborhood socioeconomic status and public school test scores, which we test using an original follow-up of the Los Angeles Family and Neighborhood Survey. These data include more than a decade's worth of residential histories for households with children that are linked to census, geographic information system, and educational administrative data. We construct discrete-choice models of neighborhood selection that account for heterogeneity among household types, incorporate the unique spatial structure of Los Angeles County, and include a wide range of neighborhood factors. The results show that parents' cognitive skills interact with neighborhood socioeconomic status to predict residential selection after accounting for, and confirming, the expected influences of race, income, education, housing market conditions, and spatial proximity. Among parents in the upper/upper-middle class, cognitive skills predict sorting on average public school test scores rather than neighborhood socioeconomic status. Overall, we reveal skill-based contextual sorting as an overlooked driver of urban stratification.",
+  "authors": [
+    {
+      "raw": "Schachner, Jared N.",
+      "family": "Schachner",
+      "given": "Jared N."
+    },
+    {
+      "raw": "Sampson, Robert J.",
+      "family": "Sampson",
+      "given": "Robert J."
+    }
+  ],
+  "authors_text": "Schachner, Jared N.; Sampson, Robert J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00866-8",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00866-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00866-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00866-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

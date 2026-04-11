@@ -1,0 +1,30 @@
+{
+  "title": "The importance of education-occupation matching in migration decisions",
+  "abstract": "Abstract In this article, we present and test a model that incorporates education-occupation matching into the migration decision. The literature on education-occupation matching shows that earnings are affected by how individuals’ education matches that required by their occupation. Accordingly, individuals with more schooling than required by their occupation have an additional incentive to migrate: the increase in earnings that occurs with a more beneficial education-occupation match. Using data from Mexico, we found statistical support for the importance of education-occupation matching in migration decisions. Education-occupation matching provides a plausible explanation for the mixed findings in the literature on the relationship between educational attainment and migration.",
+  "authors": [
+    {
+      "raw": "Quinn, Michael A.",
+      "family": "Quinn",
+      "given": "Michael A."
+    },
+    {
+      "raw": "Rubb, Stephen",
+      "family": "Rubb",
+      "given": "Stephen"
+    }
+  ],
+  "authors_text": "Quinn, Michael A.; Rubb, Stephen",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0008",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

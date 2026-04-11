@@ -1,0 +1,25 @@
+{
+  "title": "Estimating annual homelessness",
+  "abstract": "BACKGROUND Homelessness is an important though exceedingly difficult phenomenon to measure and understand. The most common sources of data measure homelessness only on a given night or set of consecutive nights, contact with homelessness service providers, or past homeless episodes. We therefore lack an understanding of the wider impact and nature of homelessness in society. OBJECTIVE I set out to estimate the number of people who experience homelessness in a one-year period by duration and type of homelessness. METHODS A microsimulation model is used to recreate homeless episodes and impute those missed in common data sources. Model parameters are estimated using a combination of retrospective and longitudinal survey data from Australia Administrative data from homelessness service providers are used to validate the estimates. RESULTS According to the results, 3.4 times as many people experienced homelessness in Australia in the 2013-2014 financial year than would have been counted on an average night. Almost one-third (32%) of episodes last for less than one month and the large majority involve 'couch surfing' or 'doubling up' with relatives or friends. CONCLUSIONS This research provides new estimates of the extent and duration of homelessness and housing deprivation that addresses existing data limitations and with implications for understanding the nature and impact of homelessness. CONTRIBUTIONS This research provides new estimates of the extent and duration of homelessness and housing deprivation that addresses existing data limitations and with implications for understanding the nature and impact of homelessness.",
+  "authors": [
+    {
+      "raw": "O'Donnell, James",
+      "family": "O'Donnell",
+      "given": "James"
+    }
+  ],
+  "authors_text": "O'Donnell, James",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.1",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

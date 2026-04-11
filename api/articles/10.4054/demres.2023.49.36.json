@@ -1,0 +1,35 @@
+{
+  "title": "Reducing uncertainty in Delphi surveys: A case study on immigration to the EU",
+  "abstract": "BACKGROUND Following the rapid increase of asylum seekers arriving in the European Union in 2015/16, policymakers have invested heavily in improving their foresight and forecasting capabilities. A common method to elicit expert predictions are Delphi surveys. This approach has attracted concern in the literature, given the high uncertainty in experts' predictions. However, there exists limited guidance on specific design choices for future-related Delphi surveys.OBJECTIVE We test whether or not small adjustments to the Delphi survey can increase certainty (i.e., reduce variation) in expert predictions on immigration to the EU in 2030.METHODS Based on a two-round Delphi survey with 178 migration experts, we compare variation and subjective confidence in expert predictions and assess whether additional context information (type of migration flow, sociopolitical context) promotes convergence among experts (i.e., less variation) and confidence in their own estimates.RESULTS We find that additional context information does not reduce variation and does not increase confidence in expert predictions on migration.CONCLUSIONS The results reaffirm recent concerns regarding the limited scope for reducing uncertainty by manipulating the survey setup. Persistent uncertainty may be a result of the complexity",
+  "authors": [
+    {
+      "raw": "Sohst, Rhea Ravenna",
+      "family": "Sohst",
+      "given": "Rhea Ravenna"
+    },
+    {
+      "raw": "Acostamadiedo, Eduardo",
+      "family": "Acostamadiedo",
+      "given": "Eduardo"
+    },
+    {
+      "raw": "Tjaden, Jasper",
+      "family": "Tjaden",
+      "given": "Jasper"
+    }
+  ],
+  "authors_text": "Sohst, Rhea Ravenna; Acostamadiedo, Eduardo; Tjaden, Jasper",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.36",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.36",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.36",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.36.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

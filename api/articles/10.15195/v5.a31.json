@@ -1,0 +1,35 @@
+{
+  "title": "How States Make Race: New Evidence from Brazil",
+  "abstract": "The Brazilian state recently adopted unprecedented race-targeted affirmative action in government hiring and university admissions. Scholarship would predict the state's institutionalization of racial categories has 'race-making' effects. In this article, we ask whether the Brazilian state's policy turnabout has affected racial subjectivities on the ground, specifically toward mirroring the categories used by the state. To answer, we conceptualize race as multidimensional and leverage two of its dimensions—lay identification and government classification (via open-ended and closed-ended questions, respectively)—to introduce a new metric of state race-making: a comparison of the extent of alignment between lay and government dimensions across time. Logistic regression on large-sample survey data from before the policy turn (1995) and well after its diffusion (2008) reveals an increased use of state categories as respondents' lay identification in the direction of matching respondents' government classification. We conclude that the Brazilian state is making race but not from scratch nor in ways that are fully intended.",
+  "authors": [
+    {
+      "raw": "Bailey, Stanley",
+      "family": "Bailey",
+      "given": "Stanley"
+    },
+    {
+      "raw": "Fialho, Fabrício",
+      "family": "Fialho",
+      "given": "Fabrício"
+    },
+    {
+      "raw": "Loveman, Mara",
+      "family": "Loveman",
+      "given": "Mara"
+    }
+  ],
+  "authors_text": "Bailey, Stanley; Fialho, Fabrício; Loveman, Mara",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2018,
+  "doi": "10.15195/v5.a31",
+  "doi_url": "https://doi.org/10.15195/v5.a31",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv5.a31",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v5.a31.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

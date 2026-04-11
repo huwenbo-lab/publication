@@ -1,0 +1,40 @@
+{
+  "title": "The Association Between Legal Status and Poverty Among Immigrants: A Methodological Caution",
+  "abstract": "Using nationally representative survey data, this research note examines the association between immigrant legal status and poverty in the United States. Our objective is to test whether estimates of this association vary depending on the method used to infer legal status in survey data, focusing on two approaches in particular: (1) inferring legal status using a logical imputation method that ignores the existence of legal-status survey questions (logical approach); and (2) defining legal status based on survey questions about legal status (survey approach). We show that the two methods yield contrasting conclusions. In models using the logical approach, among noncitizens, being a legal permanent resident (LPR) is counterintuitively associated with a significantly greater net probability of being below the poverty line compared with their noncitizen peers without LPR status. Conversely, using the survey approach to measure legal status, LPR status is associated with a lower net probability of living in poverty, which is in line with a growing body of qualitative and small-sample evidence. Consistent with simulation experiments carried out by Van Hook et al. (2015), the findings call for a more cautious approach to interpreting research results based on legal status imputations and for greater attention to potential biases introduced by various methodological approaches to inferring individuals' legal status in survey data. Consequently, the approach used for measuring legal status has important implications for future research on immigration and legal status.",
+  "authors": [
+    {
+      "raw": "Spence, Cody",
+      "family": "Spence",
+      "given": "Cody"
+    },
+    {
+      "raw": "Bachmeier, James D.",
+      "family": "Bachmeier",
+      "given": "James D."
+    },
+    {
+      "raw": "Altman, Claire E.",
+      "family": "Altman",
+      "given": "Claire E."
+    },
+    {
+      "raw": "Hamilton, Christal",
+      "family": "Hamilton",
+      "given": "Christal"
+    }
+  ],
+  "authors_text": "Spence, Cody; Bachmeier, James D.; Altman, Claire E.; Hamilton, Christal",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00933-0",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00933-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00933-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00933-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

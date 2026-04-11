@@ -1,0 +1,25 @@
+{
+  "title": "Social Support and Divorce among American Couples",
+  "abstract": "This study investigates the relationship between extradyadic social support and divorce risk, net of existing need for support. Social support aids couples in weathering challenges but social ties may also enable divorce or compete with spousal relationships. Using a nationally representative sample of married couples in the National Survey of Families and Households (N = 7,321), this study employs discrete-time event history models to test the associations of perceived support and help received with divorce risk. Results indicate that perceived support is positively associated with divorce, and this relationship persists even after accounting for couples' needs. Specifically, perceived emotional support positively predicts divorce risk. This finding suggests that social ties may sometimes challenge marital relationships or facilitate divorce.",
+  "authors": [
+    {
+      "raw": "Potter, Marina Haddock",
+      "family": "Potter",
+      "given": "Marina Haddock"
+    }
+  ],
+  "authors_text": "Potter, Marina Haddock",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2021,
+  "doi": "10.1177/0192513x20916830",
+  "doi_url": "https://doi.org/10.1177/0192513x20916830",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x20916830",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x20916830.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

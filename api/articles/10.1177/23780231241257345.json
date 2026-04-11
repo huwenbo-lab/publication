@@ -1,0 +1,35 @@
+{
+  "title": "Visualizing Daily Time Use on Housework in Canada: Persistence and Patterns",
+  "abstract": "Housework is a significant part of our daily lives. In this visualization, the authors consider how time spent on housework varies across gender and age throughout the day. Using the nationally representative 2015 Canadian General Social Survey with detailed time diary information, the authors present how women’s and men’s time allocation patterns on housework vary across age groups. The visualization shows that women and older Canadians engaged more in housework. A clear pattern reveals higher engagement during mealtimes, while participation becomes more evenly distributed throughout the day among older adults compared with younger women and men.",
+  "authors": [
+    {
+      "raw": "Kolpashnikova, Kamila",
+      "family": "Kolpashnikova",
+      "given": "Kamila"
+    },
+    {
+      "raw": "Li, Zilin",
+      "family": "Li",
+      "given": "Zilin"
+    },
+    {
+      "raw": "Quesnel-Vallée, Amélie",
+      "family": "Quesnel-Vallée",
+      "given": "Amélie"
+    }
+  ],
+  "authors_text": "Kolpashnikova, Kamila; Li, Zilin; Quesnel-Vallée, Amélie",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241257345",
+  "doi_url": "https://doi.org/10.1177/23780231241257345",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241257345",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241257345.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

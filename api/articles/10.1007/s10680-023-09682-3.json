@@ -1,0 +1,30 @@
+{
+  "title": "Identifying and Qualifying Deviant Cases in Clusters of Sequences: The Why and The How",
+  "abstract": "Abstract Sequence analysis is employed in different fields—e.g., demography, sociology, and political sciences—to describe longitudinal processes represented as sequences of categorical states. In many applications, sequences are clustered to identify relevant types, which reflect the different empirical realisations of the temporal process under study. We explore criteria to inspect internal cluster composition and to detect deviant sequences, that is, cases characterised by rare patterns or outliers that might compromise cluster homogeneity. We also introduce tools to visualise and distinguish the features of regular and deviant cases. Our proposals offer a more accurate and granular description of the data structure, by identifying—besides the most typical types—peculiar sequences that might be interesting from a substantive and theoretical point of view. This analysis could be very useful in applications where—under the assumption of within homogeneity—clusters are used as outcome or explanatory variables in regressions. We demonstrate the added value of our proposal in a motivating application from life-course socio-demography, focusing on Italian women’s employment trajectories and on their link with their mothers’ participation in the labour market across geographical areas.",
+  "authors": [
+    {
+      "raw": "Piccarreta, Raffaella",
+      "family": "Piccarreta",
+      "given": "Raffaella"
+    },
+    {
+      "raw": "Struffolino, Emanuela",
+      "family": "Struffolino",
+      "given": "Emanuela"
+    }
+  ],
+  "authors_text": "Piccarreta, Raffaella; Struffolino, Emanuela",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2023,
+  "doi": "10.1007/s10680-023-09682-3",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09682-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09682-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09682-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

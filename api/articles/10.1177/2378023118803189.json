@@ -1,0 +1,35 @@
+{
+  "title": "Does Violent Protest Backfire? Testing a Theory of Public Reactions to Activist Violence",
+  "abstract": "How do people respond to violent political protest? The authors present a theory proposing that the use of violence leads the general public to view a protest group as less reasonable, a perception that reduces identification with the group. This reduced identification in turn reduces public support for the violent group. Furthermore, the authors argue that violence also leads to more support for groups that are perceived as opposing the violent group. The authors test this theory using a large ( n = 800) Internet-based survey experiment with a politically diverse sample. Participants responded to an experimental scenario based on recent violent confrontations between white nationalist protesters and antiracist counter-protesters, allowing the authors to study whether violent protest would reduce public support even when used against a widely reviled group. The authors found that the use of violence by an antiracist group against white nationalists led to decreased support for the antiracist group and increased support for the white nationalist group. Furthermore, the results were consistent with the theorized causal process: violence led to perceptions of unreasonableness, which reduced identification with and support for the protest group. Importantly, the results revealed a striking asymmetry: although acts of violence eroded support for an antiracist group, support for white nationalist groups was not reduced by the use of violence, perhaps because the public already perceives these groups as very unreasonable and identifies with them at low levels. Consistent with this interpretation, the authors found that self-identified Republicans, a subset of the sample that reported less extremely negative views of white nationalists, showed reduced support for white nationalists when they engaged in violence.",
+  "authors": [
+    {
+      "raw": "Simpson, Brent",
+      "family": "Simpson",
+      "given": "Brent"
+    },
+    {
+      "raw": "Willer, Robb",
+      "family": "Willer",
+      "given": "Robb"
+    },
+    {
+      "raw": "Feinberg, Matthew",
+      "family": "Feinberg",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Simpson, Brent; Willer, Robb; Feinberg, Matthew",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118803189",
+  "doi_url": "https://doi.org/10.1177/2378023118803189",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118803189",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118803189.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

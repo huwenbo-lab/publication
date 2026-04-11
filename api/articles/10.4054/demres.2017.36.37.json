@@ -1,0 +1,30 @@
+{
+  "title": "The population-level impact of public-sector antiretroviral therapy rollout on adult mortality in rural Malawi",
+  "abstract": "BACKGROUND Recent evidence from health and demographic surveillance sites (HDSS) has shown that increasing access to antiretroviral therapy (ART) is reducing mortality rates in sub-Saharan Africa (SSA). However, due to limited vital statistics registration in many of the countries most affected by the HIV/AIDS epidemic, there is limited evidence of the magnitude of ART's effect outside of specific HDSS sites. This paper leverages longitudinal household/family roster data from the Malawi Longitudinal Survey of Families and Health (MLSFH) to estimate the effect of ART availability in public clinics on population-level mortality based on a geographically dispersed sample of individuals in rural Malawi. OBJECTIVE We seek to provide evidence on the population-level magnitude of the ART-associated mortality decline in rural Malawi and confirm that this population is experiencing similar declines in mortality as those seen in HDSS sites. METHODS We analyze longitudinal household/family-roster data from four waves of the MLSFH to estimate mortality change after the introduction of ART to study areas. We analyze life expectancy using the Kaplan-Meier estimator and examine how the mortality hazard changed over time by individual characteristics with Cox regression. RESULTS In the four years following rollout of ART, life expectancy at age 15 increased by 3.1 years (95% CI 1.1, 5.1), and median length of life rose by over ten years. CONTRIBUTION Our observations show that the increased availability of ART resulted in a substantial and sustained reversal of mortality trends in SSA and assuage concerns that the post-ART reversals in mortality are not occurring at the same magnitude outside of specific HDSSs.",
+  "authors": [
+    {
+      "raw": "Payne, Collin F.",
+      "family": "Payne",
+      "given": "Collin F."
+    },
+    {
+      "raw": "Kohler, Hans-Peter",
+      "family": "Kohler",
+      "given": "Hans-Peter"
+    }
+  ],
+  "authors_text": "Payne, Collin F.; Kohler, Hans-Peter",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.37",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.37",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.37",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.37.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

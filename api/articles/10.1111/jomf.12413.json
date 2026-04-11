@@ -1,0 +1,35 @@
+{
+  "title": "Does Educational Similarity Drive Parental Support?",
+  "abstract": "This article tests competing mechanisms explaining linkages between parent-child educational similarity and parental advice and interest to adult children, asking whether mechanisms differ for mothers and fathers. Educational similarities might provide common ground whereas educational dissimilarity affects parents' authority to dispense advice. Using ordered logistic regression with data from the Netherlands Kinship Panel Study (N = 2,444) parental advice and interest are modeled separately for mothers and fathers. Seemingly unrelated estimation is used to test for gender differences across models, revealing that mechanisms driving parental support differ by parents' gender. Fathers show more interest in adult children when they are educationally similar (consistent with the homophily hypothesis), but only among the highly educated, whereas mothers show more interest to highly educated children, regardless of their own level of educational attainment. Fathers' advice is conditioned on their own educational attainment whereas mothers give advice unconditionally (consistent with the gender hypothesis).",
+  "authors": [
+    {
+      "raw": "Ory, Brett",
+      "family": "Ory",
+      "given": "Brett"
+    },
+    {
+      "raw": "Keizer, Renske",
+      "family": "Keizer",
+      "given": "Renske"
+    },
+    {
+      "raw": "Dykstra, Pearl A.",
+      "family": "Dykstra",
+      "given": "Pearl A."
+    }
+  ],
+  "authors_text": "Ory, Brett; Keizer, Renske; Dykstra, Pearl A.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2017,
+  "doi": "10.1111/jomf.12413",
+  "doi_url": "https://doi.org/10.1111/jomf.12413",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12413",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12413.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

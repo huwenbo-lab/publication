@@ -1,0 +1,25 @@
+{
+  "title": "A Demographic Rationale for Brexit",
+  "abstract": "In a referendum on June 23, 2016 the British electorate decided that the United Kingdom should leave the European Union (known as Brexit). The campaign to remain emphasized the dire economic consequences of leaving. The campaign to leave focused on sovereignty and in particular on the need to be able to control immigration from the European Union, which has reached record levels. In the event, concerns about sovereignty and the desire to control borders trumped the economic arguments. The consequences of the continuation of the current level of net migration (about 330,000 annually) to the UK would indeed be dramatic, taking the population size from the current 65 million to over 80 million shortly after 2040, and 90 million shortly after 2060. Almost all this increase would arise from post-2014 immigration, and the ethnic composition of the population would change radically. About half of current immigration is from the EU, so Brexit by itself cannot reduce net migration to the level of the government's target of less than 100,000.",
+  "authors": [
+    {
+      "raw": "Coleman, David",
+      "family": "Coleman",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Coleman, David",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2016,
+  "doi": "10.1111/padr.12014",
+  "doi_url": "https://doi.org/10.1111/padr.12014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

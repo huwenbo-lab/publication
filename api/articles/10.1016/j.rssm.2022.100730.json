@@ -1,0 +1,25 @@
+{
+  "title": "Investigating the mechanisms of G x SES interactions for education",
+  "abstract": "There is a growing body of research exploring whether the opportunity to realize the genetic endowment for education varies by parental socio-economic status (G x SES). While the behavioral genetic Scarr-Rowe hy-pothesis (SRH) suggests stronger genetic effects for individuals with a high SES, the sociological compensatory advantage hypothesis (CAH) predicts weaker genetic effects. Using data from the German TwinLife survey, I estimate biometric twin models to test for a G x SES and whether it can be accounted for by SES differences in the effect of genes associated with cognitive ability. There is no G x SES for the secondary school track. For tertiary enrolment, however, there is a G x SES, in line with the CAH. While SES differences in the effect of genes associated with cognitive ability account for most of the G x SES, a small part is explained by SES differences in the effect of genes independent of cognitive ability.",
+  "authors": [
+    {
+      "raw": "Ruks, Mirko",
+      "family": "Ruks",
+      "given": "Mirko"
+    }
+  ],
+  "authors_text": "Ruks, Mirko",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100730",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100730",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100730",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100730.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

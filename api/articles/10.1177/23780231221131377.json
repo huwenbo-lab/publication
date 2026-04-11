@@ -1,0 +1,25 @@
+{
+  "title": "Are Robots Really Stealing Our Jobs? Perception versus Experience",
+  "abstract": "Popular narratives warn that we should beware of robots replacing employees in the workplace. However, prior research has been limited by data availability. Studies typically use data based on geographic locations and aggregated industrial robot and employment variables and do not directly measure whether someone has lost their job to a robot. In this data visualization, the author presents results from a national survey that includes questions that address this issue. The results reveal that almost 14 percent of respondents in the sample report having lost their jobs because of employers replacing their jobs with robots. The results also show that respondents’ perceptions of the percentage of employees who have been replaced by robots is inflated. The difference between respondents’ perceptions and their own experience is exacerbated for those who report having lost jobs to robots.",
+  "authors": [
+    {
+      "raw": "Dahlin, Eric",
+      "family": "Dahlin",
+      "given": "Eric"
+    }
+  ],
+  "authors_text": "Dahlin, Eric",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221131377",
+  "doi_url": "https://doi.org/10.1177/23780231221131377",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221131377",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221131377.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

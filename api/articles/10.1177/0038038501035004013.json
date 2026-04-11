@@ -1,0 +1,25 @@
+{
+  "title": "Books Reviewed",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "RAPPERT, BRIAN",
+      "family": "RAPPERT",
+      "given": "BRIAN"
+    }
+  ],
+  "authors_text": "RAPPERT, BRIAN",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2001,
+  "doi": "10.1177/0038038501035004013",
+  "doi_url": "https://doi.org/10.1177/0038038501035004013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038501035004013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038501035004013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

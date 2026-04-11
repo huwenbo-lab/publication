@@ -1,0 +1,35 @@
+{
+  "title": "Pain Trends Among American Adults, 2002-2018: Patterns, Disparities, and Correlates",
+  "abstract": "Determining longterm trends in chronic pain prevalence is critical for evaluating and shaping U.S. health policies, but little research has examined such trends. This study (1) provides estimates of pain trends among U.S. adults across major population groups; (2) tests whether sociodemographic disparities in pain have widened or narrowed over time; and (3) examines socioeconomic, behavioral, psychological, and medical correlates of pain trends. Regression and decomposition analyses of joint, low back, neck, facial/jaw pain, and headache/migraine using the 2002-2018 National Health Interview Survey for adults aged 25-84 (N = 441,707) assess the trends and their correlates. We find extensive escalation of pain prevalence in allpopulation subgroups: overall, reports of pain in at least one site increased by 10%, representing an additional 10.5 million adults experiencing pain. Socioeconomic disparities in pain are widening over time, and psychological distress and health behaviors are among the salient correlates of the trends. This study thus comprehensively documents rising pain prevalence among Americans across the adult life span and highlights socioeconomic, behavioral, and psychological factors as important correlates of the trends. Chronic pain is an important dimension of population health, and demographic research should include it when studying health and health disparities.",
+  "authors": [
+    {
+      "raw": "Zajacova, Anna",
+      "family": "Zajacova",
+      "given": "Anna"
+    },
+    {
+      "raw": "Grol-Prokopczyk, Hanna",
+      "family": "Grol-Prokopczyk",
+      "given": "Hanna"
+    },
+    {
+      "raw": "Zimmer, Zachary",
+      "family": "Zimmer",
+      "given": "Zachary"
+    }
+  ],
+  "authors_text": "Zajacova, Anna; Grol-Prokopczyk, Hanna; Zimmer, Zachary",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8977691",
+  "doi_url": "https://doi.org/10.1215/00703370-8977691",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8977691",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8977691.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

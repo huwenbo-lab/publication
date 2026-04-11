@@ -1,0 +1,25 @@
+{
+  "title": "Reassessing the U-shaped relationship between gender equality and fertility: A replication and extension of Kolk's (2019) study using comprehensive gender equality measures",
+  "abstract": "BACKGROUND While theories predict that fertility initially declines and subsequently rebounds with rising gender equality, previous empirical studies have produced mixed results, partly due to differences in gender equality measurement and methodological approaches. OBJECTIVE This study replicates Kolk's (2019) research, which found weak evidence for a U-shaped relationship between public-sphere gender equality and fertility. The study re-evaluates these findings using data covering the period 1950-2003 and incorporating a broader, multidimensional measure of gender equality, the Historical Gender Equality Index. RESULTS The analysis identifies a conditional U-shaped relationship between gender equality and fertility, meaning that the expected fertility rebound at high gender equality emerges only when controlling for long-term fertility-decline trends and fertility tempo distortions. CONCLUSIONS The replication provides evidence that the previously identified weak support for a Ushaped relationship may stem from the choice of gender equality indicators. By employing a more comprehensive measure and controlling for period and country fixed effects, this analysis reveals a conditional U-shaped relationship. However, this modest fertility rebound at high gender equality levels is insufficient to reverse the broader, longterm decline in fertility observed across advanced societies. CONTRIBUTION This study reveals that the weak support for the U-shaped relationship identified in previous research stems from the selection of gender equality measures. By adopting a more appropriate measure of gender equality, this analysis aligns empirical evidence with contemporary theories. Furthermore, the differing results between previous studies and this analysis emphasise the critical role of gender equality in shaping fertility trends in both the private and public spheres.",
+  "authors": [
+    {
+      "raw": "Lei, Haohao",
+      "family": "Lei",
+      "given": "Haohao"
+    }
+  ],
+  "authors_text": "Lei, Haohao",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.29",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.29",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.29",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.29.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

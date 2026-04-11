@@ -1,0 +1,35 @@
+{
+  "title": "The Impact of Parental Involvement Laws on the Abortion Rate of Minors",
+  "abstract": "In this article, we conduct a comprehensive analysis of the effect of parental involvement (PI) laws on the incidence of abortions to minors in the United States. We contribute to the extant literature in several ways. First, we explore differences in estimates of the effect of PI laws across time that may result from changes in contraception, the composition of pregnant minors, abortion access in nearby states, and differences in how these laws are enforced. We find that PI laws enacted before the mid-1990s are associated with a 15% to 20% reduction in abortions to minors, but PI laws enacted after this time are not associated with declines in abortions to minors. Second, we assess the role of out-of-state travel by minors and find that it is not a significant factor moderating the effect of PI laws. Third, we use a synthetic control approach to explore state-level heterogeneity in the effect of PI laws and find large differences in the effect of PI laws on abortions to minors by state that appear unrelated to the type of PI law or whether contiguous states have enacted PI laws. Finally, we show that estimates of the effect of PI laws using data from either the Centers for Disease Control or the Guttmacher Institute do not differ qualitatively once differences in the states and years available across these data are harmonized.",
+  "authors": [
+    {
+      "raw": "Joyce, Theodore J.",
+      "family": "Joyce",
+      "given": "Theodore J."
+    },
+    {
+      "raw": "Kaestner, Robert",
+      "family": "Kaestner",
+      "given": "Robert"
+    },
+    {
+      "raw": "Ward, Jason",
+      "family": "Ward",
+      "given": "Jason"
+    }
+  ],
+  "authors_text": "Joyce, Theodore J.; Kaestner, Robert; Ward, Jason",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-019-00853-8",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00853-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00853-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00853-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

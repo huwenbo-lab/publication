@@ -1,0 +1,30 @@
+{
+  "title": "Does outsourcing of domestic work reduce gender inequality in labor force participation within households?-a couple-level panel analysis",
+  "abstract": "The time devoted to unpaid work in the domestic sphere reduces time devoted to paid work, and this time loss is higher for women than for men. The consumption of domestic services may serve as a mechanism to reduce the burden of unpaid work and to increase the labor force participation rates of men and women. This study takes a longitudinal couple-level approach and analyzes whether the likelihood of working and the number of work hours of male and female partners in households that employed a domestic worker increased after employing the domestic worker, and whether these changes translate into reduced gender inequality in labor force participation within households. Using an analytic sample of 85,282 married heterosexual non-Haredi Jewish couples aged 25-64 from the harmonized panel database of the Israeli Labor Force Survey for the years 2000-2017, and by employing an instrumental variable approach with fixed-effects two-stage least squares models, we find that outsourcing positively affects the likelihood of working and the number of weekly working hours, but only among highly educated women. The increase in highly educated women's likelihood of working and the increase in their weekly work hours are translated into a reduced gender gap in employment and in work hours, no matter their partner's level of education.",
+  "authors": [
+    {
+      "raw": "Raz-Yurovich, Liat",
+      "family": "Raz-Yurovich",
+      "given": "Liat"
+    },
+    {
+      "raw": "Tsachor-Shai, Assaf",
+      "family": "Tsachor-Shai",
+      "given": "Assaf"
+    }
+  ],
+  "authors_text": "Raz-Yurovich, Liat; Tsachor-Shai, Assaf",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf060",
+  "doi_url": "https://doi.org/10.1093/sf/soaf060",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf060",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf060.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

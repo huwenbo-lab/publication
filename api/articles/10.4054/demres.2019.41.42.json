@@ -1,0 +1,30 @@
+{
+  "title": "APC curvature plots: Displaying nonlinear age-period-cohort patterns on Lexis plots",
+  "abstract": "BACKGROUND The analysis of age-period-cohort (APC) patterns of vital rate changes over time is of great importance for understanding demographic phenomena. Given the limitations of statistical modeling, the use of graphical analyses is often regarded as a more transparent approach to identifying APC effects. OBJECTIVE The current paper proposes a Lexis plot for the depiction and analysis of curvature, which is defined as the estimable nonlinear component of age, period, and cohort effects. METHODS In a single visualization, we combine the dynamics of the location, the magnitude, and the spread of nonlinear temporal effects for multiple populations or demographic phenomena. Using vital rates, we provide three examples in which we analyze the APC nonlinear effects of different demographic phenomena. RESULTS We construct several APC curvature plots to display the following patterns: the modal cohort of excess mortality from drug-related causes by racial/ethnic group in the United States among the baby boomer generations; the modal age of excess mortality in young adults; and the modal age of fertility over cohorts and across populations. CONTRIBUTION The use of the APC curvature plot offers more flexibility when analyzing nonlinear APC effects than the use of mathematical models or other Lexis plots.",
+  "authors": [
+    {
+      "raw": "Acosta, Enrique",
+      "family": "Acosta",
+      "given": "Enrique"
+    },
+    {
+      "raw": "van Raalte, Alyson A.",
+      "family": "van Raalte",
+      "given": "Alyson A."
+    }
+  ],
+  "authors_text": "Acosta, Enrique; van Raalte, Alyson A.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.42",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.42",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.42",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.42.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

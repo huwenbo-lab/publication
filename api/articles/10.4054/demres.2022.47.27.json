@@ -1,0 +1,35 @@
+{
+  "title": "Small-area estimates from consumer trace data",
+  "abstract": "BACKGROUND Timely, accurate, and precise demographic estimates at various levels of geography are crucial for planning, policymaking, and analysis. In the United States, data from the decennial census and annual American Community Survey (ACS) serve as the main sources for subnational demographic estimates. While estimates derived from these sources are widely regarded as accurate, their timeliness is limited and variability sizable for small geographic units like towns and neighborhoods. OBJECTIVE This paper investigates the potential for using nonrepresentative consumer trace data assembled by commercial vendors to produce valid and timely estimates. We focus on data purchased from Data Axle, which contains the names and addresses of over 150 million Americans annually. METHODS We identify the predictors of over-and undercounts of households as measured with consumer trace data and compare a range of calibration approaches to assess the extent to which systematic errors in the data can be adjusted for over time. We also demonstrate the utility of the data for predicting contemporaneous (nowcasting) tract-level household counts in the 2020 Decennial Census. RESULTS We find that adjusted counts at the county, ZIP Code Tabulation Areas (ZCTA), and tract levels deviate from ACS survey-based estimates by an amount roughly equivalent to the ACS margins of error. Machine-learning methods perform best for calibration of county-and tract-level data. The estimates are stable over time and across regions of the country. We also find that when doing nowcasts, incorporating Data Axle estimates improved prediction bias relative to using the most recent ACS five-year estimates alone.",
+  "authors": [
+    {
+      "raw": "Acolin, Arthur",
+      "family": "Acolin",
+      "given": "Arthur"
+    },
+    {
+      "raw": "Decter-Frain, Ari",
+      "family": "Decter-Frain",
+      "given": "Ari"
+    },
+    {
+      "raw": "Hall, Matt",
+      "family": "Hall",
+      "given": "Matt"
+    }
+  ],
+  "authors_text": "Acolin, Arthur; Decter-Frain, Ari; Hall, Matt",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.27",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

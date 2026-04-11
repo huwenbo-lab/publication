@@ -1,0 +1,30 @@
+{
+  "title": "Paradox lost: Explaining the hispanic adult mortality advantage",
+  "abstract": "Abstract We tested three competing hypotheses regarding the adult “Hispanic mortality paradox”: data artifact, migration, and cultural or social buffering effects. On the basis of a series of parametric hazard models estimated on nine years of mortality follow-up data, our results suggest that the “Hispanic” mortality advantage is a feature found only among foreign-born Mexicans and foreign born Hispanics other than Cubans or Puerto Ricans. Our analysis suggests that the foreign-born Mexican advantage can be attributed to return migration, or the “salmon-bias” effect. However, we were unable to account for the mortality advantage observed among other foreign-born Hispanics.",
+  "authors": [
+    {
+      "raw": "Palloni, Alberto",
+      "family": "Palloni",
+      "given": "Alberto"
+    },
+    {
+      "raw": "Arias, Elizabeth",
+      "family": "Arias",
+      "given": "Elizabeth"
+    }
+  ],
+  "authors_text": "Palloni, Alberto; Arias, Elizabeth",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0024",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

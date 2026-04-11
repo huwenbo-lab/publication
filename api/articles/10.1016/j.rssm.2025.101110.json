@@ -1,0 +1,30 @@
+{
+  "title": "Inequalities in early childhood education and care by immigrant background",
+  "abstract": "Children with foreign-born parents attend early childhood education and care (ECEC) to a lower extent than native-background children in most European countries. This enrolment gap persists even in countries with universal right to ECEC, suggesting that structural constraints alone cannot explain it. This article examines (1) whether lower ECEC enrolment in Sweden is particularly pronounced among immigrant-origin groups known to experience later educational disadvantages, and (2) whether immigrant-background children face disadvantages in ECEC quality. We use data from the Swedish pre-school register 2014-2023, linked to parents' sociodemographic characteristics. Enrolment differences are examined using longitudinal competing risk models, considering emigration as a competing risk. ECEC quality indicators are assessed using descriptive statistics and OLS models. We find that the enrolment gap is primarily driven by lower enrolment among non-refugee migrant children who subsequently emigrate before compulsory school. The conclusion is that increasing ECEC enrolment in Sweden is unlikely to reduce later educational inequalities as those not enrolled will rarely attend Swedish schools. More generally, in contexts with high levels of temporary migration, lower ECEC participation should not automatically be seen as a risk factor for later inequality. Moreover, we find that structural indicators of ECEC quality-such as teacher density, qualifications, and turnover-are similar between immigrant-and native-background children. However, children of immigrant background attend ECEC centres with more immigrant-background peers and foreign-born teachers, which can potentially affect their language development and later outcomes.",
+  "authors": [
+    {
+      "raw": "Ljungstrom, Andreas",
+      "family": "Ljungstrom",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Mood, Carina",
+      "family": "Mood",
+      "given": "Carina"
+    }
+  ],
+  "authors_text": "Ljungstrom, Andreas; Mood, Carina",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101110",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101110",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101110",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101110.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

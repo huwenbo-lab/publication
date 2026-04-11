@@ -1,0 +1,30 @@
+{
+  "title": "Slow to launch: Young men's parental coresidence and employment outcomes",
+  "abstract": "Objective: The authors investigate the potential early career consequences of parental coresidence for young men and whether they vary by duration of coresidence. Background: Young adult coresidence with parents is becoming more common, particularly since the Great Recession and the recent pandemic. Although many studies have investigated the factors that predict coresidence, few examine the consequences. Some prior research suggests that coresidence may directly reduce career opportunities and indirectly shape employment through its effects on mental health and family formation. Yet, the consequences may be milder if coresidence is short-term. Method: Using data from the National Longitudinal Survey of Youth 1997, the authors examine the associations between parental coresidence after the age of 24 and employment status (n = 3915) and occupational standing (n = 3613) for young men in their early 30s in the United States. They explore how this association varies by the duration of coresidence, testing several model specifications and controlling for factors that select young men into parental coresidence. Results: Short-term coresidence of about 1 year is marginally associated with an improved likelihood of full-time employment, but longer-term parental coresidence of 4 to 6 years is negatively associated with occupational standing. Conclusion: Parental coresidence may be beneficial for young men in their peak ages of career growth if it is only for a few years. However, just as long-term unemployment can have a scarring effect on employment outcomes, long-term parental coresidence might negatively impact career growth.",
+  "authors": [
+    {
+      "raw": "Saydam, Asya",
+      "family": "Saydam",
+      "given": "Asya"
+    },
+    {
+      "raw": "Raley, Kelly",
+      "family": "Raley",
+      "given": "Kelly"
+    }
+  ],
+  "authors_text": "Saydam, Asya; Raley, Kelly",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.13001",
+  "doi_url": "https://doi.org/10.1111/jomf.13001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

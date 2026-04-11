@@ -1,0 +1,30 @@
+{
+  "title": "Parental time dedication and children's education. An analysis of West Germany",
+  "abstract": "Parental time dedication in childhood, at least of certain kinds, has been observed to be positive for children's cognitive and emotional development. We examine two underexplored issues: a) the effect of time inputs in early childhood on later educational achievement (at age 17) and b) effect differences by parents' level of education. We use data from the German Socioeconomic Panel and analyze a sample of 1141 individuals born between 1983 and 1997. Models with and without family fixed-effects are estimated. We find, firstly, that the parenting effect primarily derives from maternal involvement. Secondly, maternal time dedication (at age 4-5) increases the likelihood of attending the prestigious Gymnasium track for children of highly educated mothers. For children of less educated mothers the amount of maternal time in child care makes no substantial difference in Gymnasium attendance. Thirdly, a long-time investment by highly educated mothers is particularly influential when it occurs in early childhood. Finally, the effect of maternal dedication does not vary with mother's employment status.",
+  "authors": [
+    {
+      "raw": "Cordero-Coma, Julia",
+      "family": "Cordero-Coma",
+      "given": "Julia"
+    },
+    {
+      "raw": "Esping-Andersen, Gosta",
+      "family": "Esping-Andersen",
+      "given": "Gosta"
+    }
+  ],
+  "authors_text": "Cordero-Coma, Julia; Esping-Andersen, Gosta",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2018,
+  "doi": "10.1016/j.rssm.2018.03.006",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2018.03.006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2018.03.006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2018.03.006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

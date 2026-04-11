@@ -1,0 +1,40 @@
+{
+  "title": "Agency in Fertility Decisions in Western Europe During the Demographic Transition: A Comparative Perspective",
+  "abstract": "We use a set of linked reproductive histories taken from Sweden, the Netherlands, and Spain for the period 1871-1960 to address key issues regarding how reproductive change was linked specifically to mortality and survivorship and more generally to individual agency. Using event-history analysis, this study investigates how the propensity to have additional children was influenced by the number of surviving offspring when reproductive decisions were made. The results suggest that couples were continuously regulating their fertility to achieve reproductive goals. Families experiencing child fatalities show significant increases in the hazard of additional births. In addition, the sex composition of the surviving sibset also appears to have influenced reproductive decisions in a significant but changing way. The findings offer strong proof of active decision-making during the demographic transition and provide an important contribution to the literature on the role of mortality for reproductive change.",
+  "authors": [
+    {
+      "raw": "Reher, David Sven",
+      "family": "Reher",
+      "given": "David Sven"
+    },
+    {
+      "raw": "Sandstrom, Glenn",
+      "family": "Sandstrom",
+      "given": "Glenn"
+    },
+    {
+      "raw": "Sanz-Gimeno, Alberto",
+      "family": "Sanz-Gimeno",
+      "given": "Alberto"
+    },
+    {
+      "raw": "van Poppel, Frans W. A.",
+      "family": "van Poppel",
+      "given": "Frans W. A."
+    }
+  ],
+  "authors_text": "Reher, David Sven; Sandstrom, Glenn; Sanz-Gimeno, Alberto; van Poppel, Frans W. A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-016-0536-0",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0536-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0536-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0536-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Equalization or Selection? Reassessing the Meritocratic Power of a College Degree in Intergenerational Income Mobility",
+  "abstract": "Intergenerational mobility is higher among college graduates than among people with lower levels of education. In light of this finding, researchers have characterized a college degree as a great equalizer leveling the playing field, and proposed that expanding higher education would promote mobility. This line of reasoning rests on the implicit assumption that the relatively high mobility observed among college graduates reflects a causal effect of college completion on intergenerational mobility, an assumption that has rarely been rigorously evaluated. This article bridges this gap. Using a novel reweighting technique, I estimate the degree of intergenerational income mobility among college graduates purged of selection processes that may drive up observed mobility in this subpopulation. Analyzing data from the National Longitudinal Survey of Youth 1979, I find that once selection processes are adjusted for, intergenerational income mobility among college graduates is very close to that among non-graduates. This finding suggests that expanding the pool of college graduates per se is unlikely to boost intergenerational income mobility in the United States. To promote mobility, public investments in higher education (e.g., federal and state student aid programs) should be targeted at low-income youth.",
+  "authors": [
+    {
+      "raw": "Zhou, Xiang",
+      "family": "Zhou",
+      "given": "Xiang"
+    }
+  ],
+  "authors_text": "Zhou, Xiang",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419844992",
+  "doi_url": "https://doi.org/10.1177/0003122419844992",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419844992",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419844992.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

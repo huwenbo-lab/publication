@@ -1,0 +1,50 @@
+{
+  "title": "Exploring the relationship between welfare participation in childhood and depression in adulthood in the United States",
+  "abstract": "Objective: Depression is a serious mental health disorder, and untangling its causal agents is a major public health priority in the United States. This study examines the relationship between participating in welfare programs during childhood and experiencing depression during young adulthood. Method: This study used wave I and IV data from the Add Health (N = 15,701). Multiple imputation is used to deal with missing data. Propensity score matching is used to reduce the selection bias, and then multiple regressions were used to examine the welfare participation and depression relationships. Results: Overall, young adults from welfare-recipient families reported significantly higher depression scores, rather than the clinical diagnosis of depression. Subgroup analyses showed only the poor group had significantly higher depression scores, whereas only the near-poor group had a significantly diagnosed depression outcome. Additionally, significantly higher depression scores were found for female youth from welfare-recipient families. However, no significant differences were found between the gender groups regarding diagnosed depression. Discussion: Using welfare participation as an economic marker, the subgroup analyses help to identify target populations for future intervention. Implications of this study will be of interest to policy makers and have value for informing policy decisions.",
+  "authors": [
+    {
+      "raw": "Wu, Shiyou",
+      "family": "Wu",
+      "given": "Shiyou"
+    },
+    {
+      "raw": "Fraser, Mark W.",
+      "family": "Fraser",
+      "given": "Mark W."
+    },
+    {
+      "raw": "Chapman, Mimi V.",
+      "family": "Chapman",
+      "given": "Mimi V."
+    },
+    {
+      "raw": "Gao, Qin",
+      "family": "Gao",
+      "given": "Qin"
+    },
+    {
+      "raw": "Huang, Jin",
+      "family": "Huang",
+      "given": "Jin"
+    },
+    {
+      "raw": "Chowa, Gina A.",
+      "family": "Chowa",
+      "given": "Gina A."
+    }
+  ],
+  "authors_text": "Wu, Shiyou; Fraser, Mark W.; Chapman, Mimi V.; Gao, Qin; Huang, Jin; Chowa, Gina A.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.08.009",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.08.009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.08.009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.08.009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

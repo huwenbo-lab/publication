@@ -1,0 +1,40 @@
+{
+  "title": "Variations in the Temporal Structure of Sociability across American Cities",
+  "abstract": "Though sociologists have been interested in how temporal patterns of sociability vary in urban contexts, the study of city-level dynamics at short timescales has been challenging historically. Social media and new computational methods provide a solution. Our study clusters cities using sociality as a metric. We collected three months of social media data to investigate variation in the temporal structure of sociability across American cities. We find that cities cluster into three distinct types (‘Coastal’, ‘Transitional’ and ‘Heartland’) and that geographic proximity together with race, education and language associate with this clustering. Specifically, we found that clusters of Blacker cities tend to tweet more per capita, but also that more highly educated cities tend to tweet less per capita. These findings provide evidence that social media may be facilitating new opportunities to empower traditionally marginalized urban groups, a conclusion relevant to #BlackLivesMatter, the George Floyd protests and other social movements.",
+  "authors": [
+    {
+      "raw": "Murthy, Dhiraj",
+      "family": "Murthy",
+      "given": "Dhiraj"
+    },
+    {
+      "raw": "O’Brien, John D",
+      "family": "O’Brien",
+      "given": "John D"
+    },
+    {
+      "raw": "Gross, Alexander",
+      "family": "Gross",
+      "given": "Alexander"
+    },
+    {
+      "raw": "Meyers, Nathan",
+      "family": "Meyers",
+      "given": "Nathan"
+    }
+  ],
+  "authors_text": "Murthy, Dhiraj; O’Brien, John D; Gross, Alexander; Meyers, Nathan",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2020,
+  "doi": "10.1177/0038038520956940",
+  "doi_url": "https://doi.org/10.1177/0038038520956940",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038038520956940",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038038520956940.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

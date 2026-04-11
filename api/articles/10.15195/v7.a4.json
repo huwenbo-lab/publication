@@ -1,0 +1,30 @@
+{
+  "title": "School Choice, Neighborhood Change, and Racial Imbalance Between Public Elementary Schools and Surrounding Neighborhoods",
+  "abstract": "The expansion of school choice in recent years has potentially generated demographic imbalances between traditional public schools and their residential attendance zones. Demographic imbalances emerge from selective opting out, when families of certain racial and/or ethnic backgrounds disproportionately choose not to enroll in their neighborhood-based public schools. In this article, we use a unique data set of school attendance zones in 21 large U.S. school districts to show how changes in neighborhood conditions and school choice options influence race-specific enrollments in locally zoned public elementary schools from 2000 to 2010. We find that the presence of more school-choice options generates racial imbalances between public elementary schools and their surrounding neighborhoods, but this association differs by type of choice-based alternative. Private schools, on average, reduce the presence of non-Hispanic white students in locally zoned schools, whereas charter schools may reduce the presence of nonwhite students in locally zoned schools. Increases in neighborhood-school racial imbalances from 2000 to 2010 were concentrated in neighborhoods undergoing increases in socioeconomic status, suggesting that parents' residential and school decisions are dynamic and sensitive to changing neighborhood conditions. Selective opting out has implications for racial integration in schools and the distribution of familial resources across educational contexts.",
+  "authors": [
+    {
+      "raw": "Bischoff, Kendra",
+      "family": "Bischoff",
+      "given": "Kendra"
+    },
+    {
+      "raw": "Tach, Laura",
+      "family": "Tach",
+      "given": "Laura"
+    }
+  ],
+  "authors_text": "Bischoff, Kendra; Tach, Laura",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2020,
+  "doi": "10.15195/v7.a4",
+  "doi_url": "https://doi.org/10.15195/v7.a4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv7.a4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v7.a4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

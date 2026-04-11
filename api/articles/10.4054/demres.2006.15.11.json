@@ -1,0 +1,30 @@
+{
+  "title": "An evaluation of the one percent clustered sample of the 1990 Census of China",
+  "abstract": "We describe and evaluate a one percent clustered sample of the 1990 Census of China, the largest publicly-available micro sample of any Chinese census, using direct inspection as well as comparisons with published data drawn from the complete enumerati",
+  "authors": [
+    {
+      "raw": "Lavely, William",
+      "family": "Lavely",
+      "given": "William"
+    },
+    {
+      "raw": "Mason, William M.",
+      "family": "Mason",
+      "given": "William M."
+    }
+  ],
+  "authors_text": "Lavely, William; Mason, William M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2006,
+  "doi": "10.4054/demres.2006.15.11",
+  "doi_url": "https://doi.org/10.4054/demres.2006.15.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2006.15.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2006.15.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

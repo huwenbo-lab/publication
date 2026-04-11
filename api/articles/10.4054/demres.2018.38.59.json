@@ -1,0 +1,45 @@
+{
+  "title": "The effects of family and location on wealth: A longitudinal study of the US North, 1850-1870",
+  "abstract": "BACKGROUND Family effects can be confounded with spatial effects, since family members live near each other. OBJECTIVE Our aim is to find out whether a father's wealth was related to his son's wealth when spatial effects are included in the model. The data is from the United States from 1850 to 1870. Since the data comes from genealogies we are also able to test for deeper family effects lasting several generations. METHODS This article uses Bayesian longitudinal methods that incorporate spatial effects. The data comes from the genealogies of nine New England families that have been linked to the US censuses of 1850, 1860, and 1870, which had information on real property, the dependent variable in our analysis. RESULTS No relationship was found between the wealth of the father and his sons in our data, nor were the deeper family effects significant. Spatial effects were also not significant. However, there was a strong temporal effect: Men were wealthier in 1860 than they were in 1850 or 1870. CONCLUSION There is evidence of economic mobility in a rapidly expanding population and economy such as the United States was during the 19th century. Since temporal effects were more important than spatial effects the amount of mobility might be transitory and highly dependent upon the particular time period and cohort being studied. CONTRIBUTION The article illustrates the usefulness of methods that include spatial effects for the study of economic mobility, particularly in studies of family effects, and the importance of including both spatial and temporal effects when analyzing economic mobility.",
+  "authors": [
+    {
+      "raw": "Kasakoff, Alice",
+      "family": "Kasakoff",
+      "given": "Alice"
+    },
+    {
+      "raw": "Lawson, Andrew",
+      "family": "Lawson",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Dasgupta, Purbasha",
+      "family": "Dasgupta",
+      "given": "Purbasha"
+    },
+    {
+      "raw": "DuBois, Michael",
+      "family": "DuBois",
+      "given": "Michael"
+    },
+    {
+      "raw": "Feetham, Stephen",
+      "family": "Feetham",
+      "given": "Stephen"
+    }
+  ],
+  "authors_text": "Kasakoff, Alice; Lawson, Andrew; Dasgupta, Purbasha; DuBois, Michael; Feetham, Stephen",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.59",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.59",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.59",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.59.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

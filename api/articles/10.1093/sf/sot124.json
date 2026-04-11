@@ -1,0 +1,35 @@
+{
+  "title": "Discrimination of Arabic-Named Applicants in the Netherlands: An Internet-Based Field Experiment Examining Different Phases in Online Recruitment Procedures",
+  "abstract": "his study examines discrimination of Arabic-named applicants in online recruitment procedures in the Netherlands. We develop and implement a new field experiment approach, posting fictitious rsums (n = 636) on two online rsum databases. Two phases of recruitment procedures are examined: employers' decisions to (1) view applicants' complete rsums after seeing short profiles and (2) contact applicants. The experiment covers both male and female applicants, three occupational levels, five sectors, and ten geographical regions, and consists of two waves. Results provide strong evidence of discrimination in the first phase (views). Rsums of Arabic-named applicants were requested less often, regardless of their education, gender, age, region, or sector, and for both websites and waves. Controlling for the number of times candidates' full rsums were viewed, there is less evidence of discrimination in the second phase (reactions). Yet, after two phases, the cumulative ethnic difference is considerable: Dutch-named applicants are 60 percent more likely to receive a positive reaction than Arabic-named applicants. We conclude that ethnic disparities in outcomes of recruitment procedures are substantial and arise already in the very first phase of the selection process. Hence, employers often do not even get to see Arabic-named applicants' rsums. Finally, discrimination is stronger in wave two, when the total number of views of rsums was lower, indicating lower labor demand.",
+  "authors": [
+    {
+      "raw": "Blommaert, L.",
+      "family": "Blommaert",
+      "given": "L."
+    },
+    {
+      "raw": "Coenders, M.",
+      "family": "Coenders",
+      "given": "M."
+    },
+    {
+      "raw": "van Tubergen, F.",
+      "family": "van Tubergen",
+      "given": "F."
+    }
+  ],
+  "authors_text": "Blommaert, L.; Coenders, M.; van Tubergen, F.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sot124",
+  "doi_url": "https://doi.org/10.1093/sf/sot124",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsot124",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sot124.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The temporal variation of ethnic segregation in a city: Evidence from a mobile phone use dataset",
+  "abstract": "The aim of this study is to determine the temporal variation of ethnic segregation in the city of Tallinn, the capital of Estonia. We employ data on mobile-phone use to compare variations in segregation indices during the day, the week, and the year. The results indicate that the locations of people are more segregated at night, with considerably less segregation during the daytime. The segregation is significantly lower on workdays compared to weekends. Segregation is also lower during summer holidays compared to the winter working period. The results show that although places of residence are segregated, different ethnic groups use the city together during the day, which increases the potential for interethnic contacts. The results demonstrate also that temporal segregation indices based on mobile-phone use are considerably lower than segregation indices of places of residence that are derived from the census.",
+  "authors": [
+    {
+      "raw": "Silm, Siiri",
+      "family": "Silm",
+      "given": "Siiri"
+    },
+    {
+      "raw": "Ahas, Rein",
+      "family": "Ahas",
+      "given": "Rein"
+    }
+  ],
+  "authors_text": "Silm, Siiri; Ahas, Rein",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2014,
+  "doi": "10.1016/j.ssresearch.2014.03.011",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2014.03.011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2014.03.011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2014.03.011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Age reporting for the oldest old in the Brazilian COVID-19 vaccination database: What can we learn from it?",
+  "abstract": "BACKGROUND Age misreporting affects population estimates at older ages. In Brazil, every citizen must be registered and show an identity document to vaccinate against COVID-19. This requirement to present proof of age provides a unique opportunity for measuring the oldest-old population using novel administrative data.OBJECTIVES To offer critically assessed estimates of the Brazilian population aged 80 and older based on data from the vaccination registration system (VRS). To uncover discrepancies between the number of vaccinated oldest-old people and the projections used to estimate target populations for COVID-19 vaccination. METHODS We calculate data quality indicators based on data from the VRS - namely, 100+/80+ and 90+/80+ population proportions, sex ratios, and the Myers blended index - and compare them to those based on data on target populations from Brazilian censuses and demographic projections, and from Sweden - a country with high-quality data. We also estimate vaccination coverage ratios using population projections adjusted to excess deaths as the denominators.RESULTS Requiring documentation reduces age heaping, age exaggeration, and sex ratios marginally. However, it cannot solve the problem of the misreporting of birth dates due to the absence of long-standing birth registration systems in Brazil, particularly in the northern and central regions. In addition, we find a mismatch between the projected populations and numbers of vaccinated people across regions.CONCLUSIONS Despite improvements in data quality in Brazil, we are still not confident about the accuracy of age reporting among the oldest old in the less advantaged Brazilian regions. The postponement of the 2020 census reduced the ability of authorities to define the target populations for vaccinations against COVID-19 and other diseases.CONTRIBUTIONS This is the first study to compare population estimates for the oldest old in administrative data and census data in Brazil. Age misreporting resulted in discrepancies that may have compromised the efficacy of the COVID-19 vaccination campaign.",
+  "authors": [
+    {
+      "raw": "Turra, Cassio M.",
+      "family": "Turra",
+      "given": "Cassio M."
+    },
+    {
+      "raw": "Fernandes, Fernando",
+      "family": "Fernandes",
+      "given": "Fernando"
+    },
+    {
+      "raw": "Calazans, Julia Almeida",
+      "family": "Calazans",
+      "given": "Julia Almeida"
+    },
+    {
+      "raw": "Nepomuceno, Marilia R.",
+      "family": "Nepomuceno",
+      "given": "Marilia R."
+    }
+  ],
+  "authors_text": "Turra, Cassio M.; Fernandes, Fernando; Calazans, Julia Almeida; Nepomuceno, Marilia R.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.28",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Progress in Spatial Demography",
+  "abstract": "Many important demographic questions can be studied and framed using spatial approaches. This will become even more evident as changes in the volume, source, and form of available demographic data-much of it geocoded-further alter the data landscape, and ultimately the conceptual models and analytical methods used by demographers. This overview provides a brief introduction to a rapidly changing field.",
+  "authors": [
+    {
+      "raw": "Matthews, Stephen",
+      "family": "Matthews",
+      "given": "Stephen"
+    },
+    {
+      "raw": "Parker, Daniel M.",
+      "family": "Parker",
+      "given": "Daniel M."
+    }
+  ],
+  "authors_text": "Matthews, Stephen; Parker, Daniel M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2013,
+  "doi": "10.4054/demres.2013.28.10",
+  "doi_url": "https://doi.org/10.4054/demres.2013.28.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2013.28.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2013.28.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Determinants of regional differences in rates of overeducation in Europe",
+  "abstract": "This paper examines the factors determining variations in spatial rates of overeducation. A quantile regression model has been implemented on a sample of region-yearly data drawn from the EU Survey on Income and Living Conditions (EU-SILC) and several institutional and macroeconomic features captured from other data-sets. Potential determinants of overeducation rates include factors such as labour market risk, financial aid to university students, excess labour demand and institutional factors. We find significant effects both for labour market structural imbalances and institutional factors. The research supports the findings of micro based studies which have found that overeducation is consistent with an assignment interpretation of the labour market. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Davia, Maria A.",
+      "family": "Davia",
+      "given": "Maria A."
+    },
+    {
+      "raw": "McGuinness, Seamus",
+      "family": "McGuinness",
+      "given": "Seamus"
+    },
+    {
+      "raw": "O'Connell, Philip J.",
+      "family": "O'Connell",
+      "given": "Philip J."
+    }
+  ],
+  "authors_text": "Davia, Maria A.; McGuinness, Seamus; O'Connell, Philip J.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.09.009",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.09.009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.09.009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.09.009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

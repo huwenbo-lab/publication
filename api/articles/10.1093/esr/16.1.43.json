@@ -1,0 +1,25 @@
+{
+  "title": "The influence of further education on occupational mobility in Switzerland",
+  "abstract": "Further education attainment is an important part of the work life, but its impact on occupational achievement is far less well understood than basic education. In this study, we examine the inuence of further education on occupational upward and downward mobility and gender dierences in the inuence. Further, we address selection bias involved in this process. The sample for the study includes both men and women from the 1945^51 and 1959^61 birth cohorts in the German-speaking part of Switzerland. We employ Cox's proportional hazards model to estimate the eects of three dierent types of further education on the rate of upward and downward mobility, independent of basic education, work-related individual attributes, and labour-market factors. The ndings show that further education aimed at a formal credential, such as advanced training and retraining, increases chances for upward mobility. We found that the association between credential-oriented further education and upward mobility is stronger for women than for men. It reects greater selectivity among female participants.We also found that further education participation has only a moderate negative eect on downward mobility. Basic education remains an eective measure against downward mobility. a UsingTreiman's scores. b Using Bornschier's (1984) scale. c Months worked before the event. d An interruption of more than 2 years. *These variables are time-constant; the remaining variables are time-variant.",
+  "authors": [
+    {
+      "raw": "Li, J.",
+      "family": "Li",
+      "given": "J."
+    }
+  ],
+  "authors_text": "Li, J.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2000,
+  "doi": "10.1093/esr/16.1.43",
+  "doi_url": "https://doi.org/10.1093/esr/16.1.43",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2F16.1.43",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/16.1.43.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

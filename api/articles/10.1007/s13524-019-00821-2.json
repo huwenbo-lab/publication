@@ -1,0 +1,30 @@
+{
+  "title": "Life and Death in the American City: Men's Life Expectancy in 25 Major American Cities From 1990 to 2015",
+  "abstract": "The past several decades have witnessed growing geographic disparities in life expectancy within the United States, yet the mortality experience of U.S. cities has received little attention. We examine changes in men's life expectancy at birth for the 25 largest U.S. cities from 1990 to 2015, using mortality data with city of residence identifiers. We reveal remarkable increases in life expectancy for several U.S. cities. Men's life expectancy increased by 13.7 years in San Francisco and Washington, DC, and by 11.8 years in New York between 1990 and 2015, during which overall U.S. life expectancy increased by just 4.8 years. A significant fraction of gains in the top-performing cities relative to the U.S. average is explained by reductions in HIV/AIDS and homicide during the 1990s and 2000s. Although black men tended to see larger life expectancy gains than white men in most cities, changes in socioeconomic and racial population composition also contributed to these trends.",
+  "authors": [
+    {
+      "raw": "Fenelon, Andrew",
+      "family": "Fenelon",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Boudreaux, Michel",
+      "family": "Boudreaux",
+      "given": "Michel"
+    }
+  ],
+  "authors_text": "Fenelon, Andrew; Boudreaux, Michel",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00821-2",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00821-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00821-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00821-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

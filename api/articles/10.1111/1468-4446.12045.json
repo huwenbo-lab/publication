@@ -1,0 +1,35 @@
+{
+  "title": "Taste clusters of music and drugs: evidence from three analytic levels",
+  "abstract": "AbstractThis article examines taste clusters of musical preferences and substance use among adolescents and young adults. Three analytic levels are considered: fixed effects analyses of aggregate listening patterns and substance use in US radio markets, logistic regressions of individual genre preferences and drug use from a nationally representative survey of US youth, and arrest and seizure data from a large American concert venue. A consistent picture emerges from all three levels: rock music is positively associated with substance use, with some substance‐specific variability across rock sub‐genres. Hip hop music is also associated with higher use, while pop and religious music are associated with lower use. These results are robust to fixed effects models that account for changes over time in radio markets, a comprehensive battery of controls in the individual‐level survey, and concert data establishing the co‐occurrence of substance use and music listening in the same place and time. The results affirm a rich tradition of qualitative and experimental studies, demonstrating how symbolic boundaries are simultaneously drawn around music and drugs.",
+  "authors": [
+    {
+      "raw": "Vuolo, Mike",
+      "family": "Vuolo",
+      "given": "Mike"
+    },
+    {
+      "raw": "Uggen, Christopher",
+      "family": "Uggen",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Lageson, Sarah",
+      "family": "Lageson",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Vuolo, Mike; Uggen, Christopher; Lageson, Sarah",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2014,
+  "doi": "10.1111/1468-4446.12045",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

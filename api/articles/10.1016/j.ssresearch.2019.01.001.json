@@ -1,0 +1,45 @@
+{
+  "title": "How structural adjustment programs affect inequality: A disaggregated analysis of IMF conditionality, 1980-2014",
+  "abstract": "This article highlights an important yet insufficiently understood international-level determinant of inequality in the developing world: structural adjustment programs by the International Monetary Fund (IMF). Studying a panel of 135 countries for the period 1980 to 2014, we examine income inequality using multivariate regression analysis corrected for non-random selection into both IMF programs and associated policy reforms (known as 'conditionality'). We find that, overall, policy reforms mandated by the IMF increase income inequality in borrowing countries. We also test specific pathways linking IMF programs to inequality by disaggregating conditionality by issue area. Our analyses indicate adverse distributional consequences for four policy areas: fiscal policy reforms that restrain government expenditure, external sector reforms stipulating trade and capital account liberalization, financial sector reforms entailing inflation control measures, and reforms that restrict external debt. These effects occur one year after the incidence of an IMF program, and persist in the medium term. Taken together, our findings suggest that the IMF's recent attention to inequality neglects the multiple ways through which the organization's own policy advice has contributed to inequality in the developing world.",
+  "authors": [
+    {
+      "raw": "Forster, Timon",
+      "family": "Forster",
+      "given": "Timon"
+    },
+    {
+      "raw": "Kentikelenis, Alexander E.",
+      "family": "Kentikelenis",
+      "given": "Alexander E."
+    },
+    {
+      "raw": "Reinsberg, Bernhard",
+      "family": "Reinsberg",
+      "given": "Bernhard"
+    },
+    {
+      "raw": "Stubbs, Thomas H.",
+      "family": "Stubbs",
+      "given": "Thomas H."
+    },
+    {
+      "raw": "King, Lawrence P.",
+      "family": "King",
+      "given": "Lawrence P."
+    }
+  ],
+  "authors_text": "Forster, Timon; Kentikelenis, Alexander E.; Reinsberg, Bernhard; Stubbs, Thomas H.; King, Lawrence P.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.01.001",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.01.001",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.01.001",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.01.001.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

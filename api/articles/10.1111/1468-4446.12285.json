@@ -1,0 +1,25 @@
+{
+  "title": "Social mobility and the well-being of individuals",
+  "abstract": "Several papers published in recent years have revived interest in Sorokin's dissociative thesis: the view that intergenerational social mobility has detrimental effects on the social relationships and wellbeing of individuals. In this paper, I test the dissociative thesis using data from the British Household Panel Survey and Understanding Society. On a wide range of indicators that measure participation in civic associations, contact with parents, close personal relationships, social support, subjective wellbeing, etc. individuals who have achieved long-range upward mobility (i.e. those who move from working class origin to salariat destination) tend to fare better than those who are immobile in the working class. Those who have experienced long-range downward mobility (moving from salariat origin to working class destination) do about as well as second-generation members of the working class. Overall, there is no support for Sorokin's thesis.",
+  "authors": [
+    {
+      "raw": "Chan, Tak Wing",
+      "family": "Chan",
+      "given": "Tak Wing"
+    }
+  ],
+  "authors_text": "Chan, Tak Wing",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2018,
+  "doi": "10.1111/1468-4446.12285",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12285",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12285",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12285.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Ethno-nationalism and Right-Wing Extremist Violence in the United States, 2000 through 2018",
+  "abstract": "Since Norman Ryder's (1965) classic essay on cohort analysis was published more than a half century ago, scores of researchers have attempted to uncover the separate effects of age, period, and cohort (APC) on a wide range of outcomes. However, rather than disentangling period effects from those attributable to age or cohort, Ryder's approach is based on distinguishing intra-cohort trends (or life-cycle change) from inter-cohort trends (or social change), which, together, constitute comparative cohort careers. Following Ryder's insights, in this article I show how to formally summarize population-level temporal variability on the Lexis table. In doing so, I present a number of parametric expressions representing intra- and inter-cohort trends, intra-period differences, and Ryderian comparative cohort careers. To aid the interpretation of results, I additionally introduce a suite of novel visualizations of these model-based summaries, including 2D and 3D Lexis heat maps. Crucially, the Ryderian approach developed in this article is fully identified, complementing (but not replacing) conventional approaches that rely on theoretical assumptions to parse out unique APC effects from unidentified models. This has the potential to provide a common base of knowledge in a literature often fraught with controversy. To illustrate, I analyze trends in social trust in the U.S. General Social Survey from 1972 to 2018.",
+  "authors": [
+    {
+      "raw": "Olzak, Susan",
+      "family": "Olzak",
+      "given": "Susan"
+    }
+  ],
+  "authors_text": "Olzak, Susan",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a6",
+  "doi_url": "https://doi.org/10.15195/v10.a6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

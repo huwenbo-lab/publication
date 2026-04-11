@@ -1,0 +1,35 @@
+{
+  "title": "Short Lives: The Impact of Parental Death on Early-Life Mortality and Height in the Netherlands, 1850-1940",
+  "abstract": "We inves ti gate how expe ri enc ing paren tal death in infancy, child hood, or adolescence affected individuals' health using two distinct measures: mortality before age 20 and young adult height. Using two com ple men tary indi ca tors of health enables us to gain more insights into pro cesses of selec tion and the scar ring of health. Employing nation ally rep re sen ta tive data for the Netherlands for the 1850-1940 period, we ana lyze the sur vival of roughly 36,000 boys and girls using Cox pro por tional haz ard mod els, and the stat ure of more than 4,000 young adult men using lin ear regres sion mod els. Results show that los ing a par ent-par tic u larly a mother-at an early age (0-1 or 1-5) was related to a strongly increased risk of mor tal ity. We find no evi dence that los ing a par ent at these ages affected stat ure in young adult hood. For boys, expe ri enc ing mater nal death between ages five and 12 was strongly asso ci ated with a shorter young adult height; how ever, we did not find evi dence for an asso ci a tion between expe ri enc- ing pater nal death and shorter stat ure. We con clude that stat ure may not be a par tic u larly good mea sure of the effects of early -life adver sity if the health shock greatly increases mor tal ity, as these effects cre ate poten tial issues of health selec tion.",
+  "authors": [
+    {
+      "raw": "Quanjer, Bjoern",
+      "family": "Quanjer",
+      "given": "Bjoern"
+    },
+    {
+      "raw": "van Dijk, Ingrid K.",
+      "family": "van Dijk",
+      "given": "Ingrid K."
+    },
+    {
+      "raw": "Rosenbaum-Feldbruegge, Matthias",
+      "family": "Rosenbaum-Feldbruegge",
+      "given": "Matthias"
+    }
+  ],
+  "authors_text": "Quanjer, Bjoern; van Dijk, Ingrid K.; Rosenbaum-Feldbruegge, Matthias",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10421550",
+  "doi_url": "https://doi.org/10.1215/00703370-10421550",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10421550",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10421550.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

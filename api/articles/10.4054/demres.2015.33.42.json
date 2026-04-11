@@ -1,0 +1,35 @@
+{
+  "title": "Mother's educational level and single motherhood: Comparing Spain and Italy",
+  "abstract": "BACKGROUND During the second half of the 20th century there was a positive relationship between single parenthood and the mother's educational level in Spain and Italy. OBJECTIVES However, several important transformations contemplated by Goode (1993) and McLanahan (2004) suggest that this relationship may have been inverted in Spain but perhaps not in Italy. The purpose of our study is to test this hypothesis. METHODS We used EU-SILC data from waves 2005 and 2011 and logistic regressions. RESULTS We found the relationship between the mother's educational level and being a single mother is negative in Spain, while it is not significant in Italy. However, we found that for Italian mothers aged 40 and younger and mothers from northwest Italy, this relationship is also negative. By contrast, for older mothers and mothers from the islands or southern Italy, this association is positive. Meanwhile, for mothers from the central and northeast regions, the relationship between educational level and single motherhood is not significant. CONCLUSIONS These results show how Spain and some parts of Italian society are moving towards family models similar to those in the Northern European countries. As Sara McLanahan (2004) noted for the United States, this social transformation in Southern Europe cannot be considered without recognizing the potential negative consequence for future generations. The single-mother households dealing with the economic crisis that started in 2008 have lower socioeconomic backgrounds than the single mothers who suffered through previous crises, and therefore the consequences of this crisis for children in single-parent families might be even more negative, especially in Spain.",
+  "authors": [
+    {
+      "raw": "Garriga, Anna",
+      "family": "Garriga",
+      "given": "Anna"
+    },
+    {
+      "raw": "Sarasa, Sebastia",
+      "family": "Sarasa",
+      "given": "Sebastia"
+    },
+    {
+      "raw": "Berta, Paolo",
+      "family": "Berta",
+      "given": "Paolo"
+    }
+  ],
+  "authors_text": "Garriga, Anna; Sarasa, Sebastia; Berta, Paolo",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.42",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.42",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.42",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.42.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

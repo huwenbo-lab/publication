@@ -1,0 +1,30 @@
+{
+  "title": "Obtaining multistate life table distributions for highly refined subpopulations from cross-sectional data: A bayesian extension of sullivan’s method",
+  "abstract": "Abstract Multistate life table methods are often used to estimate the proportion of remaining life that individuals can expect to spend in various states, such as healthy and unhealthy states. Sullivan’s method is commonly used when panels containing data on transitions are unavailable and true multistate tables cannot be generated. Sullivan’s method requires only cross-sectional mortality data and cross-sectional data indicating prevalence in states of interest. Such data often come from sample surveys, which are widely available. Although the data requirements for Sullivan’s method are minimal, the method is limited in its ability to produce estimates for subpopulations because of limited disaggregation of data in cross-sectional mortality files and small cell sizes in aggregated survey data. In this article, we develop, test, and demonstrate a method that adapts Sullivan’s approach to allow the inclusion of covariates in producing interval estimates of state expectancies for any desired subpopulation that can be specified in the cross-sectional prevalence data. The method involves a three-step process: (1) using Gibbs sampling to sample parameters from a bivariate regression model; (2) using ecological inference for producing transition probability matrices from the Gibbs samples; (3) using standard multistate calculations to convert the transition probability matrices into multistate life tables.",
+  "authors": [
+    {
+      "raw": "Lynch, Scott M.",
+      "family": "Lynch",
+      "given": "Scott M."
+    },
+    {
+      "raw": "Brown, J. Scott",
+      "family": "Brown",
+      "given": "J. Scott"
+    }
+  ],
+  "authors_text": "Lynch, Scott M.; Brown, J. Scott",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1007/bf03213739",
+  "doi_url": "https://doi.org/10.1007/bf03213739",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fbf03213739",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/bf03213739.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

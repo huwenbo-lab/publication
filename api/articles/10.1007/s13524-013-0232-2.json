@@ -1,0 +1,35 @@
+{
+  "title": "Extending the Lee-Carter Method to Model the Rotation of Age Patterns of Mortality Decline for Long-Term Projections",
+  "abstract": "Abstract In developed countries, mortality decline is decelerating at younger ages and accelerating at old ages, a phenomenon we call “rotation.” We expect that this rotation will also occur in developing countries as they attain high life expectancies. But the rotation is subtle and has proved difficult to handle in mortality models that include all age groups. Without taking it into account, however, long-term mortality projections will produce questionable results. We simplify the problem by focusing on the relative magnitude of death rates at two ages (0 and 15–19) while making assumptions about changes in rates of decline at other ages. We extend the Lee-Carter method to incorporate this subtle rotation in projection. We suggest that the extended Lee-Carter method could provide plausible projections of the age pattern of mortality for populations, including those that currently have very high life expectancies. Detailed examples are given using data from Japan and the United States.",
+  "authors": [
+    {
+      "raw": "Li, Nan",
+      "family": "Li",
+      "given": "Nan"
+    },
+    {
+      "raw": "Lee, Ronald",
+      "family": "Lee",
+      "given": "Ronald"
+    },
+    {
+      "raw": "Gerland, Patrick",
+      "family": "Gerland",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Li, Nan; Lee, Ronald; Gerland, Patrick",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0232-2",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0232-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0232-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0232-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

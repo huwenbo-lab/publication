@@ -1,0 +1,30 @@
+{
+  "title": "Parental education and children's cognitive development: a prospective approach",
+  "abstract": "This study uses nationally representative data from the 1970 British Cohort Study (BCS70) to estimate the impact of parental education on children's cognitive development using a prospective approach. The analysis focuses on a subsample of participants and their first-born children (n = 1,042, aged 3 to 16). Previous research often overlooked selective patterns of childbirth, potentially introducing endogenous selection bias, and did not fully account for genetic confounding in the association between parental education and children's cognitive outcomes. To address these limitations, we used the BCS70's multigenerational design and inverse probability of treatment and censoring weighting to correct for nonrandom selection into parenthood and control for confounding parental and grandparental factors. Our findings show that accounting for endogenous selection bias increases the estimated effect of parental education, while adjusting for confounding-primarily driven by parental cognitive ability-substantially reduces this effect. These results underscore the importance of disentangling the effects of parental education from the broader intergenerational factors that shape children's cognitive outcomes.",
+  "authors": [
+    {
+      "raw": "Klein, Markus",
+      "family": "Klein",
+      "given": "Markus"
+    },
+    {
+      "raw": "Kuhhirt, Michael",
+      "family": "Kuhhirt",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Klein, Markus; Kuhhirt, Michael",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf146",
+  "doi_url": "https://doi.org/10.1093/sf/soaf146",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf146",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf146.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

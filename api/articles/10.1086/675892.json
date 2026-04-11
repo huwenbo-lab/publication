@@ -1,0 +1,35 @@
+{
+  "title": "Styles of Causal Thought: An Empirical Investigation",
+  "abstract": "While most work on causation in ethnography addresses the normative question of what ethnographers should do, this article addresses the empirical question of what ethnographers actually do. Specifically, it investigates whether ethnographic articles make causal arguments and how these arguments are made. The authors draw on a content analysis of 48 ethnographic articles sampled from four groups of sociological journals: contemporary generalist journals, contemporary specialist journals, mid-20th-century generalist journalsall in the United Statesand contemporary generalist journals in Mexico. They find that ethnographies in U.S. contemporary generalist journals are most likely to advance strong and central causal claims and to use logical and rhetorical devices comparable to those used in quantitative articles. They also find that most Mexican ethnographic articles undertake a different kind of project, which they call shedding light on social phenomena. In addition to offering one methodological and one substantive suggestion to account for these findings, the authors highlight their implications for the sociology of social science.",
+  "authors": [
+    {
+      "raw": "Abend, Gabriel",
+      "family": "Abend",
+      "given": "Gabriel"
+    },
+    {
+      "raw": "Petre, Caitlin",
+      "family": "Petre",
+      "given": "Caitlin"
+    },
+    {
+      "raw": "Sauder, Michael",
+      "family": "Sauder",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Abend, Gabriel; Petre, Caitlin; Sauder, Michael",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2013,
+  "doi": "10.1086/675892",
+  "doi_url": "https://doi.org/10.1086/675892",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F675892",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/675892.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

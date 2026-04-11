@@ -1,0 +1,35 @@
+{
+  "title": "Rural-Urban Differences in the Labor-Force Impacts of COVID-19 in the United States",
+  "abstract": "COVID-19 has had dramatic impacts on economic outcomes across the United States, yet most research on the pandemic’s labor-market impacts has had a national or urban focus. We overcome this limitation using data from the U.S. Current Population Survey’s COVID-19 supplement to study pandemic-related labor-force outcomes in rural and urban areas from May 2020 through February 2021. We find the pandemic has generally had more severe labor-force impacts on urban adults than their rural counterparts. Urban adults were more often to go unpaid for missed hours, to be unable to work, and to be unable to look for work due to COVID-19. However, rural workers were less likely to work remotely than urban workers. These differences persist even when adjusting for adults’ socioeconomic characteristics and state-level factors. Our results suggest that rural-urban differences in the nature of work during the pandemic cannot be explained by well-known demographic and political differences between rural and urban America.",
+  "authors": [
+    {
+      "raw": "Brooks, Matthew M.",
+      "family": "Brooks",
+      "given": "Matthew M."
+    },
+    {
+      "raw": "Mueller, J. Tom",
+      "family": "Mueller",
+      "given": "J. Tom"
+    },
+    {
+      "raw": "Thiede, Brian C.",
+      "family": "Thiede",
+      "given": "Brian C."
+    }
+  ],
+  "authors_text": "Brooks, Matthew M.; Mueller, J. Tom; Thiede, Brian C.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211022094",
+  "doi_url": "https://doi.org/10.1177/23780231211022094",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211022094",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211022094.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

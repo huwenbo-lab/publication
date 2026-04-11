@@ -1,0 +1,25 @@
+{
+  "title": "Racial Segregation under Slavery",
+  "abstract": "Social demographers and historians have devoted extensive research to patterns of racial segregation that emerged under Jim Crow and during the post-Civil Rights era but have paid less attention to the role of slavery in shaping the residential distribution of Black populations in the United States. One guiding assumption has been that slavery rendered racial segregation to be both unnecessary and impractical. In this study, I argue that apart from the master-slave relationship, slavery relentlessly produced racial segregation during the antebellum period through the residential isolation of slaves and free people of color. To explain this pattern, I draw on racial threat theory to test hypotheses regarding interracial economic competition and fear of slave mobilization using data from the 1850 Census, as well as an architectural survey of antebellum sites. Findings suggest that the residential segregation of free people of color increased with their local prevalence, whereas the segregation of slaves increased with the prevalence of the slave population. These patterns continue to hold after controlling for interracial competition over land or jobs and past slave rebellions or conspiracies.",
+  "authors": [
+    {
+      "raw": "Ruef, Martin",
+      "family": "Ruef",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Ruef, Martin",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab012",
+  "doi_url": "https://doi.org/10.1093/sf/soab012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

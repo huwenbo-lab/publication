@@ -1,0 +1,30 @@
+{
+  "title": "The health of mothers of adult children with serious conditions",
+  "abstract": "Objective This study examined the association between parenting adult children with serious conditions and mothers' midlife health in the United States. Background The literature about the link between the parenting status of having an adult child with a serious condition and maternal wellbeing can be advanced by systematic analysis of the cumulative role that this parenting status can play in maternal health over the life course as opposed to at any one point. Methods Propensity score reweighting models of data from the National Longitudinal Study of Youth 1979 and its linked child and young adult data estimated disparities in midlife health among mothers of adult children with serious conditions (disabilities, developmental disorders, chronic diseases) and mothers of typically developing children, including examining variation by how long mothers had been in this parenting role and moderation by maternal education and marital status. Results Mothers of young adult children with serious conditions had poorer physical (but not mental) health at midlife than other mothers, especially when more years had elapsed since the child was diagnosed with or developed the condition. These patterns did not differ by maternal education and marital status. Conclusion The dynamics of epidemiological risk and protection among parents of children with serious conditions were temporally situated in the maternal life course but were consistent across different segments of the maternal population.",
+  "authors": [
+    {
+      "raw": "Cha, Hyungmin",
+      "family": "Cha",
+      "given": "Hyungmin"
+    },
+    {
+      "raw": "Crosnoe, Robert",
+      "family": "Crosnoe",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Cha, Hyungmin; Crosnoe, Robert",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12823",
+  "doi_url": "https://doi.org/10.1111/jomf.12823",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12823",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12823.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

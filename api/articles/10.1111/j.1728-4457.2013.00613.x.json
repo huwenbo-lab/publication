@@ -1,0 +1,30 @@
+{
+  "title": "The Effectiveness of Immigration Policies",
+  "abstract": "This article elaborates a conceptual framework for assessing the character and effectiveness of immigration policies. It argues that, to a considerable extent, the public and academic controversy concerning this issue is spurious because of fuzzy definitions of policy effectiveness, stemming from confusion between (1) policy discourses, (2) policies on paper, (3) policy implementation, and (4) policy impacts. The article distinguishes three policy gaps: the discrepancy between public discourses and policies on paper (discursive gap); the disparity between policies on paper and implemented policies (implementation gap); and the extent to which implemented policies affect migration (efficacy gap). Although implemented policies seem to be the correct yardstick to assess policy effectiveness, in practice the (generally more pronounced) discourses are often used as a benchmark. This can lead to an overestimation of policy failure. Existing empirical studies suggest that policies significantly affect the targeted migration flows, but they crucially fail to assess the relative importance of policies in comparison to other migration determinants, including non-migration policies, as well as the hypothetical occurrence of unintended categorical, spatial, inter-temporal, and reverse flow substitution effects. Evidence on such effects is still scarce, showing the need for more empirically informed insights about the short- and long-term effects of migration policies.",
+  "authors": [
+    {
+      "raw": "Czaika, Mathias",
+      "family": "Czaika",
+      "given": "Mathias"
+    },
+    {
+      "raw": "de Haas, Hein",
+      "family": "de Haas",
+      "given": "Hein"
+    }
+  ],
+  "authors_text": "Czaika, Mathias; de Haas, Hein",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2013,
+  "doi": "10.1111/j.1728-4457.2013.00613.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2013.00613.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2013.00613.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2013.00613.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

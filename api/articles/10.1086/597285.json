@@ -1,0 +1,35 @@
+{
+  "title": "Segregation, Racial Structure, and Neighborhood Violent Crime",
+  "abstract": "Drawing on structural racism and urban disadvantage approaches, this article posits a broad influence of citywide racial residential segregation on levels of violent crime across all urban neighborhoods regardless of their racial/ethnic composition. Multilevel models based on data from the National Neighborhood Crime Study for 7,622 neighborhoods in 79 cities throughout the United States reveal that segregation is positively associated with violent crime for white and various types of nonwhite neighborhoods. Nonetheless, there is a lack of parity in violence across these types of communities reflecting the larger racialized social system in which whites are able to use their privileged position to reside in the most advantaged neighborhoods, while African-Americans and Latinos live in the most disadvantaged urban communities and therefore bear the brunt of urban criminal violence.",
+  "authors": [
+    {
+      "raw": "Krivo, Lauren J.",
+      "family": "Krivo",
+      "given": "Lauren J."
+    },
+    {
+      "raw": "Peterson, Ruth D.",
+      "family": "Peterson",
+      "given": "Ruth D."
+    },
+    {
+      "raw": "Kuhl, Danielle C.",
+      "family": "Kuhl",
+      "given": "Danielle C."
+    }
+  ],
+  "authors_text": "Krivo, Lauren J.; Peterson, Ruth D.; Kuhl, Danielle C.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2009,
+  "doi": "10.1086/597285",
+  "doi_url": "https://doi.org/10.1086/597285",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F597285",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/597285.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

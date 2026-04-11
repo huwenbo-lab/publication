@@ -1,0 +1,35 @@
+{
+  "title": "Increasing Inequality in Parent Incomes and Children's Schooling",
+  "abstract": "Income inequality and the achievement test score gap between high- and low-income children increased dramatically in the United States beginning in the 1970s. This article investigates the demographic (family income, mother's education, family size, two-parent family structure, and age of mother at birth) underpinnings of the growing income-based gap in schooling using data from the Panel Study of Income Dynamics. Across 31 cohorts, we find that increases in the income gap between high- and low-income children account for approximately three-quarters of the increasing gap in completed schooling, one-half of the gap in college attendance, and one-fifth of the gap in college graduation. We find no consistent evidence of increases in the estimated associations between parental income and children's completed schooling. Increasing gaps in the two-parent family structures of high- and low-income families accounted for relatively little of the schooling gap because our estimates of the (regression-adjusted) associations between family structure and schooling were surprisingly small for much of our accounting period. On the other hand, increasing gaps in mother's age at the time of birth accounts for a substantial portion of the increasing schooling gap: mother's age is consistently predictive of children's completed schooling, and the maternal age gap for children born into low- and high-income families increased considerably over the period.",
+  "authors": [
+    {
+      "raw": "Duncan, Greg J.",
+      "family": "Duncan",
+      "given": "Greg J."
+    },
+    {
+      "raw": "Kalil, Ariel",
+      "family": "Kalil",
+      "given": "Ariel"
+    },
+    {
+      "raw": "Ziol-Guest, Kathleen M.",
+      "family": "Ziol-Guest",
+      "given": "Kathleen M."
+    }
+  ],
+  "authors_text": "Duncan, Greg J.; Kalil, Ariel; Ziol-Guest, Kathleen M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0600-4",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0600-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0600-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0600-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

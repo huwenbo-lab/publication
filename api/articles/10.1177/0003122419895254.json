@@ -1,0 +1,25 @@
+{
+  "title": "Do Police Brutality Stories Reduce 911 Calls? Reassessing an Important Criminological Finding",
+  "abstract": "This comment reassesses the prominent claim from Desmond, Papachristos, and Kirk (2016) (DPK) that 911 calls plummeted-and homicides surged-because of a police brutality story in Milwaukee (the Jude story). The results in DPK depend on a substantial outlier 47 weeks after the Jude story, the final week of data. Identical analyses without the outlier final week show that the Jude story had no statistically significant effect on either total 911 calls or violent crime 911 calls. Modeling choices that do not extrapolate from data many weeks after the Jude story-including an event study and regression discontinuity in time-also find no evidence that calls declined, a consistent result across predominantly black neighborhoods, predominantly white neighborhoods, and citywide. Finally, plotting the raw data demonstrates stable 911 calls in the weeks around the Jude story. Overall, the existing empirical evidence does not support the theory that publishing brutality stories decreases crime reporting and increases murders.",
+  "authors": [
+    {
+      "raw": "Zoorob, Michael",
+      "family": "Zoorob",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Zoorob, Michael",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1177/0003122419895254",
+  "doi_url": "https://doi.org/10.1177/0003122419895254",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419895254",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419895254.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

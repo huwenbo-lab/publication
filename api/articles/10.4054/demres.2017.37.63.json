@@ -1,0 +1,35 @@
+{
+  "title": "Differences in leaving home by individual and parental education among young adults in Europe",
+  "abstract": "BACKGROUND There is a strong variation in young adults' leaving-home behavior throughout Europe. Earlier research has indicated that individual and parental education are crucial determinants of leaving home. It is, however, unclear how country contexts shape the association between young adults' education as well as parental education and leaving the parental home. OBJECTIVE The current study examines country differences in the effect of young adults' education and parental education on leaving the parental home for the first time across 17 European countries. METHODS We use data from the Harmonized Histories Program for 85,243 young adults (aged 1635 years) in 17 European countries. We estimate discrete-time competing-risks event history models of leaving home to live without a partner versus with a partner. RESULTS Our results underscore the importance of the country context in shaping young adults' leaving home and how it is affected by educational attainment, enrollment, and parental education. For example, the positive educational gradient in leaving home to live without a partner was found to be stronger in most of the Western European countries (except Austria) and less strong in Sweden and Norway and in most of the Eastern European countries (except the Czech Republic, Hungary, and Poland). CONTRIBUTION This study complements and updates our understanding of leaving home in Europe by focusing on the relation between young adults' education and parental education and leaving home across Western and Eastern European countries.",
+  "authors": [
+    {
+      "raw": "Schwanitz, Katrin",
+      "family": "Schwanitz",
+      "given": "Katrin"
+    },
+    {
+      "raw": "Mulder, Clara H.",
+      "family": "Mulder",
+      "given": "Clara H."
+    },
+    {
+      "raw": "Toulemon, Laurent",
+      "family": "Toulemon",
+      "given": "Laurent"
+    }
+  ],
+  "authors_text": "Schwanitz, Katrin; Mulder, Clara H.; Toulemon, Laurent",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.63",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.63",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.63",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.63.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

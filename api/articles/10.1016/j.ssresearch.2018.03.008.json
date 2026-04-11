@@ -1,0 +1,50 @@
+{
+  "title": "New options for national population surveys: The implications of internet and smartphone coverage",
+  "abstract": "Challenges to survey data collection have increased the costs of social research via face-to-face surveys so much that it may become extremely difficult for social scientists to continue using these methods. A key drawback to less expensive Internet-based alternatives is the threat of biased results from coverage errors in survey data. The rise of Internet-enabled smartphones presents an opportunity to re-examine the issue of Internet coverage for surveys and its implications for coverage bias. Two questions (on Internet access and smartphone ownership) were added to the National Survey of Family Growth (NSFG), a U.S. national probability survey of women and men age 15-44, using a continuous sample design. We examine 16 quarters (4 years) of data, from September 2012 to August 2016. Overall, we estimate that 82.9% of the target NSFG population has Internet access, and 81.6% has a smartphone. Combined, this means that about 90.7% of U.S. residents age 15-44 have Internet access, via either traditional devices or a smartphone. We find some evidence of compensatory coverage when looking at key race/ethnicity and age subgroups. For instance, while Black teens (15-18) have the lowest estimated rate of Internet access (81.9%) and the lowest rate of smartphone usage (72.6%), an estimated 88.0% of this subgroup has some form Of Internet access. We also examine the socio-demographic correlates of Internet and smartphone coverage, separately and combined, as indicators of technology access in this population. In addition, we look at the effect of differential coverage on key estimates produced by the NSFG, related to fertility, family formation, and sexual activity. While this does not address nonresponse or measurement biases that may differ for alternative modes, our paper has implications for possible coverage biases that may arise when switching to a Web-based mode of data collection, either for follow-up surveys or to replace the main face-to-face data collection.",
+  "authors": [
+    {
+      "raw": "Couper, Mick P.",
+      "family": "Couper",
+      "given": "Mick P."
+    },
+    {
+      "raw": "Gremel, Garret",
+      "family": "Gremel",
+      "given": "Garret"
+    },
+    {
+      "raw": "Axinn, William",
+      "family": "Axinn",
+      "given": "William"
+    },
+    {
+      "raw": "Guyer, Heidi",
+      "family": "Guyer",
+      "given": "Heidi"
+    },
+    {
+      "raw": "Wagner, James",
+      "family": "Wagner",
+      "given": "James"
+    },
+    {
+      "raw": "West, Brady T.",
+      "family": "West",
+      "given": "Brady T."
+    }
+  ],
+  "authors_text": "Couper, Mick P.; Gremel, Garret; Axinn, William; Guyer, Heidi; Wagner, James; West, Brady T.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.03.008",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.03.008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.03.008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.03.008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

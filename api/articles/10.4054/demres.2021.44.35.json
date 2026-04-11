@@ -1,0 +1,35 @@
+{
+  "title": "Outsurvival as a measure of the inequality of lifespans between two populations",
+  "abstract": "BACKGROUND Inequality in lifespans between two populations, e.g., males and females or people with low and high socioeconomic status, is a focus of demographic, economic, and sociological research and of public policy analysis. Such inequality is usually measured by differences in life expectancy. OBJECTIVE We aim to devise a cogent measure of how much distributions of lifespans differ between two populations. RESULTS We propose an outsurvival statistic, phi (phi), that measures the probability that an individual from a population with low life expectancy will live longer than an individual from a population with high life expectancy. This statistic can also be interpreted as an underdog probability - the chance that a random value from a distribution with a low mean will exceed a random value from a distribution with a higher mean. CONCLUSIONS Our outsurvival probability complements life-expectancy differences to provide a more nuanced view of the inequality of lifespans between two populations. Our mathematically equivalent underdog probability provides an intuitive and widely applicable perspective on the more general question of how disparate two distributions are.",
+  "authors": [
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    },
+    {
+      "raw": "Bergeron-Boucher, Marie-Pier",
+      "family": "Bergeron-Boucher",
+      "given": "Marie-Pier"
+    },
+    {
+      "raw": "Kashnitsky, Ilya",
+      "family": "Kashnitsky",
+      "given": "Ilya"
+    }
+  ],
+  "authors_text": "Vaupel, James W.; Bergeron-Boucher, Marie-Pier; Kashnitsky, Ilya",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.35",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.35",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.35",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.35.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

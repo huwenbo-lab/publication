@@ -1,0 +1,40 @@
+{
+  "title": "Privacy, Ethics, and Data Access: A Case Study of the Fragile Families Challenge",
+  "abstract": "Stewards of social data face a fundamental tension. On one hand, they want to make their data accessible to as many researchers as possible to facilitate new discoveries. At the same time, they want to restrict access to their data as much as possible to protect the people represented in the data. In this article, we provide a case study addressing this common tension in an uncommon setting: the Fragile Families Challenge, a scientific mass collaboration designed to yield insights that could improve the lives of disadvantaged children in the United States. We describe our process of threat modeling, threat mitigation, and third-party guidance. We also describe the ethical principles that formed the basis of our process. We are open about out process and the trade-offs we made in the hope that others can improve on what we have done.",
+  "authors": [
+    {
+      "raw": "Lundberg, Ian",
+      "family": "Lundberg",
+      "given": "Ian"
+    },
+    {
+      "raw": "Narayanan, Arvind",
+      "family": "Narayanan",
+      "given": "Arvind"
+    },
+    {
+      "raw": "Levy, Karen",
+      "family": "Levy",
+      "given": "Karen"
+    },
+    {
+      "raw": "Salganik, Matthew J.",
+      "family": "Salganik",
+      "given": "Matthew J."
+    }
+  ],
+  "authors_text": "Lundberg, Ian; Narayanan, Arvind; Levy, Karen; Salganik, Matthew J.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118813023",
+  "doi_url": "https://doi.org/10.1177/2378023118813023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118813023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118813023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Internal migration in the countries of Asia: levels, ages and spatial impacts",
+  "abstract": "Internal migration, the movement of people between localities and regions within a country, has resulted in a significant redistribution of national populations. Past cross-national studies have been impeded by a lack of data and comparable metrics upon which to base comparisons. This paper examines internal migration in 30 Asian countries utilising a global dataset and a novel suite of measures devised in the IMAGE project. Three aspects of internal migration are explored: overall intensity, age patterns, and spatial impacts. Comparisons reveal that internal migration intensities, while on average lower than in other regions, are highly variable across countries. Migration peaks at earlier ages and is concentrated into a narrower age band than in other parts of the world. Analysis of spatial impacts highlights the contribution of migration to urbanisation, but a comparison of current trends against lifetime migration data also reveals the impact of historical events and government policies on national migration systems. Wide variation in key dimensions of migration among Asian countries reflects a diversity in national circumstances. The way forward lies in further in-depth country studies building on the common analytic framework articulated in this study.",
+  "authors": [
+    {
+      "raw": "Charles-Edwards, Elin",
+      "family": "Charles-Edwards",
+      "given": "Elin"
+    },
+    {
+      "raw": "Bell, Martin",
+      "family": "Bell",
+      "given": "Martin"
+    },
+    {
+      "raw": "Bernard, Aude",
+      "family": "Bernard",
+      "given": "Aude"
+    },
+    {
+      "raw": "Zhu, Yu",
+      "family": "Zhu",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Charles-Edwards, Elin; Bell, Martin; Bernard, Aude; Zhu, Yu",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2019,
+  "doi": "10.1080/17441730.2019.1619256",
+  "doi_url": "https://doi.org/10.1080/17441730.2019.1619256",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2019.1619256",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2019.1619256.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

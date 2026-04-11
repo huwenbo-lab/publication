@@ -1,0 +1,30 @@
+{
+  "title": "Academic Achievement of Children in Same- and Different-Sex-Parented Families: A Population-Level Analysis of Linked Administrative Data From the Netherlands",
+  "abstract": "Although numerous studies have examined how children raised in same-sex-parented families fare relative to children in different-sex-parented families, this body of work suffers from major methodological shortcomings. By leveraging linked administrative data from several population registers from the Netherlands covering the 20062018 period (n = 1,454,577), we overcome most methodological limitations affecting earlier research. The unique features of the data include complete population coverage, reliable identification of same-sex-parented families, a large number of children in same-sex-parented families (n = 3,006), multiple objective and verifiable educational outcomes, and detailed measures of family dynamics over children's entire life courses. The results indicate that children in same-sex-parented families outperform children in different-sex-parented families on multiple indicators of academic performance, including standardized tests scores, high school graduation rates, and college enrollment. Such advantages extend to both male and female children, and are more pronounced among children in female than male same-sex-parented families. These findings challenge deficit models of same-sex parenting.",
+  "authors": [
+    {
+      "raw": "Kabatek, Jan",
+      "family": "Kabatek",
+      "given": "Jan"
+    },
+    {
+      "raw": "Perales, Francisco",
+      "family": "Perales",
+      "given": "Francisco"
+    }
+  ],
+  "authors_text": "Kabatek, Jan; Perales, Francisco",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8994569",
+  "doi_url": "https://doi.org/10.1215/00703370-8994569",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8994569",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8994569.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

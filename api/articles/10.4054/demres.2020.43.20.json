@@ -1,0 +1,35 @@
+{
+  "title": "Fathers' migration and nutritional status of children in India: Do the effects vary by community context?",
+  "abstract": "BACKGROUND Due to international and internal migration, millions of children in developing countries are geographically separated from one or both of their parents. Prior research has not reached a consensus on the impacts of parental out-migration on children's growth, and little is known about how community contexts modify the impact of parental out-migration. OBJECTIVE We aim to assess the overall impacts of fathers' previous and current migration experiences on children's nutritional status in India and how the impacts are shaped by community socioeconomic contexts and community gender norms. METHODS Using data from the Indian Human Development Survey collected in 2011-2012, we estimated community fixed-effect regression models predicting the nutritional status of children (ages 10-15) and examined interactions among fathers' migration, children's gender, and community contexts. RESULTS The results showed that children of returned migrants had lower height and body mass index (BMI) than children of nonmigrants. A father's current absence was associated with lower height and BMI for adolescents in communities with high levels of socioeconomic development but not for those in communities with low levels of development. A father's current absence due to migration was especially detrimental to girls in communities with strict norms of female seclusion. CONTRIBUTION Our findings highlight that the effects of father's out-migration on children are conditioned by the level of communities' socioeconomic development and community gender contexts, which helps to reconcile the previously mixed findings on the effects of parental migration on child outcomes.",
+  "authors": [
+    {
+      "raw": "Lei, Lei",
+      "family": "Lei",
+      "given": "Lei"
+    },
+    {
+      "raw": "Desai, Sonalde",
+      "family": "Desai",
+      "given": "Sonalde"
+    },
+    {
+      "raw": "Chen, Feinian",
+      "family": "Chen",
+      "given": "Feinian"
+    }
+  ],
+  "authors_text": "Lei, Lei; Desai, Sonalde; Chen, Feinian",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.20",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.20",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.20",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.20.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

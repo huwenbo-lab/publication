@@ -1,0 +1,30 @@
+{
+  "title": "Partnership satisfaction in Czechia during the COVID-19 pandemic",
+  "abstract": "BACKGROUND There are several published investigations of family life during the COVID-19 pandemic. However, only a few describe trends in partnership quality, and none do so for the later stages of the pandemic. OBJECTIVE We want to show how various measures of partnership quality develop over time and whether trends differ by respondent's sex and education. METHODS We use non-parametric descriptive methods based on aggregated weekly measures of subjectively assessed partnership quality and separation proneness. These dependent variables are obtained from a preliminary version of the Czech GGS2 survey; all respondents interviewed between May and December 2021 are retained for analysis. We apply a scatter plot smoother to weekly means and display them graphically. RESULTS We document a massive deterioration in both measures of partnership quality. For instance, separation proneness increased from 2% to 28% between May and December 2021. The trend was more pronounced among women and individuals without college education. Among less-educated women separation proneness reached 35% in December 2021. CONTRIBUTION This paper suggests that the negative effects of COVID-19 may unfold and cumulate over a long period and may become extreme, especially when combined with additional external stressors such as rising price levels and energy market turbulence, which were apparent in Czechia in the latter half of 2021.",
+  "authors": [
+    {
+      "raw": "Kreidl, Martin",
+      "family": "Kreidl",
+      "given": "Martin"
+    },
+    {
+      "raw": "Hubatkova, Barbora",
+      "family": "Hubatkova",
+      "given": "Barbora"
+    }
+  ],
+  "authors_text": "Kreidl, Martin; Hubatkova, Barbora",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.24",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.24",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.24",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.24.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

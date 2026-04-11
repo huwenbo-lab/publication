@@ -1,0 +1,35 @@
+{
+  "title": "Amish fertility in the United States: Comparative evidence from the American Community Survey and Amish population registries",
+  "abstract": "BACKGROUND Quantitative studies of Amish population dynamics have been methodologically constrained by difficulties identifying Amish in national surveys. If Amish could be reliably identified in, for example, the American Community Survey (ACS), researchers could leverage its rich variables to document both demographic outcomes and their social predictors. OBJECTIVE Cross-validate two methods for studying Amish populations by comparing fertility measures in the ACS with the Cross-sectional Amish Population and Environment Database-2010s (CAPED-2010s), a large administrative record database of North American Amish. METHODS We identify potential Amish ACS respondents through combinations of the attributes (1) Pennsylvania Dutch language use, (2) absence of household telephone, and (3) farming. We then calculate fertility measures derived from both the CAPED data and ACS data samples (2000-2021). This comparative method allows us to assess whether the two samples produce demographic comparable estimates. RESULTS Both methods produce remarkably consistent fertility statistics, including total fertility rates (just over six children), age-specific fertility rates (highest ages 20-29), and non-marital fertility (very low). CONCLUSIONS The strong agreement between ACS-and CAPED-2010s-derived demographic estimates validates both approaches for studying Amish populations. CONTRIBUTION The ACS's rich social variables complement CAPED-2010s' comprehensive demographic coverage, demonstrating the credibility of two separate large databases for studies of the Amish.",
+  "authors": [
+    {
+      "raw": "Stone, Lyman",
+      "family": "Stone",
+      "given": "Lyman"
+    },
+    {
+      "raw": "Anderson, Cory",
+      "family": "Anderson",
+      "given": "Cory"
+    },
+    {
+      "raw": "Thiehoff, Stephanie",
+      "family": "Thiehoff",
+      "given": "Stephanie"
+    }
+  ],
+  "authors_text": "Stone, Lyman; Anderson, Cory; Thiehoff, Stephanie",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.26",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

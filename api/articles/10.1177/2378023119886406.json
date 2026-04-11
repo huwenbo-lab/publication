@@ -1,0 +1,30 @@
+{
+  "title": "Comparing Theories of Resource Distribution: The Case of Iran",
+  "abstract": "This study addresses inequality through resource distribution in Iranian provinces with the use of new data collected and compiled from various sources using multilevel modeling. The models compare predictions of the various resource distribution theories using Iran’s 31 provincial budgets over 10 years. This resource distribution study provides a rare look at inequality in a country that, to a large degree, prohibits such examinations. The authors find that although ethnicity, religiosity, and allegiance to the regime have no influence on provincial budgets, geographic proximity to the central government is the strongest and only consistent predictor of resource allocation. The authors find that the greater the distance from the capital, the larger the respective per capita budget, net of other factors. This study contradicts both the centrality theory of state economic distribution and specific Iranian economic distribution theory and provides a new body of knowledge on state resource distribution.",
+  "authors": [
+    {
+      "raw": "Ledford, Andrew K.",
+      "family": "Ledford",
+      "given": "Andrew K."
+    },
+    {
+      "raw": "Lynch, Scott M.",
+      "family": "Lynch",
+      "given": "Scott M."
+    }
+  ],
+  "authors_text": "Ledford, Andrew K.; Lynch, Scott M.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119886406",
+  "doi_url": "https://doi.org/10.1177/2378023119886406",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119886406",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119886406.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

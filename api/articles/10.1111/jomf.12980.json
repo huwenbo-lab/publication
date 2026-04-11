@@ -1,0 +1,30 @@
+{
+  "title": "The educational diffusion of divorce: The role of gender and context",
+  "abstract": "ObjectiveThis study examines the education diffusion of divorce in Europe and the role of women's decision-making therein.BackgroundAs the contextual barriers to divorce have lowered, the divorce rates of less-educated women have increased in many societies. Changes in divorce barriers are likely more pertinent to married women than to married men. However, no previous study has tested whether less-educated women increasingly take the initiative to divorce or whether less-educated women are increasingly left by their husbands.MethodThe authors used retrospective panel data from the Generations and Gender Survey, covering 39,650 marital unions across 49 country-cohort contexts in Europe. Multilevel models showed how divorce barriers were associated with the educational gradient in divorce. Competing-risks models decomposed the associations into a wife-initiated share and a husband- or jointly-initiated share.ResultsLower divorce barriers are associated with the educational diffusion of divorce. This diffusion is largely driven by women's own divorce initiation.ConclusionMore permissive family norms and greater economic autonomy enable less-educated women to leave a dissatisfying marriage.",
+  "authors": [
+    {
+      "raw": "Hogendoorn, Bram",
+      "family": "Hogendoorn",
+      "given": "Bram"
+    },
+    {
+      "raw": "van den Berg, Lonneke",
+      "family": "van den Berg",
+      "given": "Lonneke"
+    }
+  ],
+  "authors_text": "Hogendoorn, Bram; van den Berg, Lonneke",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12980",
+  "doi_url": "https://doi.org/10.1111/jomf.12980",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12980",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12980.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

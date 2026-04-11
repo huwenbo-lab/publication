@@ -1,0 +1,30 @@
+{
+  "title": "Class Inequality in Parental Childcare Time: Evidence from Synthetic Couples in the ATUS",
+  "abstract": "The time that parents spend teaching and playing with their young children has important consequences for later life achievement and attainment. Previous research suggests that there are significant class inequalities in how much time parents devote to this kind of developmental childcare in the United States. Yet, due in part to data limitations, prior research has not accounted for how class inequalities in family structure, assortative mating, and specialization between partners may exacerbate or ameliorate these gaps. We match parental respondents within the American Time Use Survey (ATUS) to generate synthetic parental dyads, which we use to estimate, in turn, the contributions of family structure, assortative mating, and specialization to class gaps in parental time spent in developmental care of children aged 0-6. We find some evidence that accounting for class differences in family structure widens income gaps in total parental time in developmental childcare of young children. Further, we show that assortativemating of parentswidens educational gaps in developmental childcare, whereas specialization between partners marginally widens these class divides. Although the net effect of these three processes on income-based gaps in childcare time is modest, accounting for these three processes more than doubles education-based gaps in total parental developmental childcare as compared to maternal time alone. Our findings from this novel empirical approach provide a more holistic view of the extent and sources of inequality in parental time investments in young children's cognitive and social development.",
+  "authors": [
+    {
+      "raw": "LaBriola, Joe",
+      "family": "LaBriola",
+      "given": "Joe"
+    },
+    {
+      "raw": "Schneider, Daniel",
+      "family": "Schneider",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "LaBriola, Joe; Schneider, Daniel",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2021,
+  "doi": "10.1093/sf/soaa133",
+  "doi_url": "https://doi.org/10.1093/sf/soaa133",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaa133",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaa133.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

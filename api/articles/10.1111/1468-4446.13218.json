@@ -1,0 +1,25 @@
+{
+  "title": "Artificial Intelligence as a Strategy in the British Economic Field",
+  "abstract": "Drawing on the sociology of Pierre Bourdieu, this paper conceives the adoption and development of artificial intelligence by businesses as a strategy within the economic field. Using a survey of over 2000 businesses in the UK and tools of geometric data analysis, I construct a model of the British economic field and project into it indicators of past, present and intended AI adoption. This provides a sense of the correspondences between the structure of the field, the temporal order of strategies, and perceptions of the possible and necessary among its agents. Dominant players within the field have clearly led and will lead the AI 'revolution', rendering AI a tool for perpetuating intra-field domination and reproduction, but others below them seem set to pursue emulation strategies to keep up. These conservation strategies may also contain, however, an internal difference between innovation and dependence corresponding with the new and the old within the field.",
+  "authors": [
+    {
+      "raw": "Atkinson, Will",
+      "family": "Atkinson",
+      "given": "Will"
+    }
+  ],
+  "authors_text": "Atkinson, Will",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1111/1468-4446.13218",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13218",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13218",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13218.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

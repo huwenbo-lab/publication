@@ -1,0 +1,30 @@
+{
+  "title": "No generalizable effect of income inequality on public support for governmental redistribution among rich democracies 1987-2010",
+  "abstract": "We revisit a longstanding hypothesis that the public become more supportive of redistributive policy as income inequality rises. Previous tests of this hypothesis using various forms of general least squares regressions are inconclusive. We suggest improvements and alternatives to these tests. Using the World Inequality Data and International Social Survey Program we analyze 91 surveys in 18 countries. We incorporate three alternative measures of income inequality, including a measure of liberalization as a known cause of increases in income inequality. We also employ two alternative test formats that arguably reflect the data generating model better than a least squares regression. The first is vector-autoregression aiming to account for path dependency of public opinion and income inequality, and the endogeneity between them. Next is qualitative comparative analysis to capture sets of conditions that collectively should have led to inequality having an impact on public opinion. Finally, we run our regression models separately for low and high socio-economic strata. In all tests we find no measurable impact of income inequality on support for redistribution. From a macro-perspective we argue that this suggests ruling out a general effect that exists across space and time, and focusing instead on theory to explain why there should not be a general effect. Some arguments suggest the public are normatively opposed to what sounds like 'handouts'. We therefore discuss model specification via theory, but also Type II errors, statistical power and the limitations of our conclusions.",
+  "authors": [
+    {
+      "raw": "Breznau, Nate",
+      "family": "Breznau",
+      "given": "Nate"
+    },
+    {
+      "raw": "Hommerich, Carola",
+      "family": "Hommerich",
+      "given": "Carola"
+    }
+  ],
+  "authors_text": "Breznau, Nate; Hommerich, Carola",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.03.013",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.03.013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.03.013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.03.013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

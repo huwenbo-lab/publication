@@ -1,0 +1,40 @@
+{
+  "title": "A Cohort Comparison of Lifespan After Age 100 in Denmark and Sweden: Are Only the Oldest Getting Older?",
+  "abstract": "Although Denmark and Sweden have close cultural and historical ties, lifespans for Danes have generally been lower than those of Swedes. Recent improvements in Danish mortality after a period of stagnation have led to the suspicion that there may be positive trends at the very high ages at death within that population and that these trends could be quite different from those observed in Sweden. Although the mean ages at death for Danish and Swedish centenarians have been relatively constant at about 102 years for the cohorts born 1870-1904, the oldest-old in Denmark have been getting older, but no evidence has suggested any increase in lifespan for Swedes. Using quantile regression, we show that Danish centenarian lifespans in the 90th percentile have been lengthening, with those in 94th percentile (6% longest-lived individuals) having a trend that is statistically significant at the 5% level. We demonstrate that the increase observed is not due to the increasing sizes of birth cohorts and thus must be due to improving survival among this select top tier. We postulate that this super-select group in Denmark is best able to take advantage of the factors driving mortality reduction, whereas the majority of centenarians are not.",
+  "authors": [
+    {
+      "raw": "Medford, Anthony",
+      "family": "Medford",
+      "given": "Anthony"
+    },
+    {
+      "raw": "Christensen, Kaare",
+      "family": "Christensen",
+      "given": "Kaare"
+    },
+    {
+      "raw": "Skytthe, Axel",
+      "family": "Skytthe",
+      "given": "Axel"
+    },
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    }
+  ],
+  "authors_text": "Medford, Anthony; Christensen, Kaare; Skytthe, Axel; Vaupel, James W.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-018-0755-7",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0755-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0755-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0755-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

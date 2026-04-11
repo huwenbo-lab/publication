@@ -1,0 +1,35 @@
+{
+  "title": "Life-Course Differences in Occupational Mobility Between Vocationally and Generally Trained Workers in Germany",
+  "abstract": "Vocational education is considered beneficial to young workers entering the labor market but disadvantageous late in their careers. Many studies assume that late-career disadvantages stem from lower levels of occupational mobility, but do not explicitly study this mechanism. This study is the first to empirically assess whether and to what extent occupational mobility differs between workers with a general education and those with vocational training and to examine how these differences develop over workers' life courses. Using multilevel linear probability models on panel data spanning 36 years of labor market participation in Germany, we find that vocationally educated workers are less mobile, but only in the first half of their careers. In the second half, mobility rates for vocationally and generally trained workers converge. Our findings support earlier research that links vocational education to less turbulent early careers. Yet, they do not support the notion of late-career mobility disparities between workers with different types of training. Implications for research on education-based differences in career outcomes are discussed.",
+  "authors": [
+    {
+      "raw": "Decker, Viktor",
+      "family": "Decker",
+      "given": "Viktor"
+    },
+    {
+      "raw": "Bol, Thijs",
+      "family": "Bol",
+      "given": "Thijs"
+    },
+    {
+      "raw": "Kruse, Hanno",
+      "family": "Kruse",
+      "given": "Hanno"
+    }
+  ],
+  "authors_text": "Decker, Viktor; Bol, Thijs; Kruse, Hanno",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2023,
+  "doi": "10.15195/v10.a30",
+  "doi_url": "https://doi.org/10.15195/v10.a30",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv10.a30",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v10.a30.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

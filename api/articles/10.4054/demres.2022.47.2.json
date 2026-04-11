@@ -1,0 +1,35 @@
+{
+  "title": "Measuring US fertility using administrative data from the Census Bureau",
+  "abstract": "BACKGROUND Longitudinal data available for studying fertility in the United States are not representative at the state level, limiting analyses of subnational variation in US fertility. The US Census Bureau makes available restricted data that may be used for measuring fertility, but the data have not previously been described for a scholarly audience or used for fertility research. OBJECTIVE This paper describes and analyzes restricted-use administrative birth data available through the Census Numident for nearly all US births for more than the last century. Within these data, most births since 1997 are linked to parents through the Census Household Composition Key (CHCK). These analyses are designed to illustrate the scope and limitations of these data for the study of US fertility. METHODS We describe the creation and content of the Census Numindent and CHCK data sets and compare the data to published US vital statistics. We also analyze the geographic coverage of both data sets and compare the demographic composition of the new data sources to national demographic composition. We further illustrate how these novel data sources may be used by comparing them to survey responses at the individual level. CONTRIBUTION This paper describes an underutilized source of national US data for studying fertility, shows the quality of these data by performing analyses, and explains how scholars can access these data for research.",
+  "authors": [
+    {
+      "raw": "Genadek, Katie",
+      "family": "Genadek",
+      "given": "Katie"
+    },
+    {
+      "raw": "Sanders, Joshua",
+      "family": "Sanders",
+      "given": "Joshua"
+    },
+    {
+      "raw": "Stevenson, Amanda",
+      "family": "Stevenson",
+      "given": "Amanda"
+    }
+  ],
+  "authors_text": "Genadek, Katie; Sanders, Joshua; Stevenson, Amanda",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.2",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

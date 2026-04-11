@@ -1,0 +1,35 @@
+{
+  "title": "Less Partnering, Less Children, or Both? Analysis of the Drivers of First Birth Decline in Finland Since 2010",
+  "abstract": "AbstractIn the 2010s, fertility has declined in the Nordic countries, most strikingly in Finland, and first births drive the decline. It remains unclear whether this decline results from decreased fertility within unions, changing union dynamics, or both. Thus, we investigated changes in the union–first birth dynamics from 2000 through 2018 in Finland using full-coverage population register data and an incidence-based multistate model. To do so, we calculated the yearly age-specific transition probabilities across states of single, cohabitation, marriage, and first births among 15- to 45-year-old childless men and women. We found lower fertility rates in unions after 2010, increasing dissolution rates amongst cohabiting couples, and long-term declines in the transition to marriage. Counterfactual simulations showed that, for the decline in first births since 2010, fertility within unions matters more (three-quarters) than union dynamics (one-quarter): that is, lower fertility in cohabitating and married individuals explained 42% and 13% of the decline, respectively, and decreasing fertility rates among couples entering cohabitation explained a further 17%. Decreasing marriage (19%) and cohabitation rates (2–4%) as well as higher union dissolution rates (6%) explained a smaller share of the first birth decline. The decline in first births was somewhat sharper among the lower social strata, but across strata the decreasing first birth transitions in unions explained most of the decline. To conclude, while changing union dynamics provide a partial explanation, postponing or foregoing fertility within unions represents the primary reason for the fertility decline.",
+  "authors": [
+    {
+      "raw": "Hellstrand, Julia",
+      "family": "Hellstrand",
+      "given": "Julia"
+    },
+    {
+      "raw": "Nisén, Jessica",
+      "family": "Nisén",
+      "given": "Jessica"
+    },
+    {
+      "raw": "Myrskylä, Mikko",
+      "family": "Myrskylä",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Hellstrand, Julia; Nisén, Jessica; Myrskylä, Mikko",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2022,
+  "doi": "10.1007/s10680-022-09605-8",
+  "doi_url": "https://doi.org/10.1007/s10680-022-09605-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-022-09605-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-022-09605-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

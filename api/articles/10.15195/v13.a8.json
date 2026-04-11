@@ -1,0 +1,40 @@
+{
+  "title": "Force of Attraction and Partner Availability in the U.S. Marriage Market: A Two-Sided Matching Model",
+  "abstract": "This article develops and applies a stochastic two-sided matching model to analyze marriage patterns in the United States using 1 percent samples from the 2010 and 2019 American Community Survey, accessed via the Integrated Public Use Microdata Series. This approach disentangles two sources of change in marriage patterns over time: individuals’ preferences for partner characteristics (“forces of attraction”) and the numbers and composition of potential partners (“partner availability”). As illustrated by our empirical application, the model provides a flexible and unified analytical framework to address a broad range of relevant questions in marriage research, offering valuable new perspectives on marriage dynamics and facilitating future research, despite the limitation that the model does not separately identify individual-specific preferences.",
+  "authors": [
+    {
+      "raw": "Cheng, Yuan",
+      "family": "Cheng",
+      "given": "Yuan"
+    },
+    {
+      "raw": "Dagsvik, John",
+      "family": "Dagsvik",
+      "given": "John"
+    },
+    {
+      "raw": "Han, Xuehui",
+      "family": "Han",
+      "given": "Xuehui"
+    },
+    {
+      "raw": "Jia, Zhiyang",
+      "family": "Jia",
+      "given": "Zhiyang"
+    }
+  ],
+  "authors_text": "Cheng, Yuan; Dagsvik, John; Han, Xuehui; Jia, Zhiyang",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2026,
+  "doi": "10.15195/v13.a8",
+  "doi_url": "https://doi.org/10.15195/v13.a8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv13.a8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v13.a8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

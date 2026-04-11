@@ -1,0 +1,35 @@
+{
+  "title": "An Examination of Work Interference with Family Using Data from a Representative Sample of Workers Participating in the General Social Survey and NIOSH Quality of Worklife Module",
+  "abstract": "Work-family conflict research has progressed over the past few decades, but it has often focused on workers in specific occupations or targeted populations. Few studies used population-based samples to explore factors associated with work interference with family (WIF), a directional domain of work-family conflict. This study used data from a population-based sample to examine relationships between work design characteristics and WIF among a representative sample of workers across the United States. Multiple logistic regression, using a weighted sample of 1,272 adult workers, identified increased odds of WIF were associated with full-time work, varied work shifts, work from home, and work overload. Analyses also identified the importance of supervisor support, which was a significant moderator in the association between workplace injury and WIF. Demographic factors were not generally significant, but the odds of WIF increased with additional children. Overall, these findings delineate the relationships between work organization characteristics and WIF.",
+  "authors": [
+    {
+      "raw": "Smith, Todd D.",
+      "family": "Smith",
+      "given": "Todd D."
+    },
+    {
+      "raw": "Yu, Zuojin",
+      "family": "Yu",
+      "given": "Zuojin"
+    },
+    {
+      "raw": "Le, Aurora B.",
+      "family": "Le",
+      "given": "Aurora B."
+    }
+  ],
+  "authors_text": "Smith, Todd D.; Yu, Zuojin; Le, Aurora B.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2020,
+  "doi": "10.1177/0192513x20927758",
+  "doi_url": "https://doi.org/10.1177/0192513x20927758",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x20927758",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x20927758.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

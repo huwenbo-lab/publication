@@ -1,0 +1,30 @@
+{
+  "title": "Lifetime inequality: Income and occupational differences and dynamics in the US",
+  "abstract": "Income inequality's growth over recent decades sparked interest in income mobility over the life course. A coherent framework links intragenerational mobility and inequality, showing how movement into different income positions during adulthood tends to equalize incomes in the long term. We expand this framework to incorporate intergenerational mobility. This expansion is crucial for understanding the connection between inequality and mobility, because both intra- and intergenerational mobility tend to equalize incomes in the long term, while income persistence from parents to their adult children maintains inequality in the long term. We use the expanded framework to answer three questions: first, how do intraand intergenerational mobility dynamics contribute to lifetime income inequality; second, how do they differentially contribute to lifetime occupational inequality versus lifetime income inequality; and third, how have their contributions varied across cohorts. Using data from the Panel Study of Income Dynamics, we find that mobility dynamics equalize lifetime family income much more than occupational prestige or occupational income. This difference remained remarkably stable across cohorts, because rising income inequality between people was not offset by especially high income mobility over the life course, nor was it matched by rising occupational inequality.",
+  "authors": [
+    {
+      "raw": "Bloome, Deirdre",
+      "family": "Bloome",
+      "given": "Deirdre"
+    },
+    {
+      "raw": "Furey, Jane",
+      "family": "Furey",
+      "given": "Jane"
+    }
+  ],
+  "authors_text": "Bloome, Deirdre; Furey, Jane",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100470",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100470",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100470",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100470.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

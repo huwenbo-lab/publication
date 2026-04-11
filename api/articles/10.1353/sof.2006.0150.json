@@ -1,0 +1,30 @@
+{
+  "title": "Status on Trial: Social Characteristics and Influence in the Jury Room",
+  "abstract": "The American jury is heralded as an institution that is simultaneously representative and egalitarian. However, jury studies conducted 50 years ago found that white, upper-class men dominate jury deliberations, presumably due to their higher status outside of the jury room. Logistic regression analysis of dyadic influence inside the jury room updates this research. Results indicate that today upper-class jurors alone — not men, not whites — are regarded as most influential in deliberations. Upper-class jurors' influence is not simply a product of status deference. Rather, upper-class jurors seem to influence deliberations due to generalized expectations of their competence or their possession of skill sets that enhance jury room performance. We conclude that increased statistical representation in the jury pool does not guarantee that diverse views will affect verdicts.",
+  "authors": [
+    {
+      "raw": "York, E.",
+      "family": "York",
+      "given": "E."
+    },
+    {
+      "raw": "Cornwell, B.",
+      "family": "Cornwell",
+      "given": "B."
+    }
+  ],
+  "authors_text": "York, E.; Cornwell, B.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2006,
+  "doi": "10.1353/sof.2006.0150",
+  "doi_url": "https://doi.org/10.1353/sof.2006.0150",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2006.0150",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2006.0150.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

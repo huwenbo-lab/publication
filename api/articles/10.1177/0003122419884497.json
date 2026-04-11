@@ -1,0 +1,30 @@
+{
+  "title": "Linked Lives, Linked Trajectories: Intergenerational Association of Intragenerational Income Mobility",
+  "abstract": "Most intergenerational mobility studies rely on either snapshot or time-averaged measures of earnings, but have yet to examine resemblance of earnings trajectories over the life course of successive generations. We propose a linked trajectory mobility approach that decomposes the progression of economic status over two generations into associations in four life-cycle dimensions: initial position, growth rate, growth deceleration, and volatility. Using father-son dyad data from the Panel Study of Income Dynamics, we show that men resemble their fathers not only in the overall level of earnings but also in the pattern by which their earnings develop over time. The intergenerational persistence of earnings varies substantially across life stages of both generations; it is strongest for fathers' early-career and sons' mid-career, with an intergenerational elasticity (IGE) as high as .6. This result can be explained by the concurrence of the parent's early career and the offspring's early childhood. Our findings suggest the intergenerational economic association between parents and offspring is not age-constant but is contingent on the respective life stages of both generations and, most importantly, the period during which they overlap.",
+  "authors": [
+    {
+      "raw": "Cheng, Siwei",
+      "family": "Cheng",
+      "given": "Siwei"
+    },
+    {
+      "raw": "Song, Xi",
+      "family": "Song",
+      "given": "Xi"
+    }
+  ],
+  "authors_text": "Cheng, Siwei; Song, Xi",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419884497",
+  "doi_url": "https://doi.org/10.1177/0003122419884497",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419884497",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419884497.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

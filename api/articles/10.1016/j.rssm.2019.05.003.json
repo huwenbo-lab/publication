@@ -1,0 +1,30 @@
+{
+  "title": "Peers that count: The influence of deskmates on test scores",
+  "abstract": "Peer effects have been shown to be important for educational development during adolescence. Peer effect from classmates and friends, nevertheless, could be the target of interventions only to a limited extent. We hypothesize that deskmates may affect educational achievement. In contrast to friendship, deskmate relations could realistically be a target of policy intervention by teachers, who can decide on the seating arrangements in class. This study examines whether deskmates have a positive impact on individual test scores that goes beyond the general influence of classmates and friends. The deskmate effect is investigated in ethnically mixed classrooms. Information on friendship and deskmates from a social network panel was merged with test score register data from secondary schools in Northern and Eastern Hungary. The study finds that, after controlling for students' own baseline eighth-grade reading test scores and classroom-fixed effects, deskmates' eighth-grade reading test score influences positively students' tenth-grade reading test scores. No similar effect was found for mathematics test scores. We found no evidence that deskmates' test scores mediate or moderate the ethnic test-score gap between Hungarian and Roma students.",
+  "authors": [
+    {
+      "raw": "Keller, Tomas",
+      "family": "Keller",
+      "given": "Tomas"
+    },
+    {
+      "raw": "Takacs, Karoly",
+      "family": "Takacs",
+      "given": "Karoly"
+    }
+  ],
+  "authors_text": "Keller, Tomas; Takacs, Karoly",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2019,
+  "doi": "10.1016/j.rssm.2019.05.003",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.05.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.05.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.05.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

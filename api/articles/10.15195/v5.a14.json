@@ -1,0 +1,30 @@
+{
+  "title": "Moore–Penrose Estimators of Age–Period–Cohort Effects: Their Interrelationship and Properties",
+  "abstract": "The intrinsic estimator (IE) has become a widely used tool for the analysis of age–period–cohort (APC) data in sociology, demography, and other fields. However, it has been recently recognized that the IE is a subtype of a larger class of estimators based on the Moore–Penrose generalized inverse (MP estimators) and that different estimators can lead to radically divergent estimates of the true, unknown APC effects. To clarify the differences and similarities of MP estimators, we introduce a canonical form of the linear constraints imposed on the true temporal effects. Using this canonical form, we compare the IE to related MP estimators, examining the conditions under which they recover the true temporal effects, the impact of the size and sign of nonlinearities on the estimated linear effects, and their sensitivity to the number of age, period, and cohort categories. We show that two MP estimators, which we call the difference estimator (DE) and the orthogonal estimator (OE), impose constraints that are both less sensitive and easier to interpret than those of the IE. We conclude with practical guidelines for researchers interested in using MP estimators to estimate temporal effects.",
+  "authors": [
+    {
+      "raw": "Foss, Ethan",
+      "family": "Foss",
+      "given": "Ethan"
+    },
+    {
+      "raw": "Winship, Christopher",
+      "family": "Winship",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Foss, Ethan; Winship, Christopher",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2018,
+  "doi": "10.15195/v5.a14",
+  "doi_url": "https://doi.org/10.15195/v5.a14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv5.a14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v5.a14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

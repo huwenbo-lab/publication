@@ -1,0 +1,30 @@
+{
+  "title": "The Relation between Inequality and Intergenerational Class Mobility in 39 Countries",
+  "abstract": "We study the relationship between inter-class inequality and intergenerational class mobility across 39 countries. Previous research on the relationship between economic inequality and class mobility remains inconclusive, as studies have confounded intra- with between-class economic inequalities. We propose that between-class inequality across multiple dimensions accounts for the inverse relationship between inequality and mobility: the larger the resource distance between classes, the less likely it is that mobility from one to the other will occur. We consider inequality in terms of between-class differences in three areas-education, wages, and income-and in a composite measure. Building on sociological mobility theory, we argue that cross-country variation in mobility results, in part, from families adapting to different levels of between-class inequality. Consistent with this hypothesis, we find a negative correlation between inter-class inequality and social fluidity, with between-class inequality being a better predictor of mobility chances than conventional distributional measures. We also find that the resource distance between classes is negatively related to the strength of their intergenerational association for some off-diagonal origin and destination (OD) class combinations.",
+  "authors": [
+    {
+      "raw": "Hertel, Florian R.",
+      "family": "Hertel",
+      "given": "Florian R."
+    },
+    {
+      "raw": "Groh-Samberg, Olaf",
+      "family": "Groh-Samberg",
+      "given": "Olaf"
+    }
+  ],
+  "authors_text": "Hertel, Florian R.; Groh-Samberg, Olaf",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419885094",
+  "doi_url": "https://doi.org/10.1177/0003122419885094",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419885094",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419885094.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

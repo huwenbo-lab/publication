@@ -1,0 +1,30 @@
+{
+  "title": "The Mechanics of Social Capital and Academic Performance in an Indian College",
+  "abstract": "In this article we examine how social capital affects the creation of human capital. Specifically, we study how college students' peers affect academic performance. Building on existing research, we consider the different types of peers in the academic context and the various mechanisms through which peers affect performance. We test our model using data from an engineering college in India. Our data include information about the performance of individual students as well as their randomly assigned roommates, chosen friends, and chosen study-partners. We find that students with able roommates perform better, and the magnitude of this roommate effect increases when the roommate's skills match the student's academic goals. We also find that students benefit equally from same- and different-caste roommates, suggesting that social similarity does not strengthen peer effects. Finally, although we do not find strong evidence for independent friendship or study-partner effects, our results suggest that roommates become study-partners, and in so doing, affect performance. Taken together, our findings demonstrate that peer effects are a consequential determinant of academic achievement.",
+  "authors": [
+    {
+      "raw": "Hasan, Sharique",
+      "family": "Hasan",
+      "given": "Sharique"
+    },
+    {
+      "raw": "Bagde, Surendrakumar",
+      "family": "Bagde",
+      "given": "Surendrakumar"
+    }
+  ],
+  "authors_text": "Hasan, Sharique; Bagde, Surendrakumar",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1177/0003122413505198",
+  "doi_url": "https://doi.org/10.1177/0003122413505198",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122413505198",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122413505198.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

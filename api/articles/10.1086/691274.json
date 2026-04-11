@@ -1,0 +1,30 @@
+{
+  "title": "Belief Network Analysis: A Relational Approach to Understanding the Structure of Attitudes",
+  "abstract": "Many accounts of political belief systems conceive of them as networks of interrelated opinions, in which some beliefs are central and others peripheral. This article formally shows how such structural features can be used to construct direct measures of belief centrality in a network of correlations. This method is applied to the 2000 ANES data, which have been used to argue that political beliefs are organized around parenting schemas. This structural approach instead yields results consistent with the central role of political identity, which individuals may use as the organizing heuristic to filter information from the political field. In light of recent accounts of belief system heterogeneity, a search for population heterogeneity in this organizing logic was undertaken first by comparing 44 demographic subpopulations and then using inductive techniques. Contra these recent accounts, the study finds that belief systems of different groups vary in the amount of organization but not in the logic that organizes them.",
+  "authors": [
+    {
+      "raw": "Boutyline, Andrei",
+      "family": "Boutyline",
+      "given": "Andrei"
+    },
+    {
+      "raw": "Vaisey, Stephen",
+      "family": "Vaisey",
+      "given": "Stephen"
+    }
+  ],
+  "authors_text": "Boutyline, Andrei; Vaisey, Stephen",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2017,
+  "doi": "10.1086/691274",
+  "doi_url": "https://doi.org/10.1086/691274",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F691274",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/691274.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

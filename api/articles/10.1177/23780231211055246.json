@@ -1,0 +1,35 @@
+{
+  "title": "Children’s Financial Dependence on Mothers: Propensity and Duration",
+  "abstract": "Over 40 percent of American children rely primarily on their mothers’ earnings for financial support in cross-sectional surveys. Yet these data understate mothers’ role as their family’s primary earner. Using longitudinal Survey of Income and Program Participation panels beginning in 2014, we create multistate life table estimates of mothers’ duration as primary earner as well as single-decrement life table estimates of their chance of ever being the primary earner over the first 18 years of motherhood. Using a threshold of 60 percent of household earnings to determine primary earning status, mothers average 4.19 years as their families’ primary earner in the 18 years following first birth. Mothers with some college but no degree spent the most years as primary earners, about 5.09 years on average, as did mothers with nonmarital first births, about 5.69 years. Around 70 percent of American mothers can reasonably expect to be their household’s primary earner at some point during their first 18 years of motherhood.",
+  "authors": [
+    {
+      "raw": "Glass, Jennifer L.",
+      "family": "Glass",
+      "given": "Jennifer L."
+    },
+    {
+      "raw": "Raley, R. Kelly",
+      "family": "Raley",
+      "given": "R. Kelly"
+    },
+    {
+      "raw": "Pepin, Joanna R.",
+      "family": "Pepin",
+      "given": "Joanna R."
+    }
+  ],
+  "authors_text": "Glass, Jennifer L.; Raley, R. Kelly; Pepin, Joanna R.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211055246",
+  "doi_url": "https://doi.org/10.1177/23780231211055246",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211055246",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211055246.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

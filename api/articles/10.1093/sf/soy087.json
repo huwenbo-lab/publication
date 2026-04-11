@@ -1,0 +1,30 @@
+{
+  "title": "We Comply with a Little Help from Our Friends: Human Rights, Development Aid, and Well-Being",
+  "abstract": "Scholars debate whether human rights treaties and foreign aid are effective in achieving their stated objectives. Using data on more than 100 developing countries over a 20- to 40-year period, we analyze the independent and interactive effects of the International Covenant on Economic, Social, and Cultural Rights (ICESCR) and development assistance (general and health-specific) on three population health outcomes: infant mortality rates, life expectancy at birth, and caloric consumption. Pooled OLS and two-way fixed-effects analyses demonstrate that, in conjunction with development assistance for health, being party to the ICESCR improves survival-related outcomes; this is especially true for infant mortality. These findings do not appear to be driven by selection effects (with respect to ICESCR ratification) or simultaneity bias (with respect to aid receipt). In some cases, targeted aid promotes compliance with a human rights treaty that is otherwise difficult to implement; in other cases, ICESCR membership steers aid effects in different directions. Our findings challenge received wisdoms regarding the ineffectiveness of international human rights law and foreign aid.",
+  "authors": [
+    {
+      "raw": "Cole, Wade M.",
+      "family": "Cole",
+      "given": "Wade M."
+    },
+    {
+      "raw": "Reynolds, Megan M.",
+      "family": "Reynolds",
+      "given": "Megan M."
+    }
+  ],
+  "authors_text": "Cole, Wade M.; Reynolds, Megan M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soy087",
+  "doi_url": "https://doi.org/10.1093/sf/soy087",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy087",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy087.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

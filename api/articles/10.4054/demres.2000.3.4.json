@@ -1,0 +1,35 @@
+{
+  "title": "Determinants of divorce in a traditional Muslim community in Bangladesh",
+  "abstract": "This study examines the effects of spouses' prior marital status and socio-demographic characteristics on the risk of divorce of 1762 Muslim marriages recorded in 1982-83 in Teknaf, Bangladesh. Grooms' prior marital status was categorized into never married, divorced, widowed or polygynous (already cohabiting with one or more wives) and brides' prior marital status was categorized into never married, divorced or widowed. Divorce was recorded by following the marriages prospectively for five years. Due to the fact that a longitudinal study design was used, the quality of the information presented here is considered to be high. A discrete-time hazard logistic model was used to estimate the effects of spouses' prior marital status and a number of socio-demographic variables on risk of divorce. Polygynous marriage, remarriage and divorce were found to be common in this traditional Muslim community. The odds of divorce were 2.5 times higher for grooms' polygynous marriages and 1.6 times higher for brides' remarriages compared to their peers' first marriages. The odds of divorce decreased with marriage duration. The groom's and bride's low socio-economic status, illiteracy, and early age at marriage increased the odds of divorce. The odds of divorce were much higher if there was no birth in the preceding six months.",
+  "authors": [
+    {
+      "raw": "Alam, Nurul",
+      "family": "Alam",
+      "given": "Nurul"
+    },
+    {
+      "raw": "Saha, Sajal",
+      "family": "Saha",
+      "given": "Sajal"
+    },
+    {
+      "raw": "Van Ginneken, Jeroen K",
+      "family": "Van Ginneken",
+      "given": "Jeroen K"
+    }
+  ],
+  "authors_text": "Alam, Nurul; Saha, Sajal; Van Ginneken, Jeroen K",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2000,
+  "doi": "10.4054/demres.2000.3.4",
+  "doi_url": "https://doi.org/10.4054/demres.2000.3.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2000.3.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2000.3.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Drawing statistical inferences from historical census data, 1850–1950",
+  "abstract": "AbstractVirtually all quantitative microdata used by social scientists derive from samples that incorporate clustering, strati cation, and weighting adjustments (Kish 1965, 1992). Such data can yield standard error estimates that differ dramatically from those derived from a simple random sample of the same size. Researchers using historical U.S. census microdata, however, usually apply methods designed for simple random samples. The resulting p values and confidence intervals could be inaccurate and could lead to erroneous research conclusions. Because U.S. census microdata samples are among the most widely used sources for social science and policy research, the need for reliable standard error estimation is critical. We evaluate the historical microdata samples of the Integrated Public Use Microdata Series (IPUMS) project from 1850 to 1950 in order to determine (1) the impact of sample design on standard error estimates, and (2) how to apply modern standard error estimation software to historical census samples. We exploit a unique new data source from the 1880 census to validate our methods for standard error estimation, and then we apply this approach to the 1850–1870 and 1900–1950 decennial censuses. We conclude that Taylor series estimation can be used effectively with the historical decennial census microdata samples and should be applied in research analyses that have the potential for substantial clustering effects.",
+  "authors": [
+    {
+      "raw": "Davern, Michael",
+      "family": "Davern",
+      "given": "Michael"
+    },
+    {
+      "raw": "Ruggles, Steven",
+      "family": "Ruggles",
+      "given": "Steven"
+    },
+    {
+      "raw": "Swenson, Tami",
+      "family": "Swenson",
+      "given": "Tami"
+    },
+    {
+      "raw": "Alexander, J. Trent",
+      "family": "Alexander",
+      "given": "J. Trent"
+    },
+    {
+      "raw": "Oakes, J. Michael",
+      "family": "Oakes",
+      "given": "J. Michael"
+    }
+  ],
+  "authors_text": "Davern, Michael; Ruggles, Steven; Swenson, Tami; Alexander, J. Trent; Oakes, J. Michael",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0062",
+  "doi_url": "https://doi.org/10.1353/dem.0.0062",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0062",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0062.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

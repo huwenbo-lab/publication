@@ -1,0 +1,30 @@
+{
+  "title": "The Influence of Educational Field, Occupation, and Occupational Sex Segregation on Fertility in the Netherlands",
+  "abstract": "Women have made considerable gains in educational attainment and increased their labour market participation, which has in turn impacted childbearing behaviour. The current study contributes to the growing literature on the impact of educational fields and occupation on fertility. We examine how women’s field of study, occupation, and occupational sex segregation shape the transition to first and higher order births. Using data from a repeated cross-sectional survey of the Dutch population (born 1940–1985), we estimate a series of discrete-time complementary log–log models with frailty. We find differences in the transition to first birth by educational field. Compared to women with a degree from educational studies (teaching), women who studied technological, economical, or cultural subjects have a significantly lower transition to first birth. Compared with those in economic and technical jobs, women in communicative jobs (healthcare, teaching) have faster transitions for all births. We also find evidence that occupational sex segregation impacts fertility, with women employed in occupations with a higher proportion of women having a significantly faster transition to first birth. Although women in higher professional and managerial occupations are more likely to postpone first births, they compress the time to motherhood, having additional children significantly faster.",
+  "authors": [
+    {
+      "raw": "Begall, K.",
+      "family": "Begall",
+      "given": "K."
+    },
+    {
+      "raw": "Mills, M. C.",
+      "family": "Mills",
+      "given": "M. C."
+    }
+  ],
+  "authors_text": "Begall, K.; Mills, M. C.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2012,
+  "doi": "10.1093/esr/jcs051",
+  "doi_url": "https://doi.org/10.1093/esr/jcs051",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcs051",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcs051.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Where does public childcare boost female labor force participation? Exploring geographical heterogeneity across Germany 2007-2017",
+  "abstract": "BACKGROUND Public childcare provision and female labor force participation (FLP) have strongly increased over the past decades in European societies. However, studies offer heterogeneous findings on the link between public childcare and FLP. OBJECTIVE We investigate the link between public childcare and FLP, using different indicators of childcare and accounting for heterogeneous time trends and regional heterogeneity. METHODS Based on a balanced panel of all German counties from 2007 to 2017, we estimate the effect of an increasing enrollment rate for children aged 0-2 and 3-5 on FLP. We compare fixed effect (FE) and fixed effect individual slope estimators (FEIS) to control for county-specific time trends. Subsequently, we compare the results across regions with different levels of urbanization. RESULTS We find that most FE results are biased due to selection on trends. Still, when accounting for selection on trends, childcare enrollment for the age group 0-2 increases FLP in West Germany and in urban areas. Furthermore, childcare enrollment for children aged 3-5 years is associated with higher FLP in West Germany, in rural and, most strongly, in metropolitan areas. CONCLUSIONS Our study highlights important heterogeneity in the general time trends of FLP and the effectiveness of childcare arrangements across different regions in Germany. CONTRIBUTION We provide a potential explanation for mixed results in previous studies. Moreover, our findings demonstrate that the effectiveness of childcare arrangements varies with the level of urbanization. Taking this heterogeneity into account can help to develop target-oriented policy interventions.",
+  "authors": [
+    {
+      "raw": "Neuberger, Franz",
+      "family": "Neuberger",
+      "given": "Franz"
+    },
+    {
+      "raw": "Ruettenauer, Tobias",
+      "family": "Ruettenauer",
+      "given": "Tobias"
+    },
+    {
+      "raw": "Bujard, Martin",
+      "family": "Bujard",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Neuberger, Franz; Ruettenauer, Tobias; Bujard, Martin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.24",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.24",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.24",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.24.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

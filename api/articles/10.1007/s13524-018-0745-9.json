@@ -1,0 +1,30 @@
+{
+  "title": "US Mothers' Long-Term Employment Patterns",
+  "abstract": "Previous research on maternal employment has disproportionately focused on the immediate postpartum period and typically modeled either cross-sectional employment status or time until a specific employment transition. We instead conceptualize maternal employment as a long-term pattern, extending the observation window and embedding employment statuses in temporal context. Using data from NLSY79 and sequence analysis, we document five common employment patterns of American mothers over the first 18 years of maternity. Three typical patterns revolve around a single employment status: full-time (36%), part-time (13%), or nonemployment (21%); the other two patterns are characterized by 6 (15%) or 11 (14%) years of nonemployment, followed by a period of transition and then full-time employment. Analyses of the immediate postpartum period cannot distinguish between the nonemployment and reentry groups, which have different employment experiences and different prematernity characteristics. Next, we describe how mothers' human capital, attitudes and cultural models, family experiences, and race/ethnicity are associated with the employment patterns they follow, elucidating that these characteristics may be associated not only with how much mothers work but also the patterning of their employment. Our results support studying maternal employment as a long-term pattern and employing research approaches that address the qualitative distinctness of these diverse patterns.",
+  "authors": [
+    {
+      "raw": "Killewald, Alexandra",
+      "family": "Killewald",
+      "given": "Alexandra"
+    },
+    {
+      "raw": "Zhuo, Xiaolin",
+      "family": "Zhuo",
+      "given": "Xiaolin"
+    }
+  ],
+  "authors_text": "Killewald, Alexandra; Zhuo, Xiaolin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-018-0745-9",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0745-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0745-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0745-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

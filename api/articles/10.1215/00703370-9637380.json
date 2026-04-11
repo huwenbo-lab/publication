@@ -1,0 +1,45 @@
+{
+  "title": "The Cross-sectional Average Inequality in Lifespan (CAL+): A Lifespan Variation Measure That Reflects the Mortality Histories of Cohorts",
+  "abstract": "Lifespan variation is a key metric of mortality that describes both individual uncertainty about the length of life and heterogeneity in population health. We propose a novel and timely lifespan variation measure, which we call the cross-sectional average inequality in lifespan, or CAL(+). This new index provides an alternative perspective on the analysis of lifespan inequality by combining the mortality histories of all cohorts present in a cross-sectional approach. We demonstrate how differences in the CAL(+) measure can be decomposed between populations by age and cohort to explore the compression or expansion of mortality in a cohort perspective. We apply these new methods using data from 10 low-mortality countries or regions from 1879 to 2013. CAL(+) reveals greater uncertainty in the timing of death than the period life table-based indices of variation indicate. Also, country rankings of lifespan inequality vary considerably between period and cross-sectional measures. These differences raise intriguing questions as to which temporal dimension is the most relevant to individuals when considering the uncertainty in the timing of death in planning their life courses.",
+  "authors": [
+    {
+      "raw": "Nepomuceno, Marilia R.",
+      "family": "Nepomuceno",
+      "given": "Marilia R."
+    },
+    {
+      "raw": "Cui, Qi",
+      "family": "Cui",
+      "given": "Qi"
+    },
+    {
+      "raw": "van Raalte, Alyson",
+      "family": "van Raalte",
+      "given": "Alyson"
+    },
+    {
+      "raw": "Aburto, Jose Manuel",
+      "family": "Aburto",
+      "given": "Jose Manuel"
+    },
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Nepomuceno, Marilia R.; Cui, Qi; van Raalte, Alyson; Aburto, Jose Manuel; Canudas-Romo, Vladimir",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9637380",
+  "doi_url": "https://doi.org/10.1215/00703370-9637380",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9637380",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9637380.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

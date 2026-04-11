@@ -1,0 +1,35 @@
+{
+  "title": "Long-Term Trends in Adult Socio-Economic Resemblance between Former Schoolmates and Neighbouring Children",
+  "abstract": "Schools and residential neighbourhoods constitute key contexts of development beyond the family of origin. Yet, few prior studies address whether the overall impact of these childhood contexts on adult life chances has changed over time. In this article, we investigate changes in socio-economic resemblance between former schoolmates and neighbouring children using Norwegian administrative data covering three decades. We use cross-classified multilevel models to decompose the variance in children's educational attainment and adult earnings into the contributions found within and between their school and neighbourhood contexts in adolescence. We find that unadjusted school and neighbourhood correlations in educational attainment are relatively modest and declining over time. These trends largely reflect declining socio-economic segregation between schools and neighbourhoods over time. After adjusting for sorting by family background, schools account for 2 per cent or less of the total variation in completed years of education in the more recent cohorts and neighbourhoods even less. For adult earnings, the adjusted school correlations are very low, accounting for around 1 per cent of the total variance, while the contribution of neighbourhoods is close to zero. Our findings suggest that adolescent school and neighbourhood contexts are not major determinants of children's later-life socio-economic attainments in the Norwegian welfare state setting.",
+  "authors": [
+    {
+      "raw": "Hermansen, Are Skeie",
+      "family": "Hermansen",
+      "given": "Are Skeie"
+    },
+    {
+      "raw": "Borgen, Nicolai T.",
+      "family": "Borgen",
+      "given": "Nicolai T."
+    },
+    {
+      "raw": "Mastekaasa, Arne",
+      "family": "Mastekaasa",
+      "given": "Arne"
+    }
+  ],
+  "authors_text": "Hermansen, Are Skeie; Borgen, Nicolai T.; Mastekaasa, Arne",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1093/esr/jcz066",
+  "doi_url": "https://doi.org/10.1093/esr/jcz066",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz066",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz066.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

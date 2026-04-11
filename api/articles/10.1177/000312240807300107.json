@@ -1,0 +1,30 @@
+{
+  "title": "The rise of intra-occupational wage inequality in the United States, 1983 to 2002",
+  "abstract": "Wage inequality has increased dramatically in the United States since the 1980s. This article investigates the relationship between this trend and occupational structure measured at the three-digit level. Using the Current Population Survey from 1983 to 2002, we find that the direct association between occupations and wage inequality declined over this period as within-occupational inequality grew faster than between occupational inequality. We estimate multilevel growth models using detailed occupational categories as the unit of analysis to assess how the characteristics Of occupations affect changes in mean wages and levels of wage inequality across this time period. The results indicate that changes in mean wages across occupations vary depending on the characteristics of individuals in those occupations and that intraoccupational inequality is difficult to predict using conventional labor force data. These findings seem largely inconsistent with the common sociological view of occupation as the most fundamental feature of the labor market. Correspondingly, a more comprehensive approach-one that incorporates the effects of organizational variables and market proeesses on rising wage inequality in the New Economy-is warranted.",
+  "authors": [
+    {
+      "raw": "Kim, ChangHwan",
+      "family": "Kim",
+      "given": "ChangHwan"
+    },
+    {
+      "raw": "Sakamoto, Arthur",
+      "family": "Sakamoto",
+      "given": "Arthur"
+    }
+  ],
+  "authors_text": "Kim, ChangHwan; Sakamoto, Arthur",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1177/000312240807300107",
+  "doi_url": "https://doi.org/10.1177/000312240807300107",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240807300107",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240807300107.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

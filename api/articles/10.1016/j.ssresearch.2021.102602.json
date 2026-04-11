@@ -1,0 +1,35 @@
+{
+  "title": "Understanding the role of religion in shaping cross-national and domestic attitudes and interest in abortion, homosexuality, and pornography using traditional and Google search data",
+  "abstract": "Over the last 20 years, internet usage has increased substantially, providing an inexpensive source of data that may be less prone to bias and could provide a greater number of meso and macro units. However, validating big data and their usefulness has been challenging. This study uses established sources to validate Google Trends' search interest in the Bible across US Designated Market Areas and Ramadan across nations, establishing a potential new source of religion data. We then use these measures to show that people from religiously conservative US areas and countries are more likely to disapprove of homosexuality, abortion and pornography. Conversely, Americans from conservative religious areas are also more likely to search for these topics; and cross-national interest in Islam is associated with increased interest in pornography. Our study offers insight into Google Trends' potential for social science research and a roadmap on how to use these data.",
+  "authors": [
+    {
+      "raw": "Adamczyk, Amy",
+      "family": "Adamczyk",
+      "given": "Amy"
+    },
+    {
+      "raw": "Liu, Yu-Hsuan",
+      "family": "Liu",
+      "given": "Yu-Hsuan"
+    },
+    {
+      "raw": "Scott, Jacqueline",
+      "family": "Scott",
+      "given": "Jacqueline"
+    }
+  ],
+  "authors_text": "Adamczyk, Amy; Liu, Yu-Hsuan; Scott, Jacqueline",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2021.102602",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102602",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102602",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102602.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

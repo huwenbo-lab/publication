@@ -1,0 +1,40 @@
+{
+  "title": "Estimates of mortality and population changes in England and Wales over the two World Wars",
+  "abstract": "Almost one million soldiers from England and Wales died during the First and Second World War whilst serving in the British Armed Forces. Although many articles and books have been published that commemorate the military efforts of the British Armed Fo",
+  "authors": [
+    {
+      "raw": "Jdanov, Dmitri A.",
+      "family": "Jdanov",
+      "given": "Dmitri A."
+    },
+    {
+      "raw": "Andreev, Evgeny M.",
+      "family": "Andreev",
+      "given": "Evgeny M."
+    },
+    {
+      "raw": "Jasilionis, Domantas",
+      "family": "Jasilionis",
+      "given": "Domantas"
+    },
+    {
+      "raw": "Shkolnikov, Vladimir",
+      "family": "Shkolnikov",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Jdanov, Dmitri A.; Andreev, Evgeny M.; Jasilionis, Domantas; Shkolnikov, Vladimir",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2005,
+  "doi": "10.4054/demres.2005.13.16",
+  "doi_url": "https://doi.org/10.4054/demres.2005.13.16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2005.13.16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2005.13.16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

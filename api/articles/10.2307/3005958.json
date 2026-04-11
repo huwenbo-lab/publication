@@ -1,0 +1,30 @@
+{
+  "title": "The Therapeutic Corporation.",
+  "abstract": "A growing number of contemporary organizations have management structures that are less centralized and hierarchical than the traditional bureaucratic model. This book takes a close look inside one such organization: an employee-owned manufacturing corporation. It addresses the question of how conflicts are handled when bureaucracy is greatly reduced-and its findings will surprise and enlighten many readers. Therapy, a behaviour or practice normally thought to be confined to the offices of psychiatrists and the wards of mental hospitals, turns out to be the most common way of handling conflict in the postbureaucratic work environment. James Tucker reveals that this therapeutic system of social control contrasts sharply, and tellingly, with the more authoritative-often violent-systems of social control found in more centralized and hierarchical work settings, especially those of the past.",
+  "authors": [
+    {
+      "raw": "Jr., James L. Nolan",
+      "family": "Jr.",
+      "given": "James L. Nolan"
+    },
+    {
+      "raw": "Tucker, James",
+      "family": "Tucker",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Jr., James L. Nolan; Tucker, James",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2000,
+  "doi": "10.2307/3005958",
+  "doi_url": "https://doi.org/10.2307/3005958",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3005958",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3005958.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

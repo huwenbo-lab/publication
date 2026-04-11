@@ -1,0 +1,25 @@
+{
+  "title": "The Gender Composition of Workplaces and Men's and Women's Turnover",
+  "abstract": "Using a data set of 721,123 employees in 1,890 Swedish workplaces, the author tests whether employees’ propensity to leave a workplace is dependent on the share of the employees of the opposite sex in a workplace. Net of time-invariant workplace heterogeneity, the probability to leave a workplace is found to decrease with the share of employees of the opposite sex. This is true for men as well as women. The results contradict theories suggesting that men and women prefer to work in work settings with a high proportion of employees of their own sex. On the contrary, a plausible explanation of the results is that both men and women prefer work settings with a high proportion of employees of the opposite sex.",
+  "authors": [
+    {
+      "raw": "Bygren, M.",
+      "family": "Bygren",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Bygren, M.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2009,
+  "doi": "10.1093/esr/jcp016",
+  "doi_url": "https://doi.org/10.1093/esr/jcp016",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcp016",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcp016.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

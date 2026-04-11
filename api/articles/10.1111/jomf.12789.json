@@ -1,0 +1,45 @@
+{
+  "title": "Effects of Covid-19 lockdown on parental functioning in vulnerable families",
+  "abstract": "Objective The aim of this study was to increase the knowledge about how the initial Covid-19 lockdown influenced parental functioning in vulnerable families. Background The Covid-19 pandemic has caused major changes to family life. Using a natural experiment design can potentially adjudicate on former inconclusive findings about the effects of lockdown on parental functioning in vulnerable families. Method Responses from parents in a sample of potentially vulnerable families in Norway were divided into a lockdown group if participating at baseline and during the initial Covid-19 lockdown (n = 820 responses) or into a control group if participating at baseline and before lockdown (n = 1368 responses). Mixed model regression analyses were used to mimic a wait-list design investigating direct lockdown effects on mental health, parenting stress, and three aspects of interparental conflicts, as well as moderation effects. Results The lockdown group showed significantly higher levels of parenting stress compared with the control group, but no aversive lockdown effect on mental health or destructive conflicts were found. In fact, decreased levels of verbal aggression and child involvement in conflict were found during lockdown among parents living apart. Pre-existing financial problems and conflict levels, age of youngest child, and parent gender did not moderate the lockdown effects. Conclusion The initial lockdown did not seem to adversely affect parental functioning, beyond increased parenting stress. Caution should be taken when generalizing the findings as child effects and long-term lockdown effects were not investigated.",
+  "authors": [
+    {
+      "raw": "Helland, Maren Sand",
+      "family": "Helland",
+      "given": "Maren Sand"
+    },
+    {
+      "raw": "Lyngstad, Torkild Hovde",
+      "family": "Lyngstad",
+      "given": "Torkild Hovde"
+    },
+    {
+      "raw": "Holt, Tonje",
+      "family": "Holt",
+      "given": "Tonje"
+    },
+    {
+      "raw": "Larsen, Linda",
+      "family": "Larsen",
+      "given": "Linda"
+    },
+    {
+      "raw": "Roysamb, Espen",
+      "family": "Roysamb",
+      "given": "Espen"
+    }
+  ],
+  "authors_text": "Helland, Maren Sand; Lyngstad, Torkild Hovde; Holt, Tonje; Larsen, Linda; Roysamb, Espen",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12789",
+  "doi_url": "https://doi.org/10.1111/jomf.12789",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12789",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12789.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Maternal Occupation-Specific Skills and Children’s Cognitive Development",
+  "abstract": "This article hypothesizes that maternal occupation-specific skills are associated with children’s cognitive development over and above parents’ other human, financial and social capital. Data from the UK Millennium Cohort Study on 13,543 children were complemented with occupation-level data (n = 79) from the British Skills Surveys on aggregate measures of mothers’ occupation-specific skills (literacy, numeracy, problem-solving, verbal and physical). We did not find any association between maternal occupation-specific skills and children’s non-verbal ability (inductive reasoning, spatial awareness) at age five when conditioning on covariates. However, mothers’ verbal skills (e.g. presentation skills) were positively associated with children’s verbal ability (Naming Vocabulary) over and above other parental resources. By contrast, mothers’ physical skills (e.g. use of physical strength) were negatively associated with children’s verbal abilities. Albeit effect sizes are small, maternal occupation-specific skills contribute to social stratification in children’s verbal development net of human, financial and social capital.",
+  "authors": [
+    {
+      "raw": "Barg, Katherin",
+      "family": "Barg",
+      "given": "Katherin"
+    },
+    {
+      "raw": "Klein, Markus",
+      "family": "Klein",
+      "given": "Markus"
+    }
+  ],
+  "authors_text": "Barg, Katherin; Klein, Markus",
+  "journal": "Sociology",
+  "journal_slug": "Sociology",
+  "year": 2023,
+  "doi": "10.1177/00380385231159005",
+  "doi_url": "https://doi.org/10.1177/00380385231159005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380385231159005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380385231159005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

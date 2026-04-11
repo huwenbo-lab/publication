@@ -1,0 +1,35 @@
+{
+  "title": "Geospatial analysis of female fertility in Oman: do immigrant female domestic workers make a difference?",
+  "abstract": "Despite the progress achieved in transformational development in socioeconomic domains, in Oman, like other Gulf Cooperation Council states, fertility rates are higher compared with those in other Middle East nations. Reproductive behaviour often varies geographically; consequently, analysing and modelling this phenomenon should be conducted at subnational and finer levels to capture spatial heterogeneity patterns. In this research, data from the last Omani census are used and local indicators of spatial associations (LISA) as well as spatial econometric models have been employed to examine the effects of sociocultural factors, particularly foreign female domestic workers, on local fertility variations. Remarkable spatial differences were observed in the effects of structural covariates on fertility rates. Several spatial clusters indicate a correlation between higher fertility rates and higher values of other explanatory sociocultural variables. Furthermore, the subnational variations of fertility rates are significantly explained by geographical and sociocultural factors, such a surban-rural settlement, education, female employment in governmental sectors, unemployed women, and the proportion of foreign female domestic workers. The findings also reveal that the rural and Bedouin communities, particularly in the internal governorates, not only displayed higher fertility rates, but also had more unemployed women.",
+  "authors": [
+    {
+      "raw": "Mansour, Shawky",
+      "family": "Mansour",
+      "given": "Shawky"
+    },
+    {
+      "raw": "Al-Awadhi, Talal",
+      "family": "Al-Awadhi",
+      "given": "Talal"
+    },
+    {
+      "raw": "Al Nasiri, Noura",
+      "family": "Al Nasiri",
+      "given": "Noura"
+    }
+  ],
+  "authors_text": "Mansour, Shawky; Al-Awadhi, Talal; Al Nasiri, Noura",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2020,
+  "doi": "10.1080/17441730.2020.1800224",
+  "doi_url": "https://doi.org/10.1080/17441730.2020.1800224",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2020.1800224",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2020.1800224.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

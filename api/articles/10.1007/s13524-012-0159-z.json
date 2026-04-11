@@ -1,0 +1,30 @@
+{
+  "title": "The Contribution of Smoking to Black-White Differences in U.S. Mortality",
+  "abstract": "Abstract Smoking has significantly impacted American mortality and remains a major cause of morbidity and mortality. No previous study has systematically examined the contribution of smoking-attributable deaths to mortality trends among blacks or to black-white mortality differences at older ages over time in the United States. In this article, we employ multiple methods and data sources to provide a comprehensive assessment of this contribution. We find that smoking has contributed to the black-white gap in life expectancy at age 50 for males, accounting for 20 % to 48 % of the gap between 1980 and 2005, but not for females. The fraction of deaths attributable to smoking at ages above 50 is greater for black males than for white males; and among men, current smoking status explains about 20 % of the black excess relative risk in all-cause mortality at ages above 50 without adjustment for socioeconomic characteristics. These findings advance our understanding of the contribution of smoking to contemporary mortality trends and differences and reinforce the need for interventions that better address the needs of all groups.",
+  "authors": [
+    {
+      "raw": "Ho, Jessica Y.",
+      "family": "Ho",
+      "given": "Jessica Y."
+    },
+    {
+      "raw": "Elo, Irma T.",
+      "family": "Elo",
+      "given": "Irma T."
+    }
+  ],
+  "authors_text": "Ho, Jessica Y.; Elo, Irma T.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0159-z",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0159-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0159-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0159-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Same but different: Gender, social origin, and university access. Results from a field experiment on guidance counseling",
+  "abstract": "Inequalities based on social origins heavily influence university access, shaping individuals' careers and earning potential. While educational interventions in upper secondary schools have shown promise in supporting students from low social origins, their effects on gender disparities in university access remain less clear. This study investigates how social origins and gender intersect to affect university enrollment and whether counseling programs influence these patterns. Using data from a randomized controlled trial (RCT) in Germany evaluating a counseling program, our analysis reveals two key results. First, students' evaluations of higher education appear to be shaped by their social background and gender before high school graduation. Second, the counseling program altered these evaluations and enrollment rates in distinct ways depending on students' social background and gender. Our findings contribute to research on social stratification by highlighting intersectional patterns in rational choice evaluations and university enrollment. We also demonstrate that counseling in Germany effectively reduces intersectional inequalities in enrollment, which particularly benefits women from low social origins.",
+  "authors": [
+    {
+      "raw": "Erdmann, Melinda",
+      "family": "Erdmann",
+      "given": "Melinda"
+    },
+    {
+      "raw": "Pietrzyk, Irena",
+      "family": "Pietrzyk",
+      "given": "Irena"
+    },
+    {
+      "raw": "Schneider, Juliana",
+      "family": "Schneider",
+      "given": "Juliana"
+    },
+    {
+      "raw": "Helbig, Marcel",
+      "family": "Helbig",
+      "given": "Marcel"
+    },
+    {
+      "raw": "Jacob, Marita",
+      "family": "Jacob",
+      "given": "Marita"
+    }
+  ],
+  "authors_text": "Erdmann, Melinda; Pietrzyk, Irena; Schneider, Juliana; Helbig, Marcel; Jacob, Marita",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101062",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101062",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101062",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101062.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

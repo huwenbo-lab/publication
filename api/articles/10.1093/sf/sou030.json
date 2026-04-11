@@ -1,0 +1,35 @@
+{
+  "title": "Scholarly Culture and Academic Performance in 42 Nations",
+  "abstract": "Exposure to books and high culture provides important academic advantages. But the reasons for this are hotly disputed. Elite closure theory posits that culture merely signals children's elite status to gatekeepers who then grant them unjust advantages. But other theories suggest that scholarly culture provides cognitive skills that improve academic performance, which schools justly reward. We attempt to adjudicate between these theories using data on academic performance from 42 national samples with 200,144 cases from OECD's PISA. We find that a key aspect of scholarly culture, the number of books in the family home, exerts a strong influence on academic performance in ways consistent with the cognitive skill hypothesis, regardless of the nation's ideology, political history, or level of development.",
+  "authors": [
+    {
+      "raw": "Evans, M. D. R.",
+      "family": "Evans",
+      "given": "M. D. R."
+    },
+    {
+      "raw": "Kelley, J.",
+      "family": "Kelley",
+      "given": "J."
+    },
+    {
+      "raw": "Sikora, J.",
+      "family": "Sikora",
+      "given": "J."
+    }
+  ],
+  "authors_text": "Evans, M. D. R.; Kelley, J.; Sikora, J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2014,
+  "doi": "10.1093/sf/sou030",
+  "doi_url": "https://doi.org/10.1093/sf/sou030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

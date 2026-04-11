@@ -1,0 +1,25 @@
+{
+  "title": "Commentary on van Raalte et al.'s The Dangers of Drawing Cohort Profiles From Period Data: A Research Note",
+  "abstract": "van Raalte et al. (2023) alerted demog ra phers to the poten tial dan gers of cal cu lat ing cohort mea sures from the diag o nals of gridded age-period (AP) data. In the case of cohort fer til ity, how ever, a minor change to the esti ma tion pro ce dure can mit i gate the trend and cohort size biases that the authors iden tify. With an appro pri ate algo rithm, research ers can esti mate cohort fer til ity indi ces from AP data quite well.",
+  "authors": [
+    {
+      "raw": "Schmertmann, Carl P.",
+      "family": "Schmertmann",
+      "given": "Carl P."
+    }
+  ],
+  "authors_text": "Schmertmann, Carl P.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11484875",
+  "doi_url": "https://doi.org/10.1215/00703370-11484875",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11484875",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11484875.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

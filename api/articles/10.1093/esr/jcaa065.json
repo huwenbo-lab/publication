@@ -1,0 +1,30 @@
+{
+  "title": "No Stratified Effect of Unemployment on Incomes: How the Market, State, and Household Compensate for Income Loss in the United Kingdom and Switzerland",
+  "abstract": "Unemployment is a critical life event that may affect the income trajectories of displaced workers very unequally. It may lead to cumulative disadvantage and hit vulnerable groups hardest. Alternatively, it may level the playing field because higher classes have more to lose. We analyse heterogeneous effects of unemployment on income for the United Kingdom and Switzerland, using two household panels-Understanding Society 2009-2017 and the Swiss Household Panel 1999-2017- and distinguishing two sources of income: from the labour market and welfare state, at the level of individuals and households. We use a difference-in-differences design by matching unemployed to employed workers and estimating fixed-effects regressions. Results show that individual labour income drops in the 2 years after an unemployment spell by 20 and 25 per cent in Switzerland and by 25 and 55 per cent in the United Kingdom. Welfare state transfers reduce these losses by half in Switzerland, but have only a marginal impact in the United Kingdom. In both countries, income losses do not differ much across social classes. If anything, they are smaller in the working class. We thus find no evidence for cumulative disadvantage. The middle classes face a lower risk of becoming unemployed, but are not less vulnerable to its consequences.",
+  "authors": [
+    {
+      "raw": "Di Nallo, Alessandro",
+      "family": "Di Nallo",
+      "given": "Alessandro"
+    },
+    {
+      "raw": "Oesch, Daniel",
+      "family": "Oesch",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Di Nallo, Alessandro; Oesch, Daniel",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcaa065",
+  "doi_url": "https://doi.org/10.1093/esr/jcaa065",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaa065",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaa065.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

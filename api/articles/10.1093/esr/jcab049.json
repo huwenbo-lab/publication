@@ -1,0 +1,25 @@
+{
+  "title": "Does Family Economic Strain Reduce Child Educational Achievement? A Longitudinal Assessment Using the Great Recession in Ireland",
+  "abstract": "Although the association between family social position and children's educational achievement has been repeatedly shown, evidence of what explains this association has been more elusive. We put forward two broad theories which have come to dominate the literature: the 'family investments model' (FIM) and the 'family stress model' (FSM). Using longitudinal cohort data from Growing Up in Ireland, a nationally representative cohort study of young people and propensity score methods to adjust for selection bias, we show that a family's experience of economic strain can significantly reduce child attainment in state exams at age 15. Together, FIM and FSM measures explain between 36 per cent and 47 per cent of the effect of change in economic strain, but the variables associated with FSM explain more of the effect for economic strain than change in the variables associated with FIM. These results add to mounting evidence that psycho-social processes are at least as important, if not more important than human capital processes in explaining the effects of low resources on child health, education, and social development.",
+  "authors": [
+    {
+      "raw": "Layte, Richard",
+      "family": "Layte",
+      "given": "Richard"
+    }
+  ],
+  "authors_text": "Layte, Richard",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab049",
+  "doi_url": "https://doi.org/10.1093/esr/jcab049",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab049",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab049.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Who Counts as a Notable Sociologist on Wikipedia? Gender, Race, and the “Professor Test”",
+  "abstract": "This paper documents and estimates the extent of underrepresentation of women and people of color on the pages of Wikipedia devoted to contemporary American sociologists. In contrast to the demographic diversity of the discipline, sociologists represented on Wikipedia are largely white men. The gender and racial/ethnic gaps in likelihood of representation have exhibited little change over time. Using novel data, we estimate the “risk” of having a Wikipedia page for a sample of contemporary sociologists. We show that the observed differences (in academic rank, length of career, and notability measured with both H-index and departmental reputation) between men and women sociologists and whites and nonwhites, respectively, explain only about half of the differences in the likelihood of being represented on Wikipedia. The article also enumerates both supply- and demand-side mechanisms that may account for these continuing gaps in representation.",
+  "authors": [
+    {
+      "raw": "Adams, Julia",
+      "family": "Adams",
+      "given": "Julia"
+    },
+    {
+      "raw": "Brückner, Hannah",
+      "family": "Brückner",
+      "given": "Hannah"
+    },
+    {
+      "raw": "Naslund, Cambria",
+      "family": "Naslund",
+      "given": "Cambria"
+    }
+  ],
+  "authors_text": "Adams, Julia; Brückner, Hannah; Naslund, Cambria",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118823946",
+  "doi_url": "https://doi.org/10.1177/2378023118823946",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118823946",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118823946.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

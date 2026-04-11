@@ -1,0 +1,30 @@
+{
+  "title": "Parents' income and wealth matter more for children with low than high academic performance: Evidence from comparisons between and within families in egalitarian Norway",
+  "abstract": "Most educational mobility research assumes that the associations between parents' economic resources and children's academic performance do not vary between low-and high-performing children. Analyzing such variation increases our understanding of how family background affects children's life chances. We examine the egalitarian case of Norway, where we should expect smaller differences than in other countries. We use quantile regression models to estimate variation in the impact of parental income and wealth on children's school grades across the distribution of school grades. We compare the within-family effects of parental income and wealth on children's educational performance with the associations between families. We apply this approach to Norwegian register data, which includes information on children's school grades at age 16. For both parental income and wealth, we find a declining association with children's school grades across the distribution of school grades. This pattern is found in both between-and within-family analyses. These findings are in line with the view that parents compensate for children's low academic performance.",
+  "authors": [
+    {
+      "raw": "Wiborg, Oyvind Nicolay",
+      "family": "Wiborg",
+      "given": "Oyvind Nicolay"
+    },
+    {
+      "raw": "Gratz, Michael",
+      "family": "Gratz",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Wiborg, Oyvind Nicolay; Gratz, Michael",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100692",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100692",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100692",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100692.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

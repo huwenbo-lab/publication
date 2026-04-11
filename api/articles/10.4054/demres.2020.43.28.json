@@ -1,0 +1,40 @@
+{
+  "title": "Explaining the MENA paradox: Rising educational attainment yet stagnant female labor force participation",
+  "abstract": "BACKGROUND Despite rapidly rising female educational attainment and the closing, if not reversal, of the gender gap in education, female labor force participation rates in the Middle East and North Africa (MENA) region remain low and stagnant. This phenomenon is known as the MENA paradox. Even if increases in participation are observed, they are typically in the form of rising unemployment rather than employment. METHODS We use multinomial logit models, estimated by country, on annual labor force survey data for four MENA countries - Algeria, Egypt, Jordan, and Tunisia - to simulate trends in female participation in different labor market states (public sector, private wage work, non-wage work, unemployment, and nonparticipation) for married and unmarried women and men of a given educational and age profile. RESULTS Our results confirm that the decline in the probability of public sector employment for educated women is associated with either an increase in unemployment or a decline in participation. CONCLUSIONS We argue that the MENA paradox can be primarily attributed to the change in opportunity structures facing educated women in the MENA region in the 2000s rather than to the supply-side factors traditionally emphasized in the literature. CONTRIBUTION We argue that female labor force participation among educated women in Algeria, Egypt, Jordan, and Tunisia is constrained by adverse developments in the structure of employment opportunities on the demand side. Specifically, the contraction in public sector employment opportunities has not been matched by a commensurate increase in opportunities in the formal private sector, leading to increases in female unemployment and declines in participation.",
+  "authors": [
+    {
+      "raw": "Assaad, Ragui",
+      "family": "Assaad",
+      "given": "Ragui"
+    },
+    {
+      "raw": "Hendy, Rana",
+      "family": "Hendy",
+      "given": "Rana"
+    },
+    {
+      "raw": "Lassassi, Moundir",
+      "family": "Lassassi",
+      "given": "Moundir"
+    },
+    {
+      "raw": "Yassin, Shaimaa",
+      "family": "Yassin",
+      "given": "Shaimaa"
+    }
+  ],
+  "authors_text": "Assaad, Ragui; Hendy, Rana; Lassassi, Moundir; Yassin, Shaimaa",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.28",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

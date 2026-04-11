@@ -1,0 +1,50 @@
+{
+  "title": "Technological Progress and Health Convergence: The Case of Penicillin in Postwar Italy",
+  "abstract": "Throughout history, technological progress has transformed population health, but the distributional effects of these gains are unclear. New substitutes for older, more expensive health technologies can produce convergence in population health outcomes but may also be prone to elite capture and thus divergence. We study the case of penicillin using detailed historical mortality statistics and exploiting its abruptly timed introduction in Italy after WWII. We find that penicillin reduced both the mean and standard deviation of infectious disease mortality, leading to substantial convergence across disparate regions of Italy. Our results do not appear to be driven by competing risks or confounded by mortality patterns associated with WWII.",
+  "authors": [
+    {
+      "raw": "Alsan, Marcella",
+      "family": "Alsan",
+      "given": "Marcella"
+    },
+    {
+      "raw": "Atella, Vincenzo",
+      "family": "Atella",
+      "given": "Vincenzo"
+    },
+    {
+      "raw": "Bhattacharya, Jay",
+      "family": "Bhattacharya",
+      "given": "Jay"
+    },
+    {
+      "raw": "Conti, Valentina",
+      "family": "Conti",
+      "given": "Valentina"
+    },
+    {
+      "raw": "Mejia-Guevara, Ivan",
+      "family": "Mejia-Guevara",
+      "given": "Ivan"
+    },
+    {
+      "raw": "Miller, Grant",
+      "family": "Miller",
+      "given": "Grant"
+    }
+  ],
+  "authors_text": "Alsan, Marcella; Atella, Vincenzo; Bhattacharya, Jay; Conti, Valentina; Mejia-Guevara, Ivan; Miller, Grant",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9368970",
+  "doi_url": "https://doi.org/10.1215/00703370-9368970",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9368970",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9368970.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

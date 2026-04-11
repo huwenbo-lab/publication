@@ -1,0 +1,40 @@
+{
+  "title": "Federal place-based policy and the geography of inequality in the United States, 1990-2019",
+  "abstract": "This paper assesses the growth and spatial distribution of federal place-based policies in the United States. Using a novel dataset of federal place-based policies from 1990 to 2019, we show how the dual forces of fiscalization and financialization have fueled a substantial increase in federal place-based funding to communities via competitive tax credit and grant programs. We consider whether federal place-based funding has been distributed in a compensatory way by prioritizing more disadvantaged communities or whether it has compounded neighborhood inequalities by prioritizing more advantaged communities. We find that federal place-based funding has gone overwhelmingly to communities experiencing economic disadvantage, as intended, but at the same time such policies have compounded other forms of spatial inequality via disproportionate investment in areas with more nonprofit organizations and stronger housing markets. Economically disadvantaged neighborhoods that are spatially embedded within counties with strong housing markets and robust nonprofit sectors received the most federal place-based funding. These organizational and housing market inequities are strongest for tax credit and competitive grant programs, precisely the forms of funding that have grown most over this period. The funding trends reveal a pattern of cumulative advantage, as poor communities with initial funding advantages in the 1990s went on to receive the vast majority of federal place-based funding in the subsequent decades, leading to growing divergence among high-poverty communities in the distribution of federal place-based resources over time.",
+  "authors": [
+    {
+      "raw": "Tach, Laura",
+      "family": "Tach",
+      "given": "Laura"
+    },
+    {
+      "raw": "Parker, Emily",
+      "family": "Parker",
+      "given": "Emily"
+    },
+    {
+      "raw": "Cooperstock, Alexandra",
+      "family": "Cooperstock",
+      "given": "Alexandra"
+    },
+    {
+      "raw": "Dodini, Samuel",
+      "family": "Dodini",
+      "given": "Samuel"
+    }
+  ],
+  "authors_text": "Tach, Laura; Parker, Emily; Cooperstock, Alexandra; Dodini, Samuel",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soaf098",
+  "doi_url": "https://doi.org/10.1093/sf/soaf098",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoaf098",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soaf098.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

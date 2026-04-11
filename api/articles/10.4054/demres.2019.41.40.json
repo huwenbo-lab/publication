@@ -1,0 +1,25 @@
+{
+  "title": "Mortality shifts and mortality compression in period and cohort life tables",
+  "abstract": "BACKGROUND When age-specific mortality falls, period life tables give a distorted view of the life expectancy (LE) and the degree of mortality compression in birth cohorts. OBJECTIVE To derive mathematical expressions for the link between LEs and compression in period life tables on the one hand and corresponding variables in birth cohorts on the other hand. METHODS We analyse the age at death distribution (AADD) computed from the life table's d(x)-column We derive general expressions for the moments of this distribution in a series of annual period life tables, written as functions of the moments in the AADD of cohorts. RESULTS We use data for Norwegian men and women to illustrate simple versions of the new expressions. The LE increases twice as fast across cohorts compared to what period life tables suggest under this model. Compression in Norwegian mortality, expressed in terms of decreasing variance of the AADDs, is approximately 40% slower in period than in cohort mortality. CONCLUSIONS We show how one can analyse the amount of distortion in period LEs compared to cohort LEs. In addition, we show how period compression is determined by cohort compression, together with both period and cohort LEs. CONTRIBUTION We derive new expressions that link the period AADD to the cohort AADD. Under a simple linear model, we show why compression in the period AADD often goes together with increases in the period LE.",
+  "authors": [
+    {
+      "raw": "Keilman, Nico",
+      "family": "Keilman",
+      "given": "Nico"
+    }
+  ],
+  "authors_text": "Keilman, Nico",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.40",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.40",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.40",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.40.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

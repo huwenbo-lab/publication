@@ -1,0 +1,30 @@
+{
+  "title": "Educated Preferences or Selection Effects? A Longitudinal Analysis of the Impact of Educational Attainment on Attitudes Towards Immigrants",
+  "abstract": "While previous studies unequivocally show that education and attitudes towards immigrants correlate, the underlying mechanisms remain debated. The liberalization effect claims that education fosters egalitarian values and analytic skills, which translate into positive attitudes. Additionally, the higher educated are less likely to face economic competition from immigrants. However, research on socialization shows that political attitudes develop early in life. Thus, there may be self-selection into education. While there is reason to expect both education and selection effects, previous work has relied exclusively on cross-sectional analyses, thus confounding the two mechanisms. Drawing on the Swiss Household Panel, we find that virtually all variation in education disappears when only within-individual variance is modelled. While we find strong differences in attitudes towards immigrants between individuals, we observe little change in attitudes as individuals pass through education. Furthermore, our findings show that when entering the labour market, higher educated individuals also become more likely to oppose immigrants. This suggests that differences between educational groups are mostly due to selection effects, and not to the alleged liberalizing effect of education. We conclude that future research on attitudes towards immigrants would greatly benefit from addressing selection into education.",
+  "authors": [
+    {
+      "raw": "Lancee, Bram",
+      "family": "Lancee",
+      "given": "Bram"
+    },
+    {
+      "raw": "Sarrasin, Oriane",
+      "family": "Sarrasin",
+      "given": "Oriane"
+    }
+  ],
+  "authors_text": "Lancee, Bram; Sarrasin, Oriane",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcv008",
+  "doi_url": "https://doi.org/10.1093/esr/jcv008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

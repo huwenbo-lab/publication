@@ -1,0 +1,30 @@
+{
+  "title": "The limits to cumulative causation: International migration from Mexican Urban Areas",
+  "abstract": "AbstractWe present theoretical arguments and empirical research to suggest that the principal mechanisms of cumulative causation do not function in large urban settings. Using data from the Mexican Migration Project, we found evidence of cumulative causation in small cities, rural towns and villages, but not in large urban areas. With event-history models, we found little positive effect of community-level social capital and a strong deterrent effect of urban labor markets on the likelihood of first and later U.S. trips for residents of urban areas in Mexico, suggesting that the social process of migration from urban areas is distinct from that in the more widely studied rural migrant-sending communities of Mexico.",
+  "authors": [
+    {
+      "raw": "Fussell, Elizabeth",
+      "family": "Fussell",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Massey, Douglas S.",
+      "family": "Massey",
+      "given": "Douglas S."
+    }
+  ],
+  "authors_text": "Fussell, Elizabeth; Massey, Douglas S.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2004,
+  "doi": "10.1353/dem.2004.0003",
+  "doi_url": "https://doi.org/10.1353/dem.2004.0003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2004.0003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2004.0003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "A Novel Time Series Approach to Bridge Coding Changes with a Consistent Solution Across Causes of Death",
+  "abstract": "Revisions of the International Classification of Diseases (ICD) can lead to biases in cause-specific mortality levels and trends. We propose a novel time series approach to bridge ICD coding changes which provides a consistent solution across causes of death. Using a state space model with interventions, we performed time series analysis to cause-proportional mortality for ICD9 and ICD10 in the Netherlands (1979-2010), Canada (1979-2007) and Italy (1990-2007) on chapter level. A constraint was used to keep the sum of cause-specific interventions zero. Comparability ratios (CRs) were estimated and compared to existing bridge coding CRs for Italy and Canada. A significant ICD9 to ICD10 transition occurred among 13 cause of death groups in Italy, 7 in Canada and 3 in the Netherlands. Without the constraint, all-cause mortality after the classification change would be overestimated by 0.4 % (NL), 0.03 % (Canada) and 0.2 % (Italy). The time series CRs were in the same direction as the bridge coding CRs but deviated more from 1. A smooth corrected trend over the ICD-transition resulted from applying the time series approach. Comparing the time series CRs for Italy (2003), Canada (1999) and the Netherlands (1995) revealed interesting commonalities and differences. We demonstrated the importance of adding the constraint, the validity of our methodology and its advantages above earlier methods. Applying the method to more specific causes of death and integrating medical content to a larger extent is advocated.",
+  "authors": [
+    {
+      "raw": "van der Stegen, Ronald H. M.",
+      "family": "van der Stegen",
+      "given": "Ronald H. M."
+    },
+    {
+      "raw": "Koren, L. G. H.",
+      "family": "Koren",
+      "given": "L. G. H."
+    },
+    {
+      "raw": "Harteloh, Peter P. M.",
+      "family": "Harteloh",
+      "given": "Peter P. M."
+    },
+    {
+      "raw": "Kardaun, Jan W. P. F.",
+      "family": "Kardaun",
+      "given": "Jan W. P. F."
+    },
+    {
+      "raw": "Janssen, Fanny",
+      "family": "Janssen",
+      "given": "Fanny"
+    }
+  ],
+  "authors_text": "van der Stegen, Ronald H. M.; Koren, L. G. H.; Harteloh, Peter P. M.; Kardaun, Jan W. P. F.; Janssen, Fanny",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2014,
+  "doi": "10.1007/s10680-013-9307-4",
+  "doi_url": "https://doi.org/10.1007/s10680-013-9307-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-013-9307-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-013-9307-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

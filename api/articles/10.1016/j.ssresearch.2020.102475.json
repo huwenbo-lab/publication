@@ -1,0 +1,30 @@
+{
+  "title": "Estimating the proportion of non-heterosexuals in Taiwan using Christofides' randomized response model: A comparison of different estimation methods",
+  "abstract": "In social research, investigating sensitive, highly personal or embarrassing issues by means of standard survey techniques based on direct questioning leads to refusals to answer or false responses which, generally, flaw the validity of the analyses and produce incorrect inferences. To correct biases induced by nonresponse or underreporting of sensitive matters, Warner (1965) introduced an indirect questioning approach, known as the randomized response technique, which allows researchers to estimate the proportion of individuals with sensitive attributes or behaviors, while ensuring respondents' privacy protection. In this article, we consider the randomized response model proposed by Christofides (2003) and, through a simulation and an empirical study, compare different estimation methods for the prevalence of a sensitive attribute. Specifically, we discuss how the model has been implemented in a pilot study to collect data and derive maximum likelihood and Bayesian estimates for the proportion of non-heterosexuals aged 20 years or older for the Taiwanese population and for some subgroups of it by sex and age. Our analysis, and in particular the Bayesian approach, seems to meet the expectation of social researchers and experts of sexual behaviors. In fact, the produced estimates are higher than official findings in Taiwan obtained by direct questioning in face-to-face interviews and provide a more reliable picture of sexual identity in the country. Moreover, Bayesian estimates appear more accurate than those produced by the method of moment and the maximum likelihood method.",
+  "authors": [
+    {
+      "raw": "Hsieh, Shu-Hui",
+      "family": "Hsieh",
+      "given": "Shu-Hui"
+    },
+    {
+      "raw": "Perri, Pier Francesco",
+      "family": "Perri",
+      "given": "Pier Francesco"
+    }
+  ],
+  "authors_text": "Hsieh, Shu-Hui; Perri, Pier Francesco",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2020.102475",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102475",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102475",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102475.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

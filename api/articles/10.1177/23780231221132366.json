@@ -1,0 +1,25 @@
+{
+  "title": "Partisan Affect in Times of Fractionalization: Visualizing Who Likes Whom in Germany, 1977 to 2020",
+  "abstract": "This data visualization describes the warmth of feelings that supporters of all major parties in Germany hold toward their own and all other major parties and how these feelings changed between 1977 and 2020. Data are from more than 700,000 respondents of the study Politbarometer. People have colder feelings toward ideologically more distant parties, and supporters of all other parties hold strongly negative feelings toward the radical right-wing Alternative for Germany (AfD). In most party pairings not involving AfD, feelings have been stable or trending positive. Today, Germany is not politically polarized in the sense of a divide running through the middle. Rather, the party landscape is fractionalized, with a deep affective division between the roughly 10 percent radical right and the rest and minor to moderate divisions between most other parties.",
+  "authors": [
+    {
+      "raw": "Hudde, Ansgar",
+      "family": "Hudde",
+      "given": "Ansgar"
+    }
+  ],
+  "authors_text": "Hudde, Ansgar",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221132366",
+  "doi_url": "https://doi.org/10.1177/23780231221132366",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221132366",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221132366.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

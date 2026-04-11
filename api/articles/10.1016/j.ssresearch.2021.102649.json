@@ -1,0 +1,40 @@
+{
+  "title": "Felon history and change in US employment rates",
+  "abstract": "In recent decades, the share of U.S. adults with felony-level criminal records has risen and the growth in the employment rate has slowed. Sociological theories of labeling and stigmatization, as well as economic theories of statistical discrimination, suggest a possible causal connection between the two phenomena. Surveys of employers have shown increasing reliance on criminal background checks, for example, and audit studies reveal explicit discrimination against people with felony-level criminal records. This paper draws on novel, state-level annual measures of individuals with felony-level records to estimate pooled cross-sectional, panel models predicting changes in aggregate employment rates. Estimates from these models indicate that a 1 percentage point increase in the share of a state's adult population with a felony history is associated with 0.3 percentage point increase in non-employment (being unemployed or not in the labor force) among those aged 18 to 54. Subgroup analysis shows that effects are stronger for women and whites. These results suggest that the stigma of a felony record may play an important part in aggregate employment rates as well as in individual hiring practices.",
+  "authors": [
+    {
+      "raw": "Larson, Ryan",
+      "family": "Larson",
+      "given": "Ryan"
+    },
+    {
+      "raw": "Shannon, Sarah",
+      "family": "Shannon",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Sojourner, Aaron",
+      "family": "Sojourner",
+      "given": "Aaron"
+    },
+    {
+      "raw": "Uggen, Chris",
+      "family": "Uggen",
+      "given": "Chris"
+    }
+  ],
+  "authors_text": "Larson, Ryan; Shannon, Sarah; Sojourner, Aaron; Uggen, Chris",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2021.102649",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2021.102649",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2021.102649",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2021.102649.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

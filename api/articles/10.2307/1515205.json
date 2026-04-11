@@ -1,0 +1,30 @@
+{
+  "title": "Verification of the Ages of Supercentenarians in the United States: Results of a Matching Study",
+  "abstract": "Unprecedented declines in mortality among the very old have led to the emergence of \"true\" supercentenarians (persons aged 110 and over). The ages of these individuals have been welldocumented in European countries with a history of birth registration, but have not been systematically studied in the United States, which lacks similar documentation and where the inaccuracy of age reporting has been an issue. To verify age, we linked records from the Social Security Administration for close to 700 individuals who died from 1980 to 1999 purportedly at ages 110 and older to records of the U.S. censuses of 1880 and 1900, conducted when these individuals were children. This group was a residual group from an earlier file that was reduced by the SSA after data checks that eliminated incorrect records. The results of the matched records for the residual file indicate that over 90% of the whites were accurately reported as supercentenarians, but only half of the blacks appeared to have attained age 110. The verification of age shows that the United States has more \"true\" supercentenarians than do other nations",
+  "authors": [
+    {
+      "raw": "Rosenwaike, Ira",
+      "family": "Rosenwaike",
+      "given": "Ira"
+    },
+    {
+      "raw": "Stone, Leslie F.",
+      "family": "Stone",
+      "given": "Leslie F."
+    }
+  ],
+  "authors_text": "Rosenwaike, Ira; Stone, Leslie F.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.2307/1515205",
+  "doi_url": "https://doi.org/10.2307/1515205",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F1515205",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/1515205.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

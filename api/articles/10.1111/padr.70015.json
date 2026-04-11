@@ -1,0 +1,30 @@
+{
+  "title": "The Long-Term Development of the Mortality Gradient: Socioeconomic Differences in Adult Life Span of Swedish Cohorts 1841-1920",
+  "abstract": "Despite the affluence of modern societies, socioeconomic gradients in health and lifespan are widespread across the developed world. A mortality gradient by socioeconomic status (SES) is evident even in the most egalitarian welfare societies, where basic needs like food, safe housing, and health care are universally provided. However, it remains unclear whether such a gradient also existed in historical societies. We use linked full-count censuses and death registers for Sweden, covering the birth cohorts 1841-1920 to study the development of the socioeconomic differences in adult lifespan across these cohorts. We show that the socioeconomic gradient in male adult lifespan is a relatively recent phenomenon rather than a universal historical pattern. Somewhat counterintuitively, this gradient emerged and strengthened alongside the development of modern medicine and the expansion of the welfare state. For the 1841-1900 male cohorts, there was a reversed gradient with white-collar men having the shortest lifespan. The modern socioeconomic gradient emerged for the birth cohorts 1911-1920 who reached retirement age in the 1970s and 1980s. For women, there is a positive gradient for all cohorts born between 1841 and 1920. However, the SES differences in female adult lifespan during that period were much smaller than those seen today.",
+  "authors": [
+    {
+      "raw": "Dribe, Martin",
+      "family": "Dribe",
+      "given": "Martin"
+    },
+    {
+      "raw": "Eriksson, Bjorn",
+      "family": "Eriksson",
+      "given": "Bjorn"
+    }
+  ],
+  "authors_text": "Dribe, Martin; Eriksson, Bjorn",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70015",
+  "doi_url": "https://doi.org/10.1111/padr.70015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

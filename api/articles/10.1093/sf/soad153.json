@@ -1,0 +1,30 @@
+{
+  "title": "Skill Specificity on High-Skill Online Gig Platforms: Same as in Traditional Labour Markets?",
+  "abstract": "Political economists and labour sociologists alike have studied how the skill specificity of workers can be explained, as it significantly affects workers' performance. However, the emergence of the gig economy may substantially change skill hiring and specificity in online labour markets because gig workers do not need formal educational credentials to offer their services. Instead, skills are unbundled from occupations, and platforms provide alternative ways to signal competencies, for example, via their rating and review systems. To shed light on the applicability of existing theories to explain the skill profiles of gig workers, we examine what predicts the skills hired in the online gig economy. Based on multilevel ordinal logistic regression analyses of 2336 gig worker profiles, we show that-as in traditional labour markets-gig workers with a vocational degree and longer online work experience are hired for more specific skills. However, national labour market institutions and educational systems affect the gig workers' skill specificity in the opposite direction than in traditional labour markets. Our findings thus suggest that online gig platforms allow workers to overcome restrictions imposed by national institutions as they are hired for those skills in the online gig economy that are institutionally less facilitated in their home labour markets.",
+  "authors": [
+    {
+      "raw": "van Slageren, Jaap",
+      "family": "van Slageren",
+      "given": "Jaap"
+    },
+    {
+      "raw": "Herrmann, Andrea M.",
+      "family": "Herrmann",
+      "given": "Andrea M."
+    }
+  ],
+  "authors_text": "van Slageren, Jaap; Herrmann, Andrea M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soad153",
+  "doi_url": "https://doi.org/10.1093/sf/soad153",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoad153",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soad153.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

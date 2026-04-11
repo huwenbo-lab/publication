@@ -1,0 +1,30 @@
+{
+  "title": "Visualizing Racial-Ethnic Differences in the Division of Housework among Different-Sex Couples in the United States",
+  "abstract": "Recent research shows important racial/ethnic differences in how individuals spend time in housework. Yet our understanding of how the racial/ethnic makeup of couples shapes gender equality in the division of housework remains limited. The authors use couple-level data from the 2017–2019 waves of the Panel Study of Income Dynamics to visually illustrate how each partner’s race/ethnicity and their combination are associated with the gender division of housework among Black, Hispanic, and white individuals. The results show significant heterogeneity in the share of housework and total housework hours among racial/ethnic groups, underscoring the need for a couple-level understanding of how the racial/ethnic makeup of couples may shape the gender division of housework.",
+  "authors": [
+    {
+      "raw": "Pessin, Léa",
+      "family": "Pessin",
+      "given": "Léa"
+    },
+    {
+      "raw": "Pojman, Elena Maria",
+      "family": "Pojman",
+      "given": "Elena Maria"
+    }
+  ],
+  "authors_text": "Pessin, Léa; Pojman, Elena Maria",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221084765",
+  "doi_url": "https://doi.org/10.1177/23780231221084765",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221084765",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221084765.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

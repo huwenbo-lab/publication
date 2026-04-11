@@ -1,0 +1,30 @@
+{
+  "title": "Context, network, and adolescent perceived risk",
+  "abstract": "Prior research has identified a list of individual attributes, along with neighborhood, school, and network characteristics, as potential factors affecting perceived risk. However, prior research has rarely investigated the simultaneous effects of these factors on perceived risk. This study uses the National Longitudinal Study of Adolescent Health (AddHealth), supplemented with the 1990 census data, to examine the associations of neighborhood, school, and network characteristics and perceived risk among adolescents. To account for the overlaps between school districts and neighborhoods, we use cross-classified multilevel modeling (CCMM). Our analyses lead to two main findings. First, perceived risk appears to be context-specific. Perceived risk at school is mostly affected by school characteristics but not by neighborhood characteristics. Perceived risk in neighborhood is mostly affected by neighborhood characteristics but not by school characteristics. Second, network characteristics matter for both types of perceived risk and more so for perceived risk at school than in neighborhood. We find that, while having more friends is associated with a lower level of perceived risk, having more friends with delinquent and violent behaviors is associated with a higher level of perceived risk among adolescents. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Yuan, Yue",
+      "family": "Yuan",
+      "given": "Yue"
+    },
+    {
+      "raw": "An, Weihua",
+      "family": "An",
+      "given": "Weihua"
+    }
+  ],
+  "authors_text": "Yuan, Yue; An, Weihua",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.08.018",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.08.018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.08.018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.08.018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

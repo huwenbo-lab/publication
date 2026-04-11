@@ -1,0 +1,35 @@
+{
+  "title": "The economic incorporation of immigrants in 18 western societies: Origin, destination, and community effects",
+  "abstract": "This article examines differences in labor market participation and unemployment between immigrant groups in different countries. The authors argue that two macro designs must be combined to provide a more comprehensive perspective on the economic integration of immigrant groups. Instead of reliance on observations of multiple-origin groups in a single destination or a single-origin group in multiple destinations, multiple origins in multiple destinations are compared, suggesting that the economic status or immigrants may be affected by the country from which they come (origin effect), the country to which they migrate (destination effect), and the specific relations between origins and destinations (community effect). From the human capital theory, compositional hypotheses are derived, which predict that these macro effects can be attributed to the selection of human capital. From discrimination theories, contextual hypotheses are deduced, which maintain that macro effects can be ascribed to in-group preferences and out-group prejudices. Data on immigrants' labor force activity and employment in 18 Western countries during the period 1980 to 2001 are reported. Using multilevel techniques, the analysis shows that compositional differences associated with political suppression in the countries of origin, relative income inequality, and geographic distance affect the labor force status of immigrants. Contextual effects play a role as well in terms of religious origin, the presence of left wing parties in the government, and the size of the immigrant community.",
+  "authors": [
+    {
+      "raw": "van Tubergen, F",
+      "family": "van Tubergen",
+      "given": "F"
+    },
+    {
+      "raw": "Maas, I",
+      "family": "Maas",
+      "given": "I"
+    },
+    {
+      "raw": "Flap, H",
+      "family": "Flap",
+      "given": "H"
+    }
+  ],
+  "authors_text": "van Tubergen, F; Maas, I; Flap, H",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2004,
+  "doi": "10.1177/000312240406900505",
+  "doi_url": "https://doi.org/10.1177/000312240406900505",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240406900505",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240406900505.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

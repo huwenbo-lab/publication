@@ -1,0 +1,30 @@
+{
+  "title": "In a Stationary Population, the Average Lifespan of the Living Is a Length-Biased Life Expectancy",
+  "abstract": "What is the aver age lifespan in a sta tion ary pop u la tion viewed at a sin gle moment in time? Even though peri ods and cohorts are iden ti cal in a sta tion ary pop u la- tion, we show that the answer to this ques tion is not life expec tancy but a length -biased ver sion of life expec tancy. That is, the dis tri bu tion of lifespans of the peo ple alive at a sin gle moment is a self -weighted dis tri bu tion of cohort lifespans, such that lon ger lifespans have proportionally greater rep re sen ta tion. One impli ca tion is that if death rates are unchang ing, the aver age lifespan of the cur rent pop u la tion always exceeds period life expec tancy. This result con nects sta tion ary pop u la tion lifespan mea sures to a well-devel oped body of sta tis ti cal results; pro vi des new intu i tion for established demo- graphic results; gen er ates new insights into the rela tion ship between peri ods, cohorts, and prev a lent cohorts; and offers a frame work for think ing about mor tal ity selec tion more broadly than the con cept of demo graphic frailty.",
+  "authors": [
+    {
+      "raw": "Wrigley-Field, Elizabeth",
+      "family": "Wrigley-Field",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Feehan, Dennis",
+      "family": "Feehan",
+      "given": "Dennis"
+    }
+  ],
+  "authors_text": "Wrigley-Field, Elizabeth; Feehan, Dennis",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-9639692",
+  "doi_url": "https://doi.org/10.1215/00703370-9639692",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9639692",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9639692.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The Melting-Pot Problem? The Persistence and Convergence of Premigration Socioeconomic Status During the Age of Mass Migration",
+  "abstract": "A long-standing debate is concerned over how long premigration socioeconomic differences persisted for immigrants and their descendants who entered at the turn-of-the-twentieth century. Some researchers argue that differences exist today, over one-hundred years after first arrival, while others argue that most differences disappeared after the third generation. However, none of this research has directly measured premigration socioeconomic status nor has it directly linked immigrants to their children. I create a new panel dataset that follows immigrants and their children from the sending country through settlement. Specifically, I link ship manifest records to census records to track how long premigration socioeconomic differences persist across generations. Passenger records provide a wealth of information of individuals including the occupation before arrival. I analyze how long premigration differences persist within and between groups. Although premigration socioeconomic status is associated with the first generation's economic outcomes after settlement, many of these differences disappear by the second generation. These results suggest that background is not destiny for immigrant descendants. As scholars and politicians debate about whether countries should admit primarily high-skilled or low-skilled immigrants, the results from this article tell us whether such selection policies are necessary to ensure strong migrants' performance in a period of open borders.",
+  "authors": [
+    {
+      "raw": "Catron, Peter",
+      "family": "Catron",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Catron, Peter",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2020,
+  "doi": "10.1093/sf/soz146",
+  "doi_url": "https://doi.org/10.1093/sf/soz146",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz146",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz146.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

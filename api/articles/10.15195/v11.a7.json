@@ -1,0 +1,30 @@
+{
+  "title": "Validating the White Flight Hypothesis: Neighborhood Racial Composition and Out-Migration in Two Longitudinal Surveys",
+  "abstract": "Empirical research assessing the link between neighborhood racial composition and out-migration has largely relied on a single sample from the Panel Study of Income Dynamics (PSID). In this article, we validate these models by comparing estimates from the PSID to estimates from identical models based on internal Census data from the Survey of Income and Program Participation (SIPP). Doing so serves two purposes: (1) as a replication exercise for findings with major implications for racial/ethnic inequality and (2) as an expansion of the scope of 'flight' models to test mobility models among contemporary samples of white, black, Latino, and Asian households. Results from these models indicate that white households' migration responses to minority racial concentrations are substantively similar in SIPP and PSID, with the likelihood of out-migration among whites increasing as minority shares grow, albeit weaker in SIPP than the PSID. Results for black householders are comparable across samples, with blacks demonstrating a tendency to leave Hispanic neighborhoods. Results for Hispanic households are, however, divergent between the SIPP and PSID, potentially reflecting differences in the representativeness of the samples. Lastly, the results from SIPP reveal that the mobility behaviors of Asian households are largely indifferent to neighborhood racial composition.",
+  "authors": [
+    {
+      "raw": "Mateyka, Peter",
+      "family": "Mateyka",
+      "given": "Peter"
+    },
+    {
+      "raw": "Hall, Matthew",
+      "family": "Hall",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Mateyka, Peter; Hall, Matthew",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2024,
+  "doi": "10.15195/v11.a7",
+  "doi_url": "https://doi.org/10.15195/v11.a7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv11.a7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v11.a7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

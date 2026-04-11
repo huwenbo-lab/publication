@@ -1,0 +1,35 @@
+{
+  "title": "Economic Growth and Child Undernutrition in sub-Saharan Africa",
+  "abstract": "Despite recent improvements in economic performance, undernutrition rates in sub-Saharan Africa appear to have improved much less and rather inconsistently across the continent. We examine to what extent there is an empirical linkage between income growth and reductions of child undernutrition in Africa. We pool all DHS surveys for African countries, control for other correlates of undernutrition, and add country-level GDP per capita. We find that a 10 percent increase in GDP per capita is associated with 1.5 to 1.7 percent lower odds of being stunted, 2.8 to 3.0 percent lower odds of being underweight, and 3.5 to 4.0 percent lower odds of being wasted. Other drivers of undernutrition, including relative socioeconomic status and mother's education and her nutritional status, are quantitatively more important. This suggests that further increases in GDP will have only a modest impact on undernutrition and broader interventions are required to accelerate progress.",
+  "authors": [
+    {
+      "raw": "Harttgen, Kenneth",
+      "family": "Harttgen",
+      "given": "Kenneth"
+    },
+    {
+      "raw": "Klasen, Stephan",
+      "family": "Klasen",
+      "given": "Stephan"
+    },
+    {
+      "raw": "Vollmer, Sebastian",
+      "family": "Vollmer",
+      "given": "Sebastian"
+    }
+  ],
+  "authors_text": "Harttgen, Kenneth; Klasen, Stephan; Vollmer, Sebastian",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2013,
+  "doi": "10.1111/j.1728-4457.2013.00609.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2013.00609.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2013.00609.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2013.00609.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

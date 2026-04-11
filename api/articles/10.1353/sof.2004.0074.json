@@ -1,0 +1,40 @@
+{
+  "title": "Crimes of Opportunity or Crimes of Emotion? Testing Two Explanations of Seasonal Change in Crime",
+  "abstract": "While past research has suggested possible seasonal trends in crime rates, this study employs a novel methodology that directly models these changes and predicts them with explanatory variables. Using a nonlinear latent curve model, seasonal fluctuations in crime rates are modeled for a large number of communities in the U.S. over a three-year period with a focus on testing the theoretical predictions of two key explanations for seasonal changes in crime rates: the temperature/aggression and routine activities theories. Using data from 8,460 police units in the U.S. over the 1990 to 1992 period, we found that property crime rates are primarily driven by pleasant weather, consistent with the routine activities theory. Violent crime exhibited evidence in support of both theories.",
+  "authors": [
+    {
+      "raw": "Hipp, J. R.",
+      "family": "Hipp",
+      "given": "J. R."
+    },
+    {
+      "raw": "Curran, P. J.",
+      "family": "Curran",
+      "given": "P. J."
+    },
+    {
+      "raw": "Bollen, K. A.",
+      "family": "Bollen",
+      "given": "K. A."
+    },
+    {
+      "raw": "Bauer, D. J.",
+      "family": "Bauer",
+      "given": "D. J."
+    }
+  ],
+  "authors_text": "Hipp, J. R.; Curran, P. J.; Bollen, K. A.; Bauer, D. J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2004,
+  "doi": "10.1353/sof.2004.0074",
+  "doi_url": "https://doi.org/10.1353/sof.2004.0074",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2004.0074",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2004.0074.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

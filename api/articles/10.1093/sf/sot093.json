@@ -1,0 +1,35 @@
+{
+  "title": "The Influence of Political Dynamics on Southern Lynch Mob Formation and Lethality",
+  "abstract": "Existing literature focuses on economic competition as the primary causal factor in Southern lynching. Political drivers have been neglected, as findings on their effects have been inconclusive. We show that these consensus views arise from selection on a contingent outcome variable: whether mobs intent on lynching succeed. We constructed an inventory of averted lynching events in Georgia, Mississippi, and North Carolina—instances in which lynch mobs formed but were thwarted, primarily by law enforcement. We combined these with an inventory of lynching and analyzed them together to model the dynamics of mob formation, success, and intervention. We found that low Republican vote share is associated with a higher lethality rate for mobs. Lynching is better understood as embedded in a post-conflict political system, wherein all potential lynching events, passing through the prism of intervention, are split into successful and averted cases.",
+  "authors": [
+    {
+      "raw": "Hagen, R.",
+      "family": "Hagen",
+      "given": "R."
+    },
+    {
+      "raw": "Makovi, K.",
+      "family": "Makovi",
+      "given": "K."
+    },
+    {
+      "raw": "Bearman, P.",
+      "family": "Bearman",
+      "given": "P."
+    }
+  ],
+  "authors_text": "Hagen, R.; Makovi, K.; Bearman, P.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2013,
+  "doi": "10.1093/sf/sot093",
+  "doi_url": "https://doi.org/10.1093/sf/sot093",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsot093",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sot093.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

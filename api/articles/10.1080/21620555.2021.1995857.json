@@ -1,0 +1,25 @@
+{
+  "title": "Intergenerational living arrangements and marital fertility in Japan: a counterfactual approach",
+  "abstract": "This paper aims to investigate the causal links between intergenerational living arrangements and marital fertility in Japan, using data from the 2010 and 2015 Japanese National Fertility Surveys (N = 1308). The results indicate that coresidence with the husband's parents is positively associated with completed marital fertility in the unmatched sample in which confounders of coresidence are not balanced between married couples who do and do not coreside with their parents. However, the propensity score matching estimators show that this association is reduced to a non-significant level once the matching technique corrects the covariate imbalance. These findings suggest that intergenerational coresidence has only limited direct effects on marital fertility in contemporary Japan.",
+  "authors": [
+    {
+      "raw": "Yoda, Shohei",
+      "family": "Yoda",
+      "given": "Shohei"
+    }
+  ],
+  "authors_text": "Yoda, Shohei",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1080/21620555.2021.1995857",
+  "doi_url": "https://doi.org/10.1080/21620555.2021.1995857",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2021.1995857",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2021.1995857.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

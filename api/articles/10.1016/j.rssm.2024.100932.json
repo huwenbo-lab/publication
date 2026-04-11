@@ -1,0 +1,30 @@
+{
+  "title": "Poor air quality at school and educational inequality by family socioeconomic status in Italy",
+  "abstract": "This paper investigates social stratification in the context of poor air quality's impact on educational achievement in Italy, a country characterized by high levels of air pollution and significant geographical diversity. We address two primary questions: firstly, whether students from different socio-economic backgrounds vary in their exposure to high levels of particulate matter (PM2.5) at school, and secondly, if the effect of exposure to poor air quality on academic performance differs between children from high and low socio-economic status families. Utilizing a novel dataset comprising test scores in math and reading for 456,508 8th-grade students, collected nationally in Italy in 2019, we geocode the locations of 6882 schools based on their addresses and link the level of air pollution in the surrounding areas using PM2.5 data from the Atmospheric Composition Analysis Group. To address potential confounding factors, we estimate municipality and province fixed effects and control for indicators of school neighborhood characteristics and school quality. Our analysis yields three key findings. Firstly, students from higher socio-economic backgrounds tend to attend schools with higher PM2.5 levels. However, the positive association between SES and exposure to PM2.5 disappears when adding province and municipality fixed effects, suggesting that the positive association can be explained by selection into provinces and municipalities by SES. Secondly, we identify a small yet consistent negative effect of PM2.5 on math and reading test scores. Thirdly, this adverse impact is primarily observed among students from low socio-economic backgrounds. We conclude that the relationship between environmental risks and disparities in educational achievement based on social background in Italy is nuanced and critically influenced by the country's specific context.",
+  "authors": [
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    },
+    {
+      "raw": "Keivabu, Risto Conte",
+      "family": "Keivabu",
+      "given": "Risto Conte"
+    }
+  ],
+  "authors_text": "Bernardi, Fabrizio; Keivabu, Risto Conte",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100932",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100932",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100932",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100932.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

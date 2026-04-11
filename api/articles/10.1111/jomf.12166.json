@@ -1,0 +1,35 @@
+{
+  "title": "His, Her, or Their Divorce? Marital Dissolution and Sickness Absence in Norway",
+  "abstract": "The authors analyzed the effects of marital dissolution on sickness absence and discussed the social role, crisis, and social selection models as well as the impact of gender and children. They used administrative data that covers the Norwegian population for the years 1992-2008 and panel methods to investigate lags and leads of the effects of divorce, controlling for time-varying variables and time-constant unobserved factors. The results revealed that 6 years before divorce, the sickness absence rate among divorced people was at a level similar to that among those who remained married. The sickness absence rate increased in the year preceding divorce, peaked in the year of divorce, and decreased in the following year, but not to the level before divorce. The authors found strong support for the social role model, and the results show that the gender-parenthood interaction is important. Limited support for the crisis and selection models was found.",
+  "authors": [
+    {
+      "raw": "Dahl, Svenn-Age",
+      "family": "Dahl",
+      "given": "Svenn-Age"
+    },
+    {
+      "raw": "Hansen, Hans-Tore",
+      "family": "Hansen",
+      "given": "Hans-Tore"
+    },
+    {
+      "raw": "Vignes, Bo",
+      "family": "Vignes",
+      "given": "Bo"
+    }
+  ],
+  "authors_text": "Dahl, Svenn-Age; Hansen, Hans-Tore; Vignes, Bo",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12166",
+  "doi_url": "https://doi.org/10.1111/jomf.12166",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12166",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12166.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

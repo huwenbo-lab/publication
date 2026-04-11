@@ -1,0 +1,25 @@
+{
+  "title": "Late-Career Employment Trajectories and Postretirement Mortality: Evidence From Italy",
+  "abstract": "In the last decades, the long-standing paradigm of life course theory postulating direct transition from lifetime employment to full retirement has been eroding in advanced economies. For many mature workers, the period between the end of stable employment and the attainment of eligibility requirements for accessing retirement benefits can be, in fact, quite discontinuous. Still, little is known about the health consequences of employment instability in later working life. This study addresses this issue by examining how late-career employment trajectories shape postretirement all-cause mortality. I use longitudinal register data from Italy to reconstruct the later-life employment history of a large sample of Italian retirees previously employed in the private sector for whom I can observe mortality up to 2018. I rely on sequence analysis to identify ideal-type, late-career trajectories and use them as further inputs for discrete-time survival analysis. Results show that going through a trajectory marked by employment instability in later working life is related to worse postretirement survival chances, with this relationship being stronger if unemployment spells are prolonged and not covered by social allowances. Given the current pressures to extend the length of working life, these findings highlight the relevance of policies aimed at improving the employment prospects of displaced senior workers and at ensuring adequate support in case of prolonged unemployment.",
+  "authors": [
+    {
+      "raw": "Scotti, Benedetta",
+      "family": "Scotti",
+      "given": "Benedetta"
+    }
+  ],
+  "authors_text": "Scotti, Benedetta",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10291269",
+  "doi_url": "https://doi.org/10.1215/00703370-10291269",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10291269",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10291269.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

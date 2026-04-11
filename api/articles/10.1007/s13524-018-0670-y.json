@@ -1,0 +1,40 @@
+{
+  "title": "The Role of Family Behaviors in Determining Income Distribution: The Case of South Korea",
+  "abstract": "In this article, we examined what has contributed to the worsening income inequality and poverty between 1996 and 2011 in South Korea. We used a rank-preserving exchange method and a conditional reweighting method to assess the roles of family behaviors-including female labor force participation and family structure-characteristics of household heads, and men's earnings. The results showed that the change in men's earnings was a dominant factor in accounting for the increasing income inequality and poverty. The change in age and education among household heads also contributed significantly to the worsening income distribution. The change in family structure mainly affected the income disparity among lower-income families and increased poverty. The rise in women's labor force participation improved the income distribution but not considerably. The distributional roles of family have not worked to prevent or reverse the worsening income distribution in the past few decades in South Korea.",
+  "authors": [
+    {
+      "raw": "Ku, Inhoe",
+      "family": "Ku",
+      "given": "Inhoe"
+    },
+    {
+      "raw": "Lee, Wonjin",
+      "family": "Lee",
+      "given": "Wonjin"
+    },
+    {
+      "raw": "Lee, Seoyun",
+      "family": "Lee",
+      "given": "Seoyun"
+    },
+    {
+      "raw": "Han, Kyounghoon",
+      "family": "Han",
+      "given": "Kyounghoon"
+    }
+  ],
+  "authors_text": "Ku, Inhoe; Lee, Wonjin; Lee, Seoyun; Han, Kyounghoon",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0670-y",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0670-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0670-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0670-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Criminalizing Poverty: The Consequences of Court Fees in a Randomized Experiment",
+  "abstract": "Court-related fines and fees are widely levied on criminal defendants who are frequently poor and have little capacity to pay. Such financial obligations may produce a criminalization of poverty, where later court involvement results not from crime but from an inability to meet the financial burdens of the legal process. We test this hypothesis using a randomized controlled trial of court-related fee relief for misdemeanor defendants in Oklahoma County, Oklahoma. We find that relief from fees does not affect new criminal charges, convictions, or jail bookings after 12 months. However, control respondents were subject to debt collection efforts at significantly higher rates that involved new warrants, additional court debt, tax refund garnishment, and referral to a private debt collector. Despite significant efforts at debt collection among those in the control group, payments to the court totaled less than 5 percent of outstanding debt. The evidence indicates that court debt charged to indigent defendants neither caused nor deterred new crime, and the government obtained little financial benefit. Yet, fines and fees contributed to a criminalization of low-income defendants, placing them at risk of ongoing court involvement through new warrants and debt collection.",
+  "authors": [
+    {
+      "raw": "Pager, Devah",
+      "family": "Pager",
+      "given": "Devah"
+    },
+    {
+      "raw": "Goldstein, Rebecca",
+      "family": "Goldstein",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Ho, Helen",
+      "family": "Ho",
+      "given": "Helen"
+    },
+    {
+      "raw": "Western, Bruce",
+      "family": "Western",
+      "given": "Bruce"
+    }
+  ],
+  "authors_text": "Pager, Devah; Goldstein, Rebecca; Ho, Helen; Western, Bruce",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1177/00031224221075783",
+  "doi_url": "https://doi.org/10.1177/00031224221075783",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224221075783",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224221075783.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

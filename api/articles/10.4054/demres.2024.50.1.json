@@ -1,0 +1,50 @@
+{
+  "title": "Lives saved, lives lost, and under-reported COVID-19 deaths: Excess and non-excess mortality in relation to cause-specific mortality during the first year of the COVID-19 pandemic in Sweden",
+  "abstract": "BACKGROUND The number of confirmed COVID-19 deaths differed across countries and across waves of the pandemic. Patterns also differed between groups within a country. OBJECTIVE We combine data on excess mortality with data on cause-of-death-specific mortality in the case of Sweden to identify which groups had excess mortality beyond what can be captured by analyses of COVID-19-specific deaths. We also explore the possibility that some groups may have benefited in terms of reduced all-cause mortality, potentially due to home-centered living conditions during the pandemic. METHODS We produced and compared three sets of group-specific incidence rates: deaths from (1) any cause in 2020, (2) any cause in 2019, (3) any cause excluding COVID-19 in 2020. We compared rates across different socioeconomic profiles based on combinations of sex, age, marital status, education, and country of birth. CONTRIBUTION We show that many of those who died during 2020 would not have done so in the absence of the pandemic. We find some evidence of COVID-19 mortality underestimation, mainly among individuals with a migration background. We also found groups for which mortality decreased during the pandemic, even when including COVID-19 mortality. Progression across the first and second waves of the pandemic shows that more groups appeared to become protected over time and that there was less underestimation of COVID-19 mortality in the second part of 2020.",
+  "authors": [
+    {
+      "raw": "Mussino, Eleonora",
+      "family": "Mussino",
+      "given": "Eleonora"
+    },
+    {
+      "raw": "Drefahl, Sven",
+      "family": "Drefahl",
+      "given": "Sven"
+    },
+    {
+      "raw": "Wallace, Matthew",
+      "family": "Wallace",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Billingsley, Sunnee",
+      "family": "Billingsley",
+      "given": "Sunnee"
+    },
+    {
+      "raw": "Aradhya, Siddartha",
+      "family": "Aradhya",
+      "given": "Siddartha"
+    },
+    {
+      "raw": "Andersson, Gunnar",
+      "family": "Andersson",
+      "given": "Gunnar"
+    }
+  ],
+  "authors_text": "Mussino, Eleonora; Drefahl, Sven; Wallace, Matthew; Billingsley, Sunnee; Aradhya, Siddartha; Andersson, Gunnar",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.1",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Do children from welfare families obtain less education?",
+  "abstract": "Abstract In this study, we analyzed whether parents’ receipt of welfare affects children’s educational attainment in early adulthood, independent of its effect through changing family income. We used data from the Panel Study of Income Dynamics with information on parents’ welfare receipt over the first 15 years of childhood. Cross-sectional results show that greater exposure to welfare is significantly associated with children’s poorer educational attainment. Family fixed-effect regressions also indicate a negative effect of exposure to welfare, but its overall pattern is less consistent. Although exposure to welfare in early childhood has no effect, in adolescence and, to a lesser degree, in middle childhood, its effect is often negative.",
+  "authors": [
+    {
+      "raw": "Ku, Inhoe",
+      "family": "Ku",
+      "given": "Inhoe"
+    },
+    {
+      "raw": "Plotnick, Robert",
+      "family": "Plotnick",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Ku, Inhoe; Plotnick, Robert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2003,
+  "doi": "10.1353/dem.2003.0005",
+  "doi_url": "https://doi.org/10.1353/dem.2003.0005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2003.0005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2003.0005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

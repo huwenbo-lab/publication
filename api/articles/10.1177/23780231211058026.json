@@ -1,0 +1,35 @@
+{
+  "title": "Community Effectiveness of Masks and Vaccines",
+  "abstract": "Recent controversies about wearing masks and getting vaccinated to slow the spread of coronavirus disease 2019 highlight the potential for individual rights and decision making to create widespread community-level outcomes. There is little work demonstrating the collective spillover effects of pandemic mitigation efforts. The authors contribute by visualizing the proportion of unvaccinated people who would become infected at different combinations of mask wearing and vaccination in a hypothetical community. A common pattern emerges across all assumptions: below some joint threshold of mask and vaccination rates, almost all unvaccinated people will eventually become infected, and beyond that threshold there is a steep drop leading to widespread community-level protection. What differs across settings is the timing and shape of the drop-off after crossing the threshold. The authors conclude that masking and vaccination are sensible and in the best interest of the population.",
+  "authors": [
+    {
+      "raw": "Moody, James W.",
+      "family": "Moody",
+      "given": "James W."
+    },
+    {
+      "raw": "Keister, Lisa A.",
+      "family": "Keister",
+      "given": "Lisa A."
+    },
+    {
+      "raw": "Pasquale, Dana K.",
+      "family": "Pasquale",
+      "given": "Dana K."
+    }
+  ],
+  "authors_text": "Moody, James W.; Keister, Lisa A.; Pasquale, Dana K.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211058026",
+  "doi_url": "https://doi.org/10.1177/23780231211058026",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211058026",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211058026.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

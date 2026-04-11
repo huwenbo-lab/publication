@@ -1,0 +1,30 @@
+{
+  "title": "From the Block to the Beat: How Violence in Officers' Neighborhoods Influences Racially Biased Policing",
+  "abstract": "Research on the relationship between police discrimination and place has focused on a single context: the workplace. Yet, theories of exclusion and group identity suggest that where people live shapes their perceptions and actions. This article bridges this gap by investigating how homicides near officers' homes influence their behavior on duty. We link administrative records from the Chicago Police Department with voter registration data to create a novel dataset capturing officers' demographic backgrounds, policing activity, and residential contexts. Our quasi-experimental design exploits the exogenous timing of homicides near officers' homes relative to their work schedules. We find that White officers use force against Black pedestrians more frequently in the week following a homicide in their neighborhood. By demonstrating how violence near officers' homes influences legally sanctioned violence in other neighborhoods, our study reveals a pathway through which violence diffuses across the city and between social groups.",
+  "authors": [
+    {
+      "raw": "Donahue, Samuel Thomas",
+      "family": "Donahue",
+      "given": "Samuel Thomas"
+    },
+    {
+      "raw": "Torrats-Espinosa, Gerard",
+      "family": "Torrats-Espinosa",
+      "given": "Gerard"
+    }
+  ],
+  "authors_text": "Donahue, Samuel Thomas; Torrats-Espinosa, Gerard",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1086/734296",
+  "doi_url": "https://doi.org/10.1086/734296",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F734296",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/734296.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

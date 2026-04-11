@@ -1,0 +1,25 @@
+{
+  "title": "Capital for college: Parental assets and postsecondary schooling",
+  "abstract": "This article argues that traditional models of educational attainment have neglected a substantial portion of the economic resources available to parents to facilitate their children's success in schooling: wealth. In multigenerational analyses of the Panel Study of Income Dynamics, it demonstrates that parental wealth, as measured by net worth, has a strong, nonlinear effect on the postsecondary schooling of offspring-net of income and other measures of socioeconomic background. Logistic regression models show that parental wealth is a strong predictor of enrollment in college and may affect the completion of college (attaining a bachelor's degree) but is not significant for the transition to graduate school. A comparison of models in which wealth is converted into an income stream acid then added to annual income and models in which the effects of parental income and net worth are estimated separately indicates that wealth has properties that are analytically distinct from income.",
+  "authors": [
+    {
+      "raw": "Conley, D",
+      "family": "Conley",
+      "given": "D"
+    }
+  ],
+  "authors_text": "Conley, D",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2001,
+  "doi": "10.2307/2673145",
+  "doi_url": "https://doi.org/10.2307/2673145",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2673145",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2673145.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

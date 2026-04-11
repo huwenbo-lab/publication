@@ -1,0 +1,25 @@
+{
+  "title": "Interlocking directorates and political cohesion among corporate elites",
+  "abstract": "This study uses data on campaign contributions and methods of network analysis to investigate the significance of interlocking directorates for political cohesion among corporate elites. Using quadratic assignment procedure (QAP) regression, the author shows that social ties formed through common membership on corporate boards contribute more to similarity of political behavior than commonalities of economic interests, such as those associated with operating in the same industry or the same geographic region. Moreover, the politically cohesive effects of directorship ties remain robust even as one moves several links down the chain of indirect ties that connect top corporate officers to one another. The study thus provides empirical support for the thesis that social networks among corporate elites facilitate political cohesion within the business community.",
+  "authors": [
+    {
+      "raw": "Burris, V",
+      "family": "Burris",
+      "given": "V"
+    }
+  ],
+  "authors_text": "Burris, V",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2005,
+  "doi": "10.1086/428817",
+  "doi_url": "https://doi.org/10.1086/428817",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F428817",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/428817.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

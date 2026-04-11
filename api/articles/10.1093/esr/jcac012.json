@@ -1,0 +1,25 @@
+{
+  "title": "The Differential Impact of Educational Tracking on SES Gaps in Educational Achievement for Boys and Girls",
+  "abstract": "Prior research has shown that later tracking is related to smaller inequalities by social origin. One of the underlying mechanisms indicates that allowing more schooling time in comprehensive classes is beneficial for, especially, low-SES students. In this study, we question whether this is the case for boys and girls and test whether later tracking diminishes social inequality in educational performance among boys and girls. Microdata on reading and mathematics competence during primary and secondary school, gathered from PIRLS, TIMSS, and PISA, are combined with contextual-level data on the tracking age. We employ differences-in-differences models to test whether the impact of tracking on SES gaps in test scores differs between boys and girls. We find that later tracking reduces inequalities by social origin in test scores for girls. Staying longer in untracked classes does not, however, affect SES-based inequalities for boys. This suggests that the general finding that later tracking reduces inequalities by social background is driven by girls.",
+  "authors": [
+    {
+      "raw": "Scheeren, Lotte",
+      "family": "Scheeren",
+      "given": "Lotte"
+    }
+  ],
+  "authors_text": "Scheeren, Lotte",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcac012",
+  "doi_url": "https://doi.org/10.1093/esr/jcac012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

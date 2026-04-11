@@ -1,0 +1,35 @@
+{
+  "title": "Slum Residence and Child Health in Developing Countries",
+  "abstract": "Abstract Continued population growth and increasing urbanization have led to the formation of large informal urban settlements in many developing countries in recent decades. The high prevalence of poverty, overcrowding, and poor sanitation observed in these settlements—commonly referred to as “slums”—suggests that slum residence constitutes a major health risk for children. In this article, we use data from 191 Demographic and Health Surveys (DHS) across 73 developing countries to investigate this concern empirically. Our results indicate that children in slums have better health outcomes than children living in rural areas yet fare worse than children in better-off neighborhoods of the same urban settlements. A large fraction of the observed health differences appears to be explained by pronounced differences in maternal education, household wealth, and access to health services across residential areas. After we control for these characteristics, children growing up in the slums and better-off neighborhoods of towns show levels of morbidity and mortality that are not statistically different from those of children living in rural areas. Compared with rural children, children living in cities (irrespective of slum or formal residence) fare better with respect to mortality and stunting but not with respect to recent illness episodes.",
+  "authors": [
+    {
+      "raw": "Fink, Günther",
+      "family": "Fink",
+      "given": "Günther"
+    },
+    {
+      "raw": "Günther, Isabel",
+      "family": "Günther",
+      "given": "Isabel"
+    },
+    {
+      "raw": "Hill, Kenneth",
+      "family": "Hill",
+      "given": "Kenneth"
+    }
+  ],
+  "authors_text": "Fink, Günther; Günther, Isabel; Hill, Kenneth",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0302-0",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0302-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0302-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0302-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

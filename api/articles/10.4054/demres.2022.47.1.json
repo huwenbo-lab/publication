@@ -1,0 +1,35 @@
+{
+  "title": "A dyadic approach to the study of perceived subfecundity and contraceptive use",
+  "abstract": "BACKGROUND There is an increasing literature on women???s perception of subfecundity and contraceptive use, with studies showing that women with perceived difficulties conceiving are more likely to have an unintended pregnancy because of a lower reliance on contraception. There is little research investigating the correlates of perceived subfecundity, and quantitative investigation of couple-level perceived subfecundity appears absent from the literature, which is somewhat surprising, as the inability to have a child is a couple-level outcome. Furthermore, most studies that relate to perceived subfecundity and the use of contraception, or lack thereof, are typically limited to young adults. OBJECTIVE The aim of this study is to explore the couple-level correlates of perceived subfecundity and to investigate the relationship between perceived subfecundity and contraceptive use among a nationally representative sample of couples. METHOD Drawing on data from the Household Income and Labour Dynamics in Australia (HILDA) survey, binary and multinomial logistic regression models are estimated using the couple-dyad as the unit of analysis. RESULTS Both biological and life-course interference factors are strong predictors of perceived subfecundity at the couple level, with women???s characteristics more influential than their partner???s characteristics. Additionally, couples in which at least one partner perceives subfecundity are less likely to use contraception, regardless of their short-term intentions or desire to have a child.",
+  "authors": [
+    {
+      "raw": "Lazzari, Ester",
+      "family": "Lazzari",
+      "given": "Ester"
+    },
+    {
+      "raw": "Gray, Edith",
+      "family": "Gray",
+      "given": "Edith"
+    },
+    {
+      "raw": "Baffour, Bernard",
+      "family": "Baffour",
+      "given": "Bernard"
+    }
+  ],
+  "authors_text": "Lazzari, Ester; Gray, Edith; Baffour, Bernard",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.1",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

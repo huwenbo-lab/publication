@@ -1,0 +1,30 @@
+{
+  "title": "The evolution of demographic methods",
+  "abstract": "Demographic methods have been evolving ever since the birth of demography in response to changes in the field's research contents and theoretical orientations. An early core mission of finding regularities underlying macro-level population phenomena and a later interest in explaining population changes inductively facilitated the development of formal demographic techniques. A more radical methodological shift occurred after the 1960s, with the increasing availability of micro-level survey data and a shift of theoretical focus toward causal mechanisms, leading to the widespread adoption of regression-based models and methods from other social science disciplines. The future development of demographic methods will likely continue to incorporate new methods first developed in other disciplines, including techniques for analyzing unstructured big data, but formal demographic techniques will still play a role in population forecasting, measurements improvements, and correction of faulty data, providing foundational knowledge for other social science disciplines.",
+  "authors": [
+    {
+      "raw": "Li, Ting",
+      "family": "Li",
+      "given": "Ting"
+    },
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Li, Ting; Xie, Yu",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2022.102768",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102768",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102768",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102768.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

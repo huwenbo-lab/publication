@@ -1,0 +1,30 @@
+{
+  "title": "Textual Spanning: Finding Discursive Holes in Text Networks",
+  "abstract": "We propose a measure of discursive holes well suited for the unique properties of text networks built from document similarity matrices considered as dense weighted graphs. In this measure, which we call textual spanning, documents similar to documents dissimilar from one another receive a high score, and documents similar to documents similar to one another receive a low score. After offering a simulation-based validation, we test the measure on an empirical document similarity matrix based on a preestimated topic-model probability distribution. The results demonstrate that our proposed textual spanning measure captures different structural features of discursive fields than alternative measures.",
+  "authors": [
+    {
+      "raw": "Stoltz, Dustin S.",
+      "family": "Stoltz",
+      "given": "Dustin S."
+    },
+    {
+      "raw": "Taylor, Marshall A.",
+      "family": "Taylor",
+      "given": "Marshall A."
+    }
+  ],
+  "authors_text": "Stoltz, Dustin S.; Taylor, Marshall A.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119827674",
+  "doi_url": "https://doi.org/10.1177/2378023119827674",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119827674",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119827674.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

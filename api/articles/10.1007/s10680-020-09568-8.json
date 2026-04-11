@@ -1,0 +1,30 @@
+{
+  "title": "Are the Sick Left Behind at the Peripheries? Health Selection in Migration to Growing Urban Centres in Finland",
+  "abstract": "AbstractWe study health selection in rural–urban migration in Finland using register data. Specifically, we ask whether ‘movers’ differ from ‘stayers’ in their use of special health care services prior to moving. We focus on migration to twelve growing urban centres in different sub-groups of the population as well as in different regions, using multinomial logistic regression and multilevel modelling and by distinguishing between short- and long-distance moves. The results show that urban centres attract healthier individuals, while people with health problems are also prone to move, but not to urban centres. The results were similar when looking only at psychiatric diagnoses. The findings suggest that it is important to distinguish between different types of moves when studying health-selective migration. Studying the patterns of migration according to health enables us to understand drivers of regional health differences. Moreover, such evidence will help in projecting future demand for healthcare across the country.",
+  "authors": [
+    {
+      "raw": "Vaalavuo, Maria",
+      "family": "Vaalavuo",
+      "given": "Maria"
+    },
+    {
+      "raw": "Sihvola, Mikko-Waltteri",
+      "family": "Sihvola",
+      "given": "Mikko-Waltteri"
+    }
+  ],
+  "authors_text": "Vaalavuo, Maria; Sihvola, Mikko-Waltteri",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2020,
+  "doi": "10.1007/s10680-020-09568-8",
+  "doi_url": "https://doi.org/10.1007/s10680-020-09568-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-020-09568-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-020-09568-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

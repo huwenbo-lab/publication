@@ -1,0 +1,30 @@
+{
+  "title": "Selection and the Marriage Premium for Infant Health",
+  "abstract": "AbstractPrevious research has found a positive relationship between marriage and infant health, but it is unclear whether this relationship is causal or a reflection of positive selection into marriage. We use multiple empirical approaches to address this issue. First, using a technique developed by Gelbach (2009) to determine the relative importance of observable characteristics, we show how selection into marriage has changed over time. Second, we construct a matched sample of children born to the same mother and apply panel data techniques to account for time-invariant unobserved characteristics. We find evidence of a sizable marriage premium. However, this premium fell by more than 40 % between 1989 and 2004, largely as a result of declining selection into marriage by race. Accounting for selection reduces ordinary least squares estimates of the marriage premiums for birth weight, prematurity, and infant mortality by at least one-half.",
+  "authors": [
+    {
+      "raw": "Buckles, Kasey S.",
+      "family": "Buckles",
+      "given": "Kasey S."
+    },
+    {
+      "raw": "Price, Joseph",
+      "family": "Price",
+      "given": "Joseph"
+    }
+  ],
+  "authors_text": "Buckles, Kasey S.; Price, Joseph",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0211-7",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0211-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0211-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0211-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

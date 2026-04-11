@@ -1,0 +1,30 @@
+{
+  "title": "Does Fertility or Mortality Drive Contemporary Population Aging? The Revisionist View Revisited",
+  "abstract": "Why are contemporary populations still aging? In the classic view, population aging has been driven almost entirely by fertility decline over the demographic transition, while mortality decline has played a minor role. In this view, populations today are still aging because they are still converging toward the new older stable age distribution. But in the past 25 years an elegant mathematical decomposition of changing mean ages has sometimes been interpreted as showing that recent aging is mainly due to declining mortality rather than fertility. Here we question this interpretation and argue that it is necessary to evaluate the indirect effects of mortality change as well as the direct ones. We suggest that the gold standard for this problem is the analytic simulation with explicit counterfactual comparisons. Analytic simulations show that fertility decline is largely responsible for the old age of contemporary populations and has by far the largest role in accounting for continuing aging from 2005-2010.",
+  "authors": [
+    {
+      "raw": "Lee, Ronald",
+      "family": "Lee",
+      "given": "Ronald"
+    },
+    {
+      "raw": "Zhou, Yi",
+      "family": "Zhou",
+      "given": "Yi"
+    }
+  ],
+  "authors_text": "Lee, Ronald; Zhou, Yi",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2017,
+  "doi": "10.1111/padr.12062",
+  "doi_url": "https://doi.org/10.1111/padr.12062",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12062",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12062.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

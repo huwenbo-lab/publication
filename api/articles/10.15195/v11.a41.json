@@ -1,0 +1,155 @@
+{
+  "title": "The Diffusion and Reach of (Mis)Information on Facebook during the U.S. 2020 Election",
+  "abstract": "Social media creates the possibility for rapid, viral spread of content, but how many posts actually reach millions? And is misinformation special in how it propagates? We answer these questions by analyzing the virality of and exposure to information on Facebook during the U.S. 2020 presidential election. We examine the diffusion trees of the approximately 1 B posts that were re-shared at least once by U.S.-based adults from July 1, 2020, to February 1, 2021. We differentiate misinformation from non-misinformation posts to show that (1) misinformation diffused more slowly, relying on a small number of active users that spread misinformation via long chains of peer-to-peer diffusion that reached millions; non-misinformation spread primarily through one-to-many affordances (mainly, Pages); (2) the relative importance of peer-to-peer spread for misinformation was likely due to an enforcement gap in content moderation policies designed to target mostly Pages and Groups; and (3) periods of aggressive content moderation proximate to the election coincide with dramatic drops in the spread and reach of misinformation and (to a lesser extent) political content.",
+  "authors": [
+    {
+      "raw": "González-Bailón, Sandra",
+      "family": "González-Bailón",
+      "given": "Sandra"
+    },
+    {
+      "raw": "Lazer, David",
+      "family": "Lazer",
+      "given": "David"
+    },
+    {
+      "raw": "Barberá, Pablo",
+      "family": "Barberá",
+      "given": "Pablo"
+    },
+    {
+      "raw": "Godel, William",
+      "family": "Godel",
+      "given": "William"
+    },
+    {
+      "raw": "Allcott, Hunt",
+      "family": "Allcott",
+      "given": "Hunt"
+    },
+    {
+      "raw": "Brown, Taylor",
+      "family": "Brown",
+      "given": "Taylor"
+    },
+    {
+      "raw": "Crespo-Tenorio, Adriana",
+      "family": "Crespo-Tenorio",
+      "given": "Adriana"
+    },
+    {
+      "raw": "Freelon, Deen",
+      "family": "Freelon",
+      "given": "Deen"
+    },
+    {
+      "raw": "Gentzkow, Matthew",
+      "family": "Gentzkow",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Guess, Andrew",
+      "family": "Guess",
+      "given": "Andrew"
+    },
+    {
+      "raw": "Iyengar, Shanto",
+      "family": "Iyengar",
+      "given": "Shanto"
+    },
+    {
+      "raw": "Kim, Young",
+      "family": "Kim",
+      "given": "Young"
+    },
+    {
+      "raw": "Malhotra, Neil",
+      "family": "Malhotra",
+      "given": "Neil"
+    },
+    {
+      "raw": "Moehler, Devra",
+      "family": "Moehler",
+      "given": "Devra"
+    },
+    {
+      "raw": "Nyhan, Brendan",
+      "family": "Nyhan",
+      "given": "Brendan"
+    },
+    {
+      "raw": "Pan, Jennifer",
+      "family": "Pan",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Rivera, Carlos",
+      "family": "Rivera",
+      "given": "Carlos"
+    },
+    {
+      "raw": "Settle, Jaime",
+      "family": "Settle",
+      "given": "Jaime"
+    },
+    {
+      "raw": "Thorson, Emily",
+      "family": "Thorson",
+      "given": "Emily"
+    },
+    {
+      "raw": "Tromble, Rebekah",
+      "family": "Tromble",
+      "given": "Rebekah"
+    },
+    {
+      "raw": "Wilkins, Arjun",
+      "family": "Wilkins",
+      "given": "Arjun"
+    },
+    {
+      "raw": "Wojcieszak, Magdalena",
+      "family": "Wojcieszak",
+      "given": "Magdalena"
+    },
+    {
+      "raw": "Kiewiet de Jonge, Chad",
+      "family": "Kiewiet de Jonge",
+      "given": "Chad"
+    },
+    {
+      "raw": "Franco, Annie",
+      "family": "Franco",
+      "given": "Annie"
+    },
+    {
+      "raw": "Mason, Winter",
+      "family": "Mason",
+      "given": "Winter"
+    },
+    {
+      "raw": "Stroud, Natalie",
+      "family": "Stroud",
+      "given": "Natalie"
+    },
+    {
+      "raw": "Tucker, Joshua",
+      "family": "Tucker",
+      "given": "Joshua"
+    }
+  ],
+  "authors_text": "González-Bailón, Sandra; Lazer, David; Barberá, Pablo; Godel, William; Allcott, Hunt; Brown, Taylor; Crespo-Tenorio, Adriana; Freelon, Deen; Gentzkow, Matthew; Guess, Andrew; Iyengar, Shanto; Kim, Young; Malhotra, Neil; Moehler, Devra; Nyhan, Brendan; Pan, Jennifer; Rivera, Carlos; Settle, Jaime; Thorson, Emily; Tromble, Rebekah; Wilkins, Arjun; Wojcieszak, Magdalena; Kiewiet de Jonge, Chad; Franco, Annie; Mason, Winter; Stroud, Natalie; Tucker, Joshua",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2024,
+  "doi": "10.15195/v11.a41",
+  "doi_url": "https://doi.org/10.15195/v11.a41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv11.a41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v11.a41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

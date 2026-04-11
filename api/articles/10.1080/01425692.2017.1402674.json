@@ -1,0 +1,30 @@
+{
+  "title": "Anti-school attitudes, school culture and friendship networks",
+  "abstract": "This article explores the relationship between educational outcomes and anti-school attitudes at different levels of social organization in schools. Data were collected in St. Petersburg, Russia (104 schools, 7300 students) and analyzed using multi-level regression models that included three levels: individual, clique of friends and school. A clique is defined as a tight group of friends in a school class; we used social network analysis software Kliquefinder for clique identification. We demonstrate that friends' attitudes are strongly related to the educational outcomes of a student (net of person's individual attitudes and socio-demographic characteristics). In contrast, school-level effects disappear in the multi-level model when individual characteristics are included. The results of the study clearly demonstrate that the socio-economic and curricular differentiation of schools does not always lead to the polarization of school academic cultures'. A school social environment is sufficiently heterogeneous, and different value systems in small peer groups may coexist.",
+  "authors": [
+    {
+      "raw": "Ivaniushina, Valeria",
+      "family": "Ivaniushina",
+      "given": "Valeria"
+    },
+    {
+      "raw": "Alexandrov, Daniel",
+      "family": "Alexandrov",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Ivaniushina, Valeria; Alexandrov, Daniel",
+  "journal": "British Journal of Sociology of Education",
+  "journal_slug": "British_Journal_of_Sociology_of_Education",
+  "year": 2018,
+  "doi": "10.1080/01425692.2017.1402674",
+  "doi_url": "https://doi.org/10.1080/01425692.2017.1402674",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F01425692.2017.1402674",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/01425692.2017.1402674.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

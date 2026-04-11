@@ -1,0 +1,30 @@
+{
+  "title": "Subjective Well-being and Partnership Dynamics: Are Same-Sex Relationships Different?",
+  "abstract": "We analyze Dutch panel data to investigate whether partnership has a causal effect on subjective well-being. As in previous studies, we find that, on average, being in a partnership improves well-being. Well-being gains of marriage are larger than those of cohabitation. The well-being effects of partnership formation and disruption are symmetric. We also find that marriage improves well-being for both younger and older cohorts, whereas cohabitation benefits only the younger cohort. Our main contribution to the literature is on well-being effects of same-sex partnerships. We find that these effects are homogeneous to sexual orientation. Gender differences exist in the well-being effects of same-sex partnerships: females are happier cohabiting, whereas marriage has a stronger well-being effect on males.",
+  "authors": [
+    {
+      "raw": "Chen, Shuai",
+      "family": "Chen",
+      "given": "Shuai"
+    },
+    {
+      "raw": "van Ours, Jan C.",
+      "family": "van Ours",
+      "given": "Jan C."
+    }
+  ],
+  "authors_text": "Chen, Shuai; van Ours, Jan C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0725-0",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0725-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0725-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0725-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

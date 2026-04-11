@@ -1,0 +1,30 @@
+{
+  "title": "Life expectancy loss among Native Americans during the COVID-19 pandemic",
+  "abstract": "BACKGROUND There has been little systematic research on the mortality impact of COVID-19 in the Native American population. OBJECTIVE We provide estimates of loss of life expectancy in 2020 and 2021 relative to 2019 for the Native American population. METHODS We use data on age-specific all-cause mortality rates from CDC WONDER and the 2019 life table recently released by the National Vital Statistics System for Native Americans to calculate life tables for the Native American population in 2020 and 2021 and to obtain estimates of life expectancy reductions during the COVID-19 pandemic. RESULTS The pandemic has set Native Americans further behind other major racial/ethnic groups in terms of life expectancy. The estimated loss in life expectancy at birth for Native Americans is 4.5 years in 2020 and 6.4 years in 2021 relative to 2019. CONCLUSIONS These results underscore the disproportionate share of deaths experienced by Native Americans: a loss in life expectancy at birth in 2020 that is more than three years above that for Whites and about 1.5 years above the losses for the Black and Latino populations. Despite a successful vaccination campaign among Native Americans, the estimated loss in life expectancy at birth in 2021 unexpectedly exceeds that in 2020. CONTRIBUTION The increased loss in life expectancy in 2021, despite higher vaccination rates than in other racial/ethnic groups, highlights the huge challenges faced by Native Americans in their efforts to control the deleterious consequences of the pandemic.",
+  "authors": [
+    {
+      "raw": "Goldman, Noreen",
+      "family": "Goldman",
+      "given": "Noreen"
+    },
+    {
+      "raw": "Andrasfay, Theresa",
+      "family": "Andrasfay",
+      "given": "Theresa"
+    }
+  ],
+  "authors_text": "Goldman, Noreen; Andrasfay, Theresa",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.9",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Religion and Fertility in Contemporary Northern Ireland",
+  "abstract": "Northern Ireland has been and continues to be deeply divided on the basis of religion. This paper examines and compares contemporary fertility in the two communities given the sharp declines that have occurred in recent decades. The data are drawn from the Northern Ireland Longitudinal Study and cover 108,000 women aged 16-44 in the period 1997-2007. A logit analysis of births in the period is undertaken based on individual demographic data and also the characteristics of the locality in which the woman is resident. The effect of religion is measured by its individual marginal effect averaged over the total sample, over time and by the age of the woman. The estimated average marginal effect is 4 % of the probability of a woman having a birth over the entire period. The effect peaks when the woman is between 29 and 30 years and is stable over time. When the fertility behaviour of each religious group is compared separately with those women that came from the same background but had lost their religion, it is found to differ substantially. Thus, community background is rejected as a possible explanation of the difference in fertility between declared Catholics and Protestants. Although the fertility rates of former Catholics and Protestants appear to be converging, the size of these groups is relatively small. There is no evidence to suggest that the small but distinct difference in the fertility rates of the two religious communities is likely to change in the immediate future.",
+  "authors": [
+    {
+      "raw": "McGregor, Patrick",
+      "family": "McGregor",
+      "given": "Patrick"
+    },
+    {
+      "raw": "McKee, Patricia",
+      "family": "McKee",
+      "given": "Patricia"
+    }
+  ],
+  "authors_text": "McGregor, Patrick; McKee, Patricia",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2016,
+  "doi": "10.1007/s10680-016-9399-8",
+  "doi_url": "https://doi.org/10.1007/s10680-016-9399-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-016-9399-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-016-9399-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

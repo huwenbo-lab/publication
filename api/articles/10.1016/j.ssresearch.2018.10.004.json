@@ -1,0 +1,30 @@
+{
+  "title": "Black-white differences in happiness, 1972-2014",
+  "abstract": "This paper examines the extent to which the black-white gap in happiness an important indicator of subjective well-being has narrowed over the 1972 to 2014 period. Analyzing data from the General Social Survey, we find that that the difference in levels of happiness between whites and blacks is substantial, but declined over time. Results from a decomposition analysis shed new light on the sources of change. We find that observable differences in characteristics of whites and blacks explain a significant and growing proportion of the happiness gap. The two most important characteristics are income and marital status, as both are strongly associated with race and happiness, and the proportion of the difference in the gap that they explain has generally increased over time. Overall, the declining gap in happiness is consistent with the moderate narrowing of substantial racial disparities in other realms, such as life expectancy, residential segregation, and neighborhood conditions, suggesting small steps toward equality in some realms, even as high levels of inequality persist in others.",
+  "authors": [
+    {
+      "raw": "Iceland, John",
+      "family": "Iceland",
+      "given": "John"
+    },
+    {
+      "raw": "Ludwig-Dehm, Sarah",
+      "family": "Ludwig-Dehm",
+      "given": "Sarah"
+    }
+  ],
+  "authors_text": "Iceland, John; Ludwig-Dehm, Sarah",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.10.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.10.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.10.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.10.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

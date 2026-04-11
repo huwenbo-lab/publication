@@ -1,0 +1,30 @@
+{
+  "title": "Top Wealth and Its Historical Origins: Identifying Entrenched Fortunes by Linking Rich Lists over 100 Years",
+  "abstract": "The authors examine the historical origins of Germany’s 1,032 largest fortunes. The innovation of this research is to link a rich list from 2019 with rich lists from 1913 and genealogical data provided in Wikidata. The authors find a remarkable historical continuity of large fortunes despite two world wars, the Great Depression, regime changes, and different currency reforms. One third of the companies associated with today’s largest fortunes were founded before World War I. About 8 percent of today’s fortunes can be traced back to fortunes on rich lists from 1913. Regression analyses show that these entrenched fortunes rank on average higher on the rich list than fortunes of younger origin. Network analyses indicate that some of today’s largest fortunes are intertwined through marital lines, hinting at social closure at the top. These findings indicate that the accumulation and perpetuation of fortunes over many generations is an important feature of top wealth in Germany.",
+  "authors": [
+    {
+      "raw": "Tisch, Daria",
+      "family": "Tisch",
+      "given": "Daria"
+    },
+    {
+      "raw": "Ischinsky, Emma",
+      "family": "Ischinsky",
+      "given": "Emma"
+    }
+  ],
+  "authors_text": "Tisch, Daria; Ischinsky, Emma",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231192774",
+  "doi_url": "https://doi.org/10.1177/23780231231192774",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231192774",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231192774.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Distinguishing social mechanisms of membership adoption in emerging technology communities",
+  "abstract": "Digital platforms that enable and foster associations and sharing among entrepreneurs and knowledge workers have become a vital part of the new knowledge economy, yet we know little about the new form of social organization of knowledge. This paper seeks to explore and evaluate two microscopic social mechanisms, namely network effect of recruitment and cultural affinity, that may produce knowledge clustering and differentiation within these communities. To understand the relative effect of mechanisms, we develop a novel estimation procedure that matches individual users based on their historical behavioral patterns. We collected and analyzed a largescale event dataset from a digital platform for offline in-person meetups in two major U.S. cities, New York City and San Francisco Bay Area. We found that previous methods overestimate network effect in membership adoption decisions by 176%. Our findings show that the network effect is further amplified by varied levels of cultural affinity between individuals and groups, implying a clustering effect whereby individuals tend to gravitate towards groups that are culturally proximate. Implications for understanding social differentiation and the knowledge economy are discussed.",
+  "authors": [
+    {
+      "raw": "Shi, Qianyi",
+      "family": "Shi",
+      "given": "Qianyi"
+    },
+    {
+      "raw": "Shi, Yongren",
+      "family": "Shi",
+      "given": "Yongren"
+    }
+  ],
+  "authors_text": "Shi, Qianyi; Shi, Yongren",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102917",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102917",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102917",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102917.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

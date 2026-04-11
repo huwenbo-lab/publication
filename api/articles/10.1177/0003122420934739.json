@@ -1,0 +1,40 @@
+{
+  "title": "Socially-Structured Mobility Networks and School Segregation Dynamics: The Role of Emergent Consideration Sets",
+  "abstract": "This study proposes and applies a novel method for empirically evaluating the role of social structure in the school sorting process. We use administrative records from Baltimore City and suburban Baltimore County public elementary schools (2011 to 2015) to generate a network of schools based on student transfers. We then apply repeated calculations of the Louvian method of community detection to estimate emergent sets of schools that similar parents are likely to consider-which we termemergent consideration sets-and use gravity models to explore the role of social structure, demographics, and geography in observed enrollment patterns. We find that our network-derived emergent consideration sets are better defined by structural boundaries than by student composition or proficiency alone. Within consideration sets, students tend to avoid schools with relatively higher levels of free- and reduced-price meal eligibility and flock toward schools with higher proficiency levels. School racial composition, however, plays a much smaller role in predicting movement between schools, in part because structural constraints generate racially homogeneous consideration sets. Together, these findings highlight how regional social and geographic organization shapes school segregation processes and the policies used to combat them.",
+  "authors": [
+    {
+      "raw": "Burdick-Will, Julia",
+      "family": "Burdick-Will",
+      "given": "Julia"
+    },
+    {
+      "raw": "Grigg, Jeffrey A.",
+      "family": "Grigg",
+      "given": "Jeffrey A."
+    },
+    {
+      "raw": "Nerenberg, Kiara Millay",
+      "family": "Nerenberg",
+      "given": "Kiara Millay"
+    },
+    {
+      "raw": "Connolly, Faith",
+      "family": "Connolly",
+      "given": "Faith"
+    }
+  ],
+  "authors_text": "Burdick-Will, Julia; Grigg, Jeffrey A.; Nerenberg, Kiara Millay; Connolly, Faith",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1177/0003122420934739",
+  "doi_url": "https://doi.org/10.1177/0003122420934739",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122420934739",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122420934739.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

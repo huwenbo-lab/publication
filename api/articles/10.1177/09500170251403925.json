@@ -1,0 +1,25 @@
+{
+  "title": "Social Class in the Post-Industrial Labour Market: Assessing the Contemporary Relevance of the Erikson–Goldthorpe–Portocarero Class Schema",
+  "abstract": "This article examines whether the EGP (Erikson–Goldthorpe–Portocarero) schema and its reliance on employment relations remain relevant in today’s post-industrial labour market. Ongoing shifts in work structures and employment conditions may challenge the relationship between employment relations and class distinctions as defined by EGP. Prior studies have validated that employment relations correlate with EGP classes; however, they have not explored other class-defining factors, potentially overlooking important dimensions. Building on this, the present study employs Lasso regression – a machine learning method – and leverages indicators encompassing employment relations, work conditions, skills and socio-demographics to enable a comprehensive, albeit exploratory, analysis of factors underlying EGP class. The findings reveal that class distinctions may be shaped more by job characteristics, sector and gender than by the theoretically proposed employment relations. The results suggest a conflation of employment relations with tasks within the EGP schema, highlighting the need for re-evaluation as the labour market evolves.",
+  "authors": [
+    {
+      "raw": "Kristensson, Karin",
+      "family": "Kristensson",
+      "given": "Karin"
+    }
+  ],
+  "authors_text": "Kristensson, Karin",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2026,
+  "doi": "10.1177/09500170251403925",
+  "doi_url": "https://doi.org/10.1177/09500170251403925",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170251403925",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170251403925.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

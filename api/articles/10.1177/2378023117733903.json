@@ -1,0 +1,30 @@
+{
+  "title": "Testing a Digital Inequality Model for Online Political Participation",
+  "abstract": "Increasing Internet use is changing the way individuals take part in society. However, a general mobilizing effect of the Internet on political participation has been difficult to demonstrate. This study takes a digital inequality perspective and analyzes the role of Internet expertise for the social structuration of online political participation. Analyses rely on two nationally representative surveys in Switzerland and use cluster analysis and structural equation modeling. A distinct group of political online participants emerged characterized by high education and income. Further, online political participation is predicted by political interest and Internet skills, which increasingly mediated the effects of social position. Digital information policies should therefore consider Internet skills and effective use, particularly in marginalized social groups, to avoid reinforcing traditional participatory inequalities in the digital society.",
+  "authors": [
+    {
+      "raw": "Büchi, Moritz",
+      "family": "Büchi",
+      "given": "Moritz"
+    },
+    {
+      "raw": "Vogler, Florian",
+      "family": "Vogler",
+      "given": "Florian"
+    }
+  ],
+  "authors_text": "Büchi, Moritz; Vogler, Florian",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2017,
+  "doi": "10.1177/2378023117733903",
+  "doi_url": "https://doi.org/10.1177/2378023117733903",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023117733903",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023117733903.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

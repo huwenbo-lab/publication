@@ -1,0 +1,40 @@
+{
+  "title": "Educational Variations in Cohort Trends in the Black-White Earnings Gap Among Men: Evidence From Administrative Earnings Data",
+  "abstract": "Despite efforts to improve the labor market situation of African Americans, the racial earnings gap has endured in the United States. Most prior studies on racial inequality have considered its cross-sectional or period patterns. This study adopts a demographic perspective to examine the evolution of earnings trajectories among white and black men across cohorts in the United States. Using more than 40 years of longitudinal earnings records from the U.S. Social Security Administration matched to the Survey of Income and Program Participation, our analyses reveal that the cohort trends in the racial earnings gap follow quite different patterns by education. Race continues to be a salient dimension of economic inequality over the life course and across cohorts, particularly at the top and the bottom of the educational distribution. Although the narrowing of the racial gap among high school graduates is in itself a positive development, it unfortunately derives primarily from the deteriorating economic position for whites without a college degree rather than an improvement in economic standing of their black counterparts.",
+  "authors": [
+    {
+      "raw": "Cheng, Siwei",
+      "family": "Cheng",
+      "given": "Siwei"
+    },
+    {
+      "raw": "Tamborini, Christopher R.",
+      "family": "Tamborini",
+      "given": "Christopher R."
+    },
+    {
+      "raw": "Kim, ChangHwan",
+      "family": "Kim",
+      "given": "ChangHwan"
+    },
+    {
+      "raw": "Sakamoto, Arthur",
+      "family": "Sakamoto",
+      "given": "Arthur"
+    }
+  ],
+  "authors_text": "Cheng, Siwei; Tamborini, Christopher R.; Kim, ChangHwan; Sakamoto, Arthur",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00827-w",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00827-w",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00827-w",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00827-w.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

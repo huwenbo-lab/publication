@@ -1,0 +1,35 @@
+{
+  "title": "Understanding the “Russian Mortality Paradox” in Central Asia: Evidence from Kyrgyzstan",
+  "abstract": "AbstractIn the former Soviet republics of central Asia, ethnic Russians have exhibited higher adult mortality than native ethnic groups (e.g., Kazakh, Kyrgyz, Uzbek) in spite of the higher socioeconomic status of ethnic Russians. The mortality disadvantage of ethnic Russians at adult ages appears to have even increased since the breakup of the Soviet Union. The most common explanation for this “Russian mortality paradox,” is that deaths are better reported among ethnic Russians. In this study, we use detailed mortality data from Kyrgyzstan between 1959 and 1999 to evaluate various explanations for the Russian mortality paradox: data artifacts, migration effects, and cultural effects. We find that the most plausible explanation is the cultural hypothesis because the personal behaviors that appear to generate a large part of the observed mortality differences (alcohol consumption, in particular) seem to be closely tied to cultural practices. We examine the implications of this finding for understanding the health crisis in post-Soviet states.",
+  "authors": [
+    {
+      "raw": "Guillot, Michel",
+      "family": "Guillot",
+      "given": "Michel"
+    },
+    {
+      "raw": "Gavrilova, Natalia",
+      "family": "Gavrilova",
+      "given": "Natalia"
+    },
+    {
+      "raw": "Pudrovska, Tetyana",
+      "family": "Pudrovska",
+      "given": "Tetyana"
+    }
+  ],
+  "authors_text": "Guillot, Michel; Gavrilova, Natalia; Pudrovska, Tetyana",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0036-1",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0036-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0036-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0036-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

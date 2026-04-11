@@ -1,0 +1,40 @@
+{
+  "title": "Education-Based Status in Comparative Perspective: The Legitimization of Education as a Basis for Social Stratification",
+  "abstract": "Classical and recent accounts of education posit that education legitimately, and authoritatively, classifies individuals to positions of lower or higher status. However, despite these general theoretical claims, empirical evidence that provides an in-depth picture of the relationship between educational attainment and social status remains scarce. In this paper, based on a dataset of 31 countries (International Social Survey Programme), we investigate the extent to which education is related to subjective social status, the degree to which this is seen as legitimate, and how this relationship varies between countries. We contextualize this relationship with the influence of the centrality of education in countries (operationalized as the share of higher educated). Results showed that education is an important source of subjective social status for individuals across all countries, and is seen as relatively legitimate and uncontroversial among all educational groups. Moreover, among those who perceive education to be more important for status, subjective status differences between educational groups are larger. Additionally, in countries with larger shares of higher educated, educational differences in subjective social status correlate more strongly with whether or not people obtained a degree of higher (tertiary) education. Lastly, the relationship between education and subjective social status in these countries is more independent from other sources of status, such as income and gender. It therefore seems to be that as higher education becomes more central and widely shared in a society, rather than leveling social differences, ironically it also becomes more distinctive and diagnostic in distinguishing people along group lines.",
+  "authors": [
+    {
+      "raw": "van Noord, Jochem",
+      "family": "van Noord",
+      "given": "Jochem"
+    },
+    {
+      "raw": "Spruyt, Bram",
+      "family": "Spruyt",
+      "given": "Bram"
+    },
+    {
+      "raw": "Kuppens, Toon",
+      "family": "Kuppens",
+      "given": "Toon"
+    },
+    {
+      "raw": "Spears, Russell",
+      "family": "Spears",
+      "given": "Russell"
+    }
+  ],
+  "authors_text": "van Noord, Jochem; Spruyt, Bram; Kuppens, Toon; Spears, Russell",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2019,
+  "doi": "10.1093/sf/soz012",
+  "doi_url": "https://doi.org/10.1093/sf/soz012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoz012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soz012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Educational Attainment and Adult Mortality in the United States: A Systematic Analysis of Functional Form",
+  "abstract": "AbstractA vast literature has documented the inverse association between educational attainment and U.S. adult mortality risk but given little attention to identifying the optimal functional form of the association. A theoretical explanation of the association hinges on our ability to describe it empirically. Using the 1979–1998 National Longitudinal Mortality Study for non-Hispanic white and black adults aged 25–100 years during the mortality follow-up period (N = 1,008,215), we evaluated 13 functional forms across race-gender-age subgroups to determine which form(s) best captured the association. Results revealed that the preferred functional form includes a linear decline in mortality risk from 0 to 11 years of education, followed by a step-change reduction in mortality risk upon attainment of a high school diploma, at which point mortality risk resumes a linear decline but with a steeper slope than that prior to a high school diploma. The findings provide important clues for theoretical development of explanatory mechanisms: an explanation for the selected functional form may require integrating a credentialist perspective to explain the step-change reduction in mortality risk upon attainment of a high school diploma, with a human capital perspective to explain the linear declines before and after a high school diploma.",
+  "authors": [
+    {
+      "raw": "Montez, Jennifer Karas",
+      "family": "Montez",
+      "given": "Jennifer Karas"
+    },
+    {
+      "raw": "Hummer, Robert A.",
+      "family": "Hummer",
+      "given": "Robert A."
+    },
+    {
+      "raw": "Hayward, Mark D.",
+      "family": "Hayward",
+      "given": "Mark D."
+    }
+  ],
+  "authors_text": "Montez, Jennifer Karas; Hummer, Robert A.; Hayward, Mark D.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-011-0082-8",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0082-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0082-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0082-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

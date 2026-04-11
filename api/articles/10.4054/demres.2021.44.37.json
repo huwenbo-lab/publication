@@ -1,0 +1,30 @@
+{
+  "title": "Has contraceptive use at pregnancy an effect on the odds of spontaneous termination and induced abortion? Evidence from Demographic and Health Surveys",
+  "abstract": "BACKGROUND Contraceptive failure increases the chances of pregnancy termination, including both induced abortions and spontaneous terminations. Proper separation requires accounting for competing risks of pregnancy outcomes. OBJECTIVE To measure the differential risk of spontaneous termination and induced abortion according to contraceptive use prior to pregnancy based on pooled Demographic and Health Survey calendar data. METHODS We use multinomial logistic models controlling for demographic and socioeconomic variables to estimate the differential risk of spontaneous termination and induced abortion according to contraceptive use at the time of pregnancy. We address data limitations including recall error, omission error, and possible misclassification of outcomes. RESULTS We find higher risk of induced abortion (RRR = 7.18, CI = 6.38-8.09) and spontaneous termination (RRR = 1.38, CI = 1.13-1.69) after contraceptive failure, with stronger effect for women under 30. Parity, union status, education, and wealth have a strong effect on induced abortion. Regarding spontaneous termination, age mainly explains the increased risk. CONCLUSIONS Since pregnancies following contraceptive failure are less likely to end in a live birth, aggregate models of the impact of family planning should reflect that contraceptive use and induced abortion conform interdependent strategies and that spontaneous termination is a competing risk of induced abortion. CONTRIBUTION This is the first study reporting differences in the risk of spontaneous termination and induced abortion according to contraceptive use prior to pregnancy. We account for competing risks using a multinomial logit model of pregnancy outcomes conditional on pregnancy, new in the literature. Data limitations are addressed in novel ways.",
+  "authors": [
+    {
+      "raw": "Sanchez-Paez, David A.",
+      "family": "Sanchez-Paez",
+      "given": "David A."
+    },
+    {
+      "raw": "Antonio Ortega, Jose",
+      "family": "Antonio Ortega",
+      "given": "Jose"
+    }
+  ],
+  "authors_text": "Sanchez-Paez, David A.; Antonio Ortega, Jose",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.37",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.37",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.37",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.37.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Asymmetric Alliances in Climate Misinformation: A Network Analysis of the Swedish Climate Change Countermovement",
+  "abstract": "Climate change countermovements (CCCMs) play a central role in spreading misinformation and delaying policy action. Although most research has focused on the United States, less is known about CCCM networks in other national contexts. The authors analyze the Swedish online CCCM using social network analysis to (1) examine its structure and composition; (2) assess potential hierarchical influences, including how narratives flow from global think tanks to informal social media groups; and (3) identify distinct ideological groupings within the network. This exploratory analysis reveals four main communities, ranging from traditional climate-skeptic platforms to conspiracy theorists and far-right extremists. These alliances are asymmetric: although traditional climate-skeptic sites receive substantial attention from other groups, they link primarily to international sources and scientific content, serving as hubs that channel global CCCM discourse into Sweden. This asymmetric convergence highlights how climate denial is embedded within broader populist and far-right networks, not through ideological unity, but through shared antagonism. By mapping the structure and dynamics of the Swedish CCCM, the study underscores the transnational character of climate misinformation and its entanglement with domestic political currents.",
+  "authors": [
+    {
+      "raw": "Törnberg, Anton",
+      "family": "Törnberg",
+      "given": "Anton"
+    },
+    {
+      "raw": "Vallström, Victoria",
+      "family": "Vallström",
+      "given": "Victoria"
+    }
+  ],
+  "authors_text": "Törnberg, Anton; Vallström, Victoria",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251360822",
+  "doi_url": "https://doi.org/10.1177/23780231251360822",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251360822",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251360822.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

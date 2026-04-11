@@ -1,0 +1,35 @@
+{
+  "title": "The Generational Boundaries of Educational Advantage: Does Great-Grandparent Educational Attainment Predict Great-Grandchild Early Academic Achievement?",
+  "abstract": "It remains unclear how far back the intergenerational transmission of educational advantage operates because most inquiries are limited to two or three generations. In this study, the authors use four generations of family data from the Panel Study of Income Dynamics to examine the association of great-grandparents’ educational attainment with their great-grandchildren’s early academic achievement, net of intervening generations’ educational attainments. The authors find that the relationship between great-grandparent educational attainment and great-grandchild early academic achievement is nonlinear, modest, and accounted for entirely by the educational attainment of intervening generations and great-grandchild demographic characteristics. Thus, for early academic achievement, the direct transmission of intergenerational educational advantage is limited to three generations in these data.",
+  "authors": [
+    {
+      "raw": "Evans, Megan",
+      "family": "Evans",
+      "given": "Megan"
+    },
+    {
+      "raw": "Daw, Jonathan",
+      "family": "Daw",
+      "given": "Jonathan"
+    },
+    {
+      "raw": "Gaddis, S. Michael",
+      "family": "Gaddis",
+      "given": "S. Michael"
+    }
+  ],
+  "authors_text": "Evans, Megan; Daw, Jonathan; Gaddis, S. Michael",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211060573",
+  "doi_url": "https://doi.org/10.1177/23780231211060573",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211060573",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211060573.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

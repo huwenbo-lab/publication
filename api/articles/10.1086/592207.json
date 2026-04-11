@@ -1,0 +1,35 @@
+{
+  "title": "Gene by Social Context Interactions for Number of Sexual Partners among White Male Youths: Genetics-Informed Sociology",
+  "abstract": "This study sets out to investigate whether introducing molecular genetic measures into an analysis of sexual partner variety will yield novel sociological insights. The data source is the white male DNA sample in the National Longitudinal Study of Adolescent Health. The authors' empirical gene-environment interaction analysis produces a robust protective effect of the 9R/9R genotype relative to the Any10R genotype in the dopamine transporter gene (DAT1). This protective effect tends to be lost in schools in which higher proportions of students start having sex early, as well as in individuals with relatively low cognitive ability. The genetics-informed sociological analysis here suggests that explaining a human trait or behavior may require a theory that accommodates the complex interplay between social contextual and individual influences and genetic predispositions.",
+  "authors": [
+    {
+      "raw": "Guo, Guang",
+      "family": "Guo",
+      "given": "Guang"
+    },
+    {
+      "raw": "Tong, Yuying",
+      "family": "Tong",
+      "given": "Yuying"
+    },
+    {
+      "raw": "Cai, Tianji",
+      "family": "Cai",
+      "given": "Tianji"
+    }
+  ],
+  "authors_text": "Guo, Guang; Tong, Yuying; Cai, Tianji",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2008,
+  "doi": "10.1086/592207",
+  "doi_url": "https://doi.org/10.1086/592207",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F592207",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/592207.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

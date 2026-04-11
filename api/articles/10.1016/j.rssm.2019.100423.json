@@ -1,0 +1,35 @@
+{
+  "title": "Occupational status and organizations: Variation in occupational hierarchies across Swedish workplaces",
+  "abstract": "A foundational claim in social stratification research is that occupational hierarchies are largely invariant across societies, a phenomenon known as the Treiman constant. However, recent research in social stratification has focused on the role of local social spaces in generating inequalities, casting doubt on the validity of the idea of a universally invariant occupational hierarchy. In this paper, we focus on organizations as a local space in which occupational hierarchies may vary. We ask three questions: (1) do occupational hierarchies vary across workplaces, (2) why do occupational hierarchies vary across workplaces, and (3) what can explain why some occupations move up or down the occupational hierarchy in specific workplace contexts? Using novel administrative data from Sweden we measure and model the correlation between a workplace's occupational hierarchy and the national occupational hierarchy, finding substantial variation across workplaces in the matching of a given workplace's hierarchy to the national hierarchy. We then develop a set of contextual and relational variables at the organizational level to potentially explain this variation, as well as to explain which occupations move up or down the workplace hierarchy. This paper points toward an important and novel empirical finding - variation across workplaces in occupational hierarchies - both confirming the power of the Treiman constant while opening up avenues to explore deviations from it. It also reveals the need to develop theories than can explain this workplace-level variation.",
+  "authors": [
+    {
+      "raw": "Avent-Holt, Dustin",
+      "family": "Avent-Holt",
+      "given": "Dustin"
+    },
+    {
+      "raw": "Hallsten, Martin",
+      "family": "Hallsten",
+      "given": "Martin"
+    },
+    {
+      "raw": "Cort, David",
+      "family": "Cort",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Avent-Holt, Dustin; Hallsten, Martin; Cort, David",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2019.100423",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2019.100423",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2019.100423",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2019.100423.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

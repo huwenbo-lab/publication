@@ -1,0 +1,25 @@
+{
+  "title": "Does Union Dissolution Lead to Unemployment? A Longitudinal Study of Health and Risk of Unemployment for Women and Men Undergoing Separation",
+  "abstract": "Research on the socio-economic consequences of divorce or union dissolution has largely focused on women's loss of income after separation. Scant attention has been paid to the effects of union dissolution on individuals’ employment. Expanding the literature on the interlocked effects of divorce and health on labour market outcomes, the aim of this paper is to examine the consequences of union dissolution on employment for both women and men. The data on which this study is based are drawn from the Swiss Household Panel (SHP) study. Using Cox proportional hazards regression models, I estimate the effects of union disruption on unemployment for employed men and women in a marriage or cohabitating union over the period of 1999–2004. Findings indicate that individuals whose unions end are at a greater risk of unemployment compared to their married/cohabiting counterparts. Results also suggest the presence of relevant gender differences in the ways in which women and men experience union dissolution in relation to their labour market position. Men's hazard of unemployment is higher than that of their female counterparts, even after controlling for crucial gendered variables.",
+  "authors": [
+    {
+      "raw": "Covizzi, I.",
+      "family": "Covizzi",
+      "given": "I."
+    }
+  ],
+  "authors_text": "Covizzi, I.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1093/esr/jcn006",
+  "doi_url": "https://doi.org/10.1093/esr/jcn006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

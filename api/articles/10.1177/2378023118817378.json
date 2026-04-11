@@ -1,0 +1,75 @@
+{
+  "title": "Improving Metadata Infrastructure for Complex Surveys: Insights from the Fragile Families Challenge",
+  "abstract": "Researchers rely on metadata systems to prepare data for analysis. As the complexity of data sets increases and the breadth of data analysis practices grow, existing metadata systems can limit the efficiency and quality of data preparation. This article describes the redesign of a metadata system supporting the Fragile Families and Child Wellbeing Study on the basis of the experiences of participants in the Fragile Families Challenge. The authors demonstrate how treating metadata as data (i.e., releasing comprehensive information about variables in a format amenable to both automated and manual processing) can make the task of data preparation less arduous and less error prone for all types of data analysis. The authors hope that their work will facilitate new applications of machine-learning methods to longitudinal surveys and inspire research on data preparation in the social sciences. The authors have open-sourced the tools they created so that others can use and improve them.",
+  "authors": [
+    {
+      "raw": "Kindel, Alexander T.",
+      "family": "Kindel",
+      "given": "Alexander T."
+    },
+    {
+      "raw": "Bansal, Vineet",
+      "family": "Bansal",
+      "given": "Vineet"
+    },
+    {
+      "raw": "Catena, Kristin D.",
+      "family": "Catena",
+      "given": "Kristin D."
+    },
+    {
+      "raw": "Hartshorne, Thomas H.",
+      "family": "Hartshorne",
+      "given": "Thomas H."
+    },
+    {
+      "raw": "Jaeger, Kate",
+      "family": "Jaeger",
+      "given": "Kate"
+    },
+    {
+      "raw": "Koffman, Dawn",
+      "family": "Koffman",
+      "given": "Dawn"
+    },
+    {
+      "raw": "McLanahan, Sara",
+      "family": "McLanahan",
+      "given": "Sara"
+    },
+    {
+      "raw": "Phillips, Maya",
+      "family": "Phillips",
+      "given": "Maya"
+    },
+    {
+      "raw": "Rouhani, Shiva",
+      "family": "Rouhani",
+      "given": "Shiva"
+    },
+    {
+      "raw": "Vinh, Ryan",
+      "family": "Vinh",
+      "given": "Ryan"
+    },
+    {
+      "raw": "Salganik, Matthew J.",
+      "family": "Salganik",
+      "given": "Matthew J."
+    }
+  ],
+  "authors_text": "Kindel, Alexander T.; Bansal, Vineet; Catena, Kristin D.; Hartshorne, Thomas H.; Jaeger, Kate; Koffman, Dawn; McLanahan, Sara; Phillips, Maya; Rouhani, Shiva; Vinh, Ryan; Salganik, Matthew J.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118817378",
+  "doi_url": "https://doi.org/10.1177/2378023118817378",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118817378",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118817378.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

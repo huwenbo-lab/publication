@@ -1,0 +1,40 @@
+{
+  "title": "Intrahousehold Resource Allocation: Do Parents Reduce or Reinforce Child Ability Gaps?",
+  "abstract": "Abstract Do parents invest more or less in their high-ability children? We provide new evidence on this question by comparing observed ability differences and observed investment differences between siblings living in the United States. To overcome endogeneity issues, we use sibling differences in handedness as an instrument for cognitive ability differences. We find that parents invest more in high-ability children, with a 1 standard deviation increase in child cognitive ability increasing parental investments by approximately one-third of a standard deviation. Consequently, differences in child cognitive ability are enhanced by differential parental investments.",
+  "authors": [
+    {
+      "raw": "Frijters, Paul",
+      "family": "Frijters",
+      "given": "Paul"
+    },
+    {
+      "raw": "Johnston, David W.",
+      "family": "Johnston",
+      "given": "David W."
+    },
+    {
+      "raw": "Shah, Manisha",
+      "family": "Shah",
+      "given": "Manisha"
+    },
+    {
+      "raw": "Shields, Michael A.",
+      "family": "Shields",
+      "given": "Michael A."
+    }
+  ],
+  "authors_text": "Frijters, Paul; Johnston, David W.; Shah, Manisha; Shields, Michael A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0224-2",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0224-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0224-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0224-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

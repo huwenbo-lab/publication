@@ -1,0 +1,40 @@
+{
+  "title": "Good Gig, Bad Gig: Autonomy and Algorithmic Control in the Global Gig Economy",
+  "abstract": "This article evaluates the job quality of work in the remote gig economy. Such work consists of the remote provision of a wide variety of digital services mediated by online labour platforms. Focusing on workers in Southeast Asia and Sub-Saharan Africa, the article draws on semi-structured interviews in six countries ( N = 107) and a cross-regional survey ( N = 679) to detail the manner in which remote gig work is shaped by platform-based algorithmic control. Despite varying country contexts and types of work, we show that algorithmic control is central to the operation of online labour platforms. Algorithmic management techniques tend to offer workers high levels of flexibility, autonomy, task variety and complexity. However, these mechanisms of control can also result in low pay, social isolation, working unsocial and irregular hours, overwork, sleep deprivation and exhaustion.",
+  "authors": [
+    {
+      "raw": "Wood, Alex J",
+      "family": "Wood",
+      "given": "Alex J"
+    },
+    {
+      "raw": "Graham, Mark",
+      "family": "Graham",
+      "given": "Mark"
+    },
+    {
+      "raw": "Lehdonvirta, Vili",
+      "family": "Lehdonvirta",
+      "given": "Vili"
+    },
+    {
+      "raw": "Hjorth, Isis",
+      "family": "Hjorth",
+      "given": "Isis"
+    }
+  ],
+  "authors_text": "Wood, Alex J; Graham, Mark; Lehdonvirta, Vili; Hjorth, Isis",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2018,
+  "doi": "10.1177/0950017018785616",
+  "doi_url": "https://doi.org/10.1177/0950017018785616",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017018785616",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017018785616.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

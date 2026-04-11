@@ -1,0 +1,40 @@
+{
+  "title": "Polygenic Prediction of Education and Its Role in the Intergenerational Transmission of Education: Cohort Changes Among Finn ish Men and Women Born in 1925-1989",
+  "abstract": "Major changes in the edu ca tional dis tri bu tion of the pop u la tion and in insti tu tions over the past cen tury have affected the soci e tal bar ri ers to edu ca tional attain ment. These changes can pos si bly result in stron ger genetic asso ci a tions. Using genetically informed, population-representative Finnish surveys linked to administra-tive registers, we investigated the polygenic associations and intergenerational trans-mis sion of edu ca tion for those born between 1925 and 1989. First, we found that a poly genic index (PGI) designed to cap ture genetic pre dis po si tion to edu ca tion strongly increased the predictiveness of edu ca tional attain ment in pre-1950s cohorts, par tic u-larly among women. When decomposing the total con tri bu tion of PGI across dif fer-ent edu ca tional tran si tions, the tran si tion between the basic and aca demic sec ond ary tracks was the most impor tant. This tran si tion accounted for 60-80% of the total PGI- education association among most cohorts. The transition between academic secondary and higher ter tiary lev els increased its con tri bu tion across cohorts. Second, for cohorts born between 1955 and 1984, we observed that one eighth of the asso ci a tion between paren tal and one's own edu ca tion is explained by the PGI. There was also an increase in the inter gen er a tional cor re la tion of edu ca tion among these cohorts, which was partly explained by an increas ing asso ci a tion between fam ily edu ca tion of ori gin and the PGI.",
+  "authors": [
+    {
+      "raw": "Lahtinen, Hannu",
+      "family": "Lahtinen",
+      "given": "Hannu"
+    },
+    {
+      "raw": "Korhonen, Kaarina",
+      "family": "Korhonen",
+      "given": "Kaarina"
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    },
+    {
+      "raw": "Morris, Tim",
+      "family": "Morris",
+      "given": "Tim"
+    }
+  ],
+  "authors_text": "Lahtinen, Hannu; Korhonen, Kaarina; Martikainen, Pekka; Morris, Tim",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10963788",
+  "doi_url": "https://doi.org/10.1215/00703370-10963788",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10963788",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10963788.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

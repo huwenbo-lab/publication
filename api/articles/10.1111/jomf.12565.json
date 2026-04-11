@@ -1,0 +1,35 @@
+{
+  "title": "What's Mine Is Ours? Income Pooling in American Families",
+  "abstract": "Objective: The objective of this study is to determine whether income-pooling strategies differ between married and cohabiting individuals without children, only biological children, or any stepchildren. Background: Americans are forming families in new ways via cohabitation and stepfamilies, which may have implications for resource pooling. Although a majority of married and cohabiting couples pool their incomes, little is known about the role of children in couple's income-pooling behaviors. Method: The authors use recently collected, nationally representative data from the Families and Relationships Study (n = 4,362). Controlling for sociodemographic, household, and relationship characteristics, the authors use logistic regression to predict the odds of income pooling among married and cohabiting individuals without children, only biological children, or any stepchildren. Results: The likelihood of income pooling remained similar among cohabitors regardless of the configuration of children in the household. Among married families, however, the likelihood of income pooling differed by the presence of resident stepchildren. Married families with resident stepchildren had a lower probability of pooling their income when compared with married families with only resident biological children. Conclusion: The ways economic resources are shared differs across family types. The findings from this study are consistent with an incomplete institutionalization perspective and demonstrate that individuals in cohabiting-couple families and married-couple families with resident stepchildren are less likely to pool their incomes.",
+  "authors": [
+    {
+      "raw": "Eickmeyer, Kasey J.",
+      "family": "Eickmeyer",
+      "given": "Kasey J."
+    },
+    {
+      "raw": "Manning, Wendy D.",
+      "family": "Manning",
+      "given": "Wendy D."
+    },
+    {
+      "raw": "Brown, Susan L.",
+      "family": "Brown",
+      "given": "Susan L."
+    }
+  ],
+  "authors_text": "Eickmeyer, Kasey J.; Manning, Wendy D.; Brown, Susan L.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12565",
+  "doi_url": "https://doi.org/10.1111/jomf.12565",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12565",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12565.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

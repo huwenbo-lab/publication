@@ -1,0 +1,30 @@
+{
+  "title": "COVID-19’s Socioeconomic Impact on Low-Income Benefit Recipients: Early Evidence from Tracking Surveys",
+  "abstract": "The coronavirus disease 2019 (COVID-19) pandemic has introduced manifold dislocations in Americans’ lives. Using novel survey data samples of Supplemental Nutritional Assistance Program (SNAP) recipients and U.S. Census Bureau Household Pulse Survey data, the authors examine the incidence of COVID-19-induced hardships among low-income/benefits-eligible households during the early months of the crisis. Five repeated online surveys of SNAP recipients measured perceived and realized housing insecurity, food scarcity, new debt accrual, and recent job loss. These data were supplemented by creating parallel measures among all low-income households from Household Pulse Survey. Food insecurity and debt accrual grew more prevalent between from April to June 2020, and job losses compounded. Although the magnitude of racial differences varies across indicators and data sources, black respondents fared consistently worse than non-Hispanic whites in both survey data sets, and Latinx respondents fared worse than whites in the Household Pulse Survey. These results provide early systematic evidence on the impact of the COVID-19 crisis on poor Americans and racial disparities therein.",
+  "authors": [
+    {
+      "raw": "Enriquez, Diana",
+      "family": "Enriquez",
+      "given": "Diana"
+    },
+    {
+      "raw": "Goldstein, Adam",
+      "family": "Goldstein",
+      "given": "Adam"
+    }
+  ],
+  "authors_text": "Enriquez, Diana; Goldstein, Adam",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120970794",
+  "doi_url": "https://doi.org/10.1177/2378023120970794",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120970794",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120970794.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

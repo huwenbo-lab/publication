@@ -1,0 +1,25 @@
+{
+  "title": "The effect of concealed carry weapons laws on firearm sales",
+  "abstract": "Despite numerous studies exploring the link between concealed carry weapons (CCW) laws and the effect of more guns, more/less crime it is unknown if liberalizing CCW laws indeed influences legal firearm sales. Building on previous research, I hypothesize that liberal CWW laws are associated with increases in handgun sales while having no association with long gun sales. Using National Instant Background Check System (NICS) data as a proxy for firearm sales and state fixed-effects regression models to examine the effect of CCW laws on gun sales in all 50 states the results can be simply put: liberal CCW laws are associated with increases in handgun sales, are not associated with long gun sales, and are associated with an increase in the overall share of firearms sold that are handguns. This work supports the idea that the expansion of gun rights via liberal CCW laws has increased the rate of handgun sales in the United States, but not the rate of long gun sales. Implications for future research on firearms and policy are discussed.",
+  "authors": [
+    {
+      "raw": "Steidley, Trent",
+      "family": "Steidley",
+      "given": "Trent"
+    }
+  ],
+  "authors_text": "Steidley, Trent",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2018.12.018",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.12.018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.12.018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.12.018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

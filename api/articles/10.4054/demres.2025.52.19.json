@@ -1,0 +1,30 @@
+{
+  "title": "Tempo effects in period TFR: Inspecting the role of shape and scale variations in a cohort model",
+  "abstract": "BACKGROUND The total fertility rate (TFR) is a fundamental demographic measure widely used for assessing fertility trends in populations. However, the TFR is susceptible to distortion due to timing effects, which can confound the understanding of true fertility patterns. OBJECTIVE This study investigates the impact of changes in the distribution of fertility rates on the period total fertility rate (PTFR) from a cohort perspective. METHODS We adopt a model representation that separates the quantum (the fertility that would occur without timing changes) from the tempo (timing changes) components. Using a skewed normal distribution to fit cohort fertility schedules, we explore the impact of variations in cohort mean age at childbearing, variance, and skewness on the PTFR. Simulation studies are also conducted to investigate the transient behavior of the TFR. RESULTS We demonstrate that the tempo distortion in PTFR depends on the speed and magnitude of shifts in scale and shape parameters. Adjusting PTFR for these variations yields different results compared to adjustments based solely on mean shifts, highlighting the importance of considering all tempo parameters. CONCLUSIONS Analyzing tempo fluctuations from a cohort perspective reveals their significant impact on PTFR estimates. Additionally, it becomes evident that the changes observed at the cohort level are predominantly reflected in the period shift of the mean age at childbearing. CONTRIBUTION This research contributes to the ongoing discussion regarding the impact of cohort fertility schedule changes on PTFR. Our cohort-focused approach sheds light on the role of scale and shape variations and their implications for understanding fertility trends, emphasizing the need for a comprehensive assessment of tempo distortions in demographic analyses. The findings bear significance for policy evaluation in the context of demographic changes.",
+  "authors": [
+    {
+      "raw": "Mazzuco, Stefano",
+      "family": "Mazzuco",
+      "given": "Stefano"
+    },
+    {
+      "raw": "Zanotto, Lucia",
+      "family": "Zanotto",
+      "given": "Lucia"
+    }
+  ],
+  "authors_text": "Mazzuco, Stefano; Zanotto, Lucia",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.19",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

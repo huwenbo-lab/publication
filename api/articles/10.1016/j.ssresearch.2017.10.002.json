@@ -1,0 +1,40 @@
+{
+  "title": "Barrios, ghettos, and residential racial composition: Examining the racial makeup of neighborhood profiles and their relationship to self-rated health",
+  "abstract": "Racial/ethnic disparities in self-rated health persist and according to the social determinants of health framework, may be partially explained by residential context. The relationship between neighborhood factors and self-rated health has been examined in isolation but a more holistic approach is needed to understand how these factors may cluster together and how these neighborhood typologies relate to health. To address this gap, we conducted a latent profile analysis using data from the Chicago Community Adult Health Study (CCAHS; N = 2969 respondents in 342 neighborhood clusters) to identify neighborhood profiles, examined differences in neighborhood characteristics among the identified typologies and tested their relationship to self-rated health. Results indicated four distinct classes of neighborhoods that vary significantly on most neighborhood-level social determinants of health and can be defined by racial/ethnic composition and class. Residents in Hispanic, majority black disadvantaged, and majority black non-poor neighborhoods all had significantly poorer self-rated health when compared to majority white neighborhoods. The difference between black non-poor and white neighborhoods in self rated health was not significant when controlling for individual race/ethnicity. The results indicate that neighborhood factors do cluster by race and class of the neighborhood and that this clustering is related to poorer self-rated health.",
+  "authors": [
+    {
+      "raw": "Booth, Jaime M.",
+      "family": "Booth",
+      "given": "Jaime M."
+    },
+    {
+      "raw": "Teixeira, Samantha",
+      "family": "Teixeira",
+      "given": "Samantha"
+    },
+    {
+      "raw": "Zuberi, Anita",
+      "family": "Zuberi",
+      "given": "Anita"
+    },
+    {
+      "raw": "Wallace, John M., Jr.",
+      "family": "Wallace",
+      "given": "John M., Jr."
+    }
+  ],
+  "authors_text": "Booth, Jaime M.; Teixeira, Samantha; Zuberi, Anita; Wallace, John M., Jr.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2017.10.002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.10.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.10.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.10.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Multilevel Models in Family Research: Some Conceptual and Methodological Issues",
+  "abstract": "Examining the impact of context on individual‐level outcomes has become an increasingly common undertaking in the social sciences. The growth in concern for identifying the effects of macrolevel characteristics has generated both theoretical and methodological advancements. In this issue of Journal of Marriage and Family, Butler (2002) researches whether the effect of welfare benefit levels on premarital childbearing varies by context, Hoffmann (2002) researches the effect of context on adolescent drug use, and Simons et al. (2002) examine how the relationship between parenting and child conduct varies by context. These articles are used as a background to discuss important theoretical and methodological issues surrounding the analysis of multilevel data. The authors present a simple analysis of data pertaining to age at first marriage taken from the Panel Study of Income Dynamics and merged with census data to measure contextual effects as a pedagogical device for introducing readers to the benefits of multilevel modeling.",
+  "authors": [
+    {
+      "raw": "Teachman, Jay",
+      "family": "Teachman",
+      "given": "Jay"
+    },
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    }
+  ],
+  "authors_text": "Teachman, Jay; Crowder, Kyle",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2002,
+  "doi": "10.1111/j.1741-3737.2002.00280.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2002.00280.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2002.00280.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2002.00280.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

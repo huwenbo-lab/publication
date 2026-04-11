@@ -1,0 +1,30 @@
+{
+  "title": "Parental occupation and students? STEM achievements by gender and ethnic origin: Evidence from Germany",
+  "abstract": "Research has documented a positive association between parents' background in science, technology, engi-neering, and mathematics (STEM) and children's achievement and participation in STEM. Yet it is unclear whether girls and boys with and without migration background benefit equally from having STEM-affiliated parents, and whether this relationship varies depending on the educational stage. Using nationally representa-tive data from standardized assessment tests, we explore gender and ethnic differences in the association of parental STEM occupation and students' achievement in STEM at two educational stages (fourth and ninth grade) in Germany. Results show that parents' STEM occupation is associated only with girls' math competencies in fourth grade and boys' math and science competencies in ninth grade. After controlling for parental socio-economic status, no significant variation in this relationship can be reported by migrant generation status and ethnic origin. Eastern European students (irrespective of parents' background) perform better in STEM fields than other immigrant groups at both educational stages.",
+  "authors": [
+    {
+      "raw": "Gutfleisch, Tamara",
+      "family": "Gutfleisch",
+      "given": "Tamara"
+    },
+    {
+      "raw": "Kogan, Irena",
+      "family": "Kogan",
+      "given": "Irena"
+    }
+  ],
+  "authors_text": "Gutfleisch, Tamara; Kogan, Irena",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100735",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100735",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100735",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100735.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

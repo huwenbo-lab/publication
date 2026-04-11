@@ -1,0 +1,30 @@
+{
+  "title": "The Diversity-Bandwidth Trade-off",
+  "abstract": "The authors propose that a trade-off between network diversity and communications bandwidth regulates access to novel information because a more diverse network structure increases novelty at a cost of reducing information flow. Received novelty then depends on whether (a) the information overlap is small enough, (b) alters' topical knowledge is shallow enough, and (c) alters' knowledge stocks refresh slowly enough to justify bridging structural holes. Social network and e-mail content from an executive recruiting firm show that bridging ties can actually offer less novelty for these reasons, suggesting that the strength of weak ties and structural holes depend on brokers' information environments.",
+  "authors": [
+    {
+      "raw": "Aral, Sinan",
+      "family": "Aral",
+      "given": "Sinan"
+    },
+    {
+      "raw": "Van Alstyne, Marshall",
+      "family": "Van Alstyne",
+      "given": "Marshall"
+    }
+  ],
+  "authors_text": "Aral, Sinan; Van Alstyne, Marshall",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2011,
+  "doi": "10.1086/661238",
+  "doi_url": "https://doi.org/10.1086/661238",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F661238",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/661238.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

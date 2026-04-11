@@ -1,0 +1,30 @@
+{
+  "title": "Comparing the Role of Selection in Early Adolescent Substance Use Disparities Related to Single-Mother Family Structures Across Three Affluent Countries",
+  "abstract": "This study investigated the association between family structure and the onset of substance use by early adolescence (e.g., before age 14) in Australia, the United Kingdom, and the United States, with a focus on the role of selection in this association. Leveraging nationally representative surveys, logistic regression models estimated this association while iteratively controlling for three sets of selection mech anisms and testing for differential robustness to unobserved traits. Results revealed higher substance use rates among early adolescents living with single mothers than among those living with married mothers; early adolescents living with cohabiting mothers fell between these two groups. In general, mothers' family formation histories and, especially, socioemotional adjustment emerged as key confounds attenuating these associations, whereas their socioeconomic histories more often suppressed substance use. Unobserved confounds also appeared to be at work. Such patterns were fairly con sistent across countries, but some evidence suggests that single motherhood mattered more to early adolescent substance use (particularly alcohol) and was less selective in terms of observed and unobserved confounds in Australia, the country with the most policy buffers for families and youths facing hardship.",
+  "authors": [
+    {
+      "raw": "Thorpe, Jared D.",
+      "family": "Thorpe",
+      "given": "Jared D."
+    },
+    {
+      "raw": "Crosnoe, Robert",
+      "family": "Crosnoe",
+      "given": "Robert"
+    }
+  ],
+  "authors_text": "Thorpe, Jared D.; Crosnoe, Robert",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-12253547",
+  "doi_url": "https://doi.org/10.1215/00703370-12253547",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-12253547",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-12253547.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

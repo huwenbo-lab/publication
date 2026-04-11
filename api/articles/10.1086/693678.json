@@ -1,0 +1,35 @@
+{
+  "title": "Rethinking the Risks of Poverty: A Framework for Analyzing Prevalences and Penalties",
+  "abstract": "This article develops a framework for analyzing the risks of poverty in terms of prevalences (share of the population with a risk) and penalties (increased probability of poverty associated with a risk). A comparison of the four major risks (low education, single motherhood, young headship, and unemployment) across 29 rich democracies reveals there is greater variation in penalties than prevalences. The United States has high poverty partly because it has the highest penalties despite below average prevalences. Also, U.S. poverty in 2013 would be worse with prevalences from 1970 or 1980. There is little evidence that penalties discourage prevalences, while welfare generosity significantly moderates the penalties for unemployment and low education. The authors conclude that a focus on risks does not provide a convincing explanation of poverty, single motherhood may be the least important of the risks, and studies based solely on the United States are constrained by potentially large sample selection biases.",
+  "authors": [
+    {
+      "raw": "Brady, David",
+      "family": "Brady",
+      "given": "David"
+    },
+    {
+      "raw": "Finnigan, Ryan M.",
+      "family": "Finnigan",
+      "given": "Ryan M."
+    },
+    {
+      "raw": "Huebgen, Sabine",
+      "family": "Huebgen",
+      "given": "Sabine"
+    }
+  ],
+  "authors_text": "Brady, David; Finnigan, Ryan M.; Huebgen, Sabine",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2017,
+  "doi": "10.1086/693678",
+  "doi_url": "https://doi.org/10.1086/693678",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F693678",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/693678.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

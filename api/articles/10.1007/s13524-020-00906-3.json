@@ -1,0 +1,35 @@
+{
+  "title": "The Wealth of Parents: Trends Over Time in Assortative Mating Based on Parental Wealth",
+  "abstract": "This article describes trends in parental wealth homogamy among union cohorts formed between 1987 and 2013 in Denmark. Using high-quality register data on the wealth of parents during the year of partnering, we show that the correlation between partners' levels of parental wealth is considerably lower compared with estimates from research on other countries. Nonetheless, parental wealth homogamy is high at the very top of the parental wealth distribution, and individuals from wealthy families are relatively unlikely to partner with individuals from families with low wealth. Parental wealth correlations among partners are higher when only parental assets rather than net wealth are examined, implying that the former might be a better measure for studying many social stratification processes. Most specifications indicate that homogamy increased in the 2000s relative to the 1990s, but trends can vary depending on methodological choices. The increasing levels of parental wealth homogamy raise concerns that over time, partnering behavior has become more consequential for wealth inequality between couples.",
+  "authors": [
+    {
+      "raw": "Wagner, Sander",
+      "family": "Wagner",
+      "given": "Sander"
+    },
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    },
+    {
+      "raw": "Gortz, Mette",
+      "family": "Gortz",
+      "given": "Mette"
+    }
+  ],
+  "authors_text": "Wagner, Sander; Boertien, Diederik; Gortz, Mette",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00906-3",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00906-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00906-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00906-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

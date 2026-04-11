@@ -1,0 +1,25 @@
+{
+  "title": "Understanding the consequence of higher educational expansion in China: a double-treatment perspective",
+  "abstract": "This article adopts a double-treatment perspective to understand the consequences of higher educational expansion in China. Since the expansion has changed the school population and enabled only a certain group of individuals to enter college, simply doing a before-and-after comparison of the labor market returns to college would be problematic. To overcome such methodological challenges, this article uses a ranking-and-sorting method to determine individuals truly affected by the expansion policy, or the compliers in the local average treatment effect framework, and proposes a difference-in-differences approach to identify the policy effect on the labor market returns to college education. Drawing data from the 1996 Life History and Social Change survey and the 2005-2015 waves of the Chinese General Social Survey, the article describes the characteristics of the compliers along the process of China's higher educational expansion. It shows that the 1999 expansion policy has mainly favored females, urban children, singletons, and those with advantaged class backgrounds during the college transition process.",
+  "authors": [
+    {
+      "raw": "Guo, Maocan",
+      "family": "Guo",
+      "given": "Maocan"
+    }
+  ],
+  "authors_text": "Guo, Maocan",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1080/21620555.2021.1873124",
+  "doi_url": "https://doi.org/10.1080/21620555.2021.1873124",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2021.1873124",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2021.1873124.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

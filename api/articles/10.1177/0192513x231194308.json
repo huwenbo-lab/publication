@@ -1,0 +1,35 @@
+{
+  "title": "How Does Grandparental Childcare Influence Children's Efforts?",
+  "abstract": "This study explores the effect of grandparental care with no parents at present on children's efforts, using the data from China Family Panel Studies from 2010 to 2018. In order to avoid the endogeneity of family childcare decisions, we use two instrumental variables (IVs): community caregiving rate (IVI) and whether the parent is born before 1978 (IVII). We find that grandparental care significantly reduces children's efforts, and the finding remains robust. The negative marginal effect of this care pattern is more pronounced in rural and middle school children. Compared with parental care, grandparental care has increased the parental fertility intentions and decreased parental involvement and supervision investment to children, which leads them to be more likely to spend time on recreational and non-academic activities.",
+  "authors": [
+    {
+      "raw": "Zhou, Qiang",
+      "family": "Zhou",
+      "given": "Qiang"
+    },
+    {
+      "raw": "Li, Yang",
+      "family": "Li",
+      "given": "Yang"
+    },
+    {
+      "raw": "Sun, Li",
+      "family": "Sun",
+      "given": "Li"
+    }
+  ],
+  "authors_text": "Zhou, Qiang; Li, Yang; Sun, Li",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2024,
+  "doi": "10.1177/0192513x231194308",
+  "doi_url": "https://doi.org/10.1177/0192513x231194308",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x231194308",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x231194308.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

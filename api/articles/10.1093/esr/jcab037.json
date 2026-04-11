@@ -1,0 +1,30 @@
+{
+  "title": "Role of Cohort Size in Trends in Class and Occupational Returns to Education at First Job: The Case of Japan",
+  "abstract": "Downward trends in class and occupational returns to education have mainly been attributed to educational expansion via credential inflation. However, despite this rapid educational expansion, trends in returns to education vary across societies. This study proposes that changes in population size can contribute to offsetting the impact of educational expansion, controlling for demand-side factors. Using nationally representative survey data from Japan, we analysed trends in class and occupational returns to education at the first job of individuals born between 1942 and 1986. We found that a smaller cohort size increased the advantage of the highly educated in reaching higher occupational positions and upper service class positions, while a higher university graduation rate decreased this advantage. A counterfactual simulation demonstrated that the fluctuation in returns to education was driven by the pace of educational expansion relative to reductions in cohort size. These findings suggest that declining cohort sizes have counterbalanced credential inflation and caused stable trends in returns to education. We argue that mixed trends in class and occupational returns to education can be explained by the different paces of population change across societies.",
+  "authors": [
+    {
+      "raw": "Mugiyama, Ryota",
+      "family": "Mugiyama",
+      "given": "Ryota"
+    },
+    {
+      "raw": "Toyonaga, Kohei",
+      "family": "Toyonaga",
+      "given": "Kohei"
+    }
+  ],
+  "authors_text": "Mugiyama, Ryota; Toyonaga, Kohei",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcab037",
+  "doi_url": "https://doi.org/10.1093/esr/jcab037",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab037",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab037.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

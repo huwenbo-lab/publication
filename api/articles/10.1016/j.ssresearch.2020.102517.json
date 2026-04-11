@@ -1,0 +1,30 @@
+{
+  "title": "Standing by: The spatial organization of coercive institutions in China",
+  "abstract": "How do authoritarian states organize their coercive institutions over space? We argue that autocrats maximize the utility of their limited coercive resources by clustering them with perceived threats in society, i.e., segments of the population that are ideologically distant and have mobilizational potential. We test this proposition using a dataset that covers the universe of police stations (N =147,428) and religious sites (N =115,394) in China. We find that police stations are more likely to be located within walking distance of foreign religious sites (churches) than other sites (temples), even after controlling for the estimated population within 1 km of each site and a set of key site attributes. This finding is robust to using alternative model specifications, different variable measurements, and multiple data sources. Moving beyond the clustering pattern, we also address the temporal order issue and show that the Chinese state has allocated more new coercive resources around existing foreign religious sites than native sites, i.e., after these sites are already in place. This study enriches our understanding of how autocrats rule and further opens up an emerging new methodological avenue for research on authoritarian politics.",
+  "authors": [
+    {
+      "raw": "Liu, Adam Y.",
+      "family": "Liu",
+      "given": "Adam Y."
+    },
+    {
+      "raw": "Chang, Charles",
+      "family": "Chang",
+      "given": "Charles"
+    }
+  ],
+  "authors_text": "Liu, Adam Y.; Chang, Charles",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2021,
+  "doi": "10.1016/j.ssresearch.2020.102517",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102517",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102517",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102517.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

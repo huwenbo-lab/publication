@@ -1,0 +1,35 @@
+{
+  "title": "Political and educational dynamics behind the Evangelicals' stance against mask mandates during COVID-19 in the US",
+  "abstract": "This study investigates the mediation effect of conservative political ideology on the relationship between Evangelical identities and attitudes against the mask mandate during COVID-19 in the U. S., using a nationally representative survey administered over three waves from September 2020 to June 2021. We employ a moderated mediation analysis to examine the pathway from Evangelical identity to political conservativeness to anti-mask-mandate attitudes, and the interaction effect between years of education and political ideology. A logistic regression model is used to investigate each path in the mediation analysis. Results suggest that controlling for sociodemographic background, self-identified Evangelical status positively drives resistance to the mask mandate. Additional findings confirm that political orientation is not only an established predictor of the polarized public support of masking, as found in existing studies, but is also a key mechanism by which Evangelical identities positively predict anti-mask-mask attitudes. Finally, a higher level of education is associated with greater political polarization of public opinions on the mask mandate during the pandemic.",
+  "authors": [
+    {
+      "raw": "Yang, Junhe",
+      "family": "Yang",
+      "given": "Junhe"
+    },
+    {
+      "raw": "Almquist, Zack W.",
+      "family": "Almquist",
+      "given": "Zack W."
+    },
+    {
+      "raw": "Jones, James H.",
+      "family": "Jones",
+      "given": "James H."
+    }
+  ],
+  "authors_text": "Yang, Junhe; Almquist, Zack W.; Jones, James H.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2024.103100",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103100",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103100",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103100.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

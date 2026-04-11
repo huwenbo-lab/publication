@@ -1,0 +1,30 @@
+{
+  "title": "Has the Association Between Parental Divorce and Young Adults’ Psychological Problems Changed Over Time? Evidence From Sweden, 1968-2000",
+  "abstract": "A large number of studies have shown that parental divorce is associated with psychological maladjustment in children. Less is known about whether the magnitude of this association has changed over time. This is mainly because of the lack of repeated data, containing identical measures over time. In the present article, the authors use data from two waves of the Swedish Level of Living Survey, conducted in 1968 and 2000, to analyze whether the association between parental divorce and psychological adjustment in 19- to 34-year-olds (i.e., born during 1934-1949 and 1966-1981) has changed between the two survey years. Results indicate a weakening association over time, but the change does not reach statistical significance. A reason for the persisting link seems to be that parental divorce is still associated with economic hardship and, above all, family dissension, two conditions that in turn are strongly associated with psychological problems in children.",
+  "authors": [
+    {
+      "raw": "Gähler, Michael",
+      "family": "Gähler",
+      "given": "Michael"
+    },
+    {
+      "raw": "Garriga, Anna",
+      "family": "Garriga",
+      "given": "Anna"
+    }
+  ],
+  "authors_text": "Gähler, Michael; Garriga, Anna",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2012,
+  "doi": "10.1177/0192513x12447177",
+  "doi_url": "https://doi.org/10.1177/0192513x12447177",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x12447177",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x12447177.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

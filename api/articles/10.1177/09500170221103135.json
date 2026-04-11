@@ -1,0 +1,35 @@
+{
+  "title": "Hiring Temps but Losing Perms? Temporary Worker Inflows and Voluntary Turnover of Permanent Employees",
+  "abstract": "This article investigates the effect of hiring temporary workers on the voluntary turnover of permanent employees. It argues that inflows of temporary workers erode the working conditions of permanent employees, prompting their voluntary departure. Using a unique panel dataset of individual-level monthly payroll data over an eight-year period in a sample of Spanish companies, a positive association between temporary worker inflows and the voluntary turnover of permanent workers is found. The results are robust to diverse specifications and are strongest for firms in non-manufacturing sectors and for firms that hire proportionally more low-skilled workers, contexts where the hiring of temporary workers may be more disruptive for permanent employees. Since the hiring of temporary workers is unlikely to threaten the employment of permanent employees in the dual labour market of Spain, the results indicate serious disruption costs associated with temporary hiring in organisations.",
+  "authors": [
+    {
+      "raw": "Bonet, Rocio",
+      "family": "Bonet",
+      "given": "Rocio"
+    },
+    {
+      "raw": "Elvira, Marta",
+      "family": "Elvira",
+      "given": "Marta"
+    },
+    {
+      "raw": "Visintin, Stefano",
+      "family": "Visintin",
+      "given": "Stefano"
+    }
+  ],
+  "authors_text": "Bonet, Rocio; Elvira, Marta; Visintin, Stefano",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2022,
+  "doi": "10.1177/09500170221103135",
+  "doi_url": "https://doi.org/10.1177/09500170221103135",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170221103135",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170221103135.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

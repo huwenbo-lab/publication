@@ -1,0 +1,30 @@
+{
+  "title": "Are Occupations “Bundles of Skills”? Identifying Latent Skill Profiles in the Labor Market Using Topic Modeling",
+  "abstract": "Skills are considered a key determinant of workers’ labor market opportunities, especially in times of rapid technological change. However, existing research rarely conceptualizes and measures skills in their own right, instead relying on occupations as a proxy. How does this limit our understanding of the labor market structure and of wage inequality? In this article, we leverage a unique dataset of millions of online job postings in the United Kingdom to measure the skill profiles of jobs and analyze their similarity within and between occupational categories. Our data-driven approach reveals substantial discrepancies between occupational classifications and the actual skill content of jobs. We further demonstrate that job-level variation in skill content constitutes an independent source of wage inequality—one that is obscured by analyses at the occupational level. These findings challenge the conventional view of occupations as coherent bundles of skills, offering new avenues for analyzing labor market stratification.",
+  "authors": [
+    {
+      "raw": "Labussière, Marie",
+      "family": "Labussière",
+      "given": "Marie"
+    },
+    {
+      "raw": "Bol, Thijs",
+      "family": "Bol",
+      "given": "Thijs"
+    }
+  ],
+  "authors_text": "Labussière, Marie; Bol, Thijs",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2026,
+  "doi": "10.15195/v13.a16",
+  "doi_url": "https://doi.org/10.15195/v13.a16",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv13.a16",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v13.a16.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:32"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Measuring Local Heterogeneity with 1990 U.S. Census Data",
+  "abstract": "A sample covering 204,394 blocks from the 1990 U.S.Census permits measurement of residual heterogeneity from local area to local area after controlling by stratification for demographic characteristics such as race, ethnicity, age, sex as well as geogr",
+  "authors": [
+    {
+      "raw": "Wachter, Kenneth W.",
+      "family": "Wachter",
+      "given": "Kenneth W."
+    },
+    {
+      "raw": "Freedman, David A.",
+      "family": "Freedman",
+      "given": "David A."
+    }
+  ],
+  "authors_text": "Wachter, Kenneth W.; Freedman, David A.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2000,
+  "doi": "10.4054/demres.2000.3.10",
+  "doi_url": "https://doi.org/10.4054/demres.2000.3.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2000.3.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2000.3.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

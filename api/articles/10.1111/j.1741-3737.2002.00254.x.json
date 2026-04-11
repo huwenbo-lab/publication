@@ -1,0 +1,30 @@
+{
+  "title": "Does Marital History Matter? Marital Status and Wealth Outcomes Among Preretirement Adults",
+  "abstract": "Data from the 1992 Health and Retirement Survey are used to specify ordinary least squares (OLS) regression models predicting wealth. Separate models are estimated for men and women. The results indicate that individuals who are not continuously married have significantly lower wealth than those who remain married throughout the life course. Remarriage offsets the negative effect of a marital dissolution. There are significant gender differences in these effects. The results demonstrate that accounting for the sequence of marital events provides a detailed picture of the life paths that lead to wealth heterogeneity among the older population.",
+  "authors": [
+    {
+      "raw": "Wilmoth, Janet",
+      "family": "Wilmoth",
+      "given": "Janet"
+    },
+    {
+      "raw": "Koso, Gregor",
+      "family": "Koso",
+      "given": "Gregor"
+    }
+  ],
+  "authors_text": "Wilmoth, Janet; Koso, Gregor",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2002,
+  "doi": "10.1111/j.1741-3737.2002.00254.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2002.00254.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2002.00254.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2002.00254.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

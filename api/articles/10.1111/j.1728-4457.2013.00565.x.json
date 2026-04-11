@@ -1,0 +1,25 @@
+{
+  "title": "Cross-Sections Are History",
+  "abstract": "Although cross section relationships are often taken to indicate causation, and especially the important impact of economic growth on many social phenomena, they may, in fact, merely reflect historical experience, that is, similar leader-follower country patterns for variables that are causally unrelated. Consider a number of major advances (\"revolutions\") in the human condition over the past four centuries – material living levels, life expectancy, universal schooling, political democracy, empowerment of women, and the like. Suppose that each has its own unique set of causes, and, as a result, a unique starting date and a unique rate of diffusion throughout the world. Suppose too that initially all countries are fairly closely bunched together on each variable in fairly similar circumstances. Suppose, finally, that the geographic pattern of diffusion is the same for each aspect of improvement in the human condition, that is, the same group of countries have a head start, and the follower countries in the various parts of the world fall in line in a similar geographic order. The result will be statistically significant international cross section relationships among the various phenomena, despite their being causally independent. The oft-reported significant cross-country relationships of many variables to economic growth may merely demonstrate that one set of countries got an early start in virtually every “revolution”, and another set, a late start.",
+  "authors": [
+    {
+      "raw": "Easterlin, Richard A.",
+      "family": "Easterlin",
+      "given": "Richard A."
+    }
+  ],
+  "authors_text": "Easterlin, Richard A.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2013,
+  "doi": "10.1111/j.1728-4457.2013.00565.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2013.00565.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2013.00565.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2013.00565.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

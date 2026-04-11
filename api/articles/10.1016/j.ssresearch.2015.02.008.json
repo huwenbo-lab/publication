@@ -1,0 +1,30 @@
+{
+  "title": "Does residential mobility improve educational outcomes? Evidence from the Netherlands",
+  "abstract": "This paper explores the impact of residential mobility on educational outcomes. By considering a large Dutch city with substantial internal residential mobility, we examine how residential mobility influences the decision of students to drop out of school. The paper exploits a rich administrative dataset with extensive information on educational, individual, family, housing and moving characteristics of students. It combines a matching design with a multivariate regression analysis, such that the evaluation draws on a well-comparable control group for the treated students. Accounting for individual, family, educational, neighborhood and housing characteristics, as well as for school and year fixed effects, we observe that residential mobility increases the probability of school dropout in the first few years after moving. The estimated effect changes, however, to a lower risk of early school leaving after an initial period, and then changes again to a higher risk after 6years. This effect remains, regardless the level of education the students attended, or whether the student moves to a better or a worse neighborhood.",
+  "authors": [
+    {
+      "raw": "Haelermans, Carla",
+      "family": "Haelermans",
+      "given": "Carla"
+    },
+    {
+      "raw": "De Witte, Kristof",
+      "family": "De Witte",
+      "given": "Kristof"
+    }
+  ],
+  "authors_text": "Haelermans, Carla; De Witte, Kristof",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2015,
+  "doi": "10.1016/j.ssresearch.2015.02.008",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2015.02.008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2015.02.008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2015.02.008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

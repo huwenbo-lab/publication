@@ -1,0 +1,25 @@
+{
+  "title": "Algorithmic Risk Scoring and Welfare State Contact Among US Children",
+  "abstract": "Predictive Risk Modeling (PRM) tools are widely used by governing institutions, yet research on their effects has yielded divergent findings with low external validity. This study examines how such tools influence child welfare governance, using a quasi-experimental design and data from more than one million maltreatment investigations in 121 US counties. It demonstrates that the adoption of PRM tools reduced maltreatment confirmations among Hispanic and Black children but increased such confirmations among high-risk and low-SES children. PRM tools did not reduce the likelihood of subsequent maltreatment confirmations; and effects were heterogeneous across counties. These findings demonstrate that the use of PRM tools can reduce the incidence of state interventions among historically over-represented minorities while increasing it among poor children more generally. However, they also illustrate that the impact of such tools depends on local contexts and that technological innovations do not meaningfully address chronic state interventions in family life that often characterize the lives of vulnerable children.",
+  "authors": [
+    {
+      "raw": "Eiermann, Martin",
+      "family": "Eiermann",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Eiermann, Martin",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2024,
+  "doi": "10.15195/v11.a26",
+  "doi_url": "https://doi.org/10.15195/v11.a26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv11.a26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v11.a26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

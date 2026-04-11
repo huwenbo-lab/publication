@@ -1,0 +1,30 @@
+{
+  "title": "Gender differences and similarities in the educational gradient in fertility: The role of earnings potential and gender composition in study disciplines",
+  "abstract": "BACKGROUND While women's participation in higher education has caught up with and surpassed that of men, large gender differences persist in the choice of field of study. To date, we know little about the mechanisms that explain the link between fertility and study disciplines for both men and women. OBJECTIVE To study gender differences in the effect on fertility of earnings potential and gender composition in study disciplines. METHODS We used European Labor Force Survey (EU-LFS) data and OLS models to estimate earnings potential. Next, we linked these estimates to the Generations and Gender Surveys (GGS) of six countries and applied piecewise linear hazard models to analyze the transition to first and second births jointly. RESULTS We found heterogeneity across countries, but within countries the mechanisms tend to be similar for both men and women. CONCLUSIONS This study suggests that the drivers of men's and women's family behavior may be more similar than is often expected. Societal changes that have occurred in the last three decades may lead to a stronger role for men in fertility decision-making, which may remain unnoticed if we continue to focus only on women. CONTRIBUTION This study expands our knowledge of the relationship between men's education and fertility. It also broadens our understanding of the effect of the field of study on the fertility of both men and women by considering two characteristics of the study discipline: earnings potential and gender composition.",
+  "authors": [
+    {
+      "raw": "Trimarchi, Alessandra",
+      "family": "Trimarchi",
+      "given": "Alessandra"
+    },
+    {
+      "raw": "Van Bavel, Jan",
+      "family": "Van Bavel",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Trimarchi, Alessandra; Van Bavel, Jan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.13",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

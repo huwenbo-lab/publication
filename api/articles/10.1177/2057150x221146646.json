@@ -1,0 +1,30 @@
+{
+  "title": "Equity versus efficiency: A spatial analysis of residential aged care resources in Beijing",
+  "abstract": "Based on data collected from residential aged care facility websites and the Sixth China National Population Census, this paper studies the spatial pattern of Beijing's aged care resources in the framework of spatial location of public facilities. The results show that at the township/street level, the overall distribution of public aged care resources is relatively balanced, showing positive spatial autocorrelation, while private aged care resources show partially negative spatial autocorrelation. Spatial regression analysis indicates that the dispersed and clustered distribution of private aged care resources are more sensitive to the density of local elderly population, although the distribution of two types of resources is affected by the absolute number of service objects in respective administrative areas. In short, the spatial distribution pattern of public and private aged care resources reflects the contrast between efficiency and equity in providing aging care in China, a fact that is shaped by both administrative and market forces.",
+  "authors": [
+    {
+      "raw": "Bi, Xiangyang",
+      "family": "Bi",
+      "given": "Xiangyang"
+    },
+    {
+      "raw": "Li, Mo",
+      "family": "Li",
+      "given": "Mo"
+    }
+  ],
+  "authors_text": "Bi, Xiangyang; Li, Mo",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1177/2057150x221146646",
+  "doi_url": "https://doi.org/10.1177/2057150x221146646",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x221146646",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x221146646.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

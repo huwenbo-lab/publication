@@ -1,0 +1,30 @@
+{
+  "title": "Credential Inflation and Decredentialization: Re-examining the Mechanism of the Devaluation of Degrees",
+  "abstract": "Sociologists have long used credential inflation theory to explain the devaluation of tertiary education degrees as the consequence of the excessive supply of educated personnel. However, the literature has inadequately examined two fundamental conditions: the combination of degrees/skills that individuals possess and the level of degrees. In this article, cross-country multilevel regressions reveal lower-level degrees (i.e. short-cycle tertiary) are devalued due to the larger extent of lower-level tertiary expansion in a society, regardless of degree holders' skills level. This is consistent with the concept of credential inflation. In contrast, alongside the proliferation of higher-level tertiary education (i.e. bachelor and above), individuals with such degrees are penalized only when they lack high skills. Put differently, higher-level degree holders retain their rewards despite their diminishing scarcity as long as they possess high skills. Meanwhile, high skills unaccompanied by tertiary degrees lose their premium merely in connection with lower-level tertiary expansion. These results suggest credentialism is intensified and credential inflation operates in societies where the extent of lower-level tertiary expansion is relatively large, whereas 'decredentialization' emerges along with the larger extent of higher-level tertiary expansion in a way that devalues credentials as such whilst relatively enhancing the role of skills in reward allocation.",
+  "authors": [
+    {
+      "raw": "Araki, Satoshi",
+      "family": "Araki",
+      "given": "Satoshi"
+    },
+    {
+      "raw": "Kariya, Takehiko",
+      "family": "Kariya",
+      "given": "Takehiko"
+    }
+  ],
+  "authors_text": "Araki, Satoshi; Kariya, Takehiko",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcac004",
+  "doi_url": "https://doi.org/10.1093/esr/jcac004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

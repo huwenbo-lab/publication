@@ -1,0 +1,45 @@
+{
+  "title": "Educational Tracking and the Polygenic Prediction of Education",
+  "abstract": "Educational systems that separate students into curriculum tracks later may place less emphasis on socioeconomic family background and allow individuals' personal skills and interests more time to manifest. We tested whether postponing tracking from age 11 to 16 results in stronger genetic prediction of education across a population, exploiting the natural experiment of the Finnish comprehensive school reform between 1972 and 1977. The association between polygenic score of education and achieved education strengthened after the reform by one-third among men and those from low-educated families. We observed no evidence for reform effect among women or those from high-educated families. The first cohort experiencing the new system had the strongest increases. From the perspective of genetic prediction, the school reform promoted equality of opportunity and optimal allocation of human capital. The results also suggest that turbulent circumstances, including puberty or ongoing restructuring of institutional practices, may strengthen genetic associations in education.",
+  "authors": [
+    {
+      "raw": "Lahtinen, Hannu",
+      "family": "Lahtinen",
+      "given": "Hannu"
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    },
+    {
+      "raw": "Korhonen, Kaarina",
+      "family": "Korhonen",
+      "given": "Kaarina"
+    },
+    {
+      "raw": "Morris, Tim",
+      "family": "Morris",
+      "given": "Tim"
+    },
+    {
+      "raw": "Myrskylä, Mikko",
+      "family": "Myrskylä",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Lahtinen, Hannu; Martikainen, Pekka; Korhonen, Kaarina; Morris, Tim; Myrskylä, Mikko",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2024,
+  "doi": "10.15195/v11.a8",
+  "doi_url": "https://doi.org/10.15195/v11.a8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv11.a8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v11.a8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

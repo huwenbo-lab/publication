@@ -1,0 +1,25 @@
+{
+  "title": "Orphanhood and Child Development: Evidence From India",
+  "abstract": "This arti cle pro vi des the first sys tem atic study of the short-and long-run effects of paren tal death on the cognitive, non cogni tive (locus of con trol), and phys i-cal devel op ment of Indian chil dren. Exploiting rich longitudinal data over 15 years, I use difference-in-differences with indi vid ual fixed effects to account for time-invari ant unob served het ero gene ity between orphans and non-orphans and inves ti gate the mech-anisms. This method is an improvement over previ ous cross-sec tional approaches to such explorations. I find that pater nal death is neg atively corre lated with orphans' cog-nition but is not corre lated with locus of con trol or phys i cal health. Cognitive effects are medi ated by a 10-per cent age-point-lower prob a bil ity of enroll ment and a 20% decline in mon etary investments in the child, eventually lead ing to one less year of school ing by age 22. These negative outcomes are con cen trated among the least wealthy fami lies, who respond to the shock by reduc ing con sumption and increas ing their labor supply.",
+  "authors": [
+    {
+      "raw": "Garcia-Brazales, Javier",
+      "family": "Garcia-Brazales",
+      "given": "Javier"
+    }
+  ],
+  "authors_text": "Garcia-Brazales, Javier",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10584073",
+  "doi_url": "https://doi.org/10.1215/00703370-10584073",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10584073",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10584073.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

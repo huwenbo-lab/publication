@@ -1,0 +1,40 @@
+{
+  "title": "Union formation and fertility amongst immigrants from Pakistan and their descendants in the United Kingdom: A multichannel sequence analysis",
+  "abstract": "BACKGROUNDPrevious work identifies conservative family behaviour amongst Pakistanis in the United Kingdom relative to natives, including earlier marriages, fewer dissolutions, and higher fertility. However, few studies have investigated how fertility and partnership are intertwined and interdependent.OBJECTIVE Our aims are, first, to identify differences between the family trajectories of Pakistanis and natives and, second, to determine if patterns are consistent across immigrant generations. Finally, we aim to identify how family trajectories vary across birth cohorts and education levels.METHODS We apply multichannel sequence analysis (MCSA) to data from the UK Household Longitudinal Study. We first use clustering methods to group similar individuals and then apply multinomial logistic regression to calculate the probability of belonging to a cluster based on individual characteristics.RESULTS The Pakistani population exhibits a higher likelihood of entering a direct marriage and having large families compared to natives. Cohabitation is rare amongst Pakistani population. These patterns have changed little between immigrant generations. Degree-level education is associated with a higher likelihood of adopting behaviours typical to ancestral natives; however, the effects are not large enough to indicate convergence. CONTRIBUTION We demonstrate the need to investigate partnership and fertility trajectories simultaneously and show the value of MCSA for identifying differences between migrant groups. The results improve our understanding of family formation patterns of Pakistani immigrants and their descendants in the United Kingdom.",
+  "authors": [
+    {
+      "raw": "Harrison, Joseph",
+      "family": "Harrison",
+      "given": "Joseph"
+    },
+    {
+      "raw": "Keenan, Katherine",
+      "family": "Keenan",
+      "given": "Katherine"
+    },
+    {
+      "raw": "Sullivan, Frank",
+      "family": "Sullivan",
+      "given": "Frank"
+    },
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    }
+  ],
+  "authors_text": "Harrison, Joseph; Keenan, Katherine; Sullivan, Frank; Kulu, Hill",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.10",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

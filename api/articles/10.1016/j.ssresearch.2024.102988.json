@@ -1,0 +1,25 @@
+{
+  "title": "Learning byparenting: How do mothers respond to their children's developmental declines?",
+  "abstract": "Children's developmental processes are not always linear. During the childhood period, children usually experience ups and downs in their skills, and how parents respond to these changes can crucially condition the subsequent process of child development. This paper examines (1) how children's developmental declines impact the level of cognitive stimulation implemented by the mothers, and (2) whether these effects vary by socioeconomic groups. Using longitudinal NLSY79-CYA data from the US, I implement a series of two-way fixed effects and fixed effects counterfactual models. Findings show that mothers respond negatively to the declines in their children's mathematical skills by decreasing their levels of cognitive stimulation, although the effects are relatively small, approximately one-tenth of a standard deviation. This effect is concentrated among mothers with low levels of education or those at the bottom part of the income distribution. Additionally, it's observed that mothers in the sample do not modify their behaviours in response to declines in their children's reading skills. All in all, this evidence suggests that mothers might be reinforcing existing disadvantages by decreasing their cognitive stimulation when their children show developmental declines and that this mechanism could be responsible for broadening the developmental gap between children from low- and highsocioeconomic backgrounds.",
+  "authors": [
+    {
+      "raw": "Garcia-Sierra, Alicia",
+      "family": "Garcia-Sierra",
+      "given": "Alicia"
+    }
+  ],
+  "authors_text": "Garcia-Sierra, Alicia",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.102988",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.102988",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.102988",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.102988.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

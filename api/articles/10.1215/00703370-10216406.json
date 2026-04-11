@@ -1,0 +1,30 @@
+{
+  "title": "A Bayesian Cohort Component Projection Model to Estimate Women of Reproductive Age at the Subnational Level in Data-Sparse Settings",
+  "abstract": "Accurate estimates of subnational populations are important for policy formulation and monitoring population health indicators. For example, estimates of the num ber of women of reproductive age are important to understand the population at risk of maternal mortality and unmet need for contraception. However, in many low-income countries, data on population counts and components of population change are limited, and so subnational levels and trends are unclear. We present a Bayesian constrained cohort component model for the estimation and projection of subnational populations. The model builds on a cohort component projection framework, incorporates census data and estimates from the United Nation's World Population Prospects, and uses characteristic mortality schedules to obtain estimates of population counts and the components of population change, includ ing inter nal migration. The data required as inputs to the model are minimal and avail able across a wide range of countries, includ ing most low-income countries. The model is applied to estimate and project populations by county in Kenya for 1979-2019 and is validated against the 2019 Kenyan census.",
+  "authors": [
+    {
+      "raw": "Alexander, Monica",
+      "family": "Alexander",
+      "given": "Monica"
+    },
+    {
+      "raw": "Alkema, Leontine",
+      "family": "Alkema",
+      "given": "Leontine"
+    }
+  ],
+  "authors_text": "Alexander, Monica; Alkema, Leontine",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2022,
+  "doi": "10.1215/00703370-10216406",
+  "doi_url": "https://doi.org/10.1215/00703370-10216406",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10216406",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10216406.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

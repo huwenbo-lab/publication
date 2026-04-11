@@ -1,0 +1,25 @@
+{
+  "title": "Reporting Heterogeneity and Health Disparities Across Gender and Education Levels: Evidence From Four Countries",
+  "abstract": "I use anchoring vignettes from Indonesia, the United States, England, and China to study the extent to which differences in self-reported health across gender and education levels can be explained by the use of different response thresholds. To determine whether statistically significant differences between groups remain after adjusting thresholds, I calculate standard errors for the simulated probabilities, largely ignored in previous literature. Accounting for reporting heterogeneity reduces the gender gap in many health domains across the four countries, but to varying degrees. Health disparities across education levels persist and even widen after equalizing thresholds across the two groups.",
+  "authors": [
+    {
+      "raw": "Molina, Teresa",
+      "family": "Molina",
+      "given": "Teresa"
+    }
+  ],
+  "authors_text": "Molina, Teresa",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0456-z",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0456-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0456-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0456-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

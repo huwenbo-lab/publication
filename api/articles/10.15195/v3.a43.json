@@ -1,0 +1,30 @@
+{
+  "title": "Reliability of the Core Items in the General Social Survey: Estimates from the Three-Wave Panels, 2006–2014",
+  "abstract": "We used standard and multilevel models to assess the reliability of core items in the General Social Survey panel studies spanning 2006 to 2014. Most of the 293 core items scored well on the measure of reliability: 62 items (21 percent) had reliability measures greater than 0.85; another 71 (24 percent) had reliability measures between 0.70 and 0.85. Objective items, especially facts about demography and religion, were generally more reliable than subjective items. The economic recession of 2007–2009, the slow recovery afterward, and the election of Barack Obama in 2008 altered the social context in ways that may look like unreliability of items. For example, unemployment status, hours worked, and weeks worked have lower reliability than most work-related items, reflecting the consequences of the recession on the facts of peoples lives. Items regarding racial and gender discrimination and racial stereotypes scored as particularly unreliable, accounting for most of the 15 items with reliability coefficients less than 0.40. Our results allow scholars to more easily take measurement reliability into consideration in their own research, while also highlighting the limitations of these approaches.",
+  "authors": [
+    {
+      "raw": "Hout, Michael",
+      "family": "Hout",
+      "given": "Michael"
+    },
+    {
+      "raw": "Hastings, Orestes",
+      "family": "Hastings",
+      "given": "Orestes"
+    }
+  ],
+  "authors_text": "Hout, Michael; Hastings, Orestes",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2016,
+  "doi": "10.15195/v3.a43",
+  "doi_url": "https://doi.org/10.15195/v3.a43",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv3.a43",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v3.a43.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

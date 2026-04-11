@@ -1,0 +1,35 @@
+{
+  "title": "Educational reproduction in Europe: A descriptive account",
+  "abstract": "BACKGROUND Conventional studies of intergenerational social reproduction are based on a retrospective design, sampling adults and linking their status to that of their parents. This approach yields conditional estimates of intergenerational relationships. Recent studies have taken a prospective approach, following a birth cohort forward to examine how it is socially reproduced. This permits the estimation of relationships of social reproduction that do not condition on the existence of at least one child. OBJECTIVE We examine whether the relationship between conditional and unconditional estimates found for the United States and Great Britain also holds for a diverse range of European countries. METHODS We examine educational reproduction among men and women born 1930-1950 in 12 countries using data from the Survey of Health, Ageing and Retirement in Europe (SHARE) and compare unconditional and conditional estimates. RESULTS We find striking similarities in the relationship between unconditional and conditional estimates throughout Europe. Among women, the difference between conditional and unconditional estimates generally increased with education. Women with more education were less likely to reproduce themselves educationally because they were less likely to marry. The educational gradient, in terms of the probability of having a child who attained a tertiary degree, was more pronounced in the South and East of Europe than in the North and West. CONCLUSIONS The gap between conditional and unconditional estimates indicates that the more common retrospective approach tends to overstate the extent of educational reproduction. CONTRIBUTION This is the first comparative study adopting a prospective approach to intergenerational social reproduction.",
+  "authors": [
+    {
+      "raw": "Breen, Richard",
+      "family": "Breen",
+      "given": "Richard"
+    },
+    {
+      "raw": "Ermisch, John",
+      "family": "Ermisch",
+      "given": "John"
+    },
+    {
+      "raw": "Helske, Satu",
+      "family": "Helske",
+      "given": "Satu"
+    }
+  ],
+  "authors_text": "Breen, Richard; Ermisch, John; Helske, Satu",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.41.49",
+  "doi_url": "https://doi.org/10.4054/demres.2019.41.49",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.41.49",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.41.49.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

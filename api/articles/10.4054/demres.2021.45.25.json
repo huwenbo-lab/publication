@@ -1,0 +1,25 @@
+{
+  "title": "The Own-Children Method of fertility estimation: The devil is in the detail",
+  "abstract": "BACKGROUND The Own-Children Method is a widely used procedure for estimating levels, trends, and differentials in age-specific and total fertility from the age distribution. OBJECTIVES This article demonstrates that the procedure used in most applications of the Own-Children Method produces systematically biased estimates of the age pattern of fertility and describes a new estimator that avoids this bias. METHODS The Own-Children Method incorporates an adjustment for the proportion of children by age who are not living with their mothers. Because these children include orphans and because women's mortality accelerates with age, this adjustment overestimates births to young women and underestimates births to older women relative to the number of women in the denominators of the fertility rates. By explicitly estimating the prevalence of maternal orphanhood by age, age-specific fertility can instead be calculated using a formula that avoids this bias. RESULTS The bias in the estimated age pattern of fertility is trivial for rates calculated from children born in the few years before an inquiry, but increases with the age of the children and with the population's mortality. Its overall impact is to shift the fertility distribution toward younger ages at childbearing. Because the errors for women of different ages more or less cancel each other out, the bias in estimates of total fertility is smaller. CONTRIBUTION The new Own-Children Method estimator of age-specific fertility proposed here eliminates a small but systematic bias in the results produced by the existing procedure. It should enable analysts using the Own-Children Method to measure fertility more accurately in the future.",
+  "authors": [
+    {
+      "raw": "Timaeus, Ian M.",
+      "family": "Timaeus",
+      "given": "Ian M."
+    }
+  ],
+  "authors_text": "Timaeus, Ian M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.25",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

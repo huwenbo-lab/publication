@@ -1,0 +1,35 @@
+{
+  "title": "Do Children Carry the Weight of Divorce?",
+  "abstract": "Relatively few studies have examined the physical health of children who experience parental separation. The few studies on this topic have largely focused on the United States and have used cross-sectional designs. Our study investigates the relationship between parental separation and children's body mass index (BMI) and overweight/obesity risk using the UK Millennium Cohort Study. Treating parental separation as a process, we analyze variations in children's physical health before and after the date of their parents' separation in order to capture potential anticipation, adaptation, delayed, or cumulative effects. We estimate fixed-effects models to account for the potential correlation between children's physical health and unobserved factors associated with parental separation, such as socioeconomic background and other time-invariant parental characteristics. We find no evidence of statistically significant anticipation effects in the build-up to parental separation or of statistically significant changes in children's physical health immediately after separation. However, our results show that in the longer term, the BMI of children whose parents separate significantly deviates from the BMI of children from intact families. Furthermore, this association is especially strong for separations that occur when children are under age 6.",
+  "authors": [
+    {
+      "raw": "Goisis, Alice",
+      "family": "Goisis",
+      "given": "Alice"
+    },
+    {
+      "raw": "Ozcan, Berkay",
+      "family": "Ozcan",
+      "given": "Berkay"
+    },
+    {
+      "raw": "Van Kerm, Philippe",
+      "family": "Van Kerm",
+      "given": "Philippe"
+    }
+  ],
+  "authors_text": "Goisis, Alice; Ozcan, Berkay; Van Kerm, Philippe",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00784-4",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00784-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00784-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00784-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

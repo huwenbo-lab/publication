@@ -1,0 +1,30 @@
+{
+  "title": "Voluntary Association Membership and Social Cleavages: A Micro-Macro Link in Generalized Trust",
+  "abstract": "Generalized trust varies across individuals and countries. Past studies on trust have demonstrated that voluntary association membership, inequality and ethnic homogeneity at country level are important. However, those studies examined either individual-level or country-level factors separately. In this paper, we conceptualized the emergence of generalized trust as a multilevel process in which the effects of individual-level attributes are influenced by social contexts. Using a multilevel modeling approach on World Values Survey in 48 countries, we estimated a cross-level interaction between voluntary association membership at individual level and income inequality and ethnic homogeneity as two types of social cleavages at country level. We found that the positive effect of voluntary association membership decreases with the level of income inequality.",
+  "authors": [
+    {
+      "raw": "Park, C.-u.",
+      "family": "Park",
+      "given": "C.-u."
+    },
+    {
+      "raw": "Subramanian, S. V.",
+      "family": "Subramanian",
+      "given": "S. V."
+    }
+  ],
+  "authors_text": "Park, C.-u.; Subramanian, S. V.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2012,
+  "doi": "10.1093/sf/sos059",
+  "doi_url": "https://doi.org/10.1093/sf/sos059",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsos059",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sos059.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

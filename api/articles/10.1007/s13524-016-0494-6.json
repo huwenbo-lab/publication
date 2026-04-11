@@ -1,0 +1,30 @@
+{
+  "title": "Explaining the Effect of Parent-Child Coresidence on Marriage Formation: The Case of Japan",
+  "abstract": "Many single adult children in countries around the world live with their parents. Such coresidence has been thought to delay the transition to first marriage, although the exact reasons for the delay have not been sufficiently examined. Using panel data from Japan, we investigate whether changes in never-married adults' residential status lead to alterations in their marital aspirations, courtship behaviors, romantic opportunities, and perceived obstacles to marrying. Our estimation of fixed-effects models helps address potential bias caused by single individuals' selection into living in the parental home. The analysis indicates that living with parents is associated with a lower probability of forming romantic relationships, thereby decelerating the transition to first marriage. The never-married, however, do not desire marriage less, put less effort into finding romantic partners, or have fewer opportunities to meet potential partners when coresiding with parents. Overall, the findings suggest that living in the parental home increases never-married men's contentment with their immediate social environment, whereas it decreases women's psychological readiness to transition into adult roles, making both men and women less eager to settle into a romantic relationship.",
+  "authors": [
+    {
+      "raw": "Yu, Wei-hsin",
+      "family": "Yu",
+      "given": "Wei-hsin"
+    },
+    {
+      "raw": "Kuo, Janet Chen-Lan",
+      "family": "Kuo",
+      "given": "Janet Chen-Lan"
+    }
+  ],
+  "authors_text": "Yu, Wei-hsin; Kuo, Janet Chen-Lan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0494-6",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0494-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0494-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0494-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

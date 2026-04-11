@@ -1,0 +1,45 @@
+{
+  "title": "Privileges and penalties in the legal profession: an intersectional analysis of career progression",
+  "abstract": "Intersectionality theory is concerned with integrating social characteristics to better understanding complex human relations and inequalities in organizations and societies (McCall 2005). Recently, intersectionality research has taken a categorical and quantitative turn as scholars critically adopt but retain existing social categories to explain differences in labour market outcomes. A key contention is that social categories carry penalties or privileges and their intersection promotes or hinders the life chances of particular groups and individuals. An emergent debate is whether the intersection of disadvantaged characteristics (such as female gender or minority ethnic status) produce penalties that are additive, multiplicative or ameliorative. Research is inconclusive and as yet pays little attention to moderating factors such as employer type, size, geographic location or work profile. Drawing on administrative records for individuals qualified as solicitors in England and Wales, collected by the Solicitors Regulation Authority (SRA), combined with aggregated workforce data and firm characteristics of their law firms, we undertake a statistical analysis of the intersection of gender and ethnicity in the profession with a degree of precision and nuance not previously possible. In response to calls to broaden studies of inequalities and intersectionality beyond their effect on pay or income (Castilla 2008) we focus on career progression to partnership as our key measure of success. The original contribution of our study is twofold. First, we establish statistically different profiles of law firms, showing how the solicitors' profession is stratified by gender, ethnicity and socio-economic background, as well as the type of legal work undertaken by developing a model of socio-economic stratification in the profession. Second, we demonstrate that while penalties tend to be additive (i.e. the sum of the individual ethnic and gender penalties) this varies significantly by law firm profile and in some situations the effect is ameliorative.",
+  "authors": [
+    {
+      "raw": "Tomlinson, Jennifer",
+      "family": "Tomlinson",
+      "given": "Jennifer"
+    },
+    {
+      "raw": "Valizade, Danat",
+      "family": "Valizade",
+      "given": "Danat"
+    },
+    {
+      "raw": "Muzio, Daniel",
+      "family": "Muzio",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Charlwood, Andy",
+      "family": "Charlwood",
+      "given": "Andy"
+    },
+    {
+      "raw": "Aulakh, Sundeep",
+      "family": "Aulakh",
+      "given": "Sundeep"
+    }
+  ],
+  "authors_text": "Tomlinson, Jennifer; Valizade, Danat; Muzio, Daniel; Charlwood, Andy; Aulakh, Sundeep",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2019,
+  "doi": "10.1111/1468-4446.12375",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12375",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12375",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12375.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Temporary employment and wage inequality over the life course",
+  "abstract": "Wage inequality between workers with different levels of educational attainment has been shown to increase over the life course. In this study, we investigate to what extent this growth is explained by temporary employment. Using linked employer-employee register data from the Netherlands, we follow the labour market careers of workers born in 1979. We decompose the impact of temporary employment on the change in the wage gap over the life course into two distinct components: (i) changes in group-specific temporary employment rates (risk) and (ii) changes in group-specific effects of temporary employment on wages (vulnerability). In line with previous research, we find a marked growth of the educational wage gap over the life course in the Netherlands. While group differences in temporary employment risk changed throughout the observation period to the detriment of less-educated workers, group differences in vulnerability to temporary employment diverged specifically during the early life course. Overall, temporary employment explains around 9 per cent of the change in the wage gap between workers with different levels of educational attainment by the age of 38 relative to age 28.",
+  "authors": [
+    {
+      "raw": "Janietz, Christoph",
+      "family": "Janietz",
+      "given": "Christoph"
+    },
+    {
+      "raw": "Bol, Thijs",
+      "family": "Bol",
+      "given": "Thijs"
+    },
+    {
+      "raw": "Lancee, Bram",
+      "family": "Lancee",
+      "given": "Bram"
+    }
+  ],
+  "authors_text": "Janietz, Christoph; Bol, Thijs; Lancee, Bram",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcad075",
+  "doi_url": "https://doi.org/10.1093/esr/jcad075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

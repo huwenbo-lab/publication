@@ -1,0 +1,35 @@
+{
+  "title": "Geographical mortality patterns in Italy",
+  "abstract": "In this paper, we present a hierarchical spatial model for the analysis of geographical variation in mortality between the Italian provinces in the year 2001, according to gender, age class, and cause of death. When analysing counts data specific to geographical locations, classical empirical rates or standardised mortality ratios may produce estimates that show a very high level of overdispersion due to the effect of spatial autocorrelation among the observations, and due to the presence of heterogeneity among the population sizes. We adopt a Bayesian approach and a Markov chain Monte Carlo computation with the goal of making more consistent inferences about the quantities of interest. While considering information for the year 1991, we also take into account a temporal effect from the previous geographical pattern. Results have demonstrated the flexibility of our proposal in evaluating specific aspects of a counts spatial process, such as the clustering effect and the heterogeneity effect.",
+  "authors": [
+    {
+      "raw": "Divino, Fabio",
+      "family": "Divino",
+      "given": "Fabio"
+    },
+    {
+      "raw": "Egidi, Viviana",
+      "family": "Egidi",
+      "given": "Viviana"
+    },
+    {
+      "raw": "Salvatore, Michele Antonio",
+      "family": "Salvatore",
+      "given": "Michele Antonio"
+    }
+  ],
+  "authors_text": "Divino, Fabio; Egidi, Viviana; Salvatore, Michele Antonio",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2009,
+  "doi": "10.4054/demres.2009.20.18",
+  "doi_url": "https://doi.org/10.4054/demres.2009.20.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2009.20.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2009.20.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

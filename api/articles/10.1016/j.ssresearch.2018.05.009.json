@@ -1,0 +1,35 @@
+{
+  "title": "Childhood poverty dynamics and adulthood overweight/obesity: Unpacking the black box of childhood",
+  "abstract": "Integrating several life course models, this study examines how childhood poverty dynamics shape the risk of adulthood overweight/obesity. Growth mixture models of yearly poverty data from age 0-16 from the U.S. Panel Study of Income Dynamics identify four childhood poverty trajectories: chronic poverty, early childhood poverty, downward mobility, and poverty-free. Chronic poverty and early childhood poverty groups have higher risk of adulthood overweight/obesity than the poverty-free group. Overweight/obesity risk is not significantly different between the chronic poverty group and the early childhood poverty group, suggesting that the effects of early childhood exposure persist despite subsequent upward mobility. Downward mobility in the absence of early childhood poverty does not significantly increase adulthood obesity risk, providing further evidence that early childhood is a critical period for developing risk of overweight and obesity. These findings shed new light on the timing model, social mobility model, cumulative model, and cumulative inequality theory.",
+  "authors": [
+    {
+      "raw": "Li, Miao",
+      "family": "Li",
+      "given": "Miao"
+    },
+    {
+      "raw": "Mustillo, Sarah",
+      "family": "Mustillo",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Anderson, James",
+      "family": "Anderson",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Li, Miao; Mustillo, Sarah; Anderson, James",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.05.009",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.05.009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.05.009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.05.009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

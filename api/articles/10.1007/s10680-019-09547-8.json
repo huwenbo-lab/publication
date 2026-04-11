@@ -1,0 +1,30 @@
+{
+  "title": "The Gender Cliff in the Relative Contribution to the Household Income: Insights from Modelling Marriage Markets in 27 European Countries",
+  "abstract": "AbstractIn Western countries, the distribution of relative incomes within marriages tends to be skewed in a remarkable way. Husbands usually do not only earn more than their female partners, but there is also a striking discontinuity in their relative contributions to the household income at the 50/50 point: many wives contribute just a bit less than or as much as their husbands, but few contribute more. This ‘cliff’ has been interpreted as evidence that men and women avoid situations where a wife would earn more than her husband, since this would go against traditional gender norms. In this paper, we use a simulation approach to model marriage markets and demonstrate that a cliff in the relative income distribution can also emerge without such avoidance. We feed our simulations with income data from 27 European countries. Results show that a cliff can emerge from inequalities in men’s and women’s average incomes, even if they do not attach special meaning to a situation in which a wife earns more than her husband.",
+  "authors": [
+    {
+      "raw": "Grow, André",
+      "family": "Grow",
+      "given": "André"
+    },
+    {
+      "raw": "Van Bavel, Jan",
+      "family": "Van Bavel",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Grow, André; Van Bavel, Jan",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2020,
+  "doi": "10.1007/s10680-019-09547-8",
+  "doi_url": "https://doi.org/10.1007/s10680-019-09547-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-019-09547-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-019-09547-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Trends in Women’s and Men’s College Majors across Four Decades in Norway",
+  "abstract": "Women are now more likely to receive college degrees than men, yet important differences remain in the college majors of women and men. This visualization depicts women’s and men’s college majors across four decades in Norway. The authors document the movement of women into higher paying majors and show that men are increasingly majoring in fields that are gender integrated. However, women remain overrepresented in female-dominated majors, and men remain in overrepresented in majors that have historically been well paid. This visualization thus underscores the progress that has been made in achieving gender parity in education as well as the challenges that remain.",
+  "authors": [
+    {
+      "raw": "Hermansen, Are Skeie",
+      "family": "Hermansen",
+      "given": "Are Skeie"
+    },
+    {
+      "raw": "Penner, Andrew M.",
+      "family": "Penner",
+      "given": "Andrew M."
+    }
+  ],
+  "authors_text": "Hermansen, Are Skeie; Penner, Andrew M.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221081692",
+  "doi_url": "https://doi.org/10.1177/23780231221081692",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221081692",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221081692.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

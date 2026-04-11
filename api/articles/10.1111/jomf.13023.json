@@ -1,0 +1,45 @@
+{
+  "title": "Marginalized identities, healthcare discrimination, and parental stress about COVID-19",
+  "abstract": "ObjectiveThis paper assesses stress disparities among marginalized parents in 2020-21 during the COVID-19 pandemic through the mechanism of healthcare discrimination.BackgroundThe pandemic upended the lives of American families and had particularly stark mental health consequences for women, racial and ethnic minority (REM), and sexual and gender minority (SGM) parents. Scholars have been called to understand these unequal experiences via marginalizing mechanisms rather than using race, gender, and sexual identities as proxies for racism, sexism, and cis-heterosexism.MethodsStructural equation modeling was used to test associations between marginalized identities and parental stress about COVID among partnered parents using healthcare discrimination, a marginalizing mechanism, as a mediator. The data come from The National Couples' Health and Time Study, a population-representative study of couples in the United States.ResultsFindings indicate that compared to nonmarginalized parents, Black parents, women, transgender and nonbinary parents, and gay, lesbian, and bisexual parents experienced higher levels of parental stress about COVID through heightened healthcare discrimination. When accounting for healthcare discrimination, only one marginalized identity-that of women-was directly associated with parental stress about COVID along with the indirect relationship through healthcare discrimination.ConclusionThese findings highlight healthcare discrimination as a process that puts marginalized parents at risk for heightened stress. Parental stress has the potential to accumulate across the life course and crossover to children and communities.",
+  "authors": [
+    {
+      "raw": "Meier, A.",
+      "family": "Meier",
+      "given": "A."
+    },
+    {
+      "raw": "Kamp Dush, C.",
+      "family": "Kamp Dush",
+      "given": "C."
+    },
+    {
+      "raw": "Vanbergen, A. M.",
+      "family": "Vanbergen",
+      "given": "A. M."
+    },
+    {
+      "raw": "Clark, S.",
+      "family": "Clark",
+      "given": "S."
+    },
+    {
+      "raw": "Manning, W.",
+      "family": "Manning",
+      "given": "W."
+    }
+  ],
+  "authors_text": "Meier, A.; Kamp Dush, C.; Vanbergen, A. M.; Clark, S.; Manning, W.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13023",
+  "doi_url": "https://doi.org/10.1111/jomf.13023",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13023",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13023.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

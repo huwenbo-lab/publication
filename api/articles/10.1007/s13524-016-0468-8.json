@@ -1,0 +1,30 @@
+{
+  "title": "Who Coresides With Parents? An Analysis Based on Sibling Comparative Advantage",
+  "abstract": "Coresidence between elderly parents and their married adult children is common in East Asian societies. We analyze theoretically and empirically with which adult child parents coreside when the extended family has multiple adult children, and we show that this decision-making process can be rationalized. Specifically, we find evidence that suggests division of labor among family members through the choice of coresidence. Theoretically, we show that when parents can help children with housework, they will coreside with higher-educated children whose opportunity cost of housework is higher. On the other hand, when parents need help from children in housework labor, they will coreside with lower-educated children, whose opportunity cost of housework is lower. By adopting a data set containing information on parents and their married adult children, we find that our two hypotheses are supported among families from rural China. The probability of coresidence is positively associated with relative education of the children when parents can provide help but negatively associated with education when parents need help.",
+  "authors": [
+    {
+      "raw": "Ma, Sen",
+      "family": "Ma",
+      "given": "Sen"
+    },
+    {
+      "raw": "Wen, Fangqi",
+      "family": "Wen",
+      "given": "Fangqi"
+    }
+  ],
+  "authors_text": "Ma, Sen; Wen, Fangqi",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0468-8",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0468-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0468-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0468-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

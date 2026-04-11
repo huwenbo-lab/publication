@@ -1,0 +1,35 @@
+{
+  "title": "Unmasking the Myth of the Same-Sex Teacher Advantage",
+  "abstract": "Trend statistics reveal a striking reversal of a gender gap that has once favoured males: Girls have surpassed boys in many aspects of the educational system. At the same time, the share of female teachers has grown in almost all countries of the western world. There is an ongoing, contentious debate on whether the gender of the teacher can account, in part, for the growing educational disadvantage of males. In this study, we use large-scale data from IGLU-E, an expansion of PIRLS in Germany, to estimate whether there is a causal effect of having a same-sex teacher on student outcomes. We estimate effects for typical ‘female’ subjects and typical ‘male’ subjects as well as for different student outcomes (objective test scores and more subjective teacher’s grades). We find virtually no evidence of a benefit from having a same-sex teacher, neither for boys nor for girls. These findings suggest that the popular call for more male teachers in primary school is not the key to tackle the growing disadvantage of boys.",
+  "authors": [
+    {
+      "raw": "Neugebauer, M.",
+      "family": "Neugebauer",
+      "given": "M."
+    },
+    {
+      "raw": "Helbig, M.",
+      "family": "Helbig",
+      "given": "M."
+    },
+    {
+      "raw": "Landmann, A.",
+      "family": "Landmann",
+      "given": "A."
+    }
+  ],
+  "authors_text": "Neugebauer, M.; Helbig, M.; Landmann, A.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcq038",
+  "doi_url": "https://doi.org/10.1093/esr/jcq038",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcq038",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcq038.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

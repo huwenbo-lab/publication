@@ -1,0 +1,30 @@
+{
+  "title": "Racial and Ethnic Variation in the Relationship Between Student Loan Debt and the Transition to First Birth",
+  "abstract": "The present study employs discrete-time hazard regression models to investigate the relationship between student loan debt and the probability of transitioning to either marital or nonmarital first childbirth using the 1997 National Longitudinal Survey of Youth (NLSY97). Accounting for nonrandom selection into student loans using propensity scores, our study reveals that the effect of student loan debt on the transition to motherhood differs among white, black, and Hispanic women. Hispanic women holding student loans experience significant declines in the probability of transitioning to both marital and nonmarital motherhood, whereas black women with student loans are significantly more likely to transition to any first childbirth. Indebted white women experience only a decrease in the probability of a marital first birth. The results from this study suggest that student loans will likely play a key role in shaping future demographic patterns and behaviors.",
+  "authors": [
+    {
+      "raw": "Min, Stella",
+      "family": "Min",
+      "given": "Stella"
+    },
+    {
+      "raw": "Taylor, Miles G.",
+      "family": "Taylor",
+      "given": "Miles G."
+    }
+  ],
+  "authors_text": "Min, Stella; Taylor, Miles G.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-017-0643-6",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0643-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0643-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0643-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

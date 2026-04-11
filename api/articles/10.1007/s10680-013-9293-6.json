@@ -1,0 +1,30 @@
+{
+  "title": "Small Effects of Selective Migration and Selective Survival in Retrospective Studies of Fertility",
+  "abstract": "In this study, we assess the accuracy of fertility estimates that stem from the retrospective information that can be derived from an existing cross-sectional population. Swedish population registers contain information on the childbearing of all people ever registered as living in Sweden, and thus allow us to avoid problems of selectivity by the virtue of survival or nonemigration when estimating the fertility measures for previous calendar periods. We calculate two types of fertility rates for each year in 1961-1999: (i) rates that are based on the population that was living in Sweden at the end of 1999, and (ii) rates that also include information on people who had died or emigrated before the turn of the twentieth century. We find that the omission of information on individuals who had emigrated or died, as the situation would be in any demographic survey, most often have negligible effects on fertility measures. However, first-birth rates of immigrants gradually become more biased as we move back in time from 1999 so that they increasingly tend to over-estimate the true fertility of that population.",
+  "authors": [
+    {
+      "raw": "Andersson, Gunnar",
+      "family": "Andersson",
+      "given": "Gunnar"
+    },
+    {
+      "raw": "Sobolev, Boris",
+      "family": "Sobolev",
+      "given": "Boris"
+    }
+  ],
+  "authors_text": "Andersson, Gunnar; Sobolev, Boris",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2013,
+  "doi": "10.1007/s10680-013-9293-6",
+  "doi_url": "https://doi.org/10.1007/s10680-013-9293-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-013-9293-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-013-9293-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

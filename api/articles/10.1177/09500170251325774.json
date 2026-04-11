@@ -1,0 +1,35 @@
+{
+  "title": "Developing a Standard Measure of Job Quality",
+  "abstract": "The UK government is concerned about job quality. However the lack of scientific consensus about measuring job quality hampers policy efforts to improve the quality of jobs. To address this problem, a standard measure was developed and adopted to report job quality by the UK’s Office for National Statistics. This article outlines a replication study using a new dataset to assess the reliability and validity of this standard measure. The dataset comprises 75 empirical studies that examine job quality in the UK and elsewhere. Using this dataset, the standard measure is confirmed, encompassing six dimensions of job quality. Subsequently, this study establishes both the reproducibility of the measure and the replicability of the methods used to develop that measure. In doing so, the findings will facilitate improved research and policy development along with greater conceptual clarity regarding job quality, long called for by social scientists.",
+  "authors": [
+    {
+      "raw": "Warhurst, Chris",
+      "family": "Warhurst",
+      "given": "Chris"
+    },
+    {
+      "raw": "Knox, Angela",
+      "family": "Knox",
+      "given": "Angela"
+    },
+    {
+      "raw": "Wright, Sally",
+      "family": "Wright",
+      "given": "Sally"
+    }
+  ],
+  "authors_text": "Warhurst, Chris; Knox, Angela; Wright, Sally",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2025,
+  "doi": "10.1177/09500170251325774",
+  "doi_url": "https://doi.org/10.1177/09500170251325774",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F09500170251325774",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/09500170251325774.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

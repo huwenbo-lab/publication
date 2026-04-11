@@ -1,0 +1,50 @@
+{
+  "title": "Determinants of mortality at older ages: The role of biological markers of chronic disease",
+  "abstract": "Researchers have had a longstanding interest in understanding the determinants of mortality. This article examines the impact of a broad array of biological markers, together With self-reports of physical and mental health status, on the probability of dying for older adults. The estimates are derived from logistic regression models based on data from a national survey in Taiwan. The analysis confirms previous studies demonstrating the effects of clinical measures related to metabolic syndrome on mortality and identifies detrimental effects of neuroendocrine and immune-system markers. The results reveal that biomarkers provide independent explanatory power in the presence of self-reported health measures. The associations between biomarkers and mortality found here provide new avenues for projecting future mortality and elucidating differences in longevity across populations.",
+  "authors": [
+    {
+      "raw": "Turra, CM",
+      "family": "Turra",
+      "given": "CM"
+    },
+    {
+      "raw": "Goldman, N",
+      "family": "Goldman",
+      "given": "N"
+    },
+    {
+      "raw": "Seplaki, CL",
+      "family": "Seplaki",
+      "given": "CL"
+    },
+    {
+      "raw": "Glei, DA",
+      "family": "Glei",
+      "given": "DA"
+    },
+    {
+      "raw": "Lin, YH",
+      "family": "Lin",
+      "given": "YH"
+    },
+    {
+      "raw": "Weinstein, M",
+      "family": "Weinstein",
+      "given": "M"
+    }
+  ],
+  "authors_text": "Turra, CM; Goldman, N; Seplaki, CL; Glei, DA; Lin, YH; Weinstein, M",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2005,
+  "doi": "10.1111/j.1728-4457.2005.00093.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2005.00093.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2005.00093.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2005.00093.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Three families of automated text analysis",
+  "abstract": "Since the beginning of this millennium, data in the form of human-generated text in a machinereadable format has become increasingly available to social scientists, presenting a unique window into social life. However, harnessing vast quantities of this highly unstructured data in a systematic way presents a unique combination of analytical and methodological challenges. Luckily, our understanding of how to overcome these challenges has also developed greatly over this same period. In this article, I present a novel typology of the methods social scientists have used to analyze text data at scale in the interest of testing and developing social theory. I describe three families of methods: analyses of (1) term frequency, (2) document structure, and (3) semantic similarity. For each family of methods, I discuss their logical and statistical foundations, analytical strengths and weaknesses, as well as prominent variants and applications.",
+  "authors": [
+    {
+      "raw": "van Loon, Austin",
+      "family": "van Loon",
+      "given": "Austin"
+    }
+  ],
+  "authors_text": "van Loon, Austin",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2022.102798",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102798",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102798",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102798.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

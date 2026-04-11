@@ -1,0 +1,40 @@
+{
+  "title": "Local Social Inequality, Economic Inequality, and Disparities in Child Height in India",
+  "abstract": "This study investigates disparities in child height-an important marker of population-level health-among population groups in rural India. India is an informative context in which to study processes of health disparities because of wide heterogeneity in the degree of local segregation or integration among caste groups. Building on a literature that identifies discrimination by quantifying whether differences in socioeconomic status (SES) can account for differences in health, we decompose height differences between rural children from higher castes and rural children from three disadvantaged groups. We find that socioeconomic differences can explain the height gap for children from Scheduled Tribes (STs), who tend to live in geographically isolated places. However, SES does not fully explain height gaps for children from the Scheduled Castes (SC) and Other Backward Classes (OBCs). Among SC and OBC children, local processes of discrimination also matter: the fraction of households in a child's locality that outrank her household in the caste hierarchy predicts her height. SC and OBC children who are surrounded by other lower-caste households are no shorter than higher-caste children of the same SES. Our results contrast with studies from other populations where segregation or apartheid are negatively associated with health.",
+  "authors": [
+    {
+      "raw": "Coffey, Diane",
+      "family": "Coffey",
+      "given": "Diane"
+    },
+    {
+      "raw": "Deshpande, Ashwini",
+      "family": "Deshpande",
+      "given": "Ashwini"
+    },
+    {
+      "raw": "Hammer, Jeffrey",
+      "family": "Hammer",
+      "given": "Jeffrey"
+    },
+    {
+      "raw": "Spears, Dean",
+      "family": "Spears",
+      "given": "Dean"
+    }
+  ],
+  "authors_text": "Coffey, Diane; Deshpande, Ashwini; Hammer, Jeffrey; Spears, Dean",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00794-2",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00794-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00794-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00794-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

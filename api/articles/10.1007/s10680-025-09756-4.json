@@ -1,0 +1,35 @@
+{
+  "title": "Analysing Biases in Genealogies Using Demographic Microsimulation",
+  "abstract": "Abstract An incomplete understanding of biases affecting the representativeness of genealogies has hindered their full exploitation. We report on a series of experiments on synthetic populations assessing how structural biases in ascendant genealogies affect the accuracy of demographic estimates. Using the SOCSIM microsimulation programme and Swedish fertility and mortality data (1751–2022), we analyse three biases: lineage survival, limited coverage of collateral kin, and selective omission. Comparing demographic measures from ‘fully recorded’ and ‘bias-infused’ synthetic populations, we find that across the period, including only direct ancestors can underestimate total fertility rate (TFR) ( $$\\approx -42\\%$$ ) and overestimate life expectancy at birth ( $$e_0$$ ) ( $$\\approx +33\\%$$ ), mainly due to missing infant, child, and some young adult deaths. Including direct ancestors’ offspring shifts TFR to overestimation ( $$\\approx +21\\%$$ ) while improving mortality estimation across all ages, with $$e_0$$ overestimation reduced to $$\\approx +1.8\\%$$ . Our study shows that completeness of family trees is essential for obtaining accurate demographic estimates from genealogies.",
+  "authors": [
+    {
+      "raw": "Calderón-Bernal, Liliana P.",
+      "family": "Calderón-Bernal",
+      "given": "Liliana P."
+    },
+    {
+      "raw": "Alburez-Gutierrez, Diego",
+      "family": "Alburez-Gutierrez",
+      "given": "Diego"
+    },
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    }
+  ],
+  "authors_text": "Calderón-Bernal, Liliana P.; Alburez-Gutierrez, Diego; Zagheni, Emilio",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09756-4",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09756-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09756-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09756-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

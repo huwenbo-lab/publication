@@ -1,0 +1,30 @@
+{
+  "title": "Is the accuracy of individuals' survival beliefs associated with their knowledge of population life expectancy?",
+  "abstract": "BACKGROUND On average, individuals underestimate their survival chances, which could yield suboptimal long-term decisions. OBJECTIVE Is the accuracy of individuals' survival beliefs associated with their knowledge of population life expectancy of people of their age and gender? METHODS We use the 1995 and 1996 waves of the Dutch DNB Household Survey (DHS) with data on individuals' survival beliefs and their knowledge of population life expectancy, supplemented with death registry data for the years 1995 to 2018. The accuracy of their survival beliefs is measured by comparing these beliefs with (actual) survival during the years after the survey was conducted. We provide prima facie evidence on the association between individuals' knowledge of population life expectancy and the accuracy of their survival beliefs, and quantify this association using mortality risk models that control for socioeconomic status and health-related characteristics. RESULTS Individuals with only some over-or underestimation of population life expectancy had, on average, about a one-third smaller difference between their survival beliefs and survival rate than those who severely underestimated population life expectancy. In line with this prima facie evidence, we find that, after controlling for socioeconomic and health characteristics, 55-year-old individuals with one-year of better knowledge of population life expectancy underestimated their lifetime with, on average, about 0.3 years less (95% CI: 0.09-0.52). CONTRIBUTION We provide empirical evidence in support of the hypothesis that individuals with a better knowledge of population life expectancy have more accurate survival beliefs.",
+  "authors": [
+    {
+      "raw": "Kalwij, Adriaan",
+      "family": "Kalwij",
+      "given": "Adriaan"
+    },
+    {
+      "raw": "Koc, Vesile Kutlu",
+      "family": "Koc",
+      "given": "Vesile Kutlu"
+    }
+  ],
+  "authors_text": "Kalwij, Adriaan; Koc, Vesile Kutlu",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.14",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

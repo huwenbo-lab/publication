@@ -1,0 +1,30 @@
+{
+  "title": "Student participation in private supplementary education: A comparative analysis of Japan, Korea, Shanghai, and the USA",
+  "abstract": "Private supplementary education, which refers to private lessons and learning outside of formal schooling purchased by families, has been widely practiced in East Asia. Its demand has grown even beyond East Asia, however, as educational competition for social mobility has intensified in many parts of the world. This global trend makes it important to determine who has greater access to private supplementary education and address the implications of the differential access for educational inequality. The current study compares how family socioeconomic status (SES) and students' prior academic performance are related to their participation in private supplementary education in three East Asian societies-Japan, Korea, and Shanghai (China)-and the USA. Private supplementary education has existed on a substantial scale in Japan and Korea. The public and scholars have increased their concerns regarding the growing prevalence of private supplementary education in China. Although it has not been a major educational strategy, the demand for private supplementary education is rising in the USA as well, which can offer a useful insight into the global application of private supplementary education in contemporary educational systems. The focused comparisons across a small number of societies allow analyses of detailed patterns in each society in comparative perspective, thus moving beyond both single-country research and large-scale cross-national studies. The data for the current study come from 15-year-old students who participated in an international survey of student achievement, Programme for International Student Assessment (PISA) 2012. With a clearly defined measure of private supplementary education, PISA 2012 provides an exceptional opportunity for comparison. Drawing on data for 15-year-old students in four societies from PISA 2012, the linear probability models highlight heterogeneity among three East Asian societies. Japan is distinctive from Korea and Shanghai in terms of the influences of family SES on student participation in private supplementary education. Once school-fixed effects are taken into account, the strength of the relationship between family SES and private supplementary education in Japan is similar to the strength in the USA, which is weaker than the strength in Korea and Shanghai. Japan and the USA are also similar in that family structure is not significantly associated with private supplementary education, while students in non-two-parent families are significantly less likely to receive private supplementary education in Korea and Shanghai. The school-fixed-effects models also show that the within-school relationship between students' prior academic performance and their participation in private supplementary education is generally negative. Japan, Shanghai, and the USA show a significantly negative relationship, while only Korea shows no significant relationship. Future research directions are suggested in the conclusion.",
+  "authors": [
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    },
+    {
+      "raw": "Lim, Youngshin",
+      "family": "Lim",
+      "given": "Youngshin"
+    }
+  ],
+  "authors_text": "Park, Hyunjoon; Lim, Youngshin",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2020,
+  "doi": "10.1177/2057150x20916011",
+  "doi_url": "https://doi.org/10.1177/2057150x20916011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x20916011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x20916011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

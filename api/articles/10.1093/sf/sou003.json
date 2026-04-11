@@ -1,0 +1,40 @@
+{
+  "title": "Curricular Tracking and Central Examinations: Counterbalancing the Impact of Social Background on Student Achievement in 36 Countries",
+  "abstract": "Tracked educational systems are associated with greater social inequality in children's educational achievement. Until now, research has assumed that the impact of tracking on the inequality of educational opportunity is independent of other educational institutional features. Using data from the 2009 PISA survey, we study how central examinations affect the association between tracking and inequality. We find that parental socioeconomic status has a larger effect on A-student achievement in systems without central examinations, whereas in systems with A-central examinations, this relationship is attenuated. We argue that central examinations help hold schools accountable for their performance, which (1) encourages schools to allocate students to tracks on the basis of more objective indicators and (2) makes it likely for schools to invest more in lower-track students. Thus, central exams attenuate the stronger impact of parental status on children's performance in tracked educational systems.",
+  "authors": [
+    {
+      "raw": "Bol, T.",
+      "family": "Bol",
+      "given": "T."
+    },
+    {
+      "raw": "Witschge, J.",
+      "family": "Witschge",
+      "given": "J."
+    },
+    {
+      "raw": "Van de Werfhorst, H. G.",
+      "family": "Van de Werfhorst",
+      "given": "H. G."
+    },
+    {
+      "raw": "Dronkers, J.",
+      "family": "Dronkers",
+      "given": "J."
+    }
+  ],
+  "authors_text": "Bol, T.; Witschge, J.; Van de Werfhorst, H. G.; Dronkers, J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2014,
+  "doi": "10.1093/sf/sou003",
+  "doi_url": "https://doi.org/10.1093/sf/sou003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

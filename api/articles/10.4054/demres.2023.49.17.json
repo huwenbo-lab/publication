@@ -1,0 +1,30 @@
+{
+  "title": "Partial fertility recuperation in Spain two years after the onset of the COVID-19 pandemic",
+  "abstract": "BACKGROUND Following the onset of the COVID-19 pandemic a host of countries saw drastic fertility declines, followed by a variety of fertility patterns. It remains unclear whether these initial baby busts have been recuperated, and, if so, whether the recuperation occurred homogenously across maternal age groups and parity categories.OBJECTIVE We assess period fertility recuperation as the cumulative difference between observed fertility trends and a predicted counterfactual trend simulating fertility patterns without the pandemic. We focus on Spain, the European country that suffered the most severe fertility decline during the pandemic. METHODS We use vital statistics on Spain and ARIMA models to forecast counterfactual trends in total, age-specific (15-24; 25-34; 35-49), and parity-specific (first vs. second+ births) fertility rates for the months when fertility could have been affected by the pandemic. We then calculate the cumulative residual between modeled/forecasted trends and observed fertility rates to estimate the fertility deficit and recuperation.RESULTS By December 2021, Spain had only seen a partial and heterogenous fertility recuperation, relative to expected trends. Births from women at the beginning and end of their reproductive ages and those transitioning to first child had not yet recuperated, whereas women in the middle of the fertility window and second or higher order births had fully recuperated.",
+  "authors": [
+    {
+      "raw": "Fallesen, Peter",
+      "family": "Fallesen",
+      "given": "Peter"
+    },
+    {
+      "raw": "Cozzani, Marco",
+      "family": "Cozzani",
+      "given": "Marco"
+    }
+  ],
+  "authors_text": "Fallesen, Peter; Cozzani, Marco",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.17",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.17",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.17",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.17.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

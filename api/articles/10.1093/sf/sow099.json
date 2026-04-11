@@ -1,0 +1,30 @@
+{
+  "title": "From Subcultures to Toolkits: Ethnicity and Violence in Israeli Prisons",
+  "abstract": "Research on violence in US prisons frequently finds higher rates of violence among ethnic minorities compared to whites. Explanations focus on a subculture of violence, sometimes referred to as an honor culture or code of the street, whereby minorities import a deeply internalized, violent subculture into prison. Subcultural theories of violence have been challenged by scholarship that views culture as providing a toolkit of frames and scripts that individuals draw upon in different social contexts. According to this model, the importation of violence is far from inevitable, because violence results from the interplay between social context and cultural toolkits. We assess the ability of these two cultural models to explain ethnic differences in prison violence in a different national context by comparing rates of violence among Arab Muslim and Jewish criminal prisoners in Israel. Subcultural models lead us to expect higher rates of violence among Arab Muslim prisoners, while a toolkit-based explanation that draws on social identity research predicts lower rates of violence. We test these hypotheses using both logistic regression and propensity score matching on data covering over 16,000 prisoners, supplemented by in-depth interviews with prisoners and staff. Our results conflict with the expectations of subcultural theories and lend support to culture-as-toolkit explanations. We conclude by discussing the relevance of our findings for research on prison violence, theories of the relationship between culture and violence, and the usefulness of incorporating social identity into toolkit theory.",
+  "authors": [
+    {
+      "raw": "Guetzkow, Josh",
+      "family": "Guetzkow",
+      "given": "Josh"
+    },
+    {
+      "raw": "Ben-Zvi, Kathrine",
+      "family": "Ben-Zvi",
+      "given": "Kathrine"
+    }
+  ],
+  "authors_text": "Guetzkow, Josh; Ben-Zvi, Kathrine",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sow099",
+  "doi_url": "https://doi.org/10.1093/sf/sow099",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow099",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow099.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

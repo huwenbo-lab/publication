@@ -1,0 +1,25 @@
+{
+  "title": "Setting the census household into its urban context: Visualizations from 19th-century Montreal",
+  "abstract": "BACKGROUND Organized by household, North American census data promoted research into household composition, but discouraged research into connections between urban households. Yet these constitute communications communities that powerfully influence demographic decisions (Szreter 1996). OBJECTIVE How can we uncover relations between urban households? From spatial cues, can we infer social connections that generate constraints on or incentives for the formation of a household, its break-up, reconstitution, or relocation? METHODS For Montreal and its suburbs, 1881-1901, we employ double geocoding and lot-level precision to explore a dozen types of relationships. Samples for experiment are drawn from a local historical geographic information system (HGIS) that integrates tax roll and directory with census data. RESULTS 'Family' was socially embedded at three levels. Neighbouring of kin was strategic, and kinship was a factor in employment, enterprise, and property development as well as residential choices. In managing property, family networks operated with a horizon of four generations. CONCLUSIONS Introduction of geographic coordinates offers a critical set of neglected cues to relationships between households, such as business partnerships, credit, or use of transit or telephone. In an urban HGIS, advantageous features are lot-level precision and facilities for coding and matching addresses to accommodate alternative levels of spatial aggregation.",
+  "authors": [
+    {
+      "raw": "Olson, Sherry",
+      "family": "Olson",
+      "given": "Sherry"
+    }
+  ],
+  "authors_text": "Olson, Sherry",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.46",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.46",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.46",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.46.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

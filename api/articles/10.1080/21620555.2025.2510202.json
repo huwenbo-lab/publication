@@ -1,0 +1,35 @@
+{
+  "title": "The mental health consequences of living in crowded housing: evidence from Hong Kong",
+  "abstract": "Housing conditions have increasingly received attention among social stratification scholars. While the association between housing conditions and mental distress is well-established, systematic evidence from densely populated cities remains scarce. Drawing on survey data from the Hong Kong Panel Study of Social Dynamics (2017-2018), this study investigates the relationship between housing crowding and mental health in Hong Kong. Employing inverse probability of weighting (IPW) method to address selection bias, our analysis reveals that residents of crowded housing experience higher risks of psychological distress, even after accounting for individual, family, and neighborhood characteristics. Further analysis shows that neighborhood social cohesion can help mitigate the negative effects of crowded living housing, whereas family function does not. These results provide valuable insights into housing inequality in densely populated cities, underscoring the necessity of incorporating housing conditions into policy making.",
+  "authors": [
+    {
+      "raw": "Yin, Jun",
+      "family": "Yin",
+      "given": "Jun"
+    },
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    },
+    {
+      "raw": "Ye, Yizhou",
+      "family": "Ye",
+      "given": "Yizhou"
+    }
+  ],
+  "authors_text": "Yin, Jun; Wu, Xiaogang; Ye, Yizhou",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1080/21620555.2025.2510202",
+  "doi_url": "https://doi.org/10.1080/21620555.2025.2510202",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2025.2510202",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2025.2510202.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

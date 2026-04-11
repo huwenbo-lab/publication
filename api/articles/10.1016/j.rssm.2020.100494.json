@@ -1,0 +1,30 @@
+{
+  "title": "Heterogeneity in unemployment dynamics: (Un)observed drivers of the longitudinal accumulation of risks",
+  "abstract": "This paper studies the unobserved factors accounting for the stickiness of unemployment and for its micro-level longitudinal accumulation. The paper disentangles 'genuine state dependence' from unobserved heterogeneity in individual characteristics and accounts for their weight and possible interplay. In addition, it proposes an innovative framework for investigating heterogeneity in unemployment persistence. In particular, the paper documents variation in unemployment dynamics across workforce segments defined by unobserved factors associated with patterns of past unemployment. Analyses apply correlated dynamic random-effects probit models to EU-SILC data from 2004 to 2015 for four European countries (DK, FR, IT and UK). Empirical results indicate that unobserved heterogeneity, genuine state dependence and their interaction, are relevant factors to take into account in explaining the recurrence and accumulation of unemployment and long-term unemployment risks. The analysis also shows how the role of these two factors and, relatedly, the dynamics of risks accumulation vary according to different institutional contexts. Finally, the paper discusses how the joint evaluation of unobserved heterogeneity, genuine state dependence and their interplay can provide fruitful insights for theories of cumulative advantages and the efficient design of policy measures intended to address the accumulation of occupational penalties over time.",
+  "authors": [
+    {
+      "raw": "Cutuli, Giorgio",
+      "family": "Cutuli",
+      "given": "Giorgio"
+    },
+    {
+      "raw": "Grotti, Raffaele",
+      "family": "Grotti",
+      "given": "Raffaele"
+    }
+  ],
+  "authors_text": "Cutuli, Giorgio; Grotti, Raffaele",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100494",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100494",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100494",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100494.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

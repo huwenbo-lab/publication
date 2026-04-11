@@ -1,0 +1,25 @@
+{
+  "title": "Immigrants' Life Satisfaction in Europe: Between Assimilation and Discrimination",
+  "abstract": "Using data from the three rounds of the European Social Survey, this article investigates the disparities in life satisfaction measures between the first- and second-generation immigrants, on the one hand, and the natives, on the other hand, in 13 European countries. Two major theoretical hypotheses explaining the lower level of immigrants’ subjective well-being are tested: the straight line assimilation and the effect of discrimination. The main finding is that immigrants’ relative dissatisfaction does not diminish with time and across generations, which refutes the predictions of the assimilation paradigm. However, when ethnic groups are compared, the discrimination some of them perceive in the host society seems to be a more consistent explanation for their lower life satisfaction level. The effect of discrimination is measured with an attempt to correct for the endogeneity bias that it may lead to by using simultaneous regressions with instrumental variables.",
+  "authors": [
+    {
+      "raw": "Safi, M.",
+      "family": "Safi",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Safi, M.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2009,
+  "doi": "10.1093/esr/jcp013",
+  "doi_url": "https://doi.org/10.1093/esr/jcp013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcp013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcp013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

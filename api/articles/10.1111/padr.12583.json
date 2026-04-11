@@ -1,0 +1,25 @@
+{
+  "title": "On the Health Impacts of Climatic Shocks: How Heatwaves Reduce Birthweight in Sub-Saharan Africa",
+  "abstract": "Heatwaves are among the most important global public health challenges of our time. Yet we know little about how exposure to heatwaves (as opposed to hot days) affects health at birth, which is a key contributor to health, development, and well-being in later life. This study addresses this shortcoming by investigating the relationship between in utero exposure to heatwave and birthweight by assessing both the timing and mechanisms of heatwave effects. I use novel georeferenced survey data on birth and pregnancy outcomes from the latest round of the Demographic and Health Surveys to link the birth outcomes of 64,210 infants across 11 sub-Saharan African countries with high-resolution daily climate data. I find that infants exposed to heatwave in the third trimester of gestation had significantly lower birthweight and that this effect is mediated by reduced gestational age at birth instead of reduced intrauterine growth. The effect of heatwave is concentrated among male babies and mothers with no or little formal education. By highlighting how exposure to environmental conditions early in life shapes health outcomes with far-reaching consequences, the findings carry lessons for policymakers to protect pregnant women from heatwave exposure to mitigate the negative impact of climate change.",
+  "authors": [
+    {
+      "raw": "Andriano, Liliana",
+      "family": "Andriano",
+      "given": "Liliana"
+    }
+  ],
+  "authors_text": "Andriano, Liliana",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2023,
+  "doi": "10.1111/padr.12583",
+  "doi_url": "https://doi.org/10.1111/padr.12583",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12583",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12583.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

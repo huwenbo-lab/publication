@@ -1,0 +1,30 @@
+{
+  "title": "Important Matters in Political Context",
+  "abstract": "The 2004 General Social Survey (GSS) reported significant increases in social isolation and significant decreases in ego network size relative to previous periods. These results have been repeatedly challenged. Critics have argued that malfeasant interviewers, coding errors, or training effects lie behind these results. While each critique has some merit, none precisely identify the cause of decreased ego network size. In this article, we show that it matters that the 2004 GSS—unlike other GSS surveys—was fielded during a highly polarized election period. We find that the difference in network size between nonpartisan and partisan voters in the 2004 GSS is larger than in all other GSS surveys. We further discover that core discussion network size decreases precipitously in the period immediately around the first (2004) presidential debate, suggesting that the debate frames 'important matters' as political matters. This political priming effect is stronger where geographic polarization is weaker and among those who are politically interested and talk about politics more often. Combined, these findings identify the specific mechanism for the reported decline in network size, indicate that inferences about increased social isolation in America arising from the 2004 GSS are unwarranted, and suggest the emergence of increased political isolation.",
+  "authors": [
+    {
+      "raw": "Lee, Byungkyu",
+      "family": "Lee",
+      "given": "Byungkyu"
+    },
+    {
+      "raw": "Bearman, Peter",
+      "family": "Bearman",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Lee, Byungkyu; Bearman, Peter",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2017,
+  "doi": "10.15195/v4.a1",
+  "doi_url": "https://doi.org/10.15195/v4.a1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv4.a1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v4.a1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

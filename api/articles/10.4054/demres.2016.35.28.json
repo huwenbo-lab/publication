@@ -1,0 +1,35 @@
+{
+  "title": "GDP and life expectancy in Italy and Spain over the long run: A time-series approach",
+  "abstract": "BACKGROUND A growing body of literature focuses on the relationship between life expectancy and GDP per capita. However, available studies to date are overwhelmingly based on either cross-country or cross-sectional data. We address the issue from a novel, more historically grounded approach, i.e., comparing long-run consistent time series. OBJECTIVE To investigate what, if any, is the causal link between life expectancy and GDP. METHODS We provide consistent and updated long-term yearly time series of GDP and life expectancy for Italy and Spain and compare them with those available for France. RESULTS Both Italy and Spain converged towards the European core (France) earlier in life expectancy than in GDP. We find it necessary to split the series into two sub-periods, and we find that, in general, both improvements in life expectancy cause GDP growth and economic growth causes improvements in life expectancy. For the countries and the periods considered there are, however, exceptions in both cases. CONCLUSIONS Our findings confirm the hypothesis of a non-monotonic relationship between life expectancy and income, but they also emphasize the importance of empirical qualifications, imposed by the historical experience of each national case.",
+  "authors": [
+    {
+      "raw": "Felice, Emanuele",
+      "family": "Felice",
+      "given": "Emanuele"
+    },
+    {
+      "raw": "Andreu, Josep Pujol",
+      "family": "Andreu",
+      "given": "Josep Pujol"
+    },
+    {
+      "raw": "D'Ippoliti, Carlo",
+      "family": "D'Ippoliti",
+      "given": "Carlo"
+    }
+  ],
+  "authors_text": "Felice, Emanuele; Andreu, Josep Pujol; D'Ippoliti, Carlo",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.28",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.28",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.28",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.28.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

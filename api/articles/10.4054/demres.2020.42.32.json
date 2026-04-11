@@ -1,0 +1,40 @@
+{
+  "title": "Calloused hands, shorter life? Occupation and older-age survival in Mexico",
+  "abstract": "BACKGROUND Inequalities in mortality are often attributed to socioeconomic differences in education level, income, and wealth. Low socioeconomic status (SES) is generally related to worse health and survival across the life course. Yet, disadvantaged people are also more likely to hold jobs requiring heavy physical labor, repetitive movement, ergonomic strain, and safety hazards. OBJECTIVE We examine the link between primary lifetime occupation, together with education and net worth, on survival among older adults in Mexico. METHODS We use data from four waves (2001, 2003, 2012, and 2015) of the Mexican Health and Aging Study (MHAS). We estimate age-specific mortality rates for ages 50 and over using a hazards model based on a two-parameter Gompertz function. RESULTS Primary lifetime occupations have a stronger association with survival for women than men. Women with higher socioeconomic status have significantly lower mortality rates than lower status women, whether SES is assessed in terms of schooling, wealth, or occupation. Occupational categories are not jointly related to survival among men, even without controls for education and wealth. There are significant survival differences by wealth among men, but no disparities in mortality by education. CONCLUSIONS Consistent with recent studies of the Mexican population, we fail to find the expected gradient in the association between some measures of SES and better survival among men. CONTRIBUTION Our estimates extend this anomalous pattern among Mexican men to another dimension of SES, occupation. SES differentials in mortality are substantially larger for Mexican women, highlighting an important gender disparity.",
+  "authors": [
+    {
+      "raw": "Beltran-Sanchez, Hiram",
+      "family": "Beltran-Sanchez",
+      "given": "Hiram"
+    },
+    {
+      "raw": "Goldman, Noreen",
+      "family": "Goldman",
+      "given": "Noreen"
+    },
+    {
+      "raw": "Pebley, Anne R.",
+      "family": "Pebley",
+      "given": "Anne R."
+    },
+    {
+      "raw": "Morales, Josefina Flores",
+      "family": "Morales",
+      "given": "Josefina Flores"
+    }
+  ],
+  "authors_text": "Beltran-Sanchez, Hiram; Goldman, Noreen; Pebley, Anne R.; Morales, Josefina Flores",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.32",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.32",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.32",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.32.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

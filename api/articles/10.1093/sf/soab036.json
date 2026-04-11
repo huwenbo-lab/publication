@@ -1,0 +1,30 @@
+{
+  "title": "Network Structure in Small Groups and Survival in Disasters",
+  "abstract": "People in disaster and emergency situations (e.g., building fires) tend to adhere to the social obligations and expectations that are embedded in their preexisting roles and relationships. Accordingly, people survive or perish in groups- specifically, alongside those to whom they were connected before the situation emerged. This article uses social network analysis to expand on this collective behavior account. Specifically, we consider structural heterogeneity with respect to the internal configurations of social ties that compose small groups facing these situations together. Some groups are composed of cohesive subsets of members who can split off from each other during evacuation without violating their group's internal role-based expectations. We argue that groups that possess this breakaway structure can respond to emergencies more flexibly. We explore this using data from the Beverly Hills Supper Club fire of 1977, which killed 165 people. Our data include 303 groups (parties) that consisted of 746 people who were present in the dining room where most of the fatalities occurred. Fatality rates were significantly lower in groups that were internally structured such that they could split up in different ways during the escape while still maintaining their strongest social bonds.",
+  "authors": [
+    {
+      "raw": "Cornwell, Benjamin",
+      "family": "Cornwell",
+      "given": "Benjamin"
+    },
+    {
+      "raw": "Ho, Jing-Mao",
+      "family": "Ho",
+      "given": "Jing-Mao"
+    }
+  ],
+  "authors_text": "Cornwell, Benjamin; Ho, Jing-Mao",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab036",
+  "doi_url": "https://doi.org/10.1093/sf/soab036",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab036",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab036.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

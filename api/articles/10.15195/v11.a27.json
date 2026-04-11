@@ -1,0 +1,40 @@
+{
+  "title": "Teacher Bias in Assessments by Student Ascribed Status: A Factorial Experiment on Discrimination in Education",
+  "abstract": "Teachers are the evaluators of academic merit. Identifying if their assessments are fair or biased by student-ascribed status is critical for equal opportunity but empirically challenging, with mixed previous findings. We test status characteristics beliefs, statistical discrimination, and cultural capital theories with a pre-registered factorial experiment on a large sample of Spanish pre-service teachers (n = 1, 717). This design causally identifies, net of ability, the impact of student-ascribed characteristics on teacher short- and long-term assessments, improving prior studies' theory testing, confounding, and power. Findings unveil teacher bias in an essay grading task favoring girls and highbrow cultural capital, aligning with status characteristics and cultural capital theories. Results on teachers' long-term expectations indicate statistical discrimination against boys, migrant origin, and working-class students under uncertain information. Unexpectedly, ethnic discrimination changes from teachers favoring native origin in long-term expectations to migrant origin in short-term evaluations, suggesting compensatory grading. We discuss the complex roots of discrimination in teacher assessments as an educational (in)equality mechanism.",
+  "authors": [
+    {
+      "raw": "Gil-Hernández, Carlos",
+      "family": "Gil-Hernández",
+      "given": "Carlos"
+    },
+    {
+      "raw": "Pañeda-Fernández, Irene",
+      "family": "Pañeda-Fernández",
+      "given": "Irene"
+    },
+    {
+      "raw": "Salazar, Leire",
+      "family": "Salazar",
+      "given": "Leire"
+    },
+    {
+      "raw": "Muñoz, Jonatan",
+      "family": "Muñoz",
+      "given": "Jonatan"
+    }
+  ],
+  "authors_text": "Gil-Hernández, Carlos; Pañeda-Fernández, Irene; Salazar, Leire; Muñoz, Jonatan",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2024,
+  "doi": "10.15195/v11.a27",
+  "doi_url": "https://doi.org/10.15195/v11.a27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv11.a27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v11.a27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

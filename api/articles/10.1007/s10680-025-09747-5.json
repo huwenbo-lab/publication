@@ -1,0 +1,35 @@
+{
+  "title": "Quantifying the Role of Self-Declared Obstacles to Unachieved Fertility: Proposing A New Method",
+  "abstract": "Abstract The discrepancies between desired and actual fertility rates are one of the key topics in fertility studies. This paper aims to explore the fertility gap—the difference between desired fertility size and actual fertility outcomes, and how this gap can be decomposed according to the importance of various perceived barriers to fertility. This article introduces an innovative approach to quantify the impact of removing obstacles that individuals report prevent them from having a child (or another child) on the total fertility rate ( $$\\text{TFR}$$ TFR ). On the one hand, this method offers an alternative perspective on the relationship between the desired number of children and observed fertility outcomes. Unlike conventional analyses that begin with the differences between desired and actual fertility levels, this approach considers that the sum of the fertility gap—defined by the reported reasons that hinder individuals from having children—and the observed fertility level represents the obstacle-removed $$\\text{TFR}$$ TFR . On the other hand, this method provides a cause-deleted analysis for fertility, addressing a gap in formal demographic analysis which has historically focussed on mortality research. Although this approach introduces some assumptions, the results offer insights into the relative importance of reported obstacles to fertility.",
+  "authors": [
+    {
+      "raw": "Cui, Qi",
+      "family": "Cui",
+      "given": "Qi"
+    },
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    },
+    {
+      "raw": "Esteve, Albert",
+      "family": "Esteve",
+      "given": "Albert"
+    }
+  ],
+  "authors_text": "Cui, Qi; Boertien, Diederik; Esteve, Albert",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09747-5",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09747-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09747-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09747-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

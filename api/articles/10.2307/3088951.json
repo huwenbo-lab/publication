@@ -1,0 +1,30 @@
+{
+  "title": "Uncertainty, risk, and trust: Russian and American credit card markets compared",
+  "abstract": "The strategies that Russian and American banks use to evaluate the creditworthiness of prospective credit card holders are compared. Drawing on Knight's theory of risk and uncertainty, the authors argue that uncertainty, inherent in any credit transaction, can only be reduced to measurable risk if there are institutions that create stability over time, categorize events properly, and allow for verification and accumulation of information. In the United States, the gradual evolution of institutions underpinning rational calculation permits the transformation of uncertainty into risk. In Russia, however, such institutions are absent, and a great degree of uncertainty prevails in consumer credit. Using data from original fieldwork in Moscow, this study demonstrates that when actors face uncertainty and are unable to calculate risk, they rely on trust. Russian banks use and extend their existing social ties, or in some cases build new ties. They also exploit cardholders' own networks, unrelated to the bank, to increase their accountability through anchoring. These strategies, however, keep the market embedded, limited in size, and uninsurable. The authors conclude that calculation of probabilities (and economic rationality in its formal sense) is not an innate human ability but a social capacity that exists courtesy of institutional arrangements.",
+  "authors": [
+    {
+      "raw": "Guseva, A",
+      "family": "Guseva",
+      "given": "A"
+    },
+    {
+      "raw": "Rona-Tas, A",
+      "family": "Rona-Tas",
+      "given": "A"
+    }
+  ],
+  "authors_text": "Guseva, A; Rona-Tas, A",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2001,
+  "doi": "10.2307/3088951",
+  "doi_url": "https://doi.org/10.2307/3088951",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F3088951",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/3088951.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

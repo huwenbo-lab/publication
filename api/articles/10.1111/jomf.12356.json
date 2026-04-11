@@ -1,0 +1,35 @@
+{
+  "title": "Marital Conflict Trajectories and Associations With Children's Disruptive Behavior",
+  "abstract": "We seek to identify heterogeneous trajectories of marital conflict during the early childhood period, identify predictors associated with these trajectories, and examine associations between trajectory group membership and children's disruptive behavior. Participants were 469 families examined 4 times when the children were 2 to 54 months of age. Maternal reports of marital conflict, adverse childhood experiences, depressive symptoms, and sociodemographic characteristics were collected, and averaged maternal and paternal reports of child disruptive problems were used. Using growth mixture modeling, 3 trajectories of marital conflict were identified: high increasing (21.8%), high decreasing (7%), and low stable (71.2%). Maternal adverse childhood experiences predicted increased risk of belonging in the high-increasing group, whereas depressive symptoms predicted increased risk of belonging in the high-decreasing group. Importantly, children of mothers in the high-increasing group exhibited higher levels of disruptive behavior at 54 months when compared with children of mothers in the high-decreasing and low-stable groups.",
+  "authors": [
+    {
+      "raw": "Madigan, Sheri",
+      "family": "Madigan",
+      "given": "Sheri"
+    },
+    {
+      "raw": "Plamondon, Andre",
+      "family": "Plamondon",
+      "given": "Andre"
+    },
+    {
+      "raw": "Jenkins, Jennifer M.",
+      "family": "Jenkins",
+      "given": "Jennifer M."
+    }
+  ],
+  "authors_text": "Madigan, Sheri; Plamondon, Andre; Jenkins, Jennifer M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2017,
+  "doi": "10.1111/jomf.12356",
+  "doi_url": "https://doi.org/10.1111/jomf.12356",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12356",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12356.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

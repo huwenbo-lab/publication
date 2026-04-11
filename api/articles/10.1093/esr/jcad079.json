@@ -1,0 +1,25 @@
+{
+  "title": "Does information reduce interpersonal violence? Evidence from prisons",
+  "abstract": "Why does interpersonal violence erupt? A key source is conflict over resources and a little-studied mechanism for solving such cases concerns the availability of credible information about individuals' abilities and willingness to use force. Its core prediction is that when such credible information abounds, the outcome of a potential struggle can be anticipated and thus there is no need to fight. I test this prediction using a nationally representative survey of male prisoners (Ninmates = 10,768, Nfacilities = 207) incarcerated in US state correctional facilities. I also make two methodologically orientated contributions. First, recent research highlights the important consequences that data analysis choices can have in determining quantitative findings. To overcome this, I draw on multiverse analysis and specification curve analysis to map out the key analytical decisions I make and run 262,144 plausible regression models. By doing so, I classify associations that are robust, mixed, or entirely frail according to analytic decisions and find partial support for the informational mechanism of interpersonal violence. Second, in contrast to much quantitative prison research, which uses only official or institutionally punished assaults data, I compare self-recognized fights to self-reported institutionally punished fights and highlight key differences.",
+  "authors": [
+    {
+      "raw": "Szekely, Aron",
+      "family": "Szekely",
+      "given": "Aron"
+    }
+  ],
+  "authors_text": "Szekely, Aron",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad079",
+  "doi_url": "https://doi.org/10.1093/esr/jcad079",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad079",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad079.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

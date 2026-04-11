@@ -1,0 +1,35 @@
+{
+  "title": "Private Financial Transfers, Family Income, and the Great Recession",
+  "abstract": "Using longitudinal data from the Fragile Families and Child Wellbeing Study (N = 4,701; 1998–2010), the authors studied whether the unemployment rate was associated with private financial transfers (PFTs) among urban families with young children and whether family income moderated these associations. They found that an increase in the unemployment rate was associated with greater PFT receipt and that family income moderated the association. Poor and near‐poor mothers experienced increases in PFT receipt when unemployment rates were high, whereas mothers with incomes between 2 and 3 times the poverty threshold experienced decreases. Simulations estimating the impact of the Great Recession suggest that moving from 5% to 10% unemployment is associated with a 9‐percentage‐point increase in the predicted probability of receiving a PFT for the sample as a whole, with greater increases in predicted probabilities among poor and near‐poor mothers.",
+  "authors": [
+    {
+      "raw": "Gottlieb, Aaron",
+      "family": "Gottlieb",
+      "given": "Aaron"
+    },
+    {
+      "raw": "Pilkauskas, Natasha",
+      "family": "Pilkauskas",
+      "given": "Natasha"
+    },
+    {
+      "raw": "Garfinkel, Irwin",
+      "family": "Garfinkel",
+      "given": "Irwin"
+    }
+  ],
+  "authors_text": "Gottlieb, Aaron; Pilkauskas, Natasha; Garfinkel, Irwin",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2014,
+  "doi": "10.1111/jomf.12134",
+  "doi_url": "https://doi.org/10.1111/jomf.12134",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12134",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12134.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

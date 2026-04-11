@@ -1,0 +1,25 @@
+{
+  "title": "Social and Genetic Pathways in Multigenerational Transmission of Educational Attainment",
+  "abstract": "This study investigates the complex roles of the social environment and genes in the multigenerational transmission of educational attainment. Drawing on genome-wide data and educational attainment measures from the Framingham Heart Study (FHS) and the Health and Retirement Study (HRS), I conduct polygenic score analyses to examine genetic confounding in the estimation of parents' and grandparents' influences on their children's and grandchildren's educational attainment. I also examine social genetic effects (i.e., genetic effects that operate through the social environment) in the transmission of educational attainment across three generations. Two-generation analyses produce three important findings. First, about one-fifth of the parent-child association in education reflects genetic inheritance. Second, up to half of the association between parents' polygenic scores and children's education is mediated by parents' education. Third, about one-third of the association between children's polygenic scores and their educational attainment is attributable to parents' genotypes and education. Three-generation analyses suggest that genetic confounding on the estimate of the direct effect of grandparents' education on grandchildren's education (net of parents' education) may be inconsequential, and I find no evidence that grandparents' genotypes significantly influence grandchildren's education through non-biological pathways. The three-generation results are suggestive, and the results may change when different samples are used.",
+  "authors": [
+    {
+      "raw": "Liu, Hexuan",
+      "family": "Liu",
+      "given": "Hexuan"
+    }
+  ],
+  "authors_text": "Liu, Hexuan",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1177/0003122418759651",
+  "doi_url": "https://doi.org/10.1177/0003122418759651",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122418759651",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122418759651.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

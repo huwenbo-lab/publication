@@ -1,0 +1,35 @@
+{
+  "title": "Spatial and Sociodemographic Vulnerability: Quantifying Accessibility to Health Care and Legal Services for Immigrants in California, Arizona, and Nevada",
+  "abstract": "Nonprofits provide a range of human and social services in the United States, producing what some call the delegated welfare state. The authors aim to quantify inequities in nonprofit service provision by focusing on two types of vulnerabilities: spatial and socio-demographic. Specifically, the authors develop a service accessibility index to identify mismatch between population demand and locational supply of nonprofits. The authors apply the index to an original data set of more than 1,500 immigrant-serving legal and health organization in California, Nevada, and Arizona. The authors find that immigrants living in rural areas are underserved, especially in access to justice, compared with those in metropolitan areas but that residents of smaller cities have better access, especially to health services, than those in larger cities. The service accessibility index not only brings such inequities into relief but raises critical questions about the determinants and consequences of service-access variability, for vulnerable immigrants and others dependent on the nonprofit safety net.",
+  "authors": [
+    {
+      "raw": "Roubenoff, Ethan",
+      "family": "Roubenoff",
+      "given": "Ethan"
+    },
+    {
+      "raw": "Slootjes, Jasmijn",
+      "family": "Slootjes",
+      "given": "Jasmijn"
+    },
+    {
+      "raw": "Bloemraad, Irene",
+      "family": "Bloemraad",
+      "given": "Irene"
+    }
+  ],
+  "authors_text": "Roubenoff, Ethan; Slootjes, Jasmijn; Bloemraad, Irene",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231157683",
+  "doi_url": "https://doi.org/10.1177/23780231231157683",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231157683",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231157683.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

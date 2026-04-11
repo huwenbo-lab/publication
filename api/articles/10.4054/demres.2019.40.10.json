@@ -1,0 +1,30 @@
+{
+  "title": "Identifying interaction effects using random fertility shocks",
+  "abstract": "BACKGROUND Fertility interaction effects in social networks increasingly attracts the interest of demographers. While these theories propose a causal mechanism, they are rarely put to test in a plausibly causal statistical design. OBJECTIVE We aim to differentiate network effects from selection by using an instrumental variable (IV) approach to achieve exogenous variation in fertility. We use interaction effects between siblings as an empirical example. METHODS We draw data from Norwegian administrative registers (N similar to 170,000 men and women). We use twin births and children's sex composition as random fertility shocks (IVs), generating exogenous variation in third births. RESULTS In our full study sample, we find no significant effects on ego's fertility of random shocks to the propensity to have three children. Subgroup analysis by sex and parity indicates positive effects for firstborn women when the sibling's birth is intended (as captured by the same-sex instrument). We find no evidence that similarity strengthens interaction effects. CONCLUSIONS The study contributes to the literature by testing long-standing hypotheses of fertility interaction effects in a plausibly causal design. With the exception of firstborn women, we find no evidence of interaction effects of a sibling's third birth.",
+  "authors": [
+    {
+      "raw": "Hart, Rannveig Kaldager",
+      "family": "Hart",
+      "given": "Rannveig Kaldager"
+    },
+    {
+      "raw": "Cools, Sara",
+      "family": "Cools",
+      "given": "Sara"
+    }
+  ],
+  "authors_text": "Hart, Rannveig Kaldager; Cools, Sara",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.10",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

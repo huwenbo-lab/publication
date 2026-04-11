@@ -1,0 +1,30 @@
+{
+  "title": "Raising hope: The impact of intergenerational mobility on fertility desire in China",
+  "abstract": "Children play such a crucial role in Chinese families that their future socioeconomic prospects significantly influence parents' decisions regarding fertility. Drawing on data from the 2010-2018 Chinese General Social Survey, this study investigates the impact of macro-level intergenerational mobility on fertility intentions. The findings reveal a positive association between relative mobility and desired family size. Mediation analysis highlights the importance of subjective attitudes, including expected social status, subjective well-being, and societal evaluations. Additionally, analyses along socioeconomic gradients demonstrate a diminishing effect of relative mobility with increasing socioeconomic status, though it remains non-negative among high socioeconomic groups. Furthermore, there are gender differences, with a more pronounced pattern observed among men than women, particularly regarding the preference for male offspring. Finally, the instrumental variable method mitigates attenuation biases arising from measurement errors. This study advances our understanding of macro-level determinants of fertility intentions and underscores the significance of mobility opportunities for fertility policy considerations.",
+  "authors": [
+    {
+      "raw": "Cai, Weicheng",
+      "family": "Cai",
+      "given": "Weicheng"
+    },
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Cai, Weicheng; Xie, Yu",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1177/2057150x251347431",
+  "doi_url": "https://doi.org/10.1177/2057150x251347431",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x251347431",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x251347431.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "'Sing Me a Song with Social Significance': The (Mis)Use of Statistical Significance Testing in European Sociological Research",
+  "abstract": "In this article, we analyse the ritual of null hypothesis significance testing among the European sociologists. The focus is on the distinction between statistical significance and substantive, sociological significance. We review all articles published in the European Sociological Review between 2000-2004 and 2010-2014 that use regression models (N = 356). Our main aim is to determine whether the authors discuss the effect size of their findings and distinguish substantive from statistical significance. We apply a five-item questionnaire to each article and find that about half of the articles erroneously interpret a statistically insignificant coefficient as a zero effect, while only one in three engage in a discussion of the substantive meaning of the effect sizes. Moreover, our findings show a negative trend in the practice of significance testing over the past 15 years. These results are similar to those of the comparable review in the field of economics. We conclude by providing a set of recommendations on how to reduce the misuse of significance testing in sociological research, through an informed benchmarking of the findings.",
+  "authors": [
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    },
+    {
+      "raw": "Chakhaia, Lela",
+      "family": "Chakhaia",
+      "given": "Lela"
+    },
+    {
+      "raw": "Leopold, Liliya",
+      "family": "Leopold",
+      "given": "Liliya"
+    }
+  ],
+  "authors_text": "Bernardi, Fabrizio; Chakhaia, Lela; Leopold, Liliya",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcw047",
+  "doi_url": "https://doi.org/10.1093/esr/jcw047",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcw047",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcw047.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

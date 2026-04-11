@@ -1,0 +1,30 @@
+{
+  "title": "Does Globalization Reduce Personal Violence? The Impact of International Trade on Cross-National Homicide Rates",
+  "abstract": "While interest in globalization has continued to increase, few researchers have linked it to crime rates. However, if globalization has the characteristics suggested by either its supporters or detractors, it likely has a significant effect on cross-national violent crime rates. Supporters of the doux commerce (gentle commerce) thesis argue that increasing international trade decreases all types of violence, including homicide, by providing individuals with a rational interest in engaging peacefully with others, offering opportunities for cross border commerce and travel, and encouraging greater understanding of diverse cultures. By contrast, detractors argue that as globalization increases, inequality and poverty separate the economic well-being of highly industrialized core nations from that of developing peripheral nations and as this gap intensifies, it leads to crime increases. We also consider the possibility that the effects of trade globalization are either too small or too macro-level to significantly affect violent crime rates. Based on these competing arguments we examine whether homicide rates are significantly lower for countries with high levels of globalization, compared to countries with low globalization levels. We assemble a homicide database of 2145 observations over five decades, control for a wide range of alternative explanations, and test for an interaction between globalization and GDP. Consistent with the doux-commerce argument, we find that rising globalization has resulted in lower cross-national homicide rates during the past half century and that these declines are greatest for low GDP-high inequality countries. We consider the implications for theory, future research and policy.",
+  "authors": [
+    {
+      "raw": "LaFree, Gary",
+      "family": "LaFree",
+      "given": "Gary"
+    },
+    {
+      "raw": "Jiang, Bo",
+      "family": "Jiang",
+      "given": "Bo"
+    }
+  ],
+  "authors_text": "LaFree, Gary; Jiang, Bo",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac123",
+  "doi_url": "https://doi.org/10.1093/sf/soac123",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac123",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac123.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Family Structure and Early Home Leaving: A Mediation Analysis",
+  "abstract": "An ample body of research has shown that young adults from non-intact families are more likely to leave the parental home at an early age than young adults from intact families. However, little is known about the mechanisms underlying this relationship. We drew on prospective longitudinal data from the German Socio-Economic Panel Study (SOEP) to examine why young adults from non-intact families are more likely to leave home early. Based on the feathered nest hypothesis, it was expected that young adults from non-intact families are pushed out of the parental home because of a lack in economic, social, and community resources. Moreover, it was expected that young adults from non-intact families are pulled toward independent living at a younger age because they have a partner and are employed earlier in life. We employed discrete-time event history models and used the KHB method to test relative weights of the mediators. The mediators explained 16% (women) and 22% (men) of the effect of living in a stepfamily, and 50% (women) and 37% (men) of the effect of living in a single-mother family. Economic resources were the main mediator for the effect of living in a single-mother family on early home leaving. For women, mother's life satisfaction and housing conditions significantly explained differences in early home leaving between single-mother and intact families. For men, residential mobility significantly mediated the effect of family structure on early home leaving.",
+  "authors": [
+    {
+      "raw": "van den Berg, Lonneke",
+      "family": "van den Berg",
+      "given": "Lonneke"
+    },
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    },
+    {
+      "raw": "Leopold, Thomas",
+      "family": "Leopold",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "van den Berg, Lonneke; Kalmijn, Matthijs; Leopold, Thomas",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-017-9461-1",
+  "doi_url": "https://doi.org/10.1007/s10680-017-9461-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-017-9461-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-017-9461-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

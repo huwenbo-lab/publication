@@ -1,0 +1,45 @@
+{
+  "title": "Rethinking City Population Growth: How Reclassification Matters",
+  "abstract": "City populations grow due to natural change, migration, and areas that are reclassified as part of a city. Because a time series of city boundaries was not available, most analyses ignore reclassification. This paper measures reclassification in a harmonized and transparent manner by applying a new harmonized definition of cities, towns, and rural areas, called the degree of urbanization, to gridded population data between 1980 and 2020. Ignoring reclassification would attribute city population growth equally to natural change and migration. Including the effects of reclassification reveals that two-thirds of the growth is due to natural change, followed by reclassification (29 percent), and the remainder to migration (4 percent). This demonstrates the importance of accounting for reclassification. It also underlines that discouraging migration to cities will not significantly reduce city population growth.",
+  "authors": [
+    {
+      "raw": "Alessandrini, Alfredo",
+      "family": "Alessandrini",
+      "given": "Alfredo"
+    },
+    {
+      "raw": "Deuster, Christoph",
+      "family": "Deuster",
+      "given": "Christoph"
+    },
+    {
+      "raw": "Dijkstra, Lewis",
+      "family": "Dijkstra",
+      "given": "Lewis"
+    },
+    {
+      "raw": "Ghio, Daniela",
+      "family": "Ghio",
+      "given": "Daniela"
+    },
+    {
+      "raw": "Natale, Fabrizio",
+      "family": "Natale",
+      "given": "Fabrizio"
+    }
+  ],
+  "authors_text": "Alessandrini, Alfredo; Deuster, Christoph; Dijkstra, Lewis; Ghio, Daniela; Natale, Fabrizio",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12661",
+  "doi_url": "https://doi.org/10.1111/padr.12661",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12661",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12661.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

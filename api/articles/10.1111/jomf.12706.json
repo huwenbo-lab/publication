@@ -1,0 +1,35 @@
+{
+  "title": "Family Complexity and Children's Behavior Problems over Two US Cohorts",
+  "abstract": "Objective We consider the prevalence of family complexity and its association with children's externalizing behavior problems over children's life course and over historical time. Background A growing literature has demonstrated the prevalence and multidimensional nature of family complexity and its association with child behavior. The nature/strength of this association may have changed in recent cohorts as family complexity has become more normative. Method Data are from the 1997 and 2014 cohorts of the Panel Study of Income Dynamics Child Development Supplement. Samples represent U.S. children aged 0-12 years born since 1985 (N = 5,030). Ordinary least squares regression estimated change in the association between family complexity and behavior between cohorts. Difference-in-difference models estimated baseline and longitudinal differences in children's behavior as linked to family complexity. Results The prevalence of family complexity has stabilized over the last two decades, and the antecedents to parental repartnering and complex sibship organization remain similar. The expectation that increasing family complexity contributes to elevated behavior problem scores was not supported. Instead, children who eventually acquired a step- or half-sibling or who experienced parents' union dissolution had elevated behavior problems prior to those changes. Conclusion The prevalence of and precursors to complex family organization were stable across recent child cohorts. The observed association between family complexity and child behavior problems may be attributable to selection mechanisms linked to both parents' family formation trajectories and to children's behavior, rather than to family change itself.",
+  "authors": [
+    {
+      "raw": "Fomby, Paula",
+      "family": "Fomby",
+      "given": "Paula"
+    },
+    {
+      "raw": "Ophir, Ariane",
+      "family": "Ophir",
+      "given": "Ariane"
+    },
+    {
+      "raw": "Carlson, Marcia J.",
+      "family": "Carlson",
+      "given": "Marcia J."
+    }
+  ],
+  "authors_text": "Fomby, Paula; Ophir, Ariane; Carlson, Marcia J.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12706",
+  "doi_url": "https://doi.org/10.1111/jomf.12706",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12706",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12706.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

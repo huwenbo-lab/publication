@@ -1,0 +1,30 @@
+{
+  "title": "Does the Ethnic Composition of Upper Secondary Schools Influence Educational Achievement and Attainment? A Multilevel Analysis of the Norwegian Case",
+  "abstract": "This article examines the effect of ethnic composition in upper secondary school on students' grades (educational achievement) and their subsequent educational choices (educational attainment), using multilevel analysis. The data set includes all non-vocational students graduating from upper secondary schools in Oslo in 2001, 2002, and 2003, and contains detailed information on individuals' educational choices, grades and ethnic and socio-economic background. We find little evidence of a negative effect of ethnic composition. On the contrary, when we control for academic composition of the schools, we find small, but positive, effects of attending a school with many minority students.",
+  "authors": [
+    {
+      "raw": "Fekjaer, S. N.",
+      "family": "Fekjaer",
+      "given": "S. N."
+    },
+    {
+      "raw": "Birkelund, G. E.",
+      "family": "Birkelund",
+      "given": "G. E."
+    }
+  ],
+  "authors_text": "Fekjaer, S. N.; Birkelund, G. E.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2007,
+  "doi": "10.1093/esr/jcm003",
+  "doi_url": "https://doi.org/10.1093/esr/jcm003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcm003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcm003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

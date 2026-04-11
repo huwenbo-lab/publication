@@ -1,0 +1,40 @@
+{
+  "title": "Educational differences in all-cause mortality by marital status",
+  "abstract": "Using life table measures, we compare educational differentials in all-cause mortality at ages 40 to 70 in Bulgaria to those in Finland and the United States. Specifically, we assess whether the relationship between education and mortality is modified by marital status. Although high education and being married are associated with lower mortality in all three countries, absolute educational differences tend to be smaller among married than unmarried individuals. Absolute differentials by education are largest for Bulgarian men, but in relative terms educational differences are smaller among Bulgarian men than in Finland and the U.S. Among women, Americans experience the largest education-mortality gradients in both relative and absolute terms. Our results indicate a particular need to tackle health hazards among poorly educated men in countries in transition.",
+  "authors": [
+    {
+      "raw": "Kohler, Iliana",
+      "family": "Kohler",
+      "given": "Iliana"
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    },
+    {
+      "raw": "Smith, Kirsten P.",
+      "family": "Smith",
+      "given": "Kirsten P."
+    },
+    {
+      "raw": "Elo, Irma T.",
+      "family": "Elo",
+      "given": "Irma T."
+    }
+  ],
+  "authors_text": "Kohler, Iliana; Martikainen, Pekka; Smith, Kirsten P.; Elo, Irma T.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2008,
+  "doi": "10.4054/demres.2008.19.60",
+  "doi_url": "https://doi.org/10.4054/demres.2008.19.60",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2008.19.60",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2008.19.60.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

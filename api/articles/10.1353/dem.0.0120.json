@@ -1,0 +1,25 @@
+{
+  "title": "Early teen marriage and future poverty",
+  "abstract": "AbstractBoth early teen marriage and dropping out of high school have historically been associated with a variety of negative outcomes, including higher poverty rates throughout life. Are these negative outcomes due to preexisting differences, or do they represent the causal effect of marriage and schooling choices? To better understand the true personal and societal consequences, in this article, I use an instrumental variables (IV) approach that takes advantage of variation in state laws regulating the age at which individuals are allowed to marry, drop out of school, and begin work. The baseline IV estimate indicates that a woman who marries young is 31 percentage points more likely to live in poverty when she is older. Similarly, a woman who drops out of school is 11 percentage points more likely to be poor. The results are robust to a variety of alternative specifications and estimation methods, including limited information maximum likelihood (LIML) estimation and a control function approach. While grouped ordinary least squares (OLS) estimates for the early teen marriage variable are also large, OLS estimates based on individual-level data are small, consistent with a large amount of measurement error.",
+  "authors": [
+    {
+      "raw": "Dahl, Gordon B.",
+      "family": "Dahl",
+      "given": "Gordon B."
+    }
+  ],
+  "authors_text": "Dahl, Gordon B.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0120",
+  "doi_url": "https://doi.org/10.1353/dem.0.0120",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0120",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0120.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

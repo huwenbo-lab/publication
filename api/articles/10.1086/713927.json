@@ -1,0 +1,30 @@
+{
+  "title": "A New Methodological Framework for Studying Status Exchange in Marriage",
+  "abstract": "The authors propose a new methodological framework for studying status exchange in marriage. As shown in recent debates on status-race or status-beauty exchange, the conventional log-linear modeling approach is prone to controversial specifications and alternative interpretations. This study develops a simple method-the exchange index (EI)-with cohort- and gender-specific relative status measures, statistical distribution balancing, and nonparametric matching. While allowing for multiple covariate controls, the EI measures the average difference in spouse's status between intermarriages and matched in-group marriages. To demonstrate the new framework, two analytical examples of status-race and status-age exchange, based on the IPUMS 2000 U.S. Census 5% microdata sample, are used. To verify the new method, replication and simulation studies are also conducted. This approach reduces model dependency, improves flexibility to account for confounders, allows for examination of heterogeneous patterns, speaks to fundamental concepts in status exchange theory, and takes advantage of increasingly available large-scale microdata.",
+  "authors": [
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    },
+    {
+      "raw": "Dong, Hao",
+      "family": "Dong",
+      "given": "Hao"
+    }
+  ],
+  "authors_text": "Xie, Yu; Dong, Hao",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2021,
+  "doi": "10.1086/713927",
+  "doi_url": "https://doi.org/10.1086/713927",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F713927",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/713927.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

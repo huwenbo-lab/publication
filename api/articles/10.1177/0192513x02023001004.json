@@ -1,0 +1,40 @@
+{
+  "title": "Cohabitation, Marriage, and Remarriage",
+  "abstract": "Using longitudinal data from the 1987 to 1988 (Wave I) and 1992 to 1993 (Wave II) National Survey of Family and Households, the authors compared long-term cohabiting, married, and remarried couples in four areas of relationship quality at Wave II (happiness, communication, fairness, and disagreements). Comparisons were made after controlling for presence of a child, relationship duration, educational level, gender, ethnic status, and relationship quality at Wave I. We found that long-term cohabiting couples reported lower relationship happiness and fairness than other types of couples. Couples who cohabited prior to marriage were similar to couples who did not cohabit prior to marriage, whether the couples were in first marriages or remarriages. Differences were small among the types of couples in level of communication or disagreements.",
+  "authors": [
+    {
+      "raw": "SKINNER, KEVIN B.",
+      "family": "SKINNER",
+      "given": "KEVIN B."
+    },
+    {
+      "raw": "BAHR, STEPHEN J.",
+      "family": "BAHR",
+      "given": "STEPHEN J."
+    },
+    {
+      "raw": "CRANE, D. RUSSELL",
+      "family": "CRANE",
+      "given": "D. RUSSELL"
+    },
+    {
+      "raw": "CALL, VAUGHN R. A.",
+      "family": "CALL",
+      "given": "VAUGHN R. A."
+    }
+  ],
+  "authors_text": "SKINNER, KEVIN B.; BAHR, STEPHEN J.; CRANE, D. RUSSELL; CALL, VAUGHN R. A.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2002,
+  "doi": "10.1177/0192513x02023001004",
+  "doi_url": "https://doi.org/10.1177/0192513x02023001004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x02023001004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x02023001004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

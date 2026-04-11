@@ -1,0 +1,30 @@
+{
+  "title": "Educational outcomes in stepfamilies: A comparative analysis of cohabitation and remarriage",
+  "abstract": "BACKGROUND The motivation for this study is the growing prevalence of cohabitation over remarriage in stepfamily formation. Despite this trend, there is limited research on how cohabitation versus remarriage affects children's educational outcomes. This study examines these differences, focusing on ninth grade educational performance in Denmark. OBJECTIVE The study investigates: How do grades differ for children in stepfamilies formed through cohabitation compared to remarriage? METHODS Using longitudinal register data from Denmark, the study examines children born between 1986 and 2001. The main outcome is math grades from nationally standardized ninth grade exams. The analysis distinguishes between family structures based on whether parents cohabit or remarry after divorce, with controls for parental education, number of siblings, and relationship duration. RESULTS Children from intact nuclear families have the highest math grades. Among children of divorced parents, those whose parents remain single perform better in school than those whose parents enter new relationships. Children in cohabiting stepfamilies fare worse than those in remarried stepfamilies, especially when the mother cohabits. The negative impact of cohabitation persists even when accounting for relationship duration. CONCLUSIONS Cohabiting stepfamilies are associated with worse educational outcomes for children compared to remarried stepfamilies, likely due to less household stability and resource sharing. The disadvantage is more pronounced on the mother's side and does not improve significantly over time. CONTRIBUTION This study fills a research gap by highlighting the educational disparities between children in cohabiting and remarried stepfamilies, offering new insights into the longterm impact of family structure on children's academic performance.",
+  "authors": [
+    {
+      "raw": "Tegunimataka, Anna",
+      "family": "Tegunimataka",
+      "given": "Anna"
+    },
+    {
+      "raw": "Helgertz, Jonas",
+      "family": "Helgertz",
+      "given": "Jonas"
+    }
+  ],
+  "authors_text": "Tegunimataka, Anna; Helgertz, Jonas",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.34",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.34",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.34",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.34.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

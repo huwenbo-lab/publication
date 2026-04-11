@@ -1,0 +1,40 @@
+{
+  "title": "The relationship between childbearing and transitions from marriage and cohabitation in Britain",
+  "abstract": "Abstract In this article, we describe a general framework for the analysis of correlated event histories, with an application to a study of partnership transitions and fertility among a cohort of British women. Using a multilevel, multistate competing-risks model, we examine the relationship between prior fertility outcomes (the presence and characteristics of children and current pregnancy) and the dissolution of marital and cohabiting unions and movements from cohabitation to marriage. Using a simultaneous-equations model, we model these partnership transitions jointly with fertility, allowing for correlation between the unobserved woman-level characteristics that affect each process. The analysis is based on the partnership and birth histories that were collected for the 1958 birth cohort (National Child Development Study) aged 16–42. The findings indicate that preschool children have a stabilizing effect on their parents’ partnership, whether married or cohabiting, but the effect is weaker for older children. There is also evidence that although pregnancy precipitates marriage among cohabitors, the odds of marriage decline to prepregnancy levels following a birth.",
+  "authors": [
+    {
+      "raw": "Steele, Fiona",
+      "family": "Steele",
+      "given": "Fiona"
+    },
+    {
+      "raw": "Kallis, Constantinos",
+      "family": "Kallis",
+      "given": "Constantinos"
+    },
+    {
+      "raw": "Goldstein, Harvey",
+      "family": "Goldstein",
+      "given": "Harvey"
+    },
+    {
+      "raw": "Joshi, Heather",
+      "family": "Joshi",
+      "given": "Heather"
+    }
+  ],
+  "authors_text": "Steele, Fiona; Kallis, Constantinos; Goldstein, Harvey; Joshi, Heather",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0038",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0038",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0038",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0038.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

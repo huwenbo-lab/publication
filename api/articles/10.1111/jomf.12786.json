@@ -1,0 +1,30 @@
+{
+  "title": "Does the impact of parental death vary by parental socioeconomic status? A study of children's educational and occupational attainment",
+  "abstract": "Objective We examine whether parental death differentially affects educational and occupational attainment by the socioeconomic status of the parent who dies and the socioeconomic status of the surviving parent and extended kin. Background An extensive literature has explored the main effect of parental death on offspring attainment, but few studies have examined socioeconomic differentials in the impact of parental death. Understanding the potential role of socioeconomic resources in compensating for disadvantage is important for understanding whether parental death and disadvantageous events more generally have an equalizing or exacerbating effect on socioeconomic differences in offspring socioeconomic attainment. Method Using Swedish population register data on cohorts born 1973-1982, grade point average at age 16, the transition from lower to upper-secondary education, the transition to tertiary education, overall educational attainment, and occupational status by age 30 was examined. Families using antemortem parental socioeconomic trajectories were matched. Sibling fixed effects models were also employed. Results Inconsistent results in between-family regression analyses adjusting for observables were observed. In sibling fixed effects models, zero results for moderation by parents' occupations were shown. Conclusion Little clear or convincing evidence that there are socioeconomic differentials in the impact of parental death in Sweden were found. Implications The Swedish welfare state may reduce socioeconomic differentials in the impact of parental death. However, the lack of socioeconomic variation may also be influenced by factors such as compensatory agency.",
+  "authors": [
+    {
+      "raw": "Barclay, Kieron",
+      "family": "Barclay",
+      "given": "Kieron"
+    },
+    {
+      "raw": "Hallsten, Martin",
+      "family": "Hallsten",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Barclay, Kieron; Hallsten, Martin",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12786",
+  "doi_url": "https://doi.org/10.1111/jomf.12786",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12786",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12786.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

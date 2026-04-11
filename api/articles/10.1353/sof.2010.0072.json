@@ -1,0 +1,30 @@
+{
+  "title": "A General Panel Model with Random and Fixed Effects: A Structural Equations Approach",
+  "abstract": "Fixed and random effects models for longitudinal data are common in sociology. Their primary advantage is that they control for time-invariant omitted variables. However, analysts face several issues when they employ these models. One is the uncertainty of whether to apply the fixed effects (FEM) versus the random effects (REM) models. Another less discussed issue is that the FEM and REM models as usually implemented might be insufficiently flexible. For instance, the effects of variables, including the latent time-invariant variable, might change over time rather than be constant as in the usual FEM and REM. The latent time-invariant variable might correlate with some variables and not others. Lagged endogenous variables might be necessary. Alternatives that move beyond the classic FEM and REM models are known, but they involve different estimators and software that make these extended models difficult to implement and to compare. This paper presents a general panel model that includes the standard FEM and REM as special cases. In addition, it provides a sequence of nested models that provide a richer range of models that researchers can easily compare with likelihood ratio tests and fit statistics. Furthermore, researchers can implement our general panel model and its special cases in widely available structural equation models (SEMs) software. The paper is oriented towards applied researchers with most technical details given in the appendix and footnotes. An extended empirical example illustrates our results.",
+  "authors": [
+    {
+      "raw": "Bollen, K. A.",
+      "family": "Bollen",
+      "given": "K. A."
+    },
+    {
+      "raw": "Brand, J. E.",
+      "family": "Brand",
+      "given": "J. E."
+    }
+  ],
+  "authors_text": "Bollen, K. A.; Brand, J. E.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2010,
+  "doi": "10.1353/sof.2010.0072",
+  "doi_url": "https://doi.org/10.1353/sof.2010.0072",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2010.0072",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2010.0072.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

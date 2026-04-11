@@ -1,0 +1,35 @@
+{
+  "title": "Polarizing Feedback Loops on Twitter: Congressional Tweets during the 2022 Midterm Elections",
+  "abstract": "Political polarization has proliferated online. Scholars have identified multiple types of polarizing speech, which elicit stronger public reactions on social media platforms. Little research has focused on how social media platforms might hasten growing partisanship among both elites and the public. The authors examine these dynamics using a sample of 134,442 tweets posted by 527 members of Congress in the period surrounding the 2022 midterm elections. Our findings confirm that all types of polarization increase engagement, but party affiliation plays an important role in the process. Polarizing rhetoric from Republicans generally elicits a stronger reaction relative to that from Democrats. The exception is an increase in retweets of issue-based polarization when posted by Democrats. The authors conclude that all politicians are incentivized to adopt a polarizing presence on social media to raise their profiles. The diffusion of polarization may be shaped by partisanship, with the different parties amplifying different types of content.",
+  "authors": [
+    {
+      "raw": "Rafail, Patrick",
+      "family": "Rafail",
+      "given": "Patrick"
+    },
+    {
+      "raw": "O’Connell, Whitney E.",
+      "family": "O’Connell",
+      "given": "Whitney E."
+    },
+    {
+      "raw": "Sager, Emma",
+      "family": "Sager",
+      "given": "Emma"
+    }
+  ],
+  "authors_text": "Rafail, Patrick; O’Connell, Whitney E.; Sager, Emma",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241228924",
+  "doi_url": "https://doi.org/10.1177/23780231241228924",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241228924",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241228924.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

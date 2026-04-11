@@ -1,0 +1,25 @@
+{
+  "title": "Country Differences in the Effects of Divorce on Well-Being: The Role of Norms, Support, and Selectivity",
+  "abstract": "Little is known about if and how the effect of divorce on well-being varies across societal contexts. This article uses multilevel models for 38 developed countries to test three hypotheses about societal differences. Data are used from the European and World Values Studies. Results show that, in most countries, the divorced have a lower level of well-being than the married, but the magnitude of this difference varies significantly across countries, even when compositional factors are taken into account. The results show that the effect of divorce is weaker in countries where the family is strong, in line with notions of support. The effect of divorce also appears to be weaker when divorce is more common, which points to the role of declining selectivity as divorce rates go up. Mixed evidence was found for the role of norms. The divorce effect is stronger in countries that have stronger norms against divorce, but this was only found for religious persons. Together, these three factors explain more than half of the variance in the divorce effect. Outlier analyses further indicate that the estimates of cross-level interaction effects are sensitive to specific countries that are in the sample.",
+  "authors": [
+    {
+      "raw": "Kalmijn, M.",
+      "family": "Kalmijn",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Kalmijn, M.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2009,
+  "doi": "10.1093/esr/jcp035",
+  "doi_url": "https://doi.org/10.1093/esr/jcp035",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcp035",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcp035.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

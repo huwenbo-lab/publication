@@ -1,0 +1,40 @@
+{
+  "title": "Revolving Doors: How Externalization Policies Block Refugees and Deflect Other Migrants across Migration Routes",
+  "abstract": "Migrant destination states of the Global North generally seek to stem irregular migration while remaining committed to refugee rights. To do so, these states have increasingly sought to externalize migration control, implicating migrant origin and transit states in managing the movement of persons across borders. But do externalization policies actually have an impact on unauthorized migration flows? If yes, do those impacts vary across different migrant categories given that both asylum seekers and other migrants can cross borders without prior authorization? We argue that these policies do have an impact on unauthorized migration flows and that those impacts are distinct for refugees and other migrants. Using data on irregular/illegal border crossings collected by Frontex, the Border and Coast Guard Agency of the European Union (EU), we first find that the geographical trajectories of refugees and other migrants who cross EU borders without authorization are distinct. Using a novel method to estimate whether individuals are likely to obtain asylum in 31 European destination states, we find that likely refugees tend to be concentrated on a single, primary migratory route while likely irregular migrants may be dispersed across multiple routes. Through an event study analysis of the impact of the 2016 EU-Turkey Statement, a paradigmatic example of externalization, we show that the policy primarily blocked likely refugees while deflecting likely irregular migrants to alternative routes. Our findings ultimately highlight how externalization policies may fail to prevent unauthorized entries of irregular migrants while endangering refugee protection.",
+  "authors": [
+    {
+      "raw": "Mesnard, Alice",
+      "family": "Mesnard",
+      "given": "Alice"
+    },
+    {
+      "raw": "Savatic, Filip",
+      "family": "Savatic",
+      "given": "Filip"
+    },
+    {
+      "raw": "Senne, Jean-Noel",
+      "family": "Senne",
+      "given": "Jean-Noel"
+    },
+    {
+      "raw": "Thiollet, Helene",
+      "family": "Thiollet",
+      "given": "Helene"
+    }
+  ],
+  "authors_text": "Mesnard, Alice; Savatic, Filip; Senne, Jean-Noel; Thiollet, Helene",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12650",
+  "doi_url": "https://doi.org/10.1111/padr.12650",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12650",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12650.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Why Do Nominal Characteristics Acquire Status Value? A Minimal Explanation for Status Construction",
+  "abstract": "Why do beliefs that attach different amounts of status to different categories of people become consensually held by the members of a society? We show that two microlevel mechanisms, in combination, imply a system-level tendency toward consensual status beliefs about a nominal characteristic. (1) Status belief diffusion: a person who has no status belief about a characteristic can acquire a status belief about that characteristic from interacting with one or more people who have that status belief. (2) Status belief loss: a person who has a status belief about a characteristic can lose that belief from interacting with one or more people who have the opposite status belief. These mechanisms imply that opposite status beliefs will tend to be lost at equal rates and will tend to be acquired at rates proportional to their prevalence. Therefore, if a status belief ever becomes more prevalent than its opposite, it will increase in prevalence until every person holds it.",
+  "authors": [
+    {
+      "raw": "Mark, Noah P.",
+      "family": "Mark",
+      "given": "Noah P."
+    },
+    {
+      "raw": "Smith-Lovin, Lynn",
+      "family": "Smith-Lovin",
+      "given": "Lynn"
+    },
+    {
+      "raw": "Ridgeway, Cecilia L.",
+      "family": "Ridgeway",
+      "given": "Cecilia L."
+    }
+  ],
+  "authors_text": "Mark, Noah P.; Smith-Lovin, Lynn; Ridgeway, Cecilia L.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2009,
+  "doi": "10.1086/606142",
+  "doi_url": "https://doi.org/10.1086/606142",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F606142",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/606142.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

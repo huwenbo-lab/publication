@@ -1,0 +1,30 @@
+{
+  "title": "Income Inequality, Intergenerational Mobility, and the Great Gatsby Curve: Is Education the Key?",
+  "abstract": "It is widely believed that countries with greater levels of income inequality also have lower levels of intergenerational mobility. This relationship, known as the Great Gatsby Curve (GGC), has been prominently cited by high-ranking public policymakers, bestselling authors, and Nobel Prize-winning academics. Yet, relatively little cross-national work has empirically examined the mechanisms thought to underpin the GGC-particularly with regard to the role of educational attainment. This paper uses the cross-nationally comparable Programme for International Assessment of Adult Competencies (PIAAC) data set to shed new light on this issue. We find that income inequality is associated with several key components of the intergenerational transmission process-including access to higher education, the financial returns on education, and the residual effect of parental education upon labor-market earnings. Thus, consistent with theoretical models, we find that educational attainment is an important driver of the relationship between intergenerational mobility and income inequality. We hence conclude that unequal access to financial resources plays a central role in the intergenerational transmission of advantage.",
+  "authors": [
+    {
+      "raw": "Jerrim, John",
+      "family": "Jerrim",
+      "given": "John"
+    },
+    {
+      "raw": "Macmillan, Lindsey",
+      "family": "Macmillan",
+      "given": "Lindsey"
+    }
+  ],
+  "authors_text": "Jerrim, John; Macmillan, Lindsey",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sov075",
+  "doi_url": "https://doi.org/10.1093/sf/sov075",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsov075",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sov075.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

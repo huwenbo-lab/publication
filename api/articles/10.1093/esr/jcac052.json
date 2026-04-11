@@ -1,0 +1,35 @@
+{
+  "title": "Quantile regression estimands and models: revisiting the motherhood wage penalty debate",
+  "abstract": "This paper discusses the crucial but sometimes neglected differences between unconditional quantile regression (UQR) models and quantile treatment effects (QTE) models. We argue that there is a frequent mismatch between the aim of the quantile regression analysis and the quantitative toolkit used in much of the applied literature, including the motherhood wage penalty literature. This mismatch may result in wrong conclusions being drawn from the data, and in the end, misguided theories. In this paper, we clarify the crucial conceptual distinction between influences on quantiles of the overall distributions, which we term population-level influences, and individual-level QTEs. Further, we use data simulations to illustrate that various classes of quantile regression models may, in some instances, give entirely different conclusions (to different questions). Finally, we compare quantile regression estimates using real data examples, showing that UQR and QTE models differ sometimes but not always. Still, the conceptual and empirical distinctions between quantile regression models underline the need to match the correct model to the specific research questions. We conclude the paper with a few practical guidelines for researchers.",
+  "authors": [
+    {
+      "raw": "Borgen, Nicolai T.",
+      "family": "Borgen",
+      "given": "Nicolai T."
+    },
+    {
+      "raw": "Haupt, Andreas",
+      "family": "Haupt",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Wiborg, Oyvind Nicolay",
+      "family": "Wiborg",
+      "given": "Oyvind Nicolay"
+    }
+  ],
+  "authors_text": "Borgen, Nicolai T.; Haupt, Andreas; Wiborg, Oyvind Nicolay",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1093/esr/jcac052",
+  "doi_url": "https://doi.org/10.1093/esr/jcac052",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac052",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac052.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

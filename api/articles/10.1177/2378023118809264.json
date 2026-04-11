@@ -1,0 +1,25 @@
+{
+  "title": "Text Analysis with JSTOR Archives",
+  "abstract": "I provide a visual representation of keyword trends and authorship for two flagship sociology journals using data from JSTOR’s Data for Research repository. While text data have accompanied the digital spread of information, it remains inaccessible to researchers unfamiliar with the required preprocessing. The visualization and accompanying code encourage widespread use of this source of data in the social sciences.",
+  "authors": [
+    {
+      "raw": "Bernau, John A.",
+      "family": "Bernau",
+      "given": "John A."
+    }
+  ],
+  "authors_text": "Bernau, John A.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2018,
+  "doi": "10.1177/2378023118809264",
+  "doi_url": "https://doi.org/10.1177/2378023118809264",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118809264",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118809264.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

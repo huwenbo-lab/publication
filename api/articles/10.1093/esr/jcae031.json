@@ -1,0 +1,30 @@
+{
+  "title": "School composition and academic decisions",
+  "abstract": "Research on the effects of school composition tends to focus on how it shapes school achievement. In this study, we instead examine how school composition shapes children's educational aspirations, given their achievement, and if children from different socio-economic backgrounds are affected differently. We apply school-fixed effects on Swedish register data, including all 9th-grade students from 2013 to 2017. Being exposed to a high share of low-achieving schoolmates increases the likelihood of applying for academics instead of vocational tracking across socio-economic backgrounds. In contrast, the share of high-achieving schoolmates is negatively associated with academic tracking only for high-SES children. Being exposed to peers with highly educated parents increases the likelihood of applying for academic tracking for low-SES children, whereas the effect is weaker or even negative for some of the high-SES groups. Together, our results suggest that the academic decisions of both high- and low-SES children could benefit from a less segregated school environment.",
+  "authors": [
+    {
+      "raw": "Rosenqvist, Erik",
+      "family": "Rosenqvist",
+      "given": "Erik"
+    },
+    {
+      "raw": "Branden, Maria",
+      "family": "Branden",
+      "given": "Maria"
+    }
+  ],
+  "authors_text": "Rosenqvist, Erik; Branden, Maria",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcae031",
+  "doi_url": "https://doi.org/10.1093/esr/jcae031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

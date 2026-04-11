@@ -1,0 +1,25 @@
+{
+  "title": "Fostering Equality of Opportunity? Compulsory Schooling Reform and Social Mobility in Germany",
+  "abstract": "There is an ongoing debate in the field of social mobility research about whether intergenerational social mobility can be increased by way of education policy. However, evidence on the effects of specific education policies on social mobility continues to be scarce. This article analyses the effect of one specific policy reform, the extension of compulsory schooling in Germany, which has been argued to have led to a decrease in educational inequality and an increase in social mobility. Using a difference-in-difference design, the article exploits the variation in the timing of the reform across German states to estimate the reform effect on the educational attainment and labour market chances of individuals from different social class backgrounds. We find that the reform resulted in a substantial narrowing of the gap in educational attainment between different social origin groups. This decline in educational inequality further translated into a reduction in the inequality in labour market chances between people from different social class backgrounds, thus increasing intergenerational social mobility. Our findings suggest that educational policy can lead to substantial increases in intergenerational social mobility, which may have been overlooked in past research on societal-level, long-run trends in social mobility.",
+  "authors": [
+    {
+      "raw": "Betthauser, Bastian",
+      "family": "Betthauser",
+      "given": "Bastian"
+    }
+  ],
+  "authors_text": "Betthauser, Bastian",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcx066",
+  "doi_url": "https://doi.org/10.1093/esr/jcx066",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx066",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx066.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

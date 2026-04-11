@@ -1,0 +1,40 @@
+{
+  "title": "Reducing Income Inequality in Educational Attainment: Experimental Evidence on the Impact of Financial Aid on College Completion",
+  "abstract": "Income inequality in educational attainment is a long-standing concern, and disparities in college completion have grown over time. Need-based financial aid is commonly used to promote equality in college outcomes, but its effectiveness has not been established, and some are calling it into question. A randomized experiment is used to estimate the impact of a private need-based grant program on college persistence and degree completion among students from low-income families attending 13 public universities across Wisconsin. Results indicate that offering students additional grant aid increases the odds of bachelor's degree attainment over four years, helping to diminish income inequality in higher education.",
+  "authors": [
+    {
+      "raw": "Goldrick-Rab, Sara",
+      "family": "Goldrick-Rab",
+      "given": "Sara"
+    },
+    {
+      "raw": "Kelchen, Robert",
+      "family": "Kelchen",
+      "given": "Robert"
+    },
+    {
+      "raw": "Harris, Douglas N.",
+      "family": "Harris",
+      "given": "Douglas N."
+    },
+    {
+      "raw": "Benson, James",
+      "family": "Benson",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Goldrick-Rab, Sara; Kelchen, Robert; Harris, Douglas N.; Benson, James",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2016,
+  "doi": "10.1086/685442",
+  "doi_url": "https://doi.org/10.1086/685442",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F685442",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/685442.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

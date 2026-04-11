@@ -1,0 +1,25 @@
+{
+  "title": "Birth seasonality in Sub-Saharan Africa",
+  "abstract": "INTRODUCTION Despite humans' ability to reproduce throughout the year, almost all human populations exhibit seasonal variation in reproduction. The seasonality of births has been extensively studied in North America, Europe, and East Asia but less so in African settings. This paper is the first to systematically test for and document birth seasonality in Sub-Saharan Africa. DATA AND METHODS Birth data from the Demographic and Health Surveys are aggregated by country and ecological zone. The monthly time series of births are then de-trended and converted to a percent deviation from the annual monthly mean. Finally, we calculate the periodicity of the de-trended monthly birth time series using Fourier spectral analysis and ordinary least squares regression. RESULTS At the national level, births are indeed seasonal with only a few exceptions. However, we find large degrees of variation in the amplitudes (i.e., from five percent to 65 percent) and patterns (i.e., unimodal, bimodal, etc.) of seasonality across regions. Birth patterns varied with levels of maternal education, religion, and residence (i.e., urban vs. rural). Typically, mothers with lower levels of education and those residing in rural locales exhibited greater seasonal fluctuations in births. Births in West and Central African ecological zones were highly seasonal, while births in many Eastern and Southern ecological zones were not seasonal. The Eastern and Southern zones were large and included strongly heterogeneous environments and people; these heterogeneities may have masked some of the seasonal patterns.",
+  "authors": [
+    {
+      "raw": "Dorelien, Audrey M.",
+      "family": "Dorelien",
+      "given": "Audrey M."
+    }
+  ],
+  "authors_text": "Dorelien, Audrey M.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.27",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

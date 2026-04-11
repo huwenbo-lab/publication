@@ -1,0 +1,35 @@
+{
+  "title": "Gender differences in the economic consequences of life-long singlehood among older white US adults",
+  "abstract": "ObjectiveDrawing on life course frameworks, this study examines how never married older adults differ from their married, cohabiting, divorced, and widowed peers with respect to three dimensions of late-life economic security, and gender differences in these associations.BackgroundLifelong singlehood has become increasingly common over the past five decades, although little is known about the economic security of never married older adults relative to their currently and formerly married peers.MethodData are from the Wisconsin Longitudinal Study (WLS), which tracked Wisconsin high school graduates from ages 18 (1957) to 72 (2011). The 2011 analytic sample includes 5269 persons (2498 men and 2711 women). OLS and logistic regressions are used to predict total household income, wealth, and poverty status at age 72, adjusted for covariates.ResultsLifelong single men have higher poverty rates and lower income than men in all other marital categories, although divorced men evidence the lowest levels of wealth. Lifelong single women fare worse than married and cohabiting women but better than divorced women. Older men are more financially secure than women in every marital status category except lifelong singles.ConclusionBy centering the experiences of never married older adults, results reveal the economic precarity of lifelong single men and distinctions among subgroups of unmarried women. We document the persistence of gender inequality, where men consistently fare better than women across marital statuses.ImplicationsPublic policies should recognize growing heterogeneity in older adults' marital statuses and the implications thereof for their late-life economic security.",
+  "authors": [
+    {
+      "raw": "Carr, Deborah",
+      "family": "Carr",
+      "given": "Deborah"
+    },
+    {
+      "raw": "Wang, Leping",
+      "family": "Wang",
+      "given": "Leping"
+    },
+    {
+      "raw": "Smock, Pamela J.",
+      "family": "Smock",
+      "given": "Pamela J."
+    }
+  ],
+  "authors_text": "Carr, Deborah; Wang, Leping; Smock, Pamela J.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.13011",
+  "doi_url": "https://doi.org/10.1111/jomf.13011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

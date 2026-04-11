@@ -1,0 +1,45 @@
+{
+  "title": "Comparing the Efficacy of Fixed-Effects and MAIHDA Models in Predicting Outcomes for Intersectional Social Strata",
+  "abstract": "This investigation examines the efficacy of multilevel analysis of individual heterogeneity and discriminatory accuracy (MAIHDA) over fixed-effects models when performing intersectional studies. The research questions are as follows: (1) What are typical strata representation rates and outcomes on physics research-based assessments? (2) To what extent do MAIHDA models create more accurate predicted strata outcomes than fixed-effects models? and (3) To what extent do MAIHDA models allow the modeling of smaller strata sample sizes? We simulated 3,000 data sets based on real-world data from 5,955 students on the LASSO platform. We found that MAIHDA created more accurate and precise predictions than fixed-effects models. We also found that using MAIHDA could allow researchers to disaggregate their data further, creating smaller group sample sizes while maintaining more accurate findings than fixed-effects models. We recommend using MAIHDA over fixed-effects models for intersectional investigations.",
+  "authors": [
+    {
+      "raw": "Van Dusen, Ben",
+      "family": "Van Dusen",
+      "given": "Ben"
+    },
+    {
+      "raw": "Cian, Heidi",
+      "family": "Cian",
+      "given": "Heidi"
+    },
+    {
+      "raw": "Nissen, Jayson",
+      "family": "Nissen",
+      "given": "Jayson"
+    },
+    {
+      "raw": "Arellano, Lucy",
+      "family": "Arellano",
+      "given": "Lucy"
+    },
+    {
+      "raw": "Woods, Adrienne D.",
+      "family": "Woods",
+      "given": "Adrienne D."
+    }
+  ],
+  "authors_text": "Van Dusen, Ben; Cian, Heidi; Nissen, Jayson; Arellano, Lucy; Woods, Adrienne D.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2024,
+  "doi": "10.1177/00380407241254092",
+  "doi_url": "https://doi.org/10.1177/00380407241254092",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00380407241254092",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00380407241254092.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

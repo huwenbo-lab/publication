@@ -1,0 +1,25 @@
+{
+  "title": "On-the-Job Training--A Mechanism for Segregation? Examining the Relationship between Gender, Occupation, and On-the-Job Training Investments",
+  "abstract": "This article aims to examine whether the access to initial on-the-job training differs by gender and to what extent gender differences can be explained by occupational segregation, human capital, and the division of labour in the household. While much research has focussed on formal on-the-job training, I use a measure of initial on-the-job training, or the amount of formal and informal training required to perform a job well. Data come from the Swedish Level of Living Survey 2000 ( n = 2,913) and multilevel regression techniques are used. The results show that occupational segregation has a clear mediating effect on the gender difference in initial on-the-job training. The gender gap is reduced by one third when occupation is controlled for and training is related to the number of women in the occupation. Yet, a considerable gap is found also between men and women in the same occupation. This is not explained by human capital investments, nor by female overeducation in relation to the requirements of the job. The gender gap widens in the ages around 30, but factors such as motherhood, work interruptions, and housework are not related to on-the-job training, and part-time work explains very little of the gender gap.",
+  "authors": [
+    {
+      "raw": "Gronlund, A.",
+      "family": "Gronlund",
+      "given": "A."
+    }
+  ],
+  "authors_text": "Gronlund, A.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1093/esr/jcr007",
+  "doi_url": "https://doi.org/10.1093/esr/jcr007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcr007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcr007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

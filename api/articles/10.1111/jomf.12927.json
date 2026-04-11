@@ -1,0 +1,35 @@
+{
+  "title": "COVID-19 job loss and re-employment among partnered parents: Gender and educational variations",
+  "abstract": "ObjectiveThis study examines the re-employment prospects and short-term career consequences for mothers and fathers who lost their jobs during the COVID-19 pandemic. BackgroundThe pandemic recession has been dubbed a shecession, but few studies have explored whether mothers paid a higher or lower price upon labor market re-entry than fathers. MethodThis study draws on March 2020-December 2022 Current Population Survey data and focuses on partnered parents with children under age 13 in the household. Exploiting four-month panels, we use multi-level discrete-time event history models to predict re-employment and linear regression models to predict job-level wage upon re-employment, while controlling for a wide array of factors. ResultsPartnered fathers were more likely than partnered mothers to find re-employment during the pandemic. The gender gap in re-employment was concentrated only among parents without a bachelor's degree and persisted when all controls were held constant. Moreover, upon re-employment, fathers had higher job-level wages than mothers, which was consistent across educational levels. Even with the same job-level wage before labor market exit, mothers were penalized on re-entry relative to fathers and this penalty was rooted in gendered job segregation. ConclusionThis study extends previous research by analyzing re-employment and a critical material outcome for parents (i.e., job-level wage upon re-employment) during the entire pandemic, including the new normal (late 2022). The results reveal the intersectional inequalities in family and work: Compared to fathers, mothers, particularly less-educated mothers, paid a higher price for their time out of work during the pandemic.",
+  "authors": [
+    {
+      "raw": "Qian, Yue",
+      "family": "Qian",
+      "given": "Yue"
+    },
+    {
+      "raw": "Glauber, Rebecca",
+      "family": "Glauber",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Yavorsky, Jill E.",
+      "family": "Yavorsky",
+      "given": "Jill E."
+    }
+  ],
+  "authors_text": "Qian, Yue; Glauber, Rebecca; Yavorsky, Jill E.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2023,
+  "doi": "10.1111/jomf.12927",
+  "doi_url": "https://doi.org/10.1111/jomf.12927",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12927",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12927.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

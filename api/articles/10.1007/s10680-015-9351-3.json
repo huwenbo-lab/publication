@@ -1,0 +1,40 @@
+{
+  "title": "The Association Between Parents’ and Adult Children’s Homeownership: A Comparative Analysis",
+  "abstract": "We investigate the extent to which the intergenerational transmission of homeownership varies across European countries. Our main hypotheses are that the impact of parental homeownership on the likelihood and timing of an adult child's entry into homeownership is less strong in contexts where homeownership is more accessible (in terms of affordability and access to mortgage credit), where renting is a feasible alternative to owning, and where the family matters less for the provision of welfare and housing. We perform discrete-time event history analyses of the transition to first-time homeownership using retrospective SHARELIFE-data from 10 European countries. Our respondents were born between 1908 and 1963, while observed entries to first-time homeownership occur between 1965 and 2009. We introduce fixed effects for countries and macro-level indicators for country-period combinations, interacted with parental homeownership. We find that the intergenerational transmission of homeownership is stronger in contexts where house prices are higher (and homeownership is less affordable), and less strong in more affluent contexts and in contexts where homeownership has increased more. The remaining differences in intergenerational transmission cannot be attributed to differences in welfare regimes or between dual and unitary rental markets.",
+  "authors": [
+    {
+      "raw": "Mulder, Clara H.",
+      "family": "Mulder",
+      "given": "Clara H."
+    },
+    {
+      "raw": "Dewilde, Caroline",
+      "family": "Dewilde",
+      "given": "Caroline"
+    },
+    {
+      "raw": "van Duijn, Mark",
+      "family": "van Duijn",
+      "given": "Mark"
+    },
+    {
+      "raw": "Smits, Annika",
+      "family": "Smits",
+      "given": "Annika"
+    }
+  ],
+  "authors_text": "Mulder, Clara H.; Dewilde, Caroline; van Duijn, Mark; Smits, Annika",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2015,
+  "doi": "10.1007/s10680-015-9351-3",
+  "doi_url": "https://doi.org/10.1007/s10680-015-9351-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-015-9351-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-015-9351-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

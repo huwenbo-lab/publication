@@ -1,0 +1,30 @@
+{
+  "title": "On the relationship between life expectancy, modal age at death, and the threshold age of the life table entropy",
+  "abstract": "BACKGROUND Indicators of longevity like the life expectancy at birth or the modal age at death are always positively affected by improvements in mortality. Instead, for lifespan variation it has been shown that there exists a threshold age above and below which averting deaths respectively increases or decreases such variation. OBJECTIVE Within a Gompertz force of mortality setting, we aim to provide approximations of the life expectancy at birth and the threshold age of the life table entropy in terms of the modal age at death, highlighting the interrelationships holding among the three. RESULTS In the Gompertz framework, a tight relationship exists between the life expectancy at birth, the threshold age of the life table entropy, and the modal age at death, with the former two moving together and in parallel to the latter. We apply this theoretical result to life table data from the Human Mortality Database to show how the different relationships evolve over time. We observe a remarkable association between the modal and the threshold ages, even in populations with high mortality levels. CONTRIBUTION We provide approximations of the life expectancy at birth and the threshold age of the life table entropy in terms of the Gompertz modal age at death. This is a mathematical demography paper that builds upon previous research by James W. Vaupel and illustrates the beauty - and oftentimes simplicity - of the mathematical relationships between demographic concepts.",
+  "authors": [
+    {
+      "raw": "Micheletti, Chiara",
+      "family": "Micheletti",
+      "given": "Chiara"
+    },
+    {
+      "raw": "Villavicencio, Francisco",
+      "family": "Villavicencio",
+      "given": "Francisco"
+    }
+  ],
+  "authors_text": "Micheletti, Chiara; Villavicencio, Francisco",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.24",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.24",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.24",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.24.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

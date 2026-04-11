@@ -1,0 +1,30 @@
+{
+  "title": "Separate and unequal: hukou, school segregation, and educational inequality in urban China",
+  "abstract": "Competition for educational resources between local citizens and new arrivals in receiving cities can lead to severe school segregation, thereby generating great educational inequality. In this paper, we focus on a special form of segregation in urban China that is based on the holding of a local hukou, which is a crucial criterion for school enrollment. Using data from a nationally representative school-based student panel survey, we find that migrants are disproportionally sorted into low-quality schools, which contributes to a sizeable achievement gap between migrants and locals. We further adopt school and individual fixed effect models to disentangle the influence of peer exposure from that of school quality and find no adverse impact of migrant concentration per se on student outcomes.",
+  "authors": [
+    {
+      "raw": "Xu, Duoduo",
+      "family": "Xu",
+      "given": "Duoduo"
+    },
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    }
+  ],
+  "authors_text": "Xu, Duoduo; Wu, Xiaogang",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1080/21620555.2021.2019007",
+  "doi_url": "https://doi.org/10.1080/21620555.2021.2019007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F21620555.2021.2019007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/21620555.2021.2019007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

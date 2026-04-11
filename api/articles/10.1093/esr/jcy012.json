@@ -1,0 +1,30 @@
+{
+  "title": "Modelling Decision-Making Processes of Regional Mobility in a Dyadic Framework",
+  "abstract": "Analysing mobility decisions has been on the research agenda of various disciplines for many years, resulting in a diversity of conceptual and statistical approaches. However, previous empirical studies typically model regional mobility from an actor-centred perspective which lacks to take the contextual embeddedness of individuals in regions and partnerships into account. Against this background, this study proposes a multilevel dyadic approach with which different aspects of mobility decisions can be incorporated in a joint modelling framework. Specifically, this approach allows to specify actor, partner, and contextual effects in a dyadic model structure which covers two stages of the migration process. Linking the intentional decision stage and actual moving behaviour enables to study indirect effects of individual characteristics on regional mobility through actor-specific mobility dispositions. Formally, the model is implemented using multilevel probit structural equation models and applied to data on labour market-related mobility from the German Socio-Economic Panel Study (SOEP and SOEP Geocodes). The results support both the dyadic and the multilevel component of the proposed model, indicating significant partner and contextual effects in the decision-making process of couples.",
+  "authors": [
+    {
+      "raw": "Kern, Christoph",
+      "family": "Kern",
+      "given": "Christoph"
+    },
+    {
+      "raw": "Stein, Petra",
+      "family": "Stein",
+      "given": "Petra"
+    }
+  ],
+  "authors_text": "Kern, Christoph; Stein, Petra",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1093/esr/jcy012",
+  "doi_url": "https://doi.org/10.1093/esr/jcy012",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcy012",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcy012.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

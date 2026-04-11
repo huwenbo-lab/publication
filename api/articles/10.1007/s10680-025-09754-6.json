@@ -1,0 +1,30 @@
+{
+  "title": "Rising House Prices, Falling Fertility? How Rising House Prices Widen Fertility Differences between Tenure Groups",
+  "abstract": "Abstract House prices rose rapidly in rich societies over the past decade, inhibiting young adults’ access to affordable, family-friendly housing. Over the same period, fertility has declined. Some recent studies have examined the connection between these trends, but the individual-level mechanisms that link house prices to fertility remain underexplored. We address this research gap by using register data on the full population of the Netherlands between 2012 and 2023, a period during which house prices increased dramatically. We link variation in changes in house prices across NUTS-3 regions to yearly conception risks and examine the mediating and moderating role of individual-level homeownership. Results show that increasing house prices are associated with lower fertility, which can partly be explained by the lower propensity of young adults to be homeowners and partly by decreased fertility among renters in more expensive housing markets. In contrast, increasing house prices increase the fertility of homeowners. This positive home equity effect is found only among those who entered into homeownership more than three years ago. These results indicate that rising house prices have likely contributed to the fertility decline observed after 2010 among younger cohorts and may amplify fertility differences between housing market insiders and outsiders.",
+  "authors": [
+    {
+      "raw": "van Wijk, Daniël",
+      "family": "van Wijk",
+      "given": "Daniël"
+    },
+    {
+      "raw": "Feijten, Peteke",
+      "family": "Feijten",
+      "given": "Peteke"
+    }
+  ],
+  "authors_text": "van Wijk, Daniël; Feijten, Peteke",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09754-6",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09754-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09754-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09754-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

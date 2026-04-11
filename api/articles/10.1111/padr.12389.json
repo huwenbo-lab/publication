@@ -1,0 +1,40 @@
+{
+  "title": "Spurring Economic Growth through Human Development: Research Results and Guidance for Policymakers",
+  "abstract": "Education, general health, and reproductive health are key indicators of human development. Investments in these domains can also promote economic growth. This paper argues for human development-related investments based on (1) a theoretical economic growth model with poverty traps, (2) a literature review of evidence that different human development-related investments can promote growth, and (3) own empirical analyses of 1980-2015 data that aim to estimate the relative contribution of different human development indicators to economic growth across heterogeneous growth regimes. Our results suggest the following associations: (1) a one-child decrease in the total fertility rate corresponds to a 2 percentage point (pp) increase in annual per capita gross domestic product (GDP) growth in the short run (five years) and 0.5 pp higher annual growth in the mid-run to long run (35 years), (2) a 10 percent increase in life expectancy at birth corresponds to a 1 pp increase in annual per capita GDP growth in the short run and 0.4 pp higher growth in the mid-run to long run, and (3) a one-year increase in average educational attainment corresponds to a 0.7 pp increase in annual growth in the short run and 0.3 pp higher growth in the mid-run to long run. By contrast, infrastructure proxies are not significantly associated with subsequent growth in any of the models estimated.",
+  "authors": [
+    {
+      "raw": "Bloom, David E.",
+      "family": "Bloom",
+      "given": "David E."
+    },
+    {
+      "raw": "Khoury, Alex",
+      "family": "Khoury",
+      "given": "Alex"
+    },
+    {
+      "raw": "Kufenko, Vadim",
+      "family": "Kufenko",
+      "given": "Vadim"
+    },
+    {
+      "raw": "Prettner, Klaus",
+      "family": "Prettner",
+      "given": "Klaus"
+    }
+  ],
+  "authors_text": "Bloom, David E.; Khoury, Alex; Kufenko, Vadim; Prettner, Klaus",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2021,
+  "doi": "10.1111/padr.12389",
+  "doi_url": "https://doi.org/10.1111/padr.12389",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12389",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12389.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

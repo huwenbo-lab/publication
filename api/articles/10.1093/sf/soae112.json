@@ -1,0 +1,30 @@
+{
+  "title": "Demographic consequences of social movements: local protests delay marriage formation in Ethiopia",
+  "abstract": "Despite their significance, life-course dynamics are rarely considered as consequences of social movements. We address this shortcoming by investigating the relationship between protest and marriage formation in Ethiopia. Building on scholarship in social movements and insights from family demography, we argue that exposure to protest delays marriage formation. To test our theoretical arguments, we created an original panel dataset using georeferenced data from the 2016 Ethiopia Demographic and Health Survey. We combined the marriage histories of 4,398 young women with fine-grained measures of exposure to local protests that we compiled from two conflict datasets covering events between 2002 and 2016. Using discrete-time event history analyses, we find that protest delays first-marriage formation. Additional analyses suggest that political uncertainty and disruptions in interethnic marriages cannot explain this effect. Instead, we provide tentative evidence that protest delays marriage formation by preoccupying large segments of the marriageable population, rendering them unavailable for this critical life-course transition. Our findings pave the way for scholarship on the demographic outcomes of protest and contribute to understanding marriage patterns in a country where the timing of marriage has far-reaching social consequences.",
+  "authors": [
+    {
+      "raw": "Andriano, Liliana",
+      "family": "Andriano",
+      "given": "Liliana"
+    },
+    {
+      "raw": "Ebbinghaus, Mathis",
+      "family": "Ebbinghaus",
+      "given": "Mathis"
+    }
+  ],
+  "authors_text": "Andriano, Liliana; Ebbinghaus, Mathis",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae112",
+  "doi_url": "https://doi.org/10.1093/sf/soae112",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae112",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae112.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

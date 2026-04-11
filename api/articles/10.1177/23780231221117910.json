@@ -1,0 +1,30 @@
+{
+  "title": "COVID-19 and Gender Differences in Social Trust: Causal Evidence from the First Wave of the Pandemic",
+  "abstract": "Although research provides causal evidence on the effects of COVID-19 lockdown measures on trust, causal effects of infection risks are missing. To contribute to increasing research on the societal consequences of the COVID-19 pandemic, we estimate whether high incidence rates net of lockdown measures induce causal changes in social trust. We use representative household panel data from Germany and employ a difference-in-difference design. Although social trust increased during the first phase of the pandemic, the difference-in-difference analysis reveals that high incidences have a negative effect on social trust. We show that females drive this effect. The negative effect is especially large among highly educated women and women with poor pre-COVID-19 health. Overall, our results suggest that increasing incidences signal noncompliance of unknown others. Consequently, the overall positive trend might reverse in the medium and long run, leading to declines in social cohesion over the course of the pandemic.",
+  "authors": [
+    {
+      "raw": "Collischon, Matthias",
+      "family": "Collischon",
+      "given": "Matthias"
+    },
+    {
+      "raw": "Patzina, Alexander",
+      "family": "Patzina",
+      "given": "Alexander"
+    }
+  ],
+  "authors_text": "Collischon, Matthias; Patzina, Alexander",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221117910",
+  "doi_url": "https://doi.org/10.1177/23780231221117910",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221117910",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221117910.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

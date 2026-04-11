@@ -1,0 +1,25 @@
+{
+  "title": "Disability as Inequality: Social Disparities, Health Disparities, and Participation in Daily Activities",
+  "abstract": "Individuals with disabilities experience lower education levels, lower employment rates, fewer household resources, and poorer health than people without disabilities. Yet, despite comprising more than one-eighth of the US population, people with disabilities are seldom integrated into sociological studies of inequality. This study uses time use as a lens through which to understand one type of inequality between working-aged people with and without disabilities: participation in daily activities. It also tests whether social disparities (as suggested by the social model of disability) or health disparities (as suggested by the medical model of disability) explain a larger percentage of participation differences. I first consider if disability predicts daily time in market work, nonmarket work, tertiary (health-related) activities, and leisure-net of health and sociodemographic characteristics. Next, I utilize Oaxaca-Blinder decomposition to assess the relative contribution of these characteristics in explaining time differences. Results from the American Time Use Survey indicate that adults with disabilities spend less time than adults without disabilities in market work and more time in tertiary activities and leisure. There is no difference in nonmarket time. Health accounts for the largest percentage of the explained component of tertiary time differences, but depending on the choice of predictors, sociodemographic characteristics account for as much-or more-of the explained component of differences in market and leisure time. Results indicate the importance of disentangling disability from health in sociological studies of inequality. They also support a hybrid disability model in suggesting that both health and sociodemographic characteristics determine how disability shapes daily life.",
+  "authors": [
+    {
+      "raw": "Shandra, Carrie L.",
+      "family": "Shandra",
+      "given": "Carrie L."
+    }
+  ],
+  "authors_text": "Shandra, Carrie L.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy031",
+  "doi_url": "https://doi.org/10.1093/sf/soy031",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy031",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy031.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

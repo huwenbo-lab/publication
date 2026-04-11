@@ -1,0 +1,35 @@
+{
+  "title": "The multistate life table method: An application to contraceptive switching behavior",
+  "abstract": "Abstract In many demographic behaviors (e.g., those relating to marriage, contraception, migration, and health), people change among multiple statuses through time, sometimes leaving and then returning to the same status. Data on such behaviors are often collected in surveys as censored event histories. The multistate life table (MSLT) can be used to properly describe, in a single analysis, these complex transitions among multiple states measured in such data, but MSLT is rarely applied in the demographic literature because practical guidance is lacking on how to compute MSLTS with such data. We provide methods for computing MSLT quantities using censored event-history data: namely, transition intensities and probabilities, “state occupancy” probabilities and standard errors, average time spent in specified states, and average number of visits to specified states. Applying these methods to contraceptive use, we find high levels of switching back and forth, particularly between barrier methods and non-use, resulting in high rates of unintended pregnancy.",
+  "authors": [
+    {
+      "raw": "Kuo, Tzy-Mey",
+      "family": "Kuo",
+      "given": "Tzy-Mey"
+    },
+    {
+      "raw": "Suchindran, C. M.",
+      "family": "Suchindran",
+      "given": "C. M."
+    },
+    {
+      "raw": "Koo, Helen P.",
+      "family": "Koo",
+      "given": "Helen P."
+    }
+  ],
+  "authors_text": "Kuo, Tzy-Mey; Suchindran, C. M.; Koo, Helen P.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.2008.0013",
+  "doi_url": "https://doi.org/10.1353/dem.2008.0013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2008.0013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2008.0013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

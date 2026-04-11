@@ -1,0 +1,35 @@
+{
+  "title": "Parenthood, Gender, and Personal Wealth",
+  "abstract": "This study examines the association between parenthood and the growth of personal wealth of women and men over time. We argue that parenthood creates unique restrictions and opportunity structures for mothers and fathers in terms of personal wealth accumulation. Using rich data from the German Socio-Economic Panel Study (2002, 2007, 2012; N = 28,650 individuals), we apply random-effects growth curve models to test our expectations. We find that mothers' personal wealth growth rates are lower compared to childless women and compared to fathers. A considerable share of this association can be explained by discontinuous employment experiences of women in Germany, a context with a dominant male-breadwinner model. The wealth accumulation of mothers is additionally depressed by early first births and non-marital births. For men, parenthood is not generally associated with wealth accumulation, but we identify variation in the association with regard to the timing of and marital status at first birth. These results reveal a substantial motherhood wealth penalty previously hidden in analyses of household-level wealth, thereby contributing to our understanding of gender inequalities in economic well-being over the life course.",
+  "authors": [
+    {
+      "raw": "Lersch, Philipp M.",
+      "family": "Lersch",
+      "given": "Philipp M."
+    },
+    {
+      "raw": "Jacob, Marita",
+      "family": "Jacob",
+      "given": "Marita"
+    },
+    {
+      "raw": "Hank, Karsten",
+      "family": "Hank",
+      "given": "Karsten"
+    }
+  ],
+  "authors_text": "Lersch, Philipp M.; Jacob, Marita; Hank, Karsten",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcx046",
+  "doi_url": "https://doi.org/10.1093/esr/jcx046",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcx046",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcx046.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

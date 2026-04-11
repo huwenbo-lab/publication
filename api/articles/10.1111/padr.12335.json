@@ -1,0 +1,30 @@
+{
+  "title": "Birth Spacing and Child Health Trajectories",
+  "abstract": "Using longitudinal data on a cohort of over 4,000 children from four low- and middle-income countries, we document the association between birth spacing and child growth trajectories. We find declines in child height at age 1 among children who are born within three years of an older sibling. However, we also observe catch-up growth for closely spaced children as they age. We find no evidence that catch-up growth is driven by remedial health investments after birth, suggesting substitutability in underlying biological processes. We also find that very widely spaced children (preceding birth interval of more than seven years) are similar in height at age 1 as children who are spaced three to seven years apart, but outgrow their more closely spaced counterparts as they age. However, further sibling comparisons suggest that the growth premium that is observed for very widely spaced children may be driven by unobserved confounding factors.",
+  "authors": [
+    {
+      "raw": "Miller, Ray",
+      "family": "Miller",
+      "given": "Ray"
+    },
+    {
+      "raw": "Karra, Mahesh",
+      "family": "Karra",
+      "given": "Mahesh"
+    }
+  ],
+  "authors_text": "Miller, Ray; Karra, Mahesh",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2020,
+  "doi": "10.1111/padr.12335",
+  "doi_url": "https://doi.org/10.1111/padr.12335",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12335",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12335.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

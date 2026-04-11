@@ -1,0 +1,25 @@
+{
+  "title": "Delayed Disadvantage: Neighborhood Context and Child Development",
+  "abstract": "Neighborhood effects scholarship suggests that neighborhoods may impart different effects across the early life-course because children's interactions with neighborhood actors and institutions evolve across the stages of child development. This paper expands our understanding of neighborhood effects on cognitive and non-cognitive development across childhood and early adolescence by capitalizing on thirteen waves of restricted and never-before-used longitudinal data from the NLSY Child and Young Adult (1986-2010) sample. The findings from within-child fixed-effects interaction models suggest that while younger children are immune to neighborhood effects on their cognitive development, older children consistently suffer a steep penalty for growing up in disadvantaged neighborhoods. This neighborhood disadvantage penalty persists among older children despite alternative age constructs. Further, the results are robust to various adjustments for observed and unobserved sources of bias, model specifications, and also manifest as cumulative and lagged effects.",
+  "authors": [
+    {
+      "raw": "Alvarado, Steven Elias",
+      "family": "Alvarado",
+      "given": "Steven Elias"
+    }
+  ],
+  "authors_text": "Alvarado, Steven Elias",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sow020",
+  "doi_url": "https://doi.org/10.1093/sf/sow020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

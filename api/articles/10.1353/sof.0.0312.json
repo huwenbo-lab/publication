@@ -1,0 +1,30 @@
+{
+  "title": "Social Change and Anomie: A Cross-National Study",
+  "abstract": "We apply Durkheim’s social transitional theory to explain the variation of anomie in 30 nations in the world. Combining data from two sources – the 1995 World Values Survey and the United Nations University’s World Income Inequality Database or WIID – we test the hypothesis that rapid sociopolitical change at the structural level disrupts social integration and regulation, and increases the level of anomie among individuals in a society. Using the multilevel approach that permits the decomposition of variance within and between nations, the results of the analyses confirm that rapid sociopolitical change at the macro level, such as the political transition from totalitarianism to democracy, produces a higher level of anomie among individuals in a society. In addition, we find a cross-level effect of confidence in authority on anomie. Findings at the individual level are largely consistent with Merton’s theory of anomie and with the extant literature that anomie is inversely related to an individual’s social and economic position in a society.",
+  "authors": [
+    {
+      "raw": "Zhao, R.",
+      "family": "Zhao",
+      "given": "R."
+    },
+    {
+      "raw": "Cao, L.",
+      "family": "Cao",
+      "given": "L."
+    }
+  ],
+  "authors_text": "Zhao, R.; Cao, L.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2010,
+  "doi": "10.1353/sof.0.0312",
+  "doi_url": "https://doi.org/10.1353/sof.0.0312",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0312",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0312.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Educational expansion and trends in intergenerational social mobility among Korean men",
+  "abstract": "Scholars have explored three channels through which educational expansion contributes to increased intergenerational social mobility: the compositional effect, educational equalization, and class returns to education. Existing literature on impacts of educational expansion on intergenerational social mobility is primarily based on experiences of European societies and the United States. We expand the existing literature by investigating the relationship between educational expansion and intergenerational mobility in Korea showing an exceptional degree of educational expansion over the last few decades. Log-linear models show that social fluidity has increased across birth cohorts of Korean men born between 1950 and 1984, with the recent cohorts experiencing it considerably. Utilizing a counterfactual decomposition method, our study shows that educational expansion has played a crucial role in promoting social fluidity mainly through educational equalization for earlier cohorts and through the compositional effect for more recent cohorts. The role played by the class returns to education was minor.",
+  "authors": [
+    {
+      "raw": "Chung, Inkwan",
+      "family": "Chung",
+      "given": "Inkwan"
+    },
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    }
+  ],
+  "authors_text": "Chung, Inkwan; Park, Hyunjoon",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.04.020",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.04.020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.04.020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.04.020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

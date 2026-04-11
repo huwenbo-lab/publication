@@ -1,0 +1,30 @@
+{
+  "title": "Do immigrants work in riskier jobs?",
+  "abstract": "Abstract Recent media and government reports suggest that immigrants are more likely to hold jobs with poor working conditions than U.S.-born workers, perhaps because immigrants work in jobs that “ natives don’t want.” Despite this widespread view, earlier studies have not found immigrants to be in riskier jobs than natives. This study combines individual-level data from the 2003-2005 American Community Survey with Bureau of Labor Statistics data on work-related injuries and fatalities to take a fresh look at whether foreign-born workers are employed in more dangerous jobs. The results indicate that immigrants are in fact more likely to work in risky jobs than U.S.-born workers, partly due to differences in average characteristics, such as immigrants’ lower English-language ability and educational attainment.",
+  "authors": [
+    {
+      "raw": "Orrenius, Pia M.",
+      "family": "Orrenius",
+      "given": "Pia M."
+    },
+    {
+      "raw": "Zavodny, Madeline",
+      "family": "Zavodny",
+      "given": "Madeline"
+    }
+  ],
+  "authors_text": "Orrenius, Pia M.; Zavodny, Madeline",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0064",
+  "doi_url": "https://doi.org/10.1353/dem.0.0064",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0064",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0064.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

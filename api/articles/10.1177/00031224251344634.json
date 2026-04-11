@@ -1,0 +1,35 @@
+{
+  "title": "How Does Culture Matter for Attainment, and How Would We Know If It Did?",
+  "abstract": "In their 2022 ASR article, Horwitz, Matheny, Laryea, and Schnabel (HMLS 2022) argue that religious subculture significantly shapes educational stratification, emphasizing how Jewish subcultures, especially for young women, foster an education-enhancing habitus and self-concept. While commending their aim to identify clear explanatory mechanisms and avoid essentialist explanations, this Comment critiques HMLS's methodology and conclusions, addressing the broader question: Can parental cultural socialization explain group-level differences in educational attainment? We identify four issues: mismeasurement of Jewish parentage, insufficient controls for social class, and two gaps in specifying and operationalizing cultural mechanisms. Re-analyzing the National Survey of Youth and Religion (NSYR), we show that HMLS's findings remain stable after correcting Jewish parentage mismeasurement but shift substantially when better adjusting for social class. We argue that cultural explanations must meet two additional principles-portability and convertibility-to avoid lapsing into essentialism or reproducing culture of poverty narratives. These principles require that (a) social and cultural mechanisms function independently of group membership and be transferable across actors and fields, and (b) structural advantages and barriers are acknowledged and integrated. This Comment thus extends existing guidelines for analyzing the role of culture in stratification and offers a framework for identifying non-essentialist mechanisms driving group differences in attainment.",
+  "authors": [
+    {
+      "raw": "Brady, David",
+      "family": "Brady",
+      "given": "David"
+    },
+    {
+      "raw": "Luft, Aliza",
+      "family": "Luft",
+      "given": "Aliza"
+    },
+    {
+      "raw": "Sivan, Ezra W. Zuckerman",
+      "family": "Sivan",
+      "given": "Ezra W. Zuckerman"
+    }
+  ],
+  "authors_text": "Brady, David; Luft, Aliza; Sivan, Ezra W. Zuckerman",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1177/00031224251344634",
+  "doi_url": "https://doi.org/10.1177/00031224251344634",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224251344634",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224251344634.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

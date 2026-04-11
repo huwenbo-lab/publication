@@ -1,0 +1,35 @@
+{
+  "title": "Gender inequality in domestic chores over ten months of the UK COVID-19 pandemic: Heterogeneous adjustments to partners' changes in working hours",
+  "abstract": "BACKGROUND COVID-19 containment measures led to a generalised decrease in working hours. The limited chances of spending time outside the home and the increased needs related to children and housekeeping triggered gender-specific reactions to unpaid labour. Little is known about changes in partners' division of domestic chores in the months following the pandemic outspread. OBJECTIVE Focusing on the United Kingdom, we study whether couples' reallocation of unpaid labour after a loss of working hours during the first strict lockdown (April 2020) lasted in the following months. METHODS Relying on the UKHLS COVID-19 survey (April 2020 to January 2021) and on multivariate OLS regressions, we analyse the gender division of unpaid labour, differentiating couples according to loss of working hours and the subsequent recovery. RESULTS In the short term, the partner who lost working hours promptly reacted by increasing time dedicated to unpaid labour, and this adjustment endured over the following months. However, if the man recovered working hours, we observed pre-lockdown or even higher levels of gender inequality, especially in couples with dependent children.",
+  "authors": [
+    {
+      "raw": "Zamberlan, Anna",
+      "family": "Zamberlan",
+      "given": "Anna"
+    },
+    {
+      "raw": "Gioachin, Filippo",
+      "family": "Gioachin",
+      "given": "Filippo"
+    },
+    {
+      "raw": "Gritti, Davide",
+      "family": "Gritti",
+      "given": "Davide"
+    }
+  ],
+  "authors_text": "Zamberlan, Anna; Gioachin, Filippo; Gritti, Davide",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.19",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

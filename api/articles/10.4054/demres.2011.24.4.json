@@ -1,0 +1,30 @@
+{
+  "title": "The crossover between life expectancies at birth and at age one: The imbalance in the life table",
+  "abstract": "The single most used demographic measure to describe population health is life expectancy at birth, but life expectancies at ages other than zero are also used in the study of human longevity. Our intuition tells us that the longest life expectancy is",
+  "authors": [
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Becker, Stan",
+      "family": "Becker",
+      "given": "Stan"
+    }
+  ],
+  "authors_text": "Canudas-Romo, Vladimir; Becker, Stan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2011,
+  "doi": "10.4054/demres.2011.24.4",
+  "doi_url": "https://doi.org/10.4054/demres.2011.24.4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2011.24.4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2011.24.4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

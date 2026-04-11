@@ -1,0 +1,25 @@
+{
+  "title": "Foreign-born Peers and Academic Performance",
+  "abstract": "The academic performance of foreign-born youth in the United States is well studied, yet little is known about whether and how foreign-born students influence their classmates. In this article, I develop a set of expectations regarding the potential consequences of immigrant integration across schools, with a distinction between the effects of sharing schools with immigrants who are designated as English language learners (ELL) and those who are not. I then use administrative data on multiple cohorts of Florida public high school students to estimate the effect of immigrant shares on immigrant and native-born students' academic performance. The identification strategy pays careful attention to the selection problem by estimating the effect of foreign-born peers from deviations in the share foreign-born across cohorts of students attending the same school in different years. The assumption underlying this approach is that students choose schools based on the composition of the entire school, not on the composition of each entering cohort. The results of the analysis, which hold under several robustness checks, indicate that foreign-born peers (both those who are ELL and those who are non-ELL) have no effect on their high school classmates' academic performance.",
+  "authors": [
+    {
+      "raw": "Conger, Dylan",
+      "family": "Conger",
+      "given": "Dylan"
+    }
+  ],
+  "authors_text": "Conger, Dylan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0369-2",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0369-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0369-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0369-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Labor unions, work contexts, and workers' access to work-family policies",
+  "abstract": "Unions serve as primary labor market institutions that improve employees' working conditions, yet existing literature offers mixed results of their influence on workers' access to work-family policies. This may be partially due to the extant literature having not considered possible variation across work contexts. In this study, I ask whether union coverage can increase workers' access to work-family policies and examine how family-friendly work contexts-public sector organizations and female-dominated occupations-can modify these union effects in the United States. Using the National Longitudinal Survey of Youth 97 (2000-2017) and individual-fixed effect models, I analyze the impact of transitioning from a nonunion worker to a union-represented worker on the worker's access to three work-family policies: paid parental leave, schedule control, and paid sick/vacation days. Results show that changing from a nonunion position to a union-represented one increases workers' access to paid parental leave and paid sick/vacation days but decreases access to schedule control. The findings also show that workers in public sector organizations and female-dominated occupations tend to experience outsized benefits of union coverage on access to longer paid sick/vacation days. These findings suggest that the advantages of union coverage in workers' access to work-family policies may be influenced by gendered work contexts.",
+  "authors": [
+    {
+      "raw": "Paek, Eunjeong",
+      "family": "Paek",
+      "given": "Eunjeong"
+    }
+  ],
+  "authors_text": "Paek, Eunjeong",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae103",
+  "doi_url": "https://doi.org/10.1093/sf/soae103",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae103",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae103.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

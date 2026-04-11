@@ -1,0 +1,25 @@
+{
+  "title": "Defending Turf: Racial Demographics and Hate Crime Against Blacks and Whites",
+  "abstract": "This study explores how racial composition, in-migration and community identity influence the distribution of antiblack and antiwhite hate crimes. Drawing on six years of Chicago Police Department reports, two decades of census data and community survey data from the Project on Human Development in Chicago Neighborhoods, the paper evaluates hypotheses derived from racial threat, macrostructural opportunity and defended community perspectives. Negative binomial models controlling for spatial dependence reveal different patterns for antiblack and antiwhite hate crimes across Chicago communities. Consistent with a defended communities model, antiblack hate crimes are most common in homogenous white communities with strong community identities undergoing recent black in-migration. In contrast, antiwhite hate crimes are most numerous in communities where blacks and whites comprise near equal proportions, supporting macrostructural opportunity perspectives.",
+  "authors": [
+    {
+      "raw": "Lyons, C. J.",
+      "family": "Lyons",
+      "given": "C. J."
+    }
+  ],
+  "authors_text": "Lyons, C. J.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2008,
+  "doi": "10.1353/sof.0.0071",
+  "doi_url": "https://doi.org/10.1353/sof.0.0071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Race and the accumulation of human capital across the career: A theoretical model and fixed-effects application",
+  "abstract": "The authors develop an explicitly sociological variant on human capital theory, emphasizing that most human capital acquisition is a social product, not an individual investment decision. The authors apply this model to racial earnings inequality, focusing on how exposure to discrimination influences both human capital acquisition and earnings inequalities as they develop across the career. The authors estimate models of career earnings trajectories, which show flatter trajectories for black and Hispanic men relative to white men, partial mediation by human capital acquired inside the labor market, and much larger race/ ethnic career inequalities among the highly educated.",
+  "authors": [
+    {
+      "raw": "Tomaskovic-Devey, D",
+      "family": "Tomaskovic-Devey",
+      "given": "D"
+    },
+    {
+      "raw": "Thomas, M",
+      "family": "Thomas",
+      "given": "M"
+    },
+    {
+      "raw": "Johnson, K",
+      "family": "Johnson",
+      "given": "K"
+    }
+  ],
+  "authors_text": "Tomaskovic-Devey, D; Thomas, M; Johnson, K",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2005,
+  "doi": "10.1086/431779",
+  "doi_url": "https://doi.org/10.1086/431779",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F431779",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/431779.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

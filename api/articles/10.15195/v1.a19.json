@@ -1,0 +1,35 @@
+{
+  "title": "Comparing Data Characteristics and Results of an Online Factorial Survey between a Population-Based and a Crowdsource-Recruited Sample",
+  "abstract": "Compared to older kinds of sample surveys, online platforms provide a fast and low-cost platform for factorial surveys, as well as a more demographically diverse alternative to student samples. Two distinct strategies have emerged for recruitment: using panels based on population-based samples versus recruiting people actively seeking to complete online tasks for money. The latter is much cheaper but prompts various concerns about data quality and generalizability. We compare results of three vignette experiments conducted using the leading online panel that uses a population-based paradigm (Knowledge Networks, now GfK) and the leading platform for crowdsource recruitment (Amazon Mechanical Turk). Our data show that, while demographic differences exist, most notably in age, the actual results of our experiments are very similar, especially once these demographic differences have been taken into account. Indicators of data quality were actually slightly better among the crowdsource subjects. Although more evidence is plainly needed, our results support the accumulating evidence for the promise of crowdsource recruitment for online experiments, including factorial surveys.",
+  "authors": [
+    {
+      "raw": "Weinberg, Jill",
+      "family": "Weinberg",
+      "given": "Jill"
+    },
+    {
+      "raw": "Freese, Jeremy",
+      "family": "Freese",
+      "given": "Jeremy"
+    },
+    {
+      "raw": "McElhattan, David",
+      "family": "McElhattan",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Weinberg, Jill; Freese, Jeremy; McElhattan, David",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2014,
+  "doi": "10.15195/v1.a19",
+  "doi_url": "https://doi.org/10.15195/v1.a19",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv1.a19",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v1.a19.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Modeling States' Enactment of High School Exit Examination Policies",
+  "abstract": "We present five frameworks for explaining which U.S. states adopted high school exit examination policies at particular points in time. The frameworks correspond to issues of academic achievement, education spending, economic conditions, racial/ethnic heterogeneity and policy diffusion. Using event history techniques we find that states with higher unemployment rates and higher proportions of racial/ethnic minority youth are more likely to have adopted HSEE policies than otherwise similar states.",
+  "authors": [
+    {
+      "raw": "Warren, J. R.",
+      "family": "Warren",
+      "given": "J. R."
+    },
+    {
+      "raw": "Kulick, R. B.",
+      "family": "Kulick",
+      "given": "R. B."
+    }
+  ],
+  "authors_text": "Warren, J. R.; Kulick, R. B.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2007,
+  "doi": "10.1353/sof.2007.0114",
+  "doi_url": "https://doi.org/10.1353/sof.2007.0114",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2007.0114",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2007.0114.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

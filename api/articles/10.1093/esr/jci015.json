@@ -1,0 +1,25 @@
+{
+  "title": "Civicness and Economic Performance. A Longitudinal Analysis of Italian Provinces, 1980-2000",
+  "abstract": "The paper analyses the relations between civicness and economic performance at the macro level. It builds on R. D. Putnam’s research on civicness in Italian regions and on the debate it started, and estimates LISREL models of structural equations with data for 95 Italian provinces from the 1980s to the 2000s. Firstly, the empirical analysis shows that civicness and economic performance are longitudinally correlated, that their reciprocal effects are not as strong as autocorrelations, and that these effects’ magnitude (controlling for the medium-term correlation) is roughly the same. This finding is not in accord with Putnam’s ‘socio-cultural’ theory of social change. Secondly, the mechanisms underlying the relation are studied, distinguishing short- and medium-term effects, and it is shown that civicness has a medium-term (20 years) effect on the economy, while the economy has a short-term (10 years) one on civicness. This medium-term effect is attributed to cohort change. Thirdly, the difference between Northern and Southern provinces is studied, estimating separate models for the two parts of the country: while the relations between civicness and economic performance still hold in the North, in the South they are less coherent and systematic.",
+  "authors": [
+    {
+      "raw": "Ballarino, G.",
+      "family": "Ballarino",
+      "given": "G."
+    }
+  ],
+  "authors_text": "Ballarino, G.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1093/esr/jci015",
+  "doi_url": "https://doi.org/10.1093/esr/jci015",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci015",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci015.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

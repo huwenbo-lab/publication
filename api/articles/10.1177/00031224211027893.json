@@ -1,0 +1,30 @@
+{
+  "title": "Networks, Property, and the Division of Labor",
+  "abstract": "We use a simulation-based method to consider the effect of different network structures on the propensity for economic producers to develop a complementary division of labor. We use a graph-coloring game, in which nodes are given incentives to find a color that does not match their nearest neighbors, to represent the interdependent coordination problems inherent to the division of labor. We find that a decentralized development of a division of labor is difficult, particularly when too many specializations are chosen. Counterintuitively, a division of labor is more likely to evolve when the ability of agents to specialize is more constrained. The ability to store property also facilitates the development of a division of labor.",
+  "authors": [
+    {
+      "raw": "Erikson, Emily",
+      "family": "Erikson",
+      "given": "Emily"
+    },
+    {
+      "raw": "Shirado, Hirokazu",
+      "family": "Shirado",
+      "given": "Hirokazu"
+    }
+  ],
+  "authors_text": "Erikson, Emily; Shirado, Hirokazu",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/00031224211027893",
+  "doi_url": "https://doi.org/10.1177/00031224211027893",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224211027893",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224211027893.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Wives and ex-wives: A new test for homogamy bias in the widowhood effect",
+  "abstract": "AbstractIncreased mortality following the death of a spouse (the “widowhood effect”) may be due to (1) causation, (2) bias from spousal similarity (homogamy), or (3) bias from shared environmental exposures. This article proposes new tests for bias in the widowhood effect by examining husbands, wives, and ex-wives in a longitudinal sample of over 1 million elderly Americans. If the death of an ex-wife has no causal effect on the mortality of her husband, then an observed association between the mortality of an ex-wife and her husband may indicate bias, while the absence of an effect of an ex-wife’s death on her husband’s mortality would discount the possibility of homogamy bias (and also of one type of shared-exposure bias). Results from three empirical tests provide strong evidence for an effect of a current wife’s death on her husband’s mortality yet no statistically signifi cant evidence for an effect of an ex-wife’s death on her husband’s mortality. These results strengthen the causal interpretation of the widowhood effect by suggesting that the widowhood effect is not due to homogamy bias to any substantial degree.",
+  "authors": [
+    {
+      "raw": "Elwert, Felix",
+      "family": "Elwert",
+      "given": "Felix"
+    },
+    {
+      "raw": "Christakis, Nicholas A.",
+      "family": "Christakis",
+      "given": "Nicholas A."
+    }
+  ],
+  "authors_text": "Elwert, Felix; Christakis, Nicholas A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0029",
+  "doi_url": "https://doi.org/10.1353/dem.0.0029",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0029",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0029.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

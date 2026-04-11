@@ -1,0 +1,35 @@
+{
+  "title": "School Outcomes of Children Raised by Same-Sex Parents: Evidence from Administrative Panel Data",
+  "abstract": "Although widely used in policy debates, the literature on children's outcomes when raised by same-sex parents mostly relies on small selective samples or samples based on cross-sectional survey data. This has led to a lack of statistical power and the inability to distinguish children born to same-sex parents from children of separated parents. We address these issues by using unique administrative longitudinal data from the Netherlands, which was the first country to legalize same-sex marriage. These data include 2,971 children with same-sex parents (2,786 lesbian couples and 185 gay male couples) and over a million children with different-sex parents followed from birth. The results indicate that children raised by same-sex parents from birth perform better than children raised by different-sex parents in both primary and secondary education. Our findings are robust to use of cousin fixed effects and coarsened exact matching to improve covariate balance and to reduce model dependence. Further analyses using a novel bounding estimator suggest the selection on unobserved characteristics would have to be more than three times higher than the selection on observed characteristics to reduce the positive estimates to zero.",
+  "authors": [
+    {
+      "raw": "Mazrekaj, Deni",
+      "family": "Mazrekaj",
+      "given": "Deni"
+    },
+    {
+      "raw": "De Witte, Kristof",
+      "family": "De Witte",
+      "given": "Kristof"
+    },
+    {
+      "raw": "Cabus, Sofie",
+      "family": "Cabus",
+      "given": "Sofie"
+    }
+  ],
+  "authors_text": "Mazrekaj, Deni; De Witte, Kristof; Cabus, Sofie",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2020,
+  "doi": "10.1177/0003122420957249",
+  "doi_url": "https://doi.org/10.1177/0003122420957249",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122420957249",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122420957249.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

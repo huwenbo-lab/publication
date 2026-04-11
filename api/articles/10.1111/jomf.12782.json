@@ -1,0 +1,35 @@
+{
+  "title": "Time, money, and entry into parenthood: The role of (grand)parental support",
+  "abstract": "Objective The study's objective is to understand how parental propensities to provide support, as predicted by parental characteristics, shape adult daughters' and sons' entry into parenthood in the United States. Background Much research explores the influence of parental support on adult children's fertility, but the evidence is mixed and primarily focuses on European contexts. Theoretical approaches suggest that to best understand how parental support shapes adult children's outcomes, it is important to account for different forms of parental support, that is, time and money, and variation in parental characteristics. Method This study combined different data from the Panel Study of Income Dynamics: the 2013 Roster and Family Transfers module, main interview data file, and the Childbirth and Adoption History File. We implemented a two-step analysis strategy. In the first, we built two different measures of propensities to receive parental support (PPS) in the form of time and money. In the second, we used discrete-time logistic regression models to analyze the effects of these propensities to receive parental support on adult daughters' and sons' fertility. Results We find a positive and consistent effect of all types of PPS measures on adult daughters', but not adult sons', likelihood of entry into parenthood. The fertility decisions of adult daughters are highly responsive to the prospect of receiving parental support in the form of time or money. Conclusions Our results reflect the importance of informal support for women's entry into parenthood and highlight gender differences in the perceived and actual costs of becoming parents.",
+  "authors": [
+    {
+      "raw": "Pessin, Lea",
+      "family": "Pessin",
+      "given": "Lea"
+    },
+    {
+      "raw": "Rutigliano, Roberta",
+      "family": "Rutigliano",
+      "given": "Roberta"
+    },
+    {
+      "raw": "Potter, Marina Haddock",
+      "family": "Potter",
+      "given": "Marina Haddock"
+    }
+  ],
+  "authors_text": "Pessin, Lea; Rutigliano, Roberta; Potter, Marina Haddock",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12782",
+  "doi_url": "https://doi.org/10.1111/jomf.12782",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12782",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12782.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

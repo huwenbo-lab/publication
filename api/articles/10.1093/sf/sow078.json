@@ -1,0 +1,25 @@
+{
+  "title": "Human Rights and the Individual: Cross-Cultural Variation in Human Rights Scores, 1980 to 2010",
+  "abstract": "This study analyzes patterns of cross-cultural variability and convergence in two categories of human rights: bodily integrity (protection from torture, extrajudicial killing, and other forms of physical repression) and civil liberties (the freedoms of expression, assembly, movement, and religion). Countries are delineated into twelve cultural zones based primarily on predominant religious tradition and secondarily on geographical region. The core hypothesis predicts that respect for bodily integrity rights, which seeks to protect biological beings from physical harm, will vary less across cultures than respect for civil liberties, which empowers social and cultural entities to be self-determining agents. Individuals' capacity for pain and suffering is thought to be universal, but conceptions of the bounded and autonomous actor are culturally constructed and hence variable across cultures. Statistical analyses support this hypothesis: compared with civil liberties scores, cross-cultural variation in bodily integrity scores is much lower and also less durable in the presence of control variables. Moreover, whereas civil liberties scores are substantially higher in Western countries than in the rest of the world, cross-cultural variability in bodily integrity scores is gradational rather than polarized.",
+  "authors": [
+    {
+      "raw": "Cole, Wade M.",
+      "family": "Cole",
+      "given": "Wade M."
+    }
+  ],
+  "authors_text": "Cole, Wade M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2016,
+  "doi": "10.1093/sf/sow078",
+  "doi_url": "https://doi.org/10.1093/sf/sow078",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsow078",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sow078.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Race Matters: Income Shares, Income Inequality, and Income Mobility for All US Races",
+  "abstract": "Using unique linked data, we examine income inequality and mobility across racial and ethnic groups in the United States. Our data encompass the universe of income tax filers in the United States for the period 2000-2014, matched with individual-level race and ethnicity information from multiple censuses and American Community Survey data. We document both income inequality and mobility trends over the period. We find significant stratification in terms of average incomes by racial/ethnic group and distinct differences in within-group income inequality. The groups with the highest incomeswhites and Asiansalso have the highest levels of within-group inequality and the lowest levels of within-group mobility. The reverse is true for the lowest-income groups: blacks, American Indians, and Hispanics have lower within-group inequality and immobility. On the other hand, low-income groups are also highly immobile in terms of overall, rather than within-group, mobility. These same groups also have a higher probability of experiencing downward mobility compared with whites and Asians. We also find that within-group income inequality increased for all groups between 2000 and 2014, and the increase was especially large for whites. The picture that emerges from our analysis is of a rigid income structure, with mainly whites and Asians positioned at the top and blacks, American Indians, and Hispanics confined to the bottom.",
+  "authors": [
+    {
+      "raw": "Akee, Randall",
+      "family": "Akee",
+      "given": "Randall"
+    },
+    {
+      "raw": "Jones, Maggie R.",
+      "family": "Jones",
+      "given": "Maggie R."
+    },
+    {
+      "raw": "Porter, Sonya R.",
+      "family": "Porter",
+      "given": "Sonya R."
+    }
+  ],
+  "authors_text": "Akee, Randall; Jones, Maggie R.; Porter, Sonya R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-019-00773-7",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00773-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00773-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00773-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

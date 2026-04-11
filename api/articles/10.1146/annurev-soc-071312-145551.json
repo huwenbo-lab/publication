@@ -1,0 +1,30 @@
+{
+  "title": "Data Visualization in Sociology",
+  "abstract": "Visualizing data is central to social scientific work. Despite a promising early beginning, sociology has lagged in the use of visual tools. We review the history and current state of visualization in sociology. Using examples throughout, we discuss recent developments in ways of seeing raw data and presenting the results of statistical modeling. We make a general distinction between those methods and tools designed to help explore data sets and those designed to help present results to others. We argue that recent advances should be seen as part of a broader shift toward easier sharing of code and data both between researchers and with wider publics, and we encourage practitioners and publishers to work toward a higher and more consistent standard for the graphical display of sociological insights.",
+  "authors": [
+    {
+      "raw": "Healy, Kieran",
+      "family": "Healy",
+      "given": "Kieran"
+    },
+    {
+      "raw": "Moody, James",
+      "family": "Moody",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Healy, Kieran; Moody, James",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2014,
+  "doi": "10.1146/annurev-soc-071312-145551",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-071312-145551",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-071312-145551",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-071312-145551.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

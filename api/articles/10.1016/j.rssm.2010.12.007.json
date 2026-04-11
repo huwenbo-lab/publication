@@ -1,0 +1,30 @@
+{
+  "title": "Racial differences in high school dropout rates: An analysis of U.S. Metropolitan areas",
+  "abstract": "In this paper, we explore the differences in high school dropout rates among white, black and Hispanic students in 275 U.S. Metropolitan Statistical Areas (MSAs) in 2000. Our analysis focuses on the impact of community and labor market conditions, in hopes of providing insight into the relationship between place and educational outcomes. The explanatory power of our regression models is mixed across racial groups, performing best for whites and Hispanics. Our results also indicate that community factors - most importantly, same-race adult educational attainment in the community, teenage birth rates and residential stability - have a greater impact on dropout rates than labor market factors. Our results suggest that as education reform moves toward broad-based solutions to improve student outcomes including dropout rates, it will be increasingly important to address the structural origins of inequality outside of schools. (C) 2010 International Sociological Association Research Committee 28 on Social Stratification and Mobility. Published by Elsevier Ltd. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Leventhal-Weiner, Rachel",
+      "family": "Leventhal-Weiner",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Wallace, Michael",
+      "family": "Wallace",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Leventhal-Weiner, Rachel; Wallace, Michael",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2011,
+  "doi": "10.1016/j.rssm.2010.12.007",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2010.12.007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2010.12.007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2010.12.007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

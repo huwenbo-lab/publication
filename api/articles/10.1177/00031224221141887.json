@@ -1,0 +1,30 @@
+{
+  "title": "Higher Education and the Black-White Earnings Gap",
+  "abstract": "How does higher education shape the Black-White earnings gap? It may help close the gap if Black youth benefit more from attending and completing college than do White youth. On the other hand, Black college-goers are less likely to complete college relative to White students, and this disparity in degree completion helps reproduce racial inequality. In this study, we use a novel causal decomposition and a debiased machine learning method to isolate, quantify, and explain the equalizing and stratifying roles of college. Analyzing data from the NLSY97, we find that a bachelor's degree has a strong equalizing effect on earnings among men (albeit not among women); yet, at the population level, this equalizing effect is partly offset by unequal likelihoods of bachelor's completion between Black and White students. Moreover, a bachelor's degree narrows the male Black-White earnings gap not by reducing the influence of class background and pre-college academic ability, but by lessening the unexplained penalty of being Black in the labor market. To illuminate the policy implications of our findings, we estimate counterfactual earnings gaps under a series of stylized educational interventions. We find that interventions that both boost rates of college attendance and bachelor's completion and close racial disparities in these transitions can substantially reduce the Black-White earnings gap.",
+  "authors": [
+    {
+      "raw": "Zhou, Xiang",
+      "family": "Zhou",
+      "given": "Xiang"
+    },
+    {
+      "raw": "Pan, Guanghui",
+      "family": "Pan",
+      "given": "Guanghui"
+    }
+  ],
+  "authors_text": "Zhou, Xiang; Pan, Guanghui",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2023,
+  "doi": "10.1177/00031224221141887",
+  "doi_url": "https://doi.org/10.1177/00031224221141887",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224221141887",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224221141887.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Assumptions for long-term stochastic population forecasts in 18 European countries",
+  "abstract": "The aim of the 'Uncertain Population of Europe'(UPE) project was to compute long-term stochastic (probabilistic) population forecasts for 18 European countries. We developed a general methodology for constructing predictive distributions for fertility, mortality and migration. The assumptions underlying stochastic population forecasts can be assessed by analysing errors in past forecasts or model-based estimates of forecast errors, or by expert judgement. All three approaches have been used in the project. This article summarizes and discusses the results of the three approaches. It demonstrates how the-sometimes conflicting-results can be synthesized into a consistent set of assumptions about the expected levels and the uncertainty of total fertility rate, life expectancy at birth of men and women, and net migration for 18 European countries.",
+  "authors": [
+    {
+      "raw": "Alders, Maarten",
+      "family": "Alders",
+      "given": "Maarten"
+    },
+    {
+      "raw": "Keilman, Nico",
+      "family": "Keilman",
+      "given": "Nico"
+    },
+    {
+      "raw": "Cruijsen, Harri",
+      "family": "Cruijsen",
+      "given": "Harri"
+    }
+  ],
+  "authors_text": "Alders, Maarten; Keilman, Nico; Cruijsen, Harri",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2007,
+  "doi": "10.1007/s10680-006-9104-4",
+  "doi_url": "https://doi.org/10.1007/s10680-006-9104-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-006-9104-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-006-9104-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

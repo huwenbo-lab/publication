@@ -1,0 +1,35 @@
+{
+  "title": "A Flexible Bayesian Model for Estimating Subnational Mortality",
+  "abstract": "Reliable subnational mortality estimates are essential in the study of health inequalities within a country. One of the difficulties in producing such estimates is the presence of small populations among which the stochastic variation in death counts is relatively high, and thus the underlying mortality levels are unclear. We present a Bayesian hierarchical model to estimate mortality at the subnational level. The model builds on characteristic age patterns in mortality curves, which are constructed using principal components from a set of reference mortality curves. Information on mortality rates are pooled across geographic space and are smoothed over time. Testing of the model shows reasonable estimates and uncertainty levels when it is applied both to simulated data that mimic U.S. counties and to real data for French d,partements. The model estimates have direct applications to the study of subregional health patterns and disparities.",
+  "authors": [
+    {
+      "raw": "Alexander, Monica",
+      "family": "Alexander",
+      "given": "Monica"
+    },
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    },
+    {
+      "raw": "Barbieri, Magali",
+      "family": "Barbieri",
+      "given": "Magali"
+    }
+  ],
+  "authors_text": "Alexander, Monica; Zagheni, Emilio; Barbieri, Magali",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0618-7",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0618-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0618-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0618-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

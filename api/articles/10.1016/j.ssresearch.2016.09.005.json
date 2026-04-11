@@ -1,0 +1,35 @@
+{
+  "title": "Social isolation, survey nonresponse, and nonresponse bias: An empirical evaluation using social network data within an organization",
+  "abstract": "Survey researchers have long hypothesized that social isolation negatively affects the probability of survey participation and biases survey estimates. Previous research, however, has relied on proxy measures of isolation, such as being a marginalized group member within a population. We re-examine the relationship between social isolation and survey participation using direct measures of social isolation derived from social network data; specifically, instrumental research and expressive friendship connections among faculty within academic departments. Using a reconceptualization of social isolation, we find that social network isolation is negatively associated with unit response. Among women (a numerical minority group within the organization), we further find that social group isolation (i.e., lacking instrumental network connections to men, the majority group in the organization) is negatively associated with survey participation. Finally, we show that some survey estimates are systematically biased due to nonparticipation from socially isolated people. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Watanabe, Megumi",
+      "family": "Watanabe",
+      "given": "Megumi"
+    },
+    {
+      "raw": "Olson, Kristen",
+      "family": "Olson",
+      "given": "Kristen"
+    },
+    {
+      "raw": "Falci, Christina",
+      "family": "Falci",
+      "given": "Christina"
+    }
+  ],
+  "authors_text": "Watanabe, Megumi; Olson, Kristen; Falci, Christina",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.09.005",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.09.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.09.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.09.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

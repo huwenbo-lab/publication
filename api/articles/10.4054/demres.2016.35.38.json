@@ -1,0 +1,30 @@
+{
+  "title": "Multiple imputation for demographic hazard models with left-censored predictor variables: Application to employment duration and fertility in the EU-SILC",
+  "abstract": "OBJECTIVE A common problem when using panel data is that individuals' histories are incompletely known at the first wave. We demonstrate the use of multiple imputation as a method to handle this partial information, and thereby increase statistical power without compromising the model specification. METHODS Using EU-SILC panel data to investigate full-time employment as a predictor of partnered women's risk of first birth in Poland, we first multiply imputed employment status two years earlier to cases for which employment status is observed only in the most recent year. We then derived regression estimates from the full, multiply imputed sample, and compared the coefficient and standard error estimates to those from complete-case estimation with employment status observed both one and two years earlier. RESULTS Relative to not being full-time employed, having been full-time employed for two or more years was a positive and statistically significant predictor of childbearing in the multiply imputed sample, but was not significant when using complete-case estimation. The variance about the 'two or more years' coefficient was one third lower in the multiply imputed sample than in the complete-case sample. CONTRIBUTION By using MI for left-censored observations, researchers using panel data may specify a model that includes characteristics of state or event histories without discarding observations for which that information is only partially available. Using conventional methods, either the analysis model must be simplified to ignore potentially important information about the state or event history (risking biased estimation), or cases with partial information must be dropped from the analytical sample (resulting in inefficient estimation).",
+  "authors": [
+    {
+      "raw": "Rendall, Michael S.",
+      "family": "Rendall",
+      "given": "Michael S."
+    },
+    {
+      "raw": "Greulich, Angela",
+      "family": "Greulich",
+      "given": "Angela"
+    }
+  ],
+  "authors_text": "Rendall, Michael S.; Greulich, Angela",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.38",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.38",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.38",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.38.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

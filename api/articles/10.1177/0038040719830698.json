@@ -1,0 +1,25 @@
+{
+  "title": "Do Well-off Families Compensate for Low Cognitive Ability? Evidence on Social Inequality in Early Schooling from a Twin Study",
+  "abstract": "This article bridges the literature on educational inequality between and within families to test whether high-socioeconomic status (SES) families compensate for low cognitive ability in the transition to secondary education in Germany. The German educational system of early-ability tracking (at age 10) represents a stringent setting for the compensatory hypothesis. Overall, previous literature offers inconclusive findings. Previous research between families suffers from the misspecification of parental SES and ability, while most within-family research did not stratify the analysis by SES or the ability distribution. To address these issues, I draw from the TwinLife study to implement a twin fixed-effects design that minimizes unobserved confounding. I report two main findings. First, highly educated families do not compensate for twins' differences in cognitive ability at the bottom of the ability distribution. In the German system of early-ability tracking, advantaged families may have more difficulties to compensate than in countries where educational transitions are less dependent on ability. Second, holding parents' and children's cognitive ability constant, pupils from highly educated families are 27% more likely to attend the academic track. This result implies wastage of academic potential for disadvantaged families, challenging the role of cognitive ability as the leading criterion of merit for liberal theories of equal opportunity. These findings point to the importance of other factors that vary between families with different resources and explain educational success, such as noncognitive abilities, risk aversion to downward mobility, and teachers' bias.",
+  "authors": [
+    {
+      "raw": "Gil-Hernandez, Carlos J.",
+      "family": "Gil-Hernandez",
+      "given": "Carlos J."
+    }
+  ],
+  "authors_text": "Gil-Hernandez, Carlos J.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2019,
+  "doi": "10.1177/0038040719830698",
+  "doi_url": "https://doi.org/10.1177/0038040719830698",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040719830698",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040719830698.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

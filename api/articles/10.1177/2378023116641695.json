@@ -1,0 +1,30 @@
+{
+  "title": "Cultural Objects as Prisms",
+  "abstract": "The hypothesis that cultural likes and dislikes are driven by the perceived connections between genres and their audiences is a foundational premise of sociological studies of cultural taste. However, to date the operation of this mechanism has been only indirectly inferred but never directly assessed empirically. To address this gap, the authors leverage unique data on the cultural tastes of a representative sample of Americans containing information on the subjective perceptions of the audience composition for 20 musical genres along 15 social dimensions. The authors find that subjective perceptions of the sociodemographic composition of genre categories modulate negative taste judgments in predictable ways, with markers of low status standing out as universal generators of symbolic exclusion. The authors also find that these effects are mediated by respondents’ own social positions in equally patterned ways, generating both symmetric effects (mutual rejection) along gender, racial, and generational lines and asymmetric effects (unilateral rejection) along lines of class and status.",
+  "authors": [
+    {
+      "raw": "Lizardo, Omar",
+      "family": "Lizardo",
+      "given": "Omar"
+    },
+    {
+      "raw": "Skiles, Sara",
+      "family": "Skiles",
+      "given": "Sara"
+    }
+  ],
+  "authors_text": "Lizardo, Omar; Skiles, Sara",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2016,
+  "doi": "10.1177/2378023116641695",
+  "doi_url": "https://doi.org/10.1177/2378023116641695",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023116641695",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023116641695.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

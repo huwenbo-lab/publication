@@ -1,0 +1,40 @@
+{
+  "title": "Gendered Parenthood-Employment Gaps from Midlife: A Demographic Perspective Across Three Different Welfare Systems",
+  "abstract": "Abstract Women’s labor force participation has increased in Western countries, but gender gaps remain, especially among parents. Using a novel comparative perspective, we assess women’s and men’s employment trajectories from midlife onward by parity and education. We provide insights into the gendered parenthood-employment gaps examining the long-term implications of parenthood beyond the core childbearing ages by decomposing years lived between ages 40–74, in years of employment, joblessness, and retirement. Using multistate incidence-based life tables, we compare different cultural and institutional contexts: Finland, Italy, and the USA. Our results document large cross-national variation, with education playing a key role. In Finland, the number of years of employment increases with parity for women and men, and the gender gap is small; in the USA, the relationship between parity and years of employment is relatively flat, although a gender gap emerges among those with two or more children; in Italy, the number of years of employment decreases sharply for women as parity increases, while it increases for men. Notably, education has a similar positive impact on years of employment across all groups in Finland. In contrast, in the USA and Italy, the gender gap is only half as large among highly educated mothers as it is among low educated mothers. The employment trajectories of childless women and men differ greatly across countries.",
+  "authors": [
+    {
+      "raw": "Lorenti, Angelo",
+      "family": "Lorenti",
+      "given": "Angelo"
+    },
+    {
+      "raw": "Nisén, Jessica",
+      "family": "Nisén",
+      "given": "Jessica"
+    },
+    {
+      "raw": "Mencarini, Letizia",
+      "family": "Mencarini",
+      "given": "Letizia"
+    },
+    {
+      "raw": "Myrskylä, Mikko",
+      "family": "Myrskylä",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Lorenti, Angelo; Nisén, Jessica; Mencarini, Letizia; Myrskylä, Mikko",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2024,
+  "doi": "10.1007/s10680-024-09699-2",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09699-2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09699-2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09699-2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

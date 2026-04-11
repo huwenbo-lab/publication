@@ -1,0 +1,45 @@
+{
+  "title": "Mortality inequalities at retirement age between migrants and nonmigrants in Denmark and Sweden",
+  "abstract": "BACKGROUND Denmark and Sweden index their statutory retirement ages to life expectancy. When lifespan increases, so does retirement age. This policy does not consider demographic heterogeneity in life expectancy, e.g., between migrants and non-migrants, posing possible issues for pension policies that index retirement age to life expectancy. OBJECTIVE To understand how mortality inequalities between migrants and non-migrants interact with the indexation of statutory retirement age in Denmark and Sweden. METHODS We used Danish and Swedish registry data from 1988-2018, and included individuals aged 50+. Migrants were classified as European-born or non-European-born. We calculated the probability of dying before retirement age, remaining life expectancy at retirement age, lifespan inequalities after retirement age, and the likelihood that a nonmigrant would outlive a migrant. We also classified the Danish-born population into four income levels and compared them to migrant groups. RESULTS Non-European-born migrants had the survival advantage in both countries, but equal or higher lifespan inequality at retirement. Sweden had a proportionally larger migrant population, but Denmark's was more diverse. The probability that a non-migrant would outsurvive a migrant was 40%-50% in both countries. CONCLUSIONS The healthy migrant effect was observed in both Denmark and Sweden. Despite mortality advantages, migrants do not contribute to increasing life expectancy in Denmark or Sweden. CONTRIBUTION This study contributes to the literature on mortality differences between migrants and non-migrants in Scandinavia. The novel contributions of this paper are the consideration of the socioeconomic status of non-migrants in Denmark, and the calculation of probabilities that migrants will outsurvive non-migrants, all within the context of pension policy.",
+  "authors": [
+    {
+      "raw": "Callaway, Julia",
+      "family": "Callaway",
+      "given": "Julia"
+    },
+    {
+      "raw": "Strozza, Cosmo",
+      "family": "Strozza",
+      "given": "Cosmo"
+    },
+    {
+      "raw": "Drefahl, Sven",
+      "family": "Drefahl",
+      "given": "Sven"
+    },
+    {
+      "raw": "Mussino, Eleonora",
+      "family": "Mussino",
+      "given": "Eleonora"
+    },
+    {
+      "raw": "Kashnitsky, Ilya",
+      "family": "Kashnitsky",
+      "given": "Ilya"
+    }
+  ],
+  "authors_text": "Callaway, Julia; Strozza, Cosmo; Drefahl, Sven; Mussino, Eleonora; Kashnitsky, Ilya",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.18",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

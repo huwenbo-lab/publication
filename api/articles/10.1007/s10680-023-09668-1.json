@@ -1,0 +1,40 @@
+{
+  "title": "Union Instability and Fertility: An International Perspective",
+  "abstract": "AbstractIn this article, we analyse the relationship between union instability and cumulated fertility among ever-partnered women in several regions across Europe and the Americas with different patterns of demographic behaviour in terms of fertility levels, union instability and fertility across partnerships. We hypothesise that the relationship between union dissolution and fertility might be less negative in contexts where repartnering is more prevalent. The analysis is performed on a large dataset of 25 countries, combining information from the Harmonised Histories of the Generation and Gender Programme with our own harmonisation of survey data from three Latin American countries. This allows for the inclusion of countries with differing prevalence of union instability as measured by (a) the proportion of women who separated by age 40, and (b) the proportion who repartnered by age 40. We first examine the prevalence of separation and repartnering during reproductive ages across regions, and we estimate the proportion of cumulated fertility attributable to unions of different ranks using a decomposition method. We then analyse the links between union instability and the number of children born by age 40 among ever-partnered and ever-repartnered women, using Poisson regression. Despite observing a high degree of heterogeneity in the proportions of births occurring in the context of repartnering both within and between regions, we find a pattern where a greater prevalence of repartnering by age 40 is accompanied by higher cumulated fertility in second or subsequent unions. Our multivariate findings reveal a negative statistical relationship between separation and cumulated fertility that is partially offset by repartnering in some contexts, and that the time spent in a union during the reproductive lifespan is a key determinant of cumulated fertility, regardless of national context and independently from age at union formation and union rank.",
+  "authors": [
+    {
+      "raw": "Fostik, Ana",
+      "family": "Fostik",
+      "given": "Ana"
+    },
+    {
+      "raw": "Fernández Soto, Mariana",
+      "family": "Fernández Soto",
+      "given": "Mariana"
+    },
+    {
+      "raw": "Ruiz-Vallejo, Fernando",
+      "family": "Ruiz-Vallejo",
+      "given": "Fernando"
+    },
+    {
+      "raw": "Ciganda, Daniel",
+      "family": "Ciganda",
+      "given": "Daniel"
+    }
+  ],
+  "authors_text": "Fostik, Ana; Fernández Soto, Mariana; Ruiz-Vallejo, Fernando; Ciganda, Daniel",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2023,
+  "doi": "10.1007/s10680-023-09668-1",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09668-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09668-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09668-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

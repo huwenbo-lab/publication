@@ -1,0 +1,35 @@
+{
+  "title": "Racial and ethnic differences in student participation in private supplementary education activities",
+  "abstract": "Students in the United States increasingly use private supplementary education activities (PSEAs), but research has largely overlooked how race, ethnicity, and socioeconomic status may affect participation. Drawing on nationally representative data from the High School Longitudinal Study of 2009 (HSLS:09), we use logistic regression models to analyze variation in 11th-grade student reports of participation, by race/ethnicity, in each of four PSEAs: (1) WA preparation courses, (2) out-of-school academic instruction, (3) consulting a hired counselor, and (4) college preparation camps, as well as the total number of PSEAs. We find that minority students are more likely than White students to participate in each of the PSEAs. The higher likelihood of PSEAs participation among minority students is particularly noticeable among families whose mothers do not have a bachelor's degree. We also find that the relationship between prior academic performance and PSEAs participation varies across race/ethnicity, with Black and Hispanic students generally using PSEAs to catch up and Asian students using PSEAs to get ahead. Findings point to the relevance of race/ethnicity in family investment in PSEAs beyond social class and also highlight the potential implications of PSEAs for educational inequalities.",
+  "authors": [
+    {
+      "raw": "Ho, Phoebe",
+      "family": "Ho",
+      "given": "Phoebe"
+    },
+    {
+      "raw": "Park, Hyunjoon",
+      "family": "Park",
+      "given": "Hyunjoon"
+    },
+    {
+      "raw": "Kao, Grace",
+      "family": "Kao",
+      "given": "Grace"
+    }
+  ],
+  "authors_text": "Ho, Phoebe; Park, Hyunjoon; Kao, Grace",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2019,
+  "doi": "10.1016/j.rssm.2018.11.004",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2018.11.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2018.11.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2018.11.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Understanding the Disability Dynamics of Youth: Health Condition and Limitation Changes for Youth and Their Influence on Longitudinal Survey Attrition",
+  "abstract": "Disability status-experiencing a functional limitation caused by a health condition-is dynamic throughout the life cycle, even during adolescence and young adulthood. We use data from the 1997 cohort of the National Longitudinal Survey of Youth to better understand these dynamics, examining how health condition and limitation statuses evolve during adolescence and young adulthood as well as how changes in these characteristics are related to survey nonresponse and attrition. Health condition and limitation dynamics are evident in our data: the proportion of sample members who reported having a limitation in their activities for any interview increased from approximately 12 % during the initial interview (when sample members were 12 to 17 years old) to almost 25 % 13 years later. Multivariate analyses revealed that women are more likely than men to report changes in health condition or limitation status. Those with mild limitations were relatively less likely than those without limitations or with severe limitations to experience changes in limitation status. Somewhat surprisingly, a survival analysis of survey participation outcomes found limited correlation among health conditions, limitations, and either missing a survey interview for the first time or permanently leaving the survey sample.",
+  "authors": [
+    {
+      "raw": "Mann, David R.",
+      "family": "Mann",
+      "given": "David R."
+    },
+    {
+      "raw": "Honeycutt, Todd",
+      "family": "Honeycutt",
+      "given": "Todd"
+    }
+  ],
+  "authors_text": "Mann, David R.; Honeycutt, Todd",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0469-7",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0469-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0469-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0469-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

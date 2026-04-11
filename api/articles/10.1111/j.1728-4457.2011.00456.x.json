@@ -1,0 +1,25 @@
+{
+  "title": "The Impact of the HIV/AIDS Epidemic on Kinship Resources for Orphans in Zimbabwe",
+  "abstract": "The extended family has been recognized as a major safety net for orphans in sub-Saharan Africa. However, the mortality crisis associated with HIV/AIDS may drastically reduce the availability of relatives and thus undermine traditional forms of mutual support. In this article, the microsimulator SOCSIM is used to estimate and project quantities such as the number of living uncles, aunts, siblings, and grandparents available to orphans. The model is calibrated to the setting of Zimbabwe, using data from demographic and Health Surveys and estimates and projections of demographic rates from the United Nations. The article shows that there is a lag of more than ten years between the peak in orphanhood prevalence and the peak in scarcity of grandparents for orphans. The results indicate that a generalized HIV/AIDS epidemic has a prolonged impact on children and orphans that extends well beyond the peak in mortality. A rapid increase in the number of orphans is followed by a steady reduction in the number of living grandparents for orphans. Consequently, the burden of double orphans (both of whose parents have died) is likely to shift to uncles and aunts. In Zimbabwe, the number of living uncles and aunts per double orphan decreased between 1980 and 2010, but it is expected to increase progressively during the next few decades. Changes in kinship structure have important social consequences that should be taken into account when seeking to address the lack of care for orphans.",
+  "authors": [
+    {
+      "raw": "Zagheni, Emilio",
+      "family": "Zagheni",
+      "given": "Emilio"
+    }
+  ],
+  "authors_text": "Zagheni, Emilio",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2011,
+  "doi": "10.1111/j.1728-4457.2011.00456.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2011.00456.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2011.00456.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2011.00456.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

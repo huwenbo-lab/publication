@@ -1,0 +1,40 @@
+{
+  "title": "The importance of neighborhood offending networks for gun violence and firearm availability",
+  "abstract": "The salience of neighborhoods in shaping crime patterns is one of sociology's most robust areas of research. One way through which neighborhoods shape outcomes is through the creation and maintenance of social networks, patterns of interactions and relationships among neighborhood residents, organizations, groups, and institutions. This paper explores the relationship between network structures generated through acts of co-offending-when two or more individuals engage in an alleged crime together-and patterns of neighborhood gun violence and gun availability. Using arrest data from New York City, we create co-arrest networks between individuals arrested in the city between 2010 and 2015. We analyze these network patterns to, first, understand the overall structure of co-offending networks and, then, assess how they impact neighborhood levels of gun violence and gun availability. Results show that local and extra-local networks play a central role in predicting neighborhood levels of shootings: neighborhoods with a greater density of local ties have higher shootings rates, and neighborhoods that share social ties have similar rates of violence. In contrast, the network dynamics involved in gun recoveries are almost entirely local: co-offending patterns within neighborhoods are strongly associated with the level of gun recoveries, especially the clustering of co-offending networks indicative of groups. Contrary to previous research, spatial autocorrelation failed to predict either shootings or gun recoveries when demographic features were considered. Social-demographic characteristics seem to explain much of the observed spatial autocorrelation and the precise measurement of network properties might provide better measurements of the neighborhood dynamics involved in urban gun violence.",
+  "authors": [
+    {
+      "raw": "Papachristos, Andrew, V",
+      "family": "Papachristos",
+      "given": "Andrew, V"
+    },
+    {
+      "raw": "Murphy, James P.",
+      "family": "Murphy",
+      "given": "James P."
+    },
+    {
+      "raw": "Braga, Anthony",
+      "family": "Braga",
+      "given": "Anthony"
+    },
+    {
+      "raw": "Turchan, Brandon",
+      "family": "Turchan",
+      "given": "Brandon"
+    }
+  ],
+  "authors_text": "Papachristos, Andrew, V; Murphy, James P.; Braga, Anthony; Turchan, Brandon",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2024,
+  "doi": "10.1093/sf/soae099",
+  "doi_url": "https://doi.org/10.1093/sf/soae099",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae099",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae099.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

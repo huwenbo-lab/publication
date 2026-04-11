@@ -1,0 +1,25 @@
+{
+  "title": "How cultural tastes shape personal networks",
+  "abstract": "This article examines the relationship between different forms of cultural taste and the density of social contacts across alternative types of network relations classified by average tie strength. The author builds on Bourdieu ([1986] 2001) classic statement on the 'forms of capital (economic, social, and cultural) and the conversion dynamics among them, and on DiMaggio (1987) connection between cultural tastes and sociability. He hypothesizes that (1) in addition to cultural tastes being determined by network relations, cultural tastes are used to form and sustain those networks. Furthermore he expects that (2) highbrow culture taste will be less likely to be converted into social capital beyond immediate strong-tie circles due to its more restricted, asset-specific nature. Because of its generalized appeal, taste for popular culture will be more likely to be associated with weak-tie network density. The results broadly support these hypotheses: a model that specifies an effect of culture on network density provides a better fit to the data than the traditional conception of networks as determining taste. In addition using log-linear models and instrumental-variable methods, I show that popular culture consumption has a positive impact on weak-tie network density but not strong-tie network density, while highbrow culture consumption selectively increases strong-tie density but has no appreciable effect on weak ties, net of standard socioeconomic variables. These findings help to shed light on the mechanisms that translate mastery of different types of cultural knowledge into integration across distant social positions or closure around strong group boundaries. The author also discusses the implications of the results for current models describing the transformation of cultural into social resources.",
+  "authors": [
+    {
+      "raw": "Lizardo, Omar",
+      "family": "Lizardo",
+      "given": "Omar"
+    }
+  ],
+  "authors_text": "Lizardo, Omar",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1177/000312240607100504",
+  "doi_url": "https://doi.org/10.1177/000312240607100504",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240607100504",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240607100504.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

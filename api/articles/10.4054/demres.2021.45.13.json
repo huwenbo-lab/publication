@@ -1,0 +1,30 @@
+{
+  "title": "Healthy longevity from incidence-based models: More kinds of health than stars in the sky",
+  "abstract": "BACKGROUND Healthy longevity (HL) is an important measure of the prospects for quality of life in ageing societies. Incidence-based (cf. prevalence-based) models describe transitions among age classes and health stages. Despite the probabilistic nature of those transitions, anal-yses of healthy longevity have focused persistently on means (health expectancy), ne-glecting variances and higher moments. OBJECTIVE Our goal is a comprehensive methodology to analyse HL in terms of any combination of health stages and age classes, or of transitions among health stages, or of values (e.g., quality of life) associated with health stages or transitions. METHODS We construct multistate Markov chains for individuals classified by age and health stage and use Markov chains with rewards to compute all moments of HL. RESULTS We present a new and straightforward algorithm to create the multistate reward matrices for occupancy, transitions, or values associated with occupancy or transitions. As an example, we analyse a published model for colorectal cancer. The possible definitions of HL in this simple model outnumber the stars in the visible universe. Our method can analyse any of them; we show four examples: longevity without abnormal cells, cancer-free longevity, and longevity with cancer before or after a critical age. CONTRIBUTION Our methods make it possible to analyse any incidence-based model, with any number of health stages, any pattern of transitions, and any kind of values assigned to stages. It is easily computable, requires no simulations, provides all the moments of healthy longevity, and solves the inhomogeneity problem.",
+  "authors": [
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    },
+    {
+      "raw": "van Daalen, Silke",
+      "family": "van Daalen",
+      "given": "Silke"
+    }
+  ],
+  "authors_text": "Caswell, Hal; van Daalen, Silke",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.13",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

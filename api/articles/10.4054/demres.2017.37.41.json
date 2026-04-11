@@ -1,0 +1,35 @@
+{
+  "title": "Mortality selection among adults in Brazil: The survival advantage of Air Force officers",
+  "abstract": "BACKGROUND The impact of extreme conditions on survival has been the focus of mortality studies using military data. However, in countries at peace, the military live in favorable conditions, being positively selected with respect to health. In this type of context, military data may help to improve our understanding of mortality differentials, particularly in countries where defective vital systems are still cumbersome for mortality studies. METHODS We estimate death rates for Brazilian Air Force (BAF) officers through Poisson regression models, compute life expectancies, and compare them with those of average Brazilians and people in low-mortality countries. We also examine causes of death and mortality differentials through a competing risks framework and Fine and Gray regression models. RESULTS BAF life expectancy is higher than that of the average Brazilian and comparable to Sweden, France, and Japan in 2000. Younger pilots have a higher risk of dying on duty when compared with other officers but experience lower mortality rates from other causes at advanced ages. CONCLUSION BAF officers are a population subgroup in Brazil with a life expectancy comparable to the one in advanced societies. There is no association between mortality and place of birth, which indicates that different childhood backgrounds did not affect BAF mortality differentials later in life. CONTRIBUTION This paper takes a novel approach focusing on a specific subgroup with lower mortality rates than the general population and good-quality longitudinal information available, a rarity in developing countries. We argue that this approach can be an interesting strategy to study mortality differentials in developing countries.",
+  "authors": [
+    {
+      "raw": "di Lego, Vanessa",
+      "family": "di Lego",
+      "given": "Vanessa"
+    },
+    {
+      "raw": "Turra, Cassio M.",
+      "family": "Turra",
+      "given": "Cassio M."
+    },
+    {
+      "raw": "Cesar, Cibele",
+      "family": "Cesar",
+      "given": "Cibele"
+    }
+  ],
+  "authors_text": "di Lego, Vanessa; Turra, Cassio M.; Cesar, Cibele",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.41",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.41",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.41",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.41.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "What Makes a Desirable Spouse in China? New Evidence From a National Survey Experiment",
+  "abstract": "ObjectiveThis study examines unmarried Chinese people's preferred characteristics of a spouse and how the preferences vary by gender and across socioeconomic groups.BackgroundExtensive research has attempted to uncover mate selection preferences, a crucial factor shaping who marries whom. Predominantly analyzing observational data, however, existing research provides only indirect inferences about individuals' mate preferences independent of structural opportunities in the marriage market.MethodThis study employs a novel survey experiment, fielded in the 2021 Chinese General Social Survey, to directly examine unmarried individuals' mate selection preferences in China. We estimate conditional logit models to assess the relative importance of six characteristics in shaping hypothetical marriage candidates' desirability: income, property ownership, education, rural/urban origin, age, and appearance.ResultsBoth unmarried men and women prefer to marry a similarly-aged urban-origin property owner with a high income, good education, and attractive appearance, suggesting a gender convergence of mate preferences. Individuals' mate selection preferences also vary with their ascribed (rural/urban origin) and achieved (education) socioeconomic status, and mate selection standards are more relaxed among those over the mean marriage ages for their sex in China.ConclusionOur study highlights the importance of directly examining mate preferences in clarifying the mechanisms of marital sorting and the value of survey experiments in family research.",
+  "authors": [
+    {
+      "raw": "Yu, Jia",
+      "family": "Yu",
+      "given": "Jia"
+    },
+    {
+      "raw": "Qian, Yue",
+      "family": "Qian",
+      "given": "Yue"
+    },
+    {
+      "raw": "Hu, Yang",
+      "family": "Hu",
+      "given": "Yang"
+    },
+    {
+      "raw": "Zhou, Yang",
+      "family": "Zhou",
+      "given": "Yang"
+    },
+    {
+      "raw": "Xie, Yu",
+      "family": "Xie",
+      "given": "Yu"
+    }
+  ],
+  "authors_text": "Yu, Jia; Qian, Yue; Hu, Yang; Zhou, Yang; Xie, Yu",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.70013",
+  "doi_url": "https://doi.org/10.1111/jomf.70013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.70013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.70013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

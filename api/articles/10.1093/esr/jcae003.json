@@ -1,0 +1,30 @@
+{
+  "title": "Welfare state policy and educational inequality: a cross-national multicohort study",
+  "abstract": "Proponents of welfare policy have argued that publicly funded early childhood education and care (ECEC), paid parental leave, and family benefits spending can weaken the influence of social background on educational outcomes by providing a supplementary source of early investment that particularly benefits disadvantaged families. We analyze whether the welfare state context in which children spend their early childhood (ages 0-5) moderates the association between parental educational attainment and the child's educational achievement at age 10. We combine data from two large-scale international student assessments with data about welfare state policies. Results from multilevel models show that countries with higher public ECEC spending and higher family benefits spending exhibited a weaker association between parental education and student math achievement. Countries with longer parental leave exhibited a stronger association between parental education and student math, science, and reading achievement. Findings provide evidence of the mixed role of welfare state policies for social inequality in student achievement.",
+  "authors": [
+    {
+      "raw": "Schoenholzer, Kevin",
+      "family": "Schoenholzer",
+      "given": "Kevin"
+    },
+    {
+      "raw": "Burger, Kaspar",
+      "family": "Burger",
+      "given": "Kaspar"
+    }
+  ],
+  "authors_text": "Schoenholzer, Kevin; Burger, Kaspar",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcae003",
+  "doi_url": "https://doi.org/10.1093/esr/jcae003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Local Employment Conditions and Unintended Pregnancy",
+  "abstract": "Objective This study examined the relationship between local employment conditions and unintended pregnancy. Background Economic conditions shape the decisions that Americans make about their families, such as whether and when to have children. Women have fewer children during economic downturns, but it is unclear how the economy is related to another dimension of fertility: unintended pregnancy. This is an important avenue of research because unintended pregnancy is related to population health and social inequality. Method This study analyzed a unique restricted data set that combined data from a nationally representative sample of women aged 20 to 44 years from the National Survey of Family Growth (2002, 2006-2010, and 2011-2013), with employment data from the U.S. Census and the American Community Survey (n = 13,702). It employed multinomial logistic regressions to estimate the odds that respondents had an unintended pregnancy as a function of local employment conditions in their Core Based Statistical Area. Results Higher unemployment rates were associated with lower odds of unintended pregnancy overall (including both mistimed and unwanted) relative to no pregnancy, adjusting for observable and unobservable characteristics. Women were less likely to have unwanted pregnancies in particular. This relationship was evident among women with both high and low levels of education, although those with the lowest education had the steepest declines. Conclusion Local employment conditions are an important context for fertility and are related to women's pregnancy intentions.",
+  "authors": [
+    {
+      "raw": "Su, Jessica Houston",
+      "family": "Su",
+      "given": "Jessica Houston"
+    }
+  ],
+  "authors_text": "Su, Jessica Houston",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2019,
+  "doi": "10.1111/jomf.12546",
+  "doi_url": "https://doi.org/10.1111/jomf.12546",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12546",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12546.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

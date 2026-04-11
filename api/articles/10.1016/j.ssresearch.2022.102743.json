@@ -1,0 +1,25 @@
+{
+  "title": "Do sanctuary policies increase crime? Contrary evidence from a county-level investigation in the United States",
+  "abstract": "Immigration and Customs Enforcement (ICE) has rolled out a series of programs that leverage local and state resources to detain and deport undocumented immigrants. There is little understanding, however, about the public safety consequences of mobilizing local police to enforce immigration law. I use ICE administrative records, Uniform Crime Reports, and American Community Survey population estimates to investigate whether and under what circumstances local immigration enforcement is associated with property crime and violent crime. Results show that crime trends in sanctuary and non-sanctuary counties were not significantly different in the first decade of the 2000s. However, after the proliferation of sanctuary practices around 2014, both property crime and violent crime decreased more in sanctuary counties than non-sanctuary counties, net of other predictors of crime. Further, a pooled cross-sectional analysis of 2013-2016 data shows that sanctuary practices strengthen the inverse relationship between proportion foreign-born Latino and property crime, and reverse the positive relationship between proportion native-born Latino and property crime. I theorize that this occurs because sanctuary practices encourage immigrant political integration, have positive spillover effects to nonimmigrant Latinx communities, and increase social harmony.",
+  "authors": [
+    {
+      "raw": "Ascherio, Marta",
+      "family": "Ascherio",
+      "given": "Marta"
+    }
+  ],
+  "authors_text": "Ascherio, Marta",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2022.102743",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102743",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102743",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102743.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

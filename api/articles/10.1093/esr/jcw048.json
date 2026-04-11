@@ -1,0 +1,35 @@
+{
+  "title": "Heterogeneity in Crowding-out: When Are Charitable Donations Responsive to Government Support?",
+  "abstract": "When are donations to non-profit organizations responsive to changes in government funding? This article examines relations between government financial support and charitable donations in an innovative mixed-methods design. A unique data set is obtained, matching individual-level survey data from the Giving in the Netherlands Panel Survey with media coverage of government support from LexisNexis and organizational-level information from the Dutch Central Bureau on Fundraising from 2002 to 2014. An interpretative analysis shows the ways in which people are informed about changes in public funding, which is assumed to be a prerequisite for donors to change their donations. Media coverage often does not reflect actual changes in government support. Additionally, regression analyses are deployed to examine how changes in government support and media reports are associated with changes in donations. The results show that responses to public funding are dependent on the non-profit context. Donations in the fields of social services, health, and nature are displaced by government support, while crowding-out does not occur in the field of international development. Even in fields where crowding-out is more likely to occur, the increase in donations does not offset the decrease in public support. The conclusions nuance popular beliefs about the direct consequences that policy changes have for public awareness and participation.",
+  "authors": [
+    {
+      "raw": "De Wit, Arjen",
+      "family": "De Wit",
+      "given": "Arjen"
+    },
+    {
+      "raw": "Bekkers, Rene",
+      "family": "Bekkers",
+      "given": "Rene"
+    },
+    {
+      "raw": "van Groenou, Marjolein Broese",
+      "family": "van Groenou",
+      "given": "Marjolein Broese"
+    }
+  ],
+  "authors_text": "De Wit, Arjen; Bekkers, Rene; van Groenou, Marjolein Broese",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcw048",
+  "doi_url": "https://doi.org/10.1093/esr/jcw048",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcw048",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcw048.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

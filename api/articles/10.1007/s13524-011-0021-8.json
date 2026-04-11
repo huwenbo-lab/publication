@@ -1,0 +1,35 @@
+{
+  "title": "Being Born Under Adverse Economic Conditions Leads to a Higher Cardiovascular Mortality Rate Later in Life: Evidence Based on Individuals Born at Different Stages of the Business Cycle",
+  "abstract": "Abstract We connect the recent medical and economic literatures on the long-run effects of early-life conditions by analyzing the effects of economic conditions on the individual cardiovascular (CV) mortality rate later in life, using individual data records from the Danish Twin Registry covering births since the 1870s and including the cause of death. To capture exogenous variation of conditions early in life, we use the state of the business cycle around birth. We find significant negative effects of economic conditions around birth on the individual CV mortality rate at higher ages. There is no effect on the cancer-specific mortality rate. From variation within and between monozygotic and dizygotic twin pairs born under different conditions, we conclude that the fate of an individual is more strongly determined by genetic and household-environmental factors if early-life conditions are poor. Individual-specific qualities come more to fruition if the starting position in life is better.",
+  "authors": [
+    {
+      "raw": "van den Berg, Gerard J.",
+      "family": "van den Berg",
+      "given": "Gerard J."
+    },
+    {
+      "raw": "Doblhammer-Reiter, Gabriele",
+      "family": "Doblhammer-Reiter",
+      "given": "Gabriele"
+    },
+    {
+      "raw": "Christensen, Kaare",
+      "family": "Christensen",
+      "given": "Kaare"
+    }
+  ],
+  "authors_text": "van den Berg, Gerard J.; Doblhammer-Reiter, Gabriele; Christensen, Kaare",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0021-8",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0021-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0021-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0021-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

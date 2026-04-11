@@ -1,0 +1,50 @@
+{
+  "title": "Book Reviews",
+  "abstract": "",
+  "authors": [
+    {
+      "raw": "ESTES, SARAH BETH",
+      "family": "ESTES",
+      "given": "SARAH BETH"
+    },
+    {
+      "raw": "FAROUGH, STEVEN D.",
+      "family": "FAROUGH",
+      "given": "STEVEN D."
+    },
+    {
+      "raw": "TAYLOR, JUDITH",
+      "family": "TAYLOR",
+      "given": "JUDITH"
+    },
+    {
+      "raw": "INMAN, KATHERINE",
+      "family": "INMAN",
+      "given": "KATHERINE"
+    },
+    {
+      "raw": "ROOS, PATRICIA A.",
+      "family": "ROOS",
+      "given": "PATRICIA A."
+    },
+    {
+      "raw": "CHARLTON, JOY",
+      "family": "CHARLTON",
+      "given": "JOY"
+    }
+  ],
+  "authors_text": "ESTES, SARAH BETH; FAROUGH, STEVEN D.; TAYLOR, JUDITH; INMAN, KATHERINE; ROOS, PATRICIA A.; CHARLTON, JOY",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2002,
+  "doi": "10.1177/0891243202016004009",
+  "doi_url": "https://doi.org/10.1177/0891243202016004009",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0891243202016004009",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0891243202016004009.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

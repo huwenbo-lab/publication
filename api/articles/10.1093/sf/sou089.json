@@ -1,0 +1,25 @@
+{
+  "title": "Cancer and the Plow",
+  "abstract": "Past research has shown that the invention of the plow played a key role in human social evolution. The physical strength required to drive a plow gave men a comparative advantage in economically productive activity; this created gender norms that have persisted to the present day. However, there is an additional channel through which the invention of the plow could have influenced modern human societies: the creation of an economic environment favoring not only the sexual division of labor but also the selection of men with more upper-body strength. In this case, modern populations descended from plow-using communities should exhibit greater sexual dimorphism than others, and greater dimorphism should be associated with higher androgen levels in males. This has a direct epidemiological implication, because the incidence of many cancers is correlated with androgen levels. Using international data on cancer incidence, we show that there is a strong association between the magnitude of sex differences in cancer risk and the proportion of the population descended from plow-using communities. Although both of these characteristics are correlated with other socio-economic factors (such as the level of economic development), controlling for such correlations does not diminish estimates of the magnitude of the association between cancer risk and plow ancestry. In addition to their implications for cancer epidemiology, the results suggest that the international variation in gender norms might also be associated with variation in androgen levels.",
+  "authors": [
+    {
+      "raw": "Fielding, David",
+      "family": "Fielding",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Fielding, David",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sou089",
+  "doi_url": "https://doi.org/10.1093/sf/sou089",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou089",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou089.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

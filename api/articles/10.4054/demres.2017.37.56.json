@@ -1,0 +1,35 @@
+{
+  "title": "The wage penalty for motherhood: Evidence on discrimination from panel data and a survey experiment for Switzerland",
+  "abstract": "BACKGROUND Survey-based research finds a sizeable unexplained wage gap between mothers and nonmothers in affluent countries. The source of this wage gap is unclear: It can stem either from the unobserved effects of motherhood on productivity or from employer discrimination against mothers. OBJECTIVE This paper opens the black box of the motherhood wage gap by directly measuring discrimination in Switzerland based on two complementary methods. METHODS We first use two longitudinal population surveys to establish the size of the wage residual for motherhood. We then run a factorial survey experiment among HR managers (N=714) whom we asked to assign a starting wage to the resumes of fictitious job candidates. RESULTS The population surveys show an unexplained wage penalty per child of 4% to 8%. The factorial survey experiment shows that recruiters assign wages to mothers that are 2% to 3% below those of nonmothers. The wage penalty is larger for younger mothers, 6% for ages 40 and less, but disappears for older mothers or mothers in a blue-collar occupation. CONCLUSION The motherhood wage gap found in panel studies cannot be reduced to unobserved dimensions of work productivity. The experimental evidence shows that recruiters discriminate against mothers.",
+  "authors": [
+    {
+      "raw": "Oesch, Daniel",
+      "family": "Oesch",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Lipps, Oliver",
+      "family": "Lipps",
+      "given": "Oliver"
+    },
+    {
+      "raw": "McDonald, Patrick",
+      "family": "McDonald",
+      "given": "Patrick"
+    }
+  ],
+  "authors_text": "Oesch, Daniel; Lipps, Oliver; McDonald, Patrick",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.56",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.56",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.56",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.56.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

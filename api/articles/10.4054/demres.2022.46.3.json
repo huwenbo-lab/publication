@@ -1,0 +1,35 @@
+{
+  "title": "Parental education, divorce, and children's educational attainment: Evidence from a comparative analysis",
+  "abstract": "BACKGROUND Children who experience parental divorce have worse long-term educational attainment than children living in intact families. Less clear is the extent to which heterogeneity in the divorce penalty depends on parents' socioeconomic background and contextual characteristics. OBJECTIVE This study focuses on the negative consequences of parental divorce for children's tertiary education attainment, their heterogeneity by parental socioeconomic background, and variation across time and space. METHOD Single-level and multi-level linear probability models are estimated on several data sources in a comparative analysis of European countries and US regions. Different operationalizations of parental divorce are employed, including both marital and non-marital dissolutions. RESULTS Results show a stronger negative association between parental divorce and the probability of obtaining a university degree for children of highly educated parents. This holds across different birth cohorts in both Europe and the United States, largely irrespective of the country or region of residence, the dataset, and the operationalization of divorce and parental education. Higher divorce and university enrollment rates increase the absolute size of the divorce penalty, but do not substantially alter its pattern of heterogeneity.",
+  "authors": [
+    {
+      "raw": "Guetto, Raffaele",
+      "family": "Guetto",
+      "given": "Raffaele"
+    },
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    },
+    {
+      "raw": "Zanasi, Francesca",
+      "family": "Zanasi",
+      "given": "Francesca"
+    }
+  ],
+  "authors_text": "Guetto, Raffaele; Bernardi, Fabrizio; Zanasi, Francesca",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.46.3",
+  "doi_url": "https://doi.org/10.4054/demres.2022.46.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.46.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.46.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

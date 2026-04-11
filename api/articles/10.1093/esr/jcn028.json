@@ -1,0 +1,35 @@
+{
+  "title": "The Effects of Immigrant Population Size, Unemployment, and Individual Characteristics on Voting for the Vlaams Blok in Flanders 1991-1999",
+  "abstract": "This study examines the effects of contextual characteristics on exclusionary reactions. Extending explanations of anti-immigrant attitudes from group threat theory to the prediction of contextual variation in voting behaviour, we expect more voting for the anti-immigrant party Vlaams Blok with increasing immigrant population size and unemployment. We test the effects of these contextual factors, as well as individual characteristics and cross-level interactions, over time (1991–1995–1999), using multilevel analysis (i.e. binary logistic regression for three-level repeated measurement data). To this end, we used panel data that consist of pooled individual records across repeated General Election Surveys1 in Flanders in 1991, 1995, and 1999 (N = 3,748 respondents) to which we added time-variant contextual data in 175 municipalities. As expected, immigrant population size increases people's likelihood to vote for the Vlaams Blok and this effect is curvilinear. The level of unemployment, however, does not explain the contextual variation in Vlaams Blok voting. At the individual level, people with lower occupational status and unemployed people are more likely to vote for the Vlaams Blok. In addition, a significant cross-level interaction indicates that the effect of immigrant population size on the support for the Vlaams Blok is significantly reduced among people with higher levels of education. Finally, the non-linear and conditional effects of immigrant population size are fully replicated over time.",
+  "authors": [
+    {
+      "raw": "Rink, N.",
+      "family": "Rink",
+      "given": "N."
+    },
+    {
+      "raw": "Phalet, K.",
+      "family": "Phalet",
+      "given": "K."
+    },
+    {
+      "raw": "Swyngedouw, M.",
+      "family": "Swyngedouw",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Rink, N.; Phalet, K.; Swyngedouw, M.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1093/esr/jcn028",
+  "doi_url": "https://doi.org/10.1093/esr/jcn028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

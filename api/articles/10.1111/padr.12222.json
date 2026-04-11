@@ -1,0 +1,55 @@
+{
+  "title": "Integrating Environmental Context into DHS Analysis While Protecting Participant Confidentiality: A New Remote Sensing Method",
+  "abstract": "Understanding the ways that people live given certain environmental conditions is of central concern to researchers in health, development, population, climate change, and other related fields (see Grace et al. 2014; Balk et al. 2005; de Sherbinin 2011). One major source of data on health and development is the USAID‐funded Demographic and Health Surveys (DHS) program. DHS is a major source of population and health data for the poorest countries in the world and provides high‐quality and detailed data on individual health outcomes—particularly outcomes related to maternal and child health. The primary sampling unit in the DHS are villages or village “clusters.” Cluster size can vary but contains a number of households within a geographic area who participated in the survey. Since many of the data included in DHS are personal and potentially sensitive, the DHS maintains confidentiality of the respondents by shifting the spatial coordinates of the cluster in the published data (Burgert et al. 2013). The spatial coordinates for rural locations are displaced by 0–5 km in any direction. Additionally, a small fraction of coordinates, 1 percent, are randomly shifted up to 10 km. For urban locations, the displacement is up to 2 km only. DHS recommends that researchers average any environmental data over a 5–10 km buffer around each DHS rural cluster with the specific community falling somewhere within the disc around each point (Perez‐Heydrich et al. 2016). This approach to maintaining confidentiality while collecting survey information has been adopted by other international organizations as well (e.g., World Bank's Living Standards Measurement Study). Building on the rapid growth of literature around activity space, the geographic theory of close things being more alike (Tobler's First Law), as well as the understanding that people interact disproportionately with the landscape immediately surrounding a settlement, we propose an alternative method for evaluating environmental and contextual variables (Tobler 1970; Miller, 2004). Instead of calculating a 5–10 km buffer around each published point, we propose that the user selects a settlement near the DHS’ published cluster location and measures the environmental conditions around the settlement using a buffer much smaller than 10 km. We assume that the “true” context is a small, precise buffer around the correct settlement. We hypothesize that a small, precise buffer around an incorrect settlement is a better measure of truth than is an overly large buffer around the published point. Settlements can be identified through interpreting remotely sensed imagery. Corresponding features—for example, types of land‐use strategies or adjacency to reservoirs for irrigation—can be more easily identified and evaluated when using a much more precise buffer. While the settlement that is being used to provide this contextual information is likely not the original DHS cluster, it is a neighbor of the cluster and we assume that neighboring settlements are more similar to each other than to the broader environment in which they are situated. We theorize that this approach will introduce less measurement error than the larger 10 km buffer. To test this theory, we select three countries that are topographically diverse and that represent unique regions of the world—Burkina Faso, Kenya, and Tajikistan. As with most of the poorest countries in the world, these countries are heavily dependent on the landscape to produce food and earn money. However, each of these countries is quite distinct from the others in terms of environmental characteristics (rainfall and topography) and cultural characteristics (the types of crops produced as well as the farming strategies used to produce the crops). We select these countries to develop a thorough understanding of how our methodology will function under different settings. We evaluate a remotely‐sensed estimate of cultivated area and vegetation features of the DHS clusters using the 5–10 km buffer approach and our proposed neighboring settlement approach. We compare these to the true values through the use of the actual, confidential, locations of settlements in the DHS sample.",
+  "authors": [
+    {
+      "raw": "Grace, Kathryn",
+      "family": "Grace",
+      "given": "Kathryn"
+    },
+    {
+      "raw": "Nagle, Nicholas N.",
+      "family": "Nagle",
+      "given": "Nicholas N."
+    },
+    {
+      "raw": "Burgert-Brucker, Clara R.",
+      "family": "Burgert-Brucker",
+      "given": "Clara R."
+    },
+    {
+      "raw": "Rutzick, Shelby",
+      "family": "Rutzick",
+      "given": "Shelby"
+    },
+    {
+      "raw": "Van Riper, David C.",
+      "family": "Van Riper",
+      "given": "David C."
+    },
+    {
+      "raw": "Dontamsetti, Trinadh",
+      "family": "Dontamsetti",
+      "given": "Trinadh"
+    },
+    {
+      "raw": "Croft, Trevor",
+      "family": "Croft",
+      "given": "Trevor"
+    }
+  ],
+  "authors_text": "Grace, Kathryn; Nagle, Nicholas N.; Burgert-Brucker, Clara R.; Rutzick, Shelby; Van Riper, David C.; Dontamsetti, Trinadh; Croft, Trevor",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2019,
+  "doi": "10.1111/padr.12222",
+  "doi_url": "https://doi.org/10.1111/padr.12222",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12222",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12222.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

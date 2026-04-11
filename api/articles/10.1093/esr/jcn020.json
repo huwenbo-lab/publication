@@ -1,0 +1,40 @@
+{
+  "title": "Values and Support for Immigration: A Cross-Country Comparison",
+  "abstract": "In this article, we estimate and compare the effects of two value dimensions taken from the theory of basic human values-namely, self-transcendence and conservation-on attitudes toward immigration in 19 countries. Data from the first wave (2002-03) of the European Social Survey (ESS) is utilized for the analyses. This cross-national survey measures basic human values with a new 21-item instrument. Attitudes toward immigration are operationalized using two dimensions: willingness to allow immigrants into the country and rejection of conditions to allow them. Effects of the value dimensions on immigration attitudes are compared across 19 nations using multiple-group multiple-indicators structural equation modelling (MGSEM). We hypothesize that these effects are equal across countries. The critical statistical legitimacy for comparing these effects across countries is discussed in detail, and partial measurement invariance is evidenced. The MGSEM provides strong support for our hypotheses in 17 countries: self-transcendence displays a positive effect on support for immigration, and conservation a negative effect. This result is robust also after accounting for several individual and contextual variables. Effects are found to differ a little across countries. It is shown that clusters of countries with equal effect sizes can be distinguished, and possible explanations for effect size differences are discussed.",
+  "authors": [
+    {
+      "raw": "Davidov, E.",
+      "family": "Davidov",
+      "given": "E."
+    },
+    {
+      "raw": "Meuleman, B.",
+      "family": "Meuleman",
+      "given": "B."
+    },
+    {
+      "raw": "Billiet, J.",
+      "family": "Billiet",
+      "given": "J."
+    },
+    {
+      "raw": "Schmidt, P.",
+      "family": "Schmidt",
+      "given": "P."
+    }
+  ],
+  "authors_text": "Davidov, E.; Meuleman, B.; Billiet, J.; Schmidt, P.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1093/esr/jcn020",
+  "doi_url": "https://doi.org/10.1093/esr/jcn020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

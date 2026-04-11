@@ -1,0 +1,25 @@
+{
+  "title": "Estimating Mortality Differences in Developed Countries From Survey Information on Maternal and Paternal Orphanhood",
+  "abstract": "AbstractIn general, the use of indirect methods is limited to developing countries. Developed countries are usually assumed to have no need to apply such methods because detailed demographic data exist. However, the potentialities of demographic analysis with direct methods are limited to the characteristics of available macro data on births, deaths, and migration. For instance, in many Western countries, official population statistics do not permit the estimation of mortality by socioeconomic status (SES) or migration background, or for estimating the relationship between parity and mortality. In order to overcome these shortcomings, I modify and extend the so-called orphanhood method for indirect estimation of adult mortality from survey information on maternal and paternal survival to allow its application to populations of developed countries. The method is demonstrated and tested with data from two independent Italian cross-sectional surveys by estimating overall and SES-specific life expectancy. The empirical applications reveal that the proposed method can be used successfully for estimating levels and trends of mortality differences in developed countries and thus offers new prospects for the analysis of mortality.",
+  "authors": [
+    {
+      "raw": "Luy, Marc",
+      "family": "Luy",
+      "given": "Marc"
+    }
+  ],
+  "authors_text": "Luy, Marc",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0101-4",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0101-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0101-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0101-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

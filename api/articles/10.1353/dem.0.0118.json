@@ -1,0 +1,30 @@
+{
+  "title": "Gender scripts and age at marriage in India",
+  "abstract": "AbstractResearch on marriage in developing countries has been somewhat narrow in scope because of both conceptual and data limitations. While the feminist literature recognizes marriage as a key institutional site for the production and reproduction of gender hierarchies, little is known about the processes through which this relationship operates. This article uses data from the newly collected India Human Development Survey 2005 for 27,365 ever-married women aged 25–49 to explore ways in which different dimensions of gender in Indian society shape the decisions regarding age at marriage. We explore the impact of three dimensions of gender: (1) economic factors, such as availability of wage employment, dowry expectations, and wedding expenses; (2) indicators of familial empowerment, such as women’s role in household decision making and access to and control over resources; and (3) markers of gender performance, such as observance of purdah and male-female separation in the household. Results from hierarchical linear models confirm the importance of markers of gender performance but fail to demonstrate a large role for economic factors and familial empowerment.",
+  "authors": [
+    {
+      "raw": "Desai, Sonalde",
+      "family": "Desai",
+      "given": "Sonalde"
+    },
+    {
+      "raw": "Andrist, Lester",
+      "family": "Andrist",
+      "given": "Lester"
+    }
+  ],
+  "authors_text": "Desai, Sonalde; Andrist, Lester",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0118",
+  "doi_url": "https://doi.org/10.1353/dem.0.0118",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0118",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0118.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "On the Relationship between Telework and Health in Germany: Causal or Selection Effects?",
+  "abstract": "Teleworking has become a popular work arrangement in many developed countries. Although there are heated public debates over the benefits of teleworking, empirical evidence on the causal relationship between teleworking and health is still rare. Using panel data from the German BAuA Working Time Survey (2015, 2017, and 2019), the authors investigated the effects of teleworking on health and well-being. The authors applied an innovative research design to underscore different sources of selection. Overall, no concrete evidence was found for the positive effect of teleworking on workers’ self-reported health, quality of sleep, and psychosomatic conditions. The ostensible better health outcomes among teleworkers could be partially explained by the positive selection on both prior levels and prior trajectories of health into teleworking. Moreover, the health impacts of telework were contingent on workers’ gender and parenthood status and the intensity of teleworking. These findings indicate that the positive association between teleworking and health appears to reflect selection bias rather than a causal relationship in Germany before the COVID-19 pandemic.",
+  "authors": [
+    {
+      "raw": "Hsu, Chen-Hao",
+      "family": "Hsu",
+      "given": "Chen-Hao"
+    },
+    {
+      "raw": "Engelhardt, Henriette",
+      "family": "Engelhardt",
+      "given": "Henriette"
+    }
+  ],
+  "authors_text": "Hsu, Chen-Hao; Engelhardt, Henriette",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2024,
+  "doi": "10.1177/23780231241245227",
+  "doi_url": "https://doi.org/10.1177/23780231241245227",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231241245227",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231241245227.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

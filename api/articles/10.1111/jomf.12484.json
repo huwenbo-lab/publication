@@ -1,0 +1,35 @@
+{
+  "title": "Divorce Chinese Style",
+  "abstract": "This study investigated divorce during China's social and economic transformation period from 1970 to 2012. Specifically, the study examined the trend development of divorce and demonstrated how marriage formation type and individual socioeconomic characteristics were associated with the likelihood of divorce across time. Event-history analysis was applied to longitudinal data from the China Family Panel Studies (2010-2012 waves). The results showed a threefold increase in divorce from the pre-1990s to the 1990s. Surprisingly, the trend shifted to a plateau toward the 2000s. When cohabitation was in its rapidly diffusing stage in the 1990s, individuals who cohabited prior to marriage had a substantially higher likelihood of divorce. As cohabitation became increasingly common in the 2000s, its effect on divorce weakened. The role of socioeconomic characteristics in divorce also varied across time. This study enriches the knowledge of family dynamics in contemporary Chinese society.",
+  "authors": [
+    {
+      "raw": "Ma, Li",
+      "family": "Ma",
+      "given": "Li"
+    },
+    {
+      "raw": "Turunen, Jani",
+      "family": "Turunen",
+      "given": "Jani"
+    },
+    {
+      "raw": "Rizzi, Ester",
+      "family": "Rizzi",
+      "given": "Ester"
+    }
+  ],
+  "authors_text": "Ma, Li; Turunen, Jani; Rizzi, Ester",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2018,
+  "doi": "10.1111/jomf.12484",
+  "doi_url": "https://doi.org/10.1111/jomf.12484",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12484",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12484.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "From Child to Parent? The Significance of Children’s Education for Their Parents’ Longevity",
+  "abstract": "AbstractIn addition to own education and other socioeconomic resources, the education of one’s children may be important for individual health and longevity. Mothers and fathers born between 1932 and 1941 were analyzed by linking them to their children in the Swedish Multi-generation Register, which covers the total population. Controlling for parents’ education, social class, and income attenuates but does not remove the association between children’s education and parents’ mortality risk. Shared but unmeasured familial background characteristics were addressed by comparing siblings in the parental generation. In these fixed-effects analyses, comparing parents whose children had tertiary education with parents whose children completed only compulsory schooling (the reference group) yields a hazard ratio of 0.79 (95 % CI: 0.70–0.89) when the socioeconomic position of both parents is controlled for. The relationship is certainly not purely causal, but part of it could be if, for example, well-educated adult children use their resources to find the best available health care for their aging parents. I therefore introduce the concept of “social foreground” and suggest that children’s socioeconomic resources may be an important factor in trying to further understand social inequalities in health.",
+  "authors": [
+    {
+      "raw": "Torssander, Jenny",
+      "family": "Torssander",
+      "given": "Jenny"
+    }
+  ],
+  "authors_text": "Torssander, Jenny",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2012,
+  "doi": "10.1007/s13524-012-0155-3",
+  "doi_url": "https://doi.org/10.1007/s13524-012-0155-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-012-0155-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-012-0155-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

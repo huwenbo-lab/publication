@@ -1,0 +1,25 @@
+{
+  "title": "Voluntary Associations and Net Fertility During the Swedish Demographic Transition",
+  "abstract": "This study investigates the role of changing social relations for fertility decline during the European fertility transition. The growth of voluntary associations at the end of the nineteenth century entailed a radical shift in the landscape of social relations in Sweden. By combining micro-census data from 1890 to 1900 with local-level membership data for three voluntary association groups, this article assesses the effect of parish-level voluntary association size on net fertility in Sweden using mixed-effects Poisson regression models. The results show that the adoption of fertility limitation during the transition period was associated with the creation and diffusion of the idea of respectability within large social network organisations, an idea that has previously been shown to be connected to fertility limitation. Furthermore, by applying a social network perspective, the results show that the strength of the effect was dependent on the structure of the social networks in terms of size, density, and homogeneity. Voluntary association size had the strongest effect for the free churches, which created dense heterogeneous networks through systems of social control, while the size of the temperance association showed no effect on fertility because the connections between nodes were sparse.",
+  "authors": [
+    {
+      "raw": "Junkka, Johan",
+      "family": "Junkka",
+      "given": "Johan"
+    }
+  ],
+  "authors_text": "Junkka, Johan",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2018,
+  "doi": "10.1007/s10680-018-9465-5",
+  "doi_url": "https://doi.org/10.1007/s10680-018-9465-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-018-9465-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-018-9465-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

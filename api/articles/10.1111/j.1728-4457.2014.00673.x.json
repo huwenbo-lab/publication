@@ -1,0 +1,35 @@
+{
+  "title": "Effects of Parents' Migration on the Education of Children Left Behind in Rural China",
+  "abstract": "This essay draws on an original cross-sectional survey of 1,010 children and their guardians in highly migratory regions of Anhui and Jiangxi provinces located in China's interior. It uses propensity score matching, a technique that mitigates endogenity, to examine the impact of parental migration and post-migration guardianship arrangements on the children's educational performance as measured by test scores for Chinese and mathematics. One core finding is that the educational performance of children is adversely affected by parental migration only when both parents migrate or when a non-parent guardian is the principal carer. Additionally, longer durations of parental absence are associated with poorer educational performance. The migration of two parents only significantly adversely affects the educational performance of boys. There is no significant effect on the educational performance of girls. On the basis of our findings we argue that rather than support left-behind children within the countryside, the long-term policy response should be to remove the institutional obstacles that prevent family resettlement in the cities.",
+  "authors": [
+    {
+      "raw": "Zhou, Minhui",
+      "family": "Zhou",
+      "given": "Minhui"
+    },
+    {
+      "raw": "Murphy, Rachel",
+      "family": "Murphy",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Tao, Ran",
+      "family": "Tao",
+      "given": "Ran"
+    }
+  ],
+  "authors_text": "Zhou, Minhui; Murphy, Rachel; Tao, Ran",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2014,
+  "doi": "10.1111/j.1728-4457.2014.00673.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2014.00673.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2014.00673.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2014.00673.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Determinants and Effects of Training at Work: Bringing the Workplace Back in",
+  "abstract": "This article brings together two research fields: work-related training and high-performance work practices (HPWP). We estimate models of both the determinants and the impact of training. Our models of the determinants of training confirm previous research: age, education, contract, tenure, and firm size all influence training. Several components of HPWP are associated with a higher probability of training, specifically general (non-firm-specific) training. Participation in general training is associated with higher earnings, as is involvement in highly participative and consultative working arrangements, and performance reward systems. These patterns of training and returns to training are broadly consistent with HPWP approaches and represent a challenge to human capital theory. We used propensity score matching techniques and Rosenbaum bounds to test for selection in our models of both training and wages.",
+  "authors": [
+    {
+      "raw": "O'Connell, P. J.",
+      "family": "O'Connell",
+      "given": "P. J."
+    },
+    {
+      "raw": "Byrne, D.",
+      "family": "Byrne",
+      "given": "D."
+    }
+  ],
+  "authors_text": "O'Connell, P. J.; Byrne, D.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1093/esr/jcq063",
+  "doi_url": "https://doi.org/10.1093/esr/jcq063",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcq063",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcq063.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

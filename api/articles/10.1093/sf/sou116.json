@@ -1,0 +1,25 @@
+{
+  "title": "Social Policy and Perceived Immigrant Labor Market Competition in Europe: Is Prevention Better Than Cure?",
+  "abstract": "Previous research on attitudes toward immigrants has so far focused on composite outcome measures instead of dealing with more specific forms of perceived threat and prejudice. The present article approaches this gap by investigating the antecedents of the perception that immigrants take jobs away from the host-country population. This form of perceived economic competition is a fundamental feature of immigrant-native relations in many countries, and it is embedded in the institution of the labor market. Accordingly, the main interest of this study lies in the influence of two central aspects of labor market policy, employment protection legislation and unemployment benefit level. European Social Survey data are used in multilevel models that include individual-, regional-, and country-level factors. The results indicate that unemployment benefits abate perceived competition, and the impact is strong. This finding is robust against the inclusion of several other policy indicators, including integration policies, welfare regime types, and other structural factors such as unemployment rates and unionization figures. Employment protection affects perceived economic threat only indirectly by mitigating the impact of regional unemployment. Furthermore, it actually increases perceived competition for unemployed persons. These findings challenge the notion that prevention is always better than cure.",
+  "authors": [
+    {
+      "raw": "Heizmann, Boris",
+      "family": "Heizmann",
+      "given": "Boris"
+    }
+  ],
+  "authors_text": "Heizmann, Boris",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sou116",
+  "doi_url": "https://doi.org/10.1093/sf/sou116",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou116",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou116.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

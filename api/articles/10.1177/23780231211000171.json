@@ -1,0 +1,25 @@
+{
+  "title": "Visualizing the Network Structure of COVID-19 in Singapore",
+  "abstract": "Many infectious diseases such as coronavirus disease 2019 spread through preexisting social networks. Although network models consider the implications of micro-level interaction patterns for disease transmission, epidemiologists and social scientists know little about the meso-structure of disease transmission. Meso-structure refers to the pattern of disease spread at a higher level of aggregation, that is, among infection clusters corresponding to organizations, locales, and events. The authors visualizes this meso-structure using publicly available contact tracing data from Singapore. Visualization shows that one highly central infection cluster appears to have generated on the order of seven or eight infection chains, amounting to 60 percent of nonimported cases during the period considered. However, no other cluster generated more than two infection chains. This heterogeneity suggests that network meso-structure is highly consequential for epidemic dynamics.",
+  "authors": [
+    {
+      "raw": "Van Gunten, Tod",
+      "family": "Van Gunten",
+      "given": "Tod"
+    }
+  ],
+  "authors_text": "Van Gunten, Tod",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211000171",
+  "doi_url": "https://doi.org/10.1177/23780231211000171",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211000171",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211000171.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

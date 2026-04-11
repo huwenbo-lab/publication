@@ -1,0 +1,30 @@
+{
+  "title": "Spatial Inequality in Mortality in France over the Past Two Centuries",
+  "abstract": "This article analyzes the evolution of spatial inequalities in mortality across 90 French territorial units since 1806. Using a new database, we identify a period from 1881 to 1980 when inequalities rapidly shrank while life expectancy rose. This century of convergence across territories was mainly due to the fall in infant mortality. Since 1980, spatial inequalities have levelled out or occasionally widened, due mainly to differences in life expectancy among the elderly. The geography of mortality also changed radically during the century of convergence. Whereas in the 19th century high mortality occurred mainly in larger cities and along a line from North-west to South-east France, it is now concentrated in the North, and Paris and Lyon currently enjoy an urban advantage.",
+  "authors": [
+    {
+      "raw": "Bonnet, Florian",
+      "family": "Bonnet",
+      "given": "Florian"
+    },
+    {
+      "raw": "d'Albis, Hippolyte",
+      "family": "d'Albis",
+      "given": "Hippolyte"
+    }
+  ],
+  "authors_text": "Bonnet, Florian; d'Albis, Hippolyte",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2020,
+  "doi": "10.1111/padr.12318",
+  "doi_url": "https://doi.org/10.1111/padr.12318",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12318",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12318.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Toward a Standard Approach to Operationalizing Coercive Control and Classifying Violence Types",
+  "abstract": "Coercive control is central to distinguishing between Johnson's (2008) 2 main types of intimate partner violence: (a) coercive controlling violence and (b) situational couple violence. Approaches to assessing coercive control, however, have been inconsistent. Using data from 2 projects involving divorcing mothers (N = 190), the authors compared common analytic strategies for operationalizing coercive control and classifying types of violence. The results establish advantages to measuring coercive control in terms of frequency versus number of tactics, illustrate the use of both hierarchical and k-means clustering methods to identify patterns of coercive control and evaluate clustering solutions, and offer a suggested cutoff for classifying violence types in general samples of separated women using the Dominance-Isolation subscale of the widely used Psychological Maltreatment of Women Inventory (Tolman, 1992). Finally, the authors demonstrate associations between types of violence and theoretically relevant variables, including frequency and severity of violence, harassment and violence after separation, fear, and perceived threat.",
+  "authors": [
+    {
+      "raw": "Hardesty, Jennifer L.",
+      "family": "Hardesty",
+      "given": "Jennifer L."
+    },
+    {
+      "raw": "Crossman, Kimberly A.",
+      "family": "Crossman",
+      "given": "Kimberly A."
+    },
+    {
+      "raw": "Haselschwerdt, Megan L.",
+      "family": "Haselschwerdt",
+      "given": "Megan L."
+    },
+    {
+      "raw": "Raffaelli, Marcela",
+      "family": "Raffaelli",
+      "given": "Marcela"
+    },
+    {
+      "raw": "Ogolsky, Brian G.",
+      "family": "Ogolsky",
+      "given": "Brian G."
+    },
+    {
+      "raw": "Johnson, Michael P.",
+      "family": "Johnson",
+      "given": "Michael P."
+    }
+  ],
+  "authors_text": "Hardesty, Jennifer L.; Crossman, Kimberly A.; Haselschwerdt, Megan L.; Raffaelli, Marcela; Ogolsky, Brian G.; Johnson, Michael P.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2015,
+  "doi": "10.1111/jomf.12201",
+  "doi_url": "https://doi.org/10.1111/jomf.12201",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12201",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12201.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

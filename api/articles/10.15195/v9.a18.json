@@ -1,0 +1,40 @@
+{
+  "title": "Racially Distinctive Names Signal Both Race/Ethnicity and Social Class",
+  "abstract": "Researchers studying discrimination and bias frequently conduct experiments that use racially distinctive names to signal race or ethnicity. The evidence that these studies provide about racial discrimination depends on the assumption that the names researchers use differ only based on perceived race and not some other factor. In this article, we assess this common assumption using data from five different studies (n = 1,004; 2,002; 1,035; 5,631; 1,858) conducted at different times across four separate survey platforms (Lucid Marketplace, Lucid Theorem, MTurk, and Prolific). We find evidence that names commonly used to signal race/ethnicity also influence perceptions about socioeconomic status and social class. Specifically, we observe that Americans tend to think that individuals with names typically used by Black and Hispanic people have lower educational attainment and income and are of a lower social class. Even when we present respondents with the educational attainment of a named individual, respondents still perceive Black people as lower social class than White people. We discuss the implications of these findings for past and future experimental work that uses names to signal race. We also articulate the importance of choosing names that best approximate the quantity that scholars want to estimate.",
+  "authors": [
+    {
+      "raw": "Crabtree, Charles",
+      "family": "Crabtree",
+      "given": "Charles"
+    },
+    {
+      "raw": "Gaddis, S.",
+      "family": "Gaddis",
+      "given": "S."
+    },
+    {
+      "raw": "Holbein, John",
+      "family": "Holbein",
+      "given": "John"
+    },
+    {
+      "raw": "Larsen, Edvard",
+      "family": "Larsen",
+      "given": "Edvard"
+    }
+  ],
+  "authors_text": "Crabtree, Charles; Gaddis, S.; Holbein, John; Larsen, Edvard",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2022,
+  "doi": "10.15195/v9.a18",
+  "doi_url": "https://doi.org/10.15195/v9.a18",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv9.a18",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v9.a18.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

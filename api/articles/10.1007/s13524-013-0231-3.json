@@ -1,0 +1,35 @@
+{
+  "title": "Community-Wide Job Loss and Teenage Fertility: Evidence From North Carolina",
+  "abstract": "AbstractUsing North Carolina data for the period 1990–2010, we estimate the effects of economic downturns on the birthrates of 15- to 19-year-olds, using county-level business closings and layoffs as a plausibly exogenous source of variation in the strength of the local economy. We find little effect of job losses on the white teen birthrate. For black teens, however, job losses to 1 % of the working-age population decrease the birthrate by around 2 %. Birth declines start five months after the job loss and then last for more than one year. Linking the timing of job losses and conceptions suggests that black teen births decline because of increased terminations and perhaps also because of changes in prepregnancy behaviors. National data on risk behaviors also provide evidence that black teens reduce sexual activity and increase contraception use in response to job losses. Job losses seven to nine months after conception do not affect teen birthrates, indicating that teens do not anticipate job losses and lending confidence that job losses are “shocks” that can be viewed as quasi-experimental variation. We also find evidence that relatively advantaged black teens disproportionately abort after job losses, implying that the average child born to a black teen in the wake of job loss is relatively more disadvantaged.",
+  "authors": [
+    {
+      "raw": "Ananat, Elizabeth Oltmans",
+      "family": "Ananat",
+      "given": "Elizabeth Oltmans"
+    },
+    {
+      "raw": "Gassman-Pines, Anna",
+      "family": "Gassman-Pines",
+      "given": "Anna"
+    },
+    {
+      "raw": "Gibson-Davis, Christina",
+      "family": "Gibson-Davis",
+      "given": "Christina"
+    }
+  ],
+  "authors_text": "Ananat, Elizabeth Oltmans; Gassman-Pines, Anna; Gibson-Davis, Christina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0231-3",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0231-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0231-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0231-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

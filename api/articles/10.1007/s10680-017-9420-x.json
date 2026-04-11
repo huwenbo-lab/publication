@@ -1,0 +1,35 @@
+{
+  "title": "Family Trajectories and Well-being of Children Born to Lone Mothers in the UK",
+  "abstract": "We investigate how lone mothers' heterogeneity in partnership trajectories is associated with children's well-being. We use data from the Millennium Cohort Study, which follows a large sample of children born in the UK in 2000-2002. We divide children who were born to lone mothers into four groups based on their mothers' partnership trajectories between birth and age seven, which cover more than 80% of these children's family experiences. We then analyse how these trajectories are associated with markers of health, cognitive and socio-emotional outcomes measured at around age seven. We find that compared to the children that live continuously with lone mothers, children whose biological father stably joined the household have better cognitive and socio-emotional outcomes. In contrast, children in trajectories characterised by living with a stepfather or who experienced biological father joining in the family followed by biological parents' dissolution had outcomes similar to children living continuously with lone mothers. The results underscore the importance of treating children born to lone mothers as a heterogeneous category.",
+  "authors": [
+    {
+      "raw": "Mariani, Elena",
+      "family": "Mariani",
+      "given": "Elena"
+    },
+    {
+      "raw": "Özcan, Berkay",
+      "family": "Özcan",
+      "given": "Berkay"
+    },
+    {
+      "raw": "Goisis, Alice",
+      "family": "Goisis",
+      "given": "Alice"
+    }
+  ],
+  "authors_text": "Mariani, Elena; Özcan, Berkay; Goisis, Alice",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2017,
+  "doi": "10.1007/s10680-017-9420-x",
+  "doi_url": "https://doi.org/10.1007/s10680-017-9420-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-017-9420-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-017-9420-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

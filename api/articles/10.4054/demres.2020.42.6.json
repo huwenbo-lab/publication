@@ -1,0 +1,35 @@
+{
+  "title": "Exploring the demographic history of populations with enhanced Lexis surfaces",
+  "abstract": "BACKGROUND Lexis surfaces are widely used to analyze demographic trends across periods, ages, and birth cohorts. When used to visualize rates or trends, these plots usually do not convey information about population size. The failure to communicate population size in Lexis surfaces can lead to misinterpretations of mortality or other conditions that populations face. For example, high mortality rates at very high ages have historically been experienced by only a small proportion of a population or cohort. OBJECTIVE We propose enhanced Lexis surfaces that include a visual representation of population size. The examples we present demonstrate how such plots can give readers a more intuitive understanding of the demographic development of a population over time. METHODS Visualizations are implemented using an R-Shiny application, building upon perception theories. RESULTS We present example plots for enhanced Lexis surfaces that show trends in cohort mortality and first-order differences in cohort mortality developments. These plots illustrate how adding the cohort size dimension allows us to extend the analytical potential of standard Lexis surfaces. CONTRIBUTION Our enhanced Lexis surfaces improve conventional depictions of period, age, and cohort trends in demographic developments of populations. An online interactive visualization tool based on Human Mortality Database data allows users to generate and export enhanced Lexis surfaces for their research. The R code to generate the application (and a link to the deployed application) can be accessed at vs://github. com/cimentadaj/lexis_plot.",
+  "authors": [
+    {
+      "raw": "Cimentada, Jorge",
+      "family": "Cimentada",
+      "given": "Jorge"
+    },
+    {
+      "raw": "Kluesener, Sebastian",
+      "family": "Kluesener",
+      "given": "Sebastian"
+    },
+    {
+      "raw": "Riffe, Tim",
+      "family": "Riffe",
+      "given": "Tim"
+    }
+  ],
+  "authors_text": "Cimentada, Jorge; Kluesener, Sebastian; Riffe, Tim",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.6",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,45 @@
+{
+  "title": "The effect of cumulative childhood exposure to neighbourhood socioeconomic disadvantage on school performance-a register-based study on neighbourhoods, schools, and siblings",
+  "abstract": "Several studies show that exposure to neighbourhood disadvantage predicts poorer educational outcomes among adolescents. Selective sorting into neighbourhoods, other unobserved childhood family characteristics, and failing to account for other relevant social contexts such as schools inhibit strong causal inference from the associations reported in previous studies. Based on longitudinal register data on the total population of Finnish children in major cities, we studied the extent to which variation in grade point average (GPA) was attributable to schools, neighbourhoods, and families. We also sought to determine whether exposure to neighbourhood disadvantage predicted GPA after accounting for non-random selection into neighbourhoods by comparing siblings with differential exposure to neighbourhoods. Overall, we observed no effect of neighbourhood disadvantage on GPA after accounting for observed and unobserved family characteristics in the general population. However, we did observe a non-negligible but not statistically significant effect of neighbourhood disadvantage among children of parents with only basic education. Family factors accounted for most of the variation in GPA, and only around 1 per cent of the variance was attributable to the neighbourhood. This weak relevance of the neighbourhood to educational outcomes may reflect the success of educational and other social policies limiting the emergence of neighbourhood effects.",
+  "authors": [
+    {
+      "raw": "Tarkiainen, Lasse",
+      "family": "Tarkiainen",
+      "given": "Lasse"
+    },
+    {
+      "raw": "Kemppainen, Teemu",
+      "family": "Kemppainen",
+      "given": "Teemu"
+    },
+    {
+      "raw": "Lahtinen, Hannu",
+      "family": "Lahtinen",
+      "given": "Hannu"
+    },
+    {
+      "raw": "Bernelius, Venla",
+      "family": "Bernelius",
+      "given": "Venla"
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    }
+  ],
+  "authors_text": "Tarkiainen, Lasse; Kemppainen, Teemu; Lahtinen, Hannu; Bernelius, Venla; Martikainen, Pekka",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcad058",
+  "doi_url": "https://doi.org/10.1093/esr/jcad058",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcad058",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcad058.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

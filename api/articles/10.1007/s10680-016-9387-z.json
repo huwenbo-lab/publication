@@ -1,0 +1,30 @@
+{
+  "title": "Children’s Sex and the Happiness of Parents",
+  "abstract": "Demographers are interested in sex preferences for children because they can skew sex ratios and influence population-level fertility, parenting behavior, and family outcomes. Based on parity progression ratios, in most European countries, there are no sex preferences for a first child, but a strong preference for mixed-sex children. We hypothesize that mixed-sex preferences also influence parental happiness. Parents' disappointment with a second child of the same sex as the first could have negative effects for parents and children. We use longitudinal data from the German Socio-Economic Panel and the British Household Panel Study to examine parental happiness by the children's sex and analyze whether these effects differ by parent's sex, age, nativity, and educational attainment. The results are only partially consistent with predictions from parity progression ratios. As expected, parental happiness does not depend on the sex of the first child. We find weak evidence suggesting that two boys decrease happiness, but the findings are not consistent across German and British data or across subpopulations. Moreover, two girls do not reduce happiness. Although sex preferences influence fertility, they appear to have little impact on happiness, perhaps because of unobserved positive factors associated with having same-sex children.",
+  "authors": [
+    {
+      "raw": "Margolis, Rachel",
+      "family": "Margolis",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Myrskyla, Mikko",
+      "family": "Myrskyla",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "Margolis, Rachel; Myrskyla, Mikko",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2016,
+  "doi": "10.1007/s10680-016-9387-z",
+  "doi_url": "https://doi.org/10.1007/s10680-016-9387-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-016-9387-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-016-9387-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Cohort Analysis’ Unholy Quest: A Discussion",
+  "abstract": "I am pleased to be able to join in the discussion of the article by Luo (in this issue) on age, period, and cohort (APC) modeling in demographic research.Demographers have had a long fascination with various forms of accounting frameworks, and thus APC modeling was a natural topic for the demographic literature.My interest in these models arose sometime in the mid-1970s, when I was part of a team teaching a short course on categorical data analysis.One of the \"students\" was especially persistent, both wanting to know precisely how to implement the computer programs but also the many details not in the lectures or the notes I distributed.His questions were always penetrating, and my answers tended to stretch out into the breaks and dinners.We spent a couple of evenings talking about research problems.That was my introduction to William (Bill) Mason.One of Bill's late-night questions was about how to address what was coming to be known as the \"age-period-cohort problem\" in a categorical data context using log-linear models.Thus began a collaboration that stretched over close to a decade, produced a couple of major papers (Fienberg and Mason 1978, 1985), a Social Science Research Council conference, and an edited volume based on papers presented at the conference (Mason and Fienberg 1985).I tend to write relatively terse descriptions of methodology, and although my two main papers with Mason appear to be lengthy, I always thought of them as summarizing the problem in a rather pithy way.What we essentially said was 1.There is no technical way to solve the APC problem.A = P -C is a linear constraint, and the only way to make it go away is by fiat-that is, by specifying some conditional linear contrast whose appropriateness could never be tested.Luo appears to be in full agreement with this view.",
+  "authors": [
+    {
+      "raw": "Fienberg, Stephen E.",
+      "family": "Fienberg",
+      "given": "Stephen E."
+    }
+  ],
+  "authors_text": "Fienberg, Stephen E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0251-z",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0251-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0251-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0251-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

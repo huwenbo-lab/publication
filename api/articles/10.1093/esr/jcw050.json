@@ -1,0 +1,40 @@
+{
+  "title": "Information Barriers, Social Inequality, and Plans for Higher Education: Evidence from a Field Experiment",
+  "abstract": "Our article assesses the role of information barriers for patterns of educational participation and related social inequalities in plans for Higher Education (HE). Using longitudinal data, we investigate student expectations about the profitability of HE, their evolution over time and their correlation with study plans among Italian high school seniors. We find that student believes are highly inaccurate, systematically biased and poorly updated. Then, we present estimates of the causal effect of information barriers on educational plans based on a large-scale clustered randomized experiment. We designed a counseling intervention to correct student misperceptions of the profitability of HE and assessed whether treated students' plans changed differentially relative to a control group. The intervention was quite effective in correcting student misperceptions, but this did not translate into increased intentions to enroll in university education. However, the treatment affected preferences between fields of study, between short and long university paths, and between university and vocationally oriented programs. Hence, information barriers affect substantially the internal differentiation of HE and the related horizontal inequalities by gender and family background.",
+  "authors": [
+    {
+      "raw": "Barone, Carlo",
+      "family": "Barone",
+      "given": "Carlo"
+    },
+    {
+      "raw": "Schizzerotto, Antonio",
+      "family": "Schizzerotto",
+      "given": "Antonio"
+    },
+    {
+      "raw": "Abbiati, Giovanni",
+      "family": "Abbiati",
+      "given": "Giovanni"
+    },
+    {
+      "raw": "Argentin, Gianluca",
+      "family": "Argentin",
+      "given": "Gianluca"
+    }
+  ],
+  "authors_text": "Barone, Carlo; Schizzerotto, Antonio; Abbiati, Giovanni; Argentin, Gianluca",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2017,
+  "doi": "10.1093/esr/jcw050",
+  "doi_url": "https://doi.org/10.1093/esr/jcw050",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcw050",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcw050.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

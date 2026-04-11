@@ -1,0 +1,30 @@
+{
+  "title": "The Economic Penalty of Gender Nonconformity Among Sexual Minorities",
+  "abstract": "Globally, lesbian, gay, and bisexual (LGB) populations are more vulnerable to poverty than heterosexual people. Prior studies suggest that differences in human capital, intrahousehold dynamics, and discrimination based on sexual orientation likely contribute to their collective disadvantage. Few studies, however, disentangle the distinct effects of sexual orientation and gender nonconformity in appearance and behavior on economic well-being. Drawing on the first large-scale survey of lesbian, gay, bisexual, and transgender individuals, which inquired about gendered appearance and experiences of gender behavior policing, we examine the relationship between gender nonconformity and income position, controlling for individual- and country-level factors. Results from multilevel ordered logistic regression models show that gender-nonconforming appearances and experiences of gender behavior policing are correlated with lower income positions among LGB populations, with the nature of these associations differing between sexual minority women and men. Our findings suggest that while masculinity is generally privileged, societal expectations to express gender normatively through appearance and behavior are key factors shaping the economic well-being of sexual minorities. We term this pattern the gender nonconformity economic penalty—a distinct factor, separate from gender identity and sexual orientation, that helps maintain gendered and sexual oppression.",
+  "authors": [
+    {
+      "raw": "Strader, Eiko",
+      "family": "Strader",
+      "given": "Eiko"
+    },
+    {
+      "raw": "Nordmarken, Sonny",
+      "family": "Nordmarken",
+      "given": "Sonny"
+    }
+  ],
+  "authors_text": "Strader, Eiko; Nordmarken, Sonny",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2026,
+  "doi": "10.1177/08912432251406279",
+  "doi_url": "https://doi.org/10.1177/08912432251406279",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432251406279",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432251406279.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Parental involvement in elementary schools and children's academic achievement: A longitudinal analysis across educational groups in Finland",
+  "abstract": "Many educational initiatives emphasize parental involvement as a strategy to reduce socioeconomic achievement gaps in schools and enhance students' educational attainment. Despite extensive research, findings on the relationship between parental involvement and children's academic achievement remain inconsistent. This study uses longitudinal data (N = 2887) from Finland, a country with strong emphasis on equal educational opportunities, to examine the development of parental involvement and relationships between parental involvement and children's achievement during elementary school years. Specifically, the research focuses on three primary objectives: analyzing changes in parental involvement over time, assessing its relationship with academic outcomes, and exploring variations in its relationship across different educational groups. Results: indicated that parental involvement generally decreases, as children grow older. While parental involvement was related to both GPA and reading comprehension when assessed separately, only the relationship with GPA remained significant in a combined model. Our findings indicate an overlap between the examined outcome variables but they also suggest a potential teacher-bias effect in grading influenced by parental involvement, Therefore, our findings suggest that the impact of parental involvement on achievement might be more about how teachers perceive and evaluate students rather than a direct effect on academic performance. Additionally, although parental involvement varied with socioeconomic status (SES), with higher levels observed among more educated mothers, its association with educational outcomes was relatively uniform across all groups but slightly stronger and statistically significant among middle educational groups. Therefore, our findings challenges the assumption that increasing parental involvement could effectively equalize socioeconomic differences in educational performance.",
+  "authors": [
+    {
+      "raw": "Koivuhovi, Satu",
+      "family": "Koivuhovi",
+      "given": "Satu"
+    },
+    {
+      "raw": "Kilpi-Jakonen, Elina",
+      "family": "Kilpi-Jakonen",
+      "given": "Elina"
+    },
+    {
+      "raw": "Erola, Jani",
+      "family": "Erola",
+      "given": "Jani"
+    },
+    {
+      "raw": "Vainikainen, Mari-Pauliina",
+      "family": "Vainikainen",
+      "given": "Mari-Pauliina"
+    }
+  ],
+  "authors_text": "Koivuhovi, Satu; Kilpi-Jakonen, Elina; Erola, Jani; Vainikainen, Mari-Pauliina",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2024.101007",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.101007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.101007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.101007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

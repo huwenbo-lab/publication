@@ -1,0 +1,30 @@
+{
+  "title": "Child poverty and changes in child poverty",
+  "abstract": "Abstract This article offers a cross-country overview of child poverty, changes in child poverty, and the impact of public policy in North America and Europe. Levels and changes in child poverty rates in 12 Organisation for Economic Co-operation and Development (OECD) countries during the 1990s are documented using data from the Luxembourg Income Study project, and a decomposition analysis is used to uncover the relative role of demographic factors, labor markets, and income transfers from the state in determining the magnitude and direction of the changes. Child poverty rates fell noticeably in only three countries and rose in three others. In no country were demographic factors a force for higher child poverty rates, but these factors were also limited in their ability to cushion children from adverse shocks originating in the labor market or the government sector. Increases in the labor market engagement of mothers consistently lowered child poverty rates, while decreases in the employment rates and earnings of fathers were a force for higher rates. Finally, there is no single road to lower child poverty rates. Reforms to income transfers intended to increase labor supply may or may not end up lowering the child poverty rate.",
+  "authors": [
+    {
+      "raw": "Chen, Wen-Hao",
+      "family": "Chen",
+      "given": "Wen-Hao"
+    },
+    {
+      "raw": "Corak, Miles",
+      "family": "Corak",
+      "given": "Miles"
+    }
+  ],
+  "authors_text": "Chen, Wen-Hao; Corak, Miles",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0024",
+  "doi_url": "https://doi.org/10.1353/dem.0.0024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

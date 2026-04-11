@@ -1,0 +1,30 @@
+{
+  "title": "The second demographic transition in the United States: Exception or textbook example?",
+  "abstract": "Current demographic changes in the United States closely follow those posited by the second demographic transition (SDT) theory. Characteristics such as rises in premarital cohabitation and in fertility among cohabiters, postponement of both marriage and parenthood, subreplacement fertility, and large immigration streams are all ingredients that are clearly shared with other western SDT countries. The United States has several idiosyncratic features such as high immigrant fertility (mainly Mexican) and high teenage fertility (both black and white) in several regions that lift overall fertility to replacement level. An analysis of the spatial patterns of these characteristics, at levels of both 50 states and 3,141 counties, shows a remarkable correlation with the outcomes of the last two presidential elections. The negative correlation between the second demographic transition dimension and the vote for George W. Bush in 2000 and 2004 is resistant to controls for possible common causes of a socioeconomic or cultural nature (such as income, education, urbanization, religion, ethnicity), suggesting that the second demographic transition itself has been a factor that directly co-determined the spatial pattern of political outcomes such as presidential elections and regional aspects of the American culture war.",
+  "authors": [
+    {
+      "raw": "Lesthaeghe, Ron J.",
+      "family": "Lesthaeghe",
+      "given": "Ron J."
+    },
+    {
+      "raw": "Neidert, Lisa",
+      "family": "Neidert",
+      "given": "Lisa"
+    }
+  ],
+  "authors_text": "Lesthaeghe, Ron J.; Neidert, Lisa",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2006,
+  "doi": "10.1111/j.1728-4457.2006.00146.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2006.00146.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2006.00146.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2006.00146.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

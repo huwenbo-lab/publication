@@ -1,0 +1,30 @@
+{
+  "title": "Coherent mortality forecasts for a group of populations: An extension of the lee-carter method",
+  "abstract": "Abstract Mortality patterns and trajectories in closely related populations are likely to be similar in some respects, and differences are unlikely to increase in the long run. It should therefore be possible to improve the mortality forecasts for individual countries by taking into account the patterns in a larger group. Using the Human Mortality Database, we apply the Lee-Carter model to a group of populations, allowing each its own age pattern and level of mortality but imposing shared rates of change by age. Our forecasts also allow divergent patterns to continue for a while before tapering off. We forecast greater longevity gains for the United States and lesser ones for Japan relative to separate forecasts.",
+  "authors": [
+    {
+      "raw": "Li, Nan",
+      "family": "Li",
+      "given": "Nan"
+    },
+    {
+      "raw": "Lee, Ronald",
+      "family": "Lee",
+      "given": "Ronald"
+    }
+  ],
+  "authors_text": "Li, Nan; Lee, Ronald",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0021",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0021",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0021",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0021.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Mathematical Models for Human Cancer Incidence Rates",
+  "abstract": "The overall cancer incidence rate declines at old ages. Possible causes of this decline include the effects of cross-sectional data which transform cohort dynamics into age pattern, population heterogeneity which selects out individuals susceptible to",
+  "authors": [
+    {
+      "raw": "Arbeev, Konstantin",
+      "family": "Arbeev",
+      "given": "Konstantin"
+    },
+    {
+      "raw": "Ukraintseva, Svetlana",
+      "family": "Ukraintseva",
+      "given": "Svetlana"
+    },
+    {
+      "raw": "Arbeeva, Lyubov S.",
+      "family": "Arbeeva",
+      "given": "Lyubov S."
+    },
+    {
+      "raw": "Yashin, Anatoli",
+      "family": "Yashin",
+      "given": "Anatoli"
+    }
+  ],
+  "authors_text": "Arbeev, Konstantin; Ukraintseva, Svetlana; Arbeeva, Lyubov S.; Yashin, Anatoli",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2005,
+  "doi": "10.4054/demres.2005.12.10",
+  "doi_url": "https://doi.org/10.4054/demres.2005.12.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2005.12.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2005.12.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

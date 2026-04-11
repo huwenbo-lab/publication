@@ -1,0 +1,25 @@
+{
+  "title": "Three measures of longevity: Time trends and record values",
+  "abstract": "AbstractThis article examines the trend over time in the measures of “typical” longevity experienced by members of a population: life expectancy at birth, and the median and modal ages at death. The article also analyzes trends in record values observed for all three measures. The record life expectancy at birth increased from a level of 44 years in Sweden in 1840 to 82 years in Japan in 2005. The record median age at death shows increasing patterns similar to those observed in life expectancy at birth. However, the record modal age at death changes very little until the second half of the twentieth century: it moved from a plateau level, around age 80, to having a similar pace of increase as that observed for the mean and the median in most recent years. These findings explain the previously observed uninterrupted increase in the record life expectancy. The cause of this increase has changed over time from a dominance of child mortality reductions to a dominance of adult mortality reductions, which became evident by studying trends in the record modal age at death.",
+  "authors": [
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    }
+  ],
+  "authors_text": "Canudas-Romo, Vladimir",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0098",
+  "doi_url": "https://doi.org/10.1353/dem.0.0098",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0098",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0098.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

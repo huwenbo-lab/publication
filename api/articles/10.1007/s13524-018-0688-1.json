@@ -1,0 +1,30 @@
+{
+  "title": "Sampling Weights for Analyses of Couple Data: Example of the Demographic and Health Surveys",
+  "abstract": "In some surveys, women and men are interviewed separately in selected households, allowing matching of partner information and analyses of couples. Although individual sampling weights exist for men and women, sampling weights specific for couples are rarely derived. We present a method of estimating appropriate weights for couples that extends methods currently used in the Demographic and Health Surveys (DHS) for individual weights. To see how results vary, we analyze 1912 estimates (means; proportions; linear regression; and simple and multinomial logistic regression coefficients, and their standard errors) with couple data in each of 11 DHS surveys in which the couple weight could be derived. We used two measures of bias: absolute percentage difference from the value estimated with the couple weight and ratio of the absolute difference to the standard error using the couple weight. The latter shows greater bias for means and proportions, whereas the former and a combination of both measures show greater bias for regression coefficients. Comparing results using couple weights with published results using women's weights for a logistic regression of couple contraceptive use in Turkey, we found that 6 of 27 coefficients had a bias above 5 %. On the other hand, a simulation of varying response rates (27 simulations) showed that median percentage bias in a logistic regression was less than 3 % for 17 of 18 coefficients. Two proxy couple weights that can be calculated in all DHS surveys perform considerably better than either male or female weights. We recommend that a couple weight be calculated and made available with couple data from such surveys.",
+  "authors": [
+    {
+      "raw": "Becker, Stan",
+      "family": "Becker",
+      "given": "Stan"
+    },
+    {
+      "raw": "Kalamar, Amanda",
+      "family": "Kalamar",
+      "given": "Amanda"
+    }
+  ],
+  "authors_text": "Becker, Stan; Kalamar, Amanda",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0688-1",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0688-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0688-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0688-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

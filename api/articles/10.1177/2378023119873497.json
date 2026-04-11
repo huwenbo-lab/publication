@@ -1,0 +1,25 @@
+{
+  "title": "The Coming Divorce Decline",
+  "abstract": "This article analyzes U.S. divorce trends over the past decade and considers their implications for future divorce rates. Modeling women’s odds of divorce from 2008 to 2017 using marital events data from the American Community Survey, I find falling divorce rates with or without adjustment for demographic covariates. Age-specific divorce rates show that the trend is driven by younger women, which is consistent with longer term trends showing uniquely high divorce rates among people born in the Baby Boom period. Finally, I analyze the characteristics of newly married women and estimate the trend in their likelihood of divorcing based on the divorce models. The results show falling divorce risks for more recent marriages. The accumulated evidence thus points toward continued decline in divorce rates. The United States is progressing toward a system in which marriage is rarer and more stable than it was in the past.",
+  "authors": [
+    {
+      "raw": "Cohen, Philip N.",
+      "family": "Cohen",
+      "given": "Philip N."
+    }
+  ],
+  "authors_text": "Cohen, Philip N.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119873497",
+  "doi_url": "https://doi.org/10.1177/2378023119873497",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119873497",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119873497.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

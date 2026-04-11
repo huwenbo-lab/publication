@@ -1,0 +1,40 @@
+{
+  "title": "Does training beget training over the life course? Cumulative advantage in work-related non-formal training participation in Germany and the UK",
+  "abstract": "Continuous training participation over the career becomes ever more important. However, most existing research mainly analyzed training at single points in time. This article investigates training dynamics and hence asks the question of whether training begets training. We provide two contributions to the literature: First, we analyze if previous training participation has an effect on later participation, leading to strict cumulative advantages. Second, by comparing Germany and the United Kingdom, we aim to explore whether these processes differ between countries with divergent skill formation systems. Using dynamic random effects probit models, which control for time-constant unobserved factors, and panel data (NEPS and UKHLS), we find that the accumulation of training experiences is mainly determined by initial education as well as job and firm characteristics. Still, previous participation plays a secondary yet noteworthy role, signifying dynamic growth in both countries, with higher effects for the United Kingdom. Thus, we show that only considering worker, job, and firm characteristics when analyzing inequality in training participation neglects a significant further mechanism that is rooted in previous training participation. We come to three main conclusions: (i) There is a potential amplification of early inequalities over time. Individuals who are initially on career paths that promote regular training participation are likely to keep and even enhance their advantage over time. (ii) On the other hand, our results also suggest the potential for individuals to break free from non-participation patterns. (iii) The inequality-generating pathways can be influenced by institutions.",
+  "authors": [
+    {
+      "raw": "dos Santos, Sascha",
+      "family": "dos Santos",
+      "given": "Sascha"
+    },
+    {
+      "raw": "Dieckhoff, Martina",
+      "family": "Dieckhoff",
+      "given": "Martina"
+    },
+    {
+      "raw": "Ehlert, Martin",
+      "family": "Ehlert",
+      "given": "Martin"
+    },
+    {
+      "raw": "Mertens, Antje",
+      "family": "Mertens",
+      "given": "Antje"
+    }
+  ],
+  "authors_text": "dos Santos, Sascha; Dieckhoff, Martina; Ehlert, Martin; Mertens, Antje",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcae022",
+  "doi_url": "https://doi.org/10.1093/esr/jcae022",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae022",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae022.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

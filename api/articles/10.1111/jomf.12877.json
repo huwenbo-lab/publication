@@ -1,0 +1,35 @@
+{
+  "title": "Does income moderate basic relationship processes?",
+  "abstract": "Objective This study explores whether household income moderates the predictive association from adaptive processes (positive and negative interactions and commitment), enduring vulnerabilities (psychological distress), and stressors (financial strain) to future relationship satisfaction? Background Theory and research have long conceptualized socioeconomic status as a predictor of couple relations, but recent work questions whether socioeconomic status may moderate basic couple relationship processes. Method This study used data from a U.S. national sample of 927 adults aged 18-34 years in a cohabiting (marital or nonmarital) different-sex partnership (66% female; 22% non-White; 47% earned a high school diploma or GED as their highest education credential) surveyed five times at 4- to 6-month intervals. A series of latent curve models with structured residuals were used to examine between- and within-person associations. Results Robust between-persons associations emerged consistent with prior literature (e.g., those with more positive and less negative interactions, higher commitment, lower psychological distress, and less financial strain reported higher relationship satisfaction). One robust longitudinal association emerged at the within-person level: higher than typical negative interactions predicted intraindividual decreases in future relationship satisfaction. Within-person associations were more evident in the cross-section: at times when positive interactions and commitment were higher than one's own average and negative interactions and psychological distress were lower than average, relationship satisfaction was also higher than average. Income did not moderate any links with future relationship satisfaction. Conclusion Results suggest that basic longitudinal processes in relationships operate consistently across income level.",
+  "authors": [
+    {
+      "raw": "Johnson, Matthew D.",
+      "family": "Johnson",
+      "given": "Matthew D."
+    },
+    {
+      "raw": "Stanley, Scott M.",
+      "family": "Stanley",
+      "given": "Scott M."
+    },
+    {
+      "raw": "Rhoades, Galena K.",
+      "family": "Rhoades",
+      "given": "Galena K."
+    }
+  ],
+  "authors_text": "Johnson, Matthew D.; Stanley, Scott M.; Rhoades, Galena K.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2023,
+  "doi": "10.1111/jomf.12877",
+  "doi_url": "https://doi.org/10.1111/jomf.12877",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12877",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12877.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

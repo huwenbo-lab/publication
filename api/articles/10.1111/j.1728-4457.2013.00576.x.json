@@ -1,0 +1,40 @@
+{
+  "title": "Migration and Intergenerational Replacement in Europe",
+  "abstract": "There are long-standing concerns over low fertility levels in Europe and an increasingly important debate on the extent to which migration can compensate for below-replacement fertility. To inform this debate, a wide array of indicators have been developed to assess the joint influence of fertility, mortality, and migration on birth replacement and intergenerational replacement. These indicators are based on various models and assumptions and some are particularly data demanding. In this article we propose a simple method to assess how far migration alters the extent of replacement for a birth cohort as it ages. We term the measure the overall replacement ratio (ORR). It is calculated by taking the size of a female birth cohort at selected ages divided by the average size of the cohorts of mothers in the year of birth. We present estimates of the ORR for a range of European countries representing different replacement regimes. We demonstrate that for many countries net migration has become a key factor in their population trends during the last few decades.",
+  "authors": [
+    {
+      "raw": "Wilson, Chris",
+      "family": "Wilson",
+      "given": "Chris"
+    },
+    {
+      "raw": "Sobotka, Tomas",
+      "family": "Sobotka",
+      "given": "Tomas"
+    },
+    {
+      "raw": "Williamson, Lee",
+      "family": "Williamson",
+      "given": "Lee"
+    },
+    {
+      "raw": "Boyle, Paul",
+      "family": "Boyle",
+      "given": "Paul"
+    }
+  ],
+  "authors_text": "Wilson, Chris; Sobotka, Tomas; Williamson, Lee; Boyle, Paul",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2013,
+  "doi": "10.1111/j.1728-4457.2013.00576.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2013.00576.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2013.00576.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2013.00576.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

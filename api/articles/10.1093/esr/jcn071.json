@@ -1,0 +1,40 @@
+{
+  "title": "Research Note: Digital Divide Across Borders--A Cross-National Study of Adolescents' Use of Digital Technologies",
+  "abstract": "In this study, we analyse digital divides in terms of social inequality in digital access and use patterns from a hierarchical perspective. Using data from the Programme for International Student Assessment (PISA) 2003 in 30 nations, we focus on social cleavages in mid-adolescents' access and use of digital technologies, taking into account both individual-level and country-level influences. Our study shows that adolescents from higher socio-economic and two-parent family households are more likely to have Internet access at home. Additionally, adolescents from higher-status families use the Internet more often for informational purposes than children from lower-status families. Adolescents from single-parent are less likely to have home Internet access. Nevertheless, they use the Internet more frequently for information and communication and play computer games more often than their peers living in two-parent families. Testing simultaneously individual and country characteristics shows that a country's level of modernization can be separated into compositional and contextual effects. Overall, a country's level of modernization only affects whether digital applications are available at the family home, but not how they are used. These findings suggest that once a family has access to the Internet, the digital use patterns of their adolescent children do not differ across nations.",
+  "authors": [
+    {
+      "raw": "Notten, N.",
+      "family": "Notten",
+      "given": "N."
+    },
+    {
+      "raw": "Peter, J.",
+      "family": "Peter",
+      "given": "J."
+    },
+    {
+      "raw": "Kraaykamp, G.",
+      "family": "Kraaykamp",
+      "given": "G."
+    },
+    {
+      "raw": "Valkenburg, P. M.",
+      "family": "Valkenburg",
+      "given": "P. M."
+    }
+  ],
+  "authors_text": "Notten, N.; Peter, J.; Kraaykamp, G.; Valkenburg, P. M.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1093/esr/jcn071",
+  "doi_url": "https://doi.org/10.1093/esr/jcn071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Cultural Fragmentation or Acquired Dispositions? A New Approach to Accounting for Patterns of Cultural Change",
+  "abstract": "The authors argue that cultural fragmentation models predict that cultural change is driven primarily by period effects, whereas acquired dispositions models predict that cultural change is driven by cohort effects. To ascertain which model is on the right track, the authors develop a novel method to measure “cultural durability,” namely, the share of over-time variance that is due to either period or cohort effects for 164 variables from the 1972–2014 General Social Surveys. The authors find fairly strong levels of cultural durability across most items, especially those connected to values and morality, but less so for attitudes toward legal and political institutions.",
+  "authors": [
+    {
+      "raw": "Vaisey, Stephen",
+      "family": "Vaisey",
+      "given": "Stephen"
+    },
+    {
+      "raw": "Lizardo, Omar",
+      "family": "Lizardo",
+      "given": "Omar"
+    }
+  ],
+  "authors_text": "Vaisey, Stephen; Lizardo, Omar",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2016,
+  "doi": "10.1177/2378023116669726",
+  "doi_url": "https://doi.org/10.1177/2378023116669726",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023116669726",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023116669726.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

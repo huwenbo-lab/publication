@@ -1,0 +1,65 @@
+{
+  "title": "U.S. Eviction Filing Patterns in 2020",
+  "abstract": "The coronavirus pandemic precipitated an economic crisis disproportionately affecting renter households. Attempting to prevent a surge in evictions, policy makers at the federal, state, and local levels extended emergency protections to renters. The authors describe eviction filing patterns in 2020 and analyze the efficacy of eviction moratoria. New filings were reduced dramatically since the start of the pandemic. Between March 15 and December 31, 2020, across sites for which data are available, 65 percent fewer eviction cases were filed than would be expected in a typical year. Extrapolating nationwide, the authors estimate that at least 1.55 million fewer eviction cases were filed in 2020 than in a normal year. The pace at which cases were filed increased in late 2020, however, and the amount of back rent claimed grew considerably. Filing rates exceeded historical averages when protections lapsed. Black and female renters received a disproportionate share of eviction cases filed during the pandemic.",
+  "authors": [
+    {
+      "raw": "Hepburn, Peter",
+      "family": "Hepburn",
+      "given": "Peter"
+    },
+    {
+      "raw": "Louis, Renee",
+      "family": "Louis",
+      "given": "Renee"
+    },
+    {
+      "raw": "Fish, Joe",
+      "family": "Fish",
+      "given": "Joe"
+    },
+    {
+      "raw": "Lemmerman, Emily",
+      "family": "Lemmerman",
+      "given": "Emily"
+    },
+    {
+      "raw": "Alexander, Anne Kat",
+      "family": "Alexander",
+      "given": "Anne Kat"
+    },
+    {
+      "raw": "Thomas, Timothy A.",
+      "family": "Thomas",
+      "given": "Timothy A."
+    },
+    {
+      "raw": "Koehler, Robert",
+      "family": "Koehler",
+      "given": "Robert"
+    },
+    {
+      "raw": "Benfer, Emily",
+      "family": "Benfer",
+      "given": "Emily"
+    },
+    {
+      "raw": "Desmond, Matthew",
+      "family": "Desmond",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Hepburn, Peter; Louis, Renee; Fish, Joe; Lemmerman, Emily; Alexander, Anne Kat; Thomas, Timothy A.; Koehler, Robert; Benfer, Emily; Desmond, Matthew",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211009983",
+  "doi_url": "https://doi.org/10.1177/23780231211009983",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211009983",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211009983.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

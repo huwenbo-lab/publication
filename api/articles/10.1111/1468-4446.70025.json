@@ -1,0 +1,30 @@
+{
+  "title": "From Dyadic Distance to Space in Family Networks: Reciprocity of Family Support in Switzerland",
+  "abstract": "Due to their geographical dispersion, many families face challenges in exchanging support over long distances. While family theories emphasise the importance of a systemic approach to family relationships, reciprocity-a core feature of these relationships-is still predominantly studied within specific dyads, such as the parent-child relationship, rather than within the broader family network and its spatial context. This study addresses this gap by examining whether family members reciprocally exchange material and emotional support, and how these exchanges relate to spatial characteristics at three levels: the individual (past migration, degree of urbanisation), the dyadic tie (physical distance between members) and the network (spatial dispersion). Using a national sample of 549 adults living in Switzerland, who named important family members and identified available support, we apply a multilevel network approach. Results show that only reciprocity in material support declines with residential distance when controlling for both in-person and remote contact. Moreover, reciprocity is more likely in large, tightly-knit families, and-specifically for emotional support-in spatially dispersed ones. This last finding suggests that reciprocating emotional support is a key mechanism through which families maintain long-distance relationships. Another takeaway is that cultivating mutually supportive ties must be understood not only through dyadic distance and contact between individual members, but in relation to the spatial and network context of the family as a whole.",
+  "authors": [
+    {
+      "raw": "Viry, Gil",
+      "family": "Viry",
+      "given": "Gil"
+    },
+    {
+      "raw": "Herz, Andreas",
+      "family": "Herz",
+      "given": "Andreas"
+    }
+  ],
+  "authors_text": "Viry, Gil; Herz, Andreas",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1111/1468-4446.70025",
+  "doi_url": "https://doi.org/10.1111/1468-4446.70025",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.70025",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.70025.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

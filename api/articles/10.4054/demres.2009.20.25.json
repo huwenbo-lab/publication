@@ -1,0 +1,40 @@
+{
+  "title": "Graduating the age-specific fertility pattern using Support Vector Machines",
+  "abstract": "A topic of interest in demographic literature is the graduation of the age-specific fertility pattern. A standard graduation technique extensively used by demographers is to fit parametric models that accurately reproduce it. Non-parametric statistical",
+  "authors": [
+    {
+      "raw": "Kostaki, Anastasia",
+      "family": "Kostaki",
+      "given": "Anastasia"
+    },
+    {
+      "raw": "Moguerza, Javier",
+      "family": "Moguerza",
+      "given": "Javier"
+    },
+    {
+      "raw": "Olivares, Alberto",
+      "family": "Olivares",
+      "given": "Alberto"
+    },
+    {
+      "raw": "Psarakis, Stelios",
+      "family": "Psarakis",
+      "given": "Stelios"
+    }
+  ],
+  "authors_text": "Kostaki, Anastasia; Moguerza, Javier; Olivares, Alberto; Psarakis, Stelios",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2009,
+  "doi": "10.4054/demres.2009.20.25",
+  "doi_url": "https://doi.org/10.4054/demres.2009.20.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2009.20.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2009.20.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Parenthood in Europe: Not More Life Satisfaction, but More Meaning in Life",
+  "abstract": "ObjectiveThis study contrasts the associations between parenthood and two central components of subjective well-being: life satisfaction and meaning in life.BackgroundTheoretical arguments and previous research based on qualitative analyses suggest that parenthood might lower life satisfaction but increase meaning in life. This study provides the first test of this idea based on a large-scale, multicountry analysis, considering heterogeneity in the link between parenthood and well-being across sociodemographic groups and national contexts.MethodsThe data were sourced from the European Social Survey, with more than 43,000 respondents from 30 countries. Multilevel regression models tested the role of parenthood, proxied by the presence of children in the household, on life satisfaction and meaning in life, with separate analyses conducted for women and men. Additional analyses investigated heterogeneity across sociodemographic groups and country clusters.ResultsThe link between parenthood and life satisfaction varied significantly by gender and context, tending to be more negative for parents facing more challenging conditions. Conversely, the analyses revealed a consistent positive link between parenthood and meaning in life for both women and men, regardless of social and national context.ConclusionParenthood is linked to lower life satisfaction for some groups but to higher meaning in life across diverse populations. However, under certain conditions, such as the culture and policy context of the Nordic countries, parenthood is associated with both higher life satisfaction and meaning, two key components of a good life.",
+  "authors": [
+    {
+      "raw": "Hudde, Ansgar",
+      "family": "Hudde",
+      "given": "Ansgar"
+    },
+    {
+      "raw": "Jacob, Marita",
+      "family": "Jacob",
+      "given": "Marita"
+    }
+  ],
+  "authors_text": "Hudde, Ansgar; Jacob, Marita",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13116",
+  "doi_url": "https://doi.org/10.1111/jomf.13116",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13116",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13116.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

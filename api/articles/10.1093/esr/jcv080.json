@@ -1,0 +1,35 @@
+{
+  "title": "Within- and Between-Country Value Diversity in Europe: A Typological Approach",
+  "abstract": "The within-country and between-country heterogeneity of populations has been largely studied apart from each other. This article analyses simultaneously these two parts of value heterogeneity of populations using a typological approach. Using data from the European Social Survey, populations of 29 European countries are classified based on their values that were measured with Schwartz's Portrait Values Questionnaire. Latent class analysis resulted in five European value classes. All the countries studied are internally diverse in their value class composition, and most of them have a non-zero probability to have members of all the five value classes. Nordic and Western European countries surpass Mediterranean and Post-Communist Europe in the probability of a class that combines the strongest preferences for Openness over Conservation and for Self-Transcendence over Self-Enhancement. It is concluded that a typological approach provides a new look at within- and between-country value differences, making empirical comparisons holistic and more parsimonious.",
+  "authors": [
+    {
+      "raw": "Magun, Vladimir",
+      "family": "Magun",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Rudnev, Maksim",
+      "family": "Rudnev",
+      "given": "Maksim"
+    },
+    {
+      "raw": "Schmidt, Peter",
+      "family": "Schmidt",
+      "given": "Peter"
+    }
+  ],
+  "authors_text": "Magun, Vladimir; Rudnev, Maksim; Schmidt, Peter",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcv080",
+  "doi_url": "https://doi.org/10.1093/esr/jcv080",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv080",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv080.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

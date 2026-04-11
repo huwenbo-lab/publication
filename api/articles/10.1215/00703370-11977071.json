@@ -1,0 +1,45 @@
+{
+  "title": "Racial and Ethnic Disparities in Functional Limitations Among US-born Older Adults: Examining the Role of Physically Demanding Work",
+  "abstract": "Work is an important contributor to racial and ethnic disparities in health across the life course. Because functional limitations at older ages are associated with accumulated physical wear and tear throughout life, investigating work-related mechanisms that differentially expose Black and Hispanic Americans to difficult material circumstances over time is an important step toward understanding these disparities. Using a new data source of lifetime work histories from the Health and Retirement Study, this study investigates the role of accumulated years of physically demanding work (PDW) through middle adulthood on the number of functional limitations at age 60 (FL60). This study also assesses whether cumulative PDW accounts for the observed differences in FL60 among U.S.-born Black, Hispanic, and White respondents. We find that cumulative PDW is strongly associated with FL60 and partially accounts for the racial and ethnic gap in FL60 in the presence of extensive control variables. We also demonstrate that a traditional regression model underestimates the Black-White and Black-Hispanic differences in FL60 compared with a marginal structural model with an inverse probability of treatment weighting approach. Our results illustrate the importance of studying work from a life course perspective that ultimately influences the health of the diverse, aging U.S. population.",
+  "authors": [
+    {
+      "raw": "Park, Sung S.",
+      "family": "Park",
+      "given": "Sung S."
+    },
+    {
+      "raw": "Pebley, Anne R.",
+      "family": "Pebley",
+      "given": "Anne R."
+    },
+    {
+      "raw": "Goldman, Noreen",
+      "family": "Goldman",
+      "given": "Noreen"
+    },
+    {
+      "raw": "Pratt, Boriana",
+      "family": "Pratt",
+      "given": "Boriana"
+    },
+    {
+      "raw": "Sheftel, Mara Getz",
+      "family": "Sheftel",
+      "given": "Mara Getz"
+    }
+  ],
+  "authors_text": "Park, Sung S.; Pebley, Anne R.; Goldman, Noreen; Pratt, Boriana; Sheftel, Mara Getz",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2025,
+  "doi": "10.1215/00703370-11977071",
+  "doi_url": "https://doi.org/10.1215/00703370-11977071",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11977071",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11977071.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "How Movies with a Female Presence Fare with Critics",
+  "abstract": "This study explores one potential mechanism contributing to the persistent underrepresentation of women in film by considering whether movie critics reward or penalize films with an independent female presence. Drawing on a sample of widely distributed movies from 2000 to 2009 (n = 975), we test whether films that pass the Bechdel Test (two or more named women speak to each other about something other than a man) have higher or lower Metacritic scores net of control variables, including arthouse production label, genre, production budget, including a top star, and being a sequel. The results indicate that the mere inclusion or absence of an independent female presence has no effect on a film’s composite critical evaluation. These findings suggest that while critical reviews are not a major factor contributing to women’s exclusion from film, movie critics as a whole do not advocate for films with an independent female presence.",
+  "authors": [
+    {
+      "raw": "Lindner, Andrew M.",
+      "family": "Lindner",
+      "given": "Andrew M."
+    },
+    {
+      "raw": "Schulting, Ziggy",
+      "family": "Schulting",
+      "given": "Ziggy"
+    }
+  ],
+  "authors_text": "Lindner, Andrew M.; Schulting, Ziggy",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2017,
+  "doi": "10.1177/2378023117727636",
+  "doi_url": "https://doi.org/10.1177/2378023117727636",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023117727636",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023117727636.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

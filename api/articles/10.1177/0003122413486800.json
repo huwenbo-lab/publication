@@ -1,0 +1,35 @@
+{
+  "title": "The Corner and the Crew: The Influence of Geography and Social Networks on Gang Violence",
+  "abstract": "Nearly a century of empirical research examines how neighborhood properties influence a host of phenomena such as crime, poverty, health, civic engagement, immigration, and economic inequality. Theoretically bundled within these neighborhood effects are institutions' and actors' social networks that are the foundation of other neighborhood-level processes such as social control, mobilization, and cultural assimilation. Yet, despite such long-standing theoretical links between neighborhoods and social networks, empirical research rarely considers or measures dimensions of geography and social network mechanisms simultaneously. The present study seeks to fill this gap by analyzing how both geography and social networks influence an important social problem in urban America: gang violence. Using detailed data on fatal and non-fatal shootings, we examine effects of geographic proximity, organizational memory, and additional group processes (e. g., reciprocity, transitivity, and status seeking) on gang violence in Chicago and Boston. Results show adjacency of gang turf and prior conflict between gangs are strong predictors of subsequent gang violence. Furthermore, important network processes, including reciprocity and status seeking, also contribute to observed patterns of gang violence. In fact, we find that these spatial and network processes mediate racial effects, suggesting the primacy of place and the group in generating gang violence.",
+  "authors": [
+    {
+      "raw": "Papachristos, Andrew V.",
+      "family": "Papachristos",
+      "given": "Andrew V."
+    },
+    {
+      "raw": "Hureau, David M.",
+      "family": "Hureau",
+      "given": "David M."
+    },
+    {
+      "raw": "Braga, Anthony A.",
+      "family": "Braga",
+      "given": "Anthony A."
+    }
+  ],
+  "authors_text": "Papachristos, Andrew V.; Hureau, David M.; Braga, Anthony A.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1177/0003122413486800",
+  "doi_url": "https://doi.org/10.1177/0003122413486800",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122413486800",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122413486800.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

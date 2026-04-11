@@ -1,0 +1,35 @@
+{
+  "title": "Stability in children's residential arrangements and distance to nonresident parents in the 10 years after parental separation",
+  "abstract": "BACKGROUND Existing studies investigating children's living arrangements after parental separation and geographic distance to the nonresident parent focus primarily on the situation shortly after separation. Little is known about how children's residence with and distance to parents evolve with time elapsed since separation. OBJECTIVE We investigate for the first 10 years following parental separation with which parent the child lives and how far the child lives from the nonresident parent for Belgian children whose parents separated in their early childhood (0 to 6 years). METHODS Data from Demobel (Belgian register-based data; 2010-2020) was analyzed by means of descriptive analysis, sequence index plots, and Kaplan-Meier survival functions. RESULTS For every 10 children who initially registered with their mother (85%), 9.2 stayed registered with their mother in the long term. Geographical distance to the father increased with time elapsed since separation. Children who were initially registered with their father (15%) were more likely to change residency to their mother. On average, the distance between nonresident mothers and their children did not increase. CONCLUSIONS Residential arrangements following separation were mostly stable, even though a switch in the resident parent was not uncommon, especially if the child was initially registered with the father. Compared to residential arrangements, distance to the nonresident parent was more often subject to change.",
+  "authors": [
+    {
+      "raw": "Zilincikova, Zuzana",
+      "family": "Zilincikova",
+      "given": "Zuzana"
+    },
+    {
+      "raw": "Caceres, Gabriela",
+      "family": "Caceres",
+      "given": "Gabriela"
+    },
+    {
+      "raw": "Schnor, Christine",
+      "family": "Schnor",
+      "given": "Christine"
+    }
+  ],
+  "authors_text": "Zilincikova, Zuzana; Caceres, Gabriela; Schnor, Christine",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.12",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

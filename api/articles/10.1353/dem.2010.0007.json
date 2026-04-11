@@ -1,0 +1,30 @@
+{
+  "title": "Causes and consequences of early-life health",
+  "abstract": "Abstract We examine the consequences of child health for economic and health outcomes in adulthood, using height as a marker of childhood health. After reviewing previous evidence, we present a conceptual framework that highlights data limitations and methodological problems that complicate the study of this topic. We then present estimates of the associations between height and a range of outcomes—including schooling, employment, earnings, health, and cognitive ability—measured in five data sets from early to late adulthood. These results indicate that, on average, taller individuals attain higher levels of education. Height is also positively associated with better economic, health, and cognitive outcomes. These associations are only partially explained by the higher average educational attainment of taller individuals. We then use data from the National Longitudinal Survey of Youth 1979 Children and Young Adults survey to document the associations between health, cognitive development, and growth in childhood. Even among children with the same mother, taller siblings score better on cognitive tests and progress through school more quickly. Part of the differences found between siblings arises from differences in their birth weights and lengths attributable to mother’s behaviors while pregnant. Taken together, these results support the hypothesis that childhood health influences health and economic status throughout adulthood.",
+  "authors": [
+    {
+      "raw": "Case, Anne",
+      "family": "Case",
+      "given": "Anne"
+    },
+    {
+      "raw": "Paxson, Christina",
+      "family": "Paxson",
+      "given": "Christina"
+    }
+  ],
+  "authors_text": "Case, Anne; Paxson, Christina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.2010.0007",
+  "doi_url": "https://doi.org/10.1353/dem.2010.0007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2010.0007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2010.0007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

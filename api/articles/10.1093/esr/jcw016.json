@@ -1,0 +1,25 @@
+{
+  "title": "No, Accession to the European Union Does Not Increase the Homicide Rate",
+  "abstract": "In a recent article Sylwia Piatkowska, Steven Messner and Lawrence Raffalovich (PMR) (2016) argue that 'entry into the EU is positively associated with levels of homicide in the 10 Eastern European countries that joined the EU in 2004 and 2007' (pp. 151, 158), with the implication that accession to the European Union (EU) caused higher homicide rate in the countries that joined the union. In this note, I challenge this conclusion and argue that the available empirical evidence does not support the inference that accession to the EU increased the homicide rate. The positive effect that PMR (2016) report is a result of a statistical model specification based on a number of unwarranted assumptions and data preprocessing decisions. The statistical result cannot be replicated under a broad range of alternative, and more plausible, assumptions nor with different measures. Furthermore, the result is in clear contradiction with the descriptive patterns of the evolution of the homicide rates in central and eastern Europe; it does not rest on plausible causal mechanisms; and it does not have a clear causal interpretation. In summary, accession to the EU is not related to higher homicide rates, neither in descriptive nor in causal terms.",
+  "authors": [
+    {
+      "raw": "Toshkov, Dimiter",
+      "family": "Toshkov",
+      "given": "Dimiter"
+    }
+  ],
+  "authors_text": "Toshkov, Dimiter",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcw016",
+  "doi_url": "https://doi.org/10.1093/esr/jcw016",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcw016",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcw016.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

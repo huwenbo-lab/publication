@@ -1,0 +1,30 @@
+{
+  "title": "The past, present, and future of experimental methods in the social sciences",
+  "abstract": "In the midst of the current causal revolution, experimental methods are increasingly embraced across the social sciences. We first document the growth in the use of the experimental method and then overview the current state of the field along with suggestions for future research. Our review covers the core features of experiments that facilitate causal inference, and we offer numerous examples of different experimental designs and the types of research questions they are well-suited to test. We then harmonize popular but differing perspectives on validity in regard to experiments focused on theoretical considerations. Next, we detail a new framework of purposive sampling for social science experiments, suggesting researchers could benefit from moving beyond only two stock choices of representativeness or convenience. We then discuss issues of analysis unique to experimental data before ending with a critical discussion of null findings, open-science practices, social desirability, and other open debates in the experimental methods literature.",
+  "authors": [
+    {
+      "raw": "Mize, Trenton D.",
+      "family": "Mize",
+      "given": "Trenton D."
+    },
+    {
+      "raw": "Manago, Bianca",
+      "family": "Manago",
+      "given": "Bianca"
+    }
+  ],
+  "authors_text": "Mize, Trenton D.; Manago, Bianca",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2022,
+  "doi": "10.1016/j.ssresearch.2022.102799",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102799",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102799",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102799.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Comparative Panel File: Harmonized Household Panel Surveys from Seven Countries",
+  "abstract": "The Comparative Panel File (CPF) harmonizes the world's largest and longest-running household panel surveys from seven countries: Australia (HILDA), Germany (SOEP), United Kingdom (BHPS and UKHLS), South Korea (KLIPS), Russia (RLMS), Switzerland (SHP), and the United States (PSID). The project aims to support the social science community in the analysis of comparative life course data. The CPF builds on the Cross-National Equivalent File but offers a larger range of variables, larger and more recent samples, an easier and more flexible workflow, and an open science platform for development. The CPF is not a data product but an open-source code that integrates individual and household panel data from all seven surveys into a harmonized three-level data structure. The CPF allows analysing individual trajectories, time trends, contextual effects, and country differences. The project is organized as an open science platform. The CPF version 1.0 contains 2.7 million observations from 360,000 respondents, covering the period from 1968 to 2019 and up to 40 panel waves per respondent. In this data brief, we present the background, design, and content of the CPF.",
+  "authors": [
+    {
+      "raw": "Turek, Konrad",
+      "family": "Turek",
+      "given": "Konrad"
+    },
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    },
+    {
+      "raw": "Leopold, Thomas",
+      "family": "Leopold",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Turek, Konrad; Kalmijn, Matthijs; Leopold, Thomas",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcab006",
+  "doi_url": "https://doi.org/10.1093/esr/jcab006",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab006",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab006.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

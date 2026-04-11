@@ -1,0 +1,30 @@
+{
+  "title": "The association between childlessness and voting turnout in 38 countries",
+  "abstract": "OBJECTIVE This descriptive study aims to analyse the association between childlessness and voting turnout.METHODS We used the first nine rounds of the European Social Survey and logistic regression models to estimate the association between childlessness and having voted in the last national elections using data from 38 countries.RESULTS Our results show that childlessness is negatively associated with voting turnout in general. The association is stronger among individuals who are in the late reproductive lifespan (ages 35 to 39, 40 to 44, and 45 to 49), males, and those with lower education. The analyses show also considerable heterogeneity across countries but without a clear pattern.CONTRIBUTION This descriptive study offers evidence to stimulate more theoretical and empirical research on the relationship between childlessness and voting turnout, which is crucial to better understanding the role of demography in the functioning of democracy.",
+  "authors": [
+    {
+      "raw": "Mogi, Ryohei",
+      "family": "Mogi",
+      "given": "Ryohei"
+    },
+    {
+      "raw": "Arpino, Bruno",
+      "family": "Arpino",
+      "given": "Bruno"
+    }
+  ],
+  "authors_text": "Mogi, Ryohei; Arpino, Bruno",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.14",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

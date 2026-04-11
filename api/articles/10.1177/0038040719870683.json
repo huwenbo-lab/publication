@@ -1,0 +1,35 @@
+{
+  "title": "The Distribution of School Quality: Do Schools Serving Mostly White and High-SES Children Produce the Most Learning?",
+  "abstract": "What is schools' role in the stratification system? One view is that schools are an important mechanism for perpetuating inequality because children from advantaged backgrounds (white and high socioeconomic) enjoy better school learning environments than their disadvantaged peers. But it is difficult to know this with confidence because children's development is a product of both school and nonschool factors, making it a challenge to isolate school's role. A novel approach for isolating school effects is to estimate the difference in learning when school is in versus out, what is called impact. Scholars employing this strategy have come to a remarkable conclusion-that schools serving disadvantaged children produce as much learning as those serving advantaged children. The empirical basis for this position is modest, however, and so we address several shortcomings of the previous research by analyzing a nationally representative sample of about 3,500 children in 270 schools from the Early Childhood Longitudinal Study-Kindergarten Cohort of 2011. With more comprehensive data and better scales, we also find no difference in impact on reading scores across schools serving poor or black children versus those serving nonpoor or white children. These patterns challenge the view that differences in school quality play an important role shaping achievement gaps and prompt us to reconsider theoretical positions regarding schools and inequality.",
+  "authors": [
+    {
+      "raw": "Downey, Douglas B.",
+      "family": "Downey",
+      "given": "Douglas B."
+    },
+    {
+      "raw": "Quinn, David M.",
+      "family": "Quinn",
+      "given": "David M."
+    },
+    {
+      "raw": "Alcaraz, Melissa",
+      "family": "Alcaraz",
+      "given": "Melissa"
+    }
+  ],
+  "authors_text": "Downey, Douglas B.; Quinn, David M.; Alcaraz, Melissa",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2019,
+  "doi": "10.1177/0038040719870683",
+  "doi_url": "https://doi.org/10.1177/0038040719870683",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040719870683",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040719870683.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

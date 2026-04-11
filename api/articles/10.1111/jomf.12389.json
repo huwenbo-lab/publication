@@ -1,0 +1,35 @@
+{
+  "title": "Sole Physical Custody and Mother's Repartnering After Divorce",
+  "abstract": "Research consistently finds that divorced mothers with full-time residential children exhibit lower repartnering rates than mothers whose children also stay with their ex-partners. Yet the selectivity of mothers who take up sole physical custody could have biased the estimations. Using data from the Divorce-in-Flanders study (N=959), the authors model mothers' heterogeneity in the uptaking of sole physical custody as a factor influencing repartnering. They find that failure to account for the endogeneity of sole physical custody leads to a large underestimation of its effect on repartnering. Accounting for its endogeneity, sole physical custody reduced the mother's repartnering rate by 63%, whereas this was just 33% according to the naive estimate. The results suggest that mothers with full-time residential children are disproportionally selected among those who have better chances of repartnering but that sole physical custody itself acts as an important impediment to stepfamily formation following divorce.",
+  "authors": [
+    {
+      "raw": "Schnor, Christine",
+      "family": "Schnor",
+      "given": "Christine"
+    },
+    {
+      "raw": "Pasteels, Inge",
+      "family": "Pasteels",
+      "given": "Inge"
+    },
+    {
+      "raw": "Van Bavel, Jan",
+      "family": "Van Bavel",
+      "given": "Jan"
+    }
+  ],
+  "authors_text": "Schnor, Christine; Pasteels, Inge; Van Bavel, Jan",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2017,
+  "doi": "10.1111/jomf.12389",
+  "doi_url": "https://doi.org/10.1111/jomf.12389",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12389",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12389.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

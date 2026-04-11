@@ -1,0 +1,35 @@
+{
+  "title": "Cash vs. vouchers vs. gifts in web surveys of a mature panel study-Main effects in a long-term incentives experiment across three panel waves",
+  "abstract": "In this study, we evaluate short- and long-term effects of three different prepaid incentives: a ballpoint-pen (gift worth approximately 2 Swiss francs), a voucher (cash card worth 10 Swiss francs) and cash (a 10-Swiss-francs' banknote) on young panellists' cooperation and response rate in three waves of a mature panel study with a sequential multi-mode design (web-based online survey, CATI, and PAPI). The survey experiment involved an alternative procedure to analyse the effect of different types of prepaid incentives, taking selective attrition into account as well as considering problems related to causal inference. The subjects were students, from randomly-selected school classes, who had finished their compulsory school in 2013. The findings are clear: cash provides the strongest direct, positive effect on the overall response rate and also on the latency until response after first contact. The other incentives did not work as efficiently as did cash. Additionally, cash is the most likely to minimise social selectivity in response. Finally, cash provides the potential to convert refusals in previous waves into cooperation.",
+  "authors": [
+    {
+      "raw": "Becker, Rolf",
+      "family": "Becker",
+      "given": "Rolf"
+    },
+    {
+      "raw": "Moser, Sara",
+      "family": "Moser",
+      "given": "Sara"
+    },
+    {
+      "raw": "Glauser, David",
+      "family": "Glauser",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Becker, Rolf; Moser, Sara; Glauser, David",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.02.008",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.02.008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.02.008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.02.008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

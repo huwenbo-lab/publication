@@ -1,0 +1,25 @@
+{
+  "title": "Job relocation and the racial gap in unemployment in Detroit and Chicago, 1980 to 1990",
+  "abstract": "The spatial mismatch hypothesis argues that residential segregation and job decentralization combine to adversely affect the employment opportunities of minorities. While employment is increasingly located outside of central cities, residential segregation prevents minorities from moving closer to suburban jobs. Although this hypothesis has intuitive appeal, there is little consensus regarding its empirical validity. This study (1) constructs detailed geographic measures of changes in employment opportunities, (2) estimates a fixed-effects model of changes in the unemployment rate over time, and (3) accounts for spatial correlation in the error term. Neighborhood-level employment data from 1980 and 1990 are used to measure changes in the distance to jobs from census traces in the Detroit and Chicago metropolitan areas. In both cities, the decentralization of employment and the loss of manufacturing jobs resulted in substantial changes in the spatial distribution of employment The empirical results indicate that a decline in the spatial proximity to employment is associated with an increase in the unemployment rate for blacks.",
+  "authors": [
+    {
+      "raw": "Mouw, T",
+      "family": "Mouw",
+      "given": "T"
+    }
+  ],
+  "authors_text": "Mouw, T",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2000,
+  "doi": "10.2307/2657544",
+  "doi_url": "https://doi.org/10.2307/2657544",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2657544",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2657544.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

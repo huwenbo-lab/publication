@@ -1,0 +1,45 @@
+{
+  "title": "When does criminal victimization undermine generalized trust? A weighted panel analysis of the effects of crime type, frequency, and variety",
+  "abstract": "Scholars from various fields have suggested that criminal victimization can shatter generalized trust. Whereas small average effects in longitudinal studies provide only weak support for this claim, victimization effects may be stronger for specific crime types and multiple victimization. To test this assumption, we estimated various victimization effects by combining Energy weighting with lagged dependent variable models, using data from two-wave panel surveys conducted in 2014/2015 (cohort 1; N = 3401) and 2020/2021 (cohort 2; N = 2932) in two German cities. We found weak evidence that trust-undermining effects of victimization were more pronounced for severe crime types or multiple victimization. Effects were only stronger for violent crimes and some forms of multiple victimization in 2014/2015 but not in 2020/2021. Besides, our weighting procedure implies that our (and probably others') findings for more intense victimization conditions must be viewed with caution, as they suffer from lower internal validity.",
+  "authors": [
+    {
+      "raw": "Kaiser, Florian",
+      "family": "Kaiser",
+      "given": "Florian"
+    },
+    {
+      "raw": "Oberwittler, Dietrich",
+      "family": "Oberwittler",
+      "given": "Dietrich"
+    },
+    {
+      "raw": "Thielmann, Isabel",
+      "family": "Thielmann",
+      "given": "Isabel"
+    },
+    {
+      "raw": "Kleinke, Kristian",
+      "family": "Kleinke",
+      "given": "Kristian"
+    },
+    {
+      "raw": "Greifer, Noah",
+      "family": "Greifer",
+      "given": "Noah"
+    }
+  ],
+  "authors_text": "Kaiser, Florian; Oberwittler, Dietrich; Thielmann, Isabel; Kleinke, Kristian; Greifer, Noah",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2024,
+  "doi": "10.1016/j.ssresearch.2024.103086",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2024.103086",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2024.103086",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2024.103086.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

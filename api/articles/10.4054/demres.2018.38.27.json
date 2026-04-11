@@ -1,0 +1,35 @@
+{
+  "title": "Reexamining trends in premarital sex in the United States",
+  "abstract": "BACKGROUND In a heavily cited paper, Finer (2007) asserted that by age 30, 82% of US women born 1939-1948 engaged in premarital sex, increasing to 94% for those born 1969-1978. Using the same data, our age 30 estimates are 55% and 87% for women born 1939-1948 and 1969-1978. Our analyses thus document strikingly different levels and trends. METHODS We replicate Finer's single-decrement Kaplan-Meier estimates of premarital sex using Cycles 3-6 of the National Survey of Family Growth, the same data as analyzed by him. We then contrast such single-decrement estimates for both premarital sex and first marriage with estimates of the simple percentages in three states: an origin state in which women begin life as never-married virgins and two destination states for first sex and for first marriage, depending on which occurs first. These analyses provide an empirical illustration of the fact that single-decrement estimates cannot be interpreted as simple percentages for demographic processes involving multiple decrements. RESULTS Our cohort estimates document increases in the percent of US women who had premarital sex by age 25, rising from 53% to 75%, 83%, and 87% for those born 1939-1948, 1949-1958, 1959-1968, and 1969-1978, respectively. CONTRIBUTION Our cohort analyses reveal sharp increases in premarital sex for US women born between 1939 and 1968, with increases most rapid for those born in the 1940s and 1950s. Our findings also reemphasize a standard lesson from formal demography - that single-decrement life table estimates cannot be interpreted as simple percentages for a multiple-decrement demographic process.",
+  "authors": [
+    {
+      "raw": "Wu, Lawrence L.",
+      "family": "Wu",
+      "given": "Lawrence L."
+    },
+    {
+      "raw": "Martin, Steven P.",
+      "family": "Martin",
+      "given": "Steven P."
+    },
+    {
+      "raw": "England, Paula",
+      "family": "England",
+      "given": "Paula"
+    }
+  ],
+  "authors_text": "Wu, Lawrence L.; Martin, Steven P.; England, Paula",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.27",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

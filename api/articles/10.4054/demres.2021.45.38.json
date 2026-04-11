@@ -1,0 +1,25 @@
+{
+  "title": "Couples' paid work, state-level unemployment, and first births in the United States",
+  "abstract": "BACKGROUND While most studies analyze male's and female's employment separately, this study adopts a couple-level approach to relate paid work to childbearing in the United States. In addition, building on previous studies suggesting the existence of spillovers from others' unemployment, I explore whether state-level unemployment rates moderate this association. OBJECTIVE First, this study investigates how couples' paid work, i.e., both partners' combination of employment, working hours, inactivity, or unemployment, is associated with first birth. Second, the study tests whether this association varies depending on state unemployment rates across the decades around the Great Recession. METHOD Using the 2003-2017 PSID waves, the probability of a first child across couples' job constellations and aggregate labor market conditions is estimated using a linear probability model. A number of robustness checks are run, including fixed effects models. RESULTS Both men's and women's unemployment similarly lower the probability of a first birth, as does the male breadwinner model. Full-time dual-earner couples display the greatest probability of a first birth. However, rising unemployment rates greatly reduce the advantage of dual-earners compared to single-earner couples. CONCLUSIONS In a context of low public support for childbearing, couples tend to rely on the paid full-time work of both partners to enter parenthood. Moreover, women's work seems as relevant as that of their partners in shaping household childbearing decisions. Aggregate unemployment attenuates these differences, reducing the advantage of full-time dual work. CONTRIBUTION Adopting a couple-level and macro-micro perspective is critical to understanding the link between paid work and fertility dynamics in contemporary societies where women's labor market attachment is strong and labor market uncertainties are growing.",
+  "authors": [
+    {
+      "raw": "Comolli, Chiara Ludovica",
+      "family": "Comolli",
+      "given": "Chiara Ludovica"
+    }
+  ],
+  "authors_text": "Comolli, Chiara Ludovica",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.38",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.38",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.38",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.38.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

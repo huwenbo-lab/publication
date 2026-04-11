@@ -1,0 +1,35 @@
+{
+  "title": "Social inequality in admission chances for prestigious higher education programs in Germany: do application patterns matter?",
+  "abstract": "Research has shown that admission to prestigious higher education programs varies by students' socio-economic status (SES). Access to these programs is characterized by high competition and often rather complex admission procedures. Thus, access may depend not only on students' performance and decisions to apply but also on their application patterns: Where and how they apply, which may vary by social background due to differences in educational achievement, aspirations, and constraints. Using applications to highly prestigious medical programs in Germany, we examine whether admission chances are socially selective even among the positively selected group of applicants, and whether this is due to SES differences in application patterns or performance. Based on complete application register data, we identify application patterns through cluster analysis. We then used the resulting cluster model to predict cluster membership in the 2018 applicant cohort, for which we collected survey data with information on applicants' SES, preferences, and motivations. We find that application patterns vary primarily by applicants' performance (grades and test scores) and SES-specific geographic constraints. However, our multivariate analyses on admission chances show that application patterns do not mediate SES differences in admission chances. Instead, these differences are entirely due to SES differences in applicants' performance.",
+  "authors": [
+    {
+      "raw": "Finger, Claudia",
+      "family": "Finger",
+      "given": "Claudia"
+    },
+    {
+      "raw": "Solga, Heike",
+      "family": "Solga",
+      "given": "Heike"
+    },
+    {
+      "raw": "Elbers, Benjamin",
+      "family": "Elbers",
+      "given": "Benjamin"
+    }
+  ],
+  "authors_text": "Finger, Claudia; Solga, Heike; Elbers, Benjamin",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2024,
+  "doi": "10.1093/esr/jcae024",
+  "doi_url": "https://doi.org/10.1093/esr/jcae024",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcae024",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcae024.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

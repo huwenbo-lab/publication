@@ -1,0 +1,30 @@
+{
+  "title": "With a Little Help from My Peer Clique: Mitigating the Intergenerational Transmission of Poverty",
+  "abstract": "Driven by two theoretical models of the resiliency framework, this paper examines the compensatory and protective role of interacting with peers in late adolescence in inhibiting the intergenerational transmission of poverty into young adulthood. We suggest different compensatory and protective effects of three peer contexts, referring to specific advantages of group-based friendship networks (i.e. cliques) in comparison with dyadic best friendships and romantic relationships. Further, we assume heterogeneity in the peer resilience mechanisms by age, migration background, and gender. Using longitudinal data from the German Socio-Economic Panel and random-effects linear probability models, we indeed find conditional compensatory influences as well as an unconditional protective effect of clique interaction in late adolescence for the intergenerational transmission of poverty. Hence, frequent interaction within friendship cliques compensates the deleterious effect of long-term poverty in adolescence on the risk of poverty in young adulthood with increasing age as well as particularly for first-generation immigrants. Further, the engagement with peer cliques in late adolescence attenuates the association between long-term youth poverty and adulthood poverty and thus helps to protect against the intergenerational transmission of poverty.",
+  "authors": [
+    {
+      "raw": "Fischer-Neumann, Marion",
+      "family": "Fischer-Neumann",
+      "given": "Marion"
+    },
+    {
+      "raw": "Boehnke, Petra",
+      "family": "Boehnke",
+      "given": "Petra"
+    }
+  ],
+  "authors_text": "Fischer-Neumann, Marion; Boehnke, Petra",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2022,
+  "doi": "10.1093/esr/jcac020",
+  "doi_url": "https://doi.org/10.1093/esr/jcac020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcac020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcac020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

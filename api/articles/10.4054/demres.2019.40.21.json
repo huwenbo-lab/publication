@@ -1,0 +1,30 @@
+{
+  "title": "Is there an association between marital exogamy of immigrants and nonmigrants and their mental health? A two-partners approach",
+  "abstract": "OBJECTIVE We study mental health in immigrants and nonmigrants, distinguishing between people in exogamous and endogamous marriages. Our theoretical considerations are based on concepts of the economics of marriage, resources, and conflict. We test two competing hypotheses: Intermarriage may be associated with a gain effect or it may be related to a negative strain effect. METHODS We use SHARE data from waves 1, 2, and 4-6 (2004-2015). Our sample consists of 20,383 individuals living in nine European countries (15% migrants, 85% nonmigrants). The dependent variable is depression measured in the EURO-D scale; we applied mixed-effects linear regression models for repeated observations. RESULTS Overall, we found that migrants in exogamous marriages were more likely to report lower levels of depression than their counterparts in endogamous marriages, whereas nonmigrants in an exogamous marriage reported higher levels of depression. Several types of independent variables explained the total effect of the marriage type on mental health for migrants and nonmigrant men; for nonmigrant women the negative effect remained small but significant. CONCLUSIONS Our results support partially the hypothesis of a gain effect of a mixed marriage for mental health among immigrants, while at the same time suggesting that being in an exogamous marriage has a negative strain effect on mental health for nonmigrants. CONTRIBUTION Our results suggest that the question of the costs and benefits of a mixed marriage should be investigated for migrants as well as for nonmigrants, in order to determine whether such marriages can contribute to a two-sided understanding of immigrant integration.",
+  "authors": [
+    {
+      "raw": "Milewski, Nadja",
+      "family": "Milewski",
+      "given": "Nadja"
+    },
+    {
+      "raw": "Gawron, Annegret",
+      "family": "Gawron",
+      "given": "Annegret"
+    }
+  ],
+  "authors_text": "Milewski, Nadja; Gawron, Annegret",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.21",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.21",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.21",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.21.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

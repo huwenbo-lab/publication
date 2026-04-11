@@ -1,0 +1,30 @@
+{
+  "title": "Divergent Pathways of Gentrification: Racial Inequality and the Social Order of Renewal in Chicago Neighborhoods",
+  "abstract": "Gentrification has inspired considerable debate, but direct examination of its uneven evolution across time and space is rare. We address this gap by developing a conceptual framework on the social pathways of gentrification and introducing a method of systematic social observation using Google Street View to detect visible cues of neighborhood change. We argue that a durable racial hierarchy governs residential selection and, in turn, gentrifying neighborhoods. Integrating census data, police records, prior street-level observations, community surveys, proximity to amenities, and city budget data on capital investments, we find that the pace of gentrification in Chicago from 2007 to 2009 was negatively associated with the concentration of blacks and Latinos in neighborhoods that either showed signs of gentrification or were adjacent and still disinvested in 1995. Racial composition has a threshold effect, however, attenuating gentrification when the share of blacks in a neighborhood is greater than 40 percent. Consistent with theories of neighborhood stigma, we also find that collective perceptions of disorder, which are higher in poor minority neighborhoods, deter gentrification, while observed disorder does not. These results help explain the reproduction of neighborhood racial inequality amid urban transformation.",
+  "authors": [
+    {
+      "raw": "Hwang, Jackelyn",
+      "family": "Hwang",
+      "given": "Jackelyn"
+    },
+    {
+      "raw": "Sampson, Robert J.",
+      "family": "Sampson",
+      "given": "Robert J."
+    }
+  ],
+  "authors_text": "Hwang, Jackelyn; Sampson, Robert J.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122414535774",
+  "doi_url": "https://doi.org/10.1177/0003122414535774",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122414535774",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122414535774.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

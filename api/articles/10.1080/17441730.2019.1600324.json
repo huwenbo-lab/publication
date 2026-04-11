@@ -1,0 +1,30 @@
+{
+  "title": "Land-holding, participation in agriculture and short-term migration in rural India",
+  "abstract": "We analyse a nationally representative data set from India for the year 2013 in order to provide evidence on how short-term migration is affected by household ownership of land and participation in agricultural activities. We estimate a recursive-bivariate-probit model recognising the simultaneity between short-term migration and the decision to operate the land. The results of the likelihood ratio test imply that it would be incorrect to ignore this simultaneity. Households with less than 1 ha of land and those leasing out land are more likely to have a short-term migrant. Households leaving their land fallow, a common occurrence in South Asia, are also more likely to have a short-term migrant. Moreover, the choice of crops and livestock farming has a significant role to play in the migration decision. Current initiatives to increase coverage of irrigation and facilitate access to formal finance could improve the livelihoods of small and marginal farmers, thereby reducing the probability of distress-related short-term migration.",
+  "authors": [
+    {
+      "raw": "Chandrasekhar, S.",
+      "family": "Chandrasekhar",
+      "given": "S."
+    },
+    {
+      "raw": "Sahoo, Soham",
+      "family": "Sahoo",
+      "given": "Soham"
+    }
+  ],
+  "authors_text": "Chandrasekhar, S.; Sahoo, Soham",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2019,
+  "doi": "10.1080/17441730.2019.1600324",
+  "doi_url": "https://doi.org/10.1080/17441730.2019.1600324",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2019.1600324",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2019.1600324.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

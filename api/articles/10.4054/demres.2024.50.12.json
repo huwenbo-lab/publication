@@ -1,0 +1,40 @@
+{
+  "title": "Ageing and diversity: Inequalities in longevity and health in low-mortality countries",
+  "abstract": "BACKGROUND Longevity and old age are two aspects of the same phenomenon, representing a major concern for modern societies. There is universal consensus among scholars about the need for new frameworks and measures to define older people in a more effective and dynamic way. OBJECTIVE The aim of this paper is to compute prospective old-age thresholds (POATs) in six countries characterised by disparate progress in survival. To outline possible strategies to counter population ageing, the paper also examines trends in POAT and disability-free POAT (DF-POAT) in Italy by gender, geographical area, and education. DATA AND METHODS To compute the POAT, we use life tables from the Human Mortality Database (HMD) and the Italian National Institute of Statistics, Istat. In addition, to compute the DF-POAT, data on mortality and health by geographical area and education were retrieved from Istat. RESULTS During the period 1950-2020 the POAT advanced everywhere, albeit in different rhythms by country, gender, and period. However, great differences in POAT and DFPOAT have emerged, depending on place of residence, education, and health. CONCLUSIONS The POAT changes the evaluation of population ageing and could reduce the alarm caused by measures based on static chronological old-age thresholds. Using Italy as a case study, we show that overcoming geographical and social inequalities would counteract the population ageing process.",
+  "authors": [
+    {
+      "raw": "Strozza, Cosmo",
+      "family": "Strozza",
+      "given": "Cosmo"
+    },
+    {
+      "raw": "Egidi, Viviana",
+      "family": "Egidi",
+      "given": "Viviana"
+    },
+    {
+      "raw": "Testa, Maria Rita",
+      "family": "Testa",
+      "given": "Maria Rita"
+    },
+    {
+      "raw": "Caselli, Graziella",
+      "family": "Caselli",
+      "given": "Graziella"
+    }
+  ],
+  "authors_text": "Strozza, Cosmo; Egidi, Viviana; Testa, Maria Rita; Caselli, Graziella",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.12",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

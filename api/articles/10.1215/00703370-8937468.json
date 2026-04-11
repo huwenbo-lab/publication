@@ -1,0 +1,35 @@
+{
+  "title": "Depends Who's Asking: Interviewer Effects in Demographic and Health Surveys Abortion Data",
+  "abstract": "Responses to survey questions about abortion are affected by a wide range of factors, including stigma, fear, and cultural norms. However, we know little about how interviewers might affect responses to survey questions on abortion. The aim of this study is to assess how interviewers affect the probability of women reporting abortions in nationally representative household surveys: Demographic and Health Surveys (DHS). We use cross-classified random intercepts at the level of the interviewer and the sampling cluster in a Bayesian framework to analyze the impact of interviewers on the probability of reporting abortions in 22 DHS conducted worldwide. Household surveys are the only available data we can use to study the determinants and pathways of abortion in detail and in a representative manner. Our analyses are motivated by improving our understanding of the reliability of these data. Results show an interviewer effect accounting for between 0.2% and 50% of the variance in the odds of a woman reporting ever having had an abortion, after women's demographic characteristics are controlled for. In contrast, sampling cluster effects are much lower in magnitude. Our findings suggest the need for additional effort in assessing the causes of abortion underreporting in household surveys, including interviewers' skills and characteristics. This study also has important implications for improving the collection of other sensitive demographic data (e.g., gender-based violence and sexual health). Data quality of responses to sensitive questions could be improved with more attention to interviewers-their recruitment, training, and characteristics. Future analyses will need to account for the role of interviewer to more fully understand possible data biases.",
+  "authors": [
+    {
+      "raw": "Leone, Tiziana",
+      "family": "Leone",
+      "given": "Tiziana"
+    },
+    {
+      "raw": "Sochas, Laura",
+      "family": "Sochas",
+      "given": "Laura"
+    },
+    {
+      "raw": "Coast, Ernestina",
+      "family": "Coast",
+      "given": "Ernestina"
+    }
+  ],
+  "authors_text": "Leone, Tiziana; Sochas, Laura; Coast, Ernestina",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-8937468",
+  "doi_url": "https://doi.org/10.1215/00703370-8937468",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-8937468",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-8937468.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

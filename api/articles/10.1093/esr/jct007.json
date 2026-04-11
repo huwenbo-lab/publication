@@ -1,0 +1,40 @@
+{
+  "title": "Sickness Absence Among Immigrants in Norway: Does Occupational Disparity Matter?",
+  "abstract": "Non-Western immigrants in Norway have more sickness absence than other immigrants and native Norwegians. Measured in wages, income, and positions of authority, non-Western immigrants have less favourable jobs. Using panel data models and matching techniques, we examined whether occupational factors are associated with non-Western immigrants’ greater sickness absence. We found significantly more sickness absence (in terms of the probability and length of absences) for non-Western immigrants compared with native Norwegians, but occupational status explained relatively little of these immigrants’ greater sickness absence. We did not find any between-group gender differences in sickness absence. In all groups, women had more sickness absence than men.",
+  "authors": [
+    {
+      "raw": "Hansen, H.-T.",
+      "family": "Hansen",
+      "given": "H.-T."
+    },
+    {
+      "raw": "Holmas, T. H.",
+      "family": "Holmas",
+      "given": "T. H."
+    },
+    {
+      "raw": "Islam, M. K.",
+      "family": "Islam",
+      "given": "M. K."
+    },
+    {
+      "raw": "Naz, G.",
+      "family": "Naz",
+      "given": "G."
+    }
+  ],
+  "authors_text": "Hansen, H.-T.; Holmas, T. H.; Islam, M. K.; Naz, G.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1093/esr/jct007",
+  "doi_url": "https://doi.org/10.1093/esr/jct007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjct007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jct007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

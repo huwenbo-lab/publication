@@ -1,0 +1,40 @@
+{
+  "title": "Age and Cohort Trends in Formal Volunteering and Informal Helping in Later Life: Evidence From the Health and Retirement Study",
+  "abstract": "Formal volunteering holds great impor tance for the recip i ents of vol un- teer ser vices, indi vid u als who vol un teer, and the wider soci ety. However, how much recent birth cohorts vol un teer in mid dle and late adult hood com pared with ear lier birth cohorts is not well under stood. Even less well-known are the age and cohort trends in infor mal help ing pro vided to friends and neigh bors in later adult hood. Using lon gi tu di- nal data from the Health and Retirement Study, we esti mated age and cohort trends in for mal volunteering and infor mal help ing from 1998 to 2018 for a wide range of birth cohorts born between 1909 and 1958. We used mul ti var i ate, mul ti level mod els based on Bayesian generalized modeling methods to estimate the probabilities of volunteering and infor mal help ing simul ta neously in a sin gle model. Despite hav ing advan tages in human and health cap i tal, recent birth cohorts showed volunteering lev els in late adult- hood that are sim i lar to those of their pre de ces sors. Moreover, more recent birth cohorts were con sis tently less engaged in infor mal help ing than ear lier birth cohorts through out the obser va tion period. More research is needed to illu mi nate the socio cul tural driv ers of changes in help ing behav iors and over all prosocial and civic engage ment.",
+  "authors": [
+    {
+      "raw": "Han, Sae Hwang",
+      "family": "Han",
+      "given": "Sae Hwang"
+    },
+    {
+      "raw": "Shih, Yao-Chi",
+      "family": "Shih",
+      "given": "Yao-Chi"
+    },
+    {
+      "raw": "Burr, Jeffrey A.",
+      "family": "Burr",
+      "given": "Jeffrey A."
+    },
+    {
+      "raw": "Peng, Changmin",
+      "family": "Peng",
+      "given": "Changmin"
+    }
+  ],
+  "authors_text": "Han, Sae Hwang; Shih, Yao-Chi; Burr, Jeffrey A.; Peng, Changmin",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10395916",
+  "doi_url": "https://doi.org/10.1215/00703370-10395916",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10395916",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10395916.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

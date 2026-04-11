@@ -1,0 +1,50 @@
+{
+  "title": "Documenting desegregation: Segregation in American workplaces by race, ethnicity, and sex, 1966-2003",
+  "abstract": "Title VII of the 1964 Civil Rights Act made employment discrimination and segregation on the basis of race, ethnicity, or sex illegal in the United States. Previous research based on analyses of aggregate national trends in occupational segregation suggests that sex and race/ethnic employment segregation has declined in the United States since the 1960s. We add to the existing knowledge base by documenting for the first time male-female, black-white, and Hispanic-white segregation trends using private sector workplace data. The general pattern is that segregation declined for all three categorical comparisons between 1966 and 1980, but after 1980 only sex segregation continued to decline markedly. We estimate regression-based decompositions in the time trends for workplace desegregation to determine whether the observed changes represent change in segregation behavior at the level of workplaces or merely changes in the sectoral and regional distribution of workplaces with stable industrial or local labor market practices. These decompositions suggest that, in addition to desegregation caused by changes in the composition of the population of Equal Employment Opportunity Commission monitored private sector firms, there has been real workplace-level desegregation since 1964.",
+  "authors": [
+    {
+      "raw": "Tomaskovic-Devey, Donald",
+      "family": "Tomaskovic-Devey",
+      "given": "Donald"
+    },
+    {
+      "raw": "Zimmer, Catherine",
+      "family": "Zimmer",
+      "given": "Catherine"
+    },
+    {
+      "raw": "Stainback, Kevin",
+      "family": "Stainback",
+      "given": "Kevin"
+    },
+    {
+      "raw": "Robinson, Corre",
+      "family": "Robinson",
+      "given": "Corre"
+    },
+    {
+      "raw": "Taylor, Tiffany",
+      "family": "Taylor",
+      "given": "Tiffany"
+    },
+    {
+      "raw": "McTague, Tricia",
+      "family": "McTague",
+      "given": "Tricia"
+    }
+  ],
+  "authors_text": "Tomaskovic-Devey, Donald; Zimmer, Catherine; Stainback, Kevin; Robinson, Corre; Taylor, Tiffany; McTague, Tricia",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2006,
+  "doi": "10.1177/000312240607100403",
+  "doi_url": "https://doi.org/10.1177/000312240607100403",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240607100403",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240607100403.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

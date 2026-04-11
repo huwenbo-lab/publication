@@ -1,0 +1,35 @@
+{
+  "title": "The Evolution of Gender Segregation over the Life Course",
+  "abstract": "We propose a measure of gender segregation over the life course that includes differences between women and men in occupational allocation, degree of time involvement in paid work, and their participation in different forms of economic activity and inactivity, such as paid work, homemaking, and retirement. We pool 21 Labour Force Surveys for the United Kingdom to measure, compare, and add up these various forms of segregation-occupational, time-related, and economic-from 1993 to 2013 (n = 1,815,482). The analysis relies on the Strong Group Decomposability property of the Mutual Information index. There are four main findings. First, the marketplace is the major contributor to gender segregation. Second, over the life course, the evolution of gender segregation parallels the inverted U-shaped pattern of the employment rate. Third, a tradeoff between occupational and non-occupational sources of segregation defines three distinct stages in the life course: the prime childbearing years, the years when children are school age, and the retirement years. Fourth, to a large extent, women's heterogeneity drives age patterns in segregation.",
+  "authors": [
+    {
+      "raw": "Guinea-Martin, Daniel",
+      "family": "Guinea-Martin",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Mora, Ricardo",
+      "family": "Mora",
+      "given": "Ricardo"
+    },
+    {
+      "raw": "Ruiz-Castillo, Javier",
+      "family": "Ruiz-Castillo",
+      "given": "Javier"
+    }
+  ],
+  "authors_text": "Guinea-Martin, Daniel; Mora, Ricardo; Ruiz-Castillo, Javier",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2018,
+  "doi": "10.1177/0003122418794503",
+  "doi_url": "https://doi.org/10.1177/0003122418794503",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122418794503",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122418794503.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

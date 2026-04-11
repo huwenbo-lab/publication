@@ -1,0 +1,40 @@
+{
+  "title": "Can Social Media Anti-abuse Policies Work? A Quasi-experimental Study of Online Sexist and Racist Slurs",
+  "abstract": "The authors use the timing of a change in Twitter’s rules regarding abusive content to test the effectiveness of organizational policies aimed at stemming online harassment. Institutionalist theories of social control suggest that such interventions can be efficacious if they are perceived as legitimate, whereas theories of psychological reactance suggest that users may instead ratchet up aggressive behavior in response to the sanctioning authority. In a sample of 3.6 million tweets spanning one month before and one month after Twitter’s policy change, the authors find evidence of a modest positive shift in the average sentiment of tweets with slurs targeting women and/or African Americans. The authors further illustrate this trend by tracking the network spread of specific tweets and individual users. Retweeted messages are more negative than those not forwarded. These patterns suggest that organizational “anti-abuse” policies can play a role in stemming hateful speech on social media without inflaming further abuse.",
+  "authors": [
+    {
+      "raw": "Felmlee, Diane",
+      "family": "Felmlee",
+      "given": "Diane"
+    },
+    {
+      "raw": "DellaPosta, Daniel",
+      "family": "DellaPosta",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Rodis, Paulina d. C. Inara",
+      "family": "Rodis",
+      "given": "Paulina d. C. Inara"
+    },
+    {
+      "raw": "Matthews, Stephen A.",
+      "family": "Matthews",
+      "given": "Stephen A."
+    }
+  ],
+  "authors_text": "Felmlee, Diane; DellaPosta, Daniel; Rodis, Paulina d. C. Inara; Matthews, Stephen A.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2020,
+  "doi": "10.1177/2378023120948711",
+  "doi_url": "https://doi.org/10.1177/2378023120948711",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023120948711",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023120948711.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

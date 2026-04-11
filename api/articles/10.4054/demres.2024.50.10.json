@@ -1,0 +1,35 @@
+{
+  "title": "Measuring short-term mobility patterns in North America using Facebook advertising data, with an application to adjusting COVID-19 mortality rates",
+  "abstract": "BACKGROUND Patterns in short-term population mobility are important to understand, but the data required to measure such movements are often not available from traditional sources. OBJECTIVE To investigate patterns in short-term population mobility in all states and provinces in the United States and Canada using data collected from Facebook's advertising platform. METHODS We collected daily traveler data from Facebook's advertising platform, summarized the main characteristic patterns observed across geographic regions, and also used the traveler rates to adjust COVID-19 mortality rates over the period July 2020 to July 2021. RESULTS Rates of short-term travel vary substantially by geographic area but also by age and sex, with the highest rates of travel generally for males. Strong seasonal patterns are apparent in travel to many areas, with different regions experiencing either increased travel or decreased travel over winter, depending on climate. Further, some areas appear to show marked changes in mobility patterns since the onset of the pandemic. In addition, accounting for travelers in population denominators leads to about a 1% difference in implied mortality rates, with substantial variation across demographic groups and regions. CONCLUSIONS Short -term population mobility can vary substantially over the course of a year, which has implications for resource planning and the population at risk of health outcomes by geography. CONTRIBUTION This work highlights the potential for data collected through social media websites to provide insight into short -term mobility patterns.",
+  "authors": [
+    {
+      "raw": "Katz, Lindsay",
+      "family": "Katz",
+      "given": "Lindsay"
+    },
+    {
+      "raw": "Chong, Michael",
+      "family": "Chong",
+      "given": "Michael"
+    },
+    {
+      "raw": "Alexander, Monica",
+      "family": "Alexander",
+      "given": "Monica"
+    }
+  ],
+  "authors_text": "Katz, Lindsay; Chong, Michael; Alexander, Monica",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.10",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.10",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.10",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.10.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

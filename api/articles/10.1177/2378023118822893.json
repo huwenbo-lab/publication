@@ -1,0 +1,25 @@
+{
+  "title": "Data-Specific Functions: A Comment on Kindel et al.",
+  "abstract": "In this issue, Kindel et al. describe a new approach to managing survey data in service of the Fragile Families Challenge, which they call “treating metadata as data.” Although the approach they present is a good first step, a more ambitious proposal could improve survey data analysis even more substantially. The author recommends that data collection efforts distribute an open-source set of tools for working with a particular data set the author calls data-specific functions. The goal of these functions is to codify best practices for working with the data in a set of functions for commonly used statistical software. These functions would be jointly developed by the users and distributers of the data. Building such functions would both shorten the learning curve for new users and improve the quality of the data, by making tacit knowledge about problems with the data explicit and easy to act on.",
+  "authors": [
+    {
+      "raw": "Fisher, Jacob C.",
+      "family": "Fisher",
+      "given": "Jacob C."
+    }
+  ],
+  "authors_text": "Fisher, Jacob C.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118822893",
+  "doi_url": "https://doi.org/10.1177/2378023118822893",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118822893",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118822893.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

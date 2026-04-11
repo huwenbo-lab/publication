@@ -1,0 +1,30 @@
+{
+  "title": "Two sides of a coin: The relationship between work autonomy and childbearing",
+  "abstract": "ObjectiveThis article investigates the under-researched role of work autonomy, encompassing the control over how, when and where to work, for both the entry into parenthood and the transition to a second child across different social strata in the United Kingdom.BackgroundOver the past three decades, employees have gained increased work autonomy, a trend expected to persist with technological advancements. Work autonomy substantially affects the combination of paid work and family life. But its multifaceted impact on workers' fertility behavior, especially across different educational levels, has remained unclear.MethodThe study employs a sample of partnered women and men from UKHLS 2009-2019 data. Latent Class Analysis incorporates the three dimensions: job, schedule, and workplace controls to identify distinct patterns of work autonomy, which serve as key explanatory variables in event-history models for first and second-birth risks.ResultsWe find no relationship between work autonomy and fertility behavior for men. For highly educated women, work autonomy is negatively related to the transition to motherhood, but positively associated with the risk of having a second child. For less educated women, the relationship between work autonomy and childbearing ranges from negative to non-significant, depending on the specific dimension of autonomy.ConclusionThe study highlights the intricate link between work autonomy and fertility and emphasizes important social stratification in the impact of autonomy on individuals. Further research is needed to unravel the observed duality, that is, understanding the challenges posed by work autonomy for fertility, especially among childless women and those less educated.",
+  "authors": [
+    {
+      "raw": "Osiewalska, Beata",
+      "family": "Osiewalska",
+      "given": "Beata"
+    },
+    {
+      "raw": "Matysiak, Anna",
+      "family": "Matysiak",
+      "given": "Anna"
+    }
+  ],
+  "authors_text": "Osiewalska, Beata; Matysiak, Anna",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2025,
+  "doi": "10.1111/jomf.13066",
+  "doi_url": "https://doi.org/10.1111/jomf.13066",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.13066",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.13066.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Lifespan Variation by Occupational Class: Compression or Stagnation Over Time?",
+  "abstract": "Abstract Cross-sectional analyses of adult lifespan variation have found an inverse association between socioeconomic position and lifespan variation, but the trends by social class are unknown. We investigated trends in lifespan variation over four decades (1971–2010) by occupational social class (manual, lower nonmanual, upper nonmanual, other) using Finnish register data. We performed age and cause-of-death decompositions of lifespan variation for each sex (a) by occupational class over time and (b) between occupational classes at a shared level of life expectancy. Although life expectancy increased in all classes, lifespan variation was stable among manual workers and decreased only among nonmanual classes. These differences were caused by early-adult mortality: older-age lifespan variation declined for all the classes, but variation in early-adult mortality increased for all classes except the highest. The manual class’s high and stagnant lifespan variation was driven by declines in circulatory diseases that were equally spread over early mortality-compressing and older mortality-expanding ages, as well as by high early-adult mortality from external causes. Results were similar for men and women. The results of this study, which is the first to document trends in lifespan variation by social class, suggest that mortality compression is compatible with increasing life expectancy but currently achieved only by higher occupational classes.",
+  "authors": [
+    {
+      "raw": "van Raalte, Alyson A.",
+      "family": "van Raalte",
+      "given": "Alyson A."
+    },
+    {
+      "raw": "Martikainen, Pekka",
+      "family": "Martikainen",
+      "given": "Pekka"
+    },
+    {
+      "raw": "Myrskylä, Mikko",
+      "family": "Myrskylä",
+      "given": "Mikko"
+    }
+  ],
+  "authors_text": "van Raalte, Alyson A.; Martikainen, Pekka; Myrskylä, Mikko",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0253-x",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0253-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0253-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0253-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

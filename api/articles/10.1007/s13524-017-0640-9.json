@@ -1,0 +1,30 @@
+{
+  "title": "Divorce, Separation, and Housing Changes: A Multiprocess Analysis of Longitudinal Data from England and Wales",
+  "abstract": "This study investigates the effect of marital and nonmarital separation on individuals' residential and housing trajectories. Using rich data from the British Household Panel Survey (BHPS) and applying multilevel competing-risks event history models, we analyze the risk of a move of single, married, cohabiting, and separated men and women to different housing types. We distinguish moves due to separation from moves of separated people and account for unobserved codeterminants of moving and separation risks. Our analysis shows that many individuals move due to separation, as expected, but that the likelihood of moving is also relatively high among separated individuals. We find that separation has a long-term effect on individuals' residential careers. Separated women exhibit high moving risks regardless of whether they moved out of the joint home upon separation, whereas separated men who did not move out upon separation are less likely to move. Interestingly, separated women are most likely to move to terraced houses, whereas separated men are equally likely to move to flats (apartments) and terraced (row) houses, suggesting that family structure shapes moving patterns of separated individuals.",
+  "authors": [
+    {
+      "raw": "Mikolai, Julia",
+      "family": "Mikolai",
+      "given": "Julia"
+    },
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    }
+  ],
+  "authors_text": "Mikolai, Julia; Kulu, Hill",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-017-0640-9",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0640-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0640-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0640-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

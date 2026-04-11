@@ -1,0 +1,30 @@
+{
+  "title": "Weekend work and work-family conflict: Evidence from Australian panel data",
+  "abstract": "Objective: This article investigates whether weekend work is associated with higher levels of work-family conflict (WFC) among parents, and whether resources like schedule control or presence of a partner mitigate this effect. Background: The 24/7 economy requires many workers to work on weekends. Nevertheless, research on the impact of weekend work on families, and on WFC in particular, is underdeveloped, with previous studies relying on cross-sectional data and small samples. Method: Associations between regular weekend work and a measure of WFC are examined using data from 14 waves of The Household, Income and Labour Dynamics in Australia (HILDA) Survey. The sample is restricted to workers aged 18-64 years with parenting responsibilities for children aged 17 or less (7747 individuals, 40,192 observations). Both pooled ordinary least squares and fixed-effects regression models are estimated. Results: Among both genders, weekend workers have significantly higher levels of WFC than those who only work weekdays. WFC is particularly high for those who work weekends and simultaneously have little control over their schedule. Furthermore, weekend work affects WFC similarly for couple and single parents and, within dual-earner families, independently of the partner's working schedule. Conclusion: Weekend work generally has a detrimental effect on workers' ability to combine employment with parenting commitments. However, work-domain resources like schedule control can buffer the impact of weekend work.",
+  "authors": [
+    {
+      "raw": "Lass, Inga",
+      "family": "Lass",
+      "given": "Inga"
+    },
+    {
+      "raw": "Wooden, Mark",
+      "family": "Wooden",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Lass, Inga; Wooden, Mark",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12779",
+  "doi_url": "https://doi.org/10.1111/jomf.12779",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12779",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12779.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

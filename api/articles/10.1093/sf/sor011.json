@@ -1,0 +1,30 @@
+{
+  "title": "Development and the Urban and Rural Geography of Mexican Emigration to the United States",
+  "abstract": "Past research on international migration from Mexico to the United States uses geographically-limited data and analyzes emigrant-sending communities in isolation. Theories supported by this research may not explain urban emigration, and this research does not consider connections between rural and urban Mexico. In this study we use national data from Mexico to investigate rural and urban emigration. We find that a central motivation for emigration – self-insurance through labor market diversification – is most relevant to less rural, non-metropolitan places. Paradoxically, while Mexican cities have the lowest rates of emigration, the rural places that are spatially proximate to cities have the highest rates. These findings suggest that while urban development retains emigrants within city borders, it may generate emigration out of neighboring rural places.",
+  "authors": [
+    {
+      "raw": "Hamilton, E. R.",
+      "family": "Hamilton",
+      "given": "E. R."
+    },
+    {
+      "raw": "Villarreal, A.",
+      "family": "Villarreal",
+      "given": "A."
+    }
+  ],
+  "authors_text": "Hamilton, E. R.; Villarreal, A.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2011,
+  "doi": "10.1093/sf/sor011",
+  "doi_url": "https://doi.org/10.1093/sf/sor011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsor011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sor011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

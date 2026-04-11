@@ -1,0 +1,30 @@
+{
+  "title": "Can fertility decline help explain gender pay convergence?",
+  "abstract": "Prior scholarship demonstrates that motherhood wage penalties and fatherhood wage premiums contribute to the gender pay gap. These analyses typically take a cross-sectional perspective, asking to what extent gender inequalities in the association between parenthood and wages can explain gender pay inequality for a given cohort or at a given moment in time. By contrast, explorations of gender pay convergence over time have tended to start at the firm's door, testing the explanatory power of changes in men's and women's human capital and job characteristics and neglecting the contributions of fertility change. We bring these two strands of research together, asking to what extent declines 1980-2018 in US employees' number of children can explain gender pay convergence over the same period. Using a descriptive decomposition and data from the Panel Study of Income Dynamics, we show that, in gross terms, fertility decline can explain almost one-quarter of gender pay convergence from 1980 to 2018. Even net of a host of controls for human capital and job characteristics, fertility decline explains 8 percent of the attenuation of the US gender pay gap 1980-2018-about half as much as changes in education and about a quarter as much as changes in full-time work experience and job tenure combined. Finally, we show that employees' fertility decline was fastest in the 1980s and subsequently slowed; this, in conjunction with persistent gender differences in parenthood- wage associations, helps explain stalled progress toward gender pay parity.",
+  "authors": [
+    {
+      "raw": "Killewald, Alexandra",
+      "family": "Killewald",
+      "given": "Alexandra"
+    },
+    {
+      "raw": "Cricco, Nino Jose",
+      "family": "Cricco",
+      "given": "Nino Jose"
+    }
+  ],
+  "authors_text": "Killewald, Alexandra; Cricco, Nino Jose",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2025,
+  "doi": "10.1093/sf/soae153",
+  "doi_url": "https://doi.org/10.1093/sf/soae153",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoae153",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soae153.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

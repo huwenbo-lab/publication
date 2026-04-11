@@ -1,0 +1,30 @@
+{
+  "title": "Personal and Social Worries Associated with the Likelihood of Having Children",
+  "abstract": "Previous studies showed that worries about the economic situation and job security are associated with childbearing, but evidence is scarce on whether worries about other personal and social issues are also related to childbearing. Drawing on the German Socio-Economic Panel Study, this study examined the relationship between worries about various personal and social issues and the likelihood of having children. Based on exploratory factor analysis, worries were categorized into social/environment and economy/safety factors. Cox regression models showed that social/environment worries were associated with a decreased likelihood of having children, even after adjusting for sociodemographic characteristics, personality traits, and political attitudes. Among specific worries, concerns about environmental protection, climate change, personal health, peace, immigration to Germany, and hostility toward immigrants were linked to a decreased likelihood of having children. Notably, worries about the economy in general were strongly associated with a reduced probability of becoming a parent among childless individuals, with a 25 percent lower likelihood for those highly worried about it. Similarly, childless individuals highly worried about climate change exhibit a 16 percent lower likelihood of parenthood. Our findings highlight the role of other worries in childbearing in addition to economic uncertainty and suggest that fertility decreases when the future is perceived as uncertain.",
+  "authors": [
+    {
+      "raw": "Golovina, Kateryna",
+      "family": "Golovina",
+      "given": "Kateryna"
+    },
+    {
+      "raw": "Jokela, Markus",
+      "family": "Jokela",
+      "given": "Markus"
+    }
+  ],
+  "authors_text": "Golovina, Kateryna; Jokela, Markus",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2024,
+  "doi": "10.1111/padr.12646",
+  "doi_url": "https://doi.org/10.1111/padr.12646",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12646",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12646.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

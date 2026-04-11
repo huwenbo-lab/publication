@@ -1,0 +1,25 @@
+{
+  "title": "Discovering complex interrelationships between socioeconomic status and health in Europe: A case study applying Bayesian Networks",
+  "abstract": "Studies assume that socioeconomic status determines individuals' states of health, but how does health determine socioeconomic status? And how does this association vary depending on contextual differences? To answer this question, our study uses an additive Bayesian Networks model to explain the interrelationships between health and socioeconomic determinants using complex and messy data. This model has been used to find the most probable structure in a network to describe the interdependence of these factors in five European welfare state regimes. The advantage of this study is that it offers a specific picture to describe the complex interrelationship between socioeconomic determinants and health, producing a network that is controlled by socio-demographic factors such as gender and age. The present work provides a general framework to describe and understand the complex association between socioeconomic determinants and health. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Alvarez-Galvez, Javier",
+      "family": "Alvarez-Galvez",
+      "given": "Javier"
+    }
+  ],
+  "authors_text": "Alvarez-Galvez, Javier",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2015.12.011",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2015.12.011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2015.12.011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2015.12.011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

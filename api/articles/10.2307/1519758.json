@@ -1,0 +1,30 @@
+{
+  "title": "Space meets time: Integrating temporal and contextual influences on mental health in early adulthood",
+  "abstract": "The integration of temporal life course perspectives and current social context perspectives is considered as a framework for the understanding of mental health differences in early adulthood, a formative stage in the development of long-term mental health differences. Using data from the National Survey of Children and a cross-nested random effects model to simultaneously assess the effects of current and past neighborhood, the authors find a lagged effect of childhood neighborhood socioeconomic disadvantage on early adult mental health, while accounting for initial mental health status. This lagged effect also explains the apparent (bivariate) effect of current neighborhood. Four hypotheses are assessed to explain the lagged effect of neighborhood: contextual continuity, mental health continuity, life course stress accumulation, and ambient chronic stress in the neighborhood. Support is found for a cumulative mediating effect of both life course stress and ambient neighborhood stress as children grow up; together, these variables entirely explain the lagged effect of early neighborhood. Findings suggest the need for a more temporal life course approach to the specification of social context effects in general, focusing on the history of social contexts that individuals live in and move through. Temporal-contextual perspectives also encourage a focus on theoretical models that can differentially locate formative contextual influences at different stages in the life course.",
+  "authors": [
+    {
+      "raw": "Wheaton, B",
+      "family": "Wheaton",
+      "given": "B"
+    },
+    {
+      "raw": "Clarke, P",
+      "family": "Clarke",
+      "given": "P"
+    }
+  ],
+  "authors_text": "Wheaton, B; Clarke, P",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2003,
+  "doi": "10.2307/1519758",
+  "doi_url": "https://doi.org/10.2307/1519758",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F1519758",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/1519758.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

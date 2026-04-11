@@ -1,0 +1,35 @@
+{
+  "title": "Working Conditions in Global Value Chains: Evidence for European Employees",
+  "abstract": "This article investigates a sample of almost nine million workers from 24 European countries in 2014 to conclude how involvement in global value chains (GVCs) affects working conditions. We use employer–employee data from the Structure of Earnings Survey merged with industry-level statistics on GVCs based on the World Input-Output Database. Given the multidimensional nature of the dependent variable, we compare estimates of the Mincerian wage model with zero-inflated beta regressions focused on other aspects of working conditions (overtime work and bonus payments). Wages prove to be negatively related to involvement in GVCs: workers in the more deeply involved sectors have lower and less stable earnings, implying worse working conditions. However, they are also less likely to have to work overtime. We prove that the analysis of social implications of increasing involvement of countries in global production must compare wage effects of GVCs with other aspects of complex changes in workers’ well-being.",
+  "authors": [
+    {
+      "raw": "Nikulin, Dagmara",
+      "family": "Nikulin",
+      "given": "Dagmara"
+    },
+    {
+      "raw": "Wolszczak-Derlacz, Joanna",
+      "family": "Wolszczak-Derlacz",
+      "given": "Joanna"
+    },
+    {
+      "raw": "Parteka, Aleksandra",
+      "family": "Parteka",
+      "given": "Aleksandra"
+    }
+  ],
+  "authors_text": "Nikulin, Dagmara; Wolszczak-Derlacz, Joanna; Parteka, Aleksandra",
+  "journal": "Work, Employment and Society",
+  "journal_slug": "Work_Employment_and_Society",
+  "year": 2021,
+  "doi": "10.1177/0950017020986107",
+  "doi_url": "https://doi.org/10.1177/0950017020986107",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0950017020986107",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0950017020986107.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Work_Employment_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Work_Employment_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:34"
+}

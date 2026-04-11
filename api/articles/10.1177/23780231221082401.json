@@ -1,0 +1,35 @@
+{
+  "title": "Race-Specific, State-Specific COVID-19 Vaccination Rates Adjusted for Age",
+  "abstract": "The authors provide the first age-standardized race/ethnicity-specific, state-specific vaccination rates for the United States. Data encompass all states reporting race/ethnicity-specific vaccinations and reflect vaccinations through mid-October 2021, just before eligibility expanded below age 12. Using indirect age standardization, the authors compare racial/ethnic state vaccination rates with national rates. The results show that white and Black state median vaccination rates are, respectively, 89 percent and 76 percent of what would be predicted on the basis of age; Hispanic and Native rates are almost identical to what would be predicted; and Asian American/Pacific Islander rates are 110 percent of what would be predicted. The authors also find that racial/ethnic vaccination rates are associated with state politics, as proxied by 2020 Trump vote share: for each percentage point increase in Trump vote share, vaccination rates decline by 1.08 percent of what would be predicted on the basis of age. This decline is sharpest for Native American vaccinations, although these are reported for relatively few states.",
+  "authors": [
+    {
+      "raw": "Wrigley-Field, Elizabeth",
+      "family": "Wrigley-Field",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Berry, Kaitlyn M.",
+      "family": "Berry",
+      "given": "Kaitlyn M."
+    },
+    {
+      "raw": "Persad, Govind",
+      "family": "Persad",
+      "given": "Govind"
+    }
+  ],
+  "authors_text": "Wrigley-Field, Elizabeth; Berry, Kaitlyn M.; Persad, Govind",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221082401",
+  "doi_url": "https://doi.org/10.1177/23780231221082401",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221082401",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221082401.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

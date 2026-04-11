@@ -1,0 +1,35 @@
+{
+  "title": "Gender balance in the workforce and abortion attitudes: A cross-national time-series analysis",
+  "abstract": "This article explores the relationship between gender balance in the workforce and attitudes towards abortion worldwide. Studies on macro-level conditions related to abortion attitudes overlook the role of gender balance in the workforce-specifically the degree of female representation in a country's workforce. There are strong reasons why this factor could shape abortion attitudes. We argue that such a gender balance creates necessary conditions to break with traditional, anti-abortion ideology and facilitates dissemination and public acceptance of pro-choice views. We test this argument with two different datasets - the Integrated Values Survey and three waves of the International Social Survey Programme-along with two outcomes: general tolerance towards abortion and tolerance towards abortion for pregnant women of low income. Using three-level random intercept models and multiple controls for individual and country-level conditions, the results support our hypothesis: In countries with higher gender balance in the workforce, individuals display higher tolerance towards abortion.",
+  "authors": [
+    {
+      "raw": "Fernandez, Juan J. J.",
+      "family": "Fernandez",
+      "given": "Juan J. J."
+    },
+    {
+      "raw": "Valiente, Celia",
+      "family": "Valiente",
+      "given": "Celia"
+    },
+    {
+      "raw": "Jaime-Castillo, Antonio M. M.",
+      "family": "Jaime-Castillo",
+      "given": "Antonio M. M."
+    }
+  ],
+  "authors_text": "Fernandez, Juan J. J.; Valiente, Celia; Jaime-Castillo, Antonio M. M.",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2023,
+  "doi": "10.1111/1468-4446.13044",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13044",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13044",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13044.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

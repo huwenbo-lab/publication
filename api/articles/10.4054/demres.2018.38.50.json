@@ -1,0 +1,30 @@
+{
+  "title": "A regional perspective on the economic determinants of urban transition in 19th-century France",
+  "abstract": "BACKGROUND Past analyses lead to contradictory results as to whether migration, demographic transition, or economic development is the main driver of urban transition. Results depend heavily on the analytical strategy. OBJECTIVE This paper's aim is to identify different profiles of economic activity and their effect on urban transition over the 19th century in France to test three hypotheses: economic development acts on urban transition through migration; political and economic shocks better explain variations in the migration component of urbanisation than its natural components; the diffusion of the urban growth model of large cities explains urban transition in peripheral areas. METHOD The paper uses census data from 80 French counties - excluding Paris, Corsica, and counties disputed by Germany and Italy - for 1856 to 1891. Each component of urbanisation at county level is regressed on employment structure, controlling for neighbouring urbanisation and for distance to Paris and nearest large city. RESULTS Results confirm conclusions for Sweden and Belgium demonstrating that migration drove 19th-century urban transition. The migration component of urban transition is far more sensitive to employment structure and to political and economic instability than the natural components. The diffusion effect is marginal. CONCLUSIONS Results concur with the hypothesis that the redistribution of economic production through migration, and not the demographic transition, drove the urban transition. CONTRIBUTION The relationship between economic development and urban transition is assessed through the interaction of employment profile and period. Similar methodology could be used to analyse urban transition in contemporary low- and middle-income countries.",
+  "authors": [
+    {
+      "raw": "Bocquier, Philippe",
+      "family": "Bocquier",
+      "given": "Philippe"
+    },
+    {
+      "raw": "Bree, Sandra",
+      "family": "Bree",
+      "given": "Sandra"
+    }
+  ],
+  "authors_text": "Bocquier, Philippe; Bree, Sandra",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.50",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.50",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.50",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.50.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Increasing inter-generational social mobility: is educational expansion the answer?",
+  "abstract": "Reforms which increase the stock of education in a society have long been held by policy-makers as key to improving rates of intergenerational social mobility. Yet, despite the intuitive plausibility of this idea, the empirical evidence in support of an effect of educational expansion on social fluidity is both indirect and weak. In this paper we use the raising of the minimum school leaving age from 15 to 16 years in England and Wales in 1972 to estimate the effect of educational participation and qualification attainment on rates of intergenerational social class mobility. Because, in expectation, children born immediately before and after the policy was implemented are statistically exchangeable, the difference in the amount of education they received may be treated as exogenously determined. The exogenous nature of the additional education gain means that differences in rates of social mobility between cohorts affected by the reform can be treated as having been caused by the additional education. The data for the analysis come from the ONS Longitudinal Study, which links individual records from successive decennial censuses between 1971 and 2001. Our findings show that, although the reform resulted in an increase in educational attainment in the population as a whole and a weakening of the association between attainment and class origin, there was no reliably discernible increase in the rate of intergenerational social mobility.",
+  "authors": [
+    {
+      "raw": "Sturgis, Patrick",
+      "family": "Sturgis",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Buscha, Franz",
+      "family": "Buscha",
+      "given": "Franz"
+    }
+  ],
+  "authors_text": "Sturgis, Patrick; Buscha, Franz",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2015,
+  "doi": "10.1111/1468-4446.12138",
+  "doi_url": "https://doi.org/10.1111/1468-4446.12138",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.12138",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.12138.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

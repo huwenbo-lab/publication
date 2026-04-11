@@ -1,0 +1,45 @@
+{
+  "title": "Demographic Differences in Responses to a Two-Step Gender Identity Measure",
+  "abstract": "Strategies for including noncisgender responses in demographic analyses remain subjects of ongoing debate and refinement. The Household Pulse Survey is one of the first data products by the U.S. Census Bureau to incorporate a two-step gender identity measure. This is significant because the survey, although experimental, is one of the largest federal nationally representative samples (n = 668,273) that allows for the enumeration of noncisgender people. These data allow researchers to examine how respondents' selection of different response categories may differ across their demographic characteristics. Many studies using a two-step gender measure either exclude noncisgender respondents or aggregate them into a single analytic group, obscuring within-group heterogeneity. We find significant socioeconomic differences between cisgender and noncisgender responses, with cisgender individuals generally faring better. There is additional heterogeneity within noncisgender groups: for example, individuals who mark \"transgender\" are more likely to identify as non-heterosexual, never married, and those outside defined gender categories often report \"don't know\" or \"something else\" about their sexual identity. Although differences persist between cisgender and noncisgender populations, this work emphasizes the need to also perform within-group analyses (e.g., with a two-step measure) to capture the unique and shared experiences of noncisgender populations.",
+  "authors": [
+    {
+      "raw": "Pao, Christina",
+      "family": "Pao",
+      "given": "Christina"
+    },
+    {
+      "raw": "Julian, Christopher",
+      "family": "Julian",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Compton, D’Lane",
+      "family": "Compton",
+      "given": "D’Lane"
+    },
+    {
+      "raw": "Lagos, Danya",
+      "family": "Lagos",
+      "given": "Danya"
+    },
+    {
+      "raw": "Stacey, Lawrence",
+      "family": "Stacey",
+      "given": "Lawrence"
+    }
+  ],
+  "authors_text": "Pao, Christina; Julian, Christopher; Compton, D’Lane; Lagos, Danya; Stacey, Lawrence",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2025,
+  "doi": "10.15195/v12.a13",
+  "doi_url": "https://doi.org/10.15195/v12.a13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv12.a13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v12.a13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

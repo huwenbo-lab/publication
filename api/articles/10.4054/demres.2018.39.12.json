@@ -1,0 +1,30 @@
+{
+  "title": "When working isn't enough: Family demographic processes and in-work poverty across the life course in the United States",
+  "abstract": "BACKGROUND In-work poverty, a phenomenon that engenders social exclusion, is exceptionally high in the United States. The literature on in-work poverty focuses on occupational polarization, human capital, demographic characteristics, and welfare generosity. However, we have no knowledge on the effects of family demographic processes on in-work poverty across individuals' life courses. OBJECTIVE We estimate the risk of in-work poverty in the United States over the life course as a function of family demographic processes, namely leaving the parental home, union formation and dissolution, and the transition to parenthood. METHODS We use data from the 1979 National Longitudinal Survey of Youth (NLSY79) and fixed effects regression models with interactions between age and each family demographic process to estimate age-specific associations between these processes and the probability of in-work poverty. RESULTS In-work poverty is a common phenomenon across the life courses of our study cohort: 20% of individuals are at risk of in-work poverty at every age. However, the risk generally decreases for men and increases for women across the life course. Leaving the parental home, entering parenthood, and separation increase, while marriage decreases the risk of in-work poverty. While the associations between marital statuses and in-work poverty are stable over the life course, the associations between parental home leaving and fertility with in-work poverty vary by age. CONTRIBUTION Our findings demonstrate the importance of family demographic processes over and above traditional stratification factors for the risk of in-work poverty. Associations between family demographic processes and in-work poverty estimated for all age groups may be grossly underestimated.",
+  "authors": [
+    {
+      "raw": "Van Winkle, Zachary",
+      "family": "Van Winkle",
+      "given": "Zachary"
+    },
+    {
+      "raw": "Struffolino, Emanuela",
+      "family": "Struffolino",
+      "given": "Emanuela"
+    }
+  ],
+  "authors_text": "Van Winkle, Zachary; Struffolino, Emanuela",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.39.12",
+  "doi_url": "https://doi.org/10.4054/demres.2018.39.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.39.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.39.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

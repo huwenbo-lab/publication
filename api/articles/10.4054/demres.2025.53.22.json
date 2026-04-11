@@ -1,0 +1,30 @@
+{
+  "title": "Online obituaries as a complementary source of data for mortality in Canada",
+  "abstract": "BACKGROUND Obituaries and death notices have existed for centuries as a form of commemoration, particularly in Western countries. With the rise of the internet, these records have become more accessible, presenting a valuable, largely untapped source for mortality research. OBJECTIVE We aim to collect online obituaries through web scraping and evaluate their representativeness, advantages, and limitations for use in mortality studies in Canada's two largest provinces: Quebec and Ontario. METHODS We web scraped 236,290 and 288,623 obituaries for Quebec and Ontario, respectively, spanning the years 2017 to 2022. Using regular expressions, a formal language for defining text-search patterns, we derived demographic variables from the text to compute mortality measures, which we then compared to a gold-standard vital statistics dataset. RESULTS Although obituaries in Quebec and Ontario respectively account for only half and onethird of all recorded deaths, the age and gender distributions they capture closely align with those of the general population. Infant deaths remain notably underrepresented. Life expectancy estimates derived from obituaries exceed official figures by 0.4 years for women and 0.5 for men, while the modal age at death is slightly underestimated. Despite these limitations, the timeliness and demographic representativeness of online obituaries make them a valuable supplement to conventional mortality datasets in Canada. CONTRIBUTION This study draws attention to an underused data source by leveraging Canada's bilingual context and developing methods for extracting demographic information from both French and English obituaries. We contribute to digital and computational demography by detailing techniques for web scraping, data cleaning, extraction, and validation, and by assessing coverage, age structures, gender disparities, and inherent biases in this type of textual data.",
+  "authors": [
+    {
+      "raw": "Violo, Pietro",
+      "family": "Violo",
+      "given": "Pietro"
+    },
+    {
+      "raw": "Ouellette, Nadine",
+      "family": "Ouellette",
+      "given": "Nadine"
+    }
+  ],
+  "authors_text": "Violo, Pietro; Ouellette, Nadine",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.22",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.22",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.22",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.22.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

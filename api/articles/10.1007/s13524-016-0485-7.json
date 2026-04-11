@@ -1,0 +1,45 @@
+{
+  "title": "Progress on Poverty? New Estimates of Historical Trends Using an Anchored Supplemental Poverty Measure",
+  "abstract": "This study examines historical trends in poverty using an anchored version of the U.S. Census Bureau's recently developed Research Supplemental Poverty Measure (SPM) estimated back to 1967. Although the SPM is estimated each year using a quasi-relative poverty threshold that varies over time with changes in families' expenditures on a core basket of goods and services, this study explores trends in poverty using an absolute, or anchored, SPM threshold. We believe the anchored measure offers two advantages. First, setting the threshold at the SPM's 2012 levels and estimating it back to 1967, adjusted only for changes in prices, is more directly comparable to the approach taken in official poverty statistics. Second, it allows for a better accounting of the roles that social policy, the labor market, and changing demographics play in trends in poverty rates over time, given that changes in the threshold are held constant. Results indicate that unlike official statistics that have shown poverty rates to be fairly flat since the 1960s, poverty rates have dropped by 40 % when measured using a historical anchored SPM over the same period. Results obtained from comparing poverty rates using a pretax/pretransfer measure of resources versus a post-tax/post-transfer measure of resources further show that government policies, not market incomes, are driving the declines observed over time.",
+  "authors": [
+    {
+      "raw": "Wimer, Christopher",
+      "family": "Wimer",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Fox, Liana",
+      "family": "Fox",
+      "given": "Liana"
+    },
+    {
+      "raw": "Garfinkel, Irwin",
+      "family": "Garfinkel",
+      "given": "Irwin"
+    },
+    {
+      "raw": "Kaushal, Neeraj",
+      "family": "Kaushal",
+      "given": "Neeraj"
+    },
+    {
+      "raw": "Waldfogel, Jane",
+      "family": "Waldfogel",
+      "given": "Jane"
+    }
+  ],
+  "authors_text": "Wimer, Christopher; Fox, Liana; Garfinkel, Irwin; Kaushal, Neeraj; Waldfogel, Jane",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0485-7",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0485-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0485-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0485-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

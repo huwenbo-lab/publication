@@ -1,0 +1,35 @@
+{
+  "title": "Population change and the legacy of slavery",
+  "abstract": "Despite increasing evidence of a contemporary legacy of slavery in the US South, scholars do not have a clear empirical understanding of the ways in which demographic forces can alter local connections to racial histories. In this study, we examine the influence of long-run trends in population change on the relationship between historical slave concentration and contemporary black-white poverty inequality in the American South. We combine one century and a half of county-level population data, including estimates of the slave and total populations in 1860, estimates of black and white population change starting in 1880, and black-white poverty disparities from the 2011-2015 American Community Survey. Our results offer new empirical evidence regarding the enduring influence of racial histories over time, and suggest that white population increase between 1880 and 1910 was particularly influential in understanding the local connection between slave concentration and black-white inequality. Moreover, rather than disrupting the transmission of the legacy of slavery, results indicate that white population increase may have helped spread this legacy of racial inequality to other counties through diffusion processes. We find that while local historical legacies are persistent, they are not permanent, and population trends are a critical force shaping local racial inequality.",
+  "authors": [
+    {
+      "raw": "O'Connell, Heather A.",
+      "family": "O'Connell",
+      "given": "Heather A."
+    },
+    {
+      "raw": "Curtis, Katherine J.",
+      "family": "Curtis",
+      "given": "Katherine J."
+    },
+    {
+      "raw": "DeWaard, Jack",
+      "family": "DeWaard",
+      "given": "Jack"
+    }
+  ],
+  "authors_text": "O'Connell, Heather A.; Curtis, Katherine J.; DeWaard, Jack",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2020,
+  "doi": "10.1016/j.ssresearch.2020.102413",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2020.102413",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2020.102413",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2020.102413.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

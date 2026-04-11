@@ -1,0 +1,30 @@
+{
+  "title": "Toward Best Practices in Analyzing Datasets with Missing Data: Comparisons and Recommendations",
+  "abstract": "Although several methods have been developed to allow for the analysis of data in the presence of missing values, no clear guide exists to help family researchers in choosing among the many options and procedures available. We delineate these options and examine the sensitivity of the findings in a regression model estimated in three random samples from the National Survey of Families and Households (n = 250–2,000). These results, combined with findings from simulation studies, are used to guide answers to a set of 10 common questions asked by researchers when selecting a missing data approach. Modern missing data techniques were found to perform better than traditional ones, but differences between the types of modern approaches had minor effects on the estimates and substantive conclusions. Our findings suggest that the researcher has considerable flexibility in selecting among modern options for handling missing data.",
+  "authors": [
+    {
+      "raw": "Johnson, David R.",
+      "family": "Johnson",
+      "given": "David R."
+    },
+    {
+      "raw": "Young, Rebekah",
+      "family": "Young",
+      "given": "Rebekah"
+    }
+  ],
+  "authors_text": "Johnson, David R.; Young, Rebekah",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2011,
+  "doi": "10.1111/j.1741-3737.2011.00861.x",
+  "doi_url": "https://doi.org/10.1111/j.1741-3737.2011.00861.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1741-3737.2011.00861.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1741-3737.2011.00861.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

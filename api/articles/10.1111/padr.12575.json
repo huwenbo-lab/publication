@@ -1,0 +1,30 @@
+{
+  "title": "The Early Bird Catches the Worm: The Effect of Birth Order on Old-Age Mortality",
+  "abstract": "Previous studies explore the role of birth order in children's and adults' outcomes. This literature usually provides evidence of disadvantage of children with higher birth order. A narrow strand of this literature explores the association between birth order and old-age mortality. This study re-visits the birth-order-longevity relationship using US data. We employ Social Security Administration death records between the years 1988 and 2005 linked to the 1940 full-count census and implement family fixed effect strategy to compare within-sibling differences in the outcome. The findings suggest that later-born children live, on average, 1-3 fewer months of life. The observed associations are exclusively concentrated among whites. However, the results do not point to significant heterogeneity based on family socioeconomic status, maternal education, and gender. Additional analyses suggest that higher birth order is associated with negative early educational outcomes.",
+  "authors": [
+    {
+      "raw": "Noghanibehambari, Hamid",
+      "family": "Noghanibehambari",
+      "given": "Hamid"
+    },
+    {
+      "raw": "Fletcher, Jason",
+      "family": "Fletcher",
+      "given": "Jason"
+    }
+  ],
+  "authors_text": "Noghanibehambari, Hamid; Fletcher, Jason",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2023,
+  "doi": "10.1111/padr.12575",
+  "doi_url": "https://doi.org/10.1111/padr.12575",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12575",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12575.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

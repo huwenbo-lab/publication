@@ -1,0 +1,35 @@
+{
+  "title": "Parental separation and children's education in a comparative perspective: Does the burden disappear when separation is more common?",
+  "abstract": "BACKGROUND Parental breakup has, on average, a net negative effect on children's education. However, it is unclear whether this negative effect changes when parental separation becomes more common. OBJECTIVE We studied the variations in the effect of parental separation on children's chances of obtaining tertiary education across cohorts and countries with varying divorce rates. METHOD We applied country and cohort fixed-effect models as well as random-effect models to data from the first wave of the Generations and Gender Survey, complemented by selected macro-level indicators (divorce rate and educational expansion). RESULTS Country fixed-effect logistic regressions show that the negative effect of experiencing parental separation is stronger in more-recent birth cohorts. Random-intercept linear probability models confirm that the negative effect of parental breakup is significantly stronger when divorce is more common. CONCLUSIONS The results support the low-conflict family dissolution hypothesis, which explains the trend by a rising proportion of low-conflict breakups. A child from a dissolving low-conflict family is likely to be negatively affected by family dissolution, whereas a child from a high-conflict dissolving family experiences relief. As divorce becomes more common and more low-conflict couples separate, more children are negatively affected, and hence, the average effect of breakup is more negative. CONTRIBUTION We show a significant variation in the size of the effect of parental separation on children's education; the effect becomes more negative when family dissolution is more common.",
+  "authors": [
+    {
+      "raw": "Kreidl, Martin",
+      "family": "Kreidl",
+      "given": "Martin"
+    },
+    {
+      "raw": "Stipkova, Martina",
+      "family": "Stipkova",
+      "given": "Martina"
+    },
+    {
+      "raw": "Hubatkova, Barbora",
+      "family": "Hubatkova",
+      "given": "Barbora"
+    }
+  ],
+  "authors_text": "Kreidl, Martin; Stipkova, Martina; Hubatkova, Barbora",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.3",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

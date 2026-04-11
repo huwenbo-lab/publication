@@ -1,0 +1,35 @@
+{
+  "title": "Poor Health Reporting? Using Anchoring Vignettes to Uncover Health Disparities by Wealth and Race",
+  "abstract": "In spite of the wide disparities in wealth and in objective health measures like mortality, observed inequality by wealth in self-reported health appears to be nearly nonexistent in low- to middle-income settings. To determine the extent to which this is driven by reporting tendencies, we use anchoring vignettes to test and correct for reporting heterogeneity in health among elderly South Africans. Significant reporting differences across wealth groups are detected. Poorer individuals rate the same health state description more positively than richer individuals. Only after we correct for these differences does a significant and substantial health disadvantage of the poor emerge. We also find that health inequality and reporting heterogeneity are confounded by race. Within race groups-especially among black Africans and to a lesser degree among whites-heterogeneous reporting leads to an underestimation of health inequalities between richest and poorest. More surprisingly, we also show that the correction may go in the opposite direction: the apparent black African (vs. white) health disadvantage within the top wealth quintile almost disappears after we correct for reporting tendencies. Such large shifts and even reversals of health gradients have not been documented in previous studies on reporting bias in health inequalities. The evidence for South Africa, with its history of racial segregation and socioeconomic inequality, highlights that correction for reporting matters greatly when using self-reported health measures in countries with such wide disparities.",
+  "authors": [
+    {
+      "raw": "Rossouw, Laura",
+      "family": "Rossouw",
+      "given": "Laura"
+    },
+    {
+      "raw": "d'Uva, Teresa Bago",
+      "family": "d'Uva",
+      "given": "Teresa Bago"
+    },
+    {
+      "raw": "van Doorslaer, Eddy",
+      "family": "van Doorslaer",
+      "given": "Eddy"
+    }
+  ],
+  "authors_text": "Rossouw, Laura; d'Uva, Teresa Bago; van Doorslaer, Eddy",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0709-0",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0709-0",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0709-0",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0709-0.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

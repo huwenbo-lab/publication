@@ -1,0 +1,35 @@
+{
+  "title": "Adolescent Partnership Quality and Emotional Health: Insights from an Intensive Longitudinal Study",
+  "abstract": "Prior research has documented an association between adolescents' romantic experiences and poor emotional health. However, lack of intensive longitudinal measurement and an emphasis on negative affect have limited understanding about the extent to which adolescent relationship quality influences the emotional health of adolescents in partnerships, including the potential benefits of high-quality partnerships. Previous research has also been limited in its ability to account for factors that select adolescents into lower or higher quality partnerships. Using biweekly intensive longitudinal data from the mDiary Study of Adolescent Relationships linked to six waves of birth cohort data from the Fragile Families and Child Wellbeing Study, this paper uses multilevel mixed-effects models to address three questions: (1) How are changes in partnership quality (defined as validation, frequency of disagreements, and global quality) associated with changes in both positive and negative affect; (2) Do observed associations persist net of factors that potentially select adolescents into lower or higher quality partnerships (e.g., childhood family experiences); and (3) Do associations between partnership quality and affect differ by gender? Results show that higher quality partnerships are associated with both decreases in negative affect and increases in positive affect. There were no significant gender differences on average. The study's findings highlight the importance of partnership quality as a key source of temporal variation in adolescents' emotional states.",
+  "authors": [
+    {
+      "raw": "Villalta, Sara, I",
+      "family": "Villalta",
+      "given": "Sara, I"
+    },
+    {
+      "raw": "Goldberg, Rachel E.",
+      "family": "Goldberg",
+      "given": "Rachel E."
+    },
+    {
+      "raw": "Tienda, Marta",
+      "family": "Tienda",
+      "given": "Marta"
+    }
+  ],
+  "authors_text": "Villalta, Sara, I; Goldberg, Rachel E.; Tienda, Marta",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2023,
+  "doi": "10.1093/sf/soac043",
+  "doi_url": "https://doi.org/10.1093/sf/soac043",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoac043",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soac043.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

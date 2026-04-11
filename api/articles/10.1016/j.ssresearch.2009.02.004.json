@@ -1,0 +1,25 @@
+{
+  "title": "Are there sex differences in the utilization of educational capital among college-educated workers?",
+  "abstract": "Abstract This paper introduces the concept of educational utilization as an overlooked part of the education-to-work transition and a potential mechanism by which occupational sex segregation is generated among the college-educated labor force. The paper begins with a critical discussion of the operationalization approaches that have been used in prior research that implicitly measures educational utilization. Multiple empirical measure of the concept are then developed using data from the O*NET and the National Surveys of College Graduates . The explanatory power of each measure is assessed using conditional logit models of occupational attainment. A combined measure is then used to assess sex differences in educational utilization using data from the 1993 and 2003 National Surveys of College Graduates for 2 cohorts of college graduates—those who earned their baccalaureate or post-baccalaureate degrees and entered the labor market in the years 1985–1993 and 1995–2003. The analysis identifies sex differences in educational utilization that vary across field, degree level and cohort and concludes with an examination of the implications of sex differences in educational utilization for occupational segregation.",
+  "authors": [
+    {
+      "raw": "Shauman, Kimberlee A.",
+      "family": "Shauman",
+      "given": "Kimberlee A."
+    }
+  ],
+  "authors_text": "Shauman, Kimberlee A.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2009,
+  "doi": "10.1016/j.ssresearch.2009.02.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2009.02.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2009.02.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2009.02.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

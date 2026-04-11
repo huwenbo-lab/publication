@@ -1,0 +1,25 @@
+{
+  "title": "Point estimation of certain measures in organizational demography using variable-r methods",
+  "abstract": "BACKGROUND The distribution of job tenure plays an important role in demography, economics, and sociology. Job tenure in a labor market is analogous to age in a population. Demographers have used indirect methods based on variable-r methods to estimate parameters for life table models. The variable-r method can also be employed to estimate the parameters of a job tenure table model that yields the expected length of job tenure and related measures. METHODS AND DATA Only two retrospective surveys of current employee tenure lengths and a count of between-survey hires are required to estimate the parameters of a period tenure table using the variable-r method. Tenure-specific sources of decrement allow an analyst to estimate the parameters of multiple-decrement tenure tables and associated single-decrement tenure tables that isolate the proximate contribution of a specific decrement to the job separation process. I illustrate and evaluate the method using publicly available US data. RESULTS Variable-r methods generated reasonable parameter estimates: The expected job tenure was 2.48 years at 2002-2004 decrement rates. Multiple-decrement methods can estimate the fraction of employment relationships that end via job displacement. Cause-deleted tenure tables can capture the static effect of eliminating a particular risk to the population of employment relationships. CONTRIBUTION Arthur and Vaupel (1984) provide a framework for studying nonstable populations that subsume the variable-r relations that I utilize in this work. Vaupel had an interest in formal demography throughout his life but started his academic career in business statistics. This paper combines those interests.",
+  "authors": [
+    {
+      "raw": "Lachanski, Michael",
+      "family": "Lachanski",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Lachanski, Michael",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.33",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

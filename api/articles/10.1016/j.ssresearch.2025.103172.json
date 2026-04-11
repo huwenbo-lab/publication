@@ -1,0 +1,35 @@
+{
+  "title": "Does volunteering reduce antidepressant use among older adults? Longitudinal register-based evidence from Denmark",
+  "abstract": "Antidepressant use among older adults has surged in recent years. This is concerning since antidepressants have serious side effects and limited efficacy when used as a stand-alone treatment. Against this background, it has been claimed that volunteering may reduce antidepressant use, by preventing depressive symptoms and offering alternative ways to manage them. To test this claim, we merge the Danish Longitudinal Study of Aging with register data about redeemed antidepressant prescriptions from 1995 to 2018. Using this data, we estimate the effect of volunteering on antidepressant use with event-history models that correct for many possible confounders, including prior histories of antidepressant use. Our main finding is that moderate- intensity volunteering reduces antidepressant use among older adults. This effect persists when symptoms of poor mental health are adjusted for, and it does not depend on the type of organization volunteered for. By contrast, we find no effects of low- or high-intensity volunteering.",
+  "authors": [
+    {
+      "raw": "Qvist, Hans-Peter Y.",
+      "family": "Qvist",
+      "given": "Hans-Peter Y."
+    },
+    {
+      "raw": "Qvist, Jeevitha Yogachandiran",
+      "family": "Qvist",
+      "given": "Jeevitha Yogachandiran"
+    },
+    {
+      "raw": "Wiertz, Dingeman",
+      "family": "Wiertz",
+      "given": "Dingeman"
+    }
+  ],
+  "authors_text": "Qvist, Hans-Peter Y.; Qvist, Jeevitha Yogachandiran; Wiertz, Dingeman",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2025,
+  "doi": "10.1016/j.ssresearch.2025.103172",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103172",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103172",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103172.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

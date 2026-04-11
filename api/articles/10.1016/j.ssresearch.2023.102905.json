@@ -1,0 +1,30 @@
+{
+  "title": "Gentrification, displacement, and academic achievement: A formal mediation analysis",
+  "abstract": "Living in a disadvantaged neighborhood has long been known to adversely affect children's academic achievement. Comparatively less is known about what happens to children's academic achievement when disadvantaged neighborhoods gentrify. This study uses data from a nationally representative sample of children from the Panel Study of Income Dynamics (n = 1,163) along with counterfactual methods and a value-added design to examine how gentrification and residential displacement figure into children's academic achievement patterns. This study provides a formal mediation analysis that decomposes the total effect of gentrification on children's academic achievement into that which operates through residential displacement versus alternative pathways. This study finds that the effects of gentrification on children's achievement patterns were concentrated amongst low-income children and were observed most strongly when gentrifiers were White. Low-income children exposed to gentrification saw declines in their academic performance trajectories, especially in math. These adverse effects were not found to be mediated by residential displacement. A comprehensive set of sensitivity analyses indicates that results were robust to unobserved confounding, alternative model specifications, different weighting strategies, and multiple measures of gentrification and displacement.",
+  "authors": [
+    {
+      "raw": "Pearman, Francis A.",
+      "family": "Pearman",
+      "given": "Francis A."
+    },
+    {
+      "raw": "Steyer, Lily",
+      "family": "Steyer",
+      "given": "Lily"
+    }
+  ],
+  "authors_text": "Pearman, Francis A.; Steyer, Lily",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102905",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102905",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102905",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102905.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

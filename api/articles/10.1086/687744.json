@@ -1,0 +1,30 @@
+{
+  "title": "Politics and Economic Stratification: Power Resources and Income Inequality in the United States",
+  "abstract": "What factors best explain the U.S. growth in economic stratification since the late 1970s? This research tests the power resource hypothesis with a pooled time-series analysis of income inequality. In a departure from prior research, the explanatory power of both national-and state-level political accounts is evaluated. By analyzing tax statistics, the authors isolate the factors that produce the largest gap in U.S. income distributions. Findings indicate that increases in the political strength of neoliberal national administrations and skill-biased technical change (SBTC) are the most influential determinants-although the SBTC account became much less influential after the 1980s. Other accounts have considerable explanatory power, as the results show that inequality grew after decreases in manufacturing and expansions in minority populations. But these findings show that national-level neoliberal political determinants best explain the extraordinary increase in U.S. income inequality.",
+  "authors": [
+    {
+      "raw": "Jacobs, David",
+      "family": "Jacobs",
+      "given": "David"
+    },
+    {
+      "raw": "Dirlam, Jonathan C.",
+      "family": "Dirlam",
+      "given": "Jonathan C."
+    }
+  ],
+  "authors_text": "Jacobs, David; Dirlam, Jonathan C.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2016,
+  "doi": "10.1086/687744",
+  "doi_url": "https://doi.org/10.1086/687744",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F687744",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/687744.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

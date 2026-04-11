@@ -1,0 +1,30 @@
+{
+  "title": "Do Readers Judge Books by Author Gender? Results from a Randomized Experiment",
+  "abstract": "We run a randomized experiment to examine gender discrimination in book purchasing with 2,544 subjects on Amazon’s Mechanical Turk. We manipulate author gender and book genre in a factorial design to study consumer preferences for male versus female versus androgynous authorship. Despite previous findings in the literature showing gender discrimination in book publishing and in evaluations of work, respondents expressed no gender preference across a variety of measures, including quality, interest, and the amount they were willing to pay to purchase the book. This nonfinding, if it holds up to additional research, suggests that book consumers may not express the same discriminatory tendencies observed among indie and traditional publishers.",
+  "authors": [
+    {
+      "raw": "Kapelner, Adam",
+      "family": "Kapelner",
+      "given": "Adam"
+    },
+    {
+      "raw": "Weinberg, Dana",
+      "family": "Weinberg",
+      "given": "Dana"
+    }
+  ],
+  "authors_text": "Kapelner, Adam; Weinberg, Dana",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119868893",
+  "doi_url": "https://doi.org/10.1177/2378023119868893",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119868893",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119868893.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Unpacking intentions to leave the parental home in Europe using the Generations and Gender Survey",
+  "abstract": "BACKGROUND Comparative research has shown considerable cross-national differences in the age at leaving the parental home across Europe. Intentions to leave home might help to shed light on such marked heterogeneity in patterns of home-leaving. OBJECTIVE We address to what extent personal preferences (measured by attitudes), normative pressure (measured by subjective norms), and structural barriers (measured by perceived behavioural control) are linked to leaving-home intentions. We also address whether such associations vary by country, gender, and age. METHODS We use data for 12 European countries from the first wave of the Generations and Gender Survey. The sample is composed of young adults (aged 18 to 34) who had never left the parental home for at least three months after age 16 (N = 10,457). We employ multi-group factor analysis and binary logistic regression models to (1) compare the distribution of estimated means, variances, and correlations of attitudes, subjective norms, and perceived behavioural control towards leaving home and to (2) analyse the interactions between these three latent factors and country, sex, and age. RESULTS The analyses show a North-West/South-East divide in leaving-home intentions among young adults and a large variation in the estimated means of attitudes, subjective norms, and perceived behavioural control across the 12 countries. Our analyses also overall confirm the relevance of these three factors as drivers for young adults' leaving-home intentions - even when controlled for sociodemographic variables and interactions with country, sex, and age.",
+  "authors": [
+    {
+      "raw": "Schwanitz, Katrin",
+      "family": "Schwanitz",
+      "given": "Katrin"
+    },
+    {
+      "raw": "Rampazzo, Francesco",
+      "family": "Rampazzo",
+      "given": "Francesco"
+    },
+    {
+      "raw": "Vitali, Agnese",
+      "family": "Vitali",
+      "given": "Agnese"
+    }
+  ],
+  "authors_text": "Schwanitz, Katrin; Rampazzo, Francesco; Vitali, Agnese",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.45.2",
+  "doi_url": "https://doi.org/10.4054/demres.2021.45.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.45.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.45.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

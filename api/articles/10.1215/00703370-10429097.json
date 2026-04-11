@@ -1,0 +1,30 @@
+{
+  "title": "Mortality as a Function of Survival",
+  "abstract": "Everyone has a chronological age. Because survivorship declines relentlessly in populations with age-specific death rates greater than zero, everyone also has a survivorship age ( s-age ), the age at which a proportion s of the population is still alive. S-ages can be estimated for both periods and cohorts. While trajectories of mortality over chronological ages differ (e.g., across populations, over time, by sex, or by any subpopulation), mortality trajectories over s-ages are similar, a sign that populations experience similar mortality dynamics at specific levels of survivorship. We show that this important demographic regularity holds for 23 sex-specific populations analyzed during a period comprising more than 100 years.",
+  "authors": [
+    {
+      "raw": "Alvarez, Jesus-Adrian",
+      "family": "Alvarez",
+      "given": "Jesus-Adrian"
+    },
+    {
+      "raw": "Vaupel, James W.",
+      "family": "Vaupel",
+      "given": "James W."
+    }
+  ],
+  "authors_text": "Alvarez, Jesus-Adrian; Vaupel, James W.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10429097",
+  "doi_url": "https://doi.org/10.1215/00703370-10429097",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10429097",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10429097.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Toward a New Approach to Creating Population-Representative Data for Demographic Research",
+  "abstract": "The evaluation of innovative web-based data collection methods that are convenient for the general public and that yield high-quality scientific information for demographic researchers has become critical. Web-based methods are crucial for researchers with nationally representative research objectives but without the resources of larger organizations. The web mode is appealing because it is inexpensive relative to in-person and telephone modes, and it affords a high level of privacy. We evaluate a sequential mixed-mode web/mail data collection, conducted with a national probabil- ity sample of U.S. adults from 2020 to 2022. The survey topics focus on reproductive health and family formation. We compare estimates from this survey to those obtained from a face-to-face national survey of population reproductive health: the 2017-2019 National Survey of Family Growth (NSFG). This comparison allows for maximum design complexity, including a complex household screening operation (to identify households with persons aged 18-49). We evaluate the ability of this national web/mail data collection approach to (1) recruit a representative sample of U.S. persons aged 18-49; (2) replicate key survey estimates based on the NSFG, considering expected effects of the COVID-19 pandemic lockdowns and the alternative modes on the estimates; (3) reduce complex sample design effects relative to the NSFG; and (4) reduce the costs per completed survey.",
+  "authors": [
+    {
+      "raw": "West, Brady T.",
+      "family": "West",
+      "given": "Brady T."
+    },
+    {
+      "raw": "Couper, Mick P.",
+      "family": "Couper",
+      "given": "Mick P."
+    },
+    {
+      "raw": "Axinn, William G.",
+      "family": "Axinn",
+      "given": "William G."
+    },
+    {
+      "raw": "Wagner, James",
+      "family": "Wagner",
+      "given": "James"
+    },
+    {
+      "raw": "Gatward, Rebecca",
+      "family": "Gatward",
+      "given": "Rebecca"
+    },
+    {
+      "raw": "Saw, Htay-Wah",
+      "family": "Saw",
+      "given": "Htay-Wah"
+    },
+    {
+      "raw": "Zhang, Shiyu",
+      "family": "Zhang",
+      "given": "Shiyu"
+    }
+  ],
+  "authors_text": "West, Brady T.; Couper, Mick P.; Axinn, William G.; Wagner, James; Gatward, Rebecca; Saw, Htay-Wah; Zhang, Shiyu",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11693878",
+  "doi_url": "https://doi.org/10.1215/00703370-11693878",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11693878",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11693878.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

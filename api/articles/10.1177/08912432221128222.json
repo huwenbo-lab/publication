@@ -1,0 +1,35 @@
+{
+  "title": "Does the Pandemic Affect Inequality Within Families?: The Case of Dual-Earner Couples in Israel",
+  "abstract": "This article exploits the unique consequences of the COVID-19 pandemic outbreak to examine whether time constraints drive the unequal division of unpaid labor between dual-earner couples in Israel. Using the first wave of longitudinal household data that was collected in Israel since the outbreak of the pandemic, we focused on 325 dual-earner couples who stayed employed during the first lockdown. By employing OLS regressions, we examined the association between changes in employment hours and changes in unpaid labor for partnered men and women. Strong evidence was found for a gendered translation of the time constraints mechanism: A decrease in hours of paid work is related to an increase in hours of care for children among men and women, but time devoted to housework increased only among women. We conclude that time constraints that resulted from the dramatic effect of the first lockdown on paid and unpaid work in Israel did not significantly change the gender division of unpaid housework but did change the distribution of childcare. The theoretical implications of this conclusion for future research are discussed.",
+  "authors": [
+    {
+      "raw": "Herzberg-Druker, Efrat",
+      "family": "Herzberg-Druker",
+      "given": "Efrat"
+    },
+    {
+      "raw": "Kristal, Tali",
+      "family": "Kristal",
+      "given": "Tali"
+    },
+    {
+      "raw": "Yaish, Meir",
+      "family": "Yaish",
+      "given": "Meir"
+    }
+  ],
+  "authors_text": "Herzberg-Druker, Efrat; Kristal, Tali; Yaish, Meir",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2022,
+  "doi": "10.1177/08912432221128222",
+  "doi_url": "https://doi.org/10.1177/08912432221128222",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432221128222",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432221128222.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

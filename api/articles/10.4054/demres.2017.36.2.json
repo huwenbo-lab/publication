@@ -1,0 +1,25 @@
+{
+  "title": "Counting unreported abortions: A binomial-thinned zero-inflated Poisson model",
+  "abstract": "BACKGROUND Self-reported counts of intentional abortions in demographic surveys are significantly lower than the actual counts. To estimate the extent of misreporting, previous research has required either a gold standard or a validation sample. However, in most cases, a gold standard or a validation sample is not available. OBJECTIVE Our main intention here is to show that a researcher has an alternative tool to estimate the extent of underreporting in a given dataset, particularly when neither a valid gold standard nor a validation sample is available. METHODS We adopt a binomial-thinned zero-inflated Poisson model and apply it to a sample dataset, the National Survey of Family Growth ( NSFG), for which an alternative estimate of the average reporting rate ( 38%) is available. We show how this model could be used to estimate the reporting probabilities of intentional abortions by each individual in addition to the overall average reporting rate. RESULTS Our model estimates the average reporting rate in the NSFG during 2006-2013 as 35.3% ( SE 8.2%). Individual reporting probabilities vary significantly. CONCLUSIONS Our estimate of the average reporting rate of the dataset used is qualitatively and statistically similar to the available alternative estimate. CONTRIBUTION The model we propose can be used to predict the reporting probability of abortions of each individual, which in turn can be used to correct the bias due to underreporting in any model in which the number of abortions is used as the dependent variable or as one of the covariates.",
+  "authors": [
+    {
+      "raw": "Tennekoon, Vidhura S.",
+      "family": "Tennekoon",
+      "given": "Vidhura S."
+    }
+  ],
+  "authors_text": "Tennekoon, Vidhura S.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.36.2",
+  "doi_url": "https://doi.org/10.4054/demres.2017.36.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.36.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.36.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

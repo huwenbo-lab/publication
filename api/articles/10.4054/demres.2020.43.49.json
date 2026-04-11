@@ -1,0 +1,30 @@
+{
+  "title": "Estimating rural-urban disparities in self-rated health in China: Impact of choice of urban definition",
+  "abstract": "OBJECTIVE AND METHODS We use the 2014 China Family Panel Studies (CFPS), which includes anchoring vignettes, to provide an up-to-date assessment of rural-urban health disparities as measured by self-rated health (SRH) in China Our analysis is based on multiple definitions (hukou and the two different residence-based definitions) of rural-urban and migration status; previous research was inconclusive due to the use of different definitions and concerns about status-based differential health expectations (reporting heterogeneity). RESULTS AND CONCLUSIONS We find a nonlinear difference between rural and urban Chinese in how they self-assess health status, regardless of the urban definition used. Urban respondents do not always hold a higher standard for self-assessment of health. Instead, their rating styles depend on the level of latent health. After controlling for the reporting heterogeneity, we find on average a slight urban advantage in SRH, but it is most pronounced when using the statistical (density dependent) definition of urban. CONTRIBUTION We study rural-urban health disparities based on three different urban definitions and migration status. Although we examine the urban definitions that are specific to China, we demonstrate a mindful approach when multiple definitions exist and caution against any simplistic approach that ignores context-specific urban definition. We also provide clear illustrations of the different types of reporting heterogeneity, as well as a way to visualize the cut-points, thresholds, and latent health estimates.",
+  "authors": [
+    {
+      "raw": "Dorelien, Audrey",
+      "family": "Dorelien",
+      "given": "Audrey"
+    },
+    {
+      "raw": "Xu, Hongwei",
+      "family": "Xu",
+      "given": "Hongwei"
+    }
+  ],
+  "authors_text": "Dorelien, Audrey; Xu, Hongwei",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.43.49",
+  "doi_url": "https://doi.org/10.4054/demres.2020.43.49",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.43.49",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.43.49.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

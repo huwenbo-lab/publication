@@ -1,0 +1,30 @@
+{
+  "title": "Mapping Educational Inequality: Concentrations of Poverty among Poor and Minority Students in Public Schools",
+  "abstract": "We examine high concentrations of poverty in public schools by comparing economic segregation in schools and in their corresponding attendance boundaries. To do this, we assign poverty rates from the 2000 census to maps of school attendance boundaries for 21 of the largest school districts and link this with data enumerating the number of poor children enrolled in each school. Results show that percentages of poor children in neighborhood schools is greater than in their corresponding catchment areas and this difference is greater when the majority of children living in a neighborhood are racial minorities. These patterns reflect the withdrawal of wealthier children from public schools and into private, charter and magnet schools. The result is that poor and minority children are much more concentrated in high-poverty public schools than they would be if all children attended their local schools.",
+  "authors": [
+    {
+      "raw": "Saporito, S.",
+      "family": "Saporito",
+      "given": "S."
+    },
+    {
+      "raw": "Sohoni, D.",
+      "family": "Sohoni",
+      "given": "D."
+    }
+  ],
+  "authors_text": "Saporito, S.; Sohoni, D.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2007,
+  "doi": "10.1353/sof.2007.0055",
+  "doi_url": "https://doi.org/10.1353/sof.2007.0055",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2007.0055",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2007.0055.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Does Ethnic Diversity Have a Negative Effect on Attitudes towards the Community? A Longitudinal Analysis of the Causal Claims within the Ethnic Diversity and Social Cohesion Debate",
+  "abstract": "Studies demonstrate a negative association between community ethnic diversity and indicators of social cohesion (especially attitudes towards neighbours and the community), suggesting diversity causes a decline in social cohesion. However, to date, the evidence for this claim is based solely on cross-sectional research. This article performs the first longitudinal test of the impact of diversity, applying fixed-effects modelling methods to three waves of panel data from the British Household Panel Survey, spanning a period of 18 years. Using an indicator of affective attachment, the findings suggest that changes in community diversity do lead to changes in attitudes towards the community. However, this effect differs by whether the change in diversity stems from a community increasing in diversity around individuals who do not move (stayers) or individuals moving into more or less diverse communities (movers). Increasing diversity undermines attitudes among stayers. Individuals who move from a diverse to a homogeneous community report improved attitudes. However, there is no effect among individuals who move from a homogeneous to a diverse community. This article provides strong evidence that the effect of community diversity is likely causal, but that prior preferences for/against out-group neighbours may condition diversity's impact. It also demonstrates that multiple causal processes are in operation at the individual-level, occurring among both stayers and movers, which collectively contribute to the emergence of average cross-sectional differences in attitudes between communities. Unique insights into the causal impact of community disadvantage also emerge.",
+  "authors": [
+    {
+      "raw": "Laurence, James",
+      "family": "Laurence",
+      "given": "James"
+    },
+    {
+      "raw": "Bentley, Lee",
+      "family": "Bentley",
+      "given": "Lee"
+    }
+  ],
+  "authors_text": "Laurence, James; Bentley, Lee",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2016,
+  "doi": "10.1093/esr/jcv081",
+  "doi_url": "https://doi.org/10.1093/esr/jcv081",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv081",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv081.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

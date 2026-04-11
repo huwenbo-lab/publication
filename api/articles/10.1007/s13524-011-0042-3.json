@@ -1,0 +1,40 @@
+{
+  "title": "Life Shocks and Crime: A Test of the “Turning Point” Hypothesis",
+  "abstract": "Abstract Other researchers have posited that important events in men’s lives—such as employment, marriage, and parenthood—strengthen their social ties and lead them to refrain from crime. A challenge in empirically testing this hypothesis has been the issue of self-selection into life transitions. This study contributes to this literature by estimating the effects of an exogenous life shock on crime. We use data from the Fragile Families and Child Wellbeing Study, augmented with information from hospital medical records, to estimate the effects of the birth of a child with a severe health problem on the likelihood that the infant’s father engages in illegal activities. We conduct a number of auxiliary analyses to examine exogeneity assumptions. We find that having an infant born with a severe health condition increases the likelihood that the father is convicted of a crime in the three-year period following the birth of the child, and at least part of the effect appears to operate through work and changes in parental relationships. These results provide evidence that life events can cause crime and, as such, support the “turning point” hypothesis.",
+  "authors": [
+    {
+      "raw": "Corman, Hope",
+      "family": "Corman",
+      "given": "Hope"
+    },
+    {
+      "raw": "Noonan, Kelly",
+      "family": "Noonan",
+      "given": "Kelly"
+    },
+    {
+      "raw": "Reichman, Nancy E.",
+      "family": "Reichman",
+      "given": "Nancy E."
+    },
+    {
+      "raw": "Schwartz-Soicher, Ofira",
+      "family": "Schwartz-Soicher",
+      "given": "Ofira"
+    }
+  ],
+  "authors_text": "Corman, Hope; Noonan, Kelly; Reichman, Nancy E.; Schwartz-Soicher, Ofira",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0042-3",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0042-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0042-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0042-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

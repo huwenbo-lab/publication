@@ -1,0 +1,30 @@
+{
+  "title": "A Demographic Explanation for the Recent Rise in European Fertility",
+  "abstract": "Between 1998 and 2008 European countries experienced the first continent-wide increase in the period total fertility rate (TFR) since the 1960s. After discussing period and cohort influences on fertility trends, we examine the role of tempo distortions of period fertility and different methods for removing them. We highlight the usefulness of a new indicator: the tempo- and parity-adjusted total fertility rate (TFRp*). This variant of the adjusted total fertility rate proposed by Bongaarts and Feeney also controls for the parity composition of the female population and provides more stable values than the indicators proposed in the past. Finally, we estimate levels and trends in tempo and parity distribution distortions in selected countries in Europe. Our analysis of period and cohort fertility indicators in the Czech Republic, Netherlands, Spain, and Sweden shows that the new adjusted measure gives a remarkable fit with the completed fertility of women in prime childbearing years in a given period, which suggests that it provides an accurate adjustment for tempo and parity composition distortions. Using an expanded dataset for ten countries, we demonstrate that adjusted fertility as measured by TFRp* remained nearly stable since the late 1990s. This finding implies that the recent upturns in the period TFR in Europe are largely explained by a decline in the pace of fertility postponement. Other tempo-adjusted fertility indicators have not indicated such a large role for the diminishing tempo effect in these TFR upturns. As countries proceed through their postponement transitions, tempo effects will decline further and eventually disappear, thus putting continued upward pressure on period fertility. However, such an upward trend may be obscured for a few years by the effects of economic recession.",
+  "authors": [
+    {
+      "raw": "Bongaarts, John",
+      "family": "Bongaarts",
+      "given": "John"
+    },
+    {
+      "raw": "Sobotka, Tomas",
+      "family": "Sobotka",
+      "given": "Tomas"
+    }
+  ],
+  "authors_text": "Bongaarts, John; Sobotka, Tomas",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2012,
+  "doi": "10.1111/j.1728-4457.2012.00473.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2012.00473.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2012.00473.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2012.00473.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

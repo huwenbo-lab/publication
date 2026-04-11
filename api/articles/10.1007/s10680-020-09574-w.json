@@ -1,0 +1,35 @@
+{
+  "title": "Religiosity and Fertility Intentions: Can the Gender Regime Explain Cross-Country Differences?",
+  "abstract": "AbstractResearch on the relationship between religiosity and fertility intentions revealed substantial cross-national differences. In some countries, a strong and positive effect of religiosity on fertility intentions was found, while in others, the effect was weaker or not significant, and the reasons underlying these cross-national differences are still unclear. The aim of this article is to explain these macro-level differences from the perspective of the prevailing gender regime. We argue that in countries with more traditional regimes, a stronger effect of religiosity on fertility intentions could be expected than in countries with a more egalitarian view. We make use of the first wave of the Generations and Gender Survey and incorporate data from a total of 12 European countries in our analysis. We examine the influence of gender regime according to various macro-level indicators on gender attitudes and gender equality using meta-regression analyses. We also conduct robustness checks using other indicators such as the Gender Development Index. Our results reveal that the gender regime is only able to explain these differences in certain situations, specifically those relating to the long-term fertility intentions of men.",
+  "authors": [
+    {
+      "raw": "Bein, Christoph",
+      "family": "Bein",
+      "given": "Christoph"
+    },
+    {
+      "raw": "Gauthier, Anne H.",
+      "family": "Gauthier",
+      "given": "Anne H."
+    },
+    {
+      "raw": "Mynarska, Monika",
+      "family": "Mynarska",
+      "given": "Monika"
+    }
+  ],
+  "authors_text": "Bein, Christoph; Gauthier, Anne H.; Mynarska, Monika",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2021,
+  "doi": "10.1007/s10680-020-09574-w",
+  "doi_url": "https://doi.org/10.1007/s10680-020-09574-w",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-020-09574-w",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-020-09574-w.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

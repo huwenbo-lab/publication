@@ -1,0 +1,50 @@
+{
+  "title": "Keeping kin close? Geographies of family networks by race and income, 1981-2017",
+  "abstract": "Objective: This study examined changes in geographic proximity to family members among race and income groups in the United States from 1981 to 2017.Background: Close geographic proximity to family members can facilitate mutual support and strengthen family bonds. Some scholars argue that institutional sources of support have replaced many core family functions, which might mean that households are likely to live increasingly farther away from family. Advancing technology and changing labor market opportunities might reinforce this pattern. Yet, the ongoing cultural and emotional salience of family might curtail the effects of these factors on the increasing distance to family.Method: We conducted a quantitative analysis of longitudinal data from the Panel Study of Income Dynamics (PSID). We utilized the multigenerational structure of the PSID and restricted-use geocodes to map kin proximity at every interview from 1981 to 2017. We cross-classified our sample by race and income, focusing on Black and White respondents across income quartiles (n = 171,501 person-periods).Results: High-income White respondents showed the greatest increases in distance from kin over time, whereas proximity to kin among other race-income groups was relatively stable.Conclusion: Proximate kin has become less central in the lives of high-income White households over time, whereas close proximity to kin has been the norm over time for other racial and income groups. These results have implications for racial and income differences in kin relations over time.",
+  "authors": [
+    {
+      "raw": "Spring, Amy",
+      "family": "Spring",
+      "given": "Amy"
+    },
+    {
+      "raw": "Ackert, Elizabeth",
+      "family": "Ackert",
+      "given": "Elizabeth"
+    },
+    {
+      "raw": "Roche, Sarah",
+      "family": "Roche",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Parris, Dionne",
+      "family": "Parris",
+      "given": "Dionne"
+    },
+    {
+      "raw": "Crowder, Kyle",
+      "family": "Crowder",
+      "given": "Kyle"
+    },
+    {
+      "raw": "Kravitz-Wirtz, Nicole",
+      "family": "Kravitz-Wirtz",
+      "given": "Nicole"
+    }
+  ],
+  "authors_text": "Spring, Amy; Ackert, Elizabeth; Roche, Sarah; Parris, Dionne; Crowder, Kyle; Kravitz-Wirtz, Nicole",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2023,
+  "doi": "10.1111/jomf.12911",
+  "doi_url": "https://doi.org/10.1111/jomf.12911",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12911",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12911.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

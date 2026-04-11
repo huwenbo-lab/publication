@@ -1,0 +1,35 @@
+{
+  "title": "Estimating the Effect of the One-Child Policy on the Sex Ratio Imbalance in China: Identification Based on the Difference-in-Differences",
+  "abstract": "AbstractIn China, the male-biased sex ratio has increased significantly. Because the one-child policy applies only to the Han Chinese but not to minorities, this unique affirmative policy allows us to identify the causal effect of the one-child policy on the increase in sex ratios by using a difference-in-differences (DD) estimator. Using the 1990 census, we find that the strict enforcement of the one-child policy led to 4.4 extra boys per 100 girls in the 1980s, accounting for about 94% of the total increase in sex ratios during this period. The robust tests indicate that the estimated policy effect is not likely confounded by other omitted policy shocks or socioeconomic changes. Moreover, we conduct the DD estimation using both the 2000 census and the 2005 mini-census. Our estimates suggest that the one-child policy resulted in about 7.0 extra boys per 100 girls for the 1991–2005 birth cohorts. The effect of the one-child policy accounts for about 57% and 54% of the total increases in sex ratios for the 1991–2000 and 2001–2005 birth cohorts, respectively.",
+  "authors": [
+    {
+      "raw": "Li, Hongbin",
+      "family": "Li",
+      "given": "Hongbin"
+    },
+    {
+      "raw": "Yi, Junjian",
+      "family": "Yi",
+      "given": "Junjian"
+    },
+    {
+      "raw": "Zhang, Junsen",
+      "family": "Zhang",
+      "given": "Junsen"
+    }
+  ],
+  "authors_text": "Li, Hongbin; Yi, Junjian; Zhang, Junsen",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0055-y",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0055-y",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0055-y",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0055-y.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

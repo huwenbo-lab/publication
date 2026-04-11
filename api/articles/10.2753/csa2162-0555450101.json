@@ -1,0 +1,30 @@
+{
+  "title": "Income Inequality in Urban China, 1978-2005",
+  "abstract": "The aims of this paper are twofold: (1) identifying the winners and losers with respect to income in China's economic transition using repeated cross-sectional data at the individual level over the entire period of economic reform, and (2) linking these winners and losers categories to income inequality at the aggregate level by decomposing the trend in overall income inequality with respect to some key characteristics of these categories. Based on individual-level analyses of eleven waves of survey data collected in urban China from 1978 to 2005, we found that (1) returns to schooling have been increasing over time; (2) returns to party membership did increase, but when distinguishing between ordinary party members and cadre members, the increase in income returns to ordinary members seemed to be nonsubstantive and there was no temporal trend in returns to cadre members; (3) workers in the private sector and the self-employed (getihu) appeared among the losers of the economic transition for the entire period 1978-2005; (4) the unemployed also turned out to be among the losers; and (5) employers in the private sector were among the winners. Results from the decomposition analyses showed similar effects on China's overall income inequality.",
+  "authors": [
+    {
+      "raw": "Jansen, Wim",
+      "family": "Jansen",
+      "given": "Wim"
+    },
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    }
+  ],
+  "authors_text": "Jansen, Wim; Wu, Xiaogang",
+  "journal": "Chinese Sociological Review",
+  "journal_slug": "Chinese_Sociological_Review",
+  "year": 2012,
+  "doi": "10.2753/csa2162-0555450101",
+  "doi_url": "https://doi.org/10.2753/csa2162-0555450101",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2753%2Fcsa2162-0555450101",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2753/csa2162-0555450101.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Chinese_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

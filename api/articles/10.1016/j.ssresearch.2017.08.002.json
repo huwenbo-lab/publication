@@ -1,0 +1,25 @@
+{
+  "title": "Too much of a good thing? Economic growth and human rights, 1960 to 2010",
+  "abstract": "Despite widespread belief in the benefits of economic growth, some scholars emphasize the potentially negative consequences of growth-and especially rapid growth for social and political outcomes. Using data for 149 countries between 1960 and 2010, I analyze the effect of economic growth on fundamental human rights conditions. Dynamic random effects and two-way fixed-effects estimators, both with and without instrumental variables, yield several conclusions. First, economic growth is causally prior to rights conditions. Second, economic growth has a modest positive effect on human rights, albeit with diminishing returns at high growth rates. Third, low-income countries account for much of this relationship: growth improves rights conditions for most low-income countries, but extremely rapid growth is inimical. Growth has little effect among middle-income countries, while for high-income countries the relationship is positive but not robust. I bring these findings to bear on long-standing debates between proponents and critics of modernization theory. (C) 2017 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Cole, Wade M.",
+      "family": "Cole",
+      "given": "Wade M."
+    }
+  ],
+  "authors_text": "Cole, Wade M.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2017.08.002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2017.08.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2017.08.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2017.08.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

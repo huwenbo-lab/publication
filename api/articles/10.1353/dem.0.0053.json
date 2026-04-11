@@ -1,0 +1,40 @@
+{
+  "title": "Nature’s experiment? Handedness and early childhood development",
+  "abstract": "AbstractIn recent years, a large body of research has investigated the various factors affecting child development and the consequent impact of child development on future educational and labor market outcomes. In this article, we contribute to this literature by investigating the effect of handedness on child development. This is an important issue given that around 10% of the world’s population is left-handed and given recent research demonstrating that child development strongly affects adult outcomes. Using a large, nationally representative sample of young children, we find that the probability of a child being left-handed is not significantly related to child health at birth, family composition, parental employment, or household income. We also find robust evidence that left-handed (and mixed-handed) children perform significantly worse in nearly all measures of development than right-handed children, with the relative disadvantage being larger for boys than girls. Importantly, these differentials cannot be explained by different socioeconomic characteristics of the household, parental attitudes, or investments in learning resources.",
+  "authors": [
+    {
+      "raw": "Johnston, David W.",
+      "family": "Johnston",
+      "given": "David W."
+    },
+    {
+      "raw": "Nicholls, Michael E. R.",
+      "family": "Nicholls",
+      "given": "Michael E. R."
+    },
+    {
+      "raw": "Shah, Manisha",
+      "family": "Shah",
+      "given": "Manisha"
+    },
+    {
+      "raw": "Shields, Michael A.",
+      "family": "Shields",
+      "given": "Michael A."
+    }
+  ],
+  "authors_text": "Johnston, David W.; Nicholls, Michael E. R.; Shah, Manisha; Shields, Michael A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2009,
+  "doi": "10.1353/dem.0.0053",
+  "doi_url": "https://doi.org/10.1353/dem.0.0053",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0053",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0053.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

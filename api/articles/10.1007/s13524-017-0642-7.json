@@ -1,0 +1,35 @@
+{
+  "title": "The Changing Safety Net for Low-Income Parents and Their Children: Structural or Cyclical Changes in Income Support Policy?",
+  "abstract": "Refundable tax credits and food assistance are the largest transfer programs available to able-bodied working poor and near-poor families in the United States, and simultaneous participation in these programs has more than doubled since the early 2000s. To understand this growth, we construct a series of two-year panels from the 1981-2013 waves of the Current Population Survey Annual Social and Economic Supplement to estimate the effect of state labor-market conditions, federal and state transfer program policy choices, and household demographics governing joint participation in food and refundable tax credit programs. Overall, changing policy drives much of the increase in the simultaneous, biennial use of food assistance and refundable tax credits. This stands in stark contrast from the factors accounting for the growth in food assistance alone, where cyclical and structural labor market factors account for at least one-half of the growth, and demographics play a more prominent role. Moreover, since 2000, the business cycle factors as the leading determinant in biennial participation decisions in food programs and refundable tax credits, suggesting a recent strengthening in the relationship between economic conditions and transfer programs.",
+  "authors": [
+    {
+      "raw": "Hardy, Bradley",
+      "family": "Hardy",
+      "given": "Bradley"
+    },
+    {
+      "raw": "Smeeding, Timothy",
+      "family": "Smeeding",
+      "given": "Timothy"
+    },
+    {
+      "raw": "Ziliak, James P.",
+      "family": "Ziliak",
+      "given": "James P."
+    }
+  ],
+  "authors_text": "Hardy, Bradley; Smeeding, Timothy; Ziliak, James P.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-017-0642-7",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0642-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0642-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0642-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

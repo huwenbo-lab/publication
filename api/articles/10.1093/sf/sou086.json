@@ -1,0 +1,35 @@
+{
+  "title": "Gene by Social-Environment Interaction for Youth Delinquency and Violence: Thirty-Nine Aggression-Related Genes",
+  "abstract": "Complex human traits are likely to be affected by many environmental and genetic factors, and the interactions among them. However, previous gene-environment interaction (GaEuro...xaEuro...E) studies have typically focused on one or only a few genetic variants at a time. To provide a broader view of GaEuro...xaEuro...E, this study examines the relationship between 403 genetic variants from 39 genes and youth delinquency and violence. We find evidence that low social control is associated with greater genetic risk for delinquency and violence and high/moderate social control with smaller genetic risk for delinquency and violence. Our findings are consistent with prior GaEuro...xaEuro...E studies based on a small number of genetic variants, and more importantly, we show that these findings still hold when a large number of genetic variants are considered simultaneously. A key implication of these findings is that the expression of multiple genes related to delinquency depends on the social environment: gene expression is likely to be amplified in low-social-control environments but tends to be suppressed in high/moderate-social-control environments. This study not only deepens our understanding of how the social environment shapes individual behavior, but also provides important conceptual and methodological insights for future GaEuro...xaEuro...E research on complex human traits.",
+  "authors": [
+    {
+      "raw": "Liu, Hexuan",
+      "family": "Liu",
+      "given": "Hexuan"
+    },
+    {
+      "raw": "Li, Yi",
+      "family": "Li",
+      "given": "Yi"
+    },
+    {
+      "raw": "Guo, Guang",
+      "family": "Guo",
+      "given": "Guang"
+    }
+  ],
+  "authors_text": "Liu, Hexuan; Li, Yi; Guo, Guang",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2015,
+  "doi": "10.1093/sf/sou086",
+  "doi_url": "https://doi.org/10.1093/sf/sou086",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsou086",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sou086.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

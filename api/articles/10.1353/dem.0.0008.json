@@ -1,0 +1,25 @@
+{
+  "title": "Macroeconomic fluctuations and mortality in postwar Japan",
+  "abstract": "Abstract Recent research has shown that after long-term declining trends are excluded, mortality rates in industrial countries tend to rise in economic expansions and fall in economic recessions. In the present work, co-movements between economic fluctuations and mortality changes in postwar Japan are investigated by analyzing time series of mortality rates and eight economic indicators. To eliminate spurious associations attributable to trends, series are detrended either via Hodrick-Prescott filtering or through differencing. As previously found in other industrial economies, general mortality and age-specifi death rates in Japan tend to increase in expansions and drop in recessions, for both males and females. The effect, which is slightly stronger for males, is particularly noticeable in those aged 45–64. Deaths attributed to heart disease, pneumonia, accidents, liver disease, and senility—making up about 41% of total mortality—tend to fluctuate procyclically, increasing in expansions. Suicides, as well as deaths attributable to diabetes and hypertensive disease, make up about 4% of total mortality and fluctuate countercyclically, increasing in recessions. Deaths attributed to other causes, making up about half of total deaths, don’t show a clearly defined relationship with the fluctuations of the economy.",
+  "authors": [
+    {
+      "raw": "Tapia granados, José A.",
+      "family": "Tapia granados",
+      "given": "José A."
+    }
+  ],
+  "authors_text": "Tapia granados, José A.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0008",
+  "doi_url": "https://doi.org/10.1353/dem.0.0008",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0008",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0008.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

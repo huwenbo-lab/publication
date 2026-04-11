@@ -1,0 +1,30 @@
+{
+  "title": "Tied Staying on the Rise? Declining Migration among Co-Breadwinner Couples in the United States, 1990s to 2010s",
+  "abstract": "This study examines a possible connection between shifting gender and family norms and declining internal migration. Using data from the 1989-1998 and 2009-2018 Annual Social and Economic Supplements of the Current Population Survey, we examine whether co-breadwinner married couples have become less likely to migrate within the US relative to couples with a sole or primary breadwinner. We find a general U-shaped association between wives' share of a married couple's income and that couple's likelihood of moving across state or county lines; in both time periods, couples were least likely to move when their incomes were roughly equal. However, we find this U-shaped pattern grew more pronounced in the 2010s compared with the 1990s: Over time, co-breadwinner couples became increasingly less likely to move relative to other married couples. Given that family migration decision-making has historically been gendered, this suggests dual-career married couples have become less willing to uproot women's careers for the benefit of men's. We argue the most likely reason for this change in behavior is a shift in norms governing the gender division of labor-in particular, a shift away from the cultural model of the male breadwinner. Based on a decomposition analysis, we estimate this change explains about one-third of the overall decline in migration among married couples ages 25-39 between the 1990s and 2010s.",
+  "authors": [
+    {
+      "raw": "Erickson, Matt",
+      "family": "Erickson",
+      "given": "Matt"
+    },
+    {
+      "raw": "Kim, ChangHwan",
+      "family": "Kim",
+      "given": "ChangHwan"
+    }
+  ],
+  "authors_text": "Erickson, Matt; Kim, ChangHwan",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2022,
+  "doi": "10.1093/sf/soab146",
+  "doi_url": "https://doi.org/10.1093/sf/soab146",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoab146",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soab146.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

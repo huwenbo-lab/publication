@@ -1,0 +1,50 @@
+{
+  "title": "Is the Gene-Environment Interaction Paradigm Relevant to Genome-Wide Studies? The Case of Education and Body Mass Index",
+  "abstract": "AbstractThis study uses data from the Framingham Heart Study to examine the relevance of the gene-environment interaction paradigm for genome-wide association studies (GWAS). We use completed college education as our environmental measure and estimate the interactive effect of genotype and education on body mass index (BMI) using 260,402 single-nucleotide polymorphisms (SNPs). Our results highlight the sensitivity of parameter estimates obtained from GWAS models and the difficulty of framing genome-wide results using the existing gene-environment interaction typology. We argue that SNP-environment interactions across the human genome are not likely to provide consistent evidence regarding genetic influences on health that differ by environment. Nevertheless, genome-wide data contain rich information about individual respondents, and we demonstrate the utility of this type of data. We highlight the fact that GWAS is just one use of genome-wide data, and we encourage demographers to develop methods that incorporate this vast amount of information from respondents into their analyses.",
+  "authors": [
+    {
+      "raw": "Boardman, Jason D.",
+      "family": "Boardman",
+      "given": "Jason D."
+    },
+    {
+      "raw": "Domingue, Benjamin W.",
+      "family": "Domingue",
+      "given": "Benjamin W."
+    },
+    {
+      "raw": "Blalock, Casey L.",
+      "family": "Blalock",
+      "given": "Casey L."
+    },
+    {
+      "raw": "Haberstick, Brett C.",
+      "family": "Haberstick",
+      "given": "Brett C."
+    },
+    {
+      "raw": "Harris, Kathleen Mullan",
+      "family": "Harris",
+      "given": "Kathleen Mullan"
+    },
+    {
+      "raw": "McQueen, Matthew B.",
+      "family": "McQueen",
+      "given": "Matthew B."
+    }
+  ],
+  "authors_text": "Boardman, Jason D.; Domingue, Benjamin W.; Blalock, Casey L.; Haberstick, Brett C.; Harris, Kathleen Mullan; McQueen, Matthew B.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2013,
+  "doi": "10.1007/s13524-013-0259-4",
+  "doi_url": "https://doi.org/10.1007/s13524-013-0259-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-013-0259-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-013-0259-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

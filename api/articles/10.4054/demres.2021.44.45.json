@@ -1,0 +1,25 @@
+{
+  "title": "D-splines: Estimating rate schedules using high-dimensional splines with empirical demographic penalties",
+  "abstract": "BACKGROUND High-dimensional parametric models with penalized likelihood functions strike a good balance between bias and variance for estimating continuous age schedules from large samples. The penalized spline (P-spline) approach is particularly useful for these purposes, but it in small samples it can often produce implausible age schedule estimates. OBJECTIVE I propose and evaluate a new type of P-spline model for estimating demographic rate schedules. These estimators, which I call D-splines, regularize and smooth high-dimensional splines by using demographic patterns rather than generic mathematical rules. METHODS I compare P-spline estimates of age-specific mortality rates to three alternative D-spline estimators, over a large number of simulated small populations with known rates. The penalties for the D-spline estimators are derived from patterns in the Human Mortality Database. RESULTS For mortality estimates in small populations, D-spline estimators generally have lower errors than standard P-splines. CONCLUSIONS Using penalties based on demographic information about patterns and variability in rate schedules improves P-spline estimators for small populations. CONTRIBUTION This paper expands demographers' toolkit by developing a new category of P-spline estimators that are more reliable for estimating mortality in small populations.",
+  "authors": [
+    {
+      "raw": "Schmertmann, Carl",
+      "family": "Schmertmann",
+      "given": "Carl"
+    }
+  ],
+  "authors_text": "Schmertmann, Carl",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2021,
+  "doi": "10.4054/demres.2021.44.45",
+  "doi_url": "https://doi.org/10.4054/demres.2021.44.45",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2021.44.45",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2021.44.45.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

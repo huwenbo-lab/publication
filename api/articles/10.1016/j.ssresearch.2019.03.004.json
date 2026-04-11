@@ -1,0 +1,35 @@
+{
+  "title": "Parental joblessness and the moderating role of a university degree on the school-to-work transition in Australia and the United States",
+  "abstract": "Does parental joblessness delay young adults' school-to-work transitions? If so, can a university degree moderate this relationship? We examine these questions using a representative sample of young adults who lived with their parents prior to entering the labor market in Australia (N = 2152) and the U.S. (N = 811) during the period 2001-2015. Results from Cox proportional hazards models demonstrate that parental joblessness (the proportion of time spent living in a household where no parent was employed) is associated with slower school-to-work transitions in both the U.S. and Australia. University degree attainment mitigates much of this negative relationship in Australia, suggesting that parental joblessness is most harmful for Australians who leave school before earning a university degree. There is no evidence for a similar interaction in the U.S., suggesting that the relationship between education, parental joblessness, and the school-to-work transition may depend on contextual factors such as the welfare regime.",
+  "authors": [
+    {
+      "raw": "Curry, Matthew",
+      "family": "Curry",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Mooi-Reci, Irma",
+      "family": "Mooi-Reci",
+      "given": "Irma"
+    },
+    {
+      "raw": "Wooden, Mark",
+      "family": "Wooden",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Curry, Matthew; Mooi-Reci, Irma; Wooden, Mark",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.03.004",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.03.004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.03.004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.03.004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

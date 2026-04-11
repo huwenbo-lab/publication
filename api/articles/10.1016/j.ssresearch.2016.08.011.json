@@ -1,0 +1,30 @@
+{
+  "title": "Relative power: Material and contextual elements of efficacy in social dilemmas",
+  "abstract": "In Step-Level Public Good (SPG) situations, groups of individuals can produce a public good if a sufficient number of them contribute. In SPG situations it is thus only rational for any group member to contribute if according to the beliefs of that group member her contribution is essential to the production of the public good. An individual's estimate of the impact of their contribution on the likelihood of public good production is known as their efficacy. The classic efficacy cooperation hypothesis holds that individuals will be more likely to contribute if they estimate their contributions to be more necessary. Based on a game theoretical analysis of the SPG game, we contribute to the literature by identifying two distinct components of efficacy, viz. material efficacy and contextual efficacy. The former is based on objective characteristics of group members (such as resources, power, or skill) and the latter on beliefs about the material efficacy of other group members and expectations concerning their behavior. We present evidence from three experimental studies, showing how information on the distribution of material efficacy in the group can break the monotone material efficacy cooperation relation. In addition, contrary to what one would expect based on both the efficacy cooperation hypothesis and game theory, our results show that the effects of material efficacy are not mediated by contextual efficacy, both forms of efficacy having significant effects on behavior. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Dijkstra, Jacob",
+      "family": "Dijkstra",
+      "given": "Jacob"
+    },
+    {
+      "raw": "Bakker, Dieko M.",
+      "family": "Bakker",
+      "given": "Dieko M."
+    }
+  ],
+  "authors_text": "Dijkstra, Jacob; Bakker, Dieko M.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2017,
+  "doi": "10.1016/j.ssresearch.2016.08.011",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.08.011",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.08.011",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.08.011.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

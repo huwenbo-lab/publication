@@ -1,0 +1,25 @@
+{
+  "title": "The Link Between Contextual Poverty and Academic Achievement: Evidence Using Panel Data From a Lower-Middle-Income Country",
+  "abstract": "The association between contextual poverty and educational achievement is not well-researched in lower-income countries. This paper investigates this link and examines how it varies between urban and rural school locations in Bangladesh, acknowledging the dual urban-rural dynamics of the country. Analyses based on original school-level longitudinal data, encompassing over 90 per cent of secondary schools in Bangladesh, demonstrate that subdistrict-level educational poverty (measured as the proportion of adults with education below the primary level) has a stronger and significantly negative association with achievement at the secondary level compared to economic poverty (measured as the percentage of people under the national poverty line). This negative association is starker for the 'science' academic stream, which necessitates supplementary private tutoring. I argue that in poorer local areas, pupils are less likely to encounter successful role models in science fields, experience a shortage of qualified instructors, and face difficulties in securing additional resources for science subjects due to poverty. Furthermore, urban areas generally exhibit higher achievement levels, reflecting a greater proportion of educated individuals and role models. However, urban achievement experiences a sharper decline with increasing educational poverty, likely due to structural inequalities such as informal settlements and unequal access to quality schools. In contrast, rural areas show less sensitivity to educational poverty, possibly due to the 'scarcity effect' of role models, where the limited presence of role models exerts a disproportionately positive influence on aspirations, even in high-poverty contexts.",
+  "authors": [
+    {
+      "raw": "Hossain, Mobarak",
+      "family": "Hossain",
+      "given": "Mobarak"
+    }
+  ],
+  "authors_text": "Hossain, Mobarak",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1111/1468-4446.13208",
+  "doi_url": "https://doi.org/10.1111/1468-4446.13208",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.13208",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.13208.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

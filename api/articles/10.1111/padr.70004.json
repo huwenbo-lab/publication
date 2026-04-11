@@ -1,0 +1,35 @@
+{
+  "title": "Scaling Up Perinatal Care: Health Benefits for Infant Survival in High-Burden Countries",
+  "abstract": "Utilization of perinatal care remains limited in many settings, exposing pregnant women and newborns to excessive mortality risks. This study quantifies the potential mortality impact of scaling up perinatal care in the five low- and middle-income countries with the highest current infant mortality burden. The study analyses 237,358 birth records from nationally representative observational data from the Democratic Republic of the Congo (DRC), Ethiopia, India, Nigeria, and Pakistan and logistic regression models to assess the conditional associations between an essential perinatal care package and infant mortality. It then uses these conditional associations to quantify the survival benefits in each country if all women were to receive the essential perinatal care package. Utilization of essential perinatal care was associated with a 33 percent reduction in infant mortality in DRC, a 26 percent reduction in India, a 23 percent reduction in Ethiopia, a 22 percent reduction in Nigeria, and an 18 percent reduction in Pakistan. Applying these risk reductions to current birth rates implies that providing essential perinatal care to all pregnant women in these five countries could prevent 754,059 (95% confidence interval(CI): 708,404, 799,714) infant deaths per year and reduce the current global under-five mortality by 15 percent.",
+  "authors": [
+    {
+      "raw": "Chong, Ji Jia",
+      "family": "Chong",
+      "given": "Ji Jia"
+    },
+    {
+      "raw": "Fink, Gunther",
+      "family": "Fink",
+      "given": "Gunther"
+    },
+    {
+      "raw": "Saxena, Akshar",
+      "family": "Saxena",
+      "given": "Akshar"
+    }
+  ],
+  "authors_text": "Chong, Ji Jia; Fink, Gunther; Saxena, Akshar",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70004",
+  "doi_url": "https://doi.org/10.1111/padr.70004",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70004",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70004.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

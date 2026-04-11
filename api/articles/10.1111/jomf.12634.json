@@ -1,0 +1,35 @@
+{
+  "title": "Long-Term Consequences of Early Parenthood",
+  "abstract": "Objective The study examines how early parenthood affects mothers and fathers of different ages, family backgrounds, and cohabitation status. Background Although having children at an early age is associated with unfavorable outcomes for women, the evidence for men is sparse; moreover, having children and cohabiting early are closely related. Method Using Danish register data merging all childbirths to mothers and fathers, the authors examined the long-term consequences of parenthood before age 21. Cohorts born 1968 to 1977 were included. The authors employed sibling fixed effects to investigate the link between early parenthood and educational attainment, employment, and earnings at ages 22 to 35. Results In general, early parenthood limited education and employment, and the relationship was only slightly weaker for men than for women. The effects were persistent across ages, and young parents were still catching up to other parents into their 30s. Around half of the young couples cohabited around childbirth, which mitigated the effect for fathers in particular. Individuals with a favorable family background seemed to be affected more than others. Conclusion Early parenthood had negative long-term consequences for mothers and fathers-even in the context of a Nordic welfare state with generous support. Fathers were less affected when they remained with the mother and child.",
+  "authors": [
+    {
+      "raw": "Johansen, Eva R.",
+      "family": "Johansen",
+      "given": "Eva R."
+    },
+    {
+      "raw": "Nielsen, Helena S.",
+      "family": "Nielsen",
+      "given": "Helena S."
+    },
+    {
+      "raw": "Verner, Mette",
+      "family": "Verner",
+      "given": "Mette"
+    }
+  ],
+  "authors_text": "Johansen, Eva R.; Nielsen, Helena S.; Verner, Mette",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12634",
+  "doi_url": "https://doi.org/10.1111/jomf.12634",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12634",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12634.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

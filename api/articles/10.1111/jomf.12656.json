@@ -1,0 +1,45 @@
+{
+  "title": "Racial/Ethnic Differences in Unwanted Births: Moderation by Sexual Orientation",
+  "abstract": "Objective The objective of this study was to explore sexual orientation disparities in unwanted births by race/ethnicity. Background Previous research has documented that sexual minority women (SMW) are more likely to report unintended pregnancy than heterosexual women and that Black and Latina women are more likely to report unintended pregnancy than White women. No research has examined how pregnancy intention varies at the intersection of these two identities. Method Data come from the pregnancy roster data in Waves 4 and Wave 5 subsample in the National Longitudinal Study of Adolescent to Adult Health. We used live births as the unit of analysis (n = 8,527) and multilevel logistic regression models to account for clustering of births within women. Women were asked if they wanted to be pregnant at the time of pregnancy. The authors conducted models stratified by race/ethnicity as well as models stratified by sexual identity. Results Among White women, SMW were more likely to describe their births as unwanted than were their heterosexual counterparts. Conversely, among Black and Latina women, SMW were less likely to describe their births as unwanted than were their heterosexual counterparts. Results stratified by sexual identity underscore these contrasting patterns: Among heterosexual women, White women were less likely to describe their births as unwanted when compared with Black and Latina women; among SMW, White women were more likely to describe their births as unwanted than were Black and Latina women. Conclusion Traditional race/ethnicity trends in pregnancy intention (i.e., greater unwanted pregnancy among Black/Latina than White women) are reversed among SMW.",
+  "authors": [
+    {
+      "raw": "Everett, Bethany G.",
+      "family": "Everett",
+      "given": "Bethany G."
+    },
+    {
+      "raw": "Mollborn, Stefanie",
+      "family": "Mollborn",
+      "given": "Stefanie"
+    },
+    {
+      "raw": "Jenkins, Virginia",
+      "family": "Jenkins",
+      "given": "Virginia"
+    },
+    {
+      "raw": "Limburg, Aubrey",
+      "family": "Limburg",
+      "given": "Aubrey"
+    },
+    {
+      "raw": "Diamond, Lisa M.",
+      "family": "Diamond",
+      "given": "Lisa M."
+    }
+  ],
+  "authors_text": "Everett, Bethany G.; Mollborn, Stefanie; Jenkins, Virginia; Limburg, Aubrey; Diamond, Lisa M.",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12656",
+  "doi_url": "https://doi.org/10.1111/jomf.12656",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12656",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12656.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

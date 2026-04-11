@@ -1,0 +1,30 @@
+{
+  "title": "Ethics and governance of artificial intelligence in digital China: Evidence from online survey and social media data",
+  "abstract": "With the emerging trend of artificial intelligence (AI) and its application in various fields, AI ethics and its related incidents have aroused concern and caused wide discussion in both society and academia around the world. In this paper, we discuss AI ethics and governance with respect to public perspectives. Based on the existing literature, policies, and guidelines on AI ethics, we sorted AI ethics concerns into eight dimensions: safety, transparency, fairness, personal data protection, liability, truthfulness, human autonomy, and human dignity. Combining online survey data with social media data, we quantified people's concerns on each dimension, and their attitudes toward AI governance policies and goals. The results shed light on how the public understands and views AI ethics and related governance. Finally, we propose several future directions in the development of AI ethics.",
+  "authors": [
+    {
+      "raw": "Cao, Jiongyi",
+      "family": "Cao",
+      "given": "Jiongyi"
+    },
+    {
+      "raw": "Meng, Tianguang",
+      "family": "Meng",
+      "given": "Tianguang"
+    }
+  ],
+  "authors_text": "Cao, Jiongyi; Meng, Tianguang",
+  "journal": "Chinese Journal of Sociology",
+  "journal_slug": "Chinese_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1177/2057150x241313085",
+  "doi_url": "https://doi.org/10.1177/2057150x241313085",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2057150x241313085",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2057150x241313085.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Chinese_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Chinese_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

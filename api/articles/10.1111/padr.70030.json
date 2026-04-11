@@ -1,0 +1,45 @@
+{
+  "title": "It's Raining Babies? Flood Exposures and Fertility in Bangladesh",
+  "abstract": "An abundant demographic literature examines the impacts of climatic and environmental change on human migration and health. However, somewhat less is known about the effects of environmental changes, especially flood events, on fertility despite plausible reasons to expect such impacts. We address this gap by examining the relationship between exposure to flooding and fertility in Bangladesh, which has experienced several catastrophic flood events in recent decades. We link birth records from the Demographic and Health Survey with satellite-derived measures of flooding from 2001 through 2018 and fit regression models to measure the effects of flood exposures on the probability of live births in subsequent years. To explore pathways, we also construct and analyze panels of women's entry into first marriage and mortality among under-5 children. Flooding has uneven effects on fertility across the target population. We detect statistically and substantively meaningful flood-related increases in childbearing among less-educated and higher parity women but find flood-related fertility declines among childless women and those in urban areas. Results also suggest that flood-related delays in marriage among urban women may explain their reductions in fertility. However, findings otherwise provide little systematic evidence that marriage and child mortality mediate the links between flood exposures and fertility.",
+  "authors": [
+    {
+      "raw": "Thiede, Brian C.",
+      "family": "Thiede",
+      "given": "Brian C."
+    },
+    {
+      "raw": "Chen, Joyce J.",
+      "family": "Chen",
+      "given": "Joyce J."
+    },
+    {
+      "raw": "Mueller, Valerie",
+      "family": "Mueller",
+      "given": "Valerie"
+    },
+    {
+      "raw": "Hultquist, Carolynne",
+      "family": "Hultquist",
+      "given": "Carolynne"
+    },
+    {
+      "raw": "Salim, Zarmeen",
+      "family": "Salim",
+      "given": "Zarmeen"
+    }
+  ],
+  "authors_text": "Thiede, Brian C.; Chen, Joyce J.; Mueller, Valerie; Hultquist, Carolynne; Salim, Zarmeen",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70030",
+  "doi_url": "https://doi.org/10.1111/padr.70030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

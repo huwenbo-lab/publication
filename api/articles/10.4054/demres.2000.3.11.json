@@ -1,0 +1,25 @@
+{
+  "title": "Interactive Record Linkage",
+  "abstract": "In order to carry out demographic analyses at individual and group levels, a manual method of linking individual event records from parish registers was developed in the late 1950s. In order to save time and to work with larger areas than small parishe",
+  "authors": [
+    {
+      "raw": "Fure, Eli",
+      "family": "Fure",
+      "given": "Eli"
+    }
+  ],
+  "authors_text": "Fure, Eli",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2000,
+  "doi": "10.4054/demres.2000.3.11",
+  "doi_url": "https://doi.org/10.4054/demres.2000.3.11",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2000.3.11",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2000.3.11.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

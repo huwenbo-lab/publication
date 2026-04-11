@@ -1,0 +1,30 @@
+{
+  "title": "The international child poverty gap: Does Demography matter?",
+  "abstract": "Abstract According to the Luxembourg Income Study data, the U.S. child poverty rate is the second highest among 15 high-income nations. The present work reveals that 55% of all American children living in a household headed by a single female with no other adult present live in poverty—the highest rate for any of the five living arrangements in the 15 countries examined in this study. While previous analyses have focused on market forces and governmental redistribution across households, we question the contribution of demographic factors that place children in family structures with different poverty risks relative to other factors such as differential market opportunities and governmental benefits for adults caring for children in various living arrangements. Applying a classic demographic decomposition technique to the overall poverty gap, we find that the distributional effect of demographic behavior contributes little to the U.S. poverty gap with other nations (and none with respect to the United Kingdom). Overall differences in labor markets and welfare schemes best explain the U.S. child poverty gap, although for some countries, the gap is accentuated by the gradient of governmental transfers, and for most countries, by the gradient of market earnings across living arrangements.",
+  "authors": [
+    {
+      "raw": "Heuveline, Patrick",
+      "family": "Heuveline",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Weinshenker, Matthew",
+      "family": "Weinshenker",
+      "given": "Matthew"
+    }
+  ],
+  "authors_text": "Heuveline, Patrick; Weinshenker, Matthew",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.2008.0007",
+  "doi_url": "https://doi.org/10.1353/dem.2008.0007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2008.0007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2008.0007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

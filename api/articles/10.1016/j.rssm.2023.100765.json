@@ -1,0 +1,30 @@
+{
+  "title": "Graduates? early wages in Germany: Does a university?s status of excellence make the difference?",
+  "abstract": "The German initiative of excellence was the most far-reaching political measure in university funding-a shift from an equal distribution of funds, rooted in Humboldt's tradition, to large-scale merit-based funding. Recent studies have examined the question how the initiative has affected (in)equality in university funding; but as yet little is known about effects on graduates' monetary returns for university degrees. We analyse whether a degree from a 'university of excellence' leads to a wage premium at labour market entry. Inspired by previous work that found advantages only for subgroups, we further analyse whether the excellence effect on wages differs by social background and gender. Applying a difference-in-differences approach in combination with a simulation study, we do not identify a statistically significant excellence premium in the wages for graduates of 'universities of excellence'. Checking for effect heterogeneity, the overall result holds for different social backgrounds as well as for men and women. But even though the average treatment effect, university's status of excellence, is not significant at the usual thresholds, at least a tendency towards higher wages in the short run is identifiable (at a significance level of 13%). Finally, we discuss our results in light of policy evaluation and social stratification processes.",
+  "authors": [
+    {
+      "raw": "Lang, Sebastian",
+      "family": "Lang",
+      "given": "Sebastian"
+    },
+    {
+      "raw": "Schwabe, Ulrike",
+      "family": "Schwabe",
+      "given": "Ulrike"
+    }
+  ],
+  "authors_text": "Lang, Sebastian; Schwabe, Ulrike",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100765",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100765",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100765",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100765.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

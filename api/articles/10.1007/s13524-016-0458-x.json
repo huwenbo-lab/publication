@@ -1,0 +1,40 @@
+{
+  "title": "Estimating the Co-Development of Cognitive Decline and Physical Mobility Limitations in Older US Adults",
+  "abstract": "This study examines the co-development of cognitive and physical function in older Americans using an age-heterogeneous sample drawn from the Health and Retirement Study (1998-2008). We used multiple-group parallel process latent growth models to estimate the association between trajectories of cognitive function as measured by immediate word recall scores, and limitations in physical function as measured as an index of functional mobility limitations. Nested model fit testing was used to assess model fit for the separate trajectories followed by estimation of an unconditional parallel process model. Controls for demographic characteristics, socioeconomic status, and chronic health conditions were added to the best-fitting parallel process model. Pattern mixture models were used to assess the sensitivity of the parameter estimates to the effect of selective attrition. Results indicated that favorable cognitive health and mobility at initial measurement were associated with faster decline in the alternate functional domain. The cross-process associations remained significant when we adjusted estimates for the influence of covariates and selective attrition. Demographic and socioeconomic characteristics were consistently associated with initial cognitive and physical health but had few relations with change in these measures.",
+  "authors": [
+    {
+      "raw": "Bishop, Nicholas J.",
+      "family": "Bishop",
+      "given": "Nicholas J."
+    },
+    {
+      "raw": "Eggum-Wilkens, Natalie D.",
+      "family": "Eggum-Wilkens",
+      "given": "Natalie D."
+    },
+    {
+      "raw": "Haas, Steven A.",
+      "family": "Haas",
+      "given": "Steven A."
+    },
+    {
+      "raw": "Kronenfeld, Jennie J.",
+      "family": "Kronenfeld",
+      "given": "Jennie J."
+    }
+  ],
+  "authors_text": "Bishop, Nicholas J.; Eggum-Wilkens, Natalie D.; Haas, Steven A.; Kronenfeld, Jennie J.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0458-x",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0458-x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0458-x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0458-x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

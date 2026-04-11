@@ -1,0 +1,40 @@
+{
+  "title": "Domestic Outsourcing, Housework Time, and Subjective Time Pressure: New Insights From Longitudinal Data",
+  "abstract": "Hiring household help could reduce housework time and alleviate subjective time pressure. Associations are assumed to be particularly apparent for women because they spend more time on housework than men. But empirical evidence on whether hiring help actually saves time or relieves time pressure is scant and inconclusive, chiefly because of data and methodological limitations. This study improves on earlier ones in that the authors examined panel data from the Household, Income and Labour Dynamics in Australia Survey (n = 5,124 couples) that enable modeling techniques that take account of selection effects, possible reverse causality, and unobserved heterogeneity. Contrary to some earlier studies, the authors show that outsourcing does in fact reduce housework time, narrow gender gaps, and lower women's subjective time pressure. They conclude that domestic outsourcing may save time and reduce subjective pressure for some women, but one consequence may be increased inequality between women who can and cannot afford domestic help.",
+  "authors": [
+    {
+      "raw": "Craig, Lyn",
+      "family": "Craig",
+      "given": "Lyn"
+    },
+    {
+      "raw": "Perales, Francisco",
+      "family": "Perales",
+      "given": "Francisco"
+    },
+    {
+      "raw": "Vidal, Sergi",
+      "family": "Vidal",
+      "given": "Sergi"
+    },
+    {
+      "raw": "Baxter, Janeen",
+      "family": "Baxter",
+      "given": "Janeen"
+    }
+  ],
+  "authors_text": "Craig, Lyn; Perales, Francisco; Vidal, Sergi; Baxter, Janeen",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2016,
+  "doi": "10.1111/jomf.12321",
+  "doi_url": "https://doi.org/10.1111/jomf.12321",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12321",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12321.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

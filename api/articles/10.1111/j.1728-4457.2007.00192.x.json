@@ -1,0 +1,30 @@
+{
+  "title": "Intrinsic growth rates and net reproduction rates in the presence of migration",
+  "abstract": "Conventional measures of long-term population growth such as the intrinsic growth rate and the net reproduction rate assume migration rates to be zero. We develop expressions for analogous measures that register the impact of net migration rates, and we develop a simple method of estimating their values. Applying these new measures to data for developed countries shows that allowance for migration raises net reproduction rates by 0.2-0.3 in areas of overseas European settlement and by approximately half as much in Northern and Western Europe. The newly defined intrinsic growth rates in Eastern Europe are exceptionally low at -1.7 percent to -2.4 percent per annum. In contrast, the migration-adjusted intrinsic growth rate of the United States exceeds those of Asia and Latin America. The formulas and estimation procedures described should allow a more precise understanding of the implications of current migration patterns for long-term growth prospects.",
+  "authors": [
+    {
+      "raw": "Preston, Samuel H.",
+      "family": "Preston",
+      "given": "Samuel H."
+    },
+    {
+      "raw": "Wang, Haidong",
+      "family": "Wang",
+      "given": "Haidong"
+    }
+  ],
+  "authors_text": "Preston, Samuel H.; Wang, Haidong",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2007,
+  "doi": "10.1111/j.1728-4457.2007.00192.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2007.00192.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2007.00192.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2007.00192.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

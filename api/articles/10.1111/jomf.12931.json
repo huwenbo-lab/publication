@@ -1,0 +1,30 @@
+{
+  "title": "Stepfamily formation and the educational outcomes of children in Sweden",
+  "abstract": "Objective: We examine the impact of stepfamily exposure on the educational outcomes of children, considering factors such as age at stepfamily formation, gender of the stepparent, presence of step/half-siblings, and the stepparent's socioeconomic resources.Background: The prevalence of stepfamilies across the Global North highlights the urgency of the issue. Despite a sizeable existing empirical literature, much research has been conducted on small datasets, characterized by a limited ability to examine heterogeneities in the stepfamily experience.Method: We analyze Swedish register data, examining a population of 1.1 million individuals born between 1973 and 1998. Examining four separate school outcomes, we investigate the influence of different aspects of the individual's stepfamily experience, measured continuously throughout the individual's childhood and adolescence using OLS regression.Results: Examining hypotheses based on the risk and resilience framework, there are few indications that children exposed to a stepfamily during childhood or adolescence perform worse in school than a child with parents who divorce but without remarrying. Additionally, the results highlight differences between the consequences of exposure to a stepfather or a stepmother as well as due to the socioeconomic resources possessed by stepparent.Conclusion: The results demonstrate the complexities that characterize the stepfamily experience, with challenges particularly affecting the stepmother. Despite these, the study highlights the absence of negative effects on children's education, also emphasizing the considerable importance of both intellectual and financial resources brought by stepparents.",
+  "authors": [
+    {
+      "raw": "Helgertz, Jonas",
+      "family": "Helgertz",
+      "given": "Jonas"
+    },
+    {
+      "raw": "Tegunimataka, Anna",
+      "family": "Tegunimataka",
+      "given": "Anna"
+    }
+  ],
+  "authors_text": "Helgertz, Jonas; Tegunimataka, Anna",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12931",
+  "doi_url": "https://doi.org/10.1111/jomf.12931",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12931",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12931.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

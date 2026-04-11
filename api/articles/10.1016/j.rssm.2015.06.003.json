@@ -1,0 +1,35 @@
+{
+  "title": "Socioeconomic inequality in access to high-status colleges: A cross-country comparison",
+  "abstract": "This paper considers the relationship between family background, academic achievement in high school and access to high-status postsecondary institutions in three developed countries (Australia, England and the United States). We begin by estimating the unconditional association between family background and access to a high status university, before examining how this relationship changes once academic achievement in high school is controlled. Our results suggest that high achieving disadvantaged children are much less likely to enter a high-status college than their more advantaged peers, and that the magnitude of this socio-economic gradient is broadly similar across these three countries. However, we also find that socio-economic inequality in access to high-status private US colleges is much more pronounced than access to their public sector counterparts (both within the US and when compared overseas). (C) 2015 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).",
+  "authors": [
+    {
+      "raw": "Jerrim, John",
+      "family": "Jerrim",
+      "given": "John"
+    },
+    {
+      "raw": "Chmielewski, Anna K.",
+      "family": "Chmielewski",
+      "given": "Anna K."
+    },
+    {
+      "raw": "Parker, Phil",
+      "family": "Parker",
+      "given": "Phil"
+    }
+  ],
+  "authors_text": "Jerrim, John; Chmielewski, Anna K.; Parker, Phil",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2015,
+  "doi": "10.1016/j.rssm.2015.06.003",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2015.06.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2015.06.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2015.06.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

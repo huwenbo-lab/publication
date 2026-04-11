@@ -1,0 +1,30 @@
+{
+  "title": "Financially Overextended: College Attendance as a Contributor to Foreclosures During the Great Recession",
+  "abstract": "Although subprime mortgage lending and unemployment were largely responsible for the wave of foreclosures during the Great Recession, additional sources of financial risk may have exacerbated the crisis. We hypothesize that many parents sending children to college were financially overextended and vulnerable to foreclosure as the economy contracted. With commuting zone panel data from 2006 to 2011, we show that increasing rates of college attendance across the income distribution in one year predict a foreclosure rate increase in subsequent years, net of fixed characteristics and changes in employment, refinance debt, house prices, and 19-year-old population size. We find similar evidence of college-related foreclosure risk using longitudinal household data from the Panel Study of Income Dynamics. Our findings uncover a previously overlooked dimension of the foreclosure crisis, and highlight mortgage insecurity as an inadvertent consequence of parental investment in higher education.",
+  "authors": [
+    {
+      "raw": "Faber, Jacob W.",
+      "family": "Faber",
+      "given": "Jacob W."
+    },
+    {
+      "raw": "Rich, Peter M.",
+      "family": "Rich",
+      "given": "Peter M."
+    }
+  ],
+  "authors_text": "Faber, Jacob W.; Rich, Peter M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0702-7",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0702-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0702-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0702-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

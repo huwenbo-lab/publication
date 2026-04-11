@@ -1,0 +1,30 @@
+{
+  "title": "The gender gap in schooling outcomes: A cohort study of young men and women in India",
+  "abstract": "BACKGROUNDAlthough literacy rates in India have improved for both men and women, less is known about the evolution of gender disparities across different levels of educational attainment.OBJECTIVEThe goal is to determine whether gender gaps in schooling outcomes have narrowed, widened, or remained unchanged across birth cohorts.METHODSWith a multinomial logit specification, we compare six education outcomes for people born to the 1956-1960, 1961-1965, ..., and 1986-1990 cohort groups. Our empirical tests indicate whether the gender gaps have narrowed, widened, or remained unchanged across the cohort groups.RESULTSWe find evidence of narrowing gender gaps for some but not all education outcomes. The gender gaps narrow for not attending school, attending primary school, and primary school completion, but they persist for secondary school completion, attending college, and college completion.CONCLUSIONSAlthough we observe improvements in the gender gaps in schooling outcomes toward the lower end of the education spectrum, gender inequities associated with higher levels of schooling persist across cohort groups. It is important to understand the causes of these patterns, as there are likely important policy considerations for India as it grapples with the interactions among technological change, a relatively young workforce, and persistent gendered norms and attitudes.CONTRIBUTIONThe paper makes two noteworthy contributions. First, we show that gender progress in schooling outcomes is not uniform across different levels of educational attainment. Second, our cohort study framework provides a simple test for progress (or lack thereof) in education and other settings.",
+  "authors": [
+    {
+      "raw": "Dutta, Nabamita",
+      "family": "Dutta",
+      "given": "Nabamita"
+    },
+    {
+      "raw": "Nunley, John",
+      "family": "Nunley",
+      "given": "John"
+    }
+  ],
+  "authors_text": "Dutta, Nabamita; Nunley, John",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.48.33",
+  "doi_url": "https://doi.org/10.4054/demres.2023.48.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.48.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.48.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

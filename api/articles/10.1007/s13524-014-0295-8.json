@@ -1,0 +1,30 @@
+{
+  "title": "Testing the Economic Independence Hypothesis: The Effect of an Exogenous Increase in Child Support on Subsequent Marriage and Cohabitation",
+  "abstract": "Abstract We examine the effects of an increase in income on the cohabitation and marriage of single mothers. Using data from an experiment that resulted in randomly assigned differences in child support receipt for welfare-receiving single mothers, we find that exogenous income increases (as a result of receiving all child support that was paid) are associated with significantly lower cohabitation rates between mothers and men who are not the fathers of their child(ren). Overall, these results support the hypothesis that additional income increases disadvantaged women’s economic independence by reducing the need to be in the least stable type of partnerships. Our results also show the potential importance of distinguishing between biological and social fathers.",
+  "authors": [
+    {
+      "raw": "Cancian, Maria",
+      "family": "Cancian",
+      "given": "Maria"
+    },
+    {
+      "raw": "Meyer, Daniel R.",
+      "family": "Meyer",
+      "given": "Daniel R."
+    }
+  ],
+  "authors_text": "Cancian, Maria; Meyer, Daniel R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0295-8",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0295-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0295-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0295-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

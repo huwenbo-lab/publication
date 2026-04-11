@@ -1,0 +1,35 @@
+{
+  "title": "Historical Patterns and Trends in Teacher-Student Demographic Changes in the United States",
+  "abstract": "This visualization represents historical patterns and trends in racial/ethnic distributions of teachers and students over the past five decades in K–12 public schools in the United States. Specifically, the authors highlight the demographic mismatch between the school-age population and the teaching workforce that persists for all non-White groups. The rapidly diversifying, multiethnic school-age population highlighted by the 2020 census combined with the persistent, predominantly White teacher population continues to remain a concerning issue given the multifaceted benefits of student-teacher demographic match for students from minoritized backgrounds. Recruitment and retention of a diverse teaching workforce that mirrors the school-age population must remain a core education policy priority in the coming decades.",
+  "authors": [
+    {
+      "raw": "Gopalan, Maithreyi",
+      "family": "Gopalan",
+      "given": "Maithreyi"
+    },
+    {
+      "raw": "Jung, Jilli",
+      "family": "Jung",
+      "given": "Jilli"
+    },
+    {
+      "raw": "Hanselman, Paul",
+      "family": "Hanselman",
+      "given": "Paul"
+    }
+  ],
+  "authors_text": "Gopalan, Maithreyi; Jung, Jilli; Hanselman, Paul",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251321323",
+  "doi_url": "https://doi.org/10.1177/23780231251321323",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251321323",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251321323.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

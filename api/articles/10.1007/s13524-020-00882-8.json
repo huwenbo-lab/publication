@@ -1,0 +1,35 @@
+{
+  "title": "Does Information Change Attitudes Toward Immigrants?",
+  "abstract": "Strategies aimed at reducing negative attitudes toward immigrants are at the core of integration policies. A large literature shows that misperceptions about the size and characteristics of immigrants are common. A few studies implemented interventions to correct innumeracy regarding the size of the immigrant population, but they did not detect any effects on attitudes. We study whether providing information not only about the size but also about the characteristics of the immigrant population can have stronger effects. We conduct two online experiments with samples from the United States, providing one-half of the participants with five statistics about immigration. This information bundle improves people's attitudes toward current legal immigrants. Most effects are driven by Republicans and other groups with more negative initial attitudes toward immigrants. In our second experiment, we show that treatment effects persist one month later. Finally, we analyze a large cross-country survey experiment to provide external validity to the finding that information about the size of the foreign-born population is not enough to change policy views. We conclude that people with negative views on immigration before the intervention can become more supportive of immigration if their misperceptions about the characteristics of the foreign-born population are corrected.",
+  "authors": [
+    {
+      "raw": "Grigorieff, Alexis",
+      "family": "Grigorieff",
+      "given": "Alexis"
+    },
+    {
+      "raw": "Roth, Christopher",
+      "family": "Roth",
+      "given": "Christopher"
+    },
+    {
+      "raw": "Ubfal, Diego",
+      "family": "Ubfal",
+      "given": "Diego"
+    }
+  ],
+  "authors_text": "Grigorieff, Alexis; Roth, Christopher; Ubfal, Diego",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-020-00882-8",
+  "doi_url": "https://doi.org/10.1007/s13524-020-00882-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-020-00882-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-020-00882-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

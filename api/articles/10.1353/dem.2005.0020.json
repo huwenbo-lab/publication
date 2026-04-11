@@ -1,0 +1,30 @@
+{
+  "title": "Urban poverty and health in developing countries: Household and neighborhood Effects",
+  "abstract": "Abstract In the United States and other high-income countries, there is intense scholarly and programmatic interest in the effects of household and neighborhood living standards on health. Yet few studies of developing-country cities have explored these issues. We investigated whether the health of urban women and children in poor countries is influenced by both household and neighborhood standards of living. Using data from the urban samples of 85 Demographic and Health Surveys and modeling living standards using factor-analytic MIMIC methods, we found that the neighborhoods of relatively poor households are more heterogeneous than is often asserted. Our results indicated that poor urban households do not tend to live in uniformly poor neighborhoods: about 1 in 10 of a poor household’s neighbors is relatively affluent, belonging to the upper quartile of the urban distribution of living standards. Do household and neighborhood living standards influence health? Using multivariate models, we found that household living standards are closely associated with three health measures: unmet need for modern contraception, attendance of a trained health care provider at childbirth, and young children’s height for age. Neighborhood living standards exert a significant additional influence in many of the surveys we examined, especially for birth attendance.",
+  "authors": [
+    {
+      "raw": "Montgomery, Mark R.",
+      "family": "Montgomery",
+      "given": "Mark R."
+    },
+    {
+      "raw": "Hewett, Paul C.",
+      "family": "Hewett",
+      "given": "Paul C."
+    }
+  ],
+  "authors_text": "Montgomery, Mark R.; Hewett, Paul C.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2005,
+  "doi": "10.1353/dem.2005.0020",
+  "doi_url": "https://doi.org/10.1353/dem.2005.0020",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2005.0020",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2005.0020.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "The Effect of Maternal Education on Child Mortality in Bangladesh",
+  "abstract": "This paper examines the effect of maternal education on child mortality in Bangladesh by exploiting quasi-experimental variations in the duration of exposure to a school stipend project for identification. Results from the instrumental variable estimation indicate that an additional year of maternal schooling reduces both under-five and infant mortality by about 20 percent. The findings are statistically significant and robust to a number of model specifications, including survival models controlling for right censoring of child mortality. Analysis of potential mechanisms suggests that maternal education reduces child mortality through greater wealth and literacy, positive assortative mating, lower fertility, delayed marriage and childbearing, greater health-related knowledge, better health-seeking behaviors, and female empowerment, but not through female employment.",
+  "authors": [
+    {
+      "raw": "Wu, Hanbo",
+      "family": "Wu",
+      "given": "Hanbo"
+    }
+  ],
+  "authors_text": "Wu, Hanbo",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2022,
+  "doi": "10.1111/padr.12467",
+  "doi_url": "https://doi.org/10.1111/padr.12467",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12467",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12467.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

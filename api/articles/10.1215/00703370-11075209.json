@@ -1,0 +1,65 @@
+{
+  "title": "Evaluating the Accuracy of 2020 Census Block-Level Estimates in California",
+  "abstract": "In this study, we pro vide an assess ment of data accu racy from the 2020 Census. We com pare block-level pop u la tion totals from a sam ple of 173 cen sus blocks in California across three sources: (1) the 2020 Census, which has been infused with error to pro tect respon dent con fi den ti al ity; (2) the California Neighborhoods Count, the first inde pen dent enu mer a tion sur vey of cen sus blocks; and (3) pro jec tions based on the 2010 Census and sub se quent Amer i can Community Surveys. We find that, on aver age, total pop u la tion counts pro vided by the U.S. Census Bureau at the block level for the 2020 Census are not biased in any con sis tent direc tion. However, sub pop u la tion totals defined by age, race, and eth nic ity are highly var i able. Additionally, we find that inconsistencies across the three sources are ampli fied in large blocks defined in terms of land area or by total hous ing units, blocks in sub ur ban areas, and blocks that lack broadband access.",
+  "authors": [
+    {
+      "raw": "Bozick, Robert",
+      "family": "Bozick",
+      "given": "Robert"
+    },
+    {
+      "raw": "Burgette, Lane F.",
+      "family": "Burgette",
+      "given": "Lane F."
+    },
+    {
+      "raw": "Sharygin, Ethan",
+      "family": "Sharygin",
+      "given": "Ethan"
+    },
+    {
+      "raw": "Shih, Regina A.",
+      "family": "Shih",
+      "given": "Regina A."
+    },
+    {
+      "raw": "Weidmer, Beverly",
+      "family": "Weidmer",
+      "given": "Beverly"
+    },
+    {
+      "raw": "Tzen, Michael",
+      "family": "Tzen",
+      "given": "Michael"
+    },
+    {
+      "raw": "Kofner, Aaron",
+      "family": "Kofner",
+      "given": "Aaron"
+    },
+    {
+      "raw": "Brand, Jennie E.",
+      "family": "Brand",
+      "given": "Jennie E."
+    },
+    {
+      "raw": "Beltran-Sanchez, Hiram",
+      "family": "Beltran-Sanchez",
+      "given": "Hiram"
+    }
+  ],
+  "authors_text": "Bozick, Robert; Burgette, Lane F.; Sharygin, Ethan; Shih, Regina A.; Weidmer, Beverly; Tzen, Michael; Kofner, Aaron; Brand, Jennie E.; Beltran-Sanchez, Hiram",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-11075209",
+  "doi_url": "https://doi.org/10.1215/00703370-11075209",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11075209",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11075209.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

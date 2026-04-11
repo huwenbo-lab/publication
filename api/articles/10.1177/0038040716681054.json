@@ -1,0 +1,25 @@
+{
+  "title": "Does College Enrollment and Bachelor's Completion by Mothers Impact Children's Educational Outcomes?",
+  "abstract": "Today, many undergraduates are themselves raising children. But does college-going by parents improve their offspring's educational attainment? I address this question using data from the National Longitudinal Survey of Youth-1979 and linked Children and Young Adults Survey. I first model postnatal college enrollment and bachelor's completion by mothers and use predicted probabilities to minimize selection bias through inverse probability of treatment weighting. I then estimate the impact of maternal college enrollment and attainment on offspring's likelihood of graduating from high school, enrolling in college, and completing a four-year degree. I find sizeable effects of maternal college completion on all outcomes, but the impact of maternal enrollment without completion is considerably muted. I review implications for sociological research and policies to assist nontraditional students.",
+  "authors": [
+    {
+      "raw": "Monaghan, David",
+      "family": "Monaghan",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Monaghan, David",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2017,
+  "doi": "10.1177/0038040716681054",
+  "doi_url": "https://doi.org/10.1177/0038040716681054",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040716681054",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040716681054.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

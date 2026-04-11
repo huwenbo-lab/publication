@@ -1,0 +1,35 @@
+{
+  "title": "Does Electrification Spur the Fertility Transition? Evidence From Indonesia",
+  "abstract": "We analyze various pathways through which access to electricity affects fertility in Indonesia, using a district difference-in-difference approach. The electrification rate increased by 65 % over the study period, and our results suggest that the subsequent effects on fertility account for about 18 % to 24 % of the overall decline in fertility. A key channel is increased exposure to television. Using in addition several waves of Demographic and Health Surveys, we find suggestive evidence that increased exposure to TV affects, in particular, fertility preferences and increases the effective use of contraception. Reduced child mortality seems to be another important pathway.",
+  "authors": [
+    {
+      "raw": "Grimm, Michael",
+      "family": "Grimm",
+      "given": "Michael"
+    },
+    {
+      "raw": "Sparrow, Robert",
+      "family": "Sparrow",
+      "given": "Robert"
+    },
+    {
+      "raw": "Tasciotti, Luca",
+      "family": "Tasciotti",
+      "given": "Luca"
+    }
+  ],
+  "authors_text": "Grimm, Michael; Sparrow, Robert; Tasciotti, Luca",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0420-3",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0420-3",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0420-3",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0420-3.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

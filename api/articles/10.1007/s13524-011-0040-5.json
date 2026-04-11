@@ -1,0 +1,55 @@
+{
+  "title": "Probabilistic Projections of the Total Fertility Rate for All Countries",
+  "abstract": "AbstractWe describe a Bayesian projection model to produce country-specific projections of the total fertility rate (TFR) for all countries. The model decomposes the evolution of TFR into three phases: pre-transition high fertility, the fertility transition, and post-transition low fertility. The model for the fertility decline builds on the United Nations Population Division’s current deterministic projection methodology, which assumes that fertility will eventually fall below replacement level. It models the decline in TFR as the sum of two logistic functions that depend on the current TFR level, and a random term. A Bayesian hierarchical model is used to project future TFR based on both the country’s TFR history and the pattern of all countries. It is estimated from United Nations estimates of past TFR in all countries using a Markov chain Monte Carlo algorithm. The post-transition low fertility phase is modeled using an autoregressive model, in which long-term TFR projections converge toward and oscillate around replacement level. The method is evaluated using out-of-sample projections for the period since 1980 and the period since 1995, and is found to be well calibrated.",
+  "authors": [
+    {
+      "raw": "Alkema, Leontine",
+      "family": "Alkema",
+      "given": "Leontine"
+    },
+    {
+      "raw": "Raftery, Adrian E.",
+      "family": "Raftery",
+      "given": "Adrian E."
+    },
+    {
+      "raw": "Gerland, Patrick",
+      "family": "Gerland",
+      "given": "Patrick"
+    },
+    {
+      "raw": "Clark, Samuel J.",
+      "family": "Clark",
+      "given": "Samuel J."
+    },
+    {
+      "raw": "Pelletier, François",
+      "family": "Pelletier",
+      "given": "François"
+    },
+    {
+      "raw": "Buettner, Thomas",
+      "family": "Buettner",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Heilig, Gerhard K.",
+      "family": "Heilig",
+      "given": "Gerhard K."
+    }
+  ],
+  "authors_text": "Alkema, Leontine; Raftery, Adrian E.; Gerland, Patrick; Clark, Samuel J.; Pelletier, François; Buettner, Thomas; Heilig, Gerhard K.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0040-5",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0040-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0040-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0040-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

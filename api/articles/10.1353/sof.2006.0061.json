@@ -1,0 +1,25 @@
+{
+  "title": "Statistical Inference and Patterns of Inequality in the Global North",
+  "abstract": "Cross-national inequality trends have historically been a crucial field of inquiry across the social sciences, and new methodological techniques of statistical inference have recently improved the ability to analyze these trends over time. This paper applies Monte Carlo, bootstrap inference methods to the income surveys of the Luxembourg Income Study database to identify patterns of distributional change in the global North from 1980 to 2000. While it is now generally accepted that inequality has increased in the United States and United Kingdom during this period, the extent to which other wealthy nations have been able to avoid this trend (or not) has generated some debate. This paper presents new evidence to address this discussion, demonstrating along the way how the ability to conduct formal statistical inference with statistics such as the Gini index provides an effective and important new evaluative tool for comparative research.",
+  "authors": [
+    {
+      "raw": "Moran, T. P.",
+      "family": "Moran",
+      "given": "T. P."
+    }
+  ],
+  "authors_text": "Moran, T. P.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2006,
+  "doi": "10.1353/sof.2006.0061",
+  "doi_url": "https://doi.org/10.1353/sof.2006.0061",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2006.0061",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2006.0061.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

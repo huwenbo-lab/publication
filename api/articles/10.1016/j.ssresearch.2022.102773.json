@@ -1,0 +1,25 @@
+{
+  "title": "Racial disparities in the screening of candidates for software engineering internships",
+  "abstract": "Internships are a common way for firms to hire college-educated workers, prompting concerns about how internship hiring affects various forms of inequality in the transition from school to work. Some of these concerns center on whether internships might be less accessible for workers from non-white racial groups. In this paper, I examine racial disparities in internship hiring and argue that, relative to full-time hiring, in internship hiring firms have less information about candidates' qualifications and are also less motivated to screen candidates intensely. Therefore, group-based status beliefs play a larger role in the screening of intern candidates than in the screening of full-time candidates, leading to larger disadvantages for low -status workers (i.e., non-white workers). I examine these claims using data from a Silicon Valley software firm recruiting for both software engi-neering internships and entry-level software engineering positions. I find evidence consistent with such cursory screening of intern candidates leading to non-white (i.e., Asian, Hispanic, Black) job candidates being more strongly disadvantaged relative to white candidates in competing for internships as compared with full-time positions.",
+  "authors": [
+    {
+      "raw": "Campero, Santiago",
+      "family": "Campero",
+      "given": "Santiago"
+    }
+  ],
+  "authors_text": "Campero, Santiago",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2022.102773",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2022.102773",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2022.102773",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2022.102773.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

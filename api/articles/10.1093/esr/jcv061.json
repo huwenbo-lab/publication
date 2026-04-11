@@ -1,0 +1,25 @@
+{
+  "title": "The Introduction of Bachelor Degrees and the Under-representation of Students from Low Social Origin in Higher Education in Germany: A Pseudo-Panel Approach",
+  "abstract": "In the course of the Bologna Process, European higher education systems have experienced major reforms. In Germany as in several other countries, the main novelty was a reduction of the length of study to get a first-level degree (Bachelor), together with the introduction of a second-level degree (Master's). One of the priorities of the Bologna Process is the so-called 'social dimension', meaning that participation in higher education should be widened by fostering the potential of students from under-represented groups, such as those from socioeconomically disadvantaged backgrounds. To evaluate this reform goal, this article tests whether the shortening of the length of study to get a first degree countervails the under-representation. I use variation introduced by the non-uniform adaption of the new degree structure to identify the effect. Using repeated cross-sectional student survey data to generate panel data at the level of study courses, fixed-effects estimators indicate that the shortening has no (positive) effect on the share of students from low social origins.",
+  "authors": [
+    {
+      "raw": "Neugebauer, Martin",
+      "family": "Neugebauer",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Neugebauer, Martin",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2015,
+  "doi": "10.1093/esr/jcv061",
+  "doi_url": "https://doi.org/10.1093/esr/jcv061",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcv061",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcv061.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

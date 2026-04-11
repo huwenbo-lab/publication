@@ -1,0 +1,30 @@
+{
+  "title": "The Care Burden during COVID-19: A National Database of Child Care Closures in the United States",
+  "abstract": "Access to child care centers reduces the care burden of parents, promotes child development, and creates employment opportunities. During the coronavirus disease 2019 pandemic, however, many child care centers closed or reduced capacity because of restrictions and declining demand for in-person care. The authors use anonymized and aggregated mobile phone data to track year-over-year changes in visits to child care centers across most counties in the United States during each month of the pandemic. The findings reveal that two-thirds of child care centers closed in April 2020, while one-third remained closed in April 2021. Moreover, non-White families are more likely to be exposed to child care closures than White families. The findings point to widening inequalities in access to child care and potential inequalities in the pace of labor market recovery after the pandemic subsides. The authors make their monthly updated database on child care closures publicly available.",
+  "authors": [
+    {
+      "raw": "Lee, Emma K.",
+      "family": "Lee",
+      "given": "Emma K."
+    },
+    {
+      "raw": "Parolin, Zachary",
+      "family": "Parolin",
+      "given": "Zachary"
+    }
+  ],
+  "authors_text": "Lee, Emma K.; Parolin, Zachary",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/23780231211032028",
+  "doi_url": "https://doi.org/10.1177/23780231211032028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231211032028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231211032028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

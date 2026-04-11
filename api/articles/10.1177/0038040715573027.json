@@ -1,0 +1,25 @@
+{
+  "title": "Kindergarten Black-White Test Score Gaps: Re-examining the Roles of Socioeconomic Status and School Quality with New Data",
+  "abstract": "Black-white test score gaps form in early childhood and widen over elementary school. Sociologists have debated the roles that socioeconomic status (SES) and school quality play in explaining these patterns. In this study, I replicate and extend past research using new nationally representative data from the Early Childhood Longitudinal Study-Kindergarten Class of 2010-2011. I find black-white test score gaps at kindergarten entry in 2010 in reading (SD = .32), math (SD = .54), and working memory (SD = .52 among children with valid scores). Math and reading gaps widened by approximately .06 standard deviations over kindergarten, but the working memory gap was constant. Multivariate regressions show that student SES explained the reading gap at school entry, but gap decompositions suggest that school quality differences were responsible for the widening of the reading gap over kindergarten. SES explained much of the math gap at school entry, but the widening of the math gap could not be explained by SES, school quality, or other hypotheses.",
+  "authors": [
+    {
+      "raw": "Quinn, David M.",
+      "family": "Quinn",
+      "given": "David M."
+    }
+  ],
+  "authors_text": "Quinn, David M.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2015,
+  "doi": "10.1177/0038040715573027",
+  "doi_url": "https://doi.org/10.1177/0038040715573027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040715573027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040715573027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

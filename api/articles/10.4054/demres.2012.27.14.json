@@ -1,0 +1,30 @@
+{
+  "title": "Spatially varying predictors of teenage birth rates among counties in the United States",
+  "abstract": "BACKGROUND: Limited information is available about teenage pregnancy and childbearing in rural areas, even though approximately 20 percent of the nation's youth live in rural areas. Identifying whether there are differences in the teenage birth rate (TBR) across metropolitan and nonmetropolitan areas is important, because these differences may reflect modifiable ecological-level influences such as education, employment, laws, healthcare infrastructure, and policies that could potentially reduce the TBR. OBJECTIVES: The goals of this study are to investigate whether there are spatially varying relationships between the TBR and the independent variables, and if so, whether these associations differ between metropolitan and nonmetropolitan counties. METHODS: We explore the heterogeneity within metropolitan/nonmetropolitan county groups separately using geographically weighted regression (GWR), and investigate the difference between metropolitan/nonmetropolitan counties using spatial regime models with spatial errors. These analyses were applied to county-level data from the National Center for Health Statistics and the US Census Bureau. RESULTS: GWR results suggested that non-stationarity exists in the associations between TBR and determinants within metropolitan/nonmetropolitan groups. The spatial regime analysis indicated that the effect of socioeconomic disadvantage on TBR significantly varied by the metropolitan status of counties. CONCLUSIONS: While the spatially varying relationships between the TBR and independent variables were found within each metropolitan status of counties, only the magnitude of the impact of the socioeconomic disadvantage index is significantly stronger among metropolitan counties than nonmetropolitan counties. Our findings suggested that place-specific policies for the disadvantaged groups in a county could be implemented to reduce TBR in the US.",
+  "authors": [
+    {
+      "raw": "Shoff, Carla",
+      "family": "Shoff",
+      "given": "Carla"
+    },
+    {
+      "raw": "Yang, Tse-Chuan",
+      "family": "Yang",
+      "given": "Tse-Chuan"
+    }
+  ],
+  "authors_text": "Shoff, Carla; Yang, Tse-Chuan",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2012,
+  "doi": "10.4054/demres.2012.27.14",
+  "doi_url": "https://doi.org/10.4054/demres.2012.27.14",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2012.27.14",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2012.27.14.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

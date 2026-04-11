@@ -1,0 +1,35 @@
+{
+  "title": "From flexibility to unending availability: Platform workers' experiences of work-family conflict",
+  "abstract": "ObjectiveThis article examines whether performing location-based platform work is associated with greater work-family conflict-and if this association is stronger for those relying on labor platforms for their primary employment.BackgroundDigital labor platforms project a vision of flexibility and improved work-family balance for workers; however, empirical evidence supporting these promises remains elusive. While platform workers are normally offered the freedom to choose their work hours, the efforts of labor platforms to algorithmically manage workers' schedules may encourage an 'always-on' approach to work that pressures workers to prioritize work availability that exacerbates work-family conflicts.MethodWe conducted three national surveys of Canadian workers in 2020, 2021, and 2022. Based on pooled survey data (N = 10,483), structural equational modeling was used to investigate (1) the relationship between location-based platform work and work-family conflict and (2) the mediating role of work-family role blurring-captured by work contact outside of normal working hours.ResultsWe discovered that platform workers, compared to employees and the traditional self-employed, reported greater work-family conflict-conflicts that were especially pronounced for those relying on labor platforms as their primary source of income. These patterns were partially explained by platform workers' increased exposure to work contact outside of work hours.ConclusionOur findings question the assertion that digital labor platforms provide enhanced flexibility for managing work and family demands. Instead, we contend that the instability inherent in platform work blurs and disrupts work-family role boundaries, disproportionately favoring labor platforms and their clientele at the expense of workers' familial responsibilities.",
+  "authors": [
+    {
+      "raw": "Glavin, Paul",
+      "family": "Glavin",
+      "given": "Paul"
+    },
+    {
+      "raw": "Schieman, Scott",
+      "family": "Schieman",
+      "given": "Scott"
+    },
+    {
+      "raw": "Bierman, Alex",
+      "family": "Bierman",
+      "given": "Alex"
+    }
+  ],
+  "authors_text": "Glavin, Paul; Schieman, Scott; Bierman, Alex",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2024,
+  "doi": "10.1111/jomf.12977",
+  "doi_url": "https://doi.org/10.1111/jomf.12977",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12977",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12977.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

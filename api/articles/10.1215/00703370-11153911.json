@@ -1,0 +1,35 @@
+{
+  "title": "Sunny-Day Flooding and Mortality Risk in Coastal Florida",
+  "abstract": "Sea -level rise is likely to worsen the impacts of hur ri canes, storm surges, and tidal flooding on coastal access to basic ser vices. We inves ti gate the his tor i cal impact of tidal flooding on mor tal ity rates of the elderly pop u la tion in coastal Florida using administrative records of individual deaths, demographics, and residential location com bined with tidal gauge and high-res o lu tion ele va tion data. We incor po rate data cap tur ing storm and pre cip i ta tion events into our empir i cal model to dis tin guish between dis rup tions from rou tine sunny -day flooding and less pre dict able trop i cal storm-induced flooding. We find that a 1-stan dard-devi a tion (20-mil li me ter) increase in tidal flooding depth increases mor tal ity rates by 0.46% to 0.60% among those aged 65 or older. Our esti ma tes sug gest that future sea -level rises may con trib ute to an additional 130 elderly deaths per year in Florida rel a tive to 2019, all else being equal. The enhanced risk is con cen trated among res i dents liv ing more than nine min utes away from the nearest hos pi tal. Results sug gest that tidal flooding may aug ment elderly mortal ity risk by delaying urgent med i cal care.",
+  "authors": [
+    {
+      "raw": "Mueller, Valerie",
+      "family": "Mueller",
+      "given": "Valerie"
+    },
+    {
+      "raw": "Hauer, Mathew",
+      "family": "Hauer",
+      "given": "Mathew"
+    },
+    {
+      "raw": "Sheriff, Glenn",
+      "family": "Sheriff",
+      "given": "Glenn"
+    }
+  ],
+  "authors_text": "Mueller, Valerie; Hauer, Mathew; Sheriff, Glenn",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11153911",
+  "doi_url": "https://doi.org/10.1215/00703370-11153911",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11153911",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11153911.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

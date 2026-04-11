@@ -1,0 +1,50 @@
+{
+  "title": "US Fertility in Life Course Context: A Research Note on Using Census-Held Linked Administrative Records for Geographic and Sociodemographic Subgroup Estimation",
+  "abstract": "Fertility is a life course pro cess that is strongly shaped by geo graphic and sociodemographic sub group con texts. In the United States, schol ars face a choice: they can sit u ate fer til ity in a life course per spec tive using panel data, which is typ i cally rep re sen ta tive only at the national level; or they can attend to sub na tional con texts using rate sched ules, which do not include infor ma tion on life course sta tuses. The method and data source we intro duce here, Census Held Linked Administrative Records for Fertility Estimation (CLARFE), per mits both. It derives fer til ity his to ries and rate sched ules from U.S. Census Bureau-held data for the nation and by state, racial and eth nic sub groups, and the impor tant life course sta tus of par ity. We gen er ate three types of rates for 2000-2020 at the national and state lev els by race and eth nic ity: age spe cific rates and both unconditional and conditional parity- and age -specific rates. Where pos si ble, we com pare these rates with those pro duced by the National Center for Health Statistics. Our new rate sched ules illu mi nate state and racial and eth nic dif ferences in transitions to parenthood, providing evidence of the important subgroup het ero ge ne ity that char ac ter izes the United States. CLARFE cov ers nearly the entire U.S. pop u la tion and is avail able to research ers on approved pro jects through the Census Bureau's Federal Statistical Research Data Centers.",
+  "authors": [
+    {
+      "raw": "Root, Leslie",
+      "family": "Root",
+      "given": "Leslie"
+    },
+    {
+      "raw": "Stevenson, Amanda Jean",
+      "family": "Stevenson",
+      "given": "Amanda Jean"
+    },
+    {
+      "raw": "Genadek, Katie",
+      "family": "Genadek",
+      "given": "Katie"
+    },
+    {
+      "raw": "Yeatman, Sara",
+      "family": "Yeatman",
+      "given": "Sara"
+    },
+    {
+      "raw": "Mollborn, Stefanie",
+      "family": "Mollborn",
+      "given": "Stefanie"
+    },
+    {
+      "raw": "Menken, Jane",
+      "family": "Menken",
+      "given": "Jane"
+    }
+  ],
+  "authors_text": "Root, Leslie; Stevenson, Amanda Jean; Genadek, Katie; Yeatman, Sara; Mollborn, Stefanie; Menken, Jane",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11234861",
+  "doi_url": "https://doi.org/10.1215/00703370-11234861",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11234861",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11234861.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "More on the Cohort-Component Model of Population Projection in the Context of HIV/AIDS: A Leslie Matrix Representation and New Estimates",
+  "abstract": "This article presents an extension of the cohort-component model of population projection (CCMPP) first formulated by Heuveline (2003) that is capable of modeling a population affected by HIV. Heuveline proposes a maximum likelihood approach to estimate the age profile of HIV incidence that produced the HIV epidemics in East Africa during the 1990s. We extend this work by developing the Leslie matrix representation of the CCMPP, which greatly facilitates the implementation of the model for parameter estimation and projection. The Leslie matrix also contains information about the stable tendencies of the corresponding population, such as the stable age distribution and time to stability. Another contribution of this work is that we update the sources of data used to estimate the parameters, and use these data to estimate a modified version of the CCMPP that includes (estimated) parameters governing the survival experience of the infected population. A further application of the model to a small population with high HIV prevalence in rural South Africa is presented as an additional demonstration. This work lays the foundation for development of more robust and flexible Bayesian estimation methods that will greatly enhance the utility of this and similar models.",
+  "authors": [
+    {
+      "raw": "Thomas, Jason",
+      "family": "Thomas",
+      "given": "Jason"
+    },
+    {
+      "raw": "Clark, Samuel J.",
+      "family": "Clark",
+      "given": "Samuel J."
+    }
+  ],
+  "authors_text": "Thomas, Jason; Clark, Samuel J.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2011,
+  "doi": "10.4054/demres.2011.25.2",
+  "doi_url": "https://doi.org/10.4054/demres.2011.25.2",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2011.25.2",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2011.25.2.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

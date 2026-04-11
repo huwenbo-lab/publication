@@ -1,0 +1,40 @@
+{
+  "title": "The Influence of Changing Marginals on Measures of Inequality in Scholarly Citations: Evidence of Bias and a Resampling Correction",
+  "abstract": "Scholars have debated whether changes in digital environments have led to greater concentration or dispersal of scientific citations, but this debate has paid little attention to how other changes in the publication environment may impact the commonly used measures of inequality. Using Monte Carlo experiments, we demonstrate that a variety of inequality measures—including the Gini coefficient, the Herfindahl-Hirschman index, and the percentage of articles ever cited—are substantially biased downward by increases in the total number of articles and citations. We propose and validate a resampling-based correction for this “marginals bias” and apply this correction to empirical data on scholarly citation distributions using Web of Science data covering four broad scientific fields (health, humanities, mathematics and the computer sciences, and the social sciences) from 1996 to 2014. We find that in each field the bulk of the apparent decline in citation inequality in recent years is an artifact of marginals bias, as are most apparent interfield differences in citation inequality. Researchers using inequality measures to compare citation distributions and other distributions with many cases at or near the zero-bound should interpret these metrics carefully and account for the influence of changing marginals.",
+  "authors": [
+    {
+      "raw": "Kim, Lanu",
+      "family": "Kim",
+      "given": "Lanu"
+    },
+    {
+      "raw": "Adoph, Christopher",
+      "family": "Adoph",
+      "given": "Christopher"
+    },
+    {
+      "raw": "West, Jevin",
+      "family": "West",
+      "given": "Jevin"
+    },
+    {
+      "raw": "Stovel, Katherine",
+      "family": "Stovel",
+      "given": "Katherine"
+    }
+  ],
+  "authors_text": "Kim, Lanu; Adoph, Christopher; West, Jevin; Stovel, Katherine",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2020,
+  "doi": "10.15195/v7.a13",
+  "doi_url": "https://doi.org/10.15195/v7.a13",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv7.a13",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v7.a13.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

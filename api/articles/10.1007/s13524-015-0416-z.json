@@ -1,0 +1,30 @@
+{
+  "title": "US Border Enforcement and Mexican Immigrant Location Choice",
+  "abstract": "We provide the first evidence on the causal effect of border enforcement on the full spatial distribution of Mexican immigrants to the United States. We address the endogeneity of border enforcement with an instrumental variables strategy based on administrative delays in budgetary allocations for border security. We find that 1,000 additional Border Patrol officers assigned to prevent unauthorized migrants from entering a U.S. state decreases that state's share of Mexican immigrants by 21.9 %. Our estimates imply that if border enforcement had not changed from 1994 to 2011, the shares of Mexican immigrants locating in California and Texas would each be 8 percentage points greater, with all other states' shares lower or unchanged.",
+  "authors": [
+    {
+      "raw": "Bohn, Sarah",
+      "family": "Bohn",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Pugatch, Todd",
+      "family": "Pugatch",
+      "given": "Todd"
+    }
+  ],
+  "authors_text": "Bohn, Sarah; Pugatch, Todd",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2015,
+  "doi": "10.1007/s13524-015-0416-z",
+  "doi_url": "https://doi.org/10.1007/s13524-015-0416-z",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-015-0416-z",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-015-0416-z.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

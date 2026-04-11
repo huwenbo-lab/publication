@@ -1,0 +1,25 @@
+{
+  "title": "Nonresponse in repeat population-based voluntary counseling and testing for HIV in rural Malawi",
+  "abstract": "Abstract Despite the increasing number of population-based surveys in sub-Saharan Africa that provide testing and counseling for HIV over the past decade, understanding the nature of nonresponse in these surveys, especially panel HIV surveys, is still limited. This article uses longitudinal HIV data collected from rural Malawi in 2004 and 2006 to examine nonresponse in repeat population-based testing. It shows that nonresponse in repeat testing led to significant bias in the estimates of HIV prevalence and to inconsistent conclusions about the predictors of HIV status. In contrast, previous cross-sectional analyses found that nonresponse does not significantly bias the estimates of HIV prevalence. The difference in conclusions from cross-sectional and longitudinal analyses of nonresponse can be attributed to two factors: the different definitions of what constitutes nonresponse in both contexts, and the risk profiles of the missed populations. In particular, although refusal and temporary absence are the major sources ofnonresponse in the cross-sectional contexts, attrition attributable to mortality and out-migration are additional sources of nonresponse in repeat testing. Evidence shows that out-migrants have higher HIV prevalence than nonmigrants, which could account for significant bias in the estimates of prevalence among participants in both tests observed in this study.",
+  "authors": [
+    {
+      "raw": "Obare, Francis",
+      "family": "Obare",
+      "given": "Francis"
+    }
+  ],
+  "authors_text": "Obare, Francis",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2010,
+  "doi": "10.1353/dem.0.0115",
+  "doi_url": "https://doi.org/10.1353/dem.0.0115",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0115",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0115.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Fatherhood and Racial/Ethnic Differences in the Progression of Romantic Relationships",
+  "abstract": "Objective This study examines the influence of fatherhood on the progression of men's romantic relationships. Background High levels of relationship flux have resulted in a partner market increasingly characterized by the presence of children, but little is known about how children influence the progression of men's romantic relationships. Children could reduce the likelihood of marriage and increase chances of cohabitation for single fathers in dating relationships, just as prior literature has found for single mothers. Given high levels of racial/ethnic assortative mating, and variation in the prevalence of single parenthood across racial/ethnic groups, the influence of prior children on men's relationships may differ by race/ethnicity as well. Method The authors use data from adult male respondents of the 2002-2015 cycles of the National Survey of Family Growth aged 18-45 regarding the most recent sexual relationship (n = 9,255). Results Results of propensity score weighted event-history analyses show that fathers in sexual relationships transition more often and more rapidly into cohabitation than do childfree men, but this pattern varies by race/ethnicity. Children from prior relationships have a strong influence on the progression of non-Hispanic White men's relationships, hastening cohabitation, and decreasing transitions to marriage, but prior children have little association with the progression of romantic relationships among Black or Hispanic men. Conclusion Although fatherhood shapes the progression of men's romantic relationships, the influence of fatherhood varies across racial/ethnic groups in the United States.",
+  "authors": [
+    {
+      "raw": "Parker, Emily",
+      "family": "Parker",
+      "given": "Emily"
+    },
+    {
+      "raw": "Sassler, Sharon",
+      "family": "Sassler",
+      "given": "Sharon"
+    },
+    {
+      "raw": "Tach, Laura",
+      "family": "Tach",
+      "given": "Laura"
+    }
+  ],
+  "authors_text": "Parker, Emily; Sassler, Sharon; Tach, Laura",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12733",
+  "doi_url": "https://doi.org/10.1111/jomf.12733",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12733",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12733.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

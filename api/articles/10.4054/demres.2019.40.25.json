@@ -1,0 +1,50 @@
+{
+  "title": "Happy parents' tweets: An exploration of Italian Twitter data using sentiment analysis",
+  "abstract": "BACKGROUND Demographers are increasingly interested in connecting demographic behaviour and trends with 'soft' measures, i.e., complementary information on attitudes, values, feelings, and intentions. OBJECTIVE The aim of this paper is to demonstrate how computational linguistic techniques can be used to explore opinions and semantic orientations related to parenthood. METHODS In this article we scrutinize about three million filtered Italian tweets from 2014. First, we implement a methodological framework relying on Natural Language Processing techniques for text analysis, which is used to extract sentiments. We then run a supervised machine-learning experiment on the overall dataset, based on the annotated set of tweets from the previous stage. Consequently, we infer to what extent social media users report negative or positive affect on topics relevant to the fertility domain. RESULTS Parents express a generally positive attitude towards being and becoming parents, but they are also fearful, surprised, and sad. They also have quite negative sentiments about their children's future, politics, fertility, and parental behaviour. By exploiting geographical information from tweets we find a significant correlation between the prevalence of positive sentiments about parenthood and macro-regional indicators of both life satisfaction and fertility level. CONTRIBUTION We show how tweets can be used to represent soft measures such as attitudes, values, and feelings, and we establish how they relate to demographic features. Linguistic analysis of social media data provides a middle ground between qualitative studies and more standard quantitative approaches.",
+  "authors": [
+    {
+      "raw": "Mencarini, Letizia",
+      "family": "Mencarini",
+      "given": "Letizia"
+    },
+    {
+      "raw": "Irazu Hernandez-Farias, Delia",
+      "family": "Irazu Hernandez-Farias",
+      "given": "Delia"
+    },
+    {
+      "raw": "Lai, Mirko",
+      "family": "Lai",
+      "given": "Mirko"
+    },
+    {
+      "raw": "Patti, Viviana",
+      "family": "Patti",
+      "given": "Viviana"
+    },
+    {
+      "raw": "Sulis, Emilio",
+      "family": "Sulis",
+      "given": "Emilio"
+    },
+    {
+      "raw": "Vignoli, Daniele",
+      "family": "Vignoli",
+      "given": "Daniele"
+    }
+  ],
+  "authors_text": "Mencarini, Letizia; Irazu Hernandez-Farias, Delia; Lai, Mirko; Patti, Viviana; Sulis, Emilio; Vignoli, Daniele",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.25",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.25",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.25",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.25.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

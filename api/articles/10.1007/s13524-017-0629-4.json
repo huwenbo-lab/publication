@@ -1,0 +1,25 @@
+{
+  "title": "Cognitive Disparities: The Impact of the Great Depression and Cumulative Inequality on Later-Life Cognitive Function",
+  "abstract": "Population aging has driven a spate of recent research on later-life cognitive function. Greater longevity increases the lifetime risk of memory diseases that compromise the cognitive abilities vital to well-being. Alzheimer's disease, thought to be the most common underlying pathology for elders' cognitive dysfunction (Willis and Hakim 2013), is already the sixth leading cause of death in the United States (Alzheimer's Association 2016). Understanding social determinants of pathological cognitive decline is key to crafting interventions, but evidence is inconclusive for how social factors interact over the life course to affect cognitive function. I study whether early-life exposure to the Great Depression is directly associated with later-life cognitive function, influences risky behaviors over the life course, and/or accumulates with other life-course disadvantages. Using growth curve models to analyze the Health and Retirement Study, I find that early-life exposure to the Great Depression is associated with fluid cognition, controlling for intervening factors-evidence for a critical period model. I find little support for a social trajectory model. Disadvantage accumulates over the life course to predict worse cognitive function, providing strong evidence for a cumulative inequality model.",
+  "authors": [
+    {
+      "raw": "Hale, Jo Mhairi",
+      "family": "Hale",
+      "given": "Jo Mhairi"
+    }
+  ],
+  "authors_text": "Hale, Jo Mhairi",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2017,
+  "doi": "10.1007/s13524-017-0629-4",
+  "doi_url": "https://doi.org/10.1007/s13524-017-0629-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-017-0629-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-017-0629-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

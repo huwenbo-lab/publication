@@ -1,0 +1,35 @@
+{
+  "title": "Effects of Prenatal Poverty on Infant Health: State Earned Income Tax Credits and Birth Weight",
+  "abstract": "This study estimates the effects of prenatal poverty on birth weight using changes in state Earned Income Tax Credits (EITC) as a natural experiment. We seek to answer two questions about poverty and child wellbeing. First, are there associations between prenatal poverty and lower birth weights even after factoring out unmeasured potential confounders? Because birth weight predicts a range of outcomes across the life course, lower birth weights that result from poverty may have lasting consequences for children's life chances. Second, how have recent expansions of a work-based welfare program (i.e., the EITC) affected maternal and infant health? In recent decades, U. S. poverty relief has become increasingly tied to earnings and labor markets, but the consequences for children's wellbeing remain controversial. We find that state EITCs increase birth weights and reduce maternal smoking. However, results related to AFDC/TANF and varying EITC effects across maternal ages raise cautionary messages.",
+  "authors": [
+    {
+      "raw": "Strully, Kate W.",
+      "family": "Strully",
+      "given": "Kate W."
+    },
+    {
+      "raw": "Rehkopf, David H.",
+      "family": "Rehkopf",
+      "given": "David H."
+    },
+    {
+      "raw": "Xuan, Ziming",
+      "family": "Xuan",
+      "given": "Ziming"
+    }
+  ],
+  "authors_text": "Strully, Kate W.; Rehkopf, David H.; Xuan, Ziming",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2010,
+  "doi": "10.1177/0003122410374086",
+  "doi_url": "https://doi.org/10.1177/0003122410374086",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122410374086",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122410374086.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

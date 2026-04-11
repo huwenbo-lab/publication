@@ -1,0 +1,30 @@
+{
+  "title": "Parental Unemployment and the Transition to Vocational Training in Germany: Interaction of Household and Regional Sources of Disadvantage",
+  "abstract": "We examine the impact of parental unemployment and regional labour market conditions on the probability of a successful transition from non-academic secondary schooling to vocational training in Germany, using data from the National Educational Panel Study and multilevel logistic regression models. Although widely regarded as a low-cost, low-risk and high-gain vocational path, we nevertheless find a clear negative effect of parental unemployment on adolescents' chances of entering an apprenticeship contract. We test for poorer school performance, reduced household income, reduced self-esteem and limited access to labour market information as potential mediators of the effect, and only find support for some limited impact of economic deprivation. However, we also show that in families where one parent has experienced unemployment shortly before the child's own transition from secondary schooling, students' chances of a successful transition depend much more strongly on regional labour market conditions than in families without parental experiences of unemployment. Even in a regulated transition system like Germany's, adverse labour market conditions thus reinforce the intergenerational disadvantages induced by parental unemployment.",
+  "authors": [
+    {
+      "raw": "Lindemann, Kristina",
+      "family": "Lindemann",
+      "given": "Kristina"
+    },
+    {
+      "raw": "Gangl, Markus",
+      "family": "Gangl",
+      "given": "Markus"
+    }
+  ],
+  "authors_text": "Lindemann, Kristina; Gangl, Markus",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcz027",
+  "doi_url": "https://doi.org/10.1093/esr/jcz027",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz027",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz027.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

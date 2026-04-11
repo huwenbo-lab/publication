@@ -1,0 +1,30 @@
+{
+  "title": "The estimation of Unwanted Fertility",
+  "abstract": "Abstract The estimation of unwanted fertility is a major objective of demographic surveys, including DHS surveys conducted in Asia, Africa, and Latin America. Levels and trends in unwanted fertility are important input to the formulation of population policy and the evaluation of family planning programs. Yet existing methods for estimating unwanted fertility are known to be defective, among other reasons because they rely on subjective data whose validity and reliability are questionable. In this article, we propose a new estimator of unwanted fertility—the “aggregate prospective estimator”—so-named because it depends on the stated preference for another child at the time of the survey, the fertility-desires item consistently shown to possess the highest validity and reliability. Under reasonable assumptions, the aggregate prospective estimator produces less biased estimates of unwanted fertility than the most widely used existing methods. The new estimator has the limitation of generating only aggregate-level estimates, but such estimates are the primary data for policy formulation and program evaluation. The new estimator is presented in this article, along with an evaluation of its underlying assumptions and its sensitivity to several sources of error. In an illustrative application to recent DHS data from six countries, the new estimator yields substantially higher estimates of unwanted fertility than existing methods in all six countries.",
+  "authors": [
+    {
+      "raw": "Casterline, John B.",
+      "family": "Casterline",
+      "given": "John B."
+    },
+    {
+      "raw": "El-Zeini, Laila O.",
+      "family": "El-Zeini",
+      "given": "Laila O."
+    }
+  ],
+  "authors_text": "Casterline, John B.; El-Zeini, Laila O.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2007,
+  "doi": "10.1353/dem.2007.0043",
+  "doi_url": "https://doi.org/10.1353/dem.2007.0043",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.2007.0043",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.2007.0043.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

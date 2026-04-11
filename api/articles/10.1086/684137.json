@@ -1,0 +1,35 @@
+{
+  "title": "Neighborhood Effect Heterogeneity by Family Income and Developmental Period",
+  "abstract": "Effects of disadvantaged neighborhoods on child educational outcomes likely depend on a family's economic resources and the timing of neighborhood exposures during the course of child development. This study investigates how timing of exposure to disadvantaged neighborhoods during childhood versus adolescence affects high school graduation and whether these effects vary across families with different income levels. It follows 6,137 children in the PSID from childhood through adolescence and overcomes methodological problems associated with the joint endogeneity of neighborhood context and family income by adapting novel counterfactual methods-a structural nested mean model estimated via two-stage regression with residuals-for time-varying treatments and time-varying effect moderators. Results indicate that exposure to disadvantaged neighborhoods, particularly during adolescence, has a strong negative effect on high school graduation and that this negative effect is more severe for children from poor families.",
+  "authors": [
+    {
+      "raw": "Wodtke, Geoffrey T.",
+      "family": "Wodtke",
+      "given": "Geoffrey T."
+    },
+    {
+      "raw": "Elwert, Felix",
+      "family": "Elwert",
+      "given": "Felix"
+    },
+    {
+      "raw": "Harding, David J.",
+      "family": "Harding",
+      "given": "David J."
+    }
+  ],
+  "authors_text": "Wodtke, Geoffrey T.; Elwert, Felix; Harding, David J.",
+  "journal": "American Journal of Sociology",
+  "journal_slug": "American_Journal_of_Sociology",
+  "year": 2016,
+  "doi": "10.1086/684137",
+  "doi_url": "https://doi.org/10.1086/684137",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1086%2F684137",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1086/684137.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

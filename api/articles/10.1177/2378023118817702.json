@@ -1,0 +1,25 @@
+{
+  "title": "Black-Box Models and Sociological Explanations: Predicting High School Grade Point Average Using Neural Networks",
+  "abstract": "The Fragile Families Challenge provided an opportunity to empirically assess the applicability of black-box machine learning models to sociological questions and the extent to which interpretable explanations can be extracted from these models. In this article the author uses neural network models to predict high school grade point average and examines how variations of basic network parameters affect predictive performance. Using a recently proposed technique, the author identifies the most important predictive variables used by the best performing model, finding that they relate to parenting and the child’s cognitive and behavioral development, consistent with prior work. The author concludes by discussing the implications of these findings for the relationship between prediction and explanation in sociological analyses.",
+  "authors": [
+    {
+      "raw": "Davidson, Thomas",
+      "family": "Davidson",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Davidson, Thomas",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023118817702",
+  "doi_url": "https://doi.org/10.1177/2378023118817702",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023118817702",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023118817702.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

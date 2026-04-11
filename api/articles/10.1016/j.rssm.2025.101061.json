@@ -1,0 +1,30 @@
+{
+  "title": "Stratified strategies? Gender, social background and access to selective fields in Norway",
+  "abstract": "Fields of study are segregated along the lines of social class and gender. The most prestigious and selective professional fields, such as medicine or law, are persistently dominated by socially privileged students but have undergone a pronounced feminization in recent decades. We first investigate gender and SES differences in strategies, in admission chances and whether strategies mediate these differences. Second, we explore how gender and SES interact in shaping applicants' strategies and.their admission chances. Third, we consider the role of students' GPA and how different social groups use compensatory strategies to enhance their chances of admission. The Norwegian context is well suited to study this topic because of its comprehensive education system and its field-specific selectivity in higher education,which is mainly based on candidates' grade point average (GPA), but also offers opportunities to invest in certain strategies to gain access to the most prestigious fields of study. Using full population register data and discrete survival models, we find that high-SES candidates and women have a greater chance of getting admitted, which is mainly explained by their higher GPA. High-SES and male applicants are somewhat more likely to use strategies to meet admission criteria that the Norwegian admission system offers, especially if they have low GPAs, indicating a system of compensatory advantage. However, these overall small differences in strategies seem to perpetuate already existing inequalities rather than increasing or alleviating them.",
+  "authors": [
+    {
+      "raw": "Finger, Claudia",
+      "family": "Finger",
+      "given": "Claudia"
+    },
+    {
+      "raw": "Stromme, Thea Bertnes",
+      "family": "Stromme",
+      "given": "Thea Bertnes"
+    }
+  ],
+  "authors_text": "Finger, Claudia; Stromme, Thea Bertnes",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2025,
+  "doi": "10.1016/j.rssm.2025.101061",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2025.101061",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2025.101061",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2025.101061.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Compensation or concordance between warmth and competence: Examining social class stereotypes in English and Chinese languages using natural language",
+  "abstract": "The pervasive notion that the poor are warm but incompetent, and the rich are competent but cold represents a prevalent social class stereotype. However, different theoretical views and empirical findings exist on this notion, which varies between inter-and intra-class perspectives and across cultures. Against this backdrop, this study employs an innovative research method (Fill-Mask Association Test, FMAT) to examine social class stereotypes in English and Chinese languages from inter-and intra-class perspectives. A total of 12 English and eight Chinese pre-trained bidirectional encoder representations from transformers (BERT) models were used to test the research questions. Results found no evidence of ambivalent stereotypes between social classes in either English or Chinese contexts. The rich were perceived as more competent and warmer than the poor, and the Chinese language reflected a more polarized view of warmth and competence across socioeconomic status groups than the English language. Additionally, a within-class stereotype emerged in which the rich were viewed as more competent than warm. These findings shed light on social class stereotypes in real-world textual contexts.",
+  "authors": [
+    {
+      "raw": "Luo, Xingyu",
+      "family": "Luo",
+      "given": "Xingyu"
+    },
+    {
+      "raw": "Zhai, Peipei",
+      "family": "Zhai",
+      "given": "Peipei"
+    },
+    {
+      "raw": "Sun, Xiaojun",
+      "family": "Sun",
+      "given": "Xiaojun"
+    },
+    {
+      "raw": "Niu, Gengfeng",
+      "family": "Niu",
+      "given": "Gengfeng"
+    }
+  ],
+  "authors_text": "Luo, Xingyu; Zhai, Peipei; Sun, Xiaojun; Niu, Gengfeng",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2026,
+  "doi": "10.1016/j.ssresearch.2025.103284",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2025.103284",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2025.103284",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2025.103284.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

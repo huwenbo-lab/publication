@@ -1,0 +1,25 @@
+{
+  "title": "The Dynamics of Social Assistance Recipiency: Empirical Evidence from Norway",
+  "abstract": "There is considerable concern about long-term recipiency of social assistance in many western countries today. Social assistance is intended to be a temporary solution for unforeseen individual problems, but there are worries that long-term recipiency of social assistance may lead to dependency. In this article, the duration of social assistance periods are investigated using Norwegian administrative data covering the years 1992–2002. Two types of analysis were performed. First, discrete time–event history analysis was used to investigate the duration of social assistance and the likelihood of re-entries among those who succeed in exiting social assistance. Second, panel data methods were used to study the amount of money that individuals receive in social assistance. The results show that most periods of social assistance are relatively short. However, there is variation, including some long-term periods, and a large proportion of those who exit social assistance later re-enter. Immigrants, especially those from African, Asian and Eastern European countries are found to receive more social assistance payments, and for longer periods, than people born in Norway. There is no difference between immigrants and people born in Norway with regard to the likelihood of re-entering. The study also shows that there are many who receive universal benefits in addition to social assistance. Based on such findings, we question the common understanding of the social assistance system as a secondary system and safety net for those who fall outside the traditional universal benefit system, and argue that more attention should be paid to the importance of institutional factors than to discourse on dependency.",
+  "authors": [
+    {
+      "raw": "Hansen, H.-T.",
+      "family": "Hansen",
+      "given": "H.-T."
+    }
+  ],
+  "authors_text": "Hansen, H.-T.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2008,
+  "doi": "10.1093/esr/jcn040",
+  "doi_url": "https://doi.org/10.1093/esr/jcn040",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcn040",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcn040.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

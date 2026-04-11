@@ -1,0 +1,25 @@
+{
+  "title": "A Guide to Analyzing Large N , Large T Panel Data",
+  "abstract": "Fixed effects estimation of a static model with robust or panel corrected standard errors is commonly used to model large N , large T panel data. However, this approach is biased and inconsistent in the presence of dynamic misspecification, slope heterogeneity, and cross-sectional dependence. Common correlated effects estimation of a dynamic model has been advanced to address these issues but is rarely used in sociology. Here, I provide an overview of the large N , large T panel data literature, and I conduct an array of Monte Carlo experiments to compare the fixed effects estimator to the common correlated effects estimator regarding the aforementioned issues. I show that fixed effects estimation with robust or panel corrected standard errors do not address these problems, which is most evident with high levels of slope heterogeneity and lag misspecification, and its performance worsens as the time dimension expands. In contrast, the common correlated effects estimator produces superior estimates as T increases and is robust to slope heterogeneity and cross-sectional dependence. Following the experiments, I present an example by examining the drivers of fossil fuel consumption at the U.S. state level from 1960 to 2018, and I conclude by presenting a decision-making framework for researchers to use to make informed decisions when modeling large N , large T panel data.",
+  "authors": [
+    {
+      "raw": "Thombs, Ryan P.",
+      "family": "Thombs",
+      "given": "Ryan P."
+    }
+  ],
+  "authors_text": "Thombs, Ryan P.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221117645",
+  "doi_url": "https://doi.org/10.1177/23780231221117645",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221117645",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221117645.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

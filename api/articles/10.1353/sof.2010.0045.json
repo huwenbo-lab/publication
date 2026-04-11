@@ -1,0 +1,25 @@
+{
+  "title": "The Ecology of Technological Progress: How Symbiosis and Competition Affect the Growth of Technology Domains",
+  "abstract": "We show that the progress of technological knowledge is an inherently ecological process, wherein the growth rate of each technology domain depends on dynamics occurring in other technology domains. We identify two sources of ecological interdependence among technology domains. First, there are symbiotic interdependencies, implying that the rate of growth of one technology domain is driven by the advances made in other technology domains. Second, some technology domains compete with each other, implying that the rate at which a given technology domain advances varies inversely with the competitive pressure it receives from other technology domains. Based on all the technological knowledge patented in the United States between 1975 and 1999, we find statistical support for our argument and hypotheses.",
+  "authors": [
+    {
+      "raw": "Carnabuci, G.",
+      "family": "Carnabuci",
+      "given": "G."
+    }
+  ],
+  "authors_text": "Carnabuci, G.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2010,
+  "doi": "10.1353/sof.2010.0045",
+  "doi_url": "https://doi.org/10.1353/sof.2010.0045",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2010.0045",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2010.0045.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

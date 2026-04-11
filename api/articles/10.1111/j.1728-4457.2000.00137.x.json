@@ -1,0 +1,25 @@
+{
+  "title": "Long-term population projections and the US Social Security System",
+  "abstract": "According to a report: recently issued by the Technical Panel for the US Social Security Administration the long-term financial outlook for the system is worse than previously thought. The worsening projected by the panel in the long-run funding imbalance of the social Security System is mostly due to the recommendation by the panel to add an extra four years to the currently projected increase in life expectancy by 2075: from 81.8 years to 85.9 years. The panel recommended no change in the current intermediate projected long-run TFR of 1.9 and net immigration of 900,000 persons per year. The recommendation to increase the projected gains in life expectancy was based on international trends as well as on historical trends In the United States and the absence of biological evidence ruling out such gains. Industrial countries have a history of underpredicting the growth of their elderly population, and it is expected that large mortality adjustments may be needed in the projections for public pension programs also in industrial countries other than the United States.",
+  "authors": [
+    {
+      "raw": "Lee, R",
+      "family": "Lee",
+      "given": "R"
+    }
+  ],
+  "authors_text": "Lee, R",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2000,
+  "doi": "10.1111/j.1728-4457.2000.00137.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2000.00137.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2000.00137.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2000.00137.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

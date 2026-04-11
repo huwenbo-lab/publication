@@ -1,0 +1,30 @@
+{
+  "title": "Does Starting Universal Childcare Earlier Influence Children's Skill Development?",
+  "abstract": "As many developed countries enact policies that allow children to begin universal childcare earlier, understanding how starting universal childcare earlier affects children's cognitive and noncognitive skills is an important policy question. We provide comprehensive evidence on the multidimensional short- and longer-run effects of starting universal childcare earlier using a fuzzy discontinuity in the age at starting childcare in Germany. Combining rich survey and administrative data, we follow one cohort from age 6 to 15 and examine standardized cognitive test scores, noncognitive skill measures, and school track choice in a unified framework. Children who start universal childcare four months earlier around age 3 do not perform differently in terms of standardized cognitive test scores, measures of noncognitive skills, school track choice, or school entrance examinations. We also find no evidence of skill improvements for children with low socioeconomic status, although we provide suggestive evidence that they may benefit from high-quality care. Our estimates refer to children who start childcare before they become legally entitled, for whom the literature would predict low gains to starting childcare earlier. We provide further evidence on this relationship between parental resistance to and children's potential gains from childcare. Simply allowing children to start universal childcare earlier is hence not sufficient to improve children's skill development, particularly for children with low socioeconomic status.",
+  "authors": [
+    {
+      "raw": "Kuehnle, Daniel",
+      "family": "Kuehnle",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Oberfichtner, Michael",
+      "family": "Oberfichtner",
+      "given": "Michael"
+    }
+  ],
+  "authors_text": "Kuehnle, Daniel; Oberfichtner, Michael",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2020,
+  "doi": "10.1007/s13524-019-00836-9",
+  "doi_url": "https://doi.org/10.1007/s13524-019-00836-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-019-00836-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-019-00836-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Physical and Mental Health Disparities at the Intersection of Sexual and Gender Minority Statuses: Evidence From Population-Level Data",
+  "abstract": "Sexual and gen der minor i ties (SGM) expe ri ence det ri ments across many phys i cal and men tal health out comes com pared with het ero sex ual and cisgender peo-ple. But lit tle is known about health out comes for those who are both gen der minor i ties and sexual minorities. Motivated by theories of double disadvantage and leveraging advance ments in data col lec tion and mea sure ment, we exam ine phys i cal and men tal health disparities across sex ual and gen der minor ity sta tuses: cisgender het ero sex u als, gender minority heterosexuals, cisgender sexual minorities, and people who are both gender and sexual minorities. Using Gallup's National Health and Well-Being Index Factor Surveillance System (N =543,717), we estimate multivariable logistic regres-sion mod els to exam ine how sex ual and gen der minor ity sta tuses are asso ci ated with poor/fair self-rated health, func tional lim i ta tions, and diag nosed depres sion. Regression models adjusting for sociodemographic characteristics show marked physical and men-tal health disparities: peo ple who are both gen der and sex ual minor i ties report greater odds of poor/fair self-rated health, func tional lim i ta tions, and depres sion rel a tive to cisgender heterosexuals and, in some cases, relative to gender minority heterosexu-als and cisgender sex ual minor i ties. Our results add to a grow ing body of research documenting the association between multiple disadvantaged statuses and health and pro vide novel infor ma tion on SGM health disparities.",
+  "authors": [
+    {
+      "raw": "Stacey, Lawrence",
+      "family": "Stacey",
+      "given": "Lawrence"
+    },
+    {
+      "raw": "Wislar, Wes",
+      "family": "Wislar",
+      "given": "Wes"
+    }
+  ],
+  "authors_text": "Stacey, Lawrence; Wislar, Wes",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2023,
+  "doi": "10.1215/00703370-10708592",
+  "doi_url": "https://doi.org/10.1215/00703370-10708592",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-10708592",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-10708592.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

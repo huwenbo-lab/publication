@@ -1,0 +1,30 @@
+{
+  "title": "School Racial Composition and Parental Choice: New Evidence on the Preferences of White Parents in the United States",
+  "abstract": "Racial segregation remains a persistent problem in U.S. schools. In this article, we examine how social psychological factorsin particular, individuals' perceptions of schools with varying demographic characteristicsmay contribute to the ongoing structural problem of school segregation. We investigate the effects of school racial composition and several nonracial school characteristics on white parents' school enrollment decisions for their children as well as how racial stereotypes shape the school choice process. We use data from a survey-based experiment we designed to test pure race'' and racial proxy'' hypotheses regarding parents' enrollment preferences. We also use a measure of pro-white stereotype bias, both alone and in combination with school racial composition (percentage black). Using logistic regression analysis, we find support for the pure race'' hypothesis. The proportion of black students in a hypothetical school has a consistent and significant inverse association with the likelihood of white parents enrolling their children in that school net of the effects of the included racial proxy measures. In addition, higher levels of pro-white stereotype bias further inhibit enrollment, particularly in schools with higher proportions of black students. We discuss the implications of this research for policies aimed at mitigating racial segregation in U.S. schools.",
+  "authors": [
+    {
+      "raw": "Billingham, Chase M.",
+      "family": "Billingham",
+      "given": "Chase M."
+    },
+    {
+      "raw": "Hunt, Matthew O.",
+      "family": "Hunt",
+      "given": "Matthew O."
+    }
+  ],
+  "authors_text": "Billingham, Chase M.; Hunt, Matthew O.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2016,
+  "doi": "10.1177/0038040716635718",
+  "doi_url": "https://doi.org/10.1177/0038040716635718",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040716635718",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040716635718.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

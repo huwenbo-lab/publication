@@ -1,0 +1,30 @@
+{
+  "title": "Impact of the COVID-19 pandemic on the age-sex pattern of COVID-19 deaths in India",
+  "abstract": "The SARS-CoV-2 virus (termed COVID-19) raised the mortality trends and diminished life expectancy globally. This study analyzes the age-sex patterns of COVID-19 deaths in India during 2020–2021 and how the age-sex patterns have changed between 2020 and 2021. We calculated the losses in the male-female life expectancy at birth (LEB) induced due to the pandemic by projecting pre-pandemic mortality trends into 2020 and 2021. The finding suggested that mortality rates have increased substantially due to COVID-19 in India, implying almost four years of losses of LEB in 2021. The age pattern of mortality differs by the years of the pandemic. In 2020, the disease disproportionately killed older people. In 2021, with the outbreak of COVID-19 delta variant infection, mortality also rose among younger adults. Moreover, in 2020, COVID-19 deaths were higher among males, whereas in 2021, mortality increased for both sexes. In conclusion, COVID-19 triggered a significant increase in mortality in India between 2020 and 2021, dragging the country to a lower LEB level in 2010–2011. The future impact of the pandemic is yet to be seen. Also, distinct age and sex differential COVID-19 health and socioeconomic impacts compel future researchers to include demographic heterogeneity in their study.",
+  "authors": [
+    {
+      "raw": "KC, Samir",
+      "family": "KC",
+      "given": "Samir"
+    },
+    {
+      "raw": "Dhakad, Moradhvaj",
+      "family": "Dhakad",
+      "given": "Moradhvaj"
+    }
+  ],
+  "authors_text": "KC, Samir; Dhakad, Moradhvaj",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2023,
+  "doi": "10.1080/17441730.2023.2193077",
+  "doi_url": "https://doi.org/10.1080/17441730.2023.2193077",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2023.2193077",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2023.2193077.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Marital Happiness, Marital Duration, and the U-Shaped Curve: Evidence from a Five-Wave Panel Study",
+  "abstract": "Previous research suggests a U-shaped pattern of marital happiness over the life course, with happiness declining in the early years of marriage and rising in the later years. Most prior studies have been limited by the use of cross-sectional data or nonprobability samples. In contrast, the present study is based on data from a national, 17-year, 5-wave panel sample. Using cross-sectional data from the first wave, we replicate the U-shaped relationship between marital happiness and marital duration. In an analysis based on a fixed-effects pooled time-series model with multiple-wave panel data, we find declines in marital happiness at all marital durations and no support for an upturn in marital happiness in the later years. The relationship between marital happiness and marital duration is slightly curvilinear, with the steepest declines in marital happiness occurring during the earliest and latest years of marriage. When other life-course variables are controlled, a significant negative effect of marital duration on marital happiness remains. For most marriage cohorts, marital happiness declined more in the 1980s than in the 1990s, suggesting a period effect. This study provides evidence that the U-shaped pattern of marital happiness over the life course is an artifact of cross-sectional research and is not typical of U.S. marriages.",
+  "authors": [
+    {
+      "raw": "VanLaningham, J.",
+      "family": "VanLaningham",
+      "given": "J."
+    },
+    {
+      "raw": "Johnson, D. R.",
+      "family": "Johnson",
+      "given": "D. R."
+    },
+    {
+      "raw": "Amato, P.",
+      "family": "Amato",
+      "given": "P."
+    }
+  ],
+  "authors_text": "VanLaningham, J.; Johnson, D. R.; Amato, P.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2001,
+  "doi": "10.1353/sof.2001.0055",
+  "doi_url": "https://doi.org/10.1353/sof.2001.0055",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.2001.0055",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.2001.0055.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

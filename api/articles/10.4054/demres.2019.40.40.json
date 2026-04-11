@@ -1,0 +1,30 @@
+{
+  "title": "IRS county-to-county migration data, 1990-2010",
+  "abstract": "BACKGROUND The county-to-county migration data of the Internal Revenue Service's (IRS) is an incredible resource for understanding migration in the United States. Produced annually since 1990 in conjunction with the US Census Bureau, the IRS migration data represents 95% to 98% of the tax-filing universe and their dependents, making the IRS migration data one of the largest sources of migration data. However, any analysis using the IRS migration data must process at least seven legacy formats of this public data across more than 2000 data files - a serious burden for migration scholars. OBJECTIVE To produce a single, flat data file containing complete county-to-county IRS migration flow data and to make the computer code to process the migration data freely available. METHODS This paper uses R to process more than 2,000 IRS migration files into a single, flat data file for use in migration research. CONTRIBUTION To encourage and facilitate the use of this data, we provide a single, standardized, flat data file containing county-to-county one-year migration flows for the period 1990-2010 (containing 163,883 dyadic county pairs resulting in 3.2 million county-year observations totaling over 343 million migrants) and provide the full R script to download, process, and flatten the IRS migration data.",
+  "authors": [
+    {
+      "raw": "Hauer, Mathew",
+      "family": "Hauer",
+      "given": "Mathew"
+    },
+    {
+      "raw": "Byars, James",
+      "family": "Byars",
+      "given": "James"
+    }
+  ],
+  "authors_text": "Hauer, Mathew; Byars, James",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2019,
+  "doi": "10.4054/demres.2019.40.40",
+  "doi_url": "https://doi.org/10.4054/demres.2019.40.40",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2019.40.40",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2019.40.40.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

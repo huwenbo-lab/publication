@@ -1,0 +1,25 @@
+{
+  "title": "The impact of population heterogeneity on the age trajectory of neonatal mortality: A study of US births 2008-2014",
+  "abstract": "BACKGROUND The risk of death declines rapidly over the first month of life. It has been theorized that the fast pace of this decline is explained by hidden population heterogeneity resulting in a mortality selection process whereby the frailest infants leave the population at the fastest rate. A competing explanation situates the rapid mortality decline on the individual level, pointing toward the risky transition of birth and the subsequent adaptation of the newborn to the unfamiliar surroundings. OBJECTIVE This study estimates heterogeneity in the level and shape of age-specific mortality within a cohort of newborns and quantifies the degree to which mortality selection explains the shape of the average neonatal mortality trajectory. METHODS Given individual-level data on 20,322,147 births and 82,562 neonatal deaths in the United States from the 2008-2012 U.S. birth cohort, I calculate life tables for 252 mutually exclusive strata each defined by a unique combination of observed birth characteristics. Using this information, I characterize the distribution of mortality risk and its evolution over the first 28 days of life and decompose changes in key characteristics of this distribution-the mean, the variance, and the mean-to-mode ratio-into a mortality selection and a direct component. RESULTS The average age trajectory of neonatal mortality is highly influenced by a small group of frail newborns and does not reflect the rather flat age effect estimated for the healthy majority of the birth cohort. While the risk decline over the first day of life is substantially influenced by mortality selection, the overall age trajectory is better explained by the convergence of high-risk toward low-risk population strata. CONTRIBUTION I contribute an empirical test of the hypothesis that the age trajectory of mortality in the days and weeks following birth is an artifact of mortality selection.",
+  "authors": [
+    {
+      "raw": "Schoeley, Jonas",
+      "family": "Schoeley",
+      "given": "Jonas"
+    }
+  ],
+  "authors_text": "Schoeley, Jonas",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.53.7",
+  "doi_url": "https://doi.org/10.4054/demres.2025.53.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.53.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.53.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

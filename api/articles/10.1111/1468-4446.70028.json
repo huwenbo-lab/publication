@@ -1,0 +1,40 @@
+{
+  "title": "Dependence and Precarity in the Gig Economy: A Longitudinal Analysis of Platform Work and Mental Distress",
+  "abstract": "While there is a growing body of literature examining platform dependence and its implications for mental health, much of the research has focused on gig workers with small sample sizes. The lack of large-scale quantitative research, particularly using longitudinal representative data, limits a comprehensive understanding of the dynamic relationship between platform dependence and mental distress. This study uses nationally representative data from the UK and fixed effects models to explore the heterogeneity of gig work, specifically examining differences in mental distress between high-dependence workers (those solely engaged in gig work) and low-dependence workers (those also employed in other jobs). The findings reveal that high-dependence gig workers have greater mental distress compared to low-dependence and full-time workers, with their mental well-being similar to those with no paid work. Low-dependence gig workers have lower mental distress than those without paid work. Financial precarity and loneliness partly explain these differences, with the impact stronger for highly educated high-dependence workers and less educated low-dependence workers. These findings highlight the significance of recognizing the heterogeneity of gig work in addressing future well-being challenges in a post-pandemic economy, as well as broadening the scope of the latent deprivation model to encompass the unique dynamics of gig work.",
+  "authors": [
+    {
+      "raw": "Guo, Ya",
+      "family": "Guo",
+      "given": "Ya"
+    },
+    {
+      "raw": "Cui, Sizhan",
+      "family": "Cui",
+      "given": "Sizhan"
+    },
+    {
+      "raw": "Lu, Zhuofei",
+      "family": "Lu",
+      "given": "Zhuofei"
+    },
+    {
+      "raw": "Wang, Senhu",
+      "family": "Wang",
+      "given": "Senhu"
+    }
+  ],
+  "authors_text": "Guo, Ya; Cui, Sizhan; Lu, Zhuofei; Wang, Senhu",
+  "journal": "British Journal of Sociology",
+  "journal_slug": "British_Journal_of_Sociology",
+  "year": 2025,
+  "doi": "10.1111/1468-4446.70028",
+  "doi_url": "https://doi.org/10.1111/1468-4446.70028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2F1468-4446.70028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/1468-4446.70028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/British_Journal_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/British_Journal_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

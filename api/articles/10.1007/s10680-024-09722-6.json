@@ -1,0 +1,35 @@
+{
+  "title": "Cohabitation and Mortality Across the Life Course: A Longitudinal Cohort Study with Swedish Register-Based Sibling Comparisons",
+  "abstract": "Abstract Research has shown that married individuals live longer lives than unmarried women and men. A smaller number of studies have included non-marital cohabitation and have found that their mortality falls between the married and other unmarried groups. There are indications that the cohabiting population is diverse in terms of mortality risk, yet very little is known about how the association is related to age and stages of the life course. Sweden is a forerunner in family trends, and this is the first study that examines cohabitation and mortality in a Swedish context. Using Swedish register data for the years 2012–2017, we investigated how different partnership statuses are related to mortality for men and women at different ages ( N = 5,572,011). We also examine whether the association between cohabitation and mortality is similar after accounting for family-of-origin effects through the use of a sibling comparison design. Our findings confirmed the notion of cohabiters as a diverse group whose relative mortality risk differs depending on the timing of cohabitation. Never-married cohabiters had a mortality risk similar to married couples at younger ages and a gradually increased risk with age. Divorced and widowed cohabiters exhibited an age gradient in the opposite direction. Future research should consider how the context of cohabitation changes across the life course.",
+  "authors": [
+    {
+      "raw": "Lindmarker, Jesper",
+      "family": "Lindmarker",
+      "given": "Jesper"
+    },
+    {
+      "raw": "Kolk, Martin",
+      "family": "Kolk",
+      "given": "Martin"
+    },
+    {
+      "raw": "Drefahl, Sven",
+      "family": "Drefahl",
+      "given": "Sven"
+    }
+  ],
+  "authors_text": "Lindmarker, Jesper; Kolk, Martin; Drefahl, Sven",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-024-09722-6",
+  "doi_url": "https://doi.org/10.1007/s10680-024-09722-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-024-09722-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-024-09722-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

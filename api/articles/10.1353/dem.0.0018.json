@@ -1,0 +1,30 @@
+{
+  "title": "Does human capital raise earnings for immigrants in the low-skill labor market?",
+  "abstract": "AbstractWe use monthly Survey of Income and Program Participation data from 1996–1999 and 2001–2003 to estimate the determinants of differentiation in intercepts and slopes for age/earnings profiles of low-skill immigrant and native male workers. Our findings provide further depth of understanding to the“mixed” picture of earnings determination in the low-skill labor market that has been reported by others. On the positive side, many immigrants are employed in similar occupations and industries as natives. Both groups show substantial wage gains over time and generally receive similar returns to years of schooling completed. Immigrants also receive substantial returns to acculturation, measured as age at arrival and English language skill. These results cast doubt on the strong version of segmented labor market theory, in which low-skill immigrants are permanently consigned to dead-end jobs with no wage appreciation. On the negative side, immigrants earn approximately 24% less than natives and are less likely to occupy supervisory and managerial jobs. Latino immigrants receive lower returns to education than do white immigrants. Furthermore, age at arrival and language ability do not explain the lower returns to education experienced by Latino immigrants. These results suggest that Latino immigrants in particular may suffer from barriers to mobility and/or wage discrimination. Whether these negative labor market experiences occur primarily for illegal immigrants remains unknown.",
+  "authors": [
+    {
+      "raw": "Hall, Matthew",
+      "family": "Hall",
+      "given": "Matthew"
+    },
+    {
+      "raw": "Farkas, George",
+      "family": "Farkas",
+      "given": "George"
+    }
+  ],
+  "authors_text": "Hall, Matthew; Farkas, George",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2008,
+  "doi": "10.1353/dem.0.0018",
+  "doi_url": "https://doi.org/10.1353/dem.0.0018",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fdem.0.0018",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/dem.0.0018.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

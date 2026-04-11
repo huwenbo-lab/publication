@@ -1,0 +1,30 @@
+{
+  "title": "Parties, Unions, Policies and Occupational Sex Segregation in the United States",
+  "abstract": "We utilize the 2000 Equal Employment Opportunity file of the US. Census and various secondary resources to determine if party control, union density and states' anti-discrimination and family leave policy legacies affect levels of occupational sex segregation across large counties. Our findings offer a puzzle to political sociologists because two theories that are typically pitted against one another (Power Resource Theory vs. Liberal Economic Theory) predict and result in comparable outcomes. Indeed, as suggested by Social Democratic Theory, the sub-national United States have lower levels of occupational sex segregation when the Democratic Party and unions are strong, and policies are the mechanism through which these states maintain low occupational sex segregation. Yet, interestingly, as suggested by Liberal Economic Theory, occupational sex segregation is also low when unions and the Democratic Party are both weak, suggesting that unfettered market capitalism redresses socio-economic inequalities.",
+  "authors": [
+    {
+      "raw": "Moller, S.",
+      "family": "Moller",
+      "given": "S."
+    },
+    {
+      "raw": "Li, H.",
+      "family": "Li",
+      "given": "H."
+    }
+  ],
+  "authors_text": "Moller, S.; Li, H.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0174",
+  "doi_url": "https://doi.org/10.1353/sof.0.0174",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0174",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0174.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

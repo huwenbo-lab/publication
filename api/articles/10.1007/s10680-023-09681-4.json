@@ -1,0 +1,30 @@
+{
+  "title": "The Gender Wage Gap and Parenthood: Occupational Characteristics Across European Countries",
+  "abstract": "AbstractDifferent strands of research analyse gender occupational differences and how they relate to differential earnings, especially among parents juggling family demands. We use rich data from PIAAC across a subset of European countries and match occupational characteristics to individuals’ jobs using the O*NET database to analyse, first, whether there are gender differences in the occupational characteristics of jobs, particularly among parents, and second, whether the return to key occupational characteristics varies by gender. Compared to men, women’s jobs generally require more contact with others, less autonomy in decision-making, and less time pressure. In addition, positions held by mothers involve both less leadership expectations and less intensive use of machines than those held by fathers. Further, mothers receive a lower return to both of these occupational characteristics than fathers do. Finally, even though gaps in occupational characteristics such as leadership jointly with the differential sorting of mothers and fathers across sectors explain part of the gender wage gap in Oaxaca–Blinder decomposition models, especially in Continental Europe, a large share remains unexplained particularly in Eastern and Southern European countries.",
+  "authors": [
+    {
+      "raw": "Adsera, Alícia",
+      "family": "Adsera",
+      "given": "Alícia"
+    },
+    {
+      "raw": "Querin, Federica",
+      "family": "Querin",
+      "given": "Federica"
+    }
+  ],
+  "authors_text": "Adsera, Alícia; Querin, Federica",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2023,
+  "doi": "10.1007/s10680-023-09681-4",
+  "doi_url": "https://doi.org/10.1007/s10680-023-09681-4",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-023-09681-4",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-023-09681-4.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

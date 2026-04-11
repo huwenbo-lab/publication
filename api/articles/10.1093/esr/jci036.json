@@ -1,0 +1,25 @@
+{
+  "title": "Educational Inequality and Family Relationships: Influences on Contact and Proximity",
+  "abstract": "In modern society, education has become a major element of stratification and differentiation. This paper examines how educational differences across and within family relationships affect the content of the relationship, thereby focusing on proximity and contact between parents and adult children and between siblings. Hypotheses are developed about why education should matter, using theoretical arguments about preferences and constraints. The hypotheses are tested using a large new survey on family relationships in the Netherlands, the Netherlands Kinship Panel Study. Family relationships are pooled into one dataset which is analyzed using multilevel regression. The results show sharp but nonlinear educational effects on proximity and distance, although most of the educational effect on contact is indirect, via distance. Educational differences within family relationships lead to greater distances and less contact, confirming the classic mobility thesis, but the effects are generally weak and the effects on contact are indirect. Implications of the findings for the different theoretical perspectives on family relationships are discussed.",
+  "authors": [
+    {
+      "raw": "Kalmijn, Matthijs",
+      "family": "Kalmijn",
+      "given": "Matthijs"
+    }
+  ],
+  "authors_text": "Kalmijn, Matthijs",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1093/esr/jci036",
+  "doi_url": "https://doi.org/10.1093/esr/jci036",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjci036",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jci036.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

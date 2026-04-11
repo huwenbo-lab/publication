@@ -1,0 +1,35 @@
+{
+  "title": "Fiscal Centralization and Inequality in Children's Economic Mobility",
+  "abstract": "Disparities in state and local government spending are key drivers of spatial inequality in social outcomes, including economic mobility. Yet beyond spending levels, the fiscal centralization of state and local governments-that is, the relative role of higher- versus lower-level governments in taxing, spending, and public employment-also differs substantially, traceable to place-specific founding circumstances and path dependent historical trajectories. In this study, we ask, in more centralized fiscal systems, is there less spatial inequality in the economic mobility outcomes of low-income children? To answer this, we construct a novel Fiscal Centralization Index for each state and each county using data from the U.S. Census of Governments. We then use place-based estimates of intergenerational economic mobility, provided by Opportunity Insights, to measure cross-census-tract variation in the mobility outcomes of children within each state and each county. We find that more centralized fiscal structures exhibit less spatial inequality in the economic mobility outcomes of low-income children, and this is driven by improving outcomes in lower-performing census tracts. Our findings motivate the fiscal sociology of place as a framework for revealing how historically conditioned fiscal systems are implicated in the production of place-based inequalities, with the potential to generate new insights and policy interventions.",
+  "authors": [
+    {
+      "raw": "O'Brien, Rourke",
+      "family": "O'Brien",
+      "given": "Rourke"
+    },
+    {
+      "raw": "Schechtl, Manuel",
+      "family": "Schechtl",
+      "given": "Manuel"
+    },
+    {
+      "raw": "Parolin, Zachary",
+      "family": "Parolin",
+      "given": "Zachary"
+    }
+  ],
+  "authors_text": "O'Brien, Rourke; Schechtl, Manuel; Parolin, Zachary",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1177/00031224241303459",
+  "doi_url": "https://doi.org/10.1177/00031224241303459",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F00031224241303459",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/00031224241303459.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

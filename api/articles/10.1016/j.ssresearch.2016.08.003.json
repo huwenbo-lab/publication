@@ -1,0 +1,35 @@
+{
+  "title": "Segregation by race and income in the United States 1970-2010",
+  "abstract": "A systematic analysis of residential segregation and spatial interaction by income reveals that as income rises, minority access to integrated neighborhoods, higher levels of interaction with whites, and more affluent neighbors also increase. However, the income payoffs are much lower for African Americans than other groups, especially Asians. Although Hispanics and Asians have always displayed declining levels of minority-white dissimilarity and rising levels of minority-white interaction with rising income, income differentials on these outcomes for blacks did not appear until 1990 and since then have improved at a very slow pace. Given their higher overall levels of segregation and income's limited effect on residential attainment, African Americans experience less integration, more neighborhood poverty at all levels of income compared to other minority groups. The degree of black spatial disadvantage is especially acute in the nation's 21 hypersegregated metropolitan areas. (C) 2016 Elsevier Inc. All rights reserved.",
+  "authors": [
+    {
+      "raw": "Intrator, Jake",
+      "family": "Intrator",
+      "given": "Jake"
+    },
+    {
+      "raw": "Tannen, Jonathan",
+      "family": "Tannen",
+      "given": "Jonathan"
+    },
+    {
+      "raw": "Massey, Douglas S.",
+      "family": "Massey",
+      "given": "Douglas S."
+    }
+  ],
+  "authors_text": "Intrator, Jake; Tannen, Jonathan; Massey, Douglas S.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2016,
+  "doi": "10.1016/j.ssresearch.2016.08.003",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2016.08.003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2016.08.003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2016.08.003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

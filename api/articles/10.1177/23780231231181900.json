@@ -1,0 +1,25 @@
+{
+  "title": "Right-Wing Protest in the United States, 2017 to 2022",
+  "abstract": "The past few years have seen a resurgence of right-wing demonstrations in the United States. Using new protest event data collected by the Crowd Counting Consortium, this visualization presents monthly trends in the size and count of protests by topic between 2017 and 2022. Conservative protest in the first three years was at a notably low level but with some very large events and a focus on abortion and gun rights. Protests swelled, starting in 2020, with demonstrations against coronavirus disease 2019 restrictions and in support of police officers, followed by election fraud rallies. Finally, 2022 was marked by lower levels of participation overall and increased events targeting LGBQT+ rights.",
+  "authors": [
+    {
+      "raw": "Caren, Neal",
+      "family": "Caren",
+      "given": "Neal"
+    }
+  ],
+  "authors_text": "Caren, Neal",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2023,
+  "doi": "10.1177/23780231231181900",
+  "doi_url": "https://doi.org/10.1177/23780231231181900",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231231181900",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231231181900.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

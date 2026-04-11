@@ -1,0 +1,40 @@
+{
+  "title": "The Effect of Expanded Parental Benefits on Union Dissolution",
+  "abstract": "Objective The aim of the study was to examine whether gender equality-focused parental benefits affect the union stability of couples. Background Generous, flexible, and gender equality-focused parental benefits have been shown to increase fathers' use of parental leave and time with children. Even though these policies have no explicit aims regarding relationship stability, two longstanding theoretical perspectives (traditionalist and egalitarian) offer potential mechanisms through which this type of policy can shift relationship dynamics either to increase or to decrease union dissolution. Method Using Canadian administrative data, we estimate difference-in-differences and local average treatment effects to examine the effects of the Quebec Parental Insurance Plan (QPIP 2006) on union dissolution. Then we examine whether the policy had heterogenous effects on couples which are likely to be either traditional or egalitarian. Results We find that QPIP decreased the separation rate by half of a percentage point overall, a 6% decrease. The greatest reductions in union dissolution are found among couples likely to be more egalitarian in orientation. Conclusion The large negative effects of this family policy on union dissolution are significant, as they show one clear way in which family policies can encourage egalitarianism and stabilize families during the second phase of the gender revolution.",
+  "authors": [
+    {
+      "raw": "Margolis, Rachel",
+      "family": "Margolis",
+      "given": "Rachel"
+    },
+    {
+      "raw": "Choi, Youjin",
+      "family": "Choi",
+      "given": "Youjin"
+    },
+    {
+      "raw": "Holm, Anders",
+      "family": "Holm",
+      "given": "Anders"
+    },
+    {
+      "raw": "Mehta, Nirav",
+      "family": "Mehta",
+      "given": "Nirav"
+    }
+  ],
+  "authors_text": "Margolis, Rachel; Choi, Youjin; Holm, Anders; Mehta, Nirav",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2020,
+  "doi": "10.1111/jomf.12718",
+  "doi_url": "https://doi.org/10.1111/jomf.12718",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12718",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12718.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

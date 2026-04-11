@@ -1,0 +1,25 @@
+{
+  "title": "Delayed Benefits: Effects of California School District Bond Elections on Achievement by Socioeconomic Status",
+  "abstract": "Contradictory evidence of the relationship between education funding and student achievement could reflect heterogeneous effects by revenue source or student characteristics. This study examines potential heterogeneous effects of a particular type of local revenue-bond funds for capital investments-on achievement by socioeconomic status. Comparing California school districts within a narrow window on either side of the cutoff of voter support required to pass a general obligation bond measure, I use dynamic regression discontinuity models to estimate effects of passing a bond on academic achievement among low- and high-socioeconomic-status (SES) students. Results consistently suggest that passing a bond increases achievement among low- but not high-SES students. However, these benefits for low-SES students are delayed and emerge six years after an election. Effects are larger in low-income districts and in small districts, where benefits of capital investments are experienced by a larger proportion of students.",
+  "authors": [
+    {
+      "raw": "Rauscher, Emily",
+      "family": "Rauscher",
+      "given": "Emily"
+    }
+  ],
+  "authors_text": "Rauscher, Emily",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2020,
+  "doi": "10.1177/0038040719892577",
+  "doi_url": "https://doi.org/10.1177/0038040719892577",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040719892577",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040719892577.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

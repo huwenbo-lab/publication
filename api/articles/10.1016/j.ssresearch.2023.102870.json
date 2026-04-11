@@ -1,0 +1,30 @@
+{
+  "title": "The nature-nurture of academic achievement at the intersection between gender, family background, and school context",
+  "abstract": "We investigate the role of gender, family SES, school SES, and their intersection in educational achievement using a twin design. Drawing on theories of gene-environment interaction, we test whether high-SES environments compensate genetic risks or enhance genetic potential, and its dependency on gender. Using data on 37,000 Danish twin and sibling pairs from population-wide administrative registers, we report three main findings. First, for family SES, but not for school SES, we find that genetic influences play a slightly smaller role in high-SES environments. Second, this relationship is moderated by child gender: in high-SES families, the genetic influence is considerably lower for boys than for girls. Third, the moderating effect of family SES for boys is almost entirely driven by children attending low-SES schools. Our findings thus point to significant heterogeneity in gene-environment interactions, highlighting the importance of considering the multiplicity of social contexts.",
+  "authors": [
+    {
+      "raw": "Stienstra, Kim",
+      "family": "Stienstra",
+      "given": "Kim"
+    },
+    {
+      "raw": "Karlson, Kristian Bernt",
+      "family": "Karlson",
+      "given": "Kristian Bernt"
+    }
+  ],
+  "authors_text": "Stienstra, Kim; Karlson, Kristian Bernt",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2023,
+  "doi": "10.1016/j.ssresearch.2023.102870",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2023.102870",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2023.102870",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2023.102870.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

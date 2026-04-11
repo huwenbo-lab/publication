@@ -1,0 +1,30 @@
+{
+  "title": "Demographic Strengthening of European Identity",
+  "abstract": "In 2006, Lutz et al. used a model of cohort replacement to forecast the future increase in European identity. Since then, though, the European Union has gone through very turbulent times and many commentators suggest that the integration process has now gone into reverse gear. We test the predictive power of the model originally used with data from the 2013 Eurobarometer survey. This empirical evaluation shows that for cohorts above age 35 in 2013 (which already had a formed identity in 2004), the forecast was accurate and the process of cohort replacement resulted in a continued increase in the overall prevalence of European identity. For the youngest cohorts, however, the assumption of continuation in the trend of increasing European identity proved wrong, suggesting that forecasts based on a cohort model are more reliable than pure trend extrapolation. Overall, given the demographic and political weight of older cohorts, the model points toward the strengthening of European identity.",
+  "authors": [
+    {
+      "raw": "Striessnig, Erich",
+      "family": "Striessnig",
+      "given": "Erich"
+    },
+    {
+      "raw": "Lutz, Wolfgang",
+      "family": "Lutz",
+      "given": "Wolfgang"
+    }
+  ],
+  "authors_text": "Striessnig, Erich; Lutz, Wolfgang",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2016,
+  "doi": "10.1111/j.1728-4457.2016.00133.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2016.00133.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2016.00133.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2016.00133.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Sibling genes as environment: Sibling dopamine genotypes and adolescent health support frequency dependent selection",
+  "abstract": "While research consistently suggests siblings matter for individual outcomes, it remains unclear why. At the same time, studies of genetic effects on health typically correlate variants of a gene with the average level of behavioral or health measures, ignoring more complicated genetic dynamics. Using National Longitudinal Study of Adolescent Health data, we investigate whether sibling genes moderate individual genetic expression. We compare twin variation in health-related absences and self-rated health by genetic differences at three locations related to dopamine regulation and transport to test sibship-level cross-person gene-gene interactions. Results suggest effects of variation at these genetic locations are moderated by sibling genes. Although the mechanism remains unclear, this evidence is consistent with frequency dependent selection and suggests much genetic research may violate the stable unit treatment value assumption.",
+  "authors": [
+    {
+      "raw": "Rauscher, Emily",
+      "family": "Rauscher",
+      "given": "Emily"
+    },
+    {
+      "raw": "Conley, Dalton",
+      "family": "Conley",
+      "given": "Dalton"
+    },
+    {
+      "raw": "Siegal, Mark L.",
+      "family": "Siegal",
+      "given": "Mark L."
+    }
+  ],
+  "authors_text": "Rauscher, Emily; Conley, Dalton; Siegal, Mark L.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2015,
+  "doi": "10.1016/j.ssresearch.2015.08.002",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2015.08.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2015.08.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2015.08.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

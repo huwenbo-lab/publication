@@ -1,0 +1,25 @@
+{
+  "title": "Trade union decline, deindustrialization, and rising income inequality in the United States, 1947 to 2015",
+  "abstract": "The steady rise of income inequality in the United States coincides with trade union decline and structural changes to the economy, but prior studies do not consider whether these phenomena interact in ways that magnify inequality. Drawing on institutional and market accounts of inequality, the author develops the argument that trade union decline, occurring within the context of deindustrialization and the offshoring of routinemanufacturing jobs, creates more profound distributional effects than these factors would create in isolation. This argument is tested (net of other important determinants of income inequality) using time-series regression models and national-level data from 1947 to 2015. Results support the proposed interaction effects, suggesting that a thorough understanding of inequality and social stratification must consider not only institutions and markets, but how they interact. The results also suggest that inequality is driven by financialization, public sector retrenchment, and unemployment, but not necessarily by technological change.",
+  "authors": [
+    {
+      "raw": "Kollmeyer, Christopher",
+      "family": "Kollmeyer",
+      "given": "Christopher"
+    }
+  ],
+  "authors_text": "Kollmeyer, Christopher",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2018,
+  "doi": "10.1016/j.rssm.2018.07.002",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2018.07.002",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2018.07.002",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2018.07.002.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

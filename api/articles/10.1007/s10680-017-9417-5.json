@@ -1,0 +1,30 @@
+{
+  "title": "Explaining Conflicting Results in Research on the Heterogeneous Effects of Parental Separation on Children’s Educational Attainment According to Social Background",
+  "abstract": "In recent years, researchers have become increasingly interested in how the effects of parental separation on children's educational attainment vary with social background. On the one hand, parents with more resources might be better able to prevent possible adverse events like separation to affect their children's outcomes. On the other hand, children from higher social backgrounds might have more resources to lose from a parental separation. A wide range of empirical studies on the issue have come to inconsistent conclusions, with support found for both perspectives. The aim of this paper is to monitor the influence of methodological and operational choices on the different results observed across studies. We focus on aspects such as the operationalization of key variables, the measurement of inequality in absolute and relative terms and the different strategies used to address endogeneity. We study the effects of parental separation on educational attainment for a cohort of British children born in 1970 and find that conclusions change depending on whether social background is measured using the mother's or father's characteristics and whether relative or absolute differences between groups are considered. Results are relatively insensitive to the operationalization of dependent variables and the treatment of missing data. When using data from Understanding Society instead of the British Cohort Study, results also did not change. We reflect on how these findings can explain the contradictory results from earlier studies on the topic, and how heterogeneity in the effects of parental separation by socio-economic background should be interpreted.",
+  "authors": [
+    {
+      "raw": "Bernardi, Fabrizio",
+      "family": "Bernardi",
+      "given": "Fabrizio"
+    },
+    {
+      "raw": "Boertien, Diederik",
+      "family": "Boertien",
+      "given": "Diederik"
+    }
+  ],
+  "authors_text": "Bernardi, Fabrizio; Boertien, Diederik",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2017,
+  "doi": "10.1007/s10680-017-9417-5",
+  "doi_url": "https://doi.org/10.1007/s10680-017-9417-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-017-9417-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-017-9417-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

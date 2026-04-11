@@ -1,0 +1,30 @@
+{
+  "title": "Maternal Education, Family Formation, and Child Development: The Continuing Significance of Race",
+  "abstract": "Objective Family formation patterns and their attendant benefits for children have diverged by maternal education in recent decades, but has there been racial variation in these trends? Background Theories of intersectionality and structural racism suggest that relationships between women's educational attainment, family formation, and benefits for children may differ between Black, Hispanic, and White women who have completed the same amount of schooling. Method Using longitudinal data on mothers and children from the Early Childhood Longitudinal Study, Kindergarten Class of 2010-11 ( ), descriptive statistics examine racial variation within maternal education groups on a number of family formation characteristics. A series of regression analyses, stratified by maternal education, assess racial differences (by mother's race) in reading scores at school entry among children of same-education mothers and reveal the extent to which variation in family patterns accounts for such differences. Results Black and, to a lesser extent, Hispanic mothers often (although not always) have significantly different family formation patterns compared with same-education White mothers. Controlling for these family characteristics largely attenuates and sometimes fully reverses significant Black-White gaps in children's school-entry reading achievement within maternal education groups but does less to account for Hispanic-White gaps. Conclusion Race continues to have a structural influence on many family and child outcomes, over and above maternal education, particularly for Black mothers relative to same-education White mothers.",
+  "authors": [
+    {
+      "raw": "Conwell, Jordan A.",
+      "family": "Conwell",
+      "given": "Jordan A."
+    },
+    {
+      "raw": "Doren, Catherine",
+      "family": "Doren",
+      "given": "Catherine"
+    }
+  ],
+  "authors_text": "Conwell, Jordan A.; Doren, Catherine",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2021,
+  "doi": "10.1111/jomf.12697",
+  "doi_url": "https://doi.org/10.1111/jomf.12697",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12697",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12697.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

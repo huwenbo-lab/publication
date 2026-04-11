@@ -1,0 +1,30 @@
+{
+  "title": "Research Note: The Association Between Parity and Odds of Alzheimer's Disease and Dementias Status",
+  "abstract": "While parity is a significant factor influencing parental health, its relation ship with dementia remains underexplored. This research note advances the literature by conducting a well powered analysis of associations between parity (i.e., number of children) and Alzheimer's disease and dementias (AD/D) status in largescale popula tion data. The data contain a large number of AD/D cases (37,228 women and 19,846 men), allowing a range (1-10) of parity associations to be estimated precisely. Using proxy (adult child's) reports of parental AD/D status, we find that both fathers and mothers with grand multiparity have decreased odds of AD/D status, and the effect sizes become larger as parity increases, with 30-40% reduction in AD/D status at parities above 7. The association is stronger for mothers than for fathers. This finding differs from much of the prior literature and likely suggests the impact of parity, as one of the important life course contexts, on people's cognitive function and risk of having AD/D. Finally, we include population projections that consider how large changes in parity distributions over time may contribute to small elevations in AD/D rates.",
+  "authors": [
+    {
+      "raw": "Zhang, Yan",
+      "family": "Zhang",
+      "given": "Yan"
+    },
+    {
+      "raw": "Fletcher, Jason M.",
+      "family": "Fletcher",
+      "given": "Jason M."
+    }
+  ],
+  "authors_text": "Zhang, Yan; Fletcher, Jason M.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11585876",
+  "doi_url": "https://doi.org/10.1215/00703370-11585876",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11585876",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11585876.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Effects of Family Structure, Family SES, and Adulthood Experiences on Life Satisfaction",
+  "abstract": "Using data from the General Social Survey, 1989-1994, this study examines the effects of family structure, family socioeconomic status (SES), and adulthood experiences on life satisfaction. Regression analysis shows that both family structure and family SES are associated with life satisfaction in adulthood, controlling for age, gender, race, and education. However, neither family structure nor family SES remains significant after the inclusion of a set of adulthood life experience variables in the models. This finding calls for a better measure of family dynamics in childhood and further research on the joint effects of childhood family characteristics and adulthood life experiences on a person's psychological well-being.",
+  "authors": [
+    {
+      "raw": "LOUIS, VINCENT V.",
+      "family": "LOUIS",
+      "given": "VINCENT V."
+    },
+    {
+      "raw": "ZHAO, SHANYANG",
+      "family": "ZHAO",
+      "given": "SHANYANG"
+    }
+  ],
+  "authors_text": "LOUIS, VINCENT V.; ZHAO, SHANYANG",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2002,
+  "doi": "10.1177/019251302237300",
+  "doi_url": "https://doi.org/10.1177/019251302237300",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F019251302237300",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/019251302237300.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

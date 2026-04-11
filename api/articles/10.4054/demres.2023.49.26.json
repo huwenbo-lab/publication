@@ -1,0 +1,35 @@
+{
+  "title": "Variable-r in sex ratios: Formulas in honor of Jim Vaupel",
+  "abstract": "BACKGROUND Two seminal studies in the 1980s, by Preston and Coale (1982) and Arthur and Vaupel (1984), generalized the Lotka equations developing the variable-r methods. OBJECTIVE Time changes in sex ratios (males:females) are studied from the perspective of the variable-r method to estimate the contributions of fertility, mortality, and net-migration. METHODS The time change in sex ratios can be calculated as a comparison of the growth rates of the sexes. The difference is then decomposed into population composition, and the age-specific components of fertility, mortality, and net migration. Thirteen countries with long historical demographic series are used to illustrate the time trends in sex ratios. RESULTS Most countries are moving towards a greater number of males per females. The greatest changes were observed in Norway and Sweden, with males catching up with females at older ages due to survival. Meanwhile, the sex differential in net-migration flows explains the decline in sex ratios in Spain and Australia and the increase in the United States. CONCLUSIONS Our results shed light on the debate on female-male population imbalances and how fertility, mortality, and net migration contribute to these disparities.",
+  "authors": [
+    {
+      "raw": "Canudas-Romo, Vladimir",
+      "family": "Canudas-Romo",
+      "given": "Vladimir"
+    },
+    {
+      "raw": "Su, Wen",
+      "family": "Su",
+      "given": "Wen"
+    },
+    {
+      "raw": "Hollingshaus, Mike",
+      "family": "Hollingshaus",
+      "given": "Mike"
+    }
+  ],
+  "authors_text": "Canudas-Romo, Vladimir; Su, Wen; Hollingshaus, Mike",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2023,
+  "doi": "10.4054/demres.2023.49.26",
+  "doi_url": "https://doi.org/10.4054/demres.2023.49.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2023.49.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2023.49.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

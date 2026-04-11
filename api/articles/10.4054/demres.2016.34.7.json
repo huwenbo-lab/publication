@@ -1,0 +1,35 @@
+{
+  "title": "An implicit ambivalence-indifference dimension of childbearing desires in the National Survey of Family Growth",
+  "abstract": "BACKGROUND It is common in fertility surveys to ask women to retrospectively rate on a bipolar scale how much they wanted a pregnancy right before they became pregnant. Using a theoretical framework based on the interaction between positive and negative desires for pregnancy, we argue that the mid-point response to a bipolar survey question about preconception childbearing desires implicitly measures an ambivalence/indifference dimension of their preconception motivation. OBJECTIVE We create a variable that measures this dimension and examine its construct validity by testing hypotheses about how scores on this dimension predict the postconception wantedness of a pregnancy and how certain social and demographic contexts influence that prediction. METHODS Using data from the 2006-2010 National Survey of Family Growth, we use linear regression analyses to test these hypotheses on over 5,000 pregnancies that occurred in the 3 years prior to the survey interview. RESULTS The results confirm our general hypothesis that women who endorse the bipolar scale at or near the mid-point, and thus are high scorers on the proposed ambivalent/indifferent dimension, tend to resolve their preconception mixed feelings in the direction of wanting their pregnancies after they have occurred. The results also confirm that whether or not preconception mixed feelings are resolved in the direction of postconception wantedness depends upon the woman's relationship status at the time of conception, her age at conception, her income, and -within certain racial/ethnic groups, her level of education and income. CONCLUSIONS We conclude that the dimension of ambivalent/indifferent desires provides additional explanatory power for the construct of postconception pregnancy wantedness and that our findings support the development of measures of positive and negative desires for pregnancy so that the constructs of ambivalent and indifferent childbearing desires may be directly measured in future fertility surveys.",
+  "authors": [
+    {
+      "raw": "Miller, Warren B.",
+      "family": "Miller",
+      "given": "Warren B."
+    },
+    {
+      "raw": "Jones, Jo",
+      "family": "Jones",
+      "given": "Jo"
+    },
+    {
+      "raw": "Pasta, David J.",
+      "family": "Pasta",
+      "given": "David J."
+    }
+  ],
+  "authors_text": "Miller, Warren B.; Jones, Jo; Pasta, David J.",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.34.7",
+  "doi_url": "https://doi.org/10.4054/demres.2016.34.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.34.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.34.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

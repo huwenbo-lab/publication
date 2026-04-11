@@ -1,0 +1,30 @@
+{
+  "title": "Disentangling the Swedish fertility decline of the 2010s",
+  "abstract": "BACKGROUND The downward fertility trend in Western countries during the 2010s is puzzling, not least in the Nordic region. OBJECTIVE In order to better understand its driving forces, we examine whether the decline is driven by differential behavior or compositional changes across sociodemographic population subgroups, for the empirical case of Sweden. METHODS Event-history techniques are applied to register data of the Swedish-born population to provide an in-depth analysis of the sociodemographic profile of the fertility decline. RESULTS The decline is confined to first births, with no apparent difference between individuals living in different types of municipalities or between those with fully Swedish and non-Swedish backgrounds. The first-birth decline is notable across labor market activity groups, but is somewhat more pronounced among those with weaker labor market positions. However, the shares of men and women who were active in the labor market and who had high earnings increased. The findings are strikingly similar for men and women. CONCLUSIONS For the most part the factors driving the Swedish fertility decline do not appear to be structural. Other forces, perhaps global, may underlie the general tendency to increasingly forego or postpone having children. The polarization in childbearing across labor market positions is an area for future research. CONTRIBUTION The study provides new insights into the conundrum of Nordic fertility decline during the 2010s.",
+  "authors": [
+    {
+      "raw": "Ohlsson-Wijk, Sofi",
+      "family": "Ohlsson-Wijk",
+      "given": "Sofi"
+    },
+    {
+      "raw": "Andersson, Gunnar",
+      "family": "Andersson",
+      "given": "Gunnar"
+    }
+  ],
+  "authors_text": "Ohlsson-Wijk, Sofi; Andersson, Gunnar",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2022,
+  "doi": "10.4054/demres.2022.47.12",
+  "doi_url": "https://doi.org/10.4054/demres.2022.47.12",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2022.47.12",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2022.47.12.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

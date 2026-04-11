@@ -1,0 +1,40 @@
+{
+  "title": "Educational trends in cohort fertility by birth order: A comparison of England and Wales, Scotland, and Northern Ireland",
+  "abstract": "BACKGROUND Over the past few decades, cohort fertility rates in the different countries of the United Kingdom (England and Wales, Scotland, and Northern Ireland) have diverged, yet the role of parity-specific patterns, including childlessness, is not known. Studies across Europe have found a reversal in the educational gradient of childlessness from positive to negative, which has been attributed to economic uncertainty, new patterns of parity progression, and increased polarization of behaviours across educational subgroups, raising the question of how the United Kingdom fits into these emerging trends. OBJECTIVE This paper uses large-scale administrative data from each of the United Kingdom's countries to identify how childlessness and childbearing at higher birth orders are driving these differences and to explore potential explanations. RESULTS For the birth cohorts 1956-1978, we find a persistently positive educational pattern of childlessness across all UK countries, albeit with smaller educational differences in Northern Ireland. We also find, across educational groups, divergent country trends in family size distribution, with Scotland trending towards smaller families but not higher levels of childlessness, and Northern Ireland having larger families. England and Wales remain firmly entrenched in the two-child norm. Family size differences between countries are not explained by postponement alone since mean age at first birth is relatively similar across countries. CONTRIBUTION Our findings show that the UK countries have unique fertility regimes, emphasizing the value of examining countries separately for their different empirical contributions to the unfolding patterns of contemporary cohort fertility change in Europe.",
+  "authors": [
+    {
+      "raw": "Kuang, Bernice",
+      "family": "Kuang",
+      "given": "Bernice"
+    },
+    {
+      "raw": "Berrington, Ann",
+      "family": "Berrington",
+      "given": "Ann"
+    },
+    {
+      "raw": "Christison, Sarah",
+      "family": "Christison",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    }
+  ],
+  "authors_text": "Kuang, Bernice; Berrington, Ann; Christison, Sarah; Kulu, Hill",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.51.36",
+  "doi_url": "https://doi.org/10.4054/demres.2024.51.36",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.51.36",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.51.36.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

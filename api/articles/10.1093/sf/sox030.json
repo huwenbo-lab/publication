@@ -1,0 +1,30 @@
+{
+  "title": "Age Homogamy, Gender, and Earnings: Sweden 1990-2009",
+  "abstract": "Previous research has shown considerable marriage premiums in earnings for men, but often penalties for women of being in a union. In this study we extend this research by analyzing how the age difference between spouses affects the earnings profiles by gender. As we follow people over time in advance as well as within their marriage, we can separate premarital from postmarital earnings movements. The data consist of information on annual earnings 1990-2009 for all Swedes born 1960-1974 (N = 926,219). The results indicate that age homogamy is related to higher earnings for both men and women, and that larger age differences are generally associated with lower union premiums, quite independently of which spouse is older. However, most of these results are explained by assortative mating, in which men and women with greater earnings potentials find partners of a similar age. Overall, the age difference between spouses seems to have a limited causal effect, if any, on individual earnings.",
+  "authors": [
+    {
+      "raw": "Dribe, Martin",
+      "family": "Dribe",
+      "given": "Martin"
+    },
+    {
+      "raw": "Nystedt, Paul",
+      "family": "Nystedt",
+      "given": "Paul"
+    }
+  ],
+  "authors_text": "Dribe, Martin; Nystedt, Paul",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2017,
+  "doi": "10.1093/sf/sox030",
+  "doi_url": "https://doi.org/10.1093/sf/sox030",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox030",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox030.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

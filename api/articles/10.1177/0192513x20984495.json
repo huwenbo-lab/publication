@@ -1,0 +1,45 @@
+{
+  "title": "Educational Attainments of Children with Adopted Siblings",
+  "abstract": "Although adoption is a widespread phenomenon in the United States, little research has examined the effects on biological siblings. This article uses two representative datasets to compare educational attainments of individuals who grew up with an adopted sibling and those that did not. We find large heterogeneity (based on sex, family income, and cohort) in the outcomes of those with an adopted sibling. Brothers appear more influenced than sisters. For brothers, we find that family income moderates differential associations, where males from low-income families have lower education if they have an adopted sibling, but males from higher-income families do not. Our results have implications for our understanding of family dynamics as well as how sex shapes educational attainments of children.",
+  "authors": [
+    {
+      "raw": "Fletcher, Jason",
+      "family": "Fletcher",
+      "given": "Jason"
+    },
+    {
+      "raw": "Greenberg, Jan",
+      "family": "Greenberg",
+      "given": "Jan"
+    },
+    {
+      "raw": "Mailick, Marsha",
+      "family": "Mailick",
+      "given": "Marsha"
+    },
+    {
+      "raw": "Song, Jieun",
+      "family": "Song",
+      "given": "Jieun"
+    },
+    {
+      "raw": "Wolfe, Barbara",
+      "family": "Wolfe",
+      "given": "Barbara"
+    }
+  ],
+  "authors_text": "Fletcher, Jason; Greenberg, Jan; Mailick, Marsha; Song, Jieun; Wolfe, Barbara",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2021,
+  "doi": "10.1177/0192513x20984495",
+  "doi_url": "https://doi.org/10.1177/0192513x20984495",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x20984495",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x20984495.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

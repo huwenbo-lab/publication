@@ -1,0 +1,40 @@
+{
+  "title": "Fertility differences across immigrant generations in the United Kingdom",
+  "abstract": "BACKGROUND Previous studies have investigated immigrant fertility in various European countries, but only a few have compared the fertility rates of women who migrated as children (1.5 Generation), women born in the host society to foreign-born parents (2 Generation), and women born in the host society with one foreign-born and one native-born parent (2.5 Generation). OBJECTIVE This study examines the first-, second-, and third-birth rates of three migrant generation groups in the United Kingdom-1.5G, 2G, and 2.5G. The study investigates the role of sociocultural factors in shaping their fertility behaviour. METHODS Event history analysis is applied to longitudinal individual-level data (N = 24,228) from the UK Household Longitudinal Study (2009-2021). RESULTS Pakistani and Bangladeshi women who arrived in the United Kingdom as children exhibit elevated fertility at all birth orders, partly consistent with socialization theory. No clear convergence emerges among women born in the United Kingdom with one immigrant parent and one UK-born parent (2.5G) across all groups from different migrant-origin backgrounds. Instead, certain 2.5G groups show distinct fertility patterns. The influence of sociocultural factors on fertility varies by birth order and migrant generation, highlighting the need for a detailed approach that considers both cultural and socioeconomic dimensions. CONTRIBUTION This study is one of the first to differentiate the fertility behaviours of 1.5G, 2G, and 2.5G women in the United Kingdom. It reveals important variations in childbearing behaviour, which have implications for understanding intergenerational differences and the influence of sociocultural factors on migrant fertility.",
+  "authors": [
+    {
+      "raw": "Baek, Jiseon",
+      "family": "Baek",
+      "given": "Jiseon"
+    },
+    {
+      "raw": "Kulu, Hill",
+      "family": "Kulu",
+      "given": "Hill"
+    },
+    {
+      "raw": "Christison, Sarah",
+      "family": "Christison",
+      "given": "Sarah"
+    },
+    {
+      "raw": "Fiori, Francesca",
+      "family": "Fiori",
+      "given": "Francesca"
+    }
+  ],
+  "authors_text": "Baek, Jiseon; Kulu, Hill; Christison, Sarah; Fiori, Francesca",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2025,
+  "doi": "10.4054/demres.2025.52.33",
+  "doi_url": "https://doi.org/10.4054/demres.2025.52.33",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2025.52.33",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2025.52.33.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

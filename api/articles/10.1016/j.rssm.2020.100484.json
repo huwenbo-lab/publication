@@ -1,0 +1,35 @@
+{
+  "title": "Lesbian, gay and bisexual earnings in the Canadian labor market: New evidence from the Canadian Community Health Survey",
+  "abstract": "There is a growing body of literature on the labor market outcomes of gay, lesbian and bisexual (LGB) individuals. To date, much of this literature has relied on samples of same- and different-sex couples, such as those drawn from censuses, to study gay men and lesbian women's labor market outcomes. By design, these studies exclude single people and cannot identify bisexual people, who may be single or partnered with someone of the same or different sex. This could provide a biased assessment of sexual minority wage gaps if same-sex couples differ from single gay, lesbian, and bisexual people in ways that impact their employment and earnings. Our study overcomes these limitations by using ten cycles of the Canadian Community Health Survey, which includes a direct question on sexual orientation, large samples, and income and employment measures. We estimate sexual orientation-based income and employment disparities and also use coarsened exact matching (CEM) to improve the balance between our comparison groups, reducing unobserved heterogeneity and improving the precision of our estimates. We find that heterosexual women and LGB individuals are less likely to be working full-time than heterosexual men. Coupled gay men, but not single gay men, earn significantly less than heterosexual men. Single and coupled lesbian women earn more than comparable heterosexual women. Bisexual men and women have some of the worst employment outcomes, with incomes that are significantly less than everyone else.",
+  "authors": [
+    {
+      "raw": "Waite, Sean",
+      "family": "Waite",
+      "given": "Sean"
+    },
+    {
+      "raw": "Pajovic, Vesna",
+      "family": "Pajovic",
+      "given": "Vesna"
+    },
+    {
+      "raw": "Denier, Nicole",
+      "family": "Denier",
+      "given": "Nicole"
+    }
+  ],
+  "authors_text": "Waite, Sean; Pajovic, Vesna; Denier, Nicole",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2020,
+  "doi": "10.1016/j.rssm.2020.100484",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100484",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100484",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100484.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

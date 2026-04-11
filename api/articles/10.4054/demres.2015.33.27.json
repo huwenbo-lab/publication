@@ -1,0 +1,25 @@
+{
+  "title": "New perspective on youth migration: Motives and family investment patterns",
+  "abstract": "BACKGROUND Migration research commonly assumes that youth migrate as dependent family members or are motivated by current labor opportunities and immediate financial returns. These perspectives ignore how migration experiences, specifically motives and remittance behaviors, are unique to youth. OBJECTIVE This study investigates internal migration among the Haitian youth, aged 10-24. The study compares characteristics of youth who migrate with education and labor motives and determines characteristics associated with family financial support to youth migrants. METHODS The data are from the 2009 Haiti Youth Survey. Discrete-time event history analysis is used to model characteristics associated with education and labor migration. A two-stage Heckman probit model is used to determine characteristics associated with family financial support for two different samples of youth migrants. RESULTS Both education and labor migration become more common with increasing age. Education migration is more common among youth born outside the capital and those first enrolled in school on time. Labor migration differs little by region of birth, and is associated with late school enrollment. Moreover, rather than sending remittances home, many youth migrants continue to receive financial support from their parents. Provision of financial support to youth migrants is associated with current school enrollment. Female youth are more likely to be migrants, and less commonly receive support from their household of origin. CONCLUSIONS Results illustrate that youth migration motives and remittance behaviors differ from those of adults, and many households of origin continue to invest in the human capital of youth migrants. Education migration may diversify household risk over an extended time horizon.",
+  "authors": [
+    {
+      "raw": "Heckert, Jessica",
+      "family": "Heckert",
+      "given": "Jessica"
+    }
+  ],
+  "authors_text": "Heckert, Jessica",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2015,
+  "doi": "10.4054/demres.2015.33.27",
+  "doi_url": "https://doi.org/10.4054/demres.2015.33.27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2015.33.27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2015.33.27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

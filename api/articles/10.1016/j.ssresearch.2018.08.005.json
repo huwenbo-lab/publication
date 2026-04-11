@@ -1,0 +1,30 @@
+{
+  "title": "International visibility as determinants of foreign direct investment: An empirical study of Chinese Provinces",
+  "abstract": "While previous studies use economic and institutional variables to explain transnational investment operations, we argue that regionally-specific international visibility can significantly influence the investment decisions of foreign firms with spatial and temporal dynamics. Empirically, we extract the usage frequency of the names of all of the Chinese provinces in millions of English-language books from Google Books N-gram corpus to construct the index of international visibility as a proxy measurement of international prominence. Results from dynamic panel data analysis (1994-2004) using the Generalized Method of Moments demonstrate that the level of international visibility of a province has a positive effect on the inflows of foreign direct investments, controlling for a set of economic and institutional factors. Further analyses show that this visibility effect varies with different state images of China formed in various historical periods and is stronger with regard to inland provinces compared to coastal provinces. Our results are robust across alternative corpora and different model specifications.",
+  "authors": [
+    {
+      "raw": "Chen, Yunsong",
+      "family": "Chen",
+      "given": "Yunsong"
+    },
+    {
+      "raw": "Yan, Fei",
+      "family": "Yan",
+      "given": "Fei"
+    }
+  ],
+  "authors_text": "Chen, Yunsong; Yan, Fei",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.08.005",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.08.005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.08.005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.08.005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

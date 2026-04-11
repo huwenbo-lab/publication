@@ -1,0 +1,30 @@
+{
+  "title": "The Hidden Costs of War: Exposure to Armed Conflict and Birth Outcomes",
+  "abstract": "Research suggests that prenatal exposure to environmental stressors has negative effects after birth. However, capturing causal effects is difficult because exposed women may be selected on unobserved factors. We use the 2006 Israel-Hezbollah war as a natural experiment and a siblings fixed-effects methodology to address unobserved selectivity by comparing exposed and unexposed births of the same mother. Findings indicate that exposure to war in early and mid-pregnancy lowers birth weight and increases the probability of low birth weight. The effect is not driven by geographic sorting, migration, or increased miscarriages. Given that birth weight predicts health, developmental, and socioeconomic outcomes, prenatal exposure to acute stress may have long-term effects over the life course.",
+  "authors": [
+    {
+      "raw": "Torche, Florencia",
+      "family": "Torche",
+      "given": "Florencia"
+    },
+    {
+      "raw": "Shwed, Uri",
+      "family": "Shwed",
+      "given": "Uri"
+    }
+  ],
+  "authors_text": "Torche, Florencia; Shwed, Uri",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2015,
+  "doi": "10.15195/v2.a27",
+  "doi_url": "https://doi.org/10.15195/v2.a27",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv2.a27",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v2.a27.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

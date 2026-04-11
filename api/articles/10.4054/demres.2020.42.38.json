@@ -1,0 +1,25 @@
+{
+  "title": "The formal demography of kinship II: Multistate models, parity, and sibship",
+  "abstract": "BACKGROUND Recent kinship models focus on the age structures of kin as a function of the age of the focal individual. However, variables in addition to age have important impacts. Generalizing age-specific models to multistate models including other variables is an important and hitherto unsolved problem. OBJECTIVE The aim is to develop a multistate kinship model, classifying individuals jointly by age and other criteria (generically, stages). METHODS The vec-permutation method is used to create multistate projection matrices including age- and stage-dependent survival, fertility, and transitions. These matrices operate on block-structured population vectors that describe the age x stage structure of each kind of kin, at each age of a focal individual. RESULTS The new matrix formulation is directly comparable to, and greatly extends, the recent age-classified kinship model of Caswell (2019a). As an application, a model is derived including age and parity. It provides, for all types of kin, the joint age x parity structure, the marginal age and parity structures, and the (normalized) parity distributions, at every age of the focal individual. The age x parity distributions provide the distributions of sibship sizes of kin. As an example, the model is applied to Slovakia (1960-2014). The results show a dramatic shift in the parity distribution as the frequency of low-parity kin increased and that of high-parity kin decreased. CONTRIBUTION This model extends the formal demographic analysis of kinship to age x stage-classified models. In addition to parity, other stage classifications, including marital status, maternal age effects, and sex are now open to analysis.",
+  "authors": [
+    {
+      "raw": "Caswell, Hal",
+      "family": "Caswell",
+      "given": "Hal"
+    }
+  ],
+  "authors_text": "Caswell, Hal",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2020,
+  "doi": "10.4054/demres.2020.42.38",
+  "doi_url": "https://doi.org/10.4054/demres.2020.42.38",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2020.42.38",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2020.42.38.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

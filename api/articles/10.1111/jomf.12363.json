@@ -1,0 +1,35 @@
+{
+  "title": "Health-Related Parenting Among US Families and Young Children's Physical Health",
+  "abstract": "Parenting is a constellation of behaviors, yet investigations of the link between parenting and children's health typically focus on singular behaviors. Thus, patterns of health-related parenting among U.S. families, associations between patterns and children's physical health, and the prevalence of such patterns among different sociodemographic groups remain unknown. Applying latent class analysis to the Early Childhood Longitudinal Study-Birth Cohort (2001; N=8,550) revealed 6 parenting patterns. The pattern characterized by high levels of television watching was associated with the worst overall health; the pattern characterized by the highest consumption of food and amount of outdoor play was linked to the highest odds of obesity. Children of less-educated mothers and Black mothers were more likely to experience both of these patterns than the patterns associated with the best child health, but these patterns did not differ for Hispanics (vs. Whites). Income differences only appeared for patterns associated with children's general health.",
+  "authors": [
+    {
+      "raw": "Augustine, Jennifer March",
+      "family": "Augustine",
+      "given": "Jennifer March"
+    },
+    {
+      "raw": "Prickett, Kate C.",
+      "family": "Prickett",
+      "given": "Kate C."
+    },
+    {
+      "raw": "Kimbro, Rachel Tolbert",
+      "family": "Kimbro",
+      "given": "Rachel Tolbert"
+    }
+  ],
+  "authors_text": "Augustine, Jennifer March; Prickett, Kate C.; Kimbro, Rachel Tolbert",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2017,
+  "doi": "10.1111/jomf.12363",
+  "doi_url": "https://doi.org/10.1111/jomf.12363",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12363",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12363.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:28"
+}

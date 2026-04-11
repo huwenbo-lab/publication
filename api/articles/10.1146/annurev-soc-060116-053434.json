@@ -1,0 +1,25 @@
+{
+  "title": "A Life in Sociology",
+  "abstract": "There has lately been a slew of movies-biopics-that depict the lives of immensely talented individuals-the Indian mathematician Srinivasa Ramanujan, the cryptographer and computing pioneer Alan Turing, the physicist extraordinaire Stephen Hawking, and the southern-born novelist Thomas Wolfe, among others. As I think about my life and accomplishments, I know full well that they are way out of my league. All the same, I offer the following autobiographical account.",
+  "authors": [
+    {
+      "raw": "Hauser, Robert M.",
+      "family": "Hauser",
+      "given": "Robert M."
+    }
+  ],
+  "authors_text": "Hauser, Robert M.",
+  "journal": "Annual Review of Sociology",
+  "journal_slug": "Annual_Review_of_Sociology",
+  "year": 2017,
+  "doi": "10.1146/annurev-soc-060116-053434",
+  "doi_url": "https://doi.org/10.1146/annurev-soc-060116-053434",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1146%2Fannurev-soc-060116-053434",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1146/annurev-soc-060116-053434.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Annual_Review_of_Sociology.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Annual_Review_of_Sociology.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

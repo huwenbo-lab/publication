@@ -1,0 +1,25 @@
+{
+  "title": "An Intersectional Analysis of System Avoidance",
+  "abstract": "Recent work on communities of color has elaborated on the concept of system avoidance, which is the avoidance of institutions that keep formal records, such as banks, hospitals, and law enforcement. In this paper, I provide a feminist intersectional analysis of system avoidance by examining whether and how kinship structures shape crime reporting to the police within the “master” categories of race, gender, and class. Using the National Crime Victimization Survey (NCVS) 2002–2019, I show that among Latinx and white respondents, women are more likely than men to report personal experiences of violence to the police only if they have children living in the home. Among Black respondents, however, women are more likely than men to report personal experiences of violence to the police regardless of whether or not they have children. Household income and relationship to perpetrator further shape these associations, the most telling of which is that Latinas are no more likely than Latinos to report violence to the police when they know the offender. By examining crime reporting data through the lens of family structure, this study sheds light on a “paradox of protection,” the thin line in which women alternatively call the police to protect their families from violence, or refrain from calling the police to protect their families from criminalization.",
+  "authors": [
+    {
+      "raw": "Ascherio, Marta",
+      "family": "Ascherio",
+      "given": "Marta"
+    }
+  ],
+  "authors_text": "Ascherio, Marta",
+  "journal": "Gender & Society",
+  "journal_slug": "Gender_and_Society",
+  "year": 2023,
+  "doi": "10.1177/08912432231171170",
+  "doi_url": "https://doi.org/10.1177/08912432231171170",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F08912432231171170",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/08912432231171170.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Gender_and_Society.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Gender_and_Society.md"
+  },
+  "generated_at": "2026-04-11T17:57:26"
+}

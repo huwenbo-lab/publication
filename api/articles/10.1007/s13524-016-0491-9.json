@@ -1,0 +1,30 @@
+{
+  "title": "Socioeconomic Segregation in Large Cities in France and the United States",
+  "abstract": "Past cross-national comparisons of socioeconomic segregation have been undercut by lack of comparability in measures, data, and concepts. Using IRIS data from the French Census of 2008 and the French Ministry of Finance as well as tract data from the American Community Survey (2006-2010) and the U.S. Department of Housing and Urban Development Picture of Subsidized Households, and constructing measures to be as similar as possible, we compare socioeconomic segregation in metropolitan areas with a population of more than 1 million in France and the United States. We find much higher socioeconomic segregation in large metropolitan areas in the United States than in France. We also find (1) a strong pattern of low-income neighborhoods in central cities and high-income neighborhoods in suburbs in the United States, but varying patterns across metropolitan areas in France; (2) that high-income persons are the most segregated group in both countries; (3) that the shares of neighborhood income differences that can be explained by neighborhood racial/ethnic composition are similar in France and the United States; and (4) that government-assisted housing is disproportionately located in the poorest neighborhoods in the United States but is spread across many neighborhood income levels in France. We conclude that differences in government provision of housing assistance and levels of income inequality are likely important contributing factors to the Franco-U.S. difference in socioeconomic segregation.",
+  "authors": [
+    {
+      "raw": "Quillian, Lincoln",
+      "family": "Quillian",
+      "given": "Lincoln"
+    },
+    {
+      "raw": "Lagrange, Hugues",
+      "family": "Lagrange",
+      "given": "Hugues"
+    }
+  ],
+  "authors_text": "Quillian, Lincoln; Lagrange, Hugues",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2016,
+  "doi": "10.1007/s13524-016-0491-9",
+  "doi_url": "https://doi.org/10.1007/s13524-016-0491-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-016-0491-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-016-0491-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

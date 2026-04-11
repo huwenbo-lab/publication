@@ -1,0 +1,30 @@
+{
+  "title": "A Cohort Model of Fertility Postponement",
+  "abstract": "Abstract We introduce a new formal model in which demographic behavior such as fertility is postponed by differing amounts depending only on cohort membership. The cohort-based model shows the effects of cohort shifts on period fertility measures and provides an accompanying tempo adjustment to determine the period fertility that would have occurred without postponement. Cohort-based postponement spans multiple periods and produces “fertility momentum,” with implications for future fertility rates. We illustrate several methods for model estimation and apply the model to fertility in several countries. We also compare the fit of period-based and cohort-based shift models to the recent Dutch fertility surface, showing how cohort- and period-based postponement can occur simultaneously.",
+  "authors": [
+    {
+      "raw": "Goldstein, Joshua R.",
+      "family": "Goldstein",
+      "given": "Joshua R."
+    },
+    {
+      "raw": "Cassidy, Thomas",
+      "family": "Cassidy",
+      "given": "Thomas"
+    }
+  ],
+  "authors_text": "Goldstein, Joshua R.; Cassidy, Thomas",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2014,
+  "doi": "10.1007/s13524-014-0332-7",
+  "doi_url": "https://doi.org/10.1007/s13524-014-0332-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-014-0332-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-014-0332-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

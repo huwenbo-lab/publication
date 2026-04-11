@@ -1,0 +1,40 @@
+{
+  "title": "Diversifying the Professoriate",
+  "abstract": "The primary means of social and intellectual reproduction in the professoriate is through mentoring doctoral students who become faculty mentors and publish research. However, opportunities to transition into such roles are not equal, and underrepresented groups face challenges building and sustaining their representation in the professoriate. What are social resources enabling them to overcome these challenges? To study this, the authors analyze nearly all PhD recipients in the United States from 1980 to 2015 (~1.03 million) and follow their careers. Women and underrepresented minorities are less likely to transition into academia than men and whites, but their chances increase when they are paired with same-attribute advisors and when they have significant group representation in their departments. In contrast, men and white scholars receive no costs or benefits from different- or same-attribute advisors. These findings warrant inspection to see how such relations can be fostered in all mentors.",
+  "authors": [
+    {
+      "raw": "Hofstra, Bas",
+      "family": "Hofstra",
+      "given": "Bas"
+    },
+    {
+      "raw": "McFarland, Daniel A.",
+      "family": "McFarland",
+      "given": "Daniel A."
+    },
+    {
+      "raw": "Smith, Sanne",
+      "family": "Smith",
+      "given": "Sanne"
+    },
+    {
+      "raw": "Jurgens, David",
+      "family": "Jurgens",
+      "given": "David"
+    }
+  ],
+  "authors_text": "Hofstra, Bas; McFarland, Daniel A.; Smith, Sanne; Jurgens, David",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221085118",
+  "doi_url": "https://doi.org/10.1177/23780231221085118",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221085118",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221085118.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Differences in perinatal health between immigrant and native-origin children: Evidence from differentials in birth weight in Spain",
+  "abstract": "OBJECTIVE This paper explores perinatal inequality between migrants and natives in Spain, or, more specifically, differences in birth weight. BACKGROUND We re-examine the logic of the 'healthy immigrant paradox', according to which the children of immigrant mothers have superior birth outcomes. DATA Using the universe of births in Spain in 2013, we go beyond the standard approach of using a dichotomous variable for estimating the risk of low birth weight (LBW) and high birth weight (HBW). METHODS We estimate quantile regression to explore migrant-native differentials in their children's birth weight across the range of observed values and also focus on the impact of migrant status among babies weighing more than 4,000 and 4,500 grams. two thresholds which, in a similar way to LBW, are associated with certain pathological characteristics and problematic future development. RESULTS Our paper not only confirms that the well-known epidemiological regularity of immigrant-origin babies having an advantage in avoiding LBW applies to Spain, but also, at the other extreme, it shows that when birth weight is above 4,000 or 4,500 grams, migrant-origin babies weigh significantly more than those of native origin. CONTRIBUTION In sum, we contribute to the literature by showing that the higher average weight of newly born babies from immigrant mothers is not always a source of perinatal advantage. We provide access to the data and the syntax used, so that our results can be replicated (our dataset is publicly available).",
+  "authors": [
+    {
+      "raw": "Cebolla-Boado, Hector",
+      "family": "Cebolla-Boado",
+      "given": "Hector"
+    },
+    {
+      "raw": "Salazar, Leire",
+      "family": "Salazar",
+      "given": "Leire"
+    }
+  ],
+  "authors_text": "Cebolla-Boado, Hector; Salazar, Leire",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2016,
+  "doi": "10.4054/demres.2016.35.7",
+  "doi_url": "https://doi.org/10.4054/demres.2016.35.7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2016.35.7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2016.35.7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

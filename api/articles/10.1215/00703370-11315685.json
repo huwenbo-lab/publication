@@ -1,0 +1,35 @@
+{
+  "title": "Scenarios of Delayed First Births and Associated Cohort Fertility Levels",
+  "abstract": "Fertility rates among indi vid u als in their 20s have fallen sharply across Europe over the past 50 years. The impli ca tions of delayed first births for fer til ity lev els in mod ern fam ily regimes remain lit tle under stood. Using microsimulation mod els of child bear ing and part ner ship for the 1970-1979 birth cohorts in Italy, Great Britain, Sweden, and Norway, we imple ment fic tive sce nar ios that reduce the risk of hav ing a first child before age 30 and exam ine fer til ity recov ery mech a nisms for aggre gate fer til ity indi ca tors (the pro por tion of women with at least one, two, three, or four chil dren; cohort com pleted fer til ity rate). Exposure to a first birth increases sys tem at i cally in the ages fol low ing the sim u lated reduc tion in first birth risks, lead ing to a structural recovery in child bear ing that varies across countries according to their fer til ity and partnership regimes. Full recovery requires an increase in late first birth risks, with greater increases in countries where late fam ily for ma tion is uncom mon and aver age fam ily sizes are larger: in sce nar ios where early fer til ity declines sub stan tially (a lin ear decline from 50% at age 15 to 0% at age 30), first birth risks above age 30 would have to increase by 54% in Great Britain, 40% in Norway and Sweden, and 20% in Italy to keep com pleted fer til ity con stant.",
+  "authors": [
+    {
+      "raw": "Winkler-Dworak, Maria",
+      "family": "Winkler-Dworak",
+      "given": "Maria"
+    },
+    {
+      "raw": "Pohl, Maria",
+      "family": "Pohl",
+      "given": "Maria"
+    },
+    {
+      "raw": "Beaujouan, Eva",
+      "family": "Beaujouan",
+      "given": "Eva"
+    }
+  ],
+  "authors_text": "Winkler-Dworak, Maria; Pohl, Maria; Beaujouan, Eva",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2024,
+  "doi": "10.1215/00703370-11315685",
+  "doi_url": "https://doi.org/10.1215/00703370-11315685",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-11315685",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-11315685.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

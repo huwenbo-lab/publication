@@ -1,0 +1,40 @@
+{
+  "title": "Not a zero-sum game: Migration and child well-being in contemporary China",
+  "abstract": "BACKGROUND The complex impact of migration on children's development has received extensive attention in both developed and developing countries. In China, more than 100 million children are directly affected by the massive internal migration. OBJECTIVE This study investigates the impact of different migration processes (parental migration, child migration, and hukou conversion) on Chinese children's developmental outcomes, measured by their cognitive abilities, school engagement, school attachment, physical and mental health, educational aspirations, and confidence about the future. METHODS We analyze the data from a nationally representative, school-based survey covering approximately 20,000 children aged 12 to 16 in both rural and urban areas. We employ the propensity score matching method to ensure different groups of children are intrinsically comparable to each other. RESULTS Migration both brings benefits and imposes costs on children. Bringing rural children to cities significantly improves their school performance and physical health but also reduces their educational aspirations and increases their anxiety toward the future. Leaving children behind in the countryside, while sparing them from potential social exclusion in cities, results in a negative impact on their physical and mental health. Gaining local urban hukou status improves rural-origin children's academic achievements but has no effect on the other well-being indicators. CONCLUSIONS These results reveal that the current migration processes and China's hukou system have generated both opportunities and challenges for the children involved. CONTRIBUTION The conceptual framework set out in this paper enables researchers to obtain a more comprehensive picture of migration's impact on children's well-being rather than looking at small fragments of the larger story.",
+  "authors": [
+    {
+      "raw": "Xu, Duoduo",
+      "family": "Xu",
+      "given": "Duoduo"
+    },
+    {
+      "raw": "Wu, Xiaogang",
+      "family": "Wu",
+      "given": "Xiaogang"
+    },
+    {
+      "raw": "Zhang, Zhuoni",
+      "family": "Zhang",
+      "given": "Zhuoni"
+    },
+    {
+      "raw": "Dronkers, Jaap",
+      "family": "Dronkers",
+      "given": "Jaap"
+    }
+  ],
+  "authors_text": "Xu, Duoduo; Wu, Xiaogang; Zhang, Zhuoni; Dronkers, Jaap",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2018,
+  "doi": "10.4054/demres.2018.38.26",
+  "doi_url": "https://doi.org/10.4054/demres.2018.38.26",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2018.38.26",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2018.38.26.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

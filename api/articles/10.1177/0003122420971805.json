@@ -1,0 +1,25 @@
+{
+  "title": "Hiring and Intra-occupational Gender Segregation in Software Engineering",
+  "abstract": "Women tend to be segregated into different subspecialties than men within male-dominated occupations, but the mechanisms contributing to such intra-occupational gender segregation remain obscure. In this study, I use data from an online recruiting platform and a survey to examine the hiring mechanisms leading to gender segregation within software engineering and development. I find that women are much more prevalent among workers hired in software quality assurance than in other software subspecialties. Importantly, jobs in software quality assurance are lower-paying and perceived as lower status than jobs in other software subspecialties. In examining the origins of this pattern, I find that it stems largely from women being more likely than men to apply for jobs in software quality assurance. Further, such gender differences in job applications are attenuated among candidates with stronger educational credentials, consistent with the idea that relevant accomplishments help mitigate gender differences in self-assessments of competence and belonging in these fields. Demand-side selection processes further contribute to gender segregation, as employers penalize candidates with quality assurance backgrounds, a subspecialty where women are overrepresented, when they apply for jobs in other, higher-status software subspecialties.",
+  "authors": [
+    {
+      "raw": "Campero, Santiago",
+      "family": "Campero",
+      "given": "Santiago"
+    }
+  ],
+  "authors_text": "Campero, Santiago",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1177/0003122420971805",
+  "doi_url": "https://doi.org/10.1177/0003122420971805",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122420971805",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122420971805.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

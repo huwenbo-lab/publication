@@ -1,0 +1,35 @@
+{
+  "title": "The Production of Inequalities within Families and across Generations: The Intergenerational Effects of Birth Order on Educational Attainment",
+  "abstract": "There has long been interest in the extent to which effects of social stratification extend and persist across generations. We take a novel approach to this question by asking whether birth order in the parental generation influences the educational attainment of their children. To address this question, we use Swedish population data on cohorts born 1960-1982. To study the effects of parental birth order, we use cousin fixed effects comparisons. In analyses where we compare cousins who share the same biological grandparents to adjust for unobserved factors in the extended family, we find that having a later-born parent reduces educational attainment to a small extent. For example, a secondor fifth-born mother reduces educational attainment by 0.09 and 0.18 years, respectively, while having a second- or fifth-born father reduces educational attainment by 0.04 and 0.11 years, respectively. After adjusting for attained parental education and social class, the parental birth order effect is practically attenuated to zero. Overall our results suggest that parental birth order influences offspring educational and socioeconomic outcomes through the parents own educational and socioeconomic attainment. We cautiously suggest that parental birth order may have potential as an instrument for parental socioeconomic status in social stratification research more generally.",
+  "authors": [
+    {
+      "raw": "Barclay, Kieron J.",
+      "family": "Barclay",
+      "given": "Kieron J."
+    },
+    {
+      "raw": "Lyngstad, Torkild H.",
+      "family": "Lyngstad",
+      "given": "Torkild H."
+    },
+    {
+      "raw": "Conley, Dalton C.",
+      "family": "Conley",
+      "given": "Dalton C."
+    }
+  ],
+  "authors_text": "Barclay, Kieron J.; Lyngstad, Torkild H.; Conley, Dalton C.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2021,
+  "doi": "10.1093/esr/jcab005",
+  "doi_url": "https://doi.org/10.1093/esr/jcab005",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcab005",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcab005.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

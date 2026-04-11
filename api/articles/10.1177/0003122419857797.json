@@ -1,0 +1,30 @@
+{
+  "title": "Does Intra-household Contagion Cause an Increase in Prescription Opioid Use?",
+  "abstract": "Opioid use claims many thousands of lives each year. This article considers the diffusion of prescription opioid (PO) use within family households as one potential culprit of the proliferation of these medications. In an analysis of hundreds of millions of medical claims and almost 14 million opioid prescriptions in one state between 2010 and 2015, we show that the use of POs spreads within family households. We also show that the treatment effect of exposure to a family member's PO use is driven by an increase in PO consumption for medical conditions that members of treated and untreated families experience at nearly identical rates. This pattern of results suggests household exposure causes an uptick in patient demand for prescription opioids. We use an instrumental variable estimation strategy to address the well-known challenges to estimating a causal effect of intra-household contagion, such as genotypic similarities among family members, assortative matching in partner selection, and clustering of health conditions within households. The results spotlight the salience of the most ubiquitous social structure, the family household, in accelerating opioid consumption to unprecedented levels. The findings also suggest that rather than direct social influence between physicians, the spread of prescription behavior in physician networks may be driven by shifts in patient demand that propagate through the patient sharing network.",
+  "authors": [
+    {
+      "raw": "de Vaan, Mathijs",
+      "family": "de Vaan",
+      "given": "Mathijs"
+    },
+    {
+      "raw": "Stuart, Toby",
+      "family": "Stuart",
+      "given": "Toby"
+    }
+  ],
+  "authors_text": "de Vaan, Mathijs; Stuart, Toby",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1177/0003122419857797",
+  "doi_url": "https://doi.org/10.1177/0003122419857797",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122419857797",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122419857797.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Establishment Closures in Germany: The Motherhood Penalty at Job Search Durations",
+  "abstract": "This study contributes to the research on motherhood penalties by investigating based on German longitudinal register data whether mothers take longer to search for a job than childless women. We develop a unique research design to test the theory of statistical discrimination as well as the theory of status-based discrimination. We use establishment closures as a starting point that creates equal conditions for all previously employed women. Following a subsequent coarsened exact matching approach, we investigate the job search length of almost 3,000 comparable full-time working childless women and mothers from almost 700 establishments by applying event history techniques. Even after extensive robustness checks that back up the main findings, we can show that mothers have lower transition rates to re-employment than childless women. When including additional information, such as higher age of the youngest child or shorter parental leave durations, both of which serve as indicators of higher labour market attachment, we find reduced differences and buffering effects on the motherhood penalty.",
+  "authors": [
+    {
+      "raw": "Frodermann, Corinna",
+      "family": "Frodermann",
+      "given": "Corinna"
+    },
+    {
+      "raw": "Mueller, Dana",
+      "family": "Mueller",
+      "given": "Dana"
+    }
+  ],
+  "authors_text": "Frodermann, Corinna; Mueller, Dana",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2019,
+  "doi": "10.1093/esr/jcz043",
+  "doi_url": "https://doi.org/10.1093/esr/jcz043",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcz043",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcz043.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

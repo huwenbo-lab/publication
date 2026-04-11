@@ -1,0 +1,30 @@
+{
+  "title": "The gender gap in earnings growth at the early stage of work careers in Korea",
+  "abstract": "Previous research analyzing Western societies reported no gender gap in earnings growth after accounting for initial job allocation, attributing the widening gender gap in mid-career to the impact of family formation. This pattern is often referred to as the last chapter of gender inequality, but there is no consensus that this phenomenon is universal or place-specific. The applicability of these findings to non-Western contexts remains unclear. This study examines the gender gap in earnings growth in a non-Western advanced economy, South Korea, net of initial job assignment and factors related to family formation. The 2008-2010 Graduates Occupational Mobility Survey is used and the gender differences in job allocation and family formation are balanced with the application of the inverse probability of treatment weights. The results of individual-fixed effects models show that college-educated women in Korea face lower earnings growth and lower promotion prospects than their male counterparts. The magnitude and mechanisms of this female disadvantage vary across labor market sectors. The implications of these findings are discussed.",
+  "authors": [
+    {
+      "raw": "Kim, ChangHwan",
+      "family": "Kim",
+      "given": "ChangHwan"
+    },
+    {
+      "raw": "Shin, Heeyoun",
+      "family": "Shin",
+      "given": "Heeyoun"
+    }
+  ],
+  "authors_text": "Kim, ChangHwan; Shin, Heeyoun",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2024,
+  "doi": "10.1016/j.rssm.2024.100979",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2024.100979",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2024.100979",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2024.100979.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

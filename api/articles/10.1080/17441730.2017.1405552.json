@@ -1,0 +1,35 @@
+{
+  "title": "Child loss and maternal wages in China",
+  "abstract": "Using data from a random sample of the 2005 National Population Survey of China, we investigate the association between child death and maternal hourly wages. Approximately 1.6 per cent of the population has experienced at least one child death. Such bereaved mothers’ hourly wages are 53 per cent lower than those of non-bereaved mothers. We find that child death carries a significant wage penalty. Son death has a larger impact than daughter death and its effect decreases as the number of children in the household increases. Our decomposition results show that number of children, maternal education and regional characteristics are the three most important contributors to the wage gap, yet unexplained differences remain large, especially at the lower end of the wage distribution.",
+  "authors": [
+    {
+      "raw": "Nie, Peng",
+      "family": "Nie",
+      "given": "Peng"
+    },
+    {
+      "raw": "He, Xiaobo",
+      "family": "He",
+      "given": "Xiaobo"
+    },
+    {
+      "raw": "Sousa-Poza, Alfonso",
+      "family": "Sousa-Poza",
+      "given": "Alfonso"
+    }
+  ],
+  "authors_text": "Nie, Peng; He, Xiaobo; Sousa-Poza, Alfonso",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2017,
+  "doi": "10.1080/17441730.2017.1405552",
+  "doi_url": "https://doi.org/10.1080/17441730.2017.1405552",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2017.1405552",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2017.1405552.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

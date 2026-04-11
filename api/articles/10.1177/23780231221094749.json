@@ -1,0 +1,45 @@
+{
+  "title": "Overestimation of COVID-19 Vaccination Coverage in Population Surveys Due to Social Desirability Bias: Results of an Experimental Methods Study in Germany",
+  "abstract": "In Germany, studies have shown that official coronavirus disease 2019 (COVID-19) vaccination coverage estimated using data collected directly from vaccination centers, hospitals, and physicians is lower than that calculated using surveys of the general population. Public debate has since centered on whether the official statistics are failing to capture the actual vaccination coverage. The authors argue that the topic of one’s COVID-19 vaccination status is sensitive in times of a pandemic and that estimates based on surveys are biased by social desirability. The authors investigate this conjecture using an experimental method called the item count technique, which provides respondents with the opportunity to answer in an anonymous setting. Estimates obtained using the item count technique are compared with those obtained using the conventional method of asking directly. Results show that social desirability bias leads some unvaccinated individuals to claim they are vaccinated. Conventional survey studies thus likely overestimate vaccination coverage because of misreporting by survey respondents.",
+  "authors": [
+    {
+      "raw": "Wolter, Felix",
+      "family": "Wolter",
+      "given": "Felix"
+    },
+    {
+      "raw": "Mayerl, Jochen",
+      "family": "Mayerl",
+      "given": "Jochen"
+    },
+    {
+      "raw": "Andersen, Henrik K.",
+      "family": "Andersen",
+      "given": "Henrik K."
+    },
+    {
+      "raw": "Wieland, Theresa",
+      "family": "Wieland",
+      "given": "Theresa"
+    },
+    {
+      "raw": "Junkermann, Justus",
+      "family": "Junkermann",
+      "given": "Justus"
+    }
+  ],
+  "authors_text": "Wolter, Felix; Mayerl, Jochen; Andersen, Henrik K.; Wieland, Theresa; Junkermann, Justus",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221094749",
+  "doi_url": "https://doi.org/10.1177/23780231221094749",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221094749",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221094749.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Estimating the Effect of Smoking on Slowdowns in Mortality Declines in Developed Countries",
+  "abstract": "Abstract Declines in mortality rates for females at older ages in some developed countries, including the United States, have slowed in recent decades even as decreases have steadily continued in some other countries. This study presents a modified version of the indirect Peto-Lopez method, which uses lung cancer mortality rates as a proxy for smoking exposure, to analyze this trend. The modified method estimates smoking-attributable mortality for more-specific age groups than does the Peto-Lopez method. An adjustment factor is also introduced to account for low mortality in the indirect method’s study population. These modifications are shown to be useful specifically in the estimation of deaths attributable to smoking for females at older ages, and in the estimation of smoking-attributable mortality more generally. In a comparison made between the United States and France with the modified method, smoking is found to be responsible for approximately one-half the difference in life expectancy for females at age 65.",
+  "authors": [
+    {
+      "raw": "Rostron, Brian L.",
+      "family": "Rostron",
+      "given": "Brian L."
+    },
+    {
+      "raw": "Wilmoth, John R.",
+      "family": "Wilmoth",
+      "given": "John R."
+    }
+  ],
+  "authors_text": "Rostron, Brian L.; Wilmoth, John R.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0020-9",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0020-9",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0020-9",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0020-9.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

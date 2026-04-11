@@ -1,0 +1,30 @@
+{
+  "title": "Age, Period and Cohort Effects On Social Capital",
+  "abstract": "Researchers hypothesize that social capital in the United States is not just declining, but that it is declining across generations or birth cohorts. Testing this proposition, we examine changes in social capital using age-period-cohort intrinsic estimator models. Results from analyses of 1972-2010 General Social Survey data show (1. that informal association with neighbors declined across periods while informal association with friends outside of the neighborhood increased across birth cohorts; (2. that formal association was comparatively stable with the exception of relatively high levels of formal association among the early 1920s and early 1930s birth cohorts; and (3. that trust declined considerably across both periods and cohorts, though the oldest cohorts are less trusting than those born in the 1920s through the 1940s. While the results suggest that changes in social capital are more complex than the simple decline depicted by many researchers, the aspects of social capital that have declined may be essential for promoting social and political participation.",
+  "authors": [
+    {
+      "raw": "Schwadel, P.",
+      "family": "Schwadel",
+      "given": "P."
+    },
+    {
+      "raw": "Stout, M.",
+      "family": "Stout",
+      "given": "M."
+    }
+  ],
+  "authors_text": "Schwadel, P.; Stout, M.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2012,
+  "doi": "10.1093/sf/sos062",
+  "doi_url": "https://doi.org/10.1093/sf/sos062",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsos062",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sos062.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

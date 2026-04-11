@@ -1,0 +1,35 @@
+{
+  "title": "Patrilocal Residence and Female Labor Supply: Evidence From Kyrgyzstan",
+  "abstract": "Many people live in patrilocal societies, which prescribe that women move in with their husbands' parents, relieve their in-laws from housework, and care for them in old age. This arrangement is likely to have labor market consequences, in particular for women. We study the effect of coresidence on female labor supply in Kyrgyzstan, a strongly patrilocal setting. We account for the endogeneity of coresidence by exploiting the tradition that youngest sons usually live with their parents. In both OLS and IV estimations, the effect of coresidence on female labor supply is negative and insignificant. This finding is in contrast to previous studies, which found positive effects in less patrilocal settings. We go beyond earlier work by investigating effect channels. In Kyrgyzstan, coresiding women invest more time in elder care than women who do not coreside, and they do not receive parental support in housework.",
+  "authors": [
+    {
+      "raw": "Landmann, Andreas",
+      "family": "Landmann",
+      "given": "Andreas"
+    },
+    {
+      "raw": "Seitz, Helke",
+      "family": "Seitz",
+      "given": "Helke"
+    },
+    {
+      "raw": "Steiner, Susan",
+      "family": "Steiner",
+      "given": "Susan"
+    }
+  ],
+  "authors_text": "Landmann, Andreas; Seitz, Helke; Steiner, Susan",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0724-1",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0724-1",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0724-1",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0724-1.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

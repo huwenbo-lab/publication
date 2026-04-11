@@ -1,0 +1,25 @@
+{
+  "title": "Weak ties, information, and influence: How workers find jobs in a local Russian labor market",
+  "abstract": "In 1973 Granovetter formulated the strength-of-weak-ties hypothesis (SWT), which became the foundation of a vast sociological literature on social networks in labor markets. Until now, SWT has never been directly tested but treated instead as a surrogate for the relationship between an actor's network and labor market outcomes such as characteristics of a job obtained. The paper restates SWT as a proposition about the probability of getting a job as a function of within-actor differences in tie strength and tests it with data on hires carried out in one Russian city in 1998. In support of SWT the results show that a worker is more likely to get a job through one of her weak ties rather than strong ties. The advantages of weak ties lie in their abilities to provide timely access to non-redundant information and to influence employers directly. In contrast, strong ties are associated with indirect influence on employers through well-connected intermediaries. The estimates come from a within-worker-fixed-effect conditional logistic regression and thereby provide rare evidence of an association between information and influence transferred through social ties and labor market outcomes, independent of workers' individual characteristics.",
+  "authors": [
+    {
+      "raw": "Yakubovich, V",
+      "family": "Yakubovich",
+      "given": "V"
+    }
+  ],
+  "authors_text": "Yakubovich, V",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2005,
+  "doi": "10.1177/000312240507000303",
+  "doi_url": "https://doi.org/10.1177/000312240507000303",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F000312240507000303",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/000312240507000303.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

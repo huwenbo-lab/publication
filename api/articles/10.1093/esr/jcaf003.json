@@ -1,0 +1,30 @@
+{
+  "title": "The intergenerational effect of educational expansion: evidence from a natural experiment in Spain",
+  "abstract": "This article explores the relationship between parental education and children's educational outcomes, addressing endogeneity challenges inherent in traditional cross-sectional analyses. Specifically, we investigate whether the increase in education within the parental generation, produced by the 1970 Spanish Educational Reform, led to improved educational attainments in the subsequent generation and whether it brought a reduction of the overall levels of educational inequality. Employing data from the Survey of Health, Ageing and Retirement in Europe (SHARE) and an instrumental variable design, results show that the exogenous increase in parental education positively influenced the educational outcomes of the offspring. However, our findings reveal that overall societal equality remained largely unaffected, as both high- and low-SES families equally benefited from the reform. This study contributes to the social stratification literature by analysing the impact of educational reforms on both educational expansion and equality of opportunity. Furthermore, we explore two plausible channels through which the effect of parental education might manifest: an increase in parental credentials and in academic abilities.",
+  "authors": [
+    {
+      "raw": "Espadafor, Mar C.",
+      "family": "Espadafor",
+      "given": "Mar C."
+    },
+    {
+      "raw": "Garcia-Sierra, Alicia",
+      "family": "Garcia-Sierra",
+      "given": "Alicia"
+    }
+  ],
+  "authors_text": "Espadafor, Mar C.; Garcia-Sierra, Alicia",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2025,
+  "doi": "10.1093/esr/jcaf003",
+  "doi_url": "https://doi.org/10.1093/esr/jcaf003",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcaf003",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcaf003.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

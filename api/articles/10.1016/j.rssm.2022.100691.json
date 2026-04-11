@@ -1,0 +1,45 @@
+{
+  "title": "An anatomy of the intergenerational correlation of educational attainment - Learning from the educational attainments of Norwegian twins and their children",
+  "abstract": "Research on the intergenerational correlation of educational attainment (ICE) has long attempted to identify the impact of family background, specifically parent's education. However, previous research has largely ignored genetic inheritance. We address this shortcoming by adopting a Multiple-Children-of-Twin design and decom-pose the ICE into its environmental and genetic transmission mechanisms. This decomposition reveals to what extent the impact of parents' education operates through the rearing context and/or genetic factors. We use a register-based dataset from Norway, a context with egalitarian access to education. Our results show that the direct impact of parents' education is negligible once genetic factors are accounted for. While genetic factors represent the main driver of the ICE, the genetic variants that mattered for educational attainment in the parent generation overlap only partially with those that mattered for their offspring's attainment. Together, our findings complement common sociological narratives on how parent's education affects offspring's education by emphasizing the role of genetic transmission. Furthermore, our study challenges current research practices in genetics that overlook the importance of parallel changes in social structures and gene-expression over generations.",
+  "authors": [
+    {
+      "raw": "Baier, Tina",
+      "family": "Baier",
+      "given": "Tina"
+    },
+    {
+      "raw": "Eilertsen, Espen Moen",
+      "family": "Eilertsen",
+      "given": "Espen Moen"
+    },
+    {
+      "raw": "Ystrom, Eivind",
+      "family": "Ystrom",
+      "given": "Eivind"
+    },
+    {
+      "raw": "Zambrana, Imac M.",
+      "family": "Zambrana",
+      "given": "Imac M."
+    },
+    {
+      "raw": "Lyngstad, Torkild H.",
+      "family": "Lyngstad",
+      "given": "Torkild H."
+    }
+  ],
+  "authors_text": "Baier, Tina; Eilertsen, Espen Moen; Ystrom, Eivind; Zambrana, Imac M.; Lyngstad, Torkild H.",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2022,
+  "doi": "10.1016/j.rssm.2022.100691",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2022.100691",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2022.100691",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2022.100691.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

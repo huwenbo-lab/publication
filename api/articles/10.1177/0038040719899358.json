@@ -1,0 +1,30 @@
+{
+  "title": "Does Achievement Rise Fastest with School Choice, School Resources, or Family Resources? Chile from 2002 to 2013",
+  "abstract": "Debates in education policy draw on different theories about how to raise children's achievement. The school competition theory holds that achievement rises when students can choose among competing schools. The school resources theory holds that achievement rises with schools' resources per student. The family resources theory holds that achievement rises as parents become more educated and earn higher incomes. We test all three theories in Chile between 2002 and 2013, when reading and math scores rose by 0.2 to 0.3 standard deviations, as school competition, school resources, and family resources all increased. We compare Chilean municipalities in a difference-in-differences analysis, asking whether test scores rose fastest in municipalities with greater increases in school competition, school resources, or family resources. We find that municipal test scores did not rise with school competition but did rise with family resources (parental education, not income) and, to a smaller extent, with school resources (as measured by class sizes). Results favor the family resource theory, and to a lesser extent the school resource theory, but not the school competition theory.",
+  "authors": [
+    {
+      "raw": "Hofflinger, Alvaro",
+      "family": "Hofflinger",
+      "given": "Alvaro"
+    },
+    {
+      "raw": "von Hippel, Paul T.",
+      "family": "von Hippel",
+      "given": "Paul T."
+    }
+  ],
+  "authors_text": "Hofflinger, Alvaro; von Hippel, Paul T.",
+  "journal": "Sociology of Education",
+  "journal_slug": "Sociology_of_Education",
+  "year": 2020,
+  "doi": "10.1177/0038040719899358",
+  "doi_url": "https://doi.org/10.1177/0038040719899358",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0038040719899358",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0038040719899358.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociology_of_Education.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Sociology_of_Education.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

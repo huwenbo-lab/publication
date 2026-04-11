@@ -1,0 +1,30 @@
+{
+  "title": "Competitive threat and temporal change in anti-immigrant sentiment: Insights from a hierarchical age-period-cohort model",
+  "abstract": "The study focuses on over-time change in anti-immigrant attitudes across European societies and on the role played by cohorts in producing the change in attitudes. We assembled data from four waves of the European Social Surveys for 14 countries between 2002 and 2014. The data analysis is conducted within the framework of a hierarchical age-period-cohort model (HAPC) to estimate the dynamic relations between anti-immigrant sentiment and country's social and economic conditions, while taking into consideration variations across individuals and birth-cohorts. The analysis lends support to expectations derived from the 'competitive threat' theoretical model. The findings show that a higher share of non-European ethnic minorities in the country's population is associated with a higher level of ant-immigrant attitudes. Anti-immigrant sentiment was found to be more pronounced in the 'old immigration countries' than in the 'new immigration countries.' The impact of economic conditions on anti-immigrant sentiment becomes evident through the effect of cohort in the 'new immigration countries': cohorts that entered the labor market when the unemployment rate was high are likely to hold more negative attitudes toward immigrants.",
+  "authors": [
+    {
+      "raw": "Gorodzeisky, Anastasia",
+      "family": "Gorodzeisky",
+      "given": "Anastasia"
+    },
+    {
+      "raw": "Semyonov, Moshe",
+      "family": "Semyonov",
+      "given": "Moshe"
+    }
+  ],
+  "authors_text": "Gorodzeisky, Anastasia; Semyonov, Moshe",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2018,
+  "doi": "10.1016/j.ssresearch.2018.03.013",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2018.03.013",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2018.03.013",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2018.03.013.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

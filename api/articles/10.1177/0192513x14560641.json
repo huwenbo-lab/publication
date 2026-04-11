@@ -1,0 +1,35 @@
+{
+  "title": "Number of Siblings During Childhood and the Likelihood of Divorce in Adulthood",
+  "abstract": "Despite fertility decline across economically developed countries, relatively little is known about the social consequences of children being raised with fewer siblings. Much research suggests that growing up with fewer siblings is probably positive, as children tend to do better in school when sibship size is small. Less scholarship, however, has explored how growing up with few siblings influences children’s ability to get along with peers and develop long-term meaningful relationships. If siblings serve as important social practice partners during childhood, individuals with few or no siblings may struggle to develop successful social lives later in adulthood. With data from the General Social Surveys 1972-2012, we explore this possibility by testing whether sibship size during childhood predicts the probability of divorce in adulthood. We find that, among those who ever marry, each additional sibling is associated with a 3% decline in the likelihood of divorce, net of covariates.",
+  "authors": [
+    {
+      "raw": "Bobbitt-Zeher, Donna",
+      "family": "Bobbitt-Zeher",
+      "given": "Donna"
+    },
+    {
+      "raw": "Downey, Douglas B.",
+      "family": "Downey",
+      "given": "Douglas B."
+    },
+    {
+      "raw": "Merry, Joseph",
+      "family": "Merry",
+      "given": "Joseph"
+    }
+  ],
+  "authors_text": "Bobbitt-Zeher, Donna; Downey, Douglas B.; Merry, Joseph",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2016,
+  "doi": "10.1177/0192513x14560641",
+  "doi_url": "https://doi.org/10.1177/0192513x14560641",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x14560641",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x14560641.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Common Genes or Exogenous Shock? Disentangling the Causal Effect of Paternal Unemployment on Children's Schooling Efforts",
+  "abstract": "A number of studies analyse the relationship between parents’ labour market status and various child outcomes, without considering if the relationship is causal. However, within this field of study, the question of causality is of substantial interest, as it shows if the unemployment makes the difference or if the child would have experienced the observed outcome regardless of its parents’ employment status. Therefore, this study analyses if the relationship between a father's unemployment and a child's schooling ambitions is causal. The study uses data from the British Household Panel Survey and analyses these with a fixed effects ordered logit. The results show that the father's unemployment does in fact have a causal effect on the child's schooling ambitions.",
+  "authors": [
+    {
+      "raw": "Andersen, S. H.",
+      "family": "Andersen",
+      "given": "S. H."
+    }
+  ],
+  "authors_text": "Andersen, S. H.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2011,
+  "doi": "10.1093/esr/jcr088",
+  "doi_url": "https://doi.org/10.1093/esr/jcr088",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjcr088",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jcr088.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

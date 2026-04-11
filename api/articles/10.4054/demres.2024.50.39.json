@@ -1,0 +1,40 @@
+{
+  "title": "Which definition of migration better fits A response using Mexican census data",
+  "abstract": "BACKGROUNDData from social media have emerged as an auxiliary source for real-time information onmigrant populations. Facebook users' tagged 'expat' data - an 'expat' being someonewho lived in countryx but now lives in countryy -has been used to estimate immigrantsand its quality assessment has relied on household surveys and UNDESA migrationestimates.OBJECTIVEUsing the census as the gold standard and six definitions of migration, we examinedifferences between the 2020 Mexican Census and Facebook data by national origin, age,and sex. We also examine internet penetration among migrants.METHODSWe estimate migration stocks by sex, age, and country of origin for nine Latin Americancountries, using six definitions of migration available within the census. To evaluatebiases of Facebook data, we estimate a series of linear regression models on migrantstocks where our key independent variable is 'expat,' and we control for age, sex, andorigin, as well as internet penetration rate.RESULTSFindings suggest that Facebook data are only associated with the definition that identifiesrecent immigrants according to country of residence five years prior to the census.Facebook's 'expat' variable is indeed capturing recent immigrants that resided in a givencountry, and not migrants by other definitions using country of birth and country of priorresidence, as in long-term migrants or returnees",
+  "authors": [
+    {
+      "raw": "Varona, Tania",
+      "family": "Varona",
+      "given": "Tania"
+    },
+    {
+      "raw": "Masferrer, Claudia",
+      "family": "Masferrer",
+      "given": "Claudia"
+    },
+    {
+      "raw": "Rosas, Victoria Prieto",
+      "family": "Rosas",
+      "given": "Victoria Prieto"
+    },
+    {
+      "raw": "Pedemonte, Martin",
+      "family": "Pedemonte",
+      "given": "Martin"
+    }
+  ],
+  "authors_text": "Varona, Tania; Masferrer, Claudia; Rosas, Victoria Prieto; Pedemonte, Martin",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2024,
+  "doi": "10.4054/demres.2024.50.39",
+  "doi_url": "https://doi.org/10.4054/demres.2024.50.39",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2024.50.39",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2024.50.39.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

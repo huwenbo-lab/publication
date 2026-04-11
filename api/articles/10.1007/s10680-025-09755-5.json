@@ -1,0 +1,30 @@
+{
+  "title": "Only Children and Low Family Size Ideals: Did the One-Child Policy Create a “Low-Fertility Trap” in China?",
+  "abstract": "Abstract The factors that shape fertility preferences—and their transition to reality—have been widely discussed. However, very few empirical studies have estimated the causal effect of sibship size on fertility preferences. Using the case of urban China, this study examines if growing up as an only child can lead to lower fertility ideals. Exploiting the introduction of the one-child policy in 1980 and using a fuzzy regression discontinuity design, the study finds that, among individuals born right around 1980, the increased probability of being an only child significantly reduces the ideal number of children and the probability of desiring two or more children. The sibship size effect not only offers a plausible explanation for low fertility ideals in urban China but also attests to a key mechanism underlying the “Low-Fertility Trap” hypothesis.",
+  "authors": [
+    {
+      "raw": "Chen, Shuang",
+      "family": "Chen",
+      "given": "Shuang"
+    },
+    {
+      "raw": "Gietel-Basten, Stuart",
+      "family": "Gietel-Basten",
+      "given": "Stuart"
+    }
+  ],
+  "authors_text": "Chen, Shuang; Gietel-Basten, Stuart",
+  "journal": "European Journal of Population",
+  "journal_slug": "European_Journal_of_Population",
+  "year": 2025,
+  "doi": "10.1007/s10680-025-09755-5",
+  "doi_url": "https://doi.org/10.1007/s10680-025-09755-5",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs10680-025-09755-5",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s10680-025-09755-5.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Journal_of_Population.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/European_Journal_of_Population.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

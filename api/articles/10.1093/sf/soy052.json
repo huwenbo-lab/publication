@@ -1,0 +1,30 @@
+{
+  "title": "World Society, Legal Formalism, and Execution of Legal Procedures",
+  "abstract": "World society scholars have focused on how international organizations lead nation-states to adopt similar policies, procedures, and programs in order to signal compliance to prevailing rules and norms. In this study, the authors propose that integration into world society is associated with higher levels of legal formalism, which in turn can result in lengthening the execution of legal procedures. The empirical analysis of the study combines a dataset of country-level membership in international non-governmental organizations (INGOs) with a dataset on legal formalism and procedural duration assembled by the Lex Mundi Project. The data cover an unusually large set of countries for an extensive period. The analyses consider two typical settings for everyday contract disputes-check cashing and tenant eviction-and find evidence consistent with the authors' claims.",
+  "authors": [
+    {
+      "raw": "Negro, Giacomo",
+      "family": "Negro",
+      "given": "Giacomo"
+    },
+    {
+      "raw": "Longhofer, Wesley",
+      "family": "Longhofer",
+      "given": "Wesley"
+    }
+  ],
+  "authors_text": "Negro, Giacomo; Longhofer, Wesley",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/soy052",
+  "doi_url": "https://doi.org/10.1093/sf/soy052",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsoy052",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/soy052.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

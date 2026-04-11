@@ -1,0 +1,35 @@
+{
+  "title": "Divorce trends in China across time and space: an update",
+  "abstract": "Despite much attention paid to the surging divorce rate in China, knowledge on divorce patterns and trends at the subnational level is still very limited. This study aims to systematically explore social and economic factors affecting divorce trends between 1990 and 2015 at the provincial level from a tempo–spatial perspective. Traditional fixed effects panel regression and fixed effects spatial autoregression are adopted. Divorce maps demonstrated great variations in the levels and trends of divorce across provinces, highlighting the spatial diversities obscured in the national divorce trend. It is further revealed that factors such as economic development, urbanisation, and employment have augmented their influence over time. Factors that reflect gender equality issues such as the gender gap in education, employment, and sex ratio at birth have different effects across the East, Central and West regions in China. These findings provide insights into the future prospects of divorce in China.",
+  "authors": [
+    {
+      "raw": "Chen, Mengni",
+      "family": "Chen",
+      "given": "Mengni"
+    },
+    {
+      "raw": "Rizzi, Ester Lucia",
+      "family": "Rizzi",
+      "given": "Ester Lucia"
+    },
+    {
+      "raw": "Yip, Paul S. F.",
+      "family": "Yip",
+      "given": "Paul S. F."
+    }
+  ],
+  "authors_text": "Chen, Mengni; Rizzi, Ester Lucia; Yip, Paul S. F.",
+  "journal": "Asian Population Studies",
+  "journal_slug": "Asian_Population_Studies",
+  "year": 2020,
+  "doi": "10.1080/17441730.2020.1858571",
+  "doi_url": "https://doi.org/10.1080/17441730.2020.1858571",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1080%2F17441730.2020.1858571",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1080/17441730.2020.1858571.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Asian_Population_Studies.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Asian_Population_Studies.md"
+  },
+  "generated_at": "2026-04-11T17:57:22"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Comparability of Perceived Physical and Mental Health Measures Across Immigrants and Natives in the United States",
+  "abstract": "The comparative study of perceived physical and mental health in general-and the comparative study of health between the native-born and immigrants, in particular-requires that the groups understand survey questions inquiring about their health in the same way and display similar response patterns. After all, observed differences in perceived health may not reflect true differences but rather cultural bias in the health measures. Research on cross-country measurement equivalence between immigrants and natives on self-reported health measures has received very limited attention to date, resulting in a growing demand for the validation of existing perceived health measures using samples of natives and immigrants and establishing measurement equivalence of health-related assessment tools. This study, therefore, aims to examine measurement equivalence of self-reported physical and mental health indicators between immigrants and natives in the United States. Using pooled data from the 2015-2017 IPUMS Health Surveys, we examine the cross-group measurement equivalence properties of five concepts that are measured by multiple indicators: (1) perceived limitations in activities of daily life; (2) self-reported disability; (3) perceived functional limitations; (4) perceived financial stress; and (5) nonspecific psychological distress. Furthermore, we examine the comparability of these data among respondents of different ethnoracial origins and from different regions of birth, who report few versus many years since migration, their age, gender, and the language used to respond to the interview (e.g., English vs. Spanish). We test for measurement equivalence using multigroup confirmatory factor analysis. The results reveal that health scales are comparable across the examined groups. This finding allows drawing meaningful conclusions about similarities and differences among natives and immigrants on measures of perceived health in these data.",
+  "authors": [
+    {
+      "raw": "Maskileyson, Dina",
+      "family": "Maskileyson",
+      "given": "Dina"
+    },
+    {
+      "raw": "Seddig, Daniel",
+      "family": "Seddig",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Davidov, Eldad",
+      "family": "Davidov",
+      "given": "Eldad"
+    }
+  ],
+  "authors_text": "Maskileyson, Dina; Seddig, Daniel; Davidov, Eldad",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9304855",
+  "doi_url": "https://doi.org/10.1215/00703370-9304855",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9304855",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9304855.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

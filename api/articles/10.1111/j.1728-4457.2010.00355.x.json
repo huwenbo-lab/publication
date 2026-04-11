@@ -1,0 +1,40 @@
+{
+  "title": "Child-Care Availability and Fertility in Norway",
+  "abstract": "The child-care and fertility hypothesis has been in the literature for a long time and is straightforward: As child care becomes more available, affordable, and acceptable, the antinatalist effects of increased female educational attainment and work opportunities decrease. As an increasing number of countries express concern about low fertility, the child-care and fertility hypothesis takes on increased importance. Yet data and statistical limitations have heretofore limited empirical tests of the hypothesis. Using rich longitudinal data and appropriate statistical methodology, We show that increased availability of child care increases completed fertility. Moreover, this positive effect of child-care availability is found at every parity transition. We discuss the generalizability of these results to other settings and their broader importance for understanding variation and trends in low fertility.",
+  "authors": [
+    {
+      "raw": "Rindfuss, Ronald R.",
+      "family": "Rindfuss",
+      "given": "Ronald R."
+    },
+    {
+      "raw": "Guilkey, David K.",
+      "family": "Guilkey",
+      "given": "David K."
+    },
+    {
+      "raw": "Morgan, S. Philip",
+      "family": "Morgan",
+      "given": "S. Philip"
+    },
+    {
+      "raw": "Kravdal, Oystein",
+      "family": "Kravdal",
+      "given": "Oystein"
+    }
+  ],
+  "authors_text": "Rindfuss, Ronald R.; Guilkey, David K.; Morgan, S. Philip; Kravdal, Oystein",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2010,
+  "doi": "10.1111/j.1728-4457.2010.00355.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2010.00355.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2010.00355.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2010.00355.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

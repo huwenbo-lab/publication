@@ -1,0 +1,30 @@
+{
+  "title": "Social Distance and Knowledge Transformation: The Effects of Social Network Distance on Organizational Learning",
+  "abstract": "Organizations are increasingly adopting technologies to promote knowledge sharing across boundaries of specialized groups. Yet, prior research beginning with March (1991) suggests that such knowledge-sharing technologies actually inhibit organizational learning by reducing solution diversity. This line of reasoning stems from the prior literature’s assumption that the knowledge shared will be transferred from one member to another perfectly and without distortion. We challenge this assumption and argue, instead, that knowledge is often altered or transformed when it is shared between members and that the degree of this transformation increases as the social distance between the knowledge sender and receiver increases. Because the implementation of knowledge-sharing technologies encourages learning between members across greater social distances, it increases knowledge transformation. Thus, knowledge-sharing technologies present a new opportunity to diversify solutions and lead to innovation.",
+  "authors": [
+    {
+      "raw": "Aven, Brandy",
+      "family": "Aven",
+      "given": "Brandy"
+    },
+    {
+      "raw": "Zhang, Evelyn",
+      "family": "Zhang",
+      "given": "Evelyn"
+    }
+  ],
+  "authors_text": "Aven, Brandy; Zhang, Evelyn",
+  "journal": "Sociological Science",
+  "journal_slug": "Sociological_Science",
+  "year": 2016,
+  "doi": "10.15195/v3.a48",
+  "doi_url": "https://doi.org/10.15195/v3.a48",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.15195%2Fv3.a48",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.15195/v3.a48.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Sociological_Science.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Sociological_Science.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

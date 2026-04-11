@@ -1,0 +1,30 @@
+{
+  "title": "Is Migration a Learned Behavior? Understanding the Impact of Past Migration on Future Migration",
+  "abstract": "Despite growing efforts to conceptualize residential mobility and migration as long-term trajectories, because of methodological challenges and the lack of adequate data, most empirical studies have resorted to examining year-to-year changes in place of residence. As a result, the impact of past migration experiences on future migration behavior remains poorly understood. To shed light on time interdependencies in individual migration trajectories, this paper examines associations between past moves and subsequent migration behavior from birth to age 50, distinguishing between (i) intraregional mobility, interregional migration and international migration and (ii) return and onward moves. By applying multinominal regression models to retrospective life history data from the Survey of Health, Ageing and Retirement in Europe (SHARE), we demonstrate that the decision to migrate at a particular point in time is embedded within a wider migration history that started in childhood. However, we also find that the effect of past moves diminishes as individuals progress in their migration career. These findings hold for intraregional, interregional and international moves. Altogether, these findings lend support to our theoretical proposition that migration is a learned behavior and highlight the importance of accounting for time interdependency in individuals' migration trajectories.",
+  "authors": [
+    {
+      "raw": "Bernard, Aude",
+      "family": "Bernard",
+      "given": "Aude"
+    },
+    {
+      "raw": "Perales, Francisco",
+      "family": "Perales",
+      "given": "Francisco"
+    }
+  ],
+  "authors_text": "Bernard, Aude; Perales, Francisco",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2021,
+  "doi": "10.1111/padr.12387",
+  "doi_url": "https://doi.org/10.1111/padr.12387",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.12387",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.12387.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Postmarital residence and child sex selection: Evidence from northeastern Japan, 1716-1870",
+  "abstract": "BACKGROUND Child sex is often 'selected' due to parental preference, especially in historical East Asia. Postmarital residence shapes coresident kin availability and conjugal power hierarchies, which may influence the couple's preference and selection on child sex. Empirical evidence, however, remains limited. OBJECTIVE We examine whether postmarital residence influences the sex of births and how such influence interacts with coresident kin, sex composition of surviving children, household landholding, and local economic fluctuation. METHODS We analyze annual panel data of 1,045 wives, transcribed from household registers recording the entire population of two villages between 1716 and 1870 in northeastern Japan, where both virilocal and uxorilocal residence were common. We use discrete-time event-history models via binary and multinomial logistic regressions, with either clustered standard errors or random effects at individual level, to examine the effects of selected factors on the probability of having a male, female, or no birth in the next year. RESULTS Compared with virilocal marriages, uxorilocal marriages are more likely to have a first birth in the next year, especially a female first birth when the household is wealthy. As for second and later births, uxorilocal marriages are less likely to reproduce males in the next year when surviving children are all females, but more likely to reproduce females when surviving children are all males. CONCLUSIONS This study is among the first to provide systemic evidence on how postmarital residence shapes child sex selection. Unlike the common perception of 'missing girls' in East Asia, shaped by specific reproductive context, both girls and boys can be missing in early modern Japan.",
+  "authors": [
+    {
+      "raw": "Dong, Hao",
+      "family": "Dong",
+      "given": "Hao"
+    },
+    {
+      "raw": "Kurosu, Satomi",
+      "family": "Kurosu",
+      "given": "Satomi"
+    }
+  ],
+  "authors_text": "Dong, Hao; Kurosu, Satomi",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.43",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.43",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.43",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.43.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

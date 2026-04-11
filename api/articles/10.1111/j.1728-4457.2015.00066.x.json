@@ -1,0 +1,25 @@
+{
+  "title": "The Demographic Promise of Expanded Female Education: Trends in the Age at First Birth in Malawi",
+  "abstract": "The expansion of female education has been promoted as a way to postpone the age at first birth. In sub-Saharan Africa, the first cohorts to benefit from policies that expanded access to education are now reaching adulthood and beginning childbearing. I investigate whether the expansion of education in Malawi, which implemented a free primary education policy in 1994 and subsequently expanded secondary schooling, has led to a later age at first birth and whether the education gradient in fertility timing has remained stable over time. Despite increases in female grade attainment over the past twenty years, the age at first birth has not changed. Using instrumental variables analysis, I find a significant negative association between grade attainment and age at first birth, suggesting that the deterioration of school quality and the shift in the age pattern of enrollment that accompanied educational expansion may have compromised the transformative potential of education.",
+  "authors": [
+    {
+      "raw": "Grant, Monica J.",
+      "family": "Grant",
+      "given": "Monica J."
+    }
+  ],
+  "authors_text": "Grant, Monica J.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2015,
+  "doi": "10.1111/j.1728-4457.2015.00066.x",
+  "doi_url": "https://doi.org/10.1111/j.1728-4457.2015.00066.x",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fj.1728-4457.2015.00066.x",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/j.1728-4457.2015.00066.x.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "The Spatial Concentration of Southern Whites and Argument-Based Lethal Violence",
+  "abstract": "This analysis examines how the spatial concentration of Southern whites is associated with white argument-based lethal violence. Using a well-known measure of spatial segregation (V, the adjusted P* index) among Southern-born whites in U.S. counties in 2000, the results reveal that the spatial concentration of Southern-born whites is only moderately correlated with their overall representation within counties. This confirms that the quantity of Southerners in an area is not the same thing as their spatial distribution within that same area. Multivariate negative binomial regression models confirm that white argument homicide rates are higher where white Southerners are more spatially concentrated, a link that is confined to Southern counties. The findings illustrate the important role spatial arrangements may play in producing expressive violence among white Southerners. © The University of North Carolina Press.",
+  "authors": [
+    {
+      "raw": "Lee, M. R.",
+      "family": "Lee",
+      "given": "M. R."
+    },
+    {
+      "raw": "Shihadeh, E. S.",
+      "family": "Shihadeh",
+      "given": "E. S."
+    }
+  ],
+  "authors_text": "Lee, M. R.; Shihadeh, E. S.",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2009,
+  "doi": "10.1353/sof.0.0168",
+  "doi_url": "https://doi.org/10.1353/sof.0.0168",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1353%2Fsof.0.0168",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1353/sof.0.0168.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

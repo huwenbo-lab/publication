@@ -1,0 +1,30 @@
+{
+  "title": "Maternal Age and Offspring's Educational Attainment",
+  "abstract": "Using data from the National Longitudinal Study of Adolescent to Adult Health (Add Health), the current study examines which maternal age at birth provides offspring with optimal opportunities for higher educational attainment. The results show that maternal age has a curvilinear relationship with offspring's educational attainment, that is, the offspring of younger and older mothers are distinctly disadvantaged. Maternal ages 31 through 40 are associated with the highest offspring educational attainment, suggesting that women who give birth in their 30s have more favorable characteristics than younger or older mothers. The analysis demonstrates thatwith the exception of early teenage childbearingthe association between maternal age and offspring's educational attainment likely reflects selection patterns in fertility timing, rather than direct within-family effects of maternal age on offspring's educational attainment. Thus, the results provide insufficient evidence to conclude that delaying childbearing beyond age 18 directly benefits or harms offspring's educational attainment.",
+  "authors": [
+    {
+      "raw": "Fishman, Samuel H.",
+      "family": "Fishman",
+      "given": "Samuel H."
+    },
+    {
+      "raw": "Min, Stella",
+      "family": "Min",
+      "given": "Stella"
+    }
+  ],
+  "authors_text": "Fishman, Samuel H.; Min, Stella",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2018,
+  "doi": "10.1111/jomf.12490",
+  "doi_url": "https://doi.org/10.1111/jomf.12490",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12490",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12490.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

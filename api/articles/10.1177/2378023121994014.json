@@ -1,0 +1,30 @@
+{
+  "title": "Differential Privacy in the 2020 Census Will Distort COVID-19 Rates",
+  "abstract": "Scholars rely on accurate population and mortality data to inform efforts regarding the coronavirus disease 2019 (COVID-19) pandemic, with age-specific mortality rates of high importance because of the concentration of COVID-19 deaths at older ages. Population counts, the principal denominators for calculating age-specific mortality rates, will be subject to noise infusion in the United States with the 2020 census through a disclosure avoidance system based on differential privacy. Using empirical COVID-19 mortality curves, the authors show that differential privacy will introduce substantial distortion in COVID-19 mortality rates, sometimes causing mortality rates to exceed 100 percent, hindering our ability to understand the pandemic. This distortion is particularly large for population groupings with fewer than 1,000 persons: 40 percent of all county-level age-sex groupings and 60 percent of race groupings. The U.S. Census Bureau should consider a larger privacy budget, and data users should consider pooling data to minimize differential privacy’s distortion.",
+  "authors": [
+    {
+      "raw": "Hauer, Mathew E.",
+      "family": "Hauer",
+      "given": "Mathew E."
+    },
+    {
+      "raw": "Santos-Lozada, Alexis R.",
+      "family": "Santos-Lozada",
+      "given": "Alexis R."
+    }
+  ],
+  "authors_text": "Hauer, Mathew E.; Santos-Lozada, Alexis R.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2021,
+  "doi": "10.1177/2378023121994014",
+  "doi_url": "https://doi.org/10.1177/2378023121994014",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023121994014",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023121994014.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

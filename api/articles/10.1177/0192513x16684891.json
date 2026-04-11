@@ -1,0 +1,50 @@
+{
+  "title": "Family Predictors of Child Mental Health Conditions",
+  "abstract": "Research suggests that minority children with one mental health condition are more likely than White children to have a secondary mental health condition. However, there are no current studies that test the interaction between race and family resources to examine this apparent racial difference in mental health conditions in children. Yet research suggests that family resources vary by race/ethnicity. This study examines the interaction between family structure and socioeconomic status by race and ethnicity to understand how it predicts the number of mental health conditions among children. Our findings are consistent with the existing literature that children in resource-poor families (single parent, step-parent families, and lower income families) have higher counts of mental health conditions. Yet we also found that children in resource-rich families (two-parent biological families with higher levels of income) in some cases also had higher counts of mental health conditions and this varied by race/ethnicity.",
+  "authors": [
+    {
+      "raw": "Nguyen, Jenny",
+      "family": "Nguyen",
+      "given": "Jenny"
+    },
+    {
+      "raw": "Hinojosa, Melanie Sberna",
+      "family": "Hinojosa",
+      "given": "Melanie Sberna"
+    },
+    {
+      "raw": "Vega, Sara Strickhouser",
+      "family": "Vega",
+      "given": "Sara Strickhouser"
+    },
+    {
+      "raw": "Newman, Rameika",
+      "family": "Newman",
+      "given": "Rameika"
+    },
+    {
+      "raw": "Strohacker, Emily",
+      "family": "Strohacker",
+      "given": "Emily"
+    },
+    {
+      "raw": "Noyongoyo, Boniface",
+      "family": "Noyongoyo",
+      "given": "Boniface"
+    }
+  ],
+  "authors_text": "Nguyen, Jenny; Hinojosa, Melanie Sberna; Vega, Sara Strickhouser; Newman, Rameika; Strohacker, Emily; Noyongoyo, Boniface",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2018,
+  "doi": "10.1177/0192513x16684891",
+  "doi_url": "https://doi.org/10.1177/0192513x16684891",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x16684891",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x16684891.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}

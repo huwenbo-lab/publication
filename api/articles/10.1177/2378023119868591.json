@@ -1,0 +1,30 @@
+{
+  "title": "Network Effects in Blau Space: Imputing Social Context from Survey Data",
+  "abstract": "We develop a method of imputing ego network characteristics for respondents in probability samples of individuals. This imputed network uses the homophily principle to estimate certain properties of a respondent’s core discussion network in the absence of actual network data. These properties measure the potential exposure of respondents to the attitudes, values, beliefs, and so on of their (likely) network alters. We use American National Election Study data to demonstrate that the imputed network features show substantial effects on individual-level measures, such as political attitudes and beliefs. In some cases, the imputed network variable substantially reduces the effects of standard sociodemographic variables, like age and education. We argue that the imputed network variable captures many of the aspects of social context that have been at the core of sociological analysis for decades.",
+  "authors": [
+    {
+      "raw": "McPherson, Miller",
+      "family": "McPherson",
+      "given": "Miller"
+    },
+    {
+      "raw": "Smith, Jeffrey A.",
+      "family": "Smith",
+      "given": "Jeffrey A."
+    }
+  ],
+  "authors_text": "McPherson, Miller; Smith, Jeffrey A.",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2019,
+  "doi": "10.1177/2378023119868591",
+  "doi_url": "https://doi.org/10.1177/2378023119868591",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F2378023119868591",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/2378023119868591.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,35 @@
+{
+  "title": "The Dilemmas of Spatializing Social Issues",
+  "abstract": "Cities have established official neighborhood boundaries for targeted social policy in recent decades. The authors propose that a sociological conception of neighborhoods sensitizes us to the potential consequences of imposing categorical divisions onto a largely continuous urban space. The authors specify this idea in three steps. First, they argue that designations affect people’s behavior toward target neighborhoods. Second, the heterogeneity within official boundaries may lead to informational distortion; disadvantaged areas are denied benefits solely because of location. Third, designations may generate negative reputations for targeted areas or extend existing stigma to new areas. To examine these processes, the authors study Toronto’s Priority Area Program (2006–2013). Difference-in-difference models show significant negative effects of the designation on rent, home value, and building permits. The authors provide evidence of informational distortion through income distribution analysis. An analysis of policy documents, newspaper reports, and secondary literature illustrates the stigmatizing aspects that local community members and observers interpreted about the designation.",
+  "authors": [
+    {
+      "raw": "Calderón-Figueroa, Fernando A.",
+      "family": "Calderón-Figueroa",
+      "given": "Fernando A."
+    },
+    {
+      "raw": "Silver, Daniel",
+      "family": "Silver",
+      "given": "Daniel"
+    },
+    {
+      "raw": "Bidian, Olimpia",
+      "family": "Bidian",
+      "given": "Olimpia"
+    }
+  ],
+  "authors_text": "Calderón-Figueroa, Fernando A.; Silver, Daniel; Bidian, Olimpia",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2022,
+  "doi": "10.1177/23780231221103059",
+  "doi_url": "https://doi.org/10.1177/23780231221103059",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231221103059",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231221103059.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Separating the influence of inequality on burglary and robbery by level of analysis: A multilevel approach",
+  "abstract": "Most research on communities and crime finds a positive association between economic inequality and crime. Various levels of analysis have been used, but much of this research has only analyzed associations at one level of analysis at a time, and most recent research has focused on neighborhoods and smaller levels of analysis. The current investigation measures inequality at three levels simultaneously to distinguish the independent effect of inequality on crime at each level. I combine demographic information from the American Community Survey with crime data from the NIJ Foreclosure and Crime Data Archive for 34 U.S. cities for the years 2005-2009, and use multilevel modeling to separate out effects of inequality at the census block-group, tract, and city level. Findings indicate that the association between income inequality and crime varies by level of analysis, and the association at each level depends on the amount of inequality at other levels.",
+  "authors": [
+    {
+      "raw": "Wenger, Marin R.",
+      "family": "Wenger",
+      "given": "Marin R."
+    }
+  ],
+  "authors_text": "Wenger, Marin R.",
+  "journal": "Social Science Research",
+  "journal_slug": "Social_Science_Research",
+  "year": 2019,
+  "doi": "10.1016/j.ssresearch.2019.03.007",
+  "doi_url": "https://doi.org/10.1016/j.ssresearch.2019.03.007",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.ssresearch.2019.03.007",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.ssresearch.2019.03.007.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Science_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Science_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:31"
+}

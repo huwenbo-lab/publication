@@ -1,0 +1,30 @@
+{
+  "title": "Education and Social Mobility: New Analytical Approaches",
+  "abstract": "This article develops tools for measuring the role of education in intergenerational social class mobility. Sociologists have long sought a method of decomposing the log odds-ratios involving class origins and destinations into a direct part and an indirect part mediated by education. Drawing on recent work we, first, present such a method and, second, suggest ways in which researchers might summarize the mediating role played by education. We apply these methods to examine whether education has come to play an increasing role in intergenerational social class mobility in Britain during the 20th century. Our results suggest that the mediating role of education did not change across the 20th century: roughly half of the association between class origins and destinations is mediated via educational attainment.",
+  "authors": [
+    {
+      "raw": "Breen, R.",
+      "family": "Breen",
+      "given": "R."
+    },
+    {
+      "raw": "Karlson, K. B.",
+      "family": "Karlson",
+      "given": "K. B."
+    }
+  ],
+  "authors_text": "Breen, R.; Karlson, K. B.",
+  "journal": "European Sociological Review",
+  "journal_slug": "European_Sociological_Review",
+  "year": 2013,
+  "doi": "10.1093/esr/jct025",
+  "doi_url": "https://doi.org/10.1093/esr/jct025",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fesr%2Fjct025",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/esr/jct025.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/European_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/European_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:25"
+}

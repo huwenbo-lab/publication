@@ -1,0 +1,35 @@
+{
+  "title": "The distributional impacts of the reduction in remittances in Central America in COVID-19 times",
+  "abstract": "COVID-19 has generated several quarantines and economic lockdowns as the main public policy responses that dramatically affected the dynamic of economic growth and labor markets worldwide. These effects impact remittance inflows to developing countries, in particular those coming from the US, which affect poverty reduction paths in Latin America. Using data from the US labor market and economic performance indicators of the US and remittance recipient countries, this paper estimates the distributional impacts of the change in remittances post-COVID-19 for the region that most rely on remittances, Central America. Results suggest that after COVID-19, remittance inflows are expected to decrease 14 % in the region during 2020 and that effects are heterogeneous among countries: El Salvador and Nicaragua are expected to be the most affected countries while Panama is expected to be the least affected one. The model allows to estimate impacts in other countries in Latin America and the Caribbean. However, due to the lack of household survey availability, this paper only explores the distributional impacts of the change in remittance inflows in Central America. The expected impacts on poverty are also heterogeneous. While poverty in El Salvador is expected to increase by 6 % due to the change in remittances, poverty in Guatemala is expected to increase by 1 %. Results are robust to different specifications.",
+  "authors": [
+    {
+      "raw": "Caruso, German Daniel",
+      "family": "Caruso",
+      "given": "German Daniel"
+    },
+    {
+      "raw": "Cucagna, Maria Emilia",
+      "family": "Cucagna",
+      "given": "Maria Emilia"
+    },
+    {
+      "raw": "Ladronis, Julieta",
+      "family": "Ladronis",
+      "given": "Julieta"
+    }
+  ],
+  "authors_text": "Caruso, German Daniel; Cucagna, Maria Emilia; Ladronis, Julieta",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2020.100567",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2020.100567",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2020.100567",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2020.100567.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

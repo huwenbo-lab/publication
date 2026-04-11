@@ -1,0 +1,30 @@
+{
+  "title": "High schools and intergenerational mobility",
+  "abstract": "While a large literature has documented substantial variation in social inequality based on levels of differentiation within secondary school systems, key mechanisms are largely untested. We explore the link between social inequality and intergenerational mobility in U.S. high schools. We describe patterns in intergenerational mobility in education and in social network composition across high schools in the U.S., using a sample of adolescents from the Add Health study. For each of the roughly 130 middle/high schools in our sample, we estimate intergenerational persistence coefficients: these describe the dependence of a child's educational attainment on their parent's educational attainment. Using information on self-nominated friends of each sampled student, we also calculate measures of friend network segregation by mother's education: these indicate the degree to which the distribution of parental education differs between individual friend networks and the overall school population. We then estimate the impact of this form of social segregation on intergenerational mobility. We find that socially segregated schools are associated with lower intergenerational mobility. Precise measures of social segregation within the school show a greater impact on mobility than measures of spatial segregation in the county where the school is located. Schools may be able to affect intergenerational mobility through influencing the social networks that form among their students.",
+  "authors": [
+    {
+      "raw": "Fletcher, Jason",
+      "family": "Fletcher",
+      "given": "Jason"
+    },
+    {
+      "raw": "Han, Joel Kaiyuan",
+      "family": "Han",
+      "given": "Joel Kaiyuan"
+    }
+  ],
+  "authors_text": "Fletcher, Jason; Han, Joel Kaiyuan",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2021,
+  "doi": "10.1016/j.rssm.2021.100621",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2021.100621",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2021.100621",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2021.100621.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Black, White, or Multiracial? How Socioeconomic and Political Context Shapes Racial Classification",
+  "abstract": "In this study, the authors examine whether and how city-level socioeconomic and political context shape racial classification practices in U.S. Black-White families. The authors link IPUMS 2012–2022, American Community Survey population estimates, and presidential election voting estimates to create a dataset that has 19,907 children across 1,135 Public Use Microdata Areas. Results from multilevel multinomial logistic regression models show that although overall parents are most likely to classify their multiracial children as Black and White, parents are more likely to classify their children as a single race in certain sociopolitical contexts: compared with parents in wealthier areas, parents in disadvantaged areas are more likely to classify their children as only White. Compared with parents in predominantly Democratic areas, parents in predominantly Republican areas are more likely to classify their children as only Black. The authors argue that parents of Black-White children promote racial passing in a low-wage labor market, and armoring in anti-Black political contexts. These findings emphasize the salient role of socioeconomic and political context in the construction of race and contribute to ongoing debates on the future of race and ethnicity in the United States.",
+  "authors": [
+    {
+      "raw": "Ascherio, Marta",
+      "family": "Ascherio",
+      "given": "Marta"
+    },
+    {
+      "raw": "Aragão, Carolina",
+      "family": "Aragão",
+      "given": "Carolina"
+    }
+  ],
+  "authors_text": "Ascherio, Marta; Aragão, Carolina",
+  "journal": "Socius",
+  "journal_slug": "Socius",
+  "year": 2025,
+  "doi": "10.1177/23780231251325772",
+  "doi_url": "https://doi.org/10.1177/23780231251325772",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F23780231251325772",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/23780231251325772.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Socius.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Socius.md"
+  },
+  "generated_at": "2026-04-11T17:57:33"
+}

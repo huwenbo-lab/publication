@@ -1,0 +1,30 @@
+{
+  "title": "A mixed-methods framework for analyzing text data: Integrating computational techniques with qualitative methods in demography",
+  "abstract": "BACKGROUND Automated text analysis is widely used across the social sciences, yet the application of these methods has largely proceeded independently of qualitative analysis. OBJECTIVE This paper explores the advantages of applying automated text analysis to augment traditional qualitative methods in demography. Computational text analysis does not replace close reading or subjective theorizing, but it can provide a complementary set of tools that we believe will be appealing for qualitative demographers. METHODS We apply topic modeling to text data from the Malawi Journals Project as a case study. RESULTS We examine three common issues that demographers face in analyzing qualitative data: large samples, the challenge of comparing qualitative data across external categories, and making data analysis transparent and readily accessible to other scholars. We discuss ways that new tools from machine learning and computer science might help qualitative scholars to address these issues. CONCLUSIONS We believe that there is great promise in mixed-method approaches to analyzing text. New methods that allow better access to data and new ways to approach qualitative data are likely to be fertile ground for research. CONTRIBUTIONS No research, to our knowledge, has used automated text analysis to take an explicitly mixed-method approach to the analysis of textual data. We develop a framework that allows qualitative researchers to do so.",
+  "authors": [
+    {
+      "raw": "Chakrabarti, Parijat",
+      "family": "Chakrabarti",
+      "given": "Parijat"
+    },
+    {
+      "raw": "Frye, Margaret",
+      "family": "Frye",
+      "given": "Margaret"
+    }
+  ],
+  "authors_text": "Chakrabarti, Parijat; Frye, Margaret",
+  "journal": "Demographic Research",
+  "journal_slug": "Demographic_Research",
+  "year": 2017,
+  "doi": "10.4054/demres.2017.37.42",
+  "doi_url": "https://doi.org/10.4054/demres.2017.37.42",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.4054%2Fdemres.2017.37.42",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.4054/demres.2017.37.42.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demographic_Research.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demographic_Research.md"
+  },
+  "generated_at": "2026-04-11T17:57:23"
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Governing Through Police? Housing Market Reliance, Welfare Retrenchment, and Police Budgeting in an Era of Declining Crime",
+  "abstract": "The United States witnessed a dramatic expansion of the penal state from the 1970s to the Great Recession of 2008. One key puzzle is why penal state growth continued unabated long after crime levels peaked in the early 1990s. We focus on local policing and consider the relationship between growing city-level law enforcement expenditures and two shifts: first, the move toward an economy increasingly organized around residential real estate; and second, city-level welfare retrenchment. We argue that increasing economic reliance on housing price appreciation during the late 1990s and the 2000s heightened demand for expanded law enforcement even as actual risks of crime victimization fell. At the same time, cities increasingly addressed social problems through criminal justice-rather than social service-capacities. We assess these arguments using a dataset of 171 cities' police expenditures between 1992 and 2010. Results of a dynamic panel model indicate that places with more pronounced reliance on housing price growth and mortgage investment exhibited correspondingly greater growth of local law enforcement, as did places with decreased social service spending.",
+  "authors": [
+    {
+      "raw": "Beck, Brenden",
+      "family": "Beck",
+      "given": "Brenden"
+    },
+    {
+      "raw": "Goldstein, Adam",
+      "family": "Goldstein",
+      "given": "Adam"
+    }
+  ],
+  "authors_text": "Beck, Brenden; Goldstein, Adam",
+  "journal": "Social Forces",
+  "journal_slug": "Social_Forces",
+  "year": 2018,
+  "doi": "10.1093/sf/sox076",
+  "doi_url": "https://doi.org/10.1093/sf/sox076",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1093%2Fsf%2Fsox076",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1093/sf/sox076.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Social_Forces.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Social_Forces.md"
+  },
+  "generated_at": "2026-04-11T17:57:30"
+}

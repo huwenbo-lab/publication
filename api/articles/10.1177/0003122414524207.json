@@ -1,0 +1,30 @@
+{
+  "title": "Who's the Boss? Explaining Gender Inequality in Entrepreneurial Teams",
+  "abstract": "Sociologists have examined gender inequalities across a wide array of social contexts. Yet, questions remain regarding how inequalities arise among autonomous groups pursuing economic goals. In this article, we investigate mixed-sex entrepreneurial teams to unpack the mechanisms by which gender inequality in leadership emerges, despite strong pressures toward merit-based organizing principles. We theorize the potentially competing relationships between merit and gender and explore the contingencies moderating their effects. Drawing on a unique, nationally representative dataset of entrepreneurial teams sampled from the U.S. population in 2005, we use conditional logistic regression to test our hypotheses. We demonstrate that merit's effect becomes much larger when multiple merit-based criteria provide consistent predictions for which team member is superior to others, and when entrepreneurial founders adopt bureaucratic templates to construct new ventures. However, gender stereotypes of leaders pervasively constrain women's access to power positions, and gender's effect intensifies when spousal relationships are involved. Women have reduced chances to be in charge if they co-found new businesses with their husbands, and some family conditions further modify women's chances, such as husbands' employment and the presence of children.",
+  "authors": [
+    {
+      "raw": "Yang, Tiantian mm",
+      "family": "Yang",
+      "given": "Tiantian mm"
+    },
+    {
+      "raw": "Aldrich, Howard E.",
+      "family": "Aldrich",
+      "given": "Howard E."
+    }
+  ],
+  "authors_text": "Yang, Tiantian mm; Aldrich, Howard E.",
+  "journal": "American Sociological Review",
+  "journal_slug": "American_Sociological_Review",
+  "year": 2014,
+  "doi": "10.1177/0003122414524207",
+  "doi_url": "https://doi.org/10.1177/0003122414524207",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0003122414524207",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0003122414524207.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/American_Sociological_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/American_Sociological_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:21"
+}

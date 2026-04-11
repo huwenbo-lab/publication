@@ -1,0 +1,40 @@
+{
+  "title": "Transition to Parenthood: The Role of Social Interaction and Endogenous Networks",
+  "abstract": "Abstract Empirical studies indicate that the transition to parenthood is influenced by an individual’s peer group. To study the mechanisms creating interdependencies across individuals’ transition to parenthood and its timing, we apply an agent-based simulation model. We build a one-sex model and provide agents with three different characteristics: age, intended education, and parity. Agents endogenously form their network based on social closeness. Network members may then influence the agents’ transition to higher parity levels. Our numerical simulations indicate that accounting for social interactions can explain the shift of first-birth probabilities in Austria during the period 1984 to 2004. Moreover, we apply our model to forecast age-specific fertility rates up to 2016.",
+  "authors": [
+    {
+      "raw": "Diaz, Belinda Aparicio",
+      "family": "Diaz",
+      "given": "Belinda Aparicio"
+    },
+    {
+      "raw": "Fent, Thomas",
+      "family": "Fent",
+      "given": "Thomas"
+    },
+    {
+      "raw": "Prskawetz, Alexia",
+      "family": "Prskawetz",
+      "given": "Alexia"
+    },
+    {
+      "raw": "Bernardi, Laura",
+      "family": "Bernardi",
+      "given": "Laura"
+    }
+  ],
+  "authors_text": "Diaz, Belinda Aparicio; Fent, Thomas; Prskawetz, Alexia; Bernardi, Laura",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2011,
+  "doi": "10.1007/s13524-011-0023-6",
+  "doi_url": "https://doi.org/10.1007/s13524-011-0023-6",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-011-0023-6",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-011-0023-6.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

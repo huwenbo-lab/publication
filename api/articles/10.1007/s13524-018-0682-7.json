@@ -1,0 +1,30 @@
+{
+  "title": "Effect of Retirement on Cognition: Evidence From the Irish Marriage Bar",
+  "abstract": "This study empirically investigates the relationship between retirement duration and cognition among older Irish women using microdata collected in the third wave of The Irish Longitudinal Study on Ageing. Ordinary least squares (OLS) regression estimates indicate that the longer an individual has been retired, the lower the cognitive functioning, with other factors thought to affect cognition held constant (e.g., age, education, and early-life socioeconomic conditions). However, retirement is potentially endogenous with respect to cognition because cognition may affect decisions relating to retiring. If so, the OLS estimates will be biased. To test for this possibility, instrumental variable (IV) estimation is used. This method requires an IV that is highly correlated with retirement duration but not correlated with cognition. The instrument used in this study is based on the so-called marriage bar, the legal requirement that women leave paid employment upon getting married, which took effect in Ireland in the 1930s and was abolished only in the 1970s. The IV regression estimates, along with formal statistical tests, provide no evidence in support of the view that cognition affects retirement decisions. The finding of a small negative effect of retirement duration on cognition is robust to alternative empirical specifications. These findings are discussed in the wider context of the effects of work-like and work-related activities on cognition.",
+  "authors": [
+    {
+      "raw": "Mosca, Irene",
+      "family": "Mosca",
+      "given": "Irene"
+    },
+    {
+      "raw": "Wright, Robert E.",
+      "family": "Wright",
+      "given": "Robert E."
+    }
+  ],
+  "authors_text": "Mosca, Irene; Wright, Robert E.",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2018,
+  "doi": "10.1007/s13524-018-0682-7",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0682-7",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0682-7",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0682-7.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

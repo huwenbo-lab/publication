@@ -1,0 +1,30 @@
+{
+  "title": "Fertility Drain or Fertility Gain? Emigration and Fertility During the Great Recession in Italy",
+  "abstract": "How does emigration affect fertility in the country of origin? We address this question by estimating counterfactual fertility during the Great Recession in order to understand what the effect of the recession on fertility would be in the absence of emigration. Between 2009 and 2014, Southern European countries suffered from harsh economic instability, which triggered a sharp drop in fertility and a spike in emigration. We focus on Italy, exploiting the richness of the Italian Administrative Registry of Italians Residing Abroad (AIRE), which records information about all Italian citizens moving their residence abroad, as well as Italian birth records. Using an instrumental variable approach, which helps overcome endogeneity issues in the fertility-migration relationship, we find a positive impact of emigration on the total fertility rate at the Italian province level. This result suggests that emigrants are selected among those individuals who have a lower risk of having children. Therefore, in the absence of emigration, counterfactual fertility would have been lower than it actually is. Such a positive effect of out-migration on fertility in the area of origin could thereby lead to an underestimation of the effect of the recession on fertility.",
+  "authors": [
+    {
+      "raw": "Anelli, Massimo",
+      "family": "Anelli",
+      "given": "Massimo"
+    },
+    {
+      "raw": "Balbo, Nicoletta",
+      "family": "Balbo",
+      "given": "Nicoletta"
+    }
+  ],
+  "authors_text": "Anelli, Massimo; Balbo, Nicoletta",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2021,
+  "doi": "10.1215/00703370-9001598",
+  "doi_url": "https://doi.org/10.1215/00703370-9001598",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1215%2F00703370-9001598",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1215/00703370-9001598.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

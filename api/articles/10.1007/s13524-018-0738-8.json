@@ -1,0 +1,35 @@
+{
+  "title": "Income-Related Gaps in Early Child Cognitive Development: Why Are They Larger in the United States Than in the United Kingdom, Australia, and Canada?",
+  "abstract": "Previous research has documented significantly larger income-related gaps in children's early cognitive development in the United States than in the United Kingdom, Canada, and Australia. In this study, we investigate the extent to which this is a result of a more unequal income distribution in the United States. We show that although incomes are more unequal in the United States than elsewhere, a given difference in real income is associated with larger gaps in child test scores there than in the three other countries. In particular, high-income families in the United States appear to translate the same amount of financial resources into greater cognitive advantages relative to the middle-income group than those in the other countries studied. We compare inequalities in other kinds of family characteristics and show that higher income levels are disproportionately concentrated among families with advantageous demographic characteristics in the United States. Our results underline the fact that the same degree of income inequality can translate into different disparities in child development, depending on the distribution of other family resources.",
+  "authors": [
+    {
+      "raw": "Bradbury, Bruce",
+      "family": "Bradbury",
+      "given": "Bruce"
+    },
+    {
+      "raw": "Waldfogel, Jane",
+      "family": "Waldfogel",
+      "given": "Jane"
+    },
+    {
+      "raw": "Washbrook, Elizabeth",
+      "family": "Washbrook",
+      "given": "Elizabeth"
+    }
+  ],
+  "authors_text": "Bradbury, Bruce; Waldfogel, Jane; Washbrook, Elizabeth",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2019,
+  "doi": "10.1007/s13524-018-0738-8",
+  "doi_url": "https://doi.org/10.1007/s13524-018-0738-8",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1007%2Fs13524-018-0738-8",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1007/s13524-018-0738-8.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

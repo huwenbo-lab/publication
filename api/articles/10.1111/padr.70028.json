@@ -1,0 +1,30 @@
+{
+  "title": "The Gender Gap in Life Expectancy in the United States and Deaths of Despair: Trends From 1979 to 2022",
+  "abstract": "The extent to which women outlive men in the United States has fluctuated over the 20th century, with periods of equalization, stagnation, and increase. Women's life expectancy advantage declined for roughly four decades but resurged after 2012. This coincided with an increase in deaths of despair (deaths due to suicide, alcohol, and drugs), for which rates are higher among men than women. We decompose the gender gap in life expectancy from 1979 to 2022 in the United States by cause of death and find that deaths of despair explain the vast majority of the resurgence of women's life expectancy advantage since 2012, while its contribution to trends before 2012 is small relative to cardiovascular disease, lung cancer, and other causes of death. Drug-related mortality drives almost all of the post-2012 growth for White, Black, and Hispanic Americans alike, although its contribution is much higher for those without a college degree. Over the longer term, we show that deaths of despair have significantly offset the equalization of the gender gap in life expectancy since 1979. Our paper contributes to the literature by providing new evidence on the role of anomic social processes as recent drivers of gender disparities in life expectancy.",
+  "authors": [
+    {
+      "raw": "Gonzalez-Velastin, Rodrigo",
+      "family": "Gonzalez-Velastin",
+      "given": "Rodrigo"
+    },
+    {
+      "raw": "Schwartz, Christine R.",
+      "family": "Schwartz",
+      "given": "Christine R."
+    }
+  ],
+  "authors_text": "Gonzalez-Velastin, Rodrigo; Schwartz, Christine R.",
+  "journal": "Population and Development Review",
+  "journal_slug": "Population_and_Development_Review",
+  "year": 2025,
+  "doi": "10.1111/padr.70028",
+  "doi_url": "https://doi.org/10.1111/padr.70028",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fpadr.70028",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/padr.70028.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Population_and_Development_Review.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Population_and_Development_Review.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

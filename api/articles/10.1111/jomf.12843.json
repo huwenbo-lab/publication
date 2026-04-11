@@ -1,0 +1,40 @@
+{
+  "title": "Parenting stress in lockdown: The role of changes in Children's routines and Parents' relationship with live-in grandparents",
+  "abstract": "Objectives This study examined parenting stress in relation to changes in preschool-aged children's routines and change in relationship quality between parents and live-in grandparents caused by the lockdown. Background The Chinese city of Wuhan was the first city in the world to enforce a strict citywide lockdown to curtail the spread of Covid-19. The 76-day (1/23-4/8/2020) lockdown affected about 13 million of Wuhan's residents, many of whom were families with young children. Method Survey data were collected from 130 parents in Wuhan on parenting stress, children's routines in learning, play/exercise, screen exposure and sleep before, during and after the lockdown. Results The lockdown led to a significant decrease in the amount of time that the children spent daily in playing/exercise and learning, but a significant increase in nighttime sleep and screen exposure. Hierarchical linear regression analyses showed that controlling for other variables, the following significantly predicted parenting stress: decrease in learning time, parent-grandparent relationship deterioration, and the interaction between decrease in learning time and parent-grandparent relationship improvement. Conclusion Minimizing loss of learning time and preventing parent-grandparent relationship deterioration could help reduce parenting stress during the lockdown.",
+  "authors": [
+    {
+      "raw": "Tan, Tony Xing",
+      "family": "Tan",
+      "given": "Tony Xing"
+    },
+    {
+      "raw": "Wang, Peng",
+      "family": "Wang",
+      "given": "Peng"
+    },
+    {
+      "raw": "Li, Gen",
+      "family": "Li",
+      "given": "Gen"
+    },
+    {
+      "raw": "Lane-Holbert, Mark",
+      "family": "Lane-Holbert",
+      "given": "Mark"
+    }
+  ],
+  "authors_text": "Tan, Tony Xing; Wang, Peng; Li, Gen; Lane-Holbert, Mark",
+  "journal": "Journal of Marriage and Family",
+  "journal_slug": "Journal_of_Marriage_and_Family",
+  "year": 2022,
+  "doi": "10.1111/jomf.12843",
+  "doi_url": "https://doi.org/10.1111/jomf.12843",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1111%2Fjomf.12843",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1111/jomf.12843.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Marriage_and_Family.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Journal_of_Marriage_and_Family.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

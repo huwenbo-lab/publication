@@ -1,0 +1,35 @@
+{
+  "title": "Career start abroad: The implications of graduate migration for social inequality",
+  "abstract": "Integrating research on school-to-work transitions, international migration, and social inequality, this article investigates the social stratification of international school-to-work transitions and their payoff. Existing research shows that spatial mobility can amplify social inequalities both through social selectivity in access to mobility and through heterogeneity in its labor market outcomes. Building on these findings, we investigate the social selectivity of international school-to-work transitions (ISWT) and the wage difference between ISWT and national school-to-work transitions (NSWT) among graduates from higher education institutions in Germany. Drawing on the German Emigration and Remigration Panel Study and the DZHW Graduate Panel, we account for selection on observables through entropy balancing. Our analysis reveals that graduates from advantaged social origins are more likely to opt for ISWT than graduates from disadvantaged social origins. Furthermore, we find that ISWT are associated with higher wages than NSWT. Notably, the wage benefits of ISWT are relatively higher among graduates from disadvantaged social origins than among graduates from advantaged social origins. Whereas our findings regarding the social selectivity of ISWT are in line with the literature on the reproduction of social inequality through spatial mobility, our findings on the origin-specific returns to ISWT stand out inasmuch graduates from disadvantaged origins benefit relatively more.",
+  "authors": [
+    {
+      "raw": "Witte, Nils",
+      "family": "Witte",
+      "given": "Nils"
+    },
+    {
+      "raw": "Stawarz, Nico",
+      "family": "Stawarz",
+      "given": "Nico"
+    },
+    {
+      "raw": "Netz, Nicolai",
+      "family": "Netz",
+      "given": "Nicolai"
+    }
+  ],
+  "authors_text": "Witte, Nils; Stawarz, Nico; Netz, Nicolai",
+  "journal": "Research in Social Stratification and Mobility",
+  "journal_slug": "Research_in_Social_Stratification_and_Mobility",
+  "year": 2023,
+  "doi": "10.1016/j.rssm.2023.100763",
+  "doi_url": "https://doi.org/10.1016/j.rssm.2023.100763",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1016%2Fj.rssm.2023.100763",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1016/j.rssm.2023.100763.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Research_in_Social_Stratification_and_Mobility.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2020_2026/Research_in_Social_Stratification_and_Mobility.md"
+  },
+  "generated_at": "2026-04-11T17:57:29"
+}

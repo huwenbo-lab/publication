@@ -1,0 +1,35 @@
+{
+  "title": "The changing structure of school segregation: Measurement and evidence of multiracial metropolitan-area school segregation, 1989–1995",
+  "abstract": "Abstract In this paper we examine aggregate patterns and trends in segregation among white (non-Hispanic), black, Hispanic, and Asian public school students in 217 metropolitan areas during the period 1989-1995. We first describe a set of methodological tools that enable us both to measure the mutual segregation among multiple racial groups and to partition total metropolitan-area school segregation into geographic and racial components. Then we use these tools to examine patterns and trends in metropolitan-area school segregation. We find that the average levels of multiracial school segregation have been unchanged from 1989 to 1995, but that this stability masks important shifts in the geographic and racial components making up average levels of total metropolitan school segregation. In particular, segregation between non-Hispanic white students and all other students has increased, on average, while segregation among black, Hispanic, and Asian student groups has declined. In addition, the contribution to average levels of total metropolitan segregation due to between-district segregation has grown, whereas the relative contribution of within-district segregation has declined.",
+  "authors": [
+    {
+      "raw": "Reardon, Sean F.",
+      "family": "Reardon",
+      "given": "Sean F."
+    },
+    {
+      "raw": "Yun, John T.",
+      "family": "Yun",
+      "given": "John T."
+    },
+    {
+      "raw": "Eitle, Tamela McNulty",
+      "family": "Eitle",
+      "given": "Tamela McNulty"
+    }
+  ],
+  "authors_text": "Reardon, Sean F.; Yun, John T.; Eitle, Tamela McNulty",
+  "journal": "Demography",
+  "journal_slug": "Demography",
+  "year": 2000,
+  "doi": "10.2307/2648047",
+  "doi_url": "https://doi.org/10.2307/2648047",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.2307%2F2648047",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.2307/2648047.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Demography.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2000_2009/Demography.md"
+  },
+  "generated_at": "2026-04-11T17:57:24"
+}

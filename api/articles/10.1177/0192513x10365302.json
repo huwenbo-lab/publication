@@ -1,0 +1,25 @@
+{
+  "title": "Connecting the Demographic Dots: Geographic Mobility and Birth Intentions",
+  "abstract": "Having a child is a major determinant of geographic mobility. Little is known, however, about the opposite process—whether geographic mobility is a determinant of fertility. Drawing on social and human capital theories and research on fertility and migration to develop competing hypotheses, the author examines the effects of mobility on changes in birth intentions among married couples. The data are from a U.S. national sample of married couples interviewed five times between 1980 and 1997, with a final sample size of 3,953 person records. Results from multinomial logistic regression equations that control for clustering show conclusively that both short- and long-distance moves increase the odds that couples change their birth intentions, although in both positive and negative directions (i.e., bidirectional). These effects of mobility vary across different levels of human and social capital, with a trend indicating that couples desire children at higher levels of both forms of capital.",
+  "authors": [
+    {
+      "raw": "Myers, Scott M.",
+      "family": "Myers",
+      "given": "Scott M."
+    }
+  ],
+  "authors_text": "Myers, Scott M.",
+  "journal": "Journal of Family Issues",
+  "journal_slug": "Journal_of_Family_Issues",
+  "year": 2010,
+  "doi": "10.1177/0192513x10365302",
+  "doi_url": "https://doi.org/10.1177/0192513x10365302",
+  "share_url": "https://huwenbo-lab.github.io/publication/#doi/10.1177%2F0192513x10365302",
+  "api_url": "https://huwenbo-lab.github.io/publication/api/articles/10.1177/0192513x10365302.json",
+  "lit_db": {
+    "overview": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/overview.md",
+    "journal_titles": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/titles/by_journal/Journal_of_Family_Issues.md",
+    "journal_abstracts": "https://raw.githubusercontent.com/huwenbo-lab/publication/main/lit_db/abstracts/2010_2019/Journal_of_Family_Issues.md"
+  },
+  "generated_at": "2026-04-11T17:57:27"
+}
